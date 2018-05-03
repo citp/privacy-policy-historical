@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clearlogin.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203123728id_/http%3A//www.clearlogin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearlogin.com privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503111801id_/http%3A//www.clearlogin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Clearlogin
 
@@ -49,6 +49,10 @@ Clearlogin does not knowingly collect personally identifiable information from c
 ### Disconnecting your Clearlogin Account from Third Party Websites
 
 You will be able to connect your Clearlogin account to third party accounts. BY CONNECTING YOUR CLEARLOGIN ACCOUNT TO YOUR THIRD PARTY ACCOUNT, YOU ACKNOWLEDGE AND AGREE THAT YOU ARE CONSENTING TO THE CONTINUOUS RELEASE OF INFORMATION ABOUT YOU TO OTHERS (IN ACCORDANCE WITH YOUR PRIVACY SETTINGS ON THOSE THIRD PARTY SITES). IF YOU DO NOT WANT INFORMATION ABOUT YOU, INCLUDING PERSONALLY IDENTIFYING INFORMATION, TO BE SHARED INTHIS MANNER, DO NOT USE THIS FEATURE. You may disconnect your account from a third party account at any time. Users may disconnect their accounts from third-party websites by using the customer administration tools supplied with the product.
+
+### Google OAuth Scopes
+
+Certain actions on Clearlogin will require authorization from Google to complete. To login to the Admin or User site with your Google account, we will request access to your email and profile to either identify your user in our system or create a new one. When you grant us admin access on the G Suite Sync Settings page we will request access to your G Suite User Directory for the purpose of Password Sync’ing from Clearlogin to G Suite, as well as for Directory Sync’ing from Google to Clearlogin Directory. When you grant us admin access on a G Suite Identity Source we will request access to your G Suite User Directory for the purpose of authenticating users into your Clearlogin User Dashboard and to update passwords within G Suite when a user performs a password reset. We will also request access to your Group Directory for use with G Suite Filters in Access Rules.
 
 ### Opt-Out & Unsubscribe
 
