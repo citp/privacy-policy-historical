@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the demotivation.us privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101122627id_/http%3A//www.demotivation.us/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demotivation.us privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503024354id_/http%3A//www.demotivation.us/policy.html) for the most accurate reproduction.*
 
 # Demotivational Posters and Demotivational Videos on Demotivation.us
 
