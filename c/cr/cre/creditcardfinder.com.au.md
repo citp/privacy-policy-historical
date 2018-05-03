@@ -1,21 +1,22 @@
-> *The following text is extracted and transformed from the creditcardfinder.com.au privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228131910id_/https%3A//www.finder.com.au/terms-and-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditcardfinder.com.au privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503190721id_/https%3A//www.finder.com.au/wordpress/terms-and-conditions) for the most accurate reproduction.*
 
 # Terms of Use, Disclaimer & Privacy Policy | finder.com.au
 
   1. These are the Terms and Conditions of use of the website. By using the website, you agree to abide by these Terms and Conditions of Use.
-  2. Hive Empire Pty Ltd (ABN 18 118 725 125) trading as finder.com.au ("finder") provides factual information, general advice and services on financial products as a Corporate Authorised Representative (432664) of Advice Evolution Pty Ltd AFSL 342880. Please [refer to our FSG - Financial Products](https://www.finder.com.au/resources/Finder-Financial-Services-Guide.pdf). We also provide general advice on credit products under our own Credit Licence ACL 385509. Please [refer to our Credit Guide](https://www.finder.com.au/resources/Hive_Empire_Credit.pdf) for more information. We are also a Corporate Authorised Representative of Countrywide Tolstrup Financial Services Group Pty Ltd. ABN 51 586 953 292 AFSL 244436 for the provision of general advice on general insurance products. Please [refer to our FSG - General Insurance](https://www.finder.com.au/resources/Finder-Financial-Services-Guide-for-General-Insurance.pdf).
+  2. Hive Empire Pty Ltd (ABN 18 118 785 125) trading as finder.com.au ("finder") provides factual information, general advice and services on financial products as a Corporate Authorised Representative (432664) of Advice Evolution Pty Ltd AFSL 342880. Please [refer to our FSG - Financial Products](https://www.finder.com.au/resources/Finder-Financial-Services-Guide.pdf). We also provide general advice on credit products under our own Credit Licence ACL 385509. Please [refer to our Credit Guide](https://www.finder.com.au/resources/Hive_Empire_Credit.pdf) for more information. We are also a Corporate Authorised Representative of Countrywide Tolstrup Financial Services Group Pty Ltd. ABN 51 586 953 292 (AFSL 244436) for the provision of general advice on general insurance products. Please [refer to our FSG - General Insurance](https://www.finder.com.au/resources/Finder-Financial-Services-Guide-for-General-Insurance.pdf). We are also a Corporate Authorised Representative of Bespoke Portfolio Pty Ltd ABN 136 853 819 (AFSL 341991) for the provision of general advice on derivatives.
   3. finder is an information service that provides you with the tools and information you need to compare a wide range of products, providers and services. We do not provide information on all available products, providers or services so please appreciate that there may be other options available to you then the products, providers or services covered by our service. You should consider seeking financial advice and consider your own personal financial circumstances when comparing products.
   4. We are not a product manufacturer nor are we owned by a bank, insurer or product manufacturer. While in some cases we may provide you with general financial product advice we don't, and won't, recommend specific providers, products or services. We want to provide you with the information and confidence to make an informed decision but we don't know enough about you to provide you with personal advice about your specific needs or circumstances.
   5. In order to provide you with quotes, comparisons, factual information or advice we may need to collect some basic information about you such as your age, gender and occupation. By clicking "quote" or "enquiry" buttons you're authorising us to provide your information to an adviser or broker who will call you to provide you with personal advice about your options and available products. By doing this you are also consenting to us retaining your personal information so that we can contact you about other relevant services that we think might interest you (but you can "opt out" of this process at any time by simply withdrawing your consent).
   6. We compare insurance data, basic information such as interest rates and application fees. We do not assess if a particular product is suitable for you. Providing or obtaining an estimated insurance quote through us does not guarantee you can get the insurance. Acceptance by insurance companies is based on things like occupation, health and lifestyle. Please understand that your particular circumstances, choices and preferences may also restrict the number of products available to you.
   7. By providing you with the ability to apply for a credit card or loan we are not guaranteeing that your application will be approved. Your application for credit products is subject to the Provider's terms and conditions as well as their application and lending criteria.
   8. We endeavour to ensure that the information and other content on our website is accurate and current but we can't guarantee the accuracy or currency of the information on which we've relied. We suggest that you use your own judgment and read the Product Disclosure Statement before you make any decision about a financial product covered by our site. If you find an error in our data please let us know and we'll correct our site.
-  9. To the extent permitted by law, finder disclaims all liability to any person in relation to use of the website, and you waive all claims against finder in relation to your use of the website. finder accepts no liability for any interference with or damage to a user's computer, software or data occurring in connection with or relating to the website or its use or any website linked to this website, and does not represent or warrant that applications initiated through the website will in fact be received or made to the intended recipient. Users are advised to confirm the application by other means.
-  10. The website includes links to other websites operated by community, business and government. These linked websites will have their own terms and conditions of use and you should familiarise yourself with these. All linked websites are linked "as is" and finder does not sponsor, endorse or necessarily approve of any material on websites linked from or to this site; does not make any warranties or representations regarding the quality, accuracy, merchantability or fitness for purpose of any material on websites linked from or to this site; does not make any warranties or representations that material on other websites to which this site is linked does not infringe the intellectual property rights of any person anywhere in the world; and does not authorise the infringement of any intellectual property rights contained in material in other websites by linking the website to those other websites.
-  11. If you have a complaint or dispute in relation our service, please email our complaints handling office using the following email address: [complaints@finder.com.au](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=complaints@hiveempire.com)
-  12. The information and data on the website is subject to change without notice.
-  13. finder may revise the Terms and Conditions of Use at any time by updating this posting.
-  14. Unless expressly stated otherwise, finder claims copyright ownership of all material on the website. You may download, display, print and reproduce this material in unaltered form (attaching a copy of this notice) for your personal, non-commercial use. finder reserves the right to revoke such permission at any time. Apart from this permission and uses permitted under the Copyright Act 1968 (Cth), all other rights are reserved.
+  9. Policy or product costs listed on our site (particularly in respect to insurance products) are approximations based on available data. The Provider of the product ultimately determines the price and terms of the cover they provide and the actual cost charged by the Provider may vary from the approximation quoted by us.
+  10. To the extent permitted by law, finder disclaims all liability to any person in relation to use of the website, and you waive all claims against finder in relation to your use of the website. finder accepts no liability for any interference with or damage to a user's computer, software or data occurring in connection with or relating to the website or its use or any website linked to this website, and does not represent or warrant that applications initiated through the website will in fact be received or made to the intended recipient. Users are advised to confirm the application by other means.
+  11. The website includes links to other websites operated by community, business and government. These linked websites will have their own terms and conditions of use and you should familiarise yourself with these. All linked websites are linked "as is" and finder does not sponsor, endorse or necessarily approve of any material on websites linked from or to this site; does not make any warranties or representations regarding the quality, accuracy, merchantability or fitness for purpose of any material on websites linked from or to this site; does not make any warranties or representations that material on other websites to which this site is linked does not infringe the intellectual property rights of any person anywhere in the world; and does not authorise the infringement of any intellectual property rights contained in material in other websites by linking the website to those other websites.
+  12. If you have a complaint or dispute in relation our service, please email our complaints handling office using the following email address: [complaints@finder.com.au](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=complaints@hiveempire.com)
+  13. The information and data on the website is subject to change without notice.
+  14. finder may revise the Terms and Conditions of Use at any time by updating this posting.
+  15. Unless expressly stated otherwise, finder claims copyright ownership of all material on the website. You may download, display, print and reproduce this material in unaltered form (attaching a copy of this notice) for your personal, non-commercial use. finder reserves the right to revoke such permission at any time. Apart from this permission and uses permitted under the Copyright Act 1968 (Cth), all other rights are reserved.
 
 
 
@@ -44,13 +45,15 @@
 
 
 
-## Obtaining your Credit Score
+## Obtaining your Credit Report
 
-You can obtain your current Credit Score from our Site but you need to register to ensure you can be appropriately identified.
+You can obtain your current Credit Report, and in some cases your Report and file, from our Site but you need to be a registered user to receive your report.
 
-Rest assured that we take your privacy seriously. Please read our [](https://www.finder.com.au/terms-and-conditions) to understand how we use and secure the personal information you provide to us when using our Services.
+You need to be a registered user so that we can ensure that you've been appropriately identified.
 
-We will only ask you for the information we need to provide you with the services, and information you request from us. In order to obtain your C, you need to be adequately identified and your information verified with the Issuer or official record holder. Where we retain your information, it will only be the information you have provided to us or the information you have asked us to source from third-parties and provide to you.
+Rest assured that we take your privacy seriously. Please read our [Privacy Policy](https://www.finder.com.au/terms-and-conditions) to understand how we use and secure the personal information you provide to us when using our Services.
+
+We will only ask you for the information we need to provide you with the services, and information you request from us. In order to obtain your C, you need to be adequately identified and your information verified with the Issuer or official record holder. Where we retain your information, it will only be the information you have provided to us or the information you have asked us to source from third-parties and provide to you and it will only be retained to provide you with your Credit Report.
 
 Generally, your personal information will only be collected and used with your express permission, but we will retain and use aggregated and non-personally identifiable data for other purposes.
 
@@ -59,6 +62,8 @@ Please appreciate that user comparisons are based on dynamic averages derived fr
 Rest assured that we will, and do, take reasonable steps to protect the personal information we hold from misuse, loss or unauthorised use.
 
 We won't ask you for personal information about someone else, but if you provide us with information about another person, you need to ensure that you are authorised to disclose that information to us.
+
+## Using the Energy Calculator
 
 The Energy Calculator available on our site is owned and maintained by a third-party provider.
 
@@ -73,7 +78,7 @@ We encourage you to make your own investigation, or obtain advice, before you ac
 
 ###  **Registration and Responsibilities.**
 
-To obtain your Credit Score or use our secure Services you must
+To obtain your Credit Report or use our secure Services you must
 
   * be at least eighteen (18) years of age;
   * have not previously been suspended or removed from our Site;
@@ -81,11 +86,11 @@ To obtain your Credit Score or use our secure Services you must
 
 
 
- **Registration**. In most cases, you can engage with our Site anonymously. But, if you want to access some features of our Site to obtain your Credit Score or register for NBN updates, you need to be a registered user.
+ **Registration**. In most cases, you can engage with our Site anonymously. But, if you want to access some features of our Site to obtain your Credit Report or register for NBN updates, you need to be a registered user.
 
 To register for an account, you need to provide certain identifying information about yourself, including but not limited to your email address and other contact information and create a user name and password.
 
-By applying for your Credit Score, you're agreeing to provide current and accurate information about yourself and authorising us to access the Document Verification Service to confirm that information.
+By applying for your Credit Report, you're agreeing to provide current and accurate information about yourself and authorising us to access the Document Verification Service to confirm that information.
 
 Remember, the community is built on us all being direct, honest and open, so by registering as a user you are agreeing to conduct yourself in accordance with these Terms.
 
@@ -94,6 +99,102 @@ Remember, the community is built on us all being direct, honest and open, so by 
 It's best not to share your account details but, if you do share your information with anyone else, you're authorizing them to act on your behalf and authorizing us to accept their submissions and instructions.
 
 If you are worried that your account is not secure, please email [privacy@finder.com.au](mailto:support@finder.com) and we'll help you solve that problem.
+
+## How we handle feedback and complaints
+
+finder.com.au ("finder") aspires to helping you make better decisions.
+
+We hope you'll be delighted with the tools, services and analysis we make available to you, but if you are not delighted, we are keen to know when and why you're not satisfied so that we can improve.
+
+This document outlines our approach to handling critical feedback, complaints and queries but more detailed information is contained in the [Terms of Use](https://www.finder.com.au/terms-and-conditions) on our site. If you need a reminder of the terms and conditions you accepted when you became a user of our services click [here](https://www.finder.com.au/terms-and-conditions).
+
+Rest assured that we genuinely appreciate your feedback which is why we've tried to make it simple for you to provide us with your views. You can simply use our website to [report](https://www.finder.com.au/contact-us) any problems or issues you have with us, our site or the services we provide.
+
+Whatever problems or concerns you may have we'll do our best to resolve them quickly, transparently and fairly.
+
+Unfortunately, that's not always possible but if you are unhappy with our response we also have a formal disputes resolution process in place.
+
+### Feedback, complaints and Internal Dispute Resolution.
+
+At finder, we believe that all feedback - even criticism or complaints - provide us with insights that can only make our business better. So we legitimately welcome user feedback and encourage them to tell us what we're doing well and where we can improve.
+
+We have Internal Dispute Resolution (IDR) processes that generally accord with International Standards and reflect our commitment to these principles:
+
+ ** _Commitment_**
+
+The entire Management Team believe that feedback is a gift and often your first point of contact will be one of our Executive Team. We supplement our top-down commitment to effective IDR with adequate staff training, appropriate resourcing and effective management and reporting systems.
+
+ ** _Fairness_**
+
+Our IDR approach is designed to allow equal opportunity to both parties and an objective analysis of the issues. We'll also ensure that our responses are considered and reasonable.
+
+ ** _Resources_**
+
+Although an Executive from the Management Team will often be the first responder, our Senior Counsel, Legal and Compliance is the best contact point for complainants. Senior Counsel can provide an objective view, escalate issues as appropriate and ensure that your complaint is handled by experienced staff who have the authority to settle the complaints (or direct access to a person who could).
+
+ ** _Visibility_**
+
+We don't hide our either our approach or our principles and we've made it ridiculously easy for you to contact us. Click [here](https://www.finder.com.au/contact-us) to start a conversation or submit your feedback.
+
+ ** _Accessibility_**
+
+We prefer you to provide your feedback through our website but you can make a complaint by any reasonable means including letter, telephone, in person or email.
+
+ ** _Assistance_**
+
+If require our help to submit your complaint, we're happy to assist you.
+
+ ** _Responsiveness_**
+
+If you have a complaint, the worst result is to feel ignored or that your concerns aren't important. We value feedback, and we respect the effort you've made to share your views with us, so we will
+
+  * acknowledge your complaint within 24 hours; and
+  * respond to your complaint within 10 days.
+
+
+
+We won't guarantee any outcomes except that our response (including any remedies or compensation offered) will be fair and appropriate. If we need to quantify loss or damage, we'll consider relevant legal principles, relevant codes of conduct, concepts of fairness and relevant industry best practice.
+
+ ** _Cost_**
+
+Our IDR process is free to complainants.
+
+ ** _Data Collection_**
+
+We love feedback, but we love information more and complaints provide us with rich data about our business. For these reasons, we track categories including:
+
+  * the type of complaint;
+  * the subject of complaint;
+  * the outcome or result of the complaint; and
+  * the timeliness of our response.
+
+
+
+ _ **Confidentiality**_
+
+The privacy of your personal information is important to us and we respect your confidentiality. We won’t ask you for information we don’t need but, in order to provide quotes and some comparative information, we may collect some personal information from you.
+
+You have the right not to provide the personal information we request, but this may compromise the effectiveness of the advice or information you receive. Rest assured that any personal information we collect or receive will be handled in accordance with our Privacy Policy.
+
+ ** _Systemic and recurring issues_**
+
+Feedback is a gift and our IDR process treats it appropriately; we take the time to try to identify systemic issues or recurring problems to prevent other problems or anticipated complaints. Complaints data is also regularly reviewed by our Executive Management Team.
+
+ ** _Regular Review_**
+
+Our IDR processes are subject to regular review and, if you're not satisfied with our response, you have options for external Dispute Resolution.
+
+### External Dispute Resolution
+
+If we are in a dispute, and we can't resolve ourselves, it's in both our interests to involve an independent party and try to resolve the dispute in the most efficient and cost effective manner available to us.
+
+So, if we haven't been able to resolve your complaint to your satisfaction, you may escalate it to one of the following independent services.
+
+### All of these EDR services are free to consumers.
+
+###  **Professional Indemnity Insurance**
+
+We maintain professional indemnity insurance to cover the information, advice, and services we provide. Our policy satisfies the requirements imposed by the Corporations Act 2001 and financial services regulations.
 
 ## Privacy policy
 
@@ -118,7 +219,7 @@ When you use our service (or while you're accessing our services) we may collect
 
 We provide general advice and comparative information about a range of financial and credit products and can help you connect with businesses that provide relevant products and services. The financial services laws often require us to collect some personal information to provide these services and, if you choose not to provide this information, then there is a chance that the information or advice you receive may not be suitable.
 
-In order to obtain your C, you need to be adequately identified and your information verified with the Document Verification Service (http://www.dvs.gov.au) so we will collect, retain and share the information required in order to provide you with your Credit Score.
+In order to obtain your C, you need to be adequately identified and your information verified with the Document Verification Service (http://www.dvs.gov.au) so we will collect, retain and share the information required in order to provide you with your Credit Report.
 
 We prefer to collect personal information about an individual only from that individual but when you use our services you may provide us with personal information about someone else. We won't ask you for personal information about someone else unless it's needed to provide you with the service, advice or information you've requested but if you provide us with information about another person, you need to ensure that you are authorised to disclose that information to us. It's your responsibility to ensure that they understand how we will collect, use or disclose the information you provide. You need to take reasonable steps to ensure that they understand that we will not take any additional steps to confirm their understanding of these issues.
 
@@ -180,7 +281,9 @@ Although finder maintains a regular plan of recovery in the event of the loss of
 
  **We believe in openness**
 
-This document sets out our approach to the management of personal information and we make this available to anyone who asks for it. If you need to know more, we are more than happy to explain to you what sort of personal information we holds, for what purposes, and how we collect, hold, use and disclose that information. If you need additional information about the Australian Privacy Principles, the Privacy Law or our obligations you can also access the website of The Office of the Australian Information Commissioner (<http://www.oaic.gov.au/>).
+This document sets out our approach to the management of personal information and we make this available to anyone who asks for it. If you need to know more, we are more than happy to explain to you what sort of personal information we hold, for what purposes, and how we collect, use and disclose that information.
+
+If you need additional information about the Australian Privacy Principles, the Privacy Law or our obligations you can also access the website of The Office of the Australian Information Commissioner (<http://www.oaic.gov.au/>).
 
  **You can access your information**
 
@@ -230,6 +333,6 @@ If you have a complaint, you can use the same address or write directly to the P
 
 This policy will be updated from time to time and become effective the moment it is posted on our site. If you subsequently use our site or services you are deemed to have a accepted the amended policy
 
- **Version Date: 4 December 2016**
+ **Version Date: 13 February 2018**
 
 Please note that if the responding officer determines with good reason that your message is spam within the meaning of the Spam Act 2003 (Cth), finder reserves the right not to respond to any message you send and to block your use of this website from the IP address where the spam originates and reserves the right to claim compensation under the appropriate legislation.
