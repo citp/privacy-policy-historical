@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qs.com privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101203735id_/http%3A//www.qs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qs.com privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503140007id_/http%3A//www.qs.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - QS
+# Privacy Policy | QS
 
 Quacquarelli Symonds Ltd is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using any of our websites then you can be assured that it will only be used in accordance with this privacy statement.
 
