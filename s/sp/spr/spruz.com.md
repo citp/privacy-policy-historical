@@ -1,97 +1,123 @@
-> *The following text is extracted and transformed from the spruz.com privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101204112id_/http%3A//www.spruz.com/%3Fpage%3Dcsm%26cmd%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spruz.com privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503102824id_/http%3A//www.spruz.com/%3Fpage%3Dcsm%26cmd%3Dprivacy) for the most accurate reproduction.*
 
 # Spruz
 
 **PRIVACY POLICY - COMMITMENT TO YOUR PRIVACY**
 
-Spruz  powered by the Spruz Social Website Platform and is part of the [Spruz Website Network.](http://www.spruz.com/) Your privacy on the Internet is of the utmost importance to us. At Spruz , we want to make your experience online satisfying and safe.
+##### Last Updated: May 1, 2018
 
-Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
+Spruz  ("Spruz", "we", "us") is powered by the Spruz Social Website Platform that provides a set of services that enable users to to create their own websites as part of the [Spruz Website Network](http://www.spruz.com/) ("Network"). Spruz is not involved in the management of websites as part of the Network and is not involved in the decisions related to the focus of websites or the content uploaded or published to websites using the Spruz Platform. Users that create websites are responsible for managing them in all respects in compliance with our Terms of Service.
 
-**INFORMATION Spruz GATHERS AND TRACKS**
+Your privacy on the Internet is of the utmost importance to us. At Spruz, we want to make your experience online satisfying and safe. Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. We may collect and use information pertaining to each of our unregistered visitors and registered users ("User" or "Customer" (respectively), or "you"), in connection with their access to and use of Spruz's websites (including www.spruz.com and any of its subdomains, the "Website") and related services (collectively, the "Services"). This privacy statement discloses what information we gather and how we use it.
 
-Spruz gathers two types of information about users:
+The Spruz Website Platform enables Users to create websites that allows for the sharing of web content such as photos, videos and other data. Without information about you, we may not be able to provide you with the Services.
 
-  * Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters, to participate in our message boards or forums, to email a friend, and from participation in polls and surveys:
-  * Information  Spruz gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers' needs and to help our advertisers and sponsors better understand the demographics of our audience. Because  Spruz derives its revenue mainly from sponsorships and advertising, providing such aggregated demographic data is essential to keeping our service free to users. Under no circumstances does  Spruz divulge any information about an individual user to a third party. 
+This Privacy Policy constitutes a binding and enforceable legal contract between Spruz and you - so please read it carefully. You may visit and/or use the Services only if you fully agree to this Privacy Policy - and by accessing and/or using any of the Services, you signify and affirm your informed consent to this Privacy Policy, including to the collection and processing of your Personal Information as defined and explained below.
 
+**Scope and Consent**
 
+By signing up for a Spruz account, including through a computer or mobile device ('device'), you accept the terms of this Privacy Policy and consent to our collection, use, disclosure, and retention of your information as described herein (including to contact you), and for all other purposes permitted under applicable personal information privacy statutes, anti-spam legislation, and consumer protection laws.
 
-Spruz Gathers User Information In The Following Processes:
+**Amendment**
 
-Optional Voluntary Information
+We may amend this Privacy Policy from time to time by posting a revised version and updating the 'Last Updated' date above. The revised version will be effective at the time we post it. Where these changes would cause material detriment to you, you may of course cancel your account at any time. We encourage you to review this Privacy Policy whenever you use our Services to stay informed about our information practices and the choices available to you and to contact us if you have any questions about these changes. Your continued use of our Services constitutes your acceptance of any amendment of this Privacy Policy. 
 
-We offer the following free services, which require some type of voluntary submission of personal information by users:
+**Personally Identifiable Information**
 
-## _Privacy Policy_
+We collect personally identifiable information ("PII") via the Site and the Service. PII is any information that may be used to contact, identify or locate an individual, and includes, but is not limited to, your name, phone number, email address and postal addresses. We generally collect PII under the following scenarios:
 
-1\. Electronic newsletters policy (Dispatches)
+  * When you choose to provide us with your PII via the Site or any websites created as part of the Network; including, when you send us an email asking a question, we use that information to answer your question and will store it for a reasonable time. 
 
-We will offer a free electronic newsletter to users.  Spruz gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page. Users can also subscribe to the newsletters at the time of registration.
+  * When you use the Service via the Site or any websites in the Network, Spruz collects your name and email address. Spruz also asks you to select a password for your account. Spruz uses this information to help maintain your account. 
 
-2\. Message boards/forums policy
+  * When you register to use the Service on the Site or any websites in the Network, we collect PII that may include your name, email address, postal address, billing details (e.g., name, physical billing address, and payment method), and demographic information, such as age and gender. Spruz may use the information collected to analyze the usage of the Service and/or to compile anonymous statistics. 
 
-Users of the site's Message Boards and Forums must register separately for these services (both are free of charge) in order to post messages, although they needn't register to visit the site. During registration the user is required to supply a username, password, and email address.
+  * We may periodically publish an email newsletter.  You may choose to receive Spruz email newsletter when you register to use the Site or any websites in the Network. If you decide at any time that you no longer wish to receive the email newsletter, please follow the unsubscribe instructions provided within the email.
 
-3\. "E-mail this to a friend" policy
-
-Our site users can choose to electronically forward a link, page, or documents to someone else by clicking "e-mail this to a friend". The user must provide their email address, as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email. The information is not used for any other purpose.
-
-4\. Polling
-
-We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. Opinions or other responses to polls are aggregated and are not identifiable to any particular user.  Spruz may use a system to "tag" users after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual users.
-
-5\. Surveys
-
-Spruz may occasionally conduct user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our sponsors, advertisers and partners. We never share any of this information about specific individuals with any third party.
-
-## _Privacy Policy changes_
-
-Children
-
-Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent.
-
-Usage tracking
-
-Spruz tracks user traffic patterns throughout all of our sites. However, we do not correlate this information with data about individual users.  Spruz does break down overall usage statistics according to a user's domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user's browser).
-
-Spruz sometimes tracks and catalogs the search terms that users enter in our Search function, but this tracking is never associated with individual users. We use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you.
-
-Cookies
-
-We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided and controls our ability to provide member exclusive access to the site. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites.  Spruz uses cookies to track user traffic patterns (as described above). Our advertising system delivers a one-time cookie to better track ad impressions and click rates.
-
-You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you do need cookies to participate actively in message boards, forums, polling and surveys.
-
-## _Privacy Policy Use_
-
-USE OF INFORMATION
-
-Spruz uses any information voluntarily given by our users to enhance their experience in our network of sites, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users.
-
-As stated above, we use information that users voluntarily provide in order to send out electronic newsletters and to enable users to participate in polls, surveys, message boards, and forums. We send out newsletters to subscribers on a regular schedule (depending on the newsletter), and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing.  Spruz never shares newsletter mailing lists with any third parties, including advertisers, sponsors or partners.
-
-When we use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. We track search terms entered in Search function as one of many measures of what interests our users. But we don't track which terms a particular user enters.
-
-Spruz creates aggregate reports on user demographics and traffic patterns for advertisers, sponsors and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. Because we don't track the usage patterns of individual users, an advertiser or sponsor will never know that a specific user clicked their ad. We will not disclose any information about any individual user except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
-
-SHARING OF THE INFORMATION
-
-Spruz uses the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience's demographics. This is essential to keeping our service free. We will not share information about individual users with any third party, except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
-
-SECURITY
-
-Spruz operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers.
-
-OPT-OUT POLICY
-
-We give users options wherever necessary and practical. Such choices include:
-
-  * **Opting not to register to receive our electronic newsletters.**
-  * **Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users**
+  * Users who use the Site to create their own websites in the Network may use the Service and collect PII. The User who created the website and their designated administrators have access to all data that is collected on a particularly website and are required to comply with applicable laws (e.g., CAN-SPAM) and not to use or disclose Personal Information or data on the website in a manner that violates this Privacy Policy.  Please note that information collected by our Users is also subject to that particular User's privacy policy, and that Spruz is merely facilitating the collection and transfer of the PII in accordance with that privacy policy. 
 
 
 
-YOUR CONSENT
 
-By using this site, you consent to the collection and use of this information by  Spruz. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+**Non-Personally Identifiable Information**
+
+Spruz also collects non-personally identifiable information ("Non-PII") via the Site and the Service. Non-PII is information that may not, on its own, be used to identify or locate a personal or entity, and includes your IP address, browser type, and your computer's operating system. Spruz collects Non-PII under the following scenarios:
+
+  * When you visit the Site, our servers automatically collect Non-PII, including but not limited to your IP address, your browser type, your network information, your computer's operating system, and the web page you were visiting before your came to the Site. This information is used for Site maintenance, to improve the relevance of the content that you see, and for reporting purposes.  
+
+
+  * When you register on the Site, our servers automatically collect the Non-PII items described above as well as your interactions with Spruz staff and other registered Site users. We retain this Non-PII in our internal system as part of your registered account. We use this information internally to analyze the aggregate activities and preferences of our registered Site users, and to track and assess your interest in becoming a paid subscriber to the Service.   
+
+
+  * When you use the Service, we automatically collect Non-PII including but not limited to your IP address, your browser type, your network information, your computer's operating system, and the web page you were visiting before you came to the Site. Please note that websites created by Users in the Network may also collect Non-PII, and that the information collected by and transferred to User's is subject to that particular User's privacy policy. 
+
+
+
+
+**Users of Users Information**
+
+Spruz may collect similar information pertaining to visitors and users of our User's Websites or Services ("Users-of-Users"), solely for and on our Users' behalf. For such purposes, Spruz is considered as a "Data Processor" and not as the "Controller" (as defined in the European Data Prototection Directive) of such Users-of-Users Information. The Users controlling and operating such User Websites serves as the "Controllers" of such Users-of-Users Information, and are responsible for complying with all laws and regulations that may apply to the collection and control of such Users-of-Users Information, including all privacy and data protection laws of all relevant jurisdictions. You are responsible for the security, integrity, and authorized usage of your Users-of-Users' Personal Information, and for obtaining any consents and permissions required for the collection and usage of such information.
+
+Spruz cannot provide legal advice to Users or their Users-of-Users. We recommend that all Users publish and maintain clear and comprehensive privacy policies on their User Websites, in accordance with the applicable laws and regulations, and that all Users-of-Users carefully read those policies and make sure that they consent to them.
+
+If you are a visitor, user or customer of any of our Users, please read the following: Spruz has no direct relationship with the individual Users-of-Users who Personal Information it processes. If you are a visitor, user or customer of any of our Users, and would like to make any requests or queries regarding your Personal Information, please contact such User(s) (who is the "Controller" of such data) directly.
+
+**Cookies**
+
+We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided and controls our ability to provide member exclusive access to the site. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. Spruz uses cookies to track user traffic patterns and to better understand how you interface with the Service.
+
+**Security**
+
+Spruz has implemented security measures to protect the Personal Information that you share with us, including physical, electronic and procedural measures. We regularly monitor our systems for possible vulnerabilities and attacks, and regularly seek new ways for further enhancing the security of our Services and protection of your privacy.
+
+**Third Party Data Collection**
+
+Spruz may use third-party companies to service ads and/or collect Non-PII (e.g., the pages you visit, and which links you click, which ads you see and click on, and certain demographic information such as age and gender) when you visit the Site and/or use the Service(s). Please note that some Non-PII is also collected from End Users who simply visit the Site and/or visit a web page where the Service is enabled.
+
+**Sharing of Information**
+
+Spruz may share information about you as follows:
+
+  * With third parties to provide, maintain, and improve our Services, including service providers (e.g., ColoCrossing, PayPal, SendGrid) who may have access to information about you to perform services on our behalf (e.g., bill and credit card payment processing, hosting and database management services, email services, web analytics and administration).  
+
+
+  * With third parties that run advertising campaigns, contests, special offers or other events or activities in connecting with our Services  
+
+
+  * With other users of our Services with whom you interact through your own use of our Services.  
+
+
+  * In connection with or during the negotiation of any merger, sale of company stock or assets, financing, acquistion, divestiture or dissolution of all or a portion of our business.  
+
+
+  * If we believe that disclosure is reasonably necessary (i) to comply with any applicable law, regulation, legal process or governmental request, (ii) to protect our rights or property, or the security or integrity of our Services or (iii) to protect us, users of our Services or the public from harm or potentially prohibited or illegal activities.  
+
+
+  * With your consent. 
+
+
+
+
+**International Data Transfers**
+
+Spruz Website Platform is hosted in the United States. From time to time, to provide you with Spruz services and allow you to interact with the Spruz brand and Services, we may transfer your information globally. We may process and store your information in the United States and other countries and we may use third-party service providers who also process, store and transfer your information globally. If you use the Service from a region with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personal data to the United States. The United States does not have the same data protection laws as other regions. By interacting with our Services, you agree to this storing, processing and/or transfer described above. 
+
+**Children**
+
+Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent. If you are at least 16 and under 18 years of age (or under the applicable age of majority in your state or territory of residence), you may register with Spruz only if you have the consent of your parent or guardian, including consent to our Terms of Use and Privacy Policy on your behalf.
+
+**Deactivating Your Account**
+
+If you wish to deactivate your Spruz account, you may do so by logging into your account or by emailing us using the contact details provided below. Spruz generally retains information about you only as long as reasonably necessary to provide you the Services. However, even after you deactivate your Spruz account, we may retain archived copies of information about you and any transactions or Services in which you may have participated for a period of time that is consistent with applicable law or as we believe is reasonably necessary to comply with applicable law, regulation, legal process or governmental request, to prevent fraud, to collect fees owed, to resolve disputes, to address problems with our Services, to assist with investigations, to enforce our Services Agreement or other applicable agreements or policies or to take any other actions consistent with applicable law.
+
+**Your Rights**
+
+You may request a copy of all the personal information that Spruz holds about you. If you request this information from us we will provide it to you for a fee not exceeding the amount permitted by law. You can also ask us to correct any errors in this information.
+
+**Contact**
+
+Please contact us with any questions or concerns regarding this Privacy Policy by emailing [privacy [at] spruz [dot] com](mailto:privacy@spruz.com). 
+
+**Changes to this Privacy Policy**
+
+This privacy policy is subject to change. If we make any substantive changes in the way we use the information collected through the Site or the Service, we will post a clear and conspicuous notice of those changes on the Site and in this privacy policy. 
