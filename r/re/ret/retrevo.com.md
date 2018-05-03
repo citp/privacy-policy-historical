@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retrevo.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230161617id_/http%3A//www.retrevo.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retrevo.com privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503220847id_/http%3A//www.retrevo.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Retrevo
 
