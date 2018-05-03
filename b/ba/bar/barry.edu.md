@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barry.edu privacy policy that was archived on 2017-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171031103951id_/https%3A//www.barry.edu/main/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barry.edu privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503130059id_/https%3A//www.barry.edu/main/privacy.html) for the most accurate reproduction.*
 
 # Website Privacy Policy : Barry University, Miami Shores, Florida
 
