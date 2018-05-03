@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the jiskha.com privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530043917id_/http%3A//www.jiskha.com/legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jiskha.com privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503215421id_/https%3A//www.jiskha.com/legal/privacy_policy.html) for the most accurate reproduction.*
 
 # Jiskha Homework Help - Legal: Privacy Policy
 
-[**Post a New Question**](https://web.archive.org/post_form.cgi)
-
-This is the website of **Jiskha Homework Help** located online at <http://www.jiskha.com/>. Jiskha Homework Help is abbreviated as "we" and "us" in the following privacy policy.
+This is the website of **Jiskha Homework Help** located online at <https://www.jiskha.com/>. Jiskha Homework Help is abbreviated as "we" and "us" in the following privacy policy.
 
 ## Data Collection
 
@@ -20,7 +18,7 @@ If you supply us with contact information (email address, postal address, teleph
 
 ## Advertisements
 
-We enable third-party vendors to place ads in various areas of our website. These vendors may use non-personally identifiable information to serve relevant ads based on a user's previous visits to our website and other websites on the internet. To learn more about this practice or to opt-out of this method of advertising, please visit <http://www.networkadvertising.org/>.
+We enable third-party vendors to place ads in various areas of our website. These vendors may use non-personally identifiable information to serve relevant ads based on a user's previous visits to our website and other websites on the internet. To learn more about this practice or to opt-out of this method of advertising, please visit <https://www.networkadvertising.org/>.
 
 Third-party advertisers, such as Google AdSense, have separate and independent privacy policies, and we have no responsibility or liability for the content or activities of these sites.
 
@@ -39,5 +37,3 @@ From time to time, we may use customer information for new, unanticipated uses n
 ## Conclusion
 
 Thank you for taking the time to read this privacy policy. Jiskha Homework Help intends to abide by this policy at all times.
-
-[**Post a New Question**](https://web.archive.org/post_form.cgi)
