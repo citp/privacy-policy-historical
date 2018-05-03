@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinepianist.com privacy policy that was archived on 2017-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170124005022id_/https%3A//www.onlinepianist.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinepianist.com privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504000604id_/https%3A//www.onlinepianist.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | OnlinePianist
 
