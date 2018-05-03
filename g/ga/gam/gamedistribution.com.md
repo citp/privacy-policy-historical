@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gamedistribution.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618005727id_/http%3A//www.gamedistribution.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamedistribution.com privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503180415id_/http%3A//www.gamedistribution.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Page
 
-[ ](https://web.archive.org/ "Game Distribution") [__](https://web.archive.org/login/ "Login to dashboard")
+[ ](https://web.archive.org/ "Gamedistribution.com")
 
 To inform you
 
