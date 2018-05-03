@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awf.org privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109231522id_/https%3A//www.awf.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awf.org privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503051230id_/http%3A//www.awf.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | African Wildlife Foundation
 
@@ -94,7 +94,7 @@ Call the membership hotline at 1-888-494-5354 to tell us you do not want to rece
 
 ###  Does AWF Collect Information from Children?
 
-AWF does not knowingly collect personal information from anyone under the age of 13. The Sites are not directed at children under the age of 13. In the event that AWF learns that it has collected personal information from a child under age 13 without parental consent, we will delete that information as quickly as possible. If you believe that we might have collected any personal information from a child under 13, [please contact us](http://www.awf.org/contact).
+AWF does not knowingly collect personal information from anyone under the age of 13. The Sites are not directed at children under the age of 13. In the event that AWF learns that it has collected personal information from a child under age 13 without parental consent, we will delete that information as quickly as possible. If you believe that we might have collected any personal information from a child under 13, [please contact us](https://www.awf.org/contact).
 
 ###  Donor Privacy Policy
 
