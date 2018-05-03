@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wappalyzer.com privacy policy that was archived on 2017-07-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170702200111id_/https%3A//wappalyzer.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wappalyzer.com privacy policy that was archived on 2018-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180503071216id_/http%3A//wappalyzer.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 		<meta charset="utf-8">
@@ -10,13 +10,16 @@
 
 		<meta name="description" content="Wappalyzer is a cross-platform utility that uncovers the technologies used on websites. It detects content management systems, ecommerce platforms, web frameworks, server software, analytics tools and many more.">
 
-		<link rel="stylesheet" href="/css/layout.css?v=1496287912846">
-		<link rel="icon" href="/images/favicon.svg" type="image/svg" sizes="any">
+		<link rel="stylesheet" href="/css/layout.css?v=1521250224764">
+
+		<link rel="icon" type="image/x-icon" sizes="16x16 32x32 64x64" href="/favicon.ico">
+		<link rel="icon" type="image/svg+xml" sizes="any" href="/images/favicon.svg">
 
 		<script async="" src="https://www.google-analytics.com/analytics.js"></script><script>
 			var _wappalyzerParams = {
 				rootPath: '/',
 				view: 'privacy',
+				stripePublicKey: '',
 				siftScienceSnippetKey: '82acc0a523'
 			};
 		</script>
@@ -37,23 +40,26 @@
 
 			<div class="hero-nav">
 				<div class="container">
-					<nav class="nav">
-						<div class="nav-left">
+					<nav class="navbar" role="navigation" aria-label="main navigation">
+						<div class="navbar-brand">
 							<a href="/">
 								<img class="logo" src="/images/logo-white.svg" alt="Wappalyzer">
 							</a>
+
+							<div class="navbar-burger">
+								<span></span>
+								<span></span>
+								<span></span>
+							</div>
 						</div>
 
-						<span class="nav-toggle">
-							<span></span>
-							<span></span>
-							<span></span>
-						</span>
-
-						<div class="nav-right nav-menu">
-							<a class="nav-item" href="/download">Download</a>
-							<a class="nav-item" href="/applications">Applications</a>
-							<a class="nav-item" href="/datasets">Datasets</a>
+						<div class="navbar-menu">
+							<div class="navbar-end">
+								<a class="navbar-item" href="/technologies">Technologies</a>
+								<a class="navbar-item" href="/download">Browser Extension</a>
+								<a class="navbar-item" href="/datasets">Datasets</a>
+								<a class="navbar-item" href="/api">API</a>
+							</div>
 						</div>
 					</nav>
 				</div>
@@ -62,13 +68,23 @@
 					</section>
 
 		
+		
+<nav class="breadcrumb" aria-label="breadcrumbs">
+	<div class="container is-narrow" aria-label="breadcrumbs">
+		<ul>
+			<li><a href="/">Home</a></li>
+			<li class="is-active"><a href="/about" aria-current="page">Privacy Policy</a></li>
+		</ul>
+	</div>
+</nav>
+
 <section class="section">
-	<div class="container">
+	<div class="container is-narrow">
 
 		<h1 class="title">
 			Privacy Policy		</h1>
 
-		<div class="content is-narrow">
+		<div class="content">
 			<hr>
 
 			<p>
@@ -116,28 +132,32 @@
 						</a>
 					</p>
 
-					<nav class="nav">
-						<div class="nav-center">
-							<a class="nav-item is-small" href="/privacy">Privacy</a>
-							<a class="nav-item" href="/about">About</a>
-							<a class="nav-item" href="/contact">Contact</a>
-						</div>
-					</nav>
+					<p class="footer-links">
+						<a href="/privacy">Privacy</a>
+						<a href="/docs">Developers</a>
+						<a href="/about">About</a>
+						<a href="/contact">Contact</a>
+					</p>
 
 					<p>
-						<a class="icon" href="https://github.com/AliasIO/Wappalyzer">
+						<a title="Fork Wappalyzer on GitHub" class="icon" href="https://github.com/AliasIO/Wappalyzer">
 							<i class="fa fa-github"></i>
 						</a>
 
-						<a class="icon" href="https://twitter.com/Wappalyzer">
+						<a title="Follow Wappalyzer on Twitter" class="icon" href="https://twitter.com/Wappalyzer">
 							<i class="fa fa-twitter"></i>
+						</a>
+
+						<a title="Join Wappalyzer on Slack" class="icon" href="https://join.slack.com/t/wappalyzer/shared_invite/enQtMjc1MzA2NzE4NzkwLWM5NGU3Y2U1MWQyNmYzNDUxODU4OTU3MGUxMTliNjJhNWEyMTExYWU5M2ZiYTgzZmQwMjZhNjA1NWRiYWIzN2Y">
+							<i class="fa fa-slack"></i>
 						</a>
 					</p>
 				</div>
 			</div>
 		</footer>
 
-		<script src="/js/bundle.js?v=1496287912846"></script>
+		<script src="https://js.stripe.com/v3/"></script>
+		<script src="/js/bundle.js?v=1521250224764"></script>
 	
 
 </body></html>
