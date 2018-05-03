@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adf01.net privacy policy that was archived on 2017-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171024205911id_/https%3A//www.adfish.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adf01.net privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503062427id_/https%3A//www.adfish.com/privacy.php) for the most accurate reproduction.*
 
 # Adfish - A premium CPA network
 
@@ -97,17 +97,16 @@ We may sell, brand or share your personal information that you supply to us with
 
 ## Contact Information:
 
-**Pleasanton Headquarters**   
-Tel: 925.249.7110   
-Fax: 925.462.3110 
+**Roseville Headquarters**   
+Tel: 925.249.7110 
 
 **Mailing Address**   
 Adfish   
-303 Ray Street   
-Pleasanton, CA 94566 
+1420 East Roseville Parkway #140-245   
+Roseville, CA 95661 
 
 ## Unsubscribe Information:
 
-If you are not in agreement with the terms of this Policy, please write to us at Adfish, 303 Ray Street, Pleasanton, CA 94566 and request to be removed. 
+If you are not in agreement with the terms of this Policy, please write to us at Adfish, 1420 East Roseville Parkway #140-245, Roseville, CA 95661 and request to be removed. 
 
-If you feel that Adfish is not abiding by its posted privacy policy, please send an e-mail to [webmaster@adfish.com](mailto:webmaster@adfish.com) or write us at Adfish, 303 Ray Street, Pleasanton, CA 94566. 
+If you feel that Adfish is not abiding by its posted privacy policy, please send an e-mail to [webmaster@adfish.com](mailto:webmaster@adfish.com) or write us at Adfish, 1420 East Roseville Parkway #140-245, Roseville, CA 95661. 
