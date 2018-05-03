@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccrmivf.com privacy policy that was archived on 2017-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170818174411id_/https%3A//www.ccrmivf.com/wp-content/uploads/2015/10/Notice-of-Privacy-Practices-revised-2015.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccrmivf.com privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503020303id_/https%3A//www.ccrmivf.com/wp-content/uploads/2015/10/Notice-of-Privacy-Practices-revised-2015.pdf) for the most accurate reproduction.*
 
 # Colorado Center for Reproductive Medicine
 
