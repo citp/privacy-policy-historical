@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imgworlds.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102204318id_/http%3A//www.imgworlds.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgworlds.com privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505001226id_/http%3A//www.imgworlds.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IMG Worlds of Adventure
 
