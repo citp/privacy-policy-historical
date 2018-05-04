@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bonviral.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002004115id_/http%3A//bonviral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonviral.com privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504194750id_/http%3A//bonviral.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BonViral
 
