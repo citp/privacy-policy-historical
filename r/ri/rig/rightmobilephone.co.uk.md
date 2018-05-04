@@ -1,178 +1,246 @@
-> *The following text is extracted and transformed from the rightmobilephone.co.uk privacy policy that was archived on 2017-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170219001019id_/https%3A//www.broadbandchoices.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightmobilephone.co.uk privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504153217id_/https%3A//www.broadbandchoices.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BroadbandChoices.co.uk
 
 For more information on what personal data we collect, why and how we use it, and the steps we take to protect your privacy and the security of your personal information, please read our Privacy Policy below.
 
-broadbandchoices.co.uk (the "Website") is a trading name of Decision Technologies Limited (Company Number 05341159) whose registered address is First Floor, High Holborn House, 52-54 High Holborn, London WC1V 6RL ("we", "us", "our", or "DTL").
+This privacy notice explains how we collect; use; share; transfer; store; and protect your personal information.  It also explains how to contact us to find out what personal information of yours we hold; what we use it for; how you can correct any inaccuracies; and how you can request that we stop using it.
 
-This policy (together with our terms of use and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us when using our Website or our service ("Service"). This policy also applies where you use our Service on a third party website.
+Please read this privacy notice carefully since once you use this website you will be regarded as having read and accepted its terms.
 
-Please read this Privacy Policy carefully to understand our views and practices regarding your personal data and how we treat it. Once you use our Website or Service you will be regarded as having read and accepted its terms and this Privacy Policy. Any changes we may make to this Privacy Policy in the future will be posted on this page and, where appropriate, notified to you by email. We update our Privacy Policy from time to time so please do review our Privacy Policy regularly.
+## Summary
 
-We take your privacy and the security of your personal information very seriously. We comply with the Data Protection Act 1998 and we are registered with the Information Commissioner's Office (ICO Registration No. Z932912X). If you have any queries relating to our use of your personal data or any other data protection or privacy policy issues then please contact our Data Protection Officer at [dpo@broadbandchoices.co.uk](mailto:dpo@broadbandchoices.co.uk "Email address for Data Protection Officer") or by writing to the Data Protection Officer at the registered address.
+Below is a summary of some of the main terms of this privacy notice:
 
-## The information we collect
+  * Use of our website is strictly subject to this privacy notice.  If you do not agree to its terms you must not use this website
+  * We may collect different types of personal information about you when you use our website and services including your name, email address and postcode
+  * We will also collect information about how you use our website
+  * The section How we use your information details all the ways we use your personal information, which includes: 
+    * To improve our services and to conduct research
+    * To process an order you place through our website
+    * To tell you about our other products and special offers
+    * To send you relevant advertising
+  * We will share your information with other companies in our group, our suppliers and as required by law
+  * Some of your personal information will be stored outside Europe
+  * You can ask us any questions about your personal information at any time by emailing [dpo@decision.tech](mailto:dpo@decision.tech)
 
-We may collect and process personal information about you, which you give to us when you use our Website. The type of personal information we collect will vary depending on the services you are using on our Website:
 
-  * details of your visits to our Website and use of our Service including, but not limited to, traffic data, location data, weblogs and other communication data and the resources that you access ([please see our Cookie policy for more information](https://web.archive.org/cookie-policy "Cookie Policy"));
-  * your name, email address, current broadband supplier and other personal information if you register with us to access one of our tools (for example our Speedtester) or to receive our email newsletters;
-  * your postcode if you perform an availability check for broadband suppliers available in your area;
-  * your email address if you enter a prize draw or competition;
-  * your email address if you qualify for a reward or special offer;
-  * your phone number if you call certain broadband suppliers or our customer services number; and
-  * if you contact us (for example our Online Help Desk), we may keep a record of your email address and that correspondence and any information that you provide by filling in forms on our Website or using our Service.
 
+## About us
 
+broadbandchoices.co.uk (the "website") is owned by Decision Technologies Limited ("we", "us", "our", or "DTL").
 
-The provision of some of our services may also require us to store some personal information. We will periodically review your personal information to ensure that we do not keep it for longer than is necessary.
+Our registered address is:
 
-Please note that certain information (e.g. a Post Code on its own) does not constitute personal data under the Data Protection Act 1998, if it is not possible to identify a particular living individual from such information or other information which is in (or is likely to come into) our possession. 
+Decision Technologies Limited
 
-## Information relating to third parties
+First Floor
 
-Where you provide information about a third party, you will ensure that such third party has given their consent. You should not provide any information relating to any other person, without first informing them of this policy and obtaining their prior consent to you submitting such information on their behalf.
+High Holborn House
 
-## Purposes for which we use your personal information
+52-54 High Holborn
 
-We may use your personal information:
+London WC1V 6RL
 
-  * to monitor and improve our services;
-  * to monitor and improve the performance of our Website and Service;
-  * to carry out research and analysis of the broadband, phone or digital TV marketplace;
-  * to provide you with emails and newsletters and special offers if you register with us;
-  * to provide an availability check of specific broadband, home phone or TV services in your area;
-  * to fulfil our obligations if you enter a prize draw or competition;
-  * to process a transaction between you and a third party which you have requested;
-  * to process a reward or special offer for which you have qualified;
-  * to respond to an enquiry you have made;
-  * to provide you with information and advice on broadband services and suppliers;
-  * to prevent fraud and defend our legal rights; and
-  * as more fully detailed, below.
+Our company number is 05341159
 
+The DTL group (our "group") also includes the brands [mobilephonechecker.co.uk](https://www.mobilephonechecker.co.uk/), [sellmymobile.com](https://www.sellmymobile.com/) and [comparemymobile.com](https://www.comparemymobile.com/) which have their own privacy policies.  You can follow this link to find out more about [our group](http://decision.tech/the-decision-tech-group/).
 
+We take your privacy and the security of your personal information very seriously. We comply with the data protection laws and we are registered with the Information Commissioner's Office (Registration No. Z932912X).
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.
+If after reading this privacy notice you still have any questions about how we use your personal information, please email our Data Protection Officer at [dpo@decision.tech](mailto:dpo@decision.tech) or write to our Data Protection Officer at our registered address.
 
-## Improving our services
+## The information we collect and how we collect it
 
-We may use your data to perform statistical analysis to help us understand how people are using our Website and services so that we may improve them.
+When you use our website or any of our other services we may collect personal information about you.  The type of personal information we collect will vary depending on the services you are using.
 
-If you have provided your consent for us to do so, we may contact you by email, online, or via the phone to ask you for feedback on your experience of using our website and services.
+In many instances, we ask for your consent to process this information (for example, when you register to receive our email newsletters) and in other instances the legal basis under which we collect and use your personal information is that it is necessary for our legitimate business interests (for example, for monitoring and improving our services or to make sure that our marketing communications are relevant to you).  You can find out more about the legal basis under which we collect and use your personal information [here](https://web.archive.org/legitimate-interests-notice "legitimate interests notice").
 
-Unless otherwise stated, this information is only used internally and will not be published on the Website.
+You have a right to object to this processing and the section How to get your information corrected or request we stop using it explains how you can do this.
 
-## Research and analysis
+We may collect:
 
-We may use your data to perform research and analysis to better understand the geographic coverage and use of broadband, phone or digital TV services in the UK.  Some of the results of this research may appear in articles and features on our Website and other media but it will not include your personal information in any such results and we will not disclose any user's email address or any level of personal information that would enable any third party to contact or identify a particular individual (for example a full name and full area of residency).
+  * your postcode if you perform an availability check for suppliers in your area;
+  * your phone number if you call a supplier's call centre to place an order;
+  * your email address if you want to save your comparison results to your email inbox;
+  * your email address, current supplier and postcode if you use our broadband speed tester;
+  * your email address if you register to receive our email newsletters;
+  * your name, address, email address and other personal information if you enter a prize draw or competition;
+  * your name, email address, phone number and other personal information if you apply for a reward or special offer;
+  * your name, phone number and other personal information if you call our customer services team;
+  * your email address and any other personal information that you provide if you use our LiveChat help desk service; and
+  * details of your visits to our website and how you use our services through the use of cookies.  Please see our [cookie policy](https://www.broadbandchoices.co.uk/cookie-policy) for more information.
 
-## Informing you of special offers and services which may be of interest when you register with us
 
-We would like to keep you updated, by email or text, of other products and services which we feel you may benefit from or which you have specifically indicated that you have an interest in through our registration process.
 
-We engage a third party email technology partner to help us coordinate and manage our email newsletters. They may process and store your personal information on our behalf in their systems subject to strict compliance with the Data Protection Act 1998. They will not contact you directly or share your personal information with any third parties.
+We also collect personal information from job applicants and current and former employees of our group.  For job applicants, this information may include name, address, email address, phone number your CV and any personal references from previous employers.  For current and former employees, we compile records relating to your employment.  If you are a current or former job applicant or if you are a current or former employee of our group and you have any queries about the personal information we hold, please write to our Head of HR at our registered address.
 
-We may obtain additional personal information from third parties to enable us to improve the relevance of our communications to you.
+Where we collect your personal information to help you place an order with a supplier, we act as a data processor (that is, we are collecting the information and passing it to the supplier in accordance with their requirements).
 
-You can easily unsubscribe from our emails at any time, either by clicking the "unsubscribe" link at the bottom of any electronic correspondence (may take up to 7 days to take effect); or by emailing us at [dpo@broadbandchoices.co.uk](mailto:dpo@broadbandchoices.co.uk "Email link for Data Protection Officer").
+In all other instances where we collect your personal information, we act as a data controller.
 
-## Advertising
+The next section explains how we use your personal information. 
 
-We work with selected third parties that use information about how you have used our Website and Service in order to make advertising relevant to you and your interests elsewhere on the Internet.
+## How we use your information
 
-You can find out more about these Targeting Cookies, as well as information on how to turn off cookies, or change the cookie settings on your browser by reading our full [Cookie Policy](https://web.archive.org/cookie-policy "Cookie Policy").
+  * To improve our services- We may use your personal information to help us understand how people are using our website and services so that we may improve them.  Additionally, if you have provided your consent for us to do so, we may contact you by email, online, or via the phone to ask you for feedback on your experience of using our website and services. We keep this information for a maximum of 3 years
 
-We may use your email address to identify if you are a registered Facebook user and then show you interesting, relevant ads through Facebook.
 
-You can stop receiving these ads at any time by emailing us at [dpo@broadbandchoices.co.uk](mailto:dpo@broadbandchoices.co.uk "Email link for Data Protection Officer").
+  * To carry out research and analysis -We may use your personal information to perform research and analysis to help us better understand the geographic coverage and use of broadband, phone or digital TV services in the UK. We keep this information for a maximum of 3 years
 
-## Broadband and home phone availability check
 
-If you carry out an availability check on our Website or using our Service, we use your postcode for the purpose of carrying out that check.
+  * To provide a broadband, home phone and digital TV availability check -If you carry out an availability check on our website, we use your postcode to carry out that check.  Different suppliers provide their services to different parts of the country and this is determined by postcode. The postcode check is essential to find out which suppliers are available where you live. We keep this information for a maximum of 3 years
 
-Different providers supply services to different parts of the country and this is determined by postcode. The postcode check is essential to find out which providers and home phone and broadband services are available in your postcode area.
 
-## Testimonials, case studies, prize draws and surveys
+  * To fulfil an order you have placed -If you place an order with a supplier on our website (for example a broadband order with BT), we will collect your personal information and provide this to the supplier so they can process your order.  We will also use your personal information to track the progress of the order you have placed. We keep this information for a maximum of 12 months
 
-We may republish comments and testimonials sent to us by our users when they provide information by way of Case Study application forms and survey responses  We may republish the name and town of residence of a prize draw winner. These comments and testimonials may appear in articles and features on our Website and other media. The details of prize draw winners may appear on our Website and other media.  We will not disclose any user's email address or any level of personal information that would enable any third party to contact or identify a particular individual (for example a full name and full area of residence). If you do not want us to republish any comments or testimonials or details then this should be clearly indicated and we will comply with your request.
 
-## Fulfilling an order you have placed
+  * To send you your comparison results -If you ask us to save your comparison results, we will use your personal information to email them to you and we will keep a record of those results. We keep this information for a maximum of 24 months
 
-If you place an order for a service with a third party on our Website or via our Service (for example a broadband order) then we will collect your personal information and provide this only to that third party to facilitate the transaction you have requested.
 
-## Fulfilling a reward or special offer
+  * To send you your speedtest results -If you use our broadband speedtester, we will use your personal information to send you the results and to recommend alternative services that may provide better speed performance. We keep this information for a maximum of 24 months
 
-If you place an order on our Website or via our Service which qualifies for a reward or special offer then we will collect your personal information and provide this only to that third party to facilitate the redemption for that specific reward or special offer.
 
-If you provide your consent for us to send you additional information on other products and services that may be of interest, then we may do so.  You can easily unsubscribe from our emails at any time, either by clicking the "unsubscribe" link at the bottom of any electronic correspondence (may take up to 7 days to take effect); or by emailing us at [dpo@broadbandchoices.co.uk](mailto:dpo@broadbandchoices.co.uk "Email link for Data Protection Officer").
+  * To fulfil a prize draw or competition entry -If you enter one of our prize draws or competitions, we will use your personal information to notify you if you win.  We may republish your name and town of residence if you win but we will not disclose your email address or any level of personal information that would enable any third party to contact or identify you (for example a full name and full area of residence). We keep this information for a maximum of 12 months
 
-## Online Help Desk and Ask our Expert enquiries
 
-We may republish extracts of emails sent to our Online Help Desk or Ask our Expert service in articles and features on our Website and in other media. We will not disclose any user's email address or any level of personal information that would enable any third party to contact or identify a particular individual (for example a full name and full area of residency). If you do not want us to republish any extracts from correspondence then this should be indicated in the body text of the email and we will comply with your request.
+  * To fulfil a reward or special offer- If you place an order that qualifies for a reward or special offer, we will use your personal information to allow you to redeem that specific reward or special offer. We keep this information for a maximum of 12 months
 
-## Disclosure of your Information
 
-We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
+  * To help you with a customer services enquiry -If you contact our customer services team, we will use your personal information to communicate with you and help sort out your enquiry. We keep this information for a maximum of 12 months
 
-We may disclose your personal information to third parties:
 
-  * in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;
-  * if DTL or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets;
-  * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use and other agreements; or to protect the rights, property, or safety of DTL, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * To help you with a LiveChat enquiry -If you use our LiveChat online helpdesk tool, we will use your personal information to communicate with you and help sort out your enquiry. We keep this information for a maximum of 3 years
 
 
+  * To tell you about our products and any special offers that may be of interest - When you provide us with your personal information we may ask your consent (or give you an opportunity to tell us you do not consent) to use it to send you additional information on other products and special offers from [our group](http://decision.tech/the-decision-tech-group/) that may be of interest.  Unless you tell us otherwise, you are agreeing that we can use it for these purposes. We keep this information for a maximum of 3 years We may obtain additional personal information from other companies to enable us to improve the relevance of our communications to you. You can easily unsubscribe from our emails or change your preferences at any time.  Please see the "How to change your preferences" section, below.
 
-## Security
 
-Any financial transactions are secured by SSL encryption to offer secure communications of sensitive data to and from the Website.
+  * To show you advertising -We may use your personal information (for example how you have used our website) to show you advertising that is relevant to your interests, both on our website and services and elsewhere on the Internet.   This may include using your personal information to identify if you are a registered Facebook user to show you advertising that is relevant to your interests through Facebook.
 
-However, no data transmission over the Internet can be guaranteed to be totally secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-Where we have given you (or where you have chosen) a password which enables you to access certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. 
 
-## Third-party providers' and third-party websites' personal information policies
+You can find out more about this, as well as information on how to turn off cookies, or change the cookie settings on your browser, by reading our full [cookie policy](https://www.broadbandchoices.co.uk/cookie-policy).
 
-We will not share your personal data with any third parties so that they might try to communicate with you except for the express purpose of fulfilling our obligations as detailed above.
+You can stop receiving these ads at any time by emailing us at [dpo@decision.tech](mailto:dpo@decision.tech).
 
-If you decide to enter into a contract with a third party provider via our Website or Service then you are strongly advised to read that chosen provider's privacy policy. We cannot be held responsible for the uses to which a third party puts your personal information once you have contracted with that party.
+## Who we share your information with
 
-We link to third party websites from our Website and Service. Although we only try to include quality, safe and relevant links to third party websites, we cannot guarantee or verify the contents of any externally linked website. Users should always adopt a policy of caution before clicking any external web links mentioned throughout the Website and Service, and do so at their own risk. If you follow a link to any of these websites, please note that these websites should have their own privacy policies. We have not endorsed or approved any third party websites privacy policies. We cannot be held responsible (and do not accept any responsibility or liability) for such policies or for the uses to which any third party puts your personal information once you have left our Website or Service. 
+When you use our website and services you are consenting to us sharing your information for the following purposes:
 
-Where our Service is hosted on a third party website, we are not responsible for any use to which such third party puts any personal information which you provide to them on their website and you are strongly advised to read that third party's privacy policy and cookie policy.
+  * **Switching supplier online**  \- if you place an order with a supplier through our website we will share your personal information with that supplier and they will collect additional personal information from you.  Please note that you will be entering a contract directly with that supplier and we advise you to carefully read their privacy policy and their terms and conditions.  We cannot be held responsible for the uses to which a supplier puts your personal information once you have left our website.
 
-## Cookies
 
-A cookie is a small text file that is sent by the web server of the website you visit to your web browser and is stored on your computer. Cookies provide a number of functions in order to make websites and online services work, or work more efficiently, as well as to provide information to the owners of websites and such online services (e.g. cookies can identify if you have previously visited or registered with a website).
+  * **Switching suppliers by phone**  \- if you place an order with a supplier by phone we may use a telephone service provided by a company called SimplifyDigital.  Your personal information will be share with SimplifyDigital but may only be used by the supplier you are placing an order with.  SimplifyDigital will not share this information with any other company or use it for any other purpose.  Please note that you will be entering a contract directly with the supplier and we advise you to carefully read their privacy policy and their terms and conditions. 
 
-We collect information about users visiting our Websites and using our Service by analysing site traffic which includes the use of cookies.
 
-The Privacy and Electronic Communications (EC Directive) Regulations 2003 has introduced requirements to provide website users with access to information relating to the use of cookies.
+  * **Phone order tracking**  \- we use a company called Responsetap to help us track phone orders placed with suppliers.  If you phone a supplier's call centre to place an order, we will share your phone number with Responsetap solely to monitor the progress of your order.  They will not share this information with any other company or use it for any other purpose.
 
-You can find out more about the cookies we use on our Website and Service, as well as information on how to turn off cookies, or change the cookie settings on your browser by reading our [full Cookie policy](https://web.archive.org/cookie-policy "Cookie Policy").
 
-## Data processing and data control
+  * **Prize draws, competitions, special offers and rewards**  \- sometimes we use other companies to help us manage prize draws and competitions and to fulfil special offers or rewards.  In those circumstances, we will make this clear to you and will provide a link to that company's privacy policy, which we advise you to read.
 
-DTL acts as both a data processor and a data controller within the meaning of the Data Protection Act 1998 with respect to handling your personal information.
 
-DTL acts solely as a data processor where it facilitates orders for products and services placed through our Website and Service.
+  * **Email communications -**  we use a company called The Rocket Science Group to help us manage our email communications.  If you provide us with your personal information to send you additional information on other products and special offers, we may share this information with The Rocket Science Group solely to provide this service.  They will not share this information with any other company or use it for any other purpose.
 
-In the following instances, DTL acts as a data controller:
 
-  * monitoring and improving the performance of our Website and services;
-  * carrying out research and analysis of the broadband, phone or digital TV marketplace;
-  * providing you with emails and newsletters and special offers if you register with us;
-  * providing an availability check of specific services in your area;
-  * fulfilling our obligations if you enter a prize draw or competition;
-  * responding to an enquiry you have made; and
-  * preventing fraud and defending our legal rights.
+  * **Customer services** \- we use a company called Zendesk to help us manage customer services enquiries.  If you provide us with your personal information when making an enquiry, we may share this information with Zendesk solely to provide this service.  They will not share this information with any other company or use it for any other purpose.
 
 
+  * Other members of our group - we may share your personal information with other companies within [our group](http://decision.tech/the-decision-tech-group/), if you have given your consent for us to do so.  For example, if you have bought a mobile phone or taken out a new mobile contract then we may send you information on how to get money by recycling your old handset or how to save money by buying a refurbished handset.  Please read their privacy notices to understand how they may use your personal information: [Sellmymobile.com](https://www.sellmymobile.com/misc/privacy/) and [Comparemymobile.com](https://www.comparemymobile.com/misc/privacy/).
 
-## Your rights
 
-You have certain rights under the Data Protection Act 1998 including the right to ask us not to process your personal data for marketing. You can contact us about such rights and personal data, including to ask whether we are keeping, processing or storing personal data about you, by sending an email to [dpo@broadbandchoices.co.uk](mailto:dpo@broadbandchoices.co.uk "Email address for Data Protection Officer") or by writing to the Data Protection Officer at Decision Technologies Limited, First Floor, High Holborn House, 52-54 High Holborn, London, WC1V 6RL.
 
-The Data Protection Act 1998 also gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet out costs in providing you with details of the information we hold about you.
+We may use other companies to help provide or maintain different parts of our website and service and in doing so they may process your personal information.  This includes our postcode checker; our speedtester; and our help desk and LiveChat platform.  In these instances, we are the data controller and the other companies must comply with our strict privacy requirements.    
 
-If you ask us to delete, correct or amend your personal data we will do so.
+We link to other companies' websites from our website. We try to only include quality, safe and relevant links but we cannot guarantee or verify the content of any externally linked website. If you follow a link to any of these websites, please note that they should have their own privacy policies and we have not endorsed or approved those policies. We cannot be held responsible (and do not accept any responsibility or liability) for the uses to which any other company puts your personal information once you have left our website. 
+
+Where permitted by law, we may also disclose your personal information:
+
+  * if we sell the group or any company or part of the group;
+  * to comply with any legal obligation, or to enforce or apply our rights and other agreements; and
+  * to protect the rights, property, or safety of us, our group; our customers, or others.
+
+
+
+We may also exchange your personal information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+## Where we transfer your information
+
+Some of the personal information we collect may be transferred to, and stored at, a destination outside the European Union (EU). It may also be processed by staff operating outside the EU who work for us or for one of our suppliers.
+
+Some of our services are provided by companies based in the United States (for example, Amazon Web Services and Google Cloud Platform).  When your personal information is transferred to the US we take all steps reasonably necessary to ensure that it is treated securely and in accordance with this privacy notice and all appropriate legal and regulatory requirements.  Many of the companies we use are certified by the [Privacy Shield](https://www.privacyshield.gov/welcome) framework (which sets security and privacy requirements for protection of your personal information) and we have written agreements with them to ensure they cannot process your personal information for any other purposes or share it with any other companies without our express permission.
+
+By submitting your personal information to us, you agree to this transfer, storing or processing.
+
+## How we keep your information safe
+
+Keeping your personal information secure is very important to us.  Once we have received your personal information, we will use strict procedures and security measures to protect it.  Our website is certified secure by [McAfee SECURE](https://www.mcafeesecure.com/verify?host=broadbandchoices.co.uk) and we use a secure protocol (https://) to encrypt your information between your computer's browser and our website.  We protect our network with the latest firewall technology and we securely store personal information and encrypt it where necessary.  We restrict the number of our staff that have access to any personal information and we have secure backup systems to ensure that any personal information cannot be lost or deleted.  We train all our staff so that they understand the importance of keeping our customers' personal information secure.
+
+Where we have given you (or where you have chosen) a password which enables you to access certain parts of our website, you are responsible for keeping this password confidential. We ask you not to share a password with anyone and to choose a strong password (which should contain a mixture of letters and numbers).
+
+Please bear in mind that no information sent over the Internet can be guaranteed to be totally secure. Although we will do our best to protect your personal information, we cannot guarantee the security of any personal information that you send to our website and it is sent at your own risk.
+
+## How to change your preferences
+
+Our group will only send you emails or marketing communications if you have agreed to this but you can ask us to stop at any time.
+
+If you no longer wish to be contacted by us, then you can let us know by emailing our customer services team ([customerservices@broadbandchoices.co.uk](mailto:customerservices@broadbandchoices.co.uk)) or by writing to us at the address below.
+
+All group marketing emails have a clear unsubscribe link and if you click it then we will automatically unsubscribe you and you will not receive any further marketing emails.
+
+In addition, all group marketing emails have a clear preferences link and if you click it then you can update your marketing preferences and your personal details.
+
+## How to get your information corrected or request we stop using it
+
+If you have any concerns about the accuracy of your personal information then you can contact us in writing by post or email (details below) and we will correct it.
+
+If you want us to stop using your personal information then please contact us in writing by post or email (details below) explaining why you object to its use and what you want us to do.  We will then respond appropriately to your request.
+
+Please note that if you do not provide us with your personal information or object to us using it then this may prevent us from fulfilling certain requests (for example we cannot provide accurate information on the broadband services where you live without your postcode and we cannot help you with certain enquiries without your contact details).
+
+## How to find out what information we hold
+
+You have the right to get a copy of the information we hold about you. This is known as a subject access request.
+
+If you wish to make a subject access request then please contact us in writing by post or email (details below).  You must provide your full name, address and a contact telephone number.
+
+If we hold information about you we will:
+
+  * give you a description of it;
+  * tell you the legal basis for us holding it;
+  * tell you what we are using it for;
+  * tell you who it could be disclosed to;
+  * tell you how long we keep it; and
+  * let you have a printed copy of the information or, if you prefer, provide it to you in a commonly used electronic format.
+
+
+
+We will do this free of charge and we will respond to you within one month or your request.
+
+If you identify any inaccuracies in the information we send you then we will correct it.
+
+## Changes to this privacy notice
+
+We update our privacy notice from time to time so we suggest you review it each time you provide any personal information.  Any changes we may make in the future will be posted on this page and, where appropriate, notified elsewhere on the website.
+
+## How to contact us or make a complaint
+
+If you have any questions or comments about this privacy notice then please write to:
+
+The Data Protection Officer
+
+Decision Technologies Limited
+
+First Floor
+
+High Holborn House
+
+52-54 High Holborn
+
+London WC1V 6RL
+
+Or email: [dpo@decision.tech](mailto:dpo@decision.tech)
+
+If you are concerned about the way we may be handling your personal information, then you can raise your concern with the [Information Commissioner's Office](https://ico.org.uk/for-the-public/raising-concerns/).
+
+**This privacy notice was last updated: [23 January 2018]**
