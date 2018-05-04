@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the catchoftheday.com.au privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106040036id_/https%3A//www.catchoftheday.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catchoftheday.com.au privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504070022id_/https%3A//www.catch.com.au/privacy) for the most accurate reproduction.*
 
-# CatchOfTheDay.com.au | Privacy Policy
+# Great daily deals at Australia's favourite superstore | Catch.com.au | Privacy Policy
 
 ### 1. Privacy Statement
 
@@ -64,7 +64,7 @@
 
 **3.1** We will generally use or disclose your personal information only for the primary purpose for which it was collected; or for a related secondary purpose where you would reasonably expect us to use or disclose the personal information for that secondary purpose. We may otherwise use and disclose your personal information if you have given us consent for the use or disclosure or it is required or authorised by law. 
 
-**3.2** Generally, we use and disclose your personal information for the purpose of providing you with the goods or services that you have requested, or otherwise to enable us to carry out our business as an online retailer of goods and services. 
+**3.2** Generally, we use and disclose your personal information for the purpose of providing you with the goods or services that you have requested, or otherwise to enable us to carry out our business as an online retailer of goods and services. Where necessary we will also share your information with third party Sellers who transact using our site. 
 
 **3.3** If those purposes for which we have collected the information involve providing personal information about an individual to any third party, we will take appropriate and reasonable steps to ensure any personal information is protected. 
 
@@ -72,11 +72,13 @@
 
 **3.5** When registering with us, you consent to us using your personal information, such as your email address, for direct marketing purposes. This includes sending you deal emails. You may opt out of receiving these direct marketing communications at any time. Our electronic marketing activities will comply with the requirements of the Spam Act 2003 (Cth). 
 
-**3.6** We may share your information with other members of the Catch Group Pty Ltd, including members that are located outside of Australia. Our Group is comprised of Catchoftheday.com.au Pty Ltd, Scoopon Pty Ltd, Mumgo Pty Ltd, Eat Now Services Pty Ltd and their Related Bodies Corporate, as defined in the Corporations Act 2001 (Cth). 
+**3.6** We may share your information with other members of the Catch Group Pty Ltd, including members that are located outside of Australia. Our Group is comprised of Catchoftheday.com.au Pty Ltd, Scoopon Pty Ltd, Mumgo Pty Ltd, BonVoyage.com.au Pty Ltd, AtlasTravel.com.au Pty Ltd and their Related Bodies Corporate, as defined in the Corporations Act 2001 (Cth). 
 
 **3.7** We may also provide your information to third parties that provide services to us, including third parties that provide our payment gateway, marketing, logistics and technology support services. This may include providing your information to third parties that are located outside of Australia. Where your personal information is transferred outside Australia (including the USA, UK, Hong Kong, the Philippines and the EU), we will do so in accordance with APP 8. 
 
-In addition, we may also disclose your information to third parties in order for them to provide services to you, in accordance with our [Terms and Conditions of Use and Sale](https://web.archive.org/terms) and this Privacy Policy. 
+**3.8** In addition, we may also disclose your information to third parties in order for them to provide services to you, in accordance with our [Terms and Conditions of Use and Sale](https://web.archive.org/terms) and this Privacy Policy. 
+
+**3.9** You agree and acknowledge that in the event we merge, sell or otherwise change control of our company, our business or the Website to a third-party, you consent, without giving of prior notice, to our disclosure of your personal information and other data that we have collected from you to a third-party or parties as part of such a transaction. 
 
 ### 4. Security of Your Personal Information
 
@@ -88,15 +90,13 @@ We take steps to protect the personal information we hold against loss, unauthor
 
 **5.2** Information we hold about you can be accessed by logging into your account on the website and checking the information in the My Account page. You should ensure the information, such as delivery address and email, is up to date and accurate. You can find more information about the information held in your account here. 
 
-**5.3** Subject to the exceptions of APP 12.3, you may make a request to receive any additional information we may hold about you, and we will provide this information to you within a reasonable time. When requesting such access please identify the precise type/s of information requested. You may make a request by contacting our [Help Centre](https://www.catchoftheday.com.au/helpcentre). 
+**5.3** Subject to the exceptions of APP 12.3, you may make a request to receive any additional information we may hold about you, and we will provide this information to you within a reasonable time. When requesting such access please identify the precise type/s of information requested. You may make a request by contacting our [Help Centre](https://help.catch.com.au/). 
 
 **5.4** We take steps reasonable in the circumstances to ensure that the personal information that we collect, use and disclose is accurate, up to date and complete. Where an individual requests to correct information, we will take reasonable steps to correct the information, having regard to the purpose for which it is held. You may lodge a request to correct personal information in the manner outlined in clause 5.3 above. 
 
 **5.5** To make a complaint about a breach of the Australian Privacy Principles, which includes how we handle your personal information, you may contact our Help Centre or write to us at the address provided in clause 5.3 above. We will endeavor to respond to your complaint within a reasonable time after it is received. If you are not satisfied by our response, you may acquire further information regarding privacy from the [Office of the Australian Information Commissioner](http://www.oaic.gov.au/). 
 
-Privacy Policy last updated on February 2015. 
-
-For FAQs relating to privacy topics, please see [here](https://helpcentre.catchoftheday.com.au/hc/en-us/sections/200951284). 
+Privacy Policy last updated on May 2017. 
 
 * * *
 
@@ -126,15 +126,15 @@ This may include providing your information to third parties that are located ou
 
 In cases where personal information has been disclosed to any third party, we will take appropriate steps to ensure your personal information is protected.
 
-Catchoftheday's Privacy Policy provides you with information about how you may: 
+Catch's Privacy Policy provides you with information about how you may: 
 
-  * access your personal information held by Catchoftheday and change that information, and 
-  * complain about a breach of the Privacy Act 1988 (Cth) and how Catchoftheday will deal with such a complaint.
+  * access your personal information held by Catch and change that information, and 
+  * complain about a breach of the Privacy Act 1988 (Cth) and how Catch will deal with such a complaint.
 
 
 
-Catchoftheday's Privacy Collection Statement and Privacy Policy may change from time to time. The latest versions will be available online at <https://www.catchoftheday.com.au/privacy>
+Catch's Privacy Collection Statement and Privacy Policy may change from time to time. The latest versions will be available online at <https://www.catch.com.au/privacy>
 
 Catchoftheday Pty Ltd (ABN 22 149 779 939), 767 Springvale Road, Mulgrave, Victoria, 3170
 
-Privacy Collection Statement last updated in April 2015
+Privacy Collection Statement last updated in May 2017
