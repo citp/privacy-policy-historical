@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the granicus.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902180405id_/https%3A//granicus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the granicus.com privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504183115id_/https%3A//granicus.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Granicus
+# Privacy Policy- Granicus
 
 Granicus provides its customers with a variety of fulfillment, support, and eCommerce-related services. This Privacy Statement informs you of our privacy practices, the way your information is collected online, and how that information is used. This statement is readily available on our home page and at the bottom of every Granicus Web page.
 
@@ -121,13 +121,13 @@ Users are responsible for any Personal Data of third parties obtained, published
 
 ### Mode and place of processing the data
 
-**Methods of processing**
+ **Methods of processing**
 
 Granicus processes the Data of Users in a proper manner and shall take appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.
 
 The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to Granicus, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of the site (administration, sales, marketing, legal, system administration) or external parties (such as third party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from Granicus at any time.
 
-**Place**
+ **Place**
 
 The Data is processed at Granicus’ operating offices and in any other places where the parties involved with the processing are located. For further information, please contact Granicus.
 
