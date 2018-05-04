@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the extly.com privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101111432id_/https%3A//www.extly.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extly.com privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504133212id_/http%3A//www.extly.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Extly Extensions
-
-[ ](http://www.extly.com/ "Extly.com - Extensions for Joomla!, autotweet, social content management, auto tweet, modules for search and extensions for SobiPro.")
 
 Extly Extensions is committed to protecting you and your personal information when you are using our services. We want our services to safe and enjoyable environments for our users. This Privacy Policy is relevant to our use of any personal information you provide to us during your visit to our site.
 
@@ -57,15 +55,3 @@ You may choose to restrict the collection or use of your personal information in
 **We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so.**
 
 We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
-
-Join the Club!
-
-Access and support services to all Extly's extensions for 1-Year. The Extly Club is your source for all of our extensions.
-
-[Join Now](http://www.extly.com/extly-club.html)
-
-[ ](http://www.extly.com/ "Extly.com - Extensions for Joomla!, autotweet, social content management, auto tweet, modules for search and extensions for SobiPro.")
-
-Copyright © 2007 - 2017 Extly, CB. All rights reserved.
-
-Joomla! name is used under a limited license from Open Source Matters in the United States and other countries. Extly.com is not affiliated with or endorsed by Open Source Matters or the Joomla! project.
