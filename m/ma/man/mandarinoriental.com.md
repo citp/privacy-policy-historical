@@ -1,67 +1,141 @@
-> *The following text is extracted and transformed from the mandarinoriental.com privacy policy that was archived on 2017-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170714200809id_/https%3A//www.mandarinoriental.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mandarinoriental.com privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504202059id_/https%3A//www.mandarinoriental.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mandarin Oriental Hotel Group
 
 This notice describes the general privacy policy of the Mandarin Oriental Hotel Group*. By visiting www.mandarinoriental.com, you are accepting the practices described in this notice.
 
-#### Q.1 What Information About You Do We Gather?
+#### Q.1 What information about you do we collect?
 
-#### Q.2 What About Cookies?
+#### Q.2 How do we use your information?
 
-#### Q.3 Does Mandarin Oriental Share the Information It Receives?
+#### Q.3 What about cookies?
 
-#### Q.4 Does Mandarin Oriental Transfer Information Overseas?
+#### Q.4 Does Mandarin Oriental share the information it receives?
 
-#### Q.5 How Secure Is Information About Me?
+#### Q.5 Does Mandarin Oriental transfer information overseas?
 
-#### Q.6 What Can I Do If I Have any Questions or Concerns or Want to Access My Personal Data?
+#### Q.6 How secure is your information?
 
-### 1. What Information About You Do We Gather?
+#### Q.7 How long will Mandarin Oriental keep your information?
 
-Information you give us helps us to provide you with our services, enter into or fulfill a contract with you and/or reply to or take actions in response to your enquiries or requests. To the extent permissible by applicable laws, the types of information we gather are:
+#### Q.8 What can you do if you have any questions or concerns or want to access your personal information?
 
-  * Information You Give Us: We receive and store information you enter on our website or give us in any other way, including, for example, when you stay as a guest at hotels managed by us. The provision of any information by you is voluntary except where otherwise stated. However, where you choose not to provide certain information, we may not be able to reply or respond to your enquiry or request and you may not be able to take advantage of some or all of our services. We use the information that you provide for such purposes as entering into or fulfilling a contract with you, reserving a room, processing on-line purchase transactions (including purchase of Mandarin Oriental gift cards), replying to or taking actions in response to your enquiries or requests, and customizing our services to your preferences. We also use such information for statistical and analysis purposes, to communicate news and promotions to you relating to Mandarin Oriental Hotel Group-related products and services and other products and services we think may be of interest to you, and otherwise communicating with you by email, mail, fax, phone or other means. We may also use such information as may be required to comply with applicable local laws.
-  * Personal Data You Provided on Behalf of Another Person: If you are entering data on behalf of another person, you warrant to us that you are authorised by that person to enter their personal data onto our system, and that that information is accurate and correct. If any non-compliance by you with respect to this provision results in any loss or damage being incurred by us, you may be required to compensate us in respect of such loss. Automatic Information: We receive and may evaluate certain types of information whenever you interact with us. For example, like many websites, we obtain certain types of information when your Web browser accesses www.mandarinoriental.com including your IP address, browser type and operating system. This information helps us to communicate with our customers and better understand them.
-  * E-mail Communications: If you provide us with your email address, we may email you promotional and marketing materials. We provide you with the option not to receive such promotional and marketing materials in each email sent to you. If you stay as a guest at hotels or residences properties managed by us, we may also use your email address to send you a Guest Satisfaction Survey after your stay. If you do not wish to receive a survey, you may notify us by contacting our Data Privacy Officer at data-protection@mohg.com. You may also receive an auto-generated e-mail confirmation when making a reservation on the Internet for stays at hotels or residences properties managed by us, when consummating any on-line purchase transactions with us, and occasionally from our reservation sales agents for inquiries related to a booking you have made for any of our services and products.
-  * Information from Other Sources: For reasons such as improving personalisation of our services (for example, providing recommendations or special offers that we think will interest you), we might receive information about you from other sources and add it to your existing information. We may share your existing information with third parties where this is necessary to provide you with our services, enter into or fulfill a contract with you and/or reply to or take actions in response to your enquiries or requests.
-  * Age Limitations: Mandarin Oriental does not knowingly collect personally identifiable information from our websites from any person we actually know is a person under the age of 18. Mandarin Oriental may collect personally identifiable information from persons under the age of 18 as part of the guest registration process, but always with the consent of such person’s parent or guardian.
+#### Q.9 What about linked websites?
 
+#### Q.10 Changes to this privacy policy
 
+### 11\. WHAT INFORMATION ABOUT YOU DO WE COLLECT?
 
-### 2. What About Cookies?
+Mandarin Oriental collects your information to operate effectively and provide you with the best experiences with our services. The specific kind of information collected will depend on the context of your interactions with Mandarin Oriental, and the services you use. The following are examples of the information that may be collected:
 
-We use tracking tools like browser cookies and web beacons to collect information from you. We collect information about users over time when you use this website. We may have third parties collect personal information this way. Learn more about these tools and how you can control them [here](http://www.mandarinoriental.com/privacy-policy/cookies.aspx). We also collect information from our mobile apps.
-
-### 3. Does Mandarin Oriental Share The Information It Receives?
-
-Information you provide to us will be used for such purposes as entering into or fulfilling a contract with you, reserving a room, processing on-line purchase transactions (including purchase of Mandarin Oriental gift cards), replying to or taking actions in response to your enquiries or requests, and customizing our services to your preferences. To the extent permissible by applicable laws, we also use such information for statistical and analysis purposes, to communicate news and promotions to you relating to Mandarin Oriental Hotel Group-related products and services and other products and services we think may be of interest to you, and otherwise communicating with you by email, mail, fax, phone or other means. We may also use such information as may be required to comply with applicable local laws. To the extent permissible by applicable law, we may therefore share information amongst ourselves, with hotels and residences properties managed by us, with third parties that collaborate with us on joint promotions (for example, airline partners, and local restaurants/celebrity chefs) and with third party service providers that assist in managing your data and communicating news and promotions to you (such as our email vendors and customer relationship management consultants; for queries regarding our third party data processors and third party recipients of personal data, please email us at [data-protection@mohg.com](mailto:data-protection@mohg.com)). In addition, we may share your information with other third parties where it is reasonably necessary or required in order to enter into or fulfill a contract with you and/or to reply to or take actions in response to your enquiries or requests, and as may be required to comply with applicable local laws.
-
-### 4. Does Mandarin Oriental Transfer Information Overseas?
-
-We may transfer your information outside of the country in which it was collected (including to countries where we have hotels under development or operation) for various reasons, including the purpose of entering into or fulfilling a contract with you, reserving a room, processing on-line purchase transactions (including purchase of Mandarin Oriental gift cards), replying to or taking actions in response to your enquiries or requests, for processing by us or on behalf of the hotels and residences properties managed by us, for enhancing personalization of services provided to you, for communicating news and promotions to you relating to Mandarin Oriental Hotel Group-related products and services and other products and services we think may be of interest to you, and for statistical and analysis purposes. Such transfer may be to a country which may not provide the same level of privacy protection as that provided by the country in which the information was collected but we will take reasonable steps (including entering into data transfer agreements based on the European Commission model clauses, where required) to ensure that while your data is within our control, we will handle your data using reasonable security and confidentiality procedures to keep your data secure and confidential.
-
-### 5. How Secure Is Information About Me?
-
-  * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) technology, which encrypts information you input and which is certified by the Secure Server Certification Authority.
-  * We reveal only the last four digits of your credit card numbers when confirming a reservation or processing on-line purchase transactions. Of course, we transmit the entire credit card number to the appropriate credit card company for verification.
-  * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when you have finished using a shared computer.
+  * Contact information (such as name, email address, mailing address, and phone number);
+  * Payment information (including payment card numbers, billing address, and bank account information);
+  * Demographic data (such as age, gender, country, and preferred language);
+  * Information related to your reservation, stay, or visit to a property (including the Mandarin Oriental hotels where you have stayed, date of arrival and departure, and goods and services purchased);
+  * Information necessary to fulfill your special requests and/or specific accommodations;
+  * Loyalty program member information, online account details, profile or password details and any frequent flyer or travel partner program affiliation;
+  * Copies of your correspondence if you contact us;
+  * Your interests and preferences;
+  * Information collected through the use of closed circuit television systems, card key and other security systems; and
+  * Information related to your use and interaction with our website.
 
 
 
-### 6. What Can I Do If I Have Any Questions Or Concerns Or Want To Access My Personal Data?
+We collect this information in a variety of ways, including:
 
-Our Data Privacy Officer will be happy to answer any concerns or queries you may have relating to the use or storage of your personal data. You have the right to object to the collection of and/or request access to, correction of and/or deletion of your data at any time by contacting our Data Privacy Officer. Our Data Privacy Officer can be contacted at [data-protection@mohg.com](mailto:data-protection@mohg.com).
+  * **Information You Give Us:** We receive and store information you enter on our website or give us in any other way, including, for example, when you stay as a guest at hotels managed by us. You decide how much information to share with us in most cases, but not sharing required information may limit your ability to engage in certain activities, such as payment information required to complete your reservation. If you submit any personal information relating to another person (e.g., if you make a reservation for another individual), you represent that you are authorised by that person to do so and to permit us to use the information in accordance with this Privacy Policy. You also represent that the information you provide is accurate.
+  * **Automatic Information:** When you use or interact with our website and/or use any apps that we may make available on our website, we receive and store information generated by your activity and information automatically collected from your browser or mobile device. For example, like many websites, we obtain certain information when your web browser accesses our website including your IP address, browser type, operating system, mobile network data, pages viewed and access times. This information helps us to communicate with our customers and better understand them.
+  * **Security Systems:** When you visit our managed properties, information may be collected about you through such properties’ closed circuit television systems, electronic key cards and other security systems.
+  * **Information from Other Sources:** We may receive information about you from other sources, such as public databases, joint marketing partners, and other third parties. This may include information from your travel agent, airline, credit card, and other partners.
+  * **Age Limitations:** Mandarin Oriental does not knowingly collect personally identifiable information from our websites from any person under the age of 18. Mandarin Oriental may collect personally identifiable information from people under the age of 18 as part of the guest registration process, but always with the consent of such person’s parent or guardian.
 
-* "Mandarin Oriental", "Mandarin Oriental Hotel Group", "we", "us" and "ourselves" refers to Mandarin Oriental Hotel Group Limited and its affiliates directly involved in the group’s management and operation of properties around the world, including the local managing entities in the following jurisdictions: in the Czech Republic this is Mandarin Oriental Prague S.R.O.; in France this is MOHG Hotel (Paris) SARL; in Germany this is Mandarin Oriental Munich GmbH; in Italy this is Mandarin Oriental Hotel Management (BVI) Limited; in Spain this is Mandarin Oriental Spain SL; in Morocco this is MO Hotel Management SARL; in Switzerland this is Mandarin Oriental (Switzerland) SA; and in the United Kingdom this is Mandarin Oriental Hyde Park Limited. Mandarin Oriental Hotel Group Limited and the applicable local managing entities as set forth above are “data controllers”.
 
-Mandarin Oriental Hotel Group Limited; 7/F, 281 Gloucester Road, Causeway Bay, Hong Kong.
 
-Last updated: 1 October 2015
+### 22\. HOW DO WE USE YOUR INFORMATION?
 
-[Dasar Privasi Malaysia](https://web.archive.org/privacy-policy/malaysia/default.aspx "Privacy Policy - Malaysian Bahasa")
+Mandarin Oriental collects your information to operate effectively and provide you with the best experiences with our services. Mandarin Oriental may collect, use, and disclose the information it collects for a variety of reasons, including for the following purposes:
 
-[Privacy Policy - Indonesian Basaha](https://web.archive.org/privacy-policy/indonesia/default.aspx "Privacy Policy - Indonesian Bahasa")
+  * **Fulfillment of Reservation and Other Purchases:** We may process information relating to transactions that you enter into with us and/or through our website ("transaction data"). The transaction data may be processed for the purpose of completing your room reservation, supplying the purchased goods and services, customizing our services to your preferences, seeking your feedback on your stay at our properties, and keeping proper records of those transactions.
+  * **Membership Programs:** To administer and operate voluntary membership programs, including the Fans of M.O. program, loyalty programs and frequent flyer programs. The data may be processed for the purposes of recording stay and transactional data, earning and redeeming rewards, points, or credits in connection with the programs.
+  * **Response to Inquiries:** We may process information contained in or relating to any communication that you send to us ("correspondence data"). The correspondence data may include the communication content and metadata associated with the communication. The correspondence data may be processed for the purposes of communicating with you and record-keeping.
+  * **Internal Business Purposes:** For our internal business purposes, such as data analysis, audits, developing new products, enhancing the website, improving our services, identifying usage trends and visiting patterns, determining the effectiveness of our promotions, and meeting contractual obligations.
+  * **Administrative and Other Communications:** To send you important information regarding our website, changes to our terms, conditions, and policies, or other administrative information (e.g., information about your travel reservations, such as reservation confirmations).
+  * **Marketing and Promotions:** To communicate news and promotions to you relating to Mandarin Oriental Hotel Group-related products and services and other products and services we think may be of interest to you, and to operate sweepstakes, contests, or other marketing or promotional activities.
+  * **Safety and Security:** To maintain your safety and security as well as that of other guests and personnel, while you visit our managed hotels and residences.
+  * **Our Legal Duties:** To comply with legal and regulatory requirements or demands in accordance with applicable law, a court order, subpoena, or other legal process.
+  * **Additional Uses:** We may also use your data other ways as described to you when you provide such information to us.
 
-[Privacy Policy -Taiwan - Traditional Chinese](https://web.archive.org/privacy-policy/taiwan/default.aspx "Privacy Policy - Taiwan – Traditional Chinese")
 
-[Privacy Policy - Thai](https://web.archive.org/privacy-policy/thailand/default.aspx "Privacy Policy - Thai")
+
+The legal basis for processing your personal information is made up of one or more of the following reasons: (i) your consent, and/or (ii) providing the services you have requested, and/or (iii) compliance with applicable laws, regulations, court orders or other legal process.
+
+### 33\. WHAT ABOUT COOKIES?
+
+We use tracking tools like browser cookies and web beacons to collect information from you. We collect information about users over time when you use this website or any apps that we may make available on our website. We may have third parties collect personal information this way. Learn more about these tools and how you can control them [here](https://www.mandarinoriental.com/cookie-policy).
+
+### 44\. DOES MANDARIN ORIENTAL SHARE THE INFORMATION IT RECEIVES?
+
+As an international hotel and residences management company and with the global geographical diversity of our business, it is essential that we share information across multiple jurisdictions in order to provide you with and to maintain the best possible service. The specific kind of information we share will depend on the context of your interactions with Mandarin Oriental, and the services you use. Accordingly, your personal information may be shared with the following parties insofar as reasonably necessary for the purposes, and on the legal bases, set out in this policy:
+
+  * to any Mandarin Oriental entity and hotels and residences managed by us;
+  * to the representative or travel advisor that has supplied us with your personal information (for example, your travel agent, personal assistant, employer or spouse who has provided us with your details);
+  * to third parties not affiliated with Mandarin Oriental when we have your consent to do so;
+  * to our trusted business partners to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures;
+  * to our marketing and advertisement partners to provide you with more-relevant ads on our site and to encourage you to return to our site;
+  * to third parties not affiliated with Mandarin Oriental if we have a good-faith belief that it is reasonably necessary to: (1) meet any applicable law, regulation, legal process or enforceable governmental request; (2) enforce applicable terms of service, including investigation of potential violations; (3) detect, prevent, or otherwise address fraud, security or technical issues; and (4) protect against harm to the rights, property or safety of Mandarin Oriental, our users or the public as required or permitted by law; and
+  * to any third parties to the extent necessary with respect to a sale of all or part of our business operations or assets.
+
+
+
+### 55\. DOES MANDARIN ORIENTAL TRANSFER INFORMATION OVERSEAS?
+
+As an international hotel and residences management company and with the global geographical diversity of our business, it is essential that we share information across multiple jurisdictions in order to provide you with and to maintain the best possible services. By using and/or purchasing our goods and services, we may transfer your personal information across multiple jurisdictions. Accordingly, insofar as reasonably necessary for the purposes, and on the legal basis, set out in this policy, we may transfer and store your personal information:
+
+  * in or to Hong Kong, the United Kingdom and the United States of America, where our corporate offices are located;
+  * in those countries in which we manage and operate hotels and residences and/or operate sales offices, including Chile, China, Czech Republic, France, Germany, Hong Kong S.A.R., Indonesia, Italy, Japan, Macau S.A.R., Malaysia, Morocco, Qatar, Singapore, Spain, St Vincent & The Grenadines, Switzerland, Thailand, Turkey, United Kingdom and United States; and
+  * in such other countries where our third party service providers, advisors and consultants are located, which changes from time to time.
+
+
+
+Such transfers may be to a country which may not provide the same level of privacy protection as that provided by the country in which the information was collected but we will take reasonable steps (including entering into data transfer agreements based on the European Commission model clauses, or requiring compliance with the EU-US Privacy Shield) to ensure that while your personal information is within our control, we will handle your personal information using reasonable security and confidentiality procedures to keep your personal information secure and confidential.
+
+### 66\. HOW SECURE IS YOUR INFORMATION?
+
+We implement reasonable administrative, organisational and technical safeguards and security measures to protect personal information within our control from unauthorized access, acquisition, disclosure, destruction or alteration, accidental loss, misuse or damage. We regularly review and monitor such safeguards and security measures.
+
+### 67\. HOW LONG WILL MANDARIN ORIENTAL KEEP YOUR INFORMATION?
+
+To the extent permissible by applicable law, we will retain your personal information for such period as necessary to satisfy or to fulfill the following:
+
+  * the purposes for which that personal information was provided,
+  * an identifiable and ongoing business need, including record keeping,
+  * a specific legal or regulatory requirement, and/or
+  * a requirement to retain records that may be relevant to any notified regulatory investigations or active legal proceedings.
+
+
+
+Where there is no sufficient justification to retain such personal information, such personal information will be safely and securely deleted, disposed of, anonymised and/or blocked.
+
+### 68\. WHAT CAN YOU DO IF YOU HAVE ANY QUESTIONS OR CONCERNS OR WANT TO ACCESS YOUR PERSONAL DATA?
+
+Our Data Protection Officer will be happy to answer any concerns or queries you may have relating to the use or storage of your personal data. Your principal rights under the European Union General Data Protection Regulation are: (a) the right to access; (b) the right to rectification; (c) the right to erasure; (d) the right to restrict processing; (e) the right to object to processing; (f) the right to data portability; (g) the right to complain to a supervisory authority; and (h) the right to withdraw consent. You may exercise any of these rights in relation to your personal data by contacting our Data Protection Officer. Our Data Protection Officer can be contacted by email at [data-protection@mohg.com](mailto:data-protection@mohg.com) or by post at 7/F, 281 Gloucester Road, Causeway Bay, Hong Kong.
+
+### 69\. WHAT ABOUT LINKED WEBSITES?
+
+The linking of third party websites to this website does not indicate any association with or endorsement by Mandarin Oriental. Mandarin Oriental does not assume responsibility or liability of any nature whatsoever for the activities conducted or information contained in the third party websites.
+
+### 610\. CHANGES TO THIS PRIVACY POLICY
+
+This privacy policy will be subject to change from time to time. The effective date of this current privacy policy is set out at the end of this document. Your use of this website constitutes your acceptance of the current terms as set out in this privacy policy.
+
+* "Mandarin Oriental", "Mandarin Oriental Hotel Group", "we", "us" and "ourselves" refers to Mandarin Oriental Hotel Group Limited and its affiliates directly involved in the group’s management and operation of properties around the world, including the local management entities in the following jurisdictions: in the Czech Republic this is Mandarin Oriental Prague S.R.O.; in France this is MOHG Hotel (Paris) SARL; in Germany this is Mandarin Oriental Munich GmbH; in Italy this is Mandarin Oriental Hotel Management (BVI) Limited; in Spain this is Mandarin Oriental Spain SL; in Morocco this is MO Hotel Management SARL; in Switzerland this is Mandarin Oriental (Switzerland) SA; and in the United Kingdom this is Mandarin Oriental Hyde Park Limited. Mandarin Oriental Hotel Group Limited and the applicable local management entities as set forth above are “data controllers”. The contact details for the data controller(s) are: by e-mail at: [data-protection@mohg.com](mailto:data-protection@mohg.com), and by post at: c/o Mandarin Oriental Hotel Group Limited, 7/F, 281 Gloucester Road, Causeway Bay, Hong Kong.
+
+**Effective Date:** 4 May 2018
+
+[Dasar Privasi Malaysia](https://web.archive.org/web/20180504202059id_/https%3A//www.mandarinoriental.com/privacy-policy/malaysia)
+
+[Privacy Policy - Indonesian Bahasa](https://web.archive.org/web/20180504202059id_/https%3A//www.mandarinoriental.com/privacy-policy/indonesia)
+
+[Privacy Policy -Taiwan - Traditional Chinese](https://web.archive.org/web/20180504202059id_/https%3A//www.mandarinoriental.com/privacy-policy/taiwan)
+
+[Privacy Policy - Thailand](https://web.archive.org/privacy-policy/thailand)
