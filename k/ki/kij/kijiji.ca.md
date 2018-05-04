@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kijiji.ca privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231184120id_/https%3A//help.kijiji.ca/helpdesk/policies/kijiji-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kijiji.ca privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504102621id_/https%3A//help.kijiji.ca/helpdesk/policies/kijiji-privacy-policy) for the most accurate reproduction.*
 
 # Kijiji Privacy Policy | Kijiji Helpdesk
 
@@ -108,7 +108,7 @@ You agree that we may use the information collected by us to send you offers, wh
 
 We will not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. We may combine your information with information we collect from other companies and use it to improve and personalize our Services and functionalities. 
 
-When you no longer wish to receive marketing communications from us, you can, where applicable, change your preferences in your [My Kijiji ](https://www.kijiji.ca/t-login.html)account, or follow the unsubscribe link in the marketing communication you received. 
+When you no longer wish to receive marketing communications from us, you can, where applicable, change your preferences in your [My Kijiji](https://www.kijiji.ca/t-settings.html) account, or follow the unsubscribe link in the marketing communication you received. 
 
  **5.  Advertising**
 
@@ -118,24 +118,24 @@ When you use our Services, we and our service providers may place cookies (data 
 
 **7.  Accessing, Reviewing and Changing Your Personal Information **
 
-We cannot modify your personal information or account information. You can modify your own information by logging into your Kijiji account. When you place a classified ad, you may not be able to change your listing or delete your message. If you want to close your account (where applicable) with us, please send us a request to us [here](https://web.archive.org/helpdesk/email-us/). We will process your request within a reasonable period of time and process your personal information in accordance with applicable law. Alternatively, you can also contact [Customer Support](https://web.archive.org/helpdesk/email-us/) to access your personal information stored by us that is not directly accessible on Kijiji, unless we are not required to provide access under applicable law. We may charge a fee to compensate costs; however the fee shall not exceed the amount permitted by law. If your information is factually incorrect or incomplete or irrelevant for the purposes for which we process your information, you can request us to modify or delete your information. Such requests will be handled in accordance with applicable law. If you have any questions, please contact us with the subject line ‘Request Privacy Policy’: 
+We cannot modify your personal information or account information. You can modify your own information by logging into your Kijiji account. When you place a classified ad, you may not be able to change your listing or delete your message. If you want to close your account (where applicable) with us, please send us a request to us [here](https://help.kijiji.ca/helpdesk/contact-us/). We will process your request within a reasonable period of time and process your personal information in accordance with applicable law. Alternatively, you can also contact [Customer Support](https://help.kijiji.ca/helpdesk/contact-us/) to access your personal information stored by us that is not directly accessible on Kijiji, unless we are not required to provide access under applicable law. We may charge a fee to compensate costs; however the fee shall not exceed the amount permitted by law. If your information is factually incorrect or incomplete or irrelevant for the purposes for which we process your information, you can request us to modify or delete your information. Such requests will be handled in accordance with applicable law. If you have any questions, please contact us with the subject line ‘Request Privacy Policy’: 
 
 - by writing to Kijiji Canada Ltd. Attention: Kijiji Canada Customer Support, 500 King St. W., Suite 200, Toronto, Ontario M5V 1L9.
 
 **8.  Protection and retention of your personal information **
 
-We protect your information by using technical and administrative security measures (such as firewalls, data encryption, and physical and administrative access controls to the data and servers) that limit the risk of loss, abuse, unauthorised access, disclosure, and alteration. Nevertheless, if you believe your account has been abused, please contact us through the [Contact Form](https://web.archive.org/helpdesk/email-us/).
+We protect your information by using technical and administrative security measures (such as firewalls, data encryption, and physical and administrative access controls to the data and servers) that limit the risk of loss, abuse, unauthorised access, disclosure, and alteration. Nevertheless, if you believe your account has been abused, please contact us through the [Contact Form](https://help.kijiji.ca/helpdesk/contact-us/).
 
 We retain personal information no longer than is legally permissible and delete personal information when it is no longer necessary for the purposes as described above. 
 
 **9.  Other information **
 
-**Abuse and unsolicited commercial communications ("spam"):** We do not tolerate abuse of our Website. You do not have permission to add other Kijiji users to your mailing list (e-mail or postal) for commercial purposes, even if a user has purchased something from you, unless the user has given his explicit consent. If you notice that someone is abusing our Website (spam or spoof emails), please notify us [here](https://web.archive.org/helpdesk/email-us/).
+**Abuse and unsolicited commercial communications ("spam"):** We do not tolerate abuse of our Website. You do not have permission to add other Kijiji users to your mailing list (e-mail or postal) for commercial purposes, even if a user has purchased something from you, unless the user has given his explicit consent. If you notice that someone is abusing our Website (spam or spoof emails), please notify us [here](https://help.kijiji.ca/helpdesk/contact-us/).
 
 It is not allowed to use our member-to-member communication resources to send spam or content that violates our Terms of Use in any other way. For your security, we may scan messages automatically and check for spam, viruses, phishing and other malicious activity or illegal or prohibited content. We do not permanently store messages sent through these resources. 
 
 **Third Parties:** Unless explicitly provided otherwise in this Privacy Policy, this Privacy Policy applies only to the use and transfer of information we collect from you. Kijiji has no control over the privacy policies of third parties that may apply to you. When we work with third parties or use third party tools to provide certain services, we will explicitly indicate which privacy policy applies to you. We therefore encourage you to ask questions before you disclose your personal information to others. 
 
-**Contact:** If you have any questions about Kijiji and our Website please contact us by [clicking here](https://web.archive.org/helpdesk/email-us/). For more information about eBay Inc. and how eBay handles personal information and privacy, you can contact the [eBay Privacy Center](http://www.ebayprivacycenter.com/).
+**Contact:** If you have any questions about Kijiji and our Website please contact us by [clicking here](https://help.kijiji.ca/helpdesk/contact-us/). For more information about eBay Inc. and how eBay handles personal information and privacy, you can contact the [eBay Privacy Center](http://www.ebayprivacycenter.com/).
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
