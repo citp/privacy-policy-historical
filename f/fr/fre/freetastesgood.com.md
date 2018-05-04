@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freetastesgood.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228072101id_/http%3A//www.freetastesgood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freetastesgood.com privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504165239id_/http%3A//www.freetastesgood.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Tastes Good!
 
