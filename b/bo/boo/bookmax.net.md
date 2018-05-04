@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmax.net privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102204742id_/http%3A//www.bookmax.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmax.net privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505001715id_/http%3A//www.bookmax.net/privacy-policy) for the most accurate reproduction.*
 
 # Online Bookmarks Manager - Privacy Policy!
 
