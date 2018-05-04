@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the catch.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606153022id_/https%3A//www.catch.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catch.com.au privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504070022id_/https%3A//www.catch.com.au/privacy) for the most accurate reproduction.*
 
-# Catch.com.au | Privacy Policy
+# Great daily deals at Australia's favourite superstore | Catch.com.au | Privacy Policy
 
 ### 1. Privacy Statement
 
