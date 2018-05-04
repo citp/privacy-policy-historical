@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insound.com privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103212915id_/http%3A//www.insound.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insound.com privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505011631id_/http%3A//insound.com/privacy-policy) for the most accurate reproduction.*
 
 # Insound Privacy Policy
 
@@ -12,7 +12,7 @@ This Privacy Policy does not address, and we are not responsible for, the privac
 
 The Properties are not directed to individuals under the age of thirteen (13), and we request that such individuals do not provide Personal Information through the Properties.
 
-**Your California Privacy Rights** : If you are a California resident, you may request certain information once per year about our disclosure of certain categories of Personal Information during the preceding calendar year to third parties for such third parties’ own direct marketing purposes. Please send your request by email to  HYPERLINK "mailto:[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)" [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), or by postal mail to Warner Music Group, Attn: Privacy Coordinator, 1633 Broadway, New York, NY 10019. We reserve our right not to respond to requests submitted other than to the email or mailing addresses specified in this section.
+**Your California Privacy Rights** : If you are a California resident, you may request certain information once per year about our disclosure of certain categories of Personal Information during the preceding calendar year to third parties for such third parties’ own direct marketing purposes. Please send your request by email to  HYPERLINK "mailto:privacypolicy@wmg.com" privacypolicy@wmg.com, or by postal mail to Warner Music Group, Attn: Privacy Coordinator, 1633 Broadway, New York, NY 10019. We reserve our right not to respond to requests submitted other than to the email or mailing addresses specified in this section.
 
 **UPDATES TO THIS PRIVACY POLICY**
 
@@ -168,11 +168,11 @@ We seek to use reasonable physical, technical and administrative measures to pro
 
 We give you many choices regarding our use and disclosure of your Personal Information for marketing purposes. You may opt-out from:
 
-**Receiving marketing-related emails from us and our affiliates** : If you do not want to receive marketing-related emails from us and our affiliates on a going-forward basis, you may opt-out from receiving such emails either by using the unsubscribe mechanism provided in the email or by emailing us at  HYPERLINK "mailto:[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)" [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+**Receiving marketing-related emails from us and our affiliates** : If you do not want to receive marketing-related emails from us and our affiliates on a going-forward basis, you may opt-out from receiving such emails either by using the unsubscribe mechanism provided in the email or by emailing us at  HYPERLINK "mailto:privacypolicy@wmg.com" privacypolicy@wmg.com.
 
-**Receiving marketing-related SMS text messages from us and our affiliates** : If you do not want to receive marketing-related SMS text messages from us and our affiliates on a going-forward basis, you may opt-out from receiving such messages by texting back “STOP” or by emailing us at  HYPERLINK "mailto:[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)" [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+**Receiving marketing-related SMS text messages from us and our affiliates** : If you do not want to receive marketing-related SMS text messages from us and our affiliates on a going-forward basis, you may opt-out from receiving such messages by texting back “STOP” or by emailing us at  HYPERLINK "mailto:privacypolicy@wmg.com" privacypolicy@wmg.com.
 
-**Our sharing of your Personal Information with artists or unaffiliated third parties for their marketing purposes** : If you prefer that we not share your Personal Information on a going-forward basis with artists or unaffiliated third parties for their marketing purposes, you may opt-out from such sharing by emailing us at  HYPERLINK "mailto:[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)" [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
+**Our sharing of your Personal Information with artists or unaffiliated third parties for their marketing purposes** : If you prefer that we not share your Personal Information on a going-forward basis with artists or unaffiliated third parties for their marketing purposes, you may opt-out from such sharing by emailing us at  HYPERLINK "mailto:privacypolicy@wmg.com" privacypolicy@wmg.com.  
 
 In each case, please make clear in your email what you are opting-out from. We will try to comply with your request(s) as soon as reasonably practicable.
 
@@ -180,13 +180,13 @@ Please note that, if you opt-out as described above, we will not be able to remo
 
 **How you can access, change, or remove your Personal Information and Posted Content**
 
-If you would like to review, correct, update, suppress, delete or otherwise limit our use of your Personal Information that you have previously provided to us or content you have previously posted on a Property, you may contact us by emailing us at  HYPERLINK "mailto:[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)" [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you would like to review, correct, update, suppress, delete or otherwise limit our use of your Personal Information that you have previously provided to us or content you have previously posted on a Property, you may contact us by emailing us at  HYPERLINK "mailto:privacypolicy@wmg.com" privacypolicy@wmg.com.
 
 In your request, please make clear what Personal Information or posted content you would like to have changed or removed and what limitations (if any) you would like to place on our use of your Personal Information. We will try to comply with your request as soon as reasonably practicable. Please note that such request does not ensure the complete or comprehensive removal of Personal Information or content posted on a Property. For example, we may need to retain certain information or content for recordkeeping purposes, and there may also be residual information or content that will remain within our databases and other records that will not be removed. We are also not responsible for changing, removing or suppressing information or content from the databases of artists or unaffiliated third parties with which we have already shared your Personal Information or content.
 
 **CONTACTING US**
 
-If you have any questions about this Privacy Policy, please contact us by email at  HYPERLINK "mailto:[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)" [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), or please write to the following address:
+If you have any questions about this Privacy Policy, please contact us by email at  HYPERLINK "mailto:privacypolicy@wmg.com" privacypolicy@wmg.com, or please write to the following address:
 
 Warner Music Group  
 Legal Department  
