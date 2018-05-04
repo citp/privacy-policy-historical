@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agoda.co.uk privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912053653id_/https%3A//www.agoda.com/info/agoda-privacy.html%3Fckuid%3D7052b5a4-5fce-4dcc-9f0a-e37ea04cff00) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agoda.co.uk privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504153605id_/https%3A//www.agoda.com/en-gb/info/agoda-privacy.html) for the most accurate reproduction.*
 
 # Agoda Privacy Policy
 
@@ -6,7 +6,7 @@ Agoda Privacy Policy
 
  **Introduction**
 
-Last Updated in August 2017
+Last Updated in November 2017
 
 Agoda.com is owned and operated by Agoda Company Pte. Ltd. ("Agoda" or "we"), a company registered in Singapore. The following Privacy Policy describes how we as a data controller collect, use, disclose, and otherwise process personally identifiable information that we collect about individuals ("Personal Data") in connection with the services available from Agoda through the website located at **[www.agoda.com](https://www.agoda.com/)** ("Site"). References to the Site are deemed to include derivatives thereof, including but not necessarily limited to mobile websites and applications. By visiting the Site, you are consenting to the collection, use, disclosure and processing of your Personal Data as described in this Privacy Policy.
 
@@ -18,19 +18,22 @@ We collect Personal Data about you that you provide to us when using the Site. P
 
 Pre-reservation chat support: in certain circumstances we may provide Agoda customers with pre-reservation chat support. The purpose of this support is to help customers with any pre-reservation questions that they may have but should a customer decide to proceed with the reservation on the Site, the customer will be expected to follow the normal reservation procedure him or herself. As such, we will generally not ask customers for any Personal Data e.g. no credit card numbers or customer email addresses but in case any information a customer provides to Agoda is deemed by law to be Personal Data or if the customer decides to disclose Personal Data to Agoda or where such Personal Data is required to be collected in order to provide pre-reservation chat support, then this Privacy Policy will apply to such Personal Data collected.
 
+Personal information you give us about others: by choosing to participate in our referral program, you may disclose personal information of others to us such as their names and email addresses. Please note that it is your responsibility to ensure that the person or people you have provided personal information about are aware that you have done so, and have accepted how Agoda uses their information (as described in this Privacy Policy).
+
 **Protecting Your Personal Data**
 
 To prevent unauthorized access, we maintain reasonable physical, electronic and organizational procedures to protect Personal Data against accidental or unlawful destruction or accidental loss, alteration, or unauthorized disclosure or access. To protect credit card transactions, Agoda.com currently uses Secure Socket Layer technology to encrypt credit card information during transit.
 
 **How We Use the Information We Collect– Credit Card on File**
 
-i) General Use: We use Personal Data and other information collected through the Site to (a) register you with the Site and create your user account, (b) provide you with the requested services (mainly to process and confirm your reservation with the accommodation provider or other supplier) after verifying your credentials, (c) provide you with information about our services on the Site or on other websites and to communicate with you to the extent necessary to provide such requested services, (d) build features that will make the services available on the Site easier to use, (e) for an improved user experience, internal training and general optimization purposes, (f) for the detection and prevention of fraud and other illegal or unwanted activities or (g) contact you in case there is any issue with your booking. This includes faster purchase requests, better customer support and timely notice of new services and special offers.
+i) General Use: We use Personal Data and other information collected through the Site to (a) register you with the Site and create your user account, (b) provide you with the requested services (mainly to process and confirm your reservation with the accommodation provider or other supplier) after verifying your credentials, (c) provide you with information about our services on the Site or on other websites and to communicate with you (including by post-booking chat support) to the extent necessary to provide such requested services, (d) build features that will make the services available on the Site easier to use, (e) conduct surveys, (f) for an improved user experience, internal training and general optimization purposes, (g) for the detection and prevention of fraud and other illegal or unwanted activities or (h) contact you in case there is any issue with your booking. This includes faster purchase requests, better customer support and timely notice of new services and special offers.
 
 ii) Marketing Activities & Reminders: We also use your information for marketing activities, as permitted by law. For example: 
 
 * When you make a reservation with us, set up a user account, complete or enter details into a booking form, or provide us with your contact details we may use your contact information to send you news of products and services relevant and useful for travellers. With your consent – if consent is required under local law – we may also send you other regular newsletters by email. You can opt out, or unsubscribe, from marketing communications at any time using the "Unsubscribe" link in each newsletter or communication, or you can administer your subscriptions through your account (if you've created one).
 * Based on the information you share with us, individualized offers may be shown to you on the Site, in mobile apps or on third-party websites, including social media sites. These might be offers that you can book directly on the Site, or third-party offers or products we think you might find interesting.
 * If you have not finalized a reservation online, we may send you a reminder to continue with your reservation. We believe that this additional service is useful to you because it allows you to carry on with a reservation without having to search for the accommodation again or fill in all the reservation details from scratch.
+* When you participate in other promotional activities, including but not limited to our referral programs, relevant information will be used to administer these promotions. 
 * Please see the section below titled “Cookies, Page Tags and Data Use” on how we use this data for advertising purposes.
 
 Please note that the confirmation emails and text messages sent after your booking, as well as the guest review emails sent after your departure, are not marketing messages. These messages are part of your accommodation reservation process. Respectively, they contain information for you to check in at your booked accommodation, and tools to optionally rate that accommodation after your stay. You will continue to receive them, even if you have opted out of our marketing messages. Similarly, opting into receiving Price Alerts will not affect any other choices you have made regarding receiving communications from us. If you elect to receive Price Alerts, you will be able to opt out of receiving the same by clicking on the “turn off price alerts” or a similar message found in the Price Alert sent to you.
@@ -83,7 +86,7 @@ by emailing appsflyer at: _privacy@appsflyer.com_
 
 To opt out of analytics programs, you can use the following tools:
 
-<https://tools.google.com/dlpage/gaoptout?hl=en>;
+[https://tools.google.com/dlpage/gaoptout?hl=en](https://tools.google.com/dlpage/gaoptout);
 
 <http://www.microsoft.com/en-us/privacystatement/default.aspx>;
 
