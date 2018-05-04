@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azcardinals.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205005250id_/http%3A//www.azcardinals.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azcardinals.com privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504110750id_/http%3A//www.azcardinals.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # azcardinals.com | Privacy Policy
 
