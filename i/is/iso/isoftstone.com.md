@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isoftstone.com privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509110848id_/http%3A//isoftstone.com/en-us/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isoftstone.com privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504213013id_/http%3A//isoftstone.com/en-us/privacy.aspx) for the most accurate reproduction.*
 
 # iSoftStone-Privacy
 
