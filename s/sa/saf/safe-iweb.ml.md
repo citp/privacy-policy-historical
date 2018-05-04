@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safe-iweb.ml privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206132302id_/http%3A//www.safe-iweb.ml/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safe-iweb.ml privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504021532id_/http%3A//www.safe-iweb.ml/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy OF Safe-Web
 
