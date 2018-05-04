@@ -1,49 +1,10 @@
-> *The following text is extracted and transformed from the diffuser.fm privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102203849id_/http%3A//diffuser.fm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diffuser.fm privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505000108id_/http%3A//diffuser.fm/privacy) for the most accurate reproduction.*
 
 # Diffuser
 
 Townsquare Media, Inc. and its subsidiaries and affiliates (individually or collectively, “we/our/us”) respect your privacy and are committed to protecting it through our compliance with this policy. 
 
 This policy describes the type of information we may collect from you and or that you may provide us when you visit our websites. “You/your/user(s)” means you as a user of our website(s), mobile site(s) and/or app(s) (individually or collectively, “Website(s)”) provided by us. We offer the Websites, including all information, tools and services available from the Websites, to you conditioned upon your acceptance of all the terms, conditions, policies and notices stated here, which you accept by continuing to utilize the Websites.
-
-Guide to Contents: 
-
-1\. Scope
-
-2\. Information Collected
-
-3\. Use of your Personal Information
-
-4\. Sharing Personal Information with Third Parties
-
-5\. Non-Personally Identifiable Information 
-
-6\. Your Security 
-
-7\. Links to Other Website(s) 
-
-8\. Opt-Out 
-
-9\. Children 
-
-10\. Your California Privacy Rights 
-
-11\. Disclosure for Legal Purposes
-
-12\. Non-Confidential Information 
-
-13\. Retention, Access and Deletion
-
-14\. Assignment
-
-15\. International Uses
-
-16\. Disputes
-
-17\. Contact
-
-
-
 
 ### 1\. Scope
 
