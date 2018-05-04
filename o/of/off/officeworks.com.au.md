@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the officeworks.com.au privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124235011id_/http%3A//www.officeworks.com.au/information/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officeworks.com.au privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504220810id_/http%3A//www.officeworks.com.au/information/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## Introduction
 
-  1. This Privacy Policy is the official privacy policy of Officeworks Ltd and its subsidiaries and other related bodies corporate (“ **Officeworks** ”). It applies to all personal information collected by Officeworks, including via [www.officeworks.com.au](http://www.officeworks.com.au/) and any related Officeworks website, social media page, internal website or intranet (each a **Website** ); any Officeworks mobile or table application (each an **Application** ); and from an individual via any other means, including physically or electronically (together, the **Collection Channels** ).
+  1. This Privacy Policy is the official privacy policy of Officeworks Ltd and its subsidiaries and other related bodies corporate (“ **Officeworks** ”). It applies to all personal information collected by Officeworks, including via [www.officeworks.com.au](http://www.officeworks.com.au/) and any related Officeworks website, social media page, internal website or intranet (each a **Website** ); any Officeworks mobile or tablet application (each an **Application** ); and from an individual via any other means, including physically or electronically (together, the **Collection Channels** ).
   2. In this policy we explain how and why we collect your personal information, how we use it and disclose it, and what controls you have over our use of it. We appreciate that you may have certain concerns about how your personal information is collected, used and shared. We can assure you that we will always handle your personal information securely and carefully. Among other things, we comply with all applicable Australian privacy laws including the Australian Privacy Principles.
   3. In addition to the provisions of this Privacy Policy, there may also be specific and additional privacy and consent provisions that apply to certain Collection Channels. Because those specific and additional provisions also relate to your privacy protection, we recommend that you review them wherever they appear. In the event of any inconsistency between the provisions of this Privacy Policy and those other specific and additional provisions, the specific and additional provisions will prevail.
 
@@ -125,14 +125,13 @@
     6. Where you have requested a service (e.g. furniture installation, assembly or product rental) and we are required to disclose the information to the third party in order to facilitate the provision of the service. There are some specific products and services we offer and we share your information as follows: Online Photo Website Supplier| Customer Payment Details| Customer Name & Address| Customer Artwork File| Customer Login Details| Customer Email  
 ---|---|---|---|---|---  
 Officeworks | __| __| __| __| __  
-Kodak |   | __| __| __| __  
-Lifepics |   | __| __| __| __  
-PMI ImageWorks |   | __| __|    |    
+Fujifilm | __| __| __| __| __  
+PhotoCreate | __| __| __| __| __  
 Online Print & Copy Supplier| Customer Payment Details| Customer Name & Address| Customer Artwork File| Customer Login Details| Customer Email  
 ---|---|---|---|---|---  
 Officeworks | __| __| __| __| __  
-Print Facilities |   | __| __|    | __  
-Payment (Paypal, Visa, Mastercard) | __|    |   |   |    
+Print Facilities | __| __| __| __| __  
+Payment (Paypal, Visa, Mastercard) | __| __| __| __| __  
 
 
 
@@ -182,7 +181,7 @@ North Rocks, NSW 2151
 AUSTRALIA 
 
 Telephone: 1300 633 423 (OFFICE)   
-Email: [Click here](http://www.officeworks.com.au/contact-us "Contact Officeworks") and select "Privacy" in the drop-down menu.
+Email: [Click here](https://www.officeworks.com.au/contact-us "Contact Officeworks") and select "Privacy" in the drop-down menu.
 
   37. Verification of identity is required with a request to access (or update) personal information so that we can ensure your personal information is disclosed only to you.
   38. Inaccurate information will be corrected upon receiving advice from you.
@@ -225,7 +224,7 @@ Email: [Click here](http://www.officeworks.com.au/contact-us "Contact Officework
 
 At or before the time the personal information is collected by us via a particular Collection Channel, we will take reasonable steps to provide you with a collection statement to ensure that you are made aware of who we are, the fact that you are able to gain access to the information held about you, the purpose of the collection, the type(s) of organisations to which we usually disclose the information collected about you, any laws requiring the collection of the information and the main consequences for you if all or part of the information is not collected. We will not collect or monitor any personal information about you without your consent, included as provided in this privacy policy.
 
-We take your privacy seriously at Officeworks. Read our[Privacy Policy](http://www.officeworks.com.au/information/policies/privacy-policy) for details, including why we collect your personal information and how we use it.
+We take your privacy seriously at Officeworks. Read our[Privacy Policy](https://www.officeworks.com.au/information/policies/privacy-policy) for details, including why we collect your personal information and how we use it.
 
 We collect personal information that you provide directly to us, such as when you make a purchase, register for an account or enter a competition or promotion. This may include:
 
