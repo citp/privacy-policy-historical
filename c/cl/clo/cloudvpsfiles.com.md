@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cloudvpsfiles.com privacy policy that was archived on 2017-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171020054622id_/http%3A//cloudvpsfiles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudvpsfiles.com privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504075048id_/http%3A//cloudvpsfiles.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – CloudVPS IT Technologies
+# Privacy Policy – CloudVPS IT Technologies (FZC)
 
 This Privacy Policy governs the manner in which Cloud VPS Files collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.cloudvpsfiles.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by Cloud VPS Files.
 
