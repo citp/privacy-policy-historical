@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flvplayer4free.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102203322id_/http%3A//www.flvplayer4free.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flvplayer4free.com privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504235324id_/http%3A//www.flvplayer4free.com/privacy.htm) for the most accurate reproduction.*
 
 # FLVPlayer4Free Free FLV Player Privacy
 
@@ -9,6 +9,8 @@ In our sites we use your IP address to help diagnose problems with our server an
 
 **Advertisers**  
 The ads appearing on our sites and within FLVPlayer4Free application are delivered by us or by our advertising partners. These ads may contain cookies. In the course of serving advertisements to those sites or FLVPlayer4Free application, us or advertising partners may place or recognize a unique 'cookie" on your browser. We use cookies to deliver content specific to your interests, among other purposes. The advertising company also may read or set cookies, track which ads you have viewed, or collect other information about you. The privacy practices of the advertising company, advertisers, and other companies are not covered by this privacy policy. Please contact those companies directly for more information about their privacy practices. You may set your browser to notify you when you receive a cookie.
+
+We may use [third-party advertising companies](http://d1f3drzi4rf2ax.cloudfront.net/pp.html) to serve ads when you visit our website.
 
 **Content**  
 FLVPlayer4Free may provide links to Internet sites or resources not owned or controlled by FLVPlayer4Free. Because FLVPlayer4Free has no control over such sites and resources, you acknowledge and agree that FLVPlayer4Free is not responsible or liable for any content, advertising, products, or other materials on or available from such sites or resources. FLVPlayer4Free shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by the use of or reliance on any such content, goods, or services available on or through any such site or resource.
