@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketersmedia.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903143305id_/http%3A//services.marketersmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketersmedia.com privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505005552id_/http%3A//services.marketersmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « MarketersMedia
 
