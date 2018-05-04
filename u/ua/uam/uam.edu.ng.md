@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uam.edu.ng privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102162904id_/http%3A//uam.edu.ng/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uam.edu.ng privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504234330id_/http%3A//uam.edu.ng/Privacy) for the most accurate reproduction.*
 
 # University of Agriculture, Makurdi
 
