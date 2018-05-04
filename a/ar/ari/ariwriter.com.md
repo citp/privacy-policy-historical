@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ariwriter.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128012727id_/http%3A//www.ariwriter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ariwriter.com privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504153935id_/http%3A//www.ariwriter.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Tips for News Writing
 
@@ -34,4 +34,8 @@ If ariwriter, or substantially all of its assets, were acquired, or in the unlik
 
 ### Ads
 
-Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advert
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by ariwriter and does not cover the use of cookies by any advertisers.
+
+### Privacy Policy Changes
+
+Although most changes are likely to be minor, ariwriter may change its Privacy Policy from time to time, and in ariwriter's sole discretion. ariwriter encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a http://www.ariwriter.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
