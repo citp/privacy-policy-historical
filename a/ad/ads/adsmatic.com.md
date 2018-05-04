@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adsmatic.com privacy policy that was archived on 2017-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171028214434id_/http%3A//www.adsmatic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsmatic.com privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504220510id_/http%3A//www.adsmatic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - adsmatic - FULL SERVE GLOBAL PERFORMANCE AGENCY
 
@@ -42,7 +42,7 @@ This Privacy Policy applies to the information that we collect or receive from y
 
 **2.1 Discretion to Use Your Individual Information.** WE MAY USE YOUR INDIVIDUAL INFORMATION FOR ANY LEGALLY PERMISSIBLE PURPOSE IN OUR SOLE DISCRETION. The following paragraphs in this Section 2 describe how we currently use your Individual Information, but we may change or broaden our use at any time. As noted, we may update this Privacy Policy from time to time. We may use your Individual Information to provide promotional offers to you by means of email advertising, telephone marketing, direct mail marketing, online banner advertising, and package stuffers, among other possible uses.
 
-**2.2 Email.** We use your Individual Information to provide promotional offers by email to you. We may maintain separate email lists for different purposes. If you wish to end your email subscription from a particular list, you need to follow the instructions at the end of each email message to unsubscribe from the particular list. To unsubscribe from all of our email lists, you must send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2653485553445545544f4443664b534842494b43424f470845494b)
+**2.2 Email.** We use your Individual Information to provide promotional offers by email to you. We may maintain separate email lists for different purposes. If you wish to end your email subscription from a particular list, you need to follow the instructions at the end of each email message to unsubscribe from the particular list. To unsubscribe from all of our email lists, you must send an email to [info@adsmatic.com.](mailto:unsubscribe@mundomedia.com)
 
 **2.2(a)** **Content of Email Messages.** In certain commercial email messages sent by us, an advertiser’s name will appear in the “From:” line but hitting the “Reply” button will cause a reply email to be sent to us. The “Subject:” line of our email messages will usually contain a line provided from the advertiser to us.
 
@@ -70,7 +70,7 @@ This Privacy Policy applies to the information that we collect or receive from y
 
 **3.4 Summary Data.** We may sell or transfer non-individualized information, such as summary or aggregated anonymous information about all persons or sub-groups of persons.
 
-**3.5 Access.  **You have access to your Individual Information collected to provide an opportunity for you to correct, amend, or delete such information. Access can be obtained by contacting [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) We may also grant advertising clients and email services providers’ access to your email address to verify the origin of your Individual Information collected.
+**3.5 Access.  **You have access to your Individual Information collected to provide an opportunity for you to correct, amend, or delete such information. Access can be obtained by contacting info@adsmatic.com. We may also grant advertising clients and email services providers’ access to your email address to verify the origin of your Individual Information collected.
 
 **3.6 Other.** We may also disclose your Individual Information:  
 • Where the information is public; or  
@@ -98,15 +98,15 @@ You acknowledge that personal information will be collected and stored by us in 
 
 ### **6\. Unsubscribe Procedures.**
 
-  1. **Unsubscribe from one email list.** To unsubscribe from a particular list, either (1) send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#dcb5b2bab39cbdb8afb1bda8b5bff2bfb3b1) or (2) follow the instructions in each promotional email message sent by the Company.
-  2. **Unsubscribe from all of our email lists.** We reserve the right to add your Individual Information to multiple lists maintained by us. To globally unsubscribe from all of our lists, send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7f0a110c0a1d0c1c0d161d1a3f120a111b10121a1b161e511c1012).
+  1. **Unsubscribe from one email list.** To unsubscribe from a particular list, either (1) send an email to [info@adsmatic.com](mailto:info@adsmatic.com) or (2) follow the instructions in each promotional email message sent by the Company.
+  2. **Unsubscribe from all of our email lists.** We reserve the right to add your Individual Information to multiple lists maintained by us. To globally unsubscribe from all of our lists, send an email to [info@adsmatic.com](mailto:unsubscribe@mundomedia.com).
   3. **Unsubscribe from a particular SMS messaging campaign.** To unsubscribe from a particular SMS messaging campaign on a cell phone, send “STOP” to the SMS message received by you. In addition, other methods to unsubscribe may be set forth on the Website where signed up for the SMS messaging campaign.
 
 
 
 ### **7\. Disputes.**
 
-If you have any concerns or claims with respect to our data handling practices, please contact us first. We will investigate and attempt to resolve any complaints and disputes regarding our use and disclosure of your Individual Information. If your complaint or dispute cannot be resolved through our internal process, or if we do not adequately respond to your question, you agree to resolve your dispute through arbitration. If arbitration is necessary, it will be conducted by telephone and email, and if it must be done in person, it will be conducted in San Francisco, California. The arbitration will be conducted by one arbitrator member of the American Arbitration Association, and under the rules of commercial arbitration of the American Arbitration Association or as agreed between you and the Company. Both parties will bear equally the cost of arbitration (exclusive of legal fees and expenses). All decisions of the arbitrator will be final and binding on both parties and enforceable in any court of competent jurisdiction. For additional information you may contact [www.ADR.org](https://web.archive.org/web/20171028214434id_/http://www.adsmatic.com/privacy-policy/www.ADR.org).
+If you have any concerns or claims with respect to our data handling practices, please contact us first. We will investigate and attempt to resolve any complaints and disputes regarding our use and disclosure of your Individual Information. If your complaint or dispute cannot be resolved through our internal process, or if we do not adequately respond to your question, you agree to resolve your dispute through arbitration. If arbitration is necessary, it will be conducted by telephone and email, and if it must be done in person, it will be conducted in San Francisco, California. The arbitration will be conducted by one arbitrator member of the American Arbitration Association, and under the rules of commercial arbitration of the American Arbitration Association or as agreed between you and the Company. Both parties will bear equally the cost of arbitration (exclusive of legal fees and expenses). All decisions of the arbitrator will be final and binding on both parties and enforceable in any court of competent jurisdiction. For additional information you may contact [www.ADR.org](https://web.archive.org/web/20180504220510id_/http://www.adsmatic.com/privacy-policy/www.ADR.org).
 
 ### **8\. Limitation of Liability.**
 
@@ -114,8 +114,8 @@ We exercise reasonable efforts to safeguard the security and confidentiality of 
 
 ### **9\. Additional Terms.**
 
-California User Consumer Rights. In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with the California Department of Consumer Affairs, 400 R Street, STE 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) Sec. 1798.83 of the California Civil Code, grants residents of the State of California the right to request from a business with whom the California resident has an established business relationship, once a year, certain information with respect to the types of personal information that the business shares with third parties for those third parties’ direct marketing purposes and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To exercise your rights, you may make one request each year by contacting us as.
+California User Consumer Rights. In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with the California Department of Consumer Affairs, 400 R Street, STE 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to dca@dca.ca.gov. Sec. 1798.83 of the California Civil Code, grants residents of the State of California the right to request from a business with whom the California resident has an established business relationship, once a year, certain information with respect to the types of personal information that the business shares with third parties for those third parties’ direct marketing purposes and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To exercise your rights, you may make one request each year by contacting us as.
 
 ### **10\. How to Contact Us**
 
-You may reach us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+You may reach us by email at info@adsmatic.com.
