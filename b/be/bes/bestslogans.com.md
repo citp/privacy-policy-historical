@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestslogans.com privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101090429id_/http%3A//www.bestslogans.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestslogans.com privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504231453id_/http%3A//www.bestslogans.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -49,3 +49,5 @@ As a website User you can fully control the collection and use of your personal 
 No personal information is sold, leased or distributed to third parties without your written consent or unless required to do so by law. We use this information primarily to send you third party promotional content, that we think you may find interesting. 
 
 Under the Data Protection Act of 1998, you can request to know the personal information we hold, use and share. We will provide these details for a small fee. You can request a copy of this information by sending us an email [here](https://web.archive.org/contact/). If any of the information is incorrect or incomplete, you are requested to notify us of the same by writing to us or emailing us [here](https://web.archive.org/contact/). We will update the information as soon as possible.
+
+Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their privacy policy or contact their data protection officer via privacy@exponential.com.
