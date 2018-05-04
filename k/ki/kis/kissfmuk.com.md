@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kissfmuk.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228045628id_/http%3A//www.bauerdatapromise.co.uk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kissfmuk.com privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504123039id_/http%3A//www.bauerdatapromise.co.uk) for the most accurate reproduction.*
 
 # Bauer Media Group - Privacy Policy
 
