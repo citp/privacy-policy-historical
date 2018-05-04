@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rightsignature.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520151113id_/https%3A//rightsignature.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightsignature.com privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504095314id_/http%3A//www.rightsignature.com/privacy-policy) for the most accurate reproduction.*
 
 # Citrix RightSignature Privacy Policy
 
