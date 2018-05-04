@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guitargirlmag.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129025301id_/http%3A//guitargirlmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitargirlmag.com privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504093233id_/http%3A//guitargirlmag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Guitar Girl Magazine
 
@@ -144,5 +144,5 @@ If you have any questions regarding our Privacy Policy, please contact our Priva
 The Low Group, Inc. dba Guitar Girl Magazine  
 12195 Highway 92, Suite 114-210  
 Woodstock, GA 30188  
-Email: info@guitargirlmag.com  
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
 Phone: (866) 364-4828
