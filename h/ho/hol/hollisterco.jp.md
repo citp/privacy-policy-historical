@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hollisterco.jp privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102015408id_/http%3A//www.hollisterco.jp/en_JP/content%3Fpage%3Dprivacy%26cid%3Dprivacy-and-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollisterco.jp privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504100654id_/http%3A//www.hollisterco.jp/en_JP/content%3Fpage%3Dprivacy%26cid%3Dprivacy-and-terms) for the most accurate reproduction.*
 
 # privacy-and-terms
 
-Updated: June 2017
+Updated: January 2018
 
 In order to make your visits to the various online channels of Hollister Co. as responsive as possible, we provide this summary of what information we collect online, and how that information is used.
 
@@ -69,7 +69,7 @@ When you send an electronic postcard, or email an item to a friend from our Webs
 
 If you are 18 years of age or older you are given the opportunity to create an account on our Websites and Apps. Creating an account requires you to enter your email address, first and last name, and to create a password, and allows you to provide postal addresses, a phone number, payment details, date of birth, gender, and favorite categories. By providing this information we are able to offer you a more personalized experience on our Websites, Apps, and in communications. In addition, we may identify you when you sign into your account and we may personalize messaging, promotions or product recommendations. Some of the features in the account section allow you to create an address book, save a wish list, subscribe to and update your marketing email frequency, access your order history, and enjoy "quick checkouts" by having us automatically enter your name, phone number, email, postal address, and payment details in the checkout process. When you create an account you will receive a welcome email that will be delivered to the email address you inserted into the email field on the create an account page. .
 
-To request to have your account cancelled send an email to [Privacy_Policy@HollisterCo.com](https://web.archive.org/web/20171102015408id_/http%3A//www.hollisterco.jp/en_JP/Privacy_Policy@HollisterCo.com) from the email address associated with the account you wish to cancel.
+To request to have your account cancelled send an email to [Privacy_Policy@HollisterCo.com](https://web.archive.org/web/20180504100654id_/http%3A//www.hollisterco.jp/en_JP/Privacy_Policy@HollisterCo.com) from the email address associated with the account you wish to cancel.
 
 #### My Account – Payment Info
 
@@ -241,11 +241,11 @@ Responsible Sender of Marketing Emails
 Abercrombie & Fitch Stores, Inc.  
 6301 Fitch Path  
 New Albany, Ohio 43054 USA  
-[Privacy_Policy@HollisterCo.com](https://web.archive.org/web/20171102015408id_/http%3A//www.hollisterco.jp/en_JP/Privacy_Policy@HollisterCo.com)
+[Privacy_Policy@HollisterCo.com](https://web.archive.org/web/20180504100654id_/http%3A//www.hollisterco.jp/en_JP/Privacy_Policy@HollisterCo.com)
 
 #### 3.Postal Address
 
-If you do not wish to receive marketing materials from us via postal mail, please email us at [Privacy_Policy@HollisterCo.com](https://web.archive.org/web/20171102015408id_/http%3A//www.hollisterco.jp/en_JP/Privacy_Policy@HollisterCo.com) and tell us to remove you from our postal mailing list, including the postal address you wish to have removed.
+If you do not wish to receive marketing materials from us via postal mail, please email us at [Privacy_Policy@HollisterCo.com](https://web.archive.org/web/20180504100654id_/http%3A//www.hollisterco.jp/en_JP/Privacy_Policy@HollisterCo.com) and tell us to remove you from our postal mailing list, including the postal address you wish to have removed.
 
 If you would like to make sure that we do not disclose your name and postal mailing address to unaffiliated third parties for their marketing purposes, please email us at [Privacy_Policy@HollisterCo.com ](mailto:Privacy_Policy@HollisterCo.com)and ask us not to share your postal address with unaffiliated companies, including the postal address
 
@@ -273,7 +273,7 @@ As we continue to offer our customers new and different types of content and ser
 
 We limit the number of employees that have access to the databases that contain personal information.
 
-Our Websites are designed to accept orders from web browsers that allow communication through Transport Layer Security (TLS) v1.1 and 1.2. We support Microsoft Internet Explorer 11.0+, Apple OS X 10.9+, Android 4.4+, and Apple iOS 8+. We recommend if you are viewing our websites on Google Chrome or Mozilla Firefox to download the latest version in order to maximize your experience, otherwise you may not be able to access or utilize all pages on our websites as intended.
+Our Websites are designed to accept orders from web browsers that allow communication through Transport Layer Security (TLS) v1.1 and 1.2. We support Microsoft Internet Explorer 11.0+, Apple OS X 10.9+, Android 5.0+, and Apple iOS 9.0+. We recommend if you are viewing our websites on Google Chrome or Mozilla Firefox to download the latest version in order to maximize your experience, otherwise you may not be able to access or utilize all pages on our websites as intended.
 
 While we implement the above security measures on our Websites/Apps, you should be aware that 100% security is not always possible.
 
@@ -288,4 +288,4 @@ Abercrombie & Fitch Stores, Inc.
 6301 Fitch Path  
 New Albany, Ohio 43054 USA
 
-[Privacy_Policy@HollisterCo.com](https://web.archive.org/web/20171102015408id_/http%3A//www.hollisterco.jp/en_JP/Privacy_Policy@HollisterCo.com)
+[Privacy_Policy@HollisterCo.com](https://web.archive.org/web/20180504100654id_/http%3A//www.hollisterco.jp/en_JP/Privacy_Policy@HollisterCo.com)
