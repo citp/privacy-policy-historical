@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the helperblogger.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102144839id_/http%3A//www.helperblogger.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helperblogger.com privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505185526id_/http%3A//www.helperblogger.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Helper Blogger
+# Privacy Policy - Helper Blogger
 
 Privacy Policy for www.helperblogger.com/ 
 
