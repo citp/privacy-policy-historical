@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motivateus.com privacy policy that was archived on 2017-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171012081653id_/http%3A//motivateus.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motivateus.com privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505231817id_/http%3A//motivateus.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Motivating Moments
 
@@ -86,7 +86,7 @@ The practices and policies for the URL: www.motivateus.com are the same as the p
 Security for all personally identifiable information is extremely important to us. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Motivating Moments LLC cannot ensure or warrant the security of any information you transmit to us or from our online services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.
 
 **Motivating Moments LLC Commitment to Children's Privacy**  
-Protecting children's privacy is especially important to us. It is our policy to comply with the Children's Online Privacy Protection Act ("COPPA") and all other applicable laws. Please read our [Children's Privacy Policy](https://web.archive.org/web/20171012081653id_/http%3A//motivateus.com/child-privacy.htm).
+Protecting children's privacy is especially important to us. It is our policy to comply with the Children's Online Privacy Protection Act ("COPPA") and all other applicable laws. Please read our [Children's Privacy Policy](https://web.archive.org/web/20180505231817id_/http%3A//motivateus.com/child-privacy.htm).
 
 We have Web pages designed especially for our younger users, primarily teens. While we make every effort to ensure that these Web sites are fun and age-appropriate for our younger audience, we believe that there is no substitute for proper parental supervision. 
 
@@ -112,4 +112,4 @@ All Rights Reserved.
   
 **Have something you would like to share?  
 An insight that has helped you?  
-We invite you to [submit a quote](https://web.archive.org/web/20171012081653id_/http%3A//motivateus.com/form.htm).**
+We invite you to [submit a quote](https://web.archive.org/web/20180505231817id_/http%3A//motivateus.com/form.htm).**
