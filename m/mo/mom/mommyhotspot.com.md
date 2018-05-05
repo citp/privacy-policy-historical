@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mommyhotspot.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211163112id_/http%3A//www.mommyhotspot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mommyhotspot.com privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505040630id_/http%3A//www.mommyhotspot.com/privacy-policy) for the most accurate reproduction.*
 
 # Mommy Hot Spot | Connecting Moms for Happy Families » Privacy Policy
 
