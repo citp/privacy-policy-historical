@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyforgenius.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224043456id_/http%3A//moneyforgenius.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyforgenius.com privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505042637id_/http%3A//moneyforgenius.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Money for Genius
 
