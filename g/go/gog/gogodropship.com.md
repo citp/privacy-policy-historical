@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gogodropship.com privacy policy that was archived on 2017-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171031220331id_/http%3A//www.gogodropship.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gogodropship.com privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505215648id_/http%3A//www.gogodropship.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | GoGo Dropship
 
