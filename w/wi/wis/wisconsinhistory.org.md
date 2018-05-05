@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wisconsinhistory.org privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621075732id_/http%3A//www.wisconsinhistory.org/Content.aspx%3FdsNav%3DN%3A4294963828-4294963805%26dsRecordDetails%3DR%3ACS4113) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisconsinhistory.org privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505201227id_/https%3A//www.wisconsinhistory.org/Records/Article/CS4113) for the most accurate reproduction.*
 
 # Wisconsin Historical Society Website Privacy Policy | Wisconsin Historical Society
 
-#### Organizational Description
+Organizational Description
 
 The Wisconsin Historical Society values the users of our website (the "Website"). Your privacy and trust are very important to us. We recognize that you may be concerned about our collection, use, and disclosure of the personally identifiable information ("personal information") that we collect when you use the Website and the services offered on the Website. This privacy policy describes the information that we collect from you, how we collect this information and what we do with it after we collect it.
 
