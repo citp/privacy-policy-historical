@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emrgmedia.com privacy policy that was archived on 2017-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171021151541id_/http%3A//emrgmedia.com/pages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emrgmedia.com privacy policy that was archived on 2018-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180506010026id_/http%3A//emrgmedia.com/pages/privacypolicy) for the most accurate reproduction.*
 
 # New York City Marketing Company for Restaurants, Event Spaces, Nightclubs And Lounges - EMRG Media
 
