@@ -1,1081 +1,919 @@
-<!--The following is the downloaded HTML source of the davidsuzuki.org privacy policy that was archived on 2017-09-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170905193537id_/http%3A//www.davidsuzuki.org/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the davidsuzuki.org privacy policy that was archived on 2018-05-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180505190536id_/https%3A//davidsuzuki.org/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
-    <meta name="description" content="The David Suzuki Foundation is committed to maintaining your trust and confidence. ">
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="generator" content="Movable Type Pro 5.13-en">
-<meta name="viewport" content="initial-scale=1.0, width=device-width">
+<!DOCTYPE html><html class="no-js" lang="en-US"><head>
 
+    
+      <!-- Google Tag Manager -->
+      <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-WRMHL5"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-WRMHL5');</script>
+      <!-- End Google Tag Manager -->
 
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="format-detection" content="telephone=no">
 
+    <title>Privacy Policy - David Suzuki Foundation</title>
 
+    <script>
+      /**
+ * Script to handle redirecting the user based on their language preference
+ */
+(function() {
 
+  /**
+   * Get cookies as object
+   */
+  function cookieToObj() {
+    var obj = {}
+    document.cookie
+    .split(';')
+    .map(function(frag) {
+      var keyval = frag.split('=')
+      obj[keyval[0].replace(' ', '')] = keyval[1]
+    })
 
+    return obj
+  }
 
+  function redirectToLang() {
+    var cookie = cookieToObj()
 
-<link rel="stylesheet" href="http://www.davidsuzuki.org/css/base.css" type="text/css">
+    if(cookie[Global.language_preference_key] && !window.sessionStorage.getItem(Global.language_redirected_key)) {
 
+      Global.sites.map(function(site) {
 
+        var lang = site.lang
+        var cookieLang = cookie[Global.language_preference_key].replace('-',
+        '_')
 
-<link rel="start" href="http://www.davidsuzuki.org/" title="Home">
-
-
-   <link rel="alternate" type="application/atom+xml" title="Recent Entries" href="http://feeds.feedburner.com/davidsuzuki/">
-
-
-
-
-
-
-<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="//scripts.kissmetrics.com/3872510c8feb10ecf00eb6a08e5a53ad4c079922.2.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WRMHL5"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-<script type="text/javascript" src="http://www.davidsuzuki.org/mt.js"></script>
-<script type="text/javascript">
-options = {
-    mt : {
-        armor : 'bd33e1f0c41fdae486e3bb9f52f61d3e67fa89b9'
-    }
-};
-</script>
-
-<script type="text/javascript">
-var _YOUTUBE_IS_READY = false;
-var _YOUTUBE_READY_CALLBACKS = [];
-
-function onYouTubePlayerAPIReady() {
-        _YOUTUBE_IS_READY = true;
-        $.each(_YOUTUBE_READY_CALLBACKS, function(index, callback) {
-                callback();
-        });
-}
-function doWhenYouTubeIsReady(callback) {
-        if (_YOUTUBE_IS_READY) {
-                callback();
-        } else {
-                _YOUTUBE_READY_CALLBACKS.push(callback);
+        // wp default
+        if(!lang) {
+          lang = 'en_US';
         }
-}
-</script>
 
-<script type="text/javascript" src="http://www.youtube.com/player_api"></script>
-<script type="text/javascript" src="http://www.davidsuzuki.org/scripts/dsf-base.js"></script>
-<script type="text/javascript" src="http://www.davidsuzuki.org/scripts/dsf.js"></script>
+        if(lang == cookieLang && !site.is_current) {
 
-<!-- jQuery Plugins & Functions - FIXME: Concatenate before releasing Motion -->
+          // Save the current url with a flag to be used on the next page
+          var referrerURL = encodeURIComponent(location.href + '?' + Global.language_redirected_key + '=true' )
+          // Assign it to the 'language_redirect' param
+          var redirectParams = Global.language_redirect_key + '=' + referrerURL
+          // Put together the url we want to go to
+          var redirectURL = '//' + site.domain + '?' + redirectParams
 
-<!-- Ajax Form Handler -->
-<script type="text/javascript" src="http://www.davidsuzuki.org/mt1/mt-static/jquery/jquery.form.js"></script>
+          // Save the user's redirected session, to prevent redirecting multiple times
+          window.sessionStorage.setItem(Global.language_redirected_key, 'true')
+          window.location = redirectURL // Perform the redirect
 
-<!-- Timing Functions -->
-<script type="text/javascript" src="http://www.davidsuzuki.org/mt1/mt-static/jquery/jquery.timeout.interval.idle.js"></script>
+        }
 
-<!-- Date Handler (we can replace this with a much smaller script) -->
-<script type="text/javascript" src="http://www.davidsuzuki.org/mt1/mt-static/jquery/jquery.phpdate.js"></script>
+      })
+    }
+  }
 
- 
+  document.addEventListener('DOMContentLoaded', redirectToLang)
 
+})()
 
-
-
-
-<script src="http://www.davidsuzuki.org/scripts/jquery.cookie.js" type="text/javascript"></script>
-<script src="http://www.davidsuzuki.org/scripts/newsletterpopup.js" type="text/javascript"></script>
-<script src="http://www.davidsuzuki.org/scripts/placeholder.js"></script>
-
-
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-2224154-1']);
-  _gaq.push(['_setDomainName', '.davidsuzuki.org']);
-  _gaq.push(['_setAllowHash', false]);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
-
-
-<script type="text/javascript">var _kmq = _kmq || []; var _kmk = _kmk || '3872510c8feb10ecf00eb6a08e5a53ad4c079922'; function _kms(u){ setTimeout(function(){ var d = document, f = d.getElementsByTagName('script')[0], s = d.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = u; f.parentNode.insertBefore(s, f); }, 1); } _kms('//i.kissmetrics.com/i.js'); _kms('//scripts.kissmetrics.com/' + _kmk + '.2.js'); </script>
-
-
-
-<!-- Add fancyBox -->
-<link rel="stylesheet" href="http://www.davidsuzuki.org/scripts/fancybox/jquery.fancybox.css" type="text/css" media="screen">
-<script type="text/javascript" src="http://www.davidsuzuki.org/scripts/fancybox/jquery.fancybox.js"></script>
-<script type="text/javascript" src="http://use.typekit.com/pzs0ulw.js"></script>
-<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.davidsuzuki.org/rsd.xml">
-    <title>Privacy Policy | About us |  David Suzuki Foundation</title>
-
-
-</head>
-
-
-<body id="privacy-policy" class="about-us privacy-policy about-us">
-
-<!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WRMHL5"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-WRMHL5');</script>
-<!-- End Google Tag Manager -->
-
-
-
-
-
-
-
-
-
-
-<!-- language cookie script begins here Page Header-->
-<script type="text/javascript" src="http://www.davidsuzuki.org/scripts/checkCookie.js?v=2017"></script>
-<!-- language cookie script ends here Page Header-->
-
-
-<div id="container">
-  <div id="header">
-    <div id="header-inner">
-      <div id="header-widgets">
-        <div id="header-search"><div class="module">
-  <div class="widget-search widget">
-    <form method="get" action="http://www.davidsuzuki.org/search/">
-      <input type="text" class="search-query ti" name="q" value="" title="Search" placeholder="Search">
-      <input type="image" src="http://www.davidsuzuki.org/images/assets/search-button.png" value="" class="search-submit">
-    </form>
-
-  </div>
-</div>
-</div>
-        <div id="header-francais"><a href="http://www.davidsuzuki.org/about/contact/">Contact</a> &nbsp;|&nbsp; 
-
-<a href="http://www.davidsuzuki.org/sign-up/?SourceComment=header" data-track-category="Link" data-track-action="Click" data-track-label="Newsletter: Header">Newsletter</a> &nbsp;|&nbsp; 
-
-<!-- cookie script edit -->
-
-<script type="text/javascript">
-showLanguageLink();
-</script>
-<!-- cookie script edit ends -->
-
-        </div>
-      </div>
-      <div id="homelink"><a href="http://www.davidsuzuki.org/"></a></div>
-      <div id="nav-background"> </div>
-
-<div id="menu"><a href="#">Menu</a></div>
-
-<div id="nav">
-	<ul class="dropdown">
-		<li id="about-us"><a href="http://www.davidsuzuki.org/about/">About us</a>
-			<ul class="sub_menu">
-                            <li><a href="http://www.davidsuzuki.org/about/people/">People</a></li><li><a href="http://www.davidsuzuki.org/about/contact/">Contact us</a></li><li><a href="http://www.davidsuzuki.org/about/privacy/">Privacy Policy</a></li><li><a href="http://www.davidsuzuki.org/about/our-story/">Our story</a></li><li><a href="http://www.davidsuzuki.org/about/declaration/">Declaration of Interdependence</a></li><li><a href="http://www.davidsuzuki.org/about/employment/">Employment</a></li><li><a href="http://www.davidsuzuki.org/about/volunteer/">Volunteer</a></li><li><a href="http://www.davidsuzuki.org/about/sustainability-at-dsf/">Sustainability at DSF</a></li><li><a href="http://www.davidsuzuki.org/about/financials/">Financials</a></li>
-                            
-                            <li><a href="http://www.davidsuzuki.org/about/faq/">FAQ</a></li>                        
-			</ul>
-                </li>
-		<li id="issues"><a href="http://www.davidsuzuki.org/issues/">Issues</a>
-			<ul class="sub_menu">
-			
-			
-			
-			<li><a href="http://www.davidsuzuki.org/issues/climate-change/">Climate change</a></li>
-			
-			
-			<li><a href="http://www.davidsuzuki.org/issues/health/">Health</a></li>
-			
-			
-			<li><a href="http://www.davidsuzuki.org/issues/oceans/">Oceans</a></li>
-			
-			
-			<li><a href="http://www.davidsuzuki.org/issues/wildlife-habitat/">Wildlife &amp; habitat</a></li>
-			
-			
-			<li><a href="http://www.davidsuzuki.org/issues/freshwater/">Freshwater</a></li>
-			
-			
-			</ul>
-		</li>
-		<li id="what-you-can-do"><a href="http://www.davidsuzuki.org/what-you-can-do/">What you can do</a>
-			<ul class="sub_menu">
-								
-							
-					
-											
-					
-
-										
-					
-					
-					
-					     <li><a href="http://www.davidsuzuki.org/what-you-can-do/queen-of-green/">Queen of Green</a>
-					        
-					        
-					        		
-						
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							   </li><li>
-							   <a href="http://www.davidsuzuki.org/what-you-can-do/take-action/">Take action</a></li>
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							<li><a href="http://www.davidsuzuki.org/what-you-can-do/eat-for-healthy-oceans/">Eat for healthy oceans</a>
-        
-        
-        
-    </li>
-
-							
-							<li><a href="http://www.davidsuzuki.org/what-you-can-do/recycle-your-electronics">Recycle your electronics</a></li>
-							
-							   <li>
-							   <a href="http://www.davidsuzuki.org/what-you-can-do/green-your-workplace/">Green your workplace</a></li>
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							   <li>
-							   <a href="http://www.davidsuzuki.org/what-you-can-do/reduce-your-carbon-footprint/">Reduce your carbon footprint</a></li>
-							
-							
-							
-							
-							
-							
-							
-							   <li>
-							   <a href="http://www.davidsuzuki.org/what-you-can-do/food-and-our-planet/">Food and our planet</a></li>
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							<li>
-							   <a href="http://www.davidsuzuki.org/what-you-can-do/connecting-youth-with-nature/">Connecting youth with nature</a></li>	
-				
-				
-                        </ul>
-		</li>
-		
-		<li id="blogs"><a href="http://www.davidsuzuki.org/blogs/">Blogs</a>
-			<ul class="sub_menu">
-				
-                         <li id="blog-23">
-                             <a href="http://www.davidsuzuki.org/blogs/climate-blog/">Climate &amp; Clean Energy</a>
-                         </li>
-                
-                         <li id="blog-22">
-                             <a href="http://www.davidsuzuki.org/blogs/docs-talk/">Docs Talk</a>
-                         </li>
-                
-                         <li id="blog-21">
-                             <a href="http://www.davidsuzuki.org/blogs/healthy-oceans-blog/">Healthy Oceans</a>
-                         </li>
-                
-                         <li id="blog-20">
-                             <a href="http://www.davidsuzuki.org/blogs/panther-lounge/">Notes from the Panther Lounge</a>
-                         </li>
-                
-                         <li id="blog-16">
-                             <a href="http://www.davidsuzuki.org/blogs/queen-of-green/">Queen of Green</a>
-                         </li>
-                
-                         <li id="blog-15">
-                             <a href="http://www.davidsuzuki.org/blogs/science-matters/">Science Matters</a>
-                         </li>
-                
-			</ul>
-		</li>
-		
-		<li id="david"><a href="http://www.davidsuzuki.org/david/">David</a>
-                       <ul class="sub_menu">
-				
-       	                            <li><a href="http://www.davidsuzuki.org/david/legacy-force-of-nature/">Force of Nature / The Legacy</a></li>
-                                
-       	                            <li><a href="http://www.davidsuzuki.org/david/complete-book-list/">Books and Sound Recordings</a></li>
-                                
-       	                            <li><a href="http://www.davidsuzuki.org/david/media/">Multimedia</a></li>
-                                
-                       </ul>
-                </li>
-
-		<li id="contact"><a href="http://www.davidsuzuki.org/about/contact/">Contact us</a></li>
-		
-		<li id="donate"><a href="https://secure.e2rm.com/registrant/donate.aspx?eid=57832" data-track-category="Link" data-track-action="Click" data-track-label="Donate from nav">Donate</a>
-		    <ul class="sub_menu">
-		      <li><a href="https://secure.e2rm.com/registrant/donate.aspx?eid=56870" data-track-category="Link" data-track-action="Click" data-track-label="Donate Monthly from drop-down nav">Monthly</a></li>
-		      <li><a href="https://secure.e2rm.com/registrant/donate.aspx?eid=57832" data-track-category="Link" data-track-action="Click" data-track-label="Donate Single from drop-down nav">Single</a></li>
-		      <li id="moreways"><a href="http://www.davidsuzuki.org/donate/more-ways-to-give/" data-track-category="Link" data-track-action="Click" data-track-label="More ways to give from drop-down nav">More ways to give</a></li>
-		    </ul>
-		</li>
-	</ul>
-</div>
-    </div>
-  </div>
-  <div id="container-inner">
-
-
-    <div id="page"><!-- was #content or #content-inner -->
-
-<div id="main-column">
-
-        
-
-        <div id="left-column">
-             	 		
-    	        <div id="left-nav">
-
-
-
-
-
-
-
-
-
-           
-
-
-
-           
-
-           
-
-
-
-
-<h4><a href="http://www.davidsuzuki.org/about/">About us</a></h4>
-<ul>
-
-       
-
-
-
-
-
-
-
-
-   <li><a href="http://www.davidsuzuki.org/about/people/">
-People</a>
-   
-   
-   
-   
-  
-
-   
-
-   
-   
-
-   
-
-</li>
-
-
-
-
-
-
-
-
-   <li><a href="http://www.davidsuzuki.org/about/contact/">
-Contact us</a>
-   
-   
-   
-   
-  
-
-   
-
-   
-   
-
-   
-
-</li>
-
-
-
-
-
-
-
-
-   <li id="current"><a href="http://www.davidsuzuki.org/about/privacy/" class="link-current">
-Privacy Policy</a>
-   
-   
-   
-   
-  
-
-   
-
-   
-   
-
-   
-
-</li>
-
-
-
-
-
-
-
-
-   <li><a href="http://www.davidsuzuki.org/about/our-story/">
-Our story</a>
-   
-   
-   
-   
-  
-
-   
-
-   
-   
-
-   
-
-</li>
-
-
-
-
-
-
-
-
-   <li><a href="http://www.davidsuzuki.org/about/declaration/">
-Declaration of Interdependence</a>
-   
-   
-   
-   
-  
-
-   
-
-   
-   
-
-   
-
-</li>
-
-
-
-
-
-
-
-
-   <li><a href="http://www.davidsuzuki.org/about/employment/">
-Employment</a>
-   
-   
-   
-   
-  
-
-   
-
-   
-   
-
-   
-
-</li>
-
-
-
-
-
-
-
-
-   <li><a href="http://www.davidsuzuki.org/about/volunteer/">
-Volunteer</a>
-   
-   
-   
-   
-  
-
-   
-
-   
-   
-
-   
-
-</li>
-
-
-
-
-
-
-
-
-   <li><a href="http://www.davidsuzuki.org/about/sustainability-at-dsf/">
-Sustainability at DSF</a>
-   
-   
-   
-   
-  
-
-   
-
-   
-   
-
-   
-
-</li>
-
-
-
-
-
-
-
-
-   <li><a href="http://www.davidsuzuki.org/about/financials/">
-Financials</a>
-   
-   
-   
-   
-  
-
-   
-
-   
-   
-
-   
-
-</li>
-
-
-
-
-
-<li><a href="http://www.davidsuzuki.org/about/faq/">FAQ</a></li>
-
-</ul>
-
-  
-
- 
-
-</div>
-             	
-                
-      	         		
-        </div>
-
-    <div id="article-content">
-	
-    	   	<h1 class="title">Privacy Policy</h1>
-	
-
-       	
-           	 <p>The David Suzuki Foundation aims to protect nature, now and for future generations, and help Canadians understand that we are all interconnected and interdependent with nature.</p>
-
-<p>To carry out our mission, it's important to communicate with you. And we're committed to respecting our relationship with you, whether close or distant.</p>
-
-<p>This privacy policy reflects our best efforts to maintain this respect, while ensuring we can communicate broadly, personally and accurately in the most cost-effective way possible. It explains how we collect, use and safeguard your personal information.<br>
-<br></p>
-
-<h2>Information we collect and how we use it</h2>
-
-<h3>Personal information</h3>
-
-<p>"Personal Information" is any information that can be used to identify (or infer the identity of) a specific person, including, for example, your name, address, birth date, gender, etc. In some cases, your computer's IP address can be considered personal information, as it may give some indication of your geographic location.</p>
-
-<p>We may ask you for personal information in a variety of ways, including website forms, surveys, mail-in forms, over the phone and in person.</p>
-
-<p>There are a range of reasons why we may ask you for this information, including: to process a donation or registration; to fulfill your subscription to an e-newsletter; to allow you to send letters or sign a petition via our online action platform; to invite you to events; or to provide other information about the Foundation which might interest you. We may also contact you by mail, email or phone about opportunities to donate in support of our work.</p>
-
-<p>Your choice to provide us with your personal information is at your discretion. You may always elect to withhold information. In some cases, we will require your personal information in order to fulfill something you've asked of us. For example, when you make a donation, we're required by law to take your full name and mailing address in order to send you a tax-deductible receipt.</p>
-
-<h3>Cookies and data technology</h3>
-
-<p>We use cookies and other technology on our websites to make them easier to use and so that we can learn about how you use them. Information collected this way may include (but is not limited to) your IP address and internet service provider, the type of web browser and operating system you used and which of our website pages you visited. We use links in our emails to track open and click-through rates to help us learn what emails appeal to you most.</p>
-
-<p>In some cases, interacting with our web sites, social media accounts or emails provides us with "anonymous" data, such as IP address, link clicks, page visits, the time spent on a page, etc. We use Google Analytics on our website to learn where you are, when you're using our site and what content you find most interesting. This helps us stay relevant.</p>
-
-<p>We may also use 3rd party cookies, beacons and other storage technologies to understand what website content is most important to you so that we can measure our performance and target sponsored and unsponsored content to you on those 3rd party platforms. For example, we use Facebook's tracking pixel to learn about what content you are interested in on our website so that we can serve only our most relevant advertising to you on Facebook. You can opt out from such Facebook advertising by clicking "Why am I seeing this?" on our Facebook ads, clicking "Options" and then selecting "Hide all ads from this advertiser".</p>
-
-<p>It's possible for us to put anonymous data together with personal information you give us to find out more about you. This helps us respect what we know about you. For example, when we have petitions that are meaningful locally, we try our best to send them to the affected communities and avoid sending irrelevant or too many emails.</p>
-
-<h3>Aggregate Data</h3>
-
-<p>In some cases, we may aggregate your information with others peoples' in order to report on campaigns. For example, we may count the number of people who donate or sign a petition based on their postal code. That way, we can show where Canadians are taking action — with the number (e.g., "516 people from Toronto have donated to this campaign") or by indicating the total on a map. We do not display your actual postal code.</p>
-
-<h3>Use of third parties</h3>
-
-<p>In many cases, we don't actually collect and store personal information in our systems, but instead use a third-party. For example, we may use Survey Monkey to send out a survey or Marketo to provide an online registration form.</p>
-
-<p>Such services have resources dedicated to maintaining security and confidentiality, and we ensure that any third-party partner has written policies about never sharing your information with anyone other than the David Suzuki Foundation.</p>
-
-<h3>Donation and credit card information</h3>
-
-<p>In order to donate to us, you may need to provide your credit card information.</p>
-
-<p>In the case of donations made online, the Foundation does not collect your credit card information. Instead, this information is collected and processed by third-party, <a href="http://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard"><span class="caps">PCI</span>-compliant</a> services. We use <a href="http://www.frontstream.com/">FrontStream Payments</a> to collect your payment information, which is processed directly through <a href="http://home.iatspayments.com/">iATS Payments</a> who uses and stores it.</p>
-
-<p>Donations made by credit card in person, through the mail or by phone are collected by the Foundation and processed using <a href="http://home.iatspayments.com/">iATS Payments</a>.</p>
-
-<h3>A word on fundraising</h3>
-
-<p>As a registered Canadian charity, we cannot do our work without the financial support of our many generous donors. We do our best to reach out to as many possible individual supporters as we can. Our donors allow us to maintain our independence.</p>
-
-<p>We may use information you provide (such as your postal code) to find more complete contact information from other sources (like Canada Post) so we can reach out to you, and we may use third-party providers to help. The chance to send you a letter or give you a phone call helps us see if we're a good fit for you when it comes to making donations. You may opt out of these communications at any time by contacting <script language="JavaScript">var username="communitygiving"; var hostname="davidsuzuki.org"; var linktext = username + "@" + hostname; document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" + linktext + "</a>");</script><a href="mailto:communitygiving@davidsuzuki.org">communitygiving@davidsuzuki.org</a>.</p>
-
-<h3>Links to other websites</h3>
-
-<p>Our websites contain links to websites owned and operated by other organizations. They may have their own privacy policies and terms and conditions and are not governed by this policy. We encourage you to carefully review the privacy policy and terms of use of each website you visit.<br>
-<br></p>
-
-
-<h2>What you need to know about consent<br>
-<br></h2>
-
-<p>By providing personal information to us, you allow "deemed" consent to the collection, use and disclosure of your information in accordance with this policy.</p>
-
-<p>When you provide contact information to us for one purpose, we may contact you using that information for other areas of our work. For example, if you sign up for our <a href="http://30x30.davidsuzuki.org/">30×30 Nature Challenge</a>, we may email you about opportunities to support our work with a donation. Or, if you make a donation and provide us with your mailing address, we may also send a paper newsletter to your home in order to keep you up-to-date with work you've helped make happen.</p>
-
-<p>We respect your right to control your personal information — please contact us immediately if you want us to stop using it in any particular way. We will fulfill your request in the timeliest way possible.</p>
-
-<p>Please note: In order to adhere to Canada Customs and Revenue Agency rules, we are required to maintain donation records and are not allowed to remove this information from our internal records, even at your request.</p>
-
-<p>Please also note: We may be unable to provide you with certain information or services if you do not give us specific personal information. For example, we cannot issue you a charitable tax receipt if you don't provide your address, or send you an e-newsletter if you don't share your email address.</p>
-
-<h3>Updating your consent</h3>
-
-<p>If you would like to <strong>stop receiving email</strong> from us at any time, click the unsubscribe link at the bottom of any of our emails or you can email <script language="JavaScript">var username1="subscribers"; var hostname="davidsuzuki.org"; var param1="?subject=unsubscribe"; var linktext = username1 + "@" + hostname; document.write("<a href='" + "mail" + "to:" + username1 + "@" + hostname + param1 + "'>" + linktext + "</a>");</script><a href="mailto:subscribers@davidsuzuki.org?subject=unsubscribe">subscribers@davidsuzuki.org</a> and type "unsubscribe" in the subject line.</p>
-
-<p>If you would like to <strong>stop receiving mail solicitations or our paper newsletter</strong> from us, please email <script language="JavaScript">var username="communitygiving"; var hostname="davidsuzuki.org"; var linktext = username + "@" + hostname; document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" + linktext + "</a>");</script><a href="mailto:communitygiving@davidsuzuki.org">communitygiving@davidsuzuki.org</a>. You can also reach us by phone at 1-800-453-1533 ext 1500.</p>
-
-<p>Upon reasonable request and notice, you may view and have corrections made to the personal information we hold about you, subject to any legal or contractual restrictions. If you are aware of any inaccuracies in the personal information we hold about you or to remove all of your information from our databases, please contact our Privacy officer at <script language="JavaScript">var username2="privacy"; var hostname="davidsuzuki.org"; var linktext = username2 + "@" + hostname; document.write("<a href='" + "mail" + "to:" + username2 + "@" + hostname + "'>" + linktext + "</a>");</script><a href="mailto:privacy@davidsuzuki.org">privacy@davidsuzuki.org</a>.</p>
-
-<h3>Ways to prevent us from collecting "anonymous" data</h3>
-
-<p>Our websites use cookies and JavaScript-based tracking scripts to collect the anonymous data referred to above. To stop this from happening, adjust your web browser's "cookie", "cache" and JavaScript settings. Please note that doing so may affect the performance of our web properties, and in some cases may completely prevent you from using some of our pages and forms.<br>
-<br></p>
-
-<h2>Information we share</h2>
-
-<h3>General</h3>
-
-<p>In order to communicate with you, we sometimes work with external organizations and have them contact you on our behalf. We require them to take measures to properly safeguard your information and only use it for the purpose specified by us, in a manner consistent with this policy.</p>
-
-<p>For example, we work with a mailing company that sends out our fundraising letters. We give them a list of names and mailing addresses of people we want to contact. They sort the lists, print the letters, stuff the envelopes and drop the mail off at Canada Post, who delivers it to your door. Another example is that we use an email tool to send out our e-newsletters.</p>
-
-<p>We sometimes send personal information to outside organizations who help us better communicate with you. We only work with organizations that have comprehensive security and confidentiality policies, including written policies that do not allow them to use or share your information with anyone other than the David Suzuki Foundation.</p>
-
-<h3>Email addresses</h3>
-
-<p><strong>We do not sell or exchange email addresses with other organizations.</strong></p>
-
-<p>In some instances, we may promote actions or petitions on our websites in partnership with other non-profit organizations. In these cases, we give you the clear option of whether you want us to share your email with them.</p>
-
-<h3>Mailing addresses</h3>
-
-<p>Unless otherwise requested, we sometimes share names and mailing addresses of people who donate less than $100 per year to us with other Canadian non-profits. Sharing information is common among non-profits, as a way to reach new people and receive funds to help continue important work. You may choose to have us withhold your information by contacting <script language="JavaScript">var username="communitygiving"; var hostname="davidsuzuki.org"; var linktext = username + "@" + hostname; document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" + linktext + "</a>");</script><a href="mailto:communitygiving@davidsuzuki.org">communitygiving@davidsuzuki.org</a>.<br>
-<br></p>
-
-<h2>How we keep your information secure<br>
-<br></h2>
-
-<p>We endeavour to maintain appropriate physical, procedural and technical safeguards for your personal information. Some information we collect may be stored and processed on servers located outside your jurisdiction of residence, including outside your country. As a result, this information may be subject to disclosure to governments, courts or law enforcement agencies in those areas, according to their laws, without notice to us or you.<br>
-<br></p>
-
-<h2>Policy updates and changes<br>
-<br></h2>
-
-<p>We may change this policy from time to time without notice. Changes will be reflected on this page.<br>
-<br></p>
-
-<h2>Need more information?<br>
-<br></h2>
-
-<p>For further information, please contact our Privacy Officer by email at <script language="JavaScript">var username2="privacy"; var hostname="davidsuzuki.org"; var linktext = username2 + "@" + hostname; document.write("<a href='" + "mail" + "to:" + username2 + "@" + hostname + "'>" + linktext + "</a>");</script><a href="mailto:privacy@davidsuzuki.org">privacy@davidsuzuki.org</a> and by mail to <br>
-219 — 2211 West 4th Avenue, Vancouver, <span class="caps">B.C. V6K</span> 4S2.</p>
-
-<p>This document is available to the public and explains how we collect, use and disclose information, in accordance with this policy, the <em>Personal Information and Electronic Documents Act</em>, the <em>Personal Information Protection Act</em> and other relevant legislation.</p>
-       	
-       	
-
-    </div>
-
-        </div><!-- /end main-column -->
-<div id="sidebar">
-
-
-
-
-
-
-
-
-<!-- MEDIA -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
- 
-</div><!-- end #beta -->
-</div>
-        <div id="bottom-section">
- <div id="bottom-section-inner">
-  <div class="third-width">
- <div id="most-read-module">
-
-
-            <h3>Recently posted</h3>        
-            <div class="module-content">
-                <ul>
-    
-                <li><a href="http://www.davidsuzuki.org/media/news/2017/08/time-to-close-chinook-fisheries/" data-track-nodelay="" data-track-category="Link" data-track-action="Click" data-track-label="Recently posted">Time to close chinook fisheries</a></li>
-    
-                <li><a href="http://www.davidsuzuki.org/media/news/2017/08/bcs-trophy-hunt-ban-a-good-step-but-loophole-puts-bears-at-risk/" data-track-nodelay="" data-track-category="Link" data-track-action="Click" data-track-label="Recently posted">B.C.'s trophy hunt ban a good step but loophole puts bears at risk </a></li>
-    
-                <li><a href="http://www.davidsuzuki.org/media/news/2017/07/call-for-strong-methane-regulations/" data-track-nodelay="" data-track-category="Link" data-track-action="Click" data-track-label="Recently posted">Business and environmental leaders call for strong Canadian oil and gas methane regulations</a></li>
-    
-                <li><a href="http://www.davidsuzuki.org/media/news/2017/07/seachoice-transitions-to-hold-seafood-supply-chain-more-accountable/" data-track-nodelay="" data-track-category="Link" data-track-action="Click" data-track-label="Recently posted">SeaChoice transitions to hold seafood supply chain more accountable</a></li>
-    
-                <li><a href="http://www.davidsuzuki.org/media/news/2017/07/citizen-led-butterflyway-established-in-richmond/" data-track-nodelay="" data-track-category="Link" data-track-action="Click" data-track-label="Recently posted">Citizen-led "Butterflyway" established in Richmond</a></li>
-    
-                </ul>
-             </div>
-
-
-
-  </div>
-</div>
-
-<div class="third-width">
- <div id="blogs-module" class="module">
- <h3><a href="http://www.davidsuzuki.org/blogs/" data-track-nodelay="" data-track-category="Link" data-track-action="Click" data-track-label="Read Our Blogs Head">Read our blogs »</a></h3>
-<div class="module-content">
-<ul>
-
-  
-  
-  <li><a href="http://www.davidsuzuki.org/blogs/science-matters/2017/08/study-finds-exxon-misled-the-public-by-withholding-climate-knowledge/" data-track-nodelay="" data-track-category="Link" data-track-action="Click" data-track-label="Read Our Blogs Entry Title">Study finds Exxon misled the public by withholding climate knowledge</a><br>
-<span><a href="http://www.davidsuzuki.org/blogs/science-matters/" data-track-nodelay="" data-track-category="Link" data-track-action="Click" data-track-label="Read Our Blogs Blog name">Science Matters</a> &nbsp;|&nbsp; August 31, 2017</span>
-</li>
-
-  <li><a href="http://www.davidsuzuki.org/blogs/science-matters/2017/08/when-times-get-dark-we-must-shine-brighter/" data-track-nodelay="" data-track-category="Link" data-track-action="Click" data-track-label="Read Our Blogs Entry Title">When times get dark, we must shine brighter</a><br>
-<span><a href="http://www.davidsuzuki.org/blogs/science-matters/" data-track-nodelay="" data-track-category="Link" data-track-action="Click" data-track-label="Read Our Blogs Blog name">Science Matters</a> &nbsp;|&nbsp; August 24, 2017</span>
-</li>
-
-  <li><a href="http://www.davidsuzuki.org/blogs/panther-lounge/2017/08/why-olympian-adam-van-koeverden-supports-bike-lanes/" data-track-nodelay="" data-track-category="Link" data-track-action="Click" data-track-label="Read Our Blogs Entry Title">Why Olympian Adam van Koeverden supports bike lanes </a><br>
-<span><a href="http://www.davidsuzuki.org/blogs/panther-lounge/" data-track-nodelay="" data-track-category="Link" data-track-action="Click" data-track-label="Read Our Blogs Blog name">Notes from the Panther Lounge</a> &nbsp;|&nbsp; August 22, 2017</span>
-</li>
-
-  <li><a href="http://www.davidsuzuki.org/blogs/science-matters/2017/08/wildfires-are-a-climate-change-wake-up-call/" data-track-nodelay="" data-track-category="Link" data-track-action="Click" data-track-label="Read Our Blogs Entry Title">Wildfires are a climate change wake-up call</a><br>
-<span><a href="http://www.davidsuzuki.org/blogs/science-matters/" data-track-nodelay="" data-track-category="Link" data-track-action="Click" data-track-label="Read Our Blogs Blog name">Science Matters</a> &nbsp;|&nbsp; August 17, 2017</span>
-</li>
-
-
-</ul>
-</div>
-</div> 
-</div>
-
-<div class="third-width" id="last">
-<div class="module" id="tag-cloud-module">
-
-    
-<div class="widget-tag-cloud widget">
-    <h3>Topics</h3>
-    <div class="widget-content">
-        <ul>
-    
-            <li class="rank-1"><a href="http://www.davidsuzuki.org/cgi-bin/mt1/mt-search.cgi?IncludeBlogs=32,21,17,20,15,14,22,1,18,23,16,19&amp;tag=climate%20change&amp;limit=10&amp;source=cloud" data-track-nodelay="" data-track-category="Link" data-track-action="Click" data-track-label="Tag cloud - climate change" rel="tag">climate change</a></li>
-    
-
-    
-            <li class="rank-2"><a href="http://www.davidsuzuki.org/cgi-bin/mt1/mt-search.cgi?IncludeBlogs=32,21,17,20,15,14,22,1,18,23,16,19&amp;tag=Queen%20of%20Green&amp;limit=10&amp;source=cloud" data-track-nodelay="" data-track-category="Link" data-track-action="Click" data-track-label="Tag cloud - Queen of Green" rel="tag">Queen of Green</a></li>
-    
-
-    
-            <li class="rank-2"><a href="http://www.davidsuzuki.org/cgi-bin/mt1/mt-search.cgi?IncludeBlogs=32,21,17,20,15,14,22,1,18,23,16,19&amp;tag=oceans&amp;limit=10&amp;source=cloud" data-track-nodelay="" data-track-category="Link" data-track-action="Click" data-track-label="Tag cloud - oceans" rel="tag">oceans</a></li>
-    
-
-    
-            <li class="rank-3"><a href="http://www.davidsuzuki.org/cgi-bin/mt1/mt-search.cgi?IncludeBlogs=32,21,17,20,15,14,22,1,18,23,16,19&amp;tag=sustainable%20seafood&amp;limit=10&amp;source=cloud" data-track-nodelay="" data-track-category="Link" data-track-action="Click" data-track-label="Tag cloud - sustainable seafood" rel="tag">sustainable seafood</a></li>
-    
-
-    
-            <li class="rank-3"><a href="http://www.davidsuzuki.org/cgi-bin/mt1/mt-search.cgi?IncludeBlogs=32,21,17,20,15,14,22,1,18,23,16,19&amp;tag=energy&amp;limit=10&amp;source=cloud" data-track-nodelay="" data-track-category="Link" data-track-action="Click" data-track-label="Tag cloud - energy" rel="tag">energy</a></li>
-    
-
-    
-            <li class="rank-3"><a href="http://www.davidsuzuki.org/cgi-bin/mt1/mt-search.cgi?IncludeBlogs=32,21,17,20,15,14,22,1,18,23,16,19&amp;tag=toxics&amp;limit=10&amp;source=cloud" data-track-nodelay="" data-track-category="Link" data-track-action="Click" data-track-label="Tag cloud - toxics" rel="tag">toxics</a></li>
-    
-
-    
-            <li class="rank-3"><a href="http://www.davidsuzuki.org/cgi-bin/mt1/mt-search.cgi?IncludeBlogs=32,21,17,20,15,14,22,1,18,23,16,19&amp;tag=health&amp;limit=10&amp;source=cloud" data-track-nodelay="" data-track-category="Link" data-track-action="Click" data-track-label="Tag cloud - health" rel="tag">health</a></li>
-    
-
-    
-            <li class="rank-3"><a href="http://www.davidsuzuki.org/cgi-bin/mt1/mt-search.cgi?IncludeBlogs=32,21,17,20,15,14,22,1,18,23,16,19&amp;tag=queen%20of%20green&amp;limit=10&amp;source=cloud" data-track-nodelay="" data-track-category="Link" data-track-action="Click" data-track-label="Tag cloud - queen of green" rel="tag">queen of green</a></li>
-    
-
-    
-            <li class="rank-3"><a href="http://www.davidsuzuki.org/cgi-bin/mt1/mt-search.cgi?IncludeBlogs=32,21,17,20,15,14,22,1,18,23,16,19&amp;tag=nature&amp;limit=10&amp;source=cloud" data-track-nodelay="" data-track-category="Link" data-track-action="Click" data-track-label="Tag cloud - nature" rel="tag">nature</a></li>
-    
-
-    
-            <li class="rank-3"><a href="http://www.davidsuzuki.org/cgi-bin/mt1/mt-search.cgi?IncludeBlogs=32,21,17,20,15,14,22,1,18,23,16,19&amp;tag=sustainability&amp;limit=10&amp;source=cloud" data-track-nodelay="" data-track-category="Link" data-track-action="Click" data-track-label="Tag cloud - sustainability" rel="tag">sustainability</a></li>
-    
-
-    
-            <li class="rank-3"><a href="http://www.davidsuzuki.org/cgi-bin/mt1/mt-search.cgi?IncludeBlogs=32,21,17,20,15,14,22,1,18,23,16,19&amp;tag=economy&amp;limit=10&amp;source=cloud" data-track-nodelay="" data-track-category="Link" data-track-action="Click" data-track-label="Tag cloud - economy" rel="tag">economy</a></li>
-    
-
-    
-            <li class="rank-3"><a href="http://www.davidsuzuki.org/cgi-bin/mt1/mt-search.cgi?IncludeBlogs=32,21,17,20,15,14,22,1,18,23,16,19&amp;tag=British%20Columbia&amp;limit=10&amp;source=cloud" data-track-nodelay="" data-track-category="Link" data-track-action="Click" data-track-label="Tag cloud - British Columbia" rel="tag">British Columbia</a></li>
-    
-        </ul>
-    </div>
-</div>
-    
-
-</div>
-</div>
- </div>
-</div>
-<div id="footer">
-<div id="footer-inner">
-
-  <div id="footer-items">
-          <div id="footer-nav-inner">
-  <ul>
-    
-    <li><a href="http://www.davidsuzuki.org/publications/" data-track-category="Link" data-track-action="Click" data-track-label="Publications via footer">Publications</a></li>
-    <li><a href="http://www.davidsuzuki.org/media/" data-track-category="Link" data-track-action="Click" data-track-label="Media via footer">Media</a></li>
-    <li><a href="http://www.davidsuzuki.org/events/" data-track-category="Link" data-track-action="Click" data-track-label="Events via footer">Events</a></li>
-    <li><a href="http://www.davidsuzuki.org/about/contact/" data-track-category="Link" data-track-action="Click" data-track-label="Contact via footer">Contact</a></li>
-    <li><a href="http://www.davidsuzuki.org/donate/about-our-donors/" data-track-category="Link" data-track-action="Click" data-track-label="About our donors via footer">About our donors</a></li>
-    <li>
-      <!-- cookie script edit -->
-      
-      <script type="text/javascript">
-        showLanguageLink();
-      </script>
-      <!-- cookie script edit ends -->
-    </li>
-  </ul>
-</div>
-<div id="socialmedia">
-  <ul>
-    
-    <li><a href="http://www.facebook.com/DavidSuzukiFoundation" data-track-nodelay="" data-track-category="Link" data-track-action="Click" data-track-label="Facebook via footer" onclick="dataLayer.push({'event':'socialClick', 'socialNetwork':'facebook', 'clickLocation':'footer'});"><img src="http://www.davidsuzuki.org/images/assets/footer/FacebookOver2.gif" alt="Facebook" title="Fan us on Facebook!"></a></li>
-    <li><a href="http://www.twitter.com/DavidSuzukiFDN" data-track-nodelay="" data-track-category="Link" data-track-action="Click" data-track-label="Twitter via footer" onclick="dataLayer.push({'event':'socialClick', 'socialNetwork':'twitter', 'clickLocation':'footer'});"><img src="http://www.davidsuzuki.org/images/assets/footer/twitter.gif" alt="Twitter" title="Follow us on Twitter"></a></li>
-    <li><a href="http://www.youtube.com/user/DavidSuzukiFDN" data-track-nodelay="" data-track-category="Link" data-track-action="Click" data-track-label="YouTube via footer" onclick="dataLayer.push({'event':'socialClick', 'socialNetwork':'youtube', 'clickLocation':'footer'});"><img src="http://www.davidsuzuki.org/images/assets/footer/youtube.gif" alt="YouTube" title="DSF on YouTube"></a></li>
-    <li><a href="http://pinterest.com/dsfcanada/" data-track-nodelay="" data-track-category="Link" data-track-action="Click" data-track-label="Pinterest via footer" onclick="dataLayer.push({'event':'socialClick', 'socialNetwork':'pinterest', 'clickLocation':'footer'});"><img src="http://www.davidsuzuki.org/images/assets/footer/Pinterest_Logo.gif" alt="YouTube" title="DSF on Pinterest"></a></li>
-    <li><a href="http://instagram.com/davidsuzukifdn/" data-track-nodelay="" data-track-category="Link" data-track-action="Click" data-track-label="Instagram via footer" onclick="dataLayer.push({'event':'socialClick', 'socialNetwork':'instagram', 'clickLocation':'footer'});"><img src="http://www.davidsuzuki.org/images/assets/footer/instagram2.gif" alt="Instagram" title="DSF on Instagram"></a></li>
-  </ul>
-</div>          </div><!-- end #footer-items -->
-
-          <div id="credits">
-<span id="copyright">© 2014 The David Suzuki Foundation</span><br>
-<span id="web-support"><a href="http://www.davidsuzuki.org/about/contact/" data-track-nodelay="" data-track-category="Link" data-track-action="Click" data-track-label="Report broken link"><b>Report a broken link</b></a> or other problems<br></span>
-
-Design &amp; development by <b>Erika Rathje</b><br>
-
-<a href="http://www.gossamer-threads.com/hosting/" alt="Managed Hosting" title="Managed Hosting - Clustered, Dedicated, Bricolage and Request
-Tracker Hosting"><span>Managed Hosting by</span> <b>Gossamer Threads</b></a>
-</div>
-
-
-</div><!-- end #footer-inner -->
-</div><!-- end #footer -->
-
-        </div><!-- /end #PAGE -->
-        </div><!-- /end #CONTAINER-INNER -->
-    <!-- /end #CONTAINER -->
-
-<!-- RSS/Email sub -->
-<script type="text/javascript" src="http://www.davidsuzuki.org/scripts/subscribeRSS.js"></script>
-
-<!-- twitter -->
-
-<script type="text/javascript" src="http://www.davidsuzuki.org/scripts/jquery.tweetable.js"></script>
-
-
-    <script type="text/javascript">
-$(function(){
- $('#tweets').tweetable({username: 'davidsuzukifdn', time: true, limit: 1, replies: false, position: 'append'});
-});
     </script>
 
+    			<script type="text/javascript">
+				var disqus_config = function() {
+					this.page.url = "https:\/\/davidsuzuki.org\/privacy-policy\/";
+									};
+			</script>
+			
+<!-- This site is optimized with the Yoast SEO plugin v7.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://davidsuzuki.org/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy - David Suzuki Foundation">
+<meta property="og:description" content="The David Suzuki Foundation aims to protect nature, now and for future generations, and help Canadians understand that we are all interconnected and interdependent with nature. To carry out our mission, it’s important to communicate with you. And we’re committed to respecting our relationship with you, whether close or distant. This privacy policy reflects our …">
+<meta property="og:url" content="https://davidsuzuki.org/privacy-policy/">
+<meta property="og:site_name" content="David Suzuki Foundation">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="The David Suzuki Foundation aims to protect nature, now and for future generations, and help Canadians understand that we are all interconnected and interdependent with nature. To carry out our mission, it’s important to communicate with you. And we’re committed to respecting our relationship with you, whether close or distant. This privacy policy reflects our […]">
+<meta name="twitter:title" content="Privacy Policy - David Suzuki Foundation">
+<!-- / Yoast SEO plugin. -->
 
-
-
-<!-- social network integration + ganalytics action tracking -->
-<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
-<div id="fb-root"></div>
-<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
-<script src="http://www.davidsuzuki.org/scripts/ganalytics-extras.js" type="text/javascript"></script>
-
-
-
+<link rel="dns-prefetch" href="//www.formstack.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="stylesheet" id="formstack-css-css" href="//www.formstack.com/forms/css/2/wordpress-post.css?ver=4.9.5" type="text/css" media="all">
+<link rel="stylesheet" id="mainstyles-css" href="https://davidsuzuki.org/wp-content/themes/base-theme/dist/styles/public.min.css?ver=1524577415" type="text/css" media="all">
+<script type="text/javascript" src="https://davidsuzuki.org/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="https://davidsuzuki.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="//storage.googleapis.com/2nelioabtesting/5219924756922368.js?ver=4.9.5"></script>
 <script type="text/javascript">
-$.ajax({
-  url: document.location.protocol + '//munchkin.marketo.net/munchkin.js',
-  dataType: 'script',
-  cache: true,
-  success: function() {
-    Munchkin.init('188-VDU-360');
-  }
-});
+/* <![CDATA[ */
+var NelioABParams = {"ajaxurl":"https:\/\/davidsuzuki.org\/wp-admin\/admin-ajax.php","version":"4.6.14","customer":"4720973951795200","site":"5219924756922368","backend":{"domain":"nelioabtesting.appspot.com","version":6},"misc":{"useOutwardsNavigationsBlank":true},"info":{"currentId":153,"currentActualId":153},"wasPostRequest":"","sync":{"headlines":[],"productSummaries":[]}};
+/* ]]> */
 </script>
+<script type="text/javascript" src="//davidsuzuki.org/wp-content/plugins/nelio-ab-testing/assets/js/tracking.min.js?ver=4.6.14"></script>
+<script type="text/javascript" src="https://davidsuzuki.org/wp-content/themes/base-theme/dist/scripts/vendor/modernizr-custom.js"></script>
+<link rel="https://api.w.org/" href="https://davidsuzuki.org/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://davidsuzuki.org/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://davidsuzuki.org/wp-includes/wlwmanifest.xml"> 
+<link rel="shortlink" href="https://davidsuzuki.org/?p=153">
+<link rel="alternate" type="application/json+oembed" href="https://davidsuzuki.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdavidsuzuki.org%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://davidsuzuki.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdavidsuzuki.org%2Fprivacy-policy%2F&amp;format=xml">
+<script type="text/javascript">var algolia = {"debug":false,"application_id":"C3SJB59TLZ","search_api_key":"5dd844e4829d95f30c3f59e466efe52a","powered_by_enabled":true,"query":"","autocomplete":{"sources":[{"index_id":"posts_page","index_name":"prod_en_posts_page","label":"Pages","admin_name":"Pages","position":0,"max_suggestions":5,"tmpl_suggestion":"autocomplete-post-suggestion","enabled":true},{"index_id":"posts_project","index_name":"prod_en_posts_project","label":"Projects","admin_name":"Projects","position":1,"max_suggestions":5,"tmpl_suggestion":"autocomplete-post-suggestion","enabled":true},{"index_id":"posts_science_learning","index_name":"prod_en_posts_science_learning","label":"Science & Learning Centre Posts","admin_name":"Science & Learning Centre","position":2,"max_suggestions":5,"tmpl_suggestion":"autocomplete-post-suggestion","enabled":true},{"index_id":"posts_story","index_name":"prod_en_posts_story","label":"Stories","admin_name":"Stories","position":3,"max_suggestions":5,"tmpl_suggestion":"autocomplete-post-suggestion","enabled":true},{"index_id":"posts_queen_green","index_name":"prod_en_posts_queen_green","label":"Queen of Green","admin_name":"Queen of Green","position":4,"max_suggestions":5,"tmpl_suggestion":"autocomplete-post-suggestion","enabled":true},{"index_id":"posts_expert_article","index_name":"prod_en_posts_expert_article","label":"Expert Articles","admin_name":"Expert Articles","position":5,"max_suggestions":5,"tmpl_suggestion":"autocomplete-post-suggestion","enabled":true},{"index_id":"terms_expert","index_name":"prod_en_terms_expert","label":"Experts","admin_name":"Experts","position":6,"max_suggestions":5,"tmpl_suggestion":"autocomplete-term-suggestion","enabled":true},{"index_id":"posts_press","index_name":"prod_en_posts_press","label":"Press","admin_name":"Press","position":7,"max_suggestions":5,"tmpl_suggestion":"autocomplete-post-suggestion","enabled":true},{"index_id":"posts_what_you_can_do","index_name":"prod_en_posts_what_you_can_do","label":"What You Can Do","admin_name":"What You Can Do","position":8,"max_suggestions":5,"tmpl_suggestion":"autocomplete-post-suggestion","enabled":true},{"index_id":"posts_dsf_action","index_name":"prod_en_posts_dsf_action","label":"Actions","admin_name":"Actions","position":10,"max_suggestions":5,"tmpl_suggestion":"autocomplete-post-suggestion","enabled":true},{"index_id":"searchable_posts","index_name":"prod_en_searchable_posts","label":"All posts","admin_name":"All posts","position":10,"max_suggestions":5,"tmpl_suggestion":"autocomplete-post-suggestion","enabled":true},{"index_id":"terms_expert_article_category","index_name":"prod_en_terms_expert_article_category","label":"Categories","admin_name":"Categories","position":20,"max_suggestions":3,"tmpl_suggestion":"autocomplete-term-suggestion","enabled":true},{"index_id":"terms_action_category","index_name":"prod_en_terms_action_category","label":"Categories","admin_name":"Categories","position":20,"max_suggestions":3,"tmpl_suggestion":"autocomplete-term-suggestion","enabled":true},{"index_id":"terms_issue_area_category","index_name":"prod_en_terms_issue_area_category","label":"Issue Areas","admin_name":"Issue Areas","position":20,"max_suggestions":3,"tmpl_suggestion":"autocomplete-term-suggestion","enabled":true},{"index_id":"terms_queengreen_category","index_name":"prod_en_terms_queengreen_category","label":"Categories","admin_name":"Categories","position":20,"max_suggestions":3,"tmpl_suggestion":"autocomplete-term-suggestion","enabled":true},{"index_id":"terms_published_by","index_name":"prod_en_terms_published_by","label":"Published By","admin_name":"Published by","position":20,"max_suggestions":3,"tmpl_suggestion":"autocomplete-term-suggestion","enabled":true},{"index_id":"terms_authored_by","index_name":"prod_en_terms_authored_by","label":"Authored By","admin_name":"Authored by","position":20,"max_suggestions":3,"tmpl_suggestion":"autocomplete-term-suggestion","enabled":true},{"index_id":"terms_resource_tag","index_name":"prod_en_terms_resource_tag","label":"Tags","admin_name":"Tags","position":20,"max_suggestions":3,"tmpl_suggestion":"autocomplete-term-suggestion","enabled":true},{"index_id":"terms_partners","index_name":"prod_en_terms_partners","label":"Partners","admin_name":"Partners","position":20,"max_suggestions":3,"tmpl_suggestion":"autocomplete-term-suggestion","enabled":true},{"index_id":"terms_published_in","index_name":"prod_en_terms_published_in","label":"Published In","admin_name":"Published in","position":20,"max_suggestions":3,"tmpl_suggestion":"autocomplete-term-suggestion","enabled":true},{"index_id":"terms_whatyoucando_category","index_name":"prod_en_terms_whatyoucando_category","label":"Categories","admin_name":"Categories","position":20,"max_suggestions":3,"tmpl_suggestion":"autocomplete-term-suggestion","enabled":true}],"input_selector":"input[name='s']:not('.no-autocomplete')"},"indices":{"searchable_posts":{"name":"prod_en_searchable_posts","id":"searchable_posts","enabled":true,"replicas":[]},"posts_page":{"name":"prod_en_posts_page","id":"posts_page","enabled":true,"replicas":[]},"posts_story":{"name":"prod_en_posts_story","id":"posts_story","enabled":true,"replicas":[]},"posts_queen_green":{"name":"prod_en_posts_queen_green","id":"posts_queen_green","enabled":true,"replicas":[]},"posts_what_you_can_do":{"name":"prod_en_posts_what_you_can_do","id":"posts_what_you_can_do","enabled":true,"replicas":[]},"posts_press":{"name":"prod_en_posts_press","id":"posts_press","enabled":true,"replicas":[]},"posts_project":{"name":"prod_en_posts_project","id":"posts_project","enabled":true,"replicas":[]},"posts_science_learning":{"name":"prod_en_posts_science_learning","id":"posts_science_learning","enabled":true,"replicas":[]},"posts_dsf_action":{"name":"prod_en_posts_dsf_action","id":"posts_dsf_action","enabled":true,"replicas":[]},"posts_expert_article":{"name":"prod_en_posts_expert_article","id":"posts_expert_article","enabled":true,"replicas":[]},"terms_expert":{"name":"prod_en_terms_expert","id":"terms_expert","enabled":true,"replicas":[]},"terms_expert_article_category":{"name":"prod_en_terms_expert_article_category","id":"terms_expert_article_category","enabled":true,"replicas":[]},"terms_issue_area_category":{"name":"prod_en_terms_issue_area_category","id":"terms_issue_area_category","enabled":true,"replicas":[]},"terms_action_category":{"name":"prod_en_terms_action_category","id":"terms_action_category","enabled":true,"replicas":[]},"terms_queengreen_category":{"name":"prod_en_terms_queengreen_category","id":"terms_queengreen_category","enabled":true,"replicas":[]},"terms_whatyoucando_category":{"name":"prod_en_terms_whatyoucando_category","id":"terms_whatyoucando_category","enabled":true,"replicas":[]},"terms_resource_tag":{"name":"prod_en_terms_resource_tag","id":"terms_resource_tag","enabled":true,"replicas":[]},"terms_published_by":{"name":"prod_en_terms_published_by","id":"terms_published_by","enabled":true,"replicas":[]},"terms_authored_by":{"name":"prod_en_terms_authored_by","id":"terms_authored_by","enabled":true,"replicas":[]},"terms_partners":{"name":"prod_en_terms_partners","id":"terms_partners","enabled":true,"replicas":[]},"terms_published_in":{"name":"prod_en_terms_published_in","id":"terms_published_in","enabled":true,"replicas":[]}}};</script><link rel="icon" href="https://davidsuzuki.org/wp-content/uploads/2017/10/cropped-logo-512x512-1-32x32.png" sizes="32x32">
+<link rel="icon" href="https://davidsuzuki.org/wp-content/uploads/2017/10/cropped-logo-512x512-1-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="https://davidsuzuki.org/wp-content/uploads/2017/10/cropped-logo-512x512-1-180x180.png">
+<meta name="msapplication-TileImage" content="https://davidsuzuki.org/wp-content/uploads/2017/10/cropped-logo-512x512-1-270x270.png">
 
-<script type="text/javascript" src="http://www.davidsuzuki.org/scripts/mobile/easyslider.js"></script>
-<script type="text/javascript" src="http://www.davidsuzuki.org/scripts/mobile/global.js"></script>
-<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
 
-<!-- Quantcast Tag tracking code 2017apr6 -->
-<script type="text/javascript">
-var _qevents = _qevents || [];
- 
-(function() {
-var elem = document.createElement('script');
-elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-elem.async = true;
-elem.type = "text/javascript";
-var scpt = document.getElementsByTagName('script')[0];
-scpt.parentNode.insertBefore(elem, scpt);
-})();
- 
-_qevents.push({
-qacct:"p-v8ZfLRLAahkeW"
-});
-</script>
- 
-<noscript>
-<div style="display:none;">
-<img src="//pixel.quantserve.com/pixel/p-v8ZfLRLAahkeW.gif" border="0" height="1" width="1" alt="Quantcast"/>
+  </head>
+
+<body class="page page-id-153 flexible is-hidden ">
+
+  
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WRMHL5"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+  
+  
+
+<header id="site-header" class="site-header">
+
+  <div class="container container--nav container--xl">
+    <div class="site-header__split">
+
+      <a href="https://davidsuzuki.org" class="site-logo" aria-label="David Suzuki Foundation">
+        <svg width="220" height="80" viewBox="0 0 220 80" xmlns="http://www.w3.org/2000/svg"><path d="M109.7 63.54V57.7c0-1.677-.885-2.525-2.28-2.525-1.393 0-2.298.87-2.298 2.526v5.84h-1.358v-9.483h1.358v1.04c.66-.77 1.564-1.155 2.6-1.155 1 0 1.81.31 2.375.886.66.656.96 1.543.96 2.64v6.072h-1.356zM119.82 56.544c-.357-.868-1.186-1.426-2.166-1.426s-1.81.558-2.168 1.426c-.207.52-.245.81-.282 1.58h4.9c-.038-.77-.076-1.06-.283-1.58zm-4.616 2.62c0 2.082.96 3.278 2.732 3.278 1.075 0 1.697-.328 2.43-1.08l.925.83c-.94.963-1.808 1.464-3.392 1.464-2.45 0-4.05-1.504-4.05-4.857 0-3.066 1.45-4.858 3.806-4.858 2.393 0 3.807 1.773 3.807 4.587v.635h-6.256zM134.972 63.54V57.7c0-1.677-.886-2.525-2.28-2.525-1.395 0-2.3.87-2.3 2.526v5.84h-1.357v-9.483h1.358v1.04c.66-.77 1.564-1.155 2.6-1.155 1 0 1.81.31 2.375.886.66.656.96 1.543.96 2.64v6.072h-1.356zM144.884 59.165h-2.6c-1.395 0-2.074.58-2.074 1.676 0 1.1.66 1.62 2.13 1.62.79 0 1.49-.057 2.073-.636.32-.307.47-.847.47-1.637v-1.022zm0 4.375v-.906c-.754.77-1.432 1.022-2.677 1.022-1.28 0-2.035-.25-2.62-.867-.45-.464-.696-1.178-.696-1.93 0-1.656 1.13-2.735 3.205-2.735h2.79v-.906c0-1.39-.68-2.083-2.375-2.083-1.188 0-1.79.29-2.338 1.08l-.923-.868c.83-1.1 1.77-1.408 3.278-1.408 2.488 0 3.713 1.1 3.713 3.16v6.438h-1.356zM152.138 63.54c-1.583 0-2.373-1.137-2.373-2.544v-5.82h-1.17v-1.06h1.17v-2.968h1.356v2.967h1.98v1.06h-1.98v5.782c0 .868.397 1.39 1.263 1.39h.717v1.193h-.962zM161.656 63.54v-1.06c-.66.77-1.584 1.176-2.62 1.176-1 0-1.828-.308-2.393-.886-.66-.656-.943-1.562-.943-2.66v-6.053h1.358v5.84c0 1.677.866 2.525 2.26 2.525 1.396 0 2.32-.866 2.32-2.525v-5.84h1.355v9.483h-1.337zM171 55.94c-.51-.52-.886-.694-1.602-.694-1.357 0-2.223 1.1-2.223 2.545v5.82h-1.358V54.13h1.358v1.157c.508-.79 1.525-1.272 2.6-1.272.886 0 1.564.212 2.223.886L171 55.94zM178.572 56.615c-.358-.868-1.188-1.426-2.167-1.426-.98 0-1.81.557-2.168 1.425-.207.52-.245.81-.282 1.58h4.9c-.038-.77-.076-1.06-.283-1.58zm-4.617 2.62c0 2.082.96 3.278 2.732 3.278 1.075 0 1.697-.33 2.43-1.08l.925.83c-.942.963-1.81 1.464-3.393 1.464-2.45 0-4.052-1.504-4.052-4.857 0-3.065 1.45-4.857 3.807-4.857 2.393 0 3.807 1.773 3.807 4.587v.636h-6.257zM183.056 63.61h1.772V61.8h-1.772" fill="#5C7C6F"></path><path fill="#005F86" d="M94.174 35.315v3.446h5.53v2.444h-5.53v5.69h-2.736v-14.02h9.23v2.44M109.534 35.945c-.392-.453-1.003-.747-1.75-.747-.748 0-1.378.294-1.772.747-.533.59-.67 1.24-.67 3.94 0 2.697.137 3.347.67 3.938.394.453 1.024.748 1.772.748.747 0 1.358-.294 1.75-.747.532-.59.69-1.24.69-3.94 0-2.697-.158-3.347-.69-3.938m2.028 9.53c-.984.986-2.185 1.538-3.778 1.538-1.594 0-2.814-.552-3.8-1.537-1.416-1.417-1.375-3.17-1.375-5.592 0-2.422-.042-4.176 1.375-5.594.985-.984 2.205-1.535 3.8-1.535 1.592 0 2.793.55 3.777 1.535 1.416 1.418 1.398 3.172 1.398 5.594s.018 4.175-1.398 5.592M121.12 47.013c-2.875 0-5.158-1.95-5.158-4.924v-9.216h2.737v9.117c0 1.615.942 2.58 2.42 2.58 1.475 0 2.44-.965 2.44-2.58v-9.116h2.715v9.215c0 2.973-2.283 4.923-5.156 4.923M138.035 46.895l-5.55-8.605v8.605h-2.734v-14.02h2.44l5.55 8.584v-8.586h2.737v14.02M151.016 36.182c-.473-.572-1.102-.867-2.047-.867h-2.066v9.138h2.065c.944 0 1.573-.296 2.046-.866.51-.63.59-1.636.59-3.762 0-2.127-.08-3.014-.59-3.643m1.91 9.374c-.926.925-2.244 1.338-3.7 1.338h-5.058v-14.02h5.057c1.457 0 2.775.412 3.7 1.338 1.574 1.576 1.417 3.506 1.417 5.613 0 2.107.157 4.155-1.417 5.73M162.07 37.01l-1.773 5.1h3.484l-1.71-5.1zm3.265 9.885l-.827-2.48h-4.98l-.845 2.48h-2.854l5.096-14.02h2.146l5.115 14.02h-2.852zM174.516 35.315v11.58h-2.735v-11.58h-3.66v-2.44h10.057v2.44M180.826 46.895h2.735v-14.02h-2.734M193.708 35.945c-.393-.453-1.003-.747-1.75-.747-.748 0-1.378.294-1.772.747-.53.59-.67 1.24-.67 3.94 0 2.697.14 3.347.67 3.938.394.453 1.024.748 1.772.748.747 0 1.357-.294 1.75-.747.533-.59.69-1.24.69-3.94 0-2.697-.157-3.347-.69-3.938m2.03 9.53c-.985.986-2.187 1.538-3.78 1.538-1.594 0-2.814-.552-3.8-1.537-1.417-1.417-1.377-3.17-1.377-5.592 0-2.422-.04-4.176 1.38-5.594.984-.984 2.204-1.535 3.798-1.535 1.593 0 2.795.55 3.78 1.535 1.414 1.418 1.395 3.172 1.395 5.594s.02 4.175-1.396 5.592M208.638 46.895l-5.55-8.605v8.605h-2.736v-14.02h2.44l5.55 8.584v-8.586h2.737v14.02"></path><path d="M98.322 18.59c-.475-.574-1.11-.87-2.06-.87h-2.076V26.9h2.077c.95 0 1.584-.296 2.06-.87.513-.633.593-1.644.593-3.78 0-2.137-.08-3.028-.594-3.66m1.92 9.42c-.93.93-2.256 1.344-3.72 1.344h-5.087v-14.09h5.086c1.466 0 2.792.416 3.722 1.345 1.583 1.584 1.425 3.524 1.425 5.642 0 2.118.158 4.175-1.425 5.76M109.197 19.42l-1.78 5.128h3.502l-1.723-5.127zm3.286 9.936l-.832-2.493h-5.006l-.85 2.493h-2.87l5.124-14.09h2.16l5.143 14.09h-2.867zM121.952 29.356h-2.06l-4.65-14.09h2.85l2.83 9.183 2.83-9.184h2.87M128.73 29.356h2.75v-14.09h-2.75M141.82 18.59c-.474-.574-1.107-.87-2.058-.87h-2.077V26.9h2.077c.95 0 1.584-.296 2.06-.87.514-.633.593-1.644.593-3.78 0-2.137-.08-3.028-.594-3.66m1.922 9.42c-.93.93-2.258 1.344-3.722 1.344h-5.086v-14.09h5.086c1.464 0 2.79.416 3.722 1.345 1.582 1.584 1.424 3.524 1.424 5.642 0 2.118.158 4.175-1.424 5.76M156.477 29.475c-2.137 0-3.76-.455-5.146-1.86l1.783-1.78c.89.89 2.097 1.186 3.403 1.186 1.624 0 2.495-.613 2.495-1.74 0-.495-.137-.91-.434-1.187-.278-.258-.595-.396-1.248-.495l-1.702-.24c-1.207-.177-2.097-.552-2.73-1.166-.674-.673-1.01-1.583-1.01-2.77 0-2.513 1.86-4.274 4.908-4.274 1.94 0 3.346.474 4.553 1.64l-1.742 1.723c-.892-.85-1.96-.968-2.89-.968-1.465 0-2.177.81-2.177 1.78 0 .357.117.733.415 1.01.278.257.732.474 1.306.554l1.662.237c1.287.178 2.1.534 2.69 1.09.754.712 1.09 1.74 1.09 2.988 0 2.73-2.275 4.275-5.225 4.275M169.688 29.475c-2.89 0-5.187-1.96-5.187-4.948v-9.262h2.753v9.163c0 1.624.95 2.593 2.435 2.593 1.483 0 2.453-.968 2.453-2.592v-9.163h2.733v9.262c0 2.988-2.296 4.948-5.185 4.948M177.515 29.356V27.14l6.015-9.42h-5.76v-2.454h9.006v2.176l-6.037 9.46h6.036v2.454M194.603 29.475c-2.89 0-5.186-1.96-5.186-4.948v-9.262h2.752v9.163c0 1.624.948 2.593 2.433 2.593 1.485 0 2.453-.968 2.453-2.592v-9.163h2.733v9.262c0 2.988-2.298 4.948-5.187 4.948M211.474 29.356l-3.622-6.413-1.82 2.18v4.233h-2.75v-14.09h2.75V21.4l4.967-6.134h3.343l-4.67 5.6 5.01 8.49M216.865 29.356h2.754v-14.09h-2.755" fill="#005F84"></path><path d="M98.322 18.59c-.475-.574-1.11-.87-2.06-.87h-2.076V26.9h2.077c.95 0 1.584-.296 2.06-.87.513-.633.593-1.644.593-3.78 0-2.137-.08-3.028-.594-3.66m1.92 9.42c-.93.93-2.256 1.344-3.72 1.344h-5.087v-14.09h5.086c1.466 0 2.792.416 3.722 1.345 1.583 1.584 1.425 3.524 1.425 5.642 0 2.118.158 4.175-1.425 5.76M109.197 19.42l-1.78 5.128h3.502l-1.723-5.127zm3.286 9.936l-.832-2.493h-5.006l-.85 2.493h-2.87l5.124-14.09h2.16l5.143 14.09h-2.867zM121.952 29.356h-2.06l-4.65-14.09h2.85l2.83 9.183 2.83-9.184h2.87M128.73 29.356h2.75v-14.09h-2.75M141.82 18.59c-.474-.574-1.107-.87-2.058-.87h-2.077V26.9h2.077c.95 0 1.584-.296 2.06-.87.514-.633.593-1.644.593-3.78 0-2.137-.08-3.028-.594-3.66m1.922 9.42c-.93.93-2.258 1.344-3.722 1.344h-5.086v-14.09h5.086c1.464 0 2.79.416 3.722 1.345 1.582 1.584 1.424 3.524 1.424 5.642 0 2.118.158 4.175-1.424 5.76M156.477 29.475c-2.137 0-3.76-.455-5.146-1.86l1.783-1.78c.89.89 2.097 1.186 3.403 1.186 1.624 0 2.495-.613 2.495-1.74 0-.495-.137-.91-.434-1.187-.278-.258-.595-.396-1.248-.495l-1.702-.24c-1.207-.177-2.097-.552-2.73-1.166-.674-.673-1.01-1.583-1.01-2.77 0-2.513 1.86-4.274 4.908-4.274 1.94 0 3.346.474 4.553 1.64l-1.742 1.723c-.892-.85-1.96-.968-2.89-.968-1.465 0-2.177.81-2.177 1.78 0 .357.117.733.415 1.01.278.257.732.474 1.306.554l1.662.237c1.287.178 2.1.534 2.69 1.09.754.712 1.09 1.74 1.09 2.988 0 2.73-2.275 4.275-5.225 4.275M169.688 29.475c-2.89 0-5.187-1.96-5.187-4.948v-9.262h2.753v9.163c0 1.624.95 2.593 2.435 2.593 1.483 0 2.453-.968 2.453-2.592v-9.163h2.733v9.262c0 2.988-2.296 4.948-5.185 4.948M177.515 29.356V27.14l6.015-9.42h-5.76v-2.454h9.006v2.176l-6.037 9.46h6.036v2.454M194.603 29.475c-2.89 0-5.186-1.96-5.186-4.948v-9.262h2.752v9.163c0 1.624.948 2.593 2.433 2.593 1.485 0 2.453-.968 2.453-2.592v-9.163h2.733v9.262c0 2.988-2.298 4.948-5.187 4.948M211.474 29.356l-3.622-6.413-1.82 2.18v4.233h-2.75v-14.09h2.75V21.4l4.967-6.134h3.343l-4.67 5.6 5.01 8.49M216.865 29.356h2.754v-14.09h-2.755" fill="#005F86"></path><path d="M96.07 62.473c-.904 0-1.77-.366-2.366-.98-.795-.814-.94-1.664-.96-4.02.02-2.354.165-3.204.96-4.02.596-.613 1.462-.978 2.366-.978.905 0 1.77.365 2.368.98.794.814.94 1.664.958 4.02-.018 2.354-.164 3.204-.958 4.017-.598.615-1.463.98-2.368.98zm4.79-5v-.657h-.005c-.03-2.032-.206-3.152-1.282-4.227-.924-.925-2.137-1.425-3.503-1.425-1.367 0-2.578.5-3.502 1.424-1.075 1.074-1.253 2.194-1.282 4.226h-.007v1.314h.006c.03 2.03.207 3.15 1.282 4.227.924.924 2.135 1.425 3.502 1.425 1.366 0 2.58-.5 3.503-1.425 1.076-1.076 1.253-2.197 1.282-4.227h.006v-.656z" fill="#5C7C6F"></path><path d="M47.95 78.16C33.847 75.924 31.49 66.48 31.46 66.393c-1.942-5.644-.686-12.63 3.706-16.72 1.212-1.125 2.48-2.26 3.906-3.12.11-.067.175-.188.168-.317-.004-.128-.08-.243-.197-.3-6.56-3.18-10.43-8.074-12.52-11.62-.828-1.408-7.928-14.164-1.638-28.568.054-.123.033-.267-.056-.37-.09-.102-.23-.144-.36-.106-8.183 2.306-14.214 9.123-14.268 9.187C3.69 21.61.078 30.897.04 40.61 0 50.387 3.6 59.762 10.17 67.01c8.158 9 19.795 13.64 31.924 12.725h.002c1.97-.147 3.94-.447 5.863-.89.16-.038.273-.182.268-.345-.002-.166-.12-.306-.28-.34" fill="#005F86"></path><path d="M65.166 14.563c.388-.897.993-1.72 1.578-2.516 1.03-1.4 2-2.722 1.512-4.166-.654-1.936-4.002-3.697-10.854-5.71C52.168.63 47.564 0 43.716.29c-5.376.404-7.43 2.392-7.75 2.707-.445.44-.48 2.182-.48 2.182.047 1.56-1.707 21.096 19.773 25.985 1.65.376 14.937 2.792 20.973 13.155.214.37.418.758.616 1.14.1.2.22.258.37.227.24-.052.314-.548.315-.55 2.49-15.36-4.95-22.006-9.378-26.063-2.13-1.954-3.54-3.243-2.99-4.51z" fill="#7BAFD4"></path><path d="M39.218 52.025c-4.938 4.653-5.172 12.455-.52 17.393 4.654 4.94 12.457 5.174 17.395.52 4.94-4.652 5.173-12.455.52-17.393-4.65-4.94-12.454-5.172-17.395-.52z" fill="#7F9C90"></path><path d="M70.45 45.896c2.62 4.403 2.677 9.162.952 14.19-1.384 4.038-4.418 7.82-9.57 11.066-.212.132-.378.27-.54.32-.173.054-.285.01-.358-.062-.123-.123-.14-.318-.036-.458 5.073-6.934 4.23-16.88-1.05-22.182-4.914-4.933-9.847-5.345-14.535-6.556-7.788-2.01-13.13-7.26-16.53-14.197-2.305-4.705-4.73-13.256.427-25.227.053-.124.104-.25.162-.373.08-.17.22-.29.33-.314.085-.02.17-.005.233.022.334.142.517.64.617 3.86.45 14.43 6.44 25.347 22.503 29.18 10.162 2.423 13.82 5.28 17.394 10.73" fill="#7F9C90"></path></svg>
+
+      </a>
+
+      <div class="site-header__main">
+
+        <nav class="site-util"><ul class="site-util__menu"><li><a href="#site-search" class="js-toggle-search" data-target="#site-search" data-toggle="true">
+          Search
+        </a></li><li><a class="js-language-toggle" href="https://fr.davidsuzuki.org">Français</a></li><li><a href="https://davidsuzuki.org/sign-up/">
+          Subscribe
+        </a></li></ul></nav><nav class="site-nav"><ul class="site-nav__menu"><li class="dropdown js-dropdown  menu-item menu-item-type-post_type menu-item-object-page menu-item-255 menu-item-has-children"><a href="https://davidsuzuki.org/our-work/" target="">
+          Our Work
+        </a><div class="dropdown__menu"><div class="dropdown__menu-inner grid grid--full grid--flex"><div class="grid__item w-12-12 flex"><ul class="site-nav__sub-menu w-12-12"><li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-268"><a class="bucket bucket--static" href="https://davidsuzuki.org/our-work/climate-solutions/" target=""><span id="dropdown-bucket-268" class="bucket__bg bucket__bg--dark"></span><style media="screen">
+                        .should-load #dropdown-bucket-268 {
+                          background-image: url(https://davidsuzuki.org/wp-content/uploads/2017/10/hand-touching-solar-panel_nav-360x360.jpg)
+                        }
+
+                        @media screen and (min-width: 1800px) {
+                          .should-load #dropdown-bucket-268 {
+                            background-image: url(https://davidsuzuki.org/wp-content/uploads/2017/10/hand-touching-solar-panel_nav.jpg)
+                          }
+                        }
+                        </style><span class="bucket__sizer bucket__sizer--nav"></span><span class="bucket__body js-reveal"><div class="h4 mb-0">Climate solutions</div><div data-reveal-element=""><div class="pt-1"><p>Let’s take action to charge up Canada’s renewable energy solutions.</p><span class="btn-text">Learn More
+                              </span></div></div></span></a></li><li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-266"><a class="bucket bucket--static" href="https://davidsuzuki.org/our-work/biodiversity/" target=""><span id="dropdown-bucket-266" class="bucket__bg bucket__bg--dark"></span><style media="screen">
+                        .should-load #dropdown-bucket-266 {
+                          background-image: url(https://davidsuzuki.org/wp-content/uploads/2017/10/monarch-butterfly-hands_nav-360x360.jpg)
+                        }
+
+                        @media screen and (min-width: 1800px) {
+                          .should-load #dropdown-bucket-266 {
+                            background-image: url(https://davidsuzuki.org/wp-content/uploads/2017/10/monarch-butterfly-hands_nav.jpg)
+                          }
+                        }
+                        </style><span class="bucket__sizer bucket__sizer--nav"></span><span class="bucket__body js-reveal"><div class="h4 mb-0">Biodiversity</div><div data-reveal-element=""><div class="pt-1"><p>Let’s fight for the survival of the species and spaces we depend on.</p><span class="btn-text">Learn More
+                              </span></div></div></span></a></li><li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-269"><a class="bucket bucket--static" href="https://davidsuzuki.org/our-work/environmental-rights/" target=""><span id="dropdown-bucket-269" class="bucket__bg bucket__bg--dark"></span><style media="screen">
+                        .should-load #dropdown-bucket-269 {
+                          background-image: url(https://davidsuzuki.org/wp-content/uploads/2017/10/Crowd-people-street-city-center_nav-360x360.jpg)
+                        }
+
+                        @media screen and (min-width: 1800px) {
+                          .should-load #dropdown-bucket-269 {
+                            background-image: url(https://davidsuzuki.org/wp-content/uploads/2017/10/Crowd-people-street-city-center_nav.jpg)
+                          }
+                        }
+                        </style><span class="bucket__sizer bucket__sizer--nav"></span><span class="bucket__body js-reveal"><div class="h4 mb-0">Environmental rights</div><div data-reveal-element=""><div class="pt-1"><p>Let’s establish the legal right of all Canadians to live in a healthy environment.</p><span class="btn-text">Learn More
+                              </span></div></div></span></a></li><li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-270"><a class="bucket bucket--static" href="https://davidsuzuki.org/our-work/oceans/" target=""><span id="dropdown-bucket-270" class="bucket__bg bucket__bg--dark"></span><style media="screen">
+                        .should-load #dropdown-bucket-270 {
+                          background-image: url(https://davidsuzuki.org/wp-content/uploads/2017/10/whale-tail_nav-360x360.jpg)
+                        }
+
+                        @media screen and (min-width: 1800px) {
+                          .should-load #dropdown-bucket-270 {
+                            background-image: url(https://davidsuzuki.org/wp-content/uploads/2017/10/whale-tail_nav-540x540.jpg)
+                          }
+                        }
+                        </style><span class="bucket__sizer bucket__sizer--nav"></span><span class="bucket__body js-reveal"><div class="h4 mb-0">Oceans</div><div data-reveal-element=""><div class="pt-1"><p>Let’s protect and restore the bodies of water that sustain us.</p><span class="btn-text">Learn More
+                              </span></div></div></span></a></li><li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-267"><a class="bucket bucket--static" href="https://davidsuzuki.org/our-work/cities/" target=""><span id="dropdown-bucket-267" class="bucket__bg bucket__bg--dark"></span><style media="screen">
+                        .should-load #dropdown-bucket-267 {
+                          background-image: url(https://davidsuzuki.org/wp-content/uploads/2017/10/father-child-bicycle-sunset_nav-360x360.jpg)
+                        }
+
+                        @media screen and (min-width: 1800px) {
+                          .should-load #dropdown-bucket-267 {
+                            background-image: url(https://davidsuzuki.org/wp-content/uploads/2017/10/father-child-bicycle-sunset_nav.jpg)
+                          }
+                        }
+                        </style><span class="bucket__sizer bucket__sizer--nav"></span><span class="bucket__body js-reveal"><div class="h4 mb-0">Cities</div><div data-reveal-element=""><div class="pt-1"><p>Let’s make our cities healthier, sustainable and better places to live.</p><span class="btn-text">Learn More
+                              </span></div></div></span></a></li><li class="w-12-12"></li></ul></div><div class="grid__item w-12-12"><a class="site-nav__bar" href="https://davidsuzuki.org/projects/" target=""><div class="container w-12-12 text-right relative"><span class="site-nav__bar-label">All projects</span><img class="site-nav__bar-bg" src="https://davidsuzuki.org/wp-content/themes/base-theme/src/images/compass.svg" alt="An illustration of a compass"></div></a></div></div></div></li><li class="dropdown js-dropdown  menu-item menu-item-type-post_type menu-item-object-page menu-item-272 menu-item-has-children"><a href="https://davidsuzuki.org/experts/" target="">
+          Experts
+        </a><div class="dropdown__menu"><div class="dropdown__menu-inner grid grid--full grid--flex"><div class="grid__item w-12-12 flex"><ul class="site-nav__sub-menu w-12-12"><li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-1589"><a class="bucket bucket--static" href="https://davidsuzuki.org/experts/founding-family/" target=""><span id="dropdown-bucket-1589" class="bucket__bg bucket__bg--dark"></span><style media="screen">
+                        .should-load #dropdown-bucket-1589 {
+                          background-image: url(https://davidsuzuki.org/wp-content/uploads/2017/10/trees-fouding-family_hero-360x360.jpg)
+                        }
+
+                        @media screen and (min-width: 1800px) {
+                          .should-load #dropdown-bucket-1589 {
+                            background-image: url(https://davidsuzuki.org/wp-content/uploads/2017/10/trees-fouding-family_hero-540x540.jpg)
+                          }
+                        }
+                        </style><span class="bucket__sizer bucket__sizer--nav"></span><span class="bucket__body js-reveal"><div class="h4 mb-0">Founding family</div><div data-reveal-element=""><div class="pt-1"><span class="btn-text">Learn More
+                              </span></div></div></span></a></li><li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-1587"><a class="bucket bucket--static" href="https://davidsuzuki.org/experts/fellows/" target=""><span id="dropdown-bucket-1587" class="bucket__bg bucket__bg--dark"></span><style media="screen">
+                        .should-load #dropdown-bucket-1587 {
+                          background-image: url(https://davidsuzuki.org/wp-content/uploads/2017/10/trees-fellows_hero-360x360.jpg)
+                        }
+
+                        @media screen and (min-width: 1800px) {
+                          .should-load #dropdown-bucket-1587 {
+                            background-image: url(https://davidsuzuki.org/wp-content/uploads/2017/10/trees-fellows_hero-540x540.jpg)
+                          }
+                        }
+                        </style><span class="bucket__sizer bucket__sizer--nav"></span><span class="bucket__body js-reveal"><div class="h4 mb-0">Fellows</div><div data-reveal-element=""><div class="pt-1"><span class="btn-text">Learn More
+                              </span></div></div></span></a></li><li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-1586"><a class="bucket bucket--static" href="https://davidsuzuki.org/experts/science-policy-experts/" target=""><span id="dropdown-bucket-1586" class="bucket__bg bucket__bg--dark"></span><style media="screen">
+                        .should-load #dropdown-bucket-1586 {
+                          background-image: url(https://davidsuzuki.org/wp-content/uploads/2017/10/trees-science-policy_hero-360x360.jpg)
+                        }
+
+                        @media screen and (min-width: 1800px) {
+                          .should-load #dropdown-bucket-1586 {
+                            background-image: url(https://davidsuzuki.org/wp-content/uploads/2017/10/trees-science-policy_hero-540x540.jpg)
+                          }
+                        }
+                        </style><span class="bucket__sizer bucket__sizer--nav"></span><span class="bucket__body js-reveal"><div class="h4 mb-0">Science and policy</div><div data-reveal-element=""><div class="pt-1"><span class="btn-text">Learn More
+                              </span></div></div></span></a></li><li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-1588"><a class="bucket bucket--static" href="https://davidsuzuki.org/experts/communications-and-engagement/" target=""><span id="dropdown-bucket-1588" class="bucket__bg bucket__bg--dark"></span><style media="screen">
+                        .should-load #dropdown-bucket-1588 {
+                          background-image: url(https://davidsuzuki.org/wp-content/uploads/2017/10/trees-communications-engagement_hero-360x360.jpg)
+                        }
+
+                        @media screen and (min-width: 1800px) {
+                          .should-load #dropdown-bucket-1588 {
+                            background-image: url(https://davidsuzuki.org/wp-content/uploads/2017/10/trees-communications-engagement_hero-540x540.jpg)
+                          }
+                        }
+                        </style><span class="bucket__sizer bucket__sizer--nav"></span><span class="bucket__body js-reveal"><div class="h4 mb-0">Communications and engagement</div><div data-reveal-element=""><div class="pt-1"><span class="btn-text">Learn More
+                              </span></div></div></span></a></li><li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-1592"><a class="bucket bucket--static" href="https://davidsuzuki.org/media-centre/media-contacts/" target=""><span id="dropdown-bucket-1592" class="bucket__bg bucket__bg--dark"></span><style media="screen">
+                        .should-load #dropdown-bucket-1592 {
+                          background-image: url(https://davidsuzuki.org/wp-content/uploads/2017/10/trees-media-contacts_hero-360x360.jpg)
+                        }
+
+                        @media screen and (min-width: 1800px) {
+                          .should-load #dropdown-bucket-1592 {
+                            background-image: url(https://davidsuzuki.org/wp-content/uploads/2017/10/trees-media-contacts_hero-540x540.jpg)
+                          }
+                        }
+                        </style><span class="bucket__sizer bucket__sizer--nav"></span><span class="bucket__body js-reveal"><div class="h4 mb-0">Media contacts</div><div data-reveal-element=""><div class="pt-1"><span class="btn-text">Learn More
+                              </span></div></div></span></a></li><li class="w-12-12"></li></ul></div><div class="grid__item w-12-12"><a class="site-nav__bar" href="https://davidsuzuki.org/experts/" target=""><div class="container w-12-12 text-right relative"><span class="site-nav__bar-label">Experts</span><img class="site-nav__bar-bg" src="https://davidsuzuki.org/wp-content/themes/base-theme/src/images/compass.svg" alt="An illustration of a compass"></div></a></div></div></div></li><li class="dropdown js-dropdown  menu-item menu-item-type-post_type menu-item-object-page menu-item-273 menu-item-has-children"><a href="https://davidsuzuki.org/take-action/" target="">
+          Take Action
+        </a><div class="dropdown__menu"><div class="dropdown__menu-inner grid grid--full grid--flex"><div class="grid__item w-12-12 flex"><ul class="site-nav__sub-menu w-12-12"><li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a class="bucket bucket--static" href="https://davidsuzuki.org/take-action/act-online/" target=""><span id="dropdown-bucket-275" class="bucket__bg bucket__bg--dark"></span><style media="screen">
+                        .should-load #dropdown-bucket-275 {
+                          background-image: url(https://davidsuzuki.org/wp-content/uploads/2017/08/waves-act-online_hero-450x360.jpg)
+                        }
+
+                        @media screen and (min-width: 1800px) {
+                          .should-load #dropdown-bucket-275 {
+                            background-image: url(https://davidsuzuki.org/wp-content/uploads/2017/08/waves-act-online_hero-675x540.jpg)
+                          }
+                        }
+                        </style><span class="bucket__sizer bucket__sizer--nav"></span><span class="bucket__body js-reveal"><div class="h4 mb-0">Act online</div><div data-reveal-element=""><div class="pt-1"><span class="btn-text">Learn More
+                              </span></div></div></span></a></li><li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-274"><a class="bucket bucket--static" href="https://davidsuzuki.org/take-action/act-locally/" target=""><span id="dropdown-bucket-274" class="bucket__bg bucket__bg--dark"></span><style media="screen">
+                        .should-load #dropdown-bucket-274 {
+                          background-image: url(https://davidsuzuki.org/wp-content/uploads/2017/08/waves-act-locally_hero-450x360.jpg)
+                        }
+
+                        @media screen and (min-width: 1800px) {
+                          .should-load #dropdown-bucket-274 {
+                            background-image: url(https://davidsuzuki.org/wp-content/uploads/2017/08/waves-act-locally_hero-675x540.jpg)
+                          }
+                        }
+                        </style><span class="bucket__sizer bucket__sizer--nav"></span><span class="bucket__body js-reveal"><div class="h4 mb-0">Act locally</div><div data-reveal-element=""><div class="pt-1"><span class="btn-text">Learn More
+                              </span></div></div></span></a></li><li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-276"><a class="bucket bucket--static" href="https://davidsuzuki.org/take-action/act-at-home/" target=""><span id="dropdown-bucket-276" class="bucket__bg bucket__bg--dark"></span><style media="screen">
+                        .should-load #dropdown-bucket-276 {
+                          background-image: url(https://davidsuzuki.org/wp-content/uploads/2017/08/waves-act-at-home_hero-450x360.jpg)
+                        }
+
+                        @media screen and (min-width: 1800px) {
+                          .should-load #dropdown-bucket-276 {
+                            background-image: url(https://davidsuzuki.org/wp-content/uploads/2017/08/waves-act-at-home_hero-675x540.jpg)
+                          }
+                        }
+                        </style><span class="bucket__sizer bucket__sizer--nav"></span><span class="bucket__body js-reveal"><div class="h4 mb-0">Act at home</div><div data-reveal-element=""><div class="pt-1"><span class="btn-text">Learn More
+                              </span></div></div></span></a></li><li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-277"><a class="bucket bucket--static" href="https://davidsuzuki.org/take-action/volunteer/" target=""><span id="dropdown-bucket-277" class="bucket__bg bucket__bg--dark"></span><style media="screen">
+                        .should-load #dropdown-bucket-277 {
+                          background-image: url(https://davidsuzuki.org/wp-content/uploads/2017/08/waves-volunteer_hero-450x360.jpg)
+                        }
+
+                        @media screen and (min-width: 1800px) {
+                          .should-load #dropdown-bucket-277 {
+                            background-image: url(https://davidsuzuki.org/wp-content/uploads/2017/08/waves-volunteer_hero-675x540.jpg)
+                          }
+                        }
+                        </style><span class="bucket__sizer bucket__sizer--nav"></span><span class="bucket__body js-reveal"><div class="h4 mb-0">Volunteer</div><div data-reveal-element=""><div class="pt-1"><span class="btn-text">Learn More
+                              </span></div></div></span></a></li><li class="w-12-12"></li></ul></div><div class="grid__item w-12-12"><a class="site-nav__bar" href="https://davidsuzuki.org/take-action/" target=""><div class="container w-12-12 text-right relative"><span class="site-nav__bar-label">Take action</span><img class="site-nav__bar-bg" src="https://davidsuzuki.org/wp-content/themes/base-theme/src/images/compass.svg" alt="An illustration of a compass"></div></a></div></div></div></li><li class="js-dropdown-cancel  menu-item menu-item-type-post_type menu-item-object-page menu-item-278"><a href="https://davidsuzuki.org/stories/" target="">
+          Stories
+        </a></li><li class="dropdown js-dropdown  menu-item menu-item-type-post_type menu-item-object-page menu-item-279 menu-item-has-children"><a href="https://davidsuzuki.org/about/" target="">
+          About
+        </a><div class="dropdown__menu"><div class="dropdown__menu-inner grid grid--full grid--flex"><div class="grid__item w-12-12 flex"><ul class="site-nav__sub-menu w-12-12"><li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a class="bucket bucket--static" href="https://davidsuzuki.org/about/our-story/" target=""><span id="dropdown-bucket-282" class="bucket__bg bucket__bg--dark"></span><style media="screen">
+                        .should-load #dropdown-bucket-282 {
+                          background-image: url(https://davidsuzuki.org/wp-content/uploads/2017/10/clouds-story_hero-360x360.jpg)
+                        }
+
+                        @media screen and (min-width: 1800px) {
+                          .should-load #dropdown-bucket-282 {
+                            background-image: url(https://davidsuzuki.org/wp-content/uploads/2017/10/clouds-story_hero-540x540.jpg)
+                          }
+                        }
+                        </style><span class="bucket__sizer bucket__sizer--nav"></span><span class="bucket__body js-reveal"><div class="h4 mb-0">Our story</div><div data-reveal-element=""><div class="pt-1"><span class="btn-text">Learn More
+                              </span></div></div></span></a></li><li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-1572"><a class="bucket bucket--static" href="https://davidsuzuki.org/about/staff-board/" target=""><span id="dropdown-bucket-1572" class="bucket__bg bucket__bg--dark"></span><style media="screen">
+                        .should-load #dropdown-bucket-1572 {
+                          background-image: url(https://davidsuzuki.org/wp-content/uploads/2017/10/clouds-staff-board_hero-360x360.jpg)
+                        }
+
+                        @media screen and (min-width: 1800px) {
+                          .should-load #dropdown-bucket-1572 {
+                            background-image: url(https://davidsuzuki.org/wp-content/uploads/2017/10/clouds-staff-board_hero-540x540.jpg)
+                          }
+                        }
+                        </style><span class="bucket__sizer bucket__sizer--nav"></span><span class="bucket__body js-reveal"><div class="h4 mb-0">Staff and board</div><div data-reveal-element=""><div class="pt-1"><span class="btn-text">Learn More
+                              </span></div></div></span></a></li><li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-281"><a class="bucket bucket--static" href="https://davidsuzuki.org/about/financials/" target=""><span id="dropdown-bucket-281" class="bucket__bg bucket__bg--dark"></span><style media="screen">
+                        .should-load #dropdown-bucket-281 {
+                          background-image: url(https://davidsuzuki.org/wp-content/uploads/2017/10/clouds-financial_hero-360x360.jpg)
+                        }
+
+                        @media screen and (min-width: 1800px) {
+                          .should-load #dropdown-bucket-281 {
+                            background-image: url(https://davidsuzuki.org/wp-content/uploads/2017/10/clouds-financial_hero-540x540.jpg)
+                          }
+                        }
+                        </style><span class="bucket__sizer bucket__sizer--nav"></span><span class="bucket__body js-reveal"><div class="h4 mb-0">Financials and annual review</div><div data-reveal-element=""><div class="pt-1"><span class="btn-text">Learn More
+                              </span></div></div></span></a></li><li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-285"><a class="bucket bucket--static" href="https://davidsuzuki.org/about/faqs/" target=""><span id="dropdown-bucket-285" class="bucket__bg bucket__bg--dark"></span><style media="screen">
+                        .should-load #dropdown-bucket-285 {
+                          background-image: url(https://davidsuzuki.org/wp-content/uploads/2017/10/clouds-FAQ_hero-360x360.jpg)
+                        }
+
+                        @media screen and (min-width: 1800px) {
+                          .should-load #dropdown-bucket-285 {
+                            background-image: url(https://davidsuzuki.org/wp-content/uploads/2017/10/clouds-FAQ_hero-540x540.jpg)
+                          }
+                        }
+                        </style><span class="bucket__sizer bucket__sizer--nav"></span><span class="bucket__body js-reveal"><div class="h4 mb-0">FAQs</div><div data-reveal-element=""><div class="pt-1"><span class="btn-text">Learn More
+                              </span></div></div></span></a></li><li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-1571"><a class="bucket bucket--static" href="https://davidsuzuki.org/about/declaration-of-interdependence/" target=""><span id="dropdown-bucket-1571" class="bucket__bg bucket__bg--dark"></span><style media="screen">
+                        .should-load #dropdown-bucket-1571 {
+                          background-image: url(https://davidsuzuki.org/wp-content/uploads/2017/09/clouds-declaration_hero-360x360.jpg)
+                        }
+
+                        @media screen and (min-width: 1800px) {
+                          .should-load #dropdown-bucket-1571 {
+                            background-image: url(https://davidsuzuki.org/wp-content/uploads/2017/09/clouds-declaration_hero-540x540.jpg)
+                          }
+                        }
+                        </style><span class="bucket__sizer bucket__sizer--nav"></span><span class="bucket__body js-reveal"><div class="h4 mb-0">Declaration of Interdependence</div><div data-reveal-element=""><div class="pt-1"><span class="btn-text">Learn More
+                              </span></div></div></span></a></li><li class="w-12-12"></li></ul></div><div class="grid__item w-12-12"><a class="site-nav__bar" href="https://davidsuzuki.org/about/" target=""><div class="container w-12-12 text-right relative"><span class="site-nav__bar-label">About</span><img class="site-nav__bar-bg" src="https://davidsuzuki.org/wp-content/themes/base-theme/src/images/compass.svg" alt="An illustration of a compass"></div></a></div></div></div></li><li class="js-dropdown-cancel"><a href="https://secure.e2rm.com/registrant/DonationPage.aspx?eventid=228533" class="site-nav__cta" target="_blank">Donate</a></li></ul></nav>
+          <a href="https://secure.e2rm.com/registrant/DonationPage.aspx?eventid=228533" class="site-nav__cta site-nav__cta--mobile" target="_blank">Donate</a>
+
+        <button class="site-header__toggle btn-toggle" data-toggle-modal="#mobile-nav" aria-label="Toggle Navigation">
+          <span class="btn-toggle__bar"></span>
+          <span class="btn-toggle__bar"></span>
+          <span class="btn-toggle__bar"></span>
+        </button>
+      </div>
+
+    </div>
+  </div>
+
+</header>
+
+<nav id="site-search" class="site-search">
+  <div class="site-search__inner">
+    <section id="search-view" class="section section--padded">
+  <div class="container container--md">
+
+    <h2 class="h3 text-center color-white">
+      What can we help you find?
+    </h2>
+
+    
+<div class="site-search__container">
+  <form class="site-search__form js-listing-search" action="/" role="search" method="get">
+
+      <label class="sr-only" for="site-search-search-input">Search</label>
+      <div class="form-combo">
+        <input class="site-search__input" aria-label="Search the site" id="site-search-search-input" type="text" value="" name="s" placeholder="Search..." autocomplete="off">
+        <button class="site-search__button icon-search" type="submit" tabindex="-1" aria-label="Search">
+          <span class="spinner spinner--absolute"></span>
+        </button>
+      </div>
+  </form>
 </div>
-</noscript>
-<!-- End Quantcast tag -->
+
+    
+    <div class="search-results">
+      <div class="search-results__caret"></div>
+
+      <div class="search-results__list js-listing">
+        <div style="display: none">
+                <article class="js-no-results listing-item no-results">
+        <p class="mb-0">Sorry, but your search returned no results. Try searching with different keywords.</p>
+      </article>
+    
+        </div>
+      </div>
+
+      <p class="mt-2 text-center">
+  <button class="btn btn--load btn--ghost-white js-load-more" data-label-enabled="Load More" data-label-disabled="No More Posts To Load" data-label-loading="Loading">
+  <span class="sr-only">Load More</span>
+</button>
+</p>
+    </div>
+
+  </div>
+</section>
+  </div>
+
+  <button class="site-search__close btn-plain js-toggle-search" aria-label="Close search" data-target="#site-search" data-toggle="true">
+  </button>
+</nav>
+<nav id="mobile-nav" class="modal mobile-nav">
+
+  <div class="modal__inner mobile-nav__inner">
+
+    <div class="container container--md">
+
+      <ul class="mobile-nav__menu">
+
+                  <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-255 menu-item-has-children">
+
+            <a href="https://davidsuzuki.org/our-work/" target="">
+              Our Work
+            </a>
+
+            
+            <span class="mobile-nav__toggle js-toggle" data-target="#mobile-sub-menu-1" data-group="#mobile-nav" data-toggle="true">
+            </span>
+
+            <ul id="mobile-sub-menu-1" class="mobile-nav__sub-menu">
+                            <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-268">
+                <a href="https://davidsuzuki.org/our-work/climate-solutions/" target="">
+                  Climate solutions
+                </a>
+              </li>
+                            <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-266">
+                <a href="https://davidsuzuki.org/our-work/biodiversity/" target="">
+                  Biodiversity
+                </a>
+              </li>
+                            <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-269">
+                <a href="https://davidsuzuki.org/our-work/environmental-rights/" target="">
+                  Environmental rights
+                </a>
+              </li>
+                            <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-270">
+                <a href="https://davidsuzuki.org/our-work/oceans/" target="">
+                  Oceans
+                </a>
+              </li>
+                            <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-267">
+                <a href="https://davidsuzuki.org/our-work/cities/" target="">
+                  Cities
+                </a>
+              </li>
+                            <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-271">
+                <a href="https://davidsuzuki.org/projects/" target="">
+                  All projects
+                </a>
+              </li>
+                          </ul>
+            
+          </li>
+                  <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-272 menu-item-has-children">
+
+            <a href="https://davidsuzuki.org/experts/" target="">
+              Experts
+            </a>
+
+            
+            <span class="mobile-nav__toggle js-toggle" data-target="#mobile-sub-menu-2" data-group="#mobile-nav" data-toggle="true">
+            </span>
+
+            <ul id="mobile-sub-menu-2" class="mobile-nav__sub-menu">
+                            <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-1589">
+                <a href="https://davidsuzuki.org/experts/founding-family/" target="">
+                  Founding family
+                </a>
+              </li>
+                            <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-1587">
+                <a href="https://davidsuzuki.org/experts/fellows/" target="">
+                  Fellows
+                </a>
+              </li>
+                            <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-1586">
+                <a href="https://davidsuzuki.org/experts/science-policy-experts/" target="">
+                  Science and policy
+                </a>
+              </li>
+                            <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-1588">
+                <a href="https://davidsuzuki.org/experts/communications-and-engagement/" target="">
+                  Communications and engagement
+                </a>
+              </li>
+                            <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-1592">
+                <a href="https://davidsuzuki.org/media-centre/media-contacts/" target="">
+                  Media contacts
+                </a>
+              </li>
+                            <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-1667">
+                <a href="https://davidsuzuki.org/experts/" target="">
+                  Experts
+                </a>
+              </li>
+                          </ul>
+            
+          </li>
+                  <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-273 menu-item-has-children">
+
+            <a href="https://davidsuzuki.org/take-action/" target="">
+              Take Action
+            </a>
+
+            
+            <span class="mobile-nav__toggle js-toggle" data-target="#mobile-sub-menu-3" data-group="#mobile-nav" data-toggle="true">
+            </span>
+
+            <ul id="mobile-sub-menu-3" class="mobile-nav__sub-menu">
+                            <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-275">
+                <a href="https://davidsuzuki.org/take-action/act-online/" target="">
+                  Act online
+                </a>
+              </li>
+                            <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-274">
+                <a href="https://davidsuzuki.org/take-action/act-locally/" target="">
+                  Act locally
+                </a>
+              </li>
+                            <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-276">
+                <a href="https://davidsuzuki.org/take-action/act-at-home/" target="">
+                  Act at home
+                </a>
+              </li>
+                            <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-277">
+                <a href="https://davidsuzuki.org/take-action/volunteer/" target="">
+                  Volunteer
+                </a>
+              </li>
+                            <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-1679">
+                <a href="https://davidsuzuki.org/take-action/" target="">
+                  Take action
+                </a>
+              </li>
+                          </ul>
+            
+          </li>
+                  <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-278">
+
+            <a href="https://davidsuzuki.org/stories/" target="">
+              Stories
+            </a>
+
+            
+          </li>
+                  <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-279 menu-item-has-children">
+
+            <a href="https://davidsuzuki.org/about/" target="">
+              About
+            </a>
+
+            
+            <span class="mobile-nav__toggle js-toggle" data-target="#mobile-sub-menu-5" data-group="#mobile-nav" data-toggle="true">
+            </span>
+
+            <ul id="mobile-sub-menu-5" class="mobile-nav__sub-menu">
+                            <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-282">
+                <a href="https://davidsuzuki.org/about/our-story/" target="">
+                  Our story
+                </a>
+              </li>
+                            <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-1572">
+                <a href="https://davidsuzuki.org/about/staff-board/" target="">
+                  Staff and board
+                </a>
+              </li>
+                            <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-281">
+                <a href="https://davidsuzuki.org/about/financials/" target="">
+                  Financials and annual review
+                </a>
+              </li>
+                            <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-285">
+                <a href="https://davidsuzuki.org/about/faqs/" target="">
+                  FAQs
+                </a>
+              </li>
+                            <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-1571">
+                <a href="https://davidsuzuki.org/about/declaration-of-interdependence/" target="">
+                  Declaration of Interdependence
+                </a>
+              </li>
+                            <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-1668">
+                <a href="https://davidsuzuki.org/about/" target="">
+                  About
+                </a>
+              </li>
+                          </ul>
+            
+          </li>
+        
+      </ul>
+
+    </div>
+
+  </div>
+
+  <div class="mobile-nav__bottom">
+
+    <div id="mobile-search" class="mobile-search">
+      
+<div class="mobile-search__container">
+  <form class="mobile-search__form js-listing-search" action="/" role="search" method="get">
+
+      <label class="sr-only" for="mobile-search-search-input">Search</label>
+      <div class="form-combo">
+        <input class="mobile-search__input" aria-label="Search the site" id="mobile-search-search-input" type="text" value="" name="s" placeholder="Search..." autocomplete="off">
+        <button class="mobile-search__button icon-search" type="submit" tabindex="0" aria-label="Search">
+          <span class="spinner spinner--absolute"></span>
+        </button>
+      </div>
+  </form>
+</div>
+    </div>
+
+    <nav class="mobile-nav__util"><ul class="mobile-nav__util-menu"><li><a href="#mobile-search" class="js-toggle-search" data-target="#mobile-search" data-toggle="true">
+              Search
+            </a></li><li><a class="js-language-toggle" href="https://fr.davidsuzuki.org">Français</a></li><li><a href="https://davidsuzuki.org/sign-up/">
+              Subscribe
+            </a></li></ul></nav>
+  </div>
+</nav>
+
+
+  <div class="page-wrap">
+
+        <section class="section text-center">
+  <div class="container container--lg">
+    <h1 class="color-secondary">Privacy Policy</h1>
+  </div>
+  <div class="container container--md">
+    
+  </div>
+</section>
+  
+    <main id="page-content" class="page-content">
+
+      
+          <section class="section section--editor post-content">
+
+  <div class="container container--md">
+
+    <div class="grid" scroll-section="">
+      
+      <div class="grid__item w-12-12 " animate-transform="2">
+        <p>The David Suzuki Foundation aims to protect nature, now and for future generations, and help Canadians understand that we are all interconnected and interdependent with nature.</p>
+<p>To carry out our mission, it’s important to communicate with you. And we’re committed to respecting our relationship with you, whether close or distant.</p>
+<p>This privacy policy reflects our best efforts to maintain this respect, while ensuring we can communicate broadly, personally and accurately in the most cost-effective way possible. It explains how we collect, use and safeguard your personal information.</p>
+<h3>Information we collect and how we use it</h3>
+<h4>Personal information</h4>
+<p>“Personal Information” is any information that can be used to identify (or infer the identity of) a specific person, including, for example, your name, address, birth date, gender, etc. In some cases, your computer’s IP address can be considered personal information, as it may give some indication of your geographic location.</p>
+<p>We may ask you for personal information in a variety of ways, including website forms, surveys, mail-in forms, over the phone and in person.</p>
+<p>There are a range of reasons why we may ask you for this information, including: to process a donation or registration; to fulfill your subscription to an e-newsletter; to allow you to send letters or sign a petition via our online action platform; to invite you to events; or to provide other information about the Foundation which might interest you. We may also contact you by mail, email or phone about opportunities to donate in support of our work.</p>
+<p>Your choice to provide us with your personal information is at your discretion. You may always elect to withhold information. In some cases, we will require your personal information in order to fulfill something you’ve asked of us. For example, when you make a donation, we’re required by law to take your full name and mailing address in order to send you a tax-deductible receipt.</p>
+<h4>Cookies and data technology</h4>
+<p>We use cookies and other technology on our websites to make them easier to use and so that we can learn about how you use them. Information collected this way may include (but is not limited to) your IP address and internet service provider, the type of web browser and operating system you used and which of our website pages you visited. We use links in our emails to track open and click-through rates to help us learn what emails appeal to you most.</p>
+<p>In some cases, interacting with our web sites, social media accounts or emails provides us with “anonymous” data, such as IP address, link clicks, page visits, the time spent on a page, etc. We use Google Analytics on our website to learn where you are, when you’re using our site and what content you find most interesting. This helps us stay relevant.</p>
+<p>We may also use 3rd party cookies, beacons and other storage technologies to understand what website content is most important to you so that we can measure our performance and target sponsored and unsponsored content to you on those 3rd party platforms. For example, we use Facebook’s tracking pixel to learn about what content you are interested in on our website so that we can serve only our most relevant advertising to you on Facebook. You can opt out from such Facebook advertising by clicking “Why am I seeing this?” on our Facebook ads, clicking “Options” and then selecting “Hide all ads from this advertiser”.</p>
+<p>It’s possible for us to put anonymous data together with personal information you give us to find out more about you. This helps us respect what we know about you. For example, when we have petitions that are meaningful locally, we try our best to send them to the affected communities and avoid sending irrelevant or too many emails.</p>
+<h4>Aggregate Data</h4>
+<p>In some cases, we may aggregate your information with others peoples’ in order to report on campaigns. For example, we may count the number of people who donate or sign a petition based on their postal code. That way, we can show where Canadians are taking action — with the number (e.g., “516 people from Toronto have donated to this campaign”) or by indicating the total on a map. We do not display your actual postal code.</p>
+<h4>Use of third parties</h4>
+<p>In many cases, we don’t actually collect and store personal information in our systems, but instead use a third-party. For example, we may use Survey Monkey to send out a survey or Marketo to provide an online registration form.</p>
+<p>Such services have resources dedicated to maintaining security and confidentiality, and we ensure that any third-party partner has written policies about never sharing your information with anyone other than the David Suzuki Foundation.</p>
+<h4>Donation and credit card information</h4>
+<p>In order to donate to us, you may need to provide your credit card information.</p>
+<p>In the case of donations made online, the Foundation does not collect your credit card information. Instead, this information is collected and processed by third-party, <a href="http://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard">PCI-compliant</a> services. We use <a href="http://www.frontstream.com/">FrontStream Payments</a> to collect your payment information, which is processed directly through <a href="http://home.iatspayments.com/">iATS Payments</a> who uses and stores it.</p>
+<p>Donations made by credit card in person, through the mail or by phone are collected by the Foundation and processed using <a href="http://home.iatspayments.com/">iATS Payments</a>.</p>
+<h4>A word on fundraising</h4>
+<p>As a registered Canadian charity, we cannot do our work without the financial support of our many generous donors. We do our best to reach out to as many possible individual supporters as we can. Our donors allow us to maintain our independence.</p>
+<p>We may use information you provide (such as your postal code) to find more complete contact information from other sources (like Canada Post) so we can reach out to you, and we may use third-party providers to help. The chance to send you a letter or give you a phone call helps us see if we’re a good fit for you when it comes to making donations. You may opt out of these communications at any time by contacting <a href="mailto:communitygiving@davidsuzuki.org">communitygiving@davidsuzuki.org</a>.</p>
+<h4>Links to other websites</h4>
+<p>Our websites contain links to websites owned and operated by other organizations. They may have their own privacy policies and terms and conditions and are not governed by this policy. We encourage you to carefully review the privacy policy and terms of use of each website you visit.</p>
+<h3>What you need to know about consent</h3>
+<p>By providing personal information to us, you allow “deemed” consent to the collection, use and disclosure of your information in accordance with this policy.</p>
+<p>When you provide contact information to us for one purpose, we may contact you using that information for other areas of our work. For example, if you sign up for our <a href="http://30x30.davidsuzuki.org/">30×30 Nature Challenge</a>, we may email you about opportunities to support our work with a donation. Or, if you make a donation and provide us with your mailing address, we may also send a paper newsletter to your home in order to keep you up-to-date with work you’ve helped make happen.</p>
+<p>We respect your right to control your personal information — please contact us immediately if you want us to stop using it in any particular way. We will fulfill your request in the timeliest way possible.</p>
+<p>Please note: In order to adhere to Canada Customs and Revenue Agency rules, we are required to maintain donation records and are not allowed to remove this information from our internal records, even at your request.</p>
+<p>Please also note: We may be unable to provide you with certain information or services if you do not give us specific personal information. For example, we cannot issue you a charitable tax receipt if you don’t provide your address, or send you an e-newsletter if you don’t share your email address.</p>
+<h4>Updating your consent</h4>
+<p>If you would like to <strong>stop receiving email</strong> from us at any time, click the unsubscribe link at the bottom of any of our emails or you can email <a href="mailto:subscribers@davidsuzuki.org?subject=unsubscribe">subscribers@davidsuzuki.org</a> and type “unsubscribe” in the subject line.</p>
+<p>If you would like to <strong>stop receiving mail solicitations or our paper newsletter</strong>from us, please email <a href="mailto:communitygiving@davidsuzuki.org">communitygiving@davidsuzuki.org</a>. You can also reach us by phone at 1-800-453-1533 ext 1500.</p>
+<p>Upon reasonable request and notice, you may view and have corrections made to the personal information we hold about you, subject to any legal or contractual restrictions. If you are aware of any inaccuracies in the personal information we hold about you or to remove all of your information from our databases, please contact our Privacy officer at <a href="mailto:privacy@davidsuzuki.org">privacy@davidsuzuki.org</a>.</p>
+<h4>Ways to prevent us from collecting “anonymous” data</h4>
+<p>Our websites use cookies and JavaScript-based tracking scripts to collect the anonymous data referred to above. To stop this from happening, adjust your web browser’s “cookie”, “cache” and JavaScript settings. Please note that doing so may affect the performance of our web properties, and in some cases may completely prevent you from using some of our pages and forms.</p>
+<h3>Information we share</h3>
+<h4>General</h4>
+<p>In order to communicate with you, we sometimes work with external organizations and have them contact you on our behalf. We require them to take measures to properly safeguard your information and only use it for the purpose specified by us, in a manner consistent with this policy.</p>
+<p>For example, we work with a mailing company that sends out our fundraising letters. We give them a list of names and mailing addresses of people we want to contact. They sort the lists, print the letters, stuff the envelopes and drop the mail off at Canada Post, who delivers it to your door. Another example is that we use an email tool to send out our e-newsletters.</p>
+<p>We sometimes send personal information to outside organizations who help us better communicate with you. We only work with organizations that have comprehensive security and confidentiality policies, including written policies that do not allow them to use or share your information with anyone other than the David Suzuki Foundation.</p>
+<h4>Email addresses</h4>
+<p><strong>We do not sell or exchange email addresses with other organizations.</strong></p>
+<p>In some instances, we may promote actions or petitions on our websites in partnership with other non-profit organizations. In these cases, we give you the clear option of whether you want us to share your email with them.</p>
+<h4>Mailing addresses</h4>
+<p>Unless otherwise requested, we sometimes share names and mailing addresses of people who donate less than $100 per year to us with other Canadian non-profits. Sharing information is common among non-profits, as a way to reach new people and receive funds to help continue important work. You may choose to have us withhold your information by contacting <a href="mailto:communitygiving@davidsuzuki.org">communitygiving@davidsuzuki.org</a>.</p>
+<h3>How we keep your information secure</h3>
+<p>We endeavour to maintain appropriate physical, procedural and technical safeguards for your personal information. Some information we collect may be stored and processed on servers located outside your jurisdiction of residence, including outside your country. As a result, this information may be subject to disclosure to governments, courts or law enforcement agencies in those areas, according to their laws, without notice to us or you.</p>
+<h3>Policy updates and changes</h3>
+<p>We may change this policy from time to time without notice. Changes will be reflected on this page.</p>
+<h3>Need more information?</h3>
+<p>For further information, please contact our Privacy Officer by email at <a href="mailto:privacy@davidsuzuki.org">privacy@davidsuzuki.org</a> and by mail to:<br>
+219 — 2211 West 4th Avenue, Vancouver, B.C. V6K 4S2.</p>
+<p>This document is available to the public and explains how we collect, use and disclose information, in accordance with this policy, the <em>Personal Information and Electronic Documents Act</em>, the <em>Personal Information Protection Act</em> and other relevant legislation.</p>
+
+      </div>
+    </div>
+
+  </div>
+
+</section>
+    </main><!--.page-content-->
+
+          
+<aside class="donate-bar bg-primary" scroll-section="">
+
+  <div class="donate-bar__bg mix-multiply opacity-07" style="background-image: url(https://davidsuzuki.org/wp-content/uploads/2017/09/donate-bar-bg-2.jpg)"></div>
+
+  <div class="container">
+
+    <div class="grid grid--flex">
+      <div class="grid__item w-12-12 w-md-6-12 align-center">
+        <div class="donate-bar__content container--sm m-auto-x">
+
+          <div animate-transform-left="">
+            <h2 class="h3 color-white">You can help</h2>
+            <p>Protect the people and places you love. Donate today.</p>
+
+            <p class="mb-0" animate-transform-left="2">
+                
+      <a class="btn btn--ghost-white" href="https://secure.e2rm.com/registrant/DonationPage.aspx?eventid=228533" title="Yes — I want to donate today!" target="_blank">Yes — I want to donate today!</a>
+  
+
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="grid__item w-12-12 w-md-6-12 align-bottom">
+                                          <div class="donate-bar__feature" style="background-image:url(https://davidsuzuki.org/wp-content/uploads/2017/09/donate-bar-feature-2-1.png); max-width: 640px">
+            <div style="padding-bottom: 84.375%"></div>
+          </div>
+              </div>
+    </div>
+
+  </div>
+
+</aside>
+    
+  </div>
+
+  
+<footer class="site-footer">
+
+  <div class="site-footer__bg mix-overlay" style="background-image: url(https://davidsuzuki.org/wp-content/uploads/2017/08/paul-morris-144777_BW.jpg)"></div>
+
+  <div class="container relative">
+
+    <div class="grid grid--rows grid--flex">
+
+      <div class="grid__item w-12-12 w-md-7-12 order-2--md">
+
+        <div class="grid grid--rows grid--flex">
+          <div class="grid__item w-12-12 w-sm-6-12 flex">
+            <a href="https://davidsuzuki.org/science-learning-centre/" target="_self" class="bucket">
+
+                <div class="material-overlay"></div>
+
+
+                                          <span class="bucket__bg" style="background-image: url(https://davidsuzuki.org/wp-content/uploads/2017/09/footer-cta-bg.jpg)"></span>
+              
+              <div class="bucket__body w-12-12">
+                <h3 class="h4-sm text-upper weight-bold color-white">Science and Learning Centre</h3>
+
+                                <span class="btn-text">View more</span>
+                              </div>
+            </a>
+          </div>
+          <div class="grid__item w-12-12 w-sm-6-12 flex">
+            <div class="bucket bucket--compass bg-secondary subscribe-widget">
+  <img class="bucket__compass bucket__compass--bottom" src="https://davidsuzuki.org/wp-content/themes/base-theme/src/images/compass.svg" alt="An illustration of a compass">
+  <div class="bucket__body w-12-12">
+
+          <h4 class="subscribe-widget__title h4-sm text-upper weight-bold color-white">Subscribe</h4>
+    
+    <form action="https://davidsuzuki.org/sign-up/" method="post">
+      <div class="form-combo">
+        <label for="tZSatFYQTt" class="sr-only">Email</label>
+        <input id="tZSatFYQTt" class="form-control-sm" type="email" name="newsletter-subscribe-widget" value="" placeholder="Enter email" required="">
+        <button type="submit" class="icon-chevron-right" aria-label="Submit">Submit</button>
+      </div>
+    </form>
+  </div>
+</div>
+          </div>
+        </div>
+
+      </div>
+
+      <div class="grid__item w-12-12 w-md-5-12">
+        
+          <ul id="site-footer-menu" class="site-footer__menu">
+                          <li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-288">
+
+                <a href="https://store.davidsuzuki.org" target="">
+                  Shop
+                </a>
+
+              </li>
+                          <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-289">
+
+                <a href="https://davidsuzuki.org/contact/" target="">
+                  Contact
+                </a>
+
+              </li>
+                          <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-1055">
+
+                <a href="https://davidsuzuki.org/media-centre/" target="">
+                  Media
+                </a>
+
+              </li>
+                          <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-290">
+
+                <a href="https://davidsuzuki.org/careers/" target="">
+                  Careers
+                </a>
+
+              </li>
+                          <li class=" menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-153 current_page_item menu-item-293">
+
+                <a href="https://davidsuzuki.org/privacy-policy/" target="">
+                  Privacy
+                </a>
+
+              </li>
+                      </ul>
+        
+        <div class="mb-2">
+          <ul class="nav nav--social">
+  <li><a href="https://www.facebook.com/DavidSuzukiFoundation/" class="icon-facebook" data-network="Facebook" target="_blank" aria-label="David Suzuki Foundation's facebook"></a></li><li><a href="https://twitter.com/davidsuzukifdn?lang=en" class="icon-twitter" data-network="Twitter" target="_blank" aria-label="David Suzuki Foundation's twitter"></a></li><li><a href="https://www.youtube.com/user/DavidSuzukiFDN" class="icon-youtube" data-network="Youtube" target="_blank" aria-label="David Suzuki Foundation's youtube"></a></li><li><a href="https://www.instagram.com/davidsuzukifdn/?hl=en" class="icon-instagram" data-network="Instagram" target="_blank" aria-label="David Suzuki Foundation's instagram"></a></li></ul>
+        </div>
+
+                <p class="tiny-text">
+          Canadian charitable number: BN 127756716RR0001<br>
+US charitable number: 94-3204049
+        </p>
+        
+        <p class="site-footer__byline">© 2018 David Suzuki Foundation.
+                Website by           <span class="inline-block align-bottom"><a href="//briteweb.com" target="_blank">Briteweb</a></span>
+        
+        </p>
+
+
+      </div>
+
+    </div>
+
+
+  </div>
+
+</footer>
+
+  		<script type="text/javascript">
+		/* <![CDATA[ */
+		NelioABParams.sync.headlines = "";
+				/* ]]> */
+		</script><script type="text/javascript">
+/* <![CDATA[ */
+var Global = {"api":"https:\/\/davidsuzuki.org\/wp-json\/","api_namespace":"rest\/v1","nonce":"c2701d2a76","language_preference_key":"language_preference","language_redirect_key":"language_redirect","language_redirected_key":"language_redirected","ajax_url":"https:\/\/davidsuzuki.org\/wp-admin\/admin-ajax.php","seen_popups_key":"seen_popups","popup_ajax_action":"load_popup","post_id":"153","newsletterSubscribe":"","sites":[{"blog_id":"1","domain":"davidsuzuki.org","lang":"","is_current":true},{"blog_id":"3","domain":"fr.davidsuzuki.org","lang":"fr_CA","is_current":false}],"algolia_search_index":"prod_en_searchable_posts","algolia_app_id":"C3SJB59TLZ","algolia_api_key":"5dd844e4829d95f30c3f59e466efe52a"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://davidsuzuki.org/wp-content/themes/base-theme/dist/scripts/public.min.js?ver=1521672817"></script>
+<script type="text/javascript" src="https://davidsuzuki.org/wp-includes/js/wp-embed.min.js?ver=4.9.5"></script>
+
+
+
+
 
 </body></html>
