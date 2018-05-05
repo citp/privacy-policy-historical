@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the abercrombie.co.jp privacy policy that was archived on 2017-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171031071349id_/http%3A//www.abercrombie.co.jp/en_JP/content%3Fpage%3Dprivacy%26cid%3Dprivacy-and-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abercrombie.co.jp privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505181138id_/http%3A//www.abercrombie.co.jp/en_JP/content%3Fpage%3Dprivacy%26cid%3Dprivacy-and-terms) for the most accurate reproduction.*
 
 # privacy-and-terms
 
-Updated: June 2017
+Updated: January 2018
 
 In order to make your visits to the various online channels of Abercrombie & Fitch as responsive as possible, we provide this summary of what information we collect online, and how that information is used. 
 
@@ -272,7 +272,7 @@ As we continue to offer our customers new and different types of content and ser
 
 We limit the number of employees that have access to the databases that contain personal information. 
 
-Our Websites are designed to accept orders from web browsers that allow communication through Transport Layer Security (TLS) v1.1 and 1.2. We support Microsoft Internet Explorer 11.0+, Apple OS X 10.9+, Android 4.4+, and Apple iOS 8+. We recommend if you are viewing our websites on Google Chrome or Mozilla Firefox to download the latest version in order to maximize your experience, otherwise you may not be able to access or utilize all pages on our websites as intended.
+Our Websites are designed to accept orders from web browsers that allow communication through Transport Layer Security (TLS) v1.1 and 1.2. We support Microsoft Internet Explorer 11.0+, Apple OS X 10.9+, Android 5.0+, and Apple iOS 9.0+. We recommend if you are viewing our websites on Google Chrome or Mozilla Firefox to download the latest version in order to maximize your experience, otherwise you may not be able to access or utilize all pages on our websites as intended.
 
 While we implement the above security measures on our Websites/Apps, you should be aware that 100% security is not always possible.
 
