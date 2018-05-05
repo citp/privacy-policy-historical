@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovingitvegan.com privacy policy that was archived on 2017-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170429024319id_/http%3A//www.lovingitvegan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovingitvegan.com privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505230227id_/https%3A//lovingitvegan.com/privacy-policy) for the most accurate reproduction.*
 
 # Terms and Conditions and Privacy - Loving It Vegan
 
@@ -57,5 +57,7 @@ This website and its contents are provided “AS IS” without warranty of any k
 Reproduction, distribution, republication, and/or retransmission of material contained within this website are prohibited unless the prior written permission of lovingitvegan.com has been obtained.
 
 Some of the links contained in this website may be affiliate links. This means that I may receive a commission if you click on the link and make a purchase from the affiliate. I only recommend products/services that I know or trust to be of high quality, whether an affiliate relationship is in place or not.
+
+Loving It Vegan is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. This site may contain some of these links to Amazon.com. If you make a purchase through one of those links, Loving It Vegan will receive a small commission from the purchase at no additional cost to you.
 
 Nutritional information is provided on the recipes as a courtesy only and should not be construed as a guarantee. This nutritional information is gathered from online calorie calculators such as cronometer.com and as such should be considered estimates.
