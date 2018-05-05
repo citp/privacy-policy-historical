@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getfoureyes.com privacy policy that was archived on 2017-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170720171032id_/https%3A//getfoureyes.com/p/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getfoureyes.com privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505211501id_/https%3A//getfoureyes.com/p/privacy-statement) for the most accurate reproduction.*
 
 # FourEyes - Brilliant and charming free surveys
 
