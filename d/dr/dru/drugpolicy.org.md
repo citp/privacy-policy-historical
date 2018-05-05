@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drugpolicy.org privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220041929id_/http%3A//www.drugpolicy.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugpolicy.org privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505182518id_/http%3A//www.drugpolicy.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Drug Policy Alliance
 
