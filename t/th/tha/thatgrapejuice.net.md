@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thatgrapejuice.net privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124165647id_/http%3A//thatgrapejuice.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatgrapejuice.net privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505211234id_/http%3A//thatgrapejuice.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - That Grape Juice.net - Thirsty?
+# Privacy Policy - That Grape Juice -
 
 This Privacy Policy applies only to  ** _That Grape Juice_** (however accessed and/or used, whether via personal computers, mobile devices, or otherwise), or other interactive features that are accessible or downloadable through  ** _That Grape Juice_** and that post a link to this Privacy Policy (collectively, the “Web Site”). This Privacy Policy only covers information collected at the Web Site, and does not cover any information collected at any other web site or offline by **_That Grape Juice_** (unless specifically stated). The purpose of this Privacy Policy is to disclose to you what information we may collect on the Web Site, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you may have regarding our collection, use, and disclosure of such information.
 
