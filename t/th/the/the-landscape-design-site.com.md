@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-landscape-design-site.com privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104030027id_/http%3A//www.the-landscape-design-site.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-landscape-design-site.com privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505113058id_/http%3A//www.the-landscape-design-site.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement for the-landscape-design-site.com
 
