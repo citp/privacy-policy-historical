@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leidos.com privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505185401id_/https%3A//www.leidos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leidos.com privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505084701id_/https%3A//www.leidos.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Leidos
 
