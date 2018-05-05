@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lycoschat.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118135134id_/http%3A//chat.lycos.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lycoschat.com privacy policy that was archived on 2018-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180506002239id_/https%3A//uk.lycoschat.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
