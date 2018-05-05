@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lineage2.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230103710id_/http%3A//us.ncsoft.com/en/legal/lineage-2/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lineage2.com privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505185343id_/http%3A//us.ncsoft.com/en/legal/lineage-2/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
