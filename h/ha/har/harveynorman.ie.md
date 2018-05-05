@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the harveynorman.ie privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502155053id_/http%3A//www.harveynorman.ie/corporate-information/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harveynorman.ie privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505090230id_/http%3A//www.harveynorman.ie/corporate-information/privacy-policy.html) for the most accurate reproduction.*
 
 # Cookies and Privacy Policy | Ireland
 
-This Cookies and Privacy Statement explains how we manage your personal information that we collect about you. Please read this Cookies and Privacy Statement before using our website www.harveynorman.ie (our "website") or submitting any personal information. By using our website, you are accepting the practices described in this Cookies and Privacy Statement.
+This Cookies and Privacy Policy explains how we manage your personal information that we collect about you. Please read this Cookies and Privacy Policy before using our website www.harveynorman.ie (our "website") or submitting any personal information. By using our website, you are accepting the practices described in this Cookies and Privacy Policy.
 
-### About Our Cookies and Privacy Statement
+### About Our Cookies and Privacy Policy
 
 [back to top  ↑](http://www.harveynorman.ie/#back-to-top)
 
-This Cookies and Privacy Statement applies to Harvey Norman Trading (Ireland) Limited (“us”, “our”, “we”, “Harvey Norman”). We are a limited liability company registered in Ireland under company number 362610 and have our registered office at Brent House, Swords Business Park, Swords, Co. Dublin.
+This Cookies and Privacy Policy applies to Harvey Norman Trading (Ireland) Limited (“us”, “our”, “we”, “Harvey Norman”). We are a limited liability company registered in Ireland under company number 362610 and have our registered office at Brent House, Swords Business Park, Swords, Co. Dublin.
 
 As a data controller, we respect your privacy and are committed to handling your personal information in accordance with the Data Protection Acts 1988 and 2003 (the “Acts”) and all other applicable legislation and regulations.
 
-This Cookies and Privacy Statement explains how we manage your personal information that we collect about you. Please read this Cookies and Privacy Statement before using our website www.harveynorman.ie (our "website") or submitting any personal information. By using our website, you are accepting the practices described in this Cookies and Privacy Statement.
+This Cookies and Privacy Policy explains how we manage your personal information that we collect about you. Please read this Cookies and Privacy Policy before using our website www.harveynorman.ie (our "website") or submitting any personal information. By using our website, you are accepting the practices described in this Cookies and Privacy Policy.
 
-You are encouraged to review our Cookies and Privacy Statement whenever you visit our website to make sure that you understand how any personal information you provide will be used.
+You are encouraged to review our Cookies and Privacy Policy whenever you visit our website to make sure that you understand how any personal information you provide will be used.
 
 ### Collection of Your Personal Information
 
@@ -86,9 +86,9 @@ You acknowledge and consent that by providing your personal information to us th
 
 Our third party service providers are organisations that include those that may assist us with research, mail and delivery, security, professional advisory, banking, payment processing or technology services. Where we engage third party service providers to perform services for us those third parties may be required to handle your personal information. Under these circumstances those third parties must safeguard this information and must only use it for the purposes for which it was supplied, although we are not responsible for ensuring this.
 
-Other than the above, we will not disclose your personal information without your consent unless disclosure is either necessary to prevent a threat to life or health, authorised or required by law, reasonably necessary to enforce the law or necessary to investigate a suspected unlawful activity or any breach of any of the [Website Terms of Use](http://www.harveynorman.ie/customer-services/website-terms-of-use.html) of our website or our [Online Sale Terms](http://www.harveynorman.ie/corporate-information/online-sale-terms.html).
+Other than the above, we will not disclose your personal information without your consent unless disclosure is either necessary to prevent a threat to life or health, authorised or required by law, reasonably necessary to enforce the law or necessary to investigate a suspected unlawful activity or any breach of any of the [Website Terms of Use](http://www.harveynorman.ie/corporate-information/website-terms-of-use.html) of our website or our [Online Sale Terms](http://www.harveynorman.ie/corporate-information/online-sale-terms.html).
 
-Any permitted handling of personal information under any exemptions under the Acts will take priority over this Cookies and Privacy Statement to the extent of any inconsistency.
+Any permitted handling of personal information under any exemptions under the Acts will take priority over this Cookies and Privacy Policy to the extent of any inconsistency.
 
 ### Providing Personal Information About Another Person
 
@@ -128,13 +128,13 @@ While care is taken to protect your personal information received from you via o
 
 [back to top  ↑](http://www.harveynorman.ie/#back-to-top)
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"), and in particular to our hosting company, Generic Publications Pty Limited, which is located in Australia. It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Cookies and Privacy Statement.
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"), and in particular to our hosting company, Generic Publications Pty Limited, which is located in Australia. It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Cookies and Privacy Policy.
 
 ### Changes to Our Policy
 
 [back to top  ↑](http://www.harveynorman.ie/#back-to-top)
 
-From time to time it may be necessary for us to review and revise this Cookies and Privacy Statement. We reserve the right to change our Cookies and Privacy Statement at any time. Amendments or replacements of the Cookies and Privacy Statement will be posted on our website. Your use of our website will constitute your acceptance of any revisions, amendments or replacements to the Cookies and Privacy Statement.
+From time to time it may be necessary for us to review and revise this Cookies and Privacy Policy. We reserve the right to change our Cookies and Privacy Policy at any time. Amendments or replacements of the Cookies and Privacy Policy will be posted on our website. Your use of our website will constitute your acceptance of any revisions, amendments or replacements to the Cookies and Privacy Policy.
 
 ### Direct Marketing
 
