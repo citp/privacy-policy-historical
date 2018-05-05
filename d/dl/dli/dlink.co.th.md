@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dlink.co.th privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102143440id_/http%3A//www.dlink.co.th/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dlink.co.th privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505192618id_/http%3A//www.dlink.co.th/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - D-Link Thailand
 
