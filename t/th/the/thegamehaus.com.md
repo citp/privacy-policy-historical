@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thegamehaus.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231130503id_/http%3A//thegamehaus.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegamehaus.com privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505174020id_/http%3A//thegamehaus.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Game Haus
+# Privacy Policy • The Game Haus
 
 ## Introduction
 
