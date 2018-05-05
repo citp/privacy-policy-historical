@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ofunnygames.com privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104091509id_/http%3A//www.ofunnygames.com/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ofunnygames.com privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505102919id_/http%3A//www.ofunnygames.com/about/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Online
 
