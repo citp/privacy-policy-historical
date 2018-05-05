@@ -1,46 +1,83 @@
-> *The following text is extracted and transformed from the factoryauthorizedoutlet.com privacy policy that was archived on 2017-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170122175515id_/http%3A//www.factoryauthorizedoutlet.com/security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factoryauthorizedoutlet.com privacy policy that was archived on 2018-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180506000753id_/http%3A//www.factoryauthorizedoutlet.com/privacy-policy) for the most accurate reproduction.*
 
-# FAO - Security & Privacy
+# FAO - Privacy Policy
 
-**Security:**  
-Factory Authorized Outlet uses VeriSign® Server-Gated Cryptography (SGC), the most powerful SSL encryption commercially available today. SGC-enabled SSL Certificates insure 128 or 256-bit encryption to prevent third parties from reading any information you enter during our online Checkout process.
+This website ("website") is operated by Factory Authorized Outlet. This privacy policy only covers information collected at this website, and does not cover any information collected offline by Factory Authorized Outlet. 
 
-VeriSign is the SSL Certificate provider of choice for over 93% of the Fortune 500 and the world's 40 largest banks.
+### Factory Authorized Outlet Security
 
-Keep in mind that not all browsers, and some firewalls (often used in office settings), allow transmittal of information through SSL technology. If you are experiencing difficulties submitting your order through our online Checkout process, please do not hesitate to call us toll-free in the U.S. at 1-800-629-3325 or 1-909-568-2800 (International) to place your order.
+Personal information provided on the website and online credit card transactions are transmitted through a secure server. We are committed to handling your personal information with high standards of information security. We take appropriate physical, electronic, and administrative steps to maintain the security and accuracy of personally identifiable information we collect. 
 
-For your protection we do not store credit card numbers in our database. Once the transaction is complete, we have no way of accessing your credit card number. Additionally, if you are shipping an order to an address other than your billing address, your order may be delayed for verification. 
+Our website uses encryption technology, like Secure Sockets Layer (SSL), to protect your personal information during data transport. SSL encrypts ordering information such as your name, address, and credit card number. Our Customer Care center and stores also operate over a private, secure network. 
 
-**Privacy Policy:**  
-We respect the privacy of our customers and do not sell your personal information to anyone. This privacy statement discloses our information-gathering and dissemination practices. If you have any questions or concerns, we invite you to contact us directly for more information regarding our commitment to your privacy. **What Information We Collect and Why:**  
-We may use our customers' Internet Protocol (IP) addresses to help diagnose problems with our own technology and to administer the Factory Authorized Outlet website. The IP addresses we collect do not link to or reveal any personally identifiable information of our customers. In addition, like virtually all e-commerce sites, we use cookies to keep track of any products in your shopping cart to ensure a successful online ordering process. 
+###  Privacy Policy
 
-Factory Authorized Outlet also uses aggregate demographic and site-traffic data internally, and we may provide this aggregate information about our customers, sales, traffic patterns, and related site information to trusted third-parties, but this information does not disclose our users' personally identifiable information. 
+To help us achieve our goal of providing the highest quality products and services, we use information from our interactions with you and other customers, as well as from other parties. Because we respect your privacy, we have implemented procedures to ensure that your personal information is handled in a safe, secure, and responsible manner. 
 
-Our online Checkout process asks you to give us certain contact information (like your name, address, and email address). We use this information to speed up the order process and to contact you when you request or when it's absolutely necessary (for example, if there's a problem fulfilling your order). When you choose to order from us, we must also collect billing and shipping information, including credit card numbers. This information is required to charge you for your purchases, to process and ship your order, and to contact you if there's any problem with your order. In order to process payment information and fulfill our customers' orders, some billing and shipping information is provided to trusted third-parties such as credit card processing institutions and carriers like Fedex. They do not use this information for secondary purposes.
+### The Information We Collect
 
-Factory Authorized Outlet may occasionally use registration or order information to contact you about our promotions, special events, or to send you a catalog. In addition, at times Factory Authorized Outlet may send offers to you. If you are not interested in receiving communications about or from Factory Authorized Outlet you may opt-out at any time from receiving such future communications (see below). 
+Generally, you may browse the Factory Authorized Outlet website without providing any personally identifiable information. However, we may ask you to provide personally identifiable information at various times and places on this website. In some cases, if you choose not to provide us with the requested information, you may not be able to access all parts of this website or participate in all of its features, pricing, and product selection.
 
-**Opting Out:**  
-If you are no longer interested in receiving communications from Factory Authorized Outlet, you have several options for terminating any future contact. To stop receiving communications from us, you can use any of the following methods.
+We may collect the following information:
 
-1\. 
+  * name
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
-**You can email us at:** [_Customer_Service@FactoryAuthorizedOutlet.com_](mailto:customer_service@factoryauthorizedoutlet.com)
 
-2\. 
 
-**You can mail us at:**  
-       Factory Authorized Outlet  
-       Attn: Opting Out  
-       5798 Ontario Mills Parkway  
-       Ontario, CA 91764
+### How We Use The Information We Collect
 
-3\. 
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-**You can call us:** 1-800-629-3325 (U.S. toll-free), 1.909-568-2800 (International)
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests.
 
-4\. 
 
-**You can fax us at:** 1.800-629-2329  
 
+### Security
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+### Others With Whom We Share Your Information.
+
+**Service Providers:** We also may disclose information to outside companies that help us bring you the products and services we offer. For example, we may work with an outside company to: (a) manage a database of customer information; (b) assist us in distributing emails; (c) assist us with direct marketing and data collection; (d) provide us storage and analysis; (d) provide fraud prevention; and (e) provide other services designed to assist us in maximizing our business potential. We require that these outside companies agree to keep confidential all information we share with them and to use the information only to perform their obligations in our agreements with them.
+
+**Compliance with Law:** We may provide access to information when legally required to do so, to cooperate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of our website, to limit our legal liability, and to protect our rights or to protect the rights, property, or safety of visitors of this website or the public.
+
+### Your Choices Regarding Use Of The Information We Collect
+
+You have several choices regarding our handling of your nonpublic personally identifiable information.
+
+**Email or Telephone Marketing:** If you shop at the Factory Authorized Outlet store and wish to be removed from the list of customers that receive email, please either write to Factory Authorized Outlet Customer Care at 5798 Ontario Mills Parkway Ontario, CA 91764 or call +1-800-629-3325 or email us.
+
+Because customer lists often are prepared well in advance of an offering (sometimes a few months before the offer is made), you may continue to receive some offers after you send us a request not to use your information for specified marketing purposes. We appreciate your patience and understanding in giving us time to carry out your request.
+
+### Your California Privacy Rights
+
+Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: Factory Authorized Outlet Customer Care, 5798 Ontario Mills Parkway Ontario, CA 91764. Please allow 30 days for a response.
+
+### Cookies and How We Use Them
+
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+
+We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+### Online Account Registration
+
+To make online shopping faster and easier, you may register on the Factory Authorized Outlet website. As a registered customer, you only have to enter your shipping addresses and billing information once; they will be securely stored with us for your future use. Using your name and a password of your choice, you may access your account online at any time to add, delete, or change information. If you are using a public computer, we strongly encourage you to Sign Out when you finish shopping. Your information will still be stored with us but it will not be accessible to anyone else from that computer.
+
+### Emails
+
+You will receive promotional emails from us only if you have asked to receive them. If you do not want to receive email from Factory Authorized Outlet or its affiliates you can click on the "Unsubscribe" link at the bottom of any email communication sent by us. Please allow us 3 business days from when the request was received to complete the removal, as some of our promotions may already have been in process before you submitted your request.
+
+### Acceptance
+
+By using this website, you accept the policies set forth in this Privacy Policy.
+
+### Questions for Factory Authorized Outlet?
