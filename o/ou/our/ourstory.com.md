@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourstory.com privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103220743id_/http%3A//www.ourstory.com/doc/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourstory.com privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505102447id_/http%3A//www.ourstory.com/doc/policies.html) for the most accurate reproduction.*
 
 # OurStory.com - Capture your stories, save them permanently.
 
@@ -99,7 +99,7 @@ Lifescape may amend this Privacy Statement at any time, at our sole discretion. 
 
 ### Invite a Friend
 
-If a user elects to invite a friend to use the Site, we ask them for the friend's email address. Lifescape will automatically send the friend an email inviting them to join the Site. Lifescape stores this email address for the purpose of automatically adding the recipient to the "friends list" of the user sending the invitation. Lifescape does not sell these email addresses or use them to send any other communication besides these one time invitations. The friend may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#760503060619040236190304050219040f5815191b) to request the removal of this information from our database
+If a user elects to invite a friend to use the Site, we ask them for the friend's email address. Lifescape will automatically send the friend an email inviting them to join the Site. Lifescape stores this email address for the purpose of automatically adding the recipient to the "friends list" of the user sending the invitation. Lifescape does not sell these email addresses or use them to send any other communication besides these one time invitations. The friend may contact us at [support@ourstory.com](mailto:support@ourstory.com) to request the removal of this information from our database
 
   
 
@@ -139,6 +139,6 @@ If you have any questions about this Privacy Statement, the practices of the Sit
 **Lifescape, LLC.**  
 3214 N. University Ave #430  
 Provo, UT 84604  
-Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#22515752524d5056624d575051564d505b0c414d4f)
+Email: [support@ourstory.com](mailto:support@ourstory.com)
 
 Your privacy is important to us and we will make every effort to resolve your concerns.
