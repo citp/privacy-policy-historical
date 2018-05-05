@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twomonkeystravelgroup.com privacy policy that was archived on 2017-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171012105538id_/https%3A//twomonkeystravelgroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twomonkeystravelgroup.com privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505234651id_/https%3A//twomonkeystravelgroup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Two Monkeys Travel Group
 
@@ -91,6 +91,6 @@ Through the use of this website, you are hereby accepting the terms and conditio
 
 If you have any questions or concerns regarding the Privacy Policy Agreement related to our website, please feel free to contact us at the following email, telephone number or mailing address.
 
-**Email:** [kach.twomonkeystravel@gmail.com](mailto:kach.twomonkeystravel@gmail.com)
+**Email:**  theteam@twomonkeystravel.com
 
 **Updated:  June 25, 2016**
