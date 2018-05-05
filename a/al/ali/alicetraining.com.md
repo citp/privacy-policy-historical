@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alicetraining.com privacy policy that was archived on 2017-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170805104542id_/https%3A//www.alicetraining.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alicetraining.com privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505083903id_/https%3A//www.alicetraining.com/home/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ALICE Training Institute
 
