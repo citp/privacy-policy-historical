@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumerelectronicsnet.com privacy policy that was archived on 2017-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171016182457id_/http%3A//consumerelectronicsnet.com/articles/viewarticle.jsp%3Fid%3D4034023) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerelectronicsnet.com privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505095912id_/http%3A//www.consumerelectronicsnet.com/articles/viewarticle.jsp%3Fid%3D4034023) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -51,8 +51,5 @@ Our website may contain links to enable you to visit other websites of interest 
 ** DMO maintains several email lists to keep DMO members, the press, and interested members of the general public informed about breaking events. Individuals must affirmatively request to join our mailing lists by signing up through a form on our web site, by requesting this information via email, by signing up for this information at industry tradeshows, or by entering one of our contests. In addition, we configure our list server software to refuse to divulge the email addresses of our list subscribers to anyone but authorized DMO staff, including other list subscribers. **Vendor Sponsored Promotions:  
 ** In some promotions where prizes are given, we do gather information on individuals entering the contests via entry forms or email. In some cases that information will be shared with the sponsoring vendor. In these instances the contest will clearly state this fact.
 
-**Related Keywords:** small office, 
+  
 
-* * *
-
-Source:Digital Media Online. All Rights Reserved 
