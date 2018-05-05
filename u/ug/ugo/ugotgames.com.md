@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ugotgames.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628220455id_/http%3A//www.ugotgames.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ugotgames.com privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505131141id_/http%3A//www.ugotgames.com/privacy.php) for the most accurate reproduction.*
 
 # UGotGames.com - Free Flash Games & Free Java Games
 
@@ -7,5 +7,5 @@ We use third-party advertising companies to serve ads when you visit our webpage
   
   
 |    
-[](http://www.racinggames.com/earn-to-die/)   
+[](http://www.testdrivegames.com/3/earn-to-die-2/)   
 
