@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legalcheek.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007034209id_/https%3A//www.legalcheek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legalcheek.com privacy policy that was archived on 2018-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180506155041id_/https%3A//www.legalcheek.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Legal Cheek
 
@@ -16,23 +16,29 @@ We will use this information:
 
 To provide you with information about other services we offer that are similar to those that you have already enquired about;
 
-• To notify you about changes to our service; and  
-• To ensure that content from our site is presented in the most effective manner for you and for your computer.
+  * To notify you about changes to our service; and
+  * To ensure that content from our site is presented in the most effective manner for you and for your computer.
+
+
 
 ## Information we collect
 
 We may collect the following information:
 
-• Name;  
-• Contact information, including email address;  
-• Other information you choose to input in your profile or other parts of the site.
+  * Name;
+  * Contact information, including email address;
+  * Other information you choose to input in your profile or other parts of the site.
+
+
 
 ## Using your information
 
 We require this information to constantly improve the service we provide. In particular, for the following reasons:
 
-• We may use the information to improve our products and services;  
-• To pass this information on to recruiters who advertise on Legal Cheek.
+  * We may use the information to improve our products and services;
+  * To pass this information on to recruiters who advertise on Legal Cheek.
+
+
 
 ## Your consent
 
@@ -53,3 +59,7 @@ We are committed to ensuring that your information is secure. In order to preven
 If any of the information that you have provided to Legal Cheek changes (for example if you change your e-mail address) then please log into the website and update your profile.
 
 If you would like to contact us with any question, query or comment about this policy, please send an email to [info@legalcheek.com](mailto:info@legalcheek.com)
+
+## Editorial Ethical Standards Policy
+
+Details of our Editorial Ethical Standards Policy can be found [here](https://www.legalcheek.com/editorial-ethical-standards-policy/).
