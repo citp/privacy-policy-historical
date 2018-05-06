@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neuvoo.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629115647id_/http%3A//neuvoo.com/legal/%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neuvoo.com privacy policy that was archived on 2018-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180506233600id_/https%3A//neuvoo.com/legal/%3Flang%3Den) for the most accurate reproduction.*
 
 # neuvoo. Your job search starts here.
 
@@ -14,11 +14,11 @@ NEUVOO provides its search platform for personal (non-commercial) job seekers. I
 
 ##  3\. Liability 
 
-NEUVOO is not liable for any kind of physical, financial or psychological damage caused by the use of our search service. If you find content on NEUVOO’s website that could be potentially harmful, email us at contact@neuvoo.com with a short description of the problem. Our team will investigate and take action to fix the problem swiftly. 
+NEUVOO is not liable for any kind of physical, financial or psychological damage caused by the use of our search service. If you find content on NEUVOO’s website that could be potentially harmful, please [contact us](https://web.archive.org/contact/?lang=en). Our team will investigate and take action to fix the problem swiftly. 
 
 ##  4\. Guarantee 
 
-NEUVOO's team is working hard to maintain a high quality of indexed jobs. Because we index a lot of content, we cannot guarantee the validity and genuineness of all the jobs we index. If you find any jobs that look "spammy", "fishy" or "expired", email us at "contact@neuvoo.com" with a short description of the problem. Our team will investigate and take action to fix the problem swiftly. 
+NEUVOO's team is working hard to maintain a high quality of indexed jobs. Because we index a lot of content, we cannot guarantee the validity and genuineness of all the jobs we index. If you find any jobs that look "spammy", "fishy" or "expired", please [contact us](https://web.archive.org/contact/?lang=en). Our team will investigate and take action to fix the problem swiftly. 
 
 ##  5\. Indexing of NEUVOO 
 
@@ -44,11 +44,11 @@ Cookies are temporary and anonymous, and can be deleted from your browser at any
 
 ##  2\. Personal information 
 
-NEUVOO collects anonymous events for analyticcal purposes. We also collect your email address after a "search" (keyword and location) when you register to "email alerts". We store this in a database to send you daily email alerts based on your job search preferences. At any moment, you can disable or modify the email alerts by clicking on the link provided in the emails. If you want to remove all traces of your email alert registration on our server, please send a request to "contact@neuvoo.com". 
+NEUVOO collects anonymous events for analyticcal purposes. We also collect your email address after a "search" (keyword and location) when you register to "email alerts". We store this in a database to send you daily email alerts based on your job search preferences. At any moment, you can disable or modify the email alerts by clicking on the link provided in the emails. If you want to remove all traces of your email alert registration on our server, please [contact us](https://web.archive.org/contact/?lang=en). 
 
 ##  3\. Data 
 
-We do not resell or trade user emails with any other party. Your data stays with us. NEUVOO stores its data on Canadian servers (CANADA, QC, Montreal). If you have a specific question about how we handle specific data, send us an email at "contact@neuvoo.com". 
+We do not resell or trade user emails with any other party. Your data stays with us. NEUVOO stores its data on Canadian servers (CANADA, QC, Montreal). If you have a specific question about how we handle specific data, please [contact us](https://web.archive.org/contact/?lang=en). 
 
 Here’s what you need to know about our security measures:
 
@@ -58,7 +58,7 @@ We continuously test our system for potential breaches. We have dedicated resour
 
 ##  2\. Links 
 
-As a search engine, most clicks will forward users to the source website. We do our best to remove sources containing malware, excessive advertising, phishing strategies, or any other method potentially harming our users or degrading their job search experience. If you run into a link that contains any of these qualities, please send an email to "contact@neuvoo.com". We will investigate and take action swiftly. 
+As a search engine, most clicks will forward users to the source website. We do our best to remove sources containing malware, excessive advertising, phishing strategies, or any other method potentially harming our users or degrading their job search experience. If you run into a link that contains any of these qualities, please [contact us](https://web.archive.org/contact/?lang=en). We will investigate and take action swiftly. 
 
 Our policies are in place to help ensure a positive experience for all parties involved in our Publisher and API programs. All publishers are required to adhere to the following terms. If you, as a publisher, fail to comply with any of these terms without permission from NEUVOO, we reserve the right to suspend and close your account and cancel any scheduled payments immediately without further notice or official notification. Once your account is disabled, you may not be eligible for further participation in our publisher program.
 
