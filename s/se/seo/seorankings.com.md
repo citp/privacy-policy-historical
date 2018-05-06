@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seorankings.com privacy policy that was archived on 2017-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170717035337id_/http%3A//seorankings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seorankings.com privacy policy that was archived on 2018-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180506062535id_/http%3A//seorankings.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - SEO Rankings
+# Privacy Policy | SEO Rankings
 
 Easy Internet Services Ltd is committed to respecting privacy of customers and users of the our websites. We have developed this policy because we want you to feel confident about the privacy and security of your personal information.
 
