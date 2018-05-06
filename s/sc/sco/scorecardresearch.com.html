@@ -1,0 +1,407 @@
+<!--The following is the downloaded HTML source of the scorecardresearch.com privacy policy that was archived on 2018-05-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180506202108id_/https%3A//www.scorecardresearch.com/privacy.aspx%3Fnewlanguage%3D1) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head id="Head1"><title>
+	Privacy Page - Scorecard Research
+</title><meta name="robots" content="index,follow"><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta name="Author" content="scorecardresearch.com"><meta name="Description" content="Online market research community enabling members to earn cash and prizes for participating in surveys."><meta name="Keywords" content="surveys, sweepstakes, earn cash, opinions, earn prizes, paid surveys, free sweepstakes, market research community, research panel"><meta content="C#" name="CODE_LANGUAGE"><meta content="JavaScript" name="vs_defaultClientScript"><link href="Css/SR_Styles.css" type="text/css" rel="stylesheet">
+    <script type="text/javascript" src="Css/sitecommon.js"></script>
+
+    <script type="text/javascript">
+        function init()
+        { }
+
+        function setId() {
+            var bodytag = document.getElementsByTagName("body")[0];
+            var pagename_ext = location.pathname.substring(location.pathname.lastIndexOf("/") + 1);
+            var pagename = pagename_ext.split('.')[0].toLowerCase();
+            //alert(pagename);
+            if (pagename == "home")
+                bodytag.setAttribute("id", "home");
+            else if (pagename == "about")
+                bodytag.setAttribute("id", "about");
+            else if (pagename == "preferences")
+                bodytag.setAttribute("id", "preferences");
+            else if (pagename == "supportform")
+                bodytag.setAttribute("id", "support");
+            else if (pagename == "privacy")
+                bodytag.setAttribute("id", "privacy");
+            else if (pagename == "principle")
+                bodytag.setAttribute("id", "Principles");
+            else if (pagename == "termsofservice")
+                bodytag.setAttribute("id", "TermsOfService");
+        }
+        function changecolor(obj) {
+            obj.style.backgroundColor = "#868575";
+        }
+
+        //$(document).ready(function () {
+        //    $(".link-white").click(function (event) {
+        //        event.target.style.backgroundColor = "#868575";
+        //    });
+        //});
+    </script>
+    
+<script>
+    function slideDown(element, duration, height, finalTop, callback) {
+        var s = element.style;
+        s.top = '-' + height + 'px';
+
+        var y = height * -1;
+        var framerate = 10;
+        var one_second = 1000;
+        var interval = one_second * duration / framerate;
+        var totalframes = one_second * duration / interval;
+        var heightincrement = height / totalframes;
+        
+        var tween = function () {
+            y += heightincrement;
+            s.top = y + 'px';
+            if (y < finalTop) {
+                setTimeout(tween, interval);
+            }
+        }
+        tween();
+    }
+
+    function slideUp(element, duration, height, finalTop, callback) {
+        var s = element.style;
+        s.top = '0px';
+
+        var y = 0;
+        var framerate = 10;
+        var one_second = 1000;
+        var interval = one_second * duration / framerate;
+        var totalframes = one_second * duration / interval;
+        var heightincrement = (height / totalframes) * -1;
+
+        var tween = function () {
+            y += heightincrement;
+            s.top = y + 'px';
+            if (y < finalTop) {
+                setTimeout(tween, interval);
+            }
+        }
+        tween();
+    }
+
+    function closePop() {
+        // HIDE THE INFOR BANNER AND UPDATE COOKIE VALUE TO 99 TO NOT SHOW ON NEXT EVENT
+        slideUp(document.getElementById('info_banner'), 1, 120, 0);
+        createCookie(100);
+
+    }
+
+    function loadPopCheck() {
+        
+    }
+    function createCookie(value) {
+        var date = new Date();
+        date.setTime(date.getTime() + (24 * 60 * 60 * 1000));
+        var expires = "; expires=" + date.toGMTString();
+        document.cookie = "cookie_consent_js=" + value + expires + "; path=/";
+    }
+
+    function showed_count() {
+        var nameEQ = "cookie_consent_js=";
+        var ca = document.cookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+        }
+        return null;
+    }
+</script>
+
+
+<meta name="viewport" content="width=device-width">
+
+  <script type="text/javascript" src="https://code.jquery.com/jquery-1.9.1.js"></script>
+  <script src="https://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+  <link rel="stylesheet" href="https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css">
+
+  <script type="text/javascript">
+
+      $(function () {
+          if ('False' == 'True') {
+              $("#dialog").dialog({
+      autoOpen: false,
+
+      show: {
+        effect: "blind",
+        duration: 500   
+      },
+
+      hide: {
+        effect: "blind",
+        duration: 500
+      },
+
+    }); 
+
+              $("#dialog").dialog("option", "width", "80%");
+              $("#dialog").dialog("option", "height", "auto");
+              $("#dialog").dialog("option", "position", "top");
+              $("#dialog").dialog("open");
+          }
+  });
+</script>
+
+</head>
+<body class="Normal" lang="EN-US" leftmargin="0" topmargin="0" onload="setId();" marginheight="0" marginwidth="0" id="privacy">
+    <div class="container">
+        <form method="post" action="./privacy.aspx?newlanguage=1" id="Form1">
+<div class="aspNetHidden">
+
+</div>
+
+            <noscript>
+                        <img src="https://sb.scorecardresearch.com/b?c1=2&amp;c2=1000001&amp;c3=&amp;c4=&amp;c5=Market Research&amp;c6=&amp;c15=&amp;cv=1.3&amp;cj=1"
+style="display:none" width="0" height="0" alt="" />
+                    </noscript><table cellspacing="0" cellpadding="0" width="100%" border="0">
+                <tbody>
+                    <tr>
+                        <td colspan="3">
+                            <div class="header">
+                                <table width="100%" valign="top" cellpadding="0" cellspacing="0">
+                                    <tbody>
+                                        <tr>
+                                            <td align="left" width="300px" style="padding-left: 148px; padding-right: 20px;"><a href="https://web.archive.org/web/20180506202108id_/https%3A//www.scorecardresearch.com/default.aspx?newlanguage=1">
+                                                <img src="Images/ScorecardResearch_01_Small.jpg"></a></td>
+                                            <td align="left" width="900px" style="font-size: 11px">
+                                                <div id="LanguageDiv">
+                                                        <a href="javascript:ProcessHomePage(1)" id="Tag1" class="link-white" style="background-color:#868575;">English</a> | 
+                                                        <a href="javascript:ProcessHomePage(13)" id="Tag13" class="link-white">Français canadien</a> | 
+                                                        <a href="javascript:ProcessHomePage(14)" id="Tag14" class="link-white">Español</a> | 
+                                                        <a href="javascript:ProcessHomePage(25)" id="Tag25" class="link-white">Polski</a> | 
+                                                        <a href="javascript:ProcessHomePage(17)" id="Tag17" class="link-white">Dansk</a> | 
+                                                        <a href="javascript:ProcessHomePage(18)" id="Tag18" class="link-white">Nederlands</a> | 
+                                                        <a href="javascript:ProcessHomePage(23)" id="Tag23" class="link-white">Svenska</a> | 
+                                                        <a href="javascript:ProcessHomePage(5)" id="Tag5" class="link-white">Português do Brasil</a>
+                                                        <br>
+                                                        <br>
+                                                        <a href="javascript:ProcessHomePage(24)" id="Tag24" class="link-white">Русский</a> | 
+                                                        <a href="javascript:ProcessHomePage(12)" id="Tag12" class="link-white">Português</a> | 
+                                                        <a href="javascript:ProcessHomePage(22)" id="Tag22" class="link-white">Norsk</a> | 
+                                                        <a href="javascript:ProcessHomePage(20)" id="Tag20" class="link-white">中文</a> | 
+                                                        <a href="javascript:ProcessHomePage(8)" id="Tag8" class="link-white">한국어</a> | 
+                                                        <a href="javascript:ProcessHomePage(9)" id="Tag9" class="link-white">日本語</a> | 
+                                                        <a href="javascript:ProcessHomePage(7)" id="Tag7" class="link-white">Italiano</a> | 
+                                                        <a href="javascript:ProcessHomePage(3)" id="Tag3" class="link-white">Deutsch</a> | 
+                                                        <a href="javascript:ProcessHomePage(2)" id="Tag2" class="link-white">Français</a> | 
+                                                        <a href="javascript:ProcessHomePage(21)" id="Tag21" class="link-white">Suomi</a> | 
+                                                        <a href="javascript:ProcessHomePage(28)" id="Tag28" class="link-white">český</a>
+                                                    </div>
+                                             </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <div class="header-content">
+                                    <div class="nav">
+                                        <div class="nav-position">
+                                            <div class="nav-align home"><a href="https://web.archive.org/web/20180506202108id_/https%3A//www.scorecardresearch.com/home.aspx?newlanguage=1" id="HomeMenuItem" class="home">Home</a></div>
+                                            <div class="nav-align about"><a href="https://web.archive.org/web/20180506202108id_/https%3A//www.scorecardresearch.com/about.aspx?newlanguage=1" id="AboutMenuItem" class="about">About</a></div>
+                                            <div class="nav-align preferences"><a href="https://web.archive.org/web/20180506202108id_/https%3A//www.scorecardresearch.com/preferences.aspx?newlanguage=1" id="PreferencesMenuItem" class="preferences">Preferences</a></div>
+                                            <div class="nav-align contact"><a href="https://web.archive.org/web/20180506202108id_/https%3A//www.scorecardresearch.com/contact.aspx?newlanguage=1" id="ContactUsMenuItem" class="contact">Contact Us</a></div>
+                                            <div class="nav-align privacy"><a href="https://web.archive.org/web/20180506202108id_/https%3A//www.scorecardresearch.com/privacy.aspx?newlanguage=1" id="PrivacyPolicyMenuItem" class="privacy">Privacy Policy</a></div>
+                                            <div class="nav-align TermsOfService"><a href="https://web.archive.org/web/20180506202108id_/https%3A//www.scorecardresearch.com/TermsOfService.aspx?newlanguage=1" id="TermsOfServiceMenuItem" class="TermsOfService">Terms of Service</a></div>
+                                            <div class="nav-align Principles"><a href="https://web.archive.org/web/20180506202108id_/https%3A//www.scorecardresearch.com/Principle.aspx?newlanguage=1" id="PrinciplesMenuItem" class="Principles">Principles</a></div>
+                                        </div>
+                                    </div>
+                                    <div class="color"></div>
+                                </div>
+
+                            </div>
+                        </td>
+                    </tr>
+                    <tr valign="top">
+                        <td>
+                            <div id="leftContent"></div>
+                        </td>
+                        <td align="center">
+                            <table width="745" cellspacing="0" cellpadding="0" align="center" bgcolor="white">
+                                <tbody>
+                                    <tr>
+                                        <td width="751" height="200" valign="top">
+                                            <div id="body">
+                                                
+  <table cellspacing="0" cellpadding="0" width="100%" border="0">
+        <tbody><tr>
+            <td align="center">
+                <table width="745" cellspacing="0" cellpadding="0" align="center" bgcolor="white">
+                    <tbody><tr>
+                        <td>
+                            <span id="MainContent_LayoutPlusContentLabel"><table width="745" cellspacing="0" cellpadding="0" align="center" bgcolor="white"><tbody><tr><td width="751" height="200" valign="top">
+<table width="80%" valign="top" align="center" cellspacing="0" cellpadding="10" border="0">
+<tbody><tr align="right"><td width="900" valign="top">
+<div>
+	<table width="90%" valign="top" cellspacing="0" cellpadding="0" border="0">
+		<tbody>
+			<tr>
+				<td align="right">
+					<img alt="" style="height: 60px; width: 60px;" src="Images/Advertising%20Option%20Icon.jpg">
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+  </td></tr>
+<tr><td valign="top"><div class="body"><div class="C_TD"></div><br><div class="C_TD"><span class="title-privacy">Privacy Policy</span></div><br>
+<div class="C_TD"><span class="title-largelabel">Effective Date: December 19, 2017</span></div><br><br>
+<div class="C_TD">                <div class="C_TD">  ScorecardResearch, a service of Full Circle Studies, Inc. and part of the comScore, Inc. market research group, (“ScorecardResearch”, “we”, “us”, or “our”) collects digital consumption behavior data, which may include information about your activities on your computer or device, your online activities, your video streaming activities, and other activities, as part of comScore’s broad market research efforts. We use this data to create reports on digital consumption behavior and trends, and to provide research and information products to our clients that inform our clients about consumers’ preferences and interests. comScore is a recognized authority on Internet trends, whose data are routinely cited by major media outlets such as The New York Times, The Wall Street Journal, and CNBC, and extensively used by the largest Internet services companies and scores of Fortune 500 companies. To learn more about comScore, please see <a href="http://www.comscore.com/" target="_blank">www.comscore.com</a>.</div>  
+<br><br>
+<div class="C_TD"> This Privacy Policy describes our information practices with respect to the collection, use, and disclosure of information gathered from visitors to our website, <a href="http://www.scorecardresearch.com/?newlanguage=1" target="_blank">www.scorecardresearch.com</a> (“Website”), and from visitors to the websites and users of the applications that have enrolled in our market research effort. We may also transfer Web browsing and application usage data to third parties for their use in interest-based advertising, as described further below.</div>  <br>              </div><br>
+
+<div class="C_TD"><span class="h2">What information is collected?</span></div><br><div class="C_TD">                <div class="C_TD"> <b>Information Collected from Individuals.</b>  ScorecardResearch may collect personal information such as your name and contact information when you choose to provide it to us through our Website or otherwise. For example, if you contact us through our Website, we may collect your email address along with any personal information that you voluntarily provide to us in your message. </div> <br>
+<div class="C_TD"> We may use cookies or other technologies on our own Website to collect information about your operating system, browser type, website preferences, your use of our Website, and other information that helps us operate our Website.</div>  <br><br>
+<div class="C_TD"> <b>Information Collected from Third Parties.</b>  We may also collect information about your use of websites or applications, and the advertisements that you view on these websites and applications. This information may identify the content that you view on the websites you visit and the applications you use, and the advertisements that are served to you through these websites and applications. This process is further described below. </div> <br> <br>
+<div class="C_TD"> <b>Information Collected Using Tagging, Cookies, and Other Identifiers.</b>  As part of our market research efforts, the operators of participating websites and applications, including applications on gaming devices; over-the-top devices; and applications that enable users to stream video or perform other functions, agree to deploy web tags on their websites, in their applications, or in the advertisements served on their websites or in their applications. Web tags are commonly used by companies to understand the user traffic on their website, and the tags we use are similarly used to collect information about general user traffic patterns to the participating websites and applications. These tags send a message to the ScorecardResearch service that causes a ScorecardResearch cookie to be set or an identifier to be collected. A cookie is a small amount of data that is sent to your browser from a website and stored on your device. This process enables us to identify your device and to collect information about user behavior across non-affiliated websites and applications over time, such as distinguishing between new visitors and repeat visitors to a website or application. We use the combination of tagging, cookies, and identifiers (where relevant) to help the operators of participating websites and applications understand user traffic. In certain instances, advertising networks or advertisers may use ScorecardResearch's services to measure the effectiveness of an advertisement or for interest-based advertising. We may set a tag on your device to facilitate this measurement. Please note that you may be able to view and delete these cookies using the features of your browser; however, deleting cookies will not prevent data collection and may prevent you from being able to use the full functionality of the Website.  Please see below for the choices that we offer with respect to this activity.</div><br>
+<div class="C_TD"> <b>Information Collected By Third Parties.</b> We may use third party service providers to obtain personal information and combine that data with other data that we collect from or about you. This process may involve a third party setting a cookie on your computer or device when you visit a participating website, use a participating application, or view an advertisement on participating websites or in participating applications. It may also involve a third party collecting any identifiers associated with your device, such as a device identifier, or an identifier for advertising (“IDFA”). We may further associate any information obtained from other sources (such as website and application operators, social media platforms, consumer preference reporting companies, and credit reporting agencies) with information collected by third-party cookies on your computer or device, or any other information we have collected from or about you, using confidential matching procedures. The information that we obtain from other sources may include information about your online web browsing activities, your television viewing behavior (such as programs that you watch and record, your usage of your set-top box, your consumption of on-demand programming and over-the-top content, and your usage of interactive television applications), your interests, your usage of applications, and your usage of your device(s).</div><br>              </div><br>
+<div class="C_TD"><span class="h2">How is the collected information used?</span></div><br><div class="C_TD">                <div class="C_TD">We use the information that we collect through web tags and cookies and from third parties to operate and improve our business including to produce reports, research and information products that we share with companies that are our customers. These reports help our clients meet their business goals by providing them with a better understanding of digital consumption behavior, trends and consumer preferences. These reports do not contain personal information, and we may use and disclose such reports at our discretion. We do not use the information that we collect to target advertising or other content to your computer or device. Our partners may use the information that we provide to them to improve their own advertising campaigns.</div><br>
+<div class="C_TD">We may use the information that we collect from you to operate and improve our business, including this Website; to communicate with you; and to provide you with information or services that you have requested. </div><br>
+<div class="C_TD">We may use and disclose any information that is aggregated or de-identified so that it does not identify you personally, at our discretion.</div>              </div><br>
+<div class="C_TD"><span class="h2"></span></div><br><div class="C_TD">                              </div><br>
+<div class="C_TD"><span class="h2">How is the information disclosed?</span></div><br><div class="C_TD">                <div class="C_TD">We may also share any personal information that you provide to us as described below:
+</div><br>
+<div class="CTD"><ul style="margin-left: 30px;">
+<li>With our vendors, consultants, agents, contractors, and other service providers that we use to support our business;</li>
+<li>To provide you with any information or services that you request;</li>
+<li>To respond to subpoenas, court orders, and other legal process, or as otherwise required by law;</li>
+<li>To exercise our legal rights or defend against legal claims, to enforce our contracts, to investigate, respond to and resolve problems or inquiries (including governmental inquiries), or to permit us to pursue available remedies or limit the damages that we may sustain;</li>
+<li>In connection with an actual or potential merger, sale, acquisition, assignment, or transfer of all or part of our assets, affiliates, lines of business, or products, including at bankruptcy;</li>
+<li>With our affiliates, subsidiaries, or parent companies; and</li>
+<li>With your consent.</li>
+</ul></div><br>              </div><br>
+<div class="C_TD"><span class="h2">How to opt out of interest-based advertising and/or market research?</span></div><br><div class="C_TD">                <div class="C_TD">  <i>Interest-Based Advertising Opt-Out</i>    <br>  <br>    
+Through the practices described above, we may collect data about your Web browsing and your usage of applications over time and across digital properties, including information about the possible relationships among different browsers and devices, and provide this data to third parties to improve their ad campaigns and to use for their own interest-based advertising purposes. We adhere to the Digital Advertising Alliance Self-Regulatory Principles in connection with this activity. You may visit <a href="http://www.aboutads.info/choices" target="_blank">www.aboutads.info/choices</a> to learn more about interest-based advertising, to opt out of our collection and transfer of Web browsing data for interest-based advertising purposes, and to opt out of the collection and use of data for this purpose by other companies that participate in industry self-regulation. To opt out of our collection and transfer of application usage data for third parties to use for their own interest-based advertising purposes, you can use any controls that are provided for this purpose by the operating system on your mobile device. Please note that opting out will not stop advertising from appearing in your browser or in the applications you use. It may make the ads you see less relevant to your interests. You may also continue to receive interest-based advertising from other companies. Additionally, please note that if you use a different browser or device, erase cookies from your browser or reset your mobile device’s platform advertising ID, you may need to renew your opt-out choices.
+<br>  <br>   <i>Market Research Opt-Out</i>  <br>  <br>   
+You may control your level of participation in our market research programs and opt-out of participating in such programs by visiting here: <a href="http://www.scorecardresearch.com/preferences.aspx?newlanguage=1" target="_blank">http://www.scorecardresearch.com/preferences.aspx</a>. We will continue to identify that a user visited a website, but we will not associate that event with your browser.  Additionally, if your mobile device platform offers settings to limit data collection for interest-based advertising, you can use these settings to opt out of participating in our market research programs with respect to our data collection from applications on that mobile device.   
+<br>  <br>   <i>Effect of Opting Out</i>  <br>  <br>   
+Please note that the browser opt-out mechanisms linked above are cookie based (i.e., a cookie must be on your computer to tell our systems that you have opted-out). If you delete, block or otherwise restrict cookies, this opt-out may not be effective.  Additionally, because different computers and different Internet browsers require their own version of the opt-out cookie, you may need to perform this opt-out process on any computers and browsers that you want to be opted-out.</div><br>              </div><br>
+
+<div class="C_TD"><span class="h2">Third-party links and services</span></div><br><div class="C_TD">                Our Website may contain links to third-party websites. We do not control these linked websites and this Privacy Policy does not apply to those websites. We encourage you to read the privacy policy of any third-party website that you visit before you provide any information to that website’s owner.<br>              </div><br>
+<div class="C_TD"><span class="h2">Can you review and revise your personal information?</span></div><br><div class="C_TD">                You may review, update, or request changes to any personal information that you have provided to us through our Website by contacting us using the contact information provided below.<br>              </div><br>
+
+<div class="C_TD"><span class="h2">How will you be notified of changes to this Privacy Policy?</span></div><br><div class="C_TD">              <div class="C_TD">  We reserve the right to modify or update this Privacy Policy periodically. If we change our practices with respect to your information, we will notify you by posting a revised Privacy Policy on this Website with a new effective date, and the changes will be effective immediately upon such posting. We encourage you to revisit this Privacy Policy periodically to stay informed about our practices with respect to your information.  </div><br>              </div><br>
+
+<div class="C_TD"><span class="h2">International Visitors and the EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Frameworks</span></div><br>  <div class="C_TD">                <div class="C_TD">  If you visit our Website or participate in our program from locations outside of the United States, please note that any information you provide to us through your use of our Website or your participation in the program may be transferred to and processed in countries other than the country from which you accessed our Website or participated in our program, including the United States where our central database is operated. Subject to the next paragraph below, please be aware that the United States, and other countries in which your data may be maintained, may not offer an equivalent level of protection as provided for in your country.   </div><br>  <div class="C_TD">  comScore, Inc. complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Economic Area and Switzerland to the United States. To learn more, please view our EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Statement <a href="https://www.comscore.com/content/download/39199/2259669/file/Privacy-Shield-Statement-ENGUS.pdf" target="_blank">https://www.comscore.com/content/download/39199/2259669/file/Privacy-Shield-Statement-ENGUS.pdf</a>.  </div><br>  <div class="C_TD">  <b>For individuals located within the European Economic Area (“EEA”):</b> If you visit our Website or participate in a Panel or a program from locations within the EEA, please review our GDPR Privacy Policy <a href="https://www.comscore.com/About-comScore/General-Data-Protection-Regulation" target="_blank">here</a>. Our GDPR Privacy Policy includes additional information relating to the processing of ‘personal data’ and the exercise of rights under the General Data Protection Regulation 2016/679.  </div><br>    </div><br>  
+<div class="C_TD"><span class="h2">Whom can you contact if you have additional questions?</span></div><br><div class="C_TD">                <div class="C_TD">  The program sponsor is Full Circle Studies, Inc. If you have any questions about the above Privacy Policy, our practices, or your interactions with this Website and this program, you may contact the program sponsor at: 
+</div><br>
+<div class="C_TD">privacy@fullcirclestudies.com </div>
+<div class="C_TD">Privacy Office </div>
+<div class="C_TD">Full Circle Studies, Inc. </div>
+<div class="C_TD">11950 Democracy Drive </div>
+<div class="C_TD">Reston, VA 20190</div>
+<div class="C_TD">USA</div><br><br>
+<div class="C_TD">For any support issues, please contact: <a href="mailto:support@fullcirclestudies.com">support@fullcirclestudies.com</a>. 
+</div>              </div><br>
+</div></td></tr></tbody></table></td></tr></tbody></table></span>
+                            &nbsp;</td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody></table>     
+
+                                            </div>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </td>
+                        <td>
+                            <div id="rightContent"></div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td class="footer">
+                            <div class="copyright">
+                                <span id="CopyRightLabel">© 2018 ScorecardResearch, All Rights Reserved</span>
+                            </div>
+                        </td>
+                        <td></td>
+                    </tr>
+                    <!-- Begin comScore Tag -->
+                    <script type="text/javascript">
+                        if ('' != '') {
+                            document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b")
+                                + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+                        }
+                    </script>
+                    <script type="text/javascript">
+                        function ProcessHomePage(languageid) {
+                            window.location = location.pathname + '?newLanguage=' + languageid;
+                            //var ele = document.getElementById(languageid);
+                            //ele.style.backgroundColor = "#868575";
+                            //return false;
+                        }
+                    </script>
+                    <script type="text/javascript">
+                        if ('' != '') {
+                            COMSCORE.beacon({
+                                c1: 2,
+                                c2: "1000001",
+                                c3: "",
+                                c4: "",
+                                c5: "Market Research",
+                                c6: "",
+                                c15: ""
+                            });
+                        }
+                    </script>
+                    
+                    <!-- End comScore Tag -->
+                </tbody>
+            </table>
+        
+<div class="aspNetHidden">
+
+	
+</div></form>
+    </div>
+
+    
+<script type="text/javascript">
+    loadPopCheck();
+
+	function removeURLParameter(url, parameter) {
+		//prefer to use l.search if you have a location/link object
+        var urlparts = url.split('?');
+        if (urlparts.length >= 2) {
+
+            var prefix = encodeURIComponent(parameter) + '=';
+            var pars = urlparts[1].split(/[&;]/g);
+
+			//reverse iteration as may be destructive
+            for (var i = pars.length; i-- > 0;) {
+				//idiom for string.startsWith
+				if (pars[i].lastIndexOf(prefix, 0) !== -1) {  
+					pars.splice(i, 1);
+				}
+			}
+
+            url = urlparts[0] + '?' + pars.join('&');
+			return url;
+		} else {
+			return url;
+		}
+	}		
+	
+	
+    var querystring = "newlanguage=" + "1";
+
+    var links = document.getElementsByTagName('a');
+
+    for (var l in links) {
+        var currentHref = links[l].href;
+		
+	    if (currentHref !== undefined && currentHref.indexOf('javascript') == -1 && currentHref.toLowerCase().indexOf('scorecardresearch') > -1 && currentHref.indexOf('#') == -1) {
+			currentHref = removeURLParameter(currentHref, 'newlanguage');
+	        var newHref = currentHref + (currentHref.match(/\?/) ? '&' : '?') + querystring; //+ "#section1";
+
+            links[l].href = newHref;
+        }
+    }
+</script>
+</body></html>
