@@ -1,25 +1,37 @@
-> *The following text is extracted and transformed from the pacific.net.sg privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111235932id_/http%3A//sg.pacnet.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pacific.net.sg privacy policy that was archived on 2018-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180506102805id_/http%3A//www.pacificinternet.com/en/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Pacnet Singapore
+# Privacy Policy - Pacific Internet
 
-The Pacnet Internet Group is committed to protecting the privacy of our subscribers and visitors to our web sites. We want you to have an enjoyable and enriching Internet experience and to use the Internet with complete confidence.
+Pacific Internet operates the [http://www.pacificinternet.com](http://www.pacificinternet.com/) website, which provides the SERVICE. This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service. If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy. The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at http://www.pacificinternet.com , unless otherwise defined in this Privacy Policy.
 
-This policy demonstrates our commitment to your privacy and shows how we collect, use and safeguard the information you provide us.
+### Information Collection and Use
 
-  1. We will safeguard, according to very stringent standards of security and confidentiality, all information that we collect from our subscribers.
-  2. We will limit the collection and use of subscriber information to the minimum required for us to deliver superior service to you.
-  3. We will not reveal subscriber information to any external party except with your prior consent, or where required under law.
-  4. We will only permit authorized employees who have been trained in the proper handling of user information to have access to such information.
-  5. We require all organizations providing support to conform to our privacy standards and to allow us to audit them for privacy.
-  6. We may, from time to time, request that you supply us with personal information to facilitate offers and promotions from us or carefully selected business partners. You will be given the option whether or not to provide such personal data. However, we will always maintain control over the confidentiality of your information. We do not allow our partners to retain any information unless you have expressed specific interest in their products or services.
-  7. We strive to constantly enhance and upgrade our services and products, and we may partner with reputable companies who may need to collect and maintain certain subscriber information to help us improve our services and products. We will obtain your consent before sharing your information with any of them.
-  8. We will tell our subscribers in plain language and provide simple procedures for them to provide or withdraw consent to receive the latest marketing offers or promotions, or for us to provide information to any third parties.
-  9. If you browse our web sites, you do so anonymously i.e. without telling us who you are or revealing any information about yourself.
-  10. In some email communications, we employ a device called a “click-through URL” which, upon clicking the URL, will pass you through our system before arriving at your intended destination. Information gathered by this method will not be shared with third parties and will not be matched to particular e-mails.
-  11. You can choose to decline to receive any email offers. At any time, you may request to discontinue receiving these offers from us by simply replying to the e-mail and informing us of your preferences.
-  12. While our product advertising campaigns and marketing materials are often viewed by children, we do not solicit data from them. We recommend that children seek permission from parents or guardians before sending personal information to us, or anyone else online.
-  13. Web sites currently use “cookies” or similar technologies to better serve each user’s return visit. Any information we obtain through use of cookies will be used for research purposes and to evaluate the use of our site so as to continuously improve our content. You can set your web browser to notify you when you receive a cookie and decide whether to accept it. Our customer and technical support teams will be happy to assist you in this.
+For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to your name, phone number, and postal address. The information that we collect will be used to contact or identify you.
 
+### Log Data
 
+We want to inform you that whenever you visit our Service, we collect information that your browser sends to us that is called Log Data. This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser version, pages of our Service that you visit, the time and date of your visit, the time spent on those pages, and other statistics.
 
-We will continuously assess our practices and the technologies we use to ensure that your privacy is protected. We will conduct our business in a manner that fulfils our privacy commitment in the many countries in which we operate.
+### Cookies
+
+Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your computer’s hard drive. Our website uses these “cookies” to collection information and to improve our Service. You have the option to either accept or refuse these cookies, and know when a cookie is being sent to your computer. If you choose to refuse our cookies, you may not be able to use some portions of our Service.
+
+### Service Providers
+
+We may employ third-party companies and individuals due to the following reasons: To facilitate our Service; To provide the Service on our behalf; To perform Service-related services; or To assist us in analyzing how our Service is used. We want to inform our Service users that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+
+### Security
+
+We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+
+### Links to Other Sites
+
+Our Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over, and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+### Children’s Privacy
+
+Our Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
+
+### Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
