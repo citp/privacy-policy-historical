@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the piknu.com privacy policy that was archived on 2017-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170818162115id_/http%3A//piknu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piknu.com privacy policy that was archived on 2018-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180506182314id_/http%3A//piknu.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
