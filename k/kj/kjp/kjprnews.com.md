@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the kjprnews.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910071730id_/http%3A//kjprnews.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kjprnews.com privacy policy that was archived on 2018-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180506143501id_/http%3A//kjprnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kjprnews
 
 **PRIVACY POLICY**
 
-Kjprnews.com is a newswire service which distributes press releases on behalf of our customers. Your privacy is very important to us. We are committed to establishing and maintaining policies and procedures which protect the privacy of personal information gathered from our customers and visitors from our website. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.  
+Kjprnews.com is a newswire service which distributes press releases on behalf of our customers. Your privacy is very important to us. We are committed to establishing and maintaining policies and procedures which protect the privacy of personal information gathered from our customers and visitors from our website. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
 
-
- **Information Gathered from Visitors**
+**Information Gathered from Visitors**
 
 When visiting Kjprnews.com, the IP address used to access the site will be logged along with the dates and times of access. This information is only used to analyze trends, administer the site, track users’ movement and gather broad demographic information for internal use. Most importantly, ALL recorded IP addresses are not linked to personally identifiable information.
 
