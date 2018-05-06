@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totalrl.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217232229id_/http%3A//www.totalrl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalrl.com privacy policy that was archived on 2018-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180506105140id_/http%3A//www.totalrl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Total Rugby League
 
