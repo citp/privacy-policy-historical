@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the backlinko.com privacy policy that was archived on 2017-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170825080150id_/https%3A//backlinko.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backlinko.com privacy policy that was archived on 2018-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180506223432id_/https%3A//backlinko.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy Policy**
 
-Thank you for visiting either Backlinko.com or SeoThatWorks.com (hereinafter known as “Provider,” “us” or “we” or “the Site”). To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+Thank you for visiting Backlinko.com (hereinafter known as “Provider,” “us” or “we” or “the Site”). To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
 We are committed to protecting your privacy and committed to developing technology that gives you the most powerful and secure online experience.
 
 Billing and personal information is encrypted whenever transmitted or received online. Personal information is accessible only to staff, agents, or contractors of Provider.
 
-This privacy statement applies to all Provider-owned web sites and domains. This privacy statement covers personally identifiable information, anonymous data collection and aggregate reporting. Personally identifiable information is any information that is associated with your name or personal identity.
+This privacy statement applies to all Provider-owned web sites and domains. This privacy statement covers personally identifiable information which includes information relating to an identified or identifiable natural person, anonymous data collection and aggregate reporting. Personally identifiable information is any information that is associated with your name or personal identity.
 
 **What we collect**
 
@@ -38,7 +38,19 @@ We never sell or rent your personal information. Provider may disclose your pers
 
 Provider may transfer information about Users if Provider is acquired by or merged with another company. Provider is not responsible for notifying User of such changes.
 
-Provider will not share your information with third parties without your permission, other than what is mentioned in this Privacy Policy. It will only be used for the purposes stated above. We use personal information to reply to inquiries, handle complaints, provide operational notices, keep records up to date to notify you via periodic e-mails of technical service issues, specials, or other related product/service information. Your information may be shared with agents or contractors of Provider for the purpose of performing service for Provider.
+Provider uses (but is not limited to using) the following sub-processors in order to carry out business activities. Your data may not be processed by every sub-processor listed, and conversely may be processed by more than those listed, depending on the nature of services that you have engaged us for:
+
+  * Aweber
+  * Stripe
+  * PayPal
+  * Pressidium
+  * OptinMonster
+  * Alphabet Inc.
+  * HotJar
+
+
+
+Provider will not share your information with third parties without your permission, other than what is mentioned in this Privacy Policy. It will only be used for the purposes stated above. We use personal information to reply to enquiries, handle complaints, provide operational notices, keep records up to date to notify you via periodic e-mails of technical service issues, specials, or other related product/service information. Your information may be shared with agents or contractors of Provider for the purpose of performing service for Provider.
 
 **Internet Commerce**
 
@@ -52,13 +64,25 @@ Your personal information is never shared outside the company without your permi
 
 You also have a significant role in protecting your information. No one can see or edit your personal information without knowing your username and password, so do not share these with others.
 
-We use SSL encryption when collecting or transferring sensitive data such as credit card and personal information. Credit card numbers are only used for processing payment and are not used for other purposes. Our efforts to protect credit card fraud help protect your financial data security
+We use SSL encryption when collecting or transferring sensitive data such as credit card and personal information. Credit card numbers are only used for processing payment and are not used for other purposes. Our efforts to protect credit card fraud help protect your financial data security.
 
 **Access to your Personal Information**
 
 We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time by logging into your account.
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity, such as password and username, before granting access to your data.
+
+Please [contact us](https://backlinko.com/contact) if you require further clarification, access or updating above that which is provided by our systems.
+
+**Data Erasure**
+
+We do not hold your personal information for longer than is necessary; when we no longer have any use for your data, your data is deleted.
+
+User accounts, email addresses on our email lists, and related necessary information (First name, Last name, Email address, etc.) can be deleted upon request, under the understanding that this may affect the quality of future service received, experience of our sites, products and services, and ability for you to correctly access or otherwise receive our sites, products and services.
+
+Deletion of personal information as above in no way absolves you of any prior agreements or commitments with our sites, products and services – For example, payment plans into which you may have entered with us.
+
+You have the right to object to profiling or automated decision making that may impact you, but in doing so agree that this means your experience, use or service may be impacted, and that it does not in any way absolve you of any prior agreements or commitments with our sites, products and services – For example, payment plans into which you may have entered with us.
 
 **Use of Cookies**
 
@@ -70,6 +94,14 @@ Provider Web sites may use “cookies” to help you personalize your online exp
 
 This website may contain links to other sites. Please be aware that we are not responsible for the content or privacy of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
 
+**Your choices about how we use your Personal Information**
+
+  * **Communication:** You can opt-out of email broadcasts by clicking the Unsubscribe link in emails.
+  * **Cookies:** You may reject the use of cookies and continue to use Site, but you accept that your experience may be diminished, and certain content (modal dialogs) may be presented to you multiple times, as they rely on cookies for dismissal.
+  * **User accounts:** You can request any accounts you hold with us to be deleted by [contacting us](https://backlinko.com/contact). You will have to prove your identity.
+
+
+
 **Problems or complaints with Provider’s Privacy Policy**
 
-We value your comments and opinions. If you have questions, comments or a complaint about compliance with this privacy policy you may _[contact us](http://backlinko.com/contact)_.
+We value your comments and opinions. If you have questions, comments or a complaint about compliance with this privacy policy you may _[contact us](https://backlinko.com/contact)_.
