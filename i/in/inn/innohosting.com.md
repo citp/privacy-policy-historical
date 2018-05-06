@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innohosting.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207054607id_/http%3A//www.innohosting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innohosting.com privacy policy that was archived on 2018-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180506233818id_/http%3A//www.innohosting.com/privacy-policy) for the most accurate reproduction.*
 
 # InnoHosting - Web Hosting cPanel Reseller Hosting WHM with free WHMCS free RapidSSL - 24x7 Support
 
