@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipaustralia.gov.au privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119122343id_/https%3A//www.ipaustralia.gov.au/about-us/agency-overview/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipaustralia.gov.au privacy policy that was archived on 2018-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180506205607id_/https%3A//www.ipaustralia.gov.au/about-us/agency-overview/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | IP Australia
 
@@ -63,10 +63,10 @@ Our website contains links to other websites. IP Australia is not responsible fo
 
 We encourage individuals to examine each website's privacy policy.
 
-Our [website usage and information policy](https://web.archive.org/about-us/agency-overview/privacy/website-usage) has more information about clickstream data, clicktails, cookies, tools used, email addresses and linking to external websites.
+Our [website usage and information policy](https://web.archive.org/about-us/agency-overview/privacy-policy/website-usage) has more information about clickstream data, clicktails, cookies, tools used, email addresses and linking to external websites.
 
 ### More information
 
-  * [Website usage and information policy](https://web.archive.org/about-us/agency-overview/privacy/website-usage)
+  * [Website usage and information policy](https://web.archive.org/about-us/agency-overview/privacy-policy/website-usage)
 
 
