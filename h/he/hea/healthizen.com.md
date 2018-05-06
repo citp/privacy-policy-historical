@@ -1,25 +1,50 @@
-> *The following text is extracted and transformed from the healthizen.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621093819id_/http%3A//www.healthizen.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthizen.com privacy policy that was archived on 2018-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180506172843id_/http%3A//www.healthizen.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Healthizen
+# Privacy Policy | Healthizen
 
-PLEASE READ CAREFULLY THE PRIVACY POLICY BEFORE USING THE Healthizen.COM WEBSITE ("Healthizen"). 
+This Privacy Policy governs the manner in which Healthizen collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.healthizen.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Healthizen.
 
-At Healthizen, we understand how important the privacy of personal information is for you. This Privacy Policy will tell you what information we collect about you and about your use of Healthizen and its services. It will explain the choices you have about how your personal information is used and how we protect that information. We urge you to read this Privacy Policy carefully.
+**Personal identification information**
 
-Healthizen is committed to protecting the privacy of its users. The personal and medical information gathered by Healthizen is to assist you to monitor and manage your medical condition. Healthizen will not release your name, address, telephone number, emergency information or health data related to your medical history to any third party without your consent unless, 1) you expressly direct Healthizen to give the information to your healthcare providers, or 2) Healthizen is required to disclose such information by law.
+We may collect personal identification information from Users in a variety of ways in connection with activities, services, features or resources we make available on our site. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-We make every reasonable effort to ensure that information held by Healthizen is confidential and secure. We disclose our information-security practices to you as clearly and fully as possible. These practices are reviewed regularly, and many of our business decisions, including Web design, technology selections, and third-party business relationships, begin and end with considerations for your privacy.
+**Non-personal identification information**
 
-While our philosophy will not change, the details of this policy will change over time as we add additional services and form relationships with new business partners. Please refer back to this page periodically. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-At Healthizen, we exercise state-of-the-art care in providing secure transmission of your information from your PC to our servers. Personal information collected by our web site is stored in secure operation environments that are not available to the public. Only employees authorized to access your data are able to do so based on a series of permission levels protected by passwords and software algorithms. All employees sign a confidentiality of data agreement at time of employment in which they agree to uphold the confidentiality of any such information. Only those employees who need access to your information in order to do their jobs are allowed access, each having signed confidentiality agreements. Any employee who violates our privacy or security policies is subject to disciplinary action, including possible termination and civil and/or criminal prosecution.
+**Web browser cookies**
 
-No one other than yourself and your trusted providers is permitted to make changes or updates to your Personal Health Record, unless a third party uses your User ID and Password. It is your responsibility to protect your User ID and Password, and thus your Personal Health Record, from unauthorized use.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-Healthizen does not sell, trade or rent personal information about its users. The email addresses you provide are used to respond to comments submitted through our message boards, and users that contact our site via email will not be subject to any communication from us other than as a response to the question/suggestion, unless specifically requested by the user.
+**How we use collected information**
 
-The Healthizen website contains links to other sites. Once you enter another website (whether through an advertisement, service, or content link), be aware that Healthizen is not responsible for the privacy practices of such other sites. We encourage you to look for and review the privacy statements of each and every website that you visit through a link or advertisement on Healthizen.
+Healthizen may collect and use Users personal information for the following purposes:
 
-Unfortunately, no data protection method or combination of methods can be guaranteed 100 percent secure. We take all reasonable steps to protect your personal information as described throughout this policy, but we cannot ensure or warrant our ability to do so. Despite Healthizen's efforts to protect your personal health information, there is always some risk that an unauthorized third party may find a way around our security systems or that transmissions of your information over the Internet may be intercepted. As a result, you use Healthizen content, products, and services at your own risk. Healthizen or its promoters will not be liable for disclosures of your personal information due to errors in transmission or unauthorized acts of third parties. 
+  * – _To improve customer service_  
+Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * – _To improve our Site_  
+We may use feedback you provide to improve our products and services.
 
-Healthizen welcomes your questions and comments about privacy and this policy. If you have any questions about this Privacy Policy or our practices, please contact us at [info@healthizen.com](mailto:info@healthizen.com). 
+
+
+**How we protect your information**
+
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+
+**Sharing your personal information**
+
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+
+**Changes to this privacy policy**
+
+Healthizen has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+**Your acceptance of these terms**
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+**Contact Us**
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact our account manager at: [Healthizen](http://www.healthizen.com/contact/)
+
+_This document was last updated on November 9, 2017_
