@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lfconline.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105174945id_/http%3A//www.lfconline.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lfconline.com privacy policy that was archived on 2018-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180506232834id_/http%3A//www.lfconline.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and cookie policy - LFC Online
 
