@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcinvasion.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615081308id_/https%3A//www.pcinvasion.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcinvasion.com privacy policy that was archived on 2018-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180506100831id_/https%3A//www.pcinvasion.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PC Invasion
 
@@ -20,7 +20,7 @@ We use the information collected primarily to process the task for which you vis
 
 Your Internet browser has the in-built facility for storing small files- “cookies” – that hold information which allows a website to recognise your account. Our website takes advantage of this facility to enhance your experience. You have the ability to prevent your computer from accepting cookies but, if you do, certain functionality on the website may be impaired.
 
-Our websites may contain third party advertising and sponsorship. It is possible that these third party advertisers may download cookies to your computer. Cookies may then be used to allow the advertisers to compile anonymous statistics, personalise advertising content and monitor the effectiveness of their campaigns. We cannot control nor do we have access to any cookies placed on your computer by third party advertisers and sponsors. Visitors may opt-out of these cookies either through their browser settings or by utilising a tool such as [http://www.networkadvertising.org/managing/opt_out.asp.](http://www.networkadvertising.org/managing/opt_out.asp)
+Our websites may contain third party advertising and sponsorship. It is possible that these third party advertisers may download cookies to your computer. Cookies may then be used to allow the advertisers to compile anonymous statistics, personalise advertising content and monitor the effectiveness of their campaigns. We cannot control nor do we have access to any cookies placed on your computer by third party advertisers and sponsors. Visitors may opt-out of these cookies either through their browser settings or by utilising a tool such as [http://www.networkadvertising.org/managing/opt_out.asp.](https://www.networkadvertising.org/managing/opt_out.asp)
 
  **Disclosing Information**
 
