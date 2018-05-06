@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panic.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520215030id_/https%3A//www.panic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panic.com privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507010830id_/https%3A//panic.com/privacy) for the most accurate reproduction.*
 
 # Panic Privacy
 
@@ -56,7 +56,7 @@ We generally don't look at these logs unless a server appears to be being malici
 
 ## Services Used
 
-  * Collection and aggregation of usage analytics and crash logs is provided by [Hockey](http://hockeyapp.net/), [Crashlytics](http://crashlytics.com/) and [Fabric](http://fabric.io/).
+  * Collection and aggregation of usage analytics and crash logs is provided by [Hockey](https://hockeyapp.net/), [App Center](https://appcenter.ms/), [Crashlytics](https://crashlytics.com/) and [Fabric](https://fabric.io/).
   * Update checking in direct download apps is provided by the [Sparkle](https://sparkle-project.org/) framework.
   * Email list services in direct download apps are provided by [Campaign Monitor](https://www.campaignmonitor.com/).
   * Web analytics services are provided by [Google Analytics](http://google.com/analytics) and [GoSquared](http://gosquared.com/).
