@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babynames.net privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119015000id_/https%3A//www.verywell.com/legal%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babynames.net privacy policy that was archived on 2018-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180506160725id_/https%3A//www.verywell.com/legal%23privacy) for the most accurate reproduction.*
 
 # Terms of Use and Policies
 
@@ -67,7 +67,7 @@ Our agents, vendors, consultants, and other service providers may have access to
 
 ### How We Protect Personal Information
 
-We maintain appropriate administrative, technical, and physical safeguards designed to protect the personal information you provide against accidental, unlawful, or unauthorized destruction, loss, alteration, access, disclosure, or use. That said, it is not possible to guarantee the security of information transmitted online, and you assume some risk with regard to the security of information you provide through any website, including this Site.
+We maintain appropriate administrative, technical, and physical safeguards designed to protect the personal information you provide against accidental, unlawful, or unauthorized destruction, loss, alteration, access, disclosure, or use. That said, it is not possible to guarantee the security of information transmitted online, and you assume some risk with regard to the security of information you provide through any website, including this Site. If you have a data security inquiry, you may contact us by emailing [security@verywell.com](mailto:security@verywell.com). To request an invite to our bug bounty program to submit reports on vulnerabilities found on Verywell.com, you may contact us by emailing [bugbounty@verywell.com](mailto:bugbounty@verywell.com).
 
 ### Links From Verywell to Other Websites
 
