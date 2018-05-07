@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michaelpage.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606112552id_/http%3A//www.michaelpage.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaelpage.co.uk privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507023652id_/https%3A//www.michaelpage.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Michael Page
 
@@ -24,7 +24,7 @@ Michael Page International may collect your personal details, including but not 
 
 **7.  **to fulfil contractual obligations with our clients
 
-**8.  **where you are registered as a candidate on our database in the UK, your personal information may be accessible by or transfered or duplicated to our offices globally wherever they are based (e.g. in Europe, Asia, the Americas and Australasia) to enable them to provide you with recruitment services and for the purposes of business development, systems development and testing. We will notify you in the event we wish to transfer your data in order to explore job opportunities for you outside the European Economic Area (EEA) and we will give you the opportunity to withhold your consent to such transfer. Michael Page applies equal rigour to the security of data held and processed across the whole of its global network and each global Michael Page office outside the EEA with access to data provided in the UK, enters into a specific data protection agreement with Michael Page's UK head office thereby undertaking to meet the same standards of data security and to act in accordance with the eight data protection principles applicable under the strict European data protection laws.Details of all the Michael Page group company offices can be accessed at the following link: [Michael Page Group Offices](http://www.page.com/) . Details of the particular Michael Page group company offices which can access your details can be obtained from [legalandcompliance@michaelpage.com](mailto:legalandcompliance@michaelpage.com);
+**8.  **where you are registered as a candidate on our database in the UK, your personal information may be accessible by or transfered or duplicated to our offices globally wherever they are based (e.g. in Europe, Asia, the Americas and Australasia) to enable them to provide you with recruitment services and for the purposes of business development, systems development and testing. We will notify you in the event we wish to transfer your data in order to explore job opportunities for you outside the European Economic Area (EEA) and we will give you the opportunity to withhold your consent to such transfer. Michael Page applies equal rigour to the security of data held and processed across the whole of its global network and each global Michael Page office outside the EEA with access to data provided in the UK, enters into a specific data protection agreement with Michael Page's UK head office thereby undertaking to meet the same standards of data security and to act in accordance with the eight data protection principles applicable under the strict European data protection laws.Details of all the Michael Page group company offices can be accessed at the following link: [Michael Page Group Offices](http://www.page.com/) . Details of the particular Michael Page group company offices which can access your details can be obtained from [legaldepartment@michaelpage.com](mailto:legaldepartment@michaelpage.com);
 
 **9.  **by the Michael Page International group of companies worldwide to enable the development and marketing of other products and services and to improve our customer service and to make our services more valuable to you, including tailoring our website and our group companies international websites when you log on to make it relevant to you personally. Please [click here](http://www.page.com/) for details of all the Michael Page Group Company Offices.
 
@@ -64,7 +64,7 @@ Access our new Cookie Policy and read how we abide by the changes [here](https:/
 
 You have the right at any time to ask us for a copy of the information supplied by you that we hold. We may ask you to verify your identity and for more information about your request. We also have the right to charge an administrative fee for this service. Where we are legally permitted to do so, we may refuse your request and will give you reasons for doing so.
 
-If you would like to make a request for information, please contact [dpa@michaelpage.com](mailto:dpa@michaelpage.com). You also have the right to ask Michael Page International to stop using your information. However, if this involves a request for deletion of your file, please be aware that we may not be required or able to do so, particularly where your file also holds information about our clients or financial information that we need to keep for periods of up to six years, i.e. that relate to tax matters. Where we are unable to comply with your request we will provide reasons for failing to do so.
+If you would like to make a request for information, please contact [qualitycare@michaelpage.com](mailto:qualitycare@michaelpage.com). You also have the right to ask Michael Page International to stop using your information. However, if this involves a request for deletion of your file, please be aware that we may not be required or able to do so, particularly where your file also holds information about our clients or financial information that we need to keep for periods of up to six years, i.e. that relate to tax matters. Where we are unable to comply with your request we will provide reasons for failing to do so.
 
 ##  Other websites
 
@@ -78,7 +78,7 @@ Given that the Internet is a global environment, using the Internet to collect a
 
 This privacy policy may be changed by Michael Page International at any time. If we change our privacy policy in the future, we will advise you of changes or updates to our privacy policy by a prominent notice on our website. Continued use of this website or our services after such changes will constitute your acceptance of such changes.
 
-If, at any time, you have questions or concerns about Page Personnel International's online privacy commitment, please feel free to e-mail us at [dpa@pagepersonnel.co.uk](mailto:dpa@pagepersonnel.co.uk) or call your local office to speak to one of our representatives.
+If, at any time, you have questions or concerns about Michael Page International's online privacy commitment, please feel free to e-mail us at [dpa@pagepersonnel.co.uk](mailto:dpa@pagepersonnel.co.uk) or call your local office to speak to one of our representatives.
 
 ##  Equal Opportunities
 
@@ -88,19 +88,21 @@ As part of our commitment to equal opportunities we may from time to time use in
 
 ##  Contact
 
-If you have any enquires you can contact us at: [dpa@michaelpage.com](mailto:dpa@michaelpage.com) or by writing to us at :
+Jorge Roche
 
-Ms Caroline Shelley
+Data Protection Officer
 
-Michael Page International Recruitment Limited
+PageGroup PLC
 
-11th Floor
+Legal Department 
 
-5 Aldermanbury Square
+2nd Floor 
 
-London
+61 Aldwych 
 
-EC2V 7HR
+London 
+
+WC2B 4AE
 
 **Our registered office is at:**
 
