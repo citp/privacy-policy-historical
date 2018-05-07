@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the riseup.net privacy policy that was archived on 2017-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171017003433id_/https%3A//riseup.net/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riseup.net privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508005743id_/https%3A//riseup.net/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - riseup.net
 
-This document describes what information we collect and what it’s used for. It applies to all interactions with riseup.net, except for our new “black” services which are covered by a [different privacy policy](https://black.riseup.net/privacy-policy). Your use of riseup.net services will constitute your agreement to our Privacy Policy. Please also review our [Terms of Service](https://web.archive.org/en/tos/).
+This document describes what information we collect and what it’s used for. It applies to all interactions with riseup.net. Your use of riseup.net services will constitute your agreement to our Privacy Policy. Please also review our [Terms of Service](https://web.archive.org/en/tos/).
 
 ## Summary
 
@@ -12,7 +12,7 @@ You have a reasonable expectation of privacy regarding any communication or data
 
 ### Registration information
 
-When you create an account, we retain the date you registered. Account request information is removed after four months, and invite status is removed after one month. Unless you delete it from your user account, we retain the alternate email addresses that you specify. You may choose to delete your alternate email address, but if you do so, we will not be able to restore access to your account if you lose the password.
+When you create an account, we retain the date you registered (rounded to the nearest quarter year). Account request information is removed after four months, and invite status is removed after one month. If you choose to set a reset email address, we retain this record but in a format that is unreadable by us (it is stored in a hashed digest, similar to how passwords are stored).
 
 ### Help tickets
 
@@ -26,9 +26,9 @@ While currently logged in, we keep a temporary session identifier on your comput
 
 In order to detect when our servers are under attack from a “spam bomb” or when a spammer is using our system, we keep a log of the “from” or “to” information for every message relayed. These logs are purged on a daily basis.
 
-### Month of last log in
+### Quarter of last log in
 
-We keep a record of the current calendar month and year of your last successful authentication (in order to be able to disable and delete dormant accounts). We do not record the time or day of the last log in.
+We keep a record of the quarter and year of your last successful authentication (in order to be able to disable and delete dormant accounts). We do not record the time or day of the last log in. For example, this information looks like “Q3 2018”.
 
 ## Information we choose to not retain
 
@@ -48,11 +48,7 @@ Even when using end-to-end OpenPGP encryption for email messages, the email “s
 
 ### Encryption
 
-All of your data is stored in an encrypted format, and only Riseup has the keys to decrypt the data.
-
-### Cleartext messages
-
-Some messages that you send or receive will not be end-to-end-encrypted (for example, when the other party does not support email encryption). Once we receive these clear-text messages, they are stored on an encrypted disk drive. If they are sent from or to our system without encryption, we cannot ensure that the contents of the mail have not been intercepted in transit.
+All of your data is stored in an encrypted format, and only Riseup has the keys to decrypt the data. Additionally, as of March 2017, the storage for all new accounts is personally encrypted. Riseup is unable to read any of the stored content for these accounts. Any user with an account created prior to March 2017 may opt-in to personally encrypted storage.
 
 ### We do not share user information
 
