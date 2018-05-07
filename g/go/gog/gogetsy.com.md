@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gogetsy.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231031314id_/http%3A//www.etsy.com/help/article/480%3Fref%3Dreg) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gogetsy.com privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507152728id_/https%3A//www.etsy.com/help/article/480%3Fref%3Dreg) for the most accurate reproduction.*
 
 # Privacy Policy - Our House Rules | Etsy
 
