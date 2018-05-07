@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the biographyarchive.com privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104065727id_/http%3A//www.biographyarchive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biographyarchive.com privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507132250id_/http%3A//www.biographyarchive.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Biography Archive
 
 The privacy of visitors to our web sites is very important to us.
 
