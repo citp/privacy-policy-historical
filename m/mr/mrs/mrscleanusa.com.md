@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrscleanusa.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223184700id_/http%3A//www.mrscleanusa.com/cleaning-services/mrs-clean/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrscleanusa.com privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507050812id_/http%3A//www.mrscleanusa.com/cleaning-services/mrs-clean/privacy-policy.html) for the most accurate reproduction.*
 
 # Mrs Clean's Privacy Policy
 
