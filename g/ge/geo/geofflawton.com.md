@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geofflawton.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105162855id_/http%3A//www.geofflawtononline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geofflawton.com privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507074950id_/http%3A//www.geofflawtononline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — GeoffLawton Online
 
