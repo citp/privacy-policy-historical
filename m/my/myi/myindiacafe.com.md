@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myindiacafe.com privacy policy that was archived on 2017-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170807031421id_/http%3A//myindiacafe.com/static/2/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myindiacafe.com privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507153851id_/http%3A//myindiacafe.com/static/2/privacy-policy.html) for the most accurate reproduction.*
 
 # MyIndiaCafe.com - Privacy Policy
 
