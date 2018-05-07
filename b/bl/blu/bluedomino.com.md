@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluedomino.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230015948id_/http%3A//www.bluedomino.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluedomino.com privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507231239id_/http%3A//www.bluedomino.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # BlueDomino's Privacy Policy
 
@@ -45,6 +45,6 @@ To ensure you receive the information you need to manage your account and protec
 
 
 
-**This file was last modified on August 24, 2017.**
+**This file was last modified on February 12, 2018.**
 
  ****
