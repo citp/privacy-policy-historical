@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the hookah-shisha.com privacy policy that was archived on 2017-03-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170305001230id_/https%3A//www.hookah-shisha.com/store/pc/hookah-privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hookah-shisha.com privacy policy that was archived on 2018-05-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180507160258id_/https%3A//www.hookah-shisha.com/store/pc/hookah-privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-<script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script type="text/javascript" async="" src="//scripts.kissmetrics.com/4277f99dc8dcc72bd155cd74f0b1a4cbd8a6679b.2.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">    var _kmq = _kmq || []; var _kmk = _kmk || '4277f99dc8dcc72bd155cd74f0b1a4cbd8a6679b'; function _kms(u) { setTimeout(function () { var d = document, f = d.getElementsByTagName('script')[0], s = d.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = u; f.parentNode.insertBefore(s, f); }, 1); } _kms('//i.kissmetrics.com/i.js'); _kms('//scripts.kissmetrics.com/' + _kmk + '.2.js'); </script>
-
-<script src="//cdn.optimizely.com/js/82681533.js" async=""></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script type="text/javascript" async="" src="//scripts.kissmetrics.com/4277f99dc8dcc72bd155cd74f0b1a4cbd8a6679b.2.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript">    var _kmq = _kmq || []; var _kmk = _kmk || '4277f99dc8dcc72bd155cd74f0b1a4cbd8a6679b'; function _kms(u) { setTimeout(function () { var d = document, f = d.getElementsByTagName('script')[0], s = d.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = u; f.parentNode.insertBefore(s, f); }, 1); } _kms('//i.kissmetrics.com/i.js'); _kms('//scripts.kissmetrics.com/' + _kmk + '.2.js'); </script>
+<script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script src="//cdn.optimizely.com/js/82681533.js"></script>
 <!--<script type="text/javascript">
     var onloadCallback = function () {
         grecaptcha.render('html_element', {
@@ -30,19 +31,6 @@
 <link rel="icon" type="image/vnd.microsoft.icon" href="https://www.hookah-shisha.com/favicon.ico">
 
 
-<script type="text/javascript">  var _gaq = _gaq || [];  _gaq.push(['_setAccount', 'UA-941895-1']);
-
-  _gaq.push(['_setCustomVar',1,'Logged-In-Session','Guest-Session',2]);
-  _gaq.push(['_setCustomVar',2,'Logged-In-Page','Guest-Page',3]);
-
-
-  _gaq.push(['_trackPageview']);  (function() {   
-   var ga = document.createElement('script'); ga.type = 'text/javascript'; 
-  ga.async = true;    
-  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';    
-  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);  
-  })();</script>
-
 
 <link rel="icon" type="image/vnd.microsoft.icon" href="https://www.hookah-shisha.com/favicon.ico"> 
 <link rel="apple-touch-icon" sizes="57x57" href="https://www.hookah-shisha.com/favicon/apple-touch-icon-57x57.png">
@@ -62,12 +50,12 @@
 
 
 <link href="https://www.hookah-shisha.com/styles.css?v=444" rel="stylesheet" type="text/css">
+<link href="https://www.hookah-shisha.com/siteWideBanner.css" rel="stylesheet" type="text/css">
 <link href="https://www.hookah-shisha.com/js/assets/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 <link href="https://www.hookah-shisha.com/bootstrap/css/bootstrap.min.css?max-age=86400" rel="stylesheet" type="text/css">  
 <link href="../../js/assets/css/ajax.css?v=2" rel="stylesheet" type="text/css"> 
 
-<script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
-<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+
 <script type="text/javascript" src="js/hamburger.js?max-age=86400"></script>
 <script src="/bootstrap/js/bootstrap.min.js?max-age=86400" type="text/javascript" async=""></script>
 <script src="../../js/assets/js/spin.min.js?max-age=86400" type="text/javascript" defer=""></script>
@@ -83,6 +71,17 @@
             $("a[id=LargeImageToWindow]").attr("href", $("#ColorSelect option:selected").attr("url"));
             $("img[id=LargeImageToWindow2]").attr("src", $("#MainImgBTO").attr("href"));
         });
+        var ul = document.getElementById('swb-list-group');
+        var el = document.getElementsByClassName('swb-item');
+        var op = document.getElementsByClassName('swb-popup');
+        for(var j = 0; j < el.length; j++){
+          el[j].addEventListener('mouseover', function(e) {
+              this.children[0].className += " swb-show-popup";
+        });
+      el[j].addEventListener('mouseout', function(e) {
+        this.children[0].className = "swb-popup";
+      });
+    }
     });
 
 </script> 
@@ -189,6 +188,19 @@
     })();
 </script>
 
+<script type="text/javascript">  var _gaq = _gaq || [];  _gaq.push(['_setAccount', 'UA-941895-1']);
+
+  _gaq.push(['_setCustomVar',1,'Logged-In-Session','Guest-Session',2]);
+  _gaq.push(['_setCustomVar',2,'Logged-In-Page','Guest-Page',3]);
+
+
+  _gaq.push(['_trackPageview']);  (function() {   
+   var ga = document.createElement('script'); ga.type = 'text/javascript'; 
+  ga.async = true;    
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';    
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);  
+  })();</script>
+
 <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><style type="text/css"></style></head>
 
 
@@ -200,7 +212,7 @@
 <!-- End Google Tag Manager -->
 
 <div class="promotopleft">
-<a href="/store/pc/hookah-monthly-giveaway.asp"><img src="/images/promos/floater-for-email-sign-up2.png" alt="Monthly Hookah Giveaway" border="0" width="152" height="134"></a>
+
 </div>
 
 <script type="text/javascript">
@@ -219,7 +231,7 @@ function hideCol(column, hideVal) {
 	function hideRow(row, hideVal) {
 	if (document.getElementById('row'+row)) {
 		var displayStyle = (hideVal!=true)? 'inline' : 'none' ;
-		var cookie_date = new Date ( 2017, 03, 19 );
+		var cookie_date = new Date ( 2018, 05, 22 );
 		document.getElementById('row'+row).style.display = displayStyle;	
 		document.cookie = "hidebar=1; expires=" + cookie_date.toGMTString()+ ";path=/;";
 	}
@@ -238,9 +250,36 @@ function hideCol(column, hideVal) {
 <div class="container" id="container">
  <div class="row row-offcanvas row-offcanvas-left">
     <div id="header">
+      <!--<div class="omt hidden-sm visible-xs hidden-md hidden-lg" style="">
+        <a href="https://www.hookah-shisha.com/store/pc/tip.asp?subpageId=29#freeship">
+          <div class="omt-btn">
+            <div class="omt-txt">
+              Free Shipping On Orders $100+
+            </div>
+          </div>
+        </a>
+      </div>-->
     <div class="row NotMobile">
          
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+        <div class="swb-info">
+          <div class="swb-txt-holder">
+            <ul id="swb-list-group">
+              <li class="swb-item">100% Satisfaction Guaranteed
+                <div class="swb-popup">
+                  <h4 class="swb-popup-title">100% Satisfaction Guaranteed</h4>
+                  <p class="swb-popup-desc">All products purchased from us come with a 100% satisfaction guarantee. If anything arrives broken, damaged, or is missing from your shipment, let us know and we will take care of it, 100%.</p></div>
+                </li>
+              <li class="swb-item-bar"> | </li>
+              <li class="swb-item">Free Shipping On Orders $100+
+                <div class="swb-popup">
+                  <h4 class="swb-popup-title">Free Shipping On Orders $100+</h4>
+                  <p class="swb-popup-desc">Use the coupon code: FREESHIP100 to get free UPS ground shipping on any order over $100 that is shipping within the USA.            </p>
+                </div>
+              </li>
+            </ul>
+          </div>    
+        </div>
         <div class="TopRowMenu">
             <div class="TopLeftCateNav pull-left">
                 <a href="/c-2-hookahs-hookah-pipes.html">Hookahs</a>  : 
@@ -266,7 +305,7 @@ function hideCol(column, hideVal) {
     <div class="row">
         <div class="col-xs-12 col-sm-5 col-md-4 col-lg-4">
             <div class="Logo">
-                <!--<a href="/"><img src="/images/promos/Buy-Hookah-Shisha-Tobacco2.png" alt="Hookah Homepage" border="0" width="" height="80"></a>-->
+                <!--<a href="/c-4-hookah-coals-hookah-charcoal.html"><img src="/images/promos/intergalatic-charcoal-sale.jpg" alt="Hookah Homepage" border="0" width="" height="80"></a>-->
                 <a href="/"><img src="/images/promos/Buy-Hookah-Shisha-Tobacco2.png" alt="Hookah Homepage" border="0" height="80"></a>
 				<!--<a href='/'><img src='/images/H-S_NewLogo.png' alt='Hookah Homepage' border='0'height='80'></a>-->
             </div>
@@ -310,13 +349,13 @@ function hideCol(column, hideVal) {
                </button>
 	      </div>
             <ul class="MobMenu">
-                <li>
-                    <button type="button" id="SearchButton" onclick="document.getElementById('mobilesearch').focus();">
-                        <div class="mobileButton">
-                            <span class="glyphicon glyphicon-search"></span><br>SEARCH
-                        </div>
-                    </button>
-                </li>
+                
+                
+                
+                <li><a href="/store/pc/viewcart.asp"><div class="mobileButton"><span class="glyphicon glyphicon-shopping-cart glyphicon-align-center"></span><br>CART</div></a></li>
+                
+                  <li><a href="/store/pc/custpref.asp"><div class="mobileButton"><span class="glyphicon glyphicon-user"></span><br>ACCOUNT</div></a></li>
+                
                 <li>
 
                   <a class="mobileButton" id="ContactToggleButton" href="#" type="button" data-toggle="dropdown">
@@ -335,8 +374,13 @@ function hideCol(column, hideVal) {
                      });
                 </script>
                 </li>
-                <li><a href="/store/pc/custpref.asp"><div class="mobileButton"><span class="glyphicon glyphicon-user"></span><br>ACCOUNT</div></a></li>
-                <li><a href="/store/pc/viewcart.asp"><div class="mobileButton"><span class="glyphicon glyphicon-shopping-cart glyphicon-align-center"></span><br>CART</div></a></li>
+                <li>
+                    <button type="button" id="SearchButton" onclick="document.getElementById('mobilesearch').focus();">
+                        <div class="mobileButton">
+                            <span class="glyphicon glyphicon-search"></span><br>SEARCH
+                        </div>
+                    </button>
+                </li>
               </ul>
             </div>
 	      <!-- Collect the nav links, forms, and other content for toggling -->
@@ -366,8 +410,10 @@ function hideCol(column, hideVal) {
 		                <ul class="nav navbar-nav pull-right">
 		                  <li><a href="/store/pc/about-hookah-shisha.asp">ABOUT</a></li>
 		                  <li><a href="/store/pc/viewcart.asp">CART</a></li>
+                      
 		                  <li><a href="/store/pc/custpref.asp">ACCOUNT</a></li>
-                          <li><a href="/store/pc/checkoutssl.asp">CHECKOUT</a></li>
+                      
+                      <li><a href="/store/pc/checkoutssl.asp">CHECKOUT</a></li>
 		                  <li><a href="/store/pc/hookah-ordering.asp">ORDERING INFO</a></li>
                           <li><a href="/store/pc/contact.asp" class="">CONTACT</a></li>
 		                </ul>
@@ -378,13 +424,35 @@ function hideCol(column, hideVal) {
 	    </div>	
      </div>	
     </nav>
+    <div class="hidden-sm hidden-md hidden-lg" style="width:100%; background-color:#4c070b;">
+    <div id="mainsearch" class="input-group">
+                    <form action="../../store/pc/advSearch_h.asp" name="searchMobile" method="get" style="margin:0px">
+                      <input class="form-control" type="hidden" name="includeSKU" value="true">
+                      <input class="form-control" type="hidden" name="priceFrom" value="0">
+                      <input class="form-control" type="hidden" name="priceUntil" value="999999999">
+                      <input class="form-control" type="hidden" name="idCategory" value="0">
+                      <input class="form-control" type="hidden" name="idSupplier" value="10">
+                      <input class="form-control" type="hidden" name="resultCnt" value="50">
+                      <input class="form-control" type="hidden" name="SearchValues" value="">
+                      <input class="form-control" type="hidden" name="sku" value="">
+                      <input class="form-control" type="hidden" name="customfield" value="0">
+                      <input class="form-control" type="hidden" name="IDBrand" value="0">
+                      <input class="form-control" type="text" name="keyword" id="mobilesearch" placeholder="Search" onfocus="clearsearchform()">
+                                        <span class="input-group-btn">
+                      <a class="btn btn-custom" href="JavaScript:document.searchMobile.submit();">
+                                            <span class="glyphicon glyphicon-search"></span>
+                      </a>
+                                        </span> <!--:: <a href="advSrca.asp" class="leftnav">Adv. Search</a-->
+                    </form>
+     </div>
+     </div>
  </div>
 
 <div class="row">
      <div class="col-md-12 Parent">
         
 <div class="col-sm-3 col-md-2 col-lg-2 sidebar-offcanvas" id="sidebar" role="navigation">
-            <div id="mainsearch" class="input-group">
+            <div id="mainsearch" class="input-group" style="padding-left: 20px !important;">
                     <form action="../../store/pc/advSearch_h.asp" name="searchMobile" method="get" style="margin:0px">
 									    <input class="form-control" type="hidden" name="includeSKU" value="true">
 									    <input class="form-control" type="hidden" name="priceFrom" value="0">
@@ -428,12 +496,12 @@ function hideCol(column, hideVal) {
 <li><a href="/c-1956-Herbal-hookah-shisha-tobacco-nicotine-free.html" class="Root c1956">Tobacco Free Shisha</a></li>
 <li><a href="/c-4-hookah-coals-hookah-charcoal.html" class="Root c4">Hookah Charcoal</a></li>
 <li><a href="/c-5-hookah-replacement-parts-hookah-accessories.html" class="Root c5">Hookah Accessories</a></li>
-<li><a href="/c-1307-e-hookahs-electronic-cigarettes.html" class="Root c1307">E-Hookahs &amp; Hookah Pens</a></li>
-<li><a href="/c-2233-vape.html" class="Root c2233">Vape</a></li>
+<li><a href="/c-1307-e-hookahs-electronic-cigarettes.html" class="Root c1307">Vape &amp; Hookah Pens</a></li>
 <li><a href="/c-2061-e-juice-e-liquid-vape.html" class="Root c2061">E-Juice &amp; E-Liquids</a></li>
 <li><a href="/c-10-discounted-shisha-hookahs-for-sale.html" class="Root c10">Deals! Deals! Deals!</a></li>
-<li><a href="/store/pc/viewSpc_h.asp" class="Root c6">Hookah Specials</a></li></ul></div>
- 
+<li>
+<a href="/store/pc/viewCat_h.asp?idCategory=2892" class="Root c2892">New Arrivals</a></li>
+</ul></div> 
 
         </div>
     </div>
@@ -940,7 +1008,7 @@ mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333;background:whi
 
     <div class="row" id="footer">
         <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
-	    Copyright © 2017 Hookah-Shisha.com.  All rights reserved.<br>
+	    Copyright © 2018 Hookah-Shisha.com.  All rights reserved.<br>
                 <div class="fourFooterLinks">
                   <a href="/store/pc/hookah-privacy.asp">Privacy Policy</a>  :  
                   <a href="/sitemap.asp">Site Map</a> :  <a href="/store/pc/contact.asp">Contact Us</a> :  
@@ -960,7 +1028,8 @@ mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333;background:whi
               </a><div class="col-xs-5 col-sm-5 col-md-12 col-lg-12"><a href="https://www.rapidscansecure.com/siteseal/Verify.aspx?code=113,3E14BB28E9E4A897504C0E7459AD5565F375CC8C" target="_blank">
                 <img src="https://www.rapidscansecure.com/siteseal/Seal.aspx?code=113,3E14BB28E9E4A897504C0E7459AD5565F375CC8C" alt="SecurityMetrics for PCI Compliance, QSA, IDS, Penetration Testing, Forensics, and Vulnerability Assessment" border="0"></a>
 	         
-            <br>
+            <br><br>
+              <img src="/images/footer-cccards.jpg" style="padding-bottom:5px;">
                </div>
           </div>
           <div class="row">
