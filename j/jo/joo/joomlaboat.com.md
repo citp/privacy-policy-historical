@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the joomlaboat.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626050925id_/http%3A//www.joomlaboat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlaboat.com privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507020421id_/http%3A//www.joomlaboat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Extensions for Joomla! - JoomlaBoat.com
 
-## Design Compass Corp (JoomlaBoat.com) privacy policy
+## Oxford SMS, S.A. (JoomlaBoat.com) privacy policy
 
 This privacy policy sets out how JoomlaBoat.com website uses and protects any information that you give to JoomlaBoat.com website when you use this website.
 
