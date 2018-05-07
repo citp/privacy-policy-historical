@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1form.com privacy policy that was archived on 2017-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171011204717id_/https%3A//about.realestate.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1form.com privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507203416id_/https%3A//about.realestate.com.au/privacy) for the most accurate reproduction.*
 
 # About - realestate.com.au - Privacy Policy
 
@@ -10,8 +10,9 @@ realestate.com.au Pty Ltd (realestate.com.au) operates the following websites ac
 
   * realestate.com.au;
   * realcommercial.com.au;
-  * 1form.com.au; and
-  * property.com.au,
+  * 1form.com.au; 
+  * property.com.au; and
+  * spacely.com.au
 
 
 
@@ -182,6 +183,10 @@ If at any time you have any concerns, complaints or questions in relation to you
 Our Privacy Officer will consider your query and endeavour to respond to you promptly.
 
 For more information about privacy issues in Australia and protecting your privacy, visit the [Office of the Australian Information Commissioner’s](http://www.privacy.gov.au/) website.
+
+**OPTING OUT OF PERSONALISED ADS**
+
+We aim to give you a highly relevant experience on our sites and apps.  This involves us collecting and using information about the content you engage with, such as images, articles, calculators and ads, along with any information you provide to us via your realestate.com.au account (if you have one).  We then show you ads that we believe will be engaging.  You can opt out of us personalising your advertising experience by going to the opt out page.
 
 **COOKIES AND WEB BEACONS**
 
