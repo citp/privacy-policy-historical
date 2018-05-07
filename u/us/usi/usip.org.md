@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usip.org privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905201658id_/https%3A//www.usip.org/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usip.org privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507144709id_/https%3A//www.usip.org/legal/privacy) for the most accurate reproduction.*
 
 # Legal/Privacy Information | United States Institute of Peace
 
