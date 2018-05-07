@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vanns.com privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104010452id_/http%3A//vanns.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanns.com privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507174059id_/http%3A//vanns.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Vanns.com™ | Privacy Policy Statement
 
@@ -72,11 +72,11 @@ Updated 07/2014
 |   
 | |   
   
-[ ](https://web.archive.org/web/20171104010452id_/search.aspx?find=AUDIOQUEST)
+[ ](https://web.archive.org/web/20180507174059id_/search.aspx?find=AUDIOQUEST)
 
-[ ](https://web.archive.org/web/20171104010452id_/search.aspx?find=LG&log=false&manufacturer=188)
+[ ](https://web.archive.org/web/20180507174059id_/search.aspx?find=LG&log=false&manufacturer=188)
 
-[ ](https://web.archive.org/web/20171104010452id_/open-box-sale.aspx)
+[ ](https://web.archive.org/web/20180507174059id_/open-box-sale.aspx)
 
 |   
 ---
