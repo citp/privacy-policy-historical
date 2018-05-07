@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxflash.com privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104142328id_/http%3A//www.foxflash.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxflash.com privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507185814id_/http%3A//www.foxflash.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Foxflash
 
