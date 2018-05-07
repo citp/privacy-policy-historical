@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the newscorp.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606150248id_/http%3A//newscorp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newscorp.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508015307id_/https%3A//newscorp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | News Corp
 
 **Privacy Notice**  
-Effective Date: April 7, 2017
+Effective Date: October 17, 2017
 
-We at News Corporation (herein, “News Corp” or the “Company”) respect your concerns about privacy. This Privacy Notice (“Notice”) applies to personal customer information obtained by the Company, through [http://www.newscorp.com](http://www.newscorp.com/) (the “Site”). When you visit the Site, you are visiting News Corp’s corporate website. Affiliates of News Corp operate a large number of websites, mobile applications and other services associated with News Corp’s various businesses, brands and products. Each of these properties and services you may choose to visit has privacy notices that differ from this Notice due to the nature of those properties and services. This Notice does not apply to the websites, mobile applications and other services operated by News Corp affiliates. A list of News Corp affiliates is [here](http://newscorp.com/about/our-businesses/). By using the Site, you agree to the terms and conditions of this Privacy Notice.
+We at News Corporation (herein, “News Corp” or the “Company”) respect your concerns about privacy. This Privacy Notice (“Notice”) applies to personal customer information obtained by the Company, through [http://www.newscorp.com](http://www.newscorp.com/) (the “Site”). When you visit the Site, you are visiting News Corp’s corporate website. Affiliates of News Corp operate a large number of websites, mobile applications and other services associated with News Corp’s various businesses, brands and products. Each of these properties and services you may choose to visit has privacy notices that differ from this Notice due to the nature of those properties and services. This Notice does not apply to the websites, mobile applications and other services operated by News Corp affiliates. A list of News Corp affiliates is [here](https://newscorp.com/about/our-businesses/). By using the Site, you agree to the terms and conditions of this Privacy Notice.
 
 The Notice describes the types of personal information we obtain about customers, how we use the information and with whom we share it. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices. The Site is for a general audience, is not targeted to children, and we do not knowingly collect personal information from children under 13 years of age.
 
@@ -78,7 +78,7 @@ We also may use your personal information in other ways for which we provide spe
 
 We may share customer personal information with
 
-  * Our subsidiaries and affiliates, any of whom may use your personal information consistent with this Privacy Notice or for the subsidiary’s or affiliate’s own purposes, including marketing purposes. A current list of our affiliated companies is available at <http://newscorp.com/about/our-businesses/>.
+  * Our subsidiaries and affiliates, any of whom may use your personal information consistent with this Privacy Notice or for the subsidiary’s or affiliate’s own purposes, including marketing purposes. A current list of our affiliated companies is available at <https://newscorp.com/about/our-businesses/>.
   * Service providers in the US and other jurisdictions who perform services on our behalf.
 
 
@@ -115,7 +115,7 @@ This Privacy Notice may be updated periodically and without prior notice to you 
 
 If you have any questions or comments about this Privacy Notice or the manner in which we or our service providers treat your personal information, would like to exercise your choices, or would like us to update information we have about you or your preferences, please contact us as follows:
 
-Email: [privacypolicy@newscorp.com](mailto:privacypolicy@newscorp.com)
+Email: [nc-privacypolicy@newscorp.com](mailto:nc-privacypolicy@newscorp.com)
 
 You also may write to:
 
