@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the katalon.com privacy policy that was archived on 2017-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170727004317id_/https%3A//katalon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the katalon.com privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507164510id_/https%3A//katalon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Katalon Studio
 
 **KATALON SITE PRIVACY POLICY**
 
-This Privacy Policy only governs information you provide to KMS Technology, Inc. (“we” or “us”) via [www.katalon.com](https://www.katalon.com/) (the “Site”) and does not govern other Web sites or any other data collection, disclosure or usage practices, off-line or otherwise.
+This Privacy Policy only governs information you provide to Katalon LLC, Inc. (“we” or “us”) via [www.katalon.com](http://www.katalon.com/) (the “Site”) and does not govern other Web sites or any other data collection, disclosure or usage practices, off-line or otherwise.
 
-Effective date: August 1, 2016
+Effective date: January 1, 2018
 
 **Information we collect and how we use it  
-**We collect information from you as part of certain features on our Site, such as when you register to download our software.  The information we collect may include your name, email address, company name, phone number, and state. Third party tools employed on our Site may collect additional information from you, such as geographic area, age, operating system language, and inbound referral link. We may use the contact information you input to send you support information, product announcements and other business communications and to service our Site.
+**We collect information from you as part of certain features on our Site, such as when you register to download our software. The information we collect may include your name, email address, company name, phone number, and state. Third party tools employed on our Site may collect additional information from you, such as geographic area, age, operating system language, and inbound referral link. We may use the contact information you input to send you support information, product announcements and other business communications and to service our Site.
 
 **IP Addresses  
 **Tools employed on our Site may gather your IP address when you access the Site.  We use IP addresses to analyze trends, administer, maintain and improve the Site, and gather broad geolocation information for aggregate use. Your IP address may indicate the city from which you are accessing the Internet, but we do not use your IP address in a manner linked to your personally identifiable information.
@@ -42,4 +42,4 @@ As noted above, we may periodically update this Privacy Policy. For example, we 
 
 **Contact Information**
 
-All inquiries regarding this Privacy Policy should be directed to [legal@kms-technology.com](mailto:legal@kms-technology.com)
+All inquiries regarding this Privacy Policy should be directed to [info@katalon.com](mailto:info@katalon.com).
