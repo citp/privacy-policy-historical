@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the internap.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129093715id_/http%3A//www.internap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internap.com privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507043905id_/http%3A//www.inap.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Internap
+
+Our website uses cookies in order to provide a secure and effective experience. Click [here](https://web.archive.org/privacy-policy/) to learn more. __
 
 This Privacy Policy governs the privacy practices related to the personal information collected through or by Internap Corporation (“INAP”) from visitors and users of this website and the website of iWeb Technologies, Inc. 
 
