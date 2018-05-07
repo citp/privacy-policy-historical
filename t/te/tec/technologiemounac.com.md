@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technologiemounac.com privacy policy that was archived on 2017-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171010193734id_/http%3A//technologiemounac.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technologiemounac.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508000521id_/http%3A//technologiemounac.com/privacy) for the most accurate reproduction.*
 
 # Social2Search.com | Privacy
 
