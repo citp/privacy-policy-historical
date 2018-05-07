@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the finaldraft.com privacy policy that was archived on 2017-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170223094430id_/https%3A//www.finaldraft.com/company/legal/online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finaldraft.com privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507195643id_/https%3A//www.finaldraft.com/company/legal/privacy-policy) for the most accurate reproduction.*
 
-# Online Privacy Policy | Final Draft
-
-#### Online Privacy Policy
-
-**Online Privacy Policy**
+# Online Privacy Policy | Final Draft®
 
 **Last updated  September 12, 2016.**
 
@@ -14,7 +10,7 @@ This document sets forth the Cast & Crew Production  Software, LLC dba Final Dr
 All “personal information” (“personal information” is defined as any information that identifies or can be used to identify, contact or locate the person to whom such information pertains) that we collect and maintain will be subject to the version of the Privacy Policy in effect at the time of such collection.  FD reserves the right to change the Privacy Policy from time to time at its sole discretion, and will provide notice of material changes on the homepages of the Sites. If as the result of such changes, you want to alter the ways in which FD is allowed to use your personal information, you can do so by following the procedure described below in the section entitled “Updating your Personal Information and Privacy Preferences.” You will be deemed to have been made aware of, and will be subject to, the changes to the Privacy Policy by your continued use of the Sites after such notice has been posted for thirty (30) days with the following exception: if at the time you provide personal information to  FD you are given the opportunity (as you currently are) to limit how such information will be used to communicate with you, either by FD or by third parties, FD will not change your preference in this regard without your express consent. However, if FD sells assets (or the assets of a division or subsidiary) to another entity, or FD (or a division or subsidiary) is acquired by or merged with, another entity, FD may provide to such entity customer information that is related to that part of our business that was sold to or merged with the other entity without your consent.
 
 **Entities Collecting Personal Information**  
-Personal information on these Sites is collected by FD. FD’s address is 26707 West Agoura Road, Suite 205, Calabasas, California, 91302 and its telephone number is (818) 995-8995.
+Personal information on these Sites is collected by FD. FD’s address is 2300 W Empire Ave, Burbank, CA 91504 and its telephone number is (818) 995-8995.
 
 These Sites contain links to other sites at which personal information is collected. In such instances, unless expressly provided to the contrary, the collection and use of your personal information will be governed by the privacy policy applicable to that site. That privacy policy should identify the entity that is collecting your personal information.
 
@@ -56,11 +52,11 @@ FD regards software piracy as the crime it is, and we will use all legal means 
 **Updating Your Personal Information and Privacy Preferences**  
 You have the right to correct your personal information and privacy preferences (such as whether you wish to receive promotional communications from FD or third parties) by writing or calling FD at:
 
-Final Draft  Attn: Change of Address/Privacy 26707 West Agoura Rd., Suite 205 Calabasas, CA 91302 USA Telephone Number 818-995-8995
+Final Draft  Attn: Change of Address/Privacy 2300 W Empire Ave Burbank, CA 91504 USA Telephone Number 818-995-8995
 
 Please include your name, address, and/or e-mail address when you contact us. Personal information submitted through these Sites that is not Registration Information is not accessible online. To access and/or correct such information, you may write FD at:
 
-Final Draft  Privacy Officer/Customer Information 26707 West Agoura Rd., Suite 205 Calabasas, CA 91302 USA
+Final Draft  Privacy Officer/Customer Information 2300 W Empire Ave Burbank, CA 91504 USA
 
 In your correspondence, please indicate with as much detail as possible the location on these Sites where you provided your personal information.
 
@@ -72,5 +68,3 @@ In your letter, please describe in as much detail as possible the nature of your
 Please note that if you provide FD with inconsistent privacy preferences (for example, by indicating on one occasion that third parties may contact you with marketing offers and indicating on another occasion that they may not), FD cannot guarantee that your most recent privacy preference will be honored.
 
 Also, please note that FD is not responsible for the content or privacy practices of non-FD Web sites to which these sites or any other FD Web site may link. You should review the privacy policy of such sites before using the sites.
-
-© 2017 Final Draft, A Cast & Crew Entertainment Company. All rights reserved.
