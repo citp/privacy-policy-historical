@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scooterdepot.us privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113175923id_/http%3A//ww43.scooterdepot.us/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scooterdepot.us privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507031113id_/http%3A//ww43.scooterdepot.us/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
