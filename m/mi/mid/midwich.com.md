@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midwich.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615003436id_/http%3A//www.midwich.com/about/tac/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midwich.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508015524id_/https%3A//store.midwich.com/about/tac/privacy_policy) for the most accurate reproduction.*
 
 # Midwich Ltd
 
@@ -42,6 +42,14 @@ We are committed to ensuring that your information is secure.  In order to prev
 
 OTHER WEBSITES  
 Our website may contain links to enable you to visit other websites of interest easily.  However, once you have used these links to leave our site you should note that we do not have any control over that other website.  Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement.  You should exercise caution and look at the privacy statement applicable to the website in question.
+
+Midwich uses a Google remarketing cookie on our website – this allows us to collate lists of visitors who have visited our website, and show tailored, targeted adverts to them at a later date.
+
+Our remarketing activities are limited to the Google Display Network – a network of websites and blogs throughout the Internet. Midwich may show adverts about our services to you if you have previously visited our website and are viewing a website that is part of the Google Display network.
+
+Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the Midwich website. Any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
+
+You may opt out of the remarketing cookie by visiting your Google’s Ad Settings, usually reachable through the following link: <http://www.google.com/settings/>
 
 HOW WE USE COOKIES  
 A cookie is a piece of text which asks permission to be placed on your computer's hard drive.  Once you agree, your browser adds that text in a small file.  A cookie helps analyse web traffic or lets you know when you visit a particular site.  Cookies allow web applications to respond to you as an individual.  The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.  For example, when you visit an electronic store, a cookie makes it easier to shop, by allowing you to place things into a shopping basket; the basket itself is not the cookie, the cookie is placed on your hard drive and keeps track of your basket versus others in use at the same time.  
