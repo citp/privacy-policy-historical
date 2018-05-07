@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tickets.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215182125id_/http%3A//www.tickets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tickets.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508005115id_/http%3A//www.tickets.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Tickets.com
 
@@ -49,11 +49,13 @@ Tickets.com may share personal information to trusted third parties or agents wh
 
 Tickets.com may release your information if, at our sole discretion, we believe the release of your personal information is necessary to (a) comply with a legal obligation such as a court order or subpoena, (b) protect and defend the rights or property of Tickets.com, (c) protect and defend the rights, property or safety of others, or (d) to protect against legal liability. Additionally, your personal information may be shared in the event of a business transfer.
 
-* **Opting-out, Correcting and Updating Your Information**
+* **Opting-out, Accessing, Correcting and Updating Your Information**
 
 Tickets.com utilizes Email as a vital and primary communication channel with registered users of this Site. By providing us with your Email address, you grant to Tickets.com (and its service providers) permission to communicate with you via Email for any purposes Tickets.com determines to be relevant to your use of this Site or your relationship with Tickets.com, including, but not limited to, system messages, product updates, service announcements and other marketing messages. You may opt out of receiving any marketing messages that we may send to you.
 
 Users who do not wish to receive marketing Emails are requested to contact Tickets.com Client Services via Email [(optout@Tickets.com)](mailto:optout@tickets.com). Users are not able to unsubscribe from system messages, product updates and service announcements, which contain important information about service notices and responsibilities. Tickets.com occasionally communicates with its users via Email to provide information about requested services and regarding issues related to their account.
+
+In addition to providing a mechanism for users to opt-out of marketing emails, Tickets.com strives to provide users with access to their personal information. Users can access, update, correct or delete their personal information by logging into their account on the Tickets.com website. In many cases, users may also be able to access, update, correct or delete personal information on Event Host websites. Users may contact Tickets.com via email at [support@tickets.com](mailto:support@tickets.com) should they have any questions regarding accessing, updating, correcting or deleting their personal information.
 
 * **How Long Is Your Personal Information Retained?**
 
@@ -89,12 +91,12 @@ We do not target our Website or our products or merchandise for sale on our Webs
 
 **If you are under the age of 13, please do not submit any personal information to our Website, or ask us to email you. If you are under the age of 18, you should get permission from a parent or guardian before you email our Website, contact our Website, attempt to use our Website, submit information to our Website, or ask us to email you.**
 
-* **California Privacy Rights.**
+* **California Privacy Rights**
 
 California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an E-mail to support@tickets.com or write us:
 
 Tickets.com, LLC  
-555 Anton Boulevard, 11th Floor,  
+535 Anton Boulevard, Suite 250  
 Costa Mesa, California,  
 92626  
 Attn: Legal Department
@@ -110,7 +112,7 @@ Tickets.com and its controlled U.S. subsidiaries (Tickets.com) comply with the E
 In compliance with the Privacy Shield Principles and the U.S.-Swiss Safe Harbor Framework, Tickets.com commits to resolve complaints about our collection or use of your personal information. European Union and Swiss individuals with inquiries or complaints regarding our Privacy Shield or Safe Harbor policies should first contact Tickets.com at:
 
 Tickets.com, LLC  
-555 Anton Boulevard, 11th Floor,   
+535 Anton Boulevard, Suite 250  
 Costa Mesa, California,   
 92626  
 Attn: Legal Department  
@@ -120,19 +122,14 @@ Tickets.com has further committed to refer unresolved Privacy Shield and Safe Ha
 
 As further explained in the Privacy Shield Principles, a binding arbitration option will also be made available to you in order to address residual complaints not resolved by any other means. Tickets.com is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
 
-* **Changes to Privacy Policy.**
-
-Tickets.com reserves the right to change this Privacy Policy from time to time. The most current version of the policy will govern our use of your personal information. In the event that Tickets.com, at its sole discretion, determines that updates to the Privacy Policy constitute a material change, we may inform you of such changes in a notice published via the Services or send an email to the email address associated with your User account. Notwithstanding the foregoing, Tickets.com is under no obligation to notify a User regarding changes to this policy, and thus Users should periodically visit this page to review the then current Policy to which you are bound.
-
-* **Questions.**
-
-If you have any questions about the information that we collect on this site, your privacy or our security measures, please contact us at:
+* **Changes to Privacy Policy.**    Tickets.com reserves the right to change this Privacy Policy from time to time. The most current version of the policy will govern our use of your personal information. In the event that Tickets.com, at its sole discretion, determines that updates to the Privacy Policy constitute a material change, we may inform you of such changes in a notice published via the Services or send an email to the email address associated with your User account. Notwithstanding the foregoing, Tickets.com is under no obligation to notify a User regarding changes to this policy, and thus Users should periodically visit this page to review the then current Policy to which you are bound.
+* **Questions.**    If you have any questions about the information that we collect on this site, your privacy or our security measures, please contact us at:
 
 Tickets.com, LLC  
-555 Anton Boulevard, 11th Floor,  
+535 Anton Boulevard, Suite 250  
 Costa Mesa, California,  
 92626  
 Attn: Legal Department  
 support@tickets.com
 
-Last modified: September 30, 2016 
+Last modified: January 26, 2017 
