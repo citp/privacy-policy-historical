@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jihosoft.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120002712id_/http%3A//www.jihosoft.com/help/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jihosoft.com privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507130409id_/http%3A//www.jihosoft.com/help/privacy-policy.html) for the most accurate reproduction.*
 
 # Jihosoft Customer Privacy Policy
 
@@ -27,5 +27,3 @@ We intend to protect your personal information and maintain its quality. We impl
 ### Anti-malware statement
 
 Jihosoft STRONGLY OPPPOSES all forms of malware. Jihosoft applications will never intentionally jeopardize our customers’ privacy or security. All applications are designed to be easily removable from the computer through an uninstall utility. Jihosoft does not employ the use of reinstallers and avoids all features that may be found in any type of malware. No Jihosoft application is designed to collect any personally identifiable information from any user. Jihosoft applications do not contain, nor are they bundled with, any third party applications (spyware, adware, malware, etc.) that would jeopardize our customers’ security or their privacy. All Jihosoft applications pass both Kaspersky and Rising vigorous anti-virus/malware tests before public release.
-
-[comments powered by ](http://disqus.com/)
