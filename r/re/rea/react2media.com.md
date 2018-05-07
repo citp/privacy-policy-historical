@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the react2media.com privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104060724id_/http%3A//www.react2media.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the react2media.com privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507052122id_/http%3A//www.react2media.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -62,7 +62,7 @@ Company encourages third-parties to adopt and post privacy policies. However, th
 
 **For more on how your information may be used by Company and/or third-parties, please see Section 3, below.**
 
-YOU MAY OPT-OUT OF RECEIVING ANY PROMOTIONAL COMMUNICATIONS FROM US BY CHOOSING NOT TO SUBMIT YOUR PERSONAL INFORMATION. IF YOU HAVE ALREADY SUBMITTED YOUR PERSONAL INFORMATION TO US AND WISH TO OPT-OUT AT A LATER DATE, YOU MAY DO SO BY WRITING US AT React2Media LLC, 35 West 36th Street Suite 4E. New York, NY 10018 BY CONTACTING US VIA EMAIL AT [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) WITH THE SUBJECT LINE “UNSUBSCRIBE”, OR BY FOLLOWING THE INSTRUCTIONS IN THE COMMUNICATIONS THAT YOU RECEIVE. YOU MAY STILL CONTINUE TO RECEIVE TRANSACTIONAL/ADMINISTRATIVE NOTICES, AS NEEDED TO SERVICE YOUR ACCOUNT. USE OF YOUR PERSONAL INFORMATION BY THIRD-PARTIES IS GOVERNED BY THE PRIVACY POLICIES OF SUCH PARTIES AND IS NOT SUBJECT TO OUR CONTROL. IF YOU HAVE ANY QUESTIONS OR WISH TO REMOVE YOUR PERSONAL INFORMATION FROM A THIRD-PARTY’S DATABASE, YOU WILL NEED TO REVIEW THE RELEVANT THIRD-PARTY PRIVACY POLICY AND CONTACT THAT THIRD-PARTY DIRECTLY.
+YOU MAY OPT-OUT OF RECEIVING ANY PROMOTIONAL COMMUNICATIONS FROM US BY CHOOSING NOT TO SUBMIT YOUR PERSONAL INFORMATION. IF YOU HAVE ALREADY SUBMITTED YOUR PERSONAL INFORMATION TO US AND WISH TO OPT-OUT AT A LATER DATE, YOU MAY DO SO BY WRITING US AT React2Media LLC, 35 West 36th Street Suite 4E. New York, NY 10018 BY CONTACTING US VIA EMAIL AT INFO@REACT2MEDIA.COM WITH THE SUBJECT LINE “UNSUBSCRIBE”, OR BY FOLLOWING THE INSTRUCTIONS IN THE COMMUNICATIONS THAT YOU RECEIVE. YOU MAY STILL CONTINUE TO RECEIVE TRANSACTIONAL/ADMINISTRATIVE NOTICES, AS NEEDED TO SERVICE YOUR ACCOUNT. USE OF YOUR PERSONAL INFORMATION BY THIRD-PARTIES IS GOVERNED BY THE PRIVACY POLICIES OF SUCH PARTIES AND IS NOT SUBJECT TO OUR CONTROL. IF YOU HAVE ANY QUESTIONS OR WISH TO REMOVE YOUR PERSONAL INFORMATION FROM A THIRD-PARTY’S DATABASE, YOU WILL NEED TO REVIEW THE RELEVANT THIRD-PARTY PRIVACY POLICY AND CONTACT THAT THIRD-PARTY DIRECTLY.
 
 ### 3\. Email and Telemarketing.
 
@@ -152,12 +152,12 @@ Company strives to keep all PII accurate and complete. You are always fully in c
 
 To prevent unauthorized access, maintain data accuracy and ensure the correct use of information we gather online, we store your personally identifiable information in a database on secure systems. We have put in place physical, electronic and managerial security procedures to protect against the loss, misuse and alteration of the information under our control.
 
-If you have any inquiries regarding our privacy practices, believe that we have not complied with this Privacy Policy, or would like to access and modify your PII, please contact us, please review our Privacy Policy or contact us via email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or by writing to us at:
+If you have any inquiries regarding our privacy practices, believe that we have not complied with this Privacy Policy, or would like to access and modify your PII, please contact us, please review our Privacy Policy or contact us via email at info@react2media.com or by writing to us at:
 
 React2Media LLC  
 35 West 36th Street, Suite 4E  
 New York, NY 10018
 
-California residents may also file grievances and complaints with California Department of Consumer Affairs via mail at 400 R Street, Suite 1080, Sacramento, CA 95814 or by phone at 916-445-1254 or 800-952-5210 or by email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+California residents may also file grievances and complaints with California Department of Consumer Affairs via mail at 400 R Street, Suite 1080, Sacramento, CA 95814 or by phone at 916-445-1254 or 800-952-5210 or by email to dca@dca.ca.gov.
 
 EFFECTIVE: 5/18/2017 
