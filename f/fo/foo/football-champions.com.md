@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the football-champions.com privacy policy that was archived on 2017-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171106092622id_/https%3A//www.sweetnitro.com/en/policy.php%3Fsite%3Dfs) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the football-champions.com privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507073051id_/https%3A//www.sweetnitro.com/en/policy.php%3Fsite%3Dfs) for the most accurate reproduction.*
 
 # Football Champions - Sweet Nitro
 
@@ -65,11 +65,11 @@ You have the right to information regarding your stored personal data, its origi
 
 ## Further Information
 
-Your trust is important to us. Therefore, we will answer any of your questions regarding the processing of your person-related data. If you have questions that were not addressed in this declaration of data protection, please contact our data protection representative at any time via our [contact form](https://web.archive.org/web/20171106092622id_/https%3A//www.sweetnitro.com/en/contact.php). 
+Your trust is important to us. Therefore, we will answer any of your questions regarding the processing of your person-related data. If you have questions that were not addressed in this declaration of data protection, please contact our data protection representative at any time via our [contact form](https://web.archive.org/web/20180507073051id_/https%3A//www.sweetnitro.com/en/contact.php). 
 
 ## Children
 
-We do not knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should [contact us](https://web.archive.org/web/20171106092622id_/https%3A//www.sweetnitro.com/en/contact.php). We will delete such information from our files within a reasonable time. 
+We do not knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should [contact us](https://web.archive.org/web/20180507073051id_/https%3A//www.sweetnitro.com/en/contact.php). We will delete such information from our files within a reasonable time. 
 
 ## Updates to this policy
 
