@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the dlife.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228065347id_/http%3A//dlife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dlife.com privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507124133id_/http%3A//dlife.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - dLife.com - It's Your Diabetes Life - dLife
+# Privacy Policy - dLife.com - It's Your Diabetes Life | dLife
+
+## Privacy Policy – dLife.com – It’s Your Diabetes Life
 
 dLife values the privacy of all of our users. We take very seriously the need to respect and protect your privacy and the security of the information you share with us. This privacy policy is intended to inform you about how your personally identifiable information (“PII”) and other information is collected on dLife ([www.dLife.com](http://www.dlife.com/),) and used by us in operating the Website.
 
@@ -116,10 +118,3 @@ Your access to and use of the Site requires acceptance of dLife’s User agreeme
 Last Modified Date: August 10, 2017
 
 All content on dLife.com is created and reviewed in compliance with our  _editorial policy_
-
-Privacy Policy – dLife.com – It’s Your Diabetes Life
-
-3.2 (64.29%) 14 votes 
-
-  
-
