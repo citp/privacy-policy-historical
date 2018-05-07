@@ -1,88 +1,153 @@
-> *The following text is extracted and transformed from the freesupertips.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230155547id_/http%3A//www.freesupertips.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freesupertips.com privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507154919id_/http%3A//www.freesupertips.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Super Tips
 
-This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in the UK Data Protection Act (1998), is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+About this privacy policy  
+This policy sets out how we will use and share the information that you give us.
 
- **What information do we collect?**
+freesupertips is a trading name of Apsley Group International Ltd which is registered in England with company number 08774926 and has its registered ofce at 8-10 Whiteladies Road, Bristol, BS8 1PD. Apsley Group International Ltd is registered with the Information Commissioner’s Office under the Data Protection Act 1998; its registration number is ZA296667. When we refer to “we”, “us”, or “freesupertips” we are referring to this company.
 
-Registration is mandatory in order to be able to use the basic features of the mobile app, but unregistered users may use the website. When you register an account on freesupertips you will be asked to enter your Name, Email address or other details to help you with your experience.
+You can get in touch with us in any of the following ways:
 
-We may also use the information you provided us to contact your from time to time to provide you with important information, required notices and marketing promotions.
+ **By email:  info@freesupertips.co.uk**
 
-Facebook login is used to enhance the user’s experience – the only information we use is your email address to create your user account and your publicly visible profile. The app may not post to Facebook without your prior permission (such as to share results) nor do we have access to your contact list, messages, etc.
+By post: Consumer Queries, Apsley Group International Ltd, 8-10 Whiteladies Road, Bristol, BS8 1PD.
 
- _ **How do we use your information?**_
+ **Who and what this privacy policy applies to**
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+This policy applies to individuals who have registered with freesupertips. This policy applies to the information about yourself that you choose to provide us with. This includes:
 
-• To personalize user’s experience and to allow us to deliver the type of content and product offerings in which you are most interested.  
-• To allow us to better service you in responding to your customer service requests.  
-• To administer a contest, promotion, survey or other site feature.  
-• To send you an email newsletter. You may choose to opt out of this newsletter at any time by clicking unsubscribe.
+information you provide during the registration process, such as your name, and your contact details,
 
-We also use your location (after you have given us permission) to confirm that you are located within the UK and Ireland.
+information you provide when you enter prize draws, quizzes, competitions or answer surveys, such as information about your lifestyle including your favourite sports, interests and gambling habits,
 
- ** _How do we protect visitor information?_**
+information which we may obtain about you from third parties (for example, because you have given third parties permission to share that information with us), information we collect about how you use the website.
 
-We only provide articles and information, and we never ask for personal or private information such as bank details, credit or debit card numbers, etc.
+ **Our obligations**
 
-The information we do store on visitors will not be shared with unassociated third parties.
+We are a data controller in relation to the information that you provide us with. As a result, we are legally responsible for how that information is handled.
 
- ** _Cookie Policy_**
+We will comply with the Data Protection Act 1998 in the way we use your personal data. Among other things, this means that we will only use your personal data:
 
-We collect anonymous statistics regarding each user’s visits, such as which pages on the website were viewed and for how long. This information can’t be linked back to any specific individual and is collected via Google Analytics. If you wish to opt out of Google Analytics you can do so [here](https://tools.google.com/dlpage/gaoptout), or you can learn more about it [here](https://support.google.com/analytics/answer/6004245).
+  * fairly, lawfully and transparently,
+  * as set out in the legislation and this policy,
+  * to the extent necessary for these purposes.
 
-Facebook and Twitter may use cookies to track that you are logged in and allow for sharing of our articles. We do not have any access to this information.
 
-We don’t share any cookie data with 3rd parties apart from where it is necessary for the smooth running of our website, and it will still remain anonymous
 
-By registering to our app, you will be signed up to our newsletter. You will be free to unsubscribe at any time.
+We may process your personal data ourselves or through data processors who will process data on our behalf. If we use data processors, we will remain responsible for ensuring that they comply with this policy and data protection law.
 
- ** _Third Party Disclosure_**
+We will take every reasonable precaution to safeguard the personal information that you supply.
 
-We do not sell, trade, or otherwise transfer Personally Identifiable Information in most situations. If the company is involved in a merger, acquisition or sale, you will be on our website of the change of ownership and of the uses of information. We may disclose your information as required by law, where in good faith it is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
+If you have any requests concerning your personal information or any queries about our privacy policy, website or service, please contact us using the details given above.
 
- ** _Data Collection and Advertising_**
+ **What we will use your data for**
 
-We may work with analytics companies to help us understand how the Application is being used, such as the frequency and duration of usage. This helps us keep the app free and to deliver adverts to you which are relevant and enhance your user experience.
+We may use your information to provide you with information or newsletters that you have requested.
 
- ** _Third party links_**
+Where you have subscribed to our newsletter or have entered a competition you would have consent to us processing your data by submitting your personal data on this site, whether in those elds marked mandatory or otherwise.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+You are afrming your consent for such information to be used in accordance with this Privacy Policy. You will be able to withdraw that consent at any time by the methods described below.
 
- ** _Google_**
+By continuing to use this website you have consented to information being collected from your device by cookies or other similar technologies, for the purposes described in this Privacy Policy, including the display of targeted advertising based on the information provided.
 
-We have not enabled Google Adwords on our site but we may do so in the future.
+ **Opting out at a later date**
 
- ** _Other_**
+Once you have given your consent, you can however still control whether or not you continue to receive communications. You can unsubscribe from receiving e-mail marketing or newsletter communications by using the instructions in any email communication we send you which will be an ‘unsubscribe‘ or ‘STOP‘ link.
 
-Users will be notified of any privacy policy changes:  
-• On our Privacy Policy Page
+ **Legitimate Interests**
 
-Users are able to change their personal information:  
-• By logging in to their account
+We have a legitimate interest to process this data for the general running of our business including for transfer to our processors and for analysis.
 
- ** _How does our site handle do not track signals?_**
+ **Retention and destruction of personal information**
 
-We honor them and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+We will take reasonable steps to ensure the accuracy of the information we hold about you. We will not use your personal information unless it is (to the best of our knowledge) accurate and up to date.
 
- _ **Does our site allow third party behavioral tracking?**_
+We will not keep your personal information for longer than necessary. Once it has been decided that the information is no longer needed, it will be deleted promptly. Typical timescales are shown below.
 
-We do allow third party behavioral tracking to help develop the site and improve features and functionality on offer.
+  * for newsletters this will normally be three months after you have unsubscribed from these newsletters.
+  * for competitions this will normally be six months following the end of the competition.
 
- ** _Fair Information Practices_**
 
-In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:
 
-We will notify the users via email
+ **Your choices in relation to personal information**
 
-• Within 7 business days
+You have the right to:
 
-We agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors
+  * obtain access to your personal information,
+  * receive information about us and the purposes for which we process your personal data,
+  * The right to port your information to another service or to yourself
+  * prevent processing which may cause you damage or distress,
+  * object to direct marketing,
+  * ask us to correct any errors or delete the information we hold, opt out of further contact.
 
- ** _Contact Information_**
 
-freesupertips.co.uk
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you would like to amend or delete your details or contact us in relation to the use of your personal information, please contact using this email: info@freesupertips.co.uk
+
+ **Disclosure of your information**
+
+We may process your personal data ourselves or through data processors who will process data on our behalf. These organisations may fall into the following categories;
+
+  * marketing agencies who help us promote ourselves or deliver our services,
+  * e-mail service providers who help us to send our newsletters and communications with you have requested from us.
+
+
+
+If our business (or a signicant part of it) is offered for sale, your personal information may be given to the prospective buyer, who will be able to use it to help them evaluate the proposed sale. If the sale is completed, the buyer will be able to continue using your information in accordance with this privacy policy.
+
+We will also disclose your personal data if we are under a legal obligation to do so.
+
+ **International transfer**
+
+We will not transfer your personal data outside of the EEA.
+
+ **Security**
+
+Unfortunately, the transmission of data over the internet is not completely secure. Although we will do our best to protect your personal information, we cannot guarantee its security. Once we have received your data we will use strict security measures to try to protect it against loss, misuse, or unauthorised alterations.
+
+We will also require any third parties with whom we share your information to keep the information secure.
+
+ **Cookies**
+
+We collect anonymous statistics regarding each user’s visits, such as which pages on the website were viewed and for how long. This information can’t be linked back to any specic individual and is collected via Google Analytics. If you wish to opt out of Google Analytics you can do so here, or you can learn more about it here.
+
+Facebook and Twitter may use cookies to track that you are logged in and allow for sharing of our articles. We do not have any access to this information. You can congure your advertising preferences on social media such as Facebook, Twitter, Instagram or Pinterest by accessing your settings or preference options on the relevant platform.
+
+Most web browsers allow some control of most cookies through the browser settings. For more information on this, and more information about cookies in general, you may wish to visit www.aboutcookies.org. For information about how to delete cookies from your mobile phone you will need to refer to your handset manual. Please be aware that restricting cookies is likely to impact on your ability to use our website effectively and may make areas of our website inaccessible or inoperable.
+
+If you no longer want to receive personalized advertising on any website you visit, you can usually opt-out directly through the privacy policy of the particular website you are accessing. Please note that this will not block ads that are displayed on the websites you visit, it will simply stop you receiving advertising that has been tailored to your interests. This opt-out relies on a cookie, so if you wipe all your cookies then that website will no longer know that you have opted out. The same applies if you use a different internet browser, or use a new computer to access the internet. You can also opt-out of such advertising by visiting the IAB opt-out platform at www.youronlinechoices.com. Please note that this and other platforms allow you to optout of interest-based advertising delivered by registered members.
+
+The cookies we use are as follows:
+
+ **Name Purpose More Information**
+
+Google Analytics we use Google Analytics for tracking purposes
+
+Twitter Analytics we use Twitter Analytics for tracking purposes
+
+Sumo Analytics we use Sumo for tracking purposes
+
+Cloudare Security, cache storage Cloudare cookies help optimise the website  and maintain security
+
+cookieFB holds the ID of a featured bet used to perform a check to see if the user has  already seen and closed the featured bet modal seen
+
+Offers stores an array containing bet used to display a notification of bets that the  ID’s that the user has user hasn’t seen previously seen
+
+ **Changes**
+
+We may change the terms of this privacy policy from time to time. Any changes will be posted on this page.
+
+ **Contacting us, exercising your information rights and complaints**
+
+If you any questions or comments about this Privacy Policy, wish to exercise your information rights in connection with the personal data you have shared with us or wish to complain, please contact:
+
+By email: info@freesupertips.co.uk
+
+By post: Consumer Queries, Apsley Group International Ltd, 8-10 Whiteladies Road, Bristol, BS8 1PD.
+
+You also have the right to complain to the Information Commissioner’s Ofce if you believe we have not acted within the law or have infringed your rights.
+
+https://ico.org.uk/for-the-public/
+
+https://ico.org.uk/global/contact-us/
