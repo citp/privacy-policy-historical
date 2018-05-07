@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etrafficlane.com privacy policy that was archived on 2017-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170924001137id_/http%3A//etrafficlane.com/Privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etrafficlane.com privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507060437id_/http%3A//etrafficlane.com/Privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
