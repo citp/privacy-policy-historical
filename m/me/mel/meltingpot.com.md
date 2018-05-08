@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meltingpot.com privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530132436id_/https%3A//www.meltingpot.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meltingpot.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508215348id_/https%3A//www.meltingpot.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
