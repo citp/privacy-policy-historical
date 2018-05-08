@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxstat.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215130638id_/http%3A//www.fxstat.com/terms/PRIVACY_POLICY.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxstat.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508224510id_/http%3A//www.fxstat.com/terms/PRIVACY_POLICY.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
