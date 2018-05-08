@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addtext.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221074954id_/http%3A//addtext.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addtext.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508192138id_/http%3A//addtext.com/privacy) for the most accurate reproduction.*
 
 # AddText — Captions for your photos, quick and easy
 
@@ -32,9 +32,9 @@ If we add user accounts or payment options, we will update this section to let y
 
 ### Third Party Advertisers
 
-This site uses the services of Google, CasaleMedia, ValueClick, Tribal Fusion and other third parties to serve advertisements for promotions and other marketing messages when you visit our site. These companies may use information about your visits to this and other Web sites in order to target advertisements for goods and services that are of interest to you. If you would like more information about this practice, including your choices about not having this information used by these companies, please visit [Google](http://www.google.com/policies/technologies/ads/), [ValueClick](http://www.valueclickmedia.com/about/privacy), [Casale Media](http://casalemedia.com/privacy/). [Exponential (Tribal Fusion)](http://www.exponential.com/about-us/privacy.html). 
+This site uses the services of Google, CasaleMedia, ValueClick, Tribal Fusion and other third parties to serve advertisements for promotions and other marketing messages when you visit our site. These companies may use information about your visits to this and other Web sites in order to target advertisements for goods and services that are of interest to you. If you would like more information about this practice, including your choices about not having this information used by these companies, please visit [Google](https://www.google.com/policies/technologies/ads/), [ValueClick](https://www.valueclickmedia.com/about/privacy), [Casale Media](https://casalemedia.com/privacy/). [Exponential (Tribal Fusion)](https://www.exponential.com/about-us/privacy.html). 
 
-You can opt-out of most advertising at the [NAI Gateway](http://www.networkadvertising.org/managing/opt_out.asp). 
+You can opt-out of most advertising at the [NAI Gateway](https://www.networkadvertising.org/managing/opt_out.asp). 
 
 ### Cookies
 
@@ -46,4 +46,4 @@ Some of our business partners may use cookies on our site (for example, advertis
 
 This web site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
 
-**If you feel that we are not abiding by this privacy policy or if you have questions about this policy or suggestions on how to make it better, please[contact us](http://www.flamingtext.com/contactus/).**
+**If you feel that we are not abiding by this privacy policy or if you have questions about this policy or suggestions on how to make it better, please[contact us](https://www.flamingtext.com/contactus/).**
