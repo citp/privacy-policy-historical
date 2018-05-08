@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zenra.net privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101195550id_/https%3A//www.zenra.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenra.net privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508153728id_/http%3A//www.zenra.net/privacy.htm) for the most accurate reproduction.*
 
 # ZENRA Privacy Policy
 
@@ -217,7 +217,7 @@ The Company strives to provide you with choices about the personal information y
 
 
 
-[You may also change user settings](https://web.archive.org/web/20171101195550id_/https%3A//www.zenra.net/contact.htm) to request access to, correct, or delete any personal information that you have provided to the Company. The Company cannot delete your personal information except by also deleting your account. The Company will not accommodate a request to change information if it believes the change would violate any law or legal requirement or cause the information to be incorrect. The Website’s terms of use govern proper access and use of information provided on the Website, including user contributions.
+[You may also change user settings](https://web.archive.org/web/20180508153728id_/http%3A//www.zenra.net/contact.htm) to request access to, correct, or delete any personal information that you have provided to the Company. The Company cannot delete your personal information except by also deleting your account. The Company will not accommodate a request to change information if it believes the change would violate any law or legal requirement or cause the information to be incorrect. The Website’s terms of use govern proper access and use of information provided on the Website, including user contributions.
 
   1. **How does the Company protect your personal information?**
 
@@ -249,7 +249,7 @@ Do Not Track (“DNT”) is a privacy preference that you can set in your browse
 
 
 
-California Civil Code § 1798.83 permits users of the Website that are California residents to request certain information about the Company’s disclosure of personal information to third parties for their direct marketing purposes. To make this request, please [click here](https://web.archive.org/web/20171101195550id_/https%3A//www.zenra.net/contact.htm).
+California Civil Code § 1798.83 permits users of the Website that are California residents to request certain information about the Company’s disclosure of personal information to third parties for their direct marketing purposes. To make this request, please [click here](https://web.archive.org/web/20180508153728id_/http%3A//www.zenra.net/contact.htm).
 
 Further, if you are a California resident and would like to opt out from the disclosure of your personal information to any third party for marketing purposes, please change user settings at [contact.htm]. Please be advised that if you opt out from permitting your personal information to be shared, you may still receive selected officers directly from the Company in accordance with California law.
 
@@ -279,4 +279,4 @@ The Company will post any changes it makes to this policy on this page. If the C
 
 
 
-To ask questions or comment about this policy and the Company’s privacy practices, [contact the Company](https://web.archive.org/web/20171101195550id_/https%3A//www.zenra.net/contact.htm).
+To ask questions or comment about this policy and the Company’s privacy practices, [contact the Company](https://web.archive.org/web/20180508153728id_/http%3A//www.zenra.net/contact.htm).
