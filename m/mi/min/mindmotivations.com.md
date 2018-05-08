@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindmotivations.com privacy policy that was archived on 2017-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170330132159id_/http%3A//mindmotivations.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindmotivations.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508135835id_/https%3A//www.mindmotivations.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mind Motivations
 
