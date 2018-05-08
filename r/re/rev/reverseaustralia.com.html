@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the reverseaustralia.com privacy policy that was archived on 2017-03-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170323210259id_/http%3A//www.reverseaustralia.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the reverseaustralia.com privacy policy that was archived on 2018-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180508204042id_/https%3A//www.reverseaustralia.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" data-placeholder-focus="false"><head>
 <meta charset="utf-8">
@@ -19,21 +19,21 @@ googletag.cmd = googletag.cmd || [];
 })();
 </script>
 
-<meta name="description" content="Free Australian reverse phone lookup service. Find any listed or unlisted mobile phone or land line in Australia. Simple reverse lookup, great for identifying missed calls.">
-<meta http-equiv="content-language" content="en-au">
-<meta property="og:image" content="http://c87560.r60.cf2.rackcdn.com/logo.png">
+<meta name="description" content="Free Australia reverse phone lookup service. Find any listed or unlisted mobile phone or land line in Australia. Simple reverse lookup, great for identifying missed calls.">
+<meta http-equiv="content-language" content="en-us">
+<meta property="og:image" content="/images/logo-au.png">
 <meta name="robots" content="noarchive">
 <meta name="viewport" content="width=320, user-scalable=no">
 <meta name="format-detection" content="telephone=no">
 
 
 <!--[if gte IE 9]><!-->
-<link rel="stylesheet" type="text/css" href="/css/global.css?a=1441352265">
+<link rel="stylesheet" type="text/css" href="/css/global.css?a=1506869517">
 <!--<![endif]-->
 
 
 <!--[if lte IE 8]>
-<link rel="stylesheet" type="text/css" href="/css/global.css?a=1441352265&minwidth=800" id="ie-media-query" />
+<link rel="stylesheet" type="text/css" href="/css/global.css?a=1506869517&minwidth=800" id="ie-media-query" />
 <script>
 loadCss();
 function loadCss(){
@@ -41,10 +41,10 @@ function loadCss(){
 	globalCss = $('#ie-media-query');
 
 	if (windowWidth >= 1600)
-		globalCss.attr('href','/css/global.css?a=1441352265&minwidth=1600');
+		globalCss.attr('href','/css/global.css?a=1506869517&minwidth=1600');
 	
 	else if (windowWidth >= 1280 && windowWidth < 1600)
-		globalCss.attr('href','/css/global.css?a=1441352265&minwidth=1280');
+		globalCss.attr('href','/css/global.css?a=1506869517&minwidth=1280');
 
 }
 </script>
@@ -99,12 +99,13 @@ function complaintSubmit()
 {
 	var phone = $('#comment-form input[name$="phone"]').val();
 	var name = $('#comment-form input[name$="name"]').val();
+	var caller = $('#comment-form input[name$="caller"]').val();
 	var msg = $('#comment-form textarea[name$="msg"]').val();
 	var type = $('#comment-form select[name$="type"]').val();
-	if (name == '' || msg == '') {
-		alert('All fields are required');
+	if (msg == '') {
+		alert('A comment is required');
 	} else {
-		$.post('/reportComplaint.php', { 'name' : name, 'msg' : msg, 'type' : type, 'phone' : phone } );
+		$.post('/reportComplaint.php', { 'name' : name, 'msg' : msg, 'type' : type, 'phone' : phone, 'caller': caller } );
 		$('#comment-form').html('<h2>Thanks for your comment, there may be a delay before it appears on this page.</h2>');
 	}
 	return false;
@@ -156,17 +157,8 @@ FB.Event.subscribe('auth.logout', function(response)
 
 
 
-<meta name="google-play-app" content="app-id=org.reverseaustralia.android.whocalledme">
-<link rel="stylesheet" href="/images/jquery.smartbanner.css" type="text/css" media="screen">
-<script src="/js/jquery.smartbanner.js"></script>
-<script type="text/javascript">
-	$(function() { $.smartbanner({
-		icon: 'https://lh5.ggpht.com/tSau2vkKfnbcXpnURInsZ1nW13T-gDz5fu3btUU0fLPIPR7CjejXFzcjLxjAm2-qDw=h150-rw',
-		title: 'Who Called Me?',
-		author: 'Reverse Australia',
-		daysHidden: 7
-	}) } );
-</script>
+
+
 </head>
 <body>
 
@@ -181,8 +173,6 @@ FB.Event.subscribe('auth.logout', function(response)
 			<div class="margin-top-5 margin-left-10 right"><span class="font-color-orange">Need an account?</span> <a href="/register.php" class="font-color-blue">Register here</a> | <a href="/login.php">Login</a></div>
 			<div class="margin-top-5 right">
 				<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.reverseaustralia.com%2F&amp;width=380&amp;layout=standard&amp;action=like&amp;show_faces=false&amp;share=true&amp;height=30" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:380px; height:30px; float: right;" allowtransparency="true"></iframe>
-				<iframe allowtransparency="true" frameborder="0" scrolling="no" src="https://platform.twitter.com/widgets/tweet_button.html" style="width:120px; height:20px; float: right;"></iframe>
-				<iframe src="https://plusone.google.com/_/+1/fastbutton?bsv&amp;size=medium&amp;hl=en-US&amp;url=http://www.reverseaustralia.com/&amp;parent=http://www.reverseaustralia.com/" allowtransparency="true" frameborder="0" scrolling="no" title="+1" style="float:right; width:120px"></iframe>
 			</div>
 			<div class="clear"></div>
 		</div>
@@ -196,7 +186,7 @@ FB.Event.subscribe('auth.logout', function(response)
 						<ul class="center list-nostyle list-linear">
 				<li><a href="/">Home</a></li>
 				<li><a href="/about.php">About Us</a></li>
-				<li><a href="http://www.reversedatablog.com/" target="_blank">Blog</a></li>
+
 				<li class="last-child"><a href="/contact.php">Contact Us</a></li>
 							</ul>
 			<div class="clear"></div>
@@ -206,6 +196,8 @@ FB.Event.subscribe('auth.logout', function(response)
 	</div>
 	
 	</header><!--/ #page-header -->
+
+
 
 <section id="search" class="wrap-main center margin-top-10">
 	<form action="/search.php" method="post" onsubmit="return searchSubmit();">
@@ -357,18 +349,17 @@ FB.Event.subscribe('auth.logout', function(response)
 			<strong class="font-color-orange font-large margin-bottom-10 show">LINKS</strong>
 			<ul class="list-nostyle">
 				<li class="first-child"><a href="/">Who Called Me</a></li>
-				<li><a href="/igoogle/">iGoogle Gadget</a></li>				<li><a href="https://plus.google.com/103387407298271454521" target="_blank">Reverse Australia on G+</a></li>
-								<li><a href="/about.php">About us</a></li>
-			</ul>
+				<li><a href="/igoogle/">iGoogle Gadget</a></li>							</ul>
 		</div>
 		
 		<div class="footer-group width-20 margin-right-10 left">
 			<strong class="font-color-orange font-large margin-bottom-10 show">RESOURCES</strong>
 			<ul class="list-nostyle">
-				<li class="first-child"><a href="http://www.reversedatablog.com/" target="_blank">Blog and News</a></li>
-				<li><a href="/developer/">Developer Tools</a></li>
+				<li class="first-child"><a href="/developer/">Developer Tools</a></li>
 									<li><a href="/complaints/">Caller Complaints</a></li>
-					<li><a href="/directory/">Phone Directory</a></li>											</ul>
+					<li><a href="/directory/">Phone Directory</a></li>								<li><a href="/about.php">About us</a></li>
+				
+			</ul>
 		</div>
 		
 		<div class="footer-group width-20 margin-right-10 left">
@@ -381,7 +372,7 @@ FB.Event.subscribe('auth.logout', function(response)
 		</div>
 		
 		<div id="footer-copyright" class="footer-group width-37 left">
-			© 2017 Reverse Australia - We assume no responsibility for the accuracy, integrity, quality, completeness, usefulness or value of anything on this site.
+			© 2018 Reverse Australia - We assume no responsibility for the accuracy, integrity, quality, completeness, usefulness or value of anything on this site.
 		</div>
 		
 		<div class="clear"></div>
