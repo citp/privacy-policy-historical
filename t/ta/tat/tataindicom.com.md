@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tataindicom.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208150155id_/http%3A//www.tataindicom.com/downloads/data-privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tataindicom.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508080231id_/http%3A//www.tataindicom.com/downloads/data-privacy-policy.pdf) for the most accurate reproduction.*
 
 # 
 
