@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trovegame.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231051913id_/http%3A//www.trionworlds.com/en/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trovegame.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508195916id_/https%3A//www.trionworlds.com/en/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Trion Worlds, Inc.
 
