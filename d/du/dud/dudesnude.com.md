@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dudesnude.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120174049id_/http%3A//dudesnude.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dudesnude.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508183154id_/http%3A//www.dudesnude.com/privacy.php) for the most accurate reproduction.*
 
 # dudes nude | privacy policy
 
-[](http://www.dudesnude.com/warning.php)
+[](https://dudesnude.com/warning.php)
 
 dudesnude privacy policy
 
@@ -78,6 +78,6 @@ We secure your personal information submitted by you by using reasonable efforts
 **How Can You Choose Not to Receive Information About Products or Services By Us or to Correct, Delete or Access Your Information**  
 If you desire not to receive web site informational emails or if you wish to access, delete or correct you information, please log in to the site and amend your settings accordingly or send us an email to 
 
-[dn_support4@dudesnude.com](mailto:dn_support4@dudesnude.com)
+[dn_support5@dudesnude.com](mailto:dn_support5@dudesnude.com)
 
 YOUR USE OF OUR SITE MEANS THAT YOU ARE ACCEPT THE PRACTICES SET FORTH IN THIS POLICY. WE RESERVE THE RIGHT TO MAKE CHANGES TO THE POLICY BY POSTING THE NEW VERSION WITH A NEW EFFECTIVE DATE. YOUR CONTINUED USE INDICATES YOUR AGREEMENT TO THE CHANGES. 
