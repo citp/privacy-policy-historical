@@ -1,112 +1,121 @@
-<!--The following is the downloaded HTML source of the alot.com privacy policy that was archived on 2016-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161226143628id_/http%3A//alot.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alot.com privacy policy that was archived on 2018-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180508081037id_/http%3A//alot.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=""><!--<![endif]--><head>
-
     <title>Privacy</title>
-    <script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="//assets.alot.com/assets/common/js/prebid.js" async=""></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, minimum-scale=1, user-scalable=no">
+    <script src="https://s.yimg.com/wi/ytc.js" async=""></script><script src="//bat.bing.com/bat.js" async=""></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="//assets.alot.com/assets/common/js/prebid.js" async=""></script>
     <script>
-    var PREBID_TIMEOUT = 800;
+        var PREBID_TIMEOUT = 900;
 
-    var adUnits = [];
-    function setupPrebidAdUnit(adUnits, divTag, sizes, sizeMap, bids) {
-        var adUnit = {};
-        adUnit.code = divTag;
-        adUnit.sizes = [];
-        adUnit.bids = [];
-        if (sizeMap.length > 0) {
-            var widest = 0;
-            for (i = sizeMap.length - 1; i >= 0; i--) {
-                if (sizeMap[i][0][0] < window.innerWidth) {
-                    widest = i;
-                }
-            }
-            adUnit.sizes = sizeMap[widest][1];
-            for (i = 0; i < bids.length; i++) {
-                if (bids[i].size.length == 0) {
-                    adUnit.bids.push({ bidder: bids[i].bidder, params: bids[i].params });
-                    continue;
-                }
-                for (ii = 0; ii < adUnit.sizes.length; ii++) {
-                    if (bids[i].size[0] == adUnit.sizes[ii][0] && bids[i].size[1] == adUnit.sizes[ii][1]) {
-                        adUnit.bids.push({ bidder: bids[i].bidder, params: bids[i].params });
+        var adUnits = [];
+        function setupPrebidAdUnit(adUnits, divTag, sizes, sizeMap, bids) {
+            var adUnit = {};
+            adUnit.code = divTag;
+            adUnit.sizes = [];
+            adUnit.bids = [];
+            if (sizeMap.length > 0) {
+                var widest = 0;
+                for (i = sizeMap.length - 1; i >= 0; i--) {
+                    if (sizeMap[i][0][0] < window.innerWidth) {
+                        widest = i;
                     }
                 }
+                adUnit.sizes = sizeMap[widest][1];
+                for (i = 0; i < bids.length; i++) {
+                    if (bids[i].size.length == 0) {
+                        adUnit.bids.push({ bidder: bids[i].bidder, params: bids[i].params });
+                        continue;
+                    }
+                    for (ii = 0; ii < adUnit.sizes.length; ii++) {
+                        if (bids[i].size[0] == adUnit.sizes[ii][0] && bids[i].size[1] == adUnit.sizes[ii][1]) {
+                            adUnit.bids.push({ bidder: bids[i].bidder, params: bids[i].params });
+                        }
+                    }
+                }
+            } else {
+                adUnit.sizes = sizes;
+                for (i = 0; i < bids.length; i++) {
+                    adUnit.bids.push({ bidder: bids[i].bidder, params: bids[i].params });
+                }
             }
-        } else {
-            adUnit.sizes = sizes;
-            for (i = 0; i < bids.length; i++) {
-                adUnit.bids.push({ bidder: bids[i].bidder, params: bids[i].params });
-            }
+            adUnits.push(adUnit);
         }
-        adUnits.push(adUnit);
-    }
-    
-
-setupPrebidAdUnit(adUnits, 'div-gpt-ad-1463148401019-5', [160, 600], [], [{ bidder: 'brealtime', params: { placementId: '7895641' }, size: [] }, { bidder: 'sovrn', params: { tagid: '356632' }, size: [160, 600] }, { bidder: 'appnexus', params: { placementId: '7724305' }, size: [] }, { bidder: 'pulsepoint', params: { cf: '160X600', cp: '560155', ct: '460003' }, size: [160, 600] }, { bidder: 'sonobi', params: { dom_id:'div-gpt-ad-1463148401019-5', placement_id:'97c3809d92cc4fa598a8' }, size: [160, 600] }, { bidder: 'sekindo', params: { placementId: '9891439' }, size: [160, 600] }]);
-                            var pbjs = pbjs || {};
-    pbjs.que = pbjs.que || [];
-
-    var googletag = googletag || {};
-    googletag.cmd = googletag.cmd || [];
-
-    googletag.cmd.push(function() {
-        googletag.pubads().disableInitialLoad();
-    });
-
-    pbjs.que.push(function() {
-        pbjs.addAdUnits(adUnits);
-        pbjs.setPriceGranularity("medium");
-        pbjs.bidderSettings = {
-brealtime : {bidCpmAdjustment: function(bidCpm){return bidCpm * .8;}},aol : {bidCpmAdjustment: function(bidCpm){return bidCpm * .8;}},sekindo : {bidCpmAdjustment: function(bidCpm){return bidCpm * .8;}}            };
-
-        pbjs.requestBids({
-            bidsBackHandler: sendAdserverRequest
-        });
-    });
-    function sendAdserverRequest() {
-        if (pbjs.adserverRequestSent) return;
-        pbjs.adserverRequestSent = true;
-        googletag.cmd.push(function() {
-            pbjs.que.push(function() {
-                pbjs.setTargetingForGPTAsync();
-                googletag.pubads().refresh();
-            });
-        });
-    }
-
-    setTimeout(function() {
-        sendAdserverRequest();
-    }, PREBID_TIMEOUT);
-    (function () {
-        var gads = document.createElement('script');
-        gads.async = true;
-        gads.type = 'text/javascript';
-        var useSSL = 'https:' == document.location.protocol;
-        gads.src = (useSSL ? 'https:' : 'http:') +
-                '//www.googletagservices.com/tag/js/gpt.js';
-        var node = document.getElementsByTagName('script')[0];
-        node.parentNode.insertBefore(gads, node);
-    })();
-    googletag.cmd.push(function () {
         
+
+setupPrebidAdUnit(adUnits, 'div-gpt-ad-1463148401019-5', [160, 600], [], [{ bidder: 'aol', params: { placement: '4201585', network: '10658.1' }, size: [160, 600] }, { bidder: 'appnexus', params: { placementId: '7724305' }, size: [] }, { bidder: 'brealtime', params: { placementId: '10971872' }, size: [] }, { bidder: 'sovrn', params: { tagid: '356632' }, size: [160, 600] }, { bidder: 'conversant', params: { site_id: '113627' }, size: [] }]);
+                var pbjs = pbjs || {};
+        pbjs.que = pbjs.que || [];
+
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+
+        googletag.cmd.push(function() {
+            googletag.pubads().disableInitialLoad();
+        });
+
+        pbjs.que.push(function() {
+            pbjs.addAdUnits(adUnits);
+            pbjs.setConfig({
+                priceGranularity: "high",
+                bidderSequence:"random"
+            });
+            pbjs.bidderSettings = {
+brealtime : {bidCpmAdjustment: function(bidCpm){return bidCpm * .8;}},sekindo : {bidCpmAdjustment: function(bidCpm){return bidCpm * .8;}},springserve : {bidCpmAdjustment: function(bidCpm){return bidCpm * .8;}}            };
+            pbjs.enableAnalytics({
+                provider: 'roxot',
+                options: {
+                    publisherIds: ["b779af35-d00a-4d2e-bdff-3f09894f7b73"],
+                    host: "alot.com"
+                }
+            });
+            if (adUnits.length > 0) {
+                pbjs.requestBids({
+                    bidsBackHandler: sendAdserverRequest
+                });
+            }
+        });
+        function sendAdserverRequest() {
+            if (pbjs.adserverRequestSent) return;
+            pbjs.adserverRequestSent = true;
+            googletag.cmd.push(function() {
+                pbjs.que.push(function() {
+                    pbjs.setTargetingForGPTAsync();
+                    googletag.pubads().refresh();
+                });
+            });
+        }
+        if (adUnits.length > 0) {
+            setTimeout(function() {
+                sendAdserverRequest();
+            }, PREBID_TIMEOUT);
+        }
+        (function () {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+                    '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+        googletag.cmd.push(function () {
+            
 
 
 leftRailATF = googletag.defineSlot('/3551897/Alot_HB_LeftRail_ATF', [160, 600], 'div-gpt-ad-1463148401019-5')
-     .addService(googletag.pubads());
-                        var wallpaperAdUnit = googletag.defineOutOfPageSlot('/3551897/Alot_WallPaper', 'div-gpt-ad-1475760822650-0').addService(googletag.pubads());wallpaperAdUnit.setTargeting("cat",["Alot"]);
-wallpaperAdUnit.setTargeting("site",["Alot"]);
-wallpaperAdUnit.setTargeting("env",["PROD"]);
-var popunderAdUnit = googletag.defineSlot('/3551897/Alot_PopUnder', [1, 1], 'div-gpt-ad-1476465195595-0').addService(googletag.pubads());popunderAdUnit.setTargeting("cat",["Alot"]);
-popunderAdUnit.setTargeting("site",["Alot"]);
-popunderAdUnit.setTargeting("env",["PROD"]);
-        googletag.pubads().enableSingleRequest();
-        googletag.enableServices();
-    });
+    .setCollapseEmptyDiv(true)
+    .addService(googletag.pubads());
+                        var outOfPageAdUnit = googletag.defineOutOfPageSlot('/3551897/Alot_OutOfPage', 'div-gpt-ad-1485791145467-0').addService(googletag.pubads());            googletag.pubads().enableSingleRequest();
+            googletag.enableServices();
+            if (adUnits.length === 0 && typeof(outOfPageAdUnit) !== "undefined") {
+                googletag.pubads().refresh([outOfPageAdUnit]);
+            }
+        });
     </script>
 
-    <meta charset="utf-8"><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"fb3dc2d528","applicationID":"7918243","transactionName":"b1EBZ0QDV0FUAEJdDVYbLmV1TXFdWAZ1WwxMRgxfWgdLHUURX0IDW00=","queueTime":0,"applicationTime":46,"ttGuid":"EDA1D381967EC67E","agent":""}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQYCWFZTARAHXVBaBQUE"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, minimum-scale=1, user-scalable=no">
+    <meta charset="utf-8">
     <link rel="icon" href="/assets/img/Alot/favicon.ico" type="image/x-icon">
     
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700">
@@ -115,167 +124,9 @@ popunderAdUnit.setTargeting("env",["PROD"]);
         <link rel="stylesheet" media="all" href="/assets/styles/ie/ie8.css" />
         <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <script type="text/javascript" src="/Scripts/jquery.unveil.js"></script>
-    <script src="/scripts/ads.js"></script>
-    <script>
-        $(function () {
-
-            // click handler for opening panels
-            $('.js--mobile-action').on('click', function (e) {
-                var action = $(this);
-                if (action.hasClass('toggled')) {
-                    e.preventDefault();
-                    hideAllPanels();
-                } else {
-                    e.preventDefault();
-                    hideAllPanels();
-                    if (action.attr('href') === "#site_nav") {
-                        var target = "#network_nav";
-                    } else {
-                        var target = action.attr('href');
-                    }
-                    $(this).addClass('toggled');
-                    showPanel(target);
-                }
-            });
-
-            $('.network-dropdown-container').on('touchstart', function (e) {
-                window.location = $(this).find('a').attr('href');
-            });
-            $('.network-dropdown-container').hover(function (e) {
-                showNetworkPanel($(this));
-            }, function (e) {
-                hideNetworkPanel($(this));
-            });
-
-            // click handler for closing panels
-            $('.js--close, .overlay').on('click', function (e) {
-                e.preventDefault();
-                hideAllPanels();
-            });
-
-            // click handler for subnav slidedowns in main menu
-            $('.js--subnav-expand').on('click', function (e) {
-                e.preventDefault();
-                var nav_expand = $(this);
-                toggleSubnav(nav_expand);
-            });
-
-            // when the user clicks a link inside a panel, hide the panel and return true
-            $('.mobile-panel a').on('click', function (e) {
-                if (!$(this).hasClass('subnav-expand')) {
-                    hideAllPanels();
-                }
-                return true;
-            });
-
-            // emulate placeholder attr in IE8
-            if ($('html').hasClass('lt-ie9') || $('html').hasClass('ie9')) {
-                var search_input = $('.site-header .search-input');
-                search_input.val('Search...');
-                search_input.focus(function () {
-                    $(this).val('');
-                });
-                search_input.blur(function () {
-                    $(this).val('Search...');
-                });
-            }
-
-            // watch esc key - hide panels/modals when pressed
-            $(document).keyup(function (e) {
-                if (e.keyCode == 27) {
-                    hideAllPanels();
-                }
-            });
-
-            $('body').on('click', '.js--big-touch', function (e) {
-                var thing = $(this);
-                var link = thing.find('.js--big-touch-link').attr('href');
-                window.location = link;
-            });
-
-            $('.back-to-top').on('click', function (e) {
-                e.preventDefault();
-                $('html, body').animate({
-                    scrollTop: 0
-                }, 350);
-            });
-
-            // opens panel based on ID of jquery object
-            function showPanel(target) {
-                $('.js--close').addClass('toggled');
-                $('.overlay').addClass('toggled');
-                $(target).addClass('toggled');
-                if (target == '#site_search') {
-                    $('#site_search').find('input[type="text"]').focus();
-                }
-            }
-            // hides all panels and resets panel-related classes
-            function hideAllPanels() {
-                $('.toggled').removeClass('toggled');
-                $('.search-input').blur();
-            }
-
-            // functions for opening and closing network panels
-            function showNetworkPanel(network_link) {
-                var network_link = network_link;
-                var network_color = network_link.find('i').css('color');
-                var network_dropdown = network_link.children('.network-teaser-dropdown');
-                var network_list = network_link.parents('.network-nav');
-
-                network_link.addClass('toggled');
-                network_link.find('.alot-brand').after('<div class="network-dropdown-hover-border" style="border-bottom-color:' + network_color + '"></div>');
-                network_list.addClass('toggled');
-                network_dropdown.addClass('toggled').css({
-                    borderTopColor: network_color
-                });
-                network_link.find('.header--unveil-images img.lazy-image').unveil();
-            }
-            function hideNetworkPanel(network_link) {
-                var network_link = network_link;
-                var network_dropdown = network_link.children('.network-teaser-dropdown');
-                var network_list = network_link.parents('.network-nav');
-
-                network_link.removeClass('toggled');
-                $('.network-dropdown-hover-border').remove();
-                network_list.removeClass('toggled');
-                network_dropdown.removeClass('toggled');
-            }
-
-            if (window.canRunAds === undefined) {
-                // adblocker detected, show fallback
-                //showFallbackImage();
-                 var enviroment = "PROD";
-    var imageDetectBlocker = new Image(1, 1);
-    var siteForEnvironment = "dev.ats.alot.com";
-    if (enviroment == "PROD") {
-        siteForEnvironment = "ats.alot.com";
-    }
-    else {
-        siteForEnvironment = "dev.ats.alot.com";
-    }
-
-    if (typeof ianalytics === 'undefined'){
-        var ianalytics = {};
-        ianalytics.docCookies = { getItem: function (n) { return decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*" + encodeURIComponent(n).replace(/[\-\.\+\*]/g, "\\$&") + "\\s*\\=\\s*([^;]*).*$)|^.*$"), "$1")) || null }, setItem: function (n, t, i, r, u, f) { if (!n || /^(?:expires|max\-age|path|domain|secure)$/i.test(n)) return !1; var e = ""; if (i) switch (i.constructor) { case Number: e = i === Infinity ? "; expires=Fri, 31 Dec 9999 23:59:59 GMT" : "; max-age=" + i; break; case String: e = "; expires=" + i; break; case Date: e = "; expires=" + i.toUTCString() } return document.cookie = encodeURIComponent(n) + "=" + encodeURIComponent(t) + e + (u ? "; domain=" + u : "") + (r ? "; path=" + r : "") + (f ? "; secure" : ""), !0 }, removeItem: function (n, t, i) { return !n || !this.hasItem(n) ? !1 : (document.cookie = encodeURIComponent(n) + "=; expires=Thu, 01 Jan 1970 00:00:00 GMT" + (i ? "; domain=" + i : "") + (t ? "; path=" + t : ""), !0) }, hasItem: function (n) { return new RegExp("(?:^|;\\s*)" + encodeURIComponent(n).replace(/[\-\.\+\*]/g, "\\$&") + "\\s*\\=").test(document.cookie) }, keys: function () { for (var n = document.cookie.replace(/((?:^|\s*;)[^\=]+)(?=;|$)|^\s*|\s*(?:\=[^;]*)?(?:\1|$)/g, "").split(/\s*(?:\=[^;]*)?;\s*/), t = 0; t < n.length; t++) n[t] = decodeURIComponent(n[t]); return n } }
-        ianalytics.siteid = 8;
-        ianalytics.visitorid = ianalytics.docCookies.getItem('visitorID') ? ianalytics.docCookies.getItem('visitorID') : '';
-        ianalytics.referrer = encodeURIComponent(document.referrer);
-        ianalytics.url = encodeURIComponent(document.URL);
-        ianalytics.useragent = encodeURIComponent(navigator.userAgent);
-    }
-
-    imageDetectBlocker.src = 'http://' + siteForEnvironment + '/ia.js?siteid='
-        + ianalytics.siteid + '&event=adsblocked&visitorid=' + ianalytics.visitorid + '&referrer='
-        + ianalytics.referrer + '&url=' + ianalytics.url + '&useragent=' + ianalytics.useragent + '&campid='
-        + '10555';
-
-            }
-        });
-    </script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     
-</head>
+<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script></head>
 <body class="alot">
 
 
@@ -360,20 +211,20 @@ popunderAdUnit.setTargeting("env",["PROD"]);
                                                 <div class="cf  header--unveil-images">
                                                         <div class="unit-6">
                                                             <div class="tiny-article">
-                                                                <a href="http://health.alot.com/wellness/natural-remedies-for-overactive-bladder--1392" class="cf">
-                                                                    <img data-src="http://health.alot.com/assets/common/wellness/u1392_60x60.jpg" alt="" src="/assets/img/loader.gif" class="tiny-article-img  lazy-image">
+                                                                <a href="http://health.alot.com/wellness/foods-to-stay-away-from-if-youre-watching-your-cholesterol--15530" class="cf">
+                                                                    <img data-src="http://health.alot.com/assets/common/wellness/u15530_60x60.jpg" alt="greasy burger and fries" src="" class="tiny-article-img  lazy-image">
                                                                     <span class="tiny-article-title">
-                                                                        Natural Remedies for Overactive Bladder
+                                                                        Foods to Stay Away From if You’re Watching Your Cholesterol
                                                                     </span>
                                                                 </a>
                                                             </div>
                                                         </div>
                                                         <div class="unit-6">
                                                             <div class="tiny-article">
-                                                                <a href="http://health.alot.com/wellness/bed-bugs-all-you-need-to-know-in-5-photos--6099" class="cf">
-                                                                    <img data-src="http://health.alot.com/assets/common/wellness/u6099_60x60.jpg" alt="a closeup picture of a bed bug" src="/assets/img/loader.gif" class="tiny-article-img  lazy-image">
+                                                                <a href="http://health.alot.com/wellness/creating-a-diabetic-diet-plan-30-foods-to-avoid--15430" class="cf">
+                                                                    <img data-src="http://health.alot.com/assets/common/wellness/u15430_60x60.jpg" alt="colorful smoothies and fruit are not good foods for diabetic individuals" src="" class="tiny-article-img  lazy-image">
                                                                     <span class="tiny-article-title">
-                                                                        Bed Bugs: All You Need to Know in 5 Photos
+                                                                        Creating a Diabetic Diet Plan: 30 Foods to Avoid
                                                                     </span>
                                                                 </a>
                                                             </div>
@@ -382,20 +233,20 @@ popunderAdUnit.setTargeting("env",["PROD"]);
                                                 <div class="cf  header--unveil-images">
                                                         <div class="unit-6">
                                                             <div class="tiny-article">
-                                                                <a href="http://health.alot.com/wellness/9-foods-to-eat-when-you-have-gout--11525" class="cf">
-                                                                    <img data-src="http://health.alot.com/assets/common/wellness/u11525_60x60.jpg" alt="A collection of healthy foods" src="/assets/img/loader.gif" class="tiny-article-img  lazy-image">
+                                                                <a href="http://health.alot.com/wellness/30-best-foods-to-eat-for-diabetes---15509" class="cf">
+                                                                    <img data-src="http://health.alot.com/assets/common/wellness/u15509_60x60.jpg" alt="Cranberries" src="" class="tiny-article-img  lazy-image">
                                                                     <span class="tiny-article-title">
-                                                                        9 Foods to Eat When You Have Gout
+                                                                        30 Best Foods to Eat for Diabetes 
                                                                     </span>
                                                                 </a>
                                                             </div>
                                                         </div>
                                                         <div class="unit-6">
                                                             <div class="tiny-article">
-                                                                <a href="http://health.alot.com/conditions/10-foods-to-eat-and-avoid-if-you-have-gout--10740" class="cf">
-                                                                    <img data-src="http://health.alot.com/assets/common/conditions/u10740_60x60.jpg" alt="Dry legumes in bowls" src="/assets/img/loader.gif" class="tiny-article-img  lazy-image">
+                                                                <a href="http://health.alot.com/wellness/30-cholesterol-fighting-foods-you-need-in-your-diet---8746" class="cf">
+                                                                    <img data-src="http://health.alot.com/assets/common/wellness/u8746_60x60.jpg" alt="Foods to help lower cholesterol" src="" class="tiny-article-img  lazy-image">
                                                                     <span class="tiny-article-title">
-                                                                        10 Foods to Eat and Avoid If You Have Gout
+                                                                        30 Cholesterol-Fighting Foods You Need in Your Diet 
                                                                     </span>
                                                                 </a>
                                                             </div>
@@ -431,20 +282,20 @@ popunderAdUnit.setTargeting("env",["PROD"]);
                                                 <div class="cf  header--unveil-images">
                                                         <div class="unit-6">
                                                             <div class="tiny-article">
-                                                                <a href="http://finance.alot.com/personal-finance/best-crossover-suv-deals-of-2016--11090" class="cf">
-                                                                    <img data-src="http://finance.alot.com/assets/common/personal_finance/u11090_60x60.jpg" alt="suv tail light" src="/assets/img/loader.gif" class="tiny-article-img  lazy-image">
+                                                                <a href="http://finance.alot.com/insurance/medicare-advantage-vs-medicare-supplement-whats-the-difference--10634" class="cf">
+                                                                    <img data-src="http://finance.alot.com/assets/common/insurance/u10634_60x60.jpg" alt="Label of medicare sitting on a keyboard" src="" class="tiny-article-img  lazy-image">
                                                                     <span class="tiny-article-title">
-                                                                        Best Crossover SUV Deals of 2016
+                                                                        Medicare Advantage vs. Medicare Supplement: What’s the Difference?
                                                                     </span>
                                                                 </a>
                                                             </div>
                                                         </div>
                                                         <div class="unit-6">
                                                             <div class="tiny-article">
-                                                                <a href="http://finance.alot.com/personal-finance/5-free-online-english-courses-worth-your-time--9263" class="cf">
-                                                                    <img data-src="http://finance.alot.com/assets/common/personal_finance/u9263_60x60.jpg" alt="Woman sitting at a desk with a stack of books " src="/assets/img/loader.gif" class="tiny-article-img  lazy-image">
+                                                                <a href="http://finance.alot.com/personal-finance/10-most-expensive-places-to-live-in-the-us--8950" class="cf">
+                                                                    <img data-src="http://finance.alot.com/assets/common/personal_finance/u8950_60x60.jpg" alt="View of an expensive city" src="" class="tiny-article-img  lazy-image">
                                                                     <span class="tiny-article-title">
-                                                                        5 Free Online English Courses Worth Your Time
+                                                                        10 Most Expensive Places to Live in the U.S.
                                                                     </span>
                                                                 </a>
                                                             </div>
@@ -453,20 +304,20 @@ popunderAdUnit.setTargeting("env",["PROD"]);
                                                 <div class="cf  header--unveil-images">
                                                         <div class="unit-6">
                                                             <div class="tiny-article">
-                                                                <a href="http://finance.alot.com/personal-finance/5-smokin-cars-that-will-get-you-noticed--10213" class="cf">
-                                                                    <img data-src="http://finance.alot.com/assets/common/personal_finance/u10213_60x60.jpg" alt="Closeup of the front of a sports car that will get you noticed" src="/assets/img/loader.gif" class="tiny-article-img  lazy-image">
+                                                                <a href="http://finance.alot.com/personal-finance/10-most-expensive-cities-to-raise-a-family--10337" class="cf">
+                                                                    <img data-src="http://finance.alot.com/assets/common/personal_finance/u10337_60x60.jpg" alt="view of a street in new york" src="" class="tiny-article-img  lazy-image">
                                                                     <span class="tiny-article-title">
-                                                                        5 Smokin' Cars That Will Get You Noticed
+                                                                        10 Most Expensive Cities to Raise a Family
                                                                     </span>
                                                                 </a>
                                                             </div>
                                                         </div>
                                                         <div class="unit-6">
                                                             <div class="tiny-article">
-                                                                <a href="http://finance.alot.com/personal-finance/top-5-stylish-minivans--10217" class="cf">
-                                                                    <img data-src="http://finance.alot.com/assets/common/personal_finance/u10217_60x60.jpg" alt="Family standing next to a minivan" src="/assets/img/loader.gif" class="tiny-article-img  lazy-image">
+                                                                <a href="http://finance.alot.com/insurance/medicare-and-dental-coverage--1078" class="cf">
+                                                                    <img data-src="http://finance.alot.com/assets/common/insurance/u1078_60x60.jpg" alt="Woman at a dentist appointment paid for by medicare" src="" class="tiny-article-img  lazy-image">
                                                                     <span class="tiny-article-title">
-                                                                        Top 5 Stylish Minivans
+                                                                        Medicare and Dental Coverage
                                                                     </span>
                                                                 </a>
                                                             </div>
@@ -500,20 +351,20 @@ popunderAdUnit.setTargeting("env",["PROD"]);
                                                 <div class="cf  header--unveil-images">
                                                         <div class="unit-6">
                                                             <div class="tiny-article">
-                                                                <a href="http://careers.alot.com/career-paths/medical-billing-and-coding-jobs-pros-and-cons--1939" class="cf">
-                                                                    <img data-src="http://careers.alot.com/assets/common/career/u1939_60x60.jpg" alt="stethoscope and patient data" src="/assets/img/loader.gif" class="tiny-article-img  lazy-image">
+                                                                <a href="http://careers.alot.com/watercooler/5-easy-hairstyles-for-the-office--6022" class="cf">
+                                                                    <img data-src="http://careers.alot.com/assets/common/watercooler/u6022_60x60.jpg" alt="A girl wears a simple hairstyle to work" src="" class="tiny-article-img  lazy-image">
                                                                     <span class="tiny-article-title">
-                                                                        Medical Billing and Coding Jobs: Pros and Cons
+                                                                        5 Easy Hairstyles for the Office
                                                                     </span>
                                                                 </a>
                                                             </div>
                                                         </div>
                                                         <div class="unit-6">
                                                             <div class="tiny-article">
-                                                                <a href="http://careers.alot.com/career-paths/pediatrician-vs-pediatric-nurse-whats-the-difference--5906" class="cf">
-                                                                    <img data-src="http://careers.alot.com/assets/common/career/u5906_60x60.jpg" alt="A pediatrician holds a toddler" src="/assets/img/loader.gif" class="tiny-article-img  lazy-image">
+                                                                <a href="http://careers.alot.com/career-paths/10-jobs-that-only-make-sense-in-the-south--11444" class="cf">
+                                                                    <img data-src="http://careers.alot.com/assets/common/career/u11444_60x60.jpg" alt="Coon dog trainer" src="" class="tiny-article-img  lazy-image">
                                                                     <span class="tiny-article-title">
-                                                                        Pediatrician vs. Pediatric Nurse: What's the Difference?
+                                                                        10 Jobs That Only Make Sense in the South
                                                                     </span>
                                                                 </a>
                                                             </div>
@@ -522,20 +373,20 @@ popunderAdUnit.setTargeting("env",["PROD"]);
                                                 <div class="cf  header--unveil-images">
                                                         <div class="unit-6">
                                                             <div class="tiny-article">
-                                                                <a href="http://careers.alot.com/career-paths/network-security-vs-computer-security-whats-the-difference--5134" class="cf">
-                                                                    <img data-src="http://careers.alot.com/assets/common/career/u5134_60x60.jpg" alt="A lock shatters" src="/assets/img/loader.gif" class="tiny-article-img  lazy-image">
+                                                                <a href="http://careers.alot.com/planning/10-best-jobs-after-retirement--6317" class="cf">
+                                                                    <img data-src="http://careers.alot.com/assets/common/planning/u6317_60x60.jpg" alt="A retired couple enjoys a sunny day together" src="" class="tiny-article-img  lazy-image">
                                                                     <span class="tiny-article-title">
-                                                                        Network Security vs. Computer Security: What's the Difference?
+                                                                        10 Best Jobs After Retirement
                                                                     </span>
                                                                 </a>
                                                             </div>
                                                         </div>
                                                         <div class="unit-6">
                                                             <div class="tiny-article">
-                                                                <a href="http://careers.alot.com/career-paths/pros-and-cons-of-being-an-insurance-agent--8890" class="cf">
-                                                                    <img data-src="http://careers.alot.com/assets/common/career/u8890_60x60.jpg" alt="An insurance agent consults with clients" src="/assets/img/loader.gif" class="tiny-article-img  lazy-image">
+                                                                <a href="http://careers.alot.com/career-paths/top-10-depressing-jobs--6431" class="cf">
+                                                                    <img data-src="http://careers.alot.com/assets/common/career/u6431_60x60.jpg" alt="A man sits under fake rain from a fake rain cloud" src="" class="tiny-article-img  lazy-image">
                                                                     <span class="tiny-article-title">
-                                                                        Pros and Cons of Being an Insurance Agent
+                                                                        Top 10 Depressing Jobs
                                                                     </span>
                                                                 </a>
                                                             </div>
@@ -578,20 +429,20 @@ popunderAdUnit.setTargeting("env",["PROD"]);
                                                 <div class="cf  header--unveil-images">
                                                         <div class="unit-6">
                                                             <div class="tiny-article">
-                                                                <a href="http://travel.alot.com/themes/10-places-where-public-nudity-is-no-big-deal--10054" class="cf">
-                                                                    <img data-src="http://travel.alot.com/assets/common/themes/u10054_60x60.jpg" alt="A lack of clothes is not a problem when visiting these locations." src="/assets/img/loader.gif" class="tiny-article-img  lazy-image">
+                                                                <a href="http://travel.alot.com/themes/largest-abandoned-cities-around-the-world--9217" class="cf">
+                                                                    <img data-src="http://travel.alot.com/assets/common/themes/u9217_60x60.jpg" alt="The former city of Varosha is one of the largest abandoned cities in the world." src="" class="tiny-article-img  lazy-image">
                                                                     <span class="tiny-article-title">
-                                                                        10 Places Where Public Nudity is No Big Deal
+                                                                        Largest Abandoned Cities Around the World
                                                                     </span>
                                                                 </a>
                                                             </div>
                                                         </div>
                                                         <div class="unit-6">
                                                             <div class="tiny-article">
-                                                                <a href="http://travel.alot.com/destinations/20-rv-roadtrips-for-adventurous-retirees--11676" class="cf">
-                                                                    <img data-src="http://travel.alot.com/assets/common/destinations/u11676_60x60.jpg" alt="An RV roadtrip destination" src="/assets/img/loader.gif" class="tiny-article-img  lazy-image">
+                                                                <a href="http://travel.alot.com/themes/poorest-city-in-every-state--15464" class="cf">
+                                                                    <img data-src="http://travel.alot.com/assets/common/themes/u15464_60x60.jpg" alt="" src="" class="tiny-article-img  lazy-image">
                                                                     <span class="tiny-article-title">
-                                                                        20 RV Roadtrips for Adventurous Retirees
+                                                                        Poorest City in Every State
                                                                     </span>
                                                                 </a>
                                                             </div>
@@ -600,20 +451,20 @@ popunderAdUnit.setTargeting("env",["PROD"]);
                                                 <div class="cf  header--unveil-images">
                                                         <div class="unit-6">
                                                             <div class="tiny-article">
-                                                                <a href="http://travel.alot.com/themes/20-ways-to-spot-an-american-abroad--9775" class="cf">
-                                                                    <img data-src="http://travel.alot.com/assets/common/themes/u9775_60x60.jpg" alt="Fanny packs are a stereotypically American fashion statement." src="/assets/img/loader.gif" class="tiny-article-img  lazy-image">
+                                                                <a href="http://travel.alot.com/themes/15-states-whose-residents-are-leaving--11189" class="cf">
+                                                                    <img data-src="http://travel.alot.com/assets/common/themes/u11189_60x60.jpg" alt="Connecticut is seeing a net decrease in population." src="" class="tiny-article-img  lazy-image">
                                                                     <span class="tiny-article-title">
-                                                                        20 Ways to Spot an American Abroad
+                                                                        15 States Whose Residents Are Leaving
                                                                     </span>
                                                                 </a>
                                                             </div>
                                                         </div>
                                                         <div class="unit-6">
                                                             <div class="tiny-article">
-                                                                <a href="http://travel.alot.com/themes/10-of-americas-hippie-hideouts--9070" class="cf">
-                                                                    <img data-src="http://travel.alot.com/assets/common/themes/u9070_60x60.jpg" alt="Hippies celebrate at an arts festival in Eugene, Oregon." src="/assets/img/loader.gif" class="tiny-article-img  lazy-image">
+                                                                <a href="http://travel.alot.com/themes/30-best-small-cities-in-the-united-states--15391" class="cf">
+                                                                    <img data-src="http://travel.alot.com/assets/common/themes/u15391_60x60.jpg" alt="Appleton WI" src="" class="tiny-article-img  lazy-image">
                                                                     <span class="tiny-article-title">
-                                                                        10 of America's Hippie Hideouts
+                                                                        30 Best Small Cities in the United States
                                                                     </span>
                                                                 </a>
                                                             </div>
@@ -648,20 +499,20 @@ popunderAdUnit.setTargeting("env",["PROD"]);
                                                 <div class="cf  header--unveil-images">
                                                         <div class="unit-6">
                                                             <div class="tiny-article">
-                                                                <a href="http://living.alot.com/entertainment/10-forgotten-manners-the-world-needs-today--11840" class="cf">
-                                                                    <img data-src="http://living.alot.com/assets/common/entertainment/u11840_60x60.jpg" alt="Eating deliberately " src="/assets/img/loader.gif" class="tiny-article-img  lazy-image">
+                                                                <a href="http://living.alot.com/beauty/30-fashion-mistakes-that-are-making-you-look-older--11517" class="cf">
+                                                                    <img data-src="http://living.alot.com/assets/common/beauty/u11517_60x60.jpg" alt="A fashion mistake that makes you look older" src="" class="tiny-article-img  lazy-image">
                                                                     <span class="tiny-article-title">
-                                                                        10 Forgotten Manners the World Needs Today
+                                                                        30 Fashion Mistakes That Are Making You Look Older
                                                                     </span>
                                                                 </a>
                                                             </div>
                                                         </div>
                                                         <div class="unit-6">
                                                             <div class="tiny-article">
-                                                                <a href="http://living.alot.com/beauty/10-youthful-styles-you-should-insist-on-wearing-after-45--11702" class="cf">
-                                                                    <img data-src="http://living.alot.com/assets/common/beauty/u11702_60x60.jpg" alt="Woman over 45 in a bikini" src="/assets/img/loader.gif" class="tiny-article-img  lazy-image">
+                                                                <a href="http://living.alot.com/beauty/30-hairstyles-that-will-rule-2018--15371" class="cf">
+                                                                    <img data-src="http://living.alot.com/assets/common/beauty/u15371_60x60.jpg" alt="Pixie haircut" src="" class="tiny-article-img  lazy-image">
                                                                     <span class="tiny-article-title">
-                                                                        10 "Youthful" Styles You Should Insist on Wearing After 45
+                                                                        30 Hairstyles That Will Rule 2018
                                                                     </span>
                                                                 </a>
                                                             </div>
@@ -670,20 +521,20 @@ popunderAdUnit.setTargeting("env",["PROD"]);
                                                 <div class="cf  header--unveil-images">
                                                         <div class="unit-6">
                                                             <div class="tiny-article">
-                                                                <a href="http://living.alot.com/beauty/10-fashion-trends-that-grandmas-rocked-first--11806" class="cf">
-                                                                    <img data-src="http://living.alot.com/assets/common/beauty/u11806_60x60.jpg" alt="Gray hair" src="/assets/img/loader.gif" class="tiny-article-img  lazy-image">
+                                                                <a href="http://living.alot.com/beauty/25-spring-fashion-trends-blooming-right-now--11143" class="cf">
+                                                                    <img data-src="http://living.alot.com/assets/common/beauty/u11143_60x60.jpg" alt="spring 2016 fashion" src="" class="tiny-article-img  lazy-image">
                                                                     <span class="tiny-article-title">
-                                                                        10 Fashion Trends That Grandmas Rocked First
+                                                                        25 Spring Fashion Trends Blooming Right Now
                                                                     </span>
                                                                 </a>
                                                             </div>
                                                         </div>
                                                         <div class="unit-6">
                                                             <div class="tiny-article">
-                                                                <a href="http://living.alot.com/entertainment/10-cinematic-villains-who-upstaged-the-hero--11893" class="cf">
-                                                                    <img data-src="http://living.alot.com/assets/common/entertainment/u11893_60x60.jpg" alt="The Joker" src="/assets/img/loader.gif" class="tiny-article-img  lazy-image">
+                                                                <a href="http://living.alot.com/beauty/30-spring-summer-fashion-mistakes-that-make-you-look-older--15535" class="cf">
+                                                                    <img data-src="http://living.alot.com/assets/common/beauty/u15535_60x60.jpg" alt="" src="" class="tiny-article-img  lazy-image">
                                                                     <span class="tiny-article-title">
-                                                                        10 Cinematic Villains Who Upstaged the Hero
+                                                                        30 Spring &amp; Summer Fashion Mistakes That Make You Look Older
                                                                     </span>
                                                                 </a>
                                                             </div>
@@ -717,20 +568,20 @@ popunderAdUnit.setTargeting("env",["PROD"]);
                                                 <div class="cf  header--unveil-images">
                                                         <div class="unit-6">
                                                             <div class="tiny-article">
-                                                                <a href="http://education.alot.com/planning/how-to-learn-english-tips-and-tricks--9253" class="cf">
-                                                                    <img data-src="http://education.alot.com/assets/common/planning_7/u9253_60x60.jpg" alt="A young girl stands in front of an American flag" src="/assets/img/loader.gif" class="tiny-article-img  lazy-image">
+                                                                <a href="http://education.alot.com/k-12/10-reasons-you-shouldnt-pay-your-child-for-good-grades--11909" class="cf">
+                                                                    <img data-src="http://education.alot.com/assets/common/k-12/u11909_60x60.jpg" alt="Young student harasses her parents for money for good grades" src="" class="tiny-article-img  lazy-image">
                                                                     <span class="tiny-article-title">
-                                                                        How to Learn English: Tips and Tricks
+                                                                        10 Reasons You Shouldn't Pay Your Child for Good Grades
                                                                     </span>
                                                                 </a>
                                                             </div>
                                                         </div>
                                                         <div class="unit-6">
                                                             <div class="tiny-article">
-                                                                <a href="http://education.alot.com/k-12/10-most-ridiculous-school-dress-code-violations--9154" class="cf">
-                                                                    <img data-src="http://education.alot.com/assets/common/k-12/u9154_60x60.jpg" alt="Young student wears a dress to school" src="/assets/img/loader.gif" class="tiny-article-img  lazy-image">
+                                                                <a href="http://education.alot.com/k-12/pros-and-cons-of-stem-education--8753" class="cf">
+                                                                    <img data-src="http://education.alot.com/assets/common/k-12/u8753_60x60.jpg" alt="Young student does math in his head" src="" class="tiny-article-img  lazy-image">
                                                                     <span class="tiny-article-title">
-                                                                        10 Most Ridiculous School Dress Code Violations
+                                                                        Pros and Cons of STEM Education
                                                                     </span>
                                                                 </a>
                                                             </div>
@@ -740,7 +591,7 @@ popunderAdUnit.setTargeting("env",["PROD"]);
                                                         <div class="unit-6">
                                                             <div class="tiny-article">
                                                                 <a href="http://education.alot.com/higher-education/10-american-boarding-schools-that-look-like-hogwarts--11081" class="cf">
-                                                                    <img data-src="http://education.alot.com/assets/common/higher_education/u11081_60x60.jpg" alt="American boarding school that looks like Hogwarts" src="/assets/img/loader.gif" class="tiny-article-img  lazy-image">
+                                                                    <img data-src="http://education.alot.com/assets/common/higher_education/u11081_60x60.jpg" alt="American boarding school that looks like Hogwarts" src="" class="tiny-article-img  lazy-image">
                                                                     <span class="tiny-article-title">
                                                                         10 American Boarding Schools That Look Like Hogwarts
                                                                     </span>
@@ -749,10 +600,10 @@ popunderAdUnit.setTargeting("env",["PROD"]);
                                                         </div>
                                                         <div class="unit-6">
                                                             <div class="tiny-article">
-                                                                <a href="http://education.alot.com/higher-education/10-best-websites-for-online-english-lessons-for-kids--11524" class="cf">
-                                                                    <img data-src="http://education.alot.com/assets/common/higher_education/u11524_60x60.jpg" alt="Online English Lessons for Kids" src="/assets/img/loader.gif" class="tiny-article-img  lazy-image">
+                                                                <a href="http://education.alot.com/higher-education/english-classes-online-vs-traditional--12425" class="cf">
+                                                                    <img data-src="http://education.alot.com/assets/common/higher_education/u12425_60x60.jpg" alt="Woman weighs her options of online learning vs traditional" src="" class="tiny-article-img  lazy-image">
                                                                     <span class="tiny-article-title">
-                                                                        10 Best Websites for Online English Lessons for Kids
+                                                                        English Classes: Online vs. Traditional
                                                                     </span>
                                                                 </a>
                                                             </div>
@@ -787,20 +638,20 @@ popunderAdUnit.setTargeting("env",["PROD"]);
                                                 <div class="cf  header--unveil-images">
                                                         <div class="unit-6">
                                                             <div class="tiny-article">
-                                                                <a href="http://auto.alot.com/buyers-guide/top-20-dealerships-in-the-us--11408" class="cf">
-                                                                    <img data-src="http://auto.alot.com/assets/common/buyers_guide/u11408_60x60.jpg" alt="chrysler dodge jeep ram dealership" src="/assets/img/loader.gif" class="tiny-article-img  lazy-image">
+                                                                <a href="http://auto.alot.com/buyers-guide/5-compact-suvs-that-are-bigger-on-the-inside--10210" class="cf">
+                                                                    <img data-src="http://auto.alot.com/assets/common/buyers_guide/u10210_60x60.jpg" alt="Man driving a new compact SUV" src="" class="tiny-article-img  lazy-image">
                                                                     <span class="tiny-article-title">
-                                                                        Top 20 Dealerships in the U.S.
+                                                                        5 Compact SUVs That are Bigger on the Inside
                                                                     </span>
                                                                 </a>
                                                             </div>
                                                         </div>
                                                         <div class="unit-6">
                                                             <div class="tiny-article">
-                                                                <a href="http://auto.alot.com/buyers-guide/best-new-ford-models-of-2016--11595" class="cf">
-                                                                    <img data-src="http://auto.alot.com/assets/common/buyers_guide/u11595_60x60.jpg" alt="ford new models" src="/assets/img/loader.gif" class="tiny-article-img  lazy-image">
+                                                                <a href="http://auto.alot.com/buyers-guide/5-best-crossover-suvs-of-2017--12518" class="cf">
+                                                                    <img data-src="http://auto.alot.com/assets/common/buyers_guide/u12518_60x60.jpg" alt="" src="" class="tiny-article-img  lazy-image">
                                                                     <span class="tiny-article-title">
-                                                                        Best New Ford Models of 2016
+                                                                        5 Best Crossover SUVs of 2017
                                                                     </span>
                                                                 </a>
                                                             </div>
@@ -809,20 +660,20 @@ popunderAdUnit.setTargeting("env",["PROD"]);
                                                 <div class="cf  header--unveil-images">
                                                         <div class="unit-6">
                                                             <div class="tiny-article">
-                                                                <a href="http://auto.alot.com/buyers-guide/top-10-new-chevrolet-models--11593" class="cf">
-                                                                    <img data-src="http://auto.alot.com/assets/common/buyers_guide/u11593_60x60.jpg" alt="chevrolet new models" src="/assets/img/loader.gif" class="tiny-article-img  lazy-image">
+                                                                <a href="http://auto.alot.com/buyers-guide/which-2017-honda-accord-is-right-for-you--15101" class="cf">
+                                                                    <img data-src="http://auto.alot.com/assets/common/buyers_guide/u15101_60x60.jpg" alt="" src="" class="tiny-article-img  lazy-image">
                                                                     <span class="tiny-article-title">
-                                                                        Top 10 New Chevrolet Models
+                                                                        Which 2017 Honda Accord is Right for You?
                                                                     </span>
                                                                 </a>
                                                             </div>
                                                         </div>
                                                         <div class="unit-6">
                                                             <div class="tiny-article">
-                                                                <a href="http://auto.alot.com/buyers-guide/best-new-buick-models-of-2016--11597" class="cf">
-                                                                    <img data-src="http://auto.alot.com/assets/common/buyers_guide/u11597_60x60.jpg" alt="buick new models" src="/assets/img/loader.gif" class="tiny-article-img  lazy-image">
+                                                                <a href="http://auto.alot.com/buyers-guide/which-2018-buick-encore-is-right-for-you--15364" class="cf">
+                                                                    <img data-src="http://auto.alot.com/assets/common/buyers_guide/u15364_60x60.jpg" alt="a blue 2018 buick encore driving down the road" src="" class="tiny-article-img  lazy-image">
                                                                     <span class="tiny-article-title">
-                                                                        Best New Buick Models of 2016
+                                                                        Which 2018 Buick Encore Is Right for You?
                                                                     </span>
                                                                 </a>
                                                             </div>
@@ -921,9 +772,8 @@ popunderAdUnit.setTargeting("env",["PROD"]);
 	<li><strong>Register<u>.&nbsp; If you register for our forums or other services we ask you to provide information which may include items such as name, address, birthdate, gender, and password.</u></strong></li>
 	<li><strong><u>Sign up for Newsletters</u></strong><strong>.&nbsp; We offer newsletters to our users and from time to time we allow third party partners to include advertising materials in the newsletters.&nbsp; Additionally, we may send dedicated newsletters on behalf of our third party partners.&nbsp; All of our newsletters contain a readily identifiable and simple means to opt out of receiving them in the future.</strong></li>
 	<li><strong>Post in Comments, Discussion Forums, Reviews and Similar Places.&nbsp; Our services include public facing comments, discussion forums, reviews and other similar places where you can submit items to be posted which will be visible to the public at large.&nbsp; All information posted in such manner may be used by us for commercial uses in any format.&nbsp; All information submitted is not confidential or private and it may be collected and utilized by unaffiliated third parties.&nbsp; You are solely responsible for the information you choose to disclose in your public activities.</strong></li>
+	<li><strong>Participate in Giveaways, Sweepstakes and Other Promotions.&nbsp; We sponsor giveaways, sweepstakes and other promotions.&nbsp; If you chose to participate in our giveaways, sweepstakes or promotions, your personally identifiable information may be collected, including your name and e-mail address.</strong></li>
 </ul>
-
-<p><strong>Participate in Giveaways, Sweepstakes and Other Promotions.&nbsp; We sponsor giveaways, sweepstakes and other promotions.&nbsp; If you chose to participate in our giveaways, sweepstakes or promotions, your personally identifiable information may be collected, including your name and e-mail address.</strong></p>
 
 <p><strong>What we do with the information we collect </strong></p>
 
@@ -937,17 +787,13 @@ popunderAdUnit.setTargeting("env",["PROD"]);
 
 <p>While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Through features available on our site, third parties may use cookies or other technology to gather information. Alot does not control the use of this technology or the resulting information and is not responsible for any actions or policies of such third parties.</p>
 
-<p>We use third-party advertising companies to serve ads when you visit our Web site. These companies may use non-personal information (i.e., information that does not include your name, address, email address or telephone number) about your visits to this and other Web sites in an effort to provide advertisements about goods and services that may be of interest to you. To learn more about third-party advertising or to opt-out of such advertising, you can visit both the <a href="http://www.networkadvertising.org/" target="_blank">Network Advertising Initiative</a> and the <a href="http://www.aboutads.info/" target="_blank">Digital Advertising Alliance</a>.</p>
+<p>Alot sites use Inuvo, Inc. and third-party advertising companies to serve or deliver ads when you visit our websites. These companies may use non-personal information related to your visit in an effort to provide advertisements that may be of interest to you. To learn more about third-party advertising, interest based advertising, or to opt-out of such advertising, you can visit both the Network Advertising Initiative and the Digital Advertising Alliance. If you would like to opt-out of Inuvo Interest Based Advertising, please click on this <a href="https://www.netseer.com/netseer-inimage-ads/" target="_blank">link</a> and click on the “Opt out” button at the bottom of the page in the footer. Upon clicking “Opt out,” Inuvo will place an opt-out cookie on your browser. The opt-out cookie means you will not be retargeted by ads served through Inuvo’s Advertising Technology Platform. If you delete, block or otherwise restrict cookies, or if you use a different computer, mobile device or Internet browser, you may need to renew this opt-out choice. However, if you do choose to opt-in, Inuvo will delete the opt-out cookie and you may again be retargeted with relevant advertisement based on your visits to websites of our advertising clients.</p>
 
 <p>In addition to the above, we have implemented at Alot certain "Google Analytics" features that support display advertising, including re-targeting. Visitors to Alot&nbsp;may opt out of Google Analytics, customize the Google Display Network ads by using the <a href="https://www.google.com/settings/u/0/ads/" target="_blank">Google Ad Preferences Manager</a>&nbsp;and learn more about how Google serves ads by viewing its <a href="https://support.google.com/ads/?hl=en" target="_blank">Customer Ads Help Center</a>. If you do not wish to participate in Google Analytics, you may also download the <a href="https://tools.google.com/dlpage/gaoptout/" target="_blank">Google Analytics opt-out browser add-on</a>.</p>
 
 <h3>Communication with Contributors</h3>
 
 <p>Alot Contributors provide content to Alot.&nbsp; Contributors are independent contractors and not employees of Alot. &nbsp;If you contact a Contributor via e-mail or otherwise then that communication is independent of Alot and is not governed by this Privacy Policy. Alot is not responsible for the actions of our Contributors or how they may use information you have provided to them. Any communications with a Contributor are not confidential or subject to any other privilege.</p>
-
-<h3>Our Parent Company</h3>
-
-<p>Alot is a wholly-owned subsidiary of Inuvo, Inc. We share information we collect with Inuvo, Inc. to better understand our users and to improve the content delivered across the Inuvo, Inc. network.</p>
 
 <h3>Minors</h3>
 
@@ -973,7 +819,7 @@ popunderAdUnit.setTargeting("env",["PROD"]);
 
 <p>We listen to or read, as applicable, every message sent to us and endeavor to reply promptly to each one. This information is used to respond directly to your questions or comments. If you have any questions about this Privacy Policy or the practices of Alot, please feel free to contact us at <a href="mailto:info@alot.com">info@alot.com</a>.</p>
 
-<p>Last updated: May 12, 2016</p>
+<p>Last updated: November 16, 2017</p>
 
         </div>
     </div>
@@ -984,7 +830,7 @@ popunderAdUnit.setTargeting("env",["PROD"]);
     <footer class="copyright  pad-sides  cf">
         <a href="#site_header" class="back-to-top"><i class="icon-chevron-up"></i></a>
         <p>
-            <a href="http://www.inuvo.com">©2016 Inuvo, Inc.</a>
+            <a href="http://www.inuvo.com">©2018 Inuvo, Inc.</a>
             </p><nav class="homepage-footer-nav  no-layout pad-top">
                 <a href="http://alot.com/privacy" class="button--link">Privacy Policy</a>
                 <a href="http://alot.com/terms" class="button--link">Terms of Use</a>
@@ -994,6 +840,9 @@ popunderAdUnit.setTargeting("env",["PROD"]);
         <p></p>
     </footer>
 </div>
+<script type="text/javascript" src="/Scripts/navBarPanels.es5.min.js"></script>
+<script type="text/javascript" src="/Scripts/jquery.unveil.es5.min.js"></script>
+
 
 
 <script type="text/javascript">
@@ -1007,17 +856,6 @@ popunderAdUnit.setTargeting("env",["PROD"]);
     ga('set', 'forceSSL', true);
     ga('create', 'UA-4224885-6', 'auto');
     ga('send', 'pageview');
-    var pbjs = pbjs || {};
-    pbjs.que = pbjs.que || [];
-    pbjs.que.push(function () {
-        pbjs.enableAnalytics({
-            provider: 'ga',
-            options: {
-                global: 'ga', // <string> name of GA global. Default is 'ga'
-                enableDistribution: false,
-            }
-        });
-    });
 </script>
 <div class="cc_wrapper">
     <div class="cc_container g">
@@ -1117,21 +955,16 @@ popunderAdUnit.setTargeting("env",["PROD"]);
         }, i = d.getElementsByTagName(t)[0], i.parentNode.insertBefore(n, i)
     })(window, document, "script", "//bat.bing.com/bat.js", "uetq");
 </script>
-    <!-- /3551897/Alot_WallPaper -->
-    <div id="div-gpt-ad-1475760822650-0">
+    <!-- /3551897/Alot_OutOfPage -->
+    <div id="div-gpt-ad-1485791145467-0">
         <script>
-        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1475760822650-0'); });
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1485791145467-0'); });
         </script>
     </div>
-    <!-- /3551897/Alot_PopUnder -->
-    <div id="div-gpt-ad-1476465195595-0" style="height: 1px; width: 1px;">
-        <script>
-        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1476465195595-0'); });
-        </script>
-    </div>
+    <!-- NetSeer Pixel Code for Pixel "Alot.com_Universal(id: 11870) " (Client: Inuvo) Created on: 2017-02-10 -->
+    <script type="text/javascript"> netseer_task = "px"; netseer_pixel_id = "11870"; netseer_log_type = "ltpx"; </script>
+    <script src="https://ps.ns-cdn.com/dsatserving2/scripts/netseerads.js" type="text/javascript"></script>
+    <script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10000','properties':{'pixelId':'437656'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script>
+<script type="text/javascript"> if (!NREUMQ.f) {NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script"); e.type="text/javascript"; e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" + "js-agent.newrelic.com/nr-100.js"; document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","bam.nr-data.net","fb3dc2d528","7918243","b1EBZ0QDV0FUAEJdDVYbJ1xCLFxGdgxYQBBXWA9WRE1xXVgGGUQQUUICUE8=",0,46,new Date().getTime(),"AF29F3A026DF5E44","","","",""]);</script>
 
-
-
-
-
-</body></html>
+<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
