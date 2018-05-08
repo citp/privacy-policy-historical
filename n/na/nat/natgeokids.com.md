@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the natgeokids.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630055622id_/http%3A//kids.nationalgeographic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natgeokids.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508085434id_/https%3A//kids.nationalgeographic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
