@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xcaret.com privacy policy that was archived on 2017-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171106192423id_/http%3A//www.xcaret.com/privacy-notice.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xcaret.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508185030id_/http%3A//www.xcaret.com/privacy-notice.php) for the most accurate reproduction.*
 
 # Privacy Notice | Xcaret Park Cancun Mexico
 
@@ -18,7 +18,7 @@ In compliance with the Federal Law on Protection of Personal Data in Possession 
 * UK: 800 029 4608
 * USA/Canada: 844 795 4525
 
-Responsible for data Protection is the Web Development department and can be contacted by email at the following address: [](mailto:faraujo@experienciasxcaret.com.mx)
+Responsible for data Protection is the Web Development department and can be contacted by email at the following address: [](mailto:privacidad@experienciasxcaret.com.mx)
 
 **This Privacy Notice is for the following websites:**
 
@@ -120,7 +120,7 @@ A personal identification number which only the user can access and which only h
 If you participate in the email promotions service, you can disable the service at any time.  
 Opt-out: In regards to the publicity and promotions sent to you via email, we will inform you in each case how to unsubscribe easily and at no cost. 
 
-The area responsible for Data Protection is the Web Development department, who can be reached by email at faraujo@experienciasxcaret.com.mx or by calling the following numbers: 
+The area responsible for Data Protection is the Web Development department, who can be reached by email at privacidad@experienciasxcaret.com.mx or by calling the following numbers: 
 
 * Mexico/Cancun: (998) 881 9836
 * Spain: 800 0341 3498
@@ -130,7 +130,7 @@ The area responsible for Data Protection is the Web Development department, who 
 * USA/Canada: 844 795 4525
 
 Procedure so that the "User" can exercise their rights ARCO and revoke the consent granted is:  
-As holder of personal data, the Contractor may exercise ARCO rights (access, cancellation, rectification and opposition to the processing of personal data), or revoke the consent granted to Experiencias Xcaret for the treatment of your personal data by sending your request directly to the area of Web Development through the e-mail account: faraujo@experienciasxcaret.com.mx [](mailto:faraujo@experienciasxcaret.com.mx). 
+As holder of personal data, the Contractor may exercise ARCO rights (access, cancellation, rectification and opposition to the processing of personal data), or revoke the consent granted to Experiencias Xcaret for the treatment of your personal data by sending your request directly to the area of Web Development through the e-mail account: privacidad@experienciasxcaret.com.mx [](mailto:privacidad@experienciasxcaret.com.mx). 
 
 The request must contain at least: (a) name and address or other means to notify you of a reply to your request, (b) documents proving your identity or, where appropriate, legal representation, (c) a clear description and accurate personal data for which is requested to exercise any of the rights ARCO, (d) expressly stated to revoke its consent to the processing of personal data and therefore, to prevent use, (d) any other element that facilitates the location of the personal data.   
 Within a maximum of fifteen (15) business days we will reply your request and inform you about the origin of it.   
@@ -151,7 +151,8 @@ We reserve the right to make modifications or update this Privacy Notice at any 
 If the customer uses the services in any of the Experiencias Xcaret sites, it means that he /she has read, understood and agreed to the terms outlined above.  
 
 
- **Authority**  
-If you believe that your rights have been violated regarding the protection of personal data, you have the right to go to the appropriate authority to defend its exercise. The authority is the Federal Institute of Access to Information and Data Protection (IFAI), their website is: www.ifai.mx 
+**Authority** If you believe that your rights have been violated regarding the protection of personal data, you have the right to go to the appropriate authority to defend its exercise. The authority is the Federal Institute of Access to Information and Data Protection (IFAI), their website is: www.ifai.mx 
+
+[**To revoke the use of your personal data, download the ARCO format here**](http://www.xcaretexperiencias.com/API/SOLICITUD_DE_DERECHOS_ARCO_INGLES.pdf)
 
 **Privacy notice last updated on May the 24th, 2017.**
