@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoworld.com.my privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224140929id_/http%3A//www.autoworld.com.my/news/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoworld.com.my privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508184521id_/http%3A//autoworld.com.my/news/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Autoworld.com.my
 
