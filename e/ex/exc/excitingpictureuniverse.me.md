@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the excitingpictureuniverse.me privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208085926id_/http%3A//excitingpictureuniverse.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the excitingpictureuniverse.me privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508133137id_/http%3A//excitingpictureuniverse.me/privacy) for the most accurate reproduction.*
 
 # privacy – excitingpictureuniverse.me
 
@@ -94,4 +94,4 @@ _Violations and Comments_
 Please report any violations of the TOS to abuse@, titled : Abuse/Violation; or make any comments to info@.
 
 _Last Updated_  
-Wednesday, November 1st 2017 – 00:04:23 PM
+Friday, January 26th 2018 – 00:04:23 AM
