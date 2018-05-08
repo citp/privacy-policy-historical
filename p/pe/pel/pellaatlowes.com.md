@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pellaatlowes.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219123531id_/http%3A//www.lowes.com/cd_Privacy%2Band%2BSecurity%2BStatement_137461171_) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pellaatlowes.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508073055id_/http%3A//www.lowes.com/cd_Privacy%2Band%2BSecurity%2BStatement_137461171_) for the most accurate reproduction.*
 
 # Lowe's Home Improvement U.S. Privacy Statement
 
