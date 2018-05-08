@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zulagames.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107103738id_/http%3A//www.zulagames.com/site-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zulagames.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508033511id_/http%3A//www.zulagames.com/site-privacy) for the most accurate reproduction.*
 
 # ZulaGames: Site Privacy
 
