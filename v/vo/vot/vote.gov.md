@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vote.gov privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107201726id_/https%3A//www.usa.gov/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vote.gov privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508061933id_/https%3A//www.usa.gov/policies) for the most accurate reproduction.*
 
 # Privacy, Security, and Accessibility Policies | USAGov
 
@@ -46,7 +46,7 @@ Back to Top
 
 ## External Links
 
-USA.gov links to many websites created and maintained by other public and/or private organizations as outlined in our [Linking Policy](https://web.archive.org/linking-policy). If you click a link to an outside website, you will leave the USA.gov site and are subject to the privacy and security policies of the owners/sponsors of the outside website.
+USA.gov links to many websites created and maintained by other public and/or private organizations as outlined in our [Linking Policy](https://web.archive.org/linking-policy). If you click a link to an outside website, you will leave the USA.gov site, and are subject to the privacy and security policies of the owners/sponsors of the outside website.
 
 ### Social Media Sites
 
@@ -60,8 +60,10 @@ We do not collect personal information for any purpose other than to respond to 
 
 We only share the information you give us with another government agency if your question relates to that agency, or as otherwise required by law. USA.gov never collects information or creates individual profiles for commercial marketing.
 
+Share This Page: [](http://www.facebook.com/sharer/sharer.php?u=https://www.usa.gov%2Fpolicies&v=3) [](http://twitter.com/intent/tweet?source=webclient&text=Privacy%2C+Security%2C+and+Accessibility+Policies+https://www.usa.gov%2Fpolicies) [](mailto:?subject=Privacy,%20Security,%20and%20Accessibility%20Policies&body=https://www.usa.gov%2Fpolicies)
+
 Back to Top
 
-Last Updated: September 05, 2017
-
 ## What you think matters!
+
+Last Updated: April 13, 2018
