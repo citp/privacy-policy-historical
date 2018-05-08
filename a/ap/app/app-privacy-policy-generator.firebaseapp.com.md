@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the app-privacy-policy-generator.firebaseapp.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629214657id_/https%3A//app-privacy-policy-generator.firebaseapp.com/%23privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the app-privacy-policy-generator.firebaseapp.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508051627id_/https%3A//app-privacy-policy-generator.firebaseapp.com/%23privacypolicy) for the most accurate reproduction.*
 
 # App Privacy Policy Generator
 
@@ -20,13 +20,13 @@ The app does use third party services that may collect information used to ident
 
 **Log Data**
 
-{{iOrWe | capitalize }} want to inform you that whenever you use {{myOrOur }} Service, in a case of an error in the app {{iOrWe }} collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing {{myOrOur }} Service, the time and date of your use of the Service, and other statistics. 
+{{iOrWe | capitalize }} want to inform you that whenever you use {{myOrOur}} Service, in a case of an error in the app {{iOrWe }} collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing {{myOrOur }} Service, the time and date of your use of the Service, and other statistics. 
 
 **Cookies**
 
-Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your device internal memory. 
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory. 
 
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service. 
+This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service. 
 
 **Service Providers**
 
