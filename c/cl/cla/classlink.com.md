@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classlink.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709061346id_/https%3A//www.classlink.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classlink.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508073846id_/https%3A//www.classlink.com/privacy) for the most accurate reproduction.*
 
 # Privacy - ClassLink | Single Sign-On for Education
 
@@ -56,9 +56,13 @@ ClassLink is a signatory to the Student Privacy Pledge and abides by the commitm
 
 The Family Educational Rights and Privacy Act (FERPA) (20 U.S.C. § 1232g; 34 CFR Part 99) is a Federal law that protects the privacy of student education records. The law applies to all schools that receive funds under an applicable program of the U.S. Department of Education. FERPA sets forth protocols for ensuring privacy and security of personally identifiable information of students. ClassLink adheres to the data protection protocols set forth in FERPA.
 
-### United States – Children’s Online Privacy Protection Act ([COPPA](http://Children’s Online Privacy Protection Act \(COPPA\)))
+ClassLink is [iKeepSafe Certified](https://ikeepsafe.org/certification/ferpa/):  _The iKeepSafe FERPA Certification demonstrates compliance with the federal mandates as well as iKeepSafe’s rigorous guidelines through the published Product Profile._
+
+### United States – Children’s Online Privacy Protection Act ([COPPA](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule))
 
 ClassLink is compliant with the regulations put forth by the Children’s Online Privacy Protection Act (COPPA). ClassLink maintains and protects only that information which enables users to operate ClassLink services.
+
+ClassLink is [iKeepSafe Certified](https://ikeepsafe.org/certification/coppa/): _The iKeepSafe COPPA Safe Harbor Certification program ensures that practices surrounding collection, use, maintenance and disclosure of personal information from children under the age of 13 are consistent with principles and requirements of the Children’s Online Privacy Protection Act (COPPA). Companies that comply with the guidelines are awarded a badge, making it easy for parents and schools to identify products that are compliant with COPPA._
 
 ### United States – Children’s Internet Protection Act ([CIPA](https://www.fcc.gov/consumers/guides/childrens-internet-protection-act))
 
@@ -74,17 +78,37 @@ The Children’s Internet Protection Act (CIPA) requires schools and libraries r
 
 Although ClassLink does not itself prevent access to inappropriate websites, that burden belongs to the school or library, ClassLink can help create an intentional internet experience for young students by enabling instant access to positive online resources from any device.
 
-### European Union –  General Data Protection Regulation ([GDPR](http://www.privacy-regulation.eu/en/index.htm))
+### European Union – General Data Protection Regulation ([GDPR](http://www.privacy-regulation.eu/en/index.htm))
 
-ClassLink is compliant with the regulations put forth by the EU General Data Protection Regulation.
+GDPR is the newest body of regulation regarding the handling of personal data for citizens of the European Union (EU). The primary objective of the GDPR is to give citizens back control of their personal data. Effective May 25, 2018, GDPR replaces previous and other data protection regulations throughout the EU. ClassLink is currently compliant with the EU General Data Protection Regulation.
 
-  * Data Sovereignty: Personal data for educational agencies based in the EU or UK stored on ClassLink database infrastructure that are based in the EU or UK.
+GDPR includes 11 chapters and nearly 100 articles. Below are some of the most relevant articles.
+
+  * Article 5 “Principles relating to processing of personal data”: ClassLink is a trusted steward of personal data. Data received from educational agencies is to be used solely for purposes of providing educational services. Such data will not be sold or used for marketing purposes.
+  * Article 17 “Right to be forgotten”:  Schools can choose to delete users from ClassLink at any time. Individual users can choose to delete any data they’ve added to ClassLink at any time. ClassLink promptly deletes data associated with schools no longer working with ClassLink.
+  * Article 32 “Security of processing”: ClassLink keeps all personal data confidential and secure. ClassLink team members are bound by contractual non-disclosure agreements. ClassLink’s data security protections include: internal data management policies and procedures, limitations on access to personal data, data encryption (for both data in transit and at rest), data systems monitoring, incident response plans, and safeguards to ensure personal data is not accessed by unauthorized persons when transmitted over communication networks.
+  * Article 32 “Notification of a personal data breach to the supervisory authority”: GDR requires notice to the supervisory authority within 72 hours of awareness of a personal data breach. Discovery of a security breach that results in an unauthorized release of personal data: ClassLink shall promptly notify affected educational agencies of such breach, shall conduct an investigation, and shall restore the integrity of its data systems as soon as possible. ClassLink will fully cooperate and assist with required notices to those individuals affected by such breach.
+  * Article 35: “Data protection impact assessment”: ClassLink conducts various security assessments of our systems. Certain security tests are conducted annually, others more frequently and some other tests are running constantly.
+  * Article 37: “Designation of a data protection officer”: ClassLink maintains a designated data protection officer who is authorized to engage security reviews and impact product development.
+  * Article 44: “General principle for transfers”: To promote data sovereignty/data residency in GDPR, the regulation authorizes the [European Commission](https://ec.europa.eu/commission/index_en) to decide if a third country or territory, where data may be transferred, meets adequate levels of protection. As GDPR is new, no third country or territory has yet been approved by the Commission. ClassLink customers located in the EU or UK are assigned to a data center based in the EU (Frankfurt, Germany). This EU data center maintains all needed ClassLink application and data servers and no server outside of that datacenter is used to store data or deliver services to EU or UK based customers.
 
 
 
-### California – Chapter 22.2. Student Online Personal Information Protection Act ([SOPIPA](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201320140SB1177))
+### California – California Sudent Privacy Certification (CSPC) issued by iKeepSafe
 
-ClassLink is compliant with the regulations put forth by Chapter 22.2. Student Online Personal Information Protection Act (SOPIPA).
+_The[CSPC](https://ikeepsafe.org/certification/cspc/) builds on iKeepSafe’s FERPA Assessment and COPPA Safe Harbor, which help educators and parents find products that meet the expectations of federal privacy laws. This certification is recommended for operators and providers of websites and online services that are, whole or in part, intended for use in and by schools. Earning the [iKeepSafe CSPC](https://ikeepsafe.org/certification/cspc/) asserts that your technology company is a leader in student privacy._
+
+_The certification assesses for  federal and California laws governing student data privacy, including:  
+_
+
+  * _Family Educational Rights and Privacy Act (“FERPA”)_
+  * _Protection of Pupil Rights Amendment (“PPRA”)_
+  * _California Education Code 49073.6 – Collection of Student Information from Social Media_
+  * _California AB 1584, Education Code section 49073.1 – Privacy of Pupil Records: 3rd-Party Digital_
+  * _Storage & Education Software_
+  * _Student Online Personal Information Protection Act (“[SOPIPA](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201320140SB1177)”)_
+
+
 
 In addition to the above guiding principles on personal data:
 
@@ -92,9 +116,9 @@ In addition to the above guiding principles on personal data:
 
 
 
-### Connecticut – Public Act No. 16-189, Student Data Privacy ([PA 16-189](https://www.cga.ct.gov/2016/act/pa/pdf/2016PA-00189-R00HB-05469-PA.pdf))
+### Connecticut – § [10-234aa](https://www.cga.ct.gov/2017/pub/chap_170.htm) through § [10-234dd](https://www.cga.ct.gov/2017/pub/chap_170.htm), Student Data Privacy
 
-ClassLink is compliant with the regulations put forth by Public Act No. 16-189, An Act Concerning Student Data Privacy (PA 16-189).
+ClassLink is compliant with the regulations put forth by § [10-234aa](https://www.cga.ct.gov/2017/pub/chap_170.htm) through § [10-234dd,](https://www.cga.ct.gov/2017/pub/chap_170.htm) An Act Concerning Student Data Privacy.
 
 In addition to the above guiding principles on personal data:
 
