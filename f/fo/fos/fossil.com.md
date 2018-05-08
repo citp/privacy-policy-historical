@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fossil.com privacy policy that was archived on 2017-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170410175310id_/https%3A//www.fossil.com/us/en/customer-care/privacy-and-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fossil.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508072504id_/https%3A//www.fossil.com/us/en/customer-care/privacy-and-security.html) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -6,36 +6,37 @@
 
 ### PRIVACY POLICY
 
-**This Privacy Policy was posted on September 26, 2016.**
+**This Privacy Policy was posted on July 25, 2017.**
 
-At Fossil Group, Inc. (" **Fossil** ", " **we** " or “ **us** ”), we respect and protect your privacy rights. This Privacy Policy describes:
+At Fossil Group, Inc. ("Fossil", "we" or “us”), we respect and protect your privacy rights. This Privacy Policy describes:
 
-  * When and what information we collect in our stores, our websites, or by any of our service providers through our website or in our stores.
+  * Personal Information we collect in our stores, our websites, or by any of our service providers through our website or in our stores, and the purposes for which we use it.
 
-  * How we use Personal Information we collect.
+  * Personal Information we transfer to third parties
 
-  * Your rights regarding your Personal Information.
-
-
+  * Rights you have and how you can execute such rights.
 
 
-“Personal Information” is information through which you can be directly or indirectly identified, e.g. your name, your e-mail address and items you purchased (provided we can connect them to your e-mail/customer account).
+
+
+“Personal Information” is information that can be used either directly or indirectly to identify you. Examples of Personal Information include your name, your email address and items you purchased (provided we can connect them to your email/customer account).
 
 By using this website or our products and services, you consent to our collection, use and disclosure of your Personal Information as set out in this Privacy Policy.
 
-Please note that this Privacy Policy DOES NOT apply to information we collect through any Fossil App or FOSSIL branded device.  Please refer to the Privacy Policies in the Fossil App for information on privacy for that information.
+Please note that this Privacy Policy DOES NOT apply to information we collect through any of our Apps or wearable technology devices. Please refer to the Privacy Policies of our App(s) for privacy information related to our wearable technology apps and devices.
 
 ### WHEN WE COLLECT PERSONAL INFORMATION
 
 We receive Personal Information from or about you depending on the nature of your activities, especially in the following cases:
 
-  * **Website Sign-up/Registering:** We store the information that you provide to us when you create an account at our website (including e-mail, name, date of birth and additional information you may voluntarily provide us such as your general interests or when you create a wish list). We will also collect this information when you sign-up using a social media log in, such as via Facebook or Google+. We do not collect or store your social media password information if you sign up using a social media log in.
-  * **Electronic Receipt Registration:** You give us your name and e-mail address in our stores to receive an electronic receipt for your purchase.
+  * **Website Sign-up/Registering:** We store the information that you provide to us when you create an account at our website (including email, name, date of birth and additional information you may voluntarily provide us such as your general interests or when you create a wish list). We will also collect this information when you sign-up using a social media log in, such as via Facebook or Google+. We do not collect or store your social media password information if you sign up using a social media log in.
+  * **Electronic Receipt Registration:** You give us your name and email address in our stores to receive an electronic receipt for your purchase.
 
-  * **Transactions:** We collect details of purchases on our websites or in stores if you join our loyalty program, elect to receive an electronic receipt (date, price and products purchased) as well as when you return or exchange a product or when you send us your product for warranty or repair service and any communication in connection with this.
+  * **Transactions:** We collect details of your purchases, if you join our loyalty program, elect to receive an electronic receipt (date, price and products purchased), when you return or exchange a product or when you send us your product for warranty or repair service and any communication in connection with this.
 
-  * **Visiting our Website/Using E-mails:** We store details of your visits to websites (such as pages visited, browser details, your IP address) and your interactions with any e-mails that we send to you. For more information, see our Cookies Section. We also collect information you share via our website, such as to request marketing materials, obtain a lost password, or to write an online review of our products.
+  * **Visiting our Website/Using Emails:** We store details of your visits to websites (such as pages visited, browser details, your IP address) and your interactions with any emails that we send to you.
 
+****
   * **Sweepstakes, Contest, or Promotion Registration:** You provide your name and contact information to enter a sweepstakes, contest/competition, or promotion sponsored by us.
 
   * **Social Media Sharing:** You share any pictures/materials with us for publication on social media.
@@ -47,13 +48,13 @@ We receive Personal Information from or about you depending on the nature of you
 
 
 
-### HOW WE USE PERSONAL INFORMATION
+### **HOW WE USE PERSONAL INFORMATION**
 
-#### Transactions/Provision of Services:
+#### **Transactions/Provision of Services:**
 
   * **Transactions:** We use your Personal Information to process your purchases, send you confirmations or electronic receipts (if you requested this), screen transactions for fraudulent behavior, and handle any returns, exchanges or repairs to your products, to respond to customer service requests, and for any related communications.
 
-  * **Administer Websites:** We use your Personal Information to administer your website accounts such as to enable you to access your shopping bag, to see products you purchased from us, products you saved for later, products you registered (which may earn you rewards to redeem at stores), or to show you other products that may interest you. We also may use your Personal Information to provide other services, such as to process catalog requests. To process email marketing requests, to provide you with promotional offers, verify your identity in the event you lose your password, or process your product reviews.
+  * **Administer Websites:** We use your Personal Information to administer your website accounts such as to enable you to access your shopping bag, to see products you purchased from us, products you saved for later, products you registered (which may earn you rewards to redeem at stores), or to show you other products that may interest you. We also may use your Personal Information to provide other services, such as to process catalog requests, verify your identity in the event you lose your password, process your product reviews, to process email marketing requests, or to provide you with promotional offers.
 
   * **Customer Loyalty Program:** When you enter our loyalty program we process personal data such as your purchases to determine and provide you with loyalty rewards.
 
@@ -63,7 +64,7 @@ We receive Personal Information from or about you depending on the nature of you
 
   * **Analytics:** We may store details of your visits to our websites and your electronic interactions with any emails that we send to you ("Usage Data") under a pseudonym (i.e. not under your name but under an ID number), including the pages you visited and services you used. We use such Usage Data to help us learn more about our users’ shopping preferences, to be able to tailor our offers and websites according to your interests and preferences, to help us address problems with and improve our site design, products and services, to analyze trends and statistics and to present content in the clearest and most friendly manner for you.
 
-  * **Marketing:** We may contact you for direct marketing purposes per e-mail, mail, or via other electronic communication methods (e.g. social media) unless you have opted-out from receiving further direct marketing messages (see below for your opt-out options). For certain types of direct marketing methods (e.g. text messaging), we will obtain your explicit consent prior to sending you direct marketing messages.
+  * **Marketing:** We may contact you for direct marketing purposes per email, mail, or via other electronic communication methods (e.g. social media) unless you have opted-out from receiving further direct marketing messages (see below for your opt-out options). For certain types of direct marketing methods (e.g. text messaging), we will obtain your explicit consent prior to sending you direct marketing messages. We may use your Personal Information for other marketing and market research purposes to learn more about our customers and users.
 
   * **Securing our assets:** We may also use Personal Information to protect the security or integrity of our websites and our business.
 
@@ -73,13 +74,13 @@ We receive Personal Information from or about you depending on the nature of you
 
 ### USE OF PERSONAL INFORMATION FOR MARKETING PURPOSES
 
-We may also use your Personal Information for marketing and market research purposes to learn more about our customers and users. We will only contact you for direct marketing purposes in accordance with applicable laws.
+As indicated above, we may use your Personal Information for marketing and market research purposes to learn more about our customers and users as well as for direct marketing purposes. We will only contact you for direct marketing purposes in accordance with applicable laws.
 
-You may opt-out of our use of your Personal Information for marketing and market research purposes at any time by sending an e-mail to CorporateCompliance@Fossil.com.
+You may opt-out of our use of your Personal Information for marketing, market research, or direct marketing purposes at any time by sending an email to CorporateCompliance@fossil.com.
 
 ### COOKIES AND OTHER TECHNOLOGIES
 
-We are using cookies and other technologies like pixel tags for purposes described below. Cookies are small files which are sent from the website and then stored on the hard drive of your device. Pixel tags, also called web beacons are clear image (i.e. non-visible) files that may be placed on a website or in an e-mail, and request information from your device such as your browser type (also referred to as " **Cookies** ").
+We are using cookies and other technologies like pixel tags for purposes described below. Cookies are small files which are sent from the website and then stored on the hard drive of your device. Pixel tags, also called web beacons are clear image (i.e. non-visible) files that may be placed on a website or in an email, and request information from your device such as your browser type (also referred to as " **Cookies** ").
 
 We may permit third parties to collect user Personal Information over time or across third-party websites, and we may permit third parties to gather Personal Information passively on our websites for behavioral advertising purposes.
 
@@ -97,7 +98,7 @@ We use Cookies for different purposes, which can be categorized as follows:
 
 
 
-  * **Analytical Cookies:** These Cookies analyze how users navigate around the website (pages visited, links used etc.) or how they use e-mails we’ve sent to them. They enable us to better understand interests of users and to improve our website and services.
+  * **Analytical Cookies:** These Cookies analyze how users navigate around the website (pages visited, links used etc.) or how they use emails we’ve sent to them. They enable us to better understand interests of users and to improve our website and services.
 
     * **Google Analytics:** This Website uses Google Analytics, a web analysis service provided by Google Inc. ("Google"). The information generated by the cookie is usually sent to a Google server in the USA. On our behalf, Google will use this information to evaluate your use of the website and to compile reports on website activities. The IP address transmitted by your browser is not collated with other data by Google.
 
@@ -121,18 +122,22 @@ You may disable Adobe Analytics using the following link:
 
 
 
-  * **Third party advertising:** We use third-party service providers to display advertisements (banners or links) on our behalf across the internet. These advertising service providers may collect information about your visits to our website and your interactions with our products and services, as well as your visits to other websites. Such information does not include your name, address, e-mail address but may contain browser-related information.
+  * **Third party advertising:** We use third-party service providers to display advertisements (banners or links) on our behalf across the internet. These advertising service providers may collect information about your visits to our website and your interactions with our products and services, as well as your visits to other websites. Such information does not include your name, address, email address but may contain browser-related information.
 
 Currently, we use cookies from the following advertising delivery partners:
 
     * **Criteo SA** , whose privacy policy can be accessed by visiting their website at the following link: <http://www.criteo.com/privacy/>. Each banner will include a link to Criteo’s Privacy Policy page that will include information on how to disable Criteo service. Criteo also creates a unique code (a "hash") from your email address if you log in on our website to be able to identify users across various devices.
 
-    * **Google:** You can find more information about Goggle's re-marketing practices by clicking on this link: <http://www.google.de/policies/technologies/ads/>. If you want to prevent Google from setting cookies and collecting data for behavioral advertising, you may deactivate this setting by visiting [this](https://www.google.com/settings/u/0/ads?hl=de&sig=ACi0TCiJLnmRP_X42kTbkpYAJfbzftbiFBcZLCs5srdq1TMaMTiQ24yEaPPczKfG17i87EsUQRlsdE5CIkh8vcObzbPQuguq7tv7iv3YWNQ2KR0mo5vk9qTjuLHmms8Yr1UH0hTpBfA85u0q1Jl7LtdEkr6Ug4HW1kbwbxbK00c5vRfev1jkEO8) page.
+    * **Google:**  You can find more information about Google's re-marketing practices by clicking on this link:
 
-    * **Facebook:** Through the Facebook Conversion Tracking technique we are able to measure the effectiveness of our Facebook campaigns. Facebook is tracking on our behalf visitors on our website that came to us through a link in one of our Facebook campaigns. You can opt-out from this by using the link about online advertising directly below.
+    * <http://www.google.com/policies/technologies/ads/>. If you want to prevent Google from setting cookies and collecting data for behavioral advertising, you may deactivate this setting by visiting this page.  
 
-For more information about third party online advertising and an easy option to opt-out please visit <http://www.youronlinechoices.com/>.
+    * **Facebook:** Through the use of the Facebook Pixel integrated on certain pages of our website, we are able to measure the effectiveness of our Facebook marketing campaigns (conversion tracking) and to create custom audiences of users who have visited our website. We will use those custom audiences to improve the targeting of our Facebook campaigns. The Pixel is sending “Event Data” to Facebook to permit Facebook to track - on our behalf - the way visitors use our website.
+    * You can opt-out from this by using the following links about online advertising:
 
+      * Digital Advertising Alliance in the US – <http://www.aboutads.info/choices/>
+      * Digital Advertising Alliance of Canada in Canada – <http://youradchoices.ca/choices>
+      * European Interactive Digital Advertising Alliance in Europe – [http://www.youronlinechoices.com](http://www.youronlinechoices.com/)
 
 
 
@@ -173,15 +178,15 @@ The security of your Personal Information is important to us. Accordingly, while
 
 ### LINKS TO OTHER MATERIALS
 
-If you are offered a link to connect to a third-party website, it is for the convenience of our website visitors. Sites linked to and from this website are not necessarily under the control of us and we have no responsibility for the content or privacy practices of any such linked site or service. We recommend that you read the privacy policies of those third parties to see how your information is handled.
+If you are offered a link to connect to a third-party website, it is for the convenience of our website visitors. Sites linked to and from this website are not necessarily under the control of us and we have no responsibility for the content or privacy practices of any such linked site or service. We recommend that you read the privacy policies of those third parties to see how your information is handled, processed, or shared.
 
 ### CALIFORNIA RESIDENTS
 
-Under California law, California residents who have an established business relationship with Fossil may make a written request to Fossil about how we have shared their personal information with third parties for direct marketing purposes during the prior calendar year. In response to a written request, Fossil is allowed to provide a cost-free means to opt-out of such sharing.
+California law requires certain businesses to respond to requests from California residents asking about the disclosure of Personal Information to third parties for marketing purposes. Alternatively, such businesses may adopt a policy of not disclosing Personal Information to third parties for marketing purposes if a California resident opts-out. We have an opt-out policy.
 
-Fossil has opted to provide you with a cost-free means to opt-out of such sharing. If you do not want Fossil to disclose information to other companies for their marketing purposes, please follow the opt-out procedures set forth below.
+Fossil provides you with a cost-free means to opt-out of such sharing, if you do not want Fossil to disclose information to other companies for their marketing purposes, please follow the opt-out procedures set forth below.
 
-You may also send an email to [CorporateCompliance@fossil.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=fossil@fossil.com) instructing us to no longer share your personal information with third parties who will use it for direct marketing purposes. Please also include your name and all of the postal addresses and email addresses that you have provided to us.
+You may also send an email to [CorporateCompliance@fossil.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=ukenquiries@fossil.com) instructing us to no longer share your personal information with third parties who will use it for direct marketing purposes. Please also include your name and all of the postal addresses and email addresses that you have provided to us.
 
 ### OPT-OUT PROCEDURES
 
@@ -197,36 +202,36 @@ We do not knowingly collect, maintain, or use Personal Information from our Webs
 
 ### ACCESS TO AND YOUR RIGHTS REGARDING YOUR PERSONAL INFORMATION
 
-This website gives you the ability to view and change the Personal Information you provided to us within the My Account section of the website. You may access information we hold about you, request a correction where data is incorrect or a deletion of your data, unless we have to keep your data for legal reasons. For any inquiries please contact us at CorporateCompliance@Fossil.com or our help desk under 1 (800) 449-3056.
+This website gives you the ability to view and change the Personal Information you provided to us within the My Account section of the website. You may access information we hold about you, request a correction where data is incorrect or a deletion of your data, unless we have to keep your data for legal reasons.
 
 We encourage you to address any concerns you may have regarding our use of your Personal Information by using the contact details provided below.
 
-If your Personal Data is subject to the Privacy Shield you can also address your concern regarding the use of your Personal Information to the Direct Marketing Association (DMA) free of charge. DMA contact information:
+### PRIVACY SHIELD
 
-Privacy Shield Line  
-Direct Marketing Association  
-1615 L Street, NW - Suite 1100  
-Washington, DC 20036
+As Fossil Group, Inc. is a US based company, Personal Information will be primarily stored in the United States. In order to provide an adequate level of protection according to EU laws, Fossil Group, Inc., complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework Principles as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of all personal data from the European Union and Switzerland to the United States, respectively. Fossil has certified that it adheres to the Privacy Shield Principles of notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access and recourse, enforcement and liability and is supervised by the U.S. Federal Trade Commission (FTC). If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view Fossil's certification, please visit [https://www.privacyshield.gov/welcome](https://www.privacyshield.gov/welcomez). To view Fossil’s certification on the Privacy Shield list, see the U.S. Department of Commerce’s Privacy Shield certification list located at <https://www.privacyshield.gov/list>. Fossil Group’s subsidiaries, including Fossil Partners, LP, also adhere to the Privacy Shield Principles.
 
-To file a complaint/inquiry: <https://thedma.org/shield-complaint-form/>
+If your Personal Information is subject to the Privacy Shield, and you do not believe Fossil has adequately addressed your privacy concerns, you can also address your concerns regarding the use of your Personal Information to the DMA free of charge.
 
-For information about the DMA and their Privacy Shield program visit: [www.thedma.org/privacy-shield-safe-harbor-for-consumers/](http://www.thedma.org/privacy-shield-safe-harbor-for-consumers/)
+DMA contact information:
+
+DMA  
+Privacy Shield  
+1333 Broadway, Suite #301  
+New York, NY 10018
+
+To file a complaint/inquiry: <https://thedma.org/resources/consumer-resources/privacyshield-consumers/>
+
+For information about the DMA and their Privacy Shield program visit: <https://thedma.org/resources/consumer-resources/privacyshield-consumers/>
 
 In cases where the issue cannot be resolved by us or through the alternative dispute resolution proceedings you may invoke binding arbitration as further described in the Privacy Shield.
 
-### PRIVACY SHIELD
-
-Fossil complies with the EU-U.S. Privacy Shield Framework Principles as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of all personal data from European Union member countries. Fossil has certified that it adheres to the Privacy Shield Principles of notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access, and recourse, enforcement, and liability, and is supervised by the U.S. Federal Trade Commission (FTC). To learn more about the Privacy Shield program, and to view Fossil's certification, please visit <https://www.privacyshield.gov/welcome>. To view Fossil's certification on the Privacy Shield list, see the US Department of Commerce’s Privacy Shield self-certification list that may be found at: <https://www.privacyshield.gov/list>. Fossil Group’s subsidiaries, including Fossil Partners LP and Misfit, Inc. also adhere to the Privacy Shield Principles.
-
-Fossil’s independent resolution dispute provider is the Direct Marketing Association and their contact information is listed above in the section entitled “Access To and Your Rights Regarding Your Personal Information”.
-
 ### WEBSITE LOCATION
 
-The Site is operated by Fossil in the United States. If you are located outside the United States, please be aware that information we collect, including Personal Information, may be transferred to, processed, and stored in the United States. To the maximum extent permitted by applicable law, by using the Fossil websites or providing us with any information, you consent to the transfer, processing, and storage of your information in the United States. To the maximum extent permitted by applicable law, you are also consenting to the application of United States federal and Texas state law in all matters concerning the Site and this Privacy Policy.
+The Site is operated by Fossil in the United States, and Personal Information will be primarily stored in the United States. **By providing Personal Information to us, to the maximum extent permitted by applicable law, you acknowledge that we collect, maintain, process and transfer such information in and to the United States and other countries and territories, pursuant to the laws of the United States or such other jurisdictions, which may provide lesser privacy protections than EEA countries, and to the maximum extent permitted by applicable law, you acknowledge that your information may thus be subject to U.S. federal and Texas state law and other foreign laws and accessible to U.S. and foreign governments, courts, law enforcement and regulatory agencies.**
 
 ### CHANGES TO THIS PRIVACY POLICY
 
-This Privacy Policy was posted on September 26, 2016. Any changes we may make to our Privacy Policy in the future will be posted on this page and, when appropriate, notified to you by e-mail.
+This Privacy Policy was posted on July 25, 2017. Any changes we may make to our Privacy Policy in the future will be posted on this page and, when appropriate, notified to you by email.
 
 ### HOW TO CONTACT US
 
@@ -234,15 +239,11 @@ Please address any questions or concerns, inquiries, complaints, requests to acc
 
 Telephone Number: 1 (800) 449-3056
 
-E-mail Address: [CorporateCompliance@fossil.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=ukenquiries@fossil.com)
+Email Address: [CorporateCompliance@fossil.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=ukenquiries@fossil.com)
 
-Alternatively please feel free to directly contact our US Compliance Department:
+You can also contact us via mail:
 
-Fossil Group Inc.  
-Attention: Chris King  
-Chief Compliance Officer  
+Fossil Group  
+Attention: Chris King, Chief Compliance & Risk Officer  
 901 S. Central Expressway  
-Richardson, TX 75080  
-USA
-
-E-mail: CorporateCompliance@fossil.com
+Richardson, TX 75080, USA
