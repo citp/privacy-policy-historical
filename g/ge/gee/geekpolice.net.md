@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekpolice.net privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105164817id_/http%3A//www.geekpolice.net/h31-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekpolice.net privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508202105id_/http%3A//www.geekpolice.net/h31-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
