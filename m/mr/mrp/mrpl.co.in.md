@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrpl.co.in privacy policy that was archived on 2017-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170805004349id_/https%3A//mrpl.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrpl.co.in privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508183547id_/https%3A//mrpl.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mangalore Refinery and Petrochemicals Limited
 
