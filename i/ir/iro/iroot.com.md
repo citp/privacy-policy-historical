@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iroot.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107163325id_/http%3A//www.iroot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iroot.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508181110id_/http%3A//www.iroot.com/privacy-policy) for the most accurate reproduction.*
 
 # iRoot Privacy Policy
 
@@ -37,4 +37,4 @@ Our service in iRoot is not intended for person under the age of 13. We require 
 
 **Contact Information**
 
-We hope everyone learn the Privacy Policy before using iRoot apps. So if you have any problems on the terms and conditions, please contact us via [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+We hope everyone learn the Privacy Policy before using iRoot apps. So if you have any problems on the terms and conditions, please contact us via support@iroot.com. 
