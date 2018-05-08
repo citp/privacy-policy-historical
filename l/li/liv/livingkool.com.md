@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livingkool.com privacy policy that was archived on 2017-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171010003445id_/https%3A//www.livingkool.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingkool.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508045208id_/https%3A//www.livingkool.com/privacy-policy) for the most accurate reproduction.*
 
 # Living kool - Privacy Policy
 
