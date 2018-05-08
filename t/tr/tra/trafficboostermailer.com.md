@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficboostermailer.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108010653id_/http%3A//trafficboostermailer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficboostermailer.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508234325id_/http%3A//trafficboostermailer.com/privacy.php) for the most accurate reproduction.*
 
 # :: TrafficBoosterMailer ::
 
