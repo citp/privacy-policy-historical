@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a2zwebhelp.com privacy policy that was archived on 2017-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171021193119id_/http%3A//www.a2zwebhelp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a2zwebhelp.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508161154id_/http%3A//a2zwebhelp.com/privacy-policy) for the most accurate reproduction.*
 
 # A2Z Web help - Privacy Policy
 
