@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wedplan.net privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922080644id_/http%3A//wedfolio.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wedplan.net privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508051552id_/http%3A//wedfolio.com/policy/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | WedFolio
+# Privacy Policy - WedFolio
 
 We are committed to providing the highest quality experience for our **clients** and for our **vendors**. With that goal in mind, **WedFolio** was proactively developed with user privacy as a core concern, not as a "bolted-on" afterthought. This document describes the types of data we collect and manage and the ways in which clients and vendors may share information publicly and communicate privately. This document is part of our [Terms of Service](https://web.archive.org/policy/terms/), and by using **WedFolio** , you agree to the terms of this Privacy Policy and the [Terms of Service](https://web.archive.org/policy/terms/).
 
