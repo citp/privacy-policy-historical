@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storm8.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119053522id_/http%3A//www.storm8.com/notice-of-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storm8.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508215142id_/http%3A//www.storm8.com/notice-of-privacy) for the most accurate reproduction.*
 
 # Storm8 – Notice of Privacy
 
