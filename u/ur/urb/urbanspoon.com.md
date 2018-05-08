@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the urbanspoon.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216012304id_/http%3A//www.zomato.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanspoon.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508093502id_/http%3A//www.zomato.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Zomato
 
-Last updated on **April 15, 2015**.
+Last updated on **January 2, 2018**.
 
 Zomato Media Private Limited ( **"Zomato,"** the **"Company," "we," "us,"** and **"our,"** ) respect your privacy and are committed to protecting it through our compliance with this privacy policy. This policy describes:
 
@@ -190,7 +190,7 @@ Zomato USA, LLC
 Charlotte, NC 28202
 
 **For Users residing outside the United States:**  
-Ms. Anushree N Bhog  
+Mr. Aniket Chatterjee   
 Privacy Officer  
 Zomato Media Private Limited  
-139-P, Sector 44, Gurgaon, Haryana, India -122002
+22nd Floor, One Horizon Centre, Golf Course Road, Gurgaon, Haryana, India -122003
