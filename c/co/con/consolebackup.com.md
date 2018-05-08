@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consolebackup.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110233451id_/http%3A//www.bigfishgames.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consolebackup.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508074119id_/http%3A//www.bigfishgames.com/company/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Big Fish, Inc.
 
@@ -6,7 +6,7 @@ Last modified: December 13, 2016
 
 We at Big Fish have created this Privacy Policy to describe how information is collected, used, and disclosed when you visit or use a Big Fish Offering.  **By accessing and/or using this Big Fish website or any Big Fish Offering, you are accepting the practices described in this Privacy Policy.**
 
-The term **"Big Fish"** means Big Fish Games, Inc. and/or its Affiliates. The term **"Affiliate"** means, with respect to any party, any person or entity which controls, is controlled by, or is under common control with, such party. The term **"Big Fish Offering"** means the websites of Big Fish, including [www.bigfishgames.com](http://www.bigfishgames.com/), any other sites on which this Privacy Policy is posted, and any other Big Fish application, service or product licensed, downloaded or otherwise accessed by you through third party sites or sources, including the products and services available through any of the foregoing.
+The term **"Big Fish"** means Big Fish Games, Inc. and/or its Affiliates. The term **"Affiliate"** means, with respect to any party, any person or entity which controls, is controlled by, or is under common control with, such party. The term **"Big Fish Offering"** means the websites of Big Fish, including [www.bigfishgames.com](https://www.bigfishgames.com/), any other sites on which this Privacy Policy is posted, and any other Big Fish application, service or product licensed, downloaded or otherwise accessed by you through third party sites or sources, including the products and services available through any of the foregoing.
 
 ## INFORMATION THAT WE MAY COLLECT
 
@@ -74,17 +74,17 @@ As Big Fish continues to grow, we might sell or buy certain subsidiaries and/or 
 
 ### Protection of Big Fish and Others:
 
-We may also disclose your information if there is a violation of the [Terms of Use](http://www.bigfishgames.com/company/terms.html) or other agreements; if we have a good faith belief that the law requires it; or if needed to protect the rights, property or safety of Big Fish, our customers or others. This includes exchanging information with entities for fraud detection and protection, and credit risk reduction.
+We may also disclose your information if there is a violation of the [Terms of Use](https://www.bigfishgames.com/company/terms.html) or other agreements; if we have a good faith belief that the law requires it; or if needed to protect the rights, property or safety of Big Fish, our customers or others. This includes exchanging information with entities for fraud detection and protection, and credit risk reduction.
 
 ## ACCESSING YOUR INFORMATION AND YOUR CHOICES
 
-Big Fish enables you to access to a wide range of information about your account and your interactions with Big Fish Offerings. If you have created a customer account, you may access your account information by logging on to [www.bigfishgames.com](http://www.bigfishgames.com/) and clicking on "Account" on the top of your screen. You may also contact us about your information and your choices for limiting the use and disclosure of your information by visiting <http://www.bigfishgames.com/help>; by emailing us at [privacy@bigfishgames.com](mailto:privacy@bigfishgames.com); or by sending us postal mail at: Big Fish Privacy Policy Department, 333 Elliott Avenue West, Suite 200, Seattle, WA 98119 USA.
+Big Fish enables you to access to a wide range of information about your account and your interactions with Big Fish Offerings. If you have created a customer account, you may access your account information by logging on to [www.bigfishgames.com](https://www.bigfishgames.com/) and clicking on "Account" on the top of your screen. You may also contact us about your information and your choices for limiting the use and disclosure of your information by visiting <https://www.bigfishgames.com/help>; by emailing us at [privacy@bigfishgames.com](mailto:privacy@bigfishgames.com); or by sending us postal mail at: Big Fish Privacy Policy Department, 333 Elliott Avenue West, Suite 200, Seattle, WA 98119 USA.
 
 ### Promotional email communications:
 
 When you create a customer account or provide access to your email address via a Big Fish Offering, you may be automatically registered to receive one or more of our promotional e- newsletters. Note that when you provide an email address through a Big Fish Offering, we treat that as a request to be enrolled in one of our promotional e-newsletter lists, even if you previously opted out of receiving newsletters from us, but if you change your mind and wish to opt out again, you may do so at any time by clicking the " **unsubscribe** " link at the bottom of any newsletter and then following the instructions provided. If you express interest in a Big Fish Offering by clicking on a banner within a newsletter, you may be automatically registered to receive newsletters relating to the Big Fish Offering that appeared in the banner.
 
-At any time, you may opt-out of receiving a newsletter by selecting the " **unsubscribe** " link at the bottom of any newsletter. We treat each Big Fish Offering individually, so if you are receiving mailings from more than one Big Fish Offering, if you want to unsubscribe you must do so with respect to each individually. You may also contact us at <http://www.bigfishgames.com/help>. Please note that we reserve the right to send you non-promotional, account or administrative emails even if you opt out of receiving promotional e-newsletters.
+At any time, you may opt-out of receiving a newsletter by selecting the " **unsubscribe** " link at the bottom of any newsletter. We treat each Big Fish Offering individually, so if you are receiving mailings from more than one Big Fish Offering, if you want to unsubscribe you must do so with respect to each individually. You may also contact us at <https://www.bigfishgames.com/help>. Please note that we reserve the right to send you non-promotional, account or administrative emails even if you opt out of receiving promotional e-newsletters.
 
 ### Cookies, Online Advertising and Analytics:
 
@@ -118,7 +118,7 @@ We may transfer, store and/or process personal information in the U.S. or in oth
 
 ## AGREEMENT WITH BIG FISH POLICIES
 
-By accessing and/or using any of the Big Fish Offerings, you signify your understanding of and agreement with this Privacy Policy, and to our [Terms of Use](http://www.bigfishgames.com/company/terms.html). If you do not agree with our policies, please do not access or use any Big Fish Offerings.
+By accessing and/or using any of the Big Fish Offerings, you signify your understanding of and agreement with this Privacy Policy, and to our [Terms of Use](https://www.bigfishgames.com/company/terms.html). If you do not agree with our policies, please do not access or use any Big Fish Offerings.
 
 ## CHANGES TO PRIVACY POLICY
 
