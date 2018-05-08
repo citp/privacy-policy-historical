@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alothome.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107230312id_/http%3A//www.alot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alothome.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508081037id_/http%3A//www.alot.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -31,10 +31,9 @@ Additionally, we allow third parties that display advertisements, search listing
   * **Register _.   If you register for our forums or other services we ask you to provide information which may include items such as name, address, birthdate, gender, and password._**
   * **_Sign up for Newsletters_** **.   We offer newsletters to our users and from time to time we allow third party partners to include advertising materials in the newsletters.  Additionally, we may send dedicated newsletters on behalf of our third party partners.  All of our newsletters contain a readily identifiable and simple means to opt out of receiving them in the future.**
   * **Post in Comments, Discussion Forums, Reviews and Similar Places.   Our services include public facing comments, discussion forums, reviews and other similar places where you can submit items to be posted which will be visible to the public at large.  All information posted in such manner may be used by us for commercial uses in any format.  All information submitted is not confidential or private and it may be collected and utilized by unaffiliated third parties.  You are solely responsible for the information you choose to disclose in your public activities.**
+  * **Participate in Giveaways, Sweepstakes and Other Promotions.   We sponsor giveaways, sweepstakes and other promotions.  If you chose to participate in our giveaways, sweepstakes or promotions, your personally identifiable information may be collected, including your name and e-mail address.**
 
 
-
-**Participate in Giveaways, Sweepstakes and Other Promotions.   We sponsor giveaways, sweepstakes and other promotions.  If you chose to participate in our giveaways, sweepstakes or promotions, your personally identifiable information may be collected, including your name and e-mail address.**
 
 **What we do with the information we collect**
 
@@ -48,17 +47,13 @@ Alot expects its partners, advertisers and third-party affiliates to respect the
 
 While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Through features available on our site, third parties may use cookies or other technology to gather information. Alot does not control the use of this technology or the resulting information and is not responsible for any actions or policies of such third parties.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use non-personal information (i.e., information that does not include your name, address, email address or telephone number) about your visits to this and other Web sites in an effort to provide advertisements about goods and services that may be of interest to you. To learn more about third-party advertising or to opt-out of such advertising, you can visit both the [Network Advertising Initiative](http://www.networkadvertising.org/) and the [Digital Advertising Alliance](http://www.aboutads.info/).
+Alot sites use Inuvo, Inc. and third-party advertising companies to serve or deliver ads when you visit our websites. These companies may use non-personal information related to your visit in an effort to provide advertisements that may be of interest to you. To learn more about third-party advertising, interest based advertising, or to opt-out of such advertising, you can visit both the Network Advertising Initiative and the Digital Advertising Alliance. If you would like to opt-out of Inuvo Interest Based Advertising, please click on this [link](https://www.netseer.com/netseer-inimage-ads/) and click on the “Opt out” button at the bottom of the page in the footer. Upon clicking “Opt out,” Inuvo will place an opt-out cookie on your browser. The opt-out cookie means you will not be retargeted by ads served through Inuvo’s Advertising Technology Platform. If you delete, block or otherwise restrict cookies, or if you use a different computer, mobile device or Internet browser, you may need to renew this opt-out choice. However, if you do choose to opt-in, Inuvo will delete the opt-out cookie and you may again be retargeted with relevant advertisement based on your visits to websites of our advertising clients.
 
 In addition to the above, we have implemented at Alot certain "Google Analytics" features that support display advertising, including re-targeting. Visitors to Alot may opt out of Google Analytics, customize the Google Display Network ads by using the [Google Ad Preferences Manager](https://www.google.com/settings/u/0/ads/) and learn more about how Google serves ads by viewing its [Customer Ads Help Center](https://support.google.com/ads/?hl=en). If you do not wish to participate in Google Analytics, you may also download the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/).
 
 ### Communication with Contributors
 
 Alot Contributors provide content to Alot.  Contributors are independent contractors and not employees of Alot.  If you contact a Contributor via e-mail or otherwise then that communication is independent of Alot and is not governed by this Privacy Policy. Alot is not responsible for the actions of our Contributors or how they may use information you have provided to them. Any communications with a Contributor are not confidential or subject to any other privilege.
-
-### Our Parent Company
-
-Alot is a wholly-owned subsidiary of Inuvo, Inc. We share information we collect with Inuvo, Inc. to better understand our users and to improve the content delivered across the Inuvo, Inc. network.
 
 ### Minors
 
@@ -84,4 +79,4 @@ Visitors to Alot from outside the United States will have their data transferred
 
 We listen to or read, as applicable, every message sent to us and endeavor to reply promptly to each one. This information is used to respond directly to your questions or comments. If you have any questions about this Privacy Policy or the practices of Alot, please feel free to contact us at [info@alot.com](mailto:info@alot.com).
 
-Last updated: May 12, 2016
+Last updated: November 16, 2017
