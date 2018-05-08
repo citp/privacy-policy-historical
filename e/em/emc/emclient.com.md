@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emclient.com privacy policy that was archived on 2017-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171026024332id_/http%3A//www.emclient.com/docs/em%2520client%2520privacy%2520policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emclient.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508153311id_/http%3A//www.emclient.com/docs/em%2520client%2520privacy%2520policy.pdf) for the most accurate reproduction.*
 
 # 
 
