@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetfootball.com privacy policy that was archived on 2017-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171106091036id_/http%3A//www.planetfootball.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetfootball.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508150427id_/http%3A//www.planetfootball.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Planet Football
 
