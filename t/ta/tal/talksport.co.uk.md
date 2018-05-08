@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talksport.co.uk privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116135055id_/http%3A//talksport.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talksport.co.uk privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508094900id_/http%3A//talksport.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | talkSPORT
 
