@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eharmony.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206222925id_/https%3A//www.eharmony.com/privacy/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eharmony.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508085338id_/https%3A//www.eharmony.com/privacy/policy) for the most accurate reproduction.*
 
 # eHarmony Privacy Policy - #1 Trusted Relationship Site
 
@@ -56,6 +56,8 @@ We may use third-party advertising agencies or other service providers to serve 
 
 Third Parties, with whom we partner to display advertising based upon your web browsing activity, use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here: [ https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118 ](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118)
 
+We may share PII you have submitted to us (your e-mail address) in hashed format with trusted third parties for the purpose of matching it to hashed values of the same PII that you volunteer when you visit other first party websites. Coded data from this "match" may be placed into a cookie that would allow these first party websites to serve online display ads to you as you surf the Web.  You may opt out of these data provider cookies at <http://www.aboutads.info/choices>.
+
 We will only share your information with third parties in the ways defined in this privacy statement.
 
 ## Age Restrictions
@@ -112,6 +114,6 @@ Your continued use of any portion of our website following posting of the update
 
 ## Effective Date
 
-This privacy statement was last revised on December 7, 2016.
+This privacy statement was last revised on January 30, 2018.
 
-Copyright © 2000-2016 eHarmony, Inc. All Rights Reserved. EHARMONY, COMPATIBILITY PROFILE, COMPATIBILITY MATCHING SYSTEM, 29 DIMENSIONS, EHARMONY LABS, SECURE CALL, PROFILE ADVISOR and several other marks, colors, and images are registered and common law trademarks of eHarmony, Inc. Other trademarks and brands are the property of their respective owners.
+Copyright © 2000-2018 eHarmony, Inc. All Rights Reserved. EHARMONY, COMPATIBILITY PROFILE, COMPATIBILITY MATCHING SYSTEM, 29 DIMENSIONS, EHARMONY LABS, SECURE CALL, PROFILE ADVISOR and several other marks, colors, and images are registered and common law trademarks of eHarmony, Inc. Other trademarks and brands are the property of their respective owners.
