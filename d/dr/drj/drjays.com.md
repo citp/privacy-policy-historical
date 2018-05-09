@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drjays.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107224419id_/http%3A//drjays.com/content/customerservice/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drjays.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509190827id_/https%3A//www.drjays.com/content/customerservice/privacy_policy.html) for the most accurate reproduction.*
 
 # DrJays.com - Customer Service - Privacy
 
