@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelplanet.in privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213021938id_/http%3A//www.travelplanet.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelplanet.in privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509053219id_/http%3A//www.travelplanet.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,6 +9,8 @@ Thank you for visiting our privacy section we value your trust you place in us. 
 You can take advantage of certain activities like posting comments, enrolling for a contest in that case if you participate in a contest then you may be asked to submit personal data like your name, contact details, email address with the optional info like your address, location, age, personal and professional interests, gender, your experience with us and any feedback etc.
 
 In case you connect with Travel planet via social networking sites like Facebook, Twitter, Google+ etc. we can store your personal information you have chosen to display in that networks.
+
+**Note:**  We respect our visitors/users rights and support “Right to be forgotten”. If you think you’ve ever shared your contact details with us & want us to remove that info, please contact us at [info@travelplanet.in](mailto:info@travelplanet.in).
 
 ## What About IP addresses?
 
