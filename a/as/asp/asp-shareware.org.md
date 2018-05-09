@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asp-shareware.org privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105083913id_/http%3A//asp-software.org/www/asp/contact-us/privacy-statement-of-the-association-of-software-professionals) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asp-shareware.org privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509141512id_/http%3A//asp-software.org/www/asp/contact-us/privacy-statement-of-the-association-of-software-professionals) for the most accurate reproduction.*
 
 # Privacy Statement of the Association of Software Professionals | Association of Software Professionals
 
@@ -43,7 +43,7 @@ Company Name, Public Phone Number, Public Fax Number, Public Email Address, Webs
 
 **Opt-out, Reviewing and Changing Personal Data**  
 Our site provides members the opportunity to opt-out of receiving communications from us at the point where we request membership information.   
-Members can review or change their membership and opt-out information by going to the members only area and selecting the [Change my information](http://members.asp-software.org/updatemember1.asp) link. 
+Members can review or change their membership and opt-out information by going to the members only area and selecting the [Change my information](https://members.asp-software.org/updatemember1.asp) link. 
 
 **Credit Card Information**  
 The ASP does not disclose credit card account information provided by its members. When members choose to pay using their credit cards, the ASP submits the information needed to obtain payment to the appropriate services. 
@@ -52,7 +52,7 @@ The ASP does not disclose credit card account information provided by its member
 The ASP is committed to protecting your privacy. We will not sell, rent, or otherwise disclose or share your email address or any other personal information to any third party without first obtaining your explicit consent. 
 
 **Contact Information**  
-If you have questions or suggestions regarding this Privacy Statement, the practices of this site, or your dealings with our web sites, please feel free to contact the ASP using the information provided on our [Contact](http://www.asp-software.org/www/asp/contact-us/) page. 
+If you have questions or suggestions regarding this Privacy Statement, the practices of this site, or your dealings with our web sites, please feel free to contact the ASP using the information provided on our [Contact](https://www.asp-software.org/www/asp/contact-us/) page. 
 
 **Consumer Rights Information**  
 California Civil Code Section 1789.3  
