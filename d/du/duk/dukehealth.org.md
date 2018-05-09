@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dukehealth.org privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519202054id_/https%3A//www.dukehealth.org/privacy-policy/web-site-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dukehealth.org privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509221925id_/https%3A//www.dukehealth.org/privacy-policy/web-site-privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy | Duke Health
 
@@ -35,6 +35,6 @@ Because email does not provide a completely secure and confidential means of com
 
 ##  Complaint Process 
 
-If you have a complaint or problem, or if you believe your privacy rights have been violated, you may contact us. Please indicate the reason for contacting us. Our customer service department will forward your complaint to the appropriate Duke University Health System department for response or resolution.
+If you have a complaint or problem, or if you believe your privacy rights have been violated, you may [contact us](https://www.dukehealth.org/contact-duke-health). Please indicate the reason for contacting us. Our customer service department will forward your complaint to the appropriate Duke University Health System department for response or resolution.
 
 Last updated: April 2015
