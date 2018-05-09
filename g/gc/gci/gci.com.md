@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gci.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107223413id_/https%3A//www.gci.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gci.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509181507id_/https%3A//www.gci.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GCI
 
@@ -16,7 +16,7 @@ We reserve the right to modify this Privacy Policy at any time. We will post any
 
 ## Scope of Privacy Policy
 
-This Privacy Policy applies to personally identifiable information generated, delivered, or collected through your use of GCI local and long distance, wireless voice and data, video, and internet services (individually and in any combination), as identified below (the “Services”). This policy also applies to visitors to [www.gci.com](https://web.archive.org/) and [my.gci.com](https://web.archive.org/my-gci) (the “Websites”).
+This Privacy Policy applies to personally identifiable information generated, delivered, or collected through your use of GCI local and long distance, wireless voice and data, video, and internet services (individually and in any combination), as identified below (the “Services”). This policy also applies to visitors to [www.gci.com](https://web.archive.org/) and [my.gci.com](https://web.archive.org/mygci) (the “Websites”).
 
 Information may be collected when you provide it directly to us, such as by signing up for service or registering a user account (for example, your contact and billing information) and when generated from your use of our services (for example, network or service performance data, device settings, and usage data).
 
