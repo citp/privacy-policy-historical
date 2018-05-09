@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fonebank.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108092506id_/http%3A//www.fonebank.com/privacy.aspx%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fonebank.com privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510002619id_/http%3A//www.fonebank.com/privacy.aspx%23privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Fonebank.com
 
@@ -62,7 +62,7 @@ We employ security measures to protect your information from access by unauthori
 
 **ACCESSING AND UPDATING**
 
-You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please contact us at info@fonebank.com.
 
 **CHANGES TO OUR PRIVACY POLICY**
 
@@ -156,6 +156,6 @@ In addition, note that you are always able to prevent cookies from any website f
 
 **CONTACT**
 
-All comments, queries and requests relating to our use of your information are welcomed and should be addressed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+All comments, queries and requests relating to our use of your information are welcomed and should be addressed to info@fonebank.com.
 
   | 
