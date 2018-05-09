@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the newser.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606013050id_/http%3A//www.newser.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newser.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509171734id_/http%3A//www.newser.com/privacy.aspx) for the most accurate reproduction.*
 
 # Newser
 
 ## Newser Privacy Policy
 
-Please read this Privacy Policy (last revised as of March 1, 2010) before using this service. By continuing to use Newser.com, you acknowledge that you have read and agree to the terms of this policy. 
+Please read this Privacy Policy (last revised as of January 31, 2018) before using this service. By continuing to use Newser.com, you acknowledge that you have read and agree to the terms of this policy. 
 
 Newser, LLC., the operator of www.Newser.com (the “Newser Website,” referred to as “Newser,” “us,” “we” or “our”) respects the privacy of our users, and we want you to be aware of how we use information that we have collected from and about you. By coming to the Newser Website, you are agreeing to and accepting this Privacy Policy as well as the [User Agreement](https://web.archive.org/terms.aspx) governing our services. Because the Internet is a rapidly evolving medium, and enhancements to the services we provide may affect the information that we collect and the manner that we use it, the Privacy Policy may change from time to time. If it does, we will post the revised Privacy Policy on the Newser Website, with an indication of the date of the most recent revisions. 
 
@@ -25,6 +25,7 @@ You should be aware that this Privacy Policy applies only to the Newser Website.
   * Newser maintains internal logs of users’ use of the Newser Website. Logs include information such as IP address, browser type and version, and computer operating system. Newser uses logs mainly for systems administration and diagnostic purposes, and to detect improper use of the site. Logs may also be used to generate aggregate, non-personally identifiable information for advertisers or other third parties.
   * Newser may also contract, from time to time, with third parties to help us understand how people use our website and to provide functionalities such as email distribution, ad serving, customer surveys, comments, and content sharing. These companies also use cookies. They may also use other tracking technologies, such as web beacons (also known as clear GIFs, web bugs, tracking pixels or action tags), which are similar in function to cookies, allowing them to determine when users have reached particular web pages on the Newser Website.
   * Cookies and web beacons allow Newser and its third-party service providers to collect and analyze aggregate information about how its website is used.
+  * We also allow third-party companies to collect certain information within our email newsletters. These companies may place an anonymous cookie and use a de-identified, non-human readable version of your email address for matching to other data collected from (or across) sites about you to improve the relevance of online advertising and personalization. Never is your actual email address shared with any company.
   * We sell advertising on our site so that we can provide our service for free. In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique cookie on your browser. Information about your visit, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you. Please be aware that if you opt out of allowing our web advertising partner to collect this information, you may not be able to use certain parts of the site nor have access to certain functions.
 
 
