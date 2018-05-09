@@ -1,7 +1,13 @@
-<!--The following is the downloaded HTML source of the automart.com privacy policy that was archived on 2016-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161229045956id_/http%3A//www.autotrader.com/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the automart.com privacy policy that was archived on 2018-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180509181347id_/https%3A//www.autotrader.com/legal/privacy-statement.xhtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+        <script>
+        <![CDATA[
+window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-1071.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);
+;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"3136b8c69c",applicationID:"61438546",sa:1}
+        ]]>
+        </script>
 
     
     <title>Privacy Statement - Autotrader</title>
@@ -9,19 +15,25 @@
     
     <meta name="viewport" content="width=1200, initial-scale=1">
     <meta name="p:domain_verify" content="315d28475397cff9ca9875c3d437ee5b">
+    <meta name="referrer" content="unsafe-url">
         <meta name="apple-itunes-app" content="app-id=700740807">
 
     
     <link href="//fonts.googleapis.com/css?family=Roboto:400,300,500,700,900|Roboto+Condensed:500,400,300" rel="stylesheet" type="text/css">
-                <link rel="stylesheet" type="text/css" media="all" href="//www.autotraderstatic.com/3_181_b8049a3/resources/webpack/chassis/base.min.css"><!--[if IE 9]>
-                <link rel="stylesheet" type="text/css" media="all" href="//www.autotraderstatic.com/3_181_b8049a3/resources/webpack/chassis/ie9.min.css" /><![endif]--><!--[if lt IE 9]>
-                <link rel="stylesheet" type="text/css" media="all" href="//www.autotraderstatic.com/3_181_b8049a3/resources/webpack/chassis/ielt9.min.css" /><![endif]--><!--[if lt IE 8]>
-            <script type="text/javascript" src="//www.autotraderstatic.com/3_181_b8049a3/resources/js/bundle/ie7-es5.js" crossorigin="anonymous"></script><![endif]--><!--[if lt IE 9]>
-            <script type="text/javascript" src="//www.autotraderstatic.com/3_181_b8049a3/resources/js/bundle/ie8-es5.js" crossorigin="anonymous"></script><![endif]-->
-            <script type="text/javascript" src="//www.autotraderstatic.com/3_181_b8049a3/resources/js/bundle/headBundle.js" crossorigin="anonymous"></script>
-            <script type="text/javascript" src="//www.autotraderstatic.com/3_181_b8049a3/resources/js/bundle/mobile.js" crossorigin="anonymous"></script><!--[if lt IE 9]>
-            <script type="text/javascript" src="//www.autotraderstatic.com/3_181_b8049a3/resources/js/bundle/ie.js" crossorigin="anonymous"></script><![endif]--><!--[if lte IE 9]>
-            <script type="text/javascript" src="//www.autotraderstatic.com/3_181_b8049a3/resources/js/bundle/ie9.js" crossorigin="anonymous"></script><![endif]-->
+
+        <link rel="stylesheet" type="text/css" media="all" href="/3_242_de4c267/resources/webpack/chassis/base.min.css"><!--[if IE 9]>
+
+        <link rel="stylesheet" type="text/css" media="all" href="/3_242_de4c267/resources/webpack/chassis/ie9.min.css" /><![endif]--><!--[if lt IE 9]>
+
+        <link rel="stylesheet" type="text/css" media="all" href="/3_242_de4c267/resources/webpack/chassis/ielt9.min.css" /><![endif]-->
+
+        <link rel="stylesheet" type="text/css" media="all" href="/3_242_de4c267/resources/webpack/atclegacy.min.css"><!--[if lt IE 8]>
+            <script type="text/javascript" src="/3_242_de4c267/resources/js/bundle/ie7-es5.js" crossorigin="anonymous"></script><![endif]--><!--[if lt IE 9]>
+            <script type="text/javascript" src="/3_242_de4c267/resources/js/bundle/ie8-es5.js" crossorigin="anonymous"></script><![endif]-->
+            <script type="text/javascript" src="/3_242_de4c267/resources/js/bundle/headBundle.js" crossorigin="anonymous"></script>
+            <script type="text/javascript" src="/3_242_de4c267/resources/js/bundle/mobile.js" crossorigin="anonymous"></script><!--[if lt IE 9]>
+            <script type="text/javascript" src="/3_242_de4c267/resources/js/bundle/ie.js" crossorigin="anonymous"></script><![endif]--><!--[if lte IE 9]>
+            <script type="text/javascript" src="/3_242_de4c267/resources/js/bundle/ie9.js" crossorigin="anonymous"></script><![endif]-->
             <script src="//assets.adobedtm.com/3da5d4702ba99389b72b1b6964d19931bfc08277/satelliteLib-3c2a626e69f4d4fc1db0bed4213d2e43a802e136.js"></script>
         <script>
             if(window.BOOMR) {
@@ -36,222 +48,125 @@
                 BOOMR.plugins.UserTiming.markUserTime('render-start');
             }
         </script>
-    
+
     
     <script>
         Canadarm.init({
             onError: true,  // Set to false if you do not want window.onerror set.
-            wrapEvents: true, // Set to false if you do not want all event handlers to be logged for errors
+            wrapEvents: false, // Set to false if you do not want all event handlers to be logged for errors
             logLevel: Canadarm.level.ERROR, // Will only send logs for level of ERROR and above.
             appenders: [
                 Canadarm.Appender.standardLogAppender
             ],
             handlers: [
-                Canadarm.Handler.beaconLogHandler('/beacon/jserror'),
+                Canadarm.Handler.beaconLogHandler('https://www.autotrader.com/beacon/jserror'),
                 Canadarm.Handler.consoleLogHandler
             ]
         });
     </script>
             <meta property="og:title" content="Privacy Statement - Autotrader">
         <meta property="og:type" content="website">
-            <meta property="og:image" content="//www.autotrader.com/resources/img/components/open-graph_autotrader_new.png">
-            <link rel="image_src" href="//www.autotrader.com/resources/img/components/open-graph_autotrader_new.png">
+            <meta property="og:image" content="https://www.autotrader.com/resources/img/components/open-graph_autotrader_new.png">
+            <link rel="image_src" href="https://www.autotrader.com/resources/img/components/open-graph_autotrader_new.png">
         <meta property="og:site_name" content="Autotrader">
         <meta property="fb:admins" content="100000201817615">
-        <meta property="fb:admins" content="57701950"><script type="text/javascript" src="/javax.faces.resource/richfaces-base-component.js.xhtml"></script></head><body class="atcui sevo   atcui-fixed-width"><input type="hidden" id="userZipCode" name="userZipCode" value="">
+        <meta property="fb:admins" content="57701950"></head><body class="atcui sevo   atcui-fixed-width"><input type="hidden" id="userZipCode" name="userZipCode" value="">
 
         <div id="atcui-page-wrapper" class="atcui-clearfix"><div class="atcui-header-leaderboard"></div>
-            <div id="j_id_36" class="atc-header " data-atc-auto-init="true" data-atc-role="header" data-atc-config="{}">
+        
+        <style>
+
+            /* Restore axl base font size */
+            .axl-theme header {
+                font-size: 14px;
+            }
+
+            /* Adjust margin */
+            .axl-theme .myatcHeaderBadge {
+                margin: 27px 0 0 0; !important;
+            }
+
+            /* Adjust margin */
+            .axl-theme .myatcHeaderBadge .myatc-infoPanel {
+                color: #fff;
+            }
+
+            .axl-theme .myatcHeaderBadge .myatc-infoPanel li {
+                line-height: 21px;
+            }
+
+            .axl-theme .myatcHeaderBadge .myatc-infoPanel a,
+            .axl-theme .myatcHeaderBadge .myatc-infoPanel a:hover {
+                color: #fff;
+                font-family: Roboto;
+                font-size: 14px;
+            }
+
+            /* Adjust spacing of list */
+            .axl-theme .myatcHeaderBadge ul {
+                /*margin: 5px !important;*/
+            }
+
+            /* Adjust separator */
+            .axl-theme .myatcHeaderBadge ul .nav-separator {
+                color: #FFF !important;
+                background: transparent !important;
+            }
+
+            /* Override link colors to make everything white */
+            .axl-theme .myatc-headline label,
+            .axl-theme .myatcHeaderBadge .atcui-trigger {
+                color: #fff;
+            }
 
 
-            <div class="header-spacer"></div>
+            /* remove inherited bold from label */
+            .axl-theme .myatc-headline label {
+                font-weight: normal;
+            }
 
+            /* Handle the absolute positioned overlap */
+            .axl-theme .legacy-header-content {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+            }
 
-            <header id="atcui-global-header-wrapper" class="atcui-global-header" data-qaid="logo-header">
-                <div class="header-background-color">
-                    <div class="atcui-global-masthead responsive-max-width-1300">
-                        <div class="atcui-clearfix"><span class="layout-not-small"><a href="/" class="autotrader-logo mobile-autotrader-logo" data-birf-cmp="atc_lgo" data-birf-log="component" data-qaid="atc-logo-link">
+            /* allow atc logo to be clickable */
+            .axl-theme .pointer-events-none {
+                pointer-events: none;
+            }
 
-            <img src="http://www.autotraderstatic.com/3_181_b8049a3/resources/img/atcui/template/autotrader-logo-blue.png" class="" alt="Buy New or Used Cars at Autotrader" align="" dir="" name="" lang="" onclick="" ondblclick="" onkeydown="" onkeypress="" onkeyup="" onmousedown="" onmousemove="" onmouseout="" onmouseover="" onmouseup="" id="j_id_3w" title="" style="" data-atc-lazyload="false" data-original="" data-birf-log="component" data-birf-cmp="" data-birf-extra="" data-birf-logtype="" data-birf-ref="../" data-birf-par="" data-qaid=""></a></span><span><span id="j_id_36-myatcHeaderBadge" class="myatcHeaderBadge "><form id="j_id_36-j_id_41" name="j_id_36-j_id_41" method="post" action="/legal/privacy-statement.xhtml" enctype="application/x-www-form-urlencoded">
-            <div class="myatc-headline atcui-clearfix"><label>My Autotrader :</label>
+            /* allow myatc links to be clickable */
+            .axl-theme .pointer-events-auto {
+                pointer-events: auto;
+            }
+
+        </style>
+
+    <div class="axl-theme" style="position: relative;">
+        <div class="container-fixed-width container-min-width">
+            <div id="headerMountNode"><header myatc="Map { &quot;signedIn&quot;: false, &quot;gigyaAPIKey&quot;: &quot;&quot;, &quot;GIGYA_EMAIL_VERIFICATION&quot;: false }"><div class="container-fluid nav-wrapper"><div class="container"><nav class="navbar navbar-default"><div class="container"><div class="navbar-header-wrapper"><div class="navbar-header"><button type="button" class="navbar-toggle collapsed"><span class="glyphicon glyphicon-list-view"></span></button><div class="navbar-brand"><a href="/" data-birf-cmp="atc_lgo" data-birf-log="component" data-qaid="lnk-atc-logo"><img class="display-none display-sm-block" src="/resources/img/svgicons/atc-logo.svg" width="139" height="38"><img class="display-block display-sm-none" src="/resources/img/svgicons/atc-logo.svg" width="110" height="27"></a></div><div class="header-content"><div class="text-sm"><span class="hidden-xs margin-horizontal-sm text-link" data-qaid="lnk-signIn" data-birf-log="component" data-birf-cmp="my_in">Sign In</span><div class="hidden-xs margin-horizontal-sm"></div><a class="hidden-xs margin-horizontal-sm margin-collapse-right" href="/sell-my-car/login.xhtml" data-birf-log="component" data-birf-cmp="edt_ad_hdr" data-qaid="lnk-editMyAd">Edit My Ad</a></div></div></div></div><div class="navbar-collapse collapse"><div class="mobile-nav-content hidden-sm hidden-md hidden-lg"><div role="toolbar" class="btn-toolbar"><button data-birf-log="component" data-birf-cmp="my_in" data-qaid="btn-signIn" type="button" class="btn btn-sm btn-default">Sign In</button><a href="/sell-my-car/login.xhtml" data-birf-log="component" data-birf-cmp="edt_ad_hdr" data-qaid="lnk-editMyAd" class="btn btn-sm btn-default">Edit My Ad</a></div></div><ul class="nav navbar-nav"><li role="presentation" class="hidden-xs"><a href="/cars-for-sale" data-birf-cmp="fyc_l" data-birf-log="component" data-qaid="lnk-fyc">Cars for Sale</a></li><li role="presentation" class=""><a href="/sell-my-car/" data-birf-cmp="syc_l" data-birf-log="component" data-qaid="lnk-syc">Sell My Car</a></li><li role="presentation" class=""><a href="/trade-in-instant-cash-offer/?LNX=TIMATCHPNAV" data-birf-cmp="tim_l" data-birf-log="component" data-qaid="lnk-tim">Trade in My Car</a></li><li class="dropdown"><a data-nav-birf-cmp="cr_l" data-qaid="lnk-car-res-rvw" id="CarResearch &amp; Reviews" role="button" class="dropdown-toggle" aria-haspopup="true" aria-expanded="false" href="#">Car Research &amp; Reviews <span class="caret"></span></a><ul role="menu" class="dropdown-menu" aria-labelledby="CarResearch &amp; Reviews"><div class="navbar-dropdown-section"><div class="nav-dropdown-column"><li role="heading" class="dropdown-header">Research</li><li role="presentation" class=""><a href="/research/?rdpage=SUBNAV" data-birf-cmp="cr_l" data-birf-log="component" data-qaid="lnk-cr" role="menuitem" tabindex="-1">Research &amp; Information</a></li><li role="presentation" class=""><a href="/research/modelinfo/index.xhtml?rdpage=SUBNAV" data-birf-cmp="exp_spec_mdl" data-birf-log="component" data-qaid="lnk-exp-spec-mdl" role="menuitem" tabindex="-1">Explore Specific Models</a></li><li role="presentation" class=""><a href="/research/new-cars?rdpage=SUBNAV" data-birf-cmp="nw_car_res" data-birf-log="component" data-qaid="lnk-nw-car-res" role="menuitem" tabindex="-1">New Car Research</a></li><li role="presentation" class=""><a href="/research/certified-cars/?rdpage=SUBNAV" data-birf-cmp="cert_car_res" data-birf-log="component" data-qaid="lnk-cert-car-res" role="menuitem" tabindex="-1">Certified Car Research</a></li><li role="presentation" class=""><a href="/research/used-cars?rdpage=SUBNAV" data-birf-cmp="usd_car_res" data-birf-log="component" data-qaid="lnk-usd-car-res" role="menuitem" tabindex="-1">Used Car Research</a></li><li role="presentation" class=""><a href="/research/compare?rdpage=SUBNAV" data-birf-cmp="comp_mdl" data-birf-log="component" data-qaid="lnk-comp-mdl" role="menuitem" tabindex="-1">Compare Models</a></li></div><div class="nav-dropdown-column"><li role="heading" class="dropdown-header">Finance</li><li role="presentation" class=""><a href="/calculators/?selectedTab=0" data-birf-cmp="mnth_pmt_calc" data-birf-log="component" data-qaid="lnk-mnth-pmt-calc" role="menuitem" tabindex="-1">Monthly Payment Calculator</a></li><li role="presentation" class=""><a href="/calculators/?selectedTab=1" data-birf-cmp="afd_calc" data-birf-log="component" data-qaid="lnk-afd-calc" role="menuitem" tabindex="-1">Affordability Calculator</a></li><li role="presentation" class=""><a href="/research/certified-cars/compare.jsp" data-birf-cmp="comp_cert_pgm" data-birf-log="component" data-qaid="lnk-comp-cert-pgm" role="menuitem" tabindex="-1">Compare Certified Programs</a></li><li role="presentation" class=""><a href="/car-values/" data-birf-cmp="glob_val_lnk" data-birf-log="component" data-qaid="lnk-glob-val" role="menuitem" tabindex="-1">Get Car Values</a></li><li role="presentation" class=""><a href="/trade-in-instant-cash-offer/?LNX=TIMATCHPNAVCNR" data-birf-cmp="get_tim_off" data-birf-log="component" data-qaid="lnk-get-tim-off" role="menuitem" tabindex="-1">Get Trade-In Offer</a></li></div><div class="nav-dropdown-column"><li role="heading" class="dropdown-header">Reviews &amp; News</li><li role="presentation" class=""><a href="/car-topics/latest-articles.xhtml?rdpage=SUBNAV" data-birf-cmp="lt_art" data-birf-log="component" data-qaid="lnk-lt-art" role="menuitem" tabindex="-1">Latest Articles</a></li><li role="presentation" class=""><a href="/car-topics/car-reviews.xhtml" data-birf-cmp="lt_expt_rvw" data-birf-log="component" data-qaid="lnk-lt-expt-rvw" role="menuitem" tabindex="-1">Latest Expert Reviews</a></li><li role="presentation" class=""><a href="/videos/" data-birf-cmp="lt_vid_rvw" data-birf-log="component" data-qaid="lnk-lt-vid-rvw" role="menuitem" tabindex="-1">Latest Video Reviews</a></li><li role="presentation" class=""><a href="/research/new-model/" data-birf-cmp="nw_fut_mdl" data-birf-log="component" data-qaid="lnk-nw-fut-mdl" role="menuitem" tabindex="-1">New &amp; Future Models</a></li><li role="presentation" class=""><a href="/article-search-results/?keywords=" data-birf-cmp="srch_art" data-birf-log="component" data-qaid="lnk-srch-art" role="menuitem" tabindex="-1">Search Articles</a></li></div></div></ul></li><li role="presentation" class=""><a href="/car-dealers/" data-birf-cmp="fyd_l" data-birf-log="component" data-qaid="lnk-fyd">Find Local Dealers</a></li><li role="presentation" class=""><a href="/car-loans/" data-birf-cmp="loan_l" data-birf-log="component" data-qaid="lnk-loan" role="presentation" rel="nofollow">Loans</a></li><li role="presentation" class=""><a href="/insurance/index.xhtml" data-birf-cmp="ins_l" data-birf-log="component" data-qaid="lnk-ins">Insurance</a></li></ul></div></div></nav></div></div></header>
             </div>
-            <ul class="atcui-clearfix">
-                <li>
-        <span id="j_id_4d" data-qaid="cntnr-hdrSignIn" class="atcui-trigger atcui-icon-link atcui-icon-span " data-atcui-trigger-target="headerBadgeSignIn" data-atcui-trigger-event="click" data-atcui-trigger-method="open" data-birf-log="component" data-birf-cmp="my_in" data-birf-extra="" data-birf-logtype="" data-birf-ref="" data-birf-par="" data-atcbi-thirdparty-click=""><span data-birf-log="component" data-birf-ref="../">Sign in</span>
-        </span>
-        <div id="headerBadgeSignIn" class="atcui-overlayContent atcui-hidden" data-atcui-location="" data-atcui-role="overlay" data-atcui-lazyload="false" data-atcui-callbacks="atc.myatc.overlay.destroyable" data-atcui-config="{&quot;id&quot;: &quot;headerBadgeSignIn&quot;,                                 &quot;jsfId&quot;: &quot;j_id_36-j_id_41-j_id_47-j_id_4h-headerBadgeSignIn&quot;,                                 &quot;classNames&quot;:&quot;myatc-topmost-overlay &quot;,                                 &quot;autoOpen&quot;:false,                                 &quot;resizable&quot;:false,                                 &quot;modal&quot;: true,                                 &quot;title&quot;:&quot; &quot;,                                 &quot;draggable&quot;: false,                                 &quot;url&quot;: &quot;/myautotrader/partial/myatc/authenticate.xhtml?birfComponentPrefix&amp;actionUrl&amp;action=sign-in&amp;tooltipComponentId=headerBadgeSignIn&quot;,                                 &quot;height&quot;:316,                                 &quot;width&quot;:560,                                 &quot;gridWidth&quot;:0,                                 &quot;printable&quot;: false,                                 &quot;closeOnModalClick&quot;: true,                                 &quot;destroyOnClose&quot;: false,                                 &quot;makeResponsiveWidth&quot;: false                             }" data-qaid="">
-
-            <img src="http://www.autotraderstatic.com/3_181_b8049a3/resources/img/atcui/spinner/spinner.gif" class="atcui-spinner authenticated-spinner" alt="" align="" dir="" name="" lang="" onclick="" ondblclick="" onkeydown="" onkeypress="" onkeyup="" onmousedown="" onmousemove="" onmouseout="" onmouseover="" onmouseup="" id="j_id_4s" title="" style="" data-atc-lazyload="false" data-original="" data-birf-log="" data-birf-cmp="" data-birf-extra="" data-birf-logtype="" data-birf-ref="" data-birf-par="" data-qaid="">
-        </div>
-            <script type="text/javascript">
-                //<![CDATA[
-                (function(window, undefined){
-                    var elements = document.querySelectorAll('div[id="headerBadgeSignIn"]');
-                    if (elements.length > 1) {
-                        Array.prototype.forEach.call(elements, function (child, index) {
-                            if (index > 0) {
-                                child.parentNode.removeChild(child);
-                            }
-                        });
-                    }
-                })(window);
-                //]]>
-            </script>
-                </li>
-                <li>|</li>
-                <li>
-        <span id="j_id_58" data-qaid="cntnr-hdrSignUp" class="atcui-trigger atcui-icon-link atcui-icon-span " data-atcui-trigger-target="headerBadgeSignUp" data-atcui-trigger-event="click" data-atcui-trigger-method="open" data-birf-log="component" data-birf-cmp="my_up" data-birf-extra="" data-birf-logtype="" data-birf-ref="" data-birf-par="" data-atcbi-thirdparty-click=""><span data-birf-log="component" data-birf-ref="../">Sign up</span>
-        </span>
-        <div id="headerBadgeSignUp" class="atcui-overlayContent atcui-hidden" data-atcui-location="" data-atcui-role="overlay" data-atcui-lazyload="false" data-atcui-callbacks="atc.myatc.overlay.destroyable" data-atcui-config="{&quot;id&quot;: &quot;headerBadgeSignUp&quot;,                                 &quot;jsfId&quot;: &quot;j_id_36-j_id_41-j_id_52-j_id_5c-headerBadgeSignUp&quot;,                                 &quot;classNames&quot;:&quot;myatc-topmost-overlay &quot;,                                 &quot;autoOpen&quot;:false,                                 &quot;resizable&quot;:false,                                 &quot;modal&quot;: true,                                 &quot;title&quot;:&quot; &quot;,                                 &quot;draggable&quot;: false,                                 &quot;url&quot;: &quot;/myautotrader/partial/myatc/authenticate.xhtml?birfComponentPrefix&amp;actionUrl&amp;action=sign-up&amp;tooltipComponentId=headerBadgeSignUp&quot;,                                 &quot;height&quot;:416,                                 &quot;width&quot;:640,                                 &quot;gridWidth&quot;:0,                                 &quot;printable&quot;: false,                                 &quot;closeOnModalClick&quot;: true,                                 &quot;destroyOnClose&quot;: false,                                 &quot;makeResponsiveWidth&quot;: false                             }" data-qaid="">
-
-            <img src="http://www.autotraderstatic.com/3_181_b8049a3/resources/img/atcui/spinner/spinner.gif" class="atcui-spinner authenticated-spinner" alt="" align="" dir="" name="" lang="" onclick="" ondblclick="" onkeydown="" onkeypress="" onkeyup="" onmousedown="" onmousemove="" onmouseout="" onmouseover="" onmouseup="" id="j_id_5n" title="" style="" data-atc-lazyload="false" data-original="" data-birf-log="" data-birf-cmp="" data-birf-extra="" data-birf-logtype="" data-birf-ref="" data-birf-par="" data-qaid="">
-        </div>
-            <script type="text/javascript">
-                //<![CDATA[
-                (function(window, undefined){
-                    var elements = document.querySelectorAll('div[id="headerBadgeSignUp"]');
-                    if (elements.length > 1) {
-                        Array.prototype.forEach.call(elements, function (child, index) {
-                            if (index > 0) {
-                                child.parentNode.removeChild(child);
-                            }
-                        });
-                    }
-                })(window);
-                //]]>
-            </script>
-
-                </li>
-
-                <li class="myatc-authenticateViaGigya">
-           
-            <iframe frameborder="0" style="height:26px;" src="about:blank" data-atc-lazyload="true" data-original="https://www.autotrader.com/myautotrader/partial/myatc/authenticateViaGigya.xhtml?Log=0" class="authenticate-via-gigya-iframe " scrolling="no"></iframe>
-                </li>
-            </ul><input type="hidden" name="j_id_36-j_id_41_SUBMIT" value="1"><input type="hidden" name="javax.faces.ViewState" value="GY1M3aZvrN9y2ICuajwwvR3/2jvS02r4Z94OZuleIww2woeh" autocomplete="off"></form></span></span>
-
-                        </div>
-                    </div>
-                </div>
-
-    <div id="atcui-navigation-container-wrapper">
-        <div id="atcui-navigation-container" class="container">
-
-            <ul class="atc-header-nav-main">
-                <li class="nav-item cars-for-sale "><a href="/cars-for-sale/?Log=0" title="Cars for Sale" data-birf-cmp="fyc_l" data-birf-log="component">Cars for Sale</a>
-                </li>
-
-                <li class="nav-item sell-car "><a href="/sell-my-car/" title="Sell My Car" data-birf-cmp="syc_l" data-birf-log="component">Sell My Car</a>
-                </li>
-
-                <li class="nav-item trade-in"><a href="/instant-cash-offer/?LNX=TIMATCHPNAV" title="Trade in My Car" data-birf-cmp="tim_l" data-birf-log="component">Trade in My Car</a>
-                </li>
-                    <li class="nav-item reviews-and-news">
-                        <a title="Car Research &amp; Reviews" href="javascript:void(0);" class="" data-nav-birf-cmp="cr_l"><span class="nav-item-text">Car Research &amp; Reviews</span>
-                            <span class="menu-dropdown-arrow"></span>
-                        </a>
-            <ul id="researchSubnav" class="atcui-nav-list atcui-bare research-subnav-menu atcui-hidden research-subnav-desktop atcui-nav-collapsed" data-qaid="navContainer">
-            <li id="j_id_ac_i" class="atcui-nav-item subnav-menu-container" data-qaid="navContainer">
-        <h3 class="subnav-menu-header nav-heading" data-qaid="hdr-subnav-hdg-research">Research
-            <span class="menu-dropdown-arrow"></span>
-        </h3>
-            <ul id="j_id_ac_n" class="atcui-nav-list atcui-bare subnav-menu atcui-nav-collapsed" data-qaid="navContainer">
-            <li id="j_id_ac_q" class="atcui-nav-item subnav-menu-item" data-qaid="navContainer"><a href="/research/?rdpage=SUBNAV" class="subnav-menu-link" data-birf-cmp="cr_l" data-birf-log="component" data-qaid="cr_l">Research &amp; Information</a>
-            </li>
-            <li id="j_id_ac_q" class="atcui-nav-item subnav-menu-item" data-qaid="navContainer"><a href="/research/modelinfo/index.xhtml?rdpage=SUBNAV" class="subnav-menu-link" data-birf-cmp="exp_spec_mdl" data-birf-log="component" data-qaid="exp_spec_mdl">Explore Specific Models</a>
-            </li>
-            <li id="j_id_ac_q" class="atcui-nav-item subnav-menu-item" data-qaid="navContainer"><a href="/car-match/" class="subnav-menu-link" data-birf-cmp="glob_car_mat_lnk" data-birf-log="component" data-qaid="glob_car_mat_lnk">Explore New Car Models</a>
-            </li>
-            <li id="j_id_ac_q" class="atcui-nav-item subnav-menu-item" data-qaid="navContainer"><a href="/research/new-cars?rdpage=SUBNAV" class="subnav-menu-link" data-birf-cmp="nw_car_res" data-birf-log="component" data-qaid="nw_car_res">New Car Research</a>
-            </li>
-            <li id="j_id_ac_q" class="atcui-nav-item subnav-menu-item" data-qaid="navContainer"><a href="/research/certified-cars?rdpage=SUBNAV" class="subnav-menu-link" data-birf-cmp="cert_car_res" data-birf-log="component" data-qaid="cert_car_res">Certified Car Research</a>
-            </li>
-            <li id="j_id_ac_q" class="atcui-nav-item subnav-menu-item" data-qaid="navContainer"><a href="/research/used-cars?rdpage=SUBNAV" class="subnav-menu-link" data-birf-cmp="usd_car_res" data-birf-log="component" data-qaid="usd_car_res">Used Car Research</a>
-            </li>
-            <li id="j_id_ac_q" class="atcui-nav-item subnav-menu-item" data-qaid="navContainer"><a href="/research/compare?rdpage=SUBNAV" class="subnav-menu-link" data-birf-cmp="comp_mdl" data-birf-log="component" data-qaid="comp_mdl">Compare Models</a>
-            </li>
-            </ul>
-            </li>
-            <li id="j_id_ac_x" class="atcui-nav-item subnav-menu-container" data-qaid="navContainer">
-           <h3 class="subnav-menu-header nav-heading" data-qaid="hdr-subnav-hdg-finance">Finance
-               <span class="menu-dropdown-arrow"></span>
-           </h3>
-            <ul id="j_id_ac_12" class="atcui-nav-list atcui-bare subnav-menu atcui-nav-collapsed" data-qaid="navContainer">
-            <li id="j_id_ac_15" class="atcui-nav-item subnav-menu-item" data-qaid="navContainer"><a href="/calculators/?selectedTab=0" class="subnav-menu-link" data-birf-cmp="mnth_pmt_calc" data-birf-log="component" data-qaid="mnth_pmt_calc">Monthly Payment Calculator</a>
-            </li>
-            <li id="j_id_ac_15" class="atcui-nav-item subnav-menu-item" data-qaid="navContainer"><a href="/calculators/?selectedTab=1" class="subnav-menu-link" data-birf-cmp="afd_calc" data-birf-log="component" data-qaid="afd_calc">Affordability Calculator</a>
-            </li>
-            <li id="j_id_ac_15" class="atcui-nav-item subnav-menu-item" data-qaid="navContainer"><a href="/research/certified-cars/compare.jsp" class="subnav-menu-link" data-birf-cmp="comp_cert_pgm" data-birf-log="component" data-qaid="comp_cert_pgm">Compare Certified Programs</a>
-            </li>
-            <li id="j_id_ac_15" class="atcui-nav-item subnav-menu-item" data-qaid="navContainer"><a href="/car-values/" class="subnav-menu-link" data-birf-cmp="glob_val_lnk" data-birf-log="component" data-qaid="glob_val_lnk">Get Car Values</a>
-            </li>
-            <li id="j_id_ac_15" class="atcui-nav-item subnav-menu-item" data-qaid="navContainer"><a href="/instant-cash-offer/?LNX=TIMATCHPNAVCNR" class="subnav-menu-link" data-birf-cmp="get_tim_off" data-birf-log="component" data-qaid="get_tim_off">Get Trade-In Offer</a>
-            </li>
-            </ul>
-            </li>
-            <li id="j_id_ac_1c" class="atcui-nav-item subnav-menu-container" data-qaid="navContainer">
-            <h3 class="subnav-menu-header nav-heading" data-qaid="hdr-subnav-hdg-reviewsnews">Reviews &amp; News
-                <span class="menu-dropdown-arrow"></span>
-            </h3>
-            <ul id="j_id_ac_1h" class="atcui-nav-list atcui-bare subnav-menu atcui-nav-collapsed" data-qaid="navContainer">
-            <li id="j_id_ac_1k" class="atcui-nav-item subnav-menu-item" data-qaid="navContainer"><a href="/car-topics/latest-articles.xhtml?rdpage=SUBNAV" class="subnav-menu-link" data-birf-cmp="lt_art" data-birf-log="component" data-qaid="lt_art">Latest Articles</a>
-            </li>
-            <li id="j_id_ac_1k" class="atcui-nav-item subnav-menu-item" data-qaid="navContainer"><a href="/car-topics/car-reviews.xhtml" class="subnav-menu-link" data-birf-cmp="lt_expt_rvw" data-birf-log="component" data-qaid="lt_expt_rvw">Latest Expert Reviews</a>
-            </li>
-            <li id="j_id_ac_1k" class="atcui-nav-item subnav-menu-item" data-qaid="navContainer"><a href="/videos/" class="subnav-menu-link" data-birf-cmp="lt_vid_rvw" data-birf-log="component" data-qaid="lt_vid_rvw">Latest Video Reviews</a>
-            </li>
-            <li id="j_id_ac_1k" class="atcui-nav-item subnav-menu-item" data-qaid="navContainer"><a href="/research/newmodel/index.jsp" class="subnav-menu-link" data-birf-cmp="nw_fut_mdl" data-birf-log="component" data-qaid="nw_fut_mdl">New &amp; Future Models</a>
-            </li>
-            <li id="j_id_ac_1k" class="atcui-nav-item subnav-menu-item" data-qaid="navContainer"><a href="/article-search-results/?keywords=" class="subnav-menu-link" data-birf-cmp="srch_art" data-birf-log="component" data-qaid="srch_art">Search Articles</a>
-            </li>
-            </ul>
-            </li>
-            </ul>
-                    </li>
-
-
-                <li class="nav-item local-dealers "><a href="/car-dealers" title="Find Local Dealers" data-birf-cmp="fyd_l" data-birf-log="component">Find Local Dealers</a>
-                </li>
-                    <li class="nav-item loans"><a href="http://www.roadloans.com/autotrader/" rel="nofollow" title="Car Loans" data-birf-cmp="loan_l" data-birf-log="component">Loans</a>
-                    </li>
-                    <li class="nav-item insurance "><a href="/insurance/index.xhtml" title="Car Insurance" data-birf-cmp="ins_l" data-birf-log="component">Insurance</a>
-                    </li>
-            </ul>
-
+                <script>
+                    window.globalHeaderServerData = {
+                        myatc: {
+                            gigyaAPIKey: '3_q8BZygyd9woydISx1xJdXOpoKVOzFb-tfXI2zCv3co_zySVdPpexjYJf5BEEGt90',
+                            GIGYA_EMAIL_VERIFICATION: true,
+                        }
+                    };
+                </script>
         </div>
     </div>
-                
-
-            </header><form id="j_id_36-j_id_ag" name="j_id_36-j_id_ag" method="post" action="/legal/privacy-statement.xhtml" enctype="application/x-www-form-urlencoded"><span id="j_id_36-j_id_ag-j_id_ah" style="display: none;" data-nospinner="true"><script type="text/javascript" data-nospinner="true">jsFunction.myAtcRerender=function(){RichFaces.ajax("j_id_36\u002Dj_id_ag\u002Dj_id_ah",null,{"incId":"1"} )};</script></span><span id="j_id_36-j_id_ag-j_id_ai" style="display: none;"><script type="text/javascript">jsFunction.myatcAuthenticate=function(){RichFaces.ajax("j_id_36\u002Dj_id_ag\u002Dj_id_ai",null,{"incId":"1"} )};</script></span><span id="j_id_36-j_id_ag-j_id_aj" style="display: none;"><script type="text/javascript">jsFunction.myatcLogout=function(){RichFaces.ajax("j_id_36\u002Dj_id_ag\u002Dj_id_aj",null,{"incId":"1"} )};</script></span><input type="hidden" name="j_id_36-j_id_ag_SUBMIT" value="1"><input type="hidden" name="javax.faces.ViewState" value="GY1M3aZvrN9y2ICuajwwvR3/2jvS02r4Z94OZuleIww2woeh" autocomplete="off"></form>
-        <div id="myatcAuthentication" class="atcui-overlayContent atcui-hidden" data-atcui-location="" data-atcui-role="overlay" data-atcui-lazyload="false" data-atcui-callbacks="myatcLoginCallbacks" data-atcui-config="{&quot;id&quot;: &quot;myatcAuthentication&quot;,                                 &quot;jsfId&quot;: &quot;j_id_36-j_id_ak-myatcAuthentication&quot;,                                 &quot;classNames&quot;:&quot;myatcOverlay&quot;,                                 &quot;autoOpen&quot;:false,                                 &quot;resizable&quot;:false,                                 &quot;modal&quot;: true,                                 &quot;title&quot;:&quot; &quot;,                                 &quot;draggable&quot;: false,                                 &quot;url&quot;: &quot;&quot;,                                 &quot;height&quot;:0,                                 &quot;width&quot;:0,                                 &quot;gridWidth&quot;:0,                                 &quot;printable&quot;: false,                                 &quot;closeOnModalClick&quot;: true,                                 &quot;destroyOnClose&quot;: false,                                 &quot;makeResponsiveWidth&quot;: false                             }" data-qaid="myatcAuthentication">
-
-                    <div class="myatcOverlayClosed"></div><div id="j_id_36-j_id_ak-myatcAuthenticationPanel" data-qaid="myatcAuthenticationPanel"></div>
-        </div>
-            <script type="text/javascript">
-                //<![CDATA[
-                (function(window, undefined){
-                    var elements = document.querySelectorAll('div[id="myatcAuthentication"]');
-                    if (elements.length > 1) {
-                        Array.prototype.forEach.call(elements, function (child, index) {
-                            if (index > 0) {
-                                child.parentNode.removeChild(child);
-                            }
-                        });
-                    }
-                })(window);
-                //]]>
-            </script>
-
-                <input type="hidden" class="myatcUserLoggedIn" value="false">
-
-            </div>
             <div class="atcui-content-wrapper">
 
                 <div id="pre-content-marker"></div>
 
         <div class="atcui-grid atcui-clearfix page-content-wrapper ">
 
-            <div id="j_id_b6" class="atcui atcui-content  " data-qaid="">
-        <div id="j_id_b4-j_id_b6-visitor" class="parsys atcui-inline " data-qaid="aem-content-visitor"><!-- BEGIN AEM INJECTION -->
+            <div id="j_id_3h" class="atcui atcui-content  " data-qaid="">
+        <div id="j_id_3f-j_id_3h-visitor" class="parsys atcui-inline " data-qaid="aem-content-visitor"><!-- BEGIN AEM INJECTION -->
 
 
     <div class="par parsys"><div class="title parbase section"><h1>Autotrader Privacy Statement</h1>
@@ -384,7 +299,7 @@
 
 <p>We do not provide information that is directly associated with a specific person (such as name and address) to an advertising network when you interact with or view a customized advertisement. However, when you view or interact with an advertisement, the advertiser may make an assumption that you are interested in the subject matter of the advertisement.</p> 
 
-<p>Some companies disclose when they are using interest-based advertising programs on the Autotrader Sites to deliver third-party ads or collecting information about your visit for these purposes and give you the ability to opt-out of this use of your information. You may see an icon <a href="http://www.aboutads.info/" target="_blank"><img src="http://media.autotrader.com/content/privacy-statement/images/daa-logo_25x26_v2.png"></a> in or around third-party advertisements on the Autotrader Sites that use interest-based advertising programs and on pages where data is collected and used for online interest-based advertising. Clicking on this icon will provide additional information about the companies and data practices that were used to deliver the ad. You can opt out of delivery of targeted advertising to you by multiple companies by visiting <a href="http://www.aboutads.info/choices" target="_blank">www.aboutads.info/choices</a>, <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">www.networkadvertising.org/managing/opt_out.asp</a> and <a href="http://www.evidon.com" target="_blank">www.evidon.com</a>. Please note that even if you opt out, you will continue to receive advertisements, but they will not be tailored to your specific interests.</p>
+<p>Some companies disclose when they are using interest-based advertising programs on the Autotrader Sites to deliver third-party ads or collecting information about your visit for these purposes and give you the ability to opt-out of this use of your information. You may see an icon <a href="http://www.aboutads.info/" target="_blank"><img src="https://media.autotrader.com/content/privacy-statement/images/daa-logo_25x26_v2.png"></a> in or around third-party advertisements on the Autotrader Sites that use interest-based advertising programs and on pages where data is collected and used for online interest-based advertising. Clicking on this icon will provide additional information about the companies and data practices that were used to deliver the ad. You can opt out of delivery of targeted advertising to you by multiple companies by visiting <a href="http://www.aboutads.info/choices" target="_blank">www.aboutads.info/choices</a>, <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">www.networkadvertising.org/managing/opt_out.asp</a> and <a href="http://www.evidon.com" target="_blank">www.evidon.com</a>. Please note that even if you opt out, you will continue to receive advertisements, but they will not be tailored to your specific interests.</p>
 
 
 <h2 id="information-share">Information We Share</h2>
@@ -476,185 +391,38 @@
         </div>
             </div>
 
-            <footer class="atcui-global-footer-wrapper mobile-footer-flex" data-qaid="footer">
 
-                <div id="footer-socialBar" class="wrapper atcui-flex-item-ordinal-2">
-                    <div class="container responsive-max-width-1300">
-                        <div class="content">
-        <ul id="j_id_bk" class="atcui-list                                                    socialBtns" data-qaid="0">
-        <li class="atcui-list-item " data-qaid=""><a href="http://www.facebook.com/autotrader" target="_blank" class="atcui-icon-link dark" title="Become a Fan of Autotrader on Facebook" data-birf-cmp="fcb" data-birf-log="component"><span data-birf-log="component" data-birf-ref="../" class="atcui-icon atcui-facebook  ">&nbsp;</span></a>
-        </li>
-        <li class="atcui-list-item " data-qaid=""><a href="http://twitter.com/autotrader_com" target="_blank" class="atcui-icon-link dark" title="Follow Autotrader on Twitter" data-birf-cmp="twt" data-birf-log="component"><span data-birf-log="component" data-birf-ref="../" class="atcui-icon atcui-twitter  ">&nbsp;</span></a>
-        </li>
-        <li class="atcui-list-item " data-qaid=""><a href="https://plus.google.com/101426451522010719899?prsrc=3" rel="publisher" target="_blank" class="atcui-icon-link dark" title="Autotrader on Google+" data-birf-cmp="ggl" data-birf-log="component"><span data-birf-log="component" data-birf-ref="../" class="atcui-icon atcui-googleplus  ">&nbsp;</span></a>
-        </li>
-        <li class="atcui-list-item " data-qaid=""><a href="http://www.youtube.com/autotrader" target="_blank" class="atcui-icon-link dark" title="See Autotrader Videos on YouTube" data-birf-cmp="ytb" data-birf-log="component"><span data-birf-log="component" data-birf-ref="../" class="atcui-icon atcui-youtube  ">&nbsp;</span></a>
-        </li>
-        </ul>
-        <ul id="j_id_cw" class="atcui-list                                                    appStoreBtns" data-qaid="0">
-        <li class="atcui-list-item " data-qaid=""><a href="https://itunes.apple.com/us/app/autotrader.com/id700740807?mt=8" target="_blank" data-birf-cmp="app_store" data-birf-log="component" data-qaid="appstore">
+    <style>
+        .axl-theme .footer {
+            font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-seri;
+            font-size: 14px;
+            line-height:1.5;
+        }
+    </style>
 
-            <img src="http://www.autotraderstatic.com/3_181_b8049a3/resources/img/atcui/template/AppStore.png" class="" alt="" align="" dir="" name="" lang="" onclick="" ondblclick="" onkeydown="" onkeypress="" onkeyup="" onmousedown="" onmousemove="" onmouseout="" onmouseover="" onmouseup="" id="j_id_d2" title="" style="" data-atc-lazyload="false" data-original="" data-birf-log="" data-birf-cmp="" data-birf-extra="" data-birf-logtype="" data-birf-ref="" data-birf-par="" data-qaid=""></a>
-        </li>
-        <li class="atcui-list-item " data-qaid=""><a href="https://play.google.com/store/apps/details?id=com.autotrader.android" target="_blank" data-birf-cmp="ggl_ply" data-birf-log="component" data-qaid="googleplay">
-
-            <img src="http://www.autotraderstatic.com/3_181_b8049a3/resources/img/atcui/template/GooglePlay.png" class="" alt="" align="" dir="" name="" lang="" onclick="" ondblclick="" onkeydown="" onkeypress="" onkeyup="" onmousedown="" onmousemove="" onmouseout="" onmouseover="" onmouseup="" id="j_id_da" title="" style="" data-atc-lazyload="false" data-original="" data-birf-log="" data-birf-cmp="" data-birf-extra="" data-birf-logtype="" data-birf-ref="" data-birf-par="" data-qaid=""></a>
-        </li>
-        </ul>
-        <ul id="j_id_df" class="atcui-list                                                    feedback-link" data-qaid="0">
-        <li class="atcui-list-item " data-qaid="">
-                                       <div id="atcui-feedback" class="atcui-feedback dark-link">
-                                            <a href="javascript:void(0)" data-birf-cmp="fdbk" data-birf-log="component"><img src="/resources/img/atcui/24x24-default.gif"> Feedback
-                                            </a>
-                                        </div>
-        </li>
-        </ul>
-
-                        </div>
-                    </div>
-                </div>
-            <nav id="atcui-footer" data-atc-role="navContainer" data-atc-auto-init="true" class="atcui-nav-container   atcui-global-footer-new container dark-link responsive-max-width-1300 atcui-flex-item-ordinal-1" data-qaid="navContainer">
-                    <div id="atcui-footer-inner" class="content atcui-clearfix">
-                             
-                             <div class="innerColumn">
-                                 
-                                 <h3 class="nav-heading" data-qaid="nav-heading-shopforcar">Shop for a Car</h3>
-            <ul id="j_id_dt" class="atcui-nav-list atcui-bare atcui-nav-collapsed" data-qaid="navContainer">
-            <li id="j_id_dv" class="atcui-nav-item " data-qaid="navContainer"><a href="/cars-for-sale/searchresults.xhtml?Log=0" data-birf-cmp="brw_sale" data-birf-log="component" data-qaid="link_browse_cars">Cars for Sale</a>
-            </li>
-            <li id="j_id_e0" class="atcui-nav-item " data-qaid="navContainer"><a href="/car-topics/car-deals.xhtml" data-birf-cmp="brw_so" data-birf-log="component">Car Deals</a>
-            </li>
-            <li id="j_id_e5" class="atcui-nav-item " data-qaid="navContainer"><a href="/car-dealers/" data-birf-cmp="srch_dlrs" data-birf-log="component">Car Dealers</a>
-            </li>
-            </ul>
-                                 <hr class="atcui-nav-divider">
-
-                                 
-                                 <h3 class="layout-not-small" data-qaid="nav-heading-affiliates">Autotrader Affiliates</h3>
-            <ul id="j_id_ee" class="atcui-nav-list atcui-bare layout-not-small" data-qaid="navContainer">
-            <li id="j_id_eg" class="atcui-nav-item " data-qaid="navContainer"><a href="http://classics.autotrader.com/?utm_source=atc&amp;utm_medium=links&amp;utm_content=atcfot&amp;utm_campaign=partnership" target="_blank" class="atcui-icon-link atc-affiliate-link" data-birf-cmp="atx" data-birf-log="component">
-
-            <img src="http://www.autotraderstatic.com/content/web/images/partners/no_img_1pixel.png" class="" alt="" align="" dir="" name="" lang="" onclick="" ondblclick="" onkeydown="" onkeypress="" onkeyup="" onmousedown="" onmousemove="" onmouseout="" onmouseover="" onmouseup="" id="j_id_ej" title="" style="" data-atc-lazyload="false" data-original="" data-birf-log="component" data-birf-cmp="" data-birf-extra="" data-birf-logtype="" data-birf-ref="../" data-birf-par="" data-qaid="">
-
-                                             <div class="affiliates-text-block"><span data-birf-log="component" data-birf-ref="../../" data-qaid="lnk-footerAffiliateClassics" class="affiliate-text">Find Classic &amp; Exotic Cars for Sale</span><span class="atcui-icon atcui-externalLink  ">&nbsp;</span>
-                                             </div></a>
-            </li>
-            <li id="j_id_ew" class="atcui-nav-item " data-qaid="navContainer"><a href="http://motorcycles.autotrader.com/?utm_source=atc&amp;utm_medium=links&amp;utm_content=atcfot&amp;utm_campaign=partnership" target="_blank" class="atcui-icon-link atc-affiliate-link" data-birf-cmp="find_mot" data-birf-log="component">
-
-            <img src="http://www.autotraderstatic.com/content/web/images/partners/no_img_1pixel.png" class="" alt="" align="" dir="" name="" lang="" onclick="" ondblclick="" onkeydown="" onkeypress="" onkeyup="" onmousedown="" onmousemove="" onmouseout="" onmouseover="" onmouseup="" id="j_id_ez" title="" style="" data-atc-lazyload="false" data-original="" data-birf-log="component" data-birf-cmp="" data-birf-extra="" data-birf-logtype="" data-birf-ref="../" data-birf-par="" data-qaid="">
-
-                                             <div class="affiliates-text-block"><span data-birf-log="component" data-birf-ref="../../" data-qaid="lnk-footerAffiliateBhph" class="affiliate-text">Find Motorcycles for Sale</span><span class="atcui-icon atcui-externalLink  ">&nbsp;</span>
-                                             </div></a>
-            </li>
-            <li id="j_id_fc" class="atcui-nav-item " data-qaid="navContainer"><a href="http://rvs.autotrader.com/?utm_source=atc&amp;utm_medium=links&amp;utm_content=atcfot&amp;utm_campaign=partnership" target="_blank" class="atcui-icon-link atc-affiliate-link" data-birf-cmp="find_rv" data-birf-log="component">
-
-            <img src="http://www.autotraderstatic.com/content/web/images/partners/no_img_1pixel.png" class="" alt="" align="" dir="" name="" lang="" onclick="" ondblclick="" onkeydown="" onkeypress="" onkeyup="" onmousedown="" onmousemove="" onmouseout="" onmouseover="" onmouseup="" id="j_id_ff" title="" style="" data-atc-lazyload="false" data-original="" data-birf-log="component" data-birf-cmp="" data-birf-extra="" data-birf-logtype="" data-birf-ref="../" data-birf-par="" data-qaid="">
-
-                                             <div class="affiliates-text-block"><span data-birf-log="component" data-birf-ref="../../" data-qaid="lnk-footerAffiliateDow" class="affiliate-text">Find RVs for Sale</span><span class="atcui-icon atcui-externalLink  ">&nbsp;</span>
-                                             </div></a>
-            </li>
-            <li id="j_id_fs" class="atcui-nav-item " data-qaid="navContainer"><a href="http://buyherepayhere.autotrader.com/?utm_source=atc&amp;utm_medium=links&amp;utm_content=atcfot&amp;utm_campaign=partnership" target="_blank" class="atcui-icon-link atc-affiliate-link" data-birf-cmp="bhph_cntr" data-birf-log="component">
-
-                                             <div class="affiliates-text-block"><span data-birf-log="component" data-birf-ref="../../" class="affiliate-text">Find Cars for Bad-Credit Buyers</span><span class="atcui-icon atcui-externalLink  ">&nbsp;</span>
-                                             </div></a>
-            </li>
-            </ul>
-                             </div>
-
-                             
-                             <div class="innerColumn">
-                                 
-                                 <h3 class="nav-heading" data-qaid="nav-heading-tradeorsell">Trade or Sell a Car</h3>
-            <ul id="j_id_g9" class="atcui-nav-list atcui-bare atcui-nav-collapsed" data-qaid="navContainer">
-            <li id="j_id_gb" class="atcui-nav-item " data-qaid="navContainer"><a href="/sell-my-car/" data-birf-cmp="sell_cr" data-birf-log="component">Sell a Car</a>
-            </li>
-            <li id="j_id_gg" class="atcui-nav-item " data-qaid="navContainer"><a href="/instant-cash-offer/?LNX=TIMATCHPNAV" data-birf-cmp="trd_in_car" data-birf-log="component">Trade in a Car</a>
-            </li>
-            </ul>
-                                 <hr class="atcui-nav-divider">
-
-                                 
-                                 <h3 class="nav-heading" data-qaid="nav-heading-research">Research Cars</h3>
-            <ul id="j_id_gp" class="atcui-nav-list atcui-bare atcui-nav-collapsed" data-qaid="navContainer">
-            <li id="j_id_gr" class="atcui-nav-item " data-qaid="navContainer"><a href="/research/" data-birf-cmp="car_res" data-birf-log="component" data-qaid="link_car_research">Car Research</a>
-            </li>
-            <li id="j_id_gw" class="atcui-nav-item " data-qaid="navContainer"><a href="/car-match/" data-birf-cmp="foot_car_mat_lnk" data-birf-log="component">New Car Models</a>
-            </li>
-            <li id="j_id_h1" class="atcui-nav-item " data-qaid="navContainer"><a href="/research/modelinfo/index.xhtml" data-birf-cmp="cr_mdl_inf" data-birf-log="component">Car Model Information</a>
-            </li>
-            <li id="j_id_h6" class="atcui-nav-item " data-qaid="navContainer"><a href="/research/new-cars" data-birf-cmp="nw_car" data-birf-log="component">New Cars</a>
-            </li>
-            <li id="j_id_hb" class="atcui-nav-item " data-qaid="navContainer"><a href="/research/used-cars" data-birf-cmp="usd_car" data-birf-log="component">Used Cars</a>
-            </li>
-            <li id="j_id_hg" class="atcui-nav-item " data-qaid="navContainer"><a href="/research/certified-cars" data-birf-cmp="cert_car" data-birf-log="component">Certified Cars</a>
-            </li>
-            <li id="j_id_hl" class="atcui-nav-item " data-qaid="navContainer"><a href="/car-values/" data-birf-cmp="foot_val_lnk" data-birf-log="component">Trade-In Values and Car Pricing</a>
-            </li>
-            </ul>
-                                 <hr class="atcui-nav-divider">
-
-                             </div>
-
-                            
-                            <div class="innerColumn">
-                                
-                                <h3 class="nav-heading" data-qaid="nav-heading-aboutus">About Us</h3>
-            <ul id="j_id_hu" class="atcui-nav-list atcui-bare atcui-nav-collapsed" data-qaid="navContainer">
-            <li id="j_id_hw" class="atcui-nav-item " data-qaid="navContainer"><a href="/about/index.xhtml" data-birf-cmp="abt_atc" data-birf-log="component" data-qaid="link_comp_info">Company Information</a>
-            </li>
-            <li id="j_id_i1" class="atcui-nav-item " data-qaid="navContainer"><a href="http://www.coxautoinc.com/" rel="nofollow" target="_blank" data-birf-cmp="corp_inf" data-birf-log="component">Corporate Information</a>
-            </li>
-            <li id="j_id_i6" class="atcui-nav-item " data-qaid="navContainer"><a href="http://careers.autotrader.com/" data-birf-cmp="atc_jbs" data-birf-log="component">Jobs at Autotrader</a>
-            </li>
-            <li id="j_id_ib" class="atcui-nav-item " data-qaid="navContainer"><a href="http://agameautotrader.com/#contact-form" target="_blank" data-birf-cmp="bc_atc_dlr" data-birf-log="component">Become an Autotrader Dealer</a>
-            </li>
-            <li id="j_id_ig" class="atcui-nav-item " data-qaid="navContainer"><a href="http://press.autotrader.com/" data-birf-cmp="prs_rm" data-birf-log="component">Press Room</a>
-            </li>
-            <li id="j_id_il" class="atcui-nav-item " data-qaid="navContainer"><a href="/help/sitemap.xhtml" data-birf-cmp="site_mp" data-birf-log="component" data-qaid="link_site_map">Site Map</a>
-            </li>
-            <li id="j_id_iq" class="atcui-nav-item " data-qaid="navContainer"><a href="/help/contact.xhtml" data-birf-cmp="cont_us" data-birf-log="component" data-qaid="link_contact_us">Contact Us</a>
-            </li>
-            <li id="j_id_iv" class="atcui-nav-item " data-qaid="navContainer"><a href="/help/index.xhtml" data-birf-cmp="help" data-birf-log="component" data-qaid="link_help">Help</a>
-            </li>
-            <li id="j_id_j0" class="atcui-nav-item " data-qaid="navContainer">
-        <span data-atcui-role="popup" data-atcui-config="{&quot;id&quot;: &quot;fraudAwareness&quot;,                                 &quot;url&quot;: &quot;/legal/fraud-awareness.xhtml&quot;,                                 &quot;resizable&quot;: true,                                 &quot;width&quot;: 600,                                 &quot;gridWidth&quot;: 0,                                 &quot;height&quot;: 600,                                 &quot;name&quot;: &quot;atcuiPopup&quot;,                                 &quot;printable&quot;: false,                                 &quot;exclusive&quot;: false}"></span>
-        <span id="j_id_j4" data-qaid="" class="atcui-trigger atcui-icon-link atcui-icon-span fraudAwareness_footer" data-atcui-trigger-target="fraudAwareness" data-atcui-trigger-event="click" data-atcui-trigger-method="open" data-birf-log="component" data-birf-cmp="frd_awr" data-birf-extra="" data-birf-logtype="" data-birf-ref="" data-birf-par="" data-atcbi-thirdparty-click=""><span data-birf-log="component" data-birf-ref="../">Fraud Awareness</span>
-        </span>
-            </li>
-            <li id="j_id_j9" class="atcui-nav-item " data-qaid="navContainer"><a href="http://m.autotrader.com/" data-birf-cmp="atc_mbl" data-birf-log="component">Autotrader Mobile</a>
-            </li>
-            </ul>
-                                <hr class="atcui-nav-divider">
-                             </div>
-                    </div>
-            </nav>
-        <div id="j_id_jh" class="atcui-section atcui-clearfix   visitor-legal atcui-global-footer-new dark-link atcui-flex-item-ordinal-3 responsive-max-width-1300 " data-qaid="">
-                    <span>By using this service, you accept the terms of our</span>
-        <span id="j_id_jl" data-qaid="" class="atcui-trigger atcui-icon-link atcui-icon-span atcui-bold" data-atcui-trigger-target="visitorAgreement" data-atcui-trigger-event="click" data-atcui-trigger-method="open" data-birf-log="component" data-birf-cmp="vis_agr" data-birf-extra="" data-birf-logtype="" data-birf-ref="" data-birf-par="" data-atcbi-thirdparty-click=""><span data-birf-log="component" data-birf-ref="../">Visitor Agreement.</span>
-        </span>
-        <span data-atcui-role="popup" data-atcui-config="{&quot;id&quot;: &quot;visitorAgreement&quot;,                                 &quot;url&quot;: &quot;/legal/visitor-agreement.xhtml?printable=true&quot;,                                 &quot;resizable&quot;: true,                                 &quot;width&quot;: 650,                                 &quot;gridWidth&quot;: 0,                                 &quot;height&quot;: 590,                                 &quot;name&quot;: &quot;atcuiPopup&quot;,                                 &quot;printable&quot;: false,                                 &quot;exclusive&quot;: false}"></span><a href="/privacy.jsp" class="privacy" data-birf-cmp="pvcy_stmt" data-birf-log="component" data-qaid="link_privacy_stmt">Privacy Statement.</a><span class="third-party evidon"><a id="_bapw-link" style="cursor:pointer !important;"><img id="_bapw-icon" style="display:inline !important;vertical-align:middle !important" src="https://cdn.betrad.com/pub/icon1.png"> <span style="vertical-align:middle !important">AdChoices</span></a><script>(function(){var e=document,b,a=(e.location.protocol=="https:"?"https":"http"),c=(a=="https"?"https://cdn.betrad.com/pub/":"http://cdn.betrad.com/pub/");e.getElementById("_bapw-icon").src=c+"icon1.png";e.getElementById("_bapw-link").onclick=function(){var f=this;function d(i,l){var j=e.getElementsByTagName("head")[0]||e.documentElement,h=false,g=e.createElement("script");function k(){g.onload=g.onreadystatechange=null;j.removeChild(g);l()}g.src=i;g.onreadystatechange=function(){if(!h&&(this.readyState=="loaded"||this.readyState=="complete")){h=true;k()}};g.onload=k;j.insertBefore(g,j.firstChild)}this.onclick="return false";d(a+"://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js",function(){d(c+"pub1.js",function(){BAPW.i(f,{pid:142,ocid:869},false)})});return false};b=new Image();b.src=a+"://l.betrad.com/pub/p.gif?pid=142&ocid=869&ii=1&r="+Math.random()}());</script></span><span class="atcui-block">© 2016 Autotrader, Inc. All Rights Reserved. "Autotrader" is a registered trademark of TPI Holdings, Inc. used under exclusive license.</span>
+    <div class="axl-theme">
+        <div class="container-fixed-width container-min-width">
+            <div id="footerMountNode"><footer class="footer " data-qaid="cntr-responsiveFooter"><div class="container-fluid"><div class="container"><div class="row"><div class="col-xs-12"></div></div></div></div><div class="container-fluid"><div class="container"><div class="row"><div class="col col-sm-3 text-white"><div><div class="text-bold">Shop for a Car</div><ul class="list-unstyled text-white"><li><a href="/cars-for-sale/searchresults.xhtml" data-birf-cmp="brw_sale" data-birf-log="component" data-qaid="lnk-browse-cars">Cars for Sale</a></li><li><a href="/car-topics/car-deals.xhtml" data-birf-cmp="brw_so" data-birf-log="component" data-qaid="lnk-car-deals">Car Deals</a></li><li><a href="/car-dealers/" data-birf-cmp="srch_dlrs" data-birf-log="component" data-qaid="lnk-car-dealers">Car Dealers</a></li></ul></div><div><div class="text-bold">Trade or Sell a Car</div><ul class="list-unstyled text-white"><li><a href="/sell-my-car/" data-birf-cmp="sell_cr" data-birf-log="component" data-qaid="lnk-sell-car">Sell a Car</a></li><li><a href="/trade-in-instant-cash-offer/?LNX=TIMATCHPNAV" data-birf-cmp="trd_in_car" data-birf-log="component" data-qaid="lnk-trade-car">Trade in a Car</a></li></ul></div></div><div class="col col-sm-3 text-white"><div><div class="text-bold">Car Research</div><ul class="list-unstyled text-white"><li><a href="/research/" data-birf-cmp="car_res" data-birf-log="component" data-qaid="lnk-car-research">Car Research</a></li><li><a href="/research/modelinfo/index.xhtml" data-birf-cmp="cr_mdl_inf" data-birf-log="component" data-qaid="lnk-car-model-information">Car Model Information</a></li><li><a href="/research/new-cars" data-birf-cmp="nw_car" data-birf-log="component" data-qaid="lnk-new-cars">New Cars</a></li><li><a href="/research/used-cars" data-birf-cmp="usd_car" data-birf-log="component" data-qaid="lnk-used-cars">Used Cars</a></li><li><a href="/research/certified-cars" data-birf-cmp="cert_car" data-birf-log="component" data-qaid="lnk-certified-cars">Certified Cars</a></li><li><a href="/car-values/" data-birf-cmp="foot_val_lnk" data-birf-log="component" data-qaid="lnk-tradeIn-values-car-pricing">Trade-In Values and Car Pricing</a></li></ul></div></div><div class="col col-sm-3 text-white"><div><div class="text-bold">About Us</div><ul class="list-unstyled text-white"><li><a href="/about/index.xhtml" data-birf-cmp="abt_atc" data-birf-log="component" data-qaid="lnk-comp-info">Company Information</a></li><li><a href="https://www.coxautoinc.com" rel="nofollow" target="_blank" data-birf-cmp="corp_inf" data-birf-log="component" data-qaid="lnk-corporate-information">Corporate Information</a></li><li><a href="https://jobs.coxautoinc.com/search-jobs/?ascf=%5b%7b%27key%27:%27travel%27,%27value%27:%27Autotrader%27%7d%5d" data-birf-cmp="atc_jbs" data-birf-log="component" data-qaid="lnk-jobs-autotrader">Jobs at Autotrader</a></li><li><a href="https://agameautotrader.com/#contact-form" target="_blank" data-birf-cmp="bc_atc_dlr" data-birf-log="component" data-qaid="lnk-become-autotrader-dealer">Become an Autotrader Dealer</a></li><li><a href="http://press.autotrader.com" data-birf-cmp="prs_rm" data-birf-log="component" data-qaid="lnk-press-room">Press Room</a></li><li><a href="/help/sitemap.xhtml" data-birf-cmp="site_mp" data-birf-log="component" data-qaid="lnk-site-map">Site Map</a></li><li><a href="/help/contact.xhtml" data-birf-cmp="cont_us" data-birf-log="component" data-qaid="lnk-contact-us">Contact Us</a></li><li><a href="/help/index.xhtml" data-birf-cmp="help" data-birf-log="component" data-qaid="lnk-help">Help</a></li><li><a href="/legal/fraud-awareness.xhtml" data-birf-cmp="frd_awr" data-birf-log="component" data-qaid="lnk-fraud-awareness">Fraud Awareness</a></li><li><a href="https://m.autotrader.com" data-birf-cmp="atc_mbl" data-birf-log="component" data-qaid="lnk-autotrader-mobile">Autotrader Mobile</a></li></ul></div></div><div class="col col-sm-3 text-white"><div><div class="text-bold">Autotrader Affiliates</div><ul class="list-unstyled text-white"><li><a href="http://classics.autotrader.com/?utm_source=atc&amp;utm_medium=links&amp;utm_content=atcfot&amp;utm_campaign=partnership" data-birf-cmp="atx" data-birf-log="component">Find Classic &amp; Exotic Cars for Sale<span class="margin-left-2 glyphicon glyphicon-offsite"></span></a></li><li><a href="http://motorcycles.autotrader.com/?utm_source=atc&amp;utm_medium=links&amp;utm_content=atcfot&amp;utm_campaign=partnership" data-birf-cmp="find_mot" data-birf-log="component">Find Motorcycles for Sale<span class="margin-left-2 glyphicon glyphicon-offsite"></span></a></li><li><a href="http://rvs.autotrader.com/?utm_source=atc&amp;utm_medium=links&amp;utm_content=atcfot&amp;utm_campaign=partnership" data-birf-cmp="find_rv" data-birf-log="component">Find RVs for Sale<span class="margin-left-2 glyphicon glyphicon-offsite"></span></a></li><li><a href="http://buyherepayhere.autotrader.com/?utm_source=atc&amp;utm_medium=links&amp;utm_content=atcfot&amp;utm_campaign=partnership" data-birf-cmp="bhph_cntr" data-birf-log="component">Find Cars for Bad-Credit Buyers<span class="margin-left-2 glyphicon glyphicon-offsite"></span></a></li></ul></div></div></div><div class="icon-bar margin-vertical-lg"><div role="toolbar" class="margin-horizontal-sm btn-toolbar"><label class="text-bold text-white">Follow</label><a data-birf-cmp="fcb" data-birf-log="component" data-qaid="link_facebook" title="Become a Fan of Autotrader on Facebook" href="https://www.facebook.com/autotrader" class="btn btn-link"><span class="glyphicon glyphicon-facebook"></span></a><a data-birf-cmp="twt" data-birf-log="component" data-qaid="lnk-twitter" title="Follow Autotrader on Twitter" href="https://www.twitter.com/autotrader_com" class="btn btn-link"><span class="glyphicon glyphicon-twitter"></span></a><a data-birf-cmp="ggl" data-birf-log="component" data-qaid="lnk-google-plus" title="Autotrader on Google+" href="https://plus.google.com/101426451522010719899?prsrc=3" class="btn btn-link"><span class="glyphicon glyphicon-google-plus"></span></a><a data-birf-cmp="ytb" data-birf-log="component" data-qaid="lnk-youtube" title="See Autotrader videos on Youtube" href="https://www.youtube.com/autotrader" class="btn btn-link"><span class="glyphicon glyphicon-youtube"></span></a></div><div class="app-stores"><a href="https://itunes.apple.com/us/app/autotrader.com/id700740807?mt=8" target="_blank" rel="noopener noreferrer" data-birf-cmp="app_store" data-birf-log="component" data-qaid="appstore"><svg width="135" height="40" viewBox="0 0 135 40" xmlns="http://www.w3.org/2000/svg"><title>Download_on_the_App_Store_Badge_US-UK_135x40</title><g fill-rule="nonzero" fill="none"><path d="M130.197 40H4.729A4.74 4.74 0 0 1 0 35.267V4.726A4.733 4.733 0 0 1 4.729 0h125.468C132.803 0 135 2.12 135 4.726v30.541c0 2.605-2.197 4.733-4.803 4.733z" fill="#A6A6A6"></path><path d="M134.032 35.268a3.83 3.83 0 0 1-3.834 3.83H4.729a3.835 3.835 0 0 1-3.839-3.83V4.725A3.84 3.84 0 0 1 4.729.89h125.468a3.834 3.834 0 0 1 3.834 3.835l.001 30.543z" fill="#000"></path><g fill="#FFF"><path d="M30.128 19.784c-.029-3.223 2.639-4.791 2.761-4.864-1.511-2.203-3.853-2.504-4.676-2.528-1.967-.207-3.875 1.177-4.877 1.177-1.022 0-2.565-1.157-4.228-1.123-2.14.033-4.142 1.272-5.24 3.196-2.266 3.923-.576 9.688 1.595 12.859 1.086 1.553 2.355 3.287 4.016 3.226 1.625-.067 2.232-1.036 4.193-1.036 1.943 0 2.513 1.036 4.207.997 1.744-.028 2.842-1.56 3.89-3.127 1.255-1.78 1.759-3.533 1.779-3.623-.041-.014-3.387-1.291-3.42-5.154zM26.928 10.306c.874-1.093 1.472-2.58 1.306-4.089-1.265.056-2.847.875-3.758 1.944-.806.942-1.526 2.486-1.34 3.938 1.421.106 2.88-.717 3.792-1.793z"></path></g><g fill="#FFF"><path d="M53.645 31.504h-2.271l-1.244-3.909h-4.324l-1.185 3.909H42.41l4.284-13.308h2.646l4.305 13.308zm-3.89-5.549L48.63 22.48c-.119-.355-.342-1.191-.671-2.507h-.04a96.75 96.75 0 0 1-.632 2.507l-1.105 3.475h3.573zM64.662 26.588c0 1.632-.441 2.922-1.323 3.869-.79.843-1.771 1.264-2.942 1.264-1.264 0-2.172-.454-2.725-1.362h-.04v5.055H55.5V25.067c0-1.026-.027-2.079-.079-3.159h1.875l.119 1.521h.04c.711-1.146 1.79-1.718 3.238-1.718 1.132 0 2.077.447 2.833 1.342.758.896 1.136 2.074 1.136 3.535zm-2.172.078c0-.934-.21-1.704-.632-2.31-.461-.632-1.08-.948-1.856-.948-.526 0-1.004.176-1.431.523-.428.35-.708.807-.839 1.373-.066.264-.099.48-.099.65v1.6c0 .698.214 1.287.642 1.768.428.481.984.721 1.668.721.803 0 1.428-.31 1.875-.928.448-.619.672-1.435.672-2.449zM75.699 26.588c0 1.632-.441 2.922-1.324 3.869-.789.843-1.77 1.264-2.941 1.264-1.264 0-2.172-.454-2.724-1.362h-.04v5.055h-2.132V25.067c0-1.026-.027-2.079-.079-3.159h1.875l.119 1.521h.04c.71-1.146 1.789-1.718 3.238-1.718 1.131 0 2.076.447 2.834 1.342.755.896 1.134 2.074 1.134 3.535zm-2.172.078c0-.934-.211-1.704-.633-2.31-.461-.632-1.078-.948-1.855-.948a2.22 2.22 0 0 0-1.432.523c-.428.35-.707.807-.838 1.373-.065.264-.099.48-.099.65v1.6c0 .698.214 1.287.64 1.768.428.48.984.721 1.67.721.803 0 1.428-.31 1.875-.928.448-.619.672-1.435.672-2.449zM88.039 27.772c0 1.132-.393 2.053-1.182 2.764-.867.777-2.074 1.165-3.625 1.165-1.432 0-2.58-.276-3.449-.829l.494-1.777c.936.566 1.963.85 3.082.85.803 0 1.428-.182 1.877-.544.447-.362.67-.848.67-1.454 0-.54-.184-.995-.553-1.364-.367-.369-.98-.712-1.836-1.029-2.33-.869-3.494-2.142-3.494-3.816 0-1.094.408-1.991 1.225-2.689.814-.699 1.9-1.048 3.258-1.048 1.211 0 2.217.211 3.02.632l-.533 1.738c-.75-.408-1.598-.612-2.547-.612-.75 0-1.336.185-1.756.553a1.58 1.58 0 0 0-.533 1.205c0 .526.203.961.611 1.303.355.316 1 .658 1.936 1.027 1.145.461 1.986 1 2.527 1.618.539.616.808 1.387.808 2.307zM95.088 23.508h-2.35v4.659c0 1.185.414 1.777 1.244 1.777.381 0 .697-.033.947-.099l.059 1.619c-.42.157-.973.236-1.658.236-.842 0-1.5-.257-1.975-.77-.473-.514-.711-1.376-.711-2.587v-4.837h-1.4v-1.6h1.4v-1.757l2.094-.632v2.389h2.35v1.602zM105.691 26.627c0 1.475-.422 2.686-1.264 3.633-.883.975-2.055 1.461-3.516 1.461-1.408 0-2.529-.467-3.365-1.401-.836-.934-1.254-2.113-1.254-3.534 0-1.487.43-2.705 1.293-3.652.861-.948 2.023-1.422 3.484-1.422 1.408 0 2.541.467 3.396 1.402.818.907 1.226 2.078 1.226 3.513zm-2.212.069c0-.885-.189-1.644-.572-2.277-.447-.766-1.086-1.148-1.914-1.148-.857 0-1.508.383-1.955 1.148-.383.634-.572 1.405-.572 2.317 0 .885.189 1.644.572 2.276.461.766 1.105 1.148 1.936 1.148.814 0 1.453-.39 1.914-1.168.393-.645.591-1.412.591-2.296zM112.621 23.783a3.702 3.702 0 0 0-.672-.059c-.75 0-1.33.283-1.738.85-.355.5-.533 1.132-.533 1.895v5.035h-2.131l.02-6.574c0-1.106-.027-2.113-.08-3.021h1.857l.078 1.836h.059c.225-.631.58-1.139 1.066-1.52a2.578 2.578 0 0 1 1.541-.514c.197 0 .375.014.533.039v2.033zM122.156 26.252a5 5 0 0 1-.078.967h-6.396c.025.948.334 1.673.928 2.173.539.447 1.236.671 2.092.671.947 0 1.811-.151 2.588-.454l.334 1.48c-.908.396-1.98.593-3.217.593-1.488 0-2.656-.438-3.506-1.313-.848-.875-1.273-2.05-1.273-3.524 0-1.447.395-2.652 1.186-3.613.828-1.026 1.947-1.539 3.355-1.539 1.383 0 2.43.513 3.141 1.539.563.815.846 1.823.846 3.02zm-2.033-.553c.014-.632-.125-1.178-.414-1.639-.369-.593-.936-.889-1.699-.889-.697 0-1.264.289-1.697.869-.355.461-.566 1.014-.631 1.658h4.441v.001z"></path></g><g fill="#FFF"><path d="M49.05 10.009c0 1.177-.353 2.063-1.058 2.658-.653.549-1.581.824-2.783.824-.596 0-1.106-.026-1.533-.078V6.982c.557-.09 1.157-.136 1.805-.136 1.145 0 2.008.249 2.59.747.652.563.979 1.368.979 2.416zm-1.105.029c0-.763-.202-1.348-.606-1.756-.404-.407-.994-.611-1.771-.611-.33 0-.611.022-.844.068v4.889c.129.02.365.029.708.029.802 0 1.421-.223 1.857-.669.436-.446.656-1.096.656-1.95zM54.909 11.037c0 .725-.207 1.319-.621 1.785-.434.479-1.009.718-1.727.718-.692 0-1.243-.229-1.654-.689-.41-.459-.615-1.038-.615-1.736 0-.73.211-1.329.635-1.794.424-.465.994-.698 1.712-.698.692 0 1.248.229 1.669.688.4.446.601 1.022.601 1.726zm-1.087.034c0-.435-.094-.808-.281-1.119-.22-.376-.533-.564-.94-.564-.421 0-.741.188-.961.564-.188.311-.281.69-.281 1.138 0 .435.094.808.281 1.119.227.376.543.564.951.564.4 0 .714-.191.94-.574.194-.317.291-.693.291-1.128zM62.765 8.719l-1.475 4.714h-.96l-.611-2.047a15.32 15.32 0 0 1-.379-1.523h-.019a11.15 11.15 0 0 1-.379 1.523l-.649 2.047h-.971l-1.387-4.714h1.077l.533 2.241c.129.53.235 1.035.32 1.513h.019c.078-.394.207-.896.389-1.503l.669-2.25h.854l.641 2.202c.155.537.281 1.054.378 1.552h.029c.071-.485.178-1.002.32-1.552l.572-2.202h1.029v-.001zM68.198 13.433H67.15v-2.7c0-.832-.316-1.248-.95-1.248a.946.946 0 0 0-.757.343 1.217 1.217 0 0 0-.291.808v2.796h-1.048v-3.366c0-.414-.013-.863-.038-1.349h.921l.049.737h.029c.122-.229.304-.418.543-.569.284-.176.602-.265.95-.265.44 0 .806.142 1.097.427.362.349.543.87.543 1.562v2.824zM71.088 13.433h-1.047V6.556h1.047zM77.258 11.037c0 .725-.207 1.319-.621 1.785-.434.479-1.01.718-1.727.718-.693 0-1.244-.229-1.654-.689-.41-.459-.615-1.038-.615-1.736 0-.73.211-1.329.635-1.794.424-.465.994-.698 1.711-.698.693 0 1.248.229 1.67.688.4.446.601 1.022.601 1.726zm-1.088.034c0-.435-.094-.808-.281-1.119-.219-.376-.533-.564-.939-.564-.422 0-.742.188-.961.564-.188.311-.281.69-.281 1.138 0 .435.094.808.281 1.119.227.376.543.564.951.564.4 0 .713-.191.939-.574.195-.317.291-.693.291-1.128zM82.33 13.433h-.941l-.078-.543h-.029c-.322.433-.781.65-1.377.65-.445 0-.805-.143-1.076-.427a1.339 1.339 0 0 1-.369-.96c0-.576.24-1.015.723-1.319.482-.304 1.16-.453 2.033-.446V10.3c0-.621-.326-.931-.979-.931-.465 0-.875.117-1.229.349l-.213-.688c.438-.271.979-.407 1.617-.407 1.232 0 1.85.65 1.85 1.95v1.736c0 .471.023.846.068 1.124zm-1.088-1.62v-.727c-1.156-.02-1.734.297-1.734.95 0 .246.066.43.201.553a.733.733 0 0 0 .512.184c.23 0 .445-.073.641-.218a.893.893 0 0 0 .38-.742zM88.285 13.433h-.93l-.049-.757h-.029c-.297.576-.803.864-1.514.864-.568 0-1.041-.223-1.416-.669-.375-.446-.562-1.025-.562-1.736 0-.763.203-1.381.611-1.853.395-.44.879-.66 1.455-.66.633 0 1.076.213 1.328.64h.02V6.556h1.049v5.607c0 .459.012.882.037 1.27zm-1.086-1.988v-.786a1.194 1.194 0 0 0-.408-.965 1.03 1.03 0 0 0-.701-.257c-.391 0-.697.155-.922.466-.223.311-.336.708-.336 1.193 0 .466.107.844.322 1.135.227.31.533.465.916.465.344 0 .619-.129.828-.388.202-.239.301-.527.301-.863zM97.248 11.037c0 .725-.207 1.319-.621 1.785-.434.479-1.008.718-1.727.718-.691 0-1.242-.229-1.654-.689-.41-.459-.615-1.038-.615-1.736 0-.73.211-1.329.635-1.794.424-.465.994-.698 1.713-.698.691 0 1.248.229 1.668.688.4.446.601 1.022.601 1.726zm-1.086.034c0-.435-.094-.808-.281-1.119-.221-.376-.533-.564-.941-.564-.42 0-.74.188-.961.564-.188.311-.281.69-.281 1.138 0 .435.094.808.281 1.119.227.376.543.564.951.564.4 0 .715-.191.941-.574.193-.317.291-.693.291-1.128zM102.883 13.433h-1.047v-2.7c0-.832-.316-1.248-.951-1.248a.942.942 0 0 0-.756.343 1.212 1.212 0 0 0-.291.808v2.796h-1.049v-3.366c0-.414-.012-.863-.037-1.349h.92l.049.737h.029a1.53 1.53 0 0 1 .543-.569c.285-.176.602-.265.951-.265.439 0 .805.142 1.096.427.363.349.543.87.543 1.562v2.824zM109.936 9.504h-1.154v2.29c0 .582.205.873.611.873.188 0 .344-.016.467-.049l.027.795c-.207.078-.479.117-.814.117-.414 0-.736-.126-.969-.378-.234-.252-.35-.676-.35-1.271V9.504h-.689v-.785h.689v-.864l1.027-.31v1.173h1.154v.786h.001zM115.484 13.433h-1.049v-2.68c0-.845-.316-1.268-.949-1.268-.486 0-.818.245-1 .735a1.317 1.317 0 0 0-.049.377v2.835h-1.047V6.556h1.047v2.841h.02c.33-.517.803-.775 1.416-.775.434 0 .793.142 1.078.427.355.355.533.883.533 1.581v2.803zM121.207 10.853c0 .188-.014.346-.039.475h-3.143c.014.466.164.821.455 1.067.266.22.609.33 1.029.33.465 0 .889-.074 1.271-.223l.164.728c-.447.194-.973.291-1.582.291-.73 0-1.305-.215-1.721-.645-.418-.43-.625-1.007-.625-1.731 0-.711.193-1.303.582-1.775.406-.504.955-.756 1.648-.756.678 0 1.193.252 1.541.756.281.4.42.895.42 1.483zm-1-.271a1.411 1.411 0 0 0-.203-.805c-.182-.291-.459-.437-.834-.437a.995.995 0 0 0-.834.427 1.586 1.586 0 0 0-.311.815h2.182z"></path></g></g></svg></a><a href="https://play.google.com/store/apps/details?id=com.autotrader.android" target="_blank" rel="noopener noreferrer" data-birf-cmp="ggl_ply" data-birf-log="component" data-qaid="googleplay"><svg width="135" height="40" viewBox="0 0 112 34" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><title>Bitmap</title><image x="115" y="724" width="112" height="33.362" xlink:href="data:image/png;base64,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" transform="translate(-115 -724)" fill="none" fill-rule="evenodd"></image></svg></a></div></div><div class="margin-vertical-lg text-sm text-white text-center"><div class="text-center text-sm col-sm-12" data-qaid="txt-visitorAgreement"><span>By using this service, you accept the terms of our��</span><a href="/legal/visitor-agreement.xhtml" data-birf-log="component" data-birf-cmp="vis_agr" data-qaid="lnk-visitor-agreement">Visitor Agreement</a>.<span class="margin-horizontal-sm"><a href="/legal/privacy-statement.xhtml" data-birf-log="component" data-birf-cmp="pvcy_stmt" data-qaid="lnk-privacy-statement">Privacy Statement</a>.</span><span class="third-party evidon"><a id="_bapw-link" data-qaid="lnk-adChoices" target="_blank"><img id="_bapw-icon" width="14" height="18" src="//cdn.betrad.com/pub/icon1.png">��<span>AdChoices</span></a></span><div data-qaid="txt-copyRight">�� 2018 Autotrader, Inc. All Rights Reserved. "Autotrader" is a registered trademark of TPI Holdings, Inc. used under exclusive license.</div><div><div class="collapse"><div id="footer1x1-wrapper" data-role="ad" data-qa-data="{&quot;id&quot;:&quot;footer1x1&quot;,&quot;sizes&quot;:[[1,1]],&quot;position&quot;:&quot;ftrpxl&quot;,&quot;showLabel&quot;:false,&quot;raiseLabel&quot;:false,&quot;labelMargin&quot;:true,&quot;inline&quot;:false}"></div></div></div></div></div></div></div></footer>
+            </div>
         </div>
-
-            </footer>
-
-    <div class="toolbar-min-right-width-hanging"></div>
+    </div>
         </div>
-            <script type="text/javascript" src="//www.autotraderstatic.com/3_181_b8049a3/resources/js/bundle/base.js" crossorigin="anonymous"></script>
-            <script type="text/javascript" src="//www.autotraderstatic.com/3_181_b8049a3/resources/webpack/injectScript.min.js" crossorigin="anonymous"></script>
-        <div id="updateLocation" class="atcui-overlayContent atcui-hidden" data-atcui-location="" data-atcui-role="overlay" data-atcui-lazyload="false" data-atcui-callbacks="" data-atcui-config="{&quot;id&quot;: &quot;updateLocation&quot;,                                 &quot;jsfId&quot;: &quot;j_id_kl-j_id_km-updateLocation&quot;,                                 &quot;classNames&quot;:&quot;overlayUpdateLocation &quot;,                                 &quot;autoOpen&quot;:false,                                 &quot;resizable&quot;:false,                                 &quot;modal&quot;: true,                                 &quot;title&quot;:&quot;Search Area&quot;,                                 &quot;draggable&quot;: false,                                 &quot;url&quot;: &quot;&quot;,                                 &quot;height&quot;:0,                                 &quot;width&quot;:0,                                 &quot;gridWidth&quot;:0,                                 &quot;printable&quot;: false,                                 &quot;closeOnModalClick&quot;: true,                                 &quot;destroyOnClose&quot;: false,                                 &quot;makeResponsiveWidth&quot;: false                             }" data-qaid=""><form id="j_id_kl-j_id_km-updateLocation" name="j_id_kl-j_id_km-updateLocation" method="post" action="/legal/privacy-statement.xhtml" class="atcui-submitOnEnter" enctype="application/x-www-form-urlencoded" onsubmit="atc.component.location.updateZipInFallbackUrl();atc.component.location.update(); return false;">
+            <script type="text/javascript" src="/3_242_de4c267/resources/js/bundle/base.js" crossorigin="anonymous"></script>
+            <script type="text/javascript" src="/3_242_de4c267/resources/webpack/injectScript.min.js" crossorigin="anonymous"></script>
+        <div id="updateLocation" class="atcui-overlayContent atcui-hidden" data-atcui-location="" data-atcui-role="overlay" data-atcui-lazyload="false" data-atcui-callbacks="" data-atcui-config="{&quot;id&quot;: &quot;updateLocation&quot;,                                 &quot;jsfId&quot;: &quot;j_id_4h-j_id_4i-updateLocation&quot;,                                 &quot;classNames&quot;:&quot;overlayUpdateLocation &quot;,                                 &quot;autoOpen&quot;:false,                                 &quot;resizable&quot;:false,                                 &quot;modal&quot;: true,                                 &quot;title&quot;:&quot;Search Area&quot;,                                 &quot;draggable&quot;: false,                                 &quot;url&quot;: &quot;&quot;,                                 &quot;height&quot;:0,                                 &quot;width&quot;:0,                                 &quot;gridWidth&quot;:0,                                 &quot;printable&quot;: false,                                 &quot;closeOnModalClick&quot;: true,                                 &quot;destroyOnClose&quot;: false,                                 &quot;makeResponsiveWidth&quot;: false                             }" data-qaid=""><form id="j_id_4h-j_id_4i-updateLocation" name="j_id_4h-j_id_4i-updateLocation" method="post" action="/legal/privacy-statement.xhtml" class="atcui-submitOnEnter" enctype="application/x-www-form-urlencoded" onsubmit="atc.component.location.updateZipInFallbackUrl();atc.component.location.update(); return false;">
                 <input type="hidden" name="atcNewUrl" value="http://www.autotrader.com/legal/privacy.xhtml?">
-        <div id="j_id_kl-j_id_km-updateLocation-j_id_ky" class="atcui-section atcui-clearfix    " data-qaid=""><span class="rf-msg " id="j_id_kl-j_id_km-updateLocation-j_id_ky-j_id_l1"></span>
+        <div id="j_id_4h-j_id_4i-updateLocation-j_id_4u" class="atcui-section atcui-clearfix    " data-qaid=""><span class="rf-msg " id="j_id_4h-j_id_4i-updateLocation-j_id_4u-j_id_4x"></span>
 
-        <div id="j_id_l2" class="atcui atcui-form-row atcui-clearfix atcui-small atcui-inline  " style=""><label id="j_id_kl-j_id_km-updateLocation-j_id_ky-j_id_l2-atcLocationZipCodeLabel" for="j_id_kl-j_id_km-updateLocation-j_id_ky-j_id_l2-atcLocationZipCode">ZIP Code</label>
+        <div id="j_id_4y" class="atcui atcui-form-row atcui-clearfix atcui-small atcui-inline  " style=""><label id="j_id_4h-j_id_4i-updateLocation-j_id_4u-j_id_4y-atcLocationZipCodeLabel" for="j_id_4h-j_id_4i-updateLocation-j_id_4u-j_id_4y-atcLocationZipCode">ZIP Code</label>
         </div>
         </div>
-        <div id="j_id_kl-j_id_km-updateLocation-j_id_l7" class="atcui-section atcui-clearfix    " data-qaid="">
+        <div id="j_id_4h-j_id_4i-updateLocation-j_id_53" class="atcui-section atcui-clearfix    " data-qaid="">
 
-        <div id="j_id_la" class="atcui atcui-form-row atcui-clearfix atcui-small atcui-inline  " style=""><input id="j_id_kl-j_id_km-updateLocation-j_id_l7-j_id_la-atcLocationZipCode" name="j_id_kl-j_id_km-updateLocation-j_id_l7-j_id_la-atcLocationZipCode" type="tel" value="" maxlength="5" size="5" class="atcui-input update-zipcode">
+        <div id="j_id_56" class="atcui atcui-form-row atcui-clearfix atcui-small atcui-inline  " style=""><input id="j_id_4h-j_id_4i-updateLocation-j_id_53-j_id_56-atcLocationZipCode" name="j_id_4h-j_id_4i-updateLocation-j_id_53-j_id_56-atcLocationZipCode" type="tel" value="" maxlength="5" size="5" class="atcui-input update-zipcode" data-qaid="input-zipCode">
         </div>
         </div>
-        <div id="j_id_kl-j_id_km-updateLocation-j_id_ll" class="atcui-section atcui-clearfix    " data-qaid="">
-        <div id="j_id_lo" class="atcui-button-panel atcui-clearfix atcui-left "><a href="javascript:void(0);" onclick="atc.component.location.updateZipInFallbackUrl();atc.component.location.update()" class="atcui-button atcui-secondary     atcui- atcui-form-submit" data-birf-cmp="chg_loc_mo" data-birf-log="component">Change</a><a href="javascript:void(0);" onclick="atcui.get('updateLocation').close(); return false">Cancel</a>
+        <div id="j_id_4h-j_id_4i-updateLocation-j_id_5h" class="atcui-section atcui-clearfix    " data-qaid="">
+        <div id="j_id_5k" class="atcui-button-panel atcui-clearfix atcui-left "><a href="javascript:void(0);" onclick="atc.component.location.updateZipInFallbackUrl();atc.component.location.update()" class="atcui-button atcui-secondary     atcui- atcui-form-submit" data-birf-cmp="chg_loc_mo" data-birf-log="component" data-qaid="btn-change">Change</a><a href="javascript:void(0);" onclick="atcui.get('updateLocation').close(); return false" data-qaid="lnk-cancel">Cancel</a>
         </div>
         </div>
 
@@ -668,7 +436,7 @@
                             $('input[name$=\'atcNewUrl\']').val(window.location.href.replace(/zip=\d*/, "zip=" + newZip));
                         }
                     })(jQuery, window)
-                </script><span id="j_id_kl-j_id_km-updateLocation-j_id_md" style="display: none;"><script type="text/javascript">atc.component.location.update=function(){RichFaces.ajax("j_id_kl\u002Dj_id_km\u002DupdateLocation\u002Dj_id_md",null,{"incId":"1","begin":"atc.component.location.onBegin();"} )};</script></span><input type="hidden" name="j_id_kl-j_id_km-updateLocation_SUBMIT" value="1"><input type="hidden" name="javax.faces.ViewState" value="GY1M3aZvrN9y2ICuajwwvR3/2jvS02r4Z94OZuleIww2woeh" autocomplete="off"></form>
+                </script><span id="j_id_4h-j_id_4i-updateLocation-j_id_69" style="display: none;"><script type="text/javascript">atc.component.location.update=function(){RichFaces.ajax("j_id_4h\u002Dj_id_4i\u002DupdateLocation\u002Dj_id_69",null,{"incId":"1"} )};</script></span><input type="hidden" name="j_id_4h-j_id_4i-updateLocation_SUBMIT" value="1"><input type="hidden" name="javax.faces.ViewState" value="2eYL1hauMeE47SWOUVr6ePdRJFCxHKAcf/ADBKoBXgcYfr3I" autocomplete="off"></form>
         </div>
             <script type="text/javascript">
                 //<![CDATA[
@@ -685,152 +453,132 @@
                 //]]>
             </script>
 
-        <div id="stockPhotoTip" class="atcui-hidden" data-atcui-role="tooltip" data-atcui-callbacks="" data-atcui-config="{&quot;id&quot;: &quot;stockPhotoTip&quot;,                                 &quot;title&quot;: &quot;Stock Photo&quot;,                                 &quot;overwrite&quot;: true,                                 &quot;width&quot;:300,                                 &quot;gridWidth&quot;:0,                                 &quot;delay&quot;:0,                                 &quot;classNames&quot;: &quot;atcui-toolbar-tooltip atcui-primary &quot;,                                 &quot;tipContent&quot;: &quot;This image is a stock photo and is not an exact representation of any vehicle offered for sale. Advertised vehicles of this model may have styling, trim levels, colors and optional equipment that differ from the stock photo.&quot;,                                 &quot;tipPosition&quot;: &quot;left center&quot;,                                 &quot;targetPosition&quot;: &quot;right center&quot;,                                 &quot;targetSelector&quot;: &quot;&quot;,                                 &quot;smallViewportTargetSelector&quot;: &quot;&quot;,                                 &quot;showTip&quot;: true,                                 &quot;url&quot;: &quot;&quot;,                                 &quot;onClose&quot;: &quot;&quot;,                                 &quot;viewport&quot;: &quot;true&quot;                                }">This image is a stock photo and is not an exact representation of any vehicle offered for sale. Advertised vehicles of this model may have styling, trim levels, colors and optional equipment that differ from the stock photo.
-        </div><form id="j_id_ml-j_id_mm" name="j_id_ml-j_id_mm" method="post" action="/legal/privacy-statement.xhtml" enctype="application/x-www-form-urlencoded">
-        <script type="text/javascript">
-            (function($, window, undefined) {
-                atc.namespace("atcui.component.toolbar");
-            })(jQuery, window);
-        </script><span id="j_id_ml-j_id_mm-j_id_mo" style="display: none;"><script type="text/javascript">atcui.component.toolbar.updateLocation=function(){RichFaces.ajax("j_id_ml\u002Dj_id_mm\u002Dj_id_mo",null,{"incId":"1"} )};</script></span><span id="j_id_ml-j_id_mm-j_id_mp" style="display: none;"><script type="text/javascript">atcui.component.toolbar.removeRecentlyViewedVehicle=function(listingId){RichFaces.ajax("j_id_ml\u002Dj_id_mm\u002Dj_id_mp",null,{"incId":"1","parameters":{"listingId":listingId} } )};</script></span><span id="j_id_ml-j_id_mm-j_id_mr" style="display: none;"><script type="text/javascript">atcui.component.toolbar.updateMyAtc=function(){RichFaces.ajax("j_id_ml\u002Dj_id_mm\u002Dj_id_mr",null,{"incId":"1"} )};</script></span><span id="j_id_ml-j_id_mm-j_id_ms" style="display: none;"><script type="text/javascript">atcui.component.toolbar.addListingToCompareDetailList=function(listingId){RichFaces.ajax("j_id_ml\u002Dj_id_mm\u002Dj_id_ms",null,{"incId":"1","parameters":{"listingId":listingId} } )};</script></span><input type="hidden" name="j_id_ml-j_id_mm_SUBMIT" value="1"><input type="hidden" name="javax.faces.ViewState" value="GY1M3aZvrN9y2ICuajwwvR3/2jvS02r4Z94OZuleIww2woeh" autocomplete="off"></form>
-
-        <div id="atcToolbarWrapper" class="">
-            <div id="atcToolbar" class="atcui-toolbar " data-atcui-role="tabs" data-atcui-callbacks="atc.component.toolbar.tabs" data-atcui-lazyload="false" data-atcui-config="{                                 &quot;id&quot;: &quot;atcToolbar&quot;,                                 &quot;selected&quot;: -1,                                 &quot;expandedTabs&quot;: false,                                 &quot;cache&quot;: false,                                 &quot;spinner&quot;: &quot;&quot;                                  }">
-
-
-    <ul class="button-group">
-    <li class="toolbar-tab-label orange-gradient compare">
-        <a href="/partial/toolbar/compare.xhtml" data-birf-log="component" data-birf-cmp="tb_ct">
-            <label class="atcui-block" data-birf-log="component" data-birf-ref="../">
-               <span class="tab-label-arrow" data-birf-log="component" data-birf-ref="../">
-                   <span class="label-arrows" data-birf-log="component" data-birf-ref="../"></span>
-               </span><span data-birf-log="component" data-birf-ref="../" class="tab-label-text">Compare Tool</span>
-            </label>
-        </a>
-
-        <div id="compareAddAnimation" class="atcui-hidden" data-atcui-role="tooltip" data-atcui-callbacks="" data-atcui-config="{&quot;id&quot;: &quot;compareAddAnimation&quot;,                                 &quot;title&quot;: &quot;&nbsp;&quot;,                                 &quot;overwrite&quot;: true,                                 &quot;width&quot;:300,                                 &quot;gridWidth&quot;:0,                                 &quot;delay&quot;:0,                                 &quot;classNames&quot;: &quot;atcui-tooltip atcui-toolbar-tooltip animation-tooltip atcui-primary &quot;,                                 &quot;tipContent&quot;: &quot;&quot;,                                 &quot;tipPosition&quot;: &quot;right center&quot;,                                 &quot;targetPosition&quot;: &quot;center left&quot;,                                 &quot;targetSelector&quot;: &quot;&quot;,                                 &quot;smallViewportTargetSelector&quot;: &quot;&quot;,                                 &quot;showTip&quot;: true,                                 &quot;url&quot;: &quot;/partial/toolbar/saved-compare-tooltip.xhtml&quot;,                                 &quot;onClose&quot;: &quot;&quot;,                                 &quot;viewport&quot;: &quot;true&quot;                                }">
+        <div id="stockPhotoTip" class="atcui-hidden" data-atcui-role="tooltip" data-atcui-callbacks="" data-atcui-config="{&quot;id&quot;: &quot;stockPhotoTip&quot;,                                 &quot;title&quot;: &quot;Stock Photo&quot;,                                 &quot;overwrite&quot;: true,                                 &quot;width&quot;:300,                                 &quot;gridWidth&quot;:0,                                 &quot;delay&quot;:0,                                 &quot;classNames&quot;: &quot;atcui-toolbar-tooltip atcui-primary &quot;,                                 &quot;tipContent&quot;: &quot;This image is a stock photo and is not an exact representation of any vehicle offered for sale. Advertised vehicles of this model may have styling, trim levels, colors and optional equipment that differ from the stock photo.&quot;,                                 &quot;tipPosition&quot;: &quot;left center&quot;,                                 &quot;targetPosition&quot;: &quot;right center&quot;,                                 &quot;targetSelector&quot;: &quot;&quot;,                                 &quot;smallViewportTargetSelector&quot;: &quot;&quot;,                                 &quot;smallViewportShowModal&quot;: false,                                 &quot;showTip&quot;: true,                                 &quot;url&quot;: &quot;&quot;,                                 &quot;onClose&quot;: &quot;&quot;,                                 &quot;viewport&quot;: &quot;true&quot;                                }">This image is a stock photo and is not an exact representation of any vehicle offered for sale. Advertised vehicles of this model may have styling, trim levels, colors and optional equipment that differ from the stock photo.
         </div>
-    </li>
-    <li class="toolbar-tab-label orange-gradient vehicles">
-        <a href="/partial/toolbar/vehicles.xhtml" data-birf-log="component" data-birf-cmp="tb_vt">
-            <label class="atcui-block" data-birf-log="component" data-birf-ref="../">
-               <span class="tab-label-arrow" data-birf-log="component" data-birf-ref="../">
-                   <span class="label-arrows" data-birf-log="component" data-birf-ref="../"></span>
-               </span><span data-birf-log="component" data-birf-ref="../" class="tab-label-text">Saved<br> Cars</span>
-            </label>
-        </a>
-
-        <div id="saveCarAddAnimation" class="atcui-hidden" data-atcui-role="tooltip" data-atcui-callbacks="" data-atcui-config="{&quot;id&quot;: &quot;saveCarAddAnimation&quot;,                                 &quot;title&quot;: &quot;&nbsp;&quot;,                                 &quot;overwrite&quot;: true,                                 &quot;width&quot;:100,                                 &quot;gridWidth&quot;:0,                                 &quot;delay&quot;:0,                                 &quot;classNames&quot;: &quot;atcui-tooltip atcui-toolbar-tooltip animation-tooltip atcui-primary &quot;,                                 &quot;tipContent&quot;: &quot;&quot;,                                 &quot;tipPosition&quot;: &quot;right center&quot;,                                 &quot;targetPosition&quot;: &quot;center left&quot;,                                 &quot;targetSelector&quot;: &quot;&quot;,                                 &quot;smallViewportTargetSelector&quot;: &quot;&quot;,                                 &quot;showTip&quot;: true,                                 &quot;url&quot;: &quot;/partial/toolbar/saved-cars-tooltip.xhtml&quot;,                                 &quot;onClose&quot;: &quot;&quot;,                                 &quot;viewport&quot;: &quot;true&quot;                                }">
-        </div>
-    </li>
-    <li class="toolbar-tab-label orange-gradient searches">
-        <a href="/partial/toolbar/searches.xhtml" data-birf-log="component" data-birf-cmp="tb_st">
-            <label class="atcui-block" data-birf-log="component" data-birf-ref="../">
-               <span class="tab-label-arrow" data-birf-log="component" data-birf-ref="../">
-                   <span class="label-arrows" data-birf-log="component" data-birf-ref="../"></span>
-               </span><span data-birf-log="component" data-birf-ref="../" class="tab-label-text">Saved Searches</span>
-            </label>
-        </a>
-
-        <div id="saveSearchAddAnimation" class="atcui-hidden" data-atcui-role="tooltip" data-atcui-callbacks="" data-atcui-config="{&quot;id&quot;: &quot;saveSearchAddAnimation&quot;,                                 &quot;title&quot;: &quot;&nbsp;&quot;,                                 &quot;overwrite&quot;: true,                                 &quot;width&quot;:120,                                 &quot;gridWidth&quot;:0,                                 &quot;delay&quot;:0,                                 &quot;classNames&quot;: &quot;atcui-tooltip atcui-toolbar-tooltip animation-tooltip atcui-primary &quot;,                                 &quot;tipContent&quot;: &quot;&quot;,                                 &quot;tipPosition&quot;: &quot;right center&quot;,                                 &quot;targetPosition&quot;: &quot;center left&quot;,                                 &quot;targetSelector&quot;: &quot;&quot;,                                 &quot;smallViewportTargetSelector&quot;: &quot;&quot;,                                 &quot;showTip&quot;: true,                                 &quot;url&quot;: &quot;/partial/toolbar/saved-searches-tooltip.xhtml&quot;,                                 &quot;onClose&quot;: &quot;&quot;,                                 &quot;viewport&quot;: &quot;true&quot;                                }">
-        </div>
-    </li>
-    </ul>
-                <div class="atcui-tab-misc">
-                    <ul class="button-group">
-                        <li class="button alerts darkgrey-gradient ">
-        <span id="j_id_ny" data-qaid="" class="atcui-trigger atcui-icon-link atcui-icon-span " data-atcui-trigger-target="toolbarAlerts" data-atcui-trigger-event="click" data-atcui-trigger-method="open" data-birf-log="" data-birf-cmp="" data-birf-extra="" data-birf-logtype="" data-birf-ref="" data-birf-par="" data-atcbi-thirdparty-click=""><span data-birf-ref="../">Alerts</span>
-        </span>
-        <div id="toolbarAlerts" class="atcui-overlayContent atcui-hidden" data-atcui-location="" data-atcui-role="overlay" data-atcui-lazyload="false" data-atcui-callbacks="atc.myatc.overlay.destroyable" data-atcui-config="{&quot;id&quot;: &quot;toolbarAlerts&quot;,                                 &quot;jsfId&quot;: &quot;j_id_ml-j_id_ns-j_id_o2-toolbarAlerts&quot;,                                 &quot;classNames&quot;:&quot;myatc-topmost-overlay atcui-toolbar-tooltip&quot;,                                 &quot;autoOpen&quot;:false,                                 &quot;resizable&quot;:false,                                 &quot;modal&quot;: true,                                 &quot;title&quot;:&quot; &quot;,                                 &quot;draggable&quot;: false,                                 &quot;url&quot;: &quot;/myautotrader/partial/myatc/authenticate.xhtml?birfComponentPrefix=tb_&amp;actionUrl&amp;action&amp;tooltipComponentId=toolbarAlerts&quot;,                                 &quot;height&quot;:300,                                 &quot;width&quot;:640,                                 &quot;gridWidth&quot;:0,                                 &quot;printable&quot;: false,                                 &quot;closeOnModalClick&quot;: true,                                 &quot;destroyOnClose&quot;: false,                                 &quot;makeResponsiveWidth&quot;: false                             }" data-qaid="">
-
-            <img src="http://www.autotraderstatic.com/3_181_b8049a3/resources/img/atcui/spinner/spinner.gif" class="atcui-spinner authenticated-spinner" alt="" align="" dir="" name="" lang="" onclick="" ondblclick="" onkeydown="" onkeypress="" onkeyup="" onmousedown="" onmousemove="" onmouseout="" onmouseover="" onmouseup="" id="j_id_od" title="" style="" data-atc-lazyload="false" data-original="" data-birf-log="" data-birf-cmp="" data-birf-extra="" data-birf-logtype="" data-birf-ref="" data-birf-par="" data-qaid="">
-        </div>
-            <script type="text/javascript">
-                //<![CDATA[
-                (function(window, undefined){
-                    var elements = document.querySelectorAll('div[id="toolbarAlerts"]');
-                    if (elements.length > 1) {
-                        Array.prototype.forEach.call(elements, function (child, index) {
-                            if (index > 0) {
-                                child.parentNode.removeChild(child);
-                            }
-                        });
-                    }
-                })(window);
-                //]]>
-            </script>
-                        </li>
-                        <li class="button settings darkgrey-gradient">
-        <span id="j_id_q1" data-qaid="" class="atcui-trigger atcui-icon-link atcui-icon-span " data-atcui-trigger-target="toolbarSettings" data-atcui-trigger-event="click" data-atcui-trigger-method="open" data-birf-log="" data-birf-cmp="" data-birf-extra="" data-birf-logtype="" data-birf-ref="" data-birf-par="" data-atcbi-thirdparty-click="">Settings
-        </span>
-
-        <div id="toolbarSettings" class="atcui-hidden" data-atcui-role="tooltip" data-atcui-callbacks="" data-atcui-config="{&quot;id&quot;: &quot;toolbarSettings&quot;,                                 &quot;title&quot;: &quot;Settings&quot;,                                 &quot;overwrite&quot;: false,                                 &quot;width&quot;:300,                                 &quot;gridWidth&quot;:0,                                 &quot;delay&quot;:0,                                 &quot;classNames&quot;: &quot;atcui-toolbar-tooltip atcui-primary &quot;,                                 &quot;tipContent&quot;: &quot;&quot;,                                 &quot;tipPosition&quot;: &quot;right bottom&quot;,                                 &quot;targetPosition&quot;: &quot;center left&quot;,                                 &quot;targetSelector&quot;: &quot;&quot;,                                 &quot;smallViewportTargetSelector&quot;: &quot;&quot;,                                 &quot;showTip&quot;: true,                                 &quot;url&quot;: &quot;&quot;,                                 &quot;onClose&quot;: &quot;&quot;,                                 &quot;viewport&quot;: &quot;true&quot;                                }"><form id="j_id_ml-j_id_q6-j_id_q9" name="j_id_ml-j_id_q6-j_id_q9" method="post" action="/legal/privacy-statement.xhtml" enctype="application/x-www-form-urlencoded">
-        <ul id="j_id_ml-j_id_q6-j_id_q9-j_id_qa" class="atcui-list             atcui-bare                                       " data-qaid="0">
-        <li class="atcui-list-item " data-qaid=""><a href="#" id="j_id_ml-j_id_q6-j_id_q9-j_id_qa-j_id_qc-j_id_qf" name="j_id_ml-j_id_q6-j_id_q9-j_id_qa-j_id_qc-j_id_qf" onclick="RichFaces.ajax(&quot;j_id_ml\u002Dj_id_q6\u002Dj_id_q9\u002Dj_id_qa\u002Dj_id_qc\u002Dj_id_qf&quot;,event,{&quot;incId&quot;:&quot;1&quot;,&quot;begin&quot;:&quot;atc.publish('toolbar.updatingSettings');&quot;} );return false;">Show hidden cars</a>
-        </li>
-        <li class="atcui-list-item " data-qaid=""><a href="#" id="j_id_ml-j_id_q6-j_id_q9-j_id_qa-j_id_qh-j_id_qk" name="j_id_ml-j_id_q6-j_id_q9-j_id_qa-j_id_qh-j_id_qk" onclick="RichFaces.ajax(&quot;j_id_ml\u002Dj_id_q6\u002Dj_id_q9\u002Dj_id_qa\u002Dj_id_qh\u002Dj_id_qk&quot;,event,{&quot;incId&quot;:&quot;1&quot;,&quot;begin&quot;:&quot;atc.publish('toolbar.updatingSettings');&quot;} );return false;">Clear my recent cars &amp; searches</a>
-        </li>
-        <li class="atcui-list-item " data-qaid=""><a href="#" id="j_id_ml-j_id_q6-j_id_q9-j_id_qa-j_id_qm-j_id_qp" name="j_id_ml-j_id_q6-j_id_q9-j_id_qa-j_id_qm-j_id_qp" onclick="RichFaces.ajax(&quot;j_id_ml\u002Dj_id_q6\u002Dj_id_q9\u002Dj_id_qa\u002Dj_id_qm\u002Dj_id_qp&quot;,event,{&quot;incId&quot;:&quot;1&quot;,&quot;begin&quot;:&quot;atc.publish('toolbar.updatingSettings');&quot;} );return false;">Clear all comparisons</a>
-        </li>
-        <li class="atcui-list-item " data-qaid=""><a href="#" id="j_id_ml-j_id_q6-j_id_q9-j_id_qa-j_id_qr-j_id_qu" name="j_id_ml-j_id_q6-j_id_q9-j_id_qa-j_id_qr-j_id_qu" onclick="RichFaces.ajax(&quot;j_id_ml\u002Dj_id_q6\u002Dj_id_q9\u002Dj_id_qa\u002Dj_id_qr\u002Dj_id_qu&quot;,event,{&quot;incId&quot;:&quot;1&quot;,&quot;begin&quot;:&quot;atc.publish('toolbar.updatingSettings');&quot;} );return false;">Don't track my recent cars &amp; searches</a>
-        </li>
-        </ul><input type="hidden" name="j_id_ml-j_id_q6-j_id_q9_SUBMIT" value="1"><input type="hidden" name="javax.faces.ViewState" value="GY1M3aZvrN9y2ICuajwwvR3/2jvS02r4Z94OZuleIww2woeh" autocomplete="off"></form>
-        </div>
-                        </li>
-                    </ul>
-                </div><a href="#" id="j_id_ml-toolBarClose" name="j_id_ml-toolBarClose" class="atcToolbarClose">Close<span class="atcui-icon atcui-close  ">&nbsp;</span></a>
-            </div>
-        </div>
-
-        <script type="text/javascript">
-            //<![CDATA[
-            (function($, window, undefined) {
-                $(function() {
-                    var toolbarComponent =  atc.create(atc.component.toolbar).init();
-                    var firstRecentSearch = 'false';
-
-                    if (toolbarComponent.isPage('searchresults') && firstRecentSearch == 'true' ){
-                        atc.publish("toolbar.srpFirstVisit");
-                    }
-
-                    var recentVehicleList = parseInt();
-                    if (toolbarComponent.isPage('vehicledetails') && recentVehicleList >= 1){
-                        atc.publish("toolbar.vdpFirstVisit");
-                    }
-                });
-            })(jQuery, window);
-            //]]>
-        </script>
-
-    <script type="text/javascript">
-        (function($, window, undefined){
-            atc.namespace("atc.compare.ajax");
-            atc.namespace("atc.myatc.ajax");
-        })(jQuery, window);
-    </script><form id="j_id_rb" name="j_id_rb" method="post" action="/legal/privacy-statement.xhtml" enctype="application/x-www-form-urlencoded"><span id="j_id_rb-j_id_rc" style="display: none;"><script type="text/javascript">atc.compare.ajax.addListing=function(listingId){RichFaces.ajax("j_id_rb\u002Dj_id_rc",null,{"incId":"1","parameters":{"listingId":listingId} } )};</script></span><input type="hidden" name="j_id_rb_SUBMIT" value="1"><input type="hidden" name="javax.faces.ViewState" value="GY1M3aZvrN9y2ICuajwwvR3/2jvS02r4Z94OZuleIww2woeh" autocomplete="off"></form><form id="j_id_re" name="j_id_re" method="post" action="/legal/privacy-statement.xhtml" enctype="application/x-www-form-urlencoded"><span id="j_id_re-j_id_rf" style="display: none;"><script type="text/javascript">atc.compare.ajax.removeListing=function(listingId){RichFaces.ajax("j_id_re\u002Dj_id_rf",null,{"incId":"1","parameters":{"listingId":listingId} } )};</script></span><input type="hidden" name="j_id_re_SUBMIT" value="1"><input type="hidden" name="javax.faces.ViewState" value="GY1M3aZvrN9y2ICuajwwvR3/2jvS02r4Z94OZuleIww2woeh" autocomplete="off"></form><form id="j_id_rh" name="j_id_rh" method="post" action="/legal/privacy-statement.xhtml" enctype="application/x-www-form-urlencoded"><span id="j_id_rh-j_id_ri" style="display: none;"><script type="text/javascript">atc.compare.ajax.refreshListings=function(){RichFaces.ajax("j_id_rh\u002Dj_id_ri",null,{"incId":"1"} )};</script></span><input type="hidden" name="j_id_rh_SUBMIT" value="1"><input type="hidden" name="javax.faces.ViewState" value="GY1M3aZvrN9y2ICuajwwvR3/2jvS02r4Z94OZuleIww2woeh" autocomplete="off"></form><form id="j_id_rj" name="j_id_rj" method="post" action="/legal/privacy-statement.xhtml" enctype="application/x-www-form-urlencoded"><span id="j_id_rj-j_id_rk" style="display: none;"><script type="text/javascript">atc.myatc.ajax.refreshListings=function(){RichFaces.ajax("j_id_rj\u002Dj_id_rk",null,{"incId":"1"} )};</script></span><input type="hidden" name="j_id_rj_SUBMIT" value="1"><input type="hidden" name="javax.faces.ViewState" value="GY1M3aZvrN9y2ICuajwwvR3/2jvS02r4Z94OZuleIww2woeh" autocomplete="off"></form>
 
     <script type="text/javascript">
         (function($, window, undefined){
            atc.namespace("atc.myatc.ajax");
         })(jQuery, window);
-    </script><form id="j_id_rm" name="j_id_rm" method="post" action="/legal/privacy-statement.xhtml" enctype="application/x-www-form-urlencoded"><span id="j_id_rm-j_id_rn" style="display: none;"><script type="text/javascript">atc.myatc.ajax.removeListing=function(listingId){RichFaces.ajax("j_id_rm\u002Dj_id_rn",null,{"incId":"1","parameters":{"listingId":listingId} } )};</script></span><span id="j_id_rm-j_id_rp" style="display: none;"><script type="text/javascript">atc.myatc.ajax.removeCompareListing=function(listingId){RichFaces.ajax("j_id_rm\u002Dj_id_rp",null,{"incId":"1","parameters":{"listingId":listingId} } )};</script></span><span id="j_id_rm-j_id_rr" style="display: none;"><script type="text/javascript">atc.myatc.ajax.removeSearch=function(bookmarkId){RichFaces.ajax("j_id_rm\u002Dj_id_rr",null,{"incId":"1","parameters":{"bookmarkId":bookmarkId} } )};</script></span><span id="j_id_rm-j_id_rt" style="display: none;"><script type="text/javascript">atc.myatc.ajax.clearRecentlyViewed=function(){RichFaces.ajax("j_id_rm\u002Dj_id_rt",null,{"incId":"1"} )};</script></span><span id="j_id_rm-j_id_ru" style="display: none;"><script type="text/javascript">atc.myatc.ajax.myatcLogout=function(){RichFaces.ajax("j_id_rm\u002Dj_id_ru",null,{"incId":"1"} )};</script></span><input type="hidden" name="j_id_rm_SUBMIT" value="1"><input type="hidden" name="javax.faces.ViewState" value="GY1M3aZvrN9y2ICuajwwvR3/2jvS02r4Z94OZuleIww2woeh" autocomplete="off"></form>
-    
+    </script><form id="j_id_6i" name="j_id_6i" method="post" action="/legal/privacy-statement.xhtml" enctype="application/x-www-form-urlencoded"><span id="j_id_6i-j_id_6j" style="display: none;"><script type="text/javascript">atc.myatc.ajax.removeListing=function(listingId){RichFaces.ajax("j_id_6i\u002Dj_id_6j",null,{"incId":"1","parameters":{"listingId":listingId} } )};</script></span><span id="j_id_6i-j_id_6l" style="display: none;"><script type="text/javascript">atc.myatc.ajax.removeCompareListing=function(listingId){RichFaces.ajax("j_id_6i\u002Dj_id_6l",null,{"incId":"1","parameters":{"listingId":listingId} } )};</script></span><span id="j_id_6i-j_id_6n" style="display: none;"><script type="text/javascript">atc.myatc.ajax.removeSearch=function(bookmarkId){RichFaces.ajax("j_id_6i\u002Dj_id_6n",null,{"incId":"1","parameters":{"bookmarkId":bookmarkId} } )};</script></span><span id="j_id_6i-j_id_6p" style="display: none;"><script type="text/javascript">atc.myatc.ajax.myatcLogout=function(){RichFaces.ajax("j_id_6i\u002Dj_id_6p",null,{"incId":"1"} )};</script></span><input type="hidden" name="j_id_6i_SUBMIT" value="1"><input type="hidden" name="javax.faces.ViewState" value="2eYL1hauMeE47SWOUVr6ePdRJFCxHKAcf/ADBKoBXgcYfr3I" autocomplete="off"></form>
+
             <script type="text/javascript">
                 //Global for disabling third party content
                 atc.renderThirdPartyContent = true;
                 // Global Environment Information
-                atc.environment = {"browser":{"group":"Robot/Spider","manufacturer":"Other","type":"Robot","renderingEngine":"OTHER"},"operatingSystem":{"group":"Unknown","manufacturer":"Other","deviceType":"Unknown","mobileDevice":false}};
-            </script><span id="windowTitle"><span class="windowTitle_title">Privacy Statement - Autotrader</span>
+                atc.environment = {"browser":{"group":"Chrome","manufacturer":"Google Inc.","type":"Browser","renderingEngine":"WEBKIT"},"operatingSystem":{"group":"Windows","manufacturer":"Microsoft Corporation","deviceType":"Computer","mobileDevice":false}};
+            </script>
+            <script type="text/javascript" src="/3_242_de4c267/resources/webpack/legacySupport.min.js" crossorigin="anonymous"></script><span id="windowTitle"><span class="windowTitle_title">Privacy Statement - Autotrader</span>
                 <script type="text/javascript">
                     document.title = $(".windowTitle_title").text();
-                </script></span><span class="rf-msgs " id="j_id_rz" style="display:none;"></span>
+                </script></span><span class="rf-msgs " id="j_id_71" style="display:none;"></span>
         <script type="text/javascript">
-            BIRF.extend(BIRF.data, {"configuration":{"xlink":"xtag.kbb.com"},"page":{"site":{"environment":"prod","site":"autotrader.com","siteVersion":"3.181.b8049a3","superSection":"","section":"","pageName":"Privacy Statement","detailedPageName":"Privacy Statement","atcCookie":"207.241.229.68.1482985467502485","myAtcId":"0","myAtc":"false","requestedPage":"http://www.autotrader.com/legal/privacy.xhtml","referringPage":"http://www.autotrader.com/privacy.jsp","search_lang":"en_US","deviceType":"desktop","sessionId":"eYBh72Lmu9WlNKYPcQ1YA7XK","ip":"10.224.136.36","camg_reqid":"D26A94E09667D368F7ADCED5A7223B84","camg_tranid":"WGSYTgrgiCQAAGhHScsAAAAO"},"location":{"address":"","ipZipCode":"","dma":"","distance":""},"vehicle":{"body_code":[],"car_year":"","car_id":"","fuel":"","make":[],"model":[],"trim":[],"price":"","search_max_price":"","search_max_year":"","search_min_price":"","search_min_year":"","search_type":[],"Car_Type":"","search_distance":"","color":[]},"owner":{"dealer_id":"","seller_type":""},"demographic":{"hispanic":"false"},"BIRF":{"test_name":"p2v~ctrl!Spdy1~cntl!seoDMA~dmaCntrl","test_nme":"p2v~ctrl!Spdy1~cntl!seoDMA~dmaCntrl","disableImpressions":"false","browserPrefetch":"false","logDomain":"http://www.autotrader.com","pg_inst":"191761442068858338","rd_page":"","pg":"ps","lnx":"TIMATCHPLGOTESTGROUPG","cid":"","my":"","ref_url":"http://www.autotrader.com/privacy.jsp","my_lt":"","my_id":"","Log":""},"doubleclick":{"sptlght":{"SRC":"3003809","Type":"fycdi558","CAT_SF":"searc299","CAT_SRP":"srpbh529","CAT_VDP":"vdpzz092","ORD":"3118033082"},"fldlght":{"SRC":"3135983","Type":"autot826","CAT_SF":"findy641","CAT_SRP":"searc192","CAT_VDP":"vehic678","ORD":"9433351576"}},"comscore":{"c1":"2","c2":"6035944","c3":"","c4":"","c5":"","c6":"","c15":""}}});
+            BIRF.extend(BIRF.data, {
+  "page": {
+    "site": {
+      "environment": "prod",
+      "site": "autotrader.com",
+      "siteVersion": "3.242.de4c267",
+      "superSection": "",
+      "section": "",
+      "pageName": "Privacy Statement",
+      "detailedPageName": "Privacy Statement",
+      "atcCookie": "69.195.139.10.1525889624209896",
+      "myAtcId": "0",
+      "myAtc": "false",
+      "requestedPage": "http://www.autotrader.com/legal/privacy.xhtml",
+      "referringPage": "",
+      "search_lang": "en_US",
+      "deviceType": "desktop",
+      "sessionId": "hgRarPZ6q6ex-O-V2NmvIbj2N-tJ7q4PMZvjrXgV",
+      "ip": "172.17.0.2",
+      "camg_reqid": "F81A8939F2414E77F8D05E2E415E3CE8",
+      "camg_tranid": "WvM6W6wRAAIAAEzHdDwAAAAQ"
+    },
+    "location": {
+      "address": "",
+      "ipZipCode": "",
+      "dma": "",
+      "distance": ""
+    },
+    "vehicle": {
+      "body_code": [],
+      "car_year": "",
+      "car_id": "",
+      "fuel": "",
+      "make": [],
+      "model": [],
+      "trim": [],
+      "price": "",
+      "search_max_price": "",
+      "search_max_year": "",
+      "search_min_price": "",
+      "search_min_year": "",
+      "search_type": [],
+      "Car_Type": "",
+      "search_distance": "",
+      "color": [],
+      "chromeStyleId": ""
+    },
+    "owner": {
+      "dealer_id": "",
+      "seller_type": ""
+    },
+    "demographic": {
+      "hispanic": "false"
+    },
+    "BIRF": {
+      "test_name": "cloudrollout~aws!PIXALL_OFF~OFF_PIXALL!atcEXP~acc!csFF~cntl!rSRPVDP~ctrl!rmGMBD~grpA",
+      "test_nme": "cloudrollout~aws!PIXALL_OFF~OFF_PIXALL!atcEXP~acc!csFF~cntl!rSRPVDP~ctrl!rmGMBD~grpA",
+      "disableImpressions": "false",
+      "browserPrefetch": "false",
+      "logDomain": "https://www.autotrader.com",
+      "pg_inst": "998912294742627804",
+      "rd_page": "",
+      "pg": "ps",
+      "lnx": "",
+      "cid": "",
+      "my": "",
+      "ref_url": "",
+      "my_lt": "",
+      "my_id": "",
+      "Log": ""
+    },
+    "doubleclick": {
+      "sptlght": {
+        "SRC": "3003809",
+        "Type": "fycdi558",
+        "CAT_SF": "searc299",
+        "CAT_SRP": "srpbh529",
+        "CAT_VDP": "vdpzz092",
+        "ORD": "3532738024"
+      },
+      "fldlght": {
+        "SRC": "3135983",
+        "Type": "autot826",
+        "CAT_SF": "findy641",
+        "CAT_SRP": "searc192",
+        "CAT_VDP": "vehic678",
+        "ORD": "0863552403"
+      }
+    },
+    "comscore": {
+      "c1": "2",
+      "c2": "6035944",
+      "c3": "",
+      "c4": "",
+      "c5": "",
+      "c6": "",
+      "c15": ""
+    }
+  }
+});
             if (false) {
                 atc.namespace('BIRF.data.page.BIRF');
                 BIRF.data.page.BIRF.disablePageTag = 'true';
             }
         </script>
-            <script type="text/javascript" src="//www.autotraderstatic.com/3_181_b8049a3/resources/js/bundle/opinionLabV5.js" crossorigin="anonymous"></script>
+            <script type="text/javascript" src="/3_242_de4c267/resources/js/bundle/opinionLabV5.js" crossorigin="anonymous"></script>
     
     <script type="text/javascript">
         //<![CDATA[
@@ -841,7 +589,7 @@
                     var adtype = BIRF.data.page.doubleclick.ad.Type;
                     var adcat = BIRF.data.page.doubleclick.ad.CAT;
     
-                    $("body").append($('<iframe src="http://ad.doubleclick.net/activity;src='+adsrc+';type='+adtype+';cat='+adcat+';ord=1?" width="1" height="1" frameborder="0"></iframe>'));
+                    $("body").append($('<iframe src="//ad.doubleclick.net/activity;src='+adsrc+';type='+adtype+';cat='+adcat+';ord=1?" width="1" height="1" frameborder="0"></iframe>'));
                 }
             }catch(err){/*catalog*/}
         })(jQuery, window);
@@ -866,7 +614,7 @@
                 })(jQuery, window);
             </script>
         <noscript>
-            <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6035944&amp;cv=2.0&amp;cj=1" />
+            <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=6035944&amp;cv=2.0&amp;cj=1" alt="" />
         </noscript>
 
             <script type="text/javascript">
@@ -898,26 +646,12 @@
             </script>
 
         <noscript>
-            <img width="1" height="1" src="http://dms.netmng.com/si/CM/Tracking/ClickTracking.aspx?siclientid=5067&amp;jscript=0" />
-        </noscript>
-
-            <script type="text/javascript">
-                (function($, window, undefined) {
-                    atc.thirdparty.loadScript({
-                        src: "cc2.dealer.com/off-platform/pix-at.min.js",
-                        secureSrc: "",
-                        selection: {
-                            selector: "",
-                            event: "click"
-                        },
-                        bustCache:false
-                    })
-                })(jQuery, window);
-            </script><span id="j_id_tm">
+            <img width="1" height="1" alt="" src="https://dms.netmng.com/si/CM/Tracking/ClickTracking.aspx?siclientid=5067&amp;jscript=0" />
+        </noscript><span id="j_id_8n">
 
         <div id="pageLevelTargeting">
             <script type="text/javascript">
-                atc.ads.setPageLevelTargeting({"tprice":"nl","mke":"none","pginst":"191761442068858338","cert":"n","yrange":"nl","type":"nl","styr":"nl","pkgtyp":"nl","bstyl":"none","fprice":"nl","reg":"LOSANGELES4A","cat":"nl","azne":"LOS_ANGELES_SO","zip":"90001","st":"CA","lng":"en","list":"nl","ownid":"nl","mdl":"none","series":"none","dma":"LOS_ANGELES","betagrp":"p2v|ctrl,Spdy1|cntl,seoDMA|dmaCntrl","ptnr":"TIMAT","eyr":"nl"});
+                atc.ads.setPageLevelTargeting({"tprice":"nl","mke":"none","pginst":"998912294742627804","cert":"n","yrange":"nl","type":"nl","styr":"nl","pkgtyp":"nl","bstyl":"none","fprice":"nl","btc":"nl","reg":"KANSASCITY2","cat":"nl","azne":"nl","zip":"64101","st":"MO","anml":"nl","lng":"en","list":"nl","ownid":"nl","mdl":"none","series":"none","dma":"KANSAS_CITY","betagrp":"PIXALL_OFF|OFF_PIXALL,atcEXP|acc,csFF|cntl,rSRPVDP|ctrl,rmGMBD|grpA","ptnr":"atc","eyr":"nl"}, true);
             </script>
         </div></span>
                     <script type="text/javascript">
@@ -927,8 +661,8 @@
                         }
                         //]]>
                     </script><script type="text/javascript">$(document).ready(function() {
-new RichFaces.ui.Message("j_id_kl\u002Dj_id_km\u002DupdateLocation\u002Dj_id_ky\u002Dj_id_l1",{"forComponentId":"j_id_kl\u002Dj_id_km\u002DupdateLocation\u002Dj_id_l7\u002Dj_id_la\u002DatcLocationZipCode","showSummary":false,"showDetail":true} )
-new RichFaces.ui.Message("j_id_rz",{"isMessages":true} )
+new RichFaces.ui.Message("j_id_4h\u002Dj_id_4i\u002DupdateLocation\u002Dj_id_4u\u002Dj_id_4x",{"forComponentId":"j_id_4h\u002Dj_id_4i\u002DupdateLocation\u002Dj_id_53\u002Dj_id_56\u002DatcLocationZipCode","showSummary":false,"showDetail":true} )
+new RichFaces.ui.Message("j_id_71",{"isMessages":true} )
 });
 </script>
 </body></html>
