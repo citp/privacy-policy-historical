@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldofclicks.com privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704200247id_/http%3A//worldofclicks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldofclicks.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509194637id_/http%3A//worldofclicks.com/privacy.html) for the most accurate reproduction.*
 
 # Worldofclicks.com
 
