@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talkingdotnet.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108031725id_/http%3A//www.talkingdotnet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkingdotnet.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509041042id_/http%3A//www.talkingdotnet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ This is a personal blog. All the contents of the blog are my own. The content do
 
 The idea is to spread the knowledge. The content of this blog is not intended to cause harm, but if You have any concerns about the contents of this blog, please contact me via e-mail. Disagreeing with the content of the blog does not constitute sufficient ground for you to ask to remove or modify any parts of this blog.
 
-If you own rights to any of the images or articles, and do not wish them to appear on this site, please contact me via e-mail([[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#83e0ecedf7e2e0f7c3f7e2efe8eaede4e7ecf7ede6f7ade0ecee)).
+If you own rights to any of the images or articles, and do not wish them to appear on this site, please contact me via e-mail([contact@talkingdotnet.com](mailto:contact@talkingdotnet.com)).
 
 We give utmost priority to our visitors. Your privacy is very important to us. To better protect your privacy we are providing this notice explaining our online information practices so that you can make a better choice while providing your information.
 
@@ -58,3 +58,5 @@ Users may find advertising or other content on our Site that link to the sites a
 TalkingDotnet has the discretion to update this privacy policy at any time. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 This document was last updated on August 09, 2016
+
+**PS:** If you found this content valuable and want to return the favour, then [](https://www.buymeacoffee.com/talkingdotnet)
