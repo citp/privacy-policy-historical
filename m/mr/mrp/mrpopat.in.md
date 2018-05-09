@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrpopat.in privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105190510id_/http%3A//mrpopat.in/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrpopat.in privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509092628id_/http%3A//mrpopat.in/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Ploicy - MrPopat | Privacy Ploicy Document of MrPopat | Privacy Ploicy Doc of MrPopat | Read Privacy Ploicy Document of MrPopat | Safe Browsing | Safe Yourself
 
