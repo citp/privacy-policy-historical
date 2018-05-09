@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobiles-prices.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107170306id_/http%3A//mobiles-prices.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiles-prices.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509123542id_/http%3A//mobiles-prices.com/privacy.php) for the most accurate reproduction.*
 
 # www.mobiles-prices.com : Privacy Notice
 
