@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laconi.ca privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214172723id_/http%3A//laconi.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laconi.ca privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509200101id_/http%3A//laconi.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Laconi
 
