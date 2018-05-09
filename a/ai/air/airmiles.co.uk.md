@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airmiles.co.uk privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105195633id_/http%3A//www.avios.com/gb/en_gb/about-us/privacy%3Ffrom%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airmiles.co.uk privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509164615id_/http%3A//www.avios.com/gb/en_gb/about-us/privacy%3Ffrom%3Dfooter) for the most accurate reproduction.*
 
 # Read the Avios personal data & privacy policy | Avios
 
