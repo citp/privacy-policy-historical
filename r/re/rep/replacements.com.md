@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the replacements.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107220148id_/https%3A//www.replacements.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the replacements.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509174258id_/https%3A//www.replacements.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Replacements, Ltd.
 
@@ -12,8 +12,7 @@ When you place an order with us, or register for products or services, Replaceme
 
 When you order, we request the following information: name, address, daytime phone number, and e-mail address if you prefer to correspond with us via e-mail. When you submit an order, this information is recorded, along with the IP (Internet Protocol) address of the computer used to place the order. In the event that a credit card is used as payment, the credit card number and expiration date are recorded. This information is utilized to authorize the purchase. The contact information you provide is used to ship the order and/or to contact the purchaser in the event there is a question about the order. If you need to update or correct this information, please contact our Internet Services Department via one of the following:
 
-  * E-mail: [inquire@replacements.com](mailto:inquire@replacements.com)
-  * Reply to any e-mail that you receive from Replacements, Ltd.
+  * Email us via our [Contact Us](https://web.archive.org/contact-us.htm) page Regarding General Information
   * Call 1-800-737-5223 ext:2600
 
 
@@ -24,8 +23,7 @@ The information used to process your order is transferred to Replacements, Ltd. 
 
 When you register for product information with us, we request the following information: name, address, and e-mail address if you prefer to correspond with us via e-mail. When a registration for product information is submitted, this information is recorded, along with the IP (Internet Protocol) address of the computer used to place the registration. The contact information you provide is used to send the product information updates (patterns and piece availability updates) that you request. If you need to update or correct this information, please contact our Internet Services Department via one of the following:
 
-  * E-mail: [inquire@replacements.com](mailto:inquire@replacements.com)
-  * Reply to any e-mail that you receive from Replacements, Ltd.
+  * Email us via our [Contact Us](https://web.archive.org/contact-us.htm) page Regarding General Information
   * Call 1-800-737-5223 ext:2600
 
 
