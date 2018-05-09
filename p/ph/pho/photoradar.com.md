@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the photoradar.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222074504id_/http%3A//www.futureplc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoradar.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509181945id_/http%3A//www.futureplc.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Future PLC
+# Privacy Policy – Future
 
   1. **Introduction** : This policy covers the processing of personal data by Future plc and its associated UK group companies ( **“Future”** , **“we”** or **“us”** ) whose registered address is at Quay House, The Ambury, Bath, BA1 1UA. Future is committed to protecting the privacy of your personal information whilst striving to provide the very best user experience. We want our websites to be safe and enjoyable for everyone. Under the Data Protection Act 1998 and related laws, we have a legal duty to protect the personal information we collect from you.If you have any concerns, questions or comments about this privacy policy or the website you can contact us using the contact details in paragraph 10 of this policy.
   2. **The types of personal information we collect and how we collect it:** **Information you provide upon registration** : in order to make use of certain services provided through the website such as the forums and email newsletters, you will either need to: (a) register an account with us. When you do so, you will provide us with information about yourself and you will be able to select how we use your information for marketing purposes; (b) log in using a social media account of your choice. When you do so, we will be provided with certain information about you from the social media site, as specified when you log in. You will be able to select how we use your information for marketing purposes. You can update your marketing preferences at any time by following the instructions to amend your details in the account registration section. We will only use your information in accordance with your instructions and as set out in this privacy policy. 
@@ -41,6 +41,6 @@ By providing us with your personal information, you consent to us: (a) processin
 
 
 
-**[Italian Privacy Policy](http://dg876rejmw3ebkm51boa0sx2.wpengine.netdna-cdn.com/wp-content/uploads/sites/194/2014/10/Privacy-Policy-Translations-Italy.pdf)**
+**[Italian Privacy Policy](http://futureplc.com/wp-content/uploads/sites/194/2014/10/Privacy-Policy-Translations-Italy.pdf)**
 
-**[German Privacy Policy](http://dg876rejmw3ebkm51boa0sx2.wpengine.netdna-cdn.com/wp-content/uploads/sites/194/2014/10/PrivacyPolicy_04-14_de-DE-_1_Germany.pdf)**
+**[German Privacy Policy](http://futureplc.com/wp-content/uploads/sites/194/2014/10/PrivacyPolicy_04-14_de-DE-_1_Germany.pdf)**
