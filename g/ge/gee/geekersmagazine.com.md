@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the geekersmagazine.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107232858id_/http%3A//www.geekersmagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekersmagazine.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509102218id_/http%3A//www.geekersmagazine.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | GEEKERS Magazine
+# Privacy Policy
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy Policy](mailto:).
 
@@ -51,4 +51,4 @@ By using our website, you hereby consent to our privacy policy and agree to its 
 
 **Update**  
 This Privacy Policy was last updated on: Friday, September 1st, 2017.  
- _Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
+_Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
