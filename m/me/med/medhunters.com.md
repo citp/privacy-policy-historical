@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medhunters.com privacy policy that was archived on 2017-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170723025706id_/http%3A//careerbrochure.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medhunters.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509071800id_/http%3A//careerbrochure.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
