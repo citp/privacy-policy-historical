@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ortholite.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108053947id_/http%3A//www.ortholite.com/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ortholite.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509083827id_/http%3A//www.ortholite.com/about/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - OrthoLite - High Performance Comfort Insoles - Open-Cell Foam Technology - Footwear Brands
 
