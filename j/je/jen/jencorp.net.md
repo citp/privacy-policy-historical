@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jencorp.net privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215080629id_/http%3A//www.jencorp.net/en/etc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jencorp.net privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509213427id_/http%3A//www.jencorp.net/en/etc/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Auction & Search | JEN
+# Privacy Policy｜Auction & Search | JEN
 
 JEN CORP. seriously takes the privacy of those who use JEN Network (called "users" below), obeys the laws concerning the protection of personal information, and pays the closest attention to the management of JEN's users' personal information.
 
