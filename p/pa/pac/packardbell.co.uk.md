@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the packardbell.co.uk privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107223428id_/https%3A//www.acer-group.com/ag/en/TW/content/privacy-english) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the packardbell.co.uk privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509175538id_/https%3A//www.acer-group.com/ag/en/TW/content/privacy-english) for the most accurate reproduction.*
 
 # English
 
