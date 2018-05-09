@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easydrawingtutorials.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108024820id_/http%3A//www.easydrawingtutorials.com/index.php/component/content/article/98-misc/159-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easydrawingtutorials.com privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510005418id_/http%3A//www.easydrawingtutorials.com/index.php/component/content/article/98-misc/159-privacy-policy) for the most accurate reproduction.*
 
 # EasyDrawingTutorials
 
