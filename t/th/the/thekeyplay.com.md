@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thekeyplay.com privacy policy that was archived on 2017-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171106151309id_/http%3A//www.thekeyplay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thekeyplay.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509053201id_/http%3A//www.thekeyplay.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Key Play
 
@@ -37,6 +37,8 @@ We adopt appropriate data collection, storage and processing practices and secur
 
 We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
+Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
+
 **Third party websites**
 
 Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
@@ -61,4 +63,4 @@ Orange and Maroon Media, LLC
 3057 Nutley St #633  
 Fairfax, Virginia 22031
 
-This document was last updated on January 11, 2014
+This document was last updated on April 1, 2018
