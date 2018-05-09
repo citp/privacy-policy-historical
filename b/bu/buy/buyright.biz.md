@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyright.biz privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105164711id_/http%3A//www.buyright.biz/index.php%3Fmodule%3Dcontent%26event%3Dview%26id%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyright.biz privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509050326id_/http%3A//www.buyright.biz/index.php%3Fmodule%3Dcontent%26event%3Dview%26id%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
