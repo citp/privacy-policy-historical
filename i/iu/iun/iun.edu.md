@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iun.edu privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107103457id_/http%3A//www.iun.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iun.edu privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510002540id_/http%3A//www.iun.edu/privacy.html) for the most accurate reproduction.*
 
 # Indiana University - Northwest Online Privacy Statementt
 
