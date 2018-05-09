@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ninjajournalist.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204151635id_/http%3A//www.ninjajournalist.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ninjajournalist.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509211022id_/http%3A//ninjajournalist.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | NinjaJournalist
 
@@ -7,7 +7,8 @@ Last updated: September, 2017
 Ninjajournalist (“us”, “we”, or “our”) operates the http://www.ninjajournalist.com website (the “Service”).  
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.  
 We will not use or share your information with anyone except as described in this Privacy Policy.  
-We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://www.ninjajournalist.com  
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://www.ninjajournalist.com
+
 **Information Collection And Use**
 
   * While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you.
@@ -63,6 +64,10 @@ For more information on the privacy practices of AppNexus, please visit the AppN
 These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
 
+
+**Opt-Out**
+
+We partner with third party advertisers to serve and display advertising on the Services. These partners may use cookies and Web beacons to collect information about your activities across different websites and services to provide you with relevant advertising. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://optout.networkadvertising.org/#!/). To serve and display advertising relevant to your location, the Services may also track your device’s precise geolocation by responding to beacons or inaudible signals sent to your device’s microphone. If you do not want the location of your device to be tracked by the Services, please opt-out using your device settings.
 
 **Compliance With Laws**
 
