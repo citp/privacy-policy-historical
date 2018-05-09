@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the almarsguides.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202132948id_/http%3A//www.almarsguides.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the almarsguides.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509161914id_/http%3A//www.almarsguides.com/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Almar's Guides Privacy Policy
 
 [](http://almarsguides.com/)
 
-[](http://almarsguides.com/eq/navigation/Live) [](http://almarsguides.com/eq/navigation/classic) [](http://almarsguides.com/eq/navigation/Velious) [](http://almarsguides.com/eq/navigation/PoP) [](http://almarsguides.com/eq/navigation/Omens) [](http://almarsguides.com/eq/navigation/TSS) [](http://almarsguides.com/eq/navigation/SoD) [](http://almarsguides.com/eq/navigation/HoT) [](http://almarsguides.com/eq/navigation/RoF) [](http://almarsguides.com/eq/navigation/TDS) [](http://almarsguides.com/eq/navigation/EoK)
+[](http://almarsguides.com/eq/navigation/classic) [](http://almarsguides.com/eq/navigation/Velious) [](http://almarsguides.com/eq/navigation/PoP) [](http://almarsguides.com/eq/navigation/Omens) [](http://almarsguides.com/eq/navigation/TSS) [](http://almarsguides.com/eq/navigation/SoF) [](http://almarsguides.com/eq/navigation/SoD) [](http://almarsguides.com/eq/navigation/HoT) [](http://almarsguides.com/eq/navigation/RoF) [](http://almarsguides.com/eq/navigation/TDS) [](http://almarsguides.com/eq/navigation/RoS) 
 
 **Almarsguides.com Privacy Policy**
 
