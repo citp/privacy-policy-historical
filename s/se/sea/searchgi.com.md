@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchgi.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108124633id_/http%3A//www.searchgi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchgi.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509174803id_/http%3A//www.searchgi.com/privacy) for the most accurate reproduction.*
 
 # Create & Search Websites For Free - Searchgi.com
 
