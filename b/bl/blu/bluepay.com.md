@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluepay.com privacy policy that was archived on 2017-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170907205646id_/https%3A//www.bluepay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluepay.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509165652id_/https%3A//www.bluepay.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BluePay
 
