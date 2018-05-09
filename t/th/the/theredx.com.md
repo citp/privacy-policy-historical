@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theredx.com privacy policy that was archived on 2017-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171106165117id_/https%3A//www.theredx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theredx.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509053030id_/http%3A//www.theredx.com/privacy) for the most accurate reproduction.*
 
 # Privacy | REDX
 
