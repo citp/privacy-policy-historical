@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digitalcommerce360.com privacy policy that was archived on 2017-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170907222600id_/https%3A//www.digitalcommerce360.com/privacy-policy/%3Futm_campaign%3D00%2520-%2520Web%2520Site%2520Tracking%2520URLs%2520-%2520Footer%252FHeader%252FTouts%26utm_source%3DDC360-Footer%26utm_medium%3DFooter-Link) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalcommerce360.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509231807id_/https%3A//www.digitalcommerce360.com/privacy-policy/%3Futm_campaign%3D00%2520-%2520Web%2520Site%2520Tracking%2520URLs%2520-%2520Footer%252FHeader%252FTouts%26utm_source%3DDC360-Footer%26utm_medium%3DFooter-Link) for the most accurate reproduction.*
 
-# Privacy Policy - Digital Commerce 360
+# Privacy Policy | Digital Commerce 360
 
 ## Vertical Web Media Privacy Policy
 
