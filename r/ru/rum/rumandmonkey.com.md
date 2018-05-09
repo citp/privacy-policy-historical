@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rumandmonkey.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108163631id_/http%3A//rumandmonkey.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rumandmonkey.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509134332id_/http%3A//rumandmonkey.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rum and Monkey
 
@@ -107,6 +107,6 @@ USA
 830-13 A1A North #234  
 FL  
 32082  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#caa3a4aca58a98bfa7aba4ae87a5a4a1afb3e4a9a5a7)
+[info@RumandMonkey.com](mailto:info@RumandMonkey.com)
 
 Last Edited on 2015-01-08
