@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldseafishing.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201091334id_/http%3A//www.verticalscope.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldseafishing.com privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510010834id_/http%3A//www.verticalscope.com/privacy-statement.html) for the most accurate reproduction.*
 
 # VerticalScope.com
 
