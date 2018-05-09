@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eatnow.com.au privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628184804id_/https%3A//www.eatnow.com.au/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatnow.com.au privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509053933id_/https%3A//www.eatnow.com.au/info/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | eatnow.com.au
 
@@ -102,9 +102,3 @@ You may make a request by writing to us at: Privacy Inquiries, EatNow Pty Ltd, L
 **5.4** To make a complaint about a breach of the Australian Privacy Principles, which includes how we handle your personal information, you may contact us at the addresses provided in clause 5.2 above. We will endeavour to respond to your complaint within a reasonable time after it is received. If you are not satisfied by our response, you may acquire further information regarding privacy from the Office of the Australian Information Commissioner. 
 
 Eat Now is owned and operated by Just Eat Holding Limited. 
-
-Arrow
-
- **Best Price Guaranteed**
-
-EatNow does not markup menus or charge customers any service fees. If you order from us and subsequently find the same item advertised by the restaurant within 24 hours for less, we will credit you the difference plus $10 for that order. 
