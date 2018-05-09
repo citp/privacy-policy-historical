@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equine.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102233535id_/https%3A//www.equine.com/corp/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equine.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509175516id_/https%3A//www.equine.com/corp/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Equine.com
 
@@ -44,7 +44,7 @@ When our registration/order form asks users to enter sensitive information (such
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage.
 
-If you have any questions about the security at our website, you can send an email to [security@equine.com](mailto:security@equine.com).
+If you have any questions about the security at our website, you can send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0c7f696f797e6578754c697d79656269226f6361).
 
 Newsletters and Special Offers
 
@@ -56,13 +56,13 @@ We also may send the user site and service announcement updates. Members are not
 
 Correction/Updating Personal Information
 
-If a user's personally identifiable information changes (such as your phone number or zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done at the member information page or by emailing our Customer Support. User's can update their information by going to [http://www.equine.com](http://www.equine.com/) or by emailing [listings@equine.com](mailto:listings@equine.com).
+If a user's personally identifiable information changes (such as your phone number or zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done at the member information page or by emailing our Customer Support. User's can update their information by going to [http://www.equine.com](https://www.equine.com/) or by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#aac6c3d9dec3c4cdd9eacfdbdfc3c4cf84c9c5c7).
 
 Choice/Opt-out
 
-Users are given the opportunity to unsubscribe from our monthly newsletters and special offers email communications or they may send an email to [subscribe@equine.com](mailto:subscribe@equine.com) to have their email address removed from our database. Please note that by using our service and posting classified ads, Users will receive emails from parties interested in the horse, product or service that User is advertising.
+Users are given the opportunity to unsubscribe from our monthly newsletters and special offers email communications or they may send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1063657263736279727550756165797e753e737f7d) to have their email address removed from our database. Please note that by using our service and posting classified ads, Users will receive emails from parties interested in the horse, product or service that User is advertising.
 
-Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not. You may chose that we not share, lease or sell your personally identifiable information with special advertisers by sending an e-mail to [listings@equine.com](mailto:listings@equine.com) and making that request.
+Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not. You may chose that we not share, lease or sell your personally identifiable information with special advertisers by sending an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#dfb3b6acabb6b1b8ac9fbaaeaab6b1baf1bcb0b2) and making that request.
 
 Notification of Changes
 
