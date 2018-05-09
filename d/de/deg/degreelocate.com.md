@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the degreelocate.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105085651id_/http%3A//www.degreelocate.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degreelocate.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509203703id_/http%3A//degreelocate.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Degree Locate
 
