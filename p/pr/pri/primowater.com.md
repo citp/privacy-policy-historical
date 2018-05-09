@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primowater.com privacy policy that was archived on 2017-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171111220601id_/https%3A//primowater.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primowater.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509021612id_/https%3A//primowater.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Primo® Purely Amazing Water and Water Dispensers
 
@@ -32,7 +32,7 @@ We may disclose PII when we reasonably believe that disclosure is necessary to c
 
 #### We May Revise this Policy at Any Time
 
-This Privacy Policy is effective as of May, 2016. We may update this Privacy Policy whenever new developments in business, technology, law, or regulation call for changes. Any updates will be made by posting a revised policy on the website, with an effective date for the revision. We encourage you to review the Privacy Policy whenever you use the website, so that you will always be aware of the latest changes. This Privacy Policy is not intended to create any contractual or other legal rights on behalf of any person or entity. 
+This Privacy Policy is effective as of December, 2016. We may update this Privacy Policy whenever new developments in business, technology, law, or regulation call for changes. Any updates will be made by posting a revised policy on the website, with an effective date for the revision. We encourage you to review the Privacy Policy whenever you use the website, so that you will always be aware of the latest changes. This Privacy Policy is not intended to create any contractual or other legal rights on behalf of any person or entity. 
 
 #### How to Contact Us
 
