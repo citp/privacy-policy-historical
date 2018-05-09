@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techblazes.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122025154id_/http%3A//www.techblazes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techblazes.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509220701id_/http%3A//www.techblazes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
