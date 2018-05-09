@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the studyoptions.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108073725id_/http%3A//www.studyoptions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyoptions.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509061345id_/http%3A//www.studyoptions.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Study Options
 
 ### General
 
-References in this privacy policy to “we”, “our” and “us”, etc. are references to us, Study Options Limited, registered in England and Wales no. 05391269. We are committed to protecting your privacy and respecting the confidentiality of information which you provide when you visit our website at [www.studyoptions.com](https://www.studyoptions.com/). At the same time, we want to try to ensure that you obtain full value from our website and from the services which you may want to receive via our website.
+References in this privacy policy to “we”, “our” and “us”, etc. are references to us, Study Options Limited, registered in England and Wales no. 05391269. We are committed to protecting your privacy and respecting the confidentiality of information which you provide when you visit our website at [www.studyoptions.com](http://www.studyoptions.com/). At the same time, we want to try to ensure that you obtain full value from our website and from the services which you may want to receive via our website.
 
 We are registered as a data controller under the Data Protection Act 1998 (the “1998 Act”). You can see a copy of our entry on the Data Protection Register. We uphold the relevant data protection principles and process all personally identifiable information about you (“personal data”) in accordance with the 1998 Act and other relevant legislation. This privacy policy explains what information we may collect about you when you visit our website and how we may use it.
 
