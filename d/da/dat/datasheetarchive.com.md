@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datasheetarchive.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608022547id_/http%3A//www.datasheetarchive.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datasheetarchive.com privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510002318id_/http%3A//www.datasheetarchive.com/privacy.html) for the most accurate reproduction.*
 
 # Datasheet Archive Privacy Policy
 
@@ -111,4 +111,4 @@ The Datasheet Archive makes no warranties that (i) the website will meet your re
 
 ## Contact Us
 
-If you have any questions or suggestions regarding our privacy policy please [contact us](https://web.archive.org/web/20170608022547id_/http%3A//www.datasheetarchive.com/contact.html).
+If you have any questions or suggestions regarding our privacy policy please [contact us](https://web.archive.org/web/20180510002318id_/http%3A//www.datasheetarchive.com/contact.html).
