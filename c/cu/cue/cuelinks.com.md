@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cuelinks.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108054516id_/http%3A//www.cuelinks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuelinks.com privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510002333id_/https%3A//www.cuelinks.com/privacy) for the most accurate reproduction.*
 
 # Cuelinks - Privacy Policy
 
