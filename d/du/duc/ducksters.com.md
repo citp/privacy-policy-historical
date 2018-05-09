@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ducksters.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228103351id_/http%3A//www.ducksters.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ducksters.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509204316id_/http%3A//www.ducksters.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Ducksters: Privacy Policy
 
@@ -10,7 +10,7 @@ If you send us an email with personal information, we will not sell your email a
 
 **Parent Rights**
 
-Although we don't believe we collect any personal information on children, if a parent or guardian feels we have personal information regarding their child they may request that we delete the information at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Although we don't believe we collect any personal information on children, if a parent or guardian feels we have personal information regarding their child they may request that we delete the information at mail@ducksters.com.
 
 **Links to Other Sites**
 
@@ -34,7 +34,7 @@ Our Privacy Policy may change from time to time and all updates will be posted o
 
 **Contact Ducksters Regarding Privacy Policy Questions**
 
-If you have any questions or concerns regarding our privacy policy please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or at: 
+If you have any questions or concerns regarding our privacy policy please contact us at mail@ducksters.com or at: 
 
 Technological Solutions, Inc. 4015 Sunridge Road Raleigh, NC 27613 
 
