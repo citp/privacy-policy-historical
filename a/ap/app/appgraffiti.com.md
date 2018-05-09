@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appgraffiti.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213204013id_/http%3A//www.appgraffiti.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appgraffiti.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509052729id_/http%3A//www.appgraffiti.com/privacy) for the most accurate reproduction.*
 
 # AppGraffiti.com
 
