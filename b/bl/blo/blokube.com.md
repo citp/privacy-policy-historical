@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blokube.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105163903id_/http%3A//www.blokube.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blokube.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509095119id_/http%3A//www.blokube.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blokube
 
