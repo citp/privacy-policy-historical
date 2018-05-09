@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanoos.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206144306id_/http%3A//www.fanoos.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanoos.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509124734id_/http%3A//fanoos.com/about/privacy) for the most accurate reproduction.*
 
 # Fanoos Privacy
 
