@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the alphacoders.com privacy policy that was archived on 2017-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171213230330id_/https%3A//alphacoders.com/site/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alphacoders.com privacy policy that was archived on 2018-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180510010519id_/https%3A//alphacoders.com/site/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" itemscope="" itemtype="http://schema.org/WebPage"><head>
     <meta charset="utf-8">
@@ -158,6 +158,11 @@
         .btn-custom {
             margin-top: 5px;
         }
+        .btn-multi-line {
+            white-space: normal;
+            margin-left: 5px;
+            margin-right: 5px;
+        }
         .content-preview-container {
             border: none;
         }
@@ -176,13 +181,13 @@
             display: inline-block;
             margin: 0 10px 10px 0;
             vertical-align: top;
-            max-width: 100%;
         }
         .content-preview-container .thumb-link img {
             display: inline-block;
             border-radius:5px;
             border:5px solid #242424;
-            max-width: 100%;
+            width: 100%;
+            max-width: 360px;
             max-height: 450px;
             -webkit-box-shadow: 5px 5px 0px rgba(66, 101, 255, 0.63);
             -moz-box-shadow:    5px 5px 0px rgba(66, 101, 255, 0.63);
@@ -295,6 +300,9 @@
         .panel-wallpaper {
             background-color: rgba(53,126,199, 0.4)  !important;
         }
+        .panel-mobile-wallpaper {
+            background-color: rgba(70,27,126, 0.4) !important;
+        }
         .panel-art {
             background-color: rgba(193,27,23, 0.4) !important;
         }
@@ -349,7 +357,7 @@
             padding: 0 15px;
         }
         .row-with-preview-container .content-info a.btn {
-            min-width: 132px;
+            min-width: 140px;
         }
         .row-with-preview-container .default-content-thumb {
             max-width: 100%;
@@ -435,6 +443,58 @@
             margin-bottom: 15px;
         }
 
+        .achievement-container {
+            margin-top: 10px;
+            padding: 10px 0;
+        }
+        .achievement-container + .achievement-container {
+            border-top: 1px solid #808080;
+            padding-top: 20px;
+        }
+        .achievement-title {
+            font-size: 20px;
+            font-weight: 700;
+            margin-bottom: 10px;
+        }
+        .tiers-container {
+            margin-top: 15px;
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        .achievement-tier {
+            margin: 4px;
+            text-align: center;
+            flex: 0 0 100px;
+        }
+        .achievement-tier > div {
+            border-radius: 6px;
+        }
+        .achievement-tier > span {
+            font-weight: 700;
+            font-size: 16px;
+            margin-top: 4px;
+        }
+        .achievement-tier-locked {
+            opacity: 0.5;
+        }
+        .achievement-tier1 {
+            background-color: #1E90FF;
+        }
+        .achievement-tier2 {
+            background-color: #00cc00;
+        }
+        .achievement-tier3 {
+            background-color: #f3f370;
+        }
+        .achievement-tier4 {
+            background-color: #FFA500;
+        }
+        .achievement-tier5 {
+            background-color: #ff3333;
+        }
+
         .panel-items {
             padding: 10px 0;
         }
@@ -471,6 +531,8 @@
         }
         .item-row .item-action blockquote {
             max-width: 500px;
+            overflow: hidden;
+            text-overflow: ellipsis;
         }
         .item-row .item-link {
             flex: 0 1 300px;
@@ -828,6 +890,7 @@
 
     
     
+    
     <script async="" src="//www.google-analytics.com/analytics.js"></script><script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
                 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -913,7 +976,7 @@
                     <div>
                         <p>
                             At Alpha Coders, the privacy of our visitors is of extreme importance to us.
-                            This privacy policy document outlines the types of personal information is received and collected by Alpha Coders and how it is used.
+                            This privacy policy document outlines the types of personal information received and collected by Alpha Coders and how it is used.
                         </p>
 
                         <br>
@@ -928,7 +991,7 @@
                         </p>
 
                         <br>
-                        <h4>Cookies and Web Beacons</h4>
+                        <h4>Cookies and Web Beacons (GDPR is below)</h4>
                         <br>
 
                         <p>
@@ -952,6 +1015,10 @@
                             </p><ul>
                                 <li>Google Adsense</li>
                                 <li>Advertisers that participate in Google's Ad Exchange</li>
+                                <li>Exponential</li>
+                                <li>Oauth</li>
+                                <li>bRealTime</li>
+                                <li>Operative</li>
                             </ul>
                         <p></p>
 
@@ -961,13 +1028,62 @@
                             to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
                         </p>
 
+                        <br>
+                        <h4>GDPR</h4>
+                        <br>
+                        <ul>
+                            <li>
+                                Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile
+                                personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online
+                                advertising and ad measurement. For more details including opt-out requests, access requests or
+                                complaints, please review their <a title="http://exponential.com/privacy/" href="http://exponential.com/privacy/" target="" rel="noopener noreferrer nofollow">privacy policy</a> or
+                                contact their data protection officer via
+                                <a title="mailto:privacy@exponential.com" href="mailto:privacy@exponential.com" target="" rel="noopener noreferrer nofollow">privacy@exponential.com</a>.
+                        </li></ul>
+
+                        <h5>Cookie Details</h5>
+                        <table class="table">
+                            <thead>
+                                <tr><th>Cookie Name</th>
+                                <th>Sort by (Domain)</th>
+                                <th>Function</th>
+                                <th>Party</th>
+                                <th>Class</th>
+                                <th>Type</th>
+                                <th>Expiry</th>
+                            </tr></thead>
+                            <tbody><tr>
+                                <td>
+                                    ANON_ID
+                                </td>
+                                <td>
+                                    tribalfusion.com
+                                </td>
+                                <td>
+                                    The anonymous hashed id in the cookie links the web user's browser to a profile which contains
+                                    the behaviors the user has displayed
+                                </td>
+                                <td>
+                                    Third
+                                </td>
+                                <td>
+                                    Tracking
+                                </td>
+                                <td>
+                                    Persistent
+                                </td>
+                                <td>3 months</td>
+                            </tr>
+                        </tbody></table>
+
+                        <br><br>
                         <p>
                             Alpha Coders has no access to or control over these cookies that are used by third-party advertisers.
                         </p>
 
                         <p>
                             You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions
-                            about how to opt-out of certain practices. wAlpha Coders's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or Websites.
+                            about how to opt-out of certain practices. Alpha Coders's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or Websites.
                         </p>
 
                         <p>
@@ -993,7 +1109,7 @@
         <li><a href="https://alphacoders.com/site/advertising" rel="nofollow">Advertise With Us</a></li>
             </ul>
     <div class="center">
-        <h5 class="white">Website text and design is copyright 2017 Alpha Coders.<br>
+        <h5 class="white">Website text and design is copyright 2018 Alpha Coders.<br>
             All submitted content remains copyright its original copyright holder | <a href="https://alphacoders.com/site/copyright">DMCA Copyright Violation</a><br>Images are for personal, non commercial use.</h5>
             </div>
 </div>
