@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usps.gov privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203212715id_/http%3A//about.usps.com/who-we-are/privacy-policy/privacy-policy-highlights.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usps.gov privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509174412id_/http%3A//about.usps.com/who-we-are/privacy-policy/privacy-policy-highlights.htm) for the most accurate reproduction.*
 
 # Privacy Policy Highlights - Who We Are - USPS
 
