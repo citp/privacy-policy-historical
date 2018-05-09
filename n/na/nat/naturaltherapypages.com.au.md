@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the naturaltherapypages.com.au privacy policy that was archived on 2017-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170804173627id_/http%3A//www.naturaltherapypages.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturaltherapypages.com.au privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509062609id_/https%3A//www.naturaltherapypages.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - NaturalTherapyPages.com.au
+
+Search 15,098 Practitioners & Therapists
 
 ### Introduction
 
@@ -90,3 +92,5 @@
   26. You accept that your use of this site includes your acceptance of this Privacy Policy and the Terms of Use.
 
 
+
+[ ](https://www.facebook.com/ntpages)
