@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blair.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120143421id_/http%3A//www.blair.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blair.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509171753id_/http%3A//www.blair.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy and Security | Blair
 
