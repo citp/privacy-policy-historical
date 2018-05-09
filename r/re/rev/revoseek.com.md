@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revoseek.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218034833id_/http%3A//revoseek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revoseek.com privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510001747id_/http%3A//revoseek.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RevoSeek.com
 
