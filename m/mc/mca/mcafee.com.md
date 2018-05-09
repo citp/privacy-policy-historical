@@ -1,408 +1,229 @@
-> *The following text is extracted and transformed from the mcafee.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224094411id_/http%3A//www.mcafee.com/common/privacy/english/index.htm%23ht%3Dtab2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcafee.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509164747id_/https%3A//www.mcafee.com/us/about/legal/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | Intel Security
+# Privacy Policy | McAfee
 
-**Last Updated  
-**On December 2, 2016, the McAfee Privacy Notice was updated to the Intel Privacy Notice (see below).  To view Intel's previous notices, please click [**here**](http://www.intel.com/content/www/us/en/privacy/intel-privacy-notice-archive.html). 
+### McAfee Privacy Notice  
+Effective Date: April 3, 2017
 
-Intel Corporation and its group companies ("Intel", "we", "us" and "our") respect your privacy. This Privacy Notice describes our privacy practices regarding the collection, use, and disclosure of your information through Intel’s web sites, products, online services, software, apps, tools, and other services and functionality we provide both online and offline (collectively referred to as “Intel® Services”), along with our marketing and advertising practices.
+This Notice provides information about data we collect, use, and share, and our commitment to using the personal data we collect in a respectful fashion.
 
-Some Intel Services use cookies and similar technologies to access or store information. Specific information about how we use cookies, how we respond to Do Not Track signals, and how you can refuse certain cookies, is set out in our [Intel Cookies and Similar Technologies Notice](https://web.archive.org/common/privacy/english/index.htm#ht=tab3).
+  * Privacy Notice Overview
+  * Why Do We Collect Information and Data?
+  * What Kinds of Personal Information Do We Collect?
+  * How Do We Collect Information?
+  * How Do We Use Personal Information?
+  * When Do We Share Personal Information?
+  * Third-Party Advertising
+  * What Security Measures Do We Have?
+  * What Choices Do You Have About Your Personal Information?
+  * Data Retention
+  * Children’s Privacy
+  * Data Transfers
+  * Links to Other Websites
+  * Contact Us
 
-**CONTENTS**
 
-  1. INFORMATION COLLECTION  
-Personal Information We May Collect  
-Other Information We May Collect
-  2.  NOTICE
-  3. INFORMATION USE AND DISCLOSURE  
-How We May Use and Disclose Personal Information  
-How We May Use and Disclose Other Information
-  4. THIRD-PARTY SERVICES
-  5. THIRD-PARTY ADVERTISERS
-  6. SECURITY
-  7. MARKETING PREFERENCES
-  8. HOW YOU CAN MANAGE YOUR PERSONAL INFORMATION 
-  9. RETENTION PERIOD
-  10. USE OF INTEL SERVICES BY MINORS
-  11. INTERNATIONAL TRANSFERS OF PERSONAL INFORMATION
-  12. CONTACT US
 
+We at McAfee, LLC and our affiliates with whom you have a business relationship (“McAfee”, “we”, “us”) care deeply about privacy, security, and online safety, all of which are a significant part of our essential mission: to protect users of our products and services (“you”, “your”) from the risks of theft, disruption, and unauthorized access to their online information and activities. This Privacy Notice (“Notice”) is designed to inform you about how we collect, use, and share your personal information. 
 
-  * SUPPLEMENTS AND ADDITIONAL NOTICES 
+This Privacy Notice applies to personal information we obtain from individuals through our websites, products, services, and web-based applications (collectively, the “Services"). In addition, some of our products and services, such as our wide array of mobile applications (“Apps”), are subject to a separate privacy notice. If a separate privacy notice applies to a particular product or service, for example, such as our Mobile App Privacy Statement, we will post it on our website (our “Site”). 
 
+When you access or use our Services, you acknowledge that you have read this Notice and understand its contents. Your use of our Services and any dispute over privacy is subject to this Notice and our [Terms of Service](https://web.archive.org/us/about/legal/website-terms-of-service.aspx) (including any applicable limitations on damages and the resolution of disputes).
 
-  14. UPDATES TO THIS PRIVACY NOTICE
+As McAfee grows, our business changes, and we may update this Notice, or other privacy notices that we establish for individual products, at any time as we deem appropriate to reflect those changes. Where the changes are material, we will post them here in advance and, if the changes are likely to affect you personally, we will also attempt to contact you directly (such as via email if we have your email address). It is important that you check back from time to time and make sure that you have reviewed the most current version of this Notice.
 
+### Why Do We Collect Information and Data? 
 
+We rely on a wide variety of information to run our business. In some instances, this information may include data that could be used to identify a particular individual, otherwise referred to as **Personal Information**. In this Notice, we will provide multiple examples of how Personal Information we collect may be used and why it is important. For example, when a consumer purchases one of our products we must collect their name, email address, and payment information to complete the transaction. Some of the reasons that we collect Personal Information include to:
 
-**1\. INFORMATION COLLECTION**   
-**Personal Information We May Collect**   
-Intel may collect various types of personal information, including:
+  * Provide our products and services, including our Apps and this Site, and improve them over time;
+  * Allow you to download and purchase products and services;
+  * Personalize and manage our relationship with you, including introducing you to products or services that may be of interest to you or to provide customer support;
+  * Investigate, respond to, and manage inquiries or events;
+  * Work with and respond to law enforcement and regulators; and
+  * Research matters relating to our business such as security threats and vulnerabilities.
 
-  * Personal and business contact information (such as name, billing and shipping address, phone number, email address, and social media/messaging account ID)
-  * Intel Account ID
-  * Profile picture 
-  * Social media postings and information
-  * Payment card, digital wallet, or other payment service information
-  * Depending on the service we are providing to you we may also need to collect more sensitive personal information (such as location, government-issued identification, photographs, audio/video recordings, images, and biometrics) directly from you
 
 
+### What Kinds of Personal Information Do We Collect? 
 
-If you submit any personal information about other people to us or to our service providers, you represent that you have the authority to do so and to permit us to use their personal information in accordance with this Privacy Notice.
+The following are examples of the type of Personal Information that may be collected. The specific kind of information collected will depend on the Services used:
 
-We and our service providers may collect personal information from a variety of sources, including:
+  * Contact information (such as name, email address, mailing address, and phone number);
+  * Payment information (including payment card numbers, billing address, and bank account information);
+  * McAfee purchase or product/service use history;
+  * Account log-in credentials;
+  * Your location;
+  * Your interests;
+  * Demographic information;
+  * Photographs, images, video, and related hash values; or
+  * Biometric data such as fingerprints or voice recordings.
 
-  * **From you or someone acting on your behalf** : We may collect personal information you or someone acting on your behalf shares with us such as your name and contact details.
-  * **Through the Intel Services** : We may collect personal information about you when you use Intel Services, for example, when you sign up for a newsletter, make a purchase, or use or install our products or apps.
-  * **Through Third Parties’ Services** : We may collect personal information about you when you use third party services that utilize the Intel Services.
-  * **Offline** : We may collect personal information you provide to us offline, such as when you visit our stores, attend one of our trade shows or events, place a verbal order over the phone or contact customer services. 
-  * **From Other Sources** : We may collect your personal information from other sources, such as public databases, joint marketing partners, and social media platforms. We may also receive your personal information from people with whom you are "friends" or otherwise connected on social media platforms. For example, if you elect to connect your social media account to your Intel Services account, certain personal information from your social media account will be shared with us. Such information may include personal information that is part of your social media profile or your friends’ profiles. Similarly, if your social media "friends" connect their social media account to their Intel Services account, information about you may be shared with us via this “friend” connection.
 
 
+In addition to the above, we may also collect other information related to user interactions with or use of our Services (“Usage Data”). Much of this Usage Data, for example, clickstream data and aggregate usage statistics, is generally not personally identifying. On the other hand, some of this Usage Data either alone or when combined or linked with your Personal Information, may allow your identity to be discovered. In such cases, we treat the combined data as Personal Information. In many cases, Usage Data is gathered automatically by systems or technology such as cookies (see more information about Information Collected Automatically below). 
 
-**Other Information We May Collect**   
-Intel may also collect other information from your app, browser, or device that does not reveal your (or anyone else's) real world identity, for example:
+The following are examples of the type of Usage Data that may be collected by McAfee from your web browser or related to your interactions with our products and services:
 
-  * Browser and device information
-  * App or device usage data
-  * Information collected through cookies, pixel tags, and similar technologies
-  * IP address
-  * Location data
-  * Aggregated, anonymized, or de-identified information 
-  * Demographic information and other information provided by you (i.e., language, occupation, postal code). 
+  * Details about your computers, devices, applications, and networks (including IP address, browser characteristics, device ID, operating system, and language preferences);
+  * Activities on our websites and usage patterns of products and services (including referring URLs, dates and times of website visits, and clickstream data);
+  * Details about Internet, App, or network usage (including URLs or domain names of websites you visit, information about applications that attempt to access your network, or traffic data);
+  * Data about files and communications, such as potential malware or spam (which may include computer files, emails and attachments, email addresses, metadata, and traffic data, or portions or hashes—a hash file is a file that has been converted into a numerical string by a mathematical algorithm—of any of this information).
 
 
 
-We and our third-party service providers may collect this information in a variety of ways, including:
+### How Do We Collect Information?
 
-  * **Through your browser or device** : Most browsers and devices collect certain information automatically, for example, type and version of operating system, screen resolution, device manufacturer and model, language, Internet browser type and version, and the name and version of the Intel Services (such as the app) you are using. We use this information, for example, to make sure that the Intel Services function properly, analyze the performance of our products, and improve and maintain the Intel Services.
-  * **Through your use of an Intel app** : When you download and use an Intel app, we and our service providers may track and collect usage data, such as the date and time the Intel app on your device accesses our servers and what information and files have been downloaded to the Intel app.
-  * **Through cookies and similar technologies** : We use cookies to make our web sites operate, work more efficiently, and provide analytic information. Technologies similar to cookies are also used in connection with some Intel Services, such as pixel tags, web beacons, clear GIFs, JavaScript, and local storage. Please view our [Intel Cookies and Similar Technologies Notice](https://web.archive.org/common/privacy/english/index.htm#ht=tab3) for more information and how to disable/remove certain cookies. 
-  * **IP Address** : IP addresses are automatically transmitted as part of any Internet communication, and collecting IP addresses is a common practice; many web sites, applications and other Intel Services collect IP addresses automatically. We use IP addresses for purposes such as communicating with your device, calculating usage levels of the Intel Services, helping diagnose server problems, security, and administering the Intel Services. **Location Data:**  We may collect the physical location of a connected device, for example, using satellite, cell phone tower, and WiFi signals. We may use your device’s physical location to provide you with personalized location-based Intel Services, content, and advertising. We may also share your device’s physical location, combined with information about what advertisements you viewed and other information we collect, with our marketing partners to enable them to provide you with more personalized content and to study the effectiveness of advertising campaigns. You can choose whether to allow or deny uses and/or sharing of your device’s location by changing your device settings, but if you choose to deny such uses and/or sharing, we and/or our marketing partners may not be able to provide you with the applicable personalized Intel Services, content, and advertising.
+We collect information directly from you, as well as automatically through your use of our Services and, in some cases, from third parties.
 
+**Information That You Give Us:** Typically the information we collect directly from you are your contact details, payment or billing data, and relationship information like the content of customer service requests that you initiate, reviews you submit on our products, or responses to surveys. You decide how much information to share with us in most cases, but not sharing required information may limit your ability to engage in certain activities, such as payment information required to complete a purchase.
 
+**Information Collected Automatically:** When you use or interact with our Site and Services, we receive and store information generated by your activity, like Usage Data, and other information automatically collected from your browser or mobile device. This information may include your IP address; browser type and version; preferred language; geographic location using IP address or the GPS, wireless, or Bluetooth technology on your device; operating system and computer platform; purchase history; the full Uniform Resource Locator (URL) clickstream to, through, and from our Site, including date and time; products you viewed or searched for; and areas of our Site that you visited. We also may log the length of time of your visit and the number of times you visit and purchase or use the Services. We may assign you one or more unique identifiers to help keep track of your future visits. 
 
-**2\. NOTICE**  
-We provide access to our Privacy Notice by:
+In most cases, this information is generated by various tracking technologies. Tracking technologies may include “cookies,” “flash LSOs,” “web beacons” or “web bugs,” and “clear GIFs”. You can read about how we use cookies and other tracking technologies here and also learn about the choices you can make to limit their use.
 
-  * Linking to it throughout our websites 
-  * Referencing it in our Terms of Use, End User License Agreements
-  * Incorporating it into our contracts, agreements, and other documents as necessary or appropriate ****
+Please see our Cookie Notice for more information about the cookies and other similar technologies that we use.
 
+**Information from Other Sources:** If we receive any information about you from other sources, we may add it to the information we already have about you. For example, if we receive a list of subscribers to a publication and we note that you are a user of our products and also a subscriber, we may combine that information. Examples of information we may receive from other sources includes updated delivery or payment information which we use to correct our records, purchase or redemption information, customer support or enrollment information, page view, search term and search result information from business partners, and credit or identity information which we use to help prevent and detect fraud.
 
+### How Do We Use Personal Information? 
 
-**3\. INFORMATION USE AND DISCLOSURE**   
-**How We May Use and Disclose Personal Information**   
-We may use personal information:
+Every time you turn on a device, connect to a network, or open a file, you are exposed to significant risk from hackers, malware, spyware, and other forms of unauthorized access to your data and systems. Security products and services, such as McAfee’s, are designed to help protect you from these risks.
 
-  * To provide Intel Services.
-  * To respond to your inquiries and fulfill your requests, such as to send you technical documents or whitepapers.
-  * To send you marketing communications that we believe may be of interest to you, such as newsletters, in accordance with your communication preferences.
-  * To personalize your experience on the Intel Services by presenting products, marketing messages, offers, and content tailored to you.
-  * To allow you to participate in surveys, sweepstakes, contests, and similar promotions and to administer these activities. Some of these activities have additional rules, which could contain more information about how we use and disclose your personal information, so we suggest that you read these rules carefully.
-  * To allow you to send messages to a friend through the Intel Services. By using this functionality, you are telling us that you are entitled to use and provide us with your friend’s contact information. 
-  * To complete and fulfill your purchase, for example, to process your payments, have your order delivered to you, communicate with you regarding your purchase, provide you with related customer service, and establish and manage your Intel accounts.
-  * For our business purposes, such as data analysis, audits, crime/fraud monitoring and prevention, security, developing new products, testing, enhancing, improving or modifying our Intel Services, identifying usage trends, determining the effectiveness of our promotional campaigns, and operating and expanding our business activities. 
-  * Perform accounting, auditing, billing, reconciliation, and collection activities. To send administrative information and service notifications to you, for example, information regarding the Intel Services and changes to our terms, conditions, and policies.
-  * Perform other activities consistent with this Notice. 
+**Security and Threat Detection.** By collecting and processing data, including Personal Information, McAfee can help to predict threats and better protect you, your devices, and your information. For example, McAfee may use your information to:
 
+  * Analyze data sent to/from your device(s) to isolate and identify threats, vulnerabilities, suspicious activity, and attacks;
+  * Assess the reputation of a device or file to advise you on whether access should be granted;
+  * Participate in threat intelligence networks and conduct research and analysis, including market and consumer research and trend analysis; and
+  * Adapt products and services to respond to new threats.
 
 
-Personal information may be shared or disclosed:
 
-  * To our affiliate entities and subsidiaries for the purposes described in this Privacy Notice.
-  * To our authorized service providers and suppliers who provide services to us such as web site hosting, data analysis, payment processing, order fulfillment, information technology and related infrastructure provision, customer service, email delivery, credit card processing, auditing and other similar services.
-  * To third parties to permit them to send you marketing communications, as permitted under applicable law and in accordance with your communication preferences.
-  * To third party sponsors of sweepstakes, contests, and similar promotions.
-  * To identify you to anyone to whom you send messages through the Intel Services.
-  * By you, on message boards, forums, chat, profile pages and blogs to which you are able to post information and materials. Please note that any such information you post or disclose in public forums will become public information, and may be available to users and to the general public. We urge you to be very careful when deciding to disclose your personal information, or any other information, online.
-  * To a third party in the event of any contemplated or actual reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings). 
-  * As we believe is required, necessary, or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process and/or to respond to requests from competent public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations and those of any of our affiliates; (f) to protect our rights, privacy, security, safety, and physical and intellectual property, and/or the rights of our affiliates, you, or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
+**Business Uses.** In addition, we may use Personal Information for other business purposes, including to:
 
+  * Analyze users’ behavior when using McAfee products and services to customize preferences;
+  * Establish and manage McAfee accounts;
+  * Collect and process payments and complete transactions;
+  * Provide customer support, manage subscriptions, and respond to requests, questions, and comments;
+  * Communicate about, and administer participation in, special events, programs, surveys, contests, sweepstakes, and other offers and promotions;
+  * Enable posting on our blogs and other communications;
+  * Customize, measure, and improve our websites, products, services, and advertising;
+  * Analyze and develop new products, services, and websites;
+  * Perform accounting, auditing, billing, reconciliation, and collection activities;
+  * Prevent, detect, identify, investigate, respond, and protect against potential or actual claims, liabilities, prohibited behavior, and criminal activity;
+  * Comply with and enforce applicable legal requirements, agreements, and policies; and
+  * Perform other activities consistent with this Notice.
 
 
-**How We May Collect, Use and Disclose Other Information**   
-Please note that we may collect, use, and disclose other information obtained through cookies in accordance with our [Intel Cookies and Similar Technologies Notice](https://web.archive.org/common/privacy/english/index.htm#ht=tab3) or Intel Services. In some instances, we may combine other information with personal information (such as combining your name with your postal code). If we combine any other information with personal information, we will treat the combined information as personal information as long as it is combined and is personally identifiable.
 
-**Product Updating and Reporting**  
-Our products and services may also process certain data to provide software updates and reports. These update functions may automatically check your system to see whether files relating to the services need to be refreshed, updated, or modernized. 
+**Processing as Part of the Services.** We also process certain information as an integral part of our Services. If you install or use one of our products or services, software will operate in the background of your computer system or device environment to perform specific security and privacy tasks including:
 
-Intel may also uses the information to adapt the product to conform to user preferences based on actual use.
+  * Spam protection;
+  * Virus protection;
+  * Intrusion detection, prevention, and protection;
+  * Threat prevention and prediction;
+  * Network defense;
+  * Data encryption;
+  * Mobile device lockdown; and
+  * Back-up and recovery activities.
 
-**4\. THIRD-PARTY SERVICES**   
-This Privacy Notice does not address, and we are not responsible for, the policies and practices of third parties or other organizations that are not Intel service providers, including policies and practices related to privacy and security, data collection, processing, use, storage, and disclosure. This includes: (a) any third party operating any site or service to which the Intel Services link – the inclusion of a link on the Intel Services does not imply endorsement of the linked site or service by us or by our affiliates; or (b) any app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer (such as Facebook, Apple, Google, Microsoft, LinkedIn, etc.) - including any personal information you disclose to other organizations through or in connection with the Intel Services or our Social Media Pages. For example, we may use and direct you to a third party payment service to process payments made through the Intel Services. If you wish to make such a payment, your personal information may be collected by such third party and not by us, and will be subject to the third-party’s privacy policy, rather than this Privacy Notice. 
 
-When we share personal information with an Intel service provider, we require that they first contractually agree to comply with reasonable and appropriate privacy and security standards.
 
-**5\. THIRD-PARTY ADVERTISERS**   
-We may use third-party advertising companies to serve advertisements regarding goods and services that may be of interest to you when you access and use the Intel Services and other web sites, based on information obtained, for example, through cookies and similar technologies relating to your access to and use of the Intel Services and other web sites. Please refer to our [Intel Cookies and Similar Technologies Notice](https://web.archive.org/common/privacy/english/index.htm#ht=tab3) on how we use cookies and how you can disable certain cookies.
+**Product Updating and Reporting.** Our products and services may also process certain data to provide updates and reports. These update functions may check your system to see whether files relating to the services need to be refreshed or modernized. For example, products and services may transmit report files to McAfee. These files contain information, including the number of checked, suspicious, infected, or unwanted files or emails, the number of infections, the date and hash values of the detected infections, and the number of false negatives/false positives. The purpose of these reports is to analyze the frequency of particular infections or the prevalence of threats. McAfee also uses the information to adapt the product to conform to user preferences based on actual use.
 
-Intel does not share your personal information with non-affiliated third parties for their own marketing use without your permission.
+**Supporting Free Products and Services**  
+We continually make a variety of free products available to our customers. In order to keep these products free, we may use information collected through some of our products, such as information about websites you visit, to support interest-based advertising by us or our partners. We do this by sharing information with trusted third parties about your browser and web browsing activity that does not identify you personally. These companies are not permitted to use the information we provide to them to identify you, and are required to use the information we provide only in accordance with our privacy commitments to you. Our products that use data in this way also include built-in features allowing you to opt out of this sharing.
 
-**6\. SECURITY**   
-The Intel Services are designed to provide reasonable and appropriate organizational, technical, and administrative measures to protect personal information within our organization against unauthorized or unlawful access, alteration, disclosure, or destruction. Users of Intel Services must also do their part in protecting the data, systems, networks, and service they are utilizing. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that your password to any Intel account has been compromised), please immediately notify us by contacting us in accordance with the  _“Contact Us”_  section below.
+### When Do We Share Personal Information?
 
-**7\. MARKETING PREFERENCES**   
-We give you many choices regarding our use and disclosure of your personal information for marketing purposes. You may update and request access to your contact details and communication preferences by using one of the following methods: visit the specific product or service web site; use the [Contact Us](http://www.intel.com/content/www/us/en/forms/privacy-contact-us.html) form; use the “unsubscribe” link, or send a letter to the postal address below. You may choose to update your communication preferences for the following types of marketing activities:
+We respect the importance of privacy. Other than as provided in this privacy policy, we do not sell your Personal Information, nor do we share it with unaffiliated third parties for their own marketing use, unless we have your consent or we are required by law to do so. Generally, we may disclose the information we collect, including Personal Information, in order to facilitate our provision of the Services or communications with customers (e.g., to service providers who perform functions on our behalf), to operate our business, to advertise or promote our Services, to facilitate changes to or transfers of our business, as required by law, or with your consent.
 
-  * To accept or refuse receiving marketing-related messages from us in the future. 
-  * To accept or refuse our sharing of your personal information with affiliates and subsidiaries so that they may market directly to you.
-  * To accept or refuse our sharing of your personal information with non-affiliated third parties so that they may market directly to you.
+We may share Personal Information in the following ways:
 
+  * Current and future members of the McAfee family of companies for the purposes described in this Notice, such as to: (i) provide services and content (e.g., registration, sales, and customer support); (ii) help detect and prevent illegal acts and violations of our policies; and (iii) guide our decisions about our products, services, and communications;
+  * Other users where integral to particular Services where you have chosen to share such information, or where you have posted user content (e.g., comments and reviews, social media posts, photos or locations to groups you create);
+  * Authorized service providers who perform services for us (including cloud services, data storage, sales, marketing, investigations, payment processing, customer support, and bill collection). Our contracts with our service providers include commitments that they agree to limit their use of Personal Information and to comply with privacy and security standards at least as stringent as the terms of this Privacy Notice. Remember that if you provide Personal Information directly to a third party, such as through a link on McAfee’s website, the processing is typically based on their standards (which may not be the same as McAfee’s);
+  * If we believe disclosure is necessary and appropriate to prevent physical, financial, or other harm, injury, or loss, including to protect against fraud or credit risk.
+  * To legal, governmental, or judicial authorities, as instructed or required by those authorities or applicable laws, or in relation to a legal activity, such as in response to a subpoena or investigating suspected illicit activity (including identifying those who use our services for illegal activities). We reserve the right to report to law enforcement agencies activities that we in good faith believe to be illegal.
+  * In connection with, or during negotiations of, an acquisition, merger, asset sale, or other similar business transfer that involves substantially all of our assets or functions where Personal Information is transferred or shared as part of the business assets (provided that such party agrees to use such Personal Information in a manner that is consistent with this Notice).
+  * In order to provide marketing and advertising content about our products, or other products which may interest you, we may share your Usage Data, as well as anonymized information with third-party ad networks, social media partners, and similar providers. A more detailed discussion of our relationship with third-party advertisers is set forth below under the heading " **Third-Party Advertising** ".
+  * With others only after obtaining your consent. If we want to share Personal Information other than as permitted or described above, we will provide you with a choice to opt in to such sharing and you may choose to instruct us not to share the information.
 
 
-You can also unsubscribe from Intel marketing-related messages by following the unsubscribe instructions included in each marketing-related message sent to you. We will comply with your request(s) as soon as reasonably practicable. Please also note that if you do choose not to receive marketing-related emails from us, we may still send you important administrative and transactional messages (i.e., service notifications) about your Intel Services.
 
-**8\. HOW YOU CAN MANAGE YOUR PERSONAL INFORMATION**   
-If you would like to correct, update, delete, or request access to the personal information that you have provided to us, you may contact us by: visiting the specific product or service web site; the online [Contact Us](http://www.intel.com/content/www/us/en/forms/privacy-contact-us.html) form; or sending a letter to the postal address below including your name, email address, account identification, and purpose of the request.
+**Your California Privacy Rights - Shine the Light Law**
 
-For your protection, we will only implement requests with respect to personal information about you (not anyone else), and we may need to verify your identity before implementing your request. We will comply with your request as soon as reasonably practicable and in accordance with applicable law. We may need to retain certain information for recordkeeping purposes, as required under applicable legal obligations, and/or to complete any transactions that you began prior to requesting such change or deletion (e.g., when you make a purchase or enter a promotion, you may not be able to change or delete the personal information provided until after the completion of such purchase or promotion). Some of your information may remain within our systems and other records, in compliance with applicable law.
+McAfee does not share your Personal Information with non-affiliated third parties for their own marketing use without your permission.
 
-**Storage of the information we collect from you**  
-The information we collect may be stored and processed in servers in the United States and wherever Intel and our service providers have facilities around the globe and in accordance with local laws.
+### Third-Party Advertising 
 
-**9\. RETENTION PERIOD**   
-We will retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy Notice unless a longer retention period is required or permitted by law. 
+Advertising is a way for McAfee to subsidize many of our free products and services and also provides a way to inform you about products or services that we think may be of interest to you. We have agreements with third-party advertising companies to display or deliver ads to you while you are on our Site or using some of our other products, like Apps. These third-party advertisers may automatically receive Usage Data when this happens. They may also download cookies to your computer, or use other technologies such as JavaScript and "web beacons" (also known as "1x1 gifs" or "clear gifs") to measure the effectiveness of their ads and to personalize advertising content. Doing this allows the advertising network to recognize your computer or device each time they send you an advertisement. In this way, they may compile information about where individuals using your computer or browser saw their advertisements and determine which advertisements are clicked. Third-Party Advertisers may also serve advertisements to you on other websites, based on their tracking of what content you looked at or interacted with on our Websites. Other than as described in this Notice, we do not give third-party advertisers your contact information such as email address, phone number, or address.  
+See our Cookie Notice to learn more about how McAfee uses tracking technologies like cookies and how you can opt out of such technologies and advertising. This Notice does not cover the use of cookies or other tracking technologies by any of our advertisers. 
 
-**10\. USE OF INTEL SERVICES BY MINORS**   
-We comply with the Children’s Online Privacy Protection Act of the United States and similar laws around the world where applicable to Intel Services. We do not knowingly collect personal information from children without proper parental consent. If you believe that we may have collected personal information from someone under the age of thirteen (13),or under the applicable age of consent in your country, without parental consent, please let us know using the methods described in the Contact Us section and we will take appropriate measures to investigate and address the issue promptly. 
+If you have provided our Apps with access to your location, our mobile advertising partners may use your location to target advertisements to you. You can use the location features on your device to disable this targeting.
 
-**11.  INTERNATIONAL TRANSFERS OF PERSONAL INFORMATION**   
-Intel is a U.S.-based, global company. As such, we may transfer your personal information to its parent company, Intel Corporation in the United States (U.S.), or to any Intel group company worldwide when processing that information for the purposes described in this Privacy Notice. We may also transfer your personal information to our third party service providers, who may be located in a different country to you.
+**Do Not Track Disclosure:** Our Site does not respond to Do Not Track signals. You may, however, disable certain tracking as discussed above (e.g., by disabling cookies). For more information about Do Not Track signals, please click [here](http://www.allaboutdnt.com/).
 
-Personal Information shared by an Intel entity from the European Economic Area and Switzerland is also subject to a set of binding corporate rules known as the Intel Corporate Privacy Rules (“Intel’s BCR”) which establish adequate protection of such personal information at participating Intel group companies. Intel's BCR can be accessed [here](http://www.intel.com/content/www/us/en/privacy/corporate-privacy-rules-deed-poll.html).
+### What Security Measures Do We Have?
 
-Intel Corporation complies with the U.S.-EU and U.S.-Swiss Safe Harbor frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from the European Union and Switzerland. Intel has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. We will protect the information we receive in the U.S. from the EU and Switzerland in accordance with our Safe Harbor commitments. To learn more about the Safe Harbor Program, and to view Intel’s certification, please visit <http://www.export.gov/safeharbor>.
+We use administrative, organizational, technical, and physical safeguards to protect the Personal Information we collect and process. Our security controls are designed to maintain an appropriate level of data confidentiality, integrity, and availability. We regularly test our website, data centers, systems, and other assets for security vulnerabilities.
 
-**12\. CONTACT US**   
-If you have questions or concerns about Intel’s privacy practices, you can contact us by using the [Contact Us](http://www.intel.com/content/www/us/en/forms/privacy-contact-us.html) form or send a letter to the postal address listed below. Please include your contact information, name of the Intel Service or website, and a detailed description of your request or privacy concern.  
-Intel Corporation  
-ATTN: Privacy Office  
-M/S RNB4-145  
-2200 Mission College Blvd.  
-Santa Clara, CA 95054 USA
+McAfee handles payment card data in a manner consistent with the Payment Card Industry Data Security Standard (PCI-DSS). For example, when you make a payment on our website using your credit card, we use SSL encryption for transmission of the credit card number.
 
-**13\. SUPPLEMENTS AND ADDITIONAL NOTICES**
+### What Choices Do You Have About Your Personal Information? 
 
-Some Intel Services may have additional Notices about how such products and services process Personal Information. Please refer to the relevant Notice for the Intel Service you are using for additional information about how Intel processes Personal Information.
+We offer certain choices about how we communicate with our users and what Personal Information we obtain about them. Many McAfee products allow users to make choices about the Personal Information collected.
 
-The following privacy supplements, policies, notices, and statements (“Notice”) are incorporated by reference into the Intel Privacy Notice:
+  * You may choose not to receive marketing communications from us by clicking on the unsubscribe link or other instructions in our marketing emails, visiting the My Account section on our website, or contacting us as specified in the “Contact Us” section below.
+  * Many McAfee products contain settings that allow users or administrators to control how the products collect information. Please refer to the relevant product manual or contact us through the appropriate technical support channel  
+for assistance.
+  * To remove your Personal Information from a McAfee website testimonial, please contact customer service.
 
-  * [Intel Worldwide Candidate Privacy Policy](http://www.intel.com/content/www/us/en/privacy/worldwide-candidate-privacy-policy.html)
-  * [Intel Online Privacy Notice Supplement for Health-Related Data](http://www.intel.com/content/www/us/en/privacy/health-related-data-supplement.html)
-  * [Intel® Technology Provider Privacy Statement](http://www.intel.com/content/www/us/en/resellers/program-privacy-statement.html)
-  * [Intel® Active Management Technology: Privacy Statement](http://www.intel.com/technology/vpro/privacy/index.htm)
-  * [Security Products, Services, and Functionality Privacy Notice Supplement](https://web.archive.org/common/privacy/english/privacy-supplement.html)
-  * [Intel Cookie and Similar Technologies Notice](https://web.archive.org/common/privacy/english/index.htm#ht=tab3)
-  * [ Intel Security Privacy Notice Supplement for McAfee® Safe Family](https://web.archive.org/common/privacy/english/mcafee-safe-family-supplement.html)
 
 
+If you chose to no longer receive marketing information, McAfee may still communicate with you regarding such things as security updates, product functionality, responses to service requests, or other transactional, non-marketing/administrative related purposes.
 
-**14\. UPDATES TO THIS PRIVACY NOTICE**   
-We may change this Privacy Notice. The “ _Last Updated_ ” section at the top of this page states when this Privacy Notice was last revised. Any changes to this Privacy Notice will become effective when we post the revised Privacy Notice on the Intel Services. Your use of the Intel Services following these changes means that you accept the revised Privacy Notice.
+**How you can access and correct inaccuracies**
 
-If any change may materially and negatively affect the privacy of your personal information, we will use reasonable efforts to notify you in advance and give you a reasonable period of time to object to any changes.
+If you subscribe to McAfee products, you can access and correct the Personal Information in your profile by visiting My Account. Alternatively, you may request access or changes to, or removal of, your Personal Information in accordance with applicable laws by contacting us as indicated below. For some requests, an administrative fee may be charged (where permitted by law). We will advise you of any applicable fee prior to performing your request.
 
-We encourage you to periodically review this Privacy Notice to stay informed about how we collect, use, and share personal information.
+### Data Retention 
 
-## Intel Cookies and Similar Technologies Notice
+The time periods for which we retain your Personal Information depend on the purposes for which we use it. McAfee will keep your Personal Information for as long as you are a registered subscriber or user of our products or for as long as we have another business purpose to do so and, thereafter, for no longer than is required or permitted by law, or McAfee’s Records Retention Policy, reasonably necessary for internal reporting and reconciliation purposes, or to provide you with feedback or information you might request. The information we collect may be stored and processed in servers in the United States and wherever McAfee and our service providers have facilities around the globe.
 
-Our Sites (as defined below) use Cookies and Similar Technologies to ensure that we give our visitors the best possible experience by providing you personalized information, remembering your marketing and product preferences, and helping you obtain the right information. You can find out more about Cookies and Similar Technologies, how we use them, and [how to control them](https://web.archive.org/common/privacy/english/index.htm#ht=tab3) below.
+### Children’s Privacy
 
-**Use of Cookies and Similar Technologies**  
-This Notice describes how Intel, our partners, and our other third parties use Cookies and Similar Technologies (such as pixel tags, web beacons, clear GIFs, JavaScript, and local storage). We will refer to these Cookies and Similar Technologies simply as “Cookies” for the rest of Notice. We will also describe what options you may have regarding those Cookies. This Notice covers Intel’s use of Cookies that may be used in connection with the web sites (including mobile web sites and apps) owned and controlled by Intel (the “Sites”).
+Some of McAfee’s Services provide security features that may be used to monitor children’s activity online, physical location, or when they are using a registered device. McAfee does not knowingly collect Personal Information from children under the age of 13 without first obtaining parental consent in accordance with applicable laws like the Children’s Online Privacy Protection Act of the United States and similar laws around the world. For products that may be used with children, there are options for parents or legal guardians to delete their child’s profile at any time and at the parent or guardian’s option. We do not knowingly use Personal Information from children for any purpose except to deliver the products that are designed to offer family-related or child-related protection Services. If you believe we have collected information from your child in error or have questions or concerns about our practices relating to children, please notify us using the Contact Us details below and we will promptly respond.
 
-In some cases, we may use Cookies to collect information that is personally identifiable, or that can become personally identifiable if we combine it with other information. In such cases, the [Intel Privacy Notice](https://web.archive.org/common/privacy/english/index.htm#ht=tab2) will apply in addition to this Intel Notice.
+### Data Transfers 
 
-**What are Cookies and Similar Technologies?**  
-Cookies are small files—usually consisting of letters and numbers—placed on your computer, tablet, phone, or similar device, when you use that device to visit a web site. Cookies are widely used by web site owners to make their web sites operate, work more efficiently, and provide analytic information.
+McAfee is headquartered in the United States, and we have operations, entities, and service providers in the United States and throughout the world, including in India. As such, we and our service providers may transfer your personal information to, or access it in, jurisdictions that may not provide equivalent levels of data protection as your home jurisdiction. We will take steps to ensure that your personal information receives an adequate level of protection in the jurisdictions in which we process it. If you are located in the European Economic Area or Switzerland, we provide adequate protection for the transfer of Personal Information to countries outside of the EEA or Switzerland through a series of intercompany agreements based on the Standard Contractual Clauses authorized under the EU Data Protection Directive 95/46/EC.
 
-These are the different types of Cookies we and our service providers may use on our Sites:
+### Links to Other Websites 
 
-  * **Essential Cookies.**  These Cookies are required for the operation of our Sites (for example, to enable you to log into secure areas of our web site or use a shopping cart). These Cookies enable you to move around the Sites and use their features. Disabling these Cookies will encumber the Sites’ performance and may make the features and service unavailable. 
-  * **Analytics and Customization Cookies.**  These Cookies allow us to analyze activities on our Sites and on other sites where we post content in order to improve and optimize the way our Sites work. For example, we may use these types of Cookies to ensure that visitors can easily find the information they are looking for on our web sites. One way we do this is to recognize and count the number of visitors and see how they move around our web site when they are using it. Analytics cookies also help us measure the performance of our advertising campaigns in order to help us improve our advertising campaigns and to optimize our Sites’ content for those who engage with our advertising. 
-  * **Functionality Cookies**. These Cookies are used to recognize you when you return to our Sites. This enables us to personalize our content for you, greet you by name, and remember your preferences (for example, your choice of language or region).
-  * **Advertising Cookies.**  These Cookies record your online activities, including your visits to our Sites, the pages you have visited, and the links and advertisements you have clicked. One purpose of this is to help make the content displayed on our Sites more relevant to you. Another purpose is to allow us and our service providers to deliver advertisements or other communications to you that are designed to be more relevant to your apparent interests. When we and our service providers do so, this also involves partners such as publishers, data management platforms, and demand side platforms that help to manage the data. For example, if you look at one page on one of our Sites, we may cause an advertisement to be delivered to you, on our Sites or on other sites, for products referenced on that page or for similar products and services. We and our service providers and partners may also append other data to information collected by these Cookies, including information obtained from third parties, and share this information with third parties for the purpose of delivering ads to you.
+Our Site may contain links to other websites for your convenience and information. These websites may be operated by companies not affiliated with McAfee. Linked websites may have their own privacy policies or notices, which we strongly suggest you review if you visit those websites. We are not responsible for the content, privacy practices, or use of any websites that are not affiliated with McAfee.
 
+### Contact Us
 
+If you have questions or concerns regarding this Privacy Notice, or would like to update information we have about you or your preferences, please contact us by email at [privacy@mcafee.com](mailto:privacy@mcafee.com) or by one of the following additional methods:   
+In the United States by calling us at +1 866-622-3911 or by writing to us at:
 
-**How does Intel Collect and Use Other Information?**  
-We and our service providers may use Cookies for a variety of purposes, including to:
+Attn: Legal Department – Privacy Office,   
+5000 Headquarters Drive,   
+Plano TX 75024
 
-  * Help us and third parties obtain information about your visits to the Sites;
-  * Process your orders;
-  * Analyze your visiting patterns to improve our Sites;
-  * Deliver advertising, communications, and content from us and third parties, on our Sites and those of third parties, specific to your interests;
-  * Remember your language and other preferences;
-  * Help you obtain information you are looking for;
-  * Provide a safe and secure service for online transactions;
-  * Measure how many people use our Sites, and how they use them, to keep our Sites running efficiently and to better understand our Sites’ audiences.
-  * If you register on one of our Sites, or otherwise provide us with your personal information, we may associate that information with other information we collect from or about you or that you provide, information regarding your use of our Sites, or information we receive from or about you from third parties. We will use this combined data for marketing and analytics purposes.
+In the European Economic Area by calling us at +44 (0) 1753 217 500 or by writing to us at:
 
+227 Bath Road  
+Slough, Berkshire  
+SL1 5PP United Kingdom
 
+In Japan by calling us or by writing to us at:
 
-**How Long do Cookies Stay on My Device?**  
-Other Cookies operate from the time you visit an Intel service to the end of that particular web browsing session. These Cookies expire and are automatically deleted when you close your Internet browser. These Cookies are called “session” Cookies.
-
-Some Cookies will stay on your device between browsing sessions—they do not expire when you close your browser. These Cookies are called “persistent” Cookies. The length of time a persistent Cookie stays on your device varies from Cookie to Cookie. We and others use persistent Cookies for a variety of purposes, such as to store your preferences so that they are available for the next visit, and to keep a more accurate account of how often you visit our Sites, how often you return, how your use of the Sites may vary over time, and the effectiveness of advertising efforts.
-
-**Who Puts the Cookies on My Device?**  
-Cookies may be placed on your device by Intel as the Site operator. These Cookies are called “first party” Cookies. Some Cookies may be placed on your device by a party other than Intel. These Cookies are called “third party” Cookies. For example, an Intel partner may place a third party Cookie to enable online chat services.
-
-Cookies may also be used that allow us and third parties to know when you visit our Sites, and to understand how you interact with e-mails, advertisements, or other content. Through Cookies, aggregate and other information not identifying individual users (such as your operating system, browser version, and the URL you came from, including from e-mails and advertisements) may be obtained and used to enhance your experience and understand traffic patterns. This technology counts the number of users who visit a particular service from specific banner advertisements outside the Intel Site or who clicked on links or graphics included in e-mail newsletters received from Intel. It is also used as a tool to compile aggregated statistics about how Intel Sites are used, to perform analytics and help us to optimize our Sites, and to help serve you advertising based on your interests, as described in further detail below.
-
-**How does Intel Use Online and Mobile Advertising?**  
-We and third parties, including technology partners, and service providers engage in interest-based advertising to deliver advertisements and personalized content that we and other advertisers believe will be of interest to you. To the extent third party vendors are using Cookies to perform these services for Intel or others, Intel does not control the use of this technology or the resulting information, and is not responsible for any actions or policies of such third parties.
-
-Ads may be delivered to you based on your online or mobile behavior (on Intel Sites and non-Intel sites), your search activity, your responses to one of our advertisements or e-mails, the pages you visit, your general geographic location, or other information. These ads may appear on our Sites or on third party web sites. The technology partners with whom we work to help us conduct interest-based advertising may be members of self-regulatory associations such as the [Network Advertising Initiative (NAI)](http://www.networkadvertising.org/) and the [Digital Advertising Alliance (DAA)](http://www.aboutads.info/). For Sites directed at persons located in the European Union, we may work with technology partners who are members of the [European Digital Advertising Alliance (eDAA)](http://www.youronlinechoices.com/). You may also see advertisements for third parties on Intel Sites or other web sites or properties, based on your visits to, and activities on, Intel Sites and other sites.
-
-**How do I Manage Cookies?**
-
-You can decide whether or not to accept Cookies. One way you can do this is through your Internet browser’s settings. Most Internet browsers allow some control of most Cookies through the browser settings (Please note that if you use your browser settings to block all Cookies you may not be able to access parts of our web site.). The following web sites provide information on how to adjust the Cookies settings on some popular browsers:
-
-  * [Apple Safari*](https://support.apple.com/kb/PH19214?viewlocale=en_US&locale=en_US)
-  * [Google Chrome*](https://support.google.com/chrome/bin/answer.py?hl=en&answer=95647&p=cpn_cookies)
-  * [Microsoft Internet Explorer*](http://windows.microsoft.com/en-us/internet-explorer/delete-manage-cookies#ie=ie-11)
-  * [Mozilla Firefox*](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer)
-
-
-
-You can also use a browser plug-in such as [Ghostery](https://www.ghostery.com/en/our-solutions/ghostery-add-on/)* from Ghostery, Inc. or the [Tracking Protection List](http://tracking-protection.truste.com/)* from TRUSTe. (A browser plug-in is a piece of software which adds extra capabilities to your browser—for example, to play video or scan for viruses.)Adobe Flash Player* is software for viewing multimedia on a computer. Web sites that use Adobe Flash* may store flash cookies on user’s devices to remember settings, preferences, and usage similar to other types of Cookies. These flash Cookies may also be known as Flash Local Shared Objects (LSOs). Intel may use Flash LSOs to provide special content, such as video and animation playback. You can find a good summary of how to manage Flash LSOs at <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html>. 
-
-To find out more about interest-based advertising and your choices, visit these sites: [Digital Advertising Alliance](http://www.aboutads.info/choices/), the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp), and the [Interactive Advertising Bureau (IAB) Europe](http://youronlinechoices.com/). You can opt out of the use of Cookies to tailor content or advertising to you by visiting the following links. Note that if you choose to opt out, you won’t necessarily see fewer ads. However, the ads you see may be less relevant to your interests.
-
-  * <http://www.networkadvertising.org/managing/opt_out.asp>
-  * <http://www.aboutads.info/choices>
-
-
-
-**How does Intel respond to a Do Not Track signal?**  
-There is currently no industry agreed upon response to a Do Not Track signal. At this time, Intel Services and websites do not function differently based on a user’s Do Not Track signal. For more information on Do Not Track, see [All About Do Not Track](http://www.allaboutdnt.com/).
-
-**Privacy at Intel**  
-Intel is committed to privacy. For more information about Intel's approach to privacy see our [Intel Privacy Notice](https://web.archive.org/common/privacy/english/index.htm#ht=tab2) and the [Intel Code of Conduct](http://www.intel.com/content/www/us/en/corporate-responsibility/governance-and-ethics.html).
-
-**How to Contact Us**  
-If you have any questions about how Intel uses Cookies, you can contact Intel by using the [Contact Us](http://www.intel.com/content/www/us/en/forms/privacy-contact-us.html) form or send a letter to the mailing address below. Please include your contact information, the name of the Intel web site or service, and a detailed description of your request or Cookie concern.
-
-Intel Corporation  
-ATTN: Privacy  
-M/S RNB4-145  
-2200 Mission College Blvd.  
-Santa Clara, CA 95054 USA  
-This Notice updates and supersedes [previous versions](http://www.intel.com/content/www/us/en/privacy/intel-privacy-notice-archive.html). We may change this Notice at any time. The “LAST UPDATED” section at the bottom of this page lists when this Notice was last revised. Any changes to this Notice will become effective when we make the revised Notice available on or through the Sites.  
-LAST UPDATED: March 20, 2015
-
-Contact Intel by using the [Contact Us form](https://www-ssl.intel.com/content/www/us/en/forms/privacy-contact-us.html).
-
-## Mobile App Privacy Notice
-
-Effective November 18th, 2016, the following Mobile App Privacy Notice will apply to McAfee mobile apps.
-
-Intel Corporation, Intel Security and their group companies (" **we** ", " **us** " and " **our** ") respect your privacy. This privacy notice (" **App Privacy Notice** ") describes our privacy practices regarding the collection, use, and disclosure of your personal information through our mobile apps (our "app" or "apps"). 
-
-Other than as specifically set forth in this App Privacy Notice, we will treat your personal information as described in our Privacy Philosophy and our Privacy Notice, both available at <http://www.intel.com/privacy>. 
-
-**1\. What We Collect.**
-
-__Information you provide:__
-
-We may require that you register to use the apps. Registration may require personal information like your email address and name and information like a unique user name or password. In some cases, you may be able to sign in using your Google or Facebook account credentials which will then be used only for the purpose of account access and account management.
-
-The functionality of the apps may require some access to personal information in order to use the apps. This may include contact information such as your name, address, phone number and email address, unique log in credentials. The apps may also access unique numeric identifiers assigned to your device such as your mobile advertising ID/IDFA, Bluetooth device IDs and mobile device ID.
-
-Other types of information may also be collected by the apps such as:
-
-  * IDs of any Bluetooth devices connected to your mobile device 
-  * media such as photos and videos that you store or consent to give us access to
-  * device details such as OS, device ID and device type 
-  * list of other apps on your device and information about those applications
-  * your location 
-  * details of your McAfee product subscriptions such as  products used, registration data, product key and the like
-  * information on websites that you view and visit
-  * battery levels, on/off device status
-
-
-
-Access to some of the above information (such as your location) may be restricted by your mobile device's operating system, and your consent will be requested before we may access this information. It is your choice whether you wish to provide consent; however, if you do not provide consent, some functionality of the apps may be restricted.
-
-You may also have the opportunity to voluntarily provide additional information from time to time that is not required by the apps but may improve your experience.
-
-__Information we collect automatically from your device and apps__
-
-In addition to the above information, the apps automatically collect other device-related information and app performance data. This includes crash logs to assess application usability and performance, length of time spent on the apps and other aggregate or statistical information. Location data may be automatically collected, such as by GPS, for the purpose of providing certain features of the apps. This data is transmitted and stored separately from any personal information processed by the apps and contains no information that can reasonably be used to directly identify you.
-
-**2\. How We Use Your Information.**
-
-In addition to providing and improving the apps and related services, we use your personal information to communicate with you, including to send you notifications and alerts and for in-app advertising and marketing (in accordance with your marketing preferences), to respond to your requests (such as for technical support or customer service) and for research and analytics. In addition to the uses described in this Mobile App Privacy Notice, we may use your personal information as otherwise permitted by applicable law.
-
-Some apps may use information about the websites you visit and the apps installed on your device to show you more relevant ads. When we do this, we will provide you notice of these activities and the opportunity to opt out. 
-
-**3\. How We Share Your Information.**
-
-__Third party service providers and affiliated companies__
-
-We do not sell, rent or share information that identifies you personally like your name, email address, phone number, or address We may need to share the information we collect through the apps with third party service providers in order to support the apps, their features and their services, including customer services and technical support, and with our affiliated companies as described in this Mobile App Privacy Notice. 
-
-We may share the advertising identifier assigned to your device along with information about the websites you visit or the apps installed on your device with third party service providers so that they can use that information to help show you ads that are more likely to be relevant to your interests. This information does not identify you personally. 
-
-Some of our providers may use your information in a format that does not directly identify you for their own business purposes (such as to improve their own services). For example, they may track the number of customer support calls required before an issue is resolved in order to improve resolution time. Our contracts do not permit our third party service providers to use your personal information in ways that are inconsistent with this Mobile App Privacy Notice. 
-
-__Third party service provider terms__
-
-Some of our third party service providers may have additional terms and choices that apply to your information which we are required to make available to you as follows: 
-
-_Google Maps:_ If the app uses Google’s Maps API, it is governed by Google’s Privacy Policy available here: <http://www.google.com/policies/privacy>.  Certain Maps API(s) store and access cookies and other information on end user’s devices. 
-
-_The Facebook Audience Network:_ We are a member of the Facebook Audience Network.  This provides a way for companies to display their ads to Facebook users in apps and websites that are also part of the network. Facebook helps tailor the ads so that they are relevant and useful. You can use Facebook’s ad preferences tool to view, add and remove your preferences, including whether you receive these tailored ads, including in our apps.  We encourage you to review Facebook’s data policy and privacy basics at <https://www.facebook.com/about/privacy/>.  Ads in our apps may also include an Ad Choices opt-out icon so you can opt out directly from our app.
-
-__Other ways your personal information may be shared__
-
-Your personal information may also be used and shared in accordance with the Intel Security Privacy Notice available [here](http://www.intel.com/privacy), which includes sharing with law enforcement, government representatives or others if required by law, in connection with a sale purchase, merger or reorganization, or when we believe it is necessary to protect our rights, property, or safety, to comply with a judicial proceeding, court order, or legal process – such as evidence in litigation in which we are involved. In the case of a sale or purchase we will instruct the entities to which we transfer your personal information only to use it in a manner consistent with this Mobile App Privacy Notice.
-
-**4\. Your Choices.**
-
-You may request access to view, modify, update or remove the personal information that we have related to your use of the apps by sending a request to us at <http://www.mcafee.com/us/about/contact-us.aspx> or by contacting us using the details supplied in the "[Contact Us" section](http://www.mcafee.com/common/privacy/english/index.htm#contactus) below.  You can unsubscribe from our marketing-related messages at any time by following the unsubscribe instructions included within each marketing-related message sent to you or by using the details in the ["Contact Us" section](http://www.mcafee.com/common/privacy/english/index.htm#contactus). We will comply with requests within the time frames required by applicable law. Please note that if you choose not to receive marketing-related emails from us, we may still send you important administrative and transactional messages related to the apps and services (“service notifications”).
-
-You may have the option to limit the use of information about your device for purposes of serving ads that are targeted to your interests through your device settings (called “Limit Ad Tracking” on iOS devices and “Opt Out of Interest-Based Advertising” on Android devices).
-
-**5\. Security.   **
-
-We take reasonable technical, administrative and physical measures to protect the personal information provided, but you must understand that no app or Internet transmission can ever be guaranteed 100% secure. Where personal data collected is stored on your device, security is through your device’s own secure storage facilities. You should also take care to protect the secrecy of your account user name and password and to protect the personal information that is stored on your device.
-
-**6\. International Transfers.   **
-
-We are a U.S.-based, global company. As such, we may transfer, store and process your personal information in the United States (U.S.) or to any of our group companies worldwide when processing that information for the purposes described in this Mobile App Privacy Notice. We may also transfer your personal information to our third party service providers, who may be located in a different country to you. 
-
-Personal information shared by us from the European Economic Area and Switzerland is also subject to a set of binding corporate rules known as the Intel Corporate Privacy Rules (“Intel’s BCR”) which establish adequate protection of such personal information at participating Intel group companies. Intel's BCR can be accessed [here](http://www.intel.com/content/www/us/en/privacy/corporate-privacy-rules-deed-poll.html). All transfers shall be carried out in accordance with applicable laws, and your personal information will remain protected in accordance with this Mobile App Privacy Notice.
-
-**7\. Data Retention.**
-
-We retain account information, such as your name, account credentials and email for the lifetime of your account. However, if you are not an active user of the app (as determined by number of log in attempts) your account and all data will be deleted after a reasonable period of time. If your data is deleted, you may have to establish a new account to begin using the app again. in some products, data may be stored locally on your device as well as remotely on our (or our service provider's) systems. Generally, if you delete the apps on your device, any data stored locally on the device will be deleted; however, data on servers elsewhere may remain. You can request that we delete your personally identifiable information on our app servers by sending a written request to us as instructed in the [Contact Us section](http://www.mcafee.com/common/privacy/english/index.htm#contactus) below. Your request must provide your name, any app-specific user ID, email address and the name of any apps subject to your request. We will retain these communications for our record keeping purposes.
-
-**8\. Use of Services by Minors.**
-
-We comply with the Children’s Online Privacy Protection Act of the United States and similar laws around the world where applicable our products and services. We do not knowingly collect personal information from children without proper parental consent. If you believe that we may have improperly collected personal information from someone under the applicable age of consent in your country, please let us know using the methods described in the [Contact Us section](http://www.mcafee.com/common/privacy/english/index.htm#contactus) and we will take appropriate measures to investigate and address the issue promptly. 
-
-**9\. Notice to California Residents.   **
-
-Section 1798.83 of the California Civil Code requires us to tell you that we do not share your personal information with third parties for their direct marketing purposes.
-
-**10\. Updates to this Mobile App Privacy Notice**
-
-From time to time we may update this Mobile App Privacy Notice and/or the Intel Privacy Notice for legal, regulatory or business reasons. We will post any such updates to this App Privacy Notice along with the effective date of these updates within the app or on <http://www.mcafee.com/common/privacy/english/index.htm> as applicable. 
-
-If we make any material changes to the way we collect and use your personal information, then we will also take other reasonable measures to inform you (which may include contacting you by e-mail, if we hold your e-mail address). Where required by law, we will seek your affirmative consent to such material changes. 
-
-Except where prohibited by law, your continued use of the apps following such changes will confirm that you have read and understand the updated Mobile App Privacy Notice.
-
-**11\. Contact Us.   **
-
-If you have questions or concerns about our privacy practices, you can contact us at <http://www.mcafee.com/us/about/contact-us.aspx> or send a letter to the postal address listed below. To help us most effectively respond to your query, please include your contact information, name of the Service or website, and a detailed description of your request or privacy concern.
-
-Intel Corporation  
-ATTN: Privacy Office  
-M/S RNB4-145  
-2200 Mission College Blvd.  
-Santa Clara, CA 95054 USA
+Personal Information Protection Manager  
+McAfee Co. Ltd.   
+Shibuya Mark City West,   
+Dougenzaka 1-12-1,   
+Shibuya-ku,    
+Tokyo, 150-0043  
+Tel: (switchboard) 03-5428-1100
