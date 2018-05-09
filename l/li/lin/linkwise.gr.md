@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkwise.gr privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107031223id_/http%3A//linkwi.se/global-en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkwise.gr privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509101138id_/http%3A//linkwi.se/global-en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Linkwise
 
