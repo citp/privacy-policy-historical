@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the totaltools.com.au privacy policy that was archived on 2017-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170327113439id_/http%3A//www.totaltools.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totaltools.com.au privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509235851id_/https%3A//www.totaltools.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Total Tools
+# Total Tools Privacy Policy | Total Tools
 
 **PRIVACY POLICY**
 
-_Total Tools Importing Pty Ltd ABN 18 084 220 342 and its related entities as defined in the Corporations Act 2001 (Cth) (“Total Tools”) **** respect the privacy of individuals and treat your Personal Information with respect and integrity. This privacy policy (“Privacy Policy”) sets out the way in which Total Tools collects and handles your Personal Information and complies with the Privacy Act 1988 (Cth). Total Tools reserves the right to amend, at its sole discretion, this Privacy Policy without notice._ ****
+_Total Tools Importing Pty Ltd ABN 18 084 220 342 and its related entities as defined in the Corporations Act 2001 (Cth) (“Total Tools”) ** ** respect the privacy of individuals and treat your Personal Information with respect and integrity. This privacy policy (“Privacy Policy”) sets out the way in which Total Tools collects and handles your Personal Information and complies with the Privacy Act 1988 (Cth). Total Tools reserves the right to amend, at its sole discretion, this Privacy Policy without notice._ ****
 
-  1. ******Collection of Personal Information**
-
-
+**1.**   **Collection of Personal Information**
 
 1.1       Generally you can deal with Total Tools anonymously (i.e. without identifying yourself). However, by doing any of the following you consent to the collection of your Personal Information by Total Tools in accordance with this Privacy Policy:
 
@@ -44,9 +42,7 @@ _Total Tools Importing Pty Ltd ABN 18 084 220 342 and its related entities as de
 
 (g)        Any additional information provided to Total Tools, including any feedback, rating or comments made by you.
 
-  1. ******Use of Personal Information**
-
-
+**2\. Use of Personal Information**
 
 2.1       Total Tools uses the Personal Information for the purpose for which it was specified or reasonably apparent at the time when the Personal Information was collected. The Personal Information may be used in respect to the following:
 
@@ -66,9 +62,7 @@ _Total Tools Importing Pty Ltd ABN 18 084 220 342 and its related entities as de
 
 2.2       You may advise Total Tools if you do not wish to receive any promotional offers, marketing information or special events from Total Tools.
 
-  1. ******Disclosure of Personal Information**
-
-
+**3\. Disclosure of Personal Information**
 
 3.1       Where appropriate and required, Total Tools may disclose your Personal Information:
 
@@ -82,14 +76,9 @@ _Total Tools Importing Pty Ltd ABN 18 084 220 342 and its related entities as de
 
 3.2       Total Tools will not disclose Personal Information to overseas recipients.
 
-  
+**4\. Access to and Protection of Personal Information**
 
-
-  1. ******Access to and Protection of Personal Information**
-
-
-
-4.1       Subject to the _Privacy Act 1988_ (Cth), Total Tools provides you with access to your Personal Information upon your request.
+4.1       Subject to the  _Privacy Act 1988  _(Cth), Total Tools provides you with access to your Personal Information upon your request.
 
 4.2       Total Tools will take reasonable steps to ensure that your Personal Information is accurate, up to date and complete. However, Total Tools relies on you advising of any changes or inaccuracies of your Personal Information. Please advise Total Tools if you are of the view that any of your Personal Information requires updating or correcting.
 
@@ -97,10 +86,8 @@ _Total Tools Importing Pty Ltd ABN 18 084 220 342 and its related entities as de
 
 4.4       No data transmission over the internet can be guaranteed to be 100% secure. As a result, while Total Tools strives to protect your Personal Information, Total Tools cannot ensure or warrant the security of any information you transmit to Total Tools over the internet, and you do so at your own risk. Once Total Tools receives your transmission, Total Tools makes its best effort to try and ensure the information and Personal Information security both on Total Tools systems and while in transit between Total Tools’ systems and the companies who provide Total Tools with the various systems.
 
-  1. ******Complaints Procedure**
+**5\. Complaints Procedure**
 
+5.1       If you wish to make a complaint about a breach of the Privacy Policy or the  _Privacy Act 1988  _(Cth) by Total Tools, please lodge a complaint to the Total Tools privacy policy co-ordinator (“Co-ordinator”) at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) The Co-ordinator will investigate your complaint and determine how it can be resolved.
 
-
-5.1       If you wish to make a complaint about a breach of the Privacy Policy or the _Privacy Act 1988_ (Cth) by Total Tools, please lodge a complaint to the Total Tools privacy policy co-ordinator (“Co-ordinator”) at enquiries@totaltools.com.au. The Co-ordinator will investigate your complaint and determine how it can be resolved.
-
-5.2       Should you not be satisfied with the way your complaint was handled or determined, you may contact Total Tools or, alternatively, contact the Australian Information Commissioner via [www.oaic.gov.au](http://www.oaic.gov.au/).
+5.2       Should you not be satisfied with the way your complaint was handled or determined, you may contact Total Tools or, alternatively, contact the Australian Information Commissioner via [www.oaic.gov.au](https://www.oaic.gov.au/).
