@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futuremarketinsights.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629154930id_/http%3A//www.futuremarketinsights.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futuremarketinsights.com privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510181748id_/https%3A//www.futuremarketinsights.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Market Research and Consulting | Future Market Insights
 
