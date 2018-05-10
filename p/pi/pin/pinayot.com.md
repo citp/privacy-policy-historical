@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the pinayot.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003004521id_/https%3A//pinayot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinayot.com privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510070251id_/http%3A//pinayot.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Pinayot.com
+# Privacy Policy | Pinayot Pinay Sex Scandals Pinoy Porn Teen Filipina
 
 **Privacy Policy**
 
 This document details important information regarding the use and disclosure of User Data collected on Pinayot.com
 
-The security of your Data is very important to Pinayot.com and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused.
+The security of your Data is very important to [Pinayot](http://pinayot.com/) and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused.
 
 This site expressly and strictly limits its viewing privliges to adults 18 years of age and over or having attentaind the age of majotity in their community. All persons who do not meet this criteria are strictly forbiden from accessing or viewing the contents of this Site. We do not knowingly seek or collect any personal information or data from persons who have not attained the age of majority.
 
