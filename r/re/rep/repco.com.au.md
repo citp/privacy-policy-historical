@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the repco.com.au privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126221825id_/http%3A//repco.com.au/CA2571B70016E7AE/page/Listing-Footer%2BMenu-Privacy%3FOpenDocument%261%3D10-Listing%7E%262%3D0-Footer%2BMenu%7E%263%3D10-Privacy%7E) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the repco.com.au privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510075539id_/http%3A//www.repco.com.au/CA2571B70016E7AE/page/Listing-Footer%2BMenu-Privacy%3FOpenDocument%261%3D10-Listing%7E%262%3D0-Footer%2BMenu%7E%263%3D10-Privacy%7E) for the most accurate reproduction.*
 
 # - Privacy
 
