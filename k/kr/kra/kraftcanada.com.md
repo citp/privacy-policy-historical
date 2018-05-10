@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kraftcanada.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108154816id_/http%3A//www.kraftcanada.com/privacypromise) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kraftcanada.com privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510171852id_/http%3A//www.kraftcanada.com/privacypromise) for the most accurate reproduction.*
 
 # Privacy - Kraft Canada
 
