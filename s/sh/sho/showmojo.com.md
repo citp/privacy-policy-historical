@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the showmojo.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110005921id_/http%3A//web.showmojo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showmojo.com privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510165220id_/http%3A//web.showmojo.com/privacy) for the most accurate reproduction.*
 
 # Our Commitment To Privacy – ShowMojo
 
