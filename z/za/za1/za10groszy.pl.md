@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the za10groszy.pl privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226222026id_/http%3A//blogen.wellbid.com/2013/12/29/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the za10groszy.pl privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510055329id_/http%3A//blogen.wellbid.com/2013/12/29/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Blog Wellbid International
+# Blog Wellbid International
 
 Posted on 29 Dec 2013
 
