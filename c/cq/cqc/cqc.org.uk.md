@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cqc.org.uk privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204092923id_/http%3A//cqc.org.uk/about-us/our-policies/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cqc.org.uk privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510152302id_/http%3A//www.cqc.org.uk/about-us/our-policies/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement | Care Quality Commission
 
@@ -242,6 +242,6 @@ Telephone: 03000 616161
 
 Email: [information.access@cqc.org.uk](mailto:information.access@cqc.org.uk)
 
-CQC has not yet designated a Data Protection Officer under Article 37 of GDPR, but will do so by the time GDPR comes into force (May 2018), and will publish their details on this page.
+CQC’s Data Protection Officer (DPO) under Article 37 of the GDPR is Nimali De Silva, Head of Governance and Legal Services. The DPO’s role is to monitor and advise CQC on meeting its data protection responsibilities. The DPO can be contacted using the details above.
 
 CQC’s [Caldicott Guardian](https://www.gov.uk/government/groups/uk-caldicott-guardian-council) is Professor Ted Baker, Chief Inspector of Hospitals. He can be contacted using the details above.
