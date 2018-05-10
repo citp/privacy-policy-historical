@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myschoolapps.com privacy policy that was archived on 2017-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170807160450id_/https%3A//www.myschoolapps.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myschoolapps.com privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510234355id_/https%3A//www.myschoolapps.com/Home/Privacy) for the most accurate reproduction.*
 
 # MySchoolApps - Privacy Policy
 
