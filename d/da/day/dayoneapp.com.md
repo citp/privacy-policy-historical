@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dayoneapp.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225222534id_/http%3A//dayoneapp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dayoneapp.com privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510123755id_/http%3A//dayoneapp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Day One
 
