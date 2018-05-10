@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookcab.in privacy policy that was archived on 2017-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171016040858id_/http%3A//www.bookcab.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookcab.in privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510040157id_/http%3A//www.bookcab.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Customer Information | BookCab
 
