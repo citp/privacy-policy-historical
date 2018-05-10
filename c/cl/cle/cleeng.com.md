@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cleeng.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203190814id_/https%3A//cleeng.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleeng.com privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510140731id_/https%3A//cleeng.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
