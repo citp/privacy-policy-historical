@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2dollarwave.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107170514id_/http%3A//www.2dollarwave.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2dollarwave.com privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510072704id_/http%3A//www.2dollarwave.com/privacy.php) for the most accurate reproduction.*
 
 # 2DollarWave 2x5 Super Matrix
 
@@ -11,7 +11,7 @@
 2.We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.  
 3.We don’t store personal information on our servers unless required for the on-going operation of one of our services. 
 
-If you have questions about deleting or correcting your personal data please contact our [support team](https://web.archive.org/web/20171107170514id_/http%3A//contactus.php).
+If you have questions about deleting or correcting your personal data please contact our [support team](https://web.archive.org/web/20180510072704id_/http%3A//contactus.php).
 
 ### Website Visitors
 
@@ -51,9 +51,9 @@ Comments and other content submitted to our anti-spam service are not saved on o
 
 Although most changes are likely to be minor, 2DW may change its Privacy Policy from time to time, and in 2DW's sole discretion. 2DW encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-[](http://www.2dollarwave.com/trr.php?id=7)  
-[](http://www.2dollarwave.com/trr.php?id=6)  
+[](http://www.2dollarwave.com/trr.php?id=19)  
+[](http://www.2dollarwave.com/trr.php?id=1)  
 Please visit our sponsors below:   
-[](https://www.changer.com/?ref=kollege)  [](http://www.clixsense.com/?3306078)  [](http://pays4ever.com/?admin)  [](http://www.bitcoin4all.club/?profitshare)  [](https://qoinpro.com/b8891de32ac144130d0cd4a449408309)
+[](https://www.changer.com/?ref=kollege)  [](https://myrandompay.com/?profitshare)  [](http://pays4ever.com/?admin)  [](http://www.bitcoin4all.club/?profitshare)  [](https://fastcashfun.com/?profitshare)
 
-[](http://www.bitcoinincome.club/free.php)
+[](https://vereum.io/?r=20420)
