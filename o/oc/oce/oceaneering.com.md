@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oceaneering.com privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127070124id_/https%3A//www.oceaneering.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oceaneering.com privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510094249id_/http%3A//www.oceaneering.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Oceaneering : Oceaneering
+# Privacy Policy | Oceaneering
 
 ##### **1\. Our Commitment To Privacy and Restrictions on Use of Our Site**
 
