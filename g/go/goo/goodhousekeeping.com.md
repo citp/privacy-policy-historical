@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodhousekeeping.com privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829195716id_/http%3A//www.goodhousekeeping.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodhousekeeping.com privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511005721id_/https%3A//www.goodhousekeeping.com/about/a1632/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,7 +40,7 @@ Last revised on April 1, 2016
 
  **(f)  ** **Third Parties.  **We may receive information from third parties, including demographic information from your mobile carrier, and information from third parties that solicit subscriptions to our magazines. Those third parties have privacy policies that differ from this Privacy Policy.
 
- **(g)  ** **Tracking Requests.  **Hearst does not act on Do Not Track requests from your browser.  For more information [click here](http://www.goodhousekeeping.com/about/privacy-policy#tracking_requests).
+ **(g)  ** **Tracking Requests.  **Hearst does not act on Do Not Track requests from your browser.  For more information [click here](https://www.goodhousekeeping.com/about/a1632/privacy-policy/#tracking_requests).
 
 _
 
