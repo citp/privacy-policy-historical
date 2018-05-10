@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hillsdale.edu privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003090643id_/https%3A//www.hillsdale.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hillsdale.edu privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510033217id_/https%3A//www.hillsdale.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hillsdale College
 
