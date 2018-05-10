@@ -1,34 +1,53 @@
-> *The following text is extracted and transformed from the cafecafegames.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208064838id_/http%3A//www.cafecafegames.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cafecafegames.com privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510070409id_/http%3A//www.cafecafegames.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - CafeCafe Games
 
-**Personal Information**  
-CafeCafeGames.com does not attempt to collect any personal information.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [http://www.cafecafegames.com/contact-us](http://cafecafegames.com/contact-us "Contact Us").
 
-**Registration**  
-Registration is not required to enter CafeCafeGames.com.
+At cafecafegames.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by cafecafegames.com and how we use it.
 
-**Third Party Advertising**  
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>
+**Log Files**  
+Like many other Web sites, cafecafegames.com makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-**Third Party Cookies**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
+**Cookies and Web Beacons**  
+cafecafegames.com uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
 
-**Liability**  
-Related copyright organization or owner wants to remove any game. CafeCafeGames.com will immediately remove games in question.
+**DoubleClick DART Cookie**
 
-**Special Note About Google Advertising**
+→ Google, as a third party vendor, uses cookies to serve ads on cafecafegames.com.  
+→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to cafecafegames.com and other sites on the Internet.  
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
+**Our Advertising Partners**
 
-**Special Note On DoubleClick DART Cookie**
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
 
-Google, as a third party vendor, uses cookies to serve ads on our site.  
-Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet.  
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL <http://www.google.com/privacy_ads.html>
+  * Google
 
-**Copyright**  
-All rights reserved, CafeCafeGames.com © 2012. All games copyright to their respective owners.
 
-**Contact**  
-If you have any questions please contact us via [contact form](http://www.cafecafegames.com/contact.html)
+
+_Each of these advertising partners has their own Privacy Policy for their site, please read them as well if you have any enquiries.  
+You may consult this listing to find the privacy policy for each of the advertising partners of cafecafegames.com._
+
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on cafecafegames.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
+
+cafecafegames.com has no access to or control over these cookies that are used by third-party advertisers.
+
+**Third Party Privacy Policies**
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. cafecafegames.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+**Children’s Information**  
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. cafecafegames.com does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that cafecafegames.com has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
+
+**Online Privacy Policy Only**  
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.
+
+**Consent**  
+By using our website, you hereby consent to our privacy policy and agree to its terms.
+
+**Update**  
+This Privacy Policy was last updated on: Tuesday, March 6th, 2018.  
+_Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
