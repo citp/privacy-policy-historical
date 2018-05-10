@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gofreedownload.net privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105050220id_/http%3A//gofreedownload.net/index.php%3Fm%3DPrivacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gofreedownload.net privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510071204id_/http%3A//gofreedownload.net/index.php%3Fm%3DPrivacy_Policy) for the most accurate reproduction.*
 
 # Free Download Vector|PSD|Photos|Font|Footage|Website Templates|Photoshop Tools
 
