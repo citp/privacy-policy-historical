@@ -1,51 +1,83 @@
-> *The following text is extracted and transformed from the conceptronic.net privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107121327id_/http%3A//www.conceptronic.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conceptronic.net privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510025736id_/http%3A//www.conceptronic.net/privacy.php) for the most accurate reproduction.*
 
 # Conceptronic
 
-PRIVACY
+We (the company Digital Data Communications GmbH) take the protection of your personal data very seriously and strictly adhere to the rules of data protection laws. Personal information is only collected on this website where technically necessary. In no case will this information be sold or otherwise transferred to third parties. The following statement provides an overview of how we guarantee this protection, what kind of data is collected and for what purpose. 
 
-Sites covered by this statement
+1\. Data processing on this website 
 
-This online Privacy statement covers the collection and use of data on the Conceptronic website.
+Digital Data Communications GmbH automatically collects and saves logfile information in your server, which your browser transmits to us. Data collected include: 
 
-**Information Conceptronic collects  
-**Conceptronic collects two kinds of information; Personal Identifiable Information (Information that let us know the specifics of who you are) and Non-Personal Identifiable Information (information that does not by itself identify a specific individual).  
-Conceptronic collects Personal Identifiable Information (PII) when you use the website. It may e.g. include your name, home address, phone number, e-mail address, employer, and job title. Conceptronic request PII when you ask us to send you product information directly or to other people; in that case Conceptronic will collect information you submit about they recipient. It will be clear when you are on a part of the website that requires PII because Conceptronic will ask you for it. And you will have the choice about how Conceptronic uses that information.  
-The Non-Personal Identifiable Information (NPII) Conceptronic collects when you visit the website may include the Uniform Resource Locator (URL) of the website that you came from before visiting the Conceptronic website, your Internet Protocol (IP) address, and any search terms entered on the website.
+\- Browser type and version 
 
-**Why Conceptronic collects your information  
-**The purpose of collecting information is to provide you, the customer, superior service and a smooth, efficient, and personalized experience while using the website. PII we use to provide the requested information. NPII is used to analyze customer behavior to help Conceptronic understand how visitors use the website, to make the site easier to use and to customize our customer approach.
+\- Operating system 
 
-**How Conceptronic uses your information  
-**Conceptronic collects certain NPII when you visit the website or click on banner ads for Conceptronic products and services. Conceptronic collect this information to help run the website more efficiently, to gather demographic information, to monitor the level of activity on the website, and to evaluate effectiveness.  
-Conceptronic collects PII when you register your Conceptronic products online. Conceptronic keeps this information for reference in case you request customer service support.  
-Conceptronic may collect certain information when you request technical support for your Conceptronic products. This information is necessary to identify your systems, configuration and to diagnose your problem to provide a solution. Conceptronic collects PII from volunteers to complete surveys or participate in polls, to improve Conceptronic products and services. Conceptronic collects PI from customers when they enter promotional programs or to administer to activities, to send promotional e-mails, notify winners, and make winners’list publicly available pursuant.  
-Conceptronic collects PII when you ask for newsletters, promotional e-mails, and other information to provide to your request. When contacting us, Conceptronic may keep PII records of your correspondence, comments, in a file specific to your person.
+\- Referrer URL (the previously visited website)
 
-**Sharing your information  
-**Conceptronic does not sell, trade or rent the PII we collect online. Unless with your permission, Conceptronic share the PII you provide online only with other Conceptronic entities and/or business that provide services to Conceptronic and only for the purposes described above. Where Conceptronic engages third parties to perform services on behalf of Conceptronic, Conceptronic will require them to observe the intent of this Privacy statement.  
-If Conceptronic is required to provide PII in response to a court order, subpoena, or government investigation, Conceptronic will comply with the request. Conceptronic reserve the right to report to law enforcement agencies any activities Conceptronic believe is reasonably necessary to enforce or apply our Terms and Conditions to protect the rights, property, and safety of others and Conceptronic.  
-If Conceptronic or its related entities were to merge with or be acquired by another business entity, it is likely that all obligation and rights mentioned in this statement will lie on the then created parties.
+\- Host name of accessing computer (IP address)
 
-**Access and change your information  
-**Conceptronic try to ensure you that your information and preferences are accurate and complete. If you have registered your Conceptronic product or created personal profiles online, you may access and change your information by visiting the website where you submitted it.
+\- Time of the sever request.
 
-**The use of cookies on the site  
-**Conceptronic sends cookies (a small data file transferred by a website to a persons computer’s hard drive) when you surf on the website, respond to online surveys or polls, or request information. Accepting the cookies used on the website does not give Conceptronic access to your PII, but Conceptronic can use the cookies to identify your computer. The collected information permits Conceptronic to analyze traffic patterns on the website to enable Conceptronic to better your experience on the website by improving content and usability.
+Digital Data Communications GmbH cannot assign these data to specific individuals. These data is not combined with data from other sources. Moreover, after statistical analysis, data are deleted. 
 
-**The use of third-party media  
-**Conceptronic does not run third-party ads on the website. Conceptronic may use third-party media and research companies to place ads for Conceptronic on other parties’ websites.
+2\. Cookies 
 
-**Protecting your information  
-**Conceptronic is committed to protect the information you provide us. To prevent unauthorized access, maintain accuracy, and ensure proper use of information, Conceptronic have employed physical, electronic and managerial processes to safeguard and secure the information Conceptronic collects online.
+Websites use cookies in different places. Cookies serve to make our services more user-friendly, effective and secure. Cookies are small text files that are stored on your computer and saved by your browser. Most of the cookies we use are known as "session cookies". They are automatically deleted after your visit. Cookies do not harm your computer and do not contain viruses. 
 
-**Links to other sites  
-**Parts of the website contain links to other websites, for your convenience and information. When using these links, you will leave the Conceptronic website. When you access a non- Conceptronic website (even one with the Conceptronic -logo), please understand Conceptronic does not control the content and can be held not responsible for privacy or content practices of that site.
+3\. Use of Social Media Plugins 
 
-**Changes to this statement  
-**If there are changes or additions to the terms of this privacy statement Conceptronic will post those changes here so that you will always know what information Conceptronic collect online and how Conceptronic uses it. Please be sure to check this page before proceeding to use our site. Regardless of any changes Conceptronic makes to the privacy statement Conceptronic will always use your PII in accordance with the version of the statement at the time you provided your information.
+a) We are currently using the following social media plug-ins: Facebook, Twitter, Google+, Xing, T3N, LinkedIn, Flattr. We use the so-called two-click solution. This means that if you visit our site, initially no personal data will be passed on to the providers of these plug-ins. The provider of the plug-in can be identified by the marking on the greyed out box using the first letter. Only when you press one of the plug-ins, personal data will be transferred. By activating the plug-in, data is automatically transmitted to the respective plug-in provider and stored there (US providers in the USA). We have no influence on the data collected and processing operations; we are not aware of the full scope of data collection, purposes and retention periods. Since the plug-in provider carries out the data collection, in particular via cookies, we recommend you to delete all cookies before clicking on the grayed-out box via the security setting of your browser. 
 
-**Contact us  
-**If you have any questions or concerns about Conceptronic’ use of your information or about these privacy statements, please send e-mail to [info@conceptronic.net](mailto:info@conceptronic.net)
+b) Through the integration of a plug-in, the plug-in provider receives the information that you have accessed a specific page of our online offer. Furthermore, the following data are transmitted (IP address, date and time of the request, time zone difference to the Greenwich Meantime, content of the request (concrete page), access status / http status code, amount of data transferred, request source website, browser, Operating system and interface, language and version of the browser software). When using Facebook and Xing, according to the provider in Germany, only anonymized IP addresses are loaded. This is done whether or not you have an account with this plug-in provider or you are logged in. If you are logged in to the plug-in provider, these data will be assigned directly to your account. When activating the Activated Button and link the page, for example, the plug-in provider also stores this information in your user account and communicates this to your contacts in public. If you do not want to have the assignment in your profile with the plug-in provider, you must log out before activating the button. 
 
-Corporate Policy (Legal Notice)
+c) The plug-in provider stores these data as user profiles and uses them for purposes of advertising, market research and / or the customized design of its site. Such evaluation is also made for users who are not logged in, to display customized advertising and to inform other users of the social network about activities on our website. You have a right to object to the creation of these user profiles. You must contact the respective plug-in provider to exercise this right. 
+
+d) For more information on the purpose and extent of the data collection and its processing by the plug-in provider, please refer to the privacy statements of these providers provided below. Here you will also find further information on your rights and settings options for protecting your privacy. Addresses of the respective provider and URL with their privacy notices: 
+
+\- Facebook Inc., 1601 S California Avenue, Palo Alto, California 94304, USA; https://www.facebook.com/policy.php and http://www.facebook.com/about/privacy/your-info-on-other#applications
+
+\- Twitter Inc., 1355 Market St., Suite 900, San Francisco, California 94103, USA; https://twitter.com/privacy 
+
+\- Google Inc., 1600 Amphitheater Parkway, Mountainview, California 94043, USA; https://www.google.com/policies/privacy/partners/?hl=de 
+
+\- Xing AG, Dammtorstrasse 30 20354 Hamburg, DE; http://www.xing.com/privacy 
+
+\- T3N, yeebase media GmbH, Kriegerstr. 40, 30161 Hanover, Germany; https://t3n.de/store/page/datenschutz 
+
+\- LinkedIn Corporation, 2029 Stierlin Court, Mountain View, California 94043, United States; http://www.linkedin.com/legal/privacy-policy 
+
+\- Flattr Network Ltd. Based in 2nd Floor, White bear yard 114A, Clerkenwell Road, London, Middlesex, England, EC1R 5DF, United Kingdom; https://www.flattr.com/privacy 
+
+e) Third Parties Services inclusion
+
+We have included YouTube videos in our online offering, which are stored on http://www.YouTube.com and are directly playable from our website. These are all integrated in the "Extended Privacy Mode", ie no data about you as user are transferred to Youtube if you do not play the videos. Furthermore, the following data are transferred: IP address, date and time of the request, time zone difference to the Greenwich Meantime, content of the request (concrete page), access status / http status code, amount of data transferred, request source website, browser, Operating system and interface, language and version of the browser software. We have no influence on this data transfer. 
+
+4\. Newsletter
+
+If you wish to subscribe to our newsletter, we need your e-mail address and the confirmation that you are the owner of the given e-mail address and that you agree to receive the newsletter. This information is collected for the sole purpose of being able to send the newsletter to you and to document our permission to send it. Your data will not be disclosed to third parties. The order of the newsletter and your consent to store the e-mail.- Address can be revoked at any time. 
+
+5\. Web Portal and Web Shop
+
+If you want to use our portal and web shop, you need to register. You need to provide the mandatory information, for registration purposes. Optional information is voluntary. The terms of use and requirements for registration as dealer and as certified reseller can be found in the General Terms and Conditions. When creating an account below**, your stored data will be revocably saved. You can always delete the account in the customer area. Moreover, we set a personal username and password: your username and password will ensure that you have sole access to your profile - therefore, you should never make your password available to any third party. Your password can not be seen by us, it is stored in an encrypted form in a database.
+
+If you use our portal, we store your data necessary for the fulfillment of the contract, as well as information about payment method. Furthermore, we will store the optional data provided by you for the time you use the portal, unless you delete them before. 
+
+In order to prevent unauthorized access by third parties to your personal data, in particular financial data, the ordering process is encrypted using SSL technology.
+
+6\. Contact form
+
+When dealing with requests done via the contact form, we only collect the data necessary to process your request. Specification of further data is voluntary. The data will only be used to process your request and will not be shared with third parties. Data entered via the contact form will not be used for promotional purposes. After processing your request your data will be deleted. You can revoke your consent of processing your data at any time via the address provided in the imprint.
+
+7\. Google Maps
+
+This website uses the product Google Maps by Google Inc. Hereto, corresponding map content is retrieved from the servers of Google. By using Google Maps, information about your use of the website (including the IP address) may be transmitted and stored to a Google server in the United States. **We reference to the privacy notices of Google (http://www.google.de/intl/de/policies/privacy/) and the terms of use of Google Maps (https://www.google.com/intl/de_de/help /terms_maps.html).
+
+8\. Right to information 
+
+You have, at any time, the right to obtain information of the stored data concerning your person, including source and recipients of the data, as well as the purpose of data processing. Please direct your request in writing or by e-mail to our above address, or to our data protection officer at datenschutz@agad.de.
+
+9\. Additional Information
+
+Your trust is important to us. This means we are happy to talk to you at any time and to answer questions regarding the processing of your personal data. If you have any questions that could not be answered by this privacy policy, or if you want more in-depth information on a point, please contact the data protection officer at datenschutz@agad.de at any time. 
+
+This Privacy Policy applies exclusively to content on our servers and does not include the websites linked to our site. 
