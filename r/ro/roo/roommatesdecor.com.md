@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roommatesdecor.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205111221id_/http%3A//roommatesdecor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roommatesdecor.com privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510170633id_/http%3A//roommatesdecor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RoomMates
 
