@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoutwiki.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607125911id_/http%3A//www.shoutwiki.com/wiki/Privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoutwiki.com privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510174249id_/http%3A//www.shoutwiki.com/wiki/Privacy_policy) for the most accurate reproduction.*
 
 # ShoutWiki Hub:Privacy Policy - ShoutWiki Hub
 
