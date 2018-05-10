@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsaffinity.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108052718id_/http%3A//www.affinity-sports.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsaffinity.com privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510092849id_/http%3A//www.affinity-sports.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Affinity Sports
 
@@ -8,7 +8,7 @@ Updated and Effective as of February 22, 2017
 
 DICK’S Sporting Goods, Inc. and its [**_Family of Businesses_**](http://www.dickssportinggoods.com/shop/index.jsp?categoryId=18379836&ab=PrivacyPolicy_FamilyOfBusinesses) ** _,_** including Affinity Sports (collectively, “ _DICK’S_ “, “ _us_ ”, “ _our_ ” or “ _we_ ”) provide this privacy policy (this “ _Policy_ “) to inform you of: (1) the types of information we collect; (2) your choices surrounding such information; and (3) how we collect, use, share, update and secure such information. This Policy applies to information obtained in connection with DICK’S operations at or through our websites, our mobile/tablet sites, our social media presence, our applications, our registration and event services, our messaging platforms, our stores, our kiosks, and other DICK’S owned or controlled digital and omni-channel properties that link to this Policy (collectively, our “ _Website_ ”). Emails, social media, marketing campaigns and digital and online advertising are referred to collectively as, our “ _Internet Marketing Channels._ ”
 
-This Policy does not create a contractual obligation between you and DICK’S, and it is subject to our [**_Terms of Use_**](http://www.dickssportinggoods.com/helpdesk/index.jsp?display=safety&subdisplay=terms&ab=HelpDesk_Security_Terms). If you have questions about this Policy, please contact us by using the “Contact Customer Service” link below.
+This Policy does not create a contractual obligation between you and DICK’S, and it is subject to our [**_Terms of Use_**](http://www.affinity-sports.com/terms-of-use/). If you have questions about this Policy, please contact us by using the “Contact Customer Service” link below.
 
 **I.   _Information Collected_**
 
