@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the selina18.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214044106id_/http%3A//www.selina18.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selina18.com privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510142156id_/http%3A//www.selina18.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy
+# Selina 18 : Barely Legal Teen Sex and Porn
 
 Privacy Policy   
 
