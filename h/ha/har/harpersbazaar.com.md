@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harpersbazaar.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221020021id_/http%3A//www.harpersbazaar.com/about/a160/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harpersbazaar.com privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510204926id_/https%3A//www.harpersbazaar.com/about/a160/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ Last revised on April 1, 2016
 
  **(a)  **This privacy policy describes how Hearst Communications, Inc. and its Affiliates (collectively, " **Hearst** ") treat the Personally Identifiable Information that is collected about you when you visit the web sites, mobile-optimized versions of the web sites, and digital applications to which this policy is linked (collectively, " **Covered Sites** "). For the purposes of this policy, an entity controlling, controlled by, or under common control with another entity shall be deemed to be an "Affiliate", where control means ownership of 15% or more of the voting stock or other ownership interests. For the purposes of this policy, " **Personally Identifiable Information** " is information that we can use to identify or contact you as an individual, and includes your name, email address, address, telephone number and any other information that we associate with any of the foregoing. By submitting Personally Identifiable Information through any of our Covered Sites, you agree to the terms of this privacy policy and you expressly consent to the collection, use and disclosure of your Personally Identifiable Information in accordance with this privacy policy.
 
-**(b)  **This privacy policy does not apply to information collected about you by anyone except Hearst and only applies to the Covered Sites (defined above). This privacy policy does not apply to Hearst websites which are  _not_  linked to this policy and does not apply to non-Hearst websites, including those linked to or advertised on a Covered Site.  Any information you provide when you visit websites other than those covered by this policy will be subject to the privacy policies posted on those sites.
+ **(b)  **This privacy policy does not apply to information collected about you by anyone except Hearst and only applies to the Covered Sites (defined above). This privacy policy does not apply to Hearst websites which are  _not_  linked to this policy and does not apply to non-Hearst websites, including those linked to or advertised on a Covered Site.  Any information you provide when you visit websites other than those covered by this policy will be subject to the privacy policies posted on those sites.
 
  **(c)  **We may offer our Magazines through certain third party websites via a subscription page on such third party websites that is linked to this policy. For the avoidance of doubt, such subscription page is a "Covered Site" and this policy applies to information collected through the subscription page, but does not apply to information collected through the third party website.
 
@@ -40,7 +40,7 @@ Last revised on April 1, 2016
 
  **(f)  ** **Third Parties.  **We may receive information from third parties, including demographic information from your mobile carrier, and information from third parties that solicit subscriptions to our magazines. Those third parties have privacy policies that differ from this Privacy Policy.
 
- **(g)  ** **Tracking Requests.  **Hearst does not act on Do Not Track requests from your browser.  For more information [click here](http://www.harpersbazaar.com/about/privacy-policy#tracking_requests).
+ **(g)  ** **Tracking Requests.  **Hearst does not act on Do Not Track requests from your browser.  For more information [click here](https://www.harpersbazaar.com/about/privacy-policy#tracking_requests).
 
 _
 
