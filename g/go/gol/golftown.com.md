@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the golftown.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110210814id_/http%3A//www.golftown.com/CustomerSupport.aspx%3Fsection%3Dprivacysecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golftown.com privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510164856id_/http%3A//www.golftown.com/CustomerSupport.aspx%3Fsection%3Dprivacysecurity) for the most accurate reproduction.*
 
 # Customer Support @ Golf Town Limited
 
