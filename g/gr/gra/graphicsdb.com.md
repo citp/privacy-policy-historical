@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graphicsdb.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107215540id_/http%3A//www.graphicsdb.com/pages/legal.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphicsdb.com privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510233325id_/http%3A//www.graphicsdb.com/pages/legal.html) for the most accurate reproduction.*
 
 # Terms of Service, DMCA, Privacy Policy
 
@@ -14,9 +14,9 @@ This policy is intended to implement the procedures set forth in 17 U.S.C. Secti
 Designated Agent  
 The Company's Designated Agent to receive notification of alleged infringement under the DMCA is:  
 Copyright Act / LayoutSource.net  
-layoutsource@gmail.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
-Email: layoutsource@gmail.com (this email address is only for copyright infringement claims - you will not receive a reply if the matter is not a copyright issue)  
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) (this email address is only for copyright infringement claims - you will not receive a reply if the matter is not a copyright issue)  
 Upon receipt of proper notification of claimed infringement, Company will follow the procedures outlined herein and in the DMCA.
 
 Complaint Notice Procedures for Copyright Owners
@@ -107,7 +107,7 @@ Your personal information is password-protected, and you should take appropriate
 We maintain archives of our web logs, database, and other systems and information. Please note that it is possible some of this information may remain archived after we delete the information from its active database (see above regarding web logs). We maintain archives for disaster recovery, legal and other non-marketing purposes.
 
 **Contact**  
-Please address comments or questions regarding this Privacy Policy to us as follows: layoutsource@gmail.com
+Please address comments or questions regarding this Privacy Policy to us as follows: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **Binding Agreement**  
 Your use of our site, including any dispute concerning privacy, is subject to this Privacy Policy and our Terms of Use. By using our Site, you are accepting the practices set out in this Privacy Policy and our Terms of Use. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date at the bottom of this page to determine if the statement has been modified since you last reviewed it. Your continued use of any portion of our Site following posting of the updated Privacy Policy will constitute your acceptance of the changes. 
