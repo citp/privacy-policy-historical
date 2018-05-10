@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shrinktheweb.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184715id_/https%3A//shrinktheweb.com/content/shrinktheweb-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shrinktheweb.com privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510225736id_/http%3A//www.shrinktheweb.com/content/shrinktheweb-privacy-policy.html) for the most accurate reproduction.*
 
 # ShrinkTheWeb Privacy Policy
 
