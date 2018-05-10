@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metalheadzone.com privacy policy that was archived on 2017-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170819104228id_/http%3A//metalheadzone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metalheadzone.com privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510082642id_/https%3A//metalheadzone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Metalhead Zone
 
