@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the senecacollege.ca privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110134117id_/http%3A//www.senecacollege.ca/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the senecacollege.ca privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510171802id_/http%3A//www.senecacollege.ca/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Notice - Seneca - Toronto, Canada
 
