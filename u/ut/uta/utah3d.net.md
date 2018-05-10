@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the utah3d.net privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110141613id_/http%3A//www.utah3d.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utah3d.net privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510174304id_/http%3A//www.utah3d.net/privacy.html) for the most accurate reproduction.*
 
 # Travel Scenic Utah In 3D Panoramas | Utah3D.Net | Privacy Policy | Utah3d.net
 
 WILDERNESS PHOTOGRAPHER, MARTIN VAN HEMERT • PRIVACY POLICY
 
-[](https://web.archive.org/web/20171110141613id_/http%3A//www.utah3d.net/index.html)
+[](https://web.archive.org/web/20180510174304id_/http%3A//www.utah3d.net/index.html)
 
 [ ](https://plus.google.com/u/0/114394315801460897211?prsrc=3)
 
@@ -12,7 +12,7 @@ WILDERNESS PHOTOGRAPHER, MARTIN VAN HEMERT • PRIVACY POLICY
 
 [PRIVACY POLICY
 
-](https://web.archive.org/web/20171110141613id_/http%3A//www.utah3d.net/privacy.html)
+](https://web.archive.org/web/20180510174304id_/http%3A//www.utah3d.net/privacy.html)
 
 [](http://instagram.com/utah3d?ref=badge)
 
@@ -38,4 +38,4 @@ Privacy Policy
 
 ©2011, Martin van Hemert - All rights reserved.
 
-[](https://web.archive.org/web/20171110141613id_/http%3A//www.utah3d.net/privacy.html#topofpage)
+[](https://web.archive.org/web/20180510174304id_/http%3A//www.utah3d.net/privacy.html#topofpage)
