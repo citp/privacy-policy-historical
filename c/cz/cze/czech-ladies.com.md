@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the czech-ladies.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201053716id_/http%3A//www.czech-ladies.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the czech-ladies.com privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510181554id_/http%3A//www.czech-ladies.com/privacy.html) for the most accurate reproduction.*
 
 # Czech ladies -
 
 **Effective Date: 29.06.2012**
 
-Services on the Czech Ladies Website ([www.czech-ladies.com](http://www.czech-ladies.com/index.php)) (the “Website”) are provided by Dot Com Productions LLC (“Us” or We”) We have created this privacy policy in order to demonstrate our firm commitment to privacy. This Privacy Policy is designed to answer your questions regarding our privacy policies and principles. 
+Services on the Czech Ladies Website ([www.czech-ladies.com](https://web.archive.org/)) (the “Website”) are provided by Dot Com Productions LLC (“Us” or We”) We have created this privacy policy in order to demonstrate our firm commitment to privacy. This Privacy Policy is designed to answer your questions regarding our privacy policies and principles.
 
 ## Age of Users
 
@@ -21,15 +21,20 @@ When you browse the Website We do not require any personal information from you 
 When you submit your profile on our site, participate in a forum, or process an order, you consent to the collection, transfer and storage of the following personally identifiable information to our servers located in the United States, United Kingdom, and Germany:
 
   * email address, physical contact information, and (depending on the services used) sometimes financial information, such as credit card or bank account numbers;
-  *   * your personal information that you choose to disclose on your profile;
-  *   * transactional information based on your activities on the Website (such as a list of members you contact);
-  *   * billing and other information you provide to receive information and messages from Us;
-  *   * community discussions, chats, correspondence through the Website, and correspondence sent to Us;
-  *   * computer sign-on data, statistics on page views, traffic to and from the Website, and advertisement data; and
-  *   * other information, including IP address and standard web log information.
+  *  
+  * your personal information that you choose to disclose on your profile;
+  *  
+  * transactional information based on your activities on the Website (such as a list of members you contact);
+  *  
+  * billing and other information you provide to receive information and messages from Us;
+  *  
+  * community discussions, chats, correspondence through the Website, and correspondence sent to Us;
+  *  
+  * computer sign-on data, statistics on page views, traffic to and from the Website, and advertisement data; and
+  *  
+  * other information, including IP address and standard web log information.
 
-  
-
+ 
 
 ## International Users
 
@@ -44,9 +49,6 @@ We DO NOT sell or rent any personally identifiable information about you to any 
 The Website has security measures in place to prevent the loss, misuse and alteration of the information under our control. We have a secure ordering process.
 
 When our order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software available in the industry - SSL. While on a secure page, such as our order and order confirmation forms, the lock icon on the bottom of Web browsers such as Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing' (in non-secure mode).
-
-  
-
 
 The security and confidentiality of your personally identifiable information is extremely important to Us.  Technical, administrative, and physical security measures are used to protect customer information from unauthorized access and improper use.  From time to time, We review security procedures to consider appropriate new technology and methods.  Please be aware that, despite best efforts, no security measures are perfect or completely impenetrable.
 
@@ -74,7 +76,7 @@ This Privacy Policy applies to any use and sharing of personally identifiable in
 
 The Website enables you to exchange messages and share personal information in order to communicate with other members. We cannot guarantee the privacy or security of your information which you voluntarily disclose to other members. To help protect your privacy, we do not allow other users to access your personal contact information. To prevent unsolicited messages, illegal schemes such as soliciting money, and message content violating our policies, we reserve the right to monitor the correspondence that is going through our servers, and prevent certain messages from reaching their recipients as well as edit message content. We also reserve the right to monitor and review your personal profile and suspend or remove profiles which violate our policies.  Profiles submitted in a language other than English may be translated into English by us. If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses.
 
-## General 
+## General
 
 We may amend this Privacy Policy at any time.  If any material changes are made in the way that personally identifiable information is collected, used and/or shared, you will be notified by sending you an email at the last email address that you provided to Us, and/or by prominently posting notice of the changes on the Website.  Any material changes to this Privacy Policy will be effective upon the earlier of thirty (30) calendar days following the dispatch of an email notice to you or thirty (30) calendar days following the posting of notice of the changes on the web sites covered by this Privacy Policy.  Please note that at all times you are responsible for updating your personal information to provide Us with your current email address.  If your last email address provided is not valid, or for any other reason is not capable of delivering to you the above described notice, dispatch of the email containing such notice will nevertheless constitute effective notice of the changes described in the notice.  Changes to this Privacy Policy may affect the use, by Us, of personally identifiable information provided by you before being notified of the changes.  If you do not wish to allow changes in the use of your information, you must notify Us before the effective date of the changes that you wish to deactivate your account with Us.
 
