@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teamsideline.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607180016id_/http%3A//go.teamsideline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamsideline.com privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511104405id_/http%3A//go.teamsideline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Sports League Management – TeamSideline.com
+# Privacy Policy – Sports League Management – TeamSideline.com
 
 ## 1\. Completely IT Respects Your Privacy
 
@@ -40,7 +40,7 @@ We value your opinions. If you have comments or questions about our privacy stat
 
 Completely IT  
 Privacy Mailbox  
-P.O. Box 3081  
-Rocklin, CA 95677
+915 Highland Pointe Dr #250  
+Roseville, CA 95678
 
-_Rev. March 2010_
+_Rev.  August 2017_
