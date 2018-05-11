@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brokebackasians.com privacy policy that was archived on 2017-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171016000707id_/http%3A//brokebackasians.com/bba_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brokebackasians.com privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511051419id_/http%3A//brokebackasians.com/bba_privacy.html) for the most accurate reproduction.*
 
 # BrokeBackAsians.com - Privacy Policy
 
@@ -50,4 +50,4 @@ By using our site, you consent to our on-line privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page.
 
-Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/web/20171016000707id_/http%3A//brokebackasians.com/contact.php). 
+Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/web/20180511051419id_/http%3A//brokebackasians.com/contact.php). 
