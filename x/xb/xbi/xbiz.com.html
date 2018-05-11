@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the xbiz.com privacy policy that was archived on 2017-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171120173814id_/http%3A//www.xbiz.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the xbiz.com privacy policy that was archived on 2018-05-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180511221552id_/http%3A//www.xbiz.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<meta charset="utf-8">
@@ -23,6 +23,7 @@ true for &quot;http://www.xbiz.com&quot; r (n 0 s 0 v 0 l 0))">
 
 	<link media="all" rel="stylesheet" href="/static/css/main.css">
 	<link rel="stylesheet" href="/static/css/theme.css">
+	<link rel="stylesheet" href="/static/jquery-ui-1.12.1.custom/jquery-ui.min.css">
 	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 	<script type="text/javascript">window.jQuery || document.write('<script src="/static/js/jquery-1.12.4.min.js" ><\/script>')</script><script src="/static/js/jquery-1.12.4.min.js"></script>
 
@@ -35,13 +36,29 @@ true for &quot;http://www.xbiz.com&quot; r (n 0 s 0 v 0 l 0))">
 	<link rel="shortcut icon" href="/static/favicon.ico">
 	<meta name="msapplication-config" content="/static/browserconfig.xml">
 
+    <script type="application/ld+json">
+    { "@context" : "http://schema.org",
+      "@type" : "Organization",
+      "name" : "XBIZ",
+      "url" : "https://www.xbiz.com",
+      "logo" : "https://www.xbiz.com/static/images/logo.png",
+      "founder" : "Alec Helmy",
+      "sameAs" : ["https://en.wikipedia.org/wiki/XBIZ","https://twitter.com/xbiz","https://www.facebook.com/xbiznews","https://www.instagram.com/xbizofficial/"]
+    }
+    </script>
+
 </head>
 <body>
 
   <div id="wrapper">
     <div class="w1">
 
-      <header id="header">
+      
+
+
+
+
+<header id="header">
   <div class="header-holder">
     <nav id="nav">
       <a href="#" class="nav-opener">
@@ -167,7 +184,7 @@ true for &quot;http://www.xbiz.com&quot; r (n 0 s 0 v 0 l 0))">
         <div class="search-drop">
           <form class="search-form form-validation" method="get" action="/search">
             <fieldset>
-              <input type="search" id="search" name="q" placeholder="Search" value="" data-required="true">
+              <input type="search" id="search" name="q" placeholder="" minlength="3" value="" data-required="true">
             </fieldset>
           </form>
         </div>
@@ -189,11 +206,11 @@ true for &quot;http://www.xbiz.com&quot; r (n 0 s 0 v 0 l 0))">
   </div>
 </header>
 
-      <script type="text/javascript">!function(t){function e(i){if(n[i])return n[i].exports;var o=n[i]={i:i,l:!1,exports:{}};return t[i].call(o.exports,o,o.exports,e),o.l=!0,o.exports}var n={};e.m=t,e.c=n,e.i=function(t){return t},e.d=function(t,n,i){e.o(t,n)||Object.defineProperty(t,n,{configurable:!1,enumerable:!0,get:i})},e.n=function(t){var n=t&&t.__esModule?function(){return t.default}:function(){return t};return e.d(n,"a",n),n},e.o=function(t,e){return Object.prototype.hasOwnProperty.call(t,e)},e.p="",e(e.s=5)}({0:function(t,e){!function(t){function e(e){this.options=t.extend({container:null,hideOnClickOutside:!1,menuActiveClass:"nav-active",menuOpener:".nav-opener",menuDrop:".nav-drop",toggleEvent:"click",outsideClickEvent:"click touchstart pointerdown MSPointerDown"},e),this.initStructure(),this.attachEvents()}e.prototype={initStructure:function(){this.page=t("html"),this.container=t(this.options.container),this.opener=this.container.find(this.options.menuOpener),this.drop=this.container.find(this.options.menuDrop)},attachEvents:function(){var e=this;n&&(n(),n=null),this.outsideClickHandler=function(n){if(e.isOpened()){var i=t(n.target);i.closest(e.opener).length||i.closest(e.drop).length||e.hide()}},this.openerClickHandler=function(t){t.preventDefault(),e.toggle()},this.opener.on(this.options.toggleEvent,this.openerClickHandler)},isOpened:function(){return this.container.hasClass(this.options.menuActiveClass)},show:function(){this.container.addClass(this.options.menuActiveClass),this.options.hideOnClickOutside&&this.page.on(this.options.outsideClickEvent,this.outsideClickHandler)},hide:function(){this.container.removeClass(this.options.menuActiveClass),this.options.hideOnClickOutside&&this.page.off(this.options.outsideClickEvent,this.outsideClickHandler)},toggle:function(){this.isOpened()?this.hide():this.show()},destroy:function(){this.container.removeClass(this.options.menuActiveClass),this.opener.off(this.options.toggleEvent,this.clickHandler),this.page.off(this.options.outsideClickEvent,this.outsideClickHandler)}};var n=function(){var e,n,i=t(window),o=t("html"),s=function(){e=!1,o.removeClass("resize-active")},r=function(){e||(e=!0,o.addClass("resize-active")),clearTimeout(n),n=setTimeout(s,500)};i.on("resize orientationchange",r)};t.fn.mobileNav=function(n){return this.each(function(){var i=t.extend({},n,{container:this}),o=new e(i);t.data(this,"MobileNav",o)})}}(jQuery),function(){jQuery("body").mobileNav({hideOnClickOutside:!0,menuActiveClass:"nav-active",menuOpener:".nav-opener",menuDrop:".nav-drop"}),jQuery("body").mobileNav({hideOnClickOutside:!0,menuActiveClass:"search-active",menuOpener:".search-opener",menuDrop:".search-drop"})}()},5:function(t,e,n){t.exports=n(0)}});</script>
+      <script type="text/javascript">!function(t){function e(i){if(n[i])return n[i].exports;var o=n[i]={i:i,l:!1,exports:{}};return t[i].call(o.exports,o,o.exports,e),o.l=!0,o.exports}var n={};e.m=t,e.c=n,e.d=function(t,n,i){e.o(t,n)||Object.defineProperty(t,n,{configurable:!1,enumerable:!0,get:i})},e.n=function(t){var n=t&&t.__esModule?function(){return t.default}:function(){return t};return e.d(n,"a",n),n},e.o=function(t,e){return Object.prototype.hasOwnProperty.call(t,e)},e.p="",e(e.s=7)}({7:function(t,e,n){t.exports=n(8)},8:function(t,e){!function(t){function e(e){this.options=t.extend({container:null,hideOnClickOutside:!1,menuActiveClass:"nav-active",menuOpener:".nav-opener",menuDrop:".nav-drop",toggleEvent:"click",outsideClickEvent:"click touchstart pointerdown MSPointerDown"},e),this.initStructure(),this.attachEvents()}e.prototype={initStructure:function(){this.page=t("html"),this.container=t(this.options.container),this.opener=this.container.find(this.options.menuOpener),this.drop=this.container.find(this.options.menuDrop)},attachEvents:function(){var e=this;n&&(n(),n=null),this.outsideClickHandler=function(n){if(e.isOpened()){var i=t(n.target);i.closest(e.opener).length||i.closest(e.drop).length||e.hide()}},this.openerClickHandler=function(t){t.preventDefault(),e.toggle()},this.opener.on(this.options.toggleEvent,this.openerClickHandler)},isOpened:function(){return this.container.hasClass(this.options.menuActiveClass)},show:function(){this.container.addClass(this.options.menuActiveClass),this.options.hideOnClickOutside&&this.page.on(this.options.outsideClickEvent,this.outsideClickHandler)},hide:function(){this.container.removeClass(this.options.menuActiveClass),this.options.hideOnClickOutside&&this.page.off(this.options.outsideClickEvent,this.outsideClickHandler)},toggle:function(){this.isOpened()?this.hide():this.show()},destroy:function(){this.container.removeClass(this.options.menuActiveClass),this.opener.off(this.options.toggleEvent,this.clickHandler),this.page.off(this.options.outsideClickEvent,this.outsideClickHandler)}};var n=function(){var e,n,i=t(window),o=t("html"),s="resize-active",r=function(){e=!1,o.removeClass(s)};i.on("resize orientationchange",function(){e||(e=!0,o.addClass(s)),clearTimeout(n),n=setTimeout(r,500)})};t.fn.mobileNav=function(n){return this.each(function(){var i=new e(t.extend({},n,{container:this}));t.data(this,"MobileNav",i)})}}(jQuery),jQuery("body").mobileNav({hideOnClickOutside:!0,menuActiveClass:"nav-active",menuOpener:".nav-opener",menuDrop:".nav-drop"}),jQuery("body").mobileNav({hideOnClickOutside:!0,menuActiveClass:"search-active",menuOpener:".search-opener",menuDrop:".search-drop"})}});</script>
 
 
       <main id="main" role="main">
-  <div class="container">
+  <div class="container container-privacy">
 
     <div class="visual">
   <div class="visual-wrap  ">
@@ -205,7 +222,7 @@ true for &quot;http://www.xbiz.com&quot; r (n 0 s 0 v 0 l 0))">
         <div class="mag mag1">
           <a href="/pub/xbizworld">
             
-              <img src="https://img.xbiz.com/images/magazines/72_md.jpg" alt="xbiz world" width="200" height="126">
+              <img src="https://img.xbiz.com/images/magazines/90_md.jpg" alt="xbiz world" width="200" height="126">
             
           </a>
         </div>
@@ -216,7 +233,7 @@ true for &quot;http://www.xbiz.com&quot; r (n 0 s 0 v 0 l 0))">
         <div class="mag mag2">
           <a href="/pub/xbizpremiere">
             
-              <img src="https://img.xbiz.com/images/magazines/71_md.jpg" alt="xbiz premiere" width="200" height="126">
+              <img src="https://img.xbiz.com/images/magazines/89_md.jpg" alt="xbiz premiere" width="200" height="126">
             
           </a>
         </div>
@@ -238,7 +255,7 @@ true for &quot;http://www.xbiz.com&quot; r (n 0 s 0 v 0 l 0))">
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://wc08.xbiz.com/www/delivery/ajs.php?zoneid=142&amp;cb=48577655512&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20171120173814id_/http%253A//www.xbiz.com/privacy"></script><noscript><a href='http://wc08.xbiz.com/www/delivery/ck.php?n=a8c998c9&amp;cb=7559874275587432619' target='_blank'><img src='http://wc08.xbiz.com/www/delivery/avw.php?zoneid=142&amp;cb=7559874275587432619&amp;n=a8c998c9' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://wc08.xbiz.com/www/delivery/ajs.php?zoneid=142&amp;cb=73972170992&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20180511221552id_/http%253A//www.xbiz.com/privacy"></script><noscript><a href='http://wc08.xbiz.com/www/delivery/ck.php?n=a8c998c9&amp;cb=1917435096792445223' target='_blank'><img src='http://wc08.xbiz.com/www/delivery/avw.php?zoneid=142&amp;cb=1917435096792445223&amp;n=a8c998c9' border='0' alt='' /></a></noscript>
     </div>
   </div>
 </div>
@@ -249,34 +266,162 @@ true for &quot;http://www.xbiz.com&quot; r (n 0 s 0 v 0 l 0))">
         <div class="heading-holder with-info">
           <h1>Privacy Policy</h1>
           <div class="text-box">
-            <span class="title">Information About Our Organization and Websites</span>
-            <p>Modern information and communication technologies play a fundamental role in the activities of an organization like Adnet Media. Based in Los Angeles, California, our principal activity is providing adult entertainment business news and information.</p>
-            <span class="title">Providing Visitors With Anonymous Access</span>
-            <p>You can access our website homepage and browse our site without disclosing any of your personal or identifying information.</p>
-            <span class="title">The Services and Links Of Our Website</span>
-            <p>Our website enables you to openly communicate with other visitors or post information to be accessed by others. When you do so, other visitors may collect your data. Our website does not include links to third party internet service providers.</p>
-            <span class="title">Automatic Collection Of Information</span>
-            <p>We automatically log generic user data by either site programming, or we link information automatically logged by such means with personal data about specific individuals. We do so for technical administration of the website and for enhanced customer administration.</p>
-            <span class="title">Data Collection and Purpose Specification</span>
-            <p>We collect the personal data that you may volunteer while using our services. We collect name, gender, geographic location, and email address along with information concerning your employer or the organization you represent, your job title, and phone number. Additionally, personal and lifestyle details are also collected. Providing this information to us is strictly voluntary, and is used for technical and customer administration of our website.</p>
-            <p>We do not collect information about our visitors from other sources, such as public records or private organizations. We collect and use personal data for the additional purpose of distributing our opt-in newsletters and to send XBiz related announcement emails to registered XBiz Community message board users, banner exchange users, and those that submit links.</p>
-            <p>Users can remove themselves through the unsubscribe link at the bottom of all emails or <a href="/contact">contact us</a>.</p>
-            <p>If we wish to use your personal data for a new purpose, we offer you the option of consenting at the first point of your personal data is input into our database..</p>
-            <span class="title">Children's Privacy</span>
-            <p>We do not knowingly collect personal data from children since use of our websites by children is prohibited. We do not provide any information about our personal data practices in relation to children on our homepage, or at those sites on our website where we collect personal data.</p>
-            <span class="title">Disclosure and Visitor Choice</span>
-            <p>We do not disclose your personal data to our subsidiaries or any other organizations.</p>
-            <span class="title">Confidentiality / Security</span>
-            <p>We do not give visitors to our website the option of using a secure transmission method to send us their personal data. We have implemented security policies, rules, and technical measures to protect the personal data that we have under our control from unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction, or accidental loss.</p>
-            <p>All employees and others who have access to, or are associated with the processing of personal data, are obliged to respect the confidentiality of our visitors' personal data. We ensure that your personal data will not be disclosed to state institutions and authorities except if required by law or other regulation.</p>
-            <span class="title">Access To The Personal Data We May Hold About You</span>
-            <p>You may <a href="/contact">contact us</a> to find out whether we are keeping personal data about you. Upon request, we will provide you with a readable copy of the personal data that we keep about you, although we may first require proof of your identity. We provide this information without any charge.</p>
-            <p>We allow you to challenge the data that we hold about you and, where appropriate, you may have the data erased, rectified, amended, or completed.</p>
-            <span class="title">Privacy Compliance</span>
-            <p>There are no national laws or self-regulatory schemes applicable to our website or organization.</p>
-            <p>There are no global or regional regulatory or self-regulatory schemes applicable to our website or organization. In order to demonstrate that our privacy policy accords with the above privacy instrument, we are voluntarily committed to a Self Assessment procedure.</p>
-            <span class="title">Privacy Support</span>
-            <p>If you have an inquiry or concern about our privacy policy, please <a href="/contact">contact us</a>.</p>
+            
+
+            <p>
+  Adnet Media (the “<strong><em>Company</em></strong>”) respects your privacy and is committed to protecting it through this privacy policy (the “<strong><em>policy</em></strong>”). This policy describes the types of information the Company may collect from you or that you may provide when you visit the website located at <a href="http://www.xbiz.com">www.xbiz.com</a> (the “<strong><em>Website</em></strong>”) and the Company’s practices for collecting, using, keeping, protecting, and disclosing that information.
+</p>
+<p>
+  This policy applies to information the Company collects:
+</p>
+<ul>
+  <li>On the Website (including desktop and mobile versions).</li>
+  <li>In email, text, and other electronic messages between you and the Company.</li>
+  <li>When you interact with the Company’s advertising and applications on third-party websites and services, if those applications or advertising include links to this policy.</li>
+  <li>When you interact with the Website through third-party social media platforms.</li>
+</ul>
+<p>It does not apply to information collected by:</p>
+<ul>
+  <li>the Company offline or through any other means, including on any other website operated by the Company or any third party (including the Company’s affiliates and subsidiaries); or</li>
+  <li>any third party (including the Company’s affiliates and subsidiaries), including through any application or content (including advertising) that may link to or be accessible from (or on) the Website.</li>
+</ul>
+<div>
+  <p><strong>Important:</strong><strong> </strong>Please read this policy carefully to understand the Company’s policies and practices regarding your information and how the Company will treat it. If you do not agree with the Company’s policies and practices, your choice is not to use the Website. By accessing or using the Website, you agree to this policy and consent to the Company’s collection, use, disclosure, retention, and protection of your personal information as described in this policy. The Company may change this policy on one or more occasions. The Company will consider your continued use of the Website after the Company makes changes as your acceptance of the changes, so please check this policy frequently for updates.</p>
+</div>
+<p><strong>Are minors welcome?</strong></p>
+<p>The Website is not intended for anyone under 18-years old. You will only access the Website or register for an account if (1) you are at least 18-years old and (2) have reached the age of majority where you live. The Company prohibits all persons who do not meet the age requirements from accessing the Website. Minors must not access the Website or use its services.<br>
+  The Company does not knowingly collect or solicit any information or data from minors or allow minors to register for the Website. The Website and its content are not directed at minors. If the Company learns that it has collected personal information from a minor, the Company will delete that information as quickly as possible. If you believe that the Company might have any information from or about a minor, please contact the Company at <a href="mailto:privacy@xbiz.com">privacy@xbiz.com</a>.</p>
+<p>
+<strong>Section 230 Notice:</strong><strong> </strong>In accordance with 47 U.S.C. § 230(d), you are notified that parental control protections (including computer hardware, software, or filtering services) are commercially available that may assist in limiting access to material that is harmful to minors. You may find information about providers of these protections on the Internet by searching “parental control protection” or similar terms. If minors have access to your computer, please restrain their access to sexually explicit material by using a parental control protection solution.
+</p>
+<p><strong>What types of information does the Company collect about you and how is it collected?</strong></p>
+<p>The Company may collect several types of information from and about you, including information:</p>
+<ul>
+  <li>by which you may be personally identified, including your name, mailing address, telephone number, username, email address, date of birth, and any other information that the Company collects that is defined as personal or personally identifiable information under applicable law (“<strong><em>personal information</em></strong>”);</li>
+  <li>that is about you but individually does not identify you, including your age, gender, location, or any other optional information you provide about yourself; and</li>
+  <li>about your Internet connection, the equipment you use to access the Website, and usage details.</li>
+</ul>
+<p>The Company collects this information:</p>
+<ul>
+  <li>Directly from you when you provide it to the Company.</li>
+  <li>Automatically as you navigate through the Website. Information collected automatically may include usage details, IP addresses, and information collected through cookies, web beacons, and other tracking technologies.</li>
+  <li>From third parties, for example, the Company’s business partners.</li>
+</ul>
+<p>
+  <strong><em>Information You Provide to the Company</em></strong><br>
+  The information the Company collects on or through the Website may include:
+</p>
+<ul>
+  <li>Information that you provide by filling in forms on the Website. This includes information you provide at the time of registering to use the Website or requesting further services. The Company may also ask you for information when you report a problem with the Website or a service.</li>
+  <li>Records and copies of your correspondence (including email addresses), if you contact the Company.</li>
+  <li>Your responses to surveys that the Company might ask you to complete for research purposes.</li>
+  <li>Details of subscription requests you carry out through the Website and of the fulfillment of your requests.</li>
+  <li>Your search queries on the Website.</li>
+</ul>
+<p>You also may provide information to be published or displayed (“<strong><em>posted</em></strong>”) on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, “<strong><em>user contributions</em></strong>”). Your user contributions are posted on the Website and transmitted to others at your own risk. Although you may be able to set certain privacy settings for this information by logging into your account (if you have one), please be aware that no security measures are perfect or impenetrable. Additionally, the Company cannot control the actions of other users of the Website with whom you may choose to share your user contributions. Thus, the Company cannot and does not guarantee that your user contributions will not be viewed by unauthorized persons.
+</p>
+<p>
+  <strong><em>Information the Company Collects through Automatic Data Collection Technologies</em></strong><br>
+  As you navigate through and interact with the Website, the Company may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns, including:</p>
+<ul>
+  <li>Details of your visits to the Website, including traffic data, location data, logs, and other communication data and the resources that you access and use on the Website.</li>
+  <li>Information about your computer and Internet connection, including your IP address, operating system, and browser type.</li>
+  <li>Information about your mobile device and Internet connection, including the device’s unique device identifier, IP address, operating system, browser type, mobile network information, and the device’s telephone number.</li>
+</ul>
+<p>The Company also may use these technologies to collect information about your online activities over time and across third-party websites or other online services (behavioral tracking).
+</p>
+	<p>
+  The information the Company collects automatically is statistical data and does not include personal information, but the Company may keep it or associate it with personal information the Company collects in other ways or receives from third parties. It helps the Company to improve the Website and to deliver a better and more personalized service, including by allowing the Company to:</p>
+<ul>
+  <li>Estimate the Website’s audience size and usage patterns.</li>
+  <li>Store information about your preferences, thus allowing the Company to customize the Website according to your individual interests.</li>
+  <li>Speed up your searches.</li>
+  <li>Recognize you when you return to the Website.</li>
+</ul>
+<p>The technologies the Company uses for this automatic data collection may include:</p>
+<ul>
+  <li><strong><em>Cookies (or browser cookies)</em></strong>.<strong></strong>A cookie is a small file placed on the hard drive of your computer. Your browser stores cookies in a manner associated with each website you visit. The Company uses cookies to enable its servers to recognize your browser and tells the Company how and when you visit the Website and use the services. For example, the Company uses session ID cookies, which makes it easier for you to navigate the Website. A session ID cookie expires when you close your browser. The Company also uses persistent cookies, which remain on your hard drive for an extended period. Persistent cookies may be used to store your login information and preferences. You may refuse to accept browser cookies by activating the appropriate setting on your browser. But if you select this setting you may be unable to access certain parts of the Website. Unless you have adjusted your browser settings so that it will refuse cookies, the Company’s system will issue cookies when you direct your browser to the Website. If you want to learn more about cookies, please visit <a href="http://www.allaboutcookies.org">www.allaboutcookies.org</a>.</li>
+  <li><strong><em>Flash Cookies</em></strong>. Certain features of the Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from, and on the Website. Flash cookies are not managed by the same browser settings as are used for browser cookies. For information about managing your privacy and security settings for Flash cookies, you can access your Flash management tools from Adobe’s <a href="https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html">website</a>.</li>
+  <li><strong><em>Web Beacons</em></strong>. Pages of the Website (and the Company’s emails) may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages (or opened an email) and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity). If you want to learn more about web beacons, please visit <a href="http://www.allaboutcookies.org/web-beacons/">www.allaboutcookies.org/web-beacons/</a>.</li>
+</ul>
+<p>The Company does not collect personal information automatically, but it may tie this information to personal information about you that the Company collects from other sources or you provide to the Company.</p>
+	<p><strong><em>Third-party Use of Cookies and Other Tracking Technologies</em></strong> <br>
+  Some content or applications, including advertisements, on the Website are served by third parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use the Website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.</p>
+	<p>The Company does not control third-party tracking technologies or how third parties’ use them. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.</p>
+  <p><strong><em>Social Networks and Third-Party Plugins</em></strong> <br>
+  The Website may include plugins from social networks and other third parties. An example of a plugin is the Facebook® “Like” button. Where legally permitted, these plugins may communicate with and send information to the party that provided the plugin, even if you do not click on the plugin. This information may include your IP address, information about your browser and device, and the address of the webpage you are visiting on the Website. Loading, using, or clicking the plugins may also place, read, and transmit cookies. These cookies may contain a unique identifier the social network or third party assigns you. The loading, functionality, and your use of the plugins are governed by the privacy policy and terms of the party that provided the plugin.</p>
+<p><strong>How does the Company use your information?</strong></p>
+
+<p>The Company may use the information that it collects about you or that you provide to the Company for any of the following purposes:</p>
+<ul>
+  <li>To provide, operate, maintain, improve, and promote the Website.</li>
+  <li>To enable you to access and use the Website.</li>
+  <li>To process and complete subscription requests, and send you related information.</li>
+  <li>To send subscription related messages, including responding to your comments, questions, and requests; providing customer service and support; and sending you technical notices, updates, security alerts, and support and administrative messages.</li>
+  <li>To send promotional communications, such as providing you with information about services, features, newsletters, offers, promotions, contests, and events.</li>
+  <li>To monitor and analyze trends, usage, and activities in connection with the Website and for marketing or advertising purposes.</li>
+  <li>To investigate and prevent fraudulent transactions, unauthorized access to the Website, and other illegal activities.</li>
+  <li>To personalize the Website content, features, or advertisements.</li>
+  <li>In any other way the Company may describe when you provide the information.</li>
+  <li>For any other purpose with your consent.</li>
+</ul>
+<p>The Company may also use your information to contact you about the Company’s own and third parties’ goods and services that may be of interest to you. If you do not want the Company to use your information in this way, please send the Company an email at <a href="mailto:privacy@xbiz.com">privacy@xbiz.com</a> or log into your account and adjust your email preferences. </p>
+<p><strong>What choices do you have about how the Company uses and discloses your information?</strong></p>
+<p>The Company may use the information it has collected from you to allow the Company to display advertisements to its advertisers’ target audiences. Even though the Company does not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.</p>
+<p><strong>With whom does the Company share your information?</strong></p>
+
+<p>The Company may disclose aggregated information about its users, and information that does not identify any individual, without restriction.</p>
+<p>Company may disclose personal information that it collects, or you provide as described in this policy:</p>
+<ul>
+  <li>To the Company’s subsidiaries and affiliates.</li>
+  <li>To contractors, service providers, and other third parties the Company uses to support its business and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which the Company discloses it to them.</li>
+  <li>To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all the Company’s assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by the Company about the Website’s users is among the assets transferred.</li>
+  <li>To third parties to market their products or services to you if you have not opted out of these disclosures. The Company contractually requires these third parties to keep personal information confidential and use it only for the purposes for which the Company discloses it to them. </li>
+  <li>To fulfill the purpose for which you provide it.</li>
+  <li>For any other purpose disclosed by the Company when you provide the information.</li>
+  <li>With your consent.</li>
+</ul>
+<p>The Company may also disclose your personal information:</p>
+<ul>
+  <li>To comply with any court order, law, or legal process, including to respond to any government or regulatory request.</li>
+  <li>To enforce or apply the terms of use/service and other agreements.</li>
+  <li>If the Company believes disclosure is necessary or appropriate to protect the rights, property, or safety of the Company, its customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and risk reduction.</li>
+</ul>
+<p><strong>What choices do you have about how the Company uses and discloses your information?</strong></p>
+<p>The Company provides you the ability to exercise certain controls and choices regarding its collection, use, and sharing of your information. In accordance with local law, your controls and choices may include:</p>
+<ul>
+  <li>You may correct, update, and delete your account information.</li>
+  <li>You may change your choices for subscriptions and newsletters.</li>
+  <li>You may choose whether to receive offers from the Company.</li>
+  <li>You may choose whether you receive targeted advertising from the Company or its third-party advertising partners.</li>
+</ul>
+<p><strong>How do you access and correct your information?</strong></p>
+<p>If you have an account, you can help ensure that your contact information and preferences are accurate and up to date by logging in to your account. For other personal information that the Company holds, the Company will provide you with access for any purpose including to request that the Company correct the data if it is inaccurate or delete the data if the Company is not required to retain it by law or for legitimate business purposes. The Company may decline to process requests that are frivolous/vexatious, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by local law.</p>
+<p>If you delete your user contributions from the Website, copies of your user contributions may remain viewable in cached and archived pages, or may have been copied or stored by other users of the Website.</p>
+<p>Please note that even when you remove information, the Company will retain in its files certain data, including information used to resolve disputes, troubleshoot problems, enhance security, reduce fraud, comply with applicable law, or to enforce any agreements, policies, and rules governing your use of the Website. Removed information also may persist in backup copies or other users’ caches.</p>
+<p><strong>How does the Company protect your personal information?</strong></p>
+<p>The Company has implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, change, and disclosure. All information you provide to the Company is stored on its secure servers behind firewalls.<br>
+  The safety and security of your information also depends on you. Where the Company has given you (or where you have chosen) a password for access to certain parts of the Website, you are responsible for keeping this password confidential. The Company asks you not to share your password with anyone. In addition, the Company urges you to be careful about giving out information in public areas of the Website. The information you share in public areas may be viewed by any user of the Website.</p>
+<p>
+  <strong>No Security Guarantees.</strong> The transmission of information over the Internet is not completely secure. Although the Company does its best to protect your personal information, the Company does not guarantee the security of your personal information transmitted to the Website or guarantee against all unauthorized disclosure, alteration, or destruction of personal information. Any transmission of personal information is at your own risk. The Company is not responsible for circumvention of any privacy settings or security measures contained on the Website. </p>
+<p><strong>Where is your personal information kept?</strong></p>
+<p>This policy is intended to cover collection of information on or through the Website from residents of the United States. If you are visiting the Website from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where the Company’s servers are located, and the Company’s central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. Please be assured that the Company seeks to take reasonable steps to make sure that your privacy is protected. By using the Company’s services, you acknowledge that your information may be transferred to the Company’s facilities and those third parties with whom the Company shares it as described in this policy. When you provide personal information to the Company through the Website, you consent to the processing of your data in, and the transfer of your data to, the United States or any other country in which the Company or its affiliates, subsidiaries, or service providers host these services.</p>
+<p><strong>Do Not Track Policy</strong></p>
+
+<p>Do Not Track (“DNT”) is a privacy preference that you can set in your browser. DNT is a way for you to inform websites and services that you do not want certain information about your webpage visits collected over time and across websites or online services. The Company is committed to providing you with meaningful choices about the information it collects and that is why the Company provides you the ability to opt out. But the Company does not recognize or respond to any DNT signals as the Internet industry works toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT. For more information, visit <a href="http://www.allaboutdnt.com">www.allaboutdnt.com</a>.</p>
+<p><strong>Your California Privacy Rights</strong></p>
+<p>If you are a California resident, you may have certain additional rights. California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by the Company to third parties for the third parties’ direct marketing purposes. Further, if you are a California resident and would like to opt out from the disclosure of your personal information to any third party for direct marketing purposes, please send an email to <a href="mailto:privacy@xbiz.com">privacy@xbiz.com</a>. If you opt out from permitting your personal information to be shared, you may still receive selected offers directly from the Company in accordance with California law.</p>
+<p><strong>Links to Other Websites</strong></p>
+<p>The Website contains links to other websites. Please be aware that the Company is not responsible for the content or privacy practices of those other websites. The Company encourages its customers to be aware when they leave the Website and to read the privacy statements of any other website that collects personally identifiable information.</p>
+<p><strong>No Rights of Third Parties</strong></p>
+<p>This policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of the Website.</p>
+<p><strong>Changes to Privacy Policy</strong></p>
+
+<p>Although most changes are likely to be minor, the Company may change this policy on one or more occasions, and in its sole discretion. The Company encourages visitors to frequently check this page for any changes to this policy. Your continued use of the Website after any change in this policy will constitute your acceptance of the changes.</p>
+<p><strong>Contact Information</strong></p>
+<p>To ask questions or comment about this policy and the Company’s privacy practices, you may contact the Company at <a href="mailto:privacy@xbiz.com">privacy@xbiz.com</a>.</p>
+
+
           </div>
         </div>
       </div>
@@ -296,7 +441,7 @@ true for &quot;http://www.xbiz.com&quot; r (n 0 s 0 v 0 l 0))">
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://wc08.xbiz.com/www/delivery/ajs.php?zoneid=117&amp;cb=70593788208&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20171120173814id_/http%253A//www.xbiz.com/privacy"></script><noscript><a href='http://wc08.xbiz.com/www/delivery/ck.php?n=aa49960d&amp;cb=2234330655165950833' target='_blank'><img src='http://wc08.xbiz.com/www/delivery/avw.php?zoneid=117&amp;cb=2234330655165950833&amp;n=aa49960d' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://wc08.xbiz.com/www/delivery/ajs.php?zoneid=117&amp;cb=87611620572&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20180511221552id_/http%253A//www.xbiz.com/privacy"></script><noscript><a href='http://wc08.xbiz.com/www/delivery/ck.php?n=aa49960d&amp;cb=526884798471387179' target='_blank'><img src='http://wc08.xbiz.com/www/delivery/avw.php?zoneid=117&amp;cb=526884798471387179&amp;n=aa49960d' border='0' alt='' /></a></noscript>
           </div>
         </div>
       </div>
@@ -365,19 +510,19 @@ true for &quot;http://www.xbiz.com&quot; r (n 0 s 0 v 0 l 0))">
           <ul class="mag-list">
             <li>
                 <a href="/pub/xbizworld">
-                    <img src="https://img.xbiz.com/images/magazines/72_md.jpg" alt="xbiz world" width="139" height="199">
+                    <img src="https://img.xbiz.com/images/magazines/90_md.jpg" alt="xbiz world" width="139" height="199">
                 </a>
             </li>
             <li>
                 <a href="/pub/xbizpremiere">
-                    <img src="https://img.xbiz.com/images/magazines/71_md.jpg" alt="xbiz premiere" width="139" height="199">
+                    <img src="https://img.xbiz.com/images/magazines/89_md.jpg" alt="xbiz premiere" width="139" height="199">
                 </a>
             </li>
           </ul>
         </div>
       </div>
       <div class="footer-info">
-        <p>Copyright © 2017 Adnet Media. All Rights Reserved. XBIZ is a trademark of Adnet Media.</p>
+        <p>Copyright © 2018 Adnet Media. All Rights Reserved. XBIZ is a trademark of Adnet Media.</p>
         <p>Reproduction in whole or in part in any form or medium without express written permission is prohibited. For reprint permission contact us.</p>
       </div>
     </div>
@@ -388,44 +533,20 @@ true for &quot;http://www.xbiz.com&quot; r (n 0 s 0 v 0 l 0))">
 
   </div>
 
+  <script type="text/javascript" src="/static/jquery-ui-1.12.1.custom/jquery-ui.min.js"></script>
   <script type="text/javascript" src="/static/js/main.js"></script>
   <script type="text/javascript" src="/static/js/theme.js"></script>
 
-  <script> 
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ 
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), 
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) 
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga'); 
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-996077-2', 'auto'); 
-  ga('send', 'pageview'); 
+  ga('create', 'UA-996077-2', 'auto');
+  ga('send', 'pageview');
 </script>
 
-
-<script type="text/javascript">
-  var url_path = document.location.pathname;
-  if (url_path == '/' || url_path.indexOf('/news') == 0 || url_path.indexOf('/features') == 0 || url_path.indexOf('/directory') == 0) {
-	adroll_adv_id = "34X2QX24TRG7TL2IS7IAW7";
-	adroll_pix_id = "3JIXCLJP3FAHNPDX4HPP4M";
-	 
-	 
-	(function () {
-		var _onload = function(){
-			if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
-			if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
-			var scr = document.createElement("script");
-			var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-			scr.setAttribute('async', 'true');
-			scr.type = "text/javascript";
-			scr.src = host + "/j/roundtrip.js";
-			((document.getElementsByTagName('head') || [null])[0] ||
-			document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-		};
-		if (window.addEventListener) {window.addEventListener('load', _onload, false);}
-		else {window.attachEvent('onload', _onload)}
-	}());
-  }
-</script>
-
+<!-- cached Fri May 11 22:15:04 UTC 2018 -->
 
 </body></html>
