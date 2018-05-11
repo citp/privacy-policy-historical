@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the johareez.com privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103172354id_/http%3A//www.johareez.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johareez.com privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511065251id_/http%3A//www.johareez.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement for Johareez.com
 
