@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the scrapbookscrapbook.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110095929id_/http%3A//www.scrapbookscrapbook.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrapbookscrapbook.com privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511160928id_/http%3A//www.scrapbookscrapbook.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Free Printable Scrapbooking Papers from ScrapbookScrapbook.com
 
 We do not collect any data from our visitors other than the anonymous system data that our web-stats programs analyze and make available to us. We can see things like what search terms someone uses or what the average monitor screen resolution is, but that is it. So fear not.....On this site, we do ask people to join a mailing list and we send our short newsletters about 3 times a year. We have never sold your email address to anyone and never will. We cannot see your email address unless you contact us or join the newsletter list.Privacy Policy for [www.ScrapbookScrapbook.com](http://www.scrapbookscrapbook.com/)
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c1adb4afa5b8b6a8ada5a4b381a6aca0a8adefa2aeac). 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#99f5ecf7fde0eef0f5fdfcebd9fef4f8f0f5b7faf6f4). 
 
 At [www.ScrapbookScrapbook.com](http://www.scrapbookscrapbook.com/), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by [www.ScrapbookScrapbook.com](http://www.scrapbookscrapbook.com/) and how it is used. 
 
