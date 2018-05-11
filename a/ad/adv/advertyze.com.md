@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the advertyze.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107031003id_/http%3A//www.advertyze.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advertyze.com privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511165334id_/http%3A//www.advertyze.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Email Ads - Targeted Email Advertising Services
+# Privacy Policy - Advertyze.com
 
 **What information do we collect?**
 
