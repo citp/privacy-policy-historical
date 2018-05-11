@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ocztechnology.com privacy policy that was archived on 2017-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170407190047id_/https%3A//ocz.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocztechnology.com privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511221255id_/https%3A//www.ocz.com/us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Toshiba America Electronic Components, Inc. ("TAEC") respects the privacy of users who visit this website (the "Site"). This Privacy Policy describes how we collect, use and share information we collect on this Site effective as of the date posted below. By using the Site and submitting information you agree to the terms of this Policy.
+Toshiba Memory America, Inc. ("TMA") respects the privacy of users who visit this website (the "Site"). This Privacy Policy describes how we collect, use and share information we collect on this Site effective as of the date posted below. By using the Site and submitting information you agree to the terms of this Policy.
 
 Information We Collect and How it is Used  
 Access to Your Information and Opting Out  
@@ -25,7 +25,7 @@ We collect information that you submit when visiting the Site including product 
 
 We use e-mail links throughout the site to allow you to contact us directly with any questions or comments you may have. We try to read every message and reply promptly. Information in the message is used to respond directly to your comments or questions. We may also file your comments to improve the site and programs, or review and discard the information.
 
-We may use your personal information to process your transactions, to contact you about products you have purchased, inform you of products and service opportunities that may be of interest to you and of new TAEC updates or offerings, to conduct market research regarding Toshiba products or services, to customize the content of the Site for you, to support and enhance our communications with you, or for other general commercial purposes. 
+We may use your personal information to process your transactions, to contact you about products you have purchased, inform you of products and service opportunities that may be of interest to you and of new TMA updates or offerings, to conduct market research regarding Toshiba products or services, to customize the content of the Site for you, to support and enhance our communications with you, or for other general commercial purposes. 
 
 ## Access to Your Information and Opting Out
 
@@ -37,7 +37,7 @@ Some countries allow you to request a copy of the information we hold about you.
 
 We do not sell your personal information. We may share your personal information within the Toshiba family of companies for business purposes and with other companies who provide marketing or other services on our behalf and at our direction, but we do not permit them to use such personal information that we have shared for their own direct marketing purposes.
 
-Your personal information may be shared with third parties that provide services to TAEC (such as analyzing data, providing customer support, product registration, etc.), to the extent that such information is necessary for the provision of such services. TAEC has contractual arrangements with these service providers under which these service providers agree not to disclose any information we provide to them. Other than such third parties, TAEC will not share your information with anyone who is not an employee of TAEC or an affiliate with a need to access the information for business purposes, or who has not signed an appropriate non-disclosure agreement except under the special circumstances provided in this Privacy Policy.
+Your personal information may be shared with third parties that provide services to TMA (such as analyzing data, providing customer support, product registration, etc.), to the extent that such information is necessary for the provision of such services. TMA has contractual arrangements with these service providers under which these service providers agree not to disclose any information we provide to them. Other than such third parties, TMA will not share your information with anyone who is not an employee of TMA or an affiliate with a need to access the information for business purposes, or who has not signed an appropriate non-disclosure agreement except under the special circumstances provided in this Privacy Policy.
 
 Your personal information may be shared with unaffiliated third parties under the following special circumstances:
 
@@ -70,7 +70,7 @@ We ask that you do not send us or disclose any sensitive personal information (e
 
 ## Children's Privacy
 
-This Site is not directed to or intended to be used by children under the age of 18. TAEC does not knowingly collect personal information about children through the Site. If you are under the age of 18, please do not provide any personally identifiable information to us through this Site.
+This Site is not directed to or intended to be used by children under the age of 18. TMA does not knowingly collect personal information about children through the Site. If you are under the age of 18, please do not provide any personally identifiable information to us through this Site.
 
 ## International Visitors
 
@@ -82,7 +82,7 @@ From time to time, we may choose to change our Privacy Policy. We will notify yo
 
 ## Protecting your Information
 
-We have implemented reasonable physical, electronic and administrative security measures and practices in an effort to protect the security, integrity and confidentiality of your personal information. However, no security system is 100% secure. It may be possible for third parties to intercept or access information that you provide to TAEC or its third party service providers. We cannot guarantee the security of your information, nor can we guarantee that information you supply will not be intercepted while being transmitted. It is important for you to protect against unauthorized access to your personal information. If you have reason to believe that your interaction with us is no longer secure, please immediately notify us of the problem by contacting us in accordance with the "[Contact Us](https://web.archive.org/us/brand/contact)" page. 
+We have implemented reasonable physical, electronic and administrative security measures and practices in an effort to protect the security, integrity and confidentiality of your personal information. However, no security system is 100% secure. It may be possible for third parties to intercept or access information that you provide to TMA or its third party service providers. We cannot guarantee the security of your information, nor can we guarantee that information you supply will not be intercepted while being transmitted. It is important for you to protect against unauthorized access to your personal information. If you have reason to believe that your interaction with us is no longer secure, please immediately notify us of the problem by contacting us in accordance with the "[Contact Us](https://web.archive.org/us/brand/contact)" page. 
 
 ## Links to Third-Party Sites
 
@@ -90,4 +90,4 @@ When you use the Site, you may be directed to other websites that are beyond our
 
 We always appreciate hearing from you and welcome your comments and emails. But we ask that you exercise good judgment because material we receive will be considered public and non-confidential. Additionally, we reserve the right to use any comments and emails you share without limitation. You may contact us through the “[Contact Us](https://web.archive.org/us/brand/contact)” page or email us at [PrivacyOCZ@taec.toshiba.com](mailto:PrivacyOCZ@taec.toshiba.com).
 
-OCZ is a trademark or registered trademark of Toshiba Corporation and/or its affiliates. All [third party trademarks](https://web.archive.org/us/legal/trademark) are the properties of their respective owners.
+OCZ is a trademark or registered trademark of Toshiba Memory Corporation and/or its affiliates. All [third party trademarks](https://web.archive.org/us/legal/trademark) are the properties of their respective owners.
