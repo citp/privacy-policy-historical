@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 10kto1mm.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014235643id_/http%3A//10kto1mm.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 10kto1mm.com privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511121817id_/http%3A//10kto1mm.com/privacy.html) for the most accurate reproduction.*
 
 # 10Kto1MM.com - Privacy Policy
 
@@ -27,7 +27,7 @@ We do not use cookies at this time. "Cookies" are small amounts of data that a W
 
 From time to time, we may update this privacy notice. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it.
 
-[Privacy Policy](https://web.archive.org/web/20161014235643id_/http%3A//10kto1mm.com/privacy.html)   |   [Terms & Conditions](https://web.archive.org/web/20161014235643id_/http%3A//10kto1mm.com/terms.html)   |   [Secure Shopping](https://web.archive.org/web/20161014235643id_/http%3A//10kto1mm.com/secure-shopping.html)   |   [ Risk Disclosure](https://web.archive.org/web/20161014235643id_/http%3A//10kto1mm.com/riskdisclosure.html)
+[Privacy Policy](https://web.archive.org/web/20180511121817id_/http%3A//10kto1mm.com/privacy.html)   |   [Terms & Conditions](https://web.archive.org/web/20180511121817id_/http%3A//10kto1mm.com/terms.html)   |   [Secure Shopping](https://web.archive.org/web/20180511121817id_/http%3A//10kto1mm.com/secure-shopping.html)   |   [ Risk Disclosure](https://web.archive.org/web/20180511121817id_/http%3A//10kto1mm.com/riskdisclosure.html)
 
  
 
