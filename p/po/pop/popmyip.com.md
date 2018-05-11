@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popmyip.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109175431id_/http%3A//www.popmyip.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popmyip.com privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511073423id_/http%3A//www.popmyip.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | popmyip.com
 
