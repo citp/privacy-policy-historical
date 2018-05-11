@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the abhi2you.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108131056id_/http%3A//www.abhi2you.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abhi2you.com privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511075005id_/http%3A//www.abhi2you.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - A2Y | Free Recharge Tricks, Loot Deals, Coupons
+# Privacy Policy - A2Y
 
 This Privacy Policy governs the manner in which Abhi 2 You- India’s Loot Hub collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.abhi2you.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Abhi 2 You | India’s Loot Hub
 
