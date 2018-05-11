@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiaexamnews.in privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108210519id_/http%3A//www.indiaexamnews.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaexamnews.in privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511063924id_/http%3A//www.indiaexamnews.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | India Exam News
 
@@ -73,6 +73,3 @@ If you have any questions about this Privacy Policy, the practices of this site,
 **www.indiaexamnews.in**
 
 This document was last updated on 4 April, 2016
-
-  
-**डेली Current Affairs & Quiz अपडेट Whatsapp पर पाने के लिए "9772099500" को "Daily Quiz" नाम से सेव कर के Hii लिख कर Send करे तब हम आप को लिस्ट मे जोड़ सकेंगे।**
