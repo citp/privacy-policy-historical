@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccpsnet.net privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110114008id_/http%3A//mychesterfieldschools.com/about/internet-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccpsnet.net privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511154704id_/http%3A//mychesterfieldschools.com/about/internet-privacy-statement) for the most accurate reproduction.*
 
 # Internet Privacy Statement | Chesterfield County Public Schools
 
