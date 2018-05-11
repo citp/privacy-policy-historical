@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the naturalbreakthroughsresearch.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215130902id_/http%3A//www.naturalbreakthroughsresearch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalbreakthroughsresearch.com privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511231715id_/http%3A//naturalbreakthroughsresearch.com/privacy) for the most accurate reproduction.*
 
 # Natural Breakthroughs Research
 
-_December 15th, 2017_
+_May 11th, 2018_
 
 We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting this site, you are accepting the practices described in this privacy policy notice.
 
