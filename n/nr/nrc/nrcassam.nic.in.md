@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nrcassam.nic.in privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220155942id_/http%3A//nrcassam.nic.in/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrcassam.nic.in privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511121535id_/http%3A//www.nrcassam.nic.in/policy.html) for the most accurate reproduction.*
 
 # Office of the State Coordinator of National Registration (NRC), Assam
 
