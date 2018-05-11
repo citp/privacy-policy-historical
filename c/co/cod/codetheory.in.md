@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codetheory.in privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108163211id_/http%3A//codetheory.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codetheory.in privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511121939id_/http%3A//codetheory.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Code Theory
 
