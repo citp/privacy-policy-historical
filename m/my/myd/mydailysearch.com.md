@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydailysearch.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110030713id_/http%3A//www.mydailysearch.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydailysearch.com privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511145013id_/http%3A//www.mydailysearch.com/about/privacy.asp) for the most accurate reproduction.*
 
 # MyDailySearch Privacy Policy
 
