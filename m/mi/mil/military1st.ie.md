@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the military1st.ie privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117171250id_/http%3A//www.military1st.ie/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the military1st.ie privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511135820id_/http%3A//www.military1st.ie/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Military 1st
 
