@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the casualclub.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216150930id_/http%3A//www.casualclub.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casualclub.com privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511083608id_/http%3A//www.casualclub.com/info/privacy) for the most accurate reproduction.*
 
 # Casual Club
-
-Casual Club uses cookies to improve your experience online. For further information please check the [Cookies Policy](https://web.archive.org/info/gcookies).
-
-X
 
 Article 1. Protection of privacy and handling personal information
 
@@ -52,7 +48,7 @@ Article 1.3 Purpose of handling the data
 
 Article 1.4 Person in charge of handling personal information
 
-The person in charge of the Processing sensitive information is the company Tekka Digital SA, the owner of Casual Club service, headquartered in Via Balestra 12, 6900 Lugano, Switzerland. The data and the Casual Club site are protected at the headquarters of the Person in charge of processing the information.   
+The person in charge of the Processing sensitive information is the company TEKKA DIGITAL SA, the owner of Casual Club service, headquartered in via Balestra 12, 6900, Lugano, Switzerland. The data and the Casual Club site are protected at the headquarters of the Person in charge of processing the information.   
 The Member can contact at any time, by sending an e-mail to [www.help-tkd.com](http://www.help-tkd.com/en_GB/contact/index/pid/3), the Person in charge of processing the information in order to obtain confirmation whether his/her personal data exists or not, even if they're not saved yet and have them communicated in an intelligible way.   
 Furthermore, the Member has the right to request the Person in charge of processing personal information to delete his/her personal information (by that, it is meant to destroy such information without any possibility to restore it), transform it into anonymous form (changing the data into anonymous format) or to freeze the processing of their personal data (conserving the data by temporarily suspending any kind of processing).   
 The Member has the right to object to the handling of any personal data that concern him/her, in whole or partly, on legitimate grounds, even if they are relevant to the purpose of the collection or are used for sending advertisement, direct sales, market research purposes or commercial communication.   
@@ -60,14 +56,14 @@ The Member has the right to object to the handling of any personal data that con
 
 Article 1.5 Intellectual property
 
-Contents divulgated by Casual Club
+Contents divulgated by Casual Club:
 
-Casual Club® registered trademark, websites, services, logos, graphics, animations, videos and texts contained at Casual Club site are the intellectual property of Tekka Digital SA and users and/or members can not reproduce, use or represent them in any way or modality; offenders will be subject to legal action.   
+Casual Club® registered trademark, websites, services, logos, graphics, animations, videos and texts contained at Casual Club site are the intellectual property of TEKKA DIGITAL SA and users and/or members can not reproduce, use or represent them in any way or modality; offenders will be subject to legal action.   
 All intellectual and industrial property rights protected based on copyright laws or other provisions concerning software, programs and computer systems regarding the Service, Casual Club's site and/or databanks, made available to the user or member in any form or format, will continue to be the exclusive property of Casual Club, which grants the user or member a non-exclusive, non-transferable personal end-user license in compliance with these terms and conditions.   
 The right to use is strictly limited to the access and on-line use of Casual Club site and services for private and personal uses exclusively pertaining to and during the validity of Casual Club membership. Any other use is prohibited.   
 In particular, members or users cannot edit, copy, reproduce, download, publish, transmit, commercially make use of and/or distribute services and the content of Casual Club site or the computer programming codes of the elements comprising the services and Casual Club site by any means. 
 
-Contents divulgated by Members
+Contents divulgated by Members:
 
 Members bear the exclusive responsibility for contents, such as, profiles, messages divulgated and broadcast at Casual Club site. By publishing or broadcasting such content at Casual Club site, members authorize Casual Club expressly to reproduce, represent, adapt, translate, convert into digital format, extract completely or partially such content for any advertisement, marketing or any other purpose, to grant or authorize subcontracts, at Casual Club site or any other partner channel of the site, on any support or by any broadcasting means, especially digital means (e-mail, SMS, Internet, CD-Rom or DVD-Rom) or audio-visual communication (press, radio, terrestrial, digital, cable or satellite television.). The Member explicitly authorizes Casual Club to modify the above mentioned content in order to comply with the site's design or other media of communication mentioned above and / or to make them compatible with its technical processes or appropriate media formats. The member cannot copy, reproduce or otherwise use the content relating to other members except for the narrow needs of using the Services for personal and private.  
 Members and/or users are banned from publishing or broadcasting content that may violate third-party intellectual property rights at the site or through Casual Club's services by any means. 
