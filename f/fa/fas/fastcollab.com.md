@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastcollab.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229023600id_/http%3A//www.fastcollab.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastcollab.com privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511180408id_/http%3A//www.fastcollab.com/Privacy-Policy) for the most accurate reproduction.*
 
 # FastCollab | Privacy Policy
 
