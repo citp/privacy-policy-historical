@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the platts.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226224854id_/http%3A//marketing.platts.com/forms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the platts.com privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511091621id_/http%3A//plattsinfo.platts.com/privacy) for the most accurate reproduction.*
 
 # Platts Privacy
 
@@ -8,7 +8,7 @@ What personally identifiable information (“PII”) does S&P Global Platts coll
 
   * Contact information that you provide to us, such as your name, title and organization, address, telephone number, fax number, or e-mail address.
   * Contact information obtained via other companies’ marketing lists.
-  * Payment information you provide through [platts-billing.force.com/](http://platts-billing.force.com/?amp;elqat=2&elqTrackId=148494e5138647c6b689f0b04d60a391&elqaid=2786&elqat=2).
+  * Payment information you provide through [platts-billing.force.com/](https://platts-billing.secure.force.com/).
 
 
 
@@ -36,14 +36,6 @@ Submit the form below or e-mail us at: [marketingops@platts.com](mailto:marketin
 
 I do not want to be contacted by S&P Global Platts via these methods for marketing purposes:
 
-  * Your Email *
-  * Email
-  * Mail
-  * Telephone
-  * I do not want to be contacted by S&P Global Platts through any method for marketing purposes.
-
-
-
 Security
 
 We have established safeguards and use reasonable security measures to protect your PII from unauthorized access and use. Your PII is stored in a secure location in the U.S. and access is limited to authorized persons.
@@ -69,15 +61,15 @@ S&P Global Platts or our third-party service providers may use cookies (or other
 
 “Performance” or “Analytics” cookies, which help us to collect information about how visitors use our site, and helps us with site analysis and improvements. Performance or analytics cookies will remain on your computer after you close your browser, but cannot be used to identify you personally.
 
-“Functionality” cookies, which allow our site to remember your choices or preferences, such as information on online forms or previous orders. These cookies allow us to offer you a personalized experience while using the site. They are not used to track your browsing activity on other Web sites. 
+“Functionality” cookies, which allow our site to remember your choices or preferences, such as information on online forms or previous orders. These cookies allow us to offer you a personalized experience while using the site. They are not used to track your browsing activity on other Web sites.
 
-You can change your web browser’s Internet preferences to disable or delete cookies, although that may affect certain functions on this site. To learn how to manage your cookies, please follow the instructions from your specific browser, or follow the links below: 
+You can change your web browser’s Internet preferences to disable or delete cookies, although that may affect certain functions on this site. To learn how to manage your cookies, please follow the instructions from your specific browser, or follow the links below:
 
-[Internet Explorer](http://support.microsoft.com/kb/196955?elqTrackId=6f050670d8854f92a28865909f23bd23&elqaid=2786&elqat=2)   
-[Firefox](http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies&elqTrackId=a8bcb730b99d4bbf9715162e68675335&elqaid=2786&elqat=2)   
-[Chrome](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647&elqTrackId=1843088fd02b4e15ae810940733d9c6f&elqaid=2786&elqat=2)   
-[Safari](http://support.apple.com/kb/PH5042?elqTrackId=f7a1b34868fe4385a3c7a8eb980fd6d1&elqaid=2786&elqat=2)   
-[Opera](http://www.opera.com/browser/tutorials/security/privacy/?elqTrackId=e77ea069a007433e88e14b8b23ec68fa&elqaid=2786&elqat=2)
+[Internet Explorer](http://support.microsoft.com/kb/196955)   
+[Firefox](http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies)   
+[Chrome](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)   
+[Safari](http://support.apple.com/kb/PH5042)   
+[Opera](http://www.opera.com/browser/tutorials/security/privacy/)
 
 If you are visiting this site using a mobile device such as a smartphone or tablet, please refer to the manufacturer’s instructions on how to manage cookies.
 
@@ -94,6 +86,6 @@ S&P Global Platts
 1111 Bagby #2200  
 Houston, TX 77002.
 
-[Click here](http://www.mhfi.com/privacy?amp;elqat=2&elqTrackId=dba8b1713be94d36b19b3e61a9fcd738&elqaid=2786&elqat=2) for more information about S&P Global’s Customer Privacy Policy.
+[Click here](http://www.mhfi.com/privacy) for more information about S&P Global’s Customer Privacy Policy.
 
 Last updated: April 2015 **.** Future revisions to this Privacy and Cookie Notice will be posted at this location.
