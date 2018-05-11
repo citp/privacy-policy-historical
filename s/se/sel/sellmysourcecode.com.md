@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sellmysourcecode.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222032325id_/http%3A//www.sellmysourcecode.com/page/privacy-policy/40) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sellmysourcecode.com privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511115537id_/http%3A//www.sellmysourcecode.com/page/privacy-policy/40) for the most accurate reproduction.*
 
 # Privacy Policy
 
