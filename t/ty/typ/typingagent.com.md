@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the typingagent.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109062313id_/http%3A//typingagent.com/show.php%3Fid_pag%3D31%26inc%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typingagent.com privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511072119id_/http%3A//typingagent.com/show.php%3Fid_pag%3D31%26inc%3D1) for the most accurate reproduction.*
 
 # Untitled Document
 
