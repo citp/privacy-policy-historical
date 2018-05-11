@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the clickinmoms.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130113833id_/https%3A//clickandcompany.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickinmoms.com privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511064317id_/https%3A//clickandcompany.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Click & Company
+
+_Updated 10 May 2018_
 
 When accessing our website, Click & Company will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
 
@@ -36,16 +38,26 @@ Click & Company will not obtain personally-identifying information about you whe
 
 Cookies
 
-Click & Company may use cookies and other technologies to evaluate user behavior, tell us which parts of our website people have visited, and facilitate and measure the effectiveness of advertisements and web searches. We also use these technologies to remember personal information for your convenience when you use our website, online services, and applications.
+Click & Company may use cookies and other technologies to evaluate user behavior, tell us which parts of our website people have visited, and facilitate and measure the effectiveness of targeted advertisements and web searches. We also use these technologies to remember personal information for your convenience when you use our website, online services, and applications.
+
+Remarketing & Behavioral Targeting
+
+Click & Company uses third-party service providers to serve advertisements on our behalf across the Internet. These advertising service providers use cookies and pixel tags to gather information about your interactions with our website, as well as to inform, optimize and serve targeted advertising based on those interactions.
 
 Disclosure to Third Parties
 
 Click & Company may share your personal information with vendors and other third parties for the purpose of fulfilling customer orders, delivering products to you, facilitating prize claims, managing and enhancing customer data, and providing customer service.
 
-We may disclose your personal information when required by law or requested by governmental authorities, including but not limited to law enforcement officials. We may disclose your personal information about you if we determine that doing so is reasonably necessary to enforce our terms and conditions or protect our operations or users. Additionally, in the event of a reorganization, merger, or sale, we may transfer any and all personal information we collect to the relevant third party.
+We may disclose your personal information when required by law or requested by governmental authorities, including but not limited to law enforcement officials. We may disclose personal information about you if we determine that doing so is reasonably necessary to enforce our terms and conditions or protect our operations or users. Additionally, in the event of a reorganization, merger, or sale, we may transfer any and all personal information we collect to the relevant third party.
+
+How to Manage Your Consent to Email Marketing & Cookie Installation
+
+You can manage preferences for Cookies directly from within your own browser to prevent the installation of Cookies or to delete previously installed Cookies installed in the past.
+
+You can manage the email preferences for any Click & Company lists to which you may have opted in by clicking the “Manage Email Preferences,” “Opt-Out,” and/or “Unsubscribe” link located at the bottom of every email we send.
 
 Protection of Personal Information
 
 Click & Company takes precautions including but not limited to administrative and technical measures to safeguard your personal information against loss, theft, and misuse, as well as against unauthorized access, disclosure, alteration, and destruction.
 
-Please bear in mind that the personal information you share in your public user profile and within the Click & Company forums is visible to other users and can be read, collected, or used by them. You are responsible for the personal information you choose to submit in these circumstances.
+Please bear in mind that the personal information you share in your public user profile,  within the Click & Company forums, as part of a guest contributor profile, as part of a blog comment profile, and similar is visible to other users and can be read, collected, or used by them. You are responsible for the personal information you choose to submit in these circumstances.
