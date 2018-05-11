@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantwatcher.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109225603id_/http%3A//instantwatcher.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantwatcher.com privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511221110id_/http%3A//instantwatcher.com/static/privacy) for the most accurate reproduction.*
 
 # Netflix - instantwatcher - privacy
 
