@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panaceatek.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110022340id_/http%3A//www.panaceatek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panaceatek.com privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511182322id_/https%3A//www.panaceatek.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Web Development Company | Panacea Infotech
 
