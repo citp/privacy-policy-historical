@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modernlinefurniture.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109232513id_/http%3A//www.modernlinefurniture.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernlinefurniture.com privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511112025id_/http%3A//www.modernlinefurniture.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Modern Line Furniture - Commercial Furniture - Custom Made Furniture | Privacy Policy
 
