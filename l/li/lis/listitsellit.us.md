@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the listitsellit.us privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110030134id_/http%3A//listitsellit.us/privacy-p25) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listitsellit.us privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511231311id_/http%3A//listitsellit.us/privacy-p25) for the most accurate reproduction.*
 
-# Privacy Policy -
+# Privacy Policy - List it Sell it Classifieds
 
 Privacy Policy
 
