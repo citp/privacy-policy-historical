@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canon.com.my privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230135626id_/http%3A//www.canon.com.my/personal/web/privacy%3FlanguageCode%3DEN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canon.com.my privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511115048id_/http%3A//www.canon.com.my/personal/web/privacy%3FlanguageCode%3DEN) for the most accurate reproduction.*
 
 # Privacy policy - Canon Malaysia - Personal
 
@@ -95,9 +95,9 @@ The Personal Data Protection Act 2010 (hereinafter referred to as "the Act"), wh
 
 
   
-Contact Person: | Customer Support |   | Telephone No.: | 03-7844 6000   
+Contact Person: | Customer Support |   | Telephone No.: | 03-5568 2333  
 ---|---|---|---|---  
-E-mail address: | [cmm_customersupport@cmm.canon.com.my](mailto:cmm_customersupport@cmm.canon.com.my) |   | Facsimile No: | 03-7847 7222  
+E-mail address: | [cmm_customersupport@cmm.canon.com.my](mailto:cmm_customersupport@cmm.canon.com.my) |   | Facsimile No: | 03-5567 9441  
   
 If you wish to withdraw your consent and to unsubscribe from any future correspondences, please email us, otherwise we assume that you agree to our processing of your personal data in accordance with the above.
 
@@ -124,9 +124,9 @@ Akta Perlindungan Data Peribadi 2010 (selepas ini disebut sebagai "Akta"), yang 
 
 
   
-Individu Yang Perlu Dihubungi: | Customer Support |   | No. Telefon: | 03-7844 6000   
+Individu Yang Perlu Dihubungi: | Customer Support |   | No. Telefon: | 03-5568 2333   
 ---|---|---|---|---  
-Alamat e-mel: | [cmm_customersupport@cmm.canon.com.my](mailto:cmm_customersupport@cmm.canon.com.my) |   | No. Faksimili: | 03-7847 7222  
+Alamat e-mel: | [cmm_customersupport@cmm.canon.com.my](mailto:cmm_customersupport@cmm.canon.com.my) |   | No. Faksimili: | 03-5567 9441  
   
 Jika anda ingin menarik balik persetujuan dan berhenti melanggan dari mana-mana koresponden pada masa hadapan, sila e-mel kepada kami, jika tidak, kami menganggap bahawa anda bersetuju untuk pemprosesan ke atas data peribadi anda seperti di atas.
 
