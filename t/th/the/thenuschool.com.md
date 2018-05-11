@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenuschool.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109183155id_/http%3A//thenuschool.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenuschool.com privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511160712id_/http%3A//thenuschool.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The nuSchool
 
