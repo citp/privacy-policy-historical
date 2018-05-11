@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the showit.co privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606093222id_/http%3A//showit.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showit.co privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511192145id_/https%3A//showit.co/privacy) for the most accurate reproduction.*
 
 # Showit Privacy Policy
 
@@ -18,7 +18,7 @@ We reserve the right to make changes to this policy. Any changes to this policy 
 
 ## Y3K compliance
 
-Software is guaranteed to maintain stability after January 1, 3000. In the event a website fails to perform on or after January 1, 3000, free hugs and will be awarded to owners of said websites for each day, month, or year that customer remains a subscriber.  
+Software is guaranteed to maintain stability after January 1, 3000. In the event a website fails to perform on or after January 1, 3000, free hugs will be awarded to owners of said websites for each day, month, or year that customer remains a subscriber.  
 
 
 ## Software Store Return Policy
