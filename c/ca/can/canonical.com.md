@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canonical.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227235551id_/https%3A//www.ubuntu.com/legal/terms-and-policies/privacy-policy%23cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canonical.com privacy policy that was archived on 2018-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180512012832id_/https%3A//www.ubuntu.com/legal/terms-and-policies/privacy-policy%23cookies) for the most accurate reproduction.*
 
 # Privacy policy | Terms and policies | Ubuntu
 
