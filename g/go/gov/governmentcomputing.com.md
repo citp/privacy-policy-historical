@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the governmentcomputing.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119145715id_/http%3A//www.governmentcomputing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the governmentcomputing.com privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511120841id_/http%3A//www.governmentcomputing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Government Computing Network
 
@@ -30,7 +30,7 @@ On occasion, we may gather information about your computer for our services and 
 
 Such information will not identify you personally it is statistical data about our visitors and their use of our site. This statistical data does not identify any personal details whatsoever. 
 
-Similarly to the above, we may gather information about your general internet use by using a cookie file.  Where used, these cookies are downloaded to your computer automatically. This cookie file is stored on the hard drive of your computer as cookies contain information that is transferred to your computer's hard drive. They help us to improve our website and the service that we provide to you. 
+Similarly to the above, we may gather information about your general internet use by using a cookie file.  Where used, these cookies are downloaded to your computer automatically. This cookie file is stored on the hard drive of your computer as cookies contain information that is transferred to your computer’s hard drive. They help us to improve our website and the service that we provide to you. 
 
 All computers have the ability to decline cookies.  This can be done by activating the setting on your browser which enables you to decline the cookies. Please note that should you choose to decline cookies, you may be unable to access particular parts of our website. 
 
@@ -57,7 +57,7 @@ We use a range of third party services on our sites, from statistics packages to
 
 **Social Media Tracking**
 
-**__utmx, __utmxx, di, dt, loc, psc, uid, uit** and **uvc** are cookies that are used to collect certain non-personally identifiable information automatically for use on the "AddThis Platform". This enables us to better understand how people are consuming and sharing our content socially and which content is more popular.
+**__utmx, __utmxx, di, dt, loc, psc, uid, uit** and **uvc** are cookies that are used to collect certain non-personally identifiable information automatically for use on the “AddThis Platform”. This enables us to better understand how people are consuming and sharing our content socially and which content is more popular.
 
 [AddThis.com Privacy Policy](http://www.addthis.com/privacy/privacy-policy)
 
@@ -83,11 +83,11 @@ You can learn about and opt out of a number of commercial third party cookies at
 
 You can find up-to-date information clearly explaining how to control or delete cookies on your Windows PC or Apple Mac at [www.aboutcookies.org](http://www.aboutcookies.org/)
 
-To control or delete cookies on your mobile phone, please refer to your handset manufacturer's help manual.
+To control or delete cookies on your mobile phone, please refer to your handset manufacturer’s help manual.
 
-We use Macromedia Flash Player to deliver certain services on our sites. To improve user experience, Local Shared Objects - or Flash Cookies as they are commonly known - are employed to provide features such as auto-resume or saving preferences. Flash Cookies are stored on a user's terminal much the same as cookies are, however it is not possible to manage them at browser level in the same way.
+We use Macromedia Flash Player to deliver certain services on our sites. To improve user experience, Local Shared Objects – or Flash Cookies as they are commonly known – are employed to provide features such as auto-resume or saving preferences. Flash Cookies are stored on a user’s terminal much the same as cookies are, however it is not possible to manage them at browser level in the same way.
 
-The Adobe website provides comprehensive information on how to delete or disable Flash cookies either for a specific domain or for all websites - see <http://kb2.adobe.com/cps/526/52697ee8.html> for details. Please be aware that restricting the use of Flash Cookies may affect the features available to you for Flash-based applications on our sites.
+The Adobe website provides comprehensive information on how to delete or disable Flash cookies either for a specific domain or for all websites – see <http://kb2.adobe.com/cps/526/52697ee8.html> for details. Please be aware that restricting the use of Flash Cookies may affect the features available to you for Flash-based applications on our sites.
 
 **Further information**
 
@@ -108,13 +108,15 @@ If you are a previous or existing customer, we may contact you with information 
 
 Furthermore, we may use your data, or permit selected third parties to use your data, so that you can be provided with information about unrelated products and services which we consider may be of interest to you. We or they may contact you about these products and services by any methods that you consented at the time your information was collected.
 
-You may stop these messages at any time by emailing [unsubscribe@pmgoperations.com](mailto:unsubscribe@pmgoperations.com) or opting-out using the opt-out tool at the bottom of the email communication. 
+You may stop these messages at any time by emailing  
+[unsubscribe@pmgoperations.com](mailto:unsubscribe@pmgoperations.com) or opting-out using the opt-out tool at the bottom of the email communication. 
 
 Information About Other People
 
 On certain parts of the website, you can submit information about other people. For example, you may be able to provide an email address of colleagues who may be interested in registering to attend an event. We will use this information to contact these people for the purposes of increasing event attendance.
 
-These messages can be stopped at any time by emailing [unsubscribe@pmgoperations.com](mailto:unsubscribe@pmgoperations.com) or opting-out using the opt-out tool at the bottom of the email communication. 
+These messages can be stopped at any time by emailing  
+[unsubscribe@pmgoperations.com](mailto:unsubscribe@pmgoperations.com) or opting-out using the opt-out tool at the bottom of the email communication. 
 
 Chat and Message Boards
 
@@ -151,7 +153,8 @@ The Data Protection Act 1998 gives you the right to access the information that 
 
 Contacting Us
 
-We welcome any queries, comments or requests you may have regarding this Privacy Policy.  Please do not hesitate to contact us at:  
+We welcome any queries, comments or requests you may have regarding this Privacy Policy.  Please do not hesitate to contact us at:
+
 [unsubscribe@pmgoperations.com](mailto:unsubscribe@pmgoperations.com?subject=Privacy%20Query%20from%20Government%20Computing%20Network)
 
 John Carpenter House, John Carpenter Street, London EC4Y 0AN, UK.
