@@ -1,73 +1,128 @@
-> *The following text is extracted and transformed from the poolcorp.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128151233id_/http%3A//poolcorp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poolcorp.com privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511183956id_/http%3A//www.poolcorp.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | POOLCORP
+# Privacy Policy
 
-We at Pool Corporation respect your privacy and are committed to reasonable measures to safeguard any personal information you may share with us. The purpose of this privacy policy is to set out the principles governing our use of personal information. 
+### Privacy Policy
 
-This Policy does not cover any interaction you may have with us by telephone, postal mail, or other offline communications.  It applies to the POOLCORP.com website and content and to other related websites where this policy appears via a link in the footer of the page. Some POOLCORP or POOLCORP subsidiary or affiliate websites we operate may be governed by separate privacy policies. The policy that applies in relation to any of our websites is always the policy that appears via a link in the footer of the website.
+At Pool Corporation, we respect our website guests and understand that you are concerned about privacy. We have therefore posted this Privacy Policy to let you know what kind of personal information we collect, how it is handled, and with whom it may be shared.
 
-This website is not targeted towards users outside the USA. Please go to [www.POOLCORP.com](http://www.poolcorp.com/) to access our non-U.S. websites. Our websites are not designed for use by children. We ask that anyone under the age of thirteen not submit any personal information through our websites. We do not knowingly collect any personal information from children under the age of thirteen, and therefore we do not knowingly distribute such information to third parties. 
+This Policy does not cover any interaction you may have with us by telephone, postal mail, or other offline communications. It applies only to the www.poolcorp.com website and other related websites that we have linked to this Privacy Policy (collectively “Websites”). Other websites operated by Pool Corporation, our subsidiaries or affiliates, or other third parties, may be governed by separate privacy policies, and we recommend that you review the privacy policies referenced on those websites.
 
-**By visiting this website, you are accepting the practices described in this Policy.**
+These Websites are intended for users in the United States and are not intended for users in other locations. Users accessing these Websites from other locations do so on their own initiative and are responsible for compliance with local laws. 
 
-**I. Information That We Collect**
+Our Websites do not target and are not intended to attract children under the age of 13. We do not knowingly collect any personal information from children, and therefore we do not knowingly distribute such information to third parties.
 
-**Personal Information**  
-At various locations on our websites, we may request that you supply us with "personal information," such as your name, email address, mailing and shipping addresses, home or work telephone number, and/or credit card information. You will always know when we are collecting personal information because we only collect personal information when you voluntarily submit it to us. If you do choose to give us personal information through our websites, we will collect and retain that information, and you consent to the transfer and storage of that information on our servers located in the United States. If you choose not to give us personal information, we may not be able to provide you with any services you may request or require.
+**By visiting our Websites, you consent to our use of the information we collect from you according to this Privacy Policy, including our release of information to third parties as described below.**
 
-**Non-Personal Information**  
-When you use our websites, we may also collect "non-personal information," which is information that, by itself, cannot be used to identify or contact you, such as demographic information (such as your age, gender, income, education, profession, zip code, etc.) or technical information (such as your IP address, the type of browser you are using, the websites you visit immediately before and immediately after you visit our websites, and other anonymous data involving your use of our websites). Non-personal information may also include information that you provide us through your use of our websites, such as the terms you enter into the search functions of our websites.
+  
 
-**Cookies**  
-We use "cookies" to enhance your visits to our websites. Our cookies can store your password, personalize pages, and keep track of selections, such as your time zone and episode selections, or items you have placed in a "shopping cart."
 
-**II. How We Use the Information We Collect**
+### I. Information That We Collect
 
-**Our Services and Websites**  
-We use your personal information to provide you any services that you may request or require, to communicate with you, to allow you to make purchases, and to allow you to participate in online contests, surveys and games. We use aggregated non-personal information about our users to understand our website's demographics, such as the percentage of male and female users, the geographic distribution of our users, the age ranges of our users, or a combination of these or other demographics. We use the non-personal information we collect to analyze how our websites are being used, and to improve the content of our websites, online product offerings, and marketing and promotional efforts.
+#### Personal Information
 
-**Email Communications and Opting Out**  
-If you send us an email with questions or comments, we may use your personal information to respond to your questions or comments, and we may save your questions or comments for future reference. There may be times when you will have the opportunity to subscribe to an email list or electronic newsletter that will send information about our websites or our advertisers to your email address. However, we will provide you with the option to change your preferences and opt-out of receiving those communications by clicking the "unsubscribe" link included in the email. If you unsubscribe, we will make reasonable efforts to discontinue these email communications as soon as practicable.  We may also, from time to time, contact you by e-mail with unsolicited information about our products or services. If you do not wish to receive such e-mails you can easily opt out by sending us [an email.](mailto:privacy@POOLCORP.com)
+We collect various types of "personal information" depending on how you use our Websites. For example, when you register as a customer on our Websites, we collect your name, email address, mailing and shipping addresses, telephone numbers, and credit card information, so that we can process orders you submit through our Websites. When you begin or complete the job application process on our Websites, we collect your name, address, phone number, and other information, so that we can process your application.
 
-**III. Disclosure of Information to Third Parties**
+You will always know when we are collecting personal information because we only collect personal information when you voluntarily submit it to us. If you do choose to give us personal information through our Websites, we will collect and retain that information, and you consent to the transfer and storage of that information on our servers. If you choose not to give us personal information, we may not be able to provide you with any services you may request or require.
 
-**Affiliates and Non-Affiliates**  
-Except as specifically set forth in this Policy, we do not share your personal information with any non-affiliated third party without your permission. We may disclose aggregate information, such as demographic information, and our statistical analyses to third parties, including advertisers or other business partners. This aggregate information does not include your personal information. We may, however, share your personal information with certain entities that control us, are controlled by us, or are under common control with us (our "Affiliates"), and websites operated by our Affiliates or other businesses of Pool Corporation, our parent company, so that they and we can offer you products and services that may be of interest to you.
+  
 
-**Service Providers**  
-We sometimes engage unaffiliated businesses to assist us in providing you certain services. In those instances, we may need to share your personal information with them. We sometimes offer promotions (like sweepstakes) in conjunction with a third party sponsor. If you choose to participate in one of those promotions, we may share your information with the sponsor.
 
-**Business Transactions**  
-We may buy, sell or combine with other businesses. If so, personal and non-personal information that we or other businesses have collected will likely be transferred as part of the transaction.
+#### Non-Personal Information
 
-**Third Party Advertisers**  
-We use third-party advertising companies to deliver specific advertisements to you, which appear on pages throughout our websites. These companies collect non-personal information about your visits to our websites and other websites in order to provide advertisements about products and services that may be of interest to you. These companies may also aggregate your non-personal information for use in targeted advertising, marketing research, and other similar purposes. These companies may place their own cookies on your computer.
+When you use our Websites, we may also collect "non-personal information," which is information that, by itself, cannot be used to identify or contact you, such as demographic information (such as your age, gender, income, education, profession, zip code, etc.) or technical information (such as your IP address, the type of browser you are using, and the websites you visit immediately before and immediately after you visit our Websites). Non-personal information may also include information that you provide us through your use of our Websites, such as the terms you enter into the search functions of our Websites.
 
-**Other Disclosures**  
-We may disclose personal information when we are required or requested to do so by law, court order or other government or law enforcement authority or regulatory agency; to enforce or apply our rights and agreements; or when we believe in good faith that disclosing this information is necessary or advisable, including, for example, to protect the rights, property, or safety of our businesses, our websites, our customers, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. We reserve the right to use or disclose non-personal information in any way we see fit.
+  
 
-**Notice and choice for onward transfer**
 
-We will ask you for your opt-in consent to share your personal information with a third party for any other reason.
+#### Cookies
 
-**IV. Security of the Information We Collect**
+When you visit or interact with our Websites, we (or our third-party providers) may use "cookies" or other similar technologies to personalize and enhance your experience. A “cookie” is a small piece of information sent to a visitor’s computer or other Internet-connected devices to uniquely identify the visitor’s browser or to store information or settings in the browser. Our Websites use both session cookies and persistent cookies.
 
-The security of your personal information is important to us. We maintain physical, electronic, and procedural safeguards to secure your personal information. However, there is always some risk in transmitting information electronically. As we deem appropriate, we use security measures consistent with industry standards. However, we cannot guarantee the security of our databases, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet. Of course, any information you post to any message board, discussion group, or other public posting area on our websites is available to anyone with Internet access.
+Session cookies enable you to move from page to page and to use features on our Websites while your browser remains open. For example, session cookies allow you to add products to your shopping cart and carry the contents of your cart to checkout.
 
-**V. Accuracy of the Information We Collect**
+Persistent cookies last from visit to visit. For example, persistent cookies may be used to recognize you as a previous user to provide a more personalized experience. They are stored in your computer, device, or browser until you choose to delete them.
 
-**Access and Corrections**
+The majority of web browsers accept cookies and similar files, but you can usually change the browser settings to prevent this. However, if you do so, some functionality of our Websites may be lost. Please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) for more information about cookies and how to disable them.
 
-You may request access to personal data that are held about you upon payment of a small fee, in an amount determined by us.  Subject to the limitations described below, you also have a right to require any inaccuracies in your information to be corrected free of charge.
+  
 
-Any questions you may have regarding our Privacy Policy, the accuracy of your personal information or the use of your personal information, or any requests that we correct, update, or remove your information in our databases, should be directed via email to [privacy@POOLCORP.com](mailto:privacy@POOLCORP.com).
 
-After receiving a request to change your information, we will make reasonable efforts to ensure that all of your personal information stored in databases we actively use will be updated as soon as reasonably practicable. However, we reserve the right to retain in our archival files any information we remove from or change in our active website databases. In addition, it is not technologically possible to remove each and every record of the information you have provided to us. A copy of your personal information may exist in a non-erasable form that will be difficult or impossible for us to locate.
+#### Do Not Track
 
-**VI.**   **Third-party Links**
+Our Websites currently do not respond to Do Not Track signals in browsers. Third parties that have content embedded on our website (such as buttons, widgets, and other embedded features or content) may set cookies on your browser or obtain information about the fact that you visited our websites from a certain IP address. Our third-party providers may also collect personal information as described in this Policy, and we encourage you to review the privacy policies of those third parties.
 
-Our Web site may provide links to other third-party Web sites that are outside our control and not covered by this policy. We encourage you to review the privacy policies posted on these sites.
+  
 
-We reserve the right to change this Policy at any time, and will post any changes to this Policy as soon as they go into effect. Please refer back to this Policy on a regular basis.
 
-This policy is effective as of November 14, 2012.
+### II. How We Use the Information We Collect
+
+We use the non-personal information we collect to analyze how our Websites are being used, and to improve the content of our Websites, online product offerings, and marketing and promotional efforts.
+
+If you choose to provide personal information to us, we may use your personal information in a number of ways, including to provide you with the services you have requested, to process orders or respond to inquiries, to administer contests and surveys, and to communicate offers and other information we feel may be of interest to you. If you wish to opt out of certain communications, such as email offers and newsletters, you may do so by clicking the “unsubscribe” link included in the email, and we will make reasonable efforts to discontinue these email communications as soon as practicable.
+
+  
+
+
+### III. Disclosure of Information to Third Parties
+
+#### Affiliates and Non-Affiliates
+
+Except as specifically set forth in this Policy, we do not share your personal information with any non-affiliated third party without your permission. We may disclose aggregate information, such as demographic information, and our statistical analyses to third parties, including advertisers or other business partners. This aggregate information does not include your personal information. We may, however, share your personal information with certain entities that control us, are controlled by us, or are under common control with us (our "Affiliates"), so that they and we can offer you products and services that may be of interest to you. We require that our Affiliates agree to process such information based on our instructions and in compliance with this Policy.
+
+  
+
+
+#### Service Providers
+
+We may share your personal information with outside companies that perform services for us. When we work with an outside party, we require that these parties agree to process your personal information based on our instructions and in compliance with this Policy. We will take appropriate steps designed to ensure your information will be used solely to provide the services requested by us, and not for other purposes.
+
+We sometimes offer promotions (like sweepstakes) in conjunction with a third party sponsor. If you choose to participate in one of those promotions, we may share your information with the sponsor. We recommend that you review the sponsor’s privacy policy before choosing to participate in a promotion.
+
+  
+
+
+#### Business Transactions
+
+We may buy, sell or combine with other businesses. If so, personal and non-personal information that we or other businesses have collected may be transferred as part of the transaction.
+
+  
+
+
+#### Third Party Advertisers
+
+We use third-party advertising companies to deliver specific advertisements to you, which appear on pages throughout our Websites. These companies collect non-personal information about your visits to our Websites and other websites in order to provide advertisements about products and services that may be of interest to you. These companies may also aggregate your non-personal information for use in targeted advertising, marketing research, and other similar purposes. Third-party cookies and similar technologies are covered by the third parties’ privacy policies.
+
+  
+
+
+#### Other Disclosures
+
+We may disclose your personal information in response to subpoenas, court orders, or other lawful requests by public authorities, including to meet national security or law enforcement requirements. We may also disclose personal information in order to enforce or apply our rights and agreements, or when we believe in good faith that disclosing this information is necessary or advisable, including, for example, to protect the rights, property, or safety of our businesses, our Websites, our customers, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. We reserve the right to use or disclose non-personal information in any way we see fit.
+
+  
+
+
+### IV. Security of the Information We Collect
+
+The security of your personal information is important to us. We maintain physical, electronic, and procedural safeguards to secure the personal information we collect on our Websites.
+
+There is always some risk in transmitting information electronically. As we deem appropriate, we use security measures consistent with industry standards. However, we cannot guarantee the security of our databases, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet.
+
+Keep in mind that any information you choose to post to our Websites, including on any message board, discussion group, or other public posting area, is available to other users with access to those areas.
+
+  
+
+
+### V. Accuracy of the Information We Collect
+
+#### Access and Corrections
+
+You may contact us at any time at [privacy@POOLCORP.com](mailto:privacy@POOLCORP.com) to: (1) see what personal information we have about you, if any, (2) request corrections to or deletions of any personal information we have about you, or (3) express any concerns you have about our use of your personal information. However, it is not technologically feasible to remove each and every instance of information we hold on you from our systems, and data may remain in a non-erasable or aggregate form. We may also retain data for a period in our backup or temporary systems, or for longer periods as required by law, contract, or auditing requirements.
+
+  
+
+
+### VI. Changes
+
+We reserve the right to change this Policy at any time, and will post any changes to this Policy as soon as they go into effect. Please refer back to this Policy on a regular basis. This Policy was last updated February 22, 2018.
