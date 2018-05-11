@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truecrimereport.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110042717id_/http%3A//www.truecrimereport.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truecrimereport.com privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511144432id_/http%3A//www.truecrimereport.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - True Crime Report
 
@@ -90,4 +90,4 @@ If your personally identifiable information changes, you may correct and/or upda
 
 ### More Questions? 
 
-If you have any questions about this privacy policy, please e-mail them to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ef9f9d86998e8c968e8b828681869c9b9d8e9b809daf9980868c8a828a8b868e889d809a9fc18c8082), and be sure to indicate the specific site you are visiting and the nature of your question or concern.
+If you have any questions about this privacy policy, please e-mail them to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1767657e6176746e76737a7e797e646365766378655761787e74727a72737e7670657862673974787a), and be sure to indicate the specific site you are visiting and the nature of your question or concern.
