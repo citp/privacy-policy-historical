@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostmop.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110024054id_/http%3A//www.hostmop.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostmop.com privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511144343id_/http%3A//www.hostmop.com/privacy-policy.php) for the most accurate reproduction.*
 
 # HostMop : Privacy Policy
 
