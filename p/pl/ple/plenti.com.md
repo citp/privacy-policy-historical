@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plenti.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230042345id_/https%3A//www.plenti.com/onlineprivacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plenti.com privacy policy that was archived on 2018-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180512131503id_/https%3A//www.plenti.com/onlineprivacystatement) for the most accurate reproduction.*
 
 # Online Privacy Statement | Plenti
 
