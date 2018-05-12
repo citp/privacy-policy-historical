@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the majon.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214210018id_/http%3A//www.majon.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the majon.com privacy policy that was archived on 2018-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180512065039id_/http%3A//www.majon.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Search Engine Marketing
 
 #### **Majon International Privacy Policy**
 
-We respect and are committed to protecting your privacy. Our Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the web pages, newsletters, discussion lists and opt-in announcement lists owned and operated by Majon International and its web site network. If you require any more information or have any questions about our privacy policy, please feel free to contact us via our [contact page](http://majon.com/contact)
+We respect and are committed to protecting your privacy. Our Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the web pages, newsletters, discussion lists and opt-in announcement lists owned and operated by Majon International and its web site network. If you require any more information or have any questions about our privacy policy, please feel free to contact us via our [contact page](http://www.majon.com/contact)
 
 At www.majon.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.majon.com and how it is used.
 
