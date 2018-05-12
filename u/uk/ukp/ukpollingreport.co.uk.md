@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukpollingreport.co.uk privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109201248id_/http%3A//ukpollingreport.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukpollingreport.co.uk privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513014710id_/http%3A//ukpollingreport.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # UK Polling Report
 
