@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logotypes101.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109192341id_/http%3A//www.logotypes101.com/c/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logotypes101.com privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513001532id_/http%3A//www.logotypes101.com/c/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : LogoTypes101.com
 
