@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vidinfo.org privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109201352id_/http%3A//www.vidinfo.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidinfo.org privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513014941id_/http%3A//www.vidinfo.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - VidInfo
 
