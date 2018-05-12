@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ioncube.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110133046id_/http%3A//www.ioncube.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ioncube.com privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513010824id_/http%3A//www.ioncube.com/pp.php) for the most accurate reproduction.*
 
 # Privacy Policy - PHP Encoder, protection, installer and performance tools from ionCube
 
@@ -8,7 +8,7 @@ As providers of the ionCube.com Online PHP Encoding Service, the ionCube website
 
 ### INFORMATION GATHERING AND USE
 
-The Service gathers and keeps only the minimal information as is necessary to provide a reasonable and satisfactory service. Members' information will not be imparted in any form whether for profit or otherwise in ways different from those disclosed in this statement. Currently this means that the information is not disclosed to anyone.
+The Service gathers and keeps only the minimal information as is necessary to provide a reasonable and satisfactory service. Members' information will not be imparted in any form whether for profit or otherwise in ways different from those disclosed in this statement. Currently this means that the information is not disclosed to anyone. We may use the contact information you supply through the Service at ioncube.com and ioncube24.com to contact you with pertinent information relating to your account, usage of the Service or with relevant marketing information.
 
 ### INFORMATION FOR ONLINE PURCHASES
 
@@ -16,7 +16,7 @@ For your security, information gathered and processed for effecting a purchase i
 
 ### THE USE OF COOKIES
 
-A cookie is a piece of data stored on a visitor's computer containing information sent from the Service. It is passed to the Service when the user requests pages. The Service uses a cookie to establish and authenticate a private session between a member and the Service. Cookies cannot be used to obtain any information from the users computer other than that which was stored in the cookie by the Service in the first place. The cookie is invalidated and may be deleted by the member's browser when the member elects to log out of the Service. For more details, see our [Cookies Policy](https://web.archive.org/web/20171110133046id_/http%3A//www.ioncube.com/cookies_policy.php).
+A cookie is a piece of data stored on a visitor's computer containing information sent from the Service. It is passed to the Service when the user requests pages. The Service uses a cookie to establish and authenticate a private session between a member and the Service. Cookies cannot be used to obtain any information from the users computer other than that which was stored in the cookie by the Service in the first place. The cookie is invalidated and may be deleted by the member's browser when the member elects to log out of the Service. For more details, see our [Cookies Policy](https://web.archive.org/web/20180513010824id_/http%3A//www.ioncube.com/cookies_policy.php).
 
 ### TRANSACTION AND LOG FILES
 
@@ -36,4 +36,4 @@ The site stores source code in a secure area that is unique to each member, and 
 
 ionCube works with third parties for the purposes of fault detection, performance measurement, targeted information based on users' interests and conversion tracking. Third party services and interest-based advertising can sometimes be opted out of through the Do Not Track functionality of the web browser (if provided). Twitter promotions may be run from time to time, and can be opted out of as described [here](https://support.twitter.com/articles/20170405).
 
-(c) ionCube Ltd. Updated August 25th 2015
+(c) ionCube Ltd. Updated November 14th 2017
