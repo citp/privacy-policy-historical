@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the eatwisconsincheese.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110132427id_/http%3A//www.eatwisconsincheese.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatwisconsincheese.com privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513004756id_/http%3A//www.eatwisconsincheese.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Eat Wisconsin Cheese
 
 ## INTRODUCTION
 
-The policies below are intended to clearly inform our users about our privacy practices and procedures and are applicable to EatWisconsinCheese.com (previously named WisDairy.com), AmericasDairyland.com (previously named DairyDoingMore.org), EatCurds.com, DairyDaysofSummer.com, WMMB.com, WisconsinDairyCouncil.com, WisconsinCheeseRetail.com and WisconsinCheeseFoodservice.com.
+The policies below are intended to clearly inform our users about our privacy practices and procedures and are applicable to EatWisconsinCheese.com (previously named WisDairy.com), WisconsinCheese.com, WisconsinDairy.org (combined from WMMB.com, AmericasDairyland.com and DairyDoingMore.org), HoorayWisconsinDairy.com (previously DairyDaysofSummer.com), WisconsinDairyCouncil.com, WisconsinCheeseRetail.com and WisconsinCheeseFoodservice.com.
 
 As part of the registration, operation and customization features of EatWisconsinCheese.com, we gather certain types of information from users. We would like to explain the types of information we gather, what we do with them, and how to correct or change the information. Please review this privacy policy when you enter the website to keep aware of any policy changes.
 
@@ -25,7 +25,7 @@ Some data we collect contains non-personal information. Examples of this type of
 
 ## CHILDREN AND PRIVACY
 
-EatWisconsinCheese.com has no intention of collecting personal information from children (i.e., individuals under the age of 13). If a child has provided us with personal information, EatWisconsinCheese.com asks that a parent or guardian of the child contact us at [info@EatWisconsinCheese.com](mailto:info@EatWisconsinCheese.com) if they would like the information submitted by a child deleted from our database. EatWisconsinCheese.com will use reasonable efforts to delete such information from its database.
+EatWisconsinCheese.com has no intention of collecting personal information from children (i.e., individuals under the age of 13). If a child has provided us with personal information, EatWisconsinCheese.com asks that a parent or guardian of the child contact us at [hello@EatWisconsinCheese.com](mailto:hello@EatWisconsinCheese.com) if they would like the information submitted by a child deleted from our database. EatWisconsinCheese.com will use reasonable efforts to delete such information from its database.
 
 ## COOKIES
 
@@ -39,7 +39,7 @@ EatWisconsinCheese.com uses both the personal and non-personal information we co
 
 ## CHANGING USER INFORMATION
 
-To correct or change your registration information click on the "My Account" link on the top of each EatWisconsinCheese.com page. To have us correct other personal information that you believe may be incorrect contact us at [info@EatWisconsinCheese.com](mailto:info@EatWisconsinCheese.com).
+To correct or change your registration information click on the "My Account" link on the top of each EatWisconsinCheese.com page. To have us correct other personal information that you believe may be incorrect contact us at [hello@EatWisconsinCheese.com](mailto:hello@EatWisconsinCheese.com).
 
 ## SECURITY
 
@@ -53,9 +53,9 @@ By using this website, you consent to our use of your personal and non-personal 
 
 Your privacy concerns are important to us. Please email or write to us with any further questions or concerns regarding this Privacy Policy.
 
-Wisconsin Milk Marketing Board, Inc.  
+Dairy Farmers of Wisconsin  
 C/O EatWisconsinCheese.com  
 8418 Excelsior Drive  
 Madison, Wisconsin 53719  
 Phone: 608-836-8820  
-[info@EatWisconsinCheese.com](mailto:info@EatWisconsinCheese.com)
+[hello@EatWisconsinCheese.com](mailto:hello@EatWisconsinCheese.com)
