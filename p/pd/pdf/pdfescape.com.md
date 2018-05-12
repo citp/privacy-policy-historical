@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the pdfescape.com privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919115317id_/https%3A//www.pdfescape.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfescape.com privacy policy that was archived on 2018-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180512154712id_/http%3A//pdfescape.com/privacy) for the most accurate reproduction.*
 
 # PDFescape Privacy Policy
 
-Effective April 29 2015
+Effective October 23 2017
 
 ## Red Software Websites
 
 The following websites ("Red Software Websites") are operated by Red Software ("we" or "us") and governed by this privacy policy: 
 
-  * [http://www.pdfescape.com](http://www.pdfescape.com/) ("PDFescape Website") 
-  * [http://www.radpdf.com](http://www.radpdf.com/)
-  * [http://www.redsoftware.com](http://www.redsoftware.com/)
+  * [https://www.pdfescape.com](https://www.pdfescape.com/) ("PDFescape Website") 
+  * [https://www.radpdf.com](https://www.radpdf.com/)
+  * [https://www.redsoftware.com](https://www.redsoftware.com/)
 
 
 
@@ -75,9 +75,9 @@ How long is this information retained?
 
 
 
-### Google Adwords, AdSense and Analytics
+### Google Adwords, AdSense, Analytics, and reCAPTCHA
 
-Google AdWords is a program run by Google that delivers advertisements promoting Red Software Websites and other websites across the Internet. Google AdSense is a program run by Google that delivers advertisements displayed on Red Software Websites. Google Analytics is a web analysis service provided by Google that is in use on Red Software Websites. Google may utilize the data collected to track and examine the use of Red Software Websites, to prepare reports on its activities, and to share them with other Google services. Google may use the data collected to contextualize and personalize the ads of its own advertising network. Google may collect cookie and usage data. Google may share this information with other parties. Google's privacy policy can be found at <http://www.google.com/intl/en/policies/privacy/>. 
+Google AdWords is a program run by Google that delivers advertisements promoting Red Software Websites and other websites across the Internet. Google AdSense is a program run by Google that delivers advertisements displayed on Red Software Websites. Google Analytics is a web analysis service provided by Google that is in use on Red Software Websites. Google reCAPTCHA is a website protection service provided by Google that is in use on Red Software Websites. Google may utilize the data collected to track and examine the use of Red Software Websites, to prepare reports on its activities, and to share them with other Google services. Google may use the data collected to contextualize and personalize the ads of its own advertising network. Google may collect cookie and usage data. Google may share this information with other parties. Google's privacy policy can be found at <http://www.google.com/intl/en/policies/privacy/>. 
 
 Red Software Websites may implement some Google Analytics Advertising Features, including Remarketing with Google Analytics. Remarketing (using things like cookies) helps third party vendors like Google to advertise and promote our products and services based on your past visits to Red Software Websites. You can opt out of the Google's use of cookies by visiting [Google's Ad Settings](http://www.google.com/settings/ads). 
 
