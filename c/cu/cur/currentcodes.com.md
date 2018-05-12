@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the currentcodes.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003140028id_/http%3A//www.currentcodes.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currentcodes.com privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513015929id_/http%3A//currentcodes.com/privacy.htm) for the most accurate reproduction.*
 
 # 
 
