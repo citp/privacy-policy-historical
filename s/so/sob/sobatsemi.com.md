@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sobatsemi.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227231637id_/http%3A//www.sobatsemi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sobatsemi.com privacy policy that was archived on 2018-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180512160307id_/http%3A//sobatsemi.stream/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Nonton Film Semi Terbaru
+# Privacy Policy | Nonton Film Semi Terbaru | Nonton Film Semi Terbaru
 
 sobatsemi.com is committed to user privacy and/or our policy below and describes our principles in maintaining user trust and confidence and protecting your private data.
 
