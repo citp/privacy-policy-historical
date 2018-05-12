@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supersafemailer.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109062814id_/http%3A//supersafemailer.com/legal.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supersafemailer.com privacy policy that was archived on 2018-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180512190222id_/http%3A//supersafemailer.com/legal.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
 
 # Super Safe Mailer
 
@@ -80,7 +80,7 @@ Effective Date: 11/18/2016
 
 Contact Information:  
 Dave Mosher  
-4750 Bryant Irvin Rd. #808-172, Fort Worth, TX 76132  
+1220G Airport Fwy #492, Bedford, TX 76022  
 Email davemoshershelpdesk@gmail.com  
 Payza Email payza@supersafemailer.com  
 Support: http://www.totaladexplosion.com/support/index.php  
