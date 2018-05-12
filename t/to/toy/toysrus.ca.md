@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the toysrus.ca privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212045015id_/http%3A//www.toysrus.ca/helpdesk/panel/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toysrus.ca privacy policy that was archived on 2018-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180512171056id_/http%3A//www.toysrus.ca/helpdesk/panel/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
 
 # Toys"R"Us/Babies"R"Us : Help Desk
-
-Thank you for visiting Babies R Us. If you need assistance with shopping on our site, please call us at 888-222-9787 and a customer care representative will be happy to assist you. Please inform the Customer Service representative that you require assistance.
 
 **The "R" Us Family Privacy Policy**
 
@@ -169,4 +167,4 @@ _Effective Date of Privacy Policy: October 12, 2017_
 
 Toys"R"Us (Canada) Ltd. 2777 Langstaff Road, Concord ON L4K 4M5, Tel: 1 800 TOYSRUS, Email: [can_customerservice@toysrus.com](mailto:can_customerservice@toysrus.com)
 
-© 2017 Toys"R"Us (Canada) Ltd. All Rights reserved. Toys”R”Us, Babies”R”Us are registered trademarks of Toys”R”Us (Canada) Ltd. Use of this site signifies your acceptance of Toys"R"Us Website [Terms and Conditions](https://web.archive.org/helpdesk/panel/index.jsp?display=safety&subdisplay=terms) and [Privacy Policy](https://web.archive.org/helpdesk/panel/index.jsp?display=safety&subdisplay=privacy).
+© 2018 Toys"R"Us (Canada) Ltd. All Rights reserved. Toys”R”Us, Babies”R”Us are registered trademarks of Toys”R”Us (Canada) Ltd. Use of this site signifies your acceptance of Toys"R"Us Website [Terms and Conditions](https://web.archive.org/helpdesk/panel/index.jsp?display=safety&subdisplay=terms) and [Privacy Policy](https://web.archive.org/helpdesk/panel/index.jsp?display=safety&subdisplay=privacy).
