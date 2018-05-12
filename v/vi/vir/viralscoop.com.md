@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralscoop.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108093737id_/http%3A//www.viralscoop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralscoop.com privacy policy that was archived on 2018-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180512075402id_/http%3A//www.viralscoop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Viral Scoop
 
