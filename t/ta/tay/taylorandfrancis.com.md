@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taylorandfrancis.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203053745id_/http%3A//taylorandfrancis.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taylorandfrancis.com privacy policy that was archived on 2018-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180512144417id_/http%3A//taylorandfrancis.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy and cookies | Taylor & Francis Group
 
