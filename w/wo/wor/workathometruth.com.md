@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workathometruth.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024233942id_/http%3A//www.workathometruth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workathometruth.com privacy policy that was archived on 2018-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180512034625id_/http%3A//www.workathometruth.com/privacy) for the most accurate reproduction.*
 
 # Privacy - WorkAtHomeTruth
 
@@ -152,4 +152,4 @@ Each version of this privacy policy will be identified by its effective date, wh
 
 Last updated November 24, 2013.
 
-If You're Struggling to Make Money Online [Click Here](http://michaelbrown.1minutesites.com/waht-2/) to Get Answers to All of Your Questions About Making Money Online.
+If You're Struggling to Make Money Online [Click Here](https://web.archive.org/extraincome/) to Get Answers to All of Your Questions About Making Money Online.
