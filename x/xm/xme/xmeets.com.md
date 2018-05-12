@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xmeets.com privacy policy that was archived on 2017-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171111055936id_/http%3A//www.xmeets.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3Ds1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xmeets.com privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513003259id_/http%3A//www.xmeets.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3Ds1) for the most accurate reproduction.*
 
 # Local Dating at xmeets.com
 
