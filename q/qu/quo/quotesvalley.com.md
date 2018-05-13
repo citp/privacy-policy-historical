@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quotesvalley.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109182110id_/http%3A//www.quotesvalley.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotesvalley.com privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513020205id_/http%3A//www.quotesvalley.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
