@@ -1,185 +1,133 @@
-> *The following text is extracted and transformed from the yplanapp.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902040527id_/https%3A//www.timeout.com/london/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yplanapp.com privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513172612id_/https%3A//www.timeout.com/newyork/privacy-policy) for the most accurate reproduction.*
 
-# Time Out Privacy Policy
+# Privacy policy
 
-**TIME OUT PRIVACY POLICY**
+Your privacy is important to us. You are visiting a website owned and operated by Time Out America LLC and based in the United States of America. Time Out New York, Time Out Los Angeles, Time Out New York Kids, Time Out Chicago, Time Out Las Vegas, Time Out Miami, Time Out Washington, DC, Time Out Boston, Time Out San Francisco and Time Out USA (together, “Time Out”) have always endeavoured to serve its audience with integrity and honesty. The same is true online. Time Out has developed this Privacy Policy to demonstrate our firm commitment to privacy and to disclose our information-gathering and -sharing practices for all US based Time Out sites (together, the “Site”). This Site is also hosting other Time Out Websites providing information about other cities, which fall under this Privacy Policy. By visiting the Site, you are accepting the practices described in this Privacy Policy. Our Site will develop and evolve over time, and this Privacy Policy may change to reflect that. Your continued use of this Site following reasonable notice of any such changes means you accept the changes. You agree that notices we may provide on the Site itself shall be deemed reasonable notice for this purpose. It is your responsibility to check periodically for any changes we may make to this Privacy Policy. This Privacy Policy was last updated on October 1, 2014.
 
- **1 Your information**
+In addition, Time Out supports the Consumer Reports WebWatch guidelines to promote credible information practices on the web. For more information, [click here](http://consumersunion.org/news/consumer-reports-webwatch-guidelines/).
 
-1.1 Time Out England Limited ( **“Time Out”, “our”, “us” and “we”** ) is committed to protecting your privacy.
+**1\. Collected and Disclosed Information**
 
-1.2      As a customer or a visitor to the timeout.com, including any mobile application and any social media platform (altogether, the “ **Website** ”) we, and the companies that  **work on our behalf** , collect information on you. This includes your  **personal information**  and  **information we may buy**.
+A. Time Out may request information from you in order to grant you access to selected content of our Site. Time Out may use this information to contact you regarding your relationship with the Site and to provide services that you have requested. Time Out may share your information with vendors we select as necessary to provide products or services you have requested or to provide information about products or services that may be of interest to you.
 
-1.3      We also collect **  information on your use of our Website**, including any f **orums you** visit and  **how you arrived at our Website**  in the first place by using  **cookies or other tracking technologies**.
+B. For example, Time Out subscriptions are managed by CDS Global. (“CDS”). Whether you have subscribed to the magazine via phone, mail or online, your account information can be accessed via CDS’s web site through links from our Site. New subscribers link from our Site to CDS’s web site to sign up for a subscription via a secure server. In addition, Time Out may make available the names and mailing addresses of our magazine subscribers to carefully screened third-party organizations whose products and services might prove interesting to you. If you do not wish to receive mailings from such organizations, please let us know by writing to [Time Out New York, P.O. Box 385, Mt. Morris, IL 61054-0385.]
 
-1.4      Some other **companies**  also collect certain information on you when you use our Website, such as social networking sites or web analytic companies.
+C. Other than as stated in this Privacy Policy, your personal information will not be used for promotional purposes without your consent. However, if you choose to fill out any reader surveys, or participate in a contest, demographic information that you submit about yourself may be shared with associated sponsors and business partners in aggregate form.
 
-1.5      We will only keep information about you for  **as long as we need to** , and we make sure that any companies that process your information on our behalf do the same.
+D. Information collected in aggregate form includes the number of visitors to the Site, the pages they visit, and how long they stay. We collect these kinds of aggregate user information to help us continually improve our services and to sell sponsorships on the Site to appropriate advertisers. Time Out discloses this aggregate user information to advertisers. Note that advertisers do not have any influence over the editorial content or reviews that appear on the Site. In addition, Time Out collects information from visitors who click on advertisements so that we are able to measure interest in the various areas of our Site and inform advertisers as to how many visitors have seen or clicked on their ads. Time Out also uses demographic and preference information only in aggregate form to allow advertising banners on our Site to be targeted to the readers for whom they are most pertinent.
 
-1.6      By using our Website or submitting information to us through or in connection with our Website, you signify your consent to our collection, use and disclosure of your personal information in accordance with this privacy policy (the “ **Privacy Policy** ”). If you do not agree with this Privacy Policy, you must not use the Website or submit information to us through or in connection with our Website.
+E. Time Out cooperates with all law-enforcement inquiries, official investigations and legal proceedings initiated by governmental and/or law enforcement officials, as well as private parties, and reserves the right to disclose personally identifying and/or aggregate information in connection with a subpoena or other court-sanctioned demand for such information.
 
-1.7      We comply with the principles set out in the  **Data Protection Act 1998**  in the United Kingdom and any other law as applicable from time to time.
+F. Nothing in this Privacy Policy is meant to impede Time Out’s right or ability to transfer, sell or otherwise dispose of any of its assets. Time Out reserves the right to share your information with any successor to Time Out’s business.
 
-2 **Notice of collection of data**
+G. We reserve the right to access, use and share with others your personally identifiable information for purposes of health, safety and other matters in the public interest. In addition, we reserve the right to use the information we collect about your computer, mobile or other device (including its geographical location), which may at times be able to identify you, for any lawful business purpose, including, without limitation, to help diagnosis problems with our servers, to gather broad demographic information, analyze trends, track users' movements around our Site and to otherwise administer our Site. Geographic location information about you and/or your computer, mobile or other device may specifically be used to show you content and sponsored messaging based on geographic location. We reserve the right to use, transfer, sell and share aggregated unanimous data about our users as a group for any lawful business purpose, such as analyzing usage trends and seeking compatible advertisers, sponsors, clients and customers.
 
-2.1      By visiting the Website, you **accept the practices**  described in this Privacy Policy and consent to the collection and use of your personal information by us for the purposes outlined in this Privacy Policy and for any other purpose reasonably necessary for the provision or proper administration of the Website and the business of Time Out.
+**2\. IP Addresses; Cookies and Other Tracking Technology**
 
-2.2      If you  **do not accept**  the practices set out in this Privacy Policy you should not **use the Website**.
+A. Time Out logs IP (Internet Protocol) addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes. We use the IP address log in an aggregate fashion to track access to our Site.
 
-2.3      Time Out will consider its Privacy Policy from time to time which may  **develop and evolve over time** , and this policy may change to reflect that. We will use personal information in accordance with the Privacy Policy under which that personal information was collected subject to any later amendments accepted by you by virtue of your continued use of the Website. You should periodically revisit the Website Privacy Policy to  **be sure you are familiar with the current policy**. Use of the Website following any modifications to the Privacy Policy will be conclusively deemed as acceptance of the terms of this Privacy Policy and any changes to the policy both in connection with personal information previously collected and that collected following any changes to this Privacy Policy. However, we will notify you of any amendments made to our policy as a result of a change of law or where we wish to make any changes to our use of your personal information.
+B. As is standard practice on many web sites, the Site uses “cookies” and other similar technologies such as clear gifs (collectively "Local Device Storage") to recognize you and provide personalization, as well as to help us understand which parts of our Site are the most popular, where our visitors are going, and how much time they spend there. We reserve the right to place cookies on your computer with unique anonymous numbers for purposes such as to ensure that your browser does not see the same ad over and over again, to sequence ads in a series, and to measure the number of unique visitors that have viewed a particular ad or visited a particular web page. You may decline Local Device Storage by using the appropriate feature of your web software, if available; however, declining to use Local Device Storage may impede the ability of the Site to function properly.
 
-2.4      Please note that the Website may contain  **links to other websites which are outside our control**  and are not covered by this Privacy Policy even though they may feature the Time Out logo because of a marketing agreement with Time Out. If you access other sites using the links provided, the operators of those sites may collect information from you which will be used by them in accordance with their privacy policy, which may differ from ours. You should  **look for the specific privacy statement**  on any such co-branded page. Time Out cannot be held responsible for the privacy policies of other companies. Time Out recommends you review the privacy policy of any website that you visit. 
+C. In addition, we use a third-party advertising company to serve ads when you visit our Site. This company may use information (not including your name, address, e-mail address, or telephone number) about your visit to this Site, including IP address, in order to provide advertisements about products and services that may be of interest to you. In the course of serving advertisements to this Site, our third-party advertiser may place or recognize a unique cookie on your browser. If you would like more information about this practice and to know your choices about not having this information used by this company,  [please click here](http://www.networkadvertising.org/choices/).
 
-2.5      Please also note that where Time Out makes available chat rooms, forums, message boards, and news groups any personal information that you disclose in these areas becomes public information and you should  **exercise caution**  when deciding to disclose any information on them.
+D. In addition to Local Device Storage, we may use web beacons, web bugs and similar technologies (collectively, together with Local Device Storage, the "Tracking Technologies"). We use Tracking Technologies for all or some of the same lawful business purposes we described above for the use of Local Device Storage.
 
- **3 Marketing and commercial use**
+**3\. User Generated Content (Message Boards, Forums, Reader Reviews and Chats)**
 
-3.1      When you gave us your information, you will have been offered the opportunity to sign up to our  **marketing communications** , as well as  **marketing from other companies**  we do business with.
+Please remember that any personal information you disclose in the message boards, forums, reader reviews, and chats becomes public information and you should exercise caution when deciding to disclose your personal information. If you send us e-mails, you should be aware that information disclosed in e-mails may not be secure or encrypted and, thus, may be available to others. We suggest that you exercise caution when deciding to disclose any personal or confidential information in e-mails or via the Internet.
 
-3.2      If you have agreed to marketing from other companies via us, we are happy to provide you with a list of those companies.  Please see ‘ **Contact Us** ’ below.
+**4\. E-mails**
 
-3.3      You can  **subscribe to or unsubscribe from**  our marketing communications at any time. All marketing emails will contain a link to opt out of further communications from the Website.  If you make a purchase via the Website  **the assumption may be made**  that you will be interested in similar products and you may receive emails with information about these products. For the avoidance of doubt you  **cannot opt out of service emails**.
+We will use your e-mail address to respond directly to your questions or comments. Except to provide you with products and services you have requested, we will not share, sell, rent, swap or authorize any third party to use your e-mail address without providing you the opportunity to opt-out of such use. If we ever request that you volunteer additional information, such as age (e.g., in an online survey), your response will always be voluntary. You can unsubscribe to any e-mail you receive from Time Out by following the instructions in the e-mail. If you feel you have received an e-mail from us in error, please contact  [[privacy@timeout.com](mailto:privacy@timeout.com)].
 
- **4 Sharing**
+(a) Account and Service-Related E-mail: Time Out reserves the right to send you e-mails relating to your account status. This includes order confirmations, renewal/expiration notices, notices of credit-card problems, other transactional e-mails and notifications about major changes to our Site and/or to our Privacy Policy. If you have registered for online discussions or other services, you may receive e-mails specific to your participation in those activities. If you place an order in our online store, purchase a subscription to Time Out, participate in an online survey, or submit a sweepstakes or contest entry, you may receive an e-mail confirming your transaction or interaction with our Site.
 
-We will only share information under the following circumstances:
+(b) e-Newsletters: Time Out offers several e-mail newsletters (“e-Newsletters”). When you subscribe to our magazines and give us your e-mail address, you will automatically receive our e-Newsletter. You can opt out of this at any point by following the unsubscribe link at the bottom of the e-mail or by e-mailing [[privacy@timeout.com](mailto:privacy@timeout.com)].
 
-• **With our company group**
+Online users who are otherwise not subscribers of our magazines may opt to receive a regular e-Newsletter that contains information we believe to be of value to our users, specifically special discounts and offers selected by our marketing department and provided by our advertisers. We respect that your receiving the e-Newsletter is a choice, and you may choose to remove your name from the list at any time by following the unsubscribe link at the bottom of the e-mail or by e-mailing [[privacy@timeout.com](mailto:privacy@timeout.com)].
 
- **• With government, law enforcement agencies and regulatory bodies**  when we consider **the** disclosure to be fair, reasonable and legal.
+By subscribing to our magazines and/or receiving the Time Out e-Newsletter, you also agree to receive editorial previews, and details about special offers and discounts from commercial participants by e-mail on a regular basis. Time Out is not responsible for the satisfaction of the special offers and discounts as announced in the e-Newsletter. If for any reason you are not satisfied with an offer or discount, contact the commercial participant making the offer. You agree that Time Out will not be liable to you for anything connected with your participation in the e-Newsletter Program.
 
-• **With credit reference agencies**  when we need to,  **companies for marketing purposes,  and service providers**.
+(c) Promotional E-mail: Certain parts of the Site may give you the option to receive periodic e-mails from Time Out about products and services that we think may be of interest to you. If you opt-in to receive these e-mails, you can choose not to receive additional messages in the future by following the instructions in the e-mails.
 
- **5 Security**
+Working from time to time with a specific sponsor (or sponsors), Time Out may create stand-alone promotional web sites for the purpose of collecting sweepstakes registrations. In these instances it will be communicated to registrants via opt-in that their contact information will be shared by Time Out with the sponsor (or sponsors) for the purpose of sending marketing e-mails. By opting into these promotional web sites, you will also be opting-in to receive weekly e-Newsletters.
 
-5.1      We take the security of your information very seriously, and have  **controls and processes**  to minimise the risk of a data breach occurring, though you must take responsibility when visiting  **other websites** , even if following a link to them from our website.
+(d) Survey E-mail: We may send you an e-mail inviting you to participate in user surveys, asking for feedback on our Site and existing or prospective products and services, as well as information to better understand our users. User surveys greatly help us to improve our Site, and any information we obtain in such surveys will not be shared with third parties, except in aggregate form.
 
-5.2      In the event that a breach does occur, we will take  **appropriate steps**  to notify you if you are, or could be, affected and will make all efforts to minimise the impact.
+**5\. Social Networking Service**
 
-5.3      We use some companies to process information which are based overseas and outside Europe.  We ensure that they have  **checks and controls**  in place to keep your information safe.
+If you choose to access, visit and/or use any third-party social networking service(s) that may be integrated with our Site, we may receive personally identifiable information and other information about you and your computer, mobile or other device that you may have made available to those services, including information about your contacts on those services. For example, some social networking services allow you to push content from our Site to your contacts or to pool information about your contacts so you can connect with them on or through our Site. Some social networking services also will facilitate your registration for our Site or enhance or personalize your experience on our Site. Your decision to use a social networking service in connection with our Site is voluntary. However, you should make sure you are comfortable with the information your third-party social networking services may make available to our Site by visiting those service(s) privacy policies and/or modifying your privacy setting directly with those services. We reserve the right to use, transfer, assign, sell, share and provide access to all personally identifiable information and other information about you and your computer, mobile or other device that we receive through third-party social networking services in the same ways described in this Privacy Policy as all of your other information.
 
- **6 Your Information**
+**6\. Third-Party Web Sites**
 
-6.1       What personal information is being collected?
+Our Site contains links to other web sites that are not under our control, even though some of them may feature the Time Out logo through a marketing agreement with us. Time Out cannot be held responsible for the privacy practices of third parties. This Privacy Policy does not cover information collected elsewhere, including, without limitation, offline and online sites, applications, destinations or services linked to or from our Site. We recommend that you review the privacy policy of any web site you visit. Time Out may receive a commission from member transactions on these partner sites. Without limiting the foregoing, the Time Out restaurant reservations section is operated by OpenTable. OpenTable’s privacy policy, viewable at <http://opentable.com/info/helpindex.asp>, governs the use of personal information you provide at the OpenTable site. Time Out receives a commission for transactions processed via this Site. In addition, links within the Time Out Store, and elsewhere on the Site, may link to online retailers including Amazon.com, bn.com and booksense.com which handle the orders and distribution.
 
-6.1.1    This is  **information that can identify you**. For example, your:  
-(a) name and address  
-(b) email address  
-(c) telephone number  
-(d) payment card information.
+On occasion, Time Out sponsors special promotions, sweepstakes, and contests that are hosted by partner web sites, which may require that your browser accept cookies, or that you agree to receive information from such sponsors. Such requirements are clearly noted.
 
-6.1.2   If you are merely visiting the  **public areas**  of the Website,  **we do not collect any personal information**  about you, however, we may automatically collect information about your visits, such as browsing patterns. Information collected in this way does not reveal your contact details or any type of personal information. This information is only used in  **aggregate form**  to analyse, manage and develop the Website and is not linked to any individual.
+**7\. Security**
 
- **7 How we collect personal information**
+Time Out has invested, and will continue to invest, in high-quality security measures designed to guard access to information, data quality, and physical security of servers where information is stored. Our Site has security measures in place to help protect against the loss, misuse and alteration of the information under our control and uses encryption technology where appropriate. We cannot, however, guarantee the confidentiality of any communication transmitted to or from Time Out via the Site or e-mails. Accordingly, Time Out is not responsible for the security of information transmitted via the Internet.
 
-7.1      We collect personal information from i **nformation supplied by you**. Including the details provided by you:
+**8\. Collection of Personal Data from Children**
 
-7.1.1   if you choose to fill out any reader surveys, enter a competition, apply for an offer or make a purchase from our online shop, you will be asked to supply some information about yourself, including your name, address, phone number and email address;
+Our Site is not directed to users under the age of 18. Time Out will not knowingly collect information from individuals under the age of 18 (“children”) or provide any personally identifying information of children, regardless of its source, to any third party for any purpose whatsoever. No information provided by users self-identified as children will knowingly be used for any marketing or promotional purposes whatsoever.
 
-7.1.2   on registration together with information we learn about you from your use of our service and your visits to the Website and other sites accessible from it. We also collect information about the transactions you undertake including details of payment cards used;
+**9\. Notice to California Residents**
 
-7.1.3   in connection with information you provide when giving us feedback or completing profile forms; 
+California Civil Code Section 179883 permits California residents to request certain information regarding out disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact Time Out at the addresses listed in paragraph "12" below.
 
-7.1.4   when you click on advertisements to measure interest and inform advertisers as to how many users have seen or clicked on their ads; and
+**10\. Transfer of Information**
 
-7.1.5   information obtained from your social networking profile, if you log-in via a social networking site.
+Your information may be transferred to and maintained on, servers and databases located outside of your state, providence, country or other governmental jurisdiction where the privacy laws may not be as protective as your jurisdiction. Please be advised that we may transfer your information to and from any state, province, country or other governmental jurisdiction, and process it in the United States or elsewhere. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to any such transfer.
 
-7.2      Time Out also uses  **demographic and preference information**  to allow advertising banners on the Website to be targeted, in the aggregate, to the users for whom they are most pertinent.
+**11\. Information Security and Notification**
 
-7.3      If you enter a competition you should  **read the terms and conditions**  of that promotion which will confirm how we will use any personal information submitted as part of the entry to the competition. By entering a competition or applying for an offer you may  **give permission for Time Out to pass your details**  to any third party sponsor of the competition / offer so they may contact you in the event that you win the competition or qualify for the offer.
+A. Because no data transmission is completely secure, and no system of physical or electronic security is impenetrable, we cannot guaranty the security of the information you sent to us or the security of our servers, networks or databases, and by using our Site, you agree to assume all risk in connection with the information sent to us or collected by us when you access, visit and/or use the site and/or use our Site, including, without limitation, your personally identifiable information, and we are not responsible for any loss of such information or the consequences thereof.
 
- **7.4    Information that we may buy**
+B. Moreover, if you elect to store information, such as your personally identifiable information where others may access it, we are not responsible for any loss of such information or the consequences thereof. If you lose a computer, mobile or other device or it is stolen, that contains your personally identifiable information, it is up to you to take all the steps necessary to protect yourself.
 
-7.4.1   If we  **purchase information on you**  from another company, such as marketing lists, we promise to take all the necessary checks to make sure your information was collected legally.
+C. In the unlikely event that we believe that the security of your information in our possession or control may have been compromised, we may seek to notify you. If notification is appropriate, we may notify you via your computer, mobile or other device.
 
-7.4.2   We may also  **purchase profile information**  from other companies to better understand our customers and our market.  This helps us to provide you with better suited **products and services.**
+**12\. Accessing Your Information; Time Out Contact**
 
- **8 Cookies**
+You can contact Time Out regarding this Privacy Policy either by mail, at [Time Out America LLC, 1540 Broadway, 42nd Floor, New York, NY 10036, Attention: Online Production], by e-mail at [[privacy@timeout.com](mailto:privacy@timeout.com)], or by phone at (646) 432-3000. If you would like to review and/or change the information about you that we have collected via our Site, please mail your request and a self-addressed, stamped envelope to the above address or e-mail [[privacy@timeout.com](mailto:privacy@timeout.com).]
 
-8.1      The Website may also use  **cookie and tracking technology**  depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Website, and understanding how visitors use the Website. Cookies can also help  **customise the Website  **for visitors. Time Out uses cookies to track user usage on the Website. Time Out uses ad servers (such as DoubleClick) to serve advertisements on the Website. Ad servers  **use cookies to help target relevant ads  **to users. To find out more about our use of cookies and information-gathering practices follow this link to the [Cookie Policy](http://www.timeout.com/london/cookie-policy).
+Time Out New York, Time Out Los Angeles, Time Out New York Kids, Time Out Chicago, Time Out Las Vegas, Time Out Miami, Time Out Washington, DC, Time Out Boston, Time Out San Francisco and Time Out USA are published by Time Out America LLC, a privately-held company.
 
-8.2      Personal information  **cannot be collected**  via cookies and other tracking technology; however, if you previously provided personally identifiable information, cookies may be tied to such information. “Cookies” are small pieces of information sent by a web server to a web browser, which enables the server to collect information from the browser.
+**13\. List of Time Out Websites:**
 
-8.3      We may also use uses cookies for a number of  **other purposes** , for instance to enable us to simplify the logging on process for registered users, to help ensure the security and authenticity of registered users, to provide the mechanisms for improving and monitoring visitor’s experiences mapping and to enable traffic monitoring.
+This is the list of Time Out Websites hosted on this Site:
 
-8.4      Non-registered visitors of the site are sent  **anonymous cookies**  to keep track of their browsing patterns and build up a demographic profile. In addition, any visitor who has clicked on a Website advertisement on another site that links to the Website will be sent anonymous cookies that will allow us to  **analyse advertising effectiveness and manage our relationship with affiliate sites**.
-
-8.5      Whilst you do not need to allow your browser to accept cookies in order to browse much of our web site or to access many of our services, you must have cookies enabled if you wish to shop online at any of our stores or access any areas reserved for registered users. Most browsers allow you to turn off the cookiefunction. However, some interactive features of the Website may not work if cookies are disabled. Cookies can be disabled in your browser by following the instructions found at: <http://www.allaboutcookies.org/manage-cookies>.
-
- **9 Why is personal information being collected?**
-
-9.1      We collect personal information for  **a number of reasons**. It helps us tailor and personalise your experience of using the Website and enables us to send you relevant information about products or services that may be of interest to you.
-
-9.2      The information you provide is used to  **fulfil your specific request**  unless you give us permission to use it in another manner, for example:
-
-9.2.1    to add you to one of our mailing lists;
-
-9.2.2    to communicate with you;
-
-9.2.3    to provide you with the services you have requested;
-
-9.2.4    to personalise our service to you; and
-
-9.2.5   to send you offers and news about Time Out Group products and services or those of other carefully selected companies which we think may be of interest to you. Your information may be passed to and used by all Time Out licensees and affiliates.
-
-9.3      Time Out collects  **aggregate user information**  to sell sponsorships on the Website to advertisers and to monitor customer traffic patterns such as the number of users to the Website, the pages visited and the length of visit which enables us to improve the service we provide.
-
-9.4      From time to time we may enter into a commercial arrangement with another company that is not owned by us to provide additional features. Time Out may also, from time to time, use third party suppliers to provide part of our service to you. Any personal information that you provide when signing up on a co-branded page may be shared with our third party partner.
-
-9.5      We may also use and disclose information in aggregate (so that no individual customers are identified) for  **marketing and strategic development purposes**  and aggregate cookie and tracking information may be shared with third parties.
-
-9.6     We may also use information for **remarketing, retargeting or profiling purposes** including via third parties (such as social networking websites) and we will always ask your consent prior to doing so.
-
-9.7      In some circumstances we may share your personal information with service providers who are based in countries  **outside the European Economic Area**  whose laws provide for a different standard of protection for your personal information than that provided under UK Law.
-
-9.8      The Website cooperates with all  **law-enforcement enquiries**  and reserves the right to disclose personally identifying or aggregate information to detect and prevent fraud and in connection with any legal demand for such information.
-
-9.9      If you choose to post messages, reviews, comments or other content on the Website we will collect that information you provide to us.  We retain this information as necessary to  **resolve disputes, provide customer support and troubleshoot problems**  as permitted by law.
-
-9.10    We may share information with governmental agencies or other companies assisting us in  **fraud prevention**  or investigation. We may do so when:
-
-9.10.1 permitted or required by law; or,
-
-9.10.2 trying to protect against or prevent actual or potential fraud or unauthorised transactions; or
-
-9.10.3 investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.
-
-9.11    Save as explained above and subject to the provisions below Time Out will not pass on your individual user details to third parties without asking for explicit permission.
-
- **10 How do we keep personal information secure?**
-
-10.1    We have  **security measures**  in place to protect against the loss, misuse and alteration of the information under the Website’s control. Only  **authorised employees, agents and contractors**  (who have agreed to keep information secure and confidential) have access to this information.
-
-10.2    We use  **appropriate physical, electronic and managerial security measures**  to try to prevent that personal information from being accessed by unauthorised persons and to ensure that you may input personal information safely. This means that sometimes we may ask for proof of identity before we disclose personal information to you.
-
-10.3    Only  **aggregate statistics**  about the number of users and their traffic patterns will be given to advertisers.
-
-10.4    Individual user details will not be passed on without prior consent. If the Website ever requests that you volunteer additional information, such as financial data or age (in an online survey, for example) your response will always be voluntary and this data will only be used as an aggregate of data in conjunction with users of the Website as a whole.
-
-10.5    Despite these efforts, the Website  **cannot guarantee**  that a hacker will not obtain access to communications between users and the Website. We will do our very best to avoid a breach but sometimes these events are unavoidable.  Our promise to you is that if they do happen, we will ensure that the impact on you is as minimal as it can be.
-
-10.6    If we discover that the  **security of your personal information**  has been breached and it could adversely affect you - and we have the means to let you know - we will do so as quickly as possible.  If we can, we will tell you how the breach occurred, its nature, the  **steps we have** **taken**  to rectify its adverse effects and the steps you can take. We will provide you with details of who you can contact here if you have any queries and details of the regulator – the Information Commissioner's Office – should you want to speak to them.
-
- **11 Your rights**
-
-11.1    For a copy of your information
-
-To  **obtain a copy**  of the personal information Time Out holds about you and to contact us regarding this Privacy Policy by post please address your request to The Legal Team, Time Out Group, 4th Floor, 125 Shaftesbury Avenue, London, WC2H 8AD, enclosing your cheque or postal order for £10 payable to Time Out England Limited.
-
-11.2    To correct your information
-
-We want to make sure that your personal information is  **accurate and up to date**. To protect your personal information, please contact us at [privacy@timeout.com](mailto:privacy@timeout.com).
-
- **12 The Data Protection Act**
-
-Time Out England Limited is registered as a  **Data Controller**  under the terms of the Data Protection Act 1998 and we ensure we comply with all the protection the Act affords to you. Our registration number is ZA078189.
-
- **13 Contact**
-
-13.1    If you have a  **question, complaint or query**  around how we use your information, please contact us at [privacy@timeout.com](mailto:privacy@timeout.com).
-
-13.2    We will try respond to you within 72 hours.
-
-13.3    If you have a complaint regarding the use of your information by us, you can also complain to the regulator, the Information Commissioner's Office.
-
-### Comments
+Ahmedabad - <https://www.timeout.com/ahmedabad>  
+Atlanta – <https://www.timeout.com/atlanta>  
+Austin - <https://www.timeout.com/austin>  
+Bangalore - <https://www.timeout.com/bangalore>  
+Chennai - <https://www.timeout.com/chennai>  
+Cleveland - <https://www.timeout.com/cleveland>  
+Dallas - <https://www.timeout.com/dallas>  
+Delhi - <https://www.timeout.com/delhi>  
+Denver - <https://www.timeout.com/denver>  
+Detroit -<https://www.timeout.com/detroit>  
+Houston - <https://www.timeout.com/houston>  
+Hyderabad - <https://www.timeout.com/hyderabad>  
+Jaipur - <https://www.timeout.com/jaipur>  
+Kolkata - <https://www.timeout.com/kolkata>  
+Louisville - <https://www.timeout.com/louisville>  
+Memphis - <https://www.timeout.com/memphis>  
+Minneapolis - <https://www.timeout.com/minneapolis>  
+Mumbai - <https://www.timeout.com/mumbai>  
+Nashville - <https://www.timeout.com/nashville>  
+New Orleans - <https://www.timeout.com/new-orleans>  
+Orlando - <https://www.timeout.com/orlando>  
+Philadelphia - <https://www.timeout.com/philadelphia>  
+Phoenix - <https://www.timeout.com/phoenix>  
+Pittsburgh - <https://www.timeout.com/pittsburgh>  
+Portland - <https://www.timeout.com/portland>  
+Pune - <https://www.timeout.com/pune>  
+Sacramento - <https://www.timeout.com/sacramento>  
+San Diego - <https://www.timeout.com/san-diego>  
+St. Louis - <https://www.timeout.com/st-louis>  
+Seattle - <https://www.timeout.com/seattle>  
+Surat - <https://www.timeout.com/surat>  
+Tampa - <https://www.timeout.com/tampa>  
+Toronto - <https://www.timeout.com/toronto>
