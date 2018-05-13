@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the creativetacos.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830143233id_/https%3A//creativetacos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativetacos.com privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513151748id_/https%3A//creativetacos.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 This privacy policy (“Policy”) describes how we collect, protect and use the personally identifiable information (“Personal Information”) you (“User”, “you” or “your”) provided on the https://creativetacos.com website and any of its products or services (collectively, “Website” or “Services”). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. This Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
-
-  
-
 
 ## Collection of personal information
 
@@ -33,7 +30,7 @@ We offer electronic newsletters to which you may voluntarily subscribe at any ti
 
 ## Cookies
 
-The Website uses “cookies” to help personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. We may use cookies to collect, store, and track information for statistical purposes to operate our Website and Services. You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you will not be able to use and experience the features of the Website and Services.
+The Website uses “cookies” to help personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. We may use cookies to collect, store, and track information for statistical purposes to operate our Website and Services. You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you will not be able to use and experience the features of the Website and Services. [Learn More](https://creativetacos.com/cookie-policy/)
 
 ## Advertisement
 
@@ -57,7 +54,7 @@ We will disclose any information we collect, use or receive if required or permi
 
 ## Changes and amendments
 
-We reserve the right to modify this privacy policy relating to the Website or Services at any time, effective upon posting of an updated version of this privacy policy on the Website. When we do we will revise the updated date at the bottom of this page. Continued use of the Website after any such changes shall constitute your consent to such changes. Policy was created with [WebsitePolicies.com](https://www.websitepolicies.com/ "Create free privacy policy")
+We reserve the right to modify this privacy policy relating to the Website or Services at any time, effective upon posting of an updated version of this privacy policy on the Website. When we do we will revise the updated date at the bottom of this page. Continued use of the Website after any such changes shall constitute your consent to such changes.
 
 ## Acceptance of this policy
 
@@ -67,11 +64,4 @@ You acknowledge that you have read this Policy and agree to all its terms and co
 
 If you have any questions about this Policy, please [contact us](https://creativetacos.com/contact-us/).
 
-This document was last updated on January 5, 2017
-
-[ ](https://dealjumbo.com/downloads/1100-creative-photo-overlays/ref/358/?campaign=ct-news)
-
-Sponsored Ads **Follow CreativeTacos** [Follow @cr3ativetacos](https://twitter.com/cr3ativetacos) [Creativetacos](https://www.pinterest.com/creativetacos/) We hope you enjoy it – please do let us know what you think, comment, pin & share are always hugely welcomed and appreciated. More importantly, please don’t hesitate to drop us a message if you have any issues or queries!
-
-  
-
+#####  **This document was last updated on March 14, 2018**
