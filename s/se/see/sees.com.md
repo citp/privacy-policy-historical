@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sees.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204223742id_/http%3A//www.sees.com/company-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sees.com privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513020008id_/http%3A//www.sees.com/company-info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | See's Candies
 
