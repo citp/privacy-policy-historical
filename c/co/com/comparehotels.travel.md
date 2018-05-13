@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the comparehotels.travel privacy policy that was archived on 2017-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171111083135id_/http%3A//www.encirca.com/html/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comparehotels.travel privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513040835id_/https%3A//www.encirca.com/html/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - EnCirca
+
+### Privacy Policy
 
 **Privacy Promise**
 
@@ -8,14 +10,14 @@ We take privacy very seriously and we've taken many steps to help safeguard your
 
 We promise you that: 
 
-> **
->   * We will safeguard, according to strict standards of security, any information you share with us.  
-> 
->   * We will not share information you provide us without your permission.   
-> 
-> **
->   * **You can unsubscribe from our marketing communications at any time.**
-> 
+**
+  * We will safeguard, according to strict standards of security, any information you share with us.  
+
+  * We will not share information you provide us without your permission.   
+
+**
+  * **You can unsubscribe from our marketing communications at any time.**
+
 
 
 Because we want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices for public review. 
@@ -30,22 +32,22 @@ EnCirca is committed to protecting your privacy and to ensuring that you are in 
 
 EnCirca's policies and procedures are based on the eight internationally recognized privacy principles issued in 1980 by the Organization for Economic Cooperation and Development in its Guidelines for Fair Information Practices. The principles pertaining to fair information practices in use at EnCirca are as follows: 
 
->   * Use Limitation   
-> 
->   * Individual Participation   
-> 
->   * Security Safeguards   
-> 
->   * Openness   
-> 
->   * Collection Limitation   
-> 
->   * Purpose Specification   
-> 
->   * Data Quality   
-> 
->   * Accountability 
-> 
+  * Use Limitation   
+
+  * Individual Participation   
+
+  * Security Safeguards   
+
+  * Openness   
+
+  * Collection Limitation   
+
+  * Purpose Specification   
+
+  * Data Quality   
+
+  * Accountability 
+
 
 
 **Use Limitation**
@@ -62,7 +64,7 @@ EnCirca may engage third parties to perform analysis or data processing of our d
 
 **Individual Participation**
 
-As a EnCirca customer, you have access to, and appropriate control over, the data that EnCirca maintains about you. 
+As a EnCirca customer, you have access to, and appropriate control over, the data that EnCirca maintains about you, via our [online management page](https://www.encirca.com/myaccount/) or through [our support channel](https://helpdesk.encirca.com/portal/home). 
 
 A request to revise or edit your personally identifiable information may not be accommodated if it would result in incorrect information. Requests for deletion of certain key information, such as e-mail address, may require closing the account. 
 
@@ -84,18 +86,18 @@ At EnCirca we employ security techniques and well-defined employee practices to 
 
 EnCirca may engage employees, contractors, and other companies to perform work that involves access to personal information. If EnCirca does so, it will ensure that such parties are contractually required to keep the information confidential and not to use it in any way other than as is necessary to perform their work for EnCirca. 
 
-EnCirca works to reduce the likelihood of accidental disclosures and unintended access and modification of account information, but it is impossible to eliminate this possibility completely. 
+EnCirca works to reduce the likelihood of loss, misuse, unauthorized access or disclosure, alteration, or destruction, but it is impossible to eliminate this possibility completely. 
 
 We conduct internal and external audits to determine the effectiveness of our compliance with our Privacy Policy. Our EnCirca-approved network partners are contractually and legally obligated to follow agreed-upon privacy practices. If a EnCirca user feels that they have experienced a violation of these privacy policies, they should contact us at: 
 
-> EnCirca  
->  Attention: Privacy  
->  400 W. Cummings Park  
->  Suite 1725  
->  Woburn, MA 01801 
-> 
-> Fax: 781-823-8911  
->  E-mail: support (at) EnCirca.com 
+EnCirca  
+Attention: Privacy  
+400 W. Cummings Park  
+Suite 1725  
+Woburn, MA 01801 
+
+Fax: 781-823-8911  
+E-mail: support (at) EnCirca.com 
 
 **Openness**
 
@@ -103,18 +105,18 @@ EnCirca has a general policy of openness about developments, practices and polic
 
 EnCirca's Web server may log key information about any visitor to the EnCirca website (both users and non-users), including the following elements: 
 
->   * The URL of the page requested;   
-> 
->   * The time and date of the request;   
-> 
->   * The make and version of the web browser being used,  
-> 
->   * The version and type of your operating system);   
-> 
->   * The "Referrer" (the URL where you clicked on a link to get to EnCirca's site);   
-> 
->   * The IP address where a copy of the page you requested is to be sent for display by your browser. 
-> 
+  * The URL of the page requested;   
+
+  * The time and date of the request;   
+
+  * The make and version of the web browser being used,  
+
+  * The version and type of your operating system);   
+
+  * The "Referrer" (the URL where you clicked on a link to get to EnCirca's site);   
+
+  * The IP address where a copy of the page you requested is to be sent for display by your browser. 
+
 
 
 We use this information in aggregate to get a better picture of where our visitors come from and how to plan for our future needs. 
@@ -179,14 +181,14 @@ EnCirca always has a person designated as its privacy ombudsman, who is accounta
 
 If you have any questions regarding our privacy policy, please contact us at: 
 
-> EnCirca  
->  Attention: Privacy  
->  400 W. Cummings Park  
->  Suite 1725  
->  Woburn, MA 01801 
-> 
-> Fax: 781-823-8911  
->  E-mail: support (at) EnCirca.com 
+EnCirca  
+Attention: Privacy  
+400 W. Cummings Park  
+Suite 1725  
+Woburn, MA 01801 
+
+Fax: 781-823-8911  
+E-mail: support (at) EnCirca.com 
 
 **Policy Regarding Children's Use of Our Site**
 
@@ -200,4 +202,4 @@ As we continue to develop our business, we might sell or buy companies or assets
 
 The foregoing policy is effective as of March 11, 2003. EnCirca reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of EnCirca's services following the posting of changes to these terms will mean you accept those changes. 
 
-Policy last updated: September 24, 2015. 
+Policy last updated: February 14, 2018. 
