@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stealthkca.com privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104024213id_/http%3A//stealthblog.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stealthkca.com privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513151335id_/http%3A//stealthblog.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Stealth Blog
 
@@ -54,12 +54,12 @@ This website may contain links to other websites of interest. However, once you 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to me using your personal information for direct marketing purposes, you may change your mind at any time by emailing me at [alex@stealthkca.com](mailto:$pt_business_email)
+  * if you have previously agreed to me using your personal information for direct marketing purposes, you may change your mind at any time by emailing me at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5d792d29023f282e3433382e2e0238303c3431)
 
 
 
 I will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. I may use your personal information to send you promotional information about third parties which I think you may find interesting.
 
-You may request details of personal information which I hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please emailing me at [alex@stealthkca.com](mailto:$pt_business_email)
+You may request details of personal information which I hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please emailing me at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8eaafefad1ecfbfde7e0ebfdfdd1ebe3efe7e2)
 
 If you believe that any information I am holding on you is incorrect or incomplete, please email me as soon as possible, at the above address. I will promptly correct any information found to be incorrect.
