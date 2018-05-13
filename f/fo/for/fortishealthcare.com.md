@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fortishealthcare.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110134632id_/http%3A//www.fortishealthcare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortishealthcare.com privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513025508id_/http%3A//www.fortishealthcare.com/privacy-policy) for the most accurate reproduction.*
 
-# About Us – One of the Largest Group of Hospitals in India | Fortis Healthcare
+# Largest Group of Hospitals in India for Public Health care Services | Fortis Healthcare
 
 Fortis Healthcare Limited (referred to as “we”, us”, “ **Fortis** ”) is the author and publisher of the internet resource [www.fortishealthcare.com](http://www.fortishealthcare.com/) and its sub domain’s including **my.fortishealthcare.com** (together referred to as “Websites”) on the world wide web as well as other software and applications provided by Fortis, including but not limited to the mobile applications (referred to as “App”, and together with Websites referred to as “Services”). Fortis provides the Services in partnership with its agents, affiliates, associates, representatives or other third parties (together referred to as “ **Partners** ”)
 
