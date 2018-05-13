@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poemsource.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110033323id_/http%3A//www.poemsource.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poemsource.com privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513203710id_/http%3A//www.poemsource.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Poemsource.com Privacy Policy
 
