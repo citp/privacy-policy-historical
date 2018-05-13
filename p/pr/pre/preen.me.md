@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the preen.me privacy policy that was archived on 2017-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171111070535id_/http%3A//www.preen.me/c/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preen.me privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513082740id_/http%3A//www.preen.me/c/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Preen.Me
 
@@ -52,5 +52,4 @@ We process some of information on our servers in the United States. To facilitat
 X. Material Changes to This Privacy Policy  
 From time to time we may make modifications to this Privacy Policy. We may make these changes at any time, and your continued use of the Service constitutes your acknowledgment and consent to any such changes. Please periodically review the Privacy Policy. Therefore, if you do not wish to permit changes in our use of your information, you must notify that you wish to terminate your account.   
 XI. Contacting Us  
-If you have questions about this Privacy Policy, please contact us at info@preen.me.  
- ****
+If you have questions about this Privacy Policy, please contact us at info@preen.me.
