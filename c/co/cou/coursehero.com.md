@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coursehero.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119132952id_/https%3A//www.coursehero.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coursehero.com privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513193624id_/https%3A//www.coursehero.com/privacy-policy) for the most accurate reproduction.*
 
 # Course Hero - Privacy Policy
 
@@ -156,7 +156,7 @@ If you are under 13 years of age, then please do not use or access the Website a
 ####  Contact Us
 
 Course Hero, Inc.  
-1400B Seaport Blvd.  
+2000 Seaport Blvd, Floor 3  
 Redwood City, CA 94063  
 866-634-9397  
 [support.coursehero.com](https://support.coursehero.com/)
