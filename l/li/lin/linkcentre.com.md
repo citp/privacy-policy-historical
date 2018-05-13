@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the linkcentre.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606180034id_/http%3A//www.linkcentre.com/w3c/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkcentre.com privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513125013id_/https%3A//www.linkcentre.com/w3c/policy.html) for the most accurate reproduction.*
 
 # LinkCentre.com Privacy Policy
 
 This policy applies to the services and web pages within the [LinkCentre.com](https://www.linkcentre.com/) domain.
+
+This document should be read in conjunction with the [Interlink Advertising Limited GDPR Policy.](https://www.interlinkadvertising.co.uk/privacy)
 
 The LinkCentre.com domain is wholly owned by Interlink Advertising Limited.
 
