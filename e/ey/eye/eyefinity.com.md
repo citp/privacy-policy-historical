@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyefinity.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109192034id_/http%3A//www.eyefinity.com/privacy-and-security-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyefinity.com privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513033536id_/http%3A//www.eyefinity.com/privacy-and-security-policy.html) for the most accurate reproduction.*
 
 # Privacy and Security Policy
 
@@ -18,8 +18,7 @@ The privacy practices described in these Terms of Use apply to our services avai
 6\. Accessing, Reviewing, and Changing Your Information  
 7\. Other Information Collectors  
 8\. Security  
-9\. Notice  
- 
+9\. Notice
 
 **1.  Treatment of Protected Health Information.**
 
