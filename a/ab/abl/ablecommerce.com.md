@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ablecommerce.com privacy policy that was archived on 2017-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171111160232id_/http%3A//www.ablecommerce.com/Privacy-Policy-W27C31.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ablecommerce.com privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514011340id_/http%3A//www.ablecommerce.com/Privacy-Policy-W27C31.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,4 +28,4 @@ In the course of using this web site, you may choose to provide us with informat
 
 Corporation web sites provide links to other World Wide Web sites or resources. We do not control these sites and resources, do not endorse them, and are not responsible for their availability, content, or delivery of services. In particular, external sites are not bound by the Corporation's online privacy policy; they may have their own policies or none at all. Often you can tell you are leaving a Corporation web site by noting the URL of the destination site. 
 
-If you have any questions about Able Solutions Corporation online security or privacy policies please [let us know!](https://web.archive.org/web/20171111160232id_/http%3A//www.ablecommerce.com/ecommerce-contacts.aspx)
+If you have any questions about Able Solutions Corporation online security or privacy policies please [let us know!](https://web.archive.org/web/20180514011340id_/http%3A//www.ablecommerce.com/ecommerce-contacts.aspx)
