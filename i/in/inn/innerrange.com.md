@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innerrange.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109075247id_/http%3A//www.innerrange.com/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innerrange.com privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513184008id_/http%3A//www.innerrange.com/Privacy-Statement) for the most accurate reproduction.*
 
 # Inner Range > Privacy Statement
 
@@ -23,7 +23,7 @@ This Privacy Statement explains in general terms how Inner Range Pty Ltd and its
 
   * When applying for admission onto one or more of our training courses
   * When seeking approval for inclusion as an Approved Technician for the purposes of gaining access to restricted sections of the Inner Range web site
-  * When registering End User and installation company details in line with Inner Range Software EULA policies. Refer to: [Integriti EULA](http://mirror.innerrange.com/mirror/downloads/Open/Document_Downloads/Insight_Software/Integriti%20Eula.pdf) | [Insight EULA](http://mirror.innerrange.com/mirror/downloads/Open/Document_Downloads/Insight_Software/Insight%20Professional%20Eula.pdf)
+  * When registering End User and installation company details in line with Inner Range Software EULA policies. Refer to: [Integriti EULA](http://assetcloud.innerrange.com/ProductFiles/5888-Integriti_EULA.pdf) | [Insight EULA](http://assetcloud.innerrange.com/ProductFiles/6792-Insight-Software-EULA.pdf)
   * Under any other agreement or arrangement
   * This Privacy Statement will also apply to any information about you that is provided to us by someone else such as a Distributor. 
 
@@ -49,7 +49,7 @@ We generally collect your personal information for the following purposes:
   * To facilitate your participation in training and certification programmes
   * To keep you up to date with product training and technical support information
   * To keep you up to date with changes to services or the launch of new services that may be relavent to your business
-  * To ensure Inner Range software users are identified inline with software EULA policies. Refer to: [Integriti EULA](http://mirror.innerrange.com/mirror/downloads/Open/Document_Downloads/Insight_Software/Integriti%20Eula.pdf) | [Insight EULA](http://mirror.innerrange.com/mirror/downloads/Open/Document_Downloads/Insight_Software/Insight%20Professional%20Eula.pdf)
+  * To ensure Inner Range software users are identified inline with software EULA policies. Refer to: [Integriti EULA](http://assetcloud.innerrange.com/ProductFiles/5888-Integriti_EULA.pdf) | [Insight EULA](http://assetcloud.innerrange.com/ProductFiles/6792-Insight-Software-EULA.pdf)
   * To conduct marketing activities and to conduct market research.
 
 
