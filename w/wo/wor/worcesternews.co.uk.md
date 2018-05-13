@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worcesternews.co.uk privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119042939id_/http%3A//www.worcesternews.co.uk/my/account/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worcesternews.co.uk privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513033007id_/http%3A//www.worcesternews.co.uk/my/account/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
