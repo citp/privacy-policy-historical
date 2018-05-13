@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olivanera.com privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703071642id_/http%3A//www.olivanera.com/en/privacy-policy-eng) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olivanera.com privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513105856id_/http%3A//www.olivanera.com/en/privacy-policy-eng) for the most accurate reproduction.*
 
 # Privacy Policy eng - Osteria Oliva Nera Osteria Oliva Nera
 
