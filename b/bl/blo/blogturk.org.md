@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the blogturk.org privacy policy that was archived on 2017-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171016071338id_/http%3A//blogturk.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogturk.org privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513102208id_/http%3A//blogturk.org/privacy) for the most accurate reproduction.*
 
-# Privacy . BLOG TURK
-
-**Privacy Policy**
+# Privacy Policy - BLOG TURK
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at michaelbelucky@gmail.com.
 
