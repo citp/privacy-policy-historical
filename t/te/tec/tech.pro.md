@@ -1,160 +1,205 @@
-> *The following text is extracted and transformed from the tech.pro privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219170745id_/http%3A//tech.pro/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tech.pro privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513040835id_/https%3A//www.encirca.com/html/privacy.shtml) for the most accurate reproduction.*
 
-# Privacy Policy - Tech.pro
+# Privacy Policy - EnCirca
 
-Tech.pro is committed to protecting your privacy and to developing technology that gives you the most powerful and secure online experience while furthering your professional life.
+### Privacy Policy
 
-Note: Any reference to "we," "us", "our website" or Tech.pro are references to the [tech.pro](http://tech.pro/) site (the "Website") and all of our partner web sites. Tech.pro may provide links to the websites of many other companies to which this policy does not apply. We cannot, and do not, assume responsibility for the privacy or information policies, practices or actions of any third parties. Tech.pro is a fully owned subsidiary of Single Integrated Operations Portal, Inc.
+**Privacy Promise**
 
-We at Tech.pro are committed to good privacy practices regarding your personal information. Your loyalty as a community member, customer or visitor is important, and we hope that our concerns regarding your privacy, as described in this policy (the "Privacy Policy" or "Policy"), demonstrate our commitment to making your experience with Tech.pro an enjoyable and satisfying one. This privacy statement explains data collection and use practices of Tech.pro it may be amended from time to time as we adapt to a changing business, technological, and regulatory environment. 
+We take privacy very seriously and we've taken many steps to help safeguard your online information.
 
-By providing personal information to Tech.pro, you are consenting to the information collection and use practices described in this privacy statement.
+We promise you that: 
 
-**THIS PRIVACY POLICY IS AN AGREEMENT. BY PROVIDING ANY PERSONAL INFORMATION TO THE SITE OR BY ACCESSING THE SITE, YOU ARE CONSENTING TO THE TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT PROVIDE ANY PERSONAL INFORMATION TO THE SITE.**
+**
+  * We will safeguard, according to strict standards of security, any information you share with us.  
 
-## Accountability
+  * We will not share information you provide us without your permission.   
 
-We will maintain and protect the personal information under our control. We have designated an individual who is accountable for compliance with the Principles. If you have questions about our privacy statement or our use of your information, or if you need help changing your personal information or to opt-out, please contact us by sending e-mail to [info@tech.pro](mailto:info@tech.pro) or contacting us at:
+**
+  * **You can unsubscribe from our marketing communications at any time.**
 
-> Tech.pro  
->  110 Vintage Park Blvd.  
->  Bldg J. Suite 245  
->  Houston, TX 77070 
 
-  
 
+Because we want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices for public review. 
 
-### A. THE INFORMATION WE GATHER.
+Please continue reading our Privacy Policy below for more information. 
 
-We gather two types of information about users:
+**Introduction**
 
-  1. Non-personally identifiable information (information that does not identify a specific individual): When visitors use the Services, we collect and aggregate information indicating, among other things, which pages were visited, the order in which they were visited, and which links were ""clicked." Collecting such information involves the collection and logging of IP addresses, operating system, and browser software used by each user of the Services. Although such information is not personally identifiable, we can determine from the IP address a visitor's Internet Service Provider and the geographic location of his or her point of connectivity.
+EnCirca offers domain name registration and value-added services that helps businesses and people establish internet addresses. We know that you're concerned with privacy on the Internet, and we've taken many steps to help safeguard your online information and protect your privacy. 
 
-The non-personally identifiable information we collect helps us identify the most popular areas of our Website and determine the effectiveness of our promotional activities. In addition, we may disclose some of this information to advertisers to inform them of the number of people who have seen and/or clicked through their advertisements. We collect non-personally identifiable information in part through the use of "cookies" - that is, small text files placed on your computer's hard drive - that help us determine the type of content and pages to which you link, the length of time you spend at any particular area of the Services, and the Services you choose to use.
+EnCirca is committed to protecting your privacy and to ensuring that you are in control of the information that we maintain about you. The EnCirca privacy policy ("Privacy Policy") explains what we will and will not do with your personal information. For purposes of this Privacy Policy, "personal information" means individually identifiable information about a user collected online, including a user's first and last name, home or other physical address, e-mail address or telephone number. 
 
-Cookies allow us to serve you better and more efficiently, and to personalize your experience with the Services. Nevertheless, you should be able to control how and whether cookies will be accepted by your web browser. For more information on how to do so, please refer to the documentation accompanying your browser.
+EnCirca's policies and procedures are based on the eight internationally recognized privacy principles issued in 1980 by the Organization for Economic Cooperation and Development in its Guidelines for Fair Information Practices. The principles pertaining to fair information practices in use at EnCirca are as follows: 
 
-Third Party Advertisers   
-Please note that our advertisers and their designees, as well as other third parties, may collect information about you through cookies or other technologies when they serve advertisements through the Services or when you visit their web site(s). If you wish to not have this information used for the purpose of serving you targeted ads, you should be able to prevent the collection of that information via privacy settings of your browser. Please refer to the documentation accompanying your browser. Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
+  * Use Limitation   
 
-Links to Other Sites   
-This Website contains links to other sites that are not owned or controlled by this company and our policies. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Website that collects personally identifiable information. This privacy statement applies only to information collected by this Website. 
+  * Individual Participation   
 
-  2. Personally identifiable information: In certain areas of the Services, such as those in which you complete a profile, submit your writings, create a new account, or enter Tech.pro -sponsored contests or promotions, we may request that you provide us with certain personally identifiable information, such as your e-mail address, name, zip code, profession, or work experience. We will, in such situations, seek to identify which informational items are required and which are optional. When a user chooses to create a Tech.pro advertisement we also collect billing information.
+  * Security Safeguards   
 
-Job seekers should post profiles on our Website only if they wish such information to be viewed by our customers. At any time, community members may elect that their profile not be searchable by our customers by logging into their account and changing the status of their profile or, if that is not possible, they may contact us at [info@tech.pro](mailto:info@tech.pro) and we will make the change for them.
+  * Openness   
 
-In addition, members may elect to make their profile searchable by our customers on a confidential basis only. In this case, the user's name and contact information will not be displayed to customers performing searches on the Website. If the customer desires to contact the confidential member regarding an employment opportunity, they will send an email to the member through our system. We will forward the email to the member’s email address. The member’s email address will not be provided directly to the customer. When posting a profile confidentially, it is the member’s responsibility to ensure that their contact information is not included within their resume attachment.
+  * Collection Limitation   
 
-The Services are not available to children under 13 years of age. We do not knowingly collect personally identifiable information from children under 13 years of age.
+  * Purpose Specification   
 
-Please note that we cannot control the acts of users of the Services. All members and visitors should be aware that, when they disclose personally identifiable information in a resume or profile or other medium, the information may be collected and used by others to send that person unsolicited email from other parties outside Tech.pro. In the event that you encounter any Tech.pro user who is improperly collecting or using information about you or other users, please contact [info@tech.pro](mailto:info@tech.pro). 
+  * Data Quality   
 
+  * Accountability 
 
-  
 
 
-### B. HOW WE USE (AND DO NOT USE) THE INFORMATION WE GATHER.
+**Use Limitation**
 
-Please take some time to familiarize yourself with the different ways we use the information we gather. Keep in mind that, while Tech.pro encourages all third parties involved, including but not limited to its advertisers, to adhere to our policies regarding the privacy of our visitors and members and to otherwise handle personal information in a responsible manner, we cannot and do not assume any responsibility for any actions or omissions of third parties, including the manner in which they use information received either from Tech.pro or independently. Nevertheless, in the event you encounter any third party associated with, or who claims association with Tech.pro, who you feel is improperly collecting or using information about you, please contact [info@tech.pro](mailto:info@tech.pro). We will be happy to forward your message to the third party or contact the third party on your behalf.
+EnCirca treats your personal information as confidential and does not disclose it or use it except as permitted by you, as described in this privacy policy, or as required by law, subpoena, court order, legal process or a warrant. 
 
-  1. How we use (and do not use) non-personally identifiable information: We use non-personally identifiable information in aggregate form to build higher quality, more useful Services by performing statistical analyses of the collective characteristics and behavior of our visitors and members, and by measuring demographics and interests regarding specific areas of the Services. We may provide statistical information based on this data to advertisers, users, and other current and potential business partners. We may also use the aggregate data to inform these third parties as to the number of people who have seen and clicked through links to their sites.
+EnCirca will use your contact information, including email address, telephone number and/or postal address to communicate with you at various times, including, but not limited to: registration expirations, whois data acuracy reminders, transfers and marketing communications. You may opt out of marketing communications but not other communications required to process your order or under our Registrar Accreditation Agreement with ICANN. 
 
-  2. How we use (and do not use) personally identifiable information: We do not sell, re-sell or distribute for re-sale your personally identifiable information. Our customers may only use the information provided in profiles of job seekers to evaluate seekers' qualifications for the customer's open job opportunities. Job seekers should be aware, however, that Tech.pro has no way to control how a customer actually uses the service and how they use the profile information. If you believe a Tech.pro customer is using personally identifiable information inappropriately, please notify Tech.pro at [info@tech.pro](mailto:info@tech.pro).
+If we are served with a civil subpoena seeking personal information about a EnCirca user, we will use reasonable efforts to notify the specified user of the request prior to disclosure of such personal information, so as to allow the user the opportunity to oppose the subpoena. 
 
-Please note that Tech.pro reserves the right to disclose information submitted by or concerning any visitor or member as we reasonably feel is necessary to protect our systems or business. We may also disclose your personal information as required by law, such as to comply with a subpoena or other legal process, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. We cooperate with law enforcement agencies in identifying those who may be using our servers or Services for illegal activities. We also reserve the right to report any suspected illegal activity to law enforcement for investigation or prosecution, or to suspend or terminate your membership in connection with any suspected illegal or infringing activity or if you are in violation of our Terms of Use Agreement or other published guidelines.
+EnCirca will not provide your e-mail address, name, or other personal identifiers to merchants or marketers without your specific prior permission. EnCirca will follow the instructions you indicate through the EnCirca software interface. 
 
-If Tech.pro is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. Tech.pro reserves the right to assign, sell, license, or otherwise transfer to a third party your personally identifiable information in connection with an assignment, sale, joint venture, or other transfer or disposition of any portion or all of Tech.pro’s or its affiliated entities' assets or stock.
+EnCirca may engage third parties to perform analysis or data processing of our databases that involves access to your personal information, in order to better provide you with the services for which you joined. If EnCirca does so, it will ensure that such parties are contractually required to keep the information confidential and not to use it in any way other than as is necessary to perform their work for EnCirca. 
 
-Subject to the foregoing, Tech.pro uses your personally identifying information in several ways:
+**Individual Participation**
 
-    * to customize various aspects of the Services to your preferences;
+As a EnCirca customer, you have access to, and appropriate control over, the data that EnCirca maintains about you, via our [online management page](https://www.encirca.com/myaccount/) or through [our support channel](https://helpdesk.encirca.com/portal/home). 
 
-    * to determine which advertisements or sponsor messages will appear on your screen;
+A request to revise or edit your personally identifiable information may not be accommodated if it would result in incorrect information. Requests for deletion of certain key information, such as e-mail address, may require closing the account. 
 
-    * in connection with your use of the Services, we may send you service announcements, administrative messages, and other information. You may opt out of some of those communications;
+Most requests for access to personal data are processed within seconds of being made through the EnCirca software Web interface. Some requests may take up to a few days to process, and the results may be delivered by e-mail. 
 
-    * if other users already have your email, or other information that identifies you, we may show them your publicly visible Tech.pro Profile information, such as your name and photo;
+Any other questions should be addressed to support(at)EnCirca.com. 
 
-    * to send to you Tech.pro solicitations, product announcements, and the like that we feel may be of interest to you (you may "opt out" of receiving these materials, as provided below);
+Information about a customer may be withheld or exempted from deletion if this is required by law or is part of a fraud investigation. 
 
-    * to send to you certain e-mail messages that are critical to your use of the Services, such as system status updates or order confirmations (because these messages contain important information, you may not be able to "opt out" of receiving such messages);
+**Unsubscribe Procedures**
 
-    * to send you certain e-mail messages from third party advertisers (you may "opt-out" of receiving these materials, as provided below). Such third-party advertisements are distributed by Tech.pro on behalf of the advertiser. Tech.pro does not disclose your email address to its advertisers. However, you will be interacting directly with the advertiser and will be subject to their privacy policy once you "click-through" on an advertisement.
+All users may at any time opt-out of our marketing by clicking on the opt-out link we include in every email we send. 
 
-    * to "pre-populate" forms that are displayed for the purpose of collecting individual data by Tech.pro and/or its sponsors (in no case will pre-populating a form automatically transfer any data to an advertiser or other third party - only if you voluntarily request that such data be transferred will any such transfer take place, e.g., by clicking the "Submit" button); and
+**Security Safeguards**
 
-    * as may be necessary to support the operation of the Services, such as for billing, account maintenance, and record-keeping purposes.
+We ensure information quality by employing advanced technology to protect our users' data. We also have well-defined employee and network partner practices that protect the integrity of and access to our users' information. 
 
-In addition to the circumstances described above, Tech.pro may disclose your personally-identifiable information to third parties as follows:
+At EnCirca we employ security techniques and well-defined employee practices to ensure that data is protected from unauthorized access and use. We hold our employees and network partners accountable for maintaining the privacy and integrity of our users'information. EnCirca provides ongoing training programs that are designed to keep our employees and network partners informed of our Privacy Policies. 
 
-    * When a member posts a profile on the Website on a non-confidential basis, such information will be shared with our customers. (Note that at any time, job seekers may elect that their profile not be searchable by our customers by logging into their account and changing the status of their profile or they may contact Tech.pro at [info@tech.pro](mailto:info@tech.pro) and we will make the change for them.)
+EnCirca may engage employees, contractors, and other companies to perform work that involves access to personal information. If EnCirca does so, it will ensure that such parties are contractually required to keep the information confidential and not to use it in any way other than as is necessary to perform their work for EnCirca. 
 
-    * When a job seeker elects to make his or her profile searchable by our customers on a confidential basis only, the user's name and contact information will not be displayed to customers performing searches on the site. If the customer desires to contact the confidential job seeker regarding an employment opportunity, it will send an email to the job seeker through the Tech.pro system. We will forward the email to the seeker's email address. The seeker's email address will not be provided directly to the customer. When posting a resume confidentially, it is the job seeker's responsibility to ensure that their contact information is not included within their resume attachment.
+EnCirca works to reduce the likelihood of loss, misuse, unauthorized access or disclosure, alteration, or destruction, but it is impossible to eliminate this possibility completely. 
 
-    * If you "opt in" to receive promotional materials from third parties, information you have made available to us may be made available to third parties who provide goods or services that we believe may be of interest to you.
+We conduct internal and external audits to determine the effectiveness of our compliance with our Privacy Policy. Our EnCirca-approved network partners are contractually and legally obligated to follow agreed-upon privacy practices. If a EnCirca user feels that they have experienced a violation of these privacy policies, they should contact us at: 
 
-  3. We may provide your personal information to companies that provide services to help us with our business activities such as processing credit card transaction or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
+EnCirca  
+Attention: Privacy  
+400 W. Cummings Park  
+Suite 1725  
+Woburn, MA 01801 
 
-  4. Opting Out: You may receive promotional materials from us about Tech.pro Services, or on behalf of Tech.pro’s affiliates, advertisers, or other business partners. You may "opt out" of receiving such materials at any time in a variety of ways: by using the "opt-out" link included in each email, by changing your subscriptions preferences on the "user settings" page in your Tech.pro account or by contacting us at [info@tech.pro](mailto:info@tech.pro) . If you have provided more than one email address to our service, you may continue to be contacted, unless you request to unsubscribe each email address you have provided. If you opted in to receive information directly from third parties, then you must contact those third parties directly to opt-out.
+Fax: 781-823-8911  
+E-mail: support (at) EnCirca.com 
 
-  5. All information made available to Tech.pro may be made available to our contractors and consultants, and professional advisors (such as attorneys or accountants), but only to the extent necessary for them to perform services on our behalf, and only under a duty of confidentiality.
+**Openness**
 
-  6. Email to a Friend: If you choose to use our referral service to tell another person about a job, we will ask you for that person's email address. We will automatically send that person a one-time email inviting him or her to visit the site. We use this information for the sole purpose of sending this one-time email, and do not store these email addresses.
+EnCirca has a general policy of openness about developments, practices and policies with respect to personal data. EnCirca states in detail what personal data it collects and why it collects it. 
 
+EnCirca's Web server may log key information about any visitor to the EnCirca website (both users and non-users), including the following elements: 
 
-  
+  * The URL of the page requested;   
 
+  * The time and date of the request;   
 
-### C. SECURITY
+  * The make and version of the web browser being used,  
 
-The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+  * The version and type of your operating system);   
 
-We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Website, you can contact us at [info@tech.pro](mailto:info@tech.pro).
+  * The "Referrer" (the URL where you clicked on a link to get to EnCirca's site);   
 
-  
+  * The IP address where a copy of the page you requested is to be sent for display by your browser. 
 
 
-### D. SURVEYS AND SWEEPSTAKES
 
-Occasionally, Tech.pro may conduct surveys in order to better deliver advertisements and content and to better understand your needs relating to the Services. We will not share your survey information with any third party, except in aggregate form.
+We use this information in aggregate to get a better picture of where our visitors come from and how to plan for our future needs. 
 
-From time-to-time we may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). That information, to the extent it conflicts with this policy, will govern that particular promotion or sweepstakes – please remember to read it carefully.
+The web server logs may be used in the course of a fraud investigation. 
 
-We may use this information to notify contest winners and award prizes, to monitor Website use, to personalize the site, to send participants an email, and to measure participants' demographics, interests and opinions. We may use a third party service provider to conduct these surveys or contests; that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+The browser make and version also is used during your visit to indicate to you whether EnCirca's software will run on your computer's configuration. The URL may contain tracking codes used only for the purpose of auditing advertising. 
 
-  
+**Our Use of Cookies**
 
+At the present time, EnCirca will be using cookies to manage the session between your browser and our web site. Cookies will also be used to allow you to have a unique ID for access to our services. We will not collect any personally identifiable information via the use of cookies. Any information we collect using cookies will be used only for the purposes of web site administration and will not be shared with anyone. Should our policy change regarding the use of cookies, EnCirca will post those changes to our privacy policy. 
 
-### E. SOCIAL MEDIA FEATURES
+A "cookie" is a small piece of information sent by a web server to store on a web browser so it can later be read back from that browser. This is useful for having the browser recustomer some specific information. An example is when a browser stores your passwords and user IDs. They are also used to store preferences of start pages. 
 
-Our Web site includes Social Media Features, such as Widgets, that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. These Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+Cookies are used to make informed guesses about you. They can be used to access information about your web activities including things like sites you've visited, passwords and purchases you've made. Companies can only make guesses about who you are because cookies do not necessarily contain personal information about you. Cookies alone are not invasive of your privacy and actually provide benefits to you. Much of what you find on the web today is free because advertising, similar to television and radio, supports it. Advertising, in part, is driven by the information contained in cookies. Cookies provide an effective way for the web sites you visit to personalize your experience when you visit them. In fact, many sites actually require that a cookie be "dropped" on your computer in order for these sites to recognize you and work properly when you visit them. 
 
-### F. FORUMS/BULLETIN BOARDS/COMMENTS
+**Our Use of Clear GIF's**
 
-If you contribute to any user generated forum on this Website (for example: answers, debate, comments), you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
+EnCirca sometimes uses a common technology called a clear gif or action tags. A clear gif (graphic interface format) is a small graphic image that is a 1x1 pixel placed on our web site, in banner ads, and/or in e-mail communications. A clear gif provides us with important information about how customers use our web site and respond to our e-mail communications, such as whether someone is using an e-mail reader that understands HTML e-mail messages. This information helps us understand the effectiveness of our web-based communications and improve it's effectiveness. For security purposes, it may also collect your IP address to be used only if fraud is associated with any activity using this IP address 
 
-  
+**Collection Limitation**
 
+EnCirca collects personal data about you only in ways that are fair and lawful. EnCirca collects only the personal data it has said it collects, and only in the ways it has said it collects it. 
 
-### G. CORRECTING PERSONAL INFORMATION
+**Purpose Specification**
 
-If you would like to have your personally identifiable information removed from Tech.pro’s database, or would like to correct an error in such information, please contact us at [info@tech.pro](mailto:info@tech.pro), and we will use reasonable efforts to comply with your request. Keep in mind, however, that there will be residual information that will remain within Tech.pro databases, access logs, and other records, which may or may not contain such personally identifiable information. The residual information will not be used for commercial purposes; if you have provided more than one email address to our service, you may continue to be contacted, unless you request to unsubscribe each email address you may have provided.
+EnCirca always specifies the purposes for which it uses personal data, before collecting it. EnCirca will not use it for other purposes without first obtaining the customer's consent. 
 
-  1. Access: If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove or deactivate it by making the change on our member information page or by emailing our Customer Support at Tech.pro or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 30 days.
+**Who Collects Your Information**
 
-  2. Data Retention: We will retain your information for as long as your account is active or as needed to provide you Services. If you wish to cancel your account or request that we no longer use your information to provide you Services, contact us at [info@tech.pro](mailto:info@tech.pro). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+EnCirca collects your information on servers under our control. 
 
+**Information We Collect**
 
-  
+When you purchase a service, such as a domain name, we ask you to specify a "ship-to" and "bill-to" contact. These contacts include, First Name, Last Name, Email Address, Phone Number, Fax Number (optional), Company (optional), Address, City, State, Other State/Province (optional), Zip Code, Country. In addition,for credit card purchases, we require, credit card type, credit card number, and credit card expiration date. 
 
+This information is collected to allow us to use multiple means of contacting you and to help prevent fraud. Under no circumstances will we use this information for anything else not described in the privacy notice. Users can have access to review their information at any time my logging into their account. You can correct factual errors in your personally identifiable information by logging into your account and making the correction yourself. To protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making corrections. 
 
-### H. CHANGES TO THIS PRIVACY POLICY
+Any personal information collected during the course of customer service (your home phone number, for example) will only be used for the purpose of customer service. This information will not be linked to your account, nor will it be shared with anyone else. 
 
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+In the future, EnCirca may ask for additional information that will help us understand your use of e-mail, your interests and/or preferences, so that we may continue to enhance our services to best serve you. This information will not be shared with any third parties without your explicit permission, and the provision of this information is completely at your option. 
 
-Note that, by using the Services, you signify your agreement to this Privacy Policy. If you do not agree to this Policy, please do not use the Services. Your continued use of the Services subsequent to changes to this Policy will mean that you accept the changes; therefore, please bookmark this page and review it periodically. If you have any questions regarding this Privacy Policy, or any other privacy issues in connection with the Services, please e-mail us at [info@tech.pro](mailto:info@tech.pro).
+If you become a EnCirca user, you give us permission to use the information we have told you we use here, for the purposes stated here, according to the options you indicate via the EnCirca software and website. 
 
-### QUESTIONS?
+**Information We Share**
 
-Questions regarding this Privacy Policy should be directed to [info@tech.pro](mailto:info@tech.pro). 
+EnCirca shares additional technical information (for instance: whether the e-mail program you use can receive html e-mail) collected during the e-mail address change registration process with our network partners, in order for our partners to send you e-mail messages in a format (for instance: html or text) that you can receive. 
+
+Whois Data: EnCirca creates Whois contact information based on your personally identifiable information. EnCirca may be required to share your personally identifiable information with a domain name Registry that requests it, or, in the case of a bulk whois license agreement, with a third party who has licensed our whois data, unless you have specifically opted out. It is reasonable to expect that these third parties may have different privacy policies. 
+
+**Data Quality**
+
+EnCirca does not collect personal data from you that is not relevant to the purposes stated in its Privacy Policy. EnCirca strives to keep all personal information accurate,complete, and up-to-date. 
+
+As described in our Terms and Conditions, EnCirca may terminate your account for various reasons, such as if you ask us to or if you stop using it for a long time. 
+
+After a reasonable period of time (consistent with business requirements such as accounting), the personal information associated with terminated accounts will be destroyed or removed. From time to time, EnCirca reduces the amount of data associated with active customers by converting older data into summary statistics or destroying it. 
+
+**Accountability**
+
+EnCirca always has a person designated as its privacy ombudsman, who is accountable for ensuring that EnCirca protects its customers' privacy. Questions, concerns, issues or complaints may be sent to support (at) EnCirca.com 
+
+If you have any questions regarding our privacy policy, please contact us at: 
+
+EnCirca  
+Attention: Privacy  
+400 W. Cummings Park  
+Suite 1725  
+Woburn, MA 01801 
+
+Fax: 781-823-8911  
+E-mail: support (at) EnCirca.com 
+
+**Policy Regarding Children's Use of Our Site**
+
+EnCirca complies with the Children's Online Privacy Protection Act. EnCirca does not knowingly collect information from children under the age of 13. EnCirca requires users of this site to be at least 13 years of age. 
+
+**Business Transfers or Bankruptcy**
+
+As we continue to develop our business, we might sell or buy companies or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the unlikely event that EnCirca or substantially all of its assets are acquired, customer information will of course be one of the transferred assets. EnCirca users will be notified of such business transfer or bankruptcy and be given the opportunity to opt-out of any such transfer. 
+
+**Notification of Changes**
+
+The foregoing policy is effective as of March 11, 2003. EnCirca reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of EnCirca's services following the posting of changes to these terms will mean you accept those changes. 
+
+Policy last updated: February 14, 2018. 
