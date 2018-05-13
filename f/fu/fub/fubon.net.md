@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fubon.net privacy policy that was archived on 2017-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170716024708id_/http%3A//www.fubon.net/en/List.Asp%3FSortID%3D22%26ID%3D53) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fubon.net privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513084251id_/http%3A//www.fubon.net/en/List.Asp%3FSortID%3D22%26ID%3D53) for the most accurate reproduction.*
 
 # Privacy Policy - FUBON FOREX
 
