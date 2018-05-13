@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the twinfinite.net privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209200942id_/http%3A//twinfinite.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twinfinite.net privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514011304id_/http%3A//twinfinite.net/privacy-policy) for the most accurate reproduction.*
 
-# Twinfinite's Privacy Policy
+# Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us [by email.](https://web.archive.org/cdn-cgi/l/email-protection#492138093d3e20272f2027203d2c67272c3d)
+If you require any more information or have any questions about our privacy policy, please feel free to contact us [by email.](mailto:hq@twinfinite.net)
 
 At [Twinfinite](http://twinfinite.net/), we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by Twinfinite and how we use it.
 
