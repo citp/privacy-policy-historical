@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcc.edu privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113154246id_/https%3A//www.tcc.edu/about-tcc/website-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcc.edu privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513033521id_/http%3A//tcc.edu/about-tcc/website-privacy-statement) for the most accurate reproduction.*
 
 # Website Privacy Statement & Disclaimer -
 
@@ -40,7 +40,7 @@ Links or references to other materials and websites provided in the above-refere
 
 We protect our records in accordance with our obligations as defined by applicable Virginia statutes, including, but not limited to, the "Government Data Collection and Dissemination Practices Act" Code of Virginia, § 2.2-3800, "Administration of systems including personal information; Internet privacy policy; exceptions" Code of Virginia, § 2.2-3803, the "Virginia Freedom of Information Act" § 2.2-3700, et seq., and by any applicable U.S. federal laws.
 
-[Download TCC’s Privacy Policy](http://web.tcc.edu/policies/1000/1104Privacy.pdf)
+[Download TCC’s Privacy Policy](https://www.tcc.edu/uploads/pdf/policies/tcc-policy-1104.pdf)
 
 **Information we collect from the website**
 
