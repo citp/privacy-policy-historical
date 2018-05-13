@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theflowershop.ae privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609172040id_/http%3A//www.theflowershop.ae/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theflowershop.ae privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513112552id_/http%3A//www.theflowershop.ae/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy,
+# Privacy Policy, theflowershop.ae
 
 ## A. What is Personal Information?
 
