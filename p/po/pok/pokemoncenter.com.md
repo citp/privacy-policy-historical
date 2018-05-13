@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the pokemoncenter.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003113108id_/https%3A//www.pokemoncenter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokemoncenter.com privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513151203id_/https%3A//www.pokemoncenter.com/privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy for Pokémon Center
+
+We are updating our Privacy Notice as of May 25, 2018. Find out more by visiting the [Pokémon Privacy Notice](https://www.pokemon.com/us/privacy-notice/).
 
 Last updated June 20, 2016.
 
