@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the binaryoptionstutor.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110115619id_/http%3A//www.binaryoptionstutor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binaryoptionstutor.com privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513141221id_/http%3A//www.binaryoptionstutor.com/privacy) for the most accurate reproduction.*
 
 # Binary Options signals and trading tutoring
 
