@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogdum.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215172243id_/http%3A//blogdum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogdum.com privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513220448id_/http%3A//blogdum.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BlogDum
 
@@ -8,11 +8,11 @@ The privacy of our visitors to [blogdum.com](http://blogdum.com/) is important t
 
 At blogdum.com, we recognize that privacy of your personal information is important. We store your personal information such as email, name, etc. when you use and visit _blogdum.com_ , and how we protect your information. We never sell your any personal information to third parties.
 
- **Log Files:**
+**Log Files:**
 
 As with most other websites, we collect and use the data contained in log files(Database). The information in the log files include your IP (internet protocol) address, the browser you used to visit our site (such as Internet Explorer,Opera,Safari,Firefox or Chrome), the time you visited our site and which pages you visited throughout our site. This is information is only used for tracking purpose to check out website stats.
 
- ** **Cookies & 3rd Party Advertisements**:**
+****Cookies & 3rd Party Advertisements**:**
 
 We do use cookies to store information, such as your personal preferences only when you visit our site. This could include only showing you a social or ad popup once in your visit, or the ability to register/login to some of our features.
 
@@ -22,10 +22,8 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by changing preferences in programs such as Kaspersky, Norton,etc. However, this can affect how you are able to interact with our site as well as other websites.
 
- **Disclaimer:**
+**Disclaimer:**
 
 All the contents in _blogdum.com_ is for educational and informational purpose only. We do not take any responsibility for any loss caused to you by the information on _blogdum.com_.
 
 [Contact us](http://blogdum.com/contact-us/ "Contact Us") for any information related your queries.
-
-### Share and Enjoy
