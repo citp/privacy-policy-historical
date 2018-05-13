@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theme-fusion.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228002959id_/http%3A//theme-fusion.com/knowledgebase/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theme-fusion.com privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513223411id_/http%3A//theme-fusion.com/knowledgebase/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Theme Fusion
 
