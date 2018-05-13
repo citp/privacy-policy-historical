@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the didyouknowgaming.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110174020id_/http%3A//didyouknowgaming.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the didyouknowgaming.com privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513021940id_/http%3A//didyouknowgaming.com/privacypolicy) for the most accurate reproduction.*
 
 # Did You Know Gaming? — Privacy Policy
 
@@ -40,4 +40,4 @@ We will never rent or sell your personally identifiable information to third par
 
 We may provide aggregate information, such as demographic, psychographic and page viewing preference information to third parties as we deem appropriate. This information will never contain personally-identifying information.
 
-If you have questions or comments about the DidYouKnowGaming.com privacy policy, please feel free to contact us at [admin@didyouknowgaming.com](http://t.umblr.com/redirect?z=mailto%3Aadmin%40didyouknowgaming.com&t=ZjQ1MmM1YjM5ZGEyNWVjNDhkNzcyODc5Zjg0NWMxMGQ3ZGRhYzg2NCxUbU4zdWpESg%3D%3D&p=&m=0).
+If you have questions or comments about the DidYouKnowGaming.com privacy policy, please feel free to contact us at [admin@didyouknowgaming.com](https://t.umblr.com/redirect?z=mailto%3Aadmin%40didyouknowgaming.com&t=ZjQ1MmM1YjM5ZGEyNWVjNDhkNzcyODc5Zjg0NWMxMGQ3ZGRhYzg2NCxUbU4zdWpESg%3D%3D&p=&m=0).
