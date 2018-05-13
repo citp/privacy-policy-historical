@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costumeexpress.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208095510id_/http%3A//www.costumeexpress.com/info/21) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costumeexpress.com privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513203439id_/http%3A//www.costumeexpress.com/info/21) for the most accurate reproduction.*
 
 # Costume Express
 
@@ -26,7 +26,7 @@ Visit [DMAChoice Direct Marketing Association](http://www.dmachoice.org/), at [w
 Last Updated: February 21, 2012.   
 Effective Date: February 26, 2012. 
 
-We at CostumeExpress.com value your business, and trust. Therefore, we will not sell, rent, or give away any customers' e-mail address to other businesses. We request your e-mail address so we can send you important information regarding your order (order confirmation, order processing, and tracking number). We may e-mail you coupons or discount offers in the future. We may also share information we collect at our site with other members of the BUYSEASONS family (CostumeExpress.com is owned by BUYSEASONS, Inc.). They may use this information to offer you products and services that may be of interest to you. 
+We at CostumeExpress.com value your business, and trust. Therefore, we will not sell, rent, or give away any customers' e-mail address to other businesses. We request your e-mail address so we can send you important information regarding your order (order confirmation, order processing, and tracking number). We may e-mail you coupons or discount offers in the future. We may also share information we collect at our site with other members of the COSTUMEEXPRESS.COM family. They may use this information to offer you products and services that may be of interest to you. 
 
 CostumeExpress.com tracks information about the visits to the site. For example, statistics are compiled that show the daily number of visitors to the site, the daily requests received for particular files on the site, and from what countries those requests come. CostumeExpress.com may also track information about our users browsing activity as they navigate through our site. These statistics are used to customize our Web site to better meet your needs and may also be provided to others, but we will not provide any personally identifiable information that may be associated with those statistics to any third parties.
 
