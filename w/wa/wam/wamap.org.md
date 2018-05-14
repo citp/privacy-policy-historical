@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wamap.org privacy policy that was archived on 2017-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171111205624id_/https%3A//www.wamap.org/wamap/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wamap.org privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514032334id_/https%3A//www.wamap.org/wamap/privacy.php) for the most accurate reproduction.*
 
 # WAMAP
 
