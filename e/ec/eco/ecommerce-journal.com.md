@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecommerce-journal.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107114308id_/http%3A//ecommerce-journal.com/confidential.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecommerce-journal.com privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514020615id_/http%3A//ecommerce-journal.com/confidential.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
