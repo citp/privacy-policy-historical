@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ke.com.pk privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113013856id_/https%3A//www.ke.com.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ke.com.pk privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514125350id_/https%3A//www.ke.com.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - K-Electric
 
