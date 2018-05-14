@@ -1,49 +1,114 @@
-> *The following text is extracted and transformed from the eslconversationquestions.com privacy policy that was archived on 2017-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170413101103id_/https%3A//www.eslconversationquestions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eslconversationquestions.com privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514180651id_/https%3A//www.eslconversationquestions.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ESL Conversation Questions
 
-ESL Conversation Questions operates eslconversationquestions.com and may operate other websites. It is our policy to respect your privacy regarding any information we may collect while operating our websites.
+ESL Conversation Questions found at https://www.eslconversationquestions.com (“Website”) is governed by the following privacy policy (“Privacy Policy”).
 
-### Website Visitors
+We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what personally identifiable information we may collect and how it may be used. This statement only applies to this Website.
 
-Like most website operators, ESL Conversation Questions collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, usage patterns and the date and time of each visitor request. Our purpose in collecting non-personally identifying information is to better understand how our visitors use our website. An example being our use of Google Analytics to better understand visitor behavior.
+## WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?
 
-ESL Conversation Questions uses Google Analytics reports to better understand visitor behavior to better serve the needs of our visitors. We have implemented Google Analytics Demographics and Interest Reporting. This uses data from Google’s Interest-based advertising and 3rd-party audience data (such as age, gender, and interests) to provide demographic and interest information to Google Analytics. ESL Conversation Questions uses this data to better understand it’s audience and to improve product development. ESL Conversation Questions will not facilitate the merging of personally-identifiable information with non-personally identifiable information previously collected from Display Advertising features that is based on the DoubleClick cookie unless ESL Conversation Questions has robust notice of, and the user’s prior affirmative (i.e., opt-in) consent to, that merger. Using the [Ads Settings](https://www.google.com/settings/ads), visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads.
+**Information You Voluntarily Submit to the Website** : We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Website by leaving a comment, subscribing to a newsletter, or submitting a contact form. In addition, you are able to create a user profile, which allows you to create a username and password. We will store the username, but your password will not be visible in our records.
 
-Google also has a browser addon to opt-out of Google Analytics which can be found [here](https://tools.google.com/dlpage/gaoptout/).
+**Information We Collect from Others** : We may receive information about you from other sources.  You may link your Facebook, Instagram, and/or Google accounts to your user profile.  If you choose to link your Facebook, Instagram, and/or Google accounts to your user profile, we will receive your name, email address and profile picture associated with that account.  The Website utilizes the Facebook commenting system, so if you choose to comment on a Website post, your profile picture will appear.
 
-ESL Conversation Questions also uses Inspectlet which anonymously tracks some user usage patterns to create heat maps or record how the site is being used. Data that is collected is non-personally identifying and will only be used to further improve the layout of the site.
+**Automatically-Collected Information** : We automatically collect certain information about you and the device with which you access the Website. For example, when you use the Website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the Website. We may also collect information about actions you take when using the Website, such as links clicked.
 
-ESL Conversation Questions uses the Amazon Associates program on the site. Some links may be affiliate links. These links have no effect on the price you pay when you purchase a product after following the link. Although they do utilize a cookie for a limited period of time and we do receive a percentage of the purchase price from Amazon products when purchased the affiliate link.
+**Cookies** : We may log information using cookies, which are small data files stored on your browser by the Website. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the Website.
 
-ESL Conversation Questions is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com. Learn more by going to [Associates Program Operating Agreement](https://affiliate-program.amazon.com/gp/associates/agreement/).
+## HOW YOUR INFORMATION MAY BE USED
 
-ESL Conversation Questions also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on eslconversationquestions.com blogs/sites. ESL Conversation Questions only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
+We may use the information collected in the following ways:
 
-### Gathering of Personally-Identifying Information
+  * To operate and maintain the Website;
+  * To create your account, identify you as a user of the Website, and customize the Website for your account;
+  * To send you promotional information, such as newsletters. Each email promotion will provide information on how to opt-out of future mailings;
+  * To send you administrative communications, such as administrative emails, confirmation emails, technical notices, updates on policies, or security alerts;
+  * To respond to your comments or inquiries;
+  * To provide you with user support;
+  * To track and measure advertising on the Website;
+  * To protect, investigate, and deter against unauthorized or illegal activity.
 
-When you engage in certain activities on this site, you may be asked to provide certain information about yourself by filling out and submitting an online form. It is completely optional for you to engage in these activities. If you elect to engage in these activities, however, you may be required to provide personal information, such as your name, mailing address, e-mail address, and other personal identifying information.
 
-Those who engage in transactions with ESL Conversation Questions are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, ESL Conversation Questions collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with ESL Conversation Questions. ESL Conversation Questions does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-### Aggregated Statistics
+## THIRD-PARTY USE OF PERSONAL INFORMATION
 
-ESL Conversation Questions may collect statistics about the behavior of visitors to its websites. ESL Conversation Questions may display this information publicly or provide it to others. However, ESL Conversation Questions does not disclose personally-identifying information other than as described below.
+We may share your information with third parties when you explicitly authorize us to share your information.
 
-### Cookies
+Additionally, the Website may use third-party service providers to service various aspects of the Website. Each third-party service provider’s use of your personal information is dictated by their respective privacy policies.
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. ESL Conversation Questions uses cookies to help us identify and track visitors, their usage of ESL Conversation Questions website, and their website access preferences. ESL Conversation Questions visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using ESL Conversation Questions’s websites, with the drawback that certain features of ESL Conversation Questions’s websites may not function properly without the aid of cookies.
+The Website currently uses the following third-party service providers:
 
-We use Google Adsense on our site. Third party vendors, including Google and Amazon, use cookies to serve ads based on a user’s prior visits to our website.
+Google Analytics – this service tracks Website usage and provides information such as referring websites and user actions on the Website. Google Analytics may capture your IP address, but no other personal information is captured by Google Analytics.
 
-Google’s use of the DoubleClick cookie enables it and its partners to serve ads to users based on their visit to our site and/or other sites on the Internet.
+Mail Chimp – this service is used for delivery of email updates and newsletters. We store your name and email address for purposes of delivering such communications.  Please refer to Mail Chimp’s privacy policy for further information.
 
-Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). (Alternatively, users can opt out of a third-party vendor’s use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).)
+One Signal – this service is used to send you push notifications through your web browser, should you choose.  Please refer to One Signal’s privacy policy for further information.
 
-### Protection of Certain Personally-Identifying Information
+At this time, your personal information is not shared with any other third-party applications. This list may be amended from time to time in the Website’s sole discretion.
 
-ESL Conversation Questions discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on ESL Conversation Questions’s behalf or to provide services available at ESL Conversation Questions’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using ESL Conversation Questions’s websites, you consent to the transfer of such information to them. ESL Conversation Questions will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, ESL Conversation Questions discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when ESL Conversation Questions believes in good faith that disclosure is reasonably necessary to protect the property or rights of ESL Conversation Questions, third parties or the public at large. If you are a registered user of an ESL Conversation Questions website and have supplied your email address, ESL Conversation Questions may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with ESL Conversation Questions and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. ESL Conversation Questions takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+Except when required by law, we will not sell, distribute, or reveal your email addresses or other personal information without your consent; however, we may disclose or transfer personal information collected through the Website to third parties who acquire all or a portion of our business, which may be the result of a merger, consolidation, or purchase of all or a portion of our assets, or in connection with any bankruptcy or reorganization proceeding brought by or against us.
 
-### Privacy Policy Changes
+## ANONYMOUS DATA
 
-Although most changes are likely to be minor, ESL Conversation Questions may change its Privacy Policy from time to time, and in ESL Conversation Questions’s sole discretion. ESL Conversation Questions encourages visitors to frequently check this page for any changes to its Privacy Policy.
+From time to time, we may use anonymous data, which does not identify you alone, or when combined with data from other parties. This type of anonymous data may be provided to other parties for marketing, advertising, or other uses. Examples of this anonymous data may include analytics or information collected from cookies.
+
+## PUBLICLY VISIBLE INFORMATION
+
+If you create a user profile on the Website or leave a comment, certain information may be publicly visible.  To create a user profile, you must choose a username and password and input your email address for profile confirmation.  Your email address will never be available publicly.  At your option, you may also add an avatar, a profile description, and a link to your website.
+
+You may also choose to link your Facebook, Instagram, and Google Account.
+
+Users may see your username, avatar, profile description and website information.
+
+## COOKIES
+
+The Website uses cookies to store visitors’ preferences, record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads, customize Website content based on visitors’ browser type or other information that the visitor sends. Cookies may also be used by third-party services, such as Google Analytics, as described herein.
+
+Users may, at any time, prevent the setting of cookies, by the Website, by using a corresponding setting of your internet browser and may thus permanently deny the setting of cookies. Furthermore, already set cookies may be deleted at any time via an Internet browser or other software programs. This is possible in all popular Internet browsers. However, if users deactivate the setting of cookies in your Internet browser, not all functions of our Website may be entirely usable.
+
+## ADVERTISING
+
+**Display Ads**
+
+We may use third-party advertising companies to serve content and advertisements when you visit the Website, which may use cookies, as noted above.
+
+**Retargeting  Ads**
+
+From time to time, the Website may engage in remarketing efforts with third-party companies, such as Google, Facebook, or Instagram, in order to market the Website. These companies use cookies to serve ads based on someone’s past visits to the Website.
+
+**Affiliate Program Participation**
+
+The Website may engage in affiliate marketing, which is done by embedding tracking links into the Website. If you click on a link for an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions.
+
+ESL Conversation Questions is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com.  As part of this Amazon Associates program, the Website will post customized links, provided by Amazon, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales.
+
+**Newsletters**
+
+On the Website, you may subscribe to our newsletter, which may be used for advertising purposes. All newsletters sent may contain tracking pixels. The pixel is embedded in emails and allows an analysis of the success of online marketing campaigns. Because of these tracking pixels, we may see if and when you open an email and which links within the email you click. Also, this allows the Website to adapt the content of future newsletters to the interests of the user. This behavior will not be passed on to third parties.
+
+## RIGHTS RELATED TO YOUR PERSONAL INFORMATION
+
+Opt-out – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us at larrypitts@eslconversationquestions.com to be removed from our mailing list.
+
+Access – You may access the personal information we have about you by submitting a request to larrypitts@eslconversationquestions.com.
+
+Amend – You may contact us at larrypitts@eslconversationquestions.com to amend or update your personal information.
+
+Forget – In certain situations, you may request that we erase or forget your personal data. To do so, please submit a request to larrypitts@eslconversationquestions.com.
+
+Please note that we may need to retain certain information for record keeping purposes or to complete transactions, or when required by law.
+
+## SENSITIVE PERSONAL INFORMATION
+
+At no time should you submit sensitive personal information to the Website. This includes your social security number, information regarding race or ethnic origin, political opinions, religious beliefs, health information, criminal background, or trade union memberships. If you elect to submit such information to us, it will be subject to this Privacy Policy.
+
+## CHILDREN’S INFORMATION
+
+The Website does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, please contact us immediately at larrypitts@eslconversationquestions.com and we will use our best efforts to promptly remove such information from our records.
+
+## CONTACT INFORMATION
+
+At any time, please contact us at larrypitts@eslconversationquestions.com for questions related to this Privacy Policy.
+
+Last updated: May 5, 2018.
