@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nmincite.com privacy policy that was archived on 2017-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171111162927id_/http%3A//www.nielsensocial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nmincite.com privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514081615id_/http%3A//www.nielsensocial.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Nielsen Social
 
