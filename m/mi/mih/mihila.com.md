@@ -1,39 +1,25 @@
-> *The following text is extracted and transformed from the mihila.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524025341id_/http%3A//www.mihila.com/terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mihila.com privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514120527id_/http%3A//www.mihila.com/privacy.php) for the most accurate reproduction.*
 
-# Mihila Radio
+# Japanese Used Vehicles Exporter | Mihila International
 
-For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
+**Mihila International Co., Ltd.** is committed to protecting your privacy, and takes its responsibilities regarding the security of customer information seriously. This policy informs how we use customer information and how we protect your privacy.
 
-We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, user- specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number.
+Customer Information
 
-The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site.
+We require certain information to allow us to process your vehicle **Mihila International Co., Ltd.** collect the details provided by you, together with information we learn about you from your use of our service and your visits to our web site and other sites accessible from them. We also collect information about the transactions you undertake including details of payment cards used.
 
-With respect to cookies: We use cookies to record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit.
+We may collect additional information in connection with your participation in any promotions or competitions offered by us and information you provide when giving us feedback.
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
+We will use your information to provide and personalize our service. We will also use your contact details to communicate with you. We may use your information to send you offers and news about Mihila International Co., Ltd. products and services or those of other carefully selected companies which we think may be of interest to you. We may contact you by post, email, telephone (including SMS) or fax for these purposes. Your confirmation e-mails (which may include details of car bookings or other services booked through our websites) may include marketing material which we may feel will be of interest to you from other third parties.
 
-From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.
+Your data may be used for the following purposes: accounting, billing and audit, credit or other payment card verification and screening, health, administrative and legal purposes, statistical and marketing analysis, systems testing, maintenance and development, customer surveys, customer relations and to help us in any future dealings with you, for example by identifying your requirements and preferences.
 
-From time to time, we make our customer e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.
+Once you have registered on **Mihila International Co., Ltd.** , you will be provided with access to a "Costumer profile" page that allows you to tailor our commercial communications to your preferences. You can unsubscribe of receiving e-mail updates at any time by going to http://www.mihila.com on Newsletter column.
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above.
+We like to hear your feedback to help us improve our service. We may contact you by post, e-mail, telephone or fax to ask your opinions.
 
-Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations
+Please note that there may be instances where it may be necessary for us to communicate with you, for administrative or operational reasons relating for example to advise you of alterations to shipment arrivals.
 
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
+We may also use and analyze the information that we collect so that we can administer, support, improve and develop our business.
 
-Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us e-mail at the above address.
-
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations
-
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.
-
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.  
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address.
-
-Upon request we provide site visitors with access to no information that we have collected and that we maintain about them.
-
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
-
-If you feel that this site is not following its stated information policy, you may contact us at [sales@mihilaradio.com](mailto:sales@mihilaradio.com)  
-
+The information that you provide to us will be held in our systems, which are located on our premises or those of an appointed third party. We may also allow access to your information by other third parties who act for us for the purposes set out in this policy or for other purposes approved by you. It is possible that your data may be processed outside of Japan.
