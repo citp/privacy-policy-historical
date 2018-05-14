@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mastercardworldwide.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204044039id_/https%3A//www.mastercard.us/en-us/about-mastercard/what-we-do/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mastercardworldwide.com privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514220005id_/https%3A//www.mastercard.us/en-us/about-mastercard/what-we-do/privacy.html) for the most accurate reproduction.*
 
 # Mastercard Global Privacy Policy
 
@@ -129,7 +129,7 @@ This Global Privacy Notice may be updated periodically and without prior notice 
 
 ### How To Contact Us
 
-If you have any questions or comments about this Global Privacy Notice, Mastercard's privacy practices or if you would like us to update information or preferences you provided to us, please [click here](https://www.mastercard.com/us/personal/en/general/contact-us.html "click here"). You also may e-mail us at:  [privacyanddatausage@mastercard.com](mailto:privacyanddatausage@mastercard.com "privacyanddatausage@mastercard.com"); or write to us at:
+If you have any questions or comments about this Global Privacy Notice, Mastercard's privacy practices or if you would like us to update information or preferences you provided to us, please [click here](https://www.mastercard.com/us/personal/en/general/contact-us.html "click here"). You also may e-mail us at:  [privacyanddatausage@mastercard.com](mailto:privacyanddatausage@mastercard.com); or write to us at:
 
 Global Privacy Officer  
 Mastercard International Incorporated  
@@ -137,7 +137,7 @@ Mastercard International Incorporated
 Purchase, New York 10577  
 USA
 
-If you are located in the EEA or Switzerland, Mastercard Europe sprl may be the entity responsible for the processing of your personal information. If you are located in the EEA or Switzerland, you may e-mail us at: [privacyanddatausage@mastercard.com](mailto:privacyanddatausage@mastercard.com "privacyanddatausage@mastercard.com"); or write to us at:
+If you are located in the EEA or Switzerland, Mastercard Europe sprl may be the entity responsible for the processing of your personal information. If you are located in the EEA or Switzerland, you may e-mail us at: [privacyanddatausage@mastercard.com](mailto:privacyanddatausage@mastercard.com); or write to us at:
 
 Global Privacy Officer  
 Mastercard Europe sprl  
