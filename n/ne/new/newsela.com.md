@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsela.com privacy policy that was archived on 2017-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171026231327id_/https%3A//newsela.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsela.com privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514142609id_/https%3A//newsela.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Newsela | Newsela - Privacy Policy
 
