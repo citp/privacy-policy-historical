@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobiletest.me privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110160153id_/http%3A//mobiletest.me/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiletest.me privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514022559id_/http%3A//mobiletest.me/page/privacy) for the most accurate reproduction.*
 
 # MobileTest.me - Test your mobile sites and responsive web designs
 
