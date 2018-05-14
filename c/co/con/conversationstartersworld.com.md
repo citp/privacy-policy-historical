@@ -1,75 +1,114 @@
-> *The following text is extracted and transformed from the conversationstartersworld.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001050331id_/https%3A//conversationstartersworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conversationstartersworld.com privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514180216id_/https%3A//conversationstartersworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This privacy policy discloses the privacy practices for conversationstartersworld.com. This privacy policy applies solely to information collected by this web site. It will notify you of the following:
+Conversation Starters World found at https://conversationstartersworld.com (“Website”) is governed by the following privacy policy (“Privacy Policy”).
 
-  1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
-  2. What choices are available to you regarding the use of your data.
-  3. The security procedures in place to protect the misuse of your information.
-  4. How you can correct any inaccuracies in the information.
+We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what personally identifiable information we may collect and how it may be used. This statement only applies to this Website.
+
+## WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?
+
+**Information You Voluntarily Submit to the Website** : We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Website by leaving a comment, subscribing to a newsletter, or submitting a contact form. In addition, you are able to create a user profile, which allows you to create a username and password. We will store the username, but your password will not be visible in our records.
+
+**Information We Collect from Others** : We may receive information about you from other sources.  You may link your Facebook, Instagram, and/or Google accounts to your user profile.  If you choose to link your Facebook, Instagram, and/or Google accounts to your user profile, we will receive your name, email address and profile picture associated with that account.  The Website utilizes the Facebook commenting system, so if you choose to comment on a Website post, your profile picture will appear.
+
+**Automatically-Collected Information** : We automatically collect certain information about you and the device with which you access the Website. For example, when you use the Website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the Website. We may also collect information about actions you take when using the Website, such as links clicked.
+
+**Cookies** : We may log information using cookies, which are small data files stored on your browser by the Website. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the Website.
+
+## HOW YOUR INFORMATION MAY BE USED
+
+We may use the information collected in the following ways:
+
+  * To operate and maintain the Website;
+  * To create your account, identify you as a user of the Website, and customize the Website for your account;
+  * To send you promotional information, such as newsletters. Each email promotion will provide information on how to opt-out of future mailings;
+  * To send you administrative communications, such as administrative emails, confirmation emails, technical notices, updates on policies, or security alerts;
+  * To respond to your comments or inquiries;
+  * To provide you with user support;
+  * To track and measure advertising on the Website;
+  * To protect, investigate, and deter against unauthorized or illegal activity.
 
 
 
-### Information Collection, Use, and Sharing
+## THIRD-PARTY USE OF PERSONAL INFORMATION
 
-We (conversationstartersworld.com) only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
+We may share your information with third parties when you explicitly authorize us to share your information.
 
-We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order.
+Additionally, the Website may use third-party service providers to service various aspects of the Website. Each third-party service provider’s use of your personal information is dictated by their respective privacy policies.
 
-Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
+The Website currently uses the following third-party service providers:
 
-### Your Access to and Control Over Information
+Google Analytics – this service tracks Website usage and provides information such as referring websites and user actions on the Website. Google Analytics may capture your IP address, but no other personal information is captured by Google Analytics.
 
-You may opt out of any future contacts from us at any time, you can opt out by clicking the opt out button in the email or emailing us directly. You can do the following at any time by contacting us via cbdaniels@conversationstartersworld.com:
+Mail Chimp – this service is used for delivery of email updates and newsletters. We store your name and email address for purposes of delivering such communications.  Please refer to Mail Chimp’s privacy policy for further information.
 
-  * See what data we have about you, if any.
-  * Change/correct any data we have about you.
-  * Have us delete any data we have about you.
-  * Express any concern you have about our use of your data.
+One Signal – this service is used to send you push notifications through your web browser, should you choose.  Please refer to One Signal’s privacy policy for further information.
 
+At this time, your personal information is not shared with any other third-party applications. This list may be amended from time to time in the Website’s sole discretion.
 
+Except when required by law, we will not sell, distribute, or reveal your email addresses or other personal information without your consent; however, we may disclose or transfer personal information collected through the Website to third parties who acquire all or a portion of our business, which may be the result of a merger, consolidation, or purchase of all or a portion of our assets, or in connection with any bankruptcy or reorganization proceeding brought by or against us.
 
-### Security
+## ANONYMOUS DATA
 
-Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for “https” at the beginning of the address of the web page.
+From time to time, we may use anonymous data, which does not identify you alone, or when combined with data from other parties. This type of anonymous data may be provided to other parties for marketing, advertising, or other uses. Examples of this anonymous data may include analytics or information collected from cookies.
 
-We use third party companies to handle credit card transactions and hold email addresses of users who submit their email addresses. The companies use encryption to protect sensitive information transmitted online. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which store personally identifiable information is stored is kept in a secure environment.
+## PUBLICLY VISIBLE INFORMATION
 
-### Updates
+If you create a user profile on the Website or leave a comment, certain information may be publicly visible.  To create a user profile, you must choose a username and password and input your email address for profile confirmation.  Your email address will never be available publicly.  At your option, you may also add an avatar, a profile description, and a link to your website.
 
-Our Privacy Policy may change from time to time and all updates will be posted on this page.
+You may also choose to link your Facebook, Instagram, and Google Account.
 
-If you feel that we are not abiding by this privacy policy, you should contact us immediately via email.
+Users may see your username, avatar, profile description and website information.
 
-### Cookies
+## COOKIES
 
-We use “cookies” on this site. A cookie is a piece of data stored on a site visitor’s hard drive to help us improve your access to our site and identify repeat visitors to our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Usage of a cookie is in no way linked to any personally identifiable information on our site.
+The Website uses cookies to store visitors’ preferences, record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads, customize Website content based on visitors’ browser type or other information that the visitor sends. Cookies may also be used by third-party services, such as Google Analytics, as described herein.
 
-Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
+Users may, at any time, prevent the setting of cookies, by the Website, by using a corresponding setting of your internet browser and may thus permanently deny the setting of cookies. Furthermore, already set cookies may be deleted at any time via an Internet browser or other software programs. This is possible in all popular Internet browsers. However, if users deactivate the setting of cookies in your Internet browser, not all functions of our Website may be entirely usable.
 
-Third party vendors, including Google and Amazon, use cookies to serve ads based on a user’s prior visits to our website.
+## ADVERTISING
 
-Google’s use of the DoubleClick cookie enables it and its partners to serve ads to users based on their visit to our site and/or other sites on the Internet.
+**Display Ads**
 
-Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). (Alternatively, users can opt out of a third-party vendor’s use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).)
+We may use third-party advertising companies to serve content and advertisements when you visit the Website, which may use cookies, as noted above.
 
-We also use the Amazon Associates program on the site. Some links may be affiliate links. These links have no effect on the price you pay when you purchase a product after following the link. Although they do utilize a cookie for a limited period of time and we do receive a percentage of the purchase price from Amazon products when purchased the affiliate link.
+**Retargeting  Ads**
 
-We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com. Learn more by going to [Associates Program Operating Agreement](https://affiliate-program.amazon.com/gp/associates/agreement/).
+From time to time, the Website may engage in remarketing efforts with third-party companies, such as Google, Facebook, or Instagram, in order to market the Website. These companies use cookies to serve ads based on someone’s past visits to the Website.
 
-### Analytics
+**Affiliate Program Participation**
 
-We use Google Analytics reports to better understand visitor behavior to better serve the needs of our visitors. We have implemented Google Analytics Demographics and Interest Reporting. This uses data from Google’s Interest-based advertising and 3rd-party audience data (such as age, gender, and interests) to provide demographic and interest information to Google Analytics. We use this data to better understand it’s audience and to improve product development. We will not facilitate the merging of personally-identifiable information with non-personally identifiable information previously collected from Display Advertising features that is based on the DoubleClick cookie unless we have robust notice of, and the user’s prior affirmative (i.e., opt-in) consent to, that merger. Using the [Ads Settings](https://www.google.com/settings/ads), visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads.
+The Website may engage in affiliate marketing, which is done by embedding tracking links into the Website. If you click on a link for an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions.
 
-Google also has a browser addon to opt-out of Google Analytics which can be found [here](https://tools.google.com/dlpage/gaoptout/).
+Conversation Starters World is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com.  As part of this Amazon Associates program, the Website will post customized links, provided by Amazon, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales.
 
-### Sharing
+**Newsletters**
 
-We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes beyond filling your order.
+On the Website, you may subscribe to our newsletter, which may be used for advertising purposes. All newsletters sent may contain tracking pixels. The pixel is embedded in emails and allows an analysis of the success of online marketing campaigns. Because of these tracking pixels, we may see if and when you open an email and which links within the email you click. Also, this allows the Website to adapt the content of future newsletters to the interests of the user. This behavior will not be passed on to third parties.
 
-We partner with another party to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services.
+## RIGHTS RELATED TO YOUR PERSONAL INFORMATION
 
-### Links
+Opt-out – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us at cbdaniels@conversationstartersworld.com to be removed from our mailing list.
 
-This web site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
+Access – You may access the personal information we have about you by submitting a request to cbdaniels@conversationstartersworld.com.
+
+Amend – You may contact us at cbdaniels@conversationstartersworld.com to amend or update your personal information.
+
+Forget – In certain situations, you may request that we erase or forget your personal data. To do so, please submit a request to cbdaniels@conversationstartersworld.com.
+
+Please note that we may need to retain certain information for record keeping purposes or to complete transactions, or when required by law.
+
+## SENSITIVE PERSONAL INFORMATION
+
+At no time should you submit sensitive personal information to the Website. This includes your social security number, information regarding race or ethnic origin, political opinions, religious beliefs, health information, criminal background, or trade union memberships. If you elect to submit such information to us, it will be subject to this Privacy Policy.
+
+## CHILDREN’S INFORMATION
+
+The Website does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, please contact us immediately at cbdaniels@conversationstartersworld.com and we will use our best efforts to promptly remove such information from our records.
+
+## CONTACT INFORMATION
+
+At any time, please contact us at cbdaniels@conversationstartersworld.com for questions related to this Privacy Policy.
+
+Last updated: May 5, 2018.
