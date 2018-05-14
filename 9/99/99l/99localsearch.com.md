@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 99localsearch.com privacy policy that was archived on 2017-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170731085112id_/http%3A//www.99localsearch.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 99localsearch.com privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514110855id_/http%3A//www.99localsearch.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # 99LocalSearch - Privacy Policy
 
@@ -61,4 +61,4 @@ Users of this Site may contact 99localsearch to modify or correct any of their p
 
 #### Contact Us
 
-If you have any questions about this Privacy Statement, our privacy practices in connection with this Site, or our collection, use, disclosure, or retention of your personal information in connection with this Site, please contact us at [info@99localsearch.com](mailto:info@99localsearch.com)
+If you have any questions about this Privacy Statement, our privacy practices in connection with this Site, or our collection, use, disclosure, or retention of your personal information in connection with this Site, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#660f080009265f5f0a0905070a15030714050e4805090b)
