@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the website-value-calculator.net privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114095400id_/http%3A//website-value-calculator.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the website-value-calculator.net privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515000354id_/http%3A//www.website-value-calculator.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Website Value Calculator Privacy Policy
 
