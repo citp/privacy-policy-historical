@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplify360.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112202533id_/http%3A//simplify360.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplify360.com privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514111108id_/http%3A//www.simplify360.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Simplify360 | Privacy Policy
 
@@ -140,3 +140,5 @@ You may have the legal right, upon written request, to access Social Media Conte
 To make a request, please send a letter, email, or fax addressed to our Simplify360 Privacy Office at the address indicated below. For all such requests, please include the following information: name, contact information, and the nature of the request (such as view information and/or delete information). We may require that you provide additional information to assist us in finding your Social Media Content or to verify your identify.
 
 If you are a Web site operator and would like to request us to cease crawling the public portions of your web site, you may also contact us using the information below.
+
+**Contact Us at contact@simplify360.com**
