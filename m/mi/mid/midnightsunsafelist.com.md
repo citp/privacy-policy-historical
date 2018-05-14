@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midnightsunsafelist.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110030637id_/http%3A//midnightsunsafelist.com/legal.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midnightsunsafelist.com privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514023723id_/http%3A//midnightsunsafelist.com/legal.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
 
 # .MidnightSunSafelist.com
 
@@ -80,7 +80,7 @@ Effective Date: 11/18/2016
 
 Contact Information:  
 Dave Mosher  
-4750 Bryant Irvin Rd. #808-172, Fort Worth, TX 76132  
+1220G Airport Fwy #492, Bedford, TX 76022  
 Email davemoshershelpdesk@gmail.com  
 Payza Email payza@midnightsunsafelist.com  
 Support: http://www.totaladexplosion.com/support/index.php  
