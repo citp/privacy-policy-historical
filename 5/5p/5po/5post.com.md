@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 5post.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109183730id_/http%3A//www.bimmerpost.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5post.com privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514043932id_/http%3A//www.bimmerpost.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,6 +6,8 @@ BIMMERPOST Privacy Notice
 Last Updated: September 1, 2010 
 
 BIMMERPOST knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. **By visiting BIMMERPOST, you are accepting the practices described in this Privacy Notice.**
+
+The term BIMMERPOST refers to BIMMERPOST.com and all related domains referred to as "The Site" in our [Terms of Service](https://web.archive.org/tos.php). 
 
 **What Personal Information About Users Does BIMMERPOST Store?**
 
@@ -47,4 +49,4 @@ You can add or update certain information, such as your e-mail address, by using
 BIMMERPOST is not intended for use by children under the legal driving age in your state or country of residence. If you are under this age, you may not submit information about yourself to BIMMERPOST. 
 
 **Conditions of Use, Notices, and Revisions**   
-If you choose to visit BIMMERPOST, your visit and any dispute over privacy is subject to this Notice and our [Terms of Services](http://www.bimmerpost.com/tos.php), including limitations on damages, resolution of disputes, and application of the law of the state of New York. If you have any concern about privacy at BIMMERPOST, please send us a thorough description via our Contact Us button at the bottom of our forums pages, and we will try to resolve it. Our business changes constantly. This Notice and the Terms of Service will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
+If you choose to visit BIMMERPOST, your visit and any dispute over privacy is subject to this Notice and our [Terms of Services](https://web.archive.org/tos.php), including limitations on damages, resolution of disputes, and application of the law of the state of New York. If you have any concern about privacy at BIMMERPOST, please send us a thorough description via our Contact Us button at the bottom of our forums pages, and we will try to resolve it. Our business changes constantly. This Notice and the Terms of Service will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
