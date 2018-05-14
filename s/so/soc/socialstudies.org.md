@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialstudies.org privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914011234id_/https%3A//www.socialstudies.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialstudies.org privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514092135id_/https%3A//www.socialstudies.org/privacy) for the most accurate reproduction.*
 
 # NCSS Privacy Policy | National Council for the Social Studies
 
