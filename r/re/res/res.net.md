@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the res.net privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114083121id_/http%3A//www.res.net/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the res.net privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515000009id_/http%3A//www.res.net/privacy-statement) for the most accurate reproduction.*
 
 # RESNET - Built for Today, Ready for Tomorrow - Privacy Statement
 
