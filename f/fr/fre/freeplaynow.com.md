@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeplaynow.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123033526id_/http%3A//www.freeplaynow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeplaynow.com privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514061721id_/http%3A//freeplaynow.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,7 +11,7 @@ Like many other Web sites, FreePlayNow makes use of log files. The information i
 FreePlayNow use cookies to give you the best experience on our website. 
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include  
-CPMStar.com and GTBurst.com 
+CPMStar.com and GTBurst.com
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on FreePlayNow send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
