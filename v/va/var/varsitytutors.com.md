@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the varsitytutors.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117082247id_/https%3A//www.varsitytutors.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the varsitytutors.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515004942id_/https%3A//www.varsitytutors.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -115,6 +115,6 @@ If you have any questions or comments about this Privacy Policy, you may contact
 Varsity Tutors   
 101 S. Hanley Rd, Suite 300   
 St. Louis, MO 63105   
-[314-449-8683](tel:+1-314-449-8683)
+[314-422-2007](tel:+1-314-422-2007)
 
 Email: privacy [at] varsitytutors.com 
