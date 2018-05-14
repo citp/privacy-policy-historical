@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mentoringformarketers.com privacy policy that was archived on 2017-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171016125235id_/http%3A//mentoringformarketers.com/privacy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mentoringformarketers.com privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514135838id_/http%3A//mentoringformarketers.com/privacy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Privacy Policy
 
