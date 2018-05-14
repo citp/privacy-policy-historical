@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angelawhite.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109175603id_/http%3A//angelawhite.com/public/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angelawhite.com privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514031929id_/http%3A//angelawhite.com/public/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Official Website of Busty Australian Porn Star Angela White
 
