@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanartreview.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110160514id_/http%3A//fanartreview.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanartreview.com privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514155403id_/http%3A//www.fanartreview.com/privacy.jsp) for the most accurate reproduction.*
 
 # 
 
@@ -58,4 +58,4 @@ To protect your privacy and security, we will take reasonable steps to help veri
 
 ###  How to Contact Us 
 
-If you have any questions or concerns about the online policy for this site or its implementation you may contact us at [here](https://web.archive.org/web/20171110160514id_/http%3A//fanartreview.com/formcontactfanstory.jsp). 
+If you have any questions or concerns about the online policy for this site or its implementation you may contact us at [here](https://web.archive.org/web/20180514155403id_/http%3A//www.fanartreview.com/formcontactfanstory.jsp). 
