@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesop.org privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114125857id_/http%3A//thesop.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesop.org privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515012529id_/http%3A//thesop.org/privacy_policy.html) for the most accurate reproduction.*
 
 # theSOP Privacy Policy
 
@@ -10,7 +10,7 @@ Like most websites, we use cookies and/or web beacons to enhance your experience
 
 Any of the information we collect from you may be used in one of the following ways: 
 
-� To improve our website  
+• To improve our website  
 (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
  **Do we use cookies?**
