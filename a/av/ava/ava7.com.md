@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ava7.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112042716id_/http%3A//ava7.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ava7.com privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514073602id_/http%3A//ava7.com/privacy.php) for the most accurate reproduction.*
 
 # ava7.com Privacy Policy
 
