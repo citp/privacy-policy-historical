@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livewebmarks.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110160706id_/http%3A//www.livewebmarks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livewebmarks.com privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514023102id_/http%3A//www.livewebmarks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy › LiveWebmarks.com : Best Social Bookmarking Service On The Web | User Driven Internet Marketing Bookmarklet Community | Easily Store, Organize, Import & Export Your Bookmarks
 
