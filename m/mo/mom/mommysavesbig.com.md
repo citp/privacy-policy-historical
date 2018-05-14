@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mommysavesbig.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112183341id_/http%3A//www.mommysavesbig.com/printable-coupons/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mommysavesbig.com privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514101341id_/http%3A//www.mommysavesbig.com/printable-coupons/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Printable Coupons In Store & Coupon Codes
+# Privacy Policy - Printable Coupons In Store (Retail & Grocery)
 
 This Privacy Policy governs the manner in which Mommy Saves Big collects, uses, maintains and [http://mommysavesbig.com/](http://www.mommysavesbig.com/) website (“Site”). discloses information collected from users (each, a “User”) of the
 
