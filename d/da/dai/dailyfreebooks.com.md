@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyfreebooks.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112181353id_/http%3A//www.dailyfreebooks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyfreebooks.com privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514100031id_/http%3A//www.dailyfreebooks.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
