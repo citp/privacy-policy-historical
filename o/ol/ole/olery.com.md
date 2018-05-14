@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the olery.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110024932id_/http%3A//www.olery.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olery.com privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514020327id_/http%3A//www.olery.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Olery
 
 We attach great importance to protecting the privacy of visitors to our Website and of our customers. In our processing of any personal data, we therefore exercise due care and fully comply with the requirements of the Personal Data Protection Act (Wet Bescherming Persoonsgegevens, Wbp). European data protection legislation, such as the Dutch Wbp, is among the strictest and most privacy-friendly in the world.
 
-US citizens may be familiar with the [Safe Harbour Framework](https://www.export.gov/safeharbor/ "Safe Harbour Framework") and private-sector privacy certification services such as the TRUSTe seal; the European privacy rules which we are bound by, provide even stronger privacy protection in that they are not just voluntary and enforced by a commercial company on their clients, but mandated by law and enforced by an official, governmental Data Protection Authority (DPA; college bescherming persoonsgegevens, Cbp).
+US citizens may be familiar with the [Safe Harbour Framework](https://www.export.gov/safeharbor/) and private-sector privacy certification services such as the TRUSTe seal; the European privacy rules which we are bound by, provide even stronger privacy protection in that they are not just voluntary and enforced by a commercial company on their clients, but mandated by law and enforced by an official, governmental Data Protection Authority (Autoriteitpersoonsgegevens).
 
-This privacy statement tells you how we collect, use, and protect your personal information. Definitions of the terms indicated with a capitalized first letter are included in the [Terms of Service](http://www.olery.com/terms "Terms of Service").
+This privacy statement tells you how we collect, use, and protect your personal information. Definitions of the terms indicated with a capitalized first letter are included in the [Terms of Service](http://www.olery.com/terms).
 
 ## 1\. Recording and processing data
 
@@ -22,9 +22,10 @@ Passive data provision involves information that is automatically stored when yo
 
 We currently do not yet provide any of your personal data to third parties, but in the future the following third party companies or legal entities may receive the following of your personal information through us:
 
-• Our (future) payment service provider – payment details to enable you to pay for the Services;
+  * Our (future) payment service provider – payment details to enable you to pay for the Services;
+  * The Vrije Universiteit – usage data to improve the software;
 
-• The Vrije Universiteit – usage data to improve the software;
+
 
 We will make sure that these third parties may not use your personal data for any other, unauthorized, purposes. Wherever possible, we will not disclose your information to any other parties than the above-mentioned without your prior consent.
 
@@ -46,29 +47,24 @@ In order to use the Website interactively, registration is required. During regi
 
 For the initial registration (trial period)
 
-• First name
+  * First name
+  * Last name
+  * Company name
+  * E-mail address
+  * Telephone number
 
-• Last name
 
-• Company name
-
-• E-mail address
-
-• Telephone number
 
 For paid Services
 
-• First name
+  * First name
+  * Last name
+  * Company name
+  * E-mail address
+  * Address/City
+  * Telephone number
 
-• Last name
 
-• Company name
-
-• E-mail address
-
-• Address/City
-
-• Telephone number
 
 Purposes
 
@@ -82,9 +78,10 @@ Storage time
 
 Insofar as there are no applicable legislative requirements stipulating a different storage time, the actively provided personal data, including the Account, are saved for a period of:
 
-a) one month after termination of the trial period; or
+  1. a) one month after termination of the trial period; or
+  2. b) two months after termination of an Agreement for paid Services.
 
-b) two months after termination of an Agreement for paid Services.
+
 
 In derogation of the above, the email address will be stored for purposes of notification (such as newsletters and related promotional communications) until you instruct us, in accordance with the instructions contained in the notification or on the Website, that you no longer wish to receive such messages.
 
@@ -92,15 +89,13 @@ In derogation of the above, the email address will be stored for purposes of not
 
 When visiting the Website, the following details are automatically processed:
 
-• IP address
+  * IP address
+  * Country/Place of origin (based on the IP address)
+  * Browser type
+  * Operating system
+  * Origin of the visit (you have entered the url of the Website, or have accessed the Website via a search engine query or a link from another website.)
 
-• Country/Place of origin (based on the IP address)
 
-• Browser type
-
-• Operating system
-
-• Origin of the visit (you have entered the url of the Website, or have accessed the Website via a search engine query or a link from another website.)
 
 Purposes
 
@@ -116,14 +111,32 @@ Storage time
 
 We store passively provided data no longer than is necessary for the purposes for which they were collected.
 
-## 6\. Third-party websites
+## 8. Recording and processing of survey data
+
+In case you have visited a business which is using Olery products and you were invited to fill out a survey the following privacy provisions apply:
+
+Surveys are not anonymous unless otherwise indicated.
+
+By consenting to this privacy statement and filling out the online survey you grant Olery and the organisation inviting you to fill out the survey the rights to store, process and analyze your response in order to improve services. This might include transfering responses to third party software.
+
+The organisation inviting you to the survey might choose to attach certain attributes to your invitation (e.g. room number). It is in the organisations discretion to select, provide and obtain consent for such data. If you disagree with the processing of this data, you need to contact the organisation that invited you to enter the survey.
+
+Within the survey you might be asked to consent to publishing your response as review on a partner website. If you are consenting, then the partner’s privacy policy as well as terms of service will also apply. Olery will then transfer your responses and in some cases basic personal details to the partner in order for the review to be authenticated and published.
+
+Unless consent is obtained, your response will not be published publicly.
+
+See item 9 if you want to view, amend or delete data provided or stored within the context of a survey.
+
+## 7\. Third-party websites
 
 This statement does not apply to third parties’ websites that are linked to this website via links. We cannot guarantee that these third parties will handle your personal data in a safe and secure way. We advise you to read these websites’ privacy statements before using their websites.
 
-## 7\. Changes to the policy statement
+## 8\. Changes to the policy statement
 
 We retain the right to amend this statement. We recommend that you regularly access this policy statement in order to familiarize yourself with any changes to it.
 
-## 8\. Viewing and amending your personal data
+## 9\. Viewing and amending your personal data
 
 If you have any questions about our privacy policy or about viewing, amending or deleting your personal data, you can contact us via e-mail at: [info@olery.com](mailto:info@olery.com).
+
+The above statement is compliant with the General Data Protection Regulation.
