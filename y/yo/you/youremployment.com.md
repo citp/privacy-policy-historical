@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youremployment.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112093944id_/http%3A//www.youremployment.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youremployment.com privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514033833id_/http%3A//www.youremployment.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | YourEmployment.com
 
@@ -35,23 +35,20 @@ We are committed to providing valuable and efficient Services. Part of that comm
   5. We collect Information about you to (a) provide products, programs, and services that you have requested; (b) operate and improve the features, offerings and content presented to you by Us and Our affiliated companies, successors, and assigns; (c) personalize the content and advertisements provided to you; (d) communicate with you and respond to your inquiries; (e) conduct research about your use of the features, offerings and content from Us, Our parent or sister companies and partners; (f) provide product improvement; (g) "pre-populate" forms; and (h) help offer you other products, programs, or services that may be of interest to you.
   6. We also reserve the right to collect and re-use Information about you for marketing purposes.
   7. We reserve the right to collect Information about you and store it in connection with other online or offline information We may possess or obtain about you. Such information may include, without limitation, information about the different sites that you visit on the Internet, the time and frequency at which you visit them, and the content that you transmit or post on other Websites.
-  8. By registering on YourEmployment, you agree that this act constitutes an inquiry and/or application for purposes of telemarketing laws, and notwithstanding that your telephone and/or cell number may be listed with the federal Do-Not-Call Registry you expressly opt-in to: (a) receive an offer or service from one or more of our partners or affiliates; (b) receive future information about products and services from us, our partners, affiliates and other third parties to whom we may provide your information; (c) permit us, our partners, affiliates and other third parties to contact you pursuant to the business relationship we have established using the information you provided to us for any purpose such as contacting you by e-mail address, phone and/or mobile phone number (including use of automated dialing equipment), text (SMS) message or any means of communication for any purpose that, among other things, your wireless device may be capable of receiving (e.g. mms, video etc.). These partners include Employment Services, Youremployment, Academic Advising  
-, College Achieve and/or preferred 3rd party partners to discuss job openings, career alerts, legal services, educational opportunities, and online protection.
-  9. Your email will only be shared with our mailing partner for the purposes of sending 3rd party promotional email communication.
+  8. By registering on YourEmployment, you agree that this act constitutes an inquiry and/or application for purposes of telemarketing laws, and notwithstanding that your telephone and/or cell number may be listed with the federal Do-Not-Call Registry you expressly opt-in to: (a) receive an offer or service from one or more of our partners or affiliates; (b) receive future information about products and services from us, our partners, affiliates and other third parties to whom we may provide your information; (c) permit us, our partners, affiliates and other third parties to contact you pursuant to the business relationship we have established using the information you provided to us for any purpose such as contacting you by e-mail address, phone and/or mobile phone number (including use of automated dialing equipment), text (SMS) message or any means of communication for any purpose that, among other things, your wireless device may be capable of receiving (e.g. mms, video etc.). These partners include Employment Services, YourEmployment, Academic Advising, College Achieve and/or preferred 3rd party partners to discuss job openings, career alerts, legal services, educational opportunities, and online protection.
 
 
 
 ## WHO MAY OUR COLLECTED INFORMATION BE SHARED WITH?
 
-We may in our sole discretion share Information any and all collected information about you with other people or non-affiliated companies or for particular purposes including, without limitation, the purposes described below. In all cases, you may opt-out of sharing your information by choosing not to use or register for any services or products on Our Website.
+In all cases, you may opt-out of sharing your information by choosing not to use or register for any services or products on Our Website.
 
-  1. **YE Products or Services  **\- If you submit a request for a product or service on Our Website, We reserve the right to share Information collected about you contained in the request form or as otherwise described above as we desire in compliance with this Privacy Policy.
+  1. **YE Products or Services  **\- If you submit a request for a product or service on Our Website
   2. **YE Partners or Service Providers  **\- We may disclose Information about you to companies that host certain services for Us, such as marketing distribution or credit card processing services. Our service providers use the Information received from Us solely for the purposes of providing you with the products you requested.
   3. **YE Promotional Offerings:  **From time to time, We may run promotions and such promotions may be sponsored or co-sponsored by third-party companies. Information about you collected during a promotion is shared with the sponsor or co-sponsor unless you opt-out of sharing Information with such parties.
-  4. **THE YE GROUP:  **Parent, or Sister Companies: We reserve the right to share Information about you with Our subsidiaries, sister companies, parent company, successors, and assigns.
+  4. **THE YE GROUP:  **Parent, or Sister Companies.
   5. **Non-Affiliated Companies:**  We do not share Information with any non-affiliated third party except: (1) in select circumstances when Our business partner refers you to Us and you give Us permission to share specific Information, such as your name and e-mail address, with such business partner on your order form, or (2) when Our business partner provides a product or service that We feel may be of interest to you.
   6. **Required by Law:**  We may also share Information about you as permitted or required by law including, without limitation, inquires by law enforcement or to comply with Federal laws including, without limitation, the Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003 ("CAN-SPAM Act of 2003").
-  7. Your email will only be shared with our mailing partner for the purposes of sending 3rd party promotional email communication. 
 
 
 
@@ -69,7 +66,7 @@ You have choices when it comes to the use of Our Website its Services and learni
 The National Advertising Initiative (NAI) has developed an opt-out tool with the express purpose of allowing consumers to "opt-out" of the targeted advertising delivered by its member networks. You can visit the NAI opt-out page and opt-out of this cookie tracking. Please visit: <http://www.networkadvertising.org/optout_nonppii.asp>. 
 
   3. **Other Options:**  If you would like to opt-out of Our promotional marketing, and would like to contact Us, please send Us an e-mail at [privacy@youremployment.com](mailto:privacy@youremployment.com)
-  4. I acknowledge that by providing my phone number and selecting yes on the offers within youremployment websites, I may be contacted by YourEmployment, Education Advisors, VacationSellout, and/or preferred 3rd party partners via email, telephone, and/or text to the number provided using automated technology. I understand that consent is not a condition of purchase.
+  4. I acknowledge that by providing my phone number and selecting yes on the offers within YourEmployment websites, I may be contacted by YourEmployment, Education Advisors, VacationSellout, and/or preferred 3rd party partners via email, telephone, and/or text to the number provided using automated technology. I understand that consent is not a condition of purchase.
 
 
 
@@ -109,4 +106,4 @@ If any term of these policies is determined to be unlawful, invalid, void or for
 
 ## CONTACTING US:
 
-If you have questions regarding our Privacy Policy please contact us at: [privacy@youremployment.com](mailto:privacy@youremployment.com). If you have General Questions please contact us at: [customerservice@youremployment.com](mailto:customerservice@youremployment.com).
+If you have questions regarding our Privacy Policy please contact us at: [privacy@youremployment.com](mailto:privacy@youremployment.com). If you have General Questions please contact us at: [customerservice@YourEmployment.com](mailto:customerservice@youremployment.com).
