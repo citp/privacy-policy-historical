@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the financialwatchngr.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915182918id_/https%3A//www.financialwatchngr.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialwatchngr.com privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514235838id_/https%3A//www.financialwatchngr.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy | FINANCIAL WATCH - Business News in Nigeria
+# Privacy Policy | Financial Watch
 
 We take your privacy seriously. This privacy policy describes what personal information we collect and how we use it on **FINANCIAL WATCH** [financialwatchngr.com]
 
@@ -30,6 +30,6 @@ Concerns or questions about this privacy policy can be directed to admin financi
 
 2) Our Members have been informed that they need to keep their words clean if the Website is to survive.
 
-3) A privacy policy has been drafted for **FINANCIAL WATCH**. See [http://www. financialwatchngr.com /privacy-policy-2/](https://www.financialwatchngr.com/privacy-policy-2/)
+3) A privacy policy has been drafted for **FINANCIAL WATCH**. See [http://www. financialwatchngr.com /privacy-policy-2/](http://www.financialwatchngr.com/privacy-policy-2/)
 
 We are ready to do whatever may be additionally required to make my site fully complaint with your policies.
