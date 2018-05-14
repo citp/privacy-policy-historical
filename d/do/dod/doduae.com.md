@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the doduae.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206144635id_/http%3A//doduae.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doduae.com privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514142641id_/http%3A//doduae.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DODuae.com
 
 **LAST UPDATED: 31/10/2017**
 
- **DODuae.com**  is committed to protecting your privacy. We hope that you will take the time to read this privacy policy, which explains what information we collect from you and how we use that information. By using **Doduae.com** (including its subdomains) or by purchasing products or services from us, you agree to be bound by this privacy policy. Please check back frequently, as this privacy policy may change from time to time.
+ **DODuae.com**  is committed to protecting your privacy. We hope that you will take the time to read this privacy policy, which explains what information we collect from you and how we use that information. By using **DODuae.com** (including its subdomains) or by purchasing products or services from us, you agree to be bound by this privacy policy. Please check back frequently, as this privacy policy may change from time to time.
 
  **✿ WHAT INFORMATION DO WE COLLECT?**
 
@@ -50,17 +50,17 @@ We use your information to offer and provide our products and services and to su
 
 ✦ When you place orders or access your account information, a secure server is employed. All information you input is encrypted by the secure server layer (SSL) before it is sent to us and all the customer data we collect is similarly protected against unauthorized access.
 
-✦ COM cannot be and is not responsible for unauthorized access to information by hackers or others who have obtained such access through illegal measures.
+✦ DODuae.com cannot be and is not responsible for unauthorized access to information by hackers or others who have obtained such access through illegal measures.
 
-✦ “Phishing” is a scam designed to steal your personal information. If you receive an e-mail that looks like it might be from com asking for your personal information, do not respond. DODuae.com would not request your password, user name, credit card information, or other personal information through e-mail.
+✦ “Phishing” is a scam designed to steal your personal information. If you receive an e-mail that looks like it might be from DODuae.com asking for your personal information, do not respond. DODuae.com would not request your password, user name, credit card information, or other personal information through e-mail.
 
  **✿ HOW WE SHARE YOUR INFORMATION:**
 
-Except as described in this privacy policy, Doduae.com will not share your personal information with third parties unless you have consented to the disclosure or under the following limited circumstances:
+Except as described in this privacy policy, DODuae.com will not share your personal information with third parties unless you have consented to the disclosure or under the following limited circumstances:
 
 ✦ Legal requirements and protection of our company and others.
 
-✦ COM may also share your personal information for the following limited purposes.
+✦ DODuae.com may also share your personal information for the following limited purposes.
 
 ✦ Comply with the law or with legal process, or with requests from law enforcement authorities.
 
@@ -70,9 +70,7 @@ Except as described in this privacy policy, Doduae.com will not share your perso
 
  **✿ BUSINESS TRANSFERS:**
 
-If  **DODuae.com**  is acquired by or merges with another company,  **DODuae.com**  may transfer personal information to that company (including transfers made as part of insolvency or bankruptcy proceedings). In such an event.
-
- **DODuae.com**  will notify you before your personal data is transferred if this information would become subject to a materially different privacy policy.
+If  **DODuae.com**  is acquired by or merges with another company,  **DODuae.com**  may transfer personal information to that company (including transfers made as part of insolvency or bankruptcy proceedings). In such an event,  **DODuae.com**  will notify you before your personal data is transferred, if this information would become subject to a materially different privacy policy.
 
  **✿ SERVICE PROVIDERS:**
 
@@ -90,11 +88,11 @@ We also use cookies for additional purposes, including:
 
 ✦ Identifying you when you sign-in to our site.
 
-✦ Delivering content relevant to your interests, including advertisements on com, sites operated by other companies within our corporate group, and third-party sites.
+✦ Delivering content relevant to your interests, including advertisements on DODuae.com, sites operated by other companies within our corporate group, and third-party sites.
 
 ✦ Keeping track of your specified preferences.
 
-✦ Conducting research and diagnostics to improve com content, products and services.
+✦ Conducting research and diagnostics to improve DODuae.com content, products and services.
 
 ✦ Preventing fraudulent activities and improving security.
 
@@ -120,11 +118,11 @@ When using our website you may have opportunities to post or submit comments, re
 
 You may change your account information on file with **DODuae.com** at any time. To do this, simply visit the **“Account Management”** section of **“My Account.”** From here, choose **“Personal Information,” “Address Book,” and/or “Credit Card Profiles.”** Enter the changes to the information as desired, and then click the appropriate button.
 
-You may also change your billing information on file with Doduae.com at any time. To do this, simply visit the “My Account.” From here, choose “Address Book,” and/or “Credit Card Profiles.” Enter the changes to the information as desired, and then click the appropriate button.
+You may also change your billing information on file with DODuae.com at any time. To do this, simply visit the “My Account.” From here, choose “Address Book,” and/or “Credit Card Profiles.” Enter the changes to the information as desired, and then click the appropriate button.
 
  **✿ MARKETING PREFERENCES**
 
-We may use your information to occasionally notify you about important changes to our website, new Doduae.com features, special Doduae.com offer that you may find useful, or offers from companies with whom we have business relationships. We may also contact you if you have entered one of our contests or sweepstakes, or responded to one of our surveys.
+We may use your information to occasionally notify you about important changes to our website, new DODuae.com features, special DODuae.com offer that you may find useful, or offers from companies with whom we have business relationships. We may also contact you if you have entered one of our contests or sweepstakes, or responded to one of our surveys.
 
 If you would prefer not to receive email newsletters or email notifications from us (other than email notifications relating to order processing), simply visit the “Site Preferences” section of “My Account.” From here, select “newsletter” and indicate the newsletters you wish to unsubscribe from, and then click the “Update” button. Alternatively, you can click the "unsubscribe" link in the footer of our emails to unsubscribe from our newsletters or email notifications.
 
@@ -132,12 +130,12 @@ If you would prefer not to receive email newsletters or email notifications from
 
 At  **DODuae.com** , we believe that the privacy and safety of children are important.
 
-Our website is a general audience site and is not targeted to or intended for use by children. We do not knowingly collect personally identifiable information from children under the age of 18. If we discover that we have inadvertently collected personally identifiable information from children under the age of 18, we will take all reasonable measures to erase such information from our systems and do not use such information for any purpose (except where necessary to protect the safety of the child or others as required or allowed by law). If you become aware of any personally identifiable information we have collected from children under 18, please contact us at [ **[email  protected]**](http://doduae.com/cdn-cgi/l/email-protection#0d7d7f647b6c6e744d696269786c68236e6260)
+Our website is a general audience site and is not targeted to or intended for use by children. We do not knowingly collect personally identifiable information from children under the age of 18. If we discover that we have inadvertently collected personally identifiable information from children under the age of 18, we will take all reasonable measures to erase such information from our systems and do not use such information for any purpose (except where necessary to protect the safety of the child or others as required or allowed by law). If you become aware of any personally identifiable information we have collected from children under 18, please contact us at [ **[email  protected]**](http://doduae.com/cdn-cgi/l/email-protection#7c0c0e150a1d1f053c181318091d19521f1311)
 
  **✿ CHANGES TO THIS PRIVACY POLICY**
 
-Please check back frequently, as this Privacy Policy may change from time to time. The date of the most recent update to the Privacy Policy will be indicated at the top of this page. In the event of a material change to the Privacy Policy, for a reasonable time after such change we will add “Updated,” “New,” or a similar term near the link to the Privacy Policy on the home page of Doduae.com and elsewhere, as applicable, throughout our website.
+Please check back frequently, as this Privacy Policy may change from time to time. The date of the most recent update to the Privacy Policy will be indicated at the top of this page. In the event of a material change to the Privacy Policy, for a reasonable time after such change we will add “Updated,” “New,” or a similar term near the link to the Privacy Policy on the home page of DODuae.com and elsewhere, as applicable, throughout our website.
 
  **✿ HOW TO CONTACT US**
 
-If you have any questions or suggestions, please contact us at  **[[email  protected]](http://doduae.com/cdn-cgi/l/email-protection#2555574c5344465c65414a415044400b464a48).**
+If you have any questions or suggestions, please contact us at  **[[email  protected]](http://doduae.com/cdn-cgi/l/email-protection#ed9d9f849b8c8e94ad898289988c88c38e8280).**
