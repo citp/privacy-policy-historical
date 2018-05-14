@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localbd.com.au privacy policy that was archived on 2016-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160821062008id_/http%3A//www.localbd.com.au/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localbd.com.au privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514154838id_/http%3A//www.localbd.com.au/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Local Business Directory
 
