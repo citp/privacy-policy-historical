@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postimage.io privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701133251id_/https%3A//postimage.io/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postimage.io privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514034028id_/http%3A//postimages.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Postimage.org
 
