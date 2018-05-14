@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infoicontechnologies.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228232301id_/http%3A//www.infoicontechnologies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoicontechnologies.com privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514150913id_/http%3A//www.infoicontechnologies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Infoicon Technologies
 
