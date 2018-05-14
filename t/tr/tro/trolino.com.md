@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trolino.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114115356id_/http%3A//www.trolino.com/contact%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trolino.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515002459id_/http%3A//www.trolino.com/contact%23Privacy) for the most accurate reproduction.*
 
 # 
 
