@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the musixlib.com privacy policy that was archived on 2017-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171201145607id_/http%3A//www.musixlib.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the musixlib.com privacy policy that was archived on 2018-05-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180515213814id_/http%3A//www.musixlib.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html itemscope="" itemtype="http&quot;://schema.org/Article&quot;"><head>
 		<title>MusixLib -  Albums And More</title>
@@ -60,8 +60,8 @@ MusixLib give you better YouTube music experience.
  The extension - Every time you play favorite song on YouTube our extension will notify you about album/playlist information and let you play it for free.">
 		<meta name="twitter:image" content="http://www.musixlib.com/images/logo_fb_share.jpg">
 		<meta name="twitter:url" content="http://www.musixlib.com/privacy.php?lnk=share">
-		<link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/ifhnjalcekbmmeknpgnkpghldbbhanen">
-            <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/gmoebkoglliamijedpdfchnpaeaapifb" ;="">
+
+
 
 
 
@@ -83,7 +83,7 @@ MusixLib give you better YouTube music experience.
 <script src="js/ext.js"></script>
 
 
- 
+<script src="/js/main.js"></script>
  <script>
 
 var baseDataUrl = "/data.php";
@@ -96,7 +96,7 @@ var videosList = new Array();
 var _artist = "";
 var _video = "";
 var isLogin = false;
-var userData ='';
+var userData = "";
 var showLyricsStatus = "";
 var lyricsLoaded = false;
 
@@ -157,13 +157,14 @@ function getURLParameter(name) {
  function numberWithCommas(x) {
     return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
 }
-function searchAlbum(index)
+function searchAlbum(index, byName)
 {
-	var artist = artistsList[index];
+	var name = index;
+    if (artistsList.length && !byName) {
+        name = artistsList[index].name;
+    }
 
-	//location.href="albums.php?name="+artist.name;
-
-	location.href="search.php?name="+artist.name;
+	location.href = "search.php?name=" + name;
 }
 function getUsetId(){
 
@@ -173,6 +174,10 @@ function getUsetId(){
 
 			return $.cookie('userId');
 		}
+}
+
+function escapeParam (param) {
+    return encodeURIComponent($('<div/>').text(param).html());
 }
 
 String.prototype.toHHMMSS = function () {
@@ -283,79 +288,74 @@ function checkExt(){
 }
 function openStore()
 {
-	window.open("https://chrome.google.com/webstore/detail/ifhnjalcekbmmeknpgnkpghldbbhanen");
+	window.open("");
 }
 function saveAlbum(id,name,image,releaseDate,artist,trackCount,artist_avatar)
 {
 	var u = baseDataUrl+"?uid="+getUsetId()+"&t=alu&id="+id+"&name="+encodeURIComponent(name)+"&image="+encodeURIComponent(image)+"&releaseDate="+releaseDate+"&artist="+encodeURIComponent(artist)+"&trackCount="+trackCount+ "&artist_avatar=" + artist_avatar;
-	console.log(u);
 
+    $('.album-save').css('visibility', 'hidden');
+    $('#saveAlbum').css('visibility', 'hidden');
+    ohSnap('Saving...', 'green');
 
-	 $.ajax({
-  type: "GET",
-  url: u,
-  dataType: "text",
-  xhrFields: {
-      withCredentials: true
-   },
-  error: function(jqXHR,textStatus,errorThrown) {
-	 ohSnap('Error saving album', 'orange');
-  },
-  success: function(data) {
-	if(data.indexOf("err_") > -1)
-  	{
-		ohSnap(data.replace("err_",""), 'orange');
-		if(data.indexOf("authorized") > -1)
-		{
-			needLoginPop();
-		}
-
-	}else{
-		userData +=","+id;
-		ohSnap('Saved successfully', 'green');
-	}
-  }
-});
-
-
+    return $.ajax({
+        type: "GET",
+        url: u,
+        dataType: "text",
+        xhrFields: {
+            withCredentials: true
+        },
+        error: function(jqXHR,textStatus,errorThrown) {
+            ohSnap('Error saving album', 'orange');
+        },
+        success: function(data) {
+            if(data.indexOf("err_") > -1) {
+                ohSnap(data.replace("err_",""), 'orange');
+                if(data.indexOf("authorized") > -1) {
+                    needLoginPop();
+                }
+            } else {
+                userData +=","+id;
+                ohSnap('Saved successfully', 'green');
+            }
+        }
+    }).always(function () {
+        $('.album-save').css('visibility', 'visible');
+        $('#saveAlbum').css('visibility', 'visible');
+    });
 }
 
 function saveArtist(id,artist,image)
 {
 	var u = baseDataUrl+"?uid="+getUsetId()+"&t=aru&image="+encodeURIComponent(image)+"&artist="+encodeURIComponent(artist);
-	console.log(u);
 
-	$.ajax({
-  type: "GET",
-  url: u,
-  dataType: "text",
-  xhrFields: {
-      withCredentials: true
-   },
-  error: function(jqXHR,textStatus,errorThrown) {
+    $('.artist-save').css('visibility', 'hidden');
+    ohSnap('Saving...', 'green');
 
-			ohSnap('Error saving artist', 'orange');
-   },
-  success: function(data) {
-	  if(data.indexOf("err_") > -1)
-  	{
-		ohSnap(data.replace("err_",""), 'orange');
-	if(data.indexOf("authorized") > -1)
-		{
-			needLoginPop();
-		}
-	}else{
-		 userData +=","+encodeURIComponent(artist);
-		ohSnap('Saved successfully', 'green');
-
-	}
-  }
-});
-
-
-
-
-
+    return $.ajax({
+        type: "GET",
+        url: u,
+        dataType: "text",
+        xhrFields: {
+            withCredentials: true
+        },
+        error: function(jqXHR,textStatus,errorThrown) {
+            ohSnap('Error saving artist', 'orange');
+        },
+        success: function(data) {
+            if(data.indexOf("err_") > -1) {
+                ohSnap(data.replace("err_",""), 'orange');
+                if(data.indexOf("authorized") > -1) {
+                    needLoginPop();
+                }
+            } else {
+                userData +=","+encodeURIComponent(artist);
+                ohSnap('Saved successfully', 'green');
+            }
+        }
+    }).always(function () {
+        $('.artist-save').css('visibility', 'visible');
+    });
 }
 function playVideo(index)
 {
@@ -368,17 +368,15 @@ function playVideo(index)
 function playAlbum(index)
 {
     	var album = albumsList[index];
-	try{
-		if(album.tag){
+	try {
+		if (album.tag){
 			ga('send', 'event', 'Tests', album.tag, 'Click');
 		}
-	}catch (e){}
-	if(album.type != "it") {
-        var query = "a=" + album.artist + "&at=" + album.name;
-    } else {
-	    var query = "it=" + album.id;
-    }
-    var counter = 6;
+	} catch (e){}
+
+    var query = "a=" + album.artist + "&at=" + album.name;
+
+    var counter = 0;
     var show_each = 9;
    /* if ( counter > show_each ) {
         $.ajax("/update_counter.php", {
@@ -397,118 +395,71 @@ function playAlbum(index)
 function removeAlbum(albumId,divClassId)
 {
 	var u = baseDataUrl+"?uid="+getUsetId()+"&t=alr&id="+albumId;
-	console.log(u);
-  
-   
-   $.ajax({
-  type: "GET",
-  url: u,
-  dataType: "text",
-  xhrFields: {
-      withCredentials: true
-   },
-  error: function(jqXHR,textStatus,errorThrown) {
-			ohSnap('Error removing album, try again later', 'orange');
-  },
-  success: function(data) {
-	  	userData = userData.replace(albumId,'');
 
-	 $("."+divClassId).fadeOut(300, function() { $(this).remove(); });
-	 ohSnap('Removed successfully', 'green');
+    $('.album-save').css('visibility', 'hidden');
+    $('.remove-album').css('visibility', 'hidden');
+    $('#saveAlbum').css('visibility', 'hidden');
+    ohSnap('Removing...', 'green');
 
-  }
-});
- 
+	return $.ajax({
+        type: "GET",
+        url: u,
+        dataType: "text",
+        xhrFields: {
+            withCredentials: true
+        },
+        error: function(jqXHR,textStatus,errorThrown) {
+            ohSnap('Error removing album, try again later', 'orange');
+        },
+        success: function(data) {
+            userData = userData.replace(albumId,'');
+
+            $("."+divClassId).fadeOut(300, function() { $(this).remove(); });
+            ohSnap('Removed successfully', 'green');
+        }
+	}).always(function () {
+        $('.album-save').css('visibility', 'visible');
+        $('.remove-album').css('visibility', 'visible');
+        $('#saveAlbum').css('visibility', 'visible');
+    });
 }
 function removeArtist(artistName,divClassId)
 {
-var u = baseDataUrl+"?uid="+getUsetId()+"&t=arr&id="+encodeURIComponent(artistName);
-console.log(u);
-$.ajax({
-  type: "GET",
-  url: u,
-  dataType: "text",
-  xhrFields: {
-      withCredentials: true
-   },
-  error: function(jqXHR,textStatus,errorThrown) { 
-			ohSnap('Error removing artist, try again later', 'orange');
-  },
-  success: function(data) {
-	  	userData = 	userData.replace(encodeURIComponent(artistName),'');
+    var u = baseDataUrl+"?uid="+getUsetId()+"&t=arr&id="+encodeURIComponent(artistName);
 
-     $("."+divClassId).fadeOut(300, function() { $(this).remove(); });
-  	ohSnap('Removed successfully', 'green');
-  }
-});
- 
+    $('.artist-save').css('visibility', 'hidden');
+    $('.remove-artist').css('visibility', 'hidden');
+    ohSnap('Removing...', 'green');
 
+    return $.ajax({
+        type: "GET",
+        url: u,
+        dataType: "text",
+        xhrFields: {
+            withCredentials: true
+        },
+        error: function(jqXHR,textStatus,errorThrown) {
+            ohSnap('Error removing artist, try again later', 'orange');
+        },
+        success: function(data) {
+            userData = 	userData.replace(encodeURIComponent(artistName),'');
+
+            $("."+divClassId).fadeOut(300, function() { $(this).remove(); });
+            ohSnap('Removed successfully', 'green');
+        }
+    }).always(function () {
+        $('.artist-save').css('visibility', 'visible');
+        $('.remove-artist').css('visibility', 'visible');
+    });
 }
 function updateTmbAlbum(album,albumDiv)
 {
-	inLibrary = isInLibrary(album.id);
-	var selectedCss ="imgOpt";
-	 if(inLibrary)
-	{
-			selectedCss = "tmbSelected";
-	}
-	//
-  var rAlbum= $('<img data-save="'+inLibrary+'" data-count="'+album.trackCount+'" data-name="'+album.name+'"   data-artist="'+album.artist+'" data-releaseDate="'+album.releaseDate+'"  data-id="'+album.id+'" data-image="'+album.image+'"  class="'+selectedCss+'" src="images/save.png" />');
+	inLibrary = isInLibrary(encodeURIComponent(album.name));
+	var selectedCss = inLibrary ? "tmbSelected" : "imgOpt",
+        rAlbum= $('<img class="' + selectedCss + ' album-save" src="images/save' + (inLibrary ? 'd' : '') + '.png"/>');
+    rAlbum.data('save', inLibrary).data('count', album.trackCount).data('name', escapeParam(album.name)).data('artist', escapeParam(album.artist)).data('releaseDate', album.releaseDate).data('id', album.id).data('image', album.image);
 
- 	 if(inLibrary)
-	{
-			rAlbum.show();
-	}else{
-			rAlbum.hide();
-	}
-
-
-     albumDiv.append(rAlbum);
-    rAlbum.click(function() {
-
-
-     if(isLogin)
-     {
-
-     	var isSave = $(this).attr("data-save");
-     	if(isSave != "true")
-     	{
-		 	saveAlbum($(this).attr("data-id"),$(this).attr("data-name"),$(this).attr("data-image"),$(this).attr("data-releaseDate"),$(this).attr("data-artist"),$(this).attr("data-count"));
-		 	rAlbum.show();
-		 	$(this).attr("data-save","true");
-    		 $(this).removeClass("imgOpt");
-			 $(this).addClass("tmbSelected");
-		}else{
-			removeAlbum($(this).attr("data-id"));
-			$(this).attr("data-save","false");
-
-			 $(this).removeClass("tmbSelected");
-			 $(this).addClass("imgOpt");
-
-		}
-
-	 }else{
-	 		needLoginPop();
-	 }
-     });
-    albumDiv.hover(
-  function() {
-  		var isSave = $(this).attr("data-save");
-     	if(isSave != "true")
-     	{
-     		 $(this).find(".imgOpt").attr("title","Save to library");
-     	}else{
-
-     		 $(this).find(".imgOpt").attr("title","Remove from library");
-		}
-        $(this).find(".imgOpt").show();
-
-  }, function() {
-        $(this).find(".imgOpt").hide();
-
-  }
-);
-
+    albumDiv.append(rAlbum).addClass('itemTmb');
 }
 function forceLogin(){
 	if(isLogin)
@@ -545,34 +496,39 @@ function createVideoTmb(videoObj,idIndex,libraryTmb)
 
 function createAlbumTmb(albumObj,idIndex,libraryTmb)
 {
+	var divId = "album_" + idIndex,
+        trackNumLbl = "",
+        img = albumObj.image;
+    if (albumObj.trackCount && albumObj.trackCount !== 'undefined') {
+        trackNumLbl = albumObj.trackCount + " tracks<br>";
+    } else {
+        trackNumLbl = 'album<br>';
+    }
 
-	var divId = "album_"+idIndex;
-	var trackNumLbl = "";
-	var img = albumObj.image;
-	if(albumObj.trackCount){
-		trackNumLbl =albumObj.trackCount+" tracks<br>";
-	}
-	try{
+	try {
 		img  = img.replace("100x100","200x200");
-	}catch(e){}
-	try{
+	} catch (e){}
 
-		var d = '<div title="Play '+albumObj.name+' album by '+albumObj.artist+'" class="divTmb '+divId+'"><div class="grid images_3_of_1"><a href="javascript:playAlbum(\''+idIndex+'\')"><img class="divTmbImg" src="'+img+'"><p class="divTmbP">'+trackNumLbl+albumObj.releaseDate+'</p></a></div><div class="grid span_2_of_3"></div></div>';
+    var releaseDate = albumObj.releaseDate && albumObj.releaseDate !== 'undefined' ? albumObj.releaseDate : '';
+	try {
+		var d = '<div title="Play ' + albumObj.name + ' album by ' + albumObj.artist + '" class="divTmb ' + divId + '"><div class="grid images_3_of_1"><a href="javascript:playAlbum(\'' + idIndex + '\')"><img class="divTmbImg" src="' + img + '"><p class="divTmbP">' + trackNumLbl + releaseDate + '</p></a></div><div class="grid span_2_of_3"></div></div>';
 
 		var albumDiv = $(d);
-		if(libraryTmb)
-			updateTmbAlbum(albumObj,albumDiv.find(".images_3_of_1"));
-		return albumDiv;
-	}catch(e){}
-	return "";
+		if (libraryTmb) {
+		    updateTmbAlbum(albumObj,albumDiv.find(".images_3_of_1"));
+        }
 
+		return albumDiv;
+	} catch(e) {}
+
+	return "";
 }
 
 function createArtistTmb(artistObj,idIndex,libraryTmb)
 {
 	var divId = "artist_"+idIndex;
 	var d = '<div title="Watch albums by '+artistObj.artist+'" class="divArtistTmb '+divId+'">';
-	d +='<div class="grid images_3_of_1"><a href="javascript:searchAlbum(\''+idIndex+'\')">';
+    d += '<div class="grid images_3_of_1"><a href="javascript:searchAlbum(\'' + idIndex + '\', true)">';
 	d +='<span class="divTmbP">Artist</span><img class="divTmbImg" src="'+artistObj.image+'"></a></div>';
 	d +='<div class="grid span_2_of_3"></div></div>';
 	var artistDiv = $(d);
@@ -582,79 +538,12 @@ function createArtistTmb(artistObj,idIndex,libraryTmb)
 }
 function updateTmbArtist(artist,artistDiv)
 {
+	inLibrary = isInLibrary(encodeURIComponent(artist.artist));
+    var selectedCss = inLibrary ? "tmbSelected" : "imgOpt",
+        rArtist = $('<img class="' + selectedCss + ' artist-save" src="images/save' + (inLibrary ? 'd' : '') + '.png"/>');
+    rArtist.data('save', inLibrary).data('artist', escapeParam(artist.artist)).data('id', artist.id).data('image', artist.image);
 
-	inLibrary = isInLibrary(encodeURIComponent(artist.artist) );
-	var selectedCss ="imgOpt";
-	 if(inLibrary)
-	{
-			selectedCss = "tmbSelected";
-	}
-
-      var rArtist= $('<img  data-save="'+inLibrary+'" data-artist="'+artist.artist+'"  data-id="'+artist.id+'" data-image="'+artist.image+'" title="More options" class="'+selectedCss+' " src="images/save.png"  />');
-
-   //console.log(encodeURIComponent(artist.artist));
-     if(inLibrary)
-	{
-			rArtist.show();
-	}else{
-			rArtist.hide();
-	}
-     artistDiv.append(rArtist);
-
-     rArtist.click(function() {
-    	 if(isLogin)
-     {
-
-     	var isSave = $(this).attr("data-save");
-     	if(isSave != "true")
-     	{
-         	 saveArtist($(this).attr("data-id"),$(this).attr("data-artist"),$(this).attr("data-image"));
-     		rArtist.show();
-		 	$(this).attr("data-save","true");
-    		 $(this).removeClass("imgOpt");
-			 $(this).addClass("tmbSelected");
-     	}else{
-			removeArtist($(this).attr("data-artist"));
-			$(this).attr("data-save","false");
-
-			 $(this).removeClass("tmbSelected");
-			 $(this).addClass("imgOpt");
-
-		}
-
-
-     }else{
-  		 	needLoginPop();
-	 }
-
-    });
-
-   rArtist.hover(
-  function() {
-       var isSave = $(this).attr("data-save");
-     	if(isSave != "true")
-     	{
-     		 $(this).attr("title","Save to library");
-     	}else{
-
-     		 $(this).attr("title","Remove from library");
-		}
-  }, function() {
-
-  }
-);
-
-
-   artistDiv.hover(
-  function() {
-          $(this).find(".imgOpt").show();
-
-  }, function() {
-          $(this).find(".imgOpt").hide();
-
-  }
-);
-
+    artistDiv.append(rArtist).addClass('itemTmb');
 }
 function getParameterByName(name) {
     name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
@@ -689,15 +578,8 @@ function clearUserData()
 
 }
 
-function isInLibrary(sId)
-{
-	if(userData.indexOf(sId) > -1)
-	{
-		return true;
-	}else{
-		return false;
-	}
-
+function isInLibrary(sId) {
+    return userData.indexOf(sId) > -1;
 }
 
 
@@ -795,30 +677,7 @@ function isNeedExt(type) {
     var extadd = $.cookie('extadd');
 
     if(extadd   != undefined){
-        if(type == "page" && extadd == "1")//no player page
-        {
-            return true;
-        }else if(type == "player")//player page
-        {
-            return true;
-
-        }else if(type == "artist" && extadd == "4")//artist page
-        {
-            return true;
-
-        }else if(type == "home" && extadd == "3")//home page
-        {
-            return true;
-
-        }else if(type == null )//player page
-        {
-            return true;
-
-        }else
-        {
-            return false;
-
-        }
+        return true;
     }else{
         return false;
     }
@@ -888,6 +747,7 @@ function showMsgUser()
 
 }
 function firePixelTest(action) {
+    return;
     if (fireTestPixel && typeof fireTestPixel === 'function') {
         try {fireTestPixel(action);}catch (e){}
     }
@@ -926,11 +786,21 @@ function fInstall()
          display: none;\
     }")
              .appendTo("head");
+
+         ga('send', {
+             hitType: 'event',
+             eventCategory: lp,
+             eventAction: 'Installation',
+             eventLabel: 'ML PageLoad'
+         });
+
+     }else{
+
+         showMsgUser();
+         updateLoginView();
      }
 
 
-  	 showMsgUser();
- 	 updateLoginView();
 
 	 $('body').delegate('.ad', 'click', function(){
 
@@ -1239,7 +1109,7 @@ function fInstall()
 			   <!-- <li style="border-left: 1px ridge rgb(68, 68, 68);" ><a href="index.php">Home</a></li> -->
 			   	<li><a id="_mz_mylibrary_lnk" href="javascript:needLoginPop();">My Library</a></li>
 			   <li><a href="artists.php">Artists</a></li>
-				<li><a href="javascript:void(0)" onclick="chrome.webstore.install()">Extension</a></li>
+
 			   <li><a href="contact.php">Contact</a></li>
  
 			</ul>
