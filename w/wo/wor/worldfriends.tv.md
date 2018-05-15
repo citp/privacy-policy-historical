@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldfriends.tv privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114174649id_/http%3A//www.worldfriends.com/support/customercare.jhtml%3Fhandle%3Dcc_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldfriends.tv privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516001933id_/http%3A//worldfriends.com/support/customercare.jhtml%3Fhandle%3Dcc_privacypolicy) for the most accurate reproduction.*
 
 # WorldFriends :. Member Services
 
@@ -8,7 +8,7 @@ Meta4 Networks ("WorldFriends") respects the privacy of our users and has develo
 
 We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our website, you are accepting the practices described in this Privacy Policy. 
 
-WorldFriends cares deeply about online privacy. If you have any questions concerning this privacy policy, [contact us](https://web.archive.org/web/20171114174649id_/http%3A//www.worldfriends.com/support/contactus.jhtml). This Privacy Policy was last updated on January 7, 2011. 
+WorldFriends cares deeply about online privacy. If you have any questions concerning this privacy policy, [contact us](https://web.archive.org/web/20180516001933id_/http%3A//worldfriends.com/support/contactus.jhtml). This Privacy Policy was last updated on January 7, 2011. 
 
 #### Persons Under the Age of 18
 
