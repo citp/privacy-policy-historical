@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the currencynewstrading.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112203711id_/http%3A//www.currencynewstrading.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currencynewstrading.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515062112id_/http%3A//www.currencynewstrading.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Currency News Trading
 
