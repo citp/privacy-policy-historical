@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rovers.co.uk privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905220457id_/https%3A//www.rovers.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rovers.co.uk privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515065340id_/https%3A//www.rovers.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Blackburn Rovers
 
@@ -75,7 +75,7 @@ We are committed to protecting the security of your personal data, which is held
 
 Some of the organisations to which we may disclose your personal information (including, but not limited to, our technical partners used in delivery of the Online Facilities) may be situated outside of the European Economic Area, in countries which may not have laws that protect privacy rights in the same manner as in the United Kingdom. We will however take reasonable steps to ensure that your information is still properly protected.
 
-Security
+## Security
 
 Once it is received we store your personal data as set out in this Policy. Financial information you provide through the Club iFollow service is also encrypted for additional security.
 
@@ -121,7 +121,7 @@ You (and any parent/guardian of a minor) have the right to request that we close
 
 If you are dissatisfied with our response to any of your data privacy concerns you have the right to raise this with the Office of the Information Commissioner at Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF ([https://ico.org.uk](https://ico.org.uk/)).
 
-**Cookies Policy**
+## Cookies Policy
 
 This Cookies Policy applies to the official Club website and official mobile application (operated by EFL Digital on behalf of the Club) (“ **Online Facilities** ”) and should be read alongside our Privacy Policy which explains who we are, the type of information we may hold about you and how we use it.
 
@@ -129,7 +129,7 @@ The Online Facilities use cookies. A cookie is a small file containing an identi
 
 Cookies are used for a variety of purposes, including providing personalised web pages and recognising your choice of language. Cookies do not cause harm to your device, but, if you wish to stop your computer accepting cookies, go to the help section of your internet browser (for example, Internet Explorer or Firefox) where you will find information on how to do this. 
 
-Site Cookies
+### Site Cookies
 
 In the context of the Site, the following cookies are deployed:
 
@@ -179,7 +179,7 @@ SnapABugBanned | SnapABugBanned | Used by Snap Engage Chat for tracking of visit
 videocheckloggedin | videocheckloggedin | A cookie to help with login after package purchase | Session or shorter  
 videocheckingloggedin | videocheckingloggedin | A cookie to help with login after package purchase | 1 minute  
   
-Google Analytics
+### Google Analytics
 
 Google Analytics uses traffic log cookies to gain information about the use that is made of pages on the applicable Online Facilities. We use the information from these cookies to generate reports on the usage of the applicable Online Facilities which are used for evaluation and analysis. The purpose is to improve the Online Facilities by tailoring them to the needs of users.
 
@@ -191,19 +191,19 @@ As a user you can opt out of this process of collecting traffic log data. To do 
 
 [**http://tools.google.com/dlpage/gaoptout**](http://tools.google.com/dlpage/gaoptout)
 
-Miscellaneous
+### Miscellaneous
 
 All modern browsers allow you to change your cookie settings. These settings will typically be found in the 'options' or 'preferences' menu of your browser. To understand these settings, the following links may be helpful, otherwise you should use the 'Help' option in your browser for more details.
 
-Cookie settings in Internet Explorer
+[Cookie settings in Internet Explorer](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies)
 
-Cookie settings in Firefox
+[Cookie settings in Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
 
-Cookie settings in Chrome
+[Cookie settings in Chrome](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en)
 
-Cookie settings in Safari
+[Cookie settings in Safari](https://support.apple.com/kb/ph21411?locale=en_US)
 
-Cookie settings in Edge
+[Cookie settings in Edge](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies)
 
 We do not recommend turning cookies off when using the Online Facilities, as this will prevent you from using many of the services on the relevant Online Facility to which the cookies apply.
 
