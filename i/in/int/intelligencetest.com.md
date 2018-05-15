@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intelligencetest.com privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104003517id_/https%3A//www.intelligencetest.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intelligencetest.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515084434id_/https%3A//www.intelligencetest.com/privacy.html) for the most accurate reproduction.*
 
 # IQ Test Labs - Privacy policy
 
@@ -52,12 +52,12 @@ Third party vendors, including Google, use cookies to serve ads based on a user'
 
 Opt-Out
 
-Our site provides users the opportunity to opt-out of receiving communications from us. This can be achieved by following the instructions to opt-out which are placed in the IQ Test Labs newsletter. If users have opted-in to receive the IQ Test Labs newsletter but would like to opt-out before receiving it please use this contact [form](https://web.archive.org/web/20171104003517id_/https%3A//www.intelligencetest.com/cntct.html).
+Our site provides users the opportunity to opt-out of receiving communications from us. This can be achieved by following the instructions to opt-out which are placed in the IQ Test Labs newsletter. If users have opted-in to receive the IQ Test Labs newsletter but would like to opt-out before receiving it please use this contact [form](https://web.archive.org/web/20180515084434id_/https%3A//www.intelligencetest.com/cntct.html).
 
 * * *
 
 Correct/Update
 
-This site gives users the option for changing and modifying information previously provided. Use this contact [form](https://web.archive.org/web/20171104003517id_/https%3A//www.intelligencetest.com/cntct.html) if you wish to change any of the information which you have previously given us.
+This site gives users the option for changing and modifying information previously provided. Use this contact [form](https://web.archive.org/web/20180515084434id_/https%3A//www.intelligencetest.com/cntct.html) if you wish to change any of the information which you have previously given us.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you can use this contact [form](https://web.archive.org/web/20171104003517id_/https%3A//www.intelligencetest.com/cntct.html).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you can use this contact [form](https://web.archive.org/web/20180515084434id_/https%3A//www.intelligencetest.com/cntct.html).
