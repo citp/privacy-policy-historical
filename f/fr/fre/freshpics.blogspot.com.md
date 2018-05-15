@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshpics.blogspot.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112080030id_/http%3A//freshpics.blogspot.com/2009/09/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshpics.blogspot.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515235458id_/http%3A//freshpics.blogspot.com/2009/09/privacy-policy.html) for the most accurate reproduction.*
 
 # Fresh Pics: Privacy Policy
 
