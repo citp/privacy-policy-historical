@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the file-extension.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112095518id_/http%3A//www.file-extension.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the file-extension.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515062118id_/http%3A//www.file-extension.com/privacy) for the most accurate reproduction.*
 
 # File-extension.com
 
