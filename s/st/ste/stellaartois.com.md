@@ -1,58 +1,128 @@
-> *The following text is extracted and transformed from the stellaartois.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030080634id_/http%3A//www.stellaartois.com%3Fp%3D14) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stellaartois.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515224141id_/http%3A//www.stellaartois.com/content/stellaartois/en/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Stella Artois
+# Privacy Policy
 
-THIS PRIVACY POLICY IS DESIGNED TO INFORM YOU ABOUT THE INFORMATION ANHEUSER-BUSCH INBEV NV/SA (“AB INBEV”) COLLECTS AT THE WEB SITE ON WHICH THIS POLICY IS FOUND, WHY WE COLLECT SUCH INFORMATION, AND HOW WE WILL HANDLE INFORMATION WE LEARN ABOUT YOU FROM YOUR VISIT TO OUR WEB SITE. YOUR USE OF THIS SITE SIGNIFIES YOUR ASSENT TO OUR PRIVACY POLICY. IF YOU DO NOT AGREE TO OUR PRIVACY POLICY, PLEASE DO NOT USE THIS SITE.
+**Introduction**
 
-PLEASE NOTE THAT DIFFERENT WEB SITES OPERATED BY MEMBERS OF THE AB INBEV FAMILY OF COMPANIES MAY BE SUBJECT TO DIFFERENT PRIVACY POLICIES. THIS POLICY APPLIES ONLY TO INFORMATION COLLECTED AT THIS WEB SITE, IT DOES NOT APPLY TO INFORMATION COLLECTED BY US AT OTHER WEB SITES WE MAY OPERATE OR CONTROL, OR INFORMATION WE MAY COLLECT IN OTHER MEDIA, INCLUDING BY TEXT MESSAGE, EMAIL, PHONE, OR OTHERWISE. PLEASE CHECK THE PRIVACY POLICY OF EACH SITE TO UNDERSTAND THE PRACTICES APPLICABLE TO THAT SITE.
+THIS PRIVACY POLICY IS DESIGNED TO INFORM YOU ABOUT THE INFORMATION WHICH ANHEUSER-BUSCH INBEV SA/NA, WITH REGISTERED OFFICE AT GRAND PLACE 1, 1000 BRUSSELS, BELGIUM (“AB INBEV”) AND REGISTERED WITH THE CROSSROADS BANK FOR ENTREPRISES UNDER COMPANY NUMBER 0417.497.106.COLLECTS VIA THE WEB SITE ON WHICH THIS POLICY IS FOUND, WHY WE COLLECT SUCH INFORMATION AND HOW WE WILL HANDLE INFORMATION YOU PROVIDE US WITH AND INFORMATION WE LEARN ABOUT YOU FROM YOUR VISIT TO OUR WEBSITE. YOUR USE OF THIS WEBSITE IMPLIES YOUR ACCEPTANCE OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE WITH OUR PRIVACY POLICY, PLEASE DO NOT USE THIS WEBSITE.
 
-**Personal Information We Collect**
+**Changes to the policy**
 
-On this site you may be able to provide your first and last name, e-mail address, birth date or age, street address, city, state, zip code, mobile or other telephone number, or other personal information or contact information. We may also ask for your comments, suggestions, or other information relating to our site, our products or services, or the company. Other specific types of information may be requested in connection with contests, sweepstakes, other promotional offers or other marketing efforts, including uploading text, video or audio content. This site may use passive tracking mechanisms, including cookies, web beacons or clear GIFs, to track certain information about you while you are on our site.
+This policy was created on and has been in effect since 15 January, 2015. WE RESERVE THE RIGHT, AT OUR COMPLETE DISCRETION, TO CHANGE, MODIFY, ADD, OR REMOVE PORTIONS OF THIS POLICY AT ANY TIME. YOU SHOULD CHECK BACK PERIODICALLY AT THIS PAGE TO READ THE MOST RECENT VERSION OF THIS POLICY.  YOUR CONTINUED USE OF THIS WEBSITE FOLLOWING THE POSTING OF CHANGES TO THESE TERMS WILL MEAN YOU ACCEPT THESE CHANGES. NOTWITHSTANDING THE FOREGOING, WE WILL NOT RETROACTIVELY MAKE MATERIAL CHANGES TO OUR USE OF YOUR PERSONAL DATA WITHOUT YOUR CONSENT.
 
-**Use of Personal Information**
+**Third party websites**
 
-We use the personal information you submit to respond to your direct request, as described at the time we collect your information, as otherwise described to you prior to use of your information, to better understand you and our consumers generally, and for other of our legitimate business purposes, including, from time to time, sending you information in which we believe you may be interested, including about us or our products and services. We may combine the information you submit with data we have obtained about you from other sources, including if you have provided your information to us in other places or other medium, such as on other of our web sites. Passive information we track is used to customize your experience on our web site and the offerings that we make to you on our site. This information is also used to allow us to pre-populate your user name to assist you in logging in after you have become a registered member of a program or service at our site (such as signing up for a particular sweepstakes).
+We may use third-party advertising companies and/or media partners to serve ads on our Website and/or on the sites on which we advertise. Please note that these companies may use Usage Information about your visit to the applicable site in accordance with the policies on the site in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements, these companies may place or recognize a unique cookie on your browser. In addition, we may use web beacons provided by third-party advertising companies to help manage our online advertising. These web beacons enable us to recognize a browser’s cookie when a browser visits this Website to learn which advertisements bring users to our Website. To learn more about third-party advertising companies, cookies and how to "opt-out" of this type of advertising, please go to <http://www.networkadvertising.org/managing/opt_out.asp>. 
 
-**Sharing Personal Information**
+This Website complies with the self-regulatory principles of the Digital Advertising Alliance (DAA) Self-Regulatory Program, therefore some pages may contain icons that help users understand how Usage Information is being collected, and how to opt out of targeted advertising resulting therefrom.
 
-While we are not in the business of selling personal information to unaffiliated third parties, from time to time we will share your information with vendors acting on our behalf, with our related companies, including our parent and other AB InBev brands, or with business partners such as third parties with whom we are conducting joint promotions or programs. We will also disclose your personally identifiable information if we believe we are required to do so to comply with any law, regulation, court order, or legal or government request. In the unlikely event that all or part of our business is acquired by a third party, your information will be transferred to the new corporate owner. Without assuming any obligation to do so, we also reserve the right to collect and share any information we deem necessary to investigate or take action in connection with suspected fraud, illegal activities, possible harm to persons or property, to protect ourselves or one or more of our users or their heirs, or as otherwise required or permitted by law. Finally, please keep in mind that certain areas of our web site may be interactive in nature, and may allow you to post information that other users can see. If you do not wish to have information viewed publicly, please do not use those portions of the site.
+**Access Your Information**
 
-**Third Party Sites**
+You have the right to see the information we hold about you and to get mistakes corrected. If at any time you wish to update or correct any personally identifiable information you have provided, or you no longer wish us to collect, use or disclose any personally identifiable information for the purposes described below, please do not hesitate to send a request form with a copy of your ID card, passport or other proof of identity to us using the details given at the end of this policy. You may also at any time, free of charge and without having to provide any justification, opt-out of any direct marketing campaigns and request to no longer receive any promotional material as described above.
 
-On certain areas of this site we may provide links to third party sites. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from this site. These links are provided as a convenience to you, however please be aware that we do not control the third-parties or their web sites, and those third parties will have a different Privacy Policy which applies to information that you may provide when you are on those third parties’ sites. You should read the privacy policies of all web sites carefully before providing personally identifiable information.
+**Sharing personal data and transferring personal data to other jurisdictions**
 
-**How to Contact Us**
+Please note that in certain cases, your personal data may be transferred to processors, affiliated companies or third parties with whom we are conducting joint promotions or programs of which certain parties may be located outside the European Economic Area in countries which do not offer an adequate level of personal data protection. You hereby accept the transfer of your personal data in such cases. 
 
-If you no longer wish to receive marketing and promotional offers or information from us, please email us at [support@stellaartois.com](mailto:support@stellaartois.com), write to us at Stella Artois, One Busch Place, St. Louis MO, 63118 or call us at 1-800-342-5283. You can also follow the opt-out instructions that will be included in any promotional message you receive from us. Please note that if you opt not to receive promotional messages from us, we will still continue to send you information that relates to any account you may hold with us, or any business relationship you may have with us, such as requests you have made for or about our goods and services (such as transactional messages about sweepstakes in which you may have entered).
+Please note that subject to applicable data privacy legislation, we will also disclose your personal information if we believe we are required to do so to comply with any law, regulation, court order, or legal or government request. In the unlikely event that all or part of our business is acquired by a third party, your information will be transferred to the new corporate owner. Without assuming any obligation to do so, we also reserve the right to collect and share any information we deem necessary to investigate or take action in connection with suspected fraud, illegal activities, possible harm to persons or property, to protect ourselves or one or more of our users or their heirs, or as otherwise required or permitted by law. 
 
-**For UK Queries**
+Finally please keep in mind that certain areas of our web site may be interactive in nature, and may allow you to post information that other users can see. If you do not wish to have information viewed publicly, please do not use those portions of the website.
 
-If, at any time, you have any requests or queries concerning this policy or want to update your details, please contact us at:
+**Information collected and the purposes for which it is collected**
 
-Stella Artois  
-Consumer Department  
-AB Inbev UK Limited  
-Porter Tun House  
-500, Capability Green  
-Luton  
-Bedfordshire  
-LU1 3LS  
-Tel: 01582 391166  
-Or you can send an e-mail to [consumer.helpline@inbev.co.uk](mailto:consumer.helpline@inbev.co.uk.')
+We collect personal information on our users in two ways:
 
-**Special Notice to California Residents**
+  * through registration and information that we request that you enter on certain pages on the website; and / or
 
-Under California Law SB 27, California residents who have an established business relationship with us have the right to receive, once a year, information about third parties with whom we have shared information about them for the third parties’ marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send an e-mail to [support@stellaartois.com](mailto:support@stellaartois.com) or write us at the address listed above. Include in your request: (a) the phrase “California Privacy Request” in the subject line, (b) your name, (c) address, and (d) e-mail address. We will respond to you within thirty days of receiving such a request.
+
+  * through cookies (for more information about cookies, please see below).
+
+
+
+We may ask you for your name, age, street address, city, postcode, mobile telephone number, email address, comments, suggestions or other information relating to our website, our products or services, or the company. In addition, other specific types of information may be requested in connection with contests, sweepstakes, other promotional offers or other marketing efforts.
+
+We use the personal data which you submit or which we collect:
+
+  * to respond to your direct request, as described at the time when we collect your information or as otherwise described to you prior to the use of your information;
+
+
+  * to manage your use of our website;
+
+
+  * to better understand you and our consumers generally;
+
+
+  * and for other of our legitimate business purposes, including, from time to time, sending you current mailings or other marketing information about our brands and our companies in which we think you would be interested through e-mail/mail/SMS messaging (if you have given us permission to do so when you have registered with us.)
+
+
+
+We may combine the information you submit with other data we have obtained about you from other sources, including if you have provided your information to us in other places or through another medium, such as on other of our affiliated websites. 
+
+Passive information we track, including through cookies, is used to customize and enhance your experience on our website and the offerings we make to you on our website, as described above. 
+
+If there are purposes other than those identified above, We will identify the purposes for which it wishes to collect your personal information at or before the time the information is collected or before using your personal information for a purpose not previously identified.
+
+We will retain your personal information only as long as necessary for fulfillment of the purposes described above or as required by law.
 
 **Security**
 
-We use industry standard measures to protect information provide on this site. No web site is one hundred percent secure, and thus you should take appropriate measures to protect yourself, including, for example, keeping all user names and passwords confidential.
+We make sure that all the information we hold on you is stored securely on our servers and we will always follow strict security procedures in storing, using and sharing the information you give us, in order to prevent unauthorized access to it. No website is one hundred percent secure, and thus we encourage you to take appropriate measures to protect yourself, including, for example, keeping all user names and passwords confidential.
 
-**Legal Drinking Age/Children on Our Site**
+**Cookies**
 
-The site is not intended for or directed to individuals who are not of legal drinking age in their country of residence, including children under 18. We do not knowingly collect any information from such individuals. Parents, if you believe your child has provided us with personally identifiable information, please contact us at [support@stellaartois.com](mailto:support@stellaartois.com). To learn more about how to protect your children online, we encourage you to visit [http://www.dontserveteens.gov](http://www.dontserveteens.gov/).
+Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the website.
 
-**Effective Date and Changes**
+This website uses a variety of cookies, including Google Analytics. If you do not wish the cookie to be used then please do not use our website as it cannot be turned off for the website to work effectively.
 
-This policy was created on and has been in effect since Monday, August 10, 2009. WE RESERVE THE RIGHT, AT OUR COMPLETE DISCRETION, TO CHANGE, MODIFY, ADD, OR REMOVE PORTIONS OF THIS POLICY AT ANY TIME. YOU SHOULD CHECK BACK PERIODICALLY AT THIS PAGE TO READ THE MOST RECENT VERSION OF THIS POLICY, AS YOUR CONTINUED USE OF THIS SITE FOLLOWING THE POSTING OF CHANGES TO THESE TERMS WILL MEAN YOU ACCEPT THESE CHANGES. NOTWITHSTANDING THE FOREGOING, WE WILL NOT RETROACTIVELY MAKE MATERIAL CHANGES TO OUR USE OF YOUR INFORMATION WITHOUT YOUR CONSENT.
+**Type of  Cookie** | **Name** | **Purpose** | **More Information**  
+---|---|---|---  
+Persistent, if you have checked “Remember Me” at the age gate, temporary otherwise | agecheck | This cookie indicates whether you have passed through the Age Gate and are of legal drinking age in your country. | Cookie expires after one Month if you have checked “Remember Me” at the age gate or on browser close otherwise  
+Persistent, if you have checked “Remember Me” at the age gate, temporary otherwise | culture | To store the user’s desired location so that the site may deliver region-specific content | Cookie expires after one Month if you have checked “Remember Me” at the age gate or on browser close otherwise  
+  
+Persistent: __utma
+
+__utmb __utmz
+
+Temporary: __utmc
+
+| __utma / __utmb / __utmc / __utmz | Google Analytics uses cookies to help us analyse how you use this website. We use the information to compile reports and to help us improve the website. The cookies collect information in an anonymous form, including the number of visitors to the website, where visitors have come to the site from and the pages they visited. For an overview of privacy at Google, please [click here](https://support.google.com/analytics/answer/6004245).  | 
+
+__utma expires after a period of one year
+
+__utmb expires within 30 minutes of browser close
+
+__utmc expitres on browser close
+
+__utmz expires within 6 months  
+  
+This Website uses Google Analytics, a webdata analysis tool of Google Inc. (“Google”). Google Analytics uses so-called “cookies”, text files saved on the computers of users helping to analyze the usage of websites. The information generated by the cookie about the usage of websites by the user will be transferred to a server in the US for storage reasons.
+
+In case of activating the IP-anonymisation on this web site the IP-address of the Google users will be abbreviated beforehand in member states of the European Union or in other contracting states of the Treaty on the European Economic Area.
+
+Only in exceptional cases the complete IP-address will be transferred to a Google server in the US and abbreviated there. On behalf of the provider of this website Google will use this information in order to evaluate the usage of the website by the users, to compile reports about the website activity and to deliver further services connected to the usage of websites and of the internet for the website provider.The IP-address which is transferred by your browser will not be merged with other Google data. The users can avoid the storage of cookies by the appropriate adjustment in their browser.The users can also avoid the collection of data which is generated by the cookie and which is related to the usage of the website (including their IP-address) by Google as well as the processing of this data by Google by downloading and installing the Browser-plugin which is available in the following link: [http://tools.google.com/dlpage/gaoptout?hl=de](https://tools.google.com/dlpage/gaoptout?hl=de). 
+
+Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+
+**Legal drinking age/ Children on our website**
+
+This website is not intended for or directed to individuals who are not of legal drinking age in their country of residence, including children under 18. We do not knowingly collect any information from such individuals. Parents, if you believe your child has provided us with personal information, please contact us at
+
+**Queries**
+
+If, at any time, you have any requests or queries concerning this policy or want to update your details, please contact us at:
+
+Stella Artois
+
+Afdeling Consumer Service
+
+Brouwerijplein 1
+
+3000 Leuven
+
+Phone: +32 070-222919
+
+Or you can send an email: [imdconsumerservices@ab-inbev.com](mailto:imdconsumerservices@ab-inbev.com)
+
+Thank you for visiting our website.
+
+Effective Date: This policy was last updated on 15 January, 2015.
