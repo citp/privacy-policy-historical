@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flychina.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108214755id_/https%3A//www.flychina.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flychina.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515163943id_/https%3A//www.flychina.com/privacy.asp) for the most accurate reproduction.*
 
 # FlyChina Privacy Statement
 
