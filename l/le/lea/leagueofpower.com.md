@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leagueofpower.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112234450id_/http%3A//www.leagueofpower.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leagueofpower.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515125655id_/http%3A//www.leagueofpower.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – League of Power
 
