@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bhf.org.uk privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914095128id_/https%3A//www.bhf.org.uk/utilities/our-privacy-and-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhf.org.uk privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515153508id_/https%3A//www.bhf.org.uk/utilities/our-privacy-and-cookies-policy) for the most accurate reproduction.*
 
 # Our privacy and cookies policy
 
@@ -59,11 +59,26 @@ We do not store your credit or debit card details at all, following the completi
 
 If we receive an email containing any credit or debit card details, it will be immediately deleted, no payment will be taken and you will be notified about this. All purchases or donations should be completed through the donation page or online shop on our website ([www.bhf.org.uk](http://www.bhf.org.uk/)) or via our customer support centre by calling 0300 330 3322.
 
-#### Legal basis
+#### Legal basis & Legitimate Interests
 
-In certain instances, we collect and use your personal information by relying on the legitimate interest legal basis. This is because when you, for example, request to receive services or products from the BHF, we have a legitimate organisational interest to use your personal information to respond to you and there is no overriding prejudice to you by using your personal information for this purpose. This is also the case where we process your donations in support of BHF's objectives, for our internal administrative purposes, and where we need to take steps to protect our network security or risk of fraud.
+When we collect and use your personal information, we will make sure this is only done accordance with at least one of the legal grounds available to us under Data Protection law. 
 
-In most instances, however, we will rely on obtaining your consent to our use of your personal information. This is the case, for example, where we seek to obtain your consent to receive email marketing about the BHF. 
+One of these is where we have obtained your specific consent to use your information for a previously notified purpose, such as to send you email/text marketing or to provide you with a product, service or information at your request.
+
+Another is where we have a legal obligation to use or disclose information about you – for instance, where we are ordered by a court or regulatory authority or we are legally required to hold donor transaction details for Gift Aid or accounting/tax purposes.
+
+In certain instances, we may collect and use personal information where this is necessary in our legitimate interest as a charity, this includes being able to:
+
+  * send direct marketing material to supporters by post or contacting them by telephone for fundraising purposes (subject to checking against the Telephone Preference Service and any existing marketing preferences). See more at **Marketing Materials** below;
+  * conduct research to better understand who our supporters are and better target our fundraising activity. See more at **Fundraising** below; 
+  * monitor who we deal with to protect our charity against fraud, money laundering and other risks;
+  * maintain and administer our donor database and systems.
+
+
+
+In all cases, we balance our legitimate interests against your rights as an individual and make sure we only use personal information in a way or for a purpose that you would reasonably expect in accordance with this Policy and that does not intrude on your privacy or previously expressed marketing preferences. 
+
+Where we process sensitive personal data (as mentioned above), we will make sure that we only do so in accordance with one of the additional lawful grounds for processing such as where we have your explicit consent or you have made that information manifestly public. When we do this, we will tell you what sensitive personal data we are collecting and why. 
 
 #### Marketing Materials
 
@@ -127,7 +142,7 @@ If you post or send any content that we believe to be inappropriate, offensive o
 
 #### International transfers of personal information
 
-For financial and technical reasons we may, on occasion decideto use the services of a supplier outside the European Economic Area (EEA), which means that your personal information is transferred, processed and stored outside the EEA. This includes countries that the European Union authorities do not consider provides and adequate level of protection for personal data. However we take steps to put in place suitable safeguards to protect your personal information when processed by the supplier such as entering into the European Commission approved standard contractual clauses. If you would like to receive further information about our safeguards, please contact the Data Protection Office, Legal and Corporate Governance Department, British Heart Foundation, 180 Hampstead Road, London or email: [ dataprotection@bhf.org.uk](https://web.archive.org/web/20170914095128id_/https%3A//www.bhf.org.uk/utilities/dataprotection@bhf.org.uk)
+For financial and technical reasons we may, on occasion decideto use the services of a supplier outside the European Economic Area (EEA), which means that your personal information is transferred, processed and stored outside the EEA. This includes countries that the European Union authorities do not consider provides and adequate level of protection for personal data. However we take steps to put in place suitable safeguards to protect your personal information when processed by the supplier such as entering into the European Commission approved standard contractual clauses. If you would like to receive further information about our safeguards, please contact the Data Protection Office, Legal and Corporate Governance Department, British Heart Foundation, 180 Hampstead Road, London or email: [ dataprotection@bhf.org.uk](https://web.archive.org/web/20180515153508id_/https%3A//www.bhf.org.uk/utilities/dataprotection@bhf.org.uk)
 
 #### Keeping your personal information
 
@@ -328,7 +343,7 @@ If you opt to disable some or all cookies, we are unable to guarantee that our w
 
 Internet browsers (such as but not limited to Internet Explorer, Google Chrome, Firefox, Opera or Safari) will allow some control over most cookies through their settings. You will need to refer to the operating manual or review the settings of your browser software to identify what cookies are on your device and how to remove them.
 
-Find out more about [cookies and how to manage them](http://www.aboutcookies.org./). Some third parties may allow you to manage their cookies independently. Please refer to the list of third party providers above and confirm their respective policy pages for further information.  
+Find out more about [cookies and how to manage them](http://www.aboutcookies.org.uk/). Some third parties may allow you to manage their cookies independently. Please refer to the list of third party providers above and confirm their respective policy pages for further information.  
 
 ### Acceptance of cookie use
 
@@ -361,7 +376,7 @@ Where you have provided your consent for our use of your personal information, y
 
 #### Your ability to edit and delete your account information preferences
 
-The accuracy of your personal information is important to us. You can edit your BHF account information, including your address and contact details at any time. If you would like to change your preferences or update the details we hold about you other than online, please contact our Customer Support Centre on 0300 330 3322 or [supporterservices@bhf.org.uk](https://web.archive.org/web/20170914095128id_/https%3A//www.bhf.org.uk/utilities/supporterservices@bhf.org.uk) or write to Customer Support Centre, British Heart Foundation, Lyndon Place, 2096 Coventry Road, Sheldon, Birmingham, B26 3YU.
+The accuracy of your personal information is important to us. You can edit your BHF account information, including your address and contact details at any time. If you would like to change your preferences or update the details we hold about you other than online, please contact our Customer Support Centre on 0300 330 3322 or [supporterservices@bhf.org.uk](https://web.archive.org/web/20180515153508id_/https%3A//www.bhf.org.uk/utilities/supporterservices@bhf.org.uk) or write to Customer Support Centre, British Heart Foundation, Lyndon Place, 2096 Coventry Road, Sheldon, Birmingham, B26 3YU.
 
 #### Your rights to your personal information
 
