@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the raiders.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114093812id_/http%3A//www.raiders.com/footer/copyright-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raiders.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516012846id_/http%3A//www.raiders.com/footer/copyright-privacy-policy.html) for the most accurate reproduction.*
 
 # Oakland Raiders | Copyright & Privacy Policy
 
-_Reviewed and Effective September 4_ , _2015_
+_Reviewed and Effective December 13_ , _2017_
 
 **PRIVACY POLICY**
 
@@ -173,7 +173,9 @@ Please understand that a request and removal does not ensure complete or compreh
 
 Some web browsers may transmit “do-not-track” signals to the websites with which the user communicates.  Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them.  Because there currently is no industry standard concerning what, if anything, websites should do when they receive such signals, we currently do not take action in response to these signals. ****
 
-**13.            ****International** **Users** Please note that the Site is directed towards users who reside in the United States. By using the Site, you consent to the collection, storage, processing, and transfer of your information in and to the United States, or other countries and territories, pursuant to the laws of the United States. While some of these countries may not offer the same level of privacy protection as your own, we commit to uphold the privacy protections as explained in this Policy.
+**13.            ****International** **Users**
+
+Please note that the Site is directed towards users who reside in the United States. By using the Site, you consent to the collection, storage, processing, and transfer of your information in and to the United States, or other countries and territories, pursuant to the laws of the United States. While some of these countries may not offer the same level of privacy protection as your own, we commit to uphold the privacy protections as explained in this Policy.
 
 **14.            ****Correcting/Updating Personal Information**
 
@@ -190,3 +192,32 @@ Alameda, CA 94502
 **Copyright Notice**
 
 All of the material contained within the web site known as Raiders.com, its affiliate web sites, and any mobile application or version of those sites are copyrighted by The Oakland Raiders and may not be reproduced in any form without the express written permission of The Oakland Raiders. This includes text, photos, audio and video. Photos are copyrighted by The Oakland Raiders unless otherwise indicated by appropriate photo credit. In which case, the photo file is the property of The Oakland Raiders. All marks, logotype, helmet graphics and slogans are trademarks of The Oakland Raiders and cannot be used without permission of The Oakland Raiders.
+
+Pursuant to Title 17, United States Code, § 512(c)(2), if you believe in good faith that your copyrighted work has been reproduced and is accessible in a way that constitutes copyright infringement, please provide our DMCA Agent with a written communication containing the following information.
+
+IMPORTANT NOTE: ONLY DMCA NOTICES WILL RECEIVE A RESPONSE.
+
+(a) identification of the copyrighted work claimed to have been infringed;
+
+(b) identification of the allegedly infringing material that is requested to be removed;
+
+(c) your name, address and daytime telephone number, and an e-mail address if available, so that we may contact you if necessary;
+
+(d) a statement that you have a good faith belief that the use of the copyrighted work is not authorized by you or the law;
+
+(e) a statement that the information in the notification is accurate, and under penalty of perjury, that you are, or are authorized to act on behalf of, the owner of an exclusive copyright right that is allegedly infringed; and
+
+(f) an electronic or physical signature of you or someone authorized on the copyright owner's behalf, to assert infringement of copyright and to submit the statement.
+
+Claims of infringement which include the above required information must be submitted via postal mail or e-mail to NFL's DMCA Agent as follows:
+
+DMCA Agent  
+The Oakland Raiders  
+1220 Harbor Bay Parkway  
+Alameda, CA 94502  
+510-864-5000 (phone)  
+[feedback@raiders.com](mailto:feedback@raiders.com) (Please include "DMCA Notice of Infringement" in the subject line).
+
+IMPORTANT NOTE: The foregoing information is provided exclusively for notifying the Raiders that your copyrighted material may have been infringed. All other inquires and requests may not receive a response through this process.
+
+We reserve the right to remove any posted submission that infringes the copyright of any person under the laws of the United States upon receipt of a notice that complies with the requirements of 17 U.S.C. § 512(c)(3). United States law provides significant penalties for submitting such a statement falsely.
