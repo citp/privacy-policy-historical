@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the namestall.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114154006id_/http%3A//www.namestall.com/privacy-and-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namestall.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515210023id_/http%3A//www.namestall.com/privacy-and-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NameStall
 
