@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kcrg.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227203439id_/http%3A//www.kcrg.com/content/news/%3Farticle%3D158509635) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcrg.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515053756id_/http%3A//www.kcrg.com/content/news/%3Farticle%3D158509635) for the most accurate reproduction.*
 
 # Gray Television, Inc. PRIVACY POLICY and YOUR CALIFORNIA PRIVACY RIGHTS
 
