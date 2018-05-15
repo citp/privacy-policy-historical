@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the pharmacist.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212040241id_/http%3A//pharmacist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmacist.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515154329id_/http%3A//www.pharmacist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | American Pharmacists Association
 
-**Effective as of August 1, 2012**
+##### Effective as of August 1, 2012  
+ 
 
-**Privacy Policy**
+##### Privacy Policy  
+ 
 
 **I. Introduction**
 
