@@ -1,98 +1,94 @@
-> *The following text is extracted and transformed from the asendiausa.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214093401id_/http%3A//www.asendiausa.com/data-protection-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asendiausa.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515045135id_/http%3A//www.asendiausa.com/privacy-policy) for the most accurate reproduction.*
 
-# US :: Data Protection & Cookie Policy
+# US :: Privacy Policy
 
-Data collected from visitors (“Visitors” or “you”) who access information, content or services published or offered on this website is processed by Asendia Management SAS (France) (“Asendia”, “we” or “us”) in its capacity as both provider of this website and service provider. The above-mentioned information, content or services will be referred to hereinafter as the “Digital Presence” of Asendia. Further details about Asendia Management SAS are available from the [About Asendia](http://www.asendiausa.com/about-asendia) section of the website.
+### EU-U.S. PRIVACY SHIELD COMMERCIAL PRIVACY POLICY STATEMENT
 
-Protection of your personal data is of great importance to us. We therefore, as a matter of routine, handle your personal data responsibly and in compliance with the applicable statutory data protection provisions and postal legislation.
+### OF
 
-This Data Protection Policy contains information for you about our data processing methods. We explain what data will be processed by us whenever you access this website.
+### ASENDIA USA, INC.
 
- **1\. Who is the owner of the data collected?**
+ **Purpose & Scope**
 
-The owner of the data collected is Asendia Management SAS, with a share capital of 1.000€, 752.460.170 RCS Paris, registered address Cristal Tower, 7 Quai André Citroën, 75015 Paris, France.
+It is the policy of Asendia USA, Inc. (“Asendia USA”) to respect and protect Personal Information we receive from our Clients. In furtherance of this commitment, Asendia USA has certified to the EU-U.S. Privacy Shield Framework (“Privacy Shield”), as set forth by the U.S. Department of Commerce and the Federal Trade Commission (“FTC”), regarding the collection, use and retention of Personal Information transferred from the EEA to the United States. If there is any conflict between the terms in this Statement and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about Privacy Shield, and to view Asendia USA’s certification, please visit [****](https://www.privacyshield.gov/)**[https://www.privacyshield.gov](https://www.privacyshield.gov/)**. Adherence to these Privacy Shield Principles may be limited (i) to the extent required or allowed by applicable law, rule or regulation; (ii) to the extent necessary to respond to lawful requests by public authorities, including to meet national security, law enforcement, legal or governmental requirements; and/or (iii) to protect the health or safety of a Citizen. 
 
- **2\. What data do we collect?**
+Asendia USA provides international mail and parcel services, including mail and parcel preparation and distribution as well as computer services (“Services”), designed to help companies (our Clients, as defined below) manage engagement with their customers and their customers’ Personal Information. 
 
-In principle, our Digital Presence can be used without disclosing any personal data. As is common practice with many websites, certain data such as IP addresses and other usage information, is collected automatically and then analysed and processed anonymously by our web analysis software. By using our Digital Presence you consent to the collection, use and disclosure of this data in accordance with the terms of this Data Protection Policy.
+In the ordinary course of our business providing the Services, we act as agents (Data Processors) to process Personal Information on behalf of our Clients (Data Controllers), including information regarding citizens of the EEA. For example, the Services that we perform include the personalization and addressing of mail pieces and parcels from files provided by our Clients, where the data files may include name, title, company, address, city, postal region, country, postal code, email address, phone number, and customer number of our Clients’ customers. Additionally, in the ordinary course of business, our Clients, some of whom may be located in the EEA, provide us with their business contact and billing information, which we use to provide the Services. 
 
- **2.1 Automatic logging / User-specific and technical data**
+**Definitions**
 
-Our web servers automatically log every visit in a temporary log file. User-specific data (such as the IP address of the requesting computer and/or device, identification data of the browser used, the operating system of the requesting computer and/or device, the amount of data transferred, the name of the Internet Service Provider, the date and time of access) and technical data (such as the name and URL of the referring web page when the website was accessed via a link and, additionally, the search term if it was accessed via a search engine) are logged and analysed anonymously. First and foremost, this data is needed to enable the use of our content (connection set-up), and is also used for system-related purposes, such as technical administration and system security.
+The following capitalized terms are used throughout this document and are defined as follows: 
 
-We do not use your data for any other purposes, unless you have given your express consent to additional data processing when using certain services.
+* _“Agent”_ or collectively, “Agents” means any third party that Processes Personal Information pursuant to the instructions of, and solely for, Asendia USA or to which Asendia USA discloses Personal Information for use on its behalf. 
+* _“Asendia USA” or the “Company”_ collectively refers to Asendia USA, Inc. a Delaware corporation, and any and all subsidiaries and affiliates thereof that are incorporated in any state or territory of the United States.
+*  _“Citizen”_ or collectively, _“Citizens”_ means a lawful citizen or citizens of any EEA country and includes the customers of our Clients. 
+* _“Client”_ or collectively, _“Clients”_ means the current, prospective and former companies for whom Asendia USA performs Services. 
+* _“Data Controller”_ and _“Data Processor”_ shall have the same meanings as in European Union Data Protection Directive 95/46/EC (or any replacement legislation). 
+* _“EEA”_ means the European Economic Area which is composed of the following thirty-one (31) countries: Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Ireland, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, and United Kingdom. 
+* _“Personal Information”_ means any information or set of information about an identified or identifiable Citizen, including, but not limited to: (a) first name or initial and last name; (b) home or other physical address; (c) telephone number; (d) email address or online identifier associated with the Citizen; (e) Social Security number or other similar identifier; (f) employment, financial or health information; or (g) any other information relating to a Citizen that is combined with any of the above. The term “Personal Information” does not include anonymized information or information that is reported in the aggregate (provided that such aggregated information is not identifiable to a natural person).
+*  _“Privacy Shield Principles”_ collectively means the following seven (7) privacy principles as described in the Privacy Shield: (1) Notice, (2) Choice, (3) Accountability for Onward Transfer, (4) Security, (5) Data Integrity and Purpose Limitation, (6) Access, and (7) Recourse, Enforcement and Liability, as well as the supplemental privacy principles and the associated guidance set forth in those certain “Frequently Asked Questions” as agreed to by the U.S. Department of Commerce and the European Commission.
+*  _“Process”_ or _“Processing”_ of Personal Information means any operation or set of operations which is performed upon Personal Information, whether or not by automated means, such as collection, recording, organization, storage, adaptation or alteration, retrieval, consultation, use, disclosure or dissemination, and erasure or destruction.
+*  _“Sensitive Personal Information”_ means Personal Information that reveals race, ethnic origin, political opinion, religious or philosophical beliefs, trade union membership, genetic data, biometric data where Processed to uniquely identify a person, any information that concerns medical or health conditions or sex life, or information relating to the commission of a criminal offense.
+*  _“Statement”_ means this EU-U.S. Privacy Shield Commercial Privacy Policy Statement.
 
- **2.2 Additional data processing / Personal data**
+Capitalized terms not defined above have the definitions set forth in the respective paragraphs of this Statement. 
 
-In some cases, to use some of our online services, you must provide some personal data (with or without login). Personal data is information about personal or factual characteristics relating to a specific natural person. This includes information such as your name, address, telephone number, e-mail address, date of birth, employment and job title. We only process personal data when you decide to send it to us; for example, by filling out an online form, as part of a registration, order form, survey, competition, fulfillment of contract, information request or sending us a message via the contact forms.
+**_Privacy Shield Principles_**
 
-In these cases, we will only ask you to provide the personal data we require to perform the services we provide. The information you provide us with will be recorded in our IT systems.
+**Notice, Choice & Access**
 
- **3\. How do we use your data?**
+Asendia USA does not own or control any of the Personal Information it Processes on behalf of its’ Clients. All such information is owned and controlled by the respective Client. Processes performed by Asendia USA on behalf of its Clients are pursuant to the instructions of the applicable Client. Asendia USA therefore relies on its Clients to provide notices that clearly and conspicuously describe (i) the types of Personal Information that are collected about such Citizens; (ii) the purposes for which such information is collected; (iii) and the types of third parties to which such information is disclosed – including Processors such as Asendia USA – and the related purposes. 
 
-Collecting data helps us to develop and improve our Digital Presence, optimize our range of services and respond to your requests. We may use the data we collect about you for the following purposes:
+Where Asendia USA receives Personal Information from its Clients, Asendia USA and its Agents will endeavor to use such information in accordance with the notices provided by such Clients and the choices made by the Citizens to whom such Personal Information relates. In the event Clients’ customers seek to exercise their opportunity to opt-out of future Client-originated communications by contacting Asendia USA, Asendia USA will endeavor to timely communicate that choice to its Clients. 
 
-  1. to enable your use of the Digital Presence;
-  2. for internal, system-related purposes, such as technical administration and system security;
-  3. for statistical purposes, in order to enable us to tailor the Digital Presence more closely to your needs through the anonymous evaluation of general user behaviour (see section 4.3 below);
-  4. to provide online services and contractually-compliant processing of these services.
+Additionally, when Asendia USA collects contact, billing and other Personal Information about its Clients, including EEA Citizens employed by our EEA Clients, we shall endeavor to provide notices to our Clients. In the event such EEA Citizen Personal Information is to be used for a new purpose that is materially different from the purpose(s) for which it was collected or subsequently authorized, or transferred to a non-Agent third party, Asendia USA will endeavor, where practical and appropriate, to provide such individual with an opportunity to decline to have their Personal Information so used or transferred. 
+
+Although Asendia USA will, as appropriate, assist our Clients (as Data Controllers) in responding to Citizens exercising their rights under the Privacy Shield Principles, Citizens should direct their requests to correct, amend or delete their information or obtain confirmation of Processing to our Clients. Our EEA Citizens employed by our EEA Clients may also seek confirmation regarding whether Asendia USA is Processing Personal Information about them, request access to their Personal Information and ask that Asendia USA correct, amend or delete that information, where it is inaccurate or has been Processed in violation of the Privacy Shield Principles. 
+
+**Accountability for Onward Transfer**
+
+Asendia USA will endeavor to only transfer Personal Information to another third party/Agent where such third party has given assurances that it provides at least the same level of privacy protection as is required by the Privacy Shield Principles and this Statement and will notify Asendia USA if it makes a determination it can no longer meet this obligation. Where Asendia USA has knowledge that an Agent is using or sharing Personal Information in a way that is contrary to the Privacy Shield Principles and/or this Statement, Asendia USA will take reasonable steps to prevent or stop such Processing. With respect to onward transfers to third parties/Agents, Privacy Shield requires that, to the extent it is responsible for the event, Asendia USA shall remain liable should its Agents Process Personal Information in a manner inconsistent with the Privacy Shield Principles. 
+
+**Security**
+
+Asendia USA endeavors to take reasonable and appropriate administrative, technical and physical precautions designed to protect Personal Information from loss, misuse and unauthorized access, disclosure, alteration and destruction, regardless of whether such Personal Information is in electronic or tangible, hard copy form. 
+
+**Data Integrity and Purpose Limitation**
+
+Asendia USA endeavors only to Process Personal Information that is relevant to the Services it provides, and only for purposes compatible with those for which the Personal Information was collected. Asendia USA depends on its Clients to take reasonable steps to ensure that their customers’ Personal Information is reliable, accurate, complete and current. Asendia USA similarly takes reasonable steps designed to ensure the reliability, accuracy, completeness and currentness of Personal Information it collects about EEA Citizens employed by our Clients. 
+
+**Recourse, Enforcement and Liability**
+
+Asendia USA has implemented mechanisms to verify its ongoing compliance with the Privacy Shield Principles and this Statement. Any party that violates the Privacy Principles and/or this Statement will be subject to disciplinary procedures in accordance with Asendia USA’s disciplinary procedures. 
+
+In the event of a dispute, Citizens are able to seek resolution of their questions or complaints regarding use and disclosure of their Personal Information in accordance with the Privacy Shield Principles contained in this Statement. If you feel that Asendia USA is not abiding by the terms of this Statement, or is not in compliance with the Privacy Shield Principles, please contact Asendia USA at the contact information provided below. In addition, Asendia USA has agreed to refer unresolved complaints to JAMS, a dispute resolution provider which has locations in the United States and the EU. For more information and to submit a complaint through JAMS Privacy Shield Dispute Resolution Program, visit <https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim>. Such independent dispute resolution mechanisms are available to Citizens free of charge. If any request remains unresolved, Citizens may, under certain circumstances, have a right to invoke binding arbitration under Privacy Shield; for additional information, see <https://www.privacyshield.gov/article?id=ANNEX-I-introduction>. The FTC has jurisdiction over Asendia USA’s compliance with the Privacy Shield. 
+
+_**Contact Information** _
+
+If you have questions regarding this Statement or any of Asendia USA’s privacy practices, please contact us by mail or e-mail at the following addresses: 
+
+Asendia USA   
 
 
+Attn: Data Privacy Team 
 
-When you have given your express consent or - if so stipulated by legal regulations - have not raised an objection, we may also use this data for marketing purposes.
+701C Ashland Avenue 
 
- **4\. Cookie Policy**
+Folcroft, PA 19032 
 
- **4.1 What is a cookie?**
+Phone: 1-800-624-5287 
 
-A cookie is a small text file containing data for technical session logging and enabling us to store information related to your computer and/or device for the duration of your utilization of the Digital Presence. Cookies help us to determine how frequently our website pages are accessed as well as the number of users. Cookies also allow us to tailor the Digital Presence to your interests and to improve its functionality.
+Email: [dataprivacy.usa@asendia.com](mailto:dataprivacy.usa@asendia.com)
 
-We use "session cookies" and "persistent cookies”. "Session cookies" are stored only for the duration of your visit to one of the pages on our website. "Persistent cookies" are stored to retain information about Visitors who repeatedly access one of the pages on our website. We use cookies to be able to offer you optimal user experiences, remembering your preferences and settings and presenting you varied website pages and new contents during repeated use.
+_**Changes to this Statement** _
 
- **4.2 How do we use cookies?**
+This Statement may be amended from time to time in a manner that is consistent with the requirements of the Privacy Principles. When this Statement is updated, the “Last Updated” date at the bottom of this document shall be amended accordingly. Any material changes to this Statement will be posted on Asendia USA’s website and available to the general public at http://www.asendiausa.com/privacy-policy/. 
 
-Our web server places cookies in the memory of your computer and/or device. These cookies allow us an anonymous evaluation of general user behaviour, based on the number of visitors, for the purpose of optimizing our Digital Presence.
+**THIS STATEMENT HAS BEEN INITIALLY ADOPTED**
 
-You can also use our Digital Presence without cookies. However, most browsers accept cookies by default. You can prevent the saving of each cookie, or receive a warning from your browser before a cookie is saved, by changing your browser settings. Further information about these functions can be found in the help menu of your browser. Non-browser-based solutions do not offer this option. It may be that your use of certain functions or parts of our Digital Presence will be restricted or blocked if you prevent the use of cookies.
+**BY ASENDIA USA, INC. AS OF THE 30th DAY OF SEPTEMBER, 2016.**
 
- **4.3 Web analytics services**
+**Last Updated: SEPTEMBER 30, 2016**
 
-We use different web analytics services, such as Google Analytics, a network analysis service provided by Google Inc. The web analytics services use cookies (see section 4.1), which evaluate the use of the Digital Presence in order to obtain website traffic information, improve our services and in order to provide a statistical evaluation of our visitor traffic. It is not possible to trace the identity of individuals during these operations. The information generated in this way may be transmitted to a server abroad and stored there. You can prevent cookies from being stored by adjusting the settings of your browser software accordingly (see section 4.2). Data collection and storage can be withdrawn at any time with future effect. For more information, see the Google Analytics privacy policy.
-
- **4.4 Third party cookies**
-
-We use share buttons on our websites to enable Visitors to share content through social networks. When you click on a share button, a cookie may be placed in the memory of your computer and/or device by the web server of the social network you have chosen to share content through. We do not control the use of or have access to these cookies. For more information, you should refer to the relevant third party’s website.
-
- **4.5 Third Party Cookies in embedded content**
-
-When visiting pages of our websites with embedded content from YouTube (or similar video-sharing providers), the web server of these websites may place their own cookies in the memory of your computer and/or device. These cookies are not related to Asendia and we do not control the use of or have access to these cookies. For more information, you should refer to the relevant video-sharing provider’s website.
-
- **5\. Will we share your data with anyone else?**
-
-The personal data processed is not transferred to third parties or otherwise transmitted without your express consent. However, we expressly reserve the right to pass this data on to other companies within the Asendia Group.
-
-We will retain your information for no longer than necessary and it will remain confidential. However, we expressly reserve the right to transfer personal data to governmental institutions and authorities as well as to private persons with a right thereto based on statutory regulations, court orders or regulatory decisions, as well as to transfer personal data to governmental institutions for the purposes of taking legal action or prosecution should our legally protected rights be challenged.
-
- **6\. Your rights**
-
- **6.1. Right to access and information**
-
-For any questions regarding the processing of your data, please contact us at the following address: Asendia Management SAS, Branch Bern, Nordring 8, 3030 Bern, Switzerland or [digitalmedia@asendia.com](mailto:mailto:digitalmedia@asendia.com).
-
-Should you wish to contact us by e-mail, please note that e-mails will be in an unencrypted form and will therefore be susceptible to the security risks typically associated with such methods of communication.
-
- **6.2. Amendment, blocking and deletion / withdrawal of consent**
-
-If you would like any data to be amended, blocked or deleted, please apply together with a copy of your passport or ID to the following address: Asendia Management SAS, Branch Bern, Nordring 8, 3030 Bern, Switzerland or [digitalmedia@asendia.com](mailto:mailto:digitalmedia@asendia.com). If the deletion of any data is not permitted for statutory or contractual reasons or by commercial or tax law, in particular by statutory retention periods, the data will be blocked instead of deleted.
-
- **7\. How secure is your data?**
-
-The data we collect and save is treated confidentially and, using appropriate technical and organizational precautions, protected from loss or manipulation as well as from unauthorized access by third parties.
-
-In certain cases, information exchanged between your computer and/or device and us is encrypted during transmission. We do not accept liability for any unauthorized access or loss or personal data that is beyond our control.
-
-Our Digital Presence may contain links to other digital solutions which are outside our control and are not covered by this Data Protection Policy. If you access other digital solutions using the links provided, the operators of these digital solutions may collect information from you which will be used by them in accordance with their data protection policy, which may differ from ours.
-
- **8\. Changes to the Data Protection Policy**
-
-Changes to this Data Protection Policy may be required from time to time, for example due to the ongoing development of our Digital Presence or as a result of changes in legislation. Asendia therefore reserves the right to change the Data Protection Policy at any time, with effect from a future date. Accordingly, we recommend that you re-read this Data Protection Policy on a regular basis. This Data Protection Policy was last updated on: 08.11.2016
+We use cookies to offer an improved online experience and offer you content and services adapted to your interests. By using our website or clicking “OK”, you are agreeing to our [Cookie Policy](http://www.asendiausa.com/data-protection-policy/). If you do not wish to allow cookies please disable them in your browser settings. 
