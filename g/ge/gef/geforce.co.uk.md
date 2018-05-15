@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geforce.co.uk privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227100331id_/http%3A//www.nvidia.co.uk/object/privacy-policy-uk.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geforce.co.uk privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515064017id_/http%3A//www.nvidia.co.uk/object/privacy-policy-uk.html) for the most accurate reproduction.*
 
 # NVIDIA Privacy Policy|NVIDIA UK
 
@@ -123,7 +123,7 @@ We will take all reasonable and appropriate measures to protect the personal inf
 
 #### 10\. How to Contact Us
 
-If you have any questions or concerns about NVIDIA's Online Privacy Policy or Kids Privacy Policy, please send an email to [privacy@nvidia.com](mailto:privacy@nvidia.com) or write to us at: NVIDIA Corporation, 2701 San Tomas Expressway, Santa Clara, CA 95050.
+If you have any questions or concerns about NVIDIA's Online Privacy Policy or Kids Privacy Policy, please send an email to [privacy@nvidia.com](mailto:privacy@nvidia.com) or write to us at: NVIDIA Corporation, 2788 San Tomas Expressway, Santa Clara, CA 95051.
 
 #### 11\. Notice To California Residents – Your California Privacy Rights
 
@@ -131,8 +131,8 @@ Under California Civil Code Section 1798.83 (known as the "Shine the Light" law)
 
 **In the United States:**  
 NVIDIA Corporation  
-2701 San Tomas Expressway  
-Santa Clara, CA 95050
+2788 San Tomas Expressway  
+Santa Clara, CA 95051
 
 Alternatively, you may send us an email at [CaliforniaPrivacyDisclosure@nvidia.com](mailto:CaliforniaPrivacyDisclosure@nvidia.com).
 
