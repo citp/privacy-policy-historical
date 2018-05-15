@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the customercompany.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622085044id_/http%3A//customercompany.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customercompany.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515232247id_/http%3A//customercompany.com/privacy) for the most accurate reproduction.*
 
 # CustomerCompany.com - Privacy Policy
 
