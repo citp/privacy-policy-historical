@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teensexfusion.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225011400id_/http%3A//teensexfusion.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teensexfusion.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515045448id_/http%3A//www.teensexfusion.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy *** teensexfusion.com
 
@@ -30,4 +30,4 @@ You can access all your personally identifiable information that we collect onli
 granting access or making corrections.
 
 **How To Contact Us:**  
-Should you have other questions or concerns about these privacy policies, please send us an email at: [support@teensexfusion.com](https://web.archive.org/web/20171225011400id_/http%3A//teensexfusion.com/support.html).
+Should you have other questions or concerns about these privacy policies, please send us an email at: [support@teensexfusion.com](https://web.archive.org/web/20180515045448id_/http%3A//www.teensexfusion.com/support.html).
