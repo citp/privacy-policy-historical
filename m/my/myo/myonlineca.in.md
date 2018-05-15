@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myonlineca.in privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210225753id_/http%3A//www.myonlineca.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myonlineca.in privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516003018id_/http%3A//www.myonlineca.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - MyOnlineCA
 
@@ -6,7 +6,7 @@
  **Our Commitment to Privacy**  
 Our Privacy Policy was developed as an extension of our commitment to combine quality products and services with integrity in dealing with our users. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.  
 This privacy statement applies to the website of MyOnlineCA.IN:  
-mail@myonlineca.in
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
  **Registration and Setup Forms**  
 MyOnlineCA.in registration and website setup forms may require users to give us contact information, such as name and email address. Contact information from the registration and setup forms is used to solve your legal queries and done their legal work. The customers contact information is also used to get in touch with the customer when necessary.  
