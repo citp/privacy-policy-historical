@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esyndicat.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113052310id_/http%3A//www.esyndicat.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esyndicat.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515104533id_/http%3A//www.esyndicat.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: eSyndiCat Directory Software, Directory Script, Business Directory Software, Link Bid Script
 
@@ -26,4 +26,4 @@ Alternatively you can report piracy using our [contact form](http://www.esyndica
 
 ## Testimonials
 
-Definately easy to use and a great script. Fast, easy script setup with great features. Limited banner features but I emailed and was told new features for what I wanted were being released in next version 1 month away. Instead of taking my money and then releasing the new version. They were honest about it. I really respect that and cannot wait to see the newest version. 
+I love it and well done
