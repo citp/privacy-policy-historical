@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wow4u.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206015222id_/http%3A//wow4u.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wow4u.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515083057id_/http%3A//www.wow4u.com/privacy.html) for the most accurate reproduction.*
 
 # wow4u.com | Privacy Policy
 
@@ -123,8 +123,12 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy or you wish to unsubscribe from our site and services you may contact us using the information below or by writing to us at:
 
+2885 Sanford Ave  
+SW #19781  
+Grandville, MI 49418  
+USA 
+
 wow4u.com 
 
 Email:  
-wowmotivation@gmail.com  
-
+wowmotivation@gmail.com
