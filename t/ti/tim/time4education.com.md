@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the time4education.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113170910id_/http%3A//www.time4education.com/local/timecms/page.php%3Fid%3D134) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the time4education.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515061346id_/http%3A//www.time4education.com/local/timecms/page.php%3Fid%3D134) for the most accurate reproduction.*
 
 # 
 
@@ -9,7 +9,7 @@ Page path
 
 
 
-Triumphant Institute of Management Education Pvt Ltd (T.I.M.E.), the owner of the time4education.com, is committed to protecting your right to privacy and it is our policy to respect the privacy of private communication. The information you provide to us will be held on T.I.M.E.’s own servers or on third party servers contracted by T.I.M.E. These may be based in India or abroad. In some cases, information may be stored in a country other than the one you access the site from. The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet.
+Triumphant Institute of Management Education Pvt Ltd (T.I.M.E.), the owner of the time4education.com, is committed to protecting your right to privacy and it is our policy to respect the privacy of private communication. The information you provide to us will be held on T.I.M.E.’s own servers or on third party servers contracted by T.I.M.E. These may be based in India or abroad. In some cases, information may be stored in a country other than the one you access the site from. The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. 
 
 We collect information about our customers in order to help us continually improve the service we offer and so that we can enter into commercial arrangements, including the sale of advertising space.
 
@@ -27,8 +27,7 @@ We collect personal data which you voluntarily agree to share with us and certif
   * Postal address
   * Postal code
   * Demographic information (like your age, gender, occupation, professional experience, education, etc.);
-  * Preferences and interests (such as newspapers read and so on);
-  * Financial information (like account or credit card numbers); and
+  * Preferences and interests (such as newspapers read and so on); and
   * Opinions of features on our websites.
 
 
