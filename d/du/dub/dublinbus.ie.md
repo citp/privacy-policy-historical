@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dublinbus.ie privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218220702id_/http%3A//www.dublinbus.ie/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dublinbus.ie privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515043246id_/http%3A//www.dublinbus.ie/Privacy) for the most accurate reproduction.*
 
 # Privacy - Dublin Bus
 
@@ -32,8 +32,8 @@ CIÉ is committed to protecting the privacy needs of children and we encourage p
 ****
 
 **CIÉ's use of cookies  
-** Cookies are small text files that a website can use in order to recognise visitors who revisit a site so as to facilitate their ongoing access to and use of the site. It enables usage behaviour to be tracked and aggregate data to be compiled that would facilitate more targeted advertising and improved content. Typically, cookies involve the assigning of a unique number to the visitor. One simple way to prevent the use of cookies it to activate the facility which is available in most web browsers that enables the user to deny or accept cookies. However, visitors should realise that certain cookies may be necessary in order to provide the visitor with certain features such as the customised delivery of certain information.   
-****
+** Cookies are small text files that a website can use in order to recognise visitors who revisit a site so as to facilitate their ongoing access to and use of the site. It enables usage behaviour to be tracked and aggregate data to be compiled that would facilitate more targeted advertising and improved content. Typically, cookies involve the assigning of a unique number to the visitor. One simple way to prevent the use of cookies it to activate the facility which is available in most web browsers that enables the user to deny or accept cookies. However, visitors should realise that certain cookies may be necessary in order to provide the visitor with certain features such as the customised delivery of certain information. For further Information on the Dublin Bus Cookie Policy, please see the below link [https://www.dublinbus.ie/Examples/Cookie-Policy/](https://web.archive.org/Examples/Cookie-Policy/)  
+ ****
 
 **How CIÉ uses your information**  
 CIÉ uses your personal information to provide you with products or services and to help us better understand your needs and interests. Specifically, we use your information to help you complete a transaction or order, to communicate with you, to provide service and support, to update you on services and benefits, to personalize promotional offers and to personalize some CIÉ websites. Occasionally we may also use your information to contact you for market research regarding CIÉ products or services. We will give you the opportunity to choose your privacy preferences regarding such communications. 
