@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxfordadvancedlearnersdictionary.com privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922184113id_/http%3A//www.oxfordlearnersdictionaries.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxfordadvancedlearnersdictionary.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515183442id_/https%3A//www.oxfordlearnersdictionaries.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Oxford Learner's Dictionaries
 
@@ -35,7 +35,7 @@ When you use the Website (e.g. visit, register as a user and/or activate a code 
 
 OUP uses “cookies” and other technologies on the Website. The terms and conditions governing OUP’s use of "cookies" and such other technologies on the Website are set out in OUP’s Cookie Policy.
 
-By using the Website, you are agreeing to be bound by the terms of our [Cookie Policy](http://global.oup.com/cookiepolicy "link opens in a new window").
+By using the Website, you are agreeing to be bound by the terms of our [Cookie Policy](https://global.oup.com/cookiepolicy "link opens in a new window").
 
 ### HOW DO WE USE YOUR INFORMATION?
 
