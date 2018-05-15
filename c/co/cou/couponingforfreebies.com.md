@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponingforfreebies.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219194446id_/http%3A//wp.me/P1Og1y-6O) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponingforfreebies.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515021604id_/http%3A//wp.me/P1Og1y-6O) for the most accurate reproduction.*
 
 # Privacy Policy - Couponing for Freebies
 
