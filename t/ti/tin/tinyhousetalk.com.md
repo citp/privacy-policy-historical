@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tinyhousetalk.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119070122id_/http%3A//tinyhousetalk.com/disclaimer-privacy-policy-dmca-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinyhousetalk.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515101856id_/http%3A//tinyhousetalk.com/disclaimer-privacy-policy-dmca-policy) for the most accurate reproduction.*
 
 # Disclaimer, Privacy Policy & DMCA Policy
 
@@ -96,7 +96,7 @@ Naples, FL 34102
 United States
 
 Or send an electronic copy to:  
-alex@tinyhousetalk.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 Once the proper bona fide infringement notification is received by the Designated Agent it is company policy to do the following:
 
