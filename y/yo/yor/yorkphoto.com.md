@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yorkphoto.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909041442id_/http%3A//www.yorkphoto.com/Content.aspx%3FPage%3DPrivacy%2B%2526%2BSecurity%26PK%3De0e04a5e-5062-405d-aeb0-aa379be6bd58) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yorkphoto.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515164959id_/http%3A//www.yorkphoto.com/Content.aspx%3FPage%3DPrivacy%2B%2526%2BSecurity%26PK%3De0e04a5e-5062-405d-aeb0-aa379be6bd58) for the most accurate reproduction.*
 
-# York Photo - Privacy & Security
+# Privacy & Security - York Photo
 
 ### YorkPhoto.com Labs Privacy Policy
 
@@ -25,15 +25,13 @@ You also give information when you answer survey questions and organize your pho
 
 Our primary goal in collecting your Customer Information is to provide you with a personalized, relevant, user-friendly experience on the YorkPhoto.com website. Here are the ways we use Customer Information to enhance this experience: 
 
-_Customer Communication:_ **We use Customer Information to communicate with you and we consider this communication to be an integral part of the YorkPhoto.com service.** We use your email and mailing address to inform you of site improvements, feature announcements, promotional offers and occasional third-party offers that may be of interest to you. If you do not wish to receive these offers, you may always unsubscribe by clicking the "unsubscribe" link at the bottom of an email, unclicking the check box on your profile page, or by writing [customerservice@YorkPhoto.com](mailto:customerservice@YorkPhoto.com). 
+_Customer Communication:_ **We use Customer Information to communicate with you and we consider this communication to be an integral part of the YorkPhoto.com service.** We use your email and mailing address to inform you of site improvements, feature announcements, promotional offers and occasional third-party offers that may be of interest to you. If you do not wish to receive these offers, you may always unsubscribe by clicking the "unsubscribe" link at the bottom of an email, unclicking the check box on your profile page, or by writing [Service@yorklabs.com](mailto:customerservice@YorkPhoto.com). 
 
 _Customer Satisfaction:_ **We use Customer Information to make your online experience enjoyable.** For example, because we know who you are after you log in, we can present you with the right set of albums in your password-protected account. We also know where to email you to let you know your photos are ready for viewing online.
 
 _Customer Convenience:_ **We use Customer Information to provide you with the convenience of easy access to the services you request.** When you choose to use the YorkPhoto.com website for digitization of your photos, or for purchasing photo merchandise, we will ask for payment information and for your email address, so we can send you a notification that your photos are available online and create an account for you on the YorkPhoto.com website. For a merchandise purchase, we will ask for final confirmation before charging your credit card. We may also collect information during the shopping experience to make purchasing an easier and better experience for you. For example, if you give us permission to keep your billing information, you won't have to fill out the shipping and billing address each and every time you make an online purchase. 
 
 York Photo Labs shares Customer Information with third party intermediaries (for example, credit card authorization companies, merchandise distributors, vendors processing our outbound email communication, etc.) who help us run the YorkPhoto.com website. Your Customer Information is provided to these third parties solely for the purpose of providing you the services you request at the time that you request them. 
-
-From time to time, we will also provide Customer Information to outside companies we select so they can let you know about those of their products or services we think might be of interest to you. If you do not want us to share your Customer Information with outside companies, you always have the option of telling us not to share it by sending an email to [customerservice@YorkPhoto.com](mailto:customerservice@YorkPhoto.com). We will make every effort to respect this choice as soon as practicably possible after receiving your communication. 
 
 York Photo Labs will also share Customer Information if required by law (or to protect its rights or property). 
 
@@ -72,6 +70,6 @@ York Photo Labs employs SSL - a specialized encryption and security technology -
 
 Customer Information that you provide during purchase is available in your online account. To edit your Customer Information, you must enter your email address and password to access your account. You may edit your account information at any time. 
 
-You can also cancel your account by writing [customerservice@YorkPhoto.com](mailto:customerservice@YorkPhoto.com). If you request cancellation of your account, we may (but are not required to) remove any and all content (photos) or other personal information from the YorkPhoto.com website, and your photos may not be accessible to you even if you choose to rejoin or reactivate your account at a later date. Information necessary for the purposes of maintaining business records regarding a cancelled account, including records of credit transactions and account ownership, will be retained in accordance with applicable law. 
+You can also cancel your account by writing [Service@yorklabs.com](mailto:customerservice@YorkPhoto.com). If you request cancellation of your account, we may (but are not required to) remove any and all content (photos) or other personal information from the YorkPhoto.com website, and your photos may not be accessible to you even if you choose to rejoin or reactivate your account at a later date. Information necessary for the purposes of maintaining business records regarding a cancelled account, including records of credit transactions and account ownership, will be retained in accordance with applicable law. 
 
-**Contacting York Photo Labs:** If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, you can contact us at [customerservice@YorkPhoto.com](mailto:customerservice@YorkPhoto.com). 
+**Contacting York Photo Labs:** If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, you can contact us at [Service@yorklabs.com](mailto:customerservice@YorkPhoto.com)
