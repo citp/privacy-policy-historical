@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socbookmarking.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114091818id_/http%3A//www.socbookmarking.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socbookmarking.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516011218id_/http%3A//www.socbookmarking.com/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policies › SocBookmarking.com : Fast social bookmarking for your website | Sharing web with world for professional SEO | Cheap social bookmarking service for quickly increasing backlinks
 
