@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rotoexperts.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129171731id_/http%3A//rotoexperts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rotoexperts.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515232343id_/http%3A//rotoexperts.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RotoExperts
 
@@ -33,11 +33,11 @@ If a User’s personally identifiable information changes (such as a User’s zi
 
 If you have any questions or comments about this Privacy Policy, you may contact Company via any of the following methods:
 
-RotoExperts, LLC
+SportsGrid, Inc.
 
-87 Main Street, Suite 200
+404 5th Ave, 3rd Floor
 
-Matawan, New Jersey 07747
+New York, NY 10018
 
 (888)595-6670
 
