@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easypano.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113060722id_/http%3A//www.easypano.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easypano.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515071655id_/http%3A//www.easypano.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Easypano Commitment to Privacy
 
