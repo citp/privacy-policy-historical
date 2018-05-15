@@ -1,108 +1,133 @@
-> *The following text is extracted and transformed from the job.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211052307id_/http%3A//www.job.com/my.job/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the job.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515101005id_/http%3A//www.job.com/privacy-policy-and-cookies) for the most accurate reproduction.*
 
-# Job.com Jobs - Start your job search and find employment today!
+# Privacy Policy & Cookies — Job.com
 
-_Effective Date: 06/12/2017_
+### **Introduction**
 
-### Job.com's Privacy Information - Overview
+This is the privacy and cookies policy for www.job.com and any mobile applications we make available from time to time (Site). The Site is operated by My Job Matcher, Inc. (we, us and our). 
 
-This privacy policy applies to www.job.com owned and operated by Job.com, Inc "Job.com". This privacy policy describes how Job.com, Inc. collects and uses the personal information you provide on our web site: www.job.com. Job.com is committed to protecting the privacy of our users. We want to provide a safe, secure user experience while on our Web site www.Job.com. We will use our best efforts to ensure that the information you submit to us remains private, and is used only for the purposes as set forth herein. The following reflects our commitment to you. 
+We are committed to protecting your privacy on-line. We appreciate that you do not want the personal information you provide to us distributed indiscriminately and here we explain how we collect information, what we do with it and what controls you have.
 
-### Information About All Job.com Visitors
+By using the Site, you consent to the collection and use of information in accordance with this privacy policy.
 
-We gather information about all of our users collectively, such as what areas users visit most frequently and what services users access the most. We use such information in the aggregate and not on an individual basis. This information helps us determine what is most beneficial for our users, and how we can develop a better overall website for our users. This information may be shared with our partners, but only in the aggregate, so that they too may develop a better overall career website for you, as well. 
+We reserve the right to change this privacy policy from time to time by changing it on the Site. This privacy policy was last updated on January 31, 2018.
 
-### Information About You Specifically
+In addition to this policy, our Terms & Conditions also apply to your use of the Website and are, where relevant, incorporated by reference into these terms.
 
-In some instances, such as when you sign up to use a service, register for job alerts, enter into a contest, or purchase a product, we may need more specific personal information about you, such as name, address, e-mail address, telephone number, credit card number, etc. We may use that information to make you aware of additional products and services which may be of interest to you, send newsletters or service related emails if our service is temporarily down, provide you professional resume services, allow professional resume writers to contact you for an interview, or to contact you regarding site changes. We may also ask you for other information, such as feedback regarding the site, the types of jobs you are interested in, etc., Again, in an effort to develop for you and deliver to you the best possible career website. 
+###  **Information we may collect from you**
 
-When applying for a job listed directly on Job.com or signing to become a member, we will ask you for additional information such as desired salary, ethnicity, career level, education level, and whether or not you have served in the U.S. Military. Some of this information is used as part of your profile that potential employers will be able to view if you post a resume and opt to have your resume viewable by employers. Specifically, ethnicity and gender are not viewable by employers. 
+We may collect and process the following information about you:
 
-### General Information Disclosure
+information (such as your name, email address, postal address and telephone number, résumé or CV) that you provide by completing forms on the Site, including if you register as a user of the Site, subscribe to any service, upload or submit any material via the Site, request any information, or enter into any competition or promotion we may sponsor; in connection with an account sign-in facility, your log-in and password details; details of jobs you have been matched with, job you have viewed or any of your job preferences; communications you send to us, for example to report a problem or to submit queries, concerns or comments regarding the Site or its content; information from surveys that we may, from time to time, run on the Site for research purposes, if you choose to respond to, or participate in, them; employment details if you send us a resumé or other details of your employment history in connection with an advertised job vacancy or a general enquiry regarding employment opportunities with us.
 
-We do not disclose, share, sell, trade or rent information about your individual visits to Job.com, or personal information that you provide, such as your name, address, e-mail address, telephone number, credit card number, etc., to any outside parties other than as disclosed within this privacy policy. 
+You are under no obligation to provide any such information. However, if you should choose to withhold requested information, we may not be able to provide you with certain services.
 
-We may provide your personal information to companies that provide services to help us with our business activities such as a credit card processing company to process payments, a third party customer service company that may offer customer support on our behalf, third party companies who email job alerts, special offers and other career related services. These companies are authorized to use your personal information only as necessary to provide these services to us. 
+When you visit the Site, we may automatically collect additional information about you, such as the type of internet browser you use, any website from which you have come to the Site and your IP address (the unique address which identifies your computer on the internet) which is automatically recognized by our web server. Your IP address may be used to identify your location and country of origin, but you cannot be identified from this information and it is only used to assist us in providing an effective service on the Site and to collect broad demographic information for aggregate use.
 
-We offer you the ability to utilize our career tools like resume writing, resume distribution, and education information services which are hosted by third party service providers however framed by Job.com. Although this section of the site has the look and feel of Job.com you are on our third party service provider's site and their privacy policy governs the collection and use of the information collected there. Your information is then shared back with Job.com in order for us to provide you the services you have requested. 
+###  **Cookies**
 
-We may disclose your personal information as required by law, such as to comply with a subpoena, or similar legal process, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. 
+When you interact with the Site, we try to make that experience simple and meaningful. When you visit the Site, our web server sends a cookie to your computer. Cookies are small pieces of information which are issued to your computer when you visit a website and which store and sometimes track information about your use of the Site. A number of cookies we use last only for the duration of your web session and expire when you close your browser. Other cookies are used to remember you when you return to the Site and will last for longer.
 
-If Job.com, Inc. is involved in a merger, acquisition, or sale of all or a portion of our assets, you will be notified via email and/or prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. 
+###  **We use cookies to:**
 
-We may also disclose your personal information to any other third party with your prior consent. 
+Remember that you have visited us before; this means we can identify the number of unique visitors we receive. This allows us to make sure we have enough capacity for the number of users that we get;
 
-### Featured Programs
+Customize elements of the promotional layout and/or content of the pages of the Site;
 
-On certain pages of our site we offer programs of third parties, such as colleges, resume writing companies, and other career sites who offer products such as matching job alerts. The information collected on these pages is collected by Job.com and then passed on to the featured program entity to fulfill your information request. If you do not wish to have your personal information shared in this manner please do not fill out these forms, or accept these offers, if you have already provided your information and do not wish to be contacted by these third parties please contact them directly. 
+Collect anonymous statistical information about how you use the Site (including how long you spend on the Site) and where you have come to the Site from, so that we can improve the Site and learn which parts of the Site are most popular with visitors; and
 
-### Resumes
+Some of the cookies used by the Site are set by us, and some are set by third parties who are delivering services on our behalf.
 
-Since Job.com is a career site, we give you the option of putting your resume in our database, to be searched by prospective employers / recruiters or responding to individual ads with your resume. If you allow your resume to be searchable, then all recruiters with access to our resume database product will have access to your resume. We use our best efforts to grant access to this database only to recruiters, hiring managers, headhunters, and human resource professionals. However, we are not responsible if some other third party, such as someone posing as the aforementioned and evades security measures and gains access to the database, and, subsequently, your resume. You may remove your resume from our searchable database at any time by logging into your account and selecting mange my resumes under the Jobseeker Menu. However, recruiters who have access to the database may have retained a copy of your resume in their own files or databases. We are not responsible for the retention, use, or privacy of resumes in these instances. 
+Most web browsers automatically accept cookies but, if you prefer, you can change your browser to prevent that or to notify you each time a cookie is set. You can also learn more about cookies by visiting www.allaboutcookies.org which includes additional useful information on cookies and how to block cookies using different types of browser. Please note, however, that by blocking or deleting cookies used on the Site, you may not be able to take full advantage of the Site.
 
-You also have the ability to post your resume to other sites, have your resume critiqued by a professional, and participate in Job.com's third-party featured offers. We may share information such as your name and email address with third-parties for the sole purpose of fulfilling your opt-in service or information request. If you wish to opt-out of any third-party offers, you must contact the third-party directly. 
+###  **Our cookies:**
 
-### Email
+### Essential session management
 
-To connect you with account information, jobs, and career tools, we will communicate with you via email using the email address provided during registration. Current Job.com members may unsubscribe from Job.com emails at any time by either clicking on the "Manage Newsletters" link in the footer of the email or logging into your account and navigating to the "Newsletter Subscription Manager" located under "Jobseeker Menu." Removing your email from our list may take up to 5 business days. For those that wish to opt-out of all email from Job.com [go here](https://web.archive.org/my.job/sub/). 
+Creating a specific log-in session for a visitor to the Website in order that the Website remembers that a visitor is logged in and that their page requests are delivered in an effective, secure and consistent manner;
 
-### Updating Your Personal Information
+Recognizing when a visitor to the Website has visited before allowing us to identify the number of unique visitors we receive to the Website and make sure we have enough capacity for the number of users that we get;
 
-If your personal information changes, or if you no longer desire our service, you may correct, update, delete inaccuracies, or deactivate your account by making the change on our member information page, or by emailing us at privacy@Job.com. We will respond to your access request within 30 days. 
+Recognizing when a visitor to the Website is a registered member;
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at privacy@Job.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+We may also log information from your computer including the existence of cookies, your IP address and information about your browser program in order to allow us to diagnose problems, administer and track your usage of our services;
 
-### Profiles
+### Functionality
 
-Profiles are only shared with employers when a job seeker has opted-in to allow the employer to view their resume. The profile information is collected when you post your resume to apply for a job listed directly on Job.com. No one else on the site may view your profile at any time. You may update your visibility to employers by by logging into your account and selecting "Manage My Resumes" under the Jobseeker Menu. 
+customizing elements of the promotional layout and/or content of the pages of the Website for example by storing a country code and providing users with content relevant to their country; and
 
-If you believe that an unauthorized profile has been created about you, you can request for it be removed by contacting us at privacy@job.com. 
+### Performance and measurement
 
-### Cookies and other Tracking Technologies
+collecting statistical information about how our visitors use the Website so that we can improve the Website and learn which parts are most popular to visitors.
 
-Technologies such as: cookies, beacons, tags and scripts are used by Job.com, Inc. and our partners, affiliates, or analytics or service providers such as customer support or advertising service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. 
+In addition to cookies, tracking Gifs may be set by us or third parties in respect of your use of the Site. Tracking Gifs are small image files within the content of the Site or the body of our newsletters so we or third parties can understand which parts of the Site are visited and whether particular content is of interest.
 
-We use cookies to remember users' settings, for authentication, and to customize the user experience. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
+###  **Uses made of your information**
 
-As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. (We do not link this automatically collected data to other information we collect about you. Or We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality. 
+### We will use the information you provide to:
 
-We use Local Shared Objects, such as Flash cookies, and Local Storage, such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use Flash cookies and HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. To manage Flash cookies, please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager06.html). 
+Enable us to process your orders and to provide you with the services and information offered through the Site now and in future and which you request;
 
-### Targeted or Behavioral Advertising:
+Administer your account with us;
 
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. 
+Audit the downloading of data from the Site;
 
-### Security
+Improve the layout and/or content of the pages of the Site and customise them for users;
 
-The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our site, we encrypt the transmission of that information using secure socket layer technology (SSL). We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at privacy@job.com. 
+Identify visitors to the Site;
 
-### Blog
+Send you information we think you may find useful or which you have requested from us, including information about our services and job listings or those of carefully selected third parties, provided you have indicated that you do not object to being contacted for these purposes;
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at privacy@job.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. You may also post a comment on our blog through a third party application that may require you to register to post a comment. We do not have access or control of the information posted to the blog. You will need to contact or login into the third party application if you want the personal information that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy policy. 
+Carry out research on our users' demographics and tracking of sales data;
 
-### Testimonials
+Show you targeted advertisements and other content customised for you.
 
-We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at privacy@job.com. 
+You can tell us not to contact you with information regarding our products and services or those of third parties, either at the point such information is collected on the Site (by checking or un-checking (as directed) the relevant box) or, where you do not wish us to continue to use your information in this way, by following the unsubscribe instructions on any communications sent to you. You can also exercise the right at any time by contacting us using the contacting us details at the end of this privacy policy.
 
-### Social Media Widgets
+###  **Information sharing**
 
-Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+We may disclose aggregate statistics about visitors to the Site, customers and sales in order to describe our services to prospective partners , advertisers, sponsors and other reputable third parties and for other lawful purposes, but these statistics will include no personally identifiable information. 
 
-### Links to Other Sites
+We may disclose your personal information to any of our affiliates, or to our agents or contractors who assist us in providing the services we offer through the Site, processing transactions, fulfilling requests for information, receiving and sending communications, updating marketing lists, analyzing data, providing support services or in other tasks, from time to time. Our agents and contractors will only use your information to the extent necessary to perform their functions. 
 
-This Web site contains links to other sites that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other sites. 
+In the event that we undergo re-organization or are sold to a third party, you agree that any personal information we hold about you may be transferred to that re-organized entity or third party. 
 
-We encourage you to be aware when you leave our site and to read the privacy policies of each and every Web site that collects personal information. 
+We may disclose your personal information if required to do so by law or if we believe that such action is necessary to prevent fraud or cyber crime or to protect the Site or the rights, property or personal safety of any person.
 
-This privacy policy applies only to information collected by this Web site. 
+###  **Public forums**
 
-### Privacy Commitment Changes
+The Site may, from time to time, make chat rooms, message boards, news groups and/or other public forums available to its users. Any information that is disclosed in these areas becomes public information and you should exercise caution when using these and never disclose your personal information.
 
-We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. If, at any time, you have questions or concerns about Job.com's privacy commitment, please feel free to email us at Privacy@Job.com. 
+###  **Child safety**
 
-Job.com, Inc.  
-100 Riverside Pkwy, Ste 201  
-Fredericksburg, VA 22406  
-(540) 374-5694 
+Protecting the safety of children when they use the Internet is very important to us. We recommend that children receive permission from their parent or guardian before gaining access to the Site or sending personal information to us or anyone else online.
 
-Thank you for using Job.com. We'll continue working to make this your favorite website to manage your career. 
+###  **External links**
+
+The Site will contain links to external sites. We are not responsible for the privacy policies or the content of such sites.
+
+###  **Security**
+
+We place great importance on the security of all personally identifiable information associated with our users. We have security measures in place to attempt to protect against the loss, misuse and alteration of personal information under our control. For example, our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized personnel have access to personal information. Whilst we cannot ensure or guarantee that loss, misuse or alteration of information will never occur, we use all reasonable efforts to prevent it.
+
+You should bear in mind that submission of information over the internet is never entirely secure. We cannot guarantee the security of information you submit via the Site whilst it is in transit over the internet and any such submission is at your own risk.
+
+It is advisable to close your browser when you have finished your user session to help ensure others do not access your personal information if you use a shared computer or a computer in a public place.
+
+###  **Retention of your information**
+
+We will retain information you have submitted to us as required for our records in accordance with applicable law. We will remove information you have submitted to us if specifically requested by you in writing.
+
+###  **Storage of your information**
+
+Information that you submit via the Site is sent to and stored on secure servers located in the EEA or USA. This is necessary in order to process the information. Information submitted by you may be transferred by us to our other offices and/or to the third parties mentioned in the circumstances described above (see information sharing), which may be situated outside the European Economic Area (EEA) and may be processed by staff operating outside the EEA. The countries concerned may not have similar data protection laws to the EEA. Where we transfer your information we will take all reasonable steps to ensure that your privacy rights continue to be protected. By submitting information via the Site, you agree to this storing, processing and/or transfer.
+
+###  **Your rights**
+
+You have a legal right under the UK Data Protection Act 1998 to a copy of all the personal information about you held by us. On request, we will provide you with a copy of this information subject to a fee not exceeding £10 GBP. You also have a right to correct any errors in that information. As mentioned above, you have a right to prevent the use of your personal information for direct marketing purposes.
+
+###  **Contacting us**
+
+Please submit any questions, concerns or comments you have about this privacy policy or any requests concerning your personal data by email to [[email protected]](http://support-us@myjobmatcher.com/) or write to us at:
+
+My Job Matcher Ltd, Suite C, Falcon Drive, Old Stratford Business Park, Old Stratford, MK19 6FG, UK.
