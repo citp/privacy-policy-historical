@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flyercenter.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231234002id_/http%3A//flyercenter.com/default/tc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyercenter.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515181133id_/http%3A//flyercenter.com/default/tc/privacy-policy) for the most accurate reproduction.*
 
 # FlyerCenter - Flyers, deals, coupons and discounts in Toronto, Mississauga, GTA
 
