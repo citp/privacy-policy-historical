@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzerg.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112203206id_/http%3A//buzzerg.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzerg.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515062038id_/http%3A//buzzerg.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – BUZZERG
 
