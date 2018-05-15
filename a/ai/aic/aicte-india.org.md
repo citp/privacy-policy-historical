@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aicte-india.org privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113001135id_/http%3A//www.aicte-india.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aicte-india.org privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515060319id_/https%3A//www.aicte-india.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Government of India, All India Council for Technical Education
 
