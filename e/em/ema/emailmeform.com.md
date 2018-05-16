@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emailmeform.com privacy policy that was archived on 2017-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171106190354id_/https%3A//www.emailmeform.com/v-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailmeform.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516092235id_/https%3A//www.emailmeform.com/v-privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - EmailMeForm
 
@@ -20,7 +20,7 @@ When we collect personally identifiable financial information from you, the data
 
 Personal information is collected only when users voluntarily register at EmailMeForm to purchase items, receive newsletters, or for other special offers or promotional opportunities. It is EmailMeForm's policy to treat all personal information as confidential. We will never sell your personal information or share it unnecessarily. 
 
-If you are already registered with EmailMeForm but no longer wish to receive messages from us, or you wish to correct/update information provided to us, please let us know using our [contact form](https://web.archive.org/web/20171106190354id_/https%3A//www.emailmeform.com/contact-us.html). 
+If you are already registered with EmailMeForm but no longer wish to receive messages from us, or you wish to correct/update information provided to us, please let us know using our [contact form](https://web.archive.org/web/20180516092235id_/https%3A//www.emailmeform.com/contact-us.html). 
 
 ## Traffic Logs
 
@@ -40,7 +40,7 @@ EmailMeForm may periodically update this policy. We will notify you about signif
 
 ## Contact Us
 
-  * Email: Please fill out our [contact form](https://web.archive.org/web/20171106190354id_/https%3A//www.emailmeform.com/contact-us.html)
+  * Email: Please fill out our [contact form](https://web.archive.org/web/20180516092235id_/https%3A//www.emailmeform.com/contact-us.html)
   * Mailing Address: 
   * PO Box 3497
   * Redwood City, CA 94064-3497
@@ -49,4 +49,4 @@ EmailMeForm may periodically update this policy. We will notify you about signif
 
 ## Terms of Service
 
-Your use of the EmailMeForm services is governed by our [Terms and Conditions](https://web.archive.org/web/20171106190354id_/https%3A//www.emailmeform.com/v-terms.html), which contains disclaimers, limitations of liability and a choice of California law and jurisdiction.
+Your use of the EmailMeForm services is governed by our [Terms and Conditions](https://web.archive.org/web/20180516092235id_/https%3A//www.emailmeform.com/v-terms.html), which contains disclaimers, limitations of liability and a choice of California law and jurisdiction.
