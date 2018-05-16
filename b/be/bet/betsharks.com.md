@@ -1,151 +1,100 @@
-> *The following text is extracted and transformed from the betsharks.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102003608id_/http%3A//www.betsharks.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betsharks.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Policy | Betsharks Privacy Policy
+# Legal Agreement
 
-At BetSharks.com, we respect your privacy and are committed to protecting your personal information. We have created this Privacy Policy to let you know what information we collect when you visit the BetSharks.com web site and online service (collectively, the "Service"), why we collect this information and how we use the collected information. This Privacy Policy is governed by our Terms and Conditions of Use posted at [www.betsharks.com](http://www.betsharks.com/ "www.betsharks.com"). This Privacy Policy does not govern other Websites that we maintain. By using the Service, you consent to the data practices prescribed in this Privacy Policy. We may periodically make changes to this Privacy Policy that we will include on this page. It is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often.
+**GoDaddy Respects Your Privacy**
 
-* **Information Collected**
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-We consider information that may be used to identify an individual, including, but not limited to, first and last name, credit card information, home or other physical address, email address, phone number or other contact information to be "Personal Information." You may be asked to provide Personal Information when you use our web site, register for an account or to use our services, download our software, correspond with us by email, or provide us with feedback regarding this web site or our products and services. The Personal Information that we collect may include: contact information, shipping information, billing information, transaction history, web site usage preferences, and feedback regarding our products and services. In addition, when you interact with the Service, our servers keep an activity log unique to you that collects the information including: source IP address, time of access, date of access, web page(s) visited, language use, and type of browser used. This is not considered Personal Information. In general, you can visit the BetSharks.com website without telling us who you are and without revealing any Personal Information about yourself. We do not collect Personal Information about you on the Service unless you voluntarily provide it to us.
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-* **Means of Collecting & Processing Data**
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-We may automatically collect certain data as discussed above and receive Personal Information about you where you provide such information through the Service or other communications and interactions with BetSharks.com. We may also receive Personal Information from online vendors and service providers that refer you to the BetSharks.com website. In addition, we may engage the services of third-party service providers to provide technical support, process your online transactions and maintain your online accounts. We will have access to any information you provide to such vendors, service providers and third-party e-commerce services so that we can process your transactions, maintain your accounts, meet certain business requirements and provide you with promotional offers and information regarding BetSharks.com and our products and services. We use this Personal Information to process your transactions and support your use of the Service. Subject to clauses 3 & 4 below. This information may be disclosed only to our staff and to third parties involved in the completion of your transactions or in support of your use of the Service.
+**Information Collection and Use**
 
-* **Information Use**
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-We use the Personal Information we collect from you to deliver the products and services you purchase, and to provide customer support, to process any of your online transactions, to answer your questions, and for any other purpose related to the operation of the Service and the programs, products and services offered on the BetSharks.com website. Your Personal Information may also be shared with our affiliates, subsidiaries or agents for technical support and to process transactions you initiate on the Service and deliver the products and services you purchase. From time-to-time, we may request information from you via surveys or contests. Participation in these surveys or contests is completely voluntary, and, therefore, you have the choice of whether or not to disclose such information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). By accepting any contest prize or winnings from us, you consent to use of your name and likeness for advertising and promotional purposes without additional compensation, except where prohibited by law. Unless you have elected not to receive promotional information, we may also use your Personal Information (including your email address) to provide you with information regarding our products, services and promotions. Personal Information as well as any other information collected on the Service may be disclosed to our staff, affiliates and/or agents so that they can contact you regarding our products, services, or promotional offers, respond to your requests, provide certain services to you and operate the Service. We will not sell, lease or share your Personal Information except as set forth in this Privacy Policy.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-* **Certain Excluded Disclosures**
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We may disclose your Personal Information as set out in our Terms and Conditions of Use (of the BetSharks.com website), if requested to do so by legal authorities or required to do so by law, or if we believe in good faith that such action is necessary to: (1) conform to applicable laws or to comply with any legal process served on us, the BetSharks.com website or the Service; (2) protect and defend our rights or property; or (3) act to protect the personal safety of users of the Service or the public. If we should ever file for bankruptcy or be acquired by a third party, merge with a third party, sell all or part of our assets, or otherwise transfer substantially all of our relevant assets to a third party, we are entitled to sell or share the Personal Information and all other information you have provided through the Service to such third party.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-* **Access**
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-If you are interested in confirming the accuracy of the Personal Information we have collected about you, or if you would like to update your Personal Information or delete your Personal Information, you may contact us at any time by sending an email to [support@betsharks.com](mailto:support@betsharks.com). If you have any complaint regarding our use of your Personal Information, you may send it through our customer service available by email at [support@betsharks.com](mailto:support@betsharks.com). If requested, we will change any information you have provided to us or mark any information to prohibit future use. You may "opt out" of receiving any promotional communications either by choosing to opt out where such option is made available on the BetSharks.com website or the Service or in an email you receive from us, or at any time by sending an email to support@betsharks.com.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-* **Cookies**
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-Cookies are small text files that are stored on your computer when you visit certain web pages that record your preferences. We use cookies to track use of the BetSharks.com website. We also may use cookies to improve the Service and make it easier for you to use. You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but if you prefer you can usually modify your browser setting to decline cookies. If you choose to decline cookies, you may not be able to fully experience the interactive features of the BetSharks.com website.
+**Security**
 
-    1. When do we use cookies?
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
+**Updating Your Information**
 
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-**During the registration process**   
-These cookies will hold information collected during your registration and will allow us to recognize you as a customer and provide you with the services you require. We may also use this data to better understand your interests while online and to enhance your visits to Our Platforms.
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-    2. On Our website
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
+      iii.      You may call us at: (480) 505-8800
 
+       iv.      You may fax us at: (480) 505-8844
 
-For visitors to our website, we use cookies to collect information. Our servers use two different types of cookies:  
-**A 'session-based' cookie:** This type of cookie is only allocated to your computer for the duration of your visit to our website. A session-based cookie helps you move around our website faster and, if you're a registered customer, it allows us to give you information that is more relevant to you. This cookie automatically expires when you close your browser.  
-**A 'persistent' cookie:** This type of cookie will remain on your computer for a period of time set for each cookie.  
-**Cookies allow us to:**
+**Sending Emails**
 
-    * Better understand your preferences and offer you more relevant promotional offers.
-    * Identify your preferences when customizing content or functionality for you.
-    * Confirm you are a registered user and save your log-in details when accessing certain Services on our website.
-    * Collect statistics on the use of our Services.
-    * We may also use cookies and web beacons to ensure that our mailing tools are working properly.
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
+**Compliance with Laws and Law Enforcement**
 
-**How can I refuse or opt out of cookies?**
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but, if you prefer, you can usually modify your browser setting to decline cookies. The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. If you choose to decline cookies, you may not be able to experience all of the interactive features on our sites.
+**Third Party Service Providers**
 
-* **CONSENT TO USE OF ELECTRONIC SERVICE PROVIDERS**
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-In order to play real money games on the Services, You will be required to send money to and receive money from us. We may use third-party electronic payment processors and/or financial institutions ('ESPs') to process such financial transactions. By accepting this Privacy Policy, You expressly consent to Personal Information necessary for the processing of transactions being shared with ESPs, including, where necessary, the transfer of information outside of your country. We take steps to ensure that our arrangements with ESPs protect your privacy.
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-* **CONSENT TO SECURITY REVIEW**
+**Supplementation of Information**
 
-We reserve the right to conduct a security review at any time to validate Your identity, age, the registration data provided by You and to verify Your use of the Services and Your financial transactions for potential breach of Our Terms and Conditions of Use and of applicable law. By accepting Our Terms and Conditions of Use You authorize Us, Our staff, agents and suppliers to use Your Personal Information and to disclose Your Personal Information to third parties for the purposes of validating the information You provide to Us in the course of using the Services, including, where necessary, the transfer of information outside of Your country. Security reviews may include but are not limited to ordering a credit report and/or otherwise verifying the information you provide against third-party databases. In addition, to facilitate these security reviews, you agree to provide such information or documentation as we may request.
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-* **Consent to Use of Anti-Cheating Software**
+**Contests/Surveys**
 
-Our software package used to access and use the BetSharks.com service ("Service") contains certain features designed to detect use of automated programs that enable artificial (non-human) intelligence to play on our site. Use of such "bot" software programs violates our Terms and Conditions of Use, and is detrimental to other players. By installing our software and using the Service, you consent to our software performing the functions described in this section. Our software may perform any or all of the following functions in order to detect the use of illicit automated programs and ensure that we maintain a "cheat free" environment for all users:   
-(1) scan your list of active software applications while you are using the Service,  
-(2) scan your list of active processes while you are using the Service,  
-(3) scan the files in your BetSharks.com-related program folders to ensure that only "non-hacked" versions of our software are being used. If any of the foregoing processes reveals a suspect application or process, our software may 
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-  * Scan the files associated with the suspect application or process and compile a composite mesh (i.e. a profile that characterizes the files associated with the application or process) to be matched against profiles for known illicit automated programs, and 
-  * Capture a screenshot of your desktop, and transmit these to BetSharks.com for review. Our software will not perform any random search of large portions of your hard drive or other files, and will not transmit any information to us or to any third party other than the information necessary to identify use of illicit automated program as described above. Our software will not alter any files or information on your computer, and will not interfere with the operation of any of your applications. You may terminate use of our software at any time by uninstalling the BetSharks.com software package.
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
+**Tell-A-Friend**
 
-* **Security**
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-We understand the importance of information security and the techniques needed to secure information. We store all of the Personal Information we receive directly from you in a password-protected database residing within our secure network behind active state-of-the-art firewall software. The BetSharks.com website and the Service support SSL Version 3 with 128 bit encryption.
+**What Happens to my Personal Information if I Opt Out?**
 
-* **Protection of Children**
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-The Service is not intended for or directed to persons under the age of 18. Any person who provides their information to us through any part of the Service represents to us that they are 18 years of age or older. It is our policy to endorse the Children's Online Privacy Protection Act of 1998 (US) and to use our best efforts to comply with that Act.
+**Transfer of Data Abroad**
 
-* **International Transfers**
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-Personal Information collected on the Service may be stored and processed in any country in which we or our affiliates, subsidiaries or agents maintain facilities, and by using the Service, you consent to any transfer of information outside of your country.
+**Changes in Our Practices**
 
-* **Third-Party Practices**
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-We cannot ensure the protection of any information or images that you provide to a third-party website that links to or from the BetSharks.com website or any information collected by any third party administering our affiliate program or any other program, since these third-party websites are owned and operated independent of us. Any information collected by these third parties is not governed by this Privacy Policy but by the privacy policy, if any, of such third party. If you have questions about a third party's information practices, please read its privacy policy. We assume no responsibility or liability whatsoever for the practices, actions or policies of such third parties, and we are not responsible for the content or privacy practices of such websites.
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
 
-* **Legal Disclaimer**
+**Contacting Our Site**
 
-The Service operates "AS-IS" and "AS-AVAILABLE," without liability of any kind. We are not responsible for events beyond our direct control. Because of the complex and constantly changing nature of our technology and business, we cannot guarantee nor do we represent that there will be error-free performance regarding the privacy of your Personal Information, and we will not be liable for any indirect, incidental, consequential or punitive damages relating to the use or release of Personal Information.
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
 
-* **Consent to Privacy Statement**
+* * *
 
-By using the Service, you agree to this Privacy Policy. This is our entire and exclusive Privacy Statement and it supersedes any earlier version. Our Terms and Conditions of Use at _[www.betsharks.com](http://www.betsharks.com/ "www.betsharks.com") _ take precedence over any conflicting provision of this Privacy Policy. We may occasionally update this Privacy Statement. We encourage you to periodically review this Privacy Policy at _[www.betsharks.com](http://www.betsharks.com/ "www.betsharks.com") _ your continued use of the Service constitutes your agreement to this Privacy Policy and any updates.
-
-* **Mergers and other Events Requiring Transfer**
-
-If we should ever file for bankruptcy, or become insolvent, or be acquired by a third party, merge with a third party, sell all or part of our assets, or transfer substantially all or part of our relevant assets to a third party, we are entitled to share the Personal Information and all other information You have provided through the Services to potential and subsequent business and merger partners.
-
-* **Consent to Privacy Policy**
-
-By clicking 'Submit' or 'I agree' during the registration process or by your continued use of the Services following the posting of this Privacy Policy (as applicable), You agree to this Privacy Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version. This Privacy Policy should be read in conjunction with Our Terms and Conditions of Use and any additional applicable terms posted on Our Platforms. We may periodically make changes to this Privacy Policy and will notify you of these changes by posting the modified terms on Our Platforms. We recommend that you revisit this Privacy Policy regularly.  
-**Credit Card Usage Policy**
-
-  1. All credit card transactions are charged in US dollars.
-  2. All players using a credit card to deposit at BetSharks.com agree to complete any reasonable verification requirements to prove that they are the authorized cardholder.
-
-
-
-As a verification procedure, some BetSharks.com credit card deposits may actually be charged to your card as a random amount below the actual value of your deposit. We may then ask you to provide us with this random amount (in $US) to verify the amount of the transaction, proving that you have access to the credit card statement and are most likely the authorized card owner. For example if a player submits a $100 deposit, we may actually charge the credit card $99.86, but deposit $100 to the player's BetSharks.com account. We will then ask the player exactly how much was charged to the card, and if they look at their statement they should be able to tell us the correct answer of $99.86.
-
-  3. Some credit card deposits may not be charged to your card immediately. As a fraud protection measure, in certain circumstances we will only pre-authorize a charge to your card and then the settle the transaction when we are satisfied that it is a legitimate charge. Many banks also have processing delays, especially if a charge is submitted on a weekend. It is not unusual to see delays of up to 5-10 days between when you submit a transaction to your BetSharks.com account and the charge actually appears on your credit card statement.
-  4. Players are emailed a transaction receipt for every credit card deposit made at BetSharks.com. Please keep a copy of these transaction receipts for your records.
-  5. Details of your BetSharks.com credit card transactions are displayed in the history tab of the cashier within the BetSharks.com software, and are also displayed on the player ledger page of the player admin.
-  6. BetSharks.com uses various billing companies and merchant accounts to process credit card transactions. These merchants do not take nor accept any responsibility if the cardholder is not satisfied with the services offered by BetSharks.com. Some of these companies are listed below for player reference.  
-
-    * Pic–Club
-    * Eco Card
-    * Visa Card
-    * Master Card
-    * EwalletExpress
-    * Lobanet
-    * Navaho
-    * PayXpert
-    * Entropay
-    * MoneyBookers.Com
-    * Postepay
-    * Giropay
-    * Nordea
-    * Cartasi
-    * ePay.bg
-    * sofort
-    * eps
-    * iDeal
-    * ENETS
-  7. Refund & Cancellation Policy 
-
-Players who make a deposit to a BetSharks.com account are under no obligation to make a purchase or play any games. You may request a refund at any time by sending an email to _support@betsharks.com_. Where possible will cancel the transaction or refund directly to the credit card used to make the account deposit, but in some cases we may not be able to do this due to credit card processing regulations. In the event that we are not able to cancel a transaction or refund directly to a credit card, a refund sent directly to a nominated bank account. Some verification from the cardholder may be required in the event that we are not able to refund directly to a card.
-
-  8. If you should have any queries related to a credit card transaction, please contact us. Most issues and questions regarding the use of credit cards, often arise due to a player's lack of knowledge of transaction processing procedures. We will always help wherever possible.
-  9. Remember that credit card fraud is not a game. If you dispute valid transactions at BetSharks.com we will track you down, prosecute you and recover all debts in full along with related fines and fees. It is against the law to dispute valid transactions and even if your bank allows you to reverse a transaction it does not mean you are legally authorized to do so.
-
-
-
-If BetSharks.com deems in its sole determination that, you are found to have cheated or attempted to defraud the Games, other players, or BetSharks.com in any way including but not limited to game manipulation or payment fraud, or if you make untrue and/or malicious comments with regard to the BetSharks.com's operation in any media or forum, BetSharks.com reserves the right (and you authorize the BetSharks.com) to publicize your actions together with your identity and e-mail address, as well as to circulate this information to other online gaming sites, banks, credit reporting agencies, credit card companies, law enforcement departments and other appropriate agencies. BetSharks.com may close any accounts, and forfeit account balances, that you have at BetSharks.com or at any other Company website, casino and/or business. Further, in the event of you disputing a credit card transaction made at BetSharks.com as being unauthorized, or made in a 'card not present' environment, BetSharks.com may charge an administration & recovery fee of up to $US 500.00 per disputed transaction if it is deemed by BetSharks.com that the transaction was authorized and legitimate. BetSharks.com may also engage the services of debt collection agencies to recover from you the amount of any disputed transactions or chargebacks, administration and recovery fees, and other associated credit card processing fees or fines.
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
