@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naukri.com privacy policy that was archived on 2016-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160714170139id_/https%3A//www.naukri.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naukri.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517004727id_/https%3A//www.naukri.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Naukri.com
 
