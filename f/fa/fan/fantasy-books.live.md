@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the fantasy-books.live privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705015310id_/https%3A//fantasy-books.live/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasy-books.live privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516181042id_/https%3A//fantasy-books.live/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fantasy-Books
-
-Other Additions to [Privacy Policy](http://www.iubenda.com/privacy-policy/7896563 "Privacy Policy additions") 
 
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -174,7 +172,7 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 **  
 If at any time you would like to unsubscribe from receiving future emails, you can email us at**
 
-jfantasybooks@gmail.com and we will promptly remove you from **ALL** correspondence.
+[[email protected]](https://fantasy-books.live/cdn-cgi/l/email-protection) and we will promptly remove you from **ALL** correspondence.
 
 **Personal Data collected for the following purposes and using the following services (Contacting the User)**
 
@@ -188,10 +186,8 @@ Google Analytics Personal Data: Cookies and Usage Data
 
 If there are any questions regarding this privacy policy, you may contact us using the information below.
 
-http://fantasy-books.live/contact-us/
+https://fantasy-books.live/contact-us/
 
 United States
-
-jfantasybooks@gmail.com
 
 Last Edited on 2016-08-15
