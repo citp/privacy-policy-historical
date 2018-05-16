@@ -1,90 +1,100 @@
-> *The following text is extracted and transformed from the runclick.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219225039id_/http%3A//www.universalmedia-online.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runclick.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# Legal Agreement
 
-PRIVACY POLICY
+**GoDaddy Respects Your Privacy**
 
-**BACKGROUND:**  
-This Policy applies as between you, the User of this and any web site you visit that is owned and operated by Bellara Corporation Pty Ltd T/as Universal Media-Online.com  This Policy applies to our use of any and all Data collected by us in relation to your use of the Web Site and any Services or Systems therein.
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-**1\. Definitions and Interpretation  **  
-In this Policy the following terms shall have the following meanings: 
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-"Account" means collectively the personal information, Payment Information and credentials used by Users to access Material and / or any communications System on the Web Site;
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-"Content" means any text, graphics, images, audio, video, software, data compilations and any other form of information capable of being stored in a computer that appears on or forms part of this Web Site;
+**Information Collection and Use**
 
-"Cookie" means a small text file placed on your computer by Universal Media-online.com when you visit certain parts of our Web Sites. This allows us to identify recurring visitors and to analyse their browsing habits within the Web Site. Where e-commerce facilities are provided, Cookies may be used to store your information. Further details are contained in Clause 10 and Schedule 1 of this Policy;
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-"Data" means collectively all information that you submit to the Web Site. This includes, but is not limited to, Account details and information submitted using any of our Services or Systems;
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-"Universal Media-online.com" means Universal Media-online.com;
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-"Service" means collectively any online facilities, tools, services or information that Universal Media-online.com makes available through the Web Site either now or in the future;
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-"System" means any online communications infrastructure that Universal Media-online.com makes available through the Web Site either now or in the future. This includes, but is not limited to, web-based email, message boards, live chat facilities and email links;
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-"User" / "Users" means any third party that accesses the Web Site and is not employed by Universal Media-online.com and acting in the course of their employment;
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-and "Web Site" means the website that you are currently using and any sub-domains of this site and all sites owned by Universal Media-online.com unless expressly excluded by their own individual terms and conditions.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-**2\. Data Collected**  
-Without limitation, any of the following Data may be collected:  
-2.1 name;  
-2.2 date of birth;  
-2.3 gender;  
-2.4 job title;  
-2.5 profession;  
-2.6 contact information such as email addresses and telephone numbers;  
-2.7 demographic information such as post code, preferences and interests;  
-2.8 financial information such as credit / debit card numbers;  
-2.9 IP address (automatically collected);  
-2.10 web browser type and version (automatically collected);  
-2.11 operating system (automatically collected);  
-2.12 a list of URLS starting with a referring site, your activity on this Web Site, and the site you exit to (automatically collected);   
-2.13 Cookie information (see clause 10 below).
+**Security**
 
-**3\. Our Use of Data**  
-3.1 Any personal Data you submit will be retained by Universal Media-online.com for as long as you use the Services and Systems provided on the Web Site. Data that you may submit through any communications System that we may provide may be retained for a longer period of up to 6 years.  
-3.2 Unless we are obliged or permitted by law to do so, and subject to Clause 4, your Data will not be disclosed to third parties. This does not include our affiliates and / or other companies within our group.  
-3.3 All personal Data is stored securely in accordance with the principles of the Data Protection Act 1998. For more details on security, see clause 9 below.  
-3.4 Any or all of the above Data may be required by us from time to time in order to provide you with the best possible service and experience when using our Web Site. Specifically, Data may be used by us for the following reasons:  
-3.4.1 internal record keeping;  
-3.4.2 improvement of our products / services;  
-3.4.3 transmission by email of promotional materials that may be of interest to you;  
-3.4.4 contact for market research purposes which may be done using email, telephone, fax or mail. Such information may be used to customise or update the Web Site.  
-3.5 You will receive ongoing email communication from us. Any products spoken of or promoted in the emails received may result in commissions to the company or individual promoting them. 
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-you can opt out of these emails at any time.
+**Updating Your Information**
 
-**4\. Third Party Web Sites and Services**  
-Universal Media-online.com may, from time to time, employ the services of other parties for dealing with matters that may include, but are not limited to, payment handling, delivery of purchased items, search engine facilities, advertising and marketing. The providers of such services may have access to certain personal Data provided by Users of this Web Site. Any Data used by such parties is used only to the extent required by them to perform the services that Universal Media-online.com requests. Any use for other purposes is strictly prohibited. Furthermore, any Data that is processed by third parties must be processed within the terms of this Policy and in accordance with the Data Protection Act 1998.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-**5\. Changes of Business Ownership and Control**  
-5.1 Universal Media-online.com may, from time to time, expand or reduce its business and this may involve the sale of certain divisions or the transfer of control of certain divisions to other parties. Data provided by Users will, where it is relevant to any division so transferred, be transferred along with that division and the new owner or newly controlling party will, under the terms of this Policy, be permitted to use the Data for the purposes for which it was supplied by you.  
-5.2 In the event that any Data submitted by Users will be transferred in such a manner, you will not be contacted in advance and informed of the changes. 
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-**6\. Controlling Access to your Data**  
-6.1 Wherever you are required to submit Data, you will be given options to restrict our use of that Data. This may include the following:  
-6.1.1 use of Data for direct marketing purposes; and  
-6.1.2 sharing Data with third parties.
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-**7\. Your Right to Withhold Information**  
-7.1 You may access certain areas of the Web Site without providing any Data at all. However, to use all Services and Systems available on the Web Site you may be required to submit Account information or other Data.  
-7.2 You may restrict your internet browser's use of Cookies. For more information see clause 10.4 below.
+      iii.      You may call us at: (480) 505-8800
 
-**8\. Accessing your own Data**  
-8.1 You may access your Account at any time to view or amend the Data. You may need to modify or update your Data if your circumstances change. Additional Data as to your marketing preferences may also be stored and you may change this at any time.  
-8.2 You have the right to ask for a copy of your personal Data on payment of a administration fee.
+       iv.      You may fax us at: (480) 505-8844
 
-**9\. Security**  
-9.1 Data security is of great importance to Universal Media-online.com and to protect your Data we have put in place suitable physical, electronic and managerial procedures to safeguard and secure Data collected online.
+**Sending Emails**
 
-**10\. Cookies**  
-10.1 Universal Media-online.com may set and access Cookies on your computer. Cookies that may be placed on your computer are detailed in Schedule 1 to this Policy.  
-10.2 A Cookie is a small file that resides on your computer's hard drive and often contains an anonymous unique identifier and is accessible only by the web site that placed it there, not any other sites.   
-10.3 You may delete Cookies, however you may loose any information that enables you to access the Web Site more quickly.  
-10.4 You can choose to enable or disable Cookies in your web browser. By default, your browser will accept Cookies, however this can be altered. For further details please consult the help menu in your browser. Disabling Cookies may prevent you from using the full range of Services available on the Web Site.
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-**11\. Changes to this Policy**  
-Universal Media-online.com reserves the right to change this Privacy Policy as we may deem necessary from time to time or as may be required by law. Any changes will be immediately posted on the Web Site and you are deemed to have accepted the terms of the Policy on your first use of the Web Site following the alterations.
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+
+**Compliance with Laws and Law Enforcement**
+
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+
+**Third Party Service Providers**
+
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
