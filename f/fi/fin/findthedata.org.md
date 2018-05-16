@@ -1,69 +1,100 @@
-> *The following text is extracted and transformed from the findthedata.org privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113185523id_/https%3A//www.graphiq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findthedata.org privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Graphiq | Privacy Policy
+# Legal Agreement
 
-Graphiq is a technology company focused on delivering knowledge through vivid, contextually-rich presentations, called Graphiq Visualizations. These Graphiq Visualizations put data into context for researchers, journalists and enterprise. This Privacy Policy exists to explain how this data and your information may be collected, used, and protected. This Privacy Policy may be updated by us from time to time in which case we will provide notice of material changes to this Privacy Policy by posting a notification on the Graphiq website.
+**GoDaddy Respects Your Privacy**
 
-Privacy Policy
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-EFFECTIVE DATE: May 10, 2017
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-This Privacy Policy explains how Graphiq Inc. (referred to in this Privacy Policy as Provider, we, us and our) collects, uses and discloses information we collect from you when you access, use or visit this website (the Website) and any other websites owned or operated by us. By accessing, visiting or using this Website, you expressly consent to our collection, storage, use and disclosure of your information as described in this Privacy Policy.   Please note that if you disagree with anything in this Privacy Policy, you must not use this Website.  This Privacy Policy is part of, and is governed by, the terms and conditions set forth in our Terms of Use located at https://www.graphiq.com/terms-and-conditions.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-1.              _Information Collected through this Website_.
+**Information Collection and Use**
 
-1.1           __Information You Directly and Voluntarily Provide to Us__. ** ** If you are a visitor to this Website, **** we may collect information that you provide to us when you communicate with any of our departments such as customer service or technical services. **  **You may also choose to provide your email address to us if you would like to receive additional information about this Website and the products and services that Provider offers, including if you wish to be notified when listings have changed, for confirmation emails, authenticating your account, accounting notices and other reasons including instances in which you have requested specific information or updates. 
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-1.2 _            _Information Automatically Collected Through this Website_.  _We may automatically collect information about you when you use this Website. For example, if you access this Website through a computer, we will automatically collect information such as your browser type and version, computer and connection information, IP address and standard web log information _._  If you access this Website through a mobile device, we may also be able to identify the location of your mobile device.   You may choose not to share your location details with us by adjusting your mobile device's location services settings.  For instructions on changing the relevant settings, please contact your service provider or device manufacturer.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-We may automatically collect information from you when you use this Website using cookies and other similar technologies, such as web beacons.  Cookies are small amounts of data that are stored within your computer's Internet browser and that are accessed and recorded by the websites that you visit so that they can recognize the same browser navigating online at a later time. __
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-Information that may be collected by cookies when you use this Website may include, without limitation: 
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-  * the pages you visit within this Website; 
-  * the date and time of your visit to this Website; 
-  * the amount of time you spend using this Website;
-  * the Internet Protocol (IP) address used to connect your computer to the Internet; and/or
-  * your computer and connection information such as your browser type and version, operating system and platform.
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-You can set your browser to reject cookies or to notify you when you are sent a cookie. However, if you disable cookies you may not be able to log in to this Website or to use certain features of this Website. To find out more about cookies, including how to see what cookies have been set on your device and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). 
+**Security**
 
-1.3           __Information Collected by Third Parties through__ __Third Party Links and Content__ ** _.   _**This Website may include links to other websites and other content from third party businesses.  These third party businesses may use cookies, web beacons or other similar technology to collect information about you.  Provider does not have access to or control over these third parties or the cookies, web beacons or other technology that these third parties may use.  We are not responsible for the privacy practices of these third parties or the content on any third party website.  You are encouraged to review the privacy policies of the different websites you visit and of the advertisers whose ads you may choose to click while on this Website.    We use third-party vendors, including Google, Inc. (Google), to serve advertisements and collect non-personally identifiable information when you visit this Website. These companies may use non-personally identifiable information (not including your name, address, human-readable email address, or telephone number) about your visits to this and other websites in order to provide advertisements on our sites, other websites, and other forms of media, including emails, about goods and services that may be of interest to you. If you would like more information about the practices of some of third party advertising companies that we work with and to learn which of these companies allow you to opt-out of this type of information collection, please click [here](http://www.networkadvertising.org/choices/).  To opt out of interest based ads served by Google, you can visit the [Google advertising opt-out page.](http://www.google.com/settings/ads)  See our detailed cookie policy located [here](https://www.graphiq.com/cookie-info) for further details about our use of cookies for analytics and advertising and for your opt-out choices. Email users wishing to disable our email web beacons should do so by turning images "off" in their email client (e.g., Outlook, Gmail). 
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-**Do Not Track Requests**.  Your Internet browser may allow you to adjust your browser settings so that do not track requests are sent to the websites that you visit.  However, we will not disable tracking technology that may be active on the Website in response to any do not track requests that we receive from your browser.
+**Updating Your Information**
 
-1.4 _            _Information Collected by__ __Third Party Analytics Services__ _._   We may work with third party analytics services to help us understand how this Website is being used, such as tracking the frequency and duration of use of this Website. We may use Google Analytics, a web analytics service provided by Google, to collect information about your use of this Website. Google and these analytics services may use cookies to collect information about the content you view, what websites you visit immediately prior to and after visiting this Website, and your system information and geographic information. The information generated by these cookies about your use of this Website will be transmitted to and stored by the applicable analytics services. The information collected by these analytics services allows us to analyze your use of this Website. 
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-1.5           __Information You Share on Third Party Websites or through Social Media Services__.  This Website may include links to third party websites and social media services where you will be able to post comments, stories, reviews or other information.  Your use of these third party websites and social media services may result in the collection or sharing of information about you by these third party websites and social media services. We encourage you to review the privacy policies and settings on the third party websites and social media services with which you interact to make sure you understand the information that may be collected, used, and shared by those third party websites and social media services. 
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-1.6           __Information You Post on this Website__.  If you post information on public areas of this Website that information may be collected and used by Provider, other users of this Website, and the public generally.  We strongly recommend that you do not post any information through this Website that allows strangers to identify or locate you or that you otherwise do not want to share with the public. 
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-2.              _How We Use the Information We Collect_.  We use the information we gather through this Website to help us better understand how this Website and our products and services are being used. By identifying patterns and trends in usage, we are able to better design this Website and our products and services to improve your experience.  We may also use this information to contact and communicate with you and to respond to your communications and requests. If you have provided your email to us, we may email you about products and services that we believe may be of interest to you. If you wish to opt-out of receiving these emails from us, please follow the instructions contained in each email you receive from us which will allow you to opt-out of receiving further email marketing communications from us.
+      iii.      You may call us at: (480) 505-8800
 
-3.              _How We Share Your Information with Third Parties_. We do not sell or rent user information we collect through this Website to any third parties for their own marketing purposes. In the event Provider wants to sell or rent your information to third parties for their own marketing purposes in the future, we will notify you and you will have an opportunity to affirmatively opt-in to receiving these third party marketing communications. We do share your information with third parties in some circumstances as follows: 
+       iv.      You may fax us at: (480) 505-8844
 
-3.1.         __Employees, Third-Party Processors and Third-Party Service Providers__. We will disclose your information to our employees, contractors, affiliates, distributors, dealers, vendors and suppliers (Service Providers) who provide certain services to us or on our behalf, such as operating and supporting this Website, analyzing data, or performing marketing or consulting services.  These Service Providers will only have access to the information needed to perform these limited functions on our behalf. 
+**Sending Emails**
 
-3.2           __Response to Subpoenas or Court Orders or to Protect Rights and to Comply with Our Policies__. To the extent permitted by law, we will disclose your information to government authorities or third parties if: (a) required to do so by law, or in response to a subpoena or court order; (b) we believe in our sole discretion that disclosure is reasonably necessary to protect against fraud, to protect the property or other rights of us or other users, third parties or the public at large; or (c) we believe that you have abused this Website by using it to attack other systems or to gain unauthorized access to any other system, to engage in spamming or otherwise to violate applicable laws. You should be aware that, following disclosure to any third party, your information may be accessible by others to the extent permitted or required by applicable law.
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-3.3           __Business Transfers; Bankruptcy__. In the event of a merger, acquisition, bankruptcy or other sale of all or a portion of our assets, any user information owned or controlled by us may be one of the assets transferred to third parties. We reserve the right, as part of this type of transaction, to transfer or assign your information and other information we have collected from users of this Website to third parties.  Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred user information will be subject to this Privacy Policy. However, any information you submit or that is collected after this type of transfer may be subject to a new privacy policy adopted by the successor entity.
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-3.4           __Aggregate Information__.  We may share information relating to users of this Website with affiliated or unaffiliated third parties on an anonymous, aggregate basis. While this information will not identify you personally, in some instances these third parties may be able to combine this aggregate information with other data they have about you, or that they receive from third parties, in a manner that allows them to identify you personally. _  _
+**Compliance with Laws and Law Enforcement**
 
-3.5           __Our Affiliates__. **  **We may share some or all of your information with our parent company, subsidiaries and corporate affiliates, joint venturers, or other companies under common control with us. These entities will not be permitted to use your information for their own marketing purposes. 
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-3.6 _            _DMCA Notices_. ****_ We may share your information with third parties when we forward Digital Millennium Copyright Act (DMCA) notifications, as described in our Terms of Use located at https://www.graphiq.com/terms-and-conditions.  DMCA notifications will be forwarded as submitted and we will not remove any personal information that may be included in the applicable notification. 
+**Third Party Service Providers**
 
-4.              _Children Under Age 13_. **** This Website is not intended for children under age 13, or for anyone under age 18 or the applicable age of majority without involvement of a parent or guardian.  We do not knowingly collect or distribute personal information from or about children under the age of 13. ****
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-5.              _Security_. **  **We implement industry standard security measures intended to protect against the loss, misuse and alteration of the information under our control. Please be aware that no data transmission over the Internet can be guaranteed to be 100% secure. As a result, Provider cannot guarantee or warrant the security of any information you transmit on or through this Website and you do so at your own risk.
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-6.              _Amendments to this Privacy Policy_. **** We will notify you of changes to this Privacy Policy by posting the amended terms on this Website at least thirty (30) days before the effective date of the changes.  If you have provided us with your email address we will also notify you of material changes to this Privacy Policy by sending an email at least thirty (30) days before the effective date of the changes to the email address you most recently provided to us. We encourage you to keep the email address you provide to us current, and to promptly notify us of any changes to your email address, so that you may receive any notices we send to you regarding material changes to this Privacy Policy. If you do not agree to the changes, you should discontinue your use of this Website prior to the time the modified privacy policy takes effect.  If you continue using this Website after the modified privacy policy takes effect, you will be bound by the modified privacy policy.
+**Supplementation of Information**
 
-7.              _Use of Information Outside Your Country of Residence_. **  **If you choose to use this Website or provide your information to us, your information may be transferred to, processed and maintained on servers or databases located outside of the country or jurisdiction where you are located.  Your agreement to this Privacy Policy followed by your submission of information through this Website represents your consent and agreement to these practices.  If you do not want your information transferred to or processed or maintained outside of the country or jurisdiction where you are located, you should not use this Website. **  **
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-8.              _Accessing, Changing and Managing Your Information_. **** If you have provided information that is made publicly available on this Website and you wish to remove it, you may edit the applicable listing or contact us directly in accordance with Section 9 below to remove that information. Please be aware that if the information has originated in a public database you will need to contact the source of this information to ensure this information does not continue to be displayed in the future. You may find the source of such information on the bottom of the listing page or by contacting us directly in accordance with Section 9 below.
+**Contests/Surveys**
 
-9.              _Contact Us_.  If you have any questions about this Privacy Policy you may contact us at privacy@graphiq.com, or by clicking [here.](http://support.graphiq.com/hc/en-us/requests/new)
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
