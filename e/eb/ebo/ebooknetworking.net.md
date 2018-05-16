@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebooknetworking.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119004750id_/http%3A//ebooknetworking.net/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebooknetworking.net privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516212644id_/http%3A//ebooknetworking.net/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Poilcy
 
