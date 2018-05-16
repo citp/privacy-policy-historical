@@ -1,134 +1,100 @@
-> *The following text is extracted and transformed from the cameo.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629013017id_/http%3A//www.evenues.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cameo.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Consumer Privacy Statement | eVenues.com
+# Legal Agreement
 
-This Privacy Statement covers the website www.evenues.com, which is owned and operated by Cameo Media LLC ("we" or "us"). Your data will be maintained by eVenues.com, in accordance with this Privacy Statement. Your privacy is important to us. We want to make your experience on the internet enjoyable and to foster your trust in e-commerce. 
+**GoDaddy Respects Your Privacy**
 
-This Privacy Statement is an integral part of our website and the services offered to you and cannot, in anyway, be separated from the User Agreement or from the membership, usage or transaction process. If you do not agree to our Privacy Statement in whole, you must not use our website. 
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-  1. What information do we collect online about you and how do we use it.
-  2. What personally identifiable information third parties collect through the website? 
-  3. What organization collects the information? 
-  4. How we use the information? 
-  5. With whom we may share user information? 
-  6. What choices are available to users regarding collection, use and distribution of the information? 
-  7. What types of security procedures are in place to protect the loss, misuse or alteration of information under our control? 
-  8. How users can correct any inaccuracies in the information? 
-  9. How we notify you of material changes to this Privacy Statement? 
-  10. What is the effective date of this Privacy Statement? 
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
+**Information Collection and Use**
 
-If users have questions or concerns regarding this statement, they should contact evenues.com customer service by email [here](https://web.archive.org/web/20100629013017id_/http%3A//www.evenues.com/ContactUs.aspx).
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-###  Information That You Provide Us
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-####  Member Registration
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-When you become an evenues.com member you provide your name, address, telephone number, email address, a unique login name, password, and password validation. This information is collected on the registration form for several reasons including: (1) personal identification; (2) to complete space profile; (3) space rental reservation; (4) to allow us to contact you for customer service, if necessary; (5) to customize the content of our website to meet your specific needs; and (6) to make product improvements to eVenues.com. In addition, your email address is collected to send you an email message confirming your new member registration and each reservation you transact online. As a member you will occasionally receive updates from us about special offers, new eVenues.com services, and other noteworthy news items. However, you may always decline to receive these emails. Please see our Opt Out policy described below. 
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-####  Member Profile
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-Members can choose to provide us with venue or space preferences, credit card billing information, and other personal information. This information is primarily used to assist members in making reservations quickly. 
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-####  Reservation Orders
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-When you book a reservation through our website, we ask you to provide personally identifiable information by filling out and submitting an online reservation form if you are not an eVenues.com venue provider member already. This information includes your name, telephone number, email address, and your credit card number, expiration date and billing address. We use this information to process and book your reservation and to notify you of your reservation status by email.
+**Security**
 
-We also ask you for personally identifiable information about other people for whom you are booking reservations. We use this information only to reserve the venue or space, and, if you request it, to send each person an email notification of the reservation. 
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-###  Information Use
+**Updating Your Information**
 
-####  Cookies
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-Cookies are small pieces of information stored on your computer tied to information about you. We use both session ID cookies and persistent cookies. For the session ID cookie, once you close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on your hard drive for an extended period of time. Persistent cookies can be removed by following the Web browser help file directions. 
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-We use cookies in several ways. We use cookies to allow you to login without having to type your login name each time. Instead, only your password is needed to access the system. Most Web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. If you reject the cookie, you may still use our website. 
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-####  Log Files
+      iii.      You may call us at: (480) 505-8800
 
-Like most standard website servers, eVenues.com uses log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, diagnose problems with our servers and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. 
+       iv.      You may fax us at: (480) 505-8844
 
-Please be aware that we have links on our website that may lead to other sites. These sites may collect personally identifiable information about you. This Privacy Statement does not cover the information practices or policies of such websites. 
+**Sending Emails**
 
-###  Communications from the Site
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-####  Special Offers and Updates
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Choice and Opt-out sections. 
+**Compliance with Laws and Law Enforcement**
 
-####  Service Announcements
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature. 
+**Third Party Service Providers**
 
-####  Customer Service
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email, fax or phone, in accordance with the user's wishes. 
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-###  Legal Disclaimer
+**Supplementation of Information**
 
-Though we make every effort to preserve user privacy, we may be required by law to disclose information you have provided in obtaining our venue reservation services. We may also disclose information against someone who poses a threat to our interests (such as customer fraud) or whose activities could bring harm to others. In addition, it may be necessary for us to provide customer information to third parties, such as credit card companies, for the purpose of resolving disputes that arise in the normal course of business. 
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-###  Aggregate Information (non-personally identifiable)
+**Contests/Surveys**
 
-Though we make every effort to preserve user privacy, we may be required by law to disclose information you have provided in obtaining our venue reservation services. We may also disclose information against someone who poses a threat to our interests (such as customer fraud) or whose activities could bring harm to others. In addition, it may be necessary for us to provide customer information to third parties, such as credit card companies, for the purpose of resolving disputes that arise in the normal course of business. 
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-###  Third Party Intermediaries
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-We use an outside credit card processing company and bank check processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. 
+**Tell-A-Friend**
 
-###  Suppliers
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-We provide information about meeting venues either reserved or purchased on eVenues.com to the venue suppliers who fulfill your space reservation. Although we might offer meeting services from caterers, restaurants, photocopy services, office rental services and other suppliers that are reputable companies, we have not placed limitations on these suppliers from using or disclosing your information without your permission. Therefore, we encourage you to review the information privacy practices of any meeting suppliers whose products you purchase on eVenues.com. In addition, these meeting service suppliers may also contact you as necessary to obtain additional information about your confirmed reservation. 
+**What Happens to my Personal Information if I Opt Out?**
 
-We will occasionally share aggregated information with our service providers. This information does not contain any personally identifiable information and is used to develop featured programs and content that will be of interest to our members and website visitors. 
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-We may contract a reputable third party to facilitate the distribution of survey, promotion, or sweepstakes programs. Upon completion of these projects, all information is returned to us. 
+**Transfer of Data Abroad**
 
-###  Affiliated Websites
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-If you were referred to eVenues.com from another website, we may provide personally identifiable information about you to the referring website. Although we believe that the website companies from which you were referred to us are reputable companies, we have not place limitations on the referring websites companies from using or disclosing your information without your permission. Therefore, we encourage you to review the information privacy practices of any website that referred you to eVenues.com. 
+**Changes in Our Practices**
 
-###  Choice/Opt-Out
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-Our users are given the opportunity to opt-out of having their information used for purposes not directly related to our website at the point where we ask for information. For example, our order form has an opt-out mechanism so users who buy a product from us, but don't want any marketing material, can keep their email address and phone number off of our lists. 
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
 
-Users of our website are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party. 
+**Contacting Our Site**
 
-###  Links
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
 
-This website contains links to other sites. Please be aware that we, eVenues.com is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our website and to read the privacy statements of each and every website that collects personally identifiable information. This Privacy Statement applies solely to information collected by this website. 
+* * *
 
-###  Surveys and Contests
-
-From time-to-time our website requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this website. Though we may use an intermediary to conduct these surveys or contests, they may not use user's personally identifiable information for any secondary purposes. 
-
-###  Security
-
-We take precaution to protect our user's information. When users submit sensitive information via the website, their information is protected both online and off-line. 
-
-When our reservation order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - Secure Socket Layer (SSL). While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just surfing. 
-
-While we use SSL encryption to protect sensitive information online, we also protect user-information off-line. All of our user's information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Finally, the servers that store personally identifiable information are in a secure environment, in a locked facility. 
-
-If users have any questions about the security at our website, users can send an email to [Customer Care ](https://web.archive.org/web/20100629013017id_/http%3A//www.evenues.com/ContactUs.aspx)
-
-In order for this website to properly fulfill its obligation to users, it is necessary for us to supplement the information we receive with information from third party sources. 
-
-###  Correcting/Updating/Deleting/Deactivating Personal Information
-
-If a user's personally identifiable information (such as zip code, phone, email or postal address) changes or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate user's personally identifiable information. Members can change their personal information on the member profile page of our website. Members and users can all email our Customer Support at [ Customer Care ](https://web.archive.org/web/20100629013017id_/http%3A//www.evenues.com/ContactUs.aspx)or by contacting us by telephone or postal mail at the contact information listed below. 
-
-###  Notification of Material Changes
-
-If we decide to make any material change to our Privacy Statement, we will post those changes to this Privacy Statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the Privacy Statement under which the information was collected. 
-
-If, however, we are going to use user's personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on this website notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
-
-###  Contact Information
-
-If users have any questions or suggestions regarding our Privacy Statement, please contact us at: [Customer Care](https://web.archive.org/web/20100629013017id_/http%3A//www.evenues.com/ContactUs.aspx).
-
-eVenues Inc. 2448 76th Ave. SE Suite 209 Mercer Island, WA 98040 USA. 
-
-This Privacy Statement is effective as of June 18, 2008.
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
