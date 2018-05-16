@@ -1,115 +1,100 @@
-> *The following text is extracted and transformed from the hoop365.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921013450id_/http%3A//www.hoop365.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoop365.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# www.HOOP365.com Privacy Policy - www.HOOP365.com
+# Legal Agreement
 
-City Pro Media Ltd., which operates the Web site Hoop365.com (“Hoop365.com”), is committed to protecting the privacy and security of its online visitors. We are also extremely sensitive to families’ concerns about their children’s personal information and safety. We want you to know about and understand the measures we have taken to keep Hoop365.com a safe and secure environment for everyone. This privacy statement tells you how and why we collect information from you, and how we use that information.
+**GoDaddy Respects Your Privacy**
 
-We encourage our visitors to read through and understand our privacy statement. We may update it from time to time to address new issues or reflect changes on our site. Please refer to this privacy statement regularly.
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-If you have any questions or concerns about the statement, please contact us at [Legal@hoop365.com](mailto:Legal@hoop365.com)
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-**Information You Provide to Us:**
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-Hoop365.com endeavors to provide you quality information that is tailored to your needs. In order to do that we sometimes need to ask you for information so that we can provide the kind of content you want, when you want it. We want to customize our site for you so that it meets your needs as fully as possible – this includes customizing articles, discussions, banners and more. We may ask you to register or provide personal information when you visit certain areas of Hoop365.com, enter a contest, play games, complete surveys, subscribe to a service or to a newsletter, submit content, or ask us for information.
+**Information Collection and Use**
 
-We consider the following to be personally identifiable information: first and last name, e-mail address, street address, zip code, phone number, and credit card number. We only collect personally identifiable information from you when you voluntarily submit it. Providing your personal information to Hoop365.com is optional. If you choose not to register or provide personal information, you can still use our site but you may not have access to certain areas and/or types of information.
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-Depending on the particular Hoop365.com site with which you register, we may ask for your name, age, address and/or zip code, e-mail address, name of school or district, and/or grade level. If you are under 18 years of age, we will also ask you to provide your parent’s or guardian’s e-mail address. We may also ask you to choose a user name and password to use when you log in to the site.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-**How We Use the Information You Provide:**
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We use the personal and demographic information you provide us to tailor the content, services and advertising on Hoop365.com to meet your current and future needs. Use of this data allows us to customize your experience by showing you content according to your preferences. From time to time, we may share the personal information you provide to us with our agents, third parties who are affiliated with our site, or with carefully selected companies or other parties so you can receive information that we believe may be of interest to you, or so that we may protect the user experience at Hoop365.com. We may also use this information to inform you of product upgrades, special offers, updated information, and/or new services. We will also use your contact information to ship purchases made at Hoop365.com. Financial information that you share is only used to check your qualifications. If a user is suspected of violating our Terms of Use, Hoop365.com reserves the right to use and/or disclose personal information of a user in order to fully and properly address the violation that has occurred.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-If the information provided is from or about an individual under 18 years of age, we will use and/or disclose the information with the utmost sensitivity and care, and in accordance with all applicable federal and state laws. See below.
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-**Choice/Opt-out:**
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-Hoop365.com gives you the opportunity to opt-out of having your personal information used for purposes not directly related to your use of the Hoop365.com sites. If you register for any of the Hoop365.com programs or services but do not want your data shared with third parties for marketing or promotional purposes, you can opt-out at any time by sending us an e-mail at [Admin@Hoop365.com](mailto:Admin@Hoop365.com). To help us update your records correctly, please indicate in your e-mail if you are opting out of postal mail, e-mail or telemarketing communication. Please also provide your registration details including first name, last name, street address, city, state, postal code, and country.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-**We Protect Children’s Privacy:**
+**Security**
 
-We are working hard to provide you with the best information and the highest quality interaction on the Internet in an environment that is safe. In compliance with COPPA (Children’s Online Privacy Protection Act), we have adopted the following policies to keep kids safe:
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-1\. We will NOT knowingly collect, use or distribute personally identifiable information from children under the age of 13 without prior verifiable consent from a parent or guardian.
+**Updating Your Information**
 
-2\. We will NOT knowingly collect, use or distribute personally identifiable information from teens between the ages of 13 and 17 without first notifying a parent or guardian.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-3\. Personally identifiable information we collect from children under the age of 13 will be used solely by Hoop365.com or its agents for internal purposes only and will not be sold or otherwise distributed to third parties.
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-4\. We will NOT knowingly allow a child under the age of 13 access to chat rooms, message boards, e-mail accounts, or other services within Hoop365.com that would allow them to publicly post or otherwise distribute personally identifiable information without prior verifiable consent from a parent or guardian.
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-5\. We will NOT knowingly allow a teen between the ages of 13 and 17 access to chat rooms, message boards, e-mail accounts, or other services within Hoop365.com that would allow them to publicly post or otherwise distribute personally identifiable information without first notifying a parent or guardian.
+      iii.      You may call us at: (480) 505-8800
 
-6\. We will NOT knowingly ask a child or teen to divulge more information than is needed to participate in any activity, game, or service.
+       iv.      You may fax us at: (480) 505-8844
 
-7\. We will NOT knowingly provide any direct link to Web sites that are unsuitable for children or teens.
+**Sending Emails**
 
-8\. Hoop365.com will not advertise on any site that does not comply with the regulations set forth under COPPA.
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-9\. We will advise children under the age of 13 that they MUST obtain permission from their parent or guardian before sharing ANY personal information.
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-10\. Upon request, Hoop365.com will provide a parent or guardian with a description of the information that may have been provided about their child or teen during a registration process for a program or service of our site. Hoop365.com only asks for a child’s or teen’s personal information if it is necessary to participate in the program or service. The site administrator also has access to the registration data but it is only used for site maintenance. Registration data that is provided about children or teens is not used for marketing and is never shared with any other party. If you would like to view your child’s registration data, request a change, or request that we delete any of your child’s personal information, please send an e-mail to [Legal@Hoop365.com](mailto:Legal@Hoop365.com) which includes your child’s first and last name, school zip code, and your first and last name.
+**Compliance with Laws and Law Enforcement**
 
-Hoop365.com urges parents to instruct their children to never give out their real names, addresses or phone numbers without permission when using the Internet. We recognize a special obligation to protect personal information obtained from children.
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-If you have any questions about our Kids’ Privacy Policy please e-mail Hoop365.com at [Legal@Hoop365.com](mailto:Legal@Hoop365.com) .
+**Third Party Service Providers**
 
-**Notification and Verifiable Parental Consent:**
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-Certain areas and activities within Hoop365.com ask visitors under the age of 18 to provide personal information such as their name, date of birth, e-mail address or school name. We only ask for the information that is necessary to participate in the particular activity.
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-Before any personally identifiable information is collected, we will do our best to notify the parent or guardian that their child or teen is participating. Notification will include the exact nature and intended use of the information we are collecting, as well as the opportunity for the parent or guardian to prevent the use of the information and the child’s participation in the activity. If the child is under 13 years of age we require the parent or guardian to provide verifiable parental consent such as an e-mail to Hoop365.com. If the individual is a teen between the ages of 13 and 17, Hoop365.com will notify the parent or guardian that his or her teen is participating and sharing personal information but we do not require consent.
+**Supplementation of Information**
 
-When verifiable parental consent has not yet been obtained, we will use online contact information (such as an e-mail address) only as is appropriate to:
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-  * request the name or online contact information of a parent or guardian for the purpose of obtaining verifiable parental consent or providing notification to the parent or guardian;
-  * respond directly to the child’s or teen’s request on a one-time basis (for example, to provide assistance with a particular study question), not using that information to re-contact the child or teen for any other purpose;
-  * respond more than once directly to a specific request from the child (for example, to satisfy the request for a newsletter subscription), not using that information to re-contact the child or teen for any other purpose.
+**Contests/Surveys**
 
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-**Third-Party Advertising:**
+**Tell-A-Friend**
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-**Third-Party Cookies:**
+**What Happens to my Personal Information if I Opt Out?**
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-**What are Cookies?**
+**Transfer of Data Abroad**
 
-The use of cookies is common in the Internet industry; you’ll find them used on Hoop365.com, as you will at other major sites. “Cookies” are small text files written to your computer. They make our site easier for you to use because they save your preferences while you are at our sites (although we do not save passwords in cookies). Cookies also help us know which areas are your favorites, which need a bit of improvement, and what technologies and Internet services our visitors are using. Knowing this information helps us continually improve the online experience for our visitors and members.
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-The non-personally identifiable information we track with cookies is anonymous and is not used to identify, or lead us back to, any particular visitor. Visitors to Hoop365.com may have the option of disabling cookies via their browser preferences (most browsers are initially set up to accept cookies).
+**Changes in Our Practices**
 
-While browsing through Hoop365.com, you may get cookies from our advertisers or sponsors. Hoop365.com and its affiliated sites do not control these cookies.
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-What are IP Addresses?
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
 
-An IP address is a number automatically assigned to your computer whenever you use the World Wide Web. Web servers – the big computers that “serve up” Web pages – automatically identify your computer by its IP address.
+**Contacting Our Site**
 
-Hoop365.com collects IP addresses for system administration; to report aggregate information to our advertisers, sponsors, and partners; and to audit the use of our site and to ensure compliance with the Terms of Use (and to address violations of the Terms of Use). When visitors request pages from Hoop365.com sites, our servers log the guests’ IP addresses. We normally do not link IP addresses to anything personally identifiable. This means that a visitor’s session will be logged, but the visitor remains anonymous to us. We can and will use IP addresses (and other personal information, but only to the extent necessary) to identify a visitor when we feel it is necessary to enforce compliance with our rules or our Terms of Use, or to protect our service, site, customers, or other individuals.
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
 
-Some features within Hoop365.com, such as certain message boards, may display IP addresses along with the message-poster’s visitor name and message. You should review each feature prior to use and only use those that disclose information you are comfortable sharing.
+* * *
 
-**A Notice About Our Advertisers:**
-
-Hoop365.com uses outside advertising companies to display ads on our site. These ads may contain cookies. While cookies received with banner ads are collected by our ad company, Hoop365.com does NOT work with any partners who do not comply with our privacy policy guidelines.
-
-**A Notice About External Links:**
-
-Occasionally, you will find links from Hoop365.com to independently owned, controlled, and/or managed sites whose content we believe will be of possible interest and value to our visitors. Additionally, you’ll see links from advertisers, sponsors, and other partners who may use Hoop365.com’s logo as part of a co-branding agreement.
-
-In many cases, these links represent cooperative projects or mutual links established with the organizations connected with these sites. We don’t control the content of these links. These other sites may send you their own cookies, collect data, or solicit personal information. While we identify sponsor and advertiser areas of our site, we do not control these cookies or the content of these third parties.
-
-Hoop365.com has partnered with other companies to provide certain services. In some cases, while you may see Hoop365.com’s logo on another company’s site. Hoop365.com does not share any of your personally identifiable information with these partners and they do not share any information back with us. Once you leave our servers (you can generally tell where you are by checking the URL in the location bar on your browser), the use of any information you provide is governed by the privacy policy of the operator of the site you are visiting. That policy may differ from ours. If you can’t find the privacy policy of any of these sites via a link from that site’s Home page, you should contact the site directly for more information.
-
-We specifically recommend that children check with their parents or teachers before clicking on to any new sites.
-
-**Public Forums:**
-
-Hoop365.com makes chat rooms, forums, message boards, and other groups available to its users. Please remember that any information that is disclosed in these areas becomes public information. Consequently, you should exercise caution when deciding to disclose your personal information.
-
-To the extent that portions of Hoop365.com, such as chat rooms or bulletin boards, provide users an opportunity to post and exchange information, ideas and opinions (“Postings”), BE ADVISED THAT Hoop365.COM MAY NOT SCREEN, EDIT, OR REVIEW POSTINGS PRIOR TO THEIR APPEARANCE ON Hoop365.COM, and Postings do not necessarily reflect the views of Hoop365.com. Hoop365.com reserves the right to monitor all Postings and to remove any which it considers offensive or otherwise in violation of our legal Terms and Conditions. Please read these Terms of Use according to which Hoop365.com will in no way be responsible or liable for the Postings. Here are more legal notices regarding Postings: You must have all necessary rights in and to all Postings you provide and all material they contain; your Postings must not infringe any proprietary or other rights of third parties; your Postings must not contain any viruses or other contaminating or destructive devices or features; your Postings must not contain any defamatory, indecent, offensive, tortuous, or otherwise unlawful material or content; and your Postings must not be used to carry out or solicit any unlawful activity and/or be used to make commercial solicitations. Also, you authorize Hoop365.com to use and/or authorize others to use all or part of your Postings in any manner, format, or medium that Hoop365.com or such other parties see fit; and you shall have no claim or other recourse against Hoop365.com for infringement of any proprietary right in Postings. Violating these terms will subject the user to investigation and enforcement to ensure compliance; personal information may be used and/or disclosed by Hoop365.com in this process, to the extent necessary to ensure a safe and enjoyable experience at Hoop365.com.
-
-If you have any questions about this privacy statement, the practices of Hoop365.com, or your dealings with Hoop365.com, please e-mail us at [Legal@Hoop365.com](mailto:Legal@Hoop365.com).
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
