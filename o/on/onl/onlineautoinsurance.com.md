@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlineautoinsurance.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701042812id_/http%3A//www.onlineautoinsurance.com/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineautoinsurance.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516084911id_/http%3A//www.onlineautoinsurance.com/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Online Auto Insurance
 
@@ -8,7 +8,7 @@ Fort Lee, NJ 07024-3701
 ben@onlineautoinsurance.com  
 Privacy Statement (Last Update 01/07/2015)
 
-This privacy policy applies to [www.onlineautoinsurance.com](http://www.onlineautoinsurance.com/) owned and operated by TZ Insurance Solutions LLC. This privacy policy describes how TZ Insurance Solutions LLC collects and uses the personal information you provide on our web site: [www.onlineautoinsurance.com](http://www.onlineautoinsurance.com/).  It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy policy applies to [www.onlineautoinsurance.com](https://web.archive.org/) owned and operated by TZ Insurance Solutions LLC. This privacy policy describes how TZ Insurance Solutions LLC collects and uses the personal information you provide on our web site: [www.onlineautoinsurance.com](https://web.archive.org/).  It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 Information Collection and Use
 
