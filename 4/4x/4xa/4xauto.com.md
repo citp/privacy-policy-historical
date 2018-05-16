@@ -1,59 +1,100 @@
-> *The following text is extracted and transformed from the 4xauto.com privacy policy that was archived on 2017-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170918112112id_/http%3A//4xauto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4xauto.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Policy | 4XAUTO
+# Legal Agreement
 
-This Privacy Policy is in application to 4XAuto. This would impart how 4XAuto collects uses and shares the information from or regarding you as you visit a site, gives information on how advertisements are done, both on 4XAuto and other websites, and how information is collected based on interactions with the online ads. In addition to the Notice, depending on the relationship with 4XAuto, you may receive and be under the coverage of 4XAuto, other privacy disclosures within account opening documents and other privacy and security rules as applicable to the relevant affiliate.
+**GoDaddy Respects Your Privacy**
 
-**Information Gathering**
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-When you visit 4XAuto, categories of information may be gathered, including personal information that are provided via forms, applications, surveys, or other online fields. We can also collect information about you from online browsing and transactions, including preferences pages visited and technical information regarding your settings. Personal information means identifiable information and does not include aggregated date that the site could create or compile from various sources, including transactions and accounts. This information which does not single out individual customers is used by our site business purposes, including offering services or products, research, marketing or analyzing market trends and other purposes in congruence to existing laws.
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-**Cookies**
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-These are pieces of information stored on the computer upon use. 4XAuto or the third party service providers, as well as advertising service providers, may place cookies or flash objects on the hard drive for security purposes for the facilitation of site navigation and personalization of the experience.
+**Information Collection and Use**
 
-In visiting 4XAuto, we use cookies to go over your experience of the site. In applying for a product on one of our sites, we would use cookies to remember you and to provide information on products and services best fitting your needs. If you have an account with us and you access your accounts online, we will maintain the information about your visits to personalize your browsing experience, and the services and products offered. If you do not have an account with us and wish not for us to maintain the information, delete the cookies. For this, you would need to follow the browsers instructions for deleting and disabling cookies.
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-**IP Addresses**
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-The IP address is a number assigned to the Internet accessing network or computer. Visitors IP addresses are stored in our log as they visit the site. These IP address are collected for administration of the system, reporting aggregate information, and auditing Site visits. In addition, some features of our site display IP address together with name and message, like on forums.
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-**Advertising**
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-The site advertises on pages within the site as well as other websites not affiliated with 4XAuto. Information collected in our advertising service providers though cookies and other technologies would include the number of people who look at each page on the site, browsing patterns within the site, search engine referrals, browsing patterns in 4XAuto and responses to promotions and advertisements on the sites where we advertise.
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-**Online Surveys**
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-Time to time, you can be asked to do online surveys. You do not have the requirement to do such; but these are used to gather information to better address your needs. Based on this, we can keep you updated on account and service.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-**Planning Tools**
+**Security**
 
-4XAuto gives users visiting websites with many planning tools, including mortgage, savings and plans for retirement. The information placed into these tools could be used for future access and use. We will inform you when the information is to be planned to stored, and you can have the option for this information not to be saved.
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-**Using and Sharing Information**
+**Updating Your Information**
 
-There would be times that 4XAuto could make information available to third parties that could be companies not related through common ownership or control, including service providers, insurance agencies, credit bureaus, retailers, membership organizations, government agencies, legal investigators, courts and other non-affiliated third parties as requested by you or your authorized representative, or otherwise when required or allowed by law. Unless differently describe in the Notice, for US account holders, we will use and share any information collected from or about you covered by the Notice in keeping with the Privacy Notice , providing consumers additional direct marketing choices.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-**Social Media Connection**
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-4XAuto provides experiences on social media platforms, enabling online sharing and collaboration with users. Any content posted, including pictures, information, opinions and other personal information made available to these platforms is subject to the Terms of Use and Privacy Policies of the Platforms. Kindly refer to these to understand you rights in keeping with the content.
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-**Accuracy of Information**
+      iii.      You may call us at: (480) 505-8800
 
-Keeping account information accurate and updated is essential. If the account information is inaccurate or incomplete, kindly use the Contact Us link on our site, call to inform us at the correct address or telephone numbers for changes in the account statements, records, online or other account materials.
+       iv.      You may fax us at: (480) 505-8844
 
-**Linking to Other Sites**
+**Sending Emails**
 
-We could provide link to sites not related to our service, including merchants and credit bureaus. If you follow links to websites not controlled by 4XAuto, you should go over the privacy policies and other terms, as they could diverge from other sites. 4XAuto will not guarantee and will not be responsible for the security or privacy of the said websites, including the completeness or accuracy of said information.
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-**Children’s Privacy**
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-Most of our publications and web sites are intended for adults. Some web sites and publications, however, are intended for teens 13 and older but may include features or material that may be appealing to children under the age of 13. We are strongly committed to protecting the safety and privacy of children who visit our Web sites. We do not knowingly collect personal information online from children under 13. Many of our sites include bulletin boards and other features that we believe are unsuitable for children under 13 and which are not necessarily monitored. We encourage all parents to talk to their kids about online safety and to monitor their children’s use of the Internet.
+**Compliance with Laws and Law Enforcement**
 
-**Change in Company’s Ownership**
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-If by chance another company obtains the assets in the business of 4XAuto, we reserve inclusion of the stored personal identification information along with the assets transferred to the new corporate owners.
+**Third Party Service Providers**
 
-**Service Customization**
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-Target advertising to users is provided by the information collected about users. This is to allow all the pertinent advertising to be displayed. Customization of certain website features we provide is done with the information that is collected.
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
