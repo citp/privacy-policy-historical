@@ -1,88 +1,100 @@
-> *The following text is extracted and transformed from the guruji.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023062733id_/http%3A//www.guruji.com/en/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guruji.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Guruji.com : Privacy Policy
+# Legal Agreement
 
-|  [ Guruji Home](https://web.archive.org/web/20121023062733id_/http%3A//www.guruji.com/en/index.html)  
----  
-[ About Guruji](https://web.archive.org/web/20121023062733id_/http%3A//www.guruji.com/en/Aboutguruji.html)  
-[ Management Team](https://web.archive.org/web/20121023062733id_/http%3A//www.guruji.com/en/Management.html)  
-[ Investors](https://web.archive.org/web/20121023062733id_/http%3A//www.guruji.com/en/Investor.html)  
-[ Contact Us](https://web.archive.org/web/20121023062733id_/http%3A//www.guruji.com/en/ContactUs.html)  
-[ FAQ](https://web.archive.org/web/20121023062733id_/http%3A//www.guruji.com/en/WebmasterFAQ.html)  
-[ Career](https://web.archive.org/web/20121023062733id_/http%3A//www.guruji.com/en/Career.html)  
-[ In The News](https://web.archive.org/web/20121023062733id_/http%3A//www.guruji.com/en/Inthenews.html)  
-[ Utilities](http://dir.guruji.com/misc/utilities.php)  
-[ Webmasters](https://web.archive.org/web/20121023062733id_/http%3A//www.guruji.com/en/webmasters.html)  
-**Privacy Policy**  
-  | 
+**GoDaddy Respects Your Privacy**
 
-Guruji.com Software Private Ltd. ("Guruji.com") respects your privacy. This Privacy Policy applies to all the online services provided by Guruji.com. This policy provides the manner your data is collected and used by Guruji.com. You are advised to please read the policy. By accessing the services provided by Guruji.com, you agree to the collection and use of your data by Guruji.com in the manner provided in this policy. 
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-The policy does not apply to the procedures and practices followed by entities that are not managed, owned or controlled by Guruji.com or to the people that are not engaged, employed or managed by Guruji.com. 
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-  
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
+**Information Collection and Use**
 
-**Information Collected and its Use**
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-  * **Information you provide** \- Based on the service you use, you might be providing the information such as your name (including first and last name), email address, mobile phone number, contact address, demographic profile, and preferences. We may combine the information you submit under your account with information from other Guruji services or third parties in order to provide you with a better experience and to improve the quality of our services.
-  * **Cookies** \- When you visit Guruji.com or one of our network partners, we send one or more cookies, a small file containing a set of characters, to your computer or other device that uniquely identifies your session in web browser. We use this data to improve our search and advertising services.
-  * **Log information** \- When you access Guruji.com services, our web servers automatically record information that your browser sends to a website you visit. These server logs may includes the information as your web request, IP address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. We may also collect information such as the pages you visit, the links you access on our site etc
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-**How is the information collected?**
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-  * Anonymous traffic information is collected from you when you visit our site.
-  * We collect the personally identifiable information from you when you register with us. We use this information to contact you about the services you are using on our site and services in which you have expressed interest. We will collect personally identifiable information about you only as part of a voluntary registration process, on-line survey, or contest or any combination thereof.
-  * Our advertisers may collect anonymous traffic information from their own assigned cookies to your browser. We are the sole owners of your information collected by us at several different points on our Website.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
+**Security**
 
-**How is the information used?**
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-  * Providing our online services, customizing the content displayed and advertising.
-  * Auditing, and analysis in order to improve our services.
-  * Communication such as new features released, newsletters, special offers, password reminders and registration confirmation.
-  * Track your entries and progress in contests. 
-  * Protecting the rights or property of Guruji.com or our users.
-  * Developing new services. 
+**Updating Your Information**
 
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-**Sharing of the Information** : We do not share or rent your email addresses with third parties except our agents and alliance partners. 
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-**Agents**  
-We use the services of our enabling partners such as outside shipping companies, resellers, business associates to fulfill orders. These entities do not retain, store, share or use personally identifiable information for any other purposes. 
+      iii.      You may call us at: (480) 505-8800
 
-**Alliance Partners**  
-We will share your information with our Alliance Partners who work with us or on our behalf to help provide you the services. 
+       iv.      You may fax us at: (480) 505-8844
 
-We may share email addresses with our agents and alliance partners. The agents and alliance partners use the email address to confirm the deliveries, send notices and offer services related to the service. 
+**Sending Emails**
 
-  
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-We do not rent, sell or share your personal information and we will not disclose any of your personally identifiable information to third parties unless: 
+**Compliance with Laws and Law Enforcement**
 
-  * we have your permission.
-  * to provide products or services you have requested
-  * to help investigations, prevent or take action regarding unlawful and illegal activities, suspected fraud, potential threat to the safety or security of any person, violations of Guruji.com terms of use or to defend against legal claims
-  * in special circumstances such as compliance with subpoenas, court orders, requests/order from legal authorities or law enforcement agencies requiring such disclosure
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
+**Third Party Service Providers**
 
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-We reserve the right to disclose your personally identifiable and email address information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site. We share your information with advertisers on an aggregate basis only. 
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-**Choice of Providing the Information** Supplying personally identifiable information is entirely voluntary. You are not required to register with us in order to use our sites. However, we offer some services only to visitors who do register. 
+**Supplementation of Information**
 
-**Protection and Control of the Information** To protect against the loss, misuse and alteration of the information under our control, we have in place appropriate physical, electronic and managerial procedures. For example, our servers are accessible only to authorized personnel and that your information is shared with respective personnel on need to know basis to complete the transaction and to provide the services requested by you.   
-Although we will endeavor to safeguard the confidentiality of your personally identifiable information, transmissions made by means of the Internet cannot be made absolutely secure. By using this site, you agree that we will have no liability for disclosure of your information due to errors in transmission or unauthorized acts of third parties. 
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-**Regarding Policy Updates**   
-We reserve the right to change or update this policy at any time by placing a prominent notice on our site. Such changes shall be effective immediately upon posting to Guruji.com site.   
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, or by means of a notice on our site.   
-If we decide to make changes in our email practices, we will post those changes to this privacy policy, the homepage, and other places we deem appropriate. 
+**Contests/Surveys**
 
-**Contacting Guruji.com**   
-If you have any queries or concerns about this privacy policy, please free to contact us at the details provided in the [Contacts Us](https://web.archive.org/web/20121023062733id_/http%3A//www.guruji.com/en/ContactUs.html) page on Guruji.com site. 
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
