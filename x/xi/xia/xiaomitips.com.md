@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xiaomitips.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115125844id_/http%3A//xiaomitips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xiaomitips.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516225302id_/http%3A//xiaomitips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Xiaomi Tips
 
