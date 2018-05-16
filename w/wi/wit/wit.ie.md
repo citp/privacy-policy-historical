@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wit.ie privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214234918id_/https%3A//www.wit.ie/about_wit/documents_and_policies/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wit.ie privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516214104id_/https%3A//www.wit.ie/about_wit/documents_and_policies/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Waterford Institute of Technology
 
@@ -25,15 +25,15 @@ Information on internet traffic is collected routinely by the Institute and also
 
 
 
-This website uses cookies.  By using this website and agreeing to this policy, you consent to Waterford Institute of Technology  use of cookies in accordance with the terms of this policy.
+This website uses cookies. By using this website and agreeing to this policy, you consent to Waterford Institute of Technology use of cookies in accordance with the terms of this policy.
 
-Cookies are files sent by web servers to web browsers, and stored by the web browsers. The information is then sent back to the server each time the browser requests a page from the server.  This enables a web server to identify and track web browsers.There are two main kinds of cookies: session cookies and persistent cookies.
+Cookies are files sent by web servers to web browsers, and stored by the web browsers. The information is then sent back to the server each time the browser requests a page from the server. This enables a web server to identify and track web browsers.There are two main kinds of cookies: session cookies and persistent cookies.
 
 Session cookies are deleted from your computer when you close your browser, whereas persistent cookies remain stored on your computer until deleted, or until they reach their expiry date.
 
 ### **Cookies on our website**  
 
-### Waterford Institute of Technology  uses the following cookies on this website, for the following purposes:
+### Waterford Institute of Technology uses the following cookies on this website, for the following purposes:
 
 * * *
 
@@ -80,4 +80,4 @@ Waterford Institute of Technology
 Waterford
 
 Tel.: +353 51 302608  
-Email: [](mailto:foi@wit.ie)[dataprotection@wit.ie](mailto:dataprotection@wit.ie)
+Email: [](https://web.archive.org/cdn-cgi/l/email-protection#187e7771586f716c36717d)[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bdd9dcc9dccdcfd2c9d8dec9d4d2d3fdcad4c993d4d8)
