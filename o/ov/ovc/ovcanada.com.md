@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ovcanada.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228131427id_/http%3A//www.ovcanada.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ovcanada.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516022743id_/http%3A//ovcanada.com/privacy.aspx) for the most accurate reproduction.*
 
 # OVCanada.com
 
