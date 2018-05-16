@@ -1,76 +1,100 @@
-> *The following text is extracted and transformed from the mybitcoinrewards.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702012845id_/https%3A//bitbillions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybitcoinrewards.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Policy
+# Legal Agreement
 
-Effective April 1, 2013
+**GoDaddy Respects Your Privacy**
 
-Global Bitbillions Group Incorporated and its affiliates and subsidiaries (“Global Bitbillions Group Incorporated”) are committed to respecting your privacy. We’ve structured our web site so that, in general, you can visit Global Bitbillions Group Incorporated on the web without identifying yourself or revealing any personal information. Once you choose to provide us personally identifiable information (any information by which you can be identified), you can be assured that it will only be used to support your customer relationship with Global Bitbillions Group Incorporated. 
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-This statement regarding the privacy of the personally identifiable information you provide online covers five main areas: Awareness, Choice, Accuracy, Access, Security, and Third Party Links. 
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-## AWARENESS
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-Global Bitbillions Group Incorporated provides this Online Privacy Statement to make you aware of our privacy policy and practices and of the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and from the bottom of every page on our web site. 
+**Information Collection and Use**
 
-#### What we collect
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-In common with other web sites, log files are stored on the web server saving details such as the visitor’s IP address, browser type, referring page and time of visit. 
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-Cookies may be used to remember visitor preferences when interacting with the web site. 
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-Where registration is required, the visitor’s email and a username will be stored on the server. 
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-Upon logging onto our web server, our web server automatically recognizes your user name and your email address. We will collect the domain name from which you log on, aggregate information on what pages you access or visit, user-specific information on what pages you access or visit and information volunteered by you (such as survey information and/or site registrations). 
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-We do not collect your email address unless you contact us by email or volunteer your email address and other personal information. 
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-Global Bitbillions Group Incorporated web sites use “cookies” to enable you to sign in to our services and to help personalize your online experience. As you browse, we may install cookies (tiny text files stored on your hard disk by a web page server) in your browser. Cookies cannot harm your computer and they do not contain any personally identifiable information. One of the primary purposes of cookies is to store your preferences and other information on your computer in order to save you time by eliminating the need to repeatedly enter the same information and to display your personalized content on your later visits to web sites. Cookies also help us to improve our site and to deliver a better and more personalized service. Among other things, they enable us: 
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-  * To estimate our audience size and usage pattern
-  * To store information about your preferences, and so allow us to customize our site according to your individual interests
-  * To speed up your searches
-  * To recognize you when you return to our site
+**Security**
 
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
+**Updating Your Information**
 
-On some Global Bitbillions Group Incorporated web sites, you can order products or services, make requests and register to receive materials. The types of personal information that may be collected on these pages are name, customer number, contact and billing information, transaction and credit card information. 
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-In order to tailor our subsequent communications to you and continuously improve our products and services, we may also ask you to voluntarily provide us with information regarding your personal or professional interests, demographics, experience with our products and contact preferences. 
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-#### How We Use Your Information
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-Global Bitbillions Group Incorporated uses your information to better understand your needs and provide you with better service. Specifically, we use your information to help you complete a transaction, to communicate back to you, to update you on services and benefits, and to personalize our web sites for you. Credit card and bank account numbers are used only for payment processing and are not retained for other purposes. 
+      iii.      You may call us at: (480) 505-8800
 
-From time to time, we may also use your information to contact you for market research or to provide you with marketing information we think would be of particular interest. At a minimum, we will always give you the opportunity to opt out of receiving such direct marketing or market research contact. We will also follow local requirements, such as allowing you to opt in before receiving unsolicited contact, where applicable. Data collected online may also be combined with information you provide when you enroll with Global Bitbillions Group Incorporated. 
+       iv.      You may fax us at: (480) 505-8844
 
-#### Whom We Share Your Information With
+**Sending Emails**
 
-Global Bitbillions Group Incorporated will not sell, rent or lease your personally identifiable information to others unless we have your permission or are required by law. We will only share the personal data you provide online with other Global Bitbillions Group Incorporated entities and/or business partners who are acting on our behalf for the uses described above. Such Global Bitbillions Group Incorporated entities and/or business partners, including those in the United States and/or any other countries, are governed by our privacy policies with respect to the use of this data and are bound by the appropriate confidentiality agreements. 
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-## CHOICE
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-Global Bitbillions Group Incorporated will not use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without first letting you know and offering you a choice. As previously stated, we will also provide you the opportunity to let us know if you do not wish to receive unsolicited direct marketing materials from us and we will do everything we can to honor such requests. Your permission is always secured first, should we ever share your information with third parties that are not acting on our behalf and governed by our privacy policy. 
+**Compliance with Laws and Law Enforcement**
 
-## ACCURACY & ACCESS
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-Global Bitbillions Group Incorporated strives to keep your personally identifiable information accurate and secure. We do not provide access to your information online. In order to update or correct your information with Global Bitbillions Group Incorporated it will be necessary for you to contact Global Bitbillions Group Incorporated directly through the methods listed below. To protect your privacy and security, upon contacting us we will also take reasonable steps to verify your identity before granting you access or enabling you to make corrections. 
+**Third Party Service Providers**
 
-## SECURITY
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-Global Bitbillions Group Incorporated is committed to ensuring the security of your information. To prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online. We use the latest in encryption technology when collecting or transferring sensitive data, such as credit card and bank account information. 
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-## International Use
+**Supplementation of Information**
 
-Information that is submitted to Global Bitbillions Group Incorporated’s web Sites will be collected, processed, stored, disclosed, and disposed of in accordance with applicable law in the United States of America. If you are a non-USA user, you agree and acknowledge that we may collect and use your personal data and disclose it outside your resident jurisdiction, as discussed in “Whom We Share Your Information With” above. In addition, such information may be stored on servers located outside your resident jurisdiction. United States of America law may not provide the degree of protection for information that is available in other countries. By providing us with your information, you acknowledge that you have read this policy, understand it, agree to its terms and consent to the transfer of such information outside your resident jurisdiction. If you do not agree to this policy, please do not use Global Bitbillions Group Incorporated web sites. 
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-#### Future Developments
+**Contests/Surveys**
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future, we will post the policy changes to our web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our web site periodically. We will only use data collected after a policy has changed for the new purposes. 
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-## THIRD PARTY LINKS
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-Global Bitbillions Group Incorporated may at times provide links to other web sites. These sites are not controlled by Global Bitbillions Group Incorporated and we are not responsible for any content contained on any such web site. While we try to link only to sites that share our high standards and respect for privacy, Global Bitbillions Group Incorporated is not responsible for the privacy practices employed by other sites. We recommend that you review the privacy and security policies of each web site you visit. 
+**Tell-A-Friend**
 
-## Contact Us
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-If you have comments or questions about our privacy policy, please contact us at bitbillions@gmail.com
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
