@@ -1,93 +1,100 @@
-> *The following text is extracted and transformed from the ibeatyou.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225060426id_/http%3A//photobucket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibeatyou.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Policy | Photobucket
+# Legal Agreement
 
-## Last revised May 26, 2015
+**GoDaddy Respects Your Privacy**
 
-Thank you for visiting Photobucket.com (the "Site") and reviewing the Privacy Policy of Photobucket.com, Inc. ("Photobucket" or "we" or "us"). It is important to us that you understand what information we collect when you visit the Site either from a computer or a mobile device and what we may do with that information, so we have laid it all out here for you. This Privacy Policy also covers the collection of data from applications on mobile devices.
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-By using this Site you consent to the terms of this Privacy Policy, and you signify your assent to all of the terms of this Privacy Policy and our [Terms of Use](https://web.archive.org/terms). If you do not agree with any terms of this Privacy Policy or our [Terms of Use](https://web.archive.org/terms), please do not use this Site or submit any personal information. Please take care to read our Privacy Policy to be sure you are informed about how your information may be used. Please also read our [Terms of Use](https://web.archive.org/terms).
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-### Getting to Know You
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-We collect and store a wide variety of information you submit to Photobucket or give us in the other ways described below. Some is personal information and some isn't.
+**Information Collection and Use**
 
-  * **What Is "Personally Identifiable Information" (or PII)?** Information that identifies you, such as your name, email address or image, or that can be used to identify you when combined with other information, is "personally identifiable information."
-  * **When Do We Ask for PII?**
-    * If you choose to register to use the Site, we may collect your name, email address, and date of birth during the registration process.
-    * Photobucket may ask you for other PII from time to time, such as contact information (like your mailing address and phone number), or demographic information (like your zip/postal code or region, hometown, gender, or education level). We may ask for this information from you in order for you to use the Site beyond just browsing, or for the purposes disclosed to you at the time such other PII is collected.
-  * **What Isn't Personal Information?** Information we can gather from your visit that doesn't identify you personally, like your IP address, your operating system, your browser type and language, the date and time of your visit, as well as information about your ISP, referring URL, the search term that led you to the Site, your geographic region, the type of content you view, etc. We may do this by assigning your computer one or more cookies which may collect information about how you use Photobucket; we may use standard Internet tools, such web beacons or cookies, which collect non-PII and track your use of our website.
-  * **Do I Have A Choice?** While you're not required to provide PII to visit the Site, many of our cool features may not be available to you if you choose not to create an account with us or, at other times, not to provide requested information.
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-### How We Use What We Know
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-  * **How Do We Use PII?** We use the PII we request at registration in order to provide you with the services offered on the Site, including image hosting and sharing. There are some circumstances when we will share PII with trusted third party business partners, which may include advertisers, and others: 
-    * Photobucket may share PII with our trusted third party business partners. They are obligated to keep your information confidential. They may present you with offers pertaining to products and services which you may have requested or other offers for products and services that you will find of interest.
-    * To our trusted service providers working on Photobucket's behalf to deliver services, such as sending emails related to the Site or your account. These service providers are under confidentiality obligations with Photobucket, and do not have any independent right to share this information;
-    * With other companies within our corporate family; and
-    * Photobucket may disclose your PII: (a) when we are legally required to do so; (b) to protect the interests or safety of Photobucket or Site users; (c) to another company if we are bought, or if we discontinue operations.
-  * **How Do We Use Your Email Address?** Photobucket will use your email address to contact you to manage your account. Unless you tell us not to, Photobucket will also: send you marketing and promotional materials regarding Photobucket and its features; and send you marketing and promotional materials that promote third party products, including from affiliates, third parties and trusted marketing partners with whom we have shared your PII.
-  * **What If I Don't Want Email From Photobucket?** If you don't want to get emails from us (except related to customer service or account issues), you may uncheck the "Allow Photobucket to send me newsletter updates" box in Account Settings under Privacy Settings. You may also simply click the "unsubscribe" link in any of the emails you receive.
-  * **What if I Don't Want Email From Third Parties?** If you would like to opt-out from Photobucket sharing your PII with third party business partners for email marketing purposes, please go to your Account settings or [click here](https://web.archive.org/settings/notifications) and un-check the box for 3rd party marketing emails.
-  * **How Do We Use Your Information For Advertising?** Photobucket will target advertising based on personal information provided by users and inferred from site usage. We may also work with companies that use cookies to help provide better-targeted advertising. This may include gender, age, or geographic data. Photobucket does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. These advertisers may place or utilize their own unique cookies, pixels, or web beacons, and may collect non-PII about your visit to the Site, such as your IP address and the number of times your have viewed an ad. Photobucket is not responsible for the collection of these cookies and is not responsible for what the ad service providers do with the information they collect. We may bundle and share the non-personal information we collect from you and other users with advertisers, third parties, trusted partners and affiliates so that they display advertising that better suits the interests of users of our Site. We may aggregate your PII with information about others. In that case we will make your information non-personally identifiable by removing your name and other characteristics that would identify it as you. We may use and/or share the resulting non-PII with third parties.
-  * **Do We Use Analytics Companies?** We may provide some non-personal information to others who help us understand how you use the Site.
-  * **Do We Use Cookies?** We use both HTTP (or HTML) cookies and Flash cookies to collect non personal information, help smooth the upload process, remember you on future visits, better understand how users engage with the Site so we can enhance the user experience, and maintain volume on video playback. Most browsers accept HTTP cookies automatically, but allow you to disable them. You can manage Flash cookies with a tool found on [Adobe's web site](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). However, if you disable cookies on your browser, you will not be able to log in to the Site.
-  * **How Can I Opt-Out of Having Non-PII Shared?** You may choose to opt-out from allowing Photobucket to provide non-PII to certain partners. Visit networkadvertising.org, aboutads.info, http://liveramp.com/opt_out/, youronlinechoices.com, and [Truste](http://mobile.truste.com/mobile/preferences/0/?pid=millennial01&aid=millennial02\)) to make informed decisions about your online and mobile privacy and to opt-out of sharing your non-PII.
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-### Going Public and Being Social
+**Security**
 
-There are some things you may choose to do on or by accessing the Site which may be public. Here are some examples:
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-  * **Public Postings.** Photographs and videos which you submit for use on public areas on Photobucket are considered public information and may be copied or further distributed by others in accordance with the Terms of Use. If you submit any personal or PII for display in public areas, other people who visit the Site may see it. If geotags are included in your postings, those will be viewable, too, but we offer you the ability to disable this information in the Account Settings of your account. Alternatively, if the option exists, you might want to disable the location settings on your camera or phone.
-  * **Public Comments.** Your comments may be seen by others. If you submit any personal or PII in a comment, other people who visit the Site may see it.
-  * **Connecting With Social Media.** If you link your Photobucket account to or sign in to your account through third-party social networking sites, such as Facebook, or third-party social media plug-ins and applications, you are allowing us to have access to both PII and non-PII from your social media profile. That PII **may be publicly viewed and may possibly be used by other members of these sites.**
-  * **Clicking Through.** This Privacy Policy applies to Photobucket and our Site only. Our Site contains links to or integrations with other sites, whose information practices may be different than ours. Before you click through to another site, you should read that site's privacy notice, since we have no control over and take no responsibility for information that is submitted to, or collected by other sites.
-  * **Ad Postings.** The Site may feature ads, including ads served by others to our Site. These advertisers and ad servers may place or utilize their own unique cookies, pixels or web beacons, and may collect non-PII about your visit to the Site, such as your IP address and the number of times you have viewed the ad. Photobucket is not responsible for the collection of these cookies and is not responsible for what the ad service providers do with the information they collect.
+**Updating Your Information**
 
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-### Is There Anything Else I Need to Know?
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-  * **Non-US Users.** Your information may be stored in the United States or other countries where the data protection and other laws may not be as comprehensive as those in your country (especially for users in the EEA). By using this site you consent to your information being collected, used and transferred as set forth in this Privacy Policy. Information transferred to or stored in the United States may be subject to access requests from U.S. governments, courts, law enforcement officials and national security authorities in the United States according to United States laws.
-  * **13 and Up.** If you are under the age of 13, we're sorry, but you can't register at the Site. On the bright side, Photobucket will never knowingly collect personal information from children under the age of 13. If a child under 13 has provided us with personal information, his or her parent or guardian may contact us for the purpose of deleting this information.
-  * **Changing Our Policy.** This Privacy Policy is subject to change. We will prominently post a notice on the Site when there are material changes in the way we treat PII. You should periodically check back and review this Privacy Policy so that you always will know what information we collect, how we use it, and with whom we share it.
+      iii.      You may call us at: (480) 505-8800
 
+       iv.      You may fax us at: (480) 505-8844
 
+**Sending Emails**
 
-### Security Measures
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-While Photobucket has security measures to help protect the information under our control, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure.
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-  * Photobucket tries to protect your personal information and ensure the security of your communications on our systems, by maintaining physical, organizational and technological safeguards (appropriate to the sensitivity of such information) designed to protect it against unauthorized use, disclosure or access of the personal information we collect on this Site. However, we cannot ensure or warrant that any information you transmit to us will stay safe and secure and you do so at your own risk.
-  * Your information may be stored in whole or in part on equipment or in facilities leased or licensed from others. Although Photobucket tries to keep your information safe, it relies on the statements of those vendors regarding the safety and security of their storage equipment and services as part of its evaluation. **By using the Site, you agree that Photobucket is not responsible if the storage equipment and services provided by others aren't working like they are supposed to, and that you will have to seek any remedies from those providers, not Photobucket.**
+**Compliance with Laws and Law Enforcement**
 
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
+**Third Party Service Providers**
 
-### Retention and Deletion
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-We keep your personal information only so long as we need it for the purposes for which it was collected, for the products and services that you are using, or to meet any legal requirements. We have retention standards, which meet these requirements. We destroy your personal information when it is no longer needed.
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-### Contact Us
+**Supplementation of Information**
 
-Don't Be Shy! If you have any questions regarding this Privacy Policy or information that you have submitted to us or if you would like to do any of the following:
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-  * see personal information that you have already sent us so that you can correct or update it, or delete your personal information from our files;
-  * if your child under 13 has sent us personal information, delete that personal information from our files;
-  * ask that we not send you mailings or otherwise contact you; or
-  * report any violation of this Privacy Policy
+**Contests/Surveys**
 
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-you can contact us at:
+**Tell-A-Friend**
 
-  * **URL:** <http://support.photobucket.com/home>
-  * **Email:** [support@photobucket.com](mailto:support@photobucket.com)
-  * **Address:** Photobucket.com, Inc. 2399 Blake St. Suite 160, Denver, CO 80205
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
+**What Happens to my Personal Information if I Opt Out?**
 
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-[View our Terms of Use here](https://web.archive.org/terms)
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
