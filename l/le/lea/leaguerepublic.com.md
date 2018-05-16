@@ -1,76 +1,127 @@
-> *The following text is extracted and transformed from the leaguerepublic.com privacy policy that was archived on 2017-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170419073334id_/https%3A//www.leaguerepublic.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leaguerepublic.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516164058id_/https%3A//www.leaguerepublic.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - LeagueRepublic
 
-This policy gives the following information about personal data:
+### LeagueRepublic and GDPR
 
-  * what information we collect from you;
-  * where we keep it;
-  * why we collect it;
-  * how we use it; and
-  * your rights in relation to it.
+Please also see the LeagueRepublic [ Terms and Conditions](https://web.archive.org/terms.html). Our terms and conditions require all leagues and clubs who use LeagueRepublic within the EU to be GDPR compliant. Leagues are responsible for managing the "individual rights" of the individuals they are keeping data for in their leagues. 
 
+User's are not permitted to have a LeagueRepublic account (login / sign-in) unless they are 16 years old or over.
 
+#### LeagueRepublic holds the following data on an individual with a LeagueRepublic account:
 
-### We may collect and process the following data about you
-
-  * information that you provide by filling in forms on our site www.leaguerepublic.com ("LR"). This includes information you provided at the time of registering to use certain elements of our site, subscribing to our services, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by LR, and when you report a problem with our site;
-  * if you contact us, we may keep a record of that correspondence;
-  * we may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them;
-  * details of transactions you carry out through our site or via other means (e.g. telephone orders) and of the fulfilment of your orders;
-  * you can access the site home page and browse the site without disclosing personal information. We collect standard Internet log information and details of visitor behaviour patterns to help us identify things such as the number of visitors to the various parts of our site. We collect this information in a way which does not identify anyone (please see our Cookie Section below for more details); and
-  * communication and usage data, whether this is required for our own billing purposes or otherwise and the resources that you access. We do not collect the content of emails that you have sent or received or keep a record of individual web pages that you have visited.
+  * Name
+  * Email address
+  * Encrypted login credentials
+  * Support questions history
 
 
+
+##### This information is held by LeagueRepublic as the "Controller" for the purposes of:
+
+  * Allowing the user to sign into the LeagueRepublic system
+  * Provide the user with a platform for customer chat and support
+
+
+
+##### This data is passed to the following external systems:
+
+  * [Intercom](https://www.intercom.com/) platform for customer support, [Intercom privacy](https://www.intercom.com/terms-and-policies#privacy)
+  * [Stripe](https://stripe.com/) to manage online payments, [Stripe privacy](https://stripe.com/privacy)
+
+
+
+We do not pass this information to anyone else for marketing or any other purposes, so there is not an opt-in for any additional options.
+
+#### LeagueRepublic holds data on league members on behalf of leagues
+
+As a "Processor" LeagueRepublic holds personal data of league members who do not have a LeagueRepublic account, on behalf of leagues. For example, a League Administrator could create a "Player" in the system who won't have a LeagueRepublic account and therefore won't be able to sign-in to the LeagueRepublic system. 
+
+##### The following personal data of league members without LeagueRepublic accounts:
+
+  * Email address
+  * Mobile phone number
+
+
+
+can be used by the LeagueRepublic to provide email notifications (after an opt-in) and result entry SMS message prompts. It will not be used for marketing purposes.
+
+##### LeagueRepublic will not use the following personal data of league members collected by leagues for any purpose:
+
+  * Date Of Birth
+  * League reference numbers
+  * Address
+
+
+
+### Leagues and clubs are "Controllers" for the purposes of GDPR
+
+A league may use many systems to manage their sports league and personal details about their members can cross many systems, some of which may be paper or spreadsheet based. For the purposes of GDPR a league is a "Controller" of this information and if it resides in the LeagueRepublic system then LeagueRepublic is a "Processor" of this information. 
+
+#### Leagues use LeagueRepublic to manage their day to day activities including:
+
+  * Scheduling
+  * Results management
+  * Statistics management
+  * People management for administrators, referees and players
+
+
+
+#### Minimum personal data held within LeagueRepublic about league members in the league:
+
+  * Name
+
+
+
+#### And optionally:
+
+  * Email address
+  * Date Of Birth
+  * League reference numbers
+  * Telephone contact details
+  * Address
+
+
+
+### LeagueRepublic provides leagues with the following tools
+
+#### Display the league's own privacy policy
+
+You can upload your own privacy policy under 'Site Builder > Documents'. In here you can state how and what personal data you collect and how you store, what you do with it, i.e. your purpose and which third parties you share the data with.
+
+#### Leagues must comply with the GDPR "Individual Rights"
+
+##### Right to be informed
+
+This can be implemented in the league's privacy policy.
+
+If the league uses the LeagueRepublic Player Registration system then consent can be obtained by requiring league members to accept the league's terms / privacy policy when registering for the league.
+
+##### Right of access
+
+Individuals have a right to access their personal data. LeagueRepublic provide a web page detailing personal information and related league sports data about an individual which a league can give to that individual.
+
+##### Right to rectification
+
+All data relating to an individual can be corrected by any League Administrator within a league.
+
+##### Right to erasure
+
+We provide the tools to completely erase a person in your league. There is no way to revert this. All personal data will be deleted and the player or person will have a first name and last name anonymised.
+
+##### Right to restrict process
+
+We provide the tools to restrict the processing of an individual. Their personal details will not be viewable within the administration system or the public sites and their first name and last name are anonymised.
 
 ### Where we store your personal data
 
-Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+All LeagueRepublic data is stored using "[Amazon Web Services](https://aws.amazon.com/) (AWS)", they are a subsidiary of Amazon.com that provides a cloud computing platform for LeagueRepublic. [AWS Privacy](https://aws.amazon.com/privacy/)
 
-Unfortunately, the transmission of information via the Internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
-
-### We use information held about you in the following ways:
-
-  * to provide you with information, products or services that you request from us or which we feel may interest you (where you have consented to be contacted for such purposes);
-  * to carry out our obligations arising from any contracts entered into between you and us;
-  * to allow you to participate in any interactive features of our services, if you choose to do so;
-  * to ensure that content from our site is presented in the most effective manner for you and for your computer; and
-  * to notify you about changes to our service.
-
-
-
-We may also use your data to provide you with information about goods and services which may be of interest to you and we may contact you about these by post or telephone.
-
-If you do not want us to use your data in this way, please Contact Us
-
-### Disclosure of your information
-
-We may disclose your personal information to third parties:
-
-  * in order to fulfil your order for services;
-  * to enable us to provide maintenance, engineering or troubleshooting services to you in connection with goods or services supplied to you;
-  * in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;
-  * if LR or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets;
-  * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use or terms and conditions of supply and other agreements; or
-  * to protect the rights, property, or safety of LR, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
-
-
+All passwords are encrypted. The administration pages all operate under https, this means all communications between your browser and the website are encrypted.
 
 ### Use of Intercom Services
 
-We use third-party analytics services to help understand your usage of our services. In particular, we provide a limited amount of your information (such as your email address and sign-up date) to Intercom, Inc. ("Intercom") and utilize Intercom to collect data for analytics purposes when you visit our website or use our product. Intercom analyzes your use of our website and/or product and tracks our relationship so that we can improve our service to you. We may also use Intercom as a medium for communications, either through email, or through messages within our product(s). As part of our service agreements, Intercom collects publicly available contact and social information related to you, such as your email address, gender, company, job title, photos, website URLs, social network handles and physical addresses, to enhance your user experience. For more information on the privacy practices of Intercom, please visit <http://docs.intercom.io/privacy>. Intercom's services are governed by Intercom's terms of use which can be found at <http://docs.intercom.io/terms>. If you would like to opt out of having this information collected by or submitted to Intercom, please contact us. 
-
-### Your Rights
-
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also change your preferences at any time by contacting us
-
-You have the right to access information held about you. You can find out what information we hold about you by making a Subject Access Request under the Act. If we hold personal information about you we will give you a description of it, tell you why we are holding it and let you have a copy of it. 
-
-If any of the personal information that we hold about you is incorrect or needs updating, or if you want us to delete any personal information, please contact us. We may request that you provide further information and identification to enable us to comply with this request.
-
-### Third party links
-
-Our site may, from time to time, contain links to and from the websites of our partner networks, affiliates and other third parties. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+We use third-party analytics services to help understand your usage of our services. In particular, we provide a limited amount of your information (such as your email address and sign-up date) to Intercom, Inc. ("Intercom") and utilize Intercom to collect data for analytics purposes when you visit our website or use our product. Intercom analyzes your use of our website and/or product and tracks our relationship so that we can improve our service to you. We may also use Intercom as a medium for communications, either through email, or through messages within our product(s). As part of our service agreements, Intercom collects publicly available contact and social information related to you, such as your email address, gender, company, job title, photos, website URLs, social network handles and physical addresses, to enhance your user experience. For more information on the privacy practices of Intercom, please visit [Intercom privacy](https://www.intercom.com/terms-and-policies#privacy). Intercom's services are governed by Intercom's terms of use which can be found at [Intercom terms](https://www.intercom.com/terms-and-policies#terms). 
 
 ### Cookies
 
