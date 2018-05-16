@@ -1,116 +1,100 @@
-> *The following text is extracted and transformed from the finspi.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126185846id_/http%3A//finspi.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finspi.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy policy
+# Legal Agreement
 
-Thank you for using FINSPI! We wrote this policy to help you understand what information we collect, how we use it, and what choices you have. Because we’re an internet company, some of the concepts below are a little technical, but we’ve tried our best to explain things in a simple and clear way.
+**GoDaddy Respects Your Privacy**
 
-We collect information in a few different ways:
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-1\. When you give it to us or give us permission to obtain it
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-When you sign up for or use our products, you voluntarily give us certain information. This can include your nickname, avatar image, content, comments, likes, email address you used to sign up, and any other information you provide us. If you’re using FINSPI on your mobile device, you can also choose to provide us with location data.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-You also may give us permission to access your information in other services. For example, you may link your Facebook, Twitter or Google account to FINSPI, which allows us to obtain information from those accounts (like your friends or contacts). The information we get from those services often depends on your settings or their privacy policies, so be sure to check what those are.
+**Information Collection and Use**
 
-2\. We also get technical information when you use our products
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-These days, whenever you use a website, mobile application, or other internet service, there’s certain information that almost always gets created and recorded automatically. The same is true when you use our products. Here are some of the types of information we collect:
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-  * Log data. When you use FINSPI, our servers automatically record information (“log data”), including information that your browser sends whenever you visit a website or your mobile app sends when you’re using it. This log data may include your Internet Protocol address, the address of the web pages you visited that had FINSPI features, browser type and settings, the date and time of your request, how you used FINSPI, and cookie data.
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-  * Cookie data. Depending on how you’re accessing our products, we may use “cookies” (a small text file sent by your computer each time you visit our website, unique to your FINSPI account or your browser) or similar technologies to record log data. When we use cookies, we may use “session” cookies (that last until you close your browser) or “persistent” cookies (that last until you or your browser delete them). For example, we may use cookies to store your language preferences or other FINSPI settings so you don‘t have to set them up every time you visit FINSPI. Some of the cookies we use are associated with your FINSPI account (including personal information about you, such as the email address you gave us), and other cookies are not.
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-  * Device information. In addition to log data, we may also collect information about the device you’re using FINSPI on, including what type of device it is, what operating system you’re using, device settings, unique device identifiers, and crash data. Whether we collect some or all of this information often depends on what type of device you’re using and its settings. For example, different types of information are available depending on whether you’re using a Mac or a PC, or an iPhone or an Android phone. To learn more about what information your device makes available to us, please also check the policies of your device manufacturer or software provider.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
+**Security**
 
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-3\. Our partners may share information with us
+**Updating Your Information**
 
-Sometimes our partners may let us collect information when you use their services, or may share with us the information they collect. For example:
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-  * Some websites or apps use FINSPI features like our “FINSPI” button. If so, we may collect log information (described above) from those sites or apps.
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
+      iii.      You may call us at: (480) 505-8800
 
- **How do we use the information we collect?**
+       iv.      You may fax us at: (480) 505-8844
 
-We use the information we collect to provide our products to you and make them better, develop new products, and protect FINSPI and our users. For example, we may log how often people use two different versions of a product, which can help us understand which version is better.
+**Sending Emails**
 
-We also use the information we collect to offer you customized content, including:
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-  * Suggesting Friends or content you might like. For example, if you’ve indicated that you’re interested in travel or visited travel websites that has FINSPI features, we may suggest travel-related content, boards, or people that we think you might like.
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
+**Compliance with Laws and Law Enforcement**
 
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-We also use the information we collect to:
+**Third Party Service Providers**
 
-  * Send you updates (such as when certain activity, like notifications from Your friends or comments, or group watching happens on FINSPI), newsletters, marketing materials and other information that may be of interest to you. For example, depending on your email notification settings, we may send you weekly updates that include content such music, video and images you may like. You can decide to stop getting these updates by updating your account settings (or through other settings we may provide).
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-  * Help your friends and contacts find you on FINSPI. For example, if you sign up using a Facebook account, we may help your Facebook friends find your account on FINSPI when they first sign up for FINSPI. Or, we may allow people to search for your account on FINSPI using your email address.
+**Supplementation of Information**
 
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-  * Respond to your questions or comments.
+**Contests/Surveys**
 
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-The information we collect may be “personally identifiable” (meaning it can be used to specifically identify you as a unique person) or “non-personally identifiable” (meaning it can’t be used to specifically identify you). We use both types of information, and combinations of both types, as described above. We may use or store information wherever FINSPI does business, including countries outside your own.
+**Tell-A-Friend**
 
- **What choices do you have about your information?**
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-Our goal is to give you simple and meaningful choices over your information. If you have a FINSPI account, many of the choices you have on FINSPI are built directly into the product or your account settings. For example, you can:
+**What Happens to my Personal Information if I Opt Out?**
 
-  * Access and change information in your profile page at any time, choose whether your profile page is available to search engines, or choose whether others can find your FINSPI account using your email address.
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
+**Transfer of Data Abroad**
 
-  * Link or unlink your FINSPI account from an account on another service (e.g., Facebook or Twitter). For some services (like Facebook), you can also choose whether or not to publish your activity on FINSPI to that service.
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
+**Changes in Our Practices**
 
-  * Choose whether FINSPI will be customized for you using information from off-FINSPI websites or apps.
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
 
-  * Close your account at any time. When you close your account, we’ll deactivate it and remove content from Your account from FINSPI. We may retain archived copies of your information as required by law or for legitimate business purposes (including to help address fraud and spam).
+**Contacting Our Site**
 
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
 
+* * *
 
-In addition to the examples above, we offer other choices that you can learn more about in
-
-You may have choices available to you through the device or software you use to access FINSPI. For example:
-
-  * The browser you use may provide you with the ability to control cookies or other types of local data storage.
-
-
-  * Your mobile device may provide you with choices around how and whether location or other data is shared with us.
-
-
-
-To learn more about these choices, please see the information provided by the device or software provider.
-
- **How and when do we share information?**
-
-FINSPI is a tool to help people share their experience and interests and our main goal is to help our users to meet new people according to their current interests. When you create public boards and add content, anyone can view them. You may also provide us with profile page information that anyone can view. The other limited instances where we may share your personal information include:
-
-  * When we have your consent. This includes sharing information with other services (like Facebook or Twitter) when you’ve chosen to link to your FINSPI account to those services or publish your activity on FINSPI to them. For example, you can choose to publish your content information to Facebook or Twitter.
-
-
-  * We may employ third party companies or individuals to process personal information on our behalf based on our instructions and in compliance with this Privacy Policy. For example, we may share data with a security consultant to help us get better at identifying spam or with our accountants to make sure we’re keeping the books right. In addition, some of the information we request may be collected by third party providers on our behalf. 
-
-
-  * If we believe that disclosure is reasonably necessary to comply with a law, regulation or legal request; to protect the safety, rights, or property of the public, any person, or FINSPI; or to detect, prevent, or otherwise address fraud, security or technical issues.
-
-
-  * We may engage in a merger, acquisition, bankruptcy, dissolution, reorganization, or similar transaction or proceeding that involves the transfer of the information described in this Policy.
-
-
-
-We may also share aggregated or non-personally identifiable information with our partners, advertisers, or others. For example, we may tell an advertiser on FINSPI how many people add something they shared, or the percentage of people who click on a content after viewing it.
-
- **Our policy on children’s information**
-
-FINSPI is not directed to children under 13. If you learn that your minor child has provided us with personal information without your consent, please contact us.
-
- **How do we make changes to this policy?**
-
-We may change this policy from time to time, and if we do we’ll post any changes on this page. If you continue to use FINSPI after those changes are in effect, you agree to the revised policy. If the changes are significant, we may provide more prominent notice or get your consent as required by law.
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
