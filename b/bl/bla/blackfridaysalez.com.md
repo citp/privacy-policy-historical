@@ -1,189 +1,100 @@
-> *The following text is extracted and transformed from the blackfridaysalez.com privacy policy that was archived on 2017-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170113082825id_/http%3A//blackfridaysalez.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackfridaysalez.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Policy « Online Advertising BlackFridaySalez.com
+# Legal Agreement
 
-## **Website Privacy Policy**
+**GoDaddy Respects Your Privacy**
 
-Christine Pettway  
-244 Madison Ave,  
-New York, NY 10016  
-(646) 400-6637  
-The last update to our Privacy Policy was posted on 10/11/2016. This document governs the privacy policy of our website [www.blackfridaysalez.com](http://www.blackfridaysalez.com/). Any capitalized terms not defined herein will have the same meaning as where they are defined elsewhere on our website.
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-**_Definitions_**
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-‘Nonpersonal Information’ (NPI) is information that is in no way personally identifiable and which is obtained automatically when you access our website with a web browser. ‘Personally Identifiable Information’ (PII) is not publicly displayed information that is personally identifiable to you and obtained for us to provide you with a product or service. PII may include information such as your name, address, phone number, credit card information, and other related information that you provide to us.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-### Your Personal Information (PII)  
-Our Privacy Policy tells you what PII we may collect from you, how we may share your PII, and how you can limit our sharing of your PII.
+**Information Collection and Use**
 
-### Information We Collect
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-### Generally you control the amount and type of information you provide to us when using our website. If you register as a member to use our website, you must provide PII in order for us to provide you with various features and/or functionality of our website. As a member we collect your PII in the following ways:
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-#### At Member Registration
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-When you register for membership, we collect your name and email address and all other information listed in your member account, business or company listing, or advertisement.  
-**_When Buying Products or Services_**
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-If you buy products or services from us, we collect your name, email address, physical address, credit card information, phone number and all other information listed in your member account, business or company listing, or advertisement.
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-#### Online Forms
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-There may be online forms used on our website. The information you enter into these online forms may contain PII.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-#### Premium Features
+**Security**
 
-Our website may offer premium features for the use of which you must pay. If we were to charge you for the use of these premium features, we would need to collect payment source information (such as a credit card) to bill you for using such premium features.
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-### Computer Information Collected
+**Updating Your Information**
 
-When you use our website, we automatically collect certain computer information through the interaction of your mobile phone or web browser with our website. Such information is typically (but not always) considered NPI.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-#### Cookies
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-Our website uses cookies. A cookie is a small piece of data or text file stored in your computer or mobile device by your web browser. Cookies may contain text that can be read by a web server that delivered the cookie to you. The text contained in the cookie generally consists of a sequence of letters and numbers that uniquely identifies your computer; however, it may contain other information as well.  
-By visiting, browsing, or using [www.blackfridaysalez.com](http://www.blackfridaysalez.com/) you are agreeing to accept our use of cookies you are giving us permission to place some or all the cookies described below on your device.
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-**We may use cookies for:**
+      iii.      You may call us at: (480) 505-8800
 
-  * Identifying the areas of our website that you have visited
-  * Signing in and identifying you as a member or user of our website
-  * Our website analytics
-  * Remarketing our products or services to you
-  * Navigating our website
-  * Remembering your preferences and settings
-  * Targeted advertising
-  * Affiliate marketing
+       iv.      You may fax us at: (480) 505-8844
 
+**Sending Emails**
 
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-Finally, we may use cookies to personalize the content that you see on our website. Most web browsers can be set to disable the use of cookies. However, if you disable cookies, you may not be able to access features on our website correctly or at all.
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-#### Web Beacons
+**Compliance with Laws and Law Enforcement**
 
-We may also use a technology called web beacons to collect general information about your use of our website and your use of special promotions or newsletters. The information we collect by web beacons allows us to statistically monitor the number of people who open our emails. Web beacons also help us understand the behavior of our customers and visitors. Our web beacons are not used to track your activity outside our website.
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-#### Automatic Information
+**Third Party Service Providers**
 
-We automatically receive information from your web browser or mobile device. This information includes the name of the website from which you entered our website, if any, as well as the name of the website to which you’ll go when you leave our website. This information also includes the IP address of your computer/proxy server that you use to access the Internet, your Internet service provider’s name, web browser type, type of mobile device, and computer operating system. We use all this information to analyze trends among our users to help improve our website.
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-#### Google Analytics Privacy Policy
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-Our website uses Google Analytics to collect information about the use of our site. Google Analytics collects information such as how often users visit our site, what pages they visit, and what other sites they used prior to coming to our site. We use the information we get from Google Analytics to improve our site. Google Analytics collects only the IP address assigned to you on the date you visit our site, not your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit our site, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to our site is restricted by the Google Analytics Terms of Use. [http://www.google.com/analytics/terms/us.html](http://www.google.com/analytics/terms/us.html)
+**Supplementation of Information**
 
-You can prevent Google Analytics from recognizing you on return visits to this site by [disabling cookies](http://www.usa.gov/optout_instructions.shtml) on your browser. [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout)
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-### _Google Remarketing_
+**Contests/Surveys**
 
-Why am I seeing ads by Google for products I’ve viewed?
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-Our website uses a remarketing advertising service. Our remarketing service is provided by Google and other companies that show our ads on websites across the Internet. With remarketing you may see ads for our products you have previously looked at. As an example, suppose you visit a website that sells computers, but you do not buy a computer on your first visit to that website. The website’s owner might like to encourage you to revisit his/her site and buy a computer by showing you his/her ads again on other websites that you visit. We use remarketing for similar purposes, so you may see advertisements for our products as you search the Internet. For this to happen Google or other remarketing providers will read a cookie that is already in your browser, or they place a cookie in your browser when you visit our site or other sites using remarketing. (This can only happen if your browser is set to let it happen).  
-When you visit another website that works with Google or other providers of remarketing advertising, you may see ads for products that you previously viewed, even though they may have nothing to do with the website you are seeing the ads on. So going back to the computer example, you may see ads for computers on a news or weather website. This happens because your browser is sending Google the same cookie and encouraging you to revisit the computer website that you previously visited to buy a computer.  
-You can opt out of Google’s use of cookies by visiting: <http://bit.ly/1RhhBQZ>
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-### **_Facebook Remarketing_**
+**Tell-A-Friend**
 
-Why am I seeing ads by for products I’ve viewed?
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-Our website uses a remarketing advertising service. Our remarketing service is provided by Facebook. With remarketing, you may see ads for our products you have previously looked at when you use Facebook. For this to happen, Facebook uses a Custom Audience Pixel that is activated when a visitor lands on web page and a unique “cookie” is placed in their browser.
+**What Happens to my Personal Information if I Opt Out?**
 
-### How Your Information Is Used
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-We use the information we receive from you as follows:
+**Transfer of Data Abroad**
 
-  * Provide our products and services
-  * Personalize and customize content
-  * Make improvements to our website
-  * Contact you with updates to our website
-  * Resolve problems and disputes
-  * Contact you with marketing and advertising  
-that we believe may be of interest
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
+**Changes in Our Practices**
 
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-#### Communications and emails
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
 
-When we communicate with you about our website, we will use the email address you provided when registering as a member. We may also send you alerts regarding your use of our website. We may also send you emails with promotional information about our website or offers from us or our affiliates, unless you have opted out of receiving such information. You can change contact preferences at any time through your account or by contacting us.
+**Contacting Our Site**
 
-#### Sharing information with affiliates and other third parties
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
 
-We do not sell, rent, or otherwise provide your PII to third parties for marketing purposes.  However, we may use your nonpersonal information for data aggregation purposes which might be sold to other parties at our discretion. Any such data aggregation would not contain any of your PII. We may provide your PII to affiliates who provide services with regards to our website (such as payment processors, shipping companies, United States Postal Service and other service providers.)
+* * *
 
-#### Community discussion boards
-
-Our website may offer the capability for users to communicate with each other through online community discussion boards. We do not filter or monitor what is posted on such discussion boards. If you chose to post on these discussion boards, you should use care when exposing any PII as such information is not protected by our privacy policy nor are we liable should you choose to disclose your PII through such postings.
-
-#### Legally required releases of information
-
-We may be legally required to disclose your PII if such disclosure is (a) required by subpoena, law, or other legal process; (b) necessary to assist law enforcement officials or government enforcement agencies; (c) necessary to investigate violations of or otherwise enforce our Legal Terms; (d) necessary to protect us from legal action or claims from third parties, including you and/or other members; (e) necessary to protect the legal rights, personal/real property, or personal safety of our company, users, employees, and affiliates.
-
-#### Disclosures to successors
-
-If our business is sold or merges in whole or in part with another business that would become responsible for providing the website to you, we retain the right to transfer your PII to the new business. The new business would retain the right to use your PII according to the terms of this privacy policy as well as to any changes to this privacy policy as instituted by the new business.
-
-**_Retaining Your Personal Information_** _ _
-
-We retain information we collect from you (including PII) for only as long as we need such information for legal, business, or tax purposes.
-
-**_Protecting the privacy rights of third parties_**
-
-If any postings you make to our website contain information about third parties, you need to make sure that you have permission to include them in your posting. While we are not legally liable for the actions of our users, we will remove any postings for which we are notified that such postings violate the privacy rights of others.
-
-### Changing your information
-
-You may change your PII at any time using facilities found on our website. If you need assistance with updating your PII or removing yourself from our mailing lists, just send us an email with your request or contact us using our contact information found on our website.
-
-### Opting out of sharing information
-
-You can always opt-out of future unaffiliated third-party disclosures of your information. Such opt out will not affect disclosures otherwise permitted by law including but not limited to: (i) disclosures to affiliates, (ii) disclosures to third-party service providers who provide certain services for our business, such as credit card processing, computer system services, shipping, data management, or promotional services, (iii) disclosures to third parties as necessary to fulfill your requests, (iv) disclosures to governmental agencies or law enforcement departments or otherwise required to be made under applicable law, (v) previously completed disclosures to third parties, or (vi) disclosures to third parties in connection with subsequent contests or promotions you may choose to enter, or third-party offers you may choose to accept.
-
-### Do Not Track settings
-
-Some web browsers have settings that enable you to request that our website does not track your movement within our website. Our website does NOT obey such settings when transmitted to and detected by our website.
-
-**Change and turn off tracking features in your browser.** You can turn off tracking features and other security settings in your browser by visiting the following links:
-
-For Internet Explorer visit: [http://goo.gl/0taI7I](http://goo.gl/0taI7I)
-
-For Mozilla Firefox visit: [http://goo.gl/IKxt9l](http://goo.gl/IKxt9l)
-
-For Google Chrome visit: [http://goo.gl/NQIkqE](http://goo.gl/NQIkqE)
-
-For Safari visit: [http://goo.gl/7XCOzL](http://goo.gl/7XCOzL)
-
-### Links to Other Websites
-
-Our website may contain links to other websites. These websites are not under our control and are not subject to our privacy policy. These websites will likely have their own privacy policies. We have no responsibility for these websites and provide links to these websites solely for your convenience. You acknowledge that your use of and access to these websites are solely at your risk. It is your responsibility to check the privacy policies of these websites to see how they treat your personal information.
-
-### Protecting Children’s Privacy
-
-We follow the Children’s Online Privacy Protection Act (COPPA). Even though our website is not designed for use by anyone under the age of 18 (child), we realize that a child may attempt to access our website. We do not knowingly collect PII from a child under the age of 18. If you are a parent or guardian and believe that your child is using our website, please contact us. We may ask for proof of identification before we remove any information to prevent malicious removal of account information. If we discover on our own that a child is accessing our website, we will delete the information as soon as we discover it, will not use the information for any purpose, and will not disclose the information to third parties. You acknowledge that we do not verify the age of our users nor have any liability to do so. If you are a child, please seek the permission from a parent or guardian before using our website.
-
-### Our Email Policy
-
-We comply with the federal CAN-SPAM Act. You can always opt out of receipt of further email correspondence from us or our affiliates. We will not sell, rent, or trade your email address to any unaffiliated third party without your permission except in the sale or transfer of our business.
-
-### Our Security Policy
-
-We have taken steps to build our website using industry-standard encryption and authentication tools to protect the security of your PII. When we collect your PII through our website, we will encrypt your PII before it travels over the Internet using industry-standard technology for conducting secure online transactions. We also use technologies such as secure routers and firewalls to protect your PII. Unfortunately we cannot fully guarantee secure data transmission over the Internet because of its nature.
-
-Once we receive your PII, we have security measures in place to protect against the loss or misuse of your PII, though again we cannot fully guarantee against such loss or misuse. We strongly urge you to protect any password you may have for our website and not share it with anyone. You should always log out of our website when you finish using it, especially if you are sharing a computer with someone else or are using a computer in a public place.
-
-### Use of Credit Cards
-
-You may have to provide a credit card to buy products and services from our website. We use third-party billing services and have no control over these services. We use our commercially reasonable efforts to make sure that your credit card number is kept strictly confidential by using only third-party billing services that use industry-standard encryption technology to protect your credit card number from unauthorized use. However, you understand and agree that we are in no way responsible for any misuse of your credit card number.
-
-**_International Data Transfers_**
-
-Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this policy. Personal information that you publish on our website or submit for publication on our website may be available via the Internet around the world. We cannot prevent the use or misuse of such information by others. You hereby agree to the transfers of personal information described within this section.
-
-### Changes to Our Privacy Policy
-
-We reserve the right to change this privacy policy at any time. If our company decides to change this privacy policy, we will post those changes on our website so our users and customers are always aware of what information we collect, use, and disclose. If at any time we decide to disclose or use your PII in a method different from that specified at the time it was collected, we will provide advance notice by email (sent to the email address on file in your account). Otherwise we will use and disclose our users’ and customers’ PII in agreement with the privacy policy that was in effect when their information was collected. In all cases your continued use of our website, services, and products after any change to this privacy policy will constitute your acceptance of such change.
-
-### Questions About Our Privacy Policy
-
-If you have any questions about our privacy policy, please contact us using our contact information found on our website.  
-Copyright © Orion Systems. This document or any portion of it may not be copied or duplicated without  
-a license from [http://www.DisclaimerTemplate.com](http://www.disclaimertemplate.com/)
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
