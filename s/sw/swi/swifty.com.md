@@ -1,83 +1,100 @@
-> *The following text is extracted and transformed from the swifty.com privacy policy that was archived on 2017-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170522010154id_/http%3A//www.swifty.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swifty.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Policy - Swifty.com
+# Legal Agreement
 
-Effective as of September 21, 2015
+**GoDaddy Respects Your Privacy**
 
-This Privacy Policy governs the manner in which Gateway Blend, LLC, a Missouri corporation (“Swifty”) collects, uses, maintains and discloses information collected from users (“you,” “your,” or “User”) of its www.swifty.com website, platforms, applications, and any derivative or affiliated websites on which this Privacy Policy is posted (collectively, the “Site”).  Swifty reserves the right, at its discretion, to change, modify, add, or remove portions of this Privacy Policy at any time by posting such changes to this page.  You understand that you have the affirmative obligation to check this Privacy Policy periodically for changes, and you hereby agree to periodically review this Privacy Policy for such changes.  The continued use of the Site following the posting of changes to this Privacy Policy constitutes an acceptance of those changes. 
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-Swifty is based, and this website is hosted, in the United States of America.  If you are from the European Union, Canada or other regions of the world with laws governing data collection and use that may differ from U.S. law and you are registering an account on the Site, visiting the Site, purchasing products or services from Swifty or the Site, or otherwise using the Site, please note that any personally identifiable information that you provide to Swifty may be transferred to or utilized by Swifty or its affiliates in the United States.  Any such personally identifiable information provided may be processed and stored in the United States by Swifty or a service provider acting on its behalf. 
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-If you are opposed to any of the terms listed below, we ask that you please abstain from using Swifty.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-**1\. Information Collected**
+**Information Collection and Use**
 
-Swifty understands the importance of maintaining your privacy, and strives to provide services with your security in mind. You will be asked for consent if your personal information is to be used in a way other than originally intended. For us to identify which areas of Swifty are used the most and provide statistical analysis of the site, we will record information such as your browser type, IP address, timestamp information and the pages you've viewed. This will help us make site enhancements and offer you the highest quality experience possible
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-Swifty will ask you for and keep a record of personal information, including name, email address, login time, and Facebook profile photo. You may change these details and settings on your account page. Submissions you make through Swifty may be saved or exhibited publicly on the website, in order to provide the most complete version of our services. "Submissions" refers to any material you post to Swifty or information displayed on your profile.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-Swifty may also collect information about how Users use the Site, for example, by tracking the number of unique views received by the pages of the Site, or the domains and Internet Protocol (“IP”) addresses from which Users originate.  While not all of the information that Swifty collects from Users is personally identifiable, it may be associated with personally identifiable information that Users provide Swifty through the Site or otherwise.  Additionally, certain information regarding your computer systems, network locations, IP address and software may be communicated to Swifty in certain circumstances by the digital rights management systems associated with certain Content that you download or access via the Site in order to prevent unauthorized use or distribution of the associated Content.  Non-personally identifiable information collected by Swifty (such as patterns of utilization) is exclusively owned by Swifty and may be used as it sees fit in accordance with applicable law.
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We will record certain information that you provide in feedback, questions, or registered complaints in order to efficiently respond to your questions or concerns.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-**2\. Information Disclosure**
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-By reading this, you acknowledge and accept that Swifty is not responsible for information that may be intercepted while being transferred through the Internet.  By reading this, you also release Swifty from any claims that surface due to information interception. Even though you may find links and access to unaffiliated third-party sites on Swifty, we are not accountable for any privacy practices related to those companies or websites. Please make sure you take time to read the privacy practices of these websites as well.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-Swifty collects personally identifiable information, such as your name and e-mail address, with your knowledge and consent and uses your personal information to administer the Site and deliver the services you have requested. Swifty may use your personally identifiable information to inform you of other products or services available from Swifty and its affiliates. Swifty may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-The Site automatically collects certain technical information, such as the Internet address from which you visit the Site and your browser type. Swifty compiles this information in aggregate form to help diagnose problems with servers and to gather broad demographic information. Swifty may use Internet addresses for identification purposes only when necessary to enforce compliance with the Swifty Site Terms of Use and to protect its service or any person, as otherwise permitted by law.
+**Security**
 
-Swifty will not sell, trade, lend or otherwise voluntarily disclose any personal information that you have provided for any purpose not identified under this Privacy Statement. Swifty may share your personal information with third parties to assist in the administration of this Site; to Swifty financial and legal advisors; to others as required by law; or for purposes identified from time to time and consented by you. Where personal information is shared with service providers for administrative purposes, we require the service provider to respect this Privacy Policy. Notwithstanding any other provision in this Privacy Policy, in the event someone buys or acquires Swifty, or substantially all of its assets, information about you and your use of the Web Site will likely be one of the assets acquired.
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-**3\. How This Information is Used**
+**Updating Your Information**
 
-Your personal information may be accessed by affiliates of Swifty, such as our parent company, subsidiaries, or joint ventures, that are currently with us or have the potential to be with us in the future. These affiliates are obligated to honor this Privacy Policy. If another company obtains Swifty, that company will then possess your personal information. However, they too are under strict obligation to honor the claims of this privacy policy. Third parties that work with Swifty may receive submissions you make through the website, which may end up being published on their sites or platforms. This information includes your account name, but not your personal information, unless it was listed in the submission.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-Information related to user behavior may be disclosed to third parties in connection with a present or future business partnership. This includes information relating to users that have clicked advertising banners and the number of users visiting our site.
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-When you visit Swifty, you will see advertisements from third parties displayed on the site. Information about your visit to the site may be used by these companies, not including your name, email address, or telephone number. This helps them choose advertisements that you would find most interesting. If you would like more information about not having your information used by third parties, please visit: http://www.networkadvertising.org/managing/opt_out.asp.
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-Google Analytics is a web analysis service provided by Google. Google utilizes the data collected to track and examine the use of www.swifty.com to prepare reports on its activities and share them with other Google services.
+      iii.      You may call us at: (480) 505-8800
 
-Google may use the data collected to contextualize and personalize the ads of its own advertising network.
+       iv.      You may fax us at: (480) 505-8844
 
-Personal data collected: Cookie and Usage Data. Place of processing: USA. Find Google's [privacy policy here](http://www.google.com/intl/en/policies/privacy/).
+**Sending Emails**
 
-**4\. Cookies and Web Beacons**
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-Like most websites, the Site uses cookies and web log files to track site usage.  A cookie is a tiny data file that resides on your computer that allows Swifty to recognize you as a User when you return to the Site using the same computer and web browser.  Like the information you enter during account registration, cookie and log file data is used to customize your experience on the Site.  One type of cookie, known as a “persistent” cookie, is set once you have logged in to your Site account.  The next time you visit our Site, the persistent cookie will allow us to recognize you as an existing User so you will not need to log in before using the Site.  In order to access or change any of your private information, you must log in with your password even if your computer contains your persistent cookie.  Additionally, if you log out of the Site you will need to re-enter your password the next time you visit in order to log in to your account.  Another type of cookie, called a “session” cookie, is used to identify a particular visit to the Site.  Session cookies expire after a short time or when you close your web browser.  You can choose to disable cookies on your browser or allow your browser to notify you when a cookie is being sent, however this may prevent you from utilizing certain features of the Site. 
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-**5\. Security of Personal Information**
+**Compliance with Laws and Law Enforcement**
 
-Swifty maintains reasonable and appropriate measures to secure your personal information from unauthorized access, use or disclosure. Swifty secures the personally identifiable information you provide on computer servers in a controlled environment.  You are responsible for ensuring that the computer systems that you use to access the Site have appropriate security controls enabled and you expressly assume the risk of any unauthorized disclosure or intentional intrusion, or of any delay, failure, interruption or corruption of data or other information transmitted in connection with the use of the Site.  You are solely responsible for providing, maintaining and ensure compatibility of all hardware, software, electrical and other physical requirements necessary for your access to and use of the Web Site, or any part thereof. 
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-Information about Users that is maintained on Swifty’s systems is protected using industry standard security measures.  In order to secure your personal information, access to your data is password-protected, and sensitive data is protected by SSL encryption when it is exchanged between your web browser and the Site.  However, no security measures are perfect or impenetrable, and Swifty cannot guarantee that the information submitted to, maintained on or transmitted from its systems will be completely secure.  Swifty is not responsible for the circumvention of any privacy settings or security measures contained on the Site by any Users or third parties.
+**Third Party Service Providers**
 
-Swifty is not responsible for the acts and omission of any third parties related to the security of your connection to the Web Site.
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-**6\. Privacy Policy Enforcement**
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-To enforce our privacy policy or to comply with a legal investigation, any information, including personal information, may be referenced.  In compliance with legal procedures such as warrants, statutes, or court orders, your personal information may be distributed to third parties, to take action against illegal activities or to enforce our privacy policy. Swifty is not obligated to question the legitimacy of any government request.
+**Supplementation of Information**
 
-**7\. Compliance with the California Privacy Protection Act; DO NOT TRACK**
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-If you are a California resident and have provided personal information to Swifty through the Web Site, you are entitled by law to request certain information regarding any disclosure that may have been made by Swifty to third parties of personal information for their direct marketing purposes. To make such a request, send an email to [feedback@swifty.com](mailto:feedback@swifty.com) specifying that you seek your “California Customer Choice Privacy Notice.” Please allow thirty (30) days for a response. Swifty is required to respond to only one request per customer each year, and is not required to respond to requests made by means other than through the above email address.
+**Contests/Surveys**
 
-We will not share your personal information with third parties for their direct marketing purposes if you request that we do not do so. If you would like more information about not having your information used by third parties, or if you would like to make such an opt-out request, you may send us an email at [feedback@swifty.com](mailto:feedback@swifty.com). 
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-You may also request to opt-out of an advertiser’s use of cookies by visiting the Network Advertising Initiative or the Digital Advertising Alliance. You may request to opt-out of Google’s use of cookies by visiting [www.google.com/ads/preferences](http://www.google.com/ads/preferences). All applicable terms on these websites will apply to your request to opt-out in addition to this Privacy Policy.
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-When contacting us, please indicate your name, address, email address, and what personal information you do not want us to share with third parties for their direct marketing purposes. Please note that there is no charge for controlling the sharing of your personal information or for processing this request. At this time, Swifty is unable to universally respond to “Do Not Track” or other “opt-out” mechanisms that have been activated by a user through their web browser, and except as otherwise provided herein, does not alter its policies if a user activates such mechanism.
+**Tell-A-Friend**
 
-**8\. Compliance with the Children’s Online Privacy Act**
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-We have taken the necessary measures to conform to the Children’s Online Privacy Protection Act. Our site, services and products are directed for use by people over the age of 13.  We do not collect information from anyone under the age of 13, in any circumstance.
+**What Happens to my Personal Information if I Opt Out?**
 
-**9\. Privacy Policy Changes**
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-This Privacy Policy is subject to modifications at any time. Any modifications will be posted to this page. You will be notified via email if any changes regarding the distribution of your personal information are made.
+**Transfer of Data Abroad**
 
-**10\. Contacting Us**
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-If you have questions, comments, or concerns regarding anything previously stated in the privacy policy or to utilize the rights contracted here please use the [contact form](http://www.swifty.com/contact.html) to contact us.
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
