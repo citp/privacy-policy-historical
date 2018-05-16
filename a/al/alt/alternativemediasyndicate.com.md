@@ -1,196 +1,100 @@
-> *The following text is extracted and transformed from the alternativemediasyndicate.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611122818id_/http%3A//alternativemediasyndicate.com/sample-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alternativemediasyndicate.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Policy
+# Legal Agreement
 
-**AlternativeMediaSyndicate.com – PRIVACY POLICY**
+**GoDaddy Respects Your Privacy**
 
-Last Updated: January 1, 2014
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-**A. Our Commitment to Privacy**
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-ALTERNATIVE MEDIA SYNDICATE INC (“ALTERNATIVE MEDIA SYNDICATE”) realizes the importance of respecting and protecting your privacy.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-This privacy policy (“Privacy Policy”) discloses the information that ALTERNATIVE MEDIA SYNDICATE gathers on the web site ALTERNATIVEMEDIASYNDICATE.COM that ALTERNATIVE MEDIA SYNDICATE owns (the “Site”), as well as ways in which ALTERNATIVE MEDIA SYNDICATE processes and, sometimes, shares such information and how you can correct or change that information. The Site also includes versions designed for browsing on mobile devices and the use of such devices is governed by this Privacy Policy as well.
+**Information Collection and Use**
 
-Except where otherwise expressly indicated herein or on the Site, this Privacy Policy applies only to information collected on the Site and does not apply to information collected outside of the Site. Before using or submitting information to the Site please review this Privacy Policy carefully.
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-Certain areas of the Site contain information intended only for users who create an account, join or otherwise register to use any of the Site (“Registered Users”) and ALTERNATIVE MEDIA SYNDICATE reserves the right to limit these areas to Registered Users. This Privacy Policy addresses ALTERNATIVE MEDIA SYNDICATE’s privacy practices relating to general use of the Site, as well as use of the Site by Registered Users.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-**B. Information ALTERNATIVE MEDIA SYNDICATE  Collects**
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-ALTERNATIVE MEDIA SYNDICATE collects the following types of information from users of the Site:
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-**1\. Personally Identifiable Information**
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-ALTERNATIVE MEDIA SYNDICATE may receive and store any information that you enter on the Site or provide to ALTERNATIVE MEDIA SYNDICATE in any other way that would allow ALTERNATIVE MEDIA SYNDICATE to identify you or contact you (collectively “Personally Identifiable Information”). The Personally Identifiable Information that you provide will be used by ALTERNATIVE MEDIA SYNDICATE only in accordance with this Privacy Policy. Examples of Personally Identifiable Information ALTERNATIVE MEDIA SYNDICATE may collect from you and use are:
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-  * your name, address, phone number(s), e-mail address, date of birth, nationality and gender if you are a Registered User or are otherwise asked to provide such information;
-  * the e-mail addresses of those who post comments, stories, photos, videos and other content on the Site;
-  * the names and e-mail addresses of those who communicate with ALTERNATIVE MEDIA SYNDICATE by e-mail;
-  * the names and e-mail addresses of those who specifically opt-in to special offers;
-  * information you provide to ALTERNATIVE MEDIA SYNDICATE in surveys, in connection with contests or sweepstakes which ALTERNATIVE MEDIA SYNDICATE sponsors;
-  * information you provide to ALTERNATIVE MEDIA SYNDICATE in the entry form for some sweepstakes and contests offered on the Site and information provided by winners of those sweepstakes and contests for a required background check or for tax purposes;
-  * in certain circumstances, payment and identity verification information, such as credit card number, social security number (or comparable national identifier) and driver’s license number when needed for payment information in connection with a purchase made through the Site;
-  * information about your family or friends, including, but not limited to, the name, address, phone number(s), e-mail address, date of birth, nationality and gender of any family member or friend, that you provide in connection with your use of the Site or any feature thereof;
-  * information you provide about yourself, including, but not limited to your name, e-mail address, date of birth, nationality, gender and preferences, that you provide when you register; and
-  * information you provide about yourself when you post to the Site.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
+**Security**
 
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-You can choose not to provide ALTERNATIVE MEDIA SYNDICATE with certain Personally Identifiable Information, but then you may not be able to take advantage of many features of the Site, such as posting comments, registering to use certain restricted areas of the Site, participating in ALTERNATIVE MEDIA SYNDICATE’s online community, entering a sweepstakes or contest on the Site, participating in various promotional opportunities or receiving e-mail alerts or newsletters.
+**Updating Your Information**
 
-**2\. Automatic Information**
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-**(a) Collected By  ALTERNATIVE MEDIA SYNDICATE**
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-ALTERNATIVE MEDIA SYNDICATE may receive and store certain types of information whenever you interact with ALTERNATIVE MEDIA SYNDICATE through the Site. We automatically receive and record your browser information, operating system information, IP address, cookie information and the page you requested. This information will not be stored in a manner that is personally identifiable with you and may include the following:
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-**(1) Aggregate Information**
+      iii.      You may call us at: (480) 505-8800
 
-In connection with your visit to the Site, ALTERNATIVE MEDIA SYNDICATE may automatically collect usage information, such as the numbers and frequency of users and their characteristics and information about similar groups of users, such as parents, certain age groups or users that live in a particular geographical area. This data is only used in the aggregate as a statistical measure and not in a manner that would identify you personally. Aggregate information generally is collected through the use of cookies and Web Beacons as discussed below.
+       iv.      You may fax us at: (480) 505-8844
 
-**(2) Cookies**
+**Sending Emails**
 
-ALTERNATIVE MEDIA SYNDICATE uses “cookies” to help you access and navigate the Site more efficiently and to statistically monitor how many people are using the Site. A “cookie” is a small file or tool stored on your hard drive containing information that allows ALTERNATIVE MEDIA SYNDICATE to deliver customized information to you. If you become a Registered User, ALTERNATIVE MEDIA SYNDICATE may use cookies to store your e-mail address, user name, preferences and password so that ALTERNATIVE MEDIA SYNDICATE can identify you when you return to the Site, track your use of the Site and customize the Site for you. You may set your browser to notify you of or decline the receipt of cookies. Certain features of the Site may not, however, function properly or be available if your browser is configured to disable cookies.
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-ALTERNATIVE MEDIA SYNDICATE uses both “session” and “persistent” cookies on the Site. Session cookies are temporary bits of information that are erased once you exit your web browser or turn off your computer. Persistent cookies are more permanent bits of information that are placed on the hard drive of your computer and stay there unless you delete the cookie. Persistent cookies store information on your computer for a number of reasons, such as retrieving certain information you have previously provided (i.e., username and password), helping to determine what areas of the Site you find most valuable and customizing the Site based on your preferences on an ongoing basis.
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-Many companies offer programs that help you to visit web sites anonymously. While ALTERNATIVE MEDIA SYNDICATE will not be able to provide you with a personalized experience if ALTERNATIVE MEDIA SYNDICATE cannot recognize you, ALTERNATIVE MEDIA SYNDICATE wants you to be aware that these programs are available.
+**Compliance with Laws and Law Enforcement**
 
-**(3) Web Beacons**
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-During your use of the Site, you may encounter Web Beacons, which may come from ALTERNATIVE MEDIA SYNDICATE or from third parties that advertise or provide content on the Site. A “Web Beacon” (sometimes also called a “web bug” or “clear gif”) is a small graphic image in a web page, a web-based document or an e-mail message that generally allows the party that set the Web Beacon to monitor certain information about the viewer of the web page, web-based document or e-mail message and may allow access to certain cookies. Web Beacons are usually invisible to the user because they are very small (generally 1-by-1 pixel). In general, however, any electronic image viewed as part of a web page, including an advertisement, can act as a Web Beacon. Web Beacons on the Site typically collect the URL of the page from which the Web Beacon originates, the type of browser requesting the Web Beacon, the IP address of the computer to which the Web Beacon is sent and the time that the Web Beacon was viewed. Certain Web Beacons used by third party advertisers or content providers may collect information that allows such third parties to determine how many people are viewing and/or clicking on certain advertisements or viewing certain content for purposes of helping these parties serve and manage their advertisements and content. These Web Beacons do not collect or store Personally Identifiable Information but they may, however, be used in conjunction with cookies to identify certain aggregate information about users.
+**Third Party Service Providers**
 
-**(4) E-mail Communications**
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-When you send an e-mail to ALTERNATIVE MEDIA SYNDICATE, either through the <Contact Us> button on the Site or otherwise, ALTERNATIVE MEDIA SYNDICATE may retain your e-mail address and the contents of the e-mail that you send. If you want to keep the information in your e-mail(s) or posting(s) private or proprietary, please do not send such information in an e-mail or otherwise post such information to ALTERNATIVE MEDIA SYNDICATE. To help ALTERNATIVE MEDIA SYNDICATE make its e-mails more interesting and helpful, ALTERNATIVE MEDIA SYNDICATE also may receive a confirmation when you open an e-mail from ALTERNATIVE MEDIA SYNDICATE if your computer supports this type of program.
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-**(b) Information Collected by Third Parties**
+**Supplementation of Information**
 
-ALTERNATIVE MEDIA SYNDICATE may allow third parties to display advertisements on the Site. ALTERNATIVE MEDIA SYNDICATE and these third parties may use tracking technologies, such as cookies and Web Beacons, to collect information about users who view or interact with these advertisements and connect to the Site.
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-**(1) Ad Servers**
+**Contests/Surveys**
 
-ALTERNATIVE MEDIA SYNDICATE, its partners and/or advertisers may use third party ad servers to serve or present the ads that appear on the Site and to conduct research about the advertisements. Any of these ad servers may collect non-personal information, such as your browser, operating system, date/time of viewing, IP address and clickstream data. ALTERNATIVE MEDIA SYNDICATE cannot control the activities of such advertisers or web sites. PLEASE NOTE THAT THIS POLICY DOES NOT COVER THE COLLECTION AND USE OF INFORMATION BY SUCH AD SERVERS.
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-The Network Advertising Initiative (NAI) is a cooperative group of ad serving providers. The NAI has developed a set of privacy principles to which its members adhere. The NAI is committed to providing consumers with clear explanations of Internet advertising practices and how they affect you and the Internet generally. For more information about the NAI, third party ad servers generally and the opt-out options offered through the NAI, visit http://www.networkadvertising.org/index.asp.
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-**C. How ALTERNATIVE MEDIA SYNDICATE  Uses Information**
+**Tell-A-Friend**
 
-When you provide ALTERNATIVE MEDIA SYNDICATE with your Personally Identifiable Information, ALTERNATIVE MEDIA SYNDICATE may use it to manage ALTERNATIVE MEDIA SYNDICATE’s registry of Registered Users, facilitate communication between ALTERNATIVE MEDIA SYNDICATE and you and/or between Registered Users of the Site, notify you of features or special events and provide you with other information ALTERNATIVE MEDIA SYNDICATE feels may be of interest to you. ALTERNATIVE MEDIA SYNDICATE also uses information collected to customize, analyze, adjust and improve the Site to meet ALTERNATIVE MEDIA SYNDICATE’s users’ needs and expectations. ALTERNATIVE MEDIA SYNDICATE also may use the information to oversee adherence to ALTERNATIVE MEDIA SYNDICATE’s Community Guidelines which are provided in the Terms of Use for the Site to enforce ALTERNATIVE MEDIA SYNDICATE’s agreements with you, to prevent fraud and other prohibited or illegal activities and for other legally permissible purposes. These uses of your Personally Identifiable Information may include, without limitation, the following:
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-**1\. Public Areas**
+**What Happens to my Personal Information if I Opt Out?**
 
-The Site feature groups, discussions, member profiles, comment areas, blogs and similar areas where users can share information about themselves and their opinions, as well as post questions (“Public Areas”). Other visitors to the Site may view information posted in Public Areas. Further, ALTERNATIVE MEDIA SYNDICATE may include all or a portion of the information posted in Public Areas in the newsletters described in this Privacy Policy. By using the Public Areas, you hereby acknowledge and agree that any information you share in a Public Area (including, without limitation, Personally Identifiable Information) is available to the public. Information you post to a Public Area may be viewed, accessed, or collected by, or disclosed to, third parties and may be used by others in ways neither you nor ALTERNATIVE MEDIA SYNDICATE are able to control or predict, including, without limitation, to contact you for unauthorized purposes.
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-The Site offers the ability to forward content to another person via e-mail. If you use this service, ALTERNATIVE MEDIA SYNDICATE will use the recipient’s e-mail address in order to send the content and ALTERNATIVE MEDIA SYNDICATE will also ask for your e-mail address ALTERNATIVE MEDIA SYNDICATE does not use the recipient’s e-mail address for any other purpose unless the recipient gives ALTERNATIVE MEDIA SYNDICATE permission to do so.
+**Transfer of Data Abroad**
 
-**2\. Registered User Areas**
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-If you have access to certain areas of the Site because you are a Registered User (“Registered User Areas”), the Registered User Areas may contain groups, discussions, member profiles, comment areas, blogs and similar areas where Registered Users can share information about themselves and their opinions, as well as post questions. Information you post to a Registered User Area may be viewed, accessed, or collected by, or disclosed to, other Registered Users and may be used by other Registered Users in ways neither you nor ALTERNATIVE MEDIA SYNDICATE are able to control or predict, including, without limitation, disclosure of your information to the public or to contact you for unauthorized purposes. ALTERNATIVE MEDIA SYNDICATE uses the Personally Identifiable Information you provide when registering to become a Registered User to send you ALTERNATIVE MEDIA SYNDICATE publications, information about Registered User benefits and special offers, features included in the Registered User Areas and other information that ALTERNATIVE MEDIA SYNDICATE believes is relevant and useful to its Registered Users. By using the Registered User Areas, you hereby acknowledge and agree that any information you share in a Registered User Area (including, without limitation, Personally Identifiable Information) is available to other Registered Users and to ALTERNATIVE MEDIA SYNDICATE for use as provided herein.
+**Changes in Our Practices**
 
-**3\. Profiles**
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-If you register to become a Registered User of the Site, the information that you provide to ALTERNATIVE MEDIA SYNDICATE may be stored in one or more profiles. These profiles, or a portion thereof, may be viewed by other Users of the Site, including, but not limited to those who are not Registered Users of the Site.
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
 
-**4\. E-Newsletters**
+**Contacting Our Site**
 
-If you register at any of the Site, you may choose to receive a newsletter via e-mail from ALTERNATIVE MEDIA SYNDICATE which may include information such as highlights from different areas on the Site and information about new features. You can unsubscribe from the newsletter at any time by clicking on the “unsubscribe” link at the bottom of any e-mail newsletter sent to you and following the instructions. You also may unsubscribe at any time by logging in to the applicable Site where you created your profile and changing your preferences.
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
 
-**5\. Aggregate Information**
+* * *
 
-The aggregate information collected by ALTERNATIVE MEDIA SYNDICATE also is used to create profiles of the audience for the Site that include anonymous statistical demographic information but no Personally Identifiable Information. This aggregated information is used to, among other things, determine trends and needs and supply market research to potential advertisers and partners to help them understand the Site’s audiences. For example, ALTERNATIVE MEDIA SYNDICATE may create a report that tells advertisers that thirty percent of ALTERNATIVE MEDIA SYNDICATE’s Registered Users are males under forty years, so that they can determine which of their products or services are most appropriate for ALTERNATIVE MEDIA SYNDICATE’s Registered Users.
-
-**D. With Whom ALTERNATIVE MEDIA SYNDICATE  Shares Information**
-
-ALTERNATIVE MEDIA SYNDICATE reserves the right to use your Personally Identifiable Information to send you periodic e-mailings with information on new products and services, updates to ALTERNATIVE MEDIA SYNDICATE’s Site or upcoming events.
-
-If you “opt in” to receive information about identified advertisers or their services or products, ALTERNATIVE MEDIA SYNDICATE may share your Personally Identifiable Information with them. If you have questions about how these companies use your Personally Identifiable Information, ALTERNATIVE MEDIA SYNDICATE encourages you to review and understand their respective privacy policies. You may at any time “opt out” of having your Personally Identifiable Information as part of ALTERNATIVE MEDIA SYNDICATE’s marketing mailing list or otherwise (see “Opting Out” below).
-
-From time to time, in ALTERNATIVE MEDIA SYNDICATE’s sole discretion, ALTERNATIVE MEDIA SYNDICATE may use your Personally Identifiable Information to send you important administrative information regarding the Site and related services or changes to ALTERNATIVE MEDIA SYNDICATE’s Terms and policies. Because this information may be important to your use of the Site and related services, you may not opt out of receiving such communications.
-
-**1\. Fulfillment of Services**
-
-ALTERNATIVE MEDIA SYNDICATE may retain other companies and individuals to perform functions consistent with ALTERNATIVE MEDIA SYNDICATE’s Privacy Policy on ALTERNATIVE MEDIA SYNDICATE’s behalf. Examples include customer support specialists, web hosting companies, fulfillment companies (e.g., companies that fill product orders or coordinate mailings), data analysis firms and e-mail service providers.
-
-**2\. Sweepstakes, Contests and Editorial Uses**
-
-Often times, sweepstakes, contests and giveaways (together, “Contests”) offered on the Site are sponsored by unaffiliated third parties. Information that you provide as part of an entry into a Contest sponsored by an unaffiliated third party will be shared with the sponsor if ALTERNATIVE MEDIA SYNDICATE advises you of such in the Contest’s official rules. Some Contests also may require consent to the release of information contained within the entry form for background check purposes or tax purposes if you become a winner. You should carefully review the official rules of each Contest that you enter as they may contain additional important information about ALTERNATIVE MEDIA SYNDICATE’s or the Contest sponsor’s use of your Personally Identifiable Information.
-
-ALTERNATIVE MEDIA SYNDICATE also may use your Personally Identifiable Information in response to a solicitation for editorial, online and/or on-air purposes and for marketing and promotional purposes in connection with such solicitation. If such information is used online, on a mobile application or in a telecast, no Personally Identifiable Information, other than name, city and state, will be disclosed without your specific consent.
-
-**3\. Compliance with Law and Fraud Protection**
-
-ALTERNATIVE MEDIA SYNDICATE may disclose any information, including without limitation Personally Identifiable Information, that ALTERNATIVE MEDIA SYNDICATE deems necessary, in its sole discretion and without your prior permission, to comply with any applicable law, regulation, legal process or governmental request. ALTERNATIVE MEDIA SYNDICATE also may exchange information, including without limitation Personally Identifiable Information, with other companies and organizations for credit fraud protection, risk reduction and related activities or to protect the rights, property of safety of ALTERNATIVE MEDIA SYNDICATE and its agents, employees or affiliates or others. ALTERNATIVE MEDIA SYNDICATE reserves the right to disclose a user’s Personally Identifiable Information if ALTERNATIVE MEDIA SYNDICATE believes the user is in violation of ALTERNATIVE MEDIA SYNDICATE’s Terms of Use, even without a subpoena, warrant or other court order.
-
-**4\. Sale or Transfer of Information**
-
-In the event of a sale, merger, liquidation, dissolution or sale or transfer of substantially all of the assets of ALTERNATIVE MEDIA SYNDICATE or the Site, personal Information and/or other information collected about you from the Site may be sold, assigned or transferred to the party acquiring all or substantially all of the equity and/or assets of ALTERNATIVE MEDIA SYNDICATE or the Site in order to permit the party to continue the operation of the Site, including the Registered User Areas. Subject to your ability to opt-out, you consent to the sale and transfer of your information as described in this paragraph.
-
-**5\. Accessing, Updating or Deleting your Personally Identifiable Information**
-
-If you are a Registered User and would like to review, update or delete your profile, please log in to and select the profile in which you would like to review, modify or delete information (i.e., the Personally Identifiable Information you have provided to us).
-
-**6\. Opting Out**
-
-ALTERNATIVE MEDIA SYNDICATE respects the privacy of your Personally Identifiable Information. If you tell ALTERNATIVE MEDIA SYNDICATE that you do not wish to have this information used as a basis for further contact with you, ALTERNATIVE MEDIA SYNDICATE will respect your wishes. You also may choose not to provide ALTERNATIVE MEDIA SYNDICATE with certain information, but that may result in you being unable to use certain features of the Site.
-
-You may instruct ALTERNATIVE MEDIA SYNDICATE to stop sending you certain promotional materials (e.g., e-mail messages, newsletters, postcards and letters) by following the unsubscribe instructions provided in those materials. ALTERNATIVE MEDIA SYNDICATE may, however, continue to contact you to provide service to your account. Please note that if you use more than one name or e-mail address when communicating with ALTERNATIVE MEDIA SYNDICATE or participating on the Site, you may continue to receive communications from ALTERNATIVE MEDIA SYNDICATE to any name and/or e-mail address which you have not specified in your opt-out request.
-
-ALTERNATIVE MEDIA SYNDICATE provides you with the following options for removing your Personally Identifiable Information from ALTERNATIVE MEDIA SYNDICATE’s database for marketing purposes:
-
-  1. You can send an email to AlternativeMediaSyndicate@gmail.com
-
-
-
-**E. Important Disclosures, Practices and Contact Information**
-
-**1\. Third Party Links**
-
-The Site contains links to third-party web sites. Please be aware that ALTERNATIVE MEDIA SYNDICATE cannot control and is not responsible for the information collection practices of such web sites, which may differ from those of ALTERNATIVE MEDIA SYNDICATE. ALTERNATIVE MEDIA SYNDICATE encourages you to review and understand the privacy policies of these web sites before providing any information to them.
-
-**2\. Interactive Features**
-
-The Site may make groups, discussions, chat rooms, forums and message boards available to users (see “Public Areas” described above). While you are required to register with the Site to post in these areas, you are not required to provide any Personally Identifiable Information when using these areas but you may choose to do so. If you post Personally Identifiable Information online, it will be publicly available and you may receive unsolicited messages from other parties. ALTERNATIVE MEDIA SYNDICATE cannot ensure the security of any information that you choose to make public in a group, discussion, chat room, forum or message board. Also, ALTERNATIVE MEDIA SYNDICATE cannot ensure that parties who have access to such Personally Identifiable Information will respect your privacy. Please exercise caution when deciding to disclose Personally Identifiable Information in these areas.
-
-**3\. Data Security**
-
-ALTERNATIVE MEDIA SYNDICATE maintains a variety of commercially reasonable physical, electronic and procedural safeguards designed to protect your Personally Identifiable Information from unauthorized access and disclosure. For example, ALTERNATIVE MEDIA SYNDICATE uses accepted tools and techniques to protect against unauthorized access to ALTERNATIVE MEDIA SYNDICATE’s systems. You should be aware that ALTERNATIVE MEDIA SYNDICATE has no control over the security of other sites on the Internet that you might visit or with which you might interact even when a link may appear to another site from one of the Site.
-
-ALTERNATIVE MEDIA SYNDICATE wants you to feel confident using the Site but no system can be completely secure. Therefore, although ALTERNATIVE MEDIA SYNDICATE takes steps to secure your information, ALTERNATIVE MEDIA SYNDICATE does not promise, and you should not expect, that your personal information, searches or other communications will always remain secure. In the event of a breach of the confidentiality or security of your information, including your Personally Identifiable Information, ALTERNATIVE MEDIA SYNDICATE will notify you as necessary and if possible so you can take appropriate protective steps. ALTERNATIVE MEDIA SYNDICATE may notify you under such circumstances using the e-mail address(es) that ALTERNATIVE MEDIA SYNDICATE has on record for you and/or by regular mail (if available). You also should carefully handle and disclose your Personally Identifiable Information. Please refer to the Federal Trade Commission’s web site at http://www.ftc.gov/bcp/menus/consumer/data.shtm for information about how to protect yourself against identity theft.
-
-**4\. Children**
-
-The Site is a general audience site and is not intended for children under 13. ALTERNATIVE MEDIA SYNDICATE requires that only persons 13 years of age or older use any of the Site. By using the Site, you hereby represent that you are at least 13 years old.
-
-ALTERNATIVE MEDIA SYNDICATE does not knowingly market to, solicit information, accept service or collect information from children under the age of 13. The Site may ask users for their birth dates to ensure that the Site is not collecting information from children under age 13 or to identify when additional steps may need to be taken in connection with information collected from children under age 18. When the Site has actual knowledge that it collects information from children or offers a service directed toward children, it will comply with applicable laws, including the U.S. Children’s Online Privacy Protection Act.
-
-**5\. Changes to this Privacy Policy**
-
-At any time without prior notice, ALTERNATIVE MEDIA SYNDICATE may update this Privacy Policy to reflect changes in ALTERNATIVE MEDIA SYNDICATE’s practices. When ALTERNATIVE MEDIA SYNDICATE posts changes to this Privacy Policy, ALTERNATIVE MEDIA SYNDICATE will revise the “Last Updated” date at the top of this page. ALTERNATIVE MEDIA SYNDICATE encourages you to bookmark this Privacy Policy and to periodically review it to inform yourself of changes to it or any of ALTERNATIVE MEDIA SYNDICATE’s other policies. Any changes to ALTERNATIVE MEDIA SYNDICATE’s Privacy Policy will become effective upon ALTERNATIVE MEDIA SYNDICATE’s posting of the updated policy. Use of the Site constitutes your acceptance of the terms of this Privacy Policy then in effect.
-
-**6\. California Privacy Rights Under California Civil Code Section 1798.83**
-
-If you are a resident of California (“California Users”), in addition to the rights set forth in this Privacy Policy, you generally have the right to request information from ALTERNATIVE MEDIA SYNDICATE regarding the manner in which ALTERNATIVE MEDIA SYNDICATE shares certain categories of Personally Identifiable Information with third parties for their direct marketing purposes.
-
-Under the law, however, a business is not required to provide this information if it adopts and discloses to the public (in its privacy policy) a policy of not disclosing customer’s personal information to third parties for their direct marketing purposes unless the customer first affirmatively agrees to the disclosure, as long as the business maintains and discloses this policy. Rather, the business may comply with the law by notifying California Users of their rights to prevent disclosure of personal information and providing a cost free means to exercise that right.
-
-Please note that whenever you opt in to receive future communications from a third party, your information will be subject to the third party’s privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as ALTERNATIVE MEDIA SYNDICATE has no control over how third parties use information. You should always review the privacy policy of any party that collects your information to determine how it will handle your information.
-
-Please note that ALTERNATIVE MEDIA SYNDICATE is only required to respond to one request per customer each year. ALTERNATIVE MEDIA SYNDICATE is not required to respond to requests made by means other than through this e-mail address **AlternativeMediaSyndicate@gmail.com**.
-
-**7\. Users From Outside the United States**
-
-By visiting the Site, submitting information or using any of ALTERNATIVE MEDIA SYNDICATE’s products or services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy and consent to having your data transferred to and processed in the United States. If you do not agree to this Privacy Policy, please do not use ALTERNATIVE MEDIA SYNDICATE’s Site.
-
-The Site is controlled and operated by ALTERNATIVE MEDIA SYNDICATE from the United States. ALTERNATIVE MEDIA SYNDICATE does not represent or warrant that the Site, or any part thereof, are appropriate or available for use in any particular jurisdiction. Those who choose to access the Site do so on their own initiative and at their own risk, and are responsible for complying with all local laws, rules and regulations. You also are subject to United States export controls in connection with your use of the Site and/or services related thereto and are responsible for any violations of such controls, including, without limitation, any United States embargoes or other federal rules and regulations restricting exports. ALTERNATIVE MEDIA SYNDICATE may limit the availability of the Site, in whole or in part, to any person, geographic area or jurisdiction that ALTERNATIVE MEDIA SYNDICATE chooses, at any time and in ALTERNATIVE MEDIA SYNDICATE’s sole discretion.
-
-**8\. No Rights of Third Parties**
-
-This Privacy Policy does not create rights enforceable by third parties.
-
-**9\. Contacting  ALTERNATIVE MEDIA SYNDICATE**
-
-If you have any questions about this Privacy Policy, the practices of the Site or your dealings with us, please feel free to contact ALTERNATIVE MEDIA SYNDICATE at:
-
-Email: AlternativeMediaSyndicate@gmail.com
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
