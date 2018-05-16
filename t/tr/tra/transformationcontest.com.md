@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transformationcontest.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004224007id_/http%3A//www.turbulencetraining.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transformationcontest.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516041632id_/http%3A//www.turbulencetraining.com/privacy.shtml) for the most accurate reproduction.*
 
 # Turbulence Training Fat Loss Craig Ballantyne
 
