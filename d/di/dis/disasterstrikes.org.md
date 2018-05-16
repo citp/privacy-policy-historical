@@ -1,42 +1,100 @@
-> *The following text is extracted and transformed from the disasterstrikes.org privacy policy that was archived on 2012-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120826054628id_/http%3A//www.disasterstrikes.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disasterstrikes.org privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Policy | Disaster Strikes! Modern Disaster Product Database
+# Legal Agreement
 
-Like many web sites, this site gathers information about our visitors. The following document summarizes the various pieces of information we collect when you visit our site, and how this information is used and how it can be protected.
+**GoDaddy Respects Your Privacy**
 
-**Information Collected**
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-Each time a person visits DisasterStrikes.org, some information is gathered. This information includes, but is not limited to, IP addresses, browser name, version of that browser, and the time that the site was accessed. This information is not specific to you, and it’s placed into logs that give no indication of who you are or what any of your personal data is.
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-**Personally Identifying Information**
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-Sometimes, this website will collect personally identifying information in addition to non-specific information. This information is only collected if you submit it voluntarily and is not a condition for viewing the website. Such information includes names, addresses, email addresses, and phone numbers. It also includes any other information that you happen to provide us via the site or email communications.
+**Information Collection and Use**
 
-**Cookies**
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-This site uses cookies to provide the best service to our users as we can. Cookies are small pieces of information stored on your home computer. They serve several purposes, including storing preferences, items added to shopping carts, and the design of the website, depending on the type of browser you use. You can disable cookies if you wish, but you must remember that this site may require the use of cookies and you may not be able to see the whole site if you turn off this functionality.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-**Links and Third Party Sites**
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-Sometimes, this site links to other sites that are not owned by us. DisasterStrikes.org can not take any responsibility for the policies or actions of third party sites, and you are highly encouraged to view the privacy policy available on these other sites before using them.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-**Information Security**
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-Keeping your information secure is one of the most predominant concerns of this site. To ensure that your information is kept secure, this site employs industry-standard encryption technologies that follow strict, law-abiding guidelines. These steps include physical, electronic and practical safeguards. Although we do our best to ensure your information is kept safe, keep in mind that no method of transmission across the Internet is completely secure.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-**Your Rights**
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-By sending information to this website, you acknowledge and agree that this site and its webmaster has the right to modify, use, publish, reproduce, or distribute as we see fit. If you post information that is not unique, you must first obtain permission from the original owner to do so. Personal information submitted to the site will not be distributed, altered or published, but it can be passed on to third party companies you request information from or who we feel would provide you with the services or products you might be interested in.
+**Security**
 
-**Children Under 13**
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-DisasterStrikes.org does not collect information from children under 13 years old. If you are under that age, you should not volunteer any information to this site.
+**Updating Your Information**
 
-**Legal Use  
-**
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-By using this site you confirm that the owners of this site are located in the United States and are bound by the laws that govern companies in the same. Information is not released unless it is used to protect the Website or the Website legally bound to do so by a law enforcement agency. Your information will never be sold or traded for any reason.
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-**Changes to This Policy**
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-From time to time, this policy may need to be updated. As such, it is important that you check this policy regularly so that you can stay informed of any changes that have occurred since your last visit as use of the website indicates your agreement to any and all policies listed within.
+      iii.      You may call us at: (480) 505-8800
+
+       iv.      You may fax us at: (480) 505-8844
+
+**Sending Emails**
+
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+
+**Compliance with Laws and Law Enforcement**
+
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+
+**Third Party Service Providers**
+
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
