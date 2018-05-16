@@ -1,113 +1,100 @@
-> *The following text is extracted and transformed from the belisi.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501080631id_/http%3A//www.belisi.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belisi.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Belisi Reviews, Belisi Service, Belisi Policies - Privacy Notice
+# Legal Agreement
 
-Belisi Privacy Notice
+**GoDaddy Respects Your Privacy**
 
-Last updated: August 20, 2009
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-Belisi values your privacy. We know that you care about how information about you is used when you provide it at Belisi.com. We appreciate your trust. By visiting Belisi.com, you are accepting the practices described in this Privacy Notice.
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-What Personal Information About Customers Does Belisi.com Collect?
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-The information we learn from our customers helps us personalize your shopping experience at Belisi.com. Here are the types of information we gather.
+**Information Collection and Use**
 
-Information You Submit at Belisi.com: We receive and store any information you enter on Belisi.com, including email address, or give to us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of the features offered on Belisi.com. We use the information that you provide to respond to your requests, customize your shopping experience, make improvements to our services and communicate with you.
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-Email A Friend. If you choose to use our referral service to tell a friend about our site, we will ask for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Belisi Fashions does not store this information.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-Automatic Information: We receive and store certain types of information whenever you interact with us at Belisi.com, like many other web sites, we use cookies and we obtain certain types of information when you point your web browser to Belisi.com. It is possible to use certain tools to block cookies; however, if you choose to use these tools, we won't be able to provide you with a personalized experience at Belisi.com.
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-E-mail Communications: To help us make e-mails more useful to you, we often receive confirmation by using Web beacons when you open or click on a link in an email from Belisi.com. See "What are Cookies and other Tracking Utilities?" If you would like to adjust your e-mail preferences, please visit your "My Account" and change your preferences. You may also unsubscribe to any promotional email by following the instructions included in each email.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-Information from Other Sources: We may receive information about you from a third party service provider such as a credit reporting agency and add it to your account information stored in the Belisi database.
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-Contacting you via Cellular Phone: We will only contact you via your cellular phone if you provide your cellular phone number to us.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-What types of email communications does Belisi.com send?
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-Administrative emails related to your orders: If you place an order at Belisi.com, we will send you emails related to that order. For example, telling you when the order has been shipped or if you request a refund, when that refund has been processed. If you wish, you may opt-out of receiving these administrative emails by changing your preferences in "My Account".
+**Security**
 
-Use of Data Collected
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-We use your contact information to send you information about our company and promotional material from our partners. We may also use your personal, demographic and profile data for marketing and promotional purposes, send SMS alerts or notification, and for editorial or feedback purposes for our advertisers. Information collected by us may be added to our databases and used for future telemarketing, SMS text-messaging, e-mails or postal mailings. By using this site, you agree that you may be contacted in any manner contemplated in this section even if your number is found on a do not call registry, in-house list or similar registry.
+**Updating Your Information**
 
-Blog subscriptions & special reports: Belisi publishes blogs and sometimes publishes special reports about fashion. If you specifically request to receive these communications, we will send them to you. Any advertisements placed in these blog emails are for products sold by Belisi Fashions, Inc. and again, we don't offer advertising to 3rd parties.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-How do I opt-out from receiving email communications?
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-Opt-out link in emails: In all emails we send there is an opt-out link. If you click the opt-out link, you will be opted-out from the type of email in which you've clicked the link. For example, if you click the opt-out link from one of the blog update emails, you will not longer get the blog update email, but you will still continue to receive administrative emails about your account.
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-How do I opt-out from SMS text messaging?
+      iii.      You may call us at: (480) 505-8800
 
-For SMS text messages, you may remove your information by replying "STOP", "END", "QUIT" to the SMS text message you have received and we will remove your personal information within 10 days of receiving such request.
+       iv.      You may fax us at: (480) 505-8844
 
-Your account at Belisi.com: If you have an account at Belisi.com, you can change your email preferences and account information (including email address) by clicking 'Edit My Account'. You'll be taken to a page in which you can see all the various types of emails we send and choose subscribe or unsubscribe as you wish. You may update or delete any account information at 'Edit My Account' as well. Once your preferences are set, simply click the 'Save' button.
+**Sending Emails**
 
-Call our customer service center: If you would rather talk to a person, you can call 1-800-434-1962 and one of our customer service representative can opt you out of any emails you choose. Our hours of operation are Monday-Friday, 24 hours/day, Saturday & Sunday 9am to 6pm Eastern Standard Time.
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-Send us a letter: In accordance with the CAN-SPAM Act, all of our emails have our postal address at the bottom. It is PO Box 30609, Palm Beach Gardens, FL 33420. If you send a letter to our office, including the email address you want unsubscribed, we will follow your instructions.
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-Contact us form: You can send us an email through our online form. Click here to contact us.
+**Compliance with Laws and Law Enforcement**
 
-What are Cookies and Other Tracking Utilities?
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-Cookies are alphanumeric identifiers that Belisi transfers to your computer's hard drive through your web browser to enable our systems to recognize your browser and to provide personalized product recommendations and other personalized features. For this reason, we ties your personally identifiable information to our cookies. While your browser will allow you to disable cookies, we recommend that you leave them turned on so that you can enjoy the best possible experience at Belisi.com. Some of our business partners (ie tracking utility company) use cookies on our site. We have no access to or control over these third party cookies.
+**Third Party Service Providers**
 
-Log Files
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information. We use a third-party tracking service that uses cookies to track non-personally identifiable information about visitors to our site in the aggregate to capture usage and volume statistics to enhance our Web site.
+**Supplementation of Information**
 
-Web Beacons
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-We employ a software technology called Web beacons, that help us better manage content on our site by informing us what content is effective. Web beacons are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, Web beacons are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We use clear gifs in our HTML- based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. For this reason, we tie your email address to the Web beacons. If you would like to opt-out of these emails, please see follow the unsubscribe instructions in each email or change your email preferences in My Account.
+**Contests/Surveys**
 
-Does Belisi.com Share the Information It Receives?
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-Third-Party Service Providers: We may disclose personal information to other companies in connection with marketing efforts including but not limited to direct marketing, which may have no relationship to us. Furthermore, we may sell, license, or share your information with third-parties for various marketing purposes, including but not limited to telemarketing, e-mail marketing, text messaging, and direct mail.
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-Google Checkout: You also have the option to use Google Checkout when on site and completing an order. When you use this option, please be aware that you will be taken to Google’s own site to finish the purchase. Google’s privacy policy governs the collection and use of the information that you provide to them while on their site.
+**Tell-A-Friend**
 
-Links to Other Sites: This Web site contains links to other sites that are not owned or controlled by Belisi Fashions. Please be aware that we, Belisi Fashions, are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies only to information collected by this Web site.
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-Business Transfers: As we continue to develop our business, we might sell or buy assets. In such transactions, customer information, generally is one of the transferred business assets. Also, in the event that Belisi Fashions or substantially all of its assets are acquired, customer information will be one of the transferred assets.
+**What Happens to my Personal Information if I Opt Out?**
 
-As Directed by Law: Belisi Fashions will release account information and other personal information when we believe such release is required in order to comply with the law, enforce our conditions of use, or protect the rights, property or safety or Belisi.com, our customers or others. This includes exchanging information with other companies for fraud protection and credit risk reduction.
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-Can I have access to my personal information?
+**Transfer of Data Abroad**
 
-Belisi will provide you reasonable access to your personally identifiable information, including email address, at no cost to you, within 30 days of your access request. If we cannot provide access within the 30-day period, we will tell you when we will provide access. In the unlikely event that we cannot provide you access to this information, we will explain why we cannot do so. To request access to your personally identifying information, click here to contact us or write us at the following address:
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-PO Box 30609
+**Changes in Our Practices**
 
-Palm Beach Gardens, FL 33420
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-How Secure is Information About Me on Belisi.com?
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
 
-Belisi works to protect the security of your information, including email address, during transmission to us by using Secure Sockets Layer (SSL) software. SSL encrypts the information you submit online. Please be aware, however, that no transmission of information via the Internet can be entirely secure. You should, therefore, always use caution when submitting personal information online. We take commercially reasonable steps to provide security for your information once we receive it.
+**Contacting Our Site**
 
-Are Children Allowed to Use Belisi.com?
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
 
-Belisi does not sell products for purchase by children. At present we do not sell children’s products; however, in the future, we may sell children’s products for purchase by adults. If you are under 18, you may only use Belisi.com with the involvement of a parent or guardian. We do not knowingly collect any information from children under the age of 13.
+* * *
 
-Conditions of Use, Notices, and Revisions
-
-If you choose to visit Belisi.com, your visit and any dispute over privacy is subject to this Privacy Notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of Florida. If you are concerned about privacy at Belisi.com, please contact us and we will attempt to address your concerns.
-
-Blog
-
-If you use a blog or upload photos/comments on our site you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. When you go to our blog, please note that it is hosted by a third party. Web pages within its frame may appear to be on www. belisi.com when the user is still on a third party Web site. Our privacy policy governs the collection and use of any information submitted while on our blog.
-
-Testimonials & Photos
-
-From time to time, we publish testimonials & photographs on our site. By submitting photos, testimonials to us either through Belisi.com or to our customer service department you are providing royalty-free, unlimited consent to Belisi to modify and publish the content you have submitted to Belisi.com or other Belisi owned website properties.
-
-Reviews
-
-Belisi.com has arranged with PowerReviews, Inc. (d/b/a Buzzillions) ("PowerReviews") to facilitate the collection of reviews on products sold on Belisi.com. When you submit a product review to Belisi.com, you are also agreeing to the terms of use and privacy policies of Buzzillions. Your reviews may be posted on both Belisi.com and Buzzillions.com.
-
-Changes in this Privacy Statement
-
-Our business at Belisi is constantly changing. Over time, our Privacy Notice and Conditions of Use will change as well. Unless otherwise stated, our current Privacy Notice applies to all information and/or email practices regarding information that we have about you and your account. We value the trust you place in us when you shop at Belisi.com. If we change this privacy statement in ways that affect the personally identifying information we have collected through our Sites, we will post those changes in this space and advise you of choices you may have as a result of those changes. We will also post a prominent notice on our home page that this privacy statement has changed.
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
