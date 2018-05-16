@@ -1,119 +1,100 @@
-> *The following text is extracted and transformed from the admanya.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014040213id_/http%3A//admanya.com/privpolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admanya.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Policy - Admanya.com
+# Legal Agreement
 
-Overall privacy statement
+**GoDaddy Respects Your Privacy**
 
-We take your privacy seriously. Because we gather certain types of information about our users, we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, how we store it, and how to correct or change it. These privacy practices apply to the web site that you were viewing when you clicked through to this policy, which is operated directly by us.
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-1\. What information does admanya collect?
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-Our primary goal in collecting personal information is to provide you with the best and most useful content and services. Because we derive revenue mainly from third party advertising, collecting information is essential to keeping our services affordable to users.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-We collect personally identifiable information when you provide it to us, such as when you post a review on our site, when you put a comment in our on-line forum or when you sign up (register) to use certain services. Several of the services that we offer on our site may require registration as a condition of use. Once you register with our site you are no longer anonymous to us. We may also receive information about you from other sources and add it to the information you provided to us.
+**Information Collection and Use**
 
-This personally identifiable information is limited to:  
-1\. First and last name  
-2\. Gender  
-3\. Date of birth  
-4\. Home city  
-5\. Occupation  
-6\. E-mail address  
-7\. Any other information that you may choose to provide voluntarily under "about me" during signup or subsequently while building your user profile
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-In addition to personally identifiable information, our web logs collect standard web log entries for each page served, including your IP address, browser type, page URL and timestamp. Web logs help us to diagnose problems with our server, to administer the admanya site, and to otherwise provide our service to you.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-2\. How does admanya use the information?
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We use the information we gather for four general purposes:
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-§ To customize the advertising and the content you see;  
-§ To enhance the user experience in our site. We use tracking information to determine how well each page performs overall based on aggregate user demographics and traffic patterns to those pages. This helps us continue to build a better service for you;  
-§ To fulfill your requests for certain products and services, such as sending out electronic newsletters and enabling users to participate in paid services, polls, contests, and forums;  
-§ To send you information you agreed to receive about topics we think will be of interest to you.
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-3\. How does admanya protect your privacy?
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-As a matter of policy, except where you have consented expressly, admanya does not sell, rent, share, trade or give away any of your personal information unless required by law or for the protection of your membership. However, admanya may share (read the next section to know more about information sharing) profile information and aggregate usage information in a non-personally identifiable manner to advertisers and other third parties in order to present to members more targeted advertising, products and services. In such situations admanya will never disclose information that will be used to personally identify you.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-To protect your privacy, admanya provides:
+**Security**
 
-1 Email anonymization and relay to reduce 3rd party harvesting and spam;  
-2 Password protected account information;  
-3 Option to use nickname in public forums and postings;  
-4 Limiting access to your information to those employees who need access to perform their job function such as our customer service personnel;  
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
+**Updating Your Information**
 
-Admanya doesn?t display your email address on the site under any circumstances.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-However, Admanya has no control over privacy whenever a user voluntarily discloses personal information online for example on forum comments, through e-mail, or in review comment areas - that information can be collected and used by others. In short, by posting personal information online that is publicly accessible, the user may receive unsolicited messages from other parties in return.
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-4\. How does admanya share the information?
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-Personally identifiable information
+      iii.      You may call us at: (480) 505-8800
 
-We will make your personally identifiable information available to other companies or people when:
+       iv.      You may fax us at: (480) 505-8844
 
-§ We have your consent to share the information;  
-§ We respond to subpoenas, court orders, or legal process; or we believe that your actions violate applicable laws, Admanya?s User Agreement, or any usage guidelines for specific products or services, or threaten the rights, property, or safety of our company, our employees, our users, or others.  
+**Sending Emails**
 
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-Aggregate information
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-We aggregate personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing, promotional, and other purposes. We do not disclose to these entities any information that could be used to identify you personally.
+**Compliance with Laws and Law Enforcement**
 
-Business transfers
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-We are always seeking to improve our web site and our business. In accomplishing these objectives, we may buy or sell a company, or one or more of the companies in our corporate family may merge with or be acquired by another company. If we sell a business, we may transfer some or all of your information as a part of the sale in order that the service being provided to you may continue or for other business purposes.
+**Third Party Service Providers**
 
-5\. What information does admanya store?
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-Admanya stores the following information on a continuing basis:
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-1 All reviews and forum postings are stored in our database, along with personally identifiable information of users. The ads and forum postings may be stored even after deletion or expiry and / or may be archived elsewhere.  
-2 Our web logs and other system related records are stored indefinitely.
+**Supplementation of Information**
 
-Although we make good faith efforts to store the information in a secure operating environment that is not available to the public, we cannot guarantee complete security.
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-6\. What are my options?
+**Contests/Surveys**
 
-Users who would rather not provide any of the user data requested by our sign up process do not need to sign up with us. You can still view much of the content and use many of the services offered by our site without registering.
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-We also give users the following options:
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-§ Opting to unsubscribe our electronic newsletters. Users who opt in may remove themselves from mailing lists at any time through the my account page or by following the instructions at the end of the e-mail they received from us;  
-§ Opting not to provide certain personal information when you upgrade your membership, provided, however, that you may not be able to use some of our products or services without providing us with certain information.
+**Tell-A-Friend**
 
-7\. How can I review and update my personally identifiable information?
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-You can review, correct, or change the information collected during registration for our site. The instructions for doing this can be found in our my account area. Users may change information at any time and as often as necessary. Users who are experiencing problems with our services or who have questions about how our services work can contact us using e-mail addresses at the bottom of this page. Currently, we do not offer users a way by which to completely delete personal information established at the time of registration. All account information is password protected.
+**What Happens to my Personal Information if I Opt Out?**
 
-8\. How will I know if the privacy policy is changed?
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-Any modifications to our privacy practices will be reflected first within this area of web site. If there is a material change in our privacy practices, we will indicate on our site that our privacy practices have changed and provide a link to the new privacy statement.
+**Transfer of Data Abroad**
 
-9\. What is admanya?s practice regarding cookies?
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-Your Internet browser has a feature called cookies, which stores small amounts of data on your computer about your visit to any of our sites. You do not need to have cookies turned on to visit most of our sites, although active participation in certain areas of our sites may require cookies. Cookies alone tell us nothing about who you are unless you specifically give us personally identifiable information, in which case we use the information to enhance your services in the ways described below. By adjusting your settings on your browser, you may elect not to allow cookies to be collected.
+**Changes in Our Practices**
 
-The information we gather through the use of tracking technologies cannot be matched with any personally identifiable information about you.
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-We use and intend to use cookies and tracking technologies in a variety of ways, including:
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
 
-§ Keeping count of return visits to our site or our advertisers' or partners' sites;  
-§ Accumulating and reporting anonymous, aggregate (data collected in mass), statistical information on Web-site and advertisement usage;  
-§ Determining which features our overall user population likes best;  
-§ Saving your home city so you don?t have to select every time you visit our site;  
-§ Saving your password so you don't have to re-enter it each time you visit our site;  
-§ Displaying the most appropriate advertising based on your interests.  
-We allow other companies that are presenting advertisements on our sites and, sometimes, in our newsletters to use tracking technology on your computer. We do not give any personally identifiable information to them as part of this relationship. Unless you visit the Web site of these companies and provide them with personally identifiable information about yourself, these tracking technologies tell those advertisers nothing about who you are. Our advertisers' use of tracking technology is subject to their own privacy policies.
+**Contacting Our Site**
 
-10\. General
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
 
-Admanya, or people who post on admanya, may provide links to third party websites, which may have different privacy practices. We are not responsible for, nor have any control over, the privacy policies of those third party websites, and encourage all users to read the privacy policies of each and every website visited.
+* * *
 
-By visiting our web site and providing us with data, you acknowledge and agree that due to the international dimension of admanya we may use the data collected in the course of our relationship for the purposes identified in this policy or in our other communications with you, including the transmission of information outside your resident jurisdiction. In addition, please understand that such data may be stored on servers located in India and / or the United States. By providing us with your data, you consent to the transfer of such data.
-
-Questions, Comments
-
-We welcome your feedback on this document. For questions and comments about our user agreement and privacy policy and to report any breach, infringement or violation, email us to legal@admanya.com.
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
