@@ -1,41 +1,100 @@
-> *The following text is extracted and transformed from the youlovecoupons.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103112833id_/http%3A//www.youlovecoupons.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youlovecoupons.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Policy | Discount Coupon Codes and Promotional Vouchers
+# Legal Agreement
 
-Tantamount to providing excellent customer service is our objective to protect the privacy and confidentiality of information shared by our users. We believe that our customers have the right to know how we conduct our business especially when it comes to valuable information gathered by our company.
+**GoDaddy Respects Your Privacy**
 
-Therefore, this privacy policy aims to expound on our processes pertaining to the security of our systems when dealing with customer information. It is our goal to generate a sense of safety for everyone who decides to access our products and services.
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-#### Usage of Information
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-Our company gathers information from customers once they sign up for our newsletter. In order to subscribe to our newsletter, a customer must submit his/her email address. This information is then used by our team to enhance the performance of our services such as our company website in lieu of the feedback we receive from our valued customers.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-Moreover, we also make use of this information to update them on our current offerings and activities through email. A customer can still opt to stop his/her subscription from our newsletter by just following the proper instructions found on our website.
+**Information Collection and Use**
 
-#### Protection of Information
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-Top security systems and procedures are in place to eliminate breach of information by unauthorized persons. We consistently upgrade our security system to ensure that personal information remain accessible to the customer and top administration only. Our database network is duly protected by password codes which are restricted to authorized personnel only. Currently, our computer systems do not support the use of cookies in retaining information from customers.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-#### Third Party Disclosure
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-It is our company’s objective to sustain the level of integrity and professionalism in every dealing with our customers. Hence, we strictly prohibit the trade or disclosure of these personal information to third parties who may exploit this accessibility. However, it is within our discretion to divulge such information to trusted partners on the condition that they uphold a contract of confidentiality.  It is also the company’s prerogative to use the information when deemed proper especially in compliance with the law or in relation to the safety and protection of our rights and those of others.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-#### Third Party Affiliates
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-Apart from our own product offerings, we also promote the services of our affiliate group of companies. These third party partners carry out their own privacy policies which customers must first be aware of prior to making any transaction on these featured sites. YouLoveCoupons is not responsible for any information or service offered by these third parties, however, in line with improving our overall performance, we accept and encourage customer feedback on their services.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-#### Government Laws
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-In compliance with the California Online Privacy Protection Act, we guarantee that customer information will not be disseminated to external parties. It is the right of each customer to change his/her submitted information at anytime or when deemed necessary. By simply logging into their account and opening the profile page, they could modify the existing information in the database.
+**Security**
 
-Moreover, the Children’s Online Privacy Protection Act is strictly followed by our company with our offerings and services intended only for customers who are at least 13 years old. Information such as names or addresses are not mandated when using our site. We only require an email address in order to sign up for our products.
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-#### Terms and Conditions
+**Updating Your Information**
 
-To better understand our policies, rules and limitations of liability, please read our Terms and Conditions prior to using our website.  By signing up, you are therefore agreeing to the privacy policy of YouLoveCoupons.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-#### Privacy Policy Changes
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-Changes to our private policy may occur when necessary and without prior notice, hence, customers are advised to visit this page for updates before using our products and services.
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-For inquiries, comments and feedback, please visit our [Contact Us](http://www.youlovecoupons.com/contact-us/ "Contact Us") page or email us at [info[a]youlovecoupons.com](mailto:info@youlovecoupons.com).
+      iii.      You may call us at: (480) 505-8800
+
+       iv.      You may fax us at: (480) 505-8844
+
+**Sending Emails**
+
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+
+**Compliance with Laws and Law Enforcement**
+
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+
+**Third Party Service Providers**
+
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
