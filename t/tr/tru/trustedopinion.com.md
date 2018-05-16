@@ -1,82 +1,100 @@
-> *The following text is extracted and transformed from the trustedopinion.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123193703id_/http%3A//www.trustedopinion.com/info/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustedopinion.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Policy
+# Legal Agreement
 
-Effective date: July 17, 2006
+**GoDaddy Respects Your Privacy**
 
-You take your privacy seriously and Trusted Opinion strives to meet your expectations relating to how we collect, use and make available personal information you provide to us.
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-This Privacy Policy discloses the privacy practices which govern Trusted Opinion's collection, use and disclosure of your personal information. The Policy pertains to the use of [http://www.trustedopinion.com](http://www.trustedopinion.com/) and the Trusted Opinion service (the "Service"). By using Trusted Opinion or visiting the website, you consent to the collection, use and disclosure of your personal information pursuant to the terms of the Privacy Policy.
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-Personal information means any information that may be used to identify an individual, including, but not limited to, your name, home address, telephone number, email address, and credit card information. We require the following personal information from you during the Trusted Opinion registration process: name, email, zip code, country and gender. To provide you with better search results, you can optionally provide us further information about yourself such as age, occupation and marital status. You also have the option of uploading a picture or image of yourself for use on your profile.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-You may provide the email addresses of your friends that you would like to invite into your Trusted Opinion network. We do not sell, share or disclose your friends' email addresses with any third parties except as with any of the personal information you provide to us, this information may be accessible to our vendors and suppliers under limited circumstances.
+**Information Collection and Use**
 
-Requests and messages that you send within the Trusted Opinion system are stored on our system only for your own records, and not used for any other purpose. We collect email and feedback that you send to Trusted Opinion for administrative purposes.
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-In addition, we automatically collect non-personal information such as Internet Protocol (IP) addresses, browser data (such as your browser type) and site referral information. We use internet "cookies" to set and remember your browsing preferences, sign-in information and view your browsing patterns, such as what links are clicked, which profiles & reviews are most popular and what pages are viewed. Cookies are small text files downloaded onto your computer which store your information for following visits.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-Trusted Opinion is not intended for children under the age of 13, and by using the Service you attest that you are not under the age of 13. We do not collect personal information from children under the age of 13 and if we learn we have such information we will promptly delete it.
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-Trusted Opinion uses your personal information to allow you to register, sign in and use Trusted Opinion, and to process your email, invite or review requests and to render our services to you. We may use your reviews and feedback together with your first name and last name initial for promotional and marketing purposes on our website and elsewhere. We will only use your photo with your express permission. Aggregate information that does not identify you may be used for marketing or business purposes.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-With your express consent, we may use your personal information to send you special offers or information from our trusted business partners. You may choose to not receive these offers by opting out in your profile page. We may use your personal information for internal purposes and to send you technical or administrative email notifications.
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-Browser information, IP addresses, and cookie information are used to better tailor our content to site users' needs. Cookies are used to let you sign in, remember your browsing preferences, view browsing patterns and to show you appropriate advertisements. See above for further information about cookies.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-**Security of your Information**
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-We take the security of your personal information seriously. Your account information is password-protected and Trusted Opinion protects data transmissions by using SSL-encryption.
+**Security**
 
-We limit access to your personal information to employees and service providers who need access in order to do their jobs. We contractually require our service providers to have the same high privacy standards as we do.
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-Although we use every precaution to protect our users' personal information, we cannot guarantee that your data transmission over the Internet is 100% secure and that our privacy safeguards will not be breached. By using this web site or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of this site. Trusted Opinion may post a notice on our web site if a security breach occurs. If this happens, you will need a web browser enabling you to view the TrustedOpinion.com web site. Trusted Opinion may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach, you should notify us at [privacy@trustedopinion.com](mailto:privacy@trustedopinion.com).
+**Updating Your Information**
 
-Trusted Opinion will only share your personal information according to our Privacy Policy. Trusted Opinion does not rent, sell or share your personal information with non-affiliated third parties for their direct marketing purposes without your consent. We share personal information in the following situations: 
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-**During your Use of Trusted Opinion**
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-As a registered Trusted Opinion user, you decide how much information you want to disclose in your profile. By default, your full name and your email address are only shown to your 1st Circle Friends. 1st Circle Friends are the Friends that you invite into your network, or where you accept an invitation to join a network. Your photo, website and blog links, all of which are optional, are by default shown to all users in your extended network.
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-You can change the privacy setting for your name, email address, photo, website and blog at any time by going to your "My Account" section and selecting "Show only to 1st Circle Friends" or "Show to All" in your extended network from the drop down boxes. Friends in your extended network will only be able to view the information you decide to make public and your reviews.
+      iii.      You may call us at: (480) 505-8800
 
-You can search for users who are not in your extended network by their email address. If there is a match we will disclose the user's information according to their preferred privacy settings in "My Account" as described above. You can then send an invitation to your network to that user. If you select "Show to All" in your privacy settings, other users will be able to see your information if they search for you by email address.
+       iv.      You may fax us at: (480) 505-8844
 
-When you upload your friends' email addresses into the Service, we will only use these email addresses to connect you with other users or to allow you to invite your friends to use Trusted Opinion. We will not disclose these email addresses to any third parties or business partners for marketing purposes.
+**Sending Emails**
 
-**To Third Party Partners**
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-We may use cookies by third party partners to help analyze and optimize our online traffic and to display advertisements. We control how this data may and may not be used by our partners.
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-We may share aggregate information that does not identify you with our business partners or advertisers. If you expressly consent, we may share your personal information with business partners that may offer services we believe may be of interest to you. You can control whether you would like to receive offers from our business partners through your profile page.
+**Compliance with Laws and Law Enforcement**
 
-**For Administrative and Legal Purposes**
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-Trusted Opinion may disclose your personal information to carry out a user's request, or where Trusted Opinion reasonably believes that doing so is in compliance with our legal obligations pursuant to a search warrant or subpoena, or is in Trusted Opinion's interest to protect its property or other legal rights or the rights or property of others. We may also disclose your personal information where Trusted Opinion reasonably believes it is necessary to investigate, prevent, or take action regarding suspected or actual illegal activities, including without limitation, fraud, violations of Trusted Opinion's Terms of Service, or as otherwise permitted or required by law.
+**Third Party Service Providers**
 
-Staff or third party suppliers or vendors of Trusted Opinion may access your personal information to assist Trusted Opinion in operating its business. We require our vendors to have the same standard of privacy protections as we do.
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-**Merger or Bankruptcy**
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-In the event of a bankruptcy, sale of assets, transfer of ownership, acquisition or merger of Trusted Opinion, we may be required to disclose or transfer your information to any prospective or acquiring party. We will notify you by email of any such transfer and in such circumstances your personal information shall be treated as would any other asset of Trusted Opinion
+**Supplementation of Information**
 
-**Links to Other Websites**
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-Trusted Opinion provides hyperlinks to other websites. We are not responsible for the privacy practices of any linked websites and we expressly disclaim any liability relating to their activities or privacy practices.
+**Contests/Surveys**
 
-You have control over how much personal information you reveal to other users in your network. Most of the personal information that we ask for in your profile is optional. You can delete or modify information from your profile at any time.
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-You can close your Trusted Opinion account by emailing us an account deletion request at [feedback@trustedopinion.com](mailto:feedback@trustedopinion.com). Please include your full name, email address and user name in your request. However, please note that your identification and contact information may remain in our records for some period.
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-Trusted Opinion is designed for U.S. users and complies with U.S. privacy laws. If you are visiting from the European Union or other regions with laws governing personal information that may differ from U.S. law, please note that you are transferring your personal information to the United States and by providing your personal information to us you consent to that transfer.
+**Tell-A-Friend**
 
-Trusted Opinion may update this Privacy Policy. Changes will be indicated by a change to the effective date at the start of the policy. For changes to this Privacy Policy that may be materially less restrictive on our use or disclosure of personal information you have provided to us, we will attempt to obtain your consent before implementing the change. We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the Personal Information we collect. Your continued use of this web site constitutes your agreement to this Privacy Policy and any updates.
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-If you have any questions relation to our privacy practices, this policy or your personal information, please contact us by email at [privacy@trustedopinion.com](mailto:privacy@trustedopinion.com).
+**What Happens to my Personal Information if I Opt Out?**
 
-**Postal Mail Address:**
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-Trusted Opinion Inc.  
-228 Hamilton Ave Floor 3   
-Palo Alto, CA, USA 94301  
+**Transfer of Data Abroad**
 
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
