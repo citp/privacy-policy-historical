@@ -1,85 +1,100 @@
-> *The following text is extracted and transformed from the ozov.me privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121094642id_/http%3A//ozov.me/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozov.me privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Policy at ozov.me - Play free games online
+# Legal Agreement
 
-**PRIVACY / TERMS OF SERVICE**
+**GoDaddy Respects Your Privacy**
 
-**Disclaimer**
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-**Liability**
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-All materials, information, software, products and services (also referred to as “Content”), included in or available through www.ozov.com (also referred to as “Site”) are provided on an “as is” basis. The Content is provided without warranties of any kind.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-**By using the Content of the Site, you explicitly agree to these terms and conditions. We do not warrant that the Content on this Site is accurate, reliable or correct; that this Site will be available at any particular time or location; that any defects or errors will be corrected; or that the Content is free of viruses or other harmful components. Your use of this Site is solely at your own risk. Any Content viewed, downloaded or otherwise obtained through the use of this Site is done solely at your own discretion and risk, and you will be solely responsible for any damage, including without limitation personal injury or distress, damage to your computer system, or loss of data, that results from the viewing or download of any Content. The owner can not be held responsible for any problems occuring by using or not using the Site and its Content in any way.**
+**Information Collection and Use**
 
-Links, advertisements and third party sites
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-This Site provides advertisements and links to other third party websites over which we have no control. We can not be held responsible for those advertisements and websites or any of its Content. You acknowledge that you view and access these advertisements and websites entirely at your own risk.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-Terms Of Use / Copyright / Licensing
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-Content of the owner of ozov.com
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-The site ozov.com may not be copied, reproduced, republished, uploaded, posted, transmitted, or distributed, in whole or partly, for any purpose other than individual viewing of this content, without the express prior written consent of the owner. Any modification, decompilation or reverse-engeneering of the owners copyrighted content for any purpose is prohibited.
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-Content of Third Parties
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-Games and other content on the site which is not made and copyrighted by the owner of this site, is either licensed or used with permission and protected by international copyright. These games are intellectual property and/or copyright and/or trademark by their respective owners and/or authors.If you are the developer/owner/copyright holder of a game and you wish to have it removed by the owner of this site, please email us by contact form.
-
-Privacy Policy
-
-Automatically logged information (server logs), cookies, Flash shared objects
-
-**Server logs:**
-
-Like most servers, our servers automatically record the page requests made when users visit our Site. These “server logs” typically include your web request (the requested content), IP address, browser type, browser language and the date and time of your request. We use this information to help diagnose problems, to analyze statistics of our Site, and to allow us to improve the overall user-experience. No personal information (like your name, email or phone number) is being gathered with server logs. We do not transfer these data to third parties as long as it is not required by law.
-
-**Cookies:**
-
-The Site also uses the third party web analytics service “Google Analytics” (GA), by Google, Inc. GA use “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. No personal information (like your name, email or phone number) is being gathered with cookies.
-
-**By using this Site, you consent to the processing of data about you by Google in the manner and for the purposes set out above.**
-
-**Flash shared objects:**
-
-Most games on this Site are based on Flash and Unity technologies. Flash & Unity Games may collect data in “shared objects” which are textfiles stored on your computer. We have no control over what data Flash/Unity Games of third parties may collect. We are not responsible for the privacy practices of third parties Flash Games.
-
-**             Use of Facebook and Google Social Plugins**
-
-The responsible entity uses social plugins (“plugins”) of the social networks Facebook and Google on its website from facebook.com, which is operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, United States (“Facebook”) and google.com, which is operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, California, 94043, United States (“Google+1″). The plugins are marked with their logos: Facebook and Google+1. If the customer visits a web page on ozov.com, which contains such a plugin, the browser builds up a direct link to the Facebook or Google servers. The contents of the plugin is from Facebook and Google directly to the browser of the customer and integrated into this website.
-
-By integrating these plugins Facebook and Google receive information that the customer has visited this website ozov.com. If the customer is logged into Facebook or Google, these companies can assign the visit of the website to his or her Facebook/Google account. When the customer interacts with the plugins, for example, the “Like” button, “+1 Button” or add a comment, the corresponding information from the client’s browser is sent directly to Facebook or Google and stored there. Purpose and scope of data collection and further processing and use of data through Facebook or Google are related to the settings of the customer to protect his privacy, refer to the privacy policies of Facebook or Google.
-
-**            Third Party Advertising**
-
-We use several third party advertising companies to serve ads when you visit the Site. These companies may use cookies to store information about your visits to this and other websites (your browsing activity) in order to provide advertisements on this Site and other sites about goods and services that may be of interest to you.
-
-**You may refuse the use of cookies by selecting the appropriate settings on your browser.**
-
-**Google Adsense:**
-
-Delivered by Google, Inc., may make use of one or more “DoubleClick DART Cookies”.
-
-DART cookies store and collect data on your computer about your browsing activity. Google may use this data to show advertisements on this Site based on your browsing activity.
-
-**You can choose to opt out of Google’s use of cookies by visiting:**
-
-the [Google ad and content privacy policy](http://www.google.com/privacy_ads.html).
-
-**Value Click Media:**
-
-[http://www.valueclickmedia.com/privacy.shtml](http://www.valueclickmedia.com/privacy.shtml)
-
-**Contact via email**
-
-When you contact us via email, by using a contact form, you are providing us with personal information such as your name and email address. Such information is used only for the purpose of assisting you with, and validating your inquiry, request or submission. We respect the privacy concerns of visitors to www.ozov.com.
-
-**We do not sell or disclose your email address or any other personal information about you.**
-
-**Links**
-
-We may present internal links (i.e. links to our own pages) or external links (i.e. links to other websites) in a format that allows us to track statistics like the number of clicks a link gets. These statistics will only be used to help us improve the site. We are not responsible for the privacy practices or the content of websites that are being linked to from our Site or newsletters.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
 **Security**
 
-**We protect personal information against such risks as loss or theft, unauthorized access, disclosure, copying, use, modification or destruction, through appropriate security measures.**
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
+
+**Updating Your Information**
+
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+
+      iii.      You may call us at: (480) 505-8800
+
+       iv.      You may fax us at: (480) 505-8844
+
+**Sending Emails**
+
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+
+**Compliance with Laws and Law Enforcement**
+
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+
+**Third Party Service Providers**
+
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
