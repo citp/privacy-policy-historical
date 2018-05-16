@@ -1,60 +1,100 @@
-> *The following text is extracted and transformed from the smartvideochannel.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530161611id_/http%3A//smartvideochannel.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartvideochannel.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# SmartVideoChannel - Privacy Policy
+# Legal Agreement
 
-LAST UPDATED: 6/2/2006 
+**GoDaddy Respects Your Privacy**
 
-Protecting the privacy of all of our users is an ongoing commitment of SociallyBlog, Inc. and our SmartVideoChannel.com services (hereinafter, "SmartVideoChannel"). This Privacy Policy, which applies to all websites and services provided under the SmartVideoChannel names and marks, explains how SmartVideoChannel treats personal information that we collect and receive. Personal information is information about you, not otherwise publicly available, that personally identifies you; personal information may include your name, location, e-mail address, birth date, or other identifying information. 
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-SmartVideoChannel has established registration and sign-in procedures which, in conjunction with this Privacy Policy, help ensure the privacy of information provided to SmartVideoChannel by its visitors and members while using the SmartVideoChannel website. You should be aware that this Privacy Policy applies only to the SmartVideoChannel website and services, and not to any other websites you may visit before or after the SmartVideoChannel site. 
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-**WHAT INFORMATION DO WE COLLECT AND WHO IS COLLECTING IT?**
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-When you register to become a Member of the SmartVideoChannel website, SmartVideoChannel collects certain information such as your first and last name (which is optional), e-mail address, and your domain URL (collectively, "Membership Information"). In addition, we may collect survey responses or other information regarding our users' interests and preferences. 
+**Information Collection and Use**
 
-SmartVideoChannel will not distribute, sell or rent any of the personal information about you to other people or nonaffiliated companies except to enable the provision of services or products you have requested or when we have your permission to do so. 
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-Some contests, sweepstakes and other promotions that will appear on the SmartVideoChannel website may also be sponsored by other companies. These companies may also seek to collect personal information from you. You can avoid providing your personal information to these companies and sponsors by not participating in these contests, sweepstakes or promotions. **In any event, you are encouraged to make yourself familiar with the privacy policy specific to any such event prior to your agreement to participate.**
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-Please remember that any personal information voluntarily disclosed by you through e-mail, in public-view personal profiles, public-view uploaded materials, chat rooms, message boards, or intra-site message systems, can be seen and possibly used by others. Displaying personal information in such public fashion via our website or services may have unintended privacy implications for you. We encourage you to always remain aware of this possibility. SmartVideoChannel encourages you to use common sense and be cautious about what information you may provide on-line, whether through our websites or elsewhere on the Internet. 
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-You acknowledge, consent, and agree that SmartVideoChannel may access, preserve, use, and disclose your Membership Information, including content uploaded to or downloaded from SmartVideoChannel's websites and services, if required to do so by law or in a good faith belief that such access, preservation or disclosure is reasonably necessary to: 
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-(a) Enforce the SmartVideoChannel Terms of Service;  
-(b) Respond to claims that any uploaded materials violate the rights of third-parties;  
-(c) Respond to your customer service requests;  
-(d) Comply with legal process; and/or  
-(e) Protect the rights, property, or personal safety of SmartVideoChannel, its users, or the public. 
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-**HOW DO WE USE PERSONAL INFORMATION?**
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-Our primary goal is to provide members with the most useful and enjoyable experience on the Internet. Our advertisers will never be privy to your Membership Information, unless you permit us to give it to them so that they can provide you with products or services. Your e-mail address may be used by us for communications related to the SmartVideoChannel services, including but not limited to sending notices about new features, products, or other information of interest to you. 
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-The SmartVideoChannel website is constantly evolving and changing in content and in features. Member Information helps guide such changes and the evolution of our websites. Our advertisers and affiliates may be provided general information or data regarding membership usage patterns or interests, so that they too can better serve your needs and preferences, but such disclosure will not include individually identifiable information. The collection of usage and interest information allows us to provide a constantly evolving and user-sensitive package of services, products, and features that satisfy member needs, wants and desires but always with the priority of protecting individual member privacy. 
+**Security**
 
-**COOKIES**
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-SmartVideoChannel places cookies on your computer to retain your individual preferences and improve your user experience on our website, as well as to tell us what features of our sites are most popular. We do not store any personal information in cookies, nor do we use cookies to obtain any personal information from you. 
+**Updating Your Information**
 
-Affiliates and advertisers, product and service providers may also use their own cookies when you interact with their sites and you should be aware of this as you do so. 
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-**HOW DO I EDIT MY MEMBERSHIP INFORMATION?**
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-All of your Membership Information is located in your personal SmartVideoChannel profile. Your profile can be edited at any time, by logging in with your User Name and password, then clicking on the "Edit My Profile" link. 
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-**NOTICE REGARDING CHILDREN**
+      iii.      You may call us at: (480) 505-8800
 
-We at SmartVideoChannel take the online safety of children very seriously. SmartVideoChannel's websites and services are directed to adults. We do not allow children under the age of 14 to obtain User Names, and we do not intentionally collect any personal information from children under 14. 
+       iv.      You may fax us at: (480) 505-8844
 
-**CHANGES TO THIS PRIVACY POLICY**
+**Sending Emails**
 
-SmartVideoChannel may periodically update this Privacy Policy. We will notify you about significant changes in the way we treat personal information by placing a prominent notice on our websites. In addition, the date at the top of the Policy will indicate when the Policy has most recently been revised; we encourage you to periodically revisit the Privacy Policy to ensure that you are familiar with the current version. You are responsible for reviewing any revisions to this Policy, and your continued use of the SmartVideoChannel website and services after any change to the policy constitutes your acceptance of the Policy. 
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-**CONTACTING SMARTVIDEOCHANNEL**
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-If you have a privacy concern regarding any SmartVideoChannel website or this Policy, and if you cannot satisfactorily resolve it through the use of the websites, you should complete a feedback form or write to us by email at [privacy@SmartVideoChannel.com](mailto:privacy@SmartVideoChannel.com). Alternatively, we can be reached by postal mail address: 
+**Compliance with Laws and Law Enforcement**
 
-Attention: Privacy Officer  
-840 Apollo Street Suite 251  
-El Segundo, CA 90245  
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
+**Third Party Service Providers**
+
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
