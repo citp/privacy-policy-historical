@@ -1,87 +1,100 @@
-> *The following text is extracted and transformed from the foods.tv privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210164811id_/http%3A//www.foods.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foods.tv privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# – Privacy Policy | Foods TV
+# Legal Agreement
 
-This privacy policy applies to your use of the Foods.tv website and its applications for mobile devices (collectively, the “Site”), but does not apply to any third party sites that are linked to them, or any relationships you may maintain with the businesses on the Site.
+**GoDaddy Respects Your Privacy**
 
-The terms “we”, “us”, and “Foods.tv” refer to Online Discovery LLC. The terms “you” and “your” refer to you, as a user of the Site. The term “personal information” means information that you provide to us which allows us to contact or identify you, such as your name, your phone number, your email address, your current location or any other data that is connected to such information.
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-BY USING THE SITE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE WITH THESE TERMS, YOU SHOULD NOT USE THE SITE. 
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-###### **1\. COLLECTION AND USE OF YOUR INFORMATION**
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-We use commercially reasonable efforts to make sure that the collection of personal information is limited only to what is necessary in order to serve the purposes outlined below. If we plan to use your information for a manner other than the one which it is collected for, then we will ask you for your consent before we proceed to use it.
+**Information Collection and Use**
 
-**Foods.tv Member Account.** If you create a member account on Foods.tv in order to take advantage of all the services offered on the Site, we may ask for and record personal information such as your name and email address. We use your email address to send you news and updates as well as notifications regarding other users’ actions on your contributed content (such as when other users like or dislike your contributed content or comment on your contributed content). 
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-**Added Content.** We store and may publicly display your added content on the Site in order to provide the services that we offer. When we display your content, we do so together with your account name (first name and last name), your current location and your profile photo. The term “added content” refers to the information that you submit or post to the Site for public display, such as business ratings, reviews, photos, videos, geo-tags, comments, business profile edits, spottings and the information that you display as part of your member profile.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-**Feedback.** If you contact us to provide feedback, register a complaint, or ask a question, we will record any personal information and other content that you provide in your communication so that we can effectively respond to your communication.
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-**Activity.** We record information relating to your use of the Site, such as the searches you make, the pages you view, your browser type, IP address, requested URL, referring URL, and timestamp information. We use this type of information to administer the Site and provide the highest possible level of service to you. We also use this information in the aggregate to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the Site. You cannot be identified from this aggregate information.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-**Cookies.** We send cookies to your computer in order to uniquely identify your browser and improve the quality of our service. The term “cookies” refers to small pieces of information that a website sends to your computer’s hard drive while you are viewing the site. We may use both session cookies (which expire once you close your browser) and persistent cookies (which stay on your computer until you delete them). Persistent cookies can be removed by following directions in your specific browser. If you choose to disable cookies, some areas of the Site may not work properly.
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-**Enforcement.** We may use the information we collect in connection with your use of the Site (including your personal information) in order to investigate, enforce, and apply our Terms of Service and Privacy Policy. 
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-###### **2\. TRANSFER OF INFORMATION**
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-We may distribute your added content to third parties, as permitted pursuant to our Terms and Conditions of Use. The third parties may in turn publicly display or publish your added content in connection with their own websites and media platforms. When we distribute your added content to third parties, we may include your account name (but not your personal information unless you include it within your added content).
+**Security**
 
-We may share your personal information with third parties to provide you with services that we offer through the Site, conduct quality assurance testing, facilitate creation of accounts, provide technical and customer support, or provide specific services in accordance with your instructions. These third parties are required not to use your personal information other than to provide the services requested by you.
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-We may share your personal information with our parent company, subsidiaries, joint ventures, or other companies under a common control (collectively, “Affiliates”) that we may have now or in the future, in which case we will require them to honor this Privacy Policy. If another company acquires our company or our assets, that company will possess your personal information, and will assume the rights and obligations with respect to that information as described in this Privacy Policy.
+**Updating Your Information**
 
-We may disclose your personal information to third parties in a good faith belief that such disclosure is reasonably necessary to:
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-  * (a) take action regarding suspected illegal activities
-  * (b) enforce or apply our Terms and Conditions of Use and Privacy Policy
-  * (c) comply with legal process, such as a search warrant, subpoena, statute, or court order
-  * (d) protect our rights, reputation, and property, or that of our users, affiliates, or the public. 
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
+      iii.      You may call us at: (480) 505-8800
 
-Please note that we are not required to question or contest the validity of any search warrant, subpoena or other similar governmental request that we receive.
+       iv.      You may fax us at: (480) 505-8844
 
-We may disclose information in the aggregate to third parties relating to user behavior in connection with actual or prospective business relationship with those third parties, such as advertisers and content distributors. For example, we may disclose the number of users that have been exposed to, or clicked on, advertising banners.
+**Sending Emails**
 
-We may use third party advertising companies to serve ads when you visit the Site. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-###### 3\. OTHER PEOPLE’S INFORMATION
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-You may choose to provide us with another person’s email address to invite the person to use the Site. We use this information to contact that person about the invitation only once, unless that person becomes a member on the Site or provides us with their email address again, either by subscribing to a newsletter or by other means. By providing us with another person’s e-mail address, you represent to us that you have obtained the consent of the person to share his or her e-mail address with us. All invitees are provided with the option not to receive further invitations. We may disclose such information if required to do so in order to comply with legal process, as described above. 
+**Compliance with Laws and Law Enforcement**
 
-###### 4\. LINKS
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-The Site may contain links to third party websites to which we have no affiliation. Except as set forth herein, we do not share your personal information with those third parties, and are not responsible for their privacy practices. We suggest you read the privacy policies on all such third party websites. 
+**Third Party Service Providers**
 
-###### 5\. CONTROLLING YOUR PERSONAL INFORMATION
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-To the extent you include personal information within your submissions (such as a photo of yourself), third parties may be able to identify you, associate you with your user account, and contact you. Third parties can also associate you with your user account using the “Member Search” feature on the Site, but only if the third party already knows your full name and you include information in your submissions that allow the third party to distinguish you from other users who might share the same full name. Please do not include information in your submissions that you expect to keep private. In addition, you can reduce the risk of being personally identified by choosing a fictitious account name, though doing so may detract from the credibility of your submissions among other users.
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-As a registered Foods.tv member, you can modify some of your personal information by accessing the “Account” section of this website. 
+**Supplementation of Information**
 
-If you close your account, we may still retain your personal information in our systems. 
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-###### 6\. SECURITY
+**Contests/Surveys**
 
-Your account is password protected. We use industry standard measures to protect the personal information that is stored in our database. We limit the access to your personal information to those employees and contractors who need access to perform their job function, such as our customer service personnel. If you have any questions about the security on the Site, please contact us. Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that your personal information will never be disclosed in a manner that is inconsistent with this Privacy Policy.
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-You hereby acknowledge that Foods.tv is not responsible for any intercepted information sent via the internet, and you hereby release us from any and all claims arising out of or related to the use of intercepted information in any unauthorized manner.
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-###### 7\. NAI Opt Out Procedures
+**Tell-A-Friend**
 
-Customized or interest based advertising is a commonly used set of technologies that allow advertising platforms to provide you with advertisements more closely tailored to your interests. The Network Advertising Initiative is a coalition of online media firms that allow you to opt-out of customized advertisements within your browser.  
-You can learn about which NAI member firms are customizing advertisements for your browser and choose to opt out of customized advertising of this type by going to the following link: <http://www.networkadvertising.org/choices/>
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-###### 8\. TERMS AND MODIFICATIONS TO THIS PRIVACY POLICY
+**What Happens to my Personal Information if I Opt Out?**
 
-We may modify this Privacy Policy at any time, and will post any new versions on this page. If we make any material changes in the way we use your personal information, we will notify you by sending an e-mail to the last email address you provided to us and/or by prominently posting notice of the changes on our website. Any such changes will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on our website. These changes will be effective immediately for new users of the Site. Please note that at all times you are responsible for updating your personal information to provide us with your most current e-mail address. In the event that the last e-mail you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. In any event, changes to this Privacy Policy may affect our use of personal information that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your personal information, you must notify us prior to the effective date of the changes that you wish to deactivate your account with us. Continued use of the Site following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes. 
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-###### 9\. DISPUTE RESOLUTION
+**Transfer of Data Abroad**
 
-If you believe that Foods.tv has not adhered to this Privacy Policy you may write to Foods.tv at [privacy@mvs.tv](mailto:privacy@mvs.tv). In your correspondence, please describe in as much detail as possible ways in which you believe the Privacy Policy has not been complied with. We will investigate your complaint promptly. 
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-###### 10\. CONTACTING THE WEBSITE AND ACCESS TO YOUR PERSONAL INFORMATION
+**Changes in Our Practices**
 
-If you have any questions about this Privacy Policy, the privacy practices of this website, or if you want to exercise any of the rights that you are given under this Privacy Policy, you can contact us using the contact information listed above.
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
