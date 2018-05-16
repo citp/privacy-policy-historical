@@ -1,133 +1,100 @@
-> *The following text is extracted and transformed from the collarme.com privacy policy that was archived on 2014-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140426231539id_/http%3A//www.collarme.com/personals/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collarme.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# 
+# Legal Agreement
 
-Privacy Policy for www.collarme.com 
+**GoDaddy Respects Your Privacy**
 
-Effective Date : August 27, 2002
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-Last Updated : October 23, 2007
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-**I. General**
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-A. The operative parties referred to in this Privacy Policy (“Policy”) are and you, the user of this site.
+**Information Collection and Use**
 
-1\. is the publisher of www.collarme.com. Hereinafter, when first-person pronouns are used in this Policy, (us, we, our, ours, etc.) they are referring to the or www.collarme.com. Additionally, when the terms “The SITE” or “SITE” are used, these terms refer to www.collarme.com. Hereinafter, shall be referred to as COMPANY, or will be referred to in first-person, plural, pronouns.
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-2\. **You, the User** – As the user of this SITE, this policy will refer to the user as “you” or through any second-person pronouns, such as “yours,” etc. Hereinafter, the user of the SITE shall be referred to in applicable second-person pronouns.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-B. This Privacy Policy describes how we use information received about you when you visit our SITE or when you subscribe to, or otherwise use our online services. This Policy does not cover any information that we may receive from or about you through channels other than through the use of the SITE. 
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-**II. Revisions to this Policy**
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-1\. From time to time, We may revise this Policy. We reserve the right to do so, and You agree that We have this unilateral right. You agree that all modifications or changes to this Policy are in force and enforceable immediately upon posting. The updated or edited version supersedes any prior versions immediately upon posting, and the prior version is of no continuing legal effect unless the revised version specifically refers to the prior version and keeps the prior version or portions thereof in effect.
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-2\. We agree that if We change anything in this Policy, We will change the “last modified date” at the top of this Policy. You agree to re-visit this web page on a **weekly** basis, and to use the “refresh” button on Your browser when doing so. You agree to note the date of the last revision to this Policy. If the “last modified” date remains unchanged from the last time You reviewed this Policy, then You may presume that nothing in the Policy has been changed since the last time You read it. If the “last modified” date has changed, then You can be certain that something in the Policy has been changed, and you agree that you will re-review the Policy in its entirety and that you will agree to its terms or immediately cease use of any websites in the Network.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-3\. **Waiver** – if You fail to re-review this Policy as required to determine if any of the terms have changed, You assume all responsibility for such omissions and You agree that such failure amounts to Your affirmative waiver of Your right to review the amended terms. We are not responsible for Your neglect of Your legal rights. 
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-**III. Personal information that we collect**
+**Security**
 
-When using our SITE, you will register by creating an account or a member profile. Depending upon how you register, we will collect different information about you. The type of information collected is as follows:
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-  1. **Name**
+**Updating Your Information**
 
-  2. **Email Address**
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-  3. **United States zip code**
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-  4. **City**
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-  5. **State**
+      iii.      You may call us at: (480) 505-8800
 
-  6. **Country**
+       iv.      You may fax us at: (480) 505-8844
 
-  7. **Username**
+**Sending Emails**
 
-  8. **Password**
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-  9. **Ethnicity**
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-  10. **Gender**
+**Compliance with Laws and Law Enforcement**
 
-  11. **Age**
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-  12. **Weight**
+**Third Party Service Providers**
 
-  13. **Height**
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-  14. **Sexual Orientation**
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-  15. **Sexuality**
+**Supplementation of Information**
 
-  16. **Description of Sexual Preference**
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-  17. **Interests**
+**Contests/Surveys**
 
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
+**Tell-A-Friend**
 
-**IV. How we collect information from you**
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-A. **Where we collect information** – We collect information on the Birth Date VerifierTM page, through which you must pass in order to gain access to our SITE. We also collect information on the following pages:
+**What Happens to my Personal Information if I Opt Out?**
 
-1\. Registration pages
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-2\. Login pages
+**Transfer of Data Abroad**
 
-3\. Member Profiles 
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-B **. Passive Collection** – We use cookies to collect information including, but is not limited to, your username and password. We also collect information about your browser and your IP address. 
+**Changes in Our Practices**
 
-C. **Active Collection** – We collect information from you when you complete registration forms to sign up for your membership on our SITE. Locations for such collection are listed above, but we reserve the right to add additional information collection portals. We also reserve the right to collect personal information from you each time you access our SITE through the Birth Date VerifierTM page should we implement use of that device. 
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-**V**. **How we use your information**
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
 
-The primary use for your information is to provide you with services you have requested and/or paid for. We also use your information to deliver customized services to you. 
+**Contacting Our Site**
 
-We generally will use your information for the purposes for which you specifically provide it, for example, to ensure payment for subscription services. We also use your information for maintenance and development of the SITE, and we may release aggregate statistical data to potential advertisers.
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
 
-**VI.** **Special Cases**. 
+* * *
 
-It is our policy not to use or share the personal information about Visitors or Members in ways unrelated to those described in this Policy without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. However, we may disclose personal information about Visitors or Members, or information regarding your use of the Services or Web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: 
-
-1\. To satisfy any laws, such as the Electronic Communications Privacy Act, regulations, or governmental, or legal requests for such information; 
-
-2\. To disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Website User and Membership Terms and Conditions or other user policies; 
-
-3\. To operate our Services properly; 
-
-4\. To protect ourselves, our Members, and the general public. We specifically reserve the right to disclose any and all information to law enforcement in the event that a crime is committed, is suspected, or if we are compelled to do so by lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process. 
-
-5\. We will always cooperate with law enforcement authorities, private-party litigants, and others seeking information about our end users to the extent required by applicable law. Examples of such cooperation include lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process. 
-
-**VII.** **Transmittals from Us**
-
-We may send you periodic announcements including the details of our existing and new programs. You may opt out of these announcements by contacting Collarme Support using the "Support" link at the bottom of the Collarme.com homepage. If you opt out of these marketing emails, you may still receive system notices and other information that is specifically related to your account or to the operation of the SITE. 
-
-If you provide your information to us, use the SITE, or subscribe to any of our Services, you will have created a commercial relationship with us. In having done so, you understand that even unsolicited commercial email sent from us or our affiliates is not SPAM as that term is defined under the law. 
-
-**VIII.** **Photographs,** **Public Forums, and Member Profiles:**
-
-A. **Photographs** – Any photographs, images or graphics posted by you to the SITE should immediately be considered available for viewing by the public. We do not, can not, and will not act to maintain the privacy of any such material that you provide in any such medium. 
-
-B. **Public Forums** – Any information posted to a Forum, Message Board or Chat Room should immediately be considered to be public information. 
-
-C. **Member Profiles** – Any information provided in a user profile, member directory, or other related service should be considered to be public information. We do not, can not, and will not act to maintain the privacy of any information that you provide in any such forum or medium.
-
-**IX.** **Our Commitment to Data Security.**
-
-We take measures to protect the transmission of all sensitive end-user information. We make every effort to ensure the integrity and security of our network and systems. Nevertheless, we cannot guarantee that our security measures will prevent third-party “hackers” from illegally obtaining this information. We take all reasonable measures to prevent such breaches of security, but given the resourcefulness of cyber-criminals we are unable to guarantee that our security is 100% breach-proof. You assume the risk of such breaches to the extent that they occur despite our reasonable security measures. 
-
-**X.** **How to Access or Modify Your Information**. 
-
-We offer our Members the opportunity to access or modify information provided during registration. To access or modify such information, contact our Customer Service Department the "Support" link at the bottom of this page.
-
-**XI.** **Where to Direct Questions About Our Privacy Policy**.
-
-If you have any questions about this Privacy Policy or the practices described herein, you may contact us using the "Support" link at the bottom of this page. 
-
-This policy was prepared by Weston, Garrou, DeWitt & Walters, . 
-
-  
-
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
