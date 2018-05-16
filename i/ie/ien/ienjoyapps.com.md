@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ienjoyapps.com privacy policy that was archived on 2017-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171022031116id_/https%3A//www.ienjoyapps.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ienjoyapps.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516041447id_/https%3A//www.ienjoyapps.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - ienjoyapps
 
