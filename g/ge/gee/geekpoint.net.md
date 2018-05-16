@@ -1,87 +1,100 @@
-> *The following text is extracted and transformed from the geekpoint.net privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121111331id_/http%3A//www.geekpoint.net/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekpoint.net privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# GeekPoint - Privacy Policy
+# Legal Agreement
 
-Last Updated: 1st May 2009
+**GoDaddy Respects Your Privacy**
 
-  * [Commitment to Privacy](http://www.geekpoint.net/info/privacy/#commitment)
-  * [Information we Collect](http://www.geekpoint.net/info/privacy/#collection)
-  * [How we Use It](http://www.geekpoint.net/info/privacy/#usage)
-  * [Data Security](http://www.geekpoint.net/info/privacy/#security)
-  * [Children's Privacy](http://www.geekpoint.net/info/privacy/#children)
-  * [Accessing your Info](http://www.geekpoint.net/info/privacy/#access)
-  * [Any doubts / questions ?](http://www.geekpoint.net/info/privacy/#questions)
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-### Commitment to Privacy
+**Information Collection and Use**
 
-Your privacy is important to us. To better protect your privacy we provide this privacy policy notice explaining our data collection practices and the choices you can make about the way your information is collected and used. To make this policy notice easy to find, we make it available in the 'Site Information Center' which can be accessed from _any_ page of this website. 
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-### Information we Collect
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-**Cookies**  
-When you visit GeekPoint, we send one or more cookies to your web browser. A cookie is a small, harmless piece of information that is stored in your browser. Only the domain which set that cookie can access the information from it. (ie, other domains can't access cookies set by us and we can't access cookies set by others) 
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-**Server Logs**  
-Whever your access a file from our website, the server logs the following data: (i) Requested File name, (ii) Your IP address, (iii) Date & Time of request, (iv) Your user agent, (v) Referring webpage (if any), and (vi) Size of the requested document. 
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-**Forum Account**  
-In the process of creating an account on GeekPoint Forum, we ask for your EMail address. This is done to verify your identity & that you are a real human being; and not some unscrupulous bot submitting web forms across the internet. Also, each thread, post, message you create on the Forum is associated with your Forum account & stamped with your I.P. address. 
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-**Blog Comments**  
-Comments can be made on the GeekPoint Blog without any account registration. The standard visitor information like: IP address, Email (not verified), Name (not verified) and your Website URL (optional) is logged against each comment you make on a blog post. 
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-**Paid Services**  
-When using any of our web development / programming services; we require that you provide valid contact info (Your name, EMail address, Company/Organisation you work for) and optionally an IM (Instant Messaging) contact. If the payment is to be done via PayPal; then a valid PayPal address is required to send the service invoices. 
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-**Visitor Patterns**  
-We use a visitor tracking and analysis service (Google Analytics) to see how our website, website sections and webpages are performing. (e.g. Unique Visitors, Page Views, Total Visitors, etc.). No personally identifiable information is collected in this process. 
+**Security**
 
-**Outbound Clicks**  
-We track outbound clicks from our webpages too. Again, No personally identifiable information is collected in the process. Only pure stastical information like the URI of clicked link and URI of the page from which the click was done, is stored. 
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-**Advertising Services**  
-GeekPoint primarily uses Google Adsense to serve advertisements relevant to the webpage content. To know more about what information Google collects and uses, check out their General [Privacy Policy](http://www.google.com/privacypolicy.html) and [Advertising Policy](http://www.google.com/privacy_ads.html) pages. 
+**Updating Your Information**
 
-### How we Use It
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-**E-Mail Addresses**  
-EMail addresses you entered while registering on the Forum and/or while commenting on Blog posts are used to provide you updates of any content which you have subscribed to. Occasionally (once in a month or two), we send out newsletters and/or important announcements regarding the changes in website, ongoing contests, maintenance downtimes, etc. You Email addresses are safe with us. We won't sell it to anyone! 
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-**Passwords**  
-The password which you use to login to the Forum account is salted and then encrypted before being saved in our database. It's NEVER stored in a plaintext format. This way even we can't _see_ what your password is. And that's why in case you forget your login password, we can't retrieve it for you; we are only able to change it to something else. 
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-**Visitor Statistics**  
-Visitor statictics and data logged by the server and Google Analytics are used to improve our site. We can quickly see which pages are performing well and which of them are not. Some statistics like Total Visitors, Unique Visitors, Aggregate PageViews per month are released to public. But no personal information is ever revealed. 
+      iii.      You may call us at: (480) 505-8800
 
-**Cookies**  
-Cookies are used to store your personal preferences for a short time. They are used to customise the content that is served to you on the Forum (primarily) and/or other site's sections. Cookies are also used to store your site login credentials. (So you may or may not face difficulties accessing member-only functions, if you login with cookies disabled in your browser) 
+       iv.      You may fax us at: (480) 505-8844
 
-### Data Security
+**Sending Emails**
 
-Appropriate measures (user authentication, authorization, data encryption) are taken to ensure that the data we collect is safeguarded and secure from unauthorized access. Regarding the data submitted in Forum: private profile fields can only be accessed by site administrators, and I.P. addresses attached to the threads/posts can only be accessed by site administrators and moderators. 
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-### Children's Privacy
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-Protecting very young children's privacy is quite important. For that very reason we currently don't allow account registrations by children under 13 years of age, on our Forum. 
+**Compliance with Laws and Law Enforcement**
 
-### Accessing your Info
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-Wherever possible and feasible, we provide a way for you to edit and update your personal information. In the case of Forums, you can edit your personal information and site preferences via the UserCP _(User Control Panel)_. The various options and setting groups available to you are explained below: 
+**Third Party Service Providers**
 
-**UserCP » Edit Your Details**  
-Edit your personal information like birth date, birth date visibility preference, website URI, instant messaging (IM) contacts, your Location, Occupation, Hobbies / Topics of Interest, Biography, etc. All of these fields are optional and you can clear them out anytime you want. 
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-**UserCP » Profile Privacy**  
-You can select the user types who can access your user profile. Data which you can restrict is: Contact info, Profile picture, Visitor messages, Albums, Biography, Friends list, Recent profile visitor list and Group membership list. You can set the access level to: Everyone (Guests included), Registered Members, Users on your Contact list, Your Friends. 
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-**UserCP » Edit Options**  
-Various options are available to customise your Forum experience. The settings groups include: Login settings, Visitor and Profile Messaging, Thread Display Options, Date / Time / Timezone selection and some Miscellaneous options like the Forum's color scheme / layout (if multiple selections are available). 
+**Supplementation of Information**
 
-**UserCP » Edit Email & Password**  
-Pretty much self explanatory. You can edit the email address associated with the Forum account; and the password which you use to login. Please note that if you update your email address, you'll have to verify that new address too. 
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-### Any doubts or questions ?
+**Contests/Surveys**
 
-Got any doubts or questions regarding the privacy policy and how we implement it ? Feel free to contact us via any of the options listed on this page : [Contact Us](http://www.geekpoint.net/info/contact/). 
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
