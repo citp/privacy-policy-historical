@@ -1,32 +1,100 @@
-> *The following text is extracted and transformed from the sociologipal.com privacy policy that was archived on 2007-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070503173010id_/http%3A//www.sociologipal.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sociologipal.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Policy
+# Legal Agreement
 
-**About Sociologipal and the Information -- We Collect Profile Information submitted by Members to Sociologipal**  
-Sociologipal is an online social networking community that connects people through networks of friends for communicating, sharing and making new friends. To accomplish this, each Sociologipal Member creates his or her own profile, which contains the personal information that the Member chooses to include. This personal information includes such things as: First name or first and last names of the Member (depending on the options selected by the Member), Gender, age, martial status and other, similar personal information, Occupation, Schools attended or companies with whom the Member is associated, Location (e.g., city and state), and Photos, videos or other shared content uploaded by the Member to his or her profile, to the extent that it includes personal information.   
-**Other Information submitted by Members to Sociologipal**  
-Sociologipal also collects Member-submitted account information such as name and email address, to identify Members and send notifications related to the use of the Sociologipal service. You should also be aware that Members may reveal other personal information while communicating on other areas of the Sociologipal website, such as while participating in discussions on Sociologipal Groups and/or posting information on Sociologipal Blogs. This information, in turn, might be viewed by other Members or visitors to the Sociologipal website who are not Members.   
-**Information Not Directly Submitted by Members or Other Website Users to Sociologipal**  
-Finally, we also collect some information from Members, as well as from other visitors to the Sociologipal website, that is not personally identifiable, such as browser type and IP address. This information is gathered from all Members and visitors to the website.   
-**Use of Information Obtained by Sociologipal -- Profile Information submitted by Members to Sociologipal**  
-The personal information of a Member contained in his or her profile will be shown to those people whom the Member chooses. Each Member has three options when choosing the level of sharing of his or her profile. They are: "Friends" which consists only of that Member's friends, "Friends of Friends" which consists of that Member's friends, as well as the extended group of people who are friends of that Member's friends, and "Anyone" which is all visitors to the Sociologipal website, whether or not they are Sociologipal members. PLEASE NOTE THAT, REGARDLESS OF WHAT PERSONAL INFORMATION A MEMBER CHOOSES TO INCLUDE IN HIS OR HER PROFILE, OR WHAT LEVEL OF SHARING HE OR SHE CHOOSES, CERTAIN INFORMATION ABOUT EACH MEMBER WILL BE INCLUDED IN THAT MEMBER'S "PUBLIC PROFILE," WHICH IS AN ABBREVIATED VERSION OF A Sociologipal PROFILE.   
-**Other Information submitted by Members to Sociologipal**  
-Except where a Member might choose to include a full name in his or her profile, a Member's email address and full name will only be used in the following circumstances: When the Member invites a friend via email to become a Sociologipal Member, When the Member sends a request to another Member to add the other Member to his or her friend list, When we send notifications to the Member relating to his or her use of the Sociologipal service or Sociologipal website, and If the Member so chooses, when we send regular notifications, weekly updates, or other news regarding the Sociologipal service or the Sociologipal website. Except when inviting or adding friends, a Member's email address will never be shared with or displayed to any other person. Members and their friends, and other Members within their personal networks (depending on the level of sharing a Member has chosen) communicate on Sociologipal with each other through the Sociologipal service, without disclosing email addresses.   
-**Information that Members do not submit to us**  
-We use information relating to the server information, IP address, and browser-type.   
-**Sharing of the Information this Site Gathers/Tracks**  
-Except as explained above, or where you are expressly informed otherwise, we do not sell, rent, share, trade or give away any of your personal information, unless required by law or for the protection of your Membership. However, Sociologipal may share profile information and aggregate usage information in a non-personally identifiable manner with advertisers and other third parties in order to present to Members and other users of the Sociologipal website more targeted advertising, products and services. In such situations we will never disclose information that would personally identify you.   
-**Links**  
-The Sociologipal Website contains links to other websites. This includes links that are placed there by Sociologipal (such as in advertisements), as well as by other Sociologipal Members. Please be aware that Sociologipal is not responsible for the privacy practices of any other website. We encourage all Members and other users of the Sociologipal website to be aware of when they leave our website, and to read the privacy policies of each and every website that collects personally identifiable information. This privacy policy applies solely to information collected by Sociologipal through the Sociologipal website.   
-**Use of Cookies**  
-A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on the Sociologipal website. However, we do not and will not use cookies to collect private information from any Member or other user of the Sociologipal website which they did not intentionally submit to us, other than as stated in this Privacy Policy. We use both "session ID cookies" and "persistent cookies." We use session ID cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. Note also that Members may optionally use a cookie to remember their email in order to automatically log in to our website. You can remove persistent cookies by following directions provided in your Internet browsers's "help" file; however, please note that, if you reject cookies or disable cookies in your web browser, you may not be able to use the Sociologipal website.   
-**Correcting/Updating or Removing Information**  
-REMEMBER THAT YOU CAN CHANGE THE GROUP OF PEOPLE WHO MAY VIEW YOUR PROFILE AT ANY TIME. YOU CAN CHANGE THESE PROFILE SHARING SETTINGS BY CLICKING THE "SETTINGS" LINK IN THE TOP, RIGHT CORNER OF THE SOCIOLOGIPAL HOMEPAGE. ALSO, YOU CAN ALWAYS CHANGE THE PERSONAL INFORMATION YOU'VE SUBMITTED TO THE SOCIOLOGIPAL WEBSITE, INCLUDING THE INFORMATION INCLUDED IN YOUR SOCIOLOGIPAL PROFILE, BY CLICKING THE "EDIT PROFILE" LINK ON YOUR SOCIOLOGIPAL PROFILE PAGE.   
-**Changes in Our Privacy Policy**  
-If we change our privacy policy, we will post those changes on our web site so Members and other users of the Sociologipal website are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we are going to use Members' or other users' personally identifiable information in a manner different from that stated at the time of collection, we will notify those Members and users via email or by placing a prominent notice on our website.   
-**Invite a Friend**  
-If a Member elects to use our "Invite" feature to invite a friend to become a Member of the Sociologipal service, we ask them for the friend's email address. Sociologipal will automatically send the friend an email inviting them to join the site. Sociologipal stores this email address for the purpose of automatically adding the respondent to the friends list of the Member sending the invitation, and also to send reminders of the invitation. Sociologipal will never sell these email addresses or use them to send any other communication besides invitations and invitation reminders. Any person who receives an invitation may contact Sociologipal to request the removal of this information from our database.   
-**Security**  
-The Sociologipal account of every Member is password-protected. Sociologipal takes every precaution to protect the information of the Members, as well as information collected from other users of the Sociologipal website. We use industry standard measures to protect all information that is stored on our servers and within our database. We limit the access to this information to those employees who need access to perform their job function such as our customer service personnel. If you have any questions about the security at our website, please contact us.   
-**Third Party Advertising**  
-The ads appearing on this Web site are delivered to Members by our Web advertising partners. Our Web advertising partners may use cookies. Doing this allows the ad network to recognize your computer each time they send you an online advertisement. In this way, ad networks may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. Sociologipal does not have access to or control of the cookies that may be placed on the computer of any Member or other user of the Sociologipal website by the third-party ad servers or ad networks. This privacy statement covers the use of cookies by Sociologipal only, and does not cover the use of cookies by any other party. 
+**GoDaddy Respects Your Privacy**
+
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+
+**Information Collection and Use**
+
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+
+**Security**
+
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
+
+**Updating Your Information**
+
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+
+      iii.      You may call us at: (480) 505-8800
+
+       iv.      You may fax us at: (480) 505-8844
+
+**Sending Emails**
+
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+
+**Compliance with Laws and Law Enforcement**
+
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+
+**Third Party Service Providers**
+
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
