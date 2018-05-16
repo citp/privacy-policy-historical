@@ -1,65 +1,100 @@
-> *The following text is extracted and transformed from the myzeo.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024073649id_/http%3A//www.myzeo.com/sleep/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myzeo.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Policy | Zeo Sleep Manager
+# Legal Agreement
 
-**Privacy Policy**
+**GoDaddy Respects Your Privacy**
 
-**Effective: May 12, 2009 (updated June 11, 2012)**
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-Welcome to the web site (the “ **Site** ”) of Zeo, Inc. (“ **Zeo** ”, “ **we** ”, “ **us** ” and/or “ **our** ”). Through the Site, including without limitation the corporate-branded area and the area of the Site made available to registered owners of the Zeo Sleep Manager Mobile and Bedside sleep management devices  and such other devices offered by Zeo from time to time (the “ **Zeo Sleep Manager Devices** ”), and through mobile applications offered by Zeo from time to time, you will have access to an educational tool and motivational program that helps you learn about your sleep and which habits and behaviors may be keeping you from enjoying the sleep that you need (collectively, the “ **Zeo Services** ”). Neither the Zeo Sleep Manager Devices nor the Zeo Services are a medical device nor a medical program and none of them are intended for the diagnosis and/or treatment of sleep disorders.
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-Your privacy is very important to us at Zeo. Accordingly, we have developed this Privacy Policy to explain our policy with respect to personally identifiable data (“ **Personal Data** ”) and other information that is collected from those who use our Site.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-**Information We Collect:**
+**Information Collection and Use**
 
-When you interact with us through the Site, we may collect Personal Data and other information from you, as further described below:
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-**Personal Data That You Provide Through Registration:** We collect Personal Data from you when you register with the Site and create an account.  Except in connection with your order to purchase a product through the Site, we do not collect any credit card or other financial account information, driver’s license numbers and/or social security numbers.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-**Personal Data That You Provide Through Other Use of the Site:  ** We also collect Personal Data from you when you access the Zeo Services and/or other parts of the Site and elect to provide Personal Data through the Site.  For example, when you use a Zeo Sleep Manager Device, we will collect sleep data that you upload to the Site and information that you input in your sleep journal, such as details regarding your sleeping environment, your feelings, behaviors and other factors that may impact your sleep.
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-**By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy. If you provide Personal Data to this Site, you acknowledge and agree that such Personal Data may be transferred from your current location to the offices and servers of Zeo and the authorized third parties referred to herein located in the United States.**
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-**At no time shall Personal Data collected from you in accordance with this Privacy Policy or any information or materials derived from such Personal Data be deemed to be an electronic health record or an electronic medical record for any purpose whatsoever under any law or regulation, including without limitation for purposes of compliance with the Health Insurance Portability and Accountability Act of 1996.** **Other Information:** When you access the Zeo Services through the Site, we receive and store certain personally non-identifiable information. Such information, which is collected passively using various technologies, cannot be used to specifically identify you. Zeo may store such information itself and/or such information may be included in databases owned and maintained by Zeo affiliates, agents or service providers. This Site may use such information and pool it with other information to track, for example, the total number of visitors to our Site, the number of visitors to each page of our Site, and the domain names of our visitors' Internet service providers. It is important to note that no Personal Data is available or used in this process.    In operating this Site, we may use a technology called "cookies." A cookie is a piece of information that the computer that hosts our Site gives to your browser when you access the Site. Our cookies help provide additional functionality to the Site and help us analyze Site usage more accurately. For instance, our Site may set a cookie on your browser that allows you to access the Site without needing to remember and then enter a password more than once during a visit to the Site. In all cases in which we use cookies, we will not collect Personal Data except with your permission. On most web browsers, you will find a “help” section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies turned on because they allow you to take advantage of some of the Site’s features.   
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-**Our Use of Your Personal Data and Other Information.** **** Zeo uses the Personal Data you provide in a manner that is consistent with this Privacy Policy.  We may use your Personal Data for the purpose for which it was provided, including without limitation for the purposes described further below:
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-  * **_Provision and Monitoring of the Zeo Services:_** _ _ We will use your Personal Data to provide you with access to and support your use of the Zeo Services and to monitor your use of the Zeo Services. As part of the Zeo Services, we may use your Personal Data to provide you with personalized coaching on methods for sleep improvement. We will also give you the opportunity to store, review and edit Personal Data and other information on the Site.
-  * **_Surveys, Contests and Other Special Offers:_** From time to time, we may offer our users the opportunity to participate in surveys, contest and other special offers.  If you elect to participate in these services, you will need to provide certain Personal Data.
-  * **_Questions and Requests:_** If you contact us by e-mail or otherwise, we will use the Personal Data you provide to answer your question or resolve your problem.
-  * **_Contacting You About Other Products, Services and Events:_**   If you opt-in, Zeo and/or third parties may use your Personal Data to contact you in the future to tell you about products, services and events that may be of interest to you.
-  * **_Research and Data Analysis:_** In an ongoing effort to better understand and serve the users of the Sites and the Zeo Services, Zeo often conducts research on its customer demographics, interests and behavior based on de-identified Personal Data and other information provided to us. This research may be compiled and analyzed on raw data or an aggregate basis, and Zeo may share this de-identified data with advertisers, researchers, business partners, publications, and other third parties. This information will not identify you personally.
-  * **_Service Improvement:_** We may use your Personal Data, aggregated Personal Data and other personally non-identifiable information collected through the Site to help us improve the content and functionality of the Site, to better understand our users and to improve the Zeo Services.
-  * **_Order Fulfillment:_** We may use your Personal Data collected through the Site to fulfill any orders you may place for products offered by Zeo.  Notwithstanding anything herein to the contrary, we will only use your credit card or other financial account information for order processing and fulfillment.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
+**Security**
 
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-**Our Disclosure of Your Personal Data and Other Information.** We consider your Personal Data and privacy to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, as set forth below:
+**Updating Your Information**
 
-  * **_Business Transfers:_** As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets. 
-  * **_Agents, Consultants and Related Third Parties:_** Zeo, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information, and maintaining databases. When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function. 
-  * **_Legal Requirements:_** Zeo may disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of Zeo, (iii) act in urgent circumstances to protect the personal safety of users of the Site or the public, or (iv) protect against legal liability.
-  * **_Third Parties Upon Opt-In:_** If you opt-in to allow us to share your Personal Data with third parties because you agree to be contacted by such third parties with respect to products, services and/or events that may be of interest to you, your Personal Data will be shared with such third parties.
-  * **_Personal Data:  _** As described above, we may share aggregated or raw, de-identified Personal Data with advertisers, researchers, business partners, publications, and other third parties.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-**Your Choices.** You can use the Site without providing any Personal Data. However, if you choose not to provide any Personal Data, you may not be able to use certain areas of the Site and/or certain Zeo Services.  For example, you will not be able to use the Zeo Services without creating an account, establishing a sleep profile and providing the necessary registration information.  You will have the choice as to whether or not you wish to be contacted by us and/or by any third parties with offers for products, services and/or events that may be of interest to you. You can control these choices at the My Account section of the Site.
+      iii.      You may call us at: (480) 505-8800
 
-**Exclusions.** This Privacy Policy does not apply to any Personal Data collected by Zeo other than Personal Data collected through the Site. This Privacy Policy shall not apply to any unsolicited information you provide to Zeo through this Site or through any other means. This includes, but is not limited to, information posted to any public areas of the Site, such as bulletin boards (collectively, “Public Areas”), any ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, “Unsolicited Information”). All Unsolicited Information shall be deemed to be non-confidential and Zeo shall be free to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution.
+       iv.      You may fax us at: (480) 505-8844
 
-**Children.** The Site and the Zeo Services are intended for adults.  Users under the age of eighteen (18) are not permitted to use the Site or register for and/or use the Zeo Services without the consent of a parent or legal guardian.
+**Sending Emails**
 
-**Links to Other Web Sites.**   This Privacy Policy applies only to the Site. This Site may contain links to other web sites not operated or controlled by Zeo (the “Third Party Sites”). The policies and procedures we described here do not apply to the Third Party Sites. The links from this Site do not imply that Zeo endorses or has reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies.
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-**Security. ****** Zeo takes reasonable steps to protect the Personal Data provided via the Site from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or e-mail transmission is ever fully secure or error free. In particular, e-mail sent to or from this Site may not be secure. Therefore, you should take special care in deciding what information you send to us via e-mail and/or Internet transmission. Please keep this in mind when disclosing any Personal Data through the Site.
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-**Your Sharing of Data.** Through the Services you may have the ability to share your Personal Data with others, including without limitation through email, Facebook and Twitter.  When sharing your Personal Data with others through these or other means you should take into consideration your own privacy.  Personal Data shared by you with others through these or other means are shared by you at your own risk, and such sharing is not subject to this Privacy Policy and is subject to the Privacy Policy and Terms and Conditions of the third parties through which you share your Personal Data.
+**Compliance with Laws and Law Enforcement**
 
-**Other Terms and Conditions.** Your access to and use of the Zeo Services through the Site is subject to the [Terms of Use](http://www.myzeo.com/pages/56_terms_conditions.cfm).
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-**Changes to Zeo’s Privacy Policy.** The Site and our business may change from time to time. As a result, at times it may be necessary for Zeo to make changes to this Privacy Policy. Zeo reserves the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this policy periodically, and especially before you provide any Personal Data. Your continued use of the Site after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy.
+**Third Party Service Providers**
 
-**Access to Information; Contacting Zeo.** To keep your Personal Data accurate, current, and complete, please visit the My Account section of the Site.  You may also contact us as specified below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via this Site.
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-Please also feel free to contact us if you have any questions about Zeo’s Privacy Policy or the information practices of this Site. You may contact us as follows: [privacy@myzeo.com](file://localhost/javascript/noSpamMailLink\('privacy','myzeo','com','%2520'\)%3B).
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
