@@ -1,52 +1,100 @@
-> *The following text is extracted and transformed from the supportdock.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102112803id_/http%3A//www.supportdock.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supportdock.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Policy
+# Legal Agreement
 
-This privacy policy discloses the practices for iYogi Inc (“iYogi”) to protect privacy for users of its “Toolbar” beta users. From herein, the "Service" is defined as the user support services owned and operated by iYogi and the “iYogi Toolbar” or “Toolbar” is defined as the desktop toolbar supplied by iYogi to identified users during the Beta Testing phase. Submitting your information on our website or through the toolbar constitutes acceptance of this privacy Policy.
+**GoDaddy Respects Your Privacy**
 
-#### 1) INFORMATION COLLECTION AND USE
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-iYogi is the sole owner of the information collected through the web site/phone/e-mail. We will not sell or rent this information to others in ways different from what is disclosed in this policy. iYogi collects information from the users at several different points through our toolbar.
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-#### a) Personal Information
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. In order to use the iYogi Service and the toolbar user must first complete the registration form. During registration user is required to give user contact information (such as First and Last name, E-mail address, Postal address, Personal identifier etc.). iYogi will use your contact details to contact you regarding the product and/or services you have requested. This includes re-registration/renewal notifications, special offers, and surveys on improving our service. 
+**Information Collection and Use**
 
-#### b) Payment Information
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-If user registers to use the Service provided by iYogi, we will collect credit card information, and other payment information necessary to complete a payment from user. iYogi may use a third party to process and verify credit cards for billing purposes. This requires us to share user name, credit card number, expiration date and billing address with the credit card processing company. When processing a payment transaction, iYogi will also obtain information regarding the amount of the payment and other transaction data. We may transfer or disclose this payment information to a third party only to the extent necessary in order to complete the payment processing.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-#### c) Computer System Information
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-**i) Subscriber Computer -** We may also ask for information related to your computer. This may include: information about the date of purchase of your computer, type of computer, identification number of your computer, make and model of your computer and/or any computer hardware, software or peripherals attached to it, condition of the computer, system and registry data about software installations and hardware configurations, and error tracking files. Generally, this information is required to provide personalized technical support to you, and to help us update our support tools and enhance our supported products list.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-**ii) Remote Access -** While requesting support you may request for the problem to be resolved by taking control of your computer. iYogi uses qualified tools which allow user to grant control of user computer to an Expert remotely over the Internet, so that the Expert can diagnose or correct problems. Experts are not allowed to use the Remote Access software until and unless they have received adequate training in its use, and user have consented to grant control. In addition, Experts will not use Remote Access tools to obtain confidential or sensitive information stored on user computer or network, deliberately destroy information on user computer or network, or cause user to experience system problems.
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-**iii) Diagnostic Tool -** Some iYogi online diagnoses application may collect a wide variety of useful information about the state of a computer system and the applications on it. This information is packaged into a document containing all the essential details needed by iYogi and is sent securely over the Internet to the iYogi server or a third party server appointed by iYogi. iYogi analyzes this information to help diagnose and solve end-user problems. Information collected by the iYogi application will not contain any sensitive information such as Web sites visited, e-mail messages, e-mail addresses sent to, passwords, profiles, etc.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-Use of the Remote Access and Diagnoses applications is also subject to the terms of use in the respective software license agreements.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-**d) Live Help -** Session Records iYogi reserves the right to monitor on-line and off-line sessions between user and a Technical Support Executive for quality control of the Service provided to the Customer by Technical Support Executive. In addition, we may record on-line and off-line sessions conducted on the Web site for user reference and to assist in resolution of disputes and/or potential complaints. The session records will also be used to improve the Service, build a support knowledge base, and/or conduct internal market research. Session record data will not be correlated with personally identifiable data about individual customers.
+**Security**
 
-**e) Cookies** \- A cookie is a message given to a Web browser by a Web server. The browser stores the message in a text file. The main purpose of cookies is to identify users and possibly prepare customized Web pages for them. Usage of a cookie is in no way linked to any personally identifiable information while on our site and cannot infringe the privacy of our customers.
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-**f) Log Files -** We use IP addresses to analyze trends, administer the site, track user movement, and gather broad demographic information for aggregate use.
+**Updating Your Information**
 
-**g) Sharing -** We will share aggregated demographic information with our partners and advertisers. This is usually not linked to any personal information that can identify any individual person, unless specifically required to allow use of specific widgets within the toolbar. h) Surveys & Contests From time-to-time our toolbar requests information from user via surveys or contests. Participation in these surveys or contests is completely voluntary and user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this toolbar and the iYogi service.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-**i) Children's Online Policy -** No part of our website is structured to attract anyone under the age of 13. Consistent with the Children's Online privacy Protection Act, we do not collect or maintain information at our website from or sell products to those we actually know are under the age of 13. Please ask your parent or guardian to assist you in using our services if you are under the age of 13.  
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-**ii) SECURITY -** This Web site takes every precaution to protect information of users. When user submits sensitive information via the Web site, user information is protected both on-line and off-line. When our registration form asks User to enter sensitive information (such as credit card number), the information is encrypted and is protected with the best of the encryption software. While on a secure page, such as our registration form, the lock icon on the bottom of Web browsers such as Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when User is just 'surfing'. While we use encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to user information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment. In situations that are required by law, we may disclose some information about our users to law-enforcing officers.
+      iii.      You may call us at: (480) 505-8800
 
-**iii) SUPPLEMENTATION OF INFORMATION** \- In order for this toolbar to properly fulfill its obligation to our customers, it is necessary for us to supplement the information we receive with information from Third party sources. For example, to determine our user's creditworthiness, we may use their name and other related information to request a credit report. Once we determine user creditworthiness, this document is destroyed.
+       iv.      You may fax us at: (480) 505-8844
 
-**a) Special Offers -** We send all new members a welcoming e-mail to verify password and logon name. Established members will occasionally receive information on products, services, special deals, and newsletters.
+**Sending Emails**
 
-**b) Correction/Updating Personal Information -** If User personally identifiable information changes (such as user zip code), or if User no longer desire the Service, we will Endeavour to provide a way to correct, update or remove User personal data provided to us. This can be done at the Profile page.
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-**c) Notification of Changes -** iYogi reserves the right to update this privacy Policy at any time by posting changes online without notice to you. The most current version of the privacy Policy can be reviewed by clicking on the "privacy Policy" hypertext link located on our Web site http://www.iyogi.net. It is your responsibility to refer to this privacy Policy before submitting any information on the website. Submitting your information after such changes to the privacy Policy constitutes acceptance of those posted changes.
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-**d)** If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify user via e-mail. We will use information in accordance with the privacy policy under which the information was collected.
+**Compliance with Laws and Law Enforcement**
 
-If user has any questions about the privacy Policy at our Web site, user can e-mail user inquiries to [feedback@iyogi.net](mailto:feedback@iyogi.net)
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+
+**Third Party Service Providers**
+
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
