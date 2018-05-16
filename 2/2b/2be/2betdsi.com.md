@@ -1,66 +1,100 @@
-> *The following text is extracted and transformed from the 2betdsi.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419145413id_/http%3A//2betdsi.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2betdsi.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Online Gambling Odds for NBA Basketball Games - Triple Crown Gambling - 2009 Kentucky Derby Racebook
+# Legal Agreement
 
- Diamond Sportsbook Intl respects the privacy of visitors to our site. Please read this Online Privacy Policy carefully so that you understand our privacy practices relating to information we gather through this Web site. 
+**GoDaddy Respects Your Privacy**
 
-**Protecting the Privacy of Children**  
-Diamond Sportsbook Intl does not market to children under the age of 18. Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. If you're under 18, please don't visit DiamondSportsbook.com. 
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-**The Information We Collect**  
-The information gathered by Diamondsportsbook.com generally falls into two categories:   
-(1) information supplied by visitors to the site when they register or initiate transactions, and (2) tracking information gathered as visitors navigate through the Diamondsportsbook.com site. Third-party providers, whose sites are featured on and accessed via our site, may gather information as well. 
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-The information you provide us during a visit to Diamondsportsbook.com helps us to improve the quality and utility of our site. The more information you share with us, the better we can serve your needs. 
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-When you purchase services, we may request the following types of information: 
+**Information Collection and Use**
 
-  * Name 
-  * Shipping and/or billing address 
-  * Credit card number or account number 
-  * Phone or fax number 
-  * Email address 
-  * Date of birth 
-  * Social Security Number 
-  * Driver's license number 
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We may need this information to process your order. If we have trouble processing your order, the contact information you provide is used to get in touch with you. We also use this contact information to provide you with updates regarding your account and/or our service. 
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-For credit card accounts, we may request a Social Security Number, the only purpose for which we'll use your Social Security Number is to confirm your identity when you inquire about or access your account. 
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-**Email Addresses**  
-If you provide us your email address, from time to time we may send you emails about new products and services, or offers that we believe will interest you. Though we hope you'll find this information useful, if you do not wish to receive such email, please indicate, when you give us your email address, that you'd prefer not to receive such information or offers. 
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-**Accessing Your Registration Profile**  
-To change your contact, phone, account or e-mail preference information, contact the Customer Service department at 800-264-4535. You'll need your Member Name and Password to make changes to your profile. 
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-**Cookies**  
-To help us tailor our site to the needs and interests of our visitors, we keep track of the pages visited by our users by placing a small entry in a text file, called a cookie, on your hard drive. The cookie contains an ID number that allows us to track the pages you've visited. We aggregate this data with data on the pages visited by other users to track overall visitor traffic patterns. We use this information to improve our site by making it more responsive to the needs of our users. The help function on most browsers contains information on how to set your browser to notify you before accepting a cookie or to disable cookies entirely. 
+**Security**
 
-**Browser Level Information**  
-Our Web server automatically collects your IP address when you request pages from our server. Your IP address is a number that is used by computers connected to the Internet to identify your computer so that data (such as the Web pages you request) can be sent to you. We also collect information on the operating system you're running on your computer and the Web browser software you're using to access our site so we can optimize our site for the most popular operating systems and Web browsers. And, because we like to know how you found our site, we keep track of where you came from. 
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-**Pop-up Surveys**  
-From time to time, we request information from users via pop-up surveys. Participation in these surveys is completely voluntary; if you don't want to provide the requested information, please don't respond to the survey. The information we gather through these surveys will be used to improve our site. 
+**Updating Your Information**
 
-**Information Collected by Third Parties**  
-Of course, our site includes links to other Web sites, and provides access to products and services offered by third parties, whose privacy policies we don't control. When you access another Web site or purchase products or services or conduct other transactions through our Web site, use of any information you provide is governed by the privacy policy of the operator of the site you're visiting or the provider of such products or services. The provider's privacy practices may differ from ours. If you can't find the privacy policy of any of our provider partners via a link either from the site's page or from the pages on which the products or services are offered, you should contact the provider directly for more information. 
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-**Security**  
-The information we collect from our visitors is stored in databases we control. Physical access to the servers on which we store visitor information is restricted. We use your credit card information only to bill you for the products and services you order from us. We don't share your credit card information with anyone, except as may be necessary to process your transactions. To protect the privacy of your credit card number and other ordering information, we encrypt this information for transit over the Internet using a Secure Sockets Layer ("SSL") connection. However, as effective as modern security practices are, no physical or electronic security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted over the Internet. 
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-Most Web browsers allow use of an SSL connection. If your browser does not support use of an SSL connection, or if you prefer not to send your credit card number over the Internet, you can place your order by calling us toll free at 1-800-264-4535. 
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-**Disclosure of Information**  
-We may occasionally release information about our visitors when release is appropriate to comply with law, to enforce our Visitor Agreement, or to protect the rights, property or safety of visitors to our site, our customers, the public or Diamond Sportsbook Intl. As our business grows, we may buy or sell various assets. In the unlikely event that Diamond Sportsbook Intl, one of its business units, or substantially all of its assets are acquired by another company, information on our visitors would be among the transferred assets. All Customers data will be treated confidential and will not be sold to others. 
+      iii.      You may call us at: (480) 505-8800
 
-**Changes to This Privacy Policy**  
-This privacy policy is subject to change. The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the new policy promptly. If at any point we decide to use personally identifiable information in a manner different from what was stated at the time it was collected, we will notify you and give you an opportunity to opt out of the proposed use. By using Diamondsportsbook.com, you agree that your visit to our site, and any dispute over privacy, is governed by the then-current version of the Online Privacy Policy and our Visitor Agreement. 
+       iv.      You may fax us at: (480) 505-8844
 
-**Questions or Complaints**  
-If you have any questions about, or complaints that concern, this Online Privacy Policy, please call Customer Care at 1-800-264-4535. Our representatives will respond to your inquiries or help resolve any dispute concerning this Online Privacy Policy. 
+**Sending Emails**
 
-**Mobile Phone Numbers**  
-If you provide us your mobile phone number, from time to time we may send you sms messages about new products and services, or offers that we believe will interest you. Though we hope you'll find this information useful, if you do not wish to receive such sms notifications, please indicate, when you give us your mobile phone number, that you'd prefer not to receive such information or offers. 
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+
+**Compliance with Laws and Law Enforcement**
+
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+
+**Third Party Service Providers**
+
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
