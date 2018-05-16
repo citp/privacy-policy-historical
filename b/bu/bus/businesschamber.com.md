@@ -1,109 +1,100 @@
-> *The following text is extracted and transformed from the businesschamber.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530221355id_/http%3A//chamber.com/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businesschamber.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Chamber.com Privacy & Policies
+# Legal Agreement
 
-Your privacy is our top concern. We work hard to earn and keep your trust, so we adhere to the following principles to protect your privacy:
+**GoDaddy Respects Your Privacy**
 
-This privacy policy covers [www.chamber.com](http://chamber.com/). It does not, however, apply to entities that Chamber.com does not own or control. By using or accessing Chamber.com, you agree to our privacy practices outlined here.  
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. By continuing to use the Chamber.com service after notice of changes have been sent to you or published on the Chamber.com website, you are consenting to the changes.  
-**1\. Personal Information Collected**   
-The purpose of the Chamber.com website is to permit Users to voluntarily provide information about themselves for the purposes of developing, maintaining and enhancing a network of professional contacts. You willingly provide us certain personal information, which we collect in order to allow you to benefit from the Chamber.com website. If you have any hesitation about providing such information to us and/or having such information displayed on the Chamber.com website or otherwise used in any manner permitted in this Privacy Policy and the User Agreement, you should not become a member of the Chamber.com community.
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-We collect your personal information in the following ways:
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-**Registration**  
-In order to become a User, you must first create an account on our website. To create an account you are required to provide the following contact information, which you recognize and expressly acknowledge is personal information allowing others, including Chamber.com, to identify you: name, email address, country, ZIP/postal code, a brief summary of your professional background, and a password chosen by you.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-**Profile Information**  
-Once you become a User, you may provide additional information in the Profile section describing your skills, professional and educational experiences, and networking objectives. You may also provide demographic information such as age, gender, relationship status, interests/hobbies. You also have the ability to upload photos. Please be aware that all users may view your photos. Providing additional information beyond what is required at registration to become a User is entirely optional, but enables you to better identify yourself and find new opportunities in the Chamber.com system to build and leverage your professional network. Any information you provide at registration or in the Profile section that is not personally identifiable may be used in the same manner and extent to which other information that is not personally identifiable is permitted to be used hereunder, including for the purpose of serving advertisements through the service. If you opt-out you may lose the potential benefit of being a User, including receiving ads that are more targeted to your interests.
+**Information Collection and Use**
 
-**Contacts Information**  
-We offer contact importer tools to help you upload your friends' addresses so that you can find your friends on Chamber.com, and invite your contacts who do not have accounts to join. In order to invite others to connect with you directly in Chamber.com, you may use the Chamber.com services to invite them if they are a User, or enter their names and email addresses. This information will be used by Chamber.com to send your friend email invitations on your behalf including a message that you write. The names and email addresses of people that you invite will be used only to send your invitation and reminders. If you give us your password to retrieve those contacts, we will not store your password after you have uploaded your contacts' information.
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-You may also choose to manually enter or upload data about your contacts into the private “My contacts” section of the Chamber.com website. All information that you enter or upload about your contacts will be covered by the same terms of this privacy policy as cover your own information.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-**Customer Service**  
-Chamber.com may collect information such as your name and email address through the Chamber.com website or through the Customer Service website in order to, among other things, accurately categorize and respond to a customer's inquiry and deliver appropriate service levels.
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-**Cookies**  
-Like most websites, Chamber.com uses cookies and web log files to track site usage. A cookie is a tiny data file which resides on your computer which allows Chamber.com to recognize you as a User when you return to the Chamber.com website using the same computer and web browser. If your browser settings do not allow cookies, you will not be able to use the Chamber.com website. Like the information you enter at registration or in your Profile, cookie and log file data is used to customize your experience on our website. 
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-One type of cookie, known as a “persistent” cookie, is set once you've logged in to your Chamber.com account. The next time you visit the Chamber.com website, the persistent cookie will allow us to recognize you as an existing User by your email address and password, so you will not need to log in before using the service. In order to access or change any of your private information (like a credit card number), however, you must log in securely again with your password even if your computer contains your persistent cookie.
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-We use cookies to improve the quality of our service by storing User preferences and tracking User trends. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Unfortunately, if your browser settings do not allow cookies or you opt to refuse all cookies, you may not be able to use the Chamber.com website or services. Chamber.com does not store personally identifiable information in the cookies.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-In the course of serving advertisements or optimizing services to our Users, we may allow authorized third parties to place or recognize a unique cookie on your browser. Any information provided to third parties through such cookies will not be personally identifiable but may provide general segment information, e.g. your industry or geographic location, your occupation, or information about your professional or educational background, for greater customization of your user experience. The use of cookies set by these third parties is not covered by our privacy policy. We do not have access or control over these cookies.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-**Web Beacons**  
-“” We allow other companies, called ad networks, to serve advertisements to Users. Ad networks include third party ad servers, ad agencies, ad technology vendors and research firms. Chamber.com may “target” some ads to Users that fit a certain general profile - for example, “product managers in Texas.” Chamber.com does NOT use personally identifiable information to target ads.
+**Security**
 
-To deliver these ads properly, Chamber.com may include a file, called a web beacon, from these ad networks within pages served by Chamber.com so the networks may provide anonymized, aggregated auditing, research and reporting for advertisers as well as to target ads to you while you visit other websites.
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-Because your web browser must request these advertisements and web beacons from the ad network's servers, these companies can view, edit or set their own cookies, just as if you had requested a web page from their site.
+**Updating Your Information**
 
-These general targets may also be used by ad networks to display targeted ads on other websites as a substitute for random, irrelevant ads. Chamber.com does not provide personally identifiable information to any advertiser or any other third party.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-**Log files, IP addresses and information about your computer**  
-Due to the communications standards on the Internet, when you visit the Chamber.com web site we automatically receive the URL of the site from which you came and the site to which you are going when you leave Chamber.com. We also receive the Internet protocol (IP) address of your computer (or the proxy server you use to access the World Wide Web), your computer operating system and type of web browser you are using, email patterns, as well as the name of your ISP. This information is used to analyze overall trends to help us improve the Chamber.com service. The linkage between your IP address and your personally identifiable information is not shared with third-parties without your permission or except when required by law.
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-**Consent to Chamber.com Processing Information About You**  
-Certain information you provide to Chamber.com may reveal, or allow others to identify, your nationality, ethnic origin, religion or other aspects of your private life, and more generally about you. Please be aware that in providing information to Chamber.com for the purposes of opening your user account, you are expressly and voluntarily accepting the terms and conditions of this Privacy Policy and Chamber.com's User Agreement. The supplying of all such information by you to Chamber.com, including all information deemed “sensitive” by applicable law, is entirely voluntary on your part. You have the right to withdraw your consent at any time, in accordance with the terms of this Privacy Policy and the User Agreement, but please note that your withdrawal of consent will not be retroactive.
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-**Rights to Access, Correct and Eliminate Information About You**  
-You have a right to access, modify, correct and eliminate the data about you which has been collected pursuant to your decision to become a User. If you update any of your information, we may keep a copy of the information which you originally provided to us in our archives for uses documented herein.  
-We take your rights seriously and encourage you to use them if you deem this to be appropriate. You may exercise these rights by filling out the [abuse@chamber.com](mailto:abuse@bizchamber.com) or contacting us at:  
-Chamber.com  
-Attn: Privacy Policy Issues  
-3507 Bayshore Blvd Suite 1201  
-Tampa, FL 33629  
-United States of America   
-**2\. Uses of personal information**   
-Chamber.com is an online service dedicated to helping all types of professionals more effectively connect with one another. The personally identifiable information you choose to provide on our website is used to help you describe yourself to other Users, to send you newsletters, as well as fulfill your order of a premium or sponsored membership. Other information, that does not personally identify you as an individual, is collected by Chamber.com from Users (such as, for example, patterns of utilization) and is exclusively owned by Chamber.com. This information can be utilized by Chamber.com in such manner as Chamber.com, in its sole discretion, deems appropriate.
+      iii.      You may call us at: (480) 505-8800
 
-**Teaming with Other Organizations to Offer Combined and Other Services**  
-Chamber.com may offer our services in connection with other websites (including updates about the Chamber.com service) or may team with marketing partners, affiliated companies, and other online services to give you the combined results of both services or additional services and benefits (“Partners”).
+       iv.      You may fax us at: (480) 505-8844
 
-We only work with trusted Partners. To report any suspected misuse of information contact: [abuse@chamber.com](mailto:abuse@bizchamber.com). Chamber.com is not responsible for your use of or inability to use any services or products of Partners, including the content, accuracy, or reliability of such applications and their privacy practices.  
-**Chamber.com Communications**  
-Chamber.com will communicate with you through email and notices posted on the Chamber.com website or through other means available through the service. These include a series of welcome emails which help inform new Users about various features of the service. Please be aware that you will always receive certain emails from Chamber.com related to the proper functioning of your account, such as email notices when another User in your network sends you an opportunity. 
+**Sending Emails**
 
-Chamber.com, and/or our Partners, may regularly send out newsletters, weekly status emails, or promotional emails. Chamber.com may send you promotional information unless you have opted out of receiving such information. You can change your e-mail and contact preferences at any time by amending your email notification choices. In newsletters and weekly status emails, Chamber.com and/or our Partner may inform you, among other things, about new features, about your events in the upcoming week, about specific personal statistics from the respective past calendar week (i.e. the number of hits on your Profile, whether you have new contacts to be confirmed and/or new private messages, etc.), or about education content. You may choose to unsubscribe from the newsletter at any time by sending an email to the link provided at the end of each newsletter. 
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-**Online Directory:**  
-We utilize an online directory so that users may find each other on our Web site. Within our directory we will display your name and email address. Since this directory is a major function of our Web site, if you do not want to be part of the directory, you should not register on our site. 
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-**Customized Content**  
-Information provided to Chamber.com is also used to customize your experience on our website. For example, when you login to your account we will display the screen names of new Users who have recently joined your network.
+**Compliance with Laws and Law Enforcement**
 
-**Sharing Information with Third Parties**  
-Chamber.com takes the privacy of Users very seriously. We do not share, sell, rent, trade or otherwise provide your personally identifiable information to third parties other than as disclosed within this privacy policy. We will only share your personally identifiable information with third parties to carry out your instructions or to provide specific services or information. For instance, we use a credit card processing company to bill Users for subscription fees. We also use PayPal to process payments should you choose to use that payment gateway. These third parties do not retain, share, or store any personally identifiable information except to provide these services and they are bound by confidentiality agreements which limit their use of such information.
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-**Feedback.**  
-We use a third party service provider to host our feedback page. You may submit contact information, such as your name, address, telephone number, or email address, in connection with feedback, concerns, complaints, questions, or technical support. Such information is used only to respond to those inquiries and is governed by this Privacy Policy.
+**Third Party Service Providers**
 
-We may provide aggregated anonymous data about the usage of our services to third parties for such purposes as we deem, in our sole discretion, to be appropriate, including to prospective advertisers on Chamber.com. We may segment our Users by role (i.e. product managers, vice presidents), industry, geographic location, or company.  
-**Surveys and Polls**  
-As a User, you will receive requests to participate in market research including polls and surveys submitted by other Chamber.com members. If you participate in surveys and polls offered through our website, the information you provide may be visible to others using the Chamber.com website. 
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-**Forums/Chats/Blogs**  
-If you post a message or use a bulletin board on Chamber.com, you should be aware that any personally identifiable information you choose to provide there can be read, collected, or used by other Users of these forums, as well as third parties, and could be used to send you unsolicited messages. Chamber.com is not responsible for the personally identifiable information you choose to submit in these forums.
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-**Testimonials and Advertisement Placed through Chamber.com**  
-If you provide any testimonials about the Chamber.com service or place advertisements through the Chamber.com, we may post those testimonials and examples of advertisements you place in connection with Chamber.com's promotion of its service to third parties, which testimonials and advertisements may include your name and other personal information that you have provided. We do obtain the clients consent prior to posting their name along with their testimonial. 
+**Supplementation of Information**
 
-**Communications to other Users**  
-Many emails you initiate through Chamber.com, e.g., an invitation sent to a non-User, may list your email address and name in the header of the message. 
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-**Legal Disclaimer**  
-It is possible that we may need to disclose personal information when required by law, such as responses to civil or criminal subpoenas, or other requests by law enforcement personnel. We will disclose such information wherein we have a good-faith belief that it is necessary to comply with a court order, ongoing judicial proceeding, subpoena, or other legal process or request to Chamber.com brought in any country throughout the world, or to exercise our legal rights or defend against legal claims.
+**Contests/Surveys**
 
-**Disclosures to others**  
-We may also disclose your personal and other information you provide, to another third party as part of a reorganization or a sale of the assets of a Chamber.com division or company. Any third party to which we transfer or sell Chamber.com's assets will have the right to continue to use the personal and other information that you provide to us. You will be notified via email or prominent notice on our website for 30 days of any such change in ownership or control of your personal information.  
-**3\. Your Information Choices**   
-**Accessing and Changing Your Account Information**  
-You can review the personal information you provided us and make any desired changes to the information you publish, or to the settings for your Chamber.com account including your email, and contact preferences, at any time by logging in to your account and accessing the “My Updates” section. Please be aware that even after your request for a change is processed, Chamber.com may, for a time, retain residual information about you in its backup and/or archival copies of its database.
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-**Closing Your Account**  
-If you want to stop using your account you may deactivate it or delete it. When you deactivate an account, no user will be able to see it, but it will not be deleted. We save your profile information (friends, photos, interests, etc.) in case you later decide to reactivate your account. Many users deactivate their accounts for temporary reasons and in doing so are asking us to maintain their information until they return to Chamber.com. You will still have the ability to reactivate your account and restore your profile in its entirety. When you delete an account, it is permanently deleted. You should only delete your account if you are certain you never want to reactivate it. We may retain certain data contributed by you if we believe it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally identifiable data, account recovery, or if required by law.  
-**4\. Your Obligations**   
-As a User, you have certain obligations toward the other Users with whom you will be communicating. Certain of these obligations are imposed by applicable law and regulations, and others have become commonplace in user-friendly communities of like-minded members, such as Chamber.com:
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
