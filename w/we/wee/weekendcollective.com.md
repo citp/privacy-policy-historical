@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weekendcollective.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214221413id_/http%3A//www.weekendcollective.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weekendcollective.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516223610id_/http%3A//www.weekendcollective.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Weekend Collective
 
