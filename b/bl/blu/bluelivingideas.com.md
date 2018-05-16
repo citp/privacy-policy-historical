@@ -1,123 +1,189 @@
-> *The following text is extracted and transformed from the bluelivingideas.com privacy policy that was archived on 2017-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171008230236id_/http%3A//bluelivingideas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluelivingideas.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516201009id_/https%3A//insteading.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Blue Living Ideas
+# Privacy Policy, Terms & Conditions • Insteading
 
-**BlueLivingIdeas Privacy Policy**  
-Date Last Revised: December 15 2016
+**View Other Policies at:**
 
-**[Contact us](mailto:hello@bluelivingideas.com) if you have any questions or concerns.**
-
-This privacy policy describes our policies on the collection, use, and disclosure of your information in connection with your use of our website, emails, and mobile applications (“Site”) and how we use that information in connection with our service offered through the Site (the “Service”). The terms “we”, “us”, “BlueLivingIdeas”, “BlueLivingIdeas.com” refer to BlueLivingIdeas.
-
-When you use the Site, you consent to our collection, use, and disclosure of your information as described in this Privacy Policy. BlueLivingIdeas is committed to maintaining the confidentiality, integrity and security of any personal identity information about our users. The information addressed in this Privacy Policy includes “Personal Information,” which is information about you that is personally identifiable such as your full name, physical address or email address, telephone and fax number as well as “Non-Identifiable Information,” which is non-public information that may be associated with or linked to a specific BlueLivingIdeas account but does not by itself permit the identification of individual persons (e.g., demographic, interest, or site usage information). This Privacy Policy does not pertain to any information that is publicly available on or through BlueLivingIdeas.
-
-BlueLivingIdeas stresses its privacy and security standards to guard against identity theft and provide security for your Personal Information. We regularly re-evaluate our privacy and security policies and adapt them as necessary to deal with new challenges.
-
-**Your Privacy is not for sale**
-
-BlueLivingIdeas uses and discloses your Personal Information as follows:
-
-  * to analyze site usage and improve the Service and Site;
-  * to deliver to you any administrative notices and communications relevant to your use of the Service;
-  * to fulfill your requests for certain products and services;
-  * for market research, project planning, troubleshooting problems, detecting and
-  * protecting against error, fraud or other criminal activity;
-  * to third parties that provide services to BlueLivingIdeas;
-  * to enforce BlueLivingIdeas’s Terms of Use; and
-  * as otherwise set forth in this Privacy Policy.
+  * [Affiliate Policy](https://insteading.com/affiliate/)
+  * Editorial Policy
 
 
 
-**We limit the collection and use of your information**
+## Privacy Policy
 
-In general, we collect both Personal Information and Non-Identifiable Information that you submit voluntarily to BlueLivingIdeas. We collect information that you submit during the process of creating or editing your account and user profile on the Site. For example, the registration and login process requires you to provide us with your name, email address, and password (collectively “Registration Information”).
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-We may also request Non-Identifiable Information including year of birth, gender, and other demographic information. We also collect information from content that you submit during your use of the Site, such as comments or feedback, and other information you chose to submit, including information from other social networks that you choose to link to your account.
+**What personal information do we collect from the people that visit our blog, website or app?**
 
-From time to time we may request other Personal Information to provide you with other benefits of the Service. In all such instances, you will be given the opportunity to provide or to decline to provide that information, and it will be used only for the stated purpose. BlueLivingIdeas may make anonymous or aggregate Personal Information and disclose such data in a non-personally identifiable in combination with Non-Identifiable Information to:
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, credit card information or other details to help you with your experience.
 
-**Advertisers and other third parties for their marketing and promotional purposes**
+**When do we collect information?**
 
-Organizations approved by BlueLivingIdeas that conduct research into consumer habits and lifestyle. Such information does not identify you individually.
+We collect information from you when you register on our site, place an order, subscribe to a newsletter, fill out a form or enter information on our site.
 
-Access to your Registration Information, Account Credentials, Account Information and any other Personal Information you provide is restricted and used in accordance with internal procedures and safeguard governing access, in order to operate, develop or improve the Service. Employees may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. We may also use third party vendors or service providers to help us provide the Service to you, such as sending email messages on our behalf or hosting and operating a particular feature or functionality of the Service. Our contracts with these third parties outline the appropriate use and handling of your information and prohibit them from using any of your Personal Information for purposes unrelated to the product or service they’re providing. We require such third parties to maintain the confidentiality of the information we provide to them.
+**How do we use your information?**
 
-In general, both the Personal Information and Non-Identifiable Information you submit to us is used to provide you access to BlueLivingIdeas, to improve BlueLivingIdeas, to better tailor the features, performance, and support of BlueLivingIdeas and to offer you additional information, opportunities, promotions and functionality from us, our partners or our advertisers. For example, we may use and display your full name and email address when you send an email notification to a friend through BlueLivingIdeas or the social network from which you have connected to BlueLivingIdeas (such as in an invitation, or when sharing your content).
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-This Privacy Policy does not limit our use or disclosure of Non-Identifiable Information in any way, and we reserve the right to use and disclose Non-Identifiable Information to our partners, advertisers and other third parties at our discretion. Specifically, we may use any of the Non-Identifiable Information you provide or that we collect from you or third parties to assist us in recommending content or connections, and we may disclose Non-Identifiable Information to third parties who assist us in delivering you more relevant advertising and content.
-
-**Third Party Vendors**
-
-Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website or other websites.
-
-Google’s use of advertising cookies enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
-
-Users may opt out of personalized advertising by visiting [Ads Settings.](https://www.google.com/settings/ads)
-
-In addition to Google ads, our sites use other vendors for advertisements.
-
-  * Other vendors may include Sortable, Monetize More, AOL and others.
-  * You may visit the above websites to opt out of the use of cookies for personalized advertising (if the vendor or ad network offers this capability). Alternatively, you can opt out of some third-party vendors’ uses of cookies for personalized advertising by visiting [AboutAds](http://www.aboutads.info/choices/).
+  * To personalize user’s experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+  * To improve our website in order to better serve you.
+  * To allow us to better service you in responding to your customer service requests.
+  * To administer a contest, promotion, survey or other site feature.
+  * To quickly process your transactions.
+  * To send periodic emails regarding your order or other products and services.
 
 
 
-If your Registration Information changes during your subscription to BlueLivingIdeas, you may update it any time via the Service.
+**How do we protect visitor information?**
 
-**Online session information collection and use improves your experience**
+Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
 
-When you visit BlueLivingIdeas.com, we may collect technical and navigational information, such as computer browser type, Internet protocol address, operating system, the source that directed you to our site, pages visited, and average time spent on our Site. This information is gathered to make BlueLivingIdeas more useful to you and may be used, for example, to alert you to software compatibility issues, or it may be analyzed to improve our Web design and functionality.
+**We use regular Malware Scanning.**
 
-“Cookies” are alphanumeric identifiers in the form of text files that are inserted and stored by your Web browser on your computer’s hard drive. BlueLivingIdeas may set and access cookies on your computer to track and store preferential information about you. BlueLivingIdeas may gather information about you through cookie technology. For example, BlueLivingIdeas may assign a cookie to you, to limit the amount of times you see a particular feature or to help better determine how to serve to you. Please note that most Internet browsers will allow you to stop cookies from being stored on your computer and to delete cookies stored on your computer. If you choose to eliminate cookies, the full functionality of the Service may be impaired for you.
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
 
-Web beacons are images embedded in a Web page or email for the purpose of measuring and analyzing site usage and activity. BlueLivingIdeas or third party service providers acting on our behalf, may use Web beacons to help us analyze Site usage and improve the Service.
+We implement a variety of security measures when a user places an order enters, submits, or accesses their information to maintain the safety of your personal information.
 
-An “Internet protocol address” or “IP address” is a number automatically assigned to your computer when you use the Internet. In some cases your IP address stays the same from browser session to session; however if you use a consumer Internet access provider, your IP address probably varies from session to session. We, or our service providers, may track your IP address when you access BlueLivingIdeas.
+All transactions are processed through a gateway provider and are not stored or processed on our servers.
 
-We may use third party service providers to help us analyze certain online activities. For example, these service providers may help us measure the performance of our online campaigns, analyze visitor activity on BlueLivingIdeas.com, or track conversions. We may permit these service providers to use cookies and other technologies to perform these services for BlueLivingIdeas. We do not share any Personal Information about our customers with these third party service providers, and these service providers do not collect such information on our behalf.
+**Do we use ‘cookies’?**
 
-**Blogs and other Forums on BlueLivingIdeas.com**
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-If you use a forum, blog or otherwise post public content on our Site, you should be aware that any information you submit there can be read, collected or used by other users and could be used to send you unsolicited messages. We are not responsible for the Personal Information you choose to submit in these forums. These forums may be hosted by BlueLivingIdeas or by one of our third party service providers on BlueLivingIdeas’s behalf.
+We use cookies to:
 
-**You can delete your data**
+  * Help remember and process the items in the shopping cart.
+  * Understand and save user’s preferences for future visits.
+  * Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
 
-Your data is yours. You can delete it anytime you want. When you request us to delete your account for the Service, your data will be permanently expunged from our primary production servers and further access to your account will not be possible. We will also promptly disconnect any connection we had established to your Account Information and delete all Account Credentials. However, portions of your data, consisting of aggregate data derived from your Account Information, may remain on our servers indefinitely.
 
-Your data may also remain on a backup server or media. BlueLivingIdeas keeps these backups to ensure our continued ability to provide the Service to you in the event of malfunction or damage to our primary production servers. We reserve the right to use any aggregated or anonymous data derived from or incorporating your Personal Information.
 
-**Communications from us**
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
 
-We may provide our registered customers with summaries of their Account Information and account alerts or messages by email, phone, or other method of communication provided to BlueLivingIdeas. We may also allow users to subscribe to email newsletters and from time to time may transmit emails promoting BlueLivingIdeas or third party goods or services.
+If users disable cookies in their browser:
 
-BlueLivingIdeas.com subscribers have the ability to opt-out of receiving our promotional emails and to terminate their newsletter subscriptions by following the instructions in the emails. Opting out in this manner will not end transmission of service-related communications. Additionally, we may use your email address to contact you on behalf of your friends (such as when someone sends you a personal message or notifications from a social network or other website with whom you have registered to receive such notifications).
+If you disable cookies off, some features will be disabled. It will turn off some of the features that make your site experience more efficient and some of our services will not function properly.
 
-**Security**
+However, you can still place orders over the telephone by contacting customer service.
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet or via mobile device, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+**Third Party Disclosure**
 
-**Third Parties**
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
 
-We do not rent, share, trade, or sell Personal Information with third parties for their direct marketing purposes. That said, please note the following:
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-**Service Providers.** Some of the services provided through the Site are provided by third party providers, such as the blog and forum. We may also outsource some of our functions to third parties such as technical support, tracking or reporting functions, payment processing, and other services. We may share information from or about you with these third party providers so that they can perform their services and complete your requests.
+**Third party links**
 
-**Aggregate Information.** We may share information from and about you with third parties. For example, we may disclose the number of users that have been exposed to or clicked on specific content.
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-**Investigations**. We may investigate and disclose information from or about you if we have a good faith belief that such investigation or disclosure is (a) reasonably necessary to comply with legal process and law enforcement instructions and orders, such as a search warrant, subpoena, statute, judicial proceeding, or other legal process served on us; (b) helpful to prevent, investigate, or identify possible wrongdoing in connection with the Site; or (c) protect our rights, reputation, property, or that of our users affiliates, or the public.
+**Google**
 
-**Advertising and third party Cookies.** We may allow third parties who provide services relating to advertising to use Cookies in connection with your use of the Site. Through this, they may collect and store the same type of information and use it for the same type of purposes as described for BlueLivingIdeas above, and they may be able to associate the information they collect with other information they have about you from other sources. We do not necessarily have access to or control over the Cookies they use.
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
 
-**Links.** The Site may contain links to unaffiliated third party websites. Except as set forth herein, we do not share your personal information with them, and are not responsible for their privacy practices. We exercise no control over how your information is stored, maintained or displayed by third parties or on third party sites. Please read the privacy policies of all third party websites. You are responsible for maintaining the confidentiality of your Registration Information.
+We use Google AdSense Advertising on our website.
 
-Please act responsibly to maintain the security and confidentiality of your BlueLivingIdeas Registration Information, including your Login ID and Password, as well as Account Credentials for Third Party Sites. You should not provide your BlueLivingIdeas Registration Information to any third party. If you believe that your Registration Information has been stolen or been made known to others, you must contact us immediately at us, but in any event you should change your password immediately via the Service. We are not responsible if someone else accesses your account through Registration Information they have obtained from you or through a violation by you of this Privacy Policy or the BlueLivingIdeas.com Terms of Use.
+Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-**Children**
+We have implemented the following:
 
-This Site is intended for general audiences and is not directed to Children under 18. We do not knowingly collect personal information from children under 18. If you become aware that a child has provided us with personal information without parental consent, please contact us. If we become aware that a child under 18 has provided us with personal information without parental consent, we take steps to remove such information and terminate the child’s account.
+  * Remarketing with Google AdSense
+  * Google Display Network Impression Reporting
+  * Demographics and Interests Reporting
 
-We post updates on our website whenever there is a change to our Privacy Policy We update this Privacy Policy periodically. The date last revised appears on the Policy. Changes take effect immediately upon posting.
 
-**[Contact us](mailto:hello@bluelivingideas.com) if you have any questions or concerns. **
 
-  
+We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.
 
+**Opting out:**  Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
+
+**California Online Privacy Protection Act**
+
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: https://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+
+According to CalOPPA we agree to the following:
+
+  * Users can visit our site anonymously
+  * Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
+  * Our Privacy Policy link includes the word ‘Privacy’, and can be easily be found on the page specified above.
+
+
+
+Users will be notified of any privacy policy changes:
+
+  * On our Privacy Policy Page
+
+
+
+Users are able to change their personal information:
+
+  * By calling us
+  * By chatting with us or sending us a ticket
+
+
+
+**How does our site handle do not track signals?**  
+We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+
+**Does our site allow third party behavioral tracking?**  
+It’s also important to note that we allow third party behavioral tracking
+
+**COPPA (Children Online Privacy Protection Act)**
+
+When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
+
+We do not specifically market to children under 13.
+
+**Fair Information Practices**
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
+In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:  
+We will notify the users via email
+
+  * Within 7 business days
+
+
+
+We will notify the users via in site notification
+
+  * Within 1 business day
+
+
+
+We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
+
+**CAN SPAM Act**
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+We collect your email address in order to:
+
+  * Send information, respond to inquiries, and/or other requests or questions.
+  * Process orders and to send information and updates pertaining to orders
+  * We may also send you additional information related to your product and/or service.
+  * Market to our mailing list or continue to send emails to our clients after the original transaction has occurred
+
+
+
+To be in accordance with CANSPAM we agree to the following:
+
+  * NOT use false, or misleading subjects or email addresses
+  * Identify the message as an advertisement in some reasonable way
+  * Include the physical address of our business or site headquarters
+  * Monitor third party email marketing services for compliance, if one is used.
+  * Honor opt-out/unsubscribe requests quickly
+  * Allow users to unsubscribe by using the link at the bottom of each email
+
+
+
+If at any time you would like to unsubscribe from receiving future emails, you can email us at hello@insteading.com
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+  * hello@insteading.com
+
+
+
+Last Edited on 2016-Jan-10
