@@ -1,73 +1,70 @@
-> *The following text is extracted and transformed from the klicknews.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609175316id_/http%3A//www.klicknews.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klicknews.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517010132id_/http%3A//www.klicknews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | klicknews
+# Privacy Policy
 
-  * [Home](http://klicknews.com/)
-  * Privacy Policy
+**What information do we collect?**
 
+We collect information from you when you register on our site, subscribe to our newsletter or fill out a form. 
 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or phone number.
 
-## Our Commitment To Privacy 
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy [Opt Out page](http://www.google.com/ads/preferences/html/opt-out.html).
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
+ **What do we use your information for?**
 
-## The Information We Collect:
+Any of the information we collect from you may be used in one of the following ways: 
 
-This notice applies to all information collected or submitted on klicknews. On some pages, you can order services and make requests. The types of personal information collected at these pages are:
+To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-Name  
-Address  
-Email address  
-Phone number  
-IP Address  
-(etc.)
+To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-## The Way We Use Information:
+; To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.
+To administer a contest, promotion, survey or other site feature
 
-We use the information you provide about someone else when referring our services only to sell our service and maintain the customer. We do not share this information with outside parties except to the extent necessary to deliver our service.
+To send periodic emails
 
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
+The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
 
-You can register with our web site if you would like to receive updates on our new products and services. We use non-identifying and aggregate information to better design our web site and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our web site, but we would not disclose anything that could be used to identify those individuals.
+ **How do we protect your information?**
 
-## Tell-A-Friend
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
 
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. klicknews will automatically send the friend a one-time email inviting them to visit the site. Klicknews stores this information for the sole purpose of sending this one-time email.
+**Do we use cookies?**
 
-## Links
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow( that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-This web site contains links to other sites. Please be aware that we klicknews are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-## How We Use Cookies:
+ **Do we disclose any information to outside parties?**
 
-"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Cookies can help a web site recognize a previous visitor and remember any preferences that may have been set during earlier visits. Cookies can securely store a user's profile, personalize your use of our services and help us understand the types of resources you're interested in. klicknews use cookies on our sites to track visitor practices and determine which site features and services are most important to users. A cookie makes it possible for the user to access the site without requiring entry of a user name or password, allows the user to view different restricted areas of the site without reregistering, and allows the user to personalize the site for future use. Most web browsers automatically accept cookies, but you can usually change your browser to prevent acceptance of cookies.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, Commission Junction, Kontera. Google, as a third party vendor, uses cookies to serve ads on this webite. Google's use of the DART cookie enables it to serve ads to klicknews's users based on their visits to this website and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+ **Third party links**
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.klicknews.com send directly to your browsers. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here. These third-party ad servers automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These links and offers include [Amazon](http://www.amazon.com/), [eBay](http://www.amazon.com/) and other vendors. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-Klicknews has no access to or control over these cookies that are used by third-party advertisers.
+ **Childrens Online Privacy Protection Act Compliance**
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.klicknews.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act(, we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
+ **Third Party Ad Networks**
 
-## Our Commitment To Data Security
+We partner with third party ad networks and allows such networks to use cookies to collect non-personally identifiable data for targeting and serving ads. Users can opt-out of this behavioral targeting by visiting the Network Advertising Initiative's consumer page at [NAI Opt-Out Page](http://www.networkadvertising.org/managing/opt_out.asp).
 
-This web site takes every precaution to protect our users’ information. When users submit sensitive information via the web site, your information is protected both online and off-line.
+ **Online Privacy Policy Only**
 
-If you have any questions about the security at our web site, you can send an email to security at contact@klicknews.com 
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-## Our Commitment To Children's Privacy:
+ **Your Consent**
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our web site from those we actually know are under 13, and no part of our web site is structured to attract anyone under 13.
+By using our site, you consent to our privacy policy.
 
-## How To Contact Us
+ **Changes to our Privacy Policy**
 
-Should you have other questions or concerns about these privacy policies, please contact us at support@klicknews.com
+If we decide to change our privacy policy, we will post those changes on this page. 
 
-## Notification of Changes
-
-If we decide to change our privacy policy, we will post those changes on our Home page so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+This policy was last modified on March 21, 2011
