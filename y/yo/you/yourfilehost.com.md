@@ -1,101 +1,100 @@
-> *The following text is extracted and transformed from the yourfilehost.com privacy policy that was archived on 2012-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120415090314id_/http%3A//yourfilehost.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourfilehost.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# YourFileHost.com - Free hosting for ALL your files -N
+# Legal Agreement
 
-**  
-YOURFILEHOST Privacy Policy Statement **
+**GoDaddy Respects Your Privacy**
 
-Protecting the privacy of all of our users is an ongoing commitment of YOURFILEHOST.com services (hereinafter, "YOURFILEHOST"). This Privacy Policy explains how YOURFILEHOST treats personal information that we collect and receive. Personal information is information about you, not otherwise publicly available, that personally identifies you; personal information may include your name, location, e-mail address, birth date, or other identifying information. 
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-YOURFILEHOST has established registration and sign-in procedures which, in conjunction with this Privacy Policy, help ensure the privacy of information provided to YOURFILEHOST by its visitors and members while using the YOURFILEHOST website. You should be aware that this Privacy Policy applies only to the YOURFILEHOST website and services, and not to any other websites you may visit before or after the YOURFILEHOST site. 
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-Also, please read our Children's Privacy Policy (below) to learn about how we treat information collected from children.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-Questions regarding our privacy policy should be directed to our [contact form](https://web.archive.org/web/20120415090314id_/http%3A//yourfilehost.com/contact.php). 
+**Information Collection and Use**
 
-________________________________________
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-What Does the YOURFILEHOST Privacy Policy Cover?
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-This privacy policy applies to web pages ending in YOURFILEHOST.com that contain a link to this privacy policy at the bottom of the web page. Inclusion of the YOURFILEHOST logo at the top of a web page does not necessarily mean that this privacy policy applies. Be sure to check the URL that you link to from YOURFILEHOST web pages to determine whether this privacy policy applies. If you have any questions about this, contact us via our [contact form](https://web.archive.org/web/20120415090314id_/http%3A//yourfilehost.com/contact.php).
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-________________________________________
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-What Information Does YOURFILEHOST Collect From You?
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-You can visit our site and use most of our services without having to tell us who you are or reveal any personally identifiable information to us. There are, however, a few instances where we do collect personally identifiable information in order to fulfill your request. 
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-Whenever you visit YOURFILEHOST, our web server logs automatically receive and record anonymous information from your web browser including your IP Address, YOURFILEHOST cookie information, the YOURFILEHOST page(s) you request, the time spent on each web page and any search terms you query.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-YOURFILEHOST uses this anonymous information to customize your experience on our site, to show you more relevant advertising messages, and to improve our services in general. This information allows other users to benefit from the quality searches you perform, ultimately receiving the most relevant, pertinent information. We ordinarily do not attempt to link this information to a specific person.   
-When you register to become a Member of the YOURFILEHOST website, YOURFILEHOST collects certain information such as your first name e-mail address, date of birth, country, city, and your domain URL (collectively, "Membership Information"). In addition, we may collect survey responses or other information regarding our users' interests and preferences.   
-YOURFILEHOST will not distribute, sell or rent any of the personal information about you to other people or nonaffiliated companies except to enable the provision of services or products you have requested or when we have your permission to do so.   
-Some contests, sweepstakes and other promotions that will appear on the YOURFILEHOST website may also be sponsored by other companies. These companies may also seek to collect personal information from you. You can avoid providing your personal information to these companies and sponsors by not participating in these contests, sweepstakes or promotions. In any event, you are encouraged to make yourself familiar with the privacy policy specific to any such event prior to your agreement to participate.   
-Please remember that any personal information voluntarily disclosed by you that you choose to share is done within your sole discretion and we are not responsible for the outcome of that information. We encourage you to always remain aware of this possibility. YOURFILEHOST encourages you to use common sense and be cautious about what information you may provide on-line, whether through our websites or elsewhere on the Internet.   
-You acknowledge, consent, and agree that YOURFILEHOST may access, preserve, use, and disclose your Membership Information, including content uploaded to or downloaded from YOURFILEHOST's websites and services, if required to do so by law or in a good faith belief that such access, preservation or disclosure is reasonably necessary to:   
-(a) Enforce the YOURFILEHOST Terms of Service;  
-(b) Respond to claims that any uploaded materials violate the rights of third-parties;  
-(c) Respond to your customer service requests;  
-(d) Comply with legal process; and/or  
-(e) Protect the rights, property, or personal safety of YOURFILEHOST, its users, or the public.
+**Security**
 
-________________________________________
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-How Do We Use Personal Information?   
-Our primary goal is to provide members with the most useful and enjoyable experience on the Internet. Our advertisers will never be privy to your Membership Information, unless you permit us to give it to them so that they can provide you with products or services. Your e-mail address may be used by us for communications related to the YOURFILEHOST services, including but not limited to sending notices about new features, products, or other information of interest to you.   
-The YOURFILEHOST website is constantly evolving and changing in content and in features. Member Information helps guide such changes and the evolution of our websites. Our advertisers and affiliates may be provided general information or data regarding membership usage patterns or interests, so that they too can better serve your needs and preferences, but such disclosure will not include individually identifiable information. The collection of usage and interest information allows us to provide a constantly evolving and user-sensitive package of services, products, and features that satisfy member needs, wants and desires but always with the priority of protecting individual member privacy. 
+**Updating Your Information**
 
-________________________________________
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-Do Any Third Parties Receive or Collect Your Information Through YOURFILEHOST?
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-In the few instances where YOURFILEHOST collects personally identifiable information, YOURFILEHOST will not share it with other companies or individuals unless:
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-We have your permission to share the information; or
+      iii.      You may call us at: (480) 505-8800
 
-We need to share your information with certain third parties with which we have a business relationship in order to provide a product or service you have requested. Unless we tell you otherwise, these third parties do not have the right to use your personal information we share with them beyond what is necessary to deliver your requested product or service; or
+       iv.      You may fax us at: (480) 505-8844
 
-We are responding to subpoenas, court orders, or other legal process, to establish or exercise our legal rights or defend against legal claims; or-
+**Sending Emails**
 
-If YOURFILEHOST is acquired by another company whether through merger or purchase of its stock or all or substantially all of its assets, we will share the information with the acquiring company. 
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-Furthermore, YOURFILEHOST will not sell or disclose your personally identifiable information as customer lists to anyone. Nor will we share with anyone personally identifiable information about you that is of medical, financial or sexual nature.
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-YOURFILEHOST shares some of the user information, such as user trends, search language, and time of day with third parties that may set and access cookies on your computer. Other advertisers or advertising services may set cookies but this information is not shared with 
+**Compliance with Laws and Law Enforcement**
 
-YOURFILEHOST nor is it personally identifiable information. 
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-None if these third parties nor any other advertiser or advertising service, receives personally identifiable information from YOURFILEHOST. However, certain advertisements or contests you see on our site may provide for the collection of personally identifiable information. Such information is never shared with YOURFILEHOST. 
+**Third Party Service Providers**
 
-________________________________________
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-What Security Measures Are in Place to Protect Your Information?
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-YOURFILEHOST operates secure data networks protected by industry standard firewall and password protection. We have security measures in place to attempt to protect against the loss, misuse or alteration of your user data.  
-Only certain employees have access to the information you provide us.
+**Supplementation of Information**
 
-________________________________________
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-How Will You Be Notified if YOURFILEHOST Changes this Privacy Policy?
+**Contests/Surveys**
 
-YOURFILEHOST updates this policy from time to time. If we are going to use personally identifiable information in a manner different from that stated at the time of collection, we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our databases, we will post a prominent notice on our web site notifying users of the change. Bear in mind that the only way to ensure your personal privacy whenever you are on the Internet is to make sure your browser is configured so that you are alerted to all cookies. 
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-________________________________________
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-Cookies  
-YOURFILEHOST places cookies on your computer to retain your individual preferences and improve your user experience on our website, as well as to tell us what features of our sites are most popular. We do not store any personal information in cookies, nor do we use cookies to obtain any personal information from you.   
-Affiliates and advertisers, product and service providers may also use their own cookies when you interact with their sites and you should be aware of this as you do so. 
+**Tell-A-Friend**
 
-________________________________________
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-Notice Regarding Children
+**What Happens to my Personal Information if I Opt Out?**
 
-We at YOURFILEHOST take the online safety of children very seriously. YOURFILEHOST’s websites and services are directed toward adults. We do not allow children under the age of 13 to obtain User Names, and we do not intentionally collect any personal information from children under 13. If you are between the ages of 13-18 years old, we encourage you to discuss the use of this website with your parents and obtain their permission before using the services.
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-________________________________________
+**Transfer of Data Abroad**
 
-Your Questions or Suggestions Regarding this Privacy Policy.
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-If you have a privacy concern regarding any YOURFILEHOST website or this Policy, and if you cannot satisfactorily resolve it through the use of the websites, you should contact via our [contact form](https://web.archive.org/web/20120415090314id_/http%3A//yourfilehost.com/contact.php). 
+**Changes in Our Practices**
 
-Policy updated and effective date: September 26, 2006
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
