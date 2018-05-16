@@ -1,120 +1,100 @@
-> *The following text is extracted and transformed from the cashbackurl.in privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108033410id_/https%3A//www.cashbackurl.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashbackurl.in privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Policy
+# Legal Agreement
 
-## CashbackURL Privacy Policy
+**GoDaddy Respects Your Privacy**
 
-CashbackURL.in, is committed to protecting your privacy. This Privacy Policy applies to CashbackURL.in and governs data collection and usage including CashbackURL website and email services. This Privacy Policy is effective upon acceptance in registration for new registering members. 
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-We firmly believe that both our Members and our clients benefit because we market only to people who have given us express permission to do so. 
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-While the word "privacy" may mean different things to different people, we believe that once you understand how we use your information, the steps we take to protect it, and the resulting benefit to you, you will not only feel confident when sharing information with us, but will also find your participation in the program a most rewarding experience. 
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-## Collection of Information
+**Information Collection and Use**
 
-CashbackURL collects both personal and non-personal information using the methods listed below. Our primary purpose in collecting such information is to provide you with a personalized CashbackURL experience by displaying content and delivering offers that are likely to be of interest to you according to your preferences.
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-## Information Collected at Registration
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-To take advantage of the offers available at CashbackURL, you must register for our service and become a CashbackURL Member. CashbackURL collects personal information when you register with us and when you use CashbackURL services. CashbackURL may combine information about you that we have with information we obtain from business partners or companies. During registration, we require members to give us basic contact information (such as your first name, last name ,e-mail address and mobile number), demographic information (such as your zip code, age and gender) and personal information(education,profession,marital status). The registration form information requests may change from time to time. Although additional demographic information may be requested at the time of registration, only information marked "required" is necessary for registration and utilization of our services. Once you register with CashbackURL, you are not anonymous to us. 
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We do not accept registrations from persons under the age of eighteen. The CashbackURL Program is available only to persons who are eighteen years of age and over. The site will automatically block enrollment of any person once they indicate they are under the age of eighteen. If we later learn that a user is under the age of eighteen, we will terminate the account and delete the user's information. Inherent in the Program is the responsibility of parents and/or guardians to ensure that their children's privacy is protected. CashbackURL.in will not be liable for any content or advertisements viewed by minor children in violation of the terms of this agreement. 
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-## Information Collected through Participation in the CashbackURL Program
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-When you sign in to the CashbackURL website, the server automatically recognizes you by your cookie. This cookie acts as a unique identifier, which allows us to personalize the website to your specified interests and allows you to access your personal information. It also allows us to keep track of your activity on our site and allows us to properly credit Incentives to your account. This information may be added to your personal profile and used to deliver offers and advertisements that are most relevant to your interests. 
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-The program makes active use of third-party cookies; therefore, full participation in the Program is dependent upon you setting your browser configuration to accept third-party cookies. We also use cookies to tailor the program to your interests and, most importantly, to ensure that only you can access your account. We also review "log-file" data to monitor site performance and analyze traffic patterns and usage of our site. 
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-### CashbackURL also retrieves the following information from your browser:
+**Security**
 
-  * Your browser type (e.g., Internet Explorer)
-  * Platform-dependent information (e.g., Windows)
-  * Requested document (the page you're looking at)
-  * Referrer URL (the page you came from if within the CashbackURL.in site)
-  * Date and time of your visit
-  * Your registered CashbackURL account information
-  * Purchase transaction detail (from merchants on the CashbackURL.in site)
-  * IP address associated with member transaction in the system
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
+**Updating Your Information**
 
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-### Additionally, for each visitor to our website, our server automatically recognizes the following:
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-  * Host origin of the request (your IP address or that of your ISP if using proxy servers)
-  * Requested document (the page you're looking at)
-  * Referrer URL (the page you came from if within the CashbackURL.in site)
-  * Your registered CashbackURL. account information
-  * Date and time of your visit
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
+      iii.      You may call us at: (480) 505-8800
 
+       iv.      You may fax us at: (480) 505-8844
 
-This information, sometimes called log-file or clickstream data, is used to monitor site performance and ensure the Program functions properly. It may also be appended to your personal profile so that we may further tailor the Program to your interests. 
+**Sending Emails**
 
-Many of CashbackURL advertisers, shopping affiliates and merchants also utilize third-party cookies to identify you as a CashbackURL member. This enables them to report your purchases back to CashbackURL so we are able to credit your account with Incentive Money. 
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-We and our advertisers currently use third-party cookies and clear pixel GIFs (also referred to as "web beacons") to measure page views on both CashbackURL and advertisers' web sites and email responses. These devices allow us to identify unique visitors to CashbackURL' site, member visits to advertisers' sites, and act as a counter for ongoing monitoring of site, email and corresponding future transaction activity related to a specific offer for both CashbackURL.in and its advertisers. These commonly used counters collect absolutely no personal information and, as always, this technology is only used to enhance the program and make it more relevant to your personal interests. 
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-Third-party cookies are also used to count unique page views, email responses and future transaction activity corresponding to specific offers. CashbackURL will also capture and store your transaction details, which may include the items and quantities purchased, purchase price, date and time of purchase. This information is used to credit Incentive Money for free mobile recharge and movie tickets and to adjust your account balance in the event of returns and exchanges. This information is also used by the Member Services department while assisting you in resolving account inquiries. We may also use your transaction information to provide you more timely relevant offers, products and services. 
+**Compliance with Laws and Law Enforcement**
 
-## Information Collected Via Online Surveys, Sweepstakes and Other Promotions
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-From time to time we may provide you the opportunity to participate in contests, sweepstakes or surveys. If you choose to participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice as to whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address) and demographic information (such as gender and zip code). 
+**Third Party Service Providers**
 
-We use this information to notify contest winners and award prizes. We may also use the information gathered to better personalize your CashbackURL program experience. 
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-We may use a third party service provider to conduct these surveys, contests and sweepstakes. That company is prohibited from using your personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest, sweepstakes or survey with any third party unless we give you prior notice and choice. 
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-## Use and Disclosure of Personal Information
+**Supplementation of Information**
 
-We do not rent or sell your personal information to anyone without your express consent. When we do share data with our advertisers it is in aggregate form and is designed to ensure you are not identified personally. In order to provide you with information about offers and services you have indicated an interest in, we may provide certain of your personal information to specific advertisers to allow them to provide information about the offer or service to you in the most convenient and meaningful form. Also, by participating in an advertiser's offer, you are authorizing us to share your relevant personal information with the advertiser responsible for the offer. In the event either we or a participating advertiser are unable to capture your transaction detail, we may need to provide certain of your personal information to the advertiser to validate your transaction with them to ensure that your account is credited with the correct Incentive Money. However, before any personal information is provided to an advertiser for any such purpose, the advertiser will be contractually bound to observe the strict requirements of the CashbackURL Privacy Policy. 
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-CashbackURL engages in email and direct mail marketing. Because email is an integral part of the program, you sign up to receive email targeted to your interests at the time of registration. If you later decide you wish to cease participation in this portion of the program, you may change settings at any time on this page: <http://www.cashbackurl.in/email-alerts> . To further ensure we have your consent, we make sure each e-mail we send you contains an additional opportunity to "opt out" of receiving future e-mails. If you are not interested in receiving either e-mail or direct mail marketing, you may choose to opt out from receiving the e-mail or close your membership. 
+**Contests/Surveys**
 
-Although we house our data in Canada, it is possible that some of our data processing may occur outside of Canada. While the data protection laws of these countries may vary, we will make every reasonable effort to protect your information based upon the express terms of this Privacy Policy. By enrolling in the program, you consent to this transfer of your personal data. 
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-As long as you remain a CashbackURL member, opting not to receive email does not exempt you from receiving administrative emails, which include, but are not limited to, notices about vital program and membership status changes or alterations to our Terms of Service. 
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-## Member Communications and Email
+**Tell-A-Friend**
 
-CashbackURL employs a strict policy against sending unsolicited email. Because email is an integral part of the program, you sign up to receive email targeted to your interests at the time of enrollment. If you later decide you wish to cease participation in this portion of the program, you may do so at any time by clicking on the opt-out links contained within each CashbackURL email or by sending an email to unsubscribe@CashbackURL.com. 
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-Please note that opting not to receive email does not exempt you from receiving administrative emails that include but are not limited to, notices about vital program and membership status changes, Privacy Policy and Terms of Service updates and purchase and redemption confirmation emails. 
+**What Happens to my Personal Information if I Opt Out?**
 
-Members may also receive CashbackURL program offers via SMS. We contact you with offers we think you are interested in. Members may opt out of these communications by opening a ticket with our customer care team. 
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-Our Member Services Department may contact you in response to your inquiries, to provide services at your request and to manage your account. We will communicate with you by email, telephone or fax in accordance with your wishes. 
+**Transfer of Data Abroad**
 
-## CashbackURL Advertisers and 3rd Party Websites
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-The CashbackURL website and emails contain links to various other sites. While CashbackURL makes every effort to ensure that our advertisers post clear and complete Privacy Policies and observe appropriate data practices, each of these sites has a privacy policy that may differ from that of CashbackURL. The privacy practices of other websites and companies are not covered by this policy. 
+**Changes in Our Practices**
 
-CashbackURL may allow other companies, called third party ad servers or ad networks, to display advertisements on the CashbackURL website or in CashbackURL email. Some of these ad networks may place a persistent cookie on your computer. Doing this allows them to recognize your computer each time they send you an online advertisement. In this way, ad networks may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. CashbackURL does not have access to or control over the cookies that may be placed by these parties on your computer, and has no control over these parties' privacy policies or information collection practices. 
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-Except as specifically set forth below, it is our policy not to provide your personally identifiable information to our advertisers unless you make the choice to share it with them. We occasionally pass personally identifiable information via a secure interface to certain of our advertisers for the purpose of making it easier for you to sign up for their offers. However, this information is only to be used by the advertiser if you agree to submit the information to the advertiser for the purposes of completing an offer. 
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
 
-We occasionally hire other companies to provide limited services on our behalf, such as handling the processing and delivery of mailings, providing customer support, processing transactions, or performing statistical analysis of our services. We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of your information and are prohibited from using that information for any other purpose. 
+**Contacting Our Site**
 
-In the event that we were unable to capture your transaction detail, CashbackURL may need to validate your transaction with an advertiser or merchant partner to ensure that your account is credited with the correct Incentive Amount. The validation information shared is used solely for this purpose and may include your first name, last name, email address, mailing address or date of birth. We will require that these third parties comply with the information practices set forth in this Privacy Promise and that the information not be shared or used for any other purpose. 
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
 
-We may share non-personally identifiable information collected via the program in aggregate, anonymous form with advertisers or other third parties so that they may better evaluate what products and services are most appealing to different segments of our member base. We do not disclose your first name, last name, address, email address, or any other personally identifiable information to these third parties unless you give your express consent. 
+* * *
 
-We occasionally send the information we gather about our members to trusted third-party data processors to organize, process and/or analyze the data on our behalf. We use this information to enhance our program offerings, namely to tailor advertisements, updates, and offers to your particular interests and to ensure that your opt-out requests are honored. All such third-party data processors are prohibited from using your personal information except to provide these services to CashbackURL. They are contractually bound to observe the strict policy stated herein, so you can rest assured that the confidentiality of your personally identifiable information will be maintained. 
-
-## Data Verification and Supplementation
-
-Data verification involves the use of third-party data processing services to standardize and clean your provided enrollment information so that it is easily identified and accessed in our database. Data supplementation involves appending any publicly available information about you to your personal profile. 
-
-In order to provide you with the most rewarding experience, we might send your information to data processors so that they can clean your address and standardize to ensure it is most accurate and up-to-date. Next, we might seek out any information about you that is publicly available on the open market and overlay this data onto ours for comparison purposes. Information collected in this manner could include your spending habits from a mail-order catalogue, demographic information you provided in entering a sweepstakes, or your financial history. All of this results in a program that is tailored to your personal interests and provides you with the most relevant Point-earning opportunities. 
-
-We use this information solely for the purpose of enhancing the offerings of the CashbackURL Program, namely to tailor advertisements, updates, and Incentive-earning and spending offers to your particular interests. All such third-party data processors are contractually bound to observe the strict policy stated herein, so you can rest assured that the confidentiality of your personal information will be maintained. 
-
-## Security
-
-CashbackURL.in has established company-wide security practices for your protection. These practices include, but are not limited to, firewall security, the use of appropriate encryption technology, and the use of multiple levels of password security to limit access to data on a "need-to-know" basis. 
-
-We may use contractors or vendors to help us provide some of the services at our site. If we disclose personal information for them to provide the services, it is with the requirement that the information is kept confidential and used only for those services. All contractors and employees are required to familiarize themselves with, and abide by, these safeguards. 
-
-## Changes to this Privacy Policy
-
-We may amend this policy from time to time. If we make any material changes in the way we use your personally identifiable information collected at this site (www.CashbackURL.in) we will notify you by email and at the top of this Privacy Policy web page. For questions and concerns about the information collected or used at this site, please contact us at <http://www.cashbackurl.in/contact-us>. 
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
