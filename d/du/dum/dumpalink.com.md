@@ -1,89 +1,100 @@
-> *The following text is extracted and transformed from the dumpalink.com privacy policy that was archived on 2008-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080724101625id_/http%3A//www.dumpalink.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dumpalink.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Policy - Dumpalink.com
+# Legal Agreement
 
-### Privacy Policy
+**GoDaddy Respects Your Privacy**
 
-LAST UPDATED: 01/02/2007
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-Protecting the privacy of all of our users (�Users�, �you� or �your�) is a dedicated commitment of Dumpalink.com and all of the services brought to you by Dumpalink.com (collectively, "Dumpalink", �us� or �we�). This Privacy Policy (�Privacy Policy�), applies to all URLs and services provided under the Dumpalink name and in connection with the Dumpalink marks. It explains how Dumpalink treats personal information that we collect and receive on the Dumpalink website from our users and visitors. 
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-Personal information is information about you that is not otherwise available to the public. As the words imply, this information personally identifies you. Personal information may include, but is not limited to, your name, location, e-mail address, birth date, or other identifying information. 
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-You should be aware that this Privacy Policy applies ONLY to the Dumpalink website, the Dumpalink URLs, and the services and features provided by Dumpalink. This Privacy Policy does not apply to websites that you visit before or after us, to the other third party services featured on the Dumpalink site, or to third party advertisers or affiliates (collectively, �Third Party Services�). Please be sure to familiarize yourself with all of these Third Party Services� privacy policies. For your convenience ONLY, we have listed links to third party privacy policies for some of the parties that we do business with. However, not all Third Party Services may be listed. 
+**Information Collection and Use**
 
-Now that you know what this Privacy Policy covers, you may have the following questions: 
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-**WHAT INFORMATION DOES DUMPALINK COLLECT?**
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-First and foremost, we DO NOT intentionally collect information from children under the age of 13. We realize that the reach of Dumpalink may be broad and we have taken steps to ensure the safety of our users or visitors. 
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-**General User Registration** : When you register to become a general member of a Dumpalink, we collect certain information about you. This information is your desired username, e-mail address, country and gender (collectively, "General Membership Information"). Once registered, you will have the opportunity to create your personal profile. ANY PERSONAL INFORMATION ABOUT YOURSELF THAT YOU DO NOT WISH TO SHARE WITH THE PUBLIC SHOULD NOT BE INCLUDED ON YOUR PERSONAL PROFILE..
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-**Non-Personally Identifiable Information** : Dumpalink also collects non-personally identifiable information about you. Currently, upon registration, Dumpalink only collects your IP address, which cannot personally identify you. Dumpalink also complies user data in the aggregate for purposes of demographic compilations and other data that can help us enhance our user�s experience. 
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-**Dumpalink Community Features** : Once you register for Dumpalink, you will also have a chance, at your sole determination, to share other information about yourself via your personal profile. This information will be included on your personal Dumpalink profile and is meant for sharing with other community members of Dumpalink. You will always have the ability to change and edit this information. Further information on this is provided below. 
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-NOTE: Please remember that any personal information voluntarily disclosed by you through e-mail, in public-view personal profiles, public-view uploaded materials, chat rooms, message boards, or intra-site message systems, can be seen and used by others. For your safety, do not include information on your personal profile that you do not want others to know!!
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-**Contests / Sweepstakes** : Some contests, sweepstakes and other promotions that may appear from time to time on Dumpalink may be sponsored by other companies. These companies may seek to collect personal information from you in order to obtain entry. You can avoid providing your personal information to these companies and sponsors by not participating in these contests, sweepstakes or promotions. In any event, we encourage you to make yourself familiar with the privacy policy specific to any such event prior to your agreement to participate. Dumpalink will endeavor to conspicuously distinguish Dumpalink sponsored contests and sweepstakes from that of any third party sponsored contest or sweepstakes. 
+**Security**
 
-**WHAT IS COLLECTING THE ABOVE INFORMATION?**
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-**Cookies** : Dumpalink places cookies on your computer to retain your individual preferences and improve your user experience on our website, as well as to tell us what features of our sites are most popular. From time to time, we randomly track what videos and user profiles our users are looking at via client-side cookies. We do this through a randomly generated username only and cannot tie this to your personal data. So in short, we do not store any personal information in cookies, nor do we use cookies to obtain any personal information from you. You can always adjust your web browser�s acceptance of cookies in your browser preferences.
+**Updating Your Information**
 
-Also, affiliates and advertisers, product and service providers may also use their own cookies when you interact with their sites via Dumpalink. You should be aware of this and always consult with their privacy policies. 
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-**Our Database** : All of the General Membership Information Information is stored in our database. Dumpalink does not use external, file-based or xml storage devises. 
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-**HOW DO WE USE GENERAL / DIRECTOR MEMBERSHIP INFORMATION AND NON-PERSONALLY IDENTIFIABLE INFORMATION?**
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-General Membership Information: Dumpalink will not distribute, sell or rent any of the personal information about you to other people or nonaffiliated companies except to enable the provision of services or products you have requested or when we have your permission to do so. 
+      iii.      You may call us at: (480) 505-8800
 
-Our advertisers will never be privy to your General Membership Information unless you permit us to give it to them so that they can provide you with products or services. 
+       iv.      You may fax us at: (480) 505-8844
 
-Your e-mail address may be used by us for communications related to the Dumpalink services, including but not limited to, sending notices about new features, products, or other information of interest to you. Again, you can always opt out of receiving these notices. 
+**Sending Emails**
 
-Non-Personally Identifiable Information: Our advertisers and affiliates may be provided general information or data regarding member usage patterns or interests, or other general demographic information so that they can better serve your needs and preferences. However, such disclosure will not include individually identifiable information. The collection of usage and interest information allows us to provide a constantly evolving innovative services, products, and features designed to satisfy member needs, wants and desires. 
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-**WHEN WILL WE SHARE OR DISCLOSE GENERAL MEMBERSHIP / DIRECTOR MEMBERSHIP INFORMATION?**
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-Despite our commitment to protecting your privacy, in certain circumstances, Dumpalink may disclose your General Membership Information under the following circumstances: 
+**Compliance with Laws and Law Enforcement**
 
-(a) If required to do so by law; 
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-(b) Pursuant to a good faith belief that such access, preservation or disclosure is reasonably necessary to: 
+**Third Party Service Providers**
 
-1) Enforce the Dumpalink Terms of Service;   
-2) Respond to claims that any uploaded materials violate the rights of third-parties;   
-3) Respond to your customer service requests;   
-4) Comply with legal process; and/or   
-5) Protect the rights, property, or personal safety of Dumpalink, its users, or the public.   
-**HOW DO I EDIT MY MEMBERSHIP INFORMATION?**
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-All of your General Membership Information is located in your personal Dumpalink account. Your profile can be edited at any time, by logging in with your username and password, then clicking on the "Edit Profile" link on the top-right of the page. In addition, within all communications send to you from us at Dumpalink, we will always provide you with instructions for opting out from additional communication. 
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-**HOW DOES DUMPALINK PROTECT MY INFORMATION? (SECURITY)**
+**Supplementation of Information**
 
-Your personal account is protected by your password, which you select. Dumpalink uses commercially reasonable efforts to protect our user data and restricts our employees access to such data, except to those who�s primary job function it is to maintain this data. Please note that apart from the commercially reasonable efforts we employ, due to conditions beyond our control, we cannot guarantee 100% security of user personal data.
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-**WHAT ABOUT SAFETY FOR CHILDREN?**
+**Contests/Surveys**
 
-Again, we at Dumpalink take the online safety of children very seriously. We do our best not to allow children under the age of 13 to obtain a general membership account or director account. 
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-**I AM AN INTERNATIONAL USER, WHAT ABOUT MY PRIVACY?**
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-Dumpalink treats everyone the same. Dumpalink is owned and operated in the United States of America and our servers are located in the United States of America. Therefore, the collection of user data is governed, to the extent they exist, by United States federal and state privacy law. 
+**Tell-A-Friend**
 
-**WHAT IF DUMPALINK MAKES CHANGES TO THIS PRIVACY POLICY?**
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-Dumpalink may periodically update this Privacy Policy. We will attempt, at our sole discretion, to notify our users of any updates to this Privacy Policy via email. However, we encourage you to periodically revisit the Privacy Policy link on the Dumpalink homepage to ensure that you are familiar with the current version. You are responsible for reviewing any revisions to this Privacy Policy, and your continued use of the Dumpalink website and services after any change to the policy constitutes your acceptance of the Privacy Policy. 
+**What Happens to my Personal Information if I Opt Out?**
 
-**CAN I CONTACT DUMPALINK ABOUT MY PRIVACY CONCERNS / QUESTIONS?**
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-YES! If you have a privacy concern regarding the Dumpalink website or this Privacy Policy feel free to write us at privacy@dumpalink.com. Alternatively, we can be reached by our postal mail address: 
+**Transfer of Data Abroad**
 
-Attention: Privacy Officer / Dumpalink  
-840 Apollo Street, Suite 251  
-El Segundo, CA 90245  
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
