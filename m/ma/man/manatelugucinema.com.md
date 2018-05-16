@@ -1,66 +1,100 @@
-> *The following text is extracted and transformed from the manatelugucinema.com privacy policy that was archived on 2017-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170408222554id_/http%3A//www.manatelugucinema.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manatelugucinema.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy
+# Legal Agreement
 
-### Privacy
+**GoDaddy Respects Your Privacy**
 
-Privacy  
-Welcome to manatelugucinema.com. We value your privacy, and want you to know what information we collect and what we do with it. 
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-From time to time, we may make changes to this Policy. We will endeavor to  
-post the changes before they become effective. The effective date of the most recent version of the privacy policy will appear at the top of this page. This consumer privacy policy applies to any information we collect or receive about you, from any source.
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-WHAT INFORMATION WE COLLECT  
-We have several areas where members can submit information to us, and we also have features that automatically collect information from our members and other users.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-INFORMATION YOU PROVIDE TO US.  
-We have certain areas where we ask you to provide information to us:
+**Information Collection and Use**
 
-* Registration. You may register with us to use some of our member only features on our site. We may also offer the option for you to register with us or sign up for our mailing list without having to use any other product or service. During registration, you provide your “contact information” (which identifies you and how we can contact you, such as your name and email address) as well as certain demographic information (which describes certain information about you, such as your country of residence). You may be asked to enter a e-mail address and password. We may also ask you to provide additional information about your music preferences, so that we can cater to those preferences. The registration information that you provide will be reflected in the “My manatelugucinema” section of the service. 
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-* Communications from Us and Mailing Lists. In order to keep our members informed about the operation of our services, we will send e-mails and announcements that are needed for the proper functioning and administration of our site and subscription service. For additional information about our site, services and offers, we give our members the option of joining our mailing list. We also allow you to choose whether to receive mailings from partners and sponsors that we think will be of interest to you. You can always change your options in the “My manatelugucinema” section of the site under the “Edit Profile” subsection. Each marketing e-mail from us will come with instructions for how to unsubscribe from our mailing list.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-* Communications with Us. We have features where you can submit information  
-to us (such as when contacting us with a question or problem related to the service). We will retain your emails and other information you submit to us for our internal purposes, and to help us to serve you better.
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-* Communications with Friends. Our site may also have certain features that allow you to send information to others (such as via a “Tell a Friend”, “Mail a song”). We will use the contact information you enter for your friends only to send the email, and then we will delete it from our system.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-* Interactive Features. We also may offer interactive features, such as message boards, chat rooms, etc. Note that all personal information you send or post via such features becomes public information, and we are not responsible for any information you choose to make public (including any online identifier, such as an email address, instant messenger name or member name). We may store such information in an aggregate form but we will not file or retain such information on a personal basis. We may monitor such traffic via electronic software or personnel but only to check for obscenity, defamation or other types of abusive language, which we reserve the right to remove at any time.
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-* Contests and Sweepstakes. We may also have contests or sweepstakes at our site, or in partnership with one or more of our Affiliate Sites or sponsors. When you enter contests or sweepstakes at manatelugucinema.com or one of our Affiliate Sites, we request contact information from you, such as your full name, email address, mailing address, and telephone number. We will use the information you provide for our internal purposes, to communicate with you and to conduct the promotion (for example, to contact you if you have won). If we intend to use the information you provide for other purposes, we will so specify as part of the sweepstakes or contest sign-up procedures. When we partner with Affiliate Sites or sponsors in offering contests or sweepstakes, we may share (provide and receive) information with them.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-* Surveys. We may occasionally ask members to participate in surveys. Such surveys will be voluntary. They are intended to improve your member experience and any information you provide we may associate with your member name for future use. Any personal information collected will be used only by us unless we specify otherwise, although we may share aggregate survey result information with others. 
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-AUTOMATIC DATA COLLECTION 
+**Security**
 
-Cookies. We use a software technology called “cookies” for several purposes, depending on the type of cookie employed. Within manatelugucinema.com, we use what are commonly called “session” cookies, meaning that they only last as long as you are online. We use these cookies to identify you as a valid subscriber so that we can deliver music to you, to ensure that no one else can sign on simultaneously with your account from another computer and to help us personalize your service experience based on your registration preferences (such as genre). We may also use session cookies to help us facilitate any promotions or surveys that we provide. As part of the sign-in process, we may also use what are commonly called “persistent” cookies which stay with you after your session is over and you are offline. We only use these cookies in connection with a sign-in feature that allows you to save your member name and password so that the next time you sign in, these fields will be prepopulated for you. This cookie is only offered in conjunction with certain Affiliate Sites that choose to make it available and it can only be activated if you select that option during your sign-in. If you select this option you can always deselect it each time you sign-in. 
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-Other. In order to personalize our service for your enjoyment and to monitor and improve the performance of our technology, we do collect/capture other data such as a member’s searches (such as their search criteria and results) and the music they listened to. We only share search history or music usage data on an aggregate basis. 
+**Updating Your Information**
 
-For our internal purposes, we gather information such as date, time, connection speed and IP address of all visitors to our site. We keep this information simply for our internal security audit log, trend analysis, and system administration. 
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-Third Party Advertising  
-Third Party Cookies  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-WITH WHOM WE SHARE YOUR INFORMATION 
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-We do not share your personally identifiable information with other  
-companies, apart from those acting as our agents in providing our service to you, all of which agree to use it only for that purpose and to keep the information secure and confidential. Also, entities into which our company is merged, or to which our assets, site or operations have been transferred, will be able to use your personal information under the terms of this privacy policy. We will also disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena or other legal obligation, in response to a law enforcement agency’s request, or in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property. You should also be aware that courts of equity, such as U.S. Bankruptcy Courts, may have the authority under certain circumstances to permit your information to be shared or transferred to third parties without your permission. 
+      iii.      You may call us at: (480) 505-8800
 
-We may share (provide and receive) with others certain aggregate service information, which is not personally identifiable. This information may include usage and demographic data, but it will not include personal information (such as your email address). We may use aggregate demographic information about our audience in order to improve our service, for marketing purposes and/or industry reporting purposes.  
-We partner with third-party advertising companies to serve ads and/or collect certain information when you visit our website. These companies may use cookies or web beacons to collect non-personally identifiable information [not including your name, address, email address or telephone number] during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this Ã¢â‚¬Å“behavioral advertising practice or to opt-out of this use of your anonymous information, you can visit http://www.networkadvertising.org/managing/opt_out.asp 
+       iv.      You may fax us at: (480) 505-8844
 
-SECURITY 
+**Sending Emails**
 
-manatelugucinema.com endeavors to protect the security of your personal information and your choices for its intended use. We use secure SSL technology to protect the transmission of sensitive information such as your registration, login, and credit card information. 
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-We store your personal information on a secure server, and use special procedures designed to protect the information we collect from loss, misuse, unauthorized access or disclosure, alteration or destruction. 
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-ACCESS/CHOICE 
+**Compliance with Laws and Law Enforcement**
 
-You will always have access to your registration information, which you can modify at any time by clicking on the “Edit Profile” subsection of the “My manatelugucinema” area of the site, so long as you continue to provide us with certain information required to maintain your subscription (such as a valid email address). Also, marketing e-mails from manatelugucinema.com will come with instructions for unsubscribing from our email mailing list.
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-LINKS 
+**Third Party Service Providers**
 
-We may display links to other sites within manatelugucinema.com. We are not responsible for those other sites, their privacy policies or how they treat information about their members. We advise you to check their privacy policies to find out how they are treating your personal information.
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
