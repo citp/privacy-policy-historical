@@ -1,149 +1,100 @@
-> *The following text is extracted and transformed from the kifi.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619062311id_/https%3A//www.kifi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kifi.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Kifi • Privacy Policy
+# Legal Agreement
 
-Welcome to kifi.com, a website owned and controlled by FortyTwo Inc. (“Kifi”, “we”, “us”, or “our”). We operate the Kifi website, browser extension and mobile applications, which help you easily “keep” webpages you are interested in, share kept pages with your friends, team mates and contacts, publish kept pages in public “libraries”, add comments and messages to kept pages, and receive personalized recommendations based on the things you keep and libraries you follow (the “Service”). We provide this Privacy Policy to let you know what information we collect, how we use it, share it and protect it.
+**GoDaddy Respects Your Privacy**
 
-By using Kifi, you accept the practices described in this Privacy Policy. This Privacy Policy does not apply to information collected by third-party websites and web services linked to or otherwise accessible from Kifi. The information collected or received by third-party websites is subject to their own privacy policies.
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-To enable the Service, including providing you with customized Kifi search results and making the webpages you “kept” accessible to you, your team members and your social contacts, Kifi occasionally collects some information about your browsing history as well as your search queries and results. This information is de-identified, encrypted and held securely on our servers without becoming visible to anyone, including our employees, except in accordance with your privacy choices.
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-## Guiding Principles
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-To protect your privacy, we commit to the following principles:
+**Information Collection and Use**
 
-  * We will give you control over your information and its visibility to other Kifi users.
-  * We will not collect any information from you except insomuch as collection is necessary to provide you with the Service.
-  * We will protect your browsing history information and search queries we collect. We cannot view this information, so furthermore cannot share this information with anyone else.
-  * To the maximum possible extent, we will use only aggregated information rather than personally identified or identifiable information.
-  * We will not store any of the personal content you may have on web pages you visit. Specifically, we will not record any passwords, credit card or financial account details. However, when you keep a page, we do store the page title, URL, and the date you kept the page.
-  * Any personal information that you provide will be secured using industry standard protocols and technology.
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-### How Do We Secure Your Private Click and Browsing History?
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-Occasionally, we have to collect some information regarding parts of your browsing history in order to provide you with better search results and experience. This information may include your User ID and the URL you visited.
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-To protect your privacy, we chose to use specific technological techniques (such as time-decaying one-way hash filters) to store it in a way that prevents us or anyone else from easily querying or viewing the data. Specifically, even if we were forced to give information related to your click history (such as which search results you click), our methods do not allow for direct retrieval; instead, we compute a signature of many combined data points. We could only tell probabilistically (with high false positive and false negative results) whether the data was previously stored, with certainty declining over time.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-Whenever we will refer to a “Secured Manner” hereinafter, we will mean the technological techniques mentioned in this article.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-## Collection of Information
+**Security**
 
-### Login
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-In order to become a Kifi user, you will register to the Service or log in using your social login. This means that upon your first login, Kifi collects your full name and email address, profile photo, gender, languages, devices and list of friends from the social network you connect through. Kifi is a social product, providing you added value by learning from the search queries and results of your social contacts. This is why when you login, we collect information about your friends, followers and social contacts. This information is used to improve your social search capabilities and enable you to communicate with your social contacts through the Service, for example with messages.
+**Updating Your Information**
 
-In addition, when you first login, Kifi, upon your approval, gives you the ability to send us all of your existing bookmarks and retains them as kept pages for your future reference.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-### Search History
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-Every time you search the Internet and click on a result, Kifi collects information about your search and choice of results in order to improve and personalize the Kifi search results that you and other Kifi users get. Specifically, Kifi collects your Kifi user ID ; the search query you searched and its URL; the result you selected and the time you selected it; and whether the result you selected was provided by Kifi or by an organic search engine. We do not store this information in an easily retrievable form (see “Secured manner” for more information), and your searches are not connected to your user account
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-### Browsing History
+      iii.      You may call us at: (480) 505-8800
 
-#### To Improve the Keeper’s Behavior
+       iv.      You may fax us at: (480) 505-8844
 
-When you visit a webpage, we transfer, but do not store, the page’s URL to our servers to retrieve whether:
+**Sending Emails**
 
-  * You have previously kept the page
-  * Your connections or others have kept the page
-  * The page has any special settings, such as a custom Keeper position, etc.
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
+**Compliance with Laws and Law Enforcement**
 
-We do not store this request in any manner.
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-In order to improve the operation of the Kifi Keeper (which appears at the bottom right corner of your screen when you use Kifi) and avoid bothering you with repetitive prompts, when the Keeper opens on a page, we transmit the URL and store in a way that we cannot easily retrieve (see “Secured Manner”), so that we do not automatically open the Keeper in the future.
+**Third Party Service Providers**
 
-#### Technical information
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-We collect and store certain technical information when you use Kifi, including the type of operating system you are using; Internet protocol address; browser type; other information about your geographic location; and the domain name of your Internet service provider.
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-#### Cookies
+**Supplementation of Information**
 
-We may use cookies (pieces of data stored on your computer tied to information about you) to enhance and personalize your experience on Kifi; help authenticate your identity when you visit and transact with Kifi; remember your preferences and login information; present and help measure and research the effectiveness of Kifi offerings; and customize the content provided to you by Kifi.
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-## Usage statistics
+**Contests/Surveys**
 
-We may track usage statistics in order to monitor and improve the Service performance and features. Usage information is retained in identified form. It includes some information about a user’s engagement with a web page (as mentioned on the “browsing history” section above), including interaction with the Kifi interface itself. For example, Kifi would retain the number of keeps a specific user made per day, or the number of clicks a keep received from search results, in aggregate.
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-## Your Correspondence
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-If you contact us for any reason (by sending us an email, fax, Kifi messaging, or completing a form on our website), we may keep a record of that correspondence in order to refer to it when investigating the issue you have raised.  We will not make your email address available to third parties without your explicit permission.
+**Tell-A-Friend**
 
-## Your Privacy Choices
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-Kifi is a social product, learning from the search queries and search results of your social contacts and allowing you to interact with social contacts in the context of existing web-pages. It is important that you take a minute to learn and understand the privacy defaults and choices you can make on the Service.
+**What Happens to my Personal Information if I Opt Out?**
 
-## Keeping Webpages
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-You can choose to “keep” any webpage into (1) a “Public” Library, a (2) “Private” Library or a (3) "Team" Library. While "Public" and "Private" libraries may exist in your personal space or a team space, a "Team" library has to exist only in a team space. You can choose to “keep” a webpage into a “Private” Library, in which case your social contacts will not be able to see that you “kept” it. Kifi, however, will record that you “kept” a webpage privately, in order to provide you with access to that webpage when you later search for it again. You can choose to “keep” a webpage into a “Public” Library, in which case the address, title, and content of the webpages in the library are viewable and searchable by anyone on the internet. You can choose to “keep” a webpage into a “Private” Library, in which case the webpages in the library are viewable only by people you invite. You can choose to “keep” a webpage into a “Team” Library, in which case the webpages in the library are viewable only by members of the team the library is in, and any additional library "members". If you “keep” pages that are protected behind a login wall, and we detect it as such (i.e your personal email messages or social networking posts), those pages will be, by default, not accessible by your social contacts.
+**Transfer of Data Abroad**
 
-## Slack Integration
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-The Kifi Slack Integration lets you do the following: (1) Connect a Slack team with a Kifi team enables any member of your Slack team to authenticate with their respective Slack team credentials and Kifi will join that member into the Kifi team. Kifi may use some of the Slack information about the team and members of the team for display. For example, team name, team logo, team url, channel names, list of channels, member name, member email, member icon and more. Kifi will not persist photos or emails of the team members unless those team members joined Kifi as members.  
-(2) Sync Kifi Library into Slack channels, which sends keeps with their notes and comment threads to the respective Slack channels.  
-(3) Sync Slack channel into Kifi Libraries, which sends Slack messages that have links to Kifi Libraries. Links mentioned in those Slack messages will be kept in the libraries and displayed along with the associated messages. Some of those links may not be displayed in the Kifi libraries if they would match the list of rules also knows as "Link ingestion blacklist".The privacy rules that apply to keeps and messages that are kept via Slack are the same as in the "Keeping Webpages" section above.  
-Kifi will not expose the existence of private channels or messages of those channels unless the Kifi Libraries that are synced with those channels are shared with a larger set of members or made public.
+**Changes in Our Practices**
 
-## Following Libraries
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-You are able to “follow” libraries in Kifi. If you follow a published library, anyone on the internet will be able to see that you followed this library, which will appear to them in conjunction with your name and profile photo. If you “follow” private libraries in Kifi, the library owner and people who are also following this library will be able to see your name and profile photo. If you “follow” team libraries in Kifi, the library owner, team members and people who are also following this library will be able to see your name and profile photo.
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
 
-## Kifi Team Space
+**Contacting Our Site**
 
-Kifi Team Space ("team", "organization", "org") lets a collection of persons manage libraries together. Unless the administrators of a team explicitly elected to restrict visibility of the team, some or all of the team properties (e.g. name, description, list of members) may be public. Some of the actions or properties may be restricted by an administrator of the team. To view the list of team administrators see the members section in the team space. Unless team administrators are limiting Team Members library creation, Members of the team may have "Public", "Private" or "Team" libraries in the team space, see the "Keeping Webpages" section of this document. Team Administrator may choose to limit Members from creating "Public Libraries". 
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
 
-## Kifi Messages
+* * *
 
-Kifi allows you to post messages on selected web pages to specific social contacts, even if they do not use Kifi. These messages are only viewable by those social contacts with whom you have selected to share them. If they are not Kifi users themselves, the recipients of such a message will be directed to the webpage in topic.
-
-## Deleting your information
-
-You can choose to permanently remove all your information related to the webpages you keep, and libraries you create from Kifi and terminate your profile, through your profile settings on the Kifi website, in which case all information associated with the webpages you kept, will be deleted. To delete your Kifi user and information, contact us [here](http://support.kifi.com/hc/en-us/requests/new).
-
-## Using Your Information
-
-Your information is stored on our servers or on the servers of our storage service providers, which are used to operate and improve the Service; to conduct research about your use of the Service; to personalize the content and advertisements provided to you; and to communicate with you and respond to your inquiries.
-
-We use elements of your browsing history and search queries to provide you with the Service, including to improve and personalize the Kifi search results that you and other Kifi users get and to enable you to communicate with your social contacts who use Kifi.
-
-We may contact you to tell you about new features, service issues or changes to this Privacy Policy.
-
-We will use your information to notify you when there has been any activity relating to your profile, such as messages from your social contacts.
-
-We may use your browsing information and search queries in an aggregated, completely anonymous manner to highlight trends and patterns in the way that Kifi users use the web.
-
-## Sharing Your Information
-
-We share your information with third parties only in limited circumstances where we believe such sharing is (a) permitted by you, (b) reasonably necessary to offer the service, or (c) legally required.
-
-Your browsing history and search queries will not be accessible by anyone, not even our employees, unless you so choose (for example, by publicly “keeping” a page).
-
-As discussed above, you may decide to share your information, including “kept” web pages and messages with your social contacts who use Kifi or with all Kifi users.
-
-We may disclose your information to certain trusted third-party providers we use to help provide the Service to you. For example, we may use a provider to host our website and to provide data processing activities. In this case, we will remain responsible for your information and contractually bind any third-party provider to act strictly on our instructions.
-
-We may be required to disclose certain data under legal process, including a court order, search warrant or subpoena. Even if we were so required to share a user’s browsing history or search queries, it would be extremely difficult to identify which information belonged to what user.
-
-In the event that ownership of FortyTwo Inc., or individual business units owned by FortyTwo Inc., was to change as a result of a merger, acquisition or transfer to another company, your information may be transferred to the new owner so the Service can continue. In any such transfer of information, your user information would remain subject to the promises made in this Privacy Policy.
-
-## Security
-
-We deploy industry standard security safeguards to help prevent unauthorized access to or misuse of your information. At the same time, we cannot guarantee that your information will never be disclosed in a manner inconsistent with this Privacy Policy (for example, as a result of unauthorized acts by third parties that violate applicable law or agreements). To protect your privacy and security, Kifi uses social networks login to help verify your identity before granting access or making corrections to any of your information.
-
-## Children’s Privacy
-
-Kifi is intended for a general audience. Children under the age of 13 are not permitted to be on social networks, nor are they permitted to sign up or log in to Kifi.
-
-## Changes to this Privacy Policy
-
-We may update this Privacy Policy from time to time, so you should review it periodically. If there are significant changes to FortyTwo's information practices, you will be provided with appropriate online notice. You may be provided with additional privacy-related information in connection with special features and services that may be introduced in the future.
-
-## How To Contact Us
-
-If you have any questions or concerns about this Privacy Policy or its implementation, please contact us [here](http://support.kifi.com/hc/en-us/requests/new).
-
-LAST UPDATED: October 25, 2015
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
