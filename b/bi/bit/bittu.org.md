@@ -1,59 +1,100 @@
-> *The following text is extracted and transformed from the bittu.org privacy policy that was archived on 2011-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110905015639id_/http%3A//www.bittu.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bittu.org privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# Legal Agreement
 
-**BITTU.ORG Privacy Policy**
+**GoDaddy Respects Your Privacy**
 
-At BITTU.ORG (“BITTU”) we appreciate your readership and support and place a high value on your personal privacy. We respect the personal nature of the information you provide us on our web site and staunchly recognize the importance of protecting this information. In adopting this privacy policy (this “Privacy Policy”), our intent is to balance our legitimate business interests in collecting and using your personal information with your reasonable expectations of privacy. This Privacy Policy may be revised or updated at any time and we encourage you to check back often to ensure that you are familiar with the most recent version and the terms of our Privacy Policy.
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-**When does BITTU collect my personal information?**
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-You may provide personal information to BITTU in one of eight ways: (1) by sharing your e-mail address when subscribing to our newsletter, (2) by sharing personal information when you submit news tips to our editorial team or by submitting a report via our Contact Form, (3) by sharing personal information when you post comments on our posts or stories,  (4) by signing up to be a member of our online social network, (5) by posting a job listing via our Jobs Board, or (6) by participating in a survey where an email address is requested. We may also ask for other information at other times but at no time will you be required to share any personal information to gain complete access to our site. BITTU is an open community but email addresses are requested to participate in some of our member-only features.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-In addition to basic contact information, our analytics trackers may also collect information that is in no way personally identifiable. This may include the operating system you are working on, the Internet browser you are using, and the screen resolution of your computer.
+**Information Collection and Use**
 
-**How does BITTU use my personal information?**
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-Depending on the portion of our site that you have subscribed to, we may use your information in a number of ways.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-* The email address you provided through our newsletter subscription form enables us to send you a daily digest of BITTU news stories. This subscription is entirely opt-in by the user. (We cannot subscribe you to the newsletter as you personally must have access to the email account in order to verify the subscription.) Subscribers can opt-out of our newsletter at any time by clicking the “Unsubscribe” link that is present on every email at the very bottom of the newsletter.  
-* The email address that you use when contacting us with an editorial tip or via our Contact Form will not be used for any reason but for the purposes of responding to your inquiry.  
-* The email address associated with your account when you comment on our stories may be used in conjunction with contests and promotions hosted on BITTU’s website to notify you if you have won. Email addresses provided in comments are not used for any other reason.  
-* You volunteer your email address and other identifying information on our social network. We use your email address only to inform you if there is activity on your profile. You can opt out of these messages at any time.  
-* Your email address associated with a Job Board listing is kept for filing purposes only. We may follow up with you to confirm or clarify a job listing but for no other reason.  
-* We may at times request your participation in a survey. We will not provide your email addresses to any third party but may contact you via them to distribute prizes in associated giveaways.
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-To maintain a site that is free of charge, we display advertisements on our website. We also use information you give us through surveys to help our advertisers target the audience they want to reach and to provide you with potentially interesting advertisements. At no time does any party other than BITTU have access to your personally identifiable information (with the exception of Google who maintains our RSS subscription-by-email service and our survey providers), and you will never be contacted by any party other than BITTU. The only exceptions to the foregoing are that we may disclose personally identifiable information (i) in response to legal process, for example, in response to a court order or subpoena, (ii) in response to a law enforcement agency’s request, or where we believe it is necessary to investigate, prevent, or take actions regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of another person, violations of our terms of use, or as otherwise required by law, or (iii) in the event we are acquired by or merged with another company.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-When you sign up for our updates or receive e-mail messages from BITTU, you will always be given the chance to opt-out of our communications. You may change your preferences at any time and will only be contacted in manners consistent with your stated preferences.
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-Non-personally identifiable information (such as stated above) may be shared in aggregate form with our advertisers or marketing partners but your personally identifiable information will never be disclosed to them.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-**Who else has access to my personal information?**
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-The ads appearing on BITTU’s website are delivered to you by Google Adsense or our Web advertising serving partners. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. And, in the course of serving advertisements to this site, third party advertisers may place or recognize a unique cookie on your browser. For more information about Google Adsense, cookies, and how to “opt-out”, please go to http://www.doubleclick.com/privacy/faq.aspx
+**Security**
 
-We have also contracted with a number of advertising network partners to monitor certain pages of our website and RSS feeds for the purpose of reporting website and RSS traffic, statistics, advertisement “click-throughs,” and/or other activities on our website. Where authorized by us, these advertising network partners may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to these network partners. For more information about how the information is collected and used, please see the following:
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-* Feedburner’s privacy policy at http://www.feedburner.com/fb/a/privacy  
-* Google’s privacy policy at http://www.google.com/privacy.html
+**Updating Your Information**
 
-Third parties and web sites that have links on our site may also collect or use information about you. The information practices of other companies or people that BITTU does not employ or manage are not covered by this Privacy Policy.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-**Is there anything else I should know about my privacy and BITTU?**
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-Any information you disclose voluntarily on our comments page or in any properties hosted by BITTU becomes public information. BITTU is a public forum. We cannot control the action of our site users and advise you to use your discretion in sharing information about yourself on the Internet. All information sharing is optional and done so at your own risk. Privacy is a very personal matter and we encourage you to be careful and responsible when disclosing personal information online.
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-**BITTU Comment Policy**
+      iii.      You may call us at: (480) 505-8800
 
-We never censor comments based on political or ideological point of view or of a critical nature. We reserve the right to delete those comments that are off-topic, “spammy” in nature, abusive, use excessive foul language, or include ad hominem attacks.
+       iv.      You may fax us at: (480) 505-8844
 
-Once a comment is made public on the BITTU website, we will not remove it by request. As a user, you are responsible for your own communications and are responsible for the consequences of their posting.
+**Sending Emails**
 
-Comments will only be considered for removal (i) in response to legal process, for example, in response to a court order, or (ii) in response to a law enforcement agency’s request, or where we believe it is necessary to investigate, prevent, or take actions regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of another person, violations of our terms of use, or as otherwise required by law.
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-**BITTU Profile Policy**
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-BITTU’s online social network is entirely opt-in by our members. The accounts listed in our database are created by members of the BITTU.ORG network. Due to security considerations, BITTU will not process account deletion requests made via email. To delete an account, the account holder must sign into the network using his/her email address or username in order to permanently delete his/her account. If the account holder no longer has access to the email account upon which the account was created, the account holder will not be able to delete the account.
+**Compliance with Laws and Law Enforcement**
 
-BITTU will have the right to delete any account at any time (i) in response to legal process, for example, in response to a court order, or (ii) in response to a law enforcement agency’s request, or where we believe it is necessary to investigate, prevent, or take actions regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of another person, violations of our terms of use, or as otherwise required by law.
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+
+**Third Party Service Providers**
+
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
