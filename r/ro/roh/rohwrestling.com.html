@@ -1,290 +1,489 @@
-<!--The following is the downloaded HTML source of the rohwrestling.com privacy policy that was archived on 2017-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171123195341id_/http%3A//rohwrestling.com/content/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rohwrestling.com privacy policy that was archived on 2018-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180516160026id_/https%3A//www.rohwrestling.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1044.min.js"></script><script type="text/javascript" async="" src="/sites/default/files/googleanalytics/ga.js?a"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<!DOCTYPE html><html lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><head><meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<link rel="shortcut icon" href="https://www.rohwrestling.com/sites/default/files/favicon_0.ico" type="image/vnd.microsoft.icon">
+<meta name="description" content="RING OF HONOR WRESTLING ENTERTAINMENT, LLC PRIVACY POLICY Updated September 1, 2011 Introduction You have entered a website owned and operated by, or on behalf of, Ring of Honor Wrestling Entertainment, LLC and/or its affiliated companies (“ROH”). Your use of our Website means that you agree to the terms of this Privacy Policy, which is incorporated into and forms a part of the Website’s terms and conditions (set forth in _________).">
+<meta name="keywords" content="Wrestling, Pro Wrestling, Professional wrestling, ROH, Ring of Honor, WWE, Wrestler, Wrestlers, Bullet Club, The Rock, John Cena, UFC, CM Punk, AJ Styles, Daniel Bryan, Samoa Joe, Kevin Owens">
+<meta name="generator" content="Drupal 7 (http://drupal.org)">
+<link rel="canonical" href="https://www.rohwrestling.com/privacy-policy">
+<link rel="shortlink" href="https://www.rohwrestling.com/node/806">
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:description" content="RING OF HONOR WRESTLING ENTERTAINMENT, LLC PRIVACY POLICY Updated September 1, 2011 Introduction You have entered a website owned and operated by, or on behalf of, Ring of Honor Wrestling Entertainment, LLC and/or its affiliated companies (“ROH”). Your use of our Website means that you agree to the terms of this Privacy Policy, which is incorporated into and forms a part of the Website’s terms and conditions (set forth in _________).">
+<meta property="og:updated_time" content="2017-12-06T01:47:11-05:00">
+<meta property="article:published_time" content="2017-11-23T07:28:36-05:00">
+<meta property="article:modified_time" content="2017-12-06T01:47:11-05:00">
+  
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-24981139-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-24981139-1');
+  </script>
+
   <title>Privacy Policy | ROH Wrestling</title>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link rel="shortcut icon" href="/sites/all/themes/ring_of_honor/favicon.ico" type="image/x-icon">
-<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Anton:regular|PT%20Sans:bold,bolditalic,italic,regular|PT%20Sans%20Narrow:bold,regular&amp;subset=latin">
-<script type="text/javascript">
-      adroll_adv_id = "5TNDQCKLNZB2LGUYEEYKZY";
-    adroll_pix_id = "Z7ZU4Z3YFFHCREVG5MKYIL";
-    (function () {
-      var oldonload = window.onload;
-      window.onload = function(){
-        __adroll_loaded=true;
-        var scr = document.createElement("script");
-        var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-        scr.setAttribute("async", "true");
-        scr.type = "text/javascript";
-        scr.src = host + "/j/roundtrip.js";
-        ((document.getElementsByTagName("head") || [null])[0] ||
-          document.getElementsByTagName("script")[0].parentNode).appendChild(scr);
-        if(oldonload){oldonload()}};
-}());
-</script>  <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/advagg_css/css_f7fcddab75ef7c9474efc49d168ce768_1372.css">
-<link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/advagg_css/css_e798c2b444cf7d609df1c648113c1f56_1383.css">
-<link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/advagg_css/css_c60d0f3de5545c0ea9b34f602b1540cc_1387.css">
-<link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/advagg_css/css_43d2f7a6d51d71f7202ec9e25537bef3_1.css">
-<link type="text/css" rel="stylesheet" media="print" href="/sites/default/files/advagg_css/css_d468a31118fea3a6a04cab317542f5ff_1371.css">
-<!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/ring_of_honor/css/ie.css?a" />
-<![endif]-->
-<!--[if lt IE 9]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/ring_of_honor/css/ie7-and-8.css?a" />
-<![endif]-->
-<!--[if lte IE 6]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/ring_of_honor/css/ie6.css?a" />
-<![endif]-->
-  <script type="text/javascript" src="/sites/default/files/advagg_js/js_6d8c75e7e2e7ad393dde03bfaeb45db3_1381.js"></script>
-<script type="text/javascript" src="/sites/default/files/advagg_js/js_87c7e685752babf2d849b2cdcc817e6b_1379.js"></script>
-<script type="text/javascript" src="/sites/default/files/advagg_js/js_e472d8c52f26a7270fc2e01784051eba_1386.js"></script>
-<script type="text/javascript" src="/sites/default/files/advagg_js/js_3bf5ed01f72d4ba8e189bfecc0f1874c_556.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","colorbox":{"transition":"elastic","speed":350,"opacity":"0.85","slideshow":false,"slideshowAuto":false,"slideshowSpeed":2500,"slideshowStart":"","slideshowStop":"","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","overlayClose":true,"maxWidth":"100%","maxHeight":"100%"},"externalpdf":false,"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"views":{"ajax_path":"\/views\/ajax","ajaxViews":[{"view_name":"events_filtered_by_date_type","view_display_id":"block_1","view_args":"","view_path":"node\/343631","view_base_path":"live\/past-events","view_dom_id":1,"pager_element":0}]},"superfish":{"1":{"id":"1","sf":{"delay":"0","animation":{"opacity":"show"},"speed":0,"dropShadows":true,"autoArrows":false,"disableHI":true},"plugins":{"supposition":true,"bgiframe":true}}}});
-//--><!]]>
-</script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-DD_roundies.addRule('.rounded','5px',true)
-//--><!]]>
-</script>
-<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-<body class="page not-front not-logged-in node-type-page no-sidebars page-content-privacy-policy section-content">
-
-  
-  <div id="page-wrapper"><div id="page">
-
-    <div id="header"><div class="section clearfix">
-
-              <a href="/" title="Home" rel="home" id="logo"><img src="/sites/all/themes/ring_of_honor/logo.png" alt="Home"></a>
-      
-      
-      
-      <div class="region region-header">
-    <div id="block-user-0" class="block block-user first region-odd even region-count-1 count-2">
-  
-  <div class="content clearfix">
-    <form action="https://www.rohwrestling.com/content/privacy-policy?destination=node%2F319" accept-charset="UTF-8" method="post" id="user-login-form">
-<div><div class="login-form-custom">
-  <div class="form-item" id="edit-name-wrapper">
- <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="E-mail" autocomplete="off" onblur="if (this.value == '') {this.value = 'E-mail';} ;" onfocus="if (this.value == 'E-mail') {this.value = '';} ;" class="form-text name-field-login-form">
-</div>
-<div class="form-item" id="edit-pass-wrapper">
- <input type="password" name="pass" id="edit-pass" maxlength="60" size="15" autocomplete="off" onblur="if (this.value == '') {this.value = 'Password';} ;" onfocus="if (this.value == 'Password') {this.value = '';} ;" class="form-text pass-field-login-form">
-</div>
-<input type="submit" name="op" id="edit-submit" value="LOGIN" class="form-submit submit-field-login-form">
-<input type="hidden" name="form_build_id" id="form-0UVd0a14xaUugS631Eg5zsUyP_Foky6EtimMg3FyeT0" value="form-0UVd0a14xaUugS631Eg5zsUyP_Foky6EtimMg3FyeT0">
-<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block">
-<div class="item-list"><ul><li class="first last"><a href="/user/register" title="Signup for FREE!" class="free-signup">Not a member?</a></li>
-</ul></div></div>
-
-</div></form>
+ 
+  <link type="text/css" rel="stylesheet" href="https://www.rohwrestling.com/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://www.rohwrestling.com/sites/default/files/css/css_J15e1jzFc6RRctlHjsZrBW1gSaMbf8y2HJIiISYeZEQ.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://www.rohwrestling.com/sites/default/files/css/css_UkdjyhrZWFDiBwyS7nJYKUIf1dIqrBYaQh5aKNe21KY.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/bootstrap/3.3.7/css/bootstrap.min.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://www.rohwrestling.com/sites/default/files/css/css_nH1Kc4F9LUWQxoIxfDZu6sXxOvmUgncr9AwDdq-Kgl8.css" media="all">
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="https://cdn.jsdelivr.net/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+  <script src="https://www.rohwrestling.com/sites/default/files/js/js_Kd4BsnIT6T8vj1yoTIfotvk_bIOeY4Ndbdvl8ytcvjs.js"></script>
+<script src="https://cdn.jsdelivr.net/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="https://www.rohwrestling.com/sites/default/files/js/js_pULybd8VWllm9VS5kuNjnShc9C6s-qTJdNHUX6_zQVk.js"></script>
+<script src="//player.ooyala.com/static/v4/stable/latest/video-plugin/bit_wrapper.min.js"></script>
+<script src="https://www.rohwrestling.com/sites/default/files/js/js_YYqfq-HEipkEk41aNc8c4IahWmFDWZbsWjLTXwhUx_A.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bootstrap_roh","theme_token":"h-n03HC-07c09ucPkSI1NYgr9lVamyvEib6QEfppHGg","js":{"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"https:\/\/cdn.jsdelivr.net\/bootstrap\/3.3.7\/js\/bootstrap.min.js":1,"sites\/all\/modules\/contrib\/tb_megamenu\/js\/tb-megamenu-frontend.js":1,"sites\/all\/modules\/contrib\/tb_megamenu\/js\/tb-megamenu-touch.js":1,"\/\/player.ooyala.com\/static\/v4\/stable\/latest\/video-plugin\/bit_wrapper.min.js":1,"sites\/all\/themes\/bootstrap_roh\/js\/jquery.zoom.min.js":1,"sites\/all\/themes\/bootstrap_roh\/js\/style.js":1,"sites\/all\/themes\/bootstrap_roh\/js\/custom.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/custom\/trivia\/trivia.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/tb_megamenu\/css\/bootstrap.css":1,"sites\/all\/modules\/contrib\/tb_megamenu\/css\/base.css":1,"sites\/all\/modules\/contrib\/tb_megamenu\/css\/default.css":1,"sites\/all\/modules\/contrib\/tb_megamenu\/css\/compatibility.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"https:\/\/cdn.jsdelivr.net\/bootstrap\/3.3.7\/css\/bootstrap.min.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.5\/overrides.min.css":1,"sites\/all\/themes\/bootstrap_roh\/less\/style.less":1}},"better_exposed_filters":{"views":{"user_points":{"displays":{"block":{"filters":[]}}},"event_listing":{"displays":{"block_1":{"filters":[]},"block_2":{"filters":[]}}}}},"urlIsAjaxTrusted":{"\/privacy-policy":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+ 
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-806 node-type-page  roh-shop-access-denied   ">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
   </div>
-
-  </div><!-- /.block -->
-  <div id="block-block-14" class="block block-block region-even odd region-count-2 count-3">
-  
-  <div class="content clearfix">
-    <a href="/user" id="myROH"><strong>myROH</strong></a>
-<div id="rohUser1" class="rohUser1"><a href="/membership">Not a member?</a> - Sign up for FREE</div>
-
-
-<a href="/cart" id="cartDetail"><span class="cartIcon"><strong>cart</strong></span> <strong>(empty)</strong></a>  </div>
-
-  </div><!-- /.block -->
-  <div id="block-block-26" class="block block-block region-odd even region-count-3 count-4">
-  
-  <div class="content clearfix">
-    <!-- /4756/ROH/Web/Home --><div id="div-gpt-ad-1444068469695-0" style="height:90px; width:728px;"><script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1444068469695-0'); });
-</script></div>  </div>
-
-  </div><!-- /.block -->
-  <div id="block-block-18" class="block block-block region-even odd region-count-4 count-5">
-  
-  <div class="content clearfix">
     
-<table cellpadding="3" cellspacing="0" border="0" width="100%">
-<tbody><tr>
-	<th>Qty</th>
-    <th>Item</th>
-    <th>Price</th>
-</tr>
-<tr>
-	<td colspan="3" align="right" class="subtotal">Subtotal: <span class="uc-price">$0.00</span></td>
-</tr>
-</tbody></table>  </div>
+  <div id="page-wrapper">
+    <div id="page">
 
-  </div><!-- /.block -->
-</div><!-- /.region -->
+          <div id="header">
+
+        <div class="section utility visible-md visible-lg">
+                      <div class="col-sm-6">
+                  <div class="region region-utility-navigation ">
+    <section id="block-block-1" class="block block-block clearfix">
+
+      
+  <p><a href="/shop/catalog/tickets">TICKETS</a> |&nbsp;<a href="current-tv-episode">LATEST TV</a>&nbsp;| <a href="https://www.rohwrestling.com/pickem/list">PICK-EM</a>&nbsp;| <a href="https://www.rohwrestling.com/roh-tour/051218-war-worlds-royal-oak">WAR OF THE WORLDS: ROYAL OAK</a></p>
+
+</section>
+  </div>
+            </div>
+                                <div class="col-sm-6">
+                  <div class="region region-utility-navigation-right ">
+    <section id="block-menu-menu-user-menu-anonymous-" class="block block-menu clearfix">
+
+      
+  <ul class="menu nav"><li class="first leaf"><a href="/user/login" title="">Sign In</a></li>
+<li class="last leaf"><a href="/cart" title=""><i class="fa fa-shopping-cart" aria-hidden="true"></i>Cart<span>(0)</span></a></li>
+</ul>
+</section>
+  </div>
+            </div>
+                  </div>
+
+        <div class="section clearfix menu-honor">
+                      <div class="logo visible-md visible-lg">
+              <a href="/" title="Home" rel="home" id="logo">
+                <img src="https://www.rohwrestling.com/sites/default/files/rings_of_honor.png" alt="Home">
+              </a>
+            </div>
+            
+                        <div class="main-menu">
+                <div class="region region-navigation tb-megamenu-main-menu">
+    <section id="block-tb-megamenu-main-menu" class="visible-md visible-lg clearfix">
+
+      
+  <div class="tb-megamenu tb-megamenu-main-menu">
+      <button data-target=".nav-collapse" data-toggle="collapse" class="btn btn-navbar tb-megamenu-button" type="button">
+      <i class="fa fa-reorder"></i>
+    </button>
+    <div class="nav-collapse  always-show">
+    <ul class="tb-megamenu-nav nav level-0 items-9">
+  <li data-id="2861" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega dropdown">
+  <a href="/live/upcoming-shows" class="dropdown-toggle" title="LIVE">
+        
+    LIVE          <span class="caret"></span>
+          </a>
+  <div data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div class="tb-megamenu-row row-fluid">
+  <div data-showblocktitle="1" data-class="" data-width="4" data-hidewcol="0" id="tb-megamenu-column-1" class="tb-megamenu-column span4  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <div data-type="block" data-block="views--event_listing-block_1" class="tb-megamenu-block tb-block tb-megamenu-block">
+  <div class="block-inner">
+    <section id="block-views-event-listing-block-1" class="block block-views clearfix">
+
+        <h2 class="block-title">Upcoming Shows</h2>
     
-
-    </div></div><!-- /.section, /#header -->
-
-
-    <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
-
-      <div id="content" class="column"><div class="section">
-
+  <div class="view view-event-listing view-id-event_listing view-display-id-block_1 view-dom-id-d1a795ad93f89d96b29e43c90f1c2752">
         
-        
-        <!--?php print $breadcrumb; ?-->
-                  <h1 class="title">Privacy Policy</h1>
-                                
-                        <div id="content-area">
-          <div id="node-319" class="node node-type-page build-mode-full clearfix">
-  
-  
-  
-  
-  <div class="content">
-    <div><b>RING OF HONOR WRESTLING ENTERTAINMENT, LLC PRIVACY POLICY</b></div><div><strong>Updated September 1, 2011</strong></div><div><strong>Introduction</strong></div><div>You have entered a website owned and operated by, or on behalf of, Ring of Honor Wrestling Entertainment, LLC and/or its affiliated companies (“ROH”). Your use of our Website means that you agree to the terms of this Privacy Policy, which is incorporated into and forms a part of the Website’s terms and conditions (set forth in _________).</div><div>This Privacy Policy is subject to occasional revision at our discretion. If we make any substantial changes in the way we use your Personal Information (as described below), such changes will be posted on the Website. If you object to any such changes, you must stop using the Website. Continued use of the Website following notice of any changes indicates your agreement to them.</div><div>ROH wants you to enjoy your visit to our Website but also help protect your personal privacy while you are visiting and afterwards. Most of your visits to our Website will not involve collection of any of your Personal Information. There are areas of our Website which involve membership or a registration process where you will need to submit personal information such as your name, address, date of birth, contact information, payment information, phone number, etc. (“Personal Information”).</div><div>The Personal Information we collect depends on what you do when you visit our Website or use the various products or services we offer. By using our Website, you are agreeing to the terms of this Privacy Policy. If you do not agree with any terms or practices described in this Privacy Policy, please do not use our Website.</div><div><strong>Special Note About Children</strong></div><div>Protecting the privacy of children is very important to us. ROH is also committed to fully complying with the Children's Online Privacy Protection Act ( "COPPA"). Our protections for the privacy of children include the following:</div><div>We do not knowingly solicit, collect, use, disclose or retain any Personal Information, for any purpose whatsoever (including internal or external marketing or promotional purposes), from visitors to our Website who are age 13 or younger. In addition, we will delete any records of such Personal Information that come to our attention. BY USING THIS WEBSITE, YOU ARE REPRESENTING THAT YOU ARE AT LEAST 13 YEARS OLD.</div><div>We do not allow visitors who are age 13 or younger to be listed in any directory of registered users, to participate in any of our chat services, to register for contests, sweepstakes, promotions, or newsletters or to receive direct marketing from us or from our third-party affiliates or service or product providers.</div><div><strong>Special Note to Parents</strong></div><div>If you become aware that your child has provided us with Personal Information, we invite you to contact us so that we may delete the information from our records and discontinue any related features or services.</div><div><strong>Collection of Personal Information</strong></div><div>ROH collects Personal Information from visitors to our Website in a number of ways. These include:</div><ul><li><div>Subscriptions to our free newsletters, which include updates, special offers and promotions from ROH.</div></li><li><div>Participation in contests and sweepstakes.</div></li><li><div>Registrations to receive free downloadable desktop applications (<em>e.g.</em>, screensavers).</div></li><li><div>Registrations to participate in chat services, forums and social media interaction.</div></li><li><div>Registrations for myROH and use of standard or premium membership features.</div></li><li><div>Purchases of merchandise, Streaming Pay Per View events, and transactions where home delivery is required.</div></li><li><div>E-mail transmitted via various links on our web sites.</div></li></ul><div>The use of any of these services is entirely optional and voluntary. Please be aware that sending your Personal Information by email is not a secure method of transmission; so, in particular, you should not transmit any credit card information by email.</div><div><strong>Cookies</strong></div><div>Like most major websites, our website uses “cookies”. A “cookie” is a small piece of text that a web server stores in your computer in order to make your experience better upon return visits to the website. These pieces of information that are sent by websites and stored in your computer's hard drive allow websites to recognize your computer so that you do not have to re-enter the same data every time you visit that website. They also allow websites to learn how visitors use the websites. Aggregated usage data enables us to tailor our content to our visitors' interests and to help our advertisers better understand the preferences of our audience. Providing such usage data to advertisers is essential to keeping as many of our services free to visitors as is reasonably possible. This information does not reveal your identity although, in some cases, we may have to combine this non-identifiable information with Personal Information to protect our services, Website, visitors or others.</div><div><b>Promotional Offers</b></div><div>From time to time, we might send you offers from us or one of our business affiliates or partners. When we do this, we do not share your Personal Information with our business affiliates/partners. If you do not wish to receive such offers, please contact us at the email shown below.</div><div><strong>Visitors From Outside the United States</strong></div><div>All Personal Information collected at our Website is collected and stored in the United States (U.S.). By using our Website and/or by submitting Personal Information to our Website, you consent to having your information transferred to the U.S. and being processed and maintained in the U.S., subject to applicable U.S. laws.</div><div><strong>How We Use Your Personal Information</strong></div><div>We limit the manner in which your Personal Information is used. We will use the Personal Information you provide only in a manner that is consistent with this Privacy Policy. We use Personal Information to: provide you the products and services you want; administer or enforce transactions you have requested; protect your accounts from fraud, unauthorized access or identity theft; verify your identity in connection with transactions you have requested; and to manage our business and protect our interests. We also use Personal Information to better understand and serve the needs of our Website visitors, and to provide news and information on new content, products services, and features of our Website via direct e-mail.</div><div>We may share Personal Information with our service providers to assist us with any of the purposes set forth above (which, for example, might include disclosures to attorneys, accountants, auditors, credit bureaus, data processors and technical systems consultants) but only to the extent necessary or appropriate for them to perform their services for us. Please note that we will release your Personal Information if required to do so by law, search warrant, subpoena, court order or other legal process.</div><div>We do not otherwise sell or provide your Personal Information to third parties.</div><div><strong>Links to Third Party Web Sites</strong></div><div>This Privacy Policy applies only to our ROH website. Our Website may contain certain hyperlinks to other websites, some of which may display ROH logos or other ROH content. These websites may have privacy policies; however, all of these websites and their privacy policies are independent of our Website or this Privacy Policy. ROH is not responsible for compliance with other websites' privacy policies or data collection practices. You should review these privacy policies carefully before providing any Personal Information to these websites.</div><div><strong>Third Party Ad Servers </strong></div><div>Ads appearing on our Website may be delivered to you by third party advertising companies. Information about your visits to our Website, such as the number of times you have viewed one of our advertisements, the date/time at which the ads were shown, the advertisers' cookies, and the IP address of the computer you use (but not your address or other Personal Information) is used to make sure that our ads are helpful to you. We do not have access to the cookies that may be placed by our third party advertising companies. We share usage information about visitors to our Website with these companies for the purposes of managing and targeting advertisements, measuring their effectiveness, and for market research analysis.</div><div><strong>Limitations on Use of Personal Information</strong></div><div>We will use or retain your Personal Information only in accordance with the terms of this Privacy Policy, and only for so long as is needed to fulfill your requests, support the services you have requested, process your orders, or comply with the law. When you make a purchase, sign up for a paid service, we will also collect your credit card information as additional Personal Information. We will use this credit card information only to complete the specific transaction(s) you have requested. We do not store your credit card information or keep, use, or maintain it for any reason other than the processing of individual transactions. For each new transaction that requires credit card information, you will need to give us your credit card information each time.</div><div><strong>Security of Personal Information</strong></div><div>Our Website has put in place reasonable safeguards to protect the security, integrity, completeness, accuracy and privacy of your Personal Information and we use reasonable precautions to protect it from loss, misuse and alteration. We use encryption software when dealing with certain information such as credit card numbers, etc. Only our employees who need access to your information in order to do their jobs are allowed access. Please note, however, if you choose to post your Personal Information on chat rooms, forums and message boards, it will be publicly available and you should have no expectation of privacy or security with respect to such information.</div><div><strong>Opt-Out </strong></div><div>Any feature on our Website requiring registration allows you to opt-out from receiving any newsletters, product offers, or other correspondence from either us or our business affiliates. In addition, if after registering, you would no longer like to receive any such materials or correspondence, send an e-mail to <a href="mailto:help@rohwrestling.com?subject=from%20ROH%20Website">help@rohwrestling.com</a>. Indicate your preference to "unsubscribe, " and we will promptly remove you from our list. Please be sure to include your name and e-mail address in the e-mail. You will need to send separate e-mails if you are registered for more than one of our features or services.</div><div><br><strong>Violation of These Terms of Use</strong></div><div><br><strong>ROH may disclose and/or preserve any Personal Information if we determine that such disclosure is necessary in connection with any investigation or complaint regarding your use of our Website, or to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, or the rights or property of our Website’s users. ROH reserves the right at all times to disclose any Personal Information that we deem necessary to comply with any applicable law, regulation, legal process, fraud investigation or governmental request.<br><br>You agree that ROH may, in its sole discretion and without prior notice, terminate your access to our Website, for cause, which includes (but is not limited to) (1) requests by law enforcement or other government agencies, (2) a request by you (self-initiated account deletions), (3) discontinuance or material modification of our Website or any service offered on or through our Website, or (4) unexpected technical issues or problems.</strong><br><br>Void Where Prohibited</div><div>Although our Website is accessible worldwide, not all features, products or services discussed, referenced, provided or offered through or on the Website are available to all persons or in all geographic locations, or appropriate or available for use outside the United States. ROH reserves the right to limit, in its sole discretion, the provision and quantity of any feature, product or service to any person or geographic area. Any offer for any feature, product or service made on our Website is void where prohibited. If you choose to access our Website from outside the United States, you do so voluntarily and you are solely responsible for complying for the laws where you are located.</div><div>&nbsp;</div><div><strong>Contact Us</strong></div><div>If you have any comments or questions about this Privacy Policy, or wish to lodge a complaint about any conduct that you believe is not consistent with the terms of this Privacy Policy, please send an e-mail to the following address:</div><div><a href="mailto:help@rohwrestling.com?subject=from%20ROH%20Website"><strong>Help@rohwrestling.com</strong></a></div>  </div>
-
-  </div><!-- /.node -->
-        </div>
-                
-        <!--?php if ($feed_icons): ?-->
-          <!--div class="feed-icons"--><!--?php print $feed_icons; ?></div-->
-        <!--?php endif; ?-->
-
-      </div></div><!-- /.section, /#content -->
-
-              <div id="navigation"><div class="section clearfix">
-                    <div class="region region-navigation">
-    <div id="block-superfish-1" class="block block-superfish first region-odd odd region-count-1 count-1">
-  
-  <div class="content clearfix">
-    <ul id="superfish-1" class="sf-menu sf-primary-links sf-horizontal sf-style-none sf-total-items-7 sf-parent-items-6 sf-single-items-1 sf-style-roh"><li id="menu-15645-1" class="first odd sf-item-1 sf-depth-1 sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent"><a href="/live/upcoming-events-list" title="" class="sf-depth-1 menuparent">Live</a><ul class="sf-megamenu"><li class="sf-megamenu-wrapper first odd sf-item-1 sf-depth-1 sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent"><ol><li id="menu-15646-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/live/upcoming-events-list" title="Upcoming Events" class="sf-depth-2">Upcoming Events</a></li><li id="menu-15647-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/live/past-events" title="Past Events" class="sf-depth-2">Past Events</a></li><li id="menu-52870-1" class="last odd sf-item-3 sf-depth-2 sf-no-children"><a href="/content/pre-sale-info" title="Pre-Sale Info" class="sf-depth-2">Pre-Sale Info*</a></li></ol><div id="menu-featured-item" class="live-flyout"><div class="views_view view view-events-filtered-by-date-type view-id-events_filtered_by_date_type view-display-id-block_1 view-dom-id-1">
-  
-  
   
   
       <div class="view-content">
-        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
-      
-  <div class="views-field-title">
-                <span class="field-content"><a href="/live/events/2017/dec/15/121517-final-battle-ppv-new-york-ny">12/15/17 Final Battle PPV - New York, NY</a></span>
-  </div>
-  
-  <div class="views-field-field-event-photo-fid">
-                <span class="field-content"><img src="https://rohwrestling.com/sites/default/files/imagecache/rotor_carousel_thumbnail/final-battle-event_0.png" alt="" title="" width="132" height="66" class="imagecache imagecache-rotor_carousel_thumbnail"></span>
-  </div>
-  
-  <div class="views-field-field-event-buy-ticket-link-url">
-                <span class="field-content"><a href="https://www1.ticketmaster.com/ring-of-honor-wrestling-new-york-new-york-12-15-2017/event/0000532BD1464B9D?artistid=883536&amp;tm_link=tm_homeA_header_search">Buy Tickets</a></span>
-  </div>
-  </div>
-    </div>
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-nothing">        <span class="field-content"><a href="https://www.rohwrestling.com/live/events/5242018-honor-united-edinburgh"><div class="event-item"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-05-24T19:00:00-04:00">05/24/2018</span> - 5/24/2018 - HONOR UNITED... - Edinburgh,  </div></a></span>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-nothing">        <span class="field-content"><a href="https://www.rohwrestling.com/live/events/5262018-honor-united-london"><div class="event-item"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-05-26T18:00:00-04:00">05/26/2018</span> - 5/26/2018 - HONOR UNITED... - London,  </div></a></span>  </div></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field views-field-nothing">        <span class="field-content"><a href="https://www.rohwrestling.com/live/events/5272018-honor-united-doncaster"><div class="event-item"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-05-27T17:30:00-04:00">05/27/2018</span> - 5/27/2018 - HONOR UNITED... - Doncaster,  </div></a></span>  </div></li>
+          <li class="views-row views-row-4 views-row-even views-row-last">  
+  <div class="views-field views-field-nothing">        <span class="field-content"><a href="https://www.rohwrestling.com/live/events/622018-nyc-excellence-new-york-ny"><div class="event-item"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-06-02T18:00:00-04:00">06/02/2018</span> - 6/2/2018 - NYC... - New York, NY </div></a></span>  </div></li>
+      </ul></div>    </div>
   
   
   
   
+      <div class="view-footer">
+      <div><a href="/live/upcoming-shows">ALL UPCOMING SHOWS</a></div>    </div>
   
   
 </div>
-</div></li></ul></li><li id="menu-1111-1" class="middle even sf-item-2 sf-depth-1 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><a href="/wrestlers/roster" title="" class="sf-depth-1 menuparent">ROH Stars</a><ul class="sf-megamenu"><li class="sf-megamenu-wrapper middle even sf-item-2 sf-depth-1 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><ol><li id="menu-2919-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/wrestlers/roster" title="Roster" class="sf-depth-2">Roster</a></li><li id="menu-1113-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/wrestlers/champions" title="ROH Champions" class="sf-depth-2">Champions</a></li><li id="menu-114324-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/content/time-limit-code-honor-rules" title="Code of Honor" class="sf-depth-2">CODE OF HONOR</a></li><li id="menu-162966-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/content/ROH-Dojo" title="Ring of Honor Dojo" class="sf-depth-2">DOJO</a></li><li id="menu-187611-1" class="last odd sf-item-5 sf-depth-2 sf-no-children"><a href="/media/photos" title="" class="sf-depth-2">GALLERIES</a></li></ol><div id="menu-featured-item" class="live-flyout">
-<div class="buildmode-full">
-  <div class="node node-type-champion_flyout  clear-block">
-    <div class="nd-region-header clear-block "><div class="field field-title"><h2>ROH WORLD CHAMPION</h2></div></div><div class="nd-region-middle-wrapper   nd-no-sidebars"><div class="nd-region-middle"><div class="field field-current-champion-flyout-node-ref"><img src="http://rohwrestling.com/sites/default/files/imagecache/profile-photo-thumbnail/cody-thumbnail-rev.png" alt="" title="" width="145" height="145" class="imagecache imagecache-profile-photo-thumbnail imagecache-default imagecache-profile-photo-thumbnail_default"><br>
-</div></div></div>  </div> 
-</div> 
-</div></li></ul></li><li id="menu-156880-1" class="middle odd sf-item-3 sf-depth-1 sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent"><a href="/tv/current" title="" class="sf-depth-1 menuparent">TV</a><ul class="sf-megamenu"><li class="sf-megamenu-wrapper middle odd sf-item-3 sf-depth-1 sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent"><ol><li id="menu-128336-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/content/ROHTVListings" title="" class="sf-depth-2">Listings</a></li><li id="menu-1117-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/tv/current" title="" class="sf-depth-2">Watch Now</a></li><li id="menu-53681-1" class="last odd sf-item-3 sf-depth-2 sf-no-children"><a href="/content/week" title="" class="sf-depth-2">THIS WEEK</a></li></ol><div id="menu-featured-item" class="tv-flyout"><p>&nbsp;<img alt="ROH LOGO" src="https://dl.dropboxusercontent.com/u/48896759/ROHSITE.png"></p><h6><span>Watch ROH Every Week!!</span></h6></div></li></ul></li><li id="menu-1118-1" class="middle even sf-item-4 sf-depth-1 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent"><a href="/ippv" title="PPV" class="sf-depth-1 menuparent">PPV</a><ul class="sf-megamenu"><li class="sf-megamenu-wrapper middle even sf-item-4 sf-depth-1 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent"><ol><li id="menu-187911-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="http://www.rohwrestling.com/ippv" title="" class="sf-depth-2">Global Wars: Chicago</a></li><li id="menu-167781-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/ippv/my-ppv" title="" class="sf-depth-2">Pay Per Views</a></li><li id="menu-165371-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/content/HowToOrder" title="" class="sf-depth-2">How To Order</a></li><li id="menu-187551-1" class="last even sf-item-4 sf-depth-2 sf-no-children"><a href="/ROHUSTREAM" title="ROH-UStream TV" class="sf-depth-2">ROH USTREAM</a></li></ol><div id="menu-featured-item"></div></li></ul></li><li id="menu-1120-1" class="middle odd sf-item-5 sf-depth-1 sf-no-children"><a href="/vod" title="VOD" class="sf-depth-1">VOD</a></li><li id="menu-156881-1" class="middle even sf-item-6 sf-depth-1 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><span class="nolink">CONNECT</span><ul class="sf-megamenu"><li class="sf-megamenu-wrapper middle even sf-item-6 sf-depth-1 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><ol><li id="menu-187761-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/content/ring-honor-story" title="THE RING OF HONOR STORY" class="sf-depth-2">The ROH Story</a></li><li id="menu-1127-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="http://www.facebook.com/ringofhonor" title="Facebook" class="sf-depth-2">FACEBOOK</a></li><li id="menu-1128-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="http://www.twitter.com/ringofhonor" title="Twitter" class="sf-depth-2">TWITTER</a></li><li id="menu-114323-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="http://www.youtube.com/ringofhonor" title="Youtube" class="sf-depth-2">Youtube</a></li><li id="menu-149898-1" class="last odd sf-item-5 sf-depth-2 sf-no-children"><a href="/content/roh-newsletter" title="" class="sf-depth-2">Newsletter</a></li></ol><div id="menu-featured-item" class="live-flyout"></div></li></ul></li><li id="menu-237-1" class="last odd sf-item-7 sf-depth-1 sf-total-children-7 sf-parent-children-0 sf-single-children-7 menuparent"><a href="/shop" title="" class="sf-depth-1 menuparent">Shop</a><ul class="sf-megamenu"><li class="sf-megamenu-wrapper last odd sf-item-7 sf-depth-1 sf-total-children-7 sf-parent-children-0 sf-single-children-7 menuparent"><ol><li id="menu-1093-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/shop/new-releases" title="New Releases" class="sf-depth-2">New Releases</a></li><li id="menu-1101-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/catalog/tickets" title="Tickets" class="sf-depth-2">Tickets</a></li><li id="menu-187871-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/catalog/bullet-club" title="" class="sf-depth-2">BULLET CLUB</a></li><li id="menu-1103-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/catalog/apparel" title="" class="sf-depth-2">Apparel</a></li><li id="menu-1102-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/catalog/dvd-roh" title="" class="sf-depth-2">DVDs</a></li><li id="menu-1104-1" class="middle even sf-item-6 sf-depth-2 sf-no-children"><a href="/catalog/autographed" title="" class="sf-depth-2">Autographed</a></li><li id="menu-113504-1" class="last odd sf-item-7 sf-depth-2 sf-no-children"><a href="/shop/clearance" title="" class="sf-depth-2">CLEARANCE</a></li></ol><div id="menu-featured-item" class="live-flyout">
-<div class="views_view view view-new-products-slider view-id-new_products_slider view-display-id-block_1 view-dom-id-1">
-
-<div class="vd-region-header clear-block "><div class="field field-title"><h2>New Release</h2></div></div><div class="vd-region-middle-wrapper   vd-no-sidebars"><div class="vd-region-middle"><div class="field field-rows">  <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
-      
-  <div class="views-field-field-image-cache-fid">
-                <span class="field-content"><a href="/product/best-world-2017-lowellma-062317" class="imagecache imagecache-product imagecache-linked imagecache-product_linked"><img src="http://rohwrestling.com/sites/default/files/imagecache/product/bitw-store.jpg" alt="Best in the World 2017-Lowell,MA 06/23/17" title="Best in the World 2017-Lowell,MA 06/23/17" width="153" height="153" class="imagecache imagecache-product"></a></span>
+</section>
   </div>
-  
-  <div class="views-field-title">
-                <span class="field-content"><a href="/product/best-world-2017-lowellma-062317">Best in the World 2017-Lowell,MA 06/23/17</a></span>
+</div>
   </div>
-  
-  <div class="views-field-buyitnowbutton">
-                <div class="field-content"><form action="/content/privacy-policy" accept-charset="UTF-8" method="post" id="uc-catalog-buy-it-now-form-526016">
-<div><input type="hidden" name="nid" id="edit-nid" value="526016">
-<input type="submit" name="op" id="edit-submit-526016" value="Add to cart" class="form-submit list-add-to-cart">
-<input type="hidden" name="form_build_id" id="form-XWDcrFe0qGF84PS0HTWr5ptYjbGmSjSydelmF8KvruM" value="form-XWDcrFe0qGF84PS0HTWr5ptYjbGmSjSydelmF8KvruM">
-<input type="hidden" name="form_id" id="edit-uc-catalog-buy-it-now-form-526016" value="uc_catalog_buy_it_now_form_526016">
-
-</div></form></div>
-  </div>
-  </div>
-</div></div></div>
 </div>
 
-</div></li></ul></li></ul>  </div>
+<div data-showblocktitle="1" data-class="" data-width="4" data-hidewcol="" id="tb-megamenu-column-2" class="tb-megamenu-column span4  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <div data-type="block" data-block="views--event_listing-block_2" class="tb-megamenu-block tb-block tb-megamenu-block">
+  <div class="block-inner">
+    <section id="block-views-event-listing-block-2" class="block block-views clearfix">
 
-  </div><!-- /.block -->
-</div><!-- /.region -->
+        <h2 class="block-title">RECENT RESULTS</h2>
     
-        </div></div><!-- /.section, /#navigation -->
-       
-     <div id="shopMenu">
-         </div> 
+  <div class="view view-event-listing view-id-event_listing view-display-id-block_2 view-dom-id-46e1e6301d00da7888ce09fed3e07942">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-nothing">        <span class="field-content"><a href="https://www.rohwrestling.com/live/events/2018/may/13/51318-war-worlds-tour-chicago"><div class="event-item"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-05-13T19:00:00-04:00">05/13/2018</span> - 5/13/18 War of the... - Villa Park,  </div></a></span>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-nothing">        <span class="field-content"><a href="https://www.rohwrestling.com/live/events/2018/may/12/51218-war-worlds-tour-royal-oak-mi"><div class="event-item"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-05-12T19:00:00-04:00">05/12/2018</span> - 5/12/18 War of the... - Royal Oak,  </div></a></span>  </div></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field views-field-nothing">        <span class="field-content"><a href="https://www.rohwrestling.com/live/events/2018/may/11/51118-war-worlds-tour-toronto"><div class="event-item"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-05-11T19:30:00-04:00">05/11/2018</span> - 5/11/18 War of the... - Toronto,  </div></a></span>  </div></li>
+          <li class="views-row views-row-4 views-row-even views-row-last">  
+  <div class="views-field views-field-nothing">        <span class="field-content"><a href="https://www.rohwrestling.com/live/events/2018/may/9/5918-war-worlds-tour-lowell-ma"><div class="event-item"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-05-09T19:30:00-04:00">05/09/2018</span> - 5/9/18 War of the Worlds... - Lowell,  </div></a></span>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <div><a href="/live/past-events">ALL RESULTS</a></div>    </div>
+  
+  
+</div>
+</section>
+  </div>
+</div>
+  </div>
+</div>
+
+<div data-showblocktitle="1" data-class="" data-width="4" data-hidewcol="" id="tb-megamenu-column-3" class="tb-megamenu-column span4  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <div data-type="block" data-block="block--21" class="tb-megamenu-block tb-block tb-megamenu-block">
+  <div class="block-inner">
+    <section id="block-block-21" class="block block-block clearfix">
+
+      
+  <p></p><center>
+<h2><img alt="" height="200" src="/sites/default/files/d7/foh-29-thumb_0.jpg"></h2>
+<p></p></center>
+<p></p><center>
+<div>
+<div class="rtecenter"><a href="top-videos/foh-ryan-nova-vs-fr-josie">FOH: Ryan Nova vs F.R. Josie</a></div>
+</div>
+<p></p></center>
+
+</section>
+  </div>
+</div>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+
+<li data-id="2866" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega">
+  <a href="/wrestlers" title="Wrestlers">
+        
+    Wrestlers          </a>
+  </li>
+
+<li data-id="2871" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega">
+  <a href="/news" title="NEWS">
+        
+    NEWS          </a>
+  </li>
+
+<li data-id="5116" data-level="1" data-type="menu_item" data-class="watch" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega watch">
+  <a href="/watch" title="WATCH">
+        
+    WATCH          </a>
+  </li>
+
+<li data-id="8191" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega">
+  <a href="/Engage" title="Engage menu for social page">
+        
+    Engage          </a>
+  </li>
+
+<li data-id="3671" data-level="1" data-type="menu_item" data-class="shop-list" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega shop-list">
+  <a href="/shop" title="SHOP">
+        
+    SHOP          </a>
+  </li>
+
+<li data-id="3221" data-level="1" data-type="menu_item" data-class="" data-xicon="fa fa-search" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega">
+  <a href="https://www.rohwrestling.com#myModal" title="<none>" data-toggle="modal" data-target="#myModal" link_path="#myModal">
+          <i class="fa fa-search"></i>
+        
+    <none>          </none></a>
+  </li>
+</ul>
+      </div>
+  </div>
+
+</section>
+<section id="block-menu-block-1" class="hidden-md hidden-lg clearfix">
+
+      
+  <div class="menu-block-wrapper menu-block-1 menu-name-menu-main-menu-mobile parent-mlid-0 menu-level-1">
+  <ul class="menu nav"><li class="first expanded menu-mlid-3931 dropdown"><a href="/live/upcoming-shows" title="" data-target="#" class="dropdown-toggle" data-toggle="dropdown">LIVE <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-mlid-3966"><a href="/live/upcoming-shows" title="">UPCOMING SHOWS</a></li>
+<li class="last leaf menu-mlid-3971"><a href="/live/past-events" title="">RESULTS</a></li>
+</ul></li>
+<li class="leaf menu-mlid-3936"><a href="/wrestlers" title="">Wrestlers</a></li>
+<li class="leaf menu-mlid-3941"><a href="/news" title="">NEWS</a></li>
+<li class="expanded menu-mlid-3946 dropdown"><a href="/watch" title="" data-target="#" class="dropdown-toggle" data-toggle="dropdown">WATCH <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-mlid-6541"><a href="/tv-listings" title="">TV Listings</a></li>
+<li class="leaf menu-mlid-8261"><a href="/current-tv-episode" title="">Latest TV Episode</a></li>
+<li class="last leaf menu-mlid-8276"><a href="https://www.youtube.com/user/ringofhonor" title="">YouTube</a></li>
+</ul></li>
+<li class="leaf menu-mlid-8196"><a href="/Engage" title="Engage social page">Engage</a></li>
+<li class="leaf menu-mlid-3956"><a href="/shop" title="">SHOP</a></li>
+<li class="leaf menu-mlid-9036"><a href="/rohmember" title="">HonorClub</a></li>
+<li class="last leaf menu-mlid-12096"><a href="/current-tv-episode" title="">LATEST TV EPISODE</a></li>
+</ul></div>
+
+</section>
+<section id="block-search-form" class="block block-search clearfix">
+
+      
+  <form class="form-search content-search" action="/privacy-policy" method="post" id="search-block-form" accept-charset="UTF-8"><div>      <h2 class="element-invisible">Search form</h2>
+    <!-- Modal -->
+  <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+
+    <div class="modal-dialog">
+      <div class="modal-content">
+      
+         <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+                  CLOSE
+            </button>            
+         </div>
+         <div class="modal-body">
+           <!-- <h2>Search ROH:</h2> -->
+          <div class="input-group"><input title="Enter the terms you wish to search for." placeholder="Search" class="form-control form-text" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128"><span class="input-group-btn"><button type="submit" class="btn btn-primary"><span class="icon glyphicon glyphicon-search" aria-hidden="true"></span>
+</button></span></div><div class="form-actions form-wrapper form-group" id="edit-actions"><button class="element-invisible btn btn-primary form-submit" type="submit" id="edit-submit" name="op" value="Search">Search</button>
+</div><input type="hidden" name="form_build_id" value="form-xET5QGH6D5eUWUfJPAVKxGJ3KXxd668P80dqCdTWlbE">
+<input type="hidden" name="form_id" value="search_block_form">
+        </div>
+
+      </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+
+  </div><!-- /.modal -->
+  </div></form>
+</section>
+  </div>
+            </div>
+
+            <!-- Mobile Menu Links-->
+                          <div class="logo hidden-md hidden-lg">
+                <a href="/" title="Home" rel="home" id="logo">
+                  <img src="https://www.rohwrestling.com/sites/default/files/rings_of_honor.png" alt="Home">
+                </a>
+              </div>
+                        <div class="ico-profile hidden-md hidden-lg">
+              <a href="/user"><span class="fa fa-user"></span></a>
+            </div>
+            <div class="ico-search hidden-md hidden-lg">
+              <!-- <a href="/search"><span class="fa fa-search"></span></a> -->
+              <a href="https://www.rohwrestling.com#myModal" title="<none>" data-toggle="modal" data-target="#myModal" link_path="#myModal">
+          <i class="fa fa-search"></i>
+        
+    <none>          </none></a>
+            </div>
+
+              <div class="region region-header ">
+    <section id="block-block-11" class="visible-md visible-lg clearfix">
+
+      
+  <div class="logo-image"><a href="https://www.rohwrestling.com/nonmembership"><img src="https://www.rohwrestling.com/sites/all/themes/bootstrap_roh/images/honor-club.png" width="270px"></a></div>
+</section>
+  </div>
+            </div>
+        </div>
+    </div>
+   
+
+<!--      --><!--        <div id="breadcrumb">--><!--</div>-->
+<!--      -->
             
-    </div></div><!-- /#main, /#main-wrapper -->
 
-          <div id="footer"><div class="section">
+      <div id="main-wrapper">
+            
+      <div id="main" class="clearfix row">     
+         <div class="col-sm-12 col-xs-12">
+     
+          <h1 class="text-center">
+                      </h1>
+        </div>   
 
+                  <div id="content" class="column col-sm-12 col-xs-12"><div class="section">
+                            <a id="main-content"></a>
+
+                                  <h1 class="title text-center text-uppercase" id="page-title">Privacy Policy</h1>                      
+          <div class="tabs"></div>                                <div class="region region-content ">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  <article id="node-806" class="node node-page clearfix" about="/privacy-policy" typeof="foaf:Document">
+    <header>
+            <span property="dc:title" content="Privacy Policy" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>      </header>
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><strong>RING OF HONOR WRESTLING ENTERTAINMENT, LLC PRIVACY POLICY</strong></p>
+<p><strong>Updated September 1, 2011</strong></p>
+<p><strong>Introduction</strong></p>
+<p>You have entered a website owned and operated by, or on behalf of, Ring of Honor Wrestling Entertainment, LLC and/or its affiliated companies (“ROH”). Your use of our Website means that you agree to the terms of this Privacy Policy, which is incorporated into and forms a part of the Website’s terms and conditions (set forth in _________).</p>
+<p>This Privacy Policy is subject to occasional revision at our discretion. If we make any substantial changes in the way we use your Personal Information (as described below), such changes will be posted on the Website. If you object to any such changes, you must stop using the Website. Continued use of the Website following notice of any changes indicates your agreement to them.</p>
+<p>ROH wants you to enjoy your visit to our Website but also help protect your personal privacy while you are visiting and afterwards. Most of your visits to our Website will not involve collection of any of your Personal Information. There are areas of our Website which involve membership or a registration process where you will need to submit personal information such as your name, address, date of birth, contact information, payment information, phone number, etc. (“Personal Information”).</p>
+<p>The Personal Information we collect depends on what you do when you visit our Website or use the various products or services we offer. By using our Website, you are agreeing to the terms of this Privacy Policy. If you do not agree with any terms or practices described in this Privacy Policy, please do not use our Website.</p>
+<p><strong>Special Note About Children</strong></p>
+<p>Protecting the privacy of children is very important to us. ROH is also committed to fully complying with the Children's Online Privacy Protection Act ( "COPPA"). Our protections for the privacy of children include the following:</p>
+<p>We do not knowingly solicit, collect, use, disclose or retain any Personal Information, for any purpose whatsoever (including internal or external marketing or promotional purposes), from visitors to our Website who are age 13 or younger. In addition, we will delete any records of such Personal Information that come to our attention. BY USING THIS WEBSITE, YOU ARE REPRESENTING THAT YOU ARE AT LEAST 13 YEARS OLD.</p>
+<p>We do not allow visitors who are age 13 or younger to be listed in any directory of registered users, to participate in any of our chat services, to register for contests, sweepstakes, promotions, or newsletters or to receive direct marketing from us or from our third-party affiliates or service or product providers.</p>
+<p><strong>Special Note to Parents</strong></p>
+<p>If you become aware that your child has provided us with Personal Information, we invite you to contact us so that we may delete the information from our records and discontinue any related features or services.</p>
+<p><strong>Collection of Personal Information</strong></p>
+<p>ROH collects Personal Information from visitors to our Website in a number of ways. These include:</p>
+<ul><li>
+	Subscriptions to our free newsletters, which include updates, special offers and promotions from ROH.
+	</li>
+<li>
+	Participation in contests and sweepstakes.
+	</li>
+<li>
+	Registrations to receive free downloadable desktop applications (<em>e.g.</em>, screensavers).
+	</li>
+<li>
+	Registrations to participate in chat services, forums and social media interaction.
+	</li>
+<li>
+	Registrations for myROH and use of standard or premium membership features.
+	</li>
+<li>
+	Purchases of merchandise, Streaming Pay Per View events, and transactions where home delivery is required.
+	</li>
+<li>
+	E-mail transmitted via various links on our web sites.
+	</li>
+</ul><p>The use of any of these services is entirely optional and voluntary. Please be aware that sending your Personal Information by email is not a secure method of transmission; so, in particular, you should not transmit any credit card information by email.</p>
+<p><strong>Cookies</strong></p>
+<p>Like most major websites, our website uses “cookies”. A “cookie” is a small piece of text that a web server stores in your computer in order to make your experience better upon return visits to the website. These pieces of information that are sent by websites and stored in your computer's hard drive allow websites to recognize your computer so that you do not have to re-enter the same data every time you visit that website. They also allow websites to learn how visitors use the websites. Aggregated usage data enables us to tailor our content to our visitors' interests and to help our advertisers better understand the preferences of our audience. Providing such usage data to advertisers is essential to keeping as many of our services free to visitors as is reasonably possible. This information does not reveal your identity although, in some cases, we may have to combine this non-identifiable information with Personal Information to protect our services, Website, visitors or others.</p>
+<p><strong>Promotional Offers</strong></p>
+<p>From time to time, we might send you offers from us or one of our business affiliates or partners. When we do this, we do not share your Personal Information with our business affiliates/partners. If you do not wish to receive such offers, please contact us at the email shown below.</p>
+<p><strong>Visitors From Outside the United States</strong></p>
+<p>All Personal Information collected at our Website is collected and stored in the United States (U.S.). By using our Website and/or by submitting Personal Information to our Website, you consent to having your information transferred to the U.S. and being processed and maintained in the U.S., subject to applicable U.S. laws.</p>
+<p><strong>How We Use Your Personal Information</strong></p>
+<p>We limit the manner in which your Personal Information is used. We will use the Personal Information you provide only in a manner that is consistent with this Privacy Policy. We use Personal Information to: provide you the products and services you want; administer or enforce transactions you have requested; protect your accounts from fraud, unauthorized access or identity theft; verify your identity in connection with transactions you have requested; and to manage our business and protect our interests. We also use Personal Information to better understand and serve the needs of our Website visitors, and to provide news and information on new content, products services, and features of our Website via direct e-mail.</p>
+<p>We may share Personal Information with our service providers to assist us with any of the purposes set forth above (which, for example, might include disclosures to attorneys, accountants, auditors, credit bureaus, data processors and technical systems consultants) but only to the extent necessary or appropriate for them to perform their services for us. Please note that we will release your Personal Information if required to do so by law, search warrant, subpoena, court order or other legal process.</p>
+<p>We do not otherwise sell or provide your Personal Information to third parties.</p>
+<p><strong>Links to Third Party Web Sites</strong></p>
+<p>This Privacy Policy applies only to our ROH website. Our Website may contain certain hyperlinks to other websites, some of which may display ROH logos or other ROH content. These websites may have privacy policies; however, all of these websites and their privacy policies are independent of our Website or this Privacy Policy. ROH is not responsible for compliance with other websites' privacy policies or data collection practices. You should review these privacy policies carefully before providing any Personal Information to these websites.</p>
+<p><strong>Third Party Ad Servers</strong></p>
+<p>Ads appearing on our Website may be delivered to you by third party advertising companies. Information about your visits to our Website, such as the number of times you have viewed one of our advertisements, the date/time at which the ads were shown, the advertisers' cookies, and the IP address of the computer you use (but not your address or other Personal Information) is used to make sure that our ads are helpful to you. We do not have access to the cookies that may be placed by our third party advertising companies. We share usage information about visitors to our Website with these companies for the purposes of managing and targeting advertisements, measuring their effectiveness, and for market research analysis.</p>
+<p><strong>Limitations on Use of Personal Information</strong></p>
+<p>We will use or retain your Personal Information only in accordance with the terms of this Privacy Policy, and only for so long as is needed to fulfill your requests, support the services you have requested, process your orders, or comply with the law. When you make a purchase, sign up for a paid service, we will also collect your credit card information as additional Personal Information. We will use this credit card information only to complete the specific transaction(s) you have requested. We do not store your credit card information or keep, use, or maintain it for any reason other than the processing of individual transactions. For each new transaction that requires credit card information, you will need to give us your credit card information each time.</p>
+<p><strong>Security of Personal Information</strong></p>
+<p>Our Website has put in place reasonable safeguards to protect the security, integrity, completeness, accuracy and privacy of your Personal Information and we use reasonable precautions to protect it from loss, misuse and alteration. We use encryption software when dealing with certain information such as credit card numbers, etc. Only our employees who need access to your information in order to do their jobs are allowed access. Please note, however, if you choose to post your Personal Information on chat rooms, forums and message boards, it will be publicly available and you should have no expectation of privacy or security with respect to such information.</p>
+<p><strong>Opt-Out</strong></p>
+<p>Any feature on our Website requiring registration allows you to opt-out from receiving any newsletters, product offers, or other correspondence from either us or our business affiliates. In addition, if after registering, you would no longer like to receive any such materials or correspondence, send an e-mail to&nbsp;<a href="mailto:help@rohwrestling.com?subject=from%20ROH%20Website">help@rohwrestling.com</a>. Indicate your preference to "unsubscribe, " and we will promptly remove you from our list. Please be sure to include your name and e-mail address in the e-mail. You will need to send separate e-mails if you are registered for more than one of our features or services.</p>
+<p><strong>Violation of These Terms of Use</strong></p>
+<p><strong>ROH may disclose and/or preserve any Personal Information if we determine that such disclosure is necessary in connection with any investigation or complaint regarding your use of our Website, or to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, or the rights or property of our Website’s users. ROH reserves the right at all times to disclose any Personal Information that we deem necessary to comply with any applicable law, regulation, legal process, fraud investigation or governmental request.</strong></p>
+<p>You agree that ROH may, in its sole discretion and without prior notice, terminate your access to our Website, for cause, which includes (but is not limited to) (1) requests by law enforcement or other government agencies, (2) a request by you (self-initiated account deletions), (3) discontinuance or material modification of our Website or any service offered on or through our Website, or (4) unexpected technical issues or problems.</p>
+<p>Void Where Prohibited</p>
+<p>Although our Website is accessible worldwide, not all features, products or services discussed, referenced, provided or offered through or on the Website are available to all persons or in all geographic locations, or appropriate or available for use outside the United States. ROH reserves the right to limit, in its sole discretion, the provision and quantity of any feature, product or service to any person or geographic area. Any offer for any feature, product or service made on our Website is void where prohibited. If you choose to access our Website from outside the United States, you do so voluntarily and you are solely responsible for complying for the laws where you are located.</p>
+<p>&nbsp;</p>
+<p><strong>Contact Us</strong></p>
+<p>If you have any comments or questions about this Privacy Policy, or wish to lodge a complaint about any conduct that you believe is not consistent with the terms of this Privacy Policy, please send an e-mail to the following address:</p>
+<p><a href="mailto:help@rohwrestling.com?subject=from%20ROH%20Website"><strong>Help@rohwrestling.com</strong></a></p>
+</div></div></div><div class="field field-name-field-banner-image-hd-roku- field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" class="img-responsive" src="https://www.rohwrestling.com/sites/default/files/default_images/logo_896x392_1.png" width="896" height="392" alt=""></div></div></div><div class="field field-name-field-banner-image-fhd-roku- field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" class="img-responsive" src="https://www.rohwrestling.com/sites/default/files/default_images/logo_1344x588_1.png" width="1344" height="588" alt=""></div></div></div><div class="field field-name-field-poster-image-hd-roku- field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" class="img-responsive" src="https://www.rohwrestling.com/sites/default/files/default_images/logo_172x172_1.png" width="172" height="172" alt=""></div></div></div><div class="field field-name-field-poster-image-fhd-roku- field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" class="img-responsive" src="https://www.rohwrestling.com/sites/default/files/default_images/logo_256x256_1.png" width="256" height="256" alt=""></div></div></div>    </article>
+
+</section>
+  </div>
+                  </div></div> <!-- /.section, /#content -->
 
         
-      </div></div><!-- /.section, /#footer -->
-    
-  </div></div><!-- /#page, /#page-wrapper -->
+        
+      </div></div> <!-- /#main, /#main-wrapper --> 
 
-  <div id="page_closure_wrapper">
-  <div class="region region-page-closure clearfix">
-    <div id="block-menu_block-1" class="block block-menu_block first region-odd even region-count-1 count-6">
-  
-  <div class="content clearfix">
-    <div class="menu_block_wrapper menu-block-1 menu-name-menu-footer-menu parent-mlid-0 menu-level-1">
-  <ul class="menu clearfix"><li class="expanded first menu-mlid-13577 nolink-li"><span class="nolink">EXPERIENCE</span><ul class="menu clearfix"><li class="leaf first menu-mlid-8167"><a href="/catalog/tickets" title="">Buy Tickets</a></li>
-<li class="leaf menu-mlid-8168"><a href="/ippv" title="">Order IPPV</a></li>
-<li class="leaf menu-mlid-15650"><a href="/live/upcoming-events" title="">Schedule</a></li>
-<li class="leaf last menu-mlid-8170"><a href="/shop" title="">ROH Shop</a></li>
-</ul></li>
-<li class="expanded menu-mlid-13578 nolink-li"><span class="nolink">CONNECT</span><ul class="menu clearfix"><li class="leaf first menu-mlid-8172"><a href="/connect/blog" title="">Blogs</a></li>
-<li class="leaf menu-mlid-8174"><a href="http://www.facebook.com/ringofhonor" title="">Facebook</a></li>
-<li class="leaf last menu-mlid-8175"><a href="http://www.twitter.com/ringofhonor" title="">Twitter</a></li>
-</ul></li>
-<li class="expanded menu-mlid-13579 nolink-li"><span class="nolink">VIEW</span><ul class="menu clearfix"><li class="leaf first menu-mlid-173146"><a href="/tv/current" title="">TV</a></li>
-<li class="leaf menu-mlid-173151"><a href="/ippv/my-ppv" title="">IPPV</a></li>
-<li class="leaf last menu-mlid-173156"><a href="/vod" title="">VOD</a></li>
-</ul></li>
-<li class="expanded last menu-mlid-13580 nolink-li"><span class="nolink">GENERAL</span><ul class="menu clearfix"><li class="leaf first menu-mlid-8182"><a href="/contact" title="">Contact Us</a></li>
-<li class="leaf menu-mlid-8183"><a href="/faq" title="">FAQ's</a></li>
-<li class="leaf last menu-mlid-8184"><a href="/content/terms-and-conditions-rohwrestlingcom" title="">Terms of Use</a></li>
-</ul></li>
+      
+<div id="footer">
+  <div class="section pre-footer">
+              <div class="col-md-2">
+    <div class="menu-footer-title"> Experience </div>
+      <ul class="menu nav"><li class="first leaf"><a href="/shop/catalog/tickets" title="">Buy Tickets</a></li>
+<li class="leaf"><a href="/rohmember" title="">HonorClub Membership</a></li>
+<li class="leaf"><a href="/live/upcoming-shows" title="">Upcoming Events</a></li>
+<li class="last leaf"><a href="/live/past-events" title="">Past Events</a></li>
 </ul></div>
+    <div class="col-md-2">
+    <div class="menu-footer-title"> Watch </div>
+      <ul class="menu nav"><li class="first leaf"><a href="/watch" title="">Pay Per View</a></li>
+<li class="leaf"><a href="/tv-listings" title="">TV Listings</a></li>
+<li class="last leaf"><a href="/top-videos/foh-ryan-nova-vs-fr-josie" title="">Top Videos</a></li>
+</ul></div>
+            <div class="col-md-2">
+    <div class="menu-footer-title"> Social </div>
+      <ul class="menu nav"><li class="first leaf"><a href="https://www.facebook.com/ringofhonor" title="">Facebook</a></li>
+<li class="leaf"><a href="https://www.instagram.com/ringofhonor/" title="">Instagram</a></li>
+<li class="last leaf"><a href="https://twitter.com/ringofhonor" title="">Twitter</a></li>
+</ul></div>
+    <div class="col-md-2">
+    <div class="menu-footer-title"> General </div>
+      <ul class="menu nav"><li class="first leaf"><a href="/contact" title="">Contact Us</a></li>
+<li class="leaf"><a href="/faq" title="">FAQs</a></li>
+<li class="leaf"><a href="/terms-and-conditions" title="">Terms of use</a></li>
+<li class="last leaf"><a href="/privacy" title="">Privacy</a></li>
+</ul></div>
+    <div class="col-md-4">
+<!--      --><!--      <img src="--><!--" /></div>-->
+        <div class="region region-pre-footer ">
+    <section id="block-block-16" class="block block-block clearfix">
+
+      
+  <p><img alt="" src="/sites/default/files/roh-footer.png"></p>
+<div class="social-icon">
+<p><a class="fa fa-facebook" href="https://www.facebook.com/ringofhonor" target="_blank"><span>1</span></a></p>
+<p><a class="fa fa-twitter" href="https://twitter.com/ringofhonor" target="_blank"><span>2</span></a></p>
+<p><a class="fa fa-instagram" href="https://www.instagram.com/ringofhonor/" target="_blank"><span>3</span></a></p>
+<p><a class="fa fa-youtube" href="https://www.youtube.com/user/ringofhonor" target="_blank"><span>4</span></a></p>
+</div>
+
+</section>
+  </div>
   </div>
 
-  </div><!-- /.block -->
-  <div id="block-block-6" class="block block-block region-even odd region-count-2 count-7">
-  
-  <div class="content clearfix">
-    <p><a class="clearfix" href="/" id="footer-logo" rel="home" title="Home"><img alt="Home" src="/sites/all/themes/ring_of_honor/images/footer_logo.png"></a></p>  </div>
-
-  </div><!-- /.block -->
-</div><!-- /.region -->
-    
-           <div id="copyright-message">© 2016 Ring of Honor Wrestling Entertainment, LLC. All Rights Reserved | <a href="/content/privacy-policy" title="Privacy Policy">Privacy Policy</a> | <a href="/content/terms-and-conditions-rohwrestlingcom" title="Terms of Use">Terms of Use</a> </div>
+  <div class="section footer">
+         <div class="copyright">
+       © 2018 Ring of Honor Wrestling Entertainment, LLC. All Rights Reserved | <a href="/privacy-policy">Privacy Policy</a> | <a href="/terms-and-conditions">Terms of Use</a>     </div>
       </div>
-
-  <noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-BfcC_-7-skv3h.gif" border="0" height="1" width="1" alt="Quantcast"/></div></noscript><script type="text/javascript">
-<!--//--><![CDATA[//><!--
-var _qevents=_qevents||[];(function(){var elem=document.createElement("script");elem.src=(document.location.protocol=="https:"?"https://secure":"http://edge")+".quantserve.com/quant.js";elem.async=true;elem.type="text/javascript";var scpt=document.getElementsByTagName("script")[0];scpt.parentNode.insertBefore(elem,scpt)})();_qevents.push({qacct:"p-BfcC_-7-skv3h"})
-//--><!]]>
-</script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-var _gaq=_gaq||[];_gaq.push(["_setAccount","UA-24981139-1"]);_gaq.push(["_trackPageview"]);(function(){var ga=document.createElement("script");ga.type="text/javascript";ga.async=true;ga.src="/sites/default/files/googleanalytics/ga.js?a";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga,s)})()
-//--><!]]>
-</script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"460487c5c4","applicationID":"65777947","transactionName":"NVBUZEVSDRIHB0UIDAwad1NDWgwPSQpeBQY9RVdXUmwVCAMT","queueTime":0,"applicationTime":994,"atts":"GRdXEg1IHhw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+</div>
+      
+    </div>
+  </div> <!-- /#page, /#page-wrapper -->
+  
+    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"460487c5c4","applicationID":"66186426","transactionName":"NVBUZEVSDRIHB0UIDAwad1NDWgwPSQpeBQY9RVdXUmwVCAMT","queueTime":0,"applicationTime":577,"atts":"GRdXEg1IHhw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
