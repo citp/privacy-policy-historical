@@ -1,43 +1,100 @@
-> *The following text is extracted and transformed from the 2girlsteachsex.com privacy policy that was archived on 2016-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160225131804id_/http%3A//2girlsteachsex.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2girlsteachsex.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# 2 Girls Teach Sex
+# Legal Agreement
 
-Privacy Policy
+**GoDaddy Respects Your Privacy**
 
-Overview
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-2 Girls Teach Sex “2GTS” is strongly committed to protecting the privacy of our members. We want to contribute to providing a safe and secure environment for consumers, and in particular, ensure that children (i.e. anyone who is under the age of 18) are protected from adult materials. The purpose of this privacy policy is to inform you, as a welcome visitor to 2GTS, what kinds of information we may gather about you when you visit www.2GirlsTeachSex.com, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct the information.
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-Information about You
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-Upon registration for membership, 2GTS will specifically ask for information about you. We will ask for your full name, billing address, telephone number and credit card number in order to ship you your products and provide you with all of 2GTS's services.
+**Information Collection and Use**
 
-We use your telephone number only if there is an order-related issue, though because we understand your need for anonymity we will make all attempts to contact you via email. We do not use your telephone number for marketing purposes.
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-We may also use that information to let you know of additional products and services about which you might be interested. You can choose not to receive such information if you don't want to by letting us know on the registration screen when you sign up for our service. We may ask you for information about your interests so that both you and we can take advantage of the interactivity of the online medium, but you may always choose to not respond.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-Tracking Information:
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-2GTS will collect and store only the following nonpersonally-identifying information from you: the name of the domain name from which you access the Internet; the date and time you access our site; and the Internet address of the Website from which you linked directly to our site. We also track your order and billing history so you can access your 2GTS and immediately determine which program you've purchased and how you paid for them. This information is password-protected. No one has access to it but you.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-As you browse the 2GTS website, cookies are placed on your computer's hard drive. Cookies allow us to track the items you select as you shop, and help us match your address and credit card information with your order so you don't need to retype the information each time you visit our site. Cookies also allow us to gather information to provide you with the best service. It tells us the number and frequency of visitors to our site and its various pages. Third parties may serve some of these cookies. We analyze this data to determine which parts of our site customers like and which parts need improvement. Automatically logged information is also used to analyze trends and to administer the site.
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-The only party that we may share your transaction processing information is VeriSign, which subsequently may share that information to a third party licensor of the fraud prevention scoring services (the "Fraud Service Bureau") solely for use in developing its fraud prevention modeling and for performing the Fraud Services. All your transaction processing information provided to the Fraud Service Bureau shall be subject to written agreement between VeriSign and the Fraud Service Bureau restricting disclosure of any Customer Data to other third parties except as necessary to perform the Fraud Services. Otherwise, all of your personal information such as name, address, email address and telephone number will not be shared with any third parties.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-Disclosure
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-We do not use or disclose information about your individual visits to 2GTS or your personal information as described above, to any third parties. We may however share with our partners aggregated statistical information about the use of 2GTS. Any exceptions to this policy of sharing your name, address or email address with a partner company will be done only with your permission.
+**Security**
 
-Security and Access
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-2GTS uses a secure socket layer (SSL), which encrypts all information that is transmitted or received. This encryption process ensures that the information you give us is protected against unauthorized access.
+**Updating Your Information**
 
-We have implemented technology and security features, as well as strict internal guidelines, to safeguard the privacy of your personal information from unauthorized access or improper use. We will continue to enhance our security procedures as new technology becomes available. While we make every effort to ensure that your information is secure on our system, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, we cannot guarantee the security of any information you transmit to us, and you do so at your own risk.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-Privacy Policy Changes
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-If we decide to change our privacy policy for 2GTS, we will post those changes here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone.
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-Contact
+      iii.      You may call us at: (480) 505-8800
 
-If you have any questions concerning our privacy policy you can contact us at support@2girlsteachsex.com
+       iv.      You may fax us at: (480) 505-8844
+
+**Sending Emails**
+
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+
+**Compliance with Laws and Law Enforcement**
+
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+
+**Third Party Service Providers**
+
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
