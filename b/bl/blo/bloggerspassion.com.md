@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bloggerspassion.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612074712id_/http%3A//bloggerspassion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggerspassion.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516080117id_/https%3A//bloggerspassion.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: BloggersPassion
-
-[](http://bloggerspassion.com/recommended/bluehost "Host Your Websites and WordPress Blogs with Bluehost for $3.95/month Only")
 
 At Bloggerspassion.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit Bloggerspassion.com, and how we safeguard your information. We never sell your personal information to third parties.
 
