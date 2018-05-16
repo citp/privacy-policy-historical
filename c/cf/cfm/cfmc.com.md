@@ -1,133 +1,163 @@
-> *The following text is extracted and transformed from the cfmc.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102192548id_/https%3A//www.survoxinc.com/contact-us/survox-inc-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfmc.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516053713id_/https%3A//www.survoxinc.com/contact-us/survox-inc-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Survox Inc.
 
-**Survox, Inc., (AKA Computers For Marketing Corporation or CFMC)  **([www.survoxinc.com](http://www.survoxinc.com/) and surveys.survoxinc.com) is a world-class market research solutions provider conducting research projects with participants from around the globe.
+## Contents
 
-Survox respects your privacy and constantly works to ensure the information provided to us via survey technology remains safe and secure. We subscribe to and uphold the standards for market research set forth by leading industry organizations including the Insights Association, Council of American Survey Research Organizations (CASRO), the Marketing Research Association (MRA), and the European Society for Opinion and Marketing Research (ESOMAR). Additionally, Survox is in compliance with HIPPA, EU- U.S. Privacy Shield, and COPPA privacy guidelines.
+Introduction
 
-**Personal information received from users in the European Economic Area**
+Scope
 
-Survox complies with the EU-U.S. Privacy Shield Principles as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.Survox has certified that it adheres to the Privacy Shield Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. For more information about the EU-U.S. Privacy Shield Principles, please visit the U.S. Department of Commerce’s [Privacy Shield Website](https://www.privacyshield.gov/list).
+Information we may collect: How and What
 
-These are our promises to you:
+How Enghouse uses Information
 
-  1. When we collect your personal information, we’ll give you timely and appropriate notice describing what personal information we’re collecting, how we’ll use it, and the types of third parties with whom we may share it.
-  2. We’ll give you choices about the ways we use and share your personal information, and we’ll respect the choices you make.
-  3. We’ll collect only as much personal information as we need for specific, identified purposes, and we won’t use it for other purposes without obtaining your consent.
-  4. We’ll keep your personal information only as long as we need it for the purposes for which we collected it, or as permitted by law.
-  5. We’ll take appropriate steps to make sure the personal information in our records is accurate.
-  6. We’ll provide ways for you to access your personal information, as required by law, so you can correct inaccuracies.
-  7. We’ll take appropriate physical, technical, and organizational measures to protect your personal information from loss, misuse, unauthorized access or disclosure, alteration, and destruction.
-  8. Except as described in this policy, we won’t share your personal information with third parties without your consent.
-  9. International Transfer. If we transfer your personal information to another country, we’ll take appropriate measures to protect your privacy and the personal information we transfer.
-  10. We’ll regularly review how we’re meeting these privacy promises, and we’ll provide an independent way to resolve complaints about our privacy practices.
+Disclosure of Information
 
+Updating or Accessing your Information
 
+Retention
 
-**Privacy Complaints by European Union Citizens**
+Security
 
-In compliance with the EU-US Privacy Shield Principles, Survox commits to resolve complaints about your privacy and our collection or use of your personal information.  European Union individuals with inquiries or complaints regarding this privacy policy should first contact Survox at:
+Cookies
 
-Survox, Inc.
+Third Party Sites
 
-c/o Privacy Officer
+Children and Privacy
 
-547 Howard Street
+Changes in the Policy
 
-San Francisco, CA 94105
+Contact Us
 
-415-777-0470
+Complaints
 
-[privacy@survoxinc.com](mailto:privacy@survoxinc.com)
+## Introduction
 
-**Unresolved Privacy Complaints**
+Enghouse is committed to safeguarding the privacy of our partners, distributors, resellers, customers and users of our websites, protecting the Personal Information that you may share with us and urges you to take every precaution to protect your Personal Information when you are online. When we need to collect your Personal Information to provide services that you request, for other legitimate business interests or when you choose to provide us with your Personal Information, this Global Privacy Policy (“Policy”) describes how we collect and use your information.
 
-Survox has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to the INSIGHTS ASSOCIATION PRIVACY SHIELD PROGRAM, a non-profit alternative dispute resolution provider located in the United States and operated by the Insights Association. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <http://www.insightsassociation.org/get-support/privacy-shield-program/privacy-shield-eu-swiss-citizens-file-complaint> for more information and to file a complaint.
+## Scope
 
-To access your information, ask questions about our privacy practices, or issue a complaint, contact us at
+This Global Privacy Policy applies to your use of this website and to all Personal Information we collect or you disclose during the use of this website. This Policy gives effect to Enghouse’s commitment to protect your privacy and Personal Information. It is applicable to each entity that is, directly or indirectly, controlling, controlled by, or under common control with, or a subsidiary of, Enghouse Systems Limited (“Enghouse”, “we” or “us” as appropriate).
 
-Survox, Inc.  
-547 Howard Street  
-San Francisco, CA 94105  
-Phone: (415) 777-0470  
-Email: [privacy@survoxinc.com](mailto:Privacy@survoxinc.com)
+## Information we may collect: How and What
 
-EU Citizens may file a complaint with CASRO here:
+During your use of this website, we may collect technical information such as your IP address (see ‘Cookies’) and a range of Personal Information that you submit to us. “Personal Information” means any information that is capable of identifying a living individual. We collect this information by using a range of different means which include, but are not limited to, when you:
 
-<http://www.insightsassociation.org/get-support/privacy-shield-program/privacy-shield-eu-swiss-citizens-file-complaint>
-
-Under certain limited limited conditions, for individuals to invoke binding arbitration before the Privacy Shield Panel to be created by the U.S. Department of Commerce and the European Commission. Survox may be required to disclose personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements. __  In cases of onward transfer to third parties, Survox may be liable.
-
-**Opting Out**
-
-Participants who receive email invitations and who do not want to participate in online surveys can unsubscribe by clicking the opt-out / unsubscribe link in the survey invitation or by going directly to <http://pd3.cfmc.com/optout/optout.php>.
-
-** ** **Children**
-
-Survox does not intentionally send emails to or collect data from children. If you are under the age of 13, you may not use any services of our site or participate in any surveys. Survox strives to comply with the specifications of COPPA (The Children’s Online Privacy Protection Act). If you are a parent of a child under 13, and you believe that your child has provided us with information about him or herself, please contact us at [privacy@survoxinc.com](mailto:privacy@survoxinc.com)
-
-The Survox website does not contain content which would be commonly viewed as unsuitable for children.
-
-**Participation in Online Surveys**
-
-Survox conducts its business in accordance with the following guiding principles:
-
-  1. All of the information collected in our surveys will only be used for research purposes and as otherwise described in this Privacy Policy.
-  2. We will never sell or otherwise transmit anyone’s name or other personal information for the purpose of marketing or advertising to you.
-  3. We will use the personally identifiable information that we collect for the purpose of contacting participants in special circumstances, for example, prize winners in a sweepstakes drawing, or when a person has provided permission for us to re-contact them for other purposes, such as to take part in a follow-up survey or to participate in another research panel or market research opportunity.
-  4. We will use the survey results only for market research purposes.
-  5. Our market research reports will not contain any personally identifiable information.
-  6. We take all commercially viable steps to physically protect the information that participants provide.
+  * Register for a whitepaper, case study, webcast, eNewsletter, or other download;
+  * Register to attend a seminar or participate in an online survey
+  * Ask to be included in an email or mailing list;
+  * Submit an entry for a competition, sweepstake, or any other promotion;
+  * Submit your Personal Information to us for any other reason.
 
 
 
-**Other Ways Your Information May Be Used**
+The Personal Information that may be collected, includes, but is not limited to:
 
-As a leading marketing research supplier, Survox provides full-service Web survey, CATI survey, IVR survey and tabulation programming, hosting, management and support services.  In the course of performing these services, Survox may:
-
-  * Use client-provided lists to issue email invitations to Web surveys or prepare said lists for CATI processes;
-  * Collect respondent data, both directly through web-based surveys (self-reported responses and those collected by telephone interviewer by our Clients) and indirectly by noting such items as the date and time of respondent-visits, browser type and respondent IP address;
-  * Examine collected information in aggregate to ensure the integrity of the data collection process;
-  * Cross-tabulate and otherwise analyze respondent data;
-  * Distribute reports to our clients.
+  * Name, gender, address, date of birth;
+  * Contact details for your work and personal details, such as email address, postal address and/or telephone number;
+  * Your role, position and/or job title within your employment.
 
 
 
-Certain information, such as age, income, race and other demographic facts are often vital to the integrity of the data gathered.  Survox Network Operation Centers (NOCs) are designed to meet and exceed industry standards. All data resides on servers behind Survox firewalls and is password protected and accessible only by Survox-registered IP addresses.
+## How Enghouse uses Information
 
-Survox will never sell your personal or corporate information to marketers or telemarketers.
+Enghouse may use the Personal Information, for any of the following purposes:
 
-Survox reserves the right to update this policy at anytime, so we urge you to check back as often as you feel necessary.
+  * Personalise your experience on the website;
+  * Respond to your enquiries and fulfil your requests, for example reply to a comment or question;
+  * Keep you updated with information about our products and services;
+  * Provide you with updates and announcements concerning our products and/or promotions;
+  * Send you marketing materials that you have signed up to;
+  * Help us better meet your needs;
+  * Allow you to have access to information, services or otherwise in engage in activities we provide access to.
 
-In addition to using information we collect through the online surveys, we also use your information as necessary to conduct our business efficiently. For example, from time to time, Survox may use the services of third party organizations to perform certain services on our behalf. We may use such organizations to send postal mail and e-mail, analyze data, provide marketing assistance, and provide customer service. In such cases, these organizations will have access only to personal information needed to perform their functions, but are prohibited from using it for other purposes. We may also disclose your information as permitted or required by applicable law.
 
-**Security**
 
-Survox is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure, both online and offline. For example, we store the personal information you provide on computer servers with limited access that are located in controlled facilities.
+We will not use your data for any automated decision-making, including profiling.
 
-Personal information collected through this site or in online surveys may be stored and processed in the United States, the United Kingdom or any other country in which Survox or its affiliates, subsidiaries or service providers maintain facilities. By providing us with your information, you consent to any such transfer of information outside of your country.
+## Disclosure of Information
 
-**Use of Cookies**
+_General_
 
-We may use cookies to store or acquire data about you and to assist us in conducting occasional diagnostic tests to ensure that our system is functioning correctly. Please note that if you configure your browser not to accept cookies, you may not be able to participate in our surveys.
+Enghouse’s global presence means that your Personal Information may need to be shared with Enghouse entities around the world. All these Enghouse entities are governed by this Policy and bound by appropriate confidentiality and data transfer agreements.
 
-**External Links**
+In the case of a transfer of Personal Information to an Enghouse entity which is not in the same country as the entity to whom you submitted Personal Information, the transfer will only take place if the EU Commission has established that there is an appropriate level of data protection in place in that receiving country, or Enghouse has agreed on appropriate contractual guarantees with the recipient entity to ensure the required level of data protection. Enghouse has put in place an intra-company Agreement that binds us to the EU Model Clauses. You may request a copy of this Agreement for your reference by contacting us by using the contact information listed below in the ‘Contact Us’ section.
 
-Survox-hosted web surveys may refer users to third-party sites at the close of surveys at the request of study sponsors and partners. Please be aware that Survox is not responsible for the privacy practices of such other sites. We encourage our users to be aware of when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information.
+_Legal and regulatory requirements_
 
-Third Party Products and Services: We neither endorse nor accept responsibility for any third party materials accessed through the Internet.
+Enghouse may be asked or required by law or regulatory authorities to disclose any Personal Information we have concerning you. We reserve the right to disclose any Personal Information we have about you if so requested or if we determine it is necessary or desirable to comply with the law or such request, or to protect or defend our rights or property.
 
-ENTIRE AGREEMENT: This Agreement constitutes the entire agreement between sponsor and you with respect to the subject matter contained in the Agreement.
+## Updating or Accessing your Information
 
-**Whom can I contact if I have additional questions?**
+If you have registered for an account with Enghouse you can help to ensure that your Personal Information is accurate and up to date by logging into your account.
 
-If you have any questions about the above Privacy Statement, our practices or your interactions with this site and our services, you may contact us at:
+You may unsubscribe from marketing communications at any time by clicking the “Unsubscribe” button available at the bottom of any electronic communication we may send to you. You may also unsubscribe from any medium of communication by contacting us using the information set out in the ‘Contact Us’ section below.
 
-Survox  
-44 Tehama Street, Suite 415  
-San Francisco, CA 94105  
-Phone: (415) 777-0470  
-[privacy@survoxinc.com](mailto:privacy@survoxinc.com)
+To review, correct, update, delete, object or otherwise limit our use of your Personal Information that has been provided to us, or request portability and/or details of your Personal Information that is held by us, please contact us using the contact information listed below in the ‘Contact Us’ section and describe clearly your request.
 
-Survox reserves the right to update this policy at anytime, so we urge you to check back as often as you feel necessary.  If you have any questions regarding this privacy policy, feel free to contact us.
+## Retention
+
+Enghouse will retain any Personal Information it holds for as long as may be necessary for us to fulfil the purpose(s) outlined within this Policy or in order to comply with any legal or regulatory requirements.
+
+## Security
+
+Enghouse will use reasonable and appropriate technical, administrative and physical safeguards to protect the Personal Information in its possession from loss, misuse, unauthorized access, disclosure, alteration, and/or destruction. Enghouse has taken due consideration of the risks involved and harm that may be suffered in the event of a breach in processing Personal Information and the nature of such Personal information.
+
+## Cookies
+
+Enghouse may use cookies from time to time. A cookie is a unique text file that a website can send to your internet browser. Some parts of Enghouse’s website use cookies to track how you use and/or navigate around the website. We do this in order to determine how useful the website’s information is to users, how effective the navigational structure is in helping users reach that information and monitor how long a user spends on each part of the website.
+
+You will be notified about the use of cookies when you first visit our website. If you prefer not to receive cookies, you can set amend your browser settings so that cookies are disabled. Certain actions on our website require the use of cookies so you may not be able to fully enjoy our website should you choose to disable cookies.
+
+## Third Party Sites
+
+Enghouse’s websites may contain links to third-party sites. Enghouse does not share your Personal Information with those websites and is not responsible for their privacy practices. We encourage you to review the privacy policies of those companies.
+
+Some of the third-party sites that this website links to may be co-branded with an Enghouse entity logo, even though they are not operated or maintained by Enghouse. Although, we choose our business partners carefully we disclaim responsibility for the privacy practices of websites operated by third parties. Once you have left this website, you should check the privacy policy of the third party website to determine how your data will be handled and how information is collected from you.
+
+## Children and Privacy
+
+This website does not target and is not intended to attract children under the age of thirteen (13). Enghouse does not knowingly solicit Personal Information from children under the age of thirteen (13) nor does Enghouse send them requests for Personal Information.
+
+## Changes in the Policy
+
+Enghouse reserves the right to amend this Policy as it finds necessary. For example, Enghouse may modify this Policy in order to comply with changes in local laws and regulations, other Enghouse policies and procedures, or requirements imposed by data protection authorities. Please ensure that you regularly check this Policy so that you are aware of any changes and/or updates that are made.
+
+## Contact Us
+
+Any Personal Information provided to or gathered by Enghouse is ultimately controlled by Enghouse Systems Limited.
+
+If you would like to contact us in relation to this Policy or in connection to the Personal Information we may collect or process about you please do so by using the following details:
+
+Enghouse Systems Limited
+
+80 Tiverton Court, Suite 800
+
+Markham, Ontario
+
+L3R 0G4
+
+Canada
+
+Email: [legal.operations@enghouse.com](mailto:legal.operations@enghouse.com)
+
+If you are based in the European Economic Area (EEA) the data controller responsible for your information is:
+
+Enghouse Interactive (UK) Ltd
+
+Imperium, Imperial Way
+
+Reading, Berkshire
+
+RG2 0TD
+
+United Kingdom
+
+Tel: +44 (0) 20 3357 3040
+
+Email: [legal.operations@enghouse.com](mailto:legal.operations@enghouse.com)
+
+## Complaints
+
+Enghouse takes its commitment to this Policy and your rights under applicable data privacy laws very seriously. If you do not feel your legal rights as regards to your personal data have been properly observed by Enghouse, you have the right to complain to your in-region supervisory authority, who are the regulatory body appointed to monitor compliance with applicable data protection laws.
