@@ -1,110 +1,100 @@
-> *The following text is extracted and transformed from the careersnigeria.com privacy policy that was archived on 2017-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170223094106id_/https%3A//www.jobberman.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careersnigeria.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Policy-Latest Jobs in Nigeria
+# Legal Agreement
 
-Revised: January, 2015  
+**GoDaddy Respects Your Privacy**
 
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-Questions or suggestions arising from this policy should be directed to [info@jobberman.com](mailto:info@jobberman.com) 
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-All information regarding a job offer is from sources deemed reliable. No representation is made as to the accuracy thereof, and such information is subject to errors, omission, and change of details without notice. 
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
- **JOBBERMAN’s Privacy Statement**
+**Information Collection and Use**
 
-JOBBERMAN is a job search and career development company operating in the online career space in Nigeria. JOBBERMAN is very sensitive to privacy issues. Any user information we collect is considered private and we do not use, or share it except as permitted herein, without the user's permission. We use this personal information at JOBBERMAN to provide the best quality service possible. This privacy statement applies only to information collected by web addresses in the [jobberman.com](mailto:jobberman.com), [www.jobberman.com.gh](http://www.jobberman.com.gh/) and www.jobbermanlearning.com domains, which is hereafter referred to collectively as JOBBERMAN. We believe it is important you know how we treat the information you may provide to us.
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
- **Definitions**
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-This Statement has been prepared by JOBBERMAN Limited.
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-JOBBERMAN owns and operates the website located at www.jobberman.com (across desktop, mobile, tablet and apps and including any subdomains) ("the Site"). This Statement discloses our information gathering and dissemination practices for the Site.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-JOBBERMAN’s wholly owned subsidiaries, JOBBERMAN Ghana and JOBBERMAN Learning own and operate the websites located at [www.jobberman.com.gh](http://www.jobberman.com.gh/) and www.jobbermanlearning.com respectively across desktop, mobile, tablet and apps (including any subdomains).
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-In this Statement, any reference to “JOBBERMAN", "we", "us" and "our" includes a reference to JOBBERMAN Limited, JOBBERMAN Ghana and JOBBERMAN Learning.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-Users who log on to the Site but do not create an account are referred to generically in this Statement as "users" or "you".
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-Users who register on the Site to obtain services offered by JOBBERMAN are referred to as "Registered Users". Unless the context provides otherwise, references in this Statement to "users" or "you" include references to generic users and Registered Users.
+**Security**
 
- **Information Collected by JOBBERMAN**
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-JOBBERMAN collects user information from several areas of the site without limitation, including the 'Membership Registration' area, which sections of the Site are most frequently visited, how often, and for how long. Data are always used as aggregated information, and may be shared with JOBBERMAN partners to provide them with information relating to how JOBBERMAN visitors 'use' the Site. 
+**Updating Your Information**
 
-**IP Addresses & Cookies**
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-JOBBERMAN tracks the IP address of a user's computer or place a "cookie" in the browser files of a user's computer. This is required by JOBBERMAN’s services to provide automated features. IP address and cookie log data is analyzed to better understand traffic flows and user preferences.
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
- **Collecting information on JOBBERMAN Registered Users**
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-As part of registering with JOBBERMAN, we collect personal information about Registered Users in order for Registered Users to take full advantage of JOBBERMAN's services. To do this, it will be necessary for Registered Users to provide additional information to JOBBERMAN.
+      iii.      You may call us at: (480) 505-8800
 
- **Registration**
+       iv.      You may fax us at: (480) 505-8844
 
-Registration on the Site is completely optional, but you need to register on the Site in order to submit a job application. To become a Registered User you will need to submit some personal information including your email address. You may access your information at any time by clicking 'My Account' on 'the Site' after signing into the Site.
+**Sending Emails**
 
- **Storing your CV**
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-Registered Users may elect to store their CV in their 'My Account' area, and use the CV when applying for a job. Deleting a CV from the 'My Account' area will mean it is no longer accessible to the Registered User. Deleted records may still be stored by JOBBERMAN in testing or backup systems for a period of time.
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
- **JOBBERMAN Profile**
+**Compliance with Laws and Law Enforcement**
 
-All Registered Users have a personal JOBBERMAN Profile ('JOBBERMAN Profile') upon successful registration. A JOBBERMAN Profile can include a CV, personal information, employment and educational history, contact details, minimum salary expectations, skills, preferred job specializations and locations. Advertisers are able to search JOBBERMAN's Profile database to find and contact relevant candidates.
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-Registered Users can modify their CV at any time, or modify their personal, education and work experience details in relation to their JOBBERMAN Profile at any time, by going to the Profile area of the Site.
+**Third Party Service Providers**
 
- **Use of Information Collected:**
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-Collected information helps JOBBERMAN understand its users' needs better, in order to improve its product and service offerings. Personal information may be used to contact users for the purpose of research, product development, marketing, or customer service, if the user has opted to receive such communication. JOBBERMAN may make personal information on CVs as well as other supplied information available to recruiters on a need basis where the intended use is to make available job opportunities to users. JOBBERMAN will not be held liable for any alternative use of such information by any individual or organization. User search activity is collected and analyzed and may be utilized by JOBBERMAN in the aggregate or in the abstract for a variety of business purposes.
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
- **Online Applications**
+**Supplementation of Information**
 
-Making an online application to a job advertisement on JOBBERMAN is a free service that requires registration (to become a Registered User). Job applications require users to complete mandatory fields (first name, last name, phone, email, location, year of experience and latest employment) so that the Advertiser can identify and contact the applicant. Registered Users have the option of easily applying with a saved CV and uploading a cover letter.
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-This information may also be disclosed to JOBBERMAN's service providers and contractors from time to time who assist us to deliver our products and services.
+**Contests/Surveys**
 
-By applying to a position advertised on JOBBERMAN you are requesting that JOBBERMAN pass the information to the relevant Advertiser. Any questions you have relating to a position advertised on JOBBERMAN, your online application and/or the status of your application should be directed to the Advertiser or their nominated agent, not JOBBERMAN. JOBBERMAN's role in the online application process is limited to forwarding your online application to the Advertiser, and storing it on their behalf (if requested to do so).
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
- **Use of Email Tools**
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-Upon registration, you may decide to subscribe for some offerings e.g. news, promotional materials. If you no longer wish to receive our newsletters and promotional communications from JOBBERMAN, you may opt-out of receiving them by following the instructions included in our newsletters, communication materials, or by emailing us at [info@jobberman.com](mailto:info@jobberman.com).
+**Tell-A-Friend**
 
- **Opt-Out Policy:**
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-We offer visitors to the Site a means for controlling the use of session information. If, at any time after registering for information or ordering our services, you change your mind about receiving information from us or about the use of information volunteered by you, please send us a request specifying your new choice to tech.support@jobberman.com. 
+**What Happens to my Personal Information if I Opt Out?**
 
-To opt out of marketing or promotional emails, please either click 'unsubscribe' in the body of the email communication or go to [edit your JOBBERMAN profile](http://www.jobberman.com/applicant/profile "Edit profile link"), under 'My Account', then click Account Settings and select your preference(s).
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
- **Shared information:**
+**Transfer of Data Abroad**
 
-JOBBERMAN makes every possible effort to preserve user privacy; we may however need to disclose personal information when required by law or in the process of conducting our business transactions.
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-JOBBERMAN does not sell, rent, or lease user information to any third party, except stated otherwise (such as is in the case of CVs). While JOBBERMANendeavors to ensure the highest level of standards with a similar respect for user privacy, JOBBERMAN cannot be responsible for losses or damages that can result from a third party.
+**Changes in Our Practices**
 
- **Security of personal information:**
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-JOBBERMAN takes every reasonable precaution to secure personal information within both its computers and its physical premises.
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
 
-The security of your personal information is central to JOBBERMAN. We follow global industry standards to protect the personal information submitted to us, both during transmission and receipt. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+**Contacting Our Site**
 
-If you have any questions about security on our Web site, you can email us at [info@jobberman.com](mailto:privacy@jobberman.com).
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
 
- **JOBBERMAN Partners & Advertisers**
+* * *
 
-JOBBERMAN discloses and/or makes available online applications to third parties and/or their nominees. The use of your information (personal or otherwise) by these third parties is not within the control of JOBBERMAN and we cannot accept responsibility for the conduct of these companies. This is also the case in respect of a JOBBERMAN Profile that has been provided by JOBBERMAN to an Advertiser in accordance with the paragraph above, 'JOBBERMAN Profile'.
-
-Advertisers that place job ads on JOBBERMAN are asked by JOBBERMAN to comply with all relevant obligations relating to the use and disclosure of personal information that are outlined in the Privacy Act. JOBBERMAN cannot however guarantee compliance with these obligations.
-
- **Data Transfers**
-
-Sometimes, we transfer information to 3rd party contractors including persons outside Nigeria. By giving us your personal information, you consent to such disclosures. Where we transfer information to persons outside Nigeria we believe that the recipients of such information are subject to a law, binding scheme or contract which effectively upholds principles for fair handling of the information that are similar in all material respects to international laws.
-
- **Changes to personal information:**
-
-You may correct or update your personally identifiable information by making the change on your member account. If you no longer desire our service, you may deactivate your membership by sending an email to [info@jobberman.com](mailto:contracts@jobberman.com).
-
- **Changes to this Privacy Statement:**
-
-If JOBBERMAN decides to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-JOBBERMAN reserves the right to modify this privacy statement at any time, so please review frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
