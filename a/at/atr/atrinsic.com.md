@@ -1,87 +1,100 @@
-> *The following text is extracted and transformed from the atrinsic.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621234451id_/http%3A//www.atrinsic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atrinsic.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Policy
+# Legal Agreement
 
-**Your Consent**
+**GoDaddy Respects Your Privacy**
 
-By using our site, you consent to our privacy policy.
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-**Please read carefully**
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-Please read our Privacy Policy carefully before using the www.atrinsic.com website. In this Policy “”, “we”, “us” and “our” means Atrinsic and “you” means the individual who is using the Website. You should also read the Terms and Conditions which govern your use of this website.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-Atrinsic takes your privacy very seriously. The following privacy statement sets out, in relation to this website, what sort of information we collect and hold about you, how that information is collected, how we use that information and how that information can be corrected and/or updated.
+**Information Collection and Use**
 
-This privacy policy (together with our Data Protection Policy and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data.
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-**What personally identifiable information do we collect about you?**
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-The personal information that we usually collect via our online application form is as follows:
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-  * Name
-  * E-mail address
-  * Home address
-  * Residential status
-  * Telephone numbers
-  * Date of birth
-  * Income details, including your pay dates
-  * Bank account details
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-**How do we use your information?**
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-Information that you provide when completing our online application form will be used to provide you with an introduction to a relevant payday loan lender from our panel.
+**Security**
 
-It is sometimes necessary the Company to transfer information held about you to lenders based outside of the European Economic Area. The Eighth Data Protection Principle of the Act restricts the transfer of personal data to a country outside the European Economic Area unless that country or territory ensures an adequate level of protection for the rights and freedoms of data subjects. By submitting your Application Form you consent to this transfer. You may withdraw your consent at a later date by writing to us at [info@atrinsic.com](mailto:info@atrinsic.com)  
-**Will we share your information?**
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-We may pass your details on to third parties for the following purposes:
+**Updating Your Information**
 
-  * Selected third parties and agents who provide administration support and/or the website services and who agree to only hold such information for the purposes set out in this Privacy Policy and under strict conditions to safeguard your information;
-  * If we sell the business or integrate it with another, or dispose of any rights relating to you, your details may be disclosed, subject to strict confidentiality undertakings, to our advisers and those of prospective purchasers. It will be passed on to any new owners of the business to be used in the same way as set out in this data protection policy.
-  * We may also disclose information if we have (or believe we have) a duty to do so, or the law allows us to.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-Apart from the above exceptions we will not disclose any information on to other commercial organisations that could allow you to be personally identified.
+      iii.      You may call us at: (480) 505-8800
 
-**How can I update, correct or delete my information?**
+       iv.      You may fax us at: (480) 505-8844
 
-By email to: [info@atrinsic.com](mailto:info@atrinsic.com) , via our secure customer area.
+**Sending Emails**
 
-**What are Cookies?**
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-A “cookie” is a piece of information that is stored on your hard drive by your web browser that allows the website to recognise you over several different pages.
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-Our web site uses “cookies” to help you navigate through the web site more easily and to understand the services you are using. That information is automatically deleted if you close your web browser or leave the web site for a sufficient period of time (typically after 30 minutes although this may vary from time to time).
+**Compliance with Laws and Law Enforcement**
 
-The cookie information may show us which pages, functions or services are seen or used, which are the most popular areas of the website, when the website was accessed and for how long, and whether the user returns to the site. This information is not personally identifiable and will be used by us to administer the website systems, to compile statistics, and help us develop and improve the site and our services.
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-If you wish, you can usually adjust your browser so that your computer does not accept cookies. If you do this, you will still be able to browse around the general site but the functions that allow you to log on to the secure website may not be available. Alternatively you can adjust your browser to tell you when a website tries to put a cookie on your computer. How you adjust your browser to stop it accepting cookies or to notify you of them, will depend on the type of internet browser programme your computer uses. If your computer uses Microsoft Internet Explorer or Netscape Navigator, you will need to follow these instructions after clicking onto this link [www.allaboutcookies.org](http://www.allaboutcookies.org/) (Atrinsic is not responsible for the content of external websites. This link will open a new window.) Go to the heading “Manage Cookies”. Click onto the option you prefer, either stopping cookies being installed, or notifying you of them. From the list provided, click onto the programme which your computer uses. If this is not shown on the list, click on the “help” heading on the bar at the top of this page, search for information on “cookies” – an explanation of how to delete cookies will appear, then follow these instructions.
+**Third Party Service Providers**
 
-**How do we protect your personal information?**
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-Your access to the secure area of the website services is password-protected so that only you should have access to any personal information you provide there.
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-We strongly recommend that you do not divulge your password to anyone. We will never ask you your password in an unsolicited phone call or in an unsolicited email.
+**Supplementation of Information**
 
-We have technological and operational procedures in place to protect your information from loss, misuse, alteration or destruction and our directors and employees are subject to strict obligations of confidentiality. We endeavor to take all reasonable steps to ensure your personal information is protected.
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-To help protect your personal data and minimise the risk of it being intercepted by third parties, we offer the use of a secure server and use industry standard encryption when you submit information through our website. However we cannot guarantee the security of information which you send on-line. In particular you should not use email to send confidential or sensitive information. Please also refer to our Terms and Conditions regarding security of your password.
+**Contests/Surveys**
 
-**Links to other websites**
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-This website may contain links to other sites. We are not responsible for the privacy practices or the content of such web sites. We encourage you to read the privacy statements of these linked sites, as their Privacy Policy may differ from ours.
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-**For how long will we keep your personal information on file?**
+**Tell-A-Friend**
 
-We will not keep your information for longer than is necessary for the purposes outlined in this Privacy Policy.
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-**Access to your information and question about our privacy practices**
+**What Happens to my Personal Information if I Opt Out?**
 
-You have certain rights under the Data Protection Act 1998. For example, we will always let you have a copy of all personal information we have about you should you request it. We may charge you a fee for a copy of such information.
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-You can ask us whether we are keeping personal data about you by emailing us at [info@atrinsic.com](mailto:info@atrinsic.com).
+**Transfer of Data Abroad**
 
-Upon request, we will provide you with a readable copy of the personal data which we keep about you. Although we may require proof of your identity. We allow you to challenge the data that we hold about you and, where appropriate, you may have the data rectified or amended. We reserve the right to refuse to provide our visitors with a copy of their personal data, but will give reasons for our refusal. We do, however, allow you to challenge our decision to refuse to provide you with a copy of your personal data.
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
