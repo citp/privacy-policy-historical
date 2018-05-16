@@ -1,70 +1,100 @@
-> *The following text is extracted and transformed from the exectweets.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630195054id_/https%3A//twitter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exectweets.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Twitter / Twitter Privacy Policy
+# Legal Agreement
 
-Twitter instantly connects people everywhere to what’s most meaningful to them. Any registered user can send a Tweet, which is a message of 140 characters or less that is public by default and can include other content like photos, videos, and links to other websites.
+**GoDaddy Respects Your Privacy**
 
-Tip What you say on Twitter may be viewed all around the world instantly. 
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-This Privacy Policy describes how and when Twitter collects, uses and shares your information when you use our Services. Twitter receives your information through our various websites, SMS, APIs, email notifications, applications, buttons, and widgets (the " **Services** " or " **Twitter** "). For example, you send us information when you use Twitter from our website, post or receive Tweets via SMS, or access Twitter from an application such as Twitter for Mac, Twitter for Android or TweetDeck. When using any of our Services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. Irrespective of which country you reside in or supply information from, you authorize Twitter to use your information in the United States and any other country where Twitter operates.
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-If you have any questions or comments about this Privacy Policy, please contact us at [privacy@twitter.com](mailto:%70%72%69%76%61%63%79@%74%77%69%74%74%65%72.%63%6f%6d) or [here](https://web.archive.org/about/contact).
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-### Information Collection and Use
+**Information Collection and Use**
 
-Tip We collect and use your information below to provide our Services and to measure and improve them over time. 
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-**Information Collected Upon Registration:** When you create or reconfigure a Twitter account, you provide some personal information, such as your name, username, password, and email address. Some of this information, for example, your name and username, is listed publicly on our Services, including on your profile page and in search results. Some Services, such as search, public user profiles and viewing lists, do not require registration.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-**Additional Information:** You may provide us with profile information to make public, such as a short biography, your location, your website, or a picture. You may provide information to customize your account, such as a cell phone number for the delivery of SMS messages. We may use your contact information to send you information about our Services or to market to you. You may use your [account settings](https://twitter.com/account/settings) to unsubscribe from notifications from Twitter. You may also unsubscribe by following the instructions contained within the notification or the instructions on our website. We may use your contact information to help others find your Twitter account, including through third-party services and client applications. Your [account settings](https://twitter.com/account/settings) control whether others can find you by your email address or cell phone number. You may choose to upload your address book so that we can help you find Twitter users you know. We may later suggest people to follow on Twitter based on your imported address book contacts, which you can [delete](https://web.archive.org/who_to_follow/import) from Twitter at any time. If you email us, we may keep your message, email address and contact information to respond to your request. If you connect your Twitter account to your account on another service in order to cross-post between Twitter and that service, the other service may send us your registration or profile information on that service and other information that you authorize. This information enables cross-posting, helps us improve the Services, and is deleted from Twitter within a few weeks of your disconnecting from Twitter your account on the other service. Learn more [here](http://support.twitter.com/articles/31113-how-to-use-twitter-with-facebook). Providing the additional information described in this section is entirely optional.
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-**Tweets, Following, Lists and other Public Information:** Our Services are primarily designed to help you share information with the world. Most of the information you provide us is information you are asking us to make public. This includes not only the messages you Tweet and the metadata provided with Tweets, such as when you Tweeted, but also the lists you create, the people you follow, the Tweets you mark as favorites or Retweet, and many other bits of information that result from your use of the Services. Our default is almost always to make the information you provide public for as long as you do not delete it from Twitter, but we generally give you [settings](https://twitter.com/account/settings) to make the information more private if you want. Your public information is broadly and instantly disseminated. For instance, your public user profile information and public Tweets may be searchable by search engines and are immediately delivered via SMS and our [APIs](http://dev.twitter.com/pages/api_faq) to a wide range of users and services, with one example being the United States Library of Congress, which archives Tweets for historical purposes. When you share information or content like photos, videos, and links via the Services, you should think carefully about what you are making public.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-**Location Information:** You may choose to publish your location in your Tweets and in your Twitter profile. You may also tell us your location when you set your trend location on Twitter.com or enable your computer or mobile device to send us location information. You can set your Tweet location preferences in your [account settings](https://twitter.com/account/settings) and learn more about this feature [here](http://support.twitter.com/forums/26810/entries/78525). Learn how to set your mobile location preferences [here](http://support.twitter.com/articles/118492-how-to-use-the-location-feature-on-mobile-devices). We may use and store information about your location to provide features of our Services, such as Tweeting with your location, and to improve and customize the Services, for example, with more relevant content like local trends, stories, ads, and suggestions for people to follow.
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-**Links:** Twitter may keep track of how you interact with links across our Services, including our email notifications, third-party services, and client applications, by redirecting clicks or through other means. We do this to help improve our Services, to provide more relevant advertising, and to be able to share aggregate click statistics such as how many times a particular link was clicked on.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-**Cookies:** Like many websites, we use "cookie" technology to collect additional website usage data and to improve our Services, but we do not require cookies for many parts of our Services such as searching and looking at public user profiles or lists. A cookie is a small data file that is transferred to your computer's hard disk. Twitter may use both session cookies and persistent cookies to better understand how you interact with our Services, to monitor aggregate usage by our users and web traffic routing on our Services, and to customize and improve our Services. Most Internet browsers automatically accept cookies. You can instruct your browser, by changing its settings, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. However, some Services may not function properly if you disable cookies.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-**Log Data:** Our servers automatically record information (" **Log Data** ") created by your use of the Services. Log Data may include information such as your IP address, browser type, operating system, the referring web page, pages visited, location, your mobile carrier, device and application IDs, search terms, and cookie information. We receive Log Data when you interact with our Services, for example, when you visit our websites, sign into our Services, interact with our email notifications, use your Twitter account to authenticate to a third-party website or application, or visit a third-party website that includes a Twitter button or widget. Twitter uses Log Data to provide our Services and to measure, customize, and improve them. If not already done earlier, for example, as provided below for Widget Data, we will either delete Log Data or remove any common account identifiers, such as your username, full IP address, or email address, after 18 months.
+**Security**
 
-**Widget Data:** We may tailor content for you based on your visits to third-party websites that integrate Twitter buttons or widgets. When these websites first load our buttons or widgets for display, we receive Log Data, including the web page you visited and a cookie that identifies your browser (" **Widget Data** "). After a maximum of 10 days, we start the process of deleting or aggregating Widget Data, which is usually instantaneous but in some cases may take up to a week. While we have the Widget Data, we may use it to tailor content for you, such as suggestions for people to follow on Twitter. Tailored content is stored with only your browser cookie ID and is separated from other Widget Data such as page-visit information. This feature is optional and not yet available to all users. If you want, you can suspend it or turn it off, which removes from your browser the unique cookie that enables the feature. Learn more about the feature [here](http://support.twitter.com/articles/20169421). For Tweets, Log Data, and other information that we receive from interactions with Twitter buttons or widgets, please see the other sections of this Privacy Policy.
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-**Third-Party Service Providers:** Twitter uses a variety of third-party services to help provide our Services, such as hosting our various blogs and wikis, and to help us understand the use of our Services, such as Google Analytics. These third-party service providers may collect information sent by your browser as part of a web page request, such as cookies or your IP address.
+**Updating Your Information**
 
-### Information Sharing and Disclosure
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-TipWe do not disclose your private personal information except in the limited circumstances described here. 
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-**Your Consent:** We may share or disclose your information at your direction, such as when you authorize a third-party web client or application to access your Twitter account.
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-**Service Providers:** We engage service providers to perform functions and provide services to us in the United States and abroad. We may share your private personal information with such service providers subject to confidentiality obligations consistent with this Privacy Policy, and on the condition that the third parties use your private personal data only on our behalf and pursuant to our instructions.
+      iii.      You may call us at: (480) 505-8800
 
-**Law and Harm:** Notwithstanding anything to the contrary in this Policy, we may preserve or disclose your information if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect Twitter's rights or property. However, nothing in this Privacy Policy is intended to limit any legal defenses or objections that you may have to a third party’s, including a government’s, request to disclose your information.
+       iv.      You may fax us at: (480) 505-8844
 
-**Business Transfers:** In the event that Twitter is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. The promises in this Privacy Policy will apply to your information as transferred to the new entity.
+**Sending Emails**
 
-**Non-Private or Non-Personal Information:** We may share or disclose your non-private, aggregated or otherwise non-personal information, such as your public user profile information, public Tweets, the people you follow or that follow you, or the number of users who clicked on a particular link (even if only one did).
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-### Modifying Your Personal Information
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-If you are a registered user of our Services, we provide you with tools and [account settings](https://twitter.com/account/settings) to access or modify the personal information you provided to us and associated with your account.
+**Compliance with Laws and Law Enforcement**
 
-You can also permanently delete your Twitter account. If you follow the instructions [here](https://support.twitter.com/articles/15358-how-to-deactivate-your-account), your account will be deactivated and then deleted. When your account is deactivated, it is not viewable on Twitter.com. For up to 30 days after deactivation it is still possible to restore your account if it was accidentally or wrongfully deactivated. After 30 days, we begin the process of deleting your account from our systems, which can take up to a week.
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-### Our Policy Towards Children
+**Third Party Service Providers**
 
-Our Services are not directed to persons under 13. If you become aware that your child has provided us with personal information without your consent, please contact us at [privacy@twitter.com](mailto:%70%72%69%76%61%63%79@%74%77%69%74%74%65%72.%63%6f%6d). We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the child's account. You can find additional resources for parents and teens [here](http://support.twitter.com/groups/33-report-a-violation/topics/166-safety-center/articles/470968-safety-parent-and-teen-tips).
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-### EU Safe Harbor Framework
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-Twitter complies with the U.S.-E.U. and U.S.-Swiss Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification, please visit the [U.S. Department of Commerce](http://export.gov/safeharbor/) website.
+**Supplementation of Information**
 
-### Changes to this Policy
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at <https://twitter.com/privacy>. If we make a change to this policy that, in our sole discretion, is material, we will notify you via an @Twitter update or email to the email address associated with your account. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
+**Contests/Surveys**
 
-_Effective: May 17, 2012_
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-[Archive of Previous Privacy Policies](https://twitter.com/privacy/previous)  
-Thoughts or questions about this Privacy Policy? Please, [let us know](mailto:%70%72%69%76%61%63%79@%74%77%69%74%74%65%72.%63%6f%6d).
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
