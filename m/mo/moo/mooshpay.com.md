@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mooshpay.com privacy policy that was archived on 2016-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161005225402id_/http%3A//mooshpay.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mooshpay.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516194937id_/http%3A//mooshpay.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mooshpay
 
