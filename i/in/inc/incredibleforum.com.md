@@ -1,97 +1,100 @@
-> *The following text is extracted and transformed from the incredibleforum.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120002250id_/http%3A//www.forumfoundry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incredibleforum.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Policy
+# Legal Agreement
 
-## Forum Foundry Privacy Policy // Last Updated: 12/14/2011
+**GoDaddy Respects Your Privacy**
 
-##### 1\. Purpose
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-Forum Foundry, Inc. owns and operates a number of website properties, including forum / community type properties. Forum Foundry, Inc. has adopted this Privacy Statement in order to inform you of its policies with respect to information collected from this website or from websites operated by Forum Foundry. Your use of the websites constitutes your acceptance of this Privacy Statement and your consent to the practices it describes.
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-##### 2\. Automatic Collection of Anonymous Information
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-When you visit Forum Foundry, Inc. website(s), like when you visit most other websites, certain anonymous information about your visit is automatically logged, which may include information about the type of browser you use, the server name and IP address through which you access the internet (such as “aol.com” or “earthlink.net”), the date and time you access the site, the pages you access while at Forum Foundry, Inc. website properties, and the internet address of the website, if any, from which you linked directly to the Forum Foundry, Inc. website. This information is not personally identifiable.
+**Information Collection and Use**
 
-##### 3\. Personally Identifiable Information
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-Personally Identifiable Information is any information that concerns you individually and would permit someone to contact you, for example, your name, address, telephone number, email address or any information you submitted to the Forum Foundry Inc. website that identifies you individually.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-Forum Foundry, Inc. will not collect any personally identifiable information about you unless you provide it. Therefore, if you do not want Forum Foundry, Inc. to obtain any personally identifiable information about you, do not submit it.
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-You can visit and browse Forum Foundry, Inc. website(s) without revealing personally identifiable information about yourself. You may also choose to disclose personally identifiable information about yourself, which may be maintained as described below. Forum Foundry, Inc. may collect personally identifiable information about you from its website by methods such as the following:
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-##### 4\. Registration Forms
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-If you are offered the opportunity to enter a promotion or to become a registered user of a Forum Foundry, Inc. website, you must apply by filling out the registration form on the site. This form requires certain personally identifiable information that may include, without limitation, your name, email address, postal address, telephone number and/or a unique individual password.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-##### 5\. Transactions and Activity
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-If you become a registered user or if you conduct transactions through Forum Foundry, Inc. website(s), it collects information about the transactions you engage in while on the website and your other activity on the site. This information may include, without limitation, areas of the website that you visit, transaction type, content that you view, download or submit, transaction amount and payment information.
+**Security**
 
-##### 6\. Email and other voluntary communications
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-You may also choose to communicate with Forum Foundry, Inc. through email, via our website, by telephone, in writing, or through other means. We collect the information in these communications, and such information may be personally identifiable.
+**Updating Your Information**
 
-##### 7\. Information Use
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-Forum Foundry, Inc. may use the personally identifiable information collected through its website primarily for such purposes as:  
-a) helping to establish and verify the identity of users;  
-b) opening, maintaining, administering and servicing users’ accounts or memberships;  
-c) processing, servicing or enforcing transactions and sending related communications;  
-d) providing services and support to users;  
-e) improving the website, including tailoring it to users’ preferences;  
-f) providing users with service updates, promotional notices and offers, and other information about Forum Foundry, Inc.;  
-g) responding to your questions inquiries, comments and instructions;  
-h) maintaining the security and integrity of its systems.
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-Forum Foundry, Inc. uses the anonymous browsing information collected automatically by its servers primarily to help it administer and improve its website. Forum Foundry, Inc. may also use aggregated anonymous information to provide information about its website to potential business partners and other unaffiliated entities. Again, this information is not personally identifiable.
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-##### 8\. Disclosure of Information
+      iii.      You may call us at: (480) 505-8800
 
-Forum Foundry, Inc. does not provide personally identifiable information to unaffiliated third parties for their use in marketing directly to you. Forum Foundry, Inc. may use unaffiliated companies to help it maintain and operate its website or for other reasons related to the operation of its business, and those companies may receive your personally identifiable information for that purpose. Forum Foundry, Inc. may also disclose personally identifiable information about you in connection with legal requirements, such as in response to an authorized subpoena, governmental request or investigation, or as otherwise permitted by law. Finally, as Forum Foundry, Inc.’s business develops, it may sell or buy corporate assets, and in such transactions customer information may be one of the transferred business assets. If Forum Foundry, Inc., its internet businesses, or substantially all of its assets, is acquired, customer information may be one of the assets transferred.
+       iv.      You may fax us at: (480) 505-8844
 
-##### 9\. “Cookies” and Advertisers
+**Sending Emails**
 
-Forum Foundry, Inc. website server(s), or the servers of companies that are used to operate this site, may place a “cookie” on your computer in order to allow you to use the website and to personalize your experience.
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-A “cookie” is a small piece of data that can be sent by a web server to your computer, which then may be stored by your browser on your computer’s hard drive. Cookies allow Forum Foundry, Inc. website(s) to recognize your computer while you are on its website and help customize your online experience and make it more convenient for you. Cookies are also useful in allowing more efficient log-in for users, tracking transaction histories and preserving information between sessions. The information collected from cookies may also be used to improve the functionality of the website.
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-The advertisers and/or other content providers that may appear on this website may also use cookies that are not sent by Forum Foundry, Inc.’s website(s). Such ads or content may contain cookies that help track and target the interests of users of this website in order to present “personalized” advertisements or other messages that the user might find interesting. Forum Foundry, Inc. is not responsible for any such cookies.
+**Compliance with Laws and Law Enforcement**
 
-Most web browser applications (such as Microsoft Internet Explorer) have features that can notify you when you receive a cookie or prevent cookies from being sent. If you disable cookies, however, you may not be able to use certain personalized functions of this website.
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-##### 10\. Security
+**Third Party Service Providers**
 
-Forum Foundry, Inc. maintains physical, electronic, and procedural safeguards to help guard personally identifiable information. If transactions are offered on the site, transaction information is transmitted to and from Forum Foundry, Inc. website(s) in encrypted form using industry-standard Secure Sockets Layer (SSL) connections to help protect such information from interception. Forum Foundry, Inc. restricts authorized access to your personal information to those persons who have a legitimate purpose to know that information to provide services to you and those persons you have authorized to have access to such information. Please be aware, however, that any email or other transmission you send through the internet cannot be completely protected against unauthorized interception.
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-##### 11\. Choice/Opt-Out
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-In order to provide service to you, Forum Foundry, Inc. will send you communications related to your transactions, security or the administration of its website. From time to time, Forum Foundry, Inc. may also wish to send you updates about Forum Foundry, Inc. or promotions. If you do not wish to receive non-transaction/security related communications from Forum Foundry, Inc. properties, please send an email containing your request to support@forumfoundry.com
+**Supplementation of Information**
 
-##### 12\. Data Quality/Access
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-Forum Foundry, Inc. allows you to change, update, or delete the information you may provide in your optional registration form. If you would like to change, update, or delete your personal information, please send an email containing your request to support@forumfoundry.com
+**Contests/Surveys**
 
-##### 13\. Changes to this Privacy Policy
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-Forum Foundry, Inc. reserves the right to modify or supplement this policy at any time. If a material change to the terms of this policy is made, Forum Foundry, Inc. will post a link to the new policy on its website. In the event case of any conflict between the terms of this policy and the terms of any electronic or machine readable privacy policy (for example, a P3P electronic privacy policy), the terms of this written policy shall control.
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-##### 14\. Contacting Us
+**Tell-A-Friend**
 
-If you have questions about this Privacy Statement or the information practices of Forum Foundry, Inc., please contact us by email at support@forumfoundry.com
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-##### 15\. Governing law.
+**What Happens to my Personal Information if I Opt Out?**
 
-This policy and the use of this Site are governed by California law. Any claim related to the Site or this policy shall be brought in a federal or state court in California, within one year after the claim arises. You agree no such claim may be brought as a class action. Users of Forum Foundry, Inc. website(s) consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this policy. Forum Foundry, Inc. is controlled, operated and administered entirely within the United States. If you are located outside the United States, please note the information you provide to us will be transferred to the United States. You hereby consent to this transfer.
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-##### 16\. Children.
+**Transfer of Data Abroad**
 
-Forum Foundry, Inc. does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe Forum Foundry, Inc. has any information from or about anyone under 13, please contact us at support@forumfoundry.com
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-##### 17\. Affiliated sites, linked sites and advertisements.
+**Changes in Our Practices**
 
-Forum Foundry, Inc. expects its partners, advertisers and third-party affiliates to respect the privacy of our users. However, third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a Forum Foundry, Inc. website page, certain content that is actually created or hosted by a third party. Also, through Forum Foundry, Inc. you may be introduced to, or be able to access, information, Web sites, advertisements, features, contests or sweepstakes offered by other parties. Forum Foundry, Inc. is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-##### 18\. Third Party Ad Servers.
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
 
-We may use third-party advertising companies to serve ads when you visit our Web Site. If so, a list of these ad serving companies will be available here. These companies may use information (generally, not including your name, address, e-mail address or telephone number) about your visits to this Web Site and to other web sites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and clear GIFs to measure advertising effectiveness. Any information that these third parties collect via cookies and clear GIFs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or e-mail message). We encourage you to read these businesses’ privacy policies if you should have any concerns about how they will care for your personal information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the Network Advertising Initiative’s consumer web site at <http://www.networkadvertising.org/managing/opt_out.asp>
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
