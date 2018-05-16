@@ -1,125 +1,100 @@
-> *The following text is extracted and transformed from the booshaka.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115161811id_/http%3A//www.booshaka.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booshaka.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Policy - Booshaka
+# Legal Agreement
 
-Booshaka respects your privacy. This Privacy Statement informs you of our privacy practices and of the choices you can make about the way your information is collected online and how that information is used. This statement is readily available on our home page and at the bottom of every Booshaka page.
+**GoDaddy Respects Your Privacy**
 
-  * Sites covered by this Privacy Statement
-  * Collection of personal information
-  * How we use your information
-  * How we share your information
-  * Children's privacy
-  * Your choices and selecting your privacy preferences
-  * Access to and accuracy of your information
-  * Keeping your information secure
-  * Changes to this statement
-  * Contacting us
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-## 1\. Sites covered by this Privacy Statement
+**Information Collection and Use**
 
-This Privacy Statement applies to all Booshaka-owned websites and domains and the websites and domains of our wholly owned subsidiaries ("Booshaka website"), except that a privacy policy or statement posted on Booshaka websites specific to a particular Booshaka program or service will apply instead of this Privacy Statement.
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-### Links to non-Booshaka websites
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-The Booshaka website may provide links to third-party websites for your convenience and information. If you access those links, you will leave the Booshaka website. Booshaka does not control those sites or their privacy practices, which may differ from Booshaka's practices. We do not endorse or make any representations about third-party websites. The personal data you choose to provide to or that is collected by these third parties is not covered by the Booshaka Privacy Statement. We encourage you to review the privacy policy of any company before submitting your personal information.
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We may also provide social media features on our website that enable you to share Booshaka information with your social networks and to interact with Booshaka on various social media sites. Your use of these features may result in the collection or sharing of information about you, depending on the feature. We encourage you to review the privacy policies and settings on the social media sites with which you interact to make sure you understand the information that could be shared by those sites.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-## 2\. Collection of personal information
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-To serve you better and understand your needs and interests, Booshaka collects, exports, and uses personal information with adequate notice and consent, along with required filings with data protection authorities, when applicable. For example, when you order products or services, request information, subscribe to marketing or support materials, register yourself or your Booshaka products, enter contests or participate in surveys, or apply for a job at Booshaka, we will ask you to provide personal information to complete these transactions. The types of personal information you provide to us on these pages may include contact information such as your name, address, telephone number, and email address; financial information such as your credit card number; and other unique information such as user IDs and passwords, billing and transaction information, product and service preferences, contact preferences, educational and employment background, and job interest data.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-If you post, comment or share personal information, including photographs, to any public forum on an Booshaka site, social network, blog, or other such forum, please be aware that any personal information you submit can be read, viewed, collected, or used by other users of these forums, and could be used to contact you, send you unsolicited messages, or for purposes that neither you nor Booshaka have control over. Booshaka is not responsible for the personal information you choose to submit in these forums.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-In addition to the information you provide, Booshaka may also collect information during your visit to a Booshaka website, or a website 'powered by' another company on behalf of Booshaka, through our Automatic Data Collection Tools, which include Web beacons, cookies, embedded Web links, and other information-gathering tools. These tools collect certain traffic information that your browser sends to a website, such as your browser type and language, access times, and the address of the website from which you arrived . They may also collect information about your Internet Protocol (IP) address, click stream behavior (i.e. the pages you view, the links you click, and other actions you take in connection with Booshaka websites or 'powered by' websites) and product information. An IP address is a number that is automatically assigned to your computer whenever you are surfing the Web, allowing Web servers to locate and identify your computer. Computers use IP addresses to communicate on the Internet, allowing users to browse and shop. Booshaka may also use some of these Automatic Data Collection Tools in connection with certain emails sent from Booshaka and therefore may collect information using these tools when you open the email or click on a link contained in the email.
+**Security**
 
-Booshaka also collects information from commercially available sources that it deems credible. Such information may include your name, address, email address and demographic data. The information Booshaka collects from its commercial sources may be used along with the information Booshaka collects when you visit Booshaka's websites. For example, Booshaka may compare the geographic information acquired from commercial sources with the IP address collected by Automatic Data Collection Tools to derive your general geographic area. 
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-## 3\. How we use your information
+**Updating Your Information**
 
-The information Booshaka collects to understand your needs and interests helps Booshaka deliver a consistent and personalized experience. For example, Booshaka may use your information to 
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-  * assist you in completing a transaction or order;
-  * prevent and detect security threats, fraud or other malicious activity;
-  * communicate with you about products and services;
-  * provide service and support;
-  * update you on new services and benefits;
-  * provide personalized promotional offers;
-  * select content to be communicated to you;
-  * personalize some Booshaka websites;
-  * measure performance of marketing initiatives, ads, and websites 'powered by' another company on Booshaka's behalf
-  * allow you to participate in contests and surveys; and
-  * contact you regarding Booshaka products or services.
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
+      iii.      You may call us at: (480) 505-8800
 
-We will give you the opportunity to choose your privacy preferences regarding the communications we send (see Your choices and selecting your privacy preferences).
+       iv.      You may fax us at: (480) 505-8844
 
-The testimonials posted on our Web site are only posted with the expressed permission of the individual or company who provided that testimonial.
+**Sending Emails**
 
-Credit card information is used only for payment processing and fraud prevention. Credit card information and other sensitive personal information required to process a credit decision is not used for any other purpose by our financial services providers or Booshaka and will not be kept longer than necessary for providing the services, unless you ask us to retain your credit card information for future purchases.
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-## 4\. How we share your information
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-Booshaka will not sell, rent or lease your personal information to others except as described in this Statement. Booshaka shares personal information in the following ways: 
+**Compliance with Laws and Law Enforcement**
 
-Booshaka retains service providers and suppliers to deliver complete products, services and customer solutions and to assist Booshaka with marketing and communication initiatives. These providers and suppliers include, for example, credit card processors, providers of customer support and live-help, marketing, email service providers, automated data processors, and shipping agents. Suppliers and service providers are required by contract to keep confidential the information received on behalf of Booshaka and may not use it for any purpose other than to carry out the services they are performing for Booshaka.
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-From time to time, Booshaka participates in marketing initiatives with other companies, including websites 'powered by' another company on behalf of Booshaka. As part of these initiatives, certain Booshaka services and marketing communications may be delivered at the same time as those from other companies. Some of these services and communications offer you the option to share personal information with both Booshaka and the other companies participating in these initiatives. For example, you may receive marketing communications from Booshaka and other companies or have the opportunity to register online for software products from multiple companies. If you choose to provide personal information only to Booshaka, Booshaka will not share this information with the other companies participating in that marketing initiative. If you choose to provide personal information to the other companies, that personal information will be handled according to the privacy policy of those companies which may differ from Booshaka's policies and practices.
+**Third Party Service Providers**
 
-Booshaka will require the export of your personal information to other Booshaka-owned business entities in the US and Worldwide in accordance with this Statement to satisfy your request. Such export is a requirement of providing the information to Booshaka.
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-Except as described in this Statement, Booshaka will not share the personal information you provide to Booshaka with non-Booshaka third parties without your permission, unless to: (i) respond to duly authorized information requests of police and governmental authorities; (ii) comply with any law, regulation, subpoena, or court order; (iii) investigate and help prevent security threats, fraud or other malicious activity; (iv) enforce/protect the rights and properties of Booshaka or its subsidiaries; or (v) protect the rights or personal safety of Booshaka employees and third parties on or using Booshaka property.
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-Circumstances may arise where, whether for strategic or other business reasons, Booshaka decides to sell, buy, merge or otherwise reorganize businesses in some countries. Such a transaction may involve the disclosure of personal information to prospective or actual purchasers, or the receipt of it from sellers. It is Booshaka's practice to seek appropriate protection for information in these types of transactions.
+**Supplementation of Information**
 
-## 5\. Children's privacy
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-Booshaka does not knowingly collect information from children under the age of 13 and does not target its websites to children under 13. We encourage parents and guardians to take an active role in their children's online activities and interests.
+**Contests/Surveys**
 
-## 6\. Your choices and selecting your privacy preferences
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-Booshaka gives you the choice of receiving a variety of information that complements our products and services. You can subscribe to receive certain product- and service-specific information and also choose to receive Booshaka general communications. We give you a choice regarding delivery of Booshaka general communications by postal mail, email, telephone, and mobile device.
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-You can make or change your choices about receiving either subscription or general communications at the data collection point or by using other methods, which are listed in the following sections. This option does not apply to communications primarily for the purpose of administering order completion, contracts, support, product safety warnings, driver updates, or other administrative and transactional notices as the primary purpose of these communications is not promotional in nature.
+**Tell-A-Friend**
 
-The communications that you receive from Booshaka will be provided in accordance with this statement. Some communications may utilize automatic data collection tools.
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-### Subscription communications
+**What Happens to my Personal Information if I Opt Out?**
 
-Subscription communications include email newsletters, software updates, etc. that may be expressly requested by you or which you consented to receive. After you request such communications, you may opt out of receiving them by using one of the following methods:
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-  * Select the email 'opt out' or 'unsubscribe' link, or follow the opt-out instructions included in each email subscription communication.
-  * To unsubscribe from messages delivered to mobile devices, reply to the message with the words 'STOP' or 'END'.
-  * Return to the Web page(s) where you originally registered your preferences and follow the opt-out instructions.
-  * Write an email to [Booshaka](mailto:info@booshaka.com). Be sure to provide your name, relevant contact information, and specific relevant information about the Booshaka subscriptions that you no longer wish to receive. 
+**Transfer of Data Abroad**
 
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
+**Changes in Our Practices**
 
-Please be aware that when you opt out of receiving certain subscription communications, it may affect the services you have chosen to receive from Booshaka where accepting the communications is a condition of receiving the services. 
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-### Booshaka general communications
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
 
-Booshaka general communications provide information about products, services, and/or support. This may include new product information, special offers, or invitations to participate in market research.
+**Contacting Our Site**
 
-## 7\. Access to and accuracy of your information
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
 
-Booshaka strives to keep your personal information accurately recorded. We have implemented technology, management processes and policies to help maintain data accuracy. Booshaka provides individuals with reasonable access to personal information that they provided to Booshaka and the reasonable ability to review and correct it or ask for anonymization, blockage, or deletion, as applicable. To protect your privacy and security, we will also take reasonable steps to verify your identity, such as requiring a password and user ID, before granting access to your data. To view and change the personal information that you directly provided to Booshaka you can return to the Web page where you originally submitted your data and follow the instructions on that Web page or write an email to [Booshaka](mailto:info@booshaka.com).
+* * *
 
-## 8\. Keeping your personal information secure
-
-Booshaka takes seriously the trust you place in us. To prevent unauthorized access or disclosure, to maintain data accuracy, and to ensure the appropriate use of the information, Booshaka utilizes appropriate physical, technical and administrative procedures to safeguard the information we collect.
-
-When collecting or transferring sensitive information such as credit card information we use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. The personal information you provide us is stored on computer systems located in controlled facilities which have limited access. When we transmit highly confidential information (such as credit card number or password) over the internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
-
-Credit card numbers are used only for processing payments and are not used for other purposes. As part of real-time payment processing, Booshaka subscribes to a fraud management service. This service gives you and Booshaka an extra level of security to guard against credit card fraud and to protect your financial data. 
-
-## 9\. Changes to this statement
-
-If we change our privacy statement, we will post the revised statement here, with an updated revision date. If we make significant changes to our statement, we may also notify you by other means, such as sending an email or posting a notice on our home page.
-
-## 10\. Contacting us
-
-We value your opinions. If you have comments or questions about our privacy statement, please send them to [Booshaka](mailto:info@booshaka.com).
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
