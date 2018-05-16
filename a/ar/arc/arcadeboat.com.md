@@ -1,99 +1,100 @@
-> *The following text is extracted and transformed from the arcadeboat.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318133216id_/http%3A//arcadeboat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadeboat.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Arcadeboat | Privacy Policy
+# Legal Agreement
 
-ARCADEBOAT PRIVACY POLICY
+**GoDaddy Respects Your Privacy**
 
-This Privacy Policy ("Policy") explains what information Arcadeboat (referred to herein as "Arcadeboat", "Company", "we", “us”, or “our”) collect from individuals who visit the Arcadeboat.com website (the "Site") and/or participate in the resources offered by Arcadeboat ("User(s)" or "you"). This Policy also explains how the Company uses and maintains that information.
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-**Changes to this Privacy Policy**
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-If we decide to change our privacy practices, we will post those changes to this Policy or other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-We reserve the right to update or modify this Policy at any time, so please review it frequently. If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on the Site’s home page.
+**Information Collection and Use**
 
-This Policy applies only to information collected through the Site, but not to information collected or obtained from other sources.
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-We collect two kinds of information through the Site. The first kind is information that can identify you as a specific individual - such as your name and email address (“Personally Identifiable Information” or "PII"). We only collect PII when you have contacted us directly (See "Collection of Personally Identifiable Information" below). The second kind of information is the kind of non-personally identifiable information ("NPII") collected and stored automatically by many websites. It includes, for example, information about your Internet service provider, operating system, type of browser, geographic location, and pages viewed on the Site. Although this information is related to you, it is not associated with your PII and cannot be linked to you personally.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-If you do not want your information to continue to be collected and used as provided in this Policy, you should not access or use the Site again.
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-In addition, the Site and games within the Site may display advertisements from third parties before and/or during gameplay. All advertisements from the Site and games within the Site shall collectively be known as “Third Party Content”. Your dealings with Third Party Content, including, but not limited to, your interaction with its advertisements and promotions, purchase of its goods, or any other type of involvement, are solely between you and the third party. Therefore we do not endorse the advertisements, products or other materials of the Third Party Content. If you interact with the Third Party Content, their terms and conditions and privacy policies apply to your rights and obligations with respect to such interaction. Accordingly, such third parties may collect PII or NPII about you.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-**Collection of Personally Identifiable Information**
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-PII is collected by Arcadeboat only when you provide it to us via the "Contact Us" page, in which the Site asks for your name and email address so that you can receive a response to any questions you may have.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-If you do not want us to collect your PII as described above or to use and share your PII as described further below in this Policy, you should NOT provide it to us through the Site feature described above. By providing us with your PII using this feature, you are authorizing our use and sharing of your PII as described in this Policy and any subsequent revisions to this Policy that we may publish on the Site.
-
-**Updating Your Personally Identifiable Information.**
-
-If your PII changes, or if you no longer desire our service, you may correct, update, amend, or remove it by emailing our Customer Support at info@arcadeboat.com or by going to our Contact Us page.
-
-We will retain your information for as long as needed to provide you services. If you wish that we no longer use your information to provide you services, contact us at info@arcadeboat.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-**Social Media (Features) and Widgets:**
-
-The Site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on the Site. These features may collect your IP address, which page you are visiting on the Site, and may set a cookie to enable the feature to function properly. Social Media Features and Widgets are hosted by a third party. Your interactions with these Features are governed by the privacy policy of the third party company providing it.
-
-**Children's Privacy**
-
-We do not knowingly collect PII from anyone under 13 years of age. We cannot and will not independently verify that all of our Users are at least 13 years old, but we will remove from our files any PII of anyone we discover to be under 13 years old.
-
-**Use and Sharing of Personally Identifiable Information**
-
-We reserve the right to use PII: (1) for the specific purpose for which such information was provided as stated above; and (2) as otherwise stated in this Policy.
-
-We do not share, sell or trade any of your PII with any third parties other than described herein. We may share your PII with our parent company and its principals, employees, consultants, officers, directors, members, agents, subsidiaries, or affiliates (collectively "Related Companies"). Neither we nor our Related Companies contribute to or participate in cooperative databases, which give other companies access to your PII.
-
-We and our Related Companies may provide access to your PII when legally required to do so, to comply with a court order, to cooperate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of the Site, to limit our legal liability and protect our rights or to protect the rights, property or safety of other users or the public.
-
-We and/or our Related Companies may also disclose your PII to outside companies and consultants that help bring you the services we offer. For example, we and our Related Companies may work with outside companies and consultants to: (a) manage a database of customer information; (b) assist in distributing e-mails; (c) provide fraud prevention; (d) provide customer service by phone; and/or (e) provide other services designed to assist us in maximizing our business potential and maintaining our Site. We and our Related Companies require that these outside companies and consultants agree to keep confidential all information we share with them, and use the information only to perform their obligations to us.
-
-In addition, if we go through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your PII will likely be among the assets transferred. You will be notified by a prominent notice on the Arcadeboat home page of any such change in ownership or control of your PII.
-
-**Non-Personally Identifiable Information**
-
-As with many websites, when you visit the Site, it automatically gathers certain NPII based on your computer information and stores it in log files. This type of technical and statistical information is used to customize your experience at the Site, to help us improve the quality of the Site, to help diagnose problems with the Site server for Site administration purposes and to make your visits easy, convenient and fun.
-
-You can opt out of the use of your NPII from being used by Network Advertising Initiative (“NAI”) members. The NAI opt-out tool was developed in conjunction with NAI members for the express purpose of allowing consumers to "opt out" of the behavioral advertising delivered by NAI members. If you opt-out of the use of your NPII from being used by NAI members, you will continue to receive ads, however, it will prevent NAI members from delivering ads tailored to your preferences and usage patterns. If you opt out of Interest-Based Advertising (as defined [here](http://www.networkadvertising.org/understanding-online-advertising/what-is-it)) by one or more NAI member company, that choice will be stored in “opt-out cookies.” If you ever delete opt-out cookies from your browser (such as by clearing all cookies), buy a new computer, or change web browsers, you'll need to renew your opt-out choices. NAI member companies need to be able to read an "opt-out" cookie on your browser to know not to collect and use data for interest-based advertising purposes. For more information or to opt-out click <http://www.networkadvertising.org/choices/>.
-
-**Cookies**
-
-The Site uses "cookies" and similar means to collect aggregate Internet traffic statistics and to enhance your experience at the Site. A cookie is a small text file that is placed on your hard disk by a web page server. Cookies contain information that can later be read by a web server in the domain that issued the cookie to you. Cookies cannot be used to run programs or deliver viruses to your computer. The Site uses cookies to recognize your preferences, temporarily store session information. This helps to display your customized content and advertising on your later visits to the Site. If you do not want the Site to deploy cookies in your browser, you can set your browser to reject cookies or to notify you when a website tries to put a cookie in your browser software. If you choose to decline cookies, however, you may not be able to fully experience the interactive features of the Site and it may affect your ability to use some of the products and/or services at the Site. We do not tie any PII to the cookies that we set.
-
-**Third Party Cookies**
-
-The use of cookies by our third party advertisers as well as third party ad servers is not covered by our privacy policy (as explained in the NPII section above). We do not have access or control over these cookies. These third parties use session ID cookies to gather anonymous information.
-
-**Web Beacons**
-
-The Site may contain electronic images known as "web beacons" which are also sometimes called single-pixel gifs. Web beacons may be used to assist in delivering cookies, allow us to count Users who have visited the Site pages and to deliver services via the Site. We may also include web beacons in email messages in order to determine whether such messages have been opened and acted upon. If any partner advertises on the Site, we may work with them to place web beacons on their website to allow Arcadeboat to collect statistics on how often clicking on those advertisements on the Site results in a purchase or other action on such partner's website. Arcadeboat may also employ web beacons from third party partners in order to help compile aggregated statistics regarding the effectiveness of our promotional campaigns or other operations of the Site. Arcadeboat will never allow web beacons on the Site to be used by third parties (other than Related Companies) to collect or access your PII. We do not tie web beacons to any PII you submit while on our Site.
-
-**Use and Sharing of Non-Personally Identifiable Information (NPII)**
-
-We do not share, sell or trade any of your NPII with any third parties other than described herein. We may share your NPII with our Related Companies. Neither we nor our Related Companies contribute to or participate in cooperative databases, which give other companies access to your NPII.
-
-We and our Related Companies may provide access to your NPII to third parties when legally required to do so, to comply with a court order, to cooperate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of the Site and/or to limit our legal liability and protect our rights.
-
-We and/or our Related Companies may also disclose your NPII to outside companies and consultants that help bring you the services we offer. For example, we and our Related Companies may work with outside companies and consultants to: (a) manage a database of customer information; (b) assist with direct marketing and data collection; (c) provide data storage and analysis; (d) provide fraud prevention; and/or (e) provide other services designed to assist us in maximizing our business potential and maintaining our Site. We and our Related Companies require that these outside companies and consultants agree to keep confidential all information we share with them, and use the information only to perform their obligations to us.
-
-In addition, if we go through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your NPII will likely be among the assets transferred. You will be notified by a prominent notice on the Arcadeboat home page of any such change in ownership or control of your NPII.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
 **Security**
 
-We have implemented technical, administrative and physical security measures to protect Information from unauthorized access and improper use. We keep information on servers that are protected by firewalls and located in a physically secure facility accessible only to our authorized employees and personnel of the Related Companies. From time to time, we review our security procedures in order to consider appropriate new technology and methods. Please be aware though, that, despite our reasonable efforts, no security measures are impenetrable and any information transmitted to us or through the Site will be at your own risk.
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-**Links from the Site**
+**Updating Your Information**
 
-The Site provides links to the websites of many third parties. If you click through to any of these third party web sites, our Policy will not apply to your use of, and activities on, those third party sites. We encourage you to read the legal notices posted on these sites, including but not limited to their privacy policies. We shall have no responsibility or liability for your visitation to, and the data collection and use practices of, these sites. All inquiries concerning the use of PII by a third party must be communicated to that third party and not to Arcadeboat.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-**Your California Privacy Rights**
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request by email to privacy@arcadeboat.com. Please allow 30 days for a response.
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-**QUESTIONS AND CONCERNS**
+      iii.      You may call us at: (480) 505-8800
 
-If you have any questions or concerns about this Policy or its implementation, please email us at privacy@arcadeboat.com. For general questions about Arcadeboat, please email us at support@arcadeboat.com.
+       iv.      You may fax us at: (480) 505-8844
 
-Updated: May 6, 2015
+**Sending Emails**
+
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+
+**Compliance with Laws and Law Enforcement**
+
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+
+**Third Party Service Providers**
+
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
