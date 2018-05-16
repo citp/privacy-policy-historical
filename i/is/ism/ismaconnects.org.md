@@ -1,108 +1,100 @@
-> *The following text is extracted and transformed from the ismaconnects.org privacy policy that was archived on 2011-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110316064631id_/http%3A//www.yourmembership.com/legal.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ismaconnects.org privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Membership Software | Membership Management Software | YourMembership.com
+# Legal Agreement
 
-  
+**GoDaddy Respects Your Privacy**
 
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-### Trademarks
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-YourMembership.com and The Complete Online Member Community registered trademarks of YourMembership.com, Inc. and may not be used in connection with any service or product that is not YourMembership.com's, in any manner that is likely to cause confusion among customers or users, or in any manner that disparages or discredits YourMembership.com. 
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-### Digital Millennium Copyright Act
+**Information Collection and Use**
 
-The Digital Millennium Copyright Act of 1998 ("DMCA") provides recourse for copyright owners who believe that their rights under U.S. copyright law have been infringed on the Internet. Under the law, copyright owners who believe that their rights have been infringed by unauthorized use of their protected works appearing online may contact the service provider hosting the material in question, directly or through their authorized agents, and request that the infringing material be removed or access to it disabled.
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-YourMembership.com takes allegations of copyright infringement very seriously. If you believe in good faith that YourMembership.com is the hosting service provider of material that infringes your copyright, you may submit a written notification of claimed infringement to YourMembership.com's designated agent:
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-**By Mail:**  
-DMCA Designated Agent  
-YourMembership.com, Inc.  
-300 First Avenue South, Suite 300  
-St. Petersburg, FL 33701  
-United States
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-**NOTE:** No other notices or communications should be sent to the designated agent, who is appointed solely for the purpose of receiving notices of copyright claims under the DMCA.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-Specific requirements for proper notification of claimed infringement are set forth in the DMCA (see 17 U.S.C. Sec. 512(c)(3)). Valid notification must be a written communication that includes all of the following elements:
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-  * Signature of copyright owner or person authorized to act on behalf of the owner; 
-  * Identification of copyrighted work claimed to be infringed; 
-  * Identification of the material claimed to be infringing or to be the subject of infringing activity and information reasonably sufficient to permit the service provider to locate the material; 
-  * Information reasonably sufficient to permit the service provider to contact the complaining party (address, phone number and, if available, email address); 
-  * A statement that the complaining party has a good faith belief that use of the material in the manner complained is not authorized by the copyright owner, its agent, or the law; 
-  * A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of the exclusive right allegedly being infringed. 
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
+**Security**
 
-Please be aware that there are substantial penalties for false claims. If a notice of copyright infringement has been wrongly filed against you, you may submit a counter notification to the service provider's designated agent. A valid counter notification is a written communication that incorporates the following elements: 
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-  * A physical or electronic signature; 
-  * Identification of the material that has been removed or to which access has been disabled and the location at which the material appeared before it was removed or access to it was disabled; 
-  * A statement under penalty of perjury that you have a good faith belief that the material was removed or disabled as a result of mistake or misidentification; 
-  * Your name, address, and telephone number, and a statement that you consent to the jurisdiction of federal district court for the judicial district in which the address is located, or if your address is outside of the U.S., for any judicial district in which the service provider may be found, and that you will accept service of process from the complainant. 
+**Updating Your Information**
 
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-This information should not be construed as legal advice. YourMembership.com advises that you seek independent legal counsel before filing a notification or counter-notification. For further information about the DMCA, please visit the Website of the U.S. Copyright Office at: http://www.copyright.gov/onlinesp. 
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-### YourMembership.com Privacy Policy
+      iii.      You may call us at: (480) 505-8800
 
-At YourMembership.com, we are committed to protecting your privacy. We do not rent or resell your personal information to third parties for marketing purposes. The information we collect is used to provide services to our customers and this statement of privacy explains data collection and use in those situations. Please read this complete privacy statement. 
+       iv.      You may fax us at: (480) 505-8844
 
-YourMembership.com, Inc. is not responsible for the content or privacy practices of non-YourMembership.com websites to which this Site or any other YourMembership.com website may link. Also, YourMembership.com is not responsible for the privacy practices of its customers or users of its customer websites. You should review any additional privacy policy and terms of use agreements of the entity from whose website you clicked-through before using the site.
+**Sending Emails**
 
-Please note that the practices of YourMembership.com, Inc., its affiliates, and agents ("YM"), with respect to data collected and used by YM in connection with this website and all other YM affiliated websites, and its affiliates with links to this policy (collectively, the "Site") and YM services available or enabled via the Site ("Services"), are governed by this online privacy policy ("Privacy Policy") as amended from time to time, and not the privacy policy in effect at the time the data was collected. Please regularly review our Privacy Policy. If you have objections to the Privacy Policy, you should immediately discontinue use of the Site and the Services enabled by the Site and follow the procedure described in the section entitled "Updating your personal information and privacy preferences". This Privacy Policy does not govern privacy practices associated with offline activities, websites other than the Site, or any products or services not available or enabled via the Site. Notwithstanding the foregoing, to the extent that any terms of the Privacy Policy conflict with the terms of an existing written (including electronic) agreement between you and the website from which this policy is linked regarding the use of specific areas of the Site or specific.
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-### European Union Safe Harbor
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-YM adheres to the European Union Safe Harbor principles as set forth by the United States Department of Commerce regarding the collection, use, and retention of personal information covered by the Privacy Policy from the European Union.
+**Compliance with Laws and Law Enforcement**
 
-### Changes in Privacy Policy
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-All personal information ("personal information" is defined as any information that identifies or can be used to identify the person to whom such information pertains) that we collect and maintain will be subject to this Privacy Policy, as amended from time to time. YM may change the Privacy Policy from time to time at its sole discretion and will provide notice of changes in the Privacy Policy and on the privacy policy page of YourMembership.com. If as the result of such changes you want to alter the ways in which YM is allowed to use your personal information, you can do so by following the procedure described in the section entitled "Updating your personal information and privacy preferences." You will be deemed to have been made aware of, and will be subject to, the changes to the Privacy Policy after such notice has been posted with the following exception: if at the time you provide personal information to YM you limit how such information will be used to communicate with you, either by YM or by third parties, YM will not change your preference in this regard without your express consent. However, if YM sells assets (or the assets of a division or subsidiary) to another entity, or YM (or a division or subsidiary) is acquired by or merged with another entity, you agree that YM may provide to such entity customer information that is related to that part of our business that was sold to or merged with the other entity without obtaining your further consent, but YM will provide notice of such asset sales, acquisitions, or mergers on this Site.
+**Third Party Service Providers**
 
-### Entities collecting personal information
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-Personal information on this Site is collected on behalf of the entity from whose web page you clicked-through and who is responsible for this site content and data. Please contact the organization responsible regarding collection questions and data privacy.
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-The Site contains links to other sites at which personal information is collected. In such instances, unless expressly provided otherwise, the collection and use of your personal information will be governed by the privacy policy applicable to that site. That privacy policy should identify the entity that is collecting your personal information.
+**Supplementation of Information**
 
-### Updating your personal information and privacy preferences
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-You have the right to access and correct your personal information and privacy preferences at any time. With respect to Profile Information, this may be accomplished by linking to your account at "Edit My Profile", where you can view and make changes to your personal information. You may also access and correct your personal information and privacy preferences (such as whether you wish to receive promotional communications) by writing the entity at their specified address within their contact information page on the site from which you have clicked.
+**Contests/Surveys**
 
-Personal information submitted through this Site or in connection with the Site that is not Profile Information or is not accessible online. To access and/or correct such information and privacy preferences (such as whether you wish to receive promotional communications), you may write the entity of contact them via their online contact form. In your correspondence, please detail the location on this Site or otherwise where you provided your personal information. You may expect a response within 30 days. For information submitted in connection with Products and Services, you may also follow instructions included or referenced within such Product and Service to access or correct the information.
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-### Collection of personal information
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-As a visitor to this Site, you can engage in many activities without providing any personal information. In connection with other activities, such as utilizing online or hosted Services, the Site may ask you to provide certain information about yourself by filling out and submitting a form. It is optional for you to engage in these activities. If you elect to engage in these activities, however, the Site may ask that you provide personal information, such as your first and last name, mailing address (including postal code), country of residence, e-mail address, employer, title, telephone and facsimile numbers, and other personal information. When participating in electronic commerce via the Site, you may be asked to provide a credit card number. Depending upon the activity, some of the information that is asked of you may be mandatory and some may be voluntary. If you do not provide the mandatory data with respect to a particular activity, you will not be able to engage in that activity. Similarly, if you wish to delete your information (pursuant to the mechanism set forth in "Updating your personal information and privacy preferences") that is mandatory, you will no longer be able to engage in a particular activity.
+**Tell-A-Friend**
 
-When you use the Site and the Products and Services, the Site may also collect certain information about your computer to facilitate and evaluate your use of the Site and the Products and Services. For example, the Site may log environmental variables, such as browser type, operating system, CPU speed, referring or exit webpages, and the Internet Protocol (IP) address of your computer. The Site also uses such information to measure traffic patterns on the Site and usage of the YM Services. YM does not match such information with any other information held by YM unless we have your consent.
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-By using this Site, you agree and acknowledge that personal information collected through the Site or in connection with the services provided may be transferred across national boundaries and stored and processed in any of the countries around the world in which YM maintains offices, including the United States. You also acknowledge that in certain countries or with respect to certain activities, the collection, transfer, storage, and processing of your information may be undertaken by trusted third parties. Such third parties are bound by contract with YM not to use your personal information for their own purposes or provide it to any third parties. One instance where this could occur is in conjunction with framed pages in which the URL for the pages is not visible, and the pages are hosted for YM by such third parties. For example, on the sign up pages for some newsletters, the pages may be hosted by a third party vendor, but appear to be pages operated by YM and are governed by the YM privacy policy.
+**What Happens to my Personal Information if I Opt Out?**
 
-Unless expressly provided to the contrary, personal information that you provide while you are visiting a third party provider's website will be subject to the privacy policy posted on that site, and personal information that you provide while on this Site will be subject to this Privacy Policy.
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-### How your personal information is used
+**Transfer of Data Abroad**
 
-YM collects your information in order to record, support and facilitate your participation on the Site from which this policy is linked. If you subscribe to or register on the site, for example, the information is used provide access to the website and other benefits that may be made available to registered users. Your personal information is also used to track your website preferences and keep you informed within the community unless you have opted not to receive such communications or such communications are prohibited by law.
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-YM may collect information about the use of the Services and the Site, such as the number of downloads, types of Services used, how many users we receive daily, and the IP/Internet address of your computer. This information is collected in aggregate form, without identifying any user individually.
+**Changes in Our Practices**
 
-YM may use this aggregate, non-identifying statistical data for improving the Site and Services, providing more relevant experiences to our customers and for statistical analysis.
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-### Privacy complaints
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
 
-YM takes its users' privacy concerns seriously. If you believe that YM has not complied with this Privacy Policy with respect to your personal information, you may write to the YM Privacy Officer at the following address or fill out a privacy complaint form:
+**Contacting Our Site**
 
-YourMembership.com, Inc.  
-Attn: Privacy Officer  
-300 First Avenue South, #300  
-St. Petersburg, FL 33701  
-USA  
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
 
+* * *
 
-In your letter, please describe in as much detail as possible the ways in which you believe that the Privacy Policy has not been complied with. We will investigate your complaint promptly. 
-
-Please note that YM is not responsible for the content or privacy practices of non-YM websites to which this Site or any other YM website may link. Also, YM is not responsible for the privacy practices of its customers or users of its customer websites. You should review the additional privacy policy of the customer site before using the site.
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
