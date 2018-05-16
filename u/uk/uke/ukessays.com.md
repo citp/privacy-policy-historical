@@ -1,91 +1,92 @@
-> *The following text is extracted and transformed from the ukessays.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911161151id_/https%3A//www.ukessays.com/contact/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukessays.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516054459id_/https%3A//www.ukessays.com/contact/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | UK Essays
 
-UK Essays is a website belonging to All Answers Limited, a UK Registered Company (No. 4964706). We take the privacy of your information very seriously.
+UK Essays is a website belonging to All Answers Limited, a UK registered company (No. 4964706) and registered data controller (No. Z1821391). We can be contacted using the details given at the bottom of this page.
 
-Our privacy policy below explains how we will collect and use the information you give us. We may vary this policy from time to time and the current version will be that published on this site. The word 'we' refers to All Answers Limited, unless otherwise indicated.
+This privacy policy tells you what to expect when we collect and process your personal data, the rights that are available to you and how you can exercise them.
 
-## Collecting your information
+## What we do with your data
 
-From time to time, you will be asked to submit personal information about yourself (e.g. name and email address etc) in order to receive or use services on our website(s). This may happen, for example, when you make a purchase from us, when you apply to be a writer, when you subscribe to a newsletter, when you enter a competition or when you register for personalised services such as your customer control panel.
+We will never sell your personal data for any reason, though sometimes it will be necessary to transfer your data to a third party to be processed. Your data is processed for certain specific reasons:
 
-We will also need personal information in order to supply our products and services to you, and sometimes to help us identify you when you contact us. When we collect this information we will take reasonable measures to ensure that it is transmitted to us securely. We will only collect payment information over a secure connection.
+### Essential data
 
-If you communicate with us by email over the Internet you should be aware that the nature of the Internet is such that unencrypted communication may not be secure and may pass through several different countries on route to us. Please do not email us with confidential or sensitive information such as your credit card details. We cannot accept responsibility for unauthorised access to your information that is outside our control.
+To create an online account so you can manage and download your orders, we generate a unique identifier and use your email address as a username.
 
-We may combine this information with other information that we may hold about you if you are an existing customer, or have made enquiries of us before.
+So that we can get in touch with you about your order, we need to know your name, email address, phone number and any messages you have sent through your online account.
 
-We will act in accordance with current legislation and we will maintain a link to our privacy policy, which includes our Data Protection Notice, in a prominent place on our website.
+On the order form, we ask for your country of study. This is because we are required to know the country in which you are downloading your order for VAT purposes.
 
-### UK Essays Data Protection Notice
+To process your order properly, we also need to keep details about the assignment you are asking us to complete as well as any files you have uploaded to your order. You should try to remove all personal data from anything you upload, but we will do our best to anonymise it before passing it on to our writers.
 
-Unlike many reputable (and many more not so reputable) companies who trade on the Internet, we will **_NEVER_** share the information you provide, together with other information, with any other company.
+Sometimes, when a file is too large to upload to our database, we will ask you to use a service called WeTransfer to send it to us. These files remain on WeTransfer's servers for 28 days, after which they are automatically deleted. You can read WeTransfer's privacy policy [here](https://wetransfer.com/legal/privacy).
 
-We may use the information you provide for administration, marketing, customer services and profiling your purchasing preferences. However, we promise not to send you more than four marketing communications per month, and we promise to give you the ability to stop receiving marketing communications at any time.
+### Marketing
 
-For information about the way we use cookies and other web tracking devices please refer to the sections below in this privacy policy.
+If you have explicitly consented to receive direct marketing from us, or if you have ordered from us in the past, we will sometimes use your name and email address to send you offers and promotions about the services we provide. We do this using a service called Mailchimp. You can read Mailchimp's privacy policy [here](https://mailchimp.com/legal/privacy/).
 
-If you give us information about another person, in doing so you confirm that they have given you permission to provide it to us and for us to be able to process their personal data (including sensitive personal data) and also that you have told them who we are and what we will use their data for, as set out in this notice.
+Similarly, we might also use your name and phone number to text you about offers and promotions that we are currently running. We do this using a service called Esendex. You can read Esendex's privacy policy [here](https://www.esendex.co.uk/privacy-policy).
 
-You have the right to ask for a copy of your information (for which we reserve the right to charge a small fee) and to correct any inaccuracies.
+We will only ever call you about an existing service you have asked us to provide or to talk about something important related to your account.
 
-For our joint protection and training purposes, telephone calls may be recorded and/or monitored.
+### Feedback
 
-### Informing you about products and services
+Sometimes we use a service called Survey Monkey to administer surveys so that we can gather feedback from our customers and improve the services we provide. Survey Monkey use your IP address to log responses to surveys so that we know how many people have completed them. In order to encourage people to provide feedback, we might offer a prize draw for respondents. If so, we will ask for an email address to be provided in the survey, but this is entirely optional and is only used to contact the winner of the prize. You can read Survey Monkey's privacy policy [here](https://www.surveymonkey.co.uk/mp/legal/privacy-policy/).
 
-We offer student education related products such as plagiarism software, past papers, marking and proofreading services. By providing us with your contact details, you will be indicating to us your consent to us contacting you by mail, telephone, fax, email, and SMS/MMS to let you know about any goods, services or promotions of our own which may be of interest to you unless you indicate an objection to receiving such messages.
+### Other purposes
 
-As stated in our Data Protection Notice, we will never send you more than four marketing communications per month (in practice, we rarely send out more than one marketing communication per month) and we will always give you the opportunity of opting out of such marketing communications.
+Sometimes, we offer coupons to individual customers for use with future orders. To ensure only the intended recipient of the coupon can use it, we store their email address alongside the coupon details. These addresses are not used for anything other than the administration of coupons.
 
-### Sensitive data
+When you place an order, our system stores your IP address. This address is used to work out your time zone so that we can call you during hours that are convenient for you. It is also used to identify when a customer is using multiple accounts to place their orders.
 
-You may be asked on the telephone to give your credit or debit card details for the purpose of paying for a service you have requested from us. You will always have the option to enter these through our website instead, which uses Barclay's Secure Merchant Services. We also accept Paypal payments which do not require you to hand over your credit or debit card details.
+For payments over a certain amount, we ask for documents to prove you are the registered account holder. This is so that we can prevent fraudulent transactions, such as people paying with stolen card details.
 
-We never store customers' sensitive data - for example, credit or debit card details.
+In order to establish the facts in case of a legal dispute, we archive anything that might be relevant to the negotiation or performance of a contract (for example, messages or order instructions). Access to this archived data is strictly controlled so that only a few privileged employees can see it, and it is only ever used for the specific purpose of supporting a legal case. Some of this data may be shared with our legal counsel in the unlikely event of a dispute.
 
-If you are a writer for our company, you acknowledge that to speed up the processing of your invoices, we need to store your bank details as supplied by you. We promise to take all reasonable precautions to ensure these are kept safe.
+### Cookies
 
-### How we collect information about your visits to our websites
+Our websites set cookies in your browser to improve your experience and to make everything run smoothly. For more information, please read our cookie policy.
 
-When you visit our web pages, we may check your IP address to determine your location. This helps us give you content relevant to where you are located.
+## Your rights
 
-We may put something called a `cookie' on your computer. Thousands of reputable websites use cookies and you should not be alarmed by this. They help us track how often you visit the website. They also help us confirm your identity when you log into our website, and they help us determine whether you are logged in or logged out.
+By law, you have a number of rights available to you when you give us your personal data. You can ask for access to any of your personal data that we hold; you can ask us to correct any inaccuracies in your personal data; you can ask us to delete your personal data where there is no longer any good reason for us to have it; you can object to the processing of your data in some cases; and, where you have given consent, you are able to withdraw that consent at any time. Under certain circumstances, such as if the data is material to legal proceedings, you can also ask us to temporarily stop processing your personal data. Where your data is automatically processed, you can also ask for a copy of your data in a machine-readable format.
 
-Some of our websites use analytics software which records non-personal statistical information about what you do on the website. For example: the duration of time a page was viewed, common paths taken through the site, data on screen settings and other general information. None of this information is person-specific.
+If you would like to exercise any of your rights listed above, please send your request to our data protection officer at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) After we have received proof of your identity, we will respond to your request within one calendar month.
 
-## What will we do with your personal information?
+If you are not happy with how we have handled your personal data, you have the right to lodge a complaint with the Information Commissioner's Office.
 
-We will only use your information for the purposes that you would reasonably anticipate or that we state when we collect it and, where necessary, for which you have given us your consent. We will not contact you, or pass your information to any other person or company, ever.
+## How we keep your data safe
 
-We are committed to treating your personal data with due care and in accordance with the data protection principles. In addition, you will see that our privacy policy is far more protective than many major companies, who often reserve the right to pass your details to third parties for marketing.
+### Security measures
 
-### How to access your personal information
+We use a variety of technical and organisational measures to make sure your personal data is stored and transmitted securely. For example, we make diligent use of encryption whenever personal data is being transmitted to a third party and we make regular backups in case the original copy of your data is lost. All of our core database functionality, including most of your personal data, is processed using Amazon Web Services (AWS), who are a cloud computing provider. AWS are certified to be ISO 27001 compliant, which is the gold standard in information security, so you can rest assured that your personal data is secure and protected.
 
-If you would like to see a copy of the information that we hold for you, please email our enquiries team, and mark your email for the attention of the legal department. We reserve the right to ask you to provide certain information to help us confirm your identity.
+If you communicate with us by email over the Internet, you should be aware that the nature of the Internet is such that unencrypted communication may not be secure and may pass through several different countries en route to us. Please do not email us with confidential or sensitive information such as your credit card details. We cannot accept responsibility for unauthorised access to your information that is outside our control.
 
-We reserve the right to charge a small fee for the provision of this information, although we will probably not do so.
+### Data retention policy
 
-If you believe that any of the data we hold about you is incorrect or being misused or want further information you may contact us at our enquiries email address.
+We only process your data when we need it to fulfil the purpose it was originally collected for, such as to provide a service, to gather feedback or to comply with a legal obligation. This means that retention policies for your data can differ considerably depending on the context and the way it is used. When deciding on a retention policy for any type of data, we use the following criteria:
 
-### Users aged 16 years and under
+  * **How long is the data needed for?** \- For example, if you have not logged in to your account for several years, we might remove you from our mailing lists.
+  * **What did we say we would do with the data when we collected it?** \- If the purposes for which we originally collected the data are no longer relevant, there is no need to keep hold of it.
+  * **Do we have a legal obligation to keep the data?** \- For example, financial information needs to be kept for a minimum amount of time for tax reasons.
+  * **Does holding the data carry an inherent risk?** \- In the unlikely event of a data breach, we want to ensure that nothing sensitive is stolen. We will therefore have reduced retention periods for data we consider to be sensitive.
 
-If you are 16 or under you must have permission from a parent or guardian before you give us personal information. If we find that we have received information from you without the appropriate consent, we reserve the right to cancel all transactions and services and remove all personal data that you have supplied. You will be able to re-submit the information when you have the required permission.
 
-### What is a cookie?
 
-Cookies are text files that identify your computer (through what is known as an IP address) to our server. 
+### Transfers to countries outside the EEA
 
-You generally have the opportunity to set your computer to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at any time. You can do this through your Internet browser. With most browsers, this facility can be reached via the `tools' (e.g. Internet Explorer), or `edit', or 'task' (e.g. Netscape) menu. If you have any problems finding this area, the `help' function within your browser will be able to provide assistance.
+Some of the third parties we use to process your data are based in countries which do not have the same standard of data protection laws that EU citizens enjoy. In these cases, we have made sure there are safeguards in place to protect your rights and interests. For example, Survey Monkey and Mailchimp are both located in the United States, but we have made sure that they both comply with the EU-U.S. Privacy Shield Framework, which guarantees the same level of protection.
 
-If you refuse a cookie it may prevent the proper operation of the site or even prevent your access to certain areas. The customer login area, for example, relies on cookies to help identify you, and to identify if you are logged in or logged out at any time.
+### Children
 
-[Click here for more information about the cookies we use on this website.](https://web.archive.org/cookie-info.php)
+If you are 13 or under, you must have permission from a parent or guardian before you give us your personal information. If we find that we have received information from you without the appropriate consent, we reserve the right to cancel all transactions and services and remove all personal data that you have supplied. You will be able to re-submit the information when you have the required permission.
 
-## Links to other websites
+### Links to other websites
 
-Our websites may contain links to other sites outside the group. All Answers Limited is not responsible for the privacy and security of these sites unless they belong to All Answers. This privacy policy applies only to All Answers Limited Websites.
+Our websites may contain links to external third-party websites. We are not responsible for the privacy and security of these websites unless they belong to All Answers Limited. This privacy policy applies only to UK Essays.
 
-If you are unsure whether a website belongs to All Answers Limited or not, just email our enquiries email address, or give us a call.
+##### Invest in your future **today**
 
-If you have any more questions about the way we handle data, please call or email us. If you have a more in-depth question, please email our enquiries address, marked for the attention of the legal department.
+[Place an Order](https://web.archive.org/order/?country=2&product=1)
