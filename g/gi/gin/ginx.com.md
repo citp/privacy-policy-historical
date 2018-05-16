@@ -1,59 +1,100 @@
-> *The following text is extracted and transformed from the ginx.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601133826id_/http%3A//ginx.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ginx.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Ginx: Privacy Policy
+# Legal Agreement
 
-This policy tells you how we use and protect your personal information on http://ginx.com. This policy is effective as of January 12, 2009.
+**GoDaddy Respects Your Privacy**
 
-### Information We Collect
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-**No Information Required.** There may be limited parts of our site that you may use without telling us who you are or revealing any information about yourself. 
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-**Information We Collect Upon Registration.** In order to use certain parts of our site we require that you provide us with some basic personal information such as your Twitter user name, and Twitter password. We need your Twitter username and password because Twitter requires that we authenticate your Twitter credentials in order to send & receive information to Twitter on your behalf. 
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-**Information We Collect From Twitter.** If you give us your Twitter username and password, we can and do access the information in your Twitter account as allowed according to the Twitter API. We do this in order to provide functionality for the Ginx service. This information may include Twitter messages you have sent, Twitter messages posted by people you’re following, your direct messages, and public profile information (e.g., name, username, full name, time zone, URL information, one-line bio, location, language, photo). 
+**Information Collection and Use**
 
-**Optional Information.** You may have the opportunity to provide us with additional, optional information about yourself. You may choose to do this because it enhances the Ginx experience for you and/or other Ginx users. 
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-**Log Data.** We may record some or all of the information your browser sends to our servers. This may include information such as your IP address, the domain you are visiting from, your browser type, the pages you visit on our site, and terms you may have searched for. We use this information to monitor and improve the technical performance of our site and to improve the overall Ginx service. 
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-### How We Use Your Information
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-Our primary purpose in collecting and using your personal information is to provide you with a safe, efficient, and customized experience. 
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-**Interacting with Twitter.** As noted above, we use your Twitter username and password to send information to and receive information from Twitter on your behalf. 
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-**Communication.** If you provide us your personal contact information on Ginx (e.g., email, phone number) we may use it to provide you Ginx functionality, market to you, and/or provide you information about the Ginx service. If you do not wish to receive such communication or information from us, please unsubscribe using the instructions provided in the communication. We may also send messages to your Twitter or Ginx account just like any other user of the Twitter or Ginx services. 
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-**Improving our Service.** We may use personal information to better understand user behavior, and research & analysis in order to operate and improve the Ginx service. 
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-**Aggregated Non-Personal Information.** We may share aggregated non-personal information with third parties. 
+**Security**
 
-We do not sell or rent your personal information to third parties without your explicit consent.
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-### How We Protect Your Information
+**Updating Your Information**
 
-We understand that you are trusting us with the personal information you share with us. We take this very seriously and treat your information as an asset that must be protected. Your information is stored on our servers located in the United States. We use tools (encryption, passwords, etc.) to protect your personal information against unauthorized access and disclosure. However, despite our best efforts, there may be third parties that try to hack into our systems or intercept our data communications. Therefore, although we will work very hard to protect your personal information, we cannot guarantee that that your personal information or private communications will remain private 100% of the time. 
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-### Cookies
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-In order to improve the Ginx service and your experience, we use “cookie” technology. A cookie is a small file placed on your hard drive that can be used to do things such as: help us better understand how people use our service, remember your settings when you when you repeatedly visit our site, and let you customize your Ginx experience. A few additional things you might want to know about cookies: 
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-  * You can adjust your cookie settings in your browser (and may turn off cookies entirely)
-  * There are certain features that are only available through the use of cookies
-  * We do not use cookies to collect personally identifiable information
+      iii.      You may call us at: (480) 505-8800
 
+       iv.      You may fax us at: (480) 505-8844
 
+**Sending Emails**
 
-### Our Disclosure of Your Information
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-We may disclose your personal information to respond to legal requirements, enforce our policies, or protect anyone’s rights, property or safety. If we do disclose your information for one of these reasons, we will do it in accordance with applicable laws and regulations. 
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-We may also share your personal information with: 
+**Compliance with Laws and Law Enforcement**
 
-  * Third party service providers necessary to provide the service (e.g., data hosting providers), in which case we require that they comply with our Privacy Policy and take appropriate confidentiality and security measures.
-  * Other third parties whom you explicitly ask us to send your information to
-  * Law enforcement or other government officials, in response to a verified request relating to a criminal investigation or alleged illegal activity. In such event, we will disclose information that is relevant to the investigation.
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
+**Third Party Service Providers**
 
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-We may update this privacy policy from time to time for any reason and will notify you of these changes by posting the new policy on our site. 
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
