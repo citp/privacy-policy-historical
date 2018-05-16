@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the inspirationgreen.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911193758id_/https%3A//www.niftyhomestead.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspirationgreen.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516201009id_/https%3A//insteading.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy, Terms & Conditions • Nifty Homestead
+# Privacy Policy, Terms & Conditions • Insteading
 
 **View Other Policies at:**
 
-  * [Affiliate Policy](http://www.niftyhomestead.com/affiliate/)
+  * [Affiliate Policy](https://insteading.com/affiliate/)
   * Editorial Policy
 
 
@@ -98,7 +98,7 @@ We along with third-party vendors, such as Google use first-party cookies (such 
 
 **California Online Privacy Protection Act**
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: https://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
 
 According to CalOPPA we agree to the following:
 
@@ -176,13 +176,13 @@ To be in accordance with CANSPAM we agree to the following:
 
 
 
-If at any time you would like to unsubscribe from receiving future emails, you can email us at support@niftyhomestead.com
+If at any time you would like to unsubscribe from receiving future emails, you can email us at hello@insteading.com
 
 **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-  * support@niftyhomestead.com
+  * hello@insteading.com
 
 
 
