@@ -1,82 +1,100 @@
-> *The following text is extracted and transformed from the bigdeal.com privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123072002id_/http%3A//bigdeal.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigdeal.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Policy - BigDeal.com
+# Legal Agreement
 
-BigDeal provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of bigdeal.com. This Privacy Policy applies only to information that you provide to us through this Site. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You are advised to consult this policy regularly for any changes. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our BigDeal Terms of Service.
+**GoDaddy Respects Your Privacy**
 
-As used in this policy, the terms “using” and “processing” information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally.
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-## Information Collection and Use
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-Our primary goals in collecting information are to provide and improve our Site, services, features and content, to administer your Membership (together, the “Service”) and to enable users to enjoy and easily navigate the Site.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-Personally Identifiable Information.
-    
+**Information Collection and Use**
 
-  * When you register with us through the Site, as a BigDeal Subscriber or when you choose to create your own profile webpage we will ask you for personally identifiable information. This refers to information about you that can be used to contact or identify you (“Personal Information”). Personal Information includes, but is not limited to, your name, username, phone number, credit card or other billing information, email address and home and business postal addresses, and any other information that you decide to add to your profile webpage. We use your Personal Information mainly to provide the Service and administer your inquiries. 
-  * We also collect the other information that you provide as part of registration and the administration and personalization of the My Account webpage (e.g., without limitation, zip code (on its own) and individual preferences) (“Non-Identifying Information”).
-  * We use your Personal Information (in some cases, in conjunction with your Non-Identifying Information) mainly to provide the Service, complete your transactions, and administer your inquiries.
-  * We may also collect information regarding your activity on the Site, such as your bidding history, auctions participated in, auctions won/lost, prices paid, bids used and other similar information associated with your username. We use such information solely in accordance with this Privacy Policy
-  * Certain Non-Identifying Information would be considered a part of your Personal Information if it were combined with other identifiers (for example, combining your zip code with your street address) in a way that enables you to be identified. But the same pieces of information are considered Non-Identifying Information when they are taken alone or combined only with other non-identifying information (for example, your viewing preferences). We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected from other BigDeal Users (defined below) to attempt to provide you with a better experience, to improve the quality and value of the Service and to analyze and understand how our Site and Service are used. We may also use the combined information without aggregating it to serve you specifically, for instance to deliver a product to you according to your preferences or restrictions.
-  * We also use your Personal Information to contact you with BigDeal newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or update your “user preferences” information. (See “Changing or Deleting Information,” below.) 
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-Log Data.
-     When you visit the Site, whether as a BigDeal Subscriber or a non-registered user just browsing (any of these, a “BigDeal User”), our servers automatically record information that your browser sends whenever you visit a website (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type or the webpage you were visiting before you came to our Site, pages of our Site that you visit, the time spent on those pages, information you search for on our Site, access times and dates, and other statistics. We use this information to monitor and analyze use of the Site and the Service and for the Site’s technical administration, to increase our Site’s functionality and user-friendliness, and to better tailor it to our visitors’ needs. For example, some of this information is collected so that when you visit the Site again, it will recognize you and serve advertisements and other information appropriate to your interests. We also use this information to verify that visitors to the Site meet the criteria required to process their requests. [We do not treat Log Data as Personal Information or use it in association with other Personal Information, though we may aggregate, analyze and evaluate such information for the same purposes as stated above regarding other Non-Identifying Information.]
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-## Cookies
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-Like many websites, we use “cookies” to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. We use cookies for two purposes. First, we utilize persistent cookies to save your registration ID for future logins to the Site. Second, we utilize persistent ID cookies to enable certain features of the Site, to better understand how you interact with the Site and to monitor aggregate usage by BigDeal Users and web traffic routing on the Site. Third party advertisers on the Site may also place or read cookies on your browser. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the Service. 
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-## Emailing Via a BigDeal Account
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-As part of the Service, BigDeal Subscribers may choose to communicate with BigDeal Subscribers and non-registered users through use of their accounts. Where BigDeal Subscribers have selected the option of adding one or more email addresses to an online form, the message they create in the corresponding template will be sent from BigDeal to those email addresses on their behalf. These email addresses will be stored in the address book the BigDeal Subscriber creates and will be used only for the purpose of sending the email communication to the addressee. 
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-## Inviting Friends Via a BigDeal Account
+**Security**
 
-As part of the Service, we may allow BigDeal Subscribers to invite friends to participate in BigDeal service. When BigDeal Subscribers have selected the option of adding one or more email addresses to an online form or via an address book import, the resulting invites will be sent to those email addresses on their behalf. These email addresses will be stored in the import friends function that BigDeal creates and will be used only for the purpose of sending the email invite to the addressee(s) selected by the BigDeal Subscribers.
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-## Phishing
+**Updating Your Information**
 
-Identity theft and the practice currently known as “phishing” are of great concern to BigDeal. Safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your credit card information, your account ID, login password, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more information about phishing, visit the Federal Trade Commission’s website.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-## Information Sharing and Disclosure
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
->BigDeal Users.
-    When you register through the Site and submit your Personal Information to create a profile webpage, BigDeal Users will see your “Screen Name” and the month and year you first registered with BigDeal (“Required Subscriber Identifiers”). You can choose what other Personal Information you provide as part of your profile (“Other Subscriber Information”) and in some cases you can choose whether to share that information publicly on the Site by making selections via the “user preferences” section of your profile webpage. Providing Other Subscriber Information is voluntary and should correlate with the degree of interaction you want to have with BigDeal Users. We recommend that you guard your anonymity and sensitive information and that you not use your real name as your “Screen Name,” since that would allow others to identify you.
-Auction Data and Bidding History.
-    We may share information on your bidding history, auctions participated in, auctions won/lost, prices paid, bids used and other similar information associated with your username, for the purpose of providing BigDeal Users with information designed to help in the formulation of bidding strategies, in accordance with the options selected by you when creating your user account and profile.
-Aggregate Information and Non-Identifying Information.
-    We may share aggregated information that does not include Personal Information and we may otherwise disclose Non-Identifying Information and Log Data with third parties for industry analysis, demographic profiling and other purposes. Any aggregated information shared in these contexts will not contain your Personal Information.
-Service Providers.
-    We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Site-related services (e.g., without limitation, maintenance services, database management, fulfillment, web analytics and improvement of the Site’s features) or to assist us in analyzing how our Site and Service are used. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. [We may also provide Personal Information to our business partners or other trusted entities for the purpose of providing you with information on goods or services we believe will be of interest to you. You can, at any time, opt out of receiving such communications.]
-Compliance with Laws and Law Enforcement.
-    BigDeal cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of BigDeal or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, any illegal, unethical or legally actionable activity.
-Business Transfers.
-    BigDeal may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-## Changing or Deleting Your Information
+      iii.      You may call us at: (480) 505-8800
 
-All Subscribers may review, update, correct or delete the Personal Information in their registration profile by contacting us. If you completely delete all such information, then your account may become deactivated. If you would like us to delete your record in our system, use the “Close My Account” function in My Account [provide link]. We will use commercially reasonable efforts to honor your request. We may retain an archived copy of your records as required by law or for legitimate business purposes.
+       iv.      You may fax us at: (480) 505-8844
 
-## Security
+**Sending Emails**
 
-BigDeal is very concerned with safeguarding your information. We employ administrative, physical and electronic measures designed to protect your information from unauthorized access.
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored “personal data” (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-## International Transfer
+**Compliance with Laws and Law Enforcement**
 
-Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, BigDeal transfers Personal Information to the United States and processes it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-## Links to Other Sites
+**Third Party Service Providers**
 
-Our Site contains links to other websites. If you choose to visit an advertiser by “clicking on” a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party’s website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. They may also use JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize advertising content. Other sites follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-## Our Policy Toward Children
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-This Site is not directed to children under 18. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
+**Supplementation of Information**
 
-## Contacting Us
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-If you have any questions about this Privacy Policy, please contact us.
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
