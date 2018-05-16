@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stationcasinos.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002103056id_/https%3A//www.sclv.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stationcasinos.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516173847id_/https%3A//www.sclv.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Station Casinos - Las Vegas
 
@@ -89,7 +89,7 @@ Texts may be sent using an automatic telephone dialing system. Consent to receiv
 **Opt-out/Stop Information  
 **You may opt-out to these individual programs at any time by sending **STOP** to 72777/56242/34763 respectively. We will send you a text message confirming that you are no longer enrolled in the program and we will not send you any more text messages.
 
-To get help you may **CALL** our toll free number at 1-844-976-2646. From your mobile phone you can request our contact information at any time by texting **HELP** to 72777/56242/34763.
+To get help you may **EMAIL** our support team at [MyStation@StationCasinos.com](mailto:MyStation@StationCasinos.com) and request removal. From your mobile phone you can request our contact information at any time by texting HELP to 72777 / 56242 / 34763.
 
 **Supported Carriers  
 **Not all carriers support the Station Casinos SMS promotion program. Compatible carriers include: AT&T, Sprint, T-Mobile®, Verizon Wireless, Boost, Cricket, MetroPCS, U.S. Cellular, Virgin Mobile, ACS Wireless, Appalachian Wireless, Bluegrass Cellular, Breakaway Wireless, Cabelvision (Optimum Mobile), Carolina West Wireless, Cellcom, Cellular One of East Central Illinois, Centennial Wireless, Chariton Valley Cellular, Chat Mobility (Hawkeye), Cincinnati Bell Wireless, Coral Wireless, Cox Mobility, Cross/ Sprocket, C-Spire Wireless (formerly Cellsouth), CTC Telecom, DTC Wireless (Advantage Cellular), Duet IP (AKA Max/Benton/Albany), Element Mobile, Epic Touch, GCI Communications, Golden State, Illinois Valley Cellular, Immix (Keystone Wireless/ PC Management), Inland Cellular, iWireless, Leaco, Mobi PCS, Mosaic, MTPCS/ Cellular One (Cellone Nation), Nemont, Nex-Tech Wireless, nTelos, NW Missouri Cellular (Hawkeye), Panhandle Telecommunications, Peoples Wireless, Pioneer, Pine Cellular, Plateau, Revol, Rina - Custer, Rina - All West, Rina - Cambridge Telecom Coop, Rina - Eagle Valley Comm, Rina - Farmers Mutual Telephone Co, Rina - Nucla Nutria Telephone Co, Rina - Silver Star, Rina - Syringa, Rina - UBET, Rina - Manti, Rural Cellular Corporation, SI Wireless, Simmetry, SouthernLINC, SRT, Strata Networks, Thumb Cellular, Union Wireless, United, Viaero Wireless, West Central Wireless.
