@@ -1,101 +1,100 @@
-> *The following text is extracted and transformed from the bloggerschoiceawards.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625185508id_/https%3A//izea.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggerschoiceawards.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# IZEA : The Sponsorship Marketplace™
+# Legal Agreement
 
-Updated **February 19, 2014**
+**GoDaddy Respects Your Privacy**
 
-IZEA, Inc is a member of the IZEA Exchange and licenses this platform under IZEA's Terms of Service and Privacy Policy.
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-The following details our Privacy Policy (the “Policy") for this site and describes the types of information we gather from those persons visiting the Internet websites http://izea.com, (the “Site(s)”) and how we use such information. We understand the importance of privacy and accordingly, treat all information received in a responsible manner. This Policy applies to all of the services offered by IZEA, Inc and IZEA (the “services”) on the Sites. By accessing the Sites, you agree to be bound by the Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Sites. Each time you use the Sites, the current version of the Privacy Policy will apply. Accordingly, when you use the Sites, you should check the date of this Policy (which appears at the top) and review any changes since the last version.
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-## Use of Information Collected by Us
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-IZEA may collect two types of information from users of our Sites: “personal information” (such as name, e-mail address, mailing address, phone number, etc.) and “aggregate information” (such as frequency of visits to any of the Sites, search terms entered, Site pages most frequently accessed, browser type, etc.) We use this information in an effort to improve your experience on the Sites and to communicate with you about information that you request. We may also use this information to help us target specific services or offers to you, to help us develop and improve our Sites, and to tailor our Sites to your interests.
+**Information Collection and Use**
 
-## Collecting and Using Your Personal Information
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-IZEA only collects personal information that is voluntarily provided when users sign up for an IZEA site or service. Specifically, when you sign up for our marketplace - the “Native Ad Exchange” (NAX), we ask you for personal information such as your name, address, social service connectors, email address, and social security number. (Please note that we require social security numbers for income tax reporting purposes.) We may also request PayPal payment account information which we maintain in encrypted form on secure servers.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-## Collecting and Using Your Aggregate Information
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-IZEA also collects aggregate information, which is non-personally identifiable information about you, such as frequency of visits to the Sites, search terms entered, browser type, etc. Aggregate information is used in a collective manner, and no single person can be identified by that compiled information. IZEA uses aggregate information to provide its services and remuneration, as well as to determine the use of our Sites and to monitor, audit and analyze information pertaining to our business metrics.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-## Sharing, Selling and Trading of Your Personal Information Collected Online with Third Parties
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-IZEA does not share, rent, sell or disclose personal information to third parties, except as described in this Privacy Policy. IZEA shares personal information with our parents and subsidiaries, and on occasion, we may share personal information with third party service providers, such as “white label partners” and credit card processing companies. These third party service providers are not authorized to retain, share, store or use your personal information for any purposes other than to provide the services for which they have been hired to provide. In addition, in order to protect against potential fraud, we may verify with third parties the personal information you provide when you sign up for an account. In the course of such verification, we may receive personal information about you.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-We do not sell, trade or otherwise share your personal information with unrelated third parties for their own marketing purposes. In the following circumstances, IZEA may elect to share or transfer your personal information to unrelated third parties: (i) to comply with a legal requirement, judicial proceeding, court order, or legal process served on IZEA, (ii) to investigate a possible crime, such as fraud or identity theft; (iii) in connection with the sale, purchase, merger, reorganization, liquidation or dissolution of IZEA; (iv) when we believe it is necessary to protect the rights, property, or safety of IZEA or other persons, or (v) as otherwise required or permitted by law.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-It should be noted that on some portions of the Sites, users can choose to have their personal information displayed. If users choose to have their personal information displayed on the Site(s), they will be given forewarning that the action they are about to take will make their personal information publicly available on the Site(s).
+**Security**
 
-## Sharing, Selling and Trading Aggregate Information Collected Online with Third Parties
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-We may share, sell or trade with third parties aggregated, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement. As stated earlier, such information does not identify you individually. Contests/Sweepstakes
+**Updating Your Information**
 
-From time-to-time, we may request information from users of our Sites in connection with a contest or a sweepstakes. Participation in these contests or sweepstakes is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information and supplementary information on your interests, opinions and preferences. We will use the contact information to notify winners. We may publish winners’ first name, last initial and city of residence on the Sites and in order to comply with state law, we may be required to share: (i) winners’ first name, last name and address with state agencies and (ii) winners’ first name and last name with persons requesting such information via the mail.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-## Message Boards
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-On some of the Sites, we provide message boards for visitors to post comments and messages for others to read. We may collect technical information about your post, such as the IP address from which you posted, and associate this information with your messages. Even if messages are deleted, we may retain copies and attendant information indefinitely.
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-When you post messages to the message boards, certain information, such as your email address, user name and/or full name, may be available to the public. Also note that any personal information you include in the body of your message will be available to the public so it is important for you to exercise discretion and appropriate caution when deciding to reveal personal information in these areas.
+      iii.      You may call us at: (480) 505-8800
 
-## Cookies
+       iv.      You may fax us at: (480) 505-8844
 
-Cookies are pieces of information which websites transfer to your computer’s web browser for storage on your computer’s hard drive. When you visit the Sites, we may place one or more cookies on your computer to uniquely identify your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people blog. We store minimal personal information in cookies and protect this information. We do not store complete records or credit card numbers in cookies. You may chose to set your computer to not accept cookies, but some features and services on the Sites may not function properly if your cookies are disabled.
+**Sending Emails**
 
-## Use of Pixel Tags/Clear GIFs/Web Beacons
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-A pixel tag, also known as a clear GIF or web beacon, is an invisible tag placed on certain pages of our Sites but not on your computer. When you access these pages, pixel tags generate a generic notice of that visit. They usually work in conjunction with cookies, registering when a particular computer visits a particular page. If you turn off cookies the pixel tag will simply detect an anonymous website visit.
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-## Security Pertaining to Your Information
+**Compliance with Laws and Law Enforcement**
 
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-We restrict access to personal information to IZEA employees, service providers and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. We use secure socket layer (“SSL”) technology to encrypt and protect the security of your personal information, including but not limited to your credit card number, when it is sent over the Internet. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to protect your personal information, we cannot guarantee its absolute security. IN NO EVENT WILL IZEA OR ITS SUBSIDIARIES, AFFILIATES OR ANY PARTY INVOLVED IN CREATING, PRODUCING OR DELIVERING THE SITES BE LIABLE IN ANY MANNER WHATSOEVER FOR ANY INCIDENTAL, CONSEQUENTIAL, INDIRECT, SPECIAL OR PUNITIVE DAMAGES ARISING OUT OF YOUR ACCESS, USE OR INABILITY TO USE THE SITES, OR IN CONNECTION WITH ANY FAILURE OR PERFORMANCE, ERROR, OMISSION, INTERRUPTION, DEFECT, DELAY IN OPERATION OR TRANSMISSION, COMPUTER VIRUS OR LINE OR SYSTEM FAILURE (INCLUDING LOSS PROFITS, LOSS OF BUSINESS OR DATA, BUSINESS INTERRUPTION, AND DAMAGES THAT RESULT FROM INACCURACY OF THE INFORMATION OR INCONVENIENCE, DELAY, OR LOSS OF THE USE OF THE SITES). THE FOREGOING LIMITATIONS APPLY WHETHER THE ALLEGED LIABILITY IS BASED ON CONTRACT, TORT, NEGLIGENCE STRICT LIABILITY OR ANY OTHER BASIS, EVEN IF IZEA OR ITS AFFILIATES OR ANY OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+**Third Party Service Providers**
 
-## Integrity of Your Data
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-IZEA processes personal information only for the purposes for which it was collected and in accordance with this Policy. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-## Copyright Infringement/DMCA Notice
+**Supplementation of Information**
 
-If you are a copyright owner or an agent thereof and believe that any submission on the Sites’ message boards or any other content on the Sites infringes upon your copyrights, you may submit a notification pursuant to Title 17, United States Code, Section 512(c)(3), the Digital Millennium Copyright Act (“DMCA”) by providing our designated copyright agent with the following information in writing:
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-(i) A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;
+**Contests/Surveys**
 
-(ii) Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site;
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-(iii) Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled and information reasonably sufficient to permit the service provider to locate the material;
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-(iv) Information reasonably sufficient to permit the service provider to contact you, such as an address, telephone number, and, if available, an electronic mail;
+**Tell-A-Friend**
 
-(v) A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-(vi) A statement that the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+**What Happens to my Personal Information if I Opt Out?**
 
-IZEA’s designated copyright agent to receive notifications of claimed infringement is: Copyright Agent, 480 N. Orlando Ave., Suite #200, Winter Park, FL 32789 USA or copyrightagent@izea.com. Only DMCA notices should go to the designated copyright agent; any other comments, requests, or other communications should be directed to info@izea.com. You acknowledge that if you fail to comply with all of the requirements of this Section, your DMCA notice may not be valid.
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-## Children and Privacy
+**Transfer of Data Abroad**
 
-Our Sites are not directed to children and we will not request personally identifiable information from anyone who we know to be under the age of 18, unless we have obtained verifiable parental consent from a parent or legal guardian. If we become aware that a user under the age of 13 has registered with any of our Sites, provided personally identifiable information, and IZEA has not obtained prior verifiable consent from a parent or legal guardian, we will immediately remove the user’s personally identifiable information from our files.
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-## Links to Other Websites
+**Changes in Our Practices**
 
-The Sites may contain links to websites operated by other people or companies. Those websites may have their own privacy policy or no privacy policy at all. IZEA does not have any responsibility for those websites, and we provide the links solely for the convenience of our visitors.
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-## Business Transfers
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
 
-In the event that IZEA sells substantially all of its assets, or one of IZEA’s business units are acquired, personally identifiable information of visitors to the Sites and aggregate information will likely be one of the transferred assets.
+**Contacting Our Site**
 
-## Changes to this Policy
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
 
-Please note that we may change this Privacy Policy at any time and without prior notice, by posting the revised version of this Policy on our Sites.
+* * *
 
-## Corrections/Information Removal/Opt-Out
-
-If your name, e-mail or postal address, telephone number or other personal information changes, you may update, correct or omit the relevant information by contacting us at IZEA Customer Service, 480 N. Orlando Ave., Suite #200, Winter Park, FL 32789 USA or by visiting our site and clicking Contact Support. If you prefer not to receive newsletters or other marketing e-mails from IZEA, please let us know by clicking on the unsubscribe link within any newsletter or marketing e-mail you receive. If you prefer not to receive marketing mail via the mail carrier, please let us know by sending a request to: IZEA Marketing, 480 N. Orlando Ave., Suite #200, Winter Park, FL 32789 USA. Please be sure to include in any e-mail or postal mail, your full name, e-mail address, postal address, and any message. Please note that such requests may take up to ten (10) days to become effective.
-
-## Contact Us
-
-If you have any questions or concerns about this Policy, please feel free to contact us any time through the Sites or at Privacy Policy Concerns Coordinator, c/o IZEA Inc., 480 N. Orlando Ave., Suite #200, Winter Park, FL 32789 USA.
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
