@@ -1,63 +1,100 @@
-> *The following text is extracted and transformed from the heartofthe.net privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920022848id_/http%3A//heartofthe.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartofthe.net privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy | HeartOfThe.Net - Create your free blog
+# Legal Agreement
 
-HeartOfThe.Net takes the private nature of your personal information very seriously. This Privacy Policy (which we adapted from a policy originally provided by [Automattic](http://www.automattic.com/) ([WordPress.com](http://www.wordpress.com/))) describes how we treat the information we collect when you visit and use the website available at HeartOfThe.Net (the “Website”) and is made available under the **Creative Commons Sharealike** license. Please read this notice very carefully.
+**GoDaddy Respects Your Privacy**
 
-## Website Visitors
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-Like most website operators, HeartOfThe.Net collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. HeartOfThe.Net’s purpose in collecting non-personally identifying information is to better understand how HeartOfThe.Net’s visitors use its Website. From time to time, HeartOfThe.Net may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its Website.
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-HeartOfThe.Net also collects potentially personally-identifying information like Internet Protocol (IP) addresses. HeartOfThe.Net does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below. 
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-## Gathering of Personally-Identifying Information
+**Information Collection and Use**
 
-Certain visitors to the Website choose to interact with HeartOfThe.Net in ways that require HeartOfThe.Net to gather personally-identifying information. The amount and type of information that HeartOfThe.Net gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a blog at HeartOfThe.Net to provide a username and email address. Those who engage in transactions with HeartOfThe.Net are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, HeartOfThe.Net collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with HeartOfThe.Net. HeartOfThe.Net does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-HeartOfThe.Net does not collect personally identifiable information from children under the age of 13. If you believe that a child has provided HeartOfThe.Net with personally identifiable information without the consent of his or her parent or guardian, please contact us at [support@heartofthe.net](mailto:support@heartofthe.net). If HeartOfThe.Net becomes aware that a child under age 13 has provided us with personally identifiable information, we will delete such information.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-## Aggregated Statistics
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-HeartOfThe.Net may collect statistics about the behavior of visitors to the Website. For instance, HeartOfThe.Net may monitor the most popular blogs on the HeartOfThe.Net site to help identify spam. HeartOfThe.Net may display this information publicly or provide it to others. However, HeartOfThe.Net does not disclose personally-identifying information other than as described below.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-## Protection of Certain Personally-Identifying Information
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-HeartOfThe.Net discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on HeartOfThe.Net’s behalf or to provide services available at the Website, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using the Website, you consent to the transfer of such information to them. In addition, in some cases we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if HeartOfThe.Net or substantially all of its assets were acquired, or in the unlikely event that HeartOfThe.Net goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquiror of HeartOfThe.Net may continue to use your personal and non-personal information only as set forth in this policy. Otherwise, HeartOfThe.Net will not rent or sell potentially personally-identifying and personally-identifying information to anyone.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-Other than to its employees, contractors and affiliated organizations or as described above, HeartOfThe.Net discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when HeartOfThe.Net believes in good faith that disclosure is reasonably necessary to protect the property or rights of HeartOfThe.Net, third parties or the public at large. If you are a registered user of the HeartOfThe.Net Website and have supplied your email address, HeartOfThe.Net may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with HeartOfThe.Net and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. HeartOfThe.Net takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-You should also be aware that if you submit information to “chat rooms,” “forums” or “message boards” such information becomes public information, meaning that you lose any privacy rights you might have with regards to that information. Such disclosures may also increase your chances of receiving unwanted communications.
+**Security**
 
-For users outside the United States, please note that any personally-identifiable information you enter into the Website will be transferred out of your country and into the United States. You consent to such transfer through your use of the Website. You also warrant that you have the right to transfer such information outside your country and into the United States.
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-## Links to Third Party Sites
+**Updating Your Information**
 
-This Privacy Policy only applies to information collected by HeartOfThe.Net. This Privacy Policy does not apply to the practices of companies that HeartOfThe.Net does not own or control, or employees that HeartOfThe.Net does not manage. The Website contains links to third party websites. Any information you provide to, or that is collected by, third-party sites may be subject to the privacy policies of those sites, if any. We encourage you to read such privacy policies of any third-party sites you visit. It is the sole responsibility of such third parties to adhere to any applicable restrictions on the disclosure of your personally-identifying information, and HeartOfThe.Net and its affiliates shall not be liable for wrongful use or disclosure of your personally-identifying information by any third party.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-## Security
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-All non-personally-identifying information, potentially personally-identifying and personally identifying-information described above is stored on restricted database servers.
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-## Choice/Opt-out
+      iii.      You may call us at: (480) 505-8800
 
-If we ever send you information by e-mail concerning new products, services or information that you did not expressly request, we will provide you with an e-mail address by which you may request no further notices.
+       iv.      You may fax us at: (480) 505-8844
 
-## Cookies
+**Sending Emails**
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. HeartOfThe.Net uses cookies to help HeartOfThe.Net identify and track visitors, their usage of the HeartOfThe.Net Website, and their Website access preferences. HeartOfThe.Net visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using the HeartOfThe.Net Website, with the drawback that certain features of HeartOfThe.Net’s Website may not function properly without the aid of cookies.
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-## Address Book Data
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-Any external address book data (email contacts, etc.) that a user voluntarily gives HeartOfThe.Net access to will only be used for the described feature (looking up friends, etc.), and will not be stored or repurposed.
+**Compliance with Laws and Law Enforcement**
 
-## Privacy Policy Changes
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-Although most changes are likely to be minor, HeartOfThe.Net may change its Privacy Policy from time to time, and in HeartOfThe.Net’s sole discretion. If we do then we’ll notify you by posting the amended policy on the Website or by emailing you of the nature of the modifications along with a link to the modified document so that you can review it. In all cases, use of information we collect now is subject to the Privacy Policy in effect at the time such information is collected.
+**Third Party Service Providers**
 
-## Review and Access
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-Upon your request, we will provide you with a summary of the information we collect about you. You will have the opportunity to correct, update, modify or delete this information by sending an e-mail to [support@heartofthe.net](mailto:support@heartofthe.net). Please note that some information may remain in our records after deletion of your account.
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-## Contact Us
+**Supplementation of Information**
 
-If you have any questions about this policy or our site in general, please contact us at [support@heartofthe.net](mailto:support@heartofthe.net).
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
