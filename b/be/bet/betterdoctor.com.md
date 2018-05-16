@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the betterdoctor.com privacy policy that was archived on 2017-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171111214428id_/http%3A//betterdoctor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterdoctor.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516063210id_/https%3A//betterdoctor.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | BetterDoctor
+# BetterDoctor :: BetterDoctor Privacy Policy
 
 Effective as of November 18, 2016
 
@@ -10,7 +10,7 @@ BetterDoctor Inc, doing business as BetterDoctor (“us,” “we,” “our”,
 
 By accessing the Site, registering for an account and/or otherwise using Company’s Services you consent to Company’s use of the information you provide in connection with creating a BetterDoctor account and using the Services, as set forth in this Privacy Policy. Please be aware that we are not responsible for the privacy practices of any third parties. This Privacy Policy is only applicable to the personal information you make available to us by using the Site and the Services, and not applicable to any other websites that you may be able to access from the Site via links, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy.
 
-As used in this Privacy Policy, the terms “using” and “processing” information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization, to our third party partners or among our affiliates within the United States. 
+As used in this Privacy Policy, the terms “using” and “processing” information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization, to our third party partners or among our affiliates within the United States.
 
 ## 2\. INFORMATION COLLECTION PRACTICES
 
@@ -23,7 +23,7 @@ If you communicate with us by e-mail or post messages to our social media accoun
   * Your legal name;
   * Your email address;
   * Gender; Date of Birth
-  * Information relating to your medical practice, including but not limited to: 
+  * Information relating to your medical practice, including but not limited to:
   * office street address, office email address, office hours, office phone and fax numbers, accepted insurance and health plans.
   * BetterDoctor account user name and account setting preferences;
   * BetterDoctor account password;
@@ -48,8 +48,6 @@ If you communicate with us by e-mail or post messages to our social media accoun
 
 (e) LOCATION. We may collect and store information about your location if you enable your computer or mobile device to send us location information. You may be able to change the settings on your computer or mobile device to prevent it from providing us with such information.
 
-### 2.2. THIRD PARTY ENTITIES WITH WHOM WE MAY SHARE PERSONALLY IDENTIFIABLE INFORMATION
-
 We share certain categories of information we collect from you in the ways described in this Privacy Policy. We may share Demographic Data with advertisers and other third parties only on an aggregate (i.e., non-personally-identifiable) basis. We may also share your Contact Data, Demographic Data, Insurance Data and other Content via BetterDoctor API. We also share Personal Information and Traffic Data with our business partners who assist us by performing core services (such as hosting, billing, fulfillment, or data storage and security) related to our operation of the Services and/or by making certain interactive tools available to our users. Those business partners shall be bound to uphold the same standards of security and confidentiality that we have promised to you in this Privacy Policy, and they will only use your Contact Data and other Personal Information to carry out their specific business obligations to BetterDoctor.
 
 We do not rent, share, sell or trade Personal Contact Information (e.g. Email) with third parties for their direct marketing purposes. That said, we work with third parties and they may have access to some of your information:
@@ -72,7 +70,7 @@ You must provide a valid email address in order to sign up for an account throug
 
 ### 3.2 ACCESSING BETTERDOCTOR VIA THIRD PARTY SERVICE
 
-You can also sign up by logging into online accounts you may have with third party service providers (e.g. Doximity, henceforth “Third Party Service”); each such account, a "Third Party Account", via our Services as described below. As part of the functionality of the Services, you may link your BetterDoctor Account with Third Party Accounts, by allowing BetterDoctor to access your Third Party Account, to the extent permitted under the applicable terms and conditions that govern your use of each Third Party Account. If you chose to login through a Third Party Account, the login process will be governed by the terms and conditions imposed by the applicable Third Party Service.
+You can also sign up by logging into online accounts you may have with third party service providers (e.g. Doximity, henceforth “Third Party Service”); each such account, a “Third Party Account”, via our Services as described below. As part of the functionality of the Services, you may link your BetterDoctor Account with Third Party Accounts, by allowing BetterDoctor to access your Third Party Account, to the extent permitted under the applicable terms and conditions that govern your use of each Third Party Account. If you chose to login through a Third Party Account, the login process will be governed by the terms and conditions imposed by the applicable Third Party Service.
 
 You can connect your BetterDoctor account to Third Party Accounts, in which case we may collect and store information identifying your account with the Third Party Account. We use the information to help you connect and share public content with your friends and followers. We may use the information to pre-populate your account registration information or identify others you may know or wish to invite to join the Services.
 
@@ -84,7 +82,7 @@ We encourage you to review this Privacy Policy regularly for any changes. If we 
 
 ## 5\. CHILDREN & MINORS
 
-Company’s Site and corresponding Services are not intended for, or designed to attract, any individuals under the age of 18. BetterDoctor does not knowingly collect personally identifiable information from ANY person we actually know is an individual under the age of 18, regardless of parental consent. In the event that we learn that we have collected personal information from an individual under the age of 18, we will delete that information as quickly as possible. 
+Company’s Site and corresponding Services are not intended for, or designed to attract, any individuals under the age of 18. BetterDoctor does not knowingly collect personally identifiable information from ANY person we actually know is an individual under the age of 18, regardless of parental consent. In the event that we learn that we have collected personal information from an individual under the age of 18, we will delete that information as quickly as possible.
 
 ## 6\. ACCESS TO YOUR INFORMATION
 
