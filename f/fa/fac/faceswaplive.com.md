@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faceswaplive.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112155140id_/http%3A//faceswaplive.com/PRIVACYPOLICY.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faceswaplive.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516081410id_/http%3A//faceswaplive.com/PRIVACYPOLICY.html) for the most accurate reproduction.*
 
 # 
 
