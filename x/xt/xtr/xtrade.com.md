@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtrade.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606130431id_/http%3A//static.xtrade.com/documents/privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtrade.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516193621id_/http%3A//static.xtrade.com/documents/privacy-policy.pdf) for the most accurate reproduction.*
 
 # 
 
