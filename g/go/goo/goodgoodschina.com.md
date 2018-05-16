@@ -1,71 +1,100 @@
-> *The following text is extracted and transformed from the goodgoodschina.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103082326id_/http%3A//www.goodgoodschina.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodgoodschina.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Policy Shop Online - GoodGoodsChina.com
+# Legal Agreement
 
-PRIVACY POLICY
+**GoDaddy Respects Your Privacy**
 
-Our Commitment To Privacy
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-The GoodGoodsChina values its customers and respects their privacy. This privacy policy (this "Policy") describes the personal information we may collect from you, the purposes for which we collect it, how we use it and when we may share it with third parties. This Policy also describes the choices you can make about how we collect, use and disclose your information. GoodGoodsChina will not collect, use or disclose your personal information other than in compliance with this Policy. By using the www.GoodGoodsChina.com website and/or making online purchases of products, you agree to the terms and conditions of GoodGoodsChina's Policy. If our Policy changes in the future, we will notify our customers and website users of any such changes by posting an updated Policy on our website. Following the posting of such changes, your continued use of the www.GoodGoodsChina.com website will constitute your acceptance of these changes and you will be bound by such changes. If you do not continue to use the www.GoodGoodsChina.com website following a change to our Policy but take no other action with respect to your personal information, our use of that information will remain subject to our Policy as it was in effect prior to the change. You are responsible for regularly reviewing this Policy and any changes thereto.
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-Our Privacy Policy
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-  * What kind of information does GoodGoodsChina collect?
-  * For what purposes does GoodGoodsChina collect my information?
-  * Does GoodGoodsChina share my information with third parties?
-  * How can I exercise my choices about receiving promotional communications?
-  * What are cookies and how does GoodGoodsChina use cookies on its site?
-  * How can I access or change my personal information, withdraw my consent, or make inquiries or complaints in relation to this Policy and GoodGoodsChina's privacy practices?
-  * How long is personal information retained?
-  * How is personal information secured?
+**Information Collection and Use**
 
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-What kind of information does GoodGoodsChina collect?
-    
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We may collect personal information from you when you save or otherwise provide your personal information to us, such as by setting up a user account and password, logging in as a registered user of www.GoodGoodsChina.com, searching for a product, making an order for a product, providing information in your account (and you might have more than one, if you've used more than one e-mail address when shopping with us), communicating with us by phone, e-mail, or otherwise or if you complete an entry form to participate in a contest, promotion or survey, whether online or at one of our retail stores. As a result of these actions, you might supply us with personal information, such as your name, e-mail and postal addresses, phone number(s), credit card information, names of people to whom purchases have been shipped, including address and telephone numbers, product interest information and financial information and in certain circumstances, your opinions and individual preferences. We may also maintain a record of your product interests and acquire information about you from our present and future affiliates or divisions, such as Feetfirst, Globo, Transit, Spring and Stoneridge (collectively, "GoodGoodsChina Affiliates").
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-GoodGoodsChina's website is directed for use by adults. GoodGoodsChina does not knowingly collect any personal information from children under the age of 13. Those under age 13 should not use GoodGoodsChina's website or provide GoodGoodsChina with any personal information. 
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-For What Purposes Does GoodGoodsChina Collect My Information?
-    
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-GoodGoodsChina may use your personal information to: 
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-  * 1.Process your order and to answer questions about the status of your order;
-  * 2.Send you or your friends, relatives or associates, products that you have ordered; 
-  * 3.Maintain contact with you and provide you with ongoing personalized service; 
-  * 4.Communicate with you (via e-mail, post or otherwise) and provide you with promotional materials and additional information regarding our products, services, surveys, contests, promotions and special offers; 
-  * 5.Help us learn more about your shopping preferences; 
-  * 6.Conduct marketing and performance research, to assist us in measuring our customer service, benchmarking our performance and to help us improve our shopping experiences and product offerings. As provided below, you may always choose not to receive promotional materials or marketing information.
+**Security**
 
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-Does GoodGoodsChina Share My Information With Third Parties?
-    
+**Updating Your Information**
 
-If you visit or purchase products on the www. GoodGoodsChina.com website, participate in a contest, survey, promotion or special offer, or shop at GoodGoodsChina or any GoodGoodsChina Affiliate, we may share your personal information with that GoodGoodsChina Affiliate, so that it can communicate with you (whether by e-mail, post or otherwise) and provide you with promotional materials and additional information about its products, services, contests, promotions and special offers that may be of interest to you, or collect and use that information subject to and for other purposes contemplated by this Policy.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-We do not sell or rent your personal information to non-affiliated third parties except as permitted by law. However, in the event of a sale of all or substantially all of our business or another similar transaction, we may transfer or disclose your personal information to a purchaser or prospective purchaser, who may collect, use and disclose such information for the purposes of evaluating the proposed transaction or operating and managing the affairs of the acquired business, or for other purposes identified in this Policy.
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-We may transfer personal information to non-affiliated third parties for processing pursuant to agreements that prohibit the third parties from using or disclosing the personal information other than for the purpose of processing and which impose security safeguards appropriate to the sensitivity of the information.
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-We reserve the right to disclose your personal information as required by law, in response to legal process and law enforcement requests, and as necessary to protect the property, interests and rights of GoodGoodsChina and the GoodGoodsChina Affiliates.
+      iii.      You may call us at: (480) 505-8800
 
-GoodGoodsChina's website may contain links to websites operated by third parties. These websites may collect your personal information. This Policy does not apply to the practices of third parties and GoodGoodsChina doe not assume any responsibility for, and by using this website and/or accessing a third party's website from this website you release GoodGoodsChina of any responsibility for, the actions, practices and omissions of third parties. Please check the privacy policy at each site you visit.
+       iv.      You may fax us at: (480) 505-8844
 
-Choices and Opt-Out about Receiving Promotional Communications?
-    We want to communicate with you only if you want to hear from us. If you no longer wish to receive the Company's promotional communications, or other GoodGoodsChina Affiliates, or if you do not want us to use your information to enhance your shopping experience, you may "opt-out" of receiving them by following the instructions included in each communication or by e-mailing us at sale@goodgoodschina.com. Please be sure to include your full name and the e-mail address you used when you registered with or made a purchase from us.
-What Are Cookies? How Does GoodGoodsChina Use Cookies On Its Site?
-    We may use "cookies" to track your preferences and activities on the www.GoodGoodsChina.com website or a GoodGoodsChina Affiliate's website. Cookies are small data files transferred to your computer's hard-drive by a website. They keep a record of your preferences making your subsequent visits to the site more efficient. Cookies may store a variety of information, including the number of times that you access a site, registration information and the number of times that you view a particular page or other items on the site. The use of cookies is a common practice adopted by most major sites to better serve their clients. Most browsers are designed to accept cookies, but they can be easily modified to block cookies; see your browser's help files for details on how to block cookies, how to know when you have received cookies and how to disable cookies completely. You should note, however, that without cookies, some of the website's functions will not be available, and the user will lose some of the benefits of the site. 
-How Can I Access Or Change My Personal Information Or Withdraw My Consent , Or Make Inquiries Or Complaints In Relation To This Policy And GoodGoodsChina's Privacy Practices?
-    
+**Sending Emails**
 
-GoodGoodsChina will ensure that the personal information it collects is as accurate, complete, and up-to-date as necessary for the purposes for which it is to be used. You are entitled to request access to and correction of your personal information collected by us. In order to make such a request, or if you have any questions or to make any complaint in relation to this Policy and GoodGoodsChina's privacy practices, please contact our privacy officer by Email to: sales@goodgoodschina.com.
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-If you have consented to the collection, use and/or disclosure of personal information as identified herein, please note that you can also withdraw your consent at any time by communicating with our privacy officer as provided above.
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-How Long Is Personal Information Retained?
-    We will keep your personal information only as long as reasonably necessary for the purposes described in this Policy or such longer period as may be required by applicable law.
-How Is Personal Information Secured?
-    We have adopted appropriate measures to ensure the confidentiality of personal information and to safeguard personal information against loss or theft, as well as unauthorized access, disclosure, copying, use or modification, in light of, among other things, the sensitivity of the information and the purposes for which it is to be used. Furthermore, each and every GoodGoodsChina employee, mandatory or agent must abide by this Policy. 
+**Compliance with Laws and Law Enforcement**
+
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+
+**Third Party Service Providers**
+
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
