@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petersons.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621232612id_/https%3A//www.petersons.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petersons.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516141118id_/https%3A//www.petersons.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 1\. Privacy Policy Overview
 
-Peterson’s Nelnet, LLC (“we”, “our”, or “us”) operates the Peterson’s mobile device application(s) and the Website petersons.com (the "Website") and versions of the Website, including co-branded and/or framed versions of the site with third parties that refer to this Privacy Policy in a link (collectively, “Services”). This Privacy Policy is designed to inform you of the types of information we collect from users via the Website and from users of the Peterson’s mobile device application(s), as well as how we use that information, and the circumstances under which we will share it with third parties.
+Peterson’s (“we”, “our”, or “us”) operates the Peterson’s mobile device application(s) and the Website petersons.com (the "Website") and versions of the Website, including co-branded and/or framed versions of the site with third parties that refer to this Privacy Policy in a link (collectively, “Services”). This Privacy Policy is designed to inform you of the types of information we collect from users via the Website and from users of the Peterson’s mobile device application(s), as well as how we use that information, and the circumstances under which we will share it with third parties.
 
 This Privacy Policy does not apply to your use of any other websites or services (whether or not operated by us) that do not refer or link to this Privacy Policy, including any websites to which we provide links or websites of our business partners, or to any activities which are not online. This Privacy Policy pertains to information collected through the Services and does not apply to personal information collected from offline resources and communications (for instance, if you send us a postal letter or call us). By using our Services, you acknowledge and agree to the practices and procedures described in this Privacy Policy and Peterson’s [Terms of Use](https://web.archive.org/terms-of-use) as last revised. This Privacy Policy applies to users who are located in the U.S. when using our Services. 
 
@@ -142,10 +142,8 @@ If you have any questions about this Privacy Policy, the collection and sharing 
 
 **Address:**
 
-Attention: Privacy Policy Administrator - Peterson’s Nelnet, LLC 
-
-121 S 13th St. 
-
-Lincoln, NE 68508 
+Attention: Privacy Policy Administrator - Peterson’s  
+8740 Lucent Blvd. Suite 400  
+Highlands Ranch, CO 80129
 
 **Email:** [privacy@petersons.com](mailto:privacy@petersons.com)
