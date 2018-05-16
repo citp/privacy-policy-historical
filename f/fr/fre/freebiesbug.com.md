@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freebiesbug.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613103547id_/https%3A//freebiesbug.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freebiesbug.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516140844id_/https%3A//freebiesbug.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of freebiesbug.com - Freebiesbug
 
