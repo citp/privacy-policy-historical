@@ -1,50 +1,100 @@
-> *The following text is extracted and transformed from the gamecoins.com privacy policy that was archived on 2014-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140805050756id_/http%3A//www.gamecoins.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamecoins.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Game Coins | Privacy
+# Legal Agreement
 
-This Privacy Policy was last updated on [November 28, 2011] and applies only to the website located at [http://www.gamecoins.com](http://www.gamecoins.com/).
+**GoDaddy Respects Your Privacy**
 
-We do not control and are not responsible for the privacy practices of any third party, including but not limited to our customers and clients, and any website or service that links to or from our website or Services.
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-GameCoins.com is owned and operated by Sometrics, Inc. ([www.sometrics.com](http://www.sometrics.com/)).
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-Sometrics, Inc. (“Sometrics, Inc.”, “we” or “us”) is committed to your online privacy and protecting any and all personally identifiable information (“Personal Information”) about you that we may collect and store as a result of our business activities with you. This Privacy Policy (this “Policy”) outlines the type of information we may collect, how we might use such information, and the choices you have regarding such information.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-We encourage you to read this Policy carefully. If you have any questions about this Policy, our use of your Personal Information, or your dealings with this website, please feel free to contact us by submitting a support request to us at [support@sometrics.com](mailto:support@sometrics.com).
+**Information Collection and Use**
 
-We may update this Policy from time to time in our sole discretion so please check back frequently. Any changes made to this Policy will be reflected in an updated policy (denoted by an updated date above) posted on our website at [http://www.gamecoins.com](http://www.gamecoins.com/). Your use of the website or Services after an updated policy has been posted will constitute your agreement to the Policy’s terms.
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-Customers who use the products and services available through our websites, [www.sometrics.com](http://www.sometrics.com/) and [www.gamecoins.com](http://www.gamecoins.com/) (collectively, the “Services”) and who provide Personal Information to us, do so voluntarily. In order to use our Services, a customer is required to create an account by registering and providing us with basic contact and website information, including, but not limited to, such customer’s name, email address, and website URL. By providing us with Personal Information, customers are consenting to the collection, use and disclosure of such Personal Information in accordance with the terms and conditions set forth in this Policy.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-Any Personal Information collected and stored by us is used to provide the Services to you, including, contacting our customers, evaluating a prospective customer’s website content, and for such other purposes as are described in this Policy. Some general information may be used for personalization and services which include displaying dynamic activity.
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-Sometrics, Inc. reserves the right to disclose your Personal Information without notice or consent as it deems necessary (a) to deliver the products or services to you, including sharing such information with service providers that work on our behalf to process your transaction; (b) to conform to applicable law; (b) when we believe that disclosure is necessary to protect our rights and property; (c) to protect the safety of our users, us, or other third parties; (d) to comply with any judicial proceeding, court order, or legal process served on us; and/or (e) pursuant to an acquisition, merger, sale of assets or other business transfer, bankruptcy or dissolution.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-Sometrics, Inc. offers you the option of taking market research surveys to earn Game Coins. These surveys assist market research partners in developing new products and services. When you provide responses to these surveys, you are sharing that information with Sometrics, Inc. and our partners, unless it is specifically stated otherwise. If Personal Information is being collected and/or maintained by a third party, you will be notified prior to the time of the data collection or transfer. If you do not want your information to be shared, you can choose to opt out of that particular survey.
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-Data provided within surveys is reported to our partners in aggregate (for example, 45% of the people who completed this survey were female). Sometrics, Inc. may also disclose aggregated statistics in order to describe our services to prospective partners, advertisers, and other third parties, and for other lawful purposes. No Personal Information is shared with a third party without user consent, except where otherwise noted within this Policy.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-Sometrics, Inc. customers may, from time to time, receive “Sometrics, Inc. Newsletters” sent via email from our authorized email sender. Customers who agree to our Terms of Service Agreement and create an account with Sometrics, Inc. consent to receive such emails and other messages of interest. Customers wishing not to receive the Sometrics, Inc. Newsletter may opt-out of receiving such emails by selecting the opt-out option at the bottom of all newsletter emails.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-By accessing our website, our internet servers automatically record information that your internet browser sends when you visit a website. These logs may contain information such as your internet protocol (IP) address, browser version, domain name, language, date and time, the referring website and information in your cookie files. The foregoing is anonymous information that does not contain any Personal Information about you. We use this information to improve our website and Services.
+**Security**
 
-Sometrics, Inc. (or our service providers) may place a temporary or persistent “cookie” on your computer’s hard drive for purposes of (1) allowing our customers the convenience of not having to remember their login information when accessing our website and (2) gathering and aggregating statistical data about the usage of our website and Services for customers, and (3) sending you targeted advertisements that we believe may be of interest to you. Cookies are simple, harmless text files that remember the internet browser you use to access the internet. These cookies do not track, retain, or store any Personal Information, and they gather the same general internet information that is available to all internet service providers, search engines, and websites. Examples of this information include, without limitation, a visitor’s general location based on IP address, information from the visitor’s browser such as browser type, type of operating system, keywords used while searching, websites visited, monitor resolution settings. We use this information to improve our website and Services. If you do not want to receive cookies (and thereby, not have the foregoing anonymous information tracked), you may adjust the settings in your internet browser to reject cookies or to alert you when a website is attempting to place a cookie on your computer (see below for more information).
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-You can opt-out of having your Personal Information used for email communications by selecting the opt-out option at the bottom of the email.
+**Updating Your Information**
 
-You can also stop Cookies (see above) from being stored on your computer and from being used for the purposes listed above, including for targeted advertising purposes. Most Internet browsers offer robust options in relation to cookies. The default settings in all major browsers accept cookies. However, by adjusting your browser settings, you can choose to automatically block cookies from specific web sites, from all web sites, from web sites without a privacy policy, or from all third parties. Consult the help manual for your browser for detailed information. Please note that if you delete, block or otherwise restrict Cookies, but later you use a different computer or Internet browser, you may need to restrict Cookies on that device as well. Deleting a Cookie does not mean you will no longer see online advertising; it does mean that Sometrics will not be able to target an advertisement to you based on information derived from the Cookie.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-*Please note that blocking Cookies may interfere with your ability to access or use certain features of our website and Services.
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-If you have any other questions, please contact us (see below).
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-We do not knowingly solicit or collect any Personal Information belonging to children under the age of 13. Our products and services are not directed to children under the age of 13. No one under the age of 13 is authorized to provide any Personal Information to us, to use our Services, or to engage in any transaction with us. If you believe that a child under the age of 13 has provided information to us, please contact us immediately (see below).
+      iii.      You may call us at: (480) 505-8800
 
-The security of your Personal Information is important to us. We follow generally accepted industry standards to protect the Personal Information collected by us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
+       iv.      You may fax us at: (480) 505-8844
 
-If you have questions or concerns regarding this Privacy Policy please contact us at [support@sometrics.com](mailto:support@sometrics.com).
+**Sending Emails**
 
-Our postal address is:  
-Sometrics Inc.  
-909 N Sepulveda Blvd, Suite 860  
-El Segundo, CA 90245 
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+
+**Compliance with Laws and Law Enforcement**
+
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+
+**Third Party Service Providers**
+
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
