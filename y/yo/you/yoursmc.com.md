@@ -1,96 +1,100 @@
-> *The following text is extracted and transformed from the yoursmc.com privacy policy that was archived on 2011-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111004222949id_/http%3A//yoursmc.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoursmc.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516112837id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy
+# Legal Agreement
 
-Specialty Merchandise Corporation (SMC) takes privacy matters seriously.  Please read the following to learn more about our privacy policy. 
+**GoDaddy Respects Your Privacy**
 
-**What This Privacy Policy Covers**
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-  * This policy covers how SMC treats personal information that SMC collects and receives, including information related to your purchase and use of SMC products and services.  Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.
-  * By using any SMC pages , in any way accessing SMCorp.com, or using other services of SMC, you are accepting the practices described in this policy and our terms of use.
-  * This policy does not apply to the practices of companies that SMC does not own or control, or to people that SMC does not employ or manage.  In addition, SMC associated companies such as eMerchantClub, LLC may have their own privacy policies.
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
 **Information Collection and Use**
 
-      **General**
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-  * SMC may collect personal information when you (a) visit SMC pages or the pages of SMC business partners, (b) request information from SMC, (c) join SMC as a member, (d) use [ SMC services](http://privacy.yahoo.com/privacy/us/all.html), or (e) purchase SMC products.  SMC may combine information about you that we have with information we obtain from business partners or other companies.
-  * When you register we ask for information such as your name and contact information.  In connection with purchases we may also ask for credit card numbers, Social Security numbers or other financial information. Once you register with SMC and sign in to our services, you are not anonymous to us.
-  * SMC collects information about your transactions with us and with some of our business partners, including information about your use of services and purchase of products that we offer.
-  * SMC may automatically receive and record information on our server logs from your browser, including your [ IP address](http://privacy.yahoo.com/privacy/us/ip/details.html), SMC [ cookie](http://privacy.yahoo.com/privacy/us/cookies/details.html) information, and the page you request. 
-  * SMC may use information we receive from you for any business purpose, such as to (a) fulfill your requests for products and services, (b) improve our services and customize the advertising and content you see, (c) provide our business partners and others with the ability to contact you and offer additional products and services you may be interested in, (d) conduct research, troubleshoot problems, resolve disputes, or enforce the SMC Standard Membership Rules, or (e) provide reporting for internal and external clients. 
-  * You consent to the collection and use of your personal information, including the transfer of information within and outside the United States for storage, processing, and use as set forth in this privacy policy. 
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-      **Children**
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-  * SMC offers a business opportunity that is not appropriate for children under 13. 
-  * SMC restricts access by minors by requiring use of a credit card to join SMC online. 
-  * When a minor attempts to join SMC, we ask that his or her parent or guardian provide consent. 
-  * SMC does not knowingly collect information from children under the age of 13. 
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
+**Security**
 
-**Information Sharing and Disclosure**
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-  * SMC may sell, rent, or share personal information about you with our business partners, affiliated companies, nonaffiliated companies and other people.  Your personal information may be used to, among other things: 
-    * Provide products, services or information you've requested. 
-    * Provide you with information about additional products and services you  may be interested in. 
-    * Communicate with you about offers from SMC and our marketing partners via direct mail, email, telemarketing or other direct marketing. 
-    * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; 
-    * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of SMC's Standard Membership Rules, terms of use, or as otherwise required or permitted by law. 
-    * We transfer information about you if SMC is acquired by or merged with another company. 
-  * SMC may employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, processing credit card account payments, providing collection services, and providing customer service. They may have access to personal information about you needed to perform their functions. 
-  * SMC works with vendors, partners, advertisers, and other service providers in different industries and categories of business. 
-  * We reserve the right to send you certain communications relating to the SMC service, such as service announcements and administrative messages, that are considered part of your SMC membership, without offering you the opportunity to opt-out of receiving them. 
+**Updating Your Information**
 
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-**Cookies**
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-  * Cookies are alphanumeric identifiers that SMC may transfer to your computer hard drive through your Web browser. 
-  * SMC may set and access [ cookies](http://privacy.yahoo.com/privacy/us/cookies/details.html) on your computer. 
-  * SMC may use IP addresses and cookies to analyze trends, administer the site, track member and user movements, and gather broad demographic information for aggregate use. 
-  * SMC may also use [ web beacons](http://privacy.yahoo.com/privacy/us/beacons/details.html) to access SMC cookies inside and outside our network of web sites and in connection with SMC products and services. 
+      iii.      You may call us at: (480) 505-8800
 
+       iv.      You may fax us at: (480) 505-8844
 
+**Sending Emails**
 
-**Confidentiality and Security**
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-  * Sensitive financial information, such as credit card information, is encrypted and protected online for your privacy and security. 
-  * Personal information collected by SMC is stored in secure databases, accessible only by SMC, our affiliated companies and service providers, and others authorized to have access. 
-  * We have physical, electronic, and procedural safeguards that comply with applicable regulations to protect personal information about you. 
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
+**Compliance with Laws and Law Enforcement**
 
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-**Changes to this Privacy Policy**
+**Third Party Service Providers**
 
-  * SMC may modify, cancel or update this policy at any time in its sole discretion.  Any changes will become effective immediately, and will apply to all personal information then in SMC’s possession, custody or control, including all previously-collected information. 
-  * SMC may notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your SMC account, by placing a notice on our site, or by posting the revised policy at SMCorp.com/privacy. 
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
+**Supplementation of Information**
 
-**Updating Personal Information**
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-  * If your personal information changes SMC may provide a way to correct or update the personal data provided to SMC 
-  * SMC members may update their account information in the Members Only area of SMCorp.com or by contacting customer service. 
+**Contests/Surveys**
 
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-**Questions and Suggestions**
+**Tell-A-Friend**
 
-  * If you have questions or suggestions, you can contact us at: 
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
+**What Happens to my Personal Information if I Opt Out?**
 
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-Specialty Merchandise Corporation  
-Customer Service – Terms of Use Issues  
-996 Flower Glen Street  
-Simi Valley, CA 93065
+**Transfer of Data Abroad**
 
-(805) 578-5500
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-Members only at [ http://smcsupport.smcorp.com](http://smcsupport.smcorp.com/)
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
