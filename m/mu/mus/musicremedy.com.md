@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the musicremedy.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331220603id_/http%3A//musicremedy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicremedy.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516054203id_/http%3A//www.musicremedy.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - MusicRemedy
+# MusicRemedy: Privacy Policy
 
-MusicRemedy.com knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the MusicRemedy website located at http://musicremedy.com (the “Site”), you are accepting the practices outlined in this Privacy Policy.
+MusicRemedy.com knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the MusicRemedy website located at http://musicremedy.com (the "Site"), you are accepting the practices outlined in this Privacy Policy.
 
 ### What Does This Privacy Policy Cover?
 
-This Privacy Policy covers the site’s treatment of personal information that the site gathers when you are on the Site and when you use the site’s services (the “Services”). This policy also covers the site’s treatment of any personal information that the site’s business partners share with the site.  
+This Privacy Policy covers the site's treatment of personal information that the site gathers when you are on the Site and when you use the site's services (the "Services"). This policy also covers the site's treatment of any personal information that the site's business partners share with the site.  
 This policy does not apply to the practices of third parties that the site does not own or control, or to individuals that the site does not employ or manage.
 
 ### What Personal Information About Customers Does The site Collect?
@@ -15,13 +15,13 @@ Our primary goal in collecting personal information is to provide you with a fri
 
 ### Information You Provide to Us
 
-We receive and store any information you enter on the Site or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our Site’s features. The personal information you provide is used for such purposes as responding to your requests for certain services, customizing the content and advertising you see, and communicating with you about specials, surveys and new products and services.
+We receive and store any information you enter on the Site or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our Site's features. The personal information you provide is used for such purposes as responding to your requests for certain services, customizing the content and advertising you see, and communicating with you about specials, surveys and new products and services.
 
 In order for you to use our Site, you are not required to register; however, you must register to take advantage of certain features of the Site, such as entering contests and other information to appear on your MyPage and receiving e-mail newsletters from us. To register, you must provide your e-mail address, an username and a password. We may also request demographic information and unique identifiers in order to provide you with a more personalized service, but this information is optional. You may also provide us with your e-mail address to be notified when new merchandise is available on the Site. If you wish to purchase merchandise from our Site, you must disclose certain billing and shipping information to our third-party service providers, including your name, address and information about your method of payment.
 
 ### Automatic Information
 
-We receive and store certain types of information whenever you interact with us. The site automatically receives and records certain “traffic data” on our server logs from your browser including your IP address, site cookie information, and the page you requested. The site uses this traffic data to help diagnose problems with its server, analyze trends and administer the Site.
+We receive and store certain types of information whenever you interact with us. The site automatically receives and records certain "traffic data" on our server logs from your browser including your IP address, site cookie information, and the page you requested. The site uses this traffic data to help diagnose problems with its server, analyze trends and administer the Site.
 
 Generally, our service automatically collects usage information, such as the numbers and frequency of visitors to our Site and its components, similar to TV ratings that indicate how many people watched a particular show. This data is only used in the aggregate. This type of collective data enables us to figure out how often customers use parts of the Site, so we can make the Site appealing to as many users as possible.
 
@@ -37,15 +37,15 @@ For purposes such as improving personalization of our service, we may receive in
 
 ### What about Cookies?
 
-Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our Site are visited and by how many people. Site cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your username or e-mail address is.
+Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our Site are visited and by how many people. Site cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your username or e-mail address is.
 
-The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of the site’s most attractive features.
+The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of the site's most attractive features.
 
 Some of our business partners may use cookies on our Site (for example, advertisers). However, we have no access to or control over these cookies.
 
 ### Advertising
 
-The site uses third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. In addition, we use Web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising. Web beacons enable us to recognize a browser’s cookie when a browser visits this site, to learn which banner ads bring users to our Web site and to deliver more relevant advertising. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here[Google], click here [DoubleClick] and/or click here [Network Advertising Initiative].
+The site uses third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. In addition, we use Web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising. Web beacons enable us to recognize a browser's cookie when a browser visits this site, to learn which banner ads bring users to our Web site and to deliver more relevant advertising. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here[Google], click here [DoubleClick] and/or click here [Network Advertising Initiative].
 
 ### Will site Share Any of the Information it Receives?
 
@@ -57,7 +57,7 @@ In certain situations, the site may provide services, or sell products jointly w
 
 ### Agents
 
-We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Examples include billing users who purchase merchandise from the site, shipping and delivering merchandise, analyzing data, providing marketing assistance, providing customer service, and sending out contests prizes to the winners. Our agents subscribe to the same level of privacy protection as we do. Unless we tell you differently, the site’s agents do not have any right to use the personal information we share with them beyond what is necessary to assist us.
+We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Examples include billing users who purchase merchandise from the site, shipping and delivering merchandise, analyzing data, providing marketing assistance, providing customer service, and sending out contests prizes to the winners. Our agents subscribe to the same level of privacy protection as we do. Unless we tell you differently, the site's agents do not have any right to use the personal information we share with them beyond what is necessary to assist us.
 
 ### Promotional Offers
 
@@ -69,7 +69,7 @@ In some cases, we may choose to buy or sell assets. In these types of transactio
 
 ### Protection of the Site and Others
 
-We may release personal information when we believe in good faith that release is necessary to comply with the law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of the site, our employees, our users, or others. The site may disclose personal information to parties in compliance with the site’s Copyright Policy, as the site in its sole discretion believes necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity. In such events, the site may disclose name, street address, city, state, zip code, country, phone number, and e-mail address.
+We may release personal information when we believe in good faith that release is necessary to comply with the law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of the site, our employees, our users, or others. The site may disclose personal information to parties in compliance with the site's Copyright Policy, as the site in its sole discretion believes necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity. In such events, the site may disclose name, street address, city, state, zip code, country, phone number, and e-mail address.
 
 ### With Your Consent
 
@@ -91,13 +91,13 @@ You may request deletion of your site account by contacting us through our conta
 
 If you do not wish to receive e-mail or other mail from us, please contact us through ourcontact form. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Site, and you are responsible for reviewing such legal notices for changes.
 
-As explained earlier, the “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if do not allow cookies, you will not be able to take advantage of some of our features.
+As explained earlier, the "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if do not allow cookies, you will not be able to take advantage of some of our features.
 
 As stated previously, you can always opt not to disclose information, even though it may be needed to take advantage of certain site features.
 
-### Can Children Use site’s Services?
+### Can Children Use site's Services?
 
-The site complies with the Children’s Online Privacy Protection Act and will not knowingly collect personally identifiable information from anyone under the age of 13. Please see our Terms of Use for more information.
+The site complies with the Children's Online Privacy Protection Act and will not knowingly collect personally identifiable information from anyone under the age of 13. Please see our Terms of Use for more information.
 
 ### Conditions of Use
 
@@ -105,7 +105,7 @@ If you decide to visit the Site, your visit and any possible dispute over privac
 
 ### Third Party Sites
 
-The Site may permit you to link to other websites on the Internet, and other websites may contain links to the Site. These other websites are not under site’s control. The privacy and security practices of websites linked to or from the Site are not covered by this Privacy Policy, and site is not responsible for the privacy or security practices or the content of such websites.
+The Site may permit you to link to other websites on the Internet, and other websites may contain links to the Site. These other websites are not under site's control. The privacy and security practices of websites linked to or from the Site are not covered by this Privacy Policy, and site is not responsible for the privacy or security practices or the content of such websites.
 
 ### Visiting our website from outside the United States
 
@@ -117,4 +117,4 @@ The site may amend this Privacy Policy. Use of information we collect now is sub
 
 ### Questions or Concerns
 
-If you have any questions or concerns regarding privacy at site, please contact us through our contact form. Your privacy is important to us and we will make every effort to resolve your concerns.
+If you have any questions or concerns regarding privacy at site, please contact us through our contact form. Your privacy is important to us and we will make every effort to resolve your concerns. 
