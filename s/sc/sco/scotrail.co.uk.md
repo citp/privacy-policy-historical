@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scotrail.co.uk privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628093704id_/http%3A//www.scotrail.co.uk/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scotrail.co.uk privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517022327id_/http%3A//www.scotrail.co.uk/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | ScotRail
 
@@ -16,9 +16,9 @@ Abellio Scotrail Ltd ("we", "us", or "our") is committed to protecting and respe
 
 This policy (together with our Terms and Conditions and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-This policy applies to the website [www.scotrail.co.uk](http://www.scotrail.co.uk/ "Opens in a new window"). The website [www.scotrail.co.uk](http://www.scotrail.co.uk/ "Opens in a new window") ('our site') is owned and operated by Abellio Scotrail Ltd, whose registered office is at 5th Floor, Culzean Building, 36 Renfield Street, Glasgow, G2 1LU. Abellio Scotrail Ltd is a company registered in Scotland with company number SC450732.
+This policy applies to the website [www.scotrail.co.uk]( "Opens in a new window"). The website [www.scotrail.co.uk]( "Opens in a new window") ('our site') is owned and operated by Abellio Scotrail Ltd, whose registered office is at 5th Floor, Culzean Building, 36 Renfield Street, Glasgow, G2 1LU. Abellio Scotrail Ltd is a company registered in Scotland with company number SC450732.
 
-By visiting [www.scotrail.co.uk](http://www.scotrail.co.uk/ "Opens in a new window") you are accepting and consenting to the practices described in this policy.
+By visiting [www.scotrail.co.uk]( "Opens in a new window") you are accepting and consenting to the practices described in this policy.
 
 For the purpose of the Data Protection Act 1998 (the Act), the data controller in respect of our site is Abellio Scotrail Ltd of 5th Floor, Culzean Building, 36 Renfield Street, Glasgow, G2 1LU.
 
@@ -32,7 +32,7 @@ We may collect and process the following data about you:
 
 #### Information you give us
 
-You may give us information about you by filling in forms on our site [www.scotrail.co.uk](http://www.scotrail.co.uk/ "Opens in a new window"), or by corresponding with us by phone, email or otherwise. This includes information you provide when you register to use our site, subscribe to our service, search for tickets, order tickets on our site, participate in discussion boards or other social media functions on our site, enter a competition, promotion or survey, and when you report a problem with our site. The information you give us may include your name, country of residence, email address, phone number and travel preference inform.
+You may give us information about you by filling in forms on our site [www.scotrail.co.uk]( "Opens in a new window"), or by corresponding with us by phone, email or otherwise. This includes information you provide when you register to use our site, subscribe to our service, search for tickets, order tickets on our site, participate in discussion boards or other social media functions on our site, enter a competition, promotion or survey, and when you report a problem with our site. The information you give us may include your name, country of residence, email address, phone number and travel preference inform.
 
 #### Information we collect about you
 
@@ -148,9 +148,9 @@ The conversion tracking cookie is set on your browser only when you click an ad 
 
 #### DoubleClick tracking
 
-We use the Google DoubleClick cookie to allow us to implement Google Display Network impression reporting which reports display advertisement impressions, other uses of ad services and interactions with these ad impressions and ad services which are related to visits to [www.scotrail.co.uk](http://www.scotrail.co.uk/ "Opens in a new window")
+We use the Google DoubleClick cookie to allow us to implement Google Display Network impression reporting which reports display advertisement impressions, other uses of ad services and interactions with these ad impressions and ad services which are related to visits to [www.scotrail.co.uk]( "Opens in a new window")
 
-We have implemented Google Analytics Demographics and Interest reporting which reports third party audience data (such as anonymised age, gender and interests) within Google Analytics. We also use the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to [www.scotrail.co.uk](http://www.scotrail.co.uk/ "Opens in a new window"). This means we may advertise to previous visitors who haven’t completed a task on our site; this could be in the form of an advertisement on the Google search results page or a site in the Google Display Network.
+We have implemented Google Analytics Demographics and Interest reporting which reports third party audience data (such as anonymised age, gender and interests) within Google Analytics. We also use the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to [www.scotrail.co.uk]( "Opens in a new window"). This means we may advertise to previous visitors who haven’t completed a task on our site; this could be in the form of an advertisement on the Google search results page or a site in the Google Display Network.
 
 Any data collected will be used in accordance with our own privacy policy and Google’s privacy policy. You can manage how Google manages this information and "opt out" from data collection at [Google Ads Preferences Manager](https://www.google.com/settings/u/0/ads?hl=en&sig=ACi0TCjFCvaQdGQwMve4YkK4n-vx0zEf3GSaj_8sZwBcKRYDhNpr8OMU_qNi2MCHudiG2niqOLn35wmrbsVYLX0k6MvhsnEBiMMahARe9d_agUgKG4hNYXLrvh006U4CqPwPmKJj5LBOC7xi4lGO6hED4UcFoanOMpk5QJDPvo5ZKSv1j4GP5ZA "Opens in a new window").
 
