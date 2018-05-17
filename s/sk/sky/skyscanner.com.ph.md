@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyscanner.com.ph privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230074747id_/https%3A//www.skyscanner.com.ph/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyscanner.com.ph privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517114413id_/https%3A//www.skyscanner.com.ph/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -115,3 +115,5 @@ There are a number of useful tools and resources you can use to control your pri
 **Contacting Us**
 
 If you have any questions about this policy, please [contact us here](https://help.skyscanner.net/), or by letter to Skyscanner, Quartermile One, 15 Lauriston Place, Edinburgh EH3 9EN marked for the attention of ‘Chief Legal Officer’.
+
+### [Cheap Flight Ticket Hacking Tools](https://www.skyscanner.com.ph/)
