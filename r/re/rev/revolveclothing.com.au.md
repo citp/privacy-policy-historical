@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revolveclothing.com.au privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114102550id_/http%3A//www.revolveclothing.com.au/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revolveclothing.com.au privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517063056id_/http%3A//www.revolveclothing.com.au/privacypolicy) for the most accurate reproduction.*
 
 # Security & Privacy | REVOLVE
 
