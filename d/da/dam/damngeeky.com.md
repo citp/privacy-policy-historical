@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the damngeeky.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114230904id_/http%3A//www.damngeeky.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the damngeeky.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517164317id_/http%3A//www.damngeeky.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - DamnGeeky
 
