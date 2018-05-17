@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filetut.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122131826id_/http%3A//filetut.com/ps.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filetut.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517141525id_/http%3A//asmfile.com/ps.html) for the most accurate reproduction.*
 
-# Filetut Storage - Dosya paylaЕџД±mД±nД±n en kolay yolu
+# Filetut Storage - Бесплатный хостинг файлов
 
   * ### The Filetut Privacy Policy was updated on September 01, 2014. 
 
@@ -73,7 +73,7 @@ When you use some Filetut products, services, or applications or post on an File
 
 Filetut makes it easy for you to keep your personal information accurate, complete, and up to date. We will retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law. Access to Personal Information
 
-You can help ensure that your contact information and preferences are accurate, complete, and up to date by logging in to your account at https://Filetutid.Filetut.com/. For other personal information we hold, we will provide you with access for any purpose including to request that we correct the data if it is inaccurate or delete the data if Filetut is not required to retain it by law or for legitimate business purposes. We may decline to process requests that are frivolous/vexatious, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by local law. Access, correction, or deletion requests can be made through the regional Privacy Contact Form. Children
+You can help ensure that your contact information and preferences are accurate, complete, and up to date by logging in to your account at https://Filetutid.asmfile.com/. For other personal information we hold, we will provide you with access for any purpose including to request that we correct the data if it is inaccurate or delete the data if Filetut is not required to retain it by law or for legitimate business purposes. We may decline to process requests that are frivolous/vexatious, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by local law. Access, correction, or deletion requests can be made through the regional Privacy Contact Form. Children
 
 We understand the importance of taking extra precautions to protect the privacy and safety of children using Filetut products and services. Accordingly, we do not knowingly collect, use or disclose personal information from children under 13, or equivalent minimum age in the relevant jurisdiction, without verifiable parental consent. If we learn that we have collected the personal information of a child under 13, or equivalent minimum age depending on jurisdiction, without first receiving verifiable parental consent we will take steps to delete the information as soon as possible.
 
@@ -91,7 +91,7 @@ All such communications are examined and replies issued where appropriate as soo
 
 Filetut may update its Privacy Policy from time to time. When we change the policy in a material way, a notice will be posted on our website along with the updated Privacy Policy.
 
-If you have any questions about this Policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have any questions about this Policy, please contact us at support@asmfile.com
 
 
 
