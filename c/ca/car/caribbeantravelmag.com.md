@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caribbeantravelmag.com privacy policy that was archived on 2017-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170925094552id_/http%3A//www.islands.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caribbeantravelmag.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517062702id_/https%3A//www.islands.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Islands
 
@@ -93,11 +93,11 @@ We only use the information we collect for purposes consistent with this policy.
 
 ### Your privacy options
 
-**If you prefer not to receive e-mail communications from other companies,** you may choose to remove yourself from any e-mail lists that we provide to third parties for marketing purposes by sending us an e-mail at [emailoptout@bonniercorp.com](https://web.archive.org/web/20170925094552id_/http%3A//www.islands.com/emailoptout@bonniercorp.com). You will still receive information from Bonnier and its various brands, but we will not share your address information with anyone else.
+**If you prefer not to receive e-mail communications from other companies,** you may choose to remove yourself from any e-mail lists that we provide to third parties for marketing purposes by sending us an e-mail at [emailoptout@bonniercorp.com](mailto:emailoptout@bonniercorp.com). You will still receive information from Bonnier and its various brands, but we will not share your address information with anyone else.
 
-**If you prefer not to receive postal communication from other companies,** you may choose to remove yourself from any postal mailing lists that we provide to third parties for marketing purposes by sending us an e-mail at [emailoptout@bonniercorp.com](https://web.archive.org/web/20170925094552id_/http%3A//www.islands.com/emailoptout@bonniercorp.com), or writing us at P.O. Box 6364, Harlan, IA 51593-1864. You will still receive information from Bonnier and its various brands, but we will not share your address information with anyone else.
+**If you prefer not to receive postal communication from other companies,** you may choose to remove yourself from any postal mailing lists that we provide to third parties for marketing purposes by sending us an e-mail at [emailoptout@bonniercorp.com](mailto:emailoptout@bonniercorp.com), or writing us at P.O. Box 6364, Harlan, IA 51593-1864. You will still receive information from Bonnier and its various brands, but we will not share your address information with anyone else.
 
-We only want to communicate with you if you want to hear from us. **If you prefer not to be contacted at all** , you may opt out of receiving any communications from us at any time by notifying us at [emailoptout@bonniercorp.com](https://web.archive.org/web/20170925094552id_/http%3A//www.islands.com/emailoptout@bonniercorp.com). You may also notify us by sending mail to the following address:
+We only want to communicate with you if you want to hear from us. **If you prefer not to be contacted at all** , you may opt out of receiving any communications from us at any time by notifying us at [emailoptout@bonniercorp.com](mailto:emailoptout@bonniercorp.com). You may also notify us by sending mail to the following address:
 
 Online Marketing Department  
 Attn: Privacy Preferences Bonnier Corporation  
