@@ -1,22 +1,37 @@
-> *The following text is extracted and transformed from the lambeth.gov.uk privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901194651id_/https%3A//www.lambeth.gov.uk/elections-and-council/website-support/cookies-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lambeth.gov.uk privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517215412id_/https%3A//www.lambeth.gov.uk/elections-and-council/website-support/cookies-and-privacy) for the most accurate reproduction.*
 
-# Cookies and Privacy | Lambeth Council
+# Privacy and cookies | Lambeth Council
+
+This page gives details of privacy and web cookie policies for users of the Lambeth web site
 
 ## Privacy
 
   * Information you supply on electronic forms available on our web site will only be used for the purpose(s) stated on the form.
-  * Information you provide in emails to us will only be used for the purpose (which we reasonably believe) that you give it to us for.
   * Information you provide us with may be used for statistical research but will not be used in any way (beyond its original purpose) which enables you to be identified. 
 
 
-
-If you email us, we will not send unsolicited emails to your address unless we explicitly ask for and get your permission.
 
 We do not collect any information about you except that required for system administration of the web server. This information which is your IP address is not linked to anything personally identifiable, which means that while your user session will be logged, you will remain anonymous to us.
 
 We provide links from this web site to other sites to provide you with additional information but we cannot guarantee that such links will always work, and we make no representations as to the quality or accuracy of the sites or their terms of use (for example their privacy policy).
 
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.
+
+## Email data collection and use
+
+We will only use the information about you for the purpose for which you provide it. Information you submit to the council is stored on secure servers. In order to complete your request we may need to transfer information you submit to us to countries or jurisdictions outside the EEA.
+
+We are compliant with the EU- US Privacy Shield agreement which regulates the exchange of personal data between these two areas. This is recognised by the European Commission as providing adequate protection for the rights of data individuals in connection with the transfer of their personal data to signatories of the scheme in the USA.
+
+We will never sell or share your personal information with any other organisation outside of Lambeth Council.
+
+London Borough of Lambeth is a data controller under the Data Protection Act 1998. We will hold and process personal information in accordance with this Act.
+
+You may remove or change your details at any time.
+
+## Your right to access your personal information
+
+You have the right access to access your personal information held on our files by making a subject access request to the data protection officer and on payment of an administration fee.
 
 ## Cookies
 
