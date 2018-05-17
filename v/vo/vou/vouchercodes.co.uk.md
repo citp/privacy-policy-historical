@@ -1,20 +1,27 @@
-> *The following text is extracted and transformed from the vouchercodes.co.uk privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228003535id_/https%3A//www.vouchercodes.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vouchercodes.co.uk privacy policy that was archived on 2018-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180518015231id_/https%3A//www.vouchercodes.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # VoucherCodes Data Protection and Privacy Policy
 
-RetailMeNot UK Ltd, trading as VoucherCodes, ("we", “our”, “us”) are committed to protecting and respecting your privacy.
+  * [ About us ](https://web.archive.org/about-us.html)
+  * [ Partner with us ](https://web.archive.org/partner-with-us.html)
+  * [ Press resources ](https://web.archive.org/press/)
+  * [ Careers ](https://web.archive.org/careers/)
+  * [ Legal ](https://web.archive.org/terms-and-conditions.html)
+  * [ Contact us ](https://web.archive.org/contact-us.html)
+
+
+
+RetailMeNot UK Ltd, trading as VoucherCodes, ("we", "our", "us") are committed to protecting and respecting your privacy.
 
 This policy (together with our website terms and conditions that apply to your use of our website and our mobile application terms and conditions that apply to your use of our mobile application) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purpose of the Data Protection Act 1998 (the “Act”), the data controller is RetailMeNot UK Ltd of 6th Floor, 200 Grays Inn Road, London, WC1X 8XZ.
-
-* * *
+For the purpose of the Data Protection Act 1998 (the "Act"), the data controller is RetailMeNot UK Ltd of 6th Floor, 200 Grays Inn Road, London, WC1X 8XZ.
 
 ## Information We May Collect from You
 
 We may collect and process the following data about you:
 
-  * Information that you provide by filling in forms on our site www.VoucherCodes.co.uk (the “Website”) or the registration process for our mobile application (the “App”). This includes information provided at the time of registering for our newsletter, posting discounts and other material or contacting us. We may also ask you for information when you report a problem with the Website or the App.
+  * Information that you provide by filling in forms on our site www.VoucherCodes.co.uk (the "Website") or the registration process for our mobile application (the "App"). This includes information provided at the time of registering for our newsletter, posting discounts and other material or contacting us. We may also ask you for information when you report a problem with the Website or the App.
 
   * If you contact us, we may keep a record of that correspondence.
 
@@ -28,8 +35,6 @@ We may collect and process the following data about you:
 
 
 
-
-* * *
 
 ## IP Addresses and Cookies
 
@@ -56,9 +61,7 @@ To opt out of the Criteo service visit [Criteo opt-out solution](http://www.crit
 
 Please note that if you disable the display of personalised ads from Criteo and other advertising partners, you will continue to receive ads that are less relevant to your interests/browsing behaviour
 
-You can read more about our use of cookies [here](https://web.archive.org/about-cookies.html).
-
-* * *
+You can read more about our use of cookies [here](https://web.archive.org/legal/cookie-notice).
 
 ## Direct Mailings
 
@@ -68,11 +71,9 @@ You can sign up to our newsletter through submitting your email address at any o
 
 You can unsubscribe from receiving our newsletter by clicking the "Unsubscribe" link featured within each of our newsletters. Alternatively, recipients can edit their personal information or manage newsletter subscriptions by updating their information within their user profile.
 
-* * *
-
 ## Where We Store Your Personal Data
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). Specifically our parent company (“RetailMeNot, Inc.”) is located in the United States of America and your personal data (as described in “Information we may Collect from You” above) can be accessed by and / or transferred to RetailMeNot, Inc in the United States and / or its affiliates, partners and service providers and will be used for the communication of information, request fulfillment, statistical analysis, optimisation of websites, marketing, to capture events and generate reports such as: outlook, impressions, app launches, geo-fence crossings, user comments, voting, IP address, device identifiers, and geo-locations, to prepare personalization algorithms and features, to check and verify the personal data for qualities such as completeness, validity, and efficacy and to provide administrative and support services.
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). Specifically our parent company ("RetailMeNot, Inc.") is located in the United States of America and your personal data (as described in "Information we may Collect from You" above) can be accessed by and / or transferred to RetailMeNot, Inc in the United States and / or its affiliates, partners and service providers and will be used for the communication of information, request fulfillment, statistical analysis, optimisation of websites, marketing, to capture events and generate reports such as: outlook, impressions, app launches, geo-fence crossings, user comments, voting, IP address, device identifiers, and geo-locations, to prepare personalization algorithms and features, to check and verify the personal data for qualities such as completeness, validity, and efficacy and to provide administrative and support services.
 
 To ensure the adequate protection of your personal data, any transfer of your personal data outside the EEA will be pursuant to the Model Clauses approved by the European Commission.
 
@@ -83,8 +84,6 @@ All information you provide to us is stored on our (or our third party service p
 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Website or our App; any transmission is at your own risk.
 
 Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
-
-* * *
 
 ## Uses Made of the Information
 
@@ -113,9 +112,7 @@ We have implemented Google Analytics including Google Analytics Demographics and
 
 We have implemented MobileAppTracking (MAT) to provide you with marketing services when using the App. You can opt out of the MAT platform [here](https://www.optoutmobile.com/).
 
-We only disclose information about identifiable individuals to our affiliate advertisers as described in “Disclosure of Your Information” below. However, we may provide any affiliate advertisers with aggregate information about our users.
-
-* * *
+We only disclose information about identifiable individuals to our affiliate advertisers as described in "Disclosure of Your Information" below. However, we may provide any affiliate advertisers with aggregate information about our users.
 
 ## Collection and Use of Location Data
 
@@ -136,13 +133,11 @@ By (i) installing the App on a mobile device and permitting your mobile device t
 
 You may adjust the settings on your mobile device to withdraw consent to sharing your location data at any time and to prevent the sharing of location data. You may also manage how your mobile device or mobile browser handles cookies and related technologies by adjusting your mobile device privacy and security settings. Please refer to instructions provided by your mobile service provider or the manufacturer of your device to learn how to adjust your mobile device and mobile browser settings. Please note that if you disable the sharing of location data, you may be unable to access some features of our services that are designed for mobile devices.
 
-* * *
-
 ## Disclosure of Your Information
 
 We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the Companies Act 2006.We may disclose your personal information to our affiliate advertisers, but only to the extent you have redeemed a voucher offered by the affiliate advertiser, or participated in an offer, contest or other activity sponsored or offered through the Website or App on behalf of the affiliate advertiser.
 
-We may disclose your personal information to our service providers that provide services for us to assist us in carrying out the purposes described in “Uses Made of the Information” above such as sending emails on our behalf, processing payments, and facilitating card-linked offers. Qualcomm Retail Solutions, Inc., for example, is a service provider that enables certain geo-location features of our Apps. Consequently, Qualcomm Retail Solutions, Inc. and its affiliates collect, store, and process, on our behalf, certain location information and related data on servers in the United States. Our service providers are bound by law or contract to protect personal information and are only allowed to use the personal information in accordance with the terms of our service agreements with them.
+We may disclose your personal information to our service providers that provide services for us to assist us in carrying out the purposes described in "Uses Made of the Information" above such as sending emails on our behalf, processing payments, and facilitating card-linked offers. Qualcomm Retail Solutions, Inc., for example, is a service provider that enables certain geo-location features of our Apps. Consequently, Qualcomm Retail Solutions, Inc. and its affiliates collect, store, and process, on our behalf, certain location information and related data on servers in the United States. Our service providers are bound by law or contract to protect personal information and are only allowed to use the personal information in accordance with the terms of our service agreements with them.
 
 We may disclose your personal information to other third parties:
 
@@ -157,8 +152,6 @@ We may disclose your personal information to other third parties:
 
 
 
-* * *
-
 ## Your Rights
 
 You have the right to ask us not to process your personal data for marketing purposes.
@@ -167,13 +160,9 @@ You can exercise your right to prevent such processing by checking certain boxes
 
 The Website or our App may, from time to time, contain links to and from the websites of third parties. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
-* * *
-
 ## Access to Information
 
 The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
-
-* * *
 
 ## Changes to Our Data Protection and Privacy Policy
 
@@ -181,15 +170,13 @@ Any changes we may make to our data protection and privacy policy in the future 
 
 This data protection and privacy policy was last updated in June 2015.
 
-* * *
-
 ## Opt-out process
 
 To unsubscribe from our newsletter please sign in to your account and update your preferences on the Email Options tab. Alternatively you can reply to one of our Newsletters with 'UNSUBSCRIBE' in the subject line or by clicking the "Unsubscribe" link featured within each of our newsletters.
 
 ## Contact
 
-Questions, comments and requests regarding this data protection and privacy policy are welcomed and should be addressed [here](https://web.archive.org/contact-us.html) with the words “FAO: the Legal Department” in the subject line.
+Questions, comments and requests regarding this data protection and privacy policy are welcomed and should be addressed [here](https://web.archive.org/contact-us.html) with the words "FAO: the Legal Department" in the subject line.
 
 **Address**  
 Legal Department, RetailMeNot UK Ltd  
