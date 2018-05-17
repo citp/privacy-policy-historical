@@ -1,124 +1,73 @@
-> *The following text is extracted and transformed from the brainly.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612043839id_/https%3A//brainly.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainly.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517193217id_/https%3A//brainly.com/pages/privacy_policy) for the most accurate reproduction.*
 
 # Brainly.com - Together we go far
 
-This privacy policy describes how we (Brainly.com, which is owned by Brainly, Inc. of Delaware, U.S.) collect, use and share your information when you visit and interact with our service at [ www.brainly.com](https://www.google.com/url?q=http://brainly.com/pages/www.brainly.com&sa=D&ust=1456843013374000&usg=AFQjCNHf07vOGpWN3Xy4rQ8kct6SiLd9uQ) (the “Website”) or the Brainly.com mobile application (the “App”). Those services include all the ways you might interact with us: through the Brainly.com website, mobile applications, or anyotherBrainlyofferingsorserviceslinkingtothisprivacypolicy. PleasereadthisPrivacyPolicy carefully before you use the Brainly.com service so that you will understand our practices and your options before you choose to share your information. Your use of the Brainly service means that you agree to our collection, use, and disclosure of the information you share with us, as explained in this Privacy Policy. 
+Brainly spółka z ograniczoną odpowiedzialnością, a Polish limited liability company with its registered office at: Krowoderska 63B/6, 31-158 Kraków, Poland, entered in the Entrepreneurs’ Register of the Polish National Court Register under the number: 354511 (“Brainly,” “we,” “our,” or “us”) is committed to protecting your privacy. This Privacy Policy explains how your personal information is collected, used and disclosed by Brainly. This Privacy Policy applies to our websites and service offered at Brainly.com and through our Brainly mobile application (collectively, the “Service”). By accessing or using our Service, you signify that you have read, understood and agree to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy and our [Terms of Service](https://brainly.com/pages/terms_of_use).
 
-Brainly reserves the right to modify this Privacy Policy at any time and without prior notice. We will post any changes on Brainly.com so please check regularly for the most recent version of our Privacy Policy. For changes to this privacy policy that may be materially less restrictive on our use or disclosure of personal information you have provided to us, we will attempt to obtain your consent before implementing the change either by sending a notice to the primary email address specified in your account or by placing a prominent notice on the Brainly.com websitee. 
+The categories of information we collect can include: 
 
-How to Contact Us:
+Information you provide to us directly. We may collect personal information, such as your name, address, telephone number, date of birth, payment information, and e-mail address when you when you register for our Service, sign up for our mailing list, enter a contest or sweepstakes, or otherwise communicate with us. We may also collect any communications between you and Brainly and any other information you provide to Brainly. 
 
-If you have any questions, comments or concerns about this privacy policy, you can contact us by mail or email:
+Data collected through the use of the Service. We collect information about how you use the Service, your actions on the Service, and content you post to the Service, including the groups you belong to, your interaction with others on the Service, and content you post to the Service, and any content you provide through messages, chat, or other functionality ("User Content"). Please remember that Brainly may, but has no obligation to, monitor, record, and store User Content in order to protect your safety or the safety of other users, to assist with regulatory or law enforcement efforts, or to protect and defend our rights and property. By using the Service, you consent to the recording, storage and disclosure of such communications you send or receive for these purposes. 
 
-Brainly.com
+We use this information to operate, maintain, and provide to you the features and functionality of the Service, complete transactions or services requested by you, tailor our programming and services to meet your needs and interests, as well as to communicate directly with you, such as to send you email messages. We may also send you Service-related emails or messages (e.g., account verification, change or updates to features of the Service, technical and security notices). For more information about your communication preferences, see “Control Over Your Information” below.
 
-161 Bowery
+We, and our third party partners, automatically collect certain types of usage information when you visit our Services, read our emails, or otherwise engage with us. We typically collect this information through a variety of tracking technologies, including cookies, clear GIF, Flash objects, web beacons, file information and similar technology (collectively, “tracking technologies”). For example, we collect information about your device and its software, such as your IP address, browser type, Internet service provider, platform type, device type, operating system, date and time stamp, a unique ID that allows us to uniquely identify your browser, mobile device or your account, and other such information. We also collect information about the way you use our Service, for example, the website from which you came and the site to which you are going when you leave our website, the pages you visit, the links you click, how frequently you access the Service, whether you open emails or click the links contained in emails, whether you access the Service from multiple devices, and other actions you take on the Service. When you access our Service from a mobile device, we may collect unique identification numbers associated with your device or our mobile application (including, for example, a UDID, Unique ID for Advertisers (“IDFA”), Google AdID, or Windows Advertising ID), mobile carrier, device type, model and manufacturer, mobile device operating system brand and model, phone number, and depending on your mobile device settings, your geographical location data, including GPS coordinates (e.g., latitude and/or longitude) or similar information regarding the location of your mobile device, or we may be able to approximate a device’s location by analyzing other information, like an IP address. We may collect analytics data, or use third-party analytics tools, to help us measure traffic and usage trends for the Service and to understand more about the demographics of our users. We may also work with third party partners to employ technologies, including the application of statistical modeling tools, which attempt to recognize you across multiple devices. Although we do our best to honor the privacy preferences of our users, we are unable to respond to Do Not Track signals set by your browser at this time. 
 
-2nd floor
+We use or may use the data collected through tracking technologies to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information, including targeted content and advertising; (c) identify you across multiple devices; (d) provide and monitor the effectiveness of our Service; (e) monitor aggregate metrics such as total number of visitors, traffic, usage, and demographic patterns on our Service; (f) diagnose or fix technology problems; and (g) otherwise to plan for and enhance our Service. 
 
-New York, NY 10012
+If you would prefer not to accept cookies, most browsers will allow you to: (i) change your browser settings to notify you when you receive a cookie, which lets you choose whether or not to accept it; (ii) disable existing cookies; or (iii) set your browser to automatically reject cookies. Please note that doing so may negatively impact your experience using the Service, as some features and services on our Service may not work properly. Depending on your mobile device and operating system, you may not be able to delete or block all cookies. You may also set your e-mail options to prevent the automatic downloading of images that may contain technologies that would allow us to know whether you have accessed our e-mail and performed certain functions with it.
 
-privacy@brainly.com
+We and our third party partners may also use cookies and tracking technologies for advertising purposes. For more information about tracking technologies, please see “Third Party Tracking and Online Advertising” below.
 
-I Want to Delete My or My Child’s Account:
+We may share your personal information in the instances described below. For further information on your choices regarding your information, see the “Control Over Your Information” section below.
 
-If you would like to delete your or your child’s account, you can do so within profile preferences. Simply click on “Edit Profile”, go to the “Preferences” section, and click “I want to delete my account”.
+Remember, our Service allows you to connect and interact with others. Your profile information and other personal information, will be available publicly to other members of the Service by default when you create a profile, interact with others on the Service in public groups, and post content to public spaces. 
 
-You can also email us at [privacy@brainly.com](mailto:privacy@brainly.com) with the subject line “Delete Account”.  Please include your username and the email address associated with the account.
+We may share your personal information with: 
 
-Notice to Parents/Guardians and Children Under 13
+The public and other members of the Service. Your content and comments you post to public areas of the Service will be viewable by others on the Service and the public. Please do not provide personal information you would not want to be public. You may be able to control the visibility of some of your information and actions in your Settings (see "Control Over Your Information" below); 
 
-With parental consent, children can register at Brainly.com to pose and answer questions.  During the registration process, we ask registrants to provide their name, email address, and other information as listed below for notification and security purposes.  We may also ask for birthdates to validate ages.  We only collect the information that is reasonably necessary for a child to participate in Brainly’s online activities.  
+Other users of the Service. We share your information with third parties with whom you communicate with on the Service; 
 
-We will also collect a parent/guardian’s email address, because portions of our site may be deemed to be directed toward children under the U.S. Children’s Online Privacy Protection Act (“COPPA”).  We will ask for a parent’s email address before collecting the name or email address or other identifying information from a site visitor who has self-identified as under 13 years of age.  We will not use parent emails provided for these registration purposes to market to the parent, unless a parent expressly opts in to such messages or separately has registered.  We will send an email to the parent to explain what information we are collecting, how we plan to use it, and how the parent can provide or revoke consent.  If we do not receive parental consent within 48 hours, we will delete all parental contact information and any other information collected from the child in connection with this activity.
+Third parties at your request. For example, you may have the option to share your activities on Brainly with your friends through email, text or on various social media sites; 
 
-Push Notifications
+Other companies and brands owned or controlled by Brainly, and other companies owned by or under common ownership as Brainly, which also includes our subsidiaries (i.e., any organization we own or control) and our ultimate corporate owner Brainly, Inc., and any subsidiaries it owns. These companies will use your personal information in the same way as we can under this Policy. Material posted to the Service may also be shared with and displayed on websites owned and operated by Brainly, Inc.;
 
-Push notifications are notifications on devices such as smartphones or tablets that run our Brainly app.  These can communicate to the device holder even when the application is not in use.  We will require a child to provide a parental email address before the child can receive push notifications, because such technology requires that we collect and use a unique device identifier from the mobile device.   We will then provide the parent with notice of our contact with the child and will provide the parent the opportunity to prevent further notifications. We will not associate the device identifier with other personal information without contacting the parent to get consent.
+Third parties with whom we partner to provide contests and sweepstakes, which will usually be identified by name in the Official Rules of the contest or sweepstakes;
 
-Your Information
+Third-party vendors and other service providers that perform services on our behalf, as needed to carry out their work for us, which may include identifying and serving targeted advertisements, providing mailing services, providing tax and accounting services, contest fulfilment, web hosting, or providing analytic services; 
 
-What We Collect Via the Website:
+The public when you provide feedback or user content on our site. For example, if you post user content to the Service or comment on our social media sites, your information, such as your first name, last initial, state of residence, and your comments, may be displayed on our Service or on our social media pages;
 
-As a Brainly registered user, we may collect from you the following information:
+Other parties in connection with a company transaction, such as a merger, sale of company assets or shares, reorganization, financing, change of control or acquisition of all or a portion of our business by another company or third party, or in the event of a bankruptcy or related or similar proceedings; and 
 
-  * A username and password you create
-  * Email address
-  * Gender
-  * Year of birth
-  * Your educational level
-  * Persistent identifiers such as IP address or mobile device identifier
+Third parties as required by law or subpoena or if we reasonably believe that such action is necessary to (a) comply with the law and the reasonable requests of law enforcement; (b) to enforce our [Terms of Service](https://brainly.com/pages/terms_of_use) or to protect the security or integrity of our Service; and/or (c) to exercise or protect the rights, property, or personal safety of Brainly, our visitors, or others.
 
+We may also share information with others in an aggregated or otherwise anonymized form that does not reasonably identify you directly as an individual. 
 
+Profile and Data Sharing Settings. You may update your profile information, such as your email and password, and may change some of your data sharing preferences on your Account Preferences page. 
 
-What We Collect Via the App:
+Access to your Device Information. You may control the mobile app’s access to your device information through your “Settings” app on your device. For instance, you can withdraw permission for the app to access your address book, location, photo stream and camera. 
 
-  * A username you create
-  * Persistent identifiers such as IP address or mobile device identifier
+How to control your communications preferences: You can stop receiving promotional email communications from us by clicking on the “unsubscribe link” provided in such communications. We make every effort to promptly process all unsubscribe requests. You may not opt out of service-related communications (e.g., account verification, transactional communications, changes/updates to features of the Service, technical and security notices).
 
+Modifying or deleting your information: If you have any questions about reviewing, modifying, or deleting your information, or if you want to remove your name or comments from our Service or publicly displayed content, you can contact us directly at [privacy@brainly.com](mailto:privacy@brainly.com). We may not be able to modify or delete your information in all circumstances. To request deletion of the personal information we have collected in connection with your Brainly account, please select the “I want to delete my account” option after logging into your account in Account Preferences.
 
+We may share, or we may permit third party online advertising networks, social media companies and other third party services, to collect, information about your use of our website over time so that they may play or display ads that may be relevant to your interests on our Service as well as on other websites or apps, or on other devices you may use. Typically, though not always, the information we share is provided through cookies or similar tracking technologies, which recognize the device you are using and collect information, including hashed data, click stream information, browser type, time and date you visited the Service, and other information. This information is used to display targeted ads on or through our Service or on other websites or apps. We or the online advertising networks use this information to make the advertisements you see online more relevant to your interests. As noted above, depending on your browser or mobile device, you may be able set your browser to delete or notify you of cookies and other tracking technology by actively managing the settings on your browser or mobile device. You may also be able to limit interest-based advertising through the settings on your mobile device by selecting “limit ad tracking” (iOS) or “opt-out of interest based ads” (Android). To learn more about interest-based advertising and how you may be able to opt-out of some of this advertising, you may wish to visit the Network Advertising Initiative’s online resources, at http://www.networkadvertising.org/choices, and/or the DAA’s resources at www.aboutads.info/choices. Some of these opt-outs may not be effective unless your browser is set to accept cookies. Furthermore, if you use a different device, change browsers or delete the opt-out cookie, you may need to perform the opt-out task again. 
 
-NOTE:  This Website has a question and answer format, where free form entry is permitted.   It is a violation of our terms of use to post personal information when using these features.  Information posted through any of these features will be posted publicly.
+Data storage and transfer: Your information collected through our Service may be stored and processed in the United States or any other country in which Brainly or its affiliates or service providers maintain facilities. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. or any other country in which Brainly or its parent, subsidiaries, affiliates, or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy. 
 
-How We May Use and Share Your Information:
+Keeping your information safe: We care about the security of your information and uses commercially reasonable physical, administrative, and technological safeguards to preserve the integrity and security of all information collected through our Service. However, no security system is impenetrable and we cannot guarantee the security of our systems 100%. In the event that any information under our control is compromised as a result of a breach of security, we will take reasonable steps to investigate the situation and, where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations.
 
-We use the personal information you provide for the following purposes:
+Brainly does not knowingly collect or solicit any information from anyone under the age of 13 on this Service. In the event that we learn that we have inadvertently collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under 13, please contact us at [privacy@brainly.com](mailto:privacy@brainly.com).
 
-  * to deliver our interactive computer service
-  * to complete transactions or services requested by you
-  * to communicate with you about your registration, your account in the Service, or to send notices or other disclosures required by law, such as to notify you of material changes to this policy or our Terms of Use
-  * to track and analyze non-identifying and aggregate usage and other statistical information from our Users and provide such non-identifying aggregate information to third parties
-  * to contact you about promotions and marketing related to Brainly’s service  
-  * to tailor our programming and services to meet User needs and interests
+The Service may contain links to and from third party websites of our business partners, advertisers, and social media sites and our users may post links to third party websites. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for their policies. We strongly recommend that you read their privacy policies and terms and conditions of use to understand how they collect, use, and share information. We are not responsible for the privacy practices or the content on the websites of third party sites. 
 
+If you have any questions about this Privacy Policy or the Service, please contact us by mail or email at: [privacy@brainly.com](mailto:privacy@brainly.com)
 
+. 
 
-We share personal information with the unaffiliated service providers we use to deliver, maintain, and develop the Service.  They are prohibited from using such information for any purpose other than providing services in connection with this Site.
+We may modify or update this Privacy Policy from time to time to reflect the changes in our business and practices, and so you should review this page periodically. When we change the policy in a material manner we will let you know and update the ‘last modified’ date at the bottom of this page. If you object to any changes, you may close your account. Continuing to use our Service after we publish changes to this Privacy Policy means that you are consenting to the changes.
 
-We may also track and analyze non-identifying and aggregate usage and other statistical information from our Users and provide such non-identifying aggregate information to third parties. For more information, see the section titled “Cookies, Tracking Technologies and Third Party Advertising” below.
-
-Brainly may share personal information about you in the following circumstances: (a) in response to subpoenas, court orders or legal processes, to the extent permitted and as restricted by law; (b) when disclosure is required to maintain the security and integrity of this site, or to protect any user's security or the security of other persons, consistent with applicable laws; (c) when disclosure is directed or consented to by the registered member who has inputted the personal information; (d) in the event that Brainly, Brainly, Inc or any of its subdivisions or units goes through a business transition, such as a merger, divestiture, acquisition, liquidation or sale of all or a portion of its assets, your personal information.  
-
-How We Store and Safeguard Your Information:
-
-Brainly shall take the appropriate technical and organizational measures to preserve the integrity and security of personal information provided by Users, in particular, to prevent unauthorized access to the data by third parties, as well as to prevent their loss, damage or destruction. However, no security system is impenetrable and we cannot guarantee the security of our systems 100%. In the event that any information under our control is compromised as a result of a breach of security, we will take reasonable steps to investigate the situation and, where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations.
-
-How You Can Change or Access Information:
-
-At any time, a user (or parent of a child user) may refuse to permit further collection of personal information, or can request that we delete from our records the personal information we have collected in connection with that Brainly account, by logging into their account and using the “I want to delete my account” option in account preferences.
-
-Parents can request access to and delete their child’s personal information by either logging into the account directly with the child’s username and password, or by contacting Brainly at privacy@brainly.com.  
-
-Cookies, Tracking Technologies and Third Party Advertising:
-
-We automatically collect certain usage information when you use our website, such as information about your browser or device, the websites you came from and how you use our Website. This information is typically collected through tracking technologies such as cookies, which are small text files stored in the User’s device and are needed to navigate on the Website. We use cookies and other tracking technologies for a variety of purposes. For example, we use cookies to (i) adjust the content of the pages of the Website according to the preferences of the User and optimize the use of the webpages; (ii) recognize the User‘s device, so that the website is displayed according to the User’s individual needs; (iii) collect statistical data, making it possible to understand how the Users of the Website use the pages, which, in turn, allows Brainly to improve their structure and content; and maintain the User’s session (after login) so that the User does not need to introduce his or her login and password each time they visit the page.
-
-We may also work with third parties which collect, use and disclose certain identifiers, like IP address, mobile device identifier or cookie information on our Website and App, solely for the support of the internal operations of the Website and App, such as providing content or allowing features to run on the Website and App, serving contextual advertising, and using analytics and other tools to improve the quality and performance of the Website and App. While Brainly may work with some third parties to serve you advertisements based on your browsing behavior and interests, Brainly does not behaviorally target advertising to children under 13 on sites that are directed to children or where we have actual knowledge that a user is under 13. If you believe we, or one of our third party partners operating on our Website, have inadvertently used behavioral information to target advertisements to children under 13, please contact us at privacy@brainly.com as soon as possible.
-
-The Brainly Website uses session cookies and persistent cookies. Session cookies are temporary files stored on the User’s device until the User logs out, leaves the website or turns off the software (the browser). Persistent cookies are stored on the User’s device for as long as it is stated in the cookies’ parameters or until they are removed by the User.    There are several types of cookies used by the Website:
-
- a) “necessary” cookies, which allow the user to use the Website’s services, e.g. authentication cookies used for the authentication purposes on the Website;
-
- b) cookies used for security purposes, e.g. used with the aim of detecting malpractice in authentication processes on the Website;
-
- c) “efficiency” cookies, making it possible to gather information about the way the pages of the Website are used;
-
- d) “functional” cookies, which allow "remembering" settings selected by the user and user’s interface customization, for example the language or region, font size, the appearance of the website, etc.
-
- e)"advertising" cookies, which allow for the delivery of advertising content to users to be more tailored to their interests.
-
-The website at Brainly.com, whether accessed on a computer or a mobile device, is not at this time configured to read or respond to “do not track” settings or signals in your browser headings, which vary by browser provider.  
-
-If you would prefer not to accept cookies, most browsers will allow you to: (i) change your browser settings to notify you when you receive a cookie, which lets you choose whether or not to accept it; (ii) disable existing cookies; or (iii) set your browser to automatically reject cookies. Please note that doing so may negatively impact your experience using the Website, as some features and services on our Website may not work properly. Depending on your mobile device and operating system, you may not be able to delete or block all cookies. To learn more about interest-based advertising and how you may be able to opt-out of some of this advertising, you may visit the Network Advertising Initiative’s online resources, at http://www.networkadvertising.org/choices, and/or the DAA’s resources at www.aboutads.info/choices. Some of these opt-outs may not be effective unless your browser is set to accept cookies. Furthermore, if you use a different device, change browsers or delete the opt-out cookie, you may need to perform the opt-out task again. You may also be able to opt-out of some – but not all – interest-based ads served by mobile ad networks by visiting http://youradchoices.com/appchoices and downloading the mobile AppChoices app. If you have any questions about opting out of the collection of cookies and other tracking/recording tools, you can contact us directly at privacy@brainly.com.
-
-Links to Other Websites and Services:
-
-The Website and App may contain links to and from third party websites of our business partners and advertisers. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for their policies. We strongly recommend that you read their privacy policies and terms and conditions of use to understand how they collect, use, and share information. We are not responsible for the privacy practices or the content on the websites of third party sites.
-
-Changes to Our Privacy Policy:
-
-We may modify or update this Privacy Policy from time to time to reflect the changes in our business and practices, and so you should review this page periodically. When we change the policy in a material manner we will let you know and update the ‘last updated’ date at the bottom of this page. If you object to any changes, you may close your account. Continuing to use our Website and App after we publish changes to this Privacy Policy means that you are consenting to the changes.
-
-Last Updated:
-
-[April 25, 2017]
+This privacy policy was last modified on December 29, 2017. 
