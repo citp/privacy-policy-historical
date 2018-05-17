@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the listafterlist.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116172933id_/http%3A//listafterlist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listafterlist.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517103453id_/http%3A//listafterlist.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ListAfterList
+# Privacy Policy – ListAfterList
 
-We respect your privacy. This privacy policy describes how we treat personal information when you use the Web sites, services and offerings of ListAfterList.com and our affiliated services (“LISTAFTERLIST”).
+We respect your privacy. This privacy policy describes how we treat personal information when you use the Websites, services and offerings of ListAfterList.com and our affiliated services (“LISTAFTERLIST”).
 
 **Personal Information**
 
-  * Registering with us is optional. When you register with us and interact with our Web sites, services and offerings, you provide us with information that is personally identified with you. Depending on how you interact with our services, this information may include:  
-registration-related information,  such as, name, e-mail address, Lister Name (your user ID for the service), address, or gender, or profile related information (such as location, occupation, industry, astrological sign, personal “about me” descriptions;
+  * Registering with us is optional. When you register with us and interact with our Web sites, services and offerings, you provide us with information that is personally identified with you. Depending on how you interact with our services, this information may include: registration-related information,  such as, name, e-mail address, Lister Name (your user ID for the service), address, or gender, or profile related information (such as location, occupation, industry, astrological sign, personal “about me” descriptions;
   * information about your visits to LISTAFTERLIST, and your responses to the offerings and advertisements presented on these Web sites;
   * information about the searches you perform through LISTAFTERLIST and how you use the results of those searches;
   * information about LISTAFTERLIST services or offerings that you use;
@@ -17,8 +16,7 @@ registration-related information,  such as, name, e-mail address, Lister Name (
 
 
 
-Your LISTAFTERLIST information may be supplemented with additional information from other companies. Your LISTAFTERLIST information may also include certain technical information gathered or received when you use LISTAFTERLIST, such as, Internet protocol address, information about your geographic location and the domain name of your Internet service provider.  
-LISTAFTERLIST will use the Lister Name, or similar technologies, to authenticate you on LISTAFTERLIST and enable you to take advantage of web site offerings.
+Your LISTAFTERLIST information may be supplemented with additional information from other companies. Your LISTAFTERLIST information may also include certain technical information gathered or received when you use LISTAFTERLIST, such as Internet protocol address, information about your geographic location and the domain name of your Internet service provider.  LISTAFTERLIST will use the Lister Name, or similar technologies, to authenticate you on LISTAFTERLIST and enable you to take advantage of web site offerings.
 
 **Use of Information**
 
@@ -45,8 +43,9 @@ We will not share your information with third parties unless:
 
 
 
-We may use your information to present offers to you on behalf of business partners and advertisers. These business partners and advertisers receive aggregate data about groups of LISTAFTERLIST users, but they will not receive information that personally identifies you.  
-Please keep in mind that if you post content in public areas on LISTAFTERLIST, such as, online message boards, you understand that other online users may obtain access to any information you provide.  
+We may use your information to present offers to you on behalf of business partners and advertisers. These business partners and advertisers receive aggregate data about groups of LISTAFTERLIST users, but they will not receive information that personally identifies you.
+
+Please keep in mind that if you post content in public areas on LISTAFTERLIST, such as online message boards, you understand that other online users may obtain access to any information you provide.  
 In the event that ownership of LISTAFTERLIST was to change as a result of a merger or acquisition by another company, your information may be transferred to the acquiring company for the purpose of providing ongoing LISTAFTERLIST services to you.
 
 **Cookies**
@@ -64,11 +63,11 @@ LISTAFTERLIST may use cookies, web beacons and similar technologies in combinati
 
 **Advertising Networks**
 
-We and our advertisers may from time to time use advertising network providers, to help present advertisements on LISTAFTERLIST. These advertising networks use cookies, web beacons, or similar technologies on your computer in order to provide targeted advertisements about goods and services that may be of interest to you while visiting other Web sites. LISTAFTERLIST may share certain information about you as a user that is not personally identified to you (such as user age and zip code) with certain advertising network providers in order to help them deliver more relevant advertisements through their ad networks. The use of cookies, web beacons, or similar technologies by ad network providers is subject to their own privacy policies. We encourage you to return to this section periodically for updated information about advertising networks and the choices that you have about these technologies.
+We and our advertisers may from time to time use advertising network providers, to help present advertisements on LISTAFTERLIST. These advertising networks use cookies, web beacons, or similar technologies on your computer in order to provide targeted advertisements about goods and services that may be of interest to you while visiting other Web sites. LISTAFTERLIST may share certain information about you as a user that is not personally identified to you (such as user age and zip code) with certain advertising network providers in order to help them deliver more relevant advertisements through their ad networks. The use of cookies, web beacons or similar technologies by ad network providers is subject to their own privacy policies. We encourage you to return to this section periodically for updated information about advertising networks and the choices that you have about these technologies.
 
 **Third Party Sites**
 
-This privacy policy does not apply to other third party web sites that you may visit. These sites will have their own and separate privacy policies.
+This privacy policy does not apply to other third party websites that you may visit. These sites will have their own and separate privacy policies.
 
 **Your Choices**
 
@@ -79,10 +78,9 @@ LISTAFTERLIST take steps to prevent the misuse of your information. You will hav
 
 **Minors**  
 LISTAFTERLIST is intended for a general audience, and children under the age of thirteen are not permitted to register with LISTAFTERLIST.  
-How to Contact Us  
-If you have any questions or concerns about LISTAFTERLIST’s Privacy Policy or its implementation, you may contact us at this email address: [privacyquestions@LISTAFTERLIST.com](mailto:privacyquestions@LISTAFTERLIST.com "Privacy Policy Questions")
+How to Contact Us
+
+If you have any questions or concerns about LISTAFTERLIST’s Privacy Policy or its implementation, you may contact us at this email address: [privacyquestions@LISTAFTERLIST.com](mailto:privacyquestions@LISTAFTERLIST.com "Privacy Policy Questions")
 
 **Changes**  
 LISTAFTERLIST may update this Privacy Policy from time to time. Therefore, you should review this Policy periodically. If there are significant changes to LISTAFTERLIST’s information practices, you will be provided with appropriate online notice. You may be provided other privacy-related information in connection with your use of offerings from LISTAFTERLIST, as well as for special features and services not described in this Policy that may be introduced in the future.
-
-**Last Updated 8-29-06**
