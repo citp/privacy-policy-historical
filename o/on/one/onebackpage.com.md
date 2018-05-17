@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onebackpage.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208141924id_/http%3A//onebackpage.com/privacy-p26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onebackpage.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517101931id_/http%3A//www.onebackpage.com/privacy-p26) for the most accurate reproduction.*
 
 # OneBackPage - OneBackPage - free classifieds for apartments, jobs , cars and items for sale - OneBackPage.com - Privacy
 
@@ -7,7 +7,7 @@ _**Privacy**_
 **_Privacy Policy_**
 
 **  
-Last Revised: _January 1, 2017_**
+Last Revised: _December 30, 2017_**
 
 onebackpage.com and its affiliates (collectively, the “Site”) respect your privacy. Here is our Privacy Policy for this Site:
 
@@ -60,16 +60,48 @@ From time to time, we may send you information with announcements and updates ab
 
 **Correction/Update of Personal Information**
 
-If your personal information changes, you may review/correct/update your personal information previously provided at any time by sending us an email at [support@onebackpage.com](mailto:support@onebackpage.com). You may also have your personal profile data deleted from our database by sending us an email to [support@onebackpage.com](mailto:support@onebackpage.com). However, if you have your personal profile data deleted from our database, you may forfeit entrance rights to areas restricted to account members and certain benefits for account members.
+If your personal information changes, you may review/correct/update your personal information previously provided at any time by sending us mail to:
+
+**Corporate Address for General Inquiry to be made:**
+
+**Advokat General**
+
+**EnfouraCom Media  
+**
+
+**710230 Sarajevo #423**
+
+**Bosnia and Herzegovina**
+
+You may also have your personal profile data deleted from our database by sending mail to:
+
+**Corporate Address for General Inquiry to be made:**
+
+**Advokat General**
+
+**EnfouraCom Media  
+**
+
+**710230 Sarajevo #423**
+
+**Bosnia and Herzegovina**
+
+However, if you have your personal profile data deleted from our database, you may forfeit entrance rights to areas restricted to account members and certain benefits for account members.
 
 **Notice of Privacy Rights of California Residents**
 
-California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. Under the law, a business must either provide this information or permit California residents to opt in to, or opt out of, this type of sharing. We qualify for this alternative option. To opt out of having information about you shared with third parties for direct marketing purposes, please contact us at [support@onebackpage.com](mailto:support@onebackpage.com).
+California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. Under the law, a business must either provide this information or permit California residents to opt in to, or opt out of, this type of sharing. We qualify for this alternative option. To opt out of having information about you shared with third parties for direct marketing purposes, please contact us at 
 
-**Contact Us:**
+**Corporate Address for General Inquiry to be made:**
 
-Email: [Contact us](mailto:support@onebackpage.com)   
-Telephone: +41 1929290097
+**Advokat General**
+
+**EnfouraCom Media  
+**
+
+**710230 Sarajevo #423**
+
+**Bosnia and Herzegovina**
 
 **Children**
 
@@ -95,4 +127,28 @@ Any changes in the Privacy Policy will take effect upon posting and apply only t
 
 **More Questions?**
 
-If you have any questions about this Privacy Policy, e-mail them to [abuse@onebackpage.com](mailto:abuse@onebackpage.com), and be sure to indicate the specific site you’re visiting and the nature of your question or concern.
+If you have any questions about this Privacy Policy, mail them to:
+
+**Corporate Address for General Inquiry to be made:**
+
+**Advokat General**
+
+**EnfouraCom Media  
+**
+
+**710230 Sarajevo #423**
+
+**Bosnia and Herzegovina**
+
+Be sure to indicate the specific site you’re visiting and the nature of your question or concern.
+
+**Corporate Address for General Inquiry to be made:**
+
+**Advokat General**
+
+**EnfouraCom Media  
+**
+
+**710230 Sarajevo #423**
+
+**Bosnia and Herzegovina**
