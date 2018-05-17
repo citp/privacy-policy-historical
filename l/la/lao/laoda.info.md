@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laoda.info privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116172817id_/http%3A//www.laoda.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laoda.info privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517103404id_/http%3A//www.laoda.info/privacy) for the most accurate reproduction.*
 
 # Laoda-info
 
