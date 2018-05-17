@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smods.ru privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114084806id_/http%3A//smods.ru/cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smods.ru privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517182633id_/http%3A//smods.ru/cookie-policy) for the most accurate reproduction.*
 
 # Cookie Policy - SKYMODS
 
