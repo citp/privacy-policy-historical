@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datacenterdynamics.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128021535id_/http%3A//www.datacenterdynamics.com/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datacenterdynamics.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517062613id_/http%3A//www.datacenterdynamics.com/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | Custom Content | DatacenterDynamics
 
