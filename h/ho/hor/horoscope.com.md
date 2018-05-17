@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the horoscope.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228000054id_/https%3A//www.horoscope.com/us/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horoscope.com privacy policy that was archived on 2018-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180518011205id_/https%3A//www.horoscope.com/us/privacy.aspx) for the most accurate reproduction.*
 
 # Horoscope.com Privacy Policy
 
@@ -14,7 +14,7 @@ If you have any questions, concerns or complaints about our Privacy Policy or ou
       182 Howard Street, #826   
       San Francisco, CA 94105
 
-      Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
+      Email: privacy@horoscope.com  
       Tel: 415 615 9028
 
 ## 2.   USER CONSENT
@@ -47,7 +47,7 @@ If you make purchase through the Company Properties we may collect and store cer
 
 ### E. Personal Data That We Collect from You About Others.
 
-If you decide to submit information about a third party, we will collect the third party's Personal Data in order to personalize the services for such third party such as our "Tell a Friend" feature. If you choose to use our referral service to tell a friend about our website, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the website. Horoscope.com stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. You or the third party may contact us to request the removal of this information from our database by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you decide to submit information about a third party, we will collect the third party's Personal Data in order to personalize the services for such third party such as our "Tell a Friend" feature. If you choose to use our referral service to tell a friend about our website, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the website. Horoscope.com stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. You or the third party may contact us to request the removal of this information from our database by contacting us at privacy@horoscope.com.
 
 ### F. Advertising.
 
@@ -55,7 +55,7 @@ If there is advertising on the Company Properties, such advertising may employ t
 
 ### G. Children.
 
-We do not intentionally gather Personal Data from users who are under the age of 13. If a child under 13 submits Personal Data to Company and we learn that the Personal Data is the information of a child under 13, we will attempt to delete the information as soon as possible. If you believe that we might have any Personal Data from a child under 13, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) .
+We do not intentionally gather Personal Data from users who are under the age of 13. If a child under 13 submits Personal Data to Company and we learn that the Personal Data is the information of a child under 13, we will attempt to delete the information as soon as possible. If you believe that we might have any Personal Data from a child under 13, please contact us at privacy@horoscope.com .
 
 ### H. Information You Provide to Facebook and Other Social Networking Sites.
 
@@ -138,7 +138,7 @@ Our Web site includes Social Media Features, such as the Facebook Like button an
 
 ### A. Changes to Personal Data.
 
-You can view the Personal Data you previously provided by viewing your Profile from your personalized Home Page. You can delete your Profile at any time by clicking on the "delete profile" link. If your personal data changes, you may correct or update, by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 30 days. You may request deletion of your Personal Data by us, but please note that we may be required (by law or otherwise) to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives.
+You can view the Personal Data you previously provided by viewing your Profile from your personalized Home Page. You can delete your Profile at any time by clicking on the "delete profile" link. If your personal data changes, you may correct or update, by emailing us at privacy@horoscope.com or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 30 days. You may request deletion of your Personal Data by us, but please note that we may be required (by law or otherwise) to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives.
 
 ### B. Opt-out.
 
@@ -162,7 +162,7 @@ Despite your indicated e-mail preferences, we may send you service-related annou
 
 ## 12\. DISPUTE RESOLUTION
 
-If you believe that we have not adhered to this Privacy Policy, please contact us by e-mail at [[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)]. We will do our best to address your concerns. If you feel that your complaint has been addressed incompletely, we invite you to let us know for further investigation. If you and Company are unable to reach a resolution to the dispute, you and Company will settle the dispute exclusively under the rules of the American Arbitration Association (www.adr.org).
+If you believe that we have not adhered to this Privacy Policy, please contact us by e-mail at [privacy@horoscope.com]. We will do our best to address your concerns. If you feel that your complaint has been addressed incompletely, we invite you to let us know for further investigation. If you and Company are unable to reach a resolution to the dispute, you and Company will settle the dispute exclusively under the rules of the American Arbitration Association (www.adr.org).
 
 ## 13.   CHANGES TO THIS PRIVACY POLICY
 
@@ -176,5 +176,5 @@ If you have any questions about this Privacy Policy, the practices of the Compan
       182 Howard Street, #826   
       San Francisco, CA 94105
 
-      Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
+      Email: privacy@horoscope.com  
       Tel: 415 615 9028
