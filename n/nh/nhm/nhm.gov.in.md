@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nhm.gov.in privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225011459id_/http%3A//www.nhm.gov.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhm.gov.in privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517222218id_/http%3A//nhm.gov.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Governnment of India
 
