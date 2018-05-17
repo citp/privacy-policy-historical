@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the lpude.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606141754id_/http%3A//lpude.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lpude.in privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517141722id_/http%3A//www.lpude.in/privacy-policy.php) for the most accurate reproduction.*
 
-# Affordable Quality Education by India's Top ranked University, Lovely Professional University, Punjab, India
-
-Privacy Policy   
-
+# Privacy Policy
 
 You may visit our website without revealing any personal information wherever permissible. Certain transactions may require submission of personal information like profile updates and certain databases. We will not sell, swap or rent, or otherwise disclose to any third party any personal information for commercial purpose and such information will be utilized only for the purpose stated. To accomplish such purpose we may disclose the information to our employees, consultants and other concerned having a genuine need to know the information.
 
