@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dogproblems.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608015927id_/http%3A//www.dogproblems.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogproblems.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517191214id_/http%3A//www.dogproblems.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Adam G. Katz's DogProblems.com
+# Privacy Policy – DogProblems.com
 
 We are strongly committed to safeguarding subscribers’ privacy on this web site.
 
