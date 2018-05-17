@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the markettrendsignal.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115152433id_/http%3A//www.markettrendsignal.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markettrendsignal.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517103221id_/http%3A//www.markettrendsignal.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy-Policy - Market Trend Signal
 
@@ -78,4 +78,4 @@ Telephone number:
 
 Effective as of May 22, 2014
 
-Copyright 2017 All Rights Reserved
+Copyright 2018 All Rights Reserved
