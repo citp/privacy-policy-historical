@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadbureau.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113145842id_/http%3A//www.downloadbureau.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadbureau.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517180749id_/http%3A//www.downloadbureau.com/privacy-policy) for the most accurate reproduction.*
 
 # DownloadBureau | Privacy Policy
 
@@ -9,6 +9,8 @@ Collection and Use of Personal Information
 Personal information is data that can be used to uniquely identify or contact a single person.
 
 You may be asked to provide your personal information anytime you are in contact with This Site or This Site affiliated company. This Site and its affiliates may share this personal information with each other and use it consistent with this Privacy Policy. They may also combine it with other information to provide and improve our products, services, content, and advertising.
+
+We may use [third-party advertising companies](http://d3960xr71wdzdq.cloudfront.net/pp.html) to serve ads when you visit our website.
 
 Here are some examples of the types of personal information This Site may collect and how we may use it.
 
