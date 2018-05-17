@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyperphp.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206001210id_/http%3A//hyperphp.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyperphp.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517050550id_/http%3A//hyperphp.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
