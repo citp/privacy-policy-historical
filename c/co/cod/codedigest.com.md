@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codedigest.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112152415id_/http%3A//www.codedigest.com/home/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codedigest.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517161757id_/http%3A//www.codedigest.com/home/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
