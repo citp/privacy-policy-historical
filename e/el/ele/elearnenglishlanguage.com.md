@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the elearnenglishlanguage.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114114541id_/http%3A//www.elearnenglishlanguage.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elearnenglishlanguage.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517105751id_/http%3A//www.elearnenglishlanguage.com/privacy.html) for the most accurate reproduction.*
 
-# elearnenglishlanguage.com | Privacy Policy
+# www.elearnenglishlanguage.com | Privacy Policy
 
 **What information do we collect?**
 
@@ -12,8 +12,8 @@ Google, as a third party vendor, uses cookies to serve ads on your site. Google'
 
  **DoubleClick DART Cookie**
 
-.:: Google, as a third party vendor, uses cookies to serve ads on elearnenglishlanguage.com.  
-.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to elearnenglishlanguage.com and other sites on the Internet.   
+.:: Google, as a third party vendor, uses cookies to serve ads on www.elearnenglishlanguage.com.  
+.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to www.elearnenglishlanguage.com and other sites on the Internet.   
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://google.com/privacy_ads.html 
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
@@ -40,13 +40,13 @@ Tremor Media
 Adify   
 
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on elearnenglishlanguage.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.elearnenglishlanguage.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
 
-elearnenglishlanguage.com has no access to or control over these cookies that are used by third-party advertisers. 
+www.elearnenglishlanguage.com has no access to or control over these cookies that are used by third-party advertisers. 
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. elearnenglishlanguage.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.elearnenglishlanguage.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp
 
@@ -128,8 +128,7 @@ SW #19781
 Grandville, MI 49418  
 USA 
 
-elearnenglishlanguage.com 
+www.elearnenglishlanguage.com 
 
 Email:  
-contact@elearnenglishlanguage.com  
-
+contact@www.elearnenglishlanguage.com
