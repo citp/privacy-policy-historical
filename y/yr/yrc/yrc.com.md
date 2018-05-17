@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yrc.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116171435id_/http%3A//yrc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yrc.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517102124id_/http%3A//yrc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | YRC Freight - The Original LTL Carrier Since 1924
 
@@ -20,6 +20,9 @@ YRC Freight will never sell, rent, trade or otherwise distribute your informatio
 
 **Choice and Consent**  
 The more we know about you, the better our ability to serve you and provide products and services that are of real value. Our website is a voluntary information channel that is open to you at all times. You always have a choice regarding the tools that you use and the information that you provide. We don’t ask questions for the sake of asking questions, but do so because it is pertinent to our ability to serve and know you better. You always have the right to access your personal information and to modify or delete it as you wish.
+
+**Users from Outside the United States**  
+The data protection and related laws of the United States may be different than those of your own country, including the European Union’s General Data Protection Regulation. By using any portion of this website, you acknowledge that YRC Freight’s privacy policies are not intended to comply with such laws. 
 
 **How to Contact YRC Freight**  
 By phone or by email, we’re always available to you:
