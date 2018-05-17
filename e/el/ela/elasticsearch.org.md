@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elasticsearch.org privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905151904id_/https%3A//www.elastic.co/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elasticsearch.org privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517053109id_/https%3A//www.elastic.co/legal/privacy-policy) for the most accurate reproduction.*
 
 # Elastic.co Privacy Policies | Elastic
 
@@ -6,23 +6,22 @@ Not for editing
 
 **Effective Date: February 17, 2016**
 
-THANK YOU FOR VISITING [WWW.ELASTIC.CO](http://www.elastic.co/) (TOGETHER WITH ALL ASSOCIATED WEBSITES LINKED TO SUCH WEBSITE BY ELASTICSEARCH, INC., ITS SUBSIDIARIES AND AFFILIATED COMPANIES, THE "SITE"), WHICH IS OWNED AND OPERATED BY ELASTICSEARCH, INC. AND/OR ITS AFFILIATES (COLLECTIVELY, “ELASTIC”, “WE” OR “US”). THIS PRIVACY POLICY (“PRIVACY POLICY”) EXPLAINS HOW ELASTIC COLLECTS AND USES INFORMATION THAT YOU SUBMIT TO US WHILE VISITING AND/OR USING THE SITE. 
+THANK YOU FOR VISITING [WWW.ELASTIC.CO](http://www.elastic.co/) (TOGETHER WITH ALL ASSOCIATED WEBSITES LINKED TO SUCH WEBSITE BY ELASTICSEARCH, INC., ITS SUBSIDIARIES AND AFFILIATED COMPANIES, THE "SITE"), WHICH IS OWNED AND OPERATED BY ELASTICSEARCH, INC. AND/OR ITS AFFILIATES (COLLECTIVELY, "ELASTIC", "WE" OR "US"). THIS PRIVACY POLICY ("PRIVACY POLICY") EXPLAINS HOW ELASTIC COLLECTS AND USES INFORMATION THAT YOU SUBMIT TO US WHILE VISITING AND/OR USING THE SITE. 
 
-SHOULD YOU ELECT TO USE THE SITE, THE TERMS OF USE FOR THE SITE LOCATED AT LOCATED AT [WWW.ELASTIC.CO/LEGAL/TERMS-OF-USE/](https://web.archive.org/legal/terms-of-use), TOGETHER WITH THE ELASTIC PRIVACY POLICY FORM A LEGAL CONTRACT BETWEEN YOU AND ELASTIC (THE “AGREEMENT”). BY USING THE SITE, YOU ARE IRREVOCABLY AGREEING TO ALL OF THE TERMS AND CONDITIONS OF THE AGREEMENT, INCLUDING THIS PRIVACY POLICY. IF YOU DO NOT AGREE WITH ANY OF THE TERMS AND CONDITIONS IN THE AGREEMENT, YOU MAY NOT USE THE SITE. 
+SHOULD YOU ELECT TO USE THE SITE, THE TERMS OF USE FOR THE SITE LOCATED AT LOCATED AT [WWW.ELASTIC.CO/LEGAL/TERMS-OF-USE/](https://web.archive.org/legal/terms-of-use), TOGETHER WITH THE ELASTIC PRIVACY POLICY FORM A LEGAL CONTRACT BETWEEN YOU AND ELASTIC (THE "AGREEMENT"). BY USING THE SITE, YOU ARE IRREVOCABLY AGREEING TO ALL OF THE TERMS AND CONDITIONS OF THE AGREEMENT, INCLUDING THIS PRIVACY POLICY. IF YOU DO NOT AGREE WITH ANY OF THE TERMS AND CONDITIONS IN THE AGREEMENT, YOU MAY NOT USE THE SITE. 
 
 WE MAY UPDATE THIS PRIVACY POLICY TO REFLECT CHANGES TO OUR INFORMATION COLLECTION AND USE PRACTICES. IF WE MAKE ANY MATERIAL CHANGES THAT EXPAND THE WAY WE USE YOUR PERSONAL INFORMATION, WE WILL NOTIFY YOU BY EMAIL (SENT TO THE E-MAIL ADDRESS SPECIFIED IN YOUR ACCOUNT) OR BY MEANS OF NOTICE ON THE SITE PRIOR TO THE CHANGE BECOMING EFFECTIVE. 
 
-BY USING THIS SITE AFTER ELASTIC HAS UPDATED THE PRIVACY POLICY, YOU ARE AGREEING TO THE UPDATED PRIVACY POLICY. IF YOU DO NOT AGREE TO THE UPDATED PRIVACY POLICY, IN WHOLE OR IN PART, YOU ARE NOT AUTHORIZED TO CONTINUE TO USE THE SITE AND SHOULD TERMINATE REGISTRATION BY FOLLOWING THE OPT-OUT INSTRUCTIONS (PLEASE SEE THE "OPT OUT OPPORTUNITY” SECTION BELOW) OR BY VISITING [HTTP://INFO.ELASTIC.CO/UNSUBSCRIBEPAGE.HTML](http://info.elastic.co/UnsubscribePage.html). 
+BY USING THIS SITE AFTER ELASTIC HAS UPDATED THE PRIVACY POLICY, YOU ARE AGREEING TO THE UPDATED PRIVACY POLICY. IF YOU DO NOT AGREE TO THE UPDATED PRIVACY POLICY, IN WHOLE OR IN PART, YOU ARE NOT AUTHORIZED TO CONTINUE TO USE THE SITE AND SHOULD TERMINATE REGISTRATION BY FOLLOWING THE OPT-OUT INSTRUCTIONS (PLEASE SEE THE "OPT OUT OPPORTUNITY" SECTION BELOW) OR BY VISITING [HTTP://INFO.ELASTIC.CO/UNSUBSCRIBEPAGE.HTML](http://info.elastic.co/UnsubscribePage.html). 
 
 WE ENCOURAGE YOU TO PERIODICALLY REVIEW THIS PAGE FOR THE LATEST INFORMATION ON OUR PRIVACY PRACTICES. 
 
 ## Use and Purpose of Collected Personal Data
 
-The term “Personal Data” means information relating to an identified or identifiable natural person that is, someone who can be directly or indirectly identified. This will include your full name, physical address, email address, telephone number, or any other personal information that, alone or in combination with other information, enables contact with you physically or online. 
+The term "Personal Data" means information relating to an identified or identifiable natural person that is, someone who can be directly or indirectly identified. This will include your full name, physical address, email address, telephone number, or any other personal information that, alone or in combination with other information, enables contact with you physically or online. 
 
 On the Site, we collect Personal Data knowingly and voluntarily provided by you when you: (i) register for any of our services; (ii) submit requests, suggestions, or other communications to us; (iii) interact with the Website or Elastic in any way that submits, releases or displays your Personal Data to us. We may use your Personal Data for a variety of purposes, including, but not limited to, providing services offered by Elastic (and any other companies whom we may in the future control or be controlled by), including invitations to seminars, events and communication of information including newsletters and other informational material that is not individually solicited. We will not share your Personal Data with third parties with whom we are unconnected by common ownership or control unless it is necessary to do so to carry out your instructions or unless required to do so by law or unless such third party is an actual or potential successor of ours, an investor in, acquirer or target acquisition of, employee, officer or shareholder in our company and then only for the purposes strictly necessary in connection therewith. We may share your Personal Data with our affiliates, agents and/or contractors for the purposes described in this Privacy Policy, including the following: 
 
-  * carry out the sales, sales solicitation, shipment of products, complete orders, and provide other services performed by us or third parties;
   * carry out the sales, sales solicitation, shipment of products, complete orders, and provide other services performed by us or third parties;
   * carry out identity verification and authentication in order to provide services to you;
   * provide products and services that you have purchased;
@@ -98,7 +97,7 @@ We set a persistent cookie to store your preferences so that each time you visit
 
 If you are a resident of the State of California and would like to opt-out from the disclosure of your personal information to any third-party for marketing purposes, please e-mail us at: [privacy@elastic.co](mailto:privacy@elastic.co); call us at: (650) 458-2620; or send us mail to: 
 
-Elasticsearh, Inc.  
+Elasticsearch, Inc.  
 800 W. El Camino Real, Suite 350   
 Mountain View, CA 94040 
 
@@ -126,4 +125,4 @@ The headings used for the sections in this Privacy Policy are for convenience an
 
 Please contact us at [legal@elastic.co](mailto:legal@elastic.co) if you have any questions regarding this Privacy Policy. 
 
-[View this privacy policy in Japanese](https://web.archive.org/jp/legal/privacy-policy).
+[View this privacy policy in Japanese](https://web.archive.org/jp/legal/privacy-policy). 
