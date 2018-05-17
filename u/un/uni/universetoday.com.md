@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the universetoday.com privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909183606id_/http%3A//www.universetoday.com/28582/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universetoday.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517143255id_/https%3A//www.universetoday.com/28582/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Universe Today
 
@@ -18,12 +18,12 @@ This information is collected completely anonymously. So, I don’t know who you
 If you subscribe to the Universe Today newsletter, then you’ll be giving me a little personal information about yourself (your email address, name, etc.). Personal information collected is NEVER sold or rented to any outside party without your consent.
 
 **Advertising Network**  
-Universe Today uses Google as a third-party vendor to serve advertisements on the website. Google uses the Doubleclick DART cookie to serve ads to you based on your visit to this site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the[ Google ad and content network privacy policy](http://www.google.com/policies/privacy/ads/). 
+Universe Today uses Google as a third-party vendor to serve advertisements on the website. Google uses the Doubleclick DART cookie to serve ads to you based on your visit to this site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the[ Google ad and content network privacy policy](https://www.google.com/policies/privacy/ads/). 
 
 **Questions and Comments**  
-If you have any questions or comments about this privacy policy, please don’t hesitate to send me an email at info@universetoday.com
+If you have any questions or comments about this privacy policy, please don’t hesitate to send me an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **By[Fraser Cain](https://www.universetoday.com/author/admin/ "Posts by Fraser Cain")**  \-   [__](https://twitter.com/fcain)  [__](https://www.facebook.com/fraser.cain)  [__](https://plus.google.com/110701307803962595019/)  [__](https://www.linkedin.com/in/frasercain)  [__](https://www.youtube.com/user/universetoday)   
-[Fraser Cain](https://plus.google.com/110701307803962595019/) is the publisher of [Universe Today](http://www.universetoday.com/). He's also the co-host of [Astronomy Cast](http://www.astronomycast.com/) with Dr. Pamela Gay. 
+[Fraser Cain](https://plus.google.com/110701307803962595019/) is the publisher of [Universe Today](https://www.universetoday.com/). He's also the co-host of [Astronomy Cast](http://www.astronomycast.com/) with Dr. Pamela Gay. 
 
 * * *
