@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simmons.edu privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114090834id_/http%3A//www.simmons.edu/internal-home/faculty-staff/general/website/online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simmons.edu privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517055521id_/http%3A//www.simmons.edu/internal-home/faculty-staff/general/website/online-privacy-policy) for the most accurate reproduction.*
 
 # Online Privacy Policy
 
@@ -60,7 +60,7 @@ The College tries to respond to email messages requiring a response within seven
 
 #### Unsubscribing
 
-If you opt to receive newsletters, other emails, or communications from Simmons College at the time you request more information about our programs, but have subsequently changed your mind, you may opt-out by using the unsubscribe link in every email or by [submitting your email address](https://web.archive.org/home/about-simmons/administrative-offices-and-services/marketing/unsubscribe). Any change in your subscription status will take up to 48 hours to take affect. 
+If you opt to receive newsletters, other emails, or communications from Simmons College at the time you request more information about our programs, but have subsequently changed your mind, you may opt-out by using the unsubscribe link in every email or by [submitting your email address](https://web.archive.org/home/about-simmons/administrative-offices/marketing/unsubscribe). Any change in your subscription status will take up to 48 hours to take affect. 
 
 #### Data Security 
 
