@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savingmamasita.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113162957id_/http%3A//savingmamasita.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savingmamasita.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517162910id_/http%3A//savingmamasita.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Saving Mamasita
 
@@ -55,15 +55,15 @@ For information about opting out of Gourmet Ads and ad serving partners please v
 
 
 
-  * [Time Saving Tips for A Stress-Free Thanksgiving](http://savingmamasita.com/2017/11/time-saving-tips-for-a-stress-free-thanksgiving/) \- November 12, 2017
-  * [Freebies for Military and Their Families](http://savingmamasita.com/2017/11/freebies-for-military-and-their-families/) \- November 8, 2017
-  * [Top Three Benefits of Getting Your Library Science Degree Online](http://savingmamasita.com/2017/11/top-three-benefits-of-getting-your-library-science-degree-online/) \- November 2, 2017
-  * [Most Haunted Places in the United States](http://savingmamasita.com/2017/10/most-haunted-places-in-the-united-states/) \- October 29, 2017
-  * [The All-Season Family S’mores Guide](http://savingmamasita.com/2017/10/the-all-season-family-smores-guide/) \- October 26, 2017
-  * [Lunch Ideas for Picky Eaters](http://savingmamasita.com/2017/10/lunch-ideas-for-picky-eaters/) \- October 17, 2017
-  * [Why Your Kids Will Need A Makeover Too This Fall](http://savingmamasita.com/2017/10/why-your-kids-will-need-a-makeover-too-this-fall/) \- October 13, 2017
-  * [Ask An Expert From Home With Samsung Health](http://savingmamasita.com/2017/10/ask-an-expert-from-home-with-samsung-health/) \- October 12, 2017
-  * [All Natural and Organic Companies That Will Send You Free Stuff](http://savingmamasita.com/2017/10/all-natural-and-organic-companies-that-will-send-you-free-stuff/) \- October 1, 2017
-  * [How to Give Your Family a White Christmas When You Live in an Arid Climate](http://savingmamasita.com/2017/09/how-to-give-your-family-a-white-christmas-when-you-live-in-an-arid-climate/) \- September 25, 2017
+  * [Seasonal Allergies: Myths Vs. Facts](http://savingmamasita.com/2018/05/seasonal-allergies-myths-vs-facts/) \- May 13, 2018
+  * [Make Your Home Look Like a Million Bucks With These DIY Projects](http://savingmamasita.com/2018/05/make-your-home-look-like-a-million-bucks-with-these-diy-projects/) \- May 10, 2018
+  * [Tips to Keep Healthy](http://savingmamasita.com/2018/05/tips-to-keep-healthy/) \- May 10, 2018
+  * [A Guide to Helping Your Kid Walk for the First Time](http://savingmamasita.com/2018/05/a-guide-to-helping-your-kid-walk-for-the-first-time/) \- May 5, 2018
+  * [8 Ways To Save Money On A Daily Basis](http://savingmamasita.com/2018/04/8-ways-to-save-money-on-a-daily-basis/) \- April 30, 2018
+  * [5 Ways To Simplify Your Life](http://savingmamasita.com/2018/04/5-ways-to-simplify-your-life/) \- April 26, 2018
+  * [Top Tips for Sustainable Spring Fashion Dressing](http://savingmamasita.com/2018/04/top-tips-for-sustainable-spring-fashion-dressing/) \- April 21, 2018
+  * [How to Protect Your Children During a Divorce](http://savingmamasita.com/2018/04/how-to-protect-your-children-during-a-divorce/) \- April 14, 2018
+  * [Fun Plugins to Have for WordPress Websites](http://savingmamasita.com/2018/04/fun-plugins-to-have-for-wordpress-websites/) \- April 9, 2018
+  * [Tips To Keeping A Clean House](http://savingmamasita.com/2018/04/tips-to-keeping-a-clean-house/) \- April 5, 2018
 
 
