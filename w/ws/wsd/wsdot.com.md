@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsdot.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209175038id_/http%3A//wsdot.com/policy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsdot.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517215955id_/http%3A//wsdot.com/policy/privacy.htm) for the most accurate reproduction.*
 
 # Web Privacy Notice | WSDOT
 
