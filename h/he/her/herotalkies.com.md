@@ -1,121 +1,108 @@
-> *The following text is extracted and transformed from the herotalkies.com privacy policy that was archived on 2017-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170324031337id_/https%3A//www.herotalkies.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herotalkies.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517141833id_/https%3A//www.herotalkies.com/privacy) for the most accurate reproduction.*
 
-# HeroTalkies - Tamil Movies Online in HD Quality-Start Free Trial Now
+# Privacy & Terms | YuppTV
 
-## HeroTalkies.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting HeroTalkies.com, you are accepting the practices described in this Privacy Notice.**
+  * #### Privacy
 
-### Collection of Information
+By using the YuppTV USA Inc., our website, the User consents to the collection, use, and storage of User information by YuppTV (including such User information provided to YuppTV, from third parties, in the course of migration) in the manner described in this Privacy Policy and elsewhere on the YuppTV sites. This Privacy Policy applies only to information YuppTV and the Services collects about the User and does not apply to information about the User collected by YuppTV’s affiliated providers or third party websites and offerings linked to or otherwise accessible from the YuppTV website or the Services. The information collected or received by YuppTV’s affiliated providers and/ or third parties are subject to their own privacy policies.
 
-We use your information only to ensure you get a better and pakka viewing experience on our website
+This Privacy Policy details important information regarding the use and disclosure of User information collected on the YuppTV USA Inc., sites to enable the User to make an informed decision about whether to use or continue using the YuppTV USA Inc., sites and the Services. It is clarified that any video, image, or other User Content posted at the direction of the User onto the YuppTV site and the Services becomes published content and shall not be considered personally identifiable information subject to this Privacy Policy. 
 
-**Purpose:** This Privacy Notice is incorporated into and is subject to the Terms of Use of our site. Your use of our Website and any personal information you provide on our website remains subject to the terms of this Privacy Notice and our Terms of Use. The information we learn from customers, allows us to personalize and continually improve the total viewing experience at HeroTalkies.com. HeroTalkies provides this Privacy Notice to help you make an informed decision about, whether to use or continue using the Website. We distribute movies that have been appropriately certified by the Central Board of Film Certification, television and other filmed entertainment. We reserve the right to display and promote the filmed entertainment or other information on our Website to you in any manner we choose in our sole and absolute discretion. 
+  * #### collection of Information
 
-**Log File Information:** When you use our website, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser. 
+    * Types of Information YuppTV Collects: 
 
-**Clear GIFs Information:** When you use our website, we may employ "clear GIFs" (a.k.a. Web Beacons) which are used to track the online usage patterns of our Users anonymously (i.e., in a non-personally-identifiable manner). In addition, we may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by recipients. 
+When you access one of the YuppTV sites, we may collect personally identifiable information from you when you voluntarily submit this information to us. Examples of personally identifiable information may include your name; email address, phone number, user name, password. mailing address, and other information such as payment or credit card information. We may also collect other information when you access our Site. “Other Information” is any information that does not reveal your specific identity or does not directly relate to an individual. Other Information may include the type of device you are using, your IP address, the geographic location of your device (e.g., zip code or county), your operating system, the type of Internet browser that you use, usage information, diagnostic information and other data that allow us to improve our applications and serve you better, demographic information and other information provided by you, and aggregated information. 
 
-**Manner of usage of User's Information:**
+The information gathered by YuppTV may also include information gathered on usage patterns and preferences as the User navigates through YuppTV’s sites and/ or uses the Services. An agent or affiliate of YuppTV may, at times and on being so authorized, collect information on behalf of YuppTV. Third party providers featured on or linked to by the YuppTV sites, such as vendors of products and services offered through the sites, may be gathering the same kinds of information. 
 
-  * Our personally identifiable information submitted to us through our Website, shall be used to operate, maintain, and provide to you the features and functionality of our Website.
-  * Any personal information that you voluntarily disclose online (on discussion boards, in messages within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name or your email address is displayed to other Users when you send messages through our website and other Users can contact you through messages and comments.
-  * We may use your email address or other personally identifiable information to send commercial or marketing messages without your consent and except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major changes or for customer service purposes).
-  * We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous User usage data, cookies, IP addresses, browser type, click stream data, etc.) to improve the quality and design of our website and to create new features, promotions, functionality, and services by storing, tracking, and analyzing User preferences and trends.
+Any personal information or video content that the User voluntarily discloses online (on discussion boards, in messages and chat areas, etc.) becomes publicly available and can be collected and used by others. The Users account name (not the email address) is displayed to other Users when any videos are uploaded or messages are sent through the Services and other Users can contact the User through messages and comments. Any videos that the User submits to the YuppTV sites may be redistributed through the internet and other media channels, and may be viewed by the general public. 
+
+    * How YuppTV Responds to Do Not Track Signals: 
+
+We may partner with third-party service providers to serve ads regarding goods or services that may be of interest to you when you access and use the Site and third party-sites. Some of the ads on this Site or on third party sites may be personalized, meaning that they are intended to be relevant to you based on what we or the online advertising network serving the ad know about you or your computer’s browsing activity on both the Site and third-party sites. To do so, these companies may place or recognize a unique cookie on your browser (including through the use of pixel tags). 
+
+The Network Advertising Initiative offers useful information about internet advertising companies, including information about how to opt-out of interest-based advertising by their members. See [http://www.networkadvertising.org](http://www.networkadvertising.org/) for general information about the NAI and <http://www.networkadvertising.org/managing/opt_out.asp> for the opt-out page. You may also visit <http://www.aboutads.info/consumers/> to learn about interest-based advertising and how to opt-out from ads served by some or all participating companies. 
+
+These opt-out mechanisms rely on cookies to remember your choices. If you delete your cookies, use another computer or device, or change browsers, you will need to repeat this process. In addition, opting out of interest-based ads will not opt you out of all ads, but rather only those ads that are personalized to your interests. 
+
+  * #### Storage of Information
+
+Any information provided by the User to YuppTV shall be stored and held under generally accepted standards of technology and operational security in order to protect the Users personally identifiable information from loss, misuse, alteration, or destruction. Only authorized personnel are permitted access to the User information and these personnel are required to treat this information as confidential. Despite these precautions, YuppTV cannot guarantee that any and all unauthorized access to the Users information will be prevented. 
+
+All classifieds, User Content, postings, etc. are stored in the YuppTV database, even after “deletion,” and may be archived elsewhere and the web logs and other records are stored indefinitely. Search engines and other sites not affiliated with YuppTV - including archive.org, google.com, etc. may archive or otherwise make available YuppTV postings. 
+
+  * #### Usage of Infromation
+
+YuppTV uses IP address information for systems administration and troubleshooting purposes. This information is also used to deliver web pages to the User upon request; to tailor the site to the interests of the users and to measure traffic within the YuppTV site. 
+
+Any personally identifiable information provided by the User is used to operate, maintain, and provide the User with the features and functionality of the YuppTV sites. 
+
+YuppTV does not use the Users email address or other personally identifiable information to send commercial or marketing messages without the Users consent except as part of a program or feature for which the User may exercise an option to not receive such messages. YuppTV may, however, use the Users email address without further consent for non-marketing or administrative purposes. YuppTV may use both personally identifiable information and certain non-personally- identifiable information to improve the quality and design of the Services and to create new features, promotions, functionality, and services by storing, tracking, and analyzing User preferences and trends. 
+
+YuppTV uses cookies, clear gifs, and log file information to: remember information so that the User is not required to re-enter it during subsequent visits; provide custom and personalized content and information; monitor the effectiveness of marketing campaigns; monitor logs such as total number of visitors, pages viewed, etc.; and to track entries, submissions, and status in promotions, sweepstakes, and contests of the User. 
+
+  * #### Disclosure of Information
+
+    * Affiliates: 
+
+YuppTV may share certain types of information such as account information, diagnostic information, transaction information, and usage information with subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on its behalf. YuppTV requires such affiliates to process such information in compliance with this Privacy Policy and shall undertake all reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures. 
+
+    * Third Parties: 
+
+YuppTV does not share the Users personally identifiable information with third- party companies or organizations for their commercial or marketing use without the Users express consent except as part of a specific program or feature for which the User has the ability to opt-in or opt-out. YuppTV may share non-personally-identifiable information with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the YuppTV sites and the Services. YuppTV may use the information to present offers to the User on behalf of business partners and advertisers. These business partners and advertisers may receive aggregate data about groups of YuppTV but do not receive information that personally identifies the User. 
+
+    * Transactions/Requests with Third Parties: 
+
+The User may choose to use the Services to purchase goods/services from third party providers. YuppTV may share necessary information with third parties to fulfil a transaction the User has requested. YuppTV may share information where the User has consented to the sharing of such information, or except as described in this Privacy Policy/Legal Obligations/Fraud. YuppTV may be required to may disclose such records as it believes in good faith to be appropriate or necessary to protect its legitimate business interests, safeguard others, or respond to legal process like subpoenas, court orders, or other legal process, or to establish or exercise its legal rights or defend against legal claims. The information may also be required to be disclosed in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of TOU, or as otherwise required or permitted by law. 
+
+    * Statistical Information: 
+
+Much of the information YuppTV collects is in the form of aggregated statistics, such as the traffic that visits various pages within the Services, the habits and preferences of the audience, etc. Such aggregated information does not include any personally identifiable information and YuppTV may use such aggregated information and/ or disclose it to third parties as it deems fit. 
+
+    * Your California Privacy Rights: 
+
+California law permits our established customers who are California residents to request information regarding the manner in which YuppTV shares certain categories of your personal information with third parties, for the third parties’ direct marketing purposes. California law provides that you have the right to submit a request to YuppTV at its designated address and receive the following information: 
+
+      * The categories of information YuppTV disclosed to third parties for the third parties’ direct marketing purposes during the preceding calendar year;
+      * The names and addresses of third parties that received such information; and 
+      * If the nature of a third party’s business cannot be reasonably determined from the third party’s name, examples of the products or services marketed. 
+
+You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually. YuppTV’s designated email address for such requests is info@yupptv.com 
+
+We reserve our right not to respond to requests submitted to addresses other than the addresses specified in this paragraph. 
+
+  * #### Security of Information
+
+YuppTV has established safeguards to help prevent unauthorized access to or misuse of User information, but cannot guarantee that such information will never be disclosed in a manner inconsistent with this Privacy Policy. To protect the Users privacy and security, YuppTV may use passwords to help verify the Users identity before granting access or making corrections to any User information. 
+
+YuppTV uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of User information. YuppTV, however, ensure or warrant the security of any information transmitted to YuppTV by the User and is transmitted at the Users own risk. Once YuppTV receives the transmission of information, YuppTV makes commercially reasonable efforts to ensure the security of its systems. However, YuppTV cannot a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any physical, technical, or managerial safeguards. 
+
+If YuppTV becomes aware of a security systems breach, then YuppTV may attempt to notify the User electronically so that the User can take appropriate protective steps or may post a notice on the YuppTV sites. Depending on where the User resides, the User may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw consent from receiving electronic notice) the User should notify YuppTV using the contact form. 
+
+  * #### User Choices
+
+The User may decline to submit personally identifiable information through the YuppTV sites, in which case YuppTV may not be able to provide certain services. If the User opts to register with and provide information to YuppTV, the User will have the opportunity to unsubscribe, review, update, or delete the information provided at any time. If the User opts to remove registration information completely, the User may not be able to continue using certain services that require registration. 
+
+To protect the Users privacy and security, YuppTV takes reasonable steps (such as requesting a unique password) to verify the Users identity before granting profile access or making corrections. The User is responsible for maintaining the secrecy of the unique password and account information at all times. It is clarified that media files uploaded by Users to the YuppTV sites and the Services cannot be removed and remain subject to the TOU. 
+
+The User may contact YuppTV with any questions or comments about this Privacy Policy, personal information, User consent, or opt-in or opt-out choices using the contact form. 
+
+  * #### Children's Privacy
+
+YuppTV websites are not intentionally designed for or directed at persons less than 18 years of age. YuppTV does not knowingly permit any person who is under 18 years of age to register with the Services or to provide any other personally identifying information. Any person under 18 years of age visiting the YuppTV sites is prohibited from accessing or using the Services in any manner and at any time. If YuppTV becomes aware that any personally identifiable information of persons less than 18 years of age has been collected on the YuppTV sites without verified parental consent, then YuppTV will take the appropriate steps to delete any such information. 
+
+  * #### Change in Control
+
+In the event that YuppTV is acquired by or merged with a third party entity, YuppTV reserves the right, in any of these circumstances, to transfer or assign the information collected from the Users as part of such merger, acquisition, sale, or other change of control. In the event of bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors’ rights generally, YuppTV may not be able to control how the your personal information is treated, transferred, or used. 
+
+  * #### Modifications
+
+YuppTV may update or revise this Privacy Policy from time to time. Please take a look at the “Effective Date” legend at the top of this page to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy. YuppTV will also notify you of any material changes to this Privacy Policy. Your use of the YuppTV sites following any changes to this Privacy Policy means you accept the revised Privacy Policy. 
+
+  * #### Contact Information
+
+Users may contact YuppTV with any questions or comments about this Privacy Policy using the contact form or may address such queries and / or comments to [info@YuppTV.com](mailto:info@YuppTV.com)
 
 
 
-**Cookies Information:** When you visit our website, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. We use both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of our website may not function properly if the ability to accept cookies is disabled. We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit our website; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests. 
-
-### Sharing of Information
-
-Don’t worry, be happy! We never sell our customers’ information to anyone. But if required by law, we may release personally identifiable information to the authorities.
-
-  * The information we collect about our customers is critical to our business. We respect and value this information and do not want to jeopardize the flow of information between our customers and the site. Therefore, we are not in the business of selling this information to other websites or businesses. There are very limited circumstances where we do share some customer information, and this is outlined immediately below
-  * We provide personally identifiable information and/or non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.
-  * We do not share your personally identifiable information (such as name or email id) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
-  * We do share non-personally identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties for commercial and marketing use or to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the Website.
-  * We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and central laws (such as Copyright Law of India) or respond to a court order, subpoena, or search warrant or at the request of any judicial and or quasi judicial authority or the Government of India or State to disclose this information to a third party, after taking all due precautions before the information requested is disclosed.
-  * HeroTalkies also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that HeroTalkies.com believes, in good faith, is appropriate or necessary to enforce our Terms of Use, take precautions against liability, to investigate and defend itself against any third party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of HeroTalkies.com our Users or others.
-
-
-
-### Information Security
-
-Your private information is secure with the industry-standard encryption used. But you should also keep it in a safe, lock it tightly and only open it when mummy tells you to.
-
-**Software Used:** To protect the security of your information during transmission, we use Secure Sockets Layer (SSL) software, which encrypts information you input. 
-
-**Order Confirmation:** We reveal only the last five digits of your credit card numbers when confirming an order. To process an order, it is necessary to transmit the entire credit card number to the appropriate credit card company. 
-
-**Signing off:** To prevent unauthorized access to sensitive information, it is important for you to monitor those who have access to your password and to your computer. Be sure to sign off when finished using a shared computer. Visit our Web site for more information on how to sign off.
-
-### User access to Information 
-
-You will have access to edit and update your information you previously entered.
-
-**General:** When you access your account, there is a variety of information that you will see. This is designed to allow you to update any changed information and view the information that you entered previously. This information is sensitive, and it is necessary to both protect this information and keep it current in order to have the best experience at our site. Examples of the type of information that can be accessed by signing into your account are on the Web site.
-
-### User choices with regard to access of Information
-
-You will be able to control what information you wish to share. However, this will limit your experience on our website.
-
-**General:** You always have the right to refrain from providing any information. This may have an impact on use of the site and on the ease of making purchases or taking advantage of certain unique features of the site. 
-
-**Prior Information:** You can add or update certain information on pages such as those listed in the “User Access to Information” section above. When you update information, we usually keep a copy of the prior version for our records. 
-
-**Customer Communication:** If you do not want to receive e-mail or other mail from us, please adjust your account setting regarding e-mail contact preferences. (You cannot waive the applicability of the Conditions of Use and other legal notices, such as this Privacy Notice, and if you elect not to receive those notices, they will still govern your use of HeroTalkies.com, and it is your responsibility to review them for changes.) 
-
-**Cookie Choices:** The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, affecting the acceptances of cookies means that you will not be able to use such important features as accelerated ordering and customized product suggestions. 
-
-**Anonymous Browsing:** A large number of movies may be accessed without the use of cookies, or anonymously. See the Web site for a list of items that may be accessed anonymously.
-
-### Children
-
-Ay thambi! If you are a minor, amma or appa should accompany you.
-
-**General:** We do not sell our movies for purchase by children. We do sell movies suitable for children’s viewing, but only for purchase by adults. If you are under age 18, you may use HeroTalkies.com only with the involvement of a parent or guardian.
-
-### Conditions of Use, Notices, and Revisions 
-
-The Terms and Privacy Policy apply to visitors of HeroTalkies.com. Also, we may revise our Privacy policy and in case of any change, we’ll let you know. No tension!
-
-**Acceptance of Conditions of Use:** By visiting HeroTalkies.com, you accept that your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of India. If you have any concern about privacy at HeroTalkies.com, please send us a thorough description to feedback@herotalkies.com, and we will try to resolve it. 
-
-**Revisions:** Because our business changes constantly, we reserve the right periodically revise our Privacy Notice & Terms of Service. Prior to making these changes, we will e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. 
-
-**Applicability:** Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
-
-**Rentals and Purchases:** When you order an item of Pay Content through the Service, you may either.
-
-### Information you gave us 
-
-Our systems collect user information of what is being browsed on our website.
-
-**General:** Information is collected from you when you do the following activities: search, buy, post a review or opinion, participate in a contest or questionnaire, or communicate with customer service. 
-
-**Examples:** For example, information would be collected when a user came to the site, searched for a product, placed an order through the site or a site affiliate, bid or purchased from an ongoing auction, updated your information in your account settings, added items to your want list or registry, called or e-mailed customer service, reviewed a product, participated in a discussion or chat, completed a questionnaire or a contest entry for; provided employer information when opening a corporate account, specified a date reminder, share information with HeroTalkies.com acquaintances; and employ other notification services, such as HeroTalkies.com delivery and/ or sale reminders. 
-
-**Information that could be supplied:** As a result of any of the above actions, it is possible that you will supply us with such information as your name, address, and phone numbers; credit card information; purchase and shipping recipients, including addresses and phone numbers; people (with addresses and phone numbers) listed in rapid order processing settings; e-mail addresses of site friends, and other people; content of reviews and e-mails to us; personal description and photograph in personal section, and financial information, including Social Security and driver’s license numbers.
-
-### Automatic information 
-
-More about our systems gathering information it receives over the Internet. Shabba… Ippove kannu kattadhe!
-
-**General:** As discussed earlier, our systems collect information that is sent over the Internet without your control. 
-
-**Examples:** Some examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet login; e-mail address; password; computer and connection information such as browser type and version, operation system, and platform; purchase history, which we sometimes aggregate with similar information from other customers to create features such as best-buyers and product suggestions; the full Uniform Resource Locator (URL) click-stream to, through, and from our Web site, including date and time, cookie number; movies you viewed or searched for; and the phone number you used to call our toll-free number. 
-
-**Software Used:** During some visits we may use software tools such as Java Script to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
-
-### Information form other Sources 
-
-We also receive information from other sources, which help us provide better experiences.
-
-**General:** Occasionally, we supplement the information that we receive that has been outlined above with information from other sources and companies. Examples of information we receive from other sources include updated delivery and address information from our carriers or other third parties, which we use to correct our records and deliver your next purchase or communication more easily; account information, purchase or redemption information, and page-view information from some Ad agencies with which we operate and/or for which we provide technical, fulfillment, advertising, or other services; search term and search result information from some searches conducted through the Web search features, search results and links, including paid listings(such as Sponsored Links from Google); and credit history information from credit bureaus, which we use to help prevent and detect fraud and to offer certain credit or financial services to some customers.
-
-### Information you can Access 
-
-Basically, the information and settings that you may view and/or edit on our website.
-
-**General:** Information collection and processing is designed to better assist you in viewing and using our site. 
-
-**Examples:** You can access some of the information that we collect and process. Examples of information you can access easily at HeroTalkies.com include up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password, communications preferences, address book, and fast ordering settings); payment settings (including credit card information and gift certificate, gift card, and check balances); e-mail notification settings; recommendations (including recent view history, and prior order history); Purchase lists and gift registries (including desired item lists and gift and wedding registries); auctions; and your personal area (including your product reviews, requests, and recommendations).
