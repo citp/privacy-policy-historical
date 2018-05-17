@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the openwebware.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116172735id_/http%3A//www.openwebware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openwebware.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517122629id_/http%3A//www.openwebware.com/privacy) for the most accurate reproduction.*
 
-# Privacy -
+# Privacy - Open Source, Free Cross-Browser WYSIWYG Editor
 
 **Privacy Policy**  
 openWebWare takes your **privacy** very seriously. We want to earn your trust by telling you how we collect and use information  **about** you. Please read the following to learn more **about** our **privacy** policy.
