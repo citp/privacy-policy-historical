@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uberdownloads.net privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130111355id_/http%3A//www.uberdownloads.com/company.php%3Fc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uberdownloads.net privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517024159id_/http%3A//www.uberdownloads.com/company.php%3Fc%3Dprivacy) for the most accurate reproduction.*
 
 # Uberdownloads - Freeware and shareware downloads
 
@@ -60,7 +60,7 @@ Any of the information we collect from you may be used in one of the following w
 
 ### E-mail Offers
 
-By providing your e-mail address, and choosing to receive our Offers, you agree to receive e-mails from us. Should you have any questions or concerns, or if you would like to discontinue receiving Offers, simply email us at contactus@UberDownloads.org and ask us to remove you from our lists. You will only receive Offers via e-mail from us and our Partners if you have indicated that you would like to receive them. 
+By providing your e-mail address, and choosing to receive our Offers, you agree to receive e-mails from us. Should you have any questions or concerns, or if you would like to discontinue receiving Offers, simply email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and ask us to remove you from our lists. You will only receive Offers via e-mail from us and our Partners if you have indicated that you would like to receive them. 
 
 ### Testimonials
 
@@ -145,7 +145,7 @@ The following are general instructions regarding the software uninstallation pro
 
 _*Note: After you have uninstalled the software, certain data such as folders, files, registry keys, and cookies, may remain on your computer. We recommend that you clear your cookies after uninstalling._
 
-If for any reason you are having difficulties uninstalling your software, please reach us via email at contactus@UberDownloads.org. 
+If for any reason you are having difficulties uninstalling your software, please reach us via email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 ### How do I opt out? 
 
@@ -153,7 +153,7 @@ We currently do not send messages to or collect data from users. If at any time 
 
 If you would like to be removed from our system, you can reach us via email 
 
-at contactus@UberDownloads.org. 
+at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 ### California Online Privacy Protection Act Compliance
 
@@ -188,7 +188,7 @@ If there are any questions regarding this privacy policy you may Contact Us at:
 UberDownloads  
 588 Sutter St. #551  
 San Francisco, CA 94102  
-contactus@UberDownloads.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 ### Last Updated: October 4, 2012
 
