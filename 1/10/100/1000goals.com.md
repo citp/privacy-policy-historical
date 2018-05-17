@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the 1000goals.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212083327id_/http%3A//www.1000goals.com/privacy-policy%23.UDeK5dYgdRY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1000goals.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517194157id_/http%3A//www.1000goals.com/privacy-policy%23.UDeK5dYgdRY) for the most accurate reproduction.*
 
 # Privacy | 1000 Goals
+
+**27 February 2008** at 01:51 GMT
 
 Third Party Advertising:  
 We serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
@@ -14,22 +16,28 @@ This Web site does allow user to enter their email address at their own will for
 External Links  
 This site contains links to other sites. 1000goals.com is not responsible for the privacy practices or the content of such Web sites.
 
-[ ](http://www.1000goals.com/news/madrid-set-for-psg-clash-chelsea-challenge-barca-in-champions-league/)
+### Latest Football News
 
-Champions League knock out stages round will already treat football lovers with tons of excitement with several interesting matches between top teams, notably Real Madrid's clash against Paris Saint Germain. Those two European powerhouse are set to produce mouthwatering challenge, especially with the amount of quality players both team possessed. PSG's big spending with Neymar…
+[ ](http://www.1000goals.com/news/atletico-victorious-in-europa-league-after-demolishing-marseille/)
 
-[ ](http://www.1000goals.com/news/city-victorious-in-manchester-derby-liverpool-and-arsenal-held/)
+Atletico Madrid proved their worth as Europa League favorite as Diego Simeone's team secured the trophy following their dominant 3-0 win over French outfit, Marseielle this midweek. Failing to compete in La Liga and Champions League, Atleti were very determined to get the trophy, but so was their opponent which actually started off brightly. Having…
 
-Manchester City's title bid looking smoother following their thrilling 2-1 win over their closet rival, Manchester United on Sunday. Playing away from home didn't stop City from taking a positive approach with their attacking display and ball possession style straight from kick off. The visitor's early domination was eventually rewarded when David Silva puts them…
+[ ](http://www.1000goals.com/news/the-cost-of-a-premier-league-goal/)
 
-[ ](http://www.1000goals.com/news/chelsea-stunned-by-west-ham-tottenham-hammered-stoke/)
+With the wide array of superstar signings in football on a bi-annual basis, it’s easy to get swept away with excitement when your latest midfield linchpin signs on the dotted line. But, is it worth spending 10’s of millions on the latest Brazilian prodigy when a Championship stalwart will give you the same return? We…
 
-Chelsea's ambition to defend their English Premier League title seems to be fading even further this weekend following their shock defeat against West Ham United. Playing on an early fixture, The Blues  had a big chance in cutting their gap with the top teams above them and also putting some pressure too with all three…
+[ ](http://www.1000goals.com/news/joyful-mancini-to-consider-balotellis-return-for-italy/)
 
-[ ](http://www.1000goals.com/news/madrid-star-ronaldo-delighted-with-fifth-ballon-dor/)
+Italy national team have officially appointed Roberto Mancini as their new boss and the former Manchester City tactician is very delighted with the opportunity and already eager in starting his new role with Gli Azzurri. Making his early planning, Mancini stated to the media his idea of finally recalling Mario Balotelli back into the national…
 
-Following up on his success in being named as FIFA Best Player not long ago, just  as it was expected, Cristiano Ronaldo also won the Ballon d'Or award beating his rival, Lionel Messi. Acquiring his fifth Ballon d'Or, Ronaldo still can't hide his delight while adding that he has been waiting to get it for…
+[ ](http://www.1000goals.com/news/salah-breaking-record-liverpool-securing-top-four/)
 
-[ ](http://www.1000goals.com/news/liverpool-advance-napoli-crashed-out-of-champions-league/)
+Liverpool finally got some slight of comfort ahead of their upcoming Champions League final fixture against Real Madrid as The Reds have secure that top four set in Premier League. Having to battle until the final day of this season, Jurgen Klopp's men confirming their place for next season Champions League with their star player,…
 
-Liverpool made their way into the knock out stage of UEFA Champions League in some style as Jurgen Klopp's men demolished Spartak Moscow 7-0 at Anfield. Needing just a point to get them into the next round, The Reds were aiming for more as they were looking for all three points in front of their…
+[ ](http://www.1000goals.com/news/psgs-alves-not-distraught-with-missing-world-cup/)
+
+Paris Saint-Germain's veteran defender, Dani Alves had his world cup dream ended recently due to his knee injury, which the player picked up last Tuesday during his club's Coupe de France final. Having to miss his potential participation for Russia within the final days of his team's fixtures certainly isn't an easy thing to cope,…
+
+### Football Scores & Highlights
+
+### Latest Football Highlights
