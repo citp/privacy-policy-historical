@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epocrates.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115141048id_/http%3A//www.epocrates.com/privacy%3Fcid%3DfooterPolicies%23privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epocrates.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517163905id_/http%3A//www.epocrates.com/privacy%3Fcid%3DfooterPolicies%23privacyPolicy) for the most accurate reproduction.*
 
 # Policies | Epocrates
 
@@ -223,3 +223,5 @@ Please note that Epocrates Content or content provided by third-party sponsors t
 This Third-Party Sponsorship Policy is subject to change at any time. If we make any changes to this Third-Party Sponsorship Policy, we will change the "Last Updated" date below.
 
 **Third-Party Sponsorship Policy last updated March 3, 2014**
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=8e0d4f68-2534-4113-8116-f8f157610b8f)
