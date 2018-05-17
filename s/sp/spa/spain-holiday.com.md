@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the spain-holiday.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115095405id_/http%3A//www.spain-holiday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spain-holiday.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517151412id_/http%3A//www.spain-holiday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy of Spain-holiday.com
 
-[www.spain-holiday.com](https://www.spain-holiday.com/) (hereafter referred to as “ **This Site** ”) is part of Spain holiday Online Rentals S.L. (hereafter referred to as “ **Spain-Holiday** ”) which is a Spanish legal registered company, registered in Malaga, Spain. Company registration number is: ES-B92802479.
+[www.spain-holiday.com](https://www.spain-holiday.com/) (hereafter referred to as “ **This Site** ”) is part of Spain holiday Online Rentals S.L. (hereafter referred to as “ **Spain-Holiday** ”) which is a Spanish legal registered company, registered in the Registro Mercantil de Malaga, Tomo 4211, Libro 3121, Folio 26, Sección 8, Hoja MA88747, I/A in Spain. Company registration number is: ES-B92802479.
 
 Spain-Holiday handles personal information from users of This Site with respect and confidentiality and according to the law – and takes all reasonable steps to ensure that personal information is stored securely and accurately. Please contact us if you have any questions or comments about our policy, or our use of personal information.
 
@@ -24,9 +24,9 @@ Spain-Holiday employs strict security measures to safeguard personal information
 
 As part of This Site, Spain-Holiday provides an internal account called Secure Inbox that allows the direct written communication between the Guest and the Owner. For security purposes, Spain-Holiday has an automated system that screens all communications for malicious or fraudulent content. That includes spam and the limitation of certain file types. Any sensitive information such as full credit card numbers that can be used for fraud may be masked automatically to ensure the safety of both Owners and Guests. Spain-Holiday may also mask contact information which can be used to establish contact outside the Secure Inbox. In case of detecting a communication with malicious content, it may be blocked entirely. All communications sent and received using the Secure Inbox will be stored by Spain-Holiday. To the extent permitted by law, Spain-Holiday will only access internal communications between Owners and Guests if required by law, if strictly necessary for security or law enforcement purposes, or if Spain-Holiday otherwise has a legitimate interest, such as to detect and prevent fraud and misuse. No communications will ever be passed on to a third party except if required by the law. Spain-Holiday may analyse anonymized content of communications to improve its services.
 
-The personal data provided for the registration of the account as well as any other that could be provided during the booking procedure are included in a database called _Spainholiday_ duly registered with the Spanish Data Protection Agency, owned and processed by Spain holiday online rentals SL. The acceptance of these terms and conditions implies the express consent to the referred data processing as well as to the assignment or communication of personal data within the European Economic Area, for the same purposes and data processing.
+The personal data provided for the registration of the account as well as any other that could be provided during the booking procedure are included in a database called _Spainholiday_ duly registered with the Spanish Data Protection Agency, owned and processed by Spain holiday online rentals SL. The acceptance of these terms and conditions implies the express consent to the referred data processing. 
 
-For the exercise of the legal rights to access, rectification, cancellation or opposition to the data treatment a written request by the data subject should be sent to the customer service department on following email [support@spain-holiday.com](mailto:support@spain-holiday.com). 
+For the exercise of the legal rights to access, rectification, cancellation or opposition to the data treatment a written request by the data subject should be sent to the customer service department on following email [support@spain-holiday.com ](mailto:support@spain-holiday.com) You can also exercise this right by sending a letter via ordinary post to the following address: Paseo de Cerrado de Calderón, 13, Local 41, 29018 Málaga.
 
 In case that in the compliance of the commercial relationship, third parties personal data would be communicated to Spain Holiday Online Rentals, S.L. the user guarantees that he is authorised to communicate such data and that he has provided to the data subject with the relevant information related to his communication in compliance with the legal provisions in force. Should this not be the case the user will be responsible for any infringement or penalty that could be granted to the Spain-Holiday and could indemnify and keep it harmless in this respect.
 
@@ -49,6 +49,60 @@ Spain-Holiday uses the following types of cookies:
   * Functionality cookies: These cookies allow This Site to remember the choices visitors make, such as the visitor´s username in order to provide enhanced and personalized features.
 
 
+
+Spain-Holiday uses the following cookies:
+
+ASP.NET_SessionId
+
+CookieRef
+
+SHAdminLoginCookie
+
+SHApplicationCookie
+
+__qca
+
+__ssid
+
+__stripe_mid
+
+__utma
+
+__utma
+
+__utmc
+
+__utmc
+
+__utmv
+
+__utmz
+
+__utmz
+
+_ga
+
+_ga
+
+ajs_anonymous_id
+
+ajs_group_id
+
+ajs_user_id
+
+currentLanguage
+
+firstPageSeen
+
+intercom-id-yupbv94r
+
+intercom-lou-je5td1qt
+
+isSHAdmin
+
+newsletterPopShownThisVisit
+
+tms_VisitorID
 
 #### **Use of third-party cookies**
 
