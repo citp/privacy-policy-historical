@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the html-cleaner.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115140245id_/http%3A//html-cleaner.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the html-cleaner.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517163512id_/https%3A//html-cleaner.com/privacy) for the most accurate reproduction.*
 
 # Html cleaner - Privacy policy
 
 This Privacy Policy governs the manner in which Html Cleaner collects, uses, maintains and discloses information collected from users (each, a "User") of the [https://html-cleaner.com](https://html-cleaner.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Html Cleaner.
 
 **Personal identification information**
+
+**We don't collect personal data intentionally. The edited documents are never sent to our server, they are edited on the client-side. However we use third party tools that might collect personal data. Please check their privacy policies for further information: Googla Analytics, Google AdSense, Google Mail, Facebook, Godaddy hosting.**
 
 We may collect personal identification information from Users in a variety of ways in connection with activities, services, features or resources we make available on our Site.. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
@@ -18,8 +20,7 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 **How we use collected information**
 
-Html Cleaner may collect and use Users personal information for the following purposes:  
-
+Html Cleaner may collect and use Users personal information for the following purposes:
 
   * _\- To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
@@ -31,6 +32,8 @@ We may use feedback you provide to improve our products and services.
 To send Users information they agreed to receive about topics we think will be of interest to them.
   * _\- To send periodic emails_  
 We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+
+
 
 **How we protect your information**
 
