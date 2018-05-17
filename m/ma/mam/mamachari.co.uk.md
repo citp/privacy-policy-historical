@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mamachari.co.uk privacy policy that was archived on 2017-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171014193418id_/http%3A//mamachari.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamachari.co.uk privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517163148id_/http%3A//www.mamachari.co.uk/service/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mamachari London
+# Privacy policy - Mamachari
 
-This Privacy Policy governs the manner in which Mamachari Ltd T/A Mamachari Bikes collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.mamachari.co.uk](http://mamahari.co.uk/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Mamachari Ltd T/A Mamachari Bikes.
+his Privacy Policy governs the manner in which Mamachari Ltd T/A Mamachari London collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.mamachari.co.uk](http://mamahari.co.uk/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Mamachari Ltd T/A Mamachari London.
 
 **PERSONAL IDENTIFICATION INFORMATION**
 
@@ -18,7 +18,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 **HOW WE USE COLLECTED INFORMATION**
 
-Mamachari Ltd T/A Mamachari Bikes may collect and use Users personal information for the following purposes:
+Mamachari Ltd T/A Mamachari London may collect and use Users personal information for the following purposes:
 
 – To improve customer service  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.  
@@ -43,21 +43,21 @@ Users may find advertising or other content on our Site that link to the sites a
 
 **CHANGES TO THIS PRIVACY POLICY**
 
-Mamachari Ltd T/A Mamachari Bikes has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Mamachari Ltd T/A Mamachari London has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 Your acceptance of these terms
 
-By using this Site, you signify your acceptance of this policy and [Terms of Use](http://mamachari.co.uk/terms-of-use/ "Terms of Use"). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [Terms of Use](http://mamachari.co.uk/terms-of-use/ "Terms of Use"). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
 Mamachari Ltd  
-18 Ashwin Street  
-Dalston  
-London E8 3DL  
-0207 254 0080  
-contact@mamachari.co.uk
+163 Forest Road  
+Walthamstow  
+London E17 6HE  
+0208 531 2585  
+sales@mamachari.co.uk
 
-This document was last updated on March 1, 2015
+This document was last updated on October 10, 2017
