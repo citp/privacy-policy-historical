@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybangaloreproperty.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115052735id_/http%3A//www.mybangaloreproperty.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybangaloreproperty.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517163622id_/http%3A//www.mybangaloreproperty.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # PrivacyPolicy
 
@@ -12,6 +12,5 @@ This website uses cookies to record user-specific information on what pages user
 
 Appropriate security measures are in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. 
 
-Farooq M,   
-BangaloreCityhome   
-www.Mybangaloreproperty.com
+MyBangaloreProperty Services   
+www.mybangaloreproperty.com
