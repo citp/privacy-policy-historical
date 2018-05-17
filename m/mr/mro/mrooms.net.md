@@ -1,158 +1,89 @@
-> *The following text is extracted and transformed from the mrooms.net privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419030651id_/http%3A//www.moodlerooms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrooms.net privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517132747id_/http%3A//www.blackboard.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Moodlerooms
+# Blackboard Privacy Policy | Blackboard
 
-### **SECURITY POLICY SAFE HARBOR COMPLIANCE AND EU PRIVACY POLICY DIRECTIVE**
+##  Blackboard privacy policy 
 
-Effective Date 1st April, 2014
+The following privacy policy applies to personal data collected at **[our corporate site located here](https://web.archive.org/index.html "Blackboard Inc.")** , Behind the Blackboard™ (behind.blackboard.com), or other Blackboard websites, and data collected through the provision of Blackboard products or services (collectively, the "Services"). Blackboard Inc. and its affiliates (collectively "Blackboard") are committed to protecting the privacy of its users. Because Blackboard gathers certain types of information about the users of the Services, we believe you should fully understand the terms and conditions surrounding the use of the information we collect. The following discloses our information gathering and dissemination practices for the Services. If you are using any of the Services through an educational or other institution that is a customer of Blackboard, this policy does not supersede the terms of any agreements between Blackboard and any other party, nor does it affect the terms of any agreement between any user of the Services and their employer, their educational institution or any third party. Please make sure that you read the terms of any privacy policies that you enter into with parties other than Blackboard, including your employer or educational institution, as those policies may also explain how your personal information is used by those parties. Please review the following statement to understand how the information you provide to Blackboard through the Services will be treated.
 
-I. PURPOSE  
-As part of Moodlerooms’ commitment to protect personal privacy, Moodlerooms adheres to the Safe Harbor Principles, administered by the United States Department of Commerce in consultation with the European Commission with respect to client personal information. Moodlerooms has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Moodlerooms’ certification, please visit http://www.export.gov/safeharbor/.
+##  1\. Information Blackboard collects 
 
-II. SCOPE  
-This Policy is maintained by Moodlerooms Inc. on behalf of itself, its parent entity and its US and non-US subsidiaries and divisions (collectively, “Moodlerooms”), and applies to all current clients of Moodlerooms.
+You are free to utilize the Services without identifying yourself; however, if you would like to utilize or customize some features of the Services, you must first register with Blackboard. When you register, we will request certain personal information, including, but not limited to, contact information, such as your name, city and state, and e-mail address as well as demographic information such as your age, gender and interests. This information better enables us to provide you with content relevant to your interests and provides us with aggregate data that Blackboard uses to improve the Services. We may also ask you for information about your system or how you use Blackboard products and services, and we will collect information through your use of the Service, including your actions taken on the Service and your communications with others through the Service. Please see Section 5, below, for information on how to access or update this information and see Section 7 for information on how we collect and use Student Data. 
 
-III. DEFINITIONS  
-“Agent” means any third party that processes, collects, or uses Personal Information pursuant to the instructions of, and solely for the benefit of, Moodlerooms, or to which Moodlerooms, Inc. discloses Personal Information for use on its behalf.  
-“Personal information”, means information that can directly or indirectly lead to the identification of a living person, such as an individual’s name, e-mail, or other identifying characteristic. Personal information does not include information that has been made anonymous, encoded or otherwise stripped of its identifiers, or information that is publicly available, unless combined with other non-public personal information.
+Blackboard gathers information about all users collectively, such as what areas users visit most frequently and what services users access most often. Blackboard automatically logs IP addresses, session sources, and other data which tracks users' access to the Services. We analyze these logs for sales and marketing purposes as well as system performance monitoring. These logs are analyzed for the aggregate trends they reveal about our customers and how the customers use the Services. We may also collect analytics data, or use third-party analytics tools, to help us measure traffic and usage trends for the Service and to understand more about the demographics of our users. These tools collect information sent by your browser or mobile device, including the pages you visit, your use of third party applications, and other information that assists us in analyzing and improving the Services. Although we do our best to honor the privacy preferences of our visitors, we are not able to respond to Do Not Track signals from your browser at this time. 
 
-IV. SEVEN PRINCIPALS OF SAFE HARBOR  
-1\. NOTICE  
-The following is our disclosure of how Moodlerooms, Inc. collects and uses personal information; any third parties to which we may disclose that information; how you can access your information and restrict our use of it; and how to contact us with any questions or complaints about how we use your information.  
-Any personal information sent to us by our clients is used exclusively for the purposes and services for which we contracted. We do not share, transmit, rent or sell that information to any other parties.  
-We may collect personal information such as name, title, firm, address, e-mail address, and survey results from individuals who have requested information from us or expressed interest in our products and services. You may provide this information to us electronically, over the Internet, or physically. Your personal information will be used by Moodlerooms, Inc., exclusively for the purpose of providing and improving service to you, or informing you of additional products and services which we think will be of interest to you.  
-Other information gathered through this site is purely statistical, such as what Web pages are visited most often. This information is useful to Moodlerooms, Inc., and enables us not only to improve and upgrade our services but also to refine our product lines and marketing. This information is anonymous in nature.  
-We do not collect sensitive personal information (e.g., personal information specifying medical or health conditions, racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, views or activities, social security benefits or information specifying the sex life of the individual or criminal or administrative proceedings) or receive sensitive personal information from any third parties.
+When you access our Services by or through a mobile device, we may receive or collect and store unique identification numbers associated with your device or our mobile application (including, for example, a UDID, Unique ID for Advertisers (“IDFA”), Google Ad ID, or Windows Advertising ID), mobile carrier, device type, model and manufacturer, mobile device operating system brand and model, phone number, and, depending on your mobile device settings, your geographical location data, including GPS coordinates (e.g. latitude and/or longitude) or similar information regarding the location of your mobile device.
 
-2\. CHOICE  
-If you request information from us, you will be given the choice at that time to opt out of receiving future communications from us on information, products, or services that may be of interest to you.  
-If you have provided us with your personal information in the past, and you do not wish to receive further communications of information, products, or services from us, you can opt out, by sending an email to: unsubscribe@moodlerooms.com.  
-If you provide personal information to us as part of a service we provide to you or your organization, we do not share, transmit, rent or sell that information to any third parties except as described herein.
+##  2\. Purposes of data collection 
 
-3\. ONWARD TRANSFER  
-Moodlerooms only shares personal information with other companies or individuals outside of Moodlerooms in the following limited circumstances:
+Blackboard requests personal information to operate, maintain and provide to you the features and functionality of the Services and to communicate directly with you, as well as for purposes such as the provision of customer service and support, billing, network management, customer surveys, sales management, support, newsletter subscriptions, user group memberships, event registration and sponsorship, offers of related services, and other exchanges of information.
 
-Where Moodlerooms receives personal information from persons in the EU, Moodlerooms will use and disclose such information only in accordance with the purposes for which it was originally collected or in accordance with notices we might provide to such persons.
+##  3\. What Blackboard does with the information it collects 
 
-We provide personal information to offices, subcontractors or other trusted businesses or persons for the purpose of processing personal information on our behalf or providing the services. We require that these parties agree to process such information based on our instructions and in compliance with this policy and any other appropriate confidentiality and security measures.  
-We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request; (b) enforce applicable Terms of Service, including investigation of potential violations thereof; (c) detect, prevent or otherwise address fraud, security or technical issues; or (d) protect against imminent harm to the rights, property or safety of Moodlerooms, its users or the public as required or permitted by law.
+Blackboard makes chat rooms, forums, message boards, and/or news groups available in certain areas of the Services. Please remember that any information that is disclosed in these areas becomes public information, and you should exercise caution when deciding to disclose your personal information.
 
-Moodlerooms will provide notice and provide individuals with the opportunity to “opt out” if such personal information is to be disclosed to a third party or used for purposes incompatible with the purpose for which it was originally collected.
+The personal information you supply to Blackboard will not be given, sold, rented, loaned, or otherwise disclosed to any third parties outside of Blackboard and its agents, except when we have your permission or under special circumstances, such as when we believe in good faith that disclosure is reasonably necessary to (i) comply with legal process, (ii) enforce the Terms of Use, (iii) respond to claims that any content provided by using the Services violates the rights of third parties, or (iv) protect the rights, property, or personal safety of Blackboard, its users, or the public.
 
-4\. SECURITY  
-Moodlerooms employs considerable precautions within the company — including physical, electronic, and procedural safeguards — designed to secure the privacy of all personal information we retain, and protect it from loss, misuse and unauthorized access, disclosure, alteration and destruction.
+Blackboard may use aggregated personal information to determine the demographic composition of our user base and to distribute statistics and general marketplace information about Blackboard. This aggregate information does not identify specific users.
 
-Moodlerooms does not require or store any personal information from clients other than email address, name, phone numbers, fax numbers, business address, and contact name.
+Certain non-personal information regarding users is recorded by the standard operation of the Internet servers hosting the Services. This information is primarily used to provide users of the Services with an enhanced online experience. Blackboard may disclose aggregated user statistics in order to describe the Services to prospective partners, advertisers, and other third parties, and for other lawful purposes.
 
-Moodlerooms Cookies – When you visit Moodlerooms, we send one or more cookies (a small file containing a string of characters) to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or indicate when a cookie is being sent.
+Some features of the Services may be offered in conjunction with a partner company. In order to provide these features, it may be necessary for either you or us to share your personal information with this company. If you do not want your information to be shared, you can choose not to allow the transfer by not using that particular feature.
 
-However, some Moodlerooms features and services may not function properly if your cookies are disabled. For more information on Moodlerooms cookies and the EU Privacy Directive, please see section V. of the security policy below.  
-Log Information – When you use Moodlerooms services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol (IP) address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
+Also, please be aware that advertisers or Web sites that are linked to the Services may collect personally identifiable information about you. The information practices of those Web sites linked to the Services are not covered by this Privacy Policy and Blackboard is not responsible for the privacy practices or the content of such Web sites.
 
-User Communications – When you send e-mail or other communication to Moodlerooms, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
+Blackboard utilizes other companies to provide limited services on its behalf, including but not limited to customer support, web analytics, coordination of mailings and event management. These companies are permitted to access only the information they require to perform those services. Blackboard requires these companies to maintain the confidentiality of any personal information and prohibits them from using the information for any other purpose than the purpose for which it was collected.
 
-Other Sites – This Privacy Policy applies to all Web sites and services that are owned and operated by Moodlerooms. We do not exercise control over the site links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you.
+Blackboard may share personal information other than Student Data, as defined below, with other parties in connection with any company transaction, such as a merger, sale of all or a portion of company assets or shares, reorganization, financing, change of control or acquisition of all or a portion of our business by another company or third party or in the event of bankruptcy or related or similar proceedings. Blackboard’s transfer of Student Data to a third party in the event of a company transaction is governed by our agreements with our educational institutions and applicable law.
 
-We restrict access to personal information to Moodlerooms employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution if they fail to meet these obligations.
+##  4\. User options — opt-out 
 
-5\. ACCESS OF RECORDS  
-Upon an individual’s request, Moodlerooms will offer clients reasonable access to their personal information and will afford clients a reasonable opportunity to correct, amend, or delete inaccurate information. If a client would like to access personal information maintained by the Moodlerooms, the client should send an email to: security@moodlerooms.com
+Users may opt out of receiving future promotional electronic mailings from Blackboard by following the unsubscribe procedures indicated in the mailing. Individual end users of Blackboard software should contact their educational institution or other organization hosting the software for questions about access to the personal information collected by that institution. Please contact us at the address below if you have other questions about the information you receive from us or the information that we collect from you.
 
-For security purposes, the individual may need to provide Moodlerooms with various pieces of personal information to process the request. Moodlerooms may limit or deny access to personal information where providing such access would be unreasonably burdensome or expensive under the circumstances or as otherwise permitted by the Safe Harbor Principles.
+##  5\. Access to your information 
 
-6\. DATA INTEGRITY
+Blackboard offers users the ability to correct or change the information collected during registration. Users may change this information at any time and as often as necessary by choosing the "edit personal information" option or other similar functionality offered in the Services. To access or change your personal information, log in to your account through the Services. For data not available through such an account, please contact us at the address listed below.
 
-Moodlerooms will take reasonable measures to ensure that personal information is relevant for its intended use, reliable for its intended use, accurate, complete, and current.
+##  6\. Security 
 
-Some of our services have different procedures to access, correct or delete client personal information. We provide the details for these procedures in the specific privacy notices or FAQs for these services.
+Blackboard maintains reasonable administrative, technical and physical procedures to protect information stored in our servers, which are located in the United States and in other jurisdictions in which Blackboard, its subsidiaries and affiliates maintain facilities. Security safeguards may include but are not limited to data encryption, firewalls, data use and access limitations, and physical access controls to buildings. If you have questions about such security, please contact us at the address listed below.
 
-7\. ENFORCEMENT  
-Moodlerooms, Inc., Safe Harbor Compliance Committee, is responsible for verifying that our Privacy Policy is accurate, comprehensive, prominently displayed, completely implemented, accessible, and in compliance with the Safe Harbor Principles. The committee is also responsible for employee training related to the Privacy Policy and periodic review to make sure the proper procedures and protections are in place.
+##  7\. Student data collected during the course of providing services to educational institutions 
 
-Any questions or complaints regarding Moodlerooms, Inc., handling of personal information can be addressed by sending an email to: privacy@moodlerooms.com.
+Blackboard provides Services to schools and other educational institutions to improve student learning outcomes. Through the provision of these Services, Blackboard collects personally identifiable information from or about students (“Student Data”). We consider such Student Data to be strictly confidential and in general do not use such data for any purpose other than improving and providing our Services to the school or on the school’s behalf. Our collection, use and sharing of Student Data is governed by our contracts with the educational institutions, in the U.S. by the provisions of the Family Educational Rights and Privacy Act (FERPA) and applicable state laws, and by other state, federal, and international laws as applicable, but not by the provisions contained in this Privacy Policy. If you have any questions about reviewing, modifying, or deleting personal information of a student, please contact your educational institution directly.
 
-Any complaints or disputes that are not satisfactorily resolved by the Safe Harbor Compliance Committee can be referred to the European Data Protection Authorities (DPAs) for investigation and resolution. If you do not receive timely acknowledgement of your complaint, or your complaint is not satisfactorily addressed by Moodlerooms, you may contact either the panel at ec-dppanel-secr@ec.europa.eu or individual EU DPAs (see http://ec.europa.eu/justice/data-protection/bodies/authorities/eu/index_en.htm).
+##  8\. Children’s privacy 
 
-Moodlerooms, reserves the right to update and revise this Privacy Policy at any time consistent with the Safe Harbor Principles. You can determine if this Privacy Policy has been revised since your last visit by referring to the “Effective Date of Current Policy” date at the top of this page. Your use of our Site constitutes your acceptance of the terms of the Privacy Policy as amended or revised by us, and you should therefore review this Privacy Policy regularly to ensure that you are aware of its terms.
+Blackboard does not knowingly collect any information from children under the age of 13 unless and until a school or educational institution has provided appropriate consent and authorization for a student under 13 to use the Services and for Blackboard to collect information from such student. Please contact us at **[privacy@blackboard.com](mailto:privacy@blackboard.com)** if you believe we have inadvertently collected personal information from a child under 13 without proper consents so that we may delete such information as soon as possible.
 
-V. COOKIES AND PRIVACY INFORMATION FOR JOULE AND POWER  
-1\. ABOUT COOKIES  
-A cookie is a file issued from a website, Internet based application or Internet delivered content to a end user’s connected device (e.g. web browser, smartphone, etc). Cookies may be used to uniquely identify a user and they may be used to track individual preferences and other information about a web user. Moodlerooms products use this technology to provide secure learning experiences, track usage and manage application performance. Third party content may be embedded on pages within Moodlerooms products and may include cookies from the content issuer. See third party cookies (below) for more details. A visitor connecting to the website that hosts this product will be issued cookies that are strictly necessary for security and application performance.
+##  9\. European Union data protection 
 
-2\. FIRST PARTY COOKIES AND RELATED TECHNOLOGIES  
-Cookie: Moodle Login  
-Cookie Name: MoodleSession, MoodleSessionTest, MoodleID
+Blackboard complies with the U.S.-EU Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. For more information regarding Blackboard’s compliance with the U.S.-EU Privacy Shield Principles, please see our [**Privacy Shield Privacy Statement**](https://web.archive.org/footer/blackboard-privacy-shield.html). 
 
-Purpose: “MoodleSession” is used to store the user’s session id. “MoodleID” is used for prepopulating the username in the login field.  
-“MoodleSessionTest” is used to test whether cookies are working properly for the page, and does not contain any data.
+If you have any questions regarding this policy, please contact: 
 
-Cookie: Alfresco  
-Cookie Name: JSESSIONID  
-Purpose: Stores the ID of the Alfresco session. Required for Single Sign-On into Alfresco.  
-Cookie: PLD  
-Cookie Name: pld  
-Purpose: Used for storing the activity filter between page loads.
+General Counsel   
+Blackboard Inc.   
+1111 19th Street, N.W.   
+Washington, DC 20006   
+Phone: 202-303-9372   
+**[GeneralCounsel@blackboard.com](mailto:GeneralCounsel@blackboard.com)**
 
-Cookie: SCORM  
-Cookie Name: SCORMLoggingActive hide:SCORMitem  
-Purpose: “SCORMLoggingActive” is used to toggle whether the user has enabled debugging for SCORM. “hide:SCORMitem” is used to store state information between page loads when an item has been toggled as hidden.
+##  10\. Blackboard privacy policy statement changes 
 
-Cookie: Wiki  
-Cookie Name: EWIKI_UP_NOSPAMBOT  
-Purpose: Used to validate that the user is not a spam bot, and stores that information for subsequent posts.
+If Blackboard changes this privacy statement, we will post those changes **[here on our privacy policy](https://web.archive.org/footer/privacy-policy.html)** , so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. By using the Services, you signify your assent to the Blackboard Privacy Policy. If you do not agree to this policy, please do not use the Services. Your continued use of the Services following the posting of changes to these terms will mean you accept those changes. 
 
-3.THIRD PARTY COOKIES
+Notwithstanding the foregoing, however, with respect to Student Data, as discussed in Section 7, above, our data privacy practices are governed by our agreements with educational institutions and applicable law. Accordingly, any changes in our data handling practices involving Student Data would have to be in accordance with our agreements with educational institutions and applicable law.
 
-Content, Blocks, Modules, Filters and other Tools used in conjunction with Moodlerooms products may install additional cookies on your computer. We have collected and noted items below for disclosure. These cookies are subject to privacy policies of the issuing site or service and not controlled by Moodlerooms or the institution operating Moodlerooms software.
+##  11\. Contact Blackboard 
 
-Organizations using Moodlerooms products should examine the content provided and determine if this material is consistent with their privacy policies. If you do not agree with the use of cookies in the following manner, as well as outlined by the applicable organization which controls the cookie, do not use the applicable product.
+If you have any questions about this privacy policy, the information that we collect from you, or the Services, please contact us at **[privacy@blackboard.com](mailto:privacy@blackboard.com)** or write to: 
 
-Item: MS Live @ EDU  
-Cookies: wls_AccessToken, wls_liveId, wls_AccessToken, wls_consentToken_cid, wls_RefreshToken, c_scope, c_error, c_error_description, c_accessToken, c_expiry, c_code, c_refreshToken, c_clientId, lca  
-Moodlerooms Data Sharing: Description and Purpose: These cookies are essential to use in the operation of the MS Live @ EDU integration.  
-Third Party and Privacy Policy: Contact Microsoft
+Legal Department   
+Blackboard Inc.   
+1111 19th Street, N.W.   
+Washington, D.C 20006 
 
-Item: Mahara  
-Cookies: mahara, viewaccess:X, mviewaccess:X, caccess:X  
-Moodlerooms Data Sharing: Description and Purpose: The “mahara” cookie is used to store the user’s session id. The “access” cookies are used to pass the selected artifact between page loads.
+In the event that you are concerned about how data you have provided Blackboard through the Services has been used, please contact us at one of the addresses listed above. Blackboard takes all concerns about privacy and use of data very seriously, and shall endeavor to reply to you within two business days to commence its investigation of your concerns. 
 
-Item: OU Blog  
-Cookies: OUBLOG_CONFIRMED_COOKIE  
-Moodlerooms Data Sharing: Description and Purpose: Used to validate that the user is not a spam bot, and stores that information for subsequent posts.
-
-Item: Turnitin Direct  
-Cookies: turnitintool_choice_user, turnitintool_choice_count  
-Moodlerooms Data Sharing: Description and Purpose: Tracks the number of submissions per user.
-
-4.STORAGE OF USER PREFERENCES AND PERSONAL INFORMATION  
-Users Preferences and Personal Information Stored Locally on your Computer or Terminal Device  
-This application stores user preferences and/or personal information on the terminal device or computer that accesses this product.
-
-Item: Session & Login Information  
-Description: This application stores your user session locally in a browser cookie (noted above). This cookie persists until you log out of the Moodlerooms application.
-
-Potential for Disclosure to other Users: If you fail to log out of the Moodlerooms application and leave the terminal device without closing the entire browser application, this information could be used by other users of the same terminal device or computer.
-
-Removal: Log out of the Moodlerooms Application.  
-Users Preferences and Personal Information Stored on the Remote Server Supporting this Application
-
-Item: User Directory Information  
-Options: System Administrators may disable the user directory tool. End Users may modify the information disclosed from within the options under “Personal Information”
-
-Item: Course Roster  
-Options: System administrators and instructors may disable the course roster tool from individual courses or the entire application.
-
-Item: Grades  
-Item: Password  
-Item: User Session  
-Item: User Contributed Materials  
-Description: Tests, Discussion Board Postings, Assignments, and other materials uploaded to the software  
-Potential for Disclosure: Information may be shared with instructors, other course members and guests to the course consistent with the individual configuration settings of the course and instructor.
-
-Requesting Removal of Private Information
-
-To remove stored materials from this service contact your local institution.
-
-Tracking Activities and Usage
-
-This software monitors your usage as your interact with it. This information is collected and shared consistent with the privacy policies noted above. The laws governing such a disclosure vary, depending on where the server is stored and the application is being used. You are advised to consult counsel of our choice regarding applicable laws and regulations. Moodlerooms may attempt to limit the disclosure of this information consistent with Moodlerooms’ legal advice and our privacy policies.
+This policy was updated on June 23, 2017.
