@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mosaicglobe.com privacy policy that was archived on 2017-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171015223728id_/http%3A//www.mosaicglobe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mosaicglobe.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517231822id_/http%3A//www.mosaicglobe.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mosaic Globe
 
