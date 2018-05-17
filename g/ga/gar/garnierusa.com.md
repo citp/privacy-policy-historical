@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the garnierusa.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606154735id_/http%3A//www.garnierusa.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garnierusa.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517131151id_/http%3A//www.garnierusa.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy & Cookie Notice - United States - Garnier
 
-Thank you for visiting the Garnier USA site, which is part of the L’Oréal USA, Inc. family of brand sites (“L’Oréal USA”). We have created this policy to provide you with information about how we collect, use, share and protect information from our sites, mobile applications and social media pages (collectively called the “Sites”), when you shop in our stores and the purchases you make, or when you otherwise interact with us. This notice applies to consumers and visitors of our Sites in the United States only. Visitors from other countries should visit the L’Oréal/brand site for your part of the world. This policy does not apply to job applicants. If you submit a job application through the Sites, your personal information will be governed by a separate policy located on the L’Oreal Careers web site. 
+Thank you for visiting the Garnier USA site, which is part of the L’Oréal USA, Inc. family of brand sites (“L’Oréal USA”). We have created this policy to provide you with information about how we collect, use, share and protect information from our sites, mobile applications and social media pages (collectively called the “Sites”), when you shop in our stores and the purchases you make, or when you otherwise interact with us. This notice applies to consumers and visitors of our Sites in the United States only. Visitors from other countries should visit the L’Oréal/brand site for your part of the world. **This policy does not apply to job applicants.** If you submit a job application through the Sites, your personal information will be governed by a separate policy located on the L’Oreal Careers web site. 
 
 Your use of the Sites and your other interactions with us constitute your acceptance of this Privacy and Cookie Notice and consent to the practices described. 
 
@@ -44,7 +44,7 @@ You may also be able to register and log in using a social media account, includ
 
 **Mobile Services/Apps:** Certain of our mobile apps offer opt–in, geo–location services and push notifications. Geo-location services provide location–based content and services, such as store locators, local weather, promotional offers and other personalized content. Push notifications can include discounts, reminders or details about local events or promotions. Most mobile devices allow you to turn off location services or push notifications. If you consent to location services, we will collect information about the Wi–fi routers closest to you and the cell IDs of the towers closest to you to provide location–based content and services. 
 
-**Site Usage Information:** L’Oreal USA and its third–party service providers may also use a variety of technologies that passively or automatically collect information about how the Sites are accessed and used ("Usage Information"), including but not limited to your browser type, device type, operating system, application version, the pages served to you, the time you browse, preceding page views, and your use of features or applications on the Sites. 
+**Site Usage Information:** L’Oreal USA and its third–party service providers such as Google Analytics, may also use a variety of technologies that passively or automatically collect information about how the Sites are accessed and used ("Usage Information"), including but not limited to your browser type, device type, IP address, operating system, application version, the pages served to you, the time you browse, preceding page views, products you viewed or searched for, page interaction information (such as scrolling, and mouse-overs) and your use of features or applications on the Sites. 
 
 **Device Identifiers:** L’Oreal USA also automatically collects an IP address or other unique identifier information ("Device Identifier") for the computer, mobile device, technology or other device (collectively, "Device") you use to access the Sites or on third party websites that publish our advertising. A Device Identifier is a number that is automatically assigned to your Device when you access a web site or its servers, and our computers identify your Device by its Device Identifier. For mobile devices, a Device Identifier is a unique string of numbers and letters stored on your mobile device that identifies it. We may use a Device Identifier to, among other things, administer the Sites, help diagnose problems with our servers, analyze trends, track users’ web page movements, help identify you and your shopping cart, deliver advertising and gather broad demographic information. 
 
@@ -104,7 +104,7 @@ We will retain your Personal Information for as long as your account is active o
 
 **4\. ADVERTISING/TARGETED ADVERTISING; HOW TO OPT–OUT**
 
-L’Oreal USA licenses technology to serve advertisements on its own Sites and within its content as that content is served across the Internet. In addition, L’Oreal USA may use third parties to serve advertisements on the Sites and around the web, measure the performance of the Sites and the viewing of our content, and provide analytics services. These ad network providers, advertisers, sponsors, and/or analytics service providers may set and access their own cookies, pixel tags and similar technologies on your Device and they may otherwise collect or have access to information about you, including Usage Information. We and our network advertisers may target advertisements for products and services in which you might be interested based on your visits to both the Sites and other web sites or based on location data , from your Device. We may use a variety of companies to serve advertisements. 
+L’Oreal USA licenses technology to serve advertisements on its own Sites and within its content as that content is served across the Internet. In addition, L’Oreal USA may use third parties to serve advertisements on the Sites and around the web, measure the performance of the Sites and the viewing of our content, and provide analytics services. These ad network providers, advertisers, sponsors, and/or analytics service providers may set and access their own cookies, pixel tags and similar technologies on your Device and they may otherwise collect or have access to information about you, including Usage Information. We and our network advertisers may target advertisements for products and services in which you might be interested based on your visits to both the Sites and other web sites or based on location data, from your Device. We may use a variety of companies to serve advertisements. 
 
 If you prefer to not receive targeted advertising, you can opt out of certain network advertising programs through the [Network Advertising Initiative (NAI) Opt–Out Page](http://optout.networkadvertising.org/#/). Options are Device-specific, so if you use multiple Devices, you may need to opt out on each one. You can also opt out of certain targeted advertising programs by clicking on the **AdChoices** icon that may appear on some of our advertising. We may use more than one third party company for placing this advertising, which would require you to opt out of each company’s program. Please note that even if you opt out you will still see advertisements while you're browsing online. However the advertisements you see may be less relevant to you and your interests. Additionally, many network advertising programs allow you to view and manage the interest categories they have compiled from your online browsing activities. These interest categories help determine the types of targeted advertisements you may receive. The NAI Opt–Out Page provides a tool that identifies its member companies that have cookies on your browser and provides links to those companies. 
 
@@ -128,6 +128,8 @@ The Sites are not directed to children under 13. We do not knowingly collect, us
 
 If you believe that we might have any information from or about a child under age 13, please contact us through this [help page](http://www.garnierusa.com/contact-us.aspx). 
 
+**Parental Consent:** Minors between 13 years of age and the age of majority in their state must ask their parent or guardian for permission to use any L’Oréal USA properties. For L’Oréal USA brands offering e-commerce, you may only make purchases if you are 18 years of age or older, or the age of majority in your jurisdiction of residence. 
+
 **Parental participation.** We strongly recommend that minors 13 years of age or older ask their parents for permission before sending any information about themselves to anyone over the Internet and we encourage parents to teach their children about safe internet use practices. 
 
 **8\. SECURITY OF YOUR INFORMATION**
@@ -146,7 +148,7 @@ The Sites are governed by and operated in, and in accordance with the laws of, t
 
 _Please note, we may change information on the Sites and/or this Privacy and Cookie Notice, at any time without prior notice to you, and any changes will be effective immediately upon the posting of the revised Privacy and Cookie Notice on the Sites. L’Oreal will use your Personal Information in a manner consistent with the Privacy and Cookie Notice in effect at the time you submitted the information, unless you consent to the new or revised policy. We encourage you to periodically review this page for the latest information on our privacy practices._
 
- **12\. CONTACT US**
+ **13\. CONTACT US**
 
 If you have any questions or concerns regarding this Privacy and Cookie Notice, please contact us at:
 
@@ -162,7 +164,7 @@ Telephone: 800-442-7643
 
 Or send us an e-mail with your request [here](https://web.archive.org/Contact-Us.aspx). 
 
-UPDATED: May 2017
+UPDATED: April 2018
 
   
 
