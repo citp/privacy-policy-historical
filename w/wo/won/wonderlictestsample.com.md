@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wonderlictestsample.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219222457id_/http%3A//wonderlictestsample.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wonderlictestsample.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517072957id_/http%3A//wonderlictestsample.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Wonderlic Test Sample
+# Privacy Policy – Take A Free Sample Wonderlic Test (50 or 25 Questions)
 
 Wonderlic Test Sample (“us”, “we”, or “our”) operates the http://wonderlictestsample.com/ website (the “Service”).
 
@@ -8,7 +8,7 @@ This page informs you of our policies regarding the collection, use and disclosu
 
 We will not use or share your information with anyone except as described in this Privacy Policy.
 
-We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://wonderlictestsample.com/
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://wonderlictestsample.com/privacy-policy/
 
 #### Information Collection And Use
 
@@ -34,11 +34,6 @@ If you do not accept cookies, you may not be able to use some features of our Se
 Google, as a third party vendor, uses cookies to serve ads on our Service. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other web sites on the Internet.
 
 You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page.
-
-#### Do Not Track Disclosure
-
-We support Do Not Track (“DNT”). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.  
-You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
 
 #### Service Providers
 
