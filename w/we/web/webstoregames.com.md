@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webstoregames.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116121041id_/http%3A//webfungames.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webstoregames.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517094432id_/http%3A//webfungames.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
