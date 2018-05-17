@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rimfirecentral.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114114519id_/http%3A//www.rimfirecentral.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rimfirecentral.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517022424id_/http%3A//www.rimfirecentral.com/privacy.html) for the most accurate reproduction.*
 
 # Rimfire Central Privacy Policy
 
