@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alz.org privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231195304id_/http%3A//www.alz.org/about_this_site.asp%23Security_and_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alz.org privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517051659id_/https%3A//www.alz.org/about_this_site.asp%23Security_and_privacy_policy) for the most accurate reproduction.*
 
 # About This Site Content | Alzheimer's Association
 
@@ -152,4 +152,4 @@ This Privacy Policy is effective July 25, 2016.  
 
 
 
-Last Updated: 01/31/2020 12:57:40 
+Last Updated: 01/31/2020 12:57:41 
