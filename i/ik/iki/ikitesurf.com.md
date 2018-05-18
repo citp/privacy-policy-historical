@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ikitesurf.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119001115id_/http%3A//help.weatherflow.com/entries/22801087-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ikitesurf.com privacy policy that was archived on 2018-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180518193109id_/http%3A//help.weatherflow.com/entries/22801087-Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy – WeatherFlow Support
 
@@ -23,5 +23,3 @@ All personal data transmitted through the internet going to and from site regist
 
 **Email Policy  
 **Our email policy is very simple: We will NOT send email to anyone who has not opted to receive the email.
-
-Have more questions? [Submit a request](https://web.archive.org/hc/en-us/requests/new)
