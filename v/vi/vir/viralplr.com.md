@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralplr.com privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922142156id_/https%3A//viralplr.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralplr.com privacy policy that was archived on 2018-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180518121754id_/http%3A//viralplr.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
@@ -46,7 +46,7 @@ While we take care that the personal information you give us on our websites is 
 
 **Private Information Security**
 
-Add2it.com Marketing Pty Ltd takes all reasonable security measures to protect personal information from loss, unauthorised access, destruction, misuse, modification or disclosure. For your safety and protection, your credit card information is not stored on our servers.  Our payment gateway provider, PayPal and PayZa, keep this information encrypted and secure on your behalf. We do not, however, accept any responsibility for the unauthorised access of personal information held by Add2it.com Marketing Pty Ltd. You may be able to access external websites by clicking on links we have provided. Those other websites are not subject to the privacy standards of Add2it.com Marketing Pty Ltd and we are not responsible for their privacy practices or the content of such other websites. You should contact those websites directly to ascertain their privacy standards, policies and procedures.
+Add2it.com Marketing Pty Ltd takes all reasonable security measures to protect personal information from loss, unauthorised access, destruction, misuse, modification or disclosure. For your safety and protection, your credit card information is not stored on our servers.  Our payment gateway provider, PayPal, keep this information encrypted and secure on your behalf. We do not, however, accept any responsibility for the unauthorised access of personal information held by Add2it.com Marketing Pty Ltd. You may be able to access external websites by clicking on links we have provided. Those other websites are not subject to the privacy standards of Add2it.com Marketing Pty Ltd and we are not responsible for their privacy practices or the content of such other websites. You should contact those websites directly to ascertain their privacy standards, policies and procedures.
 
 **3rd Party Disclosure**
 
