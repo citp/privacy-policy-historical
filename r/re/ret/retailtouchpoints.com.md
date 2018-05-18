@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retailtouchpoints.com privacy policy that was archived on 2017-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170730071955id_/http%3A//www.retailtouchpoints.com/general/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retailtouchpoints.com privacy policy that was archived on 2018-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180518140550id_/http%3A//www.retailtouchpoints.com/general/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Retail TouchPoints
 
@@ -54,4 +54,4 @@ Hasbrouck Heights, NJ 07604
 **Email:**  
 info [at] retailtouchpoints.com
 
-[ back to top ](http://www.retailtouchpoints.com/general/pages/privacy-policy#)
+[ back to top ](https://www.retailtouchpoints.com/general/pages/privacy-policy#)
