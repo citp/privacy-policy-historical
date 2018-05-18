@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vocabulary.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220183749id_/https%3A//www.vocabulary.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vocabulary.com privacy policy that was archived on 2018-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180518192340id_/https%3A//www.vocabulary.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Vocabulary.com
 
@@ -143,7 +143,7 @@ Data security is important to us.
 
 ### We try to ensure that Vocabulary.com and the information sent to us are safe, but no security measures are perfect.
 
-Vocabulary.com uses certain physical, managerial, and technical safeguards designed to preserve the integrity and security of your Personal Information and other information we maintain in connection with Vocabulary.com. We cannot, however, ensure or warrant the security of any or all of the information you transmit to us, and you do so at your own risk. Once we receive your transmission of information, we makes commercially reasonable efforts to ensure the security of our systems. We encrypt the transmission of all data using secure socket layer technology (SSL) or similar technologies. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+Vocabulary.com uses certain physical, managerial, and technical safeguards designed to preserve the integrity and security of your Personal Information and other information we maintain in connection with Vocabulary.com. For example, all data is secured and protected at all times, stored on servers located in the US, and only employees with a business need to access this Personal Information are able to do so. We cannot, however, ensure or warrant the security of any or all of the information you transmit to us, and you do so at your own risk. Once we receive your transmission of information, we makes commercially reasonable efforts to ensure the security of our systems. We encrypt the transmission of all data using secure socket layer technology (SSL) or similar technologies. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
 ## We will notify you electronically or via the website if Vocabulary.com experiences a data security incident that could affect you.
 
@@ -153,9 +153,11 @@ If we learn of a data security incident that compromises or appears to compromis
 
 Unless we receive a deletion request from you or your parent or are contractually required to delete your account due to our business relationship with your school or district, we will retain your information for as long as your account is active or as is reasonably useful for operational or educational purposes.
 
-If you are a School or District that has a paid account with Vocabulary.com, and you’d like to request that we delete student information that you have provided us, please contact [our support team](https://web.archive.org/help/contactus). 
+If you are a School or District that has a paid account with Vocabulary.com, and you’d like to request that we delete student information that you have provided us, please [contact our support team](https://web.archive.org/help/contactus). 
 
-If you have an account provided by a School or District, and would like to transfer the information to a personal account, please contact [our support team](https://web.archive.org/help/contactus). 
+If you are a parent, eligible customer, or school official, and Personal Information is incorrect and you’d like to have it amended, please [contact our support team](https://web.archive.org/help/contactus). 
+
+If you have an account provided by a School or District, and would like to transfer the information to a personal account, please [contact our support team](https://web.archive.org/help/contactus). 
 
 ## Technical Information
 
