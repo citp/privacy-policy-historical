@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the fxhome.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115125124id_/http%3A//fxhome.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxhome.com privacy policy that was archived on 2018-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180518201837id_/http%3A//fxhome.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - FXHOME.com
+# Privacy Policy - fxhome.com
 
-**FXHOME Limited** of Suites 4 and 5 St Giles House, 27 St Giles Street, Norwich NR2 1JN ("We") are committed to protecting and respecting your privacy.
+**FXhome Limited** of Suites 4 and 5 St Giles House, 27 St Giles Street, Norwich NR2 1JN ("We") are committed to protecting and respecting your privacy.
 
 This policy (together with our terms of use [fxhome.com/terms](https://fxhome.com/terms) and [hitfilm.com/terms](https://hitfilm.com/terms) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
 
 Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting [fxhome.com](http://fxhome.com/) and [hitfilm.com](http://hitfilm.com/) you are accepting and consenting to the practices described in this policy.
 
-For the purpose of the Data Protection Act 1998 (the **"Act"** ), the data controller is FXHOME Limited.
+For the purpose of the Data Protection Act 1998 (the **"Act"** ), the data controller is FXhome Limited.
 
 #### Information we may collect from you
 
@@ -52,9 +52,9 @@ We may disclose your personal information to third parties:
 
 In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
 
-If FXHOME Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+If FXhome Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
 
-If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use or terms and conditions of supply and other agreements; or to protect the rights, property, or safety of FXHOME Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use or terms and conditions of supply and other agreements; or to protect the rights, property, or safety of FXhome Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 #### Where we store your personal data
 
