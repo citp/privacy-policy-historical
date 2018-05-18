@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the all-bodybuilding.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214071001id_/http%3A//www.all-bodybuilding.com/p/privacy-policy-privacy-policy-personal.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all-bodybuilding.com privacy policy that was archived on 2018-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180518234310id_/http%3A//www.all-bodybuilding.com/p/privacy-policy-privacy-policy-personal.html) for the most accurate reproduction.*
 
 # Privacy Policy - all-bodybuilding.com
 
