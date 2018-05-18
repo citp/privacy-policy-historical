@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the top1porn.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201084631id_/http%3A//top1porn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top1porn.com privacy policy that was archived on 2018-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180518223919id_/http%3A//top1porn.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Download porn movies
+# Privacy Policy | Top1porn.com
 
 top1porn.com is committed to user privacy and/or our policy below and describes our principles in maintaining user trust and confidence and protecting your private data.
 
