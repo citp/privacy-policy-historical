@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psiphon3.com privacy policy that was archived on 2016-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160811130236id_/https%3A//www.psiphon3.com/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psiphon3.com privacy policy that was archived on 2018-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180518172700id_/https%3A//www.psiphon3.com/en/privacy.html) for the most accurate reproduction.*
 
 # Psiphon | Privacy Policy
 
@@ -15,7 +15,7 @@ Psiphon is designed to provide you with open access to online content. Psiphon d
 
 ## What user information does Psiphon collect?
 
-From time to time Psiphon may have to record additional information in order to resolve a problem with our service. When this occurs, we will add an entry to the [Privacy Bulletin](https://web.archive.org/web/20160811130236id_/https%3A//www.psiphon3.com/en/privacy-bulletin.html) describing what was recorded, how long it was kept, and why. 
+From time to time Psiphon may have to record additional information in order to resolve a problem with our service. When this occurs, we will add an entry to the [Privacy Bulletin](https://web.archive.org/web/20180518172700id_/https%3A//www.psiphon3.com/en/privacy-bulletin.html) describing what was recorded, how long it was kept, and why. 
 
 ### Psiphon Client Software
 
@@ -37,7 +37,7 @@ You can opt out of the use of cookies for interest-based advertising by visiting
 
 
 
-### Websites
+### Psiphon Websites
 
 #### Google Analytics
 
@@ -62,9 +62,7 @@ We collect the following data to find out how well Psiphon is working, what site
   * How often each protocol is used, and error codes after failure
   * How often new servers are discovered
   * Session count and session duration
-  * Page views (full page URLs for sponsor web sites)
-  * Bytes transferred
-  * Number of HTTPS requests
+  * Total bytes transferred and bytes transferred for some specific domains
   * Client platform (simplified operating system list; e.g, not a detailed browser user agent)
 
 
@@ -74,6 +72,39 @@ User IP addresses are not collected by Psiphon servers in the normal course of o
 Event logs include timestamps, region codes (country and city), and non-identifying attributes including sponsor ID (determined by which Psiphon client build is used), client version, and protocol type. Page views are aggregated by time and/or session before being logged. 
 
 All statistics shared with sponsors are further aggregated by date, sponsor, and region. 
+
+### User VPN Data
+
+#### Why should you care?
+
+When using a VPN or proxy you should be concerned about what the provider can see in your data, collect from it, and do to it. For some web and email connections, it is theoretically possible for a VPN to see, collect, and modify the contents. 
+
+#### What does Psiphon do with your VPN data?
+
+Psiphon looks at your data only to the degree necessary to collect statistics about the usage of our system. We record the total bytes transferred for a user connection, as well as the bytes transferred for some specific domains. These statistics are discarded after 60 days. 
+
+Psiphon does not inspect or record full URLs (only domain names), and does not further inspect your data. Psiphon does not modify your data as it passes through the VPN. 
+
+Even this coarse data would be difficult to link back to you, since we immediately convert your IP address to geographical info and then discard the IP. Nor is any other identifying information stored. 
+
+#### Why does Psiphon need these statistics?
+
+This data is used by us to determine how our network is being used. This allows us to do things like: 
+
+  * Estimate future costs: The huge amount of user data we transfer each month is a major factor in our costs. It is vital for us to see and understand usage fluctuations.
+  * Optimize for traffic types: Video streaming has different network requirements than web browsing does, which is different than chat, which is different than voice, and so on. Statistics about the number of bytes transferred for some major media providers helps us to understand how to provide the best experience to our users.
+  * Determine the nature of major censorship events: Sites and services often get blocked suddenly and without warning, which can lead to huge variations in regional usage of Psiphon. For example, we had up to 20x surges in usage within a day when [Brazil blocked WhatsApp](https://blog-en.psiphon.ca/2016/07/psiphon-usage-surges-as-brazil-blocks.html) or [Turkey blocked social media](https://blog-en.psiphon.ca/2016/11/social-media-and-internet-ban-in-turkey.html).
+  * Understand who we need to help: Some sites and services will never get blocked anywhere, some will always be blocked in certain countries, and some will occasionally be blocked in some countries. To make sure that our users are able to communicate and learn freely, we need to understand these patterns, see who is affected, and work with partners to make sure their services work best with Psiphon.
+
+
+
+#### Who does Psiphon share these statistics with?
+
+When sharing with third parties, Psiphon only ever provides coarse, aggregate domain-bytes statistics. We never share per-session information or any other possibly-identifying information. 
+
+This sharing is typically done with services or organizations we collaborate with — as [we did with DW](http://www.dw.com/en/psiphon-helps-dodge-the-online-trackers/a-16765092) a few years ago. These statistics help us and them answer questions like, “how many bytes were transferred through Psiphon for DW.com to all users in Iran in April?” 
+
+Again, we specifically do not give detailed or potentially user-identifying information to partners or any other third parties. 
 
 ### Feedback
 
