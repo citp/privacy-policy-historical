@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smsindiahub.in privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117192042id_/http%3A//www.smsindiahub.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smsindiahub.in privacy policy that was archived on 2018-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180518235303id_/https%3A//www.smsindiahub.in/privacy-policy) for the most accurate reproduction.*
 
 # Smsindiahub Bulk SMS Privecy Policy | SMSIndiaHUB
 
@@ -10,5 +10,8 @@
 
 
 Our Privacy Policy may change from time to time without any prior update, so we request you to check the same regularly.
+
+  
+
 
 ### Some of Our SMS Services Top Clients ;
