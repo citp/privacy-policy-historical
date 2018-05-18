@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the togoparts.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117052451id_/http%3A//www.togoparts.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the togoparts.com privacy policy that was archived on 2018-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180518191643id_/http%3A//www.togoparts.com/pages/privacy.php) for the most accurate reproduction.*
 
 # Privacy | Online Bike Shop | Togoparts
 
@@ -18,7 +18,7 @@ Togoparts.com will not send you any unsolicited information, including e-mail, e
 
 ## Principle 4.
 
-If at any time you believe that togoparts.com has not adhered to these principles, please notify us by e-mail at [feedback@togoparts.com](https://web.archive.org/web/20171117052451id_/http%3A//www.togoparts.com/pages/feedback@togoparts.com). If you have questions about this policy, please e-mail us at [feedback@togoparts.com](https://web.archive.org/web/20171117052451id_/http%3A//www.togoparts.com/pages/feedback@togoparts.com)
+If at any time you believe that togoparts.com has not adhered to these principles, please notify us by e-mail at [feedback@togoparts.com](https://web.archive.org/web/20180518191643id_/http%3A//www.togoparts.com/pages/feedback@togoparts.com). If you have questions about this policy, please e-mail us at [feedback@togoparts.com](https://web.archive.org/web/20180518191643id_/http%3A//www.togoparts.com/pages/feedback@togoparts.com)
 
 ## What about Cookies?
 
