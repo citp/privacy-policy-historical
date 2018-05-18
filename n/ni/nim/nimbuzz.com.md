@@ -1,175 +1,147 @@
-> *The following text is extracted and transformed from the nimbuzz.com privacy policy that was archived on 2008-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080918001240id_/http%3A//www.nimbuzz.com/en/legal/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nimbuzz.com privacy policy that was archived on 2018-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180518034213id_/http%3A//www.nimbuzz.com/us/spages/privacy-policy-5) for the most accurate reproduction.*
 
-# Nimbuzz - Instant messaging and VoIP for you Mobile
+# Nimbuzz Social (Breaking News, Latest News, Regional News, World News)-English--United States
 
-Your privacy is important to Nimbuzz. Therefore, Nimbuzz is committed to respecting your privacy and the confidentiality of your personal data, traffic data and communications content.  
+MSM’s “Nimbuzz” Privacy Statement
 
+MSM for provision of “Nimbuzz Services” is committed to respecting your privacy and the confidentiality of your personal information, communications data and communications content and this Privacy Statement sets out what data MSM Limited collects and how we use and protect it. The trade name “Nimbuzz” and all Nimbuzz Platforms and Services are owned by MSM Limited, a company registered in the Republic of Mauritius, with its registered office C/o. Safyr Utilis Ltd, 7th Floor, Tower 1, NeXTeracom cybercity, Ebene Republic of Mauritius and with its Corporate Office at Floor 146, Burj Khalifa, Downtown Dubai, Dubai, U.A.E., (“MSM Limited”) and is responsible for the data processing.
 
-Nimbuzz is incorporated under the laws of the Netherlands, having its registered office at Rivium Boulevard 301, 2909 LK Capelle aan de Ijssel is collecting and processing your personal information under this Privacy Statement.
+IF YOU ARE UNDER 16 YEARS OLD YOU SHOULD DISCUSS THIS PRIVACY STATEMENT WITH A PARENT OR LEGAL GUARDIAN, AND ENSURE THAT THEY AGREE WITH NIMBUZZ’S USE OF YOUR INFORMATION.
 
-This Privacy Statement is designed to assist you in understanding how Nimbuzz uses and safeguards the information you provide in using Nimbuzz's software, Nimbuzz's websites and/or Nimbuzz's products.
+This Statement also forms a part of the Agreement between you and MSM Limited for the use of MSM Limited’s Nimbuzz Services and Nimbuzz Website, as explained in the Terms of use. Capitalised terms used in this Privacy Statement are defined in the Terms of Use. By using the Nimbuzz Services or the Website you consent to our using your data as explained in this Statement.
 
-What is Nimbuzz and what products does it offer?
+We may amend this Privacy Statement by posting a new version on the Website and/or notifying you in some other way as set out below.
 
-What information does Nimbuzz collect?
+**1\. What types of personal information does MSM Limited collect?**
 
-How does Nimbuzz use this information and for what purpose?
+You provide certain Personally Identifiable Information, such as your mobile phone number, name and mobile device information to Nimbuzz Messenger when choosing to participate in the use of the Nimbuzz Messenger application, such as registering as a user, messaging other Nimbuzz users, posting status updates, uploading images. SMS permission is needed to verify the user phone number. In order to provide the Nimbuzz Messenger service, Nimbuzz shall periodically access Your address book or contact list on Your mobile phone to locate the mobile phone numbers of other Nimbuzz Messenger users.
 
-To whom does Nimbuzz transfer your personal information?
+Nimbuzz may use need Camera permission to take the photo from your phone. Microphone permission will be needed if user using the related feature in the application.
 
-What are cookies and how does Nimbuzz use them?
+In connection with the provision of the Nimbuzz Services (including the Nimbuzz Paid Services) and for operational reasons, MSM Limited may gather and process certain information about you, including the following types of information:  
+ 
 
-Information outside Nimbuzz's control
+●      Your personal data such as and including contact and registration details (name, User ID, address, telephone, mobile, email address etc.) and profile data (age, sex, pastimes, etc.);
 
-How does Nimbuzz protect your personal information?
+●      Status updates or public data you post within the Nimbuzz Services;
 
-Personal Data of Friends
+●      Payment data including your credit or debit card billing address etc.,
 
-Contacting You
+●      Your phonebook, names and addresses, lists of contacts;
 
-Can this Privacy Statement be modified?
+●      Login data including for Third Party Services accessible through MSM Limited’s Nimbuzz Services;
 
-What rights do you have and how can you contact Nimbuzz?
+●      Network and technical data (IP addresses, network operator, Device ID data, Device operating system, cookies, etc.);
 
-How long is your personal data kept by Nimbuzz?
+●      Data in relation to use of Nimbuzz games or programs;
 
-  
+●      Anonymous data on the approximate location of your device (e.g., from the cell ID data of your mobile network or GPS services);
 
+●      Communications contents (e.g., calls, chats, IMs, files share)
 
-### 1\. WHAT IS NIMBUZZ AND WHAT PRODUCTS DOES IT OFFER?
+●      Communications data (e.g., the duration of the call, the number calling, the number called, etc.); and
 
-Through its websites, Nimbuzz offers Nimbuzz software and offers other Nimbuzz products (e.g. Nimbuzz Mobile, Nimbuzz PC, Nimbuzz Widgets, etc.) which may be extended or changed from time to time.
+●      Questionnaires or survey results if any; and information regarding use of the Nimbuzz Services.
 
-  
+●      We are not connected to any personally-identifiable information or associated with any persistent device identifier (For example: SSAID, MAC address, IMEI, etc.) without the explicit consent of the user.
 
+●      We do not promote nor support any third party client or partner to capture  SSAID, MAC address, IMEI. If found, we will block all the access and discontinue the partnership with immediate effect. 
 
-### 2\. WHAT INFORMATION DOES NIMBUZZ COLLECT?
+**2\. Why and how does Nimbuzz use your personal information?**
 
-Nimbuzz may gather and process information about you, including (but not limited to) information in the following categories:  
-(a) Identification data (name, address, telephone, email address etc.);  
-(b) Profile information (e.g. age, sex, country of residence etc.) (THIS DOES NOT INCLUDE YOUR USER PROFILE - please see article 6 of this Privacy Statement);  
-(c) Electronic identification data (addresses IP, cookies, etc.);  
-(e) Survey result and usage information;  
-(f) Products or services ordered and delivered;  
-(g) Video and sound recordings;  
-(h) List of your contacts;  
-(i) Traffic data (data processed for the purpose of the conveyance of communications or the billing thereof, including, but not limited to, the duration of the call, the number calling and the number called, etc.).  
+Our reasons for collecting information relating to you or your Device are to enable MSM Limited (or sometimes other data processors selected by MSM Limited) to provide the Nimbuzz Services through the Nimbuzz application or other applications provided by MSM Limited to you in an effective and satisfactory way, as follows:  
+ 
 
+●      Processing your log-ins, messages and calls and enabling the other features of the Nimbuzz Services;
 
-  
+●      Showing your profile information on the Nimbuzz Services: please note that your profile information is provided by you voluntarily and under your sole responsibility;
 
+●      Receiving payment from you for Nimbuzz Paid Services, and sending you a receipt or communications regarding your purchases or orders;
 
-### 3\. HOW DOES NIMBUZZ USE THIS INFORMATION AND FOR WHAT PURPOSE?
+●      Providing you with customer support, responding to questions and helping to resolve problems;
 
-Our primary purpose in collecting information is to provide you with a safe, smooth, efficient, and customized experience. Nimbuzz collects and processes, or has third party service providers acting on Nimbuzz's behalf collecting and processing, personal data relating to you, as permitted or necessary to:
+●      Informing you about service updates or problems;
 
-  * provide communication products, in particular to convey the communications you make by means of the Nimbuzz software and/or the Nimbuzz products; 
-  * take, process or deliver orders made via our websites, invoice you or notify you of the status of your order;
-  * provide other services for you (as described when we collect the information);
-  * register products that you have purchased with the manufacturer or service provider for warranty or technical support;
-  * provide you with customer support and troubleshoot problems;
-  * compare information for accuracy;
-  * inform you about service updates and faults;
-  * request feedback or participation in on-line surveys;
-  * resolve disputes;
-  * verify your identity;
-  * customize, measure, and improve Nimbuzz software, our products and websites content and layout;
-  * provide services with other Nimbuzz entities;
-  * organise and carry out Nimbuzz's marketing or promotional operations/offers, contests, games and similar events; and
-  * protect your and Nimbuzz's interests, including in particular to enforce our Terms of Service and fight against fraud, (together, the Purposes).
+●      Resolving disputes;
 
-  
+●      Verifying your identity;
 
+●      For legal reasons, e.g., checking that you comply with the Terms of Use and MSM Limited’s Nimbuzz policies, and preventing crime and fraud;
 
-### 4\. TO WHOM DOES NIMBUZZ TRANSFER YOUR PERSONAL INFORMATION?
+●      Customizing, understanding users’ use of, and improving the Nimbuzz Services and Nimbuzz Website (this includes customization of advertising based on your location, or features such as indicating when you were last online, notifying your contacts when you are playing a Nimbuzz game or permitting you to invite them to participate in Nimbuzz games); and
 
-Except as provided below, Nimbuzz shall not sell, rent, trade or otherwise transfer any personal and/or traffic data or communications content to any third party without your explicit permission, unless it is obliged to do so under applicable laws or by order of the competent authorities.
+●      Informing you of additional products, services and offers provided by MSM Limited.
 
-Nimbuzz may use your information for certain purposes, and in particular insofar as necessary to (1) provide joint services; (2) organise marketing or promotional operations, contests, games and similar events; and (3) fight against fraud.
+MSM Limited stores the personal information in different data files kept on servers based in the Netherlands and India. MSM Limited will take all reasonable measures to ensure security of the data, including where such servers may be operated by third party data processors under MSM Limited’s responsibility.
 
-In order to provide you with Nimbuzz products you have requested, Nimbuzz may sometimes, if necessary, share your personal and traffic data with carriers, partner service providers and/or agents, for example the PSTN-VoIP gateway provider, distributor of Nimbuzz software and/or Nimbuzz products and/or the third party banking organization or other providers of payment services. Nimbuzz will always require these third parties to take appropriate organizational and technical measures to protect your personal data and traffic data and to observe the relevant legislation. 
+If we provide a method for you to invite friends to join Nimbuzz Platforms, then their contact information will only be used for the purposes of automatically generating a message to these potential Nimbuzz’ Platform users. Nimbuzz Services also have a function that can check the names and phone numbers in your address book against the list of Nimbuzz Services users and informs you of existing contacts that are already registered for Nimbuzz Services and with whom you may want to connect. If you are already in the address book of other Nimbuzz Services users they may be informed that you are a “Nimbuzz” user you so that they can decide whether to connect with you.
 
-Please be informed that, notwithstanding the abovementioned, in the event of a designated authority lawfully requesting Nimbuzz or Nimbuzz's local partner to retain and provide personal data, communications content and/or traffic data, Nimbuzz and/or its local partner will provide all reasonable assistance and information to fulfil this request.
+If we process data regarding the location of your Device then (i) in case of services, such as allowing location requests from your Nimbuzz Platform contacts, you will be able to switch this functionality on or off at any time within the Nimbuzz Services, and (ii) where this is used in order to provide advertising appropriate to your locality then we may provide this to our third party advertising partners but never in a form that you will be able to be identified from this data; and your acceptance of this privacy statement constitutes consent for this processing.
 
-Your information may be stored and processed in any country in which Nimbuzz maintains facilities, including outside of the EU. In this regard, or for purposes of sharing or disclosing data in accordance with this article 4, Nimbuzz reserves the right to transfer information outside of your country. By using Nimbuzz software, Nimbuzz's websites or Nimbuzz products you consent to any such transfer of information outside of your country. As Nimbuzz continues to develop its business, Nimbuzz might sell or buy subsidiaries or business units. In such transactions as well as in the event Nimbuzz or substantially all of its assets are acquired by a third party, personal information of Nimbuzz users will generally be one of the transferred business assets. We reserve the right to include your personal information, collected as an asset, in any such transfer to a third party.
+**3\. Does MSM Limited transfer your personal information to anyone else?**
 
-  
+MSM Limited does not sell, rent, trade or otherwise transfer any personal information, log-in information, communications data or communications content on any Nimbuzz Platform to any third party without your express permission (unless it is obliged to do so under applicable laws or by order of the competent authorities) except as set out in this Statement.
 
+MSM Limited needs to provide certain information to third parties who assist it in providing elements of the “Nimbuzz Services”. So, for example, in order to enable you to access to voice calling services, MSM Limited may need to provide your mobile number to the provider of such calling services, or to collect payment from you for the Nimbuzz Paid Services, MSM Limited may need to provide such data to a payment processor. Under their contracts with MSM Limited they are required to store and process your information in accordance with similar standards of protection of your data as applied by MSM Limited.
 
-### 5\. WHAT ARE COOKIES AND HOW DOES NIMBUZZ USE THEM?
+If any authority lawfully requests MSM Limited or one of MSM Limited’s partners to retain and provide personal information, communications content and/or communications or technical data, or permit monitoring or interception, MSM Limited and/or its partner may comply with that request without being obliged to inform you.
 
-Cookies are pieces of information that the Nimbuzz software may store on your computer's hard drive in order to help web applications to recognize you or your or preferences. Nimbuzz's cookies may contain identifying information. Cookies enable Nimbuzz to gain information about the use of its websites. This information may be analyzed by third parties on our behalf.
+MSM Limited operates internationally and may transfer the data for processing in different countries, including by MSM Limited Group companies and affiliates outside of your home country.
 
-The Help option on the toolbar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Please bear in mind that some personalized services may not be available if you choose to disable cookies.
+**4\. What items are placed on your device when using the “Nimbuzz services” or website?**
 
-Third Party Cookies
+In order to use most of the Nimbuzz Services, you will need to install the relevant software on your Device. This software enables you to make and receive communications using your mobile network or the internet and sends the necessary communications data, and other data that you define (e.g., profile or status updates, community log-in data) between your Device and the network.
 
-The adverts appearing on our websites are delivered to you by our web advertising partners. Please be aware that these third parties may use cookies to obtain information about your visits to this site, such as number of times you have viewed an advert (but not your name, address, or other personal information), This information is used to serve adverts to you. 
+In addition, for web-based Nimbuzz Services, “cookies” may be used. Cookies are pieces of information stored on your Device in order to enable web-based applications to recognize who you are or your preferences (e.g., what language version of the Website you usually use) and provide MSM Limited with information about the use of its Websites).
 
-  
+Most internet browsers allow you to prevent your Device from accepting or using cookies or require your permission each time a cookie is received. Please note that some personalized Nimbuzz Services may not be available if you choose to disable cookies.
 
+Advertisements appearing on Nimbuzz Services or Websites may be provided by MSM Limited’s advertising partners who may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics. The information obtained in this way (e.g., how many times the Website is visited, how many times you see a particular advert) is used to deliver adverts to you. In addition, we may use profile information about you (e.g., your gender, age or pastimes) to provide advertisements that are more likely to be of interest to you, including by combining with other available information about you. We may share your information with advertisers or other third parties that assist us with these types of services, when we have either removed from it anything that personally identifies you, or encoded or combined it with other information so that it no longer personally identifies you.
 
-### 6\. INFORMATION OUTSIDE NIMBUZZ'S CONTROL
+**5\. Your user profile**
 
-**Your User Profile**
+Your user profile is the information you decide to provide when you create or manage your Nimbuzz Services account (e.g., your Nimbuzz Service user ID, full name, address, telephone numbers, gender, date of birth, language, status, and any other information that you decide to make available). MSM Limited stores your user profile centrally on a secure server. This information is also visible to other Nimbuzz Services’ users. You control your user profile and decide what (if anything) to make public. You can access your user profile within the Nimbuzz Services in order to access, change, correct, complete or remove information. MSM Limited may remove unsuitable or illegal material at any time from your profile or other postings in accordance with the Terms of Use.
 
-Your user profile is the information you decide to make available to the other Nimbuzz users. It may include your Nimbuzz user name, full name, address, telephone numbers, gender, date of birth, language, "about me" page URL, and any other information that you decide to make available. In the event you choose to make your user profile available, this information is securely and temporarily transmitted to, and stored on computers of other users. You control your user profile and you can access your user profile from the "File" menu in the Nimbuzz software in order to view, correct, complete or remove information. 
+**6\. Third party websites and platforms**
 
-**Linked Websites**
+MSM Limited’s Nimbuzz Websites and Nimbuzz Services may contain links that will let you access Third Party Services such as another website, platform or application. Third Party Services are outside MSM Limited’s control and not covered by this Privacy Statement. MSM Limited accepts no responsibility or liability for any Third Party Services. You should take care before providing any personal information to anyone and in these cases especially to review the applicable privacy statements or policies.
 
-Nimbuzz websites may contain links that will let you leave Nimbuzz's website and access another website. Linked websites are not under the control of Nimbuzz and it is possible that these websites have a different privacy policy. The Privacy Statement applies solely to personal information that is acquired on the websites or through your use of the Nimbuzz software, Nimbuzz products and/or your relationship with Nimbuzz, so Nimbuzz urges you to be careful when you enter any personal information online. Nimbuzz accepts no responsibility or liability for these other websites.
+Certain MSM Limited’s Nimbuzz Services use the Google Places service provided by Google, Inc. When you use these services then you also agree to the Google Privacy Policy as set out at <http://www.google.com/policies/privacy/>.
 
-  
+Where MSM Limited provides the ability for you to log-in to Third Party Services using your Nimbuzz account credentials (a feature known as “Nimbuzz Connect”), then you will be asked to agree to this in each case. The particular information that those third parties will be able to access will be indicated at the time of asking for your agreement but will normally include items such as your MSM Limited’s Nimbuzz Service user ID, nickname, email, profile picture, friend list, personal message (status) and online/offline presence.
 
+Please understand that the use of Third Party Services may in addition be subject to your signing up for an account with and accepting the terms and conditions of the relevant third party, including provisions relating to processing of personal data, which may differ from MSM Limited’s policies and for which MSM Limited is not responsible. You can view, manage and block the third party services that use your Nimbuzz ID by logging into your Nimbuzz Profile at any time. If your Nimbuzz Platform friends sign up for third party services using Nimbuzz Connect, then the information they share may include your Nimbuzz ID so that they can also connect with you on the third party service.
 
-### 7\. HOW DOES NIMBUZZ PROTECT YOUR PERSONAL INFORMATION?
+**7\. How does MSM Limited protect your personal information?**
 
-Nimbuzz shall take appropriate organizational and technical measures to protect the personal data and traffic data provided to it/them or collected by it/them, and shall not retain it any longer than permitted in order to perform its services or as required under relevant legislation. Your personal and traffic data can only be accessed by authorized employees of Nimbuzz or partners that need to have access to this data in order to be able to fulfil their given duties. 
+MSM Limited takes appropriate organizational and technical measures to protect the personal information and communications data provided to them or collected by them. For example, your personal and communications data can only be accessed by authorized MSM Limited staff that need to have access to this data in order for their work.
 
-Nimbuzz shall take appropriate technical measures to protect the confidentiality of the communications content via its Nimbuzz software and other Nimbuzz products, with due observance of the applicable obligations and exceptions under the relevant legislation.
+MSM Limited takes technical measures to protect the confidentiality of the content of communications sent over the Nimbuzz Services, subject to all applicable obligations and exceptions under applicable law.
 
-  
+**8\. Contacting You**
 
+MSM Limited may contact you to notify you of issues and faults with the Nimbuzz Services, and if you are considered to have breached any of the terms of your Agreement with MSM Limited or if another person makes a complaint about your use of the Nimbuzz Services (e.g., a claim that you have infringed their rights in some way).
 
-### 8\. PERSONAL DATA OF FRIENDS
+MSM Limited may also use email, SMS or the Nimbuzz Services to keep you up to date with news about the Nimbuzz Services that you use and/or other Nimbuzz Services unless you have opted out of receiving this information. If you do not want to be kept informed in this way, please contact MSM Limited at [support@nimbuzz.com](http://www.nimbuzz.com/en/troubleshooting/contact?refer=3).
 
-You may be interested in inviting your friends to join Nimbuzz. In the event you wish to use Nimbuzz's referral service, you will have the possibility of adding one or more email addresses in an online form. The information entered in this form, will only be used for the purposes of automatically generating an email message to these potential Nimbuzz users.
+MSM Limited may occasionally ask you to provide information on your experiences with the Nimbuzz Services. Any such feedback will always be voluntary and will be used only for the purposes of measuring and improving the quality of the Nimbuzz Services and Website and not stored as personal information or combined with any of your other personal information.
 
-  
+**9\. Can this privacy statement be changed?**
 
+MSM Limited reserves the right to modify this Privacy Statement at any time by notifying you by any reasonable means or by publishing the modified Privacy Statement at http://www.nimbuzz.com/en/legal/privacy_statement. The modified Privacy Statement will become effective thirty days from such publication or notification, unless you expressly accept the modified Privacy Statement earlier. Such express acceptance by you, or your continued use of any Nimbuzz Service after expiry of the notice period of thirty days, shall constitute your consent to the modified Privacy Statement.
 
-### 9\. CONTACTING YOU
+**10\. What are your rights and how can you contact nimbuzz?**
 
-Nimbuzz may from time to time ask you to provide information on your experiences which will be used to measure and improve quality. You are at no time in any obligation to provide any of such data. Any and all information which is voluntarily submitted in feedback forms on the website or any survey that you accept to take part in is used for the purposes of reviewing this feedback and improving the Nimbuzz software, Nimbuzz's products and websites. Nimbuzze also collects information about your usage of the Nimbuzz software, the websites and Nimbuzz's products. Nimbuzz reserves the right to utilize this information for marketing purposes, for instance by displaying selected comments on the website or in other communications. Nimbuzz may share anonymous and aggregated information with third parties, for example to serve targeted advertising.
+You have the right to access and, if necessary, to rectify your personal information. To exercise your right to view, correct, complete or remove your personal information, please contact MSM Limited at [support@nimbuzz.com](http://www.nimbuzz.com/en/troubleshooting/contact?refer=3). After verifying your identity and provided that your request is legal, within a reasonable period of time MSM Limited will fulfil your request.
 
-Nimbuzz may contact you to send you messages about faults and service issues. Further, Nimbuzz reserves the right to use email or the Nimbuzz software to notify you of any eventual claims related to your use of Nimbuzz software, the Nimbuzz websites and/or Nimbuzz products, including without limitation claims of violation of third party rights.
+You may also ask MSM Limited to stop processing your personal information. However, please note that this will most likely prevent you from using some or all of the MSM Limited’s Nimbuzz Services. You can exercise your right to prevent further processing of your personal information by contacting MSM Limited at [support@nimbuzz.com](http://www.nimbuzz.com/en/troubleshooting/contact?refer=3).
 
-Nimbuzz may also use email or the Nimbuzz software to keep you up to date with news about the Nimbuzz software and Nimbuzz products that you have purchased and/or to inform you about other Nimbuzz products unless you have opted out of receiving this information. If you do not want to be kept informed in this way, please contact Nimbuzz at delete@nimbuzz.com
+**11\. How long is your personal information kept by MSM Limited?**
 
-  
+MSM Limited will retain your information for as long as is necessary to carry out any of or all the purposes set out in this Privacy Statement and comply with applicable legislation, and any applicable orders of regulatory bodies or courts.
 
+**12\. What types of personal information does MSM Limited collect?  **  
+We are not connected to any personally-identifiable information or associated with any persistent device identifier (For example: SSAID, MAC address, IMEI, etc.) without the explicit consent of the user.  
+We do not promote nor support any third party client or partner to capture  SSAID, MAC address, IMEI. If found, we will block all the access and discontinue the partnership with immediate effect. 
 
-### 10\. CAN THIS PRIVACY STATEMENT BE MODIFIED?
-
-Nimbuzz reserves the right to modify the provisions of this Privacy Statement if deemed necessary. We will inform you of these changes by publishing the revised Privacy Statement at [Privacy policy](https://web.archive.org/en/legal/privacy_statement). The revised Privacy Statement shall become effective within thirty (30) days of such publishing, unless you expressly accept the revised statement earlier by clicking on the accept button. You agree that the express acceptance by you, or your continued use of the Nimbuzz software or Nimbuzz products after the notice period of thirty (30) days, shall constitute your acceptance of the Privacy Statement.
-
-  
-
-
-### 11\. WHAT RIGHTS DO YOU HAVE AND HOW CAN YOU CONTACT NIMBUZZ?
-
-You have the right to access and, where relevant, to rectify your personal data, provided that your identity can be verified.
-
-If you would like to exercise your right to view, correct, complete or remove your personal data, please contact Nimbuzz at delete@nimbuzz.com. Within a reasonable period of time and upon verification of your identity and to the extent your request is legitimate, Nimbuzz will fulfil your request, provided Nimbuzz will not act contrary to applicable legislation by fulfilling your request. 
-
-You can exercise your right to oppose to the processing detailed in the Privacy Statement by contacting Nimbuzz at delete@nimbuzz.com
-
-  
-
-
-### 12\. HOW LONG IS YOUR PERSONAL DATA KEPT BY NIMBUZZ?
-
-Nimbuzz will retain your information for as long as is necessary to: (1) fulfil any of the Purposes (as defined in article 3 of this Privacy Statement) or (2) comply with applicable legislation, regulatory requests and relevant orders from competent courts.
-
-  
-
+© MSM Limited, all rights reserved. Last revised: 01st Oct, 2017.
