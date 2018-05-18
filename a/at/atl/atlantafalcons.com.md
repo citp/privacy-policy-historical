@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the atlantafalcons.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124095535id_/http%3A//www.atlantafalcons.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlantafalcons.com privacy policy that was archived on 2018-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180518122803id_/http%3A//www.atlantafalcons.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Atlanta Falcons | Privacy Policy
 
-#### Effective Date: November 9, 2016
+#### Updated: December 19, 2017
 
 [](https://privacy.truste.com/privacy-seal/National-Football-League/validation?rid=14390212-c2c8-48c6-97a5-e4115aceaa6e "TRUSTe online privacy certification")
 
@@ -177,3 +177,30 @@ Atlanta Falcons Football Club
 Flowery Branch, GA 30542
 
 Attn: Website Privacy Policy
+
+**14\. Notice and Procedure for Making Claims of Copyright Infringement**
+
+Pursuant to Title 17, United States Code, § 512(c)(2), if you believe in good faith that your copyrighted work has been reproduced and is accessible on the Services in a way that constitutes copyright infringement, please provide our DMCA Agent with a written communication containing the following information.
+
+IMPORTANT NOTE: ONLY DMCA NOTICES WILL RECEIVE A RESPONSE.
+
+  * (a) identification of the copyrighted work claimed to have been infringed;
+  * (b) identification of the allegedly infringing material on the Services that is requested to be removed;
+  * (c) your name, address and daytime telephone number, and an e-mail address if available, so that we may contact you if necessary;
+  * (d) a statement that you have a good faith belief that the use of the copyrighted work is not authorized by you or the law;
+  * (e) a statement that the information in the notification is accurate, and under penalty of perjury, that you are, or are authorized to act on behalf of, the owner of an exclusive copyright right that is allegedly infringed; and
+  * (f) an electronic or physical signature of you or someone authorized on the copyright owner's behalf, to assert infringement of copyright and to submit the statement.
+
+
+
+Claims of infringement which include the above required information must be submitted via postal mail or e-mail to our DMCA Agent as follows:
+
+Atlanta Falcons Football Club
+
+4400 Falcon Parkway
+
+Flowery Branch, GA 30542
+
+P: 470-341-5001
+
+E: [CopyrightAgent@mercedesbenzstadium.com](mailto:CopyrightAgent@mercedesbenzstadium.com) (Please include "DMCA Notice of Infringement" in the subject line) IMPORTANT NOTE: The foregoing information is provided exclusively for notifying us that your copyrighted material may have been infringed. All other inquires and requests will not receive a response through this process. We reserve the right to remove any posted submission that infringes the copyright of any person under the laws of the United States upon receipt of a notice that complies with the requirements of 17 U.S.C. § 512(c)(3). United States law provides significant penalties for submitting such a statement falsely.
