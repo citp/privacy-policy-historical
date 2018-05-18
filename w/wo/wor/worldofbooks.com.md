@@ -1,90 +1,111 @@
-> *The following text is extracted and transformed from the worldofbooks.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122233505id_/http%3A//www.worldofbooks.com/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldofbooks.com privacy policy that was archived on 2018-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180518234439id_/https%3A//www.worldofbooks.com/policies) for the most accurate reproduction.*
 
 # Privacy Policy | World of Books
 
-We are committed to protecting your privacy online. This Privacy Policy sets out how World of Books Limited, (“ **we** ” or “ **us** ”)  treat your personal information, allowing you to make informed choices about the personal information that you provide to us via [www.worldofbooks.com](http://www.worldofbooks.com/) (this “ **Website** ”).
+**v2.0.1 | 19/04/2018**
 
-**  
-IMPORTANT** : By accessing and using this Website and submitting any personal information to us (whether in relation to your registration for an account to become a “Registered Customer”, requesting to receive our newsletter, or otherwise), you will automatically be taken to have read, understood and accepted this Privacy Policy. 
+World of Books is part of ‘A World of Buzz Ltd’ Group.
 
-  
-If you do not want us to collect, use and/or transfer your personal information in this way then you should (depending on what it is you object to) cease to access and use this Website and (if applicable) ask for your registration as a Registered Customer to be deleted.
+This privacy policy explains how we may use any personal or sensitive information that we collect about you, when you use our ‘online properties’ (which can include this website, app or any other online channel).
 
-  
-This Privacy Policy may be amended from time to time, and we therefore suggest that you review it periodically.
-
-## **  
-What we mean by personal information**
-
-Personal information means any data from which you can be identified (including information such as your name, postal address, email address and password) and which concerns you. All personal information that we obtain from you in relation to your use of this Website will be dealt with in accordance with the provisions of this Privacy Policy.
-
-## **  
-Personal information that we collect**
-
-Your “ **Record** ” constitutes the information we collect:
+At World of Books we are committed to protecting your privacy online, we fully respect and appreciate the importance of data security and privacy online.
 
   
-\- via the “Create an Account” page if you register as a Registered Customer comprising various details about you, including your name, email address, billing address and shipping addresses, your preferences as to whether you wish to receive our newsletter and any other information you may supply as part of your registration to be a Registered User.
+**Contents** : ****
 
-  
-\- when you submit an order to us, details of that order and all previous orders are stored on your “Account Dashboard”.
+1. ** ** What information do we collect about you?  
+2\. How will we use this information?  
+3\. Storage and safeguards  
+4\. Marketing  
+5\. Cookies and tracking  
+6\. Updating or removing your information  
+7\. Links to other websites  
+8\. Changes to our privacy policy  
+9\. How to contact us
 
-  
-\- if you submit a review to us, we will review it in accordance with our policy and if we consider it appropriate will publish it next to the product and also store it on your Account.
+**1\. What information do we collect about you?**
 
-  
-\- when you store other information on your Account, for example your wishlist, your tags, your recurring profiles, your product reviews and any downloadable products. From time-to-time we may also provide the facilities for you to provide additional information through your account, although there will be no obligation on you to provide this additional information.
+We collect information about you when you register with us or place an order for products or services. We collect general site usage data using cookies or tagging technology for the purposes of improving our website.
 
-  
-\- using session cookies to store information about your current session. These cookies are deleted when you leave this Website and close your browser.  If you wish you can alter your browser settings so that it does not accept our cookies.  However, the cookies used on this website allow you to use some essential features, for example if you block or otherwise reject our cookies, you will not be able to add items to your basket and proceed to checkout and therefore we recommend that you leave them turned on.
+We ask for contact information from you during the checkout process, which allows us to fulfil your order. We do not collect or store payment information such as credit / debit card information.
 
-  
-\- automatically, that is given by your browser as you surf the internet; data such as the time you access the Website, how long you access it for and so forth. We will only use this information to enhance your shopping experience and we will not pass it on in any way.
+We use cookies to identify you as a visitor to our site, this is explained in more detail below. We partner with marketing and analytics companies who may also provide data about you or your behaviour online.
 
-  
-\- if you contact us with a problem or requesting a refund we will keep a record of our dealings with you. Details of any refund will also be available to a Registered User through the Account Dashboard.
+**2\. How will we use this information?** The information that we collect about you, we only use to improve our website and other products / services.
 
-  
-We do not store credit card details. Payment for any orders you make is made via Paypal, a third party payment service provider.
+We collect information about you, to allow us to process your order, manage your account and, if you agree, to email you about other products and services which may be of interest to you.
 
-## **  
-Uses and Disclosures of your Record**
+We may also collect information to assist with customer service enquiries.
 
-Protecting your privacy is very important to us at World of Books Ltd. We will only collect personal information that is important to your shopping experience, and information that you freely submit to us. With the exception of those situations set out below, we do not share, exchange, sell or give your Record to any third party, for any reason.
+We use information collected about you to personalise your repeat visits to this website. If you agree, we shall pass on your personal information to our group of companies, so they may contact you regarding products and services.
 
-  
-We reserve the right to give your personal information to a third party without your consent where:
+Data we collect may be shared with third parties in order to profile our customer base and improve our targeting.
 
-   
-\- the disclosure is required by law, such as where there is a court order, or statutory obligation requiring us to make such a disclosure; and/or
+We do not share your information for marketing purposes with companies outside of the ‘A World of Buzz Ltd’ group, we will never sell your data.
 
-  
-\- we believe that such disclosure is necessary in order to assist in the prevention or detection of any criminal action (including fraud) or is otherwise in the overriding public interest, and is permitted by law.
+**3\. Storage and safeguards**
 
-  
-If you register and/or sign up for our newsletter, we may contact you by email with special offers, we will only do this infrequently and you can unsubscribe from these emails by contacting [customerservice@worldofbooks.com](mailto:customerservice@worldofbooks.com). 
+Under data protection and security legislation, ‘A World of Buzz ltd’ is legally required to inform you where your data is stored and how it is protected.
 
-  
-World of Books may store and archive your information, this will take place in Goring-by-Sea, West Sussex, England If you are or become a Registered Customer we will keep and use any personal information you submit to us in relation to your use of this Website for so long as you remain a Registered Customer and for at least 7 years afterwards, in order to deal with any consequent queries or complaints you may have. 
+No personally identifiable information is transferred or stored outside of the European Economic Area (‘EEA’), such as name, address, phone number and any payment information. This website is hosted with Google Cloud, who store data in England and Belgium under strict safeguards, more information about these practices can be found [here](https://cloud.google.com/security/).
 
-  
-Otherwise, your information will not be accessed again and it will remain secure. In any event, your personal information will be kept for no longer than is necessary.
+As part of due diligence in the usage of third parties, we ensure they follow the highest standards of data protection and security. However, in the event of a breach of a third party, ‘A World of Buzz Ltd’ group cannot be held responsible. This eventuality is highly unlikely, as we do not pass personally identifiable information to third parties, as stated above.
 
-**  
-How we protect your personal information**
+Personally identifiable data is collected and used for the reasons set out above and shall not be stored for longer than necessary for those purposes.
 
-We are strongly committed to data security and we take reasonable and appropriate steps to protect your personal information from unauthorised access, loss, misuse, alteration or corruption. We have put in place physical, electronic, and managerial procedures to safeguard and secure the information you provide to us.
+**4\. Marketing**
 
-  
-These steps include using SSL certificate to protect your information. This is up to 256-bit encryption, an communicating this Privacy Policy to our employees and relevant contractors. Only authorised employees and contractors under strict controls will have access to your personal information. 
+With your permission, we would love to send you information about products and services of ours or of other companies in the ‘A World of Buzz Ltd’ group which we believe may be of interest.
 
-  
-However, while we strive to protect your personal information, due to the nature of the internet we cannot guarantee the security of any information you transmit to us.  With this in mind, we urge you to take every precaution to protect your personal information while you are on the internet.
+If you have consented to receive marketing communications, you may opt out at a later date. You have a right at any time to stop us from contacting you for marketing purposes, or from giving your information to other members of the retails group.
 
-  
-If you register at World of Books.com - you are responsible for the protection of your log in details. **Please do not share your log in details with anyone**. No member of staff at World of Books.com will ever ask you for your password, so please do not disclose this information.
+If you no longer wish to be contacted for marketing purposes, please contact us.
 
-**  
-Updating your personal information**
+**5\. Cookies and tracking**
 
-You are entitled to see the information held about you and to amend or update any inaccuracies in your personal information.  Please note that we are entitled to charge a £10 fee for providing you with access to your personal information.  If you would like to review or update your personal information, and you are not able to do this through your Account Dashboard please [Contact Us](http://www.worldofbooks.com/contact-us).
+Cookies are text files placed on your computer to collect standard internet usage information and track visitor behaviour. This information is used to track visitor use of the website and provide reports on usage, such as for website analytics purposes. 
+
+We may also utilise tracking technology on the web properties, for analytics, marketing or performance tracking. We use this to improve and enhance our communication with you or the products / services we offer. 
+
+You can set your browser to not accept cookies or tracking and the websites linked below can give you simple instructions on how to do this. However, in this case some of our web property features may not function as a result.
+
+For further information, please visit: <https://www.aboutcookies.org/>
+
+**6\. Updating or removing your information**
+
+We would like to ensure that your personal information is accurate and up to date. You may access us to correct or remove information you believe is inaccurate. You may also do this yourself through the My Account dashboard (if you are a registered customer).
+
+You have the right to request a copy of the information that we hold about you, if you would like a copy of some or all of your personal information, please [contact us](https://www.worldofbooks.com/contact-us). If you have a complaint about the usage of your information, please fill in the contact us form with ‘Data Escalation’ in the subject line and we will see that it is reviewed by a supervisory authority.
+
+**7\. Links to other websites**
+
+Our website contains links to other websites, this privacy policy only applies to this web property, if you navigate away to other websites, this policy is no longer applicable.
+
+**8\. Changes to our privacy policy**
+
+From time to time, we may update our privacy policy in order to remain compliant with data protection legislation. We will do our best to notify our customers, but please refer to this periodically for the latest updates.
+
+**9\. How to contact us**
+
+**Mailing Address:**
+
+_World of Books_
+
+_Mulberry House_
+
+_Woods Way_
+
+_Goring-by-Sea_
+
+_West Sussex_
+
+_BN12 4QY_
+
+_United Kingdom_
+
+**Telephone:**
+
+01903 507 544
+
+**Email:**  
+By email by clicking [contact us](https://www.worldofbooks.com/contact-us).
