@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bzfilm.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116110104id_/http%3A//bzfilm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bzfilm.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519005316id_/http%3A//bzfilm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,8 +34,6 @@ By purchasing our services (advertising in the form of banners, text links, arti
 Since BZFilm.com offers non-tangible digital goods, we will not be able to “return” or refund the service you purchased.
 
 Please, make sure you ask everything you need regarding BZFilm’s advertising services before you make a purchase. If you are having any issues with purchased service, make sure you [contact us](http://bzfilm.com/contact/), and we will do our best to resolve the problem.
-
-[Follow @bzfilmdotcom](https://twitter.com/bzfilmdotcom)
 
 * * *
 
