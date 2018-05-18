@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vend-o.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214001255id_/https%3A//vend-o.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vend-o.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519013342id_/https%3A//vend-o.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy policyVendoStore
 
