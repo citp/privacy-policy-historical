@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the getmymachine.com privacy policy that was archived on 2017-11-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171116120638id_/https%3A//www.getmymachine.com/index.php/userside/Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the getmymachine.com privacy policy that was archived on 2018-05-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180519013348id_/https%3A//www.getmymachine.com/index.php/userside/Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	</head><body><span itemscope="" itemtype="http://schema.org/WebSite">
@@ -49,7 +49,7 @@
 window.scrollTo(0, 0);
 
 			 var base_url = "//www.getmymachine.com/";
-			 var cookie_set="1";
+			 var cookie_set="0";
  			 var ismobile="0";
 var useragent="ia_archiver";
 			 console.log(useragent);
@@ -152,8 +152,18 @@ $("#skip_to_site").click(function(){
 			font-family: HelveticaNeueLTStd-Cn;
 			src: url("//www.getmymachine.com//assets/user/helveticaneuelightcondensed/HelveticaNeueLTStd-Cn.otf") format("opentype");  
 			}
-			.dropdown-menu li a:hover
-			
+			.dropdown{
+				position: relative;
+			}
+			.dropbtn {
+				padding: 10px;
+				font-size: 16px;
+				border: none;
+			}
+			.dropdown-menu {
+				position: absolute;
+			}
+			.dropdown-menu li>a:hover
 			{
 				background-color:#5e5656;
 				text-decoration:underline;
@@ -161,6 +171,9 @@ $("#skip_to_site").click(function(){
 			.dropdown-menu {
 				left: -16px; 
 				margin: 4px 0 0;
+			}
+			.dropdown:hover .dropdown-menu {
+				display: block;
 			}
 			.ui-widget-header
 {
