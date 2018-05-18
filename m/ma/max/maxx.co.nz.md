@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxx.co.nz privacy policy that was archived on 2017-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170714174645id_/https%3A//at.govt.nz/about-us/about-this-site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxx.co.nz privacy policy that was archived on 2018-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180518113305id_/https%3A//at.govt.nz/about-us/about-this-site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
