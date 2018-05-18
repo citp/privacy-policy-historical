@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afunnysite.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613004722id_/http%3A//afunnysite.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afunnysite.com privacy policy that was archived on 2018-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180518171245id_/http%3A//www.afunnysite.com/pages/privacy.html) for the most accurate reproduction.*
 
 # A Funny Site - Privacy Policy
 
