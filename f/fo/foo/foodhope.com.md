@@ -1,67 +1,73 @@
-> *The following text is extracted and transformed from the foodhope.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527043916id_/http%3A//www.foodhope.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodhope.com privacy policy that was archived on 2018-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180518071456id_/http%3A//foodhope.com/policy) for the most accurate reproduction.*
 
-# Privacy Policy | Food Hope
+# FOODHOPE - Policy
 
-We will not share any lists of e-mail addresses or other personal information with any third party. In any such e-mail from us, we will provide a way for you to “opt out” or choose to decline to receive promotional e-mail from us. We may occasionally find a third-party offer in which we believe you might be interested and may send you information, but we will not provide your e-mail address to the third party.
+This Privacy Policy governs the manner in which Foodhope collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.foodhope.com website ("Site"). 
 
-We may also offer various surveys on the site. If the survey is a news survey or about service satisfaction, we will not share that information. Certain other surveys and contests are promotional in nature, and are often sponsored by or hosted and run by our advertisers.
+**Personal identification information**  
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities. 
 
-In such cases, we disclose that we collect and may share the information you provide to enter the contest or complete the survey with the advertiser. Of course, you will always have the choice of whether to enter the contest or complete such a survey, and therefore you will control the decision about sharing your information.
+**Non-personal identification information**  
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information. 
 
-We use third-party advertising companies to serve ads and collect data when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site, other sites, and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
+**Web browser cookies**  
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly. 
 
-Note to parents and children:
+**How we use collected information**  
+Foodhope may collect and use Users personal information for the following purposes:
 
-We fully support the intent of the Children’s Online Privacy Protection Act, which forbids the collection of personally identifiable information about children under the age of thirteen without the express written permission of their parents. We ask that children do not submit any information about themselves. Anyone using this Site or the Services warrants and promises that they are 13 years of age or older.
+* To run and operate our Site we may need your information display content on the Site correctly.
+* To send periodic emails
 
-Some of the content on our site, including advertising, is provided directly from web servers owned and operated by third parties, and we do not control, and cannot be held responsible for, their use of any information they may collect.
+**How we protect your information**  
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site. 
 
-We do not routinely disclose any of our individual reader information to third parties. We may disclose this information in special cases when we have reason to believe that doing so is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) the rights or property of foodhope.com or anyone else that could be harmed by such activities. We may also disclose information to third parties when we believe in good faith that we are required by law to do so, or as otherwise provided in the Site’s Terms of Use.
+**Sharing your personal information**  
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.   
+We may share or sell information with third parties for marketing or other purposes. 
 
-You can learn more about privacy on the Internet from the following resources: Electronic Frontier Foundation – a civil liberties organization working to protect your rights online. Electronic Privacy Information Center – established to focus public attention on emerging civil liberties issues relating to the National Information Infrastructure. Privacy Issues Page – from the Center for Democracy and Technology (CDT). Cookie Central — dedicated to provide full information upon Internet Cookies. The EPIC Cookies Page – links, news, and explanations.
+**Sharing your personal information**  
+This Privacy Policy governs the manner in which Foodhope collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.foodhope.com website ("Site"). 
 
-A last word on internet privacy:
+**Personal identification information**  
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities. 
 
-Please keep in mind that whenever you voluntarily disclose personal information online – for example in the forums, through email, or in chat areas – that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
+**Non-personal identification information**  
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information. 
 
-Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you’re online.
+**Web browser cookies**  
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly. 
 
-We use third-party advertising companies to serve ads and collect data when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site, other sites, and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp.
+**How we use collected information**  
+Foodhope may collect and use Users personal information for the following purposes:
 
-foodhope.com comment forum rules of conduct
+* To run and operate our Site we may need your information display content on the Site correctly.
+* To send periodic emails
 
-foodhope.com welcomes your participation in our discussion forums. These forums offer you the chance to interact with leaders and experts in our community, along with the journalists, editors and management of foodhope.com, and with other foodhope.com users.
+**How we protect your information**  
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site. 
 
-We ask that you post with respect for all players people in the news, journalists, fellow forum participants, etc. This is a community. So, when you post, we encourage you to tell your fellow community members a little about who you are not just a screen name or an E-mail address, but a bit of a bio. It enriches the discussion to know who behind the post.
+**Sharing your personal information**  
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. 
 
-In order to keep these forums enjoyable and interesting for all of our users, we ask that you follow these simple rules. By participating in the discussion forums, you are consenting to these rules. Violators may be warned, suspended from posting, or banned from the forums or chats, at the sole discretion of the foodhope.com staff.
+We may share or sell information with third parties for marketing or other purposes. 
 
-In order to keep these forums enjoyable and interesting for all of our users, we ask that you follow these simple rules. By participating in the discussion forums, you are consenting to these rules. Violators may be warned, suspended from posting, or banned from the forums or chats, at the sole discretion of the foodhope.com staff.
+**Electronic newsletters**  
+If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. 
 
-1\. Exercise common sense and be considerate toward your fellow users. Diversity of opinion and intelligent civil discourse is encouraged; by the same token, insults and flaming will not be tolerated. Disagreeing with an idea of another community member is different from attacking that individual.
+**Advertising**  
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers. 
 
-2\. Do not post off-topic. Please keep your comments consistent with the subject and purpose of the conversation thread. Deliberate disruption such as consistent off-topic or frivolous commentary â€œ will not be tolerated such posts will be deleted. foodhope.com and its moderators reserve the right to delete posts and/or whole conversations we determine are of an irrelevant, abusive or disruptive nature. This is your community. Let us or your fellow posters know if you feel things are getting off-topic or inappropriate.
+**Google Adsense**  
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
-3\. No all-caps (FOR EXAMPLE, LIKE THIS) or all-bolds please. It is extremely hard to read. Posts submitted in all-caps or all-bolds will be deleted automatically.
+**Changes to this privacy policy**  
+Foodhope has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. 
 
-4\. Although we love the extra information and sources you bring to this ‘micro blog sphere’ due to copyright and space issues, please do not quote entire news articles from other sources; small excerpts and/or a link keeps things legal. Please provide a link. Cutting and pasting of outside content is limited to three sentences. Any more than three, the whole post will be deleted. Also, to keep the discussion and dialogue moving, please keep posts to a reasonable length. Excessively long posts will be deleted. If you have that much to say, talk to us about a blog piece.
+**Your acceptance of these terms**  
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. 
 
-5\. You must use your real full name when posting and provide an e-mail address where we may contact you, if necessary, during the registration process. Your e-mail address will not be published on the site, except by you actively choosing to do so. You are limited to one user account on the system. Under no circumstances may you create alternate names, assume secondary identities or use someone else’s name for your name.
+**Contacting us**  
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us. 
 
-6\. You alone are responsible for the material you post. You will not knowingly post content or links to content that violates the copyright, trademark, patent or other intellectual property right of any third party and that you will remove the same should you discover that you have violated this provision. Likewise, you may not post content or links to content that is libelous, defamatory, offensive, obscene, racist, abusive, that violates a third party’s right to privacy, that otherwise violates any applicable local, state, national or international law, or that is otherwise inappropriate. You will indemnify foodhope.com, its employees, agents, and affiliates from any and all claims and/or damages (including but not limited to reasonable attorneys fees) resulting from any claim brought by any third party relating to content you have posted. We shall have the right, but not the obligation, to monitor the content of the forums to determine compliance with all sections of this Agreement and any other operating rules established by us. We shall have the right in our sole discretion to edit, refuse to post, remove, or otherwise alter any material submitted to or posted on the chats or forums. Without limiting the foregoing, we shall have the right to remove any material that we, in our sole discretion, find to be in violation of this agreement or inappropriate for any reason whatever without consent. Notwithstanding all of the foregoing, users remain solely responsible for the content of their messages.
-
-7\. We further reserve the right, in our sole discretion, to remove a users privilege to post content in our discussion forums. Suspended members who re-register with new accounts will have those accounts deactivated without notice. Repeated attempts will result in our contacting your ISP with a complaint.
-
-8\. You understand and agree that foodhope.com is not responsible for any content posted by third parties. We are a distributor of content supplied by third parties and users of the chats and forums. Any opinions, advice, statements, services, offers, or other information or content expressed or made available by third parties, or any other user of the forums, are those of the respective author(s) or distributor(s) and not of us.
-
-9\. You acknowledge and agree that you use and/or rely on any information obtained through the discussion forums at your own risk. foodhope.com is not in any manner endorsing the content of the discussion groups and cannot and will not vouch for its reliability. The disclaimer of liability contained in this section applies to any damages or injury caused by any failure of performance, error, omission, interruption, deletion, defect, delay in operation or transmission, computer virus, communication line failure, theft or destruction or unauthorized access to, alteration of, or use of record, whether for breach of contract, tortuous behavior, negligence, or under any other cause of action. Each user specifically acknowledges that we are not liable for the defamatory, offensive or illegal conduct of third parties, subscribers, members or other users of the forums and that the risk of injury from the foregoing rests entirely with each user.
-
-10\. You understand and agree that these discussion forums are to be used only for non-commercial purposes. You may not solicit funds, promote commercial entities or otherwise engage in commercial activity in the chats or forums. You may not contact other participants privately by any means without their express prior permission.
-
-11\. The discussion forums are for text only. Use of graphics and audio in the forums is not appropriate. For details on submitting this kind of content, contact the Web editor.
-
-12\. For any content that you post, you hereby grant to foodhope.com the royalty-free, irrevocable, perpetual, exclusive and fully sub-licensable license to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, perform and display such content in whole or in part, world-wide and to incorporate it in other works, in any form, media or technology now known or later developed.
-
-13\. Commenting on student sports – no comment may identify a player by name at any time. This is to keep student from being targeted for unfair criticism. Comments may be edited or deleted.
-
-14\. Comments to communicate off-topic messages to other users or to the foodhope.com staff will be deleted.
+This document was last updated on December 18, 2016 
