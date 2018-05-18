@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the zoomsphere.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118214700id_/http%3A//www.zoomsphere.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoomsphere.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519013906id_/https%3A//www.zoomsphere.com/privacy) for the most accurate reproduction.*
 
 # Website Privacy Policy - ZoomSphere
-
-### ZoomSphere Privacy Statement
 
 ZoomSphere has created this privacy statement (“Statement”) in order to demonstrate our commitment to customer privacy. Privacy on the ZoomSphere web site (the “Site”) is of great importance to us. Because we gather important information from our visitors and customers, we have established this Statement as a means to communicate our information gathering and dissemination practices. We reserve the right to change this Statement and will provide notification of the change at least thirty (30) business days prior to the change taking effect.
 
@@ -13,13 +11,41 @@ We require customers who register to use the services offered on our Site (colle
 ZoomSphere uses the information that we collect to set up the Service for individuals and their organisations. We may also use the information to contact customers to further discuss customer interest in our company, the Service that we provide, and to send information regarding our company or partners, such as promotions and events. Customers are invited to receive an email newsletter by providing an email address. Customer email addresses and any personal customer information will not be distributed or shared with third parties.  
 Customers can opt out of being contacted by us, or receiving such information from us, at any time by sending an email to info@zoomsphere.com. Separately, customers are also asked to provide an email address when registering for the Service, in order to receive a username and password. We may also email information regarding updates to the Service or company, and will send a Customer Newsletter. Again, email will not be distributed or shared and customers can opt out of receiving any communication by emailing info@zoomsphere.com at the time it is distributed, or at the time any customer registers for the Service.
 
-Except as we explicitly state at the time we request information, or as provided for in the ZoomSphere Master Subscription Agreement, we do not disclose to third parties the information provided. All financial and billing information that we collect through the Site is used solely to check the qualifications of prospective customers and to bill for the Service. This billing information is not used by ZoomSphere for marketing or promotional purposes.
+If explicitly not stated otherwise when requesting information, we do not disclose to third parties the information provided. All financial and billing information that we collect through the Site is used solely to check the qualifications of prospective customers and to bill for the Service. This billing information is not used by ZoomSphere for marketing or promotional purposes.
 
-Customers of the Service will be using the Site to host data and information (“Customer Data”). ZoomSphere will not review, share, distribute, print, or reference any such Customer Data except as provided in the ZoomSphere Master Subscription Agreement, or as may be required by law. Individual records may at times be viewed or accessed only for the purpose of resolving a problem, support issue, or suspected violation of the Master Subscription Agreement, or as may be required by law. Of course, customers are responsible for maintaining the confidentiality and security of their user registration and password.
+Customers of the Service will be using the Site to host data and information (“Customer Data”). ZoomSphere will not review, share, distribute, print, or reference any such Customer Data with exception of the law requirement. Individual records may at times be viewed or accessed only for the purpose of resolving a problem, support issue, or as may be required by law. Of course, customers are responsible for maintaining the confidentiality and security of their user registration and password.
 
 ZoomSphere may also collect certain information from visitors to and customers of the Site, such as Internet addresses. This information is logged to help diagnose technical problems, and to administer our Site in order to constantly improve the quality of the Service. We may also track and analyse non­identifying and aggregate usage and volume statistical information from our visitors and customers and provide such information to third parties.
 
 If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. ZoomSphere will automatically send the friend a one­time email inviting them to visit the site.
+
+### Collected data from Google users
+
+If you decide to use Zoomsphere also to analyze and manage your pages on the Google+ social network, our application must be given the following privileges: 
+
+To be able read all kind of incoming messages on your pages as well as possibility to reply on them, so we need you give us these privileges: 
+
+  * Manage your Google+ posts, comments and stream
+  * View your Google+ posts, comments and stream
+  * View and manage activity and content for all the Google+ pages you administer
+
+
+
+ZoomSphere also offer its users publish posts with defined targeting based on the selection of circles. That is why we need this extra privileges: 
+
+  * View your circles and the people and pages in them
+
+
+
+Because Zoomsphere, among others, analyse the data, so we need to have also this one: View and manage your photos and videos in Google+ 
+
+Of course, we need to know also basic data about you to be able display your profile information in the app Settings. That is why we ask you also for this: 
+
+  * Manage your Google+ profile
+
+
+
+To run your G + page with our application, you need to confirm the range of permissions that you see on the following screen. We do not use your data for any other purpose or pass it on to third parties.
 
 ### Cookies
 
