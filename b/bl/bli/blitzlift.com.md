@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blitzlift.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614105101id_/http%3A//blitzlift.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blitzlift.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519013347id_/http%3A//blitzlift.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – BlitzLift
+# Privacy Policy
 
 This privacy policy sets out how BlitzLift.com uses and protects any information that you give BlitzLift.com when you use this website.
 
@@ -40,9 +40,14 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 Third Party Vendors
 
-Third party vendors, including Google, use cookies to serve ads based on a your prior web site visits.  
-Google’s use of the DoubleClick cookie enables it and its partners to serve ads to you based on your visits to BlitzLift.com and/or other sites on the Internet.  
-You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting Ads Settings. (or by visiting aboutads.info.)  
+Third party vendors, including Google, use cookies to serve ads based on a your prior web site visits.
+
+Google’s use of the DoubleClick cookie enables it and its partners to serve ads to you based on your visits to BlitzLift.com and/or other sites on the Internet.
+
+You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting Ads Settings. (or by visiting aboutads.info.)
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here (<http://www.networkadvertising.org/managing/opt_out.asp>).
+
 Links to other websites
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
