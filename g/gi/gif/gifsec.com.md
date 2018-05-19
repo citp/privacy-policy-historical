@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gifsec.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208201819id_/http%3A//gifsec.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gifsec.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519064234id_/http%3A//gifsec.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Reaction GIFS and Best Funny GIFS
 
@@ -148,6 +148,6 @@ www.Gifsec.com
 Camal Centre, Kwun Tong  
 Kowloon 852  
 Hong Kong  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+support@Gifsec.com
 
 Last Edited on 2017-06-15
