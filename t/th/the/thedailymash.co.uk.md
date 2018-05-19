@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedailymash.co.uk privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208221355id_/http%3A//www.thedailymash.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedailymash.co.uk privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519153040id_/http%3A//thedailymash.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # The Daily Mash | Privacy Policy
 
@@ -34,7 +34,7 @@ Your consent
 **Currently we use the following cookies and we operate an ‘implied consent’ policy which means that we assume you are happy with this usage.
 
 **  
-Google Analytics –  **we use this to understand how the site is being used in order to improve the user experience. User data is all anonymous. You can find out more about Google’s position on privacy as regards its analytics service at <http://www.google.co.uk/intl/en/analytics/privacyoverview.html>  ****
+Google Analytics –  **we use this to understand how the site is being used in order to improve the user experience. User data is all anonymous. You can find out more about Google’s position on privacy as regards its analytics service at [http://www.google.co.uk/intl/en/analytics/privacyoverview.html](https://www.google.co.uk/intl/en/analytics/privacyoverview.html)  ****
 
 Quantcast – this cookie captures information on site traffic and usage so we can better understand our audience. User data is all anonymous. ****
 
@@ -48,4 +48,4 @@ We do not disclose any personal information obtained about you from this website
 We may from time to time provide information of a general nature to third parties – for example, the number of individuals visiting our website or completing a registration form, but we will not use any information that could identify those individuals.  ****
 
 **Contacting Us**  
-If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#462e232a3606322e2322272f2a3f2b27352e68252968332d68) You can also correct any factual errors in that information or require us to remove your details form any list under our control.
+If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#dab2bfb6aa9aaeb2bfbebbb3b6a3b7bba9b2f4b9b5f4afb1f4) You can also correct any factual errors in that information or require us to remove your details form any list under our control.
