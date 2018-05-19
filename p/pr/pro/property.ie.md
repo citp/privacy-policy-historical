@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the property.ie privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118214354id_/http%3A//www.property.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the property.ie privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520013323id_/http%3A//www.property.ie/privacy) for the most accurate reproduction.*
 
 # Privacy & Legal - Property.ie
 
