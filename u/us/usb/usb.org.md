@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usb.org privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118214510id_/http%3A//www.usb.org/about/statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usb.org privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520013634id_/http%3A//www.usb.org/about/statement) for the most accurate reproduction.*
 
 # USB.org - Privacy Statement
 
@@ -22,7 +22,7 @@ This site contains links to other sites. USB-IF is not responsible for the priva
 Our site is developed, hosted and maintained by a third party who has access to all information on this site. This "Powered by" partner is responsible for maintaining the privacy described in this statement. The third party retains no rights or privileges associated with the information (i.e. cannot distribute, sell, exchange the information collected).
 
 **Order Form**   
-Our site may use an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address), financial information (like their credit card numbers), and demographic information (like their zip code). Contact information from the order form is used to send orders to our customers. The user's contact information is used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the [choice/opt-out section](http://www.usb.org/about/statement/#choice) below. Financial information that is collected is used to bill the user for products and services. Additionally we may require a customer to sign a license agreement.
+Our site may use an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address), financial information (like their credit card numbers), and demographic information (like their zip code). Contact information from the order form is used to send orders to our customers. We will use the information you provide us to contact you if there is a problem with your order or we need more information from you to fulfill your order. Users may opt-out of receiving future mailings; see the [choice/opt-out section](http://www.usb.org/about/statement/#choice) below. Financial information that is collected is used to bill the user for products and services. Additionally we may require a customer to sign a license agreement.
 
 **Cookies**   
 We use cookies to record session information and to track a user's path through our web sites. This enables us to respond to any problems with our service and to offer a more personalized service. 
