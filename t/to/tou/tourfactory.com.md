@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tourfactory.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118213529id_/http%3A//tourfactory.com/company/realtyprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tourfactory.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519113024id_/http%3A//www.tourfactory.com/company/realtyprivacy.asp) for the most accurate reproduction.*
 
 # TourFactory :: Realty Privacy
 
@@ -6,23 +6,23 @@
 
 This privacy statement discloses the privacy practices for [www.homedebut.com](https://www.homedebut.com/) and [www.tourfactory.com](https://www.tourfactory.com/).
 
-Home Debut's mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices. This web site has agreed to notify you of: 
+TourFactory's mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices. This web site has agreed to notify you of: 
 
   * What personally identifiable information of yours or third party personally identification is collected from you through the web site 
   * The organization collecting the information 
   * How the information is used 
   * With whom the information may be shared 
   * What choices are available to you regarding collection, use and syndication of the information 
-  * The kind of security procedures that are in place to protect the loss,misuse or alteration of information under Home Debut, Inc. control 
+  * The kind of security procedures that are in place to protect the loss,misuse or alteration of information under TourFactory control 
   * How you can correct any inaccuracies in the information. 
 
   
-If you feel that this company is not abiding by its posted privacy policy, you should first contact Cathy Gay, Director of Customer Services. by [cathy@homedebut.com](mailto:cathy@homedebut.com), 1.888.458.3943 505 W Riverside Ave Ste 300, Spokane WA 99201.  
+If you feel that this company is not abiding by its posted privacy policy, you should first contact Cathy Gay, Director of Customer Services. by [cathy@tourfactory.com](mailto:cathy@tourfactory.com), 1.888.458.3943 505 W Riverside Ave Ste 300, Spokane WA 99201.  
 
 
 ### Information Collection and Use
 
-Home Debut, Inc. is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Home Debut, Inc. collects information from our users at several different points on our website.
+Collabra Technology, Inc. is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. TourFactory collects information from our users at several different points on our website.
 
 We provide system training and ongoing support to help your local business thrive.  
 
@@ -57,7 +57,7 @@ These parties are not allowed to use personally identifiable information except 
 
 ### Links
 
-This web site contains links to other sites. Please be aware that we Home Debut, Inc. are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+This web site contains links to other sites. Please be aware that TourFactory is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
 ### News Updates and Special Promotions
 
@@ -71,7 +71,7 @@ From time-to-time our site requests information from users via surveys or contes
 
 ### Tell-A-Friend
 
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. Home Debut, Inc. will automatically send the friend a one-time email inviting them to visit the site. Home Debut, Inc. stores this information for the sole purpose of sending this one-time email. The friend may contact Home Debut, Inc. at [www.homedebut.com](https://www.homedebut.com/) or [www.tourfactory.com](https://www.tourfactory.com/) to request the removal of this information from their database. 
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. TourFactory will automatically send the friend a one-time email inviting them to visit the site. TourFactory stores this information for the sole purpose of sending this one-time email. The friend may contact TourFactory at [www.homedebut.com](https://www.homedebut.com/) or [www.tourfactory.com](https://www.tourfactory.com/) to request the removal of this information from their database. 
 
 ### Security
 
