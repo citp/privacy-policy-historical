@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the niftymom.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116143545id_/http%3A//niftymom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niftymom.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519191108id_/http%3A//niftymom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
