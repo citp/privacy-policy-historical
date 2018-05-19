@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itulip.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116121322id_/http%3A//www.itulip.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itulip.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519020638id_/http%3A//www.itulip.com/privacy.htm) for the most accurate reproduction.*
 
 # iTulip.com - Privacy Statement
 
