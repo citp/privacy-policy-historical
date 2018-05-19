@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkstockphotos.in privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117062241id_/http%3A//www.thinkstockphotos.in/legal/privacy-policy%3Fisource%3Dfoot_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkstockphotos.in privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519020727id_/http%3A//www.thinkstockphotos.in/legal/privacy-policy%3Fisource%3Dfoot_privacy) for the most accurate reproduction.*
 
 # Thinkstock India Privacy Policy - Royalty-Free Images Subscriptions
 
