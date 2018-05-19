@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the short-haircut.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216015042id_/http%3A//www.short-haircut.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the short-haircut.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520012508id_/http%3A//www.short-haircut.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Short Hairstyles 2016 - 2017 | Most Popular Short Hairstyles for 2017
+# Privacy Policy | Short Hairstyles 2017 - 2018 | Most Popular Short Hairstyles for 2017
 
 Our Privacy Policy was last updated and posted on March 21, 2013. It governs the privacy terms of our Website, located at www.short-haircut.com. Any capitalized terms not defined in our Privacy Policy, have the meaning as specified in our Terms of Service.
 
