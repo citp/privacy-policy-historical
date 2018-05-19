@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qpdownload.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229063933id_/http%3A//qpdownload.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qpdownload.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519102732id_/http%3A//qpdownload.com/privacy.php) for the most accurate reproduction.*
 
 # QP Download - The Biggest Download Portal!
 
@@ -9,6 +9,8 @@ This Privacy Policy covers our treatment of personally identifiable information 
 In addition, this Privacy Policy also covers our treatment of Personal Information and other information We gather when you use any of our services or products, including the wrapper installation utility.
 
 By visiting the Site, or using any of our services or products, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
+
+We may use [third-party advertising companies](http://dikm9qlw6vn2x.cloudfront.net/pp.html) to serve ads when you visit our website.
 
 Please note this policy does not apply to (and We are not responsible for) the practices of companies that We do not own or control or to individuals We do not employ or manage. When utilizing third party sites or software products, you should read the relevant privacy policies of those third parties for information regarding their privacy practices.
 
