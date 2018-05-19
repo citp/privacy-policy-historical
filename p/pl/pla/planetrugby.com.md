@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetrugby.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230094028id_/http%3A//www.planetrugby.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetrugby.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519105234id_/http%3A//www.planetrugby.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Planet Rugby
 
