@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the upics.ru privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129205355id_/http%3A//upics.ru/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upics.ru privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519163439id_/http%3A//upics.ru/page/privacy) for the most accurate reproduction.*
 
-# Example page - Upics.ru
+# Privacy - Upics.ru
 
 ## Information we collect; how we use it
 
