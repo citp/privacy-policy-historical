@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oedro.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218235602id_/http%3A//www.oedro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oedro.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519041335id_/http%3A//www.oedro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
