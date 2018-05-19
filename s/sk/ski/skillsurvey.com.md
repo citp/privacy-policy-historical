@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skillsurvey.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224123916id_/http%3A//www.skillsurvey.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skillsurvey.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519125325id_/http%3A//www.skillsurvey.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SkillSurvey
 
@@ -6,7 +6,7 @@
 
 SkillSurvey provides a web-based service that enables people who have worked with an individual to provide confidential feedback on the individual’s competencies for a specific job. Additionally, SkillSurvey provides services related to physician credentialing for healthcare providers.
 
-Organizations and individuals (Subscribers) use the service to send emails to the job candidate and the candidate’s references. The reference email contains a link to a web-based survey, which the reference then completes and submits electronically.
+Organizations and individuals (Subscribers) use the service to send emails or text messages to the job candidate and the candidate’s references. The reference email or text contains a link to a web-based survey, which the reference then completes and submits electronically.
 
 Candidate reports are either generated automatically or monitored and finalized by customer personnel (such as HR staff, recruiters, hiring managers, etc.).
 
@@ -26,7 +26,7 @@ Notice of all changes that materially affect ways in which your personally ident
 
 ### Information Collection
 
-SkillSurvey does not collect personally identifying information from visitors to this site unless specifically provided by our customers, their employees or representatives, their job or credentialing candidates, or the candidate’s references. Personally identifiable information includes name, email address and other data elements requested by our customers or required to perform the SkillSurvey services.
+SkillSurvey does not collect personally identifying information from visitors to this site unless specifically provided by our customers, their employees or representatives, their job or credentialing candidates, or the candidate’s references. Personally identifiable information includes name, email address, mobile telephone number, and other data elements requested by our customers or required to perform the SkillSurvey services.
 
 ##### For Candidate Reference Services
 
@@ -64,7 +64,12 @@ For physicians participating in a credentialing process with a healthcare provid
 
 It is possible that we may need to disclose personal information when required by law. We will disclose such information wherein we have a good-faith belief that it is necessary to comply with a court order, ongoing judicial proceeding, or other legal process served on our company or to exercise our legal rights or defend against legal claims.
 
-We reserve the right to transfer information (including personally identifiable information) to a third party in the event of a sale, merger, or transfer of all or substantially all of the assets of SkillSurvey, or in the unlikely event of a bankruptcy, liquidation or receivership of our business. We will provide notice of any such change in ownership of personal information.
+We reserve the right to transfer information (including personally identifiable information) to a third party in the event of a sale, merger, or transfer of all or substantially all of the assets of SkillSurvey, or in the unlikely event of a bankruptcy, liquidation or receivership of our business. We will provide notice of any such change in ownership of personal information.  
+ 
+
+### Communications & Opt-Out
+
+As described above, subscribers may use the service to communicate with job candidates and the candidate’s references through email and text message. Where applicable, candidates are required to represent and warrant that they agree to receive emails and text messages through SkillSurvey and that the references they designate also have consented to receive communications in that manner sent by or on behalf of the candidate. In particular, where candidates select text as their preferred method of contact for the candidate’s references and enter their mobile number(s), the candidate represents and warrants that each such reference has expressly consented to receive the texts from the candidate through SkillSurvey at the number provided for the purpose of job reference feedback. Note that SkillSurvey may partner with third parties to deliver and manage these communications. The candidate and references can opt-out of these communications at any time, although doing so may impact the ability to use and benefit from SkillSurvey. Recipients of emails through SkillSurvey can opt out by clicking the opt-out link at the footer of SkillSurvey emails. Recipients of text messages can also opt-out at any time by responding S or STOP or sending S or STOP to the SkillSurvey shortcode. 
 
 ### Website Security
 
@@ -90,9 +95,9 @@ Berwyn, PA 19312
 
 Email: customerservice@skillsurvey.com
 
-The foregoing policies are effective as of March 25, 2016. SkillSurvey reserves the right to change this policy at any time. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+The foregoing policies are effective as of January 25, 2018. SkillSurvey reserves the right to change this policy at any time. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
 
-  * [Terms of Use](https://web.archive.org/web/20171224123916id_/http%3A//www.skillsurvey.com/skillsurvey-inc-terms-of-use/)
-  * [Service Level Agreement](https://web.archive.org/web/20171224123916id_/http%3A//www.skillsurvey.com/service-level-agreement/)
+  * [Terms of Use](https://web.archive.org/web/20180519125325id_/http://www.skillsurvey.com/privacy-policy/skillsurvey-inc-terms-of-use/)
+  * [Service Level Agreement](https://web.archive.org/web/20180519125325id_/http://www.skillsurvey.com/privacy-policy/service-level-agreement/)
 
 
