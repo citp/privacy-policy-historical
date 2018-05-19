@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govthub.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129092624id_/http%3A//govthub.com/website-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govthub.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519214819id_/http%3A//govthub.com/website-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Government Hub
 
@@ -6,7 +6,7 @@ The Government Hub is committed to protecting your privacy and developing techno
 
 ## COLLECTION OF YOUR PERSONAL INFORMATION
 
-The Government Hub collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. The Government Hub also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites. 
+The Government Hub collects personally identifiable information such as your e-mail address, profile photos you upload, profile nickname, the city you live in, date of birth, gender and occupation. We do not collect physical addresses or phone numbers. The Government Hub also uses 3rd party services including Google Adsense and Google Analytics that collect anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites. 
 
 There is also information about your computer hardware and software that is automatically collected by the Government Hub. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used by the Government Hub for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Government Hub website. 
 
@@ -16,7 +16,7 @@ The Government Hub encourages you to review the privacy statements of websites y
 
 ## USE OF YOUR PERSONAL INFORMATION
 
-Profile information as well as first name/last initial, gender and photos are displayed to people in a user's personal network to support the function of the site as social community. A user's full name is used when a user invites a friend via email to join the service or attend an event, when we send notifications to a user related to their use of the service or when a user specifies in their account to make their full name public. A user's email address, home address or phone number are never shared or displayed. 
+Profile information including nickname, age, gender and photos are displayed to people in a user's personal network to support the function of the site as social community. A user's full name is used when a user invites a friend via email to join the service or attend an event, when we send notifications to a user related to their use of the service or when a user specifies in their account to make their full name public. A user's email address or other private data is never shared or displayed. 
 
 The Government Hub collects and uses your personal information to operate the Government Hub website and deliver the services you have requested. The Government Hub also uses your personally identifiable information to inform you of other products or services available from the Government Hub and its affiliates. The Government Hub may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered. 
 
@@ -30,7 +30,7 @@ The Government Hub website will disclose your personal information, without noti
 
 ## CORRECTING/UPDATING INFORMATION
 
-Members can access, change and update their registration and personal information by logging onto the Government Hub and selecting the Modify Profile option. Users who leave the service may choose to have their personal information deleted by contacting us. 
+Members can access, change and update their registration and personal information by logging onto the Government Hub and selecting the Modify Profile option. Users who leave the service may choose to have their personal information deleted by choosing an option to delete their account on the website or by contacting us. 
 
 ## CHAT ROOMS, MESSAGE BOARDS & PUBLIC FORUMS
 
