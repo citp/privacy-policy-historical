@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1000webgames.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207225220id_/http%3A//1000webgames.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1000webgames.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520014929id_/http%3A//1000webgames.com/privacy.php) for the most accurate reproduction.*
 
 # 1000webgames.com privacy policy
 
