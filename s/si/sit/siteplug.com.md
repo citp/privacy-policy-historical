@@ -1,80 +1,52 @@
-> *The following text is extracted and transformed from the siteplug.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siteplug.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519050615id_/http%3A//siteplug.com/privacy-policy.php) for the most accurate reproduction.*
 
-# HugeDomains.com - Privacy Policy
+# SITEPLUG
 
-[Home](https://www.hugedomains.com/) _ _ Privacy Policy
+**PRIVACY STATEMENT**  
 
-**What information do we collect?**
 
-We collect information from you when you register on our site, place an order or fill out a form. 
+Affinity respects your privacy and is committed to protecting your personal information. This Privacy Statement (the "Statement") covers the website www.affinity.com (the "Site"). We collect no personally identifiable information about you when you visit the Site unless you choose to provide that information to us or as specifically outlined in this Statement. This Statement is incorporated into and subject to Affinity.com's Terms of Use ("TOU") found [http://affinity.com/terms.php](http://www.affinity.com/terms.php)
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
+USE OF THIS WEB SITE CONSTITUTES ACCEPTANCE OF THE FOLLOWING TERMS AND CONDITIONS:
 
-**What do we use your information for?**
+The Policy is not exhaustive and Affinity reserves the right to add, delete, or modify any provision of the Policy at any time without notice to yourself, effective upon the posting of the modified Policy to www.affinity.com. Please check the Site periodically for changes to the Policy. By using Affinity's services and/or using this Site after changes have been made to the Policy, you agree to the changes. Except when expressly agreed to the contrary in writing by an authorized representative of Affinity, this Policy supersedes any other agreement with Affinity, whether written, oral, by conduct, or otherwise.
 
-Any of the information we collect from you may be used in one of the following ways: 
+**Information We Collect**
 
-• To personalize your experience  
-(your information helps us to better respond to your individual needs) 
+Our purpose in collecting information from you is to help us provide you with better service, such as notifications about special offers and promotions. We will not willfully disclose any personally identifiable information about you to any third party without first receiving your permission, as explained in this Privacy Statement. Furthermore, we do not specifically target children under the age of 13, nor do we knowingly collect, without parental consent, personally identifiable information from such children.
 
-• To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
+If you are applying for an account with Affinity, we may require that you provide us with certain personal information (such as name, email address, billing information, etc.) relevant to our provision of the various services offered on the Site. We do not collect any personal information other than that which is specifically and knowingly provided to us by you. When we request information, we shall explain how it may be used and give you an opportunity to request that the information not be used for those purposes. We shall also give you an opportunity to opt out of future communications from us.
 
-• To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs) 
+**Cookies**
 
-• To process transactions
+Affinity may, at times, use cookies. Cookies are data files stored on your computer that identify you as a unique user. Cookies enable us to track user trends, preferences and patterns to better understand our user base and to improve the quality of our service. Most browsers permit users to refuse cookies or to be notified before a cookie is accepted. You can visit our site without using cookies.
 
-> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
+**Third Party Cookies**
 
-• To send periodic emails
+Affinity may, at times, drop third party web beacons. Opting out of third parties' services will prevent them from collecting data when a user visits any of Affinity's partner/customer sites. By doing so, advertisements will no longer be tailored to your interests.
 
-> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+To opt out of having data collected and written to cookies placed by third parties, please visit: [http://www.networkadvertising.org/managing/opt_out.asp.](http://www.networkadvertising.org/managing/opt_out.asp)
 
-If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
+Note that after choosing to opt out, if you use a different computer or a different browser, or if you delete or block browser cookies, you may need to repeat the opt-out steps. Most web browsers also enable you to block browser cookies. You can refer to your web browser's documentation to get more information on how to block or delete cookies directly through your browser settings.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+**Links to Other Websites**
 
-**How do we protect your information?**
+The Site contains links to other websites. Those websites may send their own cookies to users, collect data, or solicit personal information. Affinity is in no way responsible or liable for the privacy practices or content of such third party websites. This Statement applies only to our own services and our Site, and does not apply to any other third party services or websites. We encourage you to carefully read the privacy statement of any website you visit.
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+**Sharing Information**
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+Affinity may share non-personal and non-personally identifiable information about our users with advertisers, business partners, sponsors, and other third parties. Affinity may partner with other parties in connection with the various services offered on the Site. In such instances, we may share limited personal information that is necessary for the third-party to provide its services. These companies are prohibited from using this information for any other purpose. Affinity may also provide personal information when disclosure may be required by law (e.g., subpoenas, search warrants and court orders). We may also determine that such action is reasonably necessary to protect a party's rights, property, or well-being. This action may include exchanging information with other companies and organizations for the purposes of fraud detection or protection, or in other situations involving suspicious or illegal activities.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+**Business Transfers**
 
-**Do we use cookies?**
+In the event of a transfer of ownership of Affinity such as acquisition by or merger with another company, your personal information will, in most instances, be part of the assets transferred.
 
-Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+**Consent and Changes to this Privacy Statement**
 
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+By using the Site or our services, you consent to the collection and use of your information as we have outlined in this Statement. Affinity may update this Statement from time to time. We may notify you about significant changes in the way we treat your information by sending a notice to you, although we are not required to do so, or we may simply place a notice on the Site. Not withstanding the foregoing, we reserve the right to change this Statement without any notice whatsoever to you and for whatever reason we deem appropriate under the circumstances. Your continued use of the Site and our services will be construed as your acceptance of any such change. We encourage you to periodically check back and review this Statement so that you always will know what information we collect, how we use it, and to whom we disclose it.
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+Who Can I Ask If I Have Additional Questions?
 
-**Do we disclose any information to outside parties?**
+Feel free to contact us at any time with any questions you may have regarding our privacy statement.
 
-Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
-
-**Online Privacy Policy Only**
-
-This online privacy policy applies only to information collected through our website and not to information collected offline. 
-
-**Terms and Conditions**
-
-Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
-
-**Your Consent**
-
-By using our site, you consent to our web site privacy policy. 
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
-
-This policy was last modified on 1/10/2012 
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
-
-HugeDomains.com
+_Effective August, 2014_
