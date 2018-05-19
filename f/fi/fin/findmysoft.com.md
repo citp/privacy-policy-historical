@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findmysoft.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118070431id_/http%3A//www.findmysoft.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findmysoft.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519113622id_/http%3A//www.findmysoft.com/privacy) for the most accurate reproduction.*
 
 # » FindMySoft.com - Privacy
 
@@ -131,5 +131,7 @@ Legal information
 **
 
 This privacy statement has been prepared in fulfillment of the obligations under Art. 10 of EC Directive n. 95/46/EC, and under the provisions of Directive 2002/58/EC, as revised by Directive 2009/136/EC, on the subject of cookies. This privacy statement applies solely to the Site and is not meant to refer to other sites whose links are possibly contained therein. 
+
+We may use [third-party advertising companies](http://d2ly3gbe9tyiva.cloudfront.net/pp.html) to serve ads when you visit our website
 
 Updated: **June 02, 2012**
