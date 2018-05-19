@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downtoearth.org.in privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225085351id_/http%3A//www.downtoearth.org.in/page/privacy-policy-58272) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downtoearth.org.in privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519124003id_/http%3A//www.downtoearth.org.in/page/privacy-policy-58272) for the most accurate reproduction.*
 
 # Privacy Policy
 
