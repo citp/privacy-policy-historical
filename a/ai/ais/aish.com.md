@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aish.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206122531id_/http%3A//www.aish.com/csp/Aish-Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aish.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520013458id_/http%3A//www.aish.com/csp/Aish-Privacy-Policy.html) for the most accurate reproduction.*
 
 # Aish Privacy Policy
 
