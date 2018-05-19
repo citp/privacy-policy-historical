@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyatabletpc.net privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129213344id_/http%3A//www.buyatabletpc.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyatabletpc.net privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519230709id_/http%3A//www.buyatabletpc.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | buy a tablet pc
 
@@ -34,8 +34,6 @@ If you wish to disable cookies, you may do so through your individual browser op
 #### Related Search Tags:
 
   * [biggest coock pc](http://www.buyatabletpc.net/search/biggest-coock-pc "biggest coock pc")
-  * [tablet bigcock](http://www.buyatabletpc.net/search/tablet-bigcock "tablet bigcock")
-  * [www panasonictab com](http://www.buyatabletpc.net/search/www-panasonictab-com "www panasonictab com")
-  * [WWWTAB8](http://www.buyatabletpc.net/search/wwwtab8 "WWWTAB8")
+  * [www bigcocktablet](http://www.buyatabletpc.net/search/www-bigcocktablet "www bigcocktablet")
 
 
