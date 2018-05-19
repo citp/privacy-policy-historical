@@ -1,0 +1,895 @@
+<!--The following is the downloaded HTML source of the capilanou.ca privacy policy that was archived on 2018-05-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180519035536id_/http%3A//capilanou.ca/current/policies/Privacy-Statement) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head id="ctl00_HTMLHead"><meta http-equiv="content-type" content="text/html; charset=iso-8859-1"><link rel="stylesheet" type="text/css" href="/WorkArea/FrameworkUI/css/ektron.stylesheet.ashx?id=-1759591071+1597669889+646986939+-300771134+1985268503"><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" src="/WorkArea/FrameworkUI/js/ektron.javascript.ashx?id=1338359439+-569449246+-1939951303+-1080527330+-1687560804+-1388997516+2009761168+27274999+1979897163+-422906301+-1818005853+-1008700845+-1793043690+1628691364"></script><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"><title>
+	Privacy Statement - Capilano University
+</title><meta name="Author" content="Capilano University"><meta http-equiv="X-UA-Compatible" content="IE=edge">
+                
+        <!--<meta property="og:title" content="Capilano University" /><meta property="og:type" content="university" /><meta property="og:url" content="http://www.capilanou.ca" /><meta property="og:image" content="http://www.capilanou.ca/images/logo/Capilano-University-fb" /><meta property="og:site_name" content="Capilano University" /><meta property="fb:admins" content="858845390" /><meta property="fb:app_id" content="208142009236983" /><meta property="og:description" content="A teaching-focused university in North Vancouver, B.C. with programs in Arts, Sciences, Fine and Applied Arts, Business, Tourism, Outdoor Recreation, Health, Education, Preparatory Studies and more." /><meta property="og:email" content="infocentre@capilanou.ca" /><meta property="og:phone_number" content="604-986-1911" /><meta property="og:fax_number" content="604-984-4985" /><meta property="og:latitude" content="49.190503" /><meta property="og:longitude" content="123.011178" /><meta property="og:street-address" content="2055 Purcell Way" /><meta property="og:locality" content="North Vancouver" /><meta property="og:region" content="British Columbia" /><meta property="og:postal-code" content="V7J 3H5" /><meta property="og:country-name" content="Canada" />-->
+        
+		<!--<link rel="stylesheet" media="screen" href="/css/all.min.css" type="text/css" />-->  
+       <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet"><link rel="stylesheet" media="screen" href="/css/layout.css" type="text/css"><link rel="stylesheet" media="print" href="/css/print.css" type="text/css"><link rel="stylesheet" href="/css/themes/base/jquery.ui.all.css">
+   
+
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                $('#campus-dir-radio').click(function() {
+                    $('#site-radio').removeClass("radio-selected");
+                    $('#site-radio').addClass("radio-not-selected");
+                    $('#campus-dir-radio').removeClass("radio-not-selected");
+                    $('#campus-dir-radio').addClass("radio-selected");
+                });
+                $('#site-radio').click(function() {
+                    $('#campus-dir-radio').removeClass("radio-selected");
+                    $('#campus-dir-radio').addClass("radio-not-selected");
+                    $('#site-radio').removeClass("radio-not-selected");
+                    $('#site-radio').addClass("radio-selected");
+                });
+                //handles search button
+                $("#search-button").click(function() {
+                    searchStr = jQuery.trim($("#search-box").val());
+                    if (searchStr != "") {
+                        if ($("#site-radio").hasClass("radio-selected")) {                            
+                            window.location = "/search.aspx?q=" + searchStr;
+                        } else if ($("#campus-dir-radio").hasClass("radio-selected")) {
+                            window.location = "http://phonebook.capilanou.ca/phonebook/phonebook.serv?search=" + searchStr;
+                        }
+                    }
+                });
+                //handles enter key
+                $('#aspnetForm').keypress(function(e) {
+                    if (e.keyCode == 13) {
+                        var searchStr = "";
+                        //if on search page...
+                        if (location.href.search((/search.aspx/i)) != -1) {
+                            if ($("#site-radio").hasClass("radio-selected")) {
+                                if (jQuery.trim($("#search-box").val()) != "") {
+                                    $('.gsc-input').val(jQuery.trim($("#search-box").val()));
+                                    $("#search-box").val("");
+                                    $('.gsc-search-button').trigger('click');
+                                } else {
+                                    $('.gsc-search-button').trigger('click');
+                                }
+                            } else if ($("#campus-dir-radio").hasClass("radio-selected")) {
+                                window.location = "http://phonebook.capilanou.ca/phonebook/phonebook.serv?search=" + jQuery.trim($("#search-box").val());
+                            }
+                        } else {
+                            searchStr = jQuery.trim($("#search-box").val());
+                            if (searchStr != "") {
+                                if ($("#site-radio").hasClass("radio-selected")) {
+                                    window.location = "/search.aspx?q=" + searchStr;
+                                } else if ($("#campus-dir-radio").hasClass("radio-selected")) {
+                                    window.location = "http://phonebook.capilanou.ca/phonebook/phonebook.serv?search=" + searchStr;
+                                }
+                            }
+                        }
+                        return false;
+                    }
+                });
+            });
+        </script>
+
+        <!-- Facebook Pixel Code -TF-C&M general fb conversion pixel ID -->
+    <script>
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return; n = f.fbq = function () {
+                n.callMethod ?
+                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            }; if (!f._fbq) f._fbq = n;
+            n.push = n; n.loaded = !0; n.version = '2.0'; n.queue = []; t = b.createElement(e); t.async = !0;
+            t.src = v; s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s)
+        }(window,
+        document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+
+        fbq('init', '157346148004081');
+        fbq('track', "PageView");</script>
+    <noscript>
+        <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=157346148004081&ev=PageView&noscript=1" />
+    </noscript>
+<!-- End Facebook Pixel Code -->
+
+     <script>
+         (function (i, s, o, g, r, a, m) {
+             i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                 (i[r].q = i[r].q || []).push(arguments)
+             }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+         })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+         ga('create', 'UA-1507277-1', 'auto');
+         ga('send', 'pageview');
+
+    </script> 
+         <!--sharethis icons-tf-2/20/2016-->
+        <script type="text/javascript">var switchTo5x = true;</script>
+        <script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>
+        <script type="text/javascript">stLight.options({ publisher: "570972d5-6bfb-4a3a-a536-98ae44376a0e", doNotHash: false, doNotCopy: false, hashAddressBar: false });</script>
+
+<!--<div id="queries"></div>-->
+<!--<script src="https://cse.google.com/query_renderer.js"></script>-->
+<!--<script src="https://cse.google.com/api/017860802598013033650/cse/6xfvil9glla/queries/js?view=day&callback=(new+PopularQueryRenderer(document.getElementById(%22queries%22))).render"></script>-->
+
+
+    <meta name="Description" content="A teaching-focused university in North Vancouver, B.C. with programs in Arts, Sciences, Fine and Applied Arts, Business, Tourism, Outdoor Recreation, Health, Education, Preparatory Studies and more."><meta name="Keywords" content="Capilano University,Capilano U,British Columbia universities,Canadian University,Cap U,arts education,business courses,health education,tourism,science education,bachelor degree,Capilano College,degree,diploma,certificate,postsecondary,post-secondary"></head>
+    <body>
+        <form method="post" action="/current/policies/Privacy-Statement/" id="aspnetForm">
+<div class="aspNetHidden">
+<input type="hidden" name="EktronClientManager" id="EktronClientManager" value="-1759591071,1338359439,-569449246,-1939951303,-1080527330,-1687560804,-1388997516,2009761168,27274999,1979897163,-422906301,-1818005853,-1008700845,1597669889,-1793043690,646986939,1628691364,-300771134,1985268503">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTY3MzA5MTgzNg9kFgJmD2QWAgIDEGRkFgICEQ9kFgoCAQ8WAh4EVGV4dAVmPGEgaWQ9J21lbnVfdGl0bGUnIGhyZWY9Jy9Xb3JrQXJlYS9saW5raXQuYXNweD9MaW5rSWRlbnRpZmllcj1JRCZhbXA7SXRlbUlEPTQ4NzInPkN1cnJlbnQgU3R1ZGVudHM8L2E+ZAIJD2QWAmYPZBYEZg9kFgICAw9kFgJmD2QWAgIBDxYCHgVjbGFzcwUQZHJvcHpvbmUgUEJDbGVhcmQCAQ9kFgICAQ9kFgJmD2QWAgIBD2QWAgIBDxYCHgtfIUl0ZW1Db3VudAIBFgJmD2QWBmYPFQIUIHN0eWxlPSd3aWR0aDoyMDBweCcAZAIBDxYCHgdWaXNpYmxlaGQCAw8WAh8CZmQCDw8PFgIfAAURUHJpdmFjeSBTdGF0ZW1lbnRkZAIRD2QWAmYPZBYEZg9kFgICAw9kFgJmD2QWAgIBDxYCHwEFEGRyb3B6b25lIFBCQ2xlYXJkAgEPZBYCAgEPZBYCZg9kFgICAQ9kFgICAQ8WAh8CAgEWAmYPZBYGZg8VAhMgc3R5bGU9J3dpZHRoOjEwMCUnAGQCAQ8WAh8DaGQCAw8WAh8CAgFkAhMPZBYCZg9kFgRmD2QWAgIDD2QWAmYPZBYCAgEPFgIfAQUQZHJvcHpvbmUgUEJDbGVhcmQCAQ9kFgICAQ9kFgJmD2QWAgIBD2QWAgIBDxYCHwICARYCZg9kFgZmDxUCFCBzdHlsZT0nd2lkdGg6MTkwcHgnAGQCAQ8WAh8DaGQCAw8WAh8CZmQYBwUiY3RsMDAkY3BoJGR6Q29udmVyc2lvbnMkdXhVWFN3aXRjaA8PZAIBZAUnY3RsMDAkY3BoJGR6UmlnaHRTaWRlQ29udGVudCR1eFVYU3dpdGNoDw9kAgFkBSJjdGwwMCRjcGgkZHpNYWluQ29udGVudCR1eFVYU3dpdGNoDw9kAgFkBVtjdGwwMCRjcGgkZHpNYWluQ29udGVudCR1eENvbHVtbkRpc3BsYXkkY3RsMDAkdXhDb250cm9sQ29sdW1uJGN0bDAwJHV4V2lkZ2V0SG9zdCR1eFVYU3dpdGNoDw9kAgFkBRNjdGwwMCRwaCR1eFVYU3dpdGNoDw9kAgFkBWxjdGwwMCRjcGgkZHpNYWluQ29udGVudCR1eENvbHVtbkRpc3BsYXkkY3RsMDAkdXhDb250cm9sQ29sdW1uJGN0bDAwJHV4V2lkZ2V0SG9zdCR1eFdpZGdldEhvc3Rfd2lkZ2V0JFZpZXdTZXQPD2RmZAUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgQFDmN0bDAwJGliU2VhcmNoBQ1jdGwwMCRyZG9TaXRlBRJjdGwwMCRyZG9EaXJlY3RvcnkFEmN0bDAwJHJkb0RpcmVjdG9yeUvCPurLGwCqMzxBznYXvnxliUWsShXoPo5W107+r6l4">
+</div>
+
+
+<script type="text/javascript">
+//<![CDATA[
+__$BubbleCloseIconPath='/WorkArea/';//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=i1m2AwGZ-lIb3cqOiS_P1mK_2XahBlhLcZ3r8j7gCaUCBDDVm4s5Z_5qmWCLl4gGq2-HQ5UN7CmXB0PwVlu3TZOWyyTTWpbay_fPj121Q0Ts4UAbvNZdNqvbOLD9zqUSJA6eM_CjIxgTYYIjPCAoTkxRQAOtxj75eqW7PUI-II41&amp;t=ffffffffad4b7194" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="124CECF9">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAUMCEMlKioI9WRquoVnZJ943dEQnLv/97HmcclLzLktNuPt1qWUDW/Nq87Nip0964e3xHQgnBVItY4V45kadwwJXg4QRMPAss/wLf4m/v8S89zAztdl1Yy0Jevq1JCee7bsN7yNDSKCnHu6MaiEvEAJ">
+</div>
+             <div id="pagebuilder-controls">
+                
+
+    <script type="text/javascript">
+        Ektron.PBSettings = { 'dontClose': false }
+    </script>
+
+
+
+
+        <div class="ektron-ux-UITheme ux-app-siteApppageBuilder-setSizeTemplate ui-draggable" style="position: relative;">
+            
+        </div>
+        <script id="EktronScriptBlocknrkjy" type="text/javascript">
+
+Ektron.ready(function(event, eventName){
+
+                $ektron(".ux-app-siteApppageBuilder-setSizeTemplate .ui-dialog-buttonpane a").button();
+                $ektron(".ux-app-siteApppageBuilder-setSizeTemplate .framework").accordion({
+                    heightStyle: "content",
+                    activate: function(event, ui){
+                        $ektron(ui).closest(".ui-accordion").accordion("refresh");
+                    }
+                });
+                $ektron(".ux-app-siteApppageBuilder-setSizeTemplate").draggable({ handle: "div.ui-dialog-titlebar ", containment: $ektron("body") });
+            
+});
+
+
+</script>
+		
+        
+    
+
+             </div>
+            <!-- container defines the entire page -->        
+            <div id="container">                  
+            <a name="top" id="top"></a>            
+                <!-- header-top defines the top of the header -->
+                     <div id="print-logo">
+                         <img alt="Capilano University" src="/images/logo/logo-bw.jpg">
+                     </div>
+                <div id="header">	   
+		            <a href="/home.aspx"><img id="logo" alt="Capilano University" src="/images/spacer.gif"></a>  	
+	                 
+	                <div id="nav-campuses">
+	                    
+<ul><li><a target="_parent" href="/">North Vancouver</a></li><li><a target="_parent" href="/sunshine/">Sunshine Coast</a></li></ul><script type="text/javascript">
+function GetPreviewURL() {
+ var url = self.location.href;
+ var arString = url.split('?')
+ if (arString.length > 1) { url = url + "&amp;cmsMode=Preview"}
+ else { url = url + "?cmsMode=Preview"}
+ return url;
+}
+</script><script type="text/javascript">
+function PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) { return (EkTbWebMenuPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize));}
+function ecmPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize) { 
+ PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) ; 
+ } 
+</script>
+
+	                </div>
+                    <div class="clear"></div>
+	                <div id="right-header-box">  
+	                    <div id="utilities">
+                            
+<ul><li><a target="_parent" href="/current/">myCap</a></li><li><a target="_parent" href="/myCap-for-Employees/">Employees</a></li><li><a target="_parent" href="/help/">Help</a></li></ul><script type="text/javascript">
+function GetPreviewURL() {
+ var url = self.location.href;
+ var arString = url.split('?')
+ if (arString.length > 1) { url = url + "&amp;cmsMode=Preview"}
+ else { url = url + "?cmsMode=Preview"}
+ return url;
+}
+</script><script type="text/javascript">
+function PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) { return (EkTbWebMenuPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize));}
+function ecmPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize) { 
+ PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) ; 
+ } 
+</script>
+	                    
+	                    </div>
+                        <div class="clear"></div>                         
+                        <div id="position_and_width">                            
+                            <input id="search-button" type="button" value="" name="search-button">   
+                            <input id="search-box" type="text">  
+                           <!-- <input type="image" name="ctl00$ibSearch" id="ctl00_ibSearch" src="../../../images/spacer.gif" align="middle" style="height:13px;width:17px;" />-->
+                           <!-- <input name="ctl00$txtSearch" type="text" id="ctl00_txtSearch" />-->   
+                        <div class="clear"></div>
+                        <div id="search-selection">                     
+                        <ul>
+                             <li id="site-radio" class="radio-selected">Site&nbsp;</li> 
+                             <li id="campus-dir-radio" class="radio-not-selected">Campus Directory&nbsp;</li>
+                        </ul>
+                      </div>
+                         </div>
+                            <!--Site <span class="styled"><input id="ctl00_rdoSite" type="radio" name="ctl00$SiteDirSearch" value="rdoSite" checked="checked" /></span>  -->                         
+                            
+                          <!--  Campus Directory <span class="styled"><input id="ctl00_rdoDirectory" type="radio" name="ctl00$SiteDirSearch" value="rdoDirectory" /></span>  -->                         
+			       
+                       
+                        </div>   
+                    </div> 
+                  	
+	            <div class="clear"></div>
+                    <!-- header-main-nav defines the global navigation bar in the header -->  
+                    <div id="header-main-nav">
+	                    <div id="nav-1">
+                            
+<ul><li><a target="_parent" href="/">Home</a></li><li><a target="_parent" href="/programs/">Programs &amp; Courses</a></li><li><a target="_parent" href="/admissions/">Admissions</a></li><li><a target="_parent" href="/services/">Services</a></li><li><a target="_parent" href="/about/">About Cap</a></li><li><a target="_parent" href="/employment/">Employment</a></li><li><a target="_parent" href="/giving/">Giving to Cap</a></li><li><a target="_parent" href="/contact/">Contact Us</a></li></ul><script type="text/javascript">
+function GetPreviewURL() {
+ var url = self.location.href;
+ var arString = url.split('?')
+ if (arString.length > 1) { url = url + "&amp;cmsMode=Preview"}
+ else { url = url + "?cmsMode=Preview"}
+ return url;
+}
+</script><script type="text/javascript">
+function PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) { return (EkTbWebMenuPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize));}
+function ecmPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize) { 
+ PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) ; 
+ } 
+</script>
+	                    	                    
+	                    </div>
+	                      <div class="emergency">
+                            <a href="/contact/Emergency/">Emergency</a>
+                        </div>
+ <!--[if lte IE 6]>
+<p>To view the Capilano University website please upgrade your web browser from the <a href="http://www.microsoft.com/windows/internet-explorer/default.aspx">Microsoft Internet Explorer</a> website.</p>
+<p>North Vancouver Campus | 2055 Purcell Way, North Vancouver, British Columbia Canada V7J 3H5 Tel: 604.986.1911<br/>
+Squamish Campus | 1150 Carson Place, Squamish, British Columbia Canada V8B 0B1 Tel: 604.892.5322<br/>
+Sunshine Coast Campus | 5627 Inlet Avenue, Sechelt, British Columbia Canada V0N 3A0 Tel: 604.885.9310</p>
+<![endif]-->
+                    </div>              
+               
+             <!-- end header -->
+                                  
+                
+    <div id="wrapper">
+        <!-- container 2 -->
+        <div id="container2">
+            <!-- left-column defines column on the left in the 3 column layout --> 
+            <div id="left-column"> 
+                <!-- menu title -->
+                <div class="section-title">
+                    <a id="menu_title" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=4872">Current Students</a>
+                </div>
+                
+                <div id="left-top-menu">
+                <div id="ctl00_cph_mnuTop" class="usersClass">
+	<link type="text/css" rel="stylesheet" href="/css/expand1.css"><div class="expand1"><div class="ekflexmenu" id="ee3c658bd_1152_0_ekflexmenu"><div class="ekflexmenu_menu_level_0 ekflexmenu_submenu"><ul class="ekflexmenu_submenu_items" id="ee3c658bd_1152_0_submenu_items"></ul></div></div></div><script language="JavaScript" type="text/javascript">
+			// Pass server control properties, etc., to Javascript:
+			if (("undefined" == typeof window.ekFlexMenu_ekflexmenuArray)
+				|| (null == window.ekFlexMenu_ekflexmenuArray)) {
+				window.ekFlexMenu_ekflexmenuArray = new Array;
+			}
+			window.ekFlexMenu_ekflexmenuArray[window.ekFlexMenu_ekflexmenuArray.length] = "ee3c658bd_1152_0";
+			//
+			if (("undefined" == typeof window.ekFlexMenu_swRev)
+			|| (null == window.ekFlexMenu_swRev)) {
+			window.ekFlexMenu_swRev = new Array;
+			}
+			window.ekFlexMenu_swRev["ee3c658bd"] = "8.0.0.073";
+			//
+			if (("undefined" == typeof window.ekFlexMenu_startupSubmenuBranchId)
+			|| (null == window.ekFlexMenu_startupSubmenuBranchId)) {
+			window.ekFlexMenu_startupSubmenuBranchId = new Array;
+			}
+			window.ekFlexMenu_startupSubmenuBranchId["ee3c658bd"] = "";
+			//
+			if (("undefined" == typeof window.ekFlexMenu_autoCollapseBranches)
+			|| (null == window.ekFlexMenu_autoCollapseBranches)) {
+			window.ekFlexMenu_autoCollapseBranches = new Array;
+			}
+			window.ekFlexMenu_autoCollapseBranches["ee3c658bd"] = "true";
+			//
+			if (("undefined" == typeof window.ekFlexMenu_startCollapsed)
+			|| (null == window.ekFlexMenu_startCollapsed)) {
+			window.ekFlexMenu_startCollapsed = new Array;
+			}
+			window.ekFlexMenu_startCollapsed["ee3c658bd"] = "true";
+			//
+			if (("undefined" == typeof window.ekFlexMenu_startWithRootFolderCollapsed)
+			|| (null == window.ekFlexMenu_startWithRootFolderCollapsed)) {
+			window.ekFlexMenu_startWithRootFolderCollapsed = new Array;
+			}
+			window.ekFlexMenu_startWithRootFolderCollapsed["ee3c658bd"] = "false";
+			//
+			if (("undefined" == typeof window.ekFlexMenu_masterControlIdHash)
+				|| (null == window.ekFlexMenu_masterControlIdHash)) {
+				window.ekFlexMenu_masterControlIdHash = new Array;
+			}
+			window.ekFlexMenu_masterControlIdHash["ee3c658bd"] = "";
+			
+			//
+			if (("undefined" == typeof window.ekFlexMenu_ajaxEnabled)
+			|| (null == window.ekFlexMenu_ajaxEnabled)) {
+			window.ekFlexMenu_ajaxEnabled = new Array;
+			}
+			window.ekFlexMenu_ajaxEnabled["ee3c658bd"] = "false";
+			//
+			if (("undefined" == typeof window.ekFlexMenu_ajaxWSPath)
+			|| (null == window.ekFlexMenu_ajaxWSPath)) {
+			window.ekFlexMenu_ajaxWSPath = new Array;
+			}
+			window.ekFlexMenu_ajaxWSPath["ee3c658bd"] = "/WorkArea/webservices/";
+			// 
+			if (("undefined" == typeof window.ekFlexMenu_displayXslt)
+			|| (null == window.ekFlexMenu_displayXslt)) {
+			window.ekFlexMenu_displayXslt = new Array;
+			}
+			window.ekFlexMenu_displayXslt["ee3c658bd"] = "/xslt/Demo.xsl";
+			//
+			if (("undefined" == typeof window.ekFlexMenu_cacheInterval)
+			|| (null == window.ekFlexMenu_cacheInterval)) {
+			window.ekFlexMenu_cacheInterval = new Array;
+			}
+			window.ekFlexMenu_cacheInterval["ee3c658bd"] = "0";
+			//
+			//////////////////////////////////////////////////////////////////
+			// Add event handler calling functions:
+			//   Test to ensure that ekFlexMenu is valid/reachable (this is needed 
+			//   to prevent intermittent Javascript errors that can occur if user
+			//   causes event to fire while page is being torn down (i.e. a link is
+			//   clicked, browser is fetching new page, movement causes mouse-out...):
+			function ekFlexMenu_IsValid(obj) {
+				return (("undefined" != typeof obj) && (null != obj));
+			}
+			function ekFlexMenuPopupMsIn(event) {
+				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.mouseIn)) {
+					return (ekFlexMenu.mouseIn(event));
+				}
+				return (true);
+			}
+			function ekFlexMenuPopupMsOut(event) {
+				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.mouseOut)) {
+					return (ekFlexMenu.mouseOut(event));
+				}
+				return (true);
+			}
+			function ekFlexMenuKey(event) {
+				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.menuBtnKeyHdlr)) {
+					return (ekFlexMenu.menuBtnKeyHdlr(event));
+				}
+				return (true);
+			}
+			function ekFlexMenuMsOut(event) {
+				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.menuBtnMouseOutHdlr)) {
+					return (ekFlexMenu.menuBtnMouseOutHdlr(event));
+				}
+				return (true);
+			}
+			function ekFlexMenuMsOvr(event) {
+				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.menuBtnMouseOverHdlr)) {
+					return (ekFlexMenu.menuBtnMouseOverHdlr(event));
+				}
+				return (true);
+			}
+			function ekFlexMenuClk(event) {
+				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.menuBtnClickHdlr)) {
+					return (ekFlexMenu.menuBtnClickHdlr(event));
+				}
+				return (true);
+			}
+		</script>
+</div>  
+			    </div>              
+                
+                <div id="left-middle-menu">
+                <div id="ctl00_cph_mnuMiddle" class="usersClass">
+	<link type="text/css" rel="stylesheet" href="/css/expand1.css"><div class="expand1"><div class="ekflexmenu" id="eade3329b_1562_0_ekflexmenu"><div class="ekflexmenu_menu_level_0 ekflexmenu_submenu"><ul class="ekflexmenu_submenu_items" id="eade3329b_1562_0_submenu_items"><li class="ekflexmenu_menu_level_1 ekflexmenu_submenu ekflexmenu_startlevel" id="eade3329b_1562_1563"><a id="eade3329b_1562_1563_button" tabindex="0" onkeydown="return (ekFlexMenuKey(event));" onblur="return (ekFlexMenuMsOut(event));" onfocus="return (ekFlexMenuMsOvr(event));" onclick="return (ekFlexMenuClk(event));" onmouseover="return (ekFlexMenuMsOvr(event));" onmouseout="return (ekFlexMenuMsOut(event));" class="ekflexmenu_button" href="http://capilanou.ca/Interior3Col.pb.aspx?pageid=6854&amp;ekfxmen_noscript=1&amp;ekfxmensel=eade3329b_1562_1563">Registration</a><input type="hidden" id="eade3329b_1562_1563_parentid" value="eade3329b_1562_1562"><ul id="eade3329b_1562_1563_submenu_items" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="/how-to-register/" target="_self">How to Register</a></li><li><a class="ekflexmenu_link" href="/register-now/" target="_self">Register Now</a></li><li><a class="ekflexmenu_link" href="/reg-dates/" target="_self">Registration Dates</a></li><li><a class="ekflexmenu_link" href="/Registration-Time-Tickets.html" target="_self">Registration Time Tickets</a></li></ul></li><li><a class="ekflexmenu_link" href="/current/Academic-Advising/" target="_self">Academic Advising</a></li><li><a class="ekflexmenu_link" href="/current/dates/" target="_self">Important Dates &amp; Schedules</a></li><li><a class="ekflexmenu_link" href="/current/mycapschedule/" target="_self">myCap Schedule</a></li><li><a class="ekflexmenu_link" href="/webmail/mail.html" target="_self">Email For Applicants &amp; Students</a></li><li><a class="ekflexmenu_link" href="/current/Final-Exams/" target="_self">Final Exams</a></li><li><a class="ekflexmenu_link" href="/current/Grades/" target="_self">Grades</a></li><li><a class="ekflexmenu_link" href="/current/transfer/" target="_self">Transfer Credit</a></li><li><a class="ekflexmenu_link" href="/current/transcripts-and-forms/" target="_self">Transcripts &amp; Forms</a></li><li class="ekflexmenu_menu_level_1 ekflexmenu_submenu ekflexmenu_startlevel" id="eade3329b_1562_1564"><a id="eade3329b_1562_1564_button" tabindex="0" onkeydown="return (ekFlexMenuKey(event));" onblur="return (ekFlexMenuMsOut(event));" onfocus="return (ekFlexMenuMsOvr(event));" onclick="return (ekFlexMenuClk(event));" onmouseover="return (ekFlexMenuMsOvr(event));" onmouseout="return (ekFlexMenuMsOut(event));" class="ekflexmenu_button" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=8755">Graduation &amp; Convocation</a><input type="hidden" id="eade3329b_1562_1564_parentid" value="eade3329b_1562_1562"><ul id="eade3329b_1562_1564_submenu_items" class="ekflexmenu_submenu_items_hidden"><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu" id="eade3329b_1562_19327352950"><a id="eade3329b_1562_19327352950_button" tabindex="0" onkeydown="return (ekFlexMenuKey(event));" onblur="return (ekFlexMenuMsOut(event));" onfocus="return (ekFlexMenuMsOvr(event));" onclick="return (ekFlexMenuClk(event));" onmouseover="return (ekFlexMenuMsOvr(event));" onmouseout="return (ekFlexMenuMsOut(event));" class="ekflexmenu_button" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=15633">Application for Graduation Assessment</a><input type="hidden" id="eade3329b_1562_19327352950_parentid" value="eade3329b_1562_1564"></li><li><a class="ekflexmenu_link" href="/convocation/" target="_self">Convocation</a></li></ul></li><li><a class="ekflexmenu_link" href="/current/Services-for-Students/" target="_self">Services for Students</a></li><li><a class="ekflexmenu_link" href="/current/volunteer/" target="_self">Get Involved - Volunteer</a></li><li><a class="ekflexmenu_link" href="/Cap-App/" target="_self">The Cap App</a></li><li><a class="ekflexmenu_link" href="/current/fees-finances/" target="_self">Fees &amp; Finances</a></li><li><a class="ekflexmenu_link" href="/current/policies/" target="_self">Policies &amp; Procedures</a></li><li><a class="ekflexmenu_link" href="/current/calendar/" target="_self">Capilano University Calendar</a></li><li><a class="ekflexmenu_link" href="/current/FAQ/" target="_self">Frequently Asked Questions</a></li></ul></div></div></div><script language="JavaScript" type="text/javascript">
+			// Pass server control properties, etc., to Javascript:
+			if (("undefined" == typeof window.ekFlexMenu_ekflexmenuArray)
+				|| (null == window.ekFlexMenu_ekflexmenuArray)) {
+				window.ekFlexMenu_ekflexmenuArray = new Array;
+			}
+			window.ekFlexMenu_ekflexmenuArray[window.ekFlexMenu_ekflexmenuArray.length] = "eade3329b_1562_0";
+			//
+			if (("undefined" == typeof window.ekFlexMenu_swRev)
+			|| (null == window.ekFlexMenu_swRev)) {
+			window.ekFlexMenu_swRev = new Array;
+			}
+			window.ekFlexMenu_swRev["eade3329b"] = "8.0.0.073";
+			//
+			if (("undefined" == typeof window.ekFlexMenu_startupSubmenuBranchId)
+			|| (null == window.ekFlexMenu_startupSubmenuBranchId)) {
+			window.ekFlexMenu_startupSubmenuBranchId = new Array;
+			}
+			window.ekFlexMenu_startupSubmenuBranchId["eade3329b"] = "";
+			//
+			if (("undefined" == typeof window.ekFlexMenu_autoCollapseBranches)
+			|| (null == window.ekFlexMenu_autoCollapseBranches)) {
+			window.ekFlexMenu_autoCollapseBranches = new Array;
+			}
+			window.ekFlexMenu_autoCollapseBranches["eade3329b"] = "true";
+			//
+			if (("undefined" == typeof window.ekFlexMenu_startCollapsed)
+			|| (null == window.ekFlexMenu_startCollapsed)) {
+			window.ekFlexMenu_startCollapsed = new Array;
+			}
+			window.ekFlexMenu_startCollapsed["eade3329b"] = "true";
+			//
+			if (("undefined" == typeof window.ekFlexMenu_startWithRootFolderCollapsed)
+			|| (null == window.ekFlexMenu_startWithRootFolderCollapsed)) {
+			window.ekFlexMenu_startWithRootFolderCollapsed = new Array;
+			}
+			window.ekFlexMenu_startWithRootFolderCollapsed["eade3329b"] = "false";
+			//
+			if (("undefined" == typeof window.ekFlexMenu_masterControlIdHash)
+				|| (null == window.ekFlexMenu_masterControlIdHash)) {
+				window.ekFlexMenu_masterControlIdHash = new Array;
+			}
+			window.ekFlexMenu_masterControlIdHash["eade3329b"] = "";
+			
+			//
+			if (("undefined" == typeof window.ekFlexMenu_ajaxEnabled)
+			|| (null == window.ekFlexMenu_ajaxEnabled)) {
+			window.ekFlexMenu_ajaxEnabled = new Array;
+			}
+			window.ekFlexMenu_ajaxEnabled["eade3329b"] = "false";
+			//
+			if (("undefined" == typeof window.ekFlexMenu_ajaxWSPath)
+			|| (null == window.ekFlexMenu_ajaxWSPath)) {
+			window.ekFlexMenu_ajaxWSPath = new Array;
+			}
+			window.ekFlexMenu_ajaxWSPath["eade3329b"] = "/WorkArea/webservices/";
+			// 
+			if (("undefined" == typeof window.ekFlexMenu_displayXslt)
+			|| (null == window.ekFlexMenu_displayXslt)) {
+			window.ekFlexMenu_displayXslt = new Array;
+			}
+			window.ekFlexMenu_displayXslt["eade3329b"] = "/xslt/Demo.xsl";
+			//
+			if (("undefined" == typeof window.ekFlexMenu_cacheInterval)
+			|| (null == window.ekFlexMenu_cacheInterval)) {
+			window.ekFlexMenu_cacheInterval = new Array;
+			}
+			window.ekFlexMenu_cacheInterval["eade3329b"] = "0";
+			//
+			//////////////////////////////////////////////////////////////////
+			// Add event handler calling functions:
+			//   Test to ensure that ekFlexMenu is valid/reachable (this is needed 
+			//   to prevent intermittent Javascript errors that can occur if user
+			//   causes event to fire while page is being torn down (i.e. a link is
+			//   clicked, browser is fetching new page, movement causes mouse-out...):
+			function ekFlexMenu_IsValid(obj) {
+				return (("undefined" != typeof obj) && (null != obj));
+			}
+			function ekFlexMenuPopupMsIn(event) {
+				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.mouseIn)) {
+					return (ekFlexMenu.mouseIn(event));
+				}
+				return (true);
+			}
+			function ekFlexMenuPopupMsOut(event) {
+				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.mouseOut)) {
+					return (ekFlexMenu.mouseOut(event));
+				}
+				return (true);
+			}
+			function ekFlexMenuKey(event) {
+				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.menuBtnKeyHdlr)) {
+					return (ekFlexMenu.menuBtnKeyHdlr(event));
+				}
+				return (true);
+			}
+			function ekFlexMenuMsOut(event) {
+				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.menuBtnMouseOutHdlr)) {
+					return (ekFlexMenu.menuBtnMouseOutHdlr(event));
+				}
+				return (true);
+			}
+			function ekFlexMenuMsOvr(event) {
+				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.menuBtnMouseOverHdlr)) {
+					return (ekFlexMenu.menuBtnMouseOverHdlr(event));
+				}
+				return (true);
+			}
+			function ekFlexMenuClk(event) {
+				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.menuBtnClickHdlr)) {
+					return (ekFlexMenu.menuBtnClickHdlr(event));
+				}
+				return (true);
+			}
+		</script>
+</div>
+			        </div>
+                
+                <div id="left-bottom-menu">
+                <div id="ctl00_cph_mnuBottom" class="usersClass">
+	<link type="text/css" rel="stylesheet" href="/css/expand1.css"><div class="expand1"><div class="ekflexmenu" id="e7056be25_510_0_ekflexmenu"><div class="ekflexmenu_menu_level_0 ekflexmenu_submenu"><ul class="ekflexmenu_submenu_items" id="e7056be25_510_0_submenu_items"><li class="ekflexmenu_menu_level_1 ekflexmenu_submenu ekflexmenu_startlevel" id="e7056be25_510_843"><a id="e7056be25_510_843_button" tabindex="0" onkeydown="return (ekFlexMenuKey(event));" onblur="return (ekFlexMenuMsOut(event));" onfocus="return (ekFlexMenuMsOvr(event));" onclick="return (ekFlexMenuClk(event));" onmouseover="return (ekFlexMenuMsOvr(event));" onmouseout="return (ekFlexMenuMsOut(event));" class="ekflexmenu_button" href="http://capilanou.ca/Interior3Col.pb.aspx?pageid=6854&amp;ekfxmen_noscript=1&amp;ekfxmensel=e7056be25_510_843">News &amp; Events</a><input type="hidden" id="e7056be25_510_843_parentid" value="e7056be25_510_510"><ul id="e7056be25_510_843_submenu_items" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="/audnews.aspx?aud=155" target="_self">News</a></li><li><a class="ekflexmenu_link" href="/audevents.aspx?aud=161" target="_self">Events</a></li></ul></li><li><a class="ekflexmenu_link" href="/current/Contact-Us/" target="_self">Contact Us</a></li></ul></div></div></div><script language="JavaScript" type="text/javascript">
+			// Pass server control properties, etc., to Javascript:
+			if (("undefined" == typeof window.ekFlexMenu_ekflexmenuArray)
+				|| (null == window.ekFlexMenu_ekflexmenuArray)) {
+				window.ekFlexMenu_ekflexmenuArray = new Array;
+			}
+			window.ekFlexMenu_ekflexmenuArray[window.ekFlexMenu_ekflexmenuArray.length] = "e7056be25_510_0";
+			//
+			if (("undefined" == typeof window.ekFlexMenu_swRev)
+			|| (null == window.ekFlexMenu_swRev)) {
+			window.ekFlexMenu_swRev = new Array;
+			}
+			window.ekFlexMenu_swRev["e7056be25"] = "8.0.0.073";
+			//
+			if (("undefined" == typeof window.ekFlexMenu_startupSubmenuBranchId)
+			|| (null == window.ekFlexMenu_startupSubmenuBranchId)) {
+			window.ekFlexMenu_startupSubmenuBranchId = new Array;
+			}
+			window.ekFlexMenu_startupSubmenuBranchId["e7056be25"] = "";
+			//
+			if (("undefined" == typeof window.ekFlexMenu_autoCollapseBranches)
+			|| (null == window.ekFlexMenu_autoCollapseBranches)) {
+			window.ekFlexMenu_autoCollapseBranches = new Array;
+			}
+			window.ekFlexMenu_autoCollapseBranches["e7056be25"] = "true";
+			//
+			if (("undefined" == typeof window.ekFlexMenu_startCollapsed)
+			|| (null == window.ekFlexMenu_startCollapsed)) {
+			window.ekFlexMenu_startCollapsed = new Array;
+			}
+			window.ekFlexMenu_startCollapsed["e7056be25"] = "true";
+			//
+			if (("undefined" == typeof window.ekFlexMenu_startWithRootFolderCollapsed)
+			|| (null == window.ekFlexMenu_startWithRootFolderCollapsed)) {
+			window.ekFlexMenu_startWithRootFolderCollapsed = new Array;
+			}
+			window.ekFlexMenu_startWithRootFolderCollapsed["e7056be25"] = "false";
+			//
+			if (("undefined" == typeof window.ekFlexMenu_masterControlIdHash)
+				|| (null == window.ekFlexMenu_masterControlIdHash)) {
+				window.ekFlexMenu_masterControlIdHash = new Array;
+			}
+			window.ekFlexMenu_masterControlIdHash["e7056be25"] = "";
+			
+			//
+			if (("undefined" == typeof window.ekFlexMenu_ajaxEnabled)
+			|| (null == window.ekFlexMenu_ajaxEnabled)) {
+			window.ekFlexMenu_ajaxEnabled = new Array;
+			}
+			window.ekFlexMenu_ajaxEnabled["e7056be25"] = "false";
+			//
+			if (("undefined" == typeof window.ekFlexMenu_ajaxWSPath)
+			|| (null == window.ekFlexMenu_ajaxWSPath)) {
+			window.ekFlexMenu_ajaxWSPath = new Array;
+			}
+			window.ekFlexMenu_ajaxWSPath["e7056be25"] = "/WorkArea/webservices/";
+			// 
+			if (("undefined" == typeof window.ekFlexMenu_displayXslt)
+			|| (null == window.ekFlexMenu_displayXslt)) {
+			window.ekFlexMenu_displayXslt = new Array;
+			}
+			window.ekFlexMenu_displayXslt["e7056be25"] = "/xslt/Demo.xsl";
+			//
+			if (("undefined" == typeof window.ekFlexMenu_cacheInterval)
+			|| (null == window.ekFlexMenu_cacheInterval)) {
+			window.ekFlexMenu_cacheInterval = new Array;
+			}
+			window.ekFlexMenu_cacheInterval["e7056be25"] = "0";
+			//
+			//////////////////////////////////////////////////////////////////
+			// Add event handler calling functions:
+			//   Test to ensure that ekFlexMenu is valid/reachable (this is needed 
+			//   to prevent intermittent Javascript errors that can occur if user
+			//   causes event to fire while page is being torn down (i.e. a link is
+			//   clicked, browser is fetching new page, movement causes mouse-out...):
+			function ekFlexMenu_IsValid(obj) {
+				return (("undefined" != typeof obj) && (null != obj));
+			}
+			function ekFlexMenuPopupMsIn(event) {
+				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.mouseIn)) {
+					return (ekFlexMenu.mouseIn(event));
+				}
+				return (true);
+			}
+			function ekFlexMenuPopupMsOut(event) {
+				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.mouseOut)) {
+					return (ekFlexMenu.mouseOut(event));
+				}
+				return (true);
+			}
+			function ekFlexMenuKey(event) {
+				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.menuBtnKeyHdlr)) {
+					return (ekFlexMenu.menuBtnKeyHdlr(event));
+				}
+				return (true);
+			}
+			function ekFlexMenuMsOut(event) {
+				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.menuBtnMouseOutHdlr)) {
+					return (ekFlexMenu.menuBtnMouseOutHdlr(event));
+				}
+				return (true);
+			}
+			function ekFlexMenuMsOvr(event) {
+				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.menuBtnMouseOverHdlr)) {
+					return (ekFlexMenu.menuBtnMouseOverHdlr(event));
+				}
+				return (true);
+			}
+			function ekFlexMenuClk(event) {
+				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.menuBtnClickHdlr)) {
+					return (ekFlexMenu.menuBtnClickHdlr(event));
+				}
+				return (true);
+			}
+		</script>
+</div>
+			    </div>			        
+            </div>
+            <!-- end left-column -->
+              <div id="inside-conversions">
+                
+        <div id="ctl00_cph_dzConversions_uxUpdatePanel" class="">
+	
+                <div id="ctl00_cph_dzConversions_uxDropZone" data-ux-pagebuilder="DropZone">
+                    
+                            <div data-ux-pagebuilder="Column" style="width:200px">
+                                
+                                <ul>
+                                    
+                                </ul>
+                            </div>
+                        
+                </div>
+            
+</div>
+    
+           </div>         
+        </div>
+        <!-- end container 2 -->        
+        <!-- container 3 -->        
+        <div id="container3">
+            
+            <!-- main content -->
+            <div id="main-content"> 
+                <div id="breadcrumb"> 
+                    <a target="_self" href="/Home.aspx" title="">Capilano University</a> &gt; <a target="_self" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=4872" title="">Current Students</a> &gt; <a target="_self" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=5258" title="">Policies &amp; Procedures</a>               
+                </div>  
+              
+                <h1 id="content_title"><span id="ctl00_cph_lblTitle" style="display:inline-block;width:100px;">Privacy Statement</span></h1>    
+                <div class="clear"></div> 
+                <div id="column-zone-1">        
+                
+        <div id="ctl00_cph_dzMainContent_uxUpdatePanel" class="">
+	
+                <div id="ctl00_cph_dzMainContent_uxDropZone" data-ux-pagebuilder="DropZone">
+                    
+                            <div data-ux-pagebuilder="Column" style="width:100%">
+                                
+                                <ul>
+                                    
+                                            <li>
+                                                
+        <div id="ctl00_cph_dzMainContent_uxColumnDisplay_ctl00_uxControlColumn_ctl00_uxWidgetHost_uxUpdatePanel">
+		
+                <div data-ux-pagebuilder="Widget">
+                    
+                    <div class="widgetBody">
+                        
+        <div id="ctl00_cph_dzMainContent_uxColumnDisplay_ctl00_uxControlColumn_ctl00_uxWidgetHost_uxWidgetHost_widget_CB">
+			<p>On some parts of our website you have the option to send us information about yourself that we may need for correspondence or for use in a survey. If you choose to provide us with this information, you consent to its collection and use by the University. Capilano University will not intentionally distribute this information outside of the University. You understand that information transmitted over public networks may be accessed by third parties, and Capilano University will not be liable for any such unauthorized disclosure.</p>
+<p>The CapU webpages may contain links to other sites. We are not responsible for the content and the privacy practices of other websites and encourage you to examine each site's privacy policy and disclaimers and make your own decisions regarding the accuracy, reliability and correctness of material and information found.</p>
+		</div>
+        
+        <span id="ctl00_cph_dzMainContent_uxColumnDisplay_ctl00_uxControlColumn_ctl00_uxWidgetHost_uxWidgetHost_widget_errorLb"></span>
+    
+
+                    </div>
+                </div>
+            
+	</div>
+    
+                                            </li>
+                                        
+                                </ul>
+                            </div>
+                        
+                </div>
+            
+</div>
+    
+               </div> 
+            </div>
+            <!-- end main content -->                                
+            <!-- right-column -->
+            <div id="right-column">                
+               
+        <div id="ctl00_cph_dzRightSideContent_uxUpdatePanel" class="">
+	
+                <div id="ctl00_cph_dzRightSideContent_uxDropZone" data-ux-pagebuilder="DropZone">
+                    
+                            <div data-ux-pagebuilder="Column" style="width:190px">
+                                
+                                <ul>
+                                    
+                                </ul>
+                            </div>
+                        
+                </div>
+            
+</div>
+                   
+            </div>
+            <!-- end right-column -->            
+        </div>
+        <!-- end container 3 -->        
+    </div>
+ <img class="bottom-edge" src="/images/backgrounds/wrapper-bottom.png" alt="" height="10" width="961">
+ 
+
+               <div class="clear"></div>        
+                 <!-- footer defines the footer quicklink lists, global navigation and campus addresses -->                      
+                <div id="footer">                
+                  <!-- footer-list defines 5 quicklinks boxes -->	
+                  <div class="footer-list">	             
+		                   <img src="/images/titles/who.png" width="99" height="13" alt="Who are you?">                         
+                                
+<ul><li><a target="_parent" href="/future/">Future Students</a></li><li><a target="_parent" href="/current/">Current Students</a></li><li><a target="_parent" href="/international/">International</a></li><li><a target="_parent" href="/csee/">Continuing Studies &amp; Exec Ed</a></li><li><a target="_parent" href="/alumni/">Alumni</a></li><li><a target="_parent" href="/parents-families/">Parents &amp; Families</a></li><li><a target="_parent" href="/high-school-counsellors/">High School Counsellors</a></li><li><a target="_parent" href="/media/">Media</a></li></ul><script type="text/javascript">
+function GetPreviewURL() {
+ var url = self.location.href;
+ var arString = url.split('?')
+ if (arString.length > 1) { url = url + "&amp;cmsMode=Preview"}
+ else { url = url + "?cmsMode=Preview"}
+ return url;
+}
+</script><script type="text/javascript">
+function PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) { return (EkTbWebMenuPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize));}
+function ecmPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize) { 
+ PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) ; 
+ } 
+</script>
+
+		            </div>	            
+		            <div class="footer-list">		              
+		                         <img src="/images/titles/know.png" width="113" height="13" alt="Get to Know Us">                        
+                                
+<ul><li><a target="_parent" href="/e-newsletter/">Subscribe to E-Newsletter</a></li><li><a target="_parent" href="/future/visit-cap/">Visit Cap: Tours &amp; More</a></li><li><a target="_parent" href="/news.aspx">Capilano News</a></li><li><a target="_parent" href="/employment/">Employment</a></li><li><a target="_parent" href="/about/Directions-Maps/">Directions &amp; Maps</a></li><li><a target="_parent" href="/contact/">Contact Us</a></li></ul><script type="text/javascript">
+function GetPreviewURL() {
+ var url = self.location.href;
+ var arString = url.split('?')
+ if (arString.length > 1) { url = url + "&amp;cmsMode=Preview"}
+ else { url = url + "?cmsMode=Preview"}
+ return url;
+}
+</script><script type="text/javascript">
+function PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) { return (EkTbWebMenuPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize));}
+function ecmPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize) { 
+ PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) ; 
+ } 
+</script>
+
+		            </div>
+                    <div class="footer-list">
+		                     <img src="/images/titles/study.png" width="116" height="13" alt="Studying at Cap">  	              
+		                        
+<ul><li><a target="_parent" href="/programs/A-Z-List-of-Programs-Courses/">A - Z List of Programs</a></li><li><a target="_parent" href="/programs/areas/">Areas of Study</a></li><li><a target="_parent" href="/programs-courses/programs-credential/">Programs by Credential</a></li><li><a target="_parent" href="/study-abroad/">Study Abroad</a></li><li><a target="_parent" href="/programs/online/">Online Programs</a></li><li><a target="_parent" href="/csee/">Continuing Studies &amp; Exec Ed</a></li><li><a target="_parent" href="/library/">Library</a></li></ul><script type="text/javascript">
+function GetPreviewURL() {
+ var url = self.location.href;
+ var arString = url.split('?')
+ if (arString.length > 1) { url = url + "&amp;cmsMode=Preview"}
+ else { url = url + "?cmsMode=Preview"}
+ return url;
+}
+</script><script type="text/javascript">
+function PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) { return (EkTbWebMenuPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize));}
+function ecmPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize) { 
+ PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) ; 
+ } 
+</script>
+
+		            </div>
+		            <div class="footer-list">
+		                    <img src="/images/titles/admission.png" width="83" height="13" alt="Admissions"> 
+		                        
+<ul><li><a target="_parent" href="/requirements/">Admission Requirements</a></li><li><a target="_parent" href="/current/calendar/">Capilano University Calendar</a></li><li><a target="_parent" href="/advising/">Advising Centre</a></li><li><a target="_parent" href="/admissions/Transfer-Credit/">Transfer Credit</a></li><li><a target="_parent" href="/fees/">Tuition &amp; Fees Payment</a></li><li><a target="_parent" href="/financial-aid/">Financial Aid &amp; Awards</a></li></ul><script type="text/javascript">
+function GetPreviewURL() {
+ var url = self.location.href;
+ var arString = url.split('?')
+ if (arString.length > 1) { url = url + "&amp;cmsMode=Preview"}
+ else { url = url + "?cmsMode=Preview"}
+ return url;
+}
+</script><script type="text/javascript">
+function PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) { return (EkTbWebMenuPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize));}
+function ecmPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize) { 
+ PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) ; 
+ } 
+</script>
+
+                    </div>
+		            <div class="footer-list">
+		                    <img src="/images/titles/campus.png" width="89" height="13" alt="Who are you?">      
+		                        
+<ul><li><a target="_parent" href="/bookstore/">Bookstore</a></li><li><a target="_parent" href="http://athletics.capilanou.ca">Blues Athletics</a></li><li><a target="_parent" href="/events.aspx">Capilano Events</a></li><li><a target="_parent" href="/campus-rec/">Campus Recreation</a></li><li><a target="_parent" href="/services/Capilano-Students-Union/">Capilano Students' Union</a></li><li><a target="_parent" href="/career-development-centre/">Career Development Centre</a></li><li><a target="_parent" href="/Residence/">Residence</a></li><li><a target="_parent" href="/blueshorefinancialcentre/">The BlueShore at Cap</a></li></ul><script type="text/javascript">
+function GetPreviewURL() {
+ var url = self.location.href;
+ var arString = url.split('?')
+ if (arString.length > 1) { url = url + "&amp;cmsMode=Preview"}
+ else { url = url + "?cmsMode=Preview"}
+ return url;
+}
+</script><script type="text/javascript">
+function PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) { return (EkTbWebMenuPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize));}
+function ecmPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize) { 
+ PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) ; 
+ } 
+</script>
+
+		               </div>		         
+                    <!-- end footer-list -->    
+                        <!-- begin social-media -->       
+		                 <div id="social-media">
+                          <!-- <a href="http://yourdailycap.ca/" target="_blank"><img src="/images/icons/ydc.png" border="0" height="33" width="33" alt="Your Daily Cap" /></a>&nbsp;&nbsp; -->   
+		                  <a href="http://www.facebook.com/capilanou" target="_blank"><img src="/images/icons/facebook.png" border="0" height="33" width="33" alt="Capilano University on Facebook"></a>&nbsp;&nbsp;
+                          <a href="http://www.youtube.com/user/CapilanoUniversity" target="_blank"><img src="/images/icons/youtube.png" border="0" height="33" width="33" alt="Capilano University on YouTube"></a>&nbsp;&nbsp;
+                          <a href="http://www.twitter.com/capilanou" target="_blank"><img src="/images/icons/twitter.png" border="0" height="33" width="33" alt="Capilano University on Twitter"></a>&nbsp;&nbsp;
+                          <a href="https://instagram.com/capilanou/" target="_blank"><img src="/images/icons/instagram.png" border="0" height="33" width="33" alt="Capilano University on Instagram"></a>   
+                            <br>
+                            
+		                </div>
+                        <!--end social-media-->   
+	                 <div class="clear"></div>                 
+	      	   
+    <!-- footer-address defines displays 4 boxes, campus addresses and social media icons -->	
+		           <div class="footer-address">
+		           <p>
+  		           <a href="/about/Education-Quality-Assurance-Designation/"><img src="/images/logo/eqalogo.png" border="0" alt="BC Education Quality Assurance" id="eqa-logo" title="BC Education Quality Assurance"></a>
+		           <a href="/">Capilano University</a> | 2055 Purcell Way, North Vancouver, British Columbia Canada V7J 3H5 Tel: 604.986.1911<br>
+		           <a href="/sunshine">Sunshine Coast</a> | 5627 Inlet Avenue, Sechelt, British Columbia Canada V0N 3A0   Tel: 604.885.9310
+		           </p>
+                        <p class="chief-capilano"><em>Capilano University is named after Chief Joe Capilano, an important leader of the Squamish (Sḵwx̱wú7mesh) Nation of the Coast Salish people. We respectfully acknowledge that our campuses are located on the territories of the Lil’wat, Musqueam, Sechelt (shíshálh), Squamish and Tsleil-Waututh Nations.</em></p>
+	                </div>
+	                <!-- end footer-address --> 
+	                <!-- footer-nav defines the global links in the footer of the page -->
+                    <div id="footer-nav">
+                        
+<ul><li><a target="_parent" href="/current/policies/Privacy-Statement/">Privacy Statement</a></li><li><a target="_parent" href="/copyright/">Copyright Policy</a></li><li><a target="_parent" href="/contact/Contact-the-Webmaster/">Contact the Webmaster</a></li><li><a target="_parent" href="/about/accreditation/Accreditation/">Accredited by the Northwest Commission on Colleges and Universities</a></li></ul><script type="text/javascript">
+function GetPreviewURL() {
+ var url = self.location.href;
+ var arString = url.split('?')
+ if (arString.length > 1) { url = url + "&amp;cmsMode=Preview"}
+ else { url = url + "?cmsMode=Preview"}
+ return url;
+}
+</script><script type="text/javascript">
+function PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) { return (EkTbWebMenuPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize));}
+function ecmPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize) { 
+ PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) ; 
+ } 
+</script>
+
+	                </div>
+                    <!-- end footer-nav -->          
+              </div> 
+               <!--end footer--> 
+            </div>
+            <!--end container-->
+        </form>
+        
+    
+<div id="FloatBubble"><table id="EkBubbleTable" cellspacing="0" cellpadding="0"><tbody><tr><td id="EkTopL"></td><td id="EkTopTile"><div id="EkTop">&nbsp;</div></td><td id="EkTopR"></td></tr><tr><td id="EkCenL"></td><td><div id="EkCloseBubbleIcon"><img id="EkClose" src="/WorkArea/images/application/bubble/close.gif" onclick="EBubble.ShowHoverOverBubble(0,'',0,0,0);"></div><div id="EkBubbleData"></div></td><td id="EkCenR"></td></tr><tr><td id="EkBotL"></td><td id="EkBot"></td><td id="EkBotR"></td></tr></tbody></table></div><div id="FloatBubbleT"><table id="EkBubbleTableT" cellspacing="0" cellpadding="0"><tbody><tr><td id="EkTopLT"></td><td id="EkTopT"></td><td id="EkTopRT"></td></tr><tr><td id="EkCenLT"></td><td><div id="EkCloseBubbleIconT"><img id="EkCloseT" src="/WorkArea/images/application/bubble/close.gif" onclick="EBubble.ShowHoverOverBubble(0,'',0,0,0,0,0);"></div><div id="EkBubbleDataT"></div></td><td id="EkCenRT"></td></tr><tr><td id="EkBotLT"></td><td id="EkBotTile"><div id="EkBotT">&nbsp;</div></td><td id="EkBotRT"></td></tr></tbody></table></div></body></html>
