@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inbox-labs.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128062352id_/http%3A//inbox-labs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inbox-labs.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519231002id_/http%3A//www.inbox-labs.com/privacy) for the most accurate reproduction.*
 
 # InboxLabs - Outstanging Email Marketing
 
