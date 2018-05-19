@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3avape.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116003629id_/http%3A//www.3avape.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3avape.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519101243id_/http%3A//www.3avape.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # √ Privacy Policy
 
