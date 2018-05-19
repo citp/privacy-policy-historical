@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the energymeditationsecrets.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229140311id_/http%3A//coreenergymeditation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energymeditationsecrets.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519175830id_/http%3A//coreenergymeditation.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
