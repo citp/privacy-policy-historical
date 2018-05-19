@@ -1,101 +1,57 @@
-> *The following text is extracted and transformed from the crochetidea.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319164854id_/http%3A//buzzour.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crochetidea.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519063338id_/http%3A//crochetidea.com/privacy-policy) for the most accurate reproduction.*
 
-# Buzzour Privacy
+# Privacy Policy - Crochet Ideas
 
-THE FOLLOWING PRIVACY POLICY DETAILS THE MONETIZE.COM PLEDGE TO KEEP YOUR INFORMATION PRIVATE.
+1\. Our Commitment to Privacy. This notice describes our Privacy Policy. Our Privacy Policy is designed to advise you about how we collect, use, and protect the Personally Identifiable Information you provide. By visiting this site, you are accepting the practices described in this Privacy Policy.
 
-Effective Date: January 19, 2015
+2\. What Information is Collected.
 
-This privacy policy describes how Monetize.com, Inc. ("Monetize.com") collects and uses the personal information you provide on our website, Buzzour.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+(a) Information You Provide to Us:
 
-### What type of information does Monetize.com collect?
+We collect the Personally Identifiable Information you choose to enter on various pages of our site, or that you may choose to give us in some other way (such as by email, physical mail, or by telephone). For example, you will be asked to provide Personally Identifiable Information when you register for access to certain portions of our site, sign up for newsletters or mailings, or make a purchase.
 
-Monetize.com only collects data to enhance and personally tailor Buzzour.com to meet your needs. The information that is collected allows us to customize website content and generate targeted advertisements based on your particular preferences. Monetize.com utilizes the cookie feature of your browser. Cookies, on their own, can't be used to identify you. The cookie feature of your browser can be turned off; simply locate your browser preference options. Keep in mind that disabling the cookie feature will prevent you from participating in certain activities.
+The categories of Personally Identifiable Information we collect are your first and last name, e-mail address, physical address, and telephone number.
 
-Your IP address helps Monetize.com diagnose server problems and helps us administer website functions. IP addresses provide us with geographical information and aggregated information on how visitors utilize Monetize.com. By monitoring search queries, access times, and traffic patterns we can determine how to market users and make their experience more enjoyable.
+You can choose not to provide certain information, but you may not be able to take advantage of our services and features.
 
-We collect the following personal information from you if ONLY you choose to be a Buzzour Publisher:
+(b) Automatic Information:
 
-  * Contact Information such as name, email address, mailing address, phone number
-  * Billing Information
+When you visit a website, you disclose certain information, such as your Internet Protocol (IP) address and the time of your visit. This site, like many other sites, records this basic information about visits to our site.
 
+(c) “Cookies”:
 
+Cookies are pieces of information that are transferred to your computer from a web server.
 
-### What does Monetize.com do with my data?
+We use cookies to store visitor preferences, record session information (such as items that you add to your shopping cart) record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site, ensure that visitors are not repeatedly sent the same banner ads, and to customize Web page content based on visitors’ browser type or other information that the visitor sends.
 
-If you do provide us your email address during the Buzzour Publisher sign up process, we may use this to offer inform you of new features, allow you to register for special offers, newsletters considered to be for your enjoyment. If at any point these emails become annoying or bothersome, simply follow the unsubscribe mechanism in these emails or you can email info@Buzzour.com.
+Most browsers are set up to accept cookies, but you can change your settings to have your browser notify you when you receive a new cookie or you can change your settings to refuse to accept cookies.
 
-Also note that your email address helps Monetize.com respond to any questions you have posed, issues you have encountered, or complaints made. We require your email address so we may address these issues.
+3\. How and When the Information is Used. The information we collect is used for administering our business activities as follows:
 
-We may provide your personal information to companies that provide services to help us with our business activities such as payment processing, email communications and career fulfillment. These companies are authorized to use your personal information only as necessary to provide these services to us. The personal information that you enter is owned by Monetize.com.
+(a) to improve the content of our site;
 
-We may also disclose your personal information
+(b) to customize the content and/or layout of site pages for each individual visitor;
 
-  * as required by law, such as to comply with a subpoena, or similar legal process
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
-  * to any other third party with your prior consent to do so.
-  * if Monetize.com is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
+(c) used to notify consumers about updates to our Web site;
 
+(d) shared with other reputable organizations to help them contact consumers for marketing purposes;
 
+(e) used by us to contact consumers for marketing purposes.
 
-### Cookies
+4\. How We Protect Your Information. The privacy and protection of your information is important to us. We offer some of our services in connection with other web sites. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies. Your access to some services and content is password protected. We advise that you do not disclose your password to anyone. In addition, we recommend you sign out of password-protected services at the end of your session. You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond our control and this policy.
 
-A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
+5\. Who Has Access to the Information. Information about our users is important to us. Access to your information may be provided to third parties who provide technical support for the operation of our site. In addition, we may sell our business or buy, merge or partner with other companies or businesses. In such transactions, user information may be transferred along with other assets. We may also disclose your information in response to a court order and we may disclose your information when we believe we are required to do so by law. We may disclose your information in connection with the collection of amounts you may owe to us and to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure.
 
-We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file.
+6\. Methods We Use to Protect Your Information. We use security software to protect the confidentiality of your personal information. In addition, our business practices are reviewed periodically for compliance with policies and procedures governing the security and confidentiality of our information. Our business practices limit employee access to confidential information, and limit the use and disclosure of such information to authorized persons.
 
-We set a persistent cookie to store your passwords, so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
+7\. Children. This website does not provide services or sell products to children under the age of 18. If we discover we have received any information from a child under the age of 18 in violation of this policy, we will delete that information immediately. If you believe we have received any information from or about anyone under the age of 18, please contact us at the address listed below.
 
-If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as previously entered account information, will be limited.
+8\. How You Can Access Your Information. You can request access to all your personally identifiable information maintained by us by sending an e-mail to us at the address listed below. Upon request we offer you the ability to have inaccuracies corrected in your personally identifiable information. You can have this information corrected by sending us an e-mail at the address listed below.
 
-### Third Party Cookies
+9\. Consent. By using our website, you consent to the collection and use of your personal information as described in this Privacy Policy.
 
-The use of cookies by third parties is not covered by our Privacy Policy. We do not have access or control over these cookies.
+10\. Changes to Privacy Policy. If our Privacy Policy or procedures change, we will immediately post those changes to our website. Any such changes will be effective immediately upon being posted, unless otherwise stated in the change.
 
-### Clear Gifs (Web Beacons/Web Bugs)
+11\. Effective Date. This Privacy Policy is effective as of January 01, 2017.
 
-We employ and our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information. This clear Gif placement allows Monetize.com a seamless and unobtrusive way to retarget our users to ensure that all ads have been personally tailored to that individual.
-
-### Security
-
-The security of your personal information is important to us. When you enter sensitive information (such as a social security number/Tax ID) on our online forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
-
-We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at copyright@Monetize.com.com.
-
-### Public Forums
-
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at copyright@Monetize.com.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
-
-### Who else gets to see my personal information?
-
-When you request services from our business partners Monetize.com will share your personal information with them, so that you can receive what you have requested. If you have any questions or concerns about a Monetize.com business partner, you may contact them directly. Monetize.com is not responsible for the data collection or privacy practices of business partners. Your personal information may also be shared with Monetize.com owned businesses.
-
-Targeted advertisements enhance user experience, and so at times we may share specifically non personal information with advertisers, so that they may present you with relevant advertisements. Geographical information may be shared along with demographics, but we will never share personally identifiable information. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
-
-### How do I delete my information from Buzzour?
-
-If your personal information changes, you may correct or update by logging into your account and going to Account Info or by emailing copyright@Monetize.com.com or by contacting us by postal mail at the contact information listed below. If you no longer desire our service, please contact us at info@Buzzour.com.
-
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at info@Buzzour.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-At this current time it is not possible to completely delete all of the user information from the Monetize.com database. If you are concerned with the security of your personal data you can remove the cookie stored on your browser, which will allow the server to perceive you as a new user. In the future you can change your browser setting to not accept cookies. Be aware that removing cookies does prevent you from participating in certain activities.
-
-### Will I be notified of a security breach?
-
-Monetize.com has taken many steps to ensure that your personal information is not made publicly available and that is only accessible to the user who originally entered it. However, in the event of an unlikely security breach, the user will be notified via email immediately.
-
-### Do linked sites honor your policy?
-
-Linked sites are not run or controlled by Monetize.com. The website does contain many linked sites so that we may offer you additional services and products that we feel you will enjoy. Each linked site is owned by an outside company; therefore, they have established their own polices in respect to privacy. Monetize.com won't be held responsible for privacy practices or policies or content of linked sites. Also note that any personal information supplied to an outside advertiser is at your own risk.
-
-### Monetize.com will notify you of changes
-
-We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
-
-### Contacting Monetize.com
-
-In regards to privacy issues or the collection of personal data, any questions or concerns can be directed to our dedicated representatives by email at copyright@Monetize.com.com. Alternatively, you may contact via phone at (818) 333-4000 or if you prefer to contact us by mail, please do so at the following address:
-
-Monetize.com Inc.  
-701 S Carson St. Ste 200  
-Carson City, NV 89701
+12\. Contact E-Mail. You may contact us concerning this Privacy Policy by using any of the contact options show on this site.
