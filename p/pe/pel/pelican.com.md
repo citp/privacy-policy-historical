@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the pelican.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118070309id_/http%3A//www.pelican.com/us/en/cor/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pelican.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520013154id_/http%3A//www.pelican.com/us/en/about/privacy-policy) for the most accurate reproduction.*
 
-# Online Privacy Policy | Pelican Products
+# Online Privacy Policy | Pelican
+
+Last revised: December, 2017
+
+   
+
 
 ### INTRODUCTION
 
@@ -18,7 +23,7 @@ Information We Collect and Why We Collect It
 How We Use and Share Your Information  
 Access to Your Information and Choices  
 Security of Your Information  
-International Privacy Practices  
+Consent to Processing of Personal Data in US  
 Changes to Our Privacy Policy  
 Questions and How Contact Us
 
@@ -28,7 +33,7 @@ Questions and How Contact Us
 
 This Privacy Policy applies only to information we collect at and through the Site, and certain Pelican affiliated sites accessible through or that may redirect you to our Site, such as www.pelicanprogear.ca and www.pelicanprogear.com.au.
 
-Some of our affiliated sites owned by Pelican, such as www.pelicanprogear.com, are governed by their own separate privacy policies.
+Some of our affiliated sites owned by Pelican and its affiliates, such as www.pelicanprogear.com and www.peli.com, are governed by their own separate privacy policies.
 
 Our Site may also contain links to third party sites that are not owned or controlled by Pelican. For example, consumers in certain countries and jurisdictions may be directed to sites owned and operated by independent Pelican dealers.
 
@@ -48,7 +53,7 @@ Please note that your use of our Site and this Privacy Policy are subject to our
 
 **Information You Provide To Us**
 
-You can provide information to us on our Site through various means, such as when you fill out our Contact Us form or create an account for dealer support. The information we collect includes personal information, such as your name, address, email address and telephone number.
+You can provide information to us on our Site through various means, such as when you purchase products at our Site, fill out our Contact Us form or create an account for dealer support. The information we collect includes personal information, such as your name, address, email address, telephone number and payment (credit / debit) card information.
 
  
 
@@ -86,7 +91,7 @@ When you visit our Site we send one or more "cookies" to your computer or other 
 
 **To Provide Products, Services, and Information**
 
-As described above, we collect information from you so that we can provide you with information and support that you request from us. We use your personal information to contact you about your requests. We may send you information about our products and services, and new offerings. We may provide information to third party service providers that help us process orders, and to fulfill and deliver products and services that you purchase from us.
+As described above, we collect information from you so that we can provide you with information and support that you request from us. We use your personal information to contact you about your requests. We may send you information about our products and services, and new offerings. We may provide information to third party service providers that help us process payment for online orders, and to fulfill and deliver products and services that you purchase from us through our Site.
 
 We may use third parties to help host our Site, send out email updates about the Site, provide marketing and advertising services for us, remove repetitive information from our user lists, and process payments. These service providers will have access to your personal information in order to provide these services, but when this occurs we implement reasonable contractual and technical protections to limit their use of that information to helping us provide the service. We use demographic information to better understand our customers, and improve our products and services.
 
@@ -143,11 +148,11 @@ In order to help secure your personal information, access to your data on our Si
    
 
 
-### INTERNATIONAL PRIVACY PRACTICES
+### CONSENT TO PROCESSING OF PERSONAL DATA IN THE UNITED STATES
 
  
 
-Pelican's websites, including websites directed to residents in countries and jurisdictions outside of the United States, are operated and managed on servers located and operated within the United States. By using and accessing our Sites, residents and citizens of countries and jurisdictions outside of the United States agree and consent to the transfer to and processing of personal information on servers located in the United States, and that the protection of such information may be different than required under the laws of your residence or location. 
+If you are a resident of the European Economic Area (EEA) or other jurisdiction outside of the U.S., in order to provide our Site, products and services to you, we may send and store your personal information (also commonly referred to as personal data) outside of the EEA, including to the United States. Accordingly, your personal information may be transferred outside of the country where you reside or are located, including to countries that may not or do not provide the same level of protection for your personal information. We are committed to protecting the privacy and confidentiality of personal information when it is transferred. Where such transfers occur, we take appropriate steps to provide the same level of protection for the processing carried out in any such countries as within the EEA to the extent feasible under applicable law. By using and accessing our Site, users who reside or are located in countries outside of the United States agree and consent to the transfer to and processing of personal information on servers located outside of the country where they reside, and that the protection of such information may be different than required under the laws of their residence or location.
 
    
 
