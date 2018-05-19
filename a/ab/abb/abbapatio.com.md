@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the abbapatio.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021073754id_/http%3A//www.abbapatio.com/index.php%3Froute%3Dinformation/information%26information_id%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abbapatio.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519215849id_/http%3A//www.abbapatio.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-On [http://www.abbapatio.com](http://www.abbapatio.com/) (from now on, will be referred as abbapatio.com), visitor privacy is of our serious concern. This privacy policy page describes what kind of personal information may be received and collected by abbapatio.com and how the information will be used.
+On [http://www.abbapatio.com](http://www.abbapatio.com/) (from now on, will be referred as abbapatio.com), visitor privacy is of our serious concern. This privacy policy page describes what kind of personal information may be received and collected by abbapatio.com and how the information will be used.
 
 Search Engine Ads
 
@@ -18,5 +18,4 @@ We collect only essential customer information such as your mailing address, pho
 
 Choice and Opt-Out
 
-f you do not wish to receive promotional communications from abbapatio.com, you may “opt-out” by emailing your request to abbapatio.com’s Customer Service Department at [service@abbapatio.com](mailto:service@choies.com.).  
-
+f you do not wish to receive promotional communications from abbapatio.com, you may “opt-out” by emailing your request to abbapatio.com’s Customer Service Department at [service@abbapatio.com](mailto:service@choies.com.).
