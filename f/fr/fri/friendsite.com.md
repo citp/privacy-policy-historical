@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the friendsite.com privacy policy that was archived on 2017-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171010054318id_/https%3A//competency.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendsite.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519175959id_/https%3A//dropspace.io/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | COMPETENCY.IO - The competency portfolio platform for people & organizations
+# dropspace Privacy Policy | dropspace.io
 
   1. ### Introduction
 
