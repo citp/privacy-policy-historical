@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the packers.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210210829id_/http%3A//www.packers.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the packers.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519021012id_/http%3A//www.packers.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Packers.com | Privacy Policy
 
@@ -9,7 +9,7 @@
 _Updated: November 2017  
 _
 
-This privacy policy applies to the Green Bay Packers' websites located at [www.packers.com](http://www.packers.com/), [webmail.gbpackersfan.com](http://webmail.gbpackersfan.com/), [m.packers.com](http://m.packers.com/), [www.packerseverywhere.com](http://m.packersproshop.com/), [www.packersproshop.com](http://www.packersproshop.com/), and [www.titletown.com](http://www.titletown.com/), its mobile applications and other services that link to it ("Services"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
+This privacy policy applies to the Green Bay Packers' websites located at [www.packers.com](http://www.packers.com/), [webmail.gbpackersfan.com](http://webmail.gbpackersfan.com/), [m.packers.com](http://m.packers.com/), [www.packerseverywhere.com](http://m.packersproshop.com/), [www.packersproshop.com](http://www.packersproshop.com/), [www.titletown.com](http://www.titletown.com/) and [www.packersperks.com](http://www.packersperks.com/), its mobile applications and other services that link to it ("Services"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
 
 The Website is in part operated by _DMInteractive_ , _AmericanEagle.com_ and _Delphic, a Hero Digital Company_ on behalf of the Green Bay Packers (collectively, the "Green Bay Packers", "we", "our", or "us"). _DMInteractive_ , _AmericanEagle.com_ and _Delphic, a Hero Digital Company_ do not own any information submitted through this website and cannot use this information for its own purposes.
 
