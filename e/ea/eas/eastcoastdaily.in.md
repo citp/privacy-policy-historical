@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eastcoastdaily.in privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231090912id_/http%3A//www.eastcoastdaily.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastcoastdaily.in privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519061131id_/http%3A//www.eastcoastdaily.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - East Coast Daily
+# Privacy Policy - East Coast Daily |
 
 Eastcoast operates Website services, Messaging services, Video services, Audio services, Internet services, Mobile services and other Allied services offered from time to time. The privacy policy describes collection and use of user’s personal information (Details of person with email address) and non personal information (User interests and site usage). This is applicable to all users that is users utilizing its services of eastcoast services with or without registration.
 
