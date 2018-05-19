@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cochintalkies.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701075834id_/http%3A//www.cochintalkies.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cochintalkies.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519055632id_/http%3A//www.filmilive.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](http://www.cochintalkies.com/ "Cochin Talkies")
+[](http://www.filmilive.com/ "filmiLive")
 
 ###  What information do we collect? 
 
@@ -55,4 +55,4 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-© Copyright 2017, cochintalkies.com 
+© Copyright 2018, Filmilive.com 
