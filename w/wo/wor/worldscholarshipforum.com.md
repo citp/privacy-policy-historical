@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the worldscholarshipforum.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214195350id_/http%3A//worldscholarshipforum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldscholarshipforum.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519162802id_/http%3A//worldscholarshipforum.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - World Scholarship Forum
-
-[](http://worldscholarshipforum.com/ "World Scholarship Forum") World Free Scholarships and Grants Portal
 
 **Privacy Policy** for http://worldscholarshipforum.com
 
