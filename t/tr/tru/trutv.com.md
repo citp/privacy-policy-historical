@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trutv.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225123648id_/http%3A//www.trutv.com/copyright/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trutv.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519235331id_/http%3A//www.trutv.com/copyright/index.html) for the most accurate reproduction.*
 
 # Privacy Policy - truTV.com
 
