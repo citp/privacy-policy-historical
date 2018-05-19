@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filmilive.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115150214id_/http%3A//www.filmilive.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmilive.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519055632id_/http%3A//www.filmilive.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -55,4 +55,4 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-© Copyright 2017, Filmilive.com 
+© Copyright 2018, Filmilive.com 
