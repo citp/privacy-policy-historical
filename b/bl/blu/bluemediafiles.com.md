@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluemediafiles.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124015146id_/http%3A//bluemediafiles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluemediafiles.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519150234id_/http%3A//bluemediafiles.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Blue Media Files Blue Media Files
 
