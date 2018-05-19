@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gouletpens.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615203838id_/https%3A//www.gouletpens.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gouletpens.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519090942id_/https%3A//www.gouletpens.com/privacy-policy) for the most accurate reproduction.*
 
 # The Goulet Pen Company
 
@@ -19,7 +19,7 @@ We may use the information we collect from you when you register, purchase produ
   * To allow us to better service you in responding to your customer service requests.
   * To quickly process your transactions.
   * To administer a contest, promotion, survey or other site feature.
-  * If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.
+  * If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails.
 
 
 
@@ -31,7 +31,7 @@ We implement a variety of security measures to maintain the safety of your perso
 
 Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+We may contract with third-party service providers to assist us in better understanding our site visitors or for advertising purposes. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
 You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.
 
@@ -47,13 +47,15 @@ To modify your e-mail subscriptions, please let us know by modifying your prefer
 
 To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
 
+To opt out of banner advertising by our third-party partner, Criteo, you may [visit this link](http://www.criteo.com/deactivate-criteo-banners/).
+
 ## Third party links
 
 In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).
 
 ## Changes to our policy
 
-If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modified on November 14, 2014.
+If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modified on July 5, 2017.
 
 ## Questions and feedback
 
