@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the railscasts.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117225856id_/http%3A//railscasts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the railscasts.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519160215id_/http%3A//railscasts.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RailsCasts
 
