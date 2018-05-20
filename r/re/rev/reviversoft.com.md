@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reviversoft.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229064456id_/http%3A//www.reviversoft.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviversoft.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520042827id_/http%3A//www.reviversoft.com/company/privacy) for the most accurate reproduction.*
 
 # ReviverSoft Privacy Policy
 
@@ -68,7 +68,7 @@ We may use cookies, clear GIFs and related tracking technology to collect inform
 
 We may provide data about our users, traffic patterns, products, services and site information to third-parties (such as vendors, advertisers and our business partners), but we will use reasonable efforts to provide it in a form that does not directly identify you.
 
-Find out how to disable/enable browser cookies by clicking on the "Manage Cookies" section of the Interactive Advertising Bureau website on the following link <http://www.allaboutcookies.org/>. You may access and manage Flash management tools such as flash cookies from Adobe's web site directly at <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager06.html>.
+Find out how to disable/enable browser cookies by clicking on the "Manage Cookies" section of the Interactive Advertising Bureau website on the following link <http://www.allaboutcookies.org/>. You may access and manage Flash management tools such as flash cookies from Adobe's web site directly at [http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager06.html](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager06.html).
 
 Back to top
 
