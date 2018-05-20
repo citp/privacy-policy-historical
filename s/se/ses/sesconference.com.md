@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sesconference.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227235752id_/https%3A//www.clickz.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sesconference.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520123542id_/https%3A//www.clickz.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ClickZ
 
-This policy (together with our [terms of use](https://web.archive.org/web/20171227235752id_/https%3A/static/terms-conditions) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy (together with our [terms of use](https://web.archive.org/web/20180520123542id_/https%3A/static/terms-conditions) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 For the purpose of the Data Protection Act 1998 (“the Act”), the data controller is ClickZ Group Limited of 1 Hammersmith Broadway, London, W6 9DL.
 
