@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savitabhabhimovie.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120013508id_/http%3A//www.savitabhabhimovie.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savitabhabhimovie.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520182813id_/http%3A//www.savitabhabhimovie.com/privacy-policy-2) for the most accurate reproduction.*
 
 # privacy-policy - Savita Bhabhi Movie
 
