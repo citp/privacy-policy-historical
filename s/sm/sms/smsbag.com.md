@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smsbag.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110232641id_/http%3A//smsbag.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smsbag.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520210245id_/http%3A//smsbag.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – smsBAG
 
