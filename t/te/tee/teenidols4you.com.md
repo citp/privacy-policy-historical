@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenidols4you.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126100747id_/http%3A//www.teenidols4you.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenidols4you.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520213655id_/http%3A//www.teenidols4you.com/privacy.html) for the most accurate reproduction.*
 
 # Teen Idols 4 You Privacy Policy
 
@@ -27,14 +27,14 @@
 > 
 >     * Users may opt out of the use of the DART cookie by visiting the <http://www.google.com/privacy_ads.html>.   
 > 
->   * Gorilla Nation, as a third party vendor, uses cookies to serve ads on this site. 
->     * Please reference [Gorrila Nation's Privacy Policy](http://www.gorillanation.com/privacy "Gorilla Nation's Privacy Policy") .  
-> 
 >   * Value Click Media, as a third party vendor, uses cookies to serve ads on this site. 
 >     * Please reference [Value Click Media's Privacy Policy](http://valueclickmedia.com/webuser_privacy.shtml "Value Click Media's Privacy Policy") .  
 > 
->   * Tribal Fusion, as a third party vendor, uses cookies to serve ads on this site. 
->     * Please reference [Tribal Fusion's Privacy Policy](http://www.exponential.com/who-we-are/privacy-policy.jsp "Tribal Fusion's Privacy Policy") .  
+>   * Tribal Fusion/Exponential Interactive, as a third party vendor, uses cookies to serve ads on this site. 
+>     * Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their [privacy policy](http://exponential.com/privacy/) or contact their data protection officer via [privacy@exponential.com](mailto:privacy@exponential.com). 
+> 
+>   
+>  Users who would like more information can view Exponential Interactive [privacy policy here](http://exponential.com/privacy/). 
 > 
 > 
 
