@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studiosystem.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119235451id_/http%3A//www.studiosystem.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studiosystem.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520175717id_/http%3A//studiosystem.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Studio System
 
@@ -42,11 +42,10 @@ Users have the following options to remove their information from our database t
 Users can email [contact@gracenote.com](mailto:contact@gracenote.com)  
 Users can send mail to the following postal address: 
 
-3415 S. Sepulveda Blvd.  
-Suite 200  
-Los Angeles, CA 90034 
+6255 Sunset Blvd.  
+Hollywood, CA 90028 
 
-Users can also call the following number: 310-482-3414
+Users can also call the following number: ​(323) 817-3505​
 
 **Correct/Update**  
 Users have the following options for changing and modifying information previously provided: 
@@ -54,11 +53,10 @@ Users have the following options for changing and modifying information previous
 Users can email [contact@gracenote.com](mailto:contact@gracenote.com)  
 Users can send mail to the following postal address: 
 
-3415 S. Sepulveda Blvd.  
-Suite 200  
-Los Angeles, CA 90034 
+6255 Sunset Blvd.  
+Hollywood, CA 90028 
 
-Users can also call the following number: 310-482-3414
+Users can also call the following number: ​(323) 817-3505​
 
 This policy may change from time to time so please check back periodically.
 
@@ -66,8 +64,7 @@ This policy may change from time to time so please check back periodically.
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact: 
 
 Gracenote, Inc.  
-3415 S. Sepulveda Blvd.  
-Suite 200  
-Los Angeles, CA 90034 
+6255 Sunset Blvd.  
+Hollywood, CA 90028 
 
 or email us [contact@gracenote.com](mailto:contact@gracenote.com)
