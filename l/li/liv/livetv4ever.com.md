@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livetv4ever.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119104542id_/http%3A//livetv4ever.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livetv4ever.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520102401id_/http%3A//www.livetv4ever.com/privacy.php) for the most accurate reproduction.*
 
-# LiveTv4Ever.com - Watch High Quality Sports Streaming | Nitto ATP Finals 2017 | Rugby Autumn Tests | Werdum vs Tybura | Rawlings vs Clark | Means vs Muhammad
+# LiveTv4Ever.com - Watch High Quality Sports Streaming | Chelsea vs Manchester United | Bayern Munich vs Eintracht Frankfurt | Villarreal vs Real Madrid | Nadal vs Djokovic | Cilic vs Zverev
 
 **General**
 
