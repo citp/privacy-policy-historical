@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the printfile.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115051424id_/http%3A//www.printfile.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printfile.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520032153id_/http%3A//www.printfile.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Print File | Archival Supplies | Photo Storage Products - Privacy Policy
-
-[](https://web.archive.org/web/20171115051424id_/http%3A//www.printfile.com/index.aspx)  
-  
----  
-|  | 
+# Print File Inc | Archival Supplies | Photo Storage Products - Privacy Policy
 
 [Home](https://web.archive.org/) > Privacy Policy
 
@@ -23,15 +18,15 @@ In general, you can visit many of our web pages without telling us who you are o
 **Information You Give Us:**  
 Print File, Inc. receives and stores personal information about you when you subscribe to a service, register to receive brochures, or participate in contests, sweepstakes and/or promotions. This information may include your name, shipping/billing address, telephone number, and email. You may choose not to provide such information.
 
-Credit card data and registration information is protected by Secure Sockets Layer ("SSL") or other encryption mechanisms. Online Payment Processing for [www.PrintFile.com](http://www.printfile.com/) is processed by PayPal Payflow Pro. Print File, Inc. does not store credit card information.
+Credit card data and registration information is protected by Secure Sockets Layer ("SSL") or other encryption mechanisms. Online Payment Processing for [www.PrintFile.com](http://www.printfile.com/) is processed by Authorize.net. Print File, Inc. does not store credit card information.
 
 Print File, Inc. cautions visitors to its websites that no network, including the internet, is entirely secure. Accordingly, we cannot be responsible for loss, corruption or unauthorized acquisition of personal information provided to our websites, or for any damages resulting from such loss, corruption or unauthorized acquisition.
 
 **How is Information Used?  
-**__Emails__ \- If you provide the PrintFile.com web site with your e-mail address, you may receive e-mails from Print File.com web site.  
-__"Contact Us" and Comments Features__ \- Print File, Inc encourages visitors to its websites to contact us with questions and/or comments. Email addresses and other information of persons using these features may be collected in order to facilitate our responses to those inquiries.  
-__Catalog Mailing List__ \- If you provide your name and address, we will add you to our mailing list and we may send you catalogs as a result of visiting our website. If you prefer not to receive catalogs from us, please contact us at [support@printfile.com](mailto:support@printfile.com) or 800-508-8539 and ask to be taken off our mailing list.  
-__Sharing with Other Companies__ \- Print File, Inc. does not sell or rent personal information about you to any third parties. We may however, share information with carefully selected Third Party Service Providers, vendors, business partners and other organizations who provide support services to us (such as printer, mailing house, web host, order fulfillment, shipping, customer service, data management and promotional services) or that help us market our products and services. We provide these companies with the information needed for them to perform their functions.
+**_Emails_ \- If you provide the PrintFile.com web site with your e-mail address, you may receive e-mails from Print File.com web site.  
+_"Contact Us" and Comments Features_ \- Print File, Inc encourages visitors to its websites to contact us with questions and/or comments. Email addresses and other information of persons using these features may be collected in order to facilitate our responses to those inquiries.  
+_Catalog Mailing List_ \- If you provide your name and address, we will add you to our mailing list and we may send you catalogs as a result of visiting our website. If you prefer not to receive catalogs from us, please contact us at [support@printfile.com](mailto:support@printfile.com) or 800-508-8539 and ask to be taken off our mailing list.  
+_Sharing with Other Companies_ \- Print File, Inc. does not sell or rent personal information about you to any third parties. We may however, share information with carefully selected Third Party Service Providers, vendors, business partners and other organizations who provide support services to us (such as printer, mailing house, web host, order fulfillment, shipping, customer service, data management and promotional services) or that help us market our products and services. We provide these companies with the information needed for them to perform their functions.
 
 **Links to Third Party Sites:**  
 The PrintFile.com website may include links to other web sites that are not under our control. These other web sites have their own policies regarding privacy. You should review those policies before visiting those websites.
@@ -47,23 +42,4 @@ This policy is subject to change. If we decide to change our privacy policy in w
 Back to top
 
 |   
-| |   
-|   
----  
-  
-Receive our latest   
-news and offers by email.
-
-[](http://eepurl.com/4LLuD)  
-  
----  
-  
-Click to explore our electronic catalog  
-  
-[](http://reader.mediawiremobile.com/PrintFileCatalog/issues/200284/viewer)  
-|  |  | 
-
-[
-
-](https://www.bbb.org/central-florida/business-reviews/photo-imaging-service/print-file-in-apopka-fl-90404884#sealclick "Click for the Business Review of Print File, Inc., a TBD in Apopka FL") |  [ ](http://www.printfile.com/satisfaction-guarantee.aspx) |   
----|---|---|---|---
+| | 
