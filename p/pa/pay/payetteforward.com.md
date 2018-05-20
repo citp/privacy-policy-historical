@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payetteforward.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120034758id_/https%3A//www.payetteforward.com/payette-forward-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payetteforward.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520085330id_/https%3A//www.payetteforward.com/payette-forward-privacy-policy) for the most accurate reproduction.*
 
 # Payette Forward Privacy Policy - Payette Forward
 
@@ -10,7 +10,7 @@ The long and short of it is that we don’t know who you are, but we use Google 
 
 ## Privacy Policy
 
-**We only collect anonymous information.  
+ **We only collect anonymous information.  
 **
 
 We use technologies like cookies (small files stored by your browser), web beacons, or unique device identifiers to anonymously identify your computer or device so we can deliver a better experience. Our systems also log information like your browser, operating system and IP address.
