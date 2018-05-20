@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charmdate.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114155224id_/http%3A//www.charmdate.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charmdate.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520032541id_/http%3A//www4.charmdate.com/help/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy – CharmDate.com
 
@@ -10,7 +10,7 @@ We understand that the privacy of our members, subscribers, guests and/or visito
 
 Owing to the global nature of CharmDate's business conducted over the internet, it is practically impossible for us to comply with all applicable laws / rules / regulations (and the like) as may be prescribed by individual country / region / city. We endeavor to adopt internationally recommended “Best Practices” whilst adhering to the Personal Data (Privacy) Ordinance, laws of Hong Kong which you must agree to as the applicable law in case of dispute arising herefrom.
 
-Operationally we are in compliance with, though not bound to do so, the general requirements imposed by the Data Protection Principles generally recommended by the US-EU US-Swiss Safe Harbor Frameworks, Organisation for Economic Cooperation & Development, and by the Asia Pacific Economic Cooperation. In particular, we carry out Privacy Compliance Assessment exercise periodically to ensure compliance in respect of notice, choice, onward transfer, security, data integrity, access and enforcement.
+Operationally we are in compliance with, though not bound to do so, the general requirements on personal data collection and uasage recommended by the United States Federal Trade Commission's guidance on "Mobile Privacy Disclosers" and Califolia's online Privacy Protection Act. In particular, we carry out Privacy Compliance Assessment exercise periodically to ensure compliance in respect of notice, choice, onward transfer, security, data integrity, access and enforcement.
 
 This Privacy Policy applies to your use of CharmDate. In addition, where more detailed information is needed to explain our privacy practices, we post supplementary privacy policy to describe how CharmDate processes personal information. Please review and agree to those Supplementary Privacy Policy.
 
