@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skymem.info privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118214618id_/http%3A//www.skymem.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skymem.info privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520031102id_/http%3A//www.skymem.info/privacy-policy) for the most accurate reproduction.*
 
 # Contact Hunter - Easy find all public email addresses.
 
