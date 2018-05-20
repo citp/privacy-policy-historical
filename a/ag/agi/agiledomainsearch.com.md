@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agiledomainsearch.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110115809id_/http%3A//agiledomainsearch.com/terms-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agiledomainsearch.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520223329id_/http%3A//agiledomainsearch.com/terms-privacy) for the most accurate reproduction.*
 
 # Terms & Privacy
 
