@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the windowstechies.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119235256id_/http%3A//windowstechies.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowstechies.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520175646id_/http%3A//windowstechies.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Windows Techies
 
 ## What information do we collect?
 
