@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the altpress.com privacy policy that was archived on 2017-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171018024135id_/http%3A//www.altpress.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altpress.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520045426id_/https%3A//www.altpress.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy - Alternative Press
 
@@ -32,6 +32,6 @@ Alternative Press Magazine, Inc.
 
 Cleveland, Ohio 44102-1996
 
-_[publisher@altpress.com](mailto:publisher@altpress.com)_
+_[[email  protected]](https://web.archive.org/cdn-cgi/l/email-protection#91e1e4f3fdf8e2f9f4e3d1f0fde5e1e3f4e2e2bff2fefc)_
 
 This privacy statement was last updated on May 4, 2010.
