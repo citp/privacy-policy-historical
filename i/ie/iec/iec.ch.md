@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the iec.ch privacy policy that was archived on 2017-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170528035412id_/http%3A//www.iec.ch/about/privacy/%3Fref%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iec.ch privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520082214id_/http%3A//www.iec.ch/about/privacy/%3Fref%3Dfooter) for the most accurate reproduction.*
 
 # IEC - About the IEC > Privacy policy
 
 Thank you for visiting the IEC (International Electrotechnical Commission) Website. The IEC is committed to protecting the privacy of its members, customers and other contacts. Any information you choose to provide on this Website will only be used to provide or improve the services we offer.
+
+## General Data Protection Regulation (GDPR)
+
+The IEC is currently working on adapting this policy to ensure compliance with GDPR regulation EU 2016/679.
 
 ## Revisions
 
