@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surfersvillage.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119140618id_/http%3A//surfersvillage.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfersvillage.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520112316id_/http%3A//www.surfersvillage.com/content/privacy) for the most accurate reproduction.*
 
 # surfersvillage.com - Privacy - Surfing News, Surfing Contest, All the surf in one website
 
@@ -16,8 +16,6 @@ For Netscape please visit : [http://home.netscape.com](http://home.netscape.com/
 For Microsoft please visit : [http://www.microsoft.com](http://www.microsoft.com/)
 
 Surfersvillage only collects personally identifiable data, such as names, addresses, email addresses, and the like, when voluntarily submitted by a visitor. In addition, we advise minors to get parental permission before filling out any online forms.
-
-Surfersvillage does not sell or release any information gathered on our websites to any third parties unless given permission to do so. All information gathered online will be used only by Surfersvillage for internal marketing analysis and to improve our products, services and websites.
 
 In some instances, when an email address has been provided by the visitor, and the visitor is 18 or older and has indicated that he/she would like to receive communications from us, we will send notices to visitors, usually in the form of an email.
 
