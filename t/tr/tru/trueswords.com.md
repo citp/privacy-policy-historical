@@ -1,54 +1,111 @@
-> *The following text is extracted and transformed from the trueswords.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206232959id_/http%3A//www.trueswords.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trueswords.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520224444id_/http%3A//www.trueswords.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-www.trueswords.com knows that how personal information is gathered, used and shared is very important to you, and we appreciate the trust you put in us. We tell you just how we do those three things in our privacy policy. You accept this policy when you visit www.trueswords.com.
+* * *
 
-**What Personal Information Does www.trueswords.com Gather?**
+Updated: February 21, 2018 
 
-The information we learn from customers helps us personalize and continuously improve your experience at www.trueswords.com. Here are the types of information we gather. 
+###  Scope of this Online Privacy Statement
 
-  * **Information You Give Us:** We receive and store any information you enter on our Web site or give us in any other way. We use the information that you provide for such purposes as responding to your requests, improving our products, product offerings and website, and communicating with you. 
-  * **Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses www.trueswords.com.
-  * **E-mail Communications:** To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from www.trueswords.com if your computer supports such capabilities.
+This Online Privacy Statement describes how TrueSwords.com uses, shares and protects the personal information we collect through TrueSwords.com. “Personal information” is information that identifies you personally, either alone or in combination with other information. Personal information may include, for example, your name, address, email address, credit card information, and transaction history. 
 
+### Your Email Privacy
 
+TrueSwords.com values and respects your online privacy. Although we collect and save your email address in order to share information with you about your order, if you do not wish to receive emails from us, we will remove you from our list as soon as possible. TrueSwords.com is a division of On The Edge Brands and does not sell, rent, or distribute your email address to anyone. 
 
-**What’s Up With Cookies?**
+### Your Consent to This Online Privacy Statement
 
-  * Cookies are alphanumeric identifiers that www.trueswords.com transfers to your computer's hard drive through your Web browser to allow our systems to recognize your browser and to provide personalized logins and to store items in your Shopping Cart between visits. 
-  * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to enjoy a convenient and enriched shopping experience so we recommend that you leave them turned on.
+By browsing or using TrueSwords.com, you are agreeing to the collection, use, and disclosure of information related to your purchase as described in this Online Privacy Statement. 
 
+Questions Concerning Our Online Privacy Practices 
 
+If you have any questions or concerns regarding this Online Privacy Statement or our privacy practices, please email us at [webcs@trueswords.com](mailto:webcs@trueswords.com) or write to us at True Swords, PO Box 2768, Moultrie, GA 31776. 
 
-**Does www.trueswords.com Share the Information It Receives?**
+### Privacy Notices
 
-www.trueswords.com is not in the business of selling its information to others. We share customer information only as described below. 
+This Online Privacy Statement may be supplemented or amended from time to time by “privacy notices” posted on this site. For example, certain pages of this site contain privacy notices providing details about the ways we use or share the personal information we collect on those pages. 
 
-  * **Agents:** We employ other companies and individuals to perform functions on our behalf. Examples include processing credit card payments. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
-  * **Protection of www.trueswords.com and Others:** We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Conditions of Use and other agreements; or protect the rights, property, or safety of www.trueswords.com our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice. 
+### This Online Privacy Statement May Change
 
+We reserve the right to update or modify this Online Privacy Statement, at any time and without prior notice, by posting the revised version on this site. These changes will only apply to personal information we collect after we have posted the revised Online Privacy Statement on this site. Your use of this site following any such change constitutes your agreement that all personal information collected from or about you through TrueSwords.com after the revised Online Privacy Statement is posted will be subject to the terms of the revised Online Privacy Statement. To alert you to changes to this Online Privacy Statement, we will provide a notice at the top of this Online Privacy Statement for at least 30 days after the new effective date of such changes and highlight the changes so that you can locate them easily. 
 
+You may access the current version of this Online Privacy Statement at any time by clicking on the link marked "Privacy Statement" at the bottom of each page of this site. 
 
-**How Secure Is Information About Me?**
+## What Personal Information Do We Collect on TrueSwords.com?
 
-  * We work to protect the security of your information during transmission by using Transport Layer Security (TLS) software, which encrypts information you input. TLS is the improved successor to Secure Sockets Layer (SSL) 
-  * We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. 
-  * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. 
+### Information You Give Us
 
+We collect the personal information you knowingly and voluntarily provide when you use TrueSwords.com, for example, the information you provide when you register, sign-in, search, purchase products, submit product reviews, sign up for our e-mail newsletters, or communicate with customer service. Depending on how you use this site, you may supply us with information such as your name, address, phone number, email address, or credit card information, or information about people to whom purchases will be shipped (for example, a gift recipient). 
 
+### Information Sent to Us by Your Web Browser
 
-**Children**
+We collect information that is sent to us by your Web browser, such as your IP address, the address of the Web page you were visiting when you accessed Shop TrueSwords.com, the date and time of your visit, and information about your computer’s operating system. Please check your browser if you want to learn what information your browser sends or how to change your settings. The information provided by your browser does not identify you personally. We use this non-personal information primarily to create statistics that help us improve this site and make it more compatible with the technology used by our visitors. However, if you have created a user identity on one of your visits to this site or if you access this site by clicking on a link in an email we have sent you, we may combine the information provided by your browser to information that identifies you personally. 
 
-www.trueswords.com does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use www.trueswords.com only with the involvement of a parent or guardian. 
+### Information We Collect Using Cookies and Other Web Technologies
 
-**Self-Identifying Information**
+We use "cookies" and other Web technologies to collect information and support certain features of this site. For example, we use these technologies to collect information about the ways visitors use our site – which pages they visit, which links they use, and how long they stay on each page. Cookies and other Web technologies are also used to support the features and functionality of our site — for example, to track the contents of your shopping cart as you move from page to page. These technologies also permit us to keep a record of your previous choices and preferences so that we can personalize your shopping experience and save you the trouble of reentering information already in our database. Generally, the information we collect using these Web technologies does not identify you personally, however, it may be linked to information that does identify you personally, such as the information you provide when you make a purchase or register to use a special feature of our site. If you do not wish to receive cookies, you may set your browser to reject cookies or to alert you when a cookie is placed on your computer. You may also delete our cookies as soon as you leave TrueSwords.com. Although you are not required to accept our cookies when you visit TrueSwords.com, if you set your browser to reject cookies, you will not be able to use all of the features and functionality of this site. 
 
-You provide such information when you search, buy or communicate with customer service. For example, you provide information when you place an order through www.trueswords.com; provide information in Your Account (and you might have more than one if you have used more than one e-mail address when shopping with us); communicate with us by phone, e-mail, or otherwise; or participated in Suggest A Product. As a result of those actions, you might supply us with such information as your name, address, and phone numbers; credit card information; people to whom purchases have been shipped, including addresses and phone number; and product preferences. 
+### Information We Collect From Other Sources
 
-**Automatic Information**
+We may supplement the information collected through this site with information we collect in other ways. For example, if you call our toll-free number, we may collect your telephone number and add it to our database. We may also supplement the information collected through this site with information from third parties, including data brokers. By supplementing your profile with information from other sources, we are better able to provide product recommendations and special offers that will be of genuine interest to you. We may also use this additional information to further personalize our site and improve your shopping experience. 
 
-Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type and version, operating system, and platform; purchase history, the full Uniform Resource Locator (URL) clickstream to, through, and from our Web site, including date and time; cookie number; products you viewed or searched for. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
+### Use of Cookies and Similar Technologies by Our Advertising Agents
+
+TrueSwords.com uses third-party advertising companies to place online advertisements on our behalf at websites other than TrueSwords.com. These advertising companies may use cookies and Web beacons (also known as “pixel tags”) to target and measure the effectiveness of their advertisements. For example, our advertising companies may place Web beacons on their clients’ Web sites. When you visit these Web sites, the Web beacon “tags” your computer with a “cookie” that collects and stores information about your visit to their client’s Web site. This information does not identify you personally. Our advertising companies use the information they collect about your use of their clients’ Web sites to customize the advertisements you see when you visit their clients’ Web sites. Our advertising companies’ use of cookies and Web beacons is covered by their privacy policies, not by this Online Privacy Statement. 
+
+### How Do We Use Your Personal Information?
 
   
+We may use the personal information we collect through TrueSwords.com:   
 
+
+  * to fulfill your order for TrueSwords.com products or services;
+  * to provide you with the information, products and services you request or purchase;
+  * for security, credit or fraud prevention purposes;
+  * to provide you with effective customer service;
+  * to provide you with a personalized shopping experience;
+  * to display personalized advertising when you visit this site;
+  * to contact you with special offers and other information we believe will be of interest to you;
+  * to contact you with information and notices related to your use of this site or your purchases;
+  * to invite you to participate in surveys and provide feedback to us;
+  * to better understand the your needs and interests;
+  * to improve the content, functionality and usability of this site;
+  * to improve our products and services;
+  * to improve our marketing and promotional efforts; and
+  * for any other purpose we identify in a specific privacy notice.
+
+
+
+### With Whom Do We Share the Personal Information We Collect Through TrueSwords.com?
+
+We may share the personal information we collect through this site as described below and in any applicable privacy notices. 
+
+### Our Corporate Affiliates
+
+We may share your personal information with our subsidiaries and parent and sister corporations (our “corporate affiliates”), who may use this information to contact you with information and offers they believe will be of interest to you. The corporate affiliates’ use of your personal information shall be subject to this Online Privacy Statement. 
+
+### Other Business Partners and Selected Vendors
+
+We work closely with certain business partners and carefully selected vendors to provide you with access to their product offerings. We may share personally identifiable information about you with these business partners or selected vendors, and they may use this information to offer you products and/or services that they believe will be of interest to you. 
+
+We may from time to time contract with third party vendors to provide ads to our customers on behalf via the Internet or to send direct mail or catalogs to customers whom we think may be interested in our products or services. In order to do so, such vendor may collect anonymous information about your visits to our website using a “cookie”. A cookie is a small piece of data that is sent to your browser or mobile device by websites, mobile apps, and advertisements that you access or use. This data is stored on your browser or mobile device and helps website and mobile apps to remember things about you to improve your experience with the website. Third-party vendors may then pool the anonymous information that they collect from our website with other sources of information, which may include your name and mailing address, for purposes of determining whether you might be interested in receiving direct mail or a catalog. If you do not wish for cookies to be placed on your computer, most web browsers permit you to prevent that from taking place. However, please keep in mind that these technologies are an important part of how the website works; removing, rejecting or limiting the use of cookies or other similar technologies might affect the availability and functionality of the website. To opt-out of receiving our direct mail or catalogs, you may send us an email at [webcs@trueswords.com](mailto:webcs@trueswords.com) or call us at 1-800-735-3326. 
+
+### Government and Legal Disclosures
+
+We may disclose the personal information we collect through TrueSwords.com when we, in good faith, believe disclosure is appropriate to comply with the law (or a court order or subpoena); to prevent or investigate a possible crime, such as fraud or identity theft; to enforce the Terms of Use or other agreements that govern your use of this site; to protect the rights, property or safety of TrueSwords.com, our users or others; or to protect your vital interests. 
+
+### What Choices Do You Have?
+
+TrueSwords.com respects your right to make choices about the ways we collect, use and disclose your personal information. We generally ask you to indicate your choices at the time that you register as a user of TrueSwords.com or the time and on the page where you provide your personal information. You may browse TrueSwords.com without providing any information that identifies you personally and may choose not to provide the information we request, although this may mean that you cannot make a purchase or take advantage of other TrueSwords.com features. We may periodically send you information and product promotions via e-mail. You may “opt-out” of receiving our promotional e-mails at any time by following the instructions contained at the end of the particular newsletter or e-mail. You may also manage your subscription and email preferences by clicking on “My Account” on TrueSwords.com or by sending us an email at [webcs@trueswords.com](mailto:webcs@trueswords.com). 
+
+### Security
+
+TrueSwords.com has industry standard measures in place to protect the security of the personal information we collect through TrueSwords.com. For example, we use Secure Socket Layers (“SSL”) to encrypt your credit card information as it travels over the Internet. It is important that you understand, however, that no Web site or database is completely secure or “hacker proof.” You are also responsible for taking reasonable steps to protect your personal information against unauthorized disclosure or misuse, for example, by protecting your passwords. 
+
+### Children and Minors
+
+TrueSwords.com is not directed at nor targeted to children We do not use this site to knowingly solicit personal information from or market to children. If you are under 18 years of age, you should not submit any personal information to us. 
+
+  
+Updated: February 21, 2018 
