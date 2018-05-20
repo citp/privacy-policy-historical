@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ship.edu privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119115404id_/http%3A//www.ship.edu/IDWT/Web_Site_Privacy_Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ship.edu privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520083953id_/http%3A//www.ship.edu/IDWT/Web_Site_Privacy_Statement) for the most accurate reproduction.*
 
-# Shippensburg University – Instructional Design & Web Technologies – Web Site Privacy Statement
+# Shippensburg University - Web Site Privacy Statement
 
 ## Cookies
 
@@ -20,9 +20,9 @@ Information entered into online forms on this web site (typically directory-type
 
 ## Online/Mobile Directory
 
-Shippensburg University's [online/mobile directory](http://mobile.ship.edu/directory/index?campus_id=735) provides directory information (name, email address, phone number, etc) for only those individuals that have not requested their directory information be suppressed. At the employee's request, directory listings and/or specific address information may be changed or suppressed from the online directories. Employees may change their information by logging into the [Account Self-Service](https://password.ship.edu/) or by contacting [Human Resources](https://web.archive.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=1116 "Human Resources").
+Shippensburg University's [online/mobile directory](http://mobile.ship.edu/directory/index?campus_id=735) provides directory information (name, email address, phone number, etc) for only those individuals that have not requested their directory information be suppressed. At the employee's request, directory listings and/or specific address information may be changed or suppressed from the online directories. Employees may change their information by logging into the [Account Self-Service](https://password.ship.edu/) or by contacting [Human Resources](https://web.archive.org/hr/ "Human Resources").
 
-The directory is provided for those involved with Shippensburg University and for others who have a specific interest in reaching individuals on campus. Information obtained from these online directories may not be used to provide addresses for outside mailings to Shippensburg University faculty or staff. Any solicitation of business, information, contributions or other response from individuals listed in the directories by mail, telephone, email, or other means is forbidden.
+The directory is provided for those involved with Shippensburg University and for others who have a specific interest in reaching individuals on campus. Information obtained from these online directories may not be used to provide addresses for outside mailings to Shippensburg University faculty or staff. Any solicitation of business, information, contributions or other response from individuals listed in the directories by mail, telephone, email, or other means is forbidden.
 
 ## Online Payments
 
