@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the winloot.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222031127id_/http%3A//www.winloot.com/Site/Privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winloot.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520023412id_/http%3A//www.winloot.com/Site/Privacypolicy) for the most accurate reproduction.*
 
 # Winloot Free Sweepstakes Privacy Policy
-
-Winloot® Privacy Policy
 
 Last Updated: May 17, 2016
 
@@ -12,17 +10,17 @@ We firmly believe that both our Members and our clients benefit because we marke
 
 While the word "privacy" may mean different things to different people, we believe that once you understand how we use your information, the steps we take to protect it, and the resulting benefit to you, you will not only feel confident when sharing information with us, but will also find your participation in the Program a most rewarding experience. 
 
-Your Privacy Rights
+**Your Privacy Rights**
 
 If you are a resident of the State of California and would like to learn how your “personal information” (as defined in the Shine the Light Law, Cal. Civ. Code § 1798.83) is shared with third parties, what categories of personal information that we have shared with third parties in the preceding year, as well as the names and addresses of those third parties, please contact us by clicking here or send us correspondence to Globalizer, LLC, Attn: Winloot Member Services (Privacy), 100 Duffy Ave, Suite 510, Hicksville, NY 11801. 
 
 Further, if you are a resident of the State of California and would like to opt-out from the disclosure of your personal information to any third party for marketing purposes, please contact us by clicking here or send us correspondence to Globalizer, LLC, Attn: Winloot Member Services (Privacy), 100 Duffy Ave, Suite 510, Hicksville, NY 11801. Please be advised that where California State residents opt-out from permitting their personal information to be shared, such individuals may still receive selected offers directly from us, in accordance with applicable law. 
 
-1\. Collection of Information 
+**1\. Collection of Information**
 
 Winloot® collects both personal and non-personal information using the methods listed below. Our primary purpose in collecting such information is to provide you with a personalized experience by displaying content and delivering offers that are likely to be of interest to you according to your preferences. 
 
-2\. Automatic Information and Cookies Collected though Participation in the Winloot® Program 
+**2\. Automatic Information and Cookies Collected though Participation in the Winloot® Program**
 
 When you sign in to the Site, the server automatically recognizes you by your “cookies,” which are small text files that are placed on your computer by the Site upon arrival. The cookies that we use are “analytical” in nature, in that they act as unique identifiers and are linked to your personal information, allowing us to access your personal information and personalize the Site and Program to your specified interests. The cookies also allow us to keep track of your activity on the Site, properly credit entries to your account and help ensure that only you can access your account. The information collected by the cookies may be added to your personal profile and used to deliver offers and advertisements that are relevant to your interests. 
 
@@ -158,4 +156,4 @@ In the event Winloot® goes through a business transition, such as a merger, bei
 
 16\. Contact Us 
 
-If you have any questions or suggestions regarding this Privacy Policy, please contact us by clicking here or at either: Globalizer, LLC, Attn: Winloot Member Services (Privacy), 100 Duffy Ave, Suite 510, Hicksville, NY 11801. 
+If you have any questions or suggestions regarding this Privacy Policy, please contact us by [clicking here](http://winloot.zendesk.com/forums/21955052-FAQ) or at either: Globalizer, LLC, Attn: Winloot Member Services (Privacy), 100 Duffy Ave, Suite 510, Hicksville, NY 11801. 
