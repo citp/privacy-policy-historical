@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skinnywithfiber.org privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117143746id_/http%3A//dietbly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinnywithfiber.org privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520180552id_/http%3A//dietbly.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - DIETBLY
 
