@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the qples.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219163937id_/http%3A//qples.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qples.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520152500id_/http%3A//www.qples.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Qples, Inc. (Qples) and your Privacy**
+
+_Updated March 15, 2018_
 
 This privacy statement (“Privacy Policy”) covers the site www.Qples.com and its related websites, services, software applications and products (“Sites”), as well as our clients, advertisers and affiliates (collectively, “Affiliates”). Qples is committed to our users' privacy. This Privacy Policy is intended to help you understand what personal and non-personal information we collect, how it is protected and used, and how you can control it.
 
@@ -12,7 +14,7 @@ At Qples we respect your right to privacy and we expect that, as a visitor to ou
 
   * View, print, or otherwise interact with coupons
   * Redeem coupons
-  * Register with Qples or its Affiliates
+  * Register with Qples or its Trusted Partners
   * Use Qples services in conjunction with Facebook Connect or similar external registration methods
   * Chat or communicate with customer service
   * Request information
