@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hometourseries.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126064007id_/http%3A//www.ikea.com/ms/en_US/privacy_policy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometourseries.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520190554id_/http%3A//www.ikea.com/ms/en_US/privacy_policy/privacy_policy.html) for the most accurate reproduction.*
 
 # privacy policy - IKEA
 
@@ -34,7 +34,7 @@ We collect information on our website using transient cookies, sometimes called 
 When you visit our web site, we also collect anonymous information from you. This includes the Internet browser you are using; the computer operating system you are using, time spent visiting the web site, usage patterns within the web site, and the domain name of the web site from which you linked to our site. This information is not matched to your personal information and does not personally identify you. We collect this information to help improve your experience on the web site. Additionally, IKEA may share account or other information when we believe it is necessary to comply with the law or protect our interests and property. This may include sharing information with other companies, lawyers or government agencies in connection with issues related to fraud or government subpoenas and warrants.
 
 **FREE Hotspot Wireless Internet**  
-IKEA USA provides a FREE Hotspot wireless internet Service in our IKEA stores provided by IKEA for use by customers of IKEA. All users are required to log-in individually as an independent user. [Click here to view our full FREE wireless internet terms and conditions](http://www.ikea.com/ms/en_US/privacy_policy/terms_conditions.html)
+IKEA USA provides a FREE Hotspot wireless internet Service in our IKEA stores provided by IKEA for use by customers of IKEA. All users are required to log-in individually as an independent user. [Click here to view our full FREE wireless internet terms and conditions](https://www.ikea.com/ms/en_US/privacy_policy/terms_conditions.html)
 
 **Mobile**  
 IKEA offers our customers the ability to find out what’s new at their local IKEA store through their mobile device, either by browsing our mobile web site or through text messaging. Usage of the mobile web site follows similar standards employed by our standard web site; cookies may be employed to remember preferences or previous activity but do not reveal personal information and can be disabled using your mobile device’s Internet options. For text messaging, users will only receive messages if they have specifically opted in for them; standard text message rates will apply. To join IKEA Mobile, text the keyword "JOIN" to 62345. **To unsubscribe from IKEA Mobile, text the keyword "STOP" to 62345**.
@@ -81,8 +81,8 @@ IKEA also occassionally sends emails to customers who have opted in to receive e
 If you prefer not to receive product information or promotions from us by U.S. Mail, please [click here](http://info.ikea-usa.com/signup/mailOptout.aspx). To unsubscribe from our email list, please follow the opt-out instructions at the bottom of the email you received, or log in to [manage your email preferences](http://info.ikea-usa.com/signup/default.aspx?login=1) and update your profile by deselecting "Please send me: Inspirational emails and updates."
 
 **How can I contact IKEA?**  
-If you have any other questions about IKEA's privacy practices or about your personal information, please [contact us here](http://www.ikea.com/ms/en_US/customer_service/contact_us/contact.html) call  
-1-800-434-4532,  
+If you have any other questions about IKEA's privacy practices or about your personal information, please [contact us here](https://www.ikea.com/ms/en_US/customer_service/contact_us/contact.html) call  
+1-888-888-4532,  
 or write us at:  
 IKEA North America Services, LLC  
 Attention: Privacy Notice  
