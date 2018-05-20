@@ -1,17 +1,56 @@
-> *The following text is extracted and transformed from the techwhatsapp.com privacy policy that was archived on 2015-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151013083415id_/http%3A//techwhatsapp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techwhatsapp.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520051635id_/http%3A//tricksbite.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Techwhatsapp
+# Privacy Policy - Tricksbite
 
-Tech whats app is started to facilities people with gaining knowledge on latest technologies. At Tech Whats App I try to bring as accurate information as possible. While I try to facilitate people with our valuable article written by  tech experts, the privacy of the users are utmost important.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e695878bc8888f8dd7dfdfd0a6818b878f8ac885898b).
 
-This privacy policy page explain how the privacy of our valued users are maintained and the choice that users make on the method their information is collected and used.  Although the privacy of the users is very important, this privacy policy does not applies to  on the companies or entities that are beyond our control.
+At Tricksbite.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by Tricksbite.com and how we use it.
 
-I’m putting link to this privacy policy page on the home page for easy access so that readers could go through it and know how their personal identifiable information is collected and could be used. However, I endeavor to make sure  any misuse or disclose of users personal identifiable information.
+ **Log Files**  
+Like many other Web sites, Tricksbite.com makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-This website uses log files such as IP addresses, time and date of users visits, browsers, exit and entry pages,  and other trend to monitor website’s performance and improve it whenever required. This information is collected to monitor website’s performance, know users interest, users geographical location and other geographical data. IP address and other related information are not associated with the methods that could be used to personally identify anyone.
+ **Cookies and Web Beacons**  
+Tricksbite.com uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
 
-Techwhatsapp uses cookies to store users data based as per users interested and modify web page’s content as per users browsers.
+ **DoubleClick DART Cookie**
 
-Apart from it, I have shared many articles with links to other websites. I have no control on the privacy policy of other website and I also not concern about how they have structured it and how they collect users information. To know their privacy policy, I request you to check their privacy policy page.
+→ Google, as a third party vendor, uses cookies to serve ads on Tricksbite.com.  
+→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to Tricksbite.com and other sites on the Internet.  
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
-I keep on modifying privacy policy page as per users feedback and suggestion. So it is advisable to check this privacy policy page often. If you have any question or concern about this privacy policy and method of collecting personal data, please write to “opcmgt AT gmail DOT com”
+**Our Advertising Partners**  
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
+
+  * Google
+
+
+
+ _While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Privacy Policies](http://www.privacypolicyonline.com/privacy-policies).  
+You may consult this listing to find the privacy policy for each of the advertising partners of Tricksbite.com._
+
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on Tricksbite.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
+
+Tricksbite.com has no access to or control over these cookies that are used by third-party advertisers.
+
+ **Third Party Privacy Policies**  
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Tricksbite.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links").
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
+
+ **Children’s Information**  
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity.  
+Tricksbite.com does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that Tricksbite.com has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
+
+ **Online Privacy Policy Only**  
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there.  
+This policy does not apply to any information collected offline or via channels other than this website.
+
+ **Consent**  
+By using our website, you hereby consent to our privacy policy and agree to its terms.
+
+ **Update**  
+This Privacy Policy was last updated on: Monday, February 6th, 2017.  
+[](http://www.privacypolicyonline.com/ "PrivacyPolicyOnline.com Approved Site")  
+_Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
+
+[](http://www.dmca.com/Protection/Status.aspx?ID=2c2e96d8-ece2-4c10-be54-d014e6b00773 "Content Protection by DMCA.com")
