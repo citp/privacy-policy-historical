@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themesltd.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118211015id_/http%3A//www.themesltd.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themesltd.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520020410id_/http%3A//www.themesltd.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,7 +25,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 Third party links 
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. If you would like more information about this practice or to opt out of having this information used by companies that are part of the Network Advertising Initiative to provide targeted ads, please visit [http://www.networkadvertising.org](http://www.networkadvertising.org/)
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. If you would like more information about this practice or to opt out of having this information used by companies that are part of the Network Advertising Initiative to provide targeted ads, please visit [http://www.networkadvertising.org](https://www.networkadvertising.org/)
 
 California Online Privacy Protection Act Compliance
 
