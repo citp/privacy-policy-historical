@@ -1,101 +1,149 @@
-> *The following text is extracted and transformed from the globalrichlist.com privacy policy that was archived on 2017-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171014003704id_/http%3A//www.careinternational.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalrichlist.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520020252id_/http%3A//www.careinternational.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | CARE
 
-### CARE International UK is committed to protecting your privacy online.
+### CARE International UK is committed to protecting your privacy
 
-We may collect and process data about you, some of which is capable of identifying you as a particular individual. This policy sets out the basis on which any personal data we collect from you, or you provide to us, will be processed by us. For further information, please also see our [Data Protection Policy](https://www.careinternational.org.uk/sites/default/files/CIUK-Data-Protection-Policy-Sept-2017_with-GDPR-12-steps.pdf "download PDF of Data Protection Policy").
+CARE International is a registered charity in England and Wales with the registered charity number 292506.
 
-For the purposes of the Data Protection Act 1998 (the “Act”), the data controller is CARE International UK of 9th Floor, 89 Albert Embankment, London SE1 7TP, United Kingdom.
-
-### 1\. What personally identifiable information does CARE International UK collect about you?
-
-We may collect and process the following information about you:
-
-  * information you provide when filling in forms on the website such as your name, email address and address
-  * records of correspondence with you
-  * details of any transactions you carry out through our site such as donations to our work
-
-
-
-Like many other websites CARE International UK uses **cookies** and anonymous identifiers in order to provide you with a better, more personal web experience. A cookie is a file which is stored on the hard drive of your computer and which enables the website to recognise you. Cookies cannot in themselves be used to identify you. An anonymous identifier is a random string of characters that is used for the same purposes as a cookie on platforms, including certain mobile devices, where cookie technology is not available.
-
-If you do not wish to receive cookies you can easily modify your web browser to refuse cookies, or to notify you when you receive a new cookie. However, should you choose to refuse cookies, you may be unable to access certain parts of the website such as interactive features.
-
-We use **Google Analytics** to track non-identifying, anonymous website usage statistics, such as pages visited and referring websites, for the purposes of improving our websites; **Google Advertiser Features** to collect non-identifying, anonymous information for interest-based online advertising; and **Google Demographic and Interest Reports** to collect non-identifying, anonymous demographic data (such as age, gender and interest group) for reporting on general website visitor trends. We also use  **KISSmetrics** to collect non-identifying, anonymised data for the purpose of measuring website repeat visitors and website effectiveness.
-
-For more information on Google Analytics please see [www.google.com/intl/en_uk/analytics/index.html](http://www.google.com/intl/en_uk/analytics/index.html). For more information on KISSmetrics please see [www.kissmetrics.com](http://www.kissmetrics.com/) 
-
-We will never pass any information to Google:
-
-  * that Google could use or recognise as personally-identifiable information; or
-  * that permanently identifies a particular device (such as a mobile phone's unique device identifier if such an identifier cannot be reset).
-
-
-
-For more information about cookies and for instructions on how to stop cookies being installed on your computer, please see [www.bbc.co.uk/webwise/guides/about-cookies](http://www.bbc.co.uk/webwise/guides/about-cookies).
-
-To opt out of tracking by Google Analytics, we recommend installing <https://tools.google.com/dlpage/gaoptout/> on your browser.
-
-### 2\. How is CARE International UK using information about you?
-
-Any information we collect about you from the website is used to help us understand more about who visits the website.
-
-You may receive the following correspondences:
-
-  * Communications (whether electronically or otherwise) about CARE’s work or that we feel may be of interest to you.
-  * Periodic email newsletters from CARE. The frequency of these newsletters may vary. You can choose not to receive these newsletters by unsubscribing at any time.
-
-
-
-We will not pass on your details to any other organisation except in the specific circumstances described in paragraph 3 below.
-
-Should you not want us to use the information as set out above, please contact us stating your name and address.
-
-### 3\. Does CARE share your information?
-
-Except with your consent, we will only share your personally identifiable information as set out in this privacy policy.
-
-Certain pages on the website indicate that information you submit will not remain with CARE alone. Information submitted on the donation pages, for example, and as stated on that page, will be processed by our partner company that is providing the secure transactions.
-
-We may disclose your information to third parties in order to comply with any legal obligations, or to protect the property and other rights of CARE including disclosing information for the purposes of protection against fraudulent activities.
-
-We may need to share your information with our service providers, associated organisations and agents for administration and fundraising purposes. We will do this securely and only to companies we instruct to act on our behalf.
-
-### 4\. How does CARE store your information?
-
-When we collect data from you we take reasonably necessary steps to ensure that it is stored securely on our systems and treated in accordance with this privacy policy.
-
-Any payment transactions will be via WorldPay, Stripe and/or PayPal. We do not store credit card details nor do we share customer details with any third parties.
-
-The transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee or warrant the security of any data transmitted to our site and any transmission is at your own risk.
-
-### 5\. What are your rights?
-
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you before collection of data if we intend to use it for such purposes or if we intend to disclose it for such purposes to third parties acting on our behalf such as our service providers, associated organisations and agents for administration and fundraising purposes.
-
-### 6\. Can you update, correct, or delete your personally identifiable information?
-
-CARE maintains high standards of accuracy in keeping your identifying information up to date. If you change email address or know that the information we hold about you is inaccurate or out of date, please contact us.
-
-Pursuant to the Act, you have the right to make a written request to access the information held about you. We reserve the right to impose a small administration charge for fulfilling any request for details on the information we hold about you.
-
-### 7\. Is there anything else you should know?
-
-This website is intended primarily for use by adults. While we welcome users under the age of 18, CARE is not interested in collecting any personal information for users under the age of 18 and recommends that parents and/or guardians do not post, or permit others to post, any personally identifiable information with respect to persons under the age of 18.
-
-### 8\. Will this privacy policy change?
-
-CARE may update or modify this privacy policy from time to time. Such changes will be posted on this page and, where appropriate and possible, notified to you via email. Please be sure to check this page periodically for changes.
-
- **This privacy policy was last changed and posted on the website in April 2015**.
-
-### 9\. How can you contact CARE?
-
-Questions, comments and requests regarding our privacy policy and the website are welcome and should be addressed to:
-
-Supporter Services, CARE International UK  
-89 Albert Embankment, London SE1 7TP, United Kingdom  
+If you have any questions about your privacy or this Privacy Policy, please write to:  
+The Supporter Care team  
+CARE International  
+9th Floor  
+89 Albert Embankment  
+London  
+SE1 7TP  
 Email: [supportercare@careinternational.org](mailto:supportercare@careinternational.org)  
-Tel +44 (0) 20 7091 6000  
-Fax +44 (0) 20 7582 0728
+Or call our Supporter Care team on 020 7091 6100
+
+We take your privacy very seriously and will always do our best to protect your personal information. In this Privacy Policy we will tell you in plain English what information we collect and how we use it. If anything is unclear please let us know.
+
+One of the most important things to say is that we NEVER sell or exchange your personal information with other organisations for marketing purposes.
+
+Please note also that you are in control of how we might hold or use your personal information - see below for more details.
+
+For the purposes of this Privacy Policy "Data Protection Legislation" means EU Directive 95/46/EU, and from 25 May 2018 the General Data Protection Regulation (2016/679), and the UK Data Protection Act 1998.
+
+#### How we collect information
+
+We will collect information about you when:
+
+  * you make a donation, make a loan to an entrepreneur, campaign for us or enquire about an event. We may work with a professional fundraising agency such as Pure Telemarketing, Mango Telemarketing and Cymba SMS provider to collect this information, but please be assured that we are still responsible for your data
+  * sign up to receive updates on our activities
+  * you post on our social media sites like Facebook, Twitter and Instagram. Depending on your privacy settings or the privacy policies of these sites, you might give us permission to receive information about you from them
+  * you volunteer for CARE International
+  * you take part in one of our events or fundraise for us or enquire about doing this
+  * you contact us through the following channels: online, email, phone, SMS, social media or by post.
+  * you visit our website. As you navigate through our website certain technical information is gathered, using various technologies and means, without you personally providing this to us. This information includes internet protocol addresses, internet tags, navigational data ("log files", "server logs", and "clickstream" data), the internet platform you are using and device identifiers. CARE International UK gathers and records some of this information about your website visit and uses cookies and anonymous identifiers in order to provide you with a better, more individual web experience. Please see our [cookie policy](https://web.archive.org/cookie-policy) for more information on this.
+  * We may also receive information about you from third parties such as Care2, Just Giving and Virgin Money Giving – but only if you’ve given them permission to share your information with us. These organisations will have their own privacy policies so please do make sure you read them before providing your information.
+  * We may also collect personal information about you from the public domain, such as from social networks, company websites, political and property registers and news archives. We may also work with experts from external agencies to collect this information. This helps us find out where our supporters come from, what they do and what they are most interested in. This helps us to talk to you about the things that are most relevant to you and helps us find more passionate people like you to support CARE International’s vital work.
+
+
+
+#### The types of personal information we might hold about you
+
+  * Your name, address, email address and phone numbers
+  * Your date of birth
+  * Your bank or credit card details (only if you are making a donation)
+  * Your previous donation history and details of your plans to give in the future
+  * Your tax status if you have given us permission to claim Gift Aid or told us you are not eligible
+  * If you are taking part in an event we may also collect medical information, passport details and emergency contact details
+  * Where it is appropriate, we may ask your specific interests relating to our work
+
+
+
+#### Additional research about you
+
+To try to make sure we talk to you about areas of CARE International’s work that you are interested in and to make sure we don’t waste vital charity funds, we might add to what we know about you with information from third party sources. This may include:
+
+  * Your parliamentary constituency
+  * An estimate of your age, the size and make up of your household and your interests
+  * Possible geodemographic segmentation (this is characterising neighbourhoods on the principle that residents living near each other are likely to have similar demographic, socio-economic and lifestyle characteristics) 
+
+
+
+If you are making a significant donation we may carry out desk research into the source of your donation. You can read more about this in our donation acceptance policy. Please contact [supportercare@careinternational.org](mailto:supportercare@careinternational.org) or call our Supporter Care team on 020 7091 6100 to receive a copy of this policy. 
+
+#### Using your personal information
+
+We will use your information (see how we collect your information above) for the following purposes when it is in both yours and our legitimate interests to do so.
+
+  * To provide you with the service or information you have requested
+  * If you sign up for a fundraising event we will keep in touch with you regularly in the lead up to the event to ensure you have all of the details you need for taking part. We will also contact you after the event to get your feedback and communicate the total of the funds raised.
+  * To administer your donations, including Gift Aid processing
+  * To tailor internet and social media advertising according to your interests, preferences and the way you have used our website, Facebook or Twitter pages
+  * To send you mailings or call you about how your donations are helping people and how you can help CARE International continue its work to fight poverty and defend dignity
+  * To inform our marketing and raise more money for CARE International in a cost efficient way
+
+
+
+With your consent we may also:
+
+  * email or send you text messages with updates on fundraising appeals you have given to, new appeals, other CARE International news and opportunities to take part in surveys or research
+
+
+
+Your consent will be valid for at least three years, unless you tell us otherwise. If you do not open our emails or respond to our text messages during a three year period we will assume we no longer have consent to contact you in this way.
+
+We use external organisations to collect and/or process your personal information on our behalf. By agreeing to this Privacy Policy you are giving us a general written authorisation to do so in relation to the third parties listed below:
+
+  * Tokenhelp – process donations which are returned by post
+  * Amethyst – print supplier
+  * Brightsource – print and design supplier
+  * Postcom – postage supplier
+  * Mailchimp – email supplier
+  * LegacyLink – legacy administration
+  * Purity Fundraising – telemarketing
+  * Mango telemarketing
+  * Return Fundraising - telemarketing
+  * More Onion – digital agency who design, build and send email communications on behalf of CARE International
+  * Cymba – SMS marketing agency
+  * Capacity Marketing – supplier of the Free Wills service
+  * Virgin Money Giving – sponsorship website
+  * Just giving - sponsorship website
+  * care2 – campaigning platform
+  * Bluefrog – Lendwithcare website management
+  * Engaging Networks - online fundraising platform
+  * Google - website analytics
+  * Facebook - advertising
+
+
+
+This list is current as at the date of this Privacy Policy but may change from time to time as we look to work with partners who provide a great service and a good price. We will ensure that any future changes to this list are reflected in this Privacy Policy.
+
+In the process of working with Mailchimp your data may be transferred outside the EEA, to the US. Mailchimp is self-certified under [Privacy Shield](https://www.privacyshield.gov/participant?id=a2zt0000000TO6hAAG&status=Active). 
+
+#### How long we keep your information for
+
+We will hold your personal information on our systems for as long as is necessary for the relevant activity, for example we will keep a record of any donations you have made for up to six years.
+
+If you tell us you do not consent to receive our marketing, we will keep a record of your contact details to enable us to remove you from any contact lists now and in the future.
+
+If you have a direct debit with us and you cancel we will delete your bank details after two years, unless of course you choose to re-start your gift.
+
+Legacy income is vital to funding CARE International’s work. We may keep personal information you provide to us for as long as is needed both to administer legacy gifts and to communicate effectively with the families of people leaving us legacies. This also enables us to identify and analyse the source of legacy income we receive.
+
+#### How do we protect your information? 
+
+We implement appropriate technical and organisational security measures to protect your information and keep it confidential, including SSL technology, encryption and firewalls. 
+
+#### You are in control
+
+  * You can change your mind about the consent you have given us for our marketing activities at any time.
+  * You can ask us to stop using your information for any of the purposes listed above at any time.
+  * You can request to see the information we hold about you at any time and ask us to correct, delete or restrict it. Please note, there may be a small charge to cover administrative costs if you make multiple requests.
+  * You also have the right to ask us to move, copy or transfer the information we hold about you from our own IT environment to another of your choosing, in a safe and secure way.
+
+
+
+Simply write to CARE International, 9th Floor, 89 Albert Embankment, London SE1 7TP. Alternatively you can email [supportercare@careinternational.org](mailto:supportercare@careinternational.org) or call our Supporter Care team on 020 7091 6100.
+
+To check and/or change your preferences about how you would like us to contact you, you can also use our [online Supporter Hub](https://donate.careinternational.org.uk/page/19367/hub/1).
+
+If you are not happy with the way we have processed your data you can make a complaint to our Supporter Care team (at the above contact details). And if you aren’t happy with our response you have the right to lodge a complaint with the UK's Data Protection Authority - the [Information Commissioner’s Office](https://ico.org.uk/). Alternatively you can [go directly to them](https://ico.org.uk/concerns/).
+
+#### Changes to this Privacy Policy
+
+This policy will be reviewed at least annually. The next review is planned for January 2019. If we make significant changes we will publish them clearly on our website or contact you directly with more information.
+
+ _Updated May 2018_
