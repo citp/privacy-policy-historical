@@ -1,18 +1,9 @@
-> *The following text is extracted and transformed from the k9pcfixer.com privacy policy that was archived on 2017-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170728013815id_/http%3A//k9pcfixer.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the k9pcfixer.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520234838id_/http%3A//k9pcfixer.com/privacypolicy) for the most accurate reproduction.*
 
 # K9-PCFixer - Privacy Policy
 
-|   
----  
-| 
-
-Call: (855) 716-7017 (Toll Free, 24*7)
-
-|   
----|---  
+We respect your privacy. Feel safe and secure when you do business with us.   
   
-We respect your privacy. Feel safe and secure when you do business with us. 
-
 General
 
 K9-PCFixer. is strongly committed to protect your privacy and provide a safe online experience for all of our users and registered customers while offering the highest quality products and services to them. We may gather certain types of information about and from you to fulfill your request and serve your needs better, we feel you should fully understand the terms and conditions covering the collection and use of this information. This privacy statement discloses what information we may gather, how we may use it and how to correct or change it. Please read the "Privacy Policy" completely, as well as our 'Terms and Conditions' for use of information we may gather. Should you have any questions in this regard, feel free to contact us. 
