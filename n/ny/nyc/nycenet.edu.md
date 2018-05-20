@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nycenet.edu privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118195659id_/http%3A//schools.nyc.gov/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nycenet.edu privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520025446id_/http%3A//schools.nyc.gov/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # NYC Schools - Privacy Notice - Rules & Policies - New York City Department of Education
 
