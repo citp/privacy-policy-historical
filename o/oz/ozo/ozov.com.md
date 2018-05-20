@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ozov.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119115645id_/http%3A//ozov.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozov.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520133910id_/http%3A//ozov.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy at ozov.com - Play free games online
+# Privacy Policy | Play Free Games Online at Ozov
 
 **PRIVACY / TERMS OF SERVICE**
 
@@ -8,7 +8,7 @@
 
 **Liability**
 
-All materials, information, software, products and services (also referred to as “Content”), included in or available through www.ozov.com (also referred to as “Site”) are provided on an “as is” basis. The Content is provided without warranties of any kind.
+All materials, information, software, products and services (also referred to as “Content”), included in or available through www.[ozov](http://ozov.com/).com (also referred to as “Site”) are provided on an “as is” basis. The Content is provided without warranties of any kind.
 
 **By using the Content of the Site, you explicitly agree to these terms and conditions. We do not warrant that the Content on this Site is accurate, reliable or correct; that this Site will be available at any particular time or location; that any defects or errors will be corrected; or that the Content is free of viruses or other harmful components. Your use of this Site is solely at your own risk. Any Content viewed, downloaded or otherwise obtained through the use of this Site is done solely at your own discretion and risk, and you will be solely responsible for any damage, including without limitation personal injury or distress, damage to your computer system, or loss of data, that results from the viewing or download of any Content. The owner can not be held responsible for any problems occuring by using or not using the Site and its Content in any way.**
 
@@ -24,7 +24,7 @@ The site ozov.com may not be copied, reproduced, republished, uploaded, posted, 
 
 Content of Third Parties
 
-Games and other content on the site which is not made and copyrighted by the owner of this site, is either licensed or used with permission and protected by international copyright. These games are intellectual property and/or copyright and/or trademark by their respective owners and/or authors.If you are the developer/owner/copyright holder of a game and you wish to have it removed by the owner of this site, please email us by contact form.
+[Games](http://ozov.com/) and other content on the site which is not made and copyrighted by the owner of this site, is either licensed or used with permission and protected by international copyright. These games are intellectual property and/or copyright and/or trademark by their respective owners and/or authors.If you are the developer/owner/copyright holder of a game and you wish to have it removed by the owner of this site, please email us by contact form.
 
 Privacy Policy
 
@@ -46,7 +46,7 @@ Most games on this Site are based on Flash and Unity technologies. Flash & Unity
 
 **             Use of Facebook and Google Social Plugins**
 
-The responsible entity uses social plugins (“plugins”) of the social networks Facebook and Google on its website from facebook.com, which is operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, United States (“Facebook”) and google.com, which is operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, California, 94043, United States (“Google+1″). The plugins are marked with their logos: Facebook and Google+1. If the customer visits a web page on ozov.com, which contains such a plugin, the browser builds up a direct link to the Facebook or Google servers. The contents of the plugin is from Facebook and Google directly to the browser of the customer and integrated into this website.
+The responsible entity uses social plugins (“plugins”) of the social networks Facebook and Google on its website from facebook.com, which is operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, United States (“Facebook”) and google.com, which is operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, California, 94043, United States (“Google+1”). The plugins are marked with their logos: Facebook and Google+1. If the customer visits a web page on ozov.com, which contains such a plugin, the browser builds up a direct link to the Facebook or Google servers. The contents of the plugin is from Facebook and Google directly to the browser of the customer and integrated into this website.
 
 By integrating these plugins Facebook and Google receive information that the customer has visited this website ozov.com. If the customer is logged into Facebook or Google, these companies can assign the visit of the website to his or her Facebook/Google account. When the customer interacts with the plugins, for example, the “Like” button, “+1 Button” or add a comment, the corresponding information from the client’s browser is sent directly to Facebook or Google and stored there. Purpose and scope of data collection and further processing and use of data through Facebook or Google are related to the settings of the customer to protect his privacy, refer to the privacy policies of Facebook or Google.
 
