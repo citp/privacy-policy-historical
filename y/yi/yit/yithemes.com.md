@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yithemes.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228005526id_/https%3A//yithemes.com/cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yithemes.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520234030id_/https%3A//yithemes.com/cookie-policy) for the most accurate reproduction.*
 
 # Cookie policy
 
@@ -122,5 +122,3 @@ Notice to European Users: this privacy statement has been prepared in fulfillmen
 ### ABOUT US
 
 We develop innovative WordPress themes and plugins for e-commerce, portfolio, corporate sites, blogs and communities. We are among the ThemeForest Top Sellers and for years our philosophy has been based on simplicity, beauty and 100% effectiveness. To show it, we offer a free version of our products to the users.
-
-Payment Options
