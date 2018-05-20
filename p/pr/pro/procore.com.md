@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the procore.com privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005023018id_/https%3A//www.procore.com/fine-print/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the procore.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520032800id_/http%3A//www.procore.com/fine-print/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Procore
 
