@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the freemius.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119212015id_/https%3A//freemius.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemius.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520110255id_/https%3A//freemius.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Freemius
 
 Freemius, Inc. (the “Company”) is committed to maintaining robust privacy protections for its users. Our Privacy Policy (“Privacy Policy”) is designed to help you understand how we collect, use and safeguard the information you provide to us and to assist you in making informed decisions when using our Service.
 
-For purposes of this Agreement, “Service” refers to the Company’s service which can be accessed via at [freemius.com](http://freemius.com/) in which developers can integrate Freemius and turn their software into a freemium product, or by accessing the Service through software integrated with our API (the “Partners”) in which publishers can sign-up into the Partners' software.
+For purposes of this Agreement, “Service” refers to the Company’s service which can be accessed via at [freemius.com](http://freemius.com/) in which developers can integrate Freemius and turn their software into a freemium product, or by accessing the Service through software integrated with our API (the “Partners”) in which publishers can sign-up into the Partners’ software.
 
 The terms “we,” “us,” and “our” refer to the Company. “You” refers to you, as a user of Service. By accepting our [Privacy Policy](http://freemius.com/privacy/ "Privacy Policy") and [Terms of Use](http://freemius.com/terms/ "Terms of use"), you consent to our collection, storage, use and disclosure of your personal information as described in this Privacy.
 
@@ -24,7 +24,7 @@ To activate the Service you do not need to submit any Personal Information other
 
 
 
-The Company may use both persistent and session cookies; persistent cookies remain on your computer after you close your session and until you delete them, while session cookies expire when you close your browser. You can configure your browser to stop accepting cookies or to prompt you before accepting a cookie from any website you visit. If you do this, it’s possible that Freemius might not work as well.
+The Company may use both persistent and session cookies; persistent cookies remain on your computer after you close your session and until you delete them, while session cookies expire when you close your browser. You can configure your browser to stop accepting cookies or to prompt you before accepting a cookie from any website you visit. If you do this, it’s possible that Freemius might not work as well. For complete information about our cookies policy please visit our [Cookies Policy](https://web.archive.org/privacy/cookies/) page.
 
 ### 2- Information you provide us by registering for an account 
 
@@ -37,6 +37,8 @@ In addition to the information provided automatically by your browser when you v
 Except as otherwise stated in this Privacy Policy, we do not sell, trade, rent or otherwise share for marketing purposes your Personal Information with third parties without your consent. We do share Personal Information with our partners and vendors who are performing services for the Company, such as the servers for our email communications who are provided access to user’s email address for purposes of sending emails from us. Those vendors use your Personal Information only at our direction and in accordance with our Privacy Policy.
 
 In general, the Personal Information you provide to us is used to help us communicate with you. For example, we use Personal Information to contact users in response to questions, solicit feedback from users, provide technical support, and inform users about promotional offers.
+
+Additionally, the terms of the Data Processing Addendum available at [https://freemius.com/terms/dpa/](https://web.archive.org/terms/dpa/) shall apply to such Personal Information and be treated as an integral part of this privacy policy.
 
  ** _Non-Personal Information_**
 
@@ -52,14 +54,26 @@ We implement security measures designed to protect your information from unautho
 
 You have the right at any time to prevent us from contacting you for marketing purposes. When we send a promotional communication to a user, the user can opt out of further promotional communications by following the unsubscribe instructions provided in each promotional e-mail. You can also indicate that you do not wish to receive marketing communications from us in the “Settings” section of the Site. Please note that notwithstanding the promotional preferences you indicate by either unsubscribing or opting out in the Settings section of the Site, we may continue to send you administrative emails including, for example, periodic updates to our Privacy Policy.
 
-## V. Links To Other Websites
+## V. Your Right To Be Forgotten
+
+You have the right to request for the erasure of your personal data off of our servers. Once such a request is made by you (please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a2d2d0cbd4c3c1dbe2c4d0c7c7cfcbd7d18cc1cdcf)) we will be committed to carry out the erasure procedure as soon as possible.  
+Please note that:
+
+  1. Even after the erasure procedure is complete, your personal data will continue to reside in our backup archives for another 3 weeks. The reason for that is that it’s inoperable for us to isolate individual personal data within the entire archive.
+  2. You can rest assured that your personal data will not be restored back into the production systems (except in certain rare instances, e.g., the need to recover from a natural disaster or from a serious security breach). In such cases, your personal data may be restored from backups, but the controller will take the necessary steps to honor the initial request and erase the primary instance of that data once again.
+  3. Any backup archives which contain personal data are protected by strong encryption. Therefore, even if criminals were able to steal the archive, its contents would still remain inaccessible to them.
+  4. Records of all data subject requests regarding their personal data will be retained, as will audit logs that record all activities on backup archives containing personal data. This means that the user can be confident that their personal data has been backed up in accordance with GDPR principles of security by design and by default, as well as data minimization, and that their rights, including the right to be forgotten, have been honored.
+
+
+
+## VI. Links To Other Websites
 
 As part of the Service, we may provide links to or compatibility with other websites or applications. However, we are not responsible for the privacy practices employed by those websites or the information or content they contain. This Privacy Policy applies solely to information collected by us through the Site and the Service. Therefore, this Privacy Policy does not apply to your use of a third party website accessed by selecting a link on our Site or via our Service. To the extent that you access or use the Service through or on another website or application, then the privacy policy of that other website or application will apply to your access or use of that site or application. We encourage our users to read the privacy statements of other websites before proceeding to use them.
 
-## VI. Changes To Our Privacy Policy
+## VII. Changes To Our Privacy Policy
 
 The Company reserves the right to change this policy and our Terms of Service at any time. We will notify you of significant changes to our Privacy Policy by sending a notice to the primary email address specified in your account or by placing a prominent notice on our site. Significant changes will go into effect 30 days following such notification. Non-material changes or clarifications will take effect immediately. You should periodically check the Site and this privacy page for updates.
 
-If you have any questions regarding this Privacy Policy or the practices of this Site, please contact us by sending an email to [privacy@freemius.com](mailto:privacy@freemius.com).
+If you have any questions regarding this Privacy Policy or the practices of this Site, please contact us by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#90e0e2f9e6f1f3e9d0f6e2f5f5fdf9e5e3bef3fffd).
 
- _ **Last Updated: This Privacy Policy was last updated on February 24, 2015.**_
+ _ **Last Updated: This Privacy Policy was last updated on May 17, 2015.**_
