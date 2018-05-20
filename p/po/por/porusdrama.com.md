@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the porusdrama.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215061253id_/http%3A//porusdrama.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porusdrama.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520171744id_/http%3A//porusdrama.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
