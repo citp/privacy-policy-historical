@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thestarphoenix.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228094014id_/http%3A//www.postmediaadvertising.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestarphoenix.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520044456id_/http%3A//www.postmedia.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | Postmedia Integrated Advertising
+# Privacy Statement | Postmedia Network Inc.
 
-**[Version Française](http://www.postmediaadvertising.com/enonce-relatif-a-la-protection-des-renseignements-personnels/)**
+[Version Française](http://wp.me/P13blf-9J)
 
 Postmedia Network Canada Corp. and its affiliated and subsidiary entities, including Postmedia Network Inc. (“ **Postmedia** ”, “ **we** ” or “ **us** ”) is committed to protecting your privacy and safeguarding your personal information. The Postmedia Privacy Policy (available [**here**](http://www.postmedia.com/wp-content/uploads/2014/09/Postmedia-Privacy-Policy-Final.pdf)) and this Privacy Statement (collectively, the “ **Privacy Policy** ”) describe how we may collect, use and disclose personal information. The Privacy Policy applies to any personal information we collect or receive about you, from any source. However, it does not apply to personal information that we collect, use or disclose for journalistic purposes.
 
@@ -51,7 +51,3 @@ Postmedia Network Inc.
 Postmedia Place  
 365 Bloor Street East, 12th Floor  
 Toronto, Ontario Canada M4W 3L4
-
-Updated: September 8, 2014
-
-Back To Top
