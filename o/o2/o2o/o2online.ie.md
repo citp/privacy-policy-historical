@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the o2online.ie privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118215026id_/http%3A//www.three.ie/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the o2online.ie privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520040243id_/https%3A//www.three.ie/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,7 +16,7 @@ We will only collect personal information about you with your awareness and as d
 
 We may collect and process the following data through our website (and combine this with data provided offline through your interactions with us):
 
-  * Three uses cookies or similar technologies on our website. To find out more visit our Cookie Policy available at <http://www.three.ie/cookie-policy/>. By using our website, you agree to Three’s use of cookies. You can opt out at any time by visiting <http://www.youronlinechoices.com/ie/your-ad-choices> or by using the specific opt-outs listed in our Cookie Policy.
+  * Three uses cookies or similar technologies on our website. To find out more visit our Cookie Policy available at [//www.three.ie/cookie-policy/](https://www.three.ie/cookie-policy/). By using our website, you agree to Three’s use of cookies. You can opt out at any time by visiting <http://www.youronlinechoices.com/ie/your-ad-choices> or by using the specific opt-outs listed in our Cookie Policy.
   * Any information provided by or about you through our website including competitions, comment boxes, forms, links, website usage or any other means.
   * If any person contacts us via phone, email, post, surveys, through our website or otherwise, we may keep a record of that correspondence.
   * Where you purchase any products or services from us, we collect your data in relation to that product or service as set out in this policy and our contract with you for that product or service.
@@ -37,7 +37,7 @@ You agree that any data you provide to us will be true, complete and accurate in
   * personalise your experience on our website;
   * provide and conduct competitions and similar offers;
   * keep you up to date by post, telephone, email, and direct to your handset by text, picture, video and audio message or pop-up with information About Three, 3 services, and offers and promotions subject to any marketing preferences indicated by you. It's your choice and you’re in control - you can contact us at any time to update your preferences through My3, using the opt-out links on any email or SMS you receive or by writing to or calling customer services. Please note that where you opt out of all marketing from Three you will still receive service communications from Three (for example, billing communications); and
-  * show you targeted online marketing adverts on our website and other websites. See our [Cookie Policy](http://www.three.ie/cookie-policy/) for more information on third party cookies we use for targeted advertising and how to opt out. Where you opt out of the use of third party cookies by Three you will no longer see targeted ads but may see generic ads online featuring Three. Online targeted adverts may be targeted by matching activities or information collected via third party cookies on our website with information collected offline (e.g. your contract type or length with us). 
+  * show you targeted online marketing adverts on our website and other websites. See our [Cookie Policy](https://www.three.ie/cookie-policy/) for more information on third party cookies we use for targeted advertising and how to opt out. Where you opt out of the use of third party cookies by Three you will no longer see targeted ads but may see generic ads online featuring Three. Online targeted adverts may be targeted by matching activities or information collected via third party cookies on our website with information collected offline (e.g. your contract type or length with us). 
 
 
 
