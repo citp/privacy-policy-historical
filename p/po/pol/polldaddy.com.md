@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the polldaddy.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225231722id_/https%3A//polldaddy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polldaddy.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520182152id_/https%3A//polldaddy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Polldaddy.com
+
+**We're updating our Privacy Policy on May 25, 2018. You can learn about what's new[here](https://en.blog.wordpress.com/2018/05/14/new-privacy-features-and-updated-policies), and review the new [Privacy Policy](https://automattic.com/privacy).**
 
 All of us at Polldaddy take your privacy and security very seriously. This privacy statement discloses our information practices and declares our data collection methods, usage and confidentiality policies throughout our site. 
 
