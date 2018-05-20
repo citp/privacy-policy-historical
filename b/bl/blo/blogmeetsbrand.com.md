@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogmeetsbrand.com privacy policy that was archived on 2017-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170724063348id_/https%3A//www.blogmeetsbrand.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogmeetsbrand.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520032106id_/https%3A//www.blogmeetsbrand.com/privacy-policy) for the most accurate reproduction.*
 
 # Blog Meets Brand - Connecting Bloggers and Marketers
 
@@ -81,4 +81,4 @@ Subject to certain limits under California Civil Code § 1798.83, California res
 
 #### Contact Us
 
-Should any User have any questions or experience a personal information privacy problem, please [Contact Us](https://web.archive.org/index.php/contact). 
+Should any User have any questions or experience a personal information privacy problem, please [Contact Us](https://web.archive.org/contact). 
