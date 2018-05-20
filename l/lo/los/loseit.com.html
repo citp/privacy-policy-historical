@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the loseit.com privacy policy that was archived on 2017-11-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171118211811id_/http%3A//loseit.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the loseit.com privacy policy that was archived on 2018-05-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180520183121id_/http%3A//loseit.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -80,12 +80,9 @@
         html{color:#000;background:#FFF}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0}table{border-collapse:collapse;border-spacing:0}fieldset,img{border:0}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal}ol,ul{list-style:none}caption,th{text-align:left}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal}q:before,q:after{content:''}abbr,acronym{border:0;font-variant:normal}sup{vertical-align:text-top}sub{vertical-align:text-bottom}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit}input,textarea,select{*font-size:100%}legend{color:#000}#yui3-css-stamp.cssreset{display:none}
         body{font:13px/1.231 arial,helvetica,clean,sans-serif;*font-size:small;*font:x-small}select,input,button,textarea{font:99% arial,helvetica,clean,sans-serif}table{font-size:inherit;font:100%}pre,code,kbd,samp,tt{font-family:monospace;*font-size:108%;line-height:100%}#yui3-css-stamp.cssfonts{display:none}
 
-        *{
-            -webkit-font-smoothing: antialiased
-        }
         html,body {
             background:#fff;
-            font-family: "Geneva", "Calibri", "Arial", sans-serif;
+            font-family: "Avenir", "Helivetica", "Geneva", "Calibri", "Arial", sans-serif;
             color: #4c4c4c;
         }
         a {
@@ -95,7 +92,8 @@
         }
 
         #content {
-            width:970px;
+            max-width:1030px;
+            padding:0 30px;
             margin:0 auto;
         }
 
@@ -137,55 +135,42 @@
     </style>
 </head>
 <body><style>
-    #hd {
-        margin:11px auto 0 auto;
-        width:970px;
-        height:55px;
-        line-height:55px;
-        position:relative;
-        font-size:138.5%;
-        letter-spacing:-1px;
-        z-index:1;
-    }
-    #hd a {
-        color:#333;
-    }
-    #hd a:hover {
-        color:#e69614;
-    }
-    #logo {
-        position:absolute;
-        left:0;
-        top:4px;
-    }
-    #nav li{
-        float:right;
-        margin-left:35px;
-    }
-    #hd #signin {
-        color:#d48300;
-    }
-    #hd #signin:hover {
-        color:#e69614;
+    .content_block { width:100%; display:relative; overflow:hidden;}
+
+    #nav { height:160px; width:900px; position:relative; margin:0 auto; }
+    #nav .logo { position:absolute; top:52px; left:0; }
+    #nav ul { display:block; position:absolute; top:74px; right:0; text-align:right; }
+    #nav li { display:inline; }
+    #nav li a { font-size:15px; color:#666; text-decoration:none; font-family:Raleway, sans-serif; padding:5px 15px; }
+    #nav li a:hover { text-decoration:underline; }
+    #nav li a i { font-size:10px; text-transform:uppercase; color:#ed8623; font-style:normal; }
+    #nav .selected,
+    #nav .selected:hover {color:#ed8623; font-weight:bolder; text-decoration:none; cursor:default;}
+    #nav .button,
+    #nav .button:hover { background: #ed8623; background-image:linear-gradient(top, #ed8623, #d71);background-image:-webkit-linear-gradient(top, #ed8623, #d71); text-transform:uppercase; color:#fff; margin-left:15px; padding:5px 25px; text-decoration:none; box-shadow:0 2px 6px rgba(0,0,0,0.3); font-weight:300; }
+    #nav .button:hover { background: #f93; background-image:linear-gradient(top, #f93, #ed8623);background-image:-webkit-linear-gradient(top, #f93, #ed8623); text-transform:uppercase; color:#fff; padding:5px 25px; text-decoration:none;}
+
+    @media only screen and (max-width: 750px)
+    {
+        #nav { width:100%; }
+        #nav .logo { position:relative; margin:0 auto; display:block; }
+        #nav ul { display:none; }
     }
 
-    .mobile #hd { display:none; }
 </style>
-<div id="hd">
-    <a href="/"><img src="https://loseit.s3.amazonaws.com/static/img/home/logo.png" id="logo" height="85" width="245" alt="Lose It!"></a>
-<ul id="nav">
-            <li><a href="https://www.loseit.com/account" id="signin" onclick="loseItLogin();return false">Sign In</a></li>
-            <li><a href="https://www.loseit.com/premium" id="premium_navbar">Premium</a></li>
-
-
-
-            <li><a href="https://www.loseit.com/snapit">Snap It
-                <span style="font-size: 60%;">BETA</span></a></li>
-            <li><a href="https://www.loseit.com/account#signup">Get Lose It!</a></li>
-            <li><a href="/how-it-works/">How It Works</a></li>
-            <li><a href="/">Home</a></li>
+<div id="nav" class="content_block">
+    <a href="/"><img src="/_home/logo.png" width="223" height="57" alt="Lose It!" class="logo"></a>
+    <ul>
+        <li><a href="/" class="selected">Home</a></li>
+        <li><a href="/account#signup">Get Lose It!</a></li>
+        <li><a href="https://embodydna.com/">embodyDNA</a></li>
+        <li><a href="/snapit/">Snap It™ <i>BETA</i></a></li>
+        <li><a href="/premium/">Premium</a></li>
+        <li><a href="/account" class="button">Sign In</a></li>
         </ul>
-</div><style>
+</div>
+
+<style>
     #hr {
         height:1px;
         background:#e2e2e2;
@@ -369,11 +354,13 @@
     }
 
 </style>
-<div id="content">
-    <div id="hr"></div>
-    <div id="secondary"><style>
-    #markdown h1 { font-size: 34px; color:#000; margin:0; padding:1em 0 0 0; }
-    #markdown h2 { font-size: 28px; color:#222; margin:0; padding:1em 0 0 0; }
+<div id="content"><style>
+    #markdown h1,
+    #markdown h2,
+    #markdown h3,
+    #markdown h4 { font-family:Raleway, "Avenir", "Helivetica", "Geneva", "Calibri", "Arial", sans-serif; text-align: center; }
+    #markdown h1 { position:relative; line-height: 1.1; letter-spacing: -.01em; font-size: 48px; padding-bottom: 35px; color: #ed8623; margin: 80px 0 40px 0; }
+    #markdown h2 { position:relative; line-height: 1.1; letter-spacing: -.01em; font-size: 36px; padding-bottom: 35px; color: #183962; margin: 80px 0 40px 0; }
     #markdown h3 { font-size: 22px; color:#444; margin:0; padding:1em 0 0 0; }
     #markdown h4 { font-size: 18px; color:#444; margin:0; padding:1em 0 0 0; }
     #markdown p { font-size: 18px; color:#555; margin:0; padding:1em 0 0 0; }
@@ -400,6 +387,9 @@
     }
     #markdown a:hover b,
     #markdown a:hover strong { box-shadow: 0 1px 0 #fcca88 inset, 0 0 20px #faa73c; }
+
+
+    #markdown h2:after { content: ''; position: absolute; bottom: 0; left: 50%; -webkit-transform: translateX(-50%); transform: translateX(-50%); height: 14px; width: 70px; background: #ed8623; }
 </style>
 <div id="markdown"><div>
 <style>
@@ -498,7 +488,6 @@
 <p>Last Updated: 07/11/2017</p>
 </div>
 </div>
-</div>
 
 <style>
     #ft {
@@ -530,9 +519,9 @@
     <div id="ft-nav">
         <a href="https://thehow.loseit.com/">The How</a>
         <span>|</span>
-        <a href="http://twitter.com/loseit">Twitter</a>
+        <a href="https://twitter.com/loseit">Twitter</a>
         <span>|</span>
-        <a href="http://www.facebook.com/loseit">Facebook</a>
+        <a href="https://www.facebook.com/loseit">Facebook</a>
         <span>|</span>
         <a href="https://www.instagram.com/loseitapp/">Instagram</a>
         <span>|</span>
@@ -549,7 +538,7 @@
         <a href="https://help.loseit.com/hc/en-us">Support</a>
     </div>
     <div id="copyright">
-        © Copyright 2008 - 2017 FitNow, Inc. All Rights Reserved
+        © Copyright 2008 - 2018 FitNow, Inc. All Rights Reserved
     </div>
     <div id="ft-nav2">
         <a href="/privacy/">Privacy</a>
