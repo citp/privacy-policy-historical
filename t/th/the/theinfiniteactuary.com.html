@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the theinfiniteactuary.com privacy policy that was archived on 2017-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171216220307id_/http%3A//www.theinfiniteactuary.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theinfiniteactuary.com privacy policy that was archived on 2018-05-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180520020633id_/http%3A//www.theinfiniteactuary.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
   <meta charset="utf-8">
@@ -22,9 +22,22 @@ firebase.initializeApp(config);
 
 
 
+var config2 = {
+  apiKey: "AIzaSyD2lHKRL17PUxBUSsJ8sEswwGRaIceJBVE",
+  authDomain: "learn-e6ac5.firebaseapp.com",
+  databaseURL: "https://learn-e6ac5.firebaseio.com",
+  projectId: "learn-e6ac5",
+  storageBucket: "learn-e6ac5.appspot.com",
+  messagingSenderId: "485230681243"
+};
+
+
+var lesson_fbapp = firebase.initializeApp(config2, "secondary");
+
 function logoutHook() {
   firebase.auth().signOut();
-  }
+      firebase.auth(lesson_fbapp).signOut();
+    }
 </script>
   
   
@@ -130,12 +143,15 @@ function updateWtCountFbUi(snap) {
     setBlockTitleAndTime(cuedLid);
   }   
 
-  // TODO test - firebase hook UI local all headers update
-  if (window['refreshVideoCounterHeaders2']) {
+  // firebase hook UI local all headers update
+  if (typeof window['refreshVideoCounterHeaders2'] !== 'undefined') {
     refreshVideoCounterHeaders2(-1, lid, true);
   }
   if (clearAnchor) {
     jQuery('#lesson-anchor-check-holder-' + lid).removeClass('check');
+  }
+  else {
+    jQuery('#lesson-anchor-check-holder-' + lid).addClass('check');
   }
   
 }
@@ -143,8 +159,7 @@ function updateWtCountFbUi(snap) {
 
 $(window).on('load', function() {
 
-      return;
-      
+    
   initLessonRootFb();
 
   });
@@ -226,24 +241,28 @@ function uResult2(err) {
     <ul>
   <li class="has-drop-down"><a href="#" class="has-drop-down-a">Products</a>
     <div class="drop">
-      <ul class="drop-area same-height-left same-height-right" style="height: 189px;">
+      <ul class="drop-area same-height-left" style="">
         <li class="has-drop-down"><a href="#" class="has-drop-down-a"><span>ASA</span></a>
-          <div class="drop-frame drop-area same-height-left same-height-right" style="height: 130px;">
+          <div class="drop-frame drop-area" style="">
             <ul>
               <li><a href="/exams/1">P</a></li>
               <li><a href="/exams/2">FM</a></li>
               <li><a href="/exams/10">MLC</a></li>
               <li><a href="/exams/3">MFE</a></li>
+              <li><a href="/exams/44">IFM</a></li>
               <li><a href="/exams/4">C</a></li>
+              <li><a href="/exams/43">STAM</a></li>
+              <li><a href="/exams/45">LTAM</a></li>
             </ul>
           </div>
         </li>
         <li class="has-drop-down"><a href="#" class="has-drop-down-a"><span>ACAS</span></a>
-          <div class="drop-frame drop-area same-height-left same-height-right" style="height: 182px;">
+          <div class="drop-frame drop-area" style="">
             <ul>
               <li><a href="/exams/1">P</a></li>
               <li><a href="/exams/2">FM</a></li>
               <li><a href="/exams/3">MFE</a></li>
+              <li><a href="/exams/44">IFM</a></li>
               <li><a href="/exams/35">MAS-I</a></li>
               <li><a href="/exams/4">C</a></li>
               <li><a href="/exams/6">Exam 5</a></li>
@@ -252,7 +271,7 @@ function uResult2(err) {
           </div>
         </li>
         <li class="has-drop-down"><a href="#" class="has-drop-down-a"><span>CERA</span></a>
-          <div class="drop-frame drop-area same-height-left same-height-right" style="height: 78px;">
+          <div class="drop-frame drop-area" style="">
             <ul>
               <li><a href="/exams/26">ERM</a></li>
               <li><a href="/exams/7">Exam 7</a></li>
@@ -261,7 +280,7 @@ function uResult2(err) {
           </div>
         </li>
         <li class="has-drop-down"><a href="#" class="has-drop-down-a"><span>FSA</span></a>
-          <div class="drop-frame drop-area same-height-left same-height-right" style="height: 286px;">
+          <div class="drop-frame drop-area" style="">
             <ul>
               <li><a href="/exams/17">ILA LP</a></li>
               <li><a href="/exams/13">ILA LFV - U</a></li>
@@ -278,7 +297,7 @@ function uResult2(err) {
           </div>
         </li>
         <li class="has-drop-down"><a href="#" class="has-drop-down-a"><span>FCAS</span></a>
-          <div class="drop-frame drop-area same-height-left same-height-right" style="height: 130px;">
+          <div class="drop-frame drop-area" style="">
             <ul>
               <li><a href="/exams/6">Exam 5</a></li>
               <li><a href="/exams/8">Exam 6</a></li>
@@ -289,7 +308,7 @@ function uResult2(err) {
           </div>
         </li>
         <li class="has-drop-down"><a href="#" class="has-drop-down-a"><span>EA</span></a>
-          <div class="drop-frame drop-area same-height-left same-height-right" style="height: 78px;">
+          <div class="drop-frame drop-area" style="">
             <ul>
               <li><a href="/exams/20">1</a></li>
               <li><a href="/exams/21">2L</a></li>
@@ -298,10 +317,11 @@ function uResult2(err) {
           </div>
         </li>
         <li class="has-drop-down"><a href="#" class="has-drop-down-a"><span>SKILLS</span></a>
-          <div class="drop-frame drop-area same-height-left same-height-right" style="height: 78px;">
+          <div class="drop-frame drop-area same-height-right" style="">
             <ul>
               <li><a href="/skills">TSC</a></li>
               <li><a href="/databases">Databases</a></li>
+              <li><a href="/R">R Course</a></li>
               <li><a href="/mia_online">MIA</a></li>
             </ul>
           </div>
@@ -311,24 +331,28 @@ function uResult2(err) {
   </li>
   <li class="has-drop-down"><a href="#" class="has-drop-down-a">Lessons</a>
     <div class="drop">
-      <ul class="drop-area same-height-left same-height-right" style="height: 189px;">
+      <ul class="drop-area same-height-left" style="">
         <li class="has-drop-down"><a href="#" class="has-drop-down-a"><span>ASA</span></a>
-          <div class="drop-frame drop-area same-height-left same-height-right" style="height: 130px;">
+          <div class="drop-frame drop-area" style="">
             <ul>
               <li><a href="/lessons/1">P</a></li>
               <li><a href="/lessons/2">FM</a></li>
               <li><a href="/lessons/10">MLC</a></li>
               <li><a href="/lessons/3">MFE</a></li>
+              <li><a href="/lessons/44">IFM</a></li>
               <li><a href="/lessons/4">C</a></li>
+              <li><a href="/lessons/43">STAM</a></li>
+              <li><a href="/lessons/45">LTAM</a></li>
             </ul>
           </div>
         </li>
         <li class="has-drop-down"><a href="#" class="has-drop-down-a"><span>ACAS</span></a>
-          <div class="drop-frame drop-area same-height-left same-height-right" style="height: 182px;">
+          <div class="drop-frame drop-area" style="">
             <ul>
               <li><a href="/lessons/1">P</a></li>
               <li><a href="/lessons/2">FM</a></li>
               <li><a href="/lessons/3">MFE</a></li>
+              <li><a href="/lessons/44">IFM</a></li>
               <li><a href="/lessons/35">MAS-I</a></li>
               <li><a href="/lessons/4">C</a></li>
               <li><a href="/lessons/6">Exam 5</a></li>
@@ -337,7 +361,7 @@ function uResult2(err) {
           </div>
         </li>
         <li class="has-drop-down"><a href="#" class="has-drop-down-a"><span>CERA</span></a>
-          <div class="drop-frame drop-area same-height-left same-height-right" style="height: 78px;">
+          <div class="drop-frame drop-area" style="">
             <ul>
               <li><a href="/lessons/26">ERM</a></li>
               <li><a href="/lessons/7">Exam 7</a></li>
@@ -346,7 +370,7 @@ function uResult2(err) {
           </div>
         </li>
         <li class="has-drop-down"><a href="#" class="has-drop-down-a"><span>FSA</span></a>
-          <div class="drop-frame drop-area same-height-left same-height-right" style="height: 286px;">
+          <div class="drop-frame drop-area" style="">
             <ul>
               <li><a href="/lessons/17">ILA LP</a></li>
               <li><a href="/lessons/13">ILA LFV - U</a></li>
@@ -363,7 +387,7 @@ function uResult2(err) {
           </div>
         </li>
         <li class="has-drop-down"><a href="#" class="has-drop-down-a"><span>FCAS</span></a>
-          <div class="drop-frame drop-area same-height-left same-height-right" style="height: 130px;">
+          <div class="drop-frame drop-area" style="">
             <ul>
               <li><a href="/lessons/6">Exam 5</a></li>
               <li><a href="/lessons/8">Exam 6</a></li>
@@ -374,7 +398,7 @@ function uResult2(err) {
           </div>
         </li>
         <li class="has-drop-down"><a href="#" class="has-drop-down-a"><span>EA</span></a>
-          <div class="drop-frame drop-area same-height-left same-height-right" style="height: 78px;">
+          <div class="drop-frame drop-area" style="">
             <ul>
               <li><a href="/lessons/20">1</a></li>
               <li><a href="/lessons/21">2L</a></li>
@@ -383,10 +407,11 @@ function uResult2(err) {
           </div>
         </li>
         <li class="has-drop-down"><a href="#" class="has-drop-down-a"><span>SKILLS</span></a>
-          <div class="drop-frame drop-area same-height-left same-height-right" style="height: 78px;">
+          <div class="drop-frame drop-area same-height-right" style="">
             <ul>
               <li><a href="/lessons/33">TSC</a></li>
               <li><a href="/lessons/34">Databases</a></li>
+              <li><a href="/lessons/41">R Course</a></li>
               <li><a href="/lessons/39">MIA</a></li>
             </ul>
           </div>
@@ -732,7 +757,7 @@ Updated 8/12/2014
 				</ul>
 			</nav>
 		</div>
-		<p>© 2017 The Infinite Actuary, LLC</p>
+		<p>© 2018 The Infinite Actuary, LLC</p>
 	</div>
 </footer>
 
@@ -750,4 +775,4 @@ Updated 8/12/2014
 
 
 
-<iframe id="font-resize-frame-332" class="font-resize-helper" style="width: 100em; height: 10px; position: absolute; border-width: 0px; top: -9999px; left: -9999px;"></iframe></body></html>
+<iframe id="font-resize-frame-786" class="font-resize-helper" style="width: 100em; height: 10px; position: absolute; border-width: 0px; top: -9999px; left: -9999px;"></iframe></body></html>
