@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calcchat.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118213525id_/http%3A//www.calcchat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calcchat.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520183524id_/http%3A//www.calcchat.com/privacy) for the most accurate reproduction.*
 
 # CalcChat | Privacy Policy
 
