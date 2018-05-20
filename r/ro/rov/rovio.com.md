@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the rovio.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222074719id_/https%3A//www.rovio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rovio.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520190627id_/http%3A//www.rovio.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rovio.com
 
-[English](https://www.rovio.com/privacy-policy) | [English (USA)](https://www.rovio.com/privacy-policy-usa) | [En français](https://www.rovio.com/privacy-policy-francaise) | [Suomeksi](https://www.rovio.com/privacy-policy-suomeksi) | [På svenska](https://www.rovio.com/privacy-policy-svenska)    
-[한국어](https://www.rovio.com/privacy-policy-korean) |  [Portuguese](https://www.rovio.com/politica-de-privacidade) |  [en Español](https://www.rovio.com/privacy-policy-espanol) |  [auf Deutsch](https://www.rovio.com/privacy-policy-auf-deutsch)
+[English](http://www.rovio.com/privacy-policy) | [English (USA)](http://www.rovio.com/privacy-policy-usa) | [En français](http://www.rovio.com/privacy-policy-francaise) | [Suomeksi](http://www.rovio.com/privacy-policy-suomeksi) | [På svenska](http://www.rovio.com/privacy-policy-svenska)    
+[한국어](http://www.rovio.com/privacy-policy-korean) |  [Portuguese](http://www.rovio.com/politica-de-privacidade) |  [en Español](http://www.rovio.com/privacy-policy-espanol) |  [auf Deutsch](http://www.rovio.com/privacy-policy-auf-deutsch)
 
 Last updated: April 2016
 
