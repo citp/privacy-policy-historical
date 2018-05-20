@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebull.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606082700id_/http%3A//www.thebull.com.au/about_us_list.php%3Fc%3DPrivacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebull.com.au privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520185046id_/http%3A//www.thebull.com.au/about_us_list.php%3Fc%3DPrivacy%2BPolicy) for the most accurate reproduction.*
 
 # about_us - privacy policy - www.thebull.com.au
 
@@ -16,7 +16,7 @@ To unsubscribe from the free weekly stock tips and investment newsletter "RunWit
 
 TheBull.com.au is committed to ensuring the confidentiality and security of your personal information. 
 
-This Policy applies to The Compare Group ACN 123 319 906 (referred to as "TheBull", "we", "our", "us"). The word "individual" refers to a customer, or advertiser, a consumer, or any other person who accesses our services via our website or any other means, or any person with whom we come into contact. 
+This Policy applies to Poet Press Pty Ltd ACN 123 319 906 (referred to as "TheBull", "we", "our", "us"). The word "individual" refers to a customer, or advertiser, a consumer, or any other person who accesses our services via our website or any other means, or any person with whom we come into contact. 
 
 This Policy outlines TheBull's obligation to manage and protect the personal information we hold about individuals. 
 
