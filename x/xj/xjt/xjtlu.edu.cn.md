@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xjtlu.edu.cn privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208131345id_/http%3A//www.xjtlu.edu.cn/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xjtlu.edu.cn privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520212309id_/http%3A//www.xjtlu.edu.cn/en/privacy) for the most accurate reproduction.*
 
 # Privacy | Xi'an Jiaotong-Liverpool University (XJTLU)
 
@@ -99,4 +99,4 @@ Appropriate security measures are in place to protect against loss, misuse or al
 
 ##  5\. Contacts and Feedback
 
-Any comments or feedback regarding this statement should be emailed to [[email protected]](http://www.xjtlu.edu.cn/cdn-cgi/l/email-protection#7f081a1d0b1a1e123f07150b130a511a1b0a511c11) or sent by post to: Web Development Manager, University Marketing and Communications Office, Central Building, Xi'an Jiaotong-Liverpool University, 111 Ren’ai Road, Suzhou Dushu Lake Science and Education Innovation District, Suzhou Industrial Park, Suzhou, P. R. China, 215123. 
+Any comments or feedback regarding this statement should be emailed to [[email protected]](http://www.xjtlu.edu.cn/cdn-cgi/l/email-protection#2e594b4c5a4b4f436e56445a425b004b4a5b004d40) or sent by post to: Web Development Manager, University Marketing and Communications Office, Central Building, Xi'an Jiaotong-Liverpool University, 111 Ren’ai Road, Suzhou Dushu Lake Science and Education Innovation District, Suzhou Industrial Park, Suzhou, P. R. China, 215123. 
