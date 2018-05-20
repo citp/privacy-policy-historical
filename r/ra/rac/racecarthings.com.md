@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the racecarthings.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118094727id_/http%3A//racecarthings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racecarthings.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520044424id_/http%3A//racecarthings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - RaceCarThings.com
 
