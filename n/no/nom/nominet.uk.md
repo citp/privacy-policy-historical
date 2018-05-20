@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nominet.uk privacy policy that was archived on 2017-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170805093313id_/https%3A//www.nominet.uk/resources/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nominet.uk privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520153902id_/https%3A//www.nominet.uk/resources/privacy-policy) for the most accurate reproduction.*
 
 # See our Privacy Policy & Your Rights as a Website User
 
 Nominet UK (Company No. 3203859) is a not for profit company limited by guarantee whose registered address is Minerva House, Edmund Halley Road, Oxford Science Park, Oxford OX4 4DQ.
 
-This policy (together with our [terms of use](http://www.nominet.uk/resources/terms-of-use/) and any other documents referred to) sets out the basis on which we will process personal data we collect from you, or that you provide to us, as a result of your use of our web site or services.  It supplements and should be read in addition to other terms and conditions that you have agreed to in connection with your use of our web site or our services.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy (together with our [terms of use](https://www.nominet.uk/resources/terms-of-use/) and any other documents referred to) sets out the basis on which we will process personal data we collect from you, or that you provide to us, as a result of your use of our web site or services.  It supplements and should be read in addition to other terms and conditions that you have agreed to in connection with your use of our web site or our services.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 For the purpose of the Data Protection Act 1998, the data controller is Nominet UK.
 
@@ -20,13 +20,13 @@ We may collect and process the following data about you:
 
 #### IP addresses and cookies
 
-We use analytics, which collects information about your computer, such as IP address, operating system and browser type. This does not identify any individual user, and is used to help us improve our services for you. We collect this information by placing small text files on your computer, known as cookies. You can find more information about [how we use cookies](http://www.nominet.uk/resources/how-we-use-cookies/), including information about how to control what cookies are set when you visit our site.
+We use analytics, which collects information about your computer, such as IP address, operating system and browser type. This does not identify any individual user, and is used to help us improve our services for you. We collect this information by placing small text files on your computer, known as cookies. You can find more information about [how we use cookies](https://www.nominet.uk/resources/how-we-use-cookies/), including information about how to control what cookies are set when you visit our site.
 
 #### Analysing .uk domain name usage
 
 So we can monitor usage of .uk domains, Nominet collects data, on a regular basis, on whether .uk domain names resolve, where they are hosted, whether they are used for email and whether a website is in place. As part of this, we collect information about the landing page and About Us or Contact Us pages of your website so that we can categorise the website type (e.g. blog, parking page etc). We may also check whether you have an SSL certificate and whether there is a matching domain name in a different top level domain (e.g. .com), and collect similar information about them in order to see how they differ from the.uk domain name. In each case, when we visit a website, we do not collect any more information than we would if we visited the pages via a browser.
 
-The information we gather is used to help Nominet better understand the .uk market and identify changes over time. To keep bandwidth to a minimum, only the landing page and About Us or Contact Us pages of a website is visited and we will restrict the number of times we visit websites which use the same IP address. Any information gathered is used to help Nominet better understand how .uk domains are used by registrants.
+The information we gather is used to help Nominet better understand the .uk market, identify security vulnerabilities and identify changes over time. To keep bandwidth to a minimum, only the landing page and About Us or Contact Us pages of a website is visited and we will restrict the number of times we visit websites which use the same IP address. Any information gathered is used to help Nominet better understand how .uk domains are used by registrants.
 
 If you want to, you can stop us from collecting data about your website(s) by adding the following to a “robots.txt” file:
 
@@ -52,11 +52,11 @@ We use information held about you in the following ways:
 
 
 
-If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please write to us using the address information found on the [Contact Us](http://www.nominet.uk/contact-and-location/) homepage.
+If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please write to us using the address information found on the [Contact Us](https://www.nominet.uk/contact-and-location/) homepage.
 
 #### Disclosure of your information
 
-We may [disclose your personal information to a third party](http://www.nominet.uk/resources/privacy-policy/releasing-your-personal-data-to-third-parties/) if we are under a duty to do so in order to comply with any legal obligation, or in order to enforce or apply any contract between us or to protect the rights, property, or safety of Nominet UK, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+We may [disclose your personal information to a third party](https://www.nominet.uk/resources/privacy-policy/releasing-your-personal-data-to-third-parties/) if we are under a duty to do so in order to comply with any legal obligation, or in order to enforce or apply any contract between us or to protect the rights, property, or safety of Nominet UK, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 #### Your rights
 
