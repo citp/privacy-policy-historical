@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmv.com.mx privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606012852id_/http%3A//www.bmv.com.mx/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmv.com.mx privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520144110id_/http%3A//www.bmv.com.mx/en/privacy-policy) for the most accurate reproduction.*
 
 # .::. Grupo BMV .::. Privacy Policy
 
@@ -73,7 +73,7 @@ To clinical and/or pharmacological laboratories. | To comply with the contractua
 
 You have the right to know what personal data we have about you, how we use it and the conditions of its use (Access). You also have the right to request the correction of your personal information in case it is outdated, inaccurate or incomplete (Rectification); to request that we remove it from our records or databases when you consider that it is not being used properly (Cancellation); as well as to oppose to the use of your personal data for specific purposes (Opposition). These rights are known as ARCO rights.
 
-For the exercise of any of the ARCO rights, you must submit the respective application by contacting the Regulatory and Corporate Compliance Department - Dirección de Cumplimiento Regulatorio y Corporativo - (personal data department) by telephone at (55) 5342-9000, extensions 9120, 9106 and 9626, or by email to [compliance@grupobmv.com.mx](mailto:compliance@grupobmv.com.mx?subject=Aviso%20de%20Privacidad), or physically at the address located at Paseo de la Reforma No. 255, Colonia Cuauhtémoc, Cuauhtémoc Municipality, Zip Code 06500, Mexico City.
+For the exercise of any of the ARCO rights, you must submit the respective application by contacting the Compliance Office            -Dirección Ejecutiva de Cumplimiento Normativo- (personal data department) by telephone at (55) 5342-9000, extensions 9120, 9106 and 9626, or by email to [compliance@grupobmv.com.mx](mailto:compliance@grupobmv.com.mx?subject=Aviso%20de%20Privacidad), or physically at the address located at Paseo de la Reforma No. 255, Colonia Cuauhtémoc, Cuauhtémoc Municipality, Zip Code 06500, Mexico City.
 
 With regard to the procedure and requirements for the exercise of your ARCO rights, we hereby inform you the following:
 
@@ -131,7 +131,7 @@ The information and/or documentation that the application must contain is the fo
 
 ### The use of tracking technologies in our website
 
-We hereby inform you that we use cookies, web beacons or other technologies in our website, through which it is possible to monitor your behavior as an internet user, as well as to provide you with a better service and experience when browsing our site. The personal data that we collect through these technologies will only be used to identify users navigation preferences.
+We hereby inform you that we use cookies, web beacons or other technologies in our website, through which it is possible to monitor your behavior as an internet user, as well as to provide you with a better service and experience when browsing our site. The personal data that we collect through these technologies will only be used to identify users’ navigation preferences.
 
 The personal data that we obtain from these tracking technologies is the following: name, email, company, telephone number and country.
 
@@ -153,6 +153,6 @@ By updating the Privacy Policy on the referred website and/or by sending the upd
 
 I agree to the processing and transfer of my personal data in accordance with the terms and conditions set forth in this Privacy Policy. SÍ [ ] NO [ ]
 
-Holders name and signature: ___________________
+Holder’s name and signature: ___________________
 
-Last update: 10/01/2017
+Last update: 02/10/2017
