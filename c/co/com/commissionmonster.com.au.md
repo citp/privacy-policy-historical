@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commissionmonster.com.au privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116151721id_/http%3A//www.apdgroup.com%3Fpage_id%3D6283) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commissionmonster.com.au privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521055839id_/http%3A//apdgroup.com%3Fpage_id%3D6283) for the most accurate reproduction.*
 
 # APD Privacy Policy – APD
 
