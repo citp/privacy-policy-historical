@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kirklands.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120174022id_/http%3A//www.kirklands.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kirklands.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521150720id_/http%3A//www.kirklands.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy and Security | Kirklands
 
@@ -36,9 +36,11 @@ Although most web browsers automatically accept cookies, you can change your bro
 
 **Ratings & Reviews and Question & Answer Services** .  When you use the Ratings & Reviews or Question & Answer services on the Sites and Services, we request that you create an account by providing personal information and creating a username and password if you do not already have an account established on the Sites and Services.  Any information you submit through the Ratings & Reviews or Question & Answer services will become part of your account as maintained by Kirkland’s. 
 
-**Mobile Privacy** .  Kirkland’s offers mobile applications (commonly known as “apps”) allowing customers to receive coupon and promotional offers, share information with friends, or receive other information from Kirkland’s.
+**Mobile Privacy** .  Kirkland’s offers mobile applications (commonly known as “apps”) allowing customers to receive coupon and promotional offers, share information with friends, or receive other information from Kirkland’s. 
 
 This website uses Mouseflow, a third-party analytics tool, to track page content and click/touch, movement, scroll, and keystroke activity. You can opt-out at <https://mouseflow.com/opt-out/>
+
+We may work with a data provider to target advertising to you personally, through online and offline methods including email, display media, video media and direct mail. These providers may use personal information that we have collected or that you have provided to locate you online, such as when you visit or log in to websites or mobile applications. When you log in to or visit our website, your IP address may be combined with other de-identified data (such as a hashed, non-readable email or postal address) in order to send ads and materials to you based on your preferences, interests and attributes. To learn more about this targeted advertising, please visit <http://eltoro.com/privacy-policy/> . To opt out of this and other interest-based advertising, please visit the industry opt-out pages operated by the DAA, at [www.aboutads.info](http://www.aboutads.info/) and by the NAI at [http://networkadvertising.org.](http://networkadvertising.org/)
 
 
 
