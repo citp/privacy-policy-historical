@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the universalstudioshollywood.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231184210id_/https%3A//www.nbcuniversal.com/privacy/full-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universalstudioshollywood.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522012349id_/https%3A//www.nbcuniversal.com/privacy/full-privacy-policy) for the most accurate reproduction.*
 
 # Full Privacy Policy | NBCUniversal
 
