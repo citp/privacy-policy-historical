@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sellyourgf.com privacy policy that was archived on 2011-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110411013545id_/http%3A//www.sellyourgf.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sellyourgf.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521023144id_/http%3A//sellyourgf.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -30,4 +30,4 @@ You can access all your personally identifiable information that we collect onli
 granting access or making corrections.
 
 **How To Contact Us:**  
-Should you have other questions or concerns about these privacy policies, please send us an email at: [webmaster@sellyourgf.com](mailto:webmaster@sellyourgf.com).
+Should you have other questions or concerns about these privacy policies, please send us an email at: [webmaster@sellyourgf.com](mailto:webmaster@sellyourgf.com). [Free Teen Porn](http://www.pornflixer.com/categories/teen/)
