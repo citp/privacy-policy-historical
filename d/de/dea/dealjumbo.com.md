@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dealjumbo.com privacy policy that was archived on 2016-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161010212819id_/http%3A//dealjumbo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealjumbo.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521022253id_/https%3A//dealjumbo.com/privacy) for the most accurate reproduction.*
 
-# Dealjumbo.com — Discounted design bundles with extended license! | Privacy
+# Privacy - Dealjumbo.com — Discounted design bundles with extended license!
 
 This privacy policy describes the way Dealjumbo.com utilizes the information that is collected. It also describes the way that the information that is collected is protected whenever the website is used.
 
