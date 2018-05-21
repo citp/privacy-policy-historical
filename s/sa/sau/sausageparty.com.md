@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sausageparty.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225195139id_/http%3A//sausageparty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sausageparty.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521234825id_/http%3A//www.sausageparty.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
