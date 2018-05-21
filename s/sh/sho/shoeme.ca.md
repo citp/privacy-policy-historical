@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the shoeme.ca privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120065007id_/http%3A//dsw.townshoes.ca/store/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoeme.ca privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521121321id_/http%3A//dsw.townshoes.ca/store/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Designer Shoe Warehouse
 
-Town Shoes Limited is 100% committed to upholding your privacy. This privacy policy describes how we use personal information collected in our retail store locations or on this website. Please read this privacy policy before using the website or providing any personal information in our retail stores. By using the website or providing your personal information in our stores, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. Note, the privacy practices set forth in this privacy policy are for this website and Town Shoes Limited stores in Canada only. If you link to other websites, please review the privacy policies posted at those sites.
+ Town Shoes Limited is 100% committed to upholding your privacy. This privacy policy describes how we use personal information collected in our retail store locations or on this website. Please read this privacy policy before using the website or providing any personal information in our retail stores. By using the website or providing your personal information in our stores, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. Note, the privacy practices set forth in this privacy policy are for this website and Town Shoes Limited stores in Canada only. If you link to other websites, please review the privacy policies posted at those sites.
 
 #### **COLLECTION OF INFORMATION**
 
@@ -49,15 +49,19 @@ When you join the Shoe Lovers Rewards program by providing your email address in
 
 **YOUR EXPRESS COMMUNICATIONS CONSENT**
 
-Your consent to receive electronic communications can be considered **express** , in some cases.  Under **express** consent guidelines, Town Shoes Limited may send you email marketing messages such as specific products and services, promotions, contests and surveys that you may be interested in.  There is no expiry to **express** consent, unless you request to "opt out" or "unsubscribe".  We will only consider your consent **express** in the event you have specifically requested or approved to receive email marketing communications.  Examples of where this consent may be provided are via website sign up, in-store digital keypad, or responding to a direct communication request for consent.  
+Your consent to receive electronic communications can be considered **express** , in some cases.  Under **express** consent guidelines, Town Shoes Limited may send you email marketing messages such as specific products and services, promotions, contests and surveys that you may be interested in.  There is no expiry to **express** consent, unless you request to "opt out" or "unsubscribe".  We will only consider your consent **express** in the event you have specifically requested or approved to receive email marketing communications.  Examples of where this consent may be provided are via website sign up, in-store digital keypad, or responding to a direct communication request for consent.
 
 #### **FORWARDING OR SHARING EMAIL COMMUNICATIONS**
 
 If you choose to forward or share email communications that you've received from us, you will be assuming the responsibility for the email communication and therefore Town Shoes Limited will not be held responsible for any liabilities incurred.
 
-#### **WITHDRAWING YOUR CONSENT**
+#### **UNSUBSCRIBING/WITHDRAWING YOUR CONSENT**
 
-We will always provide you with the opportunity to "opt out" or "unsubscribe" within each communication we send to you.  Shoe Lovers Rewards members who complete their profiles on our website also have the ability to change or withdraw their consent at any time via our website.  This can be done by logging into your account, clicking on "Update Personal Details" and adjusting your email preferences.
+WeWe will always provide you with the opportunity to "opt out" or "unsubscribe" within each communication we send to you.   To unsubscribe from Email Communications, click the unsubscribe link at the bottom of any of our emails. 
+
+If you would like to unsubscribe from a Town Shoes Limited email list now, please click [HERE](https://gcp-tsl-web-prod.appspot.com/unsubscribe).
+
+Shoe Lovers Rewards members who complete their profiles on our website also have the ability to change or withdraw their consent at any time via our website.  This can be done by logging into your account, clicking on "Update Personal Details" and adjusting your email preferences.
 
 #### **DISTRIBUTION OF INFORMATION**
 
@@ -77,13 +81,20 @@ We do not knowingly collect personal information from children under the age of 
 
 We will retain your personal information only for as long as we continue to need it to fulfill the purposes for which it was collected, unless a longer retention period is required or permitted by law.You can also request that we remove your information from our records. Subject to our requirements for continued retention of your information, for example, for billing, audit, or warranty purposes, we will make every reasonable effort to honour your request.
 
-#### **PRIVACY CONTACT INFORMATION**
-
-If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:   
-Call toll free to **1-888-874-6326** from 9am-5pm ET Monday to Friday or email us at [**service@townshoes.ca**](mailto:service@townshoes.ca)
-
 #### **CHANGES TO OUR PRIVACY POLICY**
 
 Since our business is constantly evolving, we may change our Privacy Policy from time to time. When we make a change to our Privacy Policy we will promptly post an updated Privacy Policy on our website.
 
-This Privacy Policy was last updated on: **October 6, 2017**
+#### **PRIVACY CONTACT INFORMATION**
+
+If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below: 
+
+Call toll free to 1-888-874-6326 from 9am-5pm ET Monday to Friday or email us at [**service@townshoes.ca**](mailto:service@townshoes.ca)
+
+**Town Shoes Limited**
+
+44 Kodiak Crescent  
+North York, Ontario  
+M3J3G5 
+
+This Privacy Policy was last updated on: **February 21st, 2018**
