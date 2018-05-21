@@ -1,108 +1,63 @@
-> *The following text is extracted and transformed from the skillpod.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619005614id_/http%3A//www.skillpod.com/w3c/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skillpod.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521032801id_/http%3A//www.skillpod.com/privacy) for the most accurate reproduction.*
 
-# SkillPod Media (Pty) Ltd Privacy Policy
+# SkillPod MMO and Multiplayer Games
 
-  
-Privacy Policy   
-SkillPod Media (Pty) Ltd   
-http://www.skillpod.com
+This website (“Site”) and the MMOGames.co.za Services (as defined under the [Terms of Use]) are managed by Kwanda Digital (Pty) Ltd (“MMOGames.co.za ”). This privacy policy will only be applicable, and the obligations of MMOGames.co.za will only extend to, information expressly collected by MMOGames.co.za from you, through this Site or the MMOGames.co.za Services shall not apply to any information collected or otherwise made available to MMOGames.co.za or any of its affiliates or licensors. This policy does not apply to the practices The Site and the MMOGames.co.za Services may contain links to websites, forums or other content operated or maintained by third parties.MMOGames.co.za OD is not responsible for the privacy practices or policies of such third party web sites and this privacy policy does not apply to those websites or to any information collected otherwise by any third party. You may further make information publicly available while interacting with various user modifiable sections of this Site including comments, reviews, profile information or feedbacks. MMOGames.co.za is not responsible for any such information and any use of such information by any party.
 
-Effective from 01st of August 2006 to 11th of August 2013. 
+ **1 COMMITMENT TO PRIVACY**
 
-* * *
+1.1 MMOGames.co.za takes your privacy seriously. To help you better protect your privacy, and help you evaluate the protection your information enjoys on our website, we provide this statement explaining our online information policies and practices to assist you in the choices you can make about the way your information is collected and used. Please do read this policy, the [Legal Disclaimer] and the [Terms of Use] carefully before contributing any information to this website.
 
-General Information   
-SkillPod Media (Pty) Ltd takes your privacy seriously. Please read the following information to learn more about our privacy practices. 
+ **2 COLLECTION AND USE OF INFORMATION**
 
-  * This policy covers what personally identifiable information SkillPod Media (Pty) Ltd collects and how it is treated. Personally identifiable information is information that can be used to identify visitors to the http://www.skillpod.com Web Site. This information may be limited to an IP address or extend to personally identifiable information such as your name, address, email address, or phone number. 
-  * This policy only applies to http://www.skillpod.com and does not extend to the practices of other Web Sites that we may link to, companies that we do not own or control, or to people that we do not employ or manage. 
+Non-personal Information   
+2.1 You may access and use various Games, features and content of our Site and the MMOGames.co.za Services without providing any Registration Information (described below) of a personal nature.   
+2.2 MMOGames.co.za automatically receives and records information from your computer and browser, including your IP address, software and hardware attributes, the page(s) you request and receives information via cookies, web beacons or other technologies.   
+2.3 We may further automatically record such information to track visits to our websites so that we may compile statistics that show the numbers and frequency of visitors to our website and its individual pages; such statistics may include your web request, internet protocol address, browser type, browser language, and the date and time of your request. We may enhance or merge your information collected from our website with data from third parties for purposes of marketing products or services to you.   
+2.4 We may further, present links in a format that enables us to keep track of whether these links have been followed. Registration Information   
+2.5 We may require you to provide certain personal information as registration information (“Registration Information”) for the use of several features of the MMOGames.co.za Services and for access to certain features of our Games (as defined under the [Terms of Use], when you visit certain MMOGames.co.za pages or the pages of certain MMOGames.co.za partners and when you enter promotions offered by MMOGames.co.za or certain of its partners. All such Registration Information is collected voluntarily and no other information is collected other than those specifically provided by you. This is to enable us to verify whether you are entitled to access and use certain Game features, information, materials and services available through our website and the MMOGames.co.za Services, or to enable us to enhance your site visit, to assist you with customer service or technical support issues, or to otherwise support your customer relationship with us. It is completely optional for you to participate, submit any Registration Information, or avail of these features.   
+2.6 Where we collect such Registration Information, we do so with the objective of providing our services to you and for improving our website and the services we offer. This information may assist us in providing you with more effective customer service, making this Site or services easier to use by eliminating the need for you to repeatedly enter the same information, performing research and analysis aimed at improving our products, services and technologies, and displaying content and advertising that are customized to your interests and preferences. MMOGames.co.za also uses the Registration Information to customize the advertising and the content you see, fulfil your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.   
+2.7 MMOGames.co.za may combine information about you that we have with the information we obtain from data aggregators, public databases, business partners or other companies, which may include your interests, purchasing behaviour and your activities online, such as websites visited and advertisements viewed.   
+2.8 We reserve the right to conduct research and perform statistical analyses on Registration Information in order to measure interest in and use of the various areas of the site and to inform advertisers of such information. We will release only aggregate data and all personal identifiable information obtained from these analyses will be kept confidential from concerned third parties and at no time shall information that is personally identifiable be disclosed.   
+2.9 We also use your Registration Information to communicate with you. We may send certain service communications such as welcome letters, billing reminders, information on technical service issues, and security announcements. If you do not wish to receive such communications, please email us at config@kwandadigital.co.za to stop such communications. Please allow at least 72 hours for the actual cancellation to take effect. We shall not divulge your email address to third parties without your prior consent.   
+2.10 If while using the MMOGames.co.za Services, you post information online that is accessible to the public including in any comment sections of our Site, MMOGames.co.za shall not be responsible for any such information and any use of such information by any party including any unsolicited communications from any third party.   
+2.11 For members in certain countries, you can connect your MMOGames.co.za account to Facebook. If you choose to connect, you’ll be able to take advantage of various social features we will be creating as part of the MMOGames.co.za service, as well as features available on Facebook. In addition, MMOGames.co.za may personalize and otherwise seek to enhance your experience based on your information from your Facebook account. By connecting your MMOGames.co.za OD account to your Facebook account, you acknowledge and agree that you are consenting to the continuous release of information about you to others, including to Facebook (in accordance with your privacy settings on Facebook and your account settings on MMOGames.co.za ). If you do not want information about you, including information such as your viewing activity, to be shared in this manner, do not use the Facebook connect feature. MMOGames.co.za disclaims all warranties in relation to and all liabilities arising from any use of your personal information by Facebook or any other third party. Transaction Information   
+2.12 If you become a registered user or if you conduct transactions through the Site, we also collect and maintain transactional information including without limitation, credit card information, payment amounts, billing information, transaction type (“Transaction Information”). We may use Transaction Information for the purpose of establishing and verifying the identity of users, processing, servicing or enforcing transactions and sending related communications, and for providing support services in relation to the transactions. We shall not use Transaction Information for any purposes other than as provided under this Privacy Policy without your express consent.
 
+ **3 INTERACTIVE AREAS**
 
+3.1 Users may be permitted access to certain interactive areas of the MMOGames.co.za Services including interacting with various user profiles, posting reviews of Games, comparing scores, [participating in multiplayer games], etc. You should be aware that we do not monitor or have control over any information voluntarily disclosed within these interactive areas and shall not be responsible for any malicious or inappropriate use of such information by any third party. We do not guarantee the privacy of any information voluntarily disclosed by you in these interactive areas and you are required to evaluate for yourself, the implications and potential risks of disclosing any personally identifiable information in these interactive areas.   
+3.2 Other than as required under applicable law, there is no obligation on MMOGames.co.za to collect, store, retain or display any data or information in relation to any of the Games or other Kwanda Services including game scores, performances, rankings, etc. and the same are done at the discretion of MMOGames.co.za in such manner as it deems fit.
 
-* * *
+ **4 INFORMATION SHARING**
 
-Contact Information   
-We invite you to contact us if you have questions about this privacy policy. 
+4.1 Unless we notify you otherwise, we will share your information with companies or entities only in circumstances where: (i) You have provided instructions or consent towards such sharing; (ii) Such information is being shared for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures; or (iii) We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental or regulatory request, (b) enforce applicable terms of use of the website, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of MMOGames.co.za , its users or the public as required or permitted by law.   
+4.2 If MMOGames.co.za becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will ensure the confidentiality of any personal information involved in such transactions and provide notice before personal information is transferred and becomes subject to a different privacy policy.   
+4.3 By using MMOGames.co.za and submitting personal information to MMOGames.co.za , you agree to permit the transfer of your personal information to countries outside your country of residence for storage, processing and other uses as permitted under this Privacy Policy and applicable law.
 
-Our Internet address is located at [http://www.skillpodmedia.com](http://www.skillpodmedia.com/)
+ **5 MODIFICATION AND DELETION OF INFORMATION**
 
-**SkillPod Media (Pty) Ltd  
-Riverside Office Park, 2nd Floor Hennops HOuse   
-1303 Heuwel Ave, Centurion 0157   
-Gauteng South Africa **
+5.1 You can edit your MMOGames.co.za account information, including your preferences. We reserve the right to send you certain communications relating to the MMOGames.co.za Services, such as service announcements, administrative messages and other information, that are considered part of your MMOGames.co.za account.   
+5.2 You can delete your MMOGames.co.za account by sending an email to: config@kwandadigital.co.za MMOGames.co.za reserves the right to decline requests that require disproportionate technical effort, are impractical, jeopardize the privacy of others, impede payment for the service, interfere with the enhancement of the service, or which is otherwise not required by applicable law.   
+5.3 In addition to your MMOGames.co.za account information, in accordance with the provisions of the Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, you have the right to review the personal information that has been collected from you and correct any inaccurate or insufficient information. Should you wish to review such information or provide any corrections to the same, please email us at config@kwandadigital.co.za. You also have the option to withdraw your consent given to MMOGames.co.za to use such personal information, should you wish to exercise this option, please email us at config [at] kwandadigital [●] co[●] za. Do note however that, upon withdrawal of your consent, your account will be permanently deleted and you shall no longer have access to any of the MMOGames.co.za products or services.
 
-You may contact us by e-mail at [Info@SkillPodMedia.com](mailto:info@SkillPodMedia.com)   
-You may contact us by phone on 27126639639 
+ **6 SECURITY OF INFORMATION**
 
+6.1 We believe that we have instituted appropriate physical, electronic, and managerial procedures to safeguard and secure the Registration Information and Transaction Information we collect. These procedures include online including internal reviews of our data collection, storage and processing practices and other reasonable security measures which are equivalent to security measures that we use to protect our own sensitive and confidential information. All Transaction Information are stored on the servers of a PCI Data Security Standard (PCI –DSS) Level 1 compliant service provider.   
+6.2 We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.   
+6.3 We do not warrant that these measures will, by, themselves suffice to adequately protect your data and personal information and recommend that you take all reasonable measures to protect the same, including using alternative login names, passwords and other non-personal identifying information which differs from the information you use to access sensitive accounts.
 
+ **7 COOKIES**
 
+7.1 For the purposes of use as described above, we may use “cookies”. Cookies are small text files that are placed on your hard disk by a website server. We use cookies to improve the quality of our service and one of the primary purposes of cookies is to store your preferences and other information on your computer in order to save you time by eliminating the need to repeatedly enter the same information.   
+7.2 Generally, cookies cannot be used to run programs or deliver viruses to your computer and do not pose a threat to a user’s computer. However, we cannot control and nor shall we be responsible for any malicious use of these cookies by any third parties. You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, some of the features offered by our website may not be available in part or entirety. If you choose to accept cookies, you also have the ability to later delete cookies that you have accepted. If you choose to delete cookies, any settings and preferences controlled by those cookies, including advertising preferences, will be deleted and may need to be recreated.
 
-* * *
+ **8 CHANGES TO STATEMENT**
 
-Dispute Resolution   
-SkillPod Media (Pty) Ltd is committed to resolving any dispute you may have regarding our privacy policy quickly and efficiently. 
+8.1 Please note that this Privacy Policy may change from time to time. We will post any Privacy Policy changes on this page. You should routinely check our website for changes to our privacy policy. If we post an updated privacy policy on the MMOGames.co.za website, by subsequently using the MMOGames.co.za service you agree to the terms of the updated privacy policy. If you don’t agree with the new Privacy Policy, please discontinue your access to our Site and the MMOGames.co.za Services.
 
-Disputes will be handled by our customer service representative. Our customer service will promptly correct any errors. 
+ **9 ENFORCEMENT AND CONTACT**
 
-* * *
-
-Information Collection   
-When visiting Web Sites certain information about you and your computer can sometimes be collected. This section explains what information SkillPod Media (Pty) Ltd collects, and how it is used. 
-
-Information Collected \- What information do we collect and why? 
-
-We collect the following identifiable information about our visitors:
-
-    * user.name 
-    * user.home-info.online.email 
-    * user.bdate    _(optional)_
-    * user.gender    _(optional)_
-    * user.business-info.online.email 
-    * dynamic.interactionrecord 
-    * dynamic.cookies 
-    * dynamic.miscdata 
-  
-We collect identifiable information for the following reasons: 
-    * Completion and Support of Current Activity 
-    * Web Site and System Administration 
-    * Pseudonymous Analysis 
-    * Pseudonymous Decision 
-  
-The player registration data is used to identify players in order to accurately post and retrieve their scores for games played.
-
-Our Web Site generates server log files automatically. These log files are used to generate statistical information and error reports to ensure the Web Site runs with a minimum of disruption. They are not actively used to identify individual visitors.
-
-* * *
-
-Information Recipients \- Who has access to the information collected?   
-  
-
-    * Ourselves and/or our entities acting as our agents or entities for which we are acting as an agent.   
-
-  
-
-
-* * *
-
-Information Retention \- How long is this information retained?   
-  
-
-    * We do not have a retention policy for this area of the Web Site.  
-
-  
-
-
-
-* * *
-
-Cookies
-
-_Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it_
-
-Our Web site uses the following cookies:
-
-  * name="*" value="*" domain="*" path="*"
-
-
-
-* * *
+9.1 We regularly review our compliance with this Privacy Policy. If you have questions about this statement or believe that we have not adhered to it, please contact us at: config@kwandadigital.co.za. When we receive formal written complaints, it is MMOGames.co.za policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between MMOGames.co.za and an individual.   
+9.2 Information governed by this Privacy Policy is collected and stored by: :  Kwanda Digital Pty Ltd 140a Kelvin Drive , Morningside Manor Workspace Office  Park  2190 South Africa   
+9.3 Where any other agencies are engaged by MMOGames.co.za to collect, store or process any information governed by this Privacy Policy, the names and addresses of such agencies shall be notified.
