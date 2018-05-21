@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokemongolive.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214070354id_/https%3A//www.nianticlabs.com/privacy/pokemongo/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokemongolive.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521162058id_/https%3A//www.nianticlabs.com/privacy/pokemongo/en) for the most accurate reproduction.*
 
 # Pokémon GO Privacy Policy - Niantic
 
