@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytechguide.org privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120080832id_/http%3A//www.mytechguide.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytechguide.org privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522011929id_/http%3A//www.mytechguide.org/privacy-policy) for the most accurate reproduction.*
 
 # My Technology Guide Privacy Policy
 
