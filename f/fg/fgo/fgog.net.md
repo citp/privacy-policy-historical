@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fgog.net privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228114541id_/http%3A//www.fgog.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fgog.net privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521052603id_/http%3A//www.fgog.net/privacy) for the most accurate reproduction.*
 
 # Privacy policy - FGOG.net
 
