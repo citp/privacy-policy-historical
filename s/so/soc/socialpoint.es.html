@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the socialpoint.es privacy policy that was archived on 2017-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171222062732id_/http%3A//www.socialpoint.es/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the socialpoint.es privacy policy that was archived on 2018-05-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180521085527id_/http%3A//www.socialpoint.es/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
         
@@ -23,8 +23,8 @@
         <link rel="apple-touch-icon" href="/favicon-ios.png">
         <link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.socialpoint.es/feed/en/">
         
-<link href="https://www.socialpoint.es/data/public/default/en/cache/css-js/747a9305216e40c3bd957a696cd4b27f.php?update=1513867693" rel="stylesheet" type="text/css">        
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://www.socialpoint.es/data/public/default/en/cache/css-js/9670223a298918ea4a59ec34fd77d466.php?update=1513867269" type="text/javascript"></script>        <script type="text/javascript">
+<link href="https://www.socialpoint.es/data/public/default/en/cache/css-js/747a9305216e40c3bd957a696cd4b27f.php?update=1526810795" rel="stylesheet" type="text/css">        
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://www.socialpoint.es/data/public/default/en/cache/css-js/9670223a298918ea4a59ec34fd77d466.php?update=1526810779" type="text/javascript"></script>        <script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-6803822-2']);
@@ -37,7 +37,42 @@
   })();
 
 </script>
-        		    </head>
+        		      <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
+      <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+
+    <script type="text/javascript">
+      window.addEventListener("load", function() {
+        var p;
+        window.cookieconsent.initialise({
+          palette: {
+            popup: {
+              background: "#3937a3"
+            },
+            button: {
+              background: "#e62576"
+            }
+          },
+          type: "opt-out",
+          showLink: false,
+          theme: "edgeless",
+          content: {
+            dismiss: "Accept"
+          },
+          elements: {
+            deny: '<a aria-label="deny cookies" class="cc-btn" id="cc-terms-cancel">Cancel</a>',
+            message:
+              '<span id="cookieconsent:desc" class="cc-message">Please note that our <a style="color: darkseagreen;" href="http://www.take2games.com/legal/">Terms of Service</a>, and <a style="color: darkseagreen;" href="http://www.take2games.com/privacy"/>Privacy Policy</a>, (collectively, the "Terms") will be changed on May 25 2018. Please read and accept our new Terms, your acceptance of our new Terms after May 25 2018 is required in order to fully participate on our websites.</span>'
+          }
+        }, function (popup) {
+          p = popup;
+        });
+        $('#cc-terms-cancel').click(function () {
+          p.close()
+        });
+      });
+    </script>
+
+    </head>
     <body id="" class="v pl-interior pl-job_offer">
 
 <header class="H" style="height:auto">
@@ -491,7 +526,8 @@
 
         <section class="F-f">
         <div class="W">
-            <ul class="legal-li clearfix">
+            <p style="padding: 5px 0px">© 2018 Social Point S.L. All Rights Reserved. Social Point, Social Point logo, the game names and related marks are the trademarks of Social Point S.L. or related entities. All other trademarks are the property of their respective owners.</p>
+            <ul class="legal-li clearfix" style="line-height: 14px;">
                                 <li class="legal-it">
                     <a href="/terms_of_service/" title="Terms of service">Terms of service</a>
                     |                </li>
