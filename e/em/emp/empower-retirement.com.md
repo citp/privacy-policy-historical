@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the empower-retirement.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118090519id_/http%3A//www.empower-retirement.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empower-retirement.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521205451id_/http%3A//www.empower-retirement.com/privacy.shtml) for the most accurate reproduction.*
 
 # Empower Retirement | Privacy notice
 
@@ -20,7 +20,6 @@ The Great-West Family of Companies protects your privacy. We have policies to ke
   * Great-West Capital Management, LLC
   * Great-West Funds, Inc.
   * Great-West Trust Company, LLC
-  * Westkin Properties Ltd.
 
 
 
