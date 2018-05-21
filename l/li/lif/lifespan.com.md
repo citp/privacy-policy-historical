@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifespan.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207095728id_/http%3A//www.lifespan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifespan.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521230950id_/http%3A//www.lifespan.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Lifespan - Extending Your Mind and Body into the Future
 
