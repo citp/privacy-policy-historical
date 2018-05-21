@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drm-fetishes.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115030516id_/http%3A//www.drm-fetishes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drm-fetishes.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521135219id_/http%3A//www.drm-fetishes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DRM Fetishes
 
