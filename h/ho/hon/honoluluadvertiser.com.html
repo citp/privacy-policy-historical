@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the honoluluadvertiser.com privacy policy that was archived on 2017-07-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170701220339id_/http%3A//www.staradvertiser.com/about/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the honoluluadvertiser.com privacy policy that was archived on 2018-05-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180521073520id_/http%3A//www.staradvertiser.com/about/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
 
 
-	<link rel="stylesheet" type="text/css" href="https://www.staradvertiser.com/wp-content/themes/staradvertiser/sa-style.css?version=46">
+	<link rel="stylesheet" type="text/css" href="https://www.staradvertiser.com/wp-content/themes/staradvertiser/sa-style.css?version=93">
 
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -29,6 +29,8 @@
 <link href="https://fonts.googleapis.com/css?family=Noto+Sans:400,700" rel="stylesheet" type="text/css">
 <script src="https://js-agent.newrelic.com/nr-852.min.js"></script><script type="text/javascript" async="" defer="" src="https://js.matheranalytics.com/s/ma37849/784590323/sp.js?cb=1524"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//aamcftag.aamsitecertifier.com/aam.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:url" content="http://www.staradvertiser.com/about/privacy-policy/">
 
 <!-- Required for Facebook Instant Articles -->
 <meta property="fb:pages" content="112299605447935">
@@ -124,13 +126,12 @@ window._fbq.push(['track', '6023141238775', {'value':'0.00','currency':'USD'}]);
 
 
 <!--HAWAIIAN CHARACTERS FIX-->
-<script type="text/javascript" src="/wp-content/themes/staradvertiser/js/hawaiian-text.js?v2"></script>
+<script type="text/javascript" src="/wp-content/themes/staradvertiser/js/hawaiian-text.js?v3"></script>
 <!--HAWAIIAN CHARACTERS FIX-->
 
 <!--NDN-->
 <script type="text/javascript" src="https://launch.newsinc.com/js/embed.js" id="_nw2e-js"></script>
 <!--NDN-->
-
 
 
 
@@ -204,22 +205,44 @@ $(document).scroll(function() {
 
 <!--SMOOTH SCROLL 2-->
 <script type="text/javascript">
-$(document).ready(function(){
-  $('a[href*=#]:not([href=#])').click(function() {
-    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') 
-        || location.hostname == this.hostname) {
-
+  $(document).ready(function(){
+    // Select all links with hashes
+  $('a[href*="#"]')
+    // Remove links that don't actually link to anything
+    .not('[href="#"]')
+    .not('[href="#0"]')
+    .click(function(event) {
+      // On-page links
+      if (
+        location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') 
+        && 
+        location.hostname == this.hostname
+      ) {
+        // Figure out element to scroll to
         var target = $(this.hash);
-        target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
-           if (target.length) {
-             $('html,body').animate({
-                 scrollTop: target.offset().top
-            }, 1000);
-            return false;
+        target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+        // Does a scroll target exist?
+        if (target.length) {
+          // Only prevent default if animation is actually gonna happen
+          event.preventDefault();
+          $('html, body').animate({
+            scrollTop: target.offset().top
+          }, 1000, function() {
+            // Callback after animation
+            // Must change focus!
+            var $target = $(target);
+            $target.focus();
+            if ($target.is(":focus")) { // Checking if the target was focused
+              return false;
+            } else {
+              $target.attr('tabindex','-1'); // Adding tabindex for elements not focusable
+              $target.focus(); // Set focus again
+            };
+          });
         }
-    }
-});
-});
+      }
+    });
+  });
 </script>
 <!--SMOOTH SCROLL 2-->
 
@@ -309,7 +332,7 @@ $(document).ready(function(){
 </script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
 
 
-<!--<script type='text/javascript'>
+<!-- <script type='text/javascript'>
   var googletag = googletag || {};
   googletag.cmd = googletag.cmd || [];
   (function() {
@@ -322,7 +345,7 @@ $(document).ready(function(){
     var node = document.getElementsByTagName('script')[0];
     node.parentNode.insertBefore(gads, node);
   })();
-</script>-->
+</script> -->
 
 <script type="text/javascript">
 // SLIDE-IN MENU
@@ -337,9 +360,15 @@ googletag.defineSlot('/5136785/SA_Bottom_HomePage', [[320, 50], [728, 90], [970,
 googletag.pubads().enableSyncRendering();      
 googletag.pubads().enableSingleRequest();
 googletag.pubads().collapseEmptyDivs();
+
+
+	    
 googletag.enableServices();
 
 });
+
+
+			
 </script>
 
 
@@ -359,7 +388,10 @@ googletag.enableServices();
 googletag.defineSlot('/5136785/SA_Tile1_Info', [300, 100], 'div-gpt-ad-1443757323385-4').addService(googletag.pubads());
 
 // Tile 2 300x100
-googletag.defineSlot('/5136785/SA_Tile2_Info', [300, 100], 'div-gpt-ad-1449255182659-14').addService(googletag.pubads());
+googletag.defineSlot('/5136785/SA_Tile2_Info', [300, 100], 'div-gpt-ad-1449255182659-4').addService(googletag.pubads());
+      
+// Tile 3 300x100 Article-level
+googletag.defineSlot('/5136785/SA_300x100-1_Info', [300, 100], 'div-gpt-ad-1509425861841-3').addService(googletag.pubads());
 
 // Interstitials
 googletag.defineOutOfPageSlot('/5136785/SA_INT_Info', 'div-gpt-ad-1444028495459-4').addService(googletag.pubads());
@@ -375,6 +407,10 @@ googletag.defineSlot('/5136785/SA_Box1_Info', [300, 250], 'div-gpt-ad-1449258530
 
 // Box 2 - 300 x 250
 googletag.defineSlot('/5136785/SA_Box2_Info', [300, 250], 'div-gpt-ad-1449258530424-1').addService(googletag.pubads());
+      
+      
+// Box 3 - 300 x 250
+googletag.defineSlot('/5136785/SA_Box3_Info', [300, 250], 'div-gpt-ad-1509158663350-2').addService(googletag.pubads());
 
     
 // Top
@@ -423,7 +459,9 @@ googletag.enableServices();
       </script>
       <script async="" src="//static.chartbeat.com/js/chartbeat_mab.js"></script>
 <!--CHARTBEAT-->
-
+    
+    
+    
 
 	
 	<script type="text/javascript">
@@ -441,12 +479,12 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
 <meta property="og:url" content="http://www.staradvertiser.com/about/privacy-policy/">
 <meta property="og:site_name" content="Honolulu Star-Advertiser">
 <meta property="article:publisher" content="https://www.facebook.com/staradvertiser/">
-<meta property="og:image" content="http://staradvertiser.com/wp-content/uploads/site-images/sa-fb-thumb.jpg">
+<meta property="og:image" content="https://staradvertiser.com/wp-content/uploads/site-images/sa-fb-thumb.jpg">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:description" content="The information that Staradvertiser.com collects about visitors while they are using the Service falls into two general categories: 1. Information You Provide to Us. Staradvertiser.com may collect and store information, personal or otherwise, that you Read More">
 <meta name="twitter:title" content="Privacy Policy">
 <meta name="twitter:site" content="@staradvertiser">
-<meta name="twitter:image" content="http://staradvertiser.com/wp-content/uploads/site-images/sa-fb-thumb.jpg">
+<meta name="twitter:image" content="https://staradvertiser.com/wp-content/uploads/site-images/sa-fb-thumb.jpg">
 <meta name="twitter:creator" content="@staradvertiser">
 <!-- / Yoast SEO plugin. -->
 
@@ -457,9 +495,9 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
 <link rel="alternate" type="application/rss+xml" title="Honolulu Star-Advertiser » Privacy Policy Comments Feed" href="http://www.staradvertiser.com/about/privacy-policy/feed/">
 <meta property="og:image" content="/wp-content/uploads/site-images/sa-fb-thumb.jpg">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.staradvertiser.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.5"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.staradvertiser.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.10"}};
 			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://www.staradvertiser.com/wp-includes/js/wp-emoji-release.min.js?ver=4.7.5" type="text/javascript" defer=""></script>
+		</script><script src="http://www.staradvertiser.com/wp-includes/js/wp-emoji-release.min.js?ver=4.7.10" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -474,9 +512,9 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="gametrackercss-css" href="http://www.staradvertiser.com/wp-content/plugins/hsa-gameday-tracker/gametracker.css?ver=4.7.5" type="text/css" media="all">
-<link rel="stylesheet" id="hsa-multi-column-news-styles-css" href="http://www.staradvertiser.com/wp-content/plugins/hsa-multi-column-news/inc/css/hsa-multi-column-news.css?ver=4.7.5" type="text/css" media="all">
-<link rel="stylesheet" id="hsa_polls_css-css" href="http://www.staradvertiser.com/wp-content/plugins/hsa-polls/css/common.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="hsa_four_columns_widget-styles-css" href="http://www.staradvertiser.com/wp-content/plugins/cmd-hsa-four-columns-widget/css/four_columns_widget.css?ver=4.7.10" type="text/css" media="all">
+<link rel="stylesheet" id="hsa-multi-column-news-styles-css" href="http://www.staradvertiser.com/wp-content/plugins/hsa-multi-column-news/inc/css/hsa-multi-column-news.css?ver=4.7.11" type="text/css" media="all">
+<link rel="stylesheet" id="hsa_polls_css-css" href="http://www.staradvertiser.com/wp-content/plugins/hsa-polls/css/common.css?ver=4.7.10" type="text/css" media="all">
 <link rel="stylesheet" id="twentythirteen-fonts-css" href="//fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C400%2C700%2C300italic%2C400italic%2C700italic%7CBitter%3A400%2C700&amp;subset=latin%2Clatin-ext" type="text/css" media="all">
 <link rel="stylesheet" id="genericons-css" href="http://www.staradvertiser.com/wp-content/themes/staradvertiser/genericons/genericons.css?ver=3.03" type="text/css" media="all">
 <link rel="stylesheet" id="twentythirteen-style-css" href="http://www.staradvertiser.com/wp-content/themes/staradvertiser/style.css?ver=2015-12-08" type="text/css" media="all">
@@ -485,8 +523,8 @@ img.emoji {
 <![endif]-->
 <script type="text/javascript" src="http://www.staradvertiser.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
 <script type="text/javascript" src="http://www.staradvertiser.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
-<script type="text/javascript" src="http://www.staradvertiser.com/wp-content/plugins/hsa-polls/js/common.js?ver=4.7.5"></script>
-<script type="text/javascript" src="http://www.staradvertiser.com/wp-content/themes/staradvertiser/js/mather_paywall.js?ver=4.7.5"></script>
+<script type="text/javascript" src="http://www.staradvertiser.com/wp-content/plugins/hsa-polls/js/common.js?ver=4.7.10"></script>
+<script type="text/javascript" src="http://www.staradvertiser.com/wp-content/themes/staradvertiser/js/mather_paywall.js?ver=4.7.11"></script>
 <link rel="https://api.w.org/" href="http://www.staradvertiser.com/wp-api/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.staradvertiser.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.staradvertiser.com/wp-includes/wlwmanifest.xml"> 
@@ -524,13 +562,6 @@ img.emoji {
 </head>
 
 <body>
-
-
-
-
-
-
-
 
 
 
@@ -590,7 +621,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1456339848629-0');
 <!-- /5136785/SA_Tile2_Info -->
 													<div id="div-gpt-ad-1449255182659-4">
 													<script type="text/javascript">
-													googletag.cmd.push(function() { googletag.display("div-gpt-ad-1449255182659-14"); });
+													googletag.cmd.push(function() { googletag.display("div-gpt-ad-1449255182659-4"); });
 													</script>
 													</div><!--Tile 2 300 x 100-->
 </div><!--.left-->
@@ -601,7 +632,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1456339848629-0');
 <div class="inner">
 <!--LOGO-->
 <div class="logo">
-<a href="/index.php"><img src="https://sa-media.s3.amazonaws.com/images/redesign/star-advertiser-logo.svg" style="width:100%; height:auto;"></a><br>
+<a href="/index.php"><img src="https://sa-media.s3.amazonaws.com/images/redesign/star-advertiser-logo.svg" style="width:100%; height:auto;" border="0"></a><br>
 </div>
 <!--LOGO-->
 
@@ -609,7 +640,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1456339848629-0');
 <div style="width:100%; float:left;">
 
 <div style="width:auto; font-size:15px; font-weight:600; text-align:center;" class="weather-text">
-July 1, 2017 | <a href="/hawaii-weather"><img src="/wp-content/themes/staradvertiser/images/Icons/partly_cloudy_rain.png" style="height:20px; width:auto;"> 83°</a> | <a href="/traffic"><i class="fa fa-car"></i> Check Traffic</a> 
+May 20, 2018 | <a href="/hawaii-weather"><img src="/wp-content/themes/staradvertiser/images/Icons/partly_sunny.png" style="height:20px; width:auto;"> 83°</a> | <a href="/traffic"><i class="fa fa-car"></i> Check Traffic</a> 
 </div>
 
 </div>
@@ -641,38 +672,29 @@ July 1, 2017 | <a href="/hawaii-weather"><img src="/wp-content/themes/staradvert
 
 
 
+
+
 <!--TOP NAV-->
 <div id="top-nav" class="clear">
+    <!--SMALL FADE-IN LOGO-->
 	<div id="fade-logo" class="logo">
 		<a href="http://www.staradvertiser.com/"><img src="https://sa-media.s3.amazonaws.com/images/redesign/star-advertiser-logo-sml.png" alt="Honolulu Star-Advertiser"></a>
 	</div>
-
-
-
-
-	<!--LEFT-->
+	<!-- end #fade-logo -->
+	
+    
+	<!-- start .top-nav-left -->
 	<div class="top-nav-left">
 		<ul>
             <li><a onclick="ga('send', 'event', 'nav', 'click', 'burger-icon'); return false" id="slide" style="cursor: pointer;"><i class="fa fa-bars" aria-hidden="true"></i> Menu</a></li>
-            <li class="hide-mobile"><a href="https://gateway.staradvertiser.com/myaccount/" target="blank">Customer Service</a></li>
-            <li class="hide-mobile"><a href="http://staradvertiser.newspaperdirect.com/epaper/viewer.aspx" target="_blank">Print Replica</a></li>
+            <li class="hide-mobile"><a href="https://gateway.staradvertiser.com/customer-service/" target="blank">Customer Service</a></li>
+            <li class="hide-mobile"><a href="https://printreplica.staradvertiser.com/overview/" target="_blank">Print Replica</a></li>
+            <li class="hide-mobile"><a href="https://www.staradvertiser.com/?s="><i class="fa fa-search"></i> Search</a></li>
         </ul>
-	</div><!--top-nav-left-->
+	</div>
+	<!--top-nav-left-->
     
     
-    <!--SEARCH BAR-->
-    <div id="search-box" class="desktop hide-mobile">
-        <form role="search" method="get" class="search-form" action="http://www.staradvertiser.com">
-	<label>
-		<span class="screen-reader-text">Search for:</span>
-		<input type="search" class="search-field" placeholder="Search …" value="" name="s" title="Search for:">
-	</label>
-	<button type="submit" id="search-icon">
-		<i class="fa fa-search" aria-hidden="true"></i>
-	</button>
-	<!--<input type="submit" class="search-submit" value="Search" />-->
-	<!--<div id="search-icon"><i class="fa fa-search"></i></div>-->
-</form>    </div><!--search-box-->
 
 
 	<!--RIGHT NAV DESKTOP ONLY-->
@@ -689,9 +711,9 @@ July 1, 2017 | <a href="/hawaii-weather"><img src="/wp-content/themes/staradvert
 
 
 
-<!--secondary-->
+<!--SECONDARY NAV DESKTOP ONLY-->
 <div id="top-nav-secondary">
-<div class="inner"><!--inner-->
+<div class="inner">
 <div class="menu-top-container"><ul id="primary-menu" class="nav-menu"><li id="menu-item-562578" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-562578"><a href="https://www.staradvertiser.com">Home</a></li>
 <li id="menu-item-562579" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-562579"><a href="https://www.staradvertiser.com/category/breaking-news/">Top News</a></li>
 <li id="menu-item-569544" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-569544"><a href="https://www.staradvertiser.com/news/">Local</a></li>
@@ -709,12 +731,11 @@ July 1, 2017 | <a href="/hawaii-weather"><img src="/wp-content/themes/staradvert
 
 
 <div class="longs-bug">
-<a onclick="ga('send', 'event', 'tile', 'click', 'Longs');" href="http://longs.staradvertiser.com/" target="_blank"><img src="https://sa-media.s3.amazonaws.com/images/redesign/longs-nav.gif" style="height:20px; width:auto; "></a>
+    <a onclick="ga('send', 'event', 'tile', 'click', 'Longs');" href="http://longs.staradvertiser.com/" target="_blank"><img src="https://sa-media.s3.amazonaws.com/images/redesign/longs-nav.gif" style="height:20px; width:auto; "></a>
+</div><!--longs-bug-->
+</div><!--inner-->
 </div>
-
-</div><!---inner---->
-</div>
-<!--TOP NAV-->
+<!--SECONDARY NAV -->
 
 
 
@@ -723,15 +744,11 @@ July 1, 2017 | <a href="/hawaii-weather"><img src="/wp-content/themes/staradvert
 <!--SLIDE-IN NAV-->
 <div id="slide-in-nav" class="hidden">
 
-
-
-
-
-<div style="width:100%; margin:1% 0 5% 0; text-align:center;">
-<!-- /5136785/SA_MenuTile -->
-<div id="div-gpt-ad-1445920181141-0" style="height:100px; width:300px;">
+<!--300x100-->
+<div style="width: 300px; height: 100px; margin: 0 auto 10px; background: #555;">
+    <div id="div-gpt-ad-1445920181141-0" style="height:100px; width:300px;">
 <script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1445920181141-0'); });
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1445920181141-0'); });
 </script>
 </div>
 </div>
@@ -739,17 +756,11 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1445920181141-0');
 
 
 
-
-
-
-
-
-<div id="mobile-slide-menu">
-
-
-<div id="search-box" class="mobile" style="width:100%; margin:0 0 15px 0; display:block!important">
-<div id="search-icon"><i class="fa fa-search"></i></div>
-<form role="search" method="get" class="search-form" action="http://www.staradvertiser.com">
+<div id="mobile-slide-menu" class="clear">
+    
+<!--MOBILE SEARCH-->
+<div id="search-box" class="mobile">
+    <form role="search" method="get" class="search-form" action="http://www.staradvertiser.com">
 	<label>
 		<span class="screen-reader-text">Search for:</span>
 		<input type="search" class="search-field" placeholder="Search …" value="" name="s" title="Search for:">
@@ -761,103 +772,79 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1445920181141-0');
 	<!--<div id="search-icon"><i class="fa fa-search"></i></div>-->
 </form></div><!--search-box-->
 
-
-<!--LOGIN MENU-->
-<ul>
-<span class="mobile"><li><a onclick="ga('send', 'event', 'tile', 'click', 'Longs Mobile');" href="http://longs.staradvertiser.com/" target="_blank"><img src="http://sa-media.s3.amazonaws.com/images/redesign/longs-nav.gif" style="height:20px; width:auto;"></a></li></span>
-
-<li><a onclick="ga('send', 'event', 'nav', 'click', 'Slide Menu Login')" href="https://www.staradvertiser.com/user-access/?redirect_to=http%3A%2F%2Fwww.staradvertiser.com%2Fabout%2Fprivacy-policy%2F"><i class="fa fa-user"></i> <strong>LOG IN</strong></a></li>
-<li><a href="https://gateway.staradvertiser.com/index.html" target="blank">SUBSCRIBE</a></li>
-
-
+<!--LONGS BUTTON-->
+<div class="longs-bug mobile">
+    <a onclick="ga('send', 'event', 'tile', 'click', 'Longs Mobile');" href="http://longs.staradvertiser.com/" target="_blank"><img src="http://sa-media.s3.amazonaws.com/images/redesign/longs-nav.gif" style="height:20px; width:auto;"></a>
+</div><!--longs-bug-->
+    
+    
+<div class="clearfix"></div>
 
 
-</ul>
-<!--LOGIN MENU-->
-
-
-
-
-<div class="desktop">
-<div class="menu-slider-nav-desktop-container"><ul id="menu-slider-nav-desktop" class="menu"><li id="menu-item-569566" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-569566"><a href="https://www.staradvertiser.com/back-issues/">Archives</a></li>
-<li id="menu-item-550745" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-550745"><a href="https://www.staradvertiser.com/featured-columnists/">Columnists</a></li>
+<div class="desktop clear">
+    <div class="menu-slider-nav-desktop-container"><ul id="menu-slider-nav-desktop" class="menu"><li id="menu-item-731509" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-731509"><a href="http://www.staradvertiser.com/category/breaking-news/">Top News</a></li>
 <li id="menu-item-569571" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-569571"><a href="https://www.staradvertiser.com/tgif/">TGIF</a></li>
 <li id="menu-item-569573" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-569573"><a href="https://www.staradvertiser.com/video/">Video</a></li>
 <li id="menu-item-569568" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-569568"><a href="https://www.staradvertiser.com/photo-galleries/">Photo Galleries</a></li>
 <li id="menu-item-230913" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-230913"><a href="http://hawaiiprepworld.com">Hawaii Prep World</a></li>
 <li id="menu-item-230914" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-230914"><a href="http://hawaiiwarriorworld.com">Hawaii Warrior World</a></li>
-<li id="menu-item-569572" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-569572"><a href="https://www.staradvertiser.com/category/star-channels/">Star Channels</a></li>
+<li id="menu-item-739221" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-739221"><a href="https://www.staradvertiser.com/features/">Features</a></li>
 <li id="menu-item-230915" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-230915"><a href="https://www.staradvertiser.com/blogs/">Blogs</a></li>
+<li id="menu-item-550745" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-550745"><a href="https://www.staradvertiser.com/featured-columnists/">Columnists</a></li>
 <li id="menu-item-572236" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-572236"><a href="https://www.staradvertiser.com/travel">Travel</a></li>
-<li id="menu-item-569569" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-569569"><a href="https://www.staradvertiser.com/religion/">Religion</a></li>
-<li id="menu-item-569575" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-569575"><a href="https://www.staradvertiser.com/hokulea/">Hokulea</a></li>
-<li id="menu-item-569574" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-569574"><a href="https://www.staradvertiser.com/merrie-monarch/">Merrie Monarch</a></li>
-<li id="menu-item-537469" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-537469"><a href="https://www.staradvertiser.com/hawaii-movie-listings/">Movie Listings</a></li>
-<li id="menu-item-569567" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-569567"><a href="https://www.staradvertiser.com/category/corrections/">Corrections</a></li>
 <li id="menu-item-536890" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-536890"><a href="http://dining.staradvertiser.com/">Dining Out</a></li>
 <li id="menu-item-536889" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-536889"><a target="_blank" href="http://hawaiirenovation.staradvertiser.com/">Hawaii Renovation</a></li>
 <li id="menu-item-569570" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-569570"><a href="https://www.staradvertiser.com/category/special-sections/">Special Sections</a></li>
+<li id="menu-item-569566" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-569566"><a href="https://www.staradvertiser.com/back-issues/">Archives</a></li>
+<li id="menu-item-569572" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-569572"><a href="https://www.staradvertiser.com/category/star-channels/">Star Channels</a></li>
 <li id="menu-item-536891" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-536891"><a target="_blank" href="http://www.honolulustreetpulse.com/">Honolulu Street Pulse</a></li>
-</ul></div></div>
+<li id="menu-item-718610" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-718610"><a href="http://www.staradvertiser.com/sponsored-content/">Partner Content</a></li>
+<li id="menu-item-729189" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-729189"><a href="http://www.staradvertiser.com/partner-videos/">Partner Videos</a></li>
+</ul></div></div><!--desktop-->
 
 
-<div class="mobile">
-
-
-
-
-
-
-
-<div class="menu-mobile-nav-container"><ul id="menu-mobile-nav" class="menu"><li id="menu-item-562705" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-562705"><a href="https://www.staradvertiser.com">Home</a></li>
-<li id="menu-item-569550" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-569550"><a href="https://www.staradvertiser.com/back-issues/">Archives</a></li>
+<div class="mobile clear">
+    <div class="menu-mobile-nav-container"><ul id="menu-mobile-nav" class="menu"><li id="menu-item-562705" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-562705"><a href="https://www.staradvertiser.com">Home</a></li>
 <li id="menu-item-562706" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-562706"><a href="https://www.staradvertiser.com/category/breaking-news/">Top News</a></li>
-<li id="menu-item-569554" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-569554"><a href="https://www.staradvertiser.com/news/">Local</a></li>
-<li id="menu-item-569557" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-569557"><a href="https://www.staradvertiser.com/sports/">Sports</a></li>
-<li id="menu-item-572238" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-572238"><a href="https://www.staradvertiser.com/crave">Crave</a></li>
-<li id="menu-item-569551" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-569551"><a href="https://www.staradvertiser.com/business/">Business</a></li>
-<li id="menu-item-569558" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-569558"><a href="https://www.staradvertiser.com/tgif/">TGIF</a></li>
-<li id="menu-item-569553" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-569553"><a href="https://www.staradvertiser.com/features/">Features</a></li>
-<li id="menu-item-569552" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-569552"><a href="https://www.staradvertiser.com/editorial/">Editorial</a></li>
-<li id="menu-item-569556" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-569556"><a href="https://www.staradvertiser.com/religion/">Religion</a></li>
-<li id="menu-item-562711" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-562711"><a href="https://www.staradvertiser.com/featured-columnists/">Columnists</a></li>
-<li id="menu-item-569559" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-569559"><a href="https://www.staradvertiser.com/travel/">Travel</a></li>
-<li id="menu-item-562720" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-562720"><a target="_blank" href="http://staradvertiser.newspaperdirect.com/epaper/viewer.aspx">Print Replica</a></li>
-<li id="menu-item-613183" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-613183"><a href="http://staradvertiser.com/blogs">Blogs</a></li>
-<li id="menu-item-569561" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-569561"><a href="https://www.staradvertiser.com/video/">Video</a></li>
+<li id="menu-item-731502" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-731502"><a href="https://www.staradvertiser.com/hawaii-weather/">Weather</a></li>
+<li id="menu-item-731505" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-731505"><a href="https://www.staradvertiser.com/traffic/">Traffic</a></li>
 <li id="menu-item-569555" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-569555"><a href="https://www.staradvertiser.com/photo-galleries/">Photo Galleries</a></li>
-<li id="menu-item-569563" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-569563"><a href="https://www.staradvertiser.com/hokulea/">Hokulea</a></li>
-<li id="menu-item-569562" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-569562"><a href="https://www.staradvertiser.com/merrie-monarch/">Merrie Monarch</a></li>
-<li id="menu-item-562712" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-562712"><a target="_blank" href="https://gateway.staradvertiser.com/index.html">Customer Service</a></li>
+<li id="menu-item-569561" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-569561"><a href="https://www.staradvertiser.com/video/">Video</a></li>
+<li id="menu-item-569554" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-569554"><a href="https://www.staradvertiser.com/news/">Hawaii News</a></li>
+<li id="menu-item-569557" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-569557"><a href="https://www.staradvertiser.com/sports/">Sports</a></li>
+<li id="menu-item-569553" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-569553"><a href="https://www.staradvertiser.com/features/">Features</a></li>
+<li id="menu-item-572238" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-572238"><a href="https://www.staradvertiser.com/crave">Crave</a></li>
+<li id="menu-item-569559" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-569559"><a href="https://www.staradvertiser.com/travel/">Travel</a></li>
+<li id="menu-item-569558" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-569558"><a href="https://www.staradvertiser.com/tgif/">TGIF</a></li>
+<li id="menu-item-569552" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-569552"><a href="https://www.staradvertiser.com/editorial/">Editorial</a></li>
 <li id="menu-item-665897" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-665897"><a href="http://obits.staradvertiser.com">Obituaries</a></li>
+<li id="menu-item-569550" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-569550"><a href="https://www.staradvertiser.com/back-issues/">Archives</a></li>
+<li id="menu-item-562720" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-562720"><a target="_blank" href="http://printreplica.staradvertiser.com/overview/">Print Replica</a></li>
+<li id="menu-item-562711" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-562711"><a href="https://www.staradvertiser.com/featured-columnists/">Columnists</a></li>
+<li id="menu-item-613183" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-613183"><a href="http://staradvertiser.com/blogs">Blogs</a></li>
 <li id="menu-item-562709" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-562709"><a target="_blank" href="http://www.hawaiicars.com">Cars</a></li>
 <li id="menu-item-562716" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-562716"><a target="_blank" href="http://www.hawaiiislandhomes.com/">Homes</a></li>
 <li id="menu-item-562710" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-562710"><a target="_blank" href="http://www.hawaiisclassifieds.com/">Classifieds</a></li>
-<li id="menu-item-562718" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-562718"><a href="https://www.staradvertiser.com/hawaii-movie-listings/">Movie Listings</a></li>
 <li id="menu-item-562717" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-562717"><a target="_blank" href="http://jobs.staradvertiser.com/">Jobs</a></li>
+<li id="menu-item-562712" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-562712"><a target="_blank" href="https://gateway.staradvertiser.com/index.html">Subscribe Now</a></li>
+<li id="menu-item-731508" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-731508"><a href="https://www.staradvertiser.com/about/star-advertiser-contact-information/">Contact Us</a></li>
 <li id="menu-item-569560" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-569560"><a href="https://www.staradvertiser.com/category/star-channels/">Star Channels</a></li>
-</ul></div></div>
+<li id="menu-item-723034" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-723034"><a href="http://www.staradvertiser.com/category/special-sections/">Special Sections</a></li>
+<li id="menu-item-718611" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-718611"><a href="http://www.staradvertiser.com/sponsored-content/">Partner Content</a></li>
+<li id="menu-item-729190" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-729190"><a href="http://www.staradvertiser.com/partner-videos/">Partner Videos</a></li>
+</ul></div></div><!--mobile-->
 
 
 
+<div style="width: 300px; height: 250px; margin: 0 auto; text-align:center; background: #555;">
+    <div id="div-gpt-ad-1444965704525-0" style="height:250px; width:300px;">
+    <script type="text/javascript">
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1444965704525-0'); });
+    </script>
+    </div>
 </div>
-
-
-
-<div style="width:100%; margin:1% 0; text-align:center;">
-<!-- /5136785/SA_MenuBox -->
-<div id="div-gpt-ad-1444965704525-0" style="height:250px; width:300px;">
-<script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1444965704525-0'); });
-</script>
-</div>
-</div>
-</div><!--#menu-->
-
-
-
-
-
+    
+</div><!--mobile-slide-menu-->
 </div>
 <!--SLIDE-IN NAV-->
 
@@ -867,17 +854,6 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1444965704525-0');
 
 
 <a name="#top"></a>
-
-
-
-<!--BREAKING ALERT BAR-->
-<!--BREAKING ALERT BAR-->
-
-
-
-
-
-
 
 
 
@@ -891,6 +867,12 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1444965704525-0');
 																</script>
 																</div></div>
 <!--TOP LEADERBOARD-->
+
+
+
+
+<!--BREAKING ALERT BAR-->
+<!--BREAKING ALERT BAR-->
 
 <div id="story-section">
 <div class="container">
@@ -961,23 +943,23 @@ Honolulu HI 96813<br>
 		var _matherq = (window._matherq = window._matherq || []);
 		var ctx = {};
 
-		var userId = '';
-		var wordPressUserId = '0';
+		var userId = null;
+		var wordPressUserId = 0;
 
 		if (wordPressUserId) {
 	 		ctx.identities = { type: 'wordpress', id: wordPressUserId };
 	 	}
 
-		_matherq.push(['setCollectorUrl', 'www.i.matheranalytics.com']);
+	 	_matherq.push(['setCollectorUrl', 'www.i.matheranalytics.com']);
 		_matherq.push(['setAppId', 'v1']);
-		_matherq.push(['setCustomerId', 'ma37849']);
-		_matherq.push(['setMarket', '784590323']);
+		_matherq.push(['setCustomerId', "ma37849"]);
+		_matherq.push(['setMarket', "784590323"]);
 		userId && _matherq.push(['setUserId', userId]);
-		_matherq.push(['setSection', 'Privacy Policy']);
-		_matherq.push(['setAuthor', 'None', ', ']);
-		_matherq.push(['setPageType', 'custom_page']);
+		_matherq.push(['setSection', "Privacy Policy"]);
+		_matherq.push(['setAuthor', "None", ", "]);
+		_matherq.push(['setPageType', "custom_page"]);
 		_matherq.push(['setPremium', false]);
-		_matherq.push(['setArticlePublishTime', '2015-08-20T19:54:10-10:00']);
+		_matherq.push(['setArticlePublishTime', "2015-08-20T19:54:10-10:00"]);
 		_matherq.push(['setMetered', 0]);
 		_matherq.push(['enableActivityTracking', 30, 10]);
 		_matherq.push(['trackPageView', null, ctx]);
@@ -998,12 +980,12 @@ Honolulu HI 96813<br>
 	})();
 
 </script>
-<noscript><img src="http://www.i.matheranalytics.com/i?e=pv&aid=v1&cid=ma37849&mrk=784590323&p=web&tv=no-js-0.1.0&tid=1498942479" style="display:none" height="1" width="1" alt/></noscript>
+<noscript><img src="http://www.i.matheranalytics.com/i?e=pv&aid=v1&cid=ma37849&mrk=784590323&p=web&tv=no-js-0.1.0&tid=1526874265" style="display:none" height="1" width="1" alt/></noscript>
 
 
 <div id="footer">
 <img src="https://sa-media.s3.amazonaws.com/images/redesign/star-advertiser-logo-REV.svg" style="width:10%; height:auto; min-width:150px"><br>
-Copyright ©2017 staradvertiser.com. All rights reserved.<br>
+Copyright © 2018 staradvertiser.com. All rights reserved.<br>
 500 Ala Moana Blvd. #7-210, Honolulu, HI 96813 Telephone: (808) 529-4747
 
 <!--SOCIAL MEDIA-->
@@ -1025,7 +1007,7 @@ Copyright ©2017 staradvertiser.com. All rights reserved.<br>
 <ul>
 <li><a href="/about/" style="color:#FFF">About Us</a></li>
 <li><a href="http://www.oahupublications.com/" target="_blank" style="color:#FFF">Media Kit</a></li>
-<li><a href="http://www.oahupublications.com/" target="_blank" style="color:#FFF">Advertise</a></li>
+<li><a href="/about/star-advertiser-contact-information/#jump3" style="color:#FFF">Advertise</a></li>
 <li><a href="/about/privacy-policy/" target="_blank" style="color:#FFF">Privacy Policy</a></li>
 <li><a href="/about/star-advertiser-contact-information/" target="_blank" style="color:#FFF">Contact Information</a></li>
 <li><a href="/about/terms-of-service/" target="_blank" style="color:#FFF">Terms of Service</a></li>
@@ -1053,7 +1035,7 @@ googletag.cmd.push(function() { googletag.display("div-gpt-ad-1444028495459-79")
 </div><!--#footer-->
 
 
-<!--MAIN BODY-->
+</div><!--MAIN BODY-->
 <script type="text/javascript" src="http://www.staradvertiser.com/wp-content/plugins/ricg-responsive-images/js/picturefill.min.js?ver=3.0.1"></script>
 <script type="text/javascript" src="http://www.staradvertiser.com/wp-content/themes/staradvertiser/js/functions.js?ver=20150330"></script>
 <script type="text/javascript">
@@ -1062,7 +1044,7 @@ var BJLL_options = {"threshold":"3000"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://www.staradvertiser.com/wp-content/plugins/bj-lazy-load/js/bj-lazy-load.min.js?ver=2"></script>
-<script type="text/javascript" src="http://www.staradvertiser.com/wp-includes/js/wp-embed.min.js?ver=4.7.5"></script>
+<script type="text/javascript" src="http://www.staradvertiser.com/wp-includes/js/wp-embed.min.js?ver=4.7.10"></script>
 
 
 
@@ -1111,7 +1093,8 @@ var BJLL_options = {"threshold":"3000"};
       _sf_async_config.sections = "Privacy Policy"; //CHANGE THIS
       _sf_async_config.authors = "None"; //CHANGE THIS
       
-      
+      var _cbq = window._cbq = (window._cbq || []);
+      _cbq.push( ["_acct","anon"] );
       
       /** CONFIGURATION END **/
       (function() {
