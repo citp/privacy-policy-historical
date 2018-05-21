@@ -1,93 +1,203 @@
-> *The following text is extracted and transformed from the craftsy.com privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310063550id_/https%3A//d3otgmjhy4llet.cloudfront.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftsy.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522012349id_/https%3A//www.nbcuniversal.com/privacy/full-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Full Privacy Policy | NBCUniversal
 
-Sympoz Inc., a Delaware corporation with its principal place of business at 999 18th Street, Suite 240, Denver, CO 80202 ("Sympoz") is the owner and operator of the websites [www.sympoz.com](http://www.sympoz.com/), [www.craftsy.com](http://www.craftsy.com/) and such other URLs as may be designated in the future (the "Websites"). Sympoz is committed to protecting the online privacy of visitors to the Websites. The privacy policy set forth below (this "Policy") applies only to the Websites and online services provided by Sympoz. The purpose of this Policy is to inform you about the types of information we gather about you when you visit our Websites, how we may use that information, and how we may disclose it to third parties. This Policy also covers our treatment of any information about you that our third-party business partners share with us or that we share with our third-party business partners. This Policy does not apply to the practices of third parties that we do not own or control, including but not limited to any third party websites, services and applications ("Third Party Services") that you elect to access through the Websites or to individuals that we do not manage or employ. While we attempt to enable access only to those Third Party Services that share our respect for your privacy, we cannot take responsibility for the content or privacy policies of those Third Party Services. Please make sure to review the privacy policies of any Third Party Services you access.
+## Full Privacy Policy
 
-The Websites are intended to serve as an online learning environment through which registered users ("Users") who subscribe will access courses of video lectures ("Courses") and associated study materials and background materials presented by Sympoz instructors ("Instructors"), interact with Instructors, Sympoz teaching assistants ("Teaching Assistants") and other Users through the Websites. The Websites will also serve as an online social network through which Users may communicate and interact with other Users, share their own User Submissions (as defined in the Terms of Use) and view the User Submissions of other Users. Users may also participate in Challenges (as defined in the Terms of Use).
+Last Updated: 6 June 2016
 
-BY USING THE WEBSITES, YOU AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE WITH THESE TERMS, PLEASE DO NOT USE THE WEBSITES.
+This Privacy Policy describes the privacy practices of NBCUniversal Media LLC including our affiliate companies (“NBCUniversal”, “we”, “our” or “us”).  You can find information about NBCUniversal, including our affiliates, [here](https://web.archive.org/businesses).
 
-1\. Information That We Collect
+This Privacy Policy explains how we collect, use, disclose, and transfer information about users who interact with us including (but not limited to) via our websites, downloadable applications, such as games, interactive TV and Mobile Apps (as defined below) that link to this policy (“online services”).  This policy only applies to those online services that link to this policy. This policy also tells you how we use tracking technologies, cookies and browsing data we collect from your use of our online services, the measures we take to protect the security of the information you provide to us through our online services, and how you can contact us if you have any questions regarding our online services (including if you want to unsubscribe from our services or update your contact details). Information about how NBCUniversal processes your information outside our online services (e.g. working for NBCUniversal or visiting NBCUniversal premises) is available by contacting [privacy@nbcuni.com](mailto:privacy@nbcuni.com). 
 
-A. Personal Information – At various locations on the Websites, such as in registration forms, surveys, and polls, we may request that you supply us with "personal information" consisting of your name, telephone number, address, and credit card details. We use your personal information to, among other things, send you updates, news and promotional offers. You may choose not to receive updates, news and/or promotional offers of this type by updating the notification settings of your account. If you do choose to give us personal information through the Websites, we will collect and retain that information.
+**1\. SCOPE AND CONSENT**
 
-B. Non-Personal Information – When you use the Websites, we may also collect "non-personal information". We consider "non-personal information" to be information that, by itself, cannot be used to identify you personally, such as demographic information (your age, gender, income, education, profession, area code, zip code, etc.). Non-personal information includes information that you include in your Profile (as defined in the Terms of Use) or contribute as User Submissions (as defined in the Terms of Use) for presentation on the Websites, and may also include technical information, such as your IP address, the type of browser you are using, the websites you visit immediately before and immediately after you visit the Websites, other anonymous data involving your use of the Websites, and other information that you provide us through your use of the Websites such as the terms you enter into the search functions of the Websites. You may also use the privacy settings on your account to control the availability of your information to other Users.
+When you use our online services, you are contracting with NBCUniversal.  If you reside outside of the United States, NBCUniversal is your data controller.  By using our online services, you expressly consent to our collection, use, disclosure, and retention of your information relating to you including [personal information](https://web.archive.org/privacy/full-privacy-policy/#types_of_information_do_we_collect) as described in this Privacy Policy.
 
-C. Cookies – We use "cookies" to enhance your visits to the Websites. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. Cookies do not store personal information about you, unless you knowingly provide it. Cookies can store non-personal information, such as what websites, pages, or advertisements your browser has accessed. We use cookies to store information and personalize your experience with the Websites. For example, cookies allow the Websites to recognize your browser as a previous visitor, and thus save and remember any preferences that may have been set while you were previously browsing the Websites. Our cookies can also store your password, personalize pages, and keep track of any selections you may make.
+**2\. TYPES OF INFORMATION WE COLLECT**
 
-You do have control over cookies. Most browsers can be set to notify you when a cookie is being placed on your computer. Most browsers can also be set to refuse to accept cookies, although this may affect your Internet experience. You can also erase cookies that are already on your computer. For more information about working with cookies, you should consult your user manual, FAQ, or "help" function of your specific browser and operating system software.
+Our goal is to collect and use information to deliver effective and personalized services, which take your interests and preferences into account, as well as for our legitimate business needs and interests.
 
-D. Web Beacons – We also may use "web beacons" (also often referenced as "clear GIFs", "clear pixels", "1×1 GIFs", or "1×1 pixels") which are tiny graphic image files, embedded in a web page in GIF, jpeg or HTML format, that provide a presence on the web page and send back to its home server information from your browser, such as the IP address, the URL of the page on which the web beacon is located, the type of browser that is accessing the site and the ID number of any cookies on your computer previously placed by that server. We may use web beacons to collect non-personal information about your use of the Websites and the websites of selected sponsors and advertisers, and your use of special promotions or newsletters. The information collected by web beacons allows us to statistically monitor how many people are using the Websites and selected sponsors' and advertisers' sites. Our web beacons are not used to track your activity outside of the Websites or those of our sponsors. We do not link non-personal information from web beacons to personally identifiable information without your permission.
+There are two main types of information we collect about users of our online services that include (but are not limited to) the following:
 
-E. Modification and Deletion – Users of the Websites may modify or delete any of their personal information, Profile information or User Submissions at any time by logging into their account. Information will be updated immediately. Individuals who wish to deactivate their account may do so. Removed information may persist in backup copies for a reasonable period of time but will not be generally available to other Users.
+  * **_Information that identifies you_ :** this is commonly referred to as “personal information” and includes, for example, information that you provide to us such as your name, home address, age, gender, telephone number, email address, payment information (including your credit card number), and/or photos or video footage of you; and
+  * _**Information that relates to you, but on its own does not identify you:**_  such as information about your Internet connection, the equipment you use to access our online services, and information relating to your usage of those services.
 
-Where you make use of the social networking and online education features of the Websites to share information with other individuals on the Websites (e.g., submitting a question or an answer to your Instructor, participating in discussions with other Users or submitting an entry to a Challenge), you generally cannot remove such communications.
 
-2\. Use of Information We Collect
 
-A. Our Services and Websites – We use your personal information to provide to you any services that you may request or require and to communicate with you and to allow you to provide User Submissions for posting on the Websites. We may also use your personal information to analyze how the Websites are being used and to improve the content of the Websites and the Courses and other Content (as defined in the Terms of Use) which they offer. We may also share your personal information with our third-party business partners, including but not limited to entities or persons with whom we co-produce Courses for presentation on the Websites. We reserve the right to use, disclose, license, assign or otherwise transfer information which is not personal information (including User Submissions and Profiles) in any way we see fit.
+The main categories of information we collect about our online services users include (but are not limited to) the following:
 
-B. Profiles and User Submissions – We store and may publicly display your Profile and User Submissions in order to provide the services that we offer. When we display your User Submissions, they will be identified by elements of your Profile (e.g., your chosen username, image and geographic location).
+  * _**Contact/Registration information:**_ for example, your telephone number or email address, if you have subscribed to a service such as program updates; name, age, gender, or interests if you register for an account on one of our online services; delivery address if you buy a product or service through an online service; or your age, location, or delivery address if you choose to enter a competition or sweepstakes offered through our online services.
+  * _**Transaction information:**_ when you order products or services through our online services, you may provide information such as your credit/debit card details and other personal information related to that transaction.
+  * _**Information that you provide on message boards and other user forums:  **_including your username, images, or videos.  Please use caution when posting to messages boards or other forums, as information posted to these portions of our online services is public information.
+  * _**Information about your equipment and about your interactions with the NBCUniversal and other online services:**_  for example, your Internet protocol or IP address; pages, content, or advertising that you visit within online services (including online services not provided by NBCUniversal); or the type and version of your device’s operating system or web browser, your device ID, and in some instances, your device’s location. 
+  * _**Information that is collected from social networks and publicly available data:  **_ if you visit our online services on a device through which you also interact with social networks or if you interact with us through a social media function such as a plug-in (for example, a Facebook “like” button) then you may be permitting us to have on-going access to some information from your social network profile (such as your name, email address, your friend list, photo, age, gender, location, birthday, social networking ID, current city, and the people/sites you follow ). If you don’t want a social network to collect the information about you as described above, or you don’t want a social network to share it with us and other third parties, please review the privacy settings and instructions of the applicable social network before you visit and use our online services.
+  * _**Information that is collected from Consumer Data Resellers:**_ we may collect information about you from consumer data resellers, including but not limited to, demographic and other generally available information, or advertiser information, including purchasing data and membership in loyalty programs.
+  * _**Information About Your Video Viewing Behavior:  **_information about your video viewing behavior on our online services (e.g., content viewed and information about the advertisements within the content you have been shown or may have clicked on, etc.).
 
-Please do not include information in your Profile or User Submissions that you expect to keep private.
 
-C. Enforcement – We may use the information we collect in connection with your use of the Websites (including your personal information) in order to investigate, enforce, and apply our Terms of Use, Privacy Policy and Contest Rules.
 
-3\. Disclosure of Information to Third Parties
+**3\. HOW WE COLLECT YOUR INFORMATION**
 
-A. Aggregate Information – Except as specifically set forth in this Policy, we do not share your personal information with any non-affiliated third party without your permission. We may disclose aggregate information, such as demographic information, and our statistical analyses to third parties, including advertisers or other business partners. This aggregate information does not include your personal information.
+The methods we use to collect information about you are as follows:
 
-B. Affiliates and Non-Affiliates – We endeavor to restrict access to personal information to Sympoz's directors, officers, employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. We may, however, also share your personal information with certain websites that are controlled by us, or by entities under common control with us, so that they and we can offer you products and services that may be of interest to you.
+  * _**Directly from you, when you provide it to us:**_ for example, when you request products or services from us, when you register with us, respond to surveys, apply for a job, contact us or otherwise interact with us. Please remember that if others use devices into which you remain logged in, they may share information with us as if they were you, and they may have access to information that you have previously provided us.  To protect your privacy, please log out from our online services that you access from public or shared devices.
+  * _**Automatically, when you use our online services:**_ information collected through the use of Cookies and Other Technologies, and when you download our Mobile Apps.  Please see our [Cookies and Tracking Technologies](https://web.archive.org/privacy/cookies/), and [Mobile Apps](https://web.archive.org/privacy/mobile-apps/) pages for further information, including your choices in relation to the use of these technologies.
+  * _**From third parties:  **_including social networks, other online services, publicly available records, our service providers. and  from consumer data resellers.
 
-C. Service Providers – We sometimes engage unaffiliated businesses to assist us in providing you certain services. For example, we may use third parties to provide advertising, marketing and promotional assistance, provide email services, or facilitate our online services. In those instances, we may need to share your personal information with them. We require these companies to use your personal information only to provide the particular product or service and do not authorize them to use your personal information for any other reason.
 
-D. Business Transactions Involving Sympoz – As Sympoz continues to develop, we may buy other entities or business assets, or sell all or part of our business or assets, or combine with other businesses. If so, personal information as well as and non-personal information contained in Profiles and User Submissions that we have collected may be transferred as part of the transaction.
 
-E. Third Parties – We may work with third-party business partners to co-produce Courses for presentation on the Websites. We may also work with third-party business partners to cross-promote products and services and/or to deliver specific advertisements to you, which appear on pages throughout the Websites. These companies collect both personal and non-personal information about your visits to the Websites and other websites in order to provide advertisements about products and services that may be of interest to you. These companies may also aggregate your non-personal information for use in targeted advertising, marketing research, and other similar purposes. These companies may place their own cookies on your computer. If you want to prevent a third-party advertiser from collecting and using this information, you may visit each third party advertiser's website directly and opt-out.
+**4\. HOW WE USE YOUR INFORMATION** ****
 
-We may distribute your User Submissions to third parties, as permitted pursuant to our Terms of Use. The third parties may in turn publicly display or publish your User Submissions in connection with their own websites and media platforms. When we distribute your User Submissions to third parties, we may include elements of your Profile (but not your personal information unless you include your personal information in your Profile or User Submissions).
+We (and our service providers) use information to:
 
-Depending on your privacy settings, the Websites may aggregate the information you provide and make it available to your friends and Users with whom you communicate using the Websites. You may adjust your privacy settings at any time.
+  * provide the online services you have requested;
+  * enter you into sweepstakes, contests or promotions where requested;
+  * create an online services account if you have requested one;
+  * personalize the services offered by us or our affiliates, including providing personalized advertising on some online services (see options for opting out of personalized advertising [here](https://web.archive.org/privacy/cookies/#your_cookie_choices_and_how_to_opt_out));
+  * respond to your inquiries, requests, and comments;
+  * allow you to participate in the interactive features of our online services, where you choose to do so;
+  * provide technical support for our online services;
+  * prevent fraud or potentially illegal activities (including copyright infringement) on our online services;
+  * protect the safety of users and others on our online services;
+  * enforce our online services’ terms of service;
+  * understand how our online services are used so that we can continuously improve them, and the services we provide to you;
+  * send you newsletters and information about products, services and promotions relating to us and/or our business partners or other organizations that we work with, in accordance with your communication preferences. 
+  * send you service-related communications, including announcements and administrative messages;
+  * create anonymous and, where legally permissible, personally identifiable user and consumer profiles, and audience segments that can be used for targeted advertising and marketing, and subject to legal restrictions (including consent where necessary) we may also use technology (such as Facebook Custom Audiences) to deliver advertising to you on other sites and in Mobile Apps based on the email address or other personal information you provide to us or through the use of information we receive from third parties, including Consumer Data Resellers. Please see Your Rights and Choices for further information about how you can control these updates;
+  *  if you use our online services to send gifts we use the contact information (e.g., email addresses) that you provide to send the gift to your requested recipients, provide other communications relating to those sorts of transactions, as well as any further communications as may be authorized by the recipients; and implement any related social networking features you have activated. 
 
-When you use the Websites, your Profile and User Submissions will be shared with other Users in accordance with the privacy settings you select. All such sharing of information is done at your own risk. Please keep in mind that if you disclose personal information in your Profile or User Submissions, this information will become publicly available.
 
-F. Other Disclosures – We may disclose personal information when we are required or requested to do so by law, court order or other government or law enforcement authority or regulatory agency; to enforce or apply our rights and agreements; or when we believe in good faith that disclosing this information is necessary or advisable, including, for example, to protect the rights, property, or safety of Sympoz, our users, or others.
 
-YOU HEREBY ACKNOWLEDGE THAT SYMPOZ IS NOT RESPONSIBLE FOR ANY INTERCEPTED INFORMATION SENT VIA THE INTERNET, AND YOU HEREBY RELEASE US FROM ANY AND ALL CLAIMS ARISING OUT OF OR RELATED TO THE USE OF INTERCEPTED INFORMATION IN ANY UNAUTHORIZED MANNER.
 
-4\. Children Under 13
+Note that we may combine all the information we collect or receive about you for any of the foregoing purposes.
 
-The Websites are not designed for use by children under age 13. We use commercially reasonable best efforts to avoid the collection of any personal information from individuals under the age of 13. We do not knowingly collect any personal information from individuals under the age of 13, and therefore we do not knowingly distribute such information to third parties.
+**5\. HOW WE SHARE YOUR INFORMATION**
 
-If you learn that your child or a minor under the age of thirteen has provided us with his/her personal information, please contact us and we will disable that information.
+_Information sharing within NBCUniversal and among NBCUniversal affiliates._
 
-5\. Links
+  * Your information may be shared with NBCUniversal affiliates, and used to help us better tailor our services, products and advertising to you.
 
-The Websites may contain links to other websites. We have no control over the privacy practices or the content of any of our business partners, advertisers, sponsors or other websites to which we provide links from the Websites. You should check the applicable privacy policy of the website sponsor when linking to other websites.
 
-6\. Security of the Information We Collect
 
-The security of your personal information is important to us. We maintain physical, electronic, and procedural safeguards to secure your personal information. However, there is always some risk in transmitting information electronically. The personal information we collect is stored by us or by our third-party designees within databases that we or our third-party designees control. As we deem appropriate, we use security measures consistent with industry standards, such as firewalls and encryption technology, to protect your information. However, we cannot guarantee the security of our or our third-party designees' databases, nor can we guarantee that information you supply won't be intercepted while being transmitted to us or our third-party designees over the Internet or that information we share with others as permitted by this Policy will always be held secure by them.
+_Information sharing with third parties – e.g. service providers, advertisers, consumer data resellers, social networks:_
 
-7\. Accuracy of the Information We Collect
+  * _**Service providers that we have retained to perform certain business-related functions on our behalf:**_ for example service providers who offer services including research and analytics; hosting websites, fulfilling transactions, maintaining databases, administering contests, providing technology services and platforms, and processing payments.  These parties are provided only with the personal information or other information they need to perform their functions and can only use and disclose that information as is necessary to perform the services on our behalf, or to comply with legal requirements. We take steps to ensure that third party service providers will take appropriate steps to protect your personal information.
+  * _**Social Networks:**_ You may interact with certain features of our online services that cause information to be published to your social networks.  For example, you may click on a Facebook “like” button, which publishes to your Facebook account that you “like” one of our TV shows or movies.  On pages of our online services that contain social network functionality, the social network providing the functionality may be able to collect information about you, even if you don’t use that functionality. For example, if a page within our online services contains a Facebook “like” button, Facebook may be able to collect data about your visit to that page, even if you don’t click on the “like” button. To control this sharing of information, please review the privacy policy of the relevant social network and/or log out of it before you use our online services.
+  * _**For Mobile Apps:**_ In [Mobile Apps](https://web.archive.org/privacy/mobile-apps/#optouts), your personal information and information about how you use our mobile apps may be shared with technology providers, carriers, analytics providers, and/or other mobile apps either operated by us or third parties. Please see our Mobile Apps [section](https://web.archive.org/privacy/mobile-apps) for additional detail.
+  * _**Advertisers, Advertising Networks and Consumer Data Resellers:**_ Some online services, including Mobile Apps, may be supported with advertising, and collect data to help our online services serve ads.  This helps keep the cost of online services low or free. We work with advertisers and third-party advertising networks and consumer data resellers that buy and/or sell information to other companies for multiple purposes including offering products and services that may interest you. These third parties may receive information about how you interact with content and advertising provided in our online services. These third parties may view, edit or set their own tracking technologies/cookies, which will allow them to collect information about you. For information about your choices relating to the transfer of information via such technologies see our [Cookies and Tracking Technologies](https://web.archive.org/privacy/cookies/) section.
+  * _**Sharing of Video Viewing Behavior:**_  we may share information (and you agree to this sharing) about the video content you view on our online services with video measurement services such as Nielsen TV Ratings, analytics providers and advertising companies, and third party social media sites. This sharing shall continue for two years or until you withdraw your consent. Information that may be passed to video measurement services such as Nielsen TV Ratings, analytics providers and advertising companies may be via cookies and tracking technologies. For information about your choices relating to transfer of information via such technologies see [Cookies and Tracking Technologies](https://web.archive.org/privacy/cookies/) section.
 
-Any questions you may have regarding this Policy, the accuracy of your personal information or the use of your personal information, or any requests that we correct, update, or remove your information in our databases, should be directed via email to [contact@sympoz.com](mailto:contact@sympoz.com) or [contact@craftsy.com](mailto:contact@craftsy.com), or via regular mail to:
 
-Sympoz Inc. d/b/a Craftsy  
-999 18th St., Suite 240  
-Denver, CO 80202
 
-After receiving a request to change your information, we will make reasonable efforts to ensure that all of your personal information stored in databases we actively use to operate the Websites will be updated, corrected, changed or deleted, as appropriate, as soon as reasonably practicable. However, we reserve the right to retain in our archival files any information we remove from or change in our active website databases. We may retain such information to resolve disputes, troubleshoot problems and enforce our terms and conditions of use. In addition, it is not technologically possible to remove each and every record of the information you have provided to us. A copy of your personal information may exist in a non-erasable form that will be difficult or impossible for us to locate.
+To opt out of video measurement services by Nielsen TV Ratings specifically please click [here](http://www.nielsen.com/digitalprivacy#choice)
 
-8\. Your California Privacy Rights
+_Information sharing with other parties:_
 
-Under Section 1798.83 of the California Civil Code, residents of California have the right to request from a business, with whom the California resident has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for those third parties' direct marketing purposes, and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To exercise your rights, you may make one request each year by emailing us at [contact@sympoz.com](mailto:contact@sympoz.com) or [contact@craftsy.com](mailto:contact@craftsy.com) with "Request for California Privacy Information" on the subject line and in the body of your message. Be sure to provide in the request sufficient information to properly identify you and/or the members of your family.
+In addition, we may disclose your personal information to law enforcement agencies, government/regulatory bodies, and content protection organizations to:
 
-9\. Changes in Policy
+  * Protect our legal rights, privacy or safety, and that of our subsidiaries, affiliates, employees, agents, contractors, or other individuals;
+  * Protect the safety and security of visitors to our online services or other properties;
+  * Protect against fraud or other illegal activity or for risk management purposes;
+  * Respond to inquiries or requests from government, regulatory, law enforcement, or public authorities;
+  * Permit us to pursue available remedies, commence, participate in, or defend litigation, or limit the damages that we may sustain;
+  * Comply with the law including with subpoenas, search warrants, court orders, and other legal process; or
+  * Enforce applicable terms of service.
 
-We reserve the right to change this Policy at any time, and will post any changes to this Policy as soon as they go into effect. You are bound by any minor changes to the policy when you use the Websites after those changes have been posted. Please refer back to this Policy on a regular basis. If, however, we are going to use Users' personally identifiable information in a manner materially different from that stated at the time of collection we will notify Users by posting a notice on the Websites for 30 days.
 
-10\. What If You Do Not Agree to the Terms of This Privacy Policy?
 
-As a registered User of the Websites, or otherwise by using the Websites, you signify that you agree to this Policy. If you do not agree to this Policy, please do not make any use of the Websites.
+_Sale or transfer of all or part of our business or assets_
+
+We reserve the right to transfer the information described in this Privacy Policy in the event we sell or transfer all or a part of our business or assets so that the buyer can continue to offer you the online services. We will make commercially reasonable efforts to provide you with reasonable notice of such transfer, or as otherwise required by law. If you do not want your personal information to be processed following such a transfer, you should contact the subsequent owner of the business.
+
+**6\. CHILDREN**
+
+  * Except where otherwise indicated. we do not knowingly collect or store any personal information from children under the age of 13. Some of our online services may attract an audience that is under the age of 13. For those services, we use an age-gate to make certain features unavailable for use by children under 13, and we do not knowingly collect personal information from children under 13 in connection with those features. Where required, we will provide notice to and obtain verifiable consent from parents or guardians for the collection of personal information from children under 13, and provide parents or guardians the ability to request access to personal information we have collected from their children. We encourage parents and guardians to spend time with their children online and to be fully familiar with the online services used by their children. If a parent or guardian becomes aware that his or her child under 13 has provided us with information without his or her consent, he or she should contact us at [privacy@nbcuni.com](mailto:privacy@nbcuni.com). As required by law, we will delete such information from our files within a reasonable time.
+  * For certain websites covered by this Privacy Policy and involved in e-commerce , you may only be able to use that site and any related services if you are 18 years of age or older, or the age of majority in your jurisdiction of residence, whichever is older. If you are under the age of 18 or the age of majority in your jurisdiction of residence, you may only use that site and any related services with the involvement of a parent or legal guardian.
+
+
+
+
+California minors under 18 years old may request the removal of any information that they posted to NBCUniversal sites by contacting [privacy@nbcuni.com](mailto:privacy@nbcuni.com). Upon such request, NBCUniversal will anonymize, or remove from public view, any content posted by a minor to one of its websites, unless required by law to retain such content or information.
+
+**7\. HOW WE PROTECT YOUR INFORMATION**
+
+We maintain procedural, technical, and physical safeguards for our online services to help protect against loss, misuse or unauthorized access, disclosure, alteration, or destruction of the personal information you provide via our online services. We also ask the service providers that help us deliver our online services to do the same. For example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop, or improve our online services. Unfortunately, no transmission of data is guaranteed to be completely secure. It may be possible for third parties not under our control to intercept or access transmissions or private communications unlawfully. Therefore, any transmission of personal information to us is made at your own risk. If you believe that your interaction with us is no longer secure, please notify us using the contact details below.
+
+_Usernames & Passwords_
+
+It is important that you protect and maintain the security of any account you create and that you notify us immediately of any unauthorized use of any NBCUniversal account.  Do not disclose your password to anyone else.
+
+**8\. YOUR RIGHTS AND CHOICES**
+
+_Communication Preferences and Opt-outs_
+
+If you have subscribed to one or more of our email newsletters or are receiving them from us and you don’t want them anymore, you can unsubscribe. Select the “unsubscribe” link at the bottom of any message, by other means provided to unsubscribe, or using the contact details below, to unsubscribe from marketing and promotional emails and associated marketing delivered to you on third party services based on your subscription data. However, you cannot unsubscribe from some service related messages.
+
+_Mobile Apps_
+
+For additional information about your choices in relation to Mobile Apps including information on how to opt out of targeted advertising and video measurement see the [Mobile Apps](https://web.archive.org/privacy/mobile-apps/#optouts) section.
+
+_Advertising/Cookies and Similar Technologies_
+
+For more information about your choices for cookies and similar technology (“Cookies and Tracking Technology”), including where such technology is used to provide targeted or other advertising on our online services, please see our [Cookies and Tracking Technologies](https://web.archive.org/privacy/cookies/#your_cookie_choices_and_how_to_opt_out) policy.
+
+_Access and Correction_
+
+In addition to the functionality provided to you via our online services (such as using “account settings” for registered users), where legally required we provide online visitors with access to their personal information and the ability to review, update and correct it.
+
+Some access requests may be subject to a small fee. To help preserve your privacy and security, we will take reasonable steps to verify your identity, such as requiring a password and user ID, and possibly photo ID before granting access to your personal information.  Please contact [privacy@nbcuni.com](mailto:privacy@nbcuni.com) for more information about exercising these rights.
+
+_Data Retention and Deletion_
+
+We will retain your data for as long as you use our online services and for a reasonable time thereafter. If you’d like to delete, modify or update the data that you provided via our online services please use the settings on our online services or contact us at [privacy@nbcuni.com](mailto:privacy@nbcuni.com) and we will respond within a reasonable time. Please note that some or all of this data may be required in order for our online services to function properly, and we may be required, by law, to retain certain information.
+
+_Opt-out of Video Measurement by Nielsen_
+
+To opt out of video measurement services by Nielsen TV Ratings specifically please click[ here](http://www.nielsen.com/digitalprivacy#choice).
+
+**9\. WHERE YOUR INFORMATION WILL BE USED**
+
+NBCUniversal is based in the United States and may from time to time transfer your personal information to other countries and make it accessible to any of our affiliates and third party service providers internationally. Where the transfer of information is to a country that does not provide an adequate level of information protection, NBCUniversal has taken steps to ensure that your personal information receives an appropriate level of protection.
+
+If you are located outside of the United States, please be aware that information we collect, including personal information, may be transferred to, and processed, stored and used in the United States.  Under United States law, your personal information may be subject to access requests from governments, courts, or law enforcement in the United States.
+
+By using our online services and providing your personal information to us, you understand and agree that your personal information may be sent to other countries including those which do not provide an equivalent level of information protection as the European Economic Area (EEA).
+
+**10\. COOKIES AND OTHER TECHNOLOGIES**
+
+For more information about the use of Cookies and Other Technology on our online services (including your opt-out choices) please see the [Cookies and Tracking Technologies](https://web.archive.org/privacy/cookies) policy. Through our Cookies and Tracking Technologies policy, we provide opt-out choices.  The effect of an opt-out will be to stop targeted advertising, but it will still allow the collection of usage data for certain purposes (e.g., research, analytics, and internal online services operation purposes).
+
+**11\. MOBILE APPS**
+
+For more information about our information collection and use practices with respect to online services that are mobile applications (“Mobile Apps”) see the [Mobile Apps](https://web.archive.org/privacy/mobile-apps) policy.
+
+**12\. APPLYING TO WORK AT NBCUNIVERSAL**   ****
+
+When you apply to work at NBCUniversal your information will be collected and used in accordance with the [Candidate Privacy Statement](http://www.nbcunicareers.com/candidate-privacy-statement). 
+
+**13**.  **IMPORTANT INFORMATION FOR CALIFORNIA RESIDENTS  **
+
+Residents of the State of California may request a list of all third parties to which our online service has disclosed certain personal information (as defined by California law) during the preceding year for those third parties’ direct marketing purposes.  If you are a California resident and want such a list, please contact us at Chief Privacy Officer, NBCUniversal Legal Department, 30 Rockefeller Plaza, New York, NY 10112, US. For all requests, you must put the statement “Your California Privacy Rights” in the body of your request, as well as your name, street address, city, state, and zip code.  In the body of your request, please provide enough information for us to determine if this applies to you.  You need to attest to the fact that you are a California resident and provide a current California address for our response.  Please note that we will not accept requests via the telephone, email, or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
+
+_**Do Not Track**_
+
+California Business & Professions Code Section 22575(b) (as amended effective January 1, 2014) provides that California residents are entitled to know how NBCUniversal responds to “Do Not Track” browser settings. NBCUniversal does not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a standard once one is created.
+
+**14.  LINKS TO OTHER ONLINE SERVICES**
+
+Our online services may contain links to third party websites/services for your convenience and/or information (for example, to sites which are provided by our third party vendors).  If you access other online services using the links provided, you may leave NBCUniversal’s online services. When you access these other sites, even ones that may contain the NBCUniversal logo, please understand that the operators of these websites may collect information from you which will be used by them in accordance with their privacy policies and Terms of Use, which may differ from ours. We do not endorse or control the policies or practices of third party websites that we do not control or operate.
+
+You should always carefully read the privacy policy of any website you access in order to understand their specific privacy and information usage practices.
+
+**15.  UPDATES TO OUR PRIVACY POLICY **
+
+From time to time, we may revise this Privacy Policy to reflect industry initiatives, changes in the law or technology, or changes in our practices regarding information collection and use.  If we make material revisions to the way we collect or use your personal information so that we are using it for purposes or sharing data with third parties that you have not consented to, we will provide you with notice of those changes and may do so by either:  (1) announcing the change on the home page of our websites or (2) taking other actions as we deem appropriate under the circumstances, including without limitation, posting the revised version of this Privacy Policy online. You agree that we may notify you about material changes in the way we treat personal information by placing a notice on our online services. You should check our online services frequently for updates.
+
+You can determine when this Privacy Policy was last revised by referring to the “Last Updated” or similar legend at the top of this page. Any changes to this Privacy Policy will become effective upon posting of the revised Privacy Policy on the Internet, accessible through this site. By continuing to use this online service following such changes, you will be deemed to have agreed to such changes. If you do not agree with the terms of this Privacy Policy, as it may be amended from time to time, in whole or in part, please do not continue to use our online services.
+
+**16\. CONTACT US**
+
+For any queries or complaints in relation to this Privacy Policy or NBCUniversal’s privacy practices please contact us at  [privacy@nbcuni.com](mailto:privacy@nbcuni.com) or Chief Privacy Officer, NBCUniversal Legal Department, 30 Rockefeller Plaza, New York, NY 10112, US.
+
+For enquiries from outside of the US please contact us at [privacy@nbcuni.com](mailto:privacy@nbcuni.com) or Chief Privacy Officer, Legal Department, Central Saint Giles, St Giles High Street, London, WC2H 8NU, UK.
