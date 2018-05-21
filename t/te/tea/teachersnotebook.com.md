@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachersnotebook.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120130558id_/http%3A//www.teachersnotebook.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachersnotebook.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521151710id_/http%3A//teachersnotebook.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
