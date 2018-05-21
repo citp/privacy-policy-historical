@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creativeskillset.org privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118190911id_/http%3A//creativeskillset.org/privacy_and_cookie_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativeskillset.org privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522012229id_/http%3A//creativeskillset.org/privacy_and_cookie_policy) for the most accurate reproduction.*
 
 # Privacy and cookie policy - Creative Skillset
 
