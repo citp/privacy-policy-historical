@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intex.in privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117134500id_/http%3A//www.intex.in/Home/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intex.in privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521125602id_/http%3A//www.intex.in/Home/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy : Intex Technologies
 
