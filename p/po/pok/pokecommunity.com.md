@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokecommunity.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120055024id_/https%3A//www.pokecommunity.com/misc.php%3Fdo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokecommunity.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521040105id_/https%3A//www.pokecommunity.com/misc.php%3Fdo%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Statement - The PokéCommunity Forums
 
@@ -16,7 +16,7 @@ _If you visit our site to browse, or to read or download posts, information like
     We _do_ use " **cookies**" on this site for the purpose of tracking validated members, assistant webmasters, staff, and other authorized users **ONLY** as well as providing enhanced usability of our site. The general public [surfers & visitors] is not included in this group and my deny or opt-out of accepting our cookies [so cookies are not required there however they are set, if allowed, to enhance your user experience while visiting our site.]
        
 
-    We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here ](http://www.networkadvertising.org/choices/).
+    We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here ](https://www.networkadvertising.org/choices/).
 _If you choose to identify yourself by registering as a member, sending us an e-mail or when using our secure or unsecure [e-mail] online forms and/or message boards:_
 
     We use some personally-identifying information from registered members, submitters, and guests in various ways to further our competition activities. We collect this information only if freely submitted (Verified Opt-in). We may enter the information you send into our database to make it available to our newsletter and other in-site marketing, and to our attorneys and/or investigators involved in law enforcement. We _do not share any_ information received at pokecommunity.com with any 3rd parties. If you want your information removed from our files you must contact us and request removal, contact info is below. 
@@ -37,12 +37,12 @@ the pokecommunity.com site is a **non-commercial** , "hobby-based" fan web site 
 This website links to documents or pages located on websites maintained by various other organizations. Once you access an individual document that links you to another website, you are subject to the privacy policy of the website containing that document
 Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to you based on your visit to our site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). For further information, visit: <http://www.google.com/privacypolicy.html>
 This site earns some revenue using Skimlinks. In the interests of disclosure and ethics, we want to be open about how we make money from our site. Besides display advertising and other paid sponsorships, we also sometimes get paid a commission if you purchase a product or service that we link to in our content. We want to be clear that any reviews we publish are driven entirely by our editorial staff or contributors based on their personal opinions. We use Skimlinks to help us automate the process of linking to products, especially as it frees writers from any involvement in creating affiliate links themselves.
-If you would like more information about this practice and to know your choices about not having this information used by third-party companies to serve ads and collect non-personally identifiable information, [click here ](http://www.networkadvertising.org/choices/). 
+If you would like more information about this practice and to know your choices about not having this information used by third-party companies to serve ads and collect non-personally identifiable information, [click here ](https://www.networkadvertising.org/choices/). 
 
      _Here's how to contact us_   
 You may contact us by 
 
-  * [eMail Contact Us Form](https://web.archive.org/web/20171120055024id_/https%3A//www.pokecommunity.com/sendmessage.php)
+  * [eMail Contact Us Form](https://web.archive.org/web/20180521040105id_/https%3A//www.pokecommunity.com/sendmessage.php)
   * **Postal mail** : PokeCommunity.com  
 C/O 
     * One GigaByte Network
@@ -56,7 +56,7 @@ C/O
 If you do so, we may use the information you provide in the ways we have described in this privacy policy.
   
 
-    If you experience technical problems with the operation of this website, contact our [**Webmaster**](mailto:webmaster@pokecommunity.com). 
+    If you experience technical problems with the operation of this website, contact our [**Webmaster**](https://web.archive.org/cdn-cgi/l/email-protection#661103040b07151203142616090d0305090b0b13080f121f4805090b). 
   
 
 
