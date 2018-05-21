@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directorymaximizer.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118093538id_/http%3A//www.directorymaximizer.com/w3c/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directorymaximizer.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521235916id_/http%3A//www.directorymaximizer.com/w3c/privacy.html) for the most accurate reproduction.*
 
 # Maximizer E-Services Pvt. Ltd. Privacy Policy
 
