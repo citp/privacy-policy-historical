@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the femalefirst.co.uk privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916095701id_/http%3A//www.femalefirst.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the femalefirst.co.uk privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521164009id_/http%3A//www.femalefirst.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -77,6 +77,6 @@ Ashton-in-Makerfield,
 Wigan, WN4 9AG  
 United Kingdom
 
-General Enquiries: [feedback@femalefirst.co.uk](mailto:feedback@femalefirst.co.uk)  
-Product Orders: [customerservices@FemaleFirst.co.uk](mailto:customerservices@FemaleFirst.co.uk)  
-Discussion Board enquiries: [board@femalefirst.co.uk](mailto:board@femalefirst.co.uk)
+General Enquiries: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b1d7d4d4d5d3d0d2daf1d7d4dcd0ddd4d7d8c3c2c59fd2de9fc4da)  
+Product Orders: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#482b3d3b3c27252d3a3b2d3a3e212b2d3b080e2d2529242d0e213a3b3c662b27663d23)  
+Discussion Board enquiries: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#debcb1bfacba9eb8bbb3bfb2bbb8b7acadaaf0bdb1f0abb5)
