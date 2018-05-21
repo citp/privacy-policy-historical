@@ -1,9 +1,23 @@
-<!--The following is the downloaded HTML source of the deltaww.com privacy policy that was archived on 2017-11-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171118192154id_/http%3A//www.deltaww.com/information/privacy.aspx%3FsecID%3D6%26pid%3D1%26tid%3D0%26hl%3Den-US) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the deltaww.com privacy policy that was archived on 2018-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180522012815id_/http%3A//www.deltaww.com/information/privacy.aspx%3FsecID%3D6%26pid%3D1%26tid%3D0%26hl%3Den-US) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	Information - Privacy - Delta Group
-</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="Content-Language" content="en-US"></head>
+</title>
+      <style type="text/css">
+
+ .fixedElement {
+    background-color: #c0c0c0;
+    position:absolute;
+    top:0;
+    width:100%;
+    height: 40px;
+    z-index:99999;
+    display:none;
+}
+ </style>
+    
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="Content-Language" content="en-US"></head>
 <body>
     <form method="post" action="./privacy.aspx?secID=6&amp;pid=1&amp;tid=0&amp;hl=en-US" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="">
@@ -18,10 +32,13 @@
     <script type="text/javascript" src="http://www.deltaww.com/filecenter/Library/jBreadCrumb/jquery.jBreadCrumb.1.1.js" charset="utf-8"></script>
      <!-- floatDiv 2 Center Jimmy 2013/07/04 -->
     <script type="text/javascript" src="http://www.deltaww.com/filecenter/Library/fixTool/divCenter/floatDivCenter.js"></script>
+    <script type="text/javascript" src="http://www.deltaww.com/filecenter/Library/fixTool/setCookie.js"></script>
     <script src="//www.google.com/jsapi" type="text/javascript"></script>
     <!-- 130306 Jimmy, 全屏覆蓋 -->
     <script type="text/javascript">
         $(document).ready(function () {
+
+            cookieAccept();
 
             $(function () {
                 var sitemap = $("#sitemap");
@@ -32,6 +49,15 @@
                     }
                     else if ($(this).scrollTop() <= 305 && sitemap.hasClass('fixed')) {
                         sitemap.removeClass('fixed');
+                    }
+                    //
+                    var $el = $('.fixedElement');
+                    var isPositionFixed = ($el.css('position') == 'fixed');
+                    if ($(this).scrollTop() > 5 && !isPositionFixed) {
+                        $('.fixedElement').css({ 'position': 'fixed', 'top': '0px' });
+                    }
+                    if ($(this).scrollTop() < 5 && isPositionFixed) {
+                        $('.fixedElement').css({ 'position': 'absolute', 'top': '0px' });
                     }
                 })
             });
@@ -66,6 +92,20 @@
     <!-- Style for language start-->
     <link rel="stylesheet" type="text/css" href="http://www.deltaww.com/filecenter/Include/style_eng.css" media="screen" charset="utf-8">
     <link rel="stylesheet" type="text/css" href="http://www.deltaww.com/filecenter/styles/div_eng.css" media="screen" charset="utf-8">
+    <div class="fixedElement" id="cookieAcceptHolder">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" style="padding:10px;">
+                <tbody><tr>
+                    <td width="90%">content</td>
+                    <td width="10%" align="center">
+                        <table id="setCookieBtn" width="54" border="0" cellspacing="0" cellpadding="0" style="background-color: aliceblue; height: 24px; cursor: pointer;" onclick="SetCookie('cookieAccept', 'ok')">
+                            <tbody><tr>
+                                <td>OK</td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+            </tbody></table>
+        </div>
     <!-- end -->
    <div id="screen">
     </div>
@@ -88,6 +128,16 @@
                                 <tbody><tr>
                                     <td height="75" style="background-color: White;">
                                         
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#btn").click(function () {
+            var Val = $('#searchTxt').val();
+            self.location = "/siteSearch.aspx?q=" + Val;
+        })
+    })
+</script>
+
 <div id="section-header">
     <div class="wrap-header">
         <h1>
@@ -428,7 +478,7 @@
                                                         <td width="4">&nbsp;</td>
                                                         <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
                                                           <tbody><tr>
-                                                            <td style="padding-bottom:10px"><span class="business_categories">電源及零組件</span></td>
+                                                            <td align="left" valign="top" style="padding-bottom:10px"><img src="http://www.deltaww.com/filecenter/ImagesNew/topmenu/power_icon_ch.jpg" width="162" height="51"></td>
                                                           </tr>
                                                           </tbody></table>
                                                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -502,7 +552,7 @@
                                                         <td width="53">&nbsp;</td>
                                                         <td width="217" align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
                                                           <tbody><tr>
-                                                             <td style="padding-bottom:10px"><span class="business_categories">自動化</span></td>
+                                                             <td align="left" valign="top" style="padding-bottom:10px"><img src="http://www.deltaww.com/filecenter/ImagesNew/topmenu/automation_icon_ch.jpg" width="162" height="51"></td>
                                                           </tr>
                                                           </tbody></table>
                                                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -538,7 +588,7 @@
                                                                 <tr>
                                                                   <td valign="top">&nbsp;</td>
                                                                   <td height="18" align="left" valign="middle" style="padding-bottom:6px"><a href="/Products/CategoryListT1.aspx?CID=06&amp;hl=zh-TW" class="product_link">- 工業機器人</a></td>
-                                                                </tr>                                                               
+                                                                </tr> 
                                                                 <tr>
                                                                   <td valign="top"><img src="http://www.deltaww.com/filecenter/Images/icon_dot.jpg" vspace="6"></td>
                                                                   <td height="18" align="left" valign="middle"><a href="/Products/CategoryListT1.aspx?CID=23&amp;hl=zh-TW" class="product_link">樓宇自動化</a></td>
@@ -570,7 +620,7 @@
                                                         <td width="4">&nbsp;</td>
                                                         <td width="259" align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
                                                           <tbody><tr>
-                                                            <td style="padding-bottom:10px"><span class="business_categories">基礎設施</span></td>
+                                                            <td align="left" valign="top" style="padding-bottom:10px"><img src="http://www.deltaww.com/filecenter/ImagesNew/topmenu/infrastructure_icon_ch.jpg" width="162" height="51"></td>
                                                           </tr>
                                                           </tbody></table>
                                                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -653,7 +703,7 @@
                                                         <td width="4">&nbsp;</td>
                                                         <td width="220" align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
                                                           <tbody><tr>
-                                                            <td style="padding-bottom:10px"><span class="business_categories">Power Electronics</span></td>
+                                                            <td align="left" valign="top" style="padding-bottom:10px"><img src="http://www.deltaww.com/filecenter/ImagesNew/topmenu/power_icon_en.jpg" width="179" height="53"></td>
                                                           </tr>
                                                           </tbody></table>
                                                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -727,7 +777,7 @@
                                                         <td width="20">&nbsp;</td>
                                                         <td width="273" align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
                                                           <tbody><tr>
-                                                             <td style="padding-bottom:10px"><span class="business_categories">Automation</span></td>
+                                                             <td align="left" valign="top" style="padding-bottom:10px"><img src="http://www.deltaww.com/filecenter/ImagesNew/topmenu/automation_icon_en.jpg" width="179" height="53"></td>
                                                           </tr>
                                                           </tbody></table>
                                                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -792,7 +842,7 @@
                                                         <td width="3">&nbsp;</td>
                                                         <td width="219" align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
                                                           <tbody><tr>
-                                                            <td style="padding-bottom:10px"><span class="business_categories">Infrastructure</span></td>
+                                                            <td align="left" valign="top" style="padding-bottom:10px"><img src="http://www.deltaww.com/filecenter/ImagesNew/topmenu/infrastructure_icon_en.jpg" width="179" height="53"></td>
                                                           </tr>
                                                           </tbody></table>
                                                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -1295,24 +1345,19 @@
                 <li id="gnb-search" class="gnb" style="padding-top: -25px; padding-left: 10px;">
                     <div style="position: absolute; top: -6px;">
                     
-                      <div id="cse-search-form" style="width: 100%;">
-                            <span style="padding-left: 50px;">Loading</span></div>
-                        <script type="text/javascript">
-                            google.load('search', '1', { language: 'en', "nocss": true });
-                            google.setOnLoadCallback(function () {
-                                var customSearchOptions = {};
-                                var orderByOptions = {};
-                                orderByOptions['keys'] = [{ label: 'Relevance', key: '' }, { label: 'Date', key: 'date'}];
-                                customSearchOptions['enableOrderBy'] = true;
-                                customSearchOptions['orderByOptions'] = orderByOptions;
-                                var customSearchControl = new google.search.CustomSearchControl('008863560436740062950:7dcivlvrrum', customSearchOptions);
-                                customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
-                                var options = new google.search.DrawOptions();
-                                options.enableSearchboxOnly('/siteSearch.aspx', 'q');
-                                customSearchControl.draw('cse-search-form', options);
-                            }, true);
-                        </script>
-                        <link rel="stylesheet" href="http://www.deltaww.com/filecenter/Styles/googleSiteSearch_style.css" type="text/css">
+                      <table width="156" border="0" cellspacing="0" cellpadding="0">
+                            <tbody><tr>
+                                <td width="102">
+                                   <input id="searchTxt" type="text" size="10" style="height:18px;"></td>
+                                <td width="54">
+                                    <table id="btn" width="54" border="0" cellspacing="0" cellpadding="0" style="background-image: url(http://www.deltaww.com/filecenter/ImagesNew/btn_searchBar.jpg); background-position: center; background-repeat: no-repeat; height: 24px; cursor: pointer;">
+                                        <tbody><tr>
+                                            <td></td>
+                                        </tr>
+                                    </tbody></table>
+                                </td>
+                            </tr>
+                        </tbody></table>
                         
                     </div>
                 </li>
@@ -1730,7 +1775,7 @@
                 <tr>
                     <td align="left" style="padding-left: 0px;" valign="top" class="press_release_quotation">
                         ©
-                        <span id="Footer1_yearHolder">2017</span>
+                        <span id="Footer1_yearHolder">2018</span>
                         Delta Electronics, Inc. All Rights Reserved.
                     </td>
                 </tr>
