@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the htmlbasix.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109201301id_/http%3A//www.htmlbasix.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htmlbasix.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521195036id_/http%3A//www.htmlbasix.com/privacy.shtml) for the most accurate reproduction.*
 
 # HTML Basix - privacy policy
 
@@ -57,14 +57,14 @@ We use third-party advertising companies to serve ads when you visit our website
   
 | **Visitors**|  **Pageviews**  
 ---|---  
-Total:|  9,479,309  | Total:|  27,594,209   
-Today:|  201  | Today:|  395   
-Yesterday:|  579  | Yesterday:|  1,552   
-Past Month:|  17,949  | Past Month:|  48,112   
+Total:|  9,520,748  | Total:|  27,706,513   
+Today:|  179  | Today:|  324   
+Yesterday:|  517  | Yesterday:|  1,223   
+Past Month:|  16,027  | Past Month:|  37,913   
   
-600 visitors in the last 24 hours  
-This page has been visited 65,232 times  
-**There are currently 2 visitors online**  
+573 visitors in the last 24 hours  
+This page has been visited 66,090 times  
+**There are currently 6 visitors online**  
 [ _click to see where_ ](http://www.htmlbasix.com/onlinepro/usersonline.cgi)  
 most people online at once:  
  **286** visitors on **06/27/2012**  
