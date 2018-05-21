@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tellyupdates.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118100622id_/http%3A//www.tellyupdates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tellyupdates.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522002006id_/http%3A//www.tellyupdates.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Telly Updates
+# Privacy Policy - Telly Updates
 
 The site editor takes your right to privacy seriously, and wants you to feel comfortable using this web site. This privacy policy deals with personally-identifiable information (referred to as “data” below) that may be collected by this site. This policy does not apply to other entities that are not owned or controlled by the site editor, nor does it apply to persons that are not employees or agents of the site editor, or that are not under the site editor’s control. Please take time to read this site’s [Terms and Condition](http://www.tellyupdates.com/terms-and-conditions/).
 
