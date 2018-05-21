@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kwconnect.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120173720id_/http%3A//www.kwconnect.com/kwu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kwconnect.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521150829id_/http%3A//www.kwconnect.com/kwu/privacy) for the most accurate reproduction.*
 
 # Welcome to KWConnect!
 
