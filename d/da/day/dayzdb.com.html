@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dayzdb.com privacy policy that was archived on 2017-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171219210859id_/http%3A//www.zam.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dayzdb.com privacy policy that was archived on 2018-05-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180521155715id_/http%3A//www.zam.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<meta charset="utf-8">
@@ -17,30 +17,30 @@
 	<meta property="og:site_name" content="ZAM">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-	<link rel="stylesheet" type="text/css" href="http://d17omnzavs9b58.cloudfront.net/d-LRA2YP5UP/css/reset.css">
-	<link rel="stylesheet" type="text/css" href="http://d17omnzavs9b58.cloudfront.net/d-LRA2YP5UP/css/style.css">
-	<link rel="stylesheet" type="text/css" href="http://d17omnzavs9b58.cloudfront.net/d-LRA2YP5UP/js/slick/slick/slick.css">
-	<link rel="stylesheet" type="text/css" href="http://d17omnzavs9b58.cloudfront.net/d-LRA2YP5UP/css/color.css">
-	<link rel="stylesheet" type="text/css" href="http://d17omnzavs9b58.cloudfront.net/d-LRA2YP5UP/css/lightbox.css">
-	<link rel="stylesheet" type="text/css" href="http://d17omnzavs9b58.cloudfront.net/d-LRA2YP5UP/js/font-awesome/css/font-awesome.min.css">
-    <link rel="icon" type="image/x-icon" href="http://d17omnzavs9b58.cloudfront.net/d-LRA2YP5UP/images/favicon.ico">
+	<link rel="stylesheet" type="text/css" href="//d17omnzavs9b58.cloudfront.net/d-LDFOS9ISS/css/reset.css">
+	<link rel="stylesheet" type="text/css" href="//d17omnzavs9b58.cloudfront.net/d-LDFOS9ISS/css/style.css">
+	<link rel="stylesheet" type="text/css" href="//d17omnzavs9b58.cloudfront.net/d-LDFOS9ISS/js/slick/slick/slick.css">
+	<link rel="stylesheet" type="text/css" href="//d17omnzavs9b58.cloudfront.net/d-LDFOS9ISS/css/color.css">
+	<link rel="stylesheet" type="text/css" href="//d17omnzavs9b58.cloudfront.net/d-LDFOS9ISS/css/lightbox.css">
+	<link rel="stylesheet" type="text/css" href="//d17omnzavs9b58.cloudfront.net/d-LDFOS9ISS/js/font-awesome/css/font-awesome.min.css">
+    <link rel="icon" type="image/x-icon" href="//d17omnzavs9b58.cloudfront.net/d-LDFOS9ISS/images/favicon.ico">
 
-	<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://d17omnzavs9b58.cloudfront.net/d-LRA2YP5UP/js/jquery/jquery-2.2.0.js"></script>
-	<script src="http://d17omnzavs9b58.cloudfront.net/d-LRA2YP5UP/js/fixto/fixto.js"></script>
-	<script src="http://d17omnzavs9b58.cloudfront.net/d-LRA2YP5UP/js/owl/owl-carousel/owl.carousel.min.js"></script>
-	<script src="http://d17omnzavs9b58.cloudfront.net/d-LRA2YP5UP/js/lightbox/lightbox.js"></script>
-	<script src="http://d17omnzavs9b58.cloudfront.net/d-LRA2YP5UP/js/js.cookie.js"></script>
+	<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//d17omnzavs9b58.cloudfront.net/d-LDFOS9ISS/js/jquery/jquery-2.2.0.js"></script>
+	<script src="//d17omnzavs9b58.cloudfront.net/d-LDFOS9ISS/js/fixto/fixto.js"></script>
+	<script src="//d17omnzavs9b58.cloudfront.net/d-LDFOS9ISS/js/owl/owl-carousel/owl.carousel.min.js"></script>
+	<script src="//d17omnzavs9b58.cloudfront.net/d-LDFOS9ISS/js/lightbox/lightbox.js"></script>
+	<script src="//d17omnzavs9b58.cloudfront.net/d-LDFOS9ISS/js/js.cookie.js"></script>
 
 	<script>
 		$(document).ready(function() {
 			var win = $(this); //this = window
-			if (win.width() <= 767)
+			if (win.width() <= 768)
 		    	{ $('body').addClass("mobile-device"); }
 
 		$(window).on('resize', function(){
-		    if (win.width() <= 767)
+		    if (win.width() <= 768)
 		    	{ $('body').addClass("mobile-device"); }
-		    if (win.width() > 767) {
+		    if (win.width() > 768) {
 		    	$('body').removeClass("mobile-device"); }
 			});
 		});
@@ -124,69 +124,90 @@
 			};
 			MonkeyBroker.addAttribute('mb_pc', 'Other');
 			MonkeyBroker.addAttribute('mb_ri', 90);
+			if ('static' != 'freshdesk') {
+				if (window.innerWidth >= 1024) {
+					MonkeyBroker.addSlot({
+						slot:'horizontal_all_static',
+						sizes:['970x250', '970x90', '728x90']
+					});
+					MonkeyBroker.addSlot({
+						slot: 'horizontal_btf_static',
+						sizes: ['970x250', '970x90', '728x90']
+					});
+				} else if (window.innerWidth < 1024 && window.innerWidth >= 768) {
+					MonkeyBroker.addSlot({
+						slot:'horizontal_all_static',
+						sizes:['728x90']
+					});
+					MonkeyBroker.addSlot({
+						slot: 'horizontal_btf_static',
+						sizes: ['728x90']
+					});
+				} else {
+					MonkeyBroker.addSlot({
+						slot:'horizontal_all_static',
+						sizes:['320x50']
+					});
+					MonkeyBroker.addSlot({
+						slot: 'horizontal_btf_static',
+						sizes: ['320x50']
+					});
+				}
+				if (window.innerWidth > 768 && 'static' != 'account') {
+					MonkeyBroker.addSlot({
+						slot: 'vertical_all_static',
+						sizes: ['300x250']
+					});
+				}
 
-			MonkeyBroker.addSlot({
-				slot:'horizontal_all_static',
-				sizes:['970x250', '970x90', '728x90']
-			});
-			MonkeyBroker.addSlot({
-				slot: 'horizontal_btf_static',
-				sizes: ['22', '37', '38']
-			});
+				if (window.innerWidth < 728) {
+	                MonkeyBroker.addSlot({
+	                    slot: 'sticky_static',
+	                    sizes: ['320x50']
+	                });
+	            }
 
-			if ('static' != 'account') {
-				MonkeyBroker.addSlot({
-					slot: 'vertical_all_static',
-					sizes: ['300x250']
+				MonkeyBroker.addSlot({slot: 'skin', sizes: [30], dataTag: true});
+				MonkeyBroker.addSlot({ slot: 'header-tko', sizes: [41], rm: true})
+				MonkeyBroker.registerSizeCallback(30, function (data) {
+					$('body').addClass('takeover');
+
+					image = data['image'];
+					link = data['link'];
+					tracker = data['impressionTracking'];
+
+					$('body.takeover').css({
+						'background-image': 'url(' + image + ')'
+					});
+					$('body.takeover').bind('click', function (evt) {
+						if(evt.target == $('body')[0]) {
+							window.open(link);
+						}
+					});
+
+					if (tracker) {
+						$('body.takeover').append($('<img>').attr('src', tracker));
+					}
+
+					if ($('body.takeover .page').size() == 0) {
+						return;
+					}
+					var $pageDistance = $('body.takeover .page').offset().top;
+						$pageDistance -= $(".main-navigation").outerHeight();
+
+					$(window).scroll(function() {
+						if ($(window).scrollTop() >= $pageDistance ){
+							$('body.takeover').addClass('bg-fixed');
+						}
+						else {
+							$('body.takeover').removeClass('bg-fixed');
+						}
+					});
 				});
+
+				MonkeyBroker.go();
 			}
-
-			if (window.innerWidth < 728) {
-                MonkeyBroker.addSlot({
-                    slot: 'sticky_static',
-                    sizes: ['320x50']
-                });
-            }
-
-			MonkeyBroker.addSlot({slot: 'skin', sizes: [30], dataTag: true});
-			MonkeyBroker.addSlot({ slot: 'header-tko', sizes: [41], rm: true})
-			MonkeyBroker.registerSizeCallback(30, function (data) {
-				$('body').addClass('takeover');
-
-				image = data['image'];
-				link = data['link'];
-				tracker = data['impressionTracking'];
-
-				$('body.takeover').css({
-					'background-image': 'url(' + image + ')'
-				});
-				$('body.takeover').bind('click', function (evt) {
-					if(evt.target == $('body')[0]) {
-						window.open(link);
-					}
-				});
-
-				if (tracker) {
-					$('body.takeover').append($('<img>').attr('src', tracker));
-				}
-
-				if ($('body.takeover .page').size() == 0) {
-					return;
-				}
-				var $pageDistance = $('body.takeover .page').offset().top;
-					$pageDistance -= $(".main-navigation").outerHeight();
-
-				$(window).scroll(function() {
-					if ($(window).scrollTop() >= $pageDistance ){
-						$('body.takeover').addClass('bg-fixed');
-					}
-					else {
-						$('body.takeover').removeClass('bg-fixed');
-					}
-				});
-			});
-
-			MonkeyBroker.go();
+			
 
 		// mobile ad units
 		$(function () {
@@ -267,8 +288,13 @@
 				<div class="right">
 					<div class="mm_ad wide">
 						<script type="text/javascript">
-if (typeof MonkeyBroker !== "undefined") {
+if (typeof MonkeyBroker !== "undefined" && 'static' != 'freshdesk' && window.innerWidth >= 768) {
 	MonkeyBroker.fillSlot("horizontal_all_static");
+}
+</script>
+						<script type="text/javascript">
+if (typeof MonkeyBroker !== "undefined") {
+	MonkeyBroker.fillSlot("sticky_static");
 }
 </script>
 					</div>
@@ -296,11 +322,7 @@ if (typeof MonkeyBroker !== "undefined") {
 								<li><a target="_blank" href="http://www.wowhead.com/">Wowhead</a></li>
 								<li><a target="_blank" href="http://www.lolking.net/">LolKing</a></li>
 								<li><a target="_blank" href="http://www.hearthhead.com/">Hearthhead</a></li>
-								<li><a target="_blank" href="http://overking.com/">Overking</a></li>
-								<li><a target="_blank" href="http://opshead.com/">Opshead</a></li>
-								<li><a target="_blank" href="http://www.destinydb.com/">Destiny DB</a></li>
 								<li><a target="_blank" href="http://www.tf2outpost.com/">TF2Outpost</a></li>
-								<!-- <li><a href="http://www.nexusmods.com/">Nexusmods</a></li> -->
 							</ul>
 						</li>
 						<li>
@@ -341,13 +363,6 @@ if (typeof MonkeyBroker !== "undefined") {
 				</div>
 			</div>
 		</div>
-        <div class="bottom">
-            <script type="text/javascript">
-if (typeof MonkeyBroker !== "undefined") {
-	MonkeyBroker.fillSlot("sticky_static");
-}
-</script>
-        </div>
 		<div class="mobile-nav"></div>
 	</header>
 
@@ -511,7 +526,7 @@ if (typeof MonkeyBroker !== "undefined") {
 				<div class="sticky-item">
 					<div class="mm_ad vert">
 						<script type="text/javascript">
-if (typeof MonkeyBroker !== "undefined") {
+if (typeof MonkeyBroker !== "undefined" && 'static' != 'freshdesk') {
 	MonkeyBroker.fillSlot("vertical_all_static");
 }
 </script>
@@ -526,7 +541,7 @@ if (typeof MonkeyBroker !== "undefined") {
 		</div>
 		<div class="mm_ad wide">
 			<script type="text/javascript">
-if (typeof MonkeyBroker !== "undefined") {
+if (typeof MonkeyBroker !== "undefined" && window.innerWidth >= 768) {
 	MonkeyBroker.fillSlot("horizontal_btf_static");
 }
 </script>
@@ -541,11 +556,11 @@ if (typeof MonkeyBroker !== "undefined") {
 					<a class="logo soft" href="./"></a>
 					<a class="button wide anon" href="/account/register">Sign Up Now</a>
 					<div class="social-links clear-fix">
-						<a class="facebook" href="http://www.facebook.com/ZAMofficial"><img src="http://d17omnzavs9b58.cloudfront.net/d-LRA2YP5UP/images/spacer-1x1.png"></a>
-						<a class="twitter" href="http://twitter.com/zamofficial"><img src="http://d17omnzavs9b58.cloudfront.net/d-LRA2YP5UP/images/spacer-1x1.png"></a>
-						<a class="youtube" href="https://www.youtube.com/user/ZAMOfficial"><img src="http://d17omnzavs9b58.cloudfront.net/d-LRA2YP5UP/images/spacer-1x1.png"></a>
-						<a class="twitch" href="http://www.twitch.tv/zam"><img src="http://d17omnzavs9b58.cloudfront.net/d-LRA2YP5UP/images/spacer-1x1.png"></a>
-						<a class="rss" href="/feeds/rss/"><img src="http://d17omnzavs9b58.cloudfront.net/d-LRA2YP5UP/images/spacer-1x1.png"></a>
+						<a class="facebook" href="http://www.facebook.com/ZAMofficial"><img src="//d17omnzavs9b58.cloudfront.net/d-LDFOS9ISS/images/spacer-1x1.png"></a>
+						<a class="twitter" href="http://twitter.com/zamofficial"><img src="//d17omnzavs9b58.cloudfront.net/d-LDFOS9ISS/images/spacer-1x1.png"></a>
+						<a class="youtube" href="https://www.youtube.com/user/ZAMOfficial"><img src="//d17omnzavs9b58.cloudfront.net/d-LDFOS9ISS/images/spacer-1x1.png"></a>
+						<a class="twitch" href="http://www.twitch.tv/zam"><img src="//d17omnzavs9b58.cloudfront.net/d-LDFOS9ISS/images/spacer-1x1.png"></a>
+						<a class="rss" href="/feeds/rss/"><img src="//d17omnzavs9b58.cloudfront.net/d-LDFOS9ISS/images/spacer-1x1.png"></a>
 					</div>
 				</div>
 			</div>
@@ -558,7 +573,6 @@ if (typeof MonkeyBroker !== "undefined") {
 						<li><a href="http://www.tf2outpost.com/">TF2Outpost</a></li>
 						<li><a href="http://www.dayzdb.com/">DayZDB</a></li>
 						<li><a href="http://www.hearthhead.com/">Hearthhead</a></li>
-						<li><a href="http://www.destinydb.com/">DestinyDB</a></li>
 					</ul>
 				</div>
 				<div class="column">
@@ -566,7 +580,6 @@ if (typeof MonkeyBroker !== "undefined") {
 					<ul>
 						<li><a href="http://www.wowhead.com/">Wowhead</a></li>
 						<li><a href="http://www.lolking.net/">Lolking</a></li>
-						<li><a href="http://www.destinydb.com/">DestinyDB</a></li>
 					</ul>
 				</div>
 				<div class="column">
