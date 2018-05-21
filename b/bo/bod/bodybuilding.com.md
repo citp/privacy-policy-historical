@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bodybuilding.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231050134id_/https%3A//www.bodybuilding.com/store/help/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodybuilding.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521191509id_/https%3A//www.bodybuilding.com/store/help/privacy-policy.htm) for the most accurate reproduction.*
 
 # Bodybuilding.com Help: What Is Your Privacy Policy?
 
