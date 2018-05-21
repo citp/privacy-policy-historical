@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panmacmillan.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630055529id_/https%3A//www.panmacmillan.com/panmac/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panmacmillan.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521212048id_/https%3A//www.panmacmillan.com/panmac/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -123,8 +123,9 @@ Our website contains links to other websites.  We are not responsible for the p
 
 In particular, where the website has been integrated with third party services, such as the platform operated by our discussion forum provider or your social media accounts, please be aware that the privacy and cookie policies of those third party service providers will apply. 
 
-####   
-Security
+Macmillan International Publishing limited is a participant in the Amazon EU Associates Programme, an affiliate advertising programme designed to provide a means for sites to earn advertising fees by advertising and linking to [www.amazon.co.uk.](https://www.amazon.co.uk/)
+
+#### Security
 
 We always do our best to protect your personal information.  We take appropriate technical and organizational steps to prevent any unauthorized or illegal processing and any loss, destruction or damage.  You should be aware, however, that, no data transmission over the Internet or any other public computer network is 100 per cent secure and such transmissions are largely outside our control.  
  
