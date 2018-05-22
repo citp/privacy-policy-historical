@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the halfords.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120180046id_/http%3A//www.halfords.com/webapp/wcs/stores/servlet/CSCategoryDisplay%3FstoreId%3D10001%26langId%3D-1%26catalogId%3D21202%26categoryId%3D292512%26topCategoryId%3D292503%23tab_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halfords.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523010845id_/http%3A//www.halfords.com/webapp/wcs/stores/servlet/CSCategoryDisplay%3FstoreId%3D10001%26langId%3D-1%26catalogId%3D21202%26categoryId%3D292512%26topCategoryId%3D292503%23tab_privacypolicy) for the most accurate reproduction.*
 
 # Help & Advice | Customer Services | Policies & Regulations
 
   * App Terms and Conditions
   * Website Terms and Conditions
   * Terms of Use
+  * App Privacy Policy
   * Privacy Policy
+  * Olapic Terms and Conditions
   * Cookie Policy
   * Chemical Regulations
   * Terms for free in-store WiFi
@@ -363,59 +365,247 @@ Thank you for visiting our site.
 
 Back to top
 
-## Privacy Policy
+## App Privacy Policy
 
-Halfords Group PLC (" **Halfords** ") is committed to protecting and respecting your privacy. This policy together with our terms of use of any websites/App which you may visit sets out the basis on which any personal information we (including any member of our group) collect from you, or that you provide to us, will be processed. By visiting any of our websites or our App, you are accepting and consenting to the practices described in this policy. 
+### **1\. Introduction**
 
-### A) What Information Will We Hold?
+Halfords Group PLC ("Halfords") is the UK's leading retailer of car parts, car enhancement, camping and touring equipment and bicycles, and the UK's largest independent operator in garage servicing and auto repair.
 
-  * **Information you give us.** When filling in forms on our websites/our App or in store, corresponding with us by phone, e-mail or letter, participating in discussion boards or other social media functions on our website or entering a competition, promotion or survey, you may give us information such as your name, address, e-mail address and phone number, financial and credit card information, personal description and/or photographs.
-  * **Information we collect about you.** Each time you visit one of our websites (even if you do not register with us) or our App, we may automatically collect technical information about you such as the Internet Protocol (IP) address used to connect your computer or mobile device to the internet, your login information, browser type and version, the country and telephone code where your computer is located and information about your visit, including products you viewed or searched for, page response times, download errors and length of visits to certain pages.
-  * **Information we receive from other sources.** We may also receive information about you from third parties who work closely with us including, for example, business partners, payment and delivery services, advertising networks, search information providers and credit reference agencies.
+As an essential part of our business, we collect and manage customer data. In doing so, we observe UK data protection legislation, and are committed to protecting and respecting your privacy and rights.
 
+In order that you are reliably informed about how we operate, we have developed this Privacy Statement. Together with any additional Privacy Notices which you may see as you navigate around this App, this Privacy Statement describes the ways in which we collect, manage, process, store and share information about you as a result of you using this App. 
 
+This Privacy Statement also provides you with information about how you can have control over our use of your data.
 
-### B) How Will We Use That Information?
+Please note that we will be updating this Privacy Statement on a regular basis in order to keep you fully up-to-date with our approach to data protection and privacy. If you have any comments or queries regarding our use of your data, or you wish to unsubscribe from receiving marketing communications from us, please contact our Data Protection Officer ("DPO") by email at: [ dataprotectionofficer@halfords.co.uk](mailto:%20dataprotectionofficer@halfords.co.uk) or by post at: **Data Protection Officer, Icknield Street Drive, Washford West, Redditch, B98 0DE.**
 
-Any personal information which we hold is held in accordance with the registration we have with the Information Commissioner's Office. We only use your information for the following purposes:
+### **2\. What Information Do We Collect About You**
 
-  * To assist in the processing of your order / to carry out our obligations arising from any contracts entered into between you and us (e.g. packing and delivering of orders, forwarding of orders, order fulfilment, processing credit/debit card transactions, fraud prevention, registering warranties). It may be necessary to provide your information to external companies to allow them to assist us in processing your order e.g. by providing these services for us. The companies concerned are not permitted to use the information supplied by us for any other purpose.
-  * To enable us to provide you with marketing and customer services. Where you have agreed to be contacted for marketing purposes, we can tell you about new products or services that we think will be of interest to you, or sort out any queries that you may have about using our products, services or websites/App. We may provide your information to external companies to allow them to assist us in our providing such marketing and customer services to you.
-  * To provide an improved service and ensure that content from our websites/App is presented in the most effective manner for you and for your computer/mobile device. This information allows us to update and improve the contents of our websites/App and to administer our site for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes and as part of our efforts to keep our websites safe and secure. 
-  * By tracking customers' movements around our websites/App, the results of customers' preferences and their use of the sites are analysed en masse. Where they have agreed to be contacted for marketing purposes, certain groups of people may be sent further information about products and services based on that analysis. You have a right not to receive this information and can opt out as set out below. In addition, this information helps us to understand more about the kinds of people who benefit most from using our websites. We think it's important to understand our customers well enough to keep improving our service for them.
+The information that we collect about you may include your name, home address, date of birth, e-mail address, telephone number, as well as relevant financial and credit card information. This is referred to as your "personal data". We collect this data in a number of different ways. For example, you may provide this data directly when filling in forms on this App, or when corresponding with us by telephone, e-mail or letter.
 
+Equally, when you use this App and even if you do not register with us, we may collect technical information about you such as your Internet Protocol (IP) address which connects your computer or mobile device to the internet, your login information, browser type and version, the country and telephone code where your computer is located, and information about your visit including products you viewed or searched for, page response times, download errors and length of visits to certain pages.
 
+Only in very rare instances will we need to collect any sensitive information about you (known as "special categories of data") which includes, for example, details about your racial or ethnic origin, or data relating to your health. Should it ever be necessary for us to ask you for this type of data, we will provide you with separate details about how we will protect that information at that time.
 
-We may share your personal information with any member of our group. However, we will only share your information with selected third parties as set out above or where a) we have your express permission to do so; or b) it is in connection with the transfer of all or substantially all of Halfords assets or stock by way of merger, acquisition, reorganisation or otherwise; or c) it is in connection with our use of cookies as explained below; or d) we are under a legal duty to share that information as set out in the terms of use of any of our websites which you visit. 
+### **3\. How Will We Use That Information?**
 
-### C) Where Do We Store This Information?
+Currently, we use your data for the following purposes:
 
-The information that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (" **EEA** "). It may also be processed by staff operating outside of the EEA who work for us or for one of our suppliers in order to fulfil your order, process your payment or provide other support services. By providing us with your information, you agree to this transfer, storing and/or processing. Whilst we will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy, unfortunately, the transmission of information via the internet is not completely secure and we cannot guarantee the security of any information transmitted to our site/App. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+  * **3.1** To assist in the processing of your order / to carry out our obligations arising from any contracts entered into between you and us. For example, this could include packing and delivering orders, forwarding order details, order fulfilment, the processing of credit/debit card transactions, fraud prevention, registering warranties and the provision of corresponding customer services
 
-### D) What Are My Rights?
+In certain circumstances, it may be necessary for us to provide your information to external companies with which we contract to assist us in providing these critical services to you. We assure you that these companies are not permitted to use your information for any other purpose. For further information about these companies, please see section 5 below.
 
-When you register on our website/App or through a competition or other option you will be asked to confirm whether or not you wish to receive information about our promotions and special offers. Additionally, you may be asked if you are happy to be contacted by us for research purposes and / or if you are happy to be contacted by other reputable companies with related offers. We will never disclose your information to anyone outside of the Halfords group unless you give us permission to do so. If at any time you no longer wish to receive information from us, please email us at customer.services@halfords.co.uk.
+  * **3.2** Where you have given us your specific consent, we will use your data to provide you with marketing services. This allows us to tell you about new products or services that may be of interest to you. Again, we do use a number of external companies to help us provide such marketing services. However, these companies are prohibited from sharing your data with any other company. This means that by consenting to receive marketing from us, you will not receive marketing communications from anyone else.
+  * **3.3** To ensure that the information contained within this App is presented in the most effective manner for you and for your computer or mobile device. This information allows us to update and improve the contents of our App, and ensure the smooth operation of internal processes, such as troubleshooting, data analysis, testing, research, statistical and survey purposes, and to keep our App as safe and secure as possible. For further information, please refer to our Cookies Policy, which can be found [here.](http://www.halfords.com/advice/customer-services/policies-regulations?topCategoryId=292503#tab_cookiepolicy)
+  * **3.4** To understand what sections of the App you are visiting, so that we can subsequently contact you regarding particular products and services which may also be of interest. This facility is enabled by cookies, described in our Cookies Policy which can be found [here.](http://www.halfords.com/advice/customer-services/policies-regulations?topCategoryId=292503#tab_cookiepolicy) We do this as we think it is important to understand your shopping and browsing habits so that we can keep improving our service for you. 
+  * **3.5** To share with other companies within our Group, where we believe there may be additional benefit for you. However, before we send you any marketing from these other Group companies, we will always first seek your explicit consent. A full list of the companies within our Group is available at [www.halfordscompany.com](http://www.halfordscompany.com/)
 
-Under the Data Protection Act 1998 (the " **Act** ") you are entitled to a copy of the information we hold about you. If you would like a copy of your information please write to the Legal and Governance Team, Halfords Group PLC, Icknield Street, Washford West, Redditch, Worcestershire B98 0DE. Please note that there may be a charge of £10 for this service, as permitted under the Act. 
-
-### E) Cookies
-
-Our websites use cookies for several reasons:
-
-  1. To allow you to carry information across pages of our websites and avoid having to re-enter information when you return to one of our sites;
-  2. To measure our website traffic and analyse how our websites work. This will allow us to make changes to our websites in the future and make them easier to use;
-  3. To deliver more relevant advertisements on other websites by showing you products you might be interested in based on your most recent visit to one of our sites; and
-  4. To deliver more relevant email marketing by presenting you with products you might be interested in based on your most recent visit to one of our sites.
+If you change your mind at any stage about receiving marketing from us, or if you do not want us to process your personal data for one or more of the reasons set out above, please contact our DPO as described in section 1 above. 
 
 
 
-You can accept or decline cookies by modifying the settings in your browser. Please note that if you disable all cookies then you may not be able to access many parts of our websites or shop in our online stores. For detailed information on the cookies we use and the purposes for which we use them see the Cookie Policy displayed on each of our websites.
 
-### F) General
+### **4\. How Long Will We Keep Your Data?**
 
-Data Controller: Halfords Group PLC, Icknield Street Drive, Washford, Redditch, Worcestershire B98 0DE. Questions, comments and requests regarding this Privacy Policy are welcomed and should be sent to customer.services@halfords.co.uk.
+Unless you ask us to do so, we will never keep your data for longer than is necessary for us to complete the activity for which your data was collected in the first place. However, sometimes there is a legitimate and/or legal reason that means we need to retain your data. In the coming months, we will add further detail to this Privacy Statement, setting out further information about our practices. 
+
+### **5\. With Whom Do We Share Your Personal Data?**
+
+We work with a number of external suppliers who support our business. This includes organisations which are critical to fulfilling customer orders as detailed in section 3.1 above, as well as those that help us with marketing, as detailed in section 3.2 above. In the coming months, this Statement will be updated to give further detail about the categories of suppliers that we use, specifically where these organisations are based outside the European Economic Area ("EEA"). We will also provide details about the security arrangements which are in place in order to protect customers' data. 
+
+Notwithstanding the above, we assure you that we will only exchange your data with another organisation where i) we have your express permission to do so; or ii) it is necessary in order to honour a contract between you and Halfords; or (iii) we have a legal obligation to share the information; or (iv) it is in the public interest; or (v) it is necessary for the establishment, exercise or defence of legal claims; or (vi) it is necessary to protect the vital interests of you or another person.
+
+We will never sell your personal data to any external organisation.
+
+### **6\. How Can You Access The Personal Data We Hold?**
+
+You have the right to ask us, in writing, for a copy of all the personal data we hold about you. This is known as a "Subject Access Request". Except in exceptional circumstances (which we would discuss and agree with you in advance), you can obtain this information at no cost. 
+
+We will send you a copy of the information within 30 days of your request.
+
+To make a Subject Access Request, please write to our DPO at the postal address shown in section 1 above. 
+
+### **7\. Updating or Amending Your Personal Data**
+
+If, at any time, you want to update or amend your personal data or consent preferences, please contact our DPO as described in section 1 above. Any requested and legitimate changes will take effect within 28 days of receipt of your request.
+
+### **8\. Data Privacy and Security**
+
+We maintain a comprehensive data management work programme, which includes processes for ensuring that data protection is a key consideration of all new and existing IT systems that hold customers' personal data. Where any concerns, risks or issues are identified, we conduct relevant impact assessments in order to determine any actions that are necessary to ensure optimum privacy.
+
+We also maintain an active information security work programme which seeks to protect the availability, confidentiality and integrity of all physical and information assets. Specifically, this programme helps us to:
+
+  * protect against potential breaches of confidentiality;
+  * ensure all IT facilities are protected against damage, loss or misuse; and
+  * increase awareness and understanding across our business of the requirements of information security, and the responsibility of colleagues to protect the confidentiality and integrity of the information that they handle.
+
+We recognise that the security of data and transactions on this App is of primary importance. We therefore ensure that all connections to secure parts of the website (such as your personal account and the checkout section) are encrypted and authenticated using strong protocols, key exchanges and ciphers.
+
+
+
+
+### **9\. Location Tracking Via Our Website**
+
+This App only uses geo-location tracking, which shows us where you are in the UK, for specific situations. These include:.
+
+  * **click and collect:** on the product pages, you can check the availability of any selected item in your local store;
+  * **store locator:** you can search for your local store using your current location In both situations, your permission will be sought before geo-tracking is used, and then, it is only used to personalise your experience.
+
+
+
+### **10\. Card Payment Security**
+
+We are proud to have been awarded the Payment Card Industry Data Security Standard (PCI-DSS), which recognises the robust processes that we apply when handling card transactions from the major card schemes. This independent certification gives our customers assurance that our transactional systems protect your data with appropriate levels of security.
+
+### **11\. Disclaimers**
+
+Every effort is made to ensure that the information provided on this website, and in this Privacy Statement, is accurate and up-to-date, but no legal responsibility is accepted for any errors or omissions contained herein. 
+
+We cannot accept liability for the use made by you of the information on this App or in this Privacy Statement, neither do we warrant that the supply of the information will be uninterrupted. All material accessed or downloaded from this App is obtained at your own risk. It is your responsibility to use appropriate anti-virus software. 
+
+This Privacy Statement applies solely to the data collected by us, and therefore does not also apply to data collected by third party websites and services that are not under our control. Furthermore, we cannot be held responsible for the Privacy Statements on third party Apps or websites, and we advise users to read these carefully before registering any personal data. 
+
+### **12\. Accessibility Statement**
+
+We are committed to providing a website in which content is accessible to everyone. We therefore update our website regularly in order to make it as adaptable as possible. 
+
+For example, website users can control the text size of each page within their internet browser. On a PC, holding the "Ctrl" key while pressing the "+" (plus) key will increase text size, and holding the "Ctrl" key while pressing the "-" (minus) key will decrease the text size. 
+
+However, should you require a copy of this Privacy Statement in a different form, please contact our DPO as described in section 1 above. We cannot guarantee that we can fulfil all requests, but we will endeavour to help you as much as practical.
+
+### **13\. General**
+
+The Data Controller of this website is Halfords Group PLC, Icknield Street Drive, Washford West, Redditch, Worcestershire B98 0DE. 
+
+Questions, comments and requests regarding this Privacy Statement are welcomed, and should be sent to our DPO.
 
 Back to top
+
+## Privacy Policy
+
+### 1\. Introduction
+
+Halfords Group PLC ("Halfords") is the UK's leading retailer of car parts, car enhancement, camping and touring equipment and bicycles, and the UK's largest independent operator in garage servicing and auto repair.
+
+As an essential part of our business, we collect and manage customer data. In doing so, we observe UK data protection legislation, and are committed to protecting and respecting your privacy and rights.
+
+In order that you are reliably informed about how we operate, we have developed this Privacy Statement. Together with any additional Privacy Notices which you may see as you navigate around this website, this Privacy Statement describes the ways in which we collect, manage, process, store and share information about you as a result of you visiting this site.
+
+This Privacy Statement also provides you with information about how you can have control over our use of your data.
+
+Please note that we will be updating this Privacy Statement on a regular basis in order to keep you fully up-to-date with our approach to data protection and privacy. If you have any comments or queries regarding our use of your data, or you wish to unsubscribe from receiving marketing communications from us, please contact our Data Protection Officer ("DPO") by email at: [ dataprotectionofficer@halfords.co.uk](mailto:%20dataprotectionofficer@halfords.co.uk) or by post at: **Data Protection Officer, Icknield Street Drive, Washford West, Redditch, B98 0DE.**
+
+### 2\. What Information Do We Collect About You
+
+The information that we collect about you may include your name, home address, date of birth, e-mail address, telephone number, as well as relevant financial and credit card information. This is referred to as your "personal data". We collect this data in a number of different ways. For example, you may provide this data directly when filling in forms on this website, or when corresponding with us by telephone, e-mail or letter.
+
+Equally, when you visit this website and even if you do not register with us, we may collect technical information about you such as your Internet Protocol (IP) address which connects your computer or mobile device to the internet, your login information, browser type and version, the country and telephone code where your computer is located, and information about your visit including products you viewed or searched for, page response times, download errors and length of visits to certain pages.
+
+Only in very rare instances will we need to collect any sensitive information about you (known as "special categories of data") which includes, for example, details about your racial or ethnic origin, or data relating to your health. Should it ever be necessary for us to ask you for this type of data, we will provide you with separate details about how we will protect that information at that time.
+
+### 3\. How Will We Use That Information?
+
+Currently, we use your data for the following purposes:
+
+  * **3.1** To assist in the processing of your order / to carry out our obligations arising from any contracts entered into between you and us. For example, this could include packing and delivering orders, forwarding order details, order fulfilment, the processing of credit/debit card transactions, fraud prevention, registering warranties and the provision of corresponding customer services
+
+In certain circumstances, it may be necessary for us to provide your information to external companies with which we contract to assist us in providing these critical services to you. We assure you that these companies are not permitted to use your information for any other purpose. For further information about these companies, please see section 5 below.
+
+  * **3.2** Where you have given us your specific consent, we will use your data to provide you with marketing services. This allows us to tell you about new products or services that may be of interest to you. Again, we do use a number of external companies to help us provide such marketing services. However, these companies are prohibited from sharing your data with any other company. This means that by consenting to receive marketing from us, you will not receive marketing communications from anyone else.
+  
+
+  * **3.3** To ensure that the information contained within this website is presented in the most effective manner for you and for your computer or mobile device. This information allows us to update and improve the contents of our site, and ensure the smooth operation of internal processes, such as troubleshooting, data analysis, testing, research, statistical and survey purposes, and to keep our website as safe and secure as possible. For further information, please refer to our Cookies Policy, which can be found [here.](http://www.halfords.com/advice/customer-services/policies-regulations?topCategoryId=292503#tab_cookiepolicy)
+  
+
+  * **3.4** To understand what sections of the website you are visiting, so that we can subsequently contact you regarding particular products and services which may also be of interest. This facility is enabled by cookies, described in our Cookies Policy which can be found [here.](http://www.halfords.com/advice/customer-services/policies-regulations?topCategoryId=292503#tab_cookiepolicy) We do this as we think it is important to understand your shopping and browsing habits so that we can keep improving our service for you. 
+  
+
+  * **3.5** To share with other companies within our Group, where we believe there may be additional benefit for you. However, before we send you any marketing from these other Group companies, we will always first seek your explicit consent. A full list of the companies within our Group is available at [www.halfordscompany.com](http://www.halfordscompany.com/)
+
+If you change your mind at any stage about receiving marketing from us, or if you do not want us to process your personal data for one or more of the reasons set out above, please contact our DPO as described in section 1 above.
+
+
+
+
+### 4\. How Long Will We Keep Your Data?
+
+Unless you ask us to do so, we will never keep your data for longer than is necessary for us to complete the activity for which your data was collected in the first place. However, sometimes there is a legitimate and/or legal reason that means we need to retain your data. In the coming months, we will add further detail to this Privacy Statement, setting out further information about our practices. 
+
+### 5\. With Whom Do We Share Your Personal Data?
+
+We work with a number of external suppliers who support our business. This includes organisations which are critical to fulfilling customer orders as detailed in section 3.1 above, as well as those that help us with marketing, as detailed in section 3.2 above. In the coming months, this Statement will be updated to give further detail about the categories of suppliers that we use, specifically where these organisations are based outside the European Economic Area ("EEA"). We will also provide details about the security arrangements which are in place in order to protect customers? data. 
+
+Notwithstanding the above, we assure you that we will only exchange your data with another organisation where i) we have your express permission to do so; or ii) it is necessary in order to honour a contract between you and Halfords; or (iii) we have a legal obligation to share the information; or (iv) it is in the public interest; or (v) it is necessary for the establishment, exercise or defence of legal claims; or (vi) it is necessary to protect the vital interests of you or another person.
+
+We will never sell your personal data to any external organisation.
+
+### 6\. How Can You Access The Personal Data We Hold? 
+
+You have the right to ask us, in writing, for a copy of all the personal data we hold about you. This is known as a "Subject Access Request". Except in exceptional circumstances (which we would discuss and agree with you in advance), you can obtain this information at no cost. 
+
+We will send you a copy of the information within 30 days of your request.
+
+To make a Subject Access Request, please write to our DPO at the postal address shown in section 1 above. 
+
+### 7\. Updating or Amending Your Personal Data 
+
+If, at any time, you want to update or amend your personal data or consent preferences, please contact our DPO as described in section 1 above. Any requested and legitimate changes will take effect within 28 days of receipt of your request.
+
+### 8\. Data Privacy and Security
+
+We maintain a comprehensive data management work programme, which includes processes for ensuring that data protection is a key consideration of all new and existing IT systems that hold customers? personal data. Where any concerns, risks or issues are identified, we conduct relevant impact assessments in order to determine any actions that are necessary to ensure optimum privacy.
+
+We also maintain an active information security work programme which seeks to protect the availability, confidentiality and integrity of all physical and information assets. Specifically, this programme helps us to:
+
+  * protect against potential breaches of confidentiality;
+  * ensure all IT facilities are protected against damage, loss or misuse; and
+  * increase awareness and understanding across our business of the requirements of information security, and the responsibility of colleagues to protect the confidentiality and integrity of the information that they handle.
+
+We recognise that the security of data and transactions on this website is of primary importance. We therefore ensure that all connections to secure parts of the website (such as your personal account and the checkout section) are encrypted and authenticated using strong protocols, key exchanges and ciphers.
+
+
+
+
+### 9\. Location Tracking Via Our Website
+
+This website only uses geo-location tracking, which shows us where you are in the UK, for specific situations. These include:.
+
+  * **click and collect:** on the product pages, you can check the availability of any selected item in your local store;
+  * **store locator:** you can search for your local store using your current location In both situations, your permission will be sought before geo-tracking is used, and then, it is only used to personalise your experience.
+
+
+
+### 10\. Card Payment Security
+
+We are proud to have been awarded the Payment Card Industry Data Security Standard (PCI-DSS), which recognises the robust processes that we apply when handling card transactions from the major card schemes. This independent certification gives our customers assurance that our transactional systems protect your data with appropriate levels of security.
+
+### 11\. Disclaimers
+
+Every effort is made to ensure that the information provided on this website, and in this Privacy Statement, is accurate and up-to-date, but no legal responsibility is accepted for any errors or omissions contained herein. 
+
+We cannot accept liability for the use made by you of the information on this website or in this Privacy Statement, neither do we warrant that the supply of the information will be uninterrupted. All material accessed or downloaded from this website is obtained at your own risk. It is your responsibility to use appropriate anti-virus software. 
+
+This Privacy Statement applies solely to the data collected by us, and therefore does not also apply to data collected by third party websites and services that are not under our control. Furthermore, we cannot be held responsible for the Privacy Statements on third party websites, and we advise users to read these carefully before registering any personal data. 
+
+### 12\. Accessibility Statement 
+
+We are committed to providing a website in which content is accessible to everyone. We therefore update our website regularly in order to make it as adaptable as possible. 
+
+For example, website users can control the text size of each page within their internet browser. On a PC, holding the ?Ctrl? key while pressing the ?+? (plus) key will increase text size, and holding the ?Ctrl? key while pressing the "-" (minus) key will decrease the text size. 
+
+However, should you require a copy of this Privacy Statement in a different form, please contact our DPO as described in section 1 above. We cannot guarantee that we can fulfil all requests, but we will endeavour to help you as much as practical.
+
+### 13\. General
+
+The Data Controller of this website is Halfords Group PLC, Icknield Street Drive, Washford West, Redditch, Worcestershire B98 0DE. 
+
+Questions, comments and requests regarding this Privacy Statement are welcomed, and should be sent to our DPO.
+
+Back to top
+
+Back to top
+
+## Olapic Terms and Conditions
 
 ## Cookie Policy
 
