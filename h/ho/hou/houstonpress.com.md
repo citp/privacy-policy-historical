@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the houstonpress.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120174324id_/http%3A//www.houstonpress.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houstonpress.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523004950id_/http%3A//www.houstonpress.com/about/privacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Houston News and Events | Houston Press
+# Privacy Policy | Houston Press | The #1 Alternative News Source in Houston TX
 
 ### Houston Press, LP
 
