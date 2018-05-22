@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ocbc.com.my privacy policy that was archived on 2017-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171121151441id_/http%3A//ocbc.com.my/personal-banking/security-privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ocbc.com.my privacy policy that was archived on 2018-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180522150057id_/http%3A//ocbc.com.my/personal-banking/security-privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<!-- (START) Adobe Web Analytics - Tracking -->
@@ -177,7 +177,7 @@ body { margin: 0; }
 						<li> <a href="/personal-banking/Loans/index.html" target="" class="loans">Loans</a> </li>
 						<li> <a href="/personal-banking/Insurance/index.html" target="" class="insurance">Insurance</a> </li>
 						<li> <a href="/personal-banking/Investments/investments.html" target="" class="investments">Investments</a> </li>
-						<li> <a href="/personal-banking/workplace-banking/index.html" class="iqwork">Workplace Banking</a> </li>
+						<li> <a href="/personal-banking/lifegoals/index.html" class="iqwork">Life Goals</a> </li>
 					</ul>
 					<a href="/personal-banking/Premier/index.html" class="secondary_navi">Premier Banking</a> <br class="clear">
 				</div>
@@ -186,6 +186,7 @@ body { margin: 0; }
 		</div>
 		
 		<div id="header-mob" class="header-wrapper">
+			
 			<div class="header-logo-container">
 				<a href="/personal-banking/index.html">
 					<img border="0" alt="OCBC Bank" src="/assets/images/logo.png">
@@ -199,54 +200,54 @@ body { margin: 0; }
 				</div>
 				<div id="navi-menu" class="navigation-mob">
 					<ul class="top_navi-mob">
-						<a href="javascript:btn_clicked(1, '/personal-banking/index.html');">
+						<a href="#" onclick="javascript:btn_clicked(1, '/personal-banking/index.html');">
 							<li id="mbtn-home">
 								Home
 							</li>
 						</a>
-						<a href="javascript:btn_clicked(2, '/personal-banking/accounts/index.html');">
+						<a href="#" onclick="javascript:btn_clicked(2, '/personal-banking/accounts/index.html');">
 							<li id="mbtn-accounts">
 								Accounts
 							</li>
 						</a>
-						<a href="javascript:btn_clicked(3, '/personal-banking/Cards/index.html');">
+						<a href="#" onclick="javascript:btn_clicked(3, '/personal-banking/Cards/index.html');">
 							<li id="mbtn-cards">
 								Cards
 							</li>
 						</a>
-						<a href="javascript:btn_clicked(4, '/personal-banking/Loans/index.html');">
+						<a href="#" onclick="javascript:btn_clicked(4, '/personal-banking/Loans/index.html');">
 							<li id="mbtn-loans">
 								Loans
 							</li>
 						</a>
-						<a href="javascript:btn_clicked(5, '/personal-banking/Insurance/index.html');">
+						<a href="#" onclick="javascript:btn_clicked(5, '/personal-banking/Insurance/index.html');">
 							<li id="mbtn-insurance">
 								Insurance
 							</li>
 						</a>
-						<a href="javascript:btn_clicked(6, '/personal-banking/Investments/investments.html');">
+						<a href="#" onclick="javascript:btn_clicked(6, '/personal-banking/Investments/investments.html');">
 							<li id="mbtn-investments">
 								Investments
 							</li>
 						</a>
-						<a href="javascript:btn_clicked(7, '/personal-banking/workplace-banking/index.html');">
+						<a href="#" onclick="javascript:btn_clicked(7, '/personal-banking/lifegoals/index.html');">
 							<li id="mbtn-iqwork">
-								Workplace Banking
+								Life Goals
 							</li>
 						</a>
-						<a href="javascript:btn_clicked(8, '/personal-banking/Premier/index.html');">
+						<a href="#" onclick="javascript:btn_clicked(8, '/personal-banking/Premier/index.html');">
 							<li id="mbtn-secondary_navi">
 								Premier Banking
 							</li>
 						</a>
-						<a href="javascript:btn_clicked(9, '/personal-banking/fees-and-charges.html');">
+						<a href="#" onclick="javascript:btn_clicked(9, '/personal-banking/fees-and-charges.html');">
 							<li id="mbtn-secondary_navi">
 								Fees &amp; Charges
 							</li>
 						</a>
-						<a href="javascript:btn_clicked(10, '/personal-banking/Help-and-Support/Help-and-Support.html');">
+						<a href="#" onclick="javascript:btn_clicked(10, '/personal-banking/Help-and-Support/Help-and-Support.html');">
 							<li id="mbtn-secondary_navi">
-								Help &amp; Support
+								Help &amp; Supports
 							</li>
 						</a>
 					</ul>
@@ -261,6 +262,7 @@ body { margin: 0; }
 			var mainmenu_shown = false;
 			var btn_curr = 1;
 			var theURL = "";
+			var isMobile = false;
 			
 			$(document).ready(function() {
 				mainmenu_init();
@@ -277,6 +279,9 @@ body { margin: 0; }
 					theURL = "";
 					menu_clicked();
 				}); 
+				
+				
+				
 			});
 			
 			function menu_clicked() {
@@ -861,7 +866,7 @@ body { margin: 0; }
 									Our site utilises commercially proven security hardware and software products in our system, network and application infrastructure. These include routers, firewalls, intrusion prevention/ detection system and secure operating systems. Industry standard 128-bit SSL (secure socket layer) communication protocol is the de facto cryptographic standard that is used for securing data communication between the client browser and OCBC systems. It is used for ensuring transaction privacy, message integrity and server-side authentication using digital certificate technology. Over and above SSL, all passwords are encrypted end-to-end from the client browser to OCBC systems.
 								</p>
 								<p>
-									At OCBC, all connections must pass through at least one router and one firewall to gain connectivity to the server. The firewall checks for the appropriate source address, and restricts the traffic to the appropriate servers. Penetration test and application vulnerability assessment are also conducted on a periodic basis to detect system vulnerabilities. Additional technical security features include verisign digital certificates, 128-bit encryption; two factors (2-FA) user authentication and automatic session logoff after a pre-set time period.
+									At OCBC, all connections must pass through at least one router and one firewall to gain connectivity to the server. The firewall checks for the appropriate source address, and restricts the traffic to the appropriate servers. Penetration test and application vulnerability assessment are also conducted on a periodic basis to detect system vulnerabilities. Additional technical security features include DigiCert digital certificates, 128-bit encryption; two factors (2-FA) user authentication and automatic session logoff after a pre-set time period.
 								</p>
 								<p>
 									To serve you better, we may combine information you give us on the Web or through other channels. We also use aggregated information about the use of our services to evaluate our users' preferences, improve our services and facilitate our reporting of Internet usage. Like most websites, we use small bits of data called cookies stored on users' computers to simulate a continuous connection. Cookies let us "remember" information about your preferences and allow you to move within our service without reintroducing yourself. If we collect information from you, it is held securely and we maintain stringent control and access procedures in accordance with our Privacy Policy.
@@ -937,7 +942,7 @@ body { margin: 0; }
             <img style="width: 45px; display: inline; float: left; height: auto;" src="/assets/images/uploads/gov-logos/logo_bnm_alert.png" alt="">
         </a>
         <a name="modal" href="#dialog1edit11">
-            <img style=" display: inline; float: left; margin-left:20px " src="/assets/images/uploads/gov-logos/cheque_charge50cent.jpg" alt="">
+            <img style="width:100px; display: inline; float: left; margin-left:20px " src="/assets/images/uploads/gov-logos/cheque_charge50cent.jpg" alt="">
         </a>
         <a name="modal" href="#dialog1edit12" title="">
             <img src="/assets/images/icon-facebook.png" border="0" alt="Facebook" width="15" height="15" style="float:left;display:inline;margin-top:5px;margin-left:20px">
@@ -949,6 +954,10 @@ body { margin: 0; }
         </a>
         <a name="modal" href="#dialog1edit13">
             <img style="width: 35px; display: inline; height: auto;padding-left:5px;float:left;" src="/assets/images/uploads/gov-logos/abm.jpg" alt="">
+        </a>
+		
+		 <a name="" href="http://www.sacbnm.org" target="_blank">
+            <img style="width: 60px; display: inline; height: auto;padding-top: 6px;padding-left:5px;float:left;" src="/assets/images/uploads/gov-logos/logo_SAC.png" alt="">
         </a>
 
         <div class="boxes">
@@ -1124,6 +1133,7 @@ body { margin: 0; }
                 <li><a href="/assets/pdf/customer-service-charter/OCBC Customer Service Charter.pdf" target="_blank">Customer Service Charter </a></li>
                 <li><a href="/personal-banking/pdpa-notice.html">Personal Data Protection Act 2010</a></li>
                 <li><a href="/personal-banking/security-privacy.html">Notice of changes to Bank's Privacy Policy</a></li>
+				<li><a href="/personal-banking/sitemap.html">Site Map</a></li>
             </ul>
         </div>
         <div id="footer-misc-copyright" class="misc_container" align="center">
