@@ -1,12 +1,36 @@
-> *The following text is extracted and transformed from the nvcc.edu privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205105602id_/http%3A//nvcc.edu/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nvcc.edu privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522082748id_/http%3A//www.nvcc.edu/policies/policies.aspx%3Fnum%3D67) for the most accurate reproduction.*
 
-# Web Privacy Statement :: Northern Virginia Community College
+# Website Privacy :: Northern Virginia Community College
 
-## Privacy Policy
+**Policy Number:** 518
+
+**Categorized:**[Information Technology](https://web.archive.org/web/20180522082748id_/http%3A//www.nvcc.edu/policies/Default.aspx?cat=Information%20Technology)
+
+**Responsible Office:** VP of Instructional and Information Technology
+
+**Subject:** Policy and procedures governing the collection of personal information on the College website
+
+**Related Policies:**
+
+**Forms:**[Employee Acceptable Use Agreement](https://www.nvcc.edu/forms/pdf/105-078.pdf), [Employee Ethics Agreement](https://www.nvcc.edu/forms/pdf/105-011.pdf), [VCCS IT Student/Patron Ethics Agreement](http://www.vccs.edu/student-patron-acceptable-use-agreement/)
+
+**Additional Information:**
+
+**Effective Date:** 11/07/2000
+
+**Last Reviewed Date:**
+
+* * *
+
+### 1.0 Scope 
+
+This policy applies to all users of the Northern Virginia Community College website.
+
+### 2.0 Policy Statement
 
 It is the policy of the Commonwealth of Virginia that agencies of the Commonwealth will collect and retain personal information about citizens only to the extent necessary to provide the service or benefit desired; collect only appropriate information; provide the reason the information is collected so that citizens shall understand that reason clearly and enable citizens to examine their personal record, which is maintained by a public body.
 
-**The Northern Virginia Community College Website:**
+The Northern Virginia Community College Website:
 
   1. May collect one or more of the following pieces of personal information: your email address, name, social security number, date of birth, phone number or course assignments. Any of this information is collected to meet your specific online requests. If you choose not to provide this personal information, you will be unable to receive some of the services this website offers.
   2. Collects your IP address, pages browsed, and date and time of your visit. This information is used for internal College statistical purposes only.
@@ -16,16 +40,16 @@ It is the policy of the Commonwealth of Virginia that agencies of the Commonweal
 
 
 
-_Approved by ITC and Administrative Council 11/07/00_
+### 3.0 Definitions 
 
-## Security Statement
+N/A
 
-Northern Virginia Community College ensures the integrity of our systems and the data we store is protected. The College has gone beyond industry standards to protect our systems by using firewalls, IDS/ISP devices, NAC protection, requiring authentication (systems, networks and data), requiring encryption of all sensitive data and applying all physical security possible. We perform monitoring of all systems and networks; network modeling and shaping, employ the latest anti-virus / anti-spam protection, and performing audits of all systems and networks. We instill the concept of security and data protection in everything we do including our day to day business practices; new systems, network and building designs; and as a overall part of the colleges desire to keep our environment and data safe and private.
+### 4.0 Procedures 
 
-  * [IT Policies, Procedures and Plans](https://web.archive.org/web/20171205105602id_/http%3A//nvcc.edu/policies/it/index.html)
+N/A
 
+### 5.0 Authority 
 
+VCCS Information Security Standard
 
-## Records Privacy
-
-The College complies with the Family Educational Rights and Privacy Act of 1974, Sec. 438, Publ. L. 90–247, as amended, which sets forth requirements governing protection of the right to privacy of educational records, and affords the right to inspect such records. For more specific information, see “Student Records” in the Student and Faculty Handbooks.
+NOVA Administrative Council (November 7, 2000)
