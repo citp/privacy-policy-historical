@@ -1,14 +1,24 @@
-> *The following text is extracted and transformed from the safaribooksonline.com privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909043825id_/https%3A//www.safaribooksonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safaribooksonline.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522191500id_/https%3A//www.safaribooksonline.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy: Safari
 
-This version (Version 3.3) of Safari's Privacy Policy is effective as of June 12, 2017.
+This version (Version 3.4) of Safari's Privacy Policy is effective as of October 23, 2017.
 
-This Policy (the "Policy") discloses the privacy practices of Safari Books Online, LLC ("Safari," "we," "us," "our") with respect to the website(s) that Safari owns and operates and that link to or display this Policy, including the website [www.safaribooksonline.com](https://www.safaribooksonline.com/). This Policy governs how Safari collects, stores, processes, transfers, uses, and protects personally identifiable information that it collects from and about you with respect to this site. Other Safari websites display or link to the privacy policy that applies to them.
+This Policy (the "Policy") discloses the privacy practices of Safari Books Online, LLC ("Safari," "we," "us," "our") with respect to the website(s) that Safari owns and operates and that link to or display this Policy, including the website [www.safaribooksonline.com](https://www.safaribooksonline.com/). This Policy also applies to your access to this website via mobile devices. This Policy governs how Safari collects, stores, processes, transfers, uses, and protects personally identifiable information that it collects from and about you with respect to this site. Other Safari websites display or link to the privacy policy that applies to them.
 
 Please note that any use you make of any Safari service offering (including uses in preview mode, on a free trial basis, or pursuant to your purchase of a membership or other service offering) is also subject to our [Membership Agreement](https://www.safaribooksonline.com/membership-agreement/) and our [TOS](https://www.safaribooksonline.com/terms/). By accessing or using any website that links to or displays this Policy, you agree to the terms of the Policy, and you also certify that you are at least 13 years old, and that if you are between 13 and 18 years old, you have obtained the consent of your parent or legal guardian to use the relevant site. Do not use our websites if you do not agree to this Policy, and the TOS and Membership Agreement.
 
 [](https://privacy.truste.com/privacy-seal/Safari-Books-Online,-LLC/validation?rid=0db8de1f-992d-4d2e-9773-3147691a9e27 "TRUSTe European Safe Harbor certification")
+
+## EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield
+
+Safari (and entities and subsidiaries that are, or may become, covered by Safari’s privacy shield certification) participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework (collectively the “Privacy Shield Framework”).  We are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland (“Privacy Shield Covered Data”), respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. [https://www.privacyshield.gov]. If there is any conflict between the terms in this Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. Additionally, Safari may protect your data through other legally-valid methods, including international data transfer agreements.
+
+Under the Privacy Shield Framework, Safari collects, uses, and discloses Privacy Shield Covered Data for the purposes described in this Policy. Safari is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.  Safari complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
+
+With respect to Privacy Shield Covered Data received or transferred pursuant to the Privacy Shield Framework, Safari is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+Under certain conditions, more fully described on the Privacy Shield website [https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint], you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted. 
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
 
@@ -49,7 +59,11 @@ We may from time-to-time engage a third-party advertising network to either disp
 
 We use Local Storage (LS) such as HTML5 to store content information and preferences. Various browsers may offer their own management tools for removing HTML5 LS.
 
-Our website includes social media features, such as the Facebook and Twitter sign on buttons. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets may be hosted by a third party or hosted directly on our websites. Your interactions with these third-party features are governed by the privacy policy of the companies providing the features.
+Our website includes social media features, such as the Facebook and Twitter sign on buttons. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and resources may be hosted by a third party (“Third Party SMR”) or hosted directly on our websites. If you use a Third Party SMR through a Safari website, you acknowledge that Safari may be able to access any information you make public through such Third Party SMR (such as your username, comments, posts and contacts) and other information your privacy settings on such Third party SMR permit Safari to access. Your interactions with these third-party features are governed by the privacy policy of the companies providing the features.
+
+When you download and use our Services, we automatically collect information on the type of device you use and operating system version.
+
+We use mobile analytics tools to allow us to better understand the functionality of our mobile application and content on your phone. These tools may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile application.
 
 #### 1.4 INFORMATION FROM OTHER SOURCES:
 
@@ -77,14 +91,14 @@ We use PII to conduct business, provide information and support for products and
 
 ### 3\. HOW WE SHARE AND DISCLOSE PII
 
-We will not sell your information to third party companies for their promotional use. We may share or disclose your PII with:
+Safari does not sell or otherwise disclose PII about you, except as described in this Policy or as you explicitly consented. We may share or disclose your PII with:
 
   * Companies that are related to Safari, in order to support business and marketing processes
   * Our service providers and suppliers, who are authorized to use your personal information only as necessary to provide these services to us. For example, we use a third party payment processor in order to bill you for the goods and services you have purchased, an email service provider to send communications to you on our behalf, and a third party "Live Chat" service that helps provide customer service.
   * Our websites include links to other websites whose privacy practices may differ from those of Safari. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit.
   * As necessary, if we suspect a violation of our policies or to protect the rights or safety of any person or entity
   * Government agencies, law enforcement agencies and others, based on a good faith belief that disclosure is necessary to respond to judicial process, valid government inquiry, or is otherwise required by law.
-  * The buyer, if Safari or any of its assets are sold. In the event of a sale of Safari or its assets, you will be notified via a prominent notice on our website of any related change in uses of your personal information, as well as any choices you may have regarding those changes.
+  * The buyer, if Safari or any of its assets are sold. In the event of a sale of Safari or its assets, you will be notified via a prominent notice on our website of any related change in uses of your personal information, as well as any choices you may have regarding those changes. Safari will endeavor to direct the transferee to use PII in a manner that is consistent with this Policy.
   * Other third parties for purposes you have allowed by giving us your prior consent.
   * Others including without limitation other participants, to the extent of any PII that is posted by you or an authorized third party to our wikis, forums, blogs, message boards, chat rooms and other social network environments.
 
@@ -96,7 +110,7 @@ We display personal testimonials of satisfied customers on our site in addition 
 
 ### 4\. NOTICE AND CHOICE
 
-We provide notice about our use of PII in this Policy, in our web pages, and in other locations where we collect information. You can choose whether or not to provide your PII to us. If you choose not to provide PII, you may be not be able to take advantage of certain offers, options, events, website features, and services that depend on accurate PII.
+We provide notice about our use of PII in this Policy, in our web pages, and in other locations where we collect information. You can choose whether or not to provide your PII to us. If you choose not to provide PII, you may be not be able to take advantage of certain offers, options, events, website features, and services that depend on accurate PII. Additionally, before we use PII for any new purposes not originally authorized by you, we will provide information regarding the new purpose and give you the opportunity to opt out.
 
 To opt-out from or change your marketing communications, preferences, sign in to your account and go to the Email Preferences section of the My Account page or Settings page. You may also opt-out of receiving newsletters or other communications by following the opt-out instructions included in each newsletter or communication. Please note that your marketing communication preferences do not affect transactional, relationship and legally required communications.
 
@@ -104,7 +118,9 @@ You can opt out of our Google Analytics data collection by using the tools avail
 
 ### 5\. ONWARD TRANSFER
 
-We will only transfer personal information to third parties if those third parties provide an adequate level of data protection to help ensure the security of personal data.
+We will only transfer PII to third parties if those third parties provide an adequate level of data protection to help ensure the security of personal data. Safari endeavors to require third parties to which it discloses PII to protect PII using substantially-similar standards to those required by Safari (and at the least the same level of privacy protection as is required by the Privacy Shield Principles and this Policy), and to notify Safari if they make a determination they can no longer meet this obligation. 
+
+Privacy Shield requires that Safari remain liable should its third parties process personal information in a manner inconsistent with the Privacy Shield Principles.
 
 ### 6\. SECURITY
 
@@ -125,11 +141,13 @@ Sebastopol, CA 95472
 
 We will respond to all requests for access within 30 days. We will make reasonable efforts to incorporate the changes as soon as possible. Before we make changes, we may ask you to verify your identity and/or provide other details. We may keep a copy of the prior information for our records.
 
+Although Safari makes good faith efforts to provide individuals with access to their PII, there may be circumstances in which Safari is unable to provide access, including but not limited to: where the information contains legal privilege, would compromise others’ privacy or other legitimate rights, where the burden or expense of providing access would be disproportionate to the risks to the individual’s privacy in the case in question or where it is commercially proprietary. If Safari determines that access should be restricted in any particular instance, we will provide you with an explanation of why that determination has been made and a contact point for any further inquiries.
+
 We will retain your PII for as long as your account is active, and as necessary to provide you services, to comply with our legal obligations, to resolve disputes, and to enforce our agreements.
 
 ### 8\. CHILDREN'S PRIVACY
 
-Safari's websites and marketing are not directed to children under 13 years of age.
+Safari's websites and marketing are not directed to children under 13 years of age. Safari does not knowingly solicit or collect PII from children under the age of 13 (and in certain jurisdictions under the age of 16). If we learn that we have collected PII from a child under the age of 13 (and in certain jurisdictions under the age of 16), we will promptly delete that information.
 
 ### 9\. INTERNATIONAL TRANSFERS OF PII
 
@@ -147,4 +165,4 @@ California law requires us to let you know how we respond to web browser Do Not 
 
 ### 12\. PREVIOUS VERSIONS
 
-For the previous version [Version 3.2] [please click here](https://web.archive.org/static/legal/SafariPrivacyPolicy_v3.2_10Nov2016.ffdf883ebc91.pdf). This is version 3.3.
+For the previous version [Version 3.3] [please click here](https://web.archive.org/static/legal/SafariPrivacyPolicy_v3.3_13June2017.a4d9478408f5.pdf). This is version 3.4.
