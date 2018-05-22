@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rating-widget.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119232200id_/http%3A//rating-widget.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rating-widget.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522143328id_/http%3A//rating-widget.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | RatingWidget
 
@@ -34,7 +34,7 @@ By using Rating-Widget, you agree to:
 
     * **Amendments:** Rating-Widget may modify or amend this policy from time to time. If we make any material changes, as determined by Rating-Widget, in the way in which Personal Information is collected, used or transferred, we will notify you of these changes by modification of this Privacy Policy, which will be available for review by you at the Service. Notwithstanding any modifications we may make, any Personal Information collected by Rating-Widget from you will be treated in accordance with the privacy policy in effect at the time information was collected, unless we obtain your consent otherwise.
 
-    * **Children:** Rating-Widget does not knowingly collect or maintain personally identifiable information from persons under 13 years of age, and no part of the Service is directed at persons under 13. If you are under 13 years of age, then please do not use the Service. If Rating-Widget learns that personally identifiable information of persons less than 13 years of age has been collected without verifiable parental consent, then Rating-Widget will take the appropriate steps to delete this information. To make such a request, please contact us at [support@rating-widget.com](mailto:%20support@rating-widget.com).
+    * **Children:** Rating-Widget does not knowingly collect or maintain personally identifiable information from persons under 13 years of age, and no part of the Service is directed at persons under 13. If you are under 13 years of age, then please do not use the Service. If Rating-Widget learns that personally identifiable information of persons less than 13 years of age has been collected without verifiable parental consent, then Rating-Widget will take the appropriate steps to delete this information. To make such a request, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#28085b5d5858475a5c685a495c41464f055f414c4f4d5c064b4745).
 
   * ### Effective Date of this Policy
 
