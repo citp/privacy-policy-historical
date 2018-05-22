@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcrm.org privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121050148id_/http%3A//pcrm.org/articles/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcrm.org privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522021237id_/http%3A//www.pcrm.org/articles/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Physicians Committee
 
@@ -51,7 +51,7 @@ When you contribute to PCRM online or make a purchase through the PCRM Marketpla
 
 ### Does PCRM rent, sell, or trade my information?
 
-PCRM occasionally makes the names and postal addresses of donors (gathered on-line or off-line) available to reputable advocacy and nonprofit organizations and commercial companies. That information is sent to mail processors, and those organizations do not actually receive that information unless you respond.
+PCRM occasionally makes the names and postal addresses of donors (gathered on-line or off-line) available to reputable advocacy and nonprofit organizations and commercial companies. It is also available to political organizations and candidates, regardless of their positions.  That information is sent to mail processors, and those organizations do not actually receive that information unless you respond.
 
 If you are a PCRM donor and you don't want to your information exchanged with other organizations and companies, please e-mail us at [membership@PCRM.org](mailto:membership@PCRM.org) or call us at 202-527-7304 to speak to our membership staff. 
 
