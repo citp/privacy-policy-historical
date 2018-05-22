@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexthe.net privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121101319id_/http%3A//sexthe.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexthe.net privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522171805id_/http%3A//sexthe.net/privacy.html) for the most accurate reproduction.*
 
 # XXX, Free Porno, Free Sex, Free Porn and Porn Videos - SEX the NET
 
