@@ -1,18 +1,8 @@
-> *The following text is extracted and transformed from the kumc.edu privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120025525id_/http%3A//www.kumc.edu/x794.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kumc.edu privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522044029id_/http%3A//www.kumc.edu/x794.xml) for the most accurate reproduction.*
 
 # KU Medical Center's Privacy Statement
 
-## Notice of Privacy Practices for Patients at KU Medical Center
-
-Our [Notice of Privacy Practices](http://www.kumc.edu/Documents/hipaa/KUMCNoticeofPrivacyPractices.pdf) (115k [Acrobat](http://www.adobe.com/products/acrobat/readermain.html) file) details the way in which medical information about you may be used and disclosed and how you can get access to this information.
-
-  * [KUMC Privacy Statement (Spanish)](http://www.kumc.edu/Documents/hipaa/NPP-Spanish.pdf "KUMC Privacy Statement \(Spanish\)")
-  * [KUMC Privacy Statement (Russian)](http://www.kumc.edu/Documents/hipaa/NPP-Russian.pdf "KUMC Privacy Statement \(Russian\)")
-  * [KUMC Privacy Statement (Nepali) ](http://www.kumc.edu/Documents/hipaa/NPP-Nepali.pdf "KUMC Privacy Statement \(Nepali\)")
-
-
-
-### Online Privacy
+## Online Privacy
 
 The University of Kansas Medical Center respects the privacy of visitors to our web site. No attempt is made to collect or preserve personal data about our users.
 
@@ -24,4 +14,8 @@ Certain forms on our site solicit personal information when necessary to provide
 
 Questions regarding this privacy statement or the practices of this site may be submitted to [internetdev@kumc.edu](mailto:internetdev@kumc.edu).
 
-Last modified: Jun 12, 2014
+## Notice of Privacy Practices for Patients at KU Medical Center
+
+Our  **[Notice of Privacy Practices](http://www.kumc.edu/Documents/hipaa/KUMCNoticeofPrivacyPractices.pdf)** (260KB [Acrobat](http://www.adobe.com/products/acrobat/readermain.html) file) details the way in which medical information about you may be used and disclosed and how you can get access to this information.
+
+Last modified: May 01, 2018
