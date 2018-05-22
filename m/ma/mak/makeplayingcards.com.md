@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makeplayingcards.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121121634id_/http%3A//www.makeplayingcards.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeplayingcards.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523010630id_/http%3A//www.makeplayingcards.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # MakePlayingCards.com Privacy Policy
 
@@ -23,13 +23,11 @@ When you submit questions, e-mails, survey, comments, suggestions, reviews or ot
 
 If you have any questions about this privacy policy please contact us here: [enquiry@makeplayingcards.com](mailto:enquiry@makeplayingcards.com)
 
-### Did you miss out?
+### Have you got yours?
 
-The Gold, Silver & Bronze Metallic decks by MPC. Contact us if you missed it on Kickstarter.
+MPC revolutionary high gloss printed decks. Over 500K sold. [Order here](http://www.makeplayingcards.com/promotional/mpc-impressions-decks.html).
 
-[](http://www.makeplayingcards.com/impressions-foil-playing-cards-gold-and-silver.aspx)
-
-See our [other projects](http://www.makeplayingcards.com/kickstarter-projects.aspx).
+[](http://www.makeplayingcards.com/impressions-by-mpc.aspx)
 
 ### Contact us
 
@@ -37,8 +35,3 @@ If you have an enquiry on making your cards, we're here to help. [Contact us her
 
 **Other needs?**  
 Are you developing a game? We also do complete custom decks (e.g. card sizes, hot & foil stamping, embossing, spot UV, etc) and [board game development & packaging](http://www.makeplayingcards.com/custom-board-games.aspx). _Chances are, if you need it, we can do it! Speak to our team today!_
-
-### Consumer trust
-
-Globally recognized quality accreditations for added assurance. [Learn more» ](http://www.makeplayingcards.com/certified-quality.aspx)  
-
