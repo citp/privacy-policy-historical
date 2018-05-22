@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shef.ac.uk privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903201506id_/https%3A//www.sheffield.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shef.ac.uk privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522072336id_/https%3A//www.sheffield.ac.uk/privacy) for the most accurate reproduction.*
 
 # Privacy - The University of Sheffield
 
