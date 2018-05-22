@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eksuccessbrands.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120170342id_/http%3A//www.simplicity.com/simp-privacy-policy/simp-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eksuccessbrands.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522072914id_/http%3A//www.simplicity.com/simp-privacy-policy/simp-privacy-policy.html) for the most accurate reproduction.*
 
 # Simplicity Privacy Policy
 
