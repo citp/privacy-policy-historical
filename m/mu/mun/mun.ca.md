@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mun.ca privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120071426id_/http%3A//www.mun.ca/iap/home) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mun.ca privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522032201id_/http%3A//www.mun.ca/iap/home) for the most accurate reproduction.*
 
 # | University Policies | Memorial University of Newfoundland
 
@@ -43,33 +43,32 @@ The [Privacy Act](http://assembly.nl.ca/Legislation/sr/statutes/p22.htm) of Newf
 
  **Employee -** Has the meaning given in the [ATIPPA](http://www.assembly.nl.ca/Legislation/sr/statutes/a01-2.htm), including salaried employees, wage employees, contract employees, independent contractors and others associated with the University who have access to personal information.
 
- **IAPP Advisory Committee -** A standing committee of the University, reporting to the President, which has responsibility for advising the University Privacy Officer in the development and implementation of the University's privacy policy and procedures. 
+ **IAP Advisory Committee -** Information Access and Privacy Advisory Committee. A standing committee of the University, reporting to the President, which has responsibility for advising the University Privacy Officer in the development and implementation of the University's privacy policy and procedures.
 
- **IAPP Office -** The [University's Information Access and Privacy Protection Office](http://www.mun.ca/iapp/home/) Email: [iapp@mun.ca](mailto:iapp@mun.ca).
+ **IAP Office -** The University's [Information Access and Privacy Office](http://www.mun.ca/iap).
 
  **Legislation -** The privacy legislation with which the University is required to comply. Depending on the nature of the personal information and the purposes for which it is collected, used or disclosed, the legislation may be one or more of the [Access to Information and Protection of Privacy Act](http://www.assembly.nl.ca/Legislation/sr/statutes/a01-2.htm) of Newfoundland and Labrador, or the [Personal Information Protection and Electronic Documents Act of Canada](http://laws-lois.justice.gc.ca/eng/acts/P-8.6/), as well as the relevant Regulations, and any other privacy legislation which may be enacted.
 
- **Personal Information -** Means recorded information about an identifiable individual, including (not an exhaustive list)
+ **Personal Information -** Recorded information about an identifiable individual, including (not an exhaustive list).
 
-  * the individual's name, address or telephone number 
-  * the individual's race, national or ethnic origin, colour, or religious or political beliefs or associations 
-  * the individual's age, sex, sexual orientation, marital status or family status 
-  * an identifying number, symbol or other particular assigned to the individual 
-  * the individual's fingerprints, blood type or inheritable characteristics 
-  * information about the individual's health care status or history, including a physical or mental disability 
-  * information about the individual's educational, financial, criminal or employment status or history 
-  * the opinions of a person about the individual, and 
-  * the individual's personal views or opinions 
-
+  * the individual's name, address or telephone number
+  * the individual's race, national or ethnic origin, colour, or religious or political beliefs or associations
+  * the individual's age, sex, sexual orientation, marital status or family status
+  * an identifying number, symbol or other particular assigned to the individual
+  * the individual's fingerprints, blood type or inheritable characteristicsinformation about the individual's health care status or history, including a physical or mental disability
+  * information about the individual's educational, financial, criminal or employment status or history
+  * the opinions of a person about the individual, and
+  * the individual's personal views or opinions, except where they are about someone else. 
 
 
-**Personal Information Bank (PIB) -** A collection of paper records or electronic documents that is sorted by a personal identifier, such as name, student ID or employee ID, or a database that is indexed by one or more personal identifiers.
+
+**PIB -** Personal Information Bank. A collection of paper records or  electronic documents that is sorted by a personal identifier, such as name,  student ID or employee ID, or a database that is indexed by one or more  personal identifiers.
 
  **President** \- for the purposes of the [ATIPPA](http://www.assembly.nl.ca/Legislation/sr/statutes/a01-2.htm) the President is designated as the institution's Head.
 
  **Privacy Breach -** Occurs when there is unauthorized access to or collection, use, disclosure or disposal of personal information.
 
- **Privacy Impact Assessment (PIA) -** A formal assessment of the privacy obligations, risks and requirements related to a given project, undertaking, software application or Personal Information Bank (PIB).
+ **PIA -** Privacy Impact Assessment. A formal assessment of the privacy obligations, risks and requirements related to a given project, undertaking, software application or Personal Information Bank (PIB).
 
  **[Privacy Schedule](http://www.mun.ca/iapp/resources/) \- **A schedule to be included in all University contracts, which contains provisions to ensure that the contractor provides adequate privacy protection and related support for personal information governed by the contract.
 
@@ -81,15 +80,15 @@ The [Privacy Act](http://assembly.nl.ca/Legislation/sr/statutes/p22.htm) of Newf
 
  **Unit Head -** For the purposes of this policy, unit head is the term used to mean Deans, Divisions Heads, Heads of Schools, Directors, Executive Directors, the University Librarian, the University Registrar, Associate Vice-Presidents and Vice-Presidents, as applicable.
 
- **Unit Privacy Officer -** _This is a functional description, not a title_. It refers to employees designated in that role in each academic and administrative unit of the University to implement privacy policy and procedures in that unit.  It does not preclude any unit from establishing a position of unit privacy officer.
+ **Unit Privacy Officer -  **The employee(s) designated in each academic and administrative unit of the University, to implement privacy policy and procedures in that unit. It does not preclude any unit from establishing a position of unit privacy officer. _This is a functional description, not a position title._
 
- **University Privacy Officer -** The position with overall management responsibility for privacy policy and procedures at the University. _This is a functional description, not a title_. The University Privacy Officer is appointed by the President of the University. Unless otherwise indicated, the University Privacy Officer is the Information Access and Privacy Protection Coordinator.
+ **University Privacy Officer -  **The position with overall management responsibility for privacy policy and procedures at the University. _This is a functional description, not a position title_. The University Privacy Officer is appointed by the President of the University. Unless otherwise indicated, the University Privacy Officer is the Information Access and Privacy Advisor.
 
 ## Policy:
 
 1.         Memorial University complies in all respects with all applicable privacy legislation, including the [Access to Information and Protection of Privacy Act of Newfoundland and Labrador](http://www.assembly.nl.ca/Legislation/sr/statutes/a01-2.htm) as well as the [Personal Information Protection and Electronic Documents _Act_ of Canada](http://laws-lois.justice.gc.ca/eng/acts/P-8.6/) and other applicable privacy legislation that may be enacted. 
 
-2.         All employees of Memorial University are responsible for the protection of the privacy of students, employees, alumni, donors, research participants, retirees and others whose personal information is in the custody and/or under the control of the University. All employees are expected to undertake privacy awareness training authorized by the [University's Information Access and Privacy Protection (IAPP) Office](http://www.mun.ca/iapp/home/).
+2.         All employees of Memorial University are responsible for the protection of the privacy of students, employees, alumni, donors, research participants, retirees and others whose personal information is in the custody and/or under the control of the University. All employees are expected to undertake privacy awareness training authorized by the [University's Information Access and Privacy (IAP) Office](http://www.mun.ca/iapp/home/).
 
 3.         The President has ultimate accountability for compliance with [ATIPPA](http://www.assembly.nl.ca/Legislation/sr/statutes/a01-2.htm) privacy provisions.  The President may delegate his or her powers under [ATIPPA](http://www.assembly.nl.ca/Legislation/sr/statutes/a01-2.htm) in whole or in part, but his or her delegates may not sub-delegate.  The delegation of the President shall be in writing. Delegates may assign related duties to subordinates as necessary to fulfill delegated responsibilities under [ATIPPA](http://www.assembly.nl.ca/Legislation/sr/statutes/a01-2.htm).
 
@@ -138,20 +137,20 @@ Privacy Impact Assessments (PIA's)
 
 ## Procedures: 
 
-  * [Procedure for Administering Privacy Measures Within a Unit](https://web.archive.org/web/20171120071426id_/http://www.mun.ca/policy/site/procedure.php?id=486)
-  * [Procedure for Challenging Privacy Compliance](https://web.archive.org/web/20171120071426id_/http://www.mun.ca/policy/site/procedure.php?id=102)
-  * [Procedure for Checking Privacy Compliance](https://web.archive.org/web/20171120071426id_/http://www.mun.ca/policy/site/procedure.php?id=103)
-  * [Procedure for Correcting/Annotating Personal Information](https://web.archive.org/web/20171120071426id_/http://www.mun.ca/policy/site/procedure.php?id=104)
-  * [Procedure for Giving Researchers Access to Personal Information](https://web.archive.org/web/20171120071426id_/http://www.mun.ca/policy/site/procedure.php?id=105)
-  * [Procedure for Managing a Privacy Breach](https://web.archive.org/web/20171120071426id_/http://www.mun.ca/policy/site/procedure.php?id=106)
-  * [Procedure for Retention of Personal Information](https://web.archive.org/web/20171120071426id_/http://www.mun.ca/policy/site/procedure.php?id=107)
-  * [Procedure for Shredding and Disposal of Confidential Materials - St. John's Campus](https://web.archive.org/web/20171120071426id_/http://www.mun.ca/policy/site/procedure.php?id=521)
+  * [Procedure for Administering Privacy Measures Within a Unit](https://web.archive.org/web/20180522032201id_/http://www.mun.ca/policy/site/procedure.php?id=486)
+  * [Procedure for Challenging Privacy Compliance](https://web.archive.org/web/20180522032201id_/http://www.mun.ca/policy/site/procedure.php?id=102)
+  * [Procedure for Checking Privacy Compliance](https://web.archive.org/web/20180522032201id_/http://www.mun.ca/policy/site/procedure.php?id=103)
+  * [Procedure for Correcting/Annotating Personal Information](https://web.archive.org/web/20180522032201id_/http://www.mun.ca/policy/site/procedure.php?id=104)
+  * [Procedure for Giving Researchers Access to Personal Information](https://web.archive.org/web/20180522032201id_/http://www.mun.ca/policy/site/procedure.php?id=105)
+  * [Procedure for Managing a Privacy Breach](https://web.archive.org/web/20180522032201id_/http://www.mun.ca/policy/site/procedure.php?id=106)
+  * [Procedure for Retention of Personal Information](https://web.archive.org/web/20180522032201id_/http://www.mun.ca/policy/site/procedure.php?id=107)
+  * [Procedure for Shredding and Disposal of Confidential Materials - St. John's Campus](https://web.archive.org/web/20180522032201id_/http://www.mun.ca/policy/site/procedure.php?id=521)
 
 
 
 ### For inquiries related to this policy:
 
-Information Access and Privacy Protection Coordinator (709)  864-8214
+Information Access and Privacy Advisor (709) 864-8214
 
  **Sponsor:** Vice-President (Administration & Finance)   
 
