@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ledzeppelin.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118190838id_/http%3A//www.ledzeppelin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ledzeppelin.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522133306id_/http%3A//www.ledzeppelin.com/privacy-policy) for the most accurate reproduction.*
 
 # Led Zeppelin, II, III, IV, Houses of the Holy and Physical Graffiti | Led Zeppelin - Official Website
 
