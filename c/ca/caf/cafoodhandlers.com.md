@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cafoodhandlers.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120135032id_/http%3A//www.cafoodhandlers.com/Content.aspx%3FPageName%3DPrivacyPolicy%26Site%3Dcafoodhandlers) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cafoodhandlers.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522135234id_/http%3A//www.cafoodhandlers.com/Content.aspx%3FPageName%3DPrivacyPolicy%26Site%3Dcafoodhandlers) for the most accurate reproduction.*
 
 # CALIFORNIA - Privacy Policy
-
-## CALIFORNIA Food Handlers
 
 ### Privacy Policy
 
