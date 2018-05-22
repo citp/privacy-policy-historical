@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccfa.org privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127141015id_/http%3A//ccfa.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccfa.org privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522042815id_/http%3A//www.crohnscolitisfoundation.org/privacy-policy) for the most accurate reproduction.*
 
 # Crohn's & Colitis Foundation's Privacy Policy | Crohn’s & Colitis Foundation
 
