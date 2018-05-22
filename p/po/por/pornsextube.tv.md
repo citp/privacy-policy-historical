@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornsextube.tv privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121054859id_/http%3A//pornsextube.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornsextube.tv privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522024632id_/http%3A//pornsextube.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Free Sex Videos - PornSexTube.tv
 
