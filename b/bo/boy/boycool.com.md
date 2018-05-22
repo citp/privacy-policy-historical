@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boycool.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120070347id_/http%3A//boycool.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boycool.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522030112id_/http%3A//boycool.com/privacy.html) for the most accurate reproduction.*
 
 # boycool.com - Privacy Policy
 
