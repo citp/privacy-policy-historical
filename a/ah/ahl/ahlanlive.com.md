@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ahlanlive.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206005324id_/http%3A//www.ahlanlive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahlanlive.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523005635id_/http%3A//www.ahlanlive.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY - - Ahlanlive
+# PRIVACY POLICY | Ahlanlive
 
 The ITP Publishing Group Inc. ("ITP") recognizes the importance of protecting the privacy of all information provided by users of our web sites, subscribers to our magazines, registrants for our events, recipients of our e-mail newsletters and all of our customers. We created this policy with a fundamental respect for our users' right to privacy and to guide our relationships with our users. This privacy statement discloses the privacy practices for all products and services owned by Ahlanlive.com. A current list of our publications, web site, and trade shows can be found at Ahlanlive.com.
 
