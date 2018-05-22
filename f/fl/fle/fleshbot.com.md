@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fleshbot.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120065121id_/http%3A//www.fleshbot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fleshbot.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522024956id_/http%3A//www.fleshbot.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# None
 
 Thank you for visiting this site operated by SK Intertainment, Inc (the “Site”). We are committed to protecting your privacy online and to providing you with the very best experience we can on the Site. In order to do so, we may gather certain personal information about you. Please read the following policy to understand how your personal information will be treated as you make full use of the Site. This policy may change from time to time so please check back periodically.
 
@@ -22,7 +22,7 @@ We may also share aggregate user information in a non-personally identifiable ma
 
 We may contract with third parties to conduct research and marketing on our behalf. Such third parties will be fully bound by an obligation of confidentiality and may not use any personally-identifiable information provided by us other than as expressly instructed by us and in strict compliance with the terms of this Privacy Policy.
 
-We may, from time to time, supplement the information we collect from you with outside records (e.g., information we obtain from other companies, including wireless providers) to enhance our ability to serve you, to tailor our content to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you. To fulfill your requests for products and services (e.g., provide you with content via your mobile phone), we may share the personally identifiable information you provide with your mobile phone service provider or their partner and subcontractor companies. Our privacy policy does not cover such entities’ use of information. To learn more about your provider's privacy practices, you should consult its privacy policy.
+We may, from time to time, supplement the information we collect from you with outside records (e.g., information we obtain from other companies, including wireless providers) to enhance our ability to serve you, to tailor our content to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you. To fulfill your requests for products and services (e.g., provide you with content via your mobile phone), we may share the personally identifiable information you provide with your mobile phone service provider or their partner and subcontractor companies. Our privacy policy does not cover such entities’ use of information. To learn more about your provider’s privacy practices, you should consult its privacy policy.
 
 What information do other parties collect?
 
@@ -30,9 +30,9 @@ Some advertisers or websites that have links on the Site may collect personally 
 
 What are cookies and how do we use them?
 
-The Site may use cookies to speed navigation, keep track of items, and provide you with custom-tailored content. We also use cookies to remember information you gave us so you don't have to re-enter it each time you visit the Site. By showing us how and when you use the Site, cookies also help us see which areas are popular and which are not. We also collect IP addresses for system administration and to report aggregate information to our sponsors and advertisers. Some advertisers or websites that have links on the Site may also use their own cookies.
+The Site may use cookies to speed navigation, keep track of items, and provide you with custom-tailored content. We also use cookies to remember information you gave us so you don’t have to re-enter it each time you visit the Site. By showing us how and when you use the Site, cookies also help us see which areas are popular and which are not. We also collect IP addresses for system administration and to report aggregate information to our sponsors and advertisers. Some advertisers or websites that have links on the Site may also use their own cookies.
 
-Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies. You may not be able to access areas of the Site if you turn off the cookies option.
+Most browsers are initially set to accept cookies. If you’d prefer, you can set yours to refuse cookies. You may not be able to access areas of the Site if you turn off the cookies option.
 
 Cooperation with law enforcement
 
@@ -44,7 +44,7 @@ We make an effort to protect the personal information of all users of the Site. 
 
 COPPA compliance
 
-The Site is not directed to children under the age of 13. We have designed this privacy policy in order to comply with the Children's Online Privacy Protection Act ("COPPA"). We will never knowingly collect any personal information about children under the age of 13. If we obtain actual knowledge that we have collected personal information about a child under the age of 13, that information will be immediately deleted from our database. Because we do not collect such information, we have no such information to use or to disclose to third parties.
+The Site is not directed to children under the age of 13. We have designed this privacy policy in order to comply with the Children’s Online Privacy Protection Act (“COPPA”). We will never knowingly collect any personal information about children under the age of 13. If we obtain actual knowledge that we have collected personal information about a child under the age of 13, that information will be immediately deleted from our database. Because we do not collect such information, we have no such information to use or to disclose to third parties.
 
 If a parent believes that his or her child has submitted personal information to us, he or she can contact us via e-mail or postal mail as listed below. We will promptly delete the information upon learning that it relates to a child under the age of 13. Please note that it is possible some of this information may remain archived in web logs and back-up archives after we delete the information from its active database.
 
@@ -58,7 +58,7 @@ Under California Civil Code Sections 1798.83-1798.84, California residents are e
 
 Business transitions
 
-In the event we go through a business transition, such as a merger, acquisition by another company, or sale of a portion of our assets, users' personal information will, in most instances, be part of the assets transferred.
+In the event we go through a business transition, such as a merger, acquisition by another company, or sale of a portion of our assets, users’ personal information will, in most instances, be part of the assets transferred.
 
 Your consent
 
