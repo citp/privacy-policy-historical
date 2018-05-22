@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nubiles-porn.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201135956id_/http%3A//nubiles-porn.com/page/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nubiles-porn.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522210118id_/http%3A//nubiles-porn.com/page/privacy_policy) for the most accurate reproduction.*
 
 # Nubiles Porn - Privacy Policy
 
