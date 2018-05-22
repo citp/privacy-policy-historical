@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govplanet.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120135913id_/http%3A//www.govplanet.com/pop/terms_page.jsp%3Fid%3D4%26noh1%3Dyes) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govplanet.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522024650id_/http%3A//www.govplanet.com/pop/terms_page.jsp%3Fid%3D4%26noh1%3Dyes) for the most accurate reproduction.*
 
 # GovPlanet - Terms and Conditions
 
@@ -25,17 +25,19 @@ Policy
   * **IronClad  
 Assurance  
 Policy**
-  * **SMS  
-Terms and  
-Conditions**
+  * **Buyer and Seller  
+SalvageSale  
+Terms**
 
 
 
-Revised June 1, 2017
+******
+
+Revised December 15, 2017
 
 ## IronPlanet Privacy Statement
 
-IronPlanet (hereinafter referred to as " **IronPlanet** " or " **we** ") is committed to protecting your privacy. To help you understand how we collect, use and share information about you, we encourage you to read this Privacy Statement, which applies to your use of the IronPlanet web site(s) operated by IronPlanet (e.g., www.ironplanet.com, eu.ironplanet.com, www.truckplanet.com, www.govplanet.com, and www.catauctions.com), and any website on which this Privacy Statement appears, along with any emails that we send to you, and any mobile applications that we provide to you, including the "IronPlanet" mobile app (together the " **IronPlanet Sites** " or the " **Sites** "). 
+IronPlanet (hereinafter referred to as " **IronPlanet** " or " **we** ") is committed to protecting your privacy. To help you understand how we collect, use and share information about you, we encourage you to read this Privacy Statement, which applies to your use of the IronPlanet web site(s) operated by IronPlanet (e.g., www.ironplanet.com, eu.ironplanet.com, www.truckplanet.com, www.govplanet.com, and www.salvagesale.com), and any website on which this Privacy Statement appears, along with any emails that we send to you, and any mobile applications that we provide to you, including the "IronPlanet" mobile app (together the " **IronPlanet Sites** " or the " **Sites** "). 
 
 This Privacy Statement describes: 
 
@@ -131,6 +133,8 @@ By using the IronPlanet Sites and services, you signify your acceptance of this 
 
 If you have questions or concerns about this Privacy Statement, please send an e-mail to [Privacy@ironplanet.com](mailto:Privacy@ironplanet.com). 
 
-  
-  
+******
+
+**  
+**  
 ---|---
