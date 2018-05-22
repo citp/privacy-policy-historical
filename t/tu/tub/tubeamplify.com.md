@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tubeamplify.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122012027id_/http%3A//videorevolver.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubeamplify.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523012137id_/http%3A//videorevolver.com/privacy) for the most accurate reproduction.*
 
 # Privacy - VideoRevolver: Create Amazing Web Videos That Sell More of Your Stuff Online
 
