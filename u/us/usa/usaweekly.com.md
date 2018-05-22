@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the usaweekly.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120090911id_/http%3A//www.usaweekly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usaweekly.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522051723id_/http%3A//www.usaweekly.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | USA WEEKLY - Latest World and US News - Politics, Entertainment, Sports, Health, Technology
+# USA Weekly - U.S. News, World News, and Breaking News
 
 USA WEEKLY, Inc and its wholly owned subsidiaries, respect your privacy and are committed to protecting it through our compliance with this policy.
 
