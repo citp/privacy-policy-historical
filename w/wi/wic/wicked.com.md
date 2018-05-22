@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wicked.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120171355id_/http%3A//www.wicked.com/docs/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wicked.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522081236id_/http%3A//www.wicked.com/docs/pp) for the most accurate reproduction.*
 
 # Privacy Policy
 
