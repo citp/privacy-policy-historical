@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blazeweek.com privacy policy that was archived on 2017-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170824181148id_/http%3A//www.blazeweek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blazeweek.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522214941id_/http%3A//www.blazeweek.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Blaze Week
 
 It is BLAZEWEEK.COM’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
