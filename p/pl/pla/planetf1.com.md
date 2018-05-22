@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetf1.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209191700id_/http%3A//www.planetf1.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetf1.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522051205id_/http%3A//www.planetf1.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PlanetF1 : PlanetF1
 
