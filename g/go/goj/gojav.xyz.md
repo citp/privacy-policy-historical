@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gojav.xyz privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120140648id_/http%3A//gojav.xyz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gojav.xyz privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522030222id_/http%3A//gojav.xyz/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | GoJav.xyz
+# Privacy Policy | GoJav
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.  
 This SITE generally does not collect personally identifiable information (data such as your name, email address, and the content of your communications) unless you submit or communicate User Content through the Service, or register with us in order to use certain features of the Service. This SITE will not disclose any personally identifiable information it collects or obtains except:  
