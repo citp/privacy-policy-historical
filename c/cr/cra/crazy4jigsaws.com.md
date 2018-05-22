@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crazy4jigsaws.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120174138id_/http%3A//www.crazy4jigsaws.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazy4jigsaws.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523002057id_/http%3A//www.crazy4jigsaws.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Crazy4Jigsaws.com
 
@@ -62,5 +62,5 @@ Any future changes in our privacy policy will be posted on this page. If you are
 If you have any questions regarding our privacy policy or need assistance opting-out from our email newsletters please contact us via email at support@crazy4jigsaws.com or by postal mail at: 
 
 Crazy4Jigsaws  
-PO Box 560439  
-Montverde, FL 34756 
+PO Box 2854  
+Cypress, Texas 77429 
