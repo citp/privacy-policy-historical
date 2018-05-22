@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lifeoptimizer.org privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120071433id_/http%3A//www.lifeoptimizer.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeoptimizer.org privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522031859id_/http%3A//www.lifeoptimizer.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Life Optimizer
 
 Life Optimizer operates Lifeoptimizer.org and may operate other websites. It is Life Optimizer’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
