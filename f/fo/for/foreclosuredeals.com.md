@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foreclosuredeals.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217015927id_/http%3A//www.foreclosuredeals.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreclosuredeals.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522174433id_/http%3A//www.foreclosuredeals.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy and Policies Provided by ForeclosureDeals.com
 
@@ -30,7 +30,7 @@ Foreclosuredeals.com holds the privacy of our customers and members as one of ou
 
 This website does use cookies to store information about individual user preferences, record data on which pages users access, to customize the user experience based on browser type, and record other information the user's browser transmits. We do not share this information with outside parties.
 
-To help keep your membership cost as low as possible, we use third party advertising companies like Google to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services that may be of interest to you.
+To help keep your membership cost as low as possible, we use third party advertising companies like [Google to serve ads when you visit our website](https://www.google.com/policies/technologies/partner-sites/). These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services that may be of interest to you.
 
 Third parties which advertise on our site, including Google, may use cookies of their own. When you click on ad links, these services automatically receive information from your browser (not including your name, address, email address, or telephone number), such as your IP address, and may use technologies such as cookies, web beacons or JavaScript to judge the effectiveness of their ad campaigns or to personalize ad content. This website has no control over the use of cookies or such technology by third party advertisers.
 
