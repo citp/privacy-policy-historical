@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boats.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120180454id_/http%3A//www.boats.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boats.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523010926id_/http%3A//www.boats.com/privacy) for the most accurate reproduction.*
 
 # boats.com Privacy Policy - boats.com
 
@@ -141,7 +141,7 @@ We have in place what we believe to be reasonable physical, electronic and manag
 
  **How You Can Access or Correct Information**
 
-You may obtain information regarding the personally identifiable information that you provide or we collect about you via our Services for the limited purpose of viewing and correcting any factual errors in such information. Access to personally identifiable information that you provide or we collect via our Services may be accessible for a limited period of time after the point of collection. For example, if you created a password-protected account within our Services, you may return to that portion of the Services to review the personally identifiable information you provided. Alternatively, you may send an e-mail or letter to the following e-mail or street address requesting information about or corrections to your personally identifiable information  **Boats Group, Intellectual Property Administrator, P.O. Box 2576, Norfolk, VA  23501 or [IPadministrator@boatsgroup.com](mailto:IPadministrator@boatsgroup.com)** **,  **subject to appropriate verification procedures. To protect your privacy and security, we will take what we believe are reasonable steps to help verify your identity before providing personally identifiable information, granting access or making corrections.
+You may obtain information regarding the personally identifiable information that you provide or we collect about you via our Services for the limited purpose of viewing and correcting any factual errors in such information. Access to personally identifiable information that you provide or we collect via our Services may be accessible for a limited period of time after the point of collection. For example, if you created a password-protected account within our Services, you may return to that portion of the Services to review the personally identifiable information you provided. Alternatively, you may send an e-mail or letter to the following e-mail or street address requesting information about or corrections to your personally identifiable information  **Boats Group, Intellectual Property Administrator, 1221 Brickell Avenue, 23rd Floor, Miami, FL 33131  or [IPadministrator@boatsgroup.com](mailto:IPadministrator@boatsgroup.com)** **,  **subject to appropriate verification procedures. To protect your privacy and security, we will take what we believe are reasonable steps to help verify your identity before providing personally identifiable information, granting access or making corrections.
 
  **Usage Terms**
 
@@ -161,7 +161,7 @@ As noted in this Privacy Policy, we take our commitment to protection of your pr
 
  **How to Contact Us**
 
-If you have any questions or concerns about the Privacy Policy for our Services or its implementation, you may contact the Boats Group **  Intellectual Property Administrator, P.O. Box 2576, Norfolk, VA 23501 or [IPadministrator@boatsgroup.com](mailto:IPadministrator@boatsgroup.com)** for information as to how to contact us.
+If you have any questions or concerns about the Privacy Policy for our Services or its implementation, you may contact the Boats Group **  Intellectual Property Administrator, 1221 Brickell Avenue, 23rd Floor, Miami, FL 33131 or [IPadministrator@boatsgroup.com](mailto:IPadministrator@boatsgroup.com)** for information as to how to contact us.
 
  **Updates and Effective Date**
 
