@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swtor-spy.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120172146id_/http%3A//www.swtor-spy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swtor-spy.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522083356id_/http%3A//www.swtor-spy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SWTOR Database
 
