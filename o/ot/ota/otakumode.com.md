@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the otakumode.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904231635id_/https%3A//otakumode.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otakumode.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522070259id_/https%3A//otakumode.com/privacy) for the most accurate reproduction.*
 
 # Tokyo Otaku Mode | Privacy Policy
 
