@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smotricams.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104222120id_/http%3A//smotricams.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smotricams.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522091735id_/http%3A//smotricams.com/privacy) for the most accurate reproduction.*
 
-# Live Sexcams: XXX Adult Shows, Free Porn Chat - SmotriCams
+# Live Sexcams: XXX Adult Shows - Free Porn Chat - SmotriCams
 
 ## LAST REVISION: SEPTEMBER 19, 2013
 
