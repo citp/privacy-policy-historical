@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chemistryjokes.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108174218id_/http%3A//www.chemistryjokes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chemistryjokes.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522032108id_/http%3A//www.chemistryjokes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Chemistry Jokes
 
