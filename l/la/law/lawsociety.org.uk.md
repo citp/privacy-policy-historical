@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawsociety.org.uk privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202160247id_/http%3A//www.lawsociety.org.uk/about-the-website/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawsociety.org.uk privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522035547id_/http%3A//www.lawsociety.org.uk/about-the-website/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement - The Law Society
 
