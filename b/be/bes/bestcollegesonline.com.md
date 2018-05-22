@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestcollegesonline.com privacy policy that was archived on 2017-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171111143519id_/http%3A//www.bestcollegesonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestcollegesonline.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522110810id_/http%3A//www.bestcollegesonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BestCollegesOnline.com
 
@@ -33,7 +33,3 @@ Cookies used to create advertisements do not contain identifiable information; u
 By going into your browser’s settings, you can remove your browsing history and any cookies your use of the internet has placed therein. You will need to do this every time you use the web if you do not want cookies to remain attached to your browser.
 
 You can opt-out of receiving personalized advertisements from third party vendors. By visiting the websites for the Network Advertising Initiative or the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising, you can remove ads based on your browsing history from all vendors who are members of these organizations.
-
-## Contact Us
-
-If you have any questions or concerns about this Terms of Use and Privacy Policy, please do not hesitate to reach out to us via our contact form.
