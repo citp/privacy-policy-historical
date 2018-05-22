@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gfsexvideos.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130001622id_/http%3A//gfsexvideos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gfsexvideos.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522044528id_/http%3A//gfsexvideos.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
