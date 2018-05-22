@@ -1,93 +1,123 @@
-> *The following text is extracted and transformed from the realclearsports.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208095132id_/http%3A//www.realclearsports.com/static/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realclearsports.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522150455id_/http%3A//www.realclearlife.com/privacy-policy) for the most accurate reproduction.*
 
-# RealClearSports - Privacy Policy
+# Privacy Policy
 
-## Privacy Policy
+RealClearLife
 
-RealClearSports knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the RealClearSports website, you are accepting the practices outlined in this Privacy Policy. 
+Website Privacy Policy
 
-### What Does This Privacy Policy Cover?
+LAST UPDATE: [Feb. 18th, 2016]
 
-This Privacy Policy covers RealClearSports's treatment of personal information that RealClearSports gathers when you are on the RealClearSports website and when you use RealClearSports services. 
+RealClearLife (“RCL”, “we”, “our”, and “us”) respects your concerns about privacy and personal data protection and value our relationship with you.  This Privacy Policy (the “Policy”) applies solely to personal information collected through the RCL website and web pages that post, specifically reference and incorporate this Privacy Policy (collectively, the “Site”), whether accessed via computer, mobile device or other device (collectively, “Device”).
 
-This policy does not apply to the practices of third parties that RealClearSports does not own or control, or to individuals that RealClearSports does not employ or manage. 
+This Policy describes the types of personal information we collect through the Site and how that personal information may be used and/or with whom it may be shared.  This Policy also describes how you can reach us to update your personal information, access and control the use of the personal information, or get answers to questions you may have about our privacy practices at this Site.  Please read this Policy carefully, because by accessing and using this Site you are acknowledging that you understand and agree to the terms of this Policy.  In addition, please review our [Terms of Use](http://www.realclearlife.com/terms-of-service/), which governs your use of this Site.
 
-### What Personal Information About Users Does RealClearSports Collect?
+1.  COLLECTION AND USE OF PERSONAL INFORMATION
 
-Our primary goal in collecting personal information is to provide you with a friendly, customized, and efficient experience. We only collect personal information that is relevant to the purpose of our website. We do not process this information in a way that is incompatible with the purpose for which it has been collected or subsequently authorized by you. We collect the following types of information from our users: 
+Personal Information You Provide
 
-**1\. Information You Provide to Us:**
+The privacy and security of the personal information that RCL collects from you is a priority for RCL.  Generally you can visit this Site without providing personal information.  However there may be circumstances when you may be asked or choose to provide personal information that could reasonably be used to contact you or to identify you personally including, but not limited to, your name, email address, and inquiry information.  By submitting personal information to RCL at this Site, you hereby consent to RCL’s collection, use and disclosure of such personal information.
 
-  
-We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. The personal information you provide is used for such purposes as:  
+We may combine the personal information you submit directly through this Site with other personal information we have collected from you, whether on- or offline.  We may also combine it with information we receive about you from other sources, such as available information sources (including information from your publicly available social media profiles), and other third parties.
 
+Passive Information Collection and Use
 
-  
-**Registration:** In order for you to use RealClearSports services, such as submitting new links to the website, you must complete a registration form. As part of this registration form, we require your email address, year of birth, and gender.
+As you navigate around this Site, certain information can be passively collected (that is, gathered without you actively providing the information), using various technologies.  We and our third party service providers passively collect and use information in a variety of ways, including:
 
-**2\. Automatic Information:**
+·      Through your browser:  Certain information is collected by most browsers, such as your Media Access Control (MAC) address, computer type (Windows or Macintosh), screen resolution, operating system version, and Internet browser type and version.  We may collect similar information, such as your device type and identifier, if you access this Site through a mobile Device.
 
-  
-We receive and store certain types of information whenever you interact with us. RealClearSports automatically receives and records certain "traffic data" on our server logs from your browser including your IP address, RealClearSports cookie information, and the page you requested. RealClearSports uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.  
+·      Cookies:  Cookies are pieces of information stored directly on the computer you are using.  Cookies allow us to collect information such as browser type, time spent on this Site, pages visited, and language preferences.  We and our service providers use the information for security purposes, to facilitate navigation, and display information more effectively.  In addition, we use cookies to gather statistical information about Site usage in order to continually improve its design and functionality, understand how individuals use it, and to assist us with resolving questions regarding it.
 
+You can choose to accept or decline cookies.  Most web browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies if you prefer.  If you would prefer not to accept cookies, most browsers will allow you to: (i) change your browser settings to notify you when you receive a cookie, which lets you choose whether or not to accept it; (ii) to disable existing cookies; or (iii) to set your browser to automatically reject any cookies.
 
-RealClearSports may also add on any page display the total counts that page has been viewed. This includes member profile pages.
+·      IP Address:  Your IP Address is a number that is automatically assigned to the computer that you are using by your Internet Service Provider.  An IP Address is identified and logged automatically in our server log files whenever a user visits this Site, along with the time of the visit and the page(s) that were visited.  Collecting IP Addresses is standard practice on the Internet and is done automatically by many web sites.  We use IP Addresses for purposes such as calculating Site usage levels, helping diagnose server problems, and administering this Site.
 
-**Social sharing of data:** RealClearSports may in the future allow other users to browse stories that you have voted on, or submitted. RealClearSports may choose to post this data on other site features in the future.
+·      Do Not Track Requests:  At this time RCL does not respond to Do Not Track signal requests.
 
-**Profile information:** RealClearSports does not currently allow other users to browse your full name, location, and instant messaging URL, within your member profile should you provide this optional information.
+Integrated Accounts and Social Media Information
 
-**Syndication:** RealClearSports allows for the RSS syndication of all of its public content within the website.
+We may implement applications or “widgets” from third party providers (e.g., Facebook, Twitter, etc.) that allow interaction, integration or content sharing with third party services.  These widgets or applications may be visible on a page you visit on our Site or may require log-in through the third party provider’s service.  The third party providing the widget or integration may offer controls for you to manage your interactions.  Any interaction with a third party widget or application typically allows the third party to collect some information about you (whether through cookies, registration information or otherwise).  These third parties may even track you when you do not interact with the widget.  If you have engaged any of these third party service providers, their respective privacy policies will govern their tracking and collection of information.  You should review these third party policies to understand these practices.
 
-Many companies offer programs that help you to visit websites anonymously. While RealClearSports will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
+How We Use and Disclose Information
 
-### What About Cookies?
+We use and disclose personal information you provide to us as described to you at the point of collection, such as when you (1) send us an inquiry through the Contact page, and (2) send e-mail messages or feedback, or transmit other information by e-mail.  If you elect to engage in such activities, we may ask that you provide us personal information, such as your first and last name, mailing address (including zip code), e-mail address, and telephone numbers.
 
-Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. RealClearSports cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or email address is. 
+We also use and transfer personal information from or about you:
 
-The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of RealClearSports's most attractive features. 
+·      to respond to your inquiries and fulfill your requests, such as to send you documents you request or e-mail;
 
-Some of our business partners may use cookies on our website (for example, advertisers). However, we have no access to or control over these cookies. 
+·      to send you important information regarding our relationship with you or regarding this Site, changes to our terms, conditions, and policies and/or other administrative information; and
 
-### Will RealClearSports Share Any of the Information it Receives?
+·      for our business purposes, such as data analysis, audits, developing new products or services, enhancing our Site, improving our products and services, identifying Site usage trends, and determining the effectiveness of our Site.
 
-Information about our users is an integral part of our business. We neither rent nor sell your personal information to anyone. We share your personal information only as described below. 
+·      to our third party service providers who provide services such as website hosting and moderating, mobile application hosting, data analysis, infrastructure provision, IT services, auditing services, and other services, in order to enable them to provide services; and
 
-**Business Transfers:** In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if RealClearSports, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred.
+·      to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets, or stock (including in connection with any bankruptcy or similar proceedings).
 
-**Protection of RealClearSports and Others:** We may release personal information when we believe in good faith that release is necessary to comply with that law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of RealClearSports, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+In addition, we use and disclose personal information collected through this Site as we believe to be necessary or appropriate: (a) as permitted by applicable law, including laws outside your country of residence; (b) to comply with any legal process; (c) to respond to requests from public and government authorities, including public and government authorities outside your country of residence; (d) to enforce our [Terms of Use](http://www.realclearlife.com/terms-of-service/); (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety, or property, and/or that of our affiliates, you, or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain. We may also use and disclose personal information collected through this Site in other ways, with your prior consent.
 
-**With Your Consent:** Except as set forth above, you will be notified when your personal information may be shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to prevent the sharing of this information by opting out.
+We also use and disclose information we collect passively as described above, under “Passive Information Collection and Use,” and for any other purpose, except where we are required to do otherwise under applicable law (for example, if we are required to treat such information as personal information). In addition, we may use and disclose information that is not in personally identifiable form (such as anonymized, masked or de-identified information) for any purpose. If we combine information that is not in personally identifiable form with information that is (such as combining your name with your geographical location), we will treat the combined information as personal information as long as it is combined.
 
-### Is Information About Me Secure?
+2.  GENERAL PRINCIPLES FOR THE PROCESSING OF PERSONAL INFORMATION
 
-Your RealClearSports account information is protected by a password for your privacy and security. You need to work to protect against unauthorized access to your password and to your computer by logging off once you have finished using a shared computer. 
+Personal information will be collected, stored, processed and transmitted in accordance with RCL’s established policies and applicable federal, state, local and foreign laws, rules and regulations.
 
-Only employees who need personal information to perform a specific job (for example, a customer service representative) are granted access to it. All of our employees are kept up to date on our privacy and security practices. 
+The principles of RCL with respect to the processing of personal information are as follows:  (1) personal information will be processed fairly and lawfully, (2) personal information will be collected for specified, explicit, and legitimate purposes and not further processed for incompatible purposes, (3) personal information collected by RCL will be adequate, relevant, and not excessive in relation to the purposes for which it is collected, (4) personal information collected by RCL will be accurate and, where necessary, kept up to date to the best of our ability, and (5) personal information collected by RCL will be retained as identifiable data for no longer than necessary to serve the purposes for which the personal information was collected.
 
-### What Information Can I Access?
+If RCL engages in the processing of personal information for purposes other than those specified in this Policy, RCL will provide notice of these changes, the purposes for which the personal information will be used, and the recipients of personal information.
 
-You can access your personal information on our website and send an email to [info@realclearsports.com](mailto:info@realclearsports.com) to correct, amend, or delete information that is inaccurate. 
+3.  THIRD PARTY SITES AND SERVICES
 
-### What Choices Do I Have?
+This Policy does not address, and we are not responsible for, the privacy, information, or other practices of any third parties, including any third party operating any site or web property (including, without limitation, any application) that is available through this Site or to which this Site contains a link.  The availability of, or inclusion of a link to, any such site or property on this Site does not imply endorsement of it by us or by our affiliates.
 
-As stated previously, you can always opt not to disclose information, but then you may be unable to use certain features on our website, such as posting new links. 
+4.  CHOICES AND ACCESS
 
-You are able to add or update certain information on pages, such as those listed in the "What Personal Information About Users Does RealClearSports Collect?" section above. When you update information, however, we often maintain a copy of the unrevised information in our records. 
+We give you choices regarding our use and disclosure of your personal information.  You may opt-out of our collection of your personal information at any time by contacting us as specified below in the CONTACT section.  We will seek to comply with your request(s) as soon as reasonably practicable.
 
-You may request deletion of your RealClearSports account by sending an email to [info@realclearsports.com](mailto:info@realclearsports.com). This removes all of your past RealClearSports usage from public view. 
+How You Can Access, Change, or Delete Your Personal Information
 
-As explained earlier, the "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if your browser does not accept cookies, you will not be able to take advantage of some of our attractive features. 
+If applicable and you would like to review, correct, update, or delete the personal information that you have provided via this Site, please contact us as specified below in the CONTACT section.  We will try to comply with your request as soon as reasonably practicable.
 
-### Can Children Use RealClearSports's Services?
+5.  ACCURACY
 
-  
-You must be 13 years and older to register to use the RealClearSports website. As a result, RealClearSports does not specifically collect information about children.
+It is your responsibility to provide RCL with accurate personal information.  Except as otherwise set forth in this Policy, RCL shall only use personal information in ways that are compatible with the purposes for which it was collected or subsequently authorized by you.  To the extent necessary for these purposes, RCL shall take reasonable steps to ensure that personal information is accurate, complete, current and relevant to its intended use.
 
-### Conditions of Use
+6.  RETENTION PERIOD
 
-If you decide to visit RealClearSports website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of Illinois state law.
+We retain your personal information for the period necessary to fulfill the purposes outlined in this Policy, unless a longer retention period is required or allowed by law or to otherwise fulfill a legal obligation.
 
-### Privacy Policy Changes
+7.  SECURITY
 
-We reserve the right to change this Privacy Policy at any time. You agree to obtain changes to this Privacy Policy electronically by visiting this Site. We require you to check back from time to time to review changes to our Privacy Policy. 
+We use reasonable organizational, technical, and administrative measures to protect personal information under our control.  Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure.  If you have reason to believe that your interaction with us is no longer secure, please immediately notify us of the problem by contacting us in accordance with the CONTACT section below.
+
+8.  USE OF SITE BY MINORS
+
+The Site is not directed to individuals under the age of 13 and we request that these individuals not provide personal information through this Site.
+
+9.  COMPLIANCE WITH LOCAL LAWS
+
+This Policy is meant to guide RCL with respect to personal information collected from or about you at this Site.  While this Policy applies to personal information generally, the local laws, rules and regulations of jurisdictions that are applicable to RCL (“Local Laws”) may require standards which are stricter than this Policy and, in such event, RCL will comply with applicable Local Laws.  Specific privacy policies may be adopted to address the specific privacy requirements of particular jurisdictions.
+
+10.  CROSS-BORDER TRANSFER
+
+Your personal information may be stored and processed in any country where we have facilities or service providers, and by using our Site or by providing consent to us (where required by law), you agree to the transfer of information to countries outside of your country of residence, including to the United States, which may provide for different data protection rules, and a lower standard of required protection, than in your country.
+
+11.  UPDATES TO THIS PRIVACY POLICY
+
+We may change this Policy.  Please take a look at the LAST UPDATE legend at the top of this page to see when this Policy was last revised.  Any changes to this Policy will become effective when we post the revised Policy on this Site.  Your use of this Site following these changes means that you accept the revised Policy.
+
+12.  COMPLIANCE
+
+RCL will use a self-assessment approach to verify compliance with this Policy and periodically verify that the Policy is accurate, comprehensive for the information intended to be covered, prominently displayed, implemented and accessible.
+
+If you believe that your personal information has been processed or disclosed in violation of this Policy, RCL encourages you to raise any concerns using the contact information provided in this Policy.  RCL will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of personal information.
+
+13.  CONTACTING US
+
+If you have any questions about this Policy, please contact us via one of these methods:
+
+On this Site, via the CONTACT section, if available  
+or by phone please call [(212) 655-0282] (Monday to Friday, 8am – 5pm EST)  
+or by e-mail at info@RealClearLife.com  
+or please write to the following address:  RealClearLife, [787 Seventh avenue 48th Floor  
+New York, NY 10019]
