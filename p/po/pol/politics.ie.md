@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the politics.ie privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121201027id_/http%3A//www.politics.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the politics.ie privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522082142id_/http%3A//www.politics.ie/privacy) for the most accurate reproduction.*
 
 # Politics.ie - The Irish Politics & Current Affairs Website - Privacy Policy
 
@@ -12,7 +12,7 @@ We may change this privacy statement from time to time. When we do we will notif
 
 **Children under the age of 13**
 
-Politics.ie is not directed at children younger than 13 years of age and is offered only to users who are 13 or older. Children below 13 may not register with Politics.ie. We do not knowingly collect information from or about children below the age of 13. If we discover that we have collected personal information from a child below the age of 13 we will delete that information as soon as possible. If you believe we might have any information from or about a child under 13, please contact us at privacy@politics.ie.
+Politics.ie is not directed at children younger than 13 years of age and is offered only to users who are 13 or older. Children below 13 may not register with Politics.ie. We do not knowingly collect information from or about children below the age of 13. If we discover that we have collected personal information from a child below the age of 13 we will delete that information as soon as possible. If you believe we might have any information from or about a child under 13, please contact us at [[email protected]](http://www.politics.ie/cdn-cgi/l/email-protection)
 
 **Persons aged 13 to 17**
 
@@ -91,11 +91,11 @@ Please note that your user status will appear in connection with your username. 
 
 You may request details of personal information which we hold about you or rectify any personal information which is incorrect or incomplete under the Data Protection Acts 1988-2003.
 
-If you would like a copy of the information held on you please email us at privacy@politics.ie. If you are a registered user please supply details of your username and email address which you supplied when registering. Please note that to protect your privacy we may require further information to verify your identity.
+If you would like a copy of the information held on you please email us at [[email protected]](http://www.politics.ie/cdn-cgi/l/email-protection) If you are a registered user please supply details of your username and email address which you supplied when registering. Please note that to protect your privacy we may require further information to verify your identity.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible at privacy@politics.ie. We will promptly correct any information found to be incorrect.
+If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible at [[email protected]](http://www.politics.ie/cdn-cgi/l/email-protection) We will promptly correct any information found to be incorrect.
 
-If someone else has posted your personal information on Politics.ie without your permission and you would like it removed please contact us at privacy@politics.ie.
+If someone else has posted your personal information on Politics.ie without your permission and you would like it removed please contact us at [[email protected]](http://www.politics.ie/cdn-cgi/l/email-protection)
 
 **Security**
 
