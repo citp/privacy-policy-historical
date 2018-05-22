@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fbr.gov.pk privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120175739id_/http%3A//www.fbr.gov.pk/ShowArticle.aspx%3Fview%3DArticle%26ActionID%3D543) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fbr.gov.pk privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523010333id_/http%3A//www.fbr.gov.pk/ShowArticle.aspx%3Fview%3DArticle%26ActionID%3D543) for the most accurate reproduction.*
 
 # FBR's Website Privacy Policy
 
