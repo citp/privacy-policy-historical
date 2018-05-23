@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ga2h.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226054407id_/https%3A//www.ga2h.com/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ga2h.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523075321id_/http%3A//www.ga2h.com/Privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - ga2h.com
 
