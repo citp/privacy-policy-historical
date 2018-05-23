@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficera.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122164421id_/http%3A//www.trafficera.com/%3Fa%3Dabout.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficera.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523151304id_/http%3A//www.trafficera.com/%3Fa%3Dabout.privacy) for the most accurate reproduction.*
 
 # Trafficera - Drive thousands of visitors to your website!
 
