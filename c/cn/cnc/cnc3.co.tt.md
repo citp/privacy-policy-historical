@@ -1,5 +1,230 @@
-> *The following text is extracted and transformed from the cnc3.co.tt privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121140346id_/http%3A//www.cnc3.co.tt/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnc3.co.tt privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523162042id_/http%3A//www.cnc3.co.tt/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CNC3
 
-Last Updated on October 12, 2012 This Privacy Policy discloses the privacy practices for Guardian Media Limited and its divisions and or websites: Trinidad Guardian Newspaper CNC3 Television Inspirational Radio 730AM, Mix 95.1FM, Vibe CT 105FM, Sangeet 106FM, Aakash Vani 106.5FM, Slam 100.5FM, Trinidad Guardian e-Paper Guardian Classifieds <http://50tt.guardian.co.tt/> <http://indepth.guardian.co.tt/> <http://legacy.guardian.co.tt/archives/> <http://www.guardian.co.tt/archives/> <http://www.guardian.co.tt/cleaningupthemess/> Our mobile messaging services, Web sites and other applications (collectively referred to as the “GML Services”), and to any services that display this notice. For the purposes of this Privacy Policy, unless otherwise noted, all references to "Guardian Media Limited" include the divisions listed above. Please note, our Web sites may contain links to other Web sites for your convenience and information. We are not responsible for the privacy practices or the content of those sites. We encourage you to review the privacy policy before submitting your personal information. If you have questions or concerns regarding this statement, you should first contact our New Media Department by sending an e-mail to [internet.editor@guardian.co.tt](mailto:internet.editor@guardian.co.tt). This Privacy Policy covers the following: What information do we gather about you? Registration for our Web sites Aggregate Information Collected Through Technology What do we do with the information we gather about you? With whom do we share the information that we gather? What is our e-mail policy? How do I change or update my personal information? How do I opt-out from receiving promotional offers? Is my information protected? Compliance with legal process Children's Guidelines Your California Privacy Rights Changes to this Privacy Policy What information do we gather about you? The information we gather falls into two categories: 1) personal information you voluntarily supply when you subscribe, order, complete a survey, register for an online discussion, enter a contest or provide your e-mail address and 2) tracking information collected as you navigate through our sites. Registration for our Web sites Anyone can view our sites, but a free registration process is required to access the full range of information and services offered across our different sites. Aggregate Information Collected Through Technology As is standard practice on many Web sites, Guardian Media Limited uses “cookies” and other technologies to recognize you and provide personalization, as well as to help us understand which parts of our Web sites are the most popular, where our visitors are going and how much time they spend there. Users who do not accept cookies from the domain "Guardian.co.tt" cannot access most areas of our sites. Guardian Media Limited reserves the right to place a cookie on your computer with a unique anonymous number to ensure that your browser does not see the same ad over and over again, to sequence ads in a series and to measure the number of unique visitors that have viewed a particular ad or visited a particular Web page. Most internet browsers are initially set up to automatically accept cookies. You can change the settings to block cookies or to alert you when cookies are being sent to your device. There are a number of ways to manage cookies. Please refer to your browser instructions or help screen to learn more about how to adjust or modify your browser settings. If you disable the cookies that we use, this may impact your experience while on the Guardian Media Limited web Sites. If you use different devices to view and access the Guardian Media Ltd web Sites (e.g. your computer, smartphone, tablet etc) you will need to ensure that each browser on each device is adjusted to suit your cookie preferences. What do we do with the information we gather about you? Statistical Analysis Guardian Media Limited may perform statistical, demographic and marketing analyses of users and subscribers, and their subscribing and purchasing patterns, for product development purposes and to generally inform advertisers about the nature of our subscriber base. We also use such information to allow advertising to be targeted, in aggregate, to the users for whom such advertising is most pertinent. Guardian Media Limited may share personal information within the group for analysis purposes, including analysis to improve customer relationships. Banner Advertising We may use demographic and preference information to allow advertising on our Web sites to be targeted, in aggregate, to the users for whom they are most pertinent. This means users see advertising that is most likely to interest them, and advertisers send their messages to people who are most likely to be receptive, improving both the viewer's experience and the effectiveness of the ads. We will disclose information to third parties only in aggregate form. User Generated Content (Comments, Forums and Reader Reviews) We offer Forums (message boards) as well as the option to provide comments (on articles) and post reader reviews in a number of areas throughout guardian.co.tt and other web sites. Any information you disclose when posting a message in these areas, along with your login, becomes public and may be used by Guardian Media Limited and its divisions for online and offline promotional or commercial uses in any and all media. If you chose to post comments on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these areas, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. What is our e-mail policy? Account and Service-Related E-mail: Guardian Media Limited reserves the right to send you e-mail relating to your account status. This includes order confirmations, renewal/expiration notices, notices of credit-card problems, other transactional e-mails and notifications about major changes to our Web sites and/or to our Privacy Policy. If you have registered for online discussions or other services, you may receive e-mail specific to your participation in those activities. E-mails From You: If you send us e-mails, you should be aware that information disclosed in e-mails may not be secure or encrypted and thus may be available to others. We suggest that you exercise caution when deciding to disclose any personal or confidential information in e-mails. We will use your e-mail address to respond directly to your questions or comments. E-mail This Article Feature: guardian.co.tt readers may use this feature to e-mail links to articles (or other content such as slideshows and videos). The e-mail addresses that you supply to this service are saved for your convenience for future articles you may wish to e-mail; these addresses are not used for any other purpose, and will not be shared with any third parties. With whom do we share the information that we gather? If you have registered to one of our sites, Guardian Media Limited will not sell, rent, swap or authorize any third party to use your e-mail address or any information that personally identifies you without your permission. We do, however, share information about our audience in aggregate form. Is my information protected? Data Security: To prevent unauthorized access, maintain data accuracy and ensure the appropriate use of information, we have put in place physical, electronic and managerial procedures to protect the information we collect online. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt that information using secure socket layer technology (SSL). Guardian Media Limited offer online Credit Card payments via Paypal, Mastercard and Visa. The transactions are secured using a certified PCI-DSS Compliant third-party payment processing provider to ensure your personal details are kept safe. Payment by credit card is the fastest way to receive your order as there is no clearance delay. Guardian Media Limited does not store any credit card information on our servers. OTHER INFORMATION: Compliance with Legal Process We may disclose personal information if we are required to do so by law or we in good faith believe that such action is necessary to (1) comply with the law or with legal process; (2) protect and defend our rights and property; (3) protect against misuse or unauthorized use of our Web sites; or (4) protect the personal safety or property of our users or the public (among other things, this means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions). In no event shall GML be liable for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data or profits, or in connection with, the use of our websites. OTHER INFORMATION: Children's Guidelines The Guardian in Education (GIE) is a free service for parents, teachers and students. Any information supplied by users on these pages is used solely for participation in these activities, and is not shared or sold to third parties. If an e-mail address is provided, it will only be used for a one-time response back to the child. After responding to the child, the e-mail address is deleted. Access to the above services is not conditioned on more information than is reasonably necessary to provide the services. Because we’re concerned about a parent’s right to consent to the collection and use of their child’s personal information, when a question or letter is published, only the student's first name, grade and location appear on the site. To request removal of this information (non-personally identifiable) or to review or remove the optional e-mail address (personal information collected), please contact us via emailing the [internet.editor@guardian.co.tt](mailto:internet.editor@guardian.co.tt). These children's guidelines have been developed with the recognition that Internet technology evolves rapidly and that underlying business models are still not established. Accordingly, guidelines are subject to change. In the unlikely event of such changes they will be posted on this page. If the changes represent a material departure from our current practice with respect to the use of children’s personal information, the changes will be posted on this page thirty days prior to taking effect and will not affect children’s personal information previously collected. OTHER INFORMATION: Changes to This Policy Guardian Media Limited reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. This is a web site of The Guardian Media Limited Our postal address is Guardian Building 22-24 St Vincent Street Port of Spain Trinidad W.I. Telephone: 623-8870/9 , 623-7543; 625-7380/3
+cnc3.co.tt Privacy Policy
+
+This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.  
+ 
+
+**What personal information do we collect from the people that visit our blog, website or app?**  
+ 
+
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience.  
+ 
+
+**When do we collect information?**  
+ 
+
+We collect information from you when you register on our site, subscribe to a newsletter, Use Live Chat or enter information on our site.  
+ 
+
+**How do we use your information?  **  
+ 
+
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:  
+ 
+
+       **•**  To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+
+       **•**  To improve our website in order to better serve you.
+
+       **•**  To allow us to better service you in responding to your customer service requests.
+
+       **•**  To administer a contest, promotion, survey or other site feature.
+
+       **•**  To send periodic emails regarding your order or other products and services.
+
+       **•**  To follow up with them after correspondence (live chat, email or phone inquiries)  
+ 
+
+**How do we protect your information?**  
+ 
+
+We do not use vulnerability scanning and/or scanning to PCI standards.
+
+We only provide articles and information. We never ask for credit card numbers.
+
+We use regular Malware Scanning.  
+ 
+
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.   
+ 
+
+We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information.  
+ 
+
+All transactions are processed through a gateway provider and are not stored or processed on our servers.  
+ 
+
+**Do we use 'cookies'?**  
+ 
+
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+**We use cookies to:**
+
+       **•**  Understand and save user's preferences for future visits.
+
+       **•**  Keep track of advertisements.
+
+       **•**  Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
+
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser's Help Menu to learn the correct way to modify your cookies.
+
+**If users disable cookies in their browser:**  
+ 
+
+If you turn cookies off, Some of the features that make your site experience more efficient may not function properly.Some of the features that make your site experience more efficient and may not function properly.  
+ 
+
+**Third-party disclosure**  
+ 
+
+We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it's release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property or safety. 
+
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.   
+ 
+
+**Third-party links**  
+ 
+
+Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.  
+ 
+
+**Google**  
+ 
+
+Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. [https://support.google.com/adwordspolicy/answer/1316548?hl=en ](https://support.google.com/adwordspolicy/answer/1316548?hl=en%C2%A0)  
+ 
+
+We use Google AdSense Advertising on our website.
+
+Google, as a third-party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.
+
+**We have implemented the following:**
+
+       **•**  Remarketing with Google AdSense
+
+       **•**  Google Display Network Impression Reporting
+
+       **•**  Demographics and Interests Reporting
+
+       **•**  DoubleClick Platform Integration  
+ 
+
+We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website. 
+
+**Opting out:**  
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.  
+ 
+
+**California Online Privacy Protection Act**  
+ 
+
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. - See more at: [http://consumercal.org/california-online-privacy-protection-act-caloppa/...](http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf)
+
+**According to CalOPPA, we agree to the following:**
+
+Users can visit our site anonymously.
+
+Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.
+
+Our Privacy Policy link includes the word 'Privacy' and can easily be found on the page specified above.
+
+You will be notified of any Privacy Policy changes:
+
+       **•**  On our Privacy Policy Page
+
+Can change your personal information:
+
+       **•**  By logging in to your account
+
+**How does our site handle Do Not Track signals?**
+
+We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place. 
+
+**Does our site allow third-party behavioral tracking?**
+
+It's also important to note that we do not allow third-party behavioral tracking  
+ 
+
+**COPPA (Children Online Privacy Protection Act)**  
+ 
+
+When it comes to the collection of personal information from children under the age of 13 years old, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States' consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.  
+ 
+
+We do not specifically market to children under the age of 13 years old.
+
+Do we let third-parties, including ad networks or plug-ins collect PII from children under 13?  
+ 
+
+**Fair Information Practices**  
+ 
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.  
+ 
+
+**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
+
+We will notify you via email
+
+       **•**  Within 7 business days
+
+We will notify the users via in-site notification
+
+       **•**  Within 7 business days
+
+We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.  
+ 
+
+**CAN SPAM Act**  
+ 
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.  
+ 
+
+**We collect your email address in order to:**
+
+       **•**  Send information, respond to inquiries, and/or other requests or questions
+
+       **•**  Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.
+
+**To be in accordance with CANSPAM, we agree to the following:**
+
+       **•**  Not use false or misleading subjects or email addresses.
+
+       **•**  Identify the message as an advertisement in some reasonable way.
+
+       **•**  Include the physical address of our business or site headquarters.
+
+       **•**  Monitor third-party email marketing services for compliance, if one is used.
+
+       **•**  Honor opt-out/unsubscribe requests quickly.
+
+       **•**  Allow users to unsubscribe by using the link at the bottom of each email.
+
+**If at any time you would like to unsubscribe from receiving future emails, you can email us at**
+
+       **•**  Follow the instructions at the bottom of each email.  
+and we will promptly remove you from  **ALL**  correspondence.
+
+**Contacting Us**  
+ 
+
+If there are any questions regarding this privacy policy, you may contact us using the information below.  
+ 
+
+cnc3.co.tt
+
+4-10 Rodney Road  
+Chaguanas,
+
+Trinidad & Tobago
+
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d5b1bcb2bca1b4b995b2a0b4a7b1bcb4bbfbb6bafba1a1)
+
+868-225-4465
+
+Last Edited on 2018-01-23
