@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homemadebdsm.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120044337id_/http%3A//www.homemadebdsm.com/register.php%3Fppaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homemadebdsm.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523122141id_/http%3A//www.homemadebdsm.com/register.php%3Fppaction%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Statement - HOMEMADE BDSM
 
@@ -37,76 +37,76 @@ HomeMadeBDSM.com provides email support for users who purchase the software at o
 Find your Alternative playmate!   
 | 
 
-[ ](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=nataliarain)
+[ ](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=siswet19)
 
 HD
 
-[ nataliarain](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=nataliarain) 20
+[ siswet19](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=siswet19) 23
 
-  * Natalia Rain #dance #petite #hothits #dancenight
+  * Bra off at goal #lovense is on! Tip #500 for french kissing Goal reached : bra off #lovense #squirt #ohmibod
 
 
-  * 27 mins, 4580 viewers
+  * 25 mins, 15158 viewers
 
 
 
 | 
 
-[ ](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=andrewiulian)
+[ ](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=murmur_kati)
 
 HD
 
-[ andrewiulian](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=andrewiulian) 18
+[ murmur_kati](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=murmur_kati) 27
 
-  * Parent's bedroom - Anal 444tkns single tip #student #cum #lush #brunette #fuck #squirt #cum [Drain rate: 1 token every second]
+  * hot roll the dice 200 tk/neighbor asked to look after his daughter, I found out she a - Goal is : oil show and we panties off #lovense #ohmibod #interactivetoy #cum #squirt #hot #18 #natural #yang #blon
 
 
-  * 16 mins, 3490 viewers
+  * 33 mins, 7669 viewers
 
 
 
 | 
 
-[ ](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=butterybubblebutt)
+[ ](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=shackle_shot)
 
 HD
 
-[ butterybubblebutt](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=butterybubblebutt) 22
+[ shackle_shot](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=shackle_shot) 26
 
-  * 🍑 S N A P C H A T SALE! TIP 222! / Dick Ride @ every goal / CUM SHOW @ 7 goals! / tip 500 tokens to preorder the sexy vid with my sister! / VIP status on snap = 420
+  * SQUIRT SHOW STARTS AT GOAL. TIP 100 TO make it RAIN OR SHINE #lovense s at your service #hd #anal #squirt [4458 tokens remaining]
 
 
-  * 8 mins, 1817 viewers
+  * 13 mins, 4506 viewers
 
 
 
 | 
 
-[ ](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=saltycarpetsnake)
+[ ](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=wh4thefuck)
 
 HD
 
-[ saltycarpetsnake](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=saltycarpetsnake) 22
+[ wh4thefuck](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=wh4thefuck) 99
 
-  * CUMSHOT [559 tokens remaining]
+  * Sneaky, Naughty, outside!!!! #lickmegood #edgetime #hotmoans ! Lovense On if you want to give me a wet time. 66, 77,88 Fun Numbers//201-Oil BOOBS, 202 - Multi-Goal : Hello Perv!!)) #lovense #ohmibod #i
 
 
-  * 0 mins, 1710 viewers
+  * 37 mins, 4502 viewers
 
 
 
 | 
 
-[ ](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=cedarnpearl)
+[ ](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=sexycreolyta4u)
 
 HD
 
-[ cedarnpearl](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=cedarnpearl) 25
+[ sexycreolyta4u](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=sexycreolyta4u) 25
 
-  * AFTER SHOW: Please give a THUMBS UP if you enjoyed the show! Also follow here %26 on Twitter: @cedarnpearl.
+  * Make me HAPPY # lovense lush #pussy #ass #anal #torture me #make me cum - Multi-Goal : make me squirt #lovense
 
 
-  * 31 mins, 1823 viewers
+  * 22 mins, 4380 viewers
 
   
   
