@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the counterpath.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209235237id_/http%3A//www.counterpath.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the counterpath.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523063900id_/http%3A//www.counterpath.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CounterPath
 
-Last updated: August 18, 2016
+Last updated: May 18, 2018
 
 CounterPath Corporation (“CounterPath”) is committed to protecting the privacy of customers and users of our website, products and services. This Privacy Policy explains what personal data we collect from you and how we use it. This Privacy Policy pertains to our online collection of data from our web properties and to our collection of data from your use of our products or services. We encourage you to read the full policy below as by using our website, products or services, and submitting any personal information, you consent to the collection and use of this information by CounterPath.
 
@@ -44,26 +44,15 @@ CounterPath uses the data we collect to provide you with the services we offer a
 
 **Push notification.** To let you know of incoming calls, chats and other messages, our apps use the notification service on your device. For many devices, these services are provided by another company. To tell you who is calling, for example, or to give you the first few words of the new chat, our service has to tell the company providing the notification service so that they can provide the notification to you. The company providing the notification service on your device will use this information in accordance with their own terms and privacy policy. CounterPath is not responsible for the data collected by the company providing the notification service. If you don’t want to use the notification services with our applications, turn it off in the settings found in the application or your device.
 
-## Cookies & Similar Technologies
+## Cookies
 
-CounterPath uses cookies (small text files placed on your device) and similar technologies to provide our services and help collect data. The text in a cookie often consists of a string of numbers and letters that uniquely identifies your computer, but it can contain other information as well. We sometimes use other identifiers, such as the advertising ID in Windows, for similar purposes, and many of our websites and applications also contain web beacons or other similar technologies, as described below.
+CounterPath collects information related to your use of our website using cookies. Cookies are small files containing strings of text stored on your computer. CounterPath may use cookies to authenticate you as a user when you log in, track your session, deliver content specific to your preferences and interests, store the contents of your shopping cart, provide features related to payment and customer service, and provide other functions.
 
-**Sign-in and Authentication.** When you sign into a CounterPath site, we store a unique ID number, and the time you signed in, in an encrypted cookie on your device. This cookie allows you to move from page to page within the site without having to sign in again on each page.
-
-**Analytics.** In order to provide our services, we use cookies and other identifiers to gather usage and performance data. For example, we use cookies to count the number of unique visitors to a web page or service and to develop other statistics about the operations of our services.
-
-CounterPath does not use technology that recognizes browser “Do Not Track”’ signals or similar software mechanisms that block the collection of data related to your online activities over time and across third party websites. You can block cookies from your computer using the TRUSTe Consent Manager [here](http://preferences-mgr.truste.com/), or your web browser’s settings (see below). For more information on how to disable and manage cookies and tracking devices see: [www.ftc.gov/ftc/cookies.shtm](http://www.ftc.gov/ftc/cookies.shtm).
-
-  * **Microsoft Internet Explorer:** Click the gear icon to the right of the address bar and select “Internet Options”. Select the “Privacy” tab, and you can move the slider to “High” or “Block All Cookies”. In order to delete cookies, select the “General” tab, and under the “Browsing history” section, click “Delete…”. Make sure “Cookies” is selected, and click “Delete” to delete cookies. Click “OK” when you are finished making your changes.
-  * **Mozilla Firefox:** Click the “Firefox” menu on the upper-right corner of your browser and select “Options”. Select the “Privacy” tab, and under the “History” section, select “Never remember history” or “Use custom settings for history”. If you select “Use custom settings for history”, you can deselect “Accept third-party cookies” or “Accept cookies from sites”. In order to delete cookies, click “Show Cookies”, scroll to the particular cookies you would like to remove, and click “Remove Cookie”, or click “Remove All Cookies” to remove all cookies. If your history setting is set to “Never Remember history”, click “clear all current history”, make sure “Cookies” is selected, and click “Clear Now”. Click “OK” when you are finished making your changes.
-  * **Apple Safari:** Click the gear icon to the right of the address bar and click “Preferences…”. Select the “Privacy” tab, and under the “Block cookies” section, you can select “From third parties and advertisers” or “always”. In order to delete cookies, click “Details…”, scroll to the particular cookies you would like to remove, and click “Remove Cookie”, or click “Remove All” to remove all cookies.
-  * **Google Chrome:** Click the wrench icon to the right of the address bar and select “Settings”. Click “Show advanced settings…”, scroll down to the “Privacy” section, and click “Content settings”. Under the “Cookies section”, you can select “Block sites from setting any data” or “Block third-party cookies and site data” to prevent cookies from being set. In order to delete cookies, click “All cookies and site data”, scroll to the particular cookies you would like to remove, and click “x” to the right of the cookies, or click “Remove all” to remove all cookies. Click “OK” when you are finished making your changes.
-
-
+CounterPath retains such information for as long as reasonably required for business purposes or as reasonably required to comply with our legal obligations. If you would like to learn more about your privacy and how we handle cookies, please refer to our [Cookie Policy](https://go.counterpath.com/privacy/cookie-policy).
 
 ## Corrections/Complaints
 
-CounterPath shall honor email requests sent to [storehelp@counterpath.com](mailto:storehelp@counterpath.com) from customers to change their account information (i.e., name, address or billing information) or otherwise correct inaccurate information. CounterPath will gladly correct such information and customers are welcome to verify that the appropriate corrections have been made. In addition, if you believe that your personally identifiable information is being mishandled in light of this Privacy Policy, please immediately notify CounterPath by email at [storehelp@counterpath.com](mailto:storehelp@counterpath.com) so that we can address your concern.
+CounterPath shall honor email requests sent to [privacy@counterpath.com](mailto:privacy@counterpath.com) from customers to change their account information (i.e., name, address or billing information) or otherwise correct inaccurate information. CounterPath will gladly correct such information and customers are welcome to verify that the appropriate corrections have been made. In addition, if you believe that your personally identifiable information is being mishandled in light of this Privacy Policy, please immediately notify CounterPath by email at [privacy@counterpath.com](mailto:privacy@counterpath.com) so that we can address your concern.
 
 ## Security
 
@@ -73,6 +62,20 @@ We take great care and use the latest technologies to ensure the security and sa
 
 This website contains links to other web pages and websites. CounterPath is not responsible for the privacy practices or the content of such websites. You are encouraged to review the privacy policies of these other websites before registering for any products or services from that website.
 
+## Children
+
+Our website is directed to individuals who are the age of majority or older in their jurisdiction. We do not knowingly collect information from children under the age of 13. If you believe your child has provided information to this website, please contact using the information provided below.
+
+## General Data Protection Regulation (GDPR) for EU Residents
+
+For information on our policies specific to the GDPR, please see: <https://go.counterpath.com/privacy/gdpr>.
+
 ## Questions/Concerns
 
-If, after reading our Privacy Policy, you have questions or concerns about any of the statements herein, we welcome your feedback. You may contact our Customer Service Department at [storehelp@counterpath.com](mailto:storehelp@counterpath.com).
+If, after reading our Privacy Policy, you have questions or concerns about any of the statements herein, or would like to correct personal information, you may contact us at:
+
+Attention: Privacy Officer  
+CounterPath Corporation  
+300-505 Burrard Street  
+Vancouver, BC, Canada V7X 1M3  
+By e-mail: [privacy@counterpath.com](mailto:privacy@counterpath.com)
