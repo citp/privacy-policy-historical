@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tested.website privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912065029id_/https%3A//tested.website/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tested.website privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523124927id_/https%3A//testednet.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -50,4 +50,4 @@ We may update this privacy policy from time-to-time, particularly as technology 
 
 **Contacts**
 
-If you have any questions about this privacy policy or your personal data, please write to us by email to webmaster@tested.website or by post to MEDIA PARTNERS LTD, Elijas 17, Riga, Latvia, LV-1050.
+If you have any questions about this privacy policy or your personal data, please write to us by email to webmaster@testednet.com or by post to MEDIA PARTNERS LTD, Elijas 17, Riga, Latvia, LV-1050.
