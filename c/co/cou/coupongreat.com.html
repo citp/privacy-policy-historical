@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the coupongreat.com privacy policy that was archived on 2015-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206230600id_/http%3A//www.coupongreat.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coupongreat.com privacy policy that was archived on 2018-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180523095856id_/http%3A//www.coupongreat.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head>
 <title>CouponGreat.com - Privacy </title>
@@ -15,6 +15,7 @@
 <script type="text/javascript" src="/javascripts/categ_selection/categ_selection.js"></script>
 <script type="text/javascript" src="/javascripts/jquery-1.3.2.min.js"></script>
 <script type="text/javascript" src="/javascripts/ajax_SelectCity.js"></script>
+<link rel="stylesheet" type="text/css" href="/javascripts/fancybox/jquery.fancybox-1.3.4.css" media="screen">
 <!--[if IE]>
 <script type="text/javascript">
     
@@ -125,6 +126,7 @@ function get_by_class() {
 <script src="/javascripts/jquery/ui/minified/jquery.ui.core.min.js"></script>
 <script src="/javascripts/jquery/ui/minified/jquery.ui.position.min.js"></script>
 <script src="/javascripts/jquery/ui/minified/jquery.ui.widget.min.js"></script>
+<script type="text/javascript" src="/javascripts/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
 <link rel="stylesheet" href="/javascripts/jquery/themes/base/jquery.ui.all.css">
 <style>
 .ui-autocomplete-loading { background: #FFFFFF url('/templates/Core/DefaultAdmin/images/ui-anim_basic_16x16.gif') right center no-repeat; }
@@ -148,11 +150,11 @@ li.ui-menu-item { cursor: pointer; }
 </div>
 </form>
 <div class="userBar" style="margin-top:6px;">
-<a href="/login_register.php?return=" title="Log In to your account">My CashBack</a>
+<a href="https://www.coupongreat.com/login_register.php?return=" title="Log In to your account">My CashBack</a>
 |
-<a href="/login.php" title="Log In to your account">Login</a>
+<a href="https://www.coupongreat.com/login.php" title="Log In to your account">Login</a>
 |
-<a href="/profile.php?mode=register&amp;agreed=true" title="Register new user">Register</a>
+<a href="https://www.coupongreat.com/profile.php?mode=register&amp;agreed=true" title="Register new user">Register</a>
 <br><iframe src="/facebook/" scrolling="no" style="width:200px;height:40px;clear:both;border:none;"></iframe>
 </div>
 </div>
@@ -193,7 +195,9 @@ with (field)
 {
 //apos=value.indexOf("@");
 //dotpos=value.lastIndexOf(".");
-if ( ! field.value.match(/\w+@[a-zA-Z_]+?\.[a-zA-Z]{2,6}/)) {
+if ( ! field.value.match(/\w+@[a-zA-Z_]+?\.[a-zA-Z]{2,6}/)
+|| field.value.toLowerCase().indexOf( 'gmil.com') > -1
+|| field.value.toLowerCase().indexOf( 'hotmil.com') > -1) {
 alert('Please provide a valid email address');return false;
 } else {
 return true;
@@ -215,9 +219,6 @@ return false;
 <div class="boxMiddle">
 <ul class="boxPopCats">
 <li>
-<a href="/cashback_top_stores.php" title="Cash Back Stores"><font size="2">Cash Back Deals</font></a>			   
-</li>
-<li>
 <a href="/printable_coupons.php" title="Printable Coupons"><font size="2">Printable Coupons</font></a>
 </li>
 <li>
@@ -233,7 +234,13 @@ return false;
 <a href="/Major_Retailers/" title="Retail Coupons"><font size="2">Retail Coupons</font></a>
 </li>
 <li>
-<a href="/free_samples.php" title="Free Samples"><font size="2">Free Samples</font></a>
+<a href="/cashback_top_stores.php" title="Cash Back Stores"><font size="2">Top Cash Back Stores</font></a>			   
+</li>
+<li>
+<a href="/cashback_stores_mid.php" title="15+% Cash Back Stores"><font size="2">15+% Cash Back Stores</font></a>			   
+</li>
+<li>
+<a href="/cashback_stores_min.php" title="10+% Cash Back Stores"><font size="2">10+% Cash Back Stores</font></a>			   
 </li>
 <br>	
 <li>
@@ -276,6 +283,9 @@ return false;
 <a href="/Jewelry/" title="Jewelry"><font size="2">Jewelry</font></a>
 </li>			  
 <li>
+<a href="/Local/" title="Local"><font size="2">Local</font></a>
+</li>			  
+<li>
 <a href="/Major_Retailers/" title="Major Retailers"><font size="2">Major Retailers</font></a>
 </li>			  
 <li>
@@ -283,9 +293,6 @@ return false;
 </li>			  
 <li>
 <a href="/Office_Products/" title="Office Products"><font size="2">Office Products</font></a>
-</li>			  
-<li>
-<a href="/Pets/" title="Pets"><font size="2">Pets</font></a>
 </li>			  
 <li>
 <a href="/Services/" title="Photo"><font size="2">Photo</font></a>
@@ -314,8 +321,8 @@ return false;
 <div class="boxTopRight"></div>
 <div class="boxMiddle">
 <div class="boxSponsoredLast">
-<!-- cg_left_160X90 -->
-<ins class="adsbygoogle" style="display:inline-block;width:160px;height:90px" data-ad-client="ca-pub-7472938643799119" data-ad-slot="3803176016"></ins>
+<!-- cg_left_link_responsive -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7472938643799119" data-ad-slot="7038935041" data-ad-format="link"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
@@ -324,7 +331,7 @@ return false;
 <div class="boxBottom"></div>
 </div>
 </div>
-<div style="clear: both; height: 30px;"></div></div><div style="clear: both; height: 50px;"></div><div class="footer"><a href="/affiliate.php" title="Affiliates ">Affiliates</a>| <a href="/share_coupon_1.php" title="Submit coupon">Submit a Coupon</a>| <a href="/share_local_coupon.php" title="Submit local coupon ">Submit Local Coupon</a>| <a href="/contact.php" title="Contact">Contact us</a> | <a href="/support.php" title="Support">Customer Support</a> | <a href="/privacy.php" title="privacy">Privacy</a> | <a href="/termsandconditions.php" title="Terms &amp; Conditions">Terms &amp; Conditions</a>  | <a href="/unsubscribe.php" title="Unsubscribe Newsletter">Update Email Preference</a></div><div class="footer">While CouponGreat.com makes every effort to post correct information, we can make no guarantees about the accuracy of any coupons on this site. offers are subject to change without notice. Some exclusions may apply based upon merchant policies.<br>Copyright ©2015, CouponGreat.com</div>
+<div style="clear: both; height: 30px;"></div></div><div style="clear: both; height: 50px;"></div><div class="footer"><a href="/affiliate.php" title="Affiliates ">Affiliates</a>| <a href="/share_coupon_1.php" title="Submit coupon">Submit a Coupon</a>| <a href="/share_local_coupon.php" title="Submit local coupon ">Submit Local Coupon</a>| <a href="/contact.php" title="Contact">Contact us</a> | <a href="/support.php" title="Support">Customer Support</a> | <a href="/privacy.php" title="privacy">Privacy</a> | <a href="/termsandconditions.php" title="Terms &amp; Conditions">Terms &amp; Conditions</a>  | <a href="/unsubscribe.php" title="Unsubscribe Newsletter">Update Email Preference</a></div><div class="footer">While CouponGreat.com makes every effort to post correct information, we can make no guarantees about the accuracy of any coupons on this site. offers are subject to change without notice. Some exclusions may apply based upon merchant policies.<br>Copyright ©2018, CouponGreat.com</div>
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -333,4 +340,4 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 ga('create', 'UA-8919694-1', 'auto');
 ga('send', 'pageview');
 </script>
-</div></body></html>
+<!-- Google Code for Remarketing Tag --><!--------------------------------------------------Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup---------------------------------------------------><script type="text/javascript">/* <![CDATA[ */var google_conversion_id = 1036728089;var google_custom_params = window.google_tag_params;var google_remarketing_only = true;/* ]]> */</script><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script><noscript><div style="display:inline;"><img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1036728089/?guid=ON&amp;script=0"/></div></noscript></div></body></html>
