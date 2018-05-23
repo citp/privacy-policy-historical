@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prudentialproperties.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212092705id_/http%3A//www.prudentialproperties.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prudentialproperties.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523071719id_/http%3A//www.prudentialproperties.com/privacypolicy.html) for the most accurate reproduction.*
 
 # None
 
