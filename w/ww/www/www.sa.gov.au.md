@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the www.sa.gov.au privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121192226id_/http%3A//www.sa.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.sa.gov.au privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523115356id_/http%3A//www.sa.gov.au/privacy) for the most accurate reproduction.*
 
-# sa.gov.au - Privacy
+# SA.GOV.AU - Privacy
 
 This statement sets out this site's policies relating to the privacy and security of your personal information and security of your other information while using SA.GOV.AU. If you were directed to this page from another website, this statement does not apply to content on that site.
 
