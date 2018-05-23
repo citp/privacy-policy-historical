@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the javbraze.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122170533id_/http%3A//javbraze.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javbraze.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523155410id_/http%3A//javbraze.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
