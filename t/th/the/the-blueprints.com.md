@@ -1,29 +1,79 @@
-> *The following text is extracted and transformed from the the-blueprints.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612223355id_/https%3A//www.the-blueprints.com/information/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-blueprints.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523070219id_/https%3A//www.the-blueprints.com/information/privacystatement) for the most accurate reproduction.*
 
-# The-Blueprints.com - Privacy Policy
+# Privacy Policy
 
 This page is only available in english. 
 
-**Privacy**  
-We take your privacy very seriously and will never sell, share, or otherwise disclose any of your personal information to anyone. Information that we collect is used only to enhance your experience on our web site and for troubleshooting purposes. 
+### Introduction
 
-This site may contain links to other sites. The-Blueprints.com is not responsible for the privacy practices or the content of such Web sites. 
+This Privacy Statement explains how The-Blueprints.com (The-Blueprints.com is owned, built, and maintained by EVOlution Graphics B.V., located in Hilversum, The Netherlands.) processes personal data and for which purpose this data is processed. The Privacy Statement can be consulted at [www.the-blueprints.com](https://www.the-blueprints.com/) and will be send to you on request. 
 
-**Cookies**  
-If you create a Member Account, The-Blueprints.com uses cookies only to store your Member session ID. This Member session ID is a string of random characters and contains none of your personal information. We use this so we can allow you to come back to The-Blueprints.com without having to login each and every time. Once you login we store this cookie on your system for a few days. By selecting Logout from the navigation bar at the top of our site you will have removed the cookie completely from your system, or you can let it expire on its own after a few days. 
+### Input personal data by Users
 
-Unless otherwise stated, only your visit to The-Blueprints.com will be recorded, but not your personally identifiable information, or information that is about you and identifies you. Using of Cookies* (if any) in any part of this web site will not be directed for collecting your personally identifiable information. 
+As a user (“User”) of the services of The-Blueprints.com (the "Website"), you will have to enter personal details, such as your name, date of birth and e-mail address in order to register a user account and to place orders or to upload your blueprints and/or other content. After an account is created, credits may be purchased in order to purchase products on the Website. To finalize the user account, the User enters its bank and payment details in order Website’s store credit (“Credits”). The number of Credits can be found on the Credit balance in the User account. 
 
-You may choose not to accept Cookies by resetting the relevant Internet options or the properties of your computer system's browsers. However, by doing so, you may not be able to optimize the usage of, or enable, certain functions made available in our web sites. 
+### Purposes of data processing
 
-**Distribution of Information**  
-We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. 
+EVOlution Graphics processes personal data solely for Website related and only for a determinable amount of purposes. Personal data will therefore not be used for any other purposes than those mentioned hereafter. The main objective of the Website is to collect and offer Users a wide range of blueprints and vector drawings (“Products”) of as many different subjects as possible. The data you provide will be used for the following purposes: 
 
-**Security**  
-Our intent is to provide privacy, integrity, and authentication in regards to our Internet communication. The security measures we have taken are intended to secure and encrypt your data, so that a third party cannot capture, read or access the information while it is in transit between Your computer and our system. 
+### Creating a User account
 
-Specifically, We use standards-based Internet protocols to safeguard the information You provide during the purchase, payment and most information submittal processes. We use a secure server implementing the Secure Sockets Layer (SSL) protocol to interact with You when you provide personal information during the purchase and payment processes. These processes use 256 bit encryption. 
+To be able to use our services you need a User account. In order to register such an account we need your e-mail address in order to send a verification e-mail and a User ID in order to keep track of your purchases and Credit balance. 
 
-We reserve the right to make changes to this policy. Any changes to this policy will be posted. 
+### Credits
 
-© 2000 - 2017 EVOlution Graphics B.V., Amsterdam, The Netherlands 
+We keep your personal details, payment details, User ID and order numbers in order to administer every purchase you make, and to keep track of your current Credit balance. 
+
+### Legal confirmation
+
+We gather your data, such as your name and e-mail address in order to successfully complete every purchase of Credits, or purchases using Credits and to be able to send a confirmation e-mail concerning the purchases you make. We need your date of birth in order to verify that you are at least 16 years old and thus legally able to accept this privacy statement and to enter into agreements with us. 
+
+### Uploading your own blueprints
+
+We need your name and e-mail address when you upload your own blueprints to the website in order to verify you as the uploader of the image, and to be able to send you a confirmation via e-mail. 
+
+### Improvement of the Website
+
+In order to improve our Website and to offer you the best quality of service that we are able to provide, we collect your usage data and personal details. 
+
+### Consent
+
+EVOlution Graphics takes the utmost care in retaining your personal data. By registering your account, ordering a Product or uploading content, you give your explicit consent that we are allowed to process the data you have provided in accordance with this Privacy Statement. Users that have not yet reached the age of 16 will need their parents’ or guardians’ permission. Consent for the processing of your data is temporary and may be withdrawn by you at any time. By withdrawal of consent, Users will not be able to use the Website. 
+
+### Retaining data for use and processing by provider
+
+EVOlution Graphics retains the entered personal data of the User for use in accordance with this Privacy Statement. This data will be retained on the hosting provider of the Website ("Provider"). The Provider controls all data traffic regarding the Website such as, but not limited to, storing Website offered products and services, User accounts and saving data. The Provider undertakes sufficient technical and organizational safety measures regarding the process of personal data in order to prevent data loss or unlawful use of data. The Provider undertakes that said safety measures are compliant to a level that is not unreasonable, with regard to the state of the art, costs and the level of personal data that is processed. In order to make sure that the Provider lives up to these standards, EVOlution Graphics entered into a processing agreement with the Provider. 
+
+### Time limits on retaining data
+
+EVOlution Graphics will not retain any data longer than necessary and only in compliance with the Privacy Statement and in no event will personal data be retained after deletion of the User account. If no longer necessary, the data will be deleted. Deleting your User account will result in deletion of all data that has already been retained. 
+
+### Insight into User data
+
+Your personal data will be available at all times for review and/or alterations on your personal User account page on the Website. Changes to (incorrectly entered) personal details can be made by you in your account details page on the Website. Please note that no purchases can be made if not all personal details are correct. Furthermore, it is possible for you to request, per e-mail, information regarding processing your personal data. By deleting your User account on the Website, all stored personal data will be deleted. 
+
+### Cookies
+
+In addition to personal details, The-Blueprints.com also collects data concerning your interaction with our website. This may include, but is not limited to, your IP address, website surfing behavior, clicking behavior, location details, cookie ID and contact history with our staff. These Cookies are only used to store your Member session ID. This Member session ID is a string of random characters and contains none of your personal data. Use of Cookies is subject to the Cookies policy of the Website and can be consulted on [www.the-blueprints.com/information/cookies/](https://www.the-blueprints.com/information/cookies/) and will be send to you on request. 
+
+### Distribution of data to third parties
+
+EVOlution Graphics will not share your personal data with third parties for commercial, charitable or idealistic purposes. Personal data will only be shared in accordance with this Privacy Statement and not unless you have provided specific permission to do so. 
+
+### Distribution of data to the government
+
+EVOlution Graphics will only distribute your personal data to competent criminal detection authorities or government agencies when this is obligatory under applicable law or by order of a government agency, and only to the extent that such a distribution is strictly necessary for the purposes of preventing fraud or criminal activity. 
+
+### Amendments
+
+EVOlution Graphics reserves the right to amend this Privacy Statement. Any changes to this policy will be posted on the Website. We therefore advise you to regularly consult the Privacy Statement. In case considerable amendments to this Privacy Statement are made, which can be of influence on the processing of personal data, EVOlution Graphics will inform its Users beforehand. 
+
+### Records of processing activities
+
+In accordance with applicable regulation, EVOlution Graphics holds a register of the processing activities for which it is responsible. This register does not include detailed information regarding the User. 
+
+### Questions
+
+If you have any questions or complaints regarding the processing of your personal data and/or this Privacy Statement and use of your personal data, you are able to contact us at: <https://www.the-blueprints.com/information/contact/>. We aim to respond to your questions within four weeks. We take the utmost care in protecting and processing your personal data. If, however, you would like to leave a formal complaint, EVOlution Graphics refers you to the Dutch DPA. 
+
+**2000 - 2018 EVOlution Graphics B.V., Hilversum, The Netherlands**
