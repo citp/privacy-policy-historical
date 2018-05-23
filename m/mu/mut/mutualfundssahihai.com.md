@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mutualfundssahihai.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108124850id_/http%3A//www.mutualfundssahihai.com/en/terms-of-use-and-privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mutualfundssahihai.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523105408id_/http%3A//mutualfundssahihai.com/en/terms-of-use-and-privacy-notice) for the most accurate reproduction.*
 
 # Terms of Use & Privacy Notice
 
