@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fraghero.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120032745id_/http%3A//fraghero.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fraghero.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523093538id_/http%3A//fraghero.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
