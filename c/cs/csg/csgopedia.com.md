@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csgopedia.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231120446id_/http%3A//csgopedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csgopedia.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523100516id_/http%3A//csgopedia.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - csgopedia.com
 
