@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kimberly-clark.com privacy policy that was archived on 2017-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171204011819id_/http%3A//www.kimberly-clark.com/privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kimberly-clark.com privacy policy that was archived on 2018-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180524011057id_/http%3A//www.kimberly-clark.com/privacypolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head><title>
 	Kimberly-Clark | Privacy Policy
@@ -39,8 +39,14 @@
 <body class="fullwidth">
     <div id="wrapper">
         
+
+
+
+<script type="text/javascript" src="/js/jquery.validate.js"></script>
 <script language="javascript">
     $(document).ready(function () {
+	
+	
 		
 		var URL=window.location.href;
 		var res = URL.split("/");
@@ -54,13 +60,145 @@
 			$('#continentlist').hide();
 			$('#tab0').hide();
 		}
+		if(res[res.length-1]=="contact-us.aspx"){
+			$('#continentlist').hide();
+			$('#nav').hide();
+		}
+		
+		collapse();
+		
+		//ProcureToPay tab contents
+		if(res[res.length-1]=="procure_to_pay.aspx"){
+				$( "<div id=\"ProcureToPayhiddenPara1\"><p>The use of a Purchase Order (PO) is a standard Kimberly-Clark policy and required method of communicating our commitment to purchase materials and services. To help us meet our payment commitments, we provide suppliers with the following PO Requirement guidelines.</p><p>Our P2P Supplier Portal enables e-document exchange of POs, Purchase Order Acknowledgement (POA), Advanced Shipping Notices (ASN) and invoices, with 24/7 visibility into your payment status through secure portal-based technology.</p></div>" ).insertBefore( "#tab0" );
+				procureToPaytab1Val=1;
+				$('#ProcureToPayhiddenPara2').remove();
+				$('#ProcureToPayhiddenPara3').remove();
+				$('#ProcureToPayhiddenPara4').remove();
+				
+				$('#ProcureToPayhiddenPara4').remove();
+		}
+		$('ol li:eq(0)').click(function (){
+			if(res[res.length-1]=="procure_to_pay.aspx" && procureToPaytab1Val==0){
+				$( "<div id=\"ProcureToPayhiddenPara1\"><p>The use of a Purchase Order (PO) is a standard Kimberly-Clark policy and required method of communicating our commitment to purchase materials and services. To help us meet our payment commitments, we provide suppliers with the following PO Requirement guidelines.</p><p>Our P2P Supplier Portal enables e-document exchange of POs, Purchase Order Acknowledgement (POA), Advanced Shipping Notices (ASN) and invoices, with 24/7 visibility into your payment status through secure portal-based technology.</p></div>" ).insertBefore( "#tab0" );
+				$('#ProcureToPayhiddenPara2').remove();
+				$('#ProcureToPayhiddenPara3').remove();
+				$('#ProcureToPayhiddenPara4').remove();
+				procureToPaytab1Val=1;
+				procureToPaytab2Val=0;
+				procureToPaytab3Val=0;
+				procureToPaytab4Val=0;
+			}
+		});
+		$('ol li:eq(1)').click(function (){
+			if(res[res.length-1]=="procure_to_pay.aspx" && procureToPaytab2Val==0){
+				$( "<div id=\"ProcureToPayhiddenPara2\"><p>To ensure prompt payment processing, suppliers should take care in submitting invoices via the correct method. Electronic invoicing (e-Invoicing) through EDI or the P2P Supplier Portal are the methods of invoice receipt for Kimberly-Clark, unless otherwise dictated by regulatory requirements.</p><p>All invoices must include a valid Kimberly-Clark PO number, as failure to include a valid PO number on invoices will delay payment processing.  Do not mail, email or fax additional copies of an invoice. Unnecessary invoice copies will delay payment.</p><p>Suppliers are required to follow our Invoice Requirements below, as well as any region specific invoice submission requirements.</p></div>" ).insertBefore( "#tab1" );
+				$('#ProcureToPayhiddenPara1').remove();
+				$('#ProcureToPayhiddenPara3').remove();
+				$('#ProcureToPayhiddenPara4').remove();
+				procureToPaytab1Val=0;
+				procureToPaytab2Val=1;
+				procureToPaytab3Val=0;
+				procureToPaytab4Val=0;
+			}
+		});
+		$('ol li:eq(2)').click(function (){
+			if(res[res.length-1]=="procure_to_pay.aspx" && procureToPaytab3Val==0){
+				$( "<div id=\"ProcureToPayhiddenPara3\"><p>Kimberly-Clark is focused on safe and secure automated payment methods. Through the Procure-to-Pay Supplier Portal, enrolled suppliers have real-time visibility to the status of their payments.  Our globally approved payment options include electronic payments or card payments.</p></div>" ).insertBefore( "#tab2" );
+				$('#ProcureToPayhiddenPara1').remove();
+				$('#ProcureToPayhiddenPara2').remove();
+				$('#ProcureToPayhiddenPara4').remove();
+				procureToPaytab1Val=0;
+				procureToPaytab2Val=0;
+				procureToPaytab3Val=1;
+				procureToPaytab4Val=0;
+			}
+		});
+		$('ol li:eq(3)').click(function (){
+			if(res[res.length-1]=="procure_to_pay.aspx" && procureToPaytab4Val==0){
+				$( "<div id=\"ProcureToPayhiddenPara4\"><p>Striving to continuously seek solutions that provide better ways to work with our valued suppliers, we now do business together through the Kimberly-Clark Procure-to-Pay (P2P) Supplier Portal.</p></div>" ).insertBefore( "#tab3" );
+				$('#ProcureToPayhiddenPara1').remove();
+				$('#ProcureToPayhiddenPara2').remove();
+				$('#ProcureToPayhiddenPara3').remove();
+				procureToPaytab1Val=0;
+				procureToPaytab2Val=0;
+				procureToPaytab3Val=0;
+				procureToPaytab4Val=1;
+			}
+		});
+		
+		$('#SupplierRecognitionLogo').attr('src', '/images/Supplier Recognition image.png');
+	//Supplier Page Images
+	$('#SupplyChainAudit').attr('src', '/images/Responsible Supply Chain_Social Compl Audit Guide image.png');
+	$('#CollaborationPortalLogin').attr('src', '/images/v3 Sustainability Collaboration Portal_LOGIN ICON.png');
+	$('#SustainabilityStrategyWheel').attr('src', '/images/Sustainability 2022 Strategy wheel.png');
+	$('#COCWheel').attr('src', '/images/CoC Wheel Simple.png');
+	$('#SupplierCollaborationPortal').attr('src', '/images/Supplier Collaboration Portal_TAKE A TOUR icon.png');
+	$('#SupplierCollaborationPortalLogin').attr('src', '/images/v3 Supplier Collaboration Portal_LOGIN ICON.png');
+	
+	//ProcureToPay images
+	$('#supplierPortalComputer').attr('src', '/images/P2P Supplier Portal computer graphic.png');
+	$('#P2PSupplierPoratlLogin').attr('src', '/images/v3 ProcureToPay Portal_LOGIN ICON.png');
+	$('#P2PSupplierPoratlLogin2').attr('src', '/images/v3 P2P Portal_TAKE A LOOK icon.png');
+	$('#NorthAmericabtn').attr('src', '/images/North America_region specific button.png');
+	$('#EuroMidEastAfrbtn').attr('src', '/images/EMEA_region specific button.png');
+	$('#LatinAmericabtn').attr('src', '/images/Latin America_region specific button.png');
+	$('#APACbtn').attr('src', '/images/APAC_region specific button.png');
+	$('#EFTPaymentsNA').attr('src', '/images/North America_region specific button.png');
+	
+	//ProcureToPay links
+	$("#NorthAmericabtnPDF").attr("href", "http://www.cms.kimberly-clark.com/UmbracoImages/UmbracoFileMedia/SUPPLIERLINK%20Invoicing%20Requirements%20-%20NA_umbracoFile.pdf");
+	$("#EuroMidEastAfrbtnPDF").attr("href", "http://www.cms.kimberly-clark.com/UmbracoImages/UmbracoFileMedia/SUPPLIERLINK%20Invoicing%20Requirements%20-%20EMEA%20FINAL_umbracoFile.pdf");
+	$("#LatinAmericabtnPDF").attr("href", "http://www.cms.kimberly-clark.com/UmbracoImages/UmbracoFileMedia/SUPPLIERLINK%20invoicing%20requirements%20LAO%20ENGLISH%20and%20SPANISH_umbracoFile.pdf");
+	$("#APACbtnPDF").attr("href", "http://www.cms.kimberly-clark.com/UmbracoImages/UmbracoFileMedia/SUPPLIERLINK%20Invoicing%20Requirements%20-%20APAC%20FINAL_umbracoFile.pdf");
+	$("#P2PProcurementPolicy").attr("href", "http://www.cms.kimberly-clark.com/umbracoimages/UmbracoFileMedia/P2P%20Supplier%20Portal%20Procurement%20Policy_umbracoFile.pdf");
+	$("#FATCAfaq").attr("href", "http://www.cms.kimberly-clark.com/umbracoimages/UmbracoFileMedia/W-8%20FATCA%20Frequently%20Asked%20Questions_umbracoFile.pdf");
+	$("#NorthAmericaEFTPaymentsPDF").attr("href", "http://www.cms.kimberly-clark.com/umbracoimages/UmbracoFileMedia/North%20America%20Region%20%20Specific%20%20PAYMENT%20Receipt%20info_umbracoFile.pdf");
+	
+	//Supplier Requirements 
+	$("#SupReqNDAForm").attr("href", "http://www.kimberly-clark.com/disclosureagreements/ndasubmissionform.aspx");
+	$("#SupReqSupplierStewardship").attr("href", "http://www.cms.kimberly-clark.com/umbracoimages/UmbracoFileMedia/SuppliersStewardshipStandards_umbracoFile.pdf");
+	$("#SupReqSupplierGiftsnEntertainment").attr("href", "http://www.cms.kimberly-clark.com/umbracoimages/UmbracoFileMedia/SupplierGifts_umbracoFile.pdf");
+	$("#supplierSocialComplianceStandard").attr("href", "http://www.cms.kimberly-clark.com/umbracoimages/UmbracoFileMedia/Supplier%20Social%20Compliance%20Standards%20Final%20-%202014_English_umbracoFile.pdf");
+	$("#generalTermsAndConditions").attr("href", "http://www.tc.kimberly-clark.com/KCTC0714.PDF");
+	$("#SuppReqp2pProcurementPolicy").attr("href", "http://www.cms.kimberly-clark.com/umbracoimages/UmbracoFileMedia/P2P%20Supplier%20Portal%20Procurement%20Policy_umbracoFile.pdf");
+	$("#ProdSafetyAgreement").attr("href", "http://www.cms.kimberly-clark.com/umbracoimages/UmbracoFileMedia/Template%20D%20-%20Product%20Safety%20NDA_Rev.%202017-03-27_umbracoFile.pdf");
+	$("#CMRTdoc").attr("href", "http://www.conflictfreesourcing.org/conflict-minerals-reporting-template/");
+	$("#AntiCorruptionDoc").attr("href", "http://www.kcsupplierlink.com/taulia/anti_corruption.pdf");
+	$("#SupReqNAPDF").attr("href", "http://www.cms.kimberly-clark.com/UmbracoImages/UmbracoFileMedia/NA%20Supplier%20Requirements%20List_umbracoFile.pdf");
+	$("#SupReqSupplierGiftsnExpectations").attr("href", "http://www.cms.kimberly-clark.com/umbracoimages/UmbracoFileMedia/SupplierGifts_umbracoFile.pdf");
+	
+	
+	
+	//Supplier Requirements images
+	$('#SupReqNAButton').attr('src', '/images/North America Specific Requirements_hyperlink icon.png');
+	
+	
+	
+	
+	//Responsible Supply Chain
+	$("#sustainability2022Link").attr("href", "https://www.sustainability2022.com/")
+	
+	//HyperLinks Responsible Supply chain with tab 2 selection
+	if(res[res.length-1]=="supplier_requirements.aspx?tab=2"){
+		$('ol li:eq(0) a').removeClass('sel');
+		$('ol li:eq(1) a').addClass('sel');
+		$("#tab0").css('display','none');
+		$("#tab1").css('display','block');
+	}
 	//        Suppliers Page links
         var qualityPDF = document.getElementById('QualityPDF');
+		if(qualityPDF){
         qualityPDF.href = "http://www.cms.kimberly-clark.com/umbracoimages/UmbracoFileMedia/Quality_policy_umbracoFile.pdf"
+		}
         var suplierRequirementsPDF = document.getElementById('SupplierRequirementsPDF');
+		if(suplierRequirementsPDF){
         suplierRequirementsPDF.href = "http://www.cms.kimberly-clark.com/umbracoimages/UmbracoFileMedia/Product%20Safety%20Policies_umbracoFile.pdf"
+		}
+		
         var fiberProcurement = document.getElementById('FiberProcurementPDF');
+		if(fiberProcurement){
         fiberProcurement.href = "http://www.cms.kimberly-clark.com/umbracoimages/UmbracoFileMedia/Fiber_Procurement_Policy_umbracoFile.pdf"
+		}
 		
         $("#navtop li").click(function () {
             var s = s_gi(s_account);
@@ -72,13 +210,16 @@
         });
 
         var a = document.getElementById('pdftoload');
+		if(a){
         a.href = "http://www.cms.kimberly-clark.com/umbracoimages/UmbracoFileMedia/2017%20KMB%20Fact%20Sheet_umbracoFile.pdf"
-        var b = document.getElementById('investorPresentation');
-        b.href = "http://www.cms.kimberly-clark.com/umbracoimages/UmbracoFileMedia/2017%20KMB%20Presentation_umbracoFile.pdf"
-        var c = document.getElementById('nonGaapPDF');
-        c.href = "http://www.cms.kimberly-clark.com/umbracoimages/UmbracoFileMedia/February%202017%20Non-GAAP%20Narrative_umbracoFile.pdf"
-        var d = document.getElementById('annualReport');
-        d.href = "http://www.kimberly-clark.com/investors/financial_information/annualreports.aspx"
+		}
+        var b = document.getElementById('investorPresentation');if(b){
+        b.href = "http://www.cms.kimberly-clark.com/umbracoimages/UmbracoFileMedia/2017%20KMB%20Presentation_umbracoFile.pdf"}
+		
+        var c = document.getElementById('nonGaapPDF');if(c){
+        c.href = "http://www.cms.kimberly-clark.com/umbracoimages/UmbracoFileMedia/February%202017%20Non-GAAP%20Narrative_umbracoFile.pdf"}
+        var d = document.getElementById('annualReport');if(d){
+        d.href = "http://www.kimberly-clark.com/investors/financial_information/annualreports.aspx"}
 
 
         $('#navtop li a[href*="kimberly-clark.com/sustainability"]').attr('target', '_blank');
@@ -91,9 +232,20 @@
 		s.tl(this,'o','Sustainability-Tab');
 	});
 	
+	
 	 
     });
 	
+	function collapse(){
+	var loc = window.location.href;
+		if((loc.indexOf('supplier_standards_and_requirements.aspx')>0) || (loc.indexOf('responsible_supply_chain.aspx') > 0) || (loc.indexOf('supplier_collaboration.aspx') >0)
+		|| (loc.indexOf('procure_to_pay.aspx') > 0 )){
+			$('#tab0 > h3:first').hide();
+			$('#tab1 > h3:first').hide();
+			$('#tab2 > h3:first').hide();
+			$('#tab3 > h3:first').hide();
+		}
+	}	
 </script>
 <script language="javascript" type="text/javascript">
     // for print option 
@@ -128,7 +280,7 @@
 	</a>
 	<div id="stock">
 <div align="right">
-
+<!--<a href ="unsubscribe.aspx" style="font-size:16px;font-weight:bold;color:red;" id="unsubscribe"><u>Unsubscribe Brands</u></a>-->
 	<a href="https://www.facebook.com/KimberlyClarkCorp" rel="nofollow" onclick="dcsMultiTrack('DCS.dcsuri','http://www.facebook.com/pages/Kimberly-Clark-Corporation-United-States/110674865650599','WT.ti','Outbound','WT.z_ll','Footer','WT.z_ln','Facebook','WT.dl','40')" alt="Facebook" target="_blank" title="Facebook"> 
     <img src="http://www.kimberly-clark.com/images/facebook_logo.png"></a>
 	<a href="https://twitter.com/KCCorp" rel="nofollow" onclick="dcsMultiTrack('DCS.dcsuri','https://twitter.com/#!/KCCorp','WT.ti','Outbound','WT.z_ll','Footer','WT.z_ln','Twitter','WT.dl','40');" alt="Twitter" target="_blank" title="Twitter"> 
@@ -143,13 +295,13 @@
 	    NYSE - 
 	    
 	            KMB&nbsp;
-	            120.510&nbsp;
-	            0.750
+	            104.550&nbsp;
+	            -0.230
 	             | 
 	        
 	            SPIC&nbsp;
-	            2642.220&nbsp;
-	            -5.360
+	            2733.290&nbsp;
+	            8.850
 	            
 	        
 	   
@@ -190,10 +342,15 @@
 </div>
 
         <form name="aspnetForm" method="post" action="/privacypolicy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="AZrX96n2prZhX2jH0KXIc5o9RQtdWcX1VZGhZYIk7wVegXnVvQketszwpe5Nk5XFMS0mEMQJSBfsLnp2z0YAo+WSJIU=">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="GavPffBEFSPWKQ7Yb0TpX224n9x1i0JchTWs3bus9kdO/hgnaGRwB8HKpWaDMbLgdQQtbfjOsyoT93Z+lJh8L3JZBDI=">
+</div>
 
-<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="B2605D56">
-<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="">
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="B2605D56">
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="">
+</div>
         <div id="main">
             <div id="container">
                 <div id="nav">
@@ -216,7 +373,7 @@ time, so please check in occasionally. Regulations enacted in April
 children under 13 years of age greater privacy protection online.
 Please see our policy under "Children" below.</p>
 
-<p><strong>Our Policy</strong></p>
+<p style="font-weight: bold;">Our Policy</p>
 
 <p>At our site, we don't collect personally identifiable
 information from you unless you provide it to us voluntarily and
@@ -244,7 +401,21 @@ entry electronically in some cases. If that occurs, we will use the
 information you provide for the purpose of conducting the promotion
 (i.e., to contact you if you're a winner).</p>
 
-<p><strong>Children</strong></p>
+<p style="font-weight: bold;">Reporting a Privacy Concern</p>
+
+<p>Your data and privacy are a priority for Kimberly-Clark. If you
+believe that your personal information is at risk as a result of
+your relationship with us, please reach out to us via the <a href="http://www.kimberly-clark.com/contact-us.aspx" target="_blank">Contact Us</a> form with a summary of the
+suspicious activity. Please provide any relevant details to help us
+investigate, including email addresses, domain names or IP
+addresses. Please note that the information you submit may not be
+treated as private, confidential, or otherwise protected from
+disclosure. Submitting information on potential vulnerabilities
+does not create any rights on behalf of the submitting party or
+obligations on the behalf of Kimberly-Clark. Kimberly-Clark can use
+the information at its discretion.</p>
+
+<p style="font-weight: bold;">Children</p>
 
 <p>Children's privacy is of primary concern to us, and our Policy
 and practices reflect applicable laws and regulations on children's
@@ -253,7 +424,7 @@ children under 13 years of age. Any communication we get that is
 identified as being from a child under 13 will not be kept by
 Kimberly-Clark.</p>
 
-<p><strong>Cookies</strong></p>
+<p style="font-weight: bold;">Cookies</p>
 
 <p>Like many companies, we sometimes use "cookie" technology on our
 web site. These cookies are stored on your computer by your
@@ -265,15 +436,15 @@ from your computer. We do use the cookie to help us identify site
 features in which you have the greatest interest, so that we can
 provide more of what you may want.</p>
 
-<p><strong>Contact Us</strong></p>
+<p style="font-weight: bold;">Contact Us</p>
 
 <p>If you have any questions about our Privacy Policy, you can
 contact us via e-mail or phone us at 1-888-525-8388</p>
 
 <p>For postal mail, please write to us at:<br>
-Kimberly-Clark Corporation<br>
-P.O. Box 2020<br>
-Neenah, WI 54957-2020</p>
+ Kimberly-Clark Corporation<br>
+ P.O. Box 2020<br>
+ Neenah, WI 54957-2020</p>
 			</div>
 		</div>
 	</div>
@@ -282,6 +453,14 @@ Neenah, WI 54957-2020</p>
         </div>
         </form>
         
+
+<script src="/js/iframeresizer.js"></script>
+<script>
+    
+    iFrameResize(
+        { autoResize: true, enablePublicMethods: true, heightCalculationMethod: 'lowestElement', log: true });
+
+</script>
 <div id="footer">
     
             <div>
@@ -314,9 +493,6 @@ Neenah, WI 54957-2020</p>
                         
                             <li><a href="http://investor.kimberly-clark.com/stockquote.cfm">
                                 Stock Information</a></li>
-                        
-                            <li><a href="http://www.kimberly-clark.com/investors/investor_resources/investor_contacts_old.aspx">
-                                Investor Contacts Old</a></li>
                         
                             <li><a href="http://www.kimberly-clark.com/investors/investor_resources/investor_contacts.aspx">
                                 Investor Contacts</a></li>
@@ -371,7 +547,7 @@ Neenah, WI 54957-2020</p>
     </div>
 </div>
 <div id="subFooter">
-    © 2001-2017
+    © 2001-2018
     KCWW. All Rights Reserved. EOE |
     
             <a href="http://www.kimberly-clark.com/termsofuse.aspx">
