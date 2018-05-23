@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyundai.co.za privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120044320id_/http%3A//www.hyundai.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyundai.co.za privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523122257id_/http%3A//www.hyundai.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hyundai South Africa
 
