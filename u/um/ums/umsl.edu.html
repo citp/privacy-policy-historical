@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the umsl.edu privacy policy that was archived on 2017-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171122181732id_/https%3A//www.umsl.edu/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the umsl.edu privacy policy that was archived on 2018-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180523165115id_/https%3A//www.umsl.edu/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" amp="" lang="en"><head>
 		<link href="//www.umsl.edu/files/images/apple-touch-icon-57x57.png" rel="apple-touch-icon" sizes="57x57">
@@ -34,8 +34,9 @@
 		
 		
 		
-    <link href="//www.umsl.edu/files/css/redesign/bootstrap-secondary.css" rel="stylesheet" type="text/css">
+	<link href="//www.umsl.edu/umsl-sample-site/files/css/bootstrap-secondary.css" rel="stylesheet" type="text/css">
 	<link href="//www.umsl.edu/files/css/redesign/umsl-main-secondary1.css" rel="stylesheet" type="text/css">
+	<link href="//www.umsl.edu/umsl-sample-site/files/css/extra.css" rel="stylesheet" type="text/css">
 	<link href="//blueimp.github.io/Gallery/css/blueimp-gallery.min.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
 	<!-- IE8 MEDIA QUERY FIXING SCRIPT -->
@@ -53,8 +54,7 @@
         ga('send', 'pageview');
     </script>
 
-		
-	</head>
+	<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 	<body>
 		<a class="screen-reader-shortcut" href="#main-content" id="main-content" role="main">Skip to main content</a>
 		<!-- HEADER -->
@@ -66,7 +66,7 @@
                 <a class="1" href="current/index.html">Current Students</a>
                     <a class="2" href="facstaff/index.html">Faculty &amp; Staff</a>
                         <a class="3" href="https://www.umsl.edu/degrees/">Future Students</a>
-                        <a class="4" href="http://www.umslalumni.org/s/260/alumni/start.aspx?gid=1001&amp;pgid=61">Alumni</a>
+                        <a class="4" href="https://www.umslalumni.org/s/260/alumni/start.aspx?gid=1001&amp;pgid=61">Alumni</a>
     
 					</div>
 					<div class="col-md-5">
@@ -115,31 +115,42 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-6 col-md-5">
-    <div class="logo-container clearfix">
-        <a href="https://www.umsl.edu">
-            <div class="logo">
-                <img alt="UMSL logo" onerror="this.src=/files/images/redesign/secondary-logo-header.png; this.onerror=null;" src="https://www.umsl.edu/ssd/files/images/umsl-logo.svg">
-        	</div>
-        </a><!--END LOGO-->
-		<div aria-hidden="”true”" class="logo-line"></div>
-    		<h5 class="college college-name-text">
-        		<a href="index.html" id="link-college">University of Missouri-St. Louis</a>
-    	    </h5>
-		<img alt="dropdown menu" class="mobile-menu visible-xs visible-sm" src="files/images/redesign/hamburger.png" style="height: 38px;">
-	</div><!--END LOGO CONTAINER-->
+	<div class="logo-container clearfix">
+        <div class="hidden-xs">
+            <a href="https://www.umsl.edu">
+                <div class="logo">
+                    <img alt="UMSL logo" src="https://www.umsl.edu/ssd/files/images/umsl-logo.svg">
+            	</div>
+            </a><!--END LOGO-->
+    		<div aria-hidden="”true”" class="logo-line"></div>
+        	<h5 class="college-name-text">
+                <a href="index.html" id="link-college">University of Missouri-St. Louis</a>
+            </h5>
+        </div>
+		<!--MOBILE HAMBURGER-->
+		<i class="visible-sm fa fa-bars fa-1x" id="top-mobile-menu"></i>
+	</div>
 	<!--END COLLEGE TEXT-->
+</div>
+
+<div class="visible-xs col-lg-6 col-md-5">
+    <div class="logo-container clearfix">
+        <a href="https://www.umsl.edu" id="link-college"><b>UMSL</b></a>
+        <a href="index.html" id="link-college">| University of Missouri-St. Louis</a>
+        <i class="fa fa-bars fa-1x" id="small-top-mobile-menu"></i>
+    </div>
 </div>
 					<div class="col-lg-6 col-md-7 hidden-sm hidden-xs">
 						<div class="cta">
                                             <a href="//www.umsl.edu/admissions/applications.html">Apply</a>
-                                                    <a href="//forms.umsl.edu/tours/">Tour</a>
-                                                    <a href="https://umsl.askadmissions.net/emtinterestpage.aspx?ip=undergraduate">Request Info</a>
-                                                    <a href=" http://giving.umsl.edu/">Give</a>
+                                                    <a href="https://www.umsl.edu/tours">Tour</a>
+                                                    <a href="https://www.umsl.edu/inquiry">Request Info</a>
+                                                    <a href="https://giving.umsl.edu/s/260/35-development/giving/start.aspx?gid=35&amp;pgid=61">Give</a>
             </div><!--END CTA-->
 						<div class="cta-search">
     <div id="custom-search-input">
 		<div class="input-group col-md-12">
-			<form action="https://search.umsl.edu/search" method="get">
+			<form action="//search.umsl.edu/search" method="get">
 				<input class="form-control" name="q" placeholder="search" type="search">
 				<input name="site" type="hidden" value="default_collection">
 				<input name="client" type="hidden" value="default_frontend">
@@ -158,88 +169,76 @@
 				</div>
 			</div>
 		</div>
-		<div class="mobile-dropdown-menu">
-			<div class="container">
-				<div class="mobile-menu-pane unit-mobile-menu-pane">
-					
+		<div class="secondary-mobile-menu">
+			<div class="mobile-menu-pane unit-mobile-menu-pane">
+				
+	<form action="//search.umsl.edu/search" class="visible-xs visible-sm" method="get" style="padding-bottom: 10px">
+		<input id="mobile-search" name="q" placeholder="Search" type="search">
+		<input name="site" type="hidden" value="default_collection">
+		<input name="client" type="hidden" value="default_frontend">
+		<input name="output" type="hidden" value="xml_no_dtd">
+		<input name="proxystylesheet" type="hidden" value="default_frontend">
+	</form>
+
+				
 
 
 
+				
 
 
-      <form action="//search.umsl.edu/search" method="get">
-            <input autocomplete="off" class="search-bar" name="q" type="text">
-            <input name="site" type="hidden" value="default_collection">
-            <input name="client" type="hidden" value="default_frontend">
-            <input name="output" type="hidden" value="xml_no_dtd">
-            <input name="proxystylesheet" type="hidden" value="default_frontend">
-            <button id="searchsubmit" type="submit"></button>
-        </form>
-
-
-
-         
-                     
-            	            	                             <div>
-                        <a href="https://www.umsl.edu/proud/index.html"><!--htdig_noindex-->                About UMSL
-    <!--/htdig_noindex--></a> 
-                </div>   
-                          
-                     
-            	            	                                                <div class="accordion-group">
-            <div class="accordion-heading">
-                <a class="accordion-toggle" data-parent="#left-nav" href="current/index.html">                Current Students
-    </a>
-            </div>
-        </div>   
-                              
-                     
-            	            	                                                <div class="accordion-group">
-            <div class="accordion-heading">
-                <a class="accordion-toggle" data-parent="#left-nav" href="facstaff/index.html">                Faculty and Staff
-    </a>
-            </div>
-        </div>   
-                              
-                     
-            	            	                             <div>
-                        <a href="visitors.html"><!--htdig_noindex-->                Visitors
-    <!--/htdig_noindex--></a> 
-                </div>   
-                          
-                     
-            	            	                             <div>
-                        <a href="contacts.html"><!--htdig_noindex-->                Contact UMSL
-    <!--/htdig_noindex--></a> 
-                </div>   
-                          
-        
-
-
-
-
-					
- <div class="umsl-main-mobile-menu mobile-menu-pane">
-                    <a href="#" id="umsl-main-nav">UMSL Main Nav</a>
-                    <ul class="sub-umsl-main-mobile-menu">
-                    <li><a href="${_EscapeTool.html($pagePath.value)}">Current Students</a></li>
-                        <li><a href="${_EscapeTool.html($pagePath.value)}">Faculty &amp; Staff</a></li>
-                        <li><a href="https://www.umsl.edu/degrees/">Future Students</a></li>
-                        <li><a href="http://www.umslalumni.org/s/260/alumni/start.aspx?gid=1001&amp;pgid=61">Alumni</a></li>
-                        <li><a href="//forms.umsl.edu/tours/">Tour</a></li>
-                        <li><a href=" http://giving.umsl.edu/">Give</a></li>
-                        <li><a href="//www.umsl.edu/maps.html">Maps</a></li>
-                        <li><a href="https://apps.umsl.edu/webapps/ITS/DirectorySearch/Search.cfm ">Directories</a></li>
-                    <li><a href="a-z/index-a-z.html">A-Z Index</a></li>
-    </ul>
-</div>
-				</div>
+<div class="visible-xs visible-sm umsl-main-mobile-menu mobile-menu-pane">
+        <div id="tactical-mobile-menu">
+            <a class="topNavMobile" href="#" id="umsl-main-nav">
+                UMSL Quick Links<i class="section-mobile-menu fa fa fa-angle-down fa-1x"></i>
+            </a>
+        </div>
+    </div>
+    <div class="tac-nav" style="display:none;">
+        <ul class="visible-xs visible-sm sub-umsl-main-mobile-menu">
+                                                                                                        <li>
+                            <a href="current/index.html">Current Students</a>
+                        </li>
+                                                                                                                                                    <li>
+                            <a href="//www.umsl.edu/admissions/applications.html">Apply</a>
+                        </li>
+                                                                                                                                                    <li>
+                            <a href="https://www.umsl.edu/degrees/">Future Students</a>
+                        </li>
+                                                                                                                                                    <li>
+                            <a href="https://www.umsl.edu/tours">Tour</a>
+                        </li>
+                                                                                                                            <li>
+                            <a href="facstaff/index.html">Faculty &amp; Staff</a>
+                        </li>
+                                                                                                                                                    <li>
+                            <a href="https://www.umsl.edu/inquiry">Request Info</a>
+                        </li>
+                                                                                                                                                    <li>
+                            <a href="https://www.umslalumni.org/s/260/alumni/start.aspx?gid=1001&amp;pgid=61">Alumni</a>
+                        </li>
+                                                                                                                                                    <li>
+                            <a href="https://giving.umsl.edu/s/260/35-development/giving/start.aspx?gid=35&amp;pgid=61">Give</a>
+                        </li>
+                                                                                                                                                    <li>
+                            <a href="https://apps.umsl.edu/webapps/ITS/DirectorySearch/Search.cfm ">Directories</a>
+                        </li>
+                                                                                                                            <li>
+                            <a href="a-z/index-a-z.html">A-Z Index</a>
+                        </li>
+                                                                                                                                                    <li>
+                            <a href="//www.umsl.edu/maps.html">Maps</a>
+                        </li>
+                                            </ul>
+    </div>
+  
 			</div>
 		</div>
+		
+
 		<!--End Logobar-->
 		<!--End Mobile dropdown-->
 		<!-- END HEADER -->
-		
 		
 
 
@@ -261,6 +260,65 @@
 
 
 		<div class="container content-container">
+			<div class="mobile-menu-pane unit-mobile-menu-pane">
+				
+
+
+    <div class="visible-xs visible-sm col-lg-6 col-md-5" id="nav-bar">
+    	<div class="logo-container clearfix">
+            <h5 class="nav-name">Explore this section</h5>
+    		<i alt="dropdown menu" class="mobile-menu visible-xs visible-sm fa fa fa-angle-down fa-1x"></i>
+    	</div>
+    </div>
+				
+
+
+
+
+
+	  <div class="mobile-dropdown-menu" id="in-this-section" style="display: none;">
+
+
+         
+                     
+            	            	                                                <div class="accordion-mobile-group">
+            <div class="accordion-heading">
+                <a class="accordion-mobile-toggle" data-parent="#left-nav" href="current/index.html">                Current Students
+    <i class="section-mobile-menu fa fa fa-angle-down fa-1x" style="color: #333;"></i></a>
+            </div>
+        </div>   
+                              
+                     
+            	            	                                                <div class="accordion-mobile-group">
+            <div class="accordion-heading">
+                <a class="accordion-mobile-toggle" data-parent="#left-nav" href="summer/index.html">                Summer Session
+    <i class="section-mobile-menu fa fa fa-angle-down fa-1x" style="color: #333;"></i></a>
+            </div>
+        </div>   
+                              
+                     
+            	            	                                                <div class="accordion-mobile-group">
+            <div class="accordion-heading">
+                <a class="accordion-mobile-toggle" data-parent="#left-nav" href="facstaff/index.html">                Faculty and Staff
+    <i class="section-mobile-menu fa fa fa-angle-down fa-1x" style="color: #333;"></i></a>
+            </div>
+        </div>   
+                              
+                     
+            	            	                             <div>
+                    <a href="visitors.html"><!--htdig_noindex-->                Visitors
+    </a>
+                </div>   
+                          
+                     
+            	            	                             <div>
+                    <a href="contacts.html"><!--htdig_noindex-->                Contact UMSL
+    </a>
+                </div>   
+                          
+        
+</div>
+			</div>
 			<div class="col-md-3 hidden-sm hidden-xs">
 				<div id="primaryNavigation">
 					
@@ -275,12 +333,8 @@
                     
 				</div>
 			</div>
-			<div><div id="breadcrumbs" style="color:black;"><ul><li><a href="index.html" style="padding: 7px;"><img src="https://www.umsl.edu/files/images/home-black.png" style="width:15px;padding-bottom: 6px;"></a><a href="index.html" style="padding: 7px; color: black; text-decoration: none;">UMSL</a></li><span class="separator" style="color: black;"> »</span><li style="color: black;">Privacy Policy</li></ul></div></div>
+			<div><div id="breadcrumbs" style="color:black;"><ul><li><a href="index.html" style="padding: 7px;"><img src="https://www.umsl.edu/files/images/home-black.png" style="width:15px;padding-bottom: 6px;"></a><a href="index.html" style="color: black; text-decoration: none;">UMSL</a></li><span class="separator" style="color: black;"> »</span><li style="color: black;">Privacy Policy</li></ul></div></div>
 			
-
-
-
-
 
 
 
@@ -309,13 +363,12 @@
 
 
 
+			
+
+
+
+
 		</div>
-		
-
-
-
-
-
 		
 
 <!--footer-->
@@ -326,7 +379,7 @@
 				<div class="col-lg-5 col-md-5">
 					<!-- list column left -->
 					<div class="logo pull-left">
-						<div class="footer-logo"></div>
+						<div class="footer-logo" onclick="location.href='https://www.umsl.edu'"></div>
 					</div>
 					<!--END LOGO-->
 					<div class="logo-line"></div>
@@ -471,7 +524,7 @@
 				</div>
 				<div class="col-md-11 col-sm-11">
 					<div class="copyright-line">
-						<p>© 2017 
+						<p>© 2018 
 							<a href="https://www.umsystem.edu">Curators of the University of Missouri</a>&nbsp; |&nbsp;
 							<a href="//www.umsl.edu/services/disability/">Disability Resources</a>&nbsp; |&nbsp;
 							<a alt="privacy policy" href="https://www.umsystem.edu/ums/copyright/">DMCA Policy</a>&nbsp; |&nbsp;
@@ -487,11 +540,28 @@
 	<!--Footer-->
 		
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" type="text/javascript"></script>
-	<script src="//www.umsl.edu/files/js/redesign/umsl-main-secondary.js" type="text/javascript"></script>
+	<script src="//www.umsl.edu/files/js/redesign/umsl-main-secondary1.js" type="text/javascript"></script>
 	<script src="//www.umsl.edu/files/js/redesign/bootstrap-secondary.js" type="text/javascript"></script>
 	<script src="//www.umsl.edu/files/js/redesign/fade.js" type="text/javascript"></script>
 	<script src="//blueimp.github.io/Gallery/js/jquery.blueimp-gallery.min.js"></script>
 	<script async="https://cdn.ampproject.org/v0.js"></script>
+	<script type="text/javascript">
+        adroll_adv_id = "WCOPKJ75PRHJTGY5FSBLGW";
+        adroll_pix_id = "FLWLPIHPVNDSHKV7TOISE6";
+        (function () {
+        var oldonload = window.onload;
+        window.onload = function(){
+        __adroll_loaded=true;
+        var scr = document.createElement("script");
+        var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+        scr.setAttribute('async', 'true');
+        scr.type = "text/javascript";
+        scr.src = host + "/j/roundtrip.js";
+        ((document.getElementsByTagName('head') || [null])[0] ||
+        document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+        if(oldonload){oldonload()}};
+        }());
+    </script>
 
 	
 </body></html>
