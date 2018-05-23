@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplysinova.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120035845id_/http%3A//www.simplysinova.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplysinova.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523101259id_/http%3A//www.simplysinova.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,6 +7,9 @@ This privacy policy sets out how Simply Sinova uses and protects any informatio
 Should we ask you to provide certain information by which you can be identified when using this website, you can be assured that it will only be used in accordance with this privacy statement.
 
 Simply Sinova may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from <date>.
+
+  
+
 
 **What we collect**
 
