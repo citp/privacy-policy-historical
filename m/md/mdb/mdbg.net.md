@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mdbg.net privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214075919id_/https%3A//www.mdbg.net/chinese/dictionary%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdbg.net privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523180007id_/https%3A//www.mdbg.net/chinese/dictionary%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # MDBG English to Chinese dictionary
 
@@ -28,4 +28,4 @@ Our website may contain links to other websites of interest. However, once you h
 
 [](http://www.facebook.com/pages/MDBG/56716356738)
 
-Tip: In the character dictionary, entering multiple pinyin syllables will result in multiple searches on one result page.
+Tip: Pinyin can be entered with or without tone numbers, e.g. 'nihao' or 'ni3hao3'.
