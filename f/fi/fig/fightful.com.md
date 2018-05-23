@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the fightful.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119142233id_/https%3A//www.fightful.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fightful.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523225020id_/https%3A//www.fightful.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Fightful MMA, Wrestling and Boxing News
+# Privacy Policy | Fightful News
 
     
 
 Shazzu, Inc. (‘Fightful’, ‘FightfulMMA, ‘FightfulWrestling’, or ‘we’ or ‘us’) has adopted a privacy policy (the ‘Privacy Policy’), which describes how we collect, use and share personally identifiable information we obtain online from and about individuals located in the United States.
 
-Fightful’s, FightfulMMa’s, or FightfulWreslting’s web site ([http://www.fightful.com](http://www.fightful.com/), [http://www.fightfulmma.com](http://www.fightfulmma.com/), [http://www.fightfulwrestling.com](http://www.fightfulwrestling.com/)) and all other related web sites owned or controlled by us (collectively or individually the ‘Site’) are general audience web sites, and we do not knowingly collect personally identifiable information from children under 13 years of age.
+Fightful’s, FightfulMMa’s, or FightfulWreslting’s web site ([https://www.fightful.com](https://www.fightful.com/), [http://www.fightfulmma.com](http://www.fightfulmma.com/), [http://www.fightfulwrestling.com](http://www.fightfulwrestling.com/)) and all other related web sites owned or controlled by us (collectively or individually the ‘Site’) are general audience web sites, and we do not knowingly collect personally identifiable information from children under 13 years of age.
 
 Our Privacy Policy applies to ‘Visitors,’ which means that you simply browse the Site, ‘Subscribers,’ which means that you have subscribed to receive one or more Fightful, FightfulMMA, and FightfulWrestling newsletter or partner emails and ‘Members,’ which means that you have registered with fightful.com. The term ‘User’ refers to a Visitor, Subscriber or a Member. By using our Site, you signify your agreement with all the terms of this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use our Site.
 
@@ -103,7 +103,7 @@ If for any reason you want Fightful, FightfulMMA, or FightfulWrestling to stop u
 If you would like to communicate with us about this Privacy Policy or Fightful, FightfulMMA, or FightfulWrestling’s collection or use of your personally identifiable information, or request Fightful, FightfulMMA, or FightfulWrestling delete your personally identifiable information, please contact Fightful at:
 
 Via E-mail:  
-[fightful@shazzu.com](mailto:fightful@shazzu.com)(link sends e-mail)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f7919e909f8391829bb7849f968d8d82d994989a)(link sends e-mail)
 
 Via Mail:  
 Shazzu Inc.  
@@ -119,4 +119,4 @@ Shazzu, Inc.
 6303 Blue Lagoon Drive Suite 400
 
 Miami, Florida 33126  
-e-mail: [fightful@shazzu.com](mailto:fightful@shazzu.com)
+e-mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#096f606e617d6f7c65497a616873737c276a6664)
