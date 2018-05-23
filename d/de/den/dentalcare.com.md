@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dentalcare.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219164514id_/http%3A//www.pg.com/privacy/english/privacy_notice.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dentalcare.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523201123id_/http%3A//www.pg.com/privacy/english/privacy_notice.shtml) for the most accurate reproduction.*
 
 # P&G Privacy Notice
 
@@ -30,7 +30,7 @@ To read P&G’s full Global Consumer Privacy Policy [click here](http://www.pg.c
 
 
 
-  * You can stop receiving promotional email or postal communications from P&G by following the instructions in those messages, or through this Privacy Notice. Please [click here](http://www.pg.com/privacy/contact_us/contact_us/privacy-central-contact-interactive.html) to select your country and learn how to unsubscribe.
-  * [Click here](http://www.pg.com/privacy/contact_us/contact_us/privacy-central-contact-interactive.html) to select your country and learn how to access and update information you provide to P&G. 
+  * You can stop receiving promotional email or postal communications from P&G by following the instructions in those messages, or through this Privacy Notice. Please [click here](http://www.pg.com/privacy/contact_us/contact_us/privacy-central-contact-interactive.html) to select your country / region and learn how to unsubscribe.
+  * [Click here](http://www.pg.com/privacy/contact_us/contact_us/privacy-central-contact-interactive.html) to select your country / region and learn how to access and update information you provide to P&G. 
 
 
