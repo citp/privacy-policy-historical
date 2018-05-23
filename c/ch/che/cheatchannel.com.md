@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheatchannel.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217104120id_/http%3A//www.cheatchannel.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheatchannel.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523112419id_/http%3A//www.cheatchannel.com/privacy.htm) for the most accurate reproduction.*
 
 # CheatChannel - Privacy
 
