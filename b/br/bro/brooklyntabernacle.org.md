@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the brooklyntabernacle.org privacy policy that was archived on 2017-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171012141935id_/http%3A//www.brooklyntabernacle.org/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brooklyntabernacle.org privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524001318id_/https%3A//www.brooklyntabernacle.org/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | The Brooklyn Tabernacle
 
-This privacy notice discloses the privacy practices for [The Brooklyn Tabernacle](http://www.brooklyntabernacle.org/). This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
+This privacy notice discloses the privacy practices for [The Brooklyn Tabernacle](https://www.brooklyntabernacle.org/). This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
 
   1. What personally identifiable information is collected from you through the web site and how it is used. 
   2. What choices are available to you regarding the use of your data. 
