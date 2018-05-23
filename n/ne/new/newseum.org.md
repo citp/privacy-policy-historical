@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newseum.org privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122181558id_/http%3A//www.newseum.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newseum.org privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523165039id_/http%3A//www.newseum.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Newseum
 
@@ -12,7 +12,7 @@ If you receive communications from us, it is because we believe you are interest
 
 #### Use of Cookies and Scripts
 
-Newseum Institute and Newseum websites collect aggregated and anonymous site-visitation statistics using cookies and scripts. We do this to improve content and services offered to site visitors and to ensure that our users have the best possible Internet experience on our site. Our cookies do not contain any personally identifying information. When someone visits our site, a cookie is placed on the visitor’s computer (if the visitor accepts cookies). If the user has visited the site previously, the cookie is read. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that.
+Freedom Forum Institute and Newseum websites collect aggregated and anonymous site-visitation statistics using cookies and scripts. We do this to improve content and services offered to site visitors and to ensure that our users have the best possible Internet experience on our site. Our cookies do not contain any personally identifying information. When someone visits our site, a cookie is placed on the visitor’s computer (if the visitor accepts cookies). If the user has visited the site previously, the cookie is read. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that.
 
 **What Our Websites Collect Through Cookies and Scripts:**
 
