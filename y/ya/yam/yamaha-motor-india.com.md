@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yamaha-motor-india.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107031045id_/http%3A//www.yamaha-motor-india.com/privacy-index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yamaha-motor-india.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523184314id_/http%3A//www.yamaha-motor-india.com/privacy-index.html) for the most accurate reproduction.*
 
 # India Yamaha Motor - Revs Your Heart
 
@@ -44,7 +44,7 @@ Yamaha does not send unsolicited bulk emails to anyone who has requested that we
 
 Your browser software includes a feature called "cookies." We may use "cookies" to enhance your experience with our site. If enabled, cookies may store small amounts of data on your computer about your visit to the Website, including your page preferences. Cookies tell us nothing about you personally, unless you specifically give us additional information. Yamaha does not merge or associate our cookie information with any personally identifiable information obtained by us or from third parties. Cookies simply assist us in tracking which of our features you like best and what content you may have viewed during past visits. When you re-visit the Website, cookies can enable us to customize our content according to your preferences. We may use cookies to: (i) keep count of your return visits to the Website; (ii) accumulate anonymous, aggregate, statistical information on website usage; (iii) deliver content specific to your interests or past viewing history; and (iv) save your password so you don't have to re-enter it each time you visit our sites. You can also disable cookies. By modifying your browser preferences, you can accept or reject all cookies, or request a notification when a cookie is set.
 
-**P3P (PLATEFORM FOR PRIVACY PREFERENCE) CONFORMANCE**
+**P3P (PLATFORM FOR PRIVACY PREFERENCE) CONFORMANCE**
 
 Our cookies conform to the emerging P3P privacy standard, developed by the World Wide Web Consortium. P3P provides a simple, automated way for users to control the use of personal information. . At its most basic level, P3P is a standardized set of multiple-choice questions, covering all the major aspects of a website's privacy policy. Taken together, they present a clear snapshot of how a site handles personal information. P3P-enabled browsers can "read" this snapshot automatically and compare it to the consumer's own set of privacy preferences. P3P places privacy policies where users can find them, in a form users can understand, and, most importantly, enables users to act on what they see.
 
