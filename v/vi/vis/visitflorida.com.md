@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitflorida.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210143152id_/http%3A//www.visitflorida.com/en-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitflorida.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524013725id_/http%3A//www.visitflorida.com/en-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,7 +44,7 @@ From your IP address, we can tell generally where you are when you are accessing
 
 **1\. To Unsubscribe from Email**
 
-Please email [privacy@visitflorida.org](https://web.archive.org/web/20171210143152id_/http%3A//www.visitflorida.com/en-us/privacy@visitflorida.org) be removed from our emailing list.
+Please email [privacy@visitflorida.org](https://web.archive.org/web/20180524013725id_/http%3A//www.visitflorida.com/en-us/privacy@visitflorida.org) be removed from our emailing list.
 
 **2\. Opting Out of Google Analytics**
 
@@ -94,7 +94,7 @@ Please note that although we take reasonable steps to protect your information, 
 
 ##### V. Privacy Inquiries
 
-If you have concerns or questions regarding our consumer privacy practices, please forward them to [privacy@visitflorida.org](https://web.archive.org/web/20171210143152id_/http%3A//www.visitflorida.com/en-us/privacy@visitflorida.org).
+If you have concerns or questions regarding our consumer privacy practices, please forward them to [privacy@visitflorida.org](https://web.archive.org/web/20180524013725id_/http%3A//www.visitflorida.com/en-us/privacy@visitflorida.org).
 
 ##### VI. Changes to Privacy Statement
 
@@ -110,11 +110,11 @@ We do not recognize or respond to browser-initiated Do-Not-Track signals, becaus
 
 ##### IX. Your California Privacy Rights
 
-California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties, such as Florida tourism partners, to whom we have disclosed their personal information for direct marketing purposes in the prior calendar year, as well as the type of personal information disclosed to those parties. If you are a California resident and would like to request this information, please submit your request in an email to [privacy@visitflorida.org](https://web.archive.org/web/20171210143152id_/http%3A//www.visitflorida.com/en-us/privacy@visitflorida.org).
+California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties, such as Florida tourism partners, to whom we have disclosed their personal information for direct marketing purposes in the prior calendar year, as well as the type of personal information disclosed to those parties. If you are a California resident and would like to request this information, please submit your request in an email to [privacy@visitflorida.org](https://web.archive.org/web/20180524013725id_/http%3A//www.visitflorida.com/en-us/privacy@visitflorida.org).
 
 ##### X. Contact Us
 
-We can be reached via e-mail at [info@VISITFLORIDA.org](https://web.archive.org/web/20171210143152id_/http%3A//www.visitflorida.com/en-us/privacy@visitflorida.org).
+We can be reached via e-mail at [info@VISITFLORIDA.org](https://web.archive.org/web/20180524013725id_/http%3A//www.visitflorida.com/en-us/privacy@visitflorida.org).
 
 Our postal address is:  
 2540 W. Executive Center Circle  
