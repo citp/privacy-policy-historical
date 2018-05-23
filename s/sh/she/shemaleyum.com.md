@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the shemaleyum.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930202558id_/http%3A//www.groobygirls.com/compliance/privacypolicy.php%3Fsite%3DShemale%2520Yum) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shemaleyum.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523094235id_/http%3A//www.groobygirls.com/compliance/privacypolicy.php%3Fsite%3DGroobyGirls) for the most accurate reproduction.*
 
-# Shemale Yum - Privacy Policy
+# GroobyGirls - Privacy Policy
 
-PRIVACY POLICY
+PRIVACY POLCY
 
 FOR
 
-“Shemale Yum”
+“GroobyGirls”
 
 Effective Date: May 17, 2011
 
