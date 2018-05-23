@@ -1,88 +1,76 @@
-> *The following text is extracted and transformed from the devacurl.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121003340id_/http%3A//www.mydevacurl.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devacurl.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523093448id_/http%3A//www.devacurl.com/terms-conditions/privacy-policy.html) for the most accurate reproduction.*
 
-# MyDevaCurl | Calling All Curls
+# Privacy Policy
 
-D _E_ VA CONCEPTS AND D _E_ VACURL Privacy Policy  
-Effective Date: May 31, 2011
+This website is operated by Deva Concepts, Inc. Throughout the site, the terms “we”, “us” and “our” refer to Deva Concepts, Inc. Deva Concepts, Inc. offers this website, including all information, tools and services available from this site to you, the user, conditioned upon your acceptance of all terms, conditions, policies and notices stated here. This Privacy Policy governs the manner in which Deva Concepts LLC. collects, uses, maintains and discloses information collected from users (each, a "User") of the www.devacurl.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Deva Concepts LLC.. 
 
-D _E_ VA CONCEPTS understands that privacy is important to you and values your trust. This Privacy Policy ("Policy") explains how personal information about you is collected, used, and disclosed by D _e_ va Concepts LLC. Personal information covered by this Policy includes information that is collected when you sign up to become an MYD _E_ VACURL.com member, use our site(s), sign up for activities, education and events, or when you otherwise interact with us. We may supply different or additional notices of personal information practices specific to certain programs or activities.
+By visiting our website and/ or purchasing something from us, you engage in our “Service” and agree to be bound by the following terms and conditions (“Terms of Service”, “Terms”), including those additional terms and conditions and policies referenced herein and/or available by hyperlink. These Terms of Service apply to all users of the site, including without limitation users who are browsers, vendors, customers, merchants, and/ or contributors of content. Users will also include anyone who obtains documents, either electronic or non-electronic in version, of content and/or images that have previously appeared or currently appear on the website. 
 
-**Contents**
+Please read these Terms of Service carefully before accessing or using our website. By accessing or using any part of the site, you agree to be bound by these Terms of Service. If you do not agree to all the terms and conditions of this agreement, then you may not access the website or use any services. If these Terms of Service are considered an offer, acceptance is expressly limited to these Terms of Service. 
 
-  1. Personal Information Collected
-  2. Our Use of Personal Information
-  3. Sharing of Personal Information
-  4. Your Choices
-  5. Security of Personal Information
-  6. Changes to this Policy
-  7. Contact Us
+Any new features, content, or tools which are added to the current store shall also become subject to the Terms of Service. You can review the most current version of the Terms of Service at any time on this page. We reserve the right to update, change or replace any part of these Terms of Service by posting updates and/or changes to our website. It is your responsibility to check this page periodically for changes. Your continued use of or access to the website following the posting of any changes constitutes acceptance of those changes. 
 
+**SECTION 1 - ONLINE STORE TERMS**
 
+By agreeing to these [ Terms of Service](http://www.devacurl.com/terms-conditions.html), you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site. 
 
-**1\. Personal Information Collected**
+You may not use our products for any illegal or unauthorized purpose nor may you, in the use of the Service, violate any laws in your jurisdiction (including but not limited to copyright laws). Any product that we may provide for you is for your personal use only. You agree not to sell or resell any of the products you have received or purchased from us. We reserve the right, with or without notice, to cancel or reduce the quantity of any order to be filled or products or services to be provided to you that we believe, in our sole discretion, may result in violation of our Terms of Service. 
 
-We collect personal information you provide to us. For example, we collect information when you create an account, become a member, create a profile, use the interactive areas and features on our site, make a purchase or rental, sign up for classes, events and recreational activities, and when you email, call, or otherwise communicate with us. The types of personal information we collect include, name, postal address, phone or fax number, email address, photo, account information (e.g., membership, credit card and online registration information), fitness condition and physical characteristics, demographic information and information about your interests and preferences.
+You must not transmit any worms or viruses or any code of a destructive nature. 
 
-Automatically Collected Information. We receive certain types of information automatically whenever you use our services or sites. For example, when your Web browser accesses our site, we obtain certain types of information, such as your IP address, the type of browser you use, access times, and the page you visited before visiting our site. We may also collect information about your computer's operating system and information about your usage and activity on our site.
+A breach or violation of any of the Terms will result in an immediate termination of your Services. 
 
-Cookies. We automatically collect data using cookies. A "cookie" is a small data file that our sites transfer to your computer. We deliver these cookies and collect data on our sites, and we also use a third party agent to deliver cookies and collect data. We use the data we collect using cookies to help support the integrity of the registration and buying processes on our sites, retain your preferences and account settings, learn about your possible interests so we can personalize our marketing and information to better support your interests, and improve our sites and your experience. When you view a video on our site that uses Adobe Flash Player, a third party (Adobe Systems Inc.) may set a "flash cookie" on your computer. Visit Adobe Flash Player privacy and security to learn more about how Adobe Systems Inc. protects your privacy.
+**SECTION 2 - PERSONAL IDENTIFICATION INFORMATION**
 
-Web Beacons. We also collect information using Web beacons. Web beacons are electronic images that may be used on our site or in our emails. We use Web beacons to deliver cookies, count visits, understand usage and campaign effectiveness, and to tell if an email has been opened or acted upon.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the siteplace an orderfill out a formrespond to a surveysubscribe to the newsletter and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information, 
 
-Personal Information from Other Sources. We may also receive personal information about you from other sources and combine or link that with information we have about you.
+Users may, however, visit our Site anonymously. 
 
-**2\. Our Use of Personal Information**
+We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-We use the personal information we collect about you for a variety of purposes, for example, to:
+**SECTION 3 - NON-PERSONAL IDENTIFICATION INFORMATION**
 
-a. Communicate with you about D _E_ VACURL;
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information. 
 
-b. Provide and deliver products and services, process and complete transactions and send you related information, including purchase confirmations, invoices, updates, security alerts, recall notices and support and administrative messages;
+**SECTION 4 - WEB BROWSER COOKIES**
 
-c. Respond to your comments and questions and provide customer service;
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly. 
 
-d. Send you communications about D _E_ VACURL products, services, offers, promotions, news, upcoming events, and geographically relevant information;
+**SECTION 5 - HOW WE USE COLLECTED INFORMATION**
 
-e. Process and deliver contest or sweepstakes entries and prizes;
+Deva Concepts LLC. collects and uses Users personal information for the following purposes: 
 
-f. Maintain and administer your D _E_ VACURL Online Account;
+To improve customer service Your information helps us to more effectively respond to your customer service requests and support needs.To personalize user experience We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.To improve our Site We continually strive to improve our website offerings based on the information and feedback we receive from you.To process transactions We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.To administer a content, promotion, survey or other Site feature To send Users information they agreed to receive about topics we think will be of interest to them.To send periodic emails 
 
-g. Maintain and display your MYD _E_ VACURL.com community profile; and
+The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site. 
 
-h. Operate and improve our sites and services.
+**SECTION 6 - HOW WE PROTECT YOUR INFORMATION**
 
-We may store and process personal information in the United States and other countries.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site. 
 
-**3\. Sharing of Personal Information**
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures. Our Site is also in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users. 
 
-We may share personal information about you outside of D _E_ VA CONCEPTS and its affiliates with third parties who complete transactions or perform services on our behalf.
+**SECTION 7 - SHARING YOUR PERSONAL INFORMATION**
 
-The community section of our site is designed as an open and public social community for connecting and sharing with other people. When you sign up you will be asked to provide certain information that will be displayed publicly along with photos, stories, posts, and other information you choose to provide in your profile.
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission. 
 
-We may also post or publish your information when you submit comments, stories, photos, and videos in connection with other areas of our sites. Personal information may be shared as part of a corporate business transaction, such as a merger or acquisition of all or a portion of our business to another company, joint venture, corporate reorganization, financing or sale of company assets. It may also be shared in the event of insolvency, bankruptcy or receivership in which personal information could be transferred to third parties as one of the business assets in the transaction.
+**SECTION 8 - THIRD-PARTY WEBSITES**
 
-We may share personal information (i) to comply with laws or to respond to lawful requests and legal process, (ii) to protect the rights and property of D _E_ VA CONCEPTS and D _E_ VACURL, our agents, members, and others, including to enforce our agreements, policies, and terms of use, or (iii) in an emergency to protect the personal safety of D _E_ VA CONCEPTS and D _E_ VACURL, our members, our customers, or any other person.
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website\'s own terms and policies. 
 
-**4\. Your Choices**
+**SECTION 9 - CHANGES TO THIS PRIVACY POLICY**
 
-You may opt out of receiving promotional emails from D _E_ VA CONCEPTS or D _E_ VACURL by following the instructions in those emails. You may also change your postal mail and email preferences by contacting us. If you opt out, we may still send you non-promotional emails, such as emails about your purchases, account, membership or our ongoing business relations.
+Deva Concepts LLC. has the discretion to update this privacy policy at any time. When we do, revise the updated date at the bottom of this page,. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. 
 
-If your personal information changes, we invite you to correct or update your information. You can make changes to your online community profile information any time by logging into your D _E_ VACURL Online Account, and clicking the "Edit Your Public Profile" link. In addition, if you've signed up for Your D _E_ VACURL Online Account, you may separately change your email address at Your D _E_ VACURL Online Account. You can also request changes by contacting us.
+**SECTION 10 - YOUR ACCEPTANCE OF THESE TERMS**
 
-You can choose to stop collection of data by cookies on our site. Cookies set by D _E_ VACURL’S agent can be disabled by clearing your cache. You may also set your browser to remove and reject cookies set by D _E_ VACURL. This may not affect third party "flash cookies" used in connection with videos you may view on our site. To manage and disable "flash cookies" set by Adobe Systems Inc., visit [_Adobe Flash Player privacy and security_](http://www.adobe.com/products/flashplayer/security/). If you choose to remove cookies or reject cookies, this could affect certain features or services of our sites.
+By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. 
 
-**5\. Security of Personal Information**
+**SECTION 11 - CONTACTING US**
 
-D _E_ VA CONCEPTS and D _E_ VACURL endeavors to use commercially reasonable physical, electronic, and procedural measures to protect personal information from loss, misuse, unauthorized access, disclosure, alteration, and destruction while it is under our control.
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:   
+Deva Concepts LLC.   
+www.devacurl.com 
 
-**6\. Changes to this Policy**
-
-D _E_ VA CONCEPTS may change this Policy from time to time. If we make any changes to this Policy, we will notify you by changing the "Effective Date" date above or as required by law.
-
-**7\. Contact Us**
-
-If you have any questions, comments or concerns about this Policy or about our privacy practices, please send us an email message at: [info@mydevacurl.com](mailto:info@mydevacurl.com). You may also direct your privacy-related comments or questions to the following address:
-
-D _e_ va Concepts  
-560 Broadway, Suite 206  
-New York, NY 10012
+75 Spring Street, Floor 8 New York, New York, 10012   
+(212) 274-8686 
