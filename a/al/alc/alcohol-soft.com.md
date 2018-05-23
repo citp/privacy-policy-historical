@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alcohol-soft.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120173212id_/http%3A//www.alcohol-soft.com/en/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alcohol-soft.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523095927id_/http%3A//www.alcohol-soft.com/en/privacy.php) for the most accurate reproduction.*
 
 # DVD Burning Software Alcohol 120% - Privacy policy
 
@@ -18,6 +18,9 @@ In accordance with the Federal Children's Online Privacy Protection Act of 1998 
 We have security measures in place intended to assist in preventing unauthorized access to and in safeguarding personally identifiable information we collect online. We seek to limit access to your personally identifiable information to employees who we believe reasonably need access to that information to provide products or services to you or in order to perform their jobs. Each of these people have been informed of the need to maintain the security and confidentiality of such information. Unfortunately, no security system can be 100% secured; accordingly, we cannot guarantee the security of any information provided to us in connection with the information that we collect online. 
 
 You can review, edit, or delete the personally identifiable information that we have collected about you online that we maintain log in to your profile and edit accordingly. However, please understand that although this information, once deleted, is not available on the Sites, that information may remain stored indefinitely in our backup and archival records. 
+
+**Advertising**  
+We may use [third-party advertising companies](http://dc670wim3h8x4.cloudfront.net/pp.html) to serve ads when you visit our website. 
 
 **More Information**  
 If you have any comments or questions about your privacy or, please contact us via the form available on our website. 
