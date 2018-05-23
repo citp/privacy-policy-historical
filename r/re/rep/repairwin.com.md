@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the repairwin.com privacy policy that was archived on 2017-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170228122222id_/https%3A//www.repairwin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the repairwin.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523123128id_/https%3A//www.repairwin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Repair Windows™
 
@@ -8,11 +8,11 @@ At www.repairwin.com, the privacy of our visitors is of extreme importance to us
 
 ## Cookies and Web Beacons
 
-www.repairwin.com does use cookies to store information about visitors’ preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors’ browser type or other information that the visitor sends via their browser.
+www.repairwin.com does use cookies to store information about visitors' preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors' browser type or other information that the visitor sends via their browser.
 
 ## Log Files
 
-Like many other websites, www.repairwin.com makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track users’ movement around the site, and gather demographic information. IP addresses and other such information are not linked to any information that is personally identifiable.
+Like many other websites, www.repairwin.com makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track users' movement around the site, and gather demographic information. IP addresses and other such information are not linked to any information that is personally identifiable.
 
 ## Third Party Advertising
 
@@ -22,7 +22,7 @@ We also use third party advertisements on www.repairwin.com in order to financi
 
 * Google, as a third party vendor, uses cookies to serve ads on www.repairwin.com
 
-* Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.repairwin.com and other sites on the Internet.
+* Google's use of the DART cookie enables it to serve ads to users based on their visit to www.repairwin.com and other sites on the Internet.
 
 * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL: http://www.google.com/privacy_ads.html
 
@@ -38,4 +38,4 @@ We have included links on this site for your use and reference. We are not respo
 
 ## Changes to this Privacy Statement
 
-The contents of this statement may be altered at any time, at our discretion. If you have any questions regarding the privacy policy of www.repairwin.com then you may contact us by sending us an email at: info (@) repairwin.com or by using this [contact form](http://www.repairwin.com/contact/ "Contact").
+The contents of this statement may be altered at any time, at our discretion. If you have any questions regarding the privacy policy of www.repairwin.com then you may contact us by sending us an email at: info (@) repairwin.com or by using this [contact form](https://www.repairwin.com/contact/ "Contact").
