@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketmaster.co.uk privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226213632id_/http%3A//www.ticketmaster.co.uk/legal/privacy.html%3Ftm_link%3Dtm_homeA_i_pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketmaster.co.uk privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523043513id_/https%3A//www.ticketmaster.co.uk/legal/privacy.html) for the most accurate reproduction.*
 
 # Ticketmaster - Legal Guide
 
