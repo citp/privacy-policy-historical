@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elementsmassage.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003002554id_/https%3A//elementsmassage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elementsmassage.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523024254id_/https%3A//elementsmassage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
