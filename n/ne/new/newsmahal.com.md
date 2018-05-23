@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsmahal.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120173041id_/http%3A//newsmahal.com/247-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsmahal.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523180608id_/http%3A//newsmahal.com/247-2) for the most accurate reproduction.*
 
 # Privacy Policy » News Mahal
 
