@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonichits.com privacy policy that was archived on 2017-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170712072702id_/https%3A//sonichits.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonichits.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523205824id_/https%3A//sonichits.com/privacy) for the most accurate reproduction.*
 
 # None
 
@@ -6,7 +6,7 @@ This Privacy Policy governs the manner in which SonicHits collects, uses, mainta
 
 ## Personal identification information
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, and in connection with other activities, services, features or resources we make available on our Site. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+When you register for an account, SonicHits only collects your email address and hashed password for the purpose of allowing you to sign in. You may alternatively visit our site anonymously.
 
 ## Non-personal identification information
 
@@ -15,6 +15,10 @@ We may collect non-personal identification information about Users whenever they
 ## Web browser cookies
 
 Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+
+## YouTube API
+
+SonicHits uses YouTube API Services (see [Google's Privacy Policy](http://www.google.com/policies/privacy) and [Youtube's Terms of Service](https://www.youtube.com/t/terms). SonicHits doesn't access, collect or store any YouTube user information, nor does it use, process or share any YouTube user information. The YouTube API is solely used to embed videos on the site, and in order to determine which video is the best to display (and offer alternative videos on our Videos tab, under the YouTube embed). 
 
 ## Lyrics
 
@@ -36,6 +40,10 @@ We adopt appropriate data collection, storage and processing practices and secur
 ## Sharing your personal information
 
 We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+
+## Updating and deleting your information
+
+You can update your email address and password from your user preferences. You may also permanently delete your account by sending us a request to do so via email to support [at] sonichits.com. Your request will be actioned and all information permanently deleted within 3 business days. 
 
 ## Third party websites
 
