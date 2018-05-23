@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telugulocalnews.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004022647id_/http%3A//www.telugulocalnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telugulocalnews.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523165052id_/http%3A//www.telugulocalnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Telugu Local News
 
