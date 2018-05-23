@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the warez-serbia.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121134100id_/http%3A//www.warez-serbia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warez-serbia.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523120056id_/http%3A//warez-serbia.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy » WarezSerbia - Download For All
+# Privacy Policy » WarezSerbia - Free Download For All
 
 **Privacy Information**
 
