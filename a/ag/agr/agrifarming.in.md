@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the agrifarming.in privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124151010id_/http%3A//www.agrifarming.in/privacyterms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agrifarming.in privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523161611id_/http%3A//www.agrifarming.in/privacyterms) for the most accurate reproduction.*
 
-# Privacy Policy&Terms | Agrifarming.in
+# Privacy Policy&Terms | Agri Farming
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our on-line information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
@@ -16,6 +16,6 @@ Links to third party Websites We have included links on this site for your use a
 
 Changes to this Privacy Statement The contents of this statement may be altered at any time, at our discretion.
 
-Content provided on this website [www.agrifarming.in](http://agrifarming.in/) is only for information, we are not responsible for any loss that you may incur in [agriculture farming](http://www.agrifarming.in/agriculture-farming/). please consult any of agricultural technical officer or adviser before using the information.
+Content provided on this website [www.agrifarming.in](http://agrifarming.in/) is only for information, we are not responsible for any loss that you may incur in agriculture farming. please consult any of agricultural technical officer or adviser before using the information.
 
 All information provided in these articles is based either on personal experience or information provided by others In all cases, it is your responsibility to obtain veterinary services and advice before using any of the information provided in these articles or on this website . Neither [http://agrifarming.in](http://agrifarming.in/) nor any of the contributors to this website will be held responsible for the use of any information contained herein.
