@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legalserviceindia.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121122358id_/http%3A//www.legalserviceindia.com/objective.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legalserviceindia.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523172150id_/http%3A//legalserviceindia.com/objective.htm) for the most accurate reproduction.*
 
 # Objective of legal service India
 
