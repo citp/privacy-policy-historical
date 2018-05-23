@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the umsl.edu privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122181732id_/https%3A//www.umsl.edu/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umsl.edu privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523165115id_/https%3A//www.umsl.edu/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
