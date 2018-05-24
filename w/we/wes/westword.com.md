@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the westword.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123171612id_/http%3A//www.westword.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westword.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524230700id_/http%3A//www.westword.com/about/privacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Denver News and Events | Westword
+# Privacy Policy | Westword | The #1 Alternative News Source in Denver CO
 
 ### Denver Westword, LLC
 
