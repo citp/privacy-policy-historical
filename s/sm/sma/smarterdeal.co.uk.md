@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smarterdeal.co.uk privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917212059id_/http%3A//www.smarterdeal.co.uk/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarterdeal.co.uk privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525010235id_/http%3A//www.smarterdeal.co.uk/info/privacy.html) for the most accurate reproduction.*
 
 # smarterdeal.co.uk
 
