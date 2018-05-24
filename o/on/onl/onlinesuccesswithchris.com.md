@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinesuccesswithchris.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122130132id_/http%3A//onlinesuccesswithchris.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinesuccesswithchris.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524063629id_/http%3A//onlinesuccesswithchris.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Online Success With Chris
 
@@ -80,7 +80,7 @@ The website contains links to other websites. We are not responsible for the pri
 
 **(9) Contact**
 
-You can contact us at [admin@onlinesuccesswithchris.com](mailto:admin@onlinesuccesswithchris.com) for 'general' site use and website information questions ONLY. Please allow 48-72 hours for a response to your question from our website support staff (this is a voluntary response guarantee). For faster service, if you need technical assistance, or have issues or questions regarding a product purchase we must request that you use our [_Support Desk_](http://cjsuccessteam.net/support/) link to open a service ticket.  
+You can contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6203060f0b0c220d0c0e0b0c0711170101071111150b160a010a100b114c010d0f) for 'general' site use and website information questions ONLY. Please allow 48-72 hours for a response to your question from our website support staff (this is a voluntary response guarantee). For faster service, if you need technical assistance, or have issues or questions regarding a product purchase we must request that you use our [_Support Desk_](http://cjsuccessteam.net/support/) link to open a service ticket.  
 
 In this manner we are able to track both our progress in servicing your issue(s) and your feedback to us on the matter. Using these methods we are constantly doing our best to address the needs of our customers. Thank you.
 
