@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the top101news.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223145530id_/http%3A//top101news.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top101news.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524142922id_/http%3A//top101news.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Top 101 News
+# Privacy Policy | Top 101 News
 
 **Privacy on top101news.com**
 
