@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spreadshirt.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624132855id_/https%3A//www.spreadshirt.com/privacy-policy-C3259) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreadshirt.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524102557id_/https%3A//www.spreadshirt.com/-C3259) for the most accurate reproduction.*
 
 # Privacy Policy | Spreadshirt
 
@@ -24,7 +24,7 @@ If a user agrees to the forwarding of newsletters from a shop owner, then they w
 
 Spreadshirt collects and uses personal user data due to legal obligations or when permission from a user is given, for the reason of content-wise alterations or changes to the contractual relations with the user in terms of the usage of tele-media. 
 
-As far as is necessary, Spreadshirt collects and uses a personal data in order to enable users to operate their online service; for accounting; further legally permissible cases or with the users consent. 
+As far as is necessary, Spreadshirt collects and uses a personal data in order to enable users to operate their online service; for accounting, including any User Forums which Spreadshirt makes available; for accounting; further legally permissible cases or with the users consent. 
 
 Spreadshirt collects and uses data contained in log-files that the user’s internet browser transmits to us. The data we receive is the user’s browser type/version; device type; operating system; referring URLs (the user’s previously visited site); hostname (IP address) of the accessing computer; the number of pages viewed at spreadshirt.com; how much money a customer spends at spreadshirt.com; the number, type, and name of any products purchased at spreadshirt.com; and the time of server inquiry. In order to ensure the safe communication of the Spreadshirt online service -, it is not necessary for Spreadshirt to use the data collected in connection with the specific user. Therefore, after statistical evaluation, the data will be deleted and not used in connection with the user. 
 
