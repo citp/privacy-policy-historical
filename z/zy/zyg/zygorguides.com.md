@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zygorguides.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122171609id_/http%3A//www.zygorguides.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zygorguides.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524144207id_/http%3A//www.zygorguides.com/about/privacy.php) for the most accurate reproduction.*
 
 # Zygor Guides
 
@@ -48,3 +48,8 @@ Please note this Privacy Policy will change from time to time. We expect most su
 
   
 
+
+Copyright © 2017 Zygor Guides, LLC.  
+All Rights Reserved.
+
+This site and the products and services offered on this site are not associated, affiliated, endorsed, or sponsored by Activision | Blizzard or ZeniMax Media Inc., nor have they been reviewed, tested or certified by Activision | Blizzard or ZeniMax Media Inc..
