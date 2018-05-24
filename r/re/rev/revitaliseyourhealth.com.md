@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revitaliseyourhealth.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112010204id_/http%3A//www.revitaliseyourhealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revitaliseyourhealth.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525011601id_/http%3A//www.revitaliseyourhealth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy >>> RevitaliseYourHealth.com
 
@@ -62,4 +62,4 @@ We will not sell, distribute or lease your personal information to third parties
 
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information please email revitaliseyourhealth@gmail.com
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
