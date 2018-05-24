@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestarticles.me privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218123120id_/http%3A//bestarticles.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestarticles.me privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524213209id_/http%3A//bestarticles.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Best Articles
 
