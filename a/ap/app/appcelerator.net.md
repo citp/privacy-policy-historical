@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the appcelerator.net privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227235957id_/https%3A//www.appcelerator.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appcelerator.net privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524090420id_/https%3A//www.appcelerator.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Appcelerator Inc.
+# Privacy - Appcelerator IncAppcelerator Inc
 
 Last Updated: September 26, 2016
 
