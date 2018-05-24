@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dressupjunior.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117000245id_/http%3A//www.dressupjunior.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressupjunior.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524203635id_/http%3A//www.dressupjunior.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy Dressup Junior
 
