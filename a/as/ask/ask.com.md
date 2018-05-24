@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ask.com privacy policy that was archived on 2017-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170924074116id_/https%3A//www.ask.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ask.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524092656id_/https%3A//www.ask.com/privacy-policy) for the most accurate reproduction.*
 
 # Ask.com - What's Your Question?
 
