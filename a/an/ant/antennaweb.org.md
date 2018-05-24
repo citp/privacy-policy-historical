@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the antennaweb.org privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216100815id_/http%3A//www.antennaweb.org/Info/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antennaweb.org privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524104213id_/http%3A//antennaweb.org/Info/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -103,4 +103,4 @@ Questions
 
 If you have any questions or comments concerning our Privacy Policy, please contact us at [legal@titantv.com](mailto:legal@titantv.com?subject=Antenna%20Web%20Privacy%20Policy%20Feedback "Click here to email TITANTV regarding this Privacy Policy."). 
 
-Last Updated: May 23, 2012 
+Last Updated: January 6, 2016 
