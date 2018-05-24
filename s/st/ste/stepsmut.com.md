@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stepsmut.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606162840id_/http%3A//smut.drunkenstepfather.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stepsmut.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524081637id_/http%3A//stepsmut.com/about/privacy-policy) for the most accurate reproduction.*
 
-# None
+# Privacy Policy / Terms and Condtions
 
 You must be 18 years or older to visit smut.drunkenstepfather.com.
 
@@ -39,6 +39,3 @@ Unfortunately, the transmission of information via the Internet is not completel
 
 YOUR RIGHTS  
 You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at info@drunkenstepfather.com.
-
-  
-
