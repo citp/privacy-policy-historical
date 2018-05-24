@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytoptierbusiness.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122192457id_/http%3A//mytoptierbusiness.com/members/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytoptierbusiness.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524171641id_/http%3A//mytoptierbusiness.com/members/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MyTopTierBusiness.com
 
