@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mountvernon.org privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121191448id_/http%3A//www.mountvernon.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mountvernon.org privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524070723id_/http%3A//www.mountvernon.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy · George Washington's Mount Vernon
 
@@ -39,6 +39,12 @@ You can enable or disable Do Not Track by visiting the Preferences or Settings p
 We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
 
 These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+Our site uses 3rd party vendor re-marketing tracking to allow us to display relevant ads to you based on your activity on our website. Third party vendors, such as Google AdWords and AdRoll, use cookies to track which pages you’ve visited on our site. This allows us to display ads to you across the internet that reflect your interests.
+
+If you do not wish to participate in our Google AdWords Remarketing, you can opt out by visiting [Google's Ads Preferences Manager](https://www.google.com/settings/ads/onweb/?sig=ACi0TCh1yimtGw_MCXmyADlHvvNP9ru5SKV9iAKbteqQbUDtboQl0SdUSbwEmoNTXTgnRO-cibkW-SaqoP_hqySYAEFc81F3x_CPdSfJh9l_RsKo6erVcaAnk4XgPtkkyHbV1Pv9yO1rb7AzNUD5rsTct1zzgNfoKIMUxeDT_4FkzCX6sP9tVEyhCzqG6ROQv5tCMf7yyMFhq2MtTRDLTch9bUH9Q9dB0jgIfyeRddAr5tNKR0-C4y20NKYzNXgSDMWONWdq4fSi&amp;hl=en)
+
+You can also opt out of any third-party vendor's use of cookies by visiting [www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/)
 
 **Communications**
 
