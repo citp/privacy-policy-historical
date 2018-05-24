@@ -1,17 +1,12 @@
-> *The following text is extracted and transformed from the yoursite.com privacy policy that was archived on 2004-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040405155957id_/http%3A//www.yoursite.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoursite.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524085428id_/https%3A//yoursite.com/privacy-policy) for the most accurate reproduction.*
 
-# BlockAllSpam - The End Of Spam - Guaranteed
+# Privacy Policy - yoursite.com
 
-Privacy and safety issues are important to us; what follows are the details that describe our privacy policy.
+Privacy Policy  
+This site is owned and operated by International Services Company S.A. company d/b/a Yoursite.com.  
+Your privacy on the Internet is of the utmost importance to us. At Yoursite.com, we want to make your experience online satisfying and safe. Because we gather certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This Privacy Policy, Terms and Conditions and Acceptable Use Policy, set out our policies applicable to your account and disclose what information we gather and how we use it.
 
-Regarding the utilization of User's ( customer or blockallspam.com visitor ) data, Block All Spam does not sell or otherwise share specific user information with any unrelated third party. No User data is acquired for any unsolicited contact. Block All Spam has, and enforces, an anti-spam policy.
+Yoursite.com gathers and keeps track of:  
+1\. Information that users provide through optional, voluntary submissions. These are voluntary submissions made by You in order to receive our electronic newsletters, to participate in our message boards or forums, to email a friend, and from participation in polls and surveys.
 
-Block All Spam may disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with ( either intentionally or unintentionally ) Block All Spam's rights or property, or anyone else that could be harmed by such activities. Block All Spam may disclose user information when we believe in good faith that the law requires it.
-
-Block All Spam may share aggregate information about our users with advertisers, business partners, sponsors and other third parties. For example, we will say Block All Spam's audience is x percent females and y percent males. Individual or company information is not shared. 
-
-|  There are cases where Block All Spam may ask you for personal information such as your name or email address. For example, we request personal information when you subscribe to Block All Spam's services. Block All Spam needs to collect this information for the normal operation of our mutual business purpose as well as federal, state and local laws.
-
-The importance of security for all personally identifiable information associated with our users is of utmost concern to us. We exercise great care in providing secure transmission of your information from your PC to our servers. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Block All Spam can't ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. When credit card information is transmitted we use industry standard, SSL (Secure Socket Layer) encryption.   
-  
----|---
+2\. Information Yoursite.com gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers’ needs and to help our advertisers and sponsors better understand the demographics of our audience. Because Yoursite.com derives its revenue mainly from sponsorships and advertising, providing such aggregated demographic data is essential to keeping our service free to users. Under no circumstances does Yoursite.com divulge any information about an individual user to a third party.
