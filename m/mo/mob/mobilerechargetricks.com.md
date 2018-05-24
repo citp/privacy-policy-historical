@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilerechargetricks.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219002038id_/http%3A//www.mobilerechargetricks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilerechargetricks.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524155901id_/http%3A//www.mobilerechargetricks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Mobile Recharge Tricks
 
