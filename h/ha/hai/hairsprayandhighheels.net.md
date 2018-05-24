@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hairsprayandhighheels.net privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121215212id_/http%3A//www.hairsprayandhighheels.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairsprayandhighheels.net privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524151439id_/http%3A//www.hairsprayandhighheels.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hairspray and Highheels
 
@@ -79,6 +79,3 @@ This policy was last modified on 3/12/2014
 If you require more information or have any questions regarding our privacy policy please feel free to contact me via email  **angela DOT peters DOT 6 AT gmail DOT com.**  SEE: angela.peters6@gmail.com ** **
 
 This policy is powered by Free Privacy Policy and Rhino Support [help desk software](http://www.rhinosupport.com/).
-
-  
-
