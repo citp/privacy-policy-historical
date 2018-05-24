@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the akdn.org privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121202417id_/http%3A//www.akdn.org/node/29876) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akdn.org privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524142109id_/http%3A//www.akdn.org/node/29876) for the most accurate reproduction.*
 
 # Privacy Policy of the AKDN.org website | Aga Khan Development Network
-
-Privacy Policy of the AKDN.org website 
 
 **Privacy Policy**
 
