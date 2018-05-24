@@ -1,122 +1,161 @@
-> *The following text is extracted and transformed from the barco.com.cn privacy policy that was archived on 2017-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170303025723id_/https%3A//www.barco.com/en/AboutBarco/Privacy%2520policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barco.com.cn privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524140639id_/http%3A//www.barco.com/AboutBarco/Privacy%2520policy) for the most accurate reproduction.*
 
-# Privacy policy - Barco
+# Privacy - Barco
 
-Barco appreciates your interest in the company and wants to thank you for browsing our website. With this privacy statement we would like to inform you about the information Barco collects from web visitors and how this information is used.
+Your privacy is important to us. This is the Privacy policy of the websites of Barco NV and its subsidiaries (“Barco”). Barco NV is a public limited liability company incorporated under Belgian law, with registered office at President Kennedypark 35, 8500 Kortrijk, Belgium.
 
-Barco collects personally identifiable information from web visitors and customers with the purpose of providing a better, more personal experience and delivering better targeted services and information. Barco respects and protects the privacy of the individuals who visit the Barco website and personally identifiable information is not willfully disclosed to any third party without your permission as explained in this privacy policy. Your personally identifiable data are processed by Barco nv, with registered office at President Kennedypark 35, 8500 Kortrijk, Belgium. 
+This Privacy policy can be modified, e.g. as a result of new functionalities on the Barco websites that require the processing of personal data. We thus advise you to check this Privacy policy regularly. Any major changes will be notified via our website. 
 
-This privacy policy covers www.barco.com and all sites residing under this top domain.
+This policy should be read together with Barco’s [cookie policy](https://www.barco.com/about-barco/legal/cookie-policy).
 
-  * How do we use your information?
-  * What information do we collect and for which purposes?
-  * Cookies
-  * With whom does Barco share information?
-  * How long will Barco keep my personal information?
-  * Links to other sites
-  * Newsletters & emails
-  * Legal disclosures
-  * Your passwords
-  * Data security
-  * Your rights
-  * Consent
-  * Changes to the privacy policy
-  * Questions
+This version of the Privacy policy was modified on April 19, 2018. ****
+
+  * When does this Privacy policy apply?
+  * Who is responsible for the processing of your personal data?
+  * Which personal data do we process about you?
+  * For what purposes do we process your personal data?
+  * Who has access to your personal data?
+  * What about links to other websites and social media?
+  * How long do we keep your personal data?
+  * How are your personal data protected?
+  * What are your rights and how can you exercise them?
 
 
 
-## How do we use your information?
+## When does this Privacy policy apply?
 
-We will use your personal information for a number of purposes including:
+This Privacy policy applies to the processing of personal data obtained via the websites of Barco.
 
-  * To contact you (for example, if you ask for a quote we might contact you via phone or email to follow up)
-  * To provide you with services (e.g. to send you a newsletter or a news alert, if you have asked for them)
-  * To personalize the way barco.com content is presented to you (e.g. based on your profile as a registered user we might offer you dedicated content for your area of expertise.)
-  * To analyze and optimize the operation, structure and presentation of barco.com content (e.g. based on page views and page viewing times, we can update the barco.com content to improve your experience)
+## Who is responsible for the processing of your personal data?
 
+Barco is the party responsible for the processing of your personal data. This means that Barco determines for what purposes and with what means your personal data will be processed.
 
+Barco has appointed a Data Protection Officer (DPO) who will be your point of contact for any questions or requests regarding the processing of your personal data. The contact details of the DPO can be found under point 9 of this Privacy policy.
 
-We won't contact you for marketing purposes, or promote new services to you unless you specifically agree. You can opt-out of receiving direct marketing from us at any stage. If you have a my.barco account, you can sign into your account in order to update your personal information.
+## Which personal data do we process about you?
 
-## What information do we collect and for which purposes?
+We collect your personal data in three ways:
 
-  1. Barco gathers general information about the use of our websites, such as frequently visited pages, services and tools. This information is used to optimize contents and improve the overall site usability and experience. We only use aggregated data for this purpose, which do not allow identifying individual visitors to our site.
+### a. Information provided by you
 
-When you link up to the Barco website we automatically collect the following data:
+We receive your information in the first place if you share it with us by:
 
-    * Type of domain name used to gain access to the Internet (e.g. .com, .org)
-    * The IP address used during the connection
-    * Date and time of access to the site
-    * Duration of site/page visit
-    * Browser used
-    * Operating system of your computer, tablet or handheld device
-    * Search engine and metatags used to track the Barco website on the web
-    * Type and nature of files or information downloaded.
-  2. In addition to this we may ask web visitors for personally identifiable information when contacting us or signing up to a Barco service:
-
-    * Information you provide to personalize your web experience e.g. your interests, preferences, opt-ins and future needs
-    * Information you provide with the aim of obtaining feedback from Barco;
-    * Information you provide as part of an application will be stored and processed for that purpose only;
-    * Information you provide for contract negotiations;
+  * contacting us via the contact form
+  * filling in a form on our website
+  * creating a “myBarco” account
+  * requesting content or software (e.g. brochures or drivers)
+  * signing up for email communications 
+  * participating in a survey
+  * ordering a product online
+  * logging a ticket for technical questions (“eSupport”)
+  * asking for service support
+  * applying for our certified training program
+  * registering our products (for remote connectivity)
 
 
 
-We will primarily use this personally identifiable information to market or provide Barco products and services to you, as requested or agreed. Next to this, we may also use personally identifiable information to deliver information to you and to contact you regarding administrative notices, resolve disputes or troubleshoot problems.
+In these cases, we usually receive information such as your first name, last name, e-mail address, telephone number, address details (street, number, postcode, city, country), the project or the region in which you are interested, your position, your correspondence with Barco, your partner types, your market and application segments and other personal and/ or contact details.
 
-## Cookies
+### b. Automatically obtained information
 
-A cookie is a small amount of data, which often includes a unique identifier, which is sent to your computer, tablet or mobile phone browser and is stored on your device's hard drive. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited, but the only other personally identifiable information a cookie can contain is information you supply yourself.
+When you browse our website, we receive data from cookie providers about your activity on our website such as the time and duration of your visit, the hyperlinks that you clicked which brought you to our website and the hyperlinks on our website which link to other websites, your IP address, the pages you visit, the browser you use, geographical data such as your location and your preferred language. 
 
-On Barco’s websites, cookies record information about your online preferences and allow us to improve the quality of our service and tailor the website to your interests or preferences. Users have the opportunity to set their browsers to accept all cookies, to notify them when a cookie is issued, or not to receive cookies at any time. The last of these means that certain personalized features cannot then be provided to that user and accordingly they may not be able to take full advantage of all of the website's features. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.
+We do this by using cookies. More information on the use of cookies by Barco can be found in our [cookie policy](https://www.barco.com/about-barco/legal/cookie-policy). 
 
-Information supplied by cookies can help us to analyze the profile of our visitors and help us to provide you with a better user experience. For example, if on a previous visit you opted to view our website in French or accessed information about our healthcare products, this information is stored in a cookie so that next time you visit the barco.com website we serve you information in French or on healthcare again.
+### c. Information obtained from third parties
 
-Please note that during your visits to Barco websites you may notice some cookies that are not related to Barco. When you visit a page with content embedded from, for example, YouTube or Flickr, you may be presented with cookies from these websites. Barco does not control the dissemination or use of these cookies. You should check the third party websites for more information about these.
+Sometimes we also receive your information from affiliated companies or from professional data suppliers. 
 
-Barco will not actively sell or make personally identifiable information available to parties other than Barco’s affiliates. We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide services to you or in order to do their jobs.
+If you are an end user of a Barco product, we may collect your data if a dealer provides your information in the context of promotions or business opportunities. 
 
-## How long will Barco keep my personal information?
+## For what purposes do we process your personal data?
 
-We will hold your personal information on our systems for as long as is necessary for the relevant activity, or as long as is set out in any relevant contract you have with Barco. If you cancel your registration or delete your Barco account, the account is flagged so that we no longer use the personal information. However, the information stays on the system for a maximum of 5 years after your last interaction with any member of the Barco group of companies.
+### a. In order to respond to your requests and keep you informed
 
-## Newsletters & emails
+We process your personal data when you request a brochure, order a product, ask to be kept informed of our activities, projects, offers, events, actions and so on.
 
-Barco may send you email communications and/or newsletters, based on your subscriptions or your business relation with Barco.   
-We will only use your name and email address in order to inform you and/or to send you our newsletters.   
-If you no longer wish to receive such communications, you can follow the unsubscribe instructions contained in each of the communications you receive. 
+For this purpose we may process data such as your name, your address, your e-mail address, your telephone number, your preferred language and the project or the region in which you are interested.
 
-## Links to other sites 
+These data are processed on the basis of your unambiguous consent, the performance of a contract to which you are a party, or your request to take steps prior to entering into a contract. 
 
-The Barco website may contain links to other websites of product and service vendors, manufacturers and partner companies. The sites linked to by Barco are developed by people over whom Barco exercises no control. These other sites may send their own cookies to users, collect data or solicit personal information and the privacy policy of the visited website will be applicable from the moment you enter the new domain.
+If you have previously sent us a request to receive a brochure or ordered a product, we will keep you informed about our products. All our emails contain an “unsubscribe” button. You can also contact our DPO at any time for more information (see point 9 of the Privacy Policy in connection with your right to object).
 
-## Legal disclosures
+### b. In order to answer your questions and exchange information
 
-Barco may disclose personally identifiable information if required to do so by law or in the good-faith belief that such action is necessary to prevent injury or property damage. We will usually attempt to notify you when we are making such a disclosure, but we may not do so in an emergency or when we are prohibited by law or court order from giving such notice.
+If you ask us questions by telephone or e-mail, we will process your personal data in order to respond to your question.
 
-## Your passwords
+For this purpose we may process data such as your name, your company name, your position, your e-mail address, your telephone number, your correspondence with Barco and all other personal data that you provide to us that can be relevant for answering your question.
 
-Passwords may be required to access certain features of this website. You should never disclose your password to any third parties. If you lose control of your password, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password.
+These data are processed on the basis of your request to take steps prior to entering a contract, the performance of a contract to which you are a party, or Barco’s legitimate interest in informing you about its activities. 
 
-## Data security
+### c. In order to set up and manage a myBarco account
 
-Barco is committed to taking reasonable steps to protect the personal information that you provide to us. We have physical, electronic, and procedural safeguards in place to protect your personal information against unauthorized access, improper use or disclosure and unauthorized modification. However the internet is an open system and as such Barco cannot guarantee that the personal information you submit will not be intercepted by others. All our employees and agents who have access to or are involved in the processing of personal information respect the confidentiality of personal information.
+We process personal data when you create a personal myBarco account. When you sign into your myBarco account, we create a record of your sign-in, which includes the date and time, your sign-in name and the unique number assigned to your account. Signing into your account enables improved personalization, the possibility to follow a Barco training, ask for service support and other enhanced features and settings.
 
-## Your rights 
+For this purpose we may process data such as your name, your e-mail address, your telephone number, your preferred language, your company name, your Barco contact, your partner types and your market and application segments. 
 
-In accordance with the Belgian Privacy Act of December 8, 1992, you are entitled to request Barco to provide you with additional information. You are also entitled to have access to the personal data processed relating to you and to have these data rectified in the event they would appear to be incomplete or inaccurate. Finally, you are entitled to object at any time and free of charge to the further processing of personal data in relation to you by sending us a request by regular mail or email with a copy of your ID card or other suitable identity document to the address mentioned below.
+These data are processed on the basis of your unambiguous consent, your request to take steps prior to entering a contract, the performance of a contract to which you are a party or Barco’s legitimate interest in informing you about its activities.
 
-## Consent
+### d. For the technical and functional management of our websites
 
-By using the Barco website, you consent to the collection and use of your information as outlined in this policy. Barco may decide to change this privacy policy from time to time.
+We process personal data for the technical and functional management of our websites, in order to personalise the websites and to ensure that the websites are easy to use. 
 
-## Changes to the privacy policy
+For this purpose we may process data such as your IP address, the pages you visit, the browser you use, the websites you visited earlier, geographical data such as your location, your preferred language and the time and duration of your visit. 
 
-If we decide to change our privacy commitment, we will post those changes here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. 
+These data are processed on the basis of your unambiguous consent or Barco’s legitimate interest in improving its websites and protecting itself against cyber-attacks.
 
-## Questions
+## Who has access to your personal data?
 
-If you have questions or suggestions, please can contact us at: [privacy@barco.com](mailto:privacy@barco.com)
+Barco can share your data with other companies associated with Barco. In addition, Barco calls upon third parties to perform certain (processing) activities, such as hosting the websites. 
 
-You have the right to access and, if necessary, correct your personal data. If you wish to do so, please send a dated and signed request with a copy of your ID card or other suitable identity document to Barco Corporate Marketing Department, President Kennedypark 35, 8500 Kortrijk, Belgium.
+We may share your personal data with certain third parties:
 
-This document was last updated May 2012
+  * processors who act on our behalf, such as e.g. marketing and communication companies;
+  * business partners with whom we carry out joint promotions or programs;
+  * business partners who provide service support;
+  * IT service providers that provide technical support;
+  * payment service providers;
+  * attorneys and external advisors: in certain cases Barco may transfer your personal data to attorneys and external advisors if this  is necessary to give us advice or to defend our rights;
+  * supervisory authorities in case of a lawful request;
+  * possible acquirers of the whole or part of Barco in the event that (a part of) our activities would be taken over by a third party.
+
+
+
+Barco is committed to always ensuring an adequate and sufficient level of protection for your data. If you have any questions or would like more information about the transfer of your personal data outside the European Economic Area, you can send an email to [dataprotection@barco.com](mailto:dataprotection@barco.com).
+
+Personal data are not provided to other parties, unless required by law or pursuant to a court order.
+
+The websites of Barco can contain references (e.g. via hyperlinks) to other websites, which are offered by third parties. Barco is not responsible for the processing of personal data via these websites.  Barco advices you to check the privacy policies of these websites. This privacy policy applies only to the Barco websites. 
+
+If you share content from the Barco websites via social media, this content will be visible for the visitors of these social media. Barco is not responsible for the processing of personal data via these social media.  This privacy policy applies only to the Barco websites. 
+
+## How long do we keep your personal data?
+
+Barco will retain your personal data for the period necessary to fulfil the purposes outlined in this privacy policy unless a longer retention period is required or permitted by law. 
+
+If no legal retention period applies, Barco will process your data at least as long as it has a contractual relationship with you.
+
+## How are your personal data protected?
+
+Barco strives to protect your personal data by means of technical and organisational measures, such as firewalls and secured servers that may only be accessed by a limited number of persons holding special access rights and with respect to the nature of the data.
+
+Despite these measures, due care should be taken when storing and/or sharing your personal data and login, particularly when connecting via unsecure or public networks.
+
+## What are your rights and how can you exercise them?
+
+You have a number of rights with regard to your personal data, such as the right of access, the right to rectification of inaccurate personal data, the right to erasure or restriction of processing, the right to data portability, the right not to be subject to profiling and the right to object to the processing. Some of these rights have a very specific scope or are subject to special conditions or exceptions. Please contact our DPO for any questions or requests regarding the processing of your personal data ([dataprotection@barco.com](mailto:dataprotection@barco.com)).
+
+If the processing of your data is based on consent, you also have the right to withdraw your consent at any time, without this affecting the legitimacy of the processing done prior to the withdrawal of your consent. You can send an e-mail to [dataprotection@barco.com](mailto:dataprotection@barco.com) or by post to the below mentioned address or you can visit the [unsubscribe page](https://infopages.barco.com/Unsubscribe-Page.html) on our website. Barco cannot process your request without proof of your identity.
+
+You also have the right to lodge a complaint with the supervisory authority of your habitual residence, your place of work or the place of an alleged infringement. The Belgian Data Protection Authority is the supervisory authority for Belgium and can be contacted at [commission@privacycommission.be](mailto:commission@privacycommission.be).
+
+If you have any further questions or complaints about the processing of your personal data, about Barco’s websites or about this Privacy Policy you can always contact us:
+
+  * by e-mail at [dataprotection@barco.com](mailto:dataprotection@barco.com); or
+  * by phone at the number +32 56 26 2215 
+  * by mail to:  
+Barco – Data Protection Officer  
+Beneluxpark 21  
+8500 Kortrijk, Belgium
+
+
