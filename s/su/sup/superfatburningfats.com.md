@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the superfatburningfats.com privacy policy that was archived on 2017-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170731043843id_/http%3A//www.superfatburningfats.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superfatburningfats.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524135036id_/http%3A//www.biotrust.com/privacy) for the most accurate reproduction.*
 
-# SuperFatBurningFats.com - Privacy Policy
+# BioTrust Nutrition | Privacy Policy
 
-BioTrust Nutrition, LLC (“We”) is committed to protecting Your privacy. We prepared this Privacy Policy to describe to You or if You represent an entity or other organization, that entity or organization (in either case, “You” or “Your”) our practices regarding the Personal Information that We collect, use, and share on behalf of users on [www.SuperFatBurningFats.com](http://superfatburningfats.com/) (“Website”). By using our Website, You consent to our Privacy Policy.
+BioTrust Nutrition, LLC (“We”) is committed to protecting Your privacy. We prepared this Privacy Policy to describe to You or if You represent an entity or other organization, that entity or organization (in either case, “You” or “Your”) our practices regarding the Personal Information that We collect, use, and share on behalf of users on [www.biotrust.com](http://biotrust.com/) (“Website”). By using our Website, You consent to our Privacy Policy.
 
 **What Information do We collect?**
 
@@ -33,7 +33,7 @@ Furthermore, We use third-party companies to help us serve targeted product reco
 
 
 
-**What do We use Your Information for?**
+**What do We use Your information for?**
 
 Our primary purpose in collecting Personal Information is to facilitate the services on the Website. Any of the Information We collect from You may be used in one of the following ways:
 
@@ -47,7 +47,7 @@ Our primary purpose in collecting Personal Information is to facilitate the serv
 
   * To manage Your employment application, assess Your qualifications and manage Your employment with us.
 
-  * To comply with and enforce applicable legal requirements, relevant industry standards and our policies, including our Terms of Use located at http://www.SuperFatBurningFats.com/terms/
+  * To comply with and enforce applicable legal requirements, relevant industry standards and our policies, including our Terms of Use located at http://www.biotrust.com/terms/
 
   * To send You promotional materials, newsletters and other communications, including retargeted marketing via Google or other service
 
@@ -62,7 +62,7 @@ Note: If at any time You would like to unsubscribe from receiving future emails,
 
 We use reasonable security measures to help prevent Personal Information from being disclosed to individuals who are not described in this Privacy Policy. We implement a variety of security measures to maintain the safety of Your Personal Information when You place an order or access Your Personal Information. While We attempt to protect the Personal Information in our possession, no security system is perfect and We cannot promise that Personal Information about You will remain secure in all circumstances. Please note that certain Personal Information (credit cards, social security numbers, and financials) will not be stored on our servers.
 
-In the event that We are required by law to inform You of any unauthorized access to Your Personal Information, We may choose to notify You electronically, in writing, or by telephone at our sole discretion. 
+In the event that We are required by law to inform You of any unauthorized access to Your Personal Information, We may choose to notify You electronically, in writing, or by telephone at our sole discretion.
 
 **Sharing of Personal Information**
 
@@ -91,7 +91,7 @@ Users should be aware that, when they voluntarily disclose Personal Information 
 
 **Policy Against Advertising our Website Using Unsolicited Email Messages**
 
-We require that all emails promoting SuperFatBurningFats.com or its subsidiaries are sent only to clients who have agreed to receive such messages. We prohibit any advertising of our brands and Web sites using unsolicited email messages. Not complying with this policy will cause partnership termination and/or affiliate account termination.
+We require that all emails promoting BioTrust.com or its subsidiaries are sent only to clients who have agreed to receive such messages. We prohibit any advertising of our brands and Web sites using unsolicited email messages. Not complying with this policy will cause partnership termination and/or affiliate account termination.
 
 If You feel You've been sent unsolicited emails promoting one or more of our brands or Websites and would like to register a complaint, please email us. We will immediately investigate all allegations made related to unsolicited messages.
 
@@ -111,11 +111,12 @@ We have taken the necessary steps to ensure that We are compliant with the CAN-S
 
 If there are any questions regarding this Privacy Policy You may contact us using the Information below.
 
-www.SuperFatBurningFats.com  
+www.biotrust.com  
+BioTrust Nutrition, LLC  
 111 Congress Ave; Suite 400  
 Austin, TX 78701  
 USA  
-support@SuperFatBurningFats.com  
+support@biotrust.com  
 1-800-766-5086
 
 If at anytime You have a cause that needs to be disputed please fill out the [Trust Guard Dispute Resolution form](https://secure.trust-guard.com/disputesystem/disputeresolution.php).
@@ -128,5 +129,5 @@ This Privacy Policy was last modified on  **April 15, 2017**
 
 Respectfully,
 
-Josh & Joel  
-www.SuperFatBurningFats.com
+BioTrust Team  
+www.biotrust.com
