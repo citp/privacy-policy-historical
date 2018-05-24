@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the audible.com.au privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233257id_/http%3A//www.audible.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audible.com.au privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524192900id_/https%3A//www.audible.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Audible.com.au Privacy Notice | Audible.com.au
+# Download Audiobooks online at Audible.com.au
 
-Last updated: 23rd August 2016
+Last updated: 1st March 2017
 
 Audible.com.au (Audible) knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice describes the privacy policy of Audible. **By visiting the Audible.com.au website, you are accepting and consenting to the practices described in this Privacy Notice.**
 
-Any personal information provided to or gathered by Audible is controlled by Audible Ltd of Colet Court, 100 Hammersmith Road, London W6 7JP, United Kingdom .
-
-As a subsidiary of Amazon.com, Inc., Audible, Inc. and its controlled EU subsidiaries are participants in the Safe Harbour programme developed by the US Department of Commerce and the European Union. Amazon has certified that they adhere to the Safe Harbour Privacy Principles agreed upon by the US and the EU. For more information about the Safe Harbour and to view these Audible Group companies' certification, visit the U.S. Department of Commerce's Safe Harbour website. If you would like to learn more about the Audible Safe Harbour programme, please send an e-mail to safeharbor@amazon.com.
-
-Back to Top
+Any personal information provided to or gathered by Audible is controlled by Audible Ltd of 26-28 Glasshouse Yard, London EC1A 4JU, United Kingdom .
 
 ### What Personal Information About Customers Does Audible Gather? 
 
