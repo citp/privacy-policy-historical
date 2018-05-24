@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the kurzweilai.net privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121195857id_/http%3A//www.kurzweilai.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kurzweilai.net privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524073343id_/http%3A//www.kurzweilai.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | KurzweilAI
+# Privacy Policy | Kurzweil
 
-_Last Updated on February 20, 2012_
-
-**Information We Gather**
+**information we gather**
 
 The information we gather falls into two categories: 1) personal information you voluntarily supply when you set up an account to subscribe to our newsletter or to post to our Forums, or when you comment on a post, and 2) tracking information (“cookies”) collected as you navigate through our sites. We do not have access to any passwords you may use on our website, unless they are made public in posts.
 
-**Use of Information**
+**use of Information**
 
   * If you have registered online for an account, KurzweilAI will not sell, rent, swap or authorize any third party to use your e-mail address without your permission. This also applies to any information that personally identifies you, except as noted immediately below. We do, however, share information about our audience in aggregate form. For example, we may want to know how long the average reader spends on our site, or which pages or features get the most attention.
   * KurzweilAI may perform aggregate statistical analyses of subscribers and their subscribing and browsing patterns for development purposes.
@@ -19,24 +17,24 @@ The information we gather falls into two categories: 1) personal information you
 
 
 
-**Your Privacy Choices**
+**your privacy choices**
 
-  * If, at any time, you prefer not to receive newsletters from us, simply follow the unsubscribe options at the bottom of each newsletter.
+  * If you don’t prefer to get newsletters from us, simply follow the unsubscribe option at the bottom of each newsletter.
   * To view and edit your personal information, please visit your personal [My Account page](http://kurzweilai.net/my-account).
 
 
 
-**Important Information**
+**important info**
 
-  * Our Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted thirty (30) days prior to taking effect and registered users will be notified via e-mail.
-  * We employ measures designed to protect the security of your personal identifying information.
+  * Our Privacy Policy may be amended from time to time. Any changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted 30 days prior to taking effect and registered users will be notified via e-mail.
+  * We use measures designed to protect the security of your personal identifying information.
 
 
 
-**FTC COPPA Compliance**
+**FTC COPPA compliance**
 
-KurzweilAI does not knowingly collect or store any personal information, even in aggregate, about children under the age of 13.
+We do not knowingly collect or store any personal info — even in aggregate — about children under the age of 13.
 
-**How To Contact Us** ****
+**how to contact us** ****
 
-For any questions or comments regarding our privacy or security practices for our _Kurzweil Accelerating Intelligence_ newsletter or the kurzweilai.net website, you may contact us by e-mail at [editors@kurzweilai.net](mailto:info@kurzweilai.net).
+For questions on our website privacy or security practices please e-mail: editors@KurzweilAI.net
