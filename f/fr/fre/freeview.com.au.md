@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeview.com.au privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123045228id_/http%3A//www.freeview.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeview.com.au privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524140711id_/http%3A//www.freeview.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,6 +19,19 @@ Generally, we collect an individual’s personal information from that individua
 **How we store personal information**
 
 We take all reasonable steps to keep secure any personal information which we hold about you and to protect your personal information from loss, misuse or unauthorised alteration. Any personal information you provide to us is stored on secure servers. Access to personal information is limited to those of our personnel who specifically need it to carry out their business responsibilities. We also maintain physical security procedures to manage and protect the use and storage of records containing personal information.
+
+**Live Broadcast Television Receiver Tuning Information Collection**
+
+Television receivers that have Freeview Plus HbbTV features enabled deliver Live Broadcast Television Channel Tuning information to OzTAM, the TV Ratings measurement company.
+
+This Television Channel Tuning Information Collection can be turned off via the Freeview Plus HbbTV application as follows:
+
+  1. Navigate to the _Settings_ page
+  2. Navigate to _Live TV Tracking_
+  3. Select _“Disable_ _Live TV Tracking”_
+  4. Confirm that the option has changed to _“Enable Live TV Tracking”_
+
+
 
 **Purpose of collection**
 
