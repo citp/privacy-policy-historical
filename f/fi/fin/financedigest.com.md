@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the financedigest.com privacy policy that was archived on 2016-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160715140655id_/http%3A//www.financedigest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financedigest.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524195750id_/http%3A//www.financedigest.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Finance Digest
+# Privacy Policy | Finance Digest Magazine
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address.
 
