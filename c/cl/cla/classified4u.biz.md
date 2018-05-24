@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classified4u.biz privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122173207id_/http%3A//classified4u.biz/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classified4u.biz privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524222510id_/http%3A//classified4u.biz/privacy.php) for the most accurate reproduction.*
 
 # 
 
