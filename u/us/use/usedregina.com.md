@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usedregina.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123173530id_/http%3A//www.usedregina.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usedregina.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524234316id_/http%3A//www.usedregina.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Used stuff in Regina for sale - UsedRegina.com - buy and sell free classified ads
 
