@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diffen.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129224328id_/http%3A//www.diffen.com/difference/Diffen%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diffen.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524110324id_/https%3A//www.diffen.com/difference/Diffen%3APrivacy_policy) for the most accurate reproduction.*
 
 # Diffen:Privacy policy - Difference and Comparison | Diffen
 
@@ -45,9 +45,11 @@ Diffen uses third-party advertising companies (such as Google) to serve ads when
 
 
 
-Other third parties whose resources are requested by web pages on Diffen include Twitter and Facebook. We may add other third-party widgets at any time. All these services set their own cookies, which they [can use to track you](http://techcrunch.com/2012/06/13/facebook-exchange/) and build a profile. Each of these companies may also sell the information they compile to third parties. 
+Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review [their privacy policy](http://exponential.com/privacy/) or contact their data protection officer via **privacy@exponential.com**. 
 
-Diffen's content delivery network (CDN), such as CloudFlare, may also set cookies. 
+Other third parties whose resources are requested by web pages on Diffen include Twitter and Facebook. We may add other third-party widgets at any time. All these services set their own cookies, which they [can use to track you](http://techcrunch.com/2012/06/13/facebook-exchange/) and build a profile. Each of these companies may also sell the information they compile to third parties in accordance with the [GDPR](https://www.eugdpr.org/) or applicable local regulations. 
+
+Diffen's content delivery network (CDN), such as [CloudFlare](https://www.cloudflare.com/) or [Fastly](https://www.fastly.com/), may also set cookies. 
 
 The list of third parties identified in this privacy policy is not exhaustive. Diffen reserves the right to work with any third party services, which may or may not use cookies. 
 
