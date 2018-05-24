@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the simscommunity.info privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123030308id_/https%3A//simscommunity.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simscommunity.info privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524145117id_/http%3A//simscommunity.info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Sims Community
+# Privacy Policy
 
 This privacy policy sets out how Sims Community uses and protects any information that you give Sims Community when you use this website. Sims Community is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
