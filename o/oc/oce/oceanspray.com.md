@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oceanspray.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122133848id_/http%3A//www.oceanspray.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oceanspray.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524141400id_/http%3A//www.oceanspray.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Tastes Good, Good For You® Cranberry Juices & Snacks | Ocean Spray
 
