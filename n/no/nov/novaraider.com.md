@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novaraider.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109213614id_/https%3A//www.sweetnitro.com/en/policy.php%3Fsite%3Dsr) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novaraider.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524034936id_/https%3A//www.sweetnitro.com/en/policy.php%3Fsite%3Dsr) for the most accurate reproduction.*
 
 # Nova Raider - Sweet Nitro
 
