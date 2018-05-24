@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the momblogsociety.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123181850id_/http%3A//momblogsociety.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momblogsociety.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524074753id_/http%3A//momblogsociety.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mom Blog Society
 
  Privacy Policy
 
-This privacy policy was last modified on December 30, 2011.
+This privacy policy was last modified on December 30, 2017.
 
 MomBlogSociety (“Company,” “we,” or “us”) knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Company when you use MomBlogSociety.com and related services (the “Service”), how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy.
 
@@ -99,3 +99,5 @@ The Service shall be subject to the privacy policy for the Service available at 
 2.5 Review products are NOT guaranteed publication on Mom Blog Society. Sending a product to Mom Blog Society for publication does not guarantee you will be published. However, we always try our best to publish an article on all products sent to Mom Blog Society. 
 
 2.6 Mom Blog Society does not guarantee publication of your product in a certain time-frame, deadline or publication fashion. However, we will do our best to publish your product according to our latest communication with you on your product needs. Again, we do not guarantee publication or deadlines. 
+
+Please see also [Disclosure Policy](http://momblogsociety.com/disclosure-policy/) and [Services Rights and Responsibilities](http://momblogsociety.com/services-rights-responsibilities/). 
