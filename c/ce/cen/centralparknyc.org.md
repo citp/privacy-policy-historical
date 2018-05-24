@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centralparknyc.org privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122025005id_/http%3A//www.centralparknyc.org/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centralparknyc.org privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524141447id_/http%3A//www.centralparknyc.org/about/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - The Official Website of Central Park NYC
 
