@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dwr.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121191247id_/http%3A//www.dwr.com/privacy-and-security.html%3Flang%3Den_US) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dwr.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524034759id_/http%3A//www.dwr.com/privacy-and-security.html%3Flang%3Den_US) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -44,10 +44,9 @@ Design Within Reach does not make your email address or phone number available t
 
 We may disclose your Data to a third party if we believe in good faith that the law or legal process requires it, to protect the rights or property of Design Within Reach or others, or as otherwise described in this privacy policy.
 
+Notwithstanding any other provision, we may also engage a third party partner for the purpose of identifying users and delivering to them interest-based content and advertisements. We may share information about you with our partners such as a non-human-readable form of your email or other identifier to ensure the security of your information. Our partners also may collect information directly from your device, such as your IP address, device ID, and information about your browser or operating system; may combine our personal and non-personal information about you with information from other sources; and may place or recognize a unique cookie on your browser. To opt-out of BouncePilot’s services, please go to http://BouncePilot.com/opt-out/. To opt out of LiveRamp’s services, please go to http://www.liveramp.com/opt_out. To opt-out of third party cookies, please go to http://www.aboutads.info/choices. To opt-out of the use of your mobile device ID for targeted advertising, please see http://www.aboutads.info/appchoices.
+
 Top
-
-  
-
 
 ##### How Is Your Information Protected?
 
