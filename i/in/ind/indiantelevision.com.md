@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiantelevision.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123190803id_/http%3A//www.indiantelevision.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiantelevision.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524135724id_/http%3A//indiantelevision.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Indian Television Dot Com
 
