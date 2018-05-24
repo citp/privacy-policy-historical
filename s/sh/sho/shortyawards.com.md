@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the shortyawards.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123190745id_/http%3A//shortyawards.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shortyawards.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524135233id_/http%3A//shortyawards.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Shorty Awards
 
-The Shorty Awards (the "Awards") are owned, operated and distributed by Sawhorse Media, LLC, a Delaware limited liability company (referred to in this Privacy Policy as "Sawhorse" or "we" and through similar words such as "us," "our," etc.). By PARTICIPATING IN the Awards, you are agreeing to the terms and conditions described below (the "PRIVACY POLICY").
+The Shorty Awards (the "Awards") are owned, operated and distributed by Shorty Awards LLC, a Delaware limited liability company (referred to in this Privacy Policy as "Shorty Awards" or "we" and through similar words such as "us," "our," etc.). By PARTICIPATING IN the Awards, you are agreeing to the terms and conditions described below (the "PRIVACY POLICY").
 
 We may, at our sole discretion, modify this Privacy Policy at any time. By accessing participating in the Awards at any time after such modifications, you are agreeing to such modifications. This Privacy Policy was last modified as of December 28, 2010.
 
@@ -37,8 +37,8 @@ You must be at least 13 years old to participate in the Awards.
 
 The Awards are administered in the United States and are primarily intended for and directed to users in the United States. If you are participating in the Awards from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued participation in the Awards, which is governed by U.S. law, this Privacy Policy, and our rules, you are transferring your personal information to the United States and you consent to that transfer.
 
-California Civil Code Section 1798.83 permits users of the Awards who are participants in the awards to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email with "California Privacy Rights" in the heading to hello@sawhorsemedia.com or write us at: 
+California Civil Code Section 1798.83 permits users of the Awards who are participants in the awards to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email with "California Privacy Rights" in the heading to info@shortyawards.com or write us at: 
 
-**Sawhorse Privacy Rights**  
+**Shorty Awards Privacy Rights**  
 588 Broadway #503  
 New York, NY 10012 
