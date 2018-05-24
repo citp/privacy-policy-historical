@@ -1,42 +1,141 @@
-> *The following text is extracted and transformed from the cvisiontech.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204104909id_/http%3A//cvisiontech.com/legal/general/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cvisiontech.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524142110id_/http%3A//cvisiontech.com/legal/general/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy - CVISION Technologies
 
-This is the web site of **CVISION Technologies**.
+  1. **Responsible Body**  
+CVISION is a business of Foxit Software. Responsible body for the collection, processing, and use of your personal data on this website is
 
-Our postal address is   
-**118-35 Queens Blvd. Suite #910  
-Forest Hills, NY 11375**
+Foxit Software Inc.  
+41841 Albrae Street  
+Fremont, CA 94538  
+United States  
+Tel. +1 866-680-3668  
+Email: [privacy@foxitsoftware.com](mailto:privacy@foxitsoftware.com)
 
-We can be reached via e-mail at [info@cvisiontech.com](mailto:info@cvisiontech.com)  
-or you can reach us by telephone at 718-793-5572
+If you have questions about data protection, we are also happy to assist you. You can contact our data protection officer at [privacy@foxitsoftware.com](mailto:privacy@foxitsoftware.com).
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
+  2. **General collection, processing and use of personal data in the context of the use of the website**  
+When you visit our website, the following information will be collected without your intervention and stored until automated deletion:  
 
-We collect the domain name and e-mail address (where possible) of visitors to our Web page, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number.
+    * Your computer’s IP address;
+    * The date and time of access;
+    * The names and URLs of the pages you visited;
+    * The website from which the access takes place (i.e. referrer URL),
+    * The browser and operating system of your computer as well as the name of your access provider.
+The data we collect is processed by us for the following purposes:  
 
-The information we collect is used to improve the content of our Web page, used by us to contact consumers for marketing purposes, shared with other reputable organizations to help them contact consumers for marketing purposes, disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website.
+    * Ensuring a smooth connection to the website;
+    * Ensuring a great user experience of our website;
+    * Evaluation of system security and stability;
+    * For further administrative purposes
+In no scenario will we use the collected data for the purpose of drawing conclusions about you. (In addition, we use cookies and analysis services when visiting our website.) 
 
-With respect to cookies: We use cookies to record past activity at a site in order to provide better service when visitors return to our site .
+If you register on the website to download software, view a webinar, get pricing, have a salesperson contact you, or other reasons, the following information will be collected based on your input: 
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
+    * First and last name;
+    * Company;
+    * Email;
+    * Telephone;
+    * Number of licenses required;
+    * Or other information, depending on the nature of your inquiry.
+The data mentioned is processed by us for the following purposes: 
+    * For sales and marketing purposes to follow up on your request and to provide additional information or to answer questions.
+  3. **Third-Party data processing in the context of contract execution**
+    * Your name;
+    * Your address;
+    * Your phone number;
+    * Your email address;
+    * The employer (if requested);
+    * The job title (if specified);
+    * Payment information, such as Your bank account or credit card information (if applicable).
+Your personal data will only be passed on to third-parties or otherwise transmitted if this is necessary for the purpose of contract execution or billing or if you have previously consented. For example, in the context of order processing, the service providers used here (such as PayPal or banks) the necessary data to handle the order and order process. The data transmitted in this way may only be used by our service providers to fulfill their task. Any other use of the information is not permitted. We need the correct name, address, contact and payment details to process your order. We need your email address so that we can confirm the order and communicate with you. Furthermore, you will receive the order confirmation and invoice via your email address. Employer and job title information is required to ensure services such as support and follow-up can be properly provided.
+  
 
-From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.
+  4. **Create a CVISION account**  
+If you create a CVISION account, we will also use your email address as a login. The creation of a CVISION account is not required and optional to download and order products. However, a CVISION account allows you to download free trial versions and view your previous online orders.
+  
 
-Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us e-mail at the above address.
+  5. **Internet Cookies**
+We use cookies on our site. These are small files that your browser automatically creates and displays on your device (laptop, tablet, smartphone, etc.) when you visit our site. Cookies do not harm your device, do not contain viruses, Trojans, or other malicious software. In the cookie information is stored, each resulting in connection with the specific terminal used. However, this does not mean that we are immediately aware of your identity. On one hand, the use of cookies serves to make the use of our offer more pleasant for you. For example, we use session cookies to recognize that you have already visited individual pages on our website. These are automatically deleted after leaving our page. In addition, to improve usability, we also use temporary cookies that are stored on your device for a specified period of time, typically 30 days. If you visit our site again to take advantage of our services, it will automatically recognize that you have already been with us and what inputs and settings you have made, so you do not have to re-enter them. We also use cookies to statistically record the use of our website and to evaluate it for the purpose of optimizing our offer (see Section 3 above). These cookies allow us to automatically recognize when you visit our site again that you have already been with us. These cookies are automatically deleted after a defined time. Most browsers accept cookies automatically. However, you can configure your browser so that no cookies are stored on your computer or always provide a hint appearing before a new cookie is created. However, disabling cookies completely may mean that you cannot use all features of our website. 
+  6. **Use of web analytics**  
 
-Persons who supply us with their telephone numbers on-line may receive telephone contact from other reputable companies. You can, however, have your name put on our do-not-share list by , sending us e-mail at the above address.
+Web analytics are used for the continuous optimization of our website. The tracking provides a statistical record of the use of our website and to evaluate it for the purpose of optimizing our offer to you. The respective data processing purposes and data categories can be found in the corresponding listed below and tracking tools. 
 
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations 
+**a.Google Analytics**  
+For the purpose of the customized design and continuous improvement of our website we use Google Analytics, a web analytics service provided by [Google Inc.](https://www.google.com/) (1600 Amphitheater Parkway, Mountain View, CA 94043, USA; in following "Google"). In this context, pseudonymized usage profiles are created and cookies (see point 5) are used. Information generated by the cookies about your use of this website include: 
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
+    * Browser type / version;
+    * Operating system;
+    * Referrer URL (the previously visited page);
+    * IP address of the accessing computer;
+    * Time of server request;
+    * Pages visited.
+This information is transmitted to a Google server in the United States and stored there. The information is used to evaluate the use of the website, to compile reports on website activity and to provide other services related to website activity and internet usage for the purposes of market research and tailor-made website design. This information may also be transferred to third parties if required by law or if third parties process this data in the order. Under no circumstances will your IP address be merged with any other data provided by Google. The IP addresses are anonymized so that an assignment is not possible.   
+You can prevent the installation of cookies by setting the browser software accordingly; however, we point out that in this case not all features of this website may be fully exploited. You can also prevent the collection of data generated by the cookie and related to your use of the website (including your IP address) and the processing of this data by Google by downloading and installing a browser add-on ( https: //tools.google.com/dlpage/gaoptout?hl=en ). As an alternative to the browser add-on, especially for browsers on mobile devices, you can prevent the collection by Google Analytics by clicking on this link. An opt-out cookie will be set which will prevent the future collection of your data when you visit this website. The opt-out cookie is only valid in this browser and only for our website and is stored on your device. If you delete the cookies in this browser, you must reset the opt-out cookie again. For more information about privacy related to Google Analytics, see the [Google Analytics Help Center](https://support.google.com/analytics/answer/6004245?hl=en).   
+**b.Google AdWords Conversion Tracking**  
+To statistically record the use of our website and to optimize and evaluate it, this website also uses the Google Conversion Tracking tool. Here, Google AdWords sets a cookie (see paragraph 5 ) on your computer if you have reached our website via a Google advertisement. After 30 days these cookies lose their validity and are not used for personal identification. If the user visits certain pages of the website of the AdWords customer and the cookie has not yet expired, Google and the customer can recognize that the user clicked on the ad and was redirected to this page.   
+Each AdWords customer receives a different cookie. Cookies cannot be tracked via the websites of AdWords customers. The information gathered using the conversion cookie is used to generate conversion statistics for AdWords customers who have opted for conversion tracking. The AdWords customer tracks the total number of users who have clicked on their ad and proceeded to a provided with a conversion tracking tag page. However, they do not receive information that personally identifies users. If you do not want to participate in the tracking process, you can also refuse the required setting of a cookie - for example, via a browser setting that generally disables the automatic setting of cookies. You can also disable cookies for conversion tracking by setting your browser to block cookies from the domain "www.googleadservices.com". Google's privacy policy on conversion tracking can be found [here](https://services.google.com/sitestats/en.html).   
+**c. HubSpot**  
+This website utilizes marketing automation software from HubSpot Inc. (2nd Floor, Cambridge, MA 02141, USA 25 First Street,). HubSpot collects data through a cookie, which is stored on the user's computer. The following information is collected: Information about the computer you use and your visit to our website, in particular your IP address, your pages visited, the browser you use, the referral source and the length of your visit to the website. This information is stored on a HubSpot server . If you sign up for one of our offers, contact information such as name, email address, company name, address, phone number are collected and stored by HubSpot. We only use the data for statistical evaluations in order to ensure a smooth operation of the offer and to optimize it on an ongoing basis. We also use the data to optimize the marketing measures. We assure that your data will only be stored in HubSpot databases and will not be shared with third parties. Personal information that is processed includes such information that is publicly available through you on the Internet and HubSpot also stores. For more information about HubSpot and Privacy, visit https://legal.hubspot.com/privacy-policy.   
+**d.Act-On**  
+If you fill out the any form on the website, your information will be collected by marketing automation software from Act-On Software, Inc. (8300 SW Creekside Place, Suite 250, Beaverton , Ore. 97008, USA) to provide you with our newsletter and other automated email correspondence. These communications provide further information about the downloaded software and related services. You can unsubscribe from receiving CVISION and/or Foxit email at any time.   
+In addition, Act-On uses the information in the download form on our behalf to analyze your continued use of our portal. Certain usage data are linked and stored with your person. In this way, we can provide you with information and offers that are tailored to your specific needs. You may object to this use of your data at any time.   
+We work together with the Act-On services to collect and store your data. For more details, see Act-On's Digital Policy Compliance Information and Privacy Policy. For more information on the technologies used by Act-On Software, Inc., please refer to ActOn's Privacy Policy at https://act-on.com/privacy-policy-summary and https://www.act-on.com/about-us/digital-compliance/.   
+**e. Pardot**  
+If you fill out any form on our website, your information will be used on our behalf by the marketing automation software of Pardot, a subsidiary of Salesforce, Inc. (Salesforce.com, Inc., The Landmark at One Market, Suite 300, San Francisco, CA 94105, USA) to provide you with our newsletter and other automated email correspondence. These communications provide further information about the downloaded software and related services. You can unsubscribe from receiving CVISION or Foxit email at any time.   
+In addition, Salesforce uses the information in the download form on our behalf to analyze your continued use of our portal. Certain usage data are linked and stored with your person. In this way, we can provide you with information and offers that are tailored to your specific needs. You may object to this use of your data at any time.   
+We work together with the Salesforce’s services to collect and store your data. For more details, see Salesforce's Digital Policy Compliance Information and Privacy Policy. For more information on the technologies used by Salesforce, Inc., please refer to Salesforce’s Privacy Policy at https://www.salesforce.com/company/privacy/.   
+**f. AdRoll**  
+This website uses retargeting software from AdRoll, Inc. (2300 Harrison St, San Francisco, CA 94110, USA). While visiting this site, cookies are set on the user device stored to help us better understand the user's interests. Our display advertising partner, AdRoll, will enable us them to show our advertisements on third party websites on the user interests ("Retargeting campaigns"). Of course, the use of retargeting is done with technology in accordance with applicable data protection legislation. More information about AdRoll can be found at http://www.adroll.com/about/privacy.   
+**g. Bing Ads**  
+Microsoft's Bing Ads software is used on our website (Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA). Bing Ads uses your computer cookies if you come to our website via a Microsoft Bing advertisement. This information tells Foxit CVISION that someone clicked on an ad, was redirected to our site, and reached a previously determined landing page (conversion page). Bing Ads learns only the total number of users who clicked on a Bing ad and were then redirected to the conversion page. No personal information about the identity of the user is given.   
+**h. Hotjar**  
+This website also uses web analytics software from Hotjar Ltd. (Level 2, St Julian’s Business Centre, 3, Elia Zammit Street, St Julian’s STJ 1000, Malta) to collect statistical information about the use of our website. With the help of this tool, visitor information is collected and transmitted to Hotjar servers. The technology enables the activities of the user to be collected while visiting our website, to analyze and visualize. For example, we can use a "heat map " to identify which areas of our website are the most visited and clicked. For this are appropriate Cookies sent to Hotjar. Hotjar Ltd. may impose data collection and storage on certain browser settings. For instructions on Hotjar, visit https://www.hotjar.com/legal/compliance/gdpr-commitment.   
+**i. Salesforce.com**  
+CVISION and Foxit uses customer relationship management software from Salesforce.com (Salesforce.com, Inc., The Landmark at One Market, Suite 300, San Francisco, CA 94105, USA). The service allows us to record contact information of customers and potential customers. A limited number of authorized employees have access to the database as necessary to search for business information about customers and potential new customers. Your data is hosted by Salesforce in the United States. For more information about Salesforce.com, visit https://www.salesforce.com/company/privacy/.   
+**j. Hello Bar**  
+This website uses Hello Bar (450 B Street #775 San Diego, CA 92101) to display announcement banners, content windows, and other banner or notification communications. These communications may sometimes offer value including but not limited to a newsletter signup or free software trial offer and request contact information in order to provide that value. When contact information is typed into the Hello Bar object itself, that contact information is stored within the Hello Bar platform.   
+**k. LivePerson**  
+This website uses LivePerson (475 10th Ave 5th Floor, New York, NY 10018) to serve live chat windows and content windows on various pages to our users. LivePerson does not store any data but will use cookies to track which pages on the CVISION site the users are on when they use the site and when utilizing the chat feature.   
+**l. TrustPilot**  
+CVISION uses Trustpilot (245 Fifth Avenue, 4th floor, New York, NY 10016) to send review requests to CVISION clients. Trustpilot does not collect information on the CVISION website. CVISION may share customer information with TrustPilot for the purpose of requesting service reviews from them.   
+**m. Conductor**  
+Conductor Searchlight (2 Park Ave, New York, NY 10016) is an SEO (search engine optimization) analytics platform that organizes the generalized web traffic data collected by Google Analytics for the CVISION website. Conductor does not collect personal information from users. 
+  7. Social media plug-ins
+We use Social Plug-ins on our website from Facebook, Twitter, YouTube, LinkedIn, Instagram, Snapchat, HootSuite, and Google+ to increase CVISION’s awareness and promotional purposes. Responsibility for the operation compliant with data protection is to be guaranteed by their respective providers. The integration of these plug-ins by us is done by means of the so-called two-click method to protect visitors to our website in the best possible way.   
+**a. Facebook Connect**  
+This website uses the "Facebook Connect" service provided by Facebook Inc. (1601 S. California Ave, Palo Alto, CA 94304, USA). When using Facebook Connect, Facebook profile data and on Facebook public data from your Facebook profile are transmitted to this website. Conversely, data from the CVISION website can also be transferred to your Facebook profile. Your transmitted data will be stored and processed by CVISION for registration on the Foxit Platform. By registering on our website via Facebook Connect, you consent to the transmission of profile data from your Facebook profile to CVISION as well as the transmission of data on the use of CVISION to Facebook. For more information about Facebook Connect and Privacy Settings, please refer to the Facebook Privacy Policy and Terms of Use at http://www.facebook.com/policy.php.   
+**b. Twitter**  
+This website uses a plugin of the short message network of Twitter Inc. (Twitter). The Twitter plugin (tweet button) can be recognized by the Twitter logo on our site. An overview of tweet buttons can be found [here](https://about.twitter.com/resources/buttons). When you visit a page of our website that contains such a plugin, a direct connection is established between your browser and the Twitter server. Twitter receives the information that you have visited our site with your IP address. If you click on the Twitter "tweet button" while logged in to your Twitter account, you can link the contents of our pages to your Twitter profile. This allows Twitter to associate your visit to our pages with your user account. We point out that we as the provider of the pages are not aware of the content of the transmitted data and their use by Twitter. If you do not want Twitter to associate your visit to our pages, please log out of your Twitter account. Further information can be found in the privacy policy of [Twitter](https://twitter.com/privacy).   
+**c. Google+**  
+The site offers the opportunity to sign in with your Google Account (Google Sign -In for Websites). It is a service of Google Inc., (1600 Amphitheater Parkway, Mountain View, CA 94043, USA ("Google")). If you want to use this feature, you will first be redirected to a Google site. There you will be asked to log in with your username and password. We do not take note of your registration data. Afterward, your Google contact information will be sent to us if you confirm this process with the "Login" button. There is no permanent link between your customer account and your Google account. For more information about signing up with Google and the privacy settings, please refer to the Google Privacy Policy.   
+**d. YouTube**  
+We use the provider YouTube for the integration of videos. YouTube is operated by YouTube LLC, headquartered at 901 Cherry Avenue, San Bruno, CA 94066, USA. YouTube is represented by Google Inc., located at 1600 Amphitheater Parkway, Mountain View, CA 94043, USA. When you visit the subpages of our website that have a YouTube plugin, they will connect to the YouTube servers and display the plugin. This will tell the YouTube server which of our subpages you have visited. If you are logged in as a member of YouTube, YouTube assigns this information to your personal user account. When using the plugin such as clicking the start button of a video, this information is also assigned to your user account. For more information about data processing and privacy by YouTube (Google), please visit www.google.com/intl/en/policies/privacy/. If the Do-Not-Track feature is activated in the browser, no external YouTube content will be loaded without the consent, only the reference to this option (Play button) will be displayed.   
+**e. LinkedIn**  
+The website offers the possibility to sign in with " Sign In with LinkedIn". Sign In with LinkedIn is a service of LinkedIn Corporation, 2029 Stierlin Ct. Ste. 200 Mountain View, California 94043, United States ("LinkedIn"). If you want to use this feature, you will first be redirected to LinkedIn. There you will be asked to log in with your username and password. We do not take note of your registration data. Following this, your LinkedIn account information will be sent to us if you confirm this process with the "Login and allow" button.   
+A permanent link between your customer account and yours m Account on LinkedIn does not take place. For more information about Sign In with LinkedIn and Privacy Settings, please refer to the LinkedIn Privacy Notice. 
+  8. **Server location**
+CVISION is a business of Foxit Software. An overview of Foxit's group of companies including its subsidiaries can be found at https://www.foxitsoftware.com/en/company/contact.php.The servers on which user data is collected, stored and used are located in the United States. However, at times, your data may be required within our group of companies or to third parties. If you use the CVISION website or Foxit platform, you allow us to transmit, store and process your information in the United States and possibly in other countries. The laws of these countries may differ from the laws of your place of residence. By taking advantage of the CVISION website or Foxit platform, you consent to the transmission of your data to these countries. 
+  9. **Registration**
+For all website registrations, we use the so-called double opt-in procedure in the European Union only. After registration on the website, we will then send you a notification email asking you to confirm that you wish to receive additional information from CVISION and Foxit by clicking on a link in this email. The link will bring you to a preferences manager where you may choose what type(s) of information you would like to receive.   
+If you no longer wish to receive information via email from us, you can unsubscribe at any time without incurring any costs other than the transmission costs according to the basic rates. You will find an unsubscribe link in both CVISION and Foxit emails, and if you chose to unsubscribe, we will then delete your email address from our mailing list. 
+  10. **Affected rights for European Union website visitors via GDPR**
+In connection with the data processing presented here, you have the right to: 
+    * Request information about your personal data processed by us. In particular, you can provide information on the processing purposes, the category of personal data, the categories of recipients to whom your data has been disclosed, the planned retention period, the right to rectification, deletion, limitation of processing or opposition, the existence of a the right to complain, the source of their data, if not collected from us, and the existence of automated decision-making including profiling and, where appropriate, meaningful information about their details;
+    * Demand the correction of incorrect or complete personal data stored with us;
+    * Demand the deletion of your personal data stored by us, unless the processing for the exercise of the right to freedom of expression and information, for the fulfillment of a legal obligation, for reasons of public interest or for the assertion, exercise or defense of Legal claims is required;
+    * Demand the restriction of the processing of your personal data, as far as the accuracy of the data is disputed by you, the processing is unlawful, but you reject its deletion and we no longer need the data, but you assert this, exercise or defense of legal claims or you have objected to the processing in accordance with Art. 21 GDPR;
+    * Receive your personal data provided to us in a structured, standard and machine-readable format or to request transmission to another person responsible;
+    * Revoke your once given consent to us at any time. As a result, we are not allowed to continue the data processing based on this consent for the future and
+    * Contact the supervisory authority of your usual place of residence or workplace or our Contact branch in Berlin, Germany.
+  
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address.
+  11. **Rights**
+You have the right to object to the processing of your personal data provided that there are reasons for this arising from your particular situation or the objection is directed against direct mail. In the latter case, you have a general right of objection, which is implemented by us without specifying any particular situation.  
+If you would like to exercise your right to revocation or objection, please send an email to [privacy@foxitsoftware.com](mailto:privacy@foxitsoftware.com). 
+  12. **Data Security**
+If you have created a CVISION or Foxit account, access to this account is only possible after entering your personal password. You should always keep your access information confidential and close the browser window when you stop communicating with us, especially if you share your computer with others.  
+In addition, we use the popular SSL (Secure Socket Layer) method in connection with the highest encryption level supported by your browser. In general, this is a 256-bit encryption. If your browser does not support 256-bit encryption, we will instead resort to the 128-bit v3 technology. Whether a single page of our website is encrypted is shown by the closed representation of the key or lock icon in the lower status bar of your browser. We also take appropriate technical and organizational security measures to protect your data against accidental or intentional manipulation, partial or total loss, destruction or against unauthorized access by third parties. Our security measures are continuously improved in line with technological developments.
+  13.  **Changes, downloading, and printing this Privacy Policy**
+This Privacy Policy is effective as of the date on which it is made available on the site and is effective as of May 2018. As our site evolves and offers become available, or as a result of changes in government or regulatory requirements, it may be necessary to change this privacy policy. The current privacy policy can be retrieved and printed by you at any time on the URL you are currently viewing. You can also download this text in PDF format. To view and print PDF files you need a PDF viewer., You can download the Foxit Reader for free at www.foxitsoftware.com. 
 
-Upon request we provide site visitors with access to a description of information that we maintain about them.
-
-Consumers can have this information corrected by calling us at the above telephone number.
-
-With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site.
-
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
