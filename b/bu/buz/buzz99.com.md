@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buzz99.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130222612id_/http%3A//www.buzz99.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzz99.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524094541id_/http%3A//www.buzz99.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Buzz99
 
   
 We are committed to safeguarding your privacy online. This privacy policy applies to your information that we collect and receive, it does not apply to practices of businesses that we do not own or control or people we do not employ. At no time will we sell your information or release your personally-identifiable data without your permission. You can visit this Site without revealing who you are or providing any personal information about yourself.
