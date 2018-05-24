@@ -1,49 +1,132 @@
-> *The following text is extracted and transformed from the mhps.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118142107id_/http%3A//www.mobilehomeparkstore.com/policies.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mhps.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524135301id_/http%3A//www.mhps.com/privacy-policy/index.html) for the most accurate reproduction.*
 
-# Mobile Home Parks For Sale, RV Parks and Mobile Home Parks For Sale, Manufactured Home Communities
+# Privacy Policy | MITSUBISHIHITACHI POWER SYSTEMS, LTD.
 
-### Policies
+## _Privacy Policy_
 
-### Privacy Policy
+Mitsubishi Hitachi Power Systems, Ltd. (hereinafter "MHPS") recognizes that all personal information managed and used in its business activities must be handled and protected with the utmost care. Therefore, MHPS will follow the basic policy stated below.
 
-This Web site is the responsibility of NicheInvestments.com and it's affiliated websites (the "Company"). The Company can be contacted by mail, by phone, or by e-mail. The following policies apply to the Web Site having the URL http://www.NicheInvestments.com or all affiliated sites in the Niche Investment Network that is owned and operated by the Company.
+MHPS will comply with the Act on the Protection of Personal Information and other relevant laws, regulations and guidelines set forth by Japanese governmental authorities.
 
-**1\. Collection of Personal Information from Site Visitors**
+  1. MHPS will not acquire any personal information through false or other improper means.
+  2. MHPS will use personal information only to the extent and for the purposes specified, which will be announced or noticed to the persons to whom the information pertains.
+  3. MHPS will endeavor to keep such personal information accurate and up-to-date.
+  4. MHPS will take necessary and appropriate measures to maintain the security of such personal information.
+  5. MHPS will furnish its employees and contractors handling such personal information with the necessary and appropriate guidance and supervision.
+  6. MHPS will not provide personal information to any third party without the consent of the person involved.
+  7. If MHPS receives an inquiry from a person about the use or content of personal information related to that person, it will provide a reasonable response.
+  8. If MHPS receives any complaints regarding the handling of personal information, it will resolve such complaints in a prompt and appropriate manner.
+  9. MHPS will establish rules and management systems for proper handling and protection of personal information and will thoroughly adhere to them.
+  10. MHPS will engage in a strong effort to further enhance personal information protection systems by regularly reviewing and updating all rules and procedures regarding the handling of personal information, including this policy.
 
-The Company automatically collects and/or tracks the following: (1) the home server domain names, IP addresses, type of client computer, and type of Web browser of visitors to the Company's web site, (2) the e-mail addresses of visitors that communicate with the Company via e-mail, post messages to the Company's bulletin boards, or post messages to the Company's chat groups, (3) information knowingly provided by the visitor in online forms, registrations forms, surveys, and contest entries, and (4) aggregate and/or user-specific information on what pages are visited within the Company's Web site.
 
-The Company may from time to time place Internet "cookies" on visitors' hard drives. Internet cookies contain identifying information about the user that can only be accessed by The Company's servers. When the visitor revisits the Company's Web site, the Company will recognize the visitor by the Internet cookie and customize the visitor's experience accordingly. Internet cookies are stored on the visitor's hard drive and are not stored, in any form, by the Company. Visitors may decline the Internet cookie by using the appropriate feature of their Web client software, if available.
 
-When a visitor performs a search on the Company's search engine, the Company records information identifying the visitor or linking the visitor to the search performed. As necessary to provide service, the Company does record limited information for every search request and uses that information only to solve technical problems with the service and to calculate overall usage statistics.
+Established: May 30, 2017  
+Mitsubishi Hitachi Power Systems, Ltd.  
+Kenji Ando, President
 
-**2\. Use of Personal Data Collected**
+For information regarding the business purposes, the practical handling method of personal information by MHPS, refer to the following:
 
-The Company's registration form requires users to give us contact information (such as their name and e-mail addresses), financial information (such as their account or credit card numbers), and demographic information (such as their zip code, age, or income level). The Company uses customer contact information from the registration form to send the user information about the Company and promotional material from some of the Company's partners. The customer's contact information is also used to contact the visitor when necessary and shared with other companies who may want to contact the Company's visitors. Users may opt-out of receiving future mailings. Financial information that is collected is used to check the users' qualifications for use of the various services offered by the Company, to bill the user for products and services, and for other purposes. Demographic and profile data is also collected by the Company. The Company uses this data for other purposes. Personal data collected by the Company will be used by the Company for editorial and feedback purposes, for marketing and promotional purposes, for a statistical analysis of users' behavior, for product and services development, for content improvement, to inform advertisers as to how many visitors have seen or clicked on their advertisements, and to customize content and layout of the Company's Web site. Data on visitors' home servers is aggregated for internal review and then discarded. Names, postal and e-mail addresses, and phone numbers collected may be added to the Company's databases and used for future calls and mailings regarding site updates, new products and services, upcoming events, and status of orders placed online.
+### _1\. Use of Personal Information_
 
-**3\. Disclosure of Data to Third Parties**
+MHPS will acquire and use personal information only as needed for its business performance according to its business purposes. (See [7. Objects of MHPS.]). The business purposes of personal information are:
 
-In connection with the utilization of the Company's Listing Services, user's contact information (name, address, telephone number, fax number, e-mail) will be provided on the Company's Web Site. Any third party other than these users to which the Company shares, rents, sells, or otherwise discloses personal data of subscribers to its services will be carefully pre-screened by the Company, determined by the Company to be reputable, and will use the personal data for marketing products and services which the Company determines, in its sole judgment, that visitors might find of interest.
+  1. To make applications for transactions between MHPS and its customers and other parties concerned with its businesses; obtain confirmation regarding customers and other parties concerned; review and assess such transactions; execute and manage agreements; and conduct termination and other proceedings following termination of agreements with customers and contractors.
+  2. To issue notices regarding improvement of MHPS products and services and of associated products and services, and respond to customer inquiries regarding such products and services.
+  3. To respond to inquiries about the products and services provided by parties having business relations with MHPS
+  4. To allow its shareholders to perform their rights and to perform obligations to its shareholders in accordance with the Companies Act; facilitate the implementation of various policies to ensure efficient communications with its shareholders; create data under certain standards in accordance with applicable laws and regulations; and other measures to facilitate the mutual understanding between MHPS and its shareholders.
+  5. To confirm applications for and participation in various exhibitions and seminars, communicate with lecturers, and report on the results of studies and events to the persons involved, and also to provide visitors with access to MHPS's facilities.
+  6. To make contact with the members of any organizations in which MHPS is a member, and issue various notices from MHPS according to the purposes of activity of such organizations.
+  7. To send publications issued by MHPS to persons who request them, and to distribute e-mails to the applicants for the MHPS electronic mailing service.
+  8. To communicate and enter into joint contracts with various research institutes based on MHPS's R&D activities, to which the paragraph (1) above shall apply accordingly; participate in academic societies; make recommendations for prizes awarded by academic societies; and make and manage joint patent applications.
+  9. To communicate with journalists and analysts in publicity activities.
+  10. To receive applications for employment, communicate with and issue the notification of employment to the applicants, and other issues concerning recruitment activities.
+  11. To communicate and conduct transactions with public accountants, attorneys and patent attorneys concerned with the business activities of MHPS.
+  12. To communicate with the officers, directors, employees or any related persons in the subsidiaries and affiliates of MHPS in the course of performance of business activities other than those as stated above.
+  13. To issue notices to MHPS's retired employees and to communicate with the families of MHPS's employees.
+  14. To issue notices to supporters of MHPS's amateur baseball and marathon teams regarding activities of the respective associations.
+  15. To exchange necessary information between MHPS and its cooperative, non-regular, temporary, part-time and student workers in execution of contracts with them and performance of their works.
+  16. To receive personal information provided for any order-based works and to complete such works within MHPS's scope of business.
+  17. To conduct business activities incidental or related to the above business purposes.
 
-**4\. Opt-Out Right**
 
-Visitors may opt out of having their personal information collected by the Company, used by the Company for secondary purposes, disclosed to third parties, or used by the Company or third parties to send promotional correspondence to the visitor, by contacting the Company via postal mail, e-mail, or telephone, or by checking the appropriate box on the online forms. However, if the Company has provided a user's information to a Third Party, and subsequently receives an "opt-out" request from a user, it will cease its own contact with the user but may not be able to cause the Third Party(s) to stop its contact.
 
-**5\. Access to and Ability to Correct Personal Data**
+MHPS may provide personal information to a third party with the approval of each respective individual, consign the handling of personal information to a third party, or share personal information with subsidiaries and/or affiliates of MHPS to the extent that such personal information is required for the business purposes as stated above.
 
-Upon request via postal mail, e-mail, or phone, the Company will provide to visitors a summary of any personal information retained by the Company regarding the visitor. Visitors may modify, correct, change, or update their personal record or cause their personal record to be removed from the Company's database. The Company will only send personal records to the e-mail address on file for the visitor name associated with it.
+(Please see the following [4. Provision of Personal Information to Third Parties]and [5. Joint Use of Personal Information])
 
-**6\. Collection of Personal Data from Children**
+If any personal information is acquired or used for any other business purposes than those described above, a notice or announcement will be issued separately.
 
-The Company will not collect or post information from children. The Company's Web Site is designed for adults over eighteen (18) years of age.
+### _2\. Possession of Personal Information_
 
-**7\. The Company's Right to Contact the User**
+MHPS possesses and will possess personal information including names, addresses, telephone numbers, FAX numbers, e-mail addresses, gender, ages, memberships, departments and titles of its customers, suppliers and other related companies.
 
-The Company reserves the right to contact site visitors regarding account status and changes to the membership services agreement, privacy policy, or any other policies or agreements relevant to site visitors.
+MHPS does not acquire and possess any personal information that is not required for business purposes.
 
-**8\. The Company's Right to Change Privacy Policy**
+### _3\. Personal Information Management_
 
-The Company reserves the right to change this policy at any time by notifying visitors of the existence and location of the new or revised privacy policy.
+MHPS will take necessary and appropriate measures to ensure the security of the personal information possessed by it and endeavor to maintain the contents of such personal information as accurate and up-to-date to the extent necessary for business purposes.
 
-_Copyright 1998-2009 MobileHomeParkStore.com, LLC_
+Personal information which is no longer necessary for business purposes will be disposed of promptly in an appropriate method.
 
-Use of this Web site constitutes acceptance of the MobileHomeParkStore.com, LLC and the Niche Investment Networks Privacy Policy.
+### _4\. Provision of Personal Information to Third Parties_
+
+MHPS will not provide the personal information of any person to any third party without such person's approval, except the following cases:
+
+  1. The matters stipulated for the provision of personal information in the Personal Information Protection Act are noticed or easily known to such person and also reported to The Personal Information Protection Commission, provided that the provision of the personal information will be suspended upon the individual' s request:
+  2. The work of handling personal information is entrusted, in whole or in part, to any third party to the extent necessary for MHPS' s business purposes. 
+    * Provided, that a confidentiality agreement shall be entered into by and between MHPS and such entrusted company and that MHPS will provide necessary and appropriate supervision of such entrusted company:
+  3. MHPS will share the personal information of any specific person with one or more of its subsidiaries and/or affiliates to the extent necessary for business purposes (See [5. Joint Use of Personal Information]): and.
+  4. Such disclosure of personal information to any third party is otherwise authorized under any applicable law or regulation.
+
+
+
+### _5\. Joint Use of Personal Information_
+
+MHPS may share the personal information acquired by MHPS with one or more of its subsidiaries and/or affiliates necessary for the above business purposes (See [1. Use of Personal Information]), provided MHPS shall remain responsible for the security of the same. Such personal information may include, without limitation, the names of customers and other parties concerned with MHPS's businesses and their work or home addresses, telephone numbers, fax numbers, e-mail addresses, genders, ages, associated organizations and departments and professional titles.
+
+### _6\. Contact for Personal Information_
+
+For information regarding the specific business purposes, the disclosure, correction and suspension of use of the contents of personal information (hereinafter "inquiries about personal information"), contact the respective departments of MHPS to which such personal information was provided. (To make inquiries about personal information, it is necessary to submit a completed request form including a valid form of identification. Request forms will be sent from MHPS on request.)
+
+In the event the department to which the personal information was provided is unknown, or for any inquiry for general information on the process of handling personal information, contact:
+
+Personal Information Advice Office  
+Human Resources & General Affairs Department.  
+Mitsubishi Hitachi Power Systems, Ltd.
+
+Mitsubishijuko Yokohama Bldg., 3-1, Minatomirai 3-chome, Nishi-ku, Yokohama  
+Tel: 81-45-200-9019 (General Affairs Group)
+
+For contacts about personal information to MHPS's other locations, refer to this:
+
+  * [Bases in Japan](https://web.archive.org/company/network/index.html)
+
+
+
+### _7\. Objects of MHPS_
+
+The corporate objects of MHI are as follows
+
+  1. Manufacture, installation, sale and repair of turbines, boilers, internal combustion engines, hydraulic turbines, nuclear equipment and other power systems:
+  2. Engineering and technical assistance in those items mentioned above and manufacture and sale of parts thereof:
+  3. Supply of electricity and heat:
+  4. All business incidental or relating to those items mentioned in the foregoing sub-paragraphs.
+
+
+
+## _How to Handle Personal Information on the Website_
+
+### _1\. Security in Obtaining Personal Information_
+
+In obtaining the personal information of an MHPS customer from the Website, MHPS uses the Secure Socket Layer (SSL) and other encrypting means to protect the personal information inputted through a communications link. The SSL is a general technology used for security of communications on Webnet, which can encrypt the input data before it is transmitted over the Internet and prevent the input data from being intercepted or tapped. If you use any browser that is not compatible with the SSL, you could not access to this page from the intranet of your company due to the settings of Firewall or any other software.
+
+### _2\. Collection of Browsing History_
+
+The Website may use technologies such as access logs or cookies to acquire your browsing history for your more convenience use of the Website. The collected historical information is used only for the purposes of higher convenience of use, monitoring the use conditions of the Website and statistic use such as sum-up and analysis for service planning and better service.
+
+Access logs include records of user IP addresses and part of the operating environment, but they cannot identify users. You can reject to receive cookies or indicate a warning when you receive cookies by setting the browser accordingly. If you reject to receive cookies, you can use the MHPS Website, but not all parts of the service.
+
+### _3\. Others_
+
+MHPS cannot have any responsibility for maintaining the security of your personal information on any other Website linked with the MHPS Website. If you have any query or inquiry regarding the handling of personal information, make direct access to each relevant Website.
