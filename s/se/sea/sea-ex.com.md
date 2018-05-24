@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sea-ex.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123013603id_/http%3A//www.sea-ex.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sea-ex.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524091607id_/http%3A//www.sea-ex.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Sea-Ex Privacy Policy
 
