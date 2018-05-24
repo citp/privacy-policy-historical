@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flelearning.ca privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119163524id_/http%3A//www.flelearning.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flelearning.ca privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524230045id_/http%3A//www.flelearning.ca/privacy) for the most accurate reproduction.*
 
 # Privacy - Institute of Research Learning and Development
 
