@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotsoccer.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121212304id_/http%3A//home.gotsoccer.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotsoccer.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524145027id_/http%3A//home.gotsoccer.com/p.aspx%3Fp%3DPrivacy) for the most accurate reproduction.*
 
 # GotSoccer.com
 
