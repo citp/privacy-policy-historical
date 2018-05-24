@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tri-c.edu privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123222146id_/http%3A//www.tri-c.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tri-c.edu privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524135936id_/http%3A//www.tri-c.edu/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### Purpose
 
-Cuyahoga Community College (“College”) websites were created to provide information to the general public about the College and provide online services to students, faculty and staff. Online services include, but are not limited to, admissions, class registration, tuition payment and financial aid and class schedules. The College recognizes the importance of protecting the privacy rights of the users. All personally identifiable information shared on the College’s online service website is securely managed and safeguarded in accordance with federal and state laws, and the policies and guidelines set forth below.
+Cuyahoga Community College (“College”) websites were created to provide information to the general public about the College and provide online services to students, faculty and staff. Online services include, but are not limited to, admissions, class registration, tuition payment and financial aid and class schedules. The College recognizes the importance of protecting the privacy rights of the users. All personally identifiable information shared on the College’s online service website is securely managed and safeguarded in accordance with the policies and guidelines set forth below.
 
 ### Policy Applicability
 
@@ -12,27 +12,27 @@ The Web Privacy Policy applies generally to the information collected by or subm
 
 The College gathers certain types of information provided by the user to help better serve their needs. The College wants the user to fully understand the terms and conditions surrounding the gathering and use of information. This privacy policy discloses what information we gather and how we use it. The College will not sell, exchange or otherwise distribute this information without the user’s consent except when required by law.
 
-### 1.1 Policy
+### 1.0 Policy
 
-**1.2 Site Definitions**
+**1.1 Site Definitions**
 
 The College’s web space includes numerous sites with varying levels of connections to the College as outlined below.
 
-**1.3 Official College Websites**
+**1.2 Official College Websites**
 
 Except as noted, the information in this privacy policy applies to all official College websites, defined as the web pages of the College and its departments, divisions or other units and any other sites specifically designated as official by the College.
 
-**1.4 Unofficial Websites**
+**1.3 Unofficial Websites**
 
 Within the College’s domain, signified by the address "tri-c.edu" or the range of Internet protocol addresses assigned to the College, a user may find websites over which the College has no control. Such sites are considered unofficial and include, but are not limited to, the web pages of individual faculty members or students as well as the web pages of student organizations and other entities that are not formally part of the College.
 
 The College encourages compliance with the privacy statements of each respective site.
 
-**1.5 Third Party Websites**
+**1.4 Third Party Websites**
 
 The College may provide links to other websites of interest to provide services for its users. The College is not responsible for the content and privacy practices of these websites. The use of such linked sites is subject to the privacy statements and use requirements of each respective site; please check each site for its respective privacy policy.
 
-**1.6 Policy Applicability**
+**1.5 Policy Applicability**
 
 The Web Privacy Policy applies generally to the information collected by or submitted to official College websites. However, the amount and type of information collected may vary from site to site and web page unit controls.
 
@@ -82,9 +82,9 @@ The College does not divulge any information about an individual website user to
 
 **3.2 Family Educational Rights and Privacy Act of 1974**
 
-The College complies with the Family Educational Rights and Privacy Act of 1974 (FERPA), as amended, which provides students the right to access a copy of their student records; permits students with the right to contest incorrect information in their student records; and limits the release of such information without students’ explicit written consent.
+The College complies with the Family Educational Rights and Privacy Act of 1974 (FERPA), as amended, which provides students the right to access a copy of their student records; permits students with the right to contest incorrect information in their student records; and limits the release of such information without students’ explicit written consent. Student "directory information" may be released without the student's written consent.
 
-Information regarding Student Education Records and FERPA is available by [clicking here [DH1]](https://web.archive.org/web/20171123222146id_/http%3A//www.tri-c.edu/administrative-departments/office-of-legal-services/student-education-records-and-ferpa.html). Questions regarding Student Education Records or FERPA should be directed to the Legal Services department at legal@tri-c.edu or 216-987-4856.
+Information regarding Student Education Records and FERPA is available by [clicking here [DH1]](https://web.archive.org/web/20180524135936id_/http%3A//www.tri-c.edu/administrative-departments/office-of-legal-services/student-education-records-and-ferpa.html). Questions regarding Student Education Records or FERPA should be directed to the Legal Services department at legal@tri-c.edu or 216-987-4856.
 
 **3.3 Health Insurance Portability and Accountability Act of 1996 (HIPAA)**
 
