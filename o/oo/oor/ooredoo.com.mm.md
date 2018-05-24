@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the ooredoo.com.mm privacy policy that was archived on 2017-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171019162010id_/http%3A//www.ooredoo.com.mm/en/Personal/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ooredoo.com.mm privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524085643id_/http%3A//www.ooredoo.com.mm/en/Personal/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Ooredoo - Myanmar
 
 **Information about our Web site           **
 
-Last updated on the 28th March 2014.                            
-
-The owner of the Web Site is Ooredoo Myanmar Limited. We are a company incorporated in Myanmar and our Head Office is situated at MICT Park, Building No. 10 Block 2, Myanmar Info-Tech, Hlaing Township
+The owner of the Web Site is Ooredoo Myanmar Limited. We are a company incorporated in Myanmar and our Head Office is situated at Myanmar Centre Tower 1, 192, Kaba Aye Pagoda Road, Bahan Township, Yangon, Myanmar.
 
 This privacy policy (“Privacy Policy”) sets out our practices in handling information which you may disclose to us through your use of this Web Site.  Our legal disclaimer and the Web Site terms and conditions are also applicable for your use of the Web Site, and is linked with this Privacy Policy.  By viewing the pages of this Web Site, you do acknowledge that you read and accept our disclaimer, the Web Site terms and conditions and this Privacy Policy. If you do not want to accept the legal disclaimer and/or this Privacy Policy, you should leave the Web Site.
 
