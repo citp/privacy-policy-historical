@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cosme-de.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611110939id_/http%3A//www.cosme-de.com/en/help/main.html%3Fmsgid%3D902110) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosme-de.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524021402id_/http%3A//www.cosme-de.com/en/help/main.html%3Fmsgid%3D902110) for the most accurate reproduction.*
 
 # COSME-DE.COM | Shop for skincare & cosmetics products, Be the Beautiful One
 
@@ -69,7 +69,7 @@ You may also Contact COSME-DE.COM with a message requesting that you wish to can
 
 **HOW TO UNSUBSCRIBE FROM RECEIVING EMAIL PROMOTIONS AND PRODUCT UPDATES**
 
-If you would like to unsubscribe from our email communications, simply click on the "Unsubscribe" link at the bottom in any COSME-DE.COM promotional emails or product update emails you receive. If you are unsure of how to unsubscribe, please [contact us](https://web.archive.org/web/20160611110939id_/http%3A//www.cosme-de.com/en/help/contact_us.html). 
+If you would like to unsubscribe from our email communications, simply click on the "Unsubscribe" link at the bottom in any COSME-DE.COM promotional emails or product update emails you receive. If you are unsure of how to unsubscribe, please [contact us](https://web.archive.org/web/20180524021402id_/http%3A//www.cosme-de.com/en/help/contact_us.html). 
 
 **ABOUT CONTACT DETAILS**
 
@@ -80,6 +80,6 @@ COSME-DE.COM
 45 Hoi Yuen Road, Kwun Tong,  
 Kowloon, Hong Kong 
 
-Email: enquiry@cosme-de.com
+Email: [email protected]
 
 Tel: (852) 3557-6150
