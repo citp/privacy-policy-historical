@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the anewmode.com privacy policy that was archived on 2017-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171121210831id_/https%3A//www.anewmode.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the anewmode.com privacy policy that was archived on 2018-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180524143443id_/https%3A//www.anewmode.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en"><head>
 <meta charset="UTF-8">
 <link href="http://fonts.googleapis.com/css?family=Merriweather|Cantata+One" rel="stylesheet" type="text/css">
 <title>Privacy Policy</title>
-<script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script id="pubexchange-jssdk" async="" src="http://cdn.pubexchange.com/modules/partner/a_new_mode"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.0"></script><script async="" type="text/javascript" src="/prebid.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+<script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.0"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -21,27 +21,29 @@ window.sayhello.domain = 's.anewmode.com';
 window.sayhello.pageid = parseInt('9149',10);
 window.sayhello.ready = false;
 </script>
-<script type="text/javascript">
-(function( win, undefined ) {
+<script>
+(function(w) {
 "use strict";
-win.cdough = win.cdough || { };
+w.cdough = w.cdough || { };
 
-var vi = win.cdough;
+var me = w.cdough;
 
-vi.getc=function(name,limit){
+me.getc=function(name,limit){
 if (typeof limit === 'undefined') limit = 20;
-return vi.retrieve(name).substring(0,limit).replace(/[\s]/gi, '');
+return me.retrieve(name).substring(0,limit).replace(/[\s]/gi, '');
 }
 
-vi.retrieve=function(name){ 
+me.retrieve=function(name){ 
 if (!name) return '';
 var re=new RegExp(name+"=[^;]+", "i"); 
 if (document.cookie.match(re)) return document.cookie.match(re)[0].split("=")[1];
 return ''; 
 }
 
-vi.setwithexp=function(name,value,expDays,domain){
+me.setwithexp=function(name,value,expDays,domain){
 if (!name||expDays<1) return ''; // wpclosetag_fix>
+value=String(value);
+if (value.indexOf(';')>-1) return '';
 if (expDays==='delete') expDays = -1;
 var dateobj = new Date();
 var expstring = dateobj.setDate(dateobj.getDate()+parseInt(expDays));
@@ -49,26 +51,167 @@ var domainstring = (typeof domain === 'undefined' || !domain) ? '' : "; domain="
 document.cookie = name+"="+value+"; expires="+dateobj.toGMTString()+"; path=/"+domainstring;
 }
 
-vi.del=function(name){
-vi.setwithexp(name,'','delete');
+me.del=function(name,domain){
+me.setwithexp(name,'','delete',domain);
 }
 
-vi.set=function(name,value,domain){
-vi.setwithexp(name,value,14,domain);
+me.set=function(name,value,domain){
+me.setwithexp(name,value,14,domain);
 }
+
+me.urlpartsstring=function(u){
+var l = u.indexOf('#'), hash, query;
+if (l===-1) {
+	hash = '';
+} else {
+	hash = u.substr(l);
+	u = u.substr(0,l);
+}
+
+l = u.indexOf('?');
+if (l===-1) {
+	query = '';
+} else {
+	query = u.substr(l);
+	u = u.substr(0,l);
+}
+
+return {url:u,query:query,hash:hash};
+}
+
+me.urlparts=function(){
+return me.urlpartsstring(window.location);
+}
+
+me.assembleurl=function(p){
+if(typeof p.url === 'undefined' || typeof p.query === 'undefined' || typeof p.hash === 'undefined') return false;
+return p.url+p.query+p.hash;
+}
+
+me.updatequery=function(query,newvars){
+if(typeof newvars !== 'object') return false;
+var pairs = me.parsequerystring(query);
+var keys = Object.keys(newvars);
+for(var i=0,l=keys.length;i<l;i++){
+	pairs[keys[i]] = newvars[keys[i]];
+}
+return me.makeuriquery(pairs);
+}
+
+me.makeuriquery=function(pairs){
+var keys=Object.keys(pairs);
+if (keys.length>0){
+	var qs='';
+	for(var i=0,l=keys.length,r=0;i<l;i++){
+		if(pairs[keys[i]]===false) continue;
+		qs+=((r>0)?'&':'?')+keys[i]+((pairs[keys[i]]!==null)?'='+encodeURIComponent(pairs[keys[i]]):'');
+		r++;
+	}
+	return qs;
+} else return '';
+}
+
+me.parsequerystring=function(qs) {
+var qparams={};
+while(qs.length>0 && (qs.charAt(0) === '?' || qs.charAt(0) === '&')){
+qs = qs.substr(1);
+}
+if(qs==='') return {};
+var ps = qs.split('&');
+for (var i=0,l=ps.length;i<l;i++){
+	var pair = ps[i].split('=');
+	if (pair[0].length>0){
+		if (typeof qparams[pair[0]]==='undefined') {
+			qparams[pair[0]] = (typeof pair[1] === 'undefined') ? null : decodeURIComponent(pair[1]);
+		}
+	}
+}
+return qparams;
+}
+
+me.parsequery=function() {
+return me.parsequerystring(window.location.search);
+}
+
+me.queryvaluestring=function(qstring,key,returnempty=false){
+var qv = me.parsequerystring(qstring);
+if (typeof qv[key] !== 'undefined') return (returnempty&&qv[key]===null ? '' : qv[key]);
+else return (returnempty?'':false);
+}
+
+me.queryvalue=function(key,returnempty){
+return me.queryvaluestring(window.location.search,key,returnempty);
+}
+
 
 })( window );
-window.sayhello_deferral = setInterval( function(){ if( typeof window.jQuery != 'undefined' ) { sayhello_pop(); clearInterval(sayhello_deferral); } } , 1000 );
-function sayhello_pop() {
-(function( $, win, undefined ) {
+</script>
+<script>
+(function( w ) {
 "use strict";
-win.sayhello = win.sayhello || { };
+w.wdfq = w.wdfq || {};
+var me = w.wdfq;
 
-var me = win.sayhello,
+var ival,
+
+run = function(f) {
+    if(typeof f === 'function') {
+        try { return jQuery(f); }
+        catch(e) {return;}
+    }
+},
+
+openGate = function() {
+    if (Array.isArray(me.cmd)) {
+        for(var i=0,l=me.cmd.length;i<l;i++) {
+            try {
+                if(typeof me.cmd[i] !== 'function') continue;
+                jQuery( me.cmd[i] );
+            }
+            catch(e) {
+                continue;
+            }
+        }
+        me.cmd = { push: run, };
+    }
+},
+
+bump = function() {
+    if(typeof w.jQuery !== 'undefined') {
+        clearInterval(ival);
+        openGate();
+    }
+},
+
+
+init = function() {
+    if(typeof w.jQuery === 'undefined') {
+        ival = setInterval(bump, 1000);
+    } else {
+        openGate();
+    }
+},
+
+/*  */ pvarend;
+
+me.cmd = [];
+
+init();
+
+}( window ));
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+</script>
+<script>
+wdfq.cmd.push( function(){ (function($,w,d,u){
+"use strict";
+w.sayhello = w.sayhello || { };
+
+var me = w.sayhello,
 callback = $.Callbacks("memory"),
 
 geniframe=function() {
-var l=win.location,
+var l=w.location,
 	ins = document.createElement('iframe');
 ins.style.display = 'none';
 ins.setAttribute('src','//'+me.domain+'/v/?i='+me.pageid+'&o='+l.hostname+l.pathname);
@@ -81,7 +224,7 @@ if (typeof me.pageid === 'undefined') me.pageid = 0;
 if (!Number.isInteger(me.pageid) || me.pageid > 9999999 || me.pageid < 0 ) me.pageid = 0;
 me.registerOriginEvent(geniframe);
 me.ready = true;
-if (!win.cdough.getc('visitorigin1')) callback.fire();
+if (!w.cdough.getc('visitorigin1')) callback.fire();
 },
 
 pvarend;
@@ -90,10 +233,46 @@ me.registerOriginEvent = function(f) {
     callback.add(f);
 };
 
-
 $(init);
-})( jQuery, window );
+})(jQuery,window,document,'undefined') } );
+</script>
+<script>
+var specOffer_preload = specOffer_preload || {};
+specOffer_preload.as1 = {};
+specOffer_preload.payload = {
+   asset_anchor:'http://c8809abd1fa8b5c9a2a3-30e858ac79224cd1c7bb62654f7aaad0.r84.cf2.rackcdn.com/wp-content/uploads/assets/specoffer/anchor.png',
+   asset_loader:'http://c8809abd1fa8b5c9a2a3-30e858ac79224cd1c7bb62654f7aaad0.r84.cf2.rackcdn.com/wp-content/uploads/assets/specoffer/specoffer.js',
+   lazy_load_src:'http://c8809abd1fa8b5c9a2a3-30e858ac79224cd1c7bb62654f7aaad0.r84.cf2.rackcdn.com/wp-content/uploads/assets/images/1x1.trans.gif',
 };
+</script>
+<script>
+window.specOffer = {
+    sobf: function(s,r,q) {
+        var S=String;
+        if (s.length>1) 
+        for(i=0,l=s.length;i<l;i++) { r=r+S.fromCharCode(s.charCodeAt(i)+(q=q||r)); }
+        else /*     // uncomment if rq                                    */return;
+            if (r.length>1) specOffer.sobf=function(s,r){ for(i=0,l=s.length;i<=l;i++) { 
+                r=r+String.fromCharCode(s.charCodeAt(i)-2); } return r; }; return r.substr(1);
+    },
+    checkOffer: function(){
+        if (typeof specOffer_preload !== 'object' || typeof specOffer_preload.payload !== 'object') return specOffer.checkval=0;
+        if (typeof specOffer_preload.as1 === 'object' && Array.isArray(specOffer_preload.as1)) return specOffer.checkval=2;
+        if (cdough.getc(specOffer.sobf('`mlc`shmfkhrsrtarbqhadq',1))==1) return specOffer.checkval=1;
+    },
+    go: function($){
+	    var n = document.getElementsByTagName('script')[0],
+		s = document.createElement('script');
+	    s.defer = true;
+	    s.type = 'text/javascript';
+	    s.src = specOffer_preload.payload.asset_loader;
+	    n.parentNode.insertBefore(s, n);
+    }
+}
+wdfq.cmd.push( function(){ (function($,w,d){
+w.specOffer_hold = w.specOffer_hold || w.specOffer.checkOffer()>0;
+if (specOffer.checkval===1) specOffer.go($);
+})(jQuery,window,document) } );
 </script>
 <!-- Facebook Pixel Code, mod data-lazy-src to prevent lazyload -->
 <script>
@@ -112,12 +291,10 @@ src="https://www.facebook.com/tr?id=1930706663842307&ev=PageView
 </noscript>
 <!-- End Facebook Pixel Code --> 
 <script>
-window.fborigin_deferral = setInterval( function(){ if( typeof window.jQuery != 'undefined' && window.sayhello.ready) { fborigin_pop(); clearInterval(fborigin_deferral); } } , 1000 );
-function fborigin_pop() {
-(function( $, win, undefined ) {
+wdfq.cmd.push( function(){ (function($,w,d,u){
 "use strict";
-win.fborigin = win.fborigin || { };
-var me = win.fborigin;
+w.fborigin = w.fborigin || { };
+var me = w.fborigin;
 me.fborigin_event = function() {
 fbq('track', 'ViewContent', {
 content_type: 'landing',
@@ -127,8 +304,7 @@ currency: 'USD'
 });
 }
 sayhello.registerOriginEvent( me.fborigin_event );
-})( jQuery, window );
-}
+})(jQuery,window,document,'undefined') } );
 </script>
 <meta name="description" content="Read very carefully: A New Mode, Inc. only contacts individuals who specifically request that we do so or in the event that they have signed up to receive">
 <meta name="robots" content="noodp, noydir">
@@ -136,266 +312,42 @@ sayhello.registerOriginEvent( me.fborigin_event );
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" type="text/css" href="http://c8809abd1fa8b5c9a2a3-30e858ac79224cd1c7bb62654f7aaad0.r84.cf2.rackcdn.com/wp-content/thesis/skins/fcskin/css.css">
 <link rel="canonical" href="http://www.anewmode.com/privacy-policy/">
-<!--BEGIN FIRSTIMPRESSION TAG -->
-<script data-cfasync="false" type="text/javascript">
-	window.apd_options = { 'websiteId': 5899, 'runFromFrame': false };
-	(function() {
-		var w = window.apd_options.runFromFrame ? window.top : window;
-		if(window.apd_options.runFromFrame && w!=window.parent) w=window.parent;
-		if (w.location.hash.indexOf('apdAdmin') != -1){if(typeof(Storage) !== 'undefined') {w.localStorage.apdAdmin = 1;}}
-		var adminMode = ((typeof(Storage) == 'undefined') || (w.localStorage.apdAdmin == 1));
-		w.apd_options=window.apd_options;
-		var apd = w.document.createElement('script'); apd.type = 'text/javascript'; apd.async = true;
-		apd.src = '//' + (adminMode ? 'cdn' : 'ecdn') + '.firstimpression.io/' + (adminMode ? 'fi.js?id=' + window.apd_options.websiteId : 'fi_client.js') ;
-		var s = w.document.getElementsByTagName('head')[0]; s.appendChild(apd);
-	})();</script><script type="text/javascript" async="" src="//ecdn.firstimpression.io/fi_client.js"></script>
-<!-- END FIRSTIMPRESSION TAG -->
 <script>
-function detectWidth(){
-    var w = window;
-    var d = w.document;
-    var e = d.documentElement;
-    var clientWidth = w.innerWidth || e.offsetWidth || e.clientWidth;
-    return clientWidth;
-}
-
-var EXCHANGE_RATE = 1;
-var PREBID_TIMEOUT = 1000;
-
-if(detectWidth() <= 768) PREBID_TIMEOUT = 1500;
-var googletag = googletag || {};
-googletag.cmd = googletag.cmd || [];
-
-function initAdserver() {
-  if (pbjs.initAdserverSet) return;
-  //load GPT library here
-  loadScript('//www.googletagservices.com/tag/js/gpt.js');
-  pbjs.initAdserverSet = true;
-};
-setTimeout(initAdserver, PREBID_TIMEOUT);
-var pbjs = pbjs || {};
-pbjs.que = pbjs.que || [];
-loadScript('/prebid.js');
-
-
-
-            var refreshVariable = 0;
-            function refreshSlot(slot) {
-                var codes = [];
-                for (var i = 0; i<slot.length; i++)
-                    codes.push(slot[i].getSlotElementId());
-                pbjs.que.push(function() {
-                    pbjs.requestBids({
-                        timeout: PREBID_TIMEOUT,
-                        adUnitCodes: codes,
-                        bidsBackHandler: function() {
-                            refreshVariable++;
-                            googletag.pubads().clearTargeting();
-                            pbjs.setTargetingForGPTAsync(codes);
-                            googletag.pubads().setTargeting("ImpressionNumber",refreshVariable.toString());
-                            googletag.pubads().refresh(slot);
-                        }});});}
-
-
-function loadScript(scriptSrc) {
-  var script = document.createElement('script');
-  script.async=true;
-  script.type = 'text/javascript';
-  script.src = scriptSrc;
-  var node = document.getElementsByTagName('script')[0];
-  node.parentNode.insertBefore(script, node);
- }
-pbjs.que.push(function() {
-
-pbjs.aliasBidder('appnexus','sekindoapn');
-
-		var adUnits = [{
-        code: 'div-gpt-ad-1486643357362-6',
-        sizes: [300, 250],
-        bids: [{ bidder: 'sekindoapn', params: { placementId: '11327859' }},
-	       { bidder: 'rhythmone', params: { placementId: '62486' }},
-               { bidder: 'aol', params: { placement: '4472476', network: '10879.1'}},
-	       { bidder: 'sonobi', params: { placement_id: 'd9d59e7b0659942f917d' }},
-    	       { bidder: 'pulsepoint', params: { cf: '300X250', cp: '560454', ct: '587707' }},
-	       { bidder: 'brealtime', params: { placementId: '11551180' }},
-	       { bidder: 'districtmDMX', params: { id: '142749' }},
-	       { bidder: 'sekindoUM', params: { spaceId: (detectWidth() <= 730) ? '82532' : '82536' }}
-	       ]
-    },{
-        code: 'div-gpt-ad-1486643357362-1',
-        sizes: [300, 250],
-        bids: [{ bidder: 'rhythmone', params: { placementId: '62486' }},
-	       { bidder: 'sekindoapn', params: { placementId: (detectWidth() <= 730) ? '11524061' : '11524060' }},
-               { bidder: 'conversant', params: { site_id: '109499' }},
-               { bidder: 'aol', params: { placement: '4472476', network: '10879.1'}},
-	       { bidder: 'sonobi', params: { placement_id: 'd9d59e7b0659942f917d' }},
-    	       { bidder: 'pulsepoint', params: { cf: '300X250', cp: '560454', ct: '587708' }},
-	       { bidder: 'brealtime', params: { placementId: '11551180' }},
-	       { bidder: 'districtmDMX', params: { id: '142749' }},
-	       { bidder: 'sekindoUM', params: { spaceId: (detectWidth() <= 730) ? '84467' : '84468' }}
-	       ]
-    },{
-        code: 'div-gpt-ad-1486643357362-2',
-        sizes: [300, 250],
-        bids: [{ bidder: 'rhythmone', params: { placementId: '62486' }},
-	       { bidder: 'sekindoapn', params: { placementId: (detectWidth() <= 730) ? '11524061' : '11524060' }},
-               { bidder: 'conversant', params: { site_id: '109499' }},
-               { bidder: 'aol', params: { placement: '4472476', network: '10879.1'}},
-	       { bidder: 'sonobi', params: { placement_id: 'd9d59e7b0659942f917d' }},
-    	       { bidder: 'pulsepoint', params: { cf: '300X250', cp: '560454', ct: '587712' }},
-	       { bidder: 'brealtime', params: { placementId: '11551180' }},
-	       { bidder: 'districtmDMX', params: { id: '142749' }},
-       	       { bidder: 'sekindoUM', params: { spaceId: (detectWidth() <= 730) ? '84467' : '84468' }}
-	       ]
-    },{
-        code: 'div-gpt-ad-1486643357362-3',
-        sizes: [300, 250],
-        bids: [{ bidder: 'rhythmone', params: { placementId: '62486' }},
-	       { bidder: 'sekindoapn', params: { placementId: (detectWidth() <= 730) ? '11524061' : '11524060' }},
-               { bidder: 'conversant', params: { site_id: '109499' }},
-               { bidder: 'aol', params: { placement: '4472476', network: '10879.1'}},
-	       { bidder: 'sonobi', params: { placement_id: 'd9d59e7b0659942f917d' }},
-    	       { bidder: 'pulsepoint', params: { cf: '300X250', cp: '560454', ct: '587713' }},
-	       { bidder: 'brealtime', params: { placementId: '11551180' }},
-	       { bidder: 'districtmDMX', params: { id: '142749' }},
-       	       { bidder: 'sekindoUM', params: { spaceId: (detectWidth() <= 730) ? '84467' : '84468' }}
-	       ]
-    },{
-        code: 'div-gpt-ad-1486643357362-4',
-        sizes: [300, 250],
-        bids: [{ bidder: 'rhythmone', params: { placementId: '62486' }},
-	       { bidder: 'sekindoapn', params: { placementId: (detectWidth() <= 730) ? '11524061' : '11524060' }},
-               { bidder: 'conversant', params: { site_id: '109499' }},
-               { bidder: 'aol', params: { placement: '4472476', network: '10879.1'}},
-	       { bidder: 'sonobi', params: { placement_id: 'd9d59e7b0659942f917d' }},
-    	       { bidder: 'pulsepoint', params: { cf: '300X250', cp: '560454', ct: '587715' }},
-	       { bidder: 'brealtime', params: { placementId: '11551180' }},
-	       { bidder: 'districtmDMX', params: { id: '142749'}},
-       	       { bidder: 'sekindoUM', params: { spaceId: (detectWidth() <= 730) ? '84467' : '84468' }}
-	       ]
-    },{
-        code: 'div-gpt-ad-1486643357362-0',
-        sizes: [300, 250],
-        bids: [{ bidder: 'rhythmone', params: { placementId: '62486' }},
-	       { bidder: 'sekindoapn', params: { placementId: (detectWidth() <= 730) ? '11524061' : '11524060' }},
-               { bidder: 'conversant', params: { site_id: '109499' }},
-               { bidder: 'aol', params: { placement: '4472476', network: '10879.1'}},     
-	       { bidder: 'sonobi', params: { placement_id: 'd9d59e7b0659942f917d' }},
-    	       { bidder: 'pulsepoint', params: { cf: '300X250', cp: '560454', ct: '587717' }},
-	       { bidder: 'brealtime', params: { placementId: '11551180' }},
-	       { bidder: 'districtmDMX', params: { id: '142749' }},
-       	       { bidder: 'sekindoUM', params: { spaceId: (detectWidth() <= 730) ? '84467' : '84468' }}
-	       ]
-    }];
-  pbjs.addAdUnits(adUnits);
-  pbjs.requestBids({
-    bidsBackHandler: function(bidResponses) {
-       initAdserver();
-     },
-    timeout : PREBID_TIMEOUT
-  });
-  
-pbjs.bidderSettings = {
-    //standard applies to all bidders
-    standard: {
-      adserverTargeting: [{
-        key: "hb_bidder",
-        val: function(bidResponse) {
-         return bidResponse.bidderCode;
-       }
-      }, {
-        key: "hb_adid",
-        val: function(bidResponse) {
-         return bidResponse.adId;
-       }
-      }, {
-        key: "hb_pb",
-        val: function(bidResponse) {
-        if(bidResponse.cpm >= 80) return '80.00';
-        return (Math.floor(bidResponse.cpm * 20) / 20).toFixed(2);
-      }
-      }]
-    },
-    
-    districtmDMX: {
-      bidCpmAdjustment: function(bidCpm) { 
-       return bidCpm * EXCHANGE_RATE * .85; 
-     },
-      alwaysUseBid: true
-    },
-
-    rhythmone: {
-      bidCpmAdjustment: function(bidCpm) { 
-       return bidCpm * EXCHANGE_RATE; 
-     },
-      alwaysUseBid: true
-    },
-    sonobi: {
-      bidCpmAdjustment: function(bidCpm) { 
-       return bidCpm * EXCHANGE_RATE; 
-     },
-      alwaysUseBid: true
-    },
-    sekindoapn: {
-      bidCpmAdjustment: function(bidCpm) { 
-       return bidCpm * EXCHANGE_RATE * .75; 
-     },
-      alwaysUseBid: true
-    },
-    sekindoUM: {
-      bidCpmAdjustment: function(bidCpm) { 
-       return bidCpm * EXCHANGE_RATE; 
-     },
-      alwaysUseBid: true
-    },    
-    brealtime: {
-      bidCpmAdjustment: function(bidCpm) {  
-       return bidCpm * EXCHANGE_RATE * .80;
-     },
-      alwaysUseBid: true
-    }
-   };
-});  //end push command
-pbjs.que.push(function() {
-    pbjs.enableAnalytics({
-        provider: 'ga',
-        options: {
-            global: 'ga',
-            enableDistribution: false,
-            sampling: 0.10
-        }
-    });
-});
+wdfq.cmd.push( function(){ (function($,w,d,u){
+if(typeof w.specOffer_hold!==u&&w.specOffer_hold)return;
+(function () {
+    var n=document.getElementsByTagName('script')[0],
+	s=document.createElement('script');
+    s.async=true;
+    s.type = 'text/javascript';
+    s.src = '//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js';
+    n.parentNode.insertBefore(s,n);
+})();
+(function () {
+    var n=document.getElementsByTagName('script')[0],
+	s=document.createElement('script');
+    s.async=true;
+    s.type = 'text/javascript';
+    s.src = 'https://cdn.connatix.com/min/connatix.renderer.infeed.min.js';
+	s.setAttribute('data-connatix-token', '3eba10a8-0186-4dc4-b7c6-4b438305846a');
+    n.parentNode.insertBefore(s,n);
+})();
+})(jQuery,window,document,'undefined') } );
 </script>
-
 <script>
-  dfpSlots = [];
-
-  googletag.cmd.push(function() {
-
-    dfpSlots[0] = googletag.defineSlot('/63826873/ANM_2017/ANM_300x250_Top', [300, 250], 'div-gpt-ad-1486643357362-6').addService(googletag.pubads());
-    dfpSlots[1] = googletag.defineSlot('/63826873/ANM_2017/ANM_300x250_Mid_1', [300, 250], 'div-gpt-ad-1486643357362-1').addService(googletag.pubads());
-    dfpSlots[2] = googletag.defineSlot('/63826873/ANM_2017/ANM_300x250_Mid_2', [300, 250], 'div-gpt-ad-1486643357362-2').addService(googletag.pubads());
-    dfpSlots[3] = googletag.defineSlot('/63826873/ANM_2017/ANM_300x250_Mid_3', [300, 250], 'div-gpt-ad-1486643357362-3').addService(googletag.pubads());
-    dfpSlots[4] = googletag.defineSlot('/63826873/ANM_2017/ANM_300x250_Mid_4', [300, 250], 'div-gpt-ad-1486643357362-4').addService(googletag.pubads());
-    dfpSlots[5] = googletag.defineSlot('/63826873/ANM_2017/ANM_300x250_Bottom', [300, 250], 'div-gpt-ad-1486643357362-0').addService(googletag.pubads());
-
-    googletag.defineSlot('/63826873/ANM_Interstitial', [1, 1], 'div-gpt-ad-1486643357362-7').addService(googletag.pubads());
-    googletag.defineSlot('/63826873/In_Image', [1, 1], 'div-gpt-ad-1486643357362-8').addService(googletag.pubads());
-    googletag.defineSlot('/63826873/ANM_Sticky', [1, 1], 'div-gpt-ad-1486643357362-9').addService(googletag.pubads());
-    googletag.defineOutOfPageSlot('/63826873/AdSupplyUnit', 'div-gpt-ad-1486643357362-10').addService(googletag.pubads());
-
-
-    pbjs.que.push(function() {
-     pbjs.setTargetingForGPTAsync();
-    });
-  
-    googletag.pubads().setTargeting("ImpressionNumber", refreshVariable.toString());
-    googletag.enableServices();
-
-    setInterval(function(){refreshSlot(dfpSlots);}, 60000);
-
-  });
+wdfq.cmd.push( function(){ (function($,w,d,u){
+if(typeof w.specOffer_hold!==u&&w.specOffer_hold)return;
+	(function () {
+	    var node = document.getElementsByTagName('script')[0],
+		rvbP = document.createElement('script');
+	    window.CMT = { appId: 'f0c3d4df-301c-4023-ad6c-af552757d44c' };
+	    rvbP.defer = true;
+	    rvbP.type = 'text/javascript';
+	    rvbP.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+			'//revboostprocdnadsprod.azureedge.net/scripts/latest/min.js';
+	    node.parentNode.insertBefore(rvbP, node);
+	})();
+})(jQuery,window,document,'undefined') } );
 </script>
 <link rel="alternate" type="application/rss+xml" title="a new mode feed" href="http://www.anewmode.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="a new mode » Privacy Policy Comments Feed" href="http://www.anewmode.com/privacy-policy/feed/">
@@ -547,18 +499,29 @@ New York, NY 10028-4004</p>
 
 			
 				<li>
-					<a class="bbp-forum-title" href="http://www.anewmode.com/topic/new-guy-was-spying-on-me/">New guy was spying on me …</a>
+					<a class="bbp-forum-title" href="http://www.anewmode.com/topic/reply-to-him-after-11-days-or-not/">Reply to him after 11 days or not?</a>
 
 					
 					
-						<div>1 minute ago</div>
+						<div>2 minutes ago</div>
 
 					
 				</li>
 
 			
 				<li>
-					<a class="bbp-forum-title" href="http://www.anewmode.com/topic/just-friends-12/">Just friends?</a>
+					<a class="bbp-forum-title" href="http://www.anewmode.com/topic/my-bf-loves-me-for-sex/">My bf loves me for sex</a>
+
+					
+					
+						<div>6 minutes ago</div>
+
+					
+				</li>
+
+			
+				<li>
+					<a class="bbp-forum-title" href="http://www.anewmode.com/topic/i-cannot-believe-he-is-doing-this/">I cannot believe he is doing this</a>
 
 					
 					
@@ -569,29 +532,7 @@ New York, NY 10028-4004</p>
 
 			
 				<li>
-					<a class="bbp-forum-title" href="http://www.anewmode.com/topic/my-boyfriends-mother-2/">My boyfriend's mother</a>
-
-					
-					
-						<div>15 minutes ago</div>
-
-					
-				</li>
-
-			
-				<li>
-					<a class="bbp-forum-title" href="http://www.anewmode.com/topic/is-he-just-being-nice-or-are-we-taking-steps-forward/">Is he just being nice or are we taking steps forward?</a>
-
-					
-					
-						<div>16 minutes ago</div>
-
-					
-				</li>
-
-			
-				<li>
-					<a class="bbp-forum-title" href="http://www.anewmode.com/topic/using-social-media-while-on-the-phone-again/">Using social media while on the phone again</a>
+					<a class="bbp-forum-title" href="http://www.anewmode.com/topic/update-how-red-is-this-red-flag/">UPDATE- How red is this red flag?</a>
 
 					
 					
@@ -602,44 +543,55 @@ New York, NY 10028-4004</p>
 
 			
 				<li>
-					<a class="bbp-forum-title" href="http://www.anewmode.com/topic/time-to-give-up-2/">Time to give up?</a>
+					<a class="bbp-forum-title" href="http://www.anewmode.com/topic/rommate/">rommate</a>
 
 					
 					
-						<div>48 minutes ago</div>
-
-					
-				</li>
-
-			
-				<li>
-					<a class="bbp-forum-title" href="http://www.anewmode.com/topic/we-connected-at-work-then-it-was-weird/">We connected at work then it was weird</a>
-
-					
-					
-						<div>1 hour, 6 minutes ago</div>
+						<div>1 hour, 2 minutes ago</div>
 
 					
 				</li>
 
 			
 				<li>
-					<a class="bbp-forum-title" href="http://www.anewmode.com/topic/how-do-i-get-him-to-kiss-me/">How do I get him to kiss me?</a>
+					<a class="bbp-forum-title" href="http://www.anewmode.com/topic/need-closure/">Need closure!</a>
 
 					
 					
-						<div>2 hours, 30 minutes ago</div>
+						<div>1 hour, 13 minutes ago</div>
 
 					
 				</li>
 
 			
 				<li>
-					<a class="bbp-forum-title" href="http://www.anewmode.com/topic/how-to-be-cool-when-asking-about-intentions/">How to be cool when asking about intentions</a>
+					<a class="bbp-forum-title" href="http://www.anewmode.com/topic/knock-some-sense-into-me-please/">Knock some sense into me please</a>
 
 					
 					
-						<div>2 hours, 52 minutes ago</div>
+						<div>1 hour, 30 minutes ago</div>
+
+					
+				</li>
+
+			
+				<li>
+					<a class="bbp-forum-title" href="http://www.anewmode.com/topic/dates-too-long-with-low-interest-guy/">dates too long with low interest guy?</a>
+
+					
+					
+						<div>1 hour, 35 minutes ago</div>
+
+					
+				</li>
+
+			
+				<li>
+					<a class="bbp-forum-title" href="http://www.anewmode.com/topic/dating-apps-and-men/">dating apps and men</a>
+
+					
+					
+						<div>1 hour, 38 minutes ago</div>
 
 					
 				</li>
@@ -716,7 +668,7 @@ New York, NY 10028-4004</p>
 			<ul><li><a href="//www.anewmode.com/about/">About</a></li><li><a href="//www.anewmode.com/quiz/does-he-like-me-quiz/">Does He Like Me? Quiz</a></li><li><a href="//www.anewmode.com/privacy-policy/">Privacy policy</a></li><span class="break-mobile"></span><li><a href="//www.anewmode.com/terms-of-use/">Terms of use</a></li><span class="break-tablet"></span><li><a href="//www.anewmode.com/ftc-disclosure/">FTC disclosure statement</a></li><span class="break-mobile"></span><li><a href="//www.anewmode.com/sites-we-love/">Sites We Love</a></li><li><a href="//www.anewmode.com/contact-us/">Contact Us</a></li><span class="break-mobile break-tablet break-desktop"></span><li><a href="//www.anewmode.com/dating-relationships/dating-tips-relationship-advice-for-women/">Ask a Guy (Dating Tips / Relationship Advice for Women): Frequently Asked Questions</a></li></ul>
 		</div>
 		<div class="content-footer">
-			<p>© A New Mode, Inc. 2009-2017 All rights reserved. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except as expressly permitted in writing by A New Mode, Inc.</p>
+			<p>© A New Mode, Inc. 2009-2018 All rights reserved. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except as expressly permitted in writing by A New Mode, Inc.</p>
 		</div>
 	</div>
 </div>
@@ -724,13 +676,7 @@ New York, NY 10028-4004</p>
 	<!-- -->
 	<!-- -->
 	<div class="hidden">
-		<script>(function(d, s, id) {
-	var js, pjs = d.getElementsByTagName(s)[0];
-	if (d.getElementById(id)) return;
-	js = d.createElement(s); js.id = id; js.async = true;
-	js.src = "http://cdn.pubexchange.com/modules/partner/a_new_mode";
-	pjs.parentNode.insertBefore(js, pjs);
-}(document, 'script', 'pubexchange-jssdk'));</script>
+		<!-- -->
 		<script type="text/javascript" async="" defer="" data-pin-color="white" data-pin-height="28" data-pin-hover="true" src="//assets.pinterest.com/js/pinit.js"></script>
 <script type="text/javascript">
 nopinset=function(){jQuery('.nopin img').attr('nopin','nopin');}
@@ -789,7 +735,7 @@ _atrk_opts = { atrk_acct:"A04Ij1aotV00UW", domain:"anewmode.com",dynamic: true};
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
 Page Caching using memcached
-Object Caching 1032/1115 objects using memcached
+Object Caching 1031/1109 objects using memcached
 Content Delivery Network via Rackspace Cloud Files: c8809abd1fa8b5c9a2a3-30e858ac79224cd1c7bb62654f7aaad0.r84.cf2.rackcdn.com
 
- Served from: www.anewmode.com @ 2017-11-21 15:51:51 by W3 Total Cache --></body></html>
+ Served from: www.anewmode.com @ 2018-05-24 10:08:50 by W3 Total Cache --></body></html>
