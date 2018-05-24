@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xpety.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123152803id_/http%3A//xpety.com/show/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xpety.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524144104id_/http%3A//xpety.com/show/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -46,4 +46,4 @@ If you have an account on the Website and have a password giving you access to c
 
 While we use commercially reasonable physical, managerial and technical safeguards to secure your information, the transmission of information via the internet is not completely secure and we cannot ensure or warrant the security of any information or content you transmit to us. Any information or content you transmit to us is done at your own risk.
 
-You are entitled to access, correct or delete your information on the Website and may request us to do so by contacting us at [[email protected]](http://xpety.com/cdn-cgi/l/email-protection#a6c5c9cbd6cacfc7c8c5c3e6ded6c3d2df88c5c9cb).
+You are entitled to access, correct or delete your information on the Website and may request us to do so by contacting us at [[email protected]](http://xpety.com/cdn-cgi/l/email-protection#fc9f93918c90959d929f99bc848c998885d29f9391).
