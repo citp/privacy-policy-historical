@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icloudpicture.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121190537id_/http%3A//icloudpicture.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icloudpicture.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524032554id_/http%3A//icloudpicture.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy at Download HD Wallpaper
 
