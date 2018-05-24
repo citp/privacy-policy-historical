@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzflare.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122170713id_/http%3A//buzzflare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzflare.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524214725id_/http%3A//buzzflare.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | {BUZZ} FLARE
 
