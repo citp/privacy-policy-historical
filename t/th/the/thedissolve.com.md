@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedissolve.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123190827id_/http%3A//thedissolve.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedissolve.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524144332id_/http%3A//thedissolve.com/privacy) for the most accurate reproduction.*
 
 # Privacy / The Dissolve
 
