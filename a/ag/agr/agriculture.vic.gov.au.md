@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agriculture.vic.gov.au privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121133346id_/http%3A//agriculture.vic.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agriculture.vic.gov.au privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524140331id_/http%3A//agriculture.vic.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy | Agriculture Victoria
 
@@ -39,7 +39,7 @@ Personal information is information or an opinion that is recorded in any form, 
 
 This Act is the legislation that regulates our collection and handling of personal information.
 
-Detailed information about the Act is available at the [Office of the Commissioner for Privacy and Data Protection](http://www.dataprotection.vic.gov.au/).
+Detailed information about the Act is available at the [Office of the Commissioner for Privacy and Data Protection](https://www.cpdp.vic.gov.au/).
 
 ## Collection of personal information
 
