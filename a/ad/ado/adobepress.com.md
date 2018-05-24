@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adobepress.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120163834id_/http%3A//www.adobepress.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adobepress.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524091103id_/http%3A//www.adobepress.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
