@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justdanica.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229152658id_/http%3A//www.justdanica.com/tour/pages.php%3Fid%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justdanica.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524233809id_/http%3A//www.justdanica.com/tour/pages.php%3Fid%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Just Danica: Privacy Policy
 
