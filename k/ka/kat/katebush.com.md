@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the katebush.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121135938id_/http%3A//katebush.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the katebush.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524153912id_/http%3A//www.katebush.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Kate Bush
 
