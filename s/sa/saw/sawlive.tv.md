@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sawlive.tv privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123013428id_/http%3A//www.sawlive.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sawlive.tv privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524091204id_/http%3A//sawlive.tv/privacy) for the most accurate reproduction.*
 
 # Stream&Watch
 
@@ -36,4 +36,4 @@ This Website is not directed to and intended for minors under 13 and does not kn
 
 Stream&Watch reserves the right to amend, update or modify, at any time, this Privacy Policy without notice, and it is your responsibility to review this Privacy Policy for any amendments. Such amendments, updates and modifications shall be effective immediately upon posting them on the Website. Your use of the Website following any amendment of this Privacy Policy will signify your assent to and acceptance of its revised terms. We recommend that you check the Website periodically for any such amendments to this Privacy Policy. We further recommend that you print a copy of this Privacy Policy for future reference. 
 
-If you have any questions or comments with regard to this Privacy Policy, your Personal Information or any other related issue, please contact us at info@sawlive.tv. 
+If you have any questions or comments with regard to this Privacy Policy, your Personal Information or any other related issue, please contact us at [[email protected]](http://sawlive.tv/cdn-cgi/l/email-protection)
