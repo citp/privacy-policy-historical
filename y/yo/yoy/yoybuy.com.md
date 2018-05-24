@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoybuy.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123043124id_/http%3A//www.yoybuy.com/en/help.html%3Fcateid%3D3237176) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoybuy.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524051825id_/http%3A//www.yoybuy.com/en/help.html%3Fcateid%3D3237176) for the most accurate reproduction.*
 
 # Privacy Statement at Best Taobao Agent Yoybuy
 
@@ -10,7 +10,9 @@ Yoybuy respect your privacy. This Privacy Statement informs you how we collect a
 
 The information about you which we may collect through this Web Site varies depending on how you use this Web Site. We will collect information through any electronic forms you submit via this Web Site, or other messages you send us by e-mail. 
 
-In common with many web sites, we may collect information such as the date and time of your visit to this Web Site, the pages accessed and any information downloaded. This information does not identify you as an individual and is used for statistical, reporting and Web Site administration and maintenance purposes only. Should you wish to no longer receive our mail, you may click on the unsubscribe link within each promotional email received and/or contact us at service@yoybuy.com. 
+We may collect the personal details you submit on our site, such as name and email, mobile phone number, address, etc. Or other information we communicate by email, telephone, live chat sessions,  or alternate electronic or paper communication. 
+
+In common with many websites, we may collect information such as the date and time of your visit to this Web Site, the pages accessed and any information downloaded. This information does not identify you as an individual and is used for statistical, reporting and Web Site administration and maintenance purposes only. Should you wish to no longer receive our mail, you may click on the unsubscribe link within each promotional email received and/or contact us at service@yoybuy.com. 
 
 **Retargeting Policy**
 
