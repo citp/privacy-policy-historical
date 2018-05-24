@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkstockphotos.co.uk privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120125537id_/http%3A//www.thinkstockphotos.co.uk/legal/privacy-policy%3Fisource%3Dfoot_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkstockphotos.co.uk privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524021344id_/http%3A//www.thinkstockphotos.co.uk/legal/privacy-policy%3Fisource%3Dfoot_privacy) for the most accurate reproduction.*
 
 # Thinkstock UK Privacy Policy - Royalty-Free Images Subscriptions
 
