@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefw.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202184637id_/http%3A//thefw.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefw.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524235201id_/http%3A//thefw.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TheFW
 
