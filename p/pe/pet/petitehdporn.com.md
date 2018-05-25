@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petitehdporn.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124105010id_/http%3A//petitehdporn.com/page/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petitehdporn.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525163437id_/http%3A//petitehdporn.com/page/privacy_policy) for the most accurate reproduction.*
 
 # Petite HD Porn - Privacy Policy
 
