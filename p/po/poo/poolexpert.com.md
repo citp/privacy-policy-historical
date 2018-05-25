@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the poolexpert.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218192037id_/http%3A//www.poolexpert.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poolexpert.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525084952id_/http%3A//www.poolexpert.com/privacy.aspx) for the most accurate reproduction.*
 
-# Fantasy NHL Hockey and MLB Baseball Pool Manager | PoolExpert.com
+# Fantasy NHL Hockey and MLB Baseball Pool Manager
 
 PoolExpert has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for all PoolExpert' Web sites.
 
