@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naa.gov.au privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217195624id_/http%3A//www.naa.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naa.gov.au privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525020342id_/http%3A//www.naa.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy – National Archives of Australia, Australian Government
 
@@ -26,7 +26,7 @@ The APPs generally apply to records created or received by the Archives to carry
 
 ### When the APPs apply to older records
 
-If an individual believes that their personal information contained on a Commonwealth record that is in the open access period is inaccurate, out-of-date, incomplete, irrelevant or misleading that individual may apply to the Archives to have the information amended. This request must be made under the _Freedom of Information Act 1982_ (FOI Act) rather than the Privacy Act but it reinforces your right under APP 13 to have your personal information corrected. Special considerations also apply to records in the Archives collection as these can only be destroyed or altered in accordance with the _Archives Act 1983_ (Cth) (Archives Act).
+If an individual believes that their personal information contained on an Archives' administrative record that is in the open access period is inaccurate, out-of-date, incomplete, irrelevant or misleading that individual may apply to the Archives to have the information amended. This request must be made under the _Freedom of Information Act 1982_ (FOI Act) rather than the Privacy Act but it reinforces your right under APP 13 to have your personal information corrected. Special considerations also apply to records in the Archives collection as these can only be destroyed or altered in accordance with the _Archives Act 1983_ (Cth) (Archives Act).
 
 ### The APPs do not apply to the Archives collection
 
@@ -52,8 +52,8 @@ Email [privacy@naa.gov.au](mailto:privacy@naa.gov.au)
 
 Privacy Contact Officer   
 National Archives of Australia   
-PO Box 7425   
-Canberra Business Centre ACT 2610   
+PO Box 4924   
+KINGSTON ACT 2604   
 Australia
 
 If you are not satisfied with how we have handled your privacy concerns you can also contact the [Office of the Australian Information Commissioner](http://www.oaic.gov.au/ "Link opens in a new window") (OAIC) directly. The OAIC is independent to us and has the power to investigate complaints about possible interferences with your privacy. It is usually best to contact us first. While it is possible for the first contact to be with the OAIC, they will generally ask us to conduct our own enquiry first and pass any findings on to the OAIC.
