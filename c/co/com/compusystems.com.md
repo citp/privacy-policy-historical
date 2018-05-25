@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compusystems.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211150617id_/http%3A//www.compusystems.com/events/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compusystems.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525151630id_/http%3A//www.compusystems.com/events/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | CompuSystems
 
