@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rank10.org privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505034010id_/http%3A//rank10.org/static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rank10.org privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525143417id_/http%3A//rank10.org/static/privacy.html) for the most accurate reproduction.*
 
 # Page Rank Checkcer - rank10.org
 
