@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realindiansexscandals.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109053747id_/http%3A//realindiansexscandals.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realindiansexscandals.com privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526012436id_/http%3A//realindiansexscandals.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
