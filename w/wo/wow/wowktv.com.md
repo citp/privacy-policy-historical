@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wowktv.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206144940id_/http%3A//www.wowktv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowktv.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525095539id_/http%3A//www.wowktv.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | West Virginia, Ohio, & Kentucky | WOWK
+# Privacy Policy - WOWK
 
 **Updated: November 06, 2017**
 
