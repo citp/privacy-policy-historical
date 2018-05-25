@@ -1,33 +1,45 @@
-> *The following text is extracted and transformed from the schlockmercenary.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122164418id_/http%3A//www.schlockmercenary.com/pages/privacy-policy-and-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schlockmercenary.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525071307id_/https%3A//www.schlockmercenary.com/pages/privacy-policy-and-terms-of-use) for the most accurate reproduction.*
 
 # Schlock Mercenary - Privacy Policy and Terms of Use
 
-This policy covers both the comic site found at [schlockmercenary.com](http://www.schlockmercenary.com/) and the store found at [store.schlockmercenary.com](http://store.schlockmercenary.com/). If you haven't shopped with us, much of this material will not apply to you.
+_This policy was last modified on May 23, 2018_
+
+This policy covers both the comic site found at [schlockmercenary.com](https://www.schlockmercenary.com/) and the store found at [shop.schlockmercenary.com](https://shop.schlockmercenary.com/). We also partner with Patreon for our subscriptions, Kickstarter for projects, Backerkit for fulfilling projects, with Shopify for our store, and with Mailchimp for our mailing list. All of these partners have thorough privacy policies and do not resell the data you enter there. It is our intention to be fully GDPR compliant. Our servers and sites are primarily located outside the EU.
+
+If you wish to remove your data from our site or our partners, please refer to the paragraph on opting out below or contact [support@schlockmercenary.com](mailto:support@schlockmercenary.com) for individual assistance.
 
 ### What information do we collect?
 
   * We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature.
-  * When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.
+  * When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. We require this information to fulfill orders. You may, however, visit our sites anonymously.
   * We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes.
   * Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.
 
 
 
-###  How do we use your information?
+### How do we use your information?
 
 We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
   * To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.
-  * To allow us to better service you in responding to your customer service requests.
+  * To allow us to better respond to your customer service requests.
   * To quickly process your transactions.
   * To administer a contest, promotion, survey or other site feature.
-  * If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.
+  * If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails.
 
 
+
+If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.
+
+For the membership or account portions of our site, we retain your data until you cancel your membership at which point it will be deleted. Or until your account has been inactive for longer than two years.
+
+If you have specific questions or concerns about our use of your personal data, please email [support@schlockmercenary.com](mailto:support@schlockmercenary.com) We will be happy to identify exactly what data we have and to adjust our use of it as you wish.
 
 ### How do we protect visitor information?
 
 Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
+
+We only retain data as long as necessary to provide the services for which you provided the data.
 
 ### Do we use "cookies"?
 
@@ -39,15 +51,38 @@ You can choose to have your computer warn you each time a cookie is being sent, 
 
 ### Do we disclose the information we collect to outside parties?
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include The Tayler Corporation. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice and obtain your permission, except as described below. The term "outside parties" does not include The Tayler Corporation. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is necessary to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
 
 Non-personally identifiable visitor information, like aggregated statistical data, may be provided to other parties for marketing, advertising, or other uses.
 
 ### How can you opt-out, remove or modify information you have provided to us?
 
-To modify your e-mail subscriptions, please let us know by modifying your preferences in the "My Account" section. Please note that due to email production schedules you may receive any emails already in production.
+To modify your e-mail subscriptions, you can use the unsubscribe link at the bottom of any email we send. Please note that due to email production schedules you may receive any emails already in production.
 
-To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
+To opt out of Patreon, Kickstarter, Backerkit, or one of our other partners, go to that site and use their account cancellation procedures.
+
+To opt out of membership on Schlockmercenary.com please let us know by modifying your preferences in the "My Account" section.
+
+To delete all of your shopping account information from our store database, sign into the "My Account" section of shop.schlockmercenary.com and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
+
+For assistance with any of these opt out choices, you may email [support@schlockmercenary.com](mailto:support@schlockmercenary.com) we will happily assist you in erasing any data you no longer wish us to have.
+
+Alternately you may communicate via paper mail by sending a letter to:
+
+Schlock Mercenary  
+PO Box 385  
+Orem UT 84059
+
+### Your rights
+
+If you reside in certain territories, including the EU, you have a number of rights in relation to your personal information. While some of these rights apply generally, certain rights apply only in certain limited cases. I describe these rights below:
+
+  * Access. You may have the right to access and receive a copy of the personal information I hold about you by contacting us at [support@schlockmercenary.com](mailto:support@schlockmercenary.com).
+  * Change, restrict, delete. You may also have rights to change, restrict my use of, or delete your personal information. Absent exceptional circumstances (like where I am required to store data for legal reasons) We will generally delete your personal information upon request.
+  * Object. You can object to (i) my processing of some of your information based on my legitimate interests and (ii) receiving marketing messages from me after providing your express consent to receive them. In such cases, We will delete your personal information unless we have compelling and legitimate grounds to continue using that information or if it is needed for legal reasons.
+  * Complain. If you reside in the EU and wish to raise a concern about our use of your information (and without prejudice to any other rights you may have), you have the right to do so with your local data protection authority.
+
+
 
 ### Third party links
 
@@ -55,11 +90,11 @@ In an attempt to provide you with increased value, we may include third party li
 
 ### Changes to our policy
 
-If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modified on September 16, 2011.
+If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. We will maintain a listing of when the policy is updated at the beginning of the policy.
 
 ### Questions and feedback
 
-We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
+We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue to [support@schlockmercenary.com](mailto:support@schlockmercenary.com)
 
 ### Online Policy Only
 
