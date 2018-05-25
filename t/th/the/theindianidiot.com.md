@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theindianidiot.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210013604id_/http%3A//theindianidiot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theindianidiot.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525162916id_/http%3A//theindianidiot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
