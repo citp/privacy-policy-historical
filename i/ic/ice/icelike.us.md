@@ -1,23 +1,43 @@
-> *The following text is extracted and transformed from the icelike.us privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218231452id_/http%3A//icelike.us/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icelike.us privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525034506id_/http%3A//icelike.us/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Personal information which we are collected is used to help make your visit to our site more enjoyable and productive. We takes the guarantee of confidentiality of personal data of users of our website. We use all personal data relating to members, visitors or customers of our website will be handled in accordance with the Law on Personal Data Protection, on October 26th, 1998 (Act no. 67/98).  
+**Sharing your personal information We don't sell, trade and rent your personal information to others and don't sell your access_token likes to other website. We are using your  access_token just for free Facebook auto status and photo like and we don't sell your personal information to others.
 
+**Third party websites**
 
-###  **What we collect from user of our website ?**
+In our website third party advertisement may be display like Google adsense. Users may find advertising or other content on our site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our site, is subject to that website's own terms and policies.
 
-Personal information collected include your name, UserID and others.The use of our website implies the acceptance of our Privacy Statement. The Vipfb Team have the right to change this agreement at any time without any notice. Therefore, to stay updated, we recommend you to check our privacy policy periodically.  
-We do not sell, trade and rent your personal information(access token) to other website or individual.  
-   
+**Informations We Store**
 
+When You Login To Icelike, We Receive Some Information About You Including:
 
-###  Changes in privacy policy
+* All The Publicly Available Information Of Your Facebook Account.
+  
 
-We recommend our website users to periodically check this page for any changes to stay updated about how we are protect the personal information which we collects. It is your responsibility to review and agree our privacy policy.  
-   
+* Your Latest Status Updates, Photos, Videos & Shared Posts.
+  
 
+* Your Profile Details (Like Number Of Friends, Followers etc).
+  
+Your Access Token Will Also Be Stored In Our Database As Long As It'll Be Active. It'll Automatically Get Removed From Our Database When It Expires. It'll Be Used To Send Likes & Comments On Posts Of Other Users. Note: We Don't Save Any Of Your Sensitive Information (Like Password etc) In Any Form Or Manner And We'll Never Do So.
 
-###  Links to other websites
+**What we collect ?**
 
-Our website may contain links of other websites in your interest. These are the google adsense ads. Once you have click on these links to leave our site, please note that we do not have any control over on other website. Therefore, we will not be responsible for the privacy and protection  of any information which you provide to other such sites. 
+We may collect the following information:  
+Facebook Profile ID   
+Facebook Access_Token 
+
+**Changes to this privacy policy**
+
+We encourage users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+**Consent**
+
+By using this site, You Agree To Our Privacy Policy And Terms Of Use. If you do not agree to this policy, please don't use our site. Your continued use of the site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+**Contact us**
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us.This document was last updated on February 26, 2018.
+
+[ Go homepage ](https://web.archive.org/web/20180525034506id_/http%3A//) **
