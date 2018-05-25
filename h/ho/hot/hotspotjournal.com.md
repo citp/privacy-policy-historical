@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotspotjournal.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905214152id_/http%3A//www.hotspotjournal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotspotjournal.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525194607id_/http%3A//www.hotspotjournal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
