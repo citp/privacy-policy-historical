@@ -1,151 +1,385 @@
-> *The following text is extracted and transformed from the loopup.com privacy policy that was archived on 2017-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170808122133id_/https%3A//loopup.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loopup.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525225020id_/https%3A//loopup.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # LoopUp Privacy Policy | Remote Meeting Solution for Professionals.
 
-v4_2, last updated June 30, 2016
+v5, last updated May 24, 2018
 
 * * *
 
-Although we use the European term **personal data** in this policy, we use it as interchangeable with the US term **personally identifiable information**. In each case we mean any information identifying a living natural person or which could identify that person in conjunction with other information, such as their name, numbers or address and we protect it regardless of the term applied.
+The LoopUp Group ( **“LoopUp”** , “us”, **“we”** or **“our”** ) is strongly committed to protecting your personal data / personally identifiable information ( **“personal data”** ) and upholding your right to privacy. This privacy policy describes the collection and processing of personal data by us as well as an overview of the rights which you have in relation to your personal data. It applies to information which you may provide directly to us or via third parties.
 
-**Your use of our services is your consent to our use of your personal data (and other data you provide to us) in accordance with this policy, including (if you are a resident of the European Economic Area (‘EEA’)) the transfer of your personal data outside the EEA.**
+Our policy is to be as transparent as possible about how and why we process your personal data. However, should you have any questions please contact us at either [privacy@loopup.com](mailto:privacy@loopup.com) or by writing to us at **Legal and Compliance, First Floor, 78 Kingsland Road, London E2 8DP, UK.**
 
-As data protection law and practice is constantly developing, and we’ll also continue to innovate, we’ll need to update this policy now and then by posting a new policy on our websites that takes effect from the date stated. It is your responsibility to return to our websites from time to time and check for changes. By providing us with personal data about yourself or others, whether by visiting our websites, using our products or services or otherwise, you agree to our processing the personal data you provide to us in accordance with the then-current version of this policy.
+This privacy policy is set out in the following sections:
 
-## Who Are We?
+**PART 1 – WHO WE ARE  
+PART 2 – INFORMATION WE MAY COLLECT AND HOW WE USE IT  
+PART 3 – HOW WE KEEP YOUR PERSONAL DATA SECURE  
+PART 4 – DELETING YOUR PERSONAL DATA  
+PART 5 – YOUR RIGHTS  
+PART 6 – UPDATING THIS POLICY**
 
-LOOPUP, CALLEFFECT and RING2 are trading names of the Ring2 group of companies, which includes the UK parent company Ring2 Communications Limited ( **‘LoopUp UK’** ) and its subsidiaries Ring2 Communications LLC in San Francisco ( **‘LoopUp USA’** ), Ring2 (HK) Ltd in Hong Kong ( **‘LoopUp HK’** ) and Ring2 (Barbados) Ltd in Barbados ( **‘LoopUp BBD’** ). **‘Us’, ‘we’** and **‘our’** mean one or all of LoopUp UK, LoopUp USA and/or LoopUp HK, according to the context. All of the Ring2 group of companies agree to abide by this Privacy Policy and applicable data protection laws.
+## Part 1 – Who we are
 
-## How Do We Obtain Personal Data?
+  1. **The LoopUp Group**
+    1. The LoopUp Group consists of different legal entities operating globally. This privacy policy is issued on behalf of the LoopUp Group. LoopUp Limited is responsible for this website, however, the following entities are the operating companies within the LoopUp Group:
 
-In a number of ways, for example:
+• **UK and EMEA** – LoopUp Limited, a company incorporated and registered in England and Wales with company number 04677393 at First Floor, 78 Kingsland Road, London E2 8DP, UK;
 
-  * You might directly provide us with your details when you ask about our services and, when you become a customer, you might give us further information such as your employer, credit card information, and other information for security issues, such as date of birth, usernames and passwords. We call this **‘Account Data’.**
-  * We may receive personal data from our customers and their guests when they use our services and our software, eg: names and numbers when people dial in to a conference or are dialed out to by the User; customers using the Administrator area of your account to add Users (those who can host conferences or their delegates) or change their User profiles; Users and their delegates changing User profiles; customers might ask us to reference their contact database; public profiles on social media and networking services; and resolving names by checking the numbers on your conference against your mobile or PC address book. We call this **‘Service Data’**.
-  * When you visit our websites, we may collect information about your visit such as your IP address and the pages you visited. We may analyse such information, for example for technical purposes and to improve the customer experience.
-  * We may also receive information because someone you know thought you would appreciate our services and used our ‘Tell a Friend’ service.
+• **Americas (excluding Caribbean)** – LoopUp LLC, a company incorporated and registered in Nevada, United States of America with company number LLC11486-2003 at 282 2nd Street, Suite 200, San Francisco, CA 94105, USA;
 
+• **Caribbean** – LoopUp (Barbados) Limited, a company incorporated and registered in Barbados with company number 35849 at Level 1, One Welches, Welches, St Thomas, Barbados;
 
+• **Asia** – LoopUp (HK) Limited, a company incorporated and registered in Hong Kong with company number 1611980 at Level 43, AIA Tower, 183 Electric Road, North Point, Hong Kong; and
 
-When you provide us with personal data about yourself or another person, you are confirming to us that you are authorised to provide us with that information and that any personal data you give us is accurate and up-to-date.
+• **Australasia** – LoopUp Australia Pty Limited, a company incorporated and registered in New South Wales, Australia with company number 621 214 051 at 100 Harris Street, Pyrmont, Sydney NSW 2009, Australia. 
 
-## How do we use personal data?
+  2. **Contact us**
+    1. Please feel free to contact the relevant group entity that you have been dealing with, however, in order to process any requests as swiftly as possible we encourage you to contact us at either [privacy@loopup.com](mailto:privacy@loopup.com) or by writing to us at Legal and Compliance, First Floor, 78 Kingsland Road, London E2 8DP, UK. 
 
-We use personal data in the usual course of our business, for example:
+## Part 2 – Information we may collect and how we use it
 
-  * To respond to enquiries, to provide our websites, software and services and to invoice accordingly.
-  * To analyse and improve our business and service, looking at technology, performance and network analysis, customer service, marketing, finance, billing, and the prevention or detection of fraud.
-  * To communicate with you about same or similar services that we offer, whether they are our own services or services that we resell. If we do so, we will provide you with an easy and free way to opt-out of receiving such communications in the future.
-  * In certain instances to share it within our group of companies and with limited third parties as described in this policy, eg: for service provision and business continuity purposes.
+  3. **Collecting your personal data**
+    1. We use different methods for collecting your personal data including:
 
+• **Direct interactions**. By signing up to our services, corresponding directly with us, investing in our company or applying for jobs with us.
 
+• **Automated technologies**. As you interact with our website, we may automatically collect technical data about your equipment, browsing actions and patterns. We collect this personal data by using cookies. Such activity is carried out in accordance with our [Cookies Policy](https://web.archive.org/legal/cookie-policy/).
 
-## Financial Data
+• **Third party or publicly available sources**. We may receive personal data about you from various third parties and public sources (such as LinkedIn).
 
-We do not retain any financial data, such as bank details or credit card details. Any such data is collected and processed by our payment processors to process the relevant payments and those processors will at all times comply with the applicable industry codes and laws regarding security and retention of such data, for example the Payment Card Industry Data Security Standard.
+  4. **How we use your personal data**
+    1. Personal data, or personally identifiable information, means any information where an individual can be identified (or is identifiable). We shall only use your personal data when the law allows us to do so.
+    2. Most commonly we shall use your personal data for either: (i) the performance of a contract we are about to enter or have entered into with you; (ii) for our legitimate interests (or those of a third party) provided always that your interests and fundamental interest do not override those interests (please notify us if you believe we have not assessed this correctly in relation to your own personal data); (iii) where we need to comply with a legal or regulatory obligation; or (iv) where you have consented to our collection and use.
+    3. Set out below are the principal categories of individuals where we may collect and process personal data (other than from our employees which is governed by a separate policy). Please note that these categories are for ease of reference and you may fall into one or more such categories. Similarly we may be relying upon more than one lawful basis for processing.
 
-## Sharing Data & International Transfers
+**Customers**
 
-First, we will _not_ give, sell or rent your personal data to third parties so they can market their services to you. Nor do we accept advertising from third parties on our websites. We do share personal data as follows:
+Purpose for which we collect personal data | Type of personal data collected | Lawful basis for processing  
+---|---|---  
+To register you as a new customer | 
 
-  * A key benefit of our services is to make conferences and remote meetings more productive by showing who’s on a conference, and other data, to the conference guests in accordance with this policy. Customers’ Administrators can use the Administrator Portal to review, edit, change or delete all information on their accounts including adding and removing Hosts and reviewing Hosts’ details and history. Delegates can manage the conferences of Hosts for whom they’re authorised (apart from changing a Host’s profile). Passwords are not visible.
-  * To provide a global service to you, and to provide for disaster recovery and business continuity, we may share information, including your personal data, between our datacenters in Chicago, USA, London, UK and Hong Kong. These are state-of-the-art datacenters hosted in locations operated by specialist third parties, and we have written contracts in place incorporating relevant wording to safeguard personal data.
-  * We share the minimal personal data required with our suppliers, eg: telephone numbers with our carrier partners, identity with credit agencies for credit checks, payment details with finance partners, and otherwise with our contractors and advisors to help us operate, secure and analyse our business.
-  * We may be obliged to disclose your personal data to comply with any law, order or request of a court, government authority, other competent legal or regulatory authority or any applicable code of practice or guideline.
-  * If we enter negotiations with third parties for the sale or purchase of all or part of our business, we will only disclose personal data to that third party to the extent it relates to that business and only under conditions of confidentiality requiring the third party to be bound by the privacy policy that applies to that data.
+• Contact details (name, title/position, corporate email address, corporate phone number and corporate postal address for customer administrator)
 
+• Financial data (corporate billing information – to the extent it relates to a personal account (such as for sole traders), credit card (to the extent personal credit cards are used))
 
+| Performance of a contract  
+To provision new users | • Contact details (name, location and email address of each provisioned user) | Performance of a contract  
+General account management, including: 
 
-We’re a global business providing a global service and therefore certain of the third parties mentioned in the paragraph above may be outside the USA, the European Economic Area or in countries whose laws do not provide adequate protection to personal data (as determined under EU or UK law). In all cases we will take steps to ensure that appropriate security measures are in place to protect your personal data. For example, LoopUp UK and LoopUp USA have entered into the European Model Clauses on transfer of personal data outside the EEA with each other for these purposes. **You consent to such transfers when you use our services.**
+• provision of the services to you; 
 
-## Live Call Status
+• managing payments, fees and charges;
 
-It’s much more useful, and your calls are more productive, when you know who’s on your conference by name, not just by number. It makes it much easier for the host to effectively manage the conference and for everyone to achieve their results faster. When you’re on a LoopUp conference a list of the guests’ names and/or numbers, as well as their status such as “on hold” etc, is viewable by those on the conference – we call this **Live Call Status**. As part of our award-winning conferencing service, we provide Live Call Status not just through browsers online but also on smartphones using our proprietary software; and we allow the call host full control over each call leg, so they know who is on the call and can eg: rename call legs, put them on mute or hold and drop them if they don’t recognize them. Also, where a public profile on a social media or networking service is available for someone on a conference, we may display some or all of that public profile in Live Call Status subject to obtaining any relevant consent.
+• collection and recovery of money owed to us;
 
-## Information from Participants
+• notifying you of changes to our services, terms or other important announcements; and;
 
-As a guest on a conference, you might provide us with your name and number when using our services to join (by entering your name on our websites or through a mobile application), saying your name when you join, or allowing the number of the phone you are calling from (called your **CLI** or Calling Line Identification) to be passed on. In such cases, that is your consent to our including your name, CLI or other data we receive as part of Live Call Status. You can always dial-in and block your CLI if you wish and your service provider will be able to tell you how.
+• service updates 
 
-## ‘Name Resolution’
+| 
 
-As above, if a guest joins a LoopUp session using our services, they’ll be shown in Live Call Status by the name and number they entered during the join process. Similarly, if a guest has been added to the session by the conference host initiating a call to that guest, the name associated with that guest by the conference host will be displayed in Live Call Status. However, if neither of the above leads to a name for a number on your conference, we’ll try to resolve that number against a name as follows.
+• Call detail records (name of users (if provided), time, date and duration of call, project name (if any)) 
 
-First we do a “back-end look-up” in three ways:
+• Call recordings (if so requested) 
 
-  * we check if the number is for one of our other registered LoopUp users,
-  * if you or your employer have provided us with a contact list for this purpose, we’ll check against that (only for your account’s conferences, we won’t use it for other customers’ conferences), and
-  * where allowed by law, we may carry out a look-up against a third-party database. If we do, we’ll ensure that third party maintains confidentiality.
+• Contact details (name, title/position, corporate email address, corporate phone number and corporate address for customer administrator) 
 
+• Contact details (name, location and email address of each provisioned user)
 
+• User profiles
 
-If this back-end lookup produces a name, we show that in Live Call Status to all guests.
+| 
 
-Second, we do a “local look-up”: the conference host’s and guest’s respective LoopUp mobile apps or web client check the number against the device’s address book and cached numbers in the software respectively. If the number is resolved to a name, it is only shown locally in that software – the name is not transferred off that local device or PC, nor is it displayed in Live Call Status for others to see. A local look-up will take priority over a back-end look-up. Also, if the call host has enabled the feature, the host’s LoopUp Toolbar for Outlook will send any name resolution to Live Call Status; so everyone on the call can see the update as if the host had edited the name themselves.
+Performance of contract
 
-## Call History & Invoices
+Regulatory or legal compliance
 
-Names are shown as above and also in the summary and details of the conference we provide the conference host afterwards, on their Call History webpage, in the post-conference email and in their invoice.
+Legitimate interests ((i) to recover debts due to us, and (ii) to keep our records updated and to analyse how customers use our services)  
+  
+Troubleshooting / customer support | 
 
-## Screen Sharing
+• Contact details (name, title/position, corporate email address, corporate phone number and corporate address for customer administrator) 
 
-Screen sharing allows you to share your screen or a selectable area of your screen in real time with others on your conference. The content is only made available to those on your conference at that time and no copy is kept unless the conference host asks us to record their conference for them, in which case, please see the _Recording_ section below.
+• Contact details (name, location and email address of each provisioned user) 
 
-## CallEffect™
+• In limited instances we may be required to ‘ping’ an account to monitor and act against fraudulent use 
 
-CallEffect operates within a third-party application or ‘TPA’, such as Salesforce.com, allowing you to click to call people within the TPA, take the call on your normal landline or mobile phone, and automatically log the call within the TPA with any notes you want. By using CallEffect, you automatically transfer a copy of the names and phone numbers displayed within the live webpage of the TPA to our system so we can offer the service and make the call. Once that data leaves the TPA, it is no longer governed by their privacy policy; instead it is governed by our contract with you. While we only act as a data processor of that data, during that processing the data is protected by the technical and operational measures that are part of our continuing data security practices.
+• Technical data such as IP address, browser type and version, time zone setting, browser plug-in types and versions, operating systems and platform and other technology on the devises which you use to access our services 
 
-## ‘Tell a Friend’
+| 
 
-If you give us a person’s details using our ‘Tell a Friend’ service you warrant that you have consent to do so, the person is over 18 years old and the email sent is not unwanted or malicious (if you do not use our standard wording). You understand we will tell the person receiving the email that it was sent by you or on your recommendation. If we receive your personal data from a subscriber using our ‘Tell a Friend’ service, we will send you an email with your friend’s message and details on how to sign up to our service and give you an unsubscribe method. If you unsubscribe, we will only retain your personal data for the purpose of checking that we do not send you another email under the ‘Tell a Friend’ service.
+Performance of contract 
 
-## Recordings
+Legitimate interests ((i) to protect against fraudulent use that may be damaging to our services or your account, and (ii) for running our business, provision of IT services and network security)  
+  
+**Users of LoopUp**
 
-If the conference host asks us to record all or part of their conference, we will play an audio notification to all on the call, and make it clear that the conference is being recorded in other media as appropriate. We’ll make the recording available in electronic format to the conference host for download for 60 days after the conference ends, and we’ll delete the recording from our system after 90 days. If you ask us to record a conference, you are the data controller of that recording and you warrant that you have the consent of all parties on that conference to do so and that you will only use such recording in accordance with all applicable laws, including data protection laws.
+Purpose for which we collect personal data | Type of personal data collected | Lawful basis for processing   
+---|---|---  
+To grant access to LoopUp | 
 
-Separately, we reserve the right, in accordance with applicable law, to monitor or record any telephone call or other communication with us, eg: for training purposes or to monitor the quality of customer services. We will notify you when a recording is taking place as required by law.
+• Contact details (to the extent provided – name and phone number) 
 
-## Cookies, Web Beacons etc
+• Call recordings (if so approved) 
 
-Our websites use ‘cookies’ and web beacons, and when you use our services we use cookies, to deliver and optimize your experience. You can see more in our [Cookie Policy](https://loopup.com/docs/cookie_policy.html "LoopUp Cookie Policy"), which is part of (and incorporated into) this Privacy Policy.
+| 
 
-## California Privacy Notice
+Consent (requirement to manually include caller ID details and prior notification of call recordings before use)
 
-Our websites do not respond to ‘Do-Not-Track’ signals communicated by your internet browser.
+Legitimate interests (for running our business, provision of IT services and network security)  
+  
+Collation of feedback | 
 
-## Sensitive Personal Data
+• Contact details (to the extent provided) 
 
-Given the nature of our business, we do not ask for ‘sensitive personal data’, such as information about your health, political opinions, racial origins or sexual life and we’re unlikely to receive it. However, as a user of our services, you may choose to transmit sensitive personal data over our services to your conference guests. If you do so: (a) you must have full authority or consent to do so and (b) you acknowledge that we do not monitor or review content transmitted over our services and (c) as with any content you transmit, it will be dealt with according to this privacy policy, including possible transfer to our offices or the third parties described in this policy, inside or outside the EEA in the situations described in this policy.
+| 
 
-## Retention
+Consent (requirement to manually include caller ID details and prior notification of call recordings before use)
 
-We will only retain personal data for a reasonable period based on our contract with you and business requirements, for example to use that particular data as described in this policy or to comply with any law, order of a court, government authority, other competent legal or regulatory authority or any applicable code of practice or guideline. Our default retention period for personal data within Service Data and Account Data is 12 months (from the date of the conference or date of termination of the Account respectively) although this period may differ by country or type of personal data to comply with applicable laws.
+Legitimate interests (for running our business, provision of IT services and network security)  
+  
+**Prospective customers and website users**
 
-## Security
+Purpose for which we collect personal data | Type of personal data collected | Lawful basis for processing   
+---|---|---  
+‘Tell a Friend’ (or similar) | 
 
-The security of data is central to our business. The LoopUp group’s information security policies and practices have been audited and certified as compliant with ISO 27001, the international standard for information security, by the British Standards Institute. In accordance with our legal obligations, we take appropriate technical and organisational measures to protect your personal data and keep those measures under review. For example, our data-centres are protected by industry-standard technical and operational security such as IT firewalls and access restrictions at their physical locations. However, we can only be responsible for systems that we control and we would remind you that the internet itself is not a secure environment.
+• Contact details (name, title/position, corporate email address, corporate phone number and corporate address)
 
-## Third Party Services
+| 
 
-When we resell to you a service delivered or provided by a third party (‘ **Third Party Service** ’), including any software that is delivered or owned by a third party (‘ **Third Party Software** ’), it is that third party’s separate privacy policy that will apply to your personal data and your use of the Third Party Service and Third Party Software. Your use of a Third Party Service is not covered by this LoopUp Privacy Policy. Please therefore review the privacy policy for any Third Party Service and Third Party Software before using it.
+Consent (on behalf of third party)  
+  
+‘Request a Trial’ (or similar) | 
 
-Similarly, if you access or initiate the services of another provider through our websites or services, for example through a link on our websites or through a ‘start another service’ feature of our services, your use of those services is entirely at your risk and governed by the terms and privacy policy of that third party provider, not LoopUp.
+• Contact details (name, title/position, corporate email address, corporate phone number and corporate address)
 
-## Your rights
+| 
 
-You are entitled to know if we are processing any personal data about you and, if we are, with certain limitations, to a copy of that personal data. You can also ask us to remove or correct inaccurate personal data we hold about you and that we do not use your details to contact you for marketing purposes. We’ll ask you to prove your identity when you make such a request.
+Consent  
+  
+Providing access to our website | 
 
-## Contact Us
+• Cookies (as per our [Cookies Policy](https://web.archive.org/legal/cookie-policy/))
 
-You can contact us by email at [privacy@loopup.com](mailto:privacy@loopup.com) or by post to the Privacy Officer at the address given below, depending on which LoopUp company is responsible for your data (see _Who_ are ‘ _we_ ’? above). While we ask you to raise any questions or complaints with us first, as we want to make sure we provide you with a world-class service, you are always entitled to notify a complaint to any regulator such as the UK Information Commissioner at any time.
+| 
 
-LoopUp UK’s details are: Ring2 Communications Limited, First Floor, 78 Kingsland Road, London E2 8DP, UK. LoopUp UK is a company incorporated in England, company number 4677393, and is notified with the UK Information Commissioner, number Z855314X.
+Performance of a contract
 
-LoopUp USA’s details are: Ring2 Communications LLC, 282 2nd Street, Suite 200, San Francisco, CA 94105-3121, USA. LoopUp USA is a company registered in Nevada.
+Legitimate interests (for analytical review)  
+  
+Prospecting and marketing (providing information about our services) | 
 
-LoopUp HK’s details are Ring2 (HK) Limited, Level 43, AIA Tower, 183 Electric Road, North Point, HK. LoopUp HK is a company incorporated in HK, number 1611980, BR: 58468840-000-06-11-4.
+• Contact details (name, title/position, corporate email address, corporate phone number and corporate address)
 
-LoopUp BBD’s details are Ring2 (Barbados) Ltd, The Gables, Haggatt Hall, St. Michael, BB11063, Barbados. LoopUp BBD is a company incorporated in Barbados, company number: 35849.
+| 
 
-© 2016 Ring2 Communications Limited t/a LoopUp, all rights reserved.
+Legitimate interests (for prospecting new business opportunities)
+
+Consent (where sought and provided)  
+  
+Operation of prizes or competition | 
+
+• As set out in the specific terms and condition, however, will require contact details (name, title/position, corporate email address, corporate phone number and corporate address)
+
+| 
+
+Consent  
+  
+**Job applicants**
+
+Purpose for which we collect personal data | Type of personal data collected | Lawful basis for processing   
+---|---|---  
+Considering your job application | 
+
+• Contact details (name, email address, phone number and address)
+
+• Employment history, experience and interests
+
+• Passport and visa / right to work (or such other evidence of status or qualifications)
+
+| 
+
+Performance of a contract
+
+Regulatory or legal compliance
+
+Legitimate interests (to identify right to work and conduct necessary background checks)  
+  
+**Visitors to our offices or to our stands at trade fairs**
+
+Purpose for which we collect personal data | Type of personal data collected | Lawful basis for processing   
+---|---|---  
+Monitoring attendance at our offices | 
+
+• Contact details (name, email address and person visiting)
+
+• CCTV (where applicable)
+
+| 
+
+Regulatory or legal compliance
+
+Legitimate interests (for operation of and maintaining security at our premises)  
+  
+Monitoring attendance at trade fairs | 
+
+• Contact details (name, title/position, corporate email address, corporate phone number and corporate address)
+
+| 
+
+Performance of contract (in relation to pre-contract negotiations)
+
+Legitimate interests (for prospecting new business opportunities)
+
+Consent (where sought and provided)  
+  
+**Investors**
+
+Purpose for which we collect personal data | Type of personal data collected | Lawful basis for processing   
+---|---|---  
+  
+Maintenance of share register
+
+Provision of investor information
+
+| 
+
+• Contact details (name, email address, phone number and address)
+
+• Number of shareholding
+
+• Contact details (name, email address, phone number and address)
+
+• Number of shareholding
+
+| 
+
+Performance of contract
+
+Regulatory or legal compliance
+
+Performance of contract
+
+Regulatory or legal compliance  
+  
+**Suppliers**
+
+Purpose for which we collect personal data | Type of personal data collected | Lawful basis for processing   
+---|---|---  
+  
+Receipt of services
+
+| 
+
+• Contact details (name, title/position, corporate email address, corporate phone number and corporate postal address for customer administrator)
+
+• Financial data (corporate billing information – to the extent it relates to a personal account (such as for sole traders))
+
+| 
+
+Performance of contract  
+  
+**Others who get in touch with us**
+
+Purpose for which we collect personal data | Type of personal data collected | Lawful basis for processing   
+---|---|---  
+  
+Responding to communication
+
+| 
+
+• Contact details (to the extent provided – such as name, email address, phone number and address)
+
+• Such other information you wish to provide
+
+| 
+
+Performance of contract
+
+Regulatory or legal compliance  
+  
+    4. Please note that in instances where we refer to ‘performance of a contract’ this may include performance of a contract which has been entered into with your employer. In such circumstances we are either relying upon our legitimate interests or expect your employer has suitable authority for us to carry out such activity.
+
+  5. **Unsubscribing**
+    1. Where we are processing your personal data based on consent or pursuant to our legitimate interests (and feel your interests should override ours), you have the right to withdraw such consent or object to our use of legitimate interests as a ground for processing your personal data at any time or notify us. To do so, simply: (i) opt out or unsubscribe (using our preference centre or the unsubscribe link to emails); (ii) notify your LoopUp point of contact; or (iii) contact us at [privacy@loopup.com](mailto:privacy@loopup.com). Please allow us a short time to process such requests.
+    2. In some instances, where we collect personal data by law or pursuant to the terms of a contract we have with you if you fail to provide such data when requested we may not be able to fully perform our contract with you. In such an instance we shall endeavor to let you know the consequence.
+  6. **Sensitive personal data**
+    1. Please note that we will not actively collect any ‘sensitive personal data’ or special categories of personal data about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data).
+    2. This website and our services are not intended for children and we do not knowingly collect data relating to children.
+    3. As a user of our services, you may choose to transmit sensitive personal data or data relating to children over our service. If you do so, you: (i) must have appropriate authority to do so; (ii) acknowledge that we do not monitor or review consent transmitted over our services; and (iii) acknowledge that such personal data shall be treated in accordance with this privacy policy.
+  7. **Keeping your personal data up to date**
+    1. It is important that the personal data that we hold on you is kept accurate and up to date. Therefore, please keep us informed if your personal data changes during your relationship with us.
+  8. **Sharing your personal data**
+    1. We will only share personal data with others when we are legally permitted to do so. When we share personal data with others, we put contractual arrangements and security mechanisms in place to protect the personal data and to comply with our data protection, confidentiality and security standards.
+    2. We are part of a global network of firms and we use third parties located in other countries to help us run our business. As a result, personal data may be transferred outside the countries where we and our clients are located. This includes to countries outside the European Economic Union (“EEA”) and to countries that do not have laws that provide specific protection for personal data. We have taken steps to ensure all personal data is provided with adequate protection and that all transfers of personal data outside the EEA are done lawfully. Where we transfer personal data outside of the EEA to a country not determined by the European Commission as providing an adequate level of protection for personal data, the transfers will be under an agreement which covers the requirements for the transfer of personal data outside the EEA, such as the European Commission approved Standard Contractual Clauses.
+    3. Specifically, personal data held by us may be transferred to:
+
+• **Other members within the LoopUp Group.** We may share personal data with other LoopUp entities where necessary for administrative purposes and to provide our services (and customer support) to our customers. This transfer may include transfers to our international data centres for disaster recovery and business continuity purposes. Furthermore, job applicant personal data may be transferred within the group.
+
+• **Third party organisations that provide applications/functionality, data processing or IT services to us.** We use third parties to support us in providing our services and to help provide, run and manage our internal IT systems. For example, providers of information technology, cloud based software as a service providers, website hosting and management, data analysis, data back-up, security and storage services. The servers powering and facilitating that cloud infrastructure are located in secure data centres around the world, and personal data may be stored in any one of them.
+
+• **Third party organisations that otherwise assist us in providing goods, services or information.** For example credit agencies, our share registrars, recruiters or such other ancillary service provider or service providers to which we may resell certain services (such as operator assisted event calls).
+
+• **Auditors and other professional advisers.** Such as our accountants, lawyer, brokers and such other professional service providers.
+
+• **Law enforcement or other government and regulatory agencies.** Occasionally, we may receive requests from third parties with authority to obtain disclosure of personal data, such as to check that we are complying with applicable law and regulation, to investigate an alleged crime, to establish, exercise or defend legal rights. We will only fulfil requests for personal data where we are permitted to do so in accordance with applicable law or regulation.
+
+• **Investors.** Should we enter into negotiations with third parties for the sale or purchaser of all or part of our business, in limited circumstances such personal data may be accessible by such third party.
+
+  9. **Third party links**
+    1. This website may contain links to third party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third party websites and are not responsible for their privacy statements. 
+  10. **California privacy notice**
+    1. Our websites do not respond to ‘do not track’ signals communicated by your internet browser. 
+
+## Part 3 – How we keep your personal data secure
+
+  11. **Data security**
+    1. We take the security of all the personal data we hold very seriously. We adhere to internationally recognised security standards and we have a framework of policies, procedures and training in place covering data protection, confidentiality and security and regularly review the appropriateness of the measures we have in place to keep the personal data we hold secure. 
+    2. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. 
+    3. We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so. 
+
+## Part 4 – Deleting your personal data
+
+  12. **Data Retention**
+    1. We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting or reporting requirements. To determine the appropriate retention period for personal data, we consider the amount, nature and sensitivity of the personal data, the potential risk of harm from unauthorized use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means and the applicable legal requirements. 
+    2. Our default retention periods for customer records are: (i) call detail records shall be retained for approximately 12 months from the date of the call; (ii) call recordings shall be available for 60 days then deleted around 90 days thereafter (subject to purge rules and timings); and (iii) basic information about our customers for six years after ceasing being customers (for tax and regulatory reasons). 
+  13. **Deletion**
+    1. All personal data shall be deleted or erased in a secure and confidential manner. 
+
+## Part 5 – Know your rights
+
+  14. **Your rights**
+    1. Individuals have certain rights over their personal data and data controllers are responsible for fulfilling these rights. Where we decide how and why personal data is processed, we are a data controller and include further information about the rights that individuals have and how to exercise them below. 
+  15. **Access to personal data**
+    1. You have a right to access your personal data (“data subject access request”). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it. 
+    2. To make a request, you need to put the request in writing addressing it to our Legal department at the address provided above. If you agree, we will try to deal with your request informally, for example by providing you with the specific information you need over the telephone. 
+    3. If we do hold information about you, you can ask us to correct any mistakes by, once again, contacting the Legal department. 
+  16. **Amendment of personal data**
+    1. To update personal data submitted to us, you may email us at [privacy@loopup.com](mailto:privacy@loopup.com) or, where appropriate, contact us via the relevant website registration page or by amending the personal details held on relevant applications with which you registered. 
+    2. When practically possible, once we are informed that any personal data processed by us is no longer accurate, we will make corrections (where appropriate) based on your updated information. 
+  17. **Withdrawal of consent**
+    1. Where we process personal data based on consent, individuals have a right to withdraw consent at any time. We do not generally process personal data based on consent (as we can usually rely on another legal basis). To withdraw consent to our processing of your personal data please email us at [privacy@loopup.com](mailto:privacy@loopup.com) or, to stop receiving an email from our marketing list, please click on the unsubscribe link in the relevant email received from us. 
+  18. **Object to processing**
+    1. You may object to our processing of your personal data where we are relying upon a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. In some case, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms. 
+  19. **Transfer requests**
+    1. You may request the transfer of your personal data to you or a third party. We will provide you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Please note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you. 
+  20. **Request erasure**
+    1. You may request the erasure of your personal data. This enables you to ask us to delete or remove personal data where there is no good reason for us to continuing to process it. 
+  21. **Request restriction on processing**
+    1. You may request the restriction of processing of your personal data by us. This enables you to ask us to suspend the processing of your personal data in the following scenarios: (i) if you want us to establish the personal data’s accuracy; (ii) where our use of the personal data is unlawful but you do not want us to erase it; (iii) where you need us to hold the personal data even if we no longer require it as you need it to establish, exercise or defend legal claims; or (iv) you have objected to our use of your personal data but we need to verify whether we have overriding legitimate interest grounds to use it. 
+  22. **Complaints**
+    1. We hope that you won’t ever need to, but if you do want to complain about our use of personal data, please send an email with the details of your complaint to [privacy@loopup.com](mailto:privacy@loopup.com). We will look into and respond to any complaints we receive. 
+    2. You also have the right to lodge a complaint with the local data protection regulator. We would, however, appreciate the chance to deal with your concerns before you approach the appropriate regulator. In the UK that is the Information Commissioner’s Office. For further information on your rights and how to complain to your local data protection regulator, please contact us or refer to the local data protection regulator’s website. 
+    3. This privacy policy was drafted with clarity in mind. It does not provide exhaustive detail of all aspects of our collection and use of personal information. However, we are happy to provide any additional information or explanation needed. Any requests for this should be sent to the address above. 
+
+## Part 6 – Updating this policy
+
+  23. **Status**
+    1. We recognise that transparency is an ongoing responsibility so we will keep this privacy policy under regular review. By visiting our website and using our services your personal data shall be processed in accordance with the then-current version of this policy. 
+    2. This privacy policy was last updated on 24 May 2018. 
+
+
 
 We use cookies to improve your experience on our website. By browsing this website, you agree to our [use of cookies](https://web.archive.org/legal/cookie-policy/). Hide This Message >
