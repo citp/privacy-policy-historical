@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfoodandhappiness.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229143035id_/http%3A//www.myfoodandhappiness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfoodandhappiness.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525155738id_/http%3A//www.myfoodandhappiness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - My Food & Happiness
 
@@ -6,13 +6,15 @@ Please read our privacy policy carefully to get a clear understanding of how we 
 
 **What personal information do we collect from the people that visit our website?**
 
-When posting comments, you will be asked to enter your name and email address.
+We use cookies, please read further below more details about cookies. Also, when posting comments, you will be asked to enter your name and email address.
 
 **When do we collect information?**
 
-We collect information from you when you subscribe to a newsletter or enter information on our site.
+We collect information from you when you subscribe to a newsletter or you enter a comment.
 
 The data we collect is compliant with the Data Protection Act 1988.
+
+When you subscribe to our email newsletter, we will use this information to stay in touch with you and provide occasional updates and marketing. Your personal details will be stored by our email automation platform – Mail Chimp in accordance with their [Privacy Policy](https://mailchimp.com/legal/privacy/) & [Terms.](https://mailchimp.com/legal/terms/)
 
 **How do we use your information?**
 
@@ -40,9 +42,7 @@ You can choose to have your computer warn you each time a cookie is being sent, 
 
 **Cookies opt out**
 
-One of our primary ad providers is Gourmet Ads, if you would like to opt out from their ad cookies please go to the following link: <http://www.gourmetads.com/about/privacy-policy>
-
-In addition you can opt out from Google ads cookies by going to the following page: [https://www.google.com/settings/ads/plugin/ ](https://www.google.com/settings/ads/plugin)
+You can opt out from Google ads cookies by going to the following page: [https://www.google.com/settings/ads/plugin/ ](https://www.google.com/settings/ads/plugin)
 
 Finally, you can choose to disable or selectively turn off cookies or third-party cookies in your browser settings.
 
@@ -70,6 +70,6 @@ We along with third-party vendors, such as Google use first-party cookies (such 
 Opting out:  
 Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
 
-If there are any questions regarding this privacy policy you may contact us here.
+If there are any questions regarding this privacy policy you may [contact us here](http://www.myfoodandhappiness.com/contact/).
 
-Last Edited on 2014-10-11
+Last Edited on 2018-24-05
