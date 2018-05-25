@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapgene.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124105827id_/http%3A//www.snapgene.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapgene.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525163811id_/http%3A//www.snapgene.com/privacy) for the most accurate reproduction.*
 
 # SnapGene.com Privacy Policy
 
@@ -7,7 +7,7 @@ This site is owned and operated by GSL Biotech LLC. This privacy statement discl
 **Personal Information that GSL Biotech May Collect Online**  
 GSL Biotech collects personal information online, including names, e-mail addresses, and billing information. This information is collected when voluntarily provided by users making purchases, subscribing to our newsletter, requesting assistance, providing feedback, or participating in our user forum. 
 
-GSL Biotech does not knowingly collect or maintain any personal information from children under the age of 13. In addition, no part of our website is designed with the purpose of attracting any person under age 13. 
+GSL Biotech does not knowingly collect or maintain any personal information from children under the age of 16. In addition, no part of our website is designed with the purpose of attracting any person under age 16. 
 
 **How GSL Biotech Uses Personal Information Collected Online**  
 Unless you otherwise consent, we will use your personal information only for the purpose for which it is submitted, such as to reply to your communications, to process billing and business requests, and to provide the newsletter. 
