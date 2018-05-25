@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the plumperpass.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606124628id_/http%3A//www.plumperpass.com/t1/%3Fprivacy%26uvar%3DMC4wLjAuMC4wLjAuMC4wLjA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plumperpass.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525165750id_/http%3A//www.plumperpass.com/t1/%3Fprivacy%26uvar%3DMC4wLjAuMC4wLjAuMC4wLjA) for the most accurate reproduction.*
 
-# Plumper Pass - The Best In BBW, Plumper, Chubby & Fat Porn
+# BBW Sex, Fat Porn & Big Tit Movies - PlumperPass
 
 We realize that purchasing a membership requires trust on your part. We value your trust very highly, and pledge to you, our customer, that we will work to protect the security and privacy of any personal information you provide to us. This includes your name, address, phone number, email address, and credit-card information, in addition to any other personal information that can be linked to you, personally. We believe that you have a right to know, before purchasing a membership at one of our websites, exactly what information we might collect from you, why we collect it and how we use it. 
 
@@ -40,7 +40,7 @@ We reserve the right to change, modify or amend this privacy policy at any time.
 
 ### 8\. How to contact Sensational Video
 
-If you have comments or questions regarding our privacy policy, please [contact us](https://web.archive.org/web/20170606124628id_/http%3A//www.plumperpass.com/t1/%3Fprivacy%26uvar%3DMC4wLjAuMC4wLjAuMC4wLjA?support). We will address any issue to the best of our abilities. Thank you for your support of our policies. 
+If you have comments or questions regarding our privacy policy, please [contact us](https://web.archive.org/web/20180525165750id_/http%3A//www.plumperpass.com/t1/%3Fprivacy%26uvar%3DMC4wLjAuMC4wLjAuMC4wLjA?support). We will address any issue to the best of our abilities. Thank you for your support of our policies. 
 
 ### 9\. Effective Date:
 
