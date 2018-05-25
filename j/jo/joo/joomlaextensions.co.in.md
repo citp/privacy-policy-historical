@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomlaextensions.co.in privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623071744id_/http%3A//www.joomlaextensions.co.in/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D7%26Itemid%3D1162) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlaextensions.co.in privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525020718id_/http%3A//joomlaextensions.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
