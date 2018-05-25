@@ -1,20 +1,31 @@
-> *The following text is extracted and transformed from the 2ndchance.info privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123030101id_/http%3A//2ndchance.info/Privacy%2520Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2ndchance.info privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525041903id_/http%3A//www.2ndchance.info/Privacy%2520Policy.htm) for the most accurate reproduction.*
 
 # 2nd Chance Privacy Policy
+
+>>
+    
+    
+    
+    Dear Reader, All advertisements on this site are selected by Google, not Dr. Hines.
+    If you have a cat that is + for feline leukemia or feline AIDS and it received raltegravir (Isentress ®) = a human AIDS  medication, 
+    feline interferon omega, thiamine, niacinamide or slippery elm bark in its treatment plan; I would very much appreciate 
+    knowing  the results. [RSH email](mailto:yourpetsfriend@gmail.com)
 
 **2nd Chance Privacy Policy**
 
 Google now requires that all websites that display Google ads have a privacy policy that tells readers how the information that readers submit to a website is shared. 
 
-1) 2nd Chance and Ronald Hines do not collect any information on this website.
+1) 2nd Chance and Ronald Hines do not collect any information about you on this website.
 
-2) Their are no cookies or any other forms of tracking used on the 2nd Chance website. You just read his articles to learn more about your pet's health problems. 
+2) Dr. Hines uses no cookies or any other form of tracking on the 2nd Chance website. You just read his articles to learn more about your pet's health problems. 
 
 3) If you email Dr. Hines, he does not share your email address with anyone nor does he use your email address to sell you stuff or solicit anything. 
 
-As far as the ads that Google might decide to run on Dr. Hines' webpages, _he has no control_ _over which ads they run_. Google selects those ads based on the websites you frequently visit and your buying preferences. Google knows quite a lot about you. Google gets paid by those advertisers to display their ads. Dr. Hines hopes that any clicks you make on those ads - as well as your donations - will generate enough revenue to pay the expense of keeping this website online and 
+As far as the ads that Google might decide to run on Dr. Hines' webpages, _he has no control over which ads they run_. Google selects those ads based on the websites you frequently visit and your buying preferences. Google knows and stores quite a lot of information about you. Google gets paid by the advertisers you see to display their ads. When you click on any of those ads, a small fraction of that is sent to Dr. Hines. He hopes that any clicks you make on those ads - as well as your donations - will generate enough revenue to pay the expense of keeping this website online and 
 
-help pay the cost of the free treatment of animals he cares for. [](https://www.youtube.com/watch?v=su_q_4NP8gw)
+help pay the cost of the treatment of the animals he cares for.[](https://www.youtube.com/watch?v=su_q_4NP8gw)
+
+2nd Chance is a an IRS-approved [501(c)(3](https://en.wikipedia.org/wiki/501\(c\)\(3\)_organization)) non-profit charitable organization. 
     
     
     
