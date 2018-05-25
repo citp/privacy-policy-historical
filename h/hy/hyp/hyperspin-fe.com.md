@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyperspin-fe.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122110453id_/http%3A//hyperspin-fe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyperspin-fe.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525060744id_/http%3A//hyperspin-fe.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - HyperSpin Forum
 
