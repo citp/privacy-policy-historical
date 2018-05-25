@@ -1,33 +1,13 @@
-> *The following text is extracted and transformed from the projectviewercentral.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222100800id_/http%3A//projectviewercentral.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectviewercentral.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525020319id_/http%3A//projectviewercentral.com/privacy) for the most accurate reproduction.*
 
-# Project Plan 365 Privacy Policy
+# Privacy Policy – Project Viewer Central
 
-### Information Automatically Logged
+## Project Viewer 365 Privacy Policy
 
-Housatonic, Inc and ProjectViewerCentral.com use your IP address to help us diagnose any problems with our server and to administer our web site.
+The Viewer Central Inc and projectviewercentral.com websites logs your IP address to help us diagnose any problems with our server, and to better administer our web site. We will never share this information with others. All personal information gathered by us is used solely by us, and not shared with third parties. For additional Google Drive Privacy Policy information please visit [this page](https://web.archive.org/gprivacy/).
 
-### Cookies
+We may use cookies to enhance the user’s experience while visiting this site. It is possible that any ads from outside companies/organizations that appear on this site may also contain cookies.
 
-We may use cookies to enhance the users experience while visiting this site.
+If you contact us via an e-mail,  we will reply by e-mail to the address you give us. We may, from time to time, offer the opportunity to subscribe to newsletter or other services. Any information we collect for those purposes will only be used as explicitly stated at that time. We do not share any e-mail addresses that you choose to give us with any third parties.
 
-### Advertisers
-
-It is possible that any ads from outside companies/organizations that appear on this site may contain cookies.
-
-### Personal Information
-
-All personal information gathered by Housatonic, Inc and ProjectViewerCentral.com is used solely by us and no third parties.
-
-### E-mail Addresses
-
-If you contact us via an e-mail contact point on this site we will reply by e-mail to the address you give us.
-
-We may, from time to time, offer the opportunity to subscribe to newsletter or other services. Any information we collect for those purposes will only be used as explicitly stated at that time. We do not share any personal information that you choose to give us with any third parties.
-
-### External Links
-
-Housatonic, Inc and ProjectViewerCentral.com contain links to other sites. We are not responsible for the privacy practices or the content of these web sites.
-
-### Contacting Us
-
-If you have any questions about this privacy statement, or any other concerns relative to this site, please contact us at [sales@projectviewercentral.com](mailto:sales@projectviewercentral.com). 
+The Viewer Central Inc and projectviewercentral.com websites contain links to other sites (for example, [In the News](https://web.archive.org/inthenews/) articles). We are not responsible for the privacy practices or the content of these external web sites.
