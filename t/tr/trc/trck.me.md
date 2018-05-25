@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trck.me privacy policy that was archived on 2017-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171020161959id_/https%3A//dash.trck.me/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trck.me privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525041905id_/https%3A//dash.trck.me/privacy.php) for the most accurate reproduction.*
 
 # trck.me | Tracking made Simple. Tracking made Fun.
 
