@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digital.nyc privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122114520id_/http%3A//www.digital.nyc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digital.nyc privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525063335id_/http%3A//www.digital.nyc/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Digital.NYC
 
