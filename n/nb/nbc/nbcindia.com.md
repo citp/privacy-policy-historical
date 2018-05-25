@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbcindia.com privacy policy that was archived on 2017-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170820065540id_/http%3A//nbcindia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbcindia.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525142826id_/http%3A//nbcindia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NBC India
 
