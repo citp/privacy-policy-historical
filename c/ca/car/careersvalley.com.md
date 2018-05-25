@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careersvalley.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107225604id_/http%3A//www.mirchibazaar.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careersvalley.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525222932id_/http%3A//www.mirchibazaar.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MirchiBazaar
 
