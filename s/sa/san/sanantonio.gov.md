@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sanantonio.gov privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231090357id_/http%3A//www.sanantonio.gov/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanantonio.gov privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526000653id_/http%3A//www.sanantonio.gov/disclaimer) for the most accurate reproduction.*
 
 # PRIVACY POLICY AND DISCLAIMER
 
@@ -15,6 +15,8 @@ The CITY OF SAN ANTONIO does not collect or track personal information from the 
 ##### Security
 
 This site uses a secure server for conducting online transactions. All credit card and other payment information that you transmit to the City will be protected by a minimum of 128-bit encryption technology, provided your web browser is properly configured and your computer is operating properly. Security technology requires that you are utilizing a reasonably current web browser that is capable of a minimum 128-bit encryption. Current web browsers provide visual cues to the visitor that the online service is secure. Such visual cues include the use of a key or lock symbol in the browser. A visitor should always ensure that the symbol being utilized is unbroken or locked prior to transmitting any personal information to the site. A broken or unlocked symbol means that a visitor should not trust that the site is secure or that it is safe to transmit personal information.
+
+User's sensitive information is only used for its intended purpose. Your credit card information is not stored in our database and the payment information is encrypted before it is transmitted for processing. 
 
 The City limits access to [sensitive personal information](https://web.archive.org/disclaimer.aspx#Sensitive "sensitive personal information")* to authorized personnel only. All authorized personnel are kept current on security and privacy practices. For more information regarding the security of personal or business information, please contact the Information Technology Department. 
 
