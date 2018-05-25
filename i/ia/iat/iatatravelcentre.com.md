@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iatatravelcentre.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117200410id_/http%3A//www.iata.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iatatravelcentre.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525161051id_/http%3A//www.iata.org/privacy) for the most accurate reproduction.*
 
 # IATA - Privacy Policy
 
@@ -74,7 +74,7 @@ You can make or change your choices at the data collection point or through IATA
 
 > **Online** : You can make your choice regarding these communications by using the IATA customer registration tools, as applicable, to set your privacy preferences (available in the English language only). 
 
-**Offline:** Please specify your privacy preferences by writing to IATA at [privacy@iata.org](mailto:privacy@privacy@iata.org). Be sure to provide your name, e-mail and postal address in all correspondence. 
+**Offline:** Please specify your privacy preferences by writing to IATA at [privacy@iata.org](mailto:privacy@iata.org). Be sure to provide your name, e-mail and postal address in all correspondence. 
 
 > **Subscription services**  
 To opt-out of receiving communications you have expressly requested (such as e-mail newsletters, updates, etc.), use any of the following methods: 
