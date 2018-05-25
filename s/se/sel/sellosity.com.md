@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sellosity.com privacy policy that was archived on 2017-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170924045240id_/http%3A//sellosity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sellosity.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525121541id_/http%3A//sellosity.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Sellosity
 
