@@ -1,53 +1,79 @@
-> *The following text is extracted and transformed from the learningally.org privacy policy that was archived on 2016-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160818110837id_/https%3A//www.learningally.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learningally.org privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525182737id_/http%3A//www.learningally.org/privacy.aspx) for the most accurate reproduction.*
 
 # Learning Ally - Together It's Possible > Privacy
 
-**Learning Ally, Inc.  
-20 Roszel Rd  
-Princeton, NJ 08540 **
+Updated: March 28, 2017
 
-We can be reached via e-mail at [Privacy](mailto:privacy@learningally.org). 
+Learning Ally’s mission is to promote personal achievement when access and reading are barriers to learning by advancing the use of accessible and effective educational solutions. Our website is an important tool in the pursuit of this mission. 
 
-Here at Learning Ally, we care deeply about privacy. We do not sell personally identifiable information (PII), nor do we use PII from education records to market to students. 
+Learning Ally is committed to safeguarding your information and protecting the privacy of Personally Identifiable Information (PII) gathered from individuals who utilize our services, visit our website and/or donate online, by phone, through mail or at events. 
 
-Learning Ally Member Privacy Policy has been developed as an extension of our commitment to combine the finest quality products and services with the highest level of integrity in dealing with our Members. The Policy guides how we collect, store and use information about Members and Prospects, and it will be periodically assessed against new technologies, business practices and our Members' changing needs. Learning Ally may, from time to time, modify this Member Privacy Policy to reflect legal, technological and other developments. 
+Our Privacy Policy below explains how we collect, store and use information gathered on our website. To update your contact or billing information, email subscription or direct mail preferences, please email [custserv@LearningAlly.org](mailto:custserv@learningally.org). 
 
-Please note that Privacy Notices advising Members and Prospects as to the specific uses that are being made of their Personally-Identifiable Information by specific Business Units within Learning Ally may also be modified from time to time to reflect changes in business practices. In this event, those changes will appear in the relevant Privacy Notices. 
+Learning Ally complies with applicable U.S. laws that impose additional responsibilities on Learning Ally beyond those stated in this Policy in connection with the treatment of Personally Identifiable Information. 
 
-Learning Ally will also comply with applicable U.S. laws that impose additional responsibilities on Learning Ally beyond those stated in this Policy in connection with the treatment of Personally Identifiable Information about its Members and Prospects. 
+## Collecting Information
 
-Our Policy recognizes two kinds of personal data that deserve varying levels of protection. Personally Identifiable Information includes, for example, e-mail addresses, billing information, employment status and data that tracks user activity on a Web site or online services. A subset of that category, Sensitive Data, deserves additional safeguards. Sensitive Data includes, by way of example, Social Security numbers, personal financial data (such as credit card information) and information about specific medical conditions. 
+Learning Ally does not collect personally identifiable information from you unless you provide it to us voluntarily and knowingly, by registering for our services, requesting information from us, submitting a volunteer request or by making a donation. We do not sell names or other personal data that we collect on our website, nor do we maintain any credit card information. 
 
-## Learning Ally is committed to using all reasonable efforts to abide by the following Policy: 
+### Use of Secure Sockets Layer (SSL Technology):
 
-### Collection.
+Learningally.org uses Secure Sockets Layer (SSL) technology to provide you with the safest, most secure experience possible. SSL technology enables encryption (scrambling) of sensitive information, including passwords and credit card numbers, during your online transactions. All of the forms on our site are secured with SSL technology so your personal information stays safe and out of malicious hands. 
 
-Personally-Identifiable Information will only be collected to the extent that Learning Ally deems reasonably necessary to serve a legitimate business purpose. Please be aware that if you disclose Personally-Identifiable Information on Web site message boards or chat areas, that information may be collected and used by third parties without our knowledge and may result in unsolicited communications from third parties. Such activities are beyond the control of Learning Ally. 
+### Use of Cookies:
 
-### Notification:
+Cookies may be used to enhance your experience while using our website. Cookies are pieces of information that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as remembering your customized settings for viewing our site and saving your password. 
 
-Members and Prospects will be notified (usually at the point where Personally-Identifiable Information is collected) as to the uses the Business Unit may make of the Personally-Identifiable Information collected from them. 
+Most people consider the use of cookies to be an industry standard. Your browser is probably set to accept cookies. However, if you would prefer not to receive cookies, you can alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our website will not function optimally when you view them. 
 
-### Security:
+### Non-personal Electronic Information:
 
-Appropriate safeguards will be implemented in an effort to ensure the security, integrity and privacy of Personally-Identifiable Information about our Members and Prospects. 
+Learning Ally uses non-personal electronic information, such as log files that record and collect information about general site traffic, site usage, and length of stay. We may use this data to improve our website’s performance or content. This data is used in aggregate and does not contain personally identifiable information. 
 
-### Access:
+Learning Ally uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics collects information anonymously and reports trends without identifying individual visitors. You can opt out of Google Analytics. For more information about how to opt out of being tracked by Google Analytics across all websites you use, please visit [this Google page](https://tools.google.com/dlpage/gaoptout). 
 
-Review and Correction. Procedures have been developed through which Members and Prospects can, upon request, review and correct the Personally-Identifiable Information that has been collected from them by Learning Ally. These procedures may not, however, compromise the security, integrity and privacy of either Learning Ally Education own proprietary databases or databases licensed from third party companies. Sensitive Data. The collection and use of Sensitive Data carries with it special obligations and responsibilities in order to maintain the data's security, integrity and privacy. 
+In addition, we may use Google's remarketing technology to advertise to visitors that have previously visited our site when those visitors go to other websites participating in the Google Display Network. Learning Ally and third-party vendors, including Google, use first-party and third-party cookies together to inform and optimize ads based on a visitor's past visits to our website. Please [go here](https://www.google.com/policies/technologies/ads/) for more information about remarketing or to opt-out of the Google remarketing cookie. 
 
-Sensitive Data will not be rented or otherwise made available for External Distribution outside Learning. Please note that our Web sites may contain links to other Web Sites that have their own privacy policies and practices. While Learning Ally will employ commercially appropriate procedures to help ensure that your information is only used for authorized purposes as described above, Learning Ally cannot make any guarantees with respect to the actions or policies of such third parties. 
+At times, in order to expand our list of prospective donors or schools, Learning Ally may purchase lists of like-minded organizations from a trustworthy third party. To maintain our costs, we on occasion will exchange our mailing list with other like-minded organizations, through the same reputable third party. Email addresses are never sold. To update your preference, please email [custserv@LearningAlly.org](mailto:custserv@LearningAlly.org). 
 
-### Children:
+## Storing Information
 
-Collection and use of information from children in the U.S. under the age of thirteen will be made in compliance with the Children's Online Privacy Protection Act of 1998. Specifically, Learning Ally Education will: 
+All information provided to Learning Ally is transmitted using SSL (Secure Sockets Layer) encryption. SSL is a proven coding system that lets your browser automatically encrypt, or scramble, data before you send it to us. We also protect account information by placing it on a secure portion of our website that is only accessible by Learning Ally employees who need access to personal identifiable information to perform a specific job. Voluntarily submitted data we collect through this site is stored on a secure, password protected server. Vendors we use to store data use industry-standard encryption technologies in the receipt and transfer of your voluntarily submitted data. Unfortunately, no data transmission over the Internet is 100% secure. While we strive to protect your information, we cannot ensure or warrant the security of such information. 
 
-Provide a parent or guardian, upon request, with the means to review the Personally-Identifiable Information collected from his or her child; 
+## Sharing Information
 
-Provide a parent or guardian with the opportunity to prevent the further use of Personally-Identifiable Information that has already been collected, or the future collection of Personally-Identifiable Information, from that child; 
+Learning Ally limits the use of personally identifiable information and other information to provide you services, process your donations, inform you about Learning Ally and its programs and to improve our services and site content for you. We may send you information about our services, invitations to special events or solicitations for donations. 
 
-Limit collection of Personally-Identifiable Information for a child's online participation in a game, prize offer or other activities to Personally-Identifiable Information that is reasonably necessary to participate in the activity; and Establish procedures to protect the confidentiality, security and integrity of the Personally-Identifiable Information collected from children. 
+Learning Ally will not sell personally identifiable information (PII), nor do we use PII from education records to market to students. We may send you periodic emails on a variety of topics. You may start or stop receiving such emails at any time by sending an email to [custserv@LearningAlly.org](mailto:custserv@LearningAlly.org). 
 
-### Privacy Policy 
+Learning Ally may also share information with consultants and affiliates for internal business purposes and may divulge personal information if such information is subpoenaed. In some situations, your personal information may be used on a confidential basis with third parties who perform a particular service on our behalf, such as sending emails. 
 
-The Learning Ally Member Privacy Policy has been developed out of respect for the privacy preferences and choices of our Members and Prospects. We have established procedures to ensure that every reasonable effort is made to address your concerns. Each Business Unit within Learning Ally has a designated manager to implement our Member Privacy Policy for its respective Members and Prospects.
+## Other Websites
+
+Our website contains links to other websites, which have information and services that may be helpful. These websites have their own privacy policies and practices. Please note that when you click on one of these links, you are entering another website. Learning Ally assumes no responsibility for the privacy policies or information collection practices of websites other than its own. We encourage you to read the privacy policies on all such sites as their policies may be different than ours. 
+
+## Access to Information
+
+### Review and Correction:
+
+Procedures have been developed through which our members may, upon request, review and correct the personally identifiable information that has been collected from them by Learning Ally. These procedures may not, however, compromise the security, integrity and privacy of either Learning Ally own proprietary databases or databases licensed from third party companies. 
+
+## Internet Protocol Address
+
+We collect an internet protocol (IP) address from all visitors to our website. An IP address is a number that is automatically assigned to your computer when you use the Internet. We use IP addresses to help diagnose problems with our server, administer our website, analyze trends, and gather broad demographic information for aggregate use in order for us to improve the site and our products. IP addresses are not linked to personally identifiable information. 
+
+## Changes to Policy
+
+The Learning Ally Privacy Policy, as well as policies specific to the various operating departments within Learning Ally, will be periodically assessed against new technologies, business practices and our members’ changing needs. Learning Ally may, from time to time, modify this Privacy Policy to reflect legal, technological and other developments. 
+
+Learning Ally reserves the right at any time and without notice to change this Privacy Policy simply by posting such changes on our website. Any such change will be effective immediately upon posting. 
+
+## Contact Us
+
+If you have any questions about our Privacy Policy or our website, please contact: 
+
+Learning Ally, Inc.  
+20 Roszel Rd   
+Princeton, NJ 08540 
+
+We can also be reached via e-mail at [custserv@LearningAlly.org](mailto:custserv@learningally.org). 
