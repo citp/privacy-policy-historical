@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the urduword.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125125230id_/http%3A//www.urduword.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urduword.com privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526150020id_/http%3A//www.urduword.com/privacy.php) for the most accurate reproduction.*
 
 # UrduWord.com - Privacy Policy
 
-This document describes the privacy policy of **UrduWord.com**. We can be reached via e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#017664636c60727564734174736574766e73652f626e6c) (email) or [ http://www.urduword.com/contact.php](http://www.urduword.com/contact.php) (web). If you feel that this site is not following its stated information policy, please contact us immediately using the methods provided above.
+This document describes the privacy policy of **UrduWord.com**. We can be reached via e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f28597909f9381869780b287809687859d8096dc919d9f) (email) or [ http://www.urduword.com/contact.php](http://www.urduword.com/contact.php) (web). If you feel that this site is not following its stated information policy, please contact us immediately using the methods provided above.
 
 ## Information We Collect
 
