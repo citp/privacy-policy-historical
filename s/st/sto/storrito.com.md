@@ -1,0 +1,190 @@
+> *The following text is extracted and transformed from the storrito.com privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526124723id_/http%3A//storrito.com/privacy) for the most accurate reproduction.*
+
+# Storrito - The Story Tool
+
+**This Privacy Policy shall be effective starting on May 23th, 2018** Last updated: May 23, 2018
+
+## General provisions
+
+Some terms used in the User Agreement are determined in accordance with this paragraph, other agreements are concluded with the User, unless otherwise provided by this Agreement or as follows from its substance.
+
+  1. "Agreement" – this User Agreement – the rules of use has been developed by the Administration to determine the procedure and conditions for using the Storrito service, and also the rights and duties of its Users and Administration.
+  2. "Administration", "we", "our" and similar terms – "VIRE GmbH";
+  3. "The Storrito service" and "Storrito" is a web application developed and/or owned by the Administration, and located at: [www.storrito.com](https://web.archive.org/web/20180526124723id_/http://storrito.com/privacy/www.storrito.com);
+  4. "Storrito-account" is an account on the Storrito service, which allows the User to use the functions of the Storrito service. The account is created at registration (by entering an email and password);
+  5. "User", "You", "Your" and similar terms – User (physical or legal person) authorized in the Storrito service;
+
+
+
+## Acceptance of Privacy Policy
+
+By accessing and using our Services, you signify acceptance to the terms of this Privacy Policy. Where we require your consent to process your personal information, we will ask for your consent to the collection, use, and disclosure of your personal information as described further below. Vire GmbH may provide additional "just-in-time" disclosures or additional information about the data collection, use and sharing practices of specific Services. These notices may supplement or clarify Vire GmbH’s privacy practices or may provide you with additional choices about how Vire GmbH processes your data.
+
+If you do not agree with or you are not comfortable with any aspect of this Privacy Policy, you should immediately discontinue access or use of our Services.
+
+## Changes to this Privacy Policy
+
+We reserve the right to modify this Privacy Policy at any time, and when required by law, we will notify you of changes to this Privacy Policy. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on our Services prior to the change becoming effective.
+
+## The personal Information we collect
+
+Personal information is data that can be used to identify you directly or indirectly, or to contact you. Our Privacy Policy covers all personal information that you voluntarily submit to us and that we obtain from our partners. This Privacy Policy does not apply to anonymised data, as it cannot be used to identify you.
+
+Vire GmbH will not give, sell, rent or loan any personal Information to any third party.
+
+## Personal Information collected
+
+We collect personal information to provide you with our Services. When we require certain personal information from users it is because we are required by law to collect this information or it is relevant for specified purposes. Any information you provide to us that is not required is voluntary. You are free to choose whether to provide us with the types of personal information requested, but we may not be able to serve you as effectively or offer you all of our Services when you do choose not to share certain information with us.
+
+We collect the following types of information:
+
+  *  **Personal Information:** Your email, full name, date of birth, age, nationality, gender
+  *  **Payment Information:** Tax ID number, card details, signature, billing address
+  *  **Information relevant for your social media postings:** The planed and executed time and date of the post. The media which is posted. Social media account names and encrypted passwords
+  *  **Online Identifiers:** Geo location/tracking details, browser fingerprint, OS, browser name and version, and/or personal IP addresses.
+  *  **Usage Data:** Survey responses, information provided to our support team, public social networking posts, authentication data, security questions, user ID, click-stream data and other data collected via cookies and similar technologies.
+
+
+
+## How your personal Information is used
+
+Our primary purpose in collecting personal information is to provide you with a secure, smooth, efficient, and customised experience. We may use this information in the following ways:
+
+### To provide customer service
+
+We process your personal information when you contact us to resolve any questions, disputes or to troubleshoot problems. We may process your information in response to another customer’s request, as relevant. Without processing your personal information for such purposes, we cannot respond to your requests and ensure your uninterrupted use of the Services.
+
+### To ensure network and information security
+
+We process your personal information in order to enhance security, monitor and verify identity or service access, combat spam or other malware or security risks and to comply with applicable security laws and regulations. Without processing your personal information, we may not be able to ensure the security of our Services. EEA Residents: Pursuant to EEA Data Protection Law, we process this personal information to satisfy our legal obligations.
+
+### For research and development purposes:
+
+We process your personal information to better understand the way you use and interact with the Storrito service. In addition, we use such information to customise, measure, and improve Storrito and the content and layout of our website and applications, and to develop new services. Without such processing, we cannot ensure your continued enjoyment of our Services. Our basis for such processing is based on legitimate interest. EEA Residents: Pursuant to EEA Data Protection Law, we process this personal information to satisfy our legitimate interests as described above.
+
+### To facilitate corporate acquisitions, mergers, or transactions:
+
+We may process any information regarding your account and use of our Services as is necessary in the context of corporate acquisitions, mergers, or other corporate transactions. You have the option of closing your account if you do not wish to have your personal information processed for such purposes. EEA Residents: Pursuant to EEA Data Protection Law, we process this personal information to satisfy our legitimate interests as described above.
+
+### To engage in marketing activities:
+
+Based on your communication preferences, we may send you marketing communications to inform you about our events; to deliver targeted marketing; and to provide you with promotional offers based on your personal information. We use information about your usage of our Services and your contact information to provide marketing communications. You can opt-out of our marketing communications at any time. EEA Residents: Pursuant to EEA Data Protection Law, we process this personal information to satisfy on your consent.
+
+We will not use your personal information for purposes other than those purposes we have disclosed to you, without your permission. From time to time we may request your permission to allow us to share your personal information with third parties. You may opt out of having your personal information shared with third parties, or allowing us to use your personal information for any purpose that is incompatible with the purposes for which we originally collected it or subsequently obtained your authorisation. If you choose to so limit the use of your personal information, certain features or Storrito services may not be available to you.
+
+## How Information relevant for your social media postings is used:
+
+We don't, and never will, share the social media account data and media files you provide us for other purposes than posting on your behalf or providing you with information and statistics or your social media accounts. We will never share those information with third parties of any kind. As a user, the content you upload and create with storrito belongs to you. We as a "Data Processor" are determined to save your personal data securely on our servers and post them on your behalf. Therefore you alone are responsible for the content of your social media posts.
+
+## Collection & use of Information collected automatically
+
+We receive and store certain types of information automatically, such as whenever you interact with the Sites or use the Services. This information does not necessarily reveal your identity directly but may include information about the specific device you are using, such as the hardware model, device ID, operating system version, web-browser software (such as Firefox, Safari, or Internet Explorer) and your Internet Protocol (IP) address/MAC address/device identifier.
+
+For example, we automatically receive and record information on our server logs from your browser, including how you came to and used the Services; your IP address; device type and unique device identification numbers, device event information (such as crashes, system activity and hardware settings, browser type, browser language, the date and time of your request and referral URL), broad geographic location (e.g. country or city-level location) and other technical data collected through cookies, pixel tags and other similar technologies that uniquely identify your browser. We may also collect information about how your device has interacted with our website, including pages accessed and links clicked. We may use identifiers to recognise you when you arrive at the Site via an external link, such as a link appearing on a third party site.
+
+## Why we share Personal Information with other Parties
+
+We take care to allow your personal information to be accessed only by those who really need to in order to perform their tasks and duties, and to share with third parties who have a legitimate purpose for accessing it. Storrito will never sell or rent your personal information. We will only share your information in the following circumstances:
+
+  * We may share your information with service providers under contract who help with parts of our business operations such as bill collection, marketing, and technology services. Our contracts require these service providers to only use your information in connection with the services they perform for us, and prohibit them from selling your information to anyone else.
+  * We may share your information with law enforcement, officials, or other third parties when we are compelled to do so by a subpoena, court order, or similar legal procedure.
+
+
+
+## How we protect and store personal Information
+
+We understand how important your privacy is, which is why Vire GmbH maintains (and requires its service providers to maintain) appropriate physical, technical and administrative safeguards to protect the security and confidentiality of the personal information you entrust to us.
+
+We may store and process all or part of your personal and transactional information, including your social media account names and encrypted social media passwords, in the United States and elsewhere in the world where our facilities or our service providers are located. We protect your personal information by maintaining physical, electronic, and procedural safeguards in compliance with the applicable laws and regulations.
+
+For example, we use computer safeguards such as firewalls and data encryption, we enforce physical access controls to our buildings and files, and we authorise access to personal information only for those employees who require it to fulfill their job responsibilities. Full credit card data is securely transferred and hosted off-site by a payment vendor in compliance with Payment Card Industry Data Security Standards (PCI DSS). This information is not accessible to Vire GmbG.
+
+However, we cannot guarantee that loss, misuse, unauthorised acquisition, or alteration of your data will not occur. Please recognise that you play a vital role in protecting your own personal information.
+
+## How you can access or change your personal Information
+
+You are entitled to delete your media items such as images and videos as well as your deposited social media account informations at any time by logging into your account and going into the accounts or gallery sections. You can delete your Storrito account by contacting our support team as set out below. We will delete your account and all associated data as soon as possible but not exceeding seven days.
+
+## Rights in relation to the use of your personal Information
+
+  *  **Rights of access, correction and deletion** You have a right of access to the personal information that we hold about you under European data protection legislation, and to some related information. You can also require any inaccurate personal information to be corrected or deleted.
+  *  **Right to object** You can object to our use of your personal information for direct marketing purposes at any time and you may have the right to object to our processing of some or all of your personal information (and require them to be deleted) in some other circumstances.
+
+
+
+If you wish to exercise any of these rights, please contact us as set out below.
+
+## Retention of personal Information
+
+We store your personal information securely throughout the life of your Storrito Account. We will only retain your personal information for as long as necessary to fulfil the purposes for which we collected it, including for the purposes of satisfying any legal, accounting, or reporting obligations or to resolve disputes. While retention requirements vary by jurisdiction, information about our typical retention periods for different aspects of your personal information are described below.
+
+  * Contact Information such as your name, email address and telephone number for marketing purposes is retained on an ongoing basis until you un-subscribe. Thereafter we will add your details to our suppression list indefinitely.
+  * Content that are posted on your social media accounts may be kept according to the terms of service/useof the responsible social media company.
+  * Information collected via technical means such as cookies, webpage counters and other analytics tools is kept for a period of up to one year from expiry of the cookie.
+
+
+
+## Children's personal Information
+
+We do not knowingly request to collect personal information from any person under the age of 18. If a user submitting personal information is suspected of being younger than 18 years of age, Vire GmbH will require the user to close his or her account and will not allow the user to continue posting to social media accounts. We will also take steps to delete the information as soon as possible. Please notify us if you know of any individuals under the age of 18 using our Services so we can take action to prevent access to our Services.
+
+## International Transfers of personal Information
+
+While Vire GmbH and Storrito are based in Germany (which is within the EEA), our service providers may store, transfer, and otherwise process your personal information in countries outside of the country of your residence, including the United States, the Philippines, and possibly other countries. We use approved Model Contractual Clauses for the international transfer of personal information collected in the European Economic Area and Switzerland, or require that any third party located in the U.S. receiving your personal information is certified under the E.U.-U.S. and/or the Swiss-U.S. Privacy Shield Frameworks and require that the third party agree to at least the same level of privacy safeguards as required under applicable data protection laws.
+
+If you have a complaint about our privacy practices and our collection, use or disclosure of personal information please contact us at [support@storrito.com](https://web.archive.org/web/20180526124723id_/http://storrito.com/privacy/support@storrito.com).
+
+## EEA Users & Data
+
+Legal bases for processing personal information Our legal bases for processing under EEA Data Protection Law are described above in the sections entitled "How Your Information Is Used" and "Information From Third Party Partners." We may process your personal information if you consent to the processing, to satisfy our legal obligations, if it is necessary to carry out our obligations arising from any contracts we entered with you, or to take steps at your request prior to entering into a contract with you, or for our legitimate interests to protect our property, rights or safety of Vire GmbH, our customers or others.
+
+### Direct Marketing
+
+If you are a current customer residing in the EEA, we will only contact you by electronic means (eg. email) with information about our Services that are similar to those which were the subject of a previous sale or negotiations of a sale to you. If you are a new customer and located in the EEA , we will contact you if you are located in the EU by electronic means for marketing purposes only if you have consented to such communication. If you do not want us to use your personal information in this way, or to pass your personal information on to third parties for marketing purposes, please contact us at [support@storrito.com](https://web.archive.org/web/20180526124723id_/http://storrito.com/privacy/support@storrito.com). You may raise such objection with regard to initial or further processing for purposes of direct marketing, at any time and free of charge. Direct marketing includes any communications to you that are only based on advertising or promoting products and services
+
+### Individual Rights
+
+EEA Residents have the following rights, which can be exercised by contacting us at [support@storrito.com](https://web.archive.org/web/20180526124723id_/http://storrito.com/privacy/support@storrito.com) so that we may consider your request under applicable law. When we receive an individual rights request via email we may take steps to verify your identity before complying with the request to protect your privacy and security.
+
+  *  **Right to withdraw consent.** You have the right to withdraw your consent to the processing of your personal information collected on the basis of your consent at any time. Your withdrawal will not affect the lawfulness of Vire GmbH's processing based on consent before your withdrawal.
+  *  **Right of access to and rectification of your personal information.** You have a right to request that we provide you a copy of your personal information held by us. This information will be provided without undue delay subject to some fee associated with gathering of the information (as permitted by law), unless such provision adversely affects the rights and freedoms of others. You may also request us to rectify or update any of your personal information held by Vire GmbH that is inaccurate. Your right to access and rectification shall only be limited where the burden or expense of providing access would be disproportionate to the risks to your privacy in the case in question, or where the rights of persons other than you would be violated.
+  *  **Right to erasure.** You have the right to request erasure of your personal information that: (a) is no longer necessary in relation to the purposes for which it was collected or otherwise processed; (b) was collected in relation to processing that you previously consented, but later withdraw such consent; or (c) was collected in relation to processing activities to which you object, and there are no overriding legitimate grounds for our processing. If we have made your personal information public and are obliged to erase the personal information, we will, taking account of available technology and the cost of implementation, take reasonable steps, including technical measures, to inform other parties that are processing your personal information that you have requested the erasure of any links to, or copy or replication of your personal information. The above is subject to limitations by relevant data protection laws.
+  *  **Right to data portability.** If we process your personal information based on a contract with you or based on your consent, or the processing is carried out by automated means, you may request to receive your personal information in a structured, commonly used and machine-readable format, and to have us transfer your personal information directly to another "controller", where technically feasible, unless exercise of this right adversely affects the rights and freedoms of others. A "controller" is a natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of your personal information.
+  *  **Right to restriction of or processing.** You have the right to restrict or object to us processing your personal information where one of the following applies:
+    1. You contest the accuracy of your personal information that we processed. In such instances, we will restrict processing during the period necessary for us to verify the accuracy of your personal information.
+    2. The processing is unlawful and you oppose the erasure of your personal information and request the restriction of its use instead.
+    3. We no longer need your personal information for the purposes of the processing, but it is required by you to establish, exercise or defense of legal claims.
+    4. You have objected to processing, pending the verification whether the legitimate grounds of Coinbase’s processing override your rights.
+
+
+
+Restricted personal information shall only be processed with your consent or for the establishment, exercise or defense of legal claims or for the protection of the rights of another natural or legal person or for reasons of important public interest. We will inform you if the restriction is lifted.
+
+  *  **Notification of erasure, rectification and restriction.** We will communicate any rectification or erasure of your personal information or restriction of processing to each recipient to whom your personal information have been disclosed, unless this proves impossible or involves disproportionate effort. We will inform you about those recipients if you request this information.
+  *  **Right to object to processing.** Where the processing of your personal information is based on consent, contract or legitimate interests you may restrict or object, at any time, to the processing of your personal information as permitted by applicable law. We can continue to process your personal information if it is necessary for the defense of legal claims, or for any other exceptions permitted by applicable law.
+  *  **Automated individual decision-making, including profiling.** You have the right not to be subject to a decision based solely on automated processing of your personal information, including profiling, which produces legal or similarly significant effects on you, save for the exceptions applicable under relevant data protection laws.
+  *  **Right to lodge a complaint.** If you believe that we have infringed your rights, we encourage you to contact us first at [support@storrito.com](https://web.archive.org/web/20180526124723id_/http://storrito.com/privacy/support@storrito.com) so that we can try to resolve the issue or dispute informally. You can also complain about our processing of your personal information to the relevant data protection authority. You can complain in the EU member state where you live or work, or in the place where the alleged breach of data protection law has taken place. In Germany, the relevant data protection authority is the Federal Commissioner for Data Protection and Freedom of Information (Bundesbeauftragter für den Datenschutz und die Informationsfreiheit).
+  *  **Storage of your personal information.** Vire GmbH will try to limit the storage of your personal information to the extent that storage is necessary to serve the purpose(s) for which the personal information was processed, to resolve disputes, enforce our agreements, and as required or permitted by law.
+  *  **Data Protection Officer:** You may reach the Vire GmbH Data Protection Officer at [support@storrito.com](https://web.archive.org/web/20180526124723id_/http://storrito.com/privacy/support@storrito.com)
+
+
+
+Your rights to personal information are not absolute. Access may be denied when:
+
+  * Denial of access is required or authorized by law;
+  * Granting access would have a negative impact on other's privacy;
+  * Granting access would have a negative impact on other's privacy;
+  * To protect our rights and properties; and
+  * Where the request is frivolous or vexatious.
+
+
+
+## How to contact us
+
+If you have questions or concerns regarding this Privacy Policy, or if you have a complaint, you should first contact us at [support@storrito.com](https://web.archive.org/web/20180526124723id_/http://storrito.com/privacy/support@storrito.com), or by writing to us at:
+
+VIRE GmbH, Gertrudenstraße 9, 50667 Cologne, Germany Represented by Nils Pospischil
+
+## Complains
+
+You can complain in the EU member state where you live or work, or in the place where the alleged breach of data protection law has taken place. In Germany, the relevant data protection authority is the Bundesbeauftragter für den Datenschutz und die Informationsfreiheit. Contact: Die Bundesbeauftragte für den Datenschutz und die Informationsfreiheit - Husarenstr. 30 - 53117 Bonn - +49 (0)228-997799-0 www.bfdi.bund.de
