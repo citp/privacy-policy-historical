@@ -1,246 +1,95 @@
-> *The following text is extracted and transformed from the npl.co.uk privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230080943id_/http%3A//www.npl.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npl.co.uk privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526033036id_/http%3A//www.npl.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy : National Physical Laboratory
+# Privacy policy : National Physical Laboratory
 
-The National Physical Laboratory (NPL) is committed to employing best practice in all its activities.
+NPL is committed to looking after any personal data it collects about you. This policy explains the basis on which any personal data we collect from you, or that you provide to us, will be used, the control you have over your personal data and the procedures we have in place to protect it. It applies to any personal data which is collected and/or provided through our website **www.npl.co.uk** (the ' **Website** '). NPL is the data controller of any personal data we collect from you, or that you provide to us via the Website.
 
-Visitors to NPL's website can be assured that protection of privacy and confidentiality are given the highest consideration.
+By continuing to use the Website and by submitting information to our Website you are accepting the practices described in this policy.
 
-Anonymous information is collected through the monitoring of server log files, such as the number of visitors to the website in a given period, but it is purely statistical and cannot be used to identify an individual user. We use IP addresses from log files to analyse trends and gather broad demographic information for aggregate use.
+We may revise this policy from time to time and will post any changes on this webpage of the Website. Please check this page regularly to keep up-to-date with any such changes. The Website may contain links to and from other websites, including websites operated by our partners and other third parties. We have no control over any third-party sites that link to or from the Website. If you follow a link to any third-party websites, then please note that they should have their own separate privacy policies. Please check those privacy policies before you use or submit any personal data to third-party websites. We do not accept any liability or responsibility for any third-party websites, the privacy policies applicable to them or their use of the information that they collect from you.
 
-Visitors interested in NPL can provide contact details via fill-in forms available on the site. Visitors cannot be contacted unless such information is given. Visitors are also invited to give additional company information but a decision not to do so does not affect any subsequent negotiations or discussions.
+## NPL collects information via its website in two ways
 
-Any queries relating to NPL's collection or use of personal information should be sent to the NPL Data Protection Officer.  
-E-mail: [datapro@npl.co.uk](mailto:datapro@npl.co.uk)
+  * **Information you give us**  
+Contact details such as your name, signature, address, email address and telephone number and the nature of the products or services in which you are interested. These details are collected when you fill in forms on our Website or when corresponding with us by email. It includes information you provide when completing a job application, when you register to attend an event, when you search or interact with our Website and when you report a problem with our Website.
+  * **Information we collect**  
+During your use of the Website, we may automatically collect certain information about your visit and the device that you have used to access the Website. This is statistical data about our users' browsing actions and patterns, and does not identify any individual personally. The information that we may collect includes: 
+    * the IP address of the device used to access the Website;
+    * the internet domain name through which you accessed the Website (which may be, for example, the domain name of your internet service provider or your place of work);
+    * the length of your session on the Website;
+    * details of the pages visited on the Website and resources accessed;
+    * the web browser used by your device to access the Website;
+    * your device's operating system; and 
+    * details of any website that provided you with a link to the Website (for example, Google, if you found us using a search engine).
 
-##   
-Cookies on the NPL site
 
-**When you visit the NPL website, if your browser is using the standard settings and it is accepting cookies, you are giving consent for cookies on the NPL site to be stored on your computer. If you do not wish for this to happen, you can disable them in the settings of your browser.**
 
-### What are cookies?
+The means by which we collect such information is described in our [cookies policy](http://www.npl.co.uk/cookie-policy).
 
-The NPL website uses cookies. Cookies are small, text-only strings of data which store information on the hard drive of your local computer or mobile device. Some cookies store data just for the time you are on the site. These are called session cookies and are not stored on your computer after you have left the site.
+## **How we use your information**
 
-Most internet browsers are pre-set to accept cookies but if you prefer not to receive cookies, you can adjust your browser to refuse cookies, or to warn you when they are being used. Visit [http://www.aboutcookies.org](http://www.aboutcookies.org/) for more information on managing cookies.
+The legal basis for our use of your personal data as described below will be that this information is required for one or more of the legitimate interests described in this policy or the processing is necessary for NPL to perform a task in the public interest or for NPLs official functions or NPL have requested and been granted consent from you to process your personal data for the purpose.
 
-##   
-Cookies set on the NPL site
+We may use your personal data as follows:
 
-### Google Analytics:
+  * To provide you with the Website, and the content and services made available through it, including to ensure that the Website and its content are presented in the most effective manner for you and your device.
+  * To process any requests from you made via our online forms
+  * To contact you for customer satisfaction and impact surveys
+  * To support products or services you have obtained from us.
+  * For marketing and market research purposes if you have consented to such use
+  * To personalise and improve your experience of this website
+  * In connection with processing a job application
+  * To deal with any queries, complaints or problems reported on the Website
+  * To notify you about changes to our service
 
-We use Google Analytics to collect information about site usage and performance. This helps us better understand our users and their needs so that we can continue to improve the services we provide. We also use this information to report to funders such as the Department for Business, Innovation and Skills. The analytics cookies collect information such as the number of visits to the site, pages visited and international traffic. This information is anonymous and cannot be used to identify you personally.
 
-**Name**
 
-| 
+## Choice
 
-**Description**
+In most cases you are not obliged to provide any personal data to us but, if you have requested information from us, we will not be able to provide it without certain information, such as your contact details.
 
-| 
+## Storage
 
-**Longevity**
+We will only keep your personal data for as long as we need to in order to fulfil the relevant purpose(s) it was collected for, as set out above in this privacy policy, and for as long as we are required to keep it by law.
 
-| 
+## Data Security & International Transfers
 
-**Domain**  
-  
----|---|---|---  
-  
-**__utma**
+We maintain appropriate administrative, technical and physical safeguards to protect your personal data against loss, misuse, unauthorised access, disclosure, alteration or destruction.
 
-| 
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will take reasonable steps to protect your information, we cannot guarantee the security of your information. We will not be liable for any loss of or interception of your information, unless this results from our failure to use reasonable steps to keep it secure.
 
-Stores non-personal data about visits to the site for statistical reporting
+Your personal data will not be transferred, or stored, outside of the European Economic Area (' **EEA** ') without your prior written consent.
 
-| 
+## Your rights
 
-Long term typically 2 years
+You have a number of rights in relation to how your personal data is used. We have detailed some of your rights below:
 
-| 
+  * To ask us not to process your personal data for marketing purposes
+  * To access personal data held about you and to obtain a copy of it, including to receive your personal data, which you have provided to NPL, in a structured, commonly-used and machine readable format and the right to transmit that data to another data controller without hindrance, or to have that personal data transmitted to another data controller, where technically feasible
+  * To obtain without undue delay the rectification or completion of personal data which are inaccurate or incomplete
+  * To restrict or object to the processing of your personal data and to request its erasure under certain circumstances
 
-npl.co.uk  
-resource.npl.co.uk  
-project.npl.co.uk  
-  
-**__utmb**
 
-| 
 
-Stores non-personal data about visits to the site for statistical reporting
+If you would like to obtain a written copy of your personal data or if you need to amend any of your personal details, please write to us at the address detailed under the Contact Us section.
 
-| 
+To request your personal data you will be asked to verify your identity and specify what information you require and provide us with details of an address to which we should send the information.
 
-Short - typically 1 day
+If you would like to ask us not to send you further marketing communications at any time. You can do so by contacting us using the details in the Contact Us section below. Each marketing email we send to you will also include an option for you to opt out of further marketing emails.
 
-| 
+## Contact Us
 
-npl.co.uk  
-resource.npl.co.uk  
-project.npl.co.uk  
-  
-**__utmc**
+We will be happy to answer any questions you may have regarding this Policy.
 
-| 
+Please contact us using the following contact details:
 
-Stores non-personal data about visits to the site for statistical reporting
+Data Protection Officer  
+NPL  
+Hampton Road  
+Teddington  
+Middlesex  
+TW11 0LW
 
-| 
+Or email: [datapro@npl.co.uk](mailto:datapro@npl.co.uk)
 
-During visit only
-
-| 
-
-npl.co.uk  
-resource.npl.co.uk  
-project.npl.co.uk  
-  
-**__utmz**
-
-| 
-
-Stores non-personal data about visits to the site for statistical reporting
-
-| 
-
-Typically 6 months
-
-| 
-
-npl.co.uk  
-resource.npl.co.uk  
-project.npl.co.uk  
-  
-You can opt out of Google Analytics monitoring [here](https://tools.google.com/dlpage/gaoptout)
-
-### Session cookie
-
-A cookie is set by our content management system to manage some of the user data for the session only.
-
-**Name**
-
-| 
-
-**Description**
-
-| 
-
-**Longevity**
-
-| 
-
-**Domain**  
-  
----|---|---|---  
-  
-**PHPSESSID**
-
-| 
-
-Set by the NPL CMS
-
-| 
-
-During visit only
-
-| 
-
-npl.co.uk  
-  
-###  Publications download
-
-**Name**
-
-| 
-
-**Description**
-
-| 
-
-**Longevity**
-
-| 
-
-**Domain**  
-  
----|---|---|---  
-  
-**npl_doc_download**
-
-| 
-
-Cookie set when signing up to download NPL PDFs. Allows user to download PDFs without entering their details for 6 months.
-
-| 
-
-6 months
-
-| 
-
-publications.npl.co.uk  
-  
-## Cookies set by third-party services
-
-On some areas of the site we use third party multimedia services to support our work. Often these will be embedded material hosted on other sites or services provided by external sites. These external sites may present you with cookies. NPL doesn't control the dissemination of these cookies and you should check the relevant third party website for more information about these.
-
-**Service**
-
-| 
-
-**Usage**
-
-| 
-
-**More information**  
-  
----|---|---  
-  
-**YouTube**
-
-| 
-
-Display embedded video on the site
-
-| 
-
-[Privacy policy](http://www.google.com/intl/en/policies/privacy/)  
-  
-**Scribd**
-
-| 
-
-Display embedded documents on site
-
-| 
-
-[Privacy policy](http://support.scribd.com/entries/25580-privacy-policy)  
-  
-**Flickr**
-
-| 
-
-Display slideshows or individual images hosted on Flickr
-
-| 
-
-[Yahoo cookie policy](http://info.yahoo.com/privacy/uk/yahoo/cookies/#t1)  
-  
-**Facebook 'like' feature**
-
-| 
-
-Allows users to 'like' NPL content on Facebook
-
-| 
-
-[Data use policy](http://www.facebook.com/full_data_use_policy)  
-  
-**Twitter button**
-
-| 
-
-Allows users to tweet NPL content onto Twitter
-
-| 
-
-[Privacy policy](https://twitter.com/privacy)
+If you wish to know more about your rights in regard to personal data, then please visit the [Information Commissioner's website](https://ico.org.uk/).
