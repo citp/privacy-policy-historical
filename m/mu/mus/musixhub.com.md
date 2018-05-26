@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musixhub.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209213026id_/http%3A//www.musixhub.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musixhub.com privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526034750id_/http%3A//www.musixhub.com/privacy.php) for the most accurate reproduction.*
 
 # Free albums music - Listen free at MusixHub
 
