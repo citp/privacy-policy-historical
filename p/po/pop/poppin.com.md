@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poppin.com privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127205131id_/http%3A//www.poppin.com/customer-service/privacy-and-security/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poppin.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527012734id_/http%3A//www.poppin.com/customer-service/privacy-and-security/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
