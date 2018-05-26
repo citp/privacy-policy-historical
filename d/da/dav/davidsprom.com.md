@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davidsprom.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212062507id_/http%3A//www.davidsbridal.com/Content_Legal_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidsprom.com privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526160129id_/http%3A//www.davidsbridal.com/Content_Legal_privacy) for the most accurate reproduction.*
 
 # David's Bridal: Privacy Policy
 
@@ -199,4 +199,4 @@ If any proposed change is unacceptable to you, you mayrequest that we remove you
 
 Our Canadian customers may e-mail us at removeCA@dbi.com or write to us at: PrivacyOfficer, David's Bridal, P.O. Box 549, Conshohocken, PA 19428, U.S.A.
 
-© 2002 - 2017 David's Bridal, Inc. All Rights Reserved. 
+© 2002 - 2018 David's Bridal, Inc. All Rights Reserved. 
