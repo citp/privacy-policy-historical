@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bfads.net privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220233158id_/https%3A//www.bfads.net/Legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bfads.net privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526021005id_/https%3A//www.bfads.net/Legal) for the most accurate reproduction.*
 
 # Black Friday Ads - Legal Information and Privacy Policy
 
-Effective Date: April 5, 2017
+Effective Date: February 8, 2018
 
 This Privacy Policy Statement applies to [www.bfads.net](http://www.bfads.net/) ("BFADs" or "BFADs.net") owned and operated by Ebates Inc. This Privacy Policy Statement describes how we collect, use, share, and secure your personal information and other shopping information. It also describes the choices available to you regarding our use of this information and how you can access and update this information. If you have a question about this Privacy Policy Statement, you can contact our Chief Privacy Officer by email at [privacy@ebates.com](mailto:privacy@ebates.com?subject=Privacy%20Inquiry%20Regarding%20Ebates.com).
 
@@ -12,7 +12,7 @@ Our vision is to maximize your rewards and to provide you with as many member be
 
 ## BFADs.net
 
-When you become a member of BFADs.net, we collect your name, email address, and physical address ("Personal Information"). We use your Personal Information to track and to improve and personalize our services. We also collect non-personal information pertaining to our merchant partners you visit, the purchases you make, and the offers you view ("Transaction Information"). We use Transaction Information to provide more relevant offers for you when you visit us or use our applications and services.
+When you become a member of BFADs.net, we collect your name, email address, and physical address ("Personal Information"). We use your Personal Information to track and to improve and personalize our services. We also collect information pertaining to our merchant partners you visit, the purchases you make, and the offers you view ("Transaction Information"). We use Transaction Information to provide more relevant offers for you when you visit us or use our applications and services.
 
 ## Social Media
 
@@ -44,7 +44,7 @@ Ebates will never ask for your email address, username, password or any other Pe
 
 ## Changes to This Privacy Policy
 
-If we materially modify this Privacy Policy Statement, we will post a change notice in a prominent place on our site or by notifying you by email (sent to the email address specified in your account. We reserve the right to modify this Privacy Policy Statement at any time, so please review it regularly.
+If we materially modify this Privacy Policy Statement, we will post a change notice in a prominent place on our site or by notifying you by email (sent to the email address specified in your account before the change becomes effective). We reserve the right to modify this Privacy Policy Statement at any time, so please review it regularly.
 
 ## Links to Third Party Websites
 
@@ -56,13 +56,11 @@ BFADs sends two types of emails to members: customer service emails required to 
 
 ## Cookies and Other Technologies
 
-We, Ebates Inc., and our partners use cookies or similar technologies to analyze trends, administer the website, track users' movements around the website, and to gather demographic information about our user base as a whole. Users can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service. To manage Flash cookies, please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). 
-
-We use cookies for authentication, website personalization, and order tracking. Users can control the use of cookies at the individual browser level. If you reject cookies, you will no longer be able to earn Cash Back.
+We, Ebates Inc., and our partners use cookies or similar technologies to analyze trends, administer the website, track users' movements around the website, and to gather demographic information about our user base as a whole. Users can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service. 
 
 ## Other Information We Collect
 
-As is true of most web sites, we gather and store certain information automatically. This information may include, but is not necessarily limited to, internet protocol (IP) addresses, browser type, internet service provider, referring/exit pages, operating system, date/time stamp, and clickstream data to analyze trends. We link this automatically collected data to other information we collect about users in order to improve our services and to guard against malicious activity.
+As is true of most web sites, we gather and store certain information automatically. This information may include, but is not necessarily limited to, internet protocol (IP) addresses, browser type, internet service provider, referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and clickstream data to analyze trends in the aggregate and adminster the site. We link this automatically collected data to other information we collect about users in order to improve our services and to guard against malicious activity.
 
 ## Behavioral Targeting
 
