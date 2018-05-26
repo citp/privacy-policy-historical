@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the musixhub.com privacy policy that was archived on 2017-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171209213026id_/http%3A//www.musixhub.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the musixhub.com privacy policy that was archived on 2018-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180526034750id_/http%3A//www.musixhub.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <title>Free albums music - Listen free at MusixHub</title>
@@ -59,7 +59,7 @@ MusixHub give you better YouTube music experience.
     <meta name="twitter:url" content="http://www.musixhub.com/?lnk=share">
 
     <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/gkbhpmdajdojnnhkfgffkofkjifglkan">
-
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     
 
 <link href="css/style.css?2" rel="stylesheet" type="text/css" media="all">
@@ -86,10 +86,11 @@ MusixHub give you better YouTube music experience.
 <![endif]-->
 
 <script src="/offerpop/script.js"></script>
+<script src="/js/main.js"></script>
 
 
 <script>
-    var baseDataUrl = (window.location.href.indexOf('www') > -1) ? location.protocol + "//www.musixhub.com/data.php" :  location.protocol + "//musixhub.com/data.php";
+    var baseDataUrl = "/data.php";
     var apiKey = "596b6a87b325e101a9e8829bf8546d7d";
     var ytKey = "AIzaSyBbWHVgPc8uxLpdEtsbSREphEUIgC4bHC4";
     var _plObj = null;
@@ -99,7 +100,7 @@ MusixHub give you better YouTube music experience.
     var _artist = "";
     var _video = "";
     var isLogin = false;
-        var userData = '';
+        var userData = "";
     var showLyricsStatus = "";
     var lyricsLoaded = false;
 
@@ -156,12 +157,13 @@ MusixHub give you better YouTube music experience.
     function numberWithCommas(x) {
         return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
     }
-    function searchAlbum(index) {
-        var artist = artistsList[index];
+    function searchAlbum(index, byName) {
+        var name = index;
+        if (artistsList.length && !byName) {
+            name = artistsList[index].name;
+        }
 
-        //location.href="albums.php?name="+artist.name;
-
-        location.href = "search.php?name=" + artist.name;
+        location.href = 'search.php?name=' + name;
     }
     function getUsetId() {
 
@@ -285,10 +287,12 @@ MusixHub give you better YouTube music experience.
     }
     function saveAlbum(id, name, image, releaseDate, artist, trackCount, artist_avatar) {
         var u = baseDataUrl + "?uid=" + getUsetId() + "&t=alu&id=" + id + "&name=" + encodeURIComponent(name) + "&image=" + encodeURIComponent(image) + "&releaseDate=" + releaseDate + "&artist=" + encodeURIComponent(artist) + "&trackCount=" + trackCount + "&artist_avatar=" + artist_avatar;
-        console.log(u);
 
+        $('.album-save').css('visibility', 'hidden');
+        $('#saveAlbum').css('visibility', 'hidden');
+        ohSnap('Saving...', 'green',{'duration': 10000});
 
-        $.ajax({
+        return $.ajax({
             type: "GET",
             url: u,
             dataType: "text",
@@ -296,9 +300,11 @@ MusixHub give you better YouTube music experience.
                 withCredentials: true
             },
             error: function (jqXHR, textStatus, errorThrown) {
+                ohSnapX();
                 ohSnap('Error saving album', 'orange');
             },
             success: function (data) {
+                ohSnapX();
                 if (data.indexOf("err_") > -1) {
                     ohSnap(data.replace("err_", ""), 'orange');
                     if (data.indexOf("authorized") > -1) {
@@ -310,16 +316,19 @@ MusixHub give you better YouTube music experience.
                     ohSnap('Saved successfully', 'green');
                 }
             }
+        }).always(function () {
+            $('.album-save').css('visibility', 'visible');
+            $('#saveAlbum').css('visibility', 'visible');
         });
-
-
     }
 
     function saveArtist(id, artist, image) {
         var u = baseDataUrl + "?uid=" + getUsetId() + "&t=aru&image=" + encodeURIComponent(image) + "&artist=" + encodeURIComponent(artist);
-        console.log(u);
 
-        $.ajax({
+        $('.artist-save').css('visibility', 'hidden');
+        ohSnap('Saving...', 'green',{'duration': 10000});
+
+        return $.ajax({
             type: "GET",
             url: u,
             dataType: "text",
@@ -327,10 +336,11 @@ MusixHub give you better YouTube music experience.
                 withCredentials: true
             },
             error: function (jqXHR, textStatus, errorThrown) {
-
+                ohSnapX();
                 ohSnap('Error saving artist', 'orange');
             },
             success: function (data) {
+                ohSnapX();
                 if (data.indexOf("err_") > -1) {
                     ohSnap(data.replace("err_", ""), 'orange');
                     if (data.indexOf("authorized") > -1) {
@@ -339,12 +349,11 @@ MusixHub give you better YouTube music experience.
                 } else {
                     userData += "," + encodeURIComponent(artist);
                     ohSnap('Saved successfully', 'green');
-
                 }
             }
+        }).always(function () {
+            $('.artist-save').css('visibility', 'visible');
         });
-
-
     }
     function playVideo(index) {
 
@@ -354,20 +363,19 @@ MusixHub give you better YouTube music experience.
     }
 
     function playAlbum(index) {
-
         var album = albumsList[index];
 
-        if (album.type != "it")
-            location.href = "details.php?t=a&a=" + album.artist + "&at=" + album.name;
-        else
-            location.href = "details.php?t=a&it=" + album.id;
+        location.href = "details.php?t=a&a=" + album.artist + "&at=" + album.name;
     }
     function removeAlbum(albumId, divClassId) {
         var u = baseDataUrl + "?uid=" + getUsetId() + "&t=alr&id=" + albumId;
-        console.log(u);
 
+        $('.album-save').css('visibility', 'hidden');
+        $('.remove-album').css('visibility', 'hidden');
+        $('#saveAlbum').css('visibility', 'hidden');
+        ohSnap('Removing...', 'green',{'duration': 10000});
 
-        $.ajax({
+        return $.ajax({
             type: "GET",
             url: u,
             dataType: "text",
@@ -375,24 +383,32 @@ MusixHub give you better YouTube music experience.
                 withCredentials: true
             },
             error: function (jqXHR, textStatus, errorThrown) {
+                ohSnapX();
                 ohSnap('Error removing album, try again later', 'orange');
             },
             success: function (data) {
+                ohSnapX();
                 userData = userData.replace(albumId, '');
 
                 $("." + divClassId).fadeOut(300, function () {
                     $(this).remove();
                 });
                 ohSnap('Removed successfully', 'green');
-
             }
+        }).always(function () {
+            $('.album-save').css('visibility', 'visible');
+            $('.remove-album').css('visibility', 'visible');
+            $('#saveAlbum').css('visibility', 'visible');
         });
-
     }
     function removeArtist(artistName, divClassId) {
         var u = baseDataUrl + "?uid=" + getUsetId() + "&t=arr&id=" + encodeURIComponent(artistName);
-        console.log(u);
-        $.ajax({
+
+        $('.artist-save').css('visibility', 'hidden');
+        $('.remove-artist').css('visibility', 'hidden');
+        ohSnap('Removing...', 'green',{'duration': 10000});
+
+        return $.ajax({
             type: "GET",
             url: u,
             dataType: "text",
@@ -400,9 +416,11 @@ MusixHub give you better YouTube music experience.
                 withCredentials: true
             },
             error: function (jqXHR, textStatus, errorThrown) {
+                ohSnapX();
                 ohSnap('Error removing artist, try again later', 'orange');
             },
             success: function (data) {
+                ohSnapX();
                 userData = userData.replace(encodeURIComponent(artistName), '');
 
                 $("." + divClassId).fadeOut(300, function () {
@@ -410,69 +428,18 @@ MusixHub give you better YouTube music experience.
                 });
                 ohSnap('Removed successfully', 'green');
             }
+        }).always(function () {
+            $('.artist-save').css('visibility', 'visible');
+            $('.remove-artist').css('visibility', 'visible');
         });
-
-
     }
     function updateTmbAlbum(album, albumDiv) {
-        inLibrary = isInLibrary(album.id);
-        var selectedCss = "imgOpt";
-        if (inLibrary) {
-            selectedCss = "tmbSelected";
-        }
-        //
-        var rAlbum = $('<img data-save="' + inLibrary + '" data-count="' + album.trackCount + '" data-name="' + album.name + '"   data-artist="' + album.artist + '" data-releaseDate="' + album.releaseDate + '"  data-id="' + album.id + '" data-image="' + album.image + '"  class="' + selectedCss + '" src="images/save.png" />');
+        inLibrary = isInLibrary(encodeURIComponent(album.name));
+        var selectedCss = inLibrary ? "tmbSelected" : "imgOpt",
+            rAlbum = $('<img class="' + selectedCss + ' album-save" src="images/save' + (inLibrary ? 'd' : '') + '.png"/>');
+        rAlbum.data('save', inLibrary).data('count', album.trackCount).data('name', album.name).data('artist', album.artist).data('releaseDate', album.releaseDate).data('id', album.id).data('image', album.image);
 
-        if (inLibrary) {
-            rAlbum.show();
-        } else {
-            rAlbum.hide();
-        }
-
-
-        albumDiv.append(rAlbum);
-        rAlbum.click(function () {
-
-
-            if (isLogin) {
-
-                var isSave = $(this).attr("data-save");
-                if (isSave != "true") {
-                    saveAlbum($(this).attr("data-id"), $(this).attr("data-name"), $(this).attr("data-image"), $(this).attr("data-releaseDate"), $(this).attr("data-artist"), $(this).attr("data-count"));
-                    rAlbum.show();
-                    $(this).attr("data-save", "true");
-                    $(this).removeClass("imgOpt");
-                    $(this).addClass("tmbSelected");
-                } else {
-                    removeAlbum($(this).attr("data-id"));
-                    $(this).attr("data-save", "false");
-
-                    $(this).removeClass("tmbSelected");
-                    $(this).addClass("imgOpt");
-
-                }
-
-            } else {
-                needLoginPop();
-            }
-        });
-        albumDiv.hover(
-            function () {
-                var isSave = $(this).attr("data-save");
-                if (isSave != "true") {
-                    $(this).find(".imgOpt").attr("title", "Save to library");
-                } else {
-
-                    $(this).find(".imgOpt").attr("title", "Remove from library");
-                }
-                $(this).find(".imgOpt").show();
-
-            }, function () {
-                $(this).find(".imgOpt").hide();
-
-            }
-        );
-
+        albumDiv.append(rAlbum).addClass('itemTmb');
     }
     function forceLogin() {
         if (isLogin) {
@@ -498,37 +465,37 @@ MusixHub give you better YouTube music experience.
                 updateTmbAlbum(videoObj, videoDiv.find(".images_3_of_1"));
             return videoDiv;
         } catch (e) {
-
             console.log(e);
         }
-        return "";
 
+        return "";
     }
 
     function createAlbumTmb(albumObj, idIndex, libraryTmb) {
-
         var divId = "album_" + idIndex;
         var trackNumLbl = "";
         var img = albumObj.image;
-        if (albumObj.trackCount) {
+        if (albumObj.trackCount && albumObj.trackCount !== 'undefined') {
             trackNumLbl = albumObj.trackCount + " tracks<br>";
+        } else {
+            trackNumLbl = 'album<br>';
         }
+
         try {
             img = img.replace("100x100", "200x200");
-        } catch (e) {
-        }
-        try {
+        } catch (e) {}
 
-            var d = '<div title="Play ' + albumObj.name + ' album by ' + albumObj.artist + '" class="divTmb ' + divId + '"><div class="grid images_3_of_1"><a href="javascript:playAlbum(\'' + idIndex + '\')"><img class="divTmbImg" src="' + img + '"><p class="divTmbP">' + trackNumLbl + albumObj.releaseDate + '</p></a></div><div class="grid span_2_of_3"></div></div>';
+        var releaseDate = albumObj.releaseDate && albumObj.releaseDate !== 'undefined' ? albumObj.releaseDate : '';
+        try {
+            var d = '<div title="Play ' + albumObj.name + ' album by ' + albumObj.artist + '" class="divTmb ' + divId + '"><div class="grid images_3_of_1"><a href="javascript:playAlbum(\'' + idIndex + '\')"><img class="divTmbImg" src="' + img + '"><p class="divTmbP">' + trackNumLbl + releaseDate + '</p></a></div><div class="grid span_2_of_3"></div></div>';
 
             var albumDiv = $(d);
             if (libraryTmb)
                 updateTmbAlbum(albumObj, albumDiv.find(".images_3_of_1"));
             return albumDiv;
-        } catch (e) {
-        }
-        return "";
+        } catch (e) {}
 
+        return "";
     }
 
     function createArtistTmb(artistObj, idIndex, libraryTmb) {
@@ -543,74 +510,12 @@ MusixHub give you better YouTube music experience.
         return artistDiv;
     }
     function updateTmbArtist(artist, artistDiv) {
-
         inLibrary = isInLibrary(encodeURIComponent(artist.artist));
-        var selectedCss = "imgOpt";
-        if (inLibrary) {
-            selectedCss = "tmbSelected";
-        }
+        var selectedCss = inLibrary ? "tmbSelected" : "imgOpt",
+            rArtist = $('<img title="More options" class="' + selectedCss + ' artist-save" src="images/save' + (inLibrary ? 'd' : '') + '.png"/>');
+        rArtist.data('save', inLibrary).data('artist', artist.artist).data('id', artist.id).data('image', artist.image);
 
-        var rArtist = $('<img  data-save="' + inLibrary + '" data-artist="' + artist.artist + '"  data-id="' + artist.id + '" data-image="' + artist.image + '" title="More options" class="' + selectedCss + ' " src="images/save.png"  />');
-
-        //console.log(encodeURIComponent(artist.artist));
-        if (inLibrary) {
-            rArtist.show();
-        } else {
-            rArtist.hide();
-        }
-        artistDiv.append(rArtist);
-
-        rArtist.click(function () {
-            if (isLogin) {
-
-                var isSave = $(this).attr("data-save");
-                if (isSave != "true") {
-                    saveArtist($(this).attr("data-id"), $(this).attr("data-artist"), $(this).attr("data-image"));
-                    rArtist.show();
-                    $(this).attr("data-save", "true");
-                    $(this).removeClass("imgOpt");
-                    $(this).addClass("tmbSelected");
-                } else {
-                    removeArtist($(this).attr("data-artist"));
-                    $(this).attr("data-save", "false");
-
-                    $(this).removeClass("tmbSelected");
-                    $(this).addClass("imgOpt");
-
-                }
-
-
-            } else {
-                needLoginPop();
-            }
-
-        });
-
-        rArtist.hover(
-            function () {
-                var isSave = $(this).attr("data-save");
-                if (isSave != "true") {
-                    $(this).attr("title", "Save to library");
-                } else {
-
-                    $(this).attr("title", "Remove from library");
-                }
-            }, function () {
-
-            }
-        );
-
-
-        artistDiv.hover(
-            function () {
-                $(this).find(".imgOpt").show();
-
-            }, function () {
-                $(this).find(".imgOpt").hide();
-
-            }
-        );
-
+        artistDiv.append(rArtist).addClass('itemTmb');
     }
     function getParameterByName(name) {
         name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
@@ -643,12 +548,7 @@ MusixHub give you better YouTube music experience.
     }
 
     function isInLibrary(sId) {
-        if (userData.indexOf(sId) > -1) {
-            return true;
-        } else {
-            return false;
-        }
-
+        return userData.indexOf(sId) > -1
     }
 
 
@@ -755,7 +655,7 @@ MusixHub give you better YouTube music experience.
 
             updateCanShareMsg();
             swal({
-                title: "Share with friens?",
+                title: "Share with friends?",
                 text: "Share musixhub with friends and let them enjoy playing albums they like!",
                 type: "success",
                 showCancelButton: true,
@@ -1006,7 +906,9 @@ MusixHub give you better YouTube music experience.
         return result;
     }
   
-    
+    function escapeParam (param) {
+        return encodeURIComponent($('<div/>').text(param).html());
+    }
 
 
 </script>
