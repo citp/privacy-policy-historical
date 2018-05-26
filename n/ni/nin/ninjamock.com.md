@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ninjamock.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121115219id_/https%3A//ninjamock.com/shared/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ninjamock.com privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526125424id_/https%3A//ninjamock.com/shared/privacyPolicy) for the most accurate reproduction.*
 
-# NinjaMock - We respect the privacy of the NinjaMock community
+# We respect the privacy of NinjaMock community
 
   1. ## Agreement and Parties
 
