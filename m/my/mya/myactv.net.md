@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myactv.net privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121074818id_/http%3A//myactv.net/legal/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myactv.net privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527005754id_/http%3A//www.myactv.net/legal/privacy-policy.php) for the most accurate reproduction.*
 
-# AntietamBroadband.net - High Speed Cable Internet ISP - Hagerstown / Washington County, MD
+# Antietam Broadband - High Speed Cable Internet ISP - Hagerstown / Washington County, MD
 
 We take your privacy seriously. Please read the following to learn more about our privacy policy. Antietam Broadband ("AB") is the owner of AntietamBroadband.net and retains all ownership rights to the information collected at this site. However, in the event that we are involved in a sale of a substantial portion of our business assets, customer information may be among the transferred assets.
 
@@ -12,7 +12,7 @@ This policy does not apply to practices of companies that AB does not own or con
 
 ##### The Cable Privacy Act
 
-In addition, as an AB cable customer, you are entitled under federal law to a statement about our collection and use of certain information that we learn about you. That information is required to be provided in a separate written statement and is therefore attached to this Privacy Policy as [Annex A](https://web.archive.org/web/20171121074818id_/http%3A//myactv.net/legal/privacy-policy-annex-a.php).
+In addition, as an AB cable customer, you are entitled under federal law to a statement about our collection and use of certain information that we learn about you. That information is required to be provided in a separate written statement and is therefore attached to this Privacy Policy as [Annex A](https://web.archive.org/web/20180527005754id_/http%3A//www.myactv.net/legal/privacy-policy-annex-a.php).
 
 ##### Information Collection and Use
 
