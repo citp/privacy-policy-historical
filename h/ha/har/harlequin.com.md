@@ -1,48 +1,52 @@
-> *The following text is extracted and transformed from the harlequin.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914032639id_/https%3A//www.harlequin.com/shop/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harlequin.com privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526033927id_/http%3A//corporate.harlequin.com/privacy-policy) for the most accurate reproduction.*
 
-# Harlequin.com
+# Privacy Policy - Corporate Harlequin
 
-**Effective Date: August 12, 2016  
-Previous Privacy Policy can be viewed [here](https://www.harlequin.com/store/20160115001/images/pdf/HarlequinPrivacyPolicy.pdf).**
-
-This **Privacy Policy** outlines the information usage practices within the Harlequin group of businesses, including but not limited to Harlequin Enterprises Limited, Harlequin Sales Corp. and Harlequin Digital Sales Corp. (collectively Harlequin).
+This **Privacy Policy** outlines the information usage practices within the Harlequin group of businesses, including but not limited to Harlequin Enterprises Limited, Harlequin Sales Corp. and Harlequin Digital Sales Corp. (collectively “Harlequin”).
 
 By submitting your Personal Information to Harlequin or using any Harlequin related sites, you consent to the use of your Personal Information as outlined in this policy. Where Personal Information is collected but is not required for us to fulfill a requested service or product, we will clearly indicate your options.
 
 We reserve the right to modify this policy at any time. Updated policies will be posted at least 30 days prior to any changes taking effect. Your continued use of this site means that you have accepted our modifications. Changes to the Policy will not affect any consents give or withheld that you may have previously given with regard to your Personal Information.
 
-**What Is Personal Information?**
+## What Is Personal Information?
 
-"Personal information" includes information or data, in any form, about an identifiable individual.
+“Personal information” includes information or data, in any form, about an identifiable individual.
 
-**What Is the Scope of This Privacy Policy?**
+## What Is the Scope of This Privacy Policy?
 
 This Privacy Policy addresses our policies and procedures relating to our customers and to visitors to our websites. This Privacy Policy is intended to assist you in understanding our management of Personal Information that you submit to us or that we automatically collect through your interactions with us.
 
-**What Personal Information is collected?**
+## What Personal Information is collected?
 
 Harlequin collects Personal Information voluntarily provided by you, and/or information about you collected through cookies and browser data via our websites. Personal Information may include name, mailing address, email address, telephone number, gender, date of birth, age, purchase history, credit card number, chat room and blog communications, comments about our products or services, a record of promotions offered to you, your activities and your reading preferences, such as favorite authors and themes.
 
-**Cookies and Other Tracking Methods** \- Cookies are small files stored on your computer. Cookies are used to collect identifying information about you, such as the sites and pages you visit or your preferences for a specific website. Cookies are used to improve security, to provide content, services, ads and recommendations on our website, and to generate reporting statistics. Cookies can be used to remember passwords or associate a credit card with an account. In most cases you will be asked if you want your computer to remember such information.
+## Cookies and Other Tracking Methods
 
-Certain browsers allow you to block third party cookies in order to prevent being tracked. Please note that blocking all cookies could result in loss of login information for certain sites and some parts of our sites may not work properly if you do. For further opt¬-out options please see <https://www.aboutads.info/choices>.
+Cookies are small files stored on your computer. Cookies are used to collect identifying information about you, such as the sites and pages you visit or your preferences for a specific website. Cookies are used to improve security, to provide content, services, ads and recommendations on our website, and to generate reporting statistics. Cookies can be used to remember passwords or associate a credit card with an account. In most cases you will be asked if you want your computer to remember such information.
+
+Certain browsers allow you to block third party cookies in order to prevent being tracked. Please note that blocking all cookies could result in loss of login information for certain sites and some parts of our sites may not work properly if you do. For further opt-out options please see <https://www.aboutads.info/choices>.
 
 In certain cases we may also use tracking technologies to serve online advertisements to you for our products on third party websites. We may also place advertising and/or links on our sites that originate from outside advertisers. In some cases, if you click on or view these third party ads, a cookie may be assigned by the advertisers. Harlequin does not control these cookies nor is it responsible for any marketing or other use of your name by these advertisers. We encourage you to investigate and ask questions before disclosing information to third parties.
 
 Some browsers have a do not track feature that lets you tell websites that you do not want to have your online activities tracked. These features are not yet uniform, so we are not currently set up to respond to those signals.
 
-**Why Does Harlequin Collect Personal Information?**
+## Why Does Harlequin Collect Personal Information?
 
 Personal Information is collected and used for the specific business purpose for which it was collected, including but not limited to: 
 
-•  To determine eligibility for our products and services;  
-•  To provide requested products or services and to process payments;  
-•  To gain an understanding of interests so that we can develop better products and services;   
-•  To properly investigate and respond to any concerns about our products or services;   
-•  To maintain and manage our unsubscribe list;   
+•  To determine eligibility for our products and services;
+
+•  To provide requested products or services and to process payments;
+
+•  To gain an understanding of interests so that we can develop better products and services;
+
+•  To properly investigate and respond to any concerns about our products or services;
+
+•  To maintain and manage our unsubscribe list;
+
 •  For promotional and advertising purposes, if and where permitted by law.
 
-**What Kind of Personal Information Does Harlequin Disclose, to Whom and Why?**
+## What Kind of Personal Information Does Harlequin Disclose, to Whom and Why?
 
 **•   To Third Parties for Their Marketing Purposes:**
 
@@ -64,65 +68,52 @@ We may be required to disclose Personal Information to the government or other l
 
 **•   To a Third Party in the Event Harlequin Is for Sale or Is Sold:**
 
-Should Harlequin ever be up for sale or sold, prospective buyers will need access to Harlequin's customer lists and various databases as part of the due diligence process. In this event, Harlequin would only provide such access under terms of a strict confidentiality agreement. In the event Harlequin is sold, your Personal Information may be transferred to the purchasing company so you can continue to receive the books and services you purchased and to enable the continued maintenance of your Personal Information as set out in this policy. 
+Should Harlequin ever be up for sale or sold, prospective buyers will need access to Harlequin’s customer lists and various databases as part of the due diligence process. In this event, Harlequin would only provide such access under terms of a strict confidentiality agreement. In the event Harlequin is sold, your Personal Information may be transferred to the purchasing company so you can continue to receive the books and services you purchased and to enable the continued maintenance of your Personal Information as set out in this policy. 
 
-**How Long Does Harlequin Retain Personal Information?**
+## How Long Does Harlequin Retain Personal Information?
 
 We keep your information only for a period reasonably necessary to meet the purposes for which it was collected, or based on any legal requirements, including statutory retention periods. Then we will delete or make anonymous any Personal Information that is no longer required for a specific purpose or legal requirement. 
 
-**Online Policy Regarding Privacy of Children** \- Harlequins websites are not set up or designed to appeal to those under 13 years of age and we do not knowingly collect information from children under this age. We may require that users submit their birth dates when they are joining as a member so that no information is collected from users under age 18. Birth date information is never shared with third parties except in anonymized aggregated form. 
+**Online Policy Regarding Privacy of Children** – Harlequins websites are not set up or designed to appeal to those under 13 years of age and we do not knowingly collect information from children under this age. We may require that users submit their birth dates when they are joining as a member so that no information is collected from users under age 18. Birth date information is never shared with third parties except in anonymized aggregated form. 
 
-Users aged 13 to 17 may only use Harlequins websites with the involvement of a parent or guardian. If they do not, Harlequin reserves the right to refuse service, terminate accounts, remove or edit content, or cancel orders in its sole discretion. In concert with our efforts, Harlequin urges all parents to supervise their children's exploration of the Internet and any online services, and to teach their children about protecting their Personal Information online. 
+Users aged 13 to 17 may only use Harlequins websites with the involvement of a parent or guardian. If they do not, Harlequin reserves the right to refuse service, terminate accounts, remove or edit content, or cancel orders in its sole discretion. In concert with our efforts, Harlequin urges all parents to supervise their children’s exploration of the Internet and any online services, and to teach their children about protecting their Personal Information online. 
 
-**What are Harlequins Security Measures To Safeguard Personal Information?**
+## What are Harlequins Security Measures To Safeguard Personal Information?
 
 Harlequin has implemented physical, electronic and administrative measures to protect your information from error, loss or unauthorized access; including but not limited to industry-standard efforts, such as passwords, firewalls and Secure Socket Layers. In addition, our employees and any third parties are contractually bound to protect the confidentiality of your information and access is restricted to those with a need to know the information to carry out the identified purpose.
 
-**How do I Contact Harlequin Regarding my Personal Information**
+## How do I Contact Harlequin Regarding my Personal Information
 
 If you have any questions or comments, or you wish to correct any of your information: 
 
-By phone:   
-Toll free: 1 800 873 8635 (U.S. and Canada)   
-By mail:   
-In the U.S.:   
-P.O. Box 9049, Buffalo, NY 14269-9049   
+### By phone:
+
+Toll free: 1 800 873 8635 (U.S. and Canada)
+
+### By mail:
+
+#### In the U.S.:
+
+P.O. Box 9049, Buffalo, NY 14269-9049  
 Attention: Privacy Customer Service Representative 
 
-In Canada:   
-P.O. Box 603, Fort Erie ON L2A 5X3   
-Attention: Privacy Customer Service Representative   
-By email:  
+#### In Canada:
+
+P.O. Box 603, Fort Erie ON L2A 5X3  
+Attention: Privacy Customer Service Representative
+
+### By email:
+
 [privacy@harlequin.com](mailto:privacy@harlequin.com)
 
-If, after contacting the above, your concerns or questions have not been resolved to your satisfaction, you can contact Harlequin's Chief Privacy Officer in writing by mail or fax: 
+If, after contacting the above, your concerns or questions have not been resolved to your satisfaction, you can contact Harlequin’s Chief Privacy Officer in writing by mail or fax: 
 
-Harlequin Enterprises Limited   
-225 Duncan Mill Road   
-Don Mills, Ontario   
-M3B 3K9   
-Attention: Chief Privacy Officer   
-Fax Number: (416) 391-7055 
+Harlequin Enterprises Limited  
+Bay Adelaide Centre, East Tower  
+22 Adelaide Street West, 41st Floor  
+Toronto, Ontario, Canada  
+M5H 4E3  
+Attention: Chief Privacy Officer  
+Fax Number: 416-445-8655 
 
-If the issue is still not resolved to your satisfaction, you may file a complaint with the Privacy Commissioner of Canada. 
-
-### Stay Connected
-
-[](https://facebook.com/HarlequinBooks)Find us   
-on Facebook 
-
-[](https://twitter.com/HarlequinBooks)Follow us   
-on Twitter 
-
-[](https://pinterest.com/HarlequinBooks)Follow us   
-on Pinterest 
-
-Copyright © 2000–2017 Harlequin Enterprises Limited. All Rights Reserved.
-
-  * [Privacy Policy](https://www.harlequin.com/shop/pages/privacy-policy.html)
-  * [Terms & Conditions](https://www.harlequin.com/shop/pages/terms-conditions.html)
-  * [Intellectual Property Notice](https://www.harlequin.com/shop/pages/terms-conditions.html#copyright)
-
-
-
-*Harlequin Enterprises Limited (Harlequin.com) is located at 225 Duncan Mill Rd, Don Mills, Ontario Canada M3B 3K9 and sends informational and promotional emails on behalf of itself and Harlequin Digital Sales Corporation. Subscribers can unsubscribe at any time.
+If the issue is still not resolved to your satisfaction, you may file a complaint with the Privacy Commissioner of Canada.
