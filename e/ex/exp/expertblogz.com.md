@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expertblogz.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215204004id_/http%3A//www.expertblogz.com/page/Privacy-Policy-Disclaimer.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertblogz.com privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526085457id_/http%3A//expertblogz.com/page/Privacy-Policy-Disclaimer.aspx) for the most accurate reproduction.*
 
 # Expert's BLOG | Privacy Policy & Disclaimer
 
