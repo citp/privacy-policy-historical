@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashtat.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123221202id_/http%3A//www.flashtat.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashtat.com privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526161606id_/http%3A//www.flashtat.com/privacy-notice) for the most accurate reproduction.*
 
 # Metallic Temporary Tattoo | Privacy Policy | Flash Tattoos
 
