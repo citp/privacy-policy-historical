@@ -1,60 +1,39 @@
-> *The following text is extracted and transformed from the healthwealthbridge.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503063422id_/http%3A//healthwealthbridge.com/about-me/healthwealthbridge-com-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthwealthbridge.com privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526113909id_/http%3A//healthwealthbridge.com/about-me/healthwealthbridge-com-privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
-* * *
+[Home](http://healthwealthbridge.com/) » [About me](http://healthwealthbridge.com/about-me/) » Healthwealthbridge.com Privacy Policy
 
-We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use Healthwealthbridge.com as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
+[Healthwealthbridge ](http://healthwealthbridge.com/)is governed by the following [Updated Privacy policy](http://healthwealthbridge.com/privacy-policy/) in compliance with [GDPR](http://healthwealthbridge.com/gdpr-compliance/).
 
-Healthwealthbridge.com strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers’, consumers’ and online visitors’ privacy on our website.
+We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what information we may collect and how it may be used. This statement only applies to [Healthwealthbridge ](http://healthwealthbridge.com/)  . This Website may contain third-party links to other websites which are not governed by this policy.
 
-Personal Information  
-Healthwealthbridge.com collects personally identifiable information from the visitors to our website only on a voluntary basis. Personal information collected on a voluntary basis may include name, postal address, email address,website, company name and telephone number.
+ ** _What Information Do We Collect and How Is This Information Used?_**
 
-This information is collected if you request information from us, participate in a contest or sweepstakes, and sign up to join our email list or request some other service or information from us. The information collected is internally reviewed, used to improve the content of our website, notify our visitors of updates, and respond to visitor inquiries.
+  1. We may receive and store information that you voluntarily submit through the Website for the purpose of subscribing to the Website to receive newsletters, for the purpose of leaving comments on blog posts, or administering sweepstakes, contests or promotions. Examples of information collected for this purpose are your name, email address and website URL. This information is only captured when you voluntarily enter or opt-in and enter this information for collection.
+  2. We may receive and store certain types of usage-related information when you interact with the Website, including but not limited to, your computer’s IP address and browser information. The information we collect is used to customize the content and/or layout of our **page** for each individual visitor.
+  3. We use **third-party advertising** companies to serve content and advertisements when you visit the Website, which may use cookies. No personal information is shared with the Website’s ad providers.
+  4. The Website uses **Google Analytics** to track statistics regarding our audience and Website traffic. No personally identifiable information is transferred from the Website to Google Analytics. [For more information on Google’s Analytics privacy policies, please visit this site](https://support.google.com/analytics/answer/6004245).
+  5. This Website engages in **sponsored campaigns** with various influencer networks, brands, and agencies. All sponsored content is duly disclosed in accordance with the FTC’s requirements. From time to time, these sponsored campaigns utilize tracking pixels (aka web beacons), which may contain cookies to collect data regarding usage and audience. This information is collected by the sponsoring company to track the results of the campaign. No personally identifiable information collected by the Website is used in conjunction with these tracking pixels.
+  6. The Website uses cookies to store visitors’ preferences, record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads, customize Website content based on visitors’ browser type or other information that the visitor sends. Cookies may also be used by third-party services, such as Google Analytics, as described above.
+  7.  [Healthwealthbridge ](http://healthwealthbridge.com/) is a participant in the **Amazon Services LLC Associates** Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com. As part of this Amazon Associates program, the Website will post customized links, provided by Amazon, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales.
 
-Once information is reviewed, it is discarded or stored in our files. If we make material changes in the collection of personally identifiable information we will inform you by placing a notice on our site. Personal information received from any visitor will be used only for internal purposes and will not be sold or provided to third parties.
 
-Use of Cookies and Web Beacons
 
-We may use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer’s hard drive through your web browser to enable our system to recognize your browser.
+ ** _Third-Party Use of Personal Information_**
 
-The purpose of a cookie is to tell the web server that you have come to the site for the first time, or have returned to a specific page. If you personalize the site’s pages, or register with any of our site’s services, a cookie enables Healthwealthbridge.com to recall your specific information on subsequent visits.
+The Website may provide personal information to an applicable third party in order to provide services. Currently, the Website uses the services of  **mailmarketer.in** for delivery of email updates and newsletters. **mailmarketer.in** ‘s use of your personal information is subject to **mailmarketer.in’s** privacy policy.
 
-You have the ability to accept or decline cookies by modifying settings in your browser; however, if you choose to decline cookies, you may not be able to fully experience the interactive features of the site.
+Your personal information is not shared with any other third-party applications.
 
-A web beacon is a transparent image file used to monitor your journey around a single website or collection of sites. They are also referred to as web bugs. They are commonly used by sites that use third-party services to monitor traffic. They may be used in association with cookies to understand how visitors interact with the pages and content on the pages of a website.
+Information that does not identify you personally may be provided to other parties for marketing, advertising, or other uses.
 
-We use third-party advertising companies to serve ads on our website. These companies use cookies and web beacons in their ads to ascertain how many times you’ve seen an advertisement. No personally identifiable information you give us is provided to them for cookie or web beacon use, so they cannot personally identify you with that information from our website.
+ ** _Will We Share the Personal Information It Collects?_**
 
-As you browse this website, a Google Analytics will be placed on your computer to collect demographic and interest information, but we do not tie the cookie to any personal information that you provide to us. If you do not wish your data to be collected via Google Analytics, you may use their opt-out tool… <https://tools.google.com/dlpage/gaoptout/>.
+We will not sell, distribute, or reveal users’ email addresses or other personal information without their consent. This does not include third-party partners, such as those listed above.
 
-Some third-party advertisements may be provided by Google, which uses the DART cookie to serve ads. This cookie enables Google to serve ads to users based on their visits to sites on the Web. You may opt out of the use of the DART cookie by visiting the [ Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+ ** _Modification or Deletion of Personal Information_**
 
-Browsers can be set to accept or reject cookies automatically, or notify you when a cookie is being requested. Privacy software can be used to override web beacons. Taking either of these actions should not cause a problem with our site, should you so choose.
+You can decline to submit personal information at any time. If you decline, we may not be able to continue to provide service to you. You may request deletion of your personal information by sending an email to **dramrita@healthwealthbridge.com** , but in some cases, we may be required to keep your information by law. In such a case, it would no longer be active and would be kept separately in an archive.
 
-Children’s Online Privacy Protection Act
-
-This website is directed to adults; it is not directed to children under the age of 13. We operate our site in compliance with the Children’s Online Privacy Protection Act, and will not knowingly collect or use personal information from anyone under 13 years of age.
-
-Non-Personal Information
-
-In some cases, we may collect information about you that is not personally identifiable. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. The information collected is used solely for internal review and not shared with other organizations for commercial purposes.
-
-Release of Information
-
-If Healthwealthbridge.com is sold, the information we have obtained from you through your voluntary participation in our site may transfer to the new owner as a part of the sale in order that the service being provided to you may continue. In that event, you will receive notice through our website of that change in control and practices, and we will make reasonable efforts to ensure that the purchaser honors any opt-out requests you might make of us.
-
-How You Can Correct or Remove Information
-
-We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please click on this link and/or use our Contact Us page.
-
-Updates and Effective dates
-
-Healthwealthbridge.com reserves the right to make changes in this policy. If there is a material change in our privacy practices, we will indicate on our site that our privacy practices have changed and provide a link to the new privacy policy. We encourage you to periodically review this policy so that you will know what information we collect and how we use it.
-
-Agreeing to Terms
-
-If you do not Healthwealthbridge.com Privacy Policy as posted here on this website, please do not use this site or any services offered by this site.
-
-Your use of this site indicates acceptance of this privacy policy.
+## Reader Interactions
