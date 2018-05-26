@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desiopt.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119210303id_/http%3A//desiopt.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desiopt.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527003352id_/http%3A//desiopt.com/privacypolicy) for the most accurate reproduction.*
 
 # DesiOPT.com: Privacy Policy
 
