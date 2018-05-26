@@ -1,273 +1,195 @@
-> *The following text is extracted and transformed from the sirsidynix.net.au privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626021751id_/http%3A//www.sirsidynix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sirsidynix.net.au privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526140247id_/http%3A//www.sirsidynix.com/privacy) for the most accurate reproduction.*
 
-# Privacy | SirsiDynix.com
+# Legal & Privacy Terms | SirsiDynix.com
 
-### SIRSIDYNIX: PRIVACY POLICY
+### **Privacy**
 
-**Effective date of April 23, 2004**
+ **SIRSIDYNIX: PRIVACY POLICY**
 
-_This page was last updated June 15, 2010_
+ **Effective date of April 23, 2004**
 
-Sirsi Corporation, dba SirsiDynix ("SirsiDynix") is committed to protecting your privacy. We recognize your need for protection of any personally identifiable information ("Personal Information") shared with us. SirsiDynix has developed the following Privacy Policy in order to inform you of the care that we place on the protection, management and use of your Personal Information. This Privacy Policy Notice covers the foundation principles of fair information: Awareness, Choice, Notice, Accuracy & Access, Security, Data Integrity, Enforcement, and Oversight.
+[](https://privacy.truste.com/privacy-seal/validation?rid=078a56a4-9e48-4152-bee2-b466a991f9f0)
 
-Personal Information includes information that identifies an individual or institution; for example, a person's name, institution name, mail address, telephone number, e-mail address, or other such information used for contacting or identifying the individual or institution.
+ _This page was last updated December 4, 2017._
 
-In order for SirsiDynix to provide the services or products that you order, Personal Information may be required to fulfill your request. The information you provide to SirsiDynix will be protected in all reasonable means from disclosure to outside parties. SirsiDynix appreciates your trust and provides this privacy policy regarding our practices for managing information. SirsiDynix also has a separate privacy statement that applies to certain personal data that SirsiDynix receives in the United States from the European Union and Switzerland, called the Safe Harbor Privacy Statement.
+Sirsi Corporation and its affiliated companies dba SirsiDynix ("SirsiDynix")—with subsidiary EOS International falling under Privacy Shield certification—are committed to protecting your privacy. This privacy policy covers the collection, use and disclosure of information collected through our site www.sirsidynix.com ,the products and the associated online services including but not limited to Symphony, Enterprise, Portfolio (Enterprise + Digital Content), E-Resource Central, Horizon, HIP, ERC PAC, BLUECloud, and EOS.Web we provide to Customers (“Customers”) (collectively “Services”). It also describes the choices you have regarding our use of your personally identifiable information (PII) and how you can access and update such information. The use of information collected through our Services shall be limited to the purpose of providing the services for which clients have engaged SirsiDynix. We recognize the need to protect any PII shared with us, including but not limited to PII of our customers (“Customer(s)”) and our Customers’ patrons (“Patron(s)”). PII is singular or collective information that identifies an individual; for example, a person's name, mailing address, telephone number, e-mail address, or other such information. PII does not include aggregated data from which the personally identifiable information has been removed.
 
-### DESCRIPTION OF THE ACTIVITIES WHEN PERSONAL INFORMATION IS RECEIVED FROM CLIENT.
+SirsiDynix’s Privacy Policy identifies the care taken to protect, manage and use your PII. This Privacy Policy incorporates principles awareness, choice, notice, accuracy, access, security, data integrity, enforcement, and oversight.
 
-We will ask the individual or institution ("Client") when we need Personal Information. Under most circumstances when SirsiDynix requests Personal Information the Client is registering for conferences, surveys, ordering e-mail news or information, joining limited-access sites (such as forum or list servers), signing up for an event or training, or when purchasing and/or registering SirsiDynix products. Personal Information collected by SirsiDynix is often limited to e-mail address, language, country or location, but may include other information when needed to provide a service or product Client requested.
+In order for SirsiDynix to provide services or products, collection of or access to PII may be required. The information provided to SirsiDynix will be protected by reasonable means from disclosure to third parties. SirsiDynix also has a specific privacy statement called the Privacy Shield and Swiss Privacy Shield Privacy Statement (below) that applies to certain personal data received in the United States from the European Union and Switzerland.
 
-Examples of when Personal Information is requested:
+Please read the complete SirsiDynix Privacy Policy. If you provide us with PII, you are accepting the practices described in this Privacy Policy.
 
-SirsiDynix may collect information about Client's computer hardware and software, if it was not supplied by SirsiDynix. This information may include: Client IP address, browser type, operating system, domain name, access times and referring Web site addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of SirsiDynix.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [ https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request).
 
-If a Client has selected a service or product that requires payment, we will request Personal Information necessary for billing and/or shipping, such as: name, address, telephone number, and credit card number.
+ **ACTIVITIES INVOLVING THE COLLECTION OR PROCESSING OF PII.**
 
-SirsiDynix also collects information about which pages our Clients visit within SirsiDynix. This site visitation data is never linked with Personal Information, except with the user's consent as described below.
+SirsiDynix may obtain or gain access to PII in a number of ways. We may, for example, ask our Customer for PII about its employees including name and address for the purpose of registering for conferences, surveys, ordering e-mail news or information, joining limited-access sites (such as forum or list servers), signing up for an event or training, or purchasing and/or registering SirsiDynix products.
 
-You can visit most pages on our site without providing any Personal Information. However, as noted in the examples above, sometimes we do need information to provide the services you request and realize you want the information you provide to SirsiDynix to be protected. SirsiDynix appreciates your trust and offers this privacy statement to inform you of our practices for managing information. Please read the complete SirsiDynix privacy statement herein, and if you choose to provide us with Personal Information, you are accepting the practices described in this Privacy Policy Notice.
+SirsiDynix may collect information about Customer's computer hardware and software, if it was not supplied by SirsiDynix. This information may include: Customer IP address, browser type, operating system, domain name, access times and referring Web site addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of SirsiDynix. We do not link this automatically collected data to other information we collect about you.
 
-Personal Information
+If a Customer has selected a service or product that requires payment, we may request PII necessary for billing and/or shipping, such as: name, address, telephone number, and credit card number. SirsiDynix uses a third-party payment processing provider for these functions and does not store financial information used in such payment processing.
 
-About Personal Information:
+SirsiDynix also collects information about the pages visited within SirsiDynix websites.
 
-Personal Information will not be sold, leased, or otherwise distributed or disclosed to outside parties unless required by law. All individual information is considered confidential.
+SirsiDynix processes 3rd party PII under the direction of our Customers. Our Customers collect PII from their Patrons. For example, our Customers may collect the name, address, phone number, and other Patron information in order to issue a library card. Customers also may collect information about its Patrons activities related to circulation of books and other materials. We have no ownership of this information or any direct relationship with individuals whose PII may be processed as part of providing our Services.
 
-Personal Information will not be collected, sold, leased, or otherwise distributed or disclosed for commercial purposes.
+Name of Third Party Partner| What Info is Shared With or Collected by This Partner| Partner's Purpose| Applicable to Children Under 13  
+---|---|---|---  
+Marketo| Prospect name and contact information may be collected for marketing when volunteered by that individual.| Marketing research and service platform| http://legal.marketo.com/privacy/| No  
+Hirebridge| Prospect name and contact information may be collected for hiring when volunteered by that individual.| Employment application processing| http://www.hirebridge.com/corp/privacy.asp| No  
+  
+ **Children’s Privacy**
 
-Personal Information will not be collected, sold, leased or otherwise distributed or disclosed without notice being given to the individual. At that time, the individual can request the Personal Information not be shared.
+[](https://privacy.truste.com/privacy-seal/validation?rid=6fd410d4-35a7-4fad-9fee-036bd90cad00)
 
-Personal Information will not be knowingly collected by SirsiDynix from children.
+We process certain information on behalf of our Customers about children under the age of 13 (“Children”) within the services we provide. We take children’s privacy seriously, and encourage parents to play an active role in their children’s online experience at all times. These policies and guidelines are applicable to the Children’s PII only to the extent we operate or maintain such Children’s PII on behalf of Customers and collect, host or store any PII of their users. Each of our Customers who collect Children’s PII may have their own data collection and use practices and policies, including those applicable to children under 13 years of age. In addition to our privacy policy, Customers may have their own privacy requirements for which they are responsible regarding the collection and use of information from children under the age of 13. Parents may have the right to consent to the collection and use of personal information collected by our Customers through our Services; parents should contact our Customers with questions about consent requirements. Please note that we process PII on behalf of our Customers as part of providing our Services; therefore, if you do not consent to the collection and use of personal information for certain Services, you may not be able to use such Services.
 
-What information is collected without Client Registration:
+The U.S. Children’s Online Privacy Protection Act (“COPPA”) may require that our Customers inform parents and legal guardians about how they collect, use, and disclose personal information from children under 13 years of age and that Customers may need to obtain the consent of parents and guardians in order for children under 13 years of age to use the Services we provide on behalf of Customers.
 
-The domain name (e.g. [www.SirsiDynix.com](http://www.sirsidynix.com/)) of the visitor.
+We make no representations, warranties or guarantees that Children’s information will be completely safe or insulated from inappropriate use by external parties, and we do not represent, warrant or guarantee that other users will not attempt to circumvent the rules, features or aspects of the Services. We do not assume any obligation, liability or responsibility associated with such behavior. Because we act as a service provider for our Customers with respect to any Children’s PII, you may be contacted by the Customer or their representatives for consent to collect or otherwise use information from your children. If required by COPPA, that consent allows us to collect and use information on behalf of that Customer to provide the Service.
 
-The IP address of the computer or Internet provider.
+ **Additional safeguards with respect to personal information collected about children**
 
-The date/time you accessed the site.
+If required by COPPA, our Customers should not collect personal information from children under the age of 13 in the United States unless they register in person with the Customer and with verifiable parental consent. Some of our Customers collect birth dates to validate the ages of their patrons, including children. Our Customers may also collect an e-mail address from a parent for the purpose of sending a child e-mails related to the child’s account.
+
+ **How do we notify and obtain consent from parents for the collection of information from their children?**
+
+Our U.S. Customers to whom COPPA applies should require a parent’s verifiable consent to the collection of their child’s PII when their child registers in person to create an account for our Services. If the parent refuses to allow the registration, Customers should not create the account as directed by our Customer. Once a parent provides verifiable consent to the collection of their child’s PII, we will, on behalf of our Customer, create the child’s account and provide the child access to the membership areas of the Services. We perform these Services on behalf of our Customers and therefore such Customers may request your consent.
+
+ **How can parents access, change or delete personally identifiable information about their children?**
+
+If COPPA applies, at any time parents should be able to refuse to allow Customers to process PII from their child and can request that any PII we have collected on behalf of or from our Customers be deleted from the records in our Services; this would be performed by our Customers through our Services. Due to the nature of long-term backup media it is not possible to delete all instances of an individual’s PII from all backup media, but this media is protected by robust physical security measures and is disposed of securely when the media is retired. For certain Customers, a parent has certain editorial access to each of his or her children’s accounts through the parent’s master account on our Customers’ sites. Parents may access, change, or delete the PII that our Customers have collected from their children by logging on to the child’s account through the user interface of the applicable Service. The parent will need to have their child’s username and password to log into their child’s account. Instructions are available via links on each of the Services’ home pages provided by our Customers explaining how to recover a password if the user has forgotten it.
+
+If you have any inquiries regarding our Customers’ privacy practices or how they use your child’s personal information, please contact them directly.
+
+If COPPA applies, Parents have the right to consent to the collection and use of PII from a child without also consenting to its disclosure to third parties as we do not share any of this information with third parties outside of the Customer-approved components of our Services provided by third party vendors.
+
+Upon request SirsiDynix will provide you with information about whether we hold any of your personal information. You may access, correct, or request deletion of your personal information by logging in to your account or contacting us at [legal@sirsidynix.com](mailto:legal@sirsidynix.com). We will respond to your request within a reasonable timeframe. In certain circumstances we may be required by law to retain your personal information, or may need to retain your personal information in order to continue providing a service.
+
+SirsiDynix acknowledges that you have the right to access your personal information. An individual who seeks access to their data, seeks to correct, amend or delete inaccurate data or wishes to opt-out of communications from a Customer should direct his/her query to the Customer with whom he/she directly interacts (the data controller). Patron PII could reside locally with the Customer or in a Cloud environment hosted by SirsiDynix. In either case, SirsiDynix may have access to such PII. For example, when providing support to our Customer for SirsiDynix products and services, SirsiDynix may be granted access to patron PII by our Customers for the purpose of troubleshooting. SirsiDynix may also have access to patron PII for the purpose of aggregating and analyzing non-personally identifiable data. Whenever SirsiDynix is granted access to Customer patron PII it is handled according to the principles of this Privacy Policy. If a SirsiDynix Customer requests that we modify or remove Patron PII on their behalf, we will respond to their request within a reasonable timeframe.
+
+SirsiDynix may transfer personal information to other companies that help us provide our Services. Transfers to subsequent third parties are covered by the provisions in this Policy regarding notice and choice and the service agreements with our Customers.
+
+SirsiDynix will retain personal data we process on behalf of our Customers for as long as needed to provide services and as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+Customers who use the services offered on our Site may submit the personal information of other individuals at their organization to register them as authorized users. It is the Customer’s obligation, as the data controller, to inform its authorized users about the purposes for which information about them is collected and may be used on this Service. Authorized users can update or remove their account information at any time by logging into the Site and editing their account information, or by contacting their administrator.
+
+ **Policy**
+
+ **General**
+
+SirsiDynix adheres to the American Library Association's Code of Ethics’ guidelines for privacy protection, including the obligation to protect each library patron's right to privacy and confidentiality with respect to information sought or received and resources consulted, borrowed, acquired or transmitted.
+
+Customer information collected by SirsiDynix will be stored and processed in the United States or in other locations that may be required by SirsiDynix’s Customers or by applicable laws. Customer patron information collected by Customers for use with SirsiDynix products and services will be processed and stored at either a local Customer-hosted SirsiDynix site or a regional SirsiDynix hosting facility.
+
+ **Notification of Changes**
+
+We may update this privacy statement to reflect changes to our information practices including any material changes to how we use PII collected from children under age 13. If we make any material changes we will notify you by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+ **PII**
+
+PII will not be collected, sold, leased, or otherwise distributed or disclosed for commercial purposes and will not be distributed or disclosed to outside parties unless required by law.
+
+PII will not be sold, leased or otherwise distributed or disclosed out of line with this policy without notice being given to the individual. At that time, the individual can request the PII not be shared. PII will not knowingly be collected directly by SirsiDynix from children.
+
+What information may be collected on our website(s) without user registration:
+
+  * The domain name (e.g. [www.SirsiDynix.com](http://www.sirsidynix.com/)) of the visitor.
+  * The IP address of the computer or Internet provider.
+  * The date/time you accessed the site.
+  * Name
+  * Email Address
+  * Address
+  * Phone number
+  * Company Information
+
+
 
 How the collected information is used:
 
-Measuring traffic flow and volume.
+  * Measuring traffic flow and volume.
+  * Diagnosing server problems.
+  * Determining which parts of the site users are visiting.
+  * Delivering services, for example press releases, events information, training or software, which the user requested or purchased.
+  * To notify our users of product upgrades, special offers, updated information and other services.
+  * To allow user access to limited-entry Websites.
 
-Diagnosing server problems.
 
-Determining which parts of the site users are visiting.
 
-Delivering services, for example press releases, events information, training or software, which Client requested or purchased.
+ **Registration**
 
-To notify our users of product upgrades, special offers, updated information and other services.
+SirsiDynix may send out periodic e-mails to its Customers about services or security issues related to a product or service. The user will not be able to choose to use the automatic unsubscribe feature to disable these mailings, as they are considered an essential part of the service the user or customer selected during registration. Users or customers may opt out of such mailings by closing the associated account, contacting SirsiDynix according to the process described in the Opt-Out Features section, below.
 
-To allow Client access to limited-entry Websites.
+ **Disclosure of PII**
 
-The collected information does not identify individual visitors, unless the individual elects to provide SirsiDynix Personal Information. IP addresses are not linked to any personal identifiers. Statistical information is used only in aggregate (sum total) anonymous form. SirsiDynix uses this data for research purposes only and we may use this information in aggregate anonymous form to create statistical information. In some cases, with Client approval, we will combine site-visitation data with Personal Information in order to provide the Client with personalized content. If Client declines permission, we will not provide Client the personalized service and will not merge Client Personal Information with site-visitation data.
+No attempt is made to identify individual website users unless illegal behavior is suspected.
 
-Disclosure of Personal Information
+Network traffic is monitored to identify unauthorized attempts to upload or change information, or otherwise cause damage to the SirsiDynix's web services. PII may be disclosed:
 
-No attempt is made to identify individual users unless illegal behavior is suspected.
-
-Network traffic is monitored to identify unauthorized attempts to upload or change information, or otherwise cause damage to the SirsiDynix's web services.
-
-Personal Information may be disclosed when required to do so by law, or in the good-faith belief that such action is necessary when:
-
-It is believed that disclosing the information is necessary to identify, contact or bring legal action against someone who may be violating SirsiDynix's Privacy Policy or to protect and defend the rights or property of SirsiDynix and its Web site(s).
+If required to do so by law, such as to comply with a subpoena, or similar legal process, or in the good-faith belief that such action is necessary to protect our rights, protect your safety or the safety of others, to investigate fraud, or respond to a government request, when it is believed that disclosing the information is necessary to identify, contact or bring legal action against someone who may be violating this Privacy Policy or to protect and defend the rights or property of SirsiDynix.
 
 To act in urgent circumstances to protect the personal safety of SirsiDynix employees, users of SirsiDynix products or services, or members of the public or when someone may be causing injury to or interfering with SirsiDynix's rights or property, other users, or anyone else who could be harmed by such activities.
 
 To conform to the edicts of the law or comply with legal process served on SirsiDynix.
 
-SirsiDynix may occasionally hire or use other parties to provide limited services on our behalf, including packaging, mailing and delivering purchases, answering Client questions about products or services, sending postal mail and processing event registration. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
+If SirsiDynix is involved in a merger, acquisition, or sale of all or a portion of its assets, a prominent notice will be displayed on our Web site of any change in ownership or uses of PII, as well as any choices you may have regarding your personal information, will be posted
 
-Third-party Information
+SirsiDynix may occasionally hire or use other parties to provide limited services on our behalf, including packaging, mailing/delivering purchases, answering questions about products or services, sending postal mail and processing event registration. We will only provide those companies the information they need to deliver the service, and they are prohibited from using PII for any other purpose.
 
-SirsiDynix's Privacy Policy only addresses the use and disclosure of information SirsiDynix collects from a Client.
+ **Tracking Technologies**
 
-Any personally identifiable information disclosed to a third party, such as other users or advertisers, is subject to that party's Privacy Policy.
+SirsiDynix and its partners use cookies or similar technologies to analyze trends, allow access to certain functions such as the online catalog and electronic resources to better help manage content on our site, administer the website, track users’ movements around the website, and gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
 
-Disclosure of personally identifiable information to third parties, such as other users or advertisers, in general or in chat areas or bulletin boards may result in that information being collected by others and may result in unsolicited messages from others.
+We partner with a third party to display advertising on our website or to manage our advertising on other sites. Our third party partner may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising click [here](http://preferences-mgr.truste.com/) or if located in the European Union click [here](http://www.youronlinechoices.eu/). Please note you will continue to receive generic ads.
 
-SirsiDynix encourages the individual to ask questions and read the third party's Privacy Policy before disclosing personally identifiable information to others.
+ **Links**
 
-Cookies
+SirsiDynix's website(s) may contain links to other sites. SirsiDynix is not responsible for the accuracy, currency, and content of any other sites to which SirsiDynix provides hyperlinks or access. SirsiDynix is not responsible for the privacy practices of other sites. SirsiDynix cannot be responsible for an individual's privacy when a patron discloses information to outside web sites.
 
-Cookies are temporary files used to store and sometimes track information about a visit to the site, such as an individual's progress, the number of entries in promotions or contests. Cookies also allow access to certain functions, such as the online catalog and electronic resources. SirsiDynix may use cookies to collect information on which newsletter links are clicked by Clients. This information is used to ensure we are sending information Clients want to read. However, it is collected in aggregate form and never linked with the Clients Personal Information.
+SirsiDynix encourages users to be aware when they leave SirsiDynix's site(s), to read the privacy statements of each and every web site that collects PII. It is the individual's responsibility to protect their PII, including user name and password information. SirsiDynix's Privacy Policy applies solely as described herein.
 
-Cookies do not store any Personal Information, such as e-mail address or individual passwords.
+Our Web site includes Social Media Features, such as the Facebook Like button and links to our various social media pages. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
-Cookies cannot:
+ **Security**
 
-Read other data off an individual's hard drive.
+Credit card transactions for SirsiDynix offerings are almost always completed through third-party payment processors without SirsiDynix having any access to related PII. Such processors use industry-standard technology to safeguard the confidentiality of the individual information. This technology includes use of firewalls, secure socket layers (SSL), and/or encryption. In instances where SirsiDynix takes credit card information directly, such information is processed through a third party payment processor as described above, and SirsiDynix does not retain a copy of the credit card information provided.
 
-Pass on a virus.
+In order to further protect individual information, Customers and their patrons should always log out and close the browser when finished using a shared or public computer.
 
-Read cookies created by other sites.
+SirsiDynix takes reasonable steps to prevent the introduction of viruses, worms, or other destructive materials into or through its systems. However, SirsiDynix does not guarantee or warrant that materials downloaded from SirsiDynix do not contain viruses, worms, or other destructive materials. SirsiDynix is not liable for any damages or harm attributable to such materials. Usage of materials available via download from SirsiDynix is solely at the user's own risk. No security system is impenetrable. SirsiDynix cannot guarantee the absolute security of its database. SirsiDynix cannot guarantee that the information supplied by the user will not be intercepted while being transmitted to SirsiDynix over the Internet. Depending on our Customers’ security feature selection, information collected through our service is processed via secure socket layers (SSL).
 
-Temporary cookies files are automatically deleted when you close your browser.
+ **Customer User Access and Choices/Opt-Out**
 
-Cookies can be "turned off" or disabled by changing the proper setting in your browser.
+Upon request SirsiDynix will provide you with information about whether we hold any of your personal information. To request this information please contact us at [support@sirsidynix.com](mailto:support@sirsidynix.com).
 
-Changing the browser setting will disable all cookies delivered to your browser not just the ones delivered by SirsiDynix, however Client will not experience a personalized visit nor will Client be able to subscribe to the service offerings on the site.
+If our Customers’ personal information changes, they may correct, delete inaccuracies, update, amend, remove, or ask to have it removed by making the change on the user account settings page, by emailing our Customer Support at [support@SirsiDynix.com](mailto:support@sirsidynix.com) or by contacting us by telephone or postal mail at the contact information listed below. If you no longer desire our Services, please contact us directly. We will respond to your request within a reasonable timeframe.
 
-iBistro/iLink will not operate properly when cookies have been disabled.
+We will retain Customer information for as long as an account is active or as needed to provide Customers with services. Due to the nature of long-term backup media it is not possible to delete all instances of an individual’s PII from all backup media, but this media is protected by robust physical security measures and is disposed of securely when the media is retired. We will retain and use Customer information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-Registration
+Website users may discontinue receiving some of the communications from SirsiDynix, such as e-mail newsletters announcing new features, contests, and new content, by sending an e-mail to [webmaster@SirsiDynix.com](mailto:webmaster@SirsiDynix.com). Website users may also discontinue receiving some of the communications from SirsiDynix by editing account settings.
 
-Registration allows an individual to take advantage of some features of SirsiDynix's software, utilize SirsiDynix services and allows SirsiDynix to communicate with you.
+ **Customer Patron User Access and Choices/Opt-Out**
 
-Registration will require you to provide various types of information such as your full name, institution name, address, e-mail address, ZIP code, a user name, and password.
+If a Customer Patron’s personal information changes, they may correct, delete inaccuracies, update, amend, or remove it by making the change on the user account settings page, or by contacting a Customer representative. If requested to remove data we will respond within a reasonable timeframe.
 
-Optional information is marked as such.
+We will retain Customer Patron information on live systems for as long as an account is active or as needed to provide the Customer Patron with Services. Due to the nature of long-term backup media it is not possible to delete all instances of an individual’s PII from all backup media, but this media is protected by robust physical security measures and is disposed of securely when the media is retired. SirsiDynix retains data on systems for no longer than one year. Additionally, we will retain and use Customer Patron information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-Providing additional, optional information helps SirsiDynix make its Web site more valuable to the individual.
+ **Enforcement of this Privacy Statement**
 
-Whenever an individual provides SirsiDynix with Personal Information, SirsiDynix will make every effort to provide a link to SirsiDynix's Privacy Policy.
+If an individual has questions regarding this statement, individuals should first contact SirsiDynix by e-mail at [legal@SirsiDynix.com](mailto:legal@sirsidynix.com). Should you not receive acknowledgement of your inquiry or if the inquiry has not been satisfactorily addressed, the individual should then contact the Legal Department.
 
-Participation in some promotions may not be possible if an individual chooses not to share Personal Information.
+ **Contact Information**
 
-SirsiDynix occasionally allows other parties to offer our registered clients information about their products and services. If Client does not want to receive these offers, Client should check the appropriate box.
-
-SirsiDynix may send out periodic e-mails informing the Client of services or security issues related to a product or service the Client requested or licensed. Client will not be able to choose to unsubscribe to these mailings, as they are considered an essential part of the service the Client selected during registration.
-
-Links
-
-SirsiDynix's Web site contains links to other sites.
-
-SirsiDynix is not responsible for the accuracy, currency, and content of any other sites to which SirsiDynix provides hyperlinks or access.
-
-SirsiDynix is not responsible for the privacy practices of other sites.
-
-SirsiDynix cannot be responsible for an individual's privacy when a patron discloses information to outside web sites.
-
-SirsiDynix encourages its Clients to be aware when they leave SirsiDynix's site(s), to read the privacy statements of each and every web site that collects personally identifiable information.
-
-It is the individual's responsibility to protect their Personal Information, including user name and password information.
-
-SirsiDynix's Privacy Policy applies solely to information collected by this Web site or SirsiDynix.
-
-Security
-
-Credit card transactions (purchases, etc.) placed on SirsiDynix's site(s) are protected using industry-standard technology to safeguard the confidentiality of the individual information.
-
-This technology includes use of firewalls, secure socket layers (SSL), and/or encryption.
-
-In confirming order statuses, only the last four or five digits of the individual's credit card number is revealed.
-
-In order to further protect individual information, always log out and close the browser when finished using a shared or public computer.
-
-SirsiDynix takes reasonable steps to prevent the introduction of viruses, worms, or other destructive materials.
-
-SirsiDynix cannot guarantee or warrant that materials downloaded from SirsiDynix do not contain viruses, worms, or other destructive materials.
-
-SirsiDynix is not liable for any damages or harm attributable to such materials.
-
-Usage of materials available via download from SirsiDynix is solely at the Client's own risk.
-
-No security system is impenetrable.
-
-SirsiDynix cannot guarantee the absolute security of its database.
-
-SirsiDynix cannot guarantee that the information supplied by the Client will not be intercepted while being transmitted to SirsiDynix over the Internet.
-
-Opt-Out Features
-
-Your information can be reviewed and changed by contacting Client Care.
-
-You may discontinue receiving some of the communications from SirsiDynix, such as e-mail newsletters announcing new features, contests, and new content, by sending an e-mail to [webmaster@SirsiDynix.com](mailto:webmaster@SirsiDynix.com).
-
-You may contact SirsiDynix to opt out of some features and communications by postal mail to:  
-Legal Department  
-400 West Dynix Drive  
-Provo, Utah 84604
-
-An individual can decline to provide SirsiDynix with Personal Information. Please note, in some cases, this will limit your interaction with SirsiDynix.
-
-Policy
-
-General
-
-This Privacy Policy is incorporated into and subject to the terms of SirsiDynix's license agreement and SirsiDynix's support services agreement.
-
-SirsiDynix adheres to the American Library Association's Code of Ethics.
-
-Reference on this Web site to any specific commercial product, process, service, manufacturer, or company does not constitute endorsement or recommendation by SirsiDynix.
-
-Client information will be stored and processed in the United States.
-
-SirsiDynix abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
-
-SirsiDynix attempts to abide by all applicable privacy statutes and regulations.
-
-**Notification of Changes**
-
-If SirsiDynix decides to change its Privacy Policy, these changes will be posted to SirsiDynix's Web site in the location you found this current policy.
-
-Patrons will be notified via e-mail so users are always aware of information collected, how it's used, and under what circumstances, if any, the information is disclosed.
-
-Patrons have the ability to opt out of receiving communications from SirsiDynix by editing their account or sending an e-mail to [webmaster@SirsiDynix.com](mailto:webmaster@SirsiDynix.com).
-
-**Enforcement of this Privacy Statement**  
-If Client has questions regarding this statement; Client should first contact SirsiDynix by e-mail at [legal@SirsiDynix.com](mailto:legal@SirsiDynix.com). Should you not receive acknowledgement of your inquiry or Client inquiry has not been satisfactorily addressed, Client should then contact the privacy administrator in the Legal Department.
-
-**Contact Information**  
-SirsiDynix welcomes Client comments regarding this privacy policy, please contact us by e-mail **at:**  
+SirsiDynix welcomes comments regarding this privacy policy, please contact us by e-mail at:  
 [legal@SirsiDynix.com](mailto:legal@SirsiDynix.com)  
- **or postal mail at:**  
-SirsiDynix Legal Department  
-400 West Dynix Drive  
-Provo, Utah 84604
-
-### SAFE HARBOR PRIVACY STATEMENT
-
-**SIRSI CORPORATION DBA SIRSIDYNIX**  
-This Statement describes how SirsiDynix collects and uses certain personally identifiable information that it receives in the United States from the European Union and Switzerland ("EU and Swiss Personal Data"). In particular, SirsiDynix recognizes that the European Union and Switzerland have established strict protections regarding the handling of EU and Swiss Personal Data, and SirsiDynix therefore has elected to adhere to the US-EU Safe Harbor Privacy Principles and US-Switzerland Safe Harbor Privacy Principles (together, the "Safe Harbors") with respect to such EU and Swiss Personal Data that it receives in the United States. For further background and information about the Safe Harbors, and to see SirsiDynix’s representation on the Safe Harbor List, please refer to the U.S. Department of Commerce's website at [www.export.gov/safeharbor](http://www.export.gov/safeharbor).
-
-**Categories of Individual Data Subjects**
-
-In general, SirsiDynix may obtain EU and Swiss Personal Data in the United States about several different types of individuals, including (i) website visitors, and (ii) clients, suppliers, and business partners, and (iii) SirsiDynix's own employees. SirsiDynix's practices with respect to each of these types of individual data subjects are described below.
-
-**Website Visitors**
-
-SirsiDynix generally collects, uses, and discloses information about website visitors located in the EU or Switzerland in accordance with the Website Privacy Policy at [www.sirsidynix.com/privacy](http://www.sirsidynix.com/privacy).
-
-**Clients, Suppliers, and Business Partners**
-
-SirsiDynix may obtain various types of EU and Swiss Personal Data about patrons of our clients, suppliers, and business partners. Such data may include contact information (names, titles, addresses, phone and fax numbers, and e-mail addresses); information about products and services ordered or provided; financial and payment information; user ID, passwords, and information collected through Internet-based and e-commerce activities, and other transaction-related data.
-
-SirsiDynix may use these types of EU and Swiss Personal Data for business purposes, including to deliver or provide products or services; to trouble-shoot server problems, to establish or maintain client and business relationships; to provide access to Internet-based and e-commerce activities; to perform accounting functions; and to conduct other activities as necessary or appropriate in connection with the servicing and development of the business relationship.
-
-Patrons, employees and agents of our clients, business partners, and suppliers may contact us if any of their EU and Swiss Personal Data changes, or if they would like to access and correct EU and Swiss Personal Data that we maintain about them. Such persons can also contact us by sending an e-mail to the SirsiDynix Legal/Privacy Office, or by using the information at the end of this privacy statement. Also, to the extent that any of these individuals receive marketing communications from SirsiDynix, and wish to unsubscribe or otherwise stop receiving such communications, they can contact us at our website: [webmaster@sirsidynix.com](mailto:webmaster@sirsidynix.com). 
-
-**SirsiDynix Employees**
-
-SirsiDynix employees located in the European Union should consult with their local human resources manager to obtain information about SirsiDynix's practices with respect their EU and Swiss Personal Data. Online job applicants to SirsiDynix should also consult any additional terms that apply when they submit their applications and/or resumes.
-
-**Other Necessary Disclosures**
-
-SirsiDynix may disclose EU and Swiss Personal Data to business partners and subcontractors as necessary in connection with the performance of requested services or solutions, or as otherwise appropriate in connection with a legitimate business need. SirsiDynix may also disclose EU and Swiss Personal Data as necessary in connection with the servicing the software and hardware of the business. In these situations, SirsiDynix will require the recipient of the data to protect the data in accordance with the relevant principles in the Safe Harbors, or otherwise take steps to ensure that the EU and Swiss Personal Data is appropriately protected. SirsiDynix may also disclose EU and Swiss Personal Data where required or permitted by law, or where SirsiDynix believes that such disclosures are appropriate in connection with a law enforcement request.
-
-**Data Security and Integrity**
-
-SirsiDynix has global hosting centers that store and process EU and Swiss Personal Data in locations in the United States, including Utah. SirsiDynix takes reasonable precautions to protect EU and Swiss Personal Data in these centers and in other locations in the United States from loss, misuse and unauthorized access, disclosure, alteration, and destruction. SirsiDynix also makes reasonable efforts to keep EU and Swiss Personal Data accurate, current, and complete, and reliable for its intended use.
-
-**Dispute Resolution**
-
-SirsiDynix participates in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. As part of our participation in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at [http://watchdog.truste.com/pvr.php?page=complaint&url=fax](http://watchdog.truste.com/pvr.php?page=complaint&url=fax) at415-520-3420, or mail at Watchdog Complaints, TRUSTe, 55 2nd Street, 2nd Floor, San Francisco, CA, USA 94105. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see [http://watchdog.truste.com/pvr.php?page=complaint&url=or](http://watchdog.truste.com/pvr.php?page=complaint&url=or) request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with Data Protection Authorities. 
-
-**Questions**
-
-If you have any questions about this Safe Harbor Privacy Statement, or if you would like to request access to EU and Swiss Personal Data that we may maintain about you, please contact us as follows:
-
-**SirsiDynix**  
-Attention: Legal Department / Privacy Office  
-400 West Dynix Drive  
-Provo, UT 84604  
+ **or:**  
+SirsiDynix  
+Attention: Legal Department  
+3300 North Ashton Blvd Suite 500  
+Lehi, UT 84043  
 United States
 
 Toll-free: 800.288.8020  
 Phone: 1.801.223.5200  
-Fax: 1.801.223.5202  
-E-mail: SirsiDynix Legal/Privacy Office
-
-Any questions regarding this Safe Harbor Privacy Statement should first be directed to the SirsiDynix contact above. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you may then contact the local data protection authorities in your EU member state or Switzerland for further information.
+Fax: 1.801.223.5202
