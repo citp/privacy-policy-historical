@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the redrocksonline.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227062437id_/http%3A//redrocksonline.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redrocksonline.com privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526113625id_/http%3A//www.redrocksonline.com/privacy-policy) for the most accurate reproduction.*
 
-# Red Rocks Entertainment Concerts | Info | Privacy Policy
+# Privacy Policy | Red Rocks Entertainment Concerts
 
 The City and County of Denver is committed to protecting user privacy online. We believe that greater protection of personal privacy on the Web will not only protect users, but also increase user confidence and ultimately their participation in online activities. At www.redrocksonline.com, we intend to give you as much control as possible over your personal information. The purpose of our policy is to inform you about the types of information we gather when you visit our sites, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information. The following is the privacy policy for this site (all pages starting with www.redrocksonline.com).
 
@@ -29,4 +29,4 @@ As a governmental agency, we are governed by open records laws. Any information 
 
 This information is not reported or used in any manner that would reveal personally identifiable information, and will not be released to any outside parties unless we are legally required to do so in connection with law enforcement investigations or other legal proceedings.
 
-Visit the [Denvergov.org privacy policy](https://www.denvergov.org/content/denvergov/en/city-of-denver-home/privacy-policy.html)[.](http://www.denvergov.org/SitePolicies/tabid/367682/Default.aspx)
+Visit the [Denvergov.org privacy policy](https://www.denvergov.org/content/denvergov/en/city-of-denver-home/privacy-policy.html).
