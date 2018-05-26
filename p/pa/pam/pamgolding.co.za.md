@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pamgolding.co.za privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208225656id_/http%3A//www.pamgolding.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pamgolding.co.za privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526210142id_/http%3A//www.pamgolding.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pam Golding Properties
 
