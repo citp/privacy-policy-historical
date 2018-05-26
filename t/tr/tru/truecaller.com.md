@@ -1,138 +1,265 @@
-> *The following text is extracted and transformed from the truecaller.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625000646id_/http%3A//www.truecaller.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truecaller.com privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526114006id_/https%3A//www.truecaller.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Truecaller
+# Privacy Policy - Truecaller
 
-In Truecaller´s mission to build the most accurate and complete phone community accessible to anyone, anywhere across the globe, Truecaller is depending on the Users sharing certain information. Being a collaborative community the top-priority of Truecaller will always be the relationship with its community. Truecaller is therefore firmly committed to the security and protection of the personal integrity of the Users of the Services (as defined in the [_Terms of Service_](https://web.archive.org/terms-of-service)) and their contacts. 
+If you are not resident in the EU, EEA and Switzerland please click here
 
-This Privacy Policy describes what personal information You may share with Truecaller, as data controller, and other Users when activating and using the Truecaller Services, how Truecaller receives, collects and uses this data and how You may opt-out at any time, altogether preventing use of the data shared via the Services. 
+## TRUECALLER PRIVACY POLICY
 
-**Information Collected and Received**
+Effective date: 25 May 2018
 
-_Installation_
+### INTRODUCTION
 
-When you install the Truecaller App, Truecaller will collect some technical information from Your device in order to be able to provide You with the Services, namely Your IP address, the unique device ID number and what operating system, operator, screen resolution and version of the Truecaller App You use. This information is used to verify that the User device is properly registered and will not be used to identify You personally or be transferred to third parties. We will, however, use this data for statistics and user support as long as You use the Services. 
+Truecaller is firmly committed to the security and protection of personal information of our Users. This Privacy Policy describes how Truecaller will collect, use, share and process personal information. Capitalized terms not defined in this Privacy Policy are defined in the Truecaller [Terms of Service](https://www.truecaller.com/terms-of-service#eu).
 
-For details regarding permission usage in connection with installation on the Android platform, please see the Truecaller FAQ at [www.truecaller.com/support](http://www.truecaller.com/support) . 
+### DATA CONTROLLER AND CONTRACTING PARTY
 
-_User Profile_
+If you reside in the European Union (EU), European Economic Area and Switzerland (“ **Europe** ”), You are entering into the [Terms of Service](https://www.truecaller.com/terms-of-service#eu) with True Software Scandinavia AB and True Software Scandinavia AB will be the controller of Your personal information. If you do not reside in Europe the applicable terms are available [here](https://privacy.truecaller.com/privacy-policy).
 
-Where the User registers a user profile in the Truecaller App and via an sms or inbound call verification confirms being the holder of a certain number, the information up-loaded to the profile section of the Truecaller App will be received and stored by Truecaller until the User changes or deletes such data or terminates the Services. Compulsory information when creating a profile page is the User’s first name, last name and phone number and additional information that may be provided at the User’s option include, but is not limited to, photo, gender, street address and zip code, county of residence, email address, professional website, Facebook page, Twitter address and a short status message. 
+### BRIEF SUMMARY:
 
-Please note that the User personally is responsible for any Content up-loaded to and displayed in the user profile. 
+In simple terms:
 
-_Identifiers_
+We process Your profile data (name, phone number etc.) and information about Your activity on the Truecaller application including device information, IP address and location to provide, improve, analyze and personalize the Services for You. We have enhanced our privacy center to provide You with more ability to access and control Your data.
 
-In addition, You may provide us with Your user identifier information regarding certain third party services, i.e. Facebook, Google+, LinkedIn and Twitter, necessary for the application to interoperate with such third party services. In that case Truecaller will store and process also that information (and also a mapped photo where applicable), for as long as You use the Services and will not use this information for any other purpose than required in order to obtain interoperability and functionality in relation to such third party services. Please note that we never store any passwords to the mentioned third party services. 
+Subject always to obtaining your prior consent, we may:
 
-_Contact Information_
+  * provide your information to third parties (such as Google and advertising networks) to serve more relevant advertisements or special offers and promotions to You
+  * provide Your availability status to other Users
+  * allow other Users, at Your option, to either obtain your contact details or send a message to You to request Your contact details
 
-Where the Truecaller App is obtained from other sources than Apple App Store or Google Play, You may share the names and numbers contained in Your device’s address book (“Contact Information”) with Truecaller for the purpose described below under _Enhanced Search_. 
 
-Where the Truecaller App is obtained from Apple App Store or Google Play, we will only use Contact Information for the sole purpose of recognizing and recommending You to people You may know within the Truecaller community. 
 
-In addition to Contact Information, if You choose to activate use of a third party Social Network Service, such as Facebook, Google+, LinkedIN or Twitter, within the Truecaller App, Truecaller may up-load, store and use the list of identifiers associated with said services linked to the Contact Information in order to enhance the results shared with other Users. 
+We do not:
 
-_Please note that no other Contact Information than the phone numbers and thereto attached names will be received, stored and used from the User’s address book. Other numbers or information that may be contained in your device’s phone book will be filtered away and will therefore _not_ be stored or used by Truecaller. Addresses, passwords and credit card numbers and any other similar information will automatically be prevented from being entered into the Truecaller database by our safety algorithms, that filters any numbers and other information stored in the phone book in a number sequence not compatible with that used for telephone numbers. Please also note that You can always _choose_ not to share Contact Information with Truecaller and if You have shared information and changed Your mind, You can easily delist Your number or opt-out to render your entire Contact Information unavailable for search in the database for Enhanced Search. _
+  * store or share any personal information of contacts from Your address book
+  * provide reverse number look up of contacts from Your address book
 
-_Call Block_
 
-Where a User within the Services reports a phone number as spam, Truecaller stores that phone number in combination with the User’s RegisterID in order to maintain the User’s spam list online but also for the purpose of building a community based spam blocking directory. On the Android platform, the User can also add a name to the phone number in question that will only be visible to that User. __
 
-**Use, Sharing and Disclosure of User and Contact Information**
+### 1\. WHAT PERSONAL INFORMATION WE COLLECT
 
-Information related to the User or Contact Information will only be used to 
+#### 1.1 User Profile
 
-(a) display the name associated with a certain number at a manual number search against the Truecaller database, 
+When You create a user profile in the Services and confirm being the holder of a certain number, Truecaller will collect the information provided by You. In order to create a user profile, You must register Your first name, last name and phone number. Additional information that may be provided at Your option include, but is not limited to, photo, gender, street address and zip code, country of residence, email address, professional website, Facebook page, Twitter address and a short status message. Truecaller may supplement the information provided by You with information from third parties and add it to the information provided by You e.g. demographic information and additional contact information that is publicly available. If You register for a Paid Service, Truecaller will collect Your payment and billing information.
 
-(b) automatically display the caller’s name when a call is received, as enabled by the Enhanced Search functionality, as described below, to Users who have activated that functionality, and indicate possible mutual contact points with the caller or when an incoming call may be spam, 
+#### 1.2 Installation and Use
 
-(c) “update phonebook” and display the “who viewed my profile” functionalities of the Services, 
+When You install and use the Services, Truecaller will collect personal information from You and any devices You may use in Your interaction with our Services. This information may include e.g.: geo-location; Your IP address; device ID or unique identifier; device manufacturer and type; device and hardware settings; SIM card usage and details; applications installed on your device; ID for advertising; ad data, operating system; web browser; operator; connection information; screen resolution; usage statistics; default communication applications; access to device address book; device log and event information; logs, keywords and meta data of incoming and outgoing calls and messages; version of the Services You use and other information based on Your interaction with our Services such as how the Services are being accessed (via another service, web site or a search engine); the pages You visit and features you use on the Services; the services and websites You engage with from the Services; content viewed by You, content You have commented on or sent to us and information about the ads You see and/or engage with; the search terms You use; order information and other usage activity and data logged by Truecaller’s servers from time to time. Truecaller may collect some of this information automatically through use of cookies and You can learn more about our use of cookies in our [Cookie Policy](https://www.truecaller.com/cookie-policy).
 
-(d) provide limited API for queries against the Truecaller database for a selected number of Truecaller partners, 
+Some information, including, but not limited to, usage information and other information that may arise from Your interaction with the Services, cannot be used to identify You, whether in combination with other information or otherwise and will not constitute personal information for the purposes of this Policy.
 
-(e) enable the Truecaller Name Search, as described below, to Users who have activated that functionality, and 
+#### 1.3 Third Party Services
 
-(f) contact You from Truecaller for verification purposes or with information pertaining to the Services, e g newsletter e-mails and similar notifications. 
+You may provide us with Your user identifier information regarding, or to enable Your usage of, certain third party services (together with a mapped photo where applicable) e.g. social networking services and payment services, in order for the Services to interoperate with such third party services. You may use such third party services to create Your user profile or log in to our Services, share information with such third party services, or to connect Your user profile with the respective third party services. Such third party services may automatically provide us with access to certain personal information retained by them about You (e.g., your payment handle, unique identification information and information about the advertisements You have been shown or may have clicked on). You may be able to control the personal information You allow us to have access to through the privacy settings on the respective third party service. We will never store any passwords created for any third party services.
 
-_Enhanced Search functionality and database_   
-To improve the Services, Truecaller has created a searchable database where the Users generate the content and via the Enhanced Search functionality are offered access to this database, containing Contact Information from those Users who permit such aggregation. In return these Users are allowed to access to the database by querying it. Queries against the database are only allowed through the Truecaller Services by Users who have explicitly approved of the Service's functionality and integrity restrictions as contained in the [_Truecaller Terms of Service_](https://web.archive.org/terms-of-service), the [_API License Addendum_](https://web.archive.org/api-license-addendum) and this Privacy Policy. __
+#### 1.4 Other Information You May Provide
 
-The queries against the Truecaller Enhanced Search database are processed only if a numeric phone number is attributed to the query and only if no results are published by an associated or partnering database of Truecaller. The response given to the queried number will be the associated name to that number, if any name is available. 
+You may provide us with various information in connection with Your interaction with our Services. For example, You may through tagging functionality associate a phone number, that is not registered in the Truecaller database or belongs to a User, with a business or name and You may report a phone number as spam or some other attribute to be included in spam blocking directories. Truecaller may also from time to time offer You the opportunity to provide information on Your experience from using the Services or to participate in contests, surveys or other promotions. Truecaller will collect the information You provide in connection therewith, as well as any other information You provide through the Services or when You communicate or interact with us.
 
-_It is important to notice the following distinctions. As an integrity and security measure, only numeric queries are allowed against the Truecaller database for Enhanced Search, i e there will be no result to a name query. Name searches may, however, give result via the Services if a partnering or associated database to Truecaller has numbers available to the name queries. The Users contributing to Enhanced Search can therefore rely on that the Contact Information provided, as a personal integrity precaution, will not enable anyone searching for the number to a certain person direct access to that number. In some cases, Users may, however, use the Services to forward a request to a named person in order to get in touch, please see below about the Truecaller Name Search service._
+### 2\. HOW WE USE YOUR PERSONAL INFORMATION
 
-The database may also – via a “social graph” algorithm - be used to show the User how many other Users that he or she has in common with another User and to suggest other contacts they may have in common. Please note that, if You are presented as a person that the User who made the query may know or as a “similar” person, some of Your profile information entered by you, excluding phone number, will be disclosed to such User. __
+#### 2.1 Provide, improve and personalize our Services
 
-_Name Search_
+Truecaller may use the personal information collected to provide, maintain, improve, analyze and personalize the Services to its Users, partners and third party providers. More specifically, Truecaller may use such information to:
 
-Your name and telephone number and any other information You choose to submit on Your User Profile will be visible to the person You reach out to when requesting a contact via the Truecaller Name Search service. Your request will be forwarded to that person via an SMS and he or she may choose to share the phone number with You (of which You in such case will be informed of via a push notification), or not, at his or her own discretion, but may also block further request from You or to opt-out of the service altogether at any time. Nobody will under any circumstances receive more than three contact requests via the Truecaller Name Search service during any 24 hours and has anybody received nine request during the last 72 hours, that person will not receive additional requests for the next 72 hours. Excessive requests not delivered will be put on hold in chronological order, unless the recipient actively allows further requests to be forwarded. 
+  1. provide smart caller ID, dialer and messaging functionality that, among other features, allow for population of unidentified numbers and other data in call or message logs, display the name associated with a certain number for incoming or outgoing calls and messages or following a manual number search against the Truecaller database;
+  2. display the number associated with a certain name following a manual name search against the Truecaller database, subject to that name searches will only produce a number linked to the name if the number is available for search in a public database or relates to a User who has made his or her name available for search, provide Your information to the person You reach out to when requesting a contact via the Truecaller name search service, in which case Your request will be forwarded to that person via an SMS and he/she may choose whether or not to share the phone number with You at his/her own discretion;
+  3. display information based on connections a User may have in common, directly or indirectly, with other Users via a “social graph” algorithm, display the “who viewed my profile” and “availability” functionalities of the Services;
+  4. send in application push notifications and reminders and deliver messages via the Services, in which case Your messages will be kept for a limited period of time in order to deliver the messages but Truecaller will not, unless specifically stated, monitor the content of Your messages;
+  5. maintain User spam lists and build a community based spam blocking directory;
+  6. enable You to use and share Your information in connection with Your registration, login or other use of third party services e.g. payment service providers, online services, social networking sites and other third party API’s;
+  7. provide customer support, respond to Your queries, investigate and resolve issues related to the Services;
+  8. otherwise improve our Services, business and operations.
 
-Via the Truecaller Name Search service You may be recommended, via a push notification, when there are new contacts that you may know and be interested in getting in touch with. 
 
-_Opt-Out and Delist Numbers_
 
-If a User chooses to disable the Enhanced Search functionality, the Contact Information made available by that User is disabled and will thereafter not be accessible for queries. If any persons do not wish to have their names and phone numbers made available through the Enhanced Search or Name Search functionalities, they can exclude themselves from further queries by notifying Truecaller via its website at [www.truecaller.com](http://www.truecaller.com/) or as set forth in the contact details below. 
+#### 2.2 Statistical data from the Services
 
-_Miscellaneous_
+We use aggregated or anonymized personal information for statistical and analytical purposes. We do not consider personal information to include information that has been made anonymous or aggregated so that it can no longer be used to identify a specific person, whether in combination with other information or otherwise. We may collect, use, transfer, and disclose non-personal information for any purpose.
 
-In addition to the above Truecaller may disclose information related to the Users and Contact Information if we believe such action is necessary to: 
+#### 2.3 Personalize our advertising and communications
 
-(a) comply with the law, or legal process served on us; 
+Subject to the choices You make upon registration and in Your settings at any time, we may use the information collected, as set out above, to provide You with location and interest based advertising, marketing messaging, information and services. We may also use the collected information to measure the performance of our advertising and marketing services. Furthermore, we may contact You for verification purposes or with information pertaining to the Services or special offers, e.g. newsletter e-mails, SMS and similar notifications about Truecaller’s and our business partners’ products and services. We also use the collected information to respond to you when you contact us.
 
-(b) protect and defend our rights or property (including the enforcement of our agreements); or 
+#### 2.4 Compliance with laws and prevention of fraudulent or illegal activities
 
-(c) act in urgent circumstances to protect the personal safety of Users or members of the public. 
+We may use the collected information to comply with applicable laws and to enforce our agreements and protect and defend the rights or safety of Truecaller, its Users or any other person and verify provided User profile information with third party providers and ensure technical service functionality and data accuracy, perform trouble-shooting and prevent or detect fraud, security breaches or illegal activities.
 
-In order to provide you with the Services you have requested, Truecaller may sometimes, if necessary, share Your above mentioned information and traffic data with trusted partner service providers and/or agents, i.e. banking organizations or other providers of payment and analytical services or SMS services. Truecaller will always require these third parties to take appropriate organizational and technical measures to protect your personal data and traffic data and to observe the relevant legislation. 
+### 3\. DISCLOSURE OF PERSONAL INFORMATION
 
-The following is a description of how Truecaller may share information about you with trusted third party partners. Should Truecaller add additional partners, this description will be updated: 
+In addition to the sharing and disclosure of personal information that is included as part of the functionality of the Services as described in section 2, Truecaller may disclose personal information if we believe such action is necessary to:
 
-1\. Truecaller uses a third party partner company in order to send You or a third party you wish to contact SMS when you use the Services. In order to send you the SMS, we send the third party company Your and the relevant third party’s phone numbers. This third party SMS partner is contractually obligated only to use these phone numbers for the transmission of requested SMS. 
+  1. comply with the law, or legal process served on us;
+  2. protect and defend our rights and the enforcement of our agreements; or
+  3. protect the security and safety of Users or members of the public or other aspects of public importance, provided, of course, that such disclosure is lawful.
 
-2\. Truecaller may use Push Notification Services to notify you about up-dates and important information. In such cases, Your phone number may be part of the notification. This message is sent to the push notification service provider, for delivery to Your device. You may, however, at any time-opt out or disable push notifications in the Truecaller App. 
 
-3\. Truecaller may also send a queried telephone number to Twitter in order to verify it against the Twitter API or retrieve the holders’ Twitter ID or Twitter photo, if available. If the Twitter ID is available, Truecaller will display a Tweet and follow button in the Users’ Truecaller App, which the User may use to send an open tweet to, and start to follow, the holder of the number. The Truecaller App is not, however, designed to be a Twitter communication application and You will not be able to retrieve the replied or further tweets to the Truecaller App. When using the Twitter functionalities You are bound by the Twitter Terms of Service, located at [https://twitter.com/tos](http://twitter.com/tos), and the Twitter privacy policy, located at <https://twitter.com/privacy>. 
 
-The submission of Contact Information by You and the processing thereof by Truecaller is constitutionally protected under the applicable law, see below. Truecaller may, however, disclose information contained in the Service and about you if we determine that for national security, law enforcement, or other issues of public importance that disclosure of information is necessary, always provided, of course, it is also lawful. 
+We transfer information to trusted vendors, service providers, and other partners who support our business and Services, such as providing technical infrastructure services, bug testing, analyzing how our Services are used, measuring the effectiveness of ads and services and facilitating payments as well as potential partners who may wish to work with us to provide other services that interact or are integrated with our Services. Truecaller will always require these third parties to take appropriate organizational and technical measures to protect personal information and to observe applicable legislation. Subject to the choices You make upon registration and in Your settings, Truecaller may share personal information with third party advertisers, agencies and networks (such as Google). Such third parties may use this information for analytical and marketing purposes e.g. to provide measurement services and targeted ads and for improvement of products and services. The information may be collected by such third parties by use of cookies, or similar technologies, and You can learn more about the use of cookies in our [Cookie Policy](https://www.truecaller.com/cookie-policy).
 
-Truecaller may from time to time ask you to provide information on your experiences from using the Truecaller Services, which will be used to measure and improve quality. You are at no time under any obligation to provide any of such data. Any and all information which is voluntarily submitted in feedback forms or any surveys that You accept to take part in is used for the purposes of reviewing this feedback and improving the Truecaller software, products and websites. 
+We may disclose and transfer Your Information to our associated or affiliated organisations or related entities and to any third party who acquires, our business, whether such acquisition is by way of merger, consolidation or purchase of all or a substantial portion of our assets.
 
-**Cookies and Automatically Collected Information**
+### 4\. LEGAL BASES AND DATA RETENTION
 
-The Truecaller Website uses so called “Cookies” in connection with the Services. Cookies are pieces of information stored on Your computer's hard drive and/or other device’s browser that enables Truecaller to keep Your login session for thirty days. The use of Cookies is standard practice. Cookies do not enable any access to and/or inspection of other information on Your computer or other device. If You do not wish to receive cookies, or wish to be notified of when they are placed, You may set your web browser to do so, if your browser so permits. Please understand that if Cookies are turned off, You may not be able to obtain full functionality in certain parts of the Services. 
+Truecaller will collect and process Your personal information in order to perform the contract with You (e.g. to deliver the Services), based on Your consent (i.e. the choices You make upon registration and in Your settings) or based on a legitimate interest of Truecaller (which is not overridden by your interests or fundamental rights and freedoms). Such legitimate interests of Truecaller include to protect and maintain the security of the Services, to create and maintain spam blocking directories, to understand and improve our Services and user relationships and to administer our business and customer support. Where we process data based on Your consent, _You may withdraw your consent at any time via Your settings_.
 
-The Truecaller website and App use _Google Analytics_ , a web analytics solution by Google. Google Analytics also adds cookies to Your computer when You visit our website or interact with certain parts of the Truecaller App and collects usage information to create statistics for Truecaller. See [Google's privacy policy](http://www.google.com/privacy.html) for details. 
+Truecaller will retain Your personal information while You maintain a user profile in the Services. You may at any time choose to delete Your user profile and Your personal information via Your settings. If You make such choices, Your personal information will no longer be visible to others in the Services. We will retain Your personal information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law. We may also retain Your personal information in order to accommodate Your choices regarding marketing.
 
-The Truecaller website also embeds badges from the social networking sites [Facebook](http://www.facebook.com/), [Google­+](https://plus.google.com/) and [Twitter](http://twitter.com/). The badges may add cookies to Your computer or mobile device when You use the Services and have enabled Facebook connection. See [Facebook’s privacy policy](http://www.facebook.com/policy.php), [Google’s privacy policy](http://www.google.com/privacy.html) and [Twitter’s privacy policy](http://www.google.com/privacy.html) for details.
+Please note that provision of information from the Truecaller database is constitutionally protected under applicable laws on Freedom of Expression, see the [Terms of Service](https://www.truecaller.com/terms-of-service#eu). You acknowledge and agree that any phone number and name that you report as spam to Truecaller and any phone number and name that You report as being a business is submitted for publication in the Truecaller database, for which a Publishing Certificate (Sw: utgivningsbevis) has been issued. Such Publishing Certificate provides for constitutional protection under the Swedish Fundamental Law on Freedom of Expression.
 
-Truecaller servers may automatically collect data about Your Internet address when You use the Truecaller Services. This information, known as an Internet Protocol address, or “IP Address”, is a number that is automatically assigned to Your computer or other device by Your Internet service provider whenever You are on the Internet. When You request pages from the Services, our servers may log Your IP Address and, if applicable, Your domain name. Your IP Address is used to help identify You and to gather demographic information about our Users as a whole. Truecaller’s servers may also record the referring page that linked you to Truecaller (e.g. another web site or a search engine); the pages You visit on the Services; the web site you visit after Truecaller’s web site; the ads you see and/or click on; other information about the type of Web browser, computer, platform, related software and settings you are using; any search terms You have entered on this web site or a referral site; and other Web usage activity and data logged by Truecaller’s servers. Truecaller uses this information for internal system administration, to help diagnose problems with servers, and to administer our Services. Such information may also be used to gather demographic information, such as country of origin and Internet Service Provider. 
+### 5\. INFORMATION SECURITY AND TRANSFER OF PERSONAL INFORMATION TO OTHER COUNTRIES
 
-Corresponding data may be collected and used for the same purposes when You enable and use the “search the web” functionality within the Truecaller App. 
+The Truecaller Services require by their very nature that Your personal information will be transferred to other Users across the globe. Truecaller may also use cloud based services and subcontract storage or processing of Your information to third parties located in countries other than Your home country in order to provide the Services, including e.g. the USA. Information collected within the Europe may, for example, be transferred to and processed in a country outside of Europe, which may not provide the same level of protection for personal data as within Europe. We use [Model Contractual Clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32010D0087&from=EN) adopted by the EU Commission as a legal mechanism for the international transfer of data to a third party located in a country outside Europe. We take all reasonable precautions to protect personal information from misuse, loss and unauthorized access. Truecaller has implemented physical, electronic, and procedural safeguards in order to protect the information, including that the information will be stored on secured servers and protected by secured networks to which access is limited to a few authorized employees and personnel. However, no method of transmission over the Internet or method of electronic storage is 100% secure.
 
-**Information Security**
+### 6\. ACCESSING AND CONTROLLING YOUR PERSONAL INFORMATION
 
-We take all reasonable precaution to protect Your information, Contact Information and other Content from misuse, loss and unauthorized access. Although we cannot guarantee this information will not be subject to unauthorized access, Truecaller has physical, electronic, and procedural safeguards in place to protect it. The Information is stored on Truecaller’s servers and protected by secured networks to which access is limited to a few authorized employees and personnel. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. 
+Truecaller provides many choices for You to control and manage Your personal information via the settings in the Truecaller Privacy Center. Subject to applicable law, you may also have the following rights in relation to Your personal information:
 
-**Accuracy of Collected Information**
+**Right of access:** You may request a confirmation as to whether or not personal information is being processed by Truecaller and to obtain a copy of that information. We may decline to process requests that are vexatious or frivolous or extremely impractical, jeopardize the privacy of others, or for which access is not otherwise required by applicable law.
 
-Truecaller may on its own initiative, or at your request, replenish, rectify or erase any incomplete, inaccurate or outdated information retained by Truecaller in connection with the operation of the Services. You have always the right to know what information is stored about You and have any data corrected or deleted on Your request, which should be submitted in accordance with our contact details below. 
+**Right to rectification:** You may request rectification if Your personal information is inaccurate.
 
-The accuracy and security of information concerning the Users and their contacts are Truecaller’s highest priority and are they free to opt-in or opt-out of the Services at any time. You can delist Your telephone number from the Truecaller database via a request directly on the Truecaller website and if You choose to disable the Enhanced Search functionality or the Truecaller App itself, all Contact Information will be made unavailable for search in the Truecaller database. 
+**Right to erasure:** You may request that your personal information is erased in certain situations e.g. if it is no longer necessary to provide the Services to You.
 
-**Minors**
+**Right to object:** You may object to the processing of Your personal information in certain situations e.g. for use of Your data for ad targeting.
 
-Truecaller Services are not intended for or designed to attract anyone under the age of 18 and Truecaller does not intentionally or knowingly collect personal information in the Services from anyone under that age. We encourage parents to be involved in the online activities of their children to ensure that no information is collected from a child without parental permission. 
+**Right to restriction:** You may request restrictions of the processing of Your personal information in certain situations e.g. if Your personal information is inaccurate or unlawfully processed.
 
-**Changes to this Privacy Policy**
+**Right to data portability:** You may request to receive personal information provided by You in machine readable format.
 
-Truecaller may at any time with or without a separate notice change this Privacy Policy, and You are encouraged to review this Policy from time to time. In case of substantial changes, Truecaller notifies the Users by push notice or via notice on the Truecaller website. 
+You can exercise Your rights above via the Truecaller Privacy Center where You e.g. can access, edit, delete and download Your personal information and limit or opt-out of the collection and use of Your information for ad targeting and the provision of special offers or promotions by third parties. You may also contact Truecaller for assistance using the contact information below, and we will consider your request in accordance with applicable law.
 
-**Contact**
+### 7\. CHILDREN’S PRIVACY
 
-If You have any additional questions about Truecaller’s Terms of Service or Privacy Policy or want to make a request regarding certain information, You are encouraged to contact Truecaller. The contact information is: 
+We do not intentionally or knowingly collect or solict information from children under the relevant age of consent under the laws of their respective jurisdictions or knowingly allow such persons to register for the Services. The Services are not directed at children under the relevant age of consent under the laws of their respective jurisdictions. If you believe that we might have information from or about a child under the relevant age of consent, please contact us at [support.eu@truecaller.com](mailto:support.eu@truecaller.com).
 
-True Software Scandinavia AB, Reg. No. 556784-0912, Jakobsbergsgatan 6, 111 44 Stockholm, Sweden. 
+### 8\. CHANGES TO THIS PRIVACY POLICY
 
-You can also send your enquiries via email to [info@truecaller.com](mailto:info@truecaller.com). 
+Truecaller may at any time change this Privacy Policy. Truecaller will notify the Users of such changes by push notice or via notice in the Services or by other means. If You object to any changes, You may uninstall the Truecaller applications and cease using the Services. Your continued use of the Services after Truecaller have communicated changes to this Privacy Policy, will mean that the collection, use, sharing and processing of Your personal information is subject to the new Privacy Policy. We may from time to time set out more detailed information on how we process your personal information in relation to particular Services in supplemental Privacy Notices which shall be incorporated into and form part of this Privacy Policy.
 
-For Users that may have grievances pertaining to the Services, Truecaller has appointed a Grievance Officer to deal with Your issues. You may reach him/her on [grievance@truecaller.com](mailto:grievance@truecaller.com)
+### 9\. COOKIES
+
+As described in our [Cookie Policy](https://www.truecaller.com/cookie-policy), we use cookies, web beacons, flash cookies, HTML 5 cookies, pixel tags and other web application software methods, including mobile application identifiers, to help us recognize you across the Services, learn about your interests both on and off the Services, improve your experience, increase security, measure use and effectiveness of the Services, and serve advertising. You can control Cookies through your browser settings and other tools. By interacting with the Services, you consent to the use and placement of Cookies on your device in accordance with this Privacy Policy, which by reference incorporates our [Cookie Policy](https://www.truecaller.com/cookie-policy).
+
+### 10\. CONTACT US
+
+For questions or complaints related to this Privacy Policy or the processing of Your personal information, we encourage You to contact our Data Protection Officer via dpo.eu@truecaller.com. You can also reach us by physical mail at the following address: Data Protection Officer, True Software Scandinavia AB, Reg. No. 556784-0912, Kungsgatan 15, 111 43 Stockholm, Sweden. If Truecaller cannot resolve Your concern or if it is inconvenient to contact us, residents in Switzerland may raise the matter with the Swiss Federal Data Protection and Information Commissioner and residents in other countries in Europe with the Swedish Data Protection Authority.
+
+If you are resident in the EU, EEA and Switzerland please click here
+
+## TRUECALLER PRIVACY POLICY
+
+Effective date: 25 May 2018
+
+Truecaller is firmly committed to the security and protection of personal information of our Users and their contacts. This Privacy Policy describes how Truecaller will collect, use, share and process personal information. Capitalized terms not defined in this Privacy Policy are defined in the Truecaller [Terms of Service](https://www.truecaller.com/terms-of-service#row).
+
+If you reside outside the European Union, European Economic Area and Switzerland (“Europe”), You are entering into the [Terms of Service](https://www.truecaller.com/terms-of-service#row) with True Software Services India LLP and the terms of this Privacy Policy apply to You. If you reside in Europe the applicable terms are available [here](https://privacy.truecaller.com/privacy-policy-eu).
+
+By accepting the Truecaller Privacy Policy and/or using the Services You consent to the collection, use, sharing and processing of personal information as described herein. If You provide us with personal information about someone else, You confirm that they are aware that You have provided their information and that they consent to our use of their information according to our Privacy Policy. You may opt-out at any time to prevent further use of the information shared via the Services.
+
+### 1\. PERSONAL INFORMATION COLLECTED
+
+#### 1.1 User Profile
+
+When You create a user profile in the Services and confirm being the holder of a certain number, Truecaller will collect the information provided by You. In order to create a user profile, You must register Your first name, last name and phone number. Additional information that may be provided at Your option include, but is not limited to, photo, gender, street address and zip code, country of residence, email address, professional website, Facebook page, Twitter address and a short status message. Truecaller may supplement the information provided by You with information from third parties and add it to the information provided by You e.g. demographic information and additional contact information that is publicly available.
+
+#### 1.2 Installation and Use
+
+When You install and use the Services, Truecaller will collect personal information from You and any devices You may use in Your interaction with our Services. This information may include e.g.: geo-location; Your IP address; device ID or unique identifier; device manufacturer and type; device and hardware settings; SIM card usage; applications installed on your device; ID for advertising; ad data, operating system; web browser; operator; IMSI; connection information; screen resolution; usage statistics; default communication applications; access to device address book; device log and event information; logs, keywords and meta data of incoming and outgoing calls and messages; version of the Services You use and other information based on Your interaction with our Services such as how the Services are being accessed (via another service, web site or a search engine); the pages You visit and features you use on the Services; the services and websites You engage with from the Services; content viewed by You, content You have commented on or sent to us and information about the ads You see and/or engage with; the search terms You use; order information and other usage activity and data logged by Truecaller’s servers from time to time. Truecaller may collect some of this information automatically through use of cookies and You can learn more about our use of cookies in our [Cookie Policy](https://www.truecaller.com/cookie-policy).
+
+Some information, including, but not limited to, usage information and other information that may arise from Your interaction with the Services, cannot be used to identify You, whether in combination with other information or otherwise and will not constitute personal information for the purposes of this Policy.
+
+#### 1.3 Third Party Services
+
+You may provide us with Your user identifier information regarding, or to enable Your usage of, certain third party services (together with a mapped photo where applicable) e.g. social networking services and payment services, in order for the Services to interoperate with such third party services. You may use such third party services to create Your user profile or log in to our Services, share information with such third party services, or to connect Your user profile with the respective third party services. Such third party services may automatically provide us with access to certain personal information retained by them about You (e.g., your payment handle, unique identification information, content viewed by You, content liked by You and information about the advertisements You have been shown or may have clicked on) and You agree that we may collect, use and retain the information provided by these third party services in accordance with this Privacy Policy. You may be able to control the personal information You allow us to have access to through the privacy settings on the respective third party service. We will never store any passwords created for any third party services.
+
+#### 1.4 Contact Information
+
+Where the Truecaller mobile applications (“ **Truecaller Apps** ”) are obtained from other sources than Apple App Store or Google Play, You may share the names, numbers, Google ID’s and email addresses contained in Your address book (“ **Contact Information** ”) with Truecaller by enabling the Truecaller Enhanced Search Functionality. Where the Truecaller Apps are obtained from Apple App Store or Google Play, we do not share any user Contact Information. In addition to Contact Information, if You choose to activate use of a third party service, such as social networks services, within the Services, Truecaller may collect, store and use the list of identifiers associated with said services linked to the Contact Information in order to enhance the results shared with other Users.
+
+Please note that no other contact information other than the phone numbers and thereto attached names, Google ID’s and email addresses will be collected and used from Your address book. Other numbers or information that may be contained in Your address book will be filtered away by our safety algorithms and will therefore not be collected by Truecaller. Please also note that You can always choose not to share Contact Information with Truecaller and if You have shared such information and changed Your mind, You can delist Your number or opt-out to render Your entire Contact Information unavailable for search in the Truecaller database.
+
+#### 1.5 Other Information You may provide
+
+You may provide us with various information in connection with Your interaction with our Services. For example, You may through tagging functionality associate a phone number, that is not registered in the Truecaller database or belongs to a User, with a business or name and You may report a phone number as spam or some other attribute to be included in spam blocking directories. Truecaller may also from time to time offer You the opportunity to provide information on Your experience from using the Services or to participate in contests, surveys or other promotions. Truecaller will collect the information You provide in connection therewith, as well as any other information You provide through the Services or when You communicate or interact with us.
+
+### 2\. USE OF PERSONAL INFORMATION
+
+#### 2.1 Provide, improve and personalize our Services
+
+Truecaller may use the personal information collected to provide, maintain, improve, analyze and personalize the Services to its Users, partners and third party providers. More specifically, Truecaller may use such information to:
+
+  1. provide smart caller ID, dialer and messaging functionality that, among other features, allow for population of unidentified numbers and other data in call or message logs, display the name associated with a certain number for incoming or outgoing calls and messages or following a manual number search against the Truecaller database;
+  2. display the number associated with a certain name following a manual name search against the Truecaller database, subject to that name searches will only produce a number linked to the name if the number is available for search in a public database or relates to a User who has made his or her name available for search, provide Your information to the person You reach out to when requesting a contact via the Truecaller name search service, in which case Your request will be forwarded to that person via an SMS and he/she may choose whether or not to share the phone number with You at his/her own discretion;
+  3. display information based on connections a User may have in common, directly or indirectly, with other Users via a “social graph” algorithm, display the “who viewed my profile” and “availability” functionalities of the Services;
+  4. send in application push notifications and reminders and deliver messages via the Services, in which case Your messages will be kept for a limited period of time in order to deliver the messages but Truecaller will not, unless specifically stated, monitor the content of Your messages;
+  5. maintain User spam lists and build a community based spam blocking directory;
+  6. enable You to use and share Your information in connection with Your registration, login or other use of third party services e.g. payment service providers, online services, social networking sites and other third party API’s; and
+  7. otherwise improve our Services, business and operations.
+
+
+
+#### 2.2 Statistical data from the Services
+
+We use aggregated or anonymized personal information for statistical and analytical purposes. We may come to share such data with third parties.
+
+We do not consider personal information to include information that has been made anonymous or aggregated so that it can no longer be used to identify a specific person, whether in combination with other information or otherwise.
+
+#### 2.3 Personalize our advertising and communications
+
+We may use any of the information collected, as set out above, to provide You with location and interest based advertising, marketing messaging, information and services. We may also use the collected information to measure the performance of our advertising and marketing services.
+
+We may contact You for verification purposes or with information pertaining to the Services or special offers, e.g. newsletter e-mails, SMS and similar notifications about Truecaller’s and our business partners’ products and services. We also use the collected information to respond to you when you contact us.
+
+#### 2.4 Compliance with laws and prevention of fraudulent or illegal activities
+
+We may use the collected information to comply with applicable laws and to enforce our agreements and protect and defend the rights or safety of Truecaller, its Users or any other person and verify provided User profile information with third party providers and ensure technical service functionality and data accuracy, perform trouble-shooting and prevent or detect fraud, security breaches or illegal activities.
+
+### 3\. SHARING AND DISCLOSURE OF PERSONAL INFORMATION
+
+In addition to the sharing and disclosure of personal information that is included as part of the functionality of the Services as described in section 2 above, Truecaller may disclose personal information if we believe such action is necessary to:
+
+  1. comply with the law, or legal process served on us;
+  2. protect and defend our rights and the enforcement of our agreements; or
+  3. protect the security and safety of Users or members of the public or other aspects of public importance, provided, of course, that such disclosure is lawful.
+
+
+
+We transfer information to trusted vendors, service providers, and other partners who support our business and Services, such as providing technical infrastructure services, bug testing, analyzing how our Services are used, measuring the effectiveness of ads and services and facilitating payments as well as potential partners who may wish to work with us to provide other services. Truecaller will always require these third parties to take appropriate organizational and technical measures to protect personal information and to observe applicable legislation. Truecaller may also share personal information with third party advertisers, agencies and networks. Such third parties may use this information for analytical and marketing purposes e.g. to provide measurement services and targeted ads and for improvement of products and services. The information may be collected by such third parties by use of cookies, or similar technologies, and You can learn more about the use of cookies in our [Cookie Policy](https://www.truecaller.com/cookie-policy).
+
+We may disclose and transfer Your Information to our associated or affiliated organisations or related entities and to any third party who acquires, our business, whether such acquisition is by way of merger, consolidation or purchase of all or a substantial portion of our assets.
+
+### 4\. DELISTING OF CONTACT INFORMATION AND OPT-OUT OF AD TARGETING
+
+If a User chooses to disable the Enhanced Search Functionality, the Contact Information made available by that User is disabled and will thereafter not be available for search in the Truecaller database. If any persons do not wish to have their names and phone numbers made available through the Enhanced Search or Name Search functionalities, they can exclude themselves from further queries by notifying Truecaller via its website at www.truecaller.com or as set forth in the contact details below. You acknowledge and agree that Truecaller may keep and process personal information related to such request in order to be able to honor the request.
+
+You can limit or opt-out of the collection and use of Your information for ad targeting by third parties via Your device settings.
+
+### 5\. INFORMATION SECURITY AND TRANSFER OF PERSONAL INFORMATION TO OTHER COUNTRIES
+
+In order to provide the Services, Truecaller will transfer, process and store personal information in a number of countries, including but not limited to India, and may also use cloud based services for this purpose. Truecaller may also subcontract storage or processing of Your information to third parties located in countries other than Your home country. Information collected within one country may, for example, be transferred to and processed in another country, which may not provide the same level of protection for personal data as the country in which it was collected. You acknowledge and agree that Truecaller may transfer Your personal information as described above for purposes consistent with this Privacy Policy. We take all reasonable precautions to protect personal information from misuse, loss and unauthorized access. Truecaller has implemented physical, electronic, and procedural safeguards in order to protect the information, including that the information will be stored on secured servers and protected by secured networks to which access is limited to a few authorized employees and personnel. However, no method of transmission over the Internet or method of electronic storage is 100% secure.
+
+### 6\. ACCESSING AND UPDATING PERSONAL INFORMATION
+
+Truecaller may on its own initiative, or at Your request, replenish, rectify or erase any incomplete, inaccurate or outdated personal information retained by Truecaller in connection with the operation of the Services. When required by applicable law, You have the right to know what personal information is stored about You and to have any such information corrected or deleted on Your request. See contact details below.
+
+### 7\. MINORS
+
+Services are not intended for or designed to attract anyone under the relevant age of consent to enter into binding legal contracts under the laws of their respective jurisdictions. Truecaller does not intentionally or knowingly collect personal information through the Services from anyone under that age. We encourage parents and guardians _to be involved in the online activities of their children to ensure that no personal information is collected from a child without_ their consent.
+
+### 8\. CHANGES TO THIS PRIVACY POLICY
+
+Truecaller may at any time with or without a separate notice change this Privacy Policy, and You are encouraged to review this Policy from time to time. In case of substantial changes, Truecaller will notify the Users by push notice or via notice in the Services. Your continued use of the Services after a notice of changes has been communicated to You or published on our Services shall constitute consent to the changed policy.
+
+### 9\. COOKIES
+
+As described in our [Cookie Policy](https://www.truecaller.com/cookie-policy), we use cookies, web beacons, flash cookies, HTML 5 cookies, pixel tags and other web application software methods, including mobile application identifiers, to help us recognize you across the Services, learn about your interests both on and off the Services, improve your experience, increase security, measure use and effectiveness of the Services, and serve advertising. You can control Cookies through your browser settings and other tools. By interacting with the Services, you consent to the use and placement of Cookies on your device in accordance with this Privacy Policy, which by reference incorporates our [Cookie Policy](https://www.truecaller.com/cookie-policy).
+
+### 10\. CONTACT
+
+If You have any additional questions about Truecaller’s Privacy Policy or want to make a request regarding certain personal information, You are encouraged to contact Truecaller. The contact information is:
+
+True Software Services India LLP, 1st Floor, Office Nos. - 01A105, 01A106, 01A107, 01A108, 01A109, Platina Tower, M.G Road, Near Sikandarpur Metro station, Sector 28, Gurugram, Haryana 122001.
+
+You can also send Your enquiries (including in relation to any grievances to our Grievances Officer) via email to [support@truecaller.com](mailto:support@truecaller.com).
