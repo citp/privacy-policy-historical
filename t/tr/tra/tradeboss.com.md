@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the tradeboss.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125024013id_/http%3A//www.tradeboss.com/default.cgi/action/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradeboss.com privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526135945id_/http%3A//www.tradeboss.com/default.cgi/action/privacypolicy) for the most accurate reproduction.*
 
 # B2B Marketplace TradeBoss.com - Import Export, Business to Business Portal, FREE Business Website, Suppliers B2B Directory
 
 **TradeBoss.com - Privacy Policy**
+
+Last Update: 2018-05-24
 
 **REGISTRATION**  
 If you register on TradeBoss.com and TradeHolding.com B2B Network as a member, we collect and store all the information you enter. Our Membership Statistics, Industrial and Geographical classification statistics are derived from these information. This information may be used to target our registered members for new services and promotions. Your e-mail address may be used by TradeBoss.com, TradeHolding.com B2B Network and certain members to contact you regarding new services and products in which you may be interested.  
@@ -26,6 +28,34 @@ If you submit any information to TradeBoss.com and TradeHolding.com B2B Network 
 TradeBoss.com and TradeHolding.com B2B Network uses cookies only to maintain your information as you move throughout this site and facilitate your member activities. A cookie is a small piece of information used to identify an individual when the person is accessing a site. Cookies are used only for the intended purpose and scope of TradeBoss.com and TradeHolding.com B2B Network.  
 Cookies and the tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to this site, and understanding how visitors use this site. Cookies can also help customize this site for visitors. If you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties. This site or the advertisers on this site may use cookies and/or web beacons to collect data in the ad serving process.
 
+**YOUR PERSONAL DATA WE COLLECT AND USE**  
+We may process your registration data ("registration data"). Registration data may include your email address and eventually your username. The source of this data is you. Registration data is required in order for you to be able to use the service. The legal bases for this processing are consent and the performance of a contract between you and us and/or taking steps, at your request, to enter into such a contract.
+
+We may process your account data ("account data"). Account data may include your full name, email address, country, city, address, phone number, company name, your position in the company, company registration number and fiscal numbers, company details, product details and trade lead details. The source of this data is you. The account data may be processed for the purposes of providing our services, communicating with you and allowing other members to contact you and send business leads for you (leads that you might be interested in or not). Certain account data (your name, your company name, your position in the company, your product details, your trade leads) is disclosed publicly on our website and other websites. Other account data (such as contact information, e-mail address, phone number) is disclosed privately to certain members upon request and type of membership. The legal bases for this processing are  
+\- consent  
+\- our legitimate interests, namely the operation of our business model.
+
+We store your information primarily within our servers located in the USA and the European Economic Area. However, some features and requirements of our service, may involve transferring your information to third-party service providers outside the European Economic Area. When we do similar transfers, the transfers will be covered by the standard data protection clauses adopted by the European Commission or by another appropriate safeguard mechanism such as the Privacy Shield Framework.
+
+**RETAINING AND DELETING PERSONAL DATA**
+
+Personal data that we process for any purposes shall not be kept for longer than is necessary.  
+Users may request the deletion of their account by contacting us.  
+We will retain and delete your personal data as follows:
+
+We will delete all personal data 30 days after the approval of your account deletion request.  
+Your communication data with other members will be deleted 5 years after you delete your account.
+
+Notwithstanding the other provisions, we may retain your personal data where such retention is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person.
+
+**LOG DATA**
+
+When you use the Services, our servers may automatically collect and store information, including information that your browser sends whenever you visit a website. This log data may include, but is not limited to, your Internet Protocol (IP) address, the address of the web page you visited before using the Services, the operating system you are using, the date and time of your accessing the Services, geolocation information, type of device, cookie data, and browser signatures.
+
+Use of the Site and Services signifies consent to our use of cookies, including and without limitation Third Party cookies that we may choose to use for analytics or other purposes. You agree that should you disable cookies on your browser, certain aspects of the Services may be unavailable to you, and that we are not responsible for any adverse effects arising from your browser or other computer or mobile settings.
+
+You agree that you are responsible for adhering to all laws, policies, and other regulations in your relevant jurisdiction(s), including but not limited to all laws requiring that cookie use must be disclosed. We disclaim all liability in this area.
+
 **INFORMATION DISCLOSURE**  
 TradeBoss.com and TradeHolding.com B2B Network does not disclose the collected information (except the Publishing Information) to any third parties, unless acting under the belief that such action is necessary to:  
 (a) conform to legal requirements or comply with legal process  
@@ -37,3 +67,7 @@ We reserve the right to disclose any collected information in response to a judi
 TradeBoss.com and TradeHolding.com B2B Network considers and respects an individual's privacy seriously and importantly. The services we provide require that we collect, process, use, display and distribute certain details you provide us. Therefore, TradeBoss.com and TradeHolding.com B2B Network does not guarantee that your information will be protected from exposure in any particular party or group. If you would like to remove your Company please Contact Us.
 
 We welcome your additional input regarding our Privacy Policy or our services provided to you.
+
+**HOW TO CONTACT US**
+
+The data controller responsible for your personal data for is TradeHolding SRL, a Romania limited liability company; address 37, V. Lucaciu street, Satu Mare, Romania. If you have any questions about this Privacy Policy, your rights and/or our data collection practices, please contact our customer support.
