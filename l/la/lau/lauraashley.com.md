@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lauraashley.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125073627id_/http%3A//www.lauraashley.com/uk/security/page/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lauraashley.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527012343id_/http%3A//www.lauraashley.com/uk/security/page/security) for the most accurate reproduction.*
 
 # Security | Laura Ashley
 
