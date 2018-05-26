@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 3d-car-shows.com privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127113853id_/https%3A//3d-car-shows.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3d-car-shows.com privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526084044id_/http%3A//3d-car-shows.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy 3D Car Shows
 
-This Privacy Policy governs the manner in which 3D Car Shows collects, uses, maintains and discloses information collected from users (each, a "User") of the [https://3d-car-shows.com](https://3d-car-shows.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by 3D Car Shows.
+This Privacy Policy governs the manner in which 3D Car Shows collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://3d-car-shows.com](https://3d-car-shows.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by 3D Car Shows.
 
 ## Personal identification information
 
@@ -14,7 +14,7 @@ We may collect non-personal identification information about Users whenever they
 
 ## Web browser cookies
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
 ## How we use collected information
 
@@ -49,7 +49,7 @@ We may use third party service providers to help us operate our business and the
 
 ## Third party websites
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
 ## Advertising
 
@@ -61,11 +61,11 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 ## Google Adsense
 
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at
 
 <http://www.google.com/policies/technologies/ads/>
 
-## Compliance with children's online privacy protection act
+## Compliance with children’s online privacy protection act
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
@@ -83,11 +83,9 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
   *   * 11 Scafell Road, Floracliffe, Johannesburg, South Africa, 1709.
 
-  * Tel: +27.0105954691
-
   * Tel: +27.722347513
   * Email:[ webmaster@3d-car-shows.com](mailto:webmaster@3d-car-shows.com)
 
 
 
-This document was last updated on August 8, 2015
+This document was last updated on May 23, 2018
