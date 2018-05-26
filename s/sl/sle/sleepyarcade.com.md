@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sleepyarcade.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222164552id_/http%3A//www.sleepyarcade.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleepyarcade.com privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526171713id_/http%3A//www.sleepyarcade.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Sleepy Arcade
+# Privacy Policy - Sleepy Arcade - Play Free Online Games
 
 1)  Server Logs  
 
@@ -34,3 +34,7 @@ We may keep statistics on our internal links (links to other pages on our websit
 8) Security
 
 We take the appropriate security measures to make sure that your personal information is protected against theft, unauthorized access, disclosure, copying, modification, or destruction.
+
+9) IP Addresses
+
+Sleepy Arcade May collect your IP Address to use for security purposes.
