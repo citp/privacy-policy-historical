@@ -1,60 +1,222 @@
-> *The following text is extracted and transformed from the datafeedr.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123040911id_/http%3A//www.datafeedr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datafeedr.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527000126id_/https%3A//www.datafeedr.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy • Datafeedr
+# Privacy Policy – Datafeedr
 
-This Privacy Policy was last modified on January 26, 2016.
+This Privacy Policy was last modified on **_May 24, 2018_**.
 
-Datafeedr ("us", "we", or "our") operates https://www.datafeedr.com (the "Site"). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
+This Privacy Policy explains what information we gather about you, what and how we use that information, the lawful basis on which that information is used and who we give that information to. It also sets out your rights and our obligations in relation to your information and who you can contact for more information or queries. All “Personal Information” – ie. any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains – that we collect and maintain will be subject to this Privacy Policy. 
 
-We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at https://www.datafeedr.com.
+**
 
-**Information Collection And Use**  
-While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your name, email address, postal address and phone number ("Personal Information").
+## Whose information does Datafeedr collect?
 
-**Log Data**  
-Like many site operators, we collect information that your browser sends whenever you visit our Site ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics.
+**
 
-**Cookies**  
-Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer's hard drive.
+Datafeedr is the controller of your Personal Information and collects Personal Information in these main ways:
 
-Like many sites, we use "cookies" to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Site.
+  * when you visit our website.
+  * when you use one of our contact forms.
+  * when you purchase a Datafeedr plan.
+  * when you sign up to our affiliate program.
+  * when you sign up for our newsletter.
 
-**DoubleClick Cookie**  
-Google, as a third party vendor, uses cookies to serve ads on our Site. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Site or other sites on the Internet.
 
-You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the [Google Ads Settings](http://www.google.com/ads/preferences/) page.
 
-**Do Not Track**  
-We support the Do Not Track browser setting. Do Not Track (or DNT) is a preference you can set in your browser to let the websites you visit know that you do not want them collecting certain information about you.
+**
 
-For more details about Do Not Track, including how to enable or disable this preference, visit [this Do Not Track webpage](http://termsfeed.com/do-not-track).
+## What information does Datafeedr collect?
 
-Datafeedr uses Remarketing with Google Analytics to advertise on third party sites to you after you visited our Site. We and our third party vendors, like Google, use first party cookies (such as the Google Analytics cookie) and third party cookies (such as the DoubleClick cookie) to inform, optimize and serve ads based on your past visits to our Site.
+**
 
-You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the [Google Ads Settings](http://www.google.com/settings/ads) page. Google also recommends installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) for your browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
+When you order products or services as a Datafeedr customer, sign up as a Datafeedr affiliate, sign up for our newsletter or submit a helpdesk ticket in order to provide the services to you, we collect the following Personal Information from you:
 
-**Communications**  
-We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe instructions provided in any email we send.
+  * Contact information such as your name, address and email address.
+  * Billing information such as the number, expiration date, card type and billing address of your credit card and/or PayPal email address.
+  * Profile data, including your username and password, details about your purchases and the products or services that you license from us.
+  * Log data such as your computer’s IP address, pages you visit on our website, time spent on those pages, access times/dates, and other statistics.
 
-**Compliance With Laws**  
-Datafeedr will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Site.
 
-**Business Transaction**  
-If Datafeedr is involved in a merger, acquisition or asset sale, your Personal Information may be transferred. We will provide notice before your Personal Information is transferred and becomes subject to a different Privacy Policy.
 
-**Security**  
-The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
+Below you find a more detailed list of the Personal Information we collect from you.
 
-**Links To Other Sites**  
-Our Site may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+  * Customer: a user who purchases a Datafeedr plan.
+  * Affiliate: a user who signs up to our affiliate program.
+  * Subscriber: a user who subscribes to our email newsletter.
+  * Contact: a user who contacts us through one of our contact forms.
+  * Visitor: a user who visits our website.
 
-Datafeedr has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party sites or services.
+  | **Customer** | **Affiliate** | **Subscriber** | **Contact** | **Visitor**  
+---|---|---|---|---|---  
+Name | X | X | X | X |    
+Adress | X | X |   |   |    
+Email Address | X | X | X | X |    
+Username/Password | X | X |   |   |    
+Billing Information | X |   |   |   |    
+Payout Information |   | X |   |   |    
+Log Data | X | X | X | X | X  
+  
+We may employ independent trustworthy contractors to provide specific services and products related to the Datafeedr website and our services, such as hosting, credit card processing, help desk services, and mailing list hosting. Below you find a list of the contractors that we use. 
 
-**Children's Privacy**  
-Our Site does not address anyone under the age of 13 ("Children"). We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and are aware that your Children has provided us with Personal Information, please contact us. If we discover that a Children under 13 has provided us with Personal Information, we will delete such information from our servers immediately.
+**Contractor** | **Services Provided**  
+---|---  
+Recurly | Process financial transactions  
+PayPal | Process financial transactions  
+Stripe | Process financial transactions  
+MailChimp | Email distribution and marketing automation platform  
+Google Inc | Email, business tools, and analytics software  
+HelpScout | Helpdesk platform  
+  
+To the best of our knowledge, these companies do not retain, share, store or use personally identifiable information for any other purpose. We only share the Personal Information which is necessary for them to perform those services. We require any company with which we may share Personal Information to protect that data in a manner consistent with this policy and to limit the use of such Personal Information to the performance of services for Datafeedr. We do not sell or otherwise provide Personal Information to other companies for the marketing of their own products or services. 
 
-**Changes To This Privacy Policy**  
-Datafeedr may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on the Site. You are advised to review this Privacy Policy periodically for any changes.
+**
 
-**Contact Us**  
-If you have any questions about this Privacy Policy, please contact us.
+## What does Datafeedr do with the information it collects from customers?
+
+**
+
+Datafeedr collects Personal Information from you when you sign up for a [Datafeedr account](https://members.datafeedr.com/). We do not sell, rent or share your personally identifiable information to or with third parties in any way other than as disclosed in this policy. We use your information to: 
+
+  * Create a single sign on for access to your Datafeedr account.
+  * Process your financial transactions.
+  * Send you a welcome e-mail after you create an account.
+  * Send you order / renewal/ upgrade/ downgrade/ cancellation confirmations.
+  * Send you invoices.
+  * Administer your account.
+  * Respond to customer service requests, questions and concerns.
+  * Keep you informed about special offers, products and services of Datafeedr and selected third parties.
+  * Perform statistical analysis of user behavior in order to improve our website, products and services.
+  * Investigate, prevent or take action regarding illegal activities and/or violations of our Terms of Service.
+
+
+
+**
+
+## What does Datafeedr do with the information it collects from affiliates?
+
+**
+
+Datafeedr collects Personal Information from you when you sign up for [our affiliate program](https://affiliates.datafeedr.com/signup.php). We do not sell, rent or share your personally identifiable information to or with third parties in any way other than as disclosed in this policy. We use your information to: 
+
+  * Create a single sign on for access to your Datafeedr affiliate account.
+  * Send you a welcome e-mail after you create an account.
+  * Send you affiliate commission confirmations.
+  * Pay out your monthly affiliate commissions.
+  * Administer your account.
+  * Respond to customer service requests, questions and concerns.
+  * Keep you informed about special offers, products and services of Datafeedr.
+  * Perform statistical analysis of affiliate behavior in order to improve our affiliate program.
+  * Investigate, prevent or take action regarding illegal activities and/or violations of our Terms of Service.
+
+
+
+**
+
+## What does Datafeedr do with the information it collects from newsletter subscribers?
+
+**
+
+Datafeedr collects Personal Information from you when you sign up for our newsletter. You can “opt out” at any time by following the unsubscribe instructions available in each newsletter. We do not sell, rent or share your personally identifiable information to or with third parties in any way other than as disclosed in this policy. We use your information to: 
+
+  * Send you an email to confirm the email address you signed up with.
+  * Send you a welcome e-mail after you have confirmed your email address.
+  * Administer your account.
+  * Respond to questions and concerns.
+  * Keep you informed about special offers, products and services of Datafeedr.
+  * Perform statistical analysis of subscriber behavior in order to improve the messages we send to you.
+  * Investigate, prevent or take action regarding illegal activities and/or violations of our Terms of Service.
+
+
+
+**
+
+## Updating Your Personal Information
+
+**
+
+You have various rights in relation to your Personal Information. In particular, you have a right to: 
+
+  * request a copy of the Personal Information we hold about you.
+  * ask that we update the Personal Information we hold about you.
+  * ask that we remove the Personal Information we hold about you.
+  * ask that we restrict our processing of your Personal Information.
+
+
+
+If you’re a Datafeedr customer you can review the Personal Information we hold about you by logging into your [Datafeedr account](https://members.datafeedr.com/). If you’re a Datafeedr affiliate you can review the Personal Information we hold about you by logging into your [Affiliate Account](https://affiliates.datafeedr.com/). Once logged in, you can view and make changes to most of your Personal Information immediately. For security purposes, certain Personal Information can only be changed by [contacting support](https://www.datafeedr.me/contact). We will respond to your request promptly within a reasonable timeframe.
+
+**
+
+## Data Security
+
+**
+
+We use reasonable and appropriate measures to protect your Personal Information from loss, misuse, unauthorised access, disclosure, alteration, and destruction, taking into account the risks involved in the processing and the nature of the Personal Information. The Personal Information that you provide in connection with the use of our website is protected in several ways:
+
+  * Access by you to your account profile is available through a password and unique username selected by you. You should strive to use a strong, alpha-numeric password which you should not divulge to anyone. The passwords we store are hashed and salted.
+  * Your Personal Information resides on secure servers that only selected Datafeedr personnel and contractors have access to.
+  * Your Personal Information is encrypted whenever it is transmitted to Datafeedr and contractors.
+
+
+
+We strive to protect the Personal Information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we take into account the sensitivity of the Personal Information we collect, process and store, and the current state of technology to use these measures to protect your Personal Information, we cannot guarantee its absolute security. 
+
+**
+
+## Data Retention
+
+**
+
+We will keep your Personal Information only for as long as necessary to fulfill the purposes for which we are processing your Personal Information unless the law permits or requires us to retain your Personal Information for a longer period. 
+
+**
+
+## Cookie and Tracking Technologies
+
+**
+
+Datafeedr is using cookies to collect information as you browse, such as your browser type and version, operating system and device type, average time spent on our website, pages viewed, information accessed, the Internet Protocol (IP) address used to connect your computer to the Internet and other relevant statistics. 
+
+Our [Cookie Policy](https://www.datafeedr.com/cookies/) explains what cookies are and how we use them on our website. When you first visit our website, browsing and remaining on our website will imply that you agree to our use of cookies as explained in our Cookie Policy. You can decide to withdraw your consent at any time.
+
+**
+
+## Third Party Plug-ins, Widgets, and Links
+
+**
+
+Our website may contain links to third-party websites that are not operated by us. These links are provided for your reference and convenience only and do not imply any endorsement of the activities of these websites or any association with their operators. We do not control these websites and are not responsible for their data or privacy practices. We encourage you to read the privacy policies or statements of each and every such website and service before using the website or providing any personal data about yourself. 
+
+Our website may also include third-party social media features and other third-party plugins and widgets. When such third-party features, plugins or widgets are displayed on our website, they are subject to the operator’s privacy policies instead of this policy. 
+
+**
+
+## Children
+
+**
+
+We are committed to protecting the privacy of children. Datafeedr is not designed for or directed to children under the age of 16. We do not collect Personal Information from any person we actually know is under the age of 16. If you believe a child of yours under the age of 16 has entered Personal Information please [contact us](https://www.datafeedr.me/contact) to have the data removed and terminate the child’s account. 
+
+**
+
+## Privacy Complaints
+
+**
+
+If you believe that Datafeedr has not complied with this Privacy Policy with respect to your Personal Information, please [contact us](https://www.datafeedr.me/contact) and describe in as much detail as possible the ways in which you believe that the Datafeedr Privacy Policy has not been complied with. We will investigate your complaint promptly. 
+
+**
+
+## Changes in Privacy Policy
+
+**
+
+Datafeedr reserves the right to revise this Privacy Policy from time to time at its sole discretion and will provide notice by email or on the home page of our website when we make material changes to this Privacy Policy prior to the change becoming effective. If as the result of such changes, you want to alter the ways in which Datafeedr is allowed to use your Personal Information, you can do so by following the procedures as described above.
+
+If you have any questions, concerns, or requests about this Privacy Policy, how we manage your Personal Information, or any other issues relating to your Personal Information, please contact us: 
+
+Datafeedr  
+7th Street  
+Owen Sound, Ontario N4K 1J2  
+Canada  
+1 (314) 732-1354  
+[Email us](http://datafeedr.me/contact)
