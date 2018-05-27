@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the restek.com privacy policy that was archived on 2017-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171124095535id_/http%3A//www.restek.com/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the restek.com privacy policy that was archived on 2018-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180527111425id_/http%3A//www.restek.com/Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
 
@@ -195,26 +195,40 @@ h3#search_subhead{font-size: 12px;line-height: 14px;font-weight: normal;width: 3
 
 	<![endif]-->
 	<script>var site_access = "eng" || 'eng';</script>
-	<script type="text/javascript" src="/js/main.js?ts=1507925295"></script>
+	<script type="text/javascript" src="/js/main.js?ts=1522971216"></script>
 
     
     	  
 
 
 
+<!-- dynamic javascript included here -->
 
-		<script language="JavaScript" type="text/javascript" src="/js/jquery.galleryview-2.0.min.js"></script>
+
+		<script language="JavaScript" type="text/javascript" src="/js/jssocials.min.js"></script>
+		<link rel="stylesheet" type="text/css" href="/css/jssocials.css">
+    	<link rel="stylesheet" type="text/css" href="/css/jssocials-theme-flat.css">
+    			<script language="JavaScript" type="text/javascript" src="/js/jquery.galleryview-2.0.min.js"></script>
 		<!--script language="JavaScript" type="text/javascript" src="/js/jquery.timers-1.1.2.js"></script-->
 		<script type="text/javascript">
 		</script>
 <script>
 $(document).ready(function(){
-	if (screen.width <= 800) {
+
+	if( !document.cookie.match(/no_bar=1/) && screen.width <= 800) {
 		$('#mobile-toggle').show();
 	}
+	if( document.cookie.match(/no_close=1/) )
+	{
+		$("#close_bar").hide();
+	}
+	$("#close_bar").on("click", function()
+		{
+			document.cookie = "no_bar=1;path=/";
+			$("#mobile-toggle").css("background-color","#0099cc").css("color","#fff").text("You can still visit the mobile site via the link at the bottom of the page.").delay(3000).fadeOut(500, function() { $(this).remove(); });
+		})
 });
 </script>
-
 
 <script type="text/javascript">
 	// initialize variables
@@ -255,7 +269,6 @@ $(document).ready(function(){
 </head>
 	<body><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 0px; padding-right: 0px; display: none;"><div id="cboxWrapper" style=""><div style=""><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" class="" style="width: 0px; height: 0px; overflow: hidden;"></div><div id="cboxLoadingOverlay" class="" style=""></div><div id="cboxLoadingGraphic" class="" style=""></div><div id="cboxTitle" class="" style=""></div><div id="cboxCurrent" class="" style=""></div><div id="cboxNext" class="" style=""></div><div id="cboxPrevious" class="" style=""></div><div id="cboxSlideshow" class="" style=""></div><div id="cboxClose" class="" style=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div>
 	
-
 <div id="mobile-toggle" style="background-color: rgb(0, 204, 255); padding: 15px 0px;">
 	
 
@@ -274,7 +287,7 @@ $(document).ready(function(){
 						};
 					</script>
 
-    Currently viewing desktop site. <span id="obiwan"></span> <a id="mv_link" style="color:white" href="http://m.restek.com/web/20171124095535id_/http%3A//www.restek.com/Privacy-Policy?version=mobile">Go to mobile site.</a>
+    Currently viewing desktop site. <span id="obiwan"></span> <a id="mv_link" style="color:white" href="http://m.restek.com/web/20180527111425id_/http%3A//www.restek.com/Privacy-Policy?version=mobile">Go to mobile site.</a>
 </div>
 
 	<div id="wrapper">
@@ -322,7 +335,7 @@ Guest!<br><a href="/restekuser2/register">Register</a> | <a href="/restekuser2/l
 						<li><a href="/Reference-Standards/Chemical-Petroleum">Petroleum &amp; Petrochemical</a></li>
 						<li><a href="/Reference-Standards/Pharmaceutical">Pharmaceutical</a></li>
 						<li><a href="/Reference-Standards/Single-Component-Solutions">Single Component Solutions</a></li>
-						<li><a href="/Reference-Standards/Column-Test-Mixes">Column Test Mixes</a></li>
+						<li><a href="/Reference-Standards/Test-Mixes">Test Mixes</a></li>
 						<li><a class="nav_new" href="/Forms/Reference-Standards-Search-Select-and-Custom-Request">Search, Select, and Custom Request</a></li>						
 					</ul>
 				</li>
@@ -345,20 +358,21 @@ Guest!<br><a href="/restekuser2/register">Register</a> | <a href="/restekuser2/l
 						<li><a href="/chromatogram/search?s=type:GC">GC Chromatograms</a></li>
 						<li><a href="/chromatogram/search?s=type:LC">LC Chromatograms</a></li>
 						<li><a href="/chromatogram/search/">All Chromatograms</a></li>
-						<li><a href="/ezgc">Pro <i>EZ</i>GC Chromatogram Modeler</a></li>
+						<li><a href="/proezgc">Pro <i>EZ</i>GC Chromatogram Modeler</a></li>
 					</ul>
 				</li>
 				<li id="nav_resources">
 					<a href="/Technical-Resources" class="sf-with-ul"><em></em>Technical Resources</a>
 					<ul style="display: none;">
 						<li><a href="/documentation">Documentation: SDS, Certs, Data Packs</a></li>
-						<li><a href="/catalog">Request Catalog</a></li>
+						<!--li><a href="/catalog">Request Catalog</a></li-->
 						<!-- li><a href="/Technical-Resources/ChromaBLOGraphy">ChromaBLOGraphy</a></li -->
 						<li><a href="http://blog.restek.com">ChromaBLOGraphy</a></li>
 						<li><a href="/Technical-Resources/Technical-Library">Technical Library</a></li>
+						<li><a href="/Technical-Resources/Technical-Library/Video-Library">Video Library</a></li>
 						<li><a href="/Technical-Resources/Technical-Library/Audio-Slideshows-and-Webinars">Audio Slideshows &amp; Webinars</a></li>
 						<li><a href="/Technical-Resources/Troubleshooting-FAQs">Troubleshooting &amp; FAQs</a></li>
-						<li><a href="/ezgc"><i>EZ</i>GC Method Translator &amp; Flow Calculator</a></li>
+						<li><a href="/ezgc-mtfc"><i>EZ</i>GC Method Translator &amp; Flow Calculator</a></li>
 					</ul>
 				</li>
 				<li id="nav_training">
@@ -416,7 +430,8 @@ Guest!<br><a href="/restekuser2/register">Register</a> | <a href="/restekuser2/l
 <img src="/images/ui/bw_logo.png">
 <hr><br>
 </div>
-<div id="psf"><a href="" onclick="window.print();return false;" id="print"></a><!-- a href="" id="faves"></a><a href="" id="share"></a--></div>										 <div class="path">
+<div id="psf"><a href="" onclick="window.print();return false;" id="print"></a><!-- a href="" id="faves"></a><a href="" id="share"></a--></div>
+<div id="share_wrapper"><div id="share_callout">share: </div><div id="shareIcons" style="float: right;" class="jssocials"><div class="jssocials-shares"><div class="jssocials-share jssocials-share-linkedin"><a href="#" class="jssocials-share-link"><img src="/images/ui/linkedin.png" class="jssocials-share-logo"></a></div><div class="jssocials-share jssocials-share-facebook"><a href="#" class="jssocials-share-link"><img src="/images/ui/facebook.png" class="jssocials-share-logo"></a></div><div class="jssocials-share jssocials-share-twitter"><a href="#" class="jssocials-share-link"><img src="/images/ui/twitter.png" class="jssocials-share-logo"></a></div><div class="jssocials-share jssocials-share-email"><a target="_self" href="mailto:?subject=Our%20Privacy%20Policy%20explains%20the%20types%20of%20user%20information%20that%20we%20collect%2C%20how%20it%20is%20used%2C%20who%20uses%20it%2C%20and%20what%20our%20site%20visitors%20can%20control%20in%20this%20process.&amp;body=https%3A%2F%2Fweb.archive.org%2Fweb%2F20180527111425id_%2Fhttp%253A%2F%2Fwww.restek.com%2FPrivacy-Policy" class="jssocials-share-link"><img src="/images/ui/email.png" class="jssocials-share-logo"></a></div></div></div></div>										 <div class="path">
     
                 	            <div><a class="path" href="/">Home</a></div>
         	        
@@ -491,7 +506,7 @@ Guest!<br><a href="/restekuser2/register">Register</a> | <a href="/restekuser2/l
 										<div class="footer_spacer"></div>
 					<!--div class="footer_tail">
 						<div id="tail_left">Restek Corporation &bull; 110 Benner Circle  &bull;  Bellefonte, PA 16823  &bull;  1-814-353-1300  &bull;  fax: 1-814-353-1309</div>
-						<div id="tail_right">Copyright &copy; 2017 Restek Corporation. All rights reserved.</div>
+						<div id="tail_right">Copyright &copy; 2018 Restek Corporation. All rights reserved.</div>
 					</div-->
 					</div>
 				</div>
@@ -502,7 +517,7 @@ Guest!<br><a href="/restekuser2/register">Register</a> | <a href="/restekuser2/l
 				<div class="footer_tail">
 					<div id="tail_left">
 						<a href="http://www.restek.com"><img style="padding-top: 10px; padding-bottom: 5px; display: block;" src="/images/email/PureChromatographyFooter.png"></a>
-						<p>Restek Corporation, U.S., 110 Benner Circle, Bellefonte, PA 16823<br>Copyright © 2017 Restek Corporation. All rights reserved.</p>							
+						<p>Restek Corporation, U.S., 110 Benner Circle, Bellefonte, PA 16823<br>Copyright © 2018 Restek Corporation. All rights reserved.</p>							
 					</div>
 					<div id="tail_center">
 			                        <img src="/images/ui/esop_footer.png"><span>A Company of Owners</span>
