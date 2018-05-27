@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mofuse.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123150614id_/http%3A//mofuse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mofuse.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527021625id_/http%3A//mofuse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MoFuse, Inc
 
@@ -9,6 +9,10 @@ This Privacy Policy describes the policies and procedures of AdMax Local, LLC (�
 This Privacy Policy covers the treatment of personally identifiable information (“Personal Information”) gathered when you are using or accessing the Services.
 
 This Privacy Policy does not apply to the practices of third parties that we do not own or control, including but not limited to any third party websites, services and applications (“Third Party Services”) that you elect to access through the Service or to individuals that we do not manage or employ. While we attempt to facilitate access only to those Third Party Services that share our respect for your privacy, we cannot take responsibility for the content or privacy policies of those Third Party Services. We encourage you to carefully review the privacy policies of any Third Party Services you access.
+
+**International Data Transfers**
+
+Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy. Information which you provide may be transferred to countries which do not have data protection laws equivalent to those in force in your country. In addition, personal information that you submit for publication on the website will be published on the internet and may be available, via the internet, around the world. You expressly agree to such transfers of personal information.
 
 **What Personal Information do we collect?**
 
@@ -56,12 +60,15 @@ We will share your Personal Information from time to time with trusted third par
 
 If you are a registered user, you can access Personal Information associated with your Account by logging into the Services. Registered and unregistered users can access and delete cookies through their web browser settings.
 
+**EU Data Protection Rights:**
+
+We may process your Personal Information on a server located outside the country where you live. By using the Services, you freely and specifically give your consent to export your Personal Information outside of the EEA, including to the US and understand that data stored outside of the EEA may be subject to lawful requests by the courts or law enforcement authorities in the countries in which it is stored. You have the right to request a copy of the Personal Information we hold about you. We will take commercially reasonable steps to provide you with such access and to correct, amend, or delete information that is demonstrated to be inaccurate or incomplete.
+
 California Privacy Rights: Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address:
 
 AdMax Local, LLC  
-11150 W. Olympic Boulevard., Suite 600  
-Los Angeles, CA  90064 ****
-
+801 N. Brand Blvd., Suite 1020  
+Glendale, CA 91203  
 **Attention: Privacy Department**
 
 **Children’s Online Privacy Protection Act Compliance**
@@ -84,7 +91,7 @@ By using our sites and platforms, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
 
-This policy was last modified on May 10, 2015.
+This policy was last modified on December 1, 2017.
 
 **Contacting Us**  
 If there are any questions regarding this privacy policy you may contact us using the information below.
@@ -94,6 +101,6 @@ If there are any questions regarding this privacy policy you may contact us usin
 [mofuse.com/contact-us](http://mofuse.com/contact-us "mofuse.com/contact-us")
 
 AdMax Local, LLC  
-11150 W. Olympic Boulevard, Suite 600  
-Los Angeles, CA  90064  
+801 N. Brand Blvd., Suite 1020  
+Glendale, CA 91203  
 USA
