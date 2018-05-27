@@ -1,143 +1,388 @@
-> *The following text is extracted and transformed from the bitrhymes.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219235356id_/http%3A//gsngamesnetwork.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitrhymes.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527164528id_/http%3A//gsngamesnetwork.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
-GSN PRIVACY POLICY
+**GSN PRIVACY POLICY**
 
-Last revised: February 27, 2017
+Effective Date: May 24, 2018
 
-PLEASE READ THIS PRIVACY POLICY AND THE RELATED GSN TERMS OF SERVICE LOCATED AT  <http://gsngamesnetwork.com/terms.html> BEFORE USING ANY GSN WEBSITE, APPLICATION OR ANY GSN FORUM.  PLEASE NOTE THAT THE TERMS OF SERVICE CONTAIN A BINDING ARBITRATION CLAUSE AND CLASS ACTION WAIVER.  THIS AFFECTS YOUR RIGHTS ON HOW TO RESOLVE DISPUTES WITH GSN.
+Please read this Privacy Policy and the related [GSN Terms of Service](http://gsngamesnetwork.com/terms.html) before using any GSN website, application or community feature.
 
-This privacy policy (“ **Privacy Policy** ”) applies to your use of all the online websites (each, a “ **Website** ”) operated by Game Show Network, LLC or any of its affiliates or subsidiaries (collectively  **“GSN”** ), all mobile applications (each, an “ **App** ”) operated by GSN, and the GSN “Community Features” (defined below)  (unless a different policy is provided on a particular Website, App, or Community Feature in which case such different policy will control). The Website, Apps and Community Features are collectively referred to herein as the  **“Services”**. This Privacy Policy discloses what type of information is collected on or through the Services, the methods used to collect it, how GSN utilizes the information and the choices you have about the way your information is collected and used. Please read this Privacy Policy carefully.  Your use of the Services indicates that you unconditionally accept the Privacy Policy.  The Terms of Service are incorporated herein by reference.
+Game Show Network, LLC and subsidiaries (collectively **“GSN” or “we”, “our”, or “us”** ) are committed to protecting your privacy and take the protection of your personal data very seriously.  This privacy policy (“ **Privacy Policy** ”) explains how we collect, use and share the personal data that you provide to us and that we collect when you use any of our websites (each, a “ **Website** ”) mobile applications (each, an “ **App** ”), and our chat service, message boards, email service, messaging services, file communities, virtual communities, virtual assets, polls, surveys, and similar services (each, a **“Community Feature”** )  (unless a different policy is provided on a particular Website, App, or Community Feature, in which case such different policy will control). The Website, Apps and Community Features are collectively referred to as the  **“Services.”   **
 
-  1. **_Information We Collect_**
+**If you are located in the European Union (“EU”) or the U.K.** , this Privacy Policy also informs you about the management of your personal data and your rights in accordance with Article 13 of the General Data Protection Regulation (“GDPR”). 
 
+**Data Controller**
 
+GSN is the entity responsible for determining the means and purposes of processing personal data (i.e., the data controller) under this Privacy Policy and can be contacted as explained below in the How To Contact Us section.  GSN has appointed a Data Protection Officer for issues related to personal data in the EU and U.K., who can be contacted at **dpo@gsngames.com**.
 
-You can use some aspects of the Services at any time without providing any personally identifiable information (“ **PII** ”) about yourself. PII may include your name, email address, phone number, home address, birth date, mobile phone number and credit card information. Providing your PII is voluntary.  You can always choose not to provide PII, but then you may not be able to take advantage of or participate in some of the Services.
+**Changes to the Privacy Policy**
 
-GSN strives to provide visitors, users and players with information relevant to their particular desires, needs and interests.  The information we gather helps us to better serve this purpose.  GSN actively and passively collects, uses and stores PII in the following ways:
+We ask that you read this Privacy Policy from time to time.  We may modify it at any time in our sole discretion.  If we make material changes to this Privacy Policy that increase our rights to use personal data that we have previously collected about you, we will obtain your consent, where required by law, either through your registered email address or by prominent posting on the Services.  If you are an individual located outside of the EU or the U.K., your use of the Services indicates that you accept the terms of this Privacy Policy.
 
-  * Registration to use or receive our Services or offers;
-  * Contest registration and prize acceptance;
-  * Creation of a personal profile;
-  * Downloading and using Apps may provide information about your location and your mobile device;
-  * Tracking and analyzing online and mobile data and activity through mechanisms that identify users, user preferences, site usage, browser types, IP addresses, and other data.  Our collection and use of information is explained in greater detail over the next several sections of this Privacy Policy.
+Personal Data We Collect About You
 
+How We Protect Children’s Privacy
 
+How We Use Personal Data We Collect About You
 
-_GSN Account Information:_
+When We Share Your Personal Data
 
-In order to use certain Services, you may be required to register and create an account with GSN (“ **GSN Account** ”).  There is no cost to create a GSN Account but you will be asked to choose a member name and password, and to provide certain PII, such as your real name, age, address, telephone number, occupation and e-mail address.  Please note that your member name and city you reside in may be visible to other GSN customers depending on which Service you may be using. Once you have created a GSN Account, we may create an additional account for you on one or all of our affiliate websites. By registering for a GSN Account, you consent to the creation of these additional accounts.  You can monitor and terminate any of these additional accounts by logging into your account.  If you do provide GSN with PII, we will take all reasonable and appropriate steps to protect this information as more fully set forth in this Privacy Policy.
+Cookie Policy
 
-We may also keep records of your transactions with us. We may use the information you provide to us in order to communicate with you about products purchased, related customer support and to send you information about other products or services we believe may be of interest to you.
+Third-Party Advertisers and Third-Party Analytics
 
-As part of the registration process to create a GSN Account or to participate in promotions, you may be asked to provide certain non-personal information.  Non-personal information, alone,  cannot  identify you.  GSN requests this non-personal information in order to enhance your experience of the Services by understanding you better and to make you aware of new services, programs or offers which may be of interest to you.
+How We Protect Your Personal Data
 
-_Usage Information_ :
+Data Retention
 
-Like many other websites and apps, our Services may place small data files on your computer or other mobile device.  These data files may be cookies, pixel tags, e-tags, or other local storage provided by your browser or Apps (collectively “ **Cookies** ”).  GSN uses Cookies to enhance the user experience, customize content and advertising and to measure promotional effectiveness.
+Links to Other Websites
 
-_Cookies_ :  We use Cookies to help us to identify account holders and to optimize their experience of our Services.  We also use Cookies to monitor and maintain information about your use of the Services.  We use third party advertising companies (each, a “ **Third Party Advertiser** ”) to market, sell, and display advertisements that you may see when you visit our Services. These Third Party Advertisers may use information (not including your name, address, email address or telephone number) about your visit to the Services in connection with such marketing, sales, and advertising activities, including with respect to goods and services that may be of interest to you.  In the course of such advertising activities, we may, on their behalf, or the Third Party Advertiser itself may place or recognize a unique Cookie on your computer or mobile device. Any information that Third Party Advertisers collect via Cookies is not linked to any PII collected by us.  Most web browsers accept cookies automatically.  You can delete cookies manually or set your browser to automatically delete cookies on a pre-determined schedule.  If you decline to accept Cookies, you may not be able to take advantage of or participate in certain features of the Services.  Our Services enable the use of the Adobe Flash Player.  Adobe’s Flash Player is used by countless websites and applications that offer video and other interactive content.  By default, your use of the Adobe Flash Player generates “flash cookies” (also known as “persistent identification elements” or “local shared objects”).  Adobe provides a short disclosure about Flash Cookies in its End User License Agreement, stating “Use of the web players, specifically the Flash Player, will enable the Software to store certain user settings as a local shared object on our computer.  These settings are not associated with you, but allow you to configure certain settings within the Flash Player.”  The Adobe Flash Player (and similar applications) use flash cookies to remember user settings, preferences and usage similar to the browser cookies referenced above, but flash cookies can store more information than browser cookies and are managed through a different interface than the one provided by your web browser.  You can control the degree to which you accept flash cookies by accessing your Adobe Flash Player management tools directly through the settings manager for Adobe Flash, located at http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html.  If you do not allow flash cookies to take any disc space on your computer, you may not be able to take advantage of or participate in certain features on the Service.  Users with a computer running the Windows operating system can view flash cookie files in this folder: \Documents and Settings\\[username]\Application Data\Macromedia\Flash Player.  Users with a computer running the Apple operating system can view flash cookie files in this folder: /users/[username]/Library/Preferences/macromedia/Flash Player.  Flash cookies, or LSO files are stored typically with an “.SOL” extension.
+Location and Transfer of Personal Data
 
-The Adobe Flash Player is not the only technology being used in the ever-shifting online and mobile content environment.  HTML5 is an increasingly popular web standard used for presenting content, especially content delivered to mobile devices.  HTML is the mark-up language used for the World Wide Web. Almost all web pages you visit on the Internet are based around HTML code.  HTML5 is simply the fifth and latest iteration of this mark-up language that allows for more interactive web pages.  One of the real benefits of HTML5 is its potential to standardize the highly fragmented rich-media universe.  Some HTML5 code may allow your response to advertising and other activities to be monitored across websites and such information to be stored on your computer or mobile device.  Technology solutions that allow users to opt-out of or block this sort of tracking are being developed through browser add-ons and other tools.
+Notice to Residents of California
 
-_Web Beacons_ :  Our web pages or e-mail messages may contain a small graphic image called a web beacon, which is sometimes also called a “clear gif”, that allows us to monitor and collect certain limited information about our users, such as the type of browser requesting the web beacon, the IP address of the computer that the web beacon is sent to and the time the web beacon was viewed. Web beacons can be very small or invisible to the user, but, in general, any electronic image viewed as part of a web page or e-mail, including HTML based content, can act as a web beacon.  We may use web beacons to count visitors to our web pages or to monitor how our users navigate our Services, and we may include web beacons in e-mail messages in order to count how many of the messages we sent were actually opened or acted upon. Web Beacons assist in delivering Cookies and help us determine whether a web page or email has been viewed.  We use Web Beacons to compile aggregate statistics about our Services and our marketing campaigns.
+Notice to Residents of the EU and the U.K. 
 
-_IP Addresses_ :  An IP Address is a number that is assigned to your computer or network when you are linked to the Internet.  When you request pages from our Services, our servers log your IP Address. We may use IP Addresses for a number of purposes, such as system administration, to report aggregate information to our business partners or to audit the use of the Services.  We may associate your IP address with the PII you provide.
+Legal Basis for Processing
 
-**2.                _Use of Information Collected_**
+Rights of Individuals Located in the EU or U.K.
 
-Except as specifically outlined in this Privacy Policy, we do not share your PII with non-affiliated third parties without your permission. We may, however, share your PII with our owners and other related entities, including Sony Pictures Entertainment, AT&T, and their parents, subsidiaries, or affiliated companies, in order to provide portions of the Services or to provide other support for a GSN promotion. Please refer to the individual privacy policies of our related entities for details concerning how they handle your PII and non-personal information.
+Lodging a Complaint
 
-In addition, we may provide information to select outside companies when we believe their products or services may be of interest to you.  If you provide your PII directly to a third party, your direct interactions with that third party will be subject to the third party’s privacy policy and not this Privacy Policy.  Therefore, if you later decide that you do not want that third party to use your information, you will need to contact the third party directly.  GSN may share your PII or other information with third parties under the following circumstances:
+How You Can Contact Us
 
-  * _Third parties providing services on our behalf_ : We may engage third parties to perform services in connection with the operation of our business.  Examples of these services include: (a) product and/or experience customization, (b) distribution of marketing and promotional material, (c) website evaluation, (d) data collection, storage, management, analysis and, where applicable, cleansing, and (e) any other services designed to assist us in maximizing our business potential.  These third parties may have access to the Services’ user information, including PII, to the extent it is needed to perform their duties and functions.
-  * _Company Security_ : We may release information about our users, including PII, when legally required to do so, at the request of governmental authorities conducting an investigation or to verify or enforce compliance with the policies governing our Services and applicable laws.  We may also disclose such user information whenever we believe disclosure is necessary to protect the rights, property or safety of GSN, or any of our respective affiliates, business partners, customers or others.
-  * _Aggregate Information_ : We may disclose non-identifying, aggregated user statistics to third parties for a variety of purposes, including describing our services to prospective partners and other third parties.  Examples of such non-personal information include the number of users who visited the Website during a specific time period or redeemed a prize through the Services.
-  * _Promotions_ : We may offer promotional content, such as a contest, sweepstakes or promotion in connection with our Services.  Such promotions may be sponsored by or co-branded with a third party, who may obtain the PII that you submit.  If you provide information to such third parties, we cannot control those third parties’ use of your information. If you do not want your information to be collected by or shared with a third party, do not participate in these events.  Also, by entering a promotion, we may require you to consent to the use of your PII or other information, such as name, voice or likeness, in advertising, promotional and marketing materials.  In some instances, we may have an arrangement with a promotional partner or retailer, whereby they share with us customer information collected on their website. In the event that we receive such data and combine it with our customer records, the combined information will be treated in accordance with this Privacy Policy. Otherwise, all such information is subject to the privacy policy under which it was collected.
-  * _Third Party Offers_ : From time to time, we are approached by third party companies and organizations that provide game-related special offers or other offers that we believe may be of interest to you. In such cases, we may use your GSN account information to send out promotional mailings to you on their behalf. If you select to sign up for the third party offer, we will share your GSN account information with the third party offer provider.
-  * _Corporate change_ : We reserve the right to disclose, share and/or otherwise transfer user information, including without limitation PII, in connection with a corporate merger, acquisition, consolidation, the sale of a portion of our business or the sale of substantially all of GSN’s assets, or other fundamental corporate change, whatever form it may take.  You will be notified via e-mail or prominent notice on our Website prior to a change of ownership or control of your PII, if your PII will be used contrary to this policy.  For clarification and the removal of doubt, GSN specifically reserves the right to transfer or share a copy of PII collected pursuant to this Privacy Policy from the Services, off-line or otherwise, to the buyer of that portion of its business relating to that information.
+**Personal Data We Collect About You**
 
+GSN collects the following types of personal data to provide visitors, users and players with our Services and information relevant to your needs and interests:
 
-  1. **_Online Advertising Practices/Third Party Advertisers/Behavioral Advertising_**
+**Personal data you give us:   **You may give us personal data in a number of ways, including when you register to use our Services, receive offers, communicate with customer service, enter contests and accept prizes, and when you and create a personal profile. 
 
+  * **GSN Accounts** : When you use certain Services, you may be required to register and create an account ( **“GSN Account”** ).  You may be asked to choose a user name and password and to provide some or all of the following personal data, depending on which Service you use:
 
 
-_Ad Serving Technology_ : The Services may employ proprietary or third party ad serving technologies that use Cookies, clear GIFs, web beacons or other technologies to collect information as a result of ad serving through the Services.  GSN or third parties operating the ad serving technology (each, a “ **Third Party Ad Server** ”) may use demographic and location information, as well as information logged from your hardware or device to ensure that appropriate advertising is presented within the Services and to calculate or control the number of unique and repeat views of a given ad, and/or deliver ads that relate to your interests and measure the effectiveness of ad campaigns.  We or Third Party Ad Servers may collect data for this purpose, including your IP address (including for purposes of determining your approximate geographic location), device ID, information about your software, applications and hardware, machine or device make and model, advertisement(s) served, in game location, length of time an advertisement was visible, other Internet and website usage information, web pages and mobile Internet sites which have been viewed by you (as well as date and time), domain type, size of the advertisement, advertisement response (if any), and angle of view.  Note that if you click on an ad that appears on the Services, you acknowledge and agree as a result of how that technology works that your name or other identifying characteristics may be revealed to the advertiser (or the applicable Third Party Ad Server) through referrer headers (the URL transmitted by publishers when users click on ads).
+  * Your real name
+  * Date of birth
+  * Gender
+  * Postal address
+  * Email address
+  * Phone number
 
-You recognize and agree that the Third Party Ad Servers who deliver ads for GSN may combine the information collected with other information they have independently collected from other services or products.  These companies collect and use information under their own privacy policies.  These ad serving technologies may be integrated into the Services.
 
-In addition, GSN uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partners (each, a “ **Management Partner** ”). These files enable our Management Partners to recognize a unique cookie on your Web browser.   The cookie was placed by us, or by another advertiser who works with the applicable Management Partner.  The Management Partner may set and access its own cookies on your Web browser in order to serve ads it believes may be of interest to you based on the profile information you provided to us at registration (e.g., demographic information) as well as information collected about you by the applicable Management Partner elsewhere on the Web.  Management Partners may use information about you gathered from the Services (including your demographic information provided to us upon registration as well as your browsing behavior on the Website) to serve third party ads to you elsewhere on the Internet.  For more information about how cookies work, please visit the Network Advertising Initiative’s homepage at http://www.networkadvertising.org/.
 
-_Advertising GSN Products & Services_: After you use the Services, our advertising partners may deliver GSN ads to your Web browser when you are visiting other sites on the Internet. These ads are delivered based on cookies that are set by us or by our third party advertising network partners when you visit or use the Services, and that are recognized by these companies when you visit other sites.  Please see the section above on cookies to learn more about setting your Web browser to block cookies.
+Please note that your user name and the city where you reside may be visible to other GSN users, depending on which Service you are using.  In addition, when you make a purchase through our Services, either we or our third-party payment processor service provider will collect billing information, such as payment card information, and we will keep data about your transaction history and any sweepstakes and other contests that you enter. 
 
-**4.                _Special Notice Regarding Children Under 13 Years of Age_**
+  * **Community Features:** When you use our Community Features, your user name will be displayed, as will any content that you post.  Some message boards may also display your IP address.  All postings on Community Features will generally be available to, and freely accessible by, other users, and in some cases the general public. Because information posted will not be kept private, users should  exercise discretion when using Community Features. 
 
-**These Services are not aimed at nor intended for children under the age of 13. If you are under the age of 13, please do not use the Services, and if you are over the age of 13 but under the age of 18, you should use the Services only with the permission and/or supervision of a parent or legal guardian.   Our Services do not accept registration from children under the age of 13.  No PII is purposefully or knowingly collected from children under the age of 13 by GSN.   Parents are put on notice that as a result of the foregoing, GSN does not provide a mechanism to obtain parental consent.**
 
-**If you are a parent or guardian who has discovered that your child has submitted his or her PII to GSN, GSN will make commercially reasonable efforts to delete the information from its database, at your request. To request the deletion of your child’s information, please send an email to help@gsngames.com and be sure to include in your message the same member name and password that your child submitted.   Your use of the Services indicates that you hereby represent and warrant that all information you provide, including but not limited to age, shall be truthful and correct.**
+  * **Facebook:** GSN may allow you to sign in and associate your Facebook account with the Services.  When you do so, you allow GSN to access certain information from your Facebook profile that you have made available to be shared, including your Facebook ID, name, photo, and date of birth, and to use it (such as by posting your photo and name) in accordance with Facebook’s terms of use, this Privacy Policy, and GSN’s Terms of Service.  Please refer to the privacy settings on Facebook for information about what data is shared with GSN and to manage sharing through your account.
 
-**5.                _Data Security_**
 
-If you give GSN sensitive information (e.g., credit card numbers), GSN will take all commercially reasonable steps to protect such information by establishing a secure connection with your Web browser. GSN employs industry standard security protocols for encrypting sensitive information provided to us by a third party, to protect the transmission of payment information to the Services. Unless otherwise specified herein or on the Services, credit card numbers are used only for payment processing and are not retained for marketing or any other purposes.
 
-While GSN takes precautions against possible breaches in its databases, no website, internet transmission, computer system or connection is completely secure. Consequently, GSN cannot guarantee that unauthorized access, hacking, data loss, or other breaches will never occur. We cannot and do not ensure or warrant the security of any information you transmit to GSN and you do so at your own risk.
+You can use some aspects of the Services at any time without providing any personal data. While providing personal data is voluntary, you may not be able to take advantage of or participate in some of the Services, if you choose not to share it.
 
-GSN urges you to keep your PII safe by memorizing your password or keeping it in a safe place, separate from your account information, as sharing your password with others may lead to unauthorized access to your information.
+**Personal data we get from third parties:** We also collect personal data about you (such as name, address, device IDs, location, service provider, and usage and player information) from third parties, such as advertising partners, platforms, customer rights management vendors, analytics companies, co-branded marketers, help desk vendors, and fraud detection companies. We use this data to improve the quality and relevance of the advertisements you see, improve the functionality of the Services, enable you to enter into competitions, or let you know of new developments in the Services. In the event that we receive such data and combine it with our customer records, the combined information will be treated in accordance with this Privacy Policy.
 
-**6.                _Postings to GSN Forums_**
+**Personal data we collect automatically:** We automatically collect information about the devices that you use to interact with the Services, as well as information about how you interact with the Services. We use this data to provide the Services to you.  The information that we automatically collect may include the following, depending on which Service you are using:
 
-Please review our restrictions on use and guidelines for user forums in our Terms of Service located at  [ **http://gsngamesnetwork.com/terms.html**](http://gsngamesnetwork.com/terms.html).  All postings, whether in a chat room, on message boards or other method of communication within the Forums will generally be available to, and freely accessible by, other users of the GSN Forums as well as the Internet general public. Therefore, users should not expect that any information they post will be kept private or confidential and are encouraged to exercise discretion when using the GSN Forums. Additionally, your member name will always be included in conjunction with your postings in the GSN Forums.  And, certain message boards (and similar user forums) may display IP addresses and possibly PII along with the message poster’s name and message.  GSN assumes no responsibility for any action or policies of any third parties who collect any information automatically included when users use the GSN Forums as described above, or any information users may disclose in user forums or other public areas, if any, of the Services.  GSN is not responsible for events arising from the distribution of any information you choose to publicly post or share through the Forums or other Services.
+  * Your IP Address;
+  * Device identifier;
+  * Web browser type and version;
+  * Operating system;
+  * Time zone;
+  * Web browsing;
+  * Location based upon IP Address;
+  * Precise geolocation of mobile device;
+  * GSN usage history;
+  * GSN game history and skill level;
+  * Page/app views; and
+  * Language.
 
-**7.                _Hyperlinks To and From Other Websites_**
 
-The Services may contain links to, or advertisements concerning, other websites. Other websites may also reference, advertise, or link to GSN. GSN is not responsible for the privacy practices or the content of such other websites and expressly disclaims all liability associated with your use of, and the content on, such other websites and advertisements. You should check the applicable privacy policy of any website you may click through to.
 
-  1. **_Social Networking_**
+**How We Protect Children’s Privacy**
 
+GSN Services are general audience sites not directed at children under the age of 18.  If we obtain actual knowledge that any information we collect has been provided by an individual under the age of 18, we will promptly delete that information.
 
+If you are a parent or guardian who has discovered that your child has submitted his or her personal data to GSN, please send an email to help@gsngames.com to request deletion of that information.  Please be sure to include in your message the same user name and password that your child submitted. 
 
-GSN may offer you the possibility to connect your accounts from third party social networking sites, such as Facebook and Twitter (each, a “ **Social Networking Site** ”), with the Services by an application programming interface (API) or other software. By allowing GSN to connect with your accounts on such Social Networking Sites, you consent to GSN’s accessing the information in those accounts, which information may include PII.  You likewise consent to GSN’s publishing on the Services any such information or actions you take on other such Social Networking Sites.  Any information accessed or published from your account on a Social Networking Site on the Services is subject to GSN’s Terms of Service.  It is your choice whether to use any such Social Networking Site, and you understand that in some instances such Social Networking Sites may request to access and publish information about you or your friends that is included in your GSN Account.
+**How We Use Personal Data We Collect About You**
 
-**9.                _Consent to Processing in the United States_**
+We may use your personal data for the following purposes:
 
-The Services are operated in the United States.  By providing any PII to the Services, all users, including, without limitation, users in the member states of the European Union, Canada or elsewhere outside of the United States fully understand and unambiguously consent to this Privacy Policy.  By using our Services, participating in any of our Services and/or providing us with your information, you consent and agree to the collection, transfer, storage and processing of your information to and in the United States.
+**Communicate With You**
 
-**10.             _Maintaining and Updating Your Account Information/Unsubscribe_**
+  * To provide you with customer support;
+  * To communicate with you about our products and services, including promotions and offers;
+  * To make suggestions and recommendations to you about goods or services that may interest you; and
+  * To let you know about new developments in the Services.
 
-You have the right to see the PII we collect about you and to correct any inaccuracies in you PII that we retain.  As part of your use of the Services, you are responsible for maintaining and updating, as applicable, your Registration Information with current and complete information. You may edit and delete portions of your GSN Account information or delete the GSN Account entirely. To do this, visit the first page after signing in to your account, and click on  **“Your GSN”  **to make changes or deletions. You can also write to us to obtain and correct inaccuracies at:
 
-GSN  
-Attn: Player Support  
-100 Summer Street, 11th Floor
 
-Boston, MA, 02110
+**Manage and Improve Our Business Operations**
 
-After receiving any requested changes to your information, we will make reasonable efforts to ensure that all of your PII stored in databases we actively use to operate the Services will be updated, corrected, changed or deleted, as appropriate, as soon as reasonably practical. However, we reserve the right to retain in our archival files, any information we remove from or change in our active Services databases. We may retain such information to resolve disputes, troubleshoot problems and enforce our Terms of Service. In addition, it may not be technologically possible to remove every record of the information you have previously provided us, as a copy may exist in a non-erasable form that will be difficult or impossible for us to locate.  Therefore, you may continue to receive some offers after you send us a request not to use your information for specified marketing purposes.  Please be aware that we will process your request promptly, but it may take some time to update our systems in the ordinary course of our business operations.
+  * To provide you with access to the Services;
+  * To accept and process payments in connection with the Services;
+  * To improve your experience using the Services;
+  * To improve the functionality of the Apps;
+  * To enable you to enter competitions;
+  * For internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
+  * To allow you to participate in interactive features of our Services, when you choose to do so;
+  * To measure or understand the effectiveness of advertising we serve to you and others;
+  * To deliver relevant advertising to you; and
+  * To assist us in developing new products and improving our Services.
 
-If you are the parent or guardian of a child under the age of 13, and you have discovered that your child created an account and would like to have it deleted, please e-mail us at [help@gsngames.com](mailto:help@gsngames.com) with your child’s member name and password.
 
-If you want to opt out of having your PII shared with third parties for marketing purposes, you must consistently opt-out at our Services where you register and whenever you provide PII to us.  Please bear in mind that this opt-out choice for “third parties” will not apply to GSN, GSN licensees and/or co-branding participants, as set forth below.  Please also keep in mind that any opt-out choices you make will not apply in situations where: (a) you either have made, simultaneously make, or later make a specific request for information from us; or (b) GSN uses your PII for either operational purposes (e.g., to complete transactions requested by you, or to send you administrative communications either about your account with us or about features of our Services, including any future changes to this Privacy Policy, or any other policy or terms that affect you and your use of our Services) or fulfillment purposes (e.g., sharing with companies that facilitate communications and transactions with you).
 
-If you do not exercise your opt-out choices upon registration or otherwise at the time the PII is provided, it may take some time to process your opt-out choices.  Our systems require time to update, and promotional mailings using PII shared before your opt-out may already be in process.  Thus, your PII might continue to be shared with third parties for promotional purposes for some time after you make your request,  For similar reasons, if your PII is shared with a third party, GSN largely or completely loses control over how that information is used.  Thus, even after you have opted out of allowing us to share your PII, you might continue to receive promotional materials from third parties unless and until you register your opt-out request with each third party in question.
+**Ensure a Secure Online Environment and Comply with Legal Obligations**
 
-You should be aware that it is not always possible to completely remove or delete all of your information from our databases without some residual data because of backups and other reasons.
+  * Protect against and detect fraud, abuse or other unlawful activity;
+  * Enforce our Terms of Service, other corporate policies and industry standards; and
+  * Comply with all applicable laws and reporting obligations.
 
-**11.             _Contact Us Regarding Privacy_**
 
-GSN is dedicated to protecting your PII and welcomes comments and questions on this Privacy Policy. You may e-mail us at the following address:
 
-[help@gsngames.com](mailto:help@gsngames.com)
+**Unsubscribing From Communications:** GSN would like to use your personal data to communicate with you directly, via email, push notifications or direct mail, about products you have purchased and other related products and services we believe may be of interest to you, as well as related customer support.  If you no longer want to be contacted, you may update your email preferences by using the “Unsubscribe” link found in emails we send to you or by contacting us at **[help@gsngames.com](mailto:help@gsngames.com)**.  To disable push notifications, access Settings on your device and select the App(s) you no longer wish to receive push notifications from.
 
-_Notice to California Residents/Your California Privacy Rights_
+**When We Share Your Personal Data**
 
-California residents are entitled once a year to request and obtain certain information regarding our disclosure, if any, of PII to third parties for their direct marketing purposes during the immediately prior calendar year (e.g., requests made in 2016 will receive information about 2015 sharing activities).  We comply with this law by offering our visitors the ability to tell us not to share your PII with third parties for their direct marketing purposes.  To make such a request, consistently exercise your opt-out choice whenever you provide PII to us or send us a message using the email set forth above.  You must include the Services as the subject line, and your full name, e-mail address, and postal address in your message.
+**With Our Owners and Other Related Entities:** We may share your personal data with our owners and other related entities, including Sony Pictures Entertainment, AT&T, and their parents, subsidiaries, or affiliated companies, in order to provide portions of the Services or to provide other support for a GSN promotion. Please refer to the individual privacy policies of our related entities for details concerning how they handle your personal data.
 
-Our Services do not recognize browser “Do Not Track” signals, but several of our Third Party Ad Servers and Management Partners enable you, in whole or in part, to opt out of the behavioral advertising activities described in Paragraph 3 of this Privacy Policy.  To learn more about how to opt out of the behavioral advertising conducted by these providers you can visit <http://www.networkadvertising.org/>.
+**To Support Business Services** **:** We may share your personal data with third parties who perform services on our behalf to support our business operations, including the following:
 
-**12.             _Notification of Changes_**
+  * Product and/or experience customization;
+  * Distribution of marketing and promotional material;
+  * Website evaluation;
+  * Data collection, storage, management, analysis and, where applicable, deletion; and
+  * Other services to support our business operations, such as ad delivery and analysis. 
 
-We reserve the right, in our sole discretion, to modify, update, add to, discontinue, remove or otherwise change any portion of this Privacy Policy, in whole or in part, at any time.  When we amend this Privacy Policy, we will revise the “last updated” date located at the top of this Privacy Policy for a reasonable amount of time.  For changes to this Privacy Policy that we consider to be material, we will let you know by displaying a notice when you first use the Services after such changes have been made.  We may also, at our discretion, provide notification of changes by other means.  If you provide information to us or access or use the Services in any way after this Privacy Policy has been changed, you will be deemed to have unconditionally consented and agreed to such changes.  The most current version of this Privacy Policy will be available on the Website and the Application and will supersede all previous versions of this Privacy Policy.
 
-© 2017 Game Show Network, LLC. and GSN Games, Inc.  All rights reserved.
+
+**To Provide Company Security** **:** We may disclose personal data when we determine that doing so is appropriate to:
+
+  * Verify compliance with and enforce our Terms of Service and other policies governing our Services;
+  * Protect our property, services and legal rights;
+  * Protect personal safety or the property of others;
+  * Respond to lawful requests from governmental authorities;
+  * Comply with applicable laws; and
+  * Support auditing, compliance and corporate governance functions.
+
+
+
+**To Offer Promotions** : If you are a resident of the U.S. or Canada, you may participate in contests, sweepstakes or promotions in connection with our Services ( **“Promotions”** ).  (EU and U.K. residents are not eligible to participate.)  Such Promotions may be sponsored by or co-branded with a third party, who may obtain personal data that you submit in connection with the Promotions.  We cannot control those third parties’ use of such data. If you do not want your personal data to be collected by or shared with such a third party, do not participate in these Promotions. 
+
+When entering a Promotion, we may ask for your consent to use your personal data or other information (such as name, voice or likeness) in advertising, promotional and marketing materials.
+
+**To Extend Third-Party Offers** **:  **We may send you promotional mailings on behalf of third-party organizations that provide game-related offers and other offers.  If you sign up for the third-party offer, we will share your GSN Account information with the third-party offer provider. 
+
+If you are a resident of the EU or the U.K., we will obtain your consent before using or sharing your information in this manner.
+
+**In the Event of Corporate Change** : We may disclose, sell or transfer all information related to the Services, including personal data:
+
+  * To a subsequent owner, co-owner or operator of one or more of the Services; or
+  * In connection with a corporate merger, consolidation or restructuring; the sale of substantially all of our stock and/or assets; or other corporate change, including, without limitation, during the course of any due diligence process.
+
+
+
+You will be notified by e-mail or prominent notice on our Website  or in App prior to a change of ownership or control of your personal data, if your personal data will be used contrary to this policy. 
+
+**For Statistical Analysis** **:** We may disclose non-identifying, aggregated user statistics, such as the number of users who used the Services during a specific time period, to third parties for a variety of purposes, including describing our Services to prospective partners and other third parties. 
+
+**Cookie Policy**
+
+Our Services may place small data files on your computer or mobile device.  These data files may be cookies, pixel tags, e-tags, or other local storage provided by your browser or Apps (collectively “ **Cookies** ”). 
+
+Some of these Cookies are technical (i.e., they allow us to provide the Services) and some are non-technical (i.e., they provide analytics about the use of our Services, allow us to remember your preferences, or facilitate advertising).  We also use third-party advertisers (each, a **“Third-Party Advertiser”** ) to market, sell and display advertisements on our Services. These Third-Party Advertisers may recognize Cookies we have placed (or place their own Cookie) on your device to collect information about your use of the Services for use in connection with their advertising activities.   
+
+**How we use Cookies**
+
+We use both persistent and session Cookies.  Persistent Cookies are used to improve your experience on our Services.  This includes, for example, recording your acceptance of our Cookie Policy to remove the Cookie message that first appears when you use our Services. Session Cookies are temporary and are deleted from your device when your web browser closes.  We use session Cookies to help us track internet usage.
+
+We will not keep the personal data that we collect through Cookies for longer than is necessary to fulfill the purposes mentioned in this Privacy Policy.
+
+**Types of Cookies**
+
+**Cookie Type**
+
+| 
+
+**Purpose**  
+  
+---|---  
+  
+Strictly necessary/ Technical 
+
+| 
+
+These Cookies are necessary to allow us to operate the Services so you may access them as you have requested. These Cookies, for example, let us recognize that you have created an account and have logged into that account to access content through the Services. They also include Cookies that enable us to remember your previous actions within the same browsing session and secure the Services.  
+  
+Analytical /Performance
+
+| 
+
+These Cookies are used by us or our business partners to analyze how the Services are used and how they are performing. For example, these Cookies track what pages are most frequently visited, and what locations our visitors come from. If you subscribe to a newsletter or otherwise register with the Services, these Cookies may be correlated to you. These Cookies include, for example, Google Analytics Cookies.  
+  
+Functionality
+
+| 
+
+These Cookies let us operate the Services in accordance with the choices you make. These Cookies permit us to "remember" you in between visits. For instance, we will recognize your user name and remember how you customized the Services, for example by adjusting text size, fonts, languages and other parts of web pages that are alterable, and provide you with the same customizations during future visits.  
+  
+Third-Party Advertising
+
+| 
+
+We may allow our business partners to use Cookies on our Services for the same purposes identified above, including collecting information about your online activities over time and across different websites. The business partners that generate these Cookies, such as Adobe and Google, have their own privacy policies, and may use their Cookies to target advertising to you on other websites, based on use of the Services.  
+  
+**How to delete Cookies**
+
+Most web browsers accept Cookies automatically.  However, you can delete Cookies manually or set your browser to automatically delete Cookies on a pre-determined schedule.  Most browsers will tell you how to stop accepting new Cookies, how to be notified when you receive a new Cookie and how to disable existing Cookies.  You can find out how to do this for your particular browser by clicking “help” on your browser's menu or by visiting www.allaboutcookies.org.   
+
+Please note that if you decline to accept Cookies, you may not be able to take advantage of or participate in certain features of the Services. 
+
+Most browsers allow users to use a “private mode” by which Cookies are deleted after your website visit.  Please read the help section of your browser to learn more about how to activate the “private mode.”  You can still visit our website if your browser is in “private mode,” however, the user experience may not be optimal and some utilities may not work.
+
+If you want to remove previously-stored Cookies, you can manually delete the Cookies at any time. However, this will not prevent the Services from placing further Cookies on your device unless and until you adjust your browser setting as described above.
+
+For more information on the development of user-profiles and the use of targeting/advertising Cookies, please see www.youronlinechoices.eu, if you are located in the EU, or www.aboutads.info/choices, if in the United States.
+
+**Adobe Flash Player**
+
+Our Services enable the use of the Adobe Flash Player, which generates “flash cookies” by default.  Flash cookies remember user settings, preferences and usage similar to the browser Cookies referenced above, but flash cookies can store more information than browser Cookies and are managed through a different interface than the one provided by your web browser. 
+
+You can control the degree to which you accept flash cookies by accessing your Adobe Flash Player management tools directly through the settings manager for Adobe Flash, located at http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html.  If you do not allow flash cookies to take any disc space on your computer, you may not be able to take advantage of or participate in certain features on the Service. 
+
+**Web Beacons**  
+
+Our web pages or e-mail messages may contain a small graphic image called a web beacon which allows us to monitor and collect certain limited information about our users, such as the type of browser requesting the web beacon, the IP address of the computer that the web beacon is sent to and the time the web beacon was viewed. We may use web beacons to count visitors to our web pages or to monitor how our users navigate our Services, and we may include web beacons in e-mail messages in order to count how many of the messages we sent were actually opened or acted upon.
+
+**IP Addresses**  
+
+An IP Address is a number that is assigned to your mobile device, computer or network when you are linked to the Internet.  When you request pages from our Services, our servers log your IP Address. We may use IP Addresses for a number of purposes, such as system administration, to report aggregate information to our business partners or to audit the use of the Services.  We may associate your IP address with other personal data you provide.
+
+**Third-Party Advertisers and Third-Party Analytics**
+
+**Ad Serving Technology**
+
+Third-party advertising companies (each, a **“Third-Party Ad Company”** ), also may use Cookies, clear GIFs, web beacons or other technologies to collect information to ensure that appropriate advertising is delivered when you use the Services, calculate or control the number of unique and repeat views of a given ad, deliver ads that relate to your interests, and measure the effectiveness of ad campaigns. 
+
+The data that Third-Party Ad Company may collect for this purpose includes your IP address; device ID; information about your software, applications and hardware; machine or device make and model; advertisement(s) served; in-game location; length of time an advertisement was visible; other Internet and website usage information; web pages and mobile Internet sites which have been viewed by you (as well as date and time); domain type; size of the advertisement; advertisement response (if any); and angle of view.  If you click on an ad that appears on the Services, data, such as your IP address, may be revealed to the advertiser (or the applicable Third-Party Ad Company).
+
+The Third-Party Ad Company that deliver ads may combine the personal data collected with other information they have independently collected from other services or products.  The collection and use by Third-Party Ad Company of personal data obtained through the Services and information they have independently collected from other services or products is governed by their own privacy policies. 
+
+In addition, GSN uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partners (each, a “ **Management Partner** ”), who use them to recognize a unique Cookie placed by us or by another advertiser who works with the applicable Management Partner.  The Management Partner may set and access its own Cookies on your web browser in order to serve ads it believes may be of interest to you based on the profile information you provided to us at registration (e.g., demographic information), your browsing behavior on the Services, as well as information collected about you by the applicable Management Partner elsewhere online.  Management Partners may use information about you gathered from the Services to serve third-party ads to you elsewhere on the Internet. 
+
+**Analytics**
+
+GSN uses third-party web analytics services that collect and analyze our users’ data, such as device ID and IP address, to provide us with statistical information, such as where our users are located in the world, what content users view on our Services, and the size of our user base.  We use this information to improve and personalize our Services.
+
+**How We Protect Your Personal Data**
+
+GSN has implemented an information security program that includes physical, technical and procedural safeguards designed to protect your personal data. 
+
+**Data Retention**
+
+GSN will retain your personal data as needed to provide you with access to our Services and/or for as long as is necessary for the protection and pursuit of our legal rights and obligations under any laws that are applicable to our operations. 
+
+**Links to Other Websites**
+
+The Services may contain links to, or advertisements concerning, other websites. Other websites may also reference, advertise, or link to GSN. GSN is not responsible for the privacy practices or the content of such other websites. You should check the applicable privacy policy of any website you access through the Services.
+
+**Location and Transfer of Personal Data**
+
+Personal data you provide to us and through our Services may be stored on servers, databases and with third-party service providers in the United States and other countries whose data protection laws may differ from the jurisdiction in which you live.  When we transfer personal information from the European Economic Area (“EEA”) and the U.K., we put in place appropriate safeguards to ensure the safe and secure transfer  and handling of such data.
+
+**Notice to Residents of California**
+
+If you are a California resident, California Civil Code Section 1798.83 permits you to opt out of the disclosure of your personal data by GSN to third parties for those third parties’ direct marketing purposes.  To make a request to opt out of such disclosure, please send an email to **[help@gsngames.com](mailto:help@gsngames.com)** or write us at 100 Summer Street, Boston, MA 02110.  You must include the Services as the subject line, and your full name, e-mail address, and postal address in your message.
+
+**Notice to Residents of the EU and the U.K.**
+
+If you are located in the EU or the U.K., you have certain rights with respect to your personal data.  If you would like to exercise those rights, please contact us at the email address below applicable to the App or Website you are using or through the menu options in the App.
+
+For Bingo Bash
+
+[bingogdpr@gsngames.com](mailto:bingogdpr@gsngames.com)
+
+For: (i) GSN Casino; (ii) Grand Casino; (iii) Mirrorball Slots; and (iv) Slots Bash
+
+[casinogdpr@gsngames.com](mailto:casinogdpr@gsngames.com)
+
+For TriPeaks Solitaire
+
+[solitairegdpr@gsngames.com](mailto:solitairegdpr@gsngames.com)
+
+For: (i) WorldWinner; and (ii) gsn.com
+
+[skillgdpr@gsngames.com](mailto:skillgdpr@gsngames.com)
+
+For: (i) Fresh Deck Poker; and (ii) Wheel of Fortune Slots
+
+[vegasgdpr@gsngames.com](mailto:vegasgdpr@gsngames.com)
+
+**Legal Basis for Processing**
+
+We will rely on the following legal bases for processing your personal data, depending on our purpose for such processing.
+
+**You have consented to the processing of your personal data:   **We will obtain your consent before using or sharing your data for advertising that is targeted based on your browsing history, online behavior or other personal data that we or third parties may have collected about you. If you consent to our use of your personal data for any purpose, you have the right to withdraw consent at any time by contacting us, as explained above, or through the App in which you provided consent.
+
+**We have a legitimate interest in processing your personal data:** GSN has a legitimate interest in processing your personal data for certain business and security purposes and to comply with applicable laws, including, but not limited to, the following:
+
+  * Product and Service development, management, delivery and enhancement;
+  * Fraud detection and prevention;
+  * Network and system security;
+  * General corporate operations;
+  * User personalization;
+  * Compliance with applicable foreign laws;
+  * Communications regarding products and services that you have purchased; and
+  * Non-targeted marketing and advertising.
+
+
+
+You have the right to object to our processing of your personal data based on our legitimate interests.  You can do so by contacting us through the App(s) you are using, as described above.  The processing of some types of personal data is necessary to provide you the Services, however.  Therefore, if you object to certain types of processing, we may not be able to provide you the Services.
+
+**Processing is necessary for compliance with a legal obligation:**   We will process personal data when necessary to comply with an obligation under EU or EU Member State law.
+
+If we intend to use personal data that we have collected for a different purpose than was described to you, we will provide you with information about this secondary purpose and any additional information necessary to ensure fair and transparent processing, before we engage in further processing.
+
+**Rights of Individuals Located in the EU or U.K.**
+
+If you are located in the EU and U.K., you have the following rights, subject to applicable exceptions, under the GDPR and U.K. data protection laws:
+
+**Right of access:** You have the right to obtain confirmation as to whether we are processing personal data about you, and if so, request a copy of the personal data.  If you are located in the EU or U.K. and you would like a copy of the personal data that GSN holds about you, please send a description of the personal data you would like a copy of and proof of your identity to the emails set forth above.
+
+**Right to correction:** You have the right to correct any inaccuracies in the personal data we hold about you and, where applicable, complete any incomplete personal data that we hold.
+
+**Right to erasure** : You have the right to request that GSN erase the personal data that we hold about you, if one of the conditions in Article 17 of the GDPR applies.
+
+**Right to restriction of processing:** You have the right to restrict our processing of your personal data, if one of the conditions in Article 18 of the GDPR applies.
+
+**Right to data portability:** You have the right to receive personal data concerning you in a structured, common and machine-readable format or request transmission of the data to a third party, if the conditions in Article 20 of the GDPR are met.
+
+**Right to object:** You have the right to object to processing of your personal data based on our legitimate interests at any time.  We will no longer process the data, unless there are compelling legitimate grounds for our processing that override the interests, rights and freedoms of the data subject, or the processing serves the purpose of asserting, exercising or defending legal claims.
+
+**Right to withdraw consent:** If we are processing your personal data based on your consent, you have the right to withdraw your consent at any time.
+
+If you are located in the EU or U.K. and you would like to invoke any of these rights (other than “access,” which is explained above), you can make the appropriate change through your GSN Account, or you can contact us through the App(s) you are using, as described above.
+
+**Lodging a Complaint**
+
+Under Article 77 of the GDPR, if you are located in the EU or the U.K., you have the right to lodge a complaint with a supervisory authority if you believe that the processing of your personal data infringes your rights under the GDPR.  The right to lodge a complaint may be invoked in the EU Member State in which you reside, in which you work or where the alleged infringement occurred.
+
+**How You Can Contact Us**
+
+GSN is dedicated to protecting your personal data and welcomes comments and questions on this Privacy Policy. You may e-mail us at the following address:
+
+GSN Games
+
+Attn: Privacy Help
+
+100 Summer Street
+
+Boston, MA 02110
+
+USA
+
+help@gsngames.com
+
+© 2018 Game Show Network, LLC. and GSN Games, Inc.  All rights reserved.
