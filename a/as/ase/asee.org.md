@@ -1,123 +1,169 @@
-> *The following text is extracted and transformed from the asee.org privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124134051id_/http%3A//www.asee.org/about-us/headquarters/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asee.org privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527172148id_/http%3A//www.asee.org/about-us/headquarters/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement: American Society for Engineering Education
 
-We take seriously your concerns about privacy and want you to be aware of the types of information we collect and what we do with it. These privacy practices pertain to the site you were at when you clicked through to this policy page. The information we collect and what we do with it depends on the area of the site you visit. Each will be addressed separately.
+## American Society for Engineering Education 
 
-* * *
+###  Privacy Policy
 
-##  Entire Web Site
+  
 
-Cookies, which are small amounts of information stored on your computer, are used to help keep track of what parts of the site you visit and if you return. There is no personal information collected, just an identifier of your computer so we can see if you return to the site. This information is used in aggregate to gather statistics to help us improve our web site for your benefit. The statistics are also used to help convince advertisers to place ads on our web site.
 
-* * *
+##### Effective Date: May 25, 2018
 
-##  Website Registration
+ASEE's privacy policy is presented below for your review. By continuing to use ASEE's websites and services, you expressly consent to our collection, use, disclosure, and retention of your personal information as described in this privacy policy
 
-When you register to use myASEE personally identifiable information is stored. The information is used primarily to customize your experience of our site. You may receive emails from ASEE departments containing items relating to engineering education. You personally identifiable information may be shared with other organizations or people who provide products or services to engineering educators and students. If you do not wish to have the information shared you may opt out of receiving any emails.
+The American Society for Engineering Education respects your privacy and is committed to protecting it through due diligence and compliance to this policy and in adherence to US and European guidelines. This policy describes the type of information ASEE may collect from you and our practices for collecting, using, maintain, and disclosing that information. 
 
-* * *
+This privacy statement applies to the American Society for Engineering (ASEE) and all of its legal components including divisions, councils, sections, and zones; however, it does not apply to ASEE’s business partners, third party associates and other external entities that should provide their privacy notice to you. This notice also does not apply to sponsor linked websites from ASEE’s managed web pages with which you may interact. 
 
-##  Membership
+For the purpose of this Privacy Statement, business partners and third party associates may refer to contractors, subcontractors, vendors, government and private contacts, and other entities with which ASEE has a business relationship to provide services or support for ASEE’s mission. 
 
-When you become a member of ASEE, renew your membership, or update your information we store data needed to maintain your membership. This personally identifiable information is used to mail membership benefits such as Prism magazine and email ASEE related information to you. Other departments within ASEE may send you information regarding engineering education. Division and section officers may contact you regarding their activities.
+ASEE reserves the right to modify this policy at any time and will provide notification of such changes on their website.
 
-Responsible third parties may purchase mailing lists in the form of address labels containing personally identifiable information to send items relating to engineering or engineering education; these mailing lists do NOT include e-mail addresses or telephone/fax numbers. You may opt out of having either surface mail or email sent to you.
+  1. **Acknowledging ASEE’s Privacy Policy**
 
-* * *
+ASEE recognizes your acknowledgement to this policy as an acceptance to the collection, usage, maintenance, retention, and disclosure of your information. 
 
-##  Fellowships and Research Opportunities
+  2. **Data Protection Contact**
 
-When you apply for a fellowship we store data required to process your application. This personally identifiable information is used only by ASEE staff and the sponsoring agency or their designated affiliate for processing of appointments or security clearances. No other third party is allowed access to this information.
+ASEE’ Sponsored Programs (Federal Contracts and Grants)  
+Charlene Bowman  
+Director of Sponsored Programs and Compliance  
+_aseesponsorprivacy@asee.org_
 
-* * *
+Membership  
+Tim Manicom  
+Director of Membership  
+_aseememberprivacy@asee.org_
 
-##  Conference Registration
+  3. **Why and How We Collect Personal Information**
+    1. Information you Directly and Voluntarily Provide to Us.
+      * Membership: ASEE is a member based society and collects information from its members’ for statistical purposes, member services and support, member communication, and member activities and event. The information is collected using ASEE’s member management and conference application; however, information may also be collected manually during member outreach activities for renewals and new membership.
+      * Conference/Event Management: ASEE offers an annual conference as well as sponsorship of special interest conferences and small meetings to provide professional development, presentation, and networking opportunities. The information is collected using ASEE’s member management and conference application when you register to attend, present, sponsorship, or as an exhibitor for these events. 
+    2. Information We Automatically Collect You 
+      * Website: We may automatically collect information about you when you use ASEE’s managed websites. During your interaction on ASEE’s managed websites, we may automatically collect analytics using web analytics services or cookies, such as the pages you visited, data and time of your visit, the amount of time spent on the site, and other statistical information. This information is collected to enhance the site performance and users ‘experience. You may modify your browser to manage settings to restrict or minimize this collection.
+  4. **What Personal Data We Collect**
 
-When you register to attend a conference we store information required to process your registration. The mailing address portion of this information is provided to exhibit floor vendors. You may opt out of the list. If you choose to have your badge scanned by a vendor in the exhibit hall, the vendor will also receive your e-mail address, phone and fax numbers. No other third party is allowed access to this personally identifiable information.
+ASEE collects first name, middle name, last name, home address, work address, personal contact phone number, business phone number, and date of birth, demographic information, school information, and members’ divisions. While ASEE collects the aforementioned information and some of the information is required for membership or ASEE sponsored programs, individuals have the ability to view and modify their information, update their opt-in options, and requests de-identification of the information unless restricted by government regulations.
 
-* * *
+  5. **How We May Use Collected Information**
 
-##  Conference Paper Authoring
+ASEE may use the information we collect 
 
-When you submit an abstract we store information required to process your abstract (and later your completed paper) and contact you with information regarding the conference or the processing of your paper. You may also receive occasional information on other conference opportunities.
+    * to provide membership services and support,
+    * to provide services related to conferences and events and their activities, 
+    * to communicate information from ASEE and its components, ASEE’s business partners, and third party entities,
+    * for participation in government sponsored programs,
+    * to promote ASEE and ASEE’s sponsored activities, and 
+    * to identify trends and historical data
+  6. **Collection of Information from Minors**
+    * The membership, conference, and events services and support provided by ASEE are restricted to individuals over the age of 16. however, there may be situations when minors’ information is captured for activities sponsored for them in support of their parents or guardians attending an ASEE event and is restricted to first and last name.
+    * ASEE’s government sponsored programs may collect information on high school students who elect to participate in federally funded fellowship programs. 
+  7. **Disclosing/Sharing of Information Collected**
 
-* * *
+ASEE does not disclose information collected within our electronic application to external entities, with the exception of the following:
 
-##  Awards
+    * Information may be shared with business partners to provide mailing services on behalf of ASEE. This information is restricted to first name, last name, mailing address, and email address and you have the ability to change your opt-in status within your portal at any time.
+    * Membership information may be shared with ASEE’s volunteers and Board Members for the purpose of conducting ASEE’s official business. ASEE also makes names, titles, contact information, school affiliation, ASEE position held publicly available on ASEE’s website and other communications.
+  8. **Selecting Your Communication Preferences and Opting – In**
+    * You have the ability to modify your communication preference within ASEE’s membership and conference application. When you log into the system, a link to your opt-in/opt-out preferences are located to the right of the portal. 
+    * If you are participating in government fellowship sponsored programs, you understand you are agreeing an opt-in status to participate in the program allowing communication in relations to program activities and requirements.
+  9. **Viewing Your Personal Collected Data**
 
-When you provide a nomination or reference, personally identifiable information is stored that is used only for the awards process. No third parties are allowed access to this information.
+ASEE’s uses a membership and conference and a fellowship management application to collect information; therefore, you may view the information captured by logging into your portal. Members and registrants of ASEE’s membership and conference application may modify your information and opt-in choices within your member portal. 
 
-* * *
+  10. **Requesting Removal of Your Personal Information**
+    * The information collected within ASEE’s management and conference system for membership or conference activities have an indefinite life expectancy to retain trends and historical data. However, you may request a de-identification of your data which will remove your name, addresses (except state and country), email account, birthday, other demographic information and phone numbers. To request de-identification of your data, please contact the individuals listed under “Data Protection Contact in this document. Although the de-identification process will take place within 2 weeks of receipt of your request, due to ASEE’s backup procedures, the entire process may take approximately 4 to 8 weeks. 
+    * Government sponsored fellowship participants should contact their ASEE sponsor representative to discuss government regulations for removing and storing their data. 
+  11. **Security Safeguards of Personal Data**
 
-##  Classified Advertising
+ASEE’s implements reasonable physical, technical, and administrative measures and organizational safeguards to protect your personal data against unauthorized or unlawful processing, accidental loss, destruction, or damage. Please be aware all security risks cannot be fully eliminated and ASEE cannot guarantee or warrant the security of your data.
 
-Purchasing classified advertising results in storing personally identifiable information that is used only for processing your ad. No third parties are allowed access to this information.
 
-* * *
 
-##  Academic Survey Participants
-
-When you participate in the ASEE Academic Survey personally identifiable information is stored to allow authorized ASEE personnel to contact you regarding the survey. No third parties are allowed access to the contact information of the survey participant. However, survey data is published in accordance with the survey participant agreement and certain information is used to update the ASEE Membership Database. Please refer to the membership section of this document for further information.
 
 Top
 
-We take seriously your concerns about privacy and want you to be aware of the types of information we collect and what we do with it. These privacy practices pertain to the site you were at when you clicked through to this policy page. The information we collect and what we do with it depends on the area of the site you visit. Each will be addressed separately.
+## American Society for Engineering Education 
 
-* * *
+###  Privacy Policy
 
-##  Entire Web Site
+  
 
-Cookies, which are small amounts of information stored on your computer, are used to help keep track of what parts of the site you visit and if you return. There is no personal information collected, just an identifier of your computer so we can see if you return to the site. This information is used in aggregate to gather statistics to help us improve our web site for your benefit. The statistics are also used to help convince advertisers to place ads on our web site.
 
-* * *
+##### Effective Date: May 25, 2018
 
-##  Website Registration
+ASEE's privacy policy is presented below for your review. By continuing to use ASEE's websites and services, you expressly consent to our collection, use, disclosure, and retention of your personal information as described in this privacy policy
 
-When you register to use myASEE personally identifiable information is stored. The information is used primarily to customize your experience of our site. You may receive emails from ASEE departments containing items relating to engineering education. You personally identifiable information may be shared with other organizations or people who provide products or services to engineering educators and students. If you do not wish to have the information shared you may opt out of receiving any emails.
+The American Society for Engineering Education respects your privacy and is committed to protecting it through due diligence and compliance to this policy and in adherence to US and European guidelines. This policy describes the type of information ASEE may collect from you and our practices for collecting, using, maintain, and disclosing that information. 
 
-* * *
+This privacy statement applies to the American Society for Engineering (ASEE) and all of its legal components including divisions, councils, sections, and zones; however, it does not apply to ASEE’s business partners, third party associates and other external entities that should provide their privacy notice to you. This notice also does not apply to sponsor linked websites from ASEE’s managed web pages with which you may interact. 
 
-##  Membership
+For the purpose of this Privacy Statement, business partners and third party associates may refer to contractors, subcontractors, vendors, government and private contacts, and other entities with which ASEE has a business relationship to provide services or support for ASEE’s mission. 
 
-When you become a member of ASEE, renew your membership, or update your information we store data needed to maintain your membership. This personally identifiable information is used to mail membership benefits such as Prism magazine and email ASEE related information to you. Other departments within ASEE may send you information regarding engineering education. Division and section officers may contact you regarding their activities.
+ASEE reserves the right to modify this policy at any time and will provide notification of such changes on their website.
 
-Responsible third parties may purchase mailing lists in the form of address labels containing personally identifiable information to send items relating to engineering or engineering education; these mailing lists do NOT include e-mail addresses or telephone/fax numbers. You may opt out of having either surface mail or email sent to you.
+  1. **Acknowledging ASEE’s Privacy Policy**
 
-* * *
+ASEE recognizes your acknowledgement to this policy as an acceptance to the collection, usage, maintenance, retention, and disclosure of your information. 
 
-##  Fellowships and Research Opportunities
+  2. **Data Protection Contact**
 
-When you apply for a fellowship we store data required to process your application. This personally identifiable information is used only by ASEE staff and the sponsoring agency or their designated affiliate for processing of appointments or security clearances. No other third party is allowed access to this information.
+ASEE’ Sponsored Programs (Federal Contracts and Grants)  
+Charlene Bowman  
+Director of Sponsored Programs and Compliance  
+_aseesponsorprivacy@asee.org_
 
-* * *
+Membership  
+Tim Manicom  
+Director of Membership  
+_aseememberprivacy@asee.org_
 
-##  Conference Registration
+  3. **Why and How We Collect Personal Information**
+    1. Information you Directly and Voluntarily Provide to Us.
+      * Membership: ASEE is a member based society and collects information from its members’ for statistical purposes, member services and support, member communication, and member activities and event. The information is collected using ASEE’s member management and conference application; however, information may also be collected manually during member outreach activities for renewals and new membership.
+      * Conference/Event Management: ASEE offers an annual conference as well as sponsorship of special interest conferences and small meetings to provide professional development, presentation, and networking opportunities. The information is collected using ASEE’s member management and conference application when you register to attend, present, sponsorship, or as an exhibitor for these events. 
+    2. Information We Automatically Collect You 
+      * Website: We may automatically collect information about you when you use ASEE’s managed websites. During your interaction on ASEE’s managed websites, we may automatically collect analytics using web analytics services or cookies, such as the pages you visited, data and time of your visit, the amount of time spent on the site, and other statistical information. This information is collected to enhance the site performance and users ‘experience. You may modify your browser to manage settings to restrict or minimize this collection.
+  4. **What Personal Data We Collect**
 
-When you register to attend a conference we store information required to process your registration. The mailing address portion of this information is provided to exhibit floor vendors. You may opt out of the list. If you choose to have your badge scanned by a vendor in the exhibit hall, the vendor will also receive your e-mail address, phone and fax numbers. No other third party is allowed access to this personally identifiable information.
+ASEE collects first name, middle name, last name, home address, work address, personal contact phone number, business phone number, and date of birth, demographic information, school information, and members’ divisions. While ASEE collects the aforementioned information and some of the information is required for membership or ASEE sponsored programs, individuals have the ability to view and modify their information, update their opt-in options, and requests de-identification of the information unless restricted by government regulations.
 
-* * *
+  5. **How We May Use Collected Information**
 
-##  Conference Paper Authoring
+ASEE may use the information we collect 
 
-When you submit an abstract we store information required to process your abstract (and later your completed paper) and contact you with information regarding the conference or the processing of your paper. You may also receive occasional information on other conference opportunities.
+    * to provide membership services and support,
+    * to provide services related to conferences and events and their activities, 
+    * to communicate information from ASEE and its components, ASEE’s business partners, and third party entities,
+    * for participation in government sponsored programs,
+    * to promote ASEE and ASEE’s sponsored activities, and 
+    * to identify trends and historical data
+  6. **Collection of Information from Minors**
+    * The membership, conference, and events services and support provided by ASEE are restricted to individuals over the age of 16. however, there may be situations when minors’ information is captured for activities sponsored for them in support of their parents or guardians attending an ASEE event and is restricted to first and last name.
+    * ASEE’s government sponsored programs may collect information on high school students who elect to participate in federally funded fellowship programs. 
+  7. **Disclosing/Sharing of Information Collected**
 
-* * *
+ASEE does not disclose information collected within our electronic application to external entities, with the exception of the following:
 
-##  Awards
+    * Information may be shared with business partners to provide mailing services on behalf of ASEE. This information is restricted to first name, last name, mailing address, and email address and you have the ability to change your opt-in status within your portal at any time.
+    * Membership information may be shared with ASEE’s volunteers and Board Members for the purpose of conducting ASEE’s official business. ASEE also makes names, titles, contact information, school affiliation, ASEE position held publicly available on ASEE’s website and other communications.
+  8. **Selecting Your Communication Preferences and Opting – In**
+    * You have the ability to modify your communication preference within ASEE’s membership and conference application. When you log into the system, a link to your opt-in/opt-out preferences are located to the right of the portal. 
+    * If you are participating in government fellowship sponsored programs, you understand you are agreeing an opt-in status to participate in the program allowing communication in relations to program activities and requirements.
+  9. **Viewing Your Personal Collected Data**
 
-When you provide a nomination or reference, personally identifiable information is stored that is used only for the awards process. No third parties are allowed access to this information.
+ASEE’s uses a membership and conference and a fellowship management application to collect information; therefore, you may view the information captured by logging into your portal. Members and registrants of ASEE’s membership and conference application may modify your information and opt-in choices within your member portal. 
 
-* * *
+  10. **Requesting Removal of Your Personal Information**
+    * The information collected within ASEE’s management and conference system for membership or conference activities have an indefinite life expectancy to retain trends and historical data. However, you may request a de-identification of your data which will remove your name, addresses (except state and country), email account, birthday, other demographic information and phone numbers. To request de-identification of your data, please contact the individuals listed under “Data Protection Contact in this document. Although the de-identification process will take place within 2 weeks of receipt of your request, due to ASEE’s backup procedures, the entire process may take approximately 4 to 8 weeks. 
+    * Government sponsored fellowship participants should contact their ASEE sponsor representative to discuss government regulations for removing and storing their data. 
+  11. **Security Safeguards of Personal Data**
 
-##  Classified Advertising
+ASEE’s implements reasonable physical, technical, and administrative measures and organizational safeguards to protect your personal data against unauthorized or unlawful processing, accidental loss, destruction, or damage. Please be aware all security risks cannot be fully eliminated and ASEE cannot guarantee or warrant the security of your data.
 
-Purchasing classified advertising results in storing personally identifiable information that is used only for processing your ad. No third parties are allowed access to this information.
 
-* * *
 
-##  Academic Survey Participants
-
-When you participate in the ASEE Academic Survey personally identifiable information is stored to allow authorized ASEE personnel to contact you regarding the survey. No third parties are allowed access to the contact information of the survey participant. However, survey data is published in accordance with the survey participant agreement and certain information is used to update the ASEE Membership Database. Please refer to the membership section of this document for further information.
 
 Top
