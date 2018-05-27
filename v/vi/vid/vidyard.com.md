@@ -1,154 +1,294 @@
-> *The following text is extracted and transformed from the vidyard.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004133005id_/https%3A//www.vidyard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidyard.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527205757id_/https%3A//www.vidyard.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Vidyard
 
-## Last Updated: July 18, 2014
+Welcome! This **Privacy Policy** (this “Policy”) explains how we at Buildscale, Inc. (“ **Buildscale** ”), operating as Vidyard (“ **Vidyard** ”), collect, use, disclose and otherwise process personal information. We understand that you are aware of and care about your own personal privacy interests, and we take that seriously. This Policy describes the personal information we may collect from you, the purposes for which we collect it, how we use it and how we keep it secure. This Policy also describes the choices you can make about your personal information, including how you can manage, delete or have access to your personal information. Vidyard will not collect, use or disclose your personal information other than in compliance with this Policy.
 
-Please read this privacy policy (the "Privacy Policy") carefully to understand how Buildscale Inc., operating as Vidyard, its subsidiary and affiliate corporations, successors, and assigns (collectively, "Buildscale", “our”, “us” or “we”) uses and protects the information that we collect from visitors to the vidyard.com, all other websites owned and operated by Buildscale that redirect to vidyard.com and all subdomains of vidyard.com, (collectively, the “Vidyard Site”), our customers (“Customers”), viewers of our Customers’ videos (“Viewers”) and other users (“Users”) of the Vidyard Properties (as defined below).
+Click on any of the links below to read a summary for that topic. If you want learn further detailed information, click “Read More” in that section.
 
-This Privacy Policy applies to information collected by Buildscale through the Vidyard Site, any Buildscale computer software downloadable or otherwise available from the Vidyard Site ("Vidyard Software") and any Buildscale services purchased or otherwise made available from the Vidyard Site ("Buildscale Services") (collectively, the "Vidyard Properties").
+Vidyard is headquartered in Kitchener, Ontario, Canada. Vidyard has appointed an internal data protection officer for you to contact if you have any questions or concerns about Vidyard’s personal data policies or practices. Vidyard’s data protection officer’s name and contact information are as follows:
 
-This Privacy Policy does not apply to the practices of any third party websites, applications or services that Buildscale does not own or maintain (collectively, “Third Party Services”) or to any third parties who use the Vidyard Application Programming Interface (API) to perform any function related to the Vidyard Properties (“Integrated Platforms”). Specially, this Privacy Policy does not cover any information or other content you can view via the Vidyard Properties on Integrated Platforms or information you provide to Third Party Services accessed via the Vidyard Properties. As further detailed below, we cannot take responsibility for the content or privacy policies of any Third Party Services. If you are a Viewer we encourage you to carefully review the privacy policies of the Vidyard Customer whose Content you view and the privacy policies of any Integrated Platforms or Third Party Services used by such Customer which you may access via the Vidyard Properties.
-
-This Privacy Policy also does not cover any information, recorded in any form, about more than one individual where the identity of the individuals is not known and cannot be inferred from the information (“Aggregated Information”). Buildscale retains the right to use Aggregated Information in any way that it reasonably determines is appropriate.
-
-By using a Service or otherwise providing us with your Personal Information, you are accepting the practices described in this Privacy Policy, as they may be amended by us from time to time, and agreeing to our collection and use of your information in accordance with this Privacy Policy. If you do not agree to the collection, use and disclosure of your information in this way, please do not use any of the Vidyard Properties or otherwise provide Buildscale with Personal Information (as defined below).
-
-The terms in this Privacy Policy may be changed so you should review it periodically for changes. We reserve the right, at any time, to modify or replace the Privacy Policy. The most recent version of the Privacy Policy is available at <https://www.vidyard.com/privacy-policy/>. Please check the Privacy Policy periodically for changes, though we may also notify you via email or other direct electronic communication method of any changes that, in our sole discretion, materially impact your use of the Vidyard Properties or the treatment of your Personal Information. Your use of the Vidyard Properties following the posting of any changes to the Privacy Policy constitutes acceptance of those changes.
-
-## A. WHAT INFORMATION BUILDSCALE COLLECTS FROM YOU
-
-Buildscale collects only the information required to provide products and services to you. The amount of information provided by you and collected by Buildscale depends on the circumstances. Buildscale may collect two (2) types of information about you: Personal and Non-Personal.
-
-1\. "Personal Information." Personal Information refers to any information about an identifiable individual (e.g. name, mailing address, telephone number and e-mail address), or an individual whose identity may be inferred or determined from the information. Buildscale may collect Personal Information when you use the Vidyard Properties including, without limitation, setting up account information, filling out surveys, corresponding with Buildscale, or otherwise volunteering information about yourself.
-
-2\. "Non-Personal Information." Non-Personal Information refers to information that, by itself, does not identify you as a specific individual (e.g. demographic information or website visitations). Buildscale may collect Non-Personal Information through any of the methods discussed above as well as automatically through use of industry standard technologies described further below.
-
-## B. HOW BUILDSCALE COLLECTS YOUR INFORMATION
-
-1\. Registration. Prior to using one or more of the Vidyard Properties, Buildscale may require you to provide us with certain Personal Information and Non-Personal Information to create an account ("Account") or to enable features or functionality of the Vidyard Properties.
-
-For Customers, Buildscale may gather Personal Information about organizational representatives via various methods (phone, email, online forms, in-person meetings) but only if such Personal Information is submitted voluntarily. Buildscale may use such Personal Information for sales, marketing, and support of the Vidyard Properties. This Personal Information is never shared with third parties other than Third Party Service Providers utilized by a Customer in connection with Buildscale Services.
-
-2\. User communications: When you send email or other communications to Us, We may retain those communications in order to process your inquiries, respond to your requests and improve the Vidyard Properties.
-
-3\. Payment Information: Payment Information: When creating an Account, for certain Vidyard Properties, or when you make online purchases, you may be asked to provide information, which may include your payment instrument number (e.g., credit card), your name and billing address, and the security code associated with your payment instrument (e.g., the CSV) and other financial data ("Payment Information"). We use Payment Information to complete transactions, as well as for the detection and prevention of fraud. When you provide Payment Information while authenticated, we will store that data to help you complete future transactions without your having to provide the information again. We do not, however, retain the security code associated with your payment instrument (e.g., the CSV) in this manner. To remove or modify Payment Information, please contact us. After you close your account or remove Payment Information, however, we may retain your Payment Information for as long as reasonably necessary to complete your existing transaction and for the detection and prevention.
-
-4\. Information Collected Through Technology. Buildscale automatically collects and receives certain information from your computer or mobile device, including the activities you perform on the Vidyard Site, the Buildscale Software and the Buildscale Services, the type of hardware and software you are using (for example, your operating system or browser), and information obtained from cookies (see below). If you have an Account, we may link this Non-Personal Information to your Account to better understand your needs and the needs of Users in the aggregate, diagnose problems, analyze trends, provide services, improve the features and usability of the Vidyard Properties, and better understand and market to our customers and Users.
-
-We use technology to automatically gather information by the following methods:
-
-(a) Cookies. Buildscale uses cookies on the Vidyard Site and other aspects of the Vidyard Properties. Cookies, including local shared objects, are small pieces of information that are stored by your browser on your computer's hard drive which work by assigning to your computer a unique number that has no meaning outside of the Vidyard Properties. Cookies do not generally contain any Personal Information. Most web browsers automatically accept cookies, but you can usually configure your browser to prevent this. Not accepting cookies may make certain features of the Vidyard Properties unavailable to you.
-
-(b) IP Address. You may visit many areas of the Vidyard Site anonymously without the need to become a registered User. Even in such cases, Buildscale may collect IP addresses automatically. An IP address is a number that is automatically assigned to your computer whenever you begin services with an Internet services provider. Each time you access the Vidyard Site and each time you request one of the pages of the Vidyard Site, the server logs your IP address.
-
-(c) Web Beacons. Web beacons are small pieces of data that are embedded in web pages and e-mails. Buildscale may use these technical methods in HTML e-mails that Buildscale sends to Users to determine whether they have opened those e-mails and/or clicked on links in those e-mails. The information from use of these technical methods may be collected in a form that is Personal Information.
-
-(d) Tracking Content Usage. If you use the Buildscale Services and you post audio visual materials including, without limitation, videos, links, logos, artwork, graphics, pictures, advertisements, sound and other related intellectual property contained in such materials (collectively, "Content") to your website or to a third party website, Buildscale tracks and captures Non-Personal Information associated with User accounts and the use of Content by those that access your Content.
-
-5\. Information You Provide About a Third Party
-
-You may have the opportunity to communicate with others from the Vidyard Properties, such as by sending an invitation to a friend. If you choose to take advantage of this functionality, we may ask you to provide us with certain information about the person with whom you wish to communicate (e.g., name, e-mail address, etc.). Buildscale collects such information for the purposes of facilitating the requested communication, which may contain a specific promotional message from you (e.g., an invitation to watch a video). Unless we explicitly say otherwise, Buildscale will not use this information for other marketing purposes without first obtaining consent from the person to whom the relevant information pertains. Please be aware that when you use any invitation functionality on the Vidyard Properties, your e-mail address, name or username, and message may be included in the communication sent to your addressee(s).
-
-## C. HOW BUILDSCALE USES YOUR INFORMATION
-
-1\. Personal Information
-
-Buildscale identifies the purpose for which your Personal Information is collected and will be used or disclosed. If that purpose is not listed below, we will identify any additional purposes for which we will collect your Personal Information, before or at the time of collection, and we will obtain your consent to collect, use or disclose your Personal Information for such additional purpose(s).
-
-By using the Vidyard Properties, you will be deemed to consent to our use of your Personal Information for the purposes of:
-
-  * communicating with you generally;
-  * processing your purchases;
-  * processing and keeping track of transactions and reporting back to you;
-  * protecting against fraud or error;
-  * providing information or services requested by you;
-  * administering and managing the Vidyard Properties and our business operations;
-  * personalizing your experience with the Vidyard Site, as well as evaluating statistics on Vidyard Site activity;
-  * performing statistical analyses of your behavior and characteristics, in order to measure interest in and use of the various sections of the Vidyard Site;
-  * communicating with you on other websites;
-  * e-mail gating;
-  * delivery of content and information to Third Party Services Providers;
-  * complying with legal and governmental requirements; and/or
-  * fulfilling any other purpose that would be reasonably apparent to the average person at the time that we collect it. 
-
-
-
-Customers utilize Vidyard Properties to manage and deliver Content to Viewers. As part of this process Buildscale may collect from you Personal Information. Please see Section D to understand what Vidyard may do with this information.
-
-Otherwise, we will obtain your express consent (by verbal, written or electronic agreement) to collect, use or disclose your Personal Information. You can change your consent preferences at any time by contacting us (see the “How to Access and Change Your Personal Information” section below).
-
-2\. Non-Personal Information
-
-Buildscale may use Non-Personal Information for the following purposes:
-
-  * System Administration: Buildscale may use Non-Personal Information for the purposes of system administration, assisting in diagnosing problems with Buildscale servers, monitoring Buildscale's system performance and traffic on the Vidyard Properties and to gather broad demographic information about Buildscale customers.
-  * Personalization: Buildscale uses Cookies and IP Addresses to track features such as delivering Content specific to your interests and informing you of new, relevant services or certain third party offerings.
-  * Advertising: Buildscale may use Non-Personal Information to assist in optimizing the delivery of advertisements to viewers of your Content.
-
-
-
-## D. HOW TO ACCESS AND CHANGE YOUR PERSONAL INFORMATION
-
-1\. Updating Your Personal Information
-
-Upon request, Buildscale shall allow Users to update or correct Personal Information previously submitted, but only to the extent such activities will not compromise privacy or security interests. Additionally, upon request, Buildscale shall delete Personal Information from the database where such information is stored; however, it may be impossible to entirely delete a User's entry without some residual information being retained due to the manner in which data backups are maintained. Requests to delete Personal Information may be submitted to help@vidyard.com.
-
-2\. E-mail Preferences
-
-Buildscale may use your Personal Information to send you e-mails periodically listing promotions or events relating to the Vidyard Properties or from Buildscale's marketing partners or sponsors. You have the choice to opt-out of receiving such promotional e-mails by sending an e-mail to privacy@vidyard.com and/or following the instructions in such correspondence. Once Buildscale's has processed your opt-out request, Buildscale will not send you promotional e-mails unless you opt back in to receiving such communications.
-
-## E. DISCLOSURE OF INFORMATION TO THIRD PARTIES
-
-Except as described below, we do not sell, transfer or otherwise disclose, sell, trade, or otherwise transfer your Personal Information to outside parties. This statement does not include trusted third party service providers who assist us in administering and providing the Vidyard Properties or provide services to us. Examples include storing and managed Content, analyzing data, providing marketing assistance, integrations of Third Party Services such as CRM and MAP services, processing credit card payments, and providing customer service. These third party service providers will have access to Personal Information needed to perform their functions, but may not use it for other purposes. We may use service providers located outside of Canada, and, if applicable, your Personal Information may be processed and stored in other countries and therefore may be subject to disclosure under the laws of those countries.
-
-We may share Payment Information with third parties for purposes of fraud prevention or to process payment transactions.
-
-We may also release your information when we believe release is appropriate to comply with the law, enforce our policies, or protect our or others’ rights, property or for safety. We may also provide non-Personal Information to other parties for marketing, advertising or other uses.
-
-Information, including Personal Information, which we collect from Customers, Viewers and other Users, is considered to be a business asset. As a result, in the unlikely event that we go out of business, enter bankruptcy or if we are acquired as a result of a transaction such as a merger, acquisition or asset sale, your Personal Information may be disclosed or transferred to the third-party acquirer in connection with the transaction.
-
-Lastly, we may provide Customers with certain identifiable usage information directly related to the videos and/or other Content that they make available through the Vidyard Properties. Such information may include how many and which Content of a particular Customer was watched by a particular Viewer, from where a particular Content was watched by a particular Viewer and how many times a particular Content was watched by a particular Viewer. In addition, if you, as a Viewer, provide Personal Information (e.g. e-mail address) as part of accessing and viewing Content, that Personal Information may be collected by us, a provider of Third Party Services or an Integrated Platform on behalf of the Customer who owns the Content and shared with that Customer or Third Party Service providers to that Customer, as we and others are their service provider. The use of such information will be subject to the information and privacy practices and policies of such Customers and Buildscale will not be responsible or liable or the use of any information by such Customers and any Buildscale will not be responsible for their use of your information.
-
-Under certain exceptional circumstances, Buildscale may have a legal duty or right to collect, use or disclose your Personal Information without your knowledge or consent. In accordance with applicable laws, We will not disclose any consumer information (which may include Personal Information) without your written consent, except where consumer information is required to be disclosed: (i) for billing or market operation purposes; (ii) for law enforcement purposes; or (iii) for the purpose of complying with a legal requirement.
-
-You are deemed to consent to disclosure of your information for the above purposes. If your Personal Information is shared with third parties other than Customers, those third parties may be, but are not always, subject to appropriate agreements with Buildscale and/or its Customers to secure and protect the confidentiality of your Personal Information.
-
-## F. SAFEGUARDING YOUR PERSONAL INFORMATION
-
-Buildscale takes appropriate security measures to protect against unauthorized access, alteration, disclosure or destruction of Personal Information. These include, but are not limited to, internal reviews of: (a) Buildscale's data collection; (b) storage and processing practices; (c) electronic security measures; and (d) physical security measures to guard against unauthorized access to systems where Buildscale stores Personal Information.
-
-Unfortunately, no data transmission over the internet can be guaranteed to be 100% secure. As a result, while we are committed to protecting your Personal Information, we cannot ensure or warrant the security of any information you provide to us.
-
-All Buildscale employees, contractors and agents who access Personal Information are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution or unauthorized use or disclosure of Personal Information.
-
-Some or all of the Personal Information we collect may be stored or processed on servers located outside your jurisdiction of residence, whose data protection laws may differ from the jurisdiction in which you live. As a result, this information may be subject to access requests from governments, courts, or law enforcement in those jurisdictions according to laws in those jurisdictions.
-
-## G. A NOTE ABOUT CHILDREN
-
-Protecting the safety of children when they use the Internet is very important to us. The Vidyard Properties should only be accessed by individuals of Minimum Age. “Minimum Age” may mean different ages in different countries, depending on where the individual accesses the services. For reference, “Minimum Age” shall mean (a) 14 years old for the United States, Canada, Germany, Spain, Australia, and South Korea; and (b) 13 years old for all other countries. However, if applicable law requires that you must be older than such ages in order for Buildscale to lawfully provide the Vidyard Properties to you (including the collection, storage, and use of your information in accordance with this Privacy Policy), and then the Minimum Age would be such older age. The Vidyard Properties are not designed nor intended for use by children or anyone else under the age of 13.
-
-## H. THIRD PARTY WEBSITES AND SERVICES
-
-The Vidyard Properties may contain links to third party websites or services, including Third Party Services, (collectively, “Third Party Sources”) who may collect Personal Information and Non-Personal Information directly from you. Links to Third Party Sources are intended for convenience only. Third Party Sources are wholly independent from Buildscale. Third Party Source may have separate privacy policies and data collection practices, independent of Buildscale. Buildscale: (a) has no responsibility or liability for these independent policies or actions; (b) is not responsible for the privacy practices or the content of such websites; and (c) does not make any warranties or representations about the contents, products or services offered on such websites or the security of any information you provide to them.
-
-## I. HOW TO CONTACT US
-
-If you have any questions or concerns about our privacy policy or privacy practices, you may contact us directly as follows:
-
-Email us: [legal@vidyard.com](mailto:legal@vidyard.com)
-
-or:
+Jonathan Dunlop
 
 Buildscale Inc.  
 8 Queen St. N, Unit #1  
 Kitchener, ON, Canada  
+N2H 2G8  
+[dpo@vidyard.com](mailto:dpo@vidyard.com)  
+[1-800-530-3878](tel:18005303878)
+
+What is personal information?
+
+Personal information is information that is about you as an identifiable individual. If you are a business customer it does not include your name and business contact information. Aggregated, statistical or de-identified information is not personal information. Information generated through your use of our websites or watching videos will not be personal information unless we can combine it with other information that would identify you.
+
+When does this Privacy Policy apply?
+
+Vidyard is a video platform service that helps businesses transform communications and sales through the use of online video. This Privacy Policy explains how we collect, use and disclose your personal information in the course of our business. This Privacy Policy also covers the information we may collect offline, such as when you telephone us, visit us in person or interact with us at an event, for example enter a contest or speak to us at a trade show. When our customers collect your personal information through our video platform service in the course of their business, their use of your personal information is governed by their privacy policy, not ours.
+
+This Privacy Policy applies to the personal information we collect and use when you:
+
+  * Visit and interact with the Vidyard Websites.
+  * Interact with the Vidyard Services.
+  * Communicate and interact with us on the telephone, in person or through other means.
+
+
+
+This Privacy Policy does not apply to the practices of third parties that use the Vidyard Services to distribute or show you videos or other content using our services. You should review the privacy policies of those third parties for information on how they use your personal information. Please contact our Data Protection Officer if you have any questions in this regard or require assistance in contacting a third party.
+
+Also, the Vidyard Websites and Vidyard Services may contain links to third party websites or services. These links are intended for your convenience only. These websites and services are wholly independent from Buildscale and may have separate privacy policies and data collection practices, independent of Buildscale. We have no responsibility or liability for these websites, their policies or their privacy practices. We encourage you to read the privacy policy of any websites you visit.
+
+What are the Vidyard Websites and Services?
+
+The Vidyard Websites include our website [www.vidyard.com](https://web.archive.org/), any subdomains, and any other Buildscale websites. Our Services include downloadable computer software and any products or services purchased or otherwise made available from Vidyard Websites.
+
+Vidyard’s Services include video content libraries and distribution platforms that third parties can use to show viewers their videos.
+
+How do we obtain your agreement?
+
+By using the Vidyard Websites or the Vidyard Services you agree to the practices outlined in this Privacy Policy. If you do not agree, you should not interact with any Vidyard Websites or use any of the Services, or otherwise provide Vidyard with your personal information.
+
+When and how do we collect directly from you?
+
+In most cases, we collect information about you when you give it directly to us. For example, we you create an account or purchase our services. We also collect information when you call us, visit our offices or interact with us at an event. Also, like many websites and technologies, we automatically collect technical data when you visit and interact with Vidyard Websites and Vidyard Services.
+
+Vidyard collects personal information that you give to us when you:
+
+  * Use the Vidyard Websites to sign up for newsletters, download a report or software, enter a contest, participate in a survey.
+  * Communicate with us through email, chat, or social media, or by phone or any other means.
+  * Register for an account to use the Vidyard Services.
+  * Provide us with your name, email address or other identifying information before or after viewing a video provided through the Vidyard Websites or the Vidyard Services.
+  * Visit us in person and check into reception.
+  * Enter a contest at an event.
+
+
+
+We may also collect:
+
+  * Technical information about your use of the Vidyard Websites and the Vidyard Services.
+  * Information from our sales and advertising partners.
+  * Publicly available information in online directories or social media, for example your business contact information may be enriched with data from LinkedIn.
+
+
+
+We may combine your personal information with other information we receive.
+
+What type of information do we collect?
+
+We collect a variety of data including your contact information, payment details, business information, user uploaded content, and communications you have with our team. The precise types of information that is collected will depend on your interaction with Vidyard, Vidyard Websites or the Vidyard Services.
+
+Here are some examples of the personal information we collect:
+
+  * Contact information, including name, mailing address, telephone number, and email address.
+  * Financial information, including credit card number, security code, billing address, authentication and security information and other billing data.
+  * Business information, including business name, title, employee information, business contact information and location.
+  * Images and videos, such as the images you upload to your Account and video content you upload through our Services.
+  * Job application information, including name, address, employment history, education background, interests and other information included in cover letters, resumes and job applications.
+  * Visitor information, including name, organization information and photo for identification purposes.
+  * Communication information, such as the content of your inquiries, complaints and feedback directed to our team.
+
+
+
+We may also collect:
+
+  * Technical information about your use of the Vidyard Websites and the Vidyard Services.
+  * Information from our sales and advertising partners.
+  * Publicly available information in online directories or social media, for example your business contact information may be enriched with data from LinkedIn.
+
+
+
+We may combine your personal information with other information we receive.
+
+Does Vidyard use cookies and other technologies to collect technical data?
+
+When you visit the Vidyard Websites, we receive data from your devices, including your IP address. This technical data generally will not identify you as a visitor. However, in some instances, this technical data may be linked to you if you have given us identifying information about you.
+
+Like many websites, Vidyard uses cookies, etags, web beacons and other similar technologies to automatically collect certain technical data from your computer or mobile device. The data we collect includes your IP address, browser type, how you interact with the Vidyard Websites and more. We use this data for several reasons, such as to customize your experience or to assist Vidyard and our partners with targeted advertising.
+
+While some visitors to the Vidyard Websites may not be identified by the technical data that is collected, others may be, for example if you have an Account, the technical data will be linked to you.
+
+We encourage you to visit and read our separate [Cookies and Advertising Policy](https://web.archive.org/cookies/) to learn more, including what choices you have with respect to the use of cookies, tracking and targeting advertising.
+
+What are business analytics and aggregated data?
+
+Business analytics involves the analysis of data to understand trends and insights about how individuals use the Vidyard Websites and the Vidyard Services. Aggregated data means data that is combined so that you are no longer identifiable. We use analytics and aggregated data to improve our business.
+
+Vidyard uses business analytics to help us to better understand the functionality of the Vidyard Websites and the Vidyard Services. The information gathered includes how often you use our Services, which features you use or don’t use, aggregated usage and performance data.
+
+Vidyard also anonymizes personal information and technical data in a manner that can no longer identify you individually. We use aggregate data to help us understand how customers, viewers and other individuals use and interact with the Vidyard Websites and Services, to improve our products, services and brands, generate reports and market Vidyard.
+
+We may also provide the insights we learn from business analytics and aggregated information to our partners and customers, who may use such information to understand how often and in what ways people use the Vidyard Websites and the Vidyard Services.
+
+For what purpose do we collect your information?
+
+We use your personal information to communicate with you, to provide you with assistance, products and services that you request, and to adapt the Vidyard Websites and the Vidyard Services to your interests. We also use your personal information to understand how you use the Vidyard Websites and the Vidyard Services to protect and improve our business.
+
+Here are examples of the purposes for which we use your personal information (and the associated lawful basis for doing so):
+
+ **Your consent:**
+
+  * Reviewing and processing job applications.
+  * Personalizing your experience with the Vidyard Websites.
+  * Marketing our products, services and brand, including administering contests and public events.
+
+
+
+ **For the performance of a contract or agreement:**
+
+  * Processing your purchases, including keeping track of transactions and reporting back to you.
+  * Providing information or services requested by you.
+  * Permitting you to send invitations friends to use our Services.
+  * Assisting in optimizing the delivery of your content to viewers.
+  * E-mail gating of Content.
+  * Delivery of Content and information to third party services and partners.
+
+
+
+ **Our legitimate interests, which we have balanced with the interests of our clients, suppliers and business contacts:**
+
+  * Communicating with you in accordance with applicable law.
+  * Administering and managing the Vidyard Websites and our business operations.
+  * Protecting against fraud or error.
+  * Evaluating statistics on Vidyard Websites activity.
+  * Performing statistical analyses of your behavior and characteristics, in order to measure interest in and use of the various sections of the Vidyard Websites.
+  * Assisting in diagnosing problems with Buildscale servers.
+  * Fulfilling any other purpose that would be reasonably apparent to the average person at the time that we collect it.
+
+
+
+ **Compliance with a legal obligation to which we are subject:**
+
+  * Complying with legal and governmental requirements.
+
+
+
+From time to time, we collect personal information for other purposes. In that case, we will identify any additional purposes for which we will collect your personal information, before or at the time of collection, and we will obtain your consent to collect, use or disclose your information for such additional purpose(s).
+
+Tell me about Vidyard and social media
+
+If you link your Vidyard account with your favorite social media profile such as Google+ or Facebook, we may collect certain information from the social media platform. The social media integration function is optional and can be removed at any time.
+
+You may choose to integrate your Vidyard account with various social media platforms such as Facebook, Twitter, LinkedIn, and Google+. This functionality is optional and you can link and unlink your account at any time. If you do decide to integrate, Vidyard may collect some of the following personal information from your social media profile:
+
+  * The name associated with your account.
+  * The ID/username associated with your account.
+  * For YouTube, the day by day view count from videos on your YouTube channel that are associated with videos on your Vidyard account.
+
+
+
+If you wish to unlink your account from your social media profile, simply log into your account, select “Groups” and click “Integrations”. Select the specific Integration and click “Remove” next to the social media profile you would like to unlink.
+
+Tell me about uploaded content and third-party information
+
+When you post audio-visual materials to your website or to a third party website, we collect information about your account and the use of the content that you post. If you use our invitation features, such as chats and sending invitations to friends, Vidyard may collect some information from them.
+
+Integrating Vidyard Services with third party websites (such as Salesforce, HubSpot and Marketo) is optional and you can unlink your account at any time. More information about how you can manage each of these integrations can be found [here](https://knowledge.vidyard.com/33026-integrationsr).
+
+If you use the Vidyard Services and you post audio visual materials including, without limitation, videos, links, logos, artwork, graphics, pictures, advertisements, sound and other related intellectual property contained in such materials to your website or to a third party website, Vidyard tracks and captures information associated with your account and the use of the content by those, such as viewers, that access your content.
+
+Some Vidyard Services will provide you the opportunity to communicate with others, such as by sending an invitation to a friend. If you choose to take advantage of this functionality, Vidyard Services may require you to provide Vidyard with certain information about the person with whom you wish to communicate (e.g., name, e-mail address, etc.). When using this functionality, you must have the individual’s permission to provide Vidyard with their information. Vidyard uses the information for the purposes of facilitating the requested communication. Please be aware that when you use any invitation functionality, your e-mail address, name or username, and message may also be included in the communication sent to your addressee(s).
+
+When does Vidyard share or disclose personal information?
+
+Sometimes, Vidyard shares or discloses your personal information and technical data to outside parties, such as our partners and service providers. For example, Vidyard shares information with our service providers who assist Vidyard with marketing, data hosting and credit card payments. Vidyard may disclose personal information due to legal requirements or enforcement, such as defending against legal claims or to investigate and prevent illegal activities. We may also disclose viewer data to our customers, such as how many times a video was watched and location of the viewers.
+
+Vidyard may share and disclose information and technical data in the following circumstances:
+
+  *  **Trusted third party service providers**. Vidyard uses third parties to assist us in administering and providing the Vidyard Websites and Vidyard Services or to provide other services on our behalf. Examples include managing content, analyzing data, providing marketing assistance, integrations of third party services such as CRM and MAP services, processing credit card payments and providing customer service.
+  *  **Legal requests**. Vidyard may disclose personal information when required by law to respond to subpoenas, court orders or other legal process by authorities with jurisdiction.
+  *  **Enforcement**. Vidyard may disclose personal information in order to establish or exercise our legal rights, or to defend against legal claims, or when we believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, data breaches, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Use, or as otherwise required by law.
+  *  **Business transaction**. In the unlikely event that we go out of business, enter bankruptcy or if we are acquired as a result of a transaction such as a merger, acquisition or asset sale, your personal information may be disclosed or transferred to the third-party acquirer in connection with the transaction.
+  *  **Customer content**. Some of our Vidyard Services enable you, as customers, to upload, manage and publish content to a customer’s own website or to third party websites. Any information that you disclose through the uploaded content may become publicly available. As we are not responsible for any personal information you disclose through Vidyard Services, we recommend that you exercise caution when deciding to disclose personal information through this functionality.
+
+
+
+If you are from the European Union, Vidyard will only transfer your personal information if the appropriate safeguards required by the GDPR are in place.
+
+Information collected by our customers using Vidyard services
+
+We may provide customers with certain identifiable usage information directly related to the videos and other content that they make available through the Vidyard Services. This includes information about who specifically viewed the content and how many times a particular content was watched by a particular viewer. Viewers should be aware that customers may share such usage information with other third parties. We are not responsible for the use of any information by such customers and their third party services. With that said, Vidyard requires all customer to use the Vidyard Services in line with applicable laws. Please contact our Data Protection Officer if you have any questions in this regard or require assistance in contacting a one of our customers.
+
+Here are examples of the personal information tour customer may attempt to collect with the Vidyard Services:
+
+  * Standard contact information such as name, title, email address, physical address, phone number, etc.
+  * Information about an individual’s computer or mobile device or technology usage, including (for example) IP address, MAC address, unique device identifiers, unique identifies set in cookies, and any information passively captured about a person’s online activities, browsing, application or hotspot usage or device location.
+
+
+
+The Vidyard Services are not intended to be used to collect special categories of personal information such as racial or ethnic origin, religious or philosophical beliefs, genetic data, or sexual orientation etc. In the rare case that our customer may attempt to collect special categories of personal information using the Vidyard Services, it will be be provided by you knowingly (for example: by you choosing to disclose it.)
+
+How does Vidyard keep personal information safe?
+
+The security of your personal information is important to us. Although we cannot guarantee 100% security, we use reasonably appropriate security measures to protect your personal information against unauthorized use, access, modification, destruction or disclosure. We require our third party service providers to use similar safeguards to those we use.
+
+We employ reasonably appropriate security measures to protect personal information against loss, unauthorized use, access, alteration, modification, disclosure or destruction. These measures include physical, organizational and technological measures. If we use third parties to help us provide our Services, we require such service providers to use similar safeguards to those we use. We also require service providers to limit access to your personal information and to keep it strictly confidential. Service providers are only permitted to use your personal information for the sole purpose of carrying out services on our behalf.
+
+As businesses like Vidyard move towards greater use of technology, there is also an increasing drive to keep information secure and confident. Vidyard’s privacy and information technology compliance program has been independently audited and certified against globally recognized standards.
+
+However, no data transmission over the internet can be guaranteed to be 100% secure. As a result, while we are committed to protecting your personal information, we cannot ensure or warrant the security of any information you provide to us.
+
+Where is personal information stored?
+
+Vidyard has its headquarters in Canada and the Vidyard Services are hosted in Canada and the United States. Some or all of the personal information we collect may be stored or processed on servers located in Canada and the United States.
+
+Canada has received a finding of “adequacy” from the European Union under Article 45 of the GDPR.
+
+The United States has not sought nor received a finding of “adequacy” from the European Union. Vidyard relies on derogations for specific situations as set forth in Article 49 of the GDPR. In particular, Vidyar collects and transfers to the U.S. personal data only: with your consent; to perform a contract with you; or to fulfill a compelling legitimate interest of Vidyard in a manner that does not outweigh your rights and freedoms.
+
+Further, information may also be stored outside the country you reside, whose privacy and data protection laws may differ from your jurisdiction. As a result, this information may be subject to access requests from governments, courts, or law enforcement in those jurisdictions according to laws in those jurisdictions.
+
+Vidyard endeavors to apply suitable safeguards to protect the privacy and security of your personal data and to use it only consistent with your relationship with Vidyard and the practices described in this Privacy Notice. Vidyard also minimizes the risk to your rights and freedoms by not collecting or storing sensitive information about you.
+
+Protecting the safety of children when they use the Internet is very important to us. The Vidyard Websites and Vidyard Services are not designed or intended for use by children or anyone under the age of 13. Vidyard does not knowingly collect the information from children. Please contact us at [privacy@vidyard.com](mailto:privacy@vidyard.com) for any concerns or questions about children’s personal information.
+
+Your California Privacy Rights
+
+Do you live in California? California Civil Code Section 1798.83 permits California residents that use the Vidyard Websites and Vidyard Services to request certain information regarding how Vidyard discloses their personal information to third parties for such third parties’ direct marketing purposes, and what choices they have.
+
+If this applies to you and you would like to make such a request, please contact us at [privacy@vidyard.com](mailto:privacy@vidyard.com). Please include the following in the subject line: **Attention: Privacy Officer - California Privacy Rights.**
+
+Also, we must let you know about Do Not Track signals. Some browsers support a “Do Not Track” feature, which is intended to be a signal to websites that you do not wish to be tracked across different websites you visit. Vidyard Websites do not currently change the way they operate based upon detection of a Do Not Track or similar signal.
+
+You have options when it comes to your personal information.
+
+Opt-out of email communications. If you have subscribed to receive periodic promotional and marketing emails from Vidyard and would like to now opt-out, you can do so by any of the following options:
+
+  * Clicking ‘unsubscribe’ in the email.
+  * Send an e-mail to [vbot@vidyard.com.](mailto:vbot@vidyard.com)
+  * Call us at [1-800-530-3878](tel:18005303878).
+
+
+
+If you do opt-out of receiving promotional and marketing messages, Vidyard may still contact you regarding our business relationship with you.
+
+ **Unlink my social media profile**. Should you wish to unlink your Vidyard account from your social media profile, simply log into your account, select “Groups” and click “Integrations”. Select the specific Integration and click “Remove” next to the social media profile you would like to unlink.
+
+ **Access, verify, correct, update or delete personal information**. You can update certain information by logging into your account. You may also submit your request to [info@vidyard.com](mailto:info@vidyard.com). Vidyard shall respond and execute your request, subject to any contractual or legal restrictions.
+
+ **Close your Vidyard account**. If you wish to delete your account and stop doing business with Vidyard, please contact our customer service representative at [success@vidyard.com](mailto:success@vidyard.com).
+
+ **Information processed by Vidyard on behalf of one of our Customers**. Please contact our Data Protection Officer if you require assistance in contacting a one of our customers in order to access, verify, correct, update or delete personal information that may have been collected by Vidyard Services on their behalf.
+
+ **Opt-out of cookies, tracking technologies and / or targeted advertising**. Please visit our dedicated [Cookies and Advertising Policy](https://web.archive.org/cookies/) to learn what choices you have.
+
+ **Complaints**. We would be happy to first discuss and attempt to resolve your issue. Please contact us immediately at [success@vidyard.com](mailto:success@vidyard.com). If we cannot resolve it, we will provide you with the contact information of the appropriate privacy authority.
+
+See the Contact Us link below to learn how to reach us for other inquiries.
+
+Questions or complaints about this Privacy Policy or Vidyard’s privacy practices? You may contact us directly as follows:
+
+ **Email:** [privacy@vidyard.com](mailto:privacy@vidyard.com)
+
+ **Phone:** [1-800-530-3878](tel:18005303878)
+
+ **Mail:**
+
+Buildscale Inc., **Attention: Privacy Officer**  
+8 Queen St. N, Unit #1  
+Kitchener, ON, Canada  
 N2H 2G8 
 
-## Google Remarketing Policy
+Changes to this Privacy Policy
 
-Third party vendors, including Google, show your ads on sites on the internet.
+We may change this Privacy Policy. Please check back periodically for changes. If we make any significant changes, we will endeavour to communicate this to you where possible. Your continued use and interaction following any changes to the Privacy Policy constitutes acceptance of those changes.
 
-Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
-
-Users may opt out of Google's use of cookies by visiting <http://www.google.com/privacy_ads.html>.
+Last Updated: 05/22/2018
