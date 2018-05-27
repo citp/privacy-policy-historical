@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dressupgames77.net privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125114800id_/http%3A//www.dressupgames77.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressupgames77.net privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527033413id_/http%3A//www.dressupgames77.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dress Up Games
 
-### Privacy Policy:
+## Privacy Policy:
 
 Dressupgames77.net (" **Dressupgames77** ") operates Dressupgames77.net and may operate other websites. It is Dressupgames77's policy to respect your privacy regarding any information we may collect while operating our websites.
 
