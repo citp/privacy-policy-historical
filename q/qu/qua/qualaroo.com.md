@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the qualaroo.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513131349id_/https%3A//qualaroo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualaroo.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527140430id_/https%3A//qualaroo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Qualaroo
+# Privacy Policy – Customer Decision Analysis | Qualaroo
 
-Effective: December 1, 2016
-
-This Privacy Policy explains how information is collected, used and disclosed by Qualaroo with respect to the access and use of our website and our services. This Privacy Policy doesn't apply to any third-party websites, services or applications that you may access through our services.
+This Privacy Policy explains how information is collected, used and disclosed by Qualaroo with respect to the access and use of our website and our services. This Privacy Policy doesn’t apply to any third-party websites, services or applications that you may access through our services.
 
 ## Information We Collect
 
@@ -38,7 +36,7 @@ We will share the data and information we collect for our customers with that cu
 
 ## How to Access Your Information
 
-If you have an account, you can access and modify the information you provided us through your account. If you would like to terminate your account, please send us a request and we will use reasonable efforts to honor your request as soon as possible. Once your account is deactivated, you will not be able to access our services or your information through your account. 
+If you have an account, you can access and modify the information you provided us through your account. If you would like to terminate your account, please send us a request and we will use reasonable efforts to honor your request as soon as possible. Once your account is deactivated, you will not be able to access our services or your information through your account.
 
 ## Security Measures We Take To Protect Your Information
 
@@ -46,7 +44,7 @@ Qualaroo employs administrative, physical and electronic measures designed to pr
 
 ## EU-U.S. Privacy Shield Policy
 
-Qualaroo complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce (the "Privacy Shield Principles") regarding the collection, use, and retention of personal information transferred from the European Union to the United States (the "EU Personal Data"). Qualaroo has certified to the U.S. Department of Commerce that it adheres to the Privacy Shield Principles. For purposes of enforcing compliance with the Privacy Shield Principles, Qualaroo is subject to the investigatory and enforcement authority of the U.S. Federal Trade Commission. If there is any conflict between the terms in our Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>
+Qualaroo complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce (the “Privacy Shield Principles”) regarding the collection, use, and retention of personal information transferred from the European Union to the United States (the “EU Personal Data”). Qualaroo has certified to the U.S. Department of Commerce that it adheres to the Privacy Shield Principles. For purposes of enforcing compliance with the Privacy Shield Principles, Qualaroo is subject to the investigatory and enforcement authority of the U.S. Federal Trade Commission. If there is any conflict between the terms in our Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/
 
 ### Personal Data Collection and Use
 
@@ -54,7 +52,8 @@ This Privacy Policy describes the categories of personally-identifying informati
 
 ### Third-Party Agents or Service Providers
 
-We may transfer EU Personal Data to our third-party contractors, affiliated organizations or other service providers who perform functions on our behalf as described in this Privacy Policy. Where required by the Privacy Shield Principles, we enter into written agreements with those third-party contractors, affiliated organizations and other service providers requiring them to provide the same level of protection the Privacy Shield Principles require and limiting their use of the data to the specified services provided on our behalf. We take reasonable and appropriate steps to ensure that third-party contractors, affiliated organizations and other service providers process EU Personal Data in accordance with our obligations under the Privacy Shield Principles and to stop and remediate any unauthorized processing. Under certain circumstances, we may remain liable for the acts of our third-party contractors, affiliated organizations or other service providers who perform services on our behalf for their handling of EU Personal Data that we transfer to them.
+We may transfer EU Personal Data to our third-party contractors, affiliated organizations or other service providers who perform functions on our behalf as described in this Privacy Policy. Where required by the Privacy Shield Principles, we enter into written agreements with those third-party contractors, affiliated organizations and other service providers requiring them to provide the same level of protection the Privacy Shield Principles require and limiting their use of the data to the specified services provided on our behalf. We take reasonable and appropriate steps to ensure that third-party contractors, affiliated organizations and other service providers process EU Personal Data in accordance with our obligations under the Privacy Shield Principles and to stop and remediate any unauthorized processing. Under certain circumstances, we may remain liable for the acts of our third-party  
+contractors, affiliated organizations or other service providers who perform services on our behalf for their handling of EU Personal Data that we transfer to them.
 
 ### Disclosures for National Security or Law Enforcement
 
@@ -66,12 +65,20 @@ You may have the right to access the EU Personal Data that we hold about you and
 
 ### Questions or Complaints
 
-In compliance with the Privacy Shield Principles, Qualaroo commits to resolving complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding our Private Shield policy should first contact Qualaroo at support@qualaroo.com. Qualaroo has further committed to cooperate with EU data protection authorities ("DPAs") with regard to unresolved Privacy Shield complaints. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction within 45 days after our receipt of your complaint, you may contact the EU DPAs for more information or to file a complaint. The services of EU DPAs are provided at no cost to you.
+In compliance with the Privacy Shield Principles, Qualaroo commits to resolving complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding our Private Shield policy should first contact Qualaroo at support@qualaroo.com. Qualaroo has further committed to cooperate with EU data protection authorities (“DPAs”) with regard to unresolved Privacy Shield complaints. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction within 45 days after our receipt of your complaint, you may contact the EU DPAs for more information or file a complaint at https://edps.europa.eu/data-protection/our-role-supervisor/complaints/complaint-form_en. The services of EU DPAs are provided at no cost to you.
 
 ### Binding Arbitration
 
-You may have the option to select binding arbitration for the resolution of your complaint under certain circumstances, provided you have taken the following steps: (a) raised your compliant directly with Qualaroo and provided us the opportunity to resolve the issue, (b) made use of the independent dispute resolution mechanism identified above, and (c) raised the issue through the relevant data protection authority and allowed the U.S. Department of Commerce an opportunity to resolve the complaint at no cost to you. For more information on binding arbitration, see the U.S. Department of Commerce's Privacy Shield Framework: Annex I (Binding Arbitration).
+You may have the option to select binding arbitration for the resolution of your complaint under certain circumstances, provided you have taken the following steps: (a) raised your compliant directly with Qualaroo and provided us the opportunity to resolve the issue, (b) made use of the independent dispute resolution mechanism identified above, and (c) raised the issue through the relevant data protection authority and allowed the U.S. Department of Commerce an opportunity to resolve the complaint at no cost to you. For more information on binding arbitration, see the U.S. Department of Commerce’s Privacy Shield Framework: Annex I (Binding Arbitration).
 
 ## Privacy Policy Changes
 
 Any information that is collected is subject to our Privacy Policy in effect at the time such information is collected. Qualaroo may modify and revise its Privacy Policy from time to time. If we make any material changes to this policy, we will notify you of such changes by posting them on our website and we will indicate when such changes will become effective. Qualaroo encourages you to check back regularly for any changes to our Privacy Policy. Your continued use of this site after any change in this Privacy Policy becomes effective will constitute your acceptance of such change.
+
+## Opt-Out of Qualaroo Tracking
+
+[Opt-Out of Qualaroo Tracking](https://qualaroo.com/opt-out/)
+
+## The Qualaroo team has years of collective experience in decision  
+analysis and can help you design and implement questions that get the  
+exact feedback you are looking for.
