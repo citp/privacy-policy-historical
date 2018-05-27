@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ranjish.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224013652id_/http%3A//www.ranjish.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ranjish.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527110703id_/http%3A//www.ranjish.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
