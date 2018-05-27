@@ -1,65 +1,191 @@
-> *The following text is extracted and transformed from the 10beasts.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606005409id_/http%3A//10beasts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 10beasts.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527212309id_/https%3A//10beasts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy is important to us and we have added this privacy page, to explain a few quick things about the site and what info we collect, which is not much at all.
+10beasts.com is committed to safeguarding your privacy. Contact us at if you have any questions or problems regarding the use of your Personal Data and we will gladly assist you.
 
- **What Info Do We Collect and Why?**
+By using this site or/and our services, you consent to the Processing of your Personal Data as described in this Privacy Policy.
 
-Whenever you comment on this blog you will be required to leave your email address. We only collect this so we can email you about your comment if need be. However if you leave your name and email in the opt-in form box, you will then be sent a confirmation email from Aweber, and if you click that, then your email will be moved to my Aweber email marketing list, so I can send you important updates. We will never ever sell your contact info or give it away to anyone, period!!
+ **Personal Data** – any information relating to an identified or identifiable natural person.  
+**Processing** – any operation or set of operations which is performed on Personal Data or on sets of Personal Data.  
+**Data subject** – a natural person whose Personal Data is being Processed.  
+**Child** – a natural person under 16 years of age.  
+**We/us** (either capitalized or not) – 10beasts.com
 
- **Cookies**
+We promise to follow the following data protection principles:
 
-This blog uses a technology known as “cookies” and web server log files to collect info, such as date and time of your visit, what pages you looked at and the time you spent on each page, etc..
+  * Processing is lawful, fair, transparent. Our Processing activities have lawful grounds. We always consider your rights before Processing Personal Data. We will provide you information regarding Processing upon request.
+  * Processing is limited to the purpose. Our Processing activities fit the purpose for which Personal Data was gathered.
+  * Processing is done with minimal data. We only gather and Process the minimal amount of Personal Data required for any purpose.
+  * Processing is limited with a time period. We will not store your personal data for longer than needed.
+  * We will do our best to ensure the accuracy of data.
+  * We will do our best to ensure the integrity and confidentiality of data.
 
- **Copyright**
 
-Under no circumstance can any content on this website be copied or reproduced in any way. This includes any of the reviews and videos that are hosted on the domain, 10Beasts.com. If any person or company does use the owner of this websites name, video, or blog content without getting written consent from the site then legal action may be undertaken against the offending parties.
 
- **What Are Cookies?**  
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. Browsers are usually set to accept cookies. However, if you would prefer not to receive cookies, you may alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our site will not function as effectively when viewed by the users. A cookie cannot retrieve any other data from your hard drive or pass on computer viruses.
+The Data Subject has the following rights:
 
- **How Do We Use Information We Collect from Cookies?**  
-As you visit and browse our Website, the site uses cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from having to log in more than is necessary for security. Cookies, in conjunction with our Web server’s log files, allow us to calculate the aggregate number of people visiting our Website and which parts of the site are most popular. This helps us gather feedback to constantly improve our Web site and better serve our clients. Cookies do not allow us to gather any personal information about you and we do not intentionally store any personal information that your browser provided to us in your cookies.
+  1.  **Right to information** – meaning you have to right to know whether your Personal Data is being processed; what data is gathered, from where it is obtained and why and by whom it is processed.
+  2.  **Right to access** – meaning you have the right to access the data collected from/about you. This includes your right to request and obtain a copy of your Personal Data gathered.
+  3.  **Right to rectification** – meaning you have the right to request rectification or erasure of your Personal Data that is inaccurate or incomplete.
+  4.  **Right to erasure** – meaning in certain circumstances you can request for your Personal Data to be erased from our records.
+  5.  **Right to restrict processing** – meaning where certain conditions apply, you have the right to restrict the Processing of your Personal Data.
+  6.  **Right to object to processing** – meaning in certain cases you have the right to object to Processing of your Personal Data, for example in the case of direct marketing.
+  7.  **Right to object to automated Processing** – meaning you have the right to object to automated Processing, including profiling; and not to be subject to a decision based solely on automated Processing. This right you can exercise whenever there is an outcome of the profiling that produces legal effects concerning or significantly affecting you.
+  8.  **Right to data portability** – you have the right to obtain your Personal Data in a machine-readable format or if it is feasible, as a direct transfer from one Processor to another.
+  9.  **Right to lodge a complaint** – in the event that we refuse your request under the Rights of Access, we will provide you with a reason as to why. If you are not satisfied with the way your request has been handled please contact us.
+  10.  **Right for the help of supervisory authority** – meaning you have the right for the help of a supervisory authority and the right for other legal remedies such as claiming damages.
+  11.  **Right to withdraw consent** – you have the right withdraw any given consent for Processing of your Personal Data.
 
- **IP Addresses**  
-IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as traffic data so that data (such as the Web pages you request) can be sent to you.
 
- **Sharing and Selling Information**  
-We do not share, sell, lend or lease any of the information that uniquely identify a subscriber (such as email addresses or personal details) with anyone except to the extent it is necessary to process transactions or provide **services that you have requested.**
 
- **How Can You Access and Correct Your Information?**  
-You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing us at the usual address.
+ **The information you have provided us with**  
+This might be your e-mail address, name, billing address, home address etc – mainly information that is necessary for delivering you a product/service or to enhance your customer experience with us. We save the information you provide us with in order for you to comment or perform other activities on the website. This information includes, for example, your name and e-mail address.
 
- **What About Legally Compelled Disclosure of Information?**  
-We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights. We may also disclose account information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms of Service or to protect the safety of our users and the Public.
+ **The information automatically collected about you**  
+This includes information that is automatically stored by cookies and other session tools. For example, it could be your shopping cart information, your IP address, your shopping history (if there is any) etc. This information is used to improve your customer experience. When you use our services or look at the contents of our website, your activities may be logged.
 
- **What About Other Web Sites Linked to Our Web Site?**  
-We are not responsible for the practices employed by Web sites linked to or from our Website or the information or content contained therein. Often links to other Websites are provided solely as pointers to information on topics that may be useful to the users of our Web site.
+ **The information from our partners**  
+We gather information from our trusted partners with confirmation that they have legal grounds to share that information with us. This is either information you have provided them directly with or that they have gathered about you on other legal grounds.
 
-Please remember that when you use a link to go from our Website to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including web sites, which have a link on our Website, is subject to that Web site’s own rules and policies. Please read over those rules and policies before proceeding.
+ **Publicly available information**  
+We might gather information about you that is publicly available.
 
- **Your Consent**  
-By using our Website you consent to our collection and use of your personal information as described in this Privacy Policy. We reserve the right to amend this privacy policy at any time with or without notice.
+ **Technical information**  
+In addition, and in order to ensure that each visitor to any of our websites can use and navigate the site effectively, we collect the following:
 
- **Our Commitment To Data Security:**
+  * Technical information, including the Internet Protocol (IP) address used to connect your device to the Internet;
+  * Your login information, browser type and version, time zone setting, browser plug-in types and versions;
+  * Operating system and platform;
+  * Information about your visit, including the Uniform Resource Locators (URL) clickstream to, through, and from our site.
 
-Please note that your information will be stored and processed on our computers in the United States. The laws on holding personal data in the United States may be less stringent than the laws of your Country of residence or citizenship. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
- **Choice/Opt-In/Opt-Out**  
-This site allows visitors to unsubscribe so that they will not receive future messages. After unsubscribing we will discontinue sending the particular messages as soon as technically feasible.
 
- **A Special Note About Children**
+ **Comments**  
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-Children are not eligible to use our services unsupervised and we ask that children (under the age of 14) do not submit any personal information to us. If you are a minor, you can use this service only in conjunction with permission and guidance from your parents or guardians.
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
- **Acquisition or Changes in Ownership  
-**In the event that the website (or a substantial portion of its assets) is acquired, your information would be considered part of those assets, and may be part of those assets that are transferred.
+ **Media**  
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
- **Policy Modifications**  
-We may change this Privacy Policy from time to time. If/when changes are made to this privacy policy, we will email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
+ **Contact forms**  
+We may use contact form submission information to get in touch with you. We do not use the information submitted through contact form for marketing purposes
 
- **Last Edited April 23, 2016**
+ **Embedded content from other websites**  
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
-If you require any other information or have any questions about our privacy policy,  
-please [contact us here](http://10beasts.com/contact/) without any hesitation.
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
+
+ **Advertising**  
+We use Google AdSense and Amazon Advertising on our website.
+
+Google, as a third-party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.
+
+Our website uses Google AdSense for:
+
+  * Remarketing
+  * Google Display Network Impression Reporting
+  * Demographics and Interests Reporting
+  * DoubleClick Platform Integration
+
+
+
+We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
+
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.
+
+ **Third parties**  
+Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+We use your Personal Data in order to:
+
+  * provide our service to you (for example this could be registering your account, providing you with products and services that you have requested)
+  * enhance your customer experience;
+  * improve our website in order to better serve you;
+  * fulfill an obligation under law or contract;
+  * provide you with information that you have requested or which we think may be relevant to a subject in which you have demonstrated an interest;
+  * ensure the security and safe operation of our websites and underlying business infrastructure;
+  * personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested, and
+  * manage any communication between you and us.
+
+
+
+As long as you have not informed us otherwise, we consider offering you products/services that are similar or same to your purchasing history/browsing behaviour to be our legitimate interest.
+
+With your consent we Process your Personal Data for the following purposes:
+
+  * to send you newsletters and campaign offers (from us and/or our carefully selected partners);
+  * for other purposes we have asked your consent for;
+
+
+
+We Process your Personal Data in order to fulfill obligation rising from law and/or use your Personal Data for options provided by law. We reserve the right to anonymize Personal Data gathered and to use any such data. We will use data outside the scope of this Policy only when it is anonymized.
+
+We might process your Personal Data for additional purposes that are not mentioned here, but are compatible with the original purpose for which the data was gathered. To do this, we will ensure that:
+
+  * the link between purposes, context, and nature of Personal Data is suitable for further Processing;
+  * the further Processing would not harm your interests and
+  * there would be appropriate safeguard for Processing.
+
+
+
+We will inform you of any further Processing and purposes.
+
+We do not share your Personal Data with strangers. Personal Data about you is in some cases provided to our trusted partners in order to either make providing the service to you possible or to enhance your customer experience.
+
+For example, we share your data with:
+
+  * Google Analytics
+  * Googld AdSense
+  * Amazon Associates
+
+
+
+We only work with Processing partners who are able to ensure an adequate level of protection to your Personal Data. We disclose your Personal Data to third parties or public officials when we are legally obliged to do so. We might disclose your Personal Data to third parties if you have consented to it or if there are other legal grounds for it.
+
+We do our best to keep your Personal Data safe. We use anonymizing and pseudonymizing where suitable. We monitor our systems for possible vulnerabilities and attacks. We do not use vulnerability scanning and/or scanning to PCI standards.
+
+We have what we believe are appropriate security controls in place to protect personal data. We do not, however, have any control over what happens between your device and the boundary of our information infrastructure. You should be aware of the many information security risks that exist and take appropriate steps to safeguard your own information. We accept no liability in respect of breaches that occur beyond our sphere of control.
+
+Even though we try our best we can not guarantee the security of information. However, we promise to notify suitable authorities of data breaches. We will also notify you if there is a threat to your rights or interests. We will do everything we reasonably can to prevent security breaches and to assist authorities should any breaches occur.
+
+If you have an account with us, note that you have to keep your username and password secret.
+
+### Children
+
+We do not intend to collect or knowingly collect information from children. We do not target children with our services.
+
+### Cookies and other technologies we use
+
+We use cookies and/or similar technologies to analyze customer behaviour, administer the website, track users’ movements, and to collect information about users. This is done in order to personalize and enhance your experience with us.
+
+A cookie is a tiny text file stored on your computer. Cookies store information that is used to help make sites work. Only we can access the cookies created by our website. You can control your cookies at the browser level. Choosing to disable cookies may hinder your use of certain functions.
+
+ **We use cookies for the following purposes:**
+
+  *  **Necessary cookies** – these cookies are required for you to be able to use some important features on our website, such as logging in. These cookies don’t collect any personal information.
+  *  **Functionality cookies** – these cookies provide functionality that makes using our service more convenient and makes providing more personalised features possible. For example, they might remember your name and e-mail in comment forms so you don’t have to re-enter this information next time when commenting.
+  *  **Analytics cookies** – these cookies are used to track the use and performance of our website and services
+  *  **Advertising cookies** – these cookies are used to deliver advertisements that are relevant to you and to your interests. In addition, they are used to limit the number of times you see an advertisement. They are usually placed to the website by advertising networks with the website operator’s permission. These cookies remember that you have visited a website and this information is shared with other organisations such as advertisers. Often targeting or advertising cookies will be linked to site functionality provided by the other organisation.
+
+
+
+For example, if you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
+
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
+
+We may also use trusted third-party services that track this information on our behalf.
+
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. You can also remove cookies stored in your computer via your browser settings.
+
+If you turn cookies off, it won’t affect your website experience.
+
+We use Google Analytics to measure traffic on our website. Google has their own Privacy Policy which you can review [here](https://support.google.com/analytics/answer/6004245). If you’d like to opt out of tracking by Google Analytics, visit the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout).
+
+## Manage Your Data
+
+###  Please identify yourself via e-mail
+
+We reserve the right to make changes to this Privacy Policy.  
+Last modification was made May 24, 2018.
