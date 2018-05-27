@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the givex.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606180654id_/http%3A//web.givex.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the givex.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527074202id_/http%3A//www.givex.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Givex
 
@@ -55,7 +55,7 @@ We use state-of-the-art technology to keep your Personal Information as secure a
 Givex reserves the right to change or remove this Privacy Policy at our discretion. Whenever we make any alteration to this Privacy Policy, we will post the changes here. We encourage you to visit this area frequently to stay informed.
 
 **WHO TO CONTACT**  
-Please write to us at [privacy-officer@givex.com](mailto:privacy-officer@givex.com) or Attention: Privacy Officer, Givex, c/o 400-366 Adelaide St. W., Toronto, Ontario, M5V 1R9 if you have any comments or questions about this Privacy Policy, or to do any of the following:
+Please write to us at [privacy-officer@givex.com](mailto:privacy-officer@givex.com) or Attention: Privacy Officer, Givex, 1400-134 Peter St., Toronto, Ontario, M5V 2H2 if you have any comments or questions about this Privacy Policy, or to do any of the following:
 
   * to see Personal Information you have already sent us so that you can correct or update it;
   * to ask that we delete your Personal Information from our records;
