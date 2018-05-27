@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the browardpalmbeach.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125102340id_/http%3A//www.browardpalmbeach.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browardpalmbeach.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527025817id_/http%3A//www.browardpalmbeach.com/about/privacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Broward/Palm Beach News and Events | New Times Broward-Palm Beach
+# Privacy Policy | Broward Palm Beach New Times | Your #1 Alternative News Source
 
 ### New Times BPB, LLC
 
