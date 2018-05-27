@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the onesignal.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001135913id_/https%3A//onesignal.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onesignal.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527201140id_/https%3A//onesignal.com/privacy_policy) for the most accurate reproduction.*
 
 # OneSignal - Multi-platform Push Notification Service
 
 ## OneSignal Privacy Policy
 
-#### _Last Updated: July 13, 2016_
+#### _Last Updated: May 2, 2018_
 
 OneSignal., a U.S. company located at 2194 Esperanca Avenue, Santa Clara, CA 95054 (“OneSignal” “we,” “us,” and “our”), provides this privacy policy because we believe that consumers should have clear and comprehensive ways to understand how information about them is collected and used – both to provide our services and for third party advertising purposes. We’ve tried to write this policy in a way that is easy for consumers to understand at a “high level,” while still providing detail to allow sophisticated users (and privacy advocates) to understand what data models we’re engaged in, and more generally, how interest-based advertising works.
 
@@ -34,7 +34,7 @@ Information Collected About End Users by Our Web SDKs
 
 Information Collected About End Users by Our Mobile SDKs
 
-    1. Apps an End User has installed and enabled, and how it has used an App (e.g., session duration, time-stamp) 
+    1. When permitted by the operating system, OneSignal may check to see if the device has specific applications installed, based on a limited list, for purposes that include attribution, relevancy of ads, and relevancy of notifications related to those applications. 
     2. Purchases made within an app.
     3. Information about End User’s transactions and interactions with apps and websites
     4. Mobile advertising identifiers, such as iOS IDFAs and Android Advertising IDs (“Mobile IDs”). These Mobile IDs may be associated with other Information, including with Data Segments. 
@@ -139,7 +139,7 @@ Your choice to opt out of “Notifications” from the OneSignal platform will n
 
 You can opt out of having your mobile advertising identifiers used for certain types of interest-based (also called “cross-app”) mobile behavioral advertising, by accessing the “settings” on your Apple or Android mobile device, as follows:
 
-      * Apple Devices: If you have an Apple device, you can opt out of most app-based tracking for interest-based advertising by updating to iOS 6.0 or higher and setting Limit Ad Tracking to ‘ON.’ You can do this by clicking on Settings -> General -> About -> Advertising and toggling Limit Ad Tracking to ‘ON.’ 
+      * Apple Devices: If you have an Apple device, you can opt out of most app-based tracking for interest-based advertising by setting Limit Ad Tracking to ‘ON.’ You can do this by clicking on Settings -> Privacy -> Advertising and toggling Limit Ad Tracking to ‘ON.’ 
       * Android Devices: If you have an Android device, you can opt out of most app-based tracking for interest-based advertising by opening the Google Settings app on your device, selecting Ads, and then selecting the option to opt-out of interest-based ads. 
 
 Please note that these platforms control how these settings work, so the above may change. Likewise, if your device uses other platforms not described above, you should check the settings for those devices.
