@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimateherpesprotocol.com privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104093443id_/http%3A//ultimateherpesprotocol.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimateherpesprotocol.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527191217id_/http%3A//ultimateherpesprotocol.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Ultimate Herpes Protocol
 
@@ -52,7 +52,7 @@ We may use autoresponders to communicate with you by e-mail. To protect your pri
 
 The terms of this policy may change from time to time. If such changes are made, we will notify you by a notice posted on our website’s home page of the changes that have been made. If you disagree with the changes that have been made, please contact us (by e-mail, using a website contact form, or in writing by mail), and any changes made to this policy will not apply to information we have collected from you prior to making the changes.
 
-If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by sending an e-mail to our support and providing us with information relating to your concern.
+If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by sending an e-mail to our support: , and providing us with information relating to your concern.
 
 You may also mail your concerns to us at the following address:  
 Ultimate Herpes Protocol  
