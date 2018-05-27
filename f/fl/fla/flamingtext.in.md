@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flamingtext.in privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124171756id_/http%3A//flamingtext.in/privacy.html%3F_loc%3Dbottom) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flamingtext.in privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527201556id_/http%3A//flamingtext.in/privacy.html%3F_loc%3Dbottom) for the most accurate reproduction.*
 
 # Logo Design Tool. Free and Online.
 
@@ -52,13 +52,13 @@ While we use encryption to protect sensitive information transmitted online, we 
 
 ### Registration
 
-A user may be required to first complete a registration form in order to use particular services of this site. During registration a user is required to give certain information (such as name and email address). This information is used to contact you about the products and services on our site in which you have expressed interest. At your option, you may also provide demographic information (such as gender) about yourself, but it is not required. We require your age to ensure you are 13 or older ([COPPA](http://en.wikipedia.org/wiki/Children%27s_Online_Privacy_Protection_Act)).
+A user may be required to first complete a registration form in order to use particular services of this site. During registration a user is required to give certain information (such as name and email address). This information is used to contact you about the products and services on our site in which you have expressed interest. At your option, you may also provide demographic information (such as gender) about yourself, but it is not required. We require your age to ensure you are 13 or older ([COPPA](https://en.wikipedia.org/wiki/Children%27s_Online_Privacy_Protection_Act)).
 
 ### Third Party Advertisers
 
-This site uses the services of Google, CasaleMedia, ValueClick and other third parties to serve advertisements for promotions and other marketing messages when you visit our site. These companies may use information about your visits to this and other Web sites in order to target advertisements for goods and services that are of interest to you. If you would like more information about this practice, including your choices about not having this information used by these companies, please visit [Google](http://www.google.com/policies/technologies/ads/), [ValueClick](http://www.valueclickmedia.com/about/privacy), [Casale Media](http://casalemedia.com/privacy/). [Exponential (Tribal Fusion)](http://www.exponential.com/about-us/privacy.html). 
+This site uses the services of Google other third parties to serve advertisements for promotions and other marketing messages when you visit our site. These companies may use information about your visits to this and other Web sites in order to target advertisements for goods and services that are of interest to you. If you would like more information about this practice, including your choices about not having this information used by these companies, please visit [Google](https://policies.google.com/technologies/ads), 
 
-You can opt-out of most advertising at the [NAI Gateway](http://www.networkadvertising.org/managing/opt_out.asp). 
+You can opt-out of most advertising at the [NAI Gateway](https://optout.networkadvertising.org/). 
 
 ### Cookies
 
