@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the restek.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124095535id_/http%3A//www.restek.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restek.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527111425id_/http%3A//www.restek.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy / Restek.com
 
