@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchbuscar.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126145335id_/http%3A//search.searchbuscar.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchbuscar.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527110939id_/http%3A//search.searchbuscar.com/Privacy) for the most accurate reproduction.*
 
 # 
 
