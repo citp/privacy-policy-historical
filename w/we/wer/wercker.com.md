@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wercker.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124191051id_/https%3A//www.wercker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wercker.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527110208id_/https%3A//www.wercker.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-_Wercker has been[ _acquired_](https://www.oracle.com/corporate/acquisitions/wercker/index.html) by Oracle and will soon transition to the Oracle Privacy Policy. Click [_here_](https://www.oracle.com/legal/privacy/index.html) to view the Oracle Privacy Policy. Please note that the provisions of Wercker's Privacy Policy below will remain active until the policy transition is complete._
+_Wercker has been[ _acquired_](https://www.oracle.com/corporate/acquisitions/wercker/index.html) by [Oracle](https://www.wercker.com/about/oracle) and will soon transition to the Oracle Privacy Policy. Click [_here_](https://www.oracle.com/legal/privacy/index.html) to view the Oracle Privacy Policy. Please note that the provisions of Wercker's Privacy Policy below will remain active until the policy transition is complete._
 
 ### General information
 
