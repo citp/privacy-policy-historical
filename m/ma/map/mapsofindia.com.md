@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mapsofindia.com privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829003003id_/https%3A//www.mapsofindia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapsofindia.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527230946id_/https%3A//www.mapsofindia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MapsofIndia.com
 
@@ -43,6 +43,10 @@ MapsOfIndia.com as a policy does not sell or rent your information to anyone. We
 
 Mapsofindia.com has contracted with third party vendors, including Google, who may use cookies to serve ads based on a User's prior visits to Mapsofindia.com Google's use of Double Click cookie enables it and its partners to server ads Users based on their visits to MOW. Users may opt out of the use of Double Click cookie for internet based advertising by visiting the [Ad Preference Manager ](https://adssettings.google.com/u/0/authenticated?hl=en)or [here](https://tools.google.com/dlpage/gaoptout/), [Tribal Fusion Opt Out ](http://exponential.com/privacy/opt-out/), [Taboola Opt Out](https://www.taboola.com/privacy-policy#optout), or [NAI Opt Out ](http://optout.networkadvertising.org/#%21/).
 
+we have listed Ad Preference Manager, Tribal Fusion, Taboola and NAI Opt Out. Kindlt check whether we have allowed other advertisers and if the response is in affirmative, we are required to list those advertisers also.
+
+Further, we are required to ask the advertisers whether they are complying with the EU GDPR norms.
+
 **6\. How much protected is my personal financial information?**   
 To keep your personal financial information private is vital and important to us. As with all personal information, MapsOfIndia.com will never rent or sell your personal financial information. Your use of certain services or features, known to us, may help us to offer you better and more relevant content and advertisements. Yet as with all personally identifiable information, we do not make this available to any third parties without your permission. 
 
@@ -63,3 +67,5 @@ Yes, the safety of children is very important to us. Children should always ask 
 For any clarification regarding this Privacy Policy, you may contact Maps of India by sending an e - mail to 
 
 [operations@MapsOfIndia.com](mailto:operations@MapsOfIndia.com) with "Regarding Privacy Policy" in the subject line. 
+
+Last Updated on : May 24, 2018 
