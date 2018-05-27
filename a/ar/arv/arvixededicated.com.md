@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the arvixededicated.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911213318id_/https%3A//www.arvixe.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arvixededicated.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527235227id_/https%3A//www.arvixe.com/pp.php) for the most accurate reproduction.*
 
 # Arvixe Privacy Policy
 
-Last Updated:  **April 26th, 2017**
+**This Privacy Policy applies to all users before May 23, 2018. Beginning on May 23, 2018, our[new Privacy Policy](http://www.endurance.com/privacy/privacy) will apply to all new users and all users in the EU/EEA member countries. The new Privacy Policy will be effective on June 23, 2018 for users outside the EU/EEA member countries who signed up for services before May 23, 2018. The legacy version of the Privacy Policy will remain posted here until July 23, 2018 for your reference.**
 
-Arvixe, LLC ("Arvixe") is committed to upholding the integrity, privacy, and security of customer and/or user ("Customer") information. This Privacy Policy serves to establish our commitment to Customer privacy and security, as well as explain the policies and procedures Arvixe adheres to regarding the collection and use of Customer data.
+Last Updated:  **January 8th, 2018**
+
+Arvixe ("Arvixe") is committed to upholding the integrity, privacy, and security of customer and/or user ("Customer") information. This Privacy Policy serves to establish our commitment to Customer privacy and security, as well as explain the policies and procedures Arvixe adheres to regarding the collection and use of Customer data.
+
+The information that Arvixe collects in connection with the Services is hosted on servers located in the United States (U.S.), unless otherwise provided. By using the Services, you freely and expressly give Arvixe your consent to export your information and data to the U.S.
 
 **Privacy:** Arvixe is devoted to creating and nurturing a trusting relationship with its Customers, built on the knowledge that any personal information collected is kept private and secure. In undertaking this commitment, Arvixe will do everything in its capacity to ensure that the integrity of its Customer's privacy is upheld.
 
@@ -38,6 +42,4 @@ It is important to note that the websites linked to by Arvixe are not, nor shoul
 
 It should be noted that there are programs, such as key-loggers and viruses, that can intercept this information from the computers used to access your Arvixe account. Caution should be taken when using computers other than your own, especially on those used by a number of other users, such as in public.
 
-**Questions:** Questions regarding the Arvixe Privacy Policy may be directed to **privacy@arvixe.com**.
-
-**Contact Us:** Feel free to contact us by calling our toll free number 1-888-927-8493 or at our physical location at 3801 Calabasas Rd # 2005 Calabasas, CA 91302.
+**Questions:** If you have any questions about this Privacy Policy or the practices described herein, you may contact: Legal Department, Arvixe, 10 Corporate Dr., Suite 300, Burlington, MA 01803 or legal@arvixe.com
