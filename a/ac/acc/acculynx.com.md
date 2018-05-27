@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acculynx.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113152403id_/http%3A//acculynx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acculynx.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527075247id_/http%3A//www.acculynx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -56,6 +56,18 @@ We merge data collected from our Website and our Apps. That data could include c
 ### GOOGLE ANALYTICS
 
 We use a tool called "Google Analytics" to collect information about use of this site across devices. We have implemented the Remarketing and AdWords features of Google Analytics. The Remarketing feature allows us to serve you relevant advertising on third party websites if you have visited our Website, however accessed, but does not personally or directly identify you. AdWords allows us to manage our advertising and collect information about your visit to our Website. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ad Settings](http://www.google.com/settings "Click here to view Ad Settings"). You can opt out of Google Analytics without affecting how you visit the Website. For more information on opting out of being tracked by Google Analytics, [visit this Google page](https://tools.google.com/dlpage/gaoptout "Click here to opt out of Google Analytics").
+
+### GOOGLE CALENDAR
+
+AccuLynx integrates with authenticated Google Calendars to allow for the display of the calendar' events within AccuLynx. AccuLynx will also, if enabled, create new calendar events on authenticated calendars.
+
+### GOOGLE DRIVE
+
+AccuLynx integrates with authenticated Google Drive accounts to allow for the selection of documents to be stored within AccuLynx.
+
+### GOOGLE EMAIL
+
+AccuLynx will use your Google Email account identity to verify authentication to all Google applications connected to an AccuLynx account.
 
 ### LEAVING OUR WEBSITE AND/OR LINKING TO THIRD PARTIES
 
