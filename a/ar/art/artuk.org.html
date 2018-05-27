@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the artuk.org privacy policy that was archived on 2017-09-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170906085206id_/https%3A//artuk.org/footer/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the artuk.org privacy policy that was archived on 2018-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180527114601id_/https%3A//artuk.org/footer/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-1044.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M75FWJ"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 							
 		<title>
@@ -23,11 +23,11 @@
 		<meta name="google-site-verification" content="JIUbN6LLIebBDGBC7NmZWoRui_ClxYQ7_R7Obi7BhQM">
 		<meta name="p:domain_verify" content="4b5a2b6c2daf088afa3ba843c56ac138">
 		
-		<script src="https://artuk.org/skins/artuk/js/modernizr.min.js"></script>
+		<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M75FWJ"></script><script src="https://artuk.org/skins/artuk/js/modernizr.min.js"></script>
 		<script src="https://artuk.org/skins/artuk/js/viewport-units-buggyfill.min.js"></script>
 		<script>window.viewportUnitsBuggyfill.init();</script>
 
-									<link rel="stylesheet" href="https://artuk.org/skins/artuk/assets/css/style.min.css" media="screen">
+									<link rel="stylesheet" href="https://artuk.org/skins/artuk/assets/css/style.min.css?v=1.61" media="screen">
 					
 		<link rel="stylesheet" href="https://artuk.org/skins/artuk/css/print.min.css" media="print">
 
@@ -157,22 +157,23 @@
 																						<a href="https://artuk.org/discover/topics" ref="topics" title="Topics" accesskey="4">
 												Topics											</a>
 										</li>
-																		</ul>
+																											</ul>
 															</li>
 																															<li>
 								<h3>Participate</h3>
 																									<ul>
 																													<li>
-																						<a href="https://artuk.org/participate/become-an-art-detective" ref="become-an-art-detective" title="Become an Art Detective" accesskey="">
-												Become an Art Detective											</a>
-										</li>
-																													<li>
 																						<a href="https://artuk.org/participate/tag-artworks" ref="tag-artworks" title="Tag artworks" accesskey="">
 												Tag artworks											</a>
 										</li>
 																													<li>
-																						<a href="https://artuk.org/participate/art-speaks-the-competition" ref="art-speaks-the-competition" title="Art Speaks: the competition" accesskey="">
-												Art Speaks: the competition											</a>
+																						<a href="https://artuk.org/participate/learn-144" ref="learn-144" title="Learn" accesskey="">
+												Learn											</a>
+										</li>
+																												<li>
+											<a href="https://artuk.org/artdetective" ref="artdetective" title="Become an Art Detective" accesskey="">
+												Become an Art Detective
+											</a>
 										</li>
 																		</ul>
 															</li>
@@ -187,7 +188,7 @@
 																						<a href="https://artuk.org/visit/whats-on" ref="whats-on" title="What's on" accesskey="6">
 												What's on											</a>
 										</li>
-																		</ul>
+																											</ul>
 															</li>
 																															<li>
 								<h3>Donate</h3>
@@ -204,7 +205,7 @@
 																						<a href="https://artuk.org/donate/our-funding" ref="our-funding" title="Our funding" accesskey="">
 												Our funding											</a>
 										</li>
-																		</ul>
+																											</ul>
 															</li>
 																															<li>
 								<h3>About</h3>
@@ -233,7 +234,7 @@
 																						<a href="https://artuk.org/about/subscribe-to-newsletter" ref="subscribe-to-newsletter" title="Subscribe to newsletter" accesskey="9">
 												Subscribe to newsletter											</a>
 										</li>
-																		</ul>
+																											</ul>
 															</li>
 																															<li>
 								<h3>Supporters and Partners</h3>
@@ -247,30 +248,29 @@
 												Partner collections											</a>
 										</li>
 																													<li>
-																						<a href="https://artuk.org/support/story-contributors" ref="story-contributors" title="Story contributors" accesskey="">
-												Story contributors											</a>
-										</li>
-																													<li>
 																						<a href="https://artuk.org/support/project-partners" ref="project-partners" title="Project partners" accesskey="">
 												Project partners											</a>
 										</li>
-																		</ul>
+																											</ul>
 															</li>
 																																																			
 							<li>
 								<h3>Shop</h3>
 								<ul>
 									<li>
-										</li><li><a href="https://artuk.org/shop/image-library.html" target="_blank">Art prints</a></li>
+										</li><li><a href="https://artuk.org/shop/prints.html" target="_blank">Prints</a></li>
 									
 									<li>
-										</li><li><a href="https://artuk.org/shop/image-library.html" target="_blank">Framed prints</a></li>
+										</li><li><a href="https://artuk.org/shop/gifts.html" target="_blank">Gifts</a></li>
 									
 									<li>
-										</li><li><a href="https://artuk.org/shop/image-library.html" target="_blank">Image licences</a></li>
+										</li><li><a href="https://artuk.org/shop/image-licences.html" target="_blank">Licensing</a></li>
 									
 									<li>
 										</li><li><a href="https://artuk.org/shop/art-books.html" target="_blank">Books</a></li>
+									
+									<li>
+										</li><li><a href="https://artuk.org/shop/featured-collections.html" target="_blank">Museums &amp; Collections</a></li>
 									
 								</ul>
 							</li>
@@ -302,11 +302,13 @@
 								  		<p><input type="checkbox" name="remember-me">Remember me (uncheck on a public computer)</p>
 									</div>
 									<div class="form-group terms">
-										<p>By signing up you agree to <a href="http://www.artuk.org/footer/terms-of-use" class="link"><span>terms and conditions</span></a></p>
+										<p>By signing up you agree to <a href="http://www.artuk.org/footer/terms-of-use" class="link"><span>terms and conditions</span></a>
+											and <a href="http://artuk.org/footer/privacy-policy" class="link"><span>privacy policy</span></a>
+										</p>
 									</div>
 									<input type="submit" class="btn btn-default action submit" value="Sign in">
 						    	</form>
-						    	<a href="#" class="link forgotten"><span>Forgotten password?</span></a>
+						    	<a href="#" class="link forgotten"><span class="disabled">Forgotten password?</span></a>
 						    </div>
 
 						    <div class="forgotten-wrap">
@@ -318,7 +320,7 @@
 										<input type="email" class="form-control" id="reset-email" name="reset-email" placeholder="Email" data-validation="required">
 									</div>
 									<input type="submit" class="btn btn-default action submit" value="Send">
-									<a href="#" class="link forgotten-cancel"><span>Cancel</span></a>
+									<a href="#" class="link forgotten-cancel"><span class="disabled">Cancel</span></a>
 								</form>
 						    </div>
 					    </div>
@@ -345,10 +347,12 @@
 								    <input type="password" class="form-control" id="register-password" name="register-password" data-validation="required length" data-validation-length="min8">
 							  	</div>
 								<div class="form-group terms">
-									<p><input type="checkbox" name="register-terms" data-validation="required">I agree to the Art UK <a href="http://www.artuk.org/footer/terms-of-use" class="link"><span>terms and conditions</span></a></p>
+									<p><input type="checkbox" name="register-terms" data-validation="required">I agree to the Art UK <a href="http://www.artuk.org/footer/terms-of-use" class="link"><span>terms and conditions</span></a>
+										and <a href="http://artuk.org/footer/privacy-policy" class="link"><span>privacy policy</span></a>
+									</p>
 								</div>
 								<div class="form-group terms">
-									<p><input type="checkbox" name="register-partners">My details can be shared with<a href="http://artuk.org/support/introduction" class="link"><span>selected Art UK Partners</span></a></p>
+									<p><input type="checkbox" name="register-partners">My details can be shared with <a href="http://artuk.org/support/introduction" class="link"><span>selected Art UK Partners</span></a></p>
 								</div>
 								<div class="form-group terms">
 									<p><input type="checkbox" name="register-subscribe">Sign up to the Art UK newsletter</p>
@@ -390,120 +394,135 @@
 					<div class="row">
 								<!-- skins/artuk/php/views/base/v_main_content -->
 <section class="module rich-text top">
-	<p><em><strong>See below for: <a href="#Shop">Art UK Shop Privacy Policy</a></strong></em></p>
-<p>&nbsp;</p>
-<p><span style="text-decoration: underline;"><strong>Art UK Website</strong></span></p>
-<p>Art UK is the operating name of the Public Catalogue Foundation, a charity registered in England and Wales (1096185).</p>
-<p>The Public Catalogue Foundation (<strong>We</strong>) are committed to protecting and respecting your privacy.</p>
-<p>This policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting www.artuk.org (the <strong>Website</strong>) you are accepting and consenting to the practices described in this policy. This policy, the <a href="http://artuk.org/footer/terms-of-use">Terms of Use</a>&nbsp;and any other documents referred to in the Terms of Use all apply to your use of the Website.</p>
-<p>For the purpose of the Data Protection Act 1998 (the<strong> Act</strong>), the data controller is the Public Catalogue Foundation of First Floor, 18 Percy Street, London W1T 1DX.</p>
-<p>Our nominated representative for the purpose of the Act is Lauren Colley.</p>
+	<p><strong>Art UK Website</strong></p>
+<p>Art UK is the operating name of the Public Catalogue Foundation, a charity registered in England and Wales (charity number: 1096185) with its registered office at Third Floor, Peek House, 20 Eastcheap, London EC3M 1EB.</p>
+<p>The Art UK website at <a href="https://artuk.org/" target="_blank">www.artuk.org</a> (<strong>the&nbsp;Website</strong>) is operated by the Public Catalogue Foundation. The Public Catalogue Foundation is the data controller of personal data collected from you by this Website and related means, or otherwise provided by you to us.</p>
+<p>The Public Catalogue Foundation (<strong>We, us, our</strong>) are committed to protecting and respecting your privacy. The Data Protection Act 1998, the General Data Protection Regulation, and other applicable national data privacy laws (together, <strong>Data Privacy Laws</strong>) place obligations on us in relation to the personal data that we collect and hold. This Privacy Policy (together with our&nbsp;<a href="https://artuk.org/footer/terms-of-use" target="_blank">Website Terms of Use</a>) sets out how we comply with Data Privacy Laws, including detailing the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.</p>
+<p>Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting www.artuk.org (the&nbsp;<strong>Website</strong>) or otherwise providing us with your personal data you are doing so on the basis of the general practices described in this Privacy Policy.</p>
+<p>Where we require your consent to process your personal data in accordance with these practices, we will seek this consent at the point at which you provide us with this data. Where we wish to process your personal data for a purpose other than that for which the personal data were collected, we will notify you of that intention and obtain any further necessary consents.</p>
 <p><strong>1. Information we may collect from you</strong></p>
 <p>1.1 We may collect and process the following data about you:</p>
-<p>(a)<strong> Information you give us.</strong> You may give us information about you by filling in forms on the Website or by corresponding with us by phone, email or otherwise. This includes information you provide when you register to use the Website, subscribe to our service, place an order on the Website, enter a competition, promotion or survey and when you report a problem with the Website. The information you give us may include your name, address, email address and phone number, financial and credit card information and personal description.</p>
-<p>(b) <strong>Information we collect about you.</strong> With regard to each of your visits to the Website we may automatically collect the following information:</p>
-<p style="padding-left: 30px;">(i) technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform; and</p>
-<p style="padding-left: 30px;">(ii) information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from the Website (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to contact us.</p>
-<p>(c)<strong> Information we receive from other sources.</strong> We may receive information about you if you use any of the other websites we operate or the other services we provide. We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers) and may receive information about you from them.</p>
+<p>(a)<strong> Information you give us.</strong> You may give us personal data about you when you use our Website, or in correspondence with us, by phone, email or otherwise. This data may include information you provide when you register to use the Website; subscribe to any of our services; place an order on the Website; post material to our Website; enter a competition, promotion or survey; report a problem with the Website; or otherwise in connection with your communications with us. The information you give us may include your name, address, email address, phone number, employer, job details, financial and credit card information, personal description and information relating to your participation in and feedback on any of our products or services.</p>
+<p>(b) <strong>Information we collect about you.</strong> We may collect and process technical information about your computer, including (where available) your Internet Protocol address; login information; browser type and version; time zone setting; browser plug-in types and versions; operating system and platform. We may also collect and process information about your visit to our Website, including the full Uniform Resource Locators (URL) clickstream to, through and from the Website (including date and time); products you viewed or searched for; page response times; download errors; length of visits to certain pages; page interaction information (such as scrolling, clicks, and mouse-overs); methods used to browse away from the page; and any phone number used to contact us. We collect this information for system administration purposes and to report aggregate information on usage.</p>
+<p>(c)<strong> Information we receive from other sources.</strong> We may also receive information about you from third parties, where you have consented to those third parties sharing your personal data with us. Where we receive personal data in this way, we will process it in accordance with the terms of this Privacy Policy and the terms of any consent that you provided.</p>
 <p><strong>2. Cookies</strong></p>
-<p>The Website uses cookies to distinguish you from other users of the Website. This helps us to provide you with a good experience when you browse the Website and also allows us to improve the Website. For detailed information on the cookies we use and the purposes for which we use them see our <a href="http://artuk.org/footer/use-of-cookies-14">Cookies Policy</a>.</p>
+<p>The Website uses cookies to distinguish you from other users of the Website. This helps us to provide you with a good experience when you browse the Website and also allows us to improve the Website. For detailed information on the cookies we use and the purposes for which we use them see our&nbsp;<a href="http://artuk.org/footer/use-of-cookies-14" target="_blank">Cookies Policy</a>.</p>
 <p><b><b>3. Uses made of the information</b></b></p>
 <p>3.1 We use information held about you in the following ways:</p>
-<p>(a)<b> Information you give to us. </b>We will use this information:</p>
-<p style="padding-left: 30px;">(i) to carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us;</p>
-<p style="padding-left: 30px;">(ii) to provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about;</p>
-<p style="padding-left: 30px;">(iii) to provide you, or permit selected third parties to provide you, with information about goods or services we feel may interest you. If you are an existing customer, we will only contact you by electronic means (email or SMS) with information about goods and services similar to those which were the subject of a previous sale or negotiations of a sale to you. If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data;</p>
-<p style="padding-left: 30px;">(iv) to notify you about changes to our service; and</p>
-<p style="padding-left: 30px;">(v) to ensure that content from the Website is presented in the most effective manner for you and for your computer.</p>
-<p>(b)<b> Information we collect about you. </b>We will use this information:</p>
-<p style="padding-left: 30px;">(i) to administer the Website and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;</p>
-<p style="padding-left: 30px;">(ii) to improve the Website to ensure that content is presented in the most effective manner for you and for your computer;</p>
-<p style="padding-left: 30px;">(iii) to allow you to participate in interactive features of our service, when you choose to do so;</p>
-<p style="padding-left: 30px;">(iv) as part of our efforts to keep the Website safe and secure;</p>
-<p style="padding-left: 30px;">(v) to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you; and</p>
-<p style="padding-left: 30px;">(vi) to make suggestions and recommendations to you and other users of the Website about goods or services that may interest you or them.</p>
-<p>(c) <strong>Information we receive from other sources.</strong> We may combine this information with information you give to us and information we collect about you. We may use this information and the combined information for the purposes set out above (depending on the types of information we receive).</p>
+<p>(a) to carry out our obligations arising from any contracts entered into between you and us and to provide you with any information, products and services that you request from us;</p>
+<p>(b) to contact you (including by email, post or telephone) in relation to the products and services that you have signed up for;</p>
+<p>(c) to contact you (including by email, post or telephone), about other products and services that we offer that are similar to those that you have already purchased, signed up for or enquired about, provided that you have opted in to receive these communications;</p>
+<p>(d) to send you newsletters and other updates on our organisation and our products and services by email, where you have opted in to receive these;</p>
+<p>(e) to administer and facilitate our programmes and services;</p>
+<p>(f) to notify you about changes to our organisation or services;</p>
+<p>(g) if you provide feedback about our Website, services or projects through a contact form or email address, to develop and improve the relevant area;</p>
+<p>(h) to monitor the way in which our sites are used, and to ensure that content from the Website is presented in the most effective manner for you and for your computer;</p>
+<p>(i) to administer the Website and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;</p>
+<p>(j) to allow you to participate in interactive features of our service, when you choose to do so;</p>
+<p>(k) as part of our efforts to keep the Website safe and secure; and</p>
+<p>(l) to make suggestions and recommendations to you and other users of the Website about products or services that may interest you or them. We will only contact you about these products or services where you have opted in to receive these communications.</p>
+<p>3.2 We will process your personal data on the basis of your consent, if requested, and/or our legitimate interests (which include (i) the performance of our obligations under any contracts entered into between you and us; (ii) the administration, improvement and promotion of our projects and our Website; (iii) management of relationships with our supporters; and (iv) for compliance with applicable laws, rules and regulations). Where possible we will seek to use aggregate data in order to achieve these aims.</p>
+<p>3.3 Where our processing is based on your consent, and not any other legal basis, you have the right to withdraw your consent at any time. This withdrawal will not affect the lawfulness of processing prior to the withdrawal. If you inform us that you no longer wish to receive email or other communications from us, we will stop sending you these communications.</p>
 <p><strong>4. Disclosure of your information</strong></p>
-<p>4.1 We may share your personal information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.</p>
-<p>4.2 We may share your information with selected third parties including:</p>
-<p>(a) business partners, including <a href="http://artuk.org/support/introduction">Art UK Partners</a>, suppliers and sub-contractors for the performance of any contract we enter into with them or you;</p>
-<p>(b) advertisers and advertising networks that require the data to select and serve relevant adverts to you and others; and</p>
-<p>(c) analytics and search engine providers that assist us in the improvement and optimisation of the Website.</p>
-<p>4.3 We may disclose your personal information to third parties:</p>
-<p>(a) in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;</p>
-<p>(b) if the Public Catalogue Foundation or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets;</p>
-<p>(c) if required to do so by Law or in good faith believe we are required to do so by any order of the Courts or other competent body or agency;</p>
-<p>(d) in order to enforce or apply our <a href="http://artuk.org/footer/terms-of-use">Terms of Use</a>&nbsp;and other agreements; or</p>
-<p>(e) in order to protect or defend our rights or property or to protect the personal safety of our employees or the public at large.</p>
-<p><b><b>5. Where we store your personal data</b></b></p>
-<p>5.1 The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (the <strong>EEA</strong>). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.</p>
+<p>4.1 In order to provide our products and services, we may share your personal information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.</p>
+<p>4.2 Where we have your opt-in consent to do so, we may share your information with selected third parties who we work with in order to run and promote our projects, including but not limited to, the BBC, and participating collection administrations.</p>
+<p>4.3 We may also disclose your personal information to third parties:</p>
+<p>(a) if the Public Catalogue Foundation or substantially all of its assets are acquired by a third party (who will be a UK charity and a not-for-profit organisation), in which case personal data will be one of the transferred assets and the new owner may use your personal data in the same way as set out in this&nbsp;privacy&nbsp;notice;</p>
+<p>(b) if required to do so by Law or in we believe in good faith that we are required to do so by any order of the Courts or other competent body or agency;</p>
+<p>(c) in order to enforce or apply our&nbsp;<a href="http://artuk.org/footer/terms-of-use" target="_blank">Website Terms of Use</a>&nbsp;and other agreements; or</p>
+<p>(d) in order to protect or defend our rights or property or to protect the personal safety of our employees or the public at large.</p>
+<p>4.3 We may from time to time engage third parties to perform services (including the processing of personal data) on our behalf, such as hosting our data (including your personal data) and Website; sending emails and other communications relating to our products and/or services; providing analytic services, such as tracking usage of our operational sites or websites; or performing other administrative services for us. We shall only use processors that will commit to implement appropriate technical and organisational measures in order to ensure that their processing activities meet the requirements of Data Privacy Laws and ensure the protection of your data protection rights. Prior to allowing these service providers to access your personal data, we will enter into a formal agreement with them to ensure that they handle and process the information in accordance with applicable law.</p>
+<p>4.4 We will not share your information with parties outside of the European Economic Area (the <strong>EEA</strong>) unless we are legally permitted or required to do so. You should be aware that certain non-EEA countries do not require the same standards of protection of personal data as are legally required in the EEA. If we send your data to these countries, we will ensure that there are appropriate and suitable safeguards to protect your personal data. This will involve at least one of the following:</p>
+<p>(a) we will only transfer your personal data to countries that have been deemed to provide an adequate level of protection for personal data by the European Commission;</p>
+<p>(b) where we use certain service providers, we may use specific contracts approved by the European Commission which give personal data the same protection it has in Europe; and</p>
+<p>(c) where we use providers based in the US, we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between the Europe and the US.</p>
+<p>If you require further information on these mechanisms, please contact us at <a href="mailto:info@artuk.org">info@artuk.org</a>.</p>
+<p><b><b>5. Data security</b></b></p>
+<p>5.1 All information you provide to us is stored within the EEA on secure servers provided by a third party vendor. Although we will do our best to protect your personal data, we cannot guarantee the security of the information transmitted to our Website and any transmission is at your own risk. Once we have received your information, we will put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we will limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to access your data. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.</p>
 <p>5.2 Where we have given you (or where you have chosen) a password which enables you to access certain parts of the Website, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.</p>
-<p>5.3 Unfortunately, the transmission of information via the Internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to the Website and any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.</p>
+<p>5.3 The Website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. It is your responsibility to check those policies before you submit any personal data to these websites.</p>
 <p><b><b>6. Your rights</b></b></p>
-<p>6.1 You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at <a href="mailto:info@artuk.org">info@artuk.org</a>.</p>
-<p>6.2 The Website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. It is your responsibility to check those policies before you submit any personal data to these websites.</p>
-<p><b><b>7. Changes to our privacy policy</b></b></p>
+<p>6.1 You have the right to:</p>
+<p>(a) request access to personal data held about you by us and be provided with information in relation to that data (including the purposes for which the data are processed, the recipients to whom that personal data have been or will be disclosed, how long it will be stored for, details of any automated decision-making and your right to lodge a complaint with the Information Commissioner’s Office);</p>
+<p>(b) have inaccurate personal data amended or erased, and to have incomplete personal data completed;</p>
+<p>(c) request the erasure of your personal data (the so-called ‘right to be forgotten’);</p>
+<p>(d) object to or restrict the processing of your personal data (including where your personal data is processed for direct marketing purposes or on the basis of legitimate interests);</p>
+<p>(e) request that your personal data be transferred to another data controller or provided in a format that will permit this transfer (the so-called ‘right to portability’);</p>
+<p>(f) object to any decision that affects you being taken solely by a computer or other automated process (including profiling);</p>
+<p>(g) withdraw any consent you have granted to us in connection with the use of your personal data at any time by updating your preferences in your online account via the Website or by emailing <a href="mailto:info@artuk.org">info@artuk.org</a>; and</p>
+<p>(h) lodge a complaint with the UK Information Commissioner’s Office (<strong>ICO</strong>) (see https://ico.org.uk/concerns/ for further details on how to lodge a complaint). We would, however, appreciate the chance to deal with your concerns before you approach the ICO, so please contact us in the first instance.</p>
+<p><b><b>7. <strong>Retention of personal data</strong></b></b></p>
+<p>Your personal data will be destroyed or erased from our systems when it is no longer required for the relevant specified purpose that it was collected for, provided that we may retain personal data in order to comply with applicable laws, regulations and rules. As a general rule, this means we will retain your personal data for the duration of your involvement with us and for up to six years afterwards. However, retention and destruction of personal data will be considered on a case-by-case basis.</p>
+<p><b><b>8.&nbsp;</b></b><strong>Changes to our privacy policy</strong></p>
+<p>This version was last updated on <strong>25 May 2018</strong> and historic versions can be obtained by contacting us at <a href="mailto:info@artuk.org">info@artuk.org</a>.</p>
 <p>Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by email. Please check back frequently to see any updates or changes to our privacy policy.</p>
-<p><b><b>8. Contact</b></b></p>
-<p>To contact us, please email us at <a href="mailto:info@artuk.org">info@artuk.org</a>.</p>
+<p><b>9.&nbsp;<strong>Contact</strong></b></p>
+<p>If you have any questions or concerns regarding our use of your personal data or our Privacy Policy, please email us at&nbsp;<a href="mailto:info@artuk.org">info@artuk.org</a> or contact Lauren Colley, who is responsible for overseeing questions in relation to this Privacy Policy, at lauren.colley@artuk.org.</p>
+<p>&nbsp;</p>
 <p>&nbsp;<a id="Shop"></a></p>
-<p><span style="text-decoration: underline;"><strong>Art UK Shop Privacy Policy</strong></span></p>
-<p>Art UK is the operating name of the Public Catalogue Foundation, a charity registered in England and Wales (1096185). The Art UK Shop is independently operated by Internova U.K. Limited, a company registered in England and Wales (383751) (<strong>Internova</strong>).</p>
-<p>For more information on how Art UK handles personal data collected when you use the rest of the <a href="http://www.artuk.org">www.artuk.org</a> website, please see our separate Art UK Privacy Policy above.</p>
-<p>The Public Catalogue Foundation and Internova are both committed to protecting and respecting your privacy. For the purposes of this privacy policy, <strong>We, Us, Our </strong><strong>refers to both Internova and Art UK.</strong></p>
-<p>This policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting the Art UK Shop you are accepting and consenting to the practices described in this policy. This policy, the&nbsp;Art UK Website <a href="http://artuk.org/footer/terms-of-use">Terms and Conditions of Use</a>&nbsp;and any other documents referred to in the Art UK Website Terms and Conditions of Use all apply to your use of the Art UK Shop.</p>
-<p>For the purpose of the Data Protection Act 1998 (the<strong>&nbsp;</strong><strong>Act</strong>), the Public Catalogue Foundation (of First Floor, 18 Percy Street, London W1T 1DX) and Internova U.K. Limited (of Provident Works, Newdigate Street, Nottingham NG7 4FD) are joint data controllers of the personal data collected when you use the Art UK Shop.</p>
-<p>Art UK’s nominated representative for the purpose of the Act is Lauren Colley.</p>
-<p>Internova’s nominated representative for the purpose of the Act is Rob Lees.</p>
+<p><strong>Art UK Shop Privacy Policy</strong></p>
+<p>The Art UK Shop, <a href="https://artuk.org/shop/" target="_blank">www.artuk.org/shop</a>, (<strong>Art UK&nbsp;Shop</strong>)&nbsp;is independently operated by Internova U.K. Ltd, a company registered in England and Wales under company number 03837521 with its registered office at Provident Works, Newdigate Street, Nottingham, NG7 4FDPY (<strong>I</strong><b>nternova</b>).&nbsp;<o:p></o:p></p>
+<p>Art UK and Internova are joint data controllers of the personal data collected through the Art UK Shop.</p>
+<p>Art UK is the operating name of the Public Catalogue Foundation, a charity registered in England and Wales (charity number: 1096185) with its registered office at Third Floor, Peek House, 20 Eastcheap, London EC3M 1EB.&nbsp;For more information on how Art UK handles personal data collected when you use the rest of the&nbsp;<a href="http://www.artuk.org" target="_blank">www.artuk.org</a>&nbsp;website, please see our separate Art UK Privacy Policy above.<o:p></o:p></p>
+<p>The Public Catalogue Foundation&nbsp;and&nbsp;Internova (<strong>We, us, our</strong>) are committed to protecting and respecting your privacy. The Data Protection Act 1998, the General Data Protection Regulation, and other applicable national data privacy laws (together,&nbsp;<strong>Data Privacy Laws</strong>) place obligations on us in relation to the personal data that we collect and hold. This Privacy Policy (together with our&nbsp;<a href="https://artuk.org/footer/shop-terms-of-use-and-supply#Shop-Terms-and-Conditions-of-Supply" target="_blank">Art UK Shop Terms and Conditions of Supply</a>&nbsp;and <a href="https://artuk.org/footer/terms-of-use" target="_blank">Art UK Website Terms of Use</a>) sets out how we comply with Data Privacy Laws, including detailing the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.&nbsp;<o:p></o:p></p>
+<p>Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.&nbsp;By visiting the&nbsp;Art UK Shop&nbsp;you are accepting and consenting to the practices described in this policy.&nbsp;</p>
+<p>Where we require your consent to process your personal data in accordance with these practices, we will seek this consent at the point at which you provide us with this data. Where we wish to process your personal data for a purpose other than that for which the personal data were collected, we will notify you of that intention and obtain any further necessary consents.</p>
 <p><strong>1. Information we may collect from you </strong></p>
-<p>Internova may collect and process the following data about you:</p>
-<p>(a)<strong>&nbsp;</strong><strong>Information you give us.</strong>&nbsp;You may give Internova information about you by filling in forms on the Art UK Shop or by corresponding with Internova by phone, email or otherwise. This includes information you provide when you register to use the Art UK Shop, place an order on the Art UK Shop, enter a competition, promotion or survey and when you report a problem with the Art UK Shop. Please note that Internova may record telephone calls for staff training and evidential purposes. The information you give us may include your name, address, email address and phone number, financial and credit card information and personal description.</p>
-<p>(b)&nbsp;<strong>Information we collect about you.</strong>&nbsp;With regard to each of your visits to the Art UK Shop, Internova may automatically collect the following information:</p>
-<p style="padding-left: 30px;">(i) technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform; and</p>
-<p style="padding-left: 30px;">(ii) information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from the Art UK Shop and the Art UK Shop (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to contact Internova.</p>
-<p>(c)<strong>&nbsp;</strong><strong>Information we receive from other sources.</strong>&nbsp;Art UK may receive information about you if you use any of the other websites Art UK operates (including www.artuk.org) or the other services we provide. We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers) and may receive information about you from them.</p>
+<p>We&nbsp;may collect and process the following data about you:</p>
+<p>(a)<strong>&nbsp;</strong><strong>Information you give us.</strong>&nbsp;You may give us personal data about you when you use the Art UK Shop, or in correspondence with us, by phone, email or otherwise. This data may include information you provide when you register to use the Art UK Shop; subscribe to any of our services; place an order on the Art UK Shop; enter a competition, promotion or survey; report a problem with the Art UK Shop; or otherwise in connection with your communications with us. The information you give us may include your name, address, email address, phone number, employer, job details, financial and credit card information, personal description and information relating to your participation in and feedback on any of our products or services.</p>
+<p>(b)&nbsp;<strong>Information we collect about you.</strong> We may collect and process technical information about your computer, including (where available) your Internet Protocol address; login information; browser type and version; time zone setting; browser plug-in types and versions; operating system and platform. We may also collect and process information about your visit to the Art Uk Shop, including the full Uniform Resource Locators (URL) clickstream to, through and from the Art Uk Shop (including date and time); products you viewed or searched for; page response times; download errors; length of visits to certain pages; page interaction information (such as scrolling, clicks, and mouse-overs); methods used to browse away from the page; and any phone number used to contact us. We collect this information for system administration purposes and to report aggregate information on usage.</p>
+<p>(c)<strong>&nbsp;</strong><strong>Information we receive from other sources.</strong> We may also receive information about you from third parties, where you have consented to those third parties sharing your personal data with us. Where we receive personal data in this way, we will process it in accordance with the terms of this Privacy Policy and the terms of any consent that you provided.</p>
 <p><strong>2. Cookies</strong></p>
-<p>Art UK and the Art UK Shop use cookies to distinguish you from other users. This helps us to provide you with a good experience when you browse Art UK and the Art UK Shop and also allows us to improve Art UK and the Art UK Shop. For detailed information on the cookies used across Art UK and the purposes for which we use them see the&nbsp;Art UK <a href="http://artuk.org/footer/use-of-cookies-14">Cookies Policy</a>.</p>
-<p><strong>3. Uses made of the information</strong></p>
-<p>Internova may share the information held about you with the Public Catalogue Foundation, so that we can work together to provide and continuously improve the Art UK Shop.</p>
-<p>In addition, we use information held about you in the following ways:</p>
-<p>(a)<strong>&nbsp;</strong><strong>Information you give to us.</strong><strong>&nbsp;</strong>We will use this information:</p>
-<p style="padding-left: 30px;">(i) to carry out our obligations arising from any contracts entered into between you and us, including processing and fulfilling orders made by you, and to provide you with the information, products and services that you request from us;</p>
-<p style="padding-left: 30px;">(ii) to provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about;</p>
-<p style="padding-left: 30px;">(iii) to provide you, or permit selected third parties to provide you, with information about goods or services we feel may interest you. If you are an existing customer, we will only contact you by electronic means (email or SMS) with information about goods and services similar to those which were the subject of a previous sale or negotiations of a sale to you. If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data;</p>
-<p style="padding-left: 30px;">(iv) to notify you about changes to our service; and</p>
-<p style="padding-left: 30px;">(v) to ensure that content from the Art UK Shop is presented in the most effective manner for you and for your computer.</p>
-<p>(b)<strong>&nbsp;</strong><strong>Information we collect about you.</strong><strong>&nbsp;</strong>We will use this information:</p>
-<p style="padding-left: 30px;">(i) to administer the Art UK Shop and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;</p>
-<p style="padding-left: 30px;">(ii) to improve the Art UK Shop to ensure that content is presented in the most effective manner for you and for your computer;</p>
-<p style="padding-left: 30px;">(iii) to allow you to participate in interactive features of our service, when you choose to do so;</p>
-<p style="padding-left: 30px;">(iv) as part of our efforts to keep the Art UK Shop safe and secure;</p>
-<p style="padding-left: 30px;">(v) to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you; and</p>
-<p style="padding-left: 30px;">(vi) to make suggestions and recommendations to you and other users of the Art UK Shop about goods or services that may interest you or them.</p>
-<p>(c)&nbsp;<strong>Information we receive from other sources.</strong>&nbsp;We may combine this information with information you give to us and information we collect about you. We may use this information and the combined information for the purposes set out above (depending on the types of information we receive).</p>
+<p>The Website uses cookies to distinguish you from other users of the Website. This helps us to provide you with a good experience when you browse the Website and also allows us to improve the Website. For detailed information on the cookies we use and the purposes for which we use them see our&nbsp;<a href="http://artuk.org/footer/use-of-cookies-14" target="_blank">Cookies Policy</a>.</p>
+<p><b>3. Uses made of the information</b></p>
+<p>3.1 We use information held about you in the following ways:</p>
+<p>(a) to carry out our obligations arising from any contracts entered into between you and us and to provide you with any information, products and services that you request from us including to process and fulfil orders;</p>
+<p>(b) to contact you (including by email, post or telephone) in relation to orders and to improve the Art UK Shop;</p>
+<p>(c) to contact you (including by email, post or telephone), about other products and services that we offer that are similar to those that you have already purchased, signed up for or enquired about, provided that you have opted in to receive these communications;</p>
+<p>(d) to send you newsletters and other updates on our organisation and our products and services by email, where you have opted in to receive these;</p>
+<p>(e) to administer and facilitate our programmes and services;</p>
+<p>(f) to notify you about changes to our organisation or services;</p>
+<p>(g) if you provide feedback about our the Art UK Shop, services or projects through a contact form or email address, to develop and improve the relevant area;</p>
+<p>(h) to monitor the way in which the Art UK Shop is used, and to ensure that content from the Art UK Shop is presented in the most effective manner for you and for your computer;</p>
+<p>(i) to administer&nbsp;the Art UK Shop and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;</p>
+<p>(j) as part of our efforts to keep the Art UK Shop safe and secure; and</p>
+<p>(k) to make suggestions and recommendations to you and other users of the Art UK Shop about products or services that may interest you or them. We will only contact you about these products or services where you have opted in to receive these communications.</p>
+<p>3.2 We will process your personal data on the basis of your consent, if requested, and/or our legitimate interests (which include (i) the performance of our obligations under any contracts entered into between you and us; (ii) the administration, improvement and promotion of the Art UK Shop; and (iii) for compliance with applicable laws, rules and regulations). Where possible we will seek to use aggregate data in order to achieve these aims.</p>
+<p>3.3 Where our processing is based on your consent, and not any other legal basis, you have the right to withdraw your consent at any time. This withdrawal will not affect the lawfulness of processing prior to the withdrawal. If you inform us that you no longer wish to receive email or other communications from us, we will stop sending you these communications.</p>
 <p><strong>4. Disclosure of your information</strong></p>
-<p>4.1 We may share your personal information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.</p>
-<p>4.2 We may share your information with selected third parties including:</p>
-<p>(a) business partners, including&nbsp;<a href="http://artuk.org/support/introduction">partners</a>, suppliers, service providers, sub-contractors and agents for the performance of any contract we enter into with them or you, including to fulfil orders made through the Art UK Shop, to contact you in case of difficulties in processing an order or to investigate customer service issues;</p>
-<p>(b) advertisers and advertising networks that require the data to select and serve relevant adverts to you and others; and</p>
-<p>(c) analytics and search engine providers that assist us in the improvement and optimisation of the Art UK Shop.</p>
-<p>4.3 We may disclose your personal information to third parties:</p>
-<p>(a) in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;</p>
-<p>(b) if Internova or the Public Catalogue Foundation or substantially all of either of our assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets;</p>
-<p>(c) if required to do so by Law or in good faith believe we are required to do so by any order of the Courts or other competent body or agency;</p>
-<p>(d) in order to enforce or apply our&nbsp;<a href="https://artuk.org/footer/shop-terms-of-use-and-supply">Terms of Use</a>&nbsp;and other agreements; or</p>
-<p>(e) in order to protect or defend our rights or property or to protect the personal safety of our employees or the public at large.</p>
-<p><strong>5. Where we store your personal data</strong></p>
-<p>5.1 The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (the&nbsp;<strong>EEA</strong>). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.</p>
-<p>5.2 Where we have given you (or where you have chosen) a password which enables you to access certain parts of the Art UK Shop, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.</p>
-<p>5.3 Unfortunately, the transmission of information via the Internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to the Art UK Shop and any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.</p>
-<p><strong>6. Your rights</strong></p>
-<p>6.1 You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at <a href="mailto:info@artuk.org">info@artuk.org</a>.</p>
-<p>6.2 The Art UK Shop may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. It is your responsibility to check those policies before you submit any personal data to these websites.</p>
-<p><strong>7. Changes to our privacy policy</strong></p>
+<p>4.1 In order to provide our products and services, we may share your personal information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.</p>
+<p>4.2 Where we have your opt-in consent to do so, we may share your information with selected third parties who we work with in order to run and promote our projects, including but not limited to, participating collection administrations.</p>
+<p>4.3 We may also disclose your personal information to third parties:</p>
+<p>(a) if required to do so by Law or in we believe in good faith that we are required to do so by any order of the Courts or other competent body or agency;</p>
+<p>(b) in order to enforce or apply our&nbsp;<a href="https://artuk.org/footer/shop-terms-of-use-and-supply#Shop-Terms-and-Conditions-of-Supply" target="_blank">Art UK Shop Terms of Use and Supply</a>&nbsp;and other agreements; or</p>
+<p>(c) in order to protect or defend our rights or property or to protect the personal safety of our employees or the public at large.</p>
+<p>4.3 We may from time to time engage third parties to perform services (including the processing of personal data) on our behalf, such as hosting our data (including your personal data) and the Art UK Shop; sending emails and other communications relating to our products and/or services; providing analytic services, such as tracking usage of our operational sites or websites; or performing other administrative services for us. We shall only use processors that will commit to implement appropriate technical and organisational measures in order to ensure that their processing activities meet the requirements of Data Privacy Laws and ensure the protection of your data protection rights. Prior to allowing these service providers to access your personal data, we will enter into a formal agreement with them to ensure that they handle and process the information in accordance with applicable law.</p>
+<p>4.4 We will not share your information with parties outside of the European Economic Area (the&nbsp;<strong>EEA</strong>) unless we are legally permitted or required to do so. You should be aware that certain non-EEA countries do not require the same standards of protection of personal data as are legally required in the EEA. If we send your data to these countries, we will ensure that there are appropriate and suitable safeguards to protect your personal data. This will involve at least one of the following:</p>
+<p>(a) we will only transfer your personal data to countries that have been deemed to provide an adequate level of protection for personal data by the European Commission;</p>
+<p>(b) where we use certain service providers, we may use specific contracts approved by the European Commission which give personal data the same protection it has in Europe; and</p>
+<p>(c) where we use providers based in the US, we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between the Europe and the US.</p>
+<p>If you require further information on these mechanisms, please contact us at&nbsp;<a href="mailto:info@artuk.org">info@artuk.org</a>.</p>
+<p><b><b>5. Data security</b></b></p>
+<p>5.1 All information you provide to us is stored within the EEA on secure servers provided by a third party vendor. Although we will do our best to protect your personal data, we cannot guarantee the security of the information transmitted to our Website and any transmission is at your own risk. Once we have received your information, we will put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we will limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to access your data. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.</p>
+<p>5.2 Where we have given you (or where you have chosen) a password which enables you to access certain parts of the Website, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.</p>
+<p>5.3 The Website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. It is your responsibility to check those policies before you submit any personal data to these websites.</p>
+<p><b><b>6. Your rights</b></b></p>
+<p>6.1 You have the right to:</p>
+<p>(a) request access to personal data held about you by us and be provided with information in relation to that data (including the purposes for which the data are processed, the recipients to whom that personal data have been or will be disclosed, how long it will be stored for, details of any automated decision-making and your right to lodge a complaint with the Information Commissioner’s Office);</p>
+<p>(b) have inaccurate personal data amended or erased, and to have incomplete personal data completed;</p>
+<p>(c) request the erasure of your personal data (the so-called ‘right to be forgotten’);</p>
+<p>(d) object to or restrict the processing of your personal data (including where your personal data is processed for direct marketing purposes or on the basis of legitimate interests);</p>
+<p>(e) request that your personal data be transferred to another data controller or provided in a format that will permit this transfer (the so-called ‘right to portability’);</p>
+<p>(f) object to any decision that affects you being taken solely by a computer or other automated process (including profiling);</p>
+<p>(g) withdraw any consent you have granted to us in connection with the use of your personal data at any time by updating your preferences in your online account via the Art UK Shop or by emailing&nbsp;<a href="mailto:shop@artuk.org">shop@artuk.org</a>&nbsp;and <a href="mailto:info@artuk.org">info@artuk.org</a>; and</p>
+<p>(h) lodge a complaint with the UK Information Commissioner’s Office (<strong>ICO</strong>) (see https://ico.org.uk/concerns/ for further details on how to lodge a complaint). We would, however, appreciate the chance to deal with your concerns before you approach the ICO, so please contact us in the first instance.</p>
+<p><b><b>7.&nbsp;<strong>Retention of personal data</strong></b></b></p>
+<p>Your personal data will be destroyed or erased from our systems when it is no longer required for the relevant specified purpose that it was collected for, provided that we may retain personal data in order to comply with applicable laws, regulations and rules. As a general rule, this means we will retain your personal data for the duration of your involvement with us and for up to six years afterwards. However, retention and destruction of personal data will be considered on a case-by-case basis.</p>
+<p><b><b>8.&nbsp;</b></b><strong>Changes to our privacy policy</strong></p>
+<p>This version was last updated on&nbsp;<strong>25 May 2018</strong>&nbsp;and historic versions can be obtained by contacting us at&nbsp;<a href="mailto:info@artuk.org">info@artuk.org</a>.</p>
 <p>Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by email. Please check back frequently to see any updates or changes to our privacy policy.</p>
-<p><strong>8. Contact</strong></p>
-<p>To contact us, please email us at <a href="mailto:shop@artuk.org">shop@artuk.org</a>.</p></section>
+<p><strong>9.&nbsp;Contact</strong></p>
+<p>If you have any questions or concerns regarding our use of your personal data or our Privacy Policy, please contact either Lauren Colley, who is responsible for overseeing questions in relation to this Privacy Policy on behalf of Art UK, at <a href="mailto:lauren.colley@artuk.org">lauren.colley@artuk.org</a> or contact&nbsp;Rob Lees, who is responsible for overseeing questions in relation to this Privacy Policy on behalf of Internova, at&nbsp;<a href="mailto:Rob.Lees@Internova.co.uk">rob.lees@Internova.co.uk</a>.</p></section>
 <!-- END: skins/artuk/php/views/base/v_main_content -->			
 							<div class="content-subsidiary">
 					<!-- skins/artuk/php/views/common/v_share -->
@@ -623,54 +642,72 @@
 		<div class="bg-overlay"></div>
  		
 
- 		 		
- 		<script type="text/javascript"> var show_survey_modal = false;</script>   
+ 				
+		<script type="text/javascript"> var show_survey_modal = false;</script>
+				<script type="text/javascript">var show_survey_modal = true;</script>
+		<div id="survey-modal" class="modal fade" tabindex="-1" role="dialog">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<button type="button" class="close icon-close" data-dismiss="modal" aria-label="Close"></button>
+					<div class="modal-body">
+						<h1>Subscribe to our newsletter</h1>
+												<br>
+						<p>New artworks, stories and chances to win prizes, delivered straight to your inbox every two weeks.</p>
+													<a id="survey-link" class="btn btn-lg btn-primary" href="https://artuk.org/about/subscribe-to-newsletter" target="_blank">Subscribe</a>
+												<br>
+						<div class="center">
+							<a id="no-thanks" class="link" href="#"><span>No thanks</span></a>
+						</div>
+						<br>
+					</div>
+				</div>
+			</div>
+		</div>
 		
 		<script>
-
-						var KT = { 
-			    config: {
-			        base_url: "https://artuk.org/",
-			        skin: "skins/artuk",
-			        is_mobile: "",
-			        http_protocol: "https://",
-			        autocomplete: { 
-			        	api_url: "https://artuk.org/api/autocomplete",
-			        	char_limit: 3,
-			        	results_limit: 3,
-			        	lang: {
-				        	events: "Event",
-							locations: "Venue",
-							makers: "Artist",
-							people: "People",
-							places: "Places",
-							terms: "Tags",
-							works: "Title",
-							additional: "Additional title information",
-							identifier: "Accession number",
-							acquisition: "Acquisition method",
-							execution: "Execution date",
-							artists: "Artist",
-							collections: "Collection"
-			        	}
-			        },
-			        map_listing: {
-			        	venues_api: "https://artuk.org/api/venues/footer_page",
-			        },
-			        artwork_suffle_api: "https://artuk.org/discover/artworks",
-			        google_maps_key: "AIzaSyDcCGLt8mFIBsANoq2G9eG11rBn69M00bw",
-			        cluster_gridSize: 65 // The grid size of a cluster in pixels.
-			    },
-			    lang: {
-			    	p_val_error_artwork_img_size: "Image must be a minimum of 1,200 pixels in width or height",
-			    	p_val_error_venue_logo_img_size:  "Image must be a minimum of 450 pixels in height"
-			    },
-			    subscribe_popup: false			};
+				var KT = { 
+		    config: {
+		        base_url: "https://artuk.org/",
+		        skin: "skins/artuk",
+		        is_mobile: "",
+		        http_protocol: "https://",
+		        autocomplete: { 
+		        	api_url: "https://artuk.org/api/autocomplete",
+		        	char_limit: 3,
+		        	results_limit: 3,
+		        	lang: {
+			        	events: "Event",
+						locations: "Venue",
+						makers: "Artist",
+						people: "People",
+						places: "Places",
+						terms: "Tags",
+						works: "Title",
+						additional: "Additional title information",
+						identifier: "Accession number",
+						acquisition: "Acquisition method",
+						execution: "Execution date",
+						artists: "Artist",
+						collections: "Collection"
+		        	}
+		        },
+		        map_listing: {
+		        	venues_api: "https://artuk.org/api/venues/footer_page",
+		        },
+		        artwork_suffle_api: "https://artuk.org/discover/artworks",
+		        google_maps_key: "AIzaSyDcCGLt8mFIBsANoq2G9eG11rBn69M00bw",
+		        cluster_gridSize: 65 // The grid size of a cluster in pixels.
+		    },
+		    lang: {
+		    	p_val_error_artwork_img_size: "Image must be a minimum of 1,200 pixels in width or height",
+		    	p_val_error_venue_logo_img_size:  "Image must be a minimum of 450 pixels in height"
+		    },
+		    subscribe_popup: false		};
 		</script>
   
-									<script src="https://artuk.org/skins/artuk/assets/js/script.js?v=972180269"></script>
+									<script src="https://artuk.org/skins/artuk/assets/js/script.js?v=1.62"></script>
 								<script src="https://artuk.org/skins/artuk/js/portal.min.js"></script>
 									
-	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"3dc964b960","applicationID":"37435708","transactionName":"ZVxbYhcHWxZUBUUPWFwWeFURD1oLGiVeC1pdVxZfCwJQHQ==","queueTime":0,"applicationTime":133,"atts":"SRtYFF8dSBg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+	
 
 </body></html>
