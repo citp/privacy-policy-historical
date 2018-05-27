@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholesomebabyfood.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126155805id_/http%3A//www.totallyhermedia.com/privacy/%3Fsite%3Dwholesomebabyfood.momtastic.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesomebabyfood.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527112112id_/http%3A//www.totallyhermedia.com/privacy/%3Fsite%3Dwholesomebabyfood.momtastic.com) for the most accurate reproduction.*
 
 # TotallyHer Media | Privacy - ?site=wholesomebabyfood.momtastic.com
 
