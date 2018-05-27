@@ -1,0 +1,104 @@
+> *The following text is extracted and transformed from the exoscale.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527111600id_/https%3A//www.exoscale.com/privacy) for the most accurate reproduction.*
+
+# Privacy License Agreement | Exoscale European Cloud
+
+## In short
+
+Exoscale only collects and information you choose to give us, and processes it with your consent or on legal basis. We collect as little personal information as we can to allow us to provide our services. Personal information is not sold to third parties and is used and processed as described on this page.
+
+We comply with the EU’s Privacy Sheld framework and the General Data Protection Regulation (GDPR). We provide the same level of privacy protection regardless of your country of origin or location.
+
+## Information collected by Exoscale
+
+### Information from website browsers
+
+If you’re browsing Exoscale websites, we rely on cookies, server logs and web analytics providers to automatically collect basic information about the visitor.
+
+This information includes the browser type, operating system, language preferrence, referring site, and the date and time of each request. We also collect potentially personally-identifying information such as IP addresses.
+
+### Information from users with Exoscale accounts
+
+On account creation, we ask for the following information:
+
+  * Email address
+  * Password
+  * Full name and/or company name
+  * Billing address
+
+
+
+We also collect personal information from you when you subscribe to our newsletters. If you contact us from our website’s contact form or our support platform, we keep a copy of your communications with us. We also keep a copy of all communication we send you that is related to the providing of our services.
+
+## Use of collected information
+
+We use the personal information we collect from you for the following purposes:
+
+  * To deal with your requests
+  * To provide you with information and access to resources that you have requested from us
+  * To provide you with technical support
+  * To improve our website’s performance and efficiency in assisting you with the use of our products
+  * For intrusion and misuse detection and securing access to our systems as well as enforcing our Terms of Service
+  * To improve our efficiency with customer service, content and functionnality of our offering, to better understand our users’s needs and for general business management.
+  * To send important email notifications related to your use of the service.
+  * When you have allowed us to do so, to send occasional newsletter and marketing campaings about our services. You can unsubscribe from these at any time using the link provided in the message.
+
+
+
+## Protection of information
+
+Safe handling of your personal information when it’s entered, submitted or accessed is ensured by the use of TLS for all communications over the network.
+
+Furthermore, we rely on PCI-compliant payment providers and do not store financial or credit card information on our servers. Identification of your account between Exoscale and the credit card processor is done through an anonymized token that we exchange in an encrypted way.
+
+Our data isn’t encrypted at-rest, however we control control access to our datacenter locations with physical and network security.
+
+## Cookies and tracking
+
+We use cookies and affiliated technologies such as `localStorage` to keep you logged in on our web properties and remembering your preferences.
+
+Our web analytics provider(s) also use cookies as a tracking mechanism. We only enable analytics on our public properties and within our customer onboarding process to improve our performance in these areas.
+
+Cookie name | Website | Purpose  
+---|---|---  
+`session` | portal.exoscale.com | Storage of your session information  
+`cookieconsent_status` | exoscale.com | Store that you’ve given us your consent with our cookie policy  
+`guest_id` | portal.exoscale.com | This cookie is set by Twitter  
+`personalization_id` | portal.exoscale.com | This cookie is set by Twitter  
+`zabUserId` | exoscale.com, portal.exoscale.com | This cookie is set by Zoho PageSense  
+`zabVisitId` | exoscale.com | This cookie is set by Zoho PageSense  
+`zfccn` | exoscale.com | This cookie is set by Zoho PageSense  
+`zab_*` | exoscale.com | These cookies are set by Zoho PageSense  
+(opaque token) | exoscale.com | This cookie is set by Zoho PageSense  
+localStorage item | Website | Purpose  
+---|---|---  
+`postpaid_request_records | portal.exoscale.com | Remember if you already requested postpaid billing  
+`runstatus_token_:account_name` | API access token |   
+  
+## Data processors
+
+Exoscale relies on third-party subprocessors, with which we have data protection agreements to restrict their processing of users’ personal information.
+
+Name of data processor | Purpose | Location  
+---|---|---  
+Bexio | Accounting | Switzerland  
+Postfinance | Payment Service Provider | Switzerland  
+PayPal | Payment Service Provider | United States  
+Aduno | Credit card processor | Switzerland  
+Google Analytics | Web analytics | United States  
+Twitter | Web analytics | United States  
+Zoho | A/B testing | India  
+Mailchimp | Newsletters and marketing campaings | United States  
+A1 Digital International | Business intelligence | Austria  
+Amazon Web Services | Data archival | United States  
+  
+## Children under 13
+
+If you are a child under the age of 13, you may not have an Exoscale account. Exoscale does not collect information about users’ age, but if we learn that you are a user who is under the age of 13, we will terminate your account.
+
+## Right of access, modification and deletion
+
+You can request at any time to access a copy of the personal information we hold about you. You may also request the modification or deletion of such information.
+
+These enquiries should be addressed by emailing privacy@exoscale.ch to be handled by the Exoscale team under supervision of the Exoscale Data Privacy Officer.
+
+This contact is also the sole contact for requesting a change or deletion of forementionned information.
