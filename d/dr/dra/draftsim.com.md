@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the draftsim.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125132851id_/http%3A//draftsim.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the draftsim.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527220520id_/http%3A//draftsim.com/privacy.php) for the most accurate reproduction.*
 
 # draftsim - MTG Draft and Sealed Simulator MTG
 
@@ -50,4 +50,4 @@ By using our website, you hereby consent to our privacy policy and agree to its 
 This Privacy Policy was last updated on: Saturday, October 29th, 2016.   
 _Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
 
-Wizards of the Coast, Magic: The Gathering, and their logos are trademarks of Wizards of the Coast LLC. © 2017 Wizards. All rights reserved. Draftsim.com is not affiliated with Wizards of the Coast LLC. The copyright for Magic: the Gathering and all associated card names and card images is held by Wizards of the Coast. This site is © 2017 Draftsim.com
+Wizards of the Coast, Magic: The Gathering, and their logos are trademarks of Wizards of the Coast LLC. © 2018 Wizards. All rights reserved. Draftsim.com is not affiliated with Wizards of the Coast LLC. The copyright for Magic: the Gathering and all associated card names and card images is held by Wizards of the Coast. Draftsim.com is unofficial Fan Content permitted under the [Fan Content Policy](http://company.wizards.com/fancontentpolicy). Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. © Wizards of the Coast LLC. This site is © 2018 Draftsim.com
