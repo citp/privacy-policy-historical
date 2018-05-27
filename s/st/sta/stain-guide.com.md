@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stain-guide.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126052850id_/http%3A//www.stain-guide.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stain-guide.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527205008id_/http%3A//www.stain-guide.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Stain-Guide.com's Privacy Policy
 
