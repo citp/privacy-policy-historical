@@ -1,17 +1,27 @@
-> *The following text is extracted and transformed from the poemofquotes.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223131700id_/http%3A//www.poemofquotes.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poemofquotes.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527110504id_/http%3A//www.poemofquotes.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy to PoemofQuotes.com
 
-The privacy of our visitors to PoemofQuotes.com is important to us. Here is information on the types of personal information we receive and collect when you visit PoemofQuotes.com. We will never sell your personal information to third parties. 
+This policy is updated for GDPR.
 
-## Log Files
+This website does not collect any personal information from users, except for IP addresses and tracking cookies.  We do not collect any email addresses, names, passwords, or other information. We use tracking cookies in order to maintain session information.  IP addresses are only stored in order to defend against DoS attacks.
 
-At PoemofQuotes.com, we collect and use the data collected within our log files. The information kept includes your IP address (Internet Protocol address), your ISP, the browser you used to visit our site, the time you visited our site, which pages you viewed, and what screen resolution you used. 
+We have advertising and analytics partners that may track you via cookies and IP addresses.  We use Google Analytics with anonymized IP addresses, so that your individual information is not tracked.  Our advertisers may use cookies and other tracking methods. 
 
-## Cookies and Web Beacons
+Need help with a poetry or literature essay? [Get a professionally written paper with citations by tomorrow for $15.](http://track.fiverr.com/visit/?bta=19062&brand=fiverrcpa&landingPage=https%3A%2F%2Fwww.fiverr.com%2Fkirk007%2Fresearch-on-any-topic-in-english-and-literature)
 
-We use cookies to store information, such as your username, when you visit our site. 
+Our advertisers may show a popup confirming the use of cookies when you arrive at the website. If you don't accept that, you are required to leave the site.
 
-We also use third party advertisements on PoemofQuotes.com. Some of these advertisers may use cookies and web beacons when they advertise on our site, which may include your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. The information is generally used for geotargetting purposes (showing ads relevant to your location) or showing certain ads based on specific sites visited (such as showing poetry ads to someone who frequents poetry sites). 
+Our Services are not directed to persons under 13. If you become aware that your child has provided us with personal information without your consent, please contact us at legal@westbourneinterational.com. We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the child's account.
 
-You can choose to disable or turn off our cookies or third-party cookies within your browser settings or by managing your preferences in programs such as Norton Internet Security. However, this may effect your ability to search portions of our website as well as other sites. This includes inability to login to some services, such as logging into your members account. 
+For ads served by Google or DoubleClick Ad Exchange (which are not associated with this site), you can see additional information and manage your privacy settings here. For ads served by certain other networks, you can learn more about this behavioral advertising practice or opt-out of this type of advertising at http://www.networkadvertising.org/choices/. If you have additional questions or comments, please contact us.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
+
+Article continues below...
+
+Any changes to this Privacy Policy will be posted on this page so that you are always aware of the information that we collect, how we use it, and under what circumstances we disclose it.
+
+If you have any concerns or questions about any aspect of this policy, you may legal@westbourneinterational.com
+
+_Last update: Thu, 01/25/2018 - 06:09_
