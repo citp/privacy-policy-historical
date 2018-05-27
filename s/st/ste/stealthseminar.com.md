@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the stealthseminar.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126145647id_/http%3A//www.stealthseminar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stealthseminar.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527115218id_/http%3A//www.stealthseminar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Stealth Seminar | Stealth Seminar
 
-Effective Date: January 1, 2013
+Effective Date: May 25, 2018
 
 To review material modifications and their effective dates scroll to the bottom of the page.
 
