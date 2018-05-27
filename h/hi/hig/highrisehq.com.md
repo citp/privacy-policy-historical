@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the highrisehq.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218230635id_/https%3A//highrisehq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highrisehq.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527184811id_/https%3A//highrisehq.com/privacy) for the most accurate reproduction.*
 
 # Highrise Privacy Policy
+
+_Last updated: May 24, 2018_
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. While Highrise processes your data, we'll only ever access your account to help you with a problem or squash a software bug. We'll never open any uploaded files unless you ask us to. We log access to all accounts by IP address, browser and operating system so we can verify unauthorized access (for as long as the logs are kept).
 
@@ -20,9 +22,30 @@ The only times we'll ever share your info:
 
 
 
-You always have the right to access the personal information we store about you. You can review the personal information you provide to us and make any desired changes to the information, or to the settings for your Highrise account, at any time by logging into your account on the website and editing the information on your Profile page. You can also contact Lynette Kontny via email at [privacy@highrisehq.com](mailto:privacy@highrisehq.com), mail at: 30 N. Racine Avenue, Suite 200, Chicago, IL 60607, or phone at 847.469.3248. Please include your name, address, and/or email address when you contact us.
+You always have the right to access the personal information we store about you. You can review the personal information you provide to us and make any desired changes to the information, or to the settings for your Highrise account, at any time by logging into your account on the website and editing the information on your Profile page. You can also contact Jeremy Daer via email at [privacy@highrisehq.com](mailto:privacy@highrisehq.com), mail at: 30 N. Racine Avenue, Suite 200, Chicago, IL 60607, or phone at 847.469.3248. Please include your name, address, and/or email address when you contact us.
 
 Even after you have consented to our collection and use of your personal information, you may opt-out of having your personal data collected or used by us by contacting us via one of the methods described above. Doing so, however, may prevent you from using Highrise services and may result in us closing your account.
+
+## Your Rights With Respect to Your Information
+
+You may have heard about the General Data Protection Regulation (“GDPR”) in Europe. GDPR gives people under its protection certain rights with respect to their personal information collected by us on the Site. Accordingly, Highrise recognizes and will comply with GDPR and those rights, except as limited by applicable law. The rights under GDPR include: 
+
+  * **Right of Access.** This includes your right to access the personal information we gather about you, and your right to obtain information about the sharing, storage, security and processing of that information. 
+  * **Right to Correction.** This is your right to request correction of your personal information. 
+  * **Right to Erasure.** This is your right to request, subject to certain limitations under applicable law, that your personal information be erased from our possession (also known as the “Right to be forgotten”). However, if applicable law requires us to comply with your request to delete your information, fulfillment of your request may prevent you from using Highrise services and may result in closing your account. 
+  * **Right to Complain.** You have the right to make a complaint regarding our handling of your personal information with the appropriate supervisory authority. 
+  * **Right to Restrict Processing.** This is your right to request restriction of how and why your personal information is used or processed. 
+  * **Right to Object.** This is your right, in certain situations, to object to how or why your personal information is processed. 
+  * **Right to Portability.** This is your right to receive the personal information we have about you and the right to transmit it to another party. 
+  * **Right to not be subject to Automated Decision-Making.** This is your right to object and prevent any decision that could have a legal, or similarly significant, effect on you from being made solely based on automated processes. This right is limited, however, if the decision is necessary for performance of any contract between you and us, is allowed by applicable European law, or is based on your explicit consent. 
+
+
+
+Many of these rights can be exercised by signing in and directly updating your account information. If you have questions about exercising these rights or need assistance, please contact us at privacy@highrisehq.com. 
+
+## Processors we use
+
+As part of the services we provide, and only to the extent necessary, we may use certain third party processors to process some or all of your personal information. For identification of these processors, and where they are located, please see our [Subprocessor listing](https://web.archive.org/privacy/subprocessors). We have signed appropriate data processing contracts that comply with GDPR with each processor. 
 
 ## Law Enforcement
 
@@ -38,9 +61,11 @@ Highrise also contains embedded 'share' buttons to enable Users to share content
 
 When you visit a website (such as our site), your browser automatically shares certain information, such as your IP address and other device information. Some of this information may also be sent to third-party content providers (for example: advertisers, website analytic companies, etc.) that provide content on the website. Such sharing may allow the website and/or content providers to track you over time and across multiple websites. Today, many browsers offer Do Not Track plugins that allow you to express a preference that you not be tracked, and that tell websites that you visit, by sending an electronic beacon, this preference. At this time, our site does not respond to Do Not Track beacons sent by browser plugins.
 
-## Encryption
+## Security and Encryption
 
 All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) when transmitted from our servers to your browser. The database backups are also encrypted. Data isn't encrypted while it's live in our database (since it needs to be ready to send to you when you need it), but we go to great lengths to secure your data at rest.
+
+For more information about how we keep your information secure, please review our [security overview](https://web.archive.org/security).
 
 ## Third Parties
 
@@ -58,12 +83,16 @@ Highrise is subject to the investigatory and enforcement powers of the Federal T
 
 ## EU-US and Swiss-US Privacy Complaints
 
-In compliance with the EU-US and Swiss-US Privacy Shield Principles, Highrise commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact Lynette Kontny at Highrise at support@highrisehq.com, or by mail at Highrise HQ, LLC, 30 North Racine Avenue #200, Chicago, IL 60607 USA. We will thoroughly investigate the matter internally and make every effort to attempt to resolve the issue quickly.
+In compliance with the EU-US and Swiss-US Privacy Shield Principles, Highrise commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact Jeremy Daer at Highrise at support@highrisehq.com, or by mail at Highrise HQ, LLC, 30 North Racine Avenue #200, Chicago, IL 60607 USA. We will thoroughly investigate the matter internally and make every effort to attempt to resolve the issue quickly.
 
 Highrise has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers](http://www.bbb.org/EU-privacy-shield/for-eu-consumers) for more information and to file a complaint.
 
 Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel. For more information please see [www.privacyshield.gove/article?id=ANNEX-I-introduction](https://www.privacyshield.gov/article?id=ANNEX-I-introduction).
 
+## Location of Site and Data
+
+This Site is operated in the United States. If you are located in the European Union or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using our Site, participating in any of our services and/or providing us with your information, you consent to this transfer. 
+
 ## Changes & Questions
 
-Highrise may update this policy once in a blue moon — we'll notify you about significant changes by emailing the account owner or by placing a prominent notice on our site. Questions about this privacy policy? Please contact Lynette Kontny at [privacy@highrisehq.com](mailto:privacy@highrisehq.com) or by mail at: Highrise HQ LLC, 30 North Racine Avenue #200, Chicago, IL 60607 USA and we'll be happy to answer them!
+Highrise may update this policy once in a blue moon — we'll notify you about significant changes by emailing the account owner or by placing a prominent notice on our site. Questions about this privacy policy? Please contact Jeremy Daer at [privacy@highrisehq.com](mailto:privacy@highrisehq.com) or by mail at: Highrise HQ LLC, 30 North Racine Avenue #200, Chicago, IL 60607 USA and we'll be happy to answer them! 
