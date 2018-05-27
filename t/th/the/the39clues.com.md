@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the the39clues.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124222926id_/http%3A//the39clues.scholastic.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the39clues.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527111610id_/http%3A//the39clues.scholastic.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Scholastic Inc.
 
-Scholastic knows that your privacy is important to you, and we want you to know that it is important to us too. Unless otherwise specified in connection with a particular activity, this Policy explains the types of information we collect through our Web sites, online services or applications on which this Policy is posted (each, a "Site"), how we will use, disclose and protect this information once it is collected, and how you can opt out of some of our uses and disclosures of your information. By visiting our Site, you agree to the terms of this Privacy Policy.
+Scholastic knows that your privacy is important to you, and we want you to know that it is important to us too. Unless otherwise specified in connection with a particular activity, this Policy explains the types of information we collect through our Web sites, online services or applications on which this Policy is posted (each, a "Site"), how we will use, disclose and protect this information once it is collected, and how you can opt out of some of our uses and disclosures of your information. By visiting our Site, as permitted by law, you agree to the terms of this Privacy Policy.
 
 Here are a few general things to keep in mind as you read this Policy:
 
@@ -15,7 +15,7 @@ Here are a few general things to keep in mind as you read this Policy:
   * Our Kids Privacy Policy applies to Sites or areas of our Sites that are directed to kids under age 13 (our "Kids Sites").
   
 
-  * **Except when we tell you otherwise in connection with a particular activity, we may share your Personal Information with third parties for third party marketing purposes. You can ask us not to by sending us your name, email and phone number to: Opt-Out Request, Scholastic Inc., 557 Broadway, New York, NY 10012. For further information, see theOpt In and Opt Out section below.**
+  * **As permitted by law and except when we tell you otherwise in connection with a particular activity, we may share your Personal Information with third parties for third party marketing purposes. You can ask us not to by sending us your name, email and phone number to: Opt-Out Request, Scholastic Inc., 557 Broadway, New York, NY 10012. For further information, see theOpt In and Opt Out section below.**
   
 
   * This Policy may be supplemented from time to time by other terms that are posted on and apply to specific Web sites or features, online services or applications. In addition, as our business changes, this Policy may also change, so we encourage you to come back to this page from time to time.
@@ -24,10 +24,10 @@ Here are a few general things to keep in mind as you read this Policy:
   * This Policy _does not_ apply to information that we collect from or about you other than through our Site, such as over the phone, by mail, or in person. Your right to opt out of our use and sharing of your Personal Information with third parties for their own marketing purposes, however, also applies to the Personal Information that we collect offline.
   
 
-  * **This Site places cookies and local shared objects on your computer or device which are further described below. By using the Site, you agree to this.**
+  * **This Site places cookies and local shared objects on your computer or device which are further described below. As permitted by law, by using the Site, you agree to this.**
   
 
-  * **If you are located outside of the United States, you should know that the information you provide to us is being transmitted to us and processed in the United States and in other countries by us or our service providers on our behalf, and will be protected subject to this Privacy Policy and applicable laws, which may not be as protective as the laws in your country. By using the Site, you agree to this.**
+  * **If you are located outside of the United States, you should know that the information you provide to us is being transmitted to us and processed in the United States and in other countries by us or our service providers on our behalf, and will be protected subject to this Privacy Policy and applicable laws, which may not be as protective as the laws in your country. As permitted by law, by using the Site, you agree to this.**
   
 
   * **Advertisements shown to you on this Site and elsewhere may be customized to your interests and preferences based on your Personal Information and Web site usage information collected through our Site, unless you opt out. Opt-out instructions can be found at:<http://www.networkadvertising.org/choices/> and <http://www.aboutads.info/choices/>. (You have to opt out separately for each of your devices, and for each Web browser you use, such as Internet Explorer, Firefox or Safari.) Even if you opt out, we may still suggest offerings to you on our Site based on your history at our Site.**
@@ -59,9 +59,9 @@ It may take us a few days to process any opt-out request. In addition, if you op
 
 Personal Information may also include information, such as names and email addresses, that we collect from you about other people when you share content on our Site with someone else, purchase a gift, or create a teacher account for a classroom.
 
-We may also collect information such as your date of birth and certain demographic information. We do not generally treat these as Personal Information except when tied to information such as that listed above.
+We may also collect information such as your date of birth and certain demographic information. We do not generally treat these as Personal Information except when tied to information such as that listed above or as required by law.
 
-In some cases, information about you or your device, including Personal Information, may be collected on our Site directly by a third party, and is subject to that third party's privacy policy. For example, widgets or other third party tools may be used on our Site to provide services like content sharing, new feeds, comment-filtering, or blog hosting, and our applications may be used through third party platforms. See Social Networking below for more information about how we may use third party social networks.
+In some cases, information about you or your device, including the information detailed above, may be collected on our Site directly by a third party, and is subject to that third party's privacy policy. For example, widgets or other third party tools may be used on our Site to provide services like content sharing, new feeds, comment-filtering, or blog hosting, and our applications may be used through third party platforms. See Social Networking below for more information about how we may use third party social networks.
 
 **_Site Usage Information_**  
 When you visit our Site, our servers automatically collect the Internet protocol, or "IP", address associated with your computer, to help us track and resolve issues with Site functionality or administration. An IP address is a string of numbers that is usually controlled by a user's Internet service provider, and automatically assigned when a user's computer connects to the Internet. In some cases, we may get general geographic location information from your IP address.
@@ -84,7 +84,7 @@ These technologies allow us to assign a unique customer number to you.
 
 We use third party service providers to assist us in collecting and understanding Site usage information.
 
-By using our Site, you agree to our use of these tracking technologies.
+As permitted by law, by using our Site, you agree to our use of these tracking technologies.
 
 Some of our mobile applications may collect information about the location of your mobile device so we can provide location-based services. To manage location services, check the settings on your mobile device or contact your mobile service provider or device manufacturer. Specific mobile applications may include additional terms that relate only to those apps.
 
@@ -124,23 +124,33 @@ Information sharing also happens when it is a necessary part of certain Site fea
 We may also share your Personal Information:
 
   * with our affiliates and third parties for their marketing and other purposes, unless you tell us not to by following the instructions in the Opt In and Opt Out section above
+  
+
   * with our co-sponsor(s) if we obtain your Personal Information in connection with a contest, sweepstakes, offering, or other promotional activity that is jointly offered by us and any third party(ies)
+  
+
   * if you are a registered teacher through us, we may make your name, school name and school location available in an online lookup tool for parents and others, unless you opt out by contacting us using the email address or telephone number available under Contact Us below (in some cases, your opt-out may not be effective until the next school year)
+  
+
   * when we believe in good faith that disclosure is necessary to protect our rights or property or that of others, protect your safety or the safety of others, investigate fraud or respond to a government, judicial or other legal request, or to comply with the law
+  
+
   * in connection with a corporate change or dissolution, including for example a merger, acquisition, reorganization, consolidation, bankruptcy, liquidation, sale of assets or wind down of business; and due diligence related to the foregoing
+  
+
   * in additional circumstances subject to your consent
 
 
 
-In addition, we may share non-personally identifiable Site usage information (including aggregate data) with others, for their own use, in a form that does not include your name or contact information.
+In addition, we may share Site usage information (including aggregate data) with others, for their own use, in a form that does not include your name or contact information.
 
 **Third-Party Tracking, Ad Servers and Networks**  
 Third parties, such as ad networks, web analytics companies and social networking platforms, may collect personally identifiable information about your online activities over time and across our Sites and other third party online properties or services. These companies may use information about your visits to this and other Web sites, and general geographic information derived from your IP address, in order to provide advertisements about goods and services of interest to you. These advertisements may appear on this Site and on other Web sites. These companies may employ cookies, clear GIFs and other tracking technologies to cause relevant ads to be displayed to you. Some advertisements may display icons that consumers can click on for more information about their advertising choices.
 
-For information about the privacy practices of third party advertising companies who serve ads on our Site, visit <http://www.google.com/policies/privacy/> and <http://www.operative.com/privacy-policy/>. **For more information about third-party advertisers and how to prevent them from using your information, visit the NAI's consumer Web site at<http://www.networkadvertising.org/> choices or <http://www.aboutads.info/choices/>.** Our Sites do not honor "do not track" signals transmitted by users' web browsers, so we encourage you to visit these links if you would like to opt out of certain tracking. If you do want to opt out using these tools, you need to opt out separately for each of your devices and for each Web browser you use (like Internet Explorer, Firefox or Safari) on each device.
+For information about the privacy practices of third party advertising companies who serve ads on our Site, visit <http://www.google.com/policies/privacy/> and <http://www.operative.com/privacy-policy/>. **For more information about third-party advertisers and how to prevent them from using your information, visit the NAI's consumer Web site at[http://www.networkadvertising.org/choices/](http://www.networkadvertising.org/) or <http://www.aboutads.info/choices/>.** Our Sites do not honor "do not track" signals transmitted by users' web browsers, so we encourage you to visit these links if you would like to opt out of certain tracking. If you do want to opt out using these tools, you need to opt out separately for each of your devices and for each Web browser you use (like Internet Explorer, Firefox or Safari) on each device. For mobile applications, please visit your device settings or third party ad blocking tools. 
 
 **Your Access Rights**  
-You may review or change certain Personal Information in your user account on the Site (if you have one) by logging in to the "My Account" or similar area of the Site or by contacting us using the Contact Us information below. We may ask you to verify your identity before we provide you with your information or make changes to it. We reserve the right to keep certain Personal Information necessary for record-keeping to the extent permitted and/or required by law, including any statutory retention requirements.
+You may review or change certain Personal Information in your user account on the Site (if you have one) by logging in to the "My Account" or similar area of the Site or by contacting us using the Contact Us information below. You may also contact us as detailed below to exercise other rights under applicable law, including the right to access, review, correct, obtain a copy, port, delete, or block or withdraw consent to the processing of certain Personal Information (without affecting the lawfulness of processing based on consent before its withdrawal). We may ask you to verify your identity before we provide you with your information or make changes to it. We reserve the right to keep certain Personal Information necessary for record-keeping to the extent permitted and/or required by law, including any statutory retention requirements.
 
 If you are a parent, guardian or teacher and you or your minor child or student have provided us with Personal Information about that child or student, you may:
 
@@ -148,6 +158,10 @@ If you are a parent, guardian or teacher and you or your minor child or student 
   * review or revise that Personal Information
   * ask us to delete the child's Personal Information
   * ask us not to collect Personal Information from the child in the future
+  * exercise any other rights detailed above to that child's Personal 
+
+Information
+
 
 
 
@@ -166,7 +180,7 @@ While we have policies and procedures in place and take reasonable measures to p
 
 If you create an account on our Site, you are responsible for maintaining the strict confidentiality of your account password, and for any activity that occurs under your account credentials, whether or not authorized by you. Please notify us of any unauthorized use of your account or any other breach of security.
 
-If we believe that the security of your Personal Information in our care may have been compromised, we may seek to notify you of that development, as soon as possible under the circumstances. If we have your email address, we may notify you by email. **You consent to our use of email as a means of such notification. If you want to be notified by U.S. mail instead, please email us at securitycs@scholastic.com.**
+If we believe that the security of your Personal Information in our care may have been compromised, we may seek to notify you of that development, as soon as possible under the circumstances. If we have your email address, we may notify you by email. **Where permitted by law, you consent to our use of email as a means of such notification. If you want to be notified by U.S. mail instead, please email us at securitycs@scholastic.com.**
 
 **"Linked-To" Web Sites**  
 This Site may contain links, banners or advertisements that lead to other third party Web sites or use third party services. We are not responsible for these other sites and services, and their privacy policies (not this Policy) will govern the collection and use of your information there. We encourage you to read them.
@@ -174,8 +188,33 @@ This Site may contain links, banners or advertisements that lead to other third 
 **Internet Safety**  
 We encourage parents and teachers to talk with their children and students about how to be safe online. Here are some resources to help you do that.
 
+  * Ways to Take Charge of the Web  
+[ http://www.scholastic.com/teachers/article/ten-ways-takecharge-web](http://www.scholastic.com/teachers/article/ten-ways-takecharge-web)
+  * Internet Safety Commandments  
+[ http://www.scholastic.com/teachers/top-teaching/2012/05/internet-safety-commandments-summer](http://www.scholastic.com/teachers/top-teaching/2012/05/internet-safety-commandments-summer)
+  * Keeping Kids Safe Online  
+[ http://www.scholastic.com/parents/resources/article/your-child-technology/keeping-kids-safe-online](http://www.scholastic.com/parents/resources/article/your-child-technology/keeping-kids-safe-online)
+  * [http://www.onguardonline.gov](http://www.onguardonline.gov/)
+  * [http://www.getnetwise.org](http://www.getnetwise.org/)
+  * <http://www.commonsensemedia.org/>
+  * <http://www.ikeepsafe.org/>
+
+
+
+  
 **Changes to this Privacy Policy**  
-We may change this Policy from time to time. When we do, we will let you know by posting the changed Policy on this page with a new "Last Updated" date. We may choose (or be required by law) to tell you about changes by additional means, such as by sending an email to the email address we have on file for you. In some cases, we may request your consent to the changes.
+We may change this Policy from time to time. When we do, we will let you know by posting the changed Policy on this page with a new "Last Updated" date. We may choose (or be required by law) to tell you about changes by additional means, such as by sending an email to the email address we have on file for you. In some cases, we will request your consent to the changes.
+
+**  
+Other Issues**
+
+_What is our legal basis of processing?_
+
+Some jurisdictions require an explanation of the legal basis for the collection and processing of Personal Information. We have several different legal grounds on which we collect and process Personal Information, including: (1) as necessary to perform a transaction (such as when we respond to your requests); (2) as necessary to comply with a legal obligation (such as when we use Personal Information for record keeping to satisfy legal and compliance obligations); (3) consent (where you have provided consent as appropriate under applicable law, such as for marketing); and (4) necessary for legitimate interests (such as when we act to maintain our business generally). With respect to legitimate interests, except where such interests are overridden by the interests or fundamental rights and freedoms of you which require protection of Personal Information, such legitimate interests are the fulfilment of the processing purposes described in this Privacy Policy that are not necessary for the performance of a contract or for our compliance with a legal obligation to which we are subject. 
+
+_How long do we retain your Personal Information?_
+
+We typically retain Personal Information related to marketing activities for as long as you accept marketing communications from us, and upon request, we will securely delete such data in accordance with applicable law. For Personal Information that we collect and process for other purposes, as described above, we typically retain such Personal Information for no longer than the period necessary to fulfill the purposes outlined in this Privacy Policy, and as otherwise needed to address tax, corporate, compliance, education law, litigation, and other legal rights and obligations. 
 
 **Contact Us**  
 If you have any questions or comments regarding our privacy practices, you may contact us at:
@@ -189,10 +228,9 @@ Email: custserv@scholastic.com
 Phone: 1-800-SCHOLASTIC  
 
 
-This Privacy Policy replaces our former privacy policy which you can find posted [here](https://web.archive.org/1998PrivacyPolicy2011Update.htm).
+This Privacy Policy replaces our former privacy policy which you can find posted [here](https://web.archive.org/web/20180527111610id_/http://www.scholastic.com/privacy-v2017-01-09-live-page.htm).
 
-**Effective Date:** November 21, 2013  
-Updated July 2014 to add links to Opt-Out Request Form and Scholastic Education Technology Products Privacy Policy. 
+**Effective Date:** May 25, 2018
 
 **Scholastic Kids (Under 13) Privacy Policy**
 
@@ -230,12 +268,12 @@ When a child visits a Kids Site, our systems automatically collect the Internet 
 
 We also collect "clickstream data". Clickstream data is information about a user's "clicks" or actions on a Kids Site, such as the pages, content or ads seen or clicked on, downloads, games played, and other activity. Clickstream data also includes information about a child's computer or device, Web browser and operating system and settings and may include referrer URL information that is automatically passed to us (that is, information about where the user came from before arriving on our Site, which may include search terms in the URL string).
 
-Here are examples of the technical tools we use to collect usage information about children's visits to our Kids Sites: 
+Here are examples of the technical tools we use to collect usage information about children's visits to our Kids Sites:
 
-  * _Cookies_ : Cookies are small data files sent by a Web site or application and saved on a user's computer or device at the request of that site or app. A browser cookie stores information about the user's Web browser, so we can recognize that browser when a user comes back to that site or app. Cookies can help us save a user's preferences on a Kids Site, and can also be used to help with age-screening tools. Most browsers can be set to detect or reject browser cookies, but refusing cookies may, in some cases, make it difficult or impossible to use a Kids Site. More information about the use of browser cookies, including how to manage or delete them, is available in the tools, help or similar section of Web browsers and at [allaboutcookies.org](http://www.allaboutcookies.org/). **By allowing their children to use our Kids Sites, parents agree to the placement of cookies on their child's computer or device.**
+  * _Cookies_ : Cookies are small data files sent by a Web site or application and saved on a user's computer or device at the request of that site or app. A browser cookie stores information about the user's Web browser, so we can recognize that browser when a user comes back to that site or app. Cookies can help us save a user's preferences on a Kids Site, and can also be used to help with age-screening tools. Most browsers can be set to detect or reject browser cookies, but refusing cookies may, in some cases, make it difficult or impossible to use a Kids Site. More information about the use of browser cookies, including how to manage or delete them, is available in the tools, help or similar section of Web browsers and at [allaboutcookies.org](http://www.allaboutcookies.org/). **Where permitted by law, by allowing their children to use our Kids Sites, parents agree to the placement of cookies on their child's computer or device.**
   
 
-  * _Local shared object_ : Local shared objects, such as "Flash cookies," may be stored on a computer or device through a media player or other software installed on that computer or device. Local shared objects operate a lot like cookies, but cannot be managed in the same way. Flash cookies are often used in activities like games, to store scores or other progress. Depending on how local shared objects are enabled on a computer or device, they can be managed using software settings. Information about managing Flash cookies is available at <http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html>. As with browser cookies, some features of our Kids Sites will not work as well if Flash cookies are turned off. **By allowing their children to use our Kids Sites, parents agree to the placement of local shared objects on their child's computer or device.**
+  * _Local shared object_ : Local shared objects, such as "Flash cookies," may be stored on a computer or device through a media player or other software installed on that computer or device. Local shared objects operate a lot like cookies, but cannot be managed in the same way. Flash cookies are often used in activities like games, to store scores or other progress. Depending on how local shared objects are enabled on a computer or device, they can be managed using software settings. Information about managing Flash cookies is available at <http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html>. As with browser cookies, some features of our Kids Sites will not work as well if Flash cookies are turned off. **Where permitted by law, by allowing their children to use our Kids Sites, parents agree to the placement of local shared objects on their child's computer or device.**
   
 
   * _Pixel tags_ : A pixel tag (also known as a "clear GIF" or "web beacon") is a tiny image that can be placed on a Web page or in emails to users, to tell us when a user has displayed that page or opened those emails.
@@ -247,7 +285,7 @@ We use tracking tools to give our users a better experience - for example, so us
 These tools may allow us to assign a unique number to our child users, but this number cannot be used to track child users across different, unaffiliated Web sites. We also do not link a child's user number or Kids Site usage information with the child's Personal Information, or collect geolocation information more specific than city or zip code, unless we get consent from the child's parent. We do not track kids across different, unaffiliated sites, online services or applications using any other persistent identifiers unless we have a parent's consent. We do not use IP addresses or the child's unique number to attempt to identify individual kid users except under the circumstances described in the "Legal Disclosures" paragraph of this Kids Privacy Policy.
 
 **Third-Party Ad Servers and Networks**  
-We use third-party advertising companies to serve ads on our Kids Sites. For information about their privacy practices, visit <http://www.google.com/policies/privacy/> and <http://www.operative.com/privacy-policy/>. However, we use these services in a manner that complies with this Kids Privacy Policy. 
+We use third-party advertising companies to serve ads on our Kids Sites. For information about their privacy practices, visit <http://www.google.com/policies/privacy/> and <http://www.operative.com/privacy-policy/>. However, we use these services in a manner that complies with this Kids Privacy Policy. For mobile applications, please visit your child's device settings or third party ad blocking tools. 
 
 ### _HOW IS THE PERSONAL INFORMATION WE COLLECT ABOUT KID USERS USED AND SHARED?_
 
@@ -278,13 +316,14 @@ If we believe that the security of Personal Information in our care may have bee
 Under the Children's Online Privacy Protection Act (COPPA), schools may (but are not required to) act as intermediaries for parents, by giving permission for students under 13 to provide Personal Information in connection with certain online school activities, subject to any applicable school or school district policies.
 
 **_HOW CAN YOU REVIEW YOUR CHILD'S PERSONAL INFORMATION, DEACTIVATE YOUR CHILD'S KIDS SITE ACCOUNT OR DELETE YOUR CHILD'S PERSONAL INFORMATION?_**  
-If you are a parent of one of our child users, you can 
+If you are a parent of one of our child users, you can
 
   * review your child's Personal Information
   * ask us to deactivate your child's Kids Site account
   * revoke any consent you have given for your child
   * ask us to delete Personal Information your child has given us
   * ask that we no longer collect Personal Information from your child
+  * exercise any other rights to your child's Personal Information, including the right to access, review, correct, obtain a copy, port, delete, or block or withdraw consent to the processing of certain Personal Information
 
 
 
@@ -296,10 +335,31 @@ To make these requests, you may contact our Customer Service at 800-246-2986 or 
 Our Kids Sites may contain links, banners or advertisements that lead to other third party Web sites or online services. We are not responsible for these other sites and services, and so the privacy policies on those sites (not this Policy) will govern the collection and use of information there. We encourage users to read the privacy policies of each Web site visited after leaving our Sites, and of each such third party service used, to learn about how their information is treated by others.
 
 **_DATA PROCESSING IN THE UNITED STATES_**  
-**Information provided to or collected by us on our Kids Sites is transmitted to us and processed in the United States and other countries, either by us or our service providers on our behalf, and will be protected subject to this Privacy Policy and applicable laws, which may not be as protective as the laws in other countries. By allowing their children to use our Kids Sites, parents agree to the preceding sentence.**
+**Information provided to or collected by us on our Kids Sites is transmitted to us and processed in the United States and other countries, either by us or our service providers on our behalf, and will be protected subject to this Privacy Policy and applicable laws, which may not be as protective as the laws in other countries. Where permitted by applicable law, by allowing their children to use our Kids Sites, parents agree to the preceding sentence.**
 
 **_INTERNET SAFETY_**  
 We encourage parents and teachers to talk with their children and students about how to be safe online. Here are some resources to help you do that.
+
+  * Ways to Take Charge of the Web  
+[ http://www.scholastic.com/teachers/article/ten-ways-takecharge-web](http://www.scholastic.com/teachers/article/ten-ways-takecharge-web)
+  * Internet Safety Commandments  
+[ http://www.scholastic.com/teachers/top-teaching/2012/05/internet-safety-commandments-summer](http://www.scholastic.com/teachers/top-teaching/2012/05/internet-safety-commandments-summer)
+  * Keeping Kids Safe Online  
+[ http://www.scholastic.com/parents/resources/article/your-child-technology/keeping-kids-safe-online ](http://www.scholastic.com/parents/resources/article/your-child-technology/keeping-kids-safe-online)
+  * [http://www.onguardonline.gov](http://www.onguardonline.gov/)
+  * [http://www.getnetwise.org](http://www.getnetwise.org/)
+  * <http://www.commonsensemedia.org/>
+  * <http://www.ikeepsafe.org/>
+
+
+
+_What is our legal basis of processing?_
+
+Certain countries require us to explain the legal reasons we collect, use and share a child's Personal Information. We rely on several reasons to collect, use and share your  Personal Information, including: (1) in order to provide our services to your child (so the games and activities your child would like to play); (2) in order to comply with the law (such as when we use your child's Personal Information for record keeping to satisfy legal and compliance obligations); (3) consent (where a parent has provided consent for their child, such as for marketing); and (4) necessary for business interests (such as when collect and use your child's data to maintain our business generally, which takes into account the impact on your child's privacy).
+
+_How long do we retain your Personal Information?_
+
+We typically retain Personal Information related to online activities for as long as you would like your child to continue to participate in such activities, and upon request, we will securely delete such data in accordance with applicable law.
 
 **_CHANGES TO OUR PRIVACY POLICIES_**  
 If we make a material change to our Kids Privacy Policy, we will make reasonable attempts to notify parents of child users by any means permitted by law, and we may require the parent's consent to any new privacy policy.
@@ -315,7 +375,7 @@ Phone: 1-800-SCHOLASTIC
 
 If possible, when you contact us, please indicate the name of the Kids Site or other Site, division, product or service of Scholastic that you believe your child may have used or to which your question relates. A list of our Kids Sites and their operators is available here.
 
-Effective Date: November 21, 2013
+Effective Date: May 25, 2018
 
 ###  _ **Registration on Kids Sites**_
 
@@ -347,7 +407,7 @@ Child users can also use e-cards, "email this", "invite a friend" or similar too
 
 Site: | Operator(s):  
 ---|---  
-THE STACKS, Family Playground and other Kids Sites on Scholastic.com or distributed as mobile apps (unless otherwise specified in this list or in the privacy policy for a specific Kids Site or app) | Scholastic Inc.  
+Family Playground and other Kids Sites on Scholastic.com or distributed as mobile apps (unless otherwise specified in this list or in the privacy policy for a specific Kids Site or app) | Scholastic Inc.  
 557 Broadway  
 New York, NY 10012  
 Email: custserv@scholastic.com  
@@ -394,28 +454,4 @@ Scholastic Book Fairs Inc.
 Lake Mary, FL 32746
 
 Email: custserv@scholastic.com  
-Phone: 800-SCHOLASTIC  
-  
-### The STACKS
-
-THE STACKS is Scholastic's site about books and reading for 8-12 year olds, where children can create profiles and communicate with other children about books, authors and other subjects of interest. Activities include games, polls, profile pages, message boards, e-cards, writing activities, newsletters, contests and sweepstakes.
-
-On The STACKS, users post to message boards or public profile pages with static artwork and pre-written, un-editable text provided by Scholastic or postings that are screened for appropriateness and personally identifiable information before they are posted.
-
-On The STACKS, users also have the option to friend other users, take polls and quizzes, play games, indicate likes and dislikes or basic biographical information by checking off generic items on lists under categories such as "Colors", "Interests", "Talents" and "Travels", but no personally identifiable information is collected through these activities. The results of these activities are displayed in users' STACKS public profiles, but not in combination with any Personal Information.
-
-Kids can use The STACKS without an account, but an account is required to post on the message boards or have a profile page. To create a STACKS account, a child creates an anonymous user name through a combination of words selected from drop-down menus and an auto-generated random number. Kids also create a password. So that kids can get their password back if they forget it, we ask users a security question when they register. Passwords and security questions do not ask for personally identifiable information. We also ask for country, state/province, gender and age information as part of STACKS registration, which we keep in the aggregate, not in the user's account or connected to any other information about the user. Of this information, only the user name is publicly posted, such as in connection with message boards or profile pages.
-
-Where indicated, STACKS log-in credentials may be used on certain other Scholastic Kids Sites as well, like [The Infinity Ring](http://infinityring.scholastic.com/), [The 39 Clues](http://the39clues.scholastic.com/accountsmerge/plus), [Spirit Animals](http://spiritanimals.scholastic.com/), [Scholastic Summer Reading Challenge](http://www.scholastic.com/summer/) and [Read 100,000](http://www.scholastic.com/minutes). When STACKS users log in to Scholastic Plus sites like The 39 Clues, the Infinity Ring or Spirit Animals, they may have the option of adding an email address as another means of password retrieval. If the child does submit an email address, we send a one-time email to that address with the user's log-in credentials for his or her records. The email address is then hashed, which means it is changed so that we cannot read it, and used only to retrieve the user's account information at the user's request.
-
-To go to THE STACKS, go to [www.scholastic.com/kids/stacks/](http://www.scholastic.com/kids/stacks/).
-
-For the Scholastic Kids Privacy Policy, click here. 
-
-### Family Playground
-
-Scholastic.com's Family Playground is an online play space for kids ages 3-7 to use with their parents. Activities available in the Family Playground include games, printables, e-cards, newsletters, contests and sweepstakes. Kids do not create accounts on Family Playground.
-
-To go to the Family Playground, go to [www.scholastic.com/parents/play](http://www.scholastic.com/parents/play).
-
-For the Scholastic Kids Privacy Policy, click here. 
+Phone: 800-SCHOLASTIC
