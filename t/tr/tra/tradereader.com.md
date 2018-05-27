@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the tradereader.com privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127133904id_/http%3A//www.tradereader.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradereader.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527043740id_/http%3A//www.tradereader.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Live Tender, Tender, Tender Bids, Municipal Corporation Tender, Fresh Tenders, Tenders Online
 
-  
 **TradeReader.com** and its PROMOTORS **Anmol Infra Soft Inc** is committed to protecting your privacy and security.
 
 **Use of Personal & Business Information** We may require your personal information from time to time in order for us to provide you with our services such as Tender Alerts on Email, Tender Via Web Search, Trial services, Business listing services, Business promotion services like advertising, newsletters etc.
