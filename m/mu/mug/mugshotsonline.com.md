@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mugshotsonline.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124233924id_/http%3A//www.mugshotsonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mugshotsonline.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527210708id_/http%3A//www.mugshotsonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,7 +25,7 @@ If you identify yourself by sending us an e-mail containing personal information
 
 US Data Co Ltd will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us. Such information may be sold or otherwise transferred to unaffiliated third parties.
 
-If you would like to remove your user account, please email us at [support@mugshotsonline.com](mailto:support@mugshotsonline.com), with "Delete User Account" in the subject line.
+If you would like to remove your user account, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e794929797889593a78a9280948f88939488898b8e8982c984888a), with "Delete User Account" in the subject line.
 
   
   
