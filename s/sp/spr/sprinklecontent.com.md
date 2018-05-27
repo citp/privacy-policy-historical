@@ -1,65 +1,85 @@
-> *The following text is extracted and transformed from the sprinklecontent.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315005527id_/http%3A//sprinklecontent.com/sprinkle-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sprinklecontent.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527170705id_/https%3A//strossle.com/privacy-policy) for the most accurate reproduction.*
 
-# Sprinkle | Privacy Policy
+# Privacy Policy - Strossle
 
-## PRIVACY AND COOKIE POLICY FOR OUR CONTENT RECOMMENDATION AND DISTRIBUTION SERVICE
+##  Last updated: April 27, 2018 Privacy Policy 
 
-This privacy policy applies to information collected through the Sprinkle content recommendation and distribution service, i.e. our widgets, video players and sponsored messages installed at our publishing partners’ web pages, (collectively, the “Service”). The Service is offered by Sprinkle Holding AB and its subsidiaries (collectively, “Sprinkle,” or “we”, “us”, “our”).
+## **General**
 
-We take your privacy very seriously and are committed to being transparent with how we use your information.  Our privacy policy explains:
+This privacy policy applies to information collected through the Strossle content recommendation and distribution service, i.e., our widgets, video players and sponsored messages installed at our publishing partners’ web pages, (collectively, the “Service”). The Service is offered by Strossle International AB and its subsidiaries (collectively, “Strossle,” or “we”, “us”, “our”).
 
-  * Why we collect information
-  * How we collect information
-  * What type of information we collect
-  * How we use that information
-  * Your options to restrict Sprinkle from accessing information
+We take your privacy very seriously and are committed to being transparent with how we use your information. Our privacy policy explains:
+
+  * What information we collect
+  * How we use the information we collect
+  * Your options to restrict Strossle from accessing information
 
 
 
-The Service contains links to other websites. We are not responsible for the privacy policies of third party websites.
+## What information we collect
 
-**Why we collect information**
+**Browser**
 
-We collect information to provide better content recommendation services to our users and better targeting for our advertisers.
+We collect information about what type of browser is used (e.g., Chrome, Edge, Firefox, Safari, etc.). We do not collect any additional information about the user agent (e.g., browser version or operating system).
 
-**How we collect information**
+**Location information**
 
-We collect information on all pages where the Service is installed.  We track what articles are read and what content items in our widgets are clicked.
+When you use our service, we collect information about what country and county (larger geographical regions) you are browsing from. We do not store detailed geographical locations (e.g., longitude and latitude). We use the location information in order to present recommendations and advertisements that are relevant to a user in a specific region.
 
-We use cookies to identify a user from one page load to another only to optimize what content to recommend on the following pages.
+**Local storage**
 
-We never collect information that can be used to identify a specific individual.
+We may store information locally on your device (e.g., using your browsers local storage or cache) in order to understand the usage and with the goal to ultimately improve the user experience. We might track what recommendations are clicked as well as time spent and number of page views on pages and sites. No personal information is processed or stored in association with this analysis.
 
-**What type of information we collect**
+**Log information**
 
-We may collect information about what content categories you access when visiting websites where our Service is installed. The system is based on a number of content categories; for example Sports or Travel. The only information that is saved in an anonymous cookie is a counter showing the amount of times a certain category of a website has been visited and the time of the latest update of the counter.
+When you use our service and interact with our recommendations, we collect information about where our service is loaded, what recommendations are displayed and what recommendations are clicked. We use this information in order to optimise recommendations and calculate delivery and payouts for advertisers and publishers. We focus on contextual optimisation and we do not store any personal data of any kind. For legal reasons, we may store IP addresses for up to 14 days if any fraudulent activities occur (see section: How we use the information we collect).
 
-No categories relating to information which Sprinkle considers sensitive have been or will be created, such as categories relating to political opinions, religious beliefs, physical or mental health conditions or sexual life. Further, Sprinkle is very sensitive to the issue of children’s privacy and marketing directed to children. No categories are intended for the profiling of children.
+## How we use the information we collect
 
-By clicking the link below you can see the interest profile that has been stored in your web browser’s cookie.
+We use the information we collect to provide, improve and protect our service.
 
-[Profile](http://enreach.spklw.com/privacy_sprinkle.html "Profile")
+**Billing and payout**
 
-We may also automatically collect certain technical information such as, but not limited to, device information and IP-address.
+The data we collect when a user interacts with our service, specifically ad recommendations, are analysed in order to deliver the quantity of clicks and/or impressions an advertiser wants to reach. Additionally, we use the collected data for billing and payout purposes to advertisers and publishers.
 
-**How we use the information we collect**
+**Fraud detection**
 
-We use this information to offer you tailored content like giving you more relevant content recommendations.
+In order to protect our service and customers (e.g., publishers and advertisers), we use the information we collect to detect and analyse fraudulent activities. We may store the data (including IP address) for up to 14 days before it is deleted.
 
-We may collect and share aggregated, non-personally identifiable information publicly and with our business partners such as advertisers, publishers and content providers.
+**Communication and support**
 
-We never make individual user data available to any third party.
+When you contact us, through any of our contact channels (mail, forms, etc.), we keep a record of the communication to help solve any issues you might be facing.
 
-**Your options to restrict Sprinkle from accessing information**
+**Better recommendations**
 
-You can opt out of having us track and collect your personal information by clicking on the opt-out button on the profile page. You can also choose to clear the cookie from all information we have collected by selecting the clear-button.
+Our service does not rely on personal data but is based on contextual awareness. We use the collected information to improve our contextual understanding and to provide better content recommendation services to our users and better contextual targeting for our advertisers.
 
-[Clear profile](http://enreach.spklw.com/privacy_sprinkle.html)
+**Aggregated data and insights**
 
-_Note that if you clear all cookies from your browser, you will also clear the cookie that tells us you have opted out so you will have to opt out on this page again._
+The insights we get from aggregated, non-personally identifiable information may be used in marketing communication and with our business partners such as advertisers, publishers and content providers.
 
-You may also set your browser to block all cookies, including cookies associated with our Service. This will, however, have a negative impact upon the usability of many websites and services, including this one.
+## **Children’s information**
 
-**Policy amendments**
+Our services are not directed to children under 16. If you learn that a child under 16 has provided us with personal information without consent, please contact us.
 
-We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes.
+## Your options to restrict Strossle from accessing information
+
+**Disable cookies and local storage**
+
+You may set your browser to disable cookies and local storage associated with our service. This will, however, have a negative impact upon the usability of many websites and services, including this one.
+
+Instructions for how to disable cookies and local storage can be found in your browser’s help section.
+
+**Turn on “Do Not Track” in your browser**
+
+You may activate the “Do Not Track” functionality in your browser. This will prevent our service from to storing recommendations you have clicked, and we will not target any recommendations based on your location information.
+
+Instructions for how to turn on “Do Not Track” can be found in your browser’s help section.
+
+## Policy amendments
+
+We may update this privacy policy from time to time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes.
+
+## Contact information
+
+For questions regarding our privacy policy, feel free to reach out to [privacy@strossle.com](mailto:privacy@strossle.com) or call us at +46101991400
