@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ghchealth.com privacy policy that was archived on 2017-09-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170930152831id_/https%3A//www.globalhealingcenter.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ghchealth.com privacy policy that was archived on 2018-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180527181928id_/https%3A//www.globalhealingcenter.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 		
@@ -24,7 +24,9 @@
 		<link rel="stylesheet" media="all" href="https://cdn.globalhealingcenter.com/dist/css/_prod/v2.1i.style.min.css">
 	
 	<link rel="stylesheet" media="print" href="https://cdn.globalhealingcenter.com/dist/css/_prod/v2.1c.print.min.css">
-	<script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/api/js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MPW4VF"></script><script async="" src="//d.impactradius-event.com/A393281-873e-414a-a662-54b9c25a362c1.js"></script><script id="ltkSDK" src="https://cdn.listrakbi.com/scripts/script.js?m=HRcrCxpQJsoy&amp;v=1" type="text/javascript"></script><script async="" src="//www.gstatic.com/wcm/loader.js"></script><script async="" src="//static.woopra.com/js/t/5.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://cdn.globalhealingcenter.com/dist/js/_prod/v2.1a.magento.min.js"></script>
+	<script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/api/js"></script><script src="https://cdn.globalhealingcenter.com/dist/js/_prod/v2.1a.magento.min.js"></script>
+
+	<script>var tracking = {consent: {cookies: {required: '1', marketing: '0', preferences: '0', statistics: '0'}}, ip: '0', eu: '1', scripts: [] }</script>
 		
 	<!-- mage css/js -->	
 	<!--[if lt IE 7]>
@@ -54,20 +56,24 @@ optionalZipCountries = ["CW"];
 
 <!-- BEGIN: Google Universal E-commerce Tracking Code -->
 
-
+<style>.async-hide { opacity: 0 !important} </style>
 <script>
-	
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	var googleAnalyticsTracking = {
+		category: 'statistics',
+		script: function() {
+			  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-207602-21', 'auto', {'allowLinker': true});
+  ga('create', 'UA-207602-21', 'auto', {'allowLinker': true,'useAmpClientId': true});
   ga('require', 'linkid', 'linkid.js');
   ga('require', 'linker');
   ga('require', 'GTM-KRH5889');
   ga('linker:autoLink', ['globalhealingcenter.com'] );
-  ga('send', 'pageview');
+  ga('send', 'pageview');		}
+	};
+	tracking.scripts.push( googleAnalyticsTracking );
 </script>
 
 <!-- END: Google Universal E-commerce Tracking Code -->
@@ -76,29 +82,36 @@ optionalZipCountries = ["CW"];
 	woopra
 ================================================= -->
 	<script>
-		(function(){
-		        var t,i,e,n=window,o=document,a=arguments,s="script",r=["config","track","identify","visit","push","call","trackForm","trackClick"],c=function(){var t,i=this;for(i._e=[],t=0;r.length>t;t++)(function(t){i[t]=function(){return i._e.push([t].concat(Array.prototype.slice.call(arguments,0))),i}})(r[t])};for(n._w=n._w||{},t=0;a.length>t;t++)n._w[a[t]]=n[a[t]]=n[a[t]]||new c;i=o.createElement(s),i.async=1,i.src="//static.woopra.com/js/t/5.js",e=o.getElementsByTagName(s)[0],e.parentNode.insertBefore(i,e)
-		})("woopra");
-		
-		woopra.config({
-			ignore_query_url: false,
-		    		    domain: 'globalhealingcenter.com'
-		    		});
-		
+		var woopraTracking = {
+			category: 'statistics',
+			script: function(){
+				(function(){
+						var t,i,e,n=window,o=document,a=arguments,s="script",r=["config","track","identify","visit","push","call","trackForm","trackClick"],c=function(){var t,i=this;for(i._e=[],t=0;r.length>t;t++)(function(t){i[t]=function(){return i._e.push([t].concat(Array.prototype.slice.call(arguments,0))),i}})(r[t])};for(n._w=n._w||{},t=0;a.length>t;t++)n._w[a[t]]=n[a[t]]=n[a[t]]||new c;i=o.createElement(s),i.async=1,i.src="//static.woopra.com/js/t/5.js",e=o.getElementsByTagName(s)[0],e.parentNode.insertBefore(i,e)
+				})("woopra");
+
+				woopra.config({
+					ignore_query_url: false,
+					ping: false,
+										domain: 'globalhealingcenter.com'
+									});
+
 				
-		woopra.track(
-			"pv", {
-				url: window.location.pathname,
-				template: 'desktop (zero)',
-				title: document.title			}
-		);
-		
-		 
-		
+				woopraPageView = {
+					url: window.location.pathname,
+					template: 'desktop (zero)',
+					title: document.title				};
+
+				if( typeof optimizely !== 'undefined' && optimizely.get('state').getActiveExperimentIds() ){
+					woopraPageView.optimizely_experiments = optimizely.get('state').getActiveExperimentIds().toString();
+				}
+
+				woopra.track( "pv", woopraPageView );
+
+							}
+		};
+		tracking.scripts.push( woopraTracking );
 	</script>
 <!-- end woopra -->
-	
-
 
 <!-- [CANONICAL_URL:BEGIN] -->
 <link rel="canonical" href="https://www.globalhealingcenter.com/privacy">
@@ -106,26 +119,20 @@ optionalZipCountries = ["CW"];
 
 
 	<script type="text/javascript">//<![CDATA[
-        var Translator = new Translate([]);
+        var Translator = new Translate({"Add to Wishlist":"Save for Later"});
         //]]></script>		
 			
 	<!--[if lte IE 9]>
 	<link rel="stylesheet" media="screen" href="https://www.globalhealingcenter.com/skin/frontend/ghc/v2/css/ghc/v2.1a.style.min.css" />
 	<link rel="stylesheet" media="print" href="https://www.globalhealingcenter.com/skin/frontend/ghc/v2/css/ghc/v2.1a.print.min.css" />
 	<script src="https://www.globalhealingcenter.com/skin/frontend/ghc/v2/js/compatibility/respond.min.js"></script>
-	
-	<script>
-		$('AmazonPayButtonMethod').addClassName('display-none')
-	</script>
 	<![endif]-->
 	
 	<!--[if IE]>
 	<link rel="stylesheet" href="https://www.globalhealingcenter.com/skin/frontend/ghc/v2/css/compatability.css" />
 	<script src="https://www.globalhealingcenter.com/skin/frontend/ghc/v2/js/compatibility/html5shiv.min.js"></script>
 	<script src="https://www.globalhealingcenter.com/skin/frontend/ghc/v2/js/compatibility/rem.min.js"></script>
-	<![endif]-->
-	
-		</head>
+	<![endif]-->	</head>
 	
 	<body class="m0 p0 md-py1 md-px2  cms-page-view cms-privacy">
 				
@@ -146,8 +153,8 @@ optionalZipCountries = ["CW"];
 		<div class="header-logo clearfix sm-col sm-col-6 md-col-5 lg-col-5 p1 sm-p0 sm-pr3 md-pr0">
 	<div class="logo col col-7 sm-col-12">
 		<a href="/">
-			<img id="logo-desktop" class="xs-hide" src="https://cdn.globalhealingcenter.com/brand/logo/web/horizontal/gray/380x74.png" alt="Global Healing Center">
-			<img id="logo-mobile" class="sm-hide md-hide lg-hide" src="https://cdn.globalhealingcenter.com/brand/logo/web/horizontal/white/small.png" alt="Global Healing Center">
+			<img id="logo-desktop" class="xs-hide" src="https://cdn.globalhealingcenter.com/brand/logo/web/horizontal/20th-anniversary/20th-logo.png" alt="Global Healing Center">
+			<img id="logo-mobile" class="sm-hide md-hide lg-hide" src="https://cdn.globalhealingcenter.com/brand/logo/web/horizontal/20th-anniversary/20th-logo-white.png" alt="Global Healing Center">
 		</a>
 	</div>
 	<div class="mobile-call-cart col col-5 sm-hide md-hide lg-hide">
@@ -194,10 +201,10 @@ optionalZipCountries = ["CW"];
 	</div>
 	
 	<div class="search-bar col col-10 sm-col-12 md-col-11 right">
-		<form action="/search.php" id="cse-search-box">
+		<form action="/searchresults.html" id="cse-search-box">
 			<div class="clearfix">
 				<div class="col col-10 sm-col-9 px1 sm-px0 sm-pr1">
-					<input name="q" class="search-input m0" type="text" placeholder="Search Natural Products, Health Conditions, and Articles">
+					<input id="search-input-box" name="q" class="search-input m0" type="text" placeholder="Search Natural Products, Health Conditions, and Articles">
 				</div>
 				<div class="col col-2 sm-col-3 center">
 					<button type="submit" class="search-button btn btn-darken block" name="sa">
@@ -216,7 +223,7 @@ optionalZipCountries = ["CW"];
 	<div class="nav-item"><a href="/cleansing.html" class="block bold white">Detox / Cleansing</a></div>
 	<div class="nav-item"><a href="/kits.html" class="block bold white">Health Kits</a></div>
 	<div class="nav-item"><a href="/supplements.html" class="block bold white">Supplements</a></div>
-	<div class="nav-item"><a href="/organic-skin-care.html" class="block bold white">Skin Care</a></div>
+	<div class="nav-item"><a href="/skin-care.html" class="block bold white">Skin Care</a></div>
 	<div class="nav-item"><a href="/books-videos.html" class="block bold white">Books &amp; DVDs</a></div>
 	<div class="nav-item sm-hide"><a href="/pets.html" class="block bold white">Pets</a></div>
 	
@@ -231,12 +238,14 @@ optionalZipCountries = ["CW"];
 	</nav>
 			
 			<div class="notification-header p1 bg-gray center">
-	<b><span class="orange">New Product!</span> - Iron Fuzion™ -</b> Plant-Based Iron Made from Organic Curry Leaves! - <a href="/iron-fuzion-supplement.html?icn_ghc=IronFuzion&amp;ici_ghc=TopNotice">View Our Iron Supplement</a>
+	<b><span class="orange">New!</span></b> <a href="/iron-fuzion-supplement.html?icn_ghc=IronFuzion&amp;ici_ghc=TopNotice">Iron Fuzion™</a> from Organic Curry Leaf Extract
 </div>
+
 
 <style type="text/css">
 .product-iron-fuzion-supplement .notification-header { display: none; }
 </style>
+
 			<div class="breadcrumbs pt1 text0 xs-hide">
 			<span class="home">
 							<a href="https://www.globalhealingcenter.com/" title="Go to Home Page">Home</a>
@@ -250,58 +259,124 @@ optionalZipCountries = ["CW"];
 			<section class="pb2 pt1 px1 sm-px0">
 				
 <div class="std"><h1>Global Healing Center Privacy Policy</h1>
+<h2>Effective date: May 21, 2018.</h2>
 
 <h3>General Disclaimer</h3>
-<p>Thank you for visiting Global Healing Center online and for reviewing our Privacy Policy. We strive to ensure that our customers and visitors are well-informed of the measures we have set in place to protect any personal information collected through our website, as well as the storage and disposal of that information.</p>
-<p>This Privacy Policy discloses the privacy practices we utilize through operation of <a href="https://www.globalhealingcenter.com">www.globalhealingcenter.com</a>, and applies solely to the information collected by this website through such operation. Through this notice, you will be informed of the following:</p>
+<p>Thank you for visiting Global Healing Center online and for reviewing our Privacy Policy. We strive to ensure that our customers and visitors are well-informed of the measures we have set in place to protect any personal information collected through our website, as well as the storage and disposal of that information. Unless you reside in the EU, by exploring and using this Website, and by submitting information to us, you agree to our use of such information as described herein as well as the terms and conditions set forth in our Terms of Use.</p>
+<p>This Privacy Policy discloses the privacy practices we utilize through operation of <a href="https://www.globalhealingcenter.com/">www.globalhealingcenter.com</a>, and applies solely to the information collected by this Website through such operation. Through this notice, you will be informed of the following:</p>
 <ol>
-	<li>What personal information is collected from your use of <a href="https://www.globalhealingcenter.com">www.globalhealingcenter.com</a>, as well as how that information is used and with whom that information may be shared;
-	</li>
+	<li>What personal information is collected from your use of <a href="https://www.globalhealingcenter.com/">www.globalhealingcenter.com</a>, as well as how that information is used and with whom that information may be shared;</li>
 	<li>What choices are available to you regarding the use of the information;</li>
 	<li>The security procedures in place to protect the misuse of your information; and</li>
 	<li>How you may correct any potential inaccuracies in your information.</li>
 </ol>
+
+
 <h3>Information, Collection, Use, and Sharing</h3>
-<p>We are the sole owners of the information collected on this site. We only have access to and collect information that you voluntarily provide to us via e-mail or through other direct contact from you. We do not and will not sell or rent this information to any other person or entity.</p>
-<p>We will use the information you provide in order to respond to you and the reason you have contacted us. We will not share your information with any third party outside of our organization other than as necessary to fulfill your request (such as to ship your order) or to monitor, improve, and enhance your experience with using our website. Websites such as Google and Facebook provide services we utilize to perform these valuable enhancement and improvement features, but the sharing of your information for the utilization of these services only extends to your basic contact information. Again, we do not and will not rent or sell your information to any other person or entity. Period.</p>
+<p>We are the sole owners of the information collected on this Website. We only have access to and collect information that you voluntarily provide to us via e-mail or through other direct contact from you. We do not and will not sell or rent this information to any other person or entity.</p>
+<p>When you engage in a transaction on our Website, we may collect, directly from you, your name, e-mail address, IP address, web browser, mailing address, shipping address, credit card information, phone number, age and sex, for the purpose of being able to perform the services provided through our Website. We are processing this information based upon your consent to our doing so, our legitimate interests such as marketing and, with respect to the data necessary to process your payments, because it is necessary for the performance of your contract with us. Data will be transferred to countries outside of the EU so long as it is necessary for the purpose of carrying out our contractual obligations to you or you have granted us your consent. The only people who may have access to your personal data are the customer satisfaction team, the marketing team, and the shipping team. This information will only be retained for as long as it is necessary to carry out the purpose for which it is collected, to fulfill our contractual obligations, or as long as it is required by law. We will retain your information for as long as your account is active with us, but no longer than ten (10) years from the time that you cease having an active account.  Of course, we will delete your personal data quickly upon request.</p>
+<p>In order for us to be able to provide the services and goods available on our Website and to meet any of our related business obligations, you must provide the personal data that is required to do so.  Without that data, we are not in a position to do so.</p>
+<p>We will not share your information with any third party outside of our organization other than as necessary to fulfill your request (such as to ship your order) or to monitor, improve, and enhance your experience with using our website. Websites such as Google and Facebook provide services we utilize to perform these valuable enhancement and improvement features, but the sharing of your information for the utilization of these services only extends to your basic contact information. Again, we do not and will not rent or sell your information to any other person or entity. Period.</p>
 <p>We may contact you via e-mail in the future in order to inform you of special offers, new products or services, or changes to this Privacy Policy. However, should you not want to receive this special information, then you may choose not to by e-mailing us to inform us of your decision using the e-mail provided at the end of this Policy.</p>
+
+
 <h3>Orders</h3>
 <p>In order to process an order for you, it is necessary for us to request some information from you through our order form, such as your name, shipping address, credit card number, and expiration date. This information is used for billing purposes and to process your order. If for some reason we are having trouble processing your order, we will use this information to contact you and verify your order with you.</p>
+
+
 <h3>Cookies</h3>
 <p>When you visit websites from your computer, the web servers utilized by those websites create small packets of information regarding your visit to the website. These small packets of information are known as “Cookies.” The websites you visit use these cookies to monitor your activity while visiting the website, such as which pages you visited and which links you accessed, and to record information about you. With this information the websites can provide customized features to you in the event you return, thereby enhancing your experience with those websites.</p>
 <p>There are two different types of cookies utilized by websites. The first is what is known as a “Session” cookie. A session cookie temporarily records a small amount of information in your internet browser’s memory, but this information expires and is destroyed when you close your internet browser. The second type of cookie is known as a “Persistent” cookie. Persistent cookies save the small amount of information created by your visit to a website to your computer’s hard drive and in the event you re-visit a website, your computer accesses the persistent cookie. Persistent cookies allow a website to understand what your interests were the last time you visited the website, and uses that information to enhance your experience with the website.</p>
-<p>We use session and persistent cookies on our website in order to enhance our users’ experience with <a href="https://www.globalhealingcenter.com">www.globalhealingcenter.com</a>. By doing this we are able to offer specific promotions or company information to you based on your previous orders and interests with Global Healing Center. For example, if you were interested in a specific product we offer, we could use your information from your visit to our website to send you a special offer for that product or invite you to try a related product you may have been interested in but were unaware that we also offer. Our goal is that by using this information we can optimize your experience with our website by catering to your interests. We also want to use this information to help us make improvements to our website where necessary.</p>
+<p>We use session and persistent cookies on our Website in order to enhance our users’ experience with <a href="https://www.globalhealingcenter.com/">www.globalhealingcenter.com</a>. By doing this we are able to offer specific promotions or company information to you based on your previous orders and interests with Global Healing Center. For example, if you were interested in a specific product we offer, we could use your information from your visit to our Website to send you a special offer for that product or invite you to try a related product you may have been interested in but were unaware that we also offer. Our goal is that by using this information we can optimize your experience with our Website by catering to your interests. We also want to use this information to help us make improvements to our Website where necessary. You may stop or restrict the placement of cookies on your computer or remove them from your browser by adjusting your web browser’s preferences by following its instructions. If you choose to disable cookies you may still browse our Website but many of the features will not work.</p>
+<p>We may also use these cookies to serve you relevant ads on Google. To opt out of these ads, please see the information here: <a href="https://support.google.com/ads/answer/2662922?hl=en">https://support.google.com/ads/answer/2662922?hl=en</a> and here: <a href="https://www.criteo.com/privacy/">https://www.criteo.com/privacy/</a></p>
+<p>To opt out of ad serving on Facebook, please see this link: <a href="https://www.facebook.com/help/568137493302217">https://www.facebook.com/help/568137493302217</a></p>
+
+
 <h3>Surveys &amp; Contests</h3>
-<p>From time to time, our website may request information from you in the form of surveys or contests. Participation in these surveys or contests is completely voluntary and you may choose whether or not to participate and disclose the requested information. The information requested by these surveys or contests may include your contact information (such as your name and shipping address) and your demographical information (such as your zip code and age level).</p>
-<p>The contact information you provide through our contests will be used by us in order to notify winners and award prizes. The information you provide through our surveys will be used by us to monitor and improve the use and satisfaction of our website, as previously discussed above.</p>
-<p>Some of the surveys we utilize to monitor and enhance our website and our customers’ experience with our website are interactive surveys which ask you for certain personal information in order to join discussion forums, blogs, and other interactive Global Healing Center community features such as signing up to receive e-mail notifications or newsletters. When you participate in one of these activities, the information that you provide may be visible to other web users of <a href="https://www.globalhealingcenter.com">www.globalhealingcenter.com</a>. Any information you provide will be protected to the extent permissible under the Freedom of Information Act and Privacy Act.</p>
+<p>From time to time, our Website may request information from you in the form of surveys or contests. Participation in these surveys or contests is completely voluntary and you may choose whether or not to participate and disclose the requested information. The information requested by these surveys or contests may include your contact information (such as your name and shipping address) and your demographical information (such as your zip code and age level).</p>
+<p>The contact information you provide through our contests will be used by us in order to notify winners and award prizes. The information you provide through our surveys will be used by us to monitor and improve the use and satisfaction of our Website, as previously discussed above.</p>
+<p>Some of the surveys we utilize to monitor and enhance our Website and our customers’ experience with our Website are interactive surveys which ask you for certain personal information in order to join discussion forums, blogs, and other interactive Global Healing Center community features such as signing up to receive e-mail notifications or newsletters. When you participate in one of these activities, the information that you provide may be visible to other web users of <a href="https://www.globalhealingcenter.com/">www.globalhealingcenter.com</a>. Any information you provide will be protected to the extent permissible under the Freedom of Information Act and Privacy Act.</p>
+
+
+<h3>Data Processors</h3>
+<p>We do not own or control any servers or databases. As a result, personal data is only stored on third-party servers, which act as data processors. The personal data that we collect is stored on Softlayer servers located in Dallas, Texas and is kept for 120 months. DoubleClick for Publishers and Bing Ads collect cookies and usage data for advertising purposes. Google Analytics, Facebook Ads conversion tracking, Woopra, ShopZilla.com, Become,com, AddThis, Shopping.com, Google AdWords conversion tracking, Nextopia, Hotjar Form Analysis &amp; Conversion Funnels, FullStory, and analytics that are directly collected by us collect cookies and usage data for analytics purposes. Google Trusted Stores collects your email address, transaction number, products purchased and name for analytics purposes. ImpactRadius collects your order number, transaction number and products purchased for affiliate marketing purposes. Optimizely collects cookies and usage data for content performance and features testing. Wistia Widget and YouTube Video Widget collect cookies and usage data for the purpose of displaying content from external platforms. PayPal and OrderGroove collect personal data as specified in their privacy policy for the purpose of handling payments. Hotjar Heat Maps &amp; Recordings collects cookies, usage data and other personal data as may be specified in their privacy policy for heat mapping and session recording purposes. Hotjar Recruit User Testers collects cookies, usage data and various types of other data for the purpose of interacting with data collection platforms and other third parties. Facebook like button and social widgets, AddThis and Pinterest “Pin it” button and social widgets collect cookies and usage data for the purpose of interacting with external social networks and platforms. Hotjar Poll &amp; Survey widgets collects cookies, usage data and other types of data for the purpose of interacting with online survey platforms. SurveyGizmo collects your e-mail address and products purchased for the purpose of interacting with online survey platforms. Mandrill collects your e-mail address and usage data for the purpose of managing contacts and sending messages. MailChimp, Zapier and OptinMonster collect your e-mail address and name for the purpose of managing contacts and sending messages. Listrak collects your e-mail address, name, address, mobile, home and work numbers, order information, product interests, content topic interests, loyalty information, customer number, IP address, operating system, location information and other device information for the purpose of managing contacts and sending messages. YotPo collects your e-mail address, order number and name for the purpose of managing contacts and sending messages. ShipStation, UPS, United States Postal Service and FedEx collect your name, phone number, e-mail address, shipping information, order number and products purchased for shipping purposes. Zendesk collects your e-mail address, name and phone number and other types of data as specified in their privacy policy for the purpose of managing support and contact requests. Criteo Dynamic Retargeting, Facebook Remarketing and Remarketing through Google Analytics for Display collect cookies and usage data for remarketing and behavioral targeting purposes. Facebook Custom Audience collects cookies and usage data for the purpose of behavioral targeting. Google Tag Manager collects cookies and usage data for the purpose of distributing it to tracking platforms.</p>
+
+
+<h3>Termination of Consent</h3>
+<p>
+You have the right, at any time, to withdraw your consent to the processing of your personal data. The withdrawal of your consent will not affect or invalidate the lawfulness of any data processing based upon your original consent that occurred prior to your withdrawal of that consent.
+<span class="eu-only display-none"><br><a href="javascript:CookieConsent.renew();CookieDeclaration.SetUserStatusLabel();">Change your consent</a></span>
+</p>
+
+
+<h3>Correction, Amendment or Deletion of Information</h3>
+<p>You have the right, in certain situations, to have your personal data corrected, erased, to terminate the further dissemination of your personal data, or to have third parties cease processing your personal data. In the event that you desire to revoke your previously granted consent to our Website collecting any personal data, and/or wish to have such information corrected, amended or deleted, and/or terminate the further dissemination of your personal data or to have third parties cease processing your personal data, you can do so by contacting the following: Saul Torres, Advertising Manager, Global Healing Center, 2040 North Loop West, Suite 234, Houston, TX 77018, (800) 476-0016 Ext. 223, <a href="mailto:data@globalhealingcenter.com">data@globalhealingcenter.com</a>.</p>
+
+
+<h3>Right to Your Personal Data</h3>
+<p>You are entitled to receive a copy of your personal data free of charge so long as your request is not manifestly unfounded or excessive. We must provide the requested information within one month of our receipt of your request, which time period can be extended by two additional months if necessary, so long as we inform you of the extension within one month of receiving your request and of the reasons for the delay.</p>
+
+
+<h3>Right to Object to Profiling and Direct Marketing</h3>
+<p>To the extent that we may collect your personal data for the purposes of conducting profiling or direct marketing, you have the right to object to the processing of your personal data for those purposes. In the event that you object to processing for those purposes, we will no longer process your personal data for those purposes.</p>
+
+
+<h3>Data Portability</h3>
+<p>You have the right to receive your personal data in a commonly used and machine-readable format and to have your personal data transmitted to another information technology environment if it is technically feasible to do so.</p>
+
+
+<h3>Response to "Do Not Track" Requests</h3>
+<p>We do not respond to web browser "do not track" signals.  As a result thereof, any navigation of our Website may be tracked as part of the gathering of quantitative user information described above.  If you arrive at our Website through the use of a link originating from a third party site that responds to "do not track" requests, the recognition of any "do not track" request you may have initiated will end upon your reaching our Website.  </p>
+
+
+<h3>Notification of Data Breach</h3>
+<p>In the event of a data breach that is likely to result in a risk to your rights and freedom, within 72 hours of our becoming aware of the breach we are required to report it to you and the appropriate authorities. We are not required to notify you of such a breach if we have implemented appropriate security measures intended to render your personal data unintelligible to an unauthorized person, have taken subsequent measures to ensure that any high risk to you does not occur, or if it would involve a disproportionate effort on our behalf, in which event a public communication will suffice.</p>
+
+
+<h3>Complaints</h3>
+<p>You have the right to lodge a complaint with the appropriate supervisory authority (Data Protection Authority) of a member state of the EU that is your habitual residence, your place of work, or the place of the alleged infringement of your rights.</p>
+
+
 <h3>Information Disposal</h3>
 <p>In order to protect your personal information, we maintain and destroy all electronically submitted information according to the principles of the Federal Records Act and the regulations and records schedules of the National Archives and Records Administration. It is also possible that some of the information you provide to us through our website may be subject to the Privacy Act and the Freedom of Information Act. You can review your rights regarding your information by visiting the Freedom of Information Act homepage at <a href="http://www.gsa.gov/portal/content/104389">www.gsa.gov/portal/content/104389</a>.</p>
-<h3>Information Involving Children</h3>
-<p>Although Global Healing Center does not specifically market to children under the age of thirteen (13), we care and are concerned with the privacy of child web users. Thus, Global Healing Center fully complies with the Children’s Online Privacy Protection Act of 1998 (COPPA) and all provisions and regulations prescribed by COPPA.</p>
-<p>Global Healing Center does not knowingly contact, solicit, record, or collect personal information from children under the age of thirteen (13), and in the event we discover that we have been defrauded or deceived into collecting such information, we will either immediately use that information to obtain parental consent or completely destroy the information collected. If you believe that we have received personal information from children under the age of thirteen (13), please e-mail us using the e-mail address at the bottom of this Policy to let us know so that we may take appropriate action.</p>
+
+
+<h3>Children’s Personal Data</h3>
+<p>Although Global Healing Center does not specifically market to children under the age of thirteen (13), we care and are concerned with the privacy of child web users. Thus, Global Healing Center intends on fully complying with the Children’s Online Privacy Protection Act of 1998 (COPPA) and all provisions and regulations prescribed by COPPA, as well as California’s Online Eraser Law, and the Delaware Online Privacy and Protection Act (“DOPPA”).</p>
+<p>Global Healing Center does not knowingly contact, solicit, record, or collect personal information from children under the age of13 in the U.S., under the age of 18 in California and Delaware, and under the age of 16 in the EU and, in the event we discover that we have been defrauded or deceived into collecting such information, we will either immediately use that information to obtain parental consent or completely destroy the information collected.</p>
+<p>Parents have the right to review the personal data that we may have collected about their children. Parents can, at any time, refuse to permit us to collect any more personal data about their children, and can request that we delete from our records all of the personal data that we have collected about their children. Parents should keep in mind that a request to delete such information about their children means that their children will not be able to utilize our Website. In order to request access to, change or delete their child’s personal data, parents can send an e-mail to us at <a href="mailto:data@globalhealingcenter.com">data@globalhealingcenter.com</a>. It will be necessary for you to authenticate yourself as the child’s parent in order to receive any information about that child. A valid request to delete personal data will be undertaken within a reasonable period of time.</p>
+<p>Minors under the age of 18 residing in California and Delaware may remove, or may request the removal of, any information that they have posted on our Website. This can be accomplished by contacting us as follows: Saul Torres, Advertising Manager, Global Healing Center, 2040 North Loop West, Suite 234, Houston, TX 77018, (800) 476-0016 Ext. 223, <a href="mailto:data@globalhealingcenter.com">data@globalhealingcenter.com</a>. Any removal of posted information does not ensure the complete or comprehensive removal of the information posted on our Website.</p>
+
+
 <h3>Social Medial and Third-Party Websites</h3>
-<p>We utilize various social media platforms and websites in order to interact with our customers, improve our customers’ experience with our website, promote our products and community, educate our customers and the public regarding our products, and engage with potential customers. While our website may have links to other websites, we do not use these platforms or other third- party websites to record, solicit, or collect personal information from our customers or web visitors. However, other third-party websites may collect your information for those websites’ various purposes, and our Privacy Policy does not apply to these other third-party websites.</p>
-<p>Please be aware that we are not responsible for the content or privacy practices of other websites. We encourage you to keep this in mind when you leave our website and also review the privacy policies of any third-party website should you decide to visit and use same. These other websites may also collect personally identifiable information.</p>
+<p>We utilize various social media platforms and websites in order to interact with our customers, improve our customers’ experience with our website, promote our products and community, educate our customers and the public regarding our products, and engage with potential customers. While our Website may have links to other websites, we do not use these platforms or other third- party websites to record, solicit, or collect personal information from our customers or web visitors. We are not responsible for the privacy practices of any such sites. They may also use cookies and other technologies. However, we do not have access to, or control over, cookies or other technologies that they may use. As such, the information practices of these sites are not covered by our policy, but rather are covered by their respective privacy policies. Thus, please be aware of when you are leaving this Website and take the time to review the privacy policies of any such third-party websites, especially if they are in the habit of collecting your personal data.</p>
 <p>The privacy policies of the social media platforms and websites we utilize to grow the Global Healing Center community are listed below and may be accessed by clicking on the included hyperlink.</p>
-<p>Facebook: <a href="https://www.facebook.com/policy.php">https://www.facebook.com/policy.php</a><br>
-Twitter: <a href="https://twitter.com/privacy?lang=en">https://twitter.com/privacy?lang=en</a><br>
-YouTube: <a href="https://www.youtube.com/static?template=privacy_guidelines">https://www.youtube.com/static?template=privacy_guidelines</a><br>
-Google Plus: <a href="https://www.google.com/policies/privacy/">https://www.google.com/policies/privacy/</a><br>
-Pinterest: <a href="https://about.pinterest.com/en/privacy-policy">https://about.pinterest.com/en/privacy-policy</a><br>
-Instagram: <a href="https://www.instagram.com/about/legal/privacy/">https://www.instagram.com/about/legal/privacy/</a></p>
+
+<p>
+	Facebook:
+	<a href="https://www.facebook.com/policy.php">https://www.facebook.com/policy.php</a><br>
+	Twitter:
+	<a href="https://twitter.com/privacy?lang=en">https://twitter.com/privacy?lang=en</a><br>
+	YouTube:
+	<a href="https://www.youtube.com/static?template=privacy_guidelines">https://www.youtube.com/static?template=privacy_guidelines</a><br>
+	Google Plus:
+	<a href="https://www.google.com/policies/privacy/">https://www.google.com/policies/privacy/</a><br>
+	Pinterest:
+	<a href="https://about.pinterest.com/en/privacy-policy">https://about.pinterest.com/en/privacy-policy</a><br>
+	Instagram:
+	<a href="https://www.instagram.com/about/legal/privacy/">https://www.instagram.com/about/legal/privacy/</a>
+</p>
+
+
 <h3>General Security and Options</h3>
-<p>We take your personal information quite seriously and understand that you do too. Thus, you may choose to decline any future contact from us at any time. Also, you may <a href="https://www.globalhealingcenter.com/contact-us.html">contact us</a> in order to:</p>
-<ol>
-	<li>See what information of yours we have collected;</li>
-	<li>Change or correct any information we have for you;</li>
-	<li>Direct us to delete any information we have for you; and/or</li>
-	<li>Identify any concern you may have regarding our use of your data.</li>
-</ol>
-<p>We also take several precautions to protect your information. When you submit sensitive personal information to us through <a href="https://www.globalhealingcenter.com">www.globalhealingcenter.com</a>, your information is protected both online and offline. Wherever we collect this information (such as your credit card data), we encrypt and securely transmit this information to our servers. You can verify our secure methods by looking for a closed-lock icon at the bottom of your internet browser or for looking for “https” at the beginning of the website at the top of your internet browser.</p>
+<p>We take your personal information quite seriously and understand that you do too. Thus, you may choose to decline any future contact from us at any time.</p>
+<p>We also take several precautions to protect your information. When you submit sensitive personal information to us through <a href="https://www.globalhealingcenter.com/">www.globalhealingcenter.com</a>, your information is protected both online and offline. Wherever we collect this information (such as your credit card data), we encrypt and securely transmit this information to our servers. You can verify our secure methods by looking for a closed-lock icon at the bottom of your internet browser or for looking for “https” at the beginning of the website at the top of your internet browser. Nevertheless, we cannot guarantee complete security of your information inasmuch as no security systems are foolproof. It is also important for you to protect against the unauthorized access to your information as well as to your computer.</p>
 <p>While we utilize encryption to protect the information you submit online, we also take serious steps to ensure the protection of your information offline. Only Global Healing Center employees who are required to access your information to perform a specific job (such as billing a customer or providing customer service) are granted access to your personal information. Even further, the computers and servers where we store your information are kept in secure locations and environments.</p>
-<p>In the event you feel that we are not completely abiding by the terms of this Privacy Policy or have a suggestion on how we can improve this Policy, please feel free to <a href="https://www.globalhealingcenter.com/contact-us.html">contact us</a>.</p>
-<p>We hope you enjoy your visit to <a href="https://www.globalhealingcenter.com">www.globalhealingcenter.com</a>, and we appreciate your support and involvement in the Global Healing Center community!</p></div>			</section>
+
+
+<h3>Notice</h3>
+<p>We may change this privacy policy from time to time. Unless you reside in the EU, all material changes to this policy are effective immediately upon its posting on this section of our Website. If you reside in the EU, you will have to provide your consent to any such changes. We may also post these changes in the Terms of Use section of this Website and/or by sending an e-mail to users who have provided us their e-mail address for this notification purpose.</p>
+<p>We hope you enjoy your visit to <a href="https://www.globalhealingcenter.com/">www.globalhealingcenter.com</a>, and we appreciate your support and involvement in the Global Healing Center community!</p></div>			</section>
 			
 			<div class="px1 sm-px0">
 					<footer>
@@ -316,7 +391,7 @@ Instagram: <a href="https://www.instagram.com/about/legal/privacy/">https://www.
 		<a href="/shipping.html" class="text-1 xs-hide sm-hide md-hide">More Info »</a>
 	</div>
 	<div class="col col-6 sm-col-6 md-col-3">
-		<a href="https://www.bbb.org/houston/business-reviews/health-and-diet-products-retail/global-healing-center-lp-in-houston-tx-35002263/#bbbonlineclick"><img class="mx1" src="https://www.globalhealingcenter.com/media/wysiwyg/bbb-footer.gif" alt="Global Healing Center recognized at the BBB"></a>
+		<a href="https://www.bbb.org/houston/business-reviews/health-and-diet-products-retail/global-healing-center-lp-in-houston-tx-35002263/#bbbonlineclick"><img class="mx1" src="https://cdn.globalhealingcenter.com/quality-assurance/en/images/better-business-bureau/seals/accredited-since/220x71.gif" alt="Global Healing Center recognized at the BBB"></a>
 		<a href="https://www.bbb.org/houston/business-reviews/health-and-diet-products-retail/global-healing-center-lp-in-houston-tx-35002263/#bbbonlineclick" class="text-1 xs-hide sm-hide md-hide">Click for Review »</a>
 	</div>
 	<div class="col col-6 sm-col-6 md-col-3">
@@ -328,17 +403,18 @@ Instagram: <a href="https://www.instagram.com/about/legal/privacy/">https://www.
 
 <!-- [newsletter-signup+social-buttons] -->
 <div class="footer-newsletter-social clearfix pt1 mb3">
-	
+
 	<!-- [newsletter-signup] -->
 	<div class="sm-col sm-col-7 md-col-6">
 		<h4 class="blue center sm-left-align">Take Control of Your Health, Join Our Newsletter!</h4>
-		
-		<form class="p1 bg-tan" method="post" action="https://customers.listrak.com/q/GrhsWX0YnsfaiX-7I68W3FyC1JzbKh4vd3">
+
+		<form class="p1 bg-tan" id="footer-signup" method="post" action="https://customers.listrak.com/q/GrhsWX0YnsfaiX-7I68W3FyC1JzbKh4vd3">
 			<input type="hidden" name="crvs" value="qHKSyhTF6AX-XFl3ZCi-0Fd0W-aqpZj8JysOlXCLsfbRLu9MDtsp2O0HiHMfO6U66WfbTnlNVqBvfla2F_1zTBJXkruDwT4nZ9XTdAq5dFTQzrt_ms3wxTjdJDqwg-mNA9U5RmjUkPma9P1blRy026kQ0xeNTjjSv3Ib5nZoDQAhBW3bJJ0lnfn7BBgoRYVNg2dUM2aeY_nxl1IdlyC6gw">
 			<input type="hidden" name="CheckBox.Language.English" value="on">
 			<input type="hidden" name="CheckBox.Email Preferences.Promo" value="on">
 			<input type="hidden" name="CheckBox.Email Preferences.Newsletter" value="on">
-			
+			<input type="hidden" name="Source.Source" value="Magento_Footer">
+
 			<div class="clearfix">
 				<div class="col col-3 sm-col-2 mt1 center">
 					<label class="bold" for="footer-newsletter-email">Email: &nbsp;</label>
@@ -347,14 +423,20 @@ Instagram: <a href="https://www.instagram.com/about/legal/privacy/">https://www.
 					<input class="mb0" type="email" id="footer-newsletter-email" name="email" placeholder="example@behealthy.com">
 				</div>
 				<div class="sm-col sm-col-4 sm-pl1">
-					<button class="btn btn-blue block" id="submit" type="submit">SIGN ME UP</button>	
+					<button class="btn btn-blue block" id="submit" type="submit">SIGN ME UP</button>
 				</div>
+			</div>
+			<div class="eu-only display-none mt1">
+				<label class="regular">
+					<input data-form="#footer-signup" class="eu-agree-checkbox" name="CheckBox.GDPRExistingSubscriberConsent.GDPRCheck" type="checkbox" value="1">
+					I agree to receive marketing emails. <a href="/privacy">View Privacy Policy</a>.
+				</label>
 			</div>
 		</form>
 		<div class="spacing-lg visible-xs"></div>
 	</div>
 	<!-- [/newsletter-signup] -->
-	
+
 	<!-- [social-buttons] -->
 	<div class="col-12 sm-col-4 md-col-5 col-right pt2 sm-pt0 center sm-left-align">
 		<h4 class="blue">Join the Global Healing Center Community!</h4>
@@ -374,7 +456,7 @@ Instagram: <a href="https://www.instagram.com/about/legal/privacy/">https://www.
 		</div>
 	</div>
 	<!-- [/social-buttons] -->
-	
+
 </div>
 <!-- [/newsletter-signup+social-buttons] -->
 
@@ -400,24 +482,24 @@ Instagram: <a href="https://www.instagram.com/about/legal/privacy/">https://www.
 			<li><a class="block sm-inline-block" href="/careers.html">Careers</a></li>
 			<li><a class="block sm-inline-block" href="/natural-health/">Health Articles</a></li>
 			<li><a class="block sm-inline-block" href="/pressandmedia">Press and Media</a></li>
-			<li><a class="block sm-inline-block" href="/affiliates/affiliate-central">Become an Affiliate</a></li> 
+			<li><a class="block sm-inline-block" href="/affiliates/affiliate-central">Become an Affiliate</a></li>
 			<li><a class="block sm-inline-block" href="/distributors/">Distributors</a></li>
 			<li><a class="block sm-inline-block" href="https://www.globalhealingcenter.net/" rel="nofollow">En Español</a></li>
 		</ul>
 	</div>
 	<div class="footer-links-set sm-col sm-col-3 xs-hide" id="footer-shop">
 		<ul class="list-reset mb0">
-			<li><a class="block sm-inline-block" href="/cleansing.html">Detox/Cleansing</a></li> 
+			<li><a class="block sm-inline-block" href="/cleansing.html">Detox/Cleansing</a></li>
 			<li><a class="block sm-inline-block" href="/kits.html">Health Kits</a></li>
 			<li><a class="block sm-inline-block" href="/supplements.html">Supplements</a></li>
-			<li><a class="block sm-inline-block" href="/organic-skin-care.html">Skin Care</a></li> 
+			<li><a class="block sm-inline-block" href="/organic-skin-care.html">Skin Care</a></li>
 			<li><a class="block sm-inline-block" href="/pets.html">Pets</a></li>
-			<li><a class="block sm-inline-block" href="/books-videos.html">Books &amp; DVDs</a></li> 
+			<li><a class="block sm-inline-block" href="/books-videos.html">Books &amp; DVDs</a></li>
 		</ul>
 	</div>
 	<div class="footer-links-set sm-col sm-col-3 xs-hide" id="footer-account">
 		<ul class="list-reset mb0">
-			<li><a class="block sm-inline-block" href="/customer/account/">My Account</a></li> 	
+			<li><a class="block sm-inline-block" href="/customer/account/">My Account</a></li>
 			<li><a class="block sm-inline-block" href="/shipping.html">Shipping Policy</a></li>
 			<li><a class="block sm-inline-block" href="/return.html">Return an Item</a></li>
 		</ul>
@@ -440,16 +522,16 @@ Instagram: <a href="https://www.instagram.com/about/legal/privacy/">https://www.
 <!-- [/footer-links] -->
 
 <!-- [footer-copy] -->
-<div class="center pt2 text0">	
+<div class="center pt2 text0">
 	<p class="border p1 border-dark">These statements have not been evaluated by the Food and Drug Administration.<br>These products are not intended to diagnose, treat, cure, or prevent any disease.</p>
 
 	<p>All testimonials and product reviews are authentic from actual customers. Documentation is available for legal inspection. Product reviews are within range of typicality.</p>
 
 	<p>Information and statements made are for education purposes and are not intended to replace the advice of your treating doctor. Global Healing Center does not dispense medical advice, prescribe, or diagnose illness. The views and nutritional advice expressed by Global Healing Center are not intended to be a substitute for conventional medical service. If you have a severe medical condition or health concern, see your physician. This Web site contains links to Web sites operated by other parties. Such links are provided for your convenience and reference only. We are not responsible for the content or products of any linked site or any link contained in a linked site. Global Healing Center does not adopt any medical claims which may have been made in 3rd party references. Where Global Healing Center has control over the posting or other communications of such claims to the public, Global Healing Center will make its best effort to remove such claims. </p>
 
-	<p>© Copyright 1998 - 2017 | All Rights Reserved <a href="/">www.globalhealingcenter.com</a></p>
+	<p>© Copyright 1998 - 2018 | All Rights Reserved <a href="/">www.globalhealingcenter.com</a></p>
 
-	<p class="mb0"><a href="/disclaimer">Terms of Use</a> | <a href="/privacy">Privacy Policy</a></p>
+	<p class="mb0"><a href="/disclaimer">Terms of Use</a> | <a href="/privacy">Privacy Policy</a> | <a href="/sitemap">Sitemap</a></p>
 </div>
 <!-- [/footer-copy] -->	</footer>
 
@@ -457,8 +539,7 @@ Instagram: <a href="https://www.instagram.com/about/legal/privacy/">https://www.
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 	<script>$.noConflict(); $j = jQuery;</script>
 
-	<script src="https://cdn.globalhealingcenter.com/dist/js/_prod/v2.1c.plugins.min.js"></script>
-
+	<!-- [cart-items-ajax] -->
 	<script>
         $j.get( 'https://www.globalhealingcenter.com/ghcajax/cart/items/', function( response ) {
             if( !response.count || response.count < 1 ) return;
@@ -467,51 +548,88 @@ Instagram: <a href="https://www.instagram.com/about/legal/privacy/">https://www.
             $j('#desktop-cart-count').html( '('+response.count+')' ).removeClass('display-none');
         })
 	</script>
+	<!-- [/cart-items-ajax] -->
 
 	<!-- [google-phone-conversion-tracking] -->
-	<script type="text/javascript">
-		(function(a,e,c,f,g,b,d){var h={ak:"1071123932",cl:"GrxmCOCi7F0Q3Jvg_gM"};        a[c]=a[c]||function(){(a[c].q=a[c].q||[]).push(arguments)};a[f]||(a[f]=h.ak); b=e.createElement(g);b.async=1;b.src="//www.gstatic.com/wcm/loader.js";d=e.getElementsByTagName(g)[0];d.parentNode.insertBefore(b,d);a._googWcmGet=function(b,d,e){a[c](2,b,h,d,null,new Date,e)}})(window,document,"_googWcmImpl","_googWcmAk","script");
-		
-		_googWcmGet(
-			
-			function( formatted_number, mobile_number ) {
-				var 
-					literal = $j('.tollfree-number'),
-					button = $j('.tollfree-number-button');
-					
-				literal.html( formatted_number );
-				button.attr( 'href', 'tel:'+mobile_number );
-			}, 
-			
-			'1-800-476-0016'
-		);
+	<script>
+		var phoneConversionTracking = {
+			category: 'statistics',
+			script: function(){
+				(function(a,e,c,f,g,b,d){var h={ak:"1071123932",cl:"GrxmCOCi7F0Q3Jvg_gM"};        a[c]=a[c]||function(){(a[c].q=a[c].q||[]).push(arguments)};a[f]||(a[f]=h.ak); b=e.createElement(g);b.async=1;b.src="//www.gstatic.com/wcm/loader.js";d=e.getElementsByTagName(g)[0];d.parentNode.insertBefore(b,d);a._googWcmGet=function(b,d,e){a[c](2,b,h,d,null,new Date,e)}})(window,document,"_googWcmImpl","_googWcmAk","script");
+
+				_googWcmGet(
+
+					function( formatted_number, mobile_number ) {
+						var
+							literal = $j('.tollfree-number'),
+							button = $j('.tollfree-number-button');
+
+						literal.html( formatted_number );
+						button.attr( 'href', 'tel:'+mobile_number );
+					},
+
+					'1-800-476-0016'
+				);
+			}
+		};
+		tracking.scripts.push( phoneConversionTracking );
 	</script>
 	<!-- [/google-phone-conversion-tracking] -->
+
+		<!-- [hotjar] -->
+	<script>
+		var hotjarTracking = {
+			category: 'statistics',
+			script: function(){
+				(function(h,o,t,j,a,r){
+					h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+					h._hjSettings={hjid:13829,hjsv:5};
+					a=o.getElementsByTagName('head')[0];
+					r=o.createElement('script');r.async=1;
+					r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+					a.appendChild(r);
+				})(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+			}
+		};
+		tracking.scripts.push( hotjarTracking );
+	</script>
+	<!-- [/hotjar] -->
 	
+	<!-- [nextopia] -->
+	<script>
+		var searchBox = $j('#search-input-box');
+
+		if( typeof(nextopiaLoaded) === 'undefined' ){
+			nextopiaLoaded = false;
+		}
+		searchBox.on('click focus', function(){
+			if( nextopiaLoaded === true ){
+				return false;
+			}
+
+			nextopiaLoaded = true;
+
+			var script = document.createElement('script');
+			script.src = 'https://cdn.nextopia.net/nxt-app/5b0e85d80405fdafbb59d55d6fb6d40d.js';
+			document.getElementsByTagName('head')[0].appendChild(script);
+		});
+	</script>
+	<!-- [/nextopia] -->
+
+
 	<!-- for all modals -->
-	<div id="modal-backdrop" class="top-0 left-0 right-0 bottom-0 display-none z1 bg-black-transparent fixed"></div>			</div>
+	<div id="modal-backdrop" class="top-0 left-0 right-0 bottom-0 display-none z1 bg-black-transparent fixed"></div>
+
+	<!-- fix for users with two frontend cookies -->
+	<script>
+		if( Mage.Cookies.get('frontend') ) {
+			Mage.Cookies.clear('frontend');
+		}
+	</script>			</div>
 			
 			
 
-
-          <!-- BEGIN AFFILIATE TRACKING CODE -->
-                  <script type="text/javascript">
-            (function () {
-                var papDomain = (("https:" == document.location.protocol) ? "https://":"http://");papDomain+="am.globalhealingcenter.com";
-                var papId = 'pap_x2s6df8d';
-                // adjust the ID iff it would conflict with an existing element
-                if ((function(elementId){var nodes=new Array();var tmpNode=document.getElementById(elementId);while(tmpNode){nodes.push(tmpNode);tmpNode.id="";tmpNode=document.getElementById(elementId);for(var x=0;x<nodes.length;x++){if(nodes[x]==tmpNode){tmpNode=false;}}}})('pap_x2s6df8d')) {papId += '_clicktrack';}
-                document.write(unescape("%3Cscript id='pap_x2s6df8d' src='" + papDomain + "/scripts/trackjs.php' type='text/javascript'%3E%3C/script%3E"));
-            })();
-        </script><script id="pap_x2s6df8d" src="https://am.globalhealingcenter.com/scripts/trackjs.php" type="text/javascript"></script>
-        
-          <script type="text/javascript">
-          <!--
-          papTrack();
-          //-->
-          </script>
-          <!-- END AFFILIATE TRACKING CODE -->
-        <script type="text/javascript">
+<script type="text/javascript">
     Listrak_Remarketing = new function() {
         this.updateCart = function() {
             new Ajax.Request('https://www.globalhealingcenter.com/remarketing/ajax/cart/');        };
@@ -520,11 +638,15 @@ Instagram: <a href="https://www.instagram.com/about/legal/privacy/">https://www.
             new Ajax.Request('https://www.globalhealingcenter.com/remarketing/ajax/track/');        };
     };
 </script>
+
 <script type="text/javascript">
     (function(d) { if (document.addEventListener) document.addEventListener('ltkAsyncListener', d);
     else {e = document.documentElement; e.ltkAsyncProperty = 0; e.attachEvent('onpropertychange', function (e) {
     if (e.propertyName == 'ltkAsyncProperty' && typeof _ltk !== 'undefined'){d();}});}})(function() {
-        _ltk.SCA.CaptureEmail('newsletter');
+
+    	if( typeof _ltkRecommendations === 'function' ) _ltkRecommendations();
+
+		_ltk.SCA.CaptureEmail('newsletter');
         _ltk.SCA.CaptureEmail('ltkmodal-email');
         _ltk.SCA.CaptureEmail('email');
         _ltk.Activity.AddPageBrowse(location.href);
@@ -533,12 +655,18 @@ Instagram: <a href="https://www.instagram.com/about/legal/privacy/">https://www.
     });
 </script>
 <script type="text/javascript">
-    (function (d, s, id, url) {
-        var js, ljs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) return;
-        js = d.createElement(s); js.id = id; js.src = url; js.type = "text/javascript";
-        ljs.parentNode.insertBefore(js, ljs);
-    })(document, 'script', 'ltkSDK', 'https://cdn.listrakbi.com/scripts/script.js?m=HRcrCxpQJsoy&v=1');
+	var listrakTracking = {
+		category: 'marketing',
+		script: function(){
+			(function (d, s, id, url) {
+				var js, ljs = d.getElementsByTagName(s)[0];
+				if (d.getElementById(id)) return;
+				js = d.createElement(s); js.id = id; js.src = url; js.type = "text/javascript";
+				ljs.parentNode.insertBefore(js, ljs);
+			})(document, 'script', 'ltkSDK', 'https://cdn.listrakbi.com/scripts/script.js?m=HRcrCxpQJsoy&v=1');
+		}
+	};
+	tracking.scripts.push( listrakTracking );
 </script>
  
 
@@ -547,17 +675,34 @@ Instagram: <a href="https://www.instagram.com/about/legal/privacy/">https://www.
 
 <!-- google tag manager -->
 		
-	<script type="text/javascript"> (function(a,b,c,d,e,f,g){e['ire_o']=c;e[c]= e[c]||function(){(e[c].a=e[c].a||[]).push(arguments)};f=d.createElement(b);g=d.getElementsByTagName(b)[0];f.async=1;f.src=a;g.parentNode.insertBefore(f,g);})('//d.impactradius-event.com/A393281-873e-414a-a662-54b9c25a362c1.js','script','ire',document,window); </script>
+	<script type="text/javascript">
+		var impactRadiusTracking = {
+			category: 'statistics',
+			script: function() {
+				(function(a,b,c,d,e,f,g){e['ire_o']=c;e[c]= e[c]||function(){(e[c].a=e[c].a||[]).push(arguments)};f=d.createElement(b);g=d.getElementsByTagName(b)[0];f.async=1;f.src=a;g.parentNode.insertBefore(f,g);})('//d.impactradius-event.com/A393281-873e-414a-a662-54b9c25a362c1.js','script','ire',document,window);
+			}
+		};
+		tracking.scripts.push( impactRadiusTracking );
+	</script>
 
 	
 
-	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MPW4VF"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-MPW4VF');</script>	
+	<noscript>
+	<iframe src="//www.googletagmanager.com/ns.html?id=GTM-MPW4VF" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<script>
+	var googleTagManagerTracking = {
+		category: 'required',
+		script: function () {
+			(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+				new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+			'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-MPW4VF');
+		}
+	};
+	tracking.scripts.push( googleTagManagerTracking );
+</script>	
 <!-- end google tag manager -->
 
 
@@ -581,7 +726,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- END: Google Trusted Stores -->			
 		</div>
 		
-			
+		<script src="https://cdn.globalhealingcenter.com/dist/js/_prod/v2.1g.plugins.min.js"></script>
+	
 	
 
 </body></html>
