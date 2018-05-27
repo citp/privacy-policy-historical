@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playdora.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220002634id_/http%3A//www.playdora.com/page/Privacy%2520Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playdora.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527192517id_/https%3A//www.playdora.com/page/Privacy%2520Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Play Dora Girl Games
 
@@ -22,10 +22,15 @@ We may collect non-personal identification information about Users whenever they
 
 Are you younger than 13? If so, you should ask your parents for permission for entering your personal information. Are you the father, mother or legal representative of a child playing games on our site and do you wish to withdraw your permission? You can do so at any time. Below a description of how it works is given. In order to cancel an account / a profile the Parent should have access to the email address associated with the account to be deleted. Upon request, the Parent will receive an email message from PlayDora.com sent to the Parent's email address (that email address should not be the email address of the account to be deleted!) containing a link to our Website. By clicking on the link a specially designed page on PlayDora.com is opened. On this page a number of data of the Parent and of the profile to be removed are displayed. Here, the Parent should fill in additional information, such as a name, address and telephone number. When the data are sent, an email message will be sent to the email address associated with the account / profile to be deleted. The Parent will have to open this email message containing a link to disable/remove the account. 
 
+**Push Notifications**
+
+Playdora.com uses the optional Onesignal.com push notification service to notify our users of new content. Users may opt-in and opt-out at any time via the little bell icon in the lower right corner of the page. For more information about the Privacy Policy of this service, please visit OneSignal **[Privacy Policy](https://onesignal.com/privacy_policy/)**
+
+**Playdora.com** implemented the following Google Analytics features based on Display Advertising: Google Analytics Demographics and Interest Reporting. You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the **[Ads Settings](https://www.networkadvertising.org/choices/)**. 
+
 **Cookies**
 
-PlayDora.com uses cookies. A cookie is a simple small file that is sent along with pages of this Website and that is stored by your browser on your computer's hard disk. It is possible to disable cookies, but we advise against this strongly. For turning off the cookies will limit the functionality of the Website considerably. After logging in with your Username and password PlayDora.com will automatically place a cookie on your computer in order to be able to recognize you during the remainder of a session. The information that is obtained by us in this way will be used by us to remember your games page and to optimize our Website according to your wishes and preferences. Cookies make the website much easier, faster and more personal.You can opt out of some third-party vendor's use of cookies for interest-based advertising by visiting aboutads.info. There are different types of cookies.   
-
+PlayDora.com uses cookies. A cookie is a simple small file that is sent along with pages of this Website and that is stored by your browser on your computer's hard disk. It is possible to disable cookies, but we advise against this strongly. For turning off the cookies will limit the functionality of the Website considerably. After logging in with your Username and password PlayDora.com will automatically place a cookie on your computer in order to be able to recognize you during the remainder of a session. The information that is obtained by us in this way will be used by us to remember your games page and to optimize our Website according to your wishes and preferences. Cookies make the website much easier, faster and more personal.You can opt out of some third-party vendor's use of cookies for interest-based advertising by visiting aboutads.info. There are different types of cookies. 
 
   
 **Necessary**
@@ -51,6 +56,10 @@ Because of these cookies we can display advertisements tuned to your interests.
 **Manage cookies**
 
 If you want to delete cookies, you should do this in the settings of your browser. 
+
+**More about cookies**
+
+You can get more info's about cookies **[here](https://www.playdora.com/cookies.php)**.
 
 **How we use collected information**
 
