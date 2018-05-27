@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ello.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121204508id_/http%3A//ello.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ello.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527022158id_/http%3A//ello.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Ello Privacy Policy
 
