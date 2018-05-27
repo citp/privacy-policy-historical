@@ -1,17 +1,15 @@
-> *The following text is extracted and transformed from the listsomething.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229064114id_/http%3A//www.listsomething.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listsomething.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527022403id_/http%3A//listsomething.com/site/privacy) for the most accurate reproduction.*
 
 # ListSomething.com
 
 ###  1\. Protecting your privacy 
 
-  * * We don't run banner ads, pop ups, pop unders, or any other kind of commercial ads.
   * * We don't share your information with third parties for marketing purposes.
   * * We don't engage in cross-marketing or link-referral programs with other sites.
   * * We don't employ tracking devices for marketing purposes ("cookies", "web beacons," single-pixel gifs).
   * * We don't send you unsolicited communications for marketing purposes.
   * * We offer email anonymization & relay, to reduce 3rd party harvesting & spam.
   * * Account information is password-protected. Keep your password safe.
-  * * Forums use basic webserver authentication. Close your browser to log out.
   * * ListSomething.com does not knowingly collect any information from persons under the age of 13. If ListSomething.com learns that a posting is by a person under the age of 13, ListSomething.com will remove that post.
   * * ListSomething.com, or people who post on ListSomething.com, may provide links to third party websites, which may have different privacy practices. We are not responsible for, nor have any control over, the privacy policies of those third party websites, and encourage all users to read the privacy policies of each and every website visited. 
 
