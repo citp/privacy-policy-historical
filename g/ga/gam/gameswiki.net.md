@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameswiki.net privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124234045id_/http%3A//gameswiki.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameswiki.net privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527071330id_/http%3A//gameswiki.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GamesWiki
 
