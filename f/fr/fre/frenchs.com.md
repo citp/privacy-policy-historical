@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frenchs.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124234057id_/http%3A//www.frenchs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frenchs.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527072114id_/http%3A//www.frenchs.com/privacy-policy) for the most accurate reproduction.*
 
 # FRENCH’S® Foods Privacy Policy
 
@@ -48,15 +48,15 @@ This privacy policy applies only to information collected on the Sites and does 
 
 We collect two types of information from visitors to the Sites: (1) Personally Identifiable Information; and (2) Non- Personally Identifiable Information, such as your IP address or cookies.
 
-**(1)Personally Identifiable Information**
+**(1)  Personally Identifiable Information**
 
 "Personally Identifiable Information" is information that identifies you personally, such as your name, address, telephone number, email address, or company name.  TFFC collects and stores the personally identifiable information that you have provided to us on the Sites, including as follows:
 
-We may collect your first and last name and product or service details if you contact us with a question related to our products or services;   
-We may collect your first and last name, mailing address and billing information if you purchase a product or service on the Sites;   
-We may collect registration details about a product that you purchase from TFFC and this information may be tied to your name and mailing address;   
-We may collect your first and last name, mailing information, email address and billing information if you download information from a Site;   
-We may collect your name, email address or phone number if you contact us with a question; We may collect your first and last name, date of birth and email address if you choose to participate in a contest or sweepstakes; and/or   
+We may collect your first and last name and product or service details if you contact us with a question related to our products or services;   
+We may collect your first and last name, mailing address and billing information if you purchase a product or service on the Sites;   
+We may collect registration details about a product that you purchase from TFFC and this information may be tied to your name and mailing address;   
+We may collect your first and last name, mailing information, email address and billing information if you download information from a Site;   
+We may collect your name, email address or phone number if you contact us with a question; We may collect your first and last name, date of birth and email address if you choose to participate in a contest or sweepstakes; and/or   
 We may collect your name and mobile phone number if you consent to receive autodialed and/or pre-recorded telemarketing messages from or on behalf of us at your mobile number.  f you do not want TFFC to collect your personally identifiable information, please do not provide it to us.
 
 **(2) Non-Personally Identifiable Information**
@@ -155,51 +155,39 @@ If you are from the European Union and wish to obtain access to the personal inf
 
 **M. Governing Law / Venue / Forum**
 
-This Agreement shall be governed by the laws of the State of New Jersey and by the federal laws of the United States, excluding their conflicts of laws provisions. Without prejudice to the procedure for making inquiries or complaints under the Privacy Shield Framework, as outlined below, all disputes, controversies and disagreements between the parties arising out of or related to this privacy policy shall be exclusively submitted for, resolved and finally settled by, binding arbitration. The arbitration shall be conducted by three (3) arbitrators exclusively in Morris County, NJ, in accordance with the Commercial Arbitration Rules of the American Arbitration Association. The Parties waive any objection that might be made on the ground that such venue may be in an inconvenient forum.
+This Agreement shall be governed by the laws of the State of New Jersey and by the federal laws of the United States, excluding their conflicts of laws provisions. All disputes, controversies and disagreements between the parties arising out of or related to this privacy policy shall be exclusively submitted for, resolved and finally settled by, binding arbitration. The arbitration shall be conducted by three (3) arbitrators exclusively in Morris County, NJ, in accordance with the Commercial Arbitration Rules of the American Arbitration Association. The Parties waive any objection that might be made on the ground that such venue may be in an inconvenient forum.
 
 **N. Contacting TFFC**
 
-If you have any questions about this privacy policy or our privacy practices, please contact us at [consumer.relations@rb.com](mailto:consumer.relations@rb.com) or write to us at:
+If you have any questions about this privacy policy, or the website overall, please contact us.
 
-The French’s Food Company LLC   
-Chester, NJ 07930   
-Attn: Consumer Relations
+For questions or comments regarding the McCormick.com website, please contact us at the following address:
+
+**Interactive Marketing  
+Consumer Products Division  
+McCormick & Co., Inc.  
+211 Schilling Circle  
+Hunt Valley, MD 21031**  
+or send us an [email](mailto:consumer_affairs@mccormick.com).
+
+For questions or comments regarding the McCormickCorporation.com website, please contact us at the following address:
+
+**Corporate Communications  
+McCormick & Company, Inc.  
+18 Loveton Circle  
+Sparks, MD 21152  
+**or send us an [email](mailto:notices@mccormick.com).
 
  All information you provide in any written communication will also be covered by this policy.
-
-**EU-U.S. PRIVACY SHIELD**
-
-TFFC complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information transferred from the European Union to the United States.  In doing so, TFFC has certified that, in respect of all personal data it receives from the EU, it will adhere to the Privacy Shield Principles of: Notice, Choice, Accountability for Onward Transfers, Security, Data Integrity and Purpose Limitation, Access and Recourse, Enforcement and Liability.  If there is any conflict between the terms in this Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To access the Privacy Shield List, and to find details of TFFC's certification, please visit [www.privacyshield.gov](http://www.privacyshield.gov/).
-
-TFFC's participation in the Privacy Shield applies to all personal data that is subject to this privacy policy and is received from the European Union or European Economic Area.  TFFC will comply with the Privacy Shield Principles in respect of such personal data.  Please note that some Non-Personally Identifiable Information (as described above) that originates from the EU or the EEA may be classed as personal information for the purposes of Privacy Shield Framework (e.g. IP addresses; cookie IDs and other online identifiers; and profile information that is not necessarily linked to a named individual).
-
-Where TFFC transfers personal data from the EU to its third party agents and service providers, it will require such third parties to process the information only for the purposes described this privacy policy and to provide the same level of protection for the information as required by the Privacy Shield Principles.  TFFC remains responsible and liable under the Privacy Shield Principles if third-party agents that it engages to process the personal data on its behalf do so in a manner inconsistent with the Principles, unless TFFC proves that it is not responsible for the event giving rise to the damage.
-
-If you believe that TFFC is processing your personal data within the scope of its Privacy Shield certification, you may direct any inquiries or complaints concerning its Privacy Shield compliance in the following ways:
-
-(1) In the first instance, please send your inquiry or complaint to consumer.relations@rb.com or by writing to the following mailing address:
-
-The French’s Food Company LLC   
-4 Mill Ridge Lane   
-Chester, NJ 07930   
-Attn: Consumer Relations
-
-TFFC will respond within 45 days.
-
-(2) If you are not satisfied with TFFC's response, or for complaints that cannot be resolved with TFFC directly, TFFC has committed to refer unresolved privacy complaints under the Privacy Shield via the American Arbitration Association – International Centre for Dispute Resolution, an alternative dispute resolution provider located in the United States.  If you do not receive a timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed by us, please visit:  <http://info.adr.org/safeharbor> for more information and to file a complaint directly with the AAA. (3) Further, your complaint can be made or referred to the US Department of Commerce or the Federal Trade Commission for further investigation.
-
-(4) If you do not resolve your complaint via one of the above routes, a binding arbitration option will also be made available to you to address such residual complaints under certain conditions.  To find out more about the Privacy Shield's binding arbitration scheme, please see <http://privacyshield.gov/article?id=My-Rights-under-Privacy-Shield>.
-
-TFFC's commitments under the Privacy Shield are subject to the investigatory and enforcement powers of the United States Federal Trade Commission.
 
 **YOUR CALIFORNIA PRIVACY RIGHTS**
 
 Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding TFFC's disclosure of personally identifiable information to third parties for their direct marketing purposes. To make such a request, please contact us:
 
-The French’s Food Company LLC   
-4 Mill Ridge Lane   
-Chester, NJ 07930   
+The French’s Food Company LLC   
+4 Mill Ridge Lane   
+Chester, NJ 07930   
 Attn: Consumer Relations
 
-Effective Date: March 22, 2017  
-Last Updated On: March 22, 2017
+Effective Date: March 22, 2018  
+Last Updated On: March 22, 2018
