@@ -1,105 +1,142 @@
-> *The following text is extracted and transformed from the swat.io privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512020630id_/https%3A//swat.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swat.io privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528234258id_/https%3A//swat.io/privacy) for the most accurate reproduction.*
 
-# Swat.io - Social Media Management for Teams - Privacy Policy
+# Easy to Use Social Media Management Tool for Teams – Swat.io
 
-* ## Introduction
+## A.  Preamble
 
-Thank you for visiting Swat.io and, if applicable, choosing to use our Service. We try to make our Privacy Policy easy to understand so that you are informed as to how we use your information. This Privacy Policy, like our Terms of Service, is an integral part of using our Service; therefore you must completely agree to our Privacy Policy in order to use our Site or Service. If you are under 18 please stop using our Service immediately.
+This Privacy Disclaimer (further on referred to as “Disclaimer”) explains:
 
-* ## Information Collected
+  * What information we collect and why we collect it
+  * How we use that information
+  * The choices we offer, including how to access and update information
 
-#### Identifying Information Submitted by You
 
-When using our Service and widget, you will be required to supply your name and Facebook login information. When logging in using Facebook we may collect any information you make available through your Facebook account. If you are using any of our paid services we may collect additional information. Additionally, if you wish to pay for our Services you will be required to submit payment information to us.
 
-#### Access Tokens
+We have tried to keep the Disclaimer as simple as possible. If you have any questions after reviewing the disclaimer, please do not hesitate to contact us at [privacy@swat.io](mailto:privacy@swat.io). 
 
-Access tokens from your user-accounts on various platforms like Facebook, Twitter, Google+ etc. will be stored and utilized when using our Service. These access tokens may allow us to collect all social media data provided by your user-account. You must agree to our use of your access tokens before using our Service.
+This Disclaimer was last modified on: May 17th, 2018
 
-#### Non-Identifying Information
+## B.  Which information we collect and how?
 
-Whenever you visit our Site, we may collect non-identifying information from you, such as your IP address, interactions with the Site and Service, chat traffic, referring URL, browser, operating system, cookie information, usage, data transferred and Internet Service Provider. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party such as your wireless provider, this information alone cannot usually be used to identify you.
+**Identifying Information Submitted by You**
 
-* ## Use of Your Information
+When visiting our websites, your IP-address is transferred to our servers and stored for a limited period of time. When using certain parts of our websites, for example when signing up for a newsletter or when downloading materials such as e-books, you might be required to supply your name, email-address, phone-number, company-name and other information that identifies you as a person.
+
+When signing up as a regular user of our services (i.e. registering a user account or accepting an invite another user or a representative of our company has sent to you), you will be required to supply your name, email-address, phone-number, company-name and other information that identifies you as a person. We’ll store this data in your user account, as well as all content and transactions you commence through our service.
+
+**Usage of Social Media Access Tokens**
+
+For regular users of our services, we might store access tokens from various social media platforms like Facebook, Twitter, Google+ etc. These access tokens will allow us to collect, store and process social media data provided through the official APIs for your user- or company-accounts on the respective platform. These access tokens are essential for our services to work, therefore you must agree to our use of your access tokens before using our service.
+
+**Non-Identifying Information**
+
+Whenever you visit our websites, we may collect non-identifying information from you, such as your interactions with the website and service, referring URL, browser, operating system and cookie information.
+
+**Identifying Information Collected by Us Through Third Parties**
+
+In addition to the personal data supplied by you, and the data we store from social media platforms using your access tokens, we are using third party services to gather additional data about your company when you’re visiting our websites or sign up for our services. The following list includes all third parties and the particular data categories we’re sharing with them:
+
+  * **Clearbit Inc**., 2020a 16th Street, San Francisco, CA 94103, USA (IP- and email-address) 
+  * **Lead Forensics** , Communication House, 26 York Street, London W1U 6PZ, United Kingdom (IP-and email-address) 
+  * **Madkudu Inc.** , 13150 Diericx Drive, Mountain View, CA 94040, USA (IP- and email-address) 
+
+
+
+We’ve carefully selected and vetted all third parties we are sharing your information with for GDPR compliance and have signed individual data processing amendments with all of them.
+
+## C. How we use the collected set of personal data?
 
 We will never sell, transfer or give your information to a third party without your permission. However, you agree that we may use your information:
 
   * To enhance or improve our users’ experiences.
-
-  * To provide our Service to you.
-
-  * To contact you and to respond to inquiries.
-
+  * To provide our service to you.
+  * To contact you and to respond to inquiries by phone, email or newsletter. 
+  * To document any communication we have commenced with you.
   * To process transactions.
-
-  * To register for an account and use our Service.
-
+  * To register your account and enable your use of our service.
 
 
 
-Additionally, we may give your information to law enforcement if we are compelled to by a court order, if there has been a violation of any US laws, EU laws or if a violation of the Terms of Service or Privacy Policy has occurred.
+Additionally, we may give your information to law enforcement if we are compelled to by a court order, if there has been a violation of any EU laws or if a violation of the terms of service or privacy policy has occurred.
 
-* ## Accessing, Editing, and Removing Your Information
+## D. Personal data collections sharing.
 
-You will not be fully able to edit most information submitted through our Site or Service. Additionally, you will be unable to opt of our data collection practices. If you want your information to be removed from our database please contact us. We will generally endeavour to delete our database of user information at regular intervals, but we cannot guarantee that your information has been or will be deleted immediately. Although some changes may occur immediately, information may still be stored in a web browser’s cache. We take no responsibility for stored information in your cache, or in other devices that may store information, and disclaim all liability of such. Additionally, after deletion of your information your data may be stored by us for up to 2 years for legal liability purposes.
+The personal data you’ve submitted to our website or that we collect through the mentioned 3rd party services, are shared with specific third party services in order to provide and improve our service to you. We’ve carefully selected and vetted all third parties we are sharing your information with for GDPR compliance and have signed individual data processing amendments with all of them:
 
-* ## Cookies
-
-We use cookies to save your preferences. For this reason, you must have cookies enabled in your browser to use our Site and Services. Additionally, some or all of our cookies may be accessible by third parties.
-
-* ## Third Party Access to Your Information
-
-Although you are entering into an Agreement with Swat.io to disclose your information to us, we do use third party individuals and organizations to assist us, including contractors, web hosts, and others.
-
-Throughout the course of our provision of our Services to you, we may delegate our authority to collect, access, use, and disseminate your information. For example, when you submit a form with personally identifiable information to us, that information will be disseminated or forwarded through our Service to your local law enforcement agency.
-
-It is therefore necessary that you grant the third parties we may use in the course of our business the same rights that you afford us under this Privacy Policy. For this reason, you hereby agree that for every authorization which you grant to us in this Privacy Policy, you also grant to any third party that we may hire, contract, or otherwise retain the services of for the purpose of operating, maintaining, repairing, or otherwise improving or preserving our website or its underlying files or systems. You agree not to hold us liable for the actions of any of these third parties, even if we would normally be held vicariously liable for their actions, and that you must take legal action against them directly should they commit any tort or other actionable wrong against you. The following is a non-exhaustive list of other entities that we may store, share, or transfer your information with:
-
-  * Intercom
-
-  * Google Inc. (Google Analytics, Google+)
-
-  * Facebook Inc. (Facebook Connect, Facebook Platform)
-
-  * Instagram Inc.
-
-  * Twitter Inc.
+  * **Drift Inc.** , 3 Copley Place Suite 7000, Boston, MA 02116, USA 
+  * **Intercom Inc.** , 55 2nd Street 4th Floor, San Francisco, CA 94105, USA 
+  * **Mailchimp,** c/o The Rocket Science Group LLC, 675 Pince de Leon, Atlanta, GA 30308, USA 
+  * **Pipeline Deals Inc.** , 1008 Western Ave. Suite 401, Seattle, WA 98104, USA 
+  * **Postmark,** c/o Wildbit LLC, 225 Chestnut Street, Philadelphia, PA 19106, USA 
+  * **SatisMeter s.r.o.** Česká 1113/1, Prague 5, 158 00, Czech Republic 
+  * **Slack Inc.** , 155 5th Street 6th Floor, San Francisco, CA 94103, USA 
+  * **Zapier Inc.** , 548 Market Street #62411, San Francisco, CA 94104-5401, USA 
 
 
 
+## E.  Personal data access and control.
 
-* ## Law Enforcement
+_ _ The organization recognizes data subjects rights to access information and to be forgotten, therefore has implemented controls in order to show its transparency in terms of the information processing to the data subject.
 
-You agree that we may disclose your information to authorities if compelled to by a court order. Additionally, you agree that we may disclose your information if we reasonably believe that you have violated a US law or the terms of our Terms of Service or Privacy Policy or if we believe that a third party is at risk of bodily harm. In the event that we receive a subpoena affecting your privacy, we may elect to notify you to give you an opportunity to file a motion to quash the subpoena, or we may attempt to quash it ourselves, but we are not obligated to do either. We may also proactively report you and release your information without receiving any request to third parties where we believe that it is proper to do so for legal reasons, such as instances where we believe your publications violate any law of the United States or any other country having jurisdiction over us, our Site, Services, or our Terms of Service. You release us from any damages that may arise from or relate to the release of your information to a request from law enforcement agencies or private litigants. We may release your information under the conditions listed in this paragraph whether it is to individuals or entities and to any state or Federal authorities within the United States, or elsewhere.
+Data subjects who want to execute their rights to access information or deletion can contact our team at [privacy@swat.io](mailto:privacy@swat.io) Every request that is received is delivered to the responsible person for handling data subject requests, the requests are being reviewed and it is acted accordingly. If there are no present acts that impose the need for the information to be kept, the information is properly removed from the system. In case when some or all of the information that is kept and is being requested to be removed, the data processor (the organization) is required to keep and has clearly defined retention period for this information, the organization keeps all information that is required and all other not relevant information is being removed. In both cases the data subject that requests the removal is being contacted with the outcome of the procedure. The same procedures take places when the data subject requests data modification.
 
-* ## Commercial and Non-Commercial Communications
+All of the requests with their outcomes are being documented.
 
-By providing information to the Site that forms the basis of communication with you, such as contact information, you waive all rights to file complaints concerning unsolicited email from us, since you have agreed to such communication by providing your information to us. However, you may unsubscribe from certain communications by notifying Swat.io that you no longer wish to receive solicitations or information and we will endeavour to remove you from our database where you have the right to request this under our Agreement, Privacy Policy, or applicable law, or where we voluntarily decide to grant the request.
+## F.  Technologies we use
 
-* ## Third Parties
+**Cookies and Related Technologies**
 
-Swat.io may post links to third party websites like Facebook, Twitter or Google+, which may include information that we have no control over. When accessing a third party site through our Site or Service, you acknowledge that you are aware that these third party websites are not screened for privacy or security issues by us, and you release us from any liability for the conduct of these third party websites.
+We use tracking technology (“cookies”) to help us recognize you across the Site and the Service, to monitor usage and web traffic routing for the Service, and to customize and improve the Services. By visiting our websites or using our services you agree to the use of cookies in your browser and HTML based emails. Cookies are small text files placed on your device when you visit a web site, in order to track use of the Site and the Service and to improve your user experience.
 
-Please be aware that this Privacy Policy, and any other policies in place, in addition to any amendments, does not create rights enforceable by third parties. Swat.io bears no responsibility for the information collected or used by any advertiser or third party website. You must review their Terms of Service and Privacy to understand how their information collection practices work.
+**Session Cookies**
 
-* ## Security Measures
+Our websites use “session cookies”, which improve your user experience by storing certain information from your current visit on your device, such as login information. These enable us to remember your login session so you can move easily within our websites or services. Without these session cookies, we wouldn’t be able to provide our service to you. These session cookies have limited functionalities and expirations, and you will be required to re-enter your login information after a certain period of time has elapsed to protect you against others accidentally accessing your account contents and related personal information. Other examples of our use of session cookies include to track the number of visits by a particular visitor to a page or a feature of the Service.
 
-We take certain measures to enhance the security of our Site and Services. We use both SSL Certificates and vulnerability scanning. However, we make no guarantees as to the security or privacy of your information. It is in our interest to keep our website secure, but we recommend that you use anti-virus software, routine credit checks, firewalls, and other precautions to protect yourself from security and privacy threats.
+**Performance and Remarketing Cookies**
 
-* ## Your California and European Privacy Rights
+Partners who help us serve advertising on and off our websites and analytics companies may also put cookies on your device. We use several third-party vendors to help deliver ads for relevant products and services to you when you visit certain pages on our Site We may share with third-party ad partners a cryptographic hash of a common account identifier (such as an email address), to help us measure and tailor ads and services provided to you. The third parties we’re currently using for this are listed below:
 
-Swat.io permits residents of the State of California to use its Service, and complies with the California Business and Professions Code §§ 22575-22579. If you are a California resident you may request certain information regarding our disclosure of personal information to any third parties for their direct marketing purposes. Various provisions throughout this Privacy Policy address requirements of the Californian privacy statutes. Although we do not disseminate your information to third parties without permission, you must presume that we collect electronic information from all visitors. You may contact us at office@swat.io with any questions.
+  * **Facebook Ireland Limited,** 4 Grand Canal Square, Grand Canal Harbour, Dublin, Ireland 
+  * **Google Inc.,** 1600 Ambhitheatre Parkway, Mountain View, CA 94043, USA 
+  * **LinkedIn Ireland Unlimited,** Gardner House, Wilton Plaza , Dublin, Ireland 
+  * **Twitter International Company,** The Academy, 442 Pearse Street, Dublin, Ireland 
+  * **Quora Inc.** , 650 Castro Street, Mountain View, CA 94041, USA 
 
-We also intend to comply with Directive 95/46/EC of the European Union. If you are a resident of any EU member countries please contact us at [office@swat.io](mailto:office@swat.io) with any privacy questions.
 
-* ## Age Compliance
 
-We intend to fully comply with COPPA and international laws respecting children’s privacy. Therefore, we do not collect or process any information for any persons under the age of 18. If you are under 18 and using our Site or Service, please stop immediately and do not submit any information to us.
+Most browsers allow you to choose whether to accept cookies or not. If you do not wish to have cookies placed on your computer, please set your browser preferences to reject all cookies, before accessing the Site. Please note that by doing so, some features of the Site and the Service may become unavailable.
 
-* ## International Transfer
+To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). 
 
-Your information may be transferred to - and maintained on - computers located outside of your state, province, country, or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. We may transfer personal information to Austria or elsewhere and process it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+The Network Advertising Initiative has also developed a tool that may help you understand which third parties have currently enabled cookies for your browser and opt-out of those cookies. Further information can be found at <http://www.networkadvertising.org/managing/opt_out.asp>
 
-* ## Amendments
+We may also use related technologies including web beacons, pixels, and software tokens in order to facilitate your use of the Service. Most notably, the Service use software tokens (stored securely on our servers) in order to facilitate the logging in to and the functioning of both the Supported Platforms.
 
-Like our Terms of Service, we may amend this Privacy Policy from time to time. When we amend this Privacy Policy, we will place a note on our Site or we may contact you. You must agree to the amendments as a condition of your continued use of our Site and Service. If you do not agree, you must immediately cease using our Site and Service and notify us of your refusal to agree by e-mailing us at office@swat.io.
+## G. Information Security Statement
+
+We work hard to protect our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold through several policies and procedures that we have adopted, as well as:
+
+  * Encrypting our services with SSL certificates
+  * Review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems 
+  * Access to personal information is restricted to our employees, contractors and agents who need to know that information I order to process it for us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations. 
+
+
+
+Our Disclaimer applies to all of the services offered by us, but excludes the services that have separate privacy disclaimers that do not incorporate this Disclaimer.
+
+We regularly review our compliance with this Disclaimer. We also adhere to several self-regulatory frameworks including the GDPR. When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly.
+
+Our Disclaimer may change from time to time. We will not reduce your rights under the Disclaimer without your explicit consent. We will post any privacy policy changes on this page and, if the changes are significant, we will provide prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Disclaimer in an archive for your review.
+
+##  H. Contact us!
+
+If you have further questions regarding this privacy policy or how your data is handled, you can contact us at:
+
+“Die Socialisten” Social Software Development GmbH  
+Andreasgasse 6/1  
+1070 Vienna  
+Austria
+
+Mail: [privacy@swat.io](mailto:privacy@swat.io)  
+Phone:  +43(1) 942 48 91  
+Fax: +43 (1) 253 303 39 784
