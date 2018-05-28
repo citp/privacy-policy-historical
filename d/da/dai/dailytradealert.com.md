@@ -1,114 +1,225 @@
-> *The following text is extracted and transformed from the dailytradealert.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126072413id_/http%3A//dailytradealert.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailytradealert.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529004021id_/http%3A//dailytradealert.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Daily Trade Alert
 
-Last Updated: 07/22/2017
+Effective date: May 24, 2018
 
-**What information do we collect?**
+Daily Trade Alert, Inc. (“us”, “we”, or “our”) operates the [http://www.DailyTradeAlert.com](http://www.dailytradealert.com/) website and newsletter (the “Service”).
 
-We collect information from you when you visit DailyTradeAlert.com, subscribe to our free  _Daily Trade Alert_  newsletter, fill out our “Contact Us” form or respond to an email or subscriber survey.
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
-When subscribing to our newsletter or submitting a message or inquiry to us through our [“Contact Us”](http://dailytradealert.com/contact-us/) form, as appropriate, you may be asked to enter your name and email address.
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from http://www.DailyTradeAlert.com
 
-Google Analytics Advertising Features allow us to enable features in Google Analytics that aren’t available through standard implementations.  We have enabled Google Analytics Advertising Features on our site, and we are required to notify our visitors by disclosing the following information. Advertiser features we use may include:
+## Definitions
 
-  * Remarketing with Google Analytics
-  * Google Display Network Impression Reporting
-  * DoubleClick Platform integrations
-  * Google Analytics Demographics and Interest Reporting
-
-
-
-By enabling these Advertising Features, we enable Google Analytics to collect data about our traffic via [Google advertising cookies](https://www.google.com/policies/privacy/key-terms/#toc-terms-cookie) and [anonymous identifiers](https://www.google.com/policies/privacy/key-terms/#toc-terms-identifier), in addition to data collected through a standard Google Analytics implementation.
-
-You can opt-out of the Google Analytics Advertising Features we use, including through Ads Settings, Ad Settings for mobile apps, or any other available means by using Google Analytics’ [currently available opt-outs](https://tools.google.com/dlpage/gaoptout/) for the web.
-
-**What do we use your information for?**
-
-Any of the information we collect from you may be used in one of the following ways:
-
-• To send you emails  
-(The email address you provide to us is used primarily for the fulfillment of our newsletter,  _Daily Trade Alert_. In addition, we occasionally send you important company news or service changes, urgent trade alerts, surveys, or related third-party advertisements that help fund our operations.)
-
-• To personalize your experience  
-(your information helps us to better respond to your individual needs)
-
-• To improve our website  
-(we continually strive to improve our service based on the information and feedback we receive from you)
-
-• To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
-
-Note: If at any time you would like to unsubscribe from receiving future emails from us, we include simple, hassle-free unsubscribe instructions at the bottom of each and every email.
-
-**Do we use cookies?**
-
-Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
-
-**Do we disclose any information to outside parties?**
-
-We do not sell or rent your information to any outside parties.
-
-However, in order to fulfill your subscription to our  _Daily Trade Alert  _newsletter, we use trusted third parties who assist us in operating our services. For example, our  _Daily Trade Alert_  newsletter is fulfilled primarily by iContact, a reputable email service provider who stores our email database and helps ensure that our newsletter gets delivered to your inbox.
-
-iContact has put strict security measures in place to keep your information confidential…
-
-According to [this document](http://www.icontact.com/support/email-marketing-strategy),  **iContact**  has developed a highly secure, 128-bit encryption system housed in a secure data facility protected by a firewall to prevent unauthorized access to the data. Furthermore, they commit to NEVER share, give, exchange, sell, rent out, use, or copy our email subscriber lists.
-
-We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
-**Third party links**
-
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These may include affiliate offers or paid advertisements. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
-**California Online Privacy Protection Act Compliance**
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
-**Childrens Online Privacy Protection Act Compliance**
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
-**CAN-SPAM Compliance**
-
-We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003.
-
-**Online Privacy Policy Only**
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-**Your Consent**
-
-By using our site, you consent to our privacy policy.
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change.
-
-This policy was last modified on  **07/22/2017**
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us through [this form](http://dailytradealert.com/contact-us/) or by using the information below.
-
-www.DailyTradeAlert.com  
-P.O. Box 6  
-Hall, NY 14463  
-United States
-
-(585) 412-2145
-
-**Privacy Policy Customer Pledge**
-
-We pledge to you, our subscriber, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:
-
-  * Federal Trade Commision Fair
-  * California Online Privacy Protection Act
-  * Childrens Online Privacy Protection Act
-  * Privacy Alliance
-  * Controlling the Assault of Non-Solicited Pornography and Marketing Act
+  * **Service  **Service is the http://www.DailyTradeAlert.com website and newsletter operated by Daily Trade Alert, Inc.
+  * **Personal Data  **Personal Data means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
+  * **Usage Data  **Usage Data is data collected automatically either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).
+  * **Cookies  **Cookies are small pieces of data stored on your device (computer or mobile device).
+  * **Data Controller  **Data Controller means the natural or legal person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal information are, or are to be, processed.For the purpose of this Privacy Policy, we are a Data Controller of your Personal Data.
+  * **Data Processors (or Service Providers)  **Data Processor (or Service Provider) means any natural or legal person who processes the data on behalf of the Data Controller.We may use the services of various Service Providers in order to process your data more effectively.
+  * **Data Subject (or User)  **Data Subject is any living individual who is using our Service and is the subject of Personal Data.
 
 
 
-Respectfully,  
-Daily Trade Alert
+## Information Collection and Use
+
+We collect several different types of information for various purposes to provide and improve our Service to you.
+
+### Types of Data Collected
+
+#### Personal Data
+
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (“Personal Data”). Personally identifiable information may include, but is not limited to:
+
+  * Email address
+  * Cookies and Usage Data
+
+
+
+We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send or by contacting us at this page on our website: http://dailytradealert.com/contact-us/
+
+#### Usage Data
+
+We may also collect information how the Service is accessed and used (“Usage Data”). This Usage Data may include information such as your computer’s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+
+#### Tracking & Cookies Data
+
+We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
+
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
+
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+
+Examples of Cookies we use:
+
+  * **Session Cookies.** We use Session Cookies to operate our Service.
+  * **Preference Cookies.** We use Preference Cookies to remember your preferences and various settings.
+  * **Security Cookies.** We use Security Cookies for security purposes.
+  * **Advertising Cookies.** Advertising Cookies are used to serve you with advertisements that may be relevant to you and your interests.
+
+
+
+## Use of Data
+
+Daily Trade Alert, Inc. uses the collected data for various purposes:
+
+  * To provide and maintain our Service
+  * To notify you about changes to our Service
+  * To allow you to participate in interactive features of our Service when you choose to do so
+  * To provide customer support
+  * To gather analysis or valuable information so that we can improve our Service
+  * To monitor the usage of our Service
+  * To detect, prevent and address technical issues
+  * To provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information
+
+
+
+## Legal Basis for Processing Personal Data Under General Data Protection Regulation (GDPR)
+
+If you are from the European Economic Area (EEA), Daily Trade Alert, Inc. legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Data we collect and the specific context in which we collect it.
+
+Daily Trade Alert, Inc. may process your Personal Data because:
+
+  * We need to perform a contract with you
+  * You have given us permission to do so
+  * The processing is in our legitimate interests and it’s not overridden by your rights
+  * To comply with the law
+
+
+
+## Retention of Data
+
+Daily Trade Alert, Inc. will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+
+Daily Trade Alert, Inc. will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.
+
+## Transfer of Data
+
+Your information, including Personal Data, may be transferred to and maintained on computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+If you are located outside United States and choose to provide information to us, please note that we transfer the data, including Personal Data, to United States and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+Daily Trade Alert, Inc. will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+
+## Disclosure of Data
+
+### Business Transaction
+
+If Daily Trade Alert, Inc. is involved in a merger, acquisition or asset sale, your Personal Data may be transferred. We will provide notice before your Personal Data is transferred and becomes subject to a different Privacy Policy.
+
+### Disclosure for Law Enforcement
+
+Under certain circumstances, Daily Trade Alert, Inc. may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+
+### Legal Requirements
+
+Daily Trade Alert, Inc. may disclose your Personal Data in the good faith belief that such action is necessary to:
+
+  * To comply with a legal obligation
+  * To protect and defend the rights or property of Daily Trade Alert, Inc.
+  * To prevent or investigate possible wrongdoing in connection with the Service
+  * To protect the personal safety of users of the Service or the public
+  * To protect against legal liability
+
+
+
+## Security of Data
+
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+
+## “Do Not Track” Signals
+
+We do not support Do Not Track (“DNT”). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
+
+You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
+
+## Your Data Protection Rights Under General Data Protection Regulation (GDPR)
+
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. Daily Trade Alert, Inc. aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
+
+If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us at this page: http://dailytradealert.com/contact-us/
+
+In certain circumstances, you have the following data protection rights:
+
+  * **The right to access, update or to delete the information we have on you.** Whenever made possible, you can access, update or request deletion of your Personal Data directly within your account settings section. If you are unable to perform these actions yourself, please contact us to assist you.
+  * **The right of rectification.** You have the right to have your information rectified if that information is inaccurate or incomplete.
+  * **The right to object.** You have the right to object to our processing of your Personal Data.
+  * **The right of restriction.** You have the right to request that we restrict the processing of your personal information.
+  * **The right to data portability.** You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format.
+  * **The right to withdraw consent.** You also have the right to withdraw your consent at any time where Daily Trade Alert, Inc. relied on your consent to process your personal information.
+
+
+
+Please note that we may ask you to verify your identity before responding to such requests.
+
+You have the right to complain to a Data Protection Authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority in the European Economic Area (EEA).
+
+## Service Providers
+
+We may employ third party companies and individuals to facilitate our Service (“Service Providers”), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+### Analytics
+
+We may use third-party Service Providers to monitor and analyze the use of our Service.
+
+  * **Google Analytics**
+
+
+
+### Advertising
+
+We may use third-party Service Providers to show advertisements to you to help support and maintain our Service.
+
+  * **Google AdSense & DoubleClick Cookie**
+
+
+
+### Behavioral Remarketing
+
+Daily Trade Alert, Inc. uses remarketing services to advertise on third party websites to you after you visited our Service. We and our third-party vendors use cookies to inform, optimize and serve ads based on your past visits to our Service.
+
+  * **Google AdWords**
+
+Google also recommends installing the Google Analytics Opt-out Browser Add-on – <https://tools.google.com/dlpage/gaoptout> – for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page:
+
+  * **Facebook** Facebook remarketing service is provided by Facebook Inc.You can learn more about interest-based advertising from Facebook by visiting this page:https://www.facebook.com/help/164968693837950To opt-out from Facebook’s interest-based ads follow these instructions from Facebook:https://www.facebook.com/help/568137493302217 
+
+Facebook adheres to the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA <http://www.aboutads.info/choices/>, the Digital Advertising Alliance of Canada in Canada <http://youradchoices.ca/> or the European Interactive Digital Advertising Alliance in Europe <http://www.youronlinechoices.eu/>, or opt-out using your mobile device settings.
+
+For more information on the privacy practices of Facebook, please visit Facebook’s Data Policy:
+
+https://www.facebook.com/privacy/explanation
+
+
+
+
+## Links to Other Sites
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+## Children’s Privacy
+
+Our Service does not address anyone under the age of 18 (“Children”).
+
+We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+
+## Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the “effective date” at the top of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us by visiting this page on our website: <http://dailytradealert.com/contact-us/>
