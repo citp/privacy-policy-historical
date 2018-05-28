@@ -1,300 +1,451 @@
-<!--The following is the downloaded HTML source of the artforum.com privacy policy that was archived on 2008-04-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080421184232id_/http%3A//www.artforum.com/index.php%3Fpn%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the artforum.com privacy policy that was archived on 2018-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180528212549id_/https%3A//www.artforum.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head><title>artforum.com / PRIVACY POLICY</title><meta http-equiv="content-type" content="text/html;charset=iso-8859-15"><link rel="stylesheet" type="text/css" href="/wide_small.css"><script type="text/javascript" language="JavaScript" src="http://www.artforum.com/ads_js.php?sid=122n466a3r7kop2nkncdu7a8s1&amp;uid=480ce017f287f"></script>  <script src="/script/swfobject.js" type="text/javascript"></script>
+<!DOCTYPE html><html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml" class=" wf-loading"><head>
+                <!-- Google Analytics -->
+        <script src="https://use.typekit.net/jte2mau.js" async=""></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-  <script language="JavaScript" type="text/javascript">
-  <!--
-  
-    var timeout = 3000;
-    var timeout_count = 0;
-    var timeout_lastcall = 0;
-    var timeout_jobs = []; // register further jobs
+            ga('create', 'UA-80108-1', 'auto');
+            ga('send', 'pageview');
+        </script>
+        <!-- End Google Analytics -->
+        
+        <meta charset="UTF-8">
+        <title>Privacy Policy – Artforum International</title>
+        <meta name="description" content="The online edition of Artforum International Magazine.">
+        <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+        <link rel="manifest" href="/site.webmanifest">
+        <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+        <meta name="msapplication-TileColor" content="#da532c">
+        <meta name="theme-color" content="#ffffff">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+                    <!-- fallback og tags -->
+             <meta property="og:title" content="Artforum.com">
+            <meta property="og:type" content="website">
+            <meta property="og:description" content="The online edition of Artforum International Magazine.">
+            <meta property="og:image" content="/media/artforum_logo_528.png">
+            <meta property="og:image:height" content="79">
+            <meta property="og:image:width" content="340">
 
-    function img_act(imgName) {
-      if (document.images != null) {
-        imgOn = eval(imgName + "on.src");
-        document[imgName].src = imgOn;
-      }
-    }
+            <meta name="twitter:card" content="summary">
+            <meta name="twitter:site" content="@artforum">
+            <meta name="twitter:title" content="Artforum.com">
+            <meta name="twitter:description" content="The online edition of Artforum International Magazine.">
+            <meta name="twitter:image" content="/media/artforum_logo_528.png">
+        
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
 
-    function img_inact(imgName) {
-      if (document.images != null) {
-        imgOff = eval(imgName + "off.src");
-        document[imgName].src = imgOff;
-      }
-    }
-
-    var ads_top_offset = 0;
-    var ads_topright_offset = 0;
-    var ads_offset = 0;
-    var ads_numdisplay = 0;
-
-    function Ad(id, ext, url)
-    {
-      this.id = id; 
-      this.ext = ext;
-      this.url = url;
-      this.image = null;
-    }
-
-    var ads_top = null;
-    var ads_topright = null;
-    var ads = null;
-
-    function ads_open_top (pos) {
-      if(ads_top != null) {
-        var ad = ads_top[ads_top_offset % ads_top.length];
-        if(ad.url != '')
-          open('/ads.php?url=' + escape(ad.url) + (null != ad.id ? '&id=' + ad.id : ''), '_blank');
-      }
-    }
-
-    function ads_open_topright (pos) {
-      if(ads_topright != null) {
-        var ad = ads_topright[ads_topright_offset % ads_topright.length];
-        if(ad.url != '')
-          open('/ads.php?url=' + escape(ad.url) + (null != ad.id ? '&id=' + ad.id : ''), '_blank');
-      }
-    }
-
-    function ads_open (pos) {
-      if(ads != null) {
-        var ad = ads[(pos + ads_offset) % ads.length];
-        if(ad.url != '')
-          open('/ads.php?url=' + escape(ad.url) + (null != ad.id ? '&id=' + ad.id : ''), '_blank');
-      }
-    }
-
-    function ads_change () {
-      var now = new Date();
-      if((now.getTime() - timeout_lastcall) * 2 < timeout)
-        return;
-
-      timeout_lastcall = now.getTime();
-      timeout_count++;
-
-      if(ads_top != null && (timeout_count % 3) == 0) {
-        if(++ads_top_offset >= ads_top.length)
-          ads_top_offset = 0;
-        if(document['ad_top'] != null)
-          document['ad_top'].src = ads_top[ads_top_offset].image.src;
-      }
-
-      if(ads_topright != null && (timeout_count % 4) == 0) {
-        if(++ads_topright_offset >= ads_topright.length)
-          ads_topright_offset = 0;
-        if(document['ad_topright'] != null)
-          document['ad_topright'].src = ads_topright[ads_topright_offset].image.src;
-      }
-
-      if(ads != null && (timeout_count % 3) == 0) {
-        if(++ads_offset >= ads.length)
-          ads_offset = 0;
-        for(var i=0; i < ads_numdisplay; i++) {
-          if(document['ad'+i] != null)
-            document['ad'+i].src = ads[(i + ads_offset) % ads.length].image.src;
+        <link rel="preload" as="style" href="/assets/module.1527193537.css" onload="this.onload=null;this.rel='stylesheet'">
+        <script>
+    /*! loadCSS. [c]2017 Filament Group, Inc. MIT License */
+    /* This file is meant as a standalone workflow for
+    - testing support for link[rel=preload]
+    - enabling async CSS loading in browsers that do not support rel=preload
+    - applying rel preload css once loaded, whether supported or not.
+    */
+    (function( w ){
+        "use strict";
+        // rel=preload support test
+        if( !w.loadCSS ){
+            w.loadCSS = function(){};
         }
-      }
-      
-      for(var i = 0; i < timeout_jobs.length; i++)
-        if(0 == (timeout_count % timeout_jobs[i].period)) {
-            timeout_jobs[i].action(timeout_jobs[i]);
-        }
-    }
-
-    function print_open (url) {
-      if(url != '')
-        open(url, '_blank', 'width=530,resizable=yes,scrollbars=yes');
-    }
-
-    function create_image(src) {
-		  rslt = new Image();
-		  rslt.src = src;
-		  return rslt;
-    }
+        // define on the loadCSS obj
+        var rp = loadCSS.relpreload = {};
+        // rel=preload feature support test
+        // runs once and returns a function for compat purposes
+        rp.support = (function(){
+            var ret;
+            try {
+                ret = w.document.createElement( "link" ).relList.supports( "preload" );
+            } catch (e) {
+                ret = false;
+            }
+            return function(){
+                return ret;
+            };
+        })();
     
-    var preload_hooks = new Array();
-    var preload_flag  = false;
-
-    function loaded() {
-      if(document.images != null) {
-        for(var i=0; ads_top != null && i < ads_top.length; i++) {
-          ads_top[i].image = create_image(ads_top[i].ext == null ? ads_top[i].id : '/uploads/ads/ads' + ads_top[i].id + ads_top[i].ext);
-          if(i == 0 && document['ad_top'] != null)
-            document['ad_top'].src = ads_top[i].image.src;
-        }
-        for(var i=0; ads_topright != null && i < ads_topright.length; i++) {
-          ads_topright[i].image = create_image('/uploads/ads/ads' + ads_topright[i].id + ads_topright[i].ext);
-          if(i == 0 && document['ad_topright'] != null)
-            document['ad_topright'].src = ads_topright[i].image.src;
-        }
-        if(ads != null) {
-          for(var i=0; i < ads.length; i++) {
-            ads[i].image = create_image('/uploads/ads/ads' + ads[i].id + ads[i].ext);
-            if(i < ads_numdisplay && document['ad' + i] != null)
-              document['ad'+i].src = ads[i].image.src;
-          }
-          for(var i=ads.length; i < ads_numdisplay; i++) {
-            if(document['ad'+i] != null)
-              document['ad'+i].src = ads[i % ads.length].image.src;
-          }
-        }
-        if(preload_hooks.length > 0) {
-          for(var i=0; i < preload_hooks.length; i++)
-            preload_hooks[i]();
-        }
-        preload_flag = true;
-        window.setInterval('ads_change()', timeout);
-      }
-    }
-  var ad_topright = new Image(110, 110);
-ads_topright = new Array(new Ad(16, '.gif', 'http://www.gagosian.com/'),new Ad(159, '.jpg', 'http://www.PatrickPainter.com/'),new Ad(13, '.jpg', 'http://www.lissongallery.com/'));
-ads_numdisplay = 15;var ads0 = new Image(80, 80);
-var ads1 = new Image(80, 80);
-var ads2 = new Image(80, 80);
-var ads3 = new Image(80, 80);
-var ads4 = new Image(80, 80);
-var ads5 = new Image(80, 80);
-var ads6 = new Image(80, 80);
-var ads7 = new Image(80, 80);
-var ads8 = new Image(80, 80);
-var ads9 = new Image(80, 80);
-var ads10 = new Image(80, 80);
-var ads11 = new Image(80, 80);
-var ads12 = new Image(80, 80);
-var ads13 = new Image(80, 80);
-var ads14 = new Image(80, 80);
-ads = new Array(new Ad(74, '.gif', 'http://www.connercontemporary.com/'),new Ad(90, '.gif', 'http://www.wps1.org/'),new Ad(109, '.gif', 'http://www.rosegallery.net/'),new Ad(65, '.jpg', 'http://www.gladstonegallery.com'),new Ad(64, '.gif', 'http://www.lehmannmaupin.com'),new Ad(59, '.gif', 'http://www.levygallery.com'),new Ad(36, '.gif', 'http://www.damelioterras.com'),new Ad(160, '.gif', 'http://www.maxhetzler.com/'),new Ad(366, '.gif', 'http://www.bettycuninghamgallery.com/'),new Ad(32, '.gif', 'http://www.davidzwirner.com'),new Ad(341, '.jpg', 'http://www.gavinbrown.biz'),new Ad(1, '.gif', 'http://www.i-20.com/'),new Ad(94, '.gif', 'http://www.flcart.org/'),new Ad(33, '.gif', 'http://www.zwirnerandwirth.com'),new Ad(274, '.jpg', 'http://www.sarameltzergallery.com/'),new Ad(54, '.gif', 'http://www.studiolacitta.it/'));
-menu0on = new Image;
-menu0on.src="/media/menu/guide_t.gif";
-menu0off = new Image;
-menu0off.src="/media/menu/guide_f.gif";
-menu1on = new Image;
-menu1on.src="/media/menu/diary_t.gif";
-menu1off = new Image;
-menu1off.src="/media/menu/diary_f.gif";
-menu2on = new Image;
-menu2on.src="/media/menu/inprint_t.gif";
-menu2off = new Image;
-menu2off.src="/media/menu/inprint_f.gif";
-menu3on = new Image;
-menu3on.src="/media/menu/museums_t.gif";
-menu3off = new Image;
-menu3off.src="/media/menu/museums_f.gif";
-menu4on = new Image;
-menu4on.src="/media/menu/picks_t.gif";
-menu4off = new Image;
-menu4off.src="/media/menu/picks_f.gif";
-menu5on = new Image;
-menu5on.src="/media/menu/news_t.gif";
-menu5off = new Image;
-menu5off.src="/media/menu/news_f.gif";
-menu6on = new Image;
-menu6on.src="/media/menu/talkback_t.gif";
-menu6off = new Image;
-menu6off.src="/media/menu/talkback_f.gif";
-menu7on = new Image;
-menu7on.src="/media/menu/bookforum_t.gif";
-menu7off = new Image;
-menu7off.src="/media/menu/bookforum_f.gif";
-menu8on = new Image;
-menu8on.src="/media/menu/af_cn_t.gif";
-menu8off = new Image;
-menu8off.src="/media/menu/af_cn_f.gif";
-
-  // -->
-  </script>
-  </head>
-<body style="margin: 0px; background-color:#f6f6f6" bgcolor="#f6f6f6" marginwidth="0" marginheight="0" onload="loaded()">
-<div align="center" style="margin-left: auto; margin-right: auto;"><table border="0" cellspacing="0" cellpadding="0" width="937" bgcolor="#ffffff"><tbody><tr>
-  <td width="27"><img src="http://www.artforum.com/media/gen_gifs/spacer.gif" width="1" hspace="13" height="1" vspace="0" alt="" border="0"></td>
-  <td align="left" valign="top">    <table border="0" cellspacing="0" cellpadding="0" width="760" style="margin-top: 9px;">
-    <tbody><tr>
-      <td align="left" valign="middle">  <a href="javascript:ads_open_top()" target="_self"><img src="/media/gen_gifs/spacer.gif" width="234" height="60" alt="" border="0" name="ad_top"></a></td>
-      <td align="right" valign="middle"><a href="/"><img src="/media/logos_large/logo_register.gif" border="0" width="221" height="51" vspace="12" alt="ARTFORUM"></a></td>
-    </tr>
-    <tr><td colspan="2"><img src="/media/gen_gifs/spacer.gif" width="1" height="1" vspace="4" alt=""></td></tr>
-    <form action="/search/" method="post"></form>
-    <tr><td colspan="2" valign="bottom"><table width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td><a href="/guide/" onmouseover="img_act('menu0')" onmouseout="img_inact('menu0')"><img src="/media/menu/guide_f.gif" alt="guide" name="menu0" border="0" vspace="0" hspace="0" width="58" height="11"></a><a href="/diary/" onmouseover="img_act('menu1')" onmouseout="img_inact('menu1')"><img src="/media/menu/diary_f.gif" alt="diary" name="menu1" border="0" vspace="0" hspace="0" width="38" height="11"></a><a href="/inprint/" onmouseover="img_act('menu2')" onmouseout="img_inact('menu2')"><img src="/media/menu/inprint_f.gif" alt="inprint" name="menu2" border="0" vspace="0" hspace="0" width="50" height="11"></a><a href="/museums/" onmouseover="img_act('menu3')" onmouseout="img_inact('menu3')"><img src="/media/menu/museums_f.gif" alt="museums" name="menu3" border="0" vspace="0" hspace="0" width="58" height="11"></a><a href="/picks/" onmouseover="img_act('menu4')" onmouseout="img_inact('menu4')"><img src="/media/menu/picks_f.gif" alt="picks" name="menu4" border="0" vspace="0" hspace="0" width="38" height="11"></a><a href="/news/" onmouseover="img_act('menu5')" onmouseout="img_inact('menu5')"><img src="/media/menu/news_f.gif" alt="news" name="menu5" border="0" vspace="0" hspace="0" width="37" height="11"></a><a href="/talkback/" onmouseover="img_act('menu6')" onmouseout="img_inact('menu6')"><img src="/media/menu/talkback_f.gif" alt="talkback" name="menu6" border="0" vspace="0" hspace="0" width="61" height="11"></a><a href="http://www.bookforum.com/" target="_blank" onmouseover="img_act('menu7')" onmouseout="img_inact('menu7')"><img src="/media/menu/bookforum_f.gif" alt="bookforum" name="menu7" border="0" vspace="0" hspace="0" width="66" height="11"></a><a href="http://artforum.com.cn/" target="_blank" onmouseover="img_act('menu8')" onmouseout="img_inact('menu8')"><img src="/media/menu/af_cn_f.gif" alt="af_cn" name="menu8" border="0" vspace="0" hspace="0" width="40" height="12"></a></td><td align="right"><input name="search" type="text" size="16" style="font-size:9px; border: #999999 1px solid;margin-bottom:3px; ">&nbsp;<input type="image" src="/media/menu/search.gif" width="35" height="11" border="0" alt="search"></td></tr></tbody></table></td></tr>
+        // if preload isn't supported, get an asynchronous load by using a non-matching media attribute
+        // then change that media back to its intended value on load
+        rp.bindMediaToggle = function( link ){
+            // remember existing media attr for ultimate state, or default to 'all'
+            var finalMedia = link.media || "all";
     
-    <tr><td colspan="2"><img src="/media/gen_gifs/spacer.gif" width="1" height="2" vspace="0" alt=""></td></tr>
-    <tr><td colspan="2"><table width="100%" cellspacing="0" cellpadding="0"><tbody><tr>
-      <td align="left" class="login"><a style="text-decoration: underline;" href="/index.php?pn=privacy&amp;do_login=1">log in</a></td>
-      <td valign="bottom" align="right"><a href="https://artforum.com/subscribe/" target="_self" class="subMenu"> &nbsp; subscribe</a><a href="/html/advertise" class="subMenu"> &nbsp; advertise</a><a href="/back_issues/" class="subMenu"> &nbsp; back issues</a><a href="/contact/" class="subMenu"> &nbsp; contact us</a><a href="/register/" class="subMenu"> &nbsp; register</a></td></tr></tbody></table></td></tr>
-    </tbody></table>
-    </td>
-  <td bgcolor="#ebebeb" width="3"><img src="http://www.artforum.com/media/gen_gifs/spacer.gif" width="1" hspace="1" height="1" vspace="66" alt="" border="0"></td>
-  <td width="134">  <a href="javascript:ads_open_topright()"><img name="ad_topright" src="https://web.archive.org/uploads/ads/ads16.gif" width="110" height="110" alt="" border="0" hspace="12" vspace="12"></a>
-</td>
-</tr>
-<tr>
-  <td colspan="4" bgcolor="#ebebeb"><img src="http://www.artforum.com/media/gen_gifs/spacer.gif" width="1" hspace="0" height="1" vspace="1" alt="" border="0"></td>
-</tr>
-<tr>
-  <td width="27"></td>
-  <td valign="top" align="left" width="760">
-    <table border="0" width="735" cellspacing="0" cellpadding="0">
-    <tbody><tr>
-        <td width="120" valign="top"><img src="http://www.artforum.com/media/gen_gifs/spacer.gif" width="1" hspace="34" height="1" vspace="0" alt="" border="0"></td>
-        <td width="40" height="90">&nbsp;</td>
-        <td colspan="2" valign="top"><div style="padding-top: 37px; padding-bottom: 20px;"><img src="/media/headers/head_privacy.gif" width="168" height="33" alt="privacy policy" style="margin-left: 0;"></div><div style="width:570px"><p class="content">This privacy policy governs the use of all of the web sites owned or operated by <i>Artforum International Magazine</i>, Inc. including artforum.com, and bookforum.com.</p>
+            function enableStylesheet(){
+                link.media = finalMedia;
+            }
+    
+            // bind load handlers to enable media
+            if( link.addEventListener ){
+                link.addEventListener( "load", enableStylesheet );
+            } else if( link.attachEvent ){
+                link.attachEvent( "onload", enableStylesheet );
+            }
+    
+            // Set rel and non-applicable media type to start an async request
+            // note: timeout allows this to happen async to let rendering continue in IE
+            setTimeout(function(){
+                link.rel = "stylesheet";
+                link.media = "only x";
+            });
+            // also enable media after 3 seconds,
+            // which will catch very old browsers (android 2.x, old firefox) that don't support onload on link
+            setTimeout( enableStylesheet, 3000 );
+        };
+    
+        // loop through link elements in DOM
+        rp.poly = function(){
+            // double check this to prevent external calls from running
+            if( rp.support() ){
+                return;
+            }
+            var links = w.document.getElementsByTagName( "link" );
+            for( var i = 0; i < links.length; i++ ){
+                var link = links[ i ];
+                // qualify links to those with rel=preload and as=style attrs
+                if( link.rel === "preload" && link.getAttribute( "as" ) === "style" && !link.getAttribute( "data-loadcss" ) ){
+                    // prevent rerunning on link
+                    link.setAttribute( "data-loadcss", true );
+                    // bind listeners to toggle media back
+                    rp.bindMediaToggle( link );
+                }
+            }
+        };
+    
+        // if unsupported, run the polyfill
+        if( !rp.support() ){
+            // run once at least
+            rp.poly();
+    
+            // rerun poly on an interval until onload
+            var run = w.setInterval( rp.poly, 500 );
+            if( w.addEventListener ){
+                w.addEventListener( "load", function(){
+                    rp.poly();
+                    w.clearInterval( run );
+                } );
+            } else if( w.attachEvent ){
+                w.attachEvent( "onload", function(){
+                    rp.poly();
+                    w.clearInterval( run );
+                } );
+            }
+        }
+    
+    
+        // commonjs
+        if( typeof exports !== "undefined" ){
+            exports.loadCSS = loadCSS;
+        }
+        else {
+            w.loadCSS = loadCSS;
+        }
+    }( typeof global !== "undefined" ? global : this ) );
+</script>        <style>
+            .fallback-header{
+                display: none;
+            }
+        </style>
+                <style>
+            .viewport-container{position:relative;min-height:100vh;-webkit-box-sizing:border-box;box-sizing:border-box}.global-wrapper{position:relative}.viewport-container{padding-top:62px;margin-bottom:-62px;padding-bottom:444px}.wrapper{max-width:1280px;margin:0 auto}.main-wrapper{max-width:1064px}.gallery-ads{position:sticky;position:-webkit-sticky;top:67px;margin-bottom:-60px}@media screen and (min-width:840px) and (max-width:1328px){.wrapper{margin-left:3rem;margin-right:3rem}}@media screen and (max-width:840px){.mobile-margins,.wrapper{margin-left:5vw;margin-right:5vw}.mobile-full-width{max-width:none;width:100vw!important;margin-left:-5vw!important}.no-slug{margin-top:1.5rem}}@media screen and (min-width:840px){.viewport-container{padding-top:138px;padding-bottom:268px;margin-bottom:-138px}.main-wrapper{width:85.8064516%;max-width:1280px;padding-right:1rem}.top-spacing:before{content:"";display:block;height:0;margin-top:2rem}.left-navigation{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-line-pack:start;align-content:flex-start}.left-navigation__navigation{-webkit-box-sizing:border-box;box-sizing:border-box;padding-right:2rem;-ms-flex-preferred-size:240px;flex-basis:240px;-ms-flex-negative:0;flex-shrink:0;margin-right:2rem}.left-navigation__sticky{position:-webkit-sticky;position:sticky;top:138px}.left-navigation__content{-webkit-box-sizing:border-box;box-sizing:border-box;-ms-flex-preferred-size:700px;flex-basis:700px;max-width:700px;-ms-flex-negative:1;flex-shrink:1}.left-navigation__content--wide{max-width:100%;-ms-flex-preferred-size:auto;flex-basis:auto}.no-slug{margin-top:3rem}}@media screen and (min-width:840px){.mobile-only{display:none!important}}@media screen and (max-width:840px){.desktop-only{display:none!important}}@media screen and (min-width:840px){.desktop-flex{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}}@media screen and (max-width:840px){.mobile-flex{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}}.flex{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}.header{position:absolute;width:100%;-webkit-transition:-webkit-transform .5s ease;transition:-webkit-transform .5s ease;transition:transform .5s ease;transition:transform .5s ease,-webkit-transform .5s ease;z-index:1}.header__artguide-logo{display:none}.header__background{background:#fff;position:relative;-webkit-transition:background .5s ease;transition:background .5s ease}.top-navigation.isHidden{display:none}.header--isSticky{position:fixed;top:0}.header__top{position:relative;padding:16px 0;padding:1rem 0;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:end;-ms-flex-align:end;align-items:flex-end}.search{text-align:right}.search--hiddenMobile{display:none}.top-navigation__logo{min-width:120px;display:block;position:relative;line-height:0;z-index:10001;-ms-flex-negative:0;flex-shrink:0}.top-navigation__logo svg{max-width:100%}.top-navigation__logo path,.top-navigation__logo polygon{-webkit-transition:fill .5s ease;transition:fill .5s ease}.top-navigation__logo--white path,.top-navigation__logo--white polygon{fill:#fff}.top-navigation__border{background:#bebebe;display:none}.search__border{position:relative;background:gray;z-index:1}.hint-enter-active,.hint-leave-active{-webkit-transform:translateY(0);transform:translateY(0);-webkit-transition:-webkit-transform .5s;transition:-webkit-transform .5s;transition:transform .5s;transition:transform .5s,-webkit-transform .5s}.fade-leave-to,.hint-enter{-webkit-transform:translateY(-100%);transform:translateY(-100%)}@media (max-width:840px){.search__border{background:#ddd}.top-navigation__logo{-ms-flex-preferred-size:130px;flex-basis:130px;width:130px}.header__background--overlay{background:#ffcb05}}@media screen and (min-width:840px){.header{position:absolute;border-bottom:0}.header__top{background:#fff;z-index:1}.header--isSticky{position:fixed;top:0;z-index:1}.header--hiddenMobile{-webkit-transform:none;transform:none}.search--hiddenMobile{display:block}.top-navigation__logo{-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1;max-width:200px;-webkit-transition:max-width .5s ease;transition:max-width .5s ease}.top-navigation__logo.isMinimized{max-width:130px}.top-navigation__logo--white path,.top-navigation__logo--white polygon{fill:inherit}.top-navigation__border{display:block}}body{font-family:franklin-gothic-urw,Helvetica,sans-serif;font-weight:400}a{color:#000}blockquote a,p a{border-bottom:1px solid #000}b{font-weight:500}.bigbold,p b{font-weight:700}.bigbold{font-size:1.25em}.slug{margin:48px 0;margin:3rem 0}.slug,.slug--margin-top{text-transform:uppercase;font-size:20px;font-size:1.25rem;font-weight:400;font-family:franklin-gothic-urw,Helvetica,sans-serif;line-height:1em;display:block}.slug--margin-top{margin:48px 0 8px;margin:3rem 0 .5rem}.slug--no-margin{display:block}.section-heading,.slug--no-margin{text-transform:uppercase;font-size:20px;font-size:1.25rem;font-weight:400;line-height:1em;font-family:franklin-gothic-urw,Helvetica,sans-serif}@media screen and (max-width:840px){.slug{margin:1.5rem 0}.slug--margin-top{margin:1.5rem 0 .5rem}}button{border:none}li,ul{list-style:none;padding-left:0}a{text-decoration:none}.fallback-header{display:none}figure{margin:0}h1,h2,h3{font-size:1em}img{max-width:100%;height:auto}address{font-style:normal}hr{border:0;height:1px;background:#ccc}.image-container{position:relative;overflow:hidden;line-height:0}.image-container--2x1{padding-bottom:50%}.image-container--1x1{padding-bottom:100%}.drop-shadow{-webkit-box-shadow:5px 5px 10px #ccc;box-shadow:5px 5px 10px #ccc}.article-image-container{margin-top:32px;margin-top:2rem;margin-bottom:32px;margin-bottom:2rem}@media (max-width:840px){.image-container--1x1-mobile{padding-bottom:100%}.image-container--2x1-mobile{padding-bottom:50%}.image-container--1x1.mobile-full-width{padding-bottom:100vw!important}.image-container--2x1.mobile-full-width{padding-bottom:50vw!important}.image-container--2x1.mobile-full-width.image-container--1x1-mobile{padding-bottom:100vw!important}}.image-container img{background:#ccc;min-width:100%;width:100%;height:100%;max-width:none;min-height:100%;position:absolute;top:50%;left:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%);-o-object-fit:cover;object-fit:cover}.hp-section{margin-bottom:80px}@media screen and (min-width:840px){.hp-section:first-child{margin-top:2.5rem}}.hp-bloglist__article{margin-bottom:16px;margin-bottom:1rem}.hp-bloglist__image{width:100%}.hp-bloglist__title{font-size:40px;font-size:2.5rem;line-height:1em;text-transform:uppercase;font-weight:500;margin:.25em 0 0}.hp-bloglist__teaser{font-size:18px;font-size:1.125rem;text-transform:uppercase;line-height:1.2222em;font-weight:400;margin:0}.hp-bloglist__teaser a{border-bottom:none}.hp-singlefeature-teaser__image{width:100%}.hp-singlefeature-teaser__title{text-align:center;font-weight:500;text-transform:uppercase;font-size:40px;font-size:2.5rem;margin:.25em 0 0}.hp-singlefeature-teaser__teaser{font-size:16px;font-size:1rem;text-align:center}.hp-singlefeature-author__image{width:100%}.hp-singlefeature-author__title{font-family:Folio,Arial Black;font-weight:800;text-transform:uppercase;font-size:40px;font-size:2.5rem;margin:.25em 0;line-height:1em}.hp-singlefeature-author__writer{margin:0;font-size:24px;font-size:1.5rem;text-transform:uppercase}.hp-singlefeature-author__writer a{text-decoration:none;border-bottom:0}.hp-artguide__top{margin-bottom:48px;margin-bottom:3rem}.hp-artguide__section-name{display:inline-block;margin-top:16px;margin-top:1rem;margin-bottom:8px;margin-bottom:.5rem;font-weight:400;text-transform:uppercase;color:red}.hp-artguide__title{margin:0;font-size:28px;font-size:1.75rem;text-transform:uppercase;font-weight:500;line-height:1em}.hp-artguide__location{font-weight:400;text-transform:uppercase}.guide-nav-selectors--homepage-adjust{margin-top:8px!important;margin-top:.5rem!important;margin-left:10px!important}@media screen and (min-width:840px){.hp-artguide__feature{width:65%}.hp-artguide__exhibitions,.hp-artguide__item{width:30%}.guide-nav-selectors--homepage-adjust{margin-right:35%!important}}@media screen and (max-width:840px){.hp-artguide__exhibitions,.hp-artguide__feature,.hp-artguide__item{margin-bottom:3rem}}.hp-singlefeature-video__title{font-size:40px;font-size:2.5rem;text-transform:uppercase;font-weight:500;margin:16px 0 0;margin:1rem 0 0}@media screen and (max-width:840px){.video-play:after{visibility:visible;width:50px;height:50px}}.hp-twocolumn__feature-link{display:block}.hp-twocolumn__image{width:100%}.hp-twocolumn__title{font-size:30px;font-size:1.875rem;font-weight:500;margin:0;text-transform:uppercase}.hp-twocolumn__channel{line-height:1em;font-family:franklin-gothic-urw,Helvetica,sans-serif}.hp-twocolumn__author,.hp-twocolumn__channel,.hp-twocolumn__teaser{text-transform:uppercase;font-size:20px;font-size:1.25rem;font-weight:400}.hp-twocolumn__author,.hp-twocolumn__teaser{margin-top:0}.hp-twocolumn__teaser a{border-bottom:none}.hp-twocolumn__content{font-size:18px;font-size:1.125rem;line-height:1.2222em;font-weight:400;margin:0;text-transform:uppercase}.hp-twocolumn__content p:last-child:after{content:"..."}@media screen and (min-width:840px){.hp-twocolumn__left-column{width:33%;margin-right:50px;-ms-flex-negative:0;flex-shrink:0}.hp-twocolumn__right-column{-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1}}@media screen and (max-width:840px){.hp-twocolumn__left-column{margin-bottom:1rem}}.hp-twocolumn__issue{margin:0;font-size:16px;font-size:1rem;font-weight:400;text-transform:uppercase}.hp-twocolumn__content p b:first-child{font-weight:700;font-family:franklin-gothic-urw,Helvetica,sans-serif}@media screen and (max-width:840px){.hp-twocolumn__issue{margin-top:1rem}}.hp-bookforum__category{font-weight:500}.hp-bookforum__web-title{font-weight:400}.hp-news__subscribe-link{font-weight:400;color:red;text-transform:none;font-style:italic;margin-left:8px}@media screen and (max-width:840px){.hp-bloglist__title,.hp-twocolumn__title{font-size:1.75rem}.hp-bloglist__title,.hp-bookforum__web-title,.hp-singlefeature-author__title,.hp-singlefeature-teaser__title,.hp-singlefeature-video__title,.hp-twocolumn__title{word-wrap:break-word}}.blog-article{max-width:1064px;margin-bottom:64px;margin-bottom:4rem;-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1}.blog-article--print{margin:0 auto 128px;margin:0 auto 8rem}.blog-article__channel{text-transform:uppercase;font-size:20px;font-size:1.25rem;font-weight:400;line-height:1em;font-family:franklin-gothic-urw,Helvetica,sans-serif;margin:48px 0 8px;margin:3rem 0 .5rem;display:block;color:#000}.blog-article__header{line-height:1em}.blog-article__header:first-child h1{margin-top:0}.blog-article__header--feature{margin-top:-8px;margin-top:-.5rem}.blog-article__header--feature h1{font-family:Folio,Arial Black;font-weight:800;line-height:.875em!important}.blog-article__header--feature h2{line-height:1.5em}.blog-article__header h1{font-weight:500;text-transform:uppercase;font-size:48px;font-size:3rem;margin:0;line-height:1em}@media screen and (max-width:840px){.blog-article__header h1{font-size:2.25rem}}.blog-article__header h1 a{color:inherit}.blog-article__meta{margin:8px 0 48px;margin:.5rem 0 3rem;font-size:20px;font-size:1.25rem;line-height:1.25em}.blog-article__lead{line-height:1.25em}.blog-article__content{max-width:700px;font-family:Sabon MT W02,Georgia,serif;font-size:18px;font-size:1.125rem;line-height:1.55556em;margin:0}.blog-article__content>p strong,.blog-article__content b{font-weight:500;font-family:franklin-gothic-urw,Helvetica,sans-serif}.blog-article__image{display:table}.blog-article__image--landscape,.blog-article__image--landscape img{width:100%!important}.blog-article__caption{font-size:14px;font-size:.875rem;line-height:1.25em;font-family:franklin-gothic-urw,Helvetica,sans-serif;margin:.5em 0 0}.blog-article__caption b{font-weight:500}.blog-article__pullquote{font-size:115%;font-weight:700;padding:30px 0}.primary-image{width:100%;max-width:100%}.primary-image--no-table,.primary-image--no-table .blog-article__caption{display:block!important}.primary-image--no-crop img{width:600px}.more-images img{display:block}.contrib-link{text-align:right;font-style:italic;padding-right:1px}.share-link{display:inline-block;width:20px;height:20px;margin-left:16px;margin-left:1rem;text-align:center}.share-link img{vertical-align:middle;max-height:100%;width:auto}@media screen and (min-width:1328px){.primary-image{width:1064px}}@media screen and (min-width:840px){.blog-article{margin-bottom:8rem}.primary-image,.primary-image--no-crop{display:table}.blog-article__caption{display:table-caption;caption-side:bottom}.blog-article__channel{margin-left:0}.blog-article__header{margin-left:0;margin-right:0}.blog-article__content{margin:0 0 0 5rem}.blog-article__content--print{margin:0!important}.blog-article__caption,.blog-article__content>p{margin-left:0;margin-right:0}}.left-navigation__link{display:block;margin-bottom:.5em;color:#000}.left-navigation__button-link{display:block;padding:8px;padding:.5rem;border:1px solid #666;color:#666;text-align:center;text-transform:uppercase;font-size:18px;font-size:1.125rem;margin-bottom:8px;margin-bottom:.5rem}.left-navigation__button-link:hover,.left-navigation__link--current,.left-navigation__link:hover{color:#ffcb05}@media (max-width:840px){.left-navigation__links{margin-bottom:2rem;margin-top:1rem}.left-navigation__link{font-size:1.25rem}}.pagination{visibility:hidden;margin-bottom:32px;margin-bottom:2rem}.pagination--contributor,.pagination--search{visibility:visible}.pagination .current{border-bottom:1px solid #000}.top-navigation{display:none;background:#fff;z-index:0}@media screen and (min-width:840px){.top-navigation{display:block}}.top-navigation__list{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row;padding-left:0;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;margin:0}.top-navigation__item{-webkit-box-flex:0;-ms-flex:0 1 auto;flex:0 1 auto;display:inline-block;margin:1em 0;position:relative;font-size:18px;font-size:1.125rem;line-height:1.25em;vertical-align:middle}.top-navigation__item.bigbold{font-size:20px;font-size:1.25rem;vertical-align:baseline}.top-navigation__item .nav-link{color:#000}.top-navigation--hidden{display:none}.drawer-enter-active,.drawer-leave-active{-webkit-transition:-webkit-transform .5s;transition:-webkit-transform .5s;transition:transform .5s;transition:transform .5s,-webkit-transform .5s}.drawer-enter,.drawer-leave-to{-webkit-transform:translateY(-102%);transform:translateY(-102%)}@media screen and (min-width:1328px){.top-navigation__list{padding-left:0;padding-right:0}}.slide-navigation{color:#fff}.slide-navigation ul{padding-left:20px;padding-left:1.25rem}.slide-navigation a{color:#fff}.toggle-button{z-index:10001}.slide-navigation__menu{position:absolute;top:0;overflow:hidden;height:0;width:100%;background-color:#ffcb05;-webkit-transition:height .5s;transition:height .5s;z-index:-1;text-align:left}.slide-navigation__item:first-child{margin-top:80px;margin-top:5rem}.slide-navigation__menu>:last-child{padding-bottom:112px;padding-bottom:7rem}.slide-navigation__menu.visible{height:100vh;overflow:scroll;-webkit-overflow-scrolling:touch}.slide-navigation__item,.slide-navigation__item .nav-link{color:#fff;font-size:17px;font-size:1.0625rem;line-height:32px;line-height:2rem}.slide-navigation__item.bigbold{font-size:18px;font-size:1.125rem}.slide-navigation__affiliates{margin-top:2em;line-height:2em}.slide-navigation__account-links{margin-top:2em}.slide-navigation__account-links li{display:inline-block;padding-right:1em;margin-right:1em;border-right:1px solid #fff}.slide-navigation__account-links li:last-child{border-right:none;padding-right:0;margin-right:0}.slide-navigation__social-media-links li{display:inline-block;margin-left:1em}.slide-navigation__social-icon{height:1em}.slide-navigation__contact-link{display:inline-block;margin:0 0 0 20px;margin:0 0 0 1.25rem}@media screen and (max-width:840px){.slide-navigation__menu{left:0;margin-left:-5vw;width:100vw}.slide-navigation__item,.slide-navigation__item .nav-link{color:#fff;font-size:1.25rem;line-height:1.75em}.slide-navigation__item.bigbold{font-size:1.3625rem}}@media screen and (min-width:840px){.slide-navigation{opacity:1;right:0;text-align:right;position:relative;-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0;-ms-flex-preferred-size:23px;flex-basis:23px}.slide-navigation,.toggle-button{top:auto;left:auto}.slide-navigation__menu{top:auto;right:0;margin-top:17px;padding-top:0;background-color:#ffcb05;z-index:10000;width:250px}.slide-navigation__item:first-child{margin-top:2em}.slide-navigation__menu>:last-child{padding-bottom:15rem}}@media screen and (min-width:1328px){.toggle-button{left:auto}}.toc-issue__cover{width:100%}.toc-issue__view-link{position:absolute;top:-36px;top:-2.25rem;font-style:italic}.toc-issue__heading{text-transform:uppercase;font-size:20px;font-size:1.25rem;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}.toc-issue__title{margin:16px 0 32px;margin:1rem 0 2rem;line-height:1em;font-size:16px;font-size:1rem;font-weight:400}.toc-issue__next,.toc-issue__prev{display:inline-block;height:.75em;width:.75em;background-repeat:no-repeat;text-indent:-100000px}.toc-issue__next{background-image:url(data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMTIgMjAiPjxkZWZzPjxzdHlsZT4uY2xzLTEsLmNscy0ze2ZpbGw6bm9uZTt9LmNscy0ye2NsaXAtcGF0aDp1cmwoI2NsaXAtcGF0aCk7fS5jbHMtM3tzdHJva2U6IzIzMWYyMDtzdHJva2Utd2lkdGg6MnB4O308L3N0eWxlPjxjbGlwUGF0aCBpZD0iY2xpcC1wYXRoIj48cmVjdCBjbGFzcz0iY2xzLTEiIHg9IjAuMzIiIHk9IjAuMDciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxOS44NSIvPjwvY2xpcFBhdGg+PC9kZWZzPjx0aXRsZT5hcnJvd19ibGFja19yaWdodDwvdGl0bGU+PGcgY2xhc3M9ImNscy0yIj48cG9seWxpbmUgY2xhc3M9ImNscy0zIiBwb2ludHM9IjEuMzkgMS4xMyAxMC4yMSAxMCAxLjM5IDE4Ljg3Ii8+PC9nPjwvc3ZnPg==)}.toc-issue__prev{background-image:url(data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMTIgMjAiPjxkZWZzPjxzdHlsZT4uY2xzLTEsLmNscy0ze2ZpbGw6bm9uZTt9LmNscy0ye2NsaXAtcGF0aDp1cmwoI2NsaXAtcGF0aCk7fS5jbHMtM3tzdHJva2U6IzIzMWYyMDtzdHJva2Utd2lkdGg6MnB4O308L3N0eWxlPjxjbGlwUGF0aCBpZD0iY2xpcC1wYXRoIj48cmVjdCBjbGFzcz0iY2xzLTEiIHg9Ii0wLjE2IiB5PSIwLjA3IiB3aWR0aD0iMTIiIGhlaWdodD0iMTkuODUiLz48L2NsaXBQYXRoPjwvZGVmcz48dGl0bGU+YXJyb3dfYmxhY2tfbGVmdDwvdGl0bGU+PGcgY2xhc3M9ImNscy0yIj48cG9seWxpbmUgY2xhc3M9ImNscy0zIiBwb2ludHM9IjEwLjc4IDE4Ljg3IDEuOTYgMTAgMTAuNzggMS4xMyIvPjwvZz48L3N2Zz4=)}.toc-issue__next--disabled,.toc-issue__prev--disabled{opacity:.25}.toc-issue__print-label{display:block}.toc-issue__internal-link{text-transform:uppercase;display:block;margin-bottom:.25em;color:#000;font-weight:400}.toc__anchor-links{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;text-transform:uppercase;font-size:24px;font-size:1.5rem;margin-bottom:16px;margin-bottom:1rem}.toc__anchor-links__link{display:block}.toc-issue__internal-link--active,.toc-issue__internal-link--current,.toc-issue__internal-link:hover,.toc__anchor-links__link.current{color:#ffcb05}.toc-article{margin-bottom:48px;margin-bottom:3rem}.toc-article--list-view{margin-bottom:24px;margin-bottom:1.5rem}.toc-articles__section-heading{font-size:24px;font-size:1.5rem;color:#313131;text-transform:uppercase;font-weight:400;margin:0 0 16px;margin:0 0 1rem}.toc-article__category{text-transform:uppercase;font-weight:100;line-height:1em}.toc-article__content{margin-top:16px;margin-top:1rem}.toc-article--has-access .toc-article__title{text-decoration:underline}@media (max-width:840px){.toc-article__teaser{display:none}}@media screen and (max-width:840px){.toc-article__image{max-width:none;width:100vw;margin-left:-5vw}}.toc-article__link{color:inherit}.toc-articles__city{margin:0 0 8px;margin:0 0 .5rem;text-transform:uppercase;font-weight:400}.toc-articles__list{margin:0 0 16px;margin:0 0 1rem}.toc-article__title{font-size:18px;font-size:1.125rem;line-height:1.25em;font-weight:500;margin:0 0 4px;margin:0 0 .25rem}.toc-article__title em{font-weight:400!important}.toc-article__title--cityReview{margin-bottom:.5em}@media (max-width:840px){.toc-issue{position:relative}.toc-issue__view-link{top:-5.625rem;right:0}.toc-issue__title{margin-top:0}.toc__anchor-links{font-size:1rem}.toc-issue__navigation{-webkit-box-orient:vertical;-webkit-box-direction:reverse;-ms-flex-direction:column-reverse;flex-direction:column-reverse}.toc-issue__internal-links,.toc-issue__navigation{display:-webkit-box;display:-ms-flexbox;display:flex}.toc-issue__internal-links{margin-bottom:2rem;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}.toc-articles__section-heading{display:none}.toc-article__image{margin-bottom:1rem;padding-bottom:50%;position:relative;overflow:hidden}.toc-article__image img{width:100%;position:absolute;top:50%;-webkit-transform:translateY(-50%);transform:translateY(-50%)}.toc-article__image--1x1{padding-bottom:100%}.toc-article__image--1x1 img{min-height:100%;width:auto;max-width:none}.toc-article__title{margin-top:.25rem}.toc__desktop-image-blank{display:none}}@media (min-width:840px){.toc__wrapper{display:-webkit-box;display:-ms-flexbox;display:flex}.toc-issue{width:29%;-webkit-box-sizing:border-box;box-sizing:border-box;padding-right:2rem}.toc-issue__prev-next{margin-top:.75em}.toc-issue{position:-webkit-sticky;position:sticky;top:138px;-ms-flex-item-align:start;align-self:flex-start}.toc-issue__internal-links{margin-bottom:2rem;margin-top:2rem;font-size:1.5rem}.toc-articles{width:600px;vertical-align:top;margin-left:4rem}.toc-articles__section{margin-bottom:50px}.toc-articles__section:last-child{border-bottom:none}.toc-article__title{font-size:1.375rem}.toc-article__author{font-size:1.125rem}.toc-article__image{min-height:1px;position:relative}.toc-article__image--1x1{padding-bottom:22%}.toc-article__image img{position:absolute;top:50%;-webkit-transform:translateY(-50%);transform:translateY(-50%)}.toc-article__image--1x1 img{max-width:none;width:100%;height:auto}.toc-article__author--columns,.toc-article__author--review{font-weight:400}.toc-article__teaser{font-size:1rem;line-height:1.375rem}.toc-article:after{content:"";display:table;clear:both}}.print-article__issue-title{font-size:16px;font-size:1rem;font-weight:400;text-transform:uppercase;margin-top:8px;margin-top:.5rem}.print-article__issue-cover{-webkit-box-shadow:5px 5px 10px #ccc;box-shadow:5px 5px 10px #ccc;width:100%}.print-article__channel-heading{font-weight:400;font-size:20px;font-size:1.25rem;text-transform:uppercase;margin:0}.print-navigation-column{-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0;-ms-flex-negative:0;flex-shrink:0;-ms-flex-preferred-size:180px;flex-basis:180px}.print-article-column{-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1}@media screen and (min-width:840px){.print-navigation-column{margin-right:5rem}}.artguide-wrapper{min-height:65vh;margin:0 auto}.artguide-wrapper.Artguide-wrapper--search{padding-bottom:100px}@media (max-width:1280px){.artguide-wrapper{min-width:800px}}@media (max-width:800px){.artguide-wrapper{min-width:600px}}@media (min-width:840px){.artguide-wrapper{max-width:1280px}}@media (max-width:840px){.artguide-wrapper{min-width:0!important}}.artguide-content-container{-webkit-box-sizing:border-box;box-sizing:border-box;-webkit-box-pack:start!important;-ms-flex-pack:start!important;justify-content:flex-start!important}.artguide-content-container *{-webkit-box-sizing:inherit;box-sizing:inherit}@media (max-width:1280px){.artguide-content-container{padding:0 15px}}.artguide-content-container--search{padding-top:24px}.artguide-nav{width:180px;min-width:180px;margin-right:40px}.artguide-nav>ul{position:fixed;top:385px}.artguide-nav .artguide-nav__app-link{margin-bottom:18px}.artguide-nav .artguide-nav__nav-link{margin:0 0 8px 4px;font-weight:500}.artguide-nav .artguide-nav__nav-link--active{color:red}.artguide-nav a{color:inherit}@media (max-width:1280px){.artguide-nav{margin-right:20px}}@media (max-width:800px){.artguide-nav{width:160px;min-width:160px;margin-right:10px}}.artguide-nav--mobile{background:#fff}.artguide-nav__nav-link--mobile{width:100%;padding:8px 0 8px 16px;padding:.5rem 0 .5rem 1rem;border-bottom:1px solid #f0f0f0}.artguide-nav__nav-link--mobile:last-child{border-bottom:none}.artguide-empty-state{line-height:1.4;max-width:600px}.artguide-empty-state a{text-decoration:underline}.artguide-listings{width:100%;overflow-x:hidden}.artguide-listings__section:not(:last-child){margin-bottom:60px}.artguide-listings__section__title{-ms-flex-negative:0;flex-shrink:0;margin:20px 0 40px;font-weight:500}.artguide-listings__section__title:after{content:" ";margin-left:8px;-webkit-box-flex:100;-ms-flex-positive:100;flex-grow:100;border-bottom:1px solid #000}.artguide-listings__section__title--subsection{font-size:17.6px;font-size:1.1rem;font-weight:500;margin-top:0;margin-bottom:24px;margin-bottom:1.5rem}.artguide-content-container--location .artguide-listings__section__title:after{content:none;-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0}.artguide-listings__section__subtitle{font-weight:400}.artguide-listings__section__list>li{margin-bottom:4px}.artguide-content-container--editors-select .artguide-listings__section__subtitle,.artguide-content-container--must-see .artguide-listings__section__subtitle,.artguide-content-container--mustsee .artguide-listings__section__subtitle{color:red}.artguide-listings__location{margin-bottom:50px}.artguide-listings__search-tip{margin:20px 0 60px}.artguide-listings__section__heading--small{font-size:18px;font-weight:500;margin-bottom:20px;text-transform:none}.artguide-listings__show-all{display:block;margin-top:40px;font-size:16px;font-size:1rem;text-decoration:underline}.form.artguide-participate-form{max-width:none}.form.artguide-participate-form input{width:100%}.form.artguide-participate-form input:disabled,.form.artguide-participate-form select:disabled{opacity:.5}.form.artguide-participate-form input[type=checkbox]{width:auto;margin:0 6px 0 0}.form.artguide-participate-form textarea{width:100%;height:80px;padding:5px;margin:6px 0}.form.artguide-participate-form .form__select{margin:6px 0;height:39px;outline:1px solid #666;background:url(data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0Ljk1IDEwIj48ZGVmcz48c3R5bGU+LmNscy0xe2ZpbGw6I2ZmZjt9LmNscy0ye2ZpbGw6IzQ0NDt9PC9zdHlsZT48L2RlZnM+PHRpdGxlPmFycm93czwvdGl0bGU+PHJlY3QgY2xhc3M9ImNscy0xIiB3aWR0aD0iNC45NSIgaGVpZ2h0PSIxMCIvPjxwb2x5Z29uIGNsYXNzPSJjbHMtMiIgcG9pbnRzPSIxLjQxIDQuNjcgMi40OCAzLjE4IDMuNTQgNC42NyAxLjQxIDQuNjciLz48cG9seWdvbiBjbGFzcz0iY2xzLTIiIHBvaW50cz0iMy41NCA1LjMzIDIuNDggNi44MiAxLjQxIDUuMzMgMy41NCA1LjMzIi8+PC9zdmc+) no-repeat 98% 50%;-webkit-appearance:none;-moz-appearance:none;appearance:none}.form.artguide-participate-form .artguide-participate-form__category-select-label{vertical-align:bottom}.form.artguide-participate-form .artguide-participate-form__zip-country-container{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.form.artguide-participate-form .artguide-participate-form__zip-country-container input{margin:6px 12px 6px 0}.form.artguide-participate-form .artguide-participate-form__zip-country-container .form__select{margin:6px 1px 6px 12px}.form.artguide-participate-form .artguide-participate-form__submit-container{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end;margin-top:10px}@media screen and (min-width:840px){.artguide-listings__section__title{display:-webkit-box;display:-ms-flexbox;display:flex}.artguide-listings__section__subtitle{margin-left:10px}.artguide-content-container--participate .artguide-listings{width:550px;margin-left:80px}.artguide-participate-form__category-select{margin:20px 0 0 60px;width:270px}}@media (max-width:840px){.artguide-nav__items{margin:0;padding:.5rem 0 .75em}.artguide-participate-form__category-select{-webkit-box-sizing:border-box;box-sizing:border-box}}.topten-listing__item{margin-bottom:64px;margin-bottom:4rem}.topten-listing__image{-ms-flex-negative:0;flex-shrink:0;width:240px;margin-right:64px;margin-right:4rem}.topten-listing__text{-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1;overflow:hidden;max-height:240px;position:relative}.topten-listing__text:after{position:absolute;bottom:0;height:16px;height:1rem;width:100%;background:-webkit-gradient(linear,left top,left bottom,from(#fff),to(#fff));background:linear-gradient(180deg,#fff 0,#fff);background:-webkit-gradient(linear,left top,left bottom,from(hsla(0,0%,100%,.25)),to(#fff));background:linear-gradient(180deg,hsla(0,0%,100%,.25) 0,#fff);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff",endColorstr="rgb(0, 255, 255)",GradientType=0);content:""}.topten-listing__print-issue{font-weight:400;text-transform:uppercase;margin:0 0 4px;margin:0 0 .25rem}.topten-listing__print-issue strong{font-weight:500}.topten-listing__title{margin:0;text-transform:uppercase;font-size:32px;font-size:2rem;font-weight:500}.topten-listing__body{line-height:1.5em;font-size:18px;font-size:1.125rem}.topten__list{margin-left:0;padding-left:0}.topten__list li.topten__item{counter-increment:step-counter;margin-bottom:48px;margin-bottom:3rem;max-width:700px}.topten__list li.topten__item:before{content:counter(step-counter);display:block;font-size:48px;font-size:3rem;font-weight:700;font-family:anzeigen-grotesk,Arial Black,sans-serif;color:red}@media screen and (max-width:840px){.topten-listing__image{width:100%}.topten-listing__text{margin-top:1rem}}.topten__item p{font-family:Sabon MT W02,Georgia,serif;font-size:18px;font-size:1.125rem;line-height:1.55556em;display:inline}.topten__item p:after{content:"";display:block;margin-bottom:32px;margin-bottom:2rem}.topten-item__title{margin:0;display:inline;font-weight:700}.topten-item__image{max-width:500px}.topten__bio p:first-child{margin-top:0}.topten-bio__image{width:200px;-ms-flex-negative:0;flex-shrink:0;margin-right:32px;margin-right:2rem}.topten-bio__title{font-family:Folio,Arial Black;font-weight:800;font-size:32px;font-size:2rem;text-transform:uppercase;margin-top:0}.topten-bio__body{line-height:1.5em}@media screen and (max-width:840px){.topten-bio__image{max-width:80%;margin:0 auto}.topten-bio__content{margin-top:1rem}.topten-item__image{max-width:100%}}.article-list{margin-top:0;padding-left:0}.article-list__article{padding-bottom:64px;padding-bottom:4rem;margin-bottom:32px;margin-bottom:2rem}.article-list__article p{font-family:Sabon MT W02,Georgia,serif;font-size:18px;font-size:1.125rem;line-height:1.55556em;margin-top:1.5em}.article-list__article p:first-child{margin-top:0}.article-list__primary-image{width:100%;max-width:810px}@media screen and (max-width:840px){.article-list__primary-image{max-width:none;width:100vw;margin-left:-5vw}}.article-list__h1{font-weight:500;text-transform:uppercase;font-size:48px;font-size:3rem;margin:0;line-height:1em;margin-top:16px;margin-top:1rem;max-width:750px}@media screen and (max-width:840px){.article-list__h1{font-size:2.25rem}}.article-list__h1 a{color:inherit}.article-list__article-meta{max-width:810px;margin:8px 0 48px;margin:.5rem 0 3rem;font-size:20px;font-size:1.25rem;line-height:1.25em}.article-list__content{max-width:750px;max-height:10.5em;overflow:hidden}.article-list__content b,.article-list__content strong{font-weight:500;font-family:franklin-gothic-urw,Helvetica,sans-serif;text-transform:uppercase}.article-list__read-more{position:relative;margin-top:48px;margin-top:3rem}.article-list__read-more-link{position:absolute;bottom:0;display:block;width:100%;color:#000;font-weight:700;font-family:Sabon MT W02,Georgia,serif;font-size:18px;font-size:1.125rem;cursor:pointer;padding-top:96px;padding-top:6rem;background:-webkit-gradient(linear,left top,left bottom,from(#fff),color-stop(75%,#fff));background:linear-gradient(180deg,#fff 0,#fff 75%);background:-webkit-gradient(linear,left top,left bottom,from(hsla(0,0%,100%,.25)),color-stop(75%,#fff));background:linear-gradient(180deg,hsla(0,0%,100%,.25) 0,#fff 75%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff",endColorstr="rgb(0, 255, 255)",GradientType=0)}@media screen and (max-width:840px){.article-list__article{margin-bottom:0}.article-list__content{overflow:hidden;margin-top:1em}}.results-list{margin-top:0}.results-list__filters{display:-webkit-box;display:-ms-flexbox;display:flex}.results-list__filter-select{-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1}.results-list__filters-label{padding:8px 8px 8px 0;padding:.5rem .5rem .5rem 0}.search-results__sort{margin-bottom:16px;margin-bottom:1rem}.search-results__sort a{margin-right:20px;margin-right:1.25rem}.results-list__article{padding-bottom:40px;padding-bottom:2.5rem;padding-top:40px;padding-top:2.5rem}.results-list__article:first-child{padding-top:0}.results-list__content p:first-child{-webkit-margin-before:0}.results-list__image{width:100%;margin-bottom:16px;margin-bottom:1rem}.results-list__image img{width:100%}.results-list__h1{font-weight:500;font-size:18px;font-size:1.125rem;text-transform:uppercase}.results-list__h1 a{color:#000}.results-list__category,.results-list__meta{text-transform:uppercase}.results-list__category{font-weight:700}.results-list__date{font-weight:400}.results-list__content{font-size:18px;font-size:1.125rem;line-height:22px;line-height:1.375rem;font-weight:400;max-height:85px;overflow:hidden;position:relative}.results-list__content:after{display:block;position:absolute;bottom:0;height:32px;height:2rem;width:100%;background:-webkit-gradient(linear,left top,left bottom,from(#fff),to(#fff));background:linear-gradient(180deg,#fff 0,#fff);background:-webkit-gradient(linear,left top,left bottom,from(hsla(0,0%,100%,.25)),to(#fff));background:linear-gradient(180deg,hsla(0,0%,100%,.25) 0,#fff);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff",endColorstr="rgb(0, 255, 255)",GradientType=0);content:""}.results-list__content p:last-child:after{content:"..."}.results-list__address{margin-top:16px;margin-top:1rem}.pagination--contributor .pagination,.pagination--search .pagination{display:block!important;visibility:visible!important}@media screen and (max-width:840px){.results-list__image{display:block;position:relative;overflow:hidden;width:100%;padding-bottom:50%;min-height:1px}.results-list__image img{position:absolute;top:50%;-webkit-transform:translateY(-50%);transform:translateY(-50%)}.results-list__image-blank{display:none}.pagination{font-size:1.125rem}.pagination span{margin-right:1rem}}@media screen and (min-width:840px){.results-list__options{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}.results-list__article{border-bottom:1px solid #ccc}.results-list__article:last-child{border-bottom:none}.results-list__article:after{content:"";display:table;clear:both}.results-list__image,.results-list__image-blank{float:left;margin:0 60px 0 0;display:block;position:relative;overflow:hidden;width:28%;padding-bottom:14%;min-height:1px}.results-list__image-blank img,.results-list__image img{position:absolute;top:50%;-webkit-transform:translateY(-50%);transform:translateY(-50%)}.results-list__text{display:block;float:left;width:58%}.results-list__h1{font-size:1.125rem;margin-bottom:0}.results-list__h1 a{color:#000}.results-list__category{text-transform:uppercase}.results-list__date{font-weight:400}.results-list__content{font-size:1.125rem;line-height:1.375rem;font-weight:100}.results-list__text{margin-left:0;margin-right:0}}.news__article{max-width:880px;padding-bottom:64px;padding-bottom:4rem;margin-bottom:64px;margin-bottom:4rem}.news-list__h1{text-transform:uppercase;font-weight:500;margin-bottom:4px;margin-bottom:.25rem}.news__article p{font-family:Sabon MT W02,Georgia,serif;font-size:18px;font-size:1.125rem;line-height:1.55556em}.news__article p:first-child{margin-top:0}.news-list__content{max-height:82px;overflow:hidden}.news-list__image{width:240px;-ms-flex-negative:0;flex-shrink:0;margin-right:32px;margin-right:2rem}.news-list__article-meta{line-height:1em}.news__title{font-size:20px;font-size:1.25rem;font-weight:500;text-transform:uppercase}.news-detail__primary-image{display:table;width:100%}.news-detail__primary-image img{width:100%}.news-article__after{max-width:880px}.related-articles--news{margin-bottom:100px}@media screen and (min-width:840px){.news-list__article{border-bottom:1px solid #999}.news-detail__image-float{width:40%;float:left;margin:0 2rem 1rem 0}}@media screen and (max-width:840px){.news-list__article-meta{margin-top:.875rem}.news__article{margin-bottom:2rem}}.reviews-index__city{font-weight:400;text-transform:uppercase;margin:0 0 2px;margin:0 0 .125rem}.reviews-index__city a{color:red}.reviews-index__reviews{margin:0 0 16px;margin:0 0 1rem}.reviews-index__item{margin-bottom:4px;margin-bottom:.25rem}.reviews-index__title{font-weight:500}.reviews-city-list,.reviews-list{margin-top:0}.reviews-city-list__city{margin-bottom:2px;margin-bottom:.125rem}.reviews-city-list__city--current a{color:red}.reviews-list__article{font-family:Sabon MT W02,Georgia,serif;font-size:18px;font-size:1.125rem;line-height:1.55556em;max-width:700px;margin-bottom:64px;margin-bottom:4rem}.reviews-list__article--listing{margin-bottom:128px;margin-bottom:8rem}.review__content b,.review__content strong{font-weight:500;font-family:franklin-gothic-urw,Helvetica,sans-serif}.review__primary-image{width:100%;display:table}.review__primary-image img{width:100%}.picks__h1,.previews__h1,.reviews__h1{font-family:franklin-gothic-urw,Helvetica,sans-serif;font-weight:500;font-size:26px;font-size:1.625rem;line-height:1em}.reviews__h1{margin:20px 0 8px;margin:1.25rem 0 .5rem}.picks__h1,.previews__h1{margin:0 0 8px;margin:0 0 .5rem}.previews__h1 a{color:red}.review__content .article-image-container:first-of-type{display:none}.review__place,.review__venue{line-height:1.25em;text-transform:uppercase}.review__curated-by,.review__place,.review__venue{font-family:franklin-gothic-urw,Helvetica,sans-serif;margin:0;font-weight:400;font-size:18px;font-size:1.125rem}.review__curated-by{line-height:20px;line-height:1.25rem}.review__details{text-transform:none}.reviews__issue{font-weight:400;text-transform:uppercase}@media screen and (min-width:840px){.reviews-index{-webkit-columns:2;columns:2;-webkit-column-gap:4rem;column-gap:4rem}.review__primary-image--pick,.review__primary-image--preview{float:left;width:46%;margin:0 4% 1rem 0}}@media screen and (min-width:1328px){.reviews-index{-webkit-columns:3;columns:3}}@media screen and (max-width:840px){.review__place{margin:1em 0 0}.picks__h1,.previews__h1,.reviews__h1{margin:1rem 0 .5rem}.reviews-city-select{margin-bottom:1.5rem}}.order_shiptoState,.order_state{width:100%}.order_country{-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1}.order_autorenew{margin-top:48px;margin-top:3rem}.subscription-menu__username{margin:-8px 0 0;margin:-.5rem 0 0;font-size:16px;font-size:1rem}@media screen and (min-width:840px){.order_cardExpiryMonth,.order_cardExpiryYear,.order_cardType{margin-right:.5rem}.order_cardType{width:25%}#order_zip{width:160px}#order_shiptoZip,#order_zip{margin-right:.5rem}.styled-select.order_term{max-width:290px;width:290px}}@media screen and (max-width:840px){.subscription__links{display:block!important}.subscription__links .left-navigation__link{font-size:1rem}}.search__toggle{height:26px;padding:0 8px;padding:0 .5rem;-ms-flex-negative:0;flex-shrink:0;background:none}.search__icon{position:relative;height:26px;width:28px}
 
-<p class="content">artforum.com, and bookforum.com collect information from users through voluntary submissions, traffic data, and cookie technology. We ask you for contact information for access to certain parts of our sites, including on-line symposia and the bulletin boards, and to subscribe to our free e-mail newsletter. Each time a user visits our sites, we count, track, and aggregate the user's activity into our analysis of general traffic flows. Our Web server recognizes no information regarding the individual identity or e-mail addresses of our users. We maintain a user profile in our databases based on the passwords of a user and the preferences the user has chosen in relation to their use of our site.</p>
-
-<p class="content">The use of cookies is standard on the Internet. Cookies are a software technology that helps to enhance browsing and to customize our sites to your preferences. Passwords are saved in cookies to avoid users having to repeatedly log in when they want to enter artforum.com, and bookforum.com. Our system also automatically gathers information about the areas you visit on our sites and about the links you select from within our sites to other areas of the World Wide Web or elsewhere on-line. You may choose to set up your browser to refuse cookies or alert you when cookies are sent. However, this may limit some features of our sites.</p>
-
-<p class="content">The information you provide helps us to make our sites better and more responsive to our users. We do not target advertising or sponsorships at the current time, though we may occasionally wish to send you a promotional offer via e-mail if you so choose. artforum.com, and bookforum.com also track the number of visitors to our sites in aggregate form to allow us to update and improve them, and to tell others something about the people who come to artforum.com, and bookforum.com. We do not share any detailed individual member information with other companies. At our discretion, we may make the information about artforum.com, and bookforum.com's users available in aggregate form, with no personal identifiers, to help describe and identify our users to business partners, co-branded sites, the industry, the public, as well as our advertisers.</p>
-
-<p class="content">We do not sell, share, rent, or intentionally make publicly available users' personal information, including e-mail addresses, except as provided herein. This information is used by artforum.com, and bookforum.com only for internal purposes. The information will be secured to prevent unauthorized use. We have the following exceptions to these policies: We will release specific information about you or your account to comply with any valid legal process, such as a search warrant, subpoena, statute, or court order. We will also release specific information in special cases, such as if there is an attempted breach of the security of the sites, or a physical threat to you or others.</p>
-
-<p class="content">artforum.com, and bookforum.com may, from time to time, send e-mail messages to you containing advertisements, promotions, etc. artforum.com, and bookforum.com make no representation or warranty with respect to the content of any e-mail messages that may be sent from third parties, who have obtained your e-mail address without the permission of <i>Artforum International</i> Inc., and you agree that neither artforum.com, and bookforum.com shall have any liability with respect thereto.</p>
-
-<p class="content">Please remember that whenever you voluntarily disclose personal information in public areas of artforum.com, and bookforum.com your information can be viewed and possibly used by others. We advise you not to disclose information that can be used to contact you directly if you don't want others to obtain that information, like your full name, home address, or phone number.</p>
-
-<p class="content">By using artforum.com, and bookforum.com, you signify your acceptance of our Privacy Policy. If you do not agree to this policy, please do not use our sites. Your continued use of the sites following the posting of changes to these terms will mean that you accept those changes.</p>
-
-<p class="content">All questions regarding this privacy statement should be addressed to: <br>
-<br>
-Attn.: Privacy Policy<br>
-<br>
-Artforum International<br>
-350 Seventh Avenue, 19th floor<br>
-New York, New York 10001<br>
-<br>
-(212) 475-4000</p>
-&nbsp;</div>
-</td>
-    </tr>
-    </tbody></table>
-  </td>
-  <td bgcolor="#ebebeb" width="3"><img src="http://www.artforum.com/media/gen_gifs/spacer.gif" width="1" hspace="1" height="1" vspace="0" alt="" border="0"></td>
-  <td valign="top"><img src="http://www.artforum.com/media/gen_gifs/spacer.gif" width="1" hspace="0" height="2" vspace="2" alt="" border="0"><br>
-      <img src="/media/gen_gifs/spacer.gif" width="1" height="1" vspace="3" alt=""><br>
-  <a href="#" onclick="javascript:window.open('/galleries.php', 'galleries', 'width=320,height=480,resizable=yes,scrollbars')"><img src="/media/buttons/links.gif" width="63" height="11" border="0" alt="click for links" hspace="20" vspace="2"></a><br>
-  <a href="javascript:ads_open(0)"><img name="ad0" src="https://web.archive.org/uploads/ads/ads74.gif" width="80" height="80" alt="" border="0" hspace="12" vspace="6"></a><br>
-  <a href="javascript:ads_open(1)"><img name="ad1" src="https://web.archive.org/uploads/ads/ads90.gif" width="80" height="80" alt="" border="0" hspace="12" vspace="6"></a><br>
-  <a href="javascript:ads_open(2)"><img name="ad2" src="https://web.archive.org/uploads/ads/ads109.gif" width="80" height="80" alt="" border="0" hspace="12" vspace="6"></a><br>
-  <a href="javascript:ads_open(3)"><img name="ad3" src="https://web.archive.org/uploads/ads/ads65.jpg" width="80" height="80" alt="" border="0" hspace="12" vspace="6"></a><br>
-  <a href="javascript:ads_open(4)"><img name="ad4" src="https://web.archive.org/uploads/ads/ads64.gif" width="80" height="80" alt="" border="0" hspace="12" vspace="6"></a><br>
-  <a href="javascript:ads_open(5)"><img name="ad5" src="https://web.archive.org/uploads/ads/ads59.gif" width="80" height="80" alt="" border="0" hspace="12" vspace="6"></a><br>
-  <a href="javascript:ads_open(6)"><img name="ad6" src="https://web.archive.org/uploads/ads/ads36.gif" width="80" height="80" alt="" border="0" hspace="12" vspace="6"></a><br>
-  <a href="javascript:ads_open(7)"><img name="ad7" src="https://web.archive.org/uploads/ads/ads160.gif" width="80" height="80" alt="" border="0" hspace="12" vspace="6"></a><br>
-  <a href="javascript:ads_open(8)"><img name="ad8" src="https://web.archive.org/uploads/ads/ads366.gif" width="80" height="80" alt="" border="0" hspace="12" vspace="6"></a><br>
-  <a href="javascript:ads_open(9)"><img name="ad9" src="https://web.archive.org/uploads/ads/ads32.gif" width="80" height="80" alt="" border="0" hspace="12" vspace="6"></a><br>
-  <a href="javascript:ads_open(10)"><img name="ad10" src="https://web.archive.org/uploads/ads/ads341.jpg" width="80" height="80" alt="" border="0" hspace="12" vspace="6"></a><br>
-  <a href="javascript:ads_open(11)"><img name="ad11" src="https://web.archive.org/uploads/ads/ads1.gif" width="80" height="80" alt="" border="0" hspace="12" vspace="6"></a><br>
-  <a href="javascript:ads_open(12)"><img name="ad12" src="https://web.archive.org/uploads/ads/ads94.gif" width="80" height="80" alt="" border="0" hspace="12" vspace="6"></a><br>
-  <a href="javascript:ads_open(13)"><img name="ad13" src="https://web.archive.org/uploads/ads/ads33.gif" width="80" height="80" alt="" border="0" hspace="12" vspace="6"></a><br>
-  <a href="javascript:ads_open(14)"><img name="ad14" src="https://web.archive.org/uploads/ads/ads274.jpg" width="80" height="80" alt="" border="0" hspace="12" vspace="6"></a><br>
-</td>
-</tr>
-<tr>
-  <td colspan="4" align="center" style="text-align: center;"><img src="http://www.artforum.com/media/gen_gifs/spacer.gif" width="1" hspace="0" height="1" vspace="6" alt="" border="0"><br><p class="footer"><a href="https://artforum.com/subscribe/" target="_self" class="subMenu">subscribe</a> &nbsp; <a href="/html/advertise" class="subMenu">advertise</a> &nbsp; <a href="/back_issues/" class="subMenu">back issues</a> &nbsp; <a href="/contact/" class="subMenu">contact us</a> &nbsp; <a href="/register/" class="subMenu">register</a><br><br><a href="/" class="subMenu">home</a> &nbsp; <a href="/guide/" class="subMenu">guide</a> &nbsp; <a href="/diary/" class="subMenu">diary</a> &nbsp; <a href="/inprint/" class="subMenu">in print</a> &nbsp; <a href="/museums/" class="subMenu">museums</a> &nbsp; <a href="/picks/" class="subMenu">picks</a> &nbsp; <a href="/news/" class="subMenu">news</a> &nbsp; <a href="/talkback/" class="subMenu">talkback</a> &nbsp; <a href="http://www.bookforum.com/" target="_blank" class="subMenu">bookforum</a> &nbsp; <a href="http://artforum.com.cn/" target="_blank" class="subMenu">af_cn</a></p><p><a href="/ads.php?url=http%3A%2F%2Fwww.sohogrand.com%2F&amp;id=25" target="_blank"><img src="/uploads/ads/ads25.gif" width="90" height="36" alt="" border="0" hspace="3" vspace="6"></a><a href="/ads.php?url=http%3A%2F%2Fwww.astorwines.com%2F&amp;id=100" target="_blank"><img src="/uploads/ads/ads100.gif" width="90" height="36" alt="" border="0" hspace="3" vspace="6"></a><a href="/ads.php?url=http%3A%2F%2Fwww.bookforum.net%2F&amp;id=24" target="_blank"><img src="/uploads/ads/ads24.gif" width="90" height="36" alt="" border="0" hspace="3" vspace="6"></a></p>  <p class="rootCopyright">All rights reserved. artforum.com is a registered trademark of Artforum International Magazine, New York, NY<br><a href="/index.php?pn=privacy">Privacy Policy</a></p></td>
-</tr></tbody></table></div><script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+/*# sourceMappingURL=critical-styles.css.map*/        </style>
+        <noscript><link rel="stylesheet" href="/assets/no-js.1527193537.css"></noscript>
+        <!--[if lt IE 9]>
+            <link rel="stylesheet" href="/assets/ie8.css">
+        <![endif]-->
+        <link rel="icon" type="image/x-icon" href="/favicon.ico">
+        <style type="text/css">
+    @font-face{
+        font-family:"Sabon MT W02";
+        src:url("/Fonts/6a89d1d2-be7a-415c-93e8-2b7cb7fd82e8.eot?#iefix");
+        src:url("/Fonts/6a89d1d2-be7a-415c-93e8-2b7cb7fd82e8.eot?#iefix") format("eot"),url("/Fonts/8accf83e-fa10-49ed-a82c-c13516a3715b.woff2") format("woff2"),url("/Fonts/ba10d1b3-92b6-4edd-8e91-8fa3193a073d.woff") format("woff"),url("/Fonts/29f52157-afab-48cd-9d7c-208d2fa5b002.ttf") format("truetype"),url("/Fonts/bb915f33-7900-4a2e-a1ef-fce646148528.svg#bb915f33-7900-4a2e-a1ef-fce646148528") format("svg");
+    }
+    @font-face{
+        font-family:"Sabon MT W02 Italic";
+        src:url("/Fonts/5b3c437a-8628-4b78-9ce4-1de44e93b4c0.eot?#iefix");
+        src:url("/Fonts/5b3c437a-8628-4b78-9ce4-1de44e93b4c0.eot?#iefix") format("eot"),url("/Fonts/4bc99014-be7e-4fc6-8fe5-337049f936d2.woff2") format("woff2"),url("/Fonts/f5cedbe3-1dbc-4700-b72f-b13fb6d58344.woff") format("woff"),url("/Fonts/a7d084e2-e697-451b-9c6f-b8b99030f8df.ttf") format("truetype"),url("/Fonts/ffa83c1b-64d8-423f-949d-5f610db34204.svg#ffa83c1b-64d8-423f-949d-5f610db34204") format("svg");
+    }
+    @font-face{
+        font-family:"Sabon MT W02 Semibold";
+        src:url("/Fonts/f41a0571-6369-47ec-ae0f-dcdba83894fb.eot?#iefix");
+        src:url("/Fonts/f41a0571-6369-47ec-ae0f-dcdba83894fb.eot?#iefix") format("eot"),url("/Fonts/80480eab-f534-4e0a-8b06-e4e0f75457e7.woff2") format("woff2"),url("/Fonts/88d1c5e4-b832-4892-b8bc-e4c3b29091d4.woff") format("woff"),url("/Fonts/83dd0b6a-876a-4c7a-926b-e32ced2f602c.ttf") format("truetype"),url("/Fonts/d7e921fe-6771-4836-b2f2-519774e64574.svg#d7e921fe-6771-4836-b2f2-519774e64574") format("svg");
+    }
+    @font-face{
+        font-family:"SabonMTW02-SemiboldIt";
+        src:url("/Fonts/c57fbe1f-7b49-4b82-8cd2-ec1f2b6d6a70.eot?#iefix");
+        src:url("/Fonts/c57fbe1f-7b49-4b82-8cd2-ec1f2b6d6a70.eot?#iefix") format("eot"),url("/Fonts/28b079ca-96b6-4b6f-b2f5-555785aa1ab7.woff2") format("woff2"),url("/Fonts/750139dc-3c0c-4041-98c0-9c8a8e21b013.woff") format("woff"),url("/Fonts/07afb8c7-8680-4901-aba2-15ee2e1d2843.ttf") format("truetype"),url("/Fonts/52c682f2-4e6e-4160-9f93-756db98e33bb.svg#52c682f2-4e6e-4160-9f93-756db98e33bb") format("svg");
+    }
+</style>
 <script type="text/javascript">
-_uacct = "UA-80108-1";
-_udn="artforum.com"; 
-urchinTracker();
-</script></body></html>
+var MTIProjectId='d69353ca-91fb-40e2-9cc1-647d356133e2';
+ (function() {
+        var mtiTracking = document.createElement('script');
+        mtiTracking.type='text/javascript';
+        mtiTracking.async='true';
+         mtiTracking.src='/script/mtiFontTrackingCode.js';
+        (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild( mtiTracking );
+   })();
+</script><script type="text/javascript" async="" src="/script/mtiFontTrackingCode.js"></script>    <link type="text/css" rel="stylesheet" href="https://fast.fonts.net/t/1.css?apiType=css&amp;projectid=d69353ca-91fb-40e2-9cc1-647d356133e2"></head>
+    <body>
+        <div class="global-wrapper">
+<div class="fallback-header">
+    <div class="fallback-header__top">
+        <nav class="fallback-navigation" data-v-7fd78796="" id="fallback-navigation">
+            <button class="nav-icon toggle-button open" data-v-338a69c8="" tabindex="0" onclick="toggleFallbackMenu()">menu</button>
+            <div id="fallback-navigation__menu" class="fallback-navigation__menu">
+                <ul class="fallback-navigation__pages">
+                    <li class="fallback-navigation__item bigbold">
+                        <a class="nav__link" href="/artguide">artguide</a>
+                    </li>
+                    <li class="fallback-navigation__item">
+                        <a class="nav__link" href="/news">NEWS</a>
+                    </li>
+                    <li class="fallback-navigation__item">
+                        <a class="nav__link" href="/diary">SCENE &amp; HERD</a>
+                    </li>
+                    <li class="fallback-navigation__item">
+                        <span class="nav__link">SHOWS</span> 
+                        <ul class="subnav">
+                            <li>
+                                <a class="subnav__link" href="/print/reviews?category=previews">PREVIEWS</a>
+                            </li>
+                            <li>
+                                <a class="subnav__link" href="/picks/new-york">CRITICS' PICKS</a>
+                            </li>
+                            <li>
+                                <a class="subnav__link" href="/artguide/mustsee">MUST SEE</a>
+                            </li>
+                            <li>
+                                <a class="subnav__link" href="/print/reviews?category=reviews">PRINT REVIEWS</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="fallback-navigation__item">
+                        <span class="nav__link">PRINT</span> 
+                        <ul class="subnav">
+                            <li>
+                                <a class="subnav__link" href="/print">TABLE OF CONTENTS</a>
+                            </li>
+                            <li>
+                                <a class="subnav__link" href="/print/archive">ARCHIVE</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="fallback-navigation__item">
+                        <span class="nav__link">COLUMNS</span> 
+                        <ul class="subnav">
+                            <li>
+                                <a class="subnav__link" href="/interviews">INTERVIEWS</a>
+                            </li>
+                            <li>
+                                <a class="subnav__link" href="/film">FILM</a>
+                            </li>
+                            <li>
+                                <a class="subnav__link" href="/music">MUSIC</a>
+                            </li>
+                            <li>
+                                <a class="subnav__link" href="/architecture">ARCHITECTURE</a>
+                            </li>
+                            <li>
+                                <a class="subnav__link" href="/performance">PERFORMANCE</a>
+                            </li>
+                            <li>
+                                <a class="subnav__link" href="/books">BOOKS</a>
+                            </li>
+                            <li>
+                                <a class="subnav__link" href="/slant">SLANT</a>
+                            </li>
+                            <li>
+                                <a class="subnav__link" href="/passages">PASSAGES</a>
+                            </li>
+                            <li>
+                                <a class="subnav__link" href="/topten">TOP TEN</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="fallback-navigation__item">
+                        <a class="nav__link" href="/video">VIDEO</a>
+                    </li>
+                    <li class="fallback-navigation__item">
+                        <a class="nav__link" href="/advertise">ADVERTISE</a>
+                    </li>
+                    <li class="fallback-navigation__item">
+                        <span class="nav__link">CIRCULATION</span> 
+                        <ul class="subnav">
+                            <li>
+                                <a class="subnav__link" href="/subscribe">SUBSCRIBE</a>
+                            </li>
+                            <li>
+                                <a class="subnav__link" href="/print/archive">BACK ISSUES</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="fallback-navigation__item">
+                        <span class="nav__link">NEWSLETTERS</span> 
+                        <ul class="subnav">
+                            <li>
+                                <a class="subnav__link" href="/register/newsletter">PRINT</a>
+                            </li>
+                            <li>
+                                <a class="subnav__link" href="/register/dispatch">DISPATCH</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="fallback-navigation__item">
+                        <a class="nav__link" href="/subscribe">SUBSCRIBE</a>
+                    </li>
+                </ul>
+                <ul class="fallback-navigation__affiliates">
+                    <li class="fallback-navigation__affiliate-link">
+                        <a class="nav-link" href="https://www.bookforum.com" target="_blank" rel="noopener">BOOKFORUM</a>
+                    </li>
+                    <li class="fallback-navigation__affiliate-link">
+                        <a class="nav-link" href="https://artforum.com.cn" target="_blank" rel="noopener">艺术论坛</a>
+                    </li>
+                    <li class="fallback-navigation__affiliate-link">
+                        <a class="nav-link" href="http://artandeducation.net" target="_blank" rel="noopener">art&amp;education</a>
+                    </li>
+                </ul>
+                <ul class="fallback-navigation__account-links">
+                    <li>
+                        <a href="/login">LOGIN</a>
+                    </li>
+                    <li>
+                        <a href="/register">REGISTER</a>
+                    </li>
+                </ul>
+                <!--<ul class="fallback-navigation__social-media-links">
+                    <li style="list-style: none"><span>FOLLOW US</span></li>
+                    <li>
+                        <a href="https://www.instagram.com/artforum" target="_blank" rel="noopener"><img alt="socialMediaLink.name" class="fallback-navigation__social-icon" src="/media/social_icons/instagram.svg"></a>
+                    </li>
+                    <li>
+                        <a href="https://www.facebook.com/artforuminternational/" target="_blank" rel="noopener"><img alt="socialMediaLink.name" class="fallback-navigation__social-icon" src="/media/social_icons/facebook.svg"></a>
+                    </li>
+                    <li>
+                        <a href="https://twitter.com/artforum" target="_blank" rel="noopener"><img alt="socialMediaLink.name" class="fallback-navigation__social-icon" src="/media/social_icons/twitter.svg"></a>
+                    </li>
+                </ul><a class="fallback-navigation__contact-link" href="/app.php/contact">CONTACT US</a>-->
+            </div>
+        </nav>
+    <a class="top-navigation__logo" data-v-7fd78796="" href="/"><img src="/media/artforum_logo_528.png" alt="Artforum Logo"></a>
+    </div>
+</div>
+</div>
+<script>
+var toggleFallbackMenu = function(e){
+    //e.preventDefault();
+    var menu = document.getElementById('fallback-navigation__menu');
+    console.log(menu);
+    if(menu.className == 'fallback-navigation__menu'){
+        menu.className = 'fallback-navigation__menu--visible';
+    }
+    else{
+        menu.className = 'fallback-navigation__menu';
+    }
+}
+</script>        <div id="container">
+
+            <af-app site-section="static">
+                <af-lightbox></af-lightbox>
+                <af-register-form></af-register-form>
+                <af-login-modal></af-login-modal>
+                <af-artguide-mobile-modal></af-artguide-mobile-modal>
+                <af-popup-ad></af-popup-ad>
+                <af-leaderboard-ad></af-leaderboard-ad>
+                <af-header></af-header>
+                <div class="viewport-container">
+                                                                                    <div class="main-content wrapper">
+                            <div class="desktop-flex">
+                                <div class="main-wrapper">
+                                                                        <section class="left-navigation">
+        <div class="left-navigation__navigation">
+            
+        </div>
+
+        <article class="left-navigation__content standard-text">
+            <h1 class="slug">privacy policy</h1>
+            
+            <p>This privacy policy governs the use of all of the websites owned or operated by Artforum International Magazine, Inc. including artforum.com, bookforum.com, and artforum.com.cn. Artforum takes the protection of your personal data very seriously and strictly adheres to the applicable data protection laws. Please note our digital services may contain links to other websites of third party service providers to which this data protection declaration does not apply.</p>
+
+            <p>artforum.com, bookforum.com, and artforum.com.cn collect information from users through voluntary submissions, traffic data, and cookie technology. Every time a user visits our sites we count, track, and aggregate the user’s activity into our analysis of general website traffic. However, our analytics recognizes no information regarding the individual identity or e-mail addresses of our users.</p>
+
+            <p>In order to access some parts of our websites and to subscribe to our free e-mail newsletters we require an e-mail address from you as well as information that allows us to verify that you are the owner of the e-mail address provided. For this purpose, we will ask you to double opt-in by sending a message to the specified e-mail address with a confirmation link. In addition, we store your IP address and the time of registration and confirmation so that we can prove your registration. We do not collect any further data in this context.</p>
+
+            <p>Our websites use Google Analytics. Google Analytics uses so-called “cookies,” a small amount of data that is transferred to your browser by a web server and stored on your computer. Passwords are saved in cookies to avoid users having to repeatedly log in when they want to enter artforum.com, bookforum.com, and artforum.com.cn. Cookies may also be used to remember your activities and facilitate navigation as well as to track your visits to the website. You may prevent the installation of cookies by adjusting the settings of your browser. By doing so, however, you may not be able to use all features of our websites. The information generated by the cookie about your use of this website is usually sent to and stored at a Google server in the USA. You can find more information concerning the treatment of user data by Google Analytics in Google’s Privacy Policy.</p>
+
+            <p>Artforum also tracks the number of visitors to our sites in aggregate form to allow us to update and improve them. The information you provide helps us to make our sites better and more responsive to our users. We do not target advertising or sponsorships, though we may occasionally send you a promotional offer via e-mail if you so choose in your user profile. At our discretion, we may make the information about artforum.com, bookforum.com, and artforum.com.cn’s users available in aggregate form, with no personal identifiers, to help describe and identify our users to business partners, co-branded sites, the industry, the public, as well as our advertisers. We do not share any detailed individual member information with other companies.</p>
+
+            <p>If you wish to subscribe to our print publications via our websites, you will be required to provide your name, e-mail address, and a physical address. Your financial details will be shared with our payment system provider in order to complete your transaction. Your financial details will not be held by Artforum. Similarly, if you wish to purchase other products from us such as a digital or back issue, you will be required to sign up to the website and provide certain personal data in order to enable us to complete your purchase. You may also provide us with data when you enter a competition, promotion or survey, attend an event, and when you report a problem with our website.  The data you give us may include your name, address, e-mail address, and phone number.</p>
+
+            <p>We process your communication data (name, e-mail address) in order to be able to contact you. Personal data that you provide to us will only be processed for correspondence with you or only for the purpose for which you have made the data available to us. Your personal data is transmitted encrypted. We use the SSL (Secure Socket Layer) protocol. Furthermore, we protect our websites and other systems through technical and organizational measures against loss, destruction, access, modification, or distribution of your data by unauthorized persons. All data you give us is stored on our secure servers. Where we have given you (or where you have chosen) a password that enables you to access certain parts of our site, you are responsible for keeping this password confidential.</p> 
+
+            <p>We do not sell, share, rent, or intentionally make publicly available users’ personal information, including e-mail addresses, except as provided herein. This information is used by artforum.com, bookforum.com, and artforum.com.cn only for internal purposes. We have the following exceptions to these policies: We will release specific information about you or your account to comply with any valid legal process, such as a search warrant, subpoena, statute, or court order. In addition, we may process your data to fulfill legal obligations (e.g. regulatory requirements, commercial and tax storage and proof obligations). We will also release specific information in special cases, such as if there is an attempted breach of the security of the sites, or a physical threat to you or others.</p>
+
+            <p>You can revoke your consent to receive e-mail communication from us and unsubscribe at any time. You can cancel your enrollment by clicking on the link provided in every e-mail, by e-mail to <a href="mailto:dataprivacy@artforum.com">dataprivacy@artforum.com</a>, or by contacting us via telephone, letter, or fax.</p>
+
+            <p>By visiting artforum.com, bookforum.com, and artforum.com.cn, you signify your acceptance of our Privacy Policy. If you do not agree to this policy, please do not use our sites. Your continued use of the sites following the posting of changes to these terms will mean that you accept those changes.</p>
+
+            <p>All questions regarding this privacy statement should be addressed to <a href="mailto:dataprivacy@artforum.com&lt;">dataprivacy@artforum.com</a></p>
+
+            <p>Or</p>
+
+            <p>Attn.: Privacy Policy<br>
+            Artforum International<br>
+            350 Seventh Avenue, 19th floor<br>
+            New York, New York 10001<br>
+            (212) 475-4000</p>
+
+        </article>
+</section>
+                                </div>
+                                <af-gallery-ads-desktop></af-gallery-ads-desktop>
+                            </div>
+                        </div>
+                                        <footer class="footer">
+	<div class="wrapper desktop-flex relative">
+	<af-register-form-footer></af-register-form-footer>
+	<div class="footer__links">
+		<ul class="footer__site-links">
+			<li class="footer__artguide-link bigbold"><a href=" /artguide">artguide</a>
+			</li><li><a href="/advertise">ADVERTISE</a></li>
+			<li><af-signin-signout-link></af-signin-signout-link></li>
+			<li><a href="/subscribe">SUBSCRIBE</a></li>
+			<li><a href="/print/archive">BACK ISSUES</a></li>
+			<li><a href="/cart">CART</a></li>
+			<li><a href="/privacy">PRIVACY POLICY</a></li>
+			<li><a href="/contact">CONTACT</a></li>
+			<li><a>FOLLOW</a> 
+				<a href="http://www.facebook.com/artforuminternational" target="_blank" rel="noopener"><img class="footer__social-icon" src="https://www.artforum.com/static-assets/social-icons/facebook.svg"></a>
+				<a href="http://instagram.com/artforum" target="_blank" rel="noopener"><img class="footer__social-icon" src="https://www.artforum.com/static-assets/social-icons/instagram.svg"></a>
+				<a href="https://twitter.com/#!/artforum" target="_blank" rel="noopener"><img class="footer__social-icon" src="https://www.artforum.com/static-assets/social-icons/twitter.svg"></a>
+			</li>
+		</ul>
+		<p class="footer__copyright">All rights reserved. artforum.com is a registered trademark of Artforum International Magazine, New York, NY. <a href="/terms">Terms &amp; Conditions</a></p>
+	</div>
+	</div>
+</footer>                </div>
+            </af-app>
+        </div>
+        <script>
+          (function(d) {
+            var config = {
+              kitId: 'jte2mau',
+              scriptTimeout: 3000,
+              async: true
+            },
+            h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.    className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t); try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+          })(document);
+        </script>
+        <script src="/assets/module.1527193537.js" async=""></script>
+        <!--<script src='https://www.google.com/recaptcha/api.js?onload=recaptchaOnloadCallback&render=explicit'></script>-->
+            
+
+</body></html>
