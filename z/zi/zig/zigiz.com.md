@@ -1,69 +1,232 @@
-> *The following text is extracted and transformed from the zigiz.com privacy policy that was archived on 2017-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170720150343id_/http%3A//www.zigiz.com/en-EN/help/about_zigiz/help_parent_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zigiz.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528163003id_/http%3A//www.zigiz.com/en-EN/help/about_zigiz/help_parent_privacy.html) for the most accurate reproduction.*
 
 # Play free online games at Zigiz - Unlimited fun!
 
-On this page you will find the Privacy Statement of Gembly B.V. the makers of Zigiz.com  
-Gembly is provider of internet and mobile games.  
-This Privacy Statement applies to all products, services and activities of Gembly and its subsidiairies, unless they explicitly apply a different privacy statement.
+## 1\. An overview of data protection
 
-#### General
+### General
 
-If you take out a subscription, order a publication, register to receive a newsletter by e-mail, participate in a promotion, use our digital services, contact Gembly or otherwise avail yourself of the services provided by Gembly (or part of it), the personal data as provided and used by you will be recorded and processed.
+The following gives a simple overview of what happens to your personal information when you visit our website. Personal information is any data with which you could be personally identified. Detailed information on the subject of data protection can be found in our privacy policy found below.
 
-The party responsible for processing such data is Gembly B.V., Kromwijkdreef 11, 1108 JA Amsterdam, the Netherlands. 
+### Data collection on our website
 
-Gembly feels that it is important to exercise due care with any personal data which you provide, and to treat it confidentially. Gembly therefore complies with the [Dutch Personal Data Protection Act](http://wetten.overheid.nl/BWBR0011468/geldigheidsdatum_28-09-2010) (Wet Bescherming Persoonsgegevens), the [Dutch Telecomunications Act](http://wetten.overheid.nl/BWBR0009950/volledig/geldigheidsdatum_28-09-2010) (Telecommunicatiewet ) and the codes of conduct drawn up by the DDMA (Dutch Dialogue Marketing Association).
+**Who is responsible for the data collection on this website?**
 
-#### Aim of data registration
+The data collected on this website are processed by the website operator. The operator's contact details can be found in the website's required legal notice.
 
-The personal data as provided by you can be processed by Gembly for the following purposes: 
+**How do we collect your data?**
 
-  * The conclusion and implementation of the agreement, e.g. for the delivery of the products, services or information chosen by you;
-  * If a paid service has been purchased, to send you an invoice;
-  * To enable you to post and exchange content through Gembly's digital services or to contact other users of such digital services;
-  * To keep you informed about Gembly's products and services;
-  * To enable you to log in through third party social media services;
-  * To send you a newsletter, user information, service notification or other (electronic) message;
-  * To show you specific advertisements; thus an advertisement can be shown in which, on the basis of the personal data processed by Gembly, you might be interested;
-  * To fulfil to applicable laws and regulations.
+Some data are collected when you provide it to us. This could, for example, be data you enter on a contact form.
+
+Other data are collected automatically by our IT systems when you visit the website. These data are primarily technical data such as the browser and operating system you are using or when you accessed the page. These data are collected automatically as soon as you enter our website.
+
+**What do we use your data for?**
+
+Part of the data is collected to ensure the proper functioning of the website. Other data can be used to analyze how visitors use the site.
+
+**What rights do you have regarding your data?**
+
+You always have the right to request information about your stored data, its origin, its recipients, and the purpose of its collection at no charge. You also have the right to request that it be corrected, blocked, or deleted. You can contact us at any time using the address given in the legal notice if you have further questions about the issue of privacy and data protection. You may also, of course, file a complaint with the competent regulatory authorities.
+
+### Analytics and third-party tools
+
+When visiting our website, statistical analyses may be made of your surfing behavior. This happens primarily using cookies and analytics. The analysis of your surfing behavior is usually anonymous, i.e. we will not be able to identify you from this data. You can object to this analysis or prevent it by not using certain tools. Detailed information can be found in the following privacy policy.
+
+You can object to this analysis. We will inform you below about how to exercise your options in this regard.
+
+## 2\. General information and mandatory information
+
+### Data protection
+
+The operators of this website take the protection of your personal data very seriously. We treat your personal data as confidential and in accordance with the statutory data protection regulations and this privacy policy.
+
+If you use this website, various pieces of personal data will be collected. Personal information is any data with which you could be personally identified. This privacy policy explains what information we collect and what we use it for. It also explains how and for what purpose this happens.
+
+Please note that data transmitted via the internet (e.g. via email communication) may be subject to security breaches. Complete protection of your data from third-party access is not possible.
+
+### Notice concerning the party responsible for this website
+
+The party responsible for processing data on this website is:
+
+Gembly B.V.  
+Kromwijkdreef 11  
+1108 JA Amsterdam, NL
+
+Email: help@Zigiz.com
+
+The responsible party is the natural or legal person who alone or jointly with others decides on the purposes and means of processing personal data (names, email addresses, etc.).
+
+### Revocation of your consent to the processing of your data
+
+Many data processing operations are only possible with your express consent. You may revoke your consent at any time with future effect. An informal email making this request is sufficient. The data processed before we receive your request may still be legally processed.
+
+### Right to file complaints with regulatory authorities
+
+If there has been a breach of data protection legislation, the person affected may file a complaint with the competent regulatory authorities. The competent regulatory authority for matters related to data protection legislation is the data protection officer of the German state in which our company is headquartered. A list of data protection officers and their contact details can be found at the following link: <https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html>.
+
+### Right to data portability
+
+You have the right to have data which we process based on your consent or in fulfillment of a contract automatically delivered to yourself or to a third party in a standard, machine-readable format. If you require the direct transfer of data to another responsible party, this will only be done to the extent technically feasible.
+
+### Encrypted payments on this website
+
+If you enter into a contract which requires you to send us your payment information (e.g. account number for direct debits), we will require this data to process your payment.
+
+Payment transactions using common means of payment (Visa/MasterCard, direct debit) are only made via encrypted SSL or TLS connections. You can recognize an encrypted connection in your browser's address line when it changes from "http://" to "https://" and the lock icon in your browser line is visible.
+
+In the case of encrypted communication, any payment details you submit to us cannot be read by third parties.
+
+### Information, blocking, deletion
+
+As permitted by law, you have the right to be provided at any time with information free of charge about any of your personal data that is stored as well as its origin, the recipient and the purpose for which it has been processed. You also have the right to have this data corrected, blocked or deleted. You can contact us at any time using the address given in our legal notice if you have further questions on the topic of personal data.
+
+### Opposition to promotional emails
+
+We hereby expressly prohibit the use of contact data published in the context of website legal notice requirements with regard to sending promotional and informational materials not expressly requested. The website operator reserves the right to take specific legal action if unsolicited advertising material, such as email spam, is received.
+
+## 3\. Data collection on our website
+
+### Cookies
+
+Some of our web pages use cookies. Cookies do not harm your computer and do not contain any viruses. Cookies help make our website more user-friendly, efficient, and secure. Cookies are small text files that are stored on your computer and saved by your browser.
+
+Most of the cookies we use are so-called "session cookies." They are automatically deleted after your visit. Other cookies remain in your device's memory until you delete them. These cookies make it possible to recognize your browser when you next visit the site.
+
+You can configure your browser to inform you about the use of cookies so that you can decide on a case-by-case basis whether to accept or reject a cookie. Alternatively, your browser can be configured to automatically accept cookies under certain conditions or to always reject them, or to automatically delete cookies when closing your browser. Disabling cookies may limit the functionality of this website.
+
+Cookies which are necessary to allow electronic communications or to provide certain functions you wish to use (such as the shopping cart) are stored pursuant to Art. 6 paragraph 1, letter f of DSGVO. The website operator has a legitimate interest in the storage of cookies to ensure an optimized service provided free of technical errors. If other cookies (such as those used to analyze your surfing behavior) are also stored, they will be treated separately in this privacy policy.
+
+### Server log files
+
+The website provider automatically collects and stores information that your browser automatically transmits to us in "server log files". These are:
+
+  * Browser type and browser version
+  * Operating system used
+  * Referrer URL
+  * Host name of the accessing computer
+  * Time of the server request
+  * IP address
 
 
 
-For these purposes, your personal data can be exchanged with, or be made available to all subsidiaries of Gembly .
+These data will not be combined with data from other sources.
 
-When using our digital services, an account may be automatically created for you, using the personal data provided by you for the purpose of one of our other services. Also, when using different Gembly products and/or services, the personal data provided by you may be combined with data deriving from (the use of) other Gembly products and/or services.
+The basis for data processing is Art. 6 (1) (f) DSGVO, which allows the processing of data to fulfill a contract or for measures preliminary to a contract.
 
-#### Supply of information to third parties
+### Registration on this website
 
-Your data will not be supplied to any third party outside the group of Gembly companies without your explicit consent without prejudice to the following. Your data may, without your explicit consent, be supplied to third parties that are called in by Gembly for the execution of its services (e.g. the supplier of a product you ordered). In such a case your data will only be used for the purpose you supplied them (e.g. the delivery of the product). Furthermore, on the basis of applicable laws and regulations Gembly may be required to supply certain information, for example to the police for the purposes of an investigation. In such a case Gembly shall only supply information if it is clear that legal obligation to providing the requested data exists. Finally, Gembly can supply your data to third parties, for example when a third party is convinced that the content of your advertisement is infringing its intellectual property rights, or that the content on one of Gembly's fora is unlawful. In such cases, Gembly shall supply your data under strict conditions only, always taking your interests into consideration.
+You can register on our website in order to access additional functions offered here. The input data will only be used for the purpose of using the respective site or service for which you have registered. The mandatory information requested during registration must be provided in full. Otherwise, we will reject your registration.
 
-#### Cookies
+To inform you about important changes such as those within the scope of our site or technical changes, we will use the email address specified during registration.
 
-The use of Gembly’s digital services can result in the collection of information about your use of these services, for example through means of cookies.  
+We will process the data provided during registration only based on your consent per Art. 6 (1)(a) DSGVO. You may revoke your consent at any time with future effect. An informal email making this request is sufficient. The data processed before we receive your request may still be legally processed.
+
+We will continue to store the data collected during registration for as long as you remain registered on our website. Statutory retention periods remain unaffected.
+
+### Registration with Facebook Connect
+
+Instead of registering directly on our website, you may also register using Facebook Connect. This service is provided by Facebook Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland.
+
+If you decide to register with Facebook Connect and click on the "Login with Facebook" or "Connect with Facebook" buttons, you will be automatically redirected to the Facebook platform. There you can log in with your Facebook username and password. This will link your Facebook profile to our website or services. This link gives us access to your data stored on Facebook. Including especially your:
+
+  * Facebook name
+  * Facebook profile picture
+  * Facebook cover picture
+  * Email address provided to Facebook
+  * Facebook ID
+  * Facebook friends
+  * Facebook Likes
+  * Birthday
+  * Gender
+  * Country
+  * Language
 
 
-#### Telephone conversations
 
-Telephone conversations with the customer service department of Gembly subsidiaries may be recorded for training and coaching purposes. The recordings are only kept for as long as strictly necessary and are not accessible to unauthorized persons.
+This data will be used to set up, provide, and personalize your account.
 
-#### External service providers and other sites
+For more information, see Facebook's Terms of Use and Privacy Policy. These can be found at <https://de-de.facebook.com/about/privacy/> and <https://www.facebook.com/legal/terms/>.
 
-If you are directed to a website or application of a third party via one of Gembly's digital services, the conditions and privacy rules of that partner or third party apply. You are advised to read the privacy statement of this partner or third party.  
-When accessing Gembly's digital services through third party social media services, your log in data will be processed by Gembly in accordance with this Privacy Statement.
+### Processing of data (customer and contract data)
 
-#### Data security
+We collect, process, and use personal data only insofar as it is necessary to establish, or modify legal relationships with us (master data). This is done based on Art. 6 (1) (b) DSGVO, which allows the processing of data to fulfill a contract or for measures preliminary to a contract. We collect, process and use your personal data when accessing our website (usage data) only to the extent required to enable you to access our service or to bill you for the same.
 
-Gembly respects the privacy of every data subject and will ensure that the relevant personal data is treated confidentially and that the greatest possible care is exercised when doing so. All personal data is secured when stored in Gembly’s administrative records. The relevant database is only accessible to Gembly staff in so far as this is necessary to enable them to perform their duties. Furthermore, Gembly undertakes to take all reasonable steps to secure its systems against the loss and/or any unlawful use or processing of such data, and adopts appropriate technical and organizational measures for this purpose, having regard to the state of the art, amongst other things.
+Collected customer data shall be deleted after completion of the order or termination of the business relationship. Legal retention periods remain unaffected.
 
-Nevertheless, Gembly shall not be liable for the unlawful gaining of access to computers or files, the distribution of viruses or unlawful programs or files through advertisements, or anything else occasioned by the provision of information to Gembly.
+### Data transferred when signing up for services and digital content
 
-####   
-Data access and amendment and right to object
+We transmit personally identifiable data to third parties only to the extent required to fulfill the terms of your contract with us, for example, to banks entrusted to process your payments.
 
-You may at all times and without any costs access your data processed by Gembly and, if desired, have these data amended. You may also object to receiving information or specific offers from Gembly by e-mail, telephone, post and/or SMS. If you wish to use one of these options, you can give notice thereof in writing via an e-mail message to [info@zigiz.com](mailto:info@zigiz.com).
+Your data will not be transmitted for any other purpose unless you have given your express permission to do so. Your data will not be disclosed to third parties for advertising purposes without your express consent.
 
-#### Amendment of this privacy statement
+The basis for data processing is Art. 6 (1) (b) DSGVO, which allows the processing of data to fulfill a contract or for measures preliminary to a contract.
 
-Gembly reserves the right to amend this Privacy Statement. Any amendment will be published on this page. You are advised to consult this Privacy Statement regularly, so as to ensure that you are aware of the applicable Privacy Statement.
+## 4\. Analytics and advertising
 
- _This Privacy statement has been amended at 13 January 2014._
+### Google Analytics
+
+This website uses Google Analytics, a web analytics service. It is operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA.
+
+Google Analytics uses so-called "cookies". These are text files that are stored on your computer and that allow an analysis of the use of the website by you. The information generated by the cookie about your use of this website is usually transmitted to a Google server in the USA and stored there.
+
+Google Analytics cookies are stored based on Art. 6 (1) (f) DSGVO. The website operator has a legitimate interest in analyzing user behavior to optimize both its website and its advertising.
+
+**IP anonymization**
+
+We have activated the IP anonymization feature on this website. Your IP address will be shortened by Google within the European Union or other parties to the Agreement on the European Economic Area prior to transmission to the United States. Only in exceptional cases is the full IP address sent to a Google server in the US and shortened there. Google will use this information on behalf of the operator of this website to evaluate your use of the website, to compile reports on website activity, and to provide other services regarding website activity and Internet usage for the website operator. The IP address transmitted by your browser as part of Google Analytics will not be merged with any other data held by Google.
+
+**Browser plugin**
+
+You can prevent these cookies being stored by selecting the appropriate settings in your browser. However, we wish to point out that doing so may mean you will not be able to enjoy the full functionality of this website. You can also prevent the data generated by cookies about your use of the website (incl. your IP address) from being passed to Google, and the processing of these data by Google, by downloading and installing the browser plugin available at the following link: <https://tools.google.com/dlpage/gaoptout?hl=en>.
+
+**Objecting to the collection of data**
+
+You can prevent the collection of your data by Google Analytics by clicking on the following link. An opt-out cookie will be set to prevent your data from being collected on future visits to this site: Disable Google Analytics.
+
+For more information about how Google Analytics handles user data, see Google's privacy policy: <https://support.google.com/analytics/answer/6004245?hl=en>.
+
+ **Outsourced data processing**
+
+We have entered into an agreement with Google for the outsourcing of our data processing and fully implement the strict requirements of the German data protection authorities when using Google Analytics.
+
+### Google AdSense
+
+This website uses Google AdSense, a service for including advertisements from Google Inc. ("Google"). It is operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA.
+
+Google AdSense uses so-called "cookies", which are text files stored in your computer that enable an analysis of the way you use the website. Google AdSense also uses so-called web beacons (invisible graphics). Through these web beacons, information such as the visitor traffic on these pages can be evaluated.
+
+The information generated by cookies and web beacons relating to your use of this website (including your IP address), and delivery of advertising formats, is transmitted to a Google server in the US and stored there. This information can be passed on from Google to contracting parties of Google. However, Google will not merge your IP address with other data you have stored.
+
+AdSense cookies are stored based on Art. 6 (1) (f) DSGVO. The website operator has a legitimate interest in analyzing user behavior to optimize both its website and its advertising.
+
+You can prevent the installation of cookies by setting your browser software accordingly. Please be aware that in this case, you may not be able to make full use of all the features of this website. By using this website, you agree to the processing of data relating to you and collected by Google as described and for the purposes set out above.
+
+## 5\. Newsletter
+
+### Newsletter data
+
+If you would like to receive our newsletter, we require a valid email address as well as information that allows us to verify that you are the owner of the specified email address and that you agree to receive this newsletter. No additional data is collected or is only collected on a voluntary basis. We only use this data to send the requested information and do not pass it on to third parties.
+
+We will, therefore, process any data you enter onto the contact form only with your consent per Art. 6 (1) (a) DSGVO. You can revoke consent to the storage of your data and email address as well as their use for sending the newsletter at any time, e.g. through the "unsubscribe" link in the newsletter. The data processed before we receive your request may still be legally processed.
+
+The data provided when registering for the newsletter will be used to distribute the newsletter until you cancel your subscription when said data will be deleted. Data we have stored for other purposes (e.g. email addresses for the members area) remain unaffected.
+
+## 6\. Plugins and tools
+
+### Google Web Fonts
+
+For uniform representation of fonts, this page uses web fonts provided by Google. When you open a page, your browser loads the required web fonts into your browser cache to display texts and fonts correctly.
+
+For this purpose your browser has to establish a direct connection to Google servers. Google thus becomes aware that our web page was accessed via your IP address. The use of Google Web fonts is done in the interest of a uniform and attractive presentation of our website. This constitutes a justified interest pursuant to Art. 6 (1) (f) DSGVO.
+
+If your browser does not support web fonts, a standard font is used by your computer.
+
+Further information about handling user data, can be found at <https://developers.google.com/fonts/faq> and in Google's privacy policy at <https://www.google.com/policies/privacy/>.
+
+## 7\. Payment service providers
+
+### PayPal
+
+Our website accepts payments via PayPal. The provider of this service is PayPal (Europe) S.à.r.l & Cie, S.C.A. (22-24 Boulevard Royal, L-2449 Luxembourg.
+
+If you select payment via PayPal, the payment data you provide will be supplied to PayPal based on Art. 6 (1) (a) (Consent) and Art. 6 (1) (b) DSGVO (Processing for contract purposes). You have the option to revoke your consent at any time with future effect. It does not affect the processing of data previously collected.
