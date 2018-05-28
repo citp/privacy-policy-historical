@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the hostmonster.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202084659id_/https%3A//www.hostmonster.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostmonster.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528181450id_/https%3A//www.hostmonster.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HostMonster
 
 Skip to main content
-
-> On July 28, 2014 we updated these terms and policies. You may [review the archived version](https://web.archive.org/privacy_policy?old=1).
 
 This Privacy Policy describes the commitment at Hostmonster ("HostMonster") to the privacy of visitors to the HostMonster website located at www.HostMonster.com and of its customers ("Subscribers"). Except as required by law or as otherwise provided herein, HostMonster will take commercially reasonable steps to ensure your right to privacy. HostMonster is committed to developing long lasting relationships that are built on trust and would never intentionally violate that trust.
 
   1. ### Who We Are
 
 HostMonster provides cloud-based solutions, including web-hosting, domain name and related products and services, to businesses, individuals, non-profit organizations and others. As part of the The Endurance International Group, Inc. ("Endurance") corporate family, HostMonster is able to provide a variety and range of products and services to help Subscribers with their technological needs. To learn more about the Endurance corporate family, visit: [http://www.enduranceinternational.com](http://www.enduranceinternational.com/)
+
+The information that HostMonster collects in connection with the Services is hosted on servers located in the United States (U.S.), unless otherwise provided. By using the Services, you freely and expressly give HostMonster your consent to export your information and data to the U.S.
 
   2. ### Information We Collect
 
@@ -94,17 +94,13 @@ HostMonster does not share personally identifiable information about individual 
 
 In addition to sharing survey information with service providers confidentially as described above, HostMonster may share aggregated, non-personally identifying information obtained from customer surveys within the Endurance corporate family or with third parties.
 
-    6. ### Law Enforcement.
+    6. ### Legal Reasons.
 
-HostMonster will respond to subpoenas, court orders, or other legal processes, and will utilize Subscriber information as necessary to establish or exercise HostMonster's legal rights or defend against legal claims. Additionally, HostMonster will share information to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations or suspected violations of HostMonster's Terms of Service, or as otherwise required by law.
+HostMonster may access, preserve and share Subscriber information with companies, organizations, governmental entities or individuals outside of HostMonster if we believe, in good faith, that the law requires us to do so. This may include, but is not limited to, responding to subpoenas, court orders or other legal processes (such as law enforcement requests). HostMonster may access, preserve and share Subscriber information as necessary to: establish or exercise HostMonster's legal rights or defend against any legal claim including threatened claims involving HostMonster based on the anonymity of a domain name; investigate, prevent, or take action regarding suspected fraud or other illegal activities; prevent death or serious physical harm to any person; or investigate violations of HostMonster's Terms of Service.
 
     7. ### Domain Registration.
 
 In certain jurisdictions or pursuant to the rules of the Internet Corporation for Assigned Names and Numbers ("ICANN") or certain registries, Domain Name Registration Information has to be made available and accessible to the public through a "WHOIS" search. The WHOIS database is a publicly accessible database that lists the Domain Name Registration Information for a particular domain name, the name server(s) to which the domain name points, and the domain name's creation and expiration date. The Domain Name Registration Information you provide is hosted by HostMonster or a third party service provider and is made available to the public through WHOIS searches. HostMonster may deposit your Domain Name Registration Information with a third-party escrow provider to comply with ICANN requirements. At times, Subscribers may receive solicitations that result from searches of the publicly available WHOIS database by other companies or individuals. Any such solicitations or SPAM do not come from HostMonster and HostMonster does not control the use of WHOIS information by third parties.
-
-    8. ### Domain Privacy.
-
-When HostMonster is threatened with suit by a third party, or any other legal action is brought to HostMonster's attention involving HostMonster based on the anonymity of a domain name, HostMonster may seek assurance from you, the customer, concerning your promise to indemnify HostMonster and written confirmation that you have contacted the complainant and made your contact information available to the complainant. Failure to promptly provide these assurances may be considered by HostMonster to be a breach of your agreement with HostMonster and may result in deactivation of your domain name and disclosure of your contact information so that any allegations of infringement or other wrongdoing may be directly resolved between you and the complainant.
 
   5. ### Your Options
 
@@ -140,10 +136,11 @@ HostMonster reserves the right to revise, amend, or modify this Privacy Policy a
 
 If you have any questions about this Privacy Policy or the practices described herein, you may contact:  
 ATTN: Hostmonster Legal Department.   
-560 Timpanogos Pkwy   
-Orem, UT 84097  
-Fax: 801-765-1992 or E-mail: legal@hostmonster.com  
+1500 N Priest Drive   
+Suite 200   
+Tempe, AZ 85281 
 
+Fax: 781-998-8277 or E-mail: legal@hostmonster.com
 
   10. ### Applicable to All Reseller Relationships
 
@@ -160,6 +157,6 @@ HostMonster retains personal data it processes on behalf of HostMonster's Resell
 
 
 
-This file was last modified: July 28, 2014.
+This file was last modified: August 03, 2017.
 
-[Terms Home](https://web.archive.org/terms) [User Agreement](https://web.archive.org/user-agreement) [Acceptable Use Policy](https://web.archive.org/acceptable-use-policy) [HIPAA Disclaimer](https://web.archive.org/acceptable-use-policy#hipaa) [Domain Registration Agreement](https://web.archive.org/domain-registration-agreement) [Anti-Spam Policy](https://web.archive.org/antispam-policy) [Privacy Policy](https://web.archive.org/privacy-policy) [Domain Name Dispute Policy](https://web.archive.org/domain-dispute-policy) [Civil Subpoena Policy](https://web.archive.org/civil-subpoena-policy) [Copyright Claims Policy](https://web.archive.org/copyright-claims-policy) [Ownership Dispute/Change Policy](https://web.archive.org/ownership-change-policy) [Professional Services Agreements](https://web.archive.org/terms-professional) [Affiliate Agreement](https://web.archive.org/affiliate-terms)
+[Terms Home](https://web.archive.org/terms) [User Agreement](https://web.archive.org/user-agreement) [Acceptable Use Policy](https://web.archive.org/acceptable-use-policy) [HIPAA Disclaimer](https://web.archive.org/acceptable-use-policy#hipaa) [Domain Registration Agreement](https://web.archive.org/domain-registration-agreement) [Anti-Spam Policy](https://web.archive.org/antispam-policy) [Privacy Policy](https://web.archive.org/privacy-policy) [Domain Name Dispute Policy](https://web.archive.org/domain-dispute-policy) [Data Request Policy](https://web.archive.org/data-request-policy) [Copyright Claims Policy](https://web.archive.org/copyright-claims-policy) [Ownership Dispute/Change Policy](https://web.archive.org/ownership-change-policy) [Professional Services Agreements](https://web.archive.org/terms-professional) [Affiliate Agreement](https://web.archive.org/affiliate-terms)
