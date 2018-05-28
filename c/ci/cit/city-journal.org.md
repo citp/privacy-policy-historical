@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the city-journal.org privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119120854id_/https%3A//www.city-journal.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the city-journal.org privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528064906id_/https%3A//www.city-journal.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | City Journal
 
-Dec 16, 2015 | New York, City
+May 1, 2018 | New York, City
 
-_Effective:_ December 16, 2015
+_Effective:_ May 1, 2018
 
 Welcome to City Journal website (the “Site”), owned and operated by the Manhattan Institute (“we,” “us,” or “our”). The Site is designed to serve as an online magazine resource for parties interested in City Journal and the Manhattan Institute. The following Privacy Policy describes how we collect, use, and share information you provide to us through your use of the Site or any other Manhattan Institute/City Journal apps or websites linking to this Privacy Policy (collectively, the “Services”). By using or visiting the Services, you agree to be bound by this Privacy Policy. We reserve the right to change this Privacy Policy at any time, effective immediately upon posting on the Services. Please check this page of the Services periodically for such changes. Your continued use of the Services following any changes to this Privacy Policy will constitute your acceptance of such changes. You agree that the information that we gather now will be subject to the Privacy Policy in effect at the time of use.
 
 _Information We Collect_
+
+Both information you provide and information collected automatically can be used in marketing communications unless users request removal of said data.
 
 Information You Provide.
 
@@ -52,10 +54,4 @@ Third Parties. We do not control the privacy policies of third parties that have
 
 International Users. By using the Services, you consent to the collection, storage, processing, and transfer of your information in and to the United States, or other countries and territories, pursuant to the laws of the United States. While some of these countries may offer a different level of privacy protection, the Manhattan Institute/City Journal commits to uphold the privacy protections as explained in this Privacy Policy.
 
-Correct/Update Personal Information. If you would like to review, update, change or delete information that we have collected from you, please send an email to [asalvatore@manhattan-institute.org](mailto:asalvatore@manhattan-institute.org) or write to:
-
-Abigail Salvatore
-
-52 Vanderbilt Avenue, 2nd Floor
-
-New York, NY 10017
+Correct/Update Personal Information. If you would like to review, update, change, or delete information that we have collected from you, please send an email to [communications@manhattan-institute.org](mailto:communications@manhattan-institute.org) or write to: 52 Vanderbilt Avenue, 2nd Floor, New York, NY 10017.
