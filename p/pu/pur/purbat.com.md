@@ -1,149 +1,131 @@
-> *The following text is extracted and transformed from the purbat.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228034014id_/http%3A//www.purbat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purbat.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528194226id_/http%3A//www.purbat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### www.Purbat.com – Privacy Policy
+This privacy policy (“Policy”) describes how Website Operator (“Website Operator”, “we”, “us” or “our”) collects, protects and uses the personally identifiable information (“Personal Information”) you (“User”, “you” or “your”) may provide on the [http://purbat.com](http://purbat.com/) website and any of its products or services (collectively, “Website” or “Services”). It also describes the choices available to you regarding our use of your Personal Information and how you can access and update this information. This Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
 
-This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+## Collection of personal information
 
-**What personal information do we collect from the people that visit our blog, website or app?**
+We receive and store any information you knowingly provide to us when you fill any online forms on the Website. You can choose not to provide us with certain information, but then you may not be able to take advantage of some of the Website’s features. Users who are uncertain about what information is mandatory are welcome to contact us.
 
-We do not collect information from visitors of our site.
+## Collection of non-personal information
 
-or other details to help you with your experience.
+When you visit the Website our servers automatically record information that your browser sends. This data may include information such as your device’s IP address, browser type and version, operating system type and version, language preferences or the webpage you were visiting before you came to our Website, pages of our Website that you visit, the time spent on those pages, information you search for on our Website, access times and dates, and other statistics.
 
-**When do we collect information?**
+## Use and processing of collected information
 
-We collect information from you when you register on our site or enter information on our site.
+Any of the information we collect from you may be used to personalize your experience; run and operate our Website and Services. Non-Personal Information collected is used only to identify potential cases of abuse and establish statistical information regarding Website usage. This statistical information is not otherwise aggregated in such a way that would identify any particular user of the system.
 
-**How do we use your information?**
+We may process Personal Information related to you if one of the following applies: (i) You have given their consent for one or more specific purposes. Note that under some legislations we may be allowed to process information until you object to such processing (by opting out), without having to rely on consent or any other of the following legal bases below. This, however, does not apply, whenever the processing of Personal Information is subject to European data protection law; (ii) Provision of information is necessary for the performance of an agreement with you and/or for any pre-contractual obligations thereof; (ii) Processing is necessary for compliance with a legal obligation to which you are subject; (iv) Processing is related to a task that is carried out in the public interest or in the exercise of official authority vested in us; (v) Processing is necessary for the purposes of the legitimate interests pursued by us or by a third party. In any case, we will be happy to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Data is a statutory or contractual requirement, or a requirement necessary to enter into a contract.
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+## Information transfer and storage
 
-**•** To improve our website in order to better serve you.
+Depending on your location, data transfers may involve transferring and storing your information in a country other than your own. You are entitled to learn about the legal basis of information transfers to a country outside the European Union or to any international organization governed by public international law or set up by two or more countries, such as the UN, and about the security measures taken by us to safeguard your information. If any such transfer takes place, you can find out more by checking the relevant sections of this document or inquire with us using the information provided in the contact section.
 
-**How do we protect your information?**
+## The rights of users
 
-We do not use vulnerability scanning and/or scanning to PCI standards.
+You may exercise certain rights regarding your information processed by us. In particular, you have the right to do the following: (i) you have the right to withdraw consent where you have previously given your consent to the processing of your information; (ii) you have the right to object to the processing of your information if the processing is carried out on a legal basis other than consent; (iii) you have the right to learn if information is being processed by us, obtain disclosure regarding certain aspects of the processing and obtain a copy of the information undergoing processing; (iv) you have the right to verify the accuracy of your information and ask for it to be updated or corrected; (v) you have the right, under certain circumstances, to restrict the processing of your information, in which case, we will not process your information for any purpose other than storing it; (vi) you have the right, under certain circumstances, to obtain the erasure of your Personal Information from us; (vii) you have the right to receive your information in a structured, commonly used and machine readable format and, if technically feasible, to have it transmitted to another controller without any hindrance. This provision is applicable provided that your information is processed by automated means and that the processing is based on your consent, on a contract which you are part of or on pre-contractual obligations thereof.
 
-We only provide articles and information. We never ask for credit card numbers.
+## The right to object to processing
 
-We use regular Malware Scanning.
+Where Personal Information is processed for a public interest, in the exercise of an official authority vested in us or for the purposes of the legitimate interests pursued by us, you may object to such processing by providing a ground related to your particular situation to justify the objection. You must know that, however, should your Personal Information be processed for direct marketing purposes, you can object to that processing at any time without providing any justification. To learn, whether we are processing Personal Information for direct marketing purposes, you may refer to the relevant sections of this document.
 
-We do not use an SSL certificate
+## How to exercise these rights
 
-**•** We only provide articles and information. We never ask for personal or private information like names, email addresses, or credit card numbers.
+Any requests to exercise User rights can be directed to the Owner through the contact details provided in this document. These requests can be exercised free of charge and will be addressed by the Owner as early as possible and always within one month.
 
-**Do we use ‘cookies’?**
+## Privacy of children
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+We do not knowingly collect any Personal Information from children under the age of 13. If you are under the age of 13, please do not submit any Personal Information through our Website or Service. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce this Policy by instructing their children never to provide Personal Information through our Website or Service without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Information to us through our Website or Service, please contact us.
 
-**We use cookies to:**
+## Cookies
 
-**•** Keep track of advertisements.
+The Website uses “cookies” to help personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. We may use cookies to collect, store, and track information for statistical purposes to operate our Website and Services. You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the features of the Website and Services.
 
-**•** Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
+## Advertisement
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies.
+We may display online advertisements and we may share aggregated and non-identifying information about our customers that we collect through the registration process or through online surveys and promotions with certain advertisers. We do not share personally identifiable information about individual customers with advertisers. In some instances, we may use this aggregated and non-identifying information to deliver tailored advertisements to the intended audience.
 
-If you turn cookies off, some features will be disabled. It won’t affect the user’s experience that make your site experience more efficient and may not function properly.
+## Links to other websites
 
-However, you will still be able to place orders .
+Our Website contains links to other websites that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other websites or third-parties. We encourage you to be aware when you leave our Website and to read the privacy statements of each and every website that may collect Personal Information.
 
-**Third-party disclosure**
+## Information security
 
-We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information.
+We secure information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use, or disclosure. We maintain reasonable administrative, technical, and physical safeguards in an effort to protect against unauthorized access, use, modification, and disclosure of Personal Information in its control and custody. However, no data transmission over the Internet or wireless network can be guaranteed. Therefore, while we strive to protect your Personal Information, you acknowledge that (i) there are security and privacy limitations of the Internet which are beyond our control; (ii) the security, integrity, and privacy of any and all information and data exchanged between you and our Website cannot be guaranteed; and (iii) any such information and data may be viewed or tampered with in transit by a third-party, despite best efforts.
 
-**Third-party links**
+## Data breach
 
-Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+In the event we become aware that the security of the Website has been compromised or users Personal Information has been disclosed to unrelated third-parties as a result of external activity, including, but not limited to, security attacks or fraud, we reserve the right to take reasonably appropriate measures, including, but not limited to, investigation and reporting, as well as notification to and cooperation with law enforcement authorities. In the event of a data breach, we will make reasonable efforts to notify affected individuals if we believe that there is a reasonable risk of harm to the user as a result of the breach or if notice is otherwise required by law. When we do we will post a notice on the Website.
 
-**Google**
+## Changes and amendments
 
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
+We reserve the right to modify this privacy policy relating to the Website or Services at any time, effective upon posting of an updated version of this Policy on the Website. When we do we will revise the updated date at the bottom of this page. Continued use of the Website after any such changes shall constitute your consent to such changes. Policy was created with [WebsitePolicies.com](https://www.websitepolicies.com/privacy-policy-generator "Privacy policy generator")
 
-We use Google AdSense Advertising on our website.
+## Acceptance of this policy
 
-Google, as a third-party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.
+You acknowledge that you have read this Policy and agree to all its terms and conditions. By using the Website or its Services you agree to be bound by this Policy. If you do not agree to abide by the terms of this Policy, you are not authorized to use or access the Website and its Services.
 
-**We have implemented the following:**
+California Online Privacy Protection Act
 
-**•** DoubleClick Platform Integration
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
 
-We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
+According to CalOPPA we agree to the following:
 
-**Opting out: **  
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.****
+Users can visit our site anonymously
 
-**California Online Privacy Protection Act**
+Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+Our Privacy Policy link includes the word ‘Privacy’, and can be easily be found on the page specified above.
 
-**According to CalOPPA, we agree to the following:**
+Users will be notified of any privacy policy changes:
 
-Users can visit our site anonymously.
+  * On our Privacy Policy Page
 
-Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.
 
-Our Privacy Policy link includes the word ‘Privacy’ and can be easily be found on the page specified above.
 
-You will be notified of any Privacy Policy changes:
+Users are able to change their personal information:
 
-**•** On our Privacy Policy Page
+  * By logging in to their account
 
-Can change your personal information:
 
-**•** By logging in to your account
 
-**How does our site handle Do Not Track signals?**
+How does our site handle do not track signals?
 
-We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
 
-**Does our site allow third-party behavioral tracking?**
+Does our site allow third party behavioral tracking?
 
-It’s also important to note that we allow third-party behavioral tracking
+It’s also important to note that we do not allow third party behavioral tracking
 
-**COPPA (Children Online Privacy Protection Act)**
+COPPA (Children Online Privacy Protection Act)
 
-When it comes to the collection of personal information from children under the age of 13 years old, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States’ consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
+When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
 
-We do not specifically market to children under the age of 13 years old.
+We do not specifically market to children under 13.
 
-**Fair Information Practices**
+Fair Information Practices
 
 The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
 
-**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
+In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:
 
-**•** Within 7 business days
+We will notify the users via email
 
-We will notify the users via in-site notification
+  * Within 7 business days
 
-**•** Within 7 business days
 
-We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
 
-**CAN SPAM Act**
+We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
+
+CAN SPAM Act
 
 The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
 
-**We collect your email address in order to:**
+## Contacting us
 
-**To be in accordance with CANSPAM, we agree to the following:**
+If you have any questions about this Policy, please contact us.
 
-**  
-If at any time you would like to unsubscribe from receiving future emails, you can email us at**
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
-****and we will promptly remove you from **ALL** correspondence.  
-  
-****
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy, you may contact us using the information below.
-
-www.purbat.com
-
-admin@purbat.com
-
-Last Edited on 2016-09-01
+This document was last updated on May 25, 2018
