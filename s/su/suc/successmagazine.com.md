@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the successmagazine.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904024532id_/http%3A//www.success.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the successmagazine.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528030102id_/https%3A//www.success.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SUCCESS
 
-SUCCESS Partners Holding Co. ("SUCCESS," "we," "us" or "our") is committed to protecting our users’ information and to making our users aware of our online practices regarding the privacy of their information.
+SUCCESS Partners Holding Co. ("SUCCESS," "we," "us" or "our") values its customers and respects their right to privacy. We are committed to protecting our users’ information and to making our users aware of our online practices regarding the privacy of their information. That includes meeting or exceeding requirements under data protection acts and regulations (including the General Data Protection Regulation Act).
 
 By accessing this web site (the “Site”), you expressly consent and agree to the terms and conditions of this privacy policy, including our use and disclosure of your personal information in accordance with this Privacy Policy. If you do not agree, then please do not use or access our Site.
 
@@ -18,7 +18,7 @@ We may also maintain a record of your online history on the Site, and the aforem
 
 You also understand that when you post information to our Site, it may be indexable by search engines. If a third party then copies your content posted on our Site, your election to remove that content from our Site may not remove your content from other sources that have since linked to or copied your content.
 
-## How the Information is Used.
+## How the Information Is Used.
 
 By using this website, you agree that SUCCESS may use the information you give it to provide services to you or provide information, notices and reminders that SUCCESS thinks you may find interesting or useful, or that you specifically requested. We may from time-to-time provide your name and email address to marketing partners. SUCCESS may also use the information for other actions you take or other services you request on our Site.
 
@@ -65,15 +65,13 @@ We may release your personal information if we believe release is appropriate to
 
 ## Use of Cookies.
 
-SUCCESS uses “cookies”. “Cookies” are elements of data that a web site can send to a user’s browser and store on a user’s computer. Cookies do not contain personal information about a user. Cookies can note that a user’s browser was used to visit certain sites or pages on a certain date. SUCCESS uses cookies to enhance navigation and functionality of its Site. SUCCESS also uses cookies to let it know how visitors are using its Site, so that it can improve its Site and users’ experience on it.
-
-You may set your browser to block all cookies, including cookies associated with our services; however, if you choose to block our cookies, some of our services and function may not properly function for you.
+Please see our detailed [cookies policy here](http://www.success.com/cookie-policy).
 
 ## Third Party Advertisers.
 
 We may use outside companies to display ads on our Site, including manufacturers of the products we offer on the Site, and third parties acting on their behalf. These ads and notices may contain cookies. Third parties also may post content to our Site. These postings may also contain cookies.
 
-## How Long We Keep Your Personally-Identifiable Information
+## How Long We Keep Your Personally-Identifiable Information.
 
 SUCCESS retains the personally-identifiable information you provide to us as reasonably necessary in connection with SUCCESS’ operation of its business and for you to use the Site, or for us to provide customer support or other services described herein in connection with the Site.  
 Security.
@@ -86,11 +84,11 @@ ALTHOUGH SUCCESS USES REASONABLE SECURITY PRECAUTIONS WITH RESPECT TO YOUR PERSO
 
 Customers can, by emailing SUCCESS at [admin@successpartners.com](mailto:admin@successpartners.com) review and correct the personally identifiable information that has been collected from them by SUCCESS.
 
-## Opt-Out
+## Opt-Out.
 
 At any time should you wish for us to no longer communicate with you, or wish to have us delete or destroy any names, email addresses, content or communications you send to us, please write to us at: SUCCESS, 5800 Democracy Drive, Plano Texas 75024, or email us at [admin@successpartners.com](mailto:admin@successpartners.com).  However, then you may no longer be able to use the Site and/or the services offered through the Site.
 
-## California Residents – Your Privacy Rights
+## California Residents – Your Privacy Rights.
 
 Pursuant to Section 1798.83 of the California Civil Code, residents of California can obtain certain information about the types of personal information that companies with whom they have an established business relationship have shared with third parties for direct marketing purposes during the preceding calendar year. In particular, the law provides that companies must inform consumers about the categories of personal information that have been shared with third parties, the names and addresses of those third parties, and examples of the types of services or products marketed by those third parties. To request a copy of the information disclosure provided by SUCCESS pursuant to Section 1798.83 of the California Civil Code, please contact us via the email address stated above. Please allow 30 days for a response.
 
@@ -106,4 +104,4 @@ This Site may provide links to other web sites that SUCCESS thinks you will find
 
 If you choose to visit our Site, your visit and any dispute over privacy is subject to this Privacy Policy and our [Terms of Use](https://web.archive.org/terms-of-use/). By visiting the Site, using the services offered on the Site, or submitting and/or posting content to the Site, you agree that the laws of the State of Texas, without regard to principles of conflict of laws, will govern this Agreement and any dispute of any sort that might arise between you and us. Any dispute relating in any way to your visit to the Site, using the services offered on the Site and/or submitting and/or posting content on the Site, shall be adjudicated in any state court in Collin County, Texas, or any federal court in the Northern District of Texas and you and we consent to exclusive jurisdiction and venue in such courts and waive any and all claims of inconvenient forum and immunity. YOU AND WE EXPRESSLY AGREE HEREBY, TO THE FULLEST EXTENT PERMITTED BY LAW TO WAIVE THE RIGHT TO A TRIAL BY JURY.
 
-Updated: June, 2017
+Updated: May 2018
