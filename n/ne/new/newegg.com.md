@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newegg.com privacy policy that was archived on 2017-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170927231328id_/https%3A//kb.newegg.com/Article/Index/12/3%3Fid%3D1166) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newegg.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528041159id_/https%3A//kb.newegg.com/Article/Index/12/3%3Fid%3D1166) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -33,7 +33,9 @@ We use IP addresses to analyze trends, administer the site, track user movement,
 
 ### Sharing
 
-We may employ third party companies to perform functions on our behalf. These functions may include order fulfillment, package delivery, marketing assistance, postal and e-mail delivery, customer service, data analysis, and credit processing. The third parties we contract for these purposes have limited access to your personal information and may not use it for other purposes. 
+Newegg often sells products from third party companies that we refer to as our “Marketplace” sellers. In order to best facilitate and complete these transactions, we may share some of your customer data with these companies.
+
+In addition, we may employ third party companies to perform functions on our behalf. These functions may include order fulfillment, package delivery, marketing assistance, postal and e-mail delivery, customer service, data analysis, and credit processing. The third parties we contract for these purposes have limited access to your personal information and may not use it for other purposes. 
 
 We may frame or mask another website so that the look, feel and interface simulate the experience of browsing a genuine Newegg.com web page. Extreme care and discretion is exercised when evaluating third party sites. We only brand third party sites if their organization applies stringent security and privacy practices which parallel our own commitment to safe online shopping.
 
@@ -112,4 +114,10 @@ Whittier, CA 90601
 
   
 
-#helpful# 
+#helpful#   
+  
+Subscribe
+
+Enter your email address to receive a notification when the article is updated
+
+Email Address
