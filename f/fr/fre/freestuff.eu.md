@@ -1,408 +1,179 @@
-> *The following text is extracted and transformed from the freestuff.eu privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222223241id_/https%3A//www.freestuff.eu/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freestuff.eu privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528191808id_/https%3A//www.freestuff.eu/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Free Stuff
 
-Last updated: 27th June 2016
+All Groove is committed to protecting your personal data and respecting your privacy.
 
-All Groove recognizes that your privacy and the protection of your personal information is important to you. All Groove takes your privacy seriously, taking every reasonable precaution to safeguard the personal information that you provide. All Groove complies fully with the Data Protection Act 1998 and the Privacy and Electronic Communications (EC Directive) Regulations 2003. If you wish to find out more please visit https://ico.org.uk/ FreeStuff.eu is owned by Brandling AG and operated by All Groove Ltd ("All Groove") whose registration number at the UK Information Commissioner's Office (ICO) is ZA100281. This statement discloses how All Groove helps to protect your personal information while using the FreeStuff website.
+This privacy policy ("Privacy Policy") explains the type of information that All Groove collects from its website www.freestuff.eu (the "Website"), how we will use it and the rights that you have in relation to this information.
 
-**Third parties - marketing and relationship management**
+By using this Website you accept the terms of this Privacy Policy.
 
-We may from time to time supply your information to third parties for marketing or relationship management purposes. The main purposes to which your data are put are to allow third parties to provide you with information about goods and services which they think may be of interest to you and/or to maintain any existing relationship they may have with you. Such information may be provided by marketing communications or advertising which is tailored to your interests. Your data may also be used in the way described below. Be assured that any such parties will only be allowed to use your data in accordance with the Data Protection Act 1998 and other applicable law relating to privacy. Those third parties who would wish to send you marketing communications or to advertise to you will fall into the following categories:
+* **ABOUT US**  
+This Website is operated by All Groove Limited, a company registered in England and Wales (company reg: 04738797) (referred to in this Privacy Policy as "All Groove", "us" or "we"). Our registered office and main trading address is Unit 1, 80-82 White Lion Street, London N1 9PF. Our VAT number is 187730083.
 
-**Sector**|  **Description and examples**  
----|---  
-Retail |  \- Online retail  
-\- General stores  
-\- Automotive (including dealerships and accessories)  
-\- Property  
-\- Home furnishings  
-\- Home improvement  
-\- Fashion and clothing  
-\- Telecoms and utilities  
-  
-Finance |  \- Pensions  
-\- Loans, credit cards and mortgages  
-\- Investments & savings  
-\- Short term loans  
-  
-Insurance |  \- Home  
-\- Car  
-\- Travel  
-\- Pet  
-\- Personal  
-\- Other insurances  
-  
-Travel |  \- Holidays  
-\- Hotel  
-\- Airlines  
-\- Travel booking  
-  
-Lifestyle |  \- Health & Well-being  
-\- Fitness  
-\- Charities  
-\- Media & publishing companies  
-\- Leisure  
-\- Gaming  
-\- Legal Services  
-\- Educational institutions  
-  
-  
-By continuing to use this website you have consented to information being collected from your device by cookies or other similar technologies, for the purposes described in this Privacy Policy, including the display of targeted advertising based on the information provided.
+Except as otherwise described in this Privacy Policy, All Groove is the data controller of the personal information we collect about you from the Website for the purposes of the Data Protection Act 1998 and, with effect from 25 May 2018, the General Data Protection Regulation ("GDPR") and any other data protection laws which apply in the United Kingdom from time to time (together, "Data Protection Law").
 
-**Opting Out (Deregistration)**
+For any enquiries relating to this Privacy Policy or how we use information collected from this Website, please contact us by writing to us at Unit 1, 80-82 White Lion Street, London N1 9PF or by emailing us at [privacy@allgroove.com](mailto:privacy@allgroove.com). 
 
-Should you wish to opt out of your data being used for these purposes, please [unsubscribe](https://web.archive.org/web/20171222223241id_/https%3A//www.freestuff.eu/unsubscribe.php).
+* **THE INFORMATION WE COLLECT ABOUT YOU**  
+This section explains how we collect personal information about you, the types of personal information we may collect, how we may use it, who we may share it with and how long we will keep it for: 
 
-The consequences of deregistration are that your account details will be placed in a suppression file and you will not receive any further communications from FreeStuff.eu. Every email that FreeStuff.eu sends contains a link to unsubscribe and a link to this privacy policy.
+  1. Personal information you submit to us when you sign up to receive information about freebies, discounts and prizes: 
+    1. **_We will collect your contact details and some basic information about you:_** We will collect your first and last name, salutation, your email address, your postal address, your mobile phone number and your date of birth.
+    2. **_We will use your personal information to contact you about the latest freebies, discounts, offers and prizes:_** When you enter your contact details for this reason and click "register free", you will be consenting to us contacting you by email and / or SMS about the latest freebies, discounts, offers and prizes that we make available on behalf of our partners through the Website. We will only be able to send you emails about the latest freebies, offers, discounts, and prizes if you have provided your consent.
+    3. **_We will stop using your personal information for this purpose if you withdraw your consent at any time:_** If you subsequently decide that you do not want to hear from us about the latest freebies, discounts, offers and prizes, you are entitled at any time to withdraw your consent to receiving emails from us. To unsubscribe, please either email us at [info@freestuff.eu](mailto:info@freestuff.eu) with the subject heading "Unsubscribe", or contact us by completing the "Contact Us" form available on the Website and selecting "Deactivate account", or please click the "Unsubscribe" link at the bottom of the Website or any email that we have sent to you, and follow the instructions.
+    4. **_We store personal information collected by us inside and outside the EEA, as may other parties that we may share your personal information with:_** The personal information that we collect from you may be stored at a destination outside the European Economic Area ("EEA") and may be processed by personnel (who work for us or one of our service providers) operating outside the EEA in countries that the European Commission has not decided offer adequate data protection in accordance with Data Protection Law. Where we pass your personal information to parties located outside of the EEA that do not offer adequate protection, if they are not subscribed to an approved data protection framework, such as the EU-US Privacy Shield that permits us to transfer the personal data to them from the UK, we will enter into agreements which enable us to transfer that personal information to them and that enable you to exercise your rights in accordance with Data Protection Law. In particular: 
+      1. We use email service providers that store the personal information collected by us about our registrants in the United States of America. To ensure that such personal information is provided adequate protection, we have put in place standard contractual clauses approved by the European Commission for transfers from data controllers in the EEA to data processors outside the EEA. A copy of these terms can be obtained by emailing us at [privacy@allgroove.com](mailto:privacy@allgroove.com).
+      2. Our personnel based in India may have access to personal information when they perform technical maintenance and support activities on our information technology systems. To ensure that such personal information is provided adequate protection, we have put in place standard contractual clauses approved by the European Commission for transfers from data controllers in the EEA to data processors outside the EEA. A copy of these terms can be obtained by emailing us at [privacy@allgroove.com](mailto:privacy@allgroove.com).
+      3. For further details about the locations in which our Affiliates may store your personal information, please visit the privacy policy available on their websites.
+      4. For further details about the locations in which any client of ours may store your personal information (which it will be using as a separate data controller for the purposes of Data Protection Law), please see the information that was provided to you in the data collection notice that you received at the time you registered for a promotion, competition or other service offered by that client, or contact that client directly.
+    5. **_We will keep a record of the personal information that we receive from you in order to contact you about the latest freebies, discounts, offers and prizes._** We will keep our copy of your personal information held for this purpose until 6 months following the last time you engaged with our emails or, if earlier, until you have contacted us to ask for the processing of your personal information for this purpose to be stopped (in which case we will retain a record of your request in order to ensure that we comply with your wishes).
+  2. Personal information you submit to us when you register to enter a prize draw: 
+    1. **_We will collect your contact details and some basic information about you:_** We will collect your first and last name, salutation, your email address, your postal address, your mobile phone number and your date of birth.
+    2. **_We will use your personal information to enter you into the prize draw:_** When you submit your contact details to enter into the prize draw, we will use them to enter you into the prize draw and to contact you about the prize draw (for example, if you win a prize) because it is in our legitimate interests to use your personal information for these purposes to administer the prize draw.
+    3. **_We will use your personal information to contact you about the latest freebies, offers, discounts and prizes:_** When you submit your contact details to enter the prize draw, you will also be able to choose to consent to us contacting you by email or SMS about the latest freebies, offers, discounts, and prizes that we make available on behalf of our partners through the Website. We will only be able to send you emails about the latest freebies, offers, discounts, and prizes if you have provided your consent. We will seek your consent through the use of tick boxes or similar methods.
+    4. **_We will stop using your personal information for this purpose if you withdraw your consent at any time:_** If you subsequently decide that you do not want to hear from us about the latest freebies, discounts and prizes, you are entitled at any time to withdraw your consent to receiving emails from us. To unsubscribe, please either email us at [info@freestuff.eu](mailto:info@freestuff.eu) with the subject heading "Unsubscribe" or please click the "Unsubscribe" link at the bottom of the Website or any email that we have sent to you, and follow the instructions.
+    5. **_We store personal information collected by us inside and outside the EEA, as may other parties that we may share your personal information with:_** The personal information that we collect from you may be stored at a destination outside the EEA and may be processed by personnel (who work for us or one of our service providers) operating outside the EEA in countries that the European Commission has not decided offer adequate data protection in accordance with Data Protection Law. Where we pass your personal information to parties located outside of the EEA that do not offer adequate protection, if they are not subscribed to an approved data protection framework, such as the EU-US Privacy Shield that permits us to transfer the personal data to them from the UK, we will enter into agreements which enable us to transfer that personal information to them and that enable you to exercise your rights in accordance with Data Protection Law. In particular: 
+      1. We use email service providers that store the personal information collected by us about our registrants in the United States of America. To ensure that such personal information is provided adequate protection, we have put in place standard contractual clauses approved by the European Commission for transfers from data controllers in the EEA to data processors outside the EEA. A copy of these terms can be obtained by emailing us at [privacy@allgroove.com](mailto:privacy@allgroove.com).
+      2. Our personnel based in India may have access to personal information when they perform technical maintenance and support activities on our information technology systems. To ensure that such personal information is provided adequate protection, we have put in place standard contractual clauses approved by the European Commission for transfers from data controllers in the EEA to data processors outside the EEA. A copy of these terms can be obtained by emailing us at [privacy@allgroove.com](mailto:privacy@allgroove.com).
+      3. For further details about the locations in which our Affiliates may store your personal information, please visit the privacy policy available on their websites.
+      4. For further details about the locations in which any client of ours may store your personal information (which it will be using as a separate data controller for the purposes of Data Protection Law), please see the information that was provided to you in the data collection notice that you received at the time you registered for a promotion, competition or other service offered by that client, or contact that client directly.
+    6. **_We will keep a record of the personal information that we receive from you in order to enter you into a prize draw._** We will keep our copy of your personal information held for this purpose until we no longer require, following the last time we use your personal information for this purpose or, if earlier, until you have contacted us to ask for the processing of your personal information for this purpose to be stopped (in which case we will retain a record of your request in order to ensure that we comply with your wishes).
+    7. Personal information you submit to us when you choose to receive emails or telephone calls from one of our partners: 
+      1. **_We will collect your contact details:_** We will collect your first and last name, salutation, your email address, your postal address, your mobile phone number and your date of birth.
+      2. **_We will share your personal information with our sponsors and partners, with your consent:_** When you sign up to receive information about freebies, discounts and prizes or when you enter a prize draw, you can also choose to share your personal information with our partners in the following circumstances: 
+        1. From time to time, the Website is sponsored by one of our partners. When you sign up, we will tell you which of our partners is then sponsoring the Website. If you wish to receive emails about products and services provided by the sponsor, you will need to give consent to us sharing your contact details with them.
+        2. You can choose to receive offers by email or telephone from companies that we believe will be of interest to you by selecting from a list.
+We will seek your consent through the use of tick boxes or similar methods. 
+      3. **_The sponsors and partners will be responsible for their processing of the personal information that you agree to share:_** When we share your personal information in this way, the sponsors and/or partners will be responsible for their processing or your personal information and the processing will be subject to the sponsors' and/or partners' privacy policies. At the time we seek your consent, we will provide you a link to the applicable sponsor's or partner's privacy policy.
+      4. **_We store personal information collected by us inside and outside the EEA, as may other parties that we may share your personal information with:_** The personal information that we collect from you may be stored at a destination outside the European Economic Area ("EEA") and may be processed by personnel (who work for us or one of our service providers) operating outside the EEA in countries that the European Commission has not decided offer adequate data protection in accordance with Data Protection Law. Where we pass your personal information to parties located outside of the EEA that do not offer adequate protection, if they are not subscribed to an approved data protection framework, such as the EU-US Privacy Shield that permits us to transfer the personal data to them from the UK, we will enter into agreements which enable us to transfer that personal information to them and that enable you to exercise your rights in accordance with Data Protection Law. In particular: 
+        1. Our personnel based in India may have access to personal information when they perform technical maintenance and support activities on our information technology systems. To ensure that such personal information is provided adequate protection, we have put in place standard contractual clauses approved by the European Commission for transfers from data controllers in the EEA to data processors outside the EEA. A copy of these terms can be obtained by emailing us at privacy@allgroove.com.
+      5. **_We will keep a record of the personal information that we receive from you in order to contact you about the latest freebies, discounts and prizes._** We will keep our copy of your personal information held for this purpose indefinitely or until you have contacted us to ask for the processing of your personal information for this purpose to be stopped (in which case we will retain a record of your request in order to ensure that we comply with your wishes).
+    8. Personal information you submit to us using the "Contact Us" form on the Website: 
+      1. **_We will collect your contact details and any personal information contained in your message:_** We will collect your email address, the subject of your enquiry and any personal information contained in the message section of your enquiry.
+      2. **_We will use your personal information to reply to your enquiry:_** We will read your enquiry and use your personal information to respond to it: 
+        1. _If you are notifying us about a problem with the Website:_ We will use your personal information to consider the reported problem and may use it to contact you and request more information in order to help us resolve the problem. When we use your personal information for this purpose, it is in our legitimate interests to do so in order to investigate the problem.
+        2. _If you are making an enquiry about advertising your business on our website (including by offering discounts, freebies and prizes to users of the Website):_ We will use your personal information to consider and decide how to respond to your enquiry. When we use your personal information for this purpose, it is in our legitimate interests to do so in order to consider whether we can advertise your business on the Website.
+        3. _If you are contacting us to provide feedback or make a suggestion in connection with the Website:_ We will use your personal information to consider your feedback or suggestion and decide how to respond. When we use your personal information for this purpose, it is in our legitimate interests to do so in order to consider how well we are operating the Website and how it could be improved.
+        4. _If you are contacting us to request deactivation of your subscription to receive emails about the latest freebies, offers, discounts, and prizes that we make available on behalf of our partners through the Website:_ We will use your personal information to deactivate your subscription. When we use your personal information for this purpose, it is in our legitimate interests to do so in order to remove you from this mailing list.
+        5. _If you are making any other type of enquiry: We will use your personal information to consider and respond to your enquiry because it is in our legitimate interests to use your personal information in order to determine how to answer your query._ Depending on the subject of your enquiry, it may also be necessary for us to use your personal information to comply with a legal obligation relating to how we manage our business or our relationship with your business.
+      3. **_We will use your personal information to confirm your identity:_** If we do not know you or your role at your business, we may also use your personal information to confirm your identity and the business that you work for, as well as your role at that business. We do this because it is in our legitimate interests to make sure that your enquiry is genuine and is not being made for fraudulent reasons or is spam. We may also do this because we may be subject to legal obligations which require us to confirm the details that you provide us with before entering into a relationship with you.
+      4. **_We may share your personal information with others in order to confirm your identity and to respond to your enquiry:_**
+        1. We may check your personal information by searching for your name and that of your business in publicly available and private databases of businesses and individuals, which will use the details entered by us to provide us with the search results. For example, we may use databases such as those retained by LinkedIn or Companies House for this purpose.
+        2. If you are a making an enquiry about a promotion, competition or other service provided by a partner or about personal information they may have about you, we may pass your personal information on to them so that we or they can respond to your enquiry.
+        3. We may pass your personal information to one of our affiliates, LolaGrove Limited, Overmore Limited, (our "Affiliates") so that they can respond to your enquiry if it relates to their business, in which case that Affiliate will be using it as a separate data controller for the purposes of Data Protection Law. For example, if you make an enquiry through the Website about a service offered by LolaGrove, we may pass your personal information to LolaGrove Limited so that they can provide you a response, in which case, LolaGrove Limited will be using it as a separate data controller for the purposes of Data Protection Law.
+      5. **_We store personal information collected by us inside and outside the EEA, as may other parties that we may share your personal information with:_** The personal information that we collect from you may be stored at a destination outside the EEA and may be processed by personnel (who work for us or one of our service providers) operating outside the EEA in countries that the European Commission has not decided offer adequate data protection in accordance with Data Protection Law. Where we pass your personal information to parties located outside of the EEA that do not offer adequate protection, if they are not subscribed to an approved data protection framework, such as the EU-US Privacy Shield that permits us to transfer the personal data to them from the UK, we will enter into agreements which enable us to transfer that personal information to them and that enable you to exercise your rights in accordance with Data Protection Law. In particular: 
+        1. We use a customer relationship management solution that stores the personal information collected by us about our clients in the United States of America. To ensure that such personal information is provided adequate protection, transfers of personal information to this service provider are made in accordance with the EU-US Privacy Shield. For further information about the EU-US Privacy Shield, see [www.privacyshield.gov](http://www.privacyshield.gov/).
+        2. Our personnel based in India may have access to personal information when they perform technical maintenance and support activities on our information technology systems. To ensure that such personal information is provided adequate protection, we have put in place standard contractual clauses approved by the European Commission for transfers from data controllers in the EEA to data processors outside the EEA. A copy of these terms can be obtained by emailing us at [privacy@allgroove.com](mailto:privacy@allgroove.com).
+        3. For further details about the locations in which our Affiliates may store your personal information, please visit the privacy policy available on their websites.
+        4. For further details about the locations in which any client of ours may store your personal information (which it will be using as a separate data controller for the purposes of Data Protection Law), please see the information that was provided to you in the data collection notice that you received at the time you registered for a promotion, competition or other service offered by that client, or contact that client directly.
+      6. **_We will keep a record of the personal information that we receive from you in order to answer your enquiry and to contact you about how we may be able to help your business:_**
+        1. _If you are notifying us about a problem with the Website:_ We will delete our copy of your personal information, although we will retain a record that you have contacted us and the outcome of that contact, to the extent and for so long as we are required to do so by law.
+        2. _If you are making an enquiry about advertising your business on our website (including by offering discounts, freebies and prizes to users of the Website):_ We will delete our copy of your personal information held for this purpose if, having discussed your enquiry with you, we determine that we are unable to work together now or in the future. We will delete our copy of your personal information, although we may retain a record that you contacted us and the outcome of that contact, to the extent and for so long as we are required to do so by law.
+        3. _If you are contacting us to provide feedback or make a suggestion in connection with the Website:_ We will delete our copy of your personal information, although we may retain a record that you contacted us and the outcome of that contact, to the extent and for so long as we are required to do so by law.
+        4. _If you are contacting us to request deactivation of your subscription to receive emails about the latest freebies, offers, discounts, and prizes that we make available on behalf of our partners through the Website:_ We will delete our copy of your personal information, although we will retain a record of your request in order to ensure that we comply with your wishes.
+        5. _If you have contacted us to ask for the processing of your personal information to be stopped or for your personal information to be erased:_ We will retain a record of your request in order to ensure that we comply with your wishes.
+        6. _If you are making any other type of enquiry:_ We will keep our copy of your personal information held for this purpose or until you have contacted us to ask for the processing of your personal information for this purpose to be stopped (in which case we will retain a record of your request in order to ensure that we comply with your wishes).
+        7. _For all other enquiries:_ We will keep our copy of your personal information held for this purpose until the discussion of the subject matter of your enquiry has come to an end and we no longer need to comply with a legal obligation that requires us to retain your personal information. We will delete our copy of your personal information following our discussions with you although we may retain a record of the existence of the enquiry, to the extent and for so long as we are required to do so by law.
+      7. **_Personal information we collect from your browser and your device:_**
+        1. **_We will collect personal information about your interaction with our Website and your location:_** We will collect your device's IP address, traffic data, location data, weblogs and other communication data and the resources that you access when you visit the Website and your browser or other applications on your device interact with it.
+        2. **_We will use your personal information to operate and improve the use of the Website:_** We will use your personal information to determine how you may be viewing and using our Website: 
+          1. To ensure that content from the Website is presented in the most effective manner for you and your device and for other users and to make improvements to the Website;
+          2. To recognise you when you return to our Website. This enables us to record your use of our Website, to automatically personalise our Website content for you and remember your preferences. It also allows you to participate in interactive features on our Website, when you choose to do so;
+          3. To automatically make suggestions and recommendations to you and other users of our Website about services of ours that may be of interest to you or to them;
+          4. As part of our efforts to keep the Website secure;
+          5. To administer and maintain the Website by conducting testing and solving errors; and
+          6. To analyse your and other users' use of the Website in order to create anonymised and aggregated research or statistics from time to time. Once your personal information has been anonymised and aggregated with that of other users, we will no longer be able to identify you or anyone else from the combined information;
+We will use your personal information in this way because it is in our legitimate interests to determine how you may be viewing and using our Website so that we can operate it and improve it.
+        3. **_We will keep a record of the personal information that we receive from your browser and your device to operate and improve our Website:_** We will keep our copy of the personal information held for this purpose indefinitely from the end of our last update to the Website.
+      8. **Consent to use your personal information we collect from cookies placed on your device:** This Section 2(g) and Section 3 below explains the cookies that we will place on your device when you visit our Website. By continuing to browse the Website, you agree to our use of cookies explained in this Section 2(g) and Section 3 below. 
+        1. **_We will collect personal information about your interaction with our Website, other websites you visit and your location:_** We will collect your device's IP address, location data, details of webpages, weblogs and other communication data and the resources that you access when you visit our Website our other websites when your device interact with it.
+        2. **_We will use your personal information to operate and improve the use of the Website and to offer you goods and services:_** We will use your personal information to determine how you may be viewing and using our Website: 
+          1. To ensure that content from the Website is presented in the most effective manner for you and your device and for other users and to make improvements to it;
+          2. To recognise you when you return to our Website. This enables us to record your use of our Website, to automatically personalise our Website content for you and remember your preferences. It also allows you to participate in interactive features on our Website, when you choose to do so;
+          3. To record your visit to our Website and other websites, the pages you have visited and the links you have followed so that we can automatically make suggestions and recommendations to you and other users about services of ours and those of our clients that may be of interest to you or to them on websites that you and other users may visit;
+          4. To contact you by email or text message to offer you goods and services where we have recognised that you have returned to our Website and you have previously agreed to receive marketing communications from us;
+          5. As part of our efforts to keep the Website secure;
+          6. To administer and maintain the Website by conducting testing and solving errors; and
+          7. To analyse your and other users' use of the Website in order to create anonymised and aggregated research or statistics from time to time. Once your personal information has been anonymised and aggregated with that of other users, we will no longer be able to identify you or anyone else from the combined information;
+        3. **_We will use your personal information to confirm your identity and to improve our products and services and those of our Affiliates:_** We will use your personal information that we collect from you and/or cookies placed on your device to confirm that your device and the information provided by you is genuine. We do this by checking it against existing information that may already exist about you on a system operated by LolaGrove Limited. To the extent that this information collected from cookies placed on your device or provided by you is not contained on the system operated by LolaGrove Limited or the information contained on the system operated by LolaGrove Limited is incorrect or incomplete, then LolaGrove Limited will use the information provided to correct or add to the existing information held on the LolaGrove system to improve it. Where personal information is checked against or added to the LolaGrove system for this purpose, LolaGrove Limited will be using it as a separate data controller for the purposes of Data Protection Law.
+        4. **_We store personal information about you using cookies placed on your device when you visit our Website inside the UK and outside the EEA, as may other parties that we may pass your personal information:_** The personal information that we collect from you may be stored at a destination outside the EEA and may be processed by personnel (who work for us or one of our service providers) operating outside the EEA, in countries that do not offer adequate data protection in accordance with Data Protection Law. Where we pass your personal information to parties located outside of the EEA in countries that the European Commission has not determined offer adequate data protection, if they are not subscribed to an approved data protection framework, such as the EU-US Privacy Shield, we will enter into agreements which enable us to transfer that personal information to them and that enable you to exercise your rights in accordance with Data Protection Law. In particular: 
+          1. Our personnel based in India may have access to personal information when they perform technical support activities on our information technology systems. To ensure that such personal information is provided adequate protection, we have put in place standard contractual clauses approved by the European Commission for transfers from data controllers in the EEA to data processors outside the EEA. A copy of these terms can be obtained by emailing us at [info@allgroove.com](mailto:info@allgroove.com)
+          2. Other parties that we may pass your personal information to may be located or store your personal information in countries which are not in the European Economic Area and do not offer adequate data protection in accordance with Data Protection Law. For further details about the locations in which Google may store your personal information, please [click here](https://policies.google.com/privacy).
+        5. **_We will keep a record of the personal information that we receive from your browser and your device to operate and improve our Website:_** We will keep our copy of the personal information held for this purpose indefinitely.
+  3. We will only store your data in accordance with our Data Retention Policy. To read our Policy, click [here](https://www.freestuff.eu/data-retention-policy.php)
 
-**Opting out at a later date**
 
-Once you have given your consent, you can however still control whether or not you continue to receive communications or see such advertisements from such third parties. The method of control depends on the channel of communication or advertising:
+* **COOKIES**
 
-**Post**
+**About cookies**
 
-You can also withdraw your consent for postal marketing from anyone by adding your details to the Mail Preference Service. For more details please go to www.mpsonline.org.uk.
+This Website uses cookies to collect information. Cookies are small data files which are placed on your browser and the hard drive of your computer, mobile or other handheld device as you browse the Website. The cookies we use store information about your visit to this Website and distinguish you from other users. Some cookies are essential to the effective operation of our Website. They help us to provide you with a good experience when you browse our Website and also allows us to improve our Website, as explained in Section 2(g) above.
 
-**E-mail or SMS (text message)**
+**The cookies set from our Website**
 
-You can unsubscribe from receiving e-mail or SMS marketing communications from any individual third party by using the instructions in any email communication such third party sends you (usually an 'unsubscribe' or 'STOP' link).
+The following table sets out the types of cookie used on our Website and provides detail about what they are used for. When you use the Website for the first time, cookies which are essential to make our Website operate (see those identified as "essential cookies" below) will have been set but the other cookies will not have been set unless you agreed to those cookies being set at the time. If you have agreed to accept cookies then our Website will remember this and continue to set cookies each time you visit. If you do not want a cookie to be stored, then you may turn off certain cookies listed below individually or you can select the appropriate options on your web browser to delete some or all cookies. Please note, however, that if you block some or all cookies (including essential cookies) you may not be able to use or access all or parts of our Website, such as being able to log on to member specific areas.
 
-**Telephone calls**
-
-To withdraw your consent for live or automated calls from anyone you can add your name to the Telephone Preference Service which is maintained at this website address: www.tpsonline.org.uk.
-
-You can also opt out at any time from communications via any of the methods described above by e-mailing us at Contact@freestuff.eu Please note that such opt-out will only apply to communications from those third parties with whom we have a business relationship. If you opt out this way, you may still receive communications from third parties with whom we have no relationship.
-
-**Social media and online**
-
-You can configure your advertising preferences on social media such as Facebook, Twitter, Instagram or Pinterest by accessing your settings or preference options on the relevant platform. If you no longer want to receive personalized advertising on any website you visit, you can usually opt out directly through the privacy policy of the particular website you are accessing. Please note that this will not block ads that are displayed on the websites you visit, it will simply stop you receiving advertising that has been tailored to your interests. This opt-out relies on a cookie, so if you wipe all your cookies then that website will no longer know that you have opted out. The same applies if you use a different internet browser, or use a new computer to access the internet. You can also opt out of such advertising by visiting the IAB opt-out platform at 
-
-**Your Personal Information**
-
-When you are registering with the FreeStuff.eu website, it is not until you click the submit button that your information is transferred to All Groove database. Once you have completed and submitted all your details you have then "completed" the registration confirming you are a valued member of FreeStuff.eu. The information collected at registration is name, address, telephone number, email address and date of birth. All Groove may use other third party suppliers to provide its services in connection with your registration. However this will not affect your statutory rights under the Data Protection Act.
-
-Once you register with the FreeStuff.eu website you consent to All Groove Ltd, the sponsors of Questions on the site and website sponsors being able to send you communications via email, post, SMS or telephone, until such times as you exercise your right to opt-out of receiving such communications. Also you are giving your permission for us to share your information with third parties At registration you have the option to opt-in to our Website Sponsors of FreeStuff.eu. Website Sponsors have their own privacy policies and some have their own opt-in statements, it is strongly recommended that you read and understand this information.
-
-The collection of data by All Groove through registration on third party sites may lead to your data also being held by that third party site.
-
-We share personally identifiable information with selected third-parties. We also share the information that you have answered in the questionnaires with the relevant sponsor client. The sponsor clients and third parties use this information so as to send you personally-tailored communications as requested.
-
-All Groove collects, store and uses data about you and answers to specific questions asked by our question sponsors. All Grovoe, opted in question sponsors and opted-in website sponsors will contact you with offers and information which they feel will be of interest to you through mail, telephone, sms or email. The data that is held by both All Groove and the Sponsors whose questions you have answered. All Groove holds your data in a central database and this database is only accessed by reference to interest or demographic categories in order to provide you with information about those interests you have selected.
-
-Your data may be provided to selected third parties to be appended to information they already hold about you for the purpose of contacting you with information about their products and services. When first contacting you these clients will seek your appropriate consent. The information you give us may be combined with other information about you that is obtained from other sources. For example:
-
-\- If you are already a customer of a third party, that third party might wish to add an e-mail address you give us to the customer records that it holds about you, and use that email address to maintain their relationship with you and/or to offer you goods and services that are similar to those you have previously purchased.
-
-\- If you have given any third parties permission to share your information, or if you sign in through a social medium, those third parties may be able to find and use information about you so that, in order to speed up the registration process or offer you tailored advertising, you don't have to provide the information directly to us. The information we obtain will be used in accordance with the other parts of this privacy policy.
-
-The consent you provided for any information you have previously shared with us or any third parties will be renewed at the time you give your consent for any new information sharing unless you indicate otherwise by contacting us, by e-mailing us at Contact@freestuff.eu
-
-All Groove may from time to time use third party suppliers to provide all or part of a service to you. All Groove will only supply such of your personal information as is necessary to enable them to provide the relevant service to you. You should be aware that such outside service providers might be based in countries outside the European Union whose laws provide for a different standard of protection for your personal data than that provided under English law. In such circumstance All Groove will have in place contractual arrangements which will require your data to be processed at least to a standard compliant with the Data Protection Act 1998.
-
-All Groove will not provide your personal information to any third party without your prior consent, however, under certain circumstances the force of law may require the provision of information to the legal authorities. In order to maintain the integrity of its website and safeguard the interests of its subscribers All Groove will comply with any such legally binding request.
-
-Where consent has been given All Groove Ltd reserves the right to transfer or sell your personal information to selected third parties; this is at our sole discretion. When your information is shared with our third party partners for promotional purposes, it is no longer governed by this privacy policy; it's governed by the policy of the partner site.
-
-**Use of your personal information**
-
-We use your personal information collected via the FreeStuff.eu website to:
-
-\- Provide you with information about the products and services we offer
-
-\- Provide you with a more personalised service
-
-\- Conduct market research
-
-\- Run prize draws and promotions
-
-\- Pass on to selected companies to provide you with other offers and promotions
-
-\- Help other companies profile and extend their databases
-
-\- Facilitate communication between yourself and others
-
-\- For analysis purposes or to build data products. In these instances, the information is aggregated and wherever possible anonymised in line with the Information Commissioner's code of practice. Again, these products are of a marketing nature.
-
-**Data Collection Notice**
-
-Below is see our list of valued, third party partners, who could send you marketing messages. From time to time we may add or remove businesses from this list and we will update this web page accordingly.
-
-You should always read their terms and conditions and/or disclosure statement.
-
-**Sector**|  **Description and examples**  
----|---  
-Astrology |  Maria  
-Nicola  
-  
-Charity |  Blind Children  
-Centre Point  
-Ethicall  
-Great Ormond Street Hospital  
-Guide Dogs  
-Kidney Research  
-NTT Fundraising  
-Claims Management Firms  |  Crystal Prospects  
-Competition Sites |  Get Me A Ticket  
-Lucky Day  
-Lucky Day UK LP  
-Magic Freebies  
-MintedMobi  
-OfferX  
-SB Digital  
-Union Jack Freebies  
-  
-Daily Deals |  WeatherWherever  
-DiscountVouchers.co.uk  
-Go Groopie  
-GoGroopie  
-Mighty Deals  
-MyVoucherCodes  
-Wowcher  
-  
-Gambling |  123 Casinos  
-123 Bingos  
-188Bet  
-AccuScore  
-Bet on Brazil  
-Betfair  
-Betsafe  
-Betsson Group  
-Betway  
-Big Lotto  
-BoyleSports  
-ComeOn  
-Coral  
-Expekt  
-Football INDEX  
-FreeLotto  
-Gala Bingo  
-Ladbrokes  
-Leo Vegas  
-Lottery  
-Lottoland  
-Mansion  
-MintedMobi  
-NetBet  
-Online Betting  
-Online Casino  
-Online Poker  
-Paddy Power  
-PartyCasino  
-Play Million  
-Pokies City  
-Prime Slots  
-Sky Bet  
-Sun Bets  
-Sun Bingo  
-The Football INDEX  
-Unibet  
-William Hill  
-General | Author Solutions  
-Ascend  
-LoveHoney  
-Rokfri  
-Sell My Story V2  
-  
-Insurance | Allay Claims  
-Arrangemyfuneral  
-AXA SunLife  
-Consumer Helper  
-Grove Pension Ltd  
-Franklyn Hughes  
-Independent Financial Matters Registration  
-Moove  
-Pension Audit Centre  
-Promis Life  
-Safe and Secure  
-Secure For Life  
-Smart Insurance  
-Tax Rebate  
-Tax Returned  
-Personal Injury |  Accident Advice Helpline  
-Accident Support Network  
-No Win No Fee  
-  
-Retail | Test Drives  
-Servicing  
-Insurance  
-SKY  
-  
-Subscription | Aditus - Magazines  
-Aditus - Newspapers  
-Hello Fresh  
-MintedMobi  
-PrizeFun  
-Prizehook  
-Remote Games  
-Supercard  
-Xinion Limited  
-Amazon Prime  
-  
-Survey | Charity Survey  
-GlobalTestMarket  
-Household Survey  
-Inbox Pounds  
-Maximiles  
-Research Now  
-Toluna  
-IPSOS  
-Yougov  
-  
-Travel |  Bonotour  
-Cheapflights.co.uk  
-Club La Costa  
-Easy Voyage  
-  
-Utilities |  Eco-Energy  
-Economy Energy  
-Hassle Free Boilers  
-Homebase  
-Octopus Energy  
-ResQ Limited  
-Scottish Power  
-Simplify Digital LP  
-Spark  
-Unbranded Utility  
-Uswitch  
-Utilita Energy Limited  
-  
-General Marketing |  Acxiom  
-Antevenio  
-Apollo Digitals Ads  
-Aquira  
-BVocal  
-Contact Centre 33  
-Convergys  
-Data Bowl  
-Data Locator  
-Digitalbox  
-Digitonics Ltd  
-DMLS  
-EM Medier  
-First Source Interactive  
-Goallover  
-Graffiti Media Group  
-Jump Start Media  
-Kes Marketing  
-LBM Direct Marketing  
-Lifestyles Online  
-Magnetise Media  
-Mail2Media  
-Mangostorm Limited  
-Market Genius  
-Marketing Data Consultancy  
-Marketing Source  
-Media Bowl  
-Media Tactics  
-Media Web  
-MediaLab  
-Niagara  
-Orca Media  
-Plasma Net inc  
-PMDSC limited  
-Purus Technology Ltd  
-Reactiv Media  
-Rendham Marketing Services  
-Response One  
-Result Generation Group LLC  
-Sonateu Ltd  
-The Response Team  
-The Trading Floor  
-Tradeo UK  
-TTH Ltd  
-Veneficus Ltd  
-Viajes Tuttocard  
-XL Marketing  
-  
-  
-**Security and storage of your personal information**
-
-All Groove is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access, which are located in controlled facilities.
-
-The Internet is not a 100% secure medium for communication and, accordingly, All Groove cannot guarantee the security of any information you send to the FreeStuff.eu website via the Internet. All Groove has all reasonable precautions possible in place to ensure data is kept and processed fairly. All Groove is not responsible for any loss or damage you or others may suffer as a result of the loss of confidentiality of such information.
-
-**Managing your personal information**
-
-Under the Data Protection Act 1998, you are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please contact us via the Contact Page or email contact@freestuff.eu.
-
-**Cookies**
-
-A cookie is a small text-only file which is stored on your computer or mobile device when visiting a website. The FreeStuff.eu website required cookies to help the website function properly, improve the website appearance and user experience by tracking your visits and usage statistics. By opting-in to the FreeStuff.eu website you agree to the use of cookies by All Groove. For further information on cookies and to find out about how to delete or manage cookies, please visit www.allaboutcookies.org. The table below explains the cookies that are used on FreeStuff.eu website.
-
-**Cookie**|  **Name**|  **Purpose**  
----|---|---  
-Google Analytics |  _ga  
+Cookie type | Cookie  | Cookie name | Purpose | Further information  
+---|---|---|---|---  
+Essential Site Cookies |  | PHPSESSION | These cookies are being used by us for the operation of the FreeStuff.eu website.  
+These cookies are temporary and essential for our Website to enables us to:  
+Recognise you when you return to our Website; |   
+Tracking Cookie | Pingdom | PRUM_EPISODES | Allows us to monitor user experience. |   
+Tracking Cookie | Google Analytics |  _ga  
 __utma  
 __utmb  
 __utmc  
 __utmv  
 __utmz  
-|  These cookies allow FreeStuff.eu to collect information about how visitors use the website. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. Click here for an overview of privacy at Google   
-Google Adsense |  __gads  
-_drt_  
-id  
-|  These cookies allow us to collect information about how visitors use the website. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. Click here for an overview of privacy at <http://www.google.co.uk/intl/en/analytics/privacyoverview.html>  
-Has Offers |  __enc_aff_session  
-ho_mob  
-|  Has Offers uses cookies to track the source of your visit and / or activity on the website.  
-Pingdom |  PRUM_EPISODES  
-|  Allows us to monitor user experience.  
-Essential Site Cookies |  PHPSESSION  
-|  These cookies are temporary and essential for the operation of the website.   
+| This cookie is used to provide information to us about how visitors to our Website are using it as explained Section 2(g). | For further information about this cookie, [click here](https://support.google.com/analytics/answer/6004245)  
   
-In addition, the below cookies may be placed on your computer in order to identify web site visitors that have agreed to the use of their data for 3rd party online advertising, insight, analytics and content personalisation. This cookie is anonymous and is encrypted and only contains a code that identifies segments to Criteo, Acxiom and its preferred partners who may use the cookie for the purposes of targeted advertising by tracking your online activity. Information provided by cookies are only used for advertising purposes. Information is collected, stored and used separately for each advertising partner. These partners have their own privacy policies and the procedure to opt-out of these cookies is listed in the table below. Further information on online behavioral advertising can be found at www.youronlinechoices.com/uk/.
+**How to disable the cookies**
 
+If you want to disable cookies you need to change your website browser settings to reject cookies. However, if you use your browser settings to block all cookies (including those essential for the operation of the Website) you may not be able to access parts of our Website. How to do this will depend on the browser you use. We have provided instructions below on how to disable cookies for the most popular browsers: 
+
+  1. For Microsoft Internet Explorer:  
+Choose the menu “tools” then “Internet Options”;  
+Click on the “privacy” tab; and  
+Select the setting the appropriate setting.
+  2. For Mozilla firefox:  
+Choose the menu “tools” then “Options”;  
+Click on the icon “privacy”; and  
+Find the menu “cookie” and select the relevant options.
+
+**Third party cookies**
+
+Please note that Google and other third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies as a result of you visiting other websites, over which we have no control. 
+
+Cookie  | Cookie name | Purpose  
+---|---|---  
 Acxiom |  ACX_COUNT  
 ACXID  
-|  Acxiom Limited (registered office at 17 Hatfields London SE1 8DJ) and its partners may use the data you provide to this website, together with other data collected elsewhere, to place cookies on your device. Data through these cookies, in conjunction with other data collected about you and others, will be used to improve the relevance of online advertisements displayed to you when you visit this and/or other unrelated websites. To opt-out of data collection, please click here. Acxiom will then add an opt-out flag to this cookie which will ensure it is no longer used by Acxiom for targeted advertising  
----|---|---  
+|  Acxiom Limited (registered office at 17 Hatfields London SE1 8DJ) and its partners may use the data you provide to this website, together with other data collected elsewhere, to place cookies on your device. Data through these cookies, in conjunction with other data collected about you and others, will be used to improve the relevance of online advertisements displayed to you when you visit this and/or other unrelated websites. To opt-out of data collection, please click here. Acxiom will then add an opt-out flag to this cookie which will ensure it is no longer used by Acxiom for targeted advertising.   
   
-**Web Beacons**
+LiveRamp cookies allow advertisers to display on the websites you visit, relevant offers based on your consumption habits as well as measure the performance of their advertising campaigns. To work, this service is based on the deposit of a cookie on your browser when opening an email or your visit to the site of one of our partners. They only tell us your encrypted email address in an irreversible way and thus allowing us to create a technical key associated with our cookies. By depositing our cookies some technical information can be automatically collected (such as IP, your operating system or your browser type). Our cookies do not track your navigation. We do not store any information related to your connection. You can at any time easily oppose the deposit of our cookie by clicking [here](https://liveramp.uk/cookies-101/)
+* **PROTECTION OF PERSONAL INFORMATION**
 
-FreeStuff.eu web pages, emails and newsletters may contain electronic images known as web beacons - sometimes called single-pixel gifs - that allow us to count users who have visited those pages and to determine whether messages have been opened and acted upon. 
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will take appropriate measures to protect your personal information, we cannot guarantee the security of the personal information you provide to the Website and any transmission by you of it to us is at your own risk.
 
-FreeStuff.eu may also employ web beacons from third parties in order to help us compile aggregated statistics and determine the effectiveness of our promotional campaigns. We prohibit web beacons on our sites from being used by third-parties to collect or access your personal information. 
+* **CHANGES TO THIS POLICY**
 
-Finally, we may work with other companies that advertise on the FreeStuff.eu website to place web beacons on their sites in order to allow us to determine the effectiveness of promotional campaigns. 
+We may make changes to this Privacy Policy at any time without notice to you. Any changes we make to this Privacy Policy in the future will be posted on this page and will be immediately effective upon the posting of the updated Privacy Policy, unless we indicate a particular date on which it will be effective. However, where we change our Privacy Policy to reflect a new way we may use personal information which we have not told you about before, we will not use your personal information collected before that change unless we notify you in advance. Previous versions of our Privacy Policy can be found [here](https://www.freestuff.eu/privacy-policy.php).
 
-**Liability of All Groove**
+* **CONTACT**
 
-Material displayed on the Website is provided without any guarantees, conditions or warranties. All Groove will not be liable for interruptions to operations or any other interference, including technical interference, over which it has no control. Further, All Groove does not accept responsibility for errors in the data you enter including your registration details. This includes, but is not limited to, submission errors caused by transmission failures; delays; typographical errors; telephone or network failures; computer, electronic, or Internet hardware or software failures: the inability of any site to accept all of All Groove's data; and tampering. All Groove does not provide any assurance or guarantee that you will win prizes in any draw, or at all. 
+For any enquiries relating to this Privacy Policy or how we use information collected from this Website or contact the Data Protection Officer, please contact us by writing to us at Unit 1, 80-82 White Lion Street, London N1 9PF or by emailing us at [info@allgroove.com](mailto:info@allgroove.com).
 
-Whilst All Groove takes reasonable measures to detect and eliminate viruses from the Website, All Groove cannot ensure that the website will be free from viruses and does not accept any liability in this respect. You are recommended to take all appropriate measures before downloading or accessing information from the Website. 
+* **YOUR PRIVACY RIGHTS AS A WEBSITE USER**
 
-Users cannot knowingly use the site to introduce virus and Trojans 
+With respect to the personal information that All Groove collects about you from its Website, you have the right: 
 
-You must not misuse the Website by knowingly introducing viruses, trojans, worms or other material which is malicious or technologically harmful. You must not attempt to gain unauthorised access to the Website, the server on which the Website is stored or any server, computer or database connected to the Website. You must not attack the Website via a denial-of-service attack or a distributed denial-of-service attack. By breaching this provision, you would commit a criminal offence under the Computer Misuse Act 1990. All Groove will report any such breach to the relevant law enforcement authorities and will cooperate with those authorities by disclosing your identity to them. In the event of such a breach, your right to use the Website will cease immediately. All Groove will not be liable for any loss or damage caused by a distributed denial-of-service attack, viruses or other technologically harmful material that may infect your computer equipment, computer programs, data or other proprietary material due to your use of the Website or use of any website linked to it. However All Groove will take adequate measures from their end to ensure that such incidents do not occur. 
+  1. To request access to that personal information;
+  2. To receive a copy of the personal information that you have provided to All Groove in a structured, commonly used and machine readable format so that you can share it with others;
+  3. Where that personal information is inaccurate or incomplete, to ask for the personal information to be rectified or completed;
+  4. To ask for that personal information to be erased; and
+  5. To object to us processing your personal information by asking for the processing of that personal information to be restricted or stopped (for example, where All Groove uses personal information to make recommendations, suggestions or other decisions automatically, you have the right to object to us doing this).
 
-**Changes to this Privacy Policy**
+To exercise any of these rights, please contact us by writing to us at Unit 1, 80-82 White Lion Street, London N1 9PF or by emailing us at [privacy@allgroove.com](mailto:privacy@allgroove.com).
 
-All Groove will occasionally update this privacy policy. When we do, we will also revise the last updated date at the top of this page. All Groove will obtain your opt-in consent for any updates to this privacy policy that materially expand the sharing or use of your personal information in ways not disclosed in this privacy policy at the time of collection. 
-
-**Useful Information**
-
-For useful information about data protection you can visit: 
-
-\- The Direct Marketing Association; www.dma.org.uk  
-\- The Information Commissioner; www.dataprotection.go.uk  
-\- The Citizen Advice Bureau; www.adviceguide.org.uk
-
-**Access your Information**
-
-You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your information please email or write to us at the address below. Also you may ask us to correct information that you think is incorrect. We may make a small charge for these services. 
-
-Further Information 
-
-If you have questions regarding this privacy policy, please contact All Groove by following this link: 
-
-[Contact Page](https://web.archive.org/web/20171222223241id_/https%3A//www.freestuff.eu/contact.php)
-
-or by post: 
-
-All Groove Ltd,  
-Unit 1,  
-80 - 82 White Lion St,  
-London,  
-N1 9PF  
-UK
+You also have the right to make a complaint to the UK Information Commissioner's Office or another European data protection authority about the manner in which All Groove processes that personal information. 
