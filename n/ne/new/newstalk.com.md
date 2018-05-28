@@ -1,164 +1,265 @@
-> *The following text is extracted and transformed from the newstalk.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126100419id_/http%3A//www.newstalk.com/reader/47.1153/42690/-) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newstalk.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528131413id_/http%3A//www.newstalk.com/Privacy-Policy-) for the most accurate reproduction.*
 
-# Privacy Policy | Newstalk
+# Newstalk Privacy Policy | Newstalk
 
-We will not monitor, edit or disclose any personal information about you without your prior consent. In the course of the Newstalk Nation Royalty Scheme (Newstalk Nation) we may acquire personal data and information about you which you have registered with us. When you give your personal details to us, we have a duty to keep these details private and safe. This process is known as data protection. Under data protection law, you have rights regarding the use of your personal details and we have certain responsibilities in how we handle this information.
+Privacy policy
 
-In this regard, we undertake to only use your data in complete accordance with the following conditions: We will not rent or sell any data which may personally identify you to any third party. We may aggregate your data for disclosure to advertisers or business associates for promotion and marketing purposes. By way of example, we may disclose to an advertiser the percentage age groups of our members but in such an event we undertake to ensure that no such data could be used to personally identify you. We may share your data with related groups in the Communicorp group but only for the purposes of market profiling. This may mean that you could be contacted by a company within the Group for market profiling.
+This is the privacy policy of Newstalk and their legal successors. 
 
-We may access your lists and related communications for technical processing and to address technical problems or service complaints. Certain data such as your password will never be disclosed. You are responsible for keeping your password confidential and for all activities that occur under your password or account. Please let us know of any unauthorised use of your password, or any other breach of security. We will clearly state why we are collecting personal information and how it will be used. At your request we will allow you inspect and edit any personal data relating to you.
+This policy explains our approach to digital information collection, storage and use in connection with all our digital content. We are committed to protecting your privacy. Newstalk will ensure that it keeps all personal data you provide to us in accordance with our obligations under the Data Protection Acts 1988 to 2018 and General Data Protection Regulation (GDPR) (EU 2016/679). 
 
-We cannot ensure that private communication and other identifiable personal data will never be disclosed in ways not described in this section. By way of example (without limiting the foregoing) we may be forced to disclose the data to a government agency lawfully requesting the same or to any court acting in pursuance of its powers. We reserve the right to and you hereby agree to allow us to disclose any information about you to law enforcement, government officials or to any court or court officials as we in our sole discretion believe necessary or appropriate.
+We may update this policy from time to time, so please review it regularly. If you have any questions about this policy or the information which we hold, please contact us at: PrivacyOfficer@CommunicorpMedia.com or write to us at Newstalk , Marconi House, Digges Lane, Dublin 2.
 
-Nothing in this Agreement relating to the confidentiality of information shall prevent or hinder Newstalk from complying with its legal obligations as to disclosure or otherwise under the Data Protection Act 1988.
+This policy applies to Newstalk’s digital services only and not to other websites, APPs, social media sites linked to or from Newstalk digital services.
 
-By joining the Newstalk Nation Programme you agree to allow us to communicate with you via email regarding Newstalk Nation earning and redemption opportunities. We will always use this communication method responsibly.
+1.About Newstalk
 
-The Use Of 'Cookies'
+Newstalk is a commercial radio station broadcasting on FM in Ireland.  The station is licenced by the Broadcasting Authority of Ireland.  Newstalk provide a number of digital services for example Websites,  Apps,  Alexa Skills, Newsletters etc.  Newstalk will collect, use, store or otherwise process personal data in line with the Policy below. 
 
-In order to enable us to provide you with a personalised browsing experience, this site uses 'cookie' information collection technology. "Cookies" are small pieces of information that are issued to your computer when you enter a website. Cookies are stored by your browser on your computer's hard drive, and they can be used for a wide range of purposes, such as identifying your computer's previous visits to this website, and to ascertain the most popular features of this website or providing access to certain site features. Disabling cookies could mean you are not able to use some features of the website.
+2.The information we collect
 
-Please note that if you choose to opt-out of receiving cookies, you may lose some features and / or functionality of newstalk.com, for example - you won't be able to login with Newstalk ID.
+Newstalk will never collect any unnecessary personal data from you and will  not process your information in any way, other than as specified in this notice.  
 
-We use the Demographics and Interest Reporting features of Google Analytics for Display Advertisers, Visitors can opt out of Google Analytics for Display Advertisers by visiting the Ads Preferences Manager. 
+The personal data that Newstalk collects varies depending on the online activity you have consented for,  below lists the information Newstalk may collect when you register for  a newsletter, take a survey, enter a competition or if you make  direct contact with the station: 
 
-Why Do We Use Cookies?
+•Name
 
-Like many other websites, this website uses cookies as they enable us to identify your computer when you visit this website. For example, cookies can make it possible for us to identify and automatically log in registered users of certain services on this website without the need for us to ask users for their registration details and password each time they visit.
+•Email
 
-We also use cookies to develop a clearer picture of which parts of this website are the most popular to its visitors, and your preferences. You are not obliged to accept cookies and you may amend your browser's settings to prevent it from accepting cookies.
+•Contact Phone Number  (where required for a competition entry or where you contact the station via SMS or Whatsapp) 
 
-If you have an Newstalk ID, a cookie on your computer lets us remember your user name and email address so you don't have to enter it again when you are commenting or writing a review.
+•Home Address (where required for a competition entry or to reply to direct contact)
 
-For more information on how to manage cookies, including opting-out of functional cookies please visit:[http://www.aboutcookies.org](http://www.aboutcookies.org/)
+•Confirmation that you’re over 18 (where required for a competition entry) 
 
-When you use the newstalk.com website the following types of cookies can be set on your computer, smartphone or other devices:
+•IP Address (To allow us geo-fence audio streams, this data is not used beyond this purpose)
 
-Third party advertising
+•Information contained in a curriculum vitae  (where sent directly to the station) 
 
-Advertisements appearing on this website may be posted by third parties who may use their own cookies and have their own privacy policies. Some examples of services that use these types of cookies include Google AdSense or DoubleClick.
+ Newstalk collects your personal date when you;
 
-For information on opting out of targeting and advertising cookies please visit:<http://www.youronlinechoices.com/ie/your-ad-choices>
+•subscribe (opt-in) to a newsletter, 
 
-Other third party cookies
+•enter a competition  
 
-Some cookies that have been set on our websites are not related to Newstalk or our partners. When you visit a page with content embedded from, for example, YouTube, Twitter, Polldaddy or Facebook, these service providers may set their own cookies on your web browser.
+•participate in an online survey
 
-We do not control the use of these cookies and cannot access them due to the way that cookies work, as cookies can only be accessed by the party who originally set them. You should check the third party websites for more information about these cookies.
+•contact the station directly
 
-Feedback, Comments & Suggestions
+Lawful Basis for Processing 
 
-If you have any queries about Our Privacy Policy or any queries about the protection of personal information we hold about you, please do not hesitate to contact us. Our address is Newstalk, Newstalk HQ Marconi House Digges Lane Dublin 2 Phone: 01 644 5100 Fax: 01 644 5101 or email us at [info@newstalk.com](mailto:info@newstalk.com)
+We process your personal data based on the following lawful basis. 
 
-If you do not agree with this Privacy Policy you should not submit your personal information on this website.
+•Station Newsletter Subscriptions are based on Consent.
 
-Mobile Application Privacy Policy December 2012
+•Direct Marketing emails are based on either Consent or Legitimate interest, where we use legitimate interest we will have completed an legitimate interest assessment where we conduct a balance test between our legitimate interests and your privacy rights.
 
-This privacy policy governs your use of a software application "Newstalk App" on a mobile device that was created by "Communicorp Digital"
+Automatic Data Collection 
 
-This document explains how Communicorp Digital processes information about you which is personally identifiable ("your information") when you use the Newstalk Application.
+Newstalk use cookies and capture IP addresses as part of the essential operation of our sites and media streams, this data is used to geo-fence our content and media streams so we can adhere to our licencing agreement regarding the broadcasting of licenced material.  We also use cookies to maintain preferences you have selected, manage load balancing and DDOS mitigation these cookies are used only for this purpose and do not track you beyond our digital assets. 
 
-Communicorp Digital is registered as a data controller for the purposes of the Data Protection Acts 1988 and 2003. If you have any queries about how we use Your Information or have a complaint, please contact us.
+Marketing/Advertising Cookies 
 
-The Newstalk Application is home to shows like The Right Hook, Moncrieff, Breakfast, Lunchtime, Tom Dunne and Off The Ball. You can listen live to the best of independent talk radio, download and listen to podcasts, get the latest news and if you missed anything, find it on the archive player.
+With your consent we use marketing cookies to better target advertising and make it more relevant to you and your interests, we also use these cookies to frequency cap the number of times you will see an individual ad.  Advertising cookies collect information regarding your use of both our website and other websites you may visit. This information allows advertising networks to target their audience. 
 
-  1. The application includes:
-  2. Full screen Newstalk TV.
-  3. Podcasts download and play when offline.
-  4. Airplay and External TV support added
+Where consent is not provided you will still receive ads but they will not be targeted. 
 
+You can find more about Advertising cookies here https://policies.google.com/technologies/partner-sites
 
+You can also have control over what third party cookies are used on your device by using tools like
 
-Mobile Advertising:
+ http://www.youronlinechoices.com/ie/your-ad-choices
 
-Advertisements track whether there has been an engagement with the advert. However it does not track it down to individual level. In the case of certain adverts such as iPolls the ad will track whether your mobile device was previously used to vote in the iPoll. It does not track which way you voted.
+Or 
 
-Data capture in mobile:
+http://optout.networkadvertising.org/
 
-The data to be collected for advertisements featuring competitions is defined by the advertiser. The competition entry form will clearly identify the information that is required from you for that competition. It is the user's decision to supply the information and determine whether you wish to proceed with your entry into the competition. Full terms and conditions applying to the competition and the capture of your data will be displayed on the competition entry form.
+Further details of the cookies we use can be found in our Cookie Policy.
 
-User Provided Information
+Site Analytics 
 
-The rich social features of the application require the use of a large set of Facebook functionality. The application seeks your consent to access and use your information from Facebook using the standard mandatory Facebook authorization process.
+ Newstalk uses Google Analytics to monitor the usage of its digital assets which is an essential part of the running of any website.  It provides the information we require to manage our server capacity and the popularity of our content. This information is anonymous. Please see : https://www.google.com/analytics/learn/privacy.html for more details .
 
-When entering a Competition within the Application you may be asked to provide all/any of the following:
+Social Media 
 
-  1. Name
-  2. Email Address
-  3. Telephone No.
-  4. Postal Address
-  5. Age where legally required i.e. Alcohol brand
+You should be aware that you may be making available personally identifiable information about yourself when you submit material to our social media pages or to other interactive elements of our digital services. 
 
+3.How we use the personal data we collect:
 
+Newstalk takes your privacy very seriously and will never disclose, share or sell your data without your consent; unless required to do so by law. We only retain your data for as long as is necessary and for the purpose(s) specified in this notice. Where you have consented to us providing you with promotional offers and marketing, you are free to withdraw this consent at any time.  
 
-Automatically Collected Information
+We do not employ automated decision making methods to any of your personal data under our control.
 
-In addition, the Application may collect certain information automatically, such as:
+The purposes and reasons for processing your personal data are detailed below: -
 
-  1. Type of mobile device you use
-  2. Your mobile devices unique app installation ID
-  3. IP address of your mobile device,
-  4. your mobile operating system,
-  5. Type of mobile Internet browsers you use
-  6. Information about the way you use the Application.
+•We collect your data to administer a service which you have subscribed to and given consent for your personal data to be processed, this includes Station Newsletter and/or promotional material.  
 
+•We collect your data as part of a competition entry to allow us contact you regarding the competition, this data is processed based on consent.
 
+•We collect personal data to administer your personalised preferences such as news content or preferred music and services. 
 
-Does the Application collect precise real time location information of the device?
+•We collect your personal data that you provide us with when you contact us directly to respond to your specific inquiry or to administer the relevant site activity where we have a legitimate interest.
 
-This Application does not collect precise information about the location of your mobile device.
+•We automatically capture your IP addresses to geo-fence our content.
 
-MMA MOBILE APPLICATION
+•Comply with legal regulatory requirements and legitimate business purposes.
 
-Do third parties see and/or have access to information obtained by the Application?
+Marketing uses 
 
-Yes. We will share your information with third parties only in the ways that are described in this privacy statement.
+How we use marketing information?
 
-We may disclose User Provided and Automatically Collected Information:
+•To help us to monitor, analyse and improve Newstalk . This information helps us to understand which Newstalk  content, products and services are most interesting, enjoyable and useful to our users, and if they are shared via social networks. The information also helps us to identify when errors occur within the digital products and services within Newstalk and test different versions of a page or feature to see which one works best. All of which helps us improve our digital products and services for our users.
 
-  1. To any suppliers and subcontractors in order to fulfil the service
-  2. If we are under a duty to disclose or share your information in order to comply with any legal obligation or in order to enforce or apply the User Terms as applicable and other agreements;
-  3. To third parties for marketing purposes only where you have consented to this.
-  4. If Communicorp Digital is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of this information, as well as any choices you may have regarding this information
-  5. This Application is supported via advertising, and collects data to help the Application serve ads e.g. whether you are using an iPhone or Android
+•We can create a more tailored experience by looking at the information we have about you. For example, we will do this by making programme recommendations or telling you about relevant Newstalk events in your area.
 
+•To inform the way we commission future content at Newstalk. We will use aggregated and anonymous user data to help our commissioning teams understand what type of content our users like.
 
+•To sell advertising on Newstalk.
 
-MMA MOBILE APPLICATION
+•We will send you information about the digital products and services within Newstalk or other marketing activities, but only where you have signed up to receive these from us. Similarly, sometimes, third party partners will want to send you information about products and services, but will only do so if you have agreed to receive them by ticking an opt-in box associated separately with a competition partner.
 
-Data Retention Policy, Managing Your Information
+•We will email you occasionally about the digital products and services within Newstalk  that you have signed up for (for example, to provide you with password reminders or to contact you about content you have submitted to us via our digital products and services) so that we are able to deliver these services to you. We may also invite you to participate in surveys from time to time to help us understand what you think about our programmes, products and services, and in turn make them better.
 
-We will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like us to delete User Provided Data that you have provided via the Application, please contact us [here](mailto:mailto:info@communicorpdigital.ie) and we will respond in a reasonable time.
+4.Your Rights
 
-Please note that some or all of the User Provided Data may be required in order for the Application to function properly, and we may be required to retain certain information by law.
+You have the right to access any personal information that Newstalk processes about you and to request information about: -
 
-Access to your information and corrections
+•What personal data we hold about you
 
-You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of such information, please [contact us](mailto:mailto:info@communicorpdigital.ie). You may ask us to correct or remove information you think is inaccurate by contacting us. We hope you will be happy with the way we handle your information but if not you have the right to complain to the Office of the Irish Data Protection Commissioner - for more information visitwww.DataProtection.ie.
+•The purposes of the processing
 
-Security
+•The categories of personal data concerned
 
-Communicorp Digital is concerned about safeguarding the confidentiality of your information. We provide physical, electronic, and procedural safeguards to protect information we process and maintain.
+•The recipients to whom the personal data has/will be disclosed
 
-For example, we limit access to this information to authorised employees and contractors who need to know that information in order to operate, develop or improve our Application. Please be aware that, although we endeavour to provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
+•How long we intend to store your personal data for
 
-Changes
+•If we did not collect the data directly from you, information about the source
 
-This Privacy Policy may be updated from time to time for any reason.
+If you wish to make a Subject Access Request please contact PrivacyOfficer@CommunicorpMedia.com 
 
-We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here
+You have the right of rectification – you have a right to correct data that we hold about you that is inaccurate or incomplete.
 
-You are advised to consult this Privacy Policy regularly for any changes.
+You have the right to be forgotten – in certain circumstances you can ask for the data we hold about you to be erased from our records.
 
-Your Consent
+You have the right to restriction of processing – where certain conditions apply to have a right to restrict the processing.
 
-By using the Services, you are consenting to our processing of User Provided and Automatically Collection information as set forth in this Privacy Policy now and as amended by us. "Processing," means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the Republic of Ireland (ROI). If you reside outside the ROI your information will be transferred to the ROI, and processed and stored there under the ROI privacy standards. By using the Application and providing information to us, you consent to such transfer to, and processing in, the ROI.
+You have the right of portability – you have the right to have the data we hold about you transferred to another organisation.
 
-Contact us
+You have the right to object – you have the right to object to certain types of processing such as direct marketing. (eg Newsletter Opt-out) 
 
-  1. If you contact us, we may keep a record of that correspondence;
-  2. Any other information provided by you pursuant to your use of the Newstalk Application.
+You have the right to object to automated processing, including profiling 
 
+If we receive a request from you to exercise any of the above rights, we may ask you to verify your identity before acting on the request; this is to ensure that your data is protected and kept secure.
 
+5.Information collected for journalistic purposes
 
-If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us [here](mailto:mailto:info@communicorpdigital.ie).
+Under Article 85 of the GDPR (EU 2016/679)  material acquired and used for journalistic purposes is exempt from certain Articles of  GDPR,  these include Chapter II (principles) other than Article 5(1)(f), Chapter III (rights of  the data subject) Chapter IV (controller and processor obligations), Chapter V (transfer of data),  Chapter V1, Chapter VII and Chapter IX. 
+
+Please note that the requirement to process personal data in a manner that ensures appropriate security remains when processing for journalistic purposes. 
+
+6.Sharing and Disclosing Your Personal Information
+
+We do not share or disclose any of your personal information without your consent, other than for the purposes specified in this policy or where there is a legal requirement. Newstalk uses third-parties to provide services regarding subscriptions, surveys, competitions and events; however, all processors acting on our behalf only process your data in accordance with instructions from us and comply fully with this privacy notice and are subject to the GDPR (EU 2016/679).
+
+Newstalk reserves the right to allow its data processor Communicorp Group Limited to perform statistical analyses of user behavior and characteristics, in order to measure interest in and use of the various sections of its sites so as to improve design and navigation and to gather marketing information. Only aggregated data from these analyses, not individual data, will be used for this purpose.
+
+Communicorp Group Limited commits to keeping your personal information confidential save that we:
+
+•use a range of data sub processing companies to help manage your information. However, we require these companies to comply strictly with our instructions and they are not allowed to use your information for their own business purposes (unless you have explicitly agreed to this). We also require these companies to have appropriate physical and technological security measures to protect your personal information.
+
+•may share your information with third parties where you have specifically agreed to this. We will not, however, sell your data to any third party.
+
+7.Our commitment to security
+
+Newstalk takes your privacy seriously, we employ appropriate technical and organisational security measures to prevent unauthorised access, alteration, disclosure or destruction of your information.
+
+We use the following industry standard methods to protect your data:
+
+•SSL (HTTPS) Across all websites 
+
+•Encryption 
+
+•Enterprise firewalls
+
+Unfortunately, the sending of information via the internet is not completely secure. Although we will do our utmost to protect your information, we cannot guarantee the security of your data sent to our digital services within Newstalk ; any sending of information is therefore at your own risk.
+
+8.Transfer Outside the EEA 
+
+Newstalk utilise services (or parts of them) that may be hosted/stored outside the EEA which means that we may transfer any information which is submitted by you through one of our digital services to outside the European Economic Area ("EEA") for the below purposes: -
+
+•Newsletter Subscription
+
+Data Processor is MailChimp, more info here https://mailchimp.com/legal/privacy/
+
+MailChimp have a proven track record in providing email marketing services across the globe. They have are Trusted Certified and are Certified with the EU-US Privacy Shield Framework. 
+
+•Competition Forms and Surveys
+
+Data Processor is Wufoo.com, more information here https://secure.wufoo.com/privacy/
+
+Wufoo are Certified with the EU-US Privacy Shield Framework. 
+
+•Events Registration Forms
+
+Data Processor is Eventbrite,  more information https://www.eventbrite.ie/support/articles/en_US/Troubleshooting/eventbrite-privacy-policy?lg=en_IE
+
+Eventbrite are Certified with the EU-US Privacy Shield Framework.
+
+Streaming Services 
+
+Data Processor is Triton Digital, for more information https://www.tritondigital.com/eu-privacy-policy
+
+Therefore, when you sign up to our newsletter or enter a competition or register to attend a station event or participate in a station survey, the personal information you submit may be stored on servers which are hosted outside the EEA. Where this is the case, we will ensure that those providers use an appropriate level of protection for your information and agree to abide by GDPR (EU 2016/679) by way of standard contractual clauses.
+
+9.How Long We Keep Your Data
+
+Newstalk only ever retains personal information for as long as is necessary to provide a service you have consented to or to adhere to certain warranties or proof of delivery for competition winners.  
+
+Where you have subscribed to a Newsletter we will retain your data until you unsubscribe or the Newsletter is canceled. We include unsubscribe links on all newsletter emails.  
+
+Where you have registered for an event we’ll retain your personal data for 13 months after the event as a record of attendance.
+
+Where you enter a station competition we’ll retain your data for 12 months after the successful competition of the prize or event in the case of tickets.   
+
+We have retention policies in place to meet these obligations. 
+
+10.Complaints
+
+In the event that you wish to make a complaint about how your personal data is being processed by Newstalk, or how your complaint has been handled, you have the right to lodge a complaint directly with the Data Protection Commissioner and Newstalk.
+
+The details for each of these contacts are: 
+
+Data Protection Commissioner 
+
+Canal House
+
+Station Road
+
+Portarlington 
+
+R32 AP23 
+
+Co. Laois
+
+Phone: 1890 252 231 
+
+Fax: +353 57 868 4757 
+
+Newstalk
+
+Privacy Officer
+
+Marconi House 
+
+Digges Lane 
+
+Dublin 2
+
+Co Dublin 
+
+D02TD60
+
+Phone: +353 1 8049000
+
+Policy Version 3.1.4  Updated 24/05/2018
