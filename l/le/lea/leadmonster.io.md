@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadmonster.io privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627041510id_/http%3A//leadmonster.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadmonster.io privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529010139id_/http%3A//leadmonster.io/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Lead Monster
 
