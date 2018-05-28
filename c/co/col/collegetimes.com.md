@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegetimes.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903061850id_/https%3A//www.collegetimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegetimes.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528110420id_/https%3A//www.collegetimes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CollegeTimes.com
 
@@ -83,6 +83,6 @@ http://collegetimes.com
 83 Harcourt Street  
 Dublin Dublin 2  
 Ireland  
-Greta@collegetimes.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 This policy is powered by Free Privacy Policy and Rhino Support [help desk software](http://www.rhinosupport.com/).
