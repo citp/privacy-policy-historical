@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcdvoice.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629215636id_/http%3A//www.mcdonalds.com/us/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcdvoice.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528130346id_/http%3A//www.mcdonalds.com/us/en/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | McDonald's
 
@@ -39,8 +39,6 @@ _
 We may collect personal information about you when you visit our restaurants, use our websites or mobile apps (“online services”), and otherwise interact with us.  The information we collect falls into three categories:  (a) information you provide us; (b) information we collect through automated methods, and (c) information we collect from other sources.  
 
 We may combine the information you provide us, with information that is collected through automated methods, and with information we receive from other sources.
-
-We may combine the information you provide us, with information that is collected though automated methods, and with information we receive from other sources.
 
 **_We collect information you provide us_**
 
