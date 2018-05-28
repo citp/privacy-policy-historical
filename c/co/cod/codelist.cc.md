@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the codelist.cc privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224043454id_/http%3A//codelist.cc/policy-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codelist.cc privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528091941id_/http%3A//codelist.cc/policy-privacy.html) for the most accurate reproduction.*
 
-# Codelist.cc Privacy Policy » Download Free Premium Scripts, Wordpress Plugins, Mobile Games and Apps
+# Codelist.cc Privacy Policy » Premium Scripts, Plugins & Mobile
 
 Cookies & 3rd Party Advertisements
 
