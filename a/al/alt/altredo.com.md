@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the altredo.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625071457id_/http%3A//www.altredo.com/metro_privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altredo.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528174925id_/https%3A//www.altredo.com/metro_privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Altredo
 
@@ -11,7 +11,7 @@ Using Your Personal Information
 Your personal information is protected and not given out to anyone or used by us other than a purchase.
 
 Methods of Payment   
-As a registered subscriber, you will have full access to our Business Intelligence and Predictive Analytics Software To make payments, you can use a credit card, a PayPal account, as a registered user, your account will be activated immediately and you will receive full access to our software.
+As a registered subscriber, you will have full access to our Predictive Analytics Software (download or subscription versions). To make payments, you can use accepted payment methods (see on our web-site www.altredo.com), as a registered user, your account will be activated immediately and you will receive full access to our software.
 
 Cancellation Policy   
 If you decide that our product is not the right product for you, you can cancel your subscription through contact us. Your cancellation request will be effective at the end of your current subscription period. All monthly payments are FINAL. No refunds offered for period based subscription! Altredo reserves the right to cancel any unpaid account without notice.
