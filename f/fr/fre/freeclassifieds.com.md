@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeclassifieds.com privacy policy that was archived on 2017-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170822032707id_/http%3A//www.freeclassifieds.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeclassifieds.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528204636id_/http%3A//freeclassifieds.com/privacy.aspx) for the most accurate reproduction.*
 
 # Free Classifieds - Buy or Sell anything for free, freeclassifieds.com!
 
