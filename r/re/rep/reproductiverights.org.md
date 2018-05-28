@@ -1,18 +1,10 @@
-> *The following text is extracted and transformed from the reproductiverights.org privacy policy that was archived on 2017-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170803020238id_/https%3A//www.reproductiverights.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reproductiverights.org privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528132742id_/https%3A//www.reproductiverights.org/privacy-policy) for the most accurate reproduction.*
 
-# Center for Reproductive Rights Disclaimer and Privacy Statement | Center for Reproductive Rights
+# Center for Reproductive Rights Privacy Statement | Center for Reproductive Rights
 
-### Disclaimer
+_(Revised May 22, 2018)_
 
-**Last revised: June 21st, 2011**
-
-Center for Reproductive Rights ("The Center" or "we", "us", "our") does not guarantee the accuracy, reliability, completeness or usefulness of, or otherwise adopt or endorse, any information obtained or derived from external sources provided on this website and, to the extent permitted by applicable law, disclaims all warranties and representations (whether express or implied) as to any information provided on this website from such external sources.  All information is provided “as is” and only for general informational purposes.
-
-### Privacy Policy
-
-**Last Revised: October 1, 2014**
-
-The Center shares your concern about the protection of your personal information online. This is our policy regarding maintaining the privacy of personal information we collect online in connection with the reprorights.org or reproductiverights.org website (the "Site").
+This is our policy regarding maintaining the privacy of personal information we collect online in connection with the reprorights.org or reproductiverights.org website (the "Site").
 
 Please note that, by using the Site, you signify your agreement to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use the Site.
 
@@ -20,85 +12,122 @@ Please note that, by using the Site, you signify your agreement to this Privacy 
 
 As further described below, we collect two types of information about Site visitors: (i) personal information that individual visitors provide when contributing to The Center, or voluntarily at certain other points; and (ii) tracking data, which is automatically collected from every Site visitor.
 
-#### Personal Information
+**Personal Information**
 
 There are several features on our Site which allow you to volunteer personal information, such as your name, e-mail address, postal address, phone number and credit card information. For example, you may volunteer personal information when you:
 
-  * request a publication from the Site's online store;
   * make an online donation through the Site;
-  * complete a form to subscribe to any of our e-mail networks, like _ReproWrites_. When you complete our sign up form, you will automatically receive various e-mail updates and bulletins that we send out on a periodic basis containing selected articles and other information, with hyperlinks to our Site;
-  * sign up for our _Media List_ to receive press releases or alerts to items you indicate are of interest including special media events;
+  * complete a form to subscribe to any of our e-mail networks. When you complete our sign up form, you will receive various e-mail updates and bulletins that we send out on a periodic basis containing selected articles and other information, with hyperlinks to our Site;
+  * sign up for our media list to receive press releases or alerts to items you indicate are of interest including special media events;
   * report a violation or request legal help;
   * send correspondence to a friend, to your government representative or to other targeted representatives through the Site;
-  * participate in one of our online petitions or surveys; or
-  * participate in any activity that requires your voluntarily submitted data.
+  * participate in one of our online petitions or surveys;
+  * or participate in any activity that requires your voluntarily submitted data.
 
 
 
-In addition, if you contact us, we may keep a record of your correspondence, including any personal information contained therein. A request for service, support or information may be forwarded to third parties not affiliated with The Center as needed to respond to the request. Correspondence sent for inclusion in our newsletter or other publications may be so used (as submitted or as edited by us in our sole discretion), including related personal information (such as your name).
+In addition, if you contact us directly, we may keep a record of your correspondence, including any personal information contained therein.
 
-Wherever we collect personal information from you on the Site, we will make an effort to include a link from that Site page to this Privacy Policy.
+A request for service, support or information may be forwarded to third parties not affiliated with The Center as needed to respond to the request.
 
-#### Tracking Data
+Correspondence sent for inclusion in our newsletter or other publications may be so used (as submitted or as edited by us in our sole discretion), including related personal information (such as your name), unless you request confidentiality in that regard.
 
-Tracking data consists of information we collect automatically from each Site visitor, such as their browser type, operating system, Internet service provider or referring site through cookies and other means. Tracking data includes aggregate information, such as the total number of Site or page visits, and the average time spent on individual pages on the Site.
+Wherever we collect personal information from you on the Site, we will ensure that a link from that Site page is linked to this Privacy Policy.
 
-### How We Use the Information
+We make every effort to maintain the accuracy and completeness of your personal data which we store and to ensure all of your personal data is up to date. However, you can assist us with this considerably by promptly contacting us if there are any changes to your personal data, or if you become aware that we have inaccurate personal data relating to you. We will not be responsible for any losses arising from any inaccurate, inauthentic, deficient or incomplete personal data that you provide to us.
 
-We use and disclose information obtained from visitors as stated in this Privacy Policy and as permitted by law. We will not disclose any personal information to third parties, except:
+**Tracking Data**
 
-  1. to service providers as described below;
-  2. when we believe such disclosure is required by law;
-  3. to enforce our Terms of Service;
-  4. to protect the rights, property, security or safety of The Center, Site visitors or the public;
-  5. to respond to an emergency; or
-  6. as otherwise stated in this Privacy Policy.
+Tracking data consists of information we collect automatically from each Site visitor, such as their browser type, operating system, Internet service provider or referring site through cookies and other means. Tracking data includes aggregate information, such as the total number of Site or page visits, and the average time spent on individual pages on the Site.
+
+### Basis for Processing Data
+
+By " **processing,** " we mean the collection, recording, storage, use, disclosure and any other form of operations or dealings with your personal information.
+
+We will only process your personal information, where: 
+
+  * you have given your consent to such processing (which you may withdraw at any time, as detailed below);
+  * the processing is necessary to provide our services through the Site;
+  * the processing is necessary for compliance with our legal obligations; and/or
+  * the processing is necessary for our legitimate interests or those of any third party recipients that receive your personal data (as detailed below).
 
 
 
 We use tracking data for a variety of purposes, including, for example, for load balancing metrics and to create reports on visitor demographics and Site traffic patterns. The reports that are generated from tracking data are used for a variety of purposes, including, for example, to improve the Site or to seek funding.
 
-If you are located outside of the United States, information you provide to us and the tracking date we collect will be transferred to the United States. By accessing our Site and by submitting your personal information, you consent to its transfer and storage in the United States and its use by us as provided for herein.
+### How we use Personal Information
+
+We will process your personal information in connection with the management of our relationship with you for the following purposes: 
+
+  * to contact you where we have received your consent to do so;
+  * for monitoring and assessing compliance with our policies and standards;
+  * for promotional and marketing materials and activities, including photos and videos;
+  * to carry out financial and credit checks and for fraud and crime prevention and detection purposes;
+  * for administrative purposes in relation to the security and access of our systems, premises, platforms and secured websites and applications;
+  * to comply with our legal and regulatory obligations and requests anywhere in the world, including reporting to and/or being audited by national and international regulatory bodies;
+  * to comply with court orders and exercise and/or defend our legal rights;
+  * for any other legitimate business purpose; and
+  * as otherwise permitted or required by any applicable law or regulation.
+
+
 
 We may also, from time to time, combine your voluntarily submitted personal data with some publicly available data collected from third parties to improve our services to you and for our own internal marketing, communications and fundraising purposes.
 
-Unless you opt-out as provided below, The Center may send you, by postal mail or e-mail, solicitations to support The Center or particular organizations or causes.
+Provided that you have consented as provided below, The Center may send you, by postal mail or e-mail, solicitations to support The Center or particular organizations or causes.
 
-### Surveys and Quizzes
+**International Transfers of Personal Information**
 
-From time to time we invite visitors to participate in surveys and quizzes, which are typically aimed at obtaining general information regarding our community of Site visitors. Participation in these surveys and quizzes is voluntary. We may use the gathered information for a variety of purposes, including, for example, to improve the Site and to interact and collaborate with our Site visitors.
+If you are located outside of the United States, information you provide to us and the tracking data we collect will be transferred to the United States, where levels of data of protection may differ from that of your own jurisdiction. 
 
-### E-mail-A-Friend
+If you are a data subject in the European Union, we will ensure that any such international transfers are made subject to appropriate or suitable safeguards as required by the GDPR. Copies of the relevant safeguard documents are available at 199 Water St., New York, NY 10038 and can be provided by request.
 
-The Site provides a feature that allows visitors to inform their friends and colleagues about our Site and information contained on the Site. If you elect to use this feature, you will need to provide your e-mail address and the intended recipient's e-mail address; however, this personal information is used solely to transfer the link or web page to the recipient and is not collected or stored in our databases.
+By accessing our Site and by submitting your personal information, you consent to its transferand storage in the United States and its use by us as provided for herein.
 
 ### Third-Party Sharing
 
-We work with third parties who provide services such as website hosting, order processing and fulfillment, credit card clearance, data analysis, e-mailing and other, often administrative services. We may provide such third parties with visitors' personal information and tracking data. In general, we seek to limit such service providers to using personal information, including financial information, that is shared with them solely for the purpose of providing such services, however, we cannot be responsible for such third parties' use of visitors' personal information and tracking data not in compliance with the terms of this Policy.
+We work with third parties who provide services such as website hosting, order processing and fulfillment, credit card clearance, data analysis, e-mailing and other, often administrative services. We may provide such third parties with visitors' personal information and tracking data. We limit such service providers to using personal information, including financial information, that is shared with them solely for the purpose of providing such services and in full confidentiality.
 
 ### Third-Party Functionality
 
-Our Site contains links to other websites operated by third parties. For example, when you make online donations to us or request one of our print publications be mailed rather than downloading or printing the electronic version of that publication, you will link to a third party website through our Site. Such third parties may collect information about you, through cookies or other technologies, when you link to their websites through our Site. Because we do not monitor or control the information collection or privacy practices of these or any other third parties, and cannot be responsible for their practices or the content of their websites, we recommend that you review the privacy policies of such third parties to understand how they collect and use information.
+Our Site contains links to other websites operated by third parties. For example, when you make online donations to us or request one of our print publications be mailed rather than downloading or printing the electronic version of that publication, you will link to a third-party website through our Site. Such third parties may collect information about you, through cookies or other technologies, when you link to their websites through our Site. We recommend that you review the privacy policies of such third parties to understand how they collect and use information.
 
 ### Cookies
 
-We collect some data through the use of cookies to track website usage as mentioned above. As also noted, certain services provided in connection with our the Site, such as the e-mail signups, online donations or the online store, are handled by third parties that may or may not use cookies or other similar tracking technologies. Although we have chosen vendors with a reputation for security, The Center cannot control the personal information collected by those vendors and ask that you become familiar with their privacy policies.
+We collect some data through the use of cookies to track website usage as mentioned above. As also noted, certain services provided in connection with the Site, such as the e-mail signups, online donations or the online store, are handled by third parties that may or may not use cookies or other similar tracking technologies. Although we have chosen vendors with a reputation for security, The Center cannot control the personal information collected by those vendors and ask that you become familiar with their privacy policies.
 
-### Opting-In
+### Consent
 
-You may opt-in to receiving solicitations from us, and to having us disclose your personal information to like-minded organizations for purposes of contacting you regarding such organizations. You may do this whenever you provide us with personal information by checking the appropriate check box(es) on the applicable online form. If you subsequently desire to opt-out of receiving solicitations from us, and from having us disclose your personal information to like-minded organizations, you may do so by sending a request by e-mail to [publications@reprorights.org](mailto:publications@reprorights.org "Publications Inbox") or by letter to "Publications Department" at the address provided under "Contact Information" below. Because we do not monitor or control the policies of such like-minded organizations, once we have shared your information with a third party we cannot be responsible for such third party's practices and maintenance of your information and we recommend that you follow up directly with such third parties to understand how your information is treated.
+You may consent to receiving solicitations from us, and to having us disclose your personal information to like-minded organizations for purposes of contacting you regarding such organizations. You may do this whenever you provide us with personal information by checking the appropriate check box(es) on the applicable online form. If you subsequently desire to withdraw your consent of receiving solicitations from us, and from having us disclose your personal information to like-minded organizations, you may do so by sending a request by e-mail to [dataprivacy@reprorights.org](mailto:dataprivacy@reprorights.org) or by postal mail to the address provided under "Contact Information" below.
+
+To understand how your information shared with like-minded organizations is treated, we recommend that you contact directly the relevant third party.
 
 ### Other Communications
 
-From time to time, in order to best serve our community, we may e-mail Site visitors information regarding important developments affecting reproductive rights. We may also e-mail Site visitors on occasion regarding the Site and Site-related services. Such information may be sent to Site visitors even if they have not "opted-in" to receive such information.
+From time to time, in order to best serve our community, we may e-mail Site visitors information regarding important developments affecting reproductive rights. We may also e-mail Site visitors on occasion regarding the Site and Site-related services. Such information may be sent to Site visitors only if they have consented to receiving such information.
 
-### Viewing, Correcting or Deleting Your Personal Information
+### How Long We Hold Your Personal Information
 
-You may view, correct or request the deletion of your personal information collected by us in connection with Site by contacting us at the e-mail address provided below. Recipients of our electronic newsletters can "unsubscribe" by following the instructions set forth in each newsletter. If you request that we delete information from our databases, we will seek to comply with your request as soon as reasonably practicable. Please note that we may need to retain certain information for record keeping purposes, and there may also be residual information that will remain within our databases and other records.
+We will only retain your personal data as long as necessary to fulfill the purpose for which it was collected or to comply with legal, regulatory or internal policy requirements, or until you request the removal/deletion of your data.
+
+### Your rights in relation to the personal data we collect
+
+You may view, update, correct or request the deletion of, or obtain a copy of your personal information collected by us in connection with the Site by contacting us at the e-mail address provided below. You may restrict or stop us from using any of the personal data which we hold about you, including by withdrawing any consent you have previously given to the processing of such data.
+
+Recipients of our electronic newsletters can "unsubscribe" by following the instructions set forth in each newsletter. If you request that we delete information from our databases, we will seek to comply with your request within a month or less, although we reserve the right to extend this period for complex requests.
+
+Please note that we may need to retain certain information for record keeping purposes.
+
+In any of the situations listed above, we may request that you prove your identity by providing us with a copy of a valid means of identification in order for us to comply with our security obligations and to prevent unauthorized disclosure of data.
+
+We reserve the right to charge you a reasonable administrative fee for any manifestly unfounded or excessive requests concerning your access to your personal data, and for any additional copies of the personal data you request from us.
 
 ### Revisions to Policy
 
-We reserve the right to revise this Privacy Policy from time to time. Your continued use of the Site subsequent to changes to this Privacy Policy will mean that you accept such changes; therefore please bookmark this page and review it periodically to assure familiarity with the most current version of the Privacy Policy. You can tell that the Privacy Policy has been updated since you last reviewed it by checking the "Last Revised" date at the beginning of this Privacy Policy.
+We reserve the right to revise or update this Privacy Policy in order to maintain our compliance with applicable law and regulation or following an update of our internal practices.
+
+We will do this by updating this Privacy Policy. You will not be necessarily directly notified of such a change. Therefore, please bookmark this page and review it periodically to assure familiarity with the most current version of the Privacy Policy. 
+
+You can tell that the Privacy Policy has been updated since you last reviewed it by checking the "Last Revised" date at the beginning of this Privacy Policy.
 
 ### Assignment
 
@@ -110,13 +139,10 @@ We reserve the right to disclose any information including personal information 
 
 ### Security
 
-We use reasonable security methods to protect the data that resides on our servers. However, because no security system is impenetrable, we cannot guarantee the security of your data on our servers. In addition, because internet communication is unsecure, it is also possible that information you supply to us will be intercepted during transmission. We, therefore, do not guarantee the security of any transmission between you and the Site.
+We are committed to safeguarding and protecting personal information and will implement and maintain appropriate technical and organizational measures to ensure a level of security appropriate to protect any personal information provided to us from accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to personal information transmitted, stored or otherwise processed. 
 
 Whenever you give The Center sensitive or confidential information (for example, credit card numbers for donations), The Center will take reasonable steps to protect the information by establishing a secure connection with your Web browser. The Center employs a security technology known as a secure-socket-layer (“SSL”) to protect the transmission of payment information to the site. Unless otherwise specified herein or on the site where you make a donation, credit card numbers are used only to fulfill your request and are not retained for marketing purposes.
 
 ### Contact Information
 
-If you have any comments or questions about this Privacy Policy or the Site, please send an e-mail to [webmaster@reprorights.org](mailto:webmaster@reprorights.org "Webmaster Inbox"), or please send your comments or questions via postal mail to Webmaster, Center for Reproductive Rights, 120 Wall St., New York, NY 10005.
-
-  
-The Site and this Privacy Policy, © 2003 The Center. All rights reserved.
+If you have any comments or questions about this Privacy Policy or the Site or if you wish to inform us of a change or correction to your personal data, to receive a copy of the data we collect on you, or would like to raise a complaint, please send your comments or questions by email to [dataprivacy@reprorights.org](mailto:dataprivacy@reprorights.org) or by postal mail to Webmaster, Center for Reproductive Rights, 199 Water St., New York, NY 10038.
