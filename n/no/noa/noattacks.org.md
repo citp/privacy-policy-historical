@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noattacks.org privacy policy that was archived on 2017-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171012112446id_/https%3A//noattacks.org/node/46) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noattacks.org privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528064007id_/https%3A//noattacks.org/node/46) for the most accurate reproduction.*
 
 # Privacy Policy | Prevent Asthma Attacks
 
@@ -29,9 +29,3 @@ If we decide to change our privacy policy, we will post the date the changes wer
 **Contact Information**   
 
 If you have questions about our privacy policy, please contact [EPAIndoorEnvironments@scgcorp.com](mailto:EPAIndoorEnvironments@scgcorp.com).
-
-| 
-
-Studies show that an estimated 70% of smoke from chimneys can actually reenter your home and your neighbor’s home. If you’re using a wood stove or fireplace and smell smoke in your home, it probably isn’t working as it should.  Contact a certified chimney sweep for help. **[www.epa.gov/burnwise](http://www.epa.gov/burnwise)**  
-  
----|---
