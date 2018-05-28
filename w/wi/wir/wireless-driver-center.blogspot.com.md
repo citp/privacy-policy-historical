@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wireless-driver-center.blogspot.com privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127045940id_/http%3A//wireless-driver-center.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wireless-driver-center.blogspot.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528082651id_/http%3A//wireless-driver-center.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Wireless Information
+# Privacy Policy | Networking : Driver-Specs
 
  At www.wireless-driver-center.blogspot.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by www.wireless-driver-center.blogspot.com and how we use it.
 
