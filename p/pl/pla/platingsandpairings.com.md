@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the platingsandpairings.com privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414054816id_/http%3A//www.platingsandpairings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the platingsandpairings.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528043037id_/https%3A//www.platingsandpairings.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Platings & Pairings
+# Privacy Policy | Platings + Pairings
 
-This privacy policy sets out how Platings and Pairings uses and protects any information that you give while using [www.platingsandpairings.com](http://www.platingsandpairings.com/).  
+This privacy policy sets out how Platings and Pairings uses and protects any information that you give while using [www.platingsandpairings.com](https://www.platingsandpairings.com/).  
 Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
 Platings and Pairings may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from November 10, 2014.
@@ -62,8 +62,4 @@ We will not sell, distribute or lease your personal information to third parties
 
 **Opt Out**
 
-For information about opting out of Gourmet Ads and ad serving partners please visit <http://www.gourmetads.com/about/privacy-policy>
-
 If you believe that any information we are holding on you is incorrect or incomplete, please contact us.
-
-[Yum](https://yummly.com/)
