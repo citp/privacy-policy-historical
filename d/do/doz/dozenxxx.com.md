@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dozenxxx.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201021134id_/http%3A//www.dozenxxx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dozenxxx.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528195551id_/http%3A//dozenxxx.com/privacy) for the most accurate reproduction.*
 
 # XXX Porn Tube!
 
-Effective Date: Friday 1st of December 2017 03:11:34 AM  
+Effective Date: Monday 28th of May 2018 09:55:51 PM  
 Sites Covered: www.dozenxxx.com 
 
 Pursuant to our [Terms of Use](http://www.dozenxxx.com/terms/), this document describes how we treat personal information related to your use of this website (the “Website”), including information you provide when using it. 
