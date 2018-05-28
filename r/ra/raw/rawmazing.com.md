@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rawmazing.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125180516id_/http%3A//rawmazing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rawmazing.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528093845id_/http%3A//rawmazing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Rawmazing Raw and Cooked Vegan Recipes
 
