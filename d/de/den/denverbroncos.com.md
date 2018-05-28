@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the denverbroncos.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102204652id_/http%3A//www.denverbroncos.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the denverbroncos.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528183857id_/http%3A//www.denverbroncos.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Denver Broncos | Privacy Policy
 
 [](https://privacy.truste.com/privacy-seal/National-Football-League/validation?rid=b7497162-cd29-4fd7-a8ee-2e544c107e30 "TRUSTe online privacy certification")
 
-_Revised: 10/09/2014_
+_Revised: 11/22/2017_
 
 By using the Website, you consent to the collection, storage, processing, and transfer of your information in and to the United States, or other countries and territories.  While some of these countries may not offer the same level of privacy protection as your own, we commit to uphold the privacy protections as explained in this privacy policy.
 
@@ -169,6 +169,52 @@ Some web browsers may transmit "do-not-track" signals to the websites with which
 
 
 Please note that the Services are directed towards users who reside in the United States. By using the Services, you consent to the collection, storage, processing, and transfer of your information in and to the United States, or other countries and territories, pursuant to the laws of the United States.  While some of these countries may not offer the same level of privacy protection as your own, we commit to uphold the privacy protections as explained in this Policy.
+
+  * **Broncos Message Board/Forum**
+
+
+
+**Forum Rules**
+
+Registration to this forum is free! We do insist that you abide by the rules and policies detailed below. If you agree to the terms, please check the 'I agree' checkbox and press the 'Complete Registration' button below. If you would like to cancel the registration, click here to return to the forums index.
+
+Although the administrators and moderators of Broncos Message Boards will attempt to keep all objectionable messages off this site, it is impossible for us to review all messages. All messages express the views of the author, and neither the owners of Broncos Message Boards, nor vBulletin Solutions, Inc. (developers of vBulletin) will be held responsible for the content of any message.
+
+By agreeing to these rules, you warrant that you will not post any messages that are obscene, vulgar, sexually-oriented, hateful, threatening, or otherwise violative of any laws.
+
+You are granting us license and permission to use, publish, re-publish, remove, edit, delete, archive, move or close any content item submitted to the message board for any reason at our discretion. Furthermore, the operators of this message board are under no responsibility or obligation to deliver any type of archive of content or past posts or messages.
+
+Requests for content to be removed or modified will be undertaken only at our discretion. 
+
+  * **Notice and Procedure for Making Claims of Copyright Infringement**
+
+
+
+Pursuant to Title 17, United States Code, § 512(c)(2), if you believe in good faith that your copyrighted work has been reproduced and is accessible on the Services in a way that constitutes copyright infringement, please provide our DMCA Agent with a written communication containing the following information.
+
+IMPORTANT NOTE: ONLY DMCA NOTICES WILL RECEIVE A RESPONSE.
+
+  1. identification of the copyrighted work claimed to have been infringed;
+  2. identification of the allegedly infringing material on the Services that is requested to be removed;
+  3. your name, address and daytime telephone number, and an e-mail address if available, so that we may contact you if necessary;
+  4. a statement that you have a good faith belief that the use of the copyrighted work is not authorized by you or the law;
+  5. a statement that the information in the notification is accurate, and under penalty of perjury, that you are, or are authorized to act on behalf of, the owner of an exclusive copyright right that is allegedly infringed; and
+  6. an electronic or physical signature of you or someone authorized on the copyright owner's behalf, to assert infringement of copyright and to submit the statement.
+
+
+
+Claims of infringement which include the above required information must be submitted via postal mail or e-mail to NFL's DMCA Agent as follows:
+
+DMCA Agent  
+Denver Broncos Football Club  
+13655 Broncos Parkway  
+Englewood, CO 80112  
+[dmcaagent@broncos.nfl.net](mailto:dmcaagent@broncos.nfl.net?Subject=DMCA%20Notice%20of%20Infringement) (Please include "DMCA Notice of Infringement" in the subject line)  
+303-649-9000
+
+IMPORTANT NOTE: The foregoing information is provided exclusively for notifying the NFL that your copyrighted material may have been infringed. All other inquires and requests will not receive a response through this process.
+
+We reserve the right to remove any posted submission that infringes the copyright of any person under the laws of the United States upon receipt of a notice that complies with the requirements of 17 U.S.C. § 512(c)(3). United States law provides significant penalties for submitting such a statement falsely.
 
   * **Contact Us**
 
