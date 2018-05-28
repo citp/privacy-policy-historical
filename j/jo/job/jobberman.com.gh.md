@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobberman.com.gh privacy policy that was archived on 2017-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171106225041id_/http%3A//www.jobberman.com.gh/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobberman.com.gh privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528122330id_/http%3A//www.jobberman.com.gh/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy-Latest Job Vacancies in Ghana
 
