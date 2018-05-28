@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesforgirlsclub.com privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127182558id_/http%3A//www.girlgamz.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesforgirlsclub.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529005755id_/http%3A//www.girlgamz.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
