@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liberty.co.uk privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219022036id_/http%3A//www.libertylondon.com/uk/information/shopping-online/privacy-policy-and-cookies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liberty.co.uk privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528231546id_/http%3A//www.libertylondon.com/uk/information/shopping-online/privacy-policy-and-cookies.html) for the most accurate reproduction.*
 
 # Privacy Policy & Cookies | Liberty London
 
@@ -6,183 +6,159 @@
 
 To continue browsing Liberty London, please install the latest version of any of the browsers listed below.
 
-[](https://www.google.com/chrome/) [](https://www.mozilla.org/en-GB/firefox/new/) [](http://windows.microsoft.com/en-gb/internet-explorer/download-ie)
+[](https://www.google.com/chrome/) [](https://www.mozilla.org/en-GB/firefox/new/) [](https://windows.microsoft.com/en-gb/internet-explorer/download-ie)
 
 Choose a browser
 
-This Policy applies as between you, the User of this Website and Liberty the owner and provider of this Website. This Policy applies to our use of any and all Data collected by us in relation to your use of the Website and any Services or Systems therein. This Policy should be read alongside Liberty’s Website [Conditions of Use](http://www.libertylondon.com/uk/information/shopping-online/conditions-of-use.html), which tell you the terms on which you may use the Website.
+## What does this policy cover?
 
-By using the Website or by otherwise providing Liberty with your information, you consent to the collection, storage, use and transfer of your information under the terms of this Policy. You warrant that any data provided by you on the Website is accurate.
+This policy describes the processing of your personal data by Liberty Retail Limited (00042342) of 210-220 Regent Street Mayfair, London, England, W1B 5AH ("we", "us" or "our") in relation to:
 
-## DEFINITIONS AND INTERPRETATION
+  1. your use of our website at www.libertylondon.com (the “website”); and
+  2. your interaction with us at the Liberty London store ("in-store")
 
-### 1.
 
-In this Policy the following terms shall have the following meanings:
 
-“Account” means collectively the personal information, payment information and credentials used by Users to access content and / or any communications System on the Website “Cookie” means a small text file placed on your computer by Liberty Ltd when you visit certain parts of this Web Site. This allows us to identify recurring visitors and to analyse their browsing habits within the Web Site.
+For the purposes of applicable data protection law (including, the General Data Protection Regulation 2016/ 679 (the "GDPR"), we are a ‘data controller’ of your personal data.
 
-“Data” means collectively all information that you submit to the Website. This includes, but is not limited to, Account details and information submitted using any of our Services or Systems.
+Where applicable, this policy should be read alongside our terms and conditions, which tell you about the terms on which you may use the website.
 
-“Liberty” means Liberty Limited, a company registered in England with company number 3967671, having its registered office at Regent Street, London W1B 5AH United Kingdom “Service” means collectively any online facilities, tools, services or information that Liberty makes available through the Website either now or in the future
+## What personal data is collected?
 
-“System” means any online communications infrastructure that Liberty makes available through the Website either now or in the future. This includes, but is not limited to, web-based email, message boards, live chat facilities and email links.
+### 1\. Personal data collected from you: 
 
-“User” / “Users” means any third party that accesses the Website
+The following categories of personal data will be collected about you in connection with your use of the website and your interaction with us in-store, including, but not limited to, when you fill in forms on the website or whilst in-store, when you register to use the website or sign-up to the Liberty Loyalty (and Beauty Loyalty) Programme, when you submit user-generated content, reviews or ratings, engage in any social media functions or 'like'/ 'love' products on the website:
 
-“Website” means the website that you are currently using (http://www.libertylondon.com) and any sub-domains of this site (e.g. www.libertyoflondon.co.uk) unless expressly excluded by their own terms and conditions
+  * Personal Identification Information: such as, your name and date of birth;
+  * Contact Information: such as, your email address, postal address, postcode and telephone number;
+  * Demographic Information: such as your gender;
+  * Preference Information: such as, information about the types of products you have purchased on the website, and information about the types of products you like or are interested in;
+  * Financial information: such as, payment card numbers; and
+  * Your marketing preferences, including any consents you have given us
 
-## DATA COLLECTED
 
-### 2
 
-Liberty may collect Data about you that you provide to Liberty when you use its Website, including, but not limited to, information that you provide when you fill in forms on the Website, register to use the Website, submit reviews or ratings and participate in discussion boards or any other social media functions on the Website. In addition if you contact us by phone, email or otherwise, we may keep a record of that correspondence.
+In addition, if you contact us by phone, email or otherwise, we may keep a record of that correspondence.
 
-Without limitation, any of the following Data may be collected:
+### 2\. Personal data collected about you:
 
-  1. Name.
-  2. Date of Birth.
-  3. Gender.
-  4. Job Title.
-  5. Profession.
-  6. Contact information such as email addresses and telephone numbers.
-  7. Demographic information such as post code, preferences and interests.
-  8. Financial information such as credit / debit card numbers.
-  9. Web browser type and version (automatically collected).
-  10. Operating system (automatically collected)A list of URLS starting with a referring site, your activity on the Website, and the site you exit to (automatically collected).
-  11. Technical information about your visits to the Website including, but not limited to, your IP (Internet Protocol) address used to connect your device to the internet and Liberty’s Website, traffic data, location data, log data, your browser settings, the date and time of your visits, and details regarding which pages, products or resources on the Website you access.
-  12. Cookie information in accordance with our Cookies policy
+  * From Others: Although we generally collect personal data directly from you, we also collect certain categories of personal data about you from other sources. In particular: 
+    * financial and/or transaction details from payment providers in order to process a transaction;
+    * personal contact information from our in-store wi-fi provider in order to provide you with offers and marketing communications; and
+    * personal contact and preference information from our events ticketing provider in order to administer in-store events and tailor our services to you
+  * Automatically Collected Information: such as, web browser type and version, operating system, the website you came from and exit to, your IP (Internet Protocol) address, your Device ID and Mac ID, your browser settings, the date and time of your visits, and details regarding your interaction with the website (including which pages, products or resources on the website you access), our emails and our in-store wifi network; and
+  * Cookies Information: in accordance with the Cookies section below
 
 
 
-## OUR USE OF DATA
+## How is your personal data used, and what is the legal basis for this use?
 
-### 3.1
+### We process your personal data for the following purposes:
 
-Any personal Data you submit will be retained by Liberty for as long as you use the Services and Systems provided on the Website. Data that you may submit through any communications system that Liberty may provide may be retained for a longer period of up to 12 months.
+  1. Contractual Necessity: As required to establish and fulfil a contract with you, for example: if you make a purchase from us (this will include taking payments, and arranging the delivery or other provision of products, awards or services); communicating with you and providing customer services; and in order to administer the Liberty Loyalty (and Beauty) Programmes
+  2. Legitimate Interests: As required by us to pursue our own legitimate interests, in particular: 
+    1. facilitating the creation of, and securing, online registered accounts;
+    2. managing, operating and improving online registered accounts (incl. enabling you to: manage your account details, manage your Liberty Loyalty (and Beauty) Account, manage your marketing preferences, track your orders, return products, and manage your wish lists), and customers’ journeys on the website;
+    3. monitoring any online registered accounts to prevent, investigate and/or report fraud, terrorism, misrepresentation, security incidents or crime, in accordance with applicable law;
+    4. delivering tailored advertising (incl. via Facebook look-a-like and custom audience);
+    5. we will use data in connection with legal claims which concern our company, group or partners, compliance, regulatory and investigative purposes as necessary (including disclosure of such information in connection with legal process or litigation);
+    6. creating user/customer insights based on user behaviour to drive targeted direct marketing;
+    7. creating user/customer insights based on demographic segments to drive targeted email direct marketing and also carrying out market research and surveys;
+    8. communicating with you; and
+    9. investigating and handling any complaints received from you about our website, or our products and services
 
-### 3.2
+You can obtain further information on the legitimate interests balancing exercises which we have carried out by contacting us using the contact details provided below
 
-Any or all of the above Data may be required by Liberty from time to time in order to provide you with the best possible service. In particular, Liberty uses your Data:
+  3. Legal Compliance: To ensure compliance with applicable laws and legal processes including, but not limited to, use in connection with legal claims, compliance, regulatory, tax, investigative purposes (including disclosure of such information in connection with legal process or litigation and to law enforcement agencies)
+  4. Consent: Subject to the following, we will send you direct marketing by email, SMS, telephone, post and online about Liberty products and services which we think may be of interest to you. This will only be sent where you have given your consent to Liberty during the online sign-up process or via your online account on the website or verbally in-store, or (where permissible) you have been given an opportunity to opt out. You will be able to opt-out of electronic direct marketing by clicking the unsubscribe link contained in the email or following the instructions in the SMS itself and, in all other cases, by updating your preferences in your account on the Liberty website or by contacting us on the contact details provided below
 
-  1. To process any of your purchase transactions.
-  2. To analyse the information collected in order to examine trends and patterns in the Data and improve the Website.
-  3. To notify you about changes to Liberty’s services.
-  4. To measure or understand the effectiveness of advertising served to Users and to deliver relevant advertising.
-  5. To make suggestions and recommendations to you about goods or services that may be of interest.
-  6. To contact you for your views on the Website.
-  7. For internal record keeping.
-  8. To help Liberty improve its store and online product assortments and services for you.
-  9. For all other purposes consistent with the proper performance of Liberty’s operations and business.
 
 
+## Minors
 
-### 3.3
+Visitors under 16 years of age are not permitted to subscribe to our services or use and/or submit their personal information on any of our website or applications. We do not knowingly solicit or collect information from visitors under 16 years of age. We encourage parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children.
 
-All personal Data is stored securely in accordance with the principles of the Data Protection Act 1998.
+## Fraud Prevention
 
-### 3.4
+If you make a purchase on the website, we may use automated tools as part of our fraud prevention measures. This means that your purchase may be declined if your payment has been rejected by the bank or if other factors indicate that the purchase may be fraudulent. If you have any concerns, please contact us on the contact details below.
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Policy.
+## Who will your personal data be shared with, and where?
 
-### 3.5
+We will share your personal data with:
 
-The transmission of information via the internet is not completely secure. Although Liberty will do its best to protect your personal Data, it cannot guarantee the security of your Data transmitted to the Website. Any transmission is at your own risk. In order to prevent unauthorised access or disclosure, Liberty has put in place suitable physical, electronic and managerial procedures to safeguard and secure the information that it collects online.
+  1. members of our group of companies, including Liberty Fabric Limited, Liberty of London Limited, Liberty Limited, Liberty Zeta Limited, Liberty Theta Limited and Liberty Gamma Limited;
+  2. third party service providers, who will process it on our behalf for the purposes above. Such third parties include, but are not limited to, logistics providers and couriers for delivery of your orders (which are located in the EU) and marketing providers (which are located in the UK, EU and US);
+  3. government authorities and/or law enforcement officials if required for the purposes above, if mandated by law or if required for the legal protection of our own legitimate interests in compliance with applicable laws; and
+  4. purchasers or prospective purchasers of all or part of our assets or our business, and their professional advisers, in connection with the purchase.
 
-Your data may be stored by third parties on Liberty’s behalf. Liberty, and its third party contractors, employ security measures to protect your information from access by unauthorised persons and against unlawful processing, accidental loss, destruction or damage.
 
-Please help Liberty keep its records up-to-date by informing it of any changes to your email address and other Data.
 
-## THIRD PARTY WEBSITES AND SERVICES
+## Cookies
 
-### 4.1
+### What cookies will be used on the website?
 
-The information you provide to us will be treated as confidential. However, we may disclose your information to other third parties who act for us for the purposes set out in this Policy or for purposes approved by you.
+The website uses (first party and third party) cookies (small files placed on website users’ hard drive) to distinguish you from other users of the website. This helps us to provide you with a high quality experience when you browse the website and also allows us to improve the website. We use cookies to analyse the flow of information; customize the services, content and advertising; measure promotional effectiveness; and promote trust and safety.
 
-Liberty may, from time to time, employ the services of other parties for dealing with matters that may include, but are not limited to, payment handling, delivery of purchased items, search engine facilities, advertising and marketing. The providers of such services shall have access to certain personal Data provided by Users of this Website. Any Data used by such parties is used only to the extent required by them to perform the services that Liberty requests and for no other purposes.
+We don't have access to the cookies which third parties place on the website; other than allowing them to be served. These companies have their own privacy policies which we encourage you to review.
 
-Liberty may disclose your personal information to third parties, including:
+More detail on how businesses use cookies is available here [ico.org.uk/for-the-public/online/cookies](https://ico.org.uk/for-the-public/online/cookies/).
 
-  1. Advertisers and advertising networks that require the data to select and serve relevant adverts to you and others, in particular we may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.
-  2. Analytics and search engine providers that assist us in the improvement and optimisation of our site.
-  3. If Liberty is under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply Liberty’s Website [Conditions of Use](http://www.libertylondon.com/uk/information/shopping-online/conditions-of-use.html) and other agreements.
-  4. To protect Liberty’s rights and property, or its safety and its Users’ safety.
-  5. For the purposes of preventing or reporting any illegal or immoral activity.
-  6. For the purposes of appropriately dealing with any complaints or issues with the Website or any content which has been posted on it.
+We offer certain services that are available only through the use of cookies. Generally, there are the following categories of cookies:
 
+## Strictly Necessary Cookies
 
+Some cookies are essential for the operation of the website. For example, some cookies allow us to identify registered users and ensure they can access the website. If a registered user opts to disable these cookies, the user may not be able to access all of the content of the website.
 
-Liberty will not sell, distribute or lease your personal data to third parties other than in accordance with this Policy, unless it has your permission or is required by law to do so.
+## Performance Cookies
 
-## CHANGES OF BUSINESS OWNERSHIP AND CONTROL
+Other cookies may be used to analyse how users use the site and to monitor site performance. This allows us to provide a high quality experience by customising the offering and quickly identifying and fixing any issues that arise. For example, performance cookies may be used to keep track of which pages are most popular and to determine why some pages are receiving error messages.
 
-### 5.1
+## Functionality Cookies
 
-Liberty may, from time to time, expand or reduce its business and this may involve the sale of certain divisions or the transfer of control of certain divisions to other parties. Data provided by Users will, where it is relevant to any division so transferred, be transferred along with that division and the new owner or newly controlling party will, under the terms of this Policy, be permitted to use the Data for the purposes for which it was supplied by you.
+Functionality cookies are used to allow us to remember users’ preferences and tailor the website to provide enhanced features.
 
-## YOUR RIGHT TO WITHHOLD INFORMATION
+## Targeting Cookies
 
-### 6.1
+Targeting cookies are used to serve users with content and adverts, and to collect information about users' browsing habits and usage of the website in order to make adverts more relevant to users and their interests. We may use remarketing technologies to enable third parties to display relevant and personalised ads to users through their networks. They are also used to limit the number of times users see an advert as well as help measure the effectiveness of an advertising campaign.
 
-You may access certain areas of the Website without providing any Data at all. However, to use all Services and Systems available on the Website you may be required to submit Account information or other Data.
+## Social Media Cookies
 
-### 6.2
+These cookies allow users to share what they’ve been doing on the website on social media such as Facebook and Instagram. These cookies are not within our control. Please refer to the respective privacy policies for how their cookies work.
 
-You may restrict your internet browser’s use of Cookies. Please see Liberty’s Cookies policy
+## Google Analytics
 
-## ACCESSING YOUR OWN DATA
+Google Analytics is a web analysis service provided by Google, Inc. We use Google Analytics to monitor how visitors use our website, to compile reports and to help us improve the website. Please see Google’s privacy policy [here](https://policies.google.com/privacy?hl=en-GB&gl=uk) for further information on the data Google collects and how it is processed. If you prefer to not have data reported by Google Analytics, you can install the Google Analytics Opt-Out Browser Add-On by following the instructions [here](https://tools.google.com/dlpage/gaoptout).
 
-### 7.1
+You may opt out of Google's use of tracking technologies by visiting the Google advertising opt-out page [here](https://policies.google.com/technologies/ads). For more information on opting out of third party vendors' use of cookies please visit Your Online Choices [here](http://www.youronlinechoices.com/uk/).
 
-You may access your Account at any time to view or amend the Data. You may need to modify or update your Data if your circumstances change. Additional Data as to your marketing preferences may also be stored and you may change this at any time.
+## Facebook Ads
 
-### 7.2
+We use Facebook services to deliver our ads to you during your browsing experience/ whilst you are online. Facebook services include the delivery of ads on other platforms owned by Facebook, such as Instagram. You can control how Facebook uses data to show you ads by turning off ads which may be based on interests and / or your relationship with specific advertisers, in your ad preference settings. For further information, please visit the various Facebook pages which allow you to learn more about Facebook ads and tracking technologies and to update your settings:
 
-You have the right to ask for a copy of your personal Data.
+  * [www.facebook.com/policies/cookies](https://www.facebook.com/policies/cookies)
+  * [www.facebook.com/about/ads](https://www.facebook.com/about/ads)
+  * [www.facebook.com/ads/preferences/edit](https://www.facebook.com/ads/preferences/edit)
 
-## CHANGES TO OUR PRIVACY POLICY
 
-### 8.1
 
-We may amend this Policy from time to time. If we make any substantial changes we will notify you by posting a prominent notice on our Website and, where appropriate, notify you by email.
+Further, by visiting the Your Online Choices link above, you can opt out from seeing Facebook's interest-based ads and you can also use your mobile device settings to configure your advertising preferences.
 
-## What are cookies?
+On your Facebook ad preferences, you will see that ads may be delivered to you according to 'interests' or specific advertisers and you can manage your ad preference settings for both of these.
 
-A cookie is a small text file stored by a web site on your computer to keep track of information about your browsing on that site.We use a number of different cookies on this site.If you would like further information or you would like to know how to control or delete them, please visit [www.aboutcookies.org](http://www.aboutcookies.org/)
+Please note that where you have opted out of receiving our email marketing communications via the methods described above, you may still see our non-targeted adverts whilst you are online, if your interests settings on Facebook are aligned to an audience segment (pre-defined by Facebook) which our business is also associated with. We do not control whether these ads are displayed to you. Please see the relevant links above for details on how to learn more and manage Facebook ad settings.
 
-The list below shows the types of cookies this site uses and why they are used. By continuing to use this site we assume you are happy with the way we use cookies. If you are not happy we would recommend using your browsers “Private Browsing” mode whilst viewing this site (called “Incognito” in Chrome, “In Private” for Internet Explorer, "Private Browsing" in Firefox and Safari etc.)
+Further, to learn more about adverts which are displayed to you whilst you are online, please consult the applicable website's privacy and cookies policy on which you see our ads and the Your Online Choices link above.
 
-## Persistent cookies for site analysis and performance
+Users are always free to decline cookies if their browser permits, although doing so may interfere with their use of the website. More information about how to control cookies is available here [ico.org.uk/for-the-public/online/cookies](https://ico.org.uk/for-the-public/online/cookies).
 
-### Google Analytics
+## Changes to this policy
 
-We use this to understand how our site is being used in order to improve the user experience. All data collected is anonymous. Further information on Google Analytics can be found at: [Google Analytics Privacy Overview](http://www.google.co.uk/intl/en/analytics/privacyoverview.html)
+Any changes we may make to the policy in the future will be posted on the website and, where appropriate, notified to you by email or otherwise. The changes will be also available in hard-copy in store.
 
-### Google Double-click
+## Contact Us
 
-We use this to provide a mechanism to understand how users interact with our site when they arrive from Organic or Paid Searches. Further information on Google Analytics can be found at: [Google Analytics Privacy Overview](http://www.google.com/policies/privacy/ads)
+If you have any questions about this policy and / or our processing of your personal data, please contact us at [privacy@libertylondon.com](mailto:privacy@libertylondon.com)
 
-### Google Adwords
+## Where can I find more information about the handling of my personal data?
 
-We use this to monitor the effectiveness of our Paid for Advertising on Google. Further Information on Google Adwords can be found at: [Google Adwords Privacy Overview](http://www.google.com/policies/privacy/ads)
-
-### MyThings
-
-We use this to allow us to monitor the effectiveness of our Real Time advertising campaigns. Further information on My Things can be found at: [mythings.com](http://www.mythings.com/)
-
-## Social Widgets
-
-This site uses Social Widgets to enable users to engage with content from our website on various Social Platforms. We have widgets for Facebook, Twitter and Google+1. The way we implement a widget includes using script which is not hosted on the 4Ps Marketing website. You should understand that it is likely that these scripts collect information about your behaviour across the internet, including our site. If you click these buttons on our or any website the platform will record and register that action. Where you are logged in your behaviour (i.e. the page on our site you visit) may be recorded by the platform you are signed into. To understand how and what information is collected please refer to the Privacy Policy of the appropriate Social Platform. Third Party Banner Advertising (Remarketing / Retargeting).
-
-This type of advertising is designed to show you similar or alternative products based on what you have viewed on ibertylondon.com when you visit other selected websites. The technology behind these adverts is based on cookies. Please be assured that the data contained in the cookie used in these adverts is completely anonymous and doesn't contain any of your personal details.
-
-Store information
-
-## Need Help?
-
-If you have any question or need help with your account, you may [Contact Us](https://www.libertylondon.com/uk/contactus) to assist you.
-
-Customer Service  
-Monday to Friday  
-8 AM to 8 PM  
-1 (888) 553 XXXX
+See our [Privacy FAQs](https://support.libertylondon.com/hc/en-us/articles/213573549-PRIVACY-FAQs) for further details on your rights, retention periods, and international transfers.
