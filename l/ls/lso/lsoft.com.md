@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lsoft.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224003054id_/http%3A//www.lsoft.com/corporate/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lsoft.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528041514id_/http%3A//lsoft.com/corporate/privacypolicy.asp) for the most accurate reproduction.*
 
 # L-Soft Privacy Policy
 
@@ -25,11 +25,13 @@ L-Soft collects personally identifiable information to serve email list subscrib
 
   * **Opt-In:** If you sign up to receive L-Soft email announcements or newsletters, we will use the information that you give us to provide the service that you have requested. The personal information that you provide will only be held for as long as you remain subscribed to the email lists. L-Soft issues subscriptions and collects your personally identifiable information according to a double opt-in policy.
   * **Opt-Out:** All of L-Soft's corporate announcement list messages include an unsubscribe option at the end of the message. If you inform us that you wish to cancel a subscription, we will promptly remove you from our mailing list, and your personal details will be deleted from our records.
-  * **Information Collected:** Information collected may include your full name, email address, country and other information depending on your preference for a specific service. L-Soft communications are in plain text or HTML format (with images). When you sign up to receive email from us, you can select either of them. If you select the HTML format, the email may include a one-pixel gif to determine whether or not readers viewed the email. This process does not leave any information on your computer, nor does it collect information from your computer.
+  * **Information Collected:** Information collected may include your full name, email address, country and other information depending on your preference for a specific service. L-Soft communications are in plain text or HTML format (with images). When you sign up to receive email from us, you can select either of them. If you select the HTML format, the email may include a one-pixel gif to determine whether or not readers viewed the email. This process does not leave any information on your computer.
 
 
 
-L-Soft complies fully with the federal CAN-SPAM Act of 2003 and EU Directive 2002/58/CE on Privacy and Electronic Communications. For more detailed information on data protection regulations, please see the legal framework section.
+L-Soft complies fully with the federal CAN-SPAM Act of 2003, EU Directive 2002/58/CE on Privacy and Electronic Communications, and the EU General Data Protection Regulation (GDPR). For more detailed information on data protection regulations, please see the legal framework section.
+
+L-Soft keeps your data accurate to the extent that you provide us with the information needed to do so. If your data changes (e.g. new email address), then you are responsible for notifying us. Upon request, L-Soft will provide customers with information about whether we store, or process on behalf of a third party, any of their personal data. L-Soft may use personal data to comply with legal obligations, resolve disputes, prevent abuse and enforce agreements.
 
 ### Privacy Policy for Website
 
@@ -47,6 +49,43 @@ As is standard practice on many websites, L-Soft logs non-personally identifiabl
   * **Inquiries and Support:** If you send an inquiry or support request by email to a specific contact at L-Soft, it may not always be possible for this contact to provide the information requested. In such circumstances, we may pass your inquiry to another recipient who can fulfill your information request.
 
 
+
+### L-Soft Privacy Policy for EU Residents' Personal Data
+
+**1\. Scope**
+
+L-Soft's privacy policy for EU residents' personal data applies to the processing of EU personal data that L-Soft receives from its hosting (ListPlex, EASE) customers, regardless of the location of the L-Soft data center where the information is stored. Most L-Soft customers are businesses, not individuals. However, L-Soft may also receive personal data about EU individuals from its hosting customers. We process this personal data only on behalf of and under the direction of the customer. The collection, use and disclosure of such data is subject to the customer's own privacy policy.
+
+L-Soft's privacy policy for EU residents' personal data does not cover data through which individuals are no longer identifiable.
+
+**2\. Processing of Personal Data**
+
+L-Soft may collect personal data directly or indirectly from customers or from L-Soft affiliates. L-Soft also collects information while conducting our business operations or in furtherance of our legitimate business interests that could lead to the incidental collection of personal data. L-Soft uses personal data for legitimate business purposes, including to:
+
+  * Process orders
+  * Prepare invoices and complete billing tasks
+  * Prepare price quotations
+  * Provide services to customers, including the delivery of email messages or other communications to a customer's email subscribers
+  * Provide technical support or consulting services
+  * Respond to customer inquiries about their L-Soft products and services
+  * Satisfy governmental reporting and tax requirements
+  * Satisfy security, health, and safety concerns
+  * Satisfy other business-related purposes required under applicable laws and regulations
+
+
+
+**3\. Data Security**
+
+L-Soft uses reasonable efforts to maintain the integrity of personal data. L-Soft also uses reasonable safeguards designed to protect against the loss, misuse and alteration of data that we maintain. All electronically stored personal data are kept on a secure storage system that cannot be accessed from the Internet (DAS or SAN). In the unlikely event of a data breach of personal data, L-Soft will analyze the impact and notify the affected customers without undue delay.
+
+**4\. Personal Data Rights**
+
+EU individuals have a right to access, change or delete their personal data. The most expedient method is to contact the data controller directly. Upon reasonable request and to the extent the request does not compromise the protections set forth in this Policy, L-Soft will facilitate a response by forwarding a GDPR-related request to the pertinent customer (controller). If you have a request concerning your personal data held by L-Soft as a processor of such data, please contact us at:  
+[http://www.lsoft.com/econtact.asp?id=gdpr](https://web.archive.org/contact/econtact.asp?id=gdpr)
+
+For more information about GDPR, visit:  
+[http://www.lsoft.com/resources/gdpr.asp](https://web.archive.org/resources/gdpr.asp)  
+[http://www.lsoft.com/resources/gdpr-faq.asp](https://web.archive.org/resources/gdpr-faq.asp)
 
 ### Contacting L-Soft
 
