@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the culrav.org privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118140404id_/http%3A//www.culrav.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the culrav.org privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528033149id_/http%3A//www.culrav.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Culrav.org
 
