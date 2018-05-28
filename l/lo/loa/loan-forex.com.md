@@ -1,45 +1,36 @@
-> *The following text is extracted and transformed from the loan-forex.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606195822id_/http%3A//degree-classes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loan-forex.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528040717id_/http%3A//ww43.loan-forex.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy – Bollywood News
+# Privacy Policy
 
-Degree-classes cares about how your personal information is used and shared, and we take your privacy seriously. Please read the following terms to learn more about our privacy policy. By registering to and creating account at Degree-classes.me you are accepting the practices outlined in this Privacy Policy.
+* **Overview**
 
-  * We will never sell your personal information, or use it for any other purpose other than logging in/out, demographics for our knowledge, and any voluntary feature of the site.
-  * We use cookies with minimal information in them.
-  * We use Google Analytics, which is covered by [Google’s Privacy policy](http://www.google.com/intl/en/privacy.html)
-  * We allow you to contact other members via profile pages, but no private information is sent unless you want them to see. (you can choose not receive any communication from anyone.)
+Thank you for visiting ww43.loan-forex.com (the "Web Site") and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Web Site unless you choose to provide that information. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
 
+* **What Type of Information We Collect**
 
-  * If you are below 13 then you can NOT use this forum. Do NOT register if you are below the age of 13.
-  * Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website.
-  * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
-  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). (Alternatively, you can direct users to opt out of a third-party vendor’s use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).)
+The server on which the Web Site is located collects and saves only the default information customarily logged by web server software. Such information may include the date and time of your visit, the originating IP address, and the pages and images requested. 
 
+We partner with a limited number of third party behavioral advertising companies. In some cases, these companies serve ads and/or collect certain information when you visit the Web Site. The Web Site and third party advertisers may use cookies, a small file containing a string of characters that is sent to your computer when you visit a website, to collect non-personal information (name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements of interest to you on the Web Site, other sites, and other forms of media. 
 
+* **Uses May Include**
 
-If you have not [opted out of third-party ad serving](https://www.google.com/support/dfp_sb/bin/answer.py?hl=en&answer=94152), the cookies of other [third-party vendors or ad networks](https://www.google.com/support/dfp_sb/bin/answer.py?answer=94149) may also be used to serve ads on your site, and should be disclosed in your privacy policy as well in the following manner.
+  * We may use personal information to provide the services you've requested, including services that display customized content and advertising. 
+  
 
-  * Notify your site visitors of the third-party vendors and ad networks serving ads on your site.
-  * Provide links to the appropriate vendor and ad network websites.
-  * Inform your users that they may visit those websites to opt out of the use of cookies for interest-based advertising (if the vendor or ad network offers this capability). Alternatively, you can direct users to opt out of some third-party vendor’s use of cookies for interest-based advertising by visiting [aboutads.info](http://www.aboutads.info/).
+  * We may also use personal information for auditing, research and analysis to operate and improve our technologies and services. 
+  
 
+  * We may share aggregated non-personal information with third parties outside of The Web Site. 
+  
 
+  * When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. 
+  
 
-Because publisher sites and laws across countries vary, we’re unable to suggest specific privacy policy language. However, you may wish to review resources such as the [Network Advertising Initiative](http://www.networkadvertising.org/) for guidance on drafting a privacy policy.
+  * We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. 
+  
 
-**In detail**
-
-  1. **What does** **Degree-classes** **Privacy Policy cover?**  
-All the personal information we collect is noted on your profile page. That includes your name, email, date of birth and biographic information. Thepersonal information that you provide is used for Registration purpose. In order for you to participate in Degree-classes discussion you must complete a registration form. As part of registration form, we require your email address.
-  2. **Profile Information**  
-Degree-classes allow other users to browse your full name, instant messaging URL, and other details within your member profile should you provide this optional information. Degree-classes allows for the RSS syndication of all of its public content within the website.
-  3. **Cookies** **  
-** Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser in order to check in if you are logged in or out. All the other information is located in Degree-classes server. Some of our business partners may use cookies on our website (for example advertisers). However, we have no access to or control over these cookies.
-  4. **Third-party Advertisement**  
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/).
-  5. **Membership Validity**  
-We reserve the right to delete any message, ban any member for any or no reason whatsoever. Members found to be abusing the contact form, using it for commercial purposes, or otherwise breaking the Community Guidelines will have his/her membership suspended.
-  6. **Children below 13 DO NOT Register**  
-The Federal Trade Commission’s Children Online Privacy Protection Act of 1998 (COPPA) require that Web Sites are to obtain parental consent before collecting, using, or disclosing personal information from children under 13. If you are below 13 then you cannot use this forum. Do NOT register if you are below the age of 13.
+  * The Web Site processes personal information on servers in the United States of America. In some cases, we process personal information on a server outside your own country. 
+  
 
 
+* If you would like to know more about these practices and your choices about not having this information used to target ads to you, please visit the Network Advertising Initiative opt-out page <http://www.networkadvertising.org/managing/opt_out.asp> or the Digital Advertising Alliance at [aboutads.info](http://www.aboutads.info/).
