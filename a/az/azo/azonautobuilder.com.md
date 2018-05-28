@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azonautobuilder.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117002512id_/http%3A//azonautobuilder.com/sales/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azonautobuilder.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528212934id_/http%3A//azonautobuilder.com/sales/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Azon Auto Builder
 
@@ -28,8 +28,8 @@ Users may opt out of the use of the DART cookie by visiting the Google ad and co
 2.) USE OF INFORMATION
 
 Any of the information we collect from you may be used in, but not limited to, the following ways:  
-\- To personalize your experience  
-\- To improve our website
+– To personalize your experience  
+– To improve our website
 
 (a) Identification of Purchasers  
 If you purchase one of our products or services, you authorize us to use your name and identification information in advertising or promotions.
