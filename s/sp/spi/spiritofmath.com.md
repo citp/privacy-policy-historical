@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the spiritofmath.com privacy policy that was archived on 2017-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170925115910id_/https%3A//www.spiritofmath.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiritofmath.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528102403id_/https%3A//www.spiritofmath.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Spirit of Math Schools
-
-##  Privacy Policy - Spirit of Math Schools 
-
-## Privacy Policy
 
 Spirit of Math Schools Inc. (the “Company”) is an after-school enrichment program that operates corporately owned campuses in Canada and the United States and grants franchises for the operation of additional Spirit of Math campuses in Canada. The Company is committed to ensuring the privacy of those who enroll in its program and those who visit its website. The purpose of this Privacy Policy is to tell you what personal information we collect about students and their parents or guardians, how we use it, whether we disclose it to anybody else, how long we keep it, and how you can request access to your personal information or obtain more information about the Company’s privacy policies and procedures.
 
