@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reliancelife.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624110222id_/http%3A//www.reliancenipponlife.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reliancelife.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528232528id_/http%3A//www.reliancenipponlife.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Reliance Life Insurance
 
