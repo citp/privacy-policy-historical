@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postadsdaily.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126213831id_/http%3A//www.postadsdaily.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postadsdaily.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528100028id_/http%3A//postadsdaily.com/privacy.php) for the most accurate reproduction.*
 
 # PostAdsDaily.com > Post Free Ads, get Traffic & Make Money Online!
 
@@ -34,6 +34,9 @@ Links: This web site contains links to other web sites. Please note that when yo
   
 
 
-PostAdsDaily.com is NOT a Pyramid Scheme, MLM or a get-rich-quick program, we are purely an advertising platform. We don't require you to have a website or sell any product to use our service. We do not require you to refer anyone to our site to use our service. You won't get rich by using our internet advertising program. This website uses cookies. Being a member and/or continued use of this website indicates that you accept our cookies policy. We appreciate you being a member, thanks! 
+  
 
-© Copyright 2008-2017 **PostAdsDaily.com** _All Rights Reserved_
+
+PostAdsDaily.com is purely an advertising platform. We are NOT a Pyramid Scheme, MLM or a get-rich-quick program. We do not require you to have a website or sell any product to use our service. We do not require you to refer anyone to our site to use our service. You won't get rich by using our internet advertising program. This website uses cookies. Being a member and/or continued use of this website indicates that you accept our cookies policy. We appreciate you using our site and being a member, thanks! 
+
+© Copyright 2008-2018 **PostAdsDaily.com** _All Rights Reserved_
