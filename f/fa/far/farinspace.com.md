@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farinspace.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122214924id_/http%3A//www.farinspace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farinspace.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528104351id_/http%3A//www.farinspace.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
