@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funcork.com privacy policy that was archived on 2017-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171016175507id_/http%3A//www.funcork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funcork.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528060335id_/http%3A//www.funcork.com/privacy) for the most accurate reproduction.*
 
 # FunCork Privacy Policy
 
