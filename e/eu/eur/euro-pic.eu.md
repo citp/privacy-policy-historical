@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the euro-pic.eu privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503205817id_/http%3A//www.euro-pic.eu/content-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the euro-pic.eu privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529190951id_/http%3A//www.euro-pic.eu/content-privacy.html) for the most accurate reproduction.*
 
-# Euro-pic.eu -
+# DPI 1.1 Final [fastest image hosting script] -
 
 'This Site' is committed to protecting the privacy of the personal information of individuals / users and/or companies who use our services.. 
 
