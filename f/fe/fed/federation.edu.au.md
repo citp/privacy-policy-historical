@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the federation.edu.au privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126163106id_/http%3A//federation.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the federation.edu.au privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529192728id_/http%3A//federation.edu.au/privacy) for the most accurate reproduction.*
 
 # Privacy - Federation University Australia
-
-[Federation University Australia](http://federation.edu.au/) > Privacy 
 
 The following is a general outline of the approach taken by us to privacy issues that arise when you visit our website.  
 
