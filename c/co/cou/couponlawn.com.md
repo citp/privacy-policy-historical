@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponlawn.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223044656id_/http%3A//couponlawn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponlawn.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529183014id_/http%3A//couponlawn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Coupon Lawn
 
