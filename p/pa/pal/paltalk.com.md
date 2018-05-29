@@ -1,126 +1,223 @@
-> *The following text is extracted and transformed from the paltalk.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228033413id_/http%3A//www.paltalk.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paltalk.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529110403id_/http%3A//www.paltalk.com/privacy) for the most accurate reproduction.*
 
-# Paltalk Privacy Policy
+# Privacy Policy | Paltalk
 
-Paltalk is committed to protecting your privacy. We want you to feel free to express yourself within the Paltalk community, and are committed to ensuring that you are in control of what you share with the rest of the community, and with Paltalk.
+**Effective May 25, 2018**
 
-**_Information Collection & Use_**
+Paltalk values our users privacy and protection of their data, we build our apps and operate our business with this in mind.
 
- ** _Registration_**  
-In order to use Paltalk, you must first complete the registration form. During registration you are required to give contact information such as your email address. We use this information to contact you about services on our site in which you have expressed interest. Please see below for Information and Sharing Disclosure.
+Paltalk is a property of PeerStream Inc. who also operates Camfrog, TinyChat, FirstMet, 50more, Ribbit, Pack, Firetalk, and Vumber.  Your services are provided by Peerstream Inc. who also acts as a data controller for your information.
 
-**_Communications from the Site_**
+This privacy policy applies to all of Paltalk’s services.  By using Paltalk you agree to this Privacy Policy as well as our [Terms of Service](http://www.paltalk.com/terms).
 
-  * _Special Offers and Updates_  
-We will occasionally send you information on products, services, special deals, or promotions. Out of respect for your privacy, we present the option not to receive these types of communications. Please see the “Choice and Opt-out.”
-  * _Newsletters_  
-If you wish to subscribe to our newsletter, we will use your email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the “Choice and Opt-out” section.
-  * _Service-related Announcements_  
-We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account.
-  * _Customer Service_  
-Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes.
-  * _Profile_  
-We store information that we collect through cookies, log files, clear gifs, to create a “profile” of your preferences. We tie your personally identifiable information, and your purchasing history, to information in the profile, in order to provide tailored promotions and marketing offers and to improve the content of the site for you. We do not share your profile with other third parties without your consent.
+As part of providing a great experience for you this sometimes requires us to collect personal information from you. We have done our best to give you control and access to your data where possible and we want you to be aware how that data is being used.  This policy will cover:
 
-Paltalk is the sole owner of the information collected on Paltalk.com. Paltalk collects personally identifiable information from our users at several different points on our Web site or through our downloaded software.
-
-  * _Orders_  
-If you purchase a product or service from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and billing address) and financial information (such as credit card number, expiration date).
-
-We use this information for billing purposes and to fill your orders. We will use this information to contact you and confirm your orders.
+  * What information we may collect about you
 
 
+  * What we may do with the information we collect about you;
 
 
-**_Uses of Information_**  
-Paltalk's primary goal in collecting personal information is to provide you, the user, with a customized experience on Paltalk and through our partners. This includes personalization services, interactive communications, and many other types of services, most of which are completely free to you. In order to provide services free of charge, we display advertisements and encourage your participation. By knowing a little about you, Paltalk is able to deliver more relevant advertisements and content, and hence better service, to you.
+  * Whether we share your information with anyone else
 
-In our role of delivering targeted advertisements, Paltalk plays the middleman. Advertisers give us advertisements and tell us the type of audience they want to reach (for example, males over 35 years old). Paltalk displays the advertisement to users meeting the specified criteria. In this process, the advertiser never has access to individual user information. This kind of advertisement targeting is done with banner ads as well as promotional email through Paltalk and its affiliates.
 
-**_Personally identifiable information:_**
+  * How we use cookies on our site
 
-  * _Agents_  
-We use outside credit card processing companies to bill you for Paltalk services. These companies do not retain, share, store or use personally identifiable information for any other purposes.  
-We use outside email delivery systems to contact you and provide you with pertinent information via email. These companies do not retain, share, store or use personally identifiable information for any other purposes.
-  * _Advertising_  
-We use third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit our Web site. These companies may use information (not including personal information such as your name, address email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you.
-  * _Legal Disclaimer_  
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.
 
-_**Choice/Opt-out**_
+  * Where we store your information
 
-We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information.
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or visiting [http://register.paltalk.com/reg/ControllerServlet?RequestId=Register.ShowOptout&src=paltalk](http://register.paltalk.com/reg/ControllerServlet?RequestId=Register.ShowOptout&src=paltalk). You may also contact us at:
+  * How we keep your information secure
 
-Paltalk.com  
-PO Box 7528,  
-New York, NY 10116-7481
 
-Or, please contact our helpful customer support staff online. On the Paltalk buddy list window, click Groups, then Paltalk Help Groups.
+  * Your rights in relation to your information
 
-**_Log Files_**  
-As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
 
-We use this information, which does not identify individual users, to administer the site and to track users' movements around the site.
 
-We do not link this automatically-collected data to personally identifiable information except during special promotions such as free trials when subscription IP addresses are temporarily tied to personally identifiable information.
+At PeerStream Inc. we take your privacy seriously. We operate on the principle that your personal information belongs to you and only you can decide who you want to share it with and why. This is fundamental to the way we work and we’re committed to providing a secure environment for you to store your personal information and share it with others when you want to.
 
- ** _Cookies_**  
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use session ID cookies on this site to maintain your subscription and maintain your account. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser.
+ **INFORMATION YOU VOLUNTARILY PROVIDE**
 
- ** _Clear Gifs_**  
-We employ a software technology called clear gifs that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information.
+To register and interact with members on the site, many times you will be prompted to share information with us to improve your experience while using the product.  Some of the information you may share with us includes:
 
-We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see “Choice and Opt-out.”
+  * User nickname
+  * E-mail address
+  * Address or location information
+  * Birthdate
+  * Gender
+  * Interests
+  * Payment information
+  * Photos
+  * Personal description
+  * Shared social network details
+  * Information to customer support
+  * Mobile Number
+  * Name
+  * Real-time or recorded video and audio
 
- ** _Third Party Advertisers_**  
-The ads appearing on this Web site are delivered to users by a Paltalk proprietary ad serving system. We share Web site usage information about users with reputable third party ad networks for the purpose of targeting our banner advertisements on Paltalk software. 
 
-We use third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit our Web site. These companies may use information (not including personal information such as your name, address email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. 
 
-**_Links to Other Sites_**  
-Paltalk contains links to other sites that are not owned or controlled by Paltalk. Please be aware that we, Paltalk, are not responsible for the privacy practices of such other sites. 
+We primarily use this information to help other users find and connect with you, if you want to update this information you can visit [My Paltalk](https://commerce.paltalk.com/mpt/MyPalTalkHome.jsp) at any time to do so.  If you specifically desire, we will use your social networking data to allow you to create an account with data you have on another site. Your payment information is used when you decide to purchase premium parts of the Service. Information shared with customer support will be used solely to address the issue(s) you have brought to our attention.
 
-We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. 
+ **INFORMATION WE COLLECT ABOUT YOU AND YOUR DEVICE**
 
-This privacy statement applies only to information collected by Paltalk. 
+When you use Paltalk and interact with our services, we may use technology to collect information about your activity.  Some of the data that is collected while using the website and mobile/desktop clients may include:
 
-By visiting this Site, all visitors consent to the collection, maintenance, and processing of their personal and non-personal information in the United States. 
+  * IP address
 
-**_Paltalk Discussion Rooms_**  
-If you use a discussion room on Paltalk, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. 
 
-**_Access to Personally Identifiable Information_**  
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on [http://my.paltalk.com](http://my.paltalk.com/) or by contacting our helpful customer support staff online by clicking Groups on the Paltalk buddy list window, then Paltalk Help. 
+  * Type of browser you use
 
-_**Security**_
 
-The security of your personal information is important to us. When you enter sensitive information such as credit card numbers on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). 
+  * Number of sessions per browser/client on each device
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
 
-Only employees who need the information to perform a specific job are granted access to personally identifiable information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Finally, the servers that we store personally identifiable information on are kept in a secure environment. 
+  * Type of device and operating system
 
-If you have any questions about security on our Web site, you can contact our helpful customer support staff online. On the Paltalk buddy list window, click Groups, then Paltalk Help Groups. 
 
-**_Business Transitions_**  
-In the event Paltalk goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email of any such change in ownership or control of your personal information. 
+  * Referrer information
 
-**_Changes in this Privacy Statement_**  
-If we decide to change our privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
+  * Local language
 
-This statement reflects the privacy policy of Paltalk with respect to the Web site located at www.Paltalk.com (the “Site”). This statement is intended to inform casual visitors of Paltalk, and visitors who participate in Paltalk, of the data collection and use practices of the Site. Amendments to this statement will be posted at this URL and will be effective when posted. Your continued use of this Site following the posting of any amendment, modification, or change shall constitute your acceptance thereof except if your personally identifiable information will be used in a materially different manner. 
 
-**_Contact Us_**  
-If you have any questions or suggestions regarding our privacy policy, please contact us at:
+  * Actions taken while in the client or on the website
 
-Paltalk.com  
-PO Box 7528,  
-New York, NY 10116-7481
 
-Or, by visiting our helpful customer support staff online, on the Paltalk buddy list window, click Groups, then Paltalk Help Groups. 
+  * Device identifiers
 
-**::Top::**
+
+
+We use this information to help tailor your experience for your device/language.  We also use this information to help prevent fraud as well as identify service issues.
+
+ **THIS IS WHAT WE DO WITH THE INFORMATION WE COLLECT ABOUT YOU**
+
+We use the information you provide to us to:
+
+  * Enable us to provide the Services
+
+
+  * Ensure that our apps/website are presented in an effective manner for you and for your device
+
+
+  * Provide you with marketing information about us and our services [Opt out here](https://commerce.paltalk.com/mpt/MyPalTalkHome.jsp)
+
+
+  * Notify you about changes to Paltalk
+
+
+  * Carry out our obligations arising out of the Terms of Service
+
+
+  * Defend our servers against malicious attacks
+
+
+
+We try to be as careful as possible when using your data.  Anywhere we take in personal data or perform actions we feel may be optional or objectionable to you, we will ask for your consent which can also be revoked at a later date.  We are always looking to improve and as we identify data that falls into this category will continue to add new messaging to you so you are always aware of when we take in your data and how we process it.
+
+ **OUR USE OF AGGREGATED AND ANONYMIZED INFORMATION**
+
+We may share anonymized usage data which does not identify you specifically with third parties.  We may combine your data with those of other users of PeerStream Inc. and share this information in aggregated and anonymized form with third parties to help us improve the design and delivery of our software tools, increasing the effectiveness for all users.
+
+ **THIS IS WHO WE SHARE YOUR INFORMATION WITH**
+
+We work with 3rd parties to help with many things including sharing information with you, helping us support you, preventing fraud, protecting our infrastructure, and providing a better experience for you.
+
+We are under a duty to disclose or share your personal data in order to comply with any legal or regulatory obligation or request, and/or to protect the safety of our other users.  
+
+Some of our advertising partners may deploy their own tracking or cookies not administered by PeerStream Inc.  These technologies are subject to our advertisers’ Privacy Policies. You can learn more about this below under the Cookies, Pixels and Local Storage section.
+
+When processing payments third-party processors receive the information needed to verify and authorize your credit card or other payment information and to process your order. In addition, we may disclose information to third parties to verify the authenticity of any financial transaction involving our company or to update your billing information.
+
+Below is a non-exhaustive list of third parties we work with. We may work with third parties not listed below or stop working with the third parties listed below.
+
+  * Facebook
+  * Google
+  * Google Analytics
+  * Flurry
+  * Branch.io
+  * Apsalar
+  * VWO
+  * PostUp
+  * Intercom
+  * Sift Science
+  * Kickbox.IO
+  * Stripe
+  * Avangate
+  * PayPal
+
+
+
+ **OUR USE OF COOKIES, PIXELS AND LOCAL STORAGE**
+
+Cookies are small pieces of data that are stored on your computer, mobile phone or other device.  Pixels are small blocks of code on web pages that do things like allow another server to measure viewing of a web page and are often used in connection with cookies. HTML5 Local Storage is a small database located inside your browser which web pages can use to store data to speed up their processing. We may use all three technologies from time to time to help improve your browsing experience.
+
+Cookies do lots of different jobs, like letting you navigate between pages efficiently, storing your preferences, and generally improving your experience on Paltalk  Cookies make the interaction between you and Paltalk faster and easier. Cookies and other things like local storage also help us authenticate you to deliver personalized content to you.
+
+Please refer to your device’s help material to learn what controls you can use to remove or block cookies.   **Please remember that if you do this, it may affect your ability to use Paltalk**.  As you use your device, you will encounter third parties that make use of cookies and similar technologies.  We are not responsible for those third parties or what they may place on your device or in your browser.
+
+If you are a user who is protected under the European GDPR you have the ability to manage your cookies here.
+
+ **KEEPING INFORMATION SECURE**
+
+The information you provide to us is stored on servers owned and operated by Amazon Web Services, Inc.  More information on this provider is available at[ ](https://aws.amazon.com/)[https://aws.amazon.com](https://aws.amazon.com/).  We use many best practice security measures to keep this data safe including private networking, firewalling, role-based access controls, authentication, backups, and monitoring.  When your data is moved off of our servers for any reason we leverage the best means available to us to make sure your data is secure in transit.
+
+ **HERE ARE YOUR RIGHTS**
+
+We think it is important that you are able to control your personal information.
+
+ _For our European users who are protected by the GDPR:_
+
+You have the right to ask us not to process your personal information for marketing purposes.  You can exercise your right to prevent such processing at any time by contacting us at support@paltalk.com.
+
+The law gives you the right to request a copy of the personal information we hold about you.  We may request additional information about you to verify your identity before we do such. We will supply, correct or delete personal information about you in our files.  In addition, you may request rectification or erasure of personal information as well as the restriction of processing of your personal information. We will comply with your requests in accordance with the applicable law.
+
+If you wish to complain about the processing of your personal information then please contact us first, but if we do not satisfactorily deal with your complaint, then you may contact the Information Commissioner.
+
+ _For our users not covered under GDPR:_
+
+You may contact our support staff [here](https://support.paltalk.com/general) who will work with you to answer questions and take action to protect your privacy.
+
+ **THIRD PARTY PROPERTIES ACCESSED FROM PALTALK**
+
+Paltalk may contain links to and from the online properties of third parties.  If you follow a link to any of these online properties, please note that these online properties have their own privacy policies which will govern the use of any personal information that they process.  Please check these policies carefully before you click on any links and/or submit any personal information to these online properties.
+
+ **CHANGE OF CONTROL**
+
+If the ownership of our business changes, we may transfer your information to the new owner so they can continue to operate Paltalk and provide services.  The new owner will be obliged to comply with this Policy.
+
+ **CHANGES TO OUR POLICY**
+
+Any changes we may make to this Policy will be posted on this page.  Where it makes sense because the changes are material, we will notify you by e-mail or in another appropriate manner such as when you next interact with Paltalk.
+
+ **SURVEYS AND PROMOTIONS**
+
+From time-to-time, we may request information from you via surveys, contests or sweepstakes. Participation is completely voluntary. Information collected in any sweepstakes or contest may be used as set forth in this Policy and as described in the official rules, such as to notify the winners, award prizes, and file winners’ information, as required by law. Survey information will be used for the purposes of the survey.
+
+ **ARBITRATION**
+
+Any disputes under this Privacy Policy will be resolved in accordance with binding arbitration as outlined in the [Terms of Service](http://www.paltalk.com/terms).
+
+ **TARGETING AND TRACKING**
+
+We may use Tracking Technologies to deliver content, including ads, relevant to your interests on the Services and third-party sites based on how you interact with our advertisements or content, and to track the content you access.
+
+To better understand your purchasing preferences, we may also use third-party vendors that provide tracking tools that recognize and collect usage and interest information across the sites you’ve visited from your various Devices. When you visit the Services on a specific Device, a unique ID is created for that Device which may be based on your hashed (de-identified) email address. This allows us and our third party vendors to deliver relevant product recommendations, personalized content and advertising to you based on your interests gathered across multiple sites. This data may be combined with the same information from another browser or Device if you use multiple browsers or Devices. Third party tracking tools might also obtain information about other applications that you have downloaded to your mobile Device, the websites you visit and other information about you or your Device in order to analyze and serve anonymous targeted advertising on the Services and elsewhere.
+
+ **INTERNET ADVERTISING**
+
+We or our advertising partners may use Tracking Technologies to collect Information about your visits over time and across the Services and other third-party websites and combine that information with other information received from other sources, in order to serve more targeted advertising to you. For example, we use Google interest based cookies to serve personalized ads to you. Our ad partners automatically receive your IP address or Device identifier when this happens. Their tools may also limit the number of times you see the same ad and help measure the effectiveness of our advertising campaigns. These third parties may also use information gathered from your use of the Services to serve targeted, interest-based advertisements from other advertisers to you on third-party websites and applications.
+
+The Digital Advertising Alliance (“DAA”) has also made available for consumers tools on which you can register your choices not to be tracked by participating advertising networks or companies in the collection and use of your online activities. These are (1) The DAA [Consumer Choice Page for Mobile Web ](http://www.aboutadsd.info/choices/)(at [http://www.aboutads.info/choices/ ](http://www.aboutads.info/choices/)) and (2) DAA [AppChoices ](http://www.aboutads.info/appchoices)(at <http://www.aboutads.info/appchoices>), which is a mobile app that allows you to opt out of the collection and use of cross-app data, other than for permitted uses, by listed third-party AppChoices participants. You may opt out of mobile-app targeted advertising ads from any or all of the listed participating advertising networks. You can download the free mobile app from an app store available on your mobile platform. When you opt out with a particular participating advertising network, the mobile app adds your device identifier to that participant’s opt-out list. The participant advertising network is then notified to block the device identifiers on the opt-out list.
+
+You can also prevent your receipt of interest-based ads on websites by deleting and declining cookies in your browser(s). Note that your opt-out choice is applied only to the browser from which you make the choice.
+
+Some newer mobile device operating systems allow you to limit the use of information to deliver interest-based advertising in mobile applications, or your mobile web browser may provide a “Do Not Track” browser setting which will notify those ad servers and networks who recognize the signals to refrain from sending you interest-based ads to your mobile device. You can check the settings on your device for such options in your device’s operating system. Alternatively, you may wish to download the TrustE mobile application and/or the Digital Alliance “App Choices” mobile application and follow the instructions provided.
+
+If you opt-out of receiving targeted ads on our Services, you may continue to receive advertising and promotional messages after you opt-out, but they will not be customized or personalized to you based on your use of our Services.
+
+We disclaim the accuracy and reliability of third-party notices and choice mechanisms.  We disclaim responsibility for noncompliance of others.
+
+ **CONTACTING US IS EASY AND WE WANT TO HEAR FROM YOU**
+
+We really do welcome any questions, comments, and requests you may have regarding this Policy.  You can contact us by support@paltalk.com
