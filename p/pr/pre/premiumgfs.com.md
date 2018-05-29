@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premiumgfs.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229121650id_/http%3A//premiumgfs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumgfs.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529145654id_/http%3A//www.premiumgfs.com/privacy.html) for the most accurate reproduction.*
 
 # Premium GFs : The Largest Collection of Girlfriend Porn on the Net!
 
