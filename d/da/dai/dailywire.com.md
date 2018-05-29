@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailywire.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110065338id_/http%3A//www.dailywire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailywire.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529051904id_/https%3A//www.dailywire.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Daily Wire
 
@@ -39,7 +39,7 @@ ATTN: Customer Service
 15021 Ventura Blvd #503  
 Sherman Oaks, CA 91403
 
-OR our [**online form**](http://www.dailywire.com/contact#general)
+OR our [**online form**](https://www.dailywire.com/contact#general)
 
 ### Scope of this Privacy Policy
 
@@ -115,7 +115,7 @@ We will only disclose personally identifiable information that we collect or you
   * To our affiliates and advertising partners to provide you with information that may be relevant to you, including for their own marketing purposes.
   * To fulfill the purpose for which you provide it.
   * To comply with any court order, law or legal process, including to respond to any government or regulatory request.
-  * To enforce or apply our [**Terms of Use**](http://www.dailywire.com/terms-of-use) and other agreements, including for billing and collection purposes.
+  * To enforce or apply our [**Terms of Use**](https://www.dailywire.com/terms-of-use) and other agreements, including for billing and collection purposes.
   * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of FP, our customers, or others.
   * For any other purpose disclosed by us when you provide the information.
   * To third party advertising companies to provide targeted advertisements on the Site.
@@ -126,7 +126,7 @@ With your consent. We may disclose aggregated, non-personally identifiable infor
 
 ### Opt-Out Procedures
 
-If you do not wish to have your contact information shared by FP to third parties to promote their products or services, you can opt out by contacting us [**here**](http://www.dailywire.com/contact#general).
+If you do not wish to have your contact information shared by FP to third parties to promote their products or services, you can opt out by contacting us [**here**](https://www.dailywire.com/contact#general).
 
 If we have sent you a promotional email, you may send us a return email asking to be omitted from future promotional email distributions. This opt-out does not apply to transactional emails regarding your transactions or updates to our policies.
 
@@ -136,7 +136,7 @@ Under California law, a California resident with whom FP has an established rela
 
 FP has opted to provide you with a cost-free means to opt out of such sharing. If you do not want FP to disclose your personal information to other companies for their marketing purposes, please follow the opt-out procedures set forth above.
 
-You may also send an email [**here**](http://www.dailywire.com/contact#general) instructing us to no longer share your personal information with third parties who will use it for their direct marketing purposes. Please also include your name and all of the postal addresses and email addresses that you have provided to us.
+You may also send an email [**here**](https://www.dailywire.com/contact#general) instructing us to no longer share your personal information with third parties who will use it for their direct marketing purposes. Please also include your name and all of the postal addresses and email addresses that you have provided to us.
 
 ### Information Security
 
