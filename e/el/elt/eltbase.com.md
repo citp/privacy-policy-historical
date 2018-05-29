@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eltbase.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125104055id_/http%3A//www.eltbase.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eltbase.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529202058id_/http%3A//www.eltbase.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
@@ -22,6 +22,6 @@ Google AdSense is a program that allows publishers to serve automatic text, imag
 
 • Google, as a third party vendor, uses cookies to serve advertisements on ELTbase.com.
 
-• Google's use of the [**DoubleClick**](https://support.google.com/adsense/answer/2839090?hl=en) cookie enables it and its partners to serve advertisements based on your visits to ELTbase.com. 
+• Google's use of [**cookies**](https://www.google.com/policies/technologies/types/) enables it and its partners to serve advertisements based on your visits to ELTbase.com. 
 
 • You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [**Ads Settings**](https://www.google.com/settings/u/0/ads/authenticated?hl=en). 
