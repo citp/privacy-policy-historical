@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the karelia.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126135407id_/http%3A//www.karelia.com/company/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karelia.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529194644id_/http%3A//www.karelia.com/company/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Karelia Software
 
@@ -70,9 +70,9 @@ If you have a privacy concern regarding any Karelia Product, Site, or Service, o
 
 Karelia Software  
 Attention: Privacy Matters   
-2532 Santa Clara Ave. #273  
-Alameda CA 94501 USA
+340 S. Lemon Ave. #5433  
+Walnut, CA 91789 USA
 
 If you object to any sharing of your personal information that may be permitted under this policy, you may do so by writing us at the above address. We will take reasonable steps to accommodate your requests as they relate to our practices. In some instances, honoring your requests may interfere with or preclude your ability to use Karelia Products, Sites, and Services or may require us to terminate our relationship with you.
 
-Effective Date: December 19, 2005; amended October 6, 2015
+Effective Date: December 19, 2005; amended May 8, 2018
