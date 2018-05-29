@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the priceprice.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125011653id_/http%3A//ph.priceprice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the priceprice.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529213201id_/http%3A//ph.priceprice.com/privacy-policy) for the most accurate reproduction.*
 
 # Priceprice.com - Privacy Policy
 
