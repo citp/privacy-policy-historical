@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jcyberinux.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231000452id_/http%3A//jcyberinux.com/rjdreyes/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jcyberinux.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529031209id_/http%3A//jcyberinux.com/rjdreyes/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Jcyberinux
 
 **Privacy Policy for www.jcyberinux.com**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [rjdreyes001@gmail.com](mailto:rjdreyes001@gmail.com "mail to rjdreyes001@gmail.com").
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [rjdreyes@jcyberinux.com](mailto:rjdreyes@jcyberinux.com "mail to rjdreyes001@gmail.com").
 
 At www.jcyberinux.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.jcyberinux.com and how it is used.
 
