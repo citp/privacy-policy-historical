@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caglecartoons.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126114135id_/http%3A//caglecartoons.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caglecartoons.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529213727id_/http%3A//www.caglecartoons.com/privacypolicy.html) for the most accurate reproduction.*
 
 # CagleCartoons.com - Site Map
 
