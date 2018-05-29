@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aircraftspruce.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126213855id_/http%3A//www.aircraftspruce.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aircraftspruce.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529023652id_/http%3A//www.aircraftspruce.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy from Aircraft Spruce
 
