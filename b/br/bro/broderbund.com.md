@@ -1,151 +1,75 @@
-> *The following text is extracted and transformed from the broderbund.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125001800id_/http%3A//www.broderbund.com/c-18-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broderbund.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529042048id_/http%3A//www.broderbund.com/c-18-privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Broderbund | Official Software Site
 
-**
+**Privacy Statement**
 
-IMPORTANT: PLEASE REVIEW THIS PRIVACY POLICY BEFORE SUBMITTING ANY PERSONAL INFORMATION THROUGH THIS WEB SITE. 
+Encore Software, (Encore), is committed to keeping any and all personal information collected of those individuals that visit our websites and make use of our online facilities and services accurate, confidential, secure and private. Our privacy policy has been designed and created to ensure those affiliated with Encore Software of our commitment and realization of our obligation not only to meet but to exceed most existing privacy standards. 
 
-BY SUBMITTING PERSONAL INFORMATION THROUGH THIS ONLINE STORE, YOU ARE CONSENTING TO THE COLLECTION, USE, TRANSFER, AND DISCLOSURE OF YOUR PERSONAL INFORMATION AS DESCRIBED IN THIS ONLINE PRIVACY POLICY. 
+**Collection of your Personal Information**
 
-This Privacy Policy is effective as of April 27, 2010. 
+Encore Software collects personally identifiable information, such as your e-mail address, name, home or work address and telephone number which is required for processing of orders and trial downloads. Although not required, customer demographic information such as age and gender, may be optionally entered by a customer into their profile, 
 
-Navarre Digital Services, Inc. ("NDSI") Operates This Web site 
+Please rest assured that this site shall only collect personal information that you knowingly and willingly provide by way of surveys, completed membership forms, and emails. It is the intent of this site to use personal information only for the purpose for which it was requested and any additional uses specifically provided on this site. 
 
-**
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Encore Software public message boards, this information may be collected and used by others. Note: Encore Software does not read any of your private online communications. 
 
-This Web site is hosted and operated by NDSI ("NDSI," "we," "us," and "our"), an e-commerce provider and distributor, and its affiliates, including but not limited to Encore Software, Inc., a software publisher. 
+Encore Software encourages you to review the privacy statements of Web sites you choose to link to from Encore Software so that you can understand how those Web sites collect, use and share your information. Encore Software is not responsible for the privacy statements or other content on Web sites outside of the Encore Software and Encore Software family of Web sites. 
 
-**Scope of This Privacy Policy**
+**Use of your Personal Information**
 
-This Privacy Policy (this "Privacy Policy") describes how NDSI protects your privacy when you use this Web site. 
+Encore Software collects and uses your personal information to operate the Encore.com, Broderbund.com, PunchSoftware.com, PunchCAD.com and Viva-Media.com websites and deliver the services you have requested. Encore Software also uses your personally identifiable information to inform you of other products or services available from Encore Software and its affiliates. Encore Software may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered. 
 
-This Privacy Policy applies only to personal information collected through NDSI's Web sites. "Personal information" means information that identifies you personally, either alone or in combination with other information available to us. 
+Encore Software does not sell, rent or lease its customer lists to third parties. Encore Software may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Encore Software may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Encore Software, and they are required to maintain the confidentiality of your information. 
 
-**Privacy Notices**
+Encore Software does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent. 
 
-This Privacy Policy may be supplemented or amended from time-to-time by "Privacy Notices" posted on this Web site. These Privacy Notices provide a level of detail that we cannot provide in this more general description of our privacy practices. 
+Encore Software keeps track of the Web sites and pages our customers visit within Encore Software, in order to determine what Encore Software services are the most popular. This data is used to deliver customized content and advertising within Encore Software to customers whose behavior indicates that they are interested in a particular subject area. 
 
-**Country-Specific Notices**
+Encore Software Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Encore Software or the site; (b) protect and defend the rights or property of Encore Software; and, (c) act under exigent circumstances to protect the personal safety of users of Encore Software, or the public. 
 
-Privacy requirements vary from country to country. To meet these requirements, we have included certain "Country-Specific Notices" as part of this Privacy Policy. You may locate the Country-Specific Notice for your country, if there is one, by scrolling to the end of this Privacy Policy. 
+**Children Under Age of 13**
 
-**This Privacy Policy May Change**
+Encore Software does not knowingly collect personal identifiable information from children under the age of thirteen (13) without verifiable parental consent. If it is determined that such information has been inadvertently collected on anyone under the age of thirteen (13), we shall immediately take the necessary steps to ensure that such information is deleted from our system's database. Anyone under the age of thirteen (13) must seek and obtain parent or guardian permission to use this website. 
 
-We reserve the right to update or modify this Privacy Policy, at any time and without prior notice, by posting the revised version of this Privacy Policy on this Web site. These changes will only apply to personal information we collect after we have posted the revised Privacy Policy. Your use of this Web site following any such change constitutes your agreement that all personal information collected from or about you through this Web site after the revised Privacy Policy is posted will be subject to the terms of the revised Privacy Policy. 
+**Unsubscribe or Opt-Out**
 
-To alert you to these changes, we will update the effective date of this Privacy Policy. We will also provide a notice at the top of this Privacy Policy for at least 30 days after the new effective date and highlight the changes so that you can locate them easily. Unless the change is a minor change (such as a change in our contact information) or a non-substantive change (such as the reformatting of our Privacy Policy), we will post notices on the page where you submit your order and/or on other relevant pages of this Web site for 30 days after the new effective date to alert you to the change. 
+All users and/or visitors to our website have the option to discontinue receiving communication from us and/or reserve the right to discontinue receiving communications by way of email or newsletters. To discontinue or unsubscribe to our website please send an email that you wish to unsubscribe to unsubscribe@encore.com. If you wish to unsubscribe or opt-out from any third party websites, you must go to that specific website to unsubscribe and/or opt-out. 
 
-**Children's Privacy**
+**Updating and correcting your Encore.com Account**
 
-Our Web site is not directed at nor targeted to children. No one under the age of majority in his or her country may register on or use this Web site unless supervised by an adult. Since we require a credit card for purchases, we intend and reasonably presume that any financial transactions occurring on our site are transacted by or with the permission of the adult cardholder. 
+When you log into your account on Encore.com, Broderbund.com, PunchSoftware.com, PunchCAD.com or Viva-Media.com, you can access, update and correct some of the Personal Data that we use to authenticate you including, your name, email and contact details. Please note that the changes you make in your customer account will be reflected in our active customer database but we may retain any information you submit for any reason we reasonably believe we have a legitimate reason such as backups, archiving, legal obligations, fraud and abuses detection and license history. 
 
-We do not use our Web site to knowingly solicit personal information from or market to anyone under the age of majority in his or her country. We comply with applicable laws and regulations relating to collection and use of information from children, including the Children's On-line Privacy Protection Act of the United States and other applicable laws or regulations. If you believe that we have received information from a child or other person protected under such laws, please notify us immediately by email at [legal@encoreusa.com](mailto:legal@encoreusa.com) and we will take reasonable steps to remove that information from our databases promptly. 
+**Use of Cookies**
 
-**What Personal Information Do We Collect Through this Web site?**
+Encore Software’s websites use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. 
 
-_Information You Volunteer_. We collect the personal information you knowingly and voluntarily provide when you use this Web site, for example, the information you provide when you request information about products or services. This information may include your name, street and e-mail address, phone number, credit card information, and information used to verify your identity or to prevent fraud. Please note that your credit card information is merely passed through our servers en route to the applicable financial institution or "gateway" provider by us, in encrypted form, and is not viewed, used in any other way, nor stored by us. 
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Encore Software pages, or register with Encore Software site or services, a cookie helps Encore Software to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Encore Software website, the information you previously provided can be retrieved, so you can easily use the Encore Software features that you customized. 
 
-_Information Sent to Us by Your Web Browser_. We collect information that is sent to us automatically by your web browser. This information typically includes your IP address, the address of the web page you were visiting when you accessed this Web site, the name of your operating system (such as Windows® or Macintosh®), the name and version of your browser (such as Internet Explorer®), and the date and time of your visit. The information we receive depends on the settings on your web browser. Please check your browser if you want to learn what information your browser sends or how to change your settings. 
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Encore Software services or Web sites you visit. 
 
-The information provided by your browser does not identify you personally. We use this non-personal information primarily to create statistics that help us improve the NDSI Web sites and make them more compatible with the technology used by our visitors. However, if you have created a user identity on one of your visits to this Web site, we may link the information provided by your browser to information that identifies you personally and use it for the purposes described below. In addition, we may review our server logs for security purposes, such as detecting intrusions into our network. If we suspect criminal activity, we might share our server logs -- which contain visitors' IP addresses -- with the appropriate investigative authorities who could use that information to trace and identify individuals. 
+Note on Google Analytics and Cookies \- While some of the cookies we use are required to use (see above), you can opt out from the collection by Google Analytics of navigation information during your visits to our Websites. To do so, use the Google Analytics Opt-out feature available from Google. 
 
-_Information Collected Using "Cookies" and Other Web Technologies_. We use "cookies," and similar technologies, such as Web Beacons (also referred to as "tracking pixels," or "action tags"), to collect personal information and support the functionality of this Web site. For more information about our use of cookies and Web Beacons, see below. 
+**Mobile Devices**
 
-**Cookies and Web Beacons**
+Due to differences between apps and websites on mobile devices, you may need to take additional steps to disable tracking technologies in mobile apps. Many mobile devices allow you to opt-out of targeted advertising within the Settings area of the device. 
 
-_Cookies and Web Beacons_. A "cookie" is a small text file that is transferred to your computer by our Web server. We may use two types of cookies -- "session cookies" and "persistent cookies." 
+**Security of your Personal Information**
 
-_Session Cookies_. A "session cookie" is a temporary cookie that expires when you close your browser. A session cookie assigns a randomly-generated, unique identification number to your computer when you access one of our Sites. Assigning your computer a number facilitates the proper functioning of the features of our Web sites, by permitting us to maintain a persistent "state" for your session, such as, maintaining the contents of your shopping basket during checkout. We also use session cookies to collect information about the ways visitors use this Web site - which pages they visit, which links they use, and how long they stay on each page. We analyze this information (known as "click-stream information") to better understand our visitors' interests and needs and to improve the content and functionality of this Web site. 
+Encore Software secures your personal information from unauthorized access, use or disclosure. Encore Software secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol. 
 
-Session cookies do not contain your personal information. If, however, you have created a user identity on one of your visits to this Web site, we may link the session cookie identification number to information that identifies you personally. 
+**Changes to this Statement**
 
-_Persistent Cookies_. When you visit this Web site, we may place one or more "persistent cookies" on your computer. Unlike a "session cookie," a persistent cookie does not expire when you close your browser. It stays on your computer until it expires (for example, at the end of the calendar year) or until you delete it. 
+Encore Software will occasionally update this Statement of Privacy to reflect company and customer feedback. Encore Software encourages you to periodically review this Statement to be informed of how Encore Software is protecting your information. 
 
-Some persistent cookies simply "tag" your computer so that the next time you visit (or someone using your computer visits), our server will recognize you, not by name, but by the "tag" on your computer. This will enable us to provide you with a personalized experience and, in some cases, may save you the trouble of re-entering information already in our database. It will also allow us to collect more accurate information about the ways people use this Web site, for example, how people use this Web site on their first visit and how often they return. If, at some point, you create a user identity, we may link the information collected by these persistent cookies to information in our database that identifies you personally. We may also transfer this information to a cookie and place it on your computer's hard drive so that our web server can read this information each time you visit this Web site. 
+**Contact Information**
 
-If you do not wish to receive cookies, you may set your browser to reject cookies or to alert you when a cookie is placed on your computer. You may also delete our cookies as soon as you leave our Web site. Although you are not required to accept our cookies, if you set your browser to reject cookies, you will not be able to use all of the features and functionality of this Web site. For example, you will not be able to purchase products and services on this Web site. 
+Encore Software welcomes your comments, questions and any complaints regarding this Privacy Statement and how your Personal data is handled. For these, please direct your inquiry to: 
 
-_Web Beacons_. Web beacons (also referred to as "tracking pixels" or "action tags") are graphic images, usually no larger than 1 pixel x 1 pixel, placed at various locations on our Site. Web beacons help us recognize the cookies on your browser. Like cookies, Web beacons help us collect information about the ways visitors use our Sites. They also help us identify browser types, IP addresses, search terms that bring visitors to our Sites, and the domain names of the Web sites that refer traffic to us. The information collected by Web beacons does not identify you personally. However, if you have created a user identity on one of your visits to this Web site, for example, by making a purchase, we may link the information we collect using Web beacons to the information that identifies you personally and use it in the same ways as we use the information we collect using cookies. Lastly, we utilize web beacons to provide us with more information on any emails we send out, in particular, the web beacons will send us information to let us know that you have received and opened any e-mail you have chosen to receive from us. 
+Encore Software, LLC
 
-**How Do We Use Your Personal Information?**
+Attention: Customer Service
 
-NDSI uses the personal information we collect on this Web site: 
+222 3rd Avenue SE, Suite 507 Cedar Rapids, Iowa 52401
 
-  * to take, process or deliver your order, process or obtain payment, or notify you of the status of your order;
-  * in connection with keys, access codes or other information as may be required to permit you to receive products, updates or services;
-  * for lead and additional revenue generation;
-  * for security, credit or fraud prevention purposes;
-  * to register your purchase with the manufacturer or service provider for warranty, technical support or similar purposes;
-  * to facilitate the renewal of subscriptions for products or services;
-  * to provide you with effective customer service and/or technical support;
-  * to provide you with a personalized shopping experience;
-  * to provide you, with your consent, with product updates and upgrades, special offers, pricing information, newsletters, and any other information you request;
-  * to undertake, with your consent, any other promotional activities; and
-  * to improve this Web site, the customer experience, and related products or services.
-
-
-
-We may remove all of the information that identifies you specifically and use the rest for historical, statistical or scientific purposes. 
-
-**With Whom Do We Share Your Personal Information?**
-
-_Our Service Providers_. NDSI employs other companies, including our affiliates, to provide services to us or on our behalf. For example, we may use other companies to maintain this Web site, to process credit card payments, detect and prevent fraud, deliver packages, send mail or e-mail, or provide customer service. These companies are required by contract to use the personal information we share with them only to perform services to us or on our behalf and to protect the confidentiality of your personal information. 
-
-_As Disclosed in a Privacy Notice_. We may share specific personal information as disclosed in a specific Privacy Notice posted on the page or area of this Web site where you provided that information. 
-
-_For Third Party Marketing_. We will not share your personal information with our marketing partners or other third parties to use for their own marketing purposes without your consent. However, if you have "opted-in" to receive third party promotional e-mails or other information, we may provide your personal information (but never your credit card information) to marketing partners. In that event, the partner's privacy policy will govern how that partner uses and protects your personal information. If you do not wish your personal information to be shared in this manner, you may unsubscribe by following any unsubscribe link in our emails. Please note, however, if you give us permission to add your contact information to a partner's mailing list and later withdraw your permission, you will have to contact that partner (or use the "opt-out" provided in the e-mails our partner sends you) to have your name removed from the partner's mailing lists. 
-
-_To Comply With Legal Requirements, Cooperate With Law Enforcement, Prevent Fraud and Other Crimes, and Protect Legal Rights, Property, You and Others_. There are other limited circumstances in which we may share the personal information in our databases with unrelated third parties. For example, we may disclose the personal information we collect on this Site without notifying you when we, in good faith, believe disclosure is appropriate to comply with the law or a regulatory requirement; to comply with a subpoena or court order; to cooperate with law enforcement or other governmental investigations (without necessarily requiring the law enforcement or government agency requesting the information to formally serve us with a subpoena); to prevent or investigate a possible crime, such as fraud or identity theft; to enforce a contract; to protect the legal rights, property or safety of NDSI, our affiliates, our employees, agents, other users or the public in general or to protect your vital interests. We also reserve the right to report to appropriate law enforcement or government agencies any activities that we, in good faith, believe to be unlawful without providing notice to you. 
-
-_In Connection With Corporate Events_. We may transfer your personal information to another company (either an affiliate of NDSI or an unrelated third party) that has acquired the stock or assets of NDSI, one of our affiliates, or one of our operating divisions, for example, as the result of a sale, merger, reorganization, insolvency, dissolution or liquidation. If such a transfer occurs, the acquiring company's use of your personal information will still be subject to this Privacy Policy, any applicable Privacy Notices, and the privacy preferences you have expressed to us. 
-
-**Your Choices**
-
-NDSI respects your right to make choices about the ways we collect, use and disclose your personal information. We generally ask you to indicate your choices at the time and on the page where you provide your personal information. 
-
-When you provide personal information, we may offer you a choice as to whether you would like to receive further communications from us about certain updates, upgrades, special offers and pricing. We may also ask if you would like to be added to our partners' mailing lists. You have the right to withdraw your consent at any time. If you decide you no longer want to receive promotional messages from us, you may let us know by following any unsubscribe link in our emails. Please note, however, if you give us permission to add your contact information to a partner's mailing list and later withdraw your permission, you will have to contact that partner (or use the "opt-out" provided in the e-mails our partner sends you) to have your name removed from the partner's mailing lists. 
-
-**How Can You Access and Correct Your Personal Information?**
-
-We strive to maintain the accuracy and integrity of the personal information in our databases and to keep that information up-to-date. We provide ways for you to access your personal information as required by applicable law, so that you can correct inaccuracies or update your personal information. 
-
-If you would like to review, correct or challenge your personal information, please log in to your account on [broderbund.com](https://web.archive.org/web/20171125001800id_/http%3A//www.broderbund.com/signin.aspx). 
-
-We will respond to reasonable requests within the time limits established by applicable law or within a reasonable time if no time limit is established by applicable law. For your protection, we may ask you for additional information to verify your identity. In most cases, we will provide the access you request and correct or delete any inaccurate personal information you discover. We reserve the right, however, to limit or deny your request to the extent permitted by applicable law if: 1) the disclosure may harm the life, the body, the property and the rights of third parties, 2) the disclosure may lead to a breach of applicable law and regulation, or 3) where you have failed to provide sufficient evidence to verify your identity. 
-
-**How Do We Protect Your Personal Information?**
-
-We have industry standard measures in place to protect the security of the personal information we collect through this Web site. 
-
-It is important that you understand, however, that no Web site or database is completely secure or "hacker proof." You are also responsible for taking reasonable steps to protect your personal information against unauthorized disclosure or misuse, for example, by protecting your password. 
-
-**Where Will Your Personal Information be Processed?**
-
-NDSI is a U.S. Corporation with offices at 7400 49th Avenue North 
-
-Minneapolis, MN 55428, U.S.A. Most NDSI Sites or Stores are currently hosted on servers located within the United States or Canada, but the locations of our servers may change from time to time. 
-
-In addition, NDSI may transfer your personal information to its partners, service providers, product manufacturers, licensers, suppliers, and others located in the United States or another country for the purposes as described in this Privacy Policy. 
-
-Different countries have different privacy laws and requirements. Please know, however, that no matter where your personal information is collected, used, transferred or stored, if it was collected through this Web site, it will be protected by the terms of this Privacy Policy and any Privacy Notices that apply to you. 
-
-BY SUBMITTING YOUR PERSONAL INFORMATION TO US THROUGH THIS WEB SITE, YOU ARE CONSENTING TO THE PROCESSING OF YOUR PERSONAL INFORMATION IN THE UNITED STATES OR IN ANY OTHER COUNTRY IN THE WORLD. 
-
-**How Long Do We Retain Your Personal Information?**
-
-We keep your personal information only as long as we need it for the purposes for which it was originally collected (or to which you have subsequently consented) or for other legitimate purposes (such as regulatory compliance), or as permitted by applicable law. 
-
-**Links to Other Web Sites**
-
-This Web site contains links to other Web sites operated by NDSI and its affiliates. This Web site may also contain links to Web sites that are owned and operated by unrelated third parties. 
-
-This Privacy Policy applies only to personal information collected through the NDSI Web sites, that is, the NDSI Web sites on which this Privacy Policy is posted. It does not apply to personal information collected on any other Web site operated by NDSI, nor to personal information collected on our partners', service providers' or any other Web sites. When you access other Web sites through a link on this Web site, please take a few minutes to review the terms of use and privacy statement posted on each Web site you visit. 
-
-**Governing Law**
-
-This Privacy Policy and our Privacy Notices are governed by the laws of the State of Minnesota, United States of America, without regard to its conflict of law principles. 
-
-**Questions Concerning Our Privacy Practices**
-
-If you have any questions, comments, or concerns regarding this Privacy Policy or our privacy practices, please contact us by email at [legal@encoreusa.com](mailto:legal@encoreusa.com). 
+Tel: 763-450-2466  email: legal@encore.com
