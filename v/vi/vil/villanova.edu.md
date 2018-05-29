@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the villanova.edu privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127151941id_/http%3A//www1.villanova.edu/villanova/unit/about/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the villanova.edu privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529205129id_/http%3A//www1.villanova.edu/villanova/unit/about/policies/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Villanova University
 
 #### 1\. Purpose 
 
