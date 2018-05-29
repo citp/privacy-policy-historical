@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hosting.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122230900id_/http%3A//www.hosting.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hosting.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529235333id_/https%3A//www.hosting.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HOSTING Managed Cloud Services
 
@@ -6,9 +6,9 @@ At Hosting.Com, Inc. (“HOSTING”) we respect your privacy and know that you c
 
 This Privacy Policy discusses how HOSTING collects, uses, maintains, and discloses information collected from our customers, visitors to our websites, individuals who contact us, and visitors to our customers’ websites (“Users”).
 
-Please review this Privacy Policy in conjunction with our Acceptable Use Policy (“AUP”) and the rest of your contract with us. The terms of this Privacy Policy are in addition to the terms of our AUP and the rest of your contract. We offer products and services that are provided by third parties (“Third Party Products”). These Third Party Products may collect and use information in ways that differ from those set out in this Privacy Policy. We have no responsibility for how these third parties treat your information; however, if we have access to their privacy policies, we will provide them to you on your request.
+Please review this Privacy Policy in conjunction with our Acceptable Use Policy (“AUP”) and any other contract you may have with us. The terms of this Privacy Policy are in addition to the terms of our AUP and the rest of your contract. We offer products and services that are provided by third parties (“Third Party Products”). These Third Party Products may collect and use information in ways that differ from those set out in this Privacy Policy. We have no responsibility for how these third parties treat your information; however, if we have access to their privacy policies, we will provide them to you on your request.
 
-We collect information from Users in many ways. The purpose of this Privacy Policy is to provide Users with an understanding of what types of information we collect, how we treat it, and choices they may have related to this information. We reserve the right to change our Privacy Policy at any time. To stay updated on our current Privacy Policy, please visit this page often. If you have a question about how a certain type of information is handled, please e-mail us at: [support@hosting.com](mailto:support@hosting.com).
+We collect information from Users in many ways. The purpose of this Privacy Policy is to provide Users with an understanding of what types of information we collect, how we treat it, and choices they may have related to this information. We reserve the right to change our Privacy Policy at any time. To stay updated on our current Privacy Policy, please visit this page often. If you have a question about how a certain type of information is handled, please e-mail us at: [support@hosting.com](mailto:support@hosting.com). If you have requests in regards to GDPR as it pertains to the Rights of a Data Subject please email [dataprotection@Hosting.com](mailto:dataprotection@Hosting.com).
 
 ### Information That We Collect
 
@@ -21,7 +21,16 @@ Surveys – Users may be offered the opportunity to respond to surveys, questio
 
 Statistical Information – All of our servers collect statistical information such as Users’ addresses, dates Users visit, computers Users are using, operating system, and other similar types of data (“Statistical Information”).
 
-Cookies – Our website uses cookies. These data files are read by our server to determine Users have visited our site before, how often, the length of time, and which pages Users view. The equipment we use to provide Services to Users may also place cookies on their computers.
+**Cookies** – Our website uses cookies. These data files are read by our server to determine whether Users have visited our site before, how often, the length of time and which pages Users view. The equipment we use to provide Services to Users may also place cookies on their computers. You may stop the use of tracking cookies by clicking the Opt-out button below. To allow cookies, click Opt-in. 
+
+_Even after opting-out, some cookies are still required for basic site functionality (for example, hiding notifications that have already been acknowledged). These basic cookies contain no identifying information and do not track visit data in any way._  
+**Cookies used on the Hosting.com website are:**
+
+  * Google Analytics: Tracks page visitation data using a client ID Google Analytics tracks Customer number and internal IDs for the user and session.
+  * BrightInfo: Tracks user activity on our webpages to provide more targeted content through advertising pop-ups.
+  * Marketo: Tracks all individuals who visit HOSTING website to associate web visits with our automated marketing campaigns. Visitors IP addressed and other information are tracked by Marketo.
+
+
 
 Tracking Software – We may use software designed to track responses to our advertisements, other promotional activity, and movement throughout our site (“Tracking Software”). Tracking Software includes software such as web beacons and software used by our advertising partners.
 
@@ -46,4 +55,4 @@ information that when combined with other information we have collected, will en
 
 Information collected by the technologies described in this Privacy Policy is protected by SSL 128 bit encryption technology during transmission. Information kept by us in our business is protected using industry standard security measures. Though we reserve the right to keep the information covered in this Privacy Policy indefinitely, our employees are required to keep this information confidential – unless disclosure is authorized in this Privacy Policy or by Users. No means of communication, information transmission, or storage is totally secure. Because of this we are not responsible for loss corruption or unauthorized acquisition and use of information covered by this Privacy Policy, or for any resulting damages, including unauthorized acquisition and use.
 
-v2 (02-20-15)
+v3 (04-27-18)
