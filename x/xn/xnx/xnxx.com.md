@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the xnxx.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230000519id_/https%3A//www.xnxx.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xnxx.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530012811id_/http%3A//www.xnxx.com/privacy_policy) for the most accurate reproduction.*
 
 # XNXX.COM - Privacy policy
 
-We, **NKL Associates, s.r.o.** , a company registered and existing under the laws of the Czech Republic, with registration number 023 30 482 having its registered seat at Krakovska 1366/25, 110 00 Prague 1, CZECH REPUBLIC, are operating Xnxx.com and are the responsible data controller in the sense of Article 2 (b) of European Directive 95/46/EC. See here <http://www.xnxx.com/contact> for further contact information. We are processing personal data only in accordance with this Privacy Policy.
+We, **NKL Associates, s.r.o.** , a company registered and existing under the laws of the Czech Republic, with registration number 023 30 482 having its registered seat at Krakovska 1366/25, 110 00 Prague 1, CZECH REPUBLIC, are operating Xnxx.com and are the responsible data controller in the sense of Article 2 (b) of European Directive 95/46/EC. See here <https://www.xnxx.com/contact> for further contact information. We are processing personal data only in accordance with this Privacy Policy.
 
 ### 1\. Use of personal data
 
@@ -74,7 +74,7 @@ Note that all data is kept in a secure environment on our main servers located i
 
 We protect personal data by using appropriate safeguard procedures and measures such as:
 
-  * SSL encryption – you can reach our SSL protected website under <http://www.xnxx.com/>;
+  * SSL encryption – you can reach our SSL protected website under <https://www.xnxx.com/>;
   * Access limitation to authorized persons;
   * Regular backups.
 
@@ -82,11 +82,11 @@ We protect personal data by using appropriate safeguard procedures and measures 
 
 ### 4\. User’s rights
 
-Any registered or unregistered user, may, at any time, demand information on or correction and deletion of their personal data that is stored and may object to any processing of personal data on <http://www.xnxx.com/contact>.
+Any registered or unregistered user, may, at any time, demand information on or correction and deletion of their personal data that is stored and may object to any processing of personal data on <https://www.xnxx.com/contact>.
 
 A user with an account may, at any time, correct or delete his information directly by using the corresponding interface in his profile.
 
-If a user desires to terminate his Xnxx account he can do so by contacting us under <http://www.xnxx.com/contact>. Upon termination all personal data retained will be immediately and permanently removed from our servers.
+If a user desires to terminate his Xnxx account he can do so by contacting us under <https://www.xnxx.com/contact>. Upon termination all personal data retained will be immediately and permanently removed from our servers.
 
 ### 5\. Communication
 
