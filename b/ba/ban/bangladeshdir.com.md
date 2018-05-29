@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bangladeshdir.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124233824id_/http%3A//www.bangladeshdir.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangladeshdir.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529035449id_/http%3A//www.bangladeshdir.com/privacy-policy) for the most accurate reproduction.*
 
 # Bangladesh Directory Privacy Policy - bangladeshdir.com
 
