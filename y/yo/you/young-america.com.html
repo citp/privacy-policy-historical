@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the young-america.com privacy policy that was archived on 2017-11-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171126205038id_/http%3A//www.yaengage.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the young-america.com privacy policy that was archived on 2018-05-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180529175449id_/http%3A//yaengage.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><!--<![endif]--><head>
 		<meta charset="utf-8">
@@ -38,9 +38,12 @@
 <!-- / Yoast SEO Premium plugin. -->
 
 <link rel="dns-prefetch" href="//s.w.org">
-<!-- This site uses the Google Analytics by MonsterInsights plugin v6.2.4 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.0.6 - Using Analytics tracking - https://www.monsterinsights.com/ -->
 <script type="text/javascript" data-cfasync="false">
-		var disableStr = 'ga-disable-UA-9773509-2';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-9773509-2';
 
 	/* Function to detect opted out users */
 	function __gaTrackerIsOptedOut() {
@@ -57,14 +60,60 @@
 	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
 	  window[disableStr] = true;
 	}
+	
+	if ( mi_track_user ) {
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
 
-	__gaTracker('create', 'UA-9773509-2', 'auto');
-	__gaTracker('set', 'forceSSL', true);
-	__gaTracker('send','pageview');
+		__gaTracker('create', 'UA-9773509-2', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
 </script>
 <!-- / Google Analytics by MonsterInsights -->
 		<script type="text/javascript">
@@ -86,7 +135,7 @@ img.emoji {
 }
 </style>
 <link rel="stylesheet" id="cpsh-shortcodes-css" href="/wp-content/plugins/column-shortcodes//assets/css/shortcodes.css?ver=1.0" type="text/css" media="all">
-<link rel="stylesheet" id="contact-form-7-css" href="/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9.1" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.1" type="text/css" media="all">
 <link rel="stylesheet" id="es-widget-css-css" href="/wp-content/plugins/email-subscribers/widget/es-widget.css?ver=4.8.1" type="text/css" media="all">
 <link rel="stylesheet" id="page-list-style-css" href="/wp-content/plugins/page-list/css/page-list.css?ver=5.1" type="text/css" media="all">
 <link rel="stylesheet" id="bootstrap-css" href="/wp-content/themes/YoungAmerica1/library/css/bootstrap.css?ver=1.0" type="text/css" media="all">
@@ -148,7 +197,7 @@ window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overl
         r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
         a.appendChild(r);
     })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
-</script><script async="" src="//static.hotjar.com/c/hotjar-466169.js?sv=5"></script><!-- <meta name="NextGEN" version="2.2.14" /> -->
+</script><script async="" src="//static.hotjar.com/c/hotjar-466169.js?sv=5"></script><!-- <meta name="NextGEN" version="2.2.54" /> -->
 		<!-- end of wordpress head -->
 
 		<link rel="stylesheet" href="/wp-content/themes/YoungAmerica1/css/styles.css" type="text/css" media="screen">
@@ -156,7 +205,9 @@ window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overl
 		<link rel="stylesheet" href="/wp-content/themes/YoungAmerica1/css/jquery.bxslider.css" type="text/css" media="screen">
 		<script type="text/javascript" src="/wp-content/themes/YoungAmerica1/js/jquery-1.11.2.min.js"></script>
 		<script type="text/javascript" src="/wp-content/themes/YoungAmerica1/js/jquery.bxslider.min.js"></script>
-		
+		<!-- Start of HubSpot Embed Code -->
+<script type="text/javascript" id="hs-script-loader" async="" defer="" src="//js.hs-scripts.com/4440998.js"></script>
+<!-- End of HubSpot Embed Code -->
 		
 	</head>
 	
@@ -203,7 +254,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<li id="menu-item-42" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://yaengage.com/category/news/">News</a></li>
 </ul>
 </li>
-<li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://yaengage.com/contact/">Contact</a></li>
+<li id="menu-item-3133" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://info.yaengage.com/contactYA">Contact</a></li>
 <li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://yaengage.com/careers/">Careers</a></li>
 <li id="menu-item-43" class="last menu-item menu-item-type-custom menu-item-object-custom"><a target="_blank" href="http://reporting.young-america.com">Client Login</a></li>
 <li id="menu-item-2233" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://yaengage.com/ya-canada-accessibility/">Canadian Accessibility</a></li>
@@ -349,9 +400,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		          <div id="widget-footer" class="clearfix">
                   <div class="row">
 		            <div id="category-posts-2" class="widget col-md-3 col-sm-12 col-xs-12 cat-post-widget"><h4 class="widgettitle">Recent News</h4><ul id="category-posts-2-internal" class="category-posts-internal">
-<li class="cat-post-item"><a class="post-title cat-post-title" href="http://yaengage.com/twin-cities-executive-survey-finds-critical-need-data-analytics-marketing-points-reasons-companies-arent-along-digital-transformation/" rel="bookmark">Twin Cities Executive Survey Finds Critical Need for Data and Analytics in Marketing and Points to Reasons Why Companies Aren’t Further Along in Digital Transformation</a> </li><li class="cat-post-item"><a class="post-title cat-post-title" href="http://yaengage.com/marketing-execs-bullish-new-talent-focused-digital-tools/" rel="bookmark">YA Featured in Twin Cities Business Magazine September 2017: Marketing Execs Bullish on New Talent, Focused on Digital Tools</a> </li></ul>
+<li class="cat-post-item"><a class="post-title cat-post-title" href="http://yaengage.com/ya-featured-in-human-resource-executive-magazine/" rel="bookmark">YA Featured in Human Resource Executive Magazine</a> </li><li class="cat-post-item"><a class="post-title cat-post-title" href="http://yaengage.com/drink-ya-survey-finds-majority-respondents-will-enjoy-adult-beverages-st-patricks-day/" rel="bookmark">Drink Up: YA Survey Finds Majority of Respondents Will Enjoy Adult Beverages this St. Patrick’s Day</a> </li></ul>
 </div>                    <div id="category-posts-3" class="widget col-md-3 col-md-offset-1 col-sm-12 col-xs-12 cat-post-widget"><h4 class="widgettitle">YA Blog</h4><ul id="category-posts-3-internal" class="category-posts-internal">
-<li class="cat-post-item"><a class="post-title cat-post-title" href="http://yaengage.com/giving-thanks-successful-year/" rel="bookmark">Giving thanks for a successful year</a> </li><li class="cat-post-item"><a class="post-title cat-post-title" href="http://yaengage.com/build-faster-better-rebate-program/" rel="bookmark">How to build a faster—and better—rebate program</a> </li></ul>
+<li class="cat-post-item"><a class="post-title cat-post-title" href="http://yaengage.com/highlights-ana-brand-activation-conference-part-iii/" rel="bookmark">Highlights from ANA Brand Activation Conference, Part III</a> </li><li class="cat-post-item"><a class="post-title cat-post-title" href="http://yaengage.com/highlights-ana-brand-activation-conference-part-ii/" rel="bookmark">Highlights from ANA Brand Activation Conference, Part II</a> </li></ul>
 </div>		            <div id="text-3" class="widget col-md-3 col-md-offset-1 col-sm-12 col-sm-offset-0 col-xs-12 col-xs-offset-0 widget_text"><h4 class="widgettitle">Get in Touch</h4>			<div class="textwidget"><div class="git">
 <img src="/wp-content/uploads/2014/07/Phone.png" align="left" style="margin-right:15px;">
 <div>1-800-533-4529</div>
@@ -403,7 +454,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"false","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"","home_url":"http:\/\/yaengage.com","track_download_as":"event","internal_label":"int","hash_tracking":"false"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=6.2.4"></script>
+<script type="text/javascript" src="/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.0.6"></script>
 <script type="text/javascript" src="http://yaengage.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
 <script type="text/javascript" src="http://yaengage.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
 <script type="text/javascript" src="/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.0"></script>
@@ -412,7 +463,7 @@ var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"fal
 var wpcf7 = {"apiSettings":{"root":"http:\/\/yaengage.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
 /* ]]> */
 </script>
-<script type="text/javascript" src="/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.9.1"></script>
+<script type="text/javascript" src="/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var es_widget_notices = {"es_email_notice":"Please enter email address","es_incorrect_email":"Please provide a valid email address","es_load_more":"loading...","es_ajax_error":"Cannot create XMLHTTP instance","es_success_message":"Successfully Subscribed.","es_success_notice":"Your subscription was successful! Within a few minutes, kindly check the mail in your mailbox and confirm your subscription. If you can't see the mail in your mailbox, please check your spam folder.","es_email_exists":"Email Address already exists!","es_error":"Oops.. Unexpected error occurred.","es_invalid_email":"Invalid email address","es_try_later":"Please try after some time","es_problem_request":"There was a problem with the request"};
