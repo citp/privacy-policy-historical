@@ -1,49 +1,25 @@
-> *The following text is extracted and transformed from the marcorubio.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407064718id_/https%3A//marcorubio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marcorubio.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529094912id_/https%3A//marcorubio.com/privacy-policy) for the most accurate reproduction.*
 
-# Marco Rubio for President Privacy Policy
+# Privacy Policy
 
-This Privacy Policy outlines our practices for collection, use, and disclosure of your information that you provide to us when you use the Marco Rubio for President website (site). By using our site, you consent to our privacy policy.
+For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where possible).
 
-**What information do we collect?**  
-We collect information from you when you register on our site, subscribe to our newsletter, make a contribution, respond to a survey or fill out a form.
+We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number, payment information (e.g., credit card number and billing address).
 
-When registering or contributing on the site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number, occupation or employer. You may, however, visit our site anonymously.
+The information we collect is used to improve the content of our Web page, used to notify consumers about updates to our Web site. With respect to cookies: We use cookies.
 
-**What do we use your information for?**  
-Any of the information we collect from you may be used in the following ways:
+If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
 
--To personalize your experience (your information helps us to better respond to your individual needs).  
--To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you).  
--To complete and report any information related to contributions as required by law.  
--To administer a contest, promotion, survey or other site feature.  
--To send periodic emails following up on the issue or transaction you initiated on our site.  
--On occasion, we may also share information — that you voluntarily provide us — with like-minded organizations, committees, or candidates committed to our principles.
+If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above.
 
-Submitting your e-mail address anywhere on the site may result in your e-mail address being added to the Marco Rubio for President e-mail list. You may receive emails that may include organization news, political updates, issue briefs or action alerts, etc.
+Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. Please allow us a reasonable period of time in order to satisfy your request, as some promotions may already be in process.
+Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us e-mail at the above address. Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations. With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.
 
-**Do we use cookies?**  
-Yes (Cookies are small files that most websites transfer to your computer through your Web browser (if you allow) that enable such sites to recognize your browser and store certain information). Cookies do not contain any personal information about you. We use cookies to compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in analyzing our site visitors. Such service providers are prohibited from using the information collected on our behalf except to help us conduct and improve our site.
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
-**Do we disclose any information to outside parties?**  
-We will not sell your personal identifiable information to any party. We reserve the right to share your information with trusted third parties who assist us in operating our website, or servicing you, so long as those parties agree to keep this information strictly confidential. We also release individual information when required to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety. And, as noted above, on occasion, we may also share information — that you voluntarily provide us — with like-minded organizations, committees, or candidates committed to the our principles. By voluntarily providing your information, you are agreeing that we may use that information in the manners described.
+Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address.
 
-**California Online Privacy Protection Act Compliance**  
-Because we value your privacy, we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent, except as otherwise required by federal or state law.
+We will not provide site visitors with access to anyone’s information we have collected and maintain.
 
-**Children’s Online Privacy Protection Act Compliance**  
-We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), in that we do not collect any information from anyone under 13 years of age. Our website, information and services are all directed to people who are at least 13 years of age or older.
-
-**Online Privacy Policy Only**  
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-**Changes to our Privacy Policy**  
-We reserve the right to change our privacy policy at any time. If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
-
-This policy was last modified on March 30, 2015.
-
-**Contacting Us**  
-If there are any questions regarding this Privacy Policy, you may contact us using the information below:
-
-contact@marcorubio.com
+Upon request we offer visitors the ability to have inaccuracies corrected in contact information. Consumers can have this information corrected by sending us e-mail at the above address.
