@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newbalance.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219010832id_/http%3A//www.newbalance.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newbalance.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529065246id_/http%3A//www.newbalance.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -159,13 +159,12 @@ A cookie is a small removable data file stored by your Web browser on your compu
 
 Some examples of how we use cookies are to:
 
-     Enable you to select products, place them in your shopping cart and make a purchase. 
+  * Enable you to select products, place them in your shopping cart and make a purchase. 
+  * Recognize you when you come back to our site(s). 
+  * Alert you to new areas that may be of interest to you. 
+  * Customize content that may be helpful to you.
 
-     Recognize you when you come back to our site(s). 
 
-     Alert you to new areas that may be of interest to you. 
-
-     Customize content that may be helpful to you.
 
 Cookies do not contain any Personal Information and they do not give us access to your computer. 
 
