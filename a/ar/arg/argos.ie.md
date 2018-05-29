@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the argos.ie privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214230629id_/http%3A//www.argos.ie/static/StaticDisplay/includeName/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the argos.ie privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529031035id_/http%3A//www.argos.ie/static/StaticDisplay/includeName/privacyPolicy.htm) for the most accurate reproduction.*
 
 # Argos - www.argos.ie
 
@@ -210,7 +210,7 @@ We work with partners, suppliers, insurers and agencies so they can process your
 
 ### Our retail partners
 
-We might share your personal information with retail partners we do business with. This is so they can give you their services. For example, as part of the Nectar programme we pass on relevant information to whoever's operating it (at the moment that's Aimia Coalition Loyalty Limited) â€“ if we didn't do that we couldn't give our customers Nectar points. 
+We might share your personal information with retail partners we do business with. This is so they can give you their services. For example, as part of the Nectar programme we pass on relevant information to whoever's operating it (at the moment that's Aimia Coalition Loyalty Limited) - if we didn't do that we couldn't give our customers Nectar points. 
 
 ### Other organisations and individuals:
 
@@ -284,18 +284,17 @@ We take security measures to protect your information including:
 
 If you would like to exercise one of your rights as set out above, or you have a question or a complaint about this policy, the way your personal information is processed, please contact us by one of the following means: 
 
+If your enquiry relates to Sainsbury's Supermarkets, Argos, Habitat or Tu: 
+
 By email: [privacy@sainsburys.co.uk](mailto:privacy@sainsburys.co.uk)   
-By post: Data Protection Officer, 33 Holborn, London, EC1N 2HT 
+By post: Data Protection Officer at Privacy Team, Sainsbury's Supermarkets Ltd, 16th Floor, Arndale House, Manchester, M4 3AL 
 
-Or if your enquiry relates to Sainsbury's Bank:   
-By email: [privacy@sainsburysbank.co.uk](https://web.archive.org/web/20171214230629id_/http%3A//www.argos.ie/static/StaticDisplay/includeName/privacy@sainsburysbank.co.uk)   
+Or if your enquiry relates to Sainsbury's Bank or Argos financial services:   
+By email: [Privacy.Bank@sainsburysbank.co.uk](https://web.archive.org/web/20180529031035id_/http%3A//www.argos.ie/static/StaticDisplay/includeName/Privacy.Bank@sainsburysbank.co.uk)   
 By post: Data Protection Officer, Sainsbury's Bank, 3 Lochside Avenue, Edinburgh Park, Edinburgh EH12 9DJ 
-
-Or for Argos Financial Services:   
-By post: Data Protection Officer, Home Retail Group Card Services Limited, Thynne Street, Bolton, BL11 1AS 
 
 You also have the right to lodge a complaint with the UK regulator, the Information Commissioner. Go to [ico.org.uk/concerns](https://ico.org.uk/concerns) to find out more... 
 
 ## Policy change
 
-This privacy policy was most recently updated in May 2017. 
+This privacy policy was most recently updated in May 2018. 
