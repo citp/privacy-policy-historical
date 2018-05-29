@@ -1,92 +1,94 @@
-> *The following text is extracted and transformed from the transparent.com privacy policy that was archived on 2017-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171010201831id_/https%3A//www.transparent.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transparent.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529200603id_/https%3A//www.transparent.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Transparent Language
 
-At Transparent Language, Inc. ("TL"), we take your privacy seriously. We developed this privacy policy to explain our information collection and use practices. We respect the confidentiality of personal information that identifies you and treat that information responsibly. As described below, we do not authorize the selling or renting of your personal information to third parties for their business purposes.
+Last Updated: 5/24/18
 
-By using our web site, you accept the practices that are described in this Privacy Statement, which is effective as of September 1, 2009, and is part of the [Web Site General Terms and Conditions](https://web.archive.org/about/terms.html) governing use of this site. We may change or add to this statement from time to time. When that happens, we will post the revised statement here. Your use of our site after changes to this Privacy Statement have been made constitutes acceptance of those changes going forward.
+This Privacy Policy sets out how Transparent Language, Inc. ("Transparent") uses and protects any information that you give to Transparent when you use our website (the "Site").
 
-TL is not responsible for the privacy policies or practices of the websites from which you access our site, sites to which we link, or any sites that are linked to our site.
+Transparent is committed to protecting your privacy. Should our Site ask you to provide any information by which you can be identified, you may be assured that that information will only be used in accordance with this Privacy Policy.
 
-This Privacy Statement tells you the types of customer information we collect, how we use that information and with whom we may share it, and how you can access or change information about you (such as your email address). If you have questions about TL's privacy policy or practices, or if you would like more information, please [contact us](mailto:info@transparent.com).
+This Privacy Policy covers any use of the Site. Note, however, that the Site may contain links to other websites of interest. As we have no control over such sites, they are not governed by this Privacy Policy and we cannot be responsible for the protection and privacy of any information which you provide to them.
 
-**1\. What personal information do we collect about our customers?**
+This Privacy Policy is effective May 1, 2018. We reserve the right to change this Privacy Policy from time to time to ensure that it complies with current legal requirements or to implement changes to our services. Any such changes will be posted to Site.
 
-We collect the personal information that our customers tell us when they contact us via the internet, or use our site, or purchase merchandise from us. When you request information from TL, we may ask you to provide your name, address, telephone number, and email address. If you purchase a product, we will ask you for financial information, such as a credit card number, and a shipping address and your billing address.
+### Information Collection
 
-From time to time we may offer a contest and you may complete an entry form. We may collect additional information about you, including your social security number.
+We do not collect personal identifiable information from visitors who simply visit and browse the Site. However, should you choose to sign up for a service, place an order, request a download, or make an inquiry using forms or other features on the Site, Transparent may collect the following personal information directly or through our order processing agents:
 
-**2\. What other kinds of customer information do we collect?**
+  * First and last name
+  * Email address
+  * Phone number
+  * Address information
+  * Country of origin
+  * Organization name, if applicable
+  * IP address
+  * Languages of interest
+  * Category of user (personal learner, educator, librarian, company representative, etc.), if you provide such information
+  * Any answers you provide if you voluntarily choose to participate in customer surveys
+  * Any additional contact information (such as Skype name, cell phone, fax, etc.) that you voluntarily choose to provide if you interact with Transparent employees, including tutors, instructors, and technical support
 
-Our system may also identify which browser and Internet Provider you use to access our site. In addition, to help us understand the use of our site by our visitors and improve your browsing and shopping experiences, we automatically collect information as to how you were directed to the site, how you navigate around it, what products you browse, as well as your purchasing activities.
 
-**3\. How do we collect this information?**
 
-When you register with TL, we compile the personal information you give us about yourself into an individual profile. We add other personal information about you to that profile as you give it to us. We also collect information about your purchases and other uses of our site as they are made. We gather other information through the use of "cookies" and Flash local shared objects (LSOs) or "Flash cookies".
+In addition, the following technical information may be collected in an anonymized format, not linked directly to your account:
 
-**4\. What are "cookies" and how do we use them? What are "web beacons"?**
+  * Browser type and version used to access the Site
+  * Operating system used to access the Site
+  * Referrer URL / Previously visited page
 
-Cookies are small text files that allow a website to store on a computer an identification code associated with you which can later be retrieved and associated with your visit to the site. There are two types. Session cookies terminate shortly after you close your Internet browser. Persistent cookies are stored on your hard drive until they expire or are deleted. Both types of cookies enhance our ability to serve you by recalling information about you such as your password, shopping preferences and shopping cart information.
 
-Local shared objects (LSO), commonly called Flash cookies, are collections of cookie-like data stored as a file on a user's computer. A local shared object is exactly like a browser cookie, except that it can also store data more complex than simple text.
 
-We understand that not everyone wants to permit the use of cookies. The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting cookies and how to disable cookies.
+Additional information may be requested if you register as a user of any of our applications. See the Privacy Policy for the applicable application for more details.
 
-We may also use "web beacons" or "pixel tags" in conjunction with cookies. A web beacon is typically a small transparent graphic that is placed on a web site or email. We track how visitors arrive at our site and your browsing activities at our web site. We use this information to compile sales and statistical data.
+### Information Usage
 
-We use cookies on our site to use for advertising purposes. If you do not wish to have your computer cookied, you may Opt-Out of this advertising service by [clicking here](http://www.networkadvertising.org/managing/opt_out.asp).
+Transparent requires the information we gather to generally understand your needs and to provide you with better service, and in particular for the following reasons:
 
-**5\. Must a visitor provide personal information to use the site?**
+  * To customize your experience with the Site according to your interests
+  * To enable internal record keeping and reporting
+  * To improve our products and services
+  * To periodically send promotional emails about new products, special offers, or other information which we think you may find interesting
+  * To contact you from time to time for market research purposes
 
-Personal information is not required to access the site or navigate from web page to web page. However, you will be asked to provide personal information if you request assistance, a catalog or want to make a purchase. Personal information is also required to request information or assistance from us or to take advantage of certain optional features of our site such as a contest.
 
-**6\. What if a visitor does not want to provide information over the internet?**
 
-You may contact TL by telephone at 1-603-262-6300. In the United States and Canada, contact us toll free at 1-800-567-9619. You may also reach our web store by calling us at 1-888-245-1829. We respect the confidentiality of your personal information as described in this Privacy Statement whether you provide it over the internet or by telephone.
+### Information Security
 
-**7\. How do we protect personal information?**
+Transparent is committed to ensuring that your information is secure. To prevent unauthorized access or disclosure, we have put in place suitable physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-All of your personal information is encrypted by Secure Socket Layer (SSL) software when it is transmitted to us via the web. We maintain the servers that store this information in a locked facility with restricted access. We also truncate your credit card number to the last four digits when we communicate with you about your order.
+We also adhere to the principles of purpose limitation and data minimization. Therefore, we only store your personal data for as long as it is necessary to achieve the purposes mentioned here or as long as the storage periods required by law. After discontinuation of the respective purpose or expiry of these deadlines, the corresponding data will be blocked or deleted in accordance with the statutory provisions. Our legal basis for the deletion or blocking of personal data is Art. 5 (1) b) GDPR and Art. 5 (1) c) GDPR.
 
-**8\. How do we use information about our customers?**
+You have the right to complain about any improper processing of your personal data (such as collection, storage, modification, transfer, deletion, etc.) by us to the proper authorities.
 
-We will use your contact information to respond to requests for information or a catalogue. We may send you e-newsletters or other promotional notices.
+### Information Control
 
-We use your personal information to process your orders. This includes contacting you to confirm your order, filling the order and shipping it to you. We may also contact you if we want to communicate with you about your order.
+You have the right to request a copy of your information, to object to our use of your information (including for marketing purposes), and to request the deletion or restriction of your information. Transparent will respond to requests about these matters within a reasonable timeframe.
 
-If you choose to participate in a contest or sweepstakes, we will use your personal information to administer and manage those features.
+  * **Accessing and updating your information:** Should you wish to access or update any of your information, you can contact us through any of the forms on the site, or by email at info@transparent.com. Likewise, you have the right to contact us and request an electronic file with a copy of your information.
+  * **Opting out of communications:** You may opt out of receiving communications from us by using the unsubscribe link within each email, by updating your email preferences within the Site, or by contacting Transparent at info@transparent.com.
+  * **Accepting or declining cookies:** Cookies are small files which can be placed on your computer's hard drive to allow websites to respond to you as an individual. With cookies, web Sites can tailor their operations to your needs, likes, and dislikes by gathering and remembering information about your preferences. Within the Site, we use traffic log cookies to identify which pages are being used. We only use this information for statistical analysis purposes, then remove the data from our system. The cookies in no way gives us access to your computer or any information about you, other than the data you choose to share with us. Most web browsers automatically accept cookies, but you can change your browser setting to decline cookies if you prefer. Please be aware that if you choose to decline cookies, some or all of the Site may be inaccessible or non-functional.
+  * **Requesting that we forget you:** If you no longer want Transparent to continue storing information about you, you may contact us and request that your account be forgotten. When we receive such a request, we will retain your data for 30 days. If you change your mind during this period, you can contact us again to stop the process of being forgotten. If you have not contacted us within 30 days, your account will be permanently forgotten.
 
-We may also use your personal information to improve our service to you and for other business purposes. For example, we periodically review customer information as part of servicing our accounts. We may also contact you from time to time to inform you of the services that we offer and to gather information about how we can improve them.
 
-Finally, we analyze information we obtain from cookies and web beacons concerning our customers' access and navigation of our site and their browsing and purchasing activities to improve our services and enhance our customers' shopping experiences.
 
-**9\. How do we share customers' personal information with third parties?**
+### Information Sharing
 
-In order to process your orders and requests, we make your name, address, and sometimes your e-mail address or telephone number available to other entities such as credit card companies and package delivery services (for example, American Express, Visa, MasterCard, UPS, and United States Postal Service).
+Transparent will not sell, distribute, or lease your personal information to third parties unless we have your permission or are required by law to do so. However, we may use the following sales and marketing products for web analytics and social media marketing:
 
-We may use third party agents, consultants and contractors to perform business functions on our behalf, including customer service, account servicing, customer research, marketing, provision of IT services and records maintenance. We give these entities access to our customers' personal information to perform these functions for us and do not authorize them to use that information for any other purpose.
+  * **Google Analytics:** We use Google Analytics, a web analytics service provided by Google Inc. ("Google"), on the Site. Google Analytics uses its own cookies to evaluate site usage, compile site activity reports, and provide other services related to website activity and internet usage on behalf of Transparent. Google is a U.S. company that uses servers in the United States.
+  * **Google AdWords:** If you reach the Site via an advertisement sent by Google, Google AdWords sets a cookie on your computer. These cookies lose their validity after 30 days and are not used for personal identification. If you visit certain pages on the Site and the cookie has not expired, we and Google may recognize that you clicked on the ad and were redirected to this page. Google is a U.S. company that uses servers in the United States.
+  * **HubSpot:** HubSpot tracks, documents, and manages many interactions on the Site to help us assess the effectiveness of our sales and marketing strategy. HubSpot programs access data collected on the Site from services such as Google AdWords and compile reports that provide information about the demand for our products and our clientele. HubSpot also uses cookies to track Site visitors in real time and recognize potential customers among them. Finally, HubSpot email tracking provides a notification when a customer opens an email sent by us and clicks on the link to our offers. We can then respond to the customer with a personal email or an automated answer. HubSpot is a U.S. company that uses servers in the United States, and has signed a data processing agreement with us to keep our data safe.
+  * **HubSpot LiveChat:** HubSpot LiveChat is built into the Site to let our users communicate with Transparent employees. HubSpot LiveChat collects access data such as IP address, browser, and operating system type as well as the dial-in location from users of the live chat. In addition, cookies are used to collect further data about user behavior. HubSpot has represented to us that it processes this information solely to improve its own services. HubSpot stores and processes all collected data on servers located in the United States.
+  * **SurveyMonkey:** SurveyMonkey lets Transparent create surveys that users of the Site may choose to participate in. We use these surveys to collect user opinions and feedback that helps us improve the Site and our products. Surveys are anonymous but may allow users to submit questions along with their email address. SurveyMonkey attempts to distinguish users by using their IP addresses as identifiers. SurveyMonkey is a U.S. company.
+  * **TypeForm:** We uses TypeForm to create data input forms that allow users to submit technical support cases and other customer service requests. TypeForm is a Barcelona-based online Software as a Service (SaaS) company that specializes in online form building and online surveys.
+  * **GrooveHQ:** We use GrooveHQ for technical support case management, knowledge base, and LiveChat. GrooveHQ is a U.S. company.
+  * **CloudAMQP:** We use CloudAMQP to host an instance of RabbitMQ, which is used to send data to Transparent servers for processing. Information is not stored by CloudAMQP and is encrypted in transit.
+  * **Amazon Web Services (AWS):** We use AWS to host content, send emails and notifications, maintain access logs, and provide support within Transparent authoring tools. AWS encrypts data at rest and uses secret keys to control who can access various data points.
+  * **HotJar:** HotJar allows Transparent to gather anonymous data about how users interact with the Site. Over time, we analyze that data to improve the Site's usability and determine the most used features. From a single visitor session, HotJar may create a heatmap; visually recreate the session by replaying mouse movements, page scrolls, and click coordinates; evaluate the user's progress through various steps; and note which fields of a form a user filled out before abandoning it. Visual recreations of sessions will not include sensitive or personal information entered by the user. HotJar attempts to distinguish users by using their IP addresses as identifiers. HotJar also uses cookies to distinguish new users from returning ones to avoid redundant behaviors. HotJar is a U.S. company.
+  * **BlueSnap:** BlueSnap processes Transparent's payment transactions. Transparent also uses a cart hosted by BlueSnap servers to gather customer payment info at purchase time, which means Transparent never has access to that info. After a transaction has taken place between BlueSnap and a Transparent customer, Transparent may view transaction information such as date, customer email, customer name, customer address, amount, payment method, and product purchased, but not payment info. BlueSnap is a U.S. company.
+  * **FeedBlitz:** We use FeedBlitz to send emails to voluntary subscribers to our blogs and Word of the Day service. FeedBlitz is a U.S. company.
+  * **WordPress:** We use WordPress to power our blogs. WordPress may collect the name, email address, and IP address of users who voluntarily choose to comment on our blog articles. WordPress is a U.S. company.
 
-Additionally, we share personal information about you when you voluntarily use certain optional features of our site. If you participate in a contest or sweepstakes, we may share the information you submit with others assisting us in the administration of that feature.
 
-It is possible that TL or part of its business or one of its affiliates could merge with, acquire or be acquired by another business entity and your personal information could be among the assets transferred. If this occurs, you will be notified of the change by e-mail or notice on this site.
 
-We reserve the right to share personal information about you with our affiliates in the course of our business operations. We also reserve the right to share personal information about you as required by law or in cooperation with legal authorities and to enforce the Web Site General Terms and Conditions governing use of this site or to protect the rights, property, or safety of TL and its customers. We reserve the right to use non-confidential information in any manner we feel appropriate.
-
-**10\. How do we share other customer information with third parties?**
-
-We may share non-personal non-individually identifiable information about our customers with the group of people with whom we share personal information, as well as with other third parties such as vendors, advertisers and marketing firms.
-
-**11\. How can visitors to our web site check or change information we collect about them?**
-
-You can opt out of TL's use of cookies to recall information about you by setting your browser not to accept cookies or to disable cookies.
-
-You may send us updated information via email. You can also change personal information such as your shipping address or payment method when ordering. You can subscribe to or unsubscribe from E-newsletters and other promotional notices by [sending us an email](mailto:info@transparent.com) with your instructions.
-
-Our Customer Service Representatives are also ready to assist you in checking or changing your personal profile or removing your name from our contact lists. To do so, you may contact TL by telephone at 1-603-262-6300. In the United States and Canada, contact us toll free at 1-800-567-9619.
-
-You may also send us instructions by Postal Service to:
-
-Customer Service  
-Transparent Language, Inc.  
-12 Murphy Drive  
-Nashua, New Hampshire, 03062 USA 
+Our legal basis for the use of these third-party products is provisions 6 (1) b) and 6 (1) f) of GDPR.
