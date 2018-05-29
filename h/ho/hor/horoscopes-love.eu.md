@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the horoscopes-love.eu privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127000107id_/http%3A//www.horoscopes-love.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horoscopes-love.eu privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529214011id_/http%3A//www.horoscopes-love.eu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -68,11 +68,11 @@ www.horoscopes-love.eu            [info@horoscopes-love.eu](mailto:inf
 
 Share this post:
 
-Love in 2017?
+Love in 2018?
 
 [](http://www.oranum.com/chat/random-expert?s=1&p=6&w=100393&t=216&c=5961)
 
-When will I find love? What does 2017 Year hold for you? How to find a soulmate? Chat with free tested experts. Ask them now! [Click here ](http://www.oranum.com/chat/random-expert?s=1&p=6&w=100393&t=216&c=5961)
+When will I find love? What does 2018 Year hold for you? How to find a soulmate? Chat with free tested experts. Ask them now! [Click here ](http://www.oranum.com/chat/random-expert?s=1&p=6&w=100393&t=216&c=5961)
 
 Need answers?
 
