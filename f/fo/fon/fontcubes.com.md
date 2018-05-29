@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fontcubes.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126131701id_/http%3A//www.fontcubes.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fontcubes.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529194044id_/http%3A//www.fontcubes.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy for Mac, Android, Windows | Font Cubes
 
