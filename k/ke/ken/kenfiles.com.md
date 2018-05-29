@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kenfiles.com privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127145134id_/http%3A//kenfiles.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenfiles.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529204220id_/http%3A//kenfiles.com/pages/privacy.html) for the most accurate reproduction.*
 
 # KenFiles - Store your files, safe and secure
 
