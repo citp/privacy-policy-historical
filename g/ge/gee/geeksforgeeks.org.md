@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the geeksforgeeks.org privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126170604id_/http%3A//www.geeksforgeeks.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geeksforgeeks.org privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529071240id_/https%3A//www.geeksforgeeks.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GeeksforGeeks
 
 ## Application Privacy Statement
 
-We Sanchhaya Education Pvt. Ltd., are registered and headquartered at BC 227, 2nd Floor, Matrix Business Tower, B4, Sector 132, Noida, UP-201301, hereinafter referred to as [GeeksforGeeks](http://www.geeksforgeeks.org/). At GeeksforGeeks, we value your trust & respect your privacy. This privacy statement (“Privacy Statement”) applies to the treatment of personally identifiable information submitted by, or otherwise obtained from, you in connection with the associated application (“Application”). The Application is provided by GeeksforGeeks (and may be provided by Geeksforgeeks on behalf of a GeeksforGeeks licensor or partner (“Application Partner”). By using or otherwise accessing the Application, you acknowledge that you accept the practices and policies outlined in this Privacy Statement.
+We Sanchhaya Education Pvt. Ltd., are registered and headquartered at BC 227, 2nd Floor, Matrix Business Tower, B4, Sector 132, Noida, UP-201301, hereinafter referred to as [GeeksforGeeks](https://www.geeksforgeeks.org/). At GeeksforGeeks, we value your trust & respect your privacy. This privacy statement (“Privacy Statement”) applies to the treatment of personally identifiable information submitted by, or otherwise obtained from, you in connection with the associated application (“Application”). The Application is provided by GeeksforGeeks (and may be provided by Geeksforgeeks on behalf of a GeeksforGeeks licensor or partner (“Application Partner”). By using or otherwise accessing the Application, you acknowledge that you accept the practices and policies outlined in this Privacy Statement.
 
 ## Information Collection and Use
 
@@ -19,6 +19,9 @@ GeeksforGeeks uses cookies and browser’s local storage to store information ab
 → Google, as a third party vendor, uses cookies to serve ads on GeeksforGeeks.  
 → Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to GeeksforGeeks and other sites on the Internet.   
 → Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+
+  
+
 
 **Our Advertising Partners**
 
@@ -78,13 +81,40 @@ GeeksforGeeks allows you to access the following information about you for the p
 – User preferences  
 – Application specific data 
 
+## For EU and EEA Users in Compliance with GDPR:
+
+**Analytics**  
+We use Google Analytics on our website to:
+
+  * Monitor site traffic and behavior flows of users
+  * Measure the effectiveness of on-site products
+  * Measure the effectiveness of off-site marketing campaigns and tactics
+
+
+
+Google has developed the Google Analytics opt-out browser add-on; if you want to opt out of Google Analytics, you can download and install the add-on for your web browser [here](https://tools.google.com/dlpage/gaoptout).
+
+**Advertising**  
+We display Non-Personalized ads to our EAA users. Non-Personalized ads will use only contextual information, including coarse general (city-level) location, and content on the current site or app; targeting is not based on the profile or past behavior of a user.
+
+**Mobile-Application**  
+We display Non-Personalized ads in our mobile app as well. We do not store or process any data regarding our users to target or profile them without their consent.  
+We use Fabric for our reporting of Application crashes and Analytics. For more information on their Terms of Use and Privacy Policy, click [here](https://fabric.io/terms).
+
+In case any user wants to access their Right to erasure, please feel free to contact us by email at [GeeksforGeeks](mailto:support@geeksforgeeks.org).
+
 **Online Privacy Policy Only**  
 This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there.  
 This policy does not apply to any information collected offline or via channels other than this website.
 
 **Update**  
-This Privacy Policy was last updated on: Saturday, January 9th, 2016.
+This Privacy Policy was last updated on: Friday, May 25th, 2018.
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [GeeksforGeeks](mailto:feedback@geeksforgeeks.org).
 
 _Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
+
+**[Cookie Policy](https://www.geeksforgeeks.org/cookie-policy/)**
+
+  
+
