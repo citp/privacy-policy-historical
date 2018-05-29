@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the hpiracing.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128032954id_/http%3A//www.hpiracing.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hpiracing.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529202346id_/http%3A//www.hpiracing.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - HPI Racing
+
+**The following is our online Privacy Policy. You can find the full Privacy Notice for HPI Racing Ltd  [here.](https://www.hpiracing.com/assets/documents/privacy_notice/privacy_notice_18_may_2018.pdf)**
 
 We at HPI Racing take your privacy seriously and have therefore outlined outline how and when we store information about you while you visit our website.
 
@@ -35,3 +37,5 @@ HPI Racing reserves the right to change this privacy policy as required. If we m
 ## Conditions of Use
 
 If you decide to visit the HPI Racing website, your visit and any possible dispute over privacy is subject to this Privacy Policy, including limitations on damages, arbitration of disputes, and application of UK law.
+
+**Click  [here](https://www.hpiracing.com/assets/documents/privacy_notice/privacy_notice_18_may_2018.pdf) to access the full Privacy Notice for HPI Racing Ltd.**
