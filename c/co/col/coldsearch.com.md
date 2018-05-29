@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coldsearch.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124101542id_/http%3A//www.coldsearch.com/indices/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coldsearch.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529034302id_/http%3A//www.coldsearch.com/indices/privacy) for the most accurate reproduction.*
 
 # Search
 
