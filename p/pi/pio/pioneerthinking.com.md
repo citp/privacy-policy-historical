@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the pioneerthinking.com privacy policy that was archived on 2017-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171031125932id_/http%3A//pioneerthinking.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pioneerthinking.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529032558id_/https%3A//pioneerthinking.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pioneer Thinking
+
+[row]  
+[span12]
 
 Dear Friend,
 
@@ -48,4 +51,9 @@ Terms of Use
 
 Please see our Online Agreement for other terms and conditions governing your use of www.pioneerthinking.com
 
-E-mail:[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2453414649455750415664544d4b4a414156504c4d4a4f4d4a430a474b49)
+E-mail: webmaster(at)pioneerthinking.com
+
+[/span12]  
+[/row]
+
+(Visited 50 times, 1 visits today)
