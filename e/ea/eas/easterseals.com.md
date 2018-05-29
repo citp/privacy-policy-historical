@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easterseals.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222033036id_/http%3A//www.easterseals.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easterseals.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529224549id_/http%3A//www.easterseals.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Easterseals | Easterseals Online Network Privacy Policy
 
