@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackoption.net privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225182242id_/http%3A//blackoption.net/privacy_policy/%23content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackoption.net privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529114913id_/http%3A//blackoption.net/privacy_policy/%23content) for the most accurate reproduction.*
 
 # BlackOption - binary options without investments!
 
