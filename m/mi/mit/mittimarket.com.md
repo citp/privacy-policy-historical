@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mittimarket.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520032730id_/http%3A//mittimarket.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mittimarket.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529214716id_/http%3A//mittimarket.com/privacy.php) for the most accurate reproduction.*
 
 # mittimarket! enjoy shopping!
 
@@ -31,8 +31,8 @@ This Website Privacy Statement is effective as of the date listed below. Even if
 
 ## Questions?
 
-We welcome any questions or comments you have about our privacy practices. Please feel free to contact us at: [Feedback](https://web.archive.org/web/20160520032730id_/http%3A//mittimarket.com/contact.php?q=Contact%20Us). **Effective Date: Privacy Notice last modified April 5, 2009.**
+We welcome any questions or comments you have about our privacy practices. Please feel free to contact us at: [Feedback](https://web.archive.org/web/20180529214716id_/http%3A//mittimarket.com/contact.php?q=Contact%20Us). **Effective Date: Privacy Notice last modified April 5, 2015.**
 
-© 2014 mittimarket.com 
+© 2017 mittimarket.com 
 
 |  
