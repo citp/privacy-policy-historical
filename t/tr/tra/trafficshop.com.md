@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the trafficshop.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211213656id_/https%3A//www.trafficshop.com/guest/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficshop.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530000220id_/https%3A//www.trafficshop.com/guest/page/privacy) for the most accurate reproduction.*
 
 # TrafficShop - Privacy policy
 
-[](https://privacy.truste.com/privacy-seal/TrafficShop-B-V-/validation?rid=a47b129d-b9e7-4581-bdbc-cd2d1ebe07c7 "TRUSTe online privacy certification")
-
-_Updated February 10, 2014._
+_Updated May 25, 2018._
 
 This privacy policy applies to [www.trafficshop.com](http://www.trafficshop.com/) and the services associated with the site owned and operated by  (“TrafficShop”, “We”, “Us”).
 
-Pursuant to our Terms of Service, this document describes how we treat personal information related to your use of the Service on our site, including information you provide when using the service. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+We respect your privacy. Pursuant to our Terms of Service, this document describes how we treat personal information related to your use of the Service on our site, including information you provide when using the service. It also describes the options available to you regarding our use of your personal information and how you can access, update and delete this information. TrafficShop protects our customer privacy and takes responsibility regarding the security of customer privacy information very seriously. In this policy we will be clear and transparent about the information we are collecting and why.
 
-TrafficShop has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements]() including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site, [www.trafficshop.com](http://www.trafficshop.com/) and its sub-domains and does not cover information that may be collected through our WAP portal, or by any 3rd party partners or affiliates.
+If you have questions or complaints regarding our privacy policy or practices, please contact us as support@trafficshop.com.
 
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at support@trafficshop.com. If you are not satisfied with our response you can contact [TRUSTe here]().
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 We expressly and strictly limit use of the Service to adults over 18 years. We do not knowingly seek or collect any personal information or data from persons who have not attained this age.
 
 **Data Collected**
 
+We collect personal information directly when you provide it to us, automatically as you navigate through the Site, or through third parties when you use services associated with the Site. We collect your personal information when you complete registration form and use the services on our Site, subscribe to a newsletter, email list, submit feedback, or initiate any communication with Trafficshop and its employees.
+
 General Browsing. You can access some parts of the Service without having an Account, in which case only your IP address, country of origin and other non-personal information about your computer or device (such as web requests, browser type, browser language, referring URL, operating system and date and time of requests) will be recorded for log file information, aggregated traffic information and in the event that there is any misappropriation of information and/or content. If you have an Account, this information will also be recorded and may be associated with your Account.
 
-Using the Service with an Account. Creating an Account is required for using many of the features of the Service. We require certain information about you at registration, including your login and password (which you generate), your full name, company name, e-mail address and country. Other optional information may be input by you as well. Your IP address is also recorded automatically whenever you access the Service and may be associated with your Account. Any other information or content you provide us on the Service will be saved and associated with your account, including information such as credit card, bank account number, payment escrow service log-ins and Drivers License number or National ID number that is used for funds transfers, (either to us or from us).
+Using the Service with an Account. Creating an Account is required for using many of the features of the Service. We require certain information about you at registration, including your login and password (which you generate), your full name, company name, e-mail, street address and country, post code, phone number, skype, Icq. Other optional information may be input by you as well. Your IP address is also recorded automatically whenever you access the Service and may be associated with your Account. Any other information or content you provide us on the Service will be saved and associated with your account, including information such as paypal ID, paxum account name, bank account number, payment escrow service log-ins and Drivers License number or National ID number that is used for funds transfers, (either to us or from us).
 
 Usage Information. We may record information about your usage of the Service such as which products you view and purchase, the frequency and size of data transfers and other statistics. If you have registered and are logged in, we may associate that information with your Account.
 
@@ -38,7 +38,7 @@ We use commercially reasonable means to keep your information strictly confident
 2\. We may provide certain information required for fund transfers (either to us or from us) to third-party payment processors depending on the method of transfer you choose.  
 3\. In the circumstances described below under "Disclosures of Information."
 
-We may use your e-mail or other personal information for non-marketing or administrative purposes, including for correspondence and delivery of payments and documents. We may also use e-mail or other personal information to periodically send you marketing information about the Service, however, you may choose to stop receiving this information by notifying us (see “Access and Choice” section below).
+We may use your e-mail or other personal information for non-marketing or administrative purposes, including for correspondence and delivery of payments and documents, or inform you regarding changes in our program.
 
 Please note that, as with any other content placed on the Internet, any content on Your Websites which you link to on the Service may be viewed by other users of the Service and you are responsible for such content.
 
@@ -64,6 +64,10 @@ areferer | If the current user has come by the referral link, stores referrer of
   
 The use of tracking technologies by our service providers, technology partners or other 3rd party assets (such as social media) on the site is not covered by our privacy policy. These 3rd parties may use cookies, clear gifs, images, and scripts to help them better manage their content on our site. We do not have access or control over these technologies. We do not tie the information gathered to our Customers’ or Users’ personal information.
 
+**Where we store and processed your personal information**
+
+Your personal data will be stored and processed on secure servers that are managed by us and our service providers located in Netherlands. Your personal information can be accessed by the employees of Trafficshop in Cyprus, Ukraine, United States of America. We do this based on your consent to this policy. We take all possible care to protect your personal information when using the services of subcontractors and service providers who we believe maintain an acceptable standard of data security compliance.
+
 **Disclosures of Information**
 
 We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell, rent or otherwise distribute your personal information to third parties without your consent.
@@ -76,7 +80,7 @@ If TrafficShop is involved in a merger, acquisition, or sale of all or a portion
 
 **Access and Choice**
 
-If your personal information changes, you may correct, update, amend, remove, or ask to have it removed by making the change on your user account settings page, by emailing our Customer Support at support@trafficshop.com, submitting a ticket, or by contacting us at the contact information listed below. If you no longer desire our service, you may contact us directly to request the deactivation and or deletion of your account and personal information. We will respond to your request within 30 days.
+You can correct, update, amend, remove, or ask to have it removed by making the change on your user account settings page, by emailing our Customer Support at support@trafficshop.com, submitting a ticket, or by contacting us at the contact information listed below. If you no longer desire our service, you may contact us directly to request the deactivation and or deletion of your account and personal information. We will respond to your request within 30 days.
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -92,7 +96,7 @@ If you have an account on the Service and have a password giving you access to c
 
 **Third Party Links and Assets**
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of TrafficShop. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.
+Our Site includes links to other Web sites whose privacy practices may differ from those of TrafficShop. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit. We can't control or accept responsibility for the way they will use or manage that data.
 
 Our Web site also includes Social Media Features, such as the Facebook Like button, links to social media pages and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
@@ -103,3 +107,5 @@ We may update this privacy policy to reflect changes to our information practice
 **Contact Us**
 
 [support@trafficshop.com](mailto:support@trafficshop.com)
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=a47b129d-b9e7-4581-bdbc-cd2d1ebe07c7)
