@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expotv.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126164922id_/http%3A//gen.video/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expotv.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530000741id_/http%3A//gen.video/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | gen.video
 
