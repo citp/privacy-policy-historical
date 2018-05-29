@@ -1,132 +1,110 @@
-> *The following text is extracted and transformed from the coherent.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229033416id_/https%3A//www.coherent.com/company/coherent-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coherent.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529092715id_/https%3A//www.coherent.com/company/coherent-privacy-statement) for the most accurate reproduction.*
 
 # Coherent Privacy Statement | Coherent
 
-**Privacy Policy**
+**Coherent Privacy Notice**
 
-Concerning personal data transferred from the European Economic Area (“EEA”) **[](https://cohrstage.coherent.com/cohr-login.php?/cp/content_publish/entry_form&channel_id=51&entry_id=15423&filter=YTozOntzOjEwOiJjaGFubmVsX2lkIjtzOjM6ImFsbCI7czo4OiJrZXl3b3JkcyI7czo3OiJwcml2YWN5IjtzOjk6InNlYXJjaF9pbiI7czo1OiJ0aXRsZSI7fQ==&S=90b4e9574223209572a6c23e1f507ef9)[[1]](http://www.coherent.com/#_ftn1)** and/ or Switzerland to the United States of America (“U.S.”)
+This privacy policy explains what information may be collected during your visit to our website, when you have any other business contact with us and how we use this information. In addition, you will learn more about your rights.
 
-1\. Introduction
+Responsible for this website and the processing of personal data according to this privacy policy is Coherent Inc, 5100 Patrick Henry Drive, Santa Clara, CA 95054 USA (“Coherent Inc.”, “we” or “us”). Further contact details can be found in our [imprint.](https://web.archive.org/company/coherent-cookie-policy)
 
-COHERENT, INC. (“COHERENT”) respects the privacy of its customers, business partners and employees and recognizes the need for appropriate protection and management of personal information provided. COHERENT itself and on behalf of its affiliate U.S. companies (Coherent Investments, Inc., Coherent International LLC, Coherent-DEOS LLC, and Coherent Asia, Inc.), has made a decision to voluntarily adhere to the [EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield](https://www.privacyshield.gov/) (together the “Privacy Shield”) principles available to U.S. organizations under the European Commission’s and the Swiss Federal Council’s implementing decisions to provide for an adequate level of data protection as required under the EU Directive 95/46/EC on data protection and the Swiss Federal Act on Data Protection respectively. Should there be any conflict between the Privacy Shield principles and this Policy, the Privacy Shield principles will prevail [**[2]**](http://www.coherent.com/#_ftn2). This Policy outlines the general practices for implementing the requirements of the Privacy Shield in connection with personal data that is transferred from the EEA and/ or Switzerland to the U.S, including the types of information that is collected and transferred, how it is used, and the choices individuals located in the EEA and/ or Switzerland have regarding the use of, and their ability to correct, that information.
+Coherent, Inc. processes the personal data in the USA. To ensure an adequate level of data protection for citizens of the European Economic Area (“EEA”) or Switzerland, processing is based on the Privacy Shield. You can view the certification of Coherent here: https://www.privacyshield.gov/list.
 
-2\. Scope
+**1\. Visiting our website**
 
-This Privacy Policy applies to COHERENT and its affiliate U.S. operations, divisions and subsidiaries as far as personal information about non-employees from the EEA and/ or Switzerland is received in any format including electronic, paper or verbal. This Policy also applies to Agents (defined below) that handle and process EEA and/ or Swiss personal data on behalf of COHERENT or its affiliate U.S. companies.
+When you visit our website, we collect the following information, from your browser:
 
-3\. Definitions
+  * the IP address of your computer 
+  * date and time of access 
+  * name and address of the requested file 
+  * transferred data volume 
+  * report whether the retrieval was successful 
+  * identification data of the browser and operating system used 
+  * the name of your internet service provider 
 
-For purpose of this Policy, the following definitions shall apply:
 
-“Personal data” and “personal information” refer to data about an identified or identifiable individual that are within the scope of the Directive 95/46/EC or the Swiss Federal Act on Data Protection, received by an organization in the United States from the European Union and/ or Switzerland, and recorded in any form.
 
-“Processing” of personal data means any operation or set of operations which is performed upon personal data, whether or not by automated means, such as collection, recording, organization, storage, adaptation or alteration, retrieval, consultation, use, disclosure or dissemination, and erasure or destruction.
+This data is processed in order to technically facilitate the use of the website. We use browsing data of our users for creating aggregated statistics (so that statistics do not show data about a single user but only about the collected data of a number of users), to learn what is of interest to users in order to improve our websites and offering. We also use the browsing data for maintaining or restoring the security of our offer or to detect and correct technical defects and errors.
 
-“Controller” means a person or organization which, alone or jointly with others, determines the purposes and means of the processing of personal data.
+**2\. Contact (contact form and newsletter)**
 
-“Agent” means any third party processor that collects and/or uses personal information provided by COHERENT to perform tasks on behalf of and under the instructions of COHERENT. An example of an Agent is a provider of IT services that processes personal information in order to assist or support COHERENT’s employees with the use of its products.
+If you provide us with personal data via the contact form or by e-mail, this data will be used for the purpose of answering your inquiry or to give you access to the services you have requested (for example to provide information via our newsletter). If your request is directed to another Coherent company, we will forward it to that company.
 
-“Sensitive personal information” means personal information specifying medical or health conditions, racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership or information specifying sexual orientation of the individual or where received from third party data that is treated as personally sensitive by the third party. Where Swiss individuals are concerned, “Sensitive personal information” also includes ideological views or activities and information on social security measures or administrative or criminal proceedings and sanctions, which are treated outside pending proceedings.
+**3\. Contractual and marketing purposes**
 
-4\. Processing of EEA and/ or Swiss personal data
+Coherent uses personal data about business partners and customers to provide information and services to customers and business partners. Coherent specifically uses personal information to help customers and business partners to complete a transaction or order, to enable communication and collaboration, to deliver products/services, to invoice for purchased products/services, and to provide ongoing service or support.
 
-COHERENT may from time to time process certain EEA and/ or Swiss personal information about customers and prospective customers, business partners and prospective business partners such as suppliers, service providers or independent contractors, consultants, consumers, employees, contingent workers and candidates for employment, including information recorded on various media as well as electronic data. COHERENT will process these data in conformity with the Privacy Shield Principles and will continue to apply the Principles to personal data received under the application of the Privacy Shield.
+We also use personal information for reporting purposes, such as ensuring a high level of customer service, assessing the quality of products and services, for manufacturing processes and quality control, to manage electronic signatures, to simplify internal management processes, to maintain, manage and comply with legal, regulatory, compliance and auditing obligations, policies and procedures, for operational continuity and/or disaster recovery procedures, to access sales or order portals or select services.
 
-COHERENT will use personal information concerning business partners and customers to provide customers and business partners with information and services and to help COHERENT personnel better understand the needs and interests of these business partners and/or customers. Specifically, COHERENT uses information to help customers and business partners complete a transaction or order, to facilitate communication and collaboration, to deliver products/services, to bill for purchased products/services, to provide ongoing service and support, to allow individuals to register for websites and online services, for reporting purposes e.g. assuring customer service levels, to evaluate the quality of products and services, for manufacturing processes and quality control, to manage electronic signatures, to facilitate Coherent’s internal administrative processes, to maintain, administer and to comply with Coherent’s legal, regulatory, compliance and auditing obligations, policies and procedures, for business continuity and/or disaster recovery procedures, to access sales and order portals and to select service and personnel. Occasionally COHERENT personnel may use personal information to contact customers and business partners to complete surveys that are used for marketing and quality assurance purposes.
+We may also occasionally use personal information to contact customers and business partners and to conduct surveys for marketing and quality assurance purposes. You have the right to object to this use.
 
-COHERENT may also share customer personal information with its service providers (Agents) and suppliers for the sole purpose and only to the extent needed to support the customers’ business needs. Service providers and suppliers are required to keep confidential personal information received from COHERENT and may not use it for any purpose other than as originally intended. In case of data transfers to non-agent third parties the affected individuals will be informed about the transfer and the underlying purposes respectively.
+**4\. Cookies**
 
-COHERENT also collects personal information concerning its employees (Human Resources Data) in connection with administration of its Human Resources programs and functions and for purpose of communicating with its employees. COHERENT also applies the Privacy Shield Principles to this data. The collection and use of Human Resources Data is not covered by this Policy but instead by COHERENT’s Human Resources Privacy Policy available for employees in the Intranet.
+When you visit our website, you will be asked whether you want to activate so-called “cookies” (text files that are stored on your computer). Cookies allow us, for example, to adapt our website to your interests or to save your password.
 
-5\. Privacy Principles
+If you agree to the use of cookies and answer the question with “yes”, we store information in the form of a cookie on your computer, which helps us to automatically recognize your computer on your next visit.
 
-A detailed description of the Privacy Shield Principles can be found on the Privacy Shield website of the Department of Commerce [**[2]**](http://www.coherent.com/#_ftn2).
+If you do not want us to recognize your computer, answer the question about the activation of cookies with “no”. You can also set your Internet browser to delete cookies from your hard drive, block all cookies or to warn you before a cookie is stored.
 
-5.1. Notice
+Detailed information on the cookies used and configuration options can be found in our [cookie guidelines.](https://web.archive.org/company/coherent-cookie-policy)
 
-Where COHERENT collects personal information directly from individuals in the EEA and/ or Switzerland or receives it from its European affiliates, it or its European affiliates will inform these individuals about the purposes for which they collect and use personal information about them, the transfer to COHERENT in the U.S., the types or identity of third parties to which COHERENT discloses that information, the purposes for which it does so, the choices and means COHERENT offers individuals for limiting the use and disclosure of their personal information, and to access their personal information. Notice will be provided in clear and conspicuous language when individuals are first asked to provide personal information to COHERENT, or as soon as practicable thereafter, and in any event before COHERENT uses the information for a purpose other than that for which it was originally collected.
+**5\. Retention of personal data**
 
-5.2. Choice
+We only store personal data for as long as it is necessary for the provision of the services requested by you or for the purpose of processing your data.
 
-COHERENT will offer individuals the opportunity to choose (opt-out) whether their personal information is (a) to be disclosed to a non-agent third party acting as a controller, or (b) to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. For sensitive personal information, COHERENT will give individuals the opportunity to affirmatively and explicitly consent (opt-in) to the disclosure of the information to a non-agent third party acting as a controller or the use of the information for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. COHERENT will provide individuals with reasonable mechanisms to exercise their choices.
+Data that cannot be connected to an individual can be stored permanently.
 
-5.3. Accountability for Onward Transfer
+**6** **. Sharing personal data** **  
+**  
+If you wish to contact another Coherent company via our contact forms, we will forward your request to them and the receiving Coherent company will process your data for these purposes and stores them for as long as required for the provision of services or possible future business contacts. We collaborate with providers who support us in providing our services, performances and the offer on this website. These service providers (agents) process data on our behalf and under our control and for the purposes described in this data protection declaration. In addition, we may disclose personal data to suppliers and cooperation partners in accordance with the principles of Privacy Shield where necessary for the provision of services.
 
-COHERENT will transfer personal information to Agents only for limited and specific purposes and obtain contractual assurances from its Agents that they will safeguard personal information consistent with this Policy and that they will provide at least the same level of protection as is required by the relevant Privacy Shield principles. COHERENT recognizes its responsibility and potential liability for onward transfers to Agents. Where COHERENT has knowledge that an Agent is using or disclosing personal information in a manner contrary to this Policy and/or the level of protection as required by the Principles, COHERENT will take reasonable steps to prevent, remedy or stop the use or disclosure.
+We may be required by U.S. law to disclose personal information to U.S. authorities. In these cases, we limit the publication to the extent that is legally mandatory.
 
-If COHERENT transfers personal information to non-agent third parties acting as a controller, COHERENT will apply the Notice and Choice Principles unless an exception for specific situations under European data protection law applies and will obtain contractual assurance from these parties that they will provide the same level of protection as is required under the Principles.
+We may also disclose personal information to the holders of such rights, advisers and authorities to enforce our rights or to protect our rights or the rights of third parties.
 
-5.4. Access
+**7\. Special information for persons from the** **European Economic Area (EEA) or Switzerland**
 
-Upon request, and to the fullest extent allowed under law, COHERENT will grant individuals reasonable access to personal information that it holds about them. In addition, COHERENT will take reasonable steps to permit individuals to correct, amend, or delete information that is demonstrated to be inaccurate, incomplete or processed in violation of the Principles.
+If you live in the European Economic Area, in Switzerland or Coherent is subject to the EU General Data Protection Regulation, you have certain rights, about which we would like to inform you about:
 
-5.5. Security
+**a) General rights**
 
-COHERENT will take reasonable precautions to protect personal information in its possession from loss, misuse and unauthorized access, disclosure, alteration and destruction, taking into due account the risks involved in the  
-processing and the nature of the personal data.
+You can request information about the data stored about your person.
 
-5.6. Data Integrity and Purpose Limitation
+Furthermore, in justified cases you can also request the deletion, correction or restriction of the processing of your data and object to the processing of your data.
 
-COHERENT will use personal information only in ways that are compatible with the purposes for which it was collected or subsequently authorized by the individual (see 5.2.). COHERENT will take reasonable steps to ensure that personal information is relevant to its intended use, accurate, complete, and current. COHERENT will adhere to the Principles as long as it retains personal information received under its Privacy Shield certification.
+**b) Revocation of your consent**
 
-5.7. Recourse, Enforcement and Liability
+If you have consented to the processing of your personal data on the website, you can revoke this consent at any time with effect for the future.
 
-COHERENT utilizes the self-assessment approach to assure its compliance with this Privacy Policy. COHERENT periodically verifies that this Policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented, and in conformity with the Privacy Shield principles. COHERENT encourages interested persons to raise any concerns with it using the contact information below. COHERENT will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the principles contained in this Policy.
+**c) Choice**
 
-6\. Limitations and Exceptions
+If personal information covered by this Privacy Policy is used for a new purpose that is materially different from that for which the personal information was originally collected  
+or subsequently authorized, or if it is to be disclosed to a third party who is not an agent, we provide you the the opportunity to choose whether to use or disclose the personal data.
 
-Adherence to these Principles may be limited: (a) to the extent necessary to meet applicable national security, public interest, or law enforcement requirements, e.g. in the course of lawful requests by public authorities (b) by statute, government regulation, or case law that creates conflicting obligations or explicit authorizations, provided that, in exercising any such authorization, an organization can demonstrate that its non-compliance with the Principles is limited to the extent necessary to meet the overriding legitimate interests furthered by such authorization; or (c) if the effect of the Directive or Member State law is to allow exceptions or derogations, provided such exceptions or derogations are applied in comparable contexts.
+With regard to sensitive personal data, we offer individuals the opportunity to explicitly consent (“opt-in”) to the disclosure of their data to non-authorized third parties or to the use of their personal data for purposes other than those originally intended or later permitted by the individuals.
 
-If COHERENT determines that any person in its employ is in violation of this Privacy Policy such person will be subject to disciplinary process.
+**d) contact and exercise of rights; supervision**
 
-7\. Dispute Resolution
+To exercise these rights or if you have any questions or comments, please contact us directly in writing or by e-mail:
 
-Any questions or concerns regarding the use or disclosure of personal information should be directed to the Data Privacy Officer at the address given below. COHERENT will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the principles contained in this Policy.
+Mark Rakic, Data Protection Officer
 
-With respect to any complaints relating to this Policy that cannot be resolved through COHERENT’s internal processes, COHERENT has agreed to participate in the dispute resolution procedures of the Panel established by the EU Data Protection Authorities and of the Swiss Federal Data Protection and Information Commissioner to resolve disputes pursuant to the Privacy Shield principles available at the addresses given below. In the event that COHERENT or such Authorities determines that COHERENT did not comply with this Policy, COHERENT will take appropriate steps to address any adverse effects and to promote future compliance. COHERENT and its affiliated U.S. companies are also subject to the investigatory and enforcement powers of the Federal Trade Commission, which is the competent supervisory body under the Privacy Shield.
+privacy@Coherent.com
 
-Where a complaint cannot be resolved by any of the before mentioned recourse mechanisms, individuals have a right to invoke binding arbitration under the Privacy Shield Panel as recourse mechanism of ’last resort’.
-
-8\. Targeting Minors
-
-COHERENT does not knowingly collect personally identifiable information from persons under the age of 13. If for some reason COHERENT determines that a person with respect to whom it has collected personal information is under 13, COHERENT will promptly delete or destroy that information.
-
-9\. Contact Information
-
-Questions or comments regarding this Policy should be submitted to COHERENT by mail or e-mail as follows:
-
-Mark Rakic
-
-Data Privacy Officer
-
-[privacy@coherent.com](mailto:privacy@coherent.com)
-
-or by mail
-
-Data Privacy Officer
-
-c/o Coherent, Inc.
+Data Protection Officer, c/o Coherent, Inc.
 
 5100 Patrick Henry Drive
 
-Santa Clara, CA 95054
+Santa Clara, CA 95054, USA
 
-If you are a citizen of an EEA member State, you may also address any unresolved complaints to the EU Data Protection Panel at the following address:
+If you are a citizen of an EEA Member State, you can contact the Data Protection Panel in the event of unresolved complaints:
 
 <http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm>
 
-If you are a citizen of Switzerland, unresolved complaints can be addressed to the Swiss Federal Data Protection and Information Commissioner at the following address:
+As a Swiss citizen, you can contact the Federal Data Protection Commissioner at the following address if you have any unresolved complaints:
 
-<https://www.edoeb.admin.ch/org/00126/index.html?lang=en>
+[https://www.edoeb.admin.ch](https://www.edoeb.admin.ch/)
 
-10\. Changes to this Policy
+Should Coherent or the Data Protection Panel/Federal Data Protection Officer determine that Coherent has not complied with this information, Coherent will take reasonable steps to counteract adverse effects and promote future compliance.
 
-This Policy may be amended from time to time, consistent with the requirements of the Privacy Shield principles. Appropriate public notice will be given concerning such amendments.
-
-This Policy is effective as of September 09, 2016 and was last updated as of October 25, 2017.
-
-[[1]](http://www.coherent.com/#_ftnref1) The EEA currently includes the following countries: Austria, Belgium, Bulgaria, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovak Republic, Slovenia, Spain, Sweden, United Kingdom, Iceland, Liechtenstein, and Norway.
-
-[[2]](http://www.coherent.com/#_ftnref2) Information about the U.S. Department of Commerce Privacy Shield certification can be found at <https://www.privacyshield.gov/> .
-
-## ****
+Coherent and its U.S.-based partners are also subject to the investigative and enforcement powers of the Federal Trade Commission, the regulatory authority responsible for the Privacy Shield.
