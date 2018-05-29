@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gemseducation.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207230231id_/http%3A//www.gemseducation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemseducation.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529193537id_/http%3A//www.gemseducation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GEMS Education
 
@@ -6,7 +6,7 @@ Here at GEMS Education ("gemseducation.com", "we" or "us"), we take your privacy
 
 By using the gemseducation.com site or any GEMS School or GEMS education initiative Site, including signing up for any newsletters or feeds, you are agreeing to be bound by our Terms and Conditions which include this Privacy Policy. Please take the time to read them and note that they may change from time to time. If they do you can always find an up-to-date version here on this page.
 
-We will comply with the privacy laws of the country we are contacting you in. Bu, regardless of legislation we will always aim to be relevant and respectful if you have given us consent to contact you. If at any time you don't feel we've lived up to this, please let us know straight away by Contacting Us.
+We will comply with the privacy laws of the country we are contacting you in. Regardless of legislation we will always aim to be relevant and respectful if you have given us consent to contact you. If at any time you don't feel we've lived up to this, please let us know straight away by [Contacting Us.](https://web.archive.org/talk-to-us/ "Talk to us")
 
 ### **1\. DATA PRIVACY**
 
@@ -22,7 +22,7 @@ We may also ask you to complete surveys that we use for research purposes, altho
 
 Details of any transactions you carry out through the Site or otherwise and of the fulfillment of your orders.
 
-If you want to sign up to receive our newsletter we will collect the following personal information from you: your email address, name, date of birth and what you are interested in hearing more about. 
+If you want to sign up to receive our newsletter we will collect the following personal information from you: your email address, name, date of birth and what you are interested in hearing more about.
 
 We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration purposes and to help us improve the Site. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
 
@@ -83,10 +83,8 @@ To do this we may charge a small admin fee for providing this information. And w
 
 The Webmaster  
 GEMS Education  
-2nd Floor, St Albans House  
-57 – 59 Haymarket  
-London, United Kingdom  
-SW1Y 4QX.
+Sheikh Zayed Rd. - Al Quoz area  
+Dubai, UAE
 
 **1.8 Consent**
 
@@ -126,10 +124,8 @@ The GEMS Education cookie:
 For more information please get in touch with the webmaster at the address below:  
 The Webmaster  
 GEMS Education  
-2nd Floor, St Albans House  
-57 – 59 Haymarket   
-London, United Kingdom  
-SW1Y 4QX.
+Sheikh Zayed Rd. - Al Quoz area  
+Dubai, UAE
 
 **Cookies for Measuring Web Traffic**
 
@@ -169,7 +165,5 @@ If you have any queries, comments or complaints regarding the site or these Term
 
 The Webmaster  
 GEMS Education  
-2nd Floor, St Albans House  
-57 – 59 Haymarket  
-London, United Kingdom  
-SW1Y 4QX 
+Sheikh Zayed Rd. - Al Quoz area  
+Dubai, UAE
