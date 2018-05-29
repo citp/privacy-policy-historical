@@ -1,41 +1,73 @@
-> *The following text is extracted and transformed from the cruisedeals.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122121308id_/http%3A//cruisedeals.com/about/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisedeals.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529203448id_/http%3A//www.crucon.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy for CruiseDeals.com
+# CruCon Cruise Deals - Official Site
 
-**Online Privacy Policy**  
-Travel Leaders Leisure Group, LLC d/b/d CruiseDeals.com respects your privacy. CruiseDeals.com understands that making purchases online involves a great deal of trust on your part; we take this trust very seriously, and make it our highest priority to ensure the security and confidentiality of the personal information you provide us
+CruCon.com believes in protecting your privacy. Please review the Privacy Policy below which governs your use of this web site (www.crucon.com). Please note,  
+if you use a link to go from our web site to another web site, our Privacy Policy is not in effect and you are instead subject to the other web sites's privacy policy or rules.
 
-Cruise Deals provides this statement to inform you about the privacy policy for the CruiseDeals.com site ("Site") and choices you may make about the way your information is collected and used. This notice may be accessed from throughout the Site. The CruiseDeals.com site is designed so that you may visit it without identifying yourself or revealing your personally identifiable information ("Personal Information"), which can be used to identify, contact or locate you.
+What information does CruCon.com collect? 
 
-**How we use the Information you provide**  
-On some CruiseDeals.com pages, you may register to receive a periodic e-mail about travel-related offers. The types of Personal Information collected may include an e-mail address, postal code, name, physical address and credit card account number and expiration date.
+We are committed to providing you with high-quality services and exciting travel offers. With these goals in mind, we are providing you with this information to help you understand our site and to assist you when making decisions about the use of our site. While we may continuously evaluate our business practices, we may collect two types of information from your use of our web site (1) personally identifiable information that you choose to provide or (2) web site use information that is collected as you and others browse on our web site. CruCon.com collects personally identifiable information from you when you email us, register for our E-Deals, or fill out a form. For example, this information can include, but is not limited to, your name, mailing address, email address, payment information, telephone number or other personally identifiable information. CruCon.com also collects non-personally identifiable information on all of its pages, including, but not limited to: user IP address, Internet Service Provider, browser type, entry page, exit page, referring web site, and destination web site. 
 
-From time to time, Cruise Deals also may use your Personal Information to provide you with marketing offers or to contact you for the purpose of market research. Cruise Deals will give you the opportunity to decline such solicitations and will do everything possible to honor such requests.
+Information Collection and Use 
 
-CruiseDeals.com will not sell or lease Personal Information to third parties. Unless CruiseDeals.com has your permission or is required by law, it only will share your Personal Information with vendors and other suppliers of products or services to fulfill a purchase request authorized by you.
+Generally, we use personally identifiable information about you to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings and to customize our site's content, layout, and services. We believe these uses allow us to improve our site and better tailor it to meet our users' needs. Recipients of our promotional or marketing materials are given the opportunity to notify us if they do not wish to receive such offers. 
 
-CruiseDeals.com uses data collected online, such as Internet Protocol (IP) addresses and other non-personally identifiable information, in aggregate to analyze trends, administer the Site and gather broad demographic information. The aggregated information will not be associated in any way that can identify you individually. We reserve the right to share aggregated information about users of the Site with parties outside of CruiseDeals.com, including vendors and business associates.
+Cookies 
 
-Be aware that CruiseDeals.com may publish links on the Site that connect to external Web sites, which may collect personal information about you. This statement does not cover privacy practices or policies of Web sites external to CruiseDeals.com. We provide this notice so that users can make informed choices about sharing personal information with other Web sites.
+To serve you faster and with better quality, we use "cookies" technology. They are a feature of web browser software that allows web servers to recognize the computer used to access a web site. A cookie is a piece of data stored on a users hard drive containing information about the user. They may simplify subsequent transactions with that website or use the information to streamline the users transactions on related web pages. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site.   
+Log Files 
 
-**It’s your information**  
-CruiseDeals.com users are given the opportunity to modify their Personal Information by contacting the customer service department at [service@cruisedeals.com](mailto:service@cruisedeals.com). Users who no longer wish to receive the SeaMail e-mail newsletter may terminate that services by following the unsubscribe instructions at the end of each e-mail newsletter or by e-mailing a request to [service@cruisedeals.com](mailto:service@cruisedeals.com).
+We may use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information (e.g., age, income, online shopping preferences) for aggregate use. IP addresses are not linked to personally identifiable information. 
 
-**Statement Updates**  
-Travel Leaders Leisure Group may update this policy in the future to address new services that may be added to the Site. Please review the privacy policy from time to time to note revisions. If this policy is changed in a material way, we will post notice of the change on the Site. If any proposed change is unacceptable to you, you may request that your Personal Information be removed.
+Sharing 
 
-**Security**  
-CruiseDeals.com takes precautions to protect users’ Personal Information. To prevent unauthorized access, maintain data accuracy and ensure the appropriate use of information, we have established reasonable procedures to safeguard and secure the information collected online.
+We will not sell or rent information to third parties for their use without your consent. We may share your contact and other personal information in ways disclosed in this statement. We may provide your personal information to travel vendors/suppliers and financial institutions or payment card companies in connection with your booking. For example, we use an outside financial institution to process credit card payments. We will also forward certain personally identifiable information (i.e. name, address) to travel suppliers (airlines, hotel, cruise line, etc.) from whom you have purchased products or services. We may disclose your information to promotion partners or other third parties if we have obtained your consent to do so. We also may disclose your information to courts, law enforcement authorities, and relevant third parties such as internet service providers, when such is disclosure is necessary or advisable, in our sole discretion, to conduct an investigation, comply with court order or subpoena, prevent harm to others, or protect our legal rights or those of other users or third parties. We may share aggregated demographic information with our partners, affiliates and advertisers, but this will not include any personally identifying data except as otherwise provided in this policy.
 
-**Contact Us**  
-If you have any questions or concerns about this policy, you may contact CruiseDeals.com at [service@cruisedeals.com](mailto:service@cruisedeals.com). We will attempt to respond to your query right away. 
+Links 
 
-[](http://www.bbb.org/charlotte/business-reviews/cruises/cruise-dealscom-in-charlotte-nc-115986 "Cruise Deals BBBOnline")
+Our website contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every website and microsite that collects personally identifiable information. This privacy statement applies solely to information collected by CruCon on this website.
 
-* * *
+Age of Users 
 
-#### Helpful Links
+Our web sites and services are not directed to persons under the age of 13. We do not knowingly collect information from children under the age of 13, and any web site users under the age of 13 are prohibited from submitting personally identifiable information
 
-* * *
+Surveys & Contests
 
-#### Fun Stuff
+From time-to-time we will request information from users via surveys or contests conducted by us. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and address), and demographic information (such as zip code). Survey information will be used to improve our services and offerings to better meet the needs of our clients and prospective clients.
+
+Security 
+
+We value your trust in us and will work hard to earn your confidence so that you can enthusiastically use our services and recommend us to friends and family. We periodically review our business practices with the goal of improving our policies. Notwithstanding our efforts, we cannot guarantee absolute protection of this information given the open nature and resulting instability of the internet and World Wide Web, and CruCon makes no representations or warranties as to the effectiveness of our security or the security of any links provided, and we assume no liability for security breaches or any failure in the security of your computer equipment, your internet service provider or other networks and communications providers. If you have any questions about the security at our website, you can send an email to [editor@crucon.com](maito:editor@crucon.com).
+
+Right to Change 
+
+We review our Privacy Policy from time to time, and may make changes to the policy pursuant to such review. Please periodically review this page to make sure you have the current version. The foregoing Privacy Policy was last updated on 03-July-2017.
+
+Mandatory Mediation or Arbitration
+
+By using this web site, you agree that any dispute/claim you have arising from or related to use of this web site shall be first submitted to mandatory mediation in the State of New Hampshire before a mediator mutually agreed to by the parties. If mediation is not successful, to the extent permitted by law, you agree to submit to binding arbitration of said dispute in the State of New Hampshire. Such arbitration shall be final and binding on the parties. 
+
+International Use 
+
+We are headquartered in the United States of America and users explicitly acknowledge and consent to the fact that personal information stored or processed in the United States will be subject to the laws of the United States.
+
+Your Consent 
+
+By using our website, you consent to our collection and use of your information as described in this Privacy Policy. Please note, you will have an opportunity to opt-out of non-transactional email messages by following the opt-out instructions listed in the email or on our website.
+
+How to Contact Us
+
+We welcome comments and questions on this policy. We are dedicated to protecting your personal information, and will make every reasonable effort to keep that information secure. Should you have any questions, concerns or comments regarding our privacy policy, send an e-mail to us at [editor@crucon.com](maito:editor@crucon.com).
+
+[Click here for PDF verion.](https://web.archive.org/web/20180529203448id_/http%3A//www.crucon.com/PrivacyPolicy12915.pdf)
+
+  
+
+
+[](http://www.crucon.com/cruconcharities.htm)   
+[  
+](http://www.crucon.com/privacy.htm "CruCon Privacy Policy")All of our advertised cruise rates are in US dollars are per person based on double occupancy, include port charges and are capacity controlled. Taxes, fees and port expenses additional. Restrictions apply. Call for details. Itineraries are provided for reference only. Please verify itinerary on your individual sailing before booking your cruise. Shipboard Credit (if offered), is per cabin not per person, unless otherwise stated in ad. Pre-Paid Gratuities (if offered) are for the first two people in the stateroom only. We make every attempt to keep the website up to date but hot deals sell out very quickly. Rates can be increased at any time by the cruise lines until your cruise is under deposit. We are not responsible for typographical errors that from time to time may occur. We apologize for any confusion that these may cause and attempt to fix these as soon as they are identified.
+
+CruCon Cruise Outlet, 81 Whittier Hwy, Moultonborough, NH 03254.   
+Florida Seller of Travel Registration No. ST41102; California Registration No. (CST) 2097958-70 (Registration as Seller of Travel does not constitute approval by the State of California); Washington Registration No. 604165701 and Iowa Registration No. 1404.
