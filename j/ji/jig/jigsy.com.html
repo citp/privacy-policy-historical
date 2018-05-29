@@ -1,208 +1,238 @@
-<!--The following is the downloaded HTML source of the jigsy.com privacy policy that was archived on 2017-11-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171128002608id_/http%3A//jigsy.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jigsy.com privacy policy that was archived on 2018-05-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180529194431id_/http%3A//jigsy.com/about/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<script src="https://js-agent.newrelic.com/nr-1044.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"agent":"","beacon":"bam.nr-data.net","transactionName":"cQsPTEJfW14HQRZTBF0RFRdAQl5EA1BA","ttGuid":"","applicationID":"8989828","agentToken":null,"queueTime":0,"licenseKey":"488a245010","errorBeacon":"bam.nr-data.net","applicationTime":41}</script>
-<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<!DOCTYPE html><html lang="en"><head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta http-equiv="X-XRDS-Location" content="http://jigsy.com/xrds.xml">
+		<meta name="keywords" content="website builder, online builder, free website, web builder, drag and drop, responsive, mobile friendly,bootstrap,html5">
+		<meta name="description" content="Create a free website with Jigsy.com using our free online easy website builder. Save Time. Create a website in minutes, no installation necessary.   Our team is located on the West Coast of Canada.  Get your free account today.">
+		
+		
 
-    
-      <title>The Easy Website Builder, it's free! Jigsy.com</title>
-    
+		
+		<title>The Easy Website Builder, it's free! Jigsy.com</title>
+		
+		
+		
+		
+		<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+		<link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
+		<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.4/css/bootstrap-select.min.css" integrity="sha256-/us3egi2cVp0mEkVR8cnqLsuDY6BmrDuvTPUuEr1HJQ=" crossorigin="anonymous">
+		
+		<link href="/stylesheets/responsive/style.css?1525383855" media="screen" rel="stylesheet" type="text/css">
+		<link href="/stylesheets/responsive/helper-classes.css?1525383855" media="screen" rel="stylesheet" type="text/css">
+		
+		
+			<link href="/stylesheets/responsive/jigsy.css?1525383855" media="screen" rel="stylesheet" type="text/css">
+		
+		
+		
+		
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+		<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+		<script src="//cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.4/js/bootstrap-select.min.js" integrity="sha256-19J3rT3tQdidgtqqdQ3xNu++Gd7EoP/ag/0x1lHi0xY=" crossorigin="anonymous"></script>
+		<script src="//cdnjs.cloudflare.com/ajax/libs/xregexp/3.2.0/xregexp-all.min.js" integrity="sha256-sWRRk18sgo7+CF6eNBm/BByZ84FD5yC87JJ4A3kZg2k=" crossorigin="anonymous"></script>
+		
+		<script src="/javascripts/responsive/jigsy.js?1525383855" type="text/javascript"></script>
+<script src="/javascripts/responsive/jigsy.countdown.js?1525383855" type="text/javascript"></script>
+<script src="/javascripts/responsive/jigsy.extensions.js?1525383855" type="text/javascript"></script>
+<script src="/javascripts/responsive/jigsy.ajaxForms.js?1525383855" type="text/javascript"></script>
+<script src="/javascripts/responsive/jigsy.util.html.js?1525383855" type="text/javascript"></script>
+<script src="/javascripts/responsive/jigsy.modal.js?1525383855" type="text/javascript"></script>
+		
+		
+		
+		
+		
+		
+	</head>
+	
+	<body id="about_privacy">
+		<header id="site-header">
+			
+			<div class="container">
+	<nav class="navbar navbar-jigsy" id="main-menu-container">
+		<header class="navbar-header">
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-menu" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			
+			<a class="navbar-brand" href="/account">
+				
+				<img src="/images/jigsy/logo.png" alt="Jigsy">
+				
 
-    <link href="/stylesheets/bootstrap.min.css?1510786370" media="screen" rel="stylesheet" type="text/css">
-<link href="/stylesheets/style.css?1510786370" media="screen" rel="stylesheet" type="text/css">
-<link href="/stylesheets/fontello.css?1510786370" media="screen" rel="stylesheet" type="text/css">
-<link href="/stylesheets/animation.css?1510786370" media="screen" rel="stylesheet" type="text/css">
-<link href="/stylesheets/fancybox/jquery.fancybox.css?1510786370" media="screen" rel="stylesheet" type="text/css">
-<link href="/stylesheets/form-elements.css?1510786370" media="screen" rel="stylesheet" type="text/css">
-    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-    
-    <!--[if IE 7]>
-  <link href="/stylesheets/fontello-ie7.css?1510786370" media="screen" rel="stylesheet" type="text/css" />
-<![endif]-->
-<!--[if lte IE 8]>
-  <link href="/stylesheets/ie.css?1510786370" media="screen" rel="stylesheet" type="text/css" />
-<![endif]-->
-<!--[if lte IE 6]>
-  <link href="/stylesheets/fancybox/jquery.fancybox.ie6.css?1510786370" media="screen" rel="stylesheet" type="text/css" />
-<![endif]-->
+				
+			</a>
+		</header>
+		
+		<main class="collapse navbar-collapse" id="main-menu">
+			<ul class="nav navbar-nav navbar-right">
+				
+					
+						<li class="home"><a href="/">Home</a></li>
+						<li class="features"><a href="/features">Features</a></li>
+						<li class="tour"><a href="/account/signup">Themes</a></li>
+						<li class="pricing"><a href="/about/pricing">Pricing</a></li>
+						
+						<li class="blog"><a href="http://blog.jigsy.com/">Blog</a></li>
+						
+						<li class="separator"></li>
+						
+						<li class="signup"><a href="http://jigsy.com/account/signup">Sign Up</a></li>
+						
+						<li class="login"><a href="https://jigsy.com/session/create">Log In</a></li>
+					
+				
+			</ul>
+		</main>
+	</nav>
+</div>
+			
+		</header>
+		
+		<main id="site-body" class="container">
+			<section id="site-messages">
+				
+				
+			</section>
+			
+			
+			<header class="page-header">
+	<h1>Privacy policy</h1>
+	<h2>Disclosure of how we use your data.</h2>
+</header>
 
+<main class="content">
+	<section id="privacy-policy">
+		<h3>Privacy Policy Terms</h3>
 
-    
-    
+		<p>
+			Our site uses cookies to facilitate use of our services. They are also 
+			used to make sure you don't see the same ad repeatedly and to deliver 
+			content specific to your interests. We use your IP address to help 
+			diagnose problems with our server, and to administer our Web site. 
+			Your IP address is used to gather broad demographic information.
+		</p>
 
-    
-      <link href="/stylesheets/jigsy.css?1510786370" media="screen" rel="stylesheet" type="text/css">
-      <link href="/stylesheets/mobile_nav.css?1510786370" media="screen" rel="stylesheet" type="text/css">
-    
+		<p>
+			Information may be shared with partners that provide co-branded 
+			services but this information is limited to that required to implement 
+			such services, and will only occur with the member's consent to 
+			participate in such services.
+		</p>
 
-    
+		<p>
+			Our site's registration form requires users to give us an email 
+			address. We may use this email address to send the user information 
+			about improvements, new features, or important changes in Viviti's 
+			services. We will not sell or otherwise share this email address with 
+			third parties.
+		</p>
 
-    <script src="/javascripts/vendor/flowplayer.js?1510786370" type="text/javascript"></script>
-<script src="/javascripts/vendor/jquery.js?1510786370" type="text/javascript"></script>
-<script src="/javascripts/vendor/jquery_plugins/slides.min.jquery.js?1510786370" type="text/javascript"></script>
-<script src="/javascripts/vendor/jquery_plugins/jquery.json.js?1510786370" type="text/javascript"></script>
-<script src="/javascripts/vendor/jquery_plugins/jquery.jHelperTip.js?1510786370" type="text/javascript"></script>
-<script src="/javascripts/vendor/jquery_plugins/jquery.fancybox.js?1510786370" type="text/javascript"></script>
-<script src="/javascripts/vendor/jquery_plugins/jquery.endless-scroll.js?1510786370" type="text/javascript"></script>
-<script src="/javascripts/vendor/jquery_plugins/jquery.cycle.lite.js?1510786370" type="text/javascript"></script>
-<script src="/javascripts/vendor/jquery_plugins/jquery.inview.min.js?1510786370" type="text/javascript"></script>
-<script src="/javascripts/vendor/swfobject.js?1510786370" type="text/javascript"></script>
-<script src="/javascripts/vendor/swfupload/swfupload.js?1510786370" type="text/javascript"></script>
-<script src="/javascripts/vendor/swfupload/plugins/swfupload.queue.js?1510786370" type="text/javascript"></script>
-<script src="/javascripts/vendor/cookies.js?1510786370" type="text/javascript"></script>
-<script src="/javascripts/jigsy.js?1510786370" type="text/javascript"></script>
+		<p>
+			Viviti contains links to other sites. Viviti is not responsible for 
+			the privacy practices and/or the content of such Web site. Your IP 
+			address is used to gather broad demographic information.
+		</p>
 
-    <meta http-equiv="X-XRDS-Location" content="http://jigsy.com/xrds.xml">
-    <meta name="keywords" content="website builder, online builder, free website, web builder, drag and drop, responsive, mobile friendly,bootstrap,html5">
-    <meta name="description" content="Create a free website with Jigsy.com using our free online easy website builder. Save Time. Create a website in minutes, no installation necessary.   Our team is located on the West Coast of Canada.  Get your free account today.">
+		<p>
+			We may use outside companies to display ads and collect information on 
+			our site and services. These ads may contain cookies for optimization 
+			purposes, and Viviti does not have access to this information. These 
+			companies may use this information (not including your name, address, 
+			email address or telephone number) about your visits to this and other 
+			Web sites in order to provide advertisements on Viviti, other Web sites 
+			and other forms of media about goods and services of interest to you. 
+			For more information, or to learn about opting-out of such advertising 
+			technologies, please visit: http://www.networkadvertising.org
+		</p>
+	</section>
+	
+	<section id="children-privacy">
+		<h3>Children's Privacy</h3>
+		
+		<p>
+			Our service is not available to children under the age of 13, and 
+			we will not intentionally maintain information about anyone under 
+			the age of 13.
+		</p>
+	</section>
+	
+	<section id="contacting-us">
+		<h3>Contacting Us</h3>
+		
+		<p>
+			If you have any questions about this privacy statement, the 
+			practices of this site, or your dealings with Viviti, you can 
+			contact us at feedback@viviticms.com.
+		</p>
+	</section>
+</main>
+		</main>
+		
+		<footer id="site-footer">
+			
+			<div class="container">
+	<div class="row">
+		<section id="footer-nav" class="col-md-8">
+			<div class="row">
+				<nav class="col-md-3">
+					<h4>Information</h4>
+					
+					<ul class="nav nav-pills nav-stacked">
+						
+						<li><a href="/about">About Jigsy</a></li>
+						<li><a href="/about/contact">Contact Us</a></li>
+						
+						
+						
+							
+							<li><a href="/about/pricing">Plans &amp; Pricing</a></li>
+							
+						
+					</ul>
+				</nav>
+				
+				
+				<nav class="col-md-3">
+					<h4>Community</h4>
+					
+					<ul class="nav nav-pills nav-stacked">
+						<li><a href="/support">Support</a></li>
+						<li><a href="https://wiki.jigsy.com">Read The Wiki</a></li>
+						<li><a href="http://blog.jigsy.com">Jigsy Blog</a></li>
+					</ul>
+				</nav>
+				
+				
+				
+			</div>
+		</section>
+		
+		<section id="copyright" class="col-md-4 text-right">
+			© Copyright 2008-2018 Jigsy. All Rights Reserved.<br>
+			<a href="/about/privacy" target="_parent">Privacy Policy</a>
+			·
+			<a href="/about/tos" target="_parent">Terms of Service</a>
 
-    
-    
-    
-  </head>
-
-  <body id="about_privacy">
-    
-         <div id="mobile_wrapper">
-      <div id="mobile_navigation">
-        <div id="mobnav-btn">
-          Menu
-          <div>
-            <span></span>
-            <span></span>
-            <span></span>
-          </div>
-        </div>
-        <ul>
-          <li class="home"><a href="/">Home</a></li>
-
-          
-            <li class="blog"><a href="http://blog.jigsy.com/">Blog</a></li>
-          
-            <li class="features"><a href="/features">Features</a></li>
-         
-            <li class="pricing"><a href="/about/pricing">Pricing</a></li>
-          
-
-          <li class="tour"><a href="http://jigsy.com/account/signup">Themes</a></li>
-          <li class="signup"><a href="http://jigsy.com/account/signup">Sign Up</a></li>
-          <li class="login"><a href="https://jigsy.com/session/create">Log In</a></li>
-        </ul>
-      </div>
-    </div>
-
-    <script src="/javascripts/mobile_nav.js?1510786370" type="text/javascript"></script>
-    
-
-    <div id="page_wrapper">
-      <div class="container">
-        <div id="header">
-
-   
-     <img src="/images/jigsy/logo.png" alt="Jigsy">
-   
-
-   
-
-   
-
-   <ul id="navigation">
-     
-       
-         <li class="home"><a href="/">Home</a></li>
-         <li class="features"><a href="/features">Features</a></li>
-         <li class="tour"><a href="/account/signup">Themes</a></li>
-         <li class="pricing"><a href="/about/pricing">Pricing</a></li>
-         
-           <li class="blog"><a href="http://blog.jigsy.com/">Blog</a></li>
-         
-
-
-         <li class="secondary_nav">
-           <ul>
-             
-               <li class="signup"><a href="http://jigsy.com/account/signup">Sign Up</a></li>
-             
-             <li class="login"><a href="https://jigsy.com/session/create">Log In</a></li>
-           </ul>
-         </li>
-       
-     
-   </ul>
- </div><!-- #header -->
-
-
-         
-        
-        
-
-        <div class="page"><div class="content" id="top_content"><h1>Privacy policy</h1><h2>Disclosure of how we use your data.</h2></div><div class="content"><h3>Privacy Policy Terms</h3><p>Our site uses cookies to facilitate use of our services. They are also used to make sure you don't see the same ad repeatedly and to deliver content specific to your interests.
-    We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information. </p><p>Information may be shared with partners that provide co-branded services but this information is limited to that required to implement such services, and will only occur
-    with the member's consent to participate in such services. </p><p>Our site's registration form requires users to give us an email address. We may use this email address to send the user information about improvements, new features, or important changes in Viviti's services. We will not sell or otherwise share this email address with third parties.</p><p>Viviti contains links to other sites. Viviti is not responsible for the privacy practices and/or the content of such Web site. Your IP address is used to gather broad demographic information. </p><p>We may use outside companies to display ads and collect information on our site and services. These ads may contain cookies for optimization purposes, and Viviti does not have access to this information. These companies may use this information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on Viviti, other Web sites and other forms of media about goods and services of interest to you. For more information, or to learn about opting-out of such advertising technologies, please visit: http://www.networkadvertising.org</p><h3>Children's Privacy</h3><p>Our service is not available to children under the age of 13, and we will not intentionally maintain information about anyone under the age of 13.</p><h3>Contacting Us</h3><p>If you have any questions about this privacy statement, the practices of this site, or your dealings with Viviti, you can contact us at feedback@viviticms.com.</p></div></div>
-
-        <div class="container" id="footer">
-  <div id="copyright">
-    
-      © Copyright 2008-2017 Jigsy. All Rights Reserved.
-    
-
-    
-
-    
-    <div class="social_links">
-      <a href="http://twitter.com/Jigsybuilder" class="social_twitter"><span>Twitter</span></a>
-      <a href="http://www.facebook.com/pages/Jigsy/130819021738" class="social_facebook"><span>Facebook</span></a>
-    </div>
-    
-  </div><!-- #copyright -->
-
-  <div id="footer_nav">
-    
-    <dl>
-      <dt>Information</dt>
-
-      
-      <dd><a href="/about">About Jigsy</a></dd>
-
-      <dd><a href="/about/contact">Contact Us</a></dd>
-      
-
-
-
-
-
-
-
-      
-        
-
-          <dd><a href="/about/pricing">Plans &amp; Pricing</a></dd>
-
-        
-      
-    </dl>
-    
-
-    
-    <dl>
-      <dt>Community</dt>
-      <dd><a href="/support">Support</a></dd>
-      <dd><a href="https://wiki.jigsy.com">Read The Wiki</a></dd>
-      <dd><a href="http://blog.jigsy.com">Jigsy Blog</a></dd>
-    </dl>
-    
-
-    
-
-  </div><!-- #footer_nav -->
-  <br style="clear: both">
-</div><!-- #footer.container -->
-
-        
+			
+			<div class="social-links">
+				<a href="http://twitter.com/Jigsybuilder" target="_blank" class="social-network social-twitter"><span class="sr-only">Twitter</span><i class="fab fa-twitter" aria-hidden="true"></i></a>
+				<a href="http://www.facebook.com/pages/Jigsy/130819021738" target="_blank" class="social-network social-facebook"><span class="sr-only">Facebook</span><i class="fab fa-facebook-f" aria-hidden="true"></i></a>
+			</div>
+			
+		</section>
+	</div>
+</div>
+			
+		</footer>
+		
         
 <script type="text/javascript">
   var _gaq = _gaq || [];
@@ -220,18 +250,13 @@
 
 
         <!-- BEGIN ProvideSupport.com Visitor Code -->
-<div id="ciSH14" style="z-index:100;position:absolute"></div><div id="sdSH14" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/jigsychat/safe-monitor.js?ps_h=SH14&amp;ps_t=1582560795972"></script></div><script type="text/javascript">var seSH14=document.createElement("script");seSH14.type="text/javascript";var seSH14s=(location.protocol.indexOf("https")==0?"https":"http")+"://image.providesupport.com/js/jigsychat/safe-monitor.js?ps_h=SH14&ps_t="+new Date().getTime();setTimeout("seSH14.src=seSH14s;document.getElementById('sdSH14').appendChild(seSH14)",1)</script><noscript><div style="display:inline"><a href="http://www.providesupport.com?monitor=jigsychat"><img src="http://image.providesupport.com/image/jigsychat.gif" border="0"></a></div></noscript>
+<div id="ciSH14" style="z-index:100;position:absolute"></div><div id="sdSH14" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/jigsychat/safe-monitor.js?ps_h=SH14&amp;ps_t=1582539977220"></script></div><script type="text/javascript">var seSH14=document.createElement("script");seSH14.type="text/javascript";var seSH14s=(location.protocol.indexOf("https")==0?"https":"http")+"://image.providesupport.com/js/jigsychat/safe-monitor.js?ps_h=SH14&ps_t="+new Date().getTime();setTimeout("seSH14.src=seSH14s;document.getElementById('sdSH14').appendChild(seSH14)",1)</script><noscript><div style="display:inline"><a href="http://www.providesupport.com?monitor=jigsychat"><img src="http://image.providesupport.com/image/jigsychat.gif" border="0"></a></div></noscript>
 <!-- END ProvideSupport.com Visitor Code -->
 
-      </div><!-- .container -->
-    </div><!-- #page_wrapper -->
-
-     
-    
-    <div id="ajax_spinner">
-        <i class="fa fa-spinner fa-spin fa-5x fa-fw"></i>
-    </div>
-
-  
-
+        
+		
+		<div id="ajax-spinner">
+			<i class="fa fa-spinner fa-spin fa-5x fa-fw"></i>
+		</div>
+	
 </body></html>
