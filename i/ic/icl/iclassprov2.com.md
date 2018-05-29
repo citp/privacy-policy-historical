@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iclassprov2.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128001507id_/https%3A//www.iclasspro.com/notice/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iclassprov2.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529193835id_/https%3A//www.iclasspro.com/notice/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - iClassPro Class Management Software - Gymnastics, Cheer, Swim, and Dance
+# iClassPro Privacy Policy - iClassPro Class Management Software - Gymnastics, Cheer, Swim, and Dance
 
 **Our Commitment to Privacy**  
 Our Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our clients and partners. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. This statement will be continuously assessed against new technologies, business practices, and our customers' needs.
@@ -42,7 +42,7 @@ Cookies help us collect important business and technical statistics. The informa
 From time to time you may notice offers from outside companies advertised on our Web site. We take measures to select product or service providers that are responsible and afford privacy protections to their customers. However, we cannot make any representations about the practices and policies of these companies.
 
 **Sharing Information with Strategic Partners**  
-We may enter into strategic marketing alliances or partnerships with third parties who may be given access to personal information including your name, address, telephone number and email for the purpose of providing you information regarding products and services that we think will be of interest to you. In connection with strategic marketing alliances or partnerships, we will retain all ownership rights to the information, and we will not share information regarding your social security number or other personal financial data.
+We may enter into strategic marketing alliances or partnerships with third parties who may be given access to personal information including names, address, telephone number and email for the purpose of providing you information regarding products and services that we think will be of interest to you. In connection with strategic marketing alliances or partnerships, we will retain all ownership rights to the information, and we will not share information regarding your social security number or other personal financial data.  Please note that iClassPro values your data privacy and does not disclose information regarding our clients' customers, employees, families or student database for financial gain or exploitation.  iClassPro reserves the right to transmit customer data (including families, students, staff) when connecting to outside services and vendors as a value added benefit to our customers to enhance services for our clients.  Examples: Mail Chimp, Constant Contact, Twilio (text messaging).   
 
 **Notice of New Services and Changes**  
 Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. As our client, you will be given the opportunity to notify us of your desire not to receive these offers by clicking on a response box when you receive such an offer or by sending us an email request at [support@iclasspro.com](mailto:support@iclasspro.com).
@@ -77,14 +77,6 @@ We are not responsible for the practices employed by Web sites linked to or from
 
 Please remember that when you use a link to go from our Web Site and/or the iClassPro Application to another Web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other Web site, including Web sites which have a link on our Web site, is subject to that Web site’s own rules and policies. Please read over those rules and policies before proceeding.
 
-**Opt-Out**  
-You may opt-out of receiving marketing communications from us by following the opt-out instructions in our communications. 
-
-To the extent required by law, you may choose to opt out of sharing with any other parties with whom we may share your personal information; however, you may be unable to use the Services or certain features if you wish to limit such sharing.
-
-**Your Consent**  
-By using our Web Site and/or the iClassPro Application you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
-
 **EU-US Privacy Shield**  
 iClassPro, Inc. complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. iClassPro has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. Furthermore, we require third party recipients of EU citizens’ Personal Data to agree to respect these principles, and we accept liability for third parties’ processing of EU citizens’ data to the extent required by law.
 
@@ -96,14 +88,22 @@ iClassPro has further committed to cooperate with the panel established by the E
 
 Under certain circumstances, these dispute resolution processes may result in your ability to invoke binding arbitration. As a U.S. company, we are also subject to the investigatory and enforcement power of the FTC regarding our compliance with the Privacy Shield Framework and this Privacy Policy, and users may direct complaints to the FTC in the event the dispute resolution processes described above is unsatisfactory.
 
+**Opt-Out**  
+You may opt-out of receiving marketing communications from us by following the opt-out instructions in our communications. 
+
+To the extent required by law, you may choose to opt out of sharing with any other parties with whom we may share your personal information; however, you may be unable to use the Services or certain features if you wish to limit such sharing.
+
+**Your Consent**  
+By using our Web Site and/or the iClassPro Application you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
+
 **Changes to this Privacy Policy**  
 We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be available at [www.iclasspro.com/notice/privacy-policy](http://www.iclasspro.com/notice/privacy-policy).
 
 **Contact Us**  
 iClassPro, Inc.  
-1221 Judson Rd.  
-Longview, TX 75601  
+1249 L.L. Mackey  
+Longview, TX 75605  
 Phone: 877-554-6776  
 Email: [support@iclasspro.com](mailto:support@iclasspro.com)
 
-_Last updated: 8/10/2017_
+_Last updated: 12/14/2017_
