@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ibtimes.com.au privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128034805id_/http%3A//www.ibtimes.com.au/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibtimes.com.au privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529032237id_/http%3A//www.ibtimes.com.au/corporate/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | International Business Times AU
+# Privacy Policy
 
 _This policy was last updated on March 3, 2014_
 
