@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the extendoffice.com privacy policy that was archived on 2017-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170420204709id_/https%3A//www.extendoffice.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extendoffice.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529065206id_/https%3A//www.extendoffice.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# ExtendOffice - Privacy Policy
 
 ## Privacy Policy -- Effective Date: 20 February 2017
 
@@ -40,6 +40,6 @@ ExtendOffice may amend this Privacy Policy from time-to-time. We will notify you
 
 **ExtendOffice Contact Information**
 
-If you would like to contact us with questions or comments concerning our Privacy Policy or if you feel your inquiry or request has not been addressed to your satisfaction, please contact ExtendOffice via e-mail: sales@extendoffice.com.
+If you would like to contact us with questions or comments concerning our Privacy Policy or if you feel your inquiry or request has not been addressed to your satisfaction, please contact ExtendOffice via e-mail: .
 
-[Print](https://www.extendoffice.com/privacy-policy.html?tmpl=component&print=1&page= "Print article < Privacy Policy >")[Email](https://www.extendoffice.com/component/mailto/?tmpl=component&template=yoo_avion&link=80bc3bcaf36c24bf7c8a22f453c46dfe8fcfb659 "Email this link to a friend")
+[ Print ](https://www.extendoffice.com/privacy-policy.html?tmpl=component&print=1 "Print article < Privacy Policy >")[ Email ](https://www.extendoffice.com/component/mailto/?tmpl=component&template=yoo_avion&link=80bc3bcaf36c24bf7c8a22f453c46dfe8fcfb659 "Email this link to a friend")
