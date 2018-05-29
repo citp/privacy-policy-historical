@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flyreagan.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126143332id_/http%3A//flyreagan.com/about/privacy-statement-and-website-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyreagan.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529031353id_/http%3A//flyreagan.com/about/privacy-statement-and-website-policy) for the most accurate reproduction.*
 
 # Privacy Statement and Website Policy | Metropolitan Washington Airports Authority
 
