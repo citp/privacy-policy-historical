@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wtatv.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221204737id_/http%3A//www.wtatv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtatv.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529192150id_/http%3A//www.wtatv.com/privacy-policy) for the most accurate reproduction.*
 
 # WTA TV | PRIVACY POLICY - Watch Live Stream WTA Women's Tennis Matches Online
 
 This Privacy Policy explains how Perform Media Channels Limited ("Perform") together with other companies within the Perform Group (which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006) (the "Perform Group") use information we collect about you and the choices you can make about the way your information is collected and used.
 
-Unless separately defined herein, the defined terms in this Privacy Policy have the same meaning as in the Terms and Conditions which can be found [here](https://web.archive.org/web/20171221204737id_/http%3A//www.wtatv.com/www.wtatv.com/terms-of-use).
+Unless separately defined herein, the defined terms in this Privacy Policy have the same meaning as in the Terms and Conditions which can be found [here](https://web.archive.org/web/20180529192150id_/http%3A//www.wtatv.com/www.wtatv.com/terms-of-use).
 
 By your use of the Website you consent to the terms and conditions of this Privacy Policy.
 
