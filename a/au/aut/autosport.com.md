@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autosport.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627051448id_/https%3A//www.autosport.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autosport.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530105637id_/https%3A//www.autosport.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@
 
 We respect your privacy and we are committed to protecting your personal Information as that term is defined in the Act (“Information”). We comply with the principles of the Act and aim to maintain consistently high levels of best practice in our processing of your Information.
 
-And here’s our upfront promise.  We know how important it is for you to have control over any communications that you receive from us, so here’s a quick and easy way of opting-out of all marketing communications.  BUT please remember that this will remove you from everything you’ve signed up for and you may wish to be more selective and choose which communications you no longer wish to receive, particularly by email or SMS, by clicking on the unsubscribe link provided at the bottom of each and every message we send you. Otherwise please click here.
+And here’s our upfront promise.  We know how important it is for you to have control over any communications that you receive from us, so here’s a quick and easy way of opting-out of all marketing communications.  BUT please remember that this will remove you from everything you’ve signed up for and you may wish to be more selective and choose which communications you no longer wish to receive, particularly by email or SMS, by clicking on the unsubscribe link provided at the bottom of each and every message we send you. Otherwise please [click here](mailto:datacontroller@autosport.com).
 
 Please read in conjunction with our [Terms & Conditions](https://web.archive.org/terms-and-conditions) and our [Cookie Policy](https://web.archive.org/cookies-policy).
 
@@ -39,7 +39,7 @@ Different websites operated by us may ask for different pieces of Information. Y
 
 2.2. Information we collect through your use of our Website
 
-As you use our website, Information may also be passively collected by us through our use of cookies, flash cookies, web beacons, pixels, log files, and other technologies. This Information allows us to deliver more helpful Information, services, tools and advertisements. Please see our Cookie Policy for more Information.
+As you use our website, Information may also be passively collected by us through our use of cookies, flash cookies, web beacons, pixels, log files, and other technologies. This Information allows us to deliver more helpful Information, services, tools and advertisements. Please see our [Cookie Policy](https://web.archive.org/cookies-policy) for more Information.
 
 2.3. Information we receive from third parties
 
@@ -106,24 +106,24 @@ We believe that advertising is more interesting to you when it is relevant. Acco
   * The Information you voluntarily provide to us
   * Geographic location Information, which we may determine through your IP address, from your mobile device, or other ways
   * Data we receive from third parties
-  * Your visits to our website or your use of our services (commonly referred to as "Behavioural Advertising"). Please see our Cookie Policy for further Information.
-  * Advertisers or other third parties using our website may also engage in Behavioural Advertising and use cookies and other technologies s in the manner in our Cookie Policy. We do not control these advertisers or other parties' use of cookies or other technologies or what they do with the Information they collect. Please see our Cookie Policy for further Information.
+  * Your visits to our website or your use of our services (commonly referred to as "Behavioural Advertising"). Please see our [Cookie Policy](https://web.archive.org/cookies-policy) for further Information.
+  * Advertisers or other third parties using our website may also engage in Behavioural Advertising and use cookies and other technologies s in the manner in our [Cookie Policy](https://web.archive.org/cookies-policy). We do not control these advertisers or other parties' use of cookies or other technologies or what they do with the Information they collect. Please see our [Cookie Policy](https://web.archive.org/cookies-policy) for further Information.
 
 
 
-You can limit the way that we tailor advertising based on your Information by objecting to the cookies that we or third parties wish to place on your browser or deleting the cookies that we or third parties have placed on your browser. Please see our Cookie Policy for more details of how to delete cookies.
+You can limit the way that we tailor advertising based on your Information by objecting to the cookies that we or third parties wish to place on your browser or deleting the cookies that we or third parties have placed on your browser. Please see our [Cookie Policy](https://web.archive.org/cookies-policy) for more details of how to delete cookies.
 
 After you have exercised your right to object or reject the use of cookies, you may still see advertisements, but the advertising may not be as relevant to your interests. If you change your computer, change your browser or delete certain cookies, you will need to renew your preferences.
 
  
 
-## 5\. Can i find out what personal information Autosport Media holds on me?
+## 5\. Can I find out what personal information Autosport Media holds on me?
 
 Under the Act you have the right to request a copy of the Information that we hold about you. There will be an administration fee of £10 associated with this request, as permitted by the Act, and it will require two pieces of identification to prove your identity. Please make a written application to the Data Protection Officer, Autosport Media UK Limited, 1 Eton Street, Richmond, TW9 1EF.  The statutory time for our response is 40 days but with your help in providing us with relevant Information we endeavour to respond sooner.
 
 If any of the Information that we hold about you is incorrect and you’d like it amended, please email datacontroller@autosport.com and we’ll review your request.
 
-If the incorrect Information relates to your magazine subscription, then you can contact the Customer Services team on 0344 543 8035 who will update your details as soon as practically possible.
+If the incorrect Information relates to your magazine subscription, then you can contact the Customer Services team on 0345 120 2004 who will update your details as soon as practically possible.
 
  
 
@@ -167,7 +167,7 @@ The Telephone Preference Service (TPS), the Corporate Telephone Preference Servi
 
 7.3. Contacting Us
 
-If your Information has changed or if you no longer wish to receive marketing communications from us then you can amend your Information or update your preferences if you click here.
+If your Information has changed or if you no longer wish to receive marketing communications from us then you can amend your Information or update your preferences if you [click here](mailto:datacontroller@autosport.com).
 
 Please note that:
 
