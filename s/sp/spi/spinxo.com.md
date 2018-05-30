@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spinxo.com privacy policy that was archived on 2017-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170720204745id_/https%3A//spinxo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spinxo.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530085657id_/http%3A//www.spinxo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,6 +10,14 @@ Once you have signed up for our service, you have joined as a member. We only co
 
 ##  Cookies 
 
-"Cookies" are minute pieces of information stored via your browser on your computer. These cookies allow sites to learn about the users when they visit specific sites. We only use cookies to personalize your experience on SpinXO. When you enter the site, we place a cookie in your browser's cookie folder. This allows us to keep track of the areas you visit on SpinXO. In addition, if you so choose, your SpinXO membership identification and password are saved in a cookie so that you do not have to sign in each time you visit the site. This is a service we offer entirely for your convenience. We are committed to your privacy, and no individual information that is saved in your cookie file will ever be provided to a third party. We may also monitor your passage through the site in order to improve the overall presentation of the site and your ability to use it. Nonetheless, in no way will we be able to identify you personally, and download, transmit or gain access to your personal information through such monitoring unless you have chosen the option to allow for personalization. 
+"Cookies" are minute pieces of information stored via your browser on your computer. These cookies allow sites to learn about the users when they visit specific sites. We only use cookies to personalize your experience on SpinXO. When you enter the site, we place a cookie in your browser's cookie folder. This allows us to keep track of the areas you visit on SpinXO. In addition, if you so choose, your SpinXO membership identification and password are saved in a cookie so that you do not have to sign in each time you visit the z.site. This is a service we offer entirely for your convenience. We are committed to your privacy, and no individual information that is saved in your cookie file will ever be provided to a third party. We may also monitor your passage through the site in order to improve the overall presentation of the site and your ability to use it. Nonetheless, in no way will we be able to identify you personally, and download, transmit or gain access to your personal information through such monitoring unless you have chosen the option to allow for personalization. 
 
 In sum, your security and privacy is of our utmost concern, and we will never intentionally violate the trust you place in us. 
+
+## What is SpinXO?
+
+SpinXO helps generate hundreds of username ideas with a few mouse clicks. Find names for Twitter, Skype, Youtube, AOL or any other online service requiring a unique screen name. 
+
+  * [ Generate Username Ideas ](https://web.archive.org/web/20180530085657id_/http%3A//www.spinxo.com/)
+
+
