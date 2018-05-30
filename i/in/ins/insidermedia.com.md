@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidermedia.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124013453id_/https%3A//www.insidermedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidermedia.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530173405id_/https%3A//www.insidermedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy & Cookies | Insider Media Ltd
 
@@ -83,14 +83,21 @@ They enable us:
 Our third-party suppliers that use cookies are as follows:
 
   * Google Analytics – this enables us to track our website traffic;
-  * OpenX – this enables us to display and track adverts on our site;
-  * TDP – this enables us to display and track adverts on our site;
-  * YouTube – this enables us to display videos on our site;
-  * Vimeo – this enables us to display videos on our site.
+  * Google AdSense – this enables us to display adverts from Google on our website;
+  * Revive AdServer (formerly OpenX) – this enables us to display and track adverts on our website and email newsletters;
+  * TDP – this enables us to display and track adverts on our website;
+  * YouTube – this enables us to display videos on our website;
+  * Vimeo – this enables us to display videos on our website.
 
 
 
-You may refuse to accept cookies by activating the setting on your browser ([Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences), [Chrome](https://support.google.com/chrome/answer/95647?hl=en-GB), [Internet Explorer](http://windows.microsoft.com/en-GB/internet-explorer/delete-manage-cookies#ie=ie-11), [Safari](https://support.apple.com/kb/ph19214?locale=en_US)) which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our Website. Please note that our advertisers may also use cookies, over which we have no control. Our Website may contain electronic images known as web beacons which allows us to count users who have visited those pages and deliver co-branded services. Web beacons are not used to access your personally identifiable information on our Website. They are a technique to compile aggregated statistics about our Website’s usage. Web beacons collect only a limited set of information including a cookie number, time and date of a page view and a description of the page on which the web beacon resides.
+You may refuse to accept cookies by activating the setting on your browser ([Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences), [Chrome](https://support.google.com/chrome/answer/95647?hl=en-GB), [Internet Explorer](http://windows.microsoft.com/en-GB/internet-explorer/delete-manage-cookies#ie=ie-11), [Safari](https://support.apple.com/kb/ph19214?locale=en_US)) which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our Website.
+
+Please note that our advertisers may also use cookies, over which we have no control. If you wish to opt out of personalised advertising from Google, you can do so by visiting [Ads Settings](https://www.google.co.uk/settings/ads).
+
+Our Website may contain electronic images known as Web Beacons which allows us to count users who have visited those pages and deliver co-branded services. Web beacons collect only a limited set of information including a cookie number, time and date of a page view and a description of the page on which the web beacon resides.
+
+Cookies and Web Beacons are not used to access your personally identifiable information on our Website. They are a technique to compile aggregated statistics about our Website’s usage.
 
 ### Links to other websites
 
