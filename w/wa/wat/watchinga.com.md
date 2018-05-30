@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchinga.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129045056id_/http%3A//watchinga.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchinga.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530131051id_/http%3A//www.watchinga.com/privacy) for the most accurate reproduction.*
 
 # Watchinga
 
