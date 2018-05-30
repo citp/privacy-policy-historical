@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nmmu.ac.za privacy policy that was archived on 2017-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170722111538id_/http%3A//www.nmmu.ac.za/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nmmu.ac.za privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531005918id_/http%3A//www.mandela.ac.za/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement
 
 ##  PRIVACY POLICY STATEMENT
 
-The Nelson Mandela Metropolitan University (hereafter referred to as “the University”) respects the privacy of all users who visit in our websites or communicate electronically with us. The Privacy Policy therefore provides an explanation on how the University gathers and disseminate information for all NMMU websites:
+The Nelson Mandela University (hereafter referred to as “the University”) respects the privacy of all users who visit in our websites or communicate electronically with us. The Privacy Policy therefore provides an explanation on how the University gathers and disseminate information for all University websites:
 
 ##  INFORMATION COLLECTED AUTOMATICALLY BY THE UNIVERSITY
 
@@ -22,7 +22,7 @@ The information provided by you is used to get in contact with you in response t
 
 Some of our websites may use cookies to store any preferences you may have expressed. Cookies are like tokens for a specific web page that the web server stores on your computer. The next time you visit us, your computer will pass the cookie back to our server and thus keep track of your preferences. This will allow our websites to personalise your online experience. Your browser can be set to warn you whether a cookie should be accepted or declined. Alternatively, you may disable cookies altogether, in which case you may not be able to visit these specific pages.
 
-Further information about cookies may be found at: [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+Further information about cookies may be found at:[www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
 ##  SECURITY
 
@@ -34,7 +34,7 @@ Some websites contain links to other sites. The Nelson Mandela Metropolitan Univ
 
 ##  DATA PROTECTION
 
-The University ensures that all personal data is held in accordance with the Protection of Personal Information Act 4 of 2013. Should you have any query regarding Protection of Personal Information Act 4 of 2013 issues, please contact the NMMU Legal Office.
+The University ensures that all personal data is held in accordance with the Protection of Personal Information Act 4 of 2013. Should you have any query regarding Protection of Personal Information Act 4 of 2013 issues, please contact the University Legal Office.
 
 ##  CONSENT
 
@@ -46,4 +46,4 @@ The University reserves the right to amend the Privacy Policy Statement. Any cha
 
 ##  DISCLAIMER
 
-It is the policy of the Nelson Mandela Metropolitan University to abide by and follow any rule of common or statutory law. Page content posted by individuals, departments and student organisations to the Nelson Mandela Metropolitan University’s websites reflect their own opinions, interests, and activities; they do not implicitly or explicitly represent official policies or positions of the Nelson Mandela Metropolitan University. Individual content maintainers assume responsibility and liability for the content of their pages. The Nelson Mandela Metropolitan University does not aggressively review, censor or control the contents of these pages, nor does it assume responsibility for any links that you may follow from them. For further assistance, contact the webmaster@nmmu.ac.za.
+It is the policy of the Nelson Mandela Metropolitan University to abide by and follow any rule of common or statutory law. Page content posted by individuals, departments and student organisations to the Nelson Mandela Metropolitan University’s websites reflect their own opinions, interests, and activities; they do not implicitly or explicitly represent official policies or positions of the Nelson Mandela Metropolitan University. Individual content maintainers assume responsibility and liability for the content of their pages. The Nelson Mandela Metropolitan University does not aggressively review, censor or control the contents of these pages, nor does it assume responsibility for any links that you may follow from them. For further assistance, contact the [webmaster@mandela.ac.za](mailto:webmaster@mandela.ac.za).
