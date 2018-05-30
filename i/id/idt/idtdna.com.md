@@ -1,129 +1,238 @@
-> *The following text is extracted and transformed from the idtdna.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125081601id_/http%3A//www.idtdna.com/pages/home/general-information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idtdna.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530231623id_/http%3A//www.idtdna.com/pages/support/privacy) for the most accurate reproduction.*
 
-# IDT DNA Privacy and Security
+# Privacy
 
-This Privacy Policy applies to Integrated DNA Technologies, Inc. (IDT) and its corporate affiliates that have not published their own privacy policy. This privacy policy does not apply to the websites of our business partners or to any other third parties, even if their websites are linked to our website. IDT is not responsible for the privacy policies or the content of linked websites. Unless otherwise specified, IDT does not imply any relationship, sponsorship, or affiliation between IDT and the linked websites. IDT encourages you review the privacy policies of the other parties with whom you interact.
+#### We updated our privacy notice effective may 2018
 
-IDT’s Privacy Policy discloses the privacy practices of IDTDNA.COM. This Privacy Policy applies solely to information collected by IDT. Your use of this site is subject to the Privacy Policy, which you may at any time print or download (or request a printed copy by contacting IDT at the address specified below). IDT’s Privacy Policy explains the following:
+This Privacy Policy (“Privacy Policy”) explains how Integrated DNA Technologies, Inc. and its affiliates (collectively, “IDT”) handle Personal Data provided to us on websites and other digital services and products controlled by IDT that link to this Privacy Policy (collectively, “IDT sites”). IDT is the data controller for the processing of Personal Data under applicable law. This Privacy Notice does not apply to IDT sites that do not link to this Privacy Policy or to third-party websites linked from IDT sites.
 
-  1. What information is collected;
-  2. How IDT uses the information;
-  3. How IDT may share collected information; and
-  4. How IDT customers can access and update collected information.
+##### Summary
 
+This summary section provides a brief overview of our Privacy Notice. Please read the full Privacy Policy below for more detailed information.
 
-
-For the purposes of this privacy statement, "corporate affiliates" means any entity or joint venture that is wholly or partially owned or controlled by Integrated DNA Technologies, Inc. "Business partners" means any subcontractor, vendor, or other entity with whom we have an ongoing business relationship to provide products, services, or information. "Personal information" means information that identifies you, such as your name, telephone number, and email address.
-
-## Consent and data transfer
-
-By providing your personal information to us, including information furnished via email, during registration, an online order, or other direct contact from you, you agree that we may collect and use such personal information and other information in accordance with the terms and conditions of this Privacy Policy.
-
-For our customers in Belgium and the European Union, please note that IDT (as a US-based company) operates also through its direct and indirect subsidiaries in countries outside of the European Union (including the US) and may involve third parties. If you use this site, all information, including personal information, will be transferred to Integrated DNA Technologies, Inc. (including subcontractors that may be maintaining and/or operating our site) in the United States and elsewhere and may be transferred to third parties that may be located anywhere in the world.
-
-Although this may include recipients of information located in countries where there may be a lower level of legal protection for your personal information than in your location country, we will protect your information in accordance with requirements applicable to your information. By using this website you explicitly consent to the transfer of your personal information and other information to the United States and elsewhere for the purposes and uses described herein.
-
-## IDT information collection
-
-IDT collects and may retain personal information you give to us; for example, we may ask you to provide personal information when you:
-
-  * Use our website;
-  * Request quotes, services, support, or information;
-  * Place orders for products or services;
-  * Apply for credit or financing;
-  * Participate in surveys, sweepstakes, or other promotional activities;
-  * Subscribe to newsletters, promotional emails, or other materials;
-  * Apply for a job, submit your resume/CV, or create a candidate profile; or
-  * Contact us.
+  * Information we collect
+  * How we use your information
+  * Information we share
+  * Your privacy choices
+  * Security
+  * Accessing our sites globally
+  * Changes to our privacy notice
 
 
 
-When you do provide information to IDT we may ask for information such as your email address, name, organization address, and telephone number. If you make a purchase we may ask for your credit card information and additional billing information. In order to process a credit or financing request we may ask for your Social Security number and other data. Information requested from job applicants may include information such as educational background, current employment experience, and previous employment experience. Additionally, IDT may also request demographic information, such as business or company information, interests, and preferences.
+##### Information we collect
 
-Forms that you may complete will indicate whether the information requested is mandatory or voluntary. At certain locations on IDT’s website, you will have to provide IDT with the requested personal information before you can order products or participate in the website’s activities and/or offerings.
+IDT collects the following types of information through the IDT sites:
 
-We may collect information about your visits to our website, including the pages you view, search terms you enter, the links you click, and other actions you take while using IDT’s website. IDT may collect certain information from the browser you used to come to our website, such as your Internet Protocol (IP) address, browser type and language, access times, the Uniform Resource Locator (URL) of the website that referred you to our website, and to which URL you browse away from our site if you click on a link on our site.
-
-## IDT’s use of collected information
-
-IDT collects user information in order to provide better services and a more personalized experience for our customers. IDT may collect information about the services and products you use and how you use them. Additionally, IDT may combine information obtained through third parties, including companies owned by IDT. IDT may combine the collected information with existing information we have about you. To the extent IDT has such information, we will treat the information in accordance with this Privacy Policy.
-
-Some IDT products may be offered in conjunction with another company. If you supply personal information in conjunction with co-branded products, IDT and the other company may use the information according to each company’s privacy policy.
-
-IDT will use collected personal information to:
-
-  * Deliver the services and support, or carry out the transactions, you have requested;
-  * Send communications to you, such as product safety information, your transactions status (for example, order confirmations), information about products and services available from IDT and its corporate affiliates, promotional offers and surveys;
-  * Deliver personalized email marketing materials based on your visits to IDTDNA.COM;
-  * Customize, analyze and improve our products, services (including the content and advertisements on our website), technologies, communications and relationship with you;
-  * Enforce our conditions of sale, website terms, and/or separate contracts (if applicable) with you;
-  * Prevent fraud and other prohibited or illegal activities;
-  * Protect the security or integrity of the website, our business, or our products or services; or
-  * Otherwise, as disclosed to you at the point of collection.
+  * Information you provide. Personal Data you provide when registering for our products and services, responding to questionnaires or surveys, or contacting IDT customer service.
+  * Information collected automatically. Your IP address and non-identifying information about your use of IDT sites may be collected automatically using tracking technologies, such as cookies. Your website browser software can be set to reject all cookies; however, cookies can allow you to take advantage of some of the site’s essential features, which may not work if you reject cookies. 
+  * Information collected from other sources. We may combine information about you from IDT sites, information collected offline or from external parties. 
 
 
 
-## How IDT shares information
+##### How we use your information
 
-IDT does not share personal information to outside companies and organizations unless one of the following circumstances apply:
+IDT uses the information we collect for the following purposes:
 
-### Authorized third parties
-
-IDT may share personal information, to carry out transactions you request, with corporate affiliates and/or business partners. IDT may share personal information with our corporate affiliates or business partners to customize, analyze, and/or improve our communication or relationship with you. This may include requests relating to IDT and IDT branded products or services. IDT will oblige authorized third parties to comply with IDT’s Privacy Policy and will limit the third parties access and use of your personal information.
-
-### Disclosures required by law
-
-IDT, as required by law, may provide personal information to law enforcement, government contract administrators, and/or judicial authorities. IDT will disclose personal information if required by court order, subpoena, or if required to comply with law enforcement investigations or government contract compliance reviews. IDT reserves the right to provide personal information to law enforcement if IDT reasonably believes it is necessary to protect IDT, its customers, or the public.
-
-## Access and control
-
-IDT’s goal is to be clear with the information we collect so that you can make meaningful choices about how it is used. IDT wants to ensure the accuracy of your personal information and you can update your personal information with IDT at any time. However, because we keep track of certain transaction information, such as past purchases, for legal compliance purposes, we may not be able to delete certain information. To view or edit your personal information that has been stored online in your IDT "My Account", please visit the Order/My Account sections of the IDTDNA.COM website. For the security of your account, you will be required to sign in with your login ID and password.
-
-Additionally, you may choose whether or not to receive marketing communications from IDT by indicating your preferences. Any marketing by IDT, or any third parties on behalf of IDT, will be conducted in accordance with applicable laws. Opportunities to select your preferences include the following:
-
-  * The Order/My Account/Edit Personal Information sections on IDTDNA.COM allow you to choose whether you wish to receive marketing communications from IDTDNA.COM, and to subscribe or unsubscribe to newsletters about our products and services; and
-  * You can also email Advertising@idtdna.com and request to be removed from our advertising and marketing lists (catalogs, telephone, faxes, and email). Please allow up to 10 business days for your email preferences to take effect. Because some promotions, such as direct mail catalogs, are scheduled in advance, you may sometimes receive solicitations after we receive your preference request.
+  * To provide you with the IDT product and services you request. 
+  * To offer and provide information about similar and/or related products and services. 
+  * To customize and improve your experience on IDT sites. 
+  * To generally improve our products and IDT sites and other internal business purposes. 
+  * Legal obligations to notify and report to authorities. 
 
 
 
-## Children’s personal information
+Under data protection laws, IDT must have a legal basis to process your Personal Data. The legal basis that applies in an instance will depend on for which of the specific purposes described above IDT is processing your Personal Data:
 
-We do not knowingly collect personal information from children under the age of 18 through our websites.
-
-## Use of cookies and web beacons  
-
-
-All website activity is subject to the following:
-
-  1. A persistent cookie to track user country location.
-  2. A session cookie.
-  3. Google Analytics (https://analytics.google.com).
-  4. Marketo Web Analytics (www.marketo.com).
-  5. HTML5 local storage.
+  * In certain cases, IDT may ask for your consent to collect and process your Personal Data. Should you choose to provide your consent, you may later withdraw your consent by contacting us as described in the “Your Privacy Choices” section. Please note that the withdrawal of consent will not affect processing which has already occurred. 
+  * In other instances, the processing of your Personal Data may be necessary in order to comply with an applicable law or regulation or for the performance of a contract to which you are subject. You may not be able to opt-out of this processing, or your choice to opt-out may impact our ability to perform a contractual obligation otherwise owed to you. 
+  * In still other instances, IDT may process your Personal Data based on legitimate interests of IDT in communicating with you about our products and services, and about scientific research and educational opportunities. You have the right to opt-out of all such processing of your Personal Data. You may do so by contacting us as described in the “Your Privacy Choices” section. 
 
 
 
-A cookie is a piece of data stored in your browser to help IDT improve your access to our site and identify repeat visitors to our site. The use of cookies allows IDT to personalize your online experience by storing your preferences and other information on your computer. The use of cookies saves you time by eliminating the need to enter the same information repeatedly. You can change the browser settings so that cookies are blocked (refer to your internet browser instructions to do so), but some IDT website services will be unavailable.
+Processing operations may include the recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction of Personal Data. The Personal Data we collect about you may be stored for five years following the most recent interaction we have had with you, after which point it will be archived only for so long as reasonably necessary for the purposes set out above, in accordance with applicable laws.
 
-A web beacon is an electronic image that can be used to measure the effectiveness of our website and our advertising in various ways. For example, web beacons may count the number of individuals who visit our website from a particular advertisement or make a purchase from our website after viewing a particular advertisement, or they may tell us when a web page is viewed and provide a description of the page where the web beacon is placed. Web beacons may also measure the effectiveness of our email campaigns, by counting the number of individuals who open or act upon an email message, determining when an email message is opened, and determining how many times an email message is forwarded.
+##### Information we share
 
-IDT or third parties with whom we have contracted or subcontracted, may use web beacons on our website, in our emails, in our advertisements on other websites, or in our advertisements in others' emails. We may allow third parties to compile individual information or aggregated statistics from the use of web beacons on IDTDNA.com. We prohibit web beacons on our sites from being used by third parties to access your personal information
+IDT does not sell or disclose your Personal Data to third parties without your consent, except:
 
-## Contacting us
-
-If you would like to contact us for any reason regarding our privacy practices, please write to us at the following address:
-
-**Integrated DNA Technologies, Inc.**  
-Attention: Privacy  
-1710 Commercial Park  
-Coralville, IA 52241  
-USA   
+  * To affiliates and third-party service providers to provide services and information on our sites, including online marketing and advertising, and to support our business operations. We require these parties to handle Personal Data in accordance with this Privacy Notice. 
+  * To affiliates to offer and provide information about related products and services. We do not share Personal Data from countries that require consent, unless consent has been obtained in advance to sharing with related affiliates. We require these parties to handle Personal Data in accordance with this Privacy Notice. 
+  * To another company in connection with the sale or transfer of one of our product lines or divisions, which includes the services provided through one or more of IDT affiliates. 
+  * To governing regulatory authorities, including the US Food and Drug Administration, or as may otherwise be necessary for IDT to comply with a legal obligation or demand. 
 
 
-You may also email us at [custcare@idtdna.com](mailto:custcare@idtdna.com), in Europe at [eutechsupport@idtdna.com](mailto:custcare@idtdna.com), or in Asia at [asiacustcare@idtdna.com](mailto:custcare@idtdna.com). 
 
-## Updates and effective date
+In the event IDT decides to reorganize or divest our business through sale, merger, or acquisition, IDT may share Personal Data about you with actual or prospective purchasers. We will require any actual or prospective purchasers to treat this Personal Data in a manner consistent with this notice.
 
-We reserve the right to change this Privacy Policy at any time by posting the revised policy at this location. If IDT makes changes to the Privacy Policy we will revise the Privacy Policy to reflect such changes. We encourage you to periodically return to this page and review so that you always will know what information is collected and how IDT and its corporate affiliates use the information.
+You can find all related [affiliates here](http://www.danaher.com/our-businesses/business-directory).
 
-**Privacy Policy effective date: August 19, 2016**
+##### Your privacy choices
+
+You have the right to see and get a copy of Personal Data about you that we maintain as well as to ask us to make corrections to inaccurate or incomplete Personal Data about you. You have the right to receive data you have provided to us in a machine-readable format and to transmit that data to another controller. You may also request the erasure of your Personal Data or the restriction of its processing, or object to the processing of Personal Data about you. To seek access to Personal Data about you, to file a concern, complaint, or request for correction, or to opt-out of particular programs, please contact our Privacy Leader by emailing us at [dataprivacy@IDTDNA.com](mailto:dataprivacy@IDTDNA.com). You may also send a letter to the following address:
+
+Integrated DNA Technologies, Inc.   
+Attn: General Counsel   
+1710 Commercial Park   
+Coralville, IA 52241 USA 
+
+The local Data Protection Authority is responsible for making sure that privacy law is followed in your country. For more information about your privacy rights, or if you are not able to resolve a problem directly with us and wish to make a complaint, contact your country’s Data Protection Authority.
+
+##### Security
+
+IDT maintains controls to protect and secure Personal Data, but when you share Personal Data online there is always some risk that an unauthorized third party could gain access to your information.
+
+##### Accessing our sites globally
+
+By using this site, you understand that your Personal Data will be collected, stored, and processed in the United States and in any country to which we may transfer your information in the course of our business operations. IDT may transmit Personal Data about you to related affiliates worldwide. These affiliates may in turn transmit Personal Data about you to other related affiliates. Some affiliates may be in countries that do not ensure an adequate level of data protection. Nevertheless, all of related affiliates are required to treat Personal Data in a manner consistent with this Privacy Notice. To obtain additional information regarding the safeguards we have in place for cross-border transfers of Personal Data, please contact us using the information provided in the “Your Privacy Choices” section.
+
+##### Changes to our privacy notice
+
+Check this Privacy Notice regularly, as we may change or update portions of this Privacy Policy from time to time, subject to any applicable consent requirements. Any changes will be promptly posted to this page and accompanied by a new effective date at the top of this page.
+
+## IDT online privacy policy
+
+##### Effective May 2018
+
+This online privacy notice (“Privacy Policy”) explains how we handle the Personal Data provided to us on websites and other digital services and products controlled by IDT that link to this Privacy Policy (collectively, “IDT sites”). IDT is the data controller for the processing of Personal Data under applicable law. This Privacy Notice does not apply to IDT sites that do not link to this Privacy Policy or to third-party Web sites to which IDT sites may link.
+
+##### Types of information we collect online
+
+The types of Personal Data that we may collect while you use the IDT sites are described in this section and include both information that you provide to us and information that we collect automatically when you use the IDT sites.
+
+For purposes of this privacy notice, “Personal Data” means information that identifies you or that could reasonably be used to identify you. Examples of Personal Data include name, address, telephone number, and email address.
+
+##### Information you provide
+
+You do not have to register for a service or program to receive much of the information available through IDT sites. However, some of our content is available only to registered or identified users and will require you to set up a profile or provide specific information about yourself in order to provide you the service.
+
+##### Personal Data you provide when visiting IDT sites
+
+IDT collects Personal Data that you provide on IDT sites, for example, when purchasing a product, to receive marketing products and information, contact IDT customer service, or respond to IDT questionnaires or surveys. This could include:
+
+  * Contact information such as your name, address, phone number, or email address 
+  * Registration information such as your username and password 
+  * Employment, education and other background information when you inquire about employment with IDT 
+  * Payment information (such as banking information, payment card number, expiration date, delivery address, and billing address) 
+  * Content you may provide (for example, when you complete our Online Contact Form or submit other information) 
+
+
+
+##### Personal Data you share during other interactions with IDT
+
+You may contact IDT to ask questions, discuss your concerns, or report issues regarding our products. If you communicate with or request information from IDT, you may be prompted to provide your contact information as well as any Personal Data that is relevant to your request.
+
+##### Information that may be collected automatically
+
+When you use the IDT sites, we also may collect certain usage and device information automatically as described below.
+
+##### IP address
+
+We may record the Internet Protocol (“IP”) address of your computer or other electronic device when you visit the IDT sites. An IP address identifies the electronic device you use to access the Sites, which allows us to maintain communication with your computer as you move about IDT sites and to customize content.
+
+##### Cookies and other tracking technologies
+
+We also collect information about your use of IDT sites through tracking technologies such as cookies and web beacons. A “cookie” is a unique numeric code that is transferred to your computer to track your interests and preferences and to recognize you as a return visitor. A “Web beacon” is a transparent graphic image placed on a Web site, e-mail or advertisement that enables the monitoring of things such as user activity and site traffic. These technologies help remember your preferences and allow us to bring you the content and features that are likely to be of greatest interest to you on the basis of “clickstream” data that shows your previous activities on IDT sites.
+
+We may work with new technologies in future that require cookies or web beacons to provide their services. As we work with new technologies, their descriptions will be updated in the Privacy Policy. This IDT Site is not designed to respond to "do not track" signals received from browsers.
+
+To learn more about cookies and other tracking technologies, including how to disable them, please visit <http://www.allaboutcookies.org/>. Please note that some cookies are essential to the functioning of our Sites and deleting or disabling them will reduce the site’s functionality.
+
+##### Information collected from other sources
+
+We may combine information about you from a visit to one IDT Site with information about you from visits to other IDT sites. We may also combine information about you that is collected through the IDT sites with information that we have collected offline, as well as with information provided to us by third parties, such as third-party list providers.
+
+##### How we use your information
+
+We use your Personal Data to provide you the product and services you request, communicate with you, improve your experience on the IDT sites, generally improve our products and services and for other internal business purposes. These uses may also include the recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction of Personal Data. The Personal Data we collect about you may be stored as long as it is required for the purposes identified when you provided the information for such specific purposes or for any new purposes identified by us and consented to by you, and for any appropriate time thereafter including a sufficient time to permit you to ask any questions regarding its use, after which point it will be archived only for so long as reasonably necessary for the purposes set out above, in accordance with applicable laws. 
+
+##### Providing product and services you request
+
+If you choose to purchase a product or receive our services, we use the Personal Data that you provide through IDT sites to manage your orders and invoices, to process payments, to respond to your questions, provide you the services you request and offer an optimal customer experience.
+
+##### Marketing
+
+You may also receive marketing information from IDT and related affiliates, such as offers regarding IDT related products or services, invitations to participate in surveys about our products, or notifications about special promotions. In such cases, we will use your contact and other Personal Data to send you marketing information.
+
+##### Customized user experiences
+
+The Personal Data that you provide may be used to create customized offers, information, or services tailored to your interests and preferences. Also, we may use your IP address and the data that we obtain automatically through the use of cookies or similar tracking technologies to make our IDT sites easier to use and navigate as well as to personalize the content provided on IDT sites by anticipating the information and services that may be of interest to you.
+
+##### Business and product improvement
+
+In order to discover new facts that could help IDT better understand customer needs and help improve, develop, and evaluate product, services, materials, and programs, IDT analyzes the information that you have provided. For these purposes IDT does not use information that can directly identify you.
+
+##### Site analytics and improvement
+
+We may use the information that you provide and the information we collect automatically about your use of the IDT sites to monitor user traffic patterns and preferences for site improvement, analytics and optimization.
+
+##### Legal basis for processing
+
+Under data protection laws, IDT must have a legal basis to process your Personal Data. The legal basis that applies in an instance will depend on for which of the specific purposes described above IDT is processing your Personal Data:
+
+  * In certain cases, IDT may ask for your consent to collect and process your Personal Data. Should you choose to provide your consent, you may later withdraw your consent by contacting us as described in the “Your Privacy Choices” section. Please note that the withdrawal of consent will not affect processing which has already occurred. 
+  * In other instances, the processing of your Personal Data may be necessary in order to comply with an applicable law or regulation or for the performance of a contract to which you are subject. You may not be able to opt-out of this processing, or your choice to opt-out may impact our ability to perform a contractual obligation otherwise owed to you. 
+  * In still other instances, IDT may process your Personal Data based on legitimate interests of IDT in communicating with you about our products and services, and about scientific research and educational opportunities. You have the right to opt-out of all such processing of your Personal Data. You may do so by contacting us as described in the “Your Privacy Choices” section. 
+
+
+
+##### Information we share
+
+We only share your Personal Data with third parties as described below. We do not sell or rent Personal Data to third parties for their own marketing purposes.
+
+##### Affiliates, vendors and suppliers
+
+We have relationships with suppliers, distributors and affiliated companies, who help us operate our business and for whom it may be necessary to have access to your Personal Data in the course of providing services to IDT. We will not authorize these parties to use your Personal Data for any purpose that is not related to IDT and its related affiliates business operation. We may also share your Personal Data with affiliates to offer and provide information about affiliate products and services. We do not share Personal Data from countries that require consent, unless consent has been obtained in advance to sharing with related affiliates. We require them to handle your Personal Data collected in accordance with this Privacy Notice.
+
+##### Co-branded sites
+
+We may partner with other companies to provide you with content or services on a joint or “co-branded” basis. At a co-branded site, you will see both the IDT logo and the logo of the co-branding partner displayed on your screen. You should read the individual privacy policies of our co-branding partners, as they may differ in some respects from ours. Reading these policies will help you to make an informed decision about whether to provide your information to a given site.
+
+##### Product reports
+
+If you contact IDT regarding your experience in using one of our products, we may use the information that you provide in submitting reports to the designated government regulatory authority, as required of us by law.
+
+##### Legal rights and obligations
+
+In certain limited circumstances, IDT may need to disclose your Personal Data in order to comply with a legal obligation or demand, such as to comply with reporting obligations to our governing regulatory authorities regarding the safety of our products, or in connection with the sale or transfer of one of our product lines or divisions, which includes the services provided through one or more of the IDT sites. In such instances, we will take measures to protect your Personal Data to the extent possible. We also reserve the right to use Personal Data to investigate and prosecute users who violate our rules or who engage in behavior that is illegal or harmful to others or to others’ property.
+
+##### Change in organization
+
+In the event IDT decides to reorganize or divest our business through sale, merger, or acquisition, IDT may share Personal Data about you with actual or prospective purchasers. We will require any actual or prospective purchasers to treat this Personal Data in a manner consistent with this notice.
+
+##### Children privacy
+
+IDT does not knowingly collect or use any Personal Data directly from children on IDT sites (IDT defines as “children” as minors younger than 18). We do not knowingly allow children to order our products, to communicate with us, or to use any of our online services. If you are a parent and become aware that your child has provided us with information, please contact us using one of the methods specified below, and we will work with you to address this issue.
+
+##### Your privacy choices
+
+You have the right to see and get a copy of Personal Data about you that we maintain as well as to ask us to make corrections to inaccurate or incomplete Personal Data about you. You may have the right to receive data you have provided to us in a machine-readable format and to transmit that data to another controller. You may also request the erasure of your Personal Data or the restriction of its processing, or object to the processing of Personal Data about you. To seek access to Personal Data about you, to file a concern, complaint, or request for correction, or to opt-out of particular programs, please contact our Privacy Office by emailing us at [dataprivacy@IDTDNA.com](mailto:dataprivacy@IDTDNA.com). You may also send a letter to the following address:
+
+Integrated DNA Technologies, Inc.   
+Attn: General Counsel   
+1710 Commercial Park   
+Coralville, IA 52241 USA 
+
+In some instances, the applicable Data Protection Authority is responsible for making sure that privacy law is followed in your country. For more information about your privacy rights, or if you are not able to resolve a problem directly with us and wish to make a compliant, contact your applicable Data Protection Authority contact.
+
+In all communications to IDT, please include your email address, the Web site address and/or the specific IDT product to which you provided Personal Data (e.g., https://IDTDNA.com), and a detailed explanation of your request. If you would like to delete, amend, or correct your Personal Data and are contacting us by email, please put “Deletion Request” or “Amendment/Correction Request” in the subject line of the email. We will respond to all reasonable requests in a timely manner and may need to further confirm your identity in order to process certain requests.
+
+##### Data security
+
+IDT maintains reasonable technical, administrative and physical controls to secure any Personal Data collected through the IDT sites. However, there is always some risk that an unauthorized third party could intercept an Internet transmission, or that someone will find a way to thwart our security systems. We urge you to exercise caution when transmitting Personal Data over the Internet, especially your financial-related information. IDT cannot guarantee that unauthorized third parties will not gain access to your Personal Data; therefore, when submitting Personal Data to IDT sites, you must weigh both the benefits and the risks.
+
+##### Third party sites and social media plug-ins
+
+This privacy notice does not apply to IDT sites that do not link to this privacy notice, or to third-party Web sites to which IDT sites may link. IDT sites may use social media plug-ins (e.g., the Facebook “Like” button, “Share to Twitter” button) to enable you to easily share information with others. When you visit IDT sites, the operator of the social plug-in can place a cookie on your computer or other electronic device that enables that operator to recognize individuals who have previously visited our Site. If you are logged into the social media Web site (e.g., Facebook, Twitter) while browsing on our IDT Site, the social media plug-in allows that social media Web site to receive information that you have visited our IDT Site. The social media plug-in also allows the social media Web site to share information about your activities on our IDT Site with other users of their social media Web site. These sharing settings are managed by the social media Web site and governed by its privacy policy.
+
+##### Accessing our sites globally
+
+This site is owned and operated by IDT in the United States, but the information you provide will be accessible to our affiliates, vendors, and suppliers in other countries in accordance with this policy. Furthermore, if you are visiting this site from a country other than the United States, your communication with us will necessarily result in the transfer of information across international borders. The level of legal protection for Personal Data is not the same in all countries; however, we will take the security measures described in this Privacy Notice in an effort to keep your information secure. By using this site, you understand that your Personal Data will be stored and processed in the United States and in any country to which we may transfer your information in the course of our business operations.
+
+##### Notice to California residents
+
+Subject to certain limits under California Civil Code § 1798.83, California residents may ask us to provide them with (i) a list of certain categories of Personal Data that we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, and (ii) the identity of those third parties. To make this request, California residents may contact us at [dataprivacy@IDTDNA.com](mailto:dataprivacy@IDTDNA.com).
+
+##### Changes to our Privacy Policy
+
+We will only use Personal Data in the manner described in this Privacy Policy in effect when the information was collected from you or as authorized by you. However, and subject to any applicable consent requirements, we reserve the right to change the terms of this Privacy Policy at any time. Any changes to this Privacy Policy will be reflected on this page with a new effective date. IDT encourages you to review this Privacy Policy regularly for any changes. Any Personal Data collected upon your continued use of IDT sites will be handled in accordance with the currently-posted Privacy Policy.
