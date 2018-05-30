@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the desiplaza.us privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128085750id_/http%3A//www.desiplaza.us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desiplaza.us privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530120237id_/http%3A//desiplaza.us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[ ](http://desiplaza.us/)
 
 Dallas Star Kalakaar Privacy Policy
 
@@ -57,3 +59,73 @@ Desiplaza Studios
 Irving, Texas 75038
 
 Email : [admin@desiplaza.us](mailto:admin@desiplaza.us)
+
+Latest Yellow Pages   
+---  
+  
+[](http://desiplaza.us/indian-restaurants/10689-andhramess-allen.html)
+
+Mar 06, 2018
+
+#### [Andhramess Allen](http://desiplaza.us/indian-restaurants/10689-andhramess-allen.html)
+
+Andhra Mess– Is the most popular South Indian Restaurant situated in Allen, US. We have… 
+
+[](http://desiplaza.us/yellow-pages/89-party-services/others/9310-best-deals-on-international-flights.html)
+
+Dec 04, 2017
+
+#### [Best deals on International flights](http://desiplaza.us/yellow-pages/89-party-services/others/9310-best-deals-on-international-flights.html)
+
+IndianEagle.com is an innovative online travel company that enables its customers to book… 
+
+[](http://desiplaza.us/yellow-pages/86-party-services/photography/7950-roy-photography.html)
+
+Sep 05, 2017
+
+#### [Roy Photography](http://desiplaza.us/yellow-pages/86-party-services/photography/7950-roy-photography.html)
+
+Experienced in Indian and South-Asian Weddings and event photo and video services. Speaks… 
+
+[](http://desiplaza.us/indian-restaurants/7458-pista-house.html)
+
+Aug 02, 2017
+
+#### [Pista House](http://desiplaza.us/indian-restaurants/7458-pista-house.html)
+
+Pista House is known for meeting the diverse needs of customers thanks to its use of best…   
+  
+Training   
+---  
+  
+[](http://desiplaza.us/information-tech/10248-devops-online-training-live-demo-feb-05-2018-monday-7-00am-ist.html)
+
+Feb 03, 2018
+
+#### [DevOps Online Training Live Demo Feb 05, 2018(Monday) @7.00am IST](http://desiplaza.us/information-tech/10248-devops-online-training-live-demo-feb-05-2018-monday-7-00am-ist.html)
+
+DevOps Online Training Live Demo Feb 05, 2018(Monday) @7.00am IST For USA Students Feb… 
+
+[](http://desiplaza.us/information-tech/10185-selenium-training-learntek.html)
+
+Jan 31, 2018
+
+#### [selenium Training - learntek](http://desiplaza.us/information-tech/10185-selenium-training-learntek.html)
+
+Learntek: Selenium Training Schedule. Course Title: Selenium Training. Training Type:… 
+
+[](http://desiplaza.us/hidden-training/72-others/10099-sap-simple-finance-training-by-sap-certified-industry-experts.html)
+
+Jan 25, 2018
+
+#### [SAP Simple Finance Training by SAP Certified Industry Experts](http://desiplaza.us/hidden-training/72-others/10099-sap-simple-finance-training-by-sap-certified-industry-experts.html)
+
+We provide services throughout USA, UK, Australia,UAE, Canada, Saudi Arabia, New Zealand,… 
+
+[](http://desiplaza.us/information-tech/9776-tableau-training-institute-in-noida.html)
+
+Jan 04, 2018
+
+#### [Tableau Training Institute in Noida](http://desiplaza.us/information-tech/9776-tableau-training-institute-in-noida.html)
+
+Tableau computing device is a business intelligence andinformation visualization tool… 
