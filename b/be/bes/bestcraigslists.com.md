@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bestcraigslists.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128045346id_/http%3A//www.bestcraigslists.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestcraigslists.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530130104id_/http%3A//www.bestcraigslists.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
 
-# Post Classifieds, Post Free Classified Ads, Jobs, For Sale, Vehicles, Matrimonial, Real Estate, Community, Services
+# Post Classifieds, California, United States - Post Free Classified Ads, Jobs, For Sale, Vehicles, Matrimonial, Real Estate, Community, Services
 
 **PRIVACY POLICY:**
 
