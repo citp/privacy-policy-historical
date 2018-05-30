@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dominos.co.in privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127201603id_/https%3A//www.dominos.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dominos.co.in privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530100404id_/https%3A//www.dominos.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
