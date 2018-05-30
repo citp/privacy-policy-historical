@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytechquest.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126165955id_/http%3A//mytechquest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytechquest.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530062016id_/http%3A//mytechquest.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - My Tech Quest
 
