@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the idaho.gov privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205110640id_/https%3A//www.idaho.gov/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idaho.gov privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530032728id_/https%3A//www.idaho.gov/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – State of Idaho
+# Privacy Policy - State of Idaho
 
 Thanks for visiting the Idaho.gov website.
 
@@ -118,6 +118,6 @@ Any trademarks that appear on this site are the property of their respective own
 
 ### Contact Information
 
-To offer comments about Idaho.gov or this Portal Privacy Notice, please see ITA’s [contact information](http://ita.idaho.gov/contact.aspx).
+To offer comments about Idaho.gov or this Portal Privacy Notice, please see ITA’s [contact information](https://ita.idaho.gov/contact.aspx).
 
-[Full Text of State Policy](http://ita.idaho.gov/psg/p1020.pdf) [PDF]
+[Full Text of State Policy](https://ita.idaho.gov/psg/p1020.pdf) [PDF]
