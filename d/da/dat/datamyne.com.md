@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datamyne.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128003325id_/http%3A//www.datamyne.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datamyne.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530113913id_/http%3A//www.datamyne.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
