@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cwseed.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128054414id_/http%3A//cwseed.com/cwseed-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cwseed.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530132525id_/http%3A//www.cwseed.com/cwseed-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CW Seed | Home of Original Digital Series
 
@@ -70,14 +70,14 @@ We may also share such information with business partners and third parties (e.g
 
 **YOUR CHOICES  **
 
-**Marketing communications.** We provide you with an opportunity to express your preferences with respect to receiving certain marketing communications from us or from unaffiliated third parties. If you ever decide in the future that you would like to update these preferences, you may: (i) log into your account if you have created an account with us at one of our Sites to adjust your settings, (iii) follow the “unsubscribe” instructions provided in any marketing email you receive from us, (iii) send us an email at [privacy@wb.com](mailto:privacy@wb.com) and we will modify your preferences accordingly, or (iv) opt-out of targeted advertising as set forth in the Advertising section above. If you previously chose to receive push notifications on your mobile device from us but no longer wish to receive them, you can manage your preferences either through your device or app settings, depending on the type of device.
+**Marketing communications.** We provide you with an opportunity to express your preferences with respect to receiving certain marketing communications from us or from unaffiliated third parties. If you ever decide in the future that you would like to update these preferences, you may: (i) log into your account if you have created an account with us at one of our Sites to adjust your settings, (iii) follow the “unsubscribe” instructions provided in any marketing email you receive from us, (iii) send us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a9d9dbc0dfc8cad0e9decb87cac6c4) and we will modify your preferences accordingly, or (iv) opt-out of targeted advertising as set forth in the Advertising section above. If you previously chose to receive push notifications on your mobile device from us but no longer wish to receive them, you can manage your preferences either through your device or app settings, depending on the type of device.
 
 **Uninstalling a mobile application.** If you no longer wish to have any information collected by a mobile application, you may uninstall the application by using the standard uninstall processes available on your mobile device or via the mobile application marketplace or network.
 
 **Nielsen.** The properties may feature Nielsen proprietary measurement software, which will allow users to contribute to market research, such as Nielsen TV Ratings. To learn more about the information that Nielsen software may collect and your choices, please see the Nielsen Digital Measurement Privacy Policy at http://www.nielsen.com/digitalprivacy.
 
 **CALIFORNIA RESIDENTS - YOUR CALIFORNIA PRIVACY RIGHTS  **   
-If you are a California resident, you may request information about our practices related to disclosing your personal information to certain third parties and/or opt-out of our sharing of your information with unaffiliated third parties for the third parties’ direct marketing purposes. Please send your request (along with your full name, e-mail address, postal address, and the subject line labeled “Your California Privacy Rights”) by e-mail at [privacy@wb.com](mailto:privacy@wb.com). 
+If you are a California resident, you may request information about our practices related to disclosing your personal information to certain third parties and/or opt-out of our sharing of your information with unaffiliated third parties for the third parties’ direct marketing purposes. Please send your request (along with your full name, e-mail address, postal address, and the subject line labeled “Your California Privacy Rights”) by e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#aededcc7d8cfcdd7eed9cc80cdc1c3). 
 
 **COOKIES AND OTHER TECHNICAL INFORMATION  **
 
@@ -105,7 +105,7 @@ If you decide not to accept cookies from our Sites or disable certain technologi
 We have put in place physical, technical, and administrative procedures designed to protect the information we collect online at the Sites. However, we cannot assure you that personally identifiable information that we collect will never be used or disclosed in a manner that is inconsistent with this Privacy Policy.
 
 **HOW YOU CAN ACCESS OR CORRECT INFORMATION**   
-To access the personally identifiable information that our Sites have collected about you online from the pages on which this Privacy Policy is posted, to correct factual errors in such information, or to update your interests, preferences or other portions of your user profile, please log into your account if you have created one with us or send an email to [privacy@wb.com](mailto:privacy@wb.com).
+To access the personally identifiable information that our Sites have collected about you online from the pages on which this Privacy Policy is posted, to correct factual errors in such information, or to update your interests, preferences or other portions of your user profile, please log into your account if you have created one with us or send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c3b3b1aab5a2a0ba83b4a1eda0acae).
 
 To help protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
 
@@ -116,7 +116,7 @@ This privacy policy governs Sites or portions of Sites that are directed to a ge
 From time to time, we may update this Privacy Policy. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our Sites or by sending you an email message. We encourage you to periodically check back and review this policy so that you always will know our current privacy practices.
 
 **HOW TO CONTACT US**   
-If you have any questions or concerns about this Privacy Policy or its implementation you may contact us at: [privacy@wb.com](mailto:privacy@wb.com).
+If you have any questions or concerns about this Privacy Policy or its implementation you may contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9aeae8f3ecfbf9e3daedf8b4f9f5f7).
 
 You may also contact us at any time at:    
 The CW Network, LLC    
