@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graduatez.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231100906id_/http%3A//graduatez.com/about/%3Fshow%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graduatez.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530235025id_/http%3A//graduatez.com/about/%3Fshow%3Dprivacy) for the most accurate reproduction.*
 
 # graduatez.com
 
