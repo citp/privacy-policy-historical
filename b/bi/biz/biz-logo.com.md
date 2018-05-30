@@ -1,48 +1,21 @@
-> *The following text is extracted and transformed from the biz-logo.com privacy policy that was archived on 2001-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010807160221id_/http%3A//www.biz-logo.com/geninfo/rights.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biz-logo.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530060042id_/http%3A//www.biz-logo.com/privacy.shtml) for the most accurate reproduction.*
 
-# Disclaimer & Privacy Policy
+# Biz-logo.com privacy policy
 
-**BizLOGO** creates a high resolution graphics format for your design. The logo may be submitted for printing. However, it is up to your printer to properly setup the print process for the logo. BizLOGO assumes no responsibility of any nature for color variations, graphics distortions or other variables associated with the printing of your logo or in the graphics display of your logo. Display colors vary with both ink in printing and graphics display adapters for internet publications. 
+PRIVACY POLICY 
 
-Any and all claims against or involving BizLOGO are limited to the amount paid and must be brought in Detroit, Michigan. Therefore, all damages whether consequential or otherwise are specifically excluded, except for refund of any money paid to BizLOGO. All work done is deemed for commercial purposes.
+We respect your privacy. We do not collect personally identifiable information when you visit our sites, unless you choose to provide such information by contacting us or by making a purchase. When you do provide us with personal or contact information, we use this information only for the purpose you intended, for example, to email you a quotation or to answer a question. In short, you will never receive any communication from Biz-Logo.com that you didn't specifically ask to receive. 
 
-In the event of non-payment you hereby agree that the Courts of Michigan shall have full authority to grant judgement for any unpaid balances, along with reasonable attorneys fees and cost.
+In addition we do not rent, sell or in any other way share your personal or contact information with anyone. Ever. If you choose to write a testimonial for use on our web site, your email address will only be made available to prospective customers and only on request. We will not publish your email address with your testimonial - nor anywhere else.
 
-BizLOGO may have, from time to time display banners linking other sites. BizLOGO assumes no responsibility for the referring site. They are separate legal entities with no affiliation with BizLOGO.
+We do not make use of cookies.
 
-BizLOGO reserves the right to display your graphics design without compensation to you so others can see the quality of work we do. If you do not wish us to display your design then you must notify us and we will comply with your business instructions.   
+We are passionately anti-spam. We will send you only that which you ask to receive, such as logo files or an answer to a question.
 
+Biz-Logo.com may display your designs, your comments and/or design feedback on its web site and related web sites after completion of the design project, provided that the logo and/or other designs are displayed as portfolio pieces and not offered for sale. We do however understand that your project may be confidential and that you may not want the designs made public prior to the launch of your product or service. In such cases you must very specifically ask that the designs be excluded from our portfolio. While we cannot guarantee that we will exclude your designs from our portfolio, we normally would have no problem excluding them for a period not exceeding 12 months. We also make exceptions for designers who resell our logos to their clients, but only by prior arrangement with Biz-Logo management.
 
-## **OUR POLICY ON DISCLOSURE:**
+If you have any questions about our privacy policy, please [get in touch](https://web.archive.org/web/20180530060042id_/http%3A//www.biz-logo.com/contact.shtml). 
 
-**BizLOGO** is committed to safeguarding your privacy online. We believe that your confidence in BizLOGO and our practices insures our growth as a business. We follow a strict policy of professional integrity and responsibility to our visitors and clients.
+**< < BACK**
 
-The following information is our policy of how your personal information will be treated. BizLOGO reserves the right to change it's policies at any time, so please check back periodically for updated information.
-
-BizLOGO collects information based upon information that you provide in order to give you the products and services you seek. You should be aware BizLOGO's Internet access partners, advertisers, and web sites that have links on our site may collect personally identifiable information about you. The information practices of those Internet access partners, advertisers, and web sites linked to BizLOGO are not covered by this privacy statement, nor are we responsible for their policies and/or practices. By clicking on a banner you acknowledge that certain information about you may be collected. Occasionally, opportunities may arise that we believe our visitors and clients would be interested in. In such event this information may be supplied to those companies, unless you notify us otherwise. You may email us with instructions to remove you from any e-mail and promotions list that we maintain.
-
-Document Last Modified 01/31/2020 12:49:10 
-
-### [Return to HOME Page](http://www.biz-logo.com/index.html)
-**BizLOGO** creates a high resolution graphics format for your design. The logo may be submitted for printing. However, it is up to your printer to properly setup the print process for the logo. BizLOGO assumes no responsibility of any nature for color variations, graphics distortions or other variables associated with the printing of your logo or in the graphics display of your logo. Display colors vary with both ink in printing and graphics display adapters for internet publications. 
-
-Any and all claims against or involving BizLOGO are limited to the amount paid and must be brought in Detroit, Michigan. Therefore, all damages whether consequential or otherwise are specifically excluded, except for refund of any money paid to BizLOGO. All work done is deemed for commercial purposes.
-
-In the event of non-payment you hereby agree that the Courts of Michigan shall have full authority to grant judgement for any unpaid balances, along with reasonable attorneys fees and cost.
-
-BizLOGO may have, from time to time display banners linking other sites. BizLOGO assumes no responsibility for the referring site. They are separate legal entities with no affiliation with BizLOGO.
-
-BizLOGO reserves the right to display your graphics design without compensation to you so others can see the quality of work we do. If you do not wish us to display your design then you must notify us and we will comply with your business instructions.   
-
-
-## **OUR POLICY ON DISCLOSURE:**
-
-**BizLOGO** is committed to safeguarding your privacy online. We believe that your confidence in BizLOGO and our practices insures our growth as a business. We follow a strict policy of professional integrity and responsibility to our visitors and clients.
-
-The following information is our policy of how your personal information will be treated. BizLOGO reserves the right to change it's policies at any time, so please check back periodically for updated information.
-
-BizLOGO collects information based upon information that you provide in order to give you the products and services you seek. You should be aware BizLOGO's Internet access partners, advertisers, and web sites that have links on our site may collect personally identifiable information about you. The information practices of those Internet access partners, advertisers, and web sites linked to BizLOGO are not covered by this privacy statement, nor are we responsible for their policies and/or practices. By clicking on a banner you acknowledge that certain information about you may be collected. Occasionally, opportunities may arise that we believe our visitors and clients would be interested in. In such event this information may be supplied to those companies, unless you notify us otherwise. You may email us with instructions to remove you from any e-mail and promotions list that we maintain.
-
-Document Last Modified 01/31/2020 12:49:11 
-
-### [Return to HOME Page](http://www.biz-logo.com/index.html)
+[Start my logo](https://web.archive.org/web/20180530060042id_/http%3A//www.biz-logo.com/side-by-side.shtml)
