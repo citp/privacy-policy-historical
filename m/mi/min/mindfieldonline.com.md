@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the mindfieldonline.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126165139id_/http%3A//mindfieldonline.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindfieldonline.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530081235id_/http%3A//mindfieldonline.com/page/privacy) for the most accurate reproduction.*
 
 # MindField - What's on Your Mind?
 
 ### Privacy Policy
 
-**Effective On 11/13/2015**
+**Effective On 11/30/2017**
 
 [](http://privacy.truste.com/privacy-seal/validation?rid=87f85496-31a7-4fa3-929d-7d37d683945d "TRUSTe Privacy Certification")
 
 This privacy policy applies to [http://mindfieldonline.com]() owned and operated by McMillion Research. This privacy policy describes how McMillion Research collects and uses the personal information you provide on our web site: [http://mindfieldonline.com](). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-The TRUSTe program covers only information that is collected through this website, www.mindfieldonline.com and does not cover information that may be collected through software downloaded from the website and through our mobile application.
-
-In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>
 
 If you have questions or complaints regarding our privacy policy or practices, please contact us at:
 
@@ -78,13 +76,11 @@ We do not share, sell, or rent personally identifiable information with third pa
 
 **Service Providers**
 
-We utilize Integration Inc. to provide check writing services for our company. Upon your request for payment, we will provide Integration Inc. your name, address and payment amount to be processed. We do not utilize any other third party service providers other than what has been mentioned here.
-
-Integration Inc. is strictly prohibited from using your personally identifiable information for any other purpose.
+We utilize Frontier Communications and Suddenlink Communications as our Internet Service Providers (ISP). These companies are authorized to use your personal information only as necessary to provide these services to us.
 
 **Legal Disclaimer**
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our website.
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our website. In certain situations, McMillion Research may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 ## Opt-out
 
@@ -106,6 +102,8 @@ We use cookies to remember users' settings and for authentication purposes. User
 
 Technologies such as: cookies, beacons, tags and scripts are used by McMillion Research and our marketing research partners, affiliates, and online customer support provider. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
+We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising [click here](http://preferences-mgr.truste.com/). Please note you will continue to receive generic ads.
+
 ## Social Media Widgets
 
 Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
@@ -126,7 +124,7 @@ Co-branding is the method of having a user connect with a different website but 
 
 ## Access to Personally Identifiable Information
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on our member information page or by emailing our Customer Support at [helpdesk@mindfieldonline.com](mailto:helpdesk@mindfieldonline.com) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within a reasonable timeframe.
+Upon request McMillion Research will provide you with information about whether we hold any of your personal information. If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on our member information page or by emailing our Customer Support at [helpdesk@mindfieldonline.com](mailto:helpdesk@mindfieldonline.com) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within a reasonable timeframe.
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements
 
