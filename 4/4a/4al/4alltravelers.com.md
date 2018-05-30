@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4alltravelers.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221233951id_/http%3A//www.4alltravelers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4alltravelers.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530154036id_/http%3A//www.4alltravelers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 4AllTravelers
 
