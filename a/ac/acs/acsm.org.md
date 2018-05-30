@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the acsm.org privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228103910id_/http%3A//www.acsm.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acsm.org privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530184935id_/http%3A//www.acsm.org/privacy-policy) for the most accurate reproduction.*
 
-# ACSM | Privacy Policy
+# Privacy Policy
 
 **PRIVACY POLICY**
 
@@ -18,9 +18,8 @@ For our services that require payment (such as membership dues, events, products
 
 **Surveys**
 
-From time to time we invite users to provide information via surveys. Participation in these surveys is completely voluntary and the user therefore has a choice whether to disclose requested contact information (such as name and mailing address) and demographic information (such as zip code or job title). In addition to other uses set forth in this policy, contact information collected in connection with surveys is used to monitor or improve the use and satisfaction of the site.
+From time to time we invite users to provide information via surveys. Participation in these surveys is completely voluntary and the user therefore has a choice whether to disclose requested contact information (such as name and mailing address) and demographic information (such as zip code or job title). In addition to other uses set forth in this policy, contact information collected in connection with surveys is used to monitor or improve the use and satisfaction of the site.  
 
-(back to top)
 
 **Interactive Features**
 
@@ -49,9 +48,7 @@ Some of our publishers or sponsors use cookies on our sites in announcements. Ho
 
 For our internal purposes, we gather date, time, browser type, navigation history and IP address of all visitors to our site. This information does not contain information that can identify users personally. We use this information for our internal security audit log, trend analysis and system administration, and to gather broad demographic information about our user base for aggregate use.
 
-We may combine demographic information supplied by a member at the time of application with site usage data to provide general profiles, in aggregate non-personally identifiable form, about our users and their preferences in the content of the site. We may share this composite information with our sponsors or publishers to help them better understand our services.
-
-(back to top)
+We may combine demographic information supplied by a member at the time of application with site usage data to provide general profiles, in aggregate non-personally identifiable form, about our users and their preferences in the content of the site. We may share this composite information with our sponsors or publishers to help them better understand our services
 
 **Sharing Your Information**
 
@@ -89,5 +86,3 @@ American College of Sports Medicine, Inc.
 401 W Michigan Street  
 Indianapolis, IN 46202  
 (317) 637-9200
-
-(back to top)
