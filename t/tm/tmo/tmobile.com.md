@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tmobile.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224235615id_/http%3A//www.t-mobile.com/company/website/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmobile.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530195053id_/https%3A//www.t-mobile.com/company/website/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy: Highlights
+# Privacy Policy & Personal Information | T-Mobile
 
 ### T-Mobile Privacy Policy
 
-November 25, 2015   
+December 31, 2016   
 Please click here for Spanish version of the T-Mobile Privacy Policy   
 [Please click here for the T-Mobile Privacy Policy Highlights](https://web.archive.org/company/website/privacypolicy.aspx#policyhighlights)
 
@@ -24,7 +24,7 @@ For more information see [Privacy Resources/Customer Proprietary Network Informa
 
 **Credit and Financial Information**
 
-We collect information about your credit card or banking information, Social Security Number, and credit history for account opening, management and billing and collection purposes. Financial information we collect is governed by [T-Mobile’s Financial Privacy Policy](http://s.tmocache.com/Cms/Files/Published/0000BDF20016F5DD010312E2BDE4AE9B/5657114502E70FF30124DE7B5D9A9D91/file/Financial%20Privacy%20Policy%20Feb%202012%20Final.pdf)
+We collect information about your credit card or banking information, Social Security Number, and credit history for account opening, management and billing and collection purposes. Financial information we collect is governed by [T-Mobile’s Financial Privacy Policy](https://www.t-mobile.com/pdf/T-Mobile-Financial-Privacy-Policy_EN.pdf)
 
 **Network and Device Information**
 
@@ -37,6 +37,10 @@ We may collect your device's location whenever it is turned on (subject to cover
 **Performance and Diagnostic Data**
 
 We may collect performance and diagnostic data about your use of our network, networks you roam on, WiFi services or your device. For example, we may collect information about the performance of the device, signal strength, dropped calls, data failures, battery strength and other device or network performance issues. We may also collect information about applications on your device, the fact that an application has been added, when an application is launched or fails to launch, and length of time an application has been running.
+
+**Telematics**
+
+If you are a customer of the T-Mobile SyncUp connected car service, we, and our application provider, collect data from the SyncUp device in your car. This data includes driver behavior information such as acceleration and braking, speed, and RPM. The device also reports vehicle location via GPS and can report on common vehicle issues called Diagnostic Trouble Codes (DTC).
 
 **Video Data**
 
@@ -64,9 +68,13 @@ We collect information that you provide to us when you apply for, purchase, or u
 For example, some of the ways you may provide information to us include: 
 
   * When you sign up for our voice or data services or purchase other products or services, we may collect personal contact, billing, and credit information.
+
   * When you establish or modify an online account, we may collect user identification information, passwords, and/or security question responses that you will use for future sign-on.
+
   * When you interact with our customer service representatives, enter information on our websites, submit survey responses, or pay for services, we may also collect Personal Information and other information. We may monitor and record phone calls, e-mails, live chats, or other communications between you, your device, and our customer service representatives or other employees or representatives.
+
   * When you use our services on a phone provided to you by an account holder.
+
 
 
 
@@ -77,14 +85,16 @@ We automatically collect a variety of information associated with your use of yo
 For example some of the ways we may automatically collect information include: 
 
   * Our systems capture details about the type and location of wireless device(s) you use, when the device is turned on, calls and text messages you send and receive (but we do not retain the content of those calls or messages after delivery), and other data services you use.
+
   * We may also gather information about the performance of your device and our network. Some examples of the types of data collected include: the applications on the device, signal strength, dropped calls, data failures, and other device or network performance issues.
+
   * **Cookies, Web Beacons, and Similar Technologies**
 
 We may use, or we may engage third-parties to use on our behalf, cookies (small data text files placed on your computer or device) or similar technologies to identify your computer or device and record your preferences and other data so that our websites can personalize your visit(s), see which areas and features of our websites are popular, and improve our websites and your experience.
 
 We may also use web beacons (small graphic images on a web page or an HTML e-mail) to monitor interaction with our websites or e-mails. Web beacons are generally invisible because they are very small (only 1-by-1 pixel) and the same color as the background of the web page or e-mail message.
 
-Depending upon your device or computer, you may be able to set your browser(s) to reject cookies or delete cookies, but that may result in the loss of some functionality on our websites. If we combine or link cookie or web beacon information with Personal Information, we will treat the combined or linked information as Personal Information under this Policy.
+The information we receive through cookies, web beacons and similar technologies may enable us to recognize users across devices, such as smartphones, computers, tablets or related browsers. Depending upon your device or computer, you may be able to set your browser(s) to reject cookies or delete cookies, but that may result in the loss of some functionality on our websites. If we combine or link cookie or web beacon information with Personal Information, we will treat the combined or linked information as Personal Information under this Policy.
 
   *   
 
@@ -99,6 +109,10 @@ _Do Not Track Policy._ Some browsers have incorporated "Do Not Track" features. 
   * **Voice Controlled Applications**
 
 If you use a voice-controlled application, that application may collect and record your requests and other information from you and your phone.
+
+  * **Retail Beacons**
+
+We may use beacon devices in our retail locations that collect data about your device. These programs use signals from smart devices (like mobile phones and tablets) to track movement and wait times. Retail beacons collect a unique identifier that your device routinely transmits (e.g., a MAC address) and coverts it to an identifier unique to T-Mobile. In some cases, we will use identifiers that are already routinely collected by the T-Mobile network in order to provide you with wireless service. We use aggregated data in order to understand general traffic trends in our stores. This helps us to better service our customers.
 
 
 
@@ -160,9 +174,13 @@ It is important that you understand the location capabilities and settings of yo
 
 You should carefully review the privacy policies and other terms of third-parties with whom you have authorized the sharing of your location information, and you should consider the risks involved in disclosing your location information to other people.
 
-Where we provide a location-based service, you will receive notice of the location features of the service and collection of location data is with your consent. You will be provided options for managing when and how such information should be shared (except in the case of certain parental controls or similar services associated with enterprise or multi-line accounts – for example, T-Mobile’s FamilyWhereTM services – which may be managed solely by the primary account holder or their designee, but always with notice to the end-user). T-Mobile follows the CTIA’s Best Practices Guidelines for Location-Based Services, which are available [here](http://www.ctia.org/policy-initiatives/voluntary-guidelines/best-practices-and-guidelines-for-location-based-services).
+Where we provide a location-based service, you will receive notice of the location features of the service and collection of location data is with your consent. You will be provided options for managing when and how such information should be shared (except in the case of certain parental controls or similar services associated with enterprise or multi-line accounts – for example, T-Mobile’s FamilyWhereTM services – which may be managed solely by the primary account holder or their designee, but always with notice to the end-user). T-Mobile follows the CTIA’s Best Practices Guidelines for Location-Based Services, which are available [here](http://files.ctia.org/pdf/CTIA_LBS_Best_Practices_Adopted_03_10.pdf).
 
 For more information on location services, see [Privacy Resources/Location Services](https://web.archive.org/Company/PrivacyResources.aspx?tp=Abt_Tab_LocationServices)
+
+**Telematics**
+
+Data from our SyncUp connected car service is used to provide you with that vehicle monitoring service, to enable the functions of the SyncUp associated Motion app, and to enable WiFi connectivity in your car. In addition, your data may be shared with our application provider in order to enable third-party services that use your personal data, though in such cases no third-party will be granted access to data that identifies you without first obtaining your consent. We may also use such data for any of the other purposes listed in this policy, such as internal analysis, or to personalize offers we provide to you.
 
 **Advertising**
 
@@ -188,7 +206,7 @@ For more information see [privacy resources/T-Mobile Ad Options for Your Device]
 
   *   
 **Choices About Advertising.**
-  *   
+  * T-Mobile adheres to the Digital Advertising Alliance’s (“DAA”) Self-Regulatory Principles for Online Behavioral Advertising.
 
   * _On Your Mobile Device._ Where we offer interest-based ads, you can opt-out of certain interest-based advertising by clicking on the ad options link on or near the advertisement or by clicking [here](http://iba.t-mobile.com/tmo/).
 
@@ -276,11 +294,11 @@ You may access and modify your contact information by visiting [my.t-mobile.com]
 
 We may send you communications about services or products we, or our partners, sell. We want to provide you with meaningful choices regarding our marketing communications, and you may choose to limit or opt-out of some marketing communications from us at any time. Although you may elect not to receive marketing information from us, if you subscribe to our services or buy our products, you will continue to receive invoices, customer-service and transactional notices, and similar communications. The Primary Account Holder can configure options for marketing communications for all lines on the account.
 
-If you are a T-Mobile customer and you manage your account online, you can manage your preferences regarding marketing communications by logging into your [my.t-mobile.com](https://my.t-mobile.com/) profile. If you do not manage your account online, or you are not a current T-Mobile customer, you may manage your preferences regarding marketing communications [here](https://web.archive.org/company/website/OptOut.aspx?type=2).
+If you are a T-Mobile customer and you manage your account online, you can manage your preferences regarding marketing communications by logging into your [my.t-mobile.com](https://my.t-mobile.com/) profile. If you do not manage your account online, or you are not a current T-Mobile customer, you may manage your preferences regarding marketing communications [here](https://web.archive.org/company/website/OptOut.aspx?type=1).
 
 You may also manage your preferences regarding marketing communications by contacting Customer Service by dialing 611 from your T-Mobile phone or 1-800-937-8997 from any phone, or, with respect to marketing e-mails, by following the "unsubscribe" instructions on any marketing e-mail we send you.
 
-See also [Privacy Resources/Marketing Choice](https://web.archive.org/Company/PrivacyResources.aspx?tp=Abt_Tab_YourPrivacychoices&tsp=Abt_Sub_MarketingChoice)
+See also [Privacy Resources/Marketing Choice](https://web.archive.org/Company/PrivacyResources.aspx?tp=Abt_Tab_DoNotCallPolicy)
 
 **Do Not Call Registry**
 
@@ -289,7 +307,7 @@ The FTC maintains a National Do Not Call Registry at <https://www.donotcall.gov/
   
 
 
-You play an important role in ensuring the security of Personal Information. We encourage you to use safeguards to protect your information and devices. For more information please see [Privacy Resources/Protecting Your Privacy](https://web.archive.org/Company/PrivacyResources.aspx?tp=Abt_Tab_YourPrivacychoices&tsp=Abt_Sub_ProtectingPrivacy).
+You play an important role in ensuring the security of Personal Information. We encourage you to use safeguards to protect your information and devices. For more information please see [Privacy Resources/Protecting Your Privacy](https://web.archive.org/Company/PrivacyResources.aspx?tp=Abt_Tab_Resources).
 
   
 
