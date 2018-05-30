@@ -1,97 +1,116 @@
-> *The following text is extracted and transformed from the summercamppro.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128071454id_/http%3A//www.summercamppro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the summercamppro.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530032156id_/http%3A//www.summercamppro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Summer Camp Programming
 
-Last updated: January 20, 2016
+Summer Camp Programming, found at http://www.summercamppro.com/ (“Website”) is governed by the following privacy policy (“Privacy Policy”).
 
-Summer Camp Pro (“us”, “we”, or “our”) operates the http://summercamppro.com website (the “Service”).
+We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what personally identifiable information we may collect and how it may be used. This statement only applies to this Website.
 
-This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
+WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?
 
-We will not use or share your information with anyone except as described in this Privacy Policy.
+**Information You Voluntarily Submit to the Website** : We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Website by leaving a comment, subscribing to a newsletter, or submitting a contact form. In addition, you are able to create a user profile, which allows you to create a username and password. We will store the username, but your password will not be visible in our records.
 
-**We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.** Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://summercamppro.com
+**Information We Collect from Others** : We may receive information about you from other sources.  You may link your Facebook, Instagram, and/or Google accounts to your user profile (when leaving comments).  If you choose to link your Facebook, Instagram, and/or Google accounts to your user profile, we will receive your name, email address and profile picture associated with that account.  The Website utilizes the Facebook commenting system, so if you choose to comment on a Website post, your profile picture will appear.
 
-**Information Collection And Use**
+**Automatically-Collected Information** : We automatically collect certain information about you and the device with which you access the Website. For example, when you use the Website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the Website. We may also collect information about actions you take when using the Website, such as links clicked.
 
-While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, name (“Personal Information”).
+**Cookies** : We may log information using cookies, which are small data files stored on your browser by the Website. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the Website.
 
-We collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, servicing your purchase orders, and improving our services.
+HOW YOUR INFORMATION MAY BE USED
 
-**Log Data**
+We may use the information collected in the following ways:
 
-We may also collect information that your browser sends whenever you visit our Service (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
+  * To operate and maintain the Website;
+  * To create your account, identify you as a user of the Website, and customize the Website for your account;
+  * To send you promotional information, such as newsletters. Each email promotion will provide information on how to opt-out of future mailings;
+  * To send you administrative communications, such as administrative emails, confirmation emails, technical notices, updates on policies, or security alerts;
+  * To respond to your comments or inquiries;
+  * To provide you with user support;
+  * To track and measure advertising on the Website;
+  * To protect, investigate, and deter against unauthorized or illegal activity.
 
-In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service’s functionality. These third party service providers have their own privacy policies addressing how they use such information.
 
-**Cookies**
 
-Cookies are files with a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and transferred to your device. We use cookies to collect information in order to improve our services for you.
+THIRD-PARTY USE OF PERSONAL INFORMATION
 
-You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. The Help feature on most browsers provide information on how to accept cookies, disable cookies or to notify you when receiving a new cookie.
+We may share your information with third parties when you explicitly authorize us to share your information.
 
-If you do not accept cookies, you may not be able to use some features of our Service and we recommend that you leave them turned on.
+Additionally, the Website may use third-party service providers to service various aspects of the Website. Each third-party service provider’s use of your personal information is dictated by their respective privacy policies.
 
-**DoubleClick Cookie**
+The Website currently uses the following third-party service providers:
 
-Google, as a third party vendor, uses cookies to serve ads on our Service. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other web sites on the Internet.
+Google Analytics – this service tracks Website usage and provides information such as referring websites and user actions on the Website. Google Analytics may capture your IP address, but no other personal information is captured by Google Analytics.
 
-You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the [Google Ads Settings](http://www.google.com/ads/preferences/ "Google Ads Settings") web page.
+Mailerlite – this service is used for delivery of email updates and newsletters. We store your name and email address for purposes of delivering such communications. MailerLite’s privacy policy is available at <https://www.mailerlite.com/privacy-policy>. You can unsubscribe from our newsletter by clicking on the unsubscribe link provided at the end of each newsletter.
 
-**Do Not Track Disclosure**
+At this time, your personal information is not shared with any other third-party applications. This list may be amended from time to time in the Website’s sole discretion.
 
-We do not support Do Not Track (“DNT”). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
+Except when required by law, we will not sell, distribute, or reveal your email addresses or other personal information without your consent; however, we may disclose or transfer personal information collected through the Website to third parties who acquire all or a portion of our business, which may be the result of a merger, consolidation, or purchase of all or a portion of our assets, or in connection with any bankruptcy or reorganization proceeding brought by or against us.
 
-You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
+ANONYMOUS DATA
 
-**Service Providers**
+From time to time, we may use anonymous data, which does not identify you alone, or when combined with data from other parties. This type of anonymous data may be provided to other parties for marketing, advertising, or other uses. Examples of this anonymous data may include analytics or information collected from cookies.
 
-We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services and/or to assist us in analyzing how our Service is used.
+PUBLICLY VISIBLE INFORMATION
 
-These third parties have access to your Personal Information only to perform specific tasks on our behalf and are obligated not to disclose or use your information for any other purpose.
+If you create a user profile on the Website or leave a comment, certain information may be publicly visible.  To create a user profile, you must choose a username and password and input your email address for profile confirmation.  Your email address will never be available publicly.  At your option, you may also add an avatar, a profile description, and a link to your website.
 
-**Communications**
+You may also choose to link your Facebook, Instagram, and Google Account.
 
-We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
+Users may see your username, avatar, profile description and website information.
 
-**Compliance With Laws**
+COOKIES
 
-We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service.
+The Website uses cookies to store visitors’ preferences, record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads, customize Website content based on visitors’ browser type or other information that the visitor sends. Cookies may also be used by third-party services, such as Google Analytics, as described herein.
 
-**Security**
+Users may, at any time, prevent the setting of cookies, by the Website, by using a corresponding setting of your internet browser and may thus permanently deny the setting of cookies. Furthermore, already set cookies may be deleted at any time via an Internet browser or other software programs. This is possible in all popular Internet browsers. However, if users deactivate the setting of cookies in your Internet browser, not all functions of our Website may be entirely usable.
 
-The security of your Personal Information is important to us, and we strive to implement and maintain reasonable, commercially acceptable security procedures and practices appropriate to the nature of the information we store, in order to protect it from unauthorized access, destruction, use, modification, or disclosure.
+ADVERTISING
 
-However, please be aware that no method of transmission over the internet, or method of electronic storage is 100% secure and we are unable to guarantee the absolute security of the Personal Information we have collected from you.
+**Display Ads**
 
-**International Transfer**
+We may use third-party advertising companies to serve content and advertisements when you visit the Website, which may use cookies, as noted above. If you would like more information about this practice and to know your choices to opt-in or opt-out of this data collection, please visit http://www.networkadvertising.org/managing/opt_out.asp.
 
-Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+**Retargeting  Ads**
 
-If you are located outside United States and choose to provide information to us, please note that we transfer the information, including Personal Information, to United States and process it there.
+From time to time, the Website may engage in remarketing efforts with third-party companies, such as Google, Facebook, or Instagram, in order to market the Website. These companies use cookies to serve ads based on someone’s past visits to the Website.
 
-Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+Facebook: Opt-out of Facebook remarketing [here](https://www.facebook.com/help/568137493302217)
 
-**Links To Other Sites**
+Google: Opt-out of Google remarketing [here](https://www.facebook.com/help/568137493302217)
 
-Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
+**Affiliate Program Participation**
 
-We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+The Website may engage in affiliate marketing, which is done by embedding tracking links into the Website. If you click on a link for an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions.
 
-**Children’s Privacy**
+Summer Camp Programming is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com.  As part of this Amazon Associates program, the Website will post customized links, provided by Amazon, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales.
 
-Only persons age 18 or older have permission to access our Service. Our Service does not address anyone under the age of 13 (“Children”).
+Newsletters
 
-We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you learn that your Children have provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a children under age 13 without verification of parental consent, we take steps to remove that information from our servers.
+On the Website, you may subscribe to our newsletter, which may be used for advertising purposes. All newsletters sent may contain tracking pixels. The pixel is embedded in emails and allows an analysis of the success of online marketing campaigns. Because of these tracking pixels, we may see if and when you open an email and which links within the email you click. Also, this allows the Website to adapt the content of future newsletters to the interests of the user. This behavior will not be passed on to third parties.
 
-**Changes To This Privacy Policy**
+RIGHTS RELATED TO YOUR PERSONAL INFORMATION
 
-This Privacy Policy is effective as of January 20, 2016 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+Opt-out – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us at curt@recreationpros.com to be removed from our mailing list.
 
-We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
+Access – You may access the personal information we have about you by submitting a request to curt@recreationpros.com.
 
-If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
+Amend – You may contact us at curt@recreationpros.com to amend or update your personal information.
 
-**Contact Us**
+Forget – In certain situations, you may request that we erase or forget your personal data. To do so, please submit a request to curt@recreationpros.com.
 
-If you have any questions about this Privacy Policy, please contact us.
+Please note that we may need to retain certain information for recordkeeping purposes or to complete transactions, or when required by law.
+
+SENSITIVE PERSONAL INFORMATION
+
+At no time should you submit sensitive personal information to the Website. This includes your social security number, information regarding race or ethnic origin, political opinions, religious beliefs, health information, criminal background, or trade union memberships. If you elect to submit such information to us, it will be subject to this Privacy Policy.
+
+CHILDREN’S INFORMATION
+
+The Website does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, please contact us immediately at curt@recreationpros.com and we will use our best efforts to promptly remove such information from our records.
+
+CONTACT INFORMATION
+
+At any time, please contact us at curt@recreationpros.com for questions related to this Privacy Policy.
+
+Last updated: May 24, 2018.
