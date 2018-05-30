@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justintools.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125143254id_/http%3A//www.justintools.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justintools.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530104019id_/http%3A//www.justintools.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy Example for Website - | converters, calculators, web apps and online tools by JustinTOOLs.com
 
