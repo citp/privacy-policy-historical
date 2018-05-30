@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hothungama.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123033752id_/http%3A//www.hothungama.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hothungama.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530051921id_/http%3A//www.hothungama.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HotHungama - Latest News & Updates
 
-Hothungama.com knows that you care how information about you is used and shared on internet, and we appreciate your trust that we will do so carefully and sensibly. This page describes our privacy policy. By visiting any of the sites offered by Hothungama ****.com, you are accepting the practices described in this   **Privacy Policy Notice**. For any question on the Privacy Notice please  **Contact Us**.
+Hothungama.com knows that you care how information about you is used and shared on internet, and we appreciate your trust that we will do so carefully and sensibly. This page describes our privacy policy. By visiting any of the sites offered by Hothungama.com, you are accepting the practices described in this  **Privacy Policy Notice**. For any question on the Privacy Notice please  **Contact Us**.
 
 **What Personal Information About Me Does Hothungama.com Gather?**
 
@@ -31,5 +31,3 @@ Our site contains links to other sites. We are not responsible for the privacy p
 ## Contacting the Web Master:
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact the Webmaster through below contact form.
-
-[contact_form]
