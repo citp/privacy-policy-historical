@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fishwrapper.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231142919id_/http%3A//www.warnerbros.com/privacy-center-wb-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fishwrapper.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530085721id_/http%3A//www.warnerbros.com/privacy-center-wb-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Warner Bros. - The Studio
 
