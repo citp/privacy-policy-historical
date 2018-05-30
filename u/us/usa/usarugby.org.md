@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the usarugby.org privacy policy that was archived on 2017-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170319072535id_/https%3A//www.usarugby.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usarugby.org privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530210537id_/https%3A//www.usarugby.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | USA Rugby | USA Rugby
+# Privacy Policy | USA Rugby
 
 _(Last updated July 14, 2009)_
 
-_To provide all USA Rugby members (including players, coaches, parents, administrators and officials) with quality service, USA Rugby must collect, process, and use its members' personal information. At the same time, we want to protect the personal information you provide to us. To underscore USA Rugby's commitment to protecting your privacy and the value we place on your relationship with us, USA Rugby has adopted the following privacy principles applicable to our handling of your personal information._
+ _To provide all USA Rugby members (including players, coaches, parents, administrators and officials) with quality service, USA Rugby must collect, process, and use its members' personal information. At the same time, we want to protect the personal information you provide to us. To underscore USA Rugby's commitment to protecting your privacy and the value we place on your relationship with us, USA Rugby has adopted the following privacy principles applicable to our handling of your personal information._
 
 ## Section 1. Expectation of Privacy
 
@@ -22,13 +22,13 @@ At this time, USA Rugby requires parental consent for children under the age of 
 
 * * *
 
-### _CHILDREN 13 & UNDER_
+###  _CHILDREN 13 & UNDER_
 
 Please pay close attention to the information outlined in this document. You are required to have your parents understanding and consent before you enter any personally identifiable information into any forms on the USA Rugby website.
 
 * * *
 
-### _PARENTS_
+###  _PARENTS_
 
 Please be sure to read this Use of Member Information and Privacy Policy. USA Rugby requires your consent prior to any child 13 or under entering any personally identifiable information into the USA Rugby website. Please notify USA Rugby immediately if you have any concerns regarding USA Rugby and COPPA. We encourage parents and guardians to spend time online with their children, and to take an active role to protect the privacy of their children, including but not limited to instructing their children not to disclose any personal information over the Internet without your prior permission. For additional information concerning COPPA, parents and guardians are encouraged to visit [www.coppa.org](http://www.coppa.org/).
 
