@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bigbtc.win privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225190301id_/http%3A//www.bigbtc.win/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigbtc.win privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530113538id_/http%3A//www.bigbtc.win/privacy-policy) for the most accurate reproduction.*
 
 # BIG BTC WIN - Privacy policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@bigbtc.win or using contact form [here](https://web.archive.org/contact).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or using contact form [here](https://web.archive.org/contact).
 
 At bigbtc.win, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by bigbtc.win and how it is used. 
 
