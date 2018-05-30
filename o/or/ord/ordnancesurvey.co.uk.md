@@ -1,102 +1,35 @@
-> *The following text is extracted and transformed from the ordnancesurvey.co.uk privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004114556id_/https%3A//www.ordnancesurvey.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ordnancesurvey.co.uk privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530140403id_/https%3A//www.ordnancesurvey.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
 We take data protection very seriously at OS. Here's how we handle your information.
 
-  * **Last** **Updated** : July 2017
+**Last updated: April 2018**
 
+**Jump to section:**  
+Legal basis - why we process your personal data  
+How we use your personal data   
+Our legitimate interests   
+Categories of personal data   
+Your location information   
+Your device information   
+Log information  
+Third parties and data sharing  
+Data transfer to third countries  
+Data security  
+Retaining your personal information  
+Your data protection rights  
+Cookies  
+Contact us  
+Complaints
 
+## Who we are
 
-### 1\. Who does this policy apply to?
+This policy applies to Ordnance Survey Limited, and its group of companies which comprise Ordnance Survey Leisure Limited and Ordnance Survey International Services Ltd. For the purposes of this policy Ordnance Survey and its Group of Companies will be referred to as **we** , **us** , **our**.
 
-This policy applies to Ordnance Survey Limited, Ordnance Survey Leisure Limited and Ordnance Survey International Services Ltd ( **we** , **us** , **our** ).
+## Legal Basis and purpose for processing your personal data
 
-### 2\. When does this policy apply?
-
-We are committed to protecting your personal information and respecting your privacy. This policy applies when you access our websites, services (including competitions and recruitment) and products (including mobile applications ( **Apps** )) (together our **Sites and/or** **Services** ) that collect data, online or offline, whether by a mobile telephone, personal computer or handheld device (together **Device(s)** ) or submission of a paper form. Certain Sites and/or Services provided by us may include additional terms and conditions under an applicable end-user licence agreement or terms of use ( **EULA** or **Terms of Use** ).
-
-This policy, together with our Terms of Use and/or EULA and any other documents referred to in those terms, sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
-
-Please read the following carefully to understand our practices regarding your personal data and how we will treat it.
-
-### 3\. Ordnance Survey Limited, Ordnance Survey Leisure Limited and Ordnance Survey International Services Ltd are the Data Controller(s).
-
-**Information we collect from you and how we use it  
-**  
- **a) Information you give us (Submitted information)** :
-
-  * This is information that you give us by filling in forms online or offline, or by corresponding with us (for example, by phone, email or otherwise). This includes information you provide when you register to use or subscribe to our Sites and/or Services, place an order on our Site, make an in-app purchase, share data via our Sites and/or Services social media functions, participate in discussion boards on our site, enter a competition, promotion or survey, and when you report a problem with our Sites and/or Services, or any of our Apps.
-
-The information you give us (or our permitted suppliers) may include your name, address, age, e-mail address and telephone number, the Device's telephone number, your username for our Sites and/or Services, password and any other registration information, financial and credit card information, personal profile description and photograph.
-
-
-
-
-**We use the Submitted Information in the following ways:**
-
-  * Provide you with personalised access to our mapping data;
-  * Provide you access to personalised areas of OS Maps, online shop;
-  * Fulfil online payments or orders for any products you purchase through our online services; 
-  * Respond to your enquiries and complaints;
-  * Carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us;
-  * Provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about;
-  * Provide you, or permit selected third parties to provide you, with newsletters, promotions and other information about goods or services we feel may interest you if you have consented to such communications. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please indicate this on the form on which we collect your data or in accordance with section 8 below; and
-  * Notify you about changes to our service.
-
-
-
-**b) Information we collect about you and your device (Device information)** :
-
-Each time you visit or use our Sites and/or Services, we may automatically collect the following information:
-
-  * Technical information, including the type of mobile device you use, a unique device identifier (for example, your Device's IMEI number, the MAC address of the Device's wireless network interface, or the mobile phone number used by the Device), mobile network information, your mobile operating system, the type of mobile browser you use,  and/or time zone setting;
-  * Details of your use of any of our Apps or your visits to any of our Sites and/or Services including, but not limited to, Internet protocol (IP) address used by your Device,  traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access( **Log Information** );
-  * URL click stream information showing how users have reached our Site and/or Services and whether they access other third party sites via any external links.
-
-
-
-**We use the Device information in the following ways** :
-
-  * To administer our Site and/or Services for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
-  * To improve our Site and/or Services to ensure that content is presented in the most effective manner for you and for your Device;
-  * To allow you to participate in interactive features of our Sites and/or Service, when you choose to do so;
-  * As part of our efforts to keep our Sites and/or Services safe and secure;
-  * To determine which features your Device supports which assists our development strategy.
-
-
-
-**We use the Log Information in the following ways** :
-
-  * Track the success of our products and services and our marketing activity;
-  * Monitor data traffic and any patterns of use;
-  * Ensure the content of the Site and/or Services are fit for purpose for which they are set up and to develop the experience of our users; monitor compliance with and enforce our Terms of Use or our data licensing terms; and
-  * To ask you to review our products and services.
-
-
-
-**c) Information we collect from third parties (Third Party Information)** :
-
-  * We may receive information from other sources, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, and/or credit reference agencies for the purposes of providing our Site and/or Service to you.
-
-
-
-**d) Location information** :
-
-  * We may use GPS technology or other technology to determine your current location in order to provide certain functionality to you as part of our Sites and/or Service. Some of our location-enabled Services require your location data for the feature to work. If you wish to use the particular feature, you will be asked to consent to your data being used for this purpose.
-
-You can withdraw your consent to determine your current location at any time through your Device setting.
-
-
-
-
-**e) Cookies** :
-
-We use cookies to distinguish you from other users of our Sites and/or Services. This helps us to provide you with a good experience when you use our Sites and/or Services and also allows us to improve them. For detailed information on the cookies we use and the purposes for which we use them, see our [cookie policy](https://www.ordnancesurvey.co.uk/cookies/ "Internet cookie policy").
-
-### 4\. Legal Basis for processing your personal data
-
-**We process your personal data where** :
+This Privacy Policy aims to give you information on how we collect and use your personal data. To process your data we must have a lawful basis to do so. The law allows for six ways to process your personal data. We will process your personal data where:
 
   * You have given consent to the processing of your personal data for one or more specific purposes;
   * It is necessary for the performance of a contract to which you are a party or in order to take steps at your request prior to entering into a contract;
@@ -107,87 +40,241 @@ We use cookies to distinguish you from other users of our Sites and/or Services.
 
 
 
-### 5\. Disclosure of your information
+We are committed to protecting your personal information and respecting your privacy. We process your personal data when you access our Sites and Services. These include:
 
-We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the _Companies Act 2006_.
+    * Viewing or subscribing to our websites and social media functions.
+    * Corresponding with us using services such as web contact forms, webchat facility, telephone, email or written letter.
+    * Signing up to marketing material or newsletters.
+    * Entering competitions or participating in discussion boards.
+    * Applying for a job vacancy.
+    * Purchasing, licensing or accessing products, including mobile applications ( **Apps** ).
 
-We may disclose your personal information to third parties:
 
-  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal or regulatory obligation or request.
-
-
-
-In order to:
-
-  * Enforce or apply the terms of a relevant end user licence agreement, our Terms of Use ([www.os.uk/legal](https://www.os.uk/legal "Legal terms")), terms and conditions of supply [www.os.uk/shop/](https://www.ordnancesurvey.co.uk/shop/ "OS shop")) and other agreements or to investigate potential breaches; or
-  * Protect the rights, property or safety of our group companies, our suppliers and/or our customers. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
-  * We will provide your personal data to third party suppliers to the extent they need the data to perform their functions and for no other purpose. These include: 
-    * fulfilling orders for online mapping;
-    * fulfilling online payments;
-    * administering our customer emailing lists;
-    * administering our customer feedback service.
+  * Some of our Sites and Services may include additional terms and conditions under an applicable end-user license agreement or terms of use ( **EULA** or **Terms of Use** ).
 
 
 
-### 6\. Where we store your personal data
+Go to top of page
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ( **EEA** ). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. These staff may be engaged in the fulfilment of your request, order or reservation, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+## We use your personal data in the following ways:
 
-Any payment transactions carried out by us or our chosen payment processing services provider will be encrypted. Where we have given you (or where you have chosen) a password that enables you to access certain parts of our Sites and/or Service, you are responsible for keeping this password confidential. Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Sites and/or Services; any transmission is at your own risk. Once we have received your information, we will take appropriate measures to try to prevent unauthorised access.
+    * Provide you with personalised access to our mapping data;
+    * Provide you access to personalised areas of OS Maps, online shop;
+    * Fulfil online payments or orders for any products you purchase through our online services;
+    * Provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about;
+    * Provide you, or permit selected third parties to provide you, with newsletters, promotions and other information about goods or services we feel may interest you where you have consented to such communications.
+    * Carry out our obligations from any contracts you have entered into with us;
+    * Customer satisfaction surveys and market research;
+    * Process job vacancy applications and CVs;
+    * Respond to your enquiries and complaints;
 
-Our Sites and/or Services may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates (including, but not limited to, websites on which the App or the Services are advertised). If you follow a link to any of these websites, please note that these websites and any services that may be accessible through them have their own privacy policies and that we do not accept any responsibility or liability for these policies or for any personal data that may be collected through these websites or services, such as contact and location data. Please check these policies before you submit any personal data to these websites or use these services.
 
-### 7\. Access to information
-
-You have the right to access to personal information held about you in accordance with the data protection legislation. Details on how to submit a Subject Access Request can be found on our [data protection page](https://web.archive.org/about/governance/policies/data-protection.html "Data protection").
-
-### 8\. Retaining your information and unsubscribing
-
-**You are able to withdraw consent at any time, where relevant** :
-
-  * You can unsubscribe from our newsletters and emails by the following methods: 
-    * using the ‘unsubscribe’ button displayed on our emails; or
-    * if you have an account with us, by changing your email preferences on your account; or
-    * by sending an email to [customerservices@os.uk](mailto:customerservices@os.uk) asking us to unsubscribe you; or by writing to Customer Services, Ordnance Survey, Explorer House, Adanac Drive, Southampton SO16 0AS.
-  * You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at Customer Services, Ordnance Survey, Explorer House, Adanac Drive, Southampton SO16 0AS or [customerservices@os.uk](mailto:customerservices@os.uk).
-  * We will store your personal data for no longer than necessary to fulfil the contract or service we provide to you. We may retain your personal data for a reasonable period afterward to allow us to respond to any follow-up enquiries or complaints, or for as long as you remain a registered user of our products and services.
+  * Notify you about changes to our products and services.
 
 
 
-### 9\. Data security
+Go to top of page
 
-  * Once it is within our control, we will do our utmost to ensure your personal data is kept confidential by taking appropriate measures to ensure that it remains private.
-  * The security of your data is outside our control until we have received it. Transmission of data to us via the internet may not be secure.
+## Our legitimate interests
+
+There are times when we will rely on legitimate interests to process personal data, particularly when it is not practical to obtain consent. We will always consider if it is fair and balanced to do so and if it is within your reasonable expectations. We will balance your rights and our legitimate interests to ensure that we use your personal information in ways that are not unduly intrusive or unfair. Examples are:
+
+    * Reporting criminal acts and compliance with law enforcement agencies.
+    * Internal and external audit for financial or regulatory compliance purposes.
+    * Statutory reporting.
+    * Maintenance of “do not contact” lists (suppression lists).
+    * Customer satisfaction surveys and market research.
+    * Physical and network security.
+    * Work experience placements.
+    * Financial management and control.
+
+
+  * General administration.
 
 
 
-### 10\. Changing this policy
+Go to top of page
 
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you. The new terms may be displayed on-screen and you may be required to read and accept them to continue your use of the App or the Services.
+## Categories of personal data you give to us
 
-### 11.Contacting us
+The personal data you give us includes:
 
-If you have any queries about this Privacy Policy, please contact us:
+    * Name
+    * Address
+    * Telephone number
+    * Email address
+    * Date of birth and age
+    * User name and passwords to access our Sites and Services
+    * Financial and credit card information
+    * Personal profile description and photograph
+    * Equality and diversity information
 
-**Data Protection Officer** : Leah Duffy  
- **Email** : [leah.duffy@os.uk](mailto:leah.duffy@os.uk)  
- **Call** : 02380 055396  
+
+  * Location information
+
+
+
+Go to top of page
+
+## Your location information
+
+    * We may use GPS technology or other technology to determine your current location in order to provide certain functionality to you as part of our Sites, Services and Apps. Some of our location-enabled Services require your location data for the feature to work. If you wish to use the particular feature, you will be asked to consent to your data being used for this purpose.
+
+
+  * You can withdraw your consent to determine your current location at any time through your Device setting.
+
+
+
+Go to top of page
+
+## Your device information
+
+Each time you visit or use our Sites and Services, we may automatically collect the following information:
+
+  * Technical information, including the type of mobile device you use, a unique device identifier (for example, your Device's IMEI number, the MAC address of the Device's wireless network interface, or the mobile phone number used by the Device), mobile network information, your mobile operating system, the type of mobile browser you use, and/or time zone setting;
+  * Details of your use of any of our Apps or your visits to any of our Sites and Services including, but not limited to, Internet protocol (IP) address used by your Device, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes and the resources that you access ( **Log Information** );
+  * URL click stream information showing how users have reached our Site and Services and whether they access other third party sites via any external links.
+
+
+
+Go to top of page
+
+## We use the device information in the following ways
+
+    * To administer our Site and Services for troubleshooting, data analysis, testing, research, statistical and survey purposes;
+    * To improve our Site and Services to ensure that content is presented in the most effective manner for you and for your Device;
+    * To allow you to participate in interactive features of our Sites and/or Service, when you choose to do so;
+    * As part of our efforts to keep our Sites and Services safe and secure;
+
+
+  * To determine which features your Device supports which assists our development strategy.
+
+
+
+Go to top of page
+
+## We use the Log Information in the following ways
+
+    * Track the success of our products and services and our marketing activity;
+    * Monitor data traffic and any patterns of use;
+    * Ensure the content of our Site and Services are fit for purpose for which they are set up and to develop the experience of our users; monitor compliance with and enforce our Terms of Use or our data licensing terms; and
+
+
+  * To ask you to review our products and services.
+
+
+
+Go to top of page
+
+## Information we pass to third parties and other data sharing
+
+In order to facilitate your use of our Sites and Services, we may have to share your personal data with third parties to provide elements of our Sites and Services to you. We will provide your personal data to third parties when they need the data to perform particular functions in delivering our Sites and Services to you or as part of our regulatory compliance. These include:
+
+  * Service providers acting as data processors, located in the UK and EU who provide data hosting facilities, IT and system administration services.
+  * Service providers located in the UK and EU acting as data processors who administer our customer email service, webchat service, API Services.
+  * Service providers who are manufacturers of OS Branded Products where a device requires interaction with 3rd parties for registration of devices, 3rd party software and downloading of mapping tiles.
+  * Service providers acting as a data processor for the facilitation of our recruitment processes.
+  * HM Revenue & Customs, regulators and other authorities acting as processors or joint controllers based in the United Kingdom who require reporting of processing activities in certain circumstances.
+  * We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the Companies Act 2006.
+  * Third parties to whom we may choose to sell, transfer, or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal or regulatory obligation or request. 
+    * In order to enforce or apply the terms of a relevant EULA, our Terms of Use ([www.os.uk/legal](http://www.os.uk/legal/index.html)), terms and conditions of supply ([https://www.os.uk/shop/](https://www.ordnancesurvey.co.uk/shop/)) and other agreements or to investigate potential breaches; or
+    * Protect the rights, property or safety of our group companies, our suppliers and/or our customers.
+
+
+
+We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.
+
+Go to top of page
+
+## Data transfers to third countries
+
+The data we collect from you may, on occasion, be processed at a destination outside the European Economic Area ( **EEA** ). It may also be processed by organisations operating outside the EEA who work for us or for one of our suppliers. These organisations may be engaged in the fulfilment of your request, order or reservation, and the provision of support services.
+
+Where we use certain service providers, we may use specific contracts approved by the European Commission which give personal data the same protection it has in Europe.
+
+Where we use providers based in the US, we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between the Europe and the US.
+
+We will take steps reasonably necessary to ensure there is an adequate level of protection of your data and that your data is treated securely and in accordance with our Privacy Policy.
+
+Go to top of page
+
+## Data security
+
+Once it is within our control, we will do our utmost to ensure your personal data is processed in a way that ensures appropriate security from unauthorised or unlawful processing, accidental loss, destruction or damage.
+
+We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.
+
+Go to top of page
+
+## Retaining your personal information
+
+We will retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements. We may also retain your personal data for a reasonable period afterwards to allow us to respond to any follow up enquiries or complaints, or for as long as you remain a registered user of our products and services.
+
+To determine appropriate retention periods for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
+
+In some circumstances we may anonymise your personal data (so that it can no longer be associated with you) for research or statistical purposes, we may use or store this information indefinitely without further notice to you.
+
+In some circumstances you can ask us to delete your data: see Right of Erasure below for further information.
+
+Go to top of page
+
+## Your data protection rights
+
+**Withdraw consent**  – Where we are using your personal information on the basis of your consent, you have the right to withdraw that consent at any time.
+
+**Right to be informed** – You have the right to be told how your personal information will be used. This policy document, and shorter summary statements used on our communications, are intended to be a clear and transparent description of how your data may be used.
+
+**Right of access** – You can write to us asking what information we hold on you and to request a copy of that information.  This is called a Subject Access Request. From 25 May 2018 we will have 30 days to respond to you once we are satisfied you have rights to see the requested records and we have successfully confirmed your identity. Details on how to submit a Subject Access Request can be found on our [data protection page](https://web.archive.org/about/governance/policies/data-protection.html "Data protection").
+
+**Right of erasure** – From 25 May 2018, you have the right to be forgotten (i.e. to have your personally identifiable data deleted). However, we may not always be able to comply with your request of erasure for specific legal reasons, which will be notified to you. In some cases, we may recommend that we supress you from future communications, rather than data deletion, particularly is you have purchased an item from our e-commerce shop which comes with a warranty.  Our Customer Services Team will be happy to advise you.
+
+**Right of rectification** – If you believe our records are inaccurate you have the right to ask for those records concerning you to be updated. This enables you to have any incomplete or inaccurate data we hold about you corrected.  We may need to verify the accuracy of the new data provided to us.
+
+**Right to restrict processing** – In certain situations you have the right to ask for processing of your personal data to be restricted because there is some disagreement about its accuracy or legitimate usage.
+
+**Right to data portability** – Where we are processing your personal data under your consent, the law allows you to request data portability from us to another service provider. This right is largely seen as a way for people to transfer their personal data from one service provider to another. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you.
+
+**Right to object**  – You have an absolute right to stop the processing of your personal data for direct marketing purposes. Simply contact our Customer Service Team and they will amend your contact preferences or alternatively if you have an OSMaps or shop account you can update your details in your Preference Centre.
+
+**Right to object to automated decisions** – In a situation where a data controller is using your personal data in a computerised model or algorithm to make decisions “that have a legal effect on you”, you have the right to object. This right is more applicable to mortgage or finance situations. We do not undertake complex computerised decision making that produce legal effects.
+
+Go to top of page
+
+## Cookies
+
+We use cookies to distinguish you from other users of our Sites and Services. This helps us to provide you with a good experience when you use our Sites and Services and also allows us to improve them. You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For detailed information on the cookies we use and the purposes for which we use them, [see our cookie policy](https://web.archive.org/cookies/index.html "OS cookie policy").
+
+Go to top of page
+
+## Changes to this policy
+
+Any changes we may make to our Privacy Policy in the future will be posted on this page and, where appropriate, notified to you. The new terms may be displayed on-screen and you may be required to read and accept them to continue your use of any Services or Apps.
+
+## Contacting us
+
+If you have any queries about this Privacy Policy, please contact us:  
+ **Data Protection Officer**  
+ **Email** : [dpo@os.uk](mailto:dpo@os.uk)    
+**Call** : 03456 050505  
  **Post** : Ordnance Survey, Explorer House, Adanac Drive, Southampton, SO16 0AS
 
-**Ordnance Survey** and/or **Ordnance Survey International Services Ltd:**  
- **Email** : [customerservices@os.uk](mailto:customerservices@os.uk)  
- **Call** : 03456 05 05 05 (Monday - Friday: 8.30am-5.30pm - call charges apply)  
+ **Ordnance Survey** and/or **Ordnance Survey International Services Ltd** :  
+ **Email** : [customerservices@os.uk](mailto:customerservices@os.uk)   
+**Call** : 03456 05 05 05 (Monday - Friday: 8.30am-5.30pm - call charges apply)  
  **Post** : Customer Services, Ordnance Survey, Explorer House, Adanac Drive, Southampton, SO16 0AS
 
-**Ordnance Survey Leisure Limited:**  
- **Email** : [customerservices@os.uk](mailto:customerservices@os.uk)  
- **Call** : 03454 56 04 20 (Monday - Friday: 8.30am-5.30pm – call charges apply)  
+ **Ordnance Survey Leisure Limited** :  
+ **Email** : [customerservices@os.uk](mailto:customerservices@os.uk)   
+**Call** : 03454 56 04 20 (Monday - Friday: 8.30am-5.30pm – call charges apply)  
  **Post** : Ordnance Survey Leisure, Customer Services, Explorer House, Adanac Drive, Southampton, SO16 0AS
 
-### 12\. Complaints
+Go to top of page
 
-If, for any reason, you have a complaint, please contact the Data Protection Officer to discuss your concerns. Following this, if you are still dissatisfied, you are able to contact the Information Commissioner’s Office directly at the contact details below.   
-**Information Commissioner** :   
-Call: 0303 123 1113  
-ICO website: <https://ico.org.uk/>
+## Complaints
+
+If, for any reason, you have a complaint, please contact the Data Protection Officer to discuss your concerns.
+
+Following this, if you are still dissatisfied, you are able to contact the Information Commissioner’s Office directly at the contact details below.
+
+**Information Commissioner** : Contact telephone number: 0303 123 1113. Website: ICO website <https://ico.org.uk/>
