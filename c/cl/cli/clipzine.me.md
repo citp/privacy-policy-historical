@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clipzine.me privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125080421id_/http%3A//www.clipzine.me/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipzine.me privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530125052id_/http%3A//www.clipzine.me/privacy.html) for the most accurate reproduction.*
 
 # CLIPZINE: Privacy Policy
 
