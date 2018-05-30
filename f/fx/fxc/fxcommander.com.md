@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxcommander.com privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127212909id_/http%3A//www.fxcommander.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxcommander.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531002101id_/http%3A//www.fxcommander.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | FX Commander.com
 
