@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ddpcshares.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129025035id_/http%3A//www.ddpcshares.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ddpcshares.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530104252id_/http%3A//www.ddpcshares.com/privacy_policy) for the most accurate reproduction.*
 
 # DDPCShares
 
