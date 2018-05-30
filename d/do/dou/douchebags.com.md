@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the douchebags.com privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127131033id_/https%3A//douchebags.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the douchebags.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530165113id_/http%3A//douchebags.com/privacy-statement) for the most accurate reproduction.*
 
 # Douchebags™ Privacy Statement
 
@@ -23,8 +23,9 @@ Any of the information we collect from you may be used in one of the following w
 
 To personalize your experience and improve customer service: Your information helps us to better respond to your individual needs and more effectively respond to your customer service and support requests.  
 To process transactions: Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the products you order from our Site. Your information may be shared with third party providers of credit card transaction processing services via the Pay Mill electronic commerce gateway. We also will share your contact information and address with our shipping partner to allow them to deliver your order to you.  
-To send periodic emails: The email address you provide for order processing will be used to send you information and updates pertaining to your order. We may also email you about specials and promotions offered through our Site. If at any time you would like to unsubscribe from receiving future emails from us, you may do so by following the detailed unsubscribe instructions included at the bottom of each email that you receive from us.  
-All customers have the right to amend, access and delete their personal information as stated by the privacy ac. In order to do so, please contact us at: [privacy@douchebags.com](mailto:privacy@douchebags.com)
+To send periodic emails: The email address you provide for order processing will be used to send you information and updates pertaining to your order. We may also email you about specials and promotions offered through our Site. If at any time you would like to unsubscribe from receiving future emails from us, you may do so by following the detailed unsubscribe instructions included at the bottom of each email that you receive from us.
+
+All customers have the right to amend, access and delete their personal information as stated by the privacy ac. In order to do so, please contact us at: hello@douchebags.com 
 
 ### HOW DO WE PROTECT YOUR INFORMATION?
 
