@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opensnow.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120042223id_/http%3A//opensnow.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opensnow.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530052056id_/http%3A//opensnow.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | OpenSnow
 
