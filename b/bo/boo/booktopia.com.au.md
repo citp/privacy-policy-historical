@@ -1,12 +1,25 @@
-> *The following text is extracted and transformed from the booktopia.com.au privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120051528id_/https%3A//www.booktopia.com.au/helpCentre.ep%3Fp%3Dpolicies%26o%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booktopia.com.au privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530193452id_/https%3A//www.booktopia.com.au/helpCentre.ep%3Fp%3Dpolicies%26o%3Dprivacy) for the most accurate reproduction.*
 
 # Booktopia - Books, Online Books, #1 Australian online bookstore, Buy Discount Books, eBooks and DVDs from Australia and the world.
 
 ### Privacy Policy
 
-Booktopia Pty Ltd ("Booktopia") respects your right to privacy and is committed to protecting your personal information. This Privacy Policy outlines how Booktopia Pty Ltd collects, uses and manages your personal information.
+Booktopia Pty Ltd ("Booktopia") respects your right to privacy and is committed to protecting your personal information. This Privacy Policy outlines how Booktopia Pty Ltd collects, uses and manages your personal information and incorporates compliance with the General Data Protection Regulations (GDPR) for EEA residents.
 
 We respect the importance of your privacy and that you have a right to make your own choices about how your personal information is collected and used. We acknowledge that when you provide your personal information, you do so trusting Booktopia Pty Ltd and unless you directly give Booktopia Pty Ltd consent to do otherwise, Booktopia Pty Ltd will only collect and use your personal information in accordance with this Privacy Policy.
+
+We give you:
+
+  1. The right to be informed through this Privacy Policy, this website and our communications with you 
+  2. The right of access to your information
+  3. The right to rectification of your information
+  4. The right to erasure of your information
+  5. The right to restrict processing of your information
+  6. The right to data portability should it be required
+  7. The right to object to usage and storage of your information
+  8. Rights in relation to automated decision making and profiling as relevant.
+
+
 
 #### Collecting information about you
 
@@ -21,8 +34,21 @@ Except as stated in this Privacy Policy, Booktopia Pty Ltd will not collect or u
   * contact us; we may also keep a record of that contact.
   * We will only collect additional personal information with your consent.
 
-  
 
+
+#### Information you give us
+
+We collect and store all the information you enter yourself into your Account and Email Newsletter Preference center, including personal information such as your name, addresses, phone number, email address; information about your orders; personal communications with us; and your newsletter preferences.
+
+We collect and store any information you give to us when you contact us through our customer contact channels eg phone, email, chat, contact center, social media; that is relevant to you or us for the purposes of updating your information, or improving our service to you or offering you new products and services if relevant.
+
+**Information from your use of our websites and services**
+
+We collect and store information about your usage of our website when you browse and shop with us. This includes technical information such as your browser type; device type; IP address; length of time you are on part of a page, a page and the site, and other technical information.
+
+Information collected and stored from browsing our websites is anonymous unless you are logged into your account and have visited us before, in which case this information is associated with your account by cookies that our servers place on your computer so that we can improve your browsing and shopping experience and offer further service and products to you onsite; by email (unless you have unsubscribed from such services); by retargeting services on other platforms via cookies eg social media; and other online properties not associated with us also via cookies.
+
+We collect and store the above information in server logs and our database.
 
 #### Booktopia Pty Ltd use of cookies
 
@@ -72,6 +98,30 @@ If you are receiving promotional information about Booktopia Pty Ltd and do not 
 
 If at any time you want to know what personal information Booktopia Pty Ltd holds about you, you can log into your Account and view the information you gave us. If you have further questions, you can contact us by phone.
 
+#### How you can control the information collected by Booktopia
+
+These are ways that you can control the information that may be collected and stored about you or your browsing activities.
+
+**Your Account**
+
+You can log into your account at any time and edit the information you have entered previously.
+
+**Contact our call center**
+
+You can contact our call center by any of the contact modes we offer to talk to a Customer Service representative about the information we have collected. We will delete information about your account or your entire account, except for information that is relevant to completing an order, or for legal or government purposes.
+
+**Your Email Preference Centre**
+
+You can log into your Email preference centre in Your Account and manage the types of communications you will receive from us that we have stored. You will receive advices about the status of any open orders until your order/s are complete.
+
+**Block or Delete Cookies**
+
+You can delete the cookies that our websites and associated services have placed in your browser. You should be aware however that your browsing or shopping experience may be reduced.
+
+**Use Incognito or 'Safe Browsing' mode in your browser**
+
+These modes allow you to browse the web without recording web pages and files in your browser. All cookies get deleted after you've closed all of your incognito windows and tabs and your bookmarks and settings are stored until you delete them.
+
 #### Changing and updating the information Booktopia Pty Ltd has about you
 
 If at any time you wish to change your personal information that is inaccurate or out of date, please contact our Customer Service team through your Message Center in your account, or by contacting our Customer Service team by phone and we will amend your personal information accordingly, or advise you how you can do this yourself within your account.
@@ -88,7 +138,9 @@ Booktopia Pty Ltd will do everything reasonable and in its' power to keep secure
 
 #### What to do if you have a problem or question
 
-If Booktopia Pty Ltd becomes aware of any ongoing concerns or problems with the Booktopia Pty Ltd website, Booktopia Pty Ltd will work to address these concerns promptly. If you have any further queries relating to this Privacy Policy, or you have a problem or complaint, please contact Booktopia Pty Ltd by calling +612 9045 4394 Monday - Friday, 9am - 5pm Sydney time.
+If Booktopia Pty Ltd becomes aware of any ongoing concerns or problems with the Booktopia Pty Ltd website, Booktopia Pty Ltd will work to address these concerns promptly. If you have any further queries relating to this Privacy Policy, or you have a problem or complaint, please contact Booktopia Pty Ltd by calling +612 9045 4394 Monday to Friday, 9am to 5pm Sydney time, except public holidays.
+
+Enquiries in relation to the Privacy of residents in the EEA and the GDPR should be referred via the above methods with reference to the Data Protection Officer, Steven Traurig.
 
 #### Future changes
 
@@ -112,9 +164,41 @@ If the price is significantly more then we will not proceed until we have consul
 
 Booktopia are not obligated to sell a title at the listed price if we are not able to source it from our supplier at the time of ordering as prices may have changed in the interim. In all instances you will be contacted via the message centre in your Booktopia account if there is a change of price and Booktopia will endeavour to find an alternative edition for the same price or discuss the possibility of purchasing the same title at the new price.
 
-We reserve the right to correct any printing errors.
+We reserve the right to correct any pricing errors and we may cancel orders and refund your money because of genuine pricing errors (either because of unilateral mistake, or for any reason) up to the time you receive the goods.
 
 ^ back to top
+
+### Online Abuse Policy
+
+As an online bookstore with millions of books from around the world, there is always the likelihood to display and sell content, from an ever-changing landscape of publishers and authors, that can insult or offend someone or some groups - even the most seemingly-benign content. On our websites, we take the approach of selling entertainment and knowledge and enabling free speech and freedom of opinions and expression through books, but not at the expense of, or in specific danger to, our democratic and societal protections, rights and freedoms - particularly those of safety, security and religious, political or civil association. Google is famous for having a mantra of "Don't Be Evil" and we agree with that sentiment when it comes to books (unless you are Stephen King in which case context definitely counts, but that's the point!).
+
+Booktopia itself has policies to address racism, bullying and hate within our company and we extend that for our websites, within the relevant Laws and what would be judged in an expected, reasonable manner. We do our best to swiftly assess and respond to reports of prohibited or illegal content on our website that falls foul of these Laws and principles, just as we so choose not to remove content that does not, according to our judgement and within the Law.
+
+**What is Prohibited or Illegal content?**
+
+The Office of the eSafety Commissioner of the Australian Government describes the following types of content that may be Prohibited or Illegal:
+
+  * footage of real or simulated violence, criminal activity or accidents from video clips, games or films
+  * sexually explicit content
+  * images of child sexual abuse
+  * content that advocates the doing of a terrorist act
+  * content instructing or promoting crime or violence.
+
+
+
+We expand this list to also include racism, bullying and harassment specifically and intently directed at people as well as other types of content. We have content and categories where lines definitely are drawn at different places within this list - including zero tolerance in many - in considered, educational or non-harming contexts and that we believe is a reasonable and acceptable way to behave in our society. 
+
+What we are saying is that we do not automatically take content down just because you don't like or agree with it, but we do take content down that is reasonably or obviously harmful.
+
+Good examples of content we do allow are books about topics that are widely accepted as educational resources, yet can be potentially offensive; for example most medical, religious and historical books would fit into this category (obviously not an exhaustive list) and there will always be a person or persons who demand that we take that content down, yet we do not. Examples of books we have taken down are bomb-making or other terrorism-related instruction manuals and explicitly-overt sexual, homophobic, bigoted or racist content specifically directed at a person, group or groups of people for the intent to cause harm. Intent and context of the book is important. Even so, we believe we can safely fulfil the wider reading needs in our society within the Law, yet without being necessarily or automatically held hostage to causes or people who would demand us to act in a way that would enforce their own views onto us and our readers. At the end of the day we take a non-radical, lawful and reasonable approach to what we sell and display on our websites and we do not tolerate Cyber Abuse.
+
+**What is Cyber Abuse?**
+
+The Office of the eSafety Commissioner of the Australian Government defines Cyber abuse as online behaviour which is reasonably likely to have a seriously threatening, intimidating, harassing or humiliating effect on a person. It is behaviour that threatens to hurt a person socially, psychologically or even physically. As above, we have a very low tolerance for this type of content and we welcome you to report it to us.
+
+**Have something on our website to report?**
+
+**_Please send an email to[abuse@booktopia.com.au](mailto:abuse@booktopia.com.au) We will consider your view and if we deem it appropriate to act, then we will do so._**
 
 ### Cover Images
 
