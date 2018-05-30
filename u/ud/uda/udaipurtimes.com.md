@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the udaipurtimes.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126155540id_/http%3A//udaipurtimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the udaipurtimes.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530122531id_/https%3A//udaipurtimes.com/privacy) for the most accurate reproduction.*
 
 # Privacy | UdaipurTimes.com
 
@@ -45,4 +45,8 @@ We therefore have no responsibility or liability for the content and activities 
 
 This online privacy policy applies only to information collected through our website and not to information collected offline. Your Consent By using our site, you consent to our online privacy policy. Changes to our Privacy Policy If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
 
-_This policy was last modified on May 20th 2010_
+Third party advertisements on UdaipurTime by Times Internet are covered by the following privacy policy
+
+<https://www.colombiaonline.com/privacy-policy>
+
+_This policy was last modified on May 20th 2018_
