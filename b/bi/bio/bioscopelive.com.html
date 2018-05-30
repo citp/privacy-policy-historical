@@ -1,14 +1,27 @@
-<!--The following is the downloaded HTML source of the bioscopelive.com privacy policy that was archived on 2017-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171219191402id_/http%3A//www.bioscopelive.com/en/disclaimer) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bioscopelive.com privacy policy that was archived on 2018-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180530063730id_/https%3A//www.bioscopelive.com/en/disclaimer) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-opera no-touch csstransforms no-touchevents"><head>
+<!DOCTYPE html><html class="no-opera no-touch csstransforms no-touchevents"><head data-cast-api-enabled="true">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=no">
-    <title>Bioscope| Beta - Watch Bangla Movies Natoks Music Videos Songs</title>
-        <meta property="fb:app_id" content="1438927536129584">
+    <title>Bioscope | Privacy Policy - Watch Bangla Movies Natoks Music Videos Songs</title>
+                <meta name="title" content="Bioscope">
+        <meta name="keyword" content="watch sports channel, sports channel live, live tv bangladesh">
+        <meta name="description" content="Stream Live TV Bangla Movies Natoks Music Videos Songs">
+        <meta property="og:site_name" content="Bioscope">
+        <meta property="og:title" content="Bioscope">
+        <meta property="og:description" content="Watch Live TV, Bangla Movies, Natoks, Music Videos and Songs, Stream">
+        <meta property="og:image" content="http://www.bioscopelive.com/bundles/bongoweb/images/oglogo.jpg">
+        <meta property="og:type" content="website">
+        <meta property="og:image:width" content="800">
+        <meta property="og:image:height" content="250">
+        <meta property="og:url" content="https://www.bioscopelive.com">
+    
+    <meta name="piwiq_title" content="Privacy Policy">
+    <meta property="fb:app_id" content="1438927536129584">
         <link rel="icon" type="image/x-icon" href="/bundles/bongoweb/images/favicon.ico">
-        <link rel="stylesheet" href="/bundles/bongoweb/css/compiled/app.css">     <link href="/bundles/bongoweb/css/slider-pro.min.css" rel="stylesheet">
+            <link rel="stylesheet" href="/bundles/bongoweb/css/compiled/app.css">     <link href="/bundles/bongoweb/css/slider-pro.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/bundles/bongoweb/css/perfect-scrollbar.min.css">
     <style>
         .jwplayer.jw-state-playing:not(.jw-flag-touch):not(.jw-flag-small-player):not(.jw-flag-casting) .jw-display,
@@ -16,7 +29,22 @@
             display: table !important;
         }
     </style>
-             <script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="/bundles/bongoweb/js/jquery.min.js"></script>
+    <!-- google tag manager -->
+    <script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" defer="" src="//stats.bongobd.com/piwik.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TDVQSLH"></script><script>(function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-TDVQSLH');</script>
+    <!-- End Google Tag Manager -->
+         <script src="/bundles/bongoweb/js/jquery.min.js"></script>
     <script src="https://sdk.accountkit.com/en_US/sdk.js"></script>
     <script type="text/javascript">
         AccountKit_OnInteractive = function () {
@@ -57,12 +85,85 @@
     })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
 
     ga('create', 'UA-83711902-1', 'auto');
+    ga('require', 'ecommerce');
     ga('send', 'pageview');
 </script>
-        <!-- Facebook Pixel Code -->
+    <!-- Piwik -->
+<script type="text/javascript">
+
+
+    var temp_buffer = 0; //to store a single ts file size
+    var gross_temp_buffer = 0; //to store multiple ts file size to send on server
+    var total_data_used = 0; //to store total data use in a session
+    var count = 0;
+
+
+    (function() {
+        var origOpen = XMLHttpRequest.prototype.open;
+        XMLHttpRequest.prototype.open = function(e) {
+            this.addEventListener('progress',function (e)   {
+                if(this.getResponseHeader("Content-Type")) {
+                    if ((this.getResponseHeader("Content-Type") == 'video/mp2t') || (this.getResponseHeader("Content-Type") == 'binary/octet-stream')) {
+                        if (e.lengthComputable) {
+                            temp_buffer = e.total;
+                        }
+                    }
+                }
+            });
+            this.addEventListener('load', function() {
+                if(this.getResponseHeader("Content-Type")){
+                    if((this.getResponseHeader("Content-Type") == 'video/mp2t') || (this.getResponseHeader("Content-Type") == 'binary/octet-stream')){
+                        if(count == 4) {//we will ping the server after several ts file download
+
+                            total_data_used = total_data_used + gross_temp_buffer;
+
+                            _paq.push(['appendToTrackingUrl', 'data_used=' + gross_temp_buffer + '&bw_bytes=' + gross_temp_buffer + '&total_data_used=' + total_data_used]);
+                            _paq.push(['trackGoal', 1]);
+
+                            count = 0;
+                            temp_buffer = 0;
+                            gross_temp_buffer = 0;
+                        }else{
+                            gross_temp_buffer = gross_temp_buffer + temp_buffer;
+                            count++;
+                        }
+                    }
+                }
+            });
+            origOpen.apply(this, arguments);
+        };
+    })();
+
+    /* Get page title from meta for customize title */
+    var piwiq_title = document.head.querySelector('meta[name="piwiq_title"]');
+    piwiq_title = piwiq_title.content;
+
+    /* Get User Name and id for user profile */
+    
+    var _paq = _paq || [];
+    /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+    _paq.push(['setDocumentTitle', piwiq_title]);
+
+    /* Check if user logged in for pushing. If not login Piwik will handel it by default. */
+    
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+
+    (function() {
+        var u="//stats.bongobd.com/";
+        _paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', '1']);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+    })();
+</script>
+<!-- End Piwik Code -->    <!-- facebook and tapad pixel -->
+        <!-- Tapad Pixel Code -->
+    </head><body><img src="https://tapestry.tapad.com/tapestry/1?ta_partner_id=2768&amp;ta_format=png" style="display:none;" height="0" width="0/">
+    <!-- Facebook Pixel Code -->
     <script>
         !function (f, b, e, v, n, t, s) {
-            if (f.fbq)return;
+            if (f.fbq) return;
             n = f.fbq = function () {
                 n.callMethod ?
                     n.callMethod.apply(n, arguments) : n.queue.push(arguments)
@@ -89,25 +190,16 @@
     <!-- End Facebook Pixel Code -->
 
     
-    <script type="text/javascript">
-        /* <![CDATA[ */
-        var google_conversion_id = 837215421;
-        var google_custom_params = window.google_tag_params;
-        var google_remarketing_only = true;
-        /* ]]> */
-    </script>
-    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-    </script>
-    <noscript>
-        <div style="display:inline;">
-            <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/837215421/?guid=ON&amp;script=0"/>
-        </div>
-    </noscript>
 
 
 
-</head>
-<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TDVQSLH" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- End Google Tag Manager (noscript) -->
 
 
 <!--body container starts from here-->
@@ -197,8 +289,8 @@
                             <div class="col-xs-24 col-sm-24 col-md-8 col-md-push-10">
                                 <ul class="utility">
                                     <li class="dropdown lang">
-                                        <a href="#" class="dropdown-toggle hidden-sm hidden-xs bn" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-                                                                                            <span>বাংলা</span>
+                                        <a href="#" class="dropdown-toggle hidden-sm hidden-xs en" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                                                                                            <span>ENG</span>
                                             
                                             <span class="caret"></span></a>
 
@@ -249,7 +341,7 @@
                         <div class="block-search">
                             <form class="search-form-head" action="/en/search">
                                 <div class="input-group" id="search">
-                                    <span class="twitter-typeahead" style="position: relative; display: inline-block;"><input type="text" class="form-control typeahead form-text-holder tt-hint" title="type to search" value="" readonly="" autocomplete="off" spellcheck="false" tabindex="-1" style="position: absolute; top: 0px; left: 0px; border-color: transparent; box-shadow: none; opacity: 1; background: none 0% 0% / auto repeat scroll padding-box border-box rgb(255, 255, 255);" dir="ltr"><input type="text" class="form-control typeahead form-text-holder tt-input" title="type to search" required="" placeholder="Search for videos" value="" name="q" autocomplete="off" spellcheck="false" dir="auto" style="position: relative; vertical-align: top; background-color: transparent;"><pre aria-hidden="true" style="position: absolute; visibility: hidden; white-space: pre; font-family: Roboto, Helvetica, Arial, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 400; word-spacing: 0px; letter-spacing: 0px; text-indent: 0px; text-rendering: auto; text-transform: none;"></pre><div class="tt-menu ps-container ps-theme-default" style="position: absolute; top: 100%; left: 0px; z-index: 100; display: none;" data-ps-id="23fd1ad8-c52d-db35-9882-a8a95b9f9524"><div class="tt-dataset tt-dataset-search-bongo"></div><div class="ps-scrollbar-x-rail" style="left: 0px; bottom: 0px;"><div class="ps-scrollbar-x" tabindex="0" style="left: 0px; width: 0px;"></div></div><div class="ps-scrollbar-y-rail" style="top: 0px; right: 0px;"><div class="ps-scrollbar-y" tabindex="0" style="top: 0px; height: 0px;"></div></div></div></span>
+                                    <span class="twitter-typeahead" style="position: relative; display: inline-block;"><input type="text" class="form-control typeahead form-text-holder tt-hint" title="type to search" value="" readonly="" autocomplete="off" spellcheck="false" tabindex="-1" style="position: absolute; top: 0px; left: 0px; border-color: transparent; box-shadow: none; opacity: 1; background: none 0% 0% / auto repeat scroll padding-box border-box rgb(255, 255, 255);" dir="ltr"><input type="text" class="form-control typeahead form-text-holder tt-input" title="type to search" required="" placeholder="Search for videos" value="" name="q" autocomplete="off" spellcheck="false" dir="auto" style="position: relative; vertical-align: top; background-color: transparent;"><pre aria-hidden="true" style="position: absolute; visibility: hidden; white-space: pre; font-family: Roboto, Helvetica, Arial, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 400; word-spacing: 0px; letter-spacing: 0px; text-indent: 0px; text-rendering: auto; text-transform: none;"></pre><div class="tt-menu ps-container ps-theme-default" style="position: absolute; top: 100%; left: 0px; z-index: 100; display: none;" data-ps-id="99c39acd-066b-6cc6-70b1-d30f20a6abe5"><div class="tt-dataset tt-dataset-search-bongo"></div><div class="ps-scrollbar-x-rail" style="left: 0px; bottom: 0px;"><div class="ps-scrollbar-x" tabindex="0" style="left: 0px; width: 0px;"></div></div><div class="ps-scrollbar-y-rail" style="top: 0px; right: 0px;"><div class="ps-scrollbar-y" tabindex="0" style="top: 0px; height: 0px;"></div></div></div></span>
                                     <span class="input-group-btn">
                                     <button type="submit" class="form-control form-control-submit"><i class="icon-search-light"></i></button>
                                 </span>
@@ -267,101 +359,135 @@
         <div class="pusher">
             <div class="root">
                 <div id="fb-root"></div>
-                                     <div class="container">
+                                 
+    <div class="container">
         <div class="row">
             <div class="col-xs-24 col-md-24">
                                     <section id="disclaimer">
                         <div class="list-disclaimer">
                                                             <h2> Privacy Policy</h2>
-<p>This website is owned and operated by Grameenphone Ltd. (hereinafter referred to as "Grameenphone" "GP" "Site" "Web Site" "us" "we" or "our"). We are committed to safeguarding the privacy of our website visitors, this policy sets out how we will treat your personal information. This Privacy Policy applies to all Visitors and Users (collectively referred to as "Users"). In addition, this Privacy Policy applies to all products and services provided by this site. </p>
+<p>Bioscope service (both in Website format at [www.bioscopelive.com] and App [Google Playstore and Apple Store]) is owned and operated by Grameenphone Ltd. (hereinafter referred to as "Grameenphone" "GP" "Site" "Web Site" "us" "we" or "our"). We are committed to safeguarding the privacy of Bioscope’s (Website, App) visitors. This policy sets out how we will treat your personal information. This Privacy Policy applies to all Visitors and Users (collectively referred to as "Users"). In addition, this Privacy Policy applies to all products and services provided by this site.</p>
 
 <div class="block-policy">
-<h4>What personal information do we collect from Users?</h4>
-<p>When you use this website, we collect and store your personal information as provided by you. Our primary goal in doing so is to conduct internal research on your demography and interest to provide you a safe, efficient, smooth and customized experience as well as to protect your interest. This allows us to provide services and features that are most likely to meet your needs, and to customize the web site to make your experience safer and easier. Importantly, we only collect personal information about and related to you that we consider necessary for achieving this purpose.</p>
-<p>You can browse our sites without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. If you choose to provide us with personal information, you consent to the transfer and storage of that information on our servers located anywhere under the custody of Grameenphone Ltd or its authorized vendors/suppliers/service providers/licensors.</p>
-<p>We may collect and store the following personal information:</p>
+<h4>Collection of Information</h4>
+<p>We receive and store information about you such as:</p>
+
 <ul>
-<li>name, address, contact numbers, father's/mother's/husband's/wife's name, email address, physical contact information, and sometimes financial information (depending on the service used) such as credit card or bank account numbers;</li>
-<li>Grameenphone postpaid and prepaid top up (airtime) account and MobiCash account for both of them;</li>
-<li>transactional information based on your activities on the sites (such as bidding, buying, selling, item and content you generate or that relates to your account);</li>
-<li>the URL that you were redirected from (whether this URL is on our site or not), your computer browser information, and your IP address;</li>
-<li>your buying behavior and pattern;</li>
-<li>If you send us personal correspondence such as emails or if other users or third parties send us correspondence about your activities or postings on the Site, we may collect such information into a file specific to you;</li>
-<li>community discussions, chats, dispute resolution, correspondence through our sites, and correspondence sent to us;</li>
-<li>other information from your interaction with our sites, services, content and advertising, including computer and connection information, statistics on page views, traffic to and from the sites, ad data, IP address and standard web log information;</li>
-<li>We may also collect non-personal information about your visit to the Site, and other similar sites based on your browsing (click-stream) activities. This information may include the pages you browsed and products and services viewed or ordered for example.</li>
-<li>additional information we ask you to submit to authenticate yourself or if we believe you are violating site policies (for example, we may ask you to send us an ID or bill to verify your address, or to answer additional questions online to help verify your identity or ownership of any ordered item);</li>
-<li>your photographs, thumb print, signature, national/voter ID number, passport number, official/work address, parents and spouse information etc.
+<li>Information you provide to us, which includes: your name, email id, postal address or code, payment details and telephone number. We collect this information in a number of ways, including when you enter it while using the platform: We collect information while you provide using our service, interact with our Customer Service, or participate in surveys or marketing promotions.</li>
+<li>Information when you choose to provide reviews or ratings, taste preferences, account settings, set preferences in Your Account, or otherwise provide information to us through our service or elsewhere.</li>
+<li>Information we collect automatically: We collect information about you and your usage behavior of our service, your interactions with us and our advertising, as well as information regarding your computer or other device used to access our service (such as gaming systems, smart TVs, mobile devices, and set top boxes). This information includes: your activity on the Bioscope service, such as title selections, watch history and search queries; details of your interactions with Customer Service, such as the date, time and reason for contacting us, transcripts of any chat conversations, and if you call us, your phone number and call recordings; device IDs or other unique identifiers; device and software characteristics (such as type and configuration), connection information, statistics on page views, referral URLs, IP address (which may tell us your general location), browser and standard web server log information.</li>
+<li>Information collected via the use of cookies, web beacons and other technologies, including ad data (such as information on the availability and delivery of ads, the site URL, as well as the date and time). See our Cookies and Internet Advertising section for more details.</li>
+<li>Information from other sources: We might supplement the information described above with information we obtain from other sources, including from both online and offline data providers. Such supplemental information could include demographic data, interest based data, and Internet browsing behavior.</li>
+</ul>
+</div>
+
+
+<div class="block-policy">
+<h4>What personal information do we collect from Users and its purpose?</h4>
+<p>When you use this website, we collect and store your personal information as provided by you. Our primary goal in doing so is to conduct internal research on your demography and interest to provide you a safe, efficient, smooth and customized experience as well as to protect your interest. This allows us to provide services and features that are most likely to meet your needs, and to customize the web site to make your experience safer and easier. Importantly, we only collect personal information about and related to you that we consider necessary for achieving this abovementioned purpose.</p>
+
+
+<p><strong>For local users:</strong>You can browse our sites without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. If you choose to provide us with personal information, you consent to the transfer and storage of that information on our servers located anywhere under the custody of Grameenphone Ltd. or its authorized vendors/suppliers/service providers/licensors.</p>
+
+<p><strong>For International Users:</strong>Browsing through the platform of consumption of any of the offered services is restricted without prior payment. Once the account has been created and the payment has been made, you are not anonymous to us anymore. Choosing to provide us with personal information, you consent to the transfer and storage of that information on our servers located anywhere under the custody of Grameenphone Ltd or its authorized vendors/suppliers/service providers/licensors.</p>
+
+<p><strong>We may collect and store the following personal information:</strong></p>
+<ul>
+<li>Name, address, contact numbers, father's/mother's/husband's/wife's name, email address, physical contact information, and sometimes financial information (depending on the service used) such as credit card or bank account numbers, or other payment details: </li>
+<li>Transactional information based on your activities on the sites (such as bidding, buying, selling, item and content you generate or that relates to your account).</li>
+<li>The URL that you were redirected from (whether this URL is on our site or not), your computer browser information, and your IP address.
 </li>
-<li>information from other companies, such as demographic and navigation data; and</li>
-<li>other supplemental information from third parties (for example, if you incur a debt to any organization, we will generally conduct a credit check by obtaining additional information about you from a credit bureau, as permitted by law).</li>
+<li>Your buying behavior and pattern.</li>
+<li>If you send us personal correspondence such as emails or if other users or third parties send us correspondence about your activities or postings on the Site, we may collect such information into a file specific to you.</li>
+<li>Community discussions, chats, dispute resolution, correspondence through our sites, and correspondence sent to us.</li>
+<li>Other information from your interaction with our sites, services, content and advertising, including computer and connection information, statistics on page views, traffic to and from the sites, ad data, IP address and standard web log information.</li>
+
+<li>We may also collect non-personal information about your visit to the Site, and other similar sites based on your browsing (click-stream) activities. This information may include the pages you browsed and products and services viewed or ordered for example.</li>
+<li>Additional information we ask you to submit to authenticate yourself or if we believe you are violating site policies (for example, we may ask you to send us an ID or bill to verify your address or to answer additional questions online to help verify your identity or ownership of any ordered item).</li>
+<li>Your photographs, thumb print, signature, national/voter ID number, passport number, official/work address, parents and spouse information etc.</li>
+<li>Information from other companies, such as demographic and navigation data.</li>
+<li>Other supplemental information from third parties (for example, if you incur a debt to any organization, we will generally conduct a credit check by obtaining additional information about you from a credit bureau, as permitted by law).</li>
 </ul>
 </div>
 
 <div class="block-policy">
-	<h4>How we Use your personal information?</h4>
-	<p>Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient, and customized experience. We may use your personal information to:</p>
+	<h4>How do we Use your personal information?</h4>
+	
 	<ul>
-		<li>administer the website</li>
-		<li>deliver ordered products, provide the services and customer support you request;</li>
-		<li>resolve disputes, securing payments against purchase, and troubleshoot problems;</li>
-		<li>customize your experience; detect and protect us against error</li>
-		<li>prevent potentially prohibited or illegal activities, and enforce our Terms of Use;</li>
-		<li>customize, measure and improve our services, content and advertising;</li>
-		<li>inform you about online and offline offers, products, services, and updates;</li>
-		<li>tell you about our services and those of our corporate family, targeted marketing, service updates, and promotional offers based on your communication preferences; and</li>
-		<li>compare your submitted/tracked information for accuracy, and verify it with third parties.</li>
-		<li>examine your personal information to identify users using multiple User IDs or aliases and delete/bar the unauthenticated User IDs.</li>
+		<li>Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient, and customized experience. We may use your personal information to:</li>
+		<li>Administer Bioscope service (Website,App)</li>
+		<li>Deliver ordered products, provide the services and customer support you request</li>
+		<li>Resolve disputes, securing payments against purchase, and troubleshoot problems</li>
+		<li>Customize your experience; detect and protect us against error</li>
+		<li>Prevent potentially prohibited or illegal activities, and enforce our Terms of Use</li>
+		<li>Customize, measure and improve our services, content and advertising</li>
+		<li>Inform you about online and offline offers, products, services, and updates</li>
+		<li>Tell you about our services and those of our corporate family, targeted marketing, service updates, and promotional offers based on your communication preferences</li>
+		<li>Compare your submitted/tracked information for accuracy, and verify it with third parties</li>
+		<li>Examine your personal information to identify users using multiple User IDs or aliases and delete/bar the unauthenticated User IDs</li>
 		<li>Send you e-mail notifications which you have specifically requested</li>
+		<li>Your feedback, ratings and associated comments may be displayed for the enhancement of Bioscope service (Website, App) and in-depth understanding for other visitors. If you access our sites from a shared computer or a computer in an internet café, certain information about you, such as your Log In ID, activity or reminders from Bioscope service (Website, App), may also be visible to other individuals who use the computer after you.</li>
 	</ul>
-	<p>Your feedback, ratings and associated comments may be displayed for the enhancement of the website and in-depth understanding for other visitors. If you access our sites from a shared computer or a computer in an internet café, certain information about you, such as your Log In ID, activity or reminders from this website, may also be visible to other individuals who use the computer after you.</p>
+	
 </div>
 
 <div class="block-policy">
 	<h4>Our Disclosure of Your Information</h4>
-	<p>We don't sell or rent your personal information to third parties for their marketing purposes without your explicit consent. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may combine your information with information we collect from other companies and use it to improve and personalize our services, content and advertising. If you don't wish to receive marketing communications from us or participate in our ad-customization programs, simply indicate your preference in ''My Account' or by following the directions provided with the communication or advertisement. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p>
+	<p>We don't sell or rent your personal information to third parties for their marketing purposes without your explicit consent. This does not include website hosting partners and other parties who assist us in operating Bioscope service (Website, App), conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may combine your information with information we collect from other companies and use it to improve and personalize our services, content and advertising. If you don't wish to receive marketing communications from us or participate in our ad-customization programs, simply indicate your preference in ''My Account' or by following the directions provided with the communication or advertisement. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p>
 
 	<p>We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a listing or other content violates the rights of others, or protect anyone's rights, property, or safety. Such information will be disclosed in accordance with applicable laws and regulations of the country. We may also share your personal information with:</p>
 
 	<ul>
-		<li>Relevant Members/Partners/Vendors/Payment Gateway/Bank/Financial Instutes/Suppliers of Grameenphone Ltd. to provide joint content and services (like registration, transactions, fund collection and customer support), to help detect and prevent potentially illegal acts and violations of our policies, and to guide decisions about their products, services and communications. Members of our corporate family will use this information to send you marketing communications only if you've requested their services.</li>
-		<li>Service providers under contract who help with our business operations (such as fraud investigations, bill collection, affiliate and rewards programs and co-branded credit cards).</li>
-		<li>Other third parties to whom you explicitly ask us to send your information (or about whom you are otherwise explicitly notified and consent to when using a specific service).</li>
+		<li>Relevant Members/Partners/Vendors/Payment Gateway/Bank/Financial Institutes/Suppliers of Grameenphone Ltd. to provide joint content and services (like registration, transactions, fund collection and customer support), to help detect and prevent potentially illegal acts and violations of our policies, and to guide decisions about their products, services and communications. Members of our corporate family will use this information to send you marketing communications only if you've requested their services.</li>
+		<li>Service providers under contract, who help with our business operations (such as fraud investigations, bill collection, affiliate and rewards programs and co-branded credit cards)</li>
+		<li>Other third parties to whom you explicitly ask us to send your information (or about whom you are otherwise explicitly notified and consent to when using a specific service)</li>
 		<li>Law enforcement or other governmental officials, in response to a verified request relating to a criminal investigation or alleged illegal activity. In such events, we will disclose information relevant to the investigation.</li>
 		<li>For any confidentiality agreement between Grameenphone and any other organization, we in our sole discretion believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity. In such events, we will disclose necessary information.</li>
-		<li>Other business entities, should we plan to merge with or be acquired by that business entity. (Should such a combination occur, we shall require that the new combined entity follow this privacy policy with respect to your personal information. If your personal information will be used contrary to this policy, you will receive prior notice.)</li>
-		<li>Without limiting the above, in an effort to respect your privacy and our ability to keep the community free from bad actors, we will not otherwise disclose your personal information to law enforcement, other government officials, or other third parties without a subpoena, court order or substantially similar legal procedure, except when we believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss or to report suspected illegal activity.
+		<li>Other business entities, should we plan to merge with or be acquired by that business entity. (Should such a combination occur, we shall require that the new combined entity follow this privacy policy with respect to your personal information. If your personal information will be used contrary to this policy, you will receive prior notice)</li>
+		<li>Without limiting the above, in an effort to respect your privacy and our ability to keep the community free from bad actors, we will not otherwise disclose your personal information to law enforcement, other government officials, or other third parties without a court order or substantially similar legal procedure, except when we believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss or to report suspected illegal activity.
 		</li>
 	</ul>
 </div>
 
 <div class="block-policy">
 	<h4>How do we protect visitor information?</h4>
-	<p>Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.</p>
-	<p>We use regular Malware Scanning.</p>
+	<p>Bioscope service’s platform (Website, App) is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.</p>
+</div>
+
+
+<div class="block-policy">
+	<h4>We use regular Malware Scanning.</h4>
 	<p>Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.</p>
 </div>
 
 <div class="block-policy">
-<h4>Do we use 'cookies'?</h4>
+	<h4>What are cookies?</h4>
+	<p>Cookies are small data files that are commonly stored on your device when you browse and use websites and online services. They are widely used to make websites work, or to work more efficiently, as well as to provide reporting information and assist with service or advertising personalization. Cookies are not the only types of technology that enable this functionality; we also use other, similar types of technologies. See below for more information and examples.</p>
+</div>
+
+
+
+<div class="block-policy">
+<h4>Do we use cookies?</h4>
 <p>Yes. We use "cookies" (small files placed on your hard drive) on certain of our pages to help analyze our web page flow; customize our services, content and advertising; measure promotional effectiveness, and promote trust and safety. A few important things you should know about cookies are that:</p>
 <ul>
 	<li>We offer certain features that are available only through the use of cookies</li>
-	<li>We use cookies to help identify you and maintain your signed-in status.</li>
-	<li>Most cookies are "session cookies," meaning that they are automatically deleted from your hard drive at the end of a session.</li>
-	<li>You are always free to decline our cookies if your browser permits, although doing so may interfere with your use of some of our sites or services.</li>
+	<li>We use cookies to help identify you and maintain your signed-in status</li>
+	<li>Most cookies are "session cookies," meaning that they are automatically deleted from your hard drive at the end of a session</li>
+	<li>You are always free to decline our cookies if your browser permits, although doing so may interfere with your use of some of our sites or services</li>
+	<li>You may encounter cookies from third parties on certain pages of the sites that we do not control. (For example, if you view a web page created by another user, there may be a cookie placed by that web page.) We use Google Analytics to analyze the use of Bioscope service’s platform (Website, App). Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at:<a href="http://www.google.com/privacypolicy.html" target="_blank"> http://www.google.com/privacypolicy.html</a>.</li>
 </ul>
-<p>You may encounter cookies from third parties on certain pages of the sites that we do not control. (For example, if you view a web page created by another user, there may be a cookie placed by that web page.) We use Google Analytics to analyze the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: <a href="http://www.google.com/privacypolicy.html" target="_blank">http://www.google.com/privacypolicy.html</a>.</p>
 </div>
 
 <div class="block-policy">
 	<h4>Third Parties Website</h4>
-	<p>Except as otherwise expressly included in this Privacy Policy, this document addresses only the use and disclosure of information we collect from you. If you disclose your information to others, different rules may apply to their use or disclosure of the information you disclose to them. We do not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. We encourage you to ask questions before you disclose your personal information to others.</p>
+	<p>Except as otherwise expressly included in this Privacy Policy, this document addresses only the use and disclosure of information we collect from you. If you disclose your information to others, different rules may apply to their use or disclosure of the information you disclose to them. We do not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. We encourage you to ask questions before you disclose your personal information to others.
+</p>
 </div>
 
 <div class="block-policy">
 	<h4>General</h4>
-	<p>We may amend this Privacy Policy at any time by posting the amended terms on this site. All amended terms automatically take effect instantly when you access or use the Website after the amendments are posted. If your questions are not answered in the website, you may write to us at <a href="mailto:support@bioscopelive.com">support@bioscopelive.com</a>.</p>
+	<p>We may amend this Privacy Policy at any time by posting the amended terms on this site. All amended terms automatically take effect instantly when you access or use Bioscope service (Website, App) after the amendments are posted. If your questions are not answered in the website or app, you may write to us at  <a href="mailto:support@bioscopelive.com">support@bioscopelive.com</a>.</p>
 </div>                                                     </div>
                     </section>
                             </div>
@@ -383,12 +509,12 @@
 
                     <div class="col-xxs-24 col-xs-24 col-sm-24 col-md-12 col-lg-12 text-center">
                         <div class="secondary-nav" role="navigation">
-                            <a href="/en/tos">Terms Of Use</a>
+                            <a href="/en/tos">Terms &amp; Conditions</a>
                             <a href="/en/faq">FAQ</a>
                             <a href="/en/disclaimer">Privacy Policy</a>
                         </div>
                         <p class="copyright">
-                            © 2017 grameenphone limited</p>
+                            © 2018 grameenphone limited</p>
                     </div>
 
                     <div class="col-xxs-24 col-xs-24 col-sm-8 col-md-7 col-lg-7 social text-right hidden-xs hidden-sm">
@@ -400,7 +526,7 @@
                                     </svg>
                                 </a>
                                                                 <a href="https://www.youtube.com/channel/UCEFJdSbZZaKLaTKOCL1SUuw" target="_blank" class="youTube">
-                                    <svg role="img" aria-label="Connect on facebook">
+                                    <svg role="img" aria-label="Watch us on Youtube">
                                         <use xlink:href="/bundles/bongoweb/images/icons.svg#youtube"></use>
                                     </svg>
                                 </a></p>
@@ -412,6 +538,28 @@
     </footer>
     <label class="drawer-overlay"></label>
 </div>
+
+    <div class="modal fade" tabindex="-1" role="dialog" id="premiumPop">
+        <div class="modal-dialog modal-md" role="document">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <div class="message">
+                                                    <h3>Please Login/Register</h3>
+                            <p>Please login or subscribe to view this content.</p>
+                            <div class="buttons">
+                                <button type="button" class="btn btn-default btn-lg text-uppercase" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">Cancel</span></button>
+                                <a type="button" class="btn btn-primary btn-lg text-uppercase" href="/en/account">
+                                    Continue                                </a>
+                            </div>
+
+                        
+
+                    </div>
+
+                </div>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
 
 
     <div class="modal fade" tabindex="-1" role="dialog" id="loader">
@@ -457,10 +605,139 @@
         </div><!-- /.modal-dialog -->
     </div><!-- /.modal -->
 
+    <div class="modal fade" tabindex="-1" role="dialog" id="autoRecurring">
+        <div class="modal-dialog modal-sm" role="document">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <div class="message animated text-center">
+                                                                                <img src="/bundles/bongoweb/images/error-icon.png" class="img-responsive" alt="You are about to unsubscribe" width="319" height="274">
+                            <h5>You are about to unsubscribe</h5>
+                            <p>Your subscription will not be automatically renewed in the next cycle.</p>
+                        <div class="buttons">
+                            <button type="button" class="btn btn-default btn-sm text-uppercase cancel-renew" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">Cancel</span></button>
+                            <a type="button" class="btn btn-primary btn-sm text-uppercase" href="/package/toggle-subscription?is_recurring=0">
+                                Confirm                            </a>
+                        </div>
+
+                                                                                                                            </div>
+
+                </div>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+
+
+    <div class="modal fade" tabindex="-1" role="dialog" id="newCard">
+        <div class="modal-dialog modal-sm" role="document">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <div class="message animated text-center">
+                        <div class="recurring-on">
+                            <svg role="img" aria-label="Bioscope VIP">
+                                <use xlink:href="/bundles/bongoweb/images/icons.svg#crown"></use>
+                            </svg>
+
+                            <h5>You are activating auto renewal</h5>
+                            <p>Your subscription will be automatically renewed in the next cycle.</p>
+                            <div class="checkbox">
+                                <label><input type="radio" name="autoRenew" checked="" value="0">
+                                    <strong>Credit/Debit Card</strong>
+                                    <span>
+                                        
+                                        ending with                                        
+                                    </span>
+                                </label>
+                                <label><input type="radio" name="autoRenew" value="1"> I want to use another card                                </label>
+                            </div>
+                            <div class="buttons">
+                                <button type="button" class="btn btn-default btn-sm text-uppercase cancel-renew" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">Cancel</span></button>
+                                <a type="button" class="btn btn-primary btn-sm text-uppercase auto-renew-continue">
+                                    Continue                                </a>
+                            </div>
+
+                        </div>
+
+                        <div class="recurring-new-card">
+                            <h6>Put your card information below.</h6>
+                            <form id="subscription" action="/package/toggle-subscription?is_recurring=1" method="POST">
+                                <div class="payment-method-selector">
+                                    <div class="card-element">
+                                        
+    <div class="card-details">
+        <div class="form-group">
+            <label for="email">Email</label>
+            <input name="email" id="email" class="form-control field" placeholder="user@email.com" required="">
+        </div>
+        <div class="form-group">
+            <label for="cardNumber">Card Number</label>
+            <div id="cardNumber" class="form-control"></div>
+        </div>
+        <div class="form-group">
+            <div class="row">
+                <div class="col-xxs-12 col-sm-12">
+                    <label for="expiry">Expiry</label>
+                    <div id="expiry" class="form-control"></div>
+                </div>
+
+                <div class="col-xxs-12 col-sm-12">
+                    <label for="cvc">CVC</label>
+                    <div id="cvc" class="form-control"></div>
+                </div>
+
+            </div>
+        </div>
+
+        <div style="display: none;">
+            <input type="hidden" name="source" id="stripeSource">
+        </div>
+
+        <div class="checkbox agreement">
+            <label>
+                <input type="checkbox" name="agree" id="agree">
+                I accept the <a href="/en/tos" target="_blank">Terms &amp; Conditions</a>
+            </label>
+        </div>
+    </div>
+
+
+                                        <div class="error"></div>
+                                        <div class="buttons">
+                                            <button type="submit" class="btn btn-success" id="payNow" disabled="true">
+                                                Confirm                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+
+                        </div>
+
+                        <div class="recurring-old-card">
+                            <p class="text-center">
+                                <img src="/bundles/bongoweb/images/success.png" class="img-responsive" alt="Success">
+                            </p>
+                            <h4>Your auto renewal is now activated.</h4>
+                            <p class="text-center">You’ve successfully subscribed to your selected plan and will be charged accordingly. You can un-subscribe anytime from your account page.</p>
+                            <a type="button" class="btn btn-primary btn-lg text-uppercase" href="/package/toggle-subscription?is_recurring=1">Continue</a>
+                        </div>
+
+
+
+                    </div>
+
+                </div>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+
 
     <script src="/bundles/bongoweb/js/bootstrap.js"></script>
     <script src="/bundles/bongoweb/js/slick.min.js"></script>
     <script src="/bundles/bongoweb/js/custom.js"></script>
+    <script src="/bundles/fosjsrouting/js/router.js"></script>
+    <script src="/js/routing?callback=fos.Router.setData"></script>
+    <script src="/bundles/bongoweb/js/navigator.js"></script>
     <script src="/bundles/bongoweb/js/perfect-scrollbar.jquery.min.js"></script>
     <script src="/bundles/bongoweb/js/underscore-min.js"></script>
     <script src="/bundles/bongoweb/js/bloodhound.min.js"></script>
@@ -476,15 +753,52 @@
         var removeWathLaterUrl = '/en/account/remove-watch-later';
 
     </script>
+
+    <script type="text/javascript">
+
+        function setPremiumUrl(systemId) {
+            var url = '/en/bongo/sys-id';
+
+            jQuery.ajax({
+                url: url,
+                type: "POST",
+                dataType: 'application/json',
+
+                data: {
+                    "systemId": systemId,
+                },
+
+                success: function (result) {
+                    console.log(result)
+                },
+
+                error: function (err) {
+                    console.log(err)
+                }
+            });
+        }
+
+        jQuery('document').ready(function (e) {
+            jQuery("div#sm-container, div#top-selector").on("click", "a.sendUrl", function (e) {
+                e.preventDefault();
+                var systemId = jQuery(this).data("systemid");
+                jQuery(this).attr("href", "#");
+                setPremiumUrl(systemId);
+            });
+
+        });
+
+
+    </script>
 <script type="text/template" id="suggestTemplate">
     <%
     var imgUrl = "";
     if(data.type == "content") {
-    imgUrl = "http://cdn.bongobd.com/upload/content/landscape/sd/" + data.bongoId + ".jpg";
+    imgUrl = "https://cdn.bioscopelive.com/upload/content/landscape/sd/" + data.bongoId + ".jpg";
     } else if(data.type == "artist") {
-    imgUrl = "http://cdn.bongobd.com/upload/artist/square/sd/" + data.bongoId + ".jpg";
+    imgUrl = "https://cdn.bioscopelive.com/upload/artist/square/sd/" + data.bongoId + ".jpg";
     } else if(data.type == 'channel') {
-    imgUrl = "http://cdn.bongobd.com/upload/channels/sd/" + data.bongoId + ".png";
+    imgUrl = "https://cdn.bioscopelive.com/upload/channels/sd/" + data.bongoId + ".png";
     }
     var truncTitle = data.title.substring(0, 50);
     var duration = data.duration;
