@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securesearch.site privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216135559id_/http%3A//securesearch.site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securesearch.site privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530174947id_/http%3A//securesearch.site/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -58,8 +58,8 @@ We will occasionally update this Privacy Policy to reflect changes in our practi
 
 **Change or Removal of Information**
 
-If a user's e-mail address changes or you wish you remove your e-mail address, you can contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#22515752524d50566256504344444b51414d0c414d4f) with the request or by contacting us at the contact information listed below.
+If a user's e-mail address changes or you wish you remove your e-mail address, you can contact us at: [support@traffisco.com](mailto:support@traffisco.com) with the request or by contacting us at the contact information listed below.
 
 **Contact Information**
 
-Please direct all questions in connection with this Policy via e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8aaafaf8e3fcebe9f3cafef8ebecece3f9e9e5a4e9e5e7)
+Please direct all questions in connection with this Policy via e-mail to [privacy@traffisco.com](mailto:%20privacy@traffisco.com)
