@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the sarawak.gov.my privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606142407id_/http%3A//www.sarawak.gov.my/web/home/article_view/251/262) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarawak.gov.my privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530040812id_/https%3A//sarawak.gov.my/web/home/article_view/251/262) for the most accurate reproduction.*
 
 # The Official Portal of the Sarawak Government
+
+  
+
 
 **Thank you for using the Sarawak’s Government Official Portal.**
 
@@ -38,3 +41,6 @@ If this privacy policy changes in any way, it will be updated on this page. Regu
 If you have any queries or complaints about this privacy policy or about the Portal, you can contact us via our Feedback section.
 
 ( _Note: The above privacy policy adopted from www.malaysia.gov.my and amended to suit to State Portal's need_ )
+
+  
+
