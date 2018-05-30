@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muncha.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129095308id_/http%3A//www.shop.muncha.com/Content.aspx%3FSHOW%3DPRIVACY_POLICY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muncha.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530062347id_/http%3A//www.shop.muncha.com/Content.aspx%3FSHOW%3DPRIVACY_POLICY) for the most accurate reproduction.*
 
 # Send gifts to Nepal online, Online shopping: www.muncha.com
 
