@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classcraft.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606160313id_/https%3A//www.classcraft.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classcraft.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530114441id_/https%3A//www.classcraft.com/privacy-policy) for the most accurate reproduction.*
 
 # Classcraft - Privacy Policy
 
@@ -6,7 +6,7 @@ Classcraft Studios Inc. ("Classcraft") takes the privacy of its students, teache
 
 Classcraft has taken the [Student Privacy Pledge](https://studentprivacypledge.org/) as a public commitment for the responsible collection and use of student data. Among other things, we have committed to only collect student information that is needed for authorized education/school purposes, or as authorized by the parent/student, to not sell student personal information, to not use student information for behavioral targeting of advertisements to students and to not retain student personal information beyond the time period required to support the authorized educational/school purposes. The complete Student Privacy Pledge can be read at [studentprivacypledge.org](https://studentprivacypledge.org/).
 
-Classcraft has developed this Privacy Policy to let users know in general terms about Classcraft’s personal information management practices, including what personal information is collected and how it is processed and used. If users have any questions about our Privacy Policy they may contact Classcraft at [support@classcraft.com](mailto:support@classcraft.com).
+Classcraft has developed this Privacy Policy to let users know in general terms about Classcraft’s personal information management practices, including what personal information is collected and how it is processed and used. If users have any questions about our Privacy Policy they may contact Classcraft at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4e3d3b3e3e213c3a0e2d222f3d3d2d3c2f283a602d2123).
 
 ## The School Environment
 
@@ -148,7 +148,7 @@ Postings in the teacher forums include the teacher name and photo and are availa
 
 ## Student Records
 
-Student records are the property of and under the control of the school, school district and/or the teacher. Students can access their student records by logging in to their student account. Parents of students under the age of 18 can access their child’s information via the parent account, by logging in using their child’s account, by contacting the teacher or by contacting Classcraft at [support@classcraft.com](mailto:support@classcraft.com). Corrections of any erroneous information should first be brought to the attention of the teacher. In the event that the teacher is unable to make the correction, parents should advise Classcraft at [support@classcraft.com](mailto:support@classcraft.com), who will then work with the teacher or school to facilitate correction of any erroneous information.
+Student records are the property of and under the control of the school, school district and/or the teacher. Students can access their student records by logging in to their student account. Parents of students under the age of 18 can access their child’s information via the parent account, by logging in using their child’s account, by contacting the teacher or by contacting Classcraft at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#81f2f4f1f1eef3f5c1e2ede0f2f2e2f3e0e7f5afe2eeec). Corrections of any erroneous information should first be brought to the attention of the teacher. In the event that the teacher is unable to make the correction, parents should advise Classcraft at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#493a3c3939263b3d092a25283a3a2a3b282f3d672a2624), who will then work with the teacher or school to facilitate correction of any erroneous information.
 
 Third parties are not granted access to personally identifiable information or educational records or other student records except as provided in this Privacy Policy, or after first obtaining the express written consent of the parent or student over 18 years of age. No parties, including Classcraft, will be allowed to engage in targeted advertising of any sort directed towards the students.
 
@@ -165,7 +165,7 @@ The following student records are retained for a period of no more than 12 month
 
 
 
-Student avatars and pets, along with the student account information are retained for a period of no more than 36 months following the last entry made to the student account in the game. This is because students playing Classcraft in subsequent years will still have access to their avatars and pets during those future classes, to a maximum of 36 months. Parents and students over the age of 18 can request to have their account, or the account of their child, and related information deleted from the Classcraft database by advising Classcraft at [support@classcraft.com](mailto:support@classcraft.com).
+Student avatars and pets, along with the student account information are retained for a period of no more than 36 months following the last entry made to the student account in the game. This is because students playing Classcraft in subsequent years will still have access to their avatars and pets during those future classes, to a maximum of 36 months. Parents and students over the age of 18 can request to have their account, or the account of their child, and related information deleted from the Classcraft database by advising Classcraft at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#75060005051a070135161914060616071413015b161a18).
 
 ## Deletion of Parent and Teacher Records
 
@@ -183,7 +183,7 @@ COPPA is an acronym for the Child Online Privacy Protection Act, a US federal la
 
 ## Security Policy
 
-Classcraft uses industry standard methods to protect its customer’s data against unauthorized use or access, alteration, unlawful or accidental destruction or loss. It should however be noted that 100% guarantee cannot be made due to constant advances in virus and hacking technology. Classcraft can therefore not be held responsible for data loss or alteration. A full copy of the Classcraft Security Policy can be obtained upon request to [support@classcraft.com](mailto:support@classcraft.com).
+Classcraft uses industry standard methods to protect its customer’s data against unauthorized use or access, alteration, unlawful or accidental destruction or loss. It should however be noted that 100% guarantee cannot be made due to constant advances in virus and hacking technology. Classcraft can therefore not be held responsible for data loss or alteration. A full copy of the Classcraft Security Policy can be obtained upon request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8dfef8fdfde2fff9cdeee1ecfefeeeffecebf9a3eee2e0).
 
 ## Links and Third Party Integration
 
@@ -199,7 +199,7 @@ Teachers and students may make postings in various sections of Classcraft. Commo
 
 Users have access to their personal information via their Classcraft user account.
 
-Users may also request a copy of their personal information in writing by sending a written request to [support@classcraft.com](mailto:support@classcraft.com). The following information has to be provided:
+Users may also request a copy of their personal information in writing by sending a written request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d2a1a7a2a2bda0a692b1beb3a1a1b1a0b3b4a6fcb1bdbf). The following information has to be provided:
 
   * First and last name;
   * Email;
@@ -232,4 +232,4 @@ This Privacy Policy is effective as of November 1, 2016 and is version 1.3. Clas
 
 By accepting the Teacher License Agreement, Parent Terms of Use and/or Student Terms of Use users are expressly giving Classcraft a special declaration that users have decided by their own free will to grant Classcraft specific authorization to collect, process and use the personal information stipulated in this Privacy Policy and to use such information in accordance with what is stipulated in this Privacy Policy. Users are further declaring that users are aware of the purpose for Classcraft collecting, processing and using such information, how the processing will be conducted, how users’ privacy will be protected and that users are authorized to withdraw their consent.
 
-Classcraft’s service to its users and users’ trust is of utmost importance to Classcraft. If users have any questions about this Privacy Policy, users should contact Classcraft at [support@classcraft.com](mailto:support@classcraft.com).
+Classcraft’s service to its users and users’ trust is of utmost importance to Classcraft. If users have any questions about this Privacy Policy, users should contact Classcraft at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fb888e8b8b94898fbb98979a888898899a9d8fd5989496).
