@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenpornopass.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129081002id_/http%3A//www.teenpornopass.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenpornopass.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530060255id_/http%3A//www.teenpornopass.com/privacy.html) for the most accurate reproduction.*
 
 # Teen Porno Pass
 
