@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotstar.pk privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129220857id_/http%3A//www.hotstar.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotstar.pk privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530234916id_/http%3A//www.hotstar.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - hotstar.Pk - Watch Indian Drama, TV Shows, Movies , Tv Shows & Live Cricket Matches Online
 
