@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rajivbikram.com.np privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105075906id_/https%3A//www.rajivbikram.com.np/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rajivbikram.com.np privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530182822id_/https%3A//www.rajivbikram.com.np/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bikram's Blog
 
