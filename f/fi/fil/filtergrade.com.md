@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the filtergrade.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915152346id_/https%3A//filtergrade.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filtergrade.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531033607id_/https%3A//filtergrade.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FilterGrade
 
 This Privacy Policy governs the manner in which FilterGrade collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://filtergrade.com website (“Site”). This privacy policy applies to the Site and all products and services offered by FilterGrade.
+
+If you’d like to contact FilterGrade about any of your personal data, feel free to email [data@filtergrade.com](mailto:data@filtergrade.com) with any of your questions.
 
 **Personal identification information**
 
@@ -28,8 +30,9 @@ We may use feedback you provide to improve our products and services.
 – To process payments  
 We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.  
 – To send periodic emails  
-We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.  
-How we protect your information
+We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+
+**How we protect your information**
 
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
@@ -39,7 +42,7 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 **Third party websites**
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, affiliates, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, affiliates, sponsors, licensors and other third parties. We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
 **Changes to this privacy policy**
 
@@ -53,4 +56,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please **[Contact Us](https://filtergrade.com/contact-us/)**.
 
-This document was last updated on February 1, 2017.
+This document was last updated on May 21, 2018.
