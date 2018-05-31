@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igberetvnews.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129171118id_/http%3A//igberetvnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igberetvnews.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531213846id_/http%3A//igberetvnews.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY-POLICY – Igbere TV
 
@@ -39,3 +39,5 @@ Whenever _Igberetv News  _changes its privacy policy, we will post those change
 **Contact Information**
 
 If you have any questions or suggestions regarding our privacy policy, please send an email to  igberetv@gmail.com, cc: emehjames@yahoo.com
+
+[](https://web.facebook.com/johnokiyikalu)[](https://web.facebook.com/johnokiyikalu/)
