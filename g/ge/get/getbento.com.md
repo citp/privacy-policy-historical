@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getbento.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119001531id_/https%3A//getbento.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getbento.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531161558id_/https%3A//getbento.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BentoBox
 
