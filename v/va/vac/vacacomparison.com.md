@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vacacomparison.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126123243id_/http%3A//www.vacacomparison.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vacacomparison.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531155155id_/http%3A//www.vacacomparison.com/privacy) for the most accurate reproduction.*
 
 # Vacation Comparison is not like apples and oranges, find your perfect get away!
 
