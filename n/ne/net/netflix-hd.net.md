@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netflix-hd.net privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128101004id_/https%3A//netflix-hd.net/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netflix-hd.net privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531221138id_/https%3A//netflix-hd.net/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Watch or Streaming Online Netflix
 
