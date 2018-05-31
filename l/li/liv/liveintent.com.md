@@ -1,53 +1,86 @@
-> *The following text is extracted and transformed from the liveintent.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605023416id_/https%3A//liveintent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveintent.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531203818id_/https%3A//liveintent.com/privacy-policy) for the most accurate reproduction.*
 
-# LiveIntent | Privacy Policy
+# LiveIntent | Website Privacy Policy
 
-### Privacy Policy
+This privacy policy (“Policy”) describes how LiveIntent, Inc. (“LiveIntent”, “we,” “our,” or “us”) collects, uses, and discloses information about you through LiveIntent.com and any other internet property which links to this Policy (the “Website”). This Policy also describes the choices you can make about the information we collect on our Website. This Policy does not describe how we collect and use data in connection with the services we provide to our customers, which includes helping them to conduct interest-based advertising. For information on how LiveIntent uses information collected in connection with these services, please click [here](https://web.archive.org/services-privacy-policy).
 
-Welcome to the LiveIntent.com web site (the “Website”). The Website is an internet property of LiveIntent, Inc. (“LiveIntent”, “we” or “us”). We take very seriously the private nature of your personal information. This Privacy Policy describes how we treat the information we collect when you visit our Website. Please read this notice carefully.
+## What information do we collect?
 
-#### I. PERSONAL INFORMATION
+### Information You Provide
 
-In order to supply you with your LiveIntent beta invitation or user service, we may need your email address. So that we may provide you with additional services as well as more interesting and relevant content, we may request additional information, including your name, zip code and telephone number. Live Intent does not collect any other personal information that you do not expressly provide. LIVEINTENT WILL NOT DISCLOSE YOUR PERSONAL INFORMATION TO ANY THIRD PARTY WITHOUT YOUR CONSENT, EXCEPT TO A THIRD PARTY AS REQUIRED TO HELP US DISTRIBUTE OUR EMAIL PUBLICATION OR TO INITIATE A FOLLOW, FRIEND, OR OTHER SERVICE SUBSCRIPTION AS DIRECTED BY YOU THROUGH THE LIVEINTENT MECHANISM.
+We and our service providers collect any information that you provide when you use the Website. For example, when filling out online forms, you may choose to provide your name, email address, and phone number.
 
-#### II. NON-PERSONAL INFORMATION
+### Information Automatically Collected From You
 
-We may also request non-personally identifiable information, for example, annual income, buying preferences, and age. This information, also known as demographic and profile data, is optional. We may use this data to improve our site and/or personalize your experience at our site, in order to bring you more targeted and relevant content and to display such content according to your preferences.We may share this information with others, such as advertisers interested on advertising on the Live Intent site but never on an individual level. This information will only be shared in an aggregate, pseudonymous form, which means that the information will not contain any personally identifiable information about you or any other person. However, we reserve the right to use aggregated, anonymous data about our users as a group for any business purpose, such as analyzing usage trends and seeking compatible advertisers and partners.
+When you use the Website, we and our service partners may automatically collect certain technical information from you over time and across different websites, including:
 
-#### III. USAGE INFORMATION
+  * Analytics and Usage Information: We may collect information related to your activity on our Website, such as the time users spend on the Website, from which other websites users came, and what other websites users visit.
+  * Demographic and Profile Information: We may collect demographic and other profile information such as annual income, buying preferences, and age.
+  * Location Information: We may collect and process information about your general location. The information we collect may tell us which zip code you are in, but it does not tell us your precise location.
+  * Device Information:  We may collect information related to devices used to access our Website, such as the device type, operating system, version, and IP address. We may also collect technical identifiers such as a mobile advertising ID (Apple IDFA or Google AAID).
 
-In addition to collecting personal and non-personal information, Live Intent may also collect non-personal, aggregated information about subscribers’ use of our emails, windows, offers and other elements our site. This information is not personally identifiable and will only be used to find out how subscribers use our service and site. For example, this information will tell us how much time users spend on our site, from which other sites subscribers came, and to what other sites subscribers go. The collection of this information allows us to, among other things, prepare for traffic load demands and to efficiently distribute our email publication.
 
-LiveIntent receives anonymized information about consumers from third parties to enable targeted advertising on the website(s) and application(s) that we support. The collection and use of that data is governed by the privacy policy and legal terms of the data collector and the website using the data; it is not governed by LiveIntent.
 
-#### IV. CHOICE/OPT-OUT
+To collect this information described above, we and our service providers may use cookies, which are small text files that online services often store on computer hard drives or mobile devices of visitors to their sites. A cookie contains a unique number, which is used to recognize your computer when a user of your computer or mobile device returns to a website that it has visited previously. The Website also may contain small, transparent images, files, or lines of code that collect information about how you interact with the pages, emails, advertisements, and apps. For example, these technologies may collect information about the web pages you visit, the content you view, when and for how long you interact with certain features, and whether you respond to advertisements.
 
-If we ever send you information by e-mail concerning new products or services that you did not expressly request, we will provide you with an e-mail address by which you may request no future notices. You can opt-out of the cookie-based portion of the LiveIntent Advertising Program by clicking [here](http://d.liadm.com/opt-out). Visit the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp) and the [Digital Advertising Alliance](http://www.aboutads.info/choices/) to see your opt-out choices from other participating companies.
+We may use these technologies to identify your computer or device (which can help us or our service providers recognize you when you return), store information about your preferences (e.g., preferred language), log your interactions (e.g., the types of messages you prefer to receive), and present you with more relevant interest-based advertisements.
 
-#### V. THIRD PARTY ADVERTISING
+## How do we use the information we collect?
 
-Some of the ads appearing on this Web site are delivered to you by our web advertising partners. Information about your visit to their site, such as number of times you have viewed an ad (but not your name, address or other personal information), is used to serve ads to you.
+We may use the information we collect to:
 
-#### VI. TRACKING & THIRD PARTY COOKIES
+  * deliver personalized messages that match your interests, including interest-based advertisements;
+  * understand the interests of our users;
+  * customize your experience when using our Website;
+  * generate and analyze statistics about the performance of our advertising campaigns, and to improve performance over time;
+  * respond to your inquiries;
+  * when we believe in good faith that disclosure is necessary (a) to protect our rights, the integrity of our Services, or your safety or the safety of others, or (b) to detect, prevent, or respond to fraud, intellectual property infringement, violations of terms of use related to the Service, or violations of law; and
+  * fulfill the purposes described to you at the point of collection or pursuant to your consent.
 
-You may have read about “cookies” or bits of information that are placed by a Website in a storage place on your own computer. As with most other Web sites, the LiveIntent site does use cookies but only to allow us to quickly check your status as a subscriber and facilitate access to your preferences. Some of our advertisers may serve you cookies as well. Unfortunately, we do not have control over cookies placed by advertisers. If you don’t want cookies, your Web browser likely includes an option that allows you to not accept them.
 
-#### VIII. PG-13
 
-LiveIntent is not intended for use by children, especially those under age 13. No one under age 13 is allowed to use the site, provide any personal information or receive our email distributions. Minors between the ages of 13 and 17 must get the permission of their parent(s)or legal guardian(s) before viewing the website or receiving emails.
+We may combine or aggregate any of the information we collect through our Website for any of these purposes.
 
-#### IX. LINKS TO OTHER SITES
+## How do we share information we collect?
 
-As part of the service, LiveIntent may create links allowing you to access third party sites. LiveIntent is not responsible for the content that appears on those sites and does not endorse these sites. Please consult those sites’ individual privacy policies in order to determine how they treat user information.
+We do not share your personal information with third parties without your consent except:
 
-#### X. SECURITY
+  * with our service providers for the purposes described in this Privacy Policy;
+  * with our business partners with whom we provide co-branded materials or events that you elect to receive or participate in, such as webinars, white papers, events, or case studies, for their marketing purposes;
+  * as required by law, such as to comply with a subpoena or other legal process, or to comply with government reporting obligations;
+  * when we believe in good faith that disclosure is necessary (a) to protect our rights, the integrity of the Website, or your safety or the safety of others, or (b) to detect, prevent, or respond to fraud, intellectual property infringement, violations of our Terms of Use, violations of law, or other misuse of the Website; and
+  * to affiliates, service providers, advisors, and other third parties to the extent reasonably necessary to proceed with the negotiation or completion of a merger, acquisition, or sale of all or a portion of our assets.
 
-All information described above is stored on restricted database servers.
 
-#### XI. MODIFICATION TO THIS POLICY
 
-LiveIntent reserves the right to change this policy from time to time, however, all changes will be posted to this Privacy Policy at the time such changes are made. The date of the most recent revisions will appear on this page so please check back. Please note that continued access of Live Intent will constitute your acceptance of any changes or revisions to the Privacy Policy. Thank you for taking the time and interest to review our policies at LiveIntent. If you have concerns or questions about any aspect of the LiveIntent Privacy Policy, pleasecontact us. We welcome your questions and feedback.
+We may share non-personal information for the purposes described in this Policy.
 
-#### Thank you, LiveIntent.
+## What choices do you have about information collected on our Website?
 
-Last updated: 5/6/2016
+### Emails
+
+You may unsubscribe from receiving emails we send on the basis of information we collect through the Website by following instructions included in the emails.
+
+### Interest-based Advertisements
+
+If you do not want the Website to serve you interest-based advertisements, you may opt out using the Digital Advertising Alliance’s opt-out mechanism, which is available [here](http://www.aboutads.info/choices/). Please note that this tool is cookie-based and browser-specific, so you should opt out on each browser for which you would like your preferences to apply. If you delete your cookies, you may have deleted your opt-out status and may need to opt out again.
+
+### Links to other sites
+
+You may be redirected to a third-party website if you click on a link or advertisement served by LiveIntent or on our Website. You acknowledge and agree that we are not responsible for the collection and use of your information by such third parties that are not under our control. We encourage you to review the privacy policies of each website you visit.
+
+### Security
+
+We strive to maintain reasonable administrative, technical, and physical safeguards designed to safeguard the information we collect. However, no information system can be 100% secure, so we cannot guarantee the absolute security of your information.
+
+### Modifications to this policy
+
+If we update this Policy, we will notify you by posting a new Policy on this page. If we make any revisions that materially increase the ways in which we use or share the information previously collected from you through the Site, we will notify you of such changes before applying them to that information.
+
+### Contact us
+
+If you have any questions about this Policy or our use of your information, or would like to request access to or the correction or deletion of your information, please contact us at legal@liveintent.com. We welcome your questions and feedback.
+
+### Thank you, LiveIntent.
+
+This Policy was last updated on January 12, 2017
