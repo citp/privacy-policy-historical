@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the notaryrotary.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129025616id_/http%3A//www.notaryrotary.com/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notaryrotary.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531163252id_/http%3A//www.notaryrotary.com/privacystatement.asp) for the most accurate reproduction.*
 
 # Notary Rotary - Notary Supplies and Services for the Professional Notary Public
 
 ## INTRODUCTION
 
-Notary Rotary, Inc. ("Notary Rotary") recognizes that your privacy and the protection of your personal information is important to you. This statement discloses how we use the personal information stored in the Notary Rotary Web Site (www.notaryrotary.com) and how we protect it. It does not apply to other online or offline Notary Rotary, Inc. sites, products or services.
+Notary Rotary recognizes that your privacy and the protection of your personal information is important to you. This statement discloses how we use the personal information stored in the Notary Rotary Web Site (www.notaryrotary.com) and how we protect it. It does not apply to other online or offline Notary Rotary, Inc. sites, products or services.
 
 Notary Rotary is a service that allows users to create an account profile to be used in the marketing of user services and/or the administration of those services. Users consist of agents - mobile notaries public - and those agencies and other consumers who use their services. By using the Notary Rotary Web Site, you consent to the data practices described in this statement.
 
@@ -73,9 +73,9 @@ Notary Rotary will occasionally update this Privacy Statement. When we do, we wi
 
 If you have questions regarding this Privacy Statement, please contact us using the link at the bottom of this page. You may also contact Notary Rotary by postal mail at:
 
-Notary Rotary, Inc.  
+Notary Rotary  
 PO Box 41400  
 Des Moines, IA 50311
 
-Version 1.13  
-Last Updated: October 3, 2011
+Version 1.14  
+Last Updated: May 23, 2018
