@@ -1,51 +1,55 @@
-> *The following text is extracted and transformed from the politics.co.uk privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129045942id_/http%3A//www.politics.co.uk/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the politics.co.uk privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531191504id_/http%3A//www.politics.co.uk/information/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-**a) General:**  
-We are strongly committed to protecting users' privacy, and this sets out our policy on the use of personal data relating to Users which has been collected in relation to their access to and use of the Site.
+**Privacy**
 
-**b) Information collected:**  
-We do not collect any information about you from which you may be identified personally ('Personally Identifiable Information') unless you voluntarily submit such information to us, by, for example, completing a user profile or by registering for optional email news alerts.
+**Updated: 18th May 2018**
 
-The types of information that may be requested will be as listed in the online registration and/or profile form, and may include your name, gender, address, e-mail address, and other information.  
-We may collect information which is not Personally Identifiable Information about you in a number of ways, including tracking your activities through your IP address, computer settings, or most-recently visited URLs.
+At Politics.co.uk, and our parent company Senate Media, we value the trust and confidence you place in us and are committed to protecting your privacy. Any data you provide to us, such as an email address, will only be used for the purposes we set out at the point you signed up. In this Privacy Policy we take you through the ways in which we might collect personal information, why and how we use it.
 
-**c) Use of information:**  
-In general, we will only use the information you provide to us for the purpose for which such information was provided.
+**Information collected:**  
+We do not collect any information about you from which you may be identified personally ('Personal Data’') unless you voluntarily submit such information to us by filling in a form.
 
-Your information may also be used to contact you when necessary and to provide promotional material.
+The types of information that may be requested will be as listed in the form, and may include your name, gender, address, email address, and other information.
 
-Non-personal demographic and profile data may be used to tailor your experience at our site, by showing you content we think you might be interested in.
+We collect information which is not Personal Data about you for the purposes of measuring website traffic and tailoring content. See Google Analytics section below for more information.
 
-This information may also be shared with Site Advertisers on an aggregate (ie not personally identifiable) basis.
+**Use of information:**  
+We will only use the information you provide to us for the purpose for which such information was provided.
 
-We do not share or disclose your Personally Identifiable Information with third parties, unless you authorise us to do so.
+Your information may be used to contact you, and to send promotional material if you have opted-in to receive promotions.
 
-You may opt-out of receiving mailings from us by following the instructions set forth in the opt-out section below.
+Non-personal demographic and profile data may be used to tailor your experience on our website, by showing you content we think you might be interested in.
 
-We reserve the right to access and to disclose Personally Identifiable Information to comply with applicable laws and lawful government requests, to operate our systems properly or to protect either ourselves or our users.
+This information may also be shared with advertisers on an aggregate (ie not personally identifiable) basis.
+
+We do not share or disclose your Personal Data with third parties. If you opt-in to third party promotions, we will send you information on third party products, but we will not share your information.
+
+We reserve the right to access and to disclose Personal Data to comply with applicable laws and lawful government requests, to operate our systems properly or to protect either ourselves or our users.
 
 If our business is sold or integrated with another business, your details may be disclosed to our advisors and any prospective purchasers and their advisors, and will be passed on to the new owners of the business.
 
-**d) IP addresses** :  
-We use IP addresses to collect statistical information about the areas of the system that users are visiting, and general "traffic" data, to allow for login validation, and to identify and track misuse.  
-Save for such uses, such information does not relate to the use being made of the system by a particular user in relation to identifiable items being viewed.
+**IP addresses:**  
+We use IP addresses to collect statistical information about the areas of the website that users are visiting, and general "traffic" data, to allow for login validation, and to identify and track misuse.
 
 This information allows us to determine what is most beneficial for its users, and facilitates us in continually improving the overall site for our users.
 
-**e) Cookies:**  
+We may use your IP address location to show you relevant adverts to your location.
+
+**Cookies:**  
 A "cookie" is a small amount of data that is sent to a user's browser from a web server and stored on a user's computer, and then used to store and track information about the user.
 
-Generally, we may use cookies (including 'Flash cookies') to remind us who the user is and to access user information stored on our computers in order to deliver a better and more personalized site.
+Generally, we may use cookies (including 'Flash cookies') to remind us who the user is and to access user information stored on our computers in order to deliver a better and more personalised site.
 
-You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. You can also manage cookies on our [Cookie Preferences](http://www.politics.co.uk/preferences/cookie) page or read more about our Cookie Policy [here](http://www.politics.co.uk/information/cookies).
+You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. You can also manage cookies on our [Cookie Preferences](http://www.politics.co.uk/preferences/cookie) page or read more about our [Cookie Policy here](http://www.politics.co.uk/information/cookies).
 
-**f) Google Analytics**  
-This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google").  
+**Google Analytics**  
+This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google").
+
 Google Analytics uses "cookies" to help the website analyze how users use the site.
 
-The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States .
+The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States.
 
 Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage.
 
@@ -53,30 +57,65 @@ Google may also transfer this information to third parties where required to do 
 
 By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
-**g) Security:**  
+**Google Analytics Advertising Features**  
+We use Google Analytics’ Advertising Reporting feature which provides us with Audience Demographic and Audience Interest information.
+
+We do this through using first-party cookies (such as the Google Analytics cookie), and third party cookies (such as Google advertising cookies). Our [Cookie Policy](http://www.politics.co.uk/information/cookies) can be found here.
+
+More information on Advertising Features can be found [here](https://support.google.com/analytics/answer/3450482?hl=en).
+
+**Google Analytics Data Retention**  
+The retention period for data you send that is associated with cookies, user identifiers, or advertising identifiers is 26 months.
+
+**Google Analytics opt-out**  
+If you don’t want your data collected by Google Analytics, you can install the Google Analytics opt-out browser add-on. This add-on instructs the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) running on websites to prohibit sending information to Google Analytics.
+
+To opt-out of Analytics for web, visit the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout) and install the add-on for your browser. For more details on installing and uninstalling the add-on, please see the relevant help resources for your specific browser.
+
+**Security:**  
 The Site has industry standard security measures in place to protect the loss, misuse, and alteration of the information under our control.
 
 While there is no such thing as "perfect security" on the Internet, we will take reasonable steps to ensure the safety of your personal information.
 
-**h) Links:**  
-Our Web Site contains links to other Web Sites that are owned and operated by third parties.  
-We are not responsible for the privacy practices or the content of such Web Sites. The inclusion of any link does not imply endorsement by us. You are responsible for complying with the terms of use of any such sites.
+**Links:**  
+Our website contains links to other websites that are owned and operated by third parties.
 
-No party may create any link to or use any portion of our Web Site in any manner that may create confusion about our identity as the source of origin of such portion of this Site, or in any manner that may create a likelihood of confusion as to sponsorship of third party content by us or as to an affiliation with us.
+We are not responsible for the privacy practices or the content of such websites. The inclusion of any link does not imply endorsement by us. You are responsible for complying with the terms of use of any such sites.
 
-**i) Updating information; opting out:**  
-Should we use e-mail news alerts or other services to which you sign up, we will allow users the option to change or modify information and preferences previously provided, or to opt out of receiving communications from us.
+No party may create any link to or use any portion of our Web Site in any manner that may create confusion about our identity as the source of origin of such portion of this website, or in any manner that may create a likelihood of confusion as to sponsorship of third party content by us or as to an affiliation with us.
 
-This may be done through the following methods:  
-(1) click on the 'unsubscribe' or 'preferences' link which is found in the footer of any email newsletter you have received from us, and then make the necessary changes; or  
-(2) e-mail the information to [preferences@politics.co.uk](mailto:preferences@politics.co.uk)
+**Email addresses and opting-out**  
+We collect email addresses as part of the registration process for our weekly newsletter, Politics@lunch.
 
-**j) Cancellation:**  
-We will upon your request deactivate your information from our active databases.  
-To make this request, send an email to [deregister@politics.co.uk](mailto:deregister@politics.co.uk). Such information will be deactivated as soon as reasonably possible in accordance with our deactivation policy and applicable law.
+If you have subscribed and change your mind, you can unsubscribe from newsletter mailings at any time by clicking unsubscribe at the bottom of any newsletter, or by emailing preferences@politics.co.uk.
+
+We may contact you from time-to-time to check that the information we hold is correct. We don’t rent or trade email lists with other businesses. However, if you have opted-in to receive promotional emails, we may occasionally send you appropriate promotions from third-parties. You can request to stop receiving these by updating your preferences at any time.
+
+We use a third-party provider, MailChimp, to store email addresses and deliver newsletters to you each week. We gather statistics on email opening and clicks using industry standard technologies to help us monitor and improve our e-newsletter. For more information, please see [MailChimp’s privacy notice](https://mailchimp.com/legal/privacy/).
+
+**Age restrictions**  
+Please note that we do not process the personal data of persons aged under 16 without parental/guardian consent. If you are under 16, we will assume you have been given or are providing parental/guardian consent to communicate with you.
+
+**Removal of data**  
+We will upon your request deactivate your information from our active databases.
+
+To make this request, send an email to deregister@politics.co.uk. Such information will be deactivated as soon as reasonably possible in accordance with the applicable law.
 
 We will retain in our files some personal information you may have requested to remove, solely in order to keep an archival set of records and to comply with legal requirements as required or permitted by law.
 
 Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests.
 
 However, such personal information will only be available to our personnel who have a reasonable and lawful need to access it, or otherwise as legally required.
+
+**Changes to this policy**  
+Any changes we may make to our Privacy Policy in the future will be posted on this page and, where appropriate, notified to you.
+
+**Contact us**  
+If you have any questions, concerns or complaints about our privacy Policy, our practices or our Services, you may contact us by email at privacy@politics.co.uk.  Alternatively, you can write to us at:  
+Data Protection  
+Senate Media  
+51-53 Mount Pleasant  
+London  
+WC1X 0AE
+
+We will respond to all requests, enquiries or concerns within thirty (30) days.
