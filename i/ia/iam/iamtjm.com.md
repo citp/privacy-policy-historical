@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iamtjm.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222152109id_/http%3A//iamtjm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iamtjm.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601000543id_/http%3A//iamtjm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -55,4 +55,4 @@ We have included links on this website for your use and reference. We are not re
 
 **QUESTIONS/COMMENTS/CONCERNS:** If you have any questions about the contents of this page, or simply wish to reach us for any other reason, you may do so by using our Contact information.
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+support@tjmwebsolutions.com
