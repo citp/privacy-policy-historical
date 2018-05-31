@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worthytoshare.com privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707225425id_/http%3A//www.worthytoshare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worthytoshare.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601000134id_/http%3A//www.worthytoshare.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
