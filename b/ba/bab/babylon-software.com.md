@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babylon-software.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228002027id_/http%3A//babylon-software.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babylon-software.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531115622id_/http%3A//www.babylon-software.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Statement for Babylon Software
 
