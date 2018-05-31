@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the marquette.edu privacy policy that was archived on 2017-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171215213340id_/http%3A//marquette.edu/tools/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the marquette.edu privacy policy that was archived on 2018-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180531211340id_/http%3A//marquette.edu/tools/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <!-- this is the headcode include -->
@@ -39,7 +39,7 @@
 </script>
       <title>Privacy Policy // Marquette Tools // Marquette University</title>
       <meta name="Description" content="Marquette University's privacy policy. Marquette University is committed to respecting your privacy as a customer.">
-   <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+   </head>
    <body>      <div id="container"><script type="text/javascript">
 			$( document ).ready(function() {
 				// bind a click event to the 'skip' link
@@ -487,12 +487,14 @@ $( window ).resize(function(e) {
   <div id="lowerFooter">
     <div class="footerContent"> <a href="http://www.marquette.edu"><img alt="Marquette University logo" src="/_global-images/marquette-logo.svg"></a>
       <p><a href="/tools/privacy.php">Privacy Policy</a> <a href="/tools/legal.php">Legal Disclaimer</a> <a href="/tools/non-discrimination.php">Non-Discrimination Policy</a> <a href="http://www.marquette.edu/accessible-technology/">Accessible Technology</a></p>
-      <p> <span id="directedit">©</span> 2017 Marquette University</p>
+      <p> <span id="directedit">©</span> 2018 Marquette University</p>
       <br class="float_clear">
     </div>
   </div>
 
 <!--  Adroll Pixel -->
+<!-- Script from adroll -->
+<!--
 <script type="text/javascript">
 adroll_adv_id = "LBGSH3XYOBF25MAUTUFJPA";
 adroll_pix_id = "VYJPPHCPAFGHJBMCVGLDIC";
@@ -513,6 +515,39 @@ document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
 if (window.addEventListener) {window.addEventListener('load', _onload, false);}
 else {window.attachEvent('onload', _onload)}
 }());
+</script>
+-->
+
+<!-- Updated by Dwayne Burtin on 4/3/18 to manually control pixel -->
+<script type="text/javascript">
+$(document).ready(function () {
+	
+    //adroll test
+	if (typeof adroll_false_test !== 'undefined') {
+		//do not load adroll pixel
+	} else {
+		// Adroll Pixel
+		adroll_adv_id = "LBGSH3XYOBF25MAUTUFJPA";
+		adroll_pix_id = "VYJPPHCPAFGHJBMCVGLDIC";
+		/* OPTIONAL: provide email to improve user identification */
+		/* adroll_email = "username@example.com"; */
+		(function () {
+			var _onload = function(){
+			if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
+			if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
+			var scr = document.createElement("script");
+			var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+			scr.setAttribute('async', 'true');
+			scr.type = "text/javascript";
+			scr.src = host + "/j/roundtrip.js";
+			((document.getElementsByTagName('head') || [null])[0] ||
+				document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+			};
+			if (window.addEventListener) {window.addEventListener('load', _onload, false);}
+				else {window.attachEvent('onload', _onload)}
+			}());
+	}
+});
 </script>
 </div>
 <script src="/_resources/js/direct-edit.js"></script>
