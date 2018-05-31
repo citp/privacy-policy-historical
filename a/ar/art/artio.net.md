@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the artio.net privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126155932id_/http%3A//www.artio.net/terms-of-service/personal-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artio.net privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531174055id_/http%3A//www.artio.net/terms-of-service/personal-privacy) for the most accurate reproduction.*
 
 # Personal Privacy Policy - ARTIO
 
 of  
-ARTIO s.r.o., Artio Oy and ARTIO International Co.,  
+ARTIO s.r.o. and ARTIO International Co.,  
 further reffered just as ARTIO or Operator.
 
 Ostrava, 5.6.2005
