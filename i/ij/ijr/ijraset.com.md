@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ijraset.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219072927id_/http%3A//www.ijraset.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ijraset.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531191227id_/http%3A//www.ijraset.com/privacy-policy.php) for the most accurate reproduction.*
 
-# UGC Approved International Journal for Scientific, Engineering & Applied Science, Research & Technology – IJRASET
+# Best International Journal for Scientific, Engineering & Applied Science, Research & Technology – IJRASET
 
 ## Privacy Policy
 
@@ -63,5 +63,5 @@ If you have any questions about this Privacy Policy, the practices of this site,
 **[www.ijraset.com](http://www.ijraset.com/)**  
 Corporate Office- INDIA IJRASET (ISSN: 2321-9653)- Elecose Building No: 1520 ,Sector-28,Faridabad-121006 Contact: 08813907089  
 08813907089  
-[ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2d44475f4c5e48596d4a404c4441034e4240)  
+[ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#dab3b0a8bba9bfae9abdb7bbb3b6f4b9b5b7)  
 This document was last updated on September 28, 2014 
