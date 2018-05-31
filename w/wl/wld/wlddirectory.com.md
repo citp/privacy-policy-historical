@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wlddirectory.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224112025id_/http%3A//www.wlddirectory.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wlddirectory.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531203949id_/http%3A//www.wlddirectory.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -53,3 +53,6 @@ This Web site takes every precaution to protect our users’ information. When u
 Notice of Change
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
+
+  
+El [marcado láser sobre plastica](https://www.lasitlaser.es/marcado-laser-plastico/) es una huella permanente, ideal para añadir texto, logotipos, indicaciones y demás, sobre cualquier material de manera extremadamente flexible, rápida y cualitativamente impecable. 
