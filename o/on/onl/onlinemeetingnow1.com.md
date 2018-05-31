@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the onlinemeetingnow1.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227234759id_/http%3A//onlinemeetingnow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinemeetingnow1.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531182358id_/http%3A//onlinemeetingnow.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - onlinemeetingnow.com
 
 ## Privacy Policy
 
-Effective Date: January 1, 2012
+Effective Date: May 25, 2018
 
 To review material modifications and their effective dates scroll to the bottom of the page.
 
