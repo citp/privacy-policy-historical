@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the vhslearning.org privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120173844id_/http%3A//vhslearning.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vhslearning.org privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531090435id_/http%3A//www.vhslearning.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Virtual High School
 
-## Privacy Policy
-
-Privacy Statement, effective 11/22/16:
+## Privacy Statement, effective 11/22/16:
 
 VHS established this privacy policy to let you know how we collect, use, share, and protect information that we may gather from our websites, information that we may collect from you outside of our website, such as by phone, FAX, or through postal mail, as well as information about you passed through to third party tools used in VHS's learning environment. This policy does not apply to information about you collected by online educational resources and content hosted on non-VHS servers which is linked to or otherwise accessible from within VHS. The information collected or received by external online educational resources and offerings that are not directly integrated into VHS's learning environment are subject to their own privacy policies.
 
@@ -52,7 +50,7 @@ Beyond that, the only information about your visit that we receive is the standa
 
 ### Definitions of terms used in this privacy policy
 
-"VHS, Inc.", "The Virtual High School", or "VHS" are all refer to The Virtual High School, a 501(c)(3) nonprofit organization that provides learning opportunities through online courseware either directly or indirectly to students of all ages.
+"VHS, Inc.", "The Virtual High School", and "VHS" all refer to VHS, Inc., a 501(c)(3) nonprofit organization that provides learning opportunities through online courseware either directly or indirectly to students of all ages.
 
 Personally identifiable information, as defined by the [U](http://csrc.nist.gov/publications/nistpubs/800-122/sp800-122.pdf)[nited States Government Accountability Office](http://www.gao.gov/new.items/d08536.pdf): is "any information about an individual maintained by an agency, including (1) any information that can be used to distinguish or trace an individual's identity, such as name, social security number, date and place of birth, mother's maiden name, or biometric records; and (2) any other information that is linked or linkable to an individual, such as medical, educational, financial, and employment information."
 
