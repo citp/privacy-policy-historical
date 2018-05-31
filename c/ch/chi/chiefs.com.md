@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chiefs.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120163603id_/http%3A//www.chiefs.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chiefs.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531072644id_/http%3A//www.chiefs.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy and Security Statement
 
@@ -6,17 +6,13 @@
 
 **The Kansas City Chiefs Football Club Privacy Policy**
 
-<http://www.kcchiefs.com/privacy-policy.html>
+<http://www.chiefs.com/privacy-policy.html>
 
 _**Effective: December 17, 2015**_
 
-The **Kansas City Chiefs** organization (“we,” “our,” “us”) respects your privacy and values your trust and confidence.  This privacy policy (the "Privacy Policy") applies to our website www.kcchiefs.com and our mobile applications that link to or post this Privacy Policy (collectively, the "Services"), and explains how we collect, use, and disclose information through the Services. By using the Services, you agree to the terms of this Privacy Policy.  Please note that this Privacy Policy does not apply to any information that is collected or obtained through sites or services that do not link to this Privacy Policy (including the Team Shop) or information collected by the NFL or the other NFL member clubs (the "Member Clubs").
+The **Kansas City Chiefs** organization (“we,” “our,” “us”) respects your privacy and values your trust and confidence.  This privacy policy (the "Privacy Policy") applies to our website www.chiefs.com and our mobile applications that link to or post this Privacy Policy (collectively, the "Services"), and explains how we collect, use, and disclose information through the Services. By using the Services, you agree to the terms of this Privacy Policy.  Please note that this Privacy Policy does not apply to any information that is collected or obtained through sites or services that do not link to this Privacy Policy (including the Team Shop) or information collected by the NFL or the other NFL member clubs (the "Member Clubs").
 
-**Kansas City Chiefs** has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
-
-The TRUSTe program covers only information that is collected through this Web site [www.kcchiefs.com](http://www.kcchiefs.com/) and our mobile applications.
-
-If you have questions or complaints regarding our privacy policy or practices please contact us at [customerrelations@kcchiefs.com](mailto:customerrelations@kcchiefs.com). **** If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
   1. **1\. Information Collection**
   2. **2\. Use of Information**
@@ -63,7 +59,7 @@ We also may collect certain information automatically when you visit the Service
 
 
 
-Technologies such as: cookies, beacons, tags and scripts are used by Kansas City Chiefs and our partners [specify type e.g. marketing partners], affiliates, or analytics or service providers [specify type e.g. online customer support provider, etc]. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+Technologies such as: cookies, beacons, tags and scripts are used by Kansas City Chiefs and our partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
 As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.
 
@@ -99,7 +95,7 @@ We are committed to maintaining your trust, and we want you to understand when a
   * **Service Providers:** We may share your information with service providers that perform certain functions or services on our behalf (such as to host the Services, fulfill orders, provide products and services, manage databases; perform analyses, process credit card payments, provide customer service, or send communications for us). 
   * **Subsidiaries and Affiliates:** We may share your information with all members of the NFL Family, including, without limitation, NFL Properties LLC, NFL International LLC, NFL Enterprises LLC, NFL Ventures, L.P., and NFL Ventures, Inc.
   * **Select Business Partners:**   With your permission, we may share your information with select business partners so that they can provide you with special offers, promotional materials, and other materials that may be of interest to you. For example, you may be presented with an opportunity to have certain information shared with our third party business partners when you enter a contest or sweepstakes or elect to receive marketing offers or other information.  If you do not elect to have your information shared, it will not be shared with such third parties.  We take measures to help ensure that our partners protect the confidentiality, integrity, and security of any information we share with them.  However, we are not responsible for the privacy practices of our business partners, which may use your information for their own purposes. 
-  * **Third-Party Ad Serving and Audience and Traffic Measurement Services:** We may use third-parties to serve advertisements on the Services. These third parties may set their own cookies or similar web technologies to collect information about users’ online activities over time and across different websites. To manage your preferences you may opt out here http://preferences-mgr.truste.com/.
+  * **Third-Party Ad Serving and Audience and Traffic Measurement Services:** We may use third-parties to serve advertisements on the Services. These third parties may set their own cookies or similar web technologies to collect information about users’ online activities over time and across different websites. To manage your preferences you may opt out here <http://preferences-mgr.truste.com/>.
   * **Business Transfer:** If we sell all or part of our business, or make a sale or transfer of assets, or are otherwise involved in a merger or business transfer, or in the unlikely event of bankruptcy, a business reorganization, or similar event, we may transfer your information as part of such transaction. You will be notified via email and/or prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
   * **Administrative or Legal Process:** We may disclose your information to third parties in order to protect the legal rights, safety, and security of our organization, our corporate affiliates, subsidiaries, business partners, and the users of our Services; enforce our Terms of Use; respond to and resolve claims or complaints; prevent fraud or for risk management purposes; and comply with or respond to law enforcement or legal process or a request for cooperation by a government or other entity, whether or not legally required.
   * **Interactive Features** : We may share information with third parties when you post information to a user profile or a public area of the Services, such as a chat room, forum, blog, or other community tool. If you post to these interactive features, it will be publicly available and you may receive unsolicited messages from other parties. We cannot ensure that parties who have access to such information will respect your privacy.  Please exercise caution when using these features. To request removal of your personal information from our community forum, contact us at the contact information below.  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
@@ -124,7 +120,7 @@ The Services may contain links to other websites or online services that are ope
 
 **6\. Security**
 
-We have adopted security procedures to help protect against loss, misuse, and unauthorized access to the information you provide to us. For example, if we collect financial information, we will use encryption software to help protect this information when it is in transit. Please note, however, that no data transmission or storage can be guaranteed to be 100% secure.  As a result, while we strive to protect your information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to the Services and cannot be responsible for the theft, destruction, or inadvertent disclosure of your information.
+We have adopted security procedures to help protect against loss, misuse, and unauthorized access to the information you provide to us. While we strive to protect your information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to the Services and cannot be responsible for the theft, destruction, or inadvertent disclosure of your information.
 
 **7\. Children’s Privacy**
 
@@ -132,25 +128,25 @@ The Services do not knowingly collect, use, or disclose personal information fro
 
 **8\. Changes To This Privacy Policy**
 
-We may amend this Privacy Policy at any time. Your continued use of the Services after any modification to the Privacy Policy will constitute your acceptance of the new terms. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on the Services prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+We may amend this Privacy Policy at any time. Your continued use of the Services after any modification to the Privacy Policy will constitute your acceptance of the new terms. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 **9\. Access/Choice/Retention**
 
 You may choose to receive promotional emails, newsletters, and similar communications from us. You may opt out of receiving commercial emails from us by clicking on the opt-out or “unsubscribe” link included in the commercial e-mails you receive. Please note that opt-out requests may take some time to be effective.  Your opt-out request will not apply to messages that you request or that are not commercial in nature. For example, we may contact you concerning any purchases you have made with us, even if you opt out of receiving unsolicited commercial email messages.
 
-Kansas City Chiefs stores your friends email address and name for the sole purpose of sending an email and tracking the success of our referral program. Your friend may contact us at <http://www.kcchiefs.com/contact-us.html> to request that we remove this information from our database.
+Kansas City Chiefs stores your friends email address and name for the sole purpose of sending an email and tracking the success of our referral program. Your friend may contact us at <http://www.chiefs.com/contact-us.html> to request that we remove this information from our database.
 
-You may opt-out of location based services at any time by editing the setting at the device level or by emailing us at (add a contact email)
+You may opt-out of location based services at any time by editing the setting at the device level.
 
 If you no longer wish to receive Push notifications, you may turn them off at the device level. To ensure you receive proper notifications, we will need to collect certain information about your device such as operating system and user identification information.
 
-If your information changes, or if you no longer desire to use the Services, you may request that we update or remove certain information by signing into your account and making the required changes, by emailing our Customer Support at [customerrelations@kcchiefs.com](mailto:customerrelations@kcchiefs.com), or by contacting us by telephone or postal mail at the contact information listed below. We will try to respond to your request within 30 days.
+If your information changes, or if you no longer desire to use the Services, you may request that we update or remove certain information by signing into your account and making the required changes, by emailing our Customer Support at [fanexperience@chiefs.com](mailto:fanexperience@chiefs.com), or by contacting us by telephone or postal mail at the contact information listed below. We will try to respond to your request within 30 days.
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 **10\. Your California Privacy Rights**
 
-California Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [CAPrivacy@kcchiefs.com](mailto:CAPrivacy@kcchiefs.com) or write us at The University of Kansas Hospital Training Complex, ATTN: CA Privacy Rights, 1 Arrowhead Drive, Kansas City, MO 64129.
+California Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [CAPrivacy@chiefs.com](mailto:CAPrivacy@chiefs.com) or write us at The University of Kansas Hospital Training Complex, ATTN: CA Privacy Rights, 1 Arrowhead Drive, Kansas City, MO 64129.
 
 In some cases, third parties may be able to collect information about a user’s online activities over time and across different websites when he or she uses our Services.
 
@@ -162,6 +158,6 @@ Please note that the Services are directed towards users who reside in the Unite
 
 **12\. Contact Us**
 
-If you have any questions about this Privacy Policy or the privacy practices of the Services, please contact us by email at [customerrelations@kcchiefs.com](mailto:customerrelations@kcchiefs.com) or by regular mail at
+If you have any questions about this Privacy Policy or the privacy practices of the Services, please contact us by email at [fanexperience@chiefs.com](mailto:fanexperience@chiefs.com) or by regular mail at
 
 **The University of Kansas Hospital Training Complex | ATTN: Chiefs Privacy Policy |1 Arrowhead Drive | Kansas City, MO 64129.**
