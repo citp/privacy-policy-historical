@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lifeberrys.com privacy policy that was archived on 2016-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160724115000id_/http%3A//www.lifeberrys.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeberrys.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531060833id_/http%3A//www.lifeberrys.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Lifeberrys.com
+# Privacy Policy - lifeberrys.com
 
 We respect the privacy of it's users and is committed to protect it in all respects. With a view to offer most enriching and holistic internet experience to it's users, Lifeberrys offers a vast repository of Online Sites and variety of community services. The information about the user as collected by Lifeberrys is: (a) information supplied by users and (b) information automatically tracked while navigation (Information). By using Lifeberrys website or its services, you consent to collection, storage, and use of the personal information you provide (including any changes thereto as provided by you) for any of the services that we offer.
 
