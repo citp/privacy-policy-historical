@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schoolforstartups.co.uk privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125202713id_/http%3A//schoolforstartups.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolforstartups.co.uk privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531054839id_/http%3A//schoolforstartups.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | School for Startups
 
