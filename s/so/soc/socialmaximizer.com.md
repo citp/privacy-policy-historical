@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialmaximizer.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201003957id_/http%3A//www.socialmaximizer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialmaximizer.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531180857id_/http%3A//www.socialmaximizer.com/privacy.php) for the most accurate reproduction.*
 
 # Social Maximizer- Privacy policy
 
