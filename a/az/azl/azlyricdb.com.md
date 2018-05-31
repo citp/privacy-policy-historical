@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azlyricdb.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121210547id_/http%3A//www.azlyricdb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azlyricdb.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531104237id_/http%3A//azlyricdb.com/privacy) for the most accurate reproduction.*
 
 # Song Lyrics
 
@@ -47,5 +47,5 @@ pr@azlyricdb.com
 
 
 All lyrics are property of their respective authors, artists and labels and are strictly for non-commercial use only.  
-Copyright © 2009-2017 Azlyricdb.com. All Rights Reserved | [Privacy policy](https://web.archive.org/privacy) | [Blog](http://azlyricdb.blogspot.com/)  
+Copyright © 2009-2018 Azlyricdb.com. All Rights Reserved | [Privacy policy](https://web.archive.org/privacy) | [Blog](http://azlyricdb.blogspot.com/)  
 You are now viewing **A-Z Lyrics Database Mainpage**
