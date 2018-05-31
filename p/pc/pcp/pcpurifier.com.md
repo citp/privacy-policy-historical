@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcpurifier.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225063205id_/http%3A//pcpurifier.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcpurifier.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531182125id_/http%3A//www.pcpurifier.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy- PC Purifier
 
