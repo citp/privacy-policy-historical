@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2checkout.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004003836id_/https%3A//www.2checkout.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2checkout.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531183209id_/https%3A//www.2checkout.com/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Policies | 2Checkout
 
@@ -54,9 +54,9 @@ Log information may include web requests, Internet Protocol address, operating s
 
 You may stop your browser from accepting cookies or web beacons. The Help portion of your browser should explain how to configure your browser’s cookie handling. Your browser may have add-ons that may help you block web beacons. You may have limited functionality if you block cookies or web beacons set by our website.
 
-##### Crazy Egg
+##### HotJar
 
-2CO uses Crazy Egg, a web analytics service. Crazy Egg uses cookies, web beacons, and other means to help 2CO analyze how users use the site. You may find Crazy Egg’s Privacy Policy at <http://www.crazyegg.com/privacy>.
+2CO uses HotJar, a web analytics service. HotJar uses cookies, web beacons, and other means to help 2CO analyze how users use the site. You may find HotJar’s Privacy Policy at <https://www.hotjar.com/legal/compliance/gdpr-commitment>.
 
 ##### Google AdWords
 
@@ -64,8 +64,8 @@ You may stop your browser from accepting cookies or web beacons. The Help portio
 
 ##### Google Analytics
 
-2CO uses Google Analytics, a web analytics service. Google Analytics uses cookies, web beacons, and other means to help 2CO analyze how users use the site. You may find Google’s Privacy Policy at <http://www.export.gov/safeharbor/>.
+2CO uses Google Analytics, a web analytics service. Google Analytics uses cookies, web beacons, and other means to help 2CO analyze how users use the site. You may find Google’s Privacy Policy at <https://www.hotjar.com/legal/compliance/gdpr-commitment>.
 
-##### Eloqua
+##### Marketo
 
-2CO uses Eloqua, an email distribution and web analytics service. Eloqua uses cookies, web beacons, and other means to help 2CO distribute emails analyze how users use the site. You may find Eloqua’s Privacy Statement at <http://www.eloqua.com/trust/privacy-policy.html>.
+2CO uses Marketo, an email distribution and web analytics service. Marketo uses cookies, web beacons, and other means to help 2CO distribute emails analyze how users use the site. You may find Marketo’s Privacy Statement at <https://documents.marketo.com/legal/privacy/>.
