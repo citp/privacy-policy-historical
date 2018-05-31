@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rewardit.com privacy policy that was archived on 2017-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171201145859id_/http%3A//www.rewardit.com/Site/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rewardit.com privacy policy that was archived on 2018-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180601012330id_/http%3A//www.rewardit.com/Site/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
@@ -52,7 +52,7 @@
     
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     
-    <script async="" src="https://cdn.moengage.com/webpush/moe_webSdk.min.latest.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+    <script src="//bat.bing.com/bat.js" async=""></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js" integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU=" crossorigin="anonymous"></script>
     <script src="/Scripts/odometer.min.js"></script>
@@ -78,34 +78,13 @@
             enable_page_level_ads: true
           });
         </script>
-    <link rel="manifest" href="manifest.json">
-
-<script type="text/javascript">
-    (function (i, s, o, g, r, a, m, n) {
-        i['moengage_object'] = r; t = {}; q = function (f) { return function () { (i['moengage_q'] = i['moengage_q'] || []).push({ f: f, a: arguments }); }; };
-        f = ['track_event', 'add_user_attribute', 'add_first_name', 'add_last_name', 'add_email', 'add_mobile',
-        'add_user_name', 'add_gender', 'add_birthday', 'destroy_session', 'add_unique_user_id', 'moe_events', 'call_web_push', 'track', 'location_type_attribute'];
-        for (k in f) { t[f[k]] = q(f[k]); }
-        a = s.createElement(o); m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m);
-        i['moe'] = i['moe'] || function () { n = arguments[0]; return t; }; a.onload = function () { if (n) { i[r] = moe(n); } };
-    })(window, document, 'script', 'https://cdn.moengage.com/webpush/moe_webSdk.min.latest.js', 'Moengage');
-
-        
-            Moengage = moe({
-                app_id: "FNNXC07YJYM0HOGWNSC0L5JB",
-                debug_logs: 0
-            });
-            Moengage.destroy_session();
-
     
-
-</script>
     
 <link href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css" type="text/css" rel="stylesheet">
 <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" type="text/css" rel="stylesheet">
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" rel="stylesheet">
 <link href="https://cdn.jsdelivr.net/odometer/0.4.8/themes/odometer-theme-default.css" type="text/css" rel="stylesheet">
-<link href="/cassette.axd/stylesheet/0d26a8ffa1ec065166e1e5cafec7bc20a1a57411/GlobalStyles" type="text/css" rel="stylesheet">
+<link href="/cassette.axd/stylesheet/668218dfa5b71ebb7deb6ffcc350a095e5e493df/GlobalStyles" type="text/css" rel="stylesheet">
 <link href="/cassette.axd/stylesheet/fa2b74510f8239c8687a97591d366769f4eb79b9/Privacy" type="text/css" rel="stylesheet">
 
 
@@ -170,6 +149,11 @@
                                     <div class="col-xs-12 form-group loginError" style="display:none;color:red;">
                                         <div class="alert alert-danger pad3" role="alert">
                                             <strong><i class="fa fa-exclamation-triangle"></i> Invalid email or password.</strong>
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-12 form-group deniedError" style="display:none;color:red;">
+                                        <div class="alert alert-danger pad3" role="alert">
+                                            <strong><i class="fa fa-exclamation-triangle"></i>  InEligible Region Detected. Please see <a href="/Site/Terms">Terms</a>.</strong>
                                         </div>
                                     </div>
                                     <div class="col-xs-12 form-group">
@@ -244,6 +228,11 @@
                                             <strong><i class="glyphicon glyphicon-alert"></i> Invalid email or password. Please try again.</strong>
                                         </div>
                                     </div>
+                                    <div class="col-xs-12  form-group-sm deniedError" style="display:none;color:red;" id="deniedError_DT">
+                                        <div class="alert alert-danger pad3" role="alert">
+                                            <strong><i class="glyphicon glyphicon-alert"></i> InEligible Region Detected. Please see <a href="/Site/Terms">Terms</a>.</strong>
+                                        </div>
+                                    </div>
                                     <br>
                                 </div>
                                 
@@ -292,8 +281,8 @@
             });
         </script>
     </header>
-<div class="top1">
-    
+    <div class="top1">
+        
 <div class="outer container top6">
     <div class="col-xs-12">
         <div class="row bottom1" id="content-container">
@@ -872,8 +861,17 @@
     </div>
 
 </div>
-</div>
-
+    </div>
+    <div class="container">
+        <div class="row about-ri">
+            <div class="col-xs-12">
+                <h4>ABOUT REWARDIT SWEEPSTAKES</h4>
+                <div>
+                    RewardIt is a 100% free and fun sweepstakes with tons of chances to enter to win great prizes every single day.  First off, did you know that RewardIt awards a $50 prize to one entrant every single day. Get fifteen daily drawing sweepstakes entries ranging from our initial $100 sweepstakes, all the way up to our biggest prize for $2,000 cash per week for life!  On top of that, get twenty chances to win huge cash prizes of up to $50,000 instantly once you complete your daily drawing entries.  After that, get 50 entries in our pick ten $1,000 instant win sweepstakes.  Hit nine numbers and win $50.  Match eight and get $5.  Since you don’t have to match all of the numbers to be a cash winner, this game has the most winners.  Last, but not least…  you can use the RBux you earn entering various giveaways like cash, gift cards, electronics and more.  Good luck and thanks for entering our sweepstakes.
+                </div>
+            </div>
+        </div>
+    </div>
     
     
     <footer>
@@ -967,7 +965,11 @@
                             window.location = "/DailyDraw";
                         else {
                             $('.loginbtn').html('LOGIN');
-                            $(".loginError").slideDown();
+                            if (data.result === "Denied") {
+                                $(".deniedError").slideDown();
+                            } else {
+                                $(".loginError").slideDown();
+                            }
                         }
                     },
                     'error': function(){
