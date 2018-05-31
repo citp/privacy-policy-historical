@@ -1,60 +1,182 @@
-> *The following text is extracted and transformed from the loggly.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915081531id_/https%3A//www.loggly.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loggly.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531203720id_/http%3A//loggly.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Loggly
+# Privacy policy | Log Analysis | Log Monitoring by Loggly
 
-Last Updated September 3, 2013
+SolarWinds is committed to protecting the privacy of visitors of the SolarWinds website(s), individuals who register to use the products and services, individuals who register to attend the Company’s corporate or other events, and business partners. The following privacy notices explain our privacy practices related to these activities and how SolarWinds may collect, use, and/or share personal information.
 
-Loggly, Inc. (“Loggly”, “we” or “us”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of loggly.com (the “Site”). This Privacy Policy only applies the websites, services and applications included within “Services” and does not apply to any third-party websites, services, or applications, even if they are accessible through our Services.  Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meaning as in our [Terms of Use](https://www.loggly.com/about/terms-of-use/).  Please note that the term “you” also includes the company which is our customer and for which you are accepting these terms.
+The EU General Data Protection Regulation (GDPR), enforceable as of May 25, 2018, imposes additional requirements upon companies to strengthen the security around and enhance the protection of personal data of EU residents. SolarWinds has a dedicated, cross-functional team overseeing SolarWinds’ GDPR readiness. We discuss SolarWinds’ efforts and commitment to GDPR below.
 
-**Information Collection and Use**  
-Our primary goals in collecting information are to provide and improve our Services, to administer your use of the Services (including your Account if applicable) and to enable you to enjoy and easily navigate our Services.
+SolarWinds is committed to protecting the privacy of those involved in its business. This Privacy Notice is meant to help you understand, among other things, what personal data we collect, why we collect it, and what we do with it.
 
-_Account Information_. When you create an Account, we will collect certain information that can be used to identify you, such as Account name, name, email address, postal address, username, and phone number (“Personally-Identifiable Information”).  We may also collect certain information that is not Personally-Identifiable Information because it cannot be used by itself to identify you, such as zip code or the number of servers you have.
+[ This Cookie Policy](https://www.solarwinds.com/cookies) addresses how we use cookies when you visit SolarWinds. We want to be clear about how we collect and use data related to you via cookies.
 
-_User Data_. In order to perform our Services, we may also collect from you data that you have sent to us (“User Data”) via electronic means to Internet addresses that we provide to you. Such User Data may include records of operations of your applications and systems and other information relating to your actions. Such User Data provided to Loggly may or may not contain Personally-Identifiable Information of the User’s clients or customers. Loggly will never share your User Data with other Users or with any other third party. However, Loggly reserves the right to analyze User Data in order to provide its Services to you and improve its Services.
+* * *
 
-If you choose to create an Account through one of our third-party partners, we may use your e-mail address so that your identity can be authenticated through the third-party party. When the authentication is complete, we will be able to link your Account with the third-party account and access certain Personally-Identifiable Information, such as your name and email address, and other Personally-Identifiable Information that your privacy settings on the third-party account permit us to access.
+  
+**Our Commitment to GDPR**
 
-_Cookies_. We collect certain information through the use of “cookies,” which are small text files that are saved by your browser when you access our Services. We may use both session cookies and persistent cookies to identify that you have logged in to the Services and to tell us how and when you interact with our Services. We may also use cookies to monitor aggregate usage and web traffic routing on our Services and to customize and improve our Services. Unlike persistent cookies, session cookies are deleted when you log off from the Services and close your browser. Although most browsers automatically accept cookies, you can change your browser options to stop automatically accepting cookies or to prompt you before accepting cookies. Please note, however, that if you don’t accept cookies, you may not be able to access all portions or features of the Services. Some third-party services providers that we engage may also place their own cookies on your browser. Note that this Privacy Policy covers only our use of cookies and does not include use of cookies by such third parties.
+On May 25, 2018, the European Union’s General Data Protection Regulation (GDPR) takes effect. GDPR regulates the governance of personal data for EU citizens with an emphasis on data security and privacy. The GDPR does not only apply to companies that operate in the EU. This regulation will also impact companies operating outside of the EU if they have any EU customers or personal data of anyone in the EU.
 
-_Use of Services_. Our servers automatically record certain information about how a User uses our Services (we refer to this information as “Log Data”). Log Data may include information such as a User’s Internet Protocol (IP) address, browser type, operating system, the web page that a User was visiting before accessing our Services, the pages or features of our Services to which a User browsed and the time spent on those pages or features, search terms, the links on our Services that a User clicked on and other statistics. We use this information to administer the Services and we analyze (and may engage third parties to analyze) this information to improve and enhance the Services by expanding their features and functionality and tailoring them to our Users’ needs and preferences. We may use a person’s IP address to fight spam, malware and identity theft. We also use the IP Address to generate aggregate, non-identifying information about how our Services are used. __
+SolarWinds has made information security and data privacy foundational principles of everything we do, and we recognize the importance of passing regulations to advance information security and data privacy for citizens of the EU. We are firmly committed to GDPR readiness.
 
-_User Support_. If you are a User with an Account, Loggly may occasionally send you an e-mail to tell you about new features, solicit your feedback, or just keep you up to date with what is going on with Loggly and our products. If you send us a request (for example via a support request or via one of our feedback mechanisms), we reserve the right to publish your request in order to help us clarify or respond to your request or to help us support other Users.
+* * *
 
-Loggly takes all measures reasonably necessary to protect against the unauthorized access, use, alteration, or destruction of Personally-Identifying Information.
+  
+**PRIVACY NOTICE**
 
-**Information Sharing and Disclosure**  
-_Service Providers_. We may engage third party service providers to work with us to administer and provide the Services. These third-party services providers have access to your Personally-Identifiable Information only for the purpose of performing services on our behalf and are expressly obligated not to disclose or use your Personally-Identifiable Information for any other purpose. These third parties have access to your Personally-Identifying Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. Some of these service providers may be located outside of your home country; by using Loggly’s services, you consent to the transfer of such information to them. Loggly will not rent or sell Personally-Identifying Information to anyone.
+Last updated: March 15, 2018
 
-_User-to-User Forum_. As part of the Services, Users may communicate with other Users in a User-to-User forum (“Forum Information”). “Forum Information” may consist of, for example, User comments regarding and tips for utilizing the Services.  Such Forum Information may be collected and analyzed by Loggly for the purpose of providing the Services and supporting you or other users.  Other Users will see your “User Name” when you participate in a User-to-User forum. Providing other Users with any information on a User-to-User forum is voluntary and should correlate with the degree of interaction you want to have with the other Users.  We recommend that you guard your anonymity and sensitive information so that you do not allow others to identify you.
+SolarWinds Worldwide, LLC and its affiliated companies and subsidiaries (“SolarWinds,” “we” or “us”) are committed to protecting the privacy of visitors of the SolarWinds website(s), individuals who register to use the products and services, individuals who register to attend the Company’s corporate events, and business partners (“Customers”). This Privacy Notice (“Privacy Notice” or “Notice”) describes our privacy practices in relation to the use of SolarWinds websites (including any customer portal or interactive customer website), its software, services, solutions, tools, and related applications, services, and programs, including attendance of corporate events and research and marketing activities, offered by SolarWinds (the “Services”) as well as your choices regarding use, access and correction of personal information.
 
-_Compliance with Laws and Law Enforcement_. Loggly cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Loggly or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, any illegal, unethical or legally actionable activity.
+This Privacy Notice describes how we collect, use, disclose and otherwise process personal data collected related to our Services and otherwise in the course of our business activities, including the information practices of the websites that link to this Privacy Notice (“Sites”).
 
-_Business Transfers_. Information that we collect from our Users, including Personally-Identifiable Information, is considered to be a business asset. As a result, if we go out of business or enter bankruptcy or if we are acquired as a result of a transaction such as a merger, acquisition or asset sale, your Personally-Identifiable Information may be disclosed or transferred to the third-party acquirer in connection with the transaction.
+This Privacy Notice does not apply to information collected about SolarWinds employees, applicants, or other personnel.
 
-_Publicity_. We may use your Personally-Identifiable Information for the purpose of solely identifying you as a Loggly customer on Loggly websites, client lists, press releases and/or other marketing documents. We may also use your Personally-Identifiable information for the purposes of publishing a brief description highlighting your use of our Services.
+The SolarWinds Sites may contain links to other websites; and information practices and/or the content of such other websites shall be governed by the privacy statements of such other websites.
 
-_Your Request_. We will share your Personally-Identifiable Information with third-party sites or platforms, such as social networking sites, if you have expressly requested that we do so.
+_About Us_
 
-**Security**  
-We take precautions to ensure the security of your Personally-Identifiable Information. However, we cannot guarantee that hackers or unauthorized personnel will not gain access to your Personally-Identifiable Information despite our efforts. You should note that in using our Services, your information will travel through third party infrastructures which are not under our control. No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your Personally-Identifiable Information, we cannot guarantee its absolute security. While we do not require Users to send their User Data to us via encrypted transit, we encourage all Users to do so.
+SolarWinds provides its Services – which include IT management and monitoring solutions such as network, systems and database management, security solutions, applications and infrastructure monitoring, and IT helpdesk tools – to business customers, directly, and through distributors, resellers, and managed service providers (MSPs).
 
-We cannot protect, nor does this Privacy Policy apply to, any information that you transmit to other users of the Site. You should never transmit personal or identifying information to other users.
+SolarWinds has certified its compliance to the Privacy Shield principles of: Notice; Choice; Accountability for Onward Transfer; Security; Data Integrity and Purpose Limitation; Access; and Recourse, Enforcement, and Liability (the “ **Principles** ”), with respect to personal data that we process on behalf of our Customers established in the European Union and Switzerland. For more information about our Privacy Shield commitment, refer to the Privacy Shield section below.
 
-**Phishing**  
-Identity theft and the practice currently known as “phishing” are of great concern to us. Safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your company’s credit card information, account ID, password, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more information about phishing, visit the Federal Trade Commission’s website at http://www.consumer.ftc.gov/articles/0003-phishing.
+You can learn more about Privacy Shield at [https://www.privacyshield.gov](https://www.privacyshield.gov/) and see our Privacy Shield self-certification at <https://www.privacyshield.gov/list>. SolarWind’s self-certification to the Privacy Shield is subject to the investigatory and enforcement authority of the Federal Trade Commission.
 
-**Modification**  
-If you, as a User, would like to update, correct or delete the Personally-Identifying Information in your registration profile, you may do so by contacting us at [info@loggly.com](mailto:info@loggly.com). If you request a deletion of such information, your Account may become deactivated. We will use commercially reasonable efforts to honor your request. We have the right to retain an archived copy of your Personally-Identifying Information as required by law or for legitimate business purposes.
+**Customer Owned Data**
 
-**Privacy Policy Changes**  
-Although most changes are likely to be minor, Loggly may change its Privacy Policy from time to time, and in Loggly’s sole discretion. Any information that we collect is subject to the Privacy Policy in effect at the time such information is collected. Loggly encourages visitors to frequently check this page for any changes to its Privacy Policy. If we make any material changes to this Privacy Policy, we will notify you of such changes by posting them on the Services or by sending you an email or other notification, and we will indicate when such changes will become effective. Your continued use of the Site and/or Services after we have notified you of any change in this Privacy Policy will constitute your acceptance of such change.
+As a provider of Services, we may receive, process or store certain information, including personal information, on behalf of our Customers. All such information (“ **Customer Data** ”) is owned and controlled by our Customers, who are the data controllers for such information with respect to EU data protection law. Customer Data may include information from the end points and other systems, tools or devices that Customers manage or monitor using our Services, and end user data related to individuals activities on Customer’s network and systems. It may also include event logs, end user information (such as IP address, email address and computer name), and other data where relevant to a support or service request. SolarWinds is a data processor for Customer Data.
 
-**International Transfer**  
-Your information may be transferred to, and maintained on, computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide your Personally-Identifiable Information to us, we may transfer your Personally-Identifying Information to the United States and process it there.  Your consent to this Privacy Policy, as represented by your continued use of the Site and/or Services, followed by your submission of any Personally-Identifying Information represents your agreement to that transfer.
+_Data Relating to Our Customers and Users of Our Sites._ SolarWinds collects information as part of its normal business operations and in the administration of its relationship with Customers, which may include personal information.
 
-**Our Policy Toward Children**  
-Our Site is not directed to children under 13 and we do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with Personally Identifying Information, we will take steps to delete such information from our files as soon as possible.
+_Business Contact and Customer Relationship Management._ We collect and maintain information about our Customers, which may include company name, business contact name and title, phone number, email and other contact details. We may also collect billing address, financial account, credit card information, order details, subscription and license information, and usage details. In addition, we collect user credential and profile data (name, contact, authorized users) of Customer’s authorized users and account administrators.
 
-**Questions**  
-If you have any questions or comments about this Privacy Policy, please contact us at [info@loggly.com](mailto:info@loggly.com).
+_Data Submitted on Sites._ In order to access or use certain portions of the Sites, to enjoy the full functionality of the Sites, or to conduct or seek to conduct business with us, you may be prompted to provide certain personal data to us, including in the following ways:  
+• by filling in forms (for example, a ‘Contact Us’ form) on our Sites or at a trade show or anywhere else we conduct business;  
+• by downloading or accessing the SolarWinds Services;  
+• by downloading documentation from our Sites;  
+• by subscribing to newsletters or other communications; or  
+• by corresponding with us by phone, e-mail or otherwise using our contact details.
+
+Typically, the personal data you give us may include name, business affiliation, business address, telephone number, and email address, and any personal details required to resolve any enquiries or complaints.
+
+_Third Parties._ We may also obtain personal data about Customers from third parties, such as LinkedIn and other publicly accessible sources.
+
+_Customer Support and Service._ When Customers contact us for support or other customer service requests, we maintain support tickets and other records related to the requests, including any information provided by Customers related to such support or service requests. We may also collect call recordings related to support and customer service-related calls.
+
+_Usage Details._ We collect information about Customers’ usage of our Services, including IP address, Customer ID, email address, and other usage statistics. We do not collect usage details about Customer end users, except as necessary for support or to provide the Services requested by Customers (in which case we are a data processor of such data).
+
+When you visit our Sites, our server automatically collects certain browser or device generated information, which may in some cases constitute personal data, including but not limited to:  
+• your domain;  
+• your IP address;  
+• your date, time and duration of your visit;  
+• your browser type;  
+• your operating system;  
+• your page visits;  
+• information from third parties;  
+• other information about your computer or device; or  
+• Internet traffic.
+
+_De-identified Data._ We may de-identify and aggregate certain data we collect such that the data no longer identifies or can be linked to a particular customer or an individual data subject (“De-identified Data”), subject to the terms of any applicable customer agreements. We may use this data to improve our Services, analyze trends, publish market research, and for other marketing, research or statistical purposes, and may disclose such data to third parties for these specific purposes.
+
+_Other Data._ SolarWinds collects, uses and maintains certain data related to its business and the Services it provides to Customers, which is not personal data; this privacy notice does not restrict our use and processing of such data, including:
+
+**Cookies**
+
+_Our Sites use cookies._ More information about our use of cookies can be found in our cookie policy at <https://www.solarwinds.com/cookies>.
+
+**Use of Personal Data**
+
+The following is an overview of our purposes for using personal data that we process as a data controller. Additional details on how we process your personal data may be provided to you in a separate notice or contract.
+
+For individuals in the European Union, our processing (i.e. use) of your personal data is justified on the following legal bases:  
+• the processing is necessary to perform a contract with you or take steps to enter into a contract at your request;  
+• the processing is necessary for us to comply with a relevant legal obligation;  
+• the processing is in our legitimate interests, subject to your interests and fundamental rights, and notably our legitimate interest in using applicable data to conduct and develop our business activities; or  
+• you have consented to the processing.
+
+We use the personal data we collect to:  
+• conduct and develop our business with you and with others;  
+• process, evaluate and complete certain transactions involving the Sites, and more generally transactions involving SolarWinds’ Services;  
+• operate, evaluate, maintain, improve and develop the Sites (including by monitoring and analyzing trends, access to, and use of the Sites for advertising and marketing);  
+• evaluate, improve and develop our Services generally;  
+• customize our Sites to users’ needs;  
+• engage you about events, promotions, the Sites and SolarWinds’ Services;  
+• provide you with documentation or communications which you have requested;  
+• correspond with users to resolve their queries or complaints;  
+• provide you with any Services you request;  
+• send you marketing communications, where it is lawful for us to do so;  
+• protect and ensure safety of the Sites, SolarWinds confidential and proprietary information, and SolarWinds employees;  
+• manage, protect against and investigate fraud, risk exposure, claims and other liabilities, including but not limited to violation of our contract terms or laws or regulations.
+
+**Disclosure of Personal Data**
+
+SolarWinds is a global group of companies, and we may share personal data with our affiliated businesses as part of our business operations and administration of the Services. We may also appoint third party service providers (who will operate under our instructions) to assist us in providing information, products or services to you, in conducting and managing our business, or in managing and improving our Services or the Sites. SolarWinds may share your personal data with these affiliates and third parties to perform services that the third parties have been engaged by SolarWinds to perform on SolarWinds’s behalf, subject to appropriate contractual restrictions and security measures, or if we believe it is reasonably necessary to prevent harm or loss, or it believes that the disclosure will further an investigation of suspected or actual illegal activities.
+
+SolarWinds reserves the right to share any information that is not deemed personal data or is not otherwise subject to contractual restrictions.
+
+If personal data is transferred outside the EU to other SolarWinds group companies or to third party service providers, we will take steps to ensure that your personal data receives the same level of protection as if it remained within the EU, including by entering into data transfer agreements, using the European Commission approved Standard Contractual Clauses, or by relying on certification schemes such as the EU – US Privacy Shield. For transfers to other SolarWinds group companies in the United States (a country that has not received a decision from the European Commission determining that the United States provides adequate protection to personal data), we have put in place European Commission approved Standard Contractual Clauses, which protect personal data transferred between SolarWinds entities. You have a right to obtain details of the mechanism under which your personal data is transferred outside of the EU by contacting [privacy@solarwinds.com](https://web.archive.org/web/20180531203720id_/https://www.loggly.com/about/privacy-policy/privacy@solarwinds.com).
+
+We contractually require agents, service providers, and affiliates who may process personal data related to the Services to provide the same level of protections for personal data as required under the Principles. SolarWinds currently does not transfer personal data to a third party for the third party’s own use, but only for SolarWinds’ purposes as outlined above. SolarWinds will remain liable under the Principles if one of its third party processors processes personal data in a manner inconsistent with the Principles, if we are responsible for the event giving rise to the damage.
+
+**Other Disclosures**
+
+_Law Enforcement or National Security._ In accordance with our legal obligations, we may also transfer Customer Data, subject to a lawful request, to public authorities for law enforcement or national security purposes.
+
+_Additional Disclosures._ We may also disclose Customer Data (including any personal data), where otherwise required by law.
+
+_Business Transfers._ We may share personal data with third parties in connection with potential or actual sale of our company or any of our assets, or those of any affiliated company, in which case personal data held by us about our users may be one of the transferred assets.
+
+_Just-in-Time Disclosures._ Additional disclosures or information about processing of personal information related to specific websites, mobile applications, products, services, or programs may be provided to you. These may supplement and/or clarify SolarWinds privacy practices in specific circumstances and provide you with additional choices as to how SolarWinds may process your personal information.
+
+**Children**
+
+The Sites, Services and Portal are not for use by children under the age of 16 years and SolarWinds does not knowingly collect, store, share or use the personal data of children under 16 years. If you are under the age of 16 years, please do not provide any personal data, even if prompted by the Sites to do so. If you are under the age of 16 years and you have provided personal data, please ask your parent(s) or guardian(s) to notify SolarWinds and SolarWinds will delete all such personal data.
+
+**Marketing**
+
+Where lawful to do so, and subject to your consent where required, we may communicate with Customers (and related business contacts) about our Services. If you wish to unsubscribe from receiving marketing communications, please visit the Email Preference Center on our Site to request that we will stop sending you communications.
+
+**Security**
+
+SolarWinds aims to safeguard and protect your personal data from unauthorized access, improper use or disclosure, unauthorized modification or unlawful destruction or accidental loss, and SolarWinds utilizes and maintains certain reasonable processes, systems, and technologies to do so. However, you acknowledge that no environment is completely secure or error-free, and that these processes, systems, and technologies utilized and maintained by SolarWinds are subject to compromise. Accordingly, we cannot be held responsible for unauthorized or unintended access that is beyond our control.
+
+**Retention of Your Personal Data**
+
+We apply a general rule of keeping personal data only for as long as required to fulfil the purposes for which it was collected. However, in some circumstances, we may retain personal data for other periods of time, for instance where we are required to do so in accordance with legal, tax and accounting requirements, or if required to do so by a legal process, legal authority, or other governmental entity having authority to make the request, for so long as required.
+
+In specific circumstances, we may also retain your personal data for longer periods of time corresponding to a statute of limitation, so that we have an accurate record of your dealings with us in the event of any complaints or challenges.
+
+**External Links**
+
+The Sites may contain links to third party sites. Since SolarWinds does not control nor is responsible for the privacy practices of those websites, we encourage you to review the privacy policies of these third party sites. This Policy applies solely to personal data collected by our Sites or in the course of our business activities.
+
+**Your Rights**
+
+Subject to applicable law, you may have rights available to you in respect of your personal data, including:  
+• to obtain a copy of your personal data together with information about how and on what basis that personal data is processed;  
+• to rectify inaccurate personal data (including the right to have incomplete personal data completed);  
+• to erase your personal data (in limited circumstances, such as where it is no longer necessary in relation to the purposes for which it was collected or processed);  
+• to restrict processing of your personal data under certain circumstances  
+• to port your data in machine-readable format to a third party (or to you) when we justify our processing on the basis of your consent or the performance of a contract with you;  
+• to withdraw your consent to our processing of your personal data (where that processing is based on your consent); and  
+• to obtain, or see a copy of the appropriate safeguards under which your personal data is transferred to a third country or international organization.
+
+In addition to the above rights, you have the right to object, on grounds relating to your particular situation, at any time to any processing of your personal data for which we have justified on the basis of a legitimate interest, including profiling (as opposed to your consent) or to perform a contract with you. You also have the right to object at any time to any processing of your personal data for direct marketing purposes, including profiling for marketing purposes.
+
+You also have the right to lodge a complaint with your local supervisory authority for data protection.
+
+In relation to all of these rights, please contact us at [privacy@solarwinds.com](mailto:privacy@solarwinds.com). Please note that we may request proof of identity, and we reserve the right to charge a fee where permitted by law, especially if your request is manifestly unfounded or excessive. We will endeavor to respond to your request within all applicable timeframes.
+
+If you contact us regarding Customer Data for which we are a data processor, we will attempt to refer your request to the relevant Customer, and data controller for your personal data.
+
+**Privacy Shield Dispute Resolution.**
+
+We encourage EU and Swiss individuals who have questions or complaints about how we process their personal data under Privacy Shield to contact us at [privacy@solarwinds.com](https://web.archive.org/web/20180531203720id_/https://www.loggly.com/about/privacy-policy/privacy@solarwinds.com). We will work to resolve your issue as quickly as possible, but in any event, within 45 days of receipt.
+
+If you have an unresolved privacy or data use complaint that we have not addressed satisfactorily, please contact, free of charge, our dispute resolution provider, JAMS, at <https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim>.
+
+If you are an EU or Swiss individual and unable to resolve any complaints through any of the above methods, you may be able to invoke binding arbitration through a Privacy Shield panel, in accordance with the Privacy Shield Framework at <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>.
+
+**Contact information**
+
+If you have any questions in relation to this Notice, please contact us at: [privacy@solarwinds.com](mailto:privacy@solarwinds.com).
