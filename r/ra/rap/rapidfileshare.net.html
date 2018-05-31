@@ -1,194 +1,406 @@
-<!--The following is the downloaded HTML source of the rapidfileshare.net privacy policy that was archived on 2017-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171218022717id_/http%3A//www.rapidfileshare.net/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rapidfileshare.net privacy policy that was archived on 2018-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180531210109id_/http%3A//www.rapidfileshare.net/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<html><head>
+    <meta charset="UTF-8">
+    <meta http-equiv="content-Type" content="text-html; charset=UTF-8">                                                                     
+    <meta name="description" content="RapidFileShare - Free file upload service">
+    <meta name="keywords" content="file upload,share files,free upload">
+    <script language="JavaScript" type="text/javascript" charset="UTF-8" src="http://www.rapidfileshare.net/js/jquery-1.9.1.min.js"></script>
 
-<title>RapidFileShare - Easy way to share your files</title>
-<link rel="shortcut icon" href="favicon.ico"> 
-<!-- ssss main.html -- ssssmain.html -->
-<!--<link rel="stylesheet" type="text/css" href="http://www.rapidfileshare.net/main.css">-->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="JavaScript" type="text/javascript" charset="UTF-8" src="http://www.rapidfileshare.net/jquery-1.4.2.min.js"></script>
-<script language="JavaScript" type="text/javascript" charset="UTF-8" src="http://www.rapidfileshare.net/xupload.js?"></script>
-<!--script language="JavaScript" type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script-->
-<meta http-equiv="Content-Type" content="text-html; charset=UTF-8">
-<meta name="description" content="RapidFileShare - Free file upload service">
-<meta name="keywords" content="file upload,share files,free upload">
+    <link rel="stylesheet" href="http://www.rapidfileshare.net/css/bootstrap.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
 
-<link href="http://www.rapidfileshare.net/style/main.css" rel="stylesheet" type="text/css">
+    
+    <title>RapidFileShare - Easy way to share your files</title>
+    <link rel="shortcut icon" href="favicon.ico"> 
+    <link rel="stylesheet" type="text/css" href="http://www.rapidfileshare.net/xFilesharingTemplates-style/NewTheme.css">
+	
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <script type="text/javascript" src="http://www.rapidfileshare.net/js/jquery.paging.js"></script> 
+    <script type="text/javascript" src="http://www.rapidfileshare.net/js/jquery.cookie.js"></script> 
+    <script type="text/javascript" src="http://www.rapidfileshare.net/js/paging.js"></script> 
+    <script type="text/javascript" src="https://cdn.ywxi.net/js/1.js" async=""></script>
+    <script type="text/javascript">
+    $(document).ready(function() {
+           $("#showallarch").click(function() {
+               $(this).css('display', 'none'),
+            $("#fileinfoarch").css('height', '100%'),
+            $("#grad").css('display', 'none');
+           });
+       });
+   </script> 
+   <script type="text/javascript">
+      (function($) {
+   $(function() {
+
+      $('ul.tabs').on('click', 'li:not(.current)', function() {
+         var section = $(this).parents('div.section:first');
+         var idx = $(this).index();
+
+         $(this).addClass('current').siblings().removeClass('current');
+         $(section).find('> div.box').eq(idx).fadeIn(150).siblings('div.box').hide();
+         $.cookie($(section).attr('id') + 'tab', idx);
+      });
+
+      $('.section').each(function(i, e) {
+         if(!e.id) return;
+
+         var idx;
+         if(idx = $.cookie(e.id + 'tab'))
+         {
+            $(e).find('> ul > li').eq(idx).click();
+         }
+      });
+
+   })
+   })(jQuery)
+    </script>      
 
 
-<link rel="stylesheet" href="http://www.rapidfileshare.net/fonts/stylesheet.css" type="text/css" charset="utf-8">
 
-<script type="text/javascript" src="http://www.rapidfileshare.net/js/jquery-1.8.0.min.js"></script>
-
-
-<!-- javascript -->
-<!--conditional comments -->
-<!--[if IE]>  
-	<script src="http://www.rapidfileshare.net/js/html5.js"></script>
-<![endif]--> 
-
-<link rel="stylesheet" type="text/css" href="http://www.rapidfileshare.net/style/accordion.css">
-<script type="text/javascript" src="http://www.rapidfileshare.net/jquery-latest.js"></script>
-<link href="http://www.rapidfileshare.net/siteold.css" rel="stylesheet" type="text/css">
-<link rel="stylesheet" type="text/css" href="http://www.rapidfileshare.net/style/contact.css">
-<link rel="stylesheet" type="text/css" href="http://www.rapidfileshare.net/primuim/premium.css">
+<script type="text/javascript">
+      (function($) {
+	   $(function() {
+	
+		  $('ul#usermenu').on('click', 'li:not(.active)', function() {
+			 var section = $(this).parents('div.section:first');
+			 var idx = $(this).index();
+	
+			 $(this).addClass('active').siblings().removeClass('active');
+			 $(section).find('> div.box').eq(idx).fadeIn(150).siblings('div.box').hide();
+			 $.cookie($(section).attr('id') + 'tab', idx);
+		  });
+	
+		  $('.section').each(function(i, e) {
+			 if(!e.id) return;
+	
+			 var idx;
+			 if(idx = $.cookie(e.id + 'tab'))
+			 {
+				$(e).find('> ul > li').eq(idx).click();
+			 }
+		  });
+		  	
+	   })
+	   })(jQuery)
+     </script>
+	 
+<script type="text/javascript">
+ function showHide(obj) {
+   var div = document.getElementById(obj);
+   if (div.style.display == 'none') {
+     div.style.display = '';
+   }
+   else {
+     div.style.display = 'none';
+   }
+ }
+ </script> 
 
 <script type="text/javascript">
 $(document).ready(function(){
+    $("#m1").click(function(){
+	    $("#profile").show();
+       	$("#configure").hide();
+		 $("#settings").hide();
+		
+    });
+    $("#m4").click(function(){
+	       $("#profile").hide();
+       	$("#configure").show();
+		 $("#settings").hide();
+       
+    });
 	
-	//Set default open/close settings
-	$('.acc_container').hide(); //Hide/close all containers
-	$('.acc_trigger:first').addClass('active').next().show(); //Add "active" class to first trigger, then show/open the immediate next container
-
-	//On Click
-	$('.acc_trigger').click(function(){
-		if( $(this).next().is(':hidden') ) { //If immediate next container is closed...
-			$('.acc_trigger').removeClass('active').next().slideUp(); //Remove all .acc_trigger classes and slide up the immediate next container
-			$(this).toggleClass('active').next().slideDown(); //Add .acc_trigger class to clicked trigger and slide down the immediate next container
-		}
-		return false; //Prevent the browser jump to the link anchor
-	});
-
+	
+	 $("#m5").click(function(){
+	       $("#profile").hide();
+       	$("#configure").hide();
+		 $("#settings").show();
+       
+    });
+	
+	
+	
 });
 </script>
 
-<meta content="1" name="xfsme">
+<script type="text/javascript">
+   $(document).ready(function()
+   {
+   
+   
+  		if(window.location.href == "http://www.rapidfileshare.net/?op=my_account")
+  		{
+ 		
+		 $("#profile").show();
+       	$("#configure").hide();
+		 $("#settings").hide();
+       			 var element = document.getElementById("m1");
+  				 element.classList.add("active");
+
+		}
+    
+	if(window.location.href == "http://www.rapidfileshare.net/?op=my_account&sp=1")
+  		{
+ 		
+		 $("#profile").show();
+       	$("#configure").hide();
+		 $("#settings").hide();
+		   var element = document.getElementById("m1");
+  				 element.classList.add("active");
+
+		}
+		
+		
+		if(window.location.href == "http://www.rapidfileshare.net/?op=my_account&sp=3")
+  		{
+ 		
+		 $("#profile").hide();
+       	$("#configure").show();
+		 $("#settings").hide();
+		    var element = document.getElementById("m4");
+  				 element.classList.add("active");
+
+		}
+		
+		if(window.location.href == "http://www.rapidfileshare.net/?op=my_account&sp=5")
+  		{
+ 		
+		 $("#profile").hide();
+       	$("#configure").hide();
+		 $("#settings").show();
+		    var element = document.getElementById("m5");
+  				 element.classList.add("active");
+
+		}
+		
+		
+		
 
 
+   });
+  // Get URL
+  //var url = window.location.href;
+  // Get DIV
+  //var msg1 = document.getElementById("settings");
+  // Check if URL contains the keyword
+  //if( url.search( 'profile' ) > 0 ) {
+      // Display the message
+	     
+	   //  msg1.style.display = "none";
+	     
+	    //  alert("kkk");
+       
+  //}
+</script>
 
 </head>
-
 <body>
 
-<div id="bg">
-<div class="wrapper">
-<div id="top-bar">
-  <div id="top-bar-left"></div>
-    <div id="top-bar-middle">
 
-<!-- LANGUAGE button ssss -->
-	<span>
-		<div id="lang">
-			<ul>
-			<li class="top"><a href="http://www.rapidfileshare.net/?op=change_lang&amp;lang=english"><span class="trf trf-english"></span>English</a></li>
-			
-			<li><a href="http://www.rapidfileshare.net/?op=change_lang&amp;lang=russian"><span class="trf trf-russian"></span>Russian</a></li>
-			
-			<li><a href="http://www.rapidfileshare.net/?op=change_lang&amp;lang=german"><span class="trf trf-german"></span>German</a></li>
-			
-			<li><a href="http://www.rapidfileshare.net/?op=change_lang&amp;lang=french"><span class="trf trf-french"></span>French</a></li>
-			
-			<li><a href="http://www.rapidfileshare.net/?op=change_lang&amp;lang=arabic"><span class="trf trf-arabic"></span>Arabic</a></li>
-			
-			<li><a href="http://www.rapidfileshare.net/?op=change_lang&amp;lang=turkish"><span class="trf trf-turkish"></span>Turkish</a></li>
-			
-			<li><a href="http://www.rapidfileshare.net/?op=change_lang&amp;lang=polish"><span class="trf trf-polish"></span>Polish</a></li>
-			
-			<li><a href="http://www.rapidfileshare.net/?op=change_lang&amp;lang=thai"><span class="trf trf-thai"></span>Thai</a></li>
-			
-			<li><a href="http://www.rapidfileshare.net/?op=change_lang&amp;lang=spanish"><span class="trf trf-spanish"></span>Spanish</a></li>
-			
-			<li><a href="http://www.rapidfileshare.net/?op=change_lang&amp;lang=japan"><span class="trf trf-japan"></span>Japan</a></li>
-			
-			<li><a href="http://www.rapidfileshare.net/?op=change_lang&amp;lang=hungary"><span class="trf trf-hungary"></span>Hungary</a></li>
-			
-			<li><a href="http://www.rapidfileshare.net/?op=change_lang&amp;lang=indonesia"><span class="trf trf-indonesia"></span>Indonesia</a></li>
-			
-			<li><a href="http://www.rapidfileshare.net/?op=change_lang&amp;lang=dutch"><span class="trf trf-dutch"></span>Dutch</a></li>
-			
-			<li><a href="http://www.rapidfileshare.net/?op=change_lang&amp;lang=hebrew"><span class="trf trf-hebrew"></span>Hebrew</a></li>
-			
-			</ul>
+   
+   
+   
+   
+   <div class="clear"></div>
+   
+<!-- Start Login popup -->  
+<div id="hidden_div" style="display: none;" class="loginbox">
+	<div class="inner">
+		<form method="POST" action="http://www.rapidfileshare.net/" name="FL">
+		<input type="hidden" name="op" value="login">
+		<input type="hidden" name="token" value="">
+		<input type="hidden" name="rand" value="">
+		<input type="hidden" name="redirect" value="">
+		<div>
+			<input type="text" name="login" value="" class="myForm" style="width:100%;" placeholder="Username">
 		</div>
-</span>
+		<div>
+			<input type="password" name="password" class="myForm" style="width:100%;" placeholder="Password">
+		</div>
+		<div></div>
+		<div>
+			<div style="float:left; width:40%; padding-top:0px;"><i class="fa fa-unlock-alt" style="background:#106aa8; padding:8px 10px 9px 9px; border:1px solid #106aa8; border-radius:3px 0px 0px 3px; border-right:0px; float:left; color:#fff;"></i><input type="submit" value=" LOGIN " style=" border-radius:0px 3px 3px 0px; border:0px solid #3fc6f2; background:#3fc6f2; color:#106aa8; padding:0px 10px 0px 10px; float:left; text-shadow: 0 0px 0 #116583; box-shadow: 0 0 0px #1b7899 inset; height:31px; margin-left:0px; margin-top:0px; font-size:14px;"></div>
+			<div style="float:right; width:55%; padding-top:5px; text-align:right;"><a href="http://www.rapidfileshare.net/?op=forgot_pass">forgot password?</a></div>
+		</div>
+		</form>
+	</div>
+</div>  
+<!-- End Login popup -->
+  
+<!-- Sidenav slide menu start -->
+<script>
+function openNav() {
+    document.getElementById("mySidenav").style.width = "100%";
+}
 
+function closeNav() {
+    document.getElementById("mySidenav").style.width = "0";
+}
+</script>
 
-<!--Ads here (ssss area above the black login bar at very top)-->
-
-
-<!-- somehow this does not look right for the news-->
-
-
-
-
-
-<span>Already a member ?</span>
-<a href="http://www.rapidfileshare.net/login.html" class="btn-signinout">Login</a> 
-<span>New user register here</span>
-<a href="http://www.rapidfileshare.net/?op=registration" class="btn-signinout">Sign Up</a>
-
-<!-- Ads here (ssss this area is seen by unregistered users and appears to be to the side of the login bar at the top, but it is up there at the top) -->
-
-
+<div id="mySidenav" class="sidenav">
+	<a href="javascript:void(0)" class="closebtn" onclick="closeNav()" style="font-size:36px!important; border-bottom:0px;color:#fff;">×</a>
+	<div id="logo" style="float: left; margin-bottom:20px; margin-top:0px; background-position:center; width:100%;" onclick="location.href='http://www.rapidfileshare.net';"></div>
+	
+	
+	<a href="http://www.rapidfileshare.net/?op=upload_form" style="color:#8fb33e;"><i class="fa fa-upload"></i> Upload</a>
+	
+    <a href="http://www.rapidfileshare.net/login.html"><i class="fa fa-unlock-alt"></i> Login</a>
+    <a href="http://www.rapidfileshare.net/register.html"><i class="fa fa-user-plus"></i> Sign Up</a>
+    
+	
+	
+   	<a href="http://www.rapidfileshare.net/contact.html"><i class="fa fa-envelope"></i> Contact</a>
+	<a href="http://www.rapidfileshare.net/?op=news"><i class="fa fa-newspaper-o"></i> News</a>			   
+   	
+	<a href="http://www.rapidfileshare.net/?op=payments"><i class="fa fa-star"></i> Premium</a>
+	
+    <a href="http://www.rapidfileshare.net/make_money.html"><i class="fa fa-usd"></i> Make Money</a>
+	
+	
 </div>
 
-<div id="top-bar-right"></div>
-<div class="clearfix"></div>
-<!-- end ssssnewsmove -->
-<!--end ssssnewsmove -->
-</div><!--END TOP BAR-->
-	  <div id="logo-bar">
-             <div id="logo"><a href="http://www.rapidfileshare.net"><img src="http://www.rapidfileshare.net/images/logo.png" width="400" height="86" alt="Rapidfileshare Logo"></a>
-              </div><!--END LOGO-->
-              
-              <div id="nav">
-                 <ul>
-                    <li id="upload"><span></span><a href="http://www.rapidfileshare.net/upload.html">Upload Files</a></li>
-                    <li id="send"><span></span><a href="http://www.rapidfileshare.net/emailfile.html">Email File</a></li>
-                    <li id="faq"><span></span><a href="http://www.rapidfileshare.net/faq.html">FAQ</a></li>
-                    <li id="contact"><span></span><a href="http://www.rapidfileshare.net/contact.html">Contact Us</a></li>
-                    <li id="nav-premium"><span></span><a href="http://www.rapidfileshare.net/premium.html">Premium</a></li>
-                 </ul>
-              </div><!--END NAV-->
-              <div class="clearfix"></div>
-          </div>
-<!-- for button menu highlights ssss -->
-<script type="text/javascript">
-
-var str = window.location.href;
+<!-- Sidenav slide menu end -->
 
 
-var patt=/faq.html/g;
-var patt1=/contact.html/g;
-var patt2=/premium.html/g;
-var patt3=/op=payments/g;
 
-var result=patt.test(str);
-var result1=patt1.test(str);
-var result2=patt2.test(str);
-var result3=patt3.test(str);
-
-if(result){
-
-	document.getElementById("faq").setAttribute("class", "nav-active");			
-}
-if(result1){
-
-	document.getElementById("contact").setAttribute("class", "nav-active");		
-}
-if(result2 || result3){
-
-	document.getElementById("nav-premium").setAttribute("class", "nav-active");		
-	document.getElementById("nav-premium").removeAttribute("id", "");		
-}
-if(str=="http://www.rapidfileshare.net/upload.html"){
-
-	document.getElementById("upload").setAttribute("class", "nav-active");
-}
-if(str=="http://www.rapidfileshare.net/emailfile.html"){
-
-	document.getElementById("send").setAttribute("class", "nav-active");
-}
-
- </script>
-
-      <div class="clearfix"></div>
-	   <div class="content-area">
-
-        
-<!-- ssss next template? -->
-<div id="upload-header-bg">
+<div class="wrapper">
+   <div id="header">
+      <div class="container1">
+	  	 <!--start logo-->
+         	<div id="logo" style="float:left;" onclick="location.href='http://www.rapidfileshare.net';"></div>
+			
+			
+			
+			
+		 <!--end logo-->
+         <div id="mainmenu"><!--start main menu-->
+		 <span class="open" onclick="openNav()">☰</span>
+            <ul class="mainMenu">
+               <li class="upload"><a href="http://www.rapidfileshare.net/?op=upload_form"><i class="fa fa-upload"></i> Upload</a></li>
+               
+               
+               <li><a href="#" onclick="showHide('hidden_div'); return false;"><i class="fa fa-unlock-alt"></i> Login</a></li>
+               <li><a href="http://www.rapidfileshare.net/register.html"><i class="fa fa-user-plus"></i> Sign Up</a></li>
+               
+			   <li><a href="http://www.rapidfileshare.net/contact.html"><i class="fa fa-envelope"></i> Contact</a></li>
+			   <li><a href="http://www.rapidfileshare.net/?op=news"><i class="fa fa-newspaper-o"></i> News</a></li>
+               
+               <li><a href="http://www.rapidfileshare.net/?op=payments"><i class="fa fa-star"></i> Premium</a></li>
+               
+			   <li><a href="http://www.rapidfileshare.net/make_money.html"><i class="fa fa-usd"></i> Make Money</a></li>
+               
+            </ul>
+            <div id="language">
+               <ul>
+                  <li>
+                     <a>
+                        <span class="trf trf-english"></span>
+                     </a>
+                     <ul>
+                        
+                        <li>
+                           <a href="http://www.rapidfileshare.net/?op=change_lang&amp;lang=russian">
+                              <span class="trf trf-russian"></span><!--<span class="langname">Russian</span>-->
+                           </a>
+                        </li>
+                        
+                        <li>
+                           <a href="http://www.rapidfileshare.net/?op=change_lang&amp;lang=german">
+                              <span class="trf trf-german"></span><!--<span class="langname">German</span>-->
+                           </a>
+                        </li>
+                        
+                        <li>
+                           <a href="http://www.rapidfileshare.net/?op=change_lang&amp;lang=french">
+                              <span class="trf trf-french"></span><!--<span class="langname">French</span>-->
+                           </a>
+                        </li>
+                        
+                        <li>
+                           <a href="http://www.rapidfileshare.net/?op=change_lang&amp;lang=arabic">
+                              <span class="trf trf-arabic"></span><!--<span class="langname">Arabic</span>-->
+                           </a>
+                        </li>
+                        
+                        <li>
+                           <a href="http://www.rapidfileshare.net/?op=change_lang&amp;lang=turkish">
+                              <span class="trf trf-turkish"></span><!--<span class="langname">Turkish</span>-->
+                           </a>
+                        </li>
+                        
+                        <li>
+                           <a href="http://www.rapidfileshare.net/?op=change_lang&amp;lang=polish">
+                              <span class="trf trf-polish"></span><!--<span class="langname">Polish</span>-->
+                           </a>
+                        </li>
+                        
+                        <li>
+                           <a href="http://www.rapidfileshare.net/?op=change_lang&amp;lang=thai">
+                              <span class="trf trf-thai"></span><!--<span class="langname">Thai</span>-->
+                           </a>
+                        </li>
+                        
+                        <li>
+                           <a href="http://www.rapidfileshare.net/?op=change_lang&amp;lang=spanish">
+                              <span class="trf trf-spanish"></span><!--<span class="langname">Spanish</span>-->
+                           </a>
+                        </li>
+                        
+                        <li>
+                           <a href="http://www.rapidfileshare.net/?op=change_lang&amp;lang=japan">
+                              <span class="trf trf-japan"></span><!--<span class="langname">Japan</span>-->
+                           </a>
+                        </li>
+                        
+                        <li>
+                           <a href="http://www.rapidfileshare.net/?op=change_lang&amp;lang=hungary">
+                              <span class="trf trf-hungary"></span><!--<span class="langname">Hungary</span>-->
+                           </a>
+                        </li>
+                        
+                        <li>
+                           <a href="http://www.rapidfileshare.net/?op=change_lang&amp;lang=indonesia">
+                              <span class="trf trf-indonesia"></span><!--<span class="langname">Indonesia</span>-->
+                           </a>
+                        </li>
+                        
+                        <li>
+                           <a href="http://www.rapidfileshare.net/?op=change_lang&amp;lang=dutch">
+                              <span class="trf trf-dutch"></span><!--<span class="langname">Dutch</span>-->
+                           </a>
+                        </li>
+                        
+                        <li>
+                           <a href="http://www.rapidfileshare.net/?op=change_lang&amp;lang=hebrew">
+                              <span class="trf trf-hebrew"></span><!--<span class="langname">Hebrew</span>-->
+                           </a>
+                        </li>
+                        
+                     </ul>
+                  </li>
+               </ul>
+            </div>
+         </div>   
+      </div><!--end main menu-->   
+   </div> <!--end header-->
+   
+   <div class="clear"></div>
+   
+   <div class="clear"></div>
+   
+   <div id="container">
+   
+   		
+   		<div class="innerpart">
+			
+				
+   			<div id="upload-header-bg">
          <div id="faq-header">Privacy Policy</div>
        </div><!--END UPLOAD HEADER-->
 
@@ -280,114 +492,92 @@ if(str=="http://www.rapidfileshare.net/emailfile.html"){
 
 
 
-
-
-
-
-
- <div id="footer">
-        <!-- <div id="footer-left">
-            &copy Copyright 2013<br>
-            <a href="http://www.rapidfileshare.net"> <img src="http://www.rapidfileshare.net/images/logo-footer2.jpg" width="200" height="58" alt="" ></a>
-         </div> ssss disabled left footer, put copyright on right side and centered the right footer-->
-         
-         <div id="footer-right">
-            <!--<a class="btn-signinout" href="http://www.rapidfileshare.net/?op=registration">Sign Up</a> -->
-            
-            <a href="http://www.rapidfileshare.net/upload.html">Upload Files</a>
-
-            <a href="http://www.rapidfileshare.net/emailfile.html">Email File</a>
-			
-            <a href="http://www.rapidfileshare.net/faq.html">FAQ</a>
-            <a href="http://www.rapidfileshare.net/contact.html">Contact Us</a>
-			<a href="http://www.rapidfileshare.net/premium.html">Premium</a>  
-            <p>
-            <a href="http://www.rapidfileshare.net/tos.html">Terms Of Service</a>  |
-            <a href="http://www.rapidfileshare.net/privacy.html">Privacy Policy</a>  |  
-            <a href="http://www.rapidfileshare.net/dmca.html">DMCA</a>  |  
-            <a href="http://www.rapidfileshare.net/?op=news">News</a>  
-            |<a href="http://www.rapidfileshare.net/?op=forgot_pass">Forgot your password?</a>   | 
-            &nbsp; © Copyright 2015, RFS.net
-            </p> 
-            
-<!-- not usefull 
-<a href="https://www.privateinternetaccess.com/pages/buy-vpn/NETGRID001" title="Buy VPN"><img border="0" src="https://www.privateinternetaccess.com/affiliates/banners/short-long.png" alt="Buy VPN"></a> -->
-         </div>
-         <div class="clearfix"></div>
+	
+		</div>   
+   </div>
+   <div class="buy_prem">
+		Get Unlimited Storage Space, Fastest Download Speed, No Ads &amp; much more 
   </div>
+	<div class="feature_banners">
+		<div class="coll-md-3">
+			<div class="feature">
+				<div class="icon"><img src="http://www.rapidfileshare.net/xFilesharingTemplates-images/ico1.png" alt=""></div>
+				<h4>High Speed</h4>
+				<div class="title-line"></div>
+				<p>We constantly upgrade our network for performance to guarantee the fastest download speeds for our clients.</p>
+			</div>
+		</div>
+		<div class="coll-md-3 gap">
+			<div class="feature">
+				<div class="icon"><img src="http://www.rapidfileshare.net/xFilesharingTemplates-images/ico2.png" alt=""></div>
+				<h4>Safe &amp; Secure</h4>
+				<div class="title-line"></div>
+				<p>We value security and safety very highly; all files are stored on our secure, redundant servers located around the world.</p>
+			</div>
+		</div>
+		<div class="coll-md-3">
+			<div class="feature">
+				<div class="icon"><img src="http://www.rapidfileshare.net/xFilesharingTemplates-images/ico3.png" alt=""></div>
+				<h4>Userfriendly &amp; Responsive</h4>
+				<div class="title-line"></div>
+				<p>We have the most intuitive easy to use interface that works very efficiently and quickly to ensure productivity is optimal for you.</p>
+			</div>
+		</div>
+	</div>
 
-
-</div>
-</div>
-
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-32991656-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-
-
-
-function changeUploadType(utype)
-{
-
-
-
-	var str = window.location.href;
-
-	if(str!='http://www.rapidfileshare.net/upload.html') {
-	
-		if(str!='http://www.rapidfileshare.net/upload.html#') {
-
-		if(utype=='url'){
-		
-			location.href='http://www.rapidfileshare.net/upload.html';
-
-			}
-		}
-	}
-
-		document.getElementById("upload").setAttribute("class", "nav-active");	
-		document.getElementById("r_file").removeAttribute("class", "active");	
-		//document.getElementById("send").setAttribute("class", "nav-active");	
-		//document.getElementById("r_url").setAttribute("class", "active");	
-	
-	if(utype=='url'){
-
-		document.getElementById("fileu").setAttribute("class", "info-fup");
-		document.getElementById("remoteu").setAttribute("class", "info-rup");
-
-		}else{
-		
-		document.getElementById("fileu").setAttribute("class", "info-fup-act");
-		document.getElementById("remoteu").setAttribute("class", "info-rup-act");
-		document.getElementById("upload").setAttribute("class", "nav-active");
-		document.getElementById("send").removeAttribute("class", "nav-active");	
-
-		}
-
-		$$('div_file').style.position='absolute';
-		if($$('div_url'))$$('div_url').style.position='absolute';
-		if($$('div_rs'))$$('div_rs').style.position='absolute';
-		if($$('div_tt'))$$('div_tt').style.position='absolute';
-		if($$('div_ff'))$$('div_ff').style.position='absolute';
-		$$('div_'+utype).style.position='static';
-		$('#utmodes > input.active').removeClass('active');
-		$('#r_'+utype).addClass('active');
-
-	
-}
-
-</script>
-
-
+<div class="page-buffer"></div>
+<div class="clear"></div>
+<footer>
+   	<div class="container1">
+      	<div id="fmenu"><!--start footer menu-->
+	  		<ul>
+				<li><i class="fa fa-upload"></i> <a href="http://www.rapidfileshare.net">Upload</a></li>
+				
+				<li><i class="fa fa-user-plus"></i> <a href="http://www.rapidfileshare.net/register.html">Sign Up</a></li>
+				<li><i class="fa fa-unlock-alt"></i> <a href="http://www.rapidfileshare.net/?op=login">Login</a></li>
+				
+				<li><a href="http://www.rapidfileshare.net/?op=news"><i class="fa fa-newspaper-o"></i> News</a></li>
+			</ul>
+			<ul>
+				<li><i class="fa fa-question"></i> <a href="http://www.rapidfileshare.net/faq.html">FAQ</a></li>
+				<li><i class="fa fa-file-text-o"></i> <a href="http://www.rapidfileshare.net/tos.html">Copyright</a></li>
+				<li><i class="fa fa-envelope"></i> <a href="http://www.rapidfileshare.net/contact.html">Contact</a></li>
+			</ul>
+			<ul>
+				<li><i class="fa fa-usd"></i> <a href="http://www.rapidfileshare.net/make_money.html">Make Money</a></li>
+				<li><i class="fa fa-star"></i> <a href="http://www.rapidfileshare.net/premium.html">Premium</a></li>				
+				<li><i class="fa fa-flag"></i> <a href="http://www.rapidfileshare.net/child-abuse.html">Child Abuse</a></li>
+			</ul>
+			<ul>
+				<li><i class="fa fa-bullhorn"></i> <a href="http://www.rapidfileshare.net/advertise.html">Advertise</a></li>
+				<li><i class="fa fa-picture-o"></i> <a href="http://www.rapidfileshare.net/banners.html">Banners</a></li>
+				<li><i class="fa fa-gavel"></i> <a href="http://www.rapidfileshare.net/dmca.html">DMCA</a></li>
+			</ul>
+      </div>
+      	<div class="copyright">
+	  		<div class="innerr">
+	  		<div>
+				<a href="#"><img src="http://www.rapidfileshare.net/xFilesharingTemplates-images/logo_white.png" width="101px" height="24px" alt=""></a>
+			</div>
+			<div>
+				<a href="#"><i class="fa fa-facebook-square fa-2x"></i></a>
+				<a href="#"><i class="fa fa-twitter-square fa-2x"></i></a>
+				<a href="#"><i class="fa fa-google-plus-square fa-2x"></i></a>
+				<a href="#"><i class="fa fa-instagram fa-2x"></i></a>
+				<a href="#"><i class="fa fa-youtube-play fa-2x"></i></a>
+			</div>
+         	<div style=" color:#dcdbdb; font-size:12px; font-family:'Candara'; line-height:13px;">2018 © RapidFileShare, All rights reserved.<br>
+			<span style="color:#aeadae; display:none;">Designed &amp; Developed by <a href="http://www.xfilesharingtemplates.com/" style="color:#3fc6f2;">www.xFileSharingTemplates.com</a></span>
+			</div> 
+      		</div>
+		</div>
+		<!-- (c) 2005, 2018. Authorize.Net is a registered trademark of CyberSource Corporation --> 
+		<div class="AuthorizeNetSeal"> 
+			<script type="text/javascript" language="javascript">var ANS_customer_id="0d7968f8-e7c4-4a33-8067-45a52ba9fd6d";</script> 
+			<script type="text/javascript" language="javascript" src="//verify.authorize.net/anetseal/seal.js"></script> 
+		</div>
+   	</div>
+</footer>
 
 
 </body></html>
