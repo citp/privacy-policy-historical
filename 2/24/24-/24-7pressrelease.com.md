@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the 24-7pressrelease.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920011109id_/http%3A//www.24-7pressrelease.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 24-7pressrelease.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531080402id_/http%3A//www.24-7pressrelease.com/privacy_policy) for the most accurate reproduction.*
 
 # Press Release Service Privacy Policy - 24-7 Press Release
+
+* * *
 
 24-7 Press Release Newswire takes privacy seriously. As a leading press release distribution service, we are committed to establishing and maintaining policies and procedures which protect the privacy of personal information gathered from our customers, prospects and other visitors to our website.
 
@@ -36,4 +38,4 @@ From time to time, we may make changes to this privacy policy. To keep up to dat
 
 ### Contacting Us
 
-If you have any questions about this privacy statement or the practices of this site, you may [contact us](https://web.archive.org/contact_us.php) by sending us an email.
+If you have any questions about this privacy statement or the practices of this site, you may [contact us](https://web.archive.org/contact_us) by sending us an email.
