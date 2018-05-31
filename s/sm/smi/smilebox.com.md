@@ -1,176 +1,203 @@
-> *The following text is extracted and transformed from the smilebox.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221214247id_/http%3A//www.smilebox.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smilebox.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531092044id_/http%3A//www.smilebox.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **_Smilebox Privacy Policy_**
 
-Last updated on June 14th 2017
+Last updated on May 22th 2018
 
-THIS PRIVACY STATEMENT EXPLAINS THE INFORMATION, COLLECTION AND USE POLICIES OF SMILEBOX, INC. AND ANY OF ITS AFFILIATED COMPANIES (" **SMILEBOX** ", “ **WE** ” or “ **US** ”) WITH RESPECT TO THE WEBSITES, SERVICES, PRODUCTS, TECHNOLOGY, SOFTWARE AND/OR SOFTWARE COMPONENTS (COLLECTIVELY, THE " **SOFTWARE & SERVICES**") OF SMILEBOX THAT YOU INSTALL, USE, ACCESS OR INTERACT WITH ("USE"), BUT EXCLUDES SOFTWARE AND/OR SERVICES THAT HAVE SEPARATE PRIVACY POLICIES THAT DO NOT INCORPORATE THIS PRIVACY POLICY. BY INSTALLING, USING, ACCESSING AND INTERACTING WITH THE SOFTWARE & SERVICES, YOU CONSENT TO THE DATA PRACTICES AND INFORMATION COLLECTION AS DESCRIBED IN THIS STATEMENT. SMILEBOX IS COMMITTED TO PRESERVING THE PRIVACY OF ITS USERS. THIS PRIVACY STATEMENT EXPLAINS WHAT INFORMATION WE MAY COLLECT AND HOW WE MAY USE IT.IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS SET FORTH HEREIN, DO NOT USE THE SOFTWARE & SERVICES.
+This privacy statement ( **“Privacy Policy”** ) explains the information, collection and use policies of Smilebox, Inc. and any of its affiliated companies ("Smilebox", “we”, “our” or “us”) with respect to the websites, services, products, technology, software and/or software components (collectively, the "Software & Services") of Smilebox that you install, use, access or interact with ("use"), but excludes software and/or services that have separate privacy policies that do not incorporate this privacy policy. 
 
-This Privacy Policy explains how Smilebox treats your information and protects your privacy when you Use the Software & Services and the rights and options available to you regarding your information. Smilebox believes that you have a right to know our practices regarding the information we may collect and use when you Use the Software & Services. The Software & Services may include various features and content that are offered and delivered to you by us and/or by third parties, such as news, messages, advertisements and games, as well as features and content that you may choose to add (“ **Content** ”). The issues covered under this Privacy Policy:
+We believe strongly in protecting the privacy of information entrusted to us. We acknowledge that you may have privacy and security concerns with respect to the information we collect, use, and disclose to third parties for the purpose of allowing us to offer and provide our Software & Services, so we have provided this Privacy Policy to explain, in as clear and plain language as possible, how we collect and use information. You will also find an explanation of certain rights you have (see the “Your Rights” Section) in respect of your Personal Information.
 
-_**
-  * Information Smilebox Collects and Receives;
-  * How Smilebox Uses Your Information;
-  * Sharing Information with Third Parties;
-  * Third-Party Content;
-  * Social Networks;
-  * Cookies and Other Technologies;
-  * Children;
-  * Access;
-  * Data Retention;
-  * Transfer of Data Outside Your Territory;
-  * Information Security;
-  * Do Not Track;
-  * Changes to This Privacy Policy;
+Please read this Privacy Policy carefully, before using the Software & Services, so you can fully understand our practices in relation to Personal Information, before we begin processing your information. 
+
+This Privacy Policy provides you with information about:
+
+  * Information Smilebox Collects and Receives.
+  * How Smilebox Uses Your Information.
+  * Additional Sharing of PII with Third Parties.
+  * Transferring Personal Information From and Outside of the European Union.
+  * Third-Party Content
+  * Third Party Advertisers, Cookies and Other Technologies.
+  * Minors.
+  * Your Rights.
+  * How we Protect your Information.
+  * Do Not Track.
+  * Complaints.
+  * Notice to Californian Residents – Your California Privacy Rights.
+  * Changes to This Privacy Policy. 
   * How to Contact Smilebox.
-**_ 
 
 
-**_Information Smilebox Collects and Receives_.**
+
+Information Smilebox Collects and Receives
 
 When you Use the Software & Services, we automatically collect and store the following types of information: 
 
-  * _Technical Information_. Certain technical information regarding your device, and your Use of the Software & Services and other third party software and applications installed on your device (the **"Other Software"** ), including the type, name and version of operating system and Other Software including, without limitation, their interactions with the Software & Services, ISP (Internet Service Provider), device type and version number, hardware version, location, Internet protocol (IP) address, anonymous user identifiers such as cookies and similar web technologies, device configuration and identifiers (IDFA (Identifier for Advertisers used in IOS), Advertising ID (Identifier for Advertisers used in Android) and the like), version of the Software & Services, and your configuration and settings of the device and the Software & Services, including language and time zone;
-  * _Usage Information_. Certain usage related information regarding your use and interaction with your device, including the Software & Services and Other Software, such as when and how you Use the Software & Services and Other Software, how you use your internet browser and internet search related applications, the web pages you visit, applications you use and the content you see, access and utilize on such web pages and applications; for example, offerings and advertisements that you view, use and access, how you use them and your response to them, (ie. clickstream data), how frequently you use them, your search queries and the time and date of your searches; 
-  * _Social Networks_. Your interactions on social networks through the Software & Services;
-  * _Service-Related Information_. You may provide us with various single and multimedia content forms in order to Use certain features of the Services, including, without limitation, text, audio, still images, animation, video and other interactivity content forms. In addition, you may provide us with your mobile phone number so as to enable you to export media from your mobile device for use on the Software & Services. Such content on its own may identify you, or when combined with other information we collect under the Privacy Policy may identify you. You may also provide us with names, emails and other data concerning friends, family and other contacts of yours to whom you would like to send and/or share certain elements of the Software & Services such as your slideshows, pictures etc.; 
-  * _Registration and Transaction Related Information_. Information you provide when you register for the Software & Services (if applicable), such as name, home or work addresses, e-mail address, telephone and fax numbers, birth date and gender, or when you a purchase a product a service such as credit card or other preferred means of payment (that we maintain in encrypted form on industry secure servers), billing or shipping information, or a history of products purchased through the Software & Services; and
-  * _Support Related Information_. If you communicate with us via our support section or via email, we may also collect your email address, name and any information voluntarily submitted by you in connection with such support (for example, your name, company name, and particular support query or request). Such information will only be used to provide you with support services and will not be connected with any other information collected from you on or through the Software & Services, including, any individual User ID (as defined below) generated or collected by us.
+  * _Registration and Login Information_. Information you provide when you register to and open the Software & Services including your name, address, e-mail address, telephone number, profile picture and your preferred language. You can also register and login to the Software & Services using your Facebook account. We will receive from Facebook your name, email address, date of birth, profile picture and country of origin, depending on your settings in your Facebook account. 
+  * _Payment Information_. When you a purchase a product or service, the last four digits of your credit card number and date of expiration, or details of other preferred means of payment (that we maintain in encrypted form on industry secure servers).
+  * _Purchasing History_. Your history of product purchases through the Software & Services.
+  * _Service-Related Information_. You may provide us with various single and multimedia content forms in order to Use certain features of the Software & Services, including, without limitation, text, audio, still images, animation, video and other interactivity content forms. In addition, you may provide us with your mobile phone number to enable you to export media from your mobile device for use on the Software & Services. Such content on its own may identify you, or when combined with other information we collect under the Privacy Policy may identify you. You may also provide us with names, emails and other data concerning friends, family and other contacts of yours to whom you wish to send and/or share certain Service-Related Information such as your slideshows and other related formats of creations which you generated.
+  * _Technical Information_. Certain technical information regarding your device, and your Use of the Software & Services and other third party software and applications installed on your device (the “Other Software”), including the device type and version number, the type, name and version of operating system and Other Software including, without limitation, their interactions with the Software & Services, ISP (Internet Service Provider), hardware version, location, Internet protocol (IP) address, anonymous user identifiers such as cookies and similar web technologies, device configuration, version of the Software & Services, and your configuration and settings of the device and the Software & Services, including language and time zone.
+  * _Support Related Information_. If you communicate with us via our support section or via email, we may also collect your email address, name and any information voluntarily submitted by you in connection with such support (for example, your name, company name, and particular support query or request).
 
 
 
-When you Use the Software & Services, we automatically generate an anonymous internal user ID which is assigned to your use of the Software & Services (the **"User ID"** ) and may be combined with any of the above information including data that may include personally identifiable information or personal data as such terms are defined under applicable laws ( **“PII** ”). 
+How Smilebox Uses Your Information
 
-**_How Smilebox Uses Your Information_.**
+Smilebox processes your information on the basis that it is a data controller of the PII. This is how we use this information: 
 
-Smilebox uses the information it collects for analytical, business and operational purposes in the following ways:
+  * _1\. To register for and use the Software & Services_
+    * Smilebox uses your Registration and Login Information to open your account and enable your use of the Software & Services. In addition, Smilebox uses your Technical Information to enable your use of the Software and Services including resolving and addressing production issues amongst our users. We also use your Service-Related Information to allow you to create slideshows and other related formats of creations through the Software & Services, and to send those to your family and friends.
+    * We process most of this data on the basis of performance of the contract with you for the use of the Software & Services, except for your profile picture which we process on the basis of your consent when you open an account with us.
+    * Except for your profile picture, if you do not provide us with all the Registration and Login information, we cannot perform our contract with you.
+    * We will retain your Registration and Login Information for the amount of time that you have an open account on the Software & Services.
+    * For this purpose, we use a number of service providers to assist us in providing the Software & Services which have access to this information. Such service providers include hosting and backup providers, printing services, cloud services, analytics and feedback services and ISPs.
+  * _2\. To process payments for purchases made on the Software & Services._
+    * Smilebox uses certain of your Registration and Login Information and Payment Information to process payments for products and services you purchased on the Software & Services.
+    * We process this data on the basis of performance of a contract with you.
+    * If you do not provide us with this information, we cannot complete your purchase and provide you with the product or service you acquired.
+    * We will retain this information for five (5) years from last login to the Software, or as soon as the user requests it from us, the earlier of the two.
+    * For this purpose, we use a payment processing service provider to process your payments who will have access to this information for this purpose.
+  * _3\. Support, Complaints and Feedback_
+    * We use Support Related Information and Technical Information to provide you with support and handle your complaints and feedback. If you have an account with us, we will combine this information with other information we have about you.
+    * We process this data on the basis of a legitimate interest and performance of a contract with you.
+    * If you do not provide us with this information, we cannot adequately provide you with the support and feedback you require.
+    * We will retain this information for up to 120 days.
+    * For this purpose, we use a third party service provider who will have access to your Support Related Information and Registration and Login Information. This information is required for them to property address your requests for support, your complaints and feedback.
+  * _4\. Direct Marketing._
+    * After you have opened an account on the Software & Services (ie. an existing customer of the Software & Services), we use your name, email address, and Purchasing History to send you marketing and commercial messages. These messages will contain personalized content which may include interest-based information, online ads or other marketing learnt from your use of the Software & Services.
+    * We process this data on the basis of a legitimate interest (to the extent that we have a relationship with you in connection with your interest in or use of the Software & Services) or your consent when you actively check the checkbox to receive such communications on registration to the Software & Services.
+    * Please note that you have the right to object at any time to processing of your PII for such purposes at any time. You can ask us to stop sending email marketing, by following the 'unsubscribe' link you will find on all the email marketing messages we send you. Alternatively, you can contact us at the contact details below under the heading “How to Contact Smilebox”.
+    * We will retain this information for the amount of time that you have an open account on the Software & Services or until you object to the processing of your PII for this purpose, whichever is the earlier.
+    * For direct marketing purposes, we use third party service providers such as email service providers and marketing platforms, email verifiers and push notification services.
+  * _5\. Advertising on the Software & Services._
+    * Smilebox and/or its partners use cookies and other tracking technologies to track and measure various performance and demographic parameters of advertising campaigns including without limitation, analyzing which ads your browser has loaded, which Site pages you may have been viewing when the ads were delivered or accessed and your interaction with the ad.
+    * If you are in the European Union, we will process this information on the basis of your consent.
+    * We will retain this information for one year.
+    * To opt-out of providing this information to Smilebox and its partners, please see section headed “Third Party Advertisers, Cookies and Other Technologies”.
+    * We share this information with our advertising partners.
+  * 6\. Use of www.smilebox.com (including the Software & Services available from the Site) (the “Site”). 
+    * We use your Technical Information, including cookies and IP address to: 
+      * operate, monitor and analyze the Site and provide you with certain features and functionalities on the Site;
+      * facilitate and enhance your interaction and activities with the Software & Services;
+      * learn how you Use the Software & Services, what parts are most attractive and interesting to you, and what kind of offers you like to see; and
+      * manage and optimize the Software & Services.
+    * We will process this information on the basis of a legitimate interest in being able to provide and improve the functionalities of the Site offered to you. If you are located in the European Union, we also rely on your consent to use cookies.
+    * We will retain this information for one year.
+    * To opt-out of providing this information to Smilebox, please see section headed “Third Party Advertisers, Cookies and Other Technologies”.
+  * We use Google Analytics who assists in monitoring and analyzing the Site  
+7\. Disputes and Enforcement; Applicable law, regulations or Enforceable Governmental Request.   
+We use your PII to take action in case of a dispute involving you in connection with the Software & Services and to enforce the terms and conditions applicable to the Software & Services. We also use your PII to comply with legal and regulatory requirements (e.g., the disclosure of information to law enforcement or tax authorities), and for our legitimate interests and to protect against fraud, suspicious or other illegal activities.   
+For this purpose, we may share your information with law enforcement or other competent authorities and any third party, as may be required (e.g to respond to claims or satisfy any legal process, subpoena, or governmental request; or to protect the rights, property, or personal safety of Smilebox’s users, its partners, or the general public). We will also share this information with our professional advisors in the scope of this purpose.   
+We will retain this Personal Information for the amount of time as required by law to fulfill the above purposes. This may include ensuring that we have an accurate record of your dealings in the event of any complaints or challenges, or if we reasonably believe there is a prospect of litigation relating to your PII or dealings. 
 
-  * to operate and update the Software & Services and provide you with existing and new functionality and features;
-  * to improve and customize the Software & Services;
-  * to provide you personalized content, including through the delivery of targeted interest-based advertisements from us or our partners;
-  * to monitor, analyze and optimize your use of the Software & Services, including analyzing seasonal and annual usage trends and providing certain technical and usage information to our business partners as part of the services we provide;
-  * to maintain and improve the quality and operation of the Software & Services;
-  * to detect SPAM, and fraudulent traffic and user activity;
-  * to notify you of Software & Services updates;
-  * to provide you with support and handle your complaints and/or feedback;
-  * to take any action in case of a dispute involving you in connection with the Software & Services;
-  * to enforce the terms and conditions applicable to the Software & Services and to prevent unlawful activities and misuse thereof; and 
-  * to comply and satisfy any applicable law regulation, legal process or enforceable governmental request.
+
+
+Use of Non-PII
+
+Smilebox uses non-PII information it collects for the following purposes:
+
+  * 1\. To operate and update the Software & Services, and to provide you with existing and new functionality and features of the Software & Services;
+  * 2\. to improve, fix and customize the Software & Services;
+  * 3\. to monitor, analyze and optimize your use of the Software & Services, including analyzing seasonal and annual usage trends;
+  * 4\. to maintain and improve the quality and operation of the Software & Services, including, monitoring viewability of and interaction with the Software & Services and other products and services provided by Smilebox.
 
 
 
-Upon your consent, we may use your email address to inform you about Software & Services, such as letting you know about upcoming changes, improvements or special events regarding the Software & Services. 
+We retain this information for as long as necessary to fulfill our business and/or operational purposes or comply with a legal request. We may also choose to anonymize parts of your PII so that it can no longer be identifiable or attributable to any person if we want to keep it for longer periods of time than the retention periods set forth above
 
-**_Sharing Information with Third Parties._**
+Additional Sharing of PII with Third Parties. 
 
-We may share with third parties the information collected in any of the following events:
+We may also share your information in the following events: 
 
-  * If we are required by law to disclose your information, we may share your information with law enforcement or other competent authorities and any third party, as may be required (e.g., to detect, prevent or otherwise address fraud, security, or technical issues; to respond to claims or satisfy any legal process, subpoena, or governmental request; or to protect the rights, property, or personal safety of Smilebox's users, its partners, or the general public);
+  * We may also share you information with our subsidiaries, affiliated and parent companies pursuant to the legitimate interest for the provision of the Software & Services to you but their use of such information must comply with this Privacy Policy.
   * In the event Smilebox goes through a business transition such as a merger or acquisition by another company, consolidation, change of control, reorganization, or sale of all or a portion of its assets, your information will be among the assets transferred;
-  * We may share your information with certain third parties (for the purposes described in this Privacy Policy including, without limitation, search engines, content providers, payment processing services, email and communication services, advertisers, publisher and entities that represent them (such as advertising networks, exchanges and other programmatic platforms) third party research companies, technology providers, vendors, administrative service providers) that provide various services (such as advertising, marketing, payment, communication, analysis, content, and search) in connection with the Software & Services. We require these third parties (i) to keep the data secured, and (ii) to use the data solely in compliance with this Privacy Policy. With respect to your payment information, we may, ourselves or through third parties that provide payment processing services to us (for their own separate use), use such information to create general information and behavioral rankings about your transaction history in order to process payments which you have authorized us to charge. Such uses, includes, without limitation, analyzing and reporting upon transaction trends, creating a mathematical behavioral ranking for customers who have committed fraud or who initiated chargebacks with other merchants using the same payment processing service as ours, determining the extent of the risk Smilebox may have in connection with processing a transaction initiated by a customer or using information derived from Smilebox’s transaction experience with a customer to determine the potential risk or confidence that another merchant may have in processing a transaction initiated by such customer (through the same payment processing service as ours). Such data will be maintained, used and published by any third party providing payment processing services for the foregoing purpose in aggregate, anonymized form only and will not identify you; and 
-  * We may also share PII and non-personally identifiable information with our subsidiaries, affiliated and parent companies but their use of such information must comply with this Privacy Policy.
 
 
 
-In any case other than the above, we will not share your PII with third parties without your prior consent.
+With respect to sharing of your PII, we take appropriate measures to minimize the PII that we disclose to the third parties, and we require these third parties (i) to keep the data secured, and (ii) to use the data solely in compliance with this Privacy Policy. In any case other than the above, we will not share your PII with third parties without your prior consent. 
 
- ** _Third-Party Content._**
+Transferring Personal Information From and Outside of the European Union.
 
-Certain Software & Services may include and/or enable you to add Content to them. The Content may be in the form of apps, buttons, gadgets, links to third party advertisements, websites, products and services (including search services) as well as additional means that are provided to you by third parties (collectively, " **Third Party Content and Services** "). The use of such Third Party Content and Services is subject to their privacy policies. In addition, Smilebox provides such third parties with a large number of tools to enable them to create interesting and unique presentations, slideshows, apps, buttons, and gadgets using the Smilebox platform. Some of these tools may give these third parties the ability to access, collect, store, and/or share your information – both your PII and non-personally identifiable information. In order to clarify, we do not review, approve, monitor, endorse, warrant, or make any representations with respect to such Third Party Content and Services and your access to any Third Party Content and Services is at your own risk. We are not responsible for the information contained and/or made available through, the practices of, or your use or inability to use such Third Party Content and Services. You expressly relieve us from any and all liability arising from your use of such Third Party Content and Services. We recommended that you read the terms, conditions and privacy policies of such Third Party Content and Services before using or accessing any of them. 
+We will take appropriate steps to ensure that transfers of your PII are in accordance with applicable laws and carefully managed to protect your privacy rights and interests. To this end, if we as the data controller share your information with our corporate affiliates or third party service providers outside the EEA, we have - prior to sharing your information with such corporate affiliate or third party service provider – established the necessary means to ensure an adequate level of data protection. This may be an adequacy decision of the European Commission confirming an adequate level of data protection in the respective non-EEA country or an agreement on the basis of the EU Model Clauses (a set of clauses issued by the European Commission) or EU - US Privacy Shield certification. We will provide further information on the means to ensure an adequate level of data protection on request.
 
-**_Social Networks._**
+Third-Party Content.
 
-You may also choose to log-in through your favorite social networks or activate additional features that provide you with the ability to update and use your favorite social networks directly from the Software & Services. During such log-in or activation, you will be asked to grant Smilebox permission to collect certain information from such social networks. This information may include friends or contact lists, notes, updates, and photos and may be used by Smilebox to customize the Content available to you through the Software & Services, suggest new features and Content that may be relevant to you, provide Smilebox with data for statistical purposes and otherwise use the information in accordance with this Privacy Policy. The information you allow Smilebox to access is that which is presented to you when you choose to log-in through the applicable social network or activate these additional features. Please see your social network provider policies for any questions or concerns. You may opt not to grant Smilebox access to your social network account(s) at any time by changing your social network settings or by not authorizing Smilebox's access thereto.
+The Software & Services may include content which may be in the form of apps, buttons, gadgets, advertisements, websites, products and services (including search services and advertisements) provided to you by third parties (collectively, "Third Party Content and Services"). The use of such Third Party Content and Services is subject to their privacy policies. In order to clarify, we do not review, approve, monitor, endorse, warrant, or make any representations with respect to such Third Party Content and Services and your access to any Third Party Content and Services is at your own risk. We are not responsible for the information contained and/or made available through, the practices of, or your use or inability to use such Third Party Content and Services. You expressly relieve us from any and all liability arising from your use of such Third Party Content and Services. We recommended that you read the terms, conditions and privacy policies of such Third Party Content and Services before using or accessing any of them. 
 
- ** _Third Party Advertisers, Cookies and Other Technologies._**
+Third Party Advertisers, Cookies and Other Technologies. 
 
-As indicated above, the Software & Services uses advertisers, ad networks and various ad platforms and exchanges, and other technology vendors, to provide, and monitor and analyze your use of, the Software & Services, including advertising. In doing so, we may collect or allow such third parties to collect, through blocks of code called “pixels” or “web beacons”, certain information about you and send it to our servers and to our partners (either directly or indirectly). We or our partners, may package all or part of this information into small text files called Cookies and send the Cookie to your computer. As an example, Cookies may store search queries made through the Software & Services, the web pages you accessed, your interaction with advertisements presented to you via the Software & Services, features you used, your session duration and your configurations and preferences of the Software & Services.
-
-Such Cookies and other technologies allow us and our partners to recognize you on your next use of, access or visit to the Software & Services, or on your visits or access to our partner’s network (i.e. sites and services outside of Smilebox).To find out more about third-party advertising networks and similar entities that use these technologies, see [ http://www.aboutads.info ](http://www.aboutads.info/), and to opt-out of such advertising networks' and services' advertising practices, go to [ http://www.aboutads.info/choices](http://www.aboutads.info/choices).
-
-Smilebox and/or its partners use Cookies and other tracking technologies to:
-
-  * facilitate and enhance your interaction and activities with the Software & Services;
-  * help Smilebox learn how you Use the Software & Services, what parts are most attractive and interesting to you, and what kind of offers you like to see;
-  * provide you with personalized content which may include interest-based information, online ads or other marketing materials on or through the Software & Services and on third party websites and properties;
-  * analyze the information collected from you and help manage and optimize the Software & Services;
-  * track and measure various performance and demographic parameters of advertising campaigns including without limitation, analyzing which ads your browser has loaded, which site pages you may have been viewing when the ads were delivered or accessed and your interaction with the ad.
+As indicated above, the Software & Services uses services and other technology vendors to operate, monitor and analyze the Site and provide you with certain features and functionalities. In doing so, we may collect or allow such third parties to collect, through blocks of code called “pixels” or “web beacons”, certain information about you and send it to our servers and to our partners (either directly or indirectly). We or our partners, may package all or part of this information into small text files called Cookies and send the Cookie to your computer. As an example, Cookies may store the web pages you accessed, your interaction with advertisements presented to you via the Software & Services, features you used, your session duration and your configurations and preferences of the Software & Services. You can learn more about cookies on the Internet Advertising Bureau’s website: http://www.allaboutcookies.org.   
+Such Cookies and other technologies allow us and our partners to recognize you on your next use of, access or visit to the Software & Services, or on your visits or access to our partner’s network (i.e. sites and services outside of Smilebox).To find out more about third-party advertising networks and similar entities that use these technologies, see http://www.aboutads.info, and to opt-out of such advertising networks' and services' advertising practices, go to http://www.aboutads.info/choices.   
+Most browsers are initially set up to accept Cookies but you can reset your browser to refuse all Cookies or to indicate when a Cookie is sent. However, some functions of the Software & Services may not function properly if your cookies are disabled.   
+You can also generally opt-out of receiving personalized ads from third party advertisers and ad networks who are members of the Network Advertising Initiative (NAI) or who comply with the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising by visiting the opt-out pages on the NAI site and DAA site.   
 
 
+Minors.
 
-Most browsers are initially set up to accept Cookies but you can reset your browser to refuse all Cookies or to indicate when a Cookie is sent. However, some functions of the Software & Services may not function properly if your cookies are disabled. 
+The Software & Services are not intended for minors in any jurisdiction and you hereby represent that you are not a minor according to you relevant jurisdiction. For example, users under the age of 13 in the United States and users under the age of 16 in the European Union are not permitted to use the Software & Services. We do not knowingly collect, use, share or disclose any PII from minors. We reserve the right to request proof of age at any stage, so that we can verify that minors are not using the Software & Services.   
+We advise parents and guardians to regularly monitor their children's use of email and other online communications and activities. Control tools that create a safer online environment for children are available from third party online services and software providers.   
+In the event that it comes to our knowledge that a minor is using the Software & Services, we will prohibit and block such a user from accessing the Software & Services and will make all efforts to promptly delete any PII with regard to such user, as applicable.   
+If you are a parent or guardian who has discovered that your child has submitted his or her PII without your consent, please contact us as provided in this Privacy Policy and we will take the necessary steps to remove that information from our database.   
 
-In addition, some of our products may include advertisements from Microsoft. To learn more about information collected by Microsoft, please click [here](http://www.microsoft.com/en-us/privacystatement/Default.aspx). You can opt-out of Microsoft's personalized advertising services by following the instructions found [here](http://choice.microsoft.com/).
 
-You can also generally opt-out of receiving personalized ads from third party advertisers and ad networks who are members of the [Network Advertising Initiative (NAI)](http://www.networkadvertising.org/managing/opt_out.asp) or who comply with the [Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising](http://www.aboutads.info/choices/) by visiting the opt-out pages on the NAI site and DAA site.
+Your Rights. 
 
-By using the Software & Services, you affirmatively consent to the collection of information and Cookies as described above.
+The following rights (which may be subject to certain exemptions or derogations), shall apply to EU users of the Software & Services:
 
-**_Children._**
+  * You have a right to access PII held about you. Your right of access can normally be exercised free of charge, however we reserve the right to charge an appropriate administrative fee where permitted by applicable law.
+  * You have the right to ask us to correct inaccurate or incomplete PII concerning you.
+  * If you no longer want us to use your PII, you can request that we erase your PII. Please note that if you request the erasure of your PII, we will not be able to provide you with and you will not be able to use the Software & Services. We may retain some of your PII as necessary for our legitimate business interests, such as fraud detection and prevention and enhancing safety. For example, if we suspend use by a user to comply with our legal obligations, including for tax, legal reporting and auditing obligations. Also, for fraud or safety reasons, we may retain certain information about that user from processing another transaction through our Software & Services. We may also retain and use your PII to the extent necessary to protect from accidental or malicious loss and destruction, and residual copies of your Personal Information may not be removed from our backup systems for a limited period of time.
+  * You have a right to restrict the processing of your PII, for example in case when we no longer need your PII for the initial purposes for which they were collected, but they are required by you for the establishment, exercise or defense of legal claims.
+  * You have a right to object to our use of your PII for direct marketing purposes. To object to Direct Marketing, please see the Direct Marketing Section under “How Smilebox Uses Your Information”. For opting out of cookies, please see the section “Third Party Advertisers, Cookies and Other Technologies” for how to opt out of cookies.
+  * Where you have provided your consent to the processing of your PII by Smilebox you may withdraw your consent at any time by sending a communication to us specifying which consent you are withdrawing. Please note that the withdrawal of your consent does not affect the lawfulness of any processing activities based on such consent before its withdrawal.
+  * You have a right to obtain a portable copy of PII which is processed on the basis of your consent, or which is necessary for the performance of a contract between us. You have a right to have such portable copy of PII transferred to another data controller in a structured, commonly used and machine-readable format.
+  * You also have a right to request details of the basis on which your PII is transferred outside the European Economic Area, but you acknowledge that data transfer agreements may need to be partially redacted for reasons of commercial confidentiality.
+  * You have a right to lodge a complaint with your local supervisory authority if you have concerns about how we are processing your PII. We ask that you please attempt to resolve any issues with us first, although you have a right to contact your supervisory authority at any time.
 
-The Software & Services are not intended for users under the age of 18. Notwithstanding, we do not knowingly collect, use, share or disclose any personal information from children under the age of 13 in the United States, or under the age of 16 in the European Union. We reserve the right to request proof of age at any stage, so that we can verify that minors under these respective ages of consent (as applicable based on the geographic location) are not using the Software & Services.
 
-We advise parents and guardians to regularly monitor their children's use of email and other online communications and activities. Control tools that create a safer online environment for children are available from third party online services and software providers. 
 
-In the event that it comes to our knowledge that a person under the age of consent set forth above is using the Smilebox Software, we will prohibit and block such a user from accessing the Software & Services and will make all efforts to promptly delete any PII with regard to such user, as applicable.
+We may ask you for additional information to confirm your identity and for security purposes, before disclosing the PII requested to you. We reserve the right to charge a fee where permitted by law, for instance if your request is manifestly unfounded or excessive. 
 
-If you are a parent or guardian who has discovered that your child has submitted his or her PII without your consent, please contact us as provided in this Privacy Policy and we will take the necessary steps to remove that information from our database.
+By logging on to your account on the Software & Services, you can (i) retrieve your email address, profile image and your creations, and (ii) change and delete this information. To exercise your other rights, you contact us directly – please see the “How to Contact Smilebox” section for how to contact us. 
 
-**_Your Rights._**
+Subject to legal and other permissible considerations, we will make every reasonable effort to honor your request promptly or inform you if we require further information in order to fulfil your request. 
 
-You may send us a request to access the PII that we collect through your use of the Software & Services or through your communications with us, and to request that we correct, amend, or delete it if it is inaccurate or processed in violation of this Privacy Policy. You may also object to further processing of the PII we hold about you or request that we suspend further processing of such PII. You may also withdraw your consent to this Privacy Policy and our processing of your PII at any time noting that such withdrawal will not affect the lawfulness of the processing prior to the withdrawal of your consent. Please note that any objection, suspension or withdrawal of your consent to our processing of PII may affect our ability to continue to provide you with the Software & Services or address your questions, requests or complaints. 
+In the event that your request, for example, would impact the duty of confidentiality we owe to others, or if we are legally entitled to deal with your request in a different way than initially requested, we will address your request to the maximum extent possible, all in accordance with applicable law. 
 
-In addition, you may request to receive the PII we hold about you in a structured, commonly used and machine-readable format and transmit that PII to any third party you wish. Where technically feasible, we can also transmit your PII to such third party upon your written request. 
+How we Protect your Information.
 
-In all such cases, we may require that you provide us with additional information to verify your identity and any third party recipients of your PII based on your written request. 
+We have implemented and will maintain appropriate technical and organizational security measures, policies and procedures designed to reduce the risk of accidental destruction or loss, or the unauthorized disclosure or access to such information appropriate to the nature of the information concerned. Note that, although we take measures to secure the information we collect and reduce the risk of unwanted disclosure, we cannot guarantee that the information will not be exposed as a result of unauthorized penetration to our servers. Nevertheless, we make commercially reasonable efforts to make the collection and security of such information consistent with this Privacy Policy and all applicable laws and regulations. As the security of information depends in part on the security of the computer or device you use to communicate with us and the security you use to protect your user IDs and passwords, please make sure to take appropriate measures to protect this information. 
 
-**_Information Obtained from Other Companies._**
+Do Not Track.
 
-We may license and otherwise obtain various information about you, including PII from various other companies, including research companies, data aggregation companies and other third party companies. Data sets may include information about you or your demographic segment and cross device identifiers associated with the devices that you use. To the extent the information is PII, we process this information in accordance with this Privacy Policy, including, amongst others, in relation to the stated purposes of processing (which may include the use of automated decision-making algorithms and processes), data retention, cross border transfers, your rights to the data and the right to lodge complaints.
+Do Not Track is a privacy preference that can be configured in certain web browsers (the "DNT Feature"); the DNT Feature, when enabled on a web browser, signals the websites you visit that you do not want certain information about your visit collected. Smilebox does not currently respond or recognize DNT Feature signals. 
 
-**_Data Retention._**
+Complaints.
 
-We retain the information we collect as described in this Privacy Policy for as long as necessary to fulfill our business and/or operational purposes or comply with a legal request. We may also choose to anonymize parts of the information we collect so that it can no longer be identifiable or attributable to any person if we want to keep it for longer periods of time.
+If you have any complaints on our processing of your PII or if you believe that we have breached our own privacy policies or applicable law, we encourage you to contact us. However, please note that applicable EU data protection laws provide you with a right to lodge a complaint with the competent supervisory authority as well. 
 
-**_Transfer of Data Outside Your Territory._**
+Notice to Californian Residents – Your California Privacy Rights.
 
-The Software & Services work over the Internet And we may store and process information in various locations throughout the globe. If you are a resident of a European Union Member State or another jurisdiction where transfer of your PII to another jurisdiction requires your consent, then you hereby provide us with your express consent to such transfer of your data. In addition, for residents of the European Union, the third parties that receive your PII as described in this Privacy Policy and which are located outside of the European Economic Area are transferred on the basis set forth under applicable law in the European Union.
+California residents who provide us with certain types of personal information (as defined under California Civil Code Section 1798.83 (also known as California’s “Shine the Light” law)) are entitled to request and obtain from us once a calendar year information about the personal information we shared, if any, with other businesses for their own direct marketing use. To make such a request, please contact us through the email or physical address under the “How to Contact Smilebox” section below.   
+When making such a request, please ensure that you write in the subject line and the body of your message “Request for California Privacy Information”.   
+Please be aware that not all information sharing is covered by California’s “Shine the Light” law. 
 
-**_Information Security._**
+Changes to This Privacy Policy. 
 
-We implement measures to secure your PII that we collect in order to minimize the risks of damage, loss of information, and unauthorized access or use of information. However, these measures are unable to provide absolute information security. Therefore, although we make efforts to secure your PII, we cannot guarantee and you cannot reasonably expect that the Software & Services and its databases are immune from any wrongdoings, malfunctions, unauthorized interceptions, access or other kinds of abuse and misuse.
+We may, from time to time, change this Privacy Policy. We encourage you to visit and review this Policy frequently to stay informed. Prior to any material change to this Privacy Policy, Smilebox will present you with a detailed notification (e.g. a pop-up notification or other reasonable means) of such change including information on how you may uninstall the Software & Services (to the extent applicable). Other changes, including amendments made to the Policy to comply with legal requirements, will become effective immediately upon their initial posting. Smilebox will also update the "Last updated” date at the end of this Privacy Policy. Your continued use of the Software & Services after any change takes effect, will indicate your acceptance of the amended Privacy Policy. If you do not agree with any of the amended terms, you agree that you shall cease any further use of the Software & Services. 
 
-**_Do Not Track._**
+How to Contact Smilebox. 
 
-Do Not Track is a privacy preference that can be configured in certain web browsers (the "DNT Feature"); the DNT Feature, when enabled on a web browser, signals the websites you visit that you do not want certain information about your visit collected. As the Internet industry is in the process of defining how to interpret signals sent by the DNT Features, Trovi does not currently respond or recognize DNT Feature signals. 
-
-**_Complaints._**
-
-If you have any complaints on our processing of your PII or if you believe that we have breached our own privacy policies or applicable law, we encourage you to contact us. However, please note that applicable EU data protection laws provide you with a right to lodge a complaint with the competent supervisory authority as well.
-
-**_Notice to Californian Residents – Your California Privacy Rights._**
-
-California residents who provide us with certain types of personal information (as defined under California Civil Code Section 1798.83 (also known as California’s “Shine the Light” law)) are entitled to request and obtain from us once a calendar year information about the personal information we shared, if any, with other businesses for their own direct marketing use. To make such a request, please contact us through the email or physical address under the “How to Contact Smilebox” section below.
-
-When making such a request, please ensure that you write in the subject line and the body of your message “Request for California Privacy Information”.
-
-Please be aware that not all information sharing is covered by California’s “Shine the Light” law.
-
-**_Changes to This Privacy Policy._**
-
-We may, from time to time, change this Privacy Policy. We encourage you to visit and review this Policy frequently to stay informed. Prior to any material change to this Privacy Policy, Smilebox will present you with a notification of such change. Other changes, including amendments made to the Policy to comply with legal requirements, will become effective immediately upon their initial posting. Smilebox will also update the "Last updated” date at the end of this Privacy Policy. Your continued use of the Software & Services after any change takes effect, will indicate your acceptance of the amended Privacy Policy. If you do not agree with any of the amended terms, you must avoid any further use of the Software & Services.
-
-**_How to Contact Smilebox._**
-
-If you have any concerns or questions with respect to any matter covered by this Privacy Policy, you may contact us by email at:[privacy@perion.com](mailto:privacy@perion.com) or at the following address:
+If you have any concerns or questions with respect to any matter covered by this Privacy Policy, you may contact Smilebox at: privacy@smilebox.com or at the following address: 
 
 Smilebox, Inc.  
 C/- Perion Network Ltd.  
 General Counsel  
 26 HaRokmim Street, Azrieli Center 1  
 Holon 5885849  
-Israel
+Israel 
 
-Last Updated: June 14th 2017
+Last updated: 22/5/2018 
