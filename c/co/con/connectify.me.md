@@ -1,87 +1,123 @@
-> *The following text is extracted and transformed from the connectify.me privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222161025id_/http%3A//www.connectify.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectify.me privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531075630id_/http%3A//www.connectify.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Connectify
 
-**EFFECTIVE DATE 10/18/2009; UPDATED 1/28/2015**
+**EFFECTIVE DATE 10/18/2009; UPDATED 5/22/2018**
 
-Connectify Inc (“Connectify,” “we,” “us”) respects your privacy, including the privacy of your information and your pictures. This Privacy Policy explains the type of information we collect through our website at www.connectify.com (the “Site”) and our Connectify software, and how we use this information to provide outstanding service to you.
+Connectify, Inc. (“Connectify,” “we,” “us”) respects your privacy and as such we strive to collect the minimal amount of information necessary to operate our service. This Privacy Policy explains the type of information we collect through our website at connectify.me (the “Site”) and the Connectify Hotspot application, and how we use this information to provide outstanding value to you.
 
-By accessing and using the Site or other software or services owned or operated by Connectify (collectively, the “Services”), you agree to the terms and conditions of this Privacy Policy. If you do not agree to the terms and conditions of this Privacy Policy, please do not use the Services.
+If you have any questions about this Privacy Policy, you should contact us at [privacy@connectify.me](mailto:privacy@connectify.me).
 
-If you feel that Connectify is not abiding by this Privacy Policy, you should contact us at support@connectify.me and we will do our best to resolve your inquiry.
-
-1\. What Information does Connectify collect?
-
-We collect information from you when you register for the Services, including when you place an order, communicate with our staff, or subscribe to our mailing list. As appropriate, you may be asked to enter your name, email address, mailing address, phone number, or credit card information.
-
-Connectify also collects non-personally identifiable information about how visitors use our web site; for example, Connectify utilizes web analytics software to track, in aggregate, the number of unique views received by the pages of the web site, the domains from which users originate along with many other analytical data points.  The Connectify website may use “cookies,” clear GIFs, or similar technologies to track how users engage with our website.  A cookie is a small data file that is placed on your computer’s hard drive by a web server when you visit a web site; each time you visit the website, your web browser sends information from the cookie back to the web server to facilitate identification of users or site visitors and to keep track of other information such as the date and time of your visit.  Consult the “Help” portion of your browser toolbar for information on how to control or disable cookies.  Clear GIFs are tiny graphics with a unique identifier, similar in function to cookies.  In contrast to cookies, which are stored on your computer’s hard drive, clear GIFs are embedded on web pages and may not be disabled or controlled through your browser.
-
-2\. What Does Connectify Use This Information For?
-
-We use this information to process and verify transactions and orders, perform and improve customer service, and to send periodic communications to our customers.  For example, we may use the email address you provide to us to send you information pertaining to your order.  We may also send you information about Connectify, related products or services, important notifications regarding your subscriptions or account, and other related information.  Historically, these have been quite rare as we respect your time as well as your privacy.
-
-However, if at any time you would like to unsubscribe from receiving future emails concerning offers, promotions, or other information related to marketing, you may do so from the “unsubscribe” link at the bottom of our emails.  Due to the nature of the Services, we must reserve the right to send you certain other non-marketing communications related to the Services with Connectify including via email.  We pledge to keep these limited to those communications that we feel are absolutely necessary, such as emergency notifications concerning the Services.
-
-3\. Does Connectify Disclose Information to Outside Parties?
-
-We will not sell or rent your personal information to any outside company.   Except as described below, we will not disclose your personal information to outside parties.
-
-  * Third Party Service Providers.  We may share aggregate or non-personally identifiable information about users with outside parties.  It may be necessary, at times, to share certain personal information with trusted third parties who assist us in conducting our business or providing our services.  These companies are authorized to use information only as necessary to provide services to us.
-  * Law Enforcement; Emergencies; Compliance. Connectify may disclose personal information in the following situations as we believe to be appropriate, even though you might have requested that we not share your information: (i) under applicable law; (ii) to comply with legal process; (iii) to respond to governmental requests, including requests from law enforcement and regulatory authorities; (iv) to enforce our terms and conditions; (v) to protect our operations; (vi) to protect the rights, privacy, safety or property of Connectify, you, or others; and (vii) to permit us to pursue available remedies or limit the damages that we may sustain.  For example, we may, to the fullest extent the law allows, disclose personal information to law enforcement agencies and regulatory authorities to assist them in identifying individuals who have been or may be engaged in unlawful activities.
-  * Assignment. We reserve the right to transfer personal information to a new entity or third party as part of a merger, acquisition, reorganization, sale of some or all of our assets, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets, or stock (including without limitation in connection with any bankruptcy or similar proceedings). We will notify you via email or prominent notice on our web site if the third party’s or new entity’s treatment of personal information will materially differ from the treatment described in this Privacy Policy; this notice will be provided at least thirty (30) days before such material changes take effect.
+#### How do you Protect the Privacy of my Connectify Sessions?  
 
 
+We do not log IP addresses, sites, or data that you send or receive through the Connectify Hotspot application. 
 
-4\. What About the Privacy of my Computer while running Connectify software on my PC?
+Communication to our backend servers and databases are encrypted with SSL and firewalled to restrict access to only authorized servers. Furthermore, access to customer data is limited only to employees who require access in the delivery of the service. 
 
-The Connectify software gathers and sends us certain information about the performance and reliability of the software in or to allow us to improve the software.  Personal data and information (“Personal Identifiable Information” or “PII”) refers to information that can be used to identify a living individual.
+#### What Personal Information We Collect
 
-When you interact with Connectify on your PC we may maintain a partial or full record about some or all of the following types of personally identifiable information (PII):
+**Contact information:** We receive contact information from customers who buy our products through the Fastspring store. This includes name, phone number, email address, personal address, and company name. Customers who create an account for the Connectify Hotspot application may provide an email address.
 
-  * Your Internet Protocol (“IP”) address
-  * Device ID – Hostname, MAC or UUID
-  * Date and time, country, geographic location based on Wi-Fi/communications network local information.
+**Homepage Access Logs:** Our servers log access to our homepage, including IP address, page accessed, browser type and operating system.
+
+**Device Information:** In order to prevent piracy, Connectify Hotspot may access and report unique device identifiers such as Hostname, MAC or UUID.
+
+**Location Information:** Connectify Hotspot collects what country you appear to be in using an IP-based approximation, in order to tailor special offers. 
+
+**Cookies:** Our websites store cookies and similar technology, like single-pixel gifs, that help us optimize our website design. Cookies are text files containing small amounts of information downloaded to your device when you visit a website. The entity that placed the cookie on your browser can then read the unique information on that cookie. The Connectify Hotspot application does not require any registration to use the service. To read more about our cookie policy, click [here.](https://www.connectify.me/cookie-policy)
+
+**Support Requests:** We may request more information when you contact our support. As appropriate, you may be asked to enter your name and email address.
+
+#### How Does Connectify Use This Information?
+
+**To provide services:**
+
+  * For the authentication of users and devices
+  * Communication about your account, subscription status, or license
 
 
 
-When we obtain PII from you, we treat such information in accordance with this Privacy Policy and applicable laws.
+**To send emails and other communications:**
 
-By installing or using our Connectify Products, you hereby agree with our collection and use of your PII as outlined in this Privacy Policy.
+  * Including advertising new features, software updates, or new products
+  * Marketing messages, such as new promotions or company stories
+  * We provide an opt-out for communications unnecessary for the delivery of our services.
 
-5\. Terms of Service
 
-Please also visit our EULA (End User License Agreement) section establishing the use, disclaimers, and limitations of liability governing the use of our website and the Services here.  Your use of the Services, as well as any dispute over privacy, is subject to this Policy and our EULA.
 
-6\. Your Consent
+**To respond to support requests:**
 
-By using the Services, you consent to our Privacy Policy.
+  * Support staff may request identifying information to verify your account status.
 
-7\. Correcting and Updating Your Personal Information
 
-To review and update your personal information to ensure it is accurate, log into your Connectify account here: [//www.connectify.me/login](https://www.connectify.me/login)
 
-8\. Protecting the Privacy of Children
+#### Does Connectify Disclose Information to Outside Parties?
 
-Our Services are not intended for use by children under the age of eighteen (18) and are not directed at such children.  Please do not register at Connectify if you are under the age of eighteen (18).  We do not knowingly collect personal information from children under the age of thirteen (13).
+We will not sell or rent your personal information to other companies. Additionally, we cannot disclose information about the services, websites, or applications you utilize while connected to our Services as we do not store this information. 
 
-9\. Changes to Our Privacy Policy
+Except as described below, we will not disclose your personal information to outside parties. 
 
-If this policy is updated, we will post changes on this page and update the Privacy Policy modification date below.  If we make any changes to this Privacy Policy that materially affect our practices with regard to the personal information we have previously collected from you, we will endeavor to provide you with notice in advance of such change by highlighting the change on the Site.
+  * Third Party Service Providers – See list of trusted third parties below for more detail.
+  * Legal Compliance – We do not log what you do through our servers, so we do not have any such information to provide to law enforcement or anyone else. Outside of this, we, like all companies, need to comply with the legal process including court orders and other requests from law enforcement and regulatory authorities.
+  * Assignment – We reserve the right to transfer personal information to a new entity or third party as part of a merger, acquisition, reorganization, sale of some or all of our assets, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets, or stock (including, without limitation, in connection with any bankruptcy or similar proceedings). We will notify you via email or prominent notice on our web site if the third party’s or new entity’s treatment of personal information will materially differ from the treatment described in this Privacy Policy.
 
-This policy was last modified on 01/28/2014.
 
-10\. Contacting Us
 
-If there are any questions regarding this privacy policy you may contact Connectify at [support@connectify.me](mailto:support@connectify.me) or via mail at:
+#### Third Party Service Providers
 
-1429 Walnut St
+**Google Analytics**
 
-Suite 201
+Google Analytics is a web analysis service provided by Google. Google utilizes the data collected to track and examine the use of the Service to prepare reports on its activities and share them with other Google services. Google may use the data collected to contextualize and personalize the ads of its own advertising network. Personal data collected: Cookie and Usage Data. Place of processing: USA. Find Google’s privacy policy [here](https://policies.google.com/privacy?hl=en).
 
-Philadelphia, PA 19102
+**Raygun**
 
+This Service uses Raygun for error and exception tracking. In the event you encounter an error while using the Service a message will be sent to Raygun with information pertaining to the error. Information collected will include your IP address, and email address (if provided). If you do not wish to share this information, you may turn it off from inside the application by going to the “Help Menu”, selecting “Privacy”, and then turning off the “Crash Reports” setting.
+
+#### Additional Rights
+
+Individuals located in certain countries, including the European Economic Area, have certain statutory rights in relation to their personal data. Subject to any exemptions provided by law, you may have the right to request access to Information, as well as to seek to update, delete or correct this Information.
+
+To request access, deletion or correction of your personal information, email us at [privacy@connectify.me](mailto:privacy@connectify.me).
+
+#### Protecting the Privacy of Children
+
+Our Services are not intended for use by children under the age of eighteen (18) and are not directed at such children. Please do not register at Connectify if you are under the age of eighteen (18). We do not knowingly collect personal information from children under the age of thirteen (13). If you have information about a child using our service, please contact [privacy@connectify.me](mailto:privacy@connectifv.me).
+
+#### Transferring Personal Data from the EU to the US
+
+Connectify has its headquarters in the United States. Information we collect from you will be processed in the United States. The United States has not sought nor received a finding of “adequacy” from the European Union under Article 45 of the GDPR. Connectify relies on derogations for specific situations as set forth in Article 49 of the GDPR. In particular, Connectify collects and transfers to the U.S. personal data only: with your consent; to perform a contract with you; or to fulfill a compelling legitimate interest of Connectify in a manner that does not outweigh your rights and freedoms. Connectify endeavors to apply suitable safeguards to protect the privacy and security of your personal data and to use it only consistent with your relationship with Connectify and the practices described in this Privacy Policy. Connectify also minimizes the risk to your rights and freedoms by not collecting or storing sensitive information about you. 
+
+#### Data Storage and Retention
+
+Your personal data is stored by Connectify on its servers, and on the servers of the cloud-based database management services Connectify engages, which may be located in the United States. Connectify retains data for the duration of the customer’s or member’s business relationship with Connectify. For more information on where and how long your personal data is stored, and for more information on your rights of erasure and portability, please contact the Connectify’s data protection officer at [privacy@connectify.me](mailto:privacy@connectify.me).
+
+#### Data Protection Authority
+
+Subject to applicable law, you also have the right to (i) restrict Connectify’s use of your personal data and (ii) lodge a complaint with your local data protection authority or the Irish Data Protection Commissioner, which Connectify has designated as its lead supervisory authority in the European Union. If you are a resident of the European Economic Area and believe we maintain your Personal Data within the scope of the General Data Protection Regulation (GDPR), you may direct questions or complaints to our lead supervisory authority: 
+
+Irish Data Protection Commissioner  
+Office of the Data Protection Commissioner  
+Canal House, Station Road, Portarlington, Co. Laois, R32 AP23, Ireland  
+Phone +353 57 868 4757  
+Fax: +353 57 868 4757  
+Email: [info@dataprotection.ie](https://web.archive.org/web/20180531075630id_/http://www.connectify.me/privacy-policy/info@dataprotection.ie)
+
+#### Changes to Our Privacy Policy
+
+If this policy is updated, we will post changes on this page and update the Privacy Policy modification date. If we make any changes to this Privacy Policy that materially affect our practices with regard to the personal information we have previously collected from you, we will endeavor to provide you with notice in advance of such change by highlighting the change on the Site. 
+
+####  Contacting Us 
+
+If there are any questions regarding this privacy policy you may contact Connectify:  
+For Privacy Questions:  
+[privacy@connectify.me](https://web.archive.org/web/20180531075630id_/http://www.connectify.me/privacy-policy/privacy@connectify.me)
+
+For Other Questions:  
+support@connectify.me
+
+By Mail:  
+1429 Walnut St  
+Suite 201  
+Philadelphia, PA 19102  
 USA
-
-11\. Jurisdictional Issues
-
-The Services are controlled and operated by us from the United States, and are not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States.  We do not represent or warrant that the Services, or any part of the Services, are appropriate or available for use in any particular jurisdiction.  Those who choose to access the Services do so on their own initiative and at their own risk, and are responsible for complying with all local laws, rules, and regulations.  We may limit the Services’ availability, in whole or in part, to any person, geographic area, or jurisdiction we choose, at any time and in our sole discretion.
