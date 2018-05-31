@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nmu.edu privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121205837id_/http%3A//www.nmu.edu/mc/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nmu.edu privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601000926id_/http%3A//www.nmu.edu/mc/PrivacyStatement) for the most accurate reproduction.*
 
 # Web Site Privacy Statement | University Marketing and Communications at NMU
 
@@ -8,7 +8,7 @@ This privacy statement applies to the primary NMU website located at [www.nmu.ed
 
 Use of the NMU website is subject to all applicable state and federal laws, as well as university policies. More information on university policies can be found in the [NMU Policy Database](http://www.nmu.edu/policies).
 
-### Information gathered automatically
+### Information Gathered Automatically
 
 If you do nothing during your visit but browse through our web site, information about your visit will be gathered through the use of cookies, third-party tracking technologies and server logs. This information does not identify you personally but is aggregated into reports that help us make our site more usable, inform us about what areas of our site are most popular, and teach us about the technology being used by our site’s visitors. This information may be shared with other organizations that have a business relationship with Northern Michigan University.
 
@@ -28,7 +28,7 @@ Northern Michigan University also uses Google Custom Search for the keyword sear
 
 Users may opt out of Google’s use of cookies by visiting the Google Advertising opt-out page (<https://support.google.com/ads/answer/2662922?hl=en>) or by installing the Google Analytics opt-out browser add-on (<https://tools.google.com/dlpage/gaoptout/>).
 
-### Information you provide to us
+### Information You Provide to Us
 
 Northern Michigan University will not sell or distribute personal information collected from site visitors to any third-party vendors.
 
@@ -40,15 +40,21 @@ Any communication or material other than your personal identifying information s
 
 Northern Michigan University takes all reasonable and appropriate steps to protect the information you share with us from unauthorized access or disclosure. Any unauthorized access or disclosure of our data will be handled in a manner consistent with state and federal laws.
 
-### Minors using our web site
+### Social Media Login
+
+Some applications on the NMU website have an option to use your social media account as your login credentials for that application. When you choose to log in using a social media account, you will be presented with an authorization screen asking your permission for us to collect certain information from your existing social-media account. If you confirm, we will collect and store your email address, first name, and last name. If other information is being collected by the application, you will be notified of this additional information during the authorization.
+
+  We will not collect information about your friends, followers, or your activities from a linked social media account. We will not post anything to your social media account without your permission to do so.
+
+### Minors Using Our Web Site
 
 Children under the age of 13 should not send any information about themselves to us, including information like your name, address or e-mail address. This web site does not knowingly collect personally identifying information from children under the age of 13. In the event that we learn that we have collected such information from a child under 13 without parental consent, the information will be deleted from our database as soon as reasonably possible.
 
-### Changes to our statement
+### Changes to Our Statement
 
 As our university grows and changes, and as technology and Internet use and practices change, Northern Michigan University may, from time to time, determine that changes in its policies, potentially including this privacy statement, are prudent. If any such changes are made, they will be posted on this web site. Therefore you should review this web site’s privacy statement and other policies posted on this site for potential changes when you return to the site for future visits.
 
-**This privacy statement was last updated on June 22, 2017.**
+**This privacy statement was last updated on May 15, 2018.**
 
 ### Contact
 
