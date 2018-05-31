@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the tubezx.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112033230id_/http%3A//www.tubezx.com/info%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubezx.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531234710id_/http%3A//www.tubezx.com/info%23privacy) for the most accurate reproduction.*
 
-# info | tubezx
+# Tubezx | info
 
 Advertising on tubezx.com
 
 **How can I advertise on tubezx.com?**
 
-To advertise on tubezx.com please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+To advertise on tubezx.com please contact vidzxbox@yandex.ru
+
+DMCA Statement
+
+please contact vidzxbox@yandex.ru
 
 18 USC 2257 Statement: tubezx.com
 
@@ -41,7 +45,7 @@ When you submit personally identifiable information to us through the use of cer
   * to communicate with you and respond to your inquiries; 
   * to conduct research about your use of the Website; 
   * to help offer you other products, programs, or services that may be of interest;
-  * providing information on content and services offered by us and other companies, selected by you on the basis of your personal preferences; in case you do not wish to receive this information, you can contact the customer service at [[email protected]](http://www.cloudflare.com/email-protection#1b)
+  * providing information on content and services offered by us and other companies, selected by you on the basis of your personal preferences; in case you do not wish to receive this information, you can contact the customer service at [support@tubezx.com](http://www.cloudflare.com/email-protection#1b)
   * providing of data to third parties if required to do so by law or respond to a court order.
 
 
@@ -72,11 +76,11 @@ tubezx.com has implemented security policies, rules and technical measures to pr
 
 Accessing and updating your data
 
-In case you want to know which data we have recorded of which you are the data subject, or if you want to change your data, please contact our customer service at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) Please note that deletion of your personally identifiable information from tubezx.com's database will not prevent tubezx from using gathered anonymous information.
+In case you want to know which data we have recorded of which you are the data subject, or if you want to change your data, please contact our customer service at support@tubezx.com.com. Please note that deletion of your personally identifiable information from tubezx.com's database will not prevent tubezx from using gathered anonymous information.
 
 Questions
 
-In case you have any further questions on this Privacy Statement or on our privacy policy, please send an email to our customer service at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+In case you have any further questions on this Privacy Statement or on our privacy policy, please send an email to our customer service at support@tubezx.com.
 
 Effective date last modification
 
