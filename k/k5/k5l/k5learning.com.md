@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the k5learning.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229120007id_/http%3A//www.k5learning.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the k5learning.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531110418id_/http%3A//www.k5learning.com/privacy) for the most accurate reproduction.*
 
 # Privacy | K5 Learning
 
@@ -58,7 +58,7 @@ We may offer  contests and other promotions that may require registration. By e
 
 ## Advertising
 
-Ads appearing on our site may be delivered to you by third party advertisers or advertising networks such as Google Adsense. Such parties may set cookies; these cookies allow the ad server to recognize your computer each time they send you an online advertisement in order to compile non-personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click[ here](http://www.networkadvertising.org/).
 
 ## Use of Contractors
 
@@ -90,4 +90,4 @@ If you disable cookies in your browser certain features of our website may not w
 
 Your use of this website site is conditioned on your having accepted these terms. This Privacy Policy is subject to change from time to time, and your continued use of the website is conditioned upon your acceptance of any modifications hereto.
 
-If you have any questions about your privacy or security measures at K5, please reach us using the contact information on the [Contact Us page](https://web.archive.org/web/20171229120007id_/http%3A//www.k5learning.com/contact) or email [privacy@k5learning.com](mailto:privacy@k5learning.com).
+If you have any questions about your privacy or security measures at K5, please reach us using the contact information on the [Contact Us page](https://web.archive.org/web/20180531110418id_/http%3A//www.k5learning.com/contact) or email [privacy@k5learning.com](mailto:privacy@k5learning.com).
