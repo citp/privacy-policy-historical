@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appvalleyvip.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224215509id_/http%3A//appvalleyvip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appvalleyvip.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531023537id_/http%3A//appvalleyvip.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
