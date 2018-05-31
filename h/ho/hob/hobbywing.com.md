@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hobbywing.com privacy policy that was archived on 2017-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170529055747id_/http%3A//www.hobbywing.com/article.php%3Fid%3D215) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hobbywing.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531022317id_/http%3A//hobbywing.com/article.php%3Fid%3D215) for the most accurate reproduction.*
 
 # Privacy Policy_Privacy Policy_HOBBYWING | Welcome to Brushless System Trends -
 
