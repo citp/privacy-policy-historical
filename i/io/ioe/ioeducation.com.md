@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the ioeducation.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211085427id_/http%3A//ioeducation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ioeducation.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531064704id_/https%3A//ioeducation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - IO Education
 
 ## Privacy Policy
 
 Effective September 29, 2016  
- [Download Privacy Policy](http://23713-presscdn.pagely.netdna-cdn.com/wp-content/uploads/IO-PP-General-Website-1.pdf)
+ [Download Privacy Policy](http://s23713.pcdn.co/wp-content/uploads/IO-PP-General-Website-1.pdf)
 
 #### **IO Education is committed to your Privacy.**
 
