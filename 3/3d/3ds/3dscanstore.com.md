@@ -1,100 +1,274 @@
-> *The following text is extracted and transformed from the 3dscanstore.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dscanstore.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531233715id_/http%3A//www.3dscanstore.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+1\. Personal Information We Collect
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+We collect certain personal information about visitors and users of our service.  
+  
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+1.1. Personal Information.  
+  
+The most common types of information we collect without user registration are IP addresses and web analytics data. If a user registers an account with 3D scan store we require them to submit first name, last name, email address, and physical address. In the case of a transaction on 3D scan store  we do not collect your credit / debit card numbers, all sensitive payment information is handled by PayPal  
+  
 
-**Information Collection and Use**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+1.2. Sensitive Personal Information.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+We do not collect any sensitive personal information.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+  
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+1.3. Cookies and web analytics.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+When you visit 3D Scan Store, there’s certain information that’s recorded which is generally anonymous information and does not reveal your identity.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+Like many websites, when you visit 3D Scan Store, in order to deliver a full browsing experience a small amount of information, known as a ‘cookie’ will be downloaded to your device, (e.g.: your computer, laptop, tablet or mobile phone). A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer if you agree. Cookies contain information that is transferred to your computer’s hard drive.
 
-**Security**
+Our website uses cookies to distinguish you from other users of our website but these cookies cannot be used to identify you personally. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+These cookies are used to improve your browsing experience by, for example:
 
-**Updating Your Information**
+– Enabling a website to recognise your device so you do not have to give the same information several times during one task or browsing sessions;
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+– Recognising if you have given a username and password so you do not need to do it for every web page you visit;
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+– Analysing anonymous data to help us understand how visitors interact with the website so we can make improvements and develop the website in an informed way for our visitors.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+We will not use cookies to collect personally identifiable information about you. If you wish to restrict or block the cookies which are set by our website, or indeed any other website, you can do this through your web browser settings.
 
-      iii.      You may call us at: (480) 505-8800
+The ‘Help’ function within your browser should tell you how to do this. Alternatively, you may wish to visit
 
-       iv.      You may fax us at: (480) 505-8844
+http://www.aboutcookies.org. This website contains detailed information on how to manage cookies across a wide variety of browsers. You will also find details on how to delete cookies from your device, as well as more general information about cookies. Please be aware that restricting cookies may have an impact on the functionality of our website.
 
-**Sending Emails**
+When visiting 3D Scan Store, in addition to cookies, the following kinds of details may also be captured:  
+  
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+  * Your IP address or proxy server IP address’;
 
-**Compliance with Laws and Law Enforcement**
+  * The domain name you requested;
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+  * The name of your internet service provider is sometimes captured depending on the configuration of your ISP connection;
 
-**Third Party Service Providers**
+  * The date and time of your visit to the website;
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+  * The length of your session;
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+  * The pages which you have accessed;
 
-**Supplementation of Information**
+  * The number of times you access our site within any month;
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+  * The file URL you look at and information relating to it;
 
-**Contests/Surveys**
+  * The website which referred you to our Service; and
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+  * The operating system which your computer uses.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-**Tell-A-Friend**
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-**What Happens to my Personal Information if I Opt Out?**
+2\. How We Collect Personal Information
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+We collect personal information directly when you provide it to us, automatically as you use our Service.
 
-**Transfer of Data Abroad**
+ **2.1. User-submitted Information.**
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+We collect your personal information when you provide it to us when you complete membership registration and buy items or services on 3D Scan Store, subscribe to a newsletter, email list, submit feedback, enter a contest, fill out a survey, or send us a communication.
 
-**Changes in Our Practices**
+ **2.2. The personal information we collect about you from others.** Although we generally collect personal information directly from you, on occasion, we also   
+  
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+**a.** Transaction details from our trusted payment providers in order to process a transaction;
 
-**Contacting Our Site**
+ **b.** third party service providers (like Google, Facebook, Dropbox) which may provide information about you when you link, connect, or log in to your account with the third party provider and they send us information usually limited to your name and email; and
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+ **c.** other third-party sources/ and or partners whereby we receive additional information about you (to the extent permitted by applicable law), such as demographic data or fraud detection information, and combine it with information we have about you. For example, fraud warnings from service providers like identity verification service.   
+  
 
-* * *
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+3\. How We Use Your Personal Information  
+  
+
+
+**3.1. To fulfill a contract, or take steps linked to a contract.** In particular, in facilitating and processing transactions that take place on 3D Scan Store, like when you purchase an item.  
+  
+
+
+**3.2. When necessary for purposes in our legitimate interest.** These interests include:  
+  
+
+
+**a.**  Operating the Service;  
+  
+
+
+**b.**  Providing you with services described on 3D Scan Store  
+  
+
+
+**c.**  Verifying your identity when you sign in to 3D Scan Store  
+  
+
+
+**d.**  Responding to support emails, and helping facilitate the resolution of any disputes;  
+  
+
+
+**e.**  Updating you with operational news and information about our Service e.g. to notify you about changes to Service, website disruptions or security updates  
+  
+
+
+**f.**  Carrying out technical analysis to determine how to improve the Service we provide  
+  
+
+
+**g.**  Monitoring activity on 3D Scan Store, e.g. to identify potentially fraudulent activity and to ensure compliance with the user terms that apply to the Service;  
+  
+
+
+**h.**  Managing our relationship with you, e.g. by responding to your comments or queries submitted to us on the Service or asking for your feedback or whether you want to participate in a survey;  
+  
+
+
+**i.**  Managing our legal and operational affairs (including, managing risks relating to content and fraud matters);  
+  
+
+
+**g.**  Training 3D Scan Store staff about how to best serve our user community  
+  
+
+
+**k.**  Improving our products and services.  
+  
+
+
+**l.**  Providing general administrative and perform functions and activities;  
+  
+
+
+**3.3. When you give us consent.  
+**  
+To provide a better experience and bring you more value, we will use your personal information to:  
+  
+
+
+**a.**  Provide you with marketing information about products and services which we feel may interest you  
+  
+
+
+**b.**  Customize our services and websites, such as advertising that may appear on 3D Scan Store – where this involves the use of cookies or similar technologies – in order to provide a more personalised experience.  
+
+
+4\. How We Share Your Information  
+  
+
+
+**4.1. Selling Personal Information.  
+**  
+We will not rent or sell your personal information to others under any circumstances.  
+  
+
+
+**4.2. When absolutely necessary we may disclose personal information to the following recipients** :  
+  
+
+
+  * Authors of any items or services made available to you so they can facilitate support;  
+  
+
+
+  * Our professional advisers (lawyers, accountants, financial advisers etc.);  
+  
+
+
+  * Regulators and government authorities in connection with our compliance procedures and obligations;  
+  
+
+
+  * Purchaser or prospective purchaser of all or part of our assets or our business, and their professional advisers;  
+  
+
+
+  * In connection with the purchase;
+
+  * Third party to respond to requests relating to a criminal investigation or alleged or suspected illegal activity;  
+  
+
+  * Third party, in order to enforce or defend our rights, or to address financial or reputational risks;  
+  
+
+  * Rights holder in relation to an allegation of intellectual property infringement or any other infringement; and
+  * Other recipients where we are authorised or required by law to do so.  
+  
+
+
+
+
+
+  
+5\. How We Protect Your Information  
+  
+
+
+We store personal information on secure servers that are managed by us and our service providers. Personal information that we store or transmit is protected by security and access controls, including username and password authentication, two-factor authentication, and data encryption where appropriate.  
+  
+
+
+  
+6\. How you can access your personal information  
+  
+
+
+You can access some of the personal information that we collect about you by logging in to your account. You also have the right to make a request to access other personal information we hold about you and to request corrections of any errors in that data. You can also close the account you have with us at any time. To make an access or correction request, contact us directly at info@3dscansrtore.com  
+  
+
+
+  
+7\. How long we keep your personal information  
+  
+
+
+We retain your personal information for as long as is necessary to provide the Service to you and others, and to comply with our legal obligations. If you no longer want us to use your personal information or to provide you with the 3D Scan Store services, you can request that we erase your personal information and close your 3D Scan Store account. Please note that if you request the erasure of your personal information we will retain information from deleted accounts as necessary for our legitimate business interests, to comply with the law, prevent fraud, collect fees, resolve disputes, troubleshoot problems, assist with investigations, enforce the terms of service and take other actions permitted by law. The information we retain will be handled in accordance with this Privacy Policy.  
+
+
+8\. Children's Privacy
+
+Protecting the privacy of young children is especially important. For that reason, we do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register as Members. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on 3D Scan Store. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at info@3dscanstore.com
+
+  
+9.Your Choices & Rights
+
+Your choices
+
+Where you have given us your consent, you can withdraw it by doing the following.
+
+  * To stop receiving our marketing you can change your preferences within your account, follow the unsubscribe instructions in any of the emails we send you or contact us and we will do it for you.
+
+
+
+
+Your rights
+
+You also have rights over how your personal information is used including:
+
+  * The right to object to our processing of your data.
+
+  * The right to request that your information be erased or restricted from further use.
+
+  * The right to request a copy of the information we hold about you.
+
+  * The right to correct, amend or update the information you have given us (where you have an account with us you can also do this by logging in and updating your information)
+
+
+
+
+To make changes to your account and personal information please [login here ](http://www.3dscanstore.com/index.php?route=account/login)  
+
+
+3D scan store respects the privacy of the personal information of the individuals with whom we interact. 3D scan store does not disclose personal information of our members or those individuals who visit our website. No newsletters or offers will be sent to you without your prior consent. Any information submitted by the buyer will be used solely for the purpose of completing the transaction, delivering the product and addressing any customer service issues.
+
+**We do not store credit card** **details nor do we share customer details with any 3rd parties**
