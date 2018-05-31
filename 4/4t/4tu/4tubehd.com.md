@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4tubehd.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123105342id_/http%3A//www1.4tubehd.com/legal.php%3Fpg%3Dprivacy%26l%3D18382%26t%3D11051%26v%3Ddesktop%26lg%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4tubehd.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531173023id_/http%3A//www1.4tubehd.com/legal.php%3Fpg%3Dprivacy%26l%3D18382%26t%3D11051%26v%3Ddesktop%26lg%3Dus) for the most accurate reproduction.*
 
 # LEGAL
 
