@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beachbunnyswimwear.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218214033id_/http%3A//www.beachbunnyswimwear.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beachbunnyswimwear.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531232952id_/http%3A//www.beachbunnyswimwear.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,6 +7,22 @@
 Thank you for visiting www.BeachBunnySwimwear.com (the “Website”). This privacy and security policy (the “Policy”) explains the information we collect about you, how we use the information, some of the security steps taken to protect the information, and the choices you have to review, revise and/or restrict our usage of this information. This Policy is part of the Terms & Conditions of Use that govern the Website and is binding on all Website users.
 
 If you have any objections to this Privacy Policy, you should immediately discontinue use of the website.
+
+### Your Rights
+
+In respect of your personal information collected and held by Beach Bunny Swimwear, you have the right to:
+
+• access the personal information we process on you
+
+• request restriction of our use
+
+• rectify inaccuracies in the personal information
+
+• deny or withdraw your consent to all or some of our use of your personal information collected by us
+
+• lodge a complaint with a supervisory authority
+
+• deletion of your personal information from our system of records. If you would like to review, change or delete details you have supplied us with or wish to exercise any of your other rights, please contact us at (855) 212-7522
 
 ### A Safe Online Shopping Experience
 
@@ -60,5 +76,5 @@ Or (855) 212-7522
 Or contact us via postal mail:
 
 Beach Bunny Swimwear   
-11742 Cowan   
-Irvine, CA 92614
+3333 Michelson Drive, Suite 500   
+Irvine, CA 92612
