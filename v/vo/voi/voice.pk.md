@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voice.pk privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130185449id_/http%3A//www.voice.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voice.pk privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531174851id_/http%3A//www.voice.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Voice.pk
 
@@ -34,6 +34,6 @@ Our web sites contain links to other sites.  **Voice.PK (Voice of Pakistan)** i
 
 **» Disclaimer:**
 
-Mostly News, Articles and Images are not under our copyrights, these belong to their respective owners. News, Images and Articles have been taken from different sources, If anything is offensive or under your Copyrights then please E-mail us at admin@voice.pk to get it removed.
+Mostly News, Articles and Images are not under our copyrights, these belong to their respective owners. News, Images and Articles have been taken from different sources, If anything is offensive or under your Copyrights then please E-mail us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) to get it removed.
 
 Note: This Page can get updated any time, without an prior notice, so keep checking back.
