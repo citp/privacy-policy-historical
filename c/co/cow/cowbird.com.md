@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cowbird.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221053148id_/http%3A//cowbird.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cowbird.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531210949id_/http%3A//cowbird.com/privacy) for the most accurate reproduction.*
 
 # Cowbird ·
 
@@ -6,7 +6,7 @@ This policy applies to your use of the Cowbird Services and website (collectivel
 
 ##  Information that Cowbird Collects 
 
-Cowbird, Inc. (the “ _Company_ ,” “ _us_ ,” “ _we_ ”) collects personal information when you register with Cowbird, when someone invites you to join Cowbird, and when you use, access, or visit Cowbird. When you register we ask for certain information such as your name and email address. When you register with Cowbird and sign in to our services, you are not anonymous to us. Cowbird is not intended for children under the age of 13. 
+Flaming Toast Productions, LLC. (the “ _Company_ ,” “ _us_ ,” “ _we_ ”) collects personal information when you register with Cowbird, when someone invites you to join Cowbird, and when you use, access, or visit Cowbird. When you register we ask for certain information such as your name and email address. When you register with Cowbird and sign in to our services, you are not anonymous to us. Cowbird is not intended for children under the age of 13. 
 
 The stories, sounds, images, and other media content (“Content”) that you submit for inclusion in Cowbird may reveal personal information about you and the subjects of that Content. We ask that you obtain permission from others and that you carefully consider the information that you want to disclose about yourself and others in the public forum that Cowbird provides. Please be thoughtful and decent. Once you choose to share Content through Cowbird, that Content could potentially be copied and reshared by others with access to Cowbird. 
 
@@ -55,7 +55,8 @@ Users from outside the United States should be aware that they are submitting th
 If you have any questions or concerns regarding this privacy policy, please contact us. 
 
 **By mail:**  
-Cowbird, Inc.  
+Flaming Toast Productions, LLC.  
+Attn: Cowbird  
 P.O. Box 235  
 Shelburne, VT 05482 USA  
 Attn: Privacy Concern 
@@ -65,7 +66,7 @@ Attn: Privacy Concern
 
 _THIS PROCESS IS FOR COPYRIGHT AND OTHER INTELLECTUAL PROPERTY MATTERS ONLY. For reports of abuse and related concerns, please see the links provided for in the[Cowbird Etiquette](http://cowbird.com/etiquette/). _
 
-Cowbird, Inc. and its affiliates respect the intellectual property of others, and we ask our authors to do the same. We may, in appropriate circumstances and at our discretion, disable and/or terminate the accounts of authors who may infringe or repeatedly infringe the copyrights or other intellectual property rights of Cowbird, Inc. and/or others. 
+Flaming Toast Productions, LLC. and its affiliates respect the intellectual property of others, and we ask our authors to do the same. We may, in appropriate circumstances and at our discretion, disable and/or terminate the accounts of authors who may infringe or repeatedly infringe the copyrights or other intellectual property rights of Flaming Toast Productions, LLC. and/or others. 
 
 In accordance with the Digital Millennium Copyright Act of 1998, the text of which may be found on the U.S. Copyright Office website at <http://www.copyright.gov/legislation/dmca.pdf>, Cowbird will respond expeditiously to claims of copyright infringement committed using the Cowbird service if such claims are reported to Cowbird’s Designated Copyright Agent as identified below. 
 
@@ -81,12 +82,13 @@ If you believe that your work has been copied in a way that constitutes copyrigh
 
 
 
-In some circumstances, in order to notify the user, account holder or host who submitted the allegedly infringing content to which we have disabled access in response to a Notice, Cowbird, Inc. or its designee may forward a copy of a valid Notice including name and email address to the user or account holder, or others in its discretion. Your Notice is not private information, and we may choose to post a copy of your Notice, with your personal information removed, on Cowbird and/or to [Chilling Effects](http://www.chillingeffects.org/) for publication and/or annotation. 
+In some circumstances, in order to notify the user, account holder or host who submitted the allegedly infringing content to which we have disabled access in response to a Notice, Flaming Toast Productions, LLC. or its designee may forward a copy of a valid Notice including name and email address to the user or account holder, or others in its discretion. Your Notice is not private information, and we may choose to post a copy of your Notice, with your personal information removed, on Cowbird and/or to [Chilling Effects](http://www.chillingeffects.org/) for publication and/or annotation. 
 
 Cowbird's Designated Copyright Agent can be reached as follows: 
 
 **By mail:**  
-Cowbird, Inc.  
+Flaming Toast Productions, LLC.  
+Attn: Cowbird  
 P.O. Box 235  
 Shelburne, VT 05482 USA  
 Attn: Copyright Agent 
