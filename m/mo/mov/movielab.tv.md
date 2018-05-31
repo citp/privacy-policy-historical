@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movielab.tv privacy policy that was archived on 2017-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171027222008id_/http%3A//ww43.movielab.tv/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movielab.tv privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531163656id_/http%3A//ww43.movielab.tv/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
