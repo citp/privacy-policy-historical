@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128124151id_/http%3A//lowendmac.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531202037id_/http%3A//lowendmac.com/privacy.html) for the most accurate reproduction.*
 
 # Low End Mac Privacy Policy
 
@@ -35,7 +35,7 @@ Low End Mac is an independent publication and has not been authorized, sponsored
   [PRIVACY](https://web.archive.org/privacy.html): We don't collect personal information unless you explicitly provide it, and we don't share the information we have with others. For more details, see our [Terms of Use.](https://web.archive.org/terms.html)
 
 | 
-* Mac of the Day: [Power Mac G4 (FireWire 800)](https://web.archive.org/2003/power-mac-g4-firewire-800/), introduced 2003.01.28. The fastest G4 Power Mac reached 1.42 GHz, adds FireWire 800, only boots Mac OS X.
+* Mac of the Day: [Power Mac 9500](https://web.archive.org/1995/power-mac-9500/), introduced 1995.05.01. The first PCI Power Mac has 6 expansion slots, speeds of 120 and 132 MHz.
 * List of the Day: [MaX](http://lowendmac.com/linux/max.shtml) is our group for Unix, Linux, BSD, AU/X, MachTen, and other *nixes on Mac hardware.  
 
  **Channels**  
