@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the inxile-entertainment.com privacy policy that was archived on 2017-11-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171114062935id_/http%3A//inxile-entertainment.com/help/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the inxile-entertainment.com privacy policy that was archived on 2018-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180531135342id_/http%3A//inxile-entertainment.com/help/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	<meta charset="UTF-8">
@@ -492,26 +492,42 @@
         </div></div>
 			<div class="break"></div>
 			<footer class="master">
-				<div>© 2017 inXile entertainment. All rights reserved.<div class="menu">
+				<div>© 2018 inXile entertainment. All rights reserved.<div class="menu">
 <div class="frame"><a title="Support" href="/support"><span>Support</span></a><a title="Contact" href="/contact"><span>Contact</span></a><a class="active" title="Privacy Policy" href="/help/privacy-policy"><span>Privacy Policy</span></a><a title="Terms of Use" href="/help/terms-of-use"><span>Terms of Use</span></a></div></div></div>
 				<div class="social-media">
-										<a rel="nofollow" href="//www.facebook.com/inxile.entertainment" title="Facebook"><i class="icon facebook-square"></i></a>
-					<a href="//forums.inxile-entertainment.com" title="Forum"><i class="icon weixin"></i></a>
+										<a rel="nofollow" href="//www.facebook.com/inxile.entertainment" title="Facebook" onclick="page_links.open(this.href);return false;"><i class="icon facebook-square"></i></a>
+					<a href="//forums.inxile-entertainment.com" title="Forum" onclick="page_links.open(this.href);return false;"><i class="icon weixin"></i></a>
 					<a rel="nofollow" href="#" onclick="window.open('http://www.gog.com/games##devpub=inxile_entertainment');return false;" title="GOG.com"><i class="icon gamepad"></i></a>
-					<a rel="nofollow" href="//www.kickstarter.com/profile/inxile" title="Kickstarter"><i class="icon heart"></i></a>
-					<a rel="nofollow" href="//store.steampowered.com/search/?developer=inXile%20Entertainment" title="Steam"><i class="icon steam"></i></a>
-					<a rel="nofollow" href="http://www.twitch.tv/inxile_entertainment" title="Twitch"><i class="icon twitch"></i></a>
-					<a rel="nofollow" href="//twitter.com/Inxile_Ent" title="Twitter"><i class="icon twitter"></i></a>
-					<a rel="nofollow" href="//www.youtube.com/user/inXile2010" title="YouTube"><i class="icon youtube"></i></a>
+					<a rel="nofollow" href="//www.kickstarter.com/profile/inxile" title="Kickstarter" onclick="page_links.open(this.href);return false;"><i class="icon heart"></i></a>
+					<a rel="nofollow" href="//store.steampowered.com/search/?developer=inXile%20Entertainment" title="Steam" onclick="page_links.open(this.href);return false;"><i class="icon steam"></i></a>
+					<a rel="nofollow" href="http://www.twitch.tv/inxile_entertainment" title="Twitch" onclick="page_links.open(this.href);return false;"><i class="icon twitch"></i></a>
+					<a rel="nofollow" href="//twitter.com/Inxile_Ent" title="Twitter" onclick="page_links.open(this.href);return false;"><i class="icon twitter"></i></a>
+					<a rel="nofollow" href="//www.youtube.com/user/inXile2010" title="YouTube" onclick="page_links.open(this.href);return false;"><i class="icon youtube"></i></a>
 				</div>
 				<div class="esrb">
 					<img id="esrb-footer-image-1" style="display: none;" alt="" src="/static/img/layout/ESRB-Generic.png">
 					<img id="esrb-footer-image-2" style="display: none;" alt="" src="/static/img/layout/ESRB-RP_M.png">
-                    <a href="https://www.louisianaentertainment.gov/"><img alt="" src="/static/img/layout/LA_Ent_LOGO_B_Color-225x100.jpg"></a>
+                    <a href="https://www.louisianaentertainment.gov/" onclick="page_links.open(this.href);return false;"><img alt="" src="/static/img/layout/LA_Ent_LOGO_B_Color-225x100.jpg"></a>
 				</div>
 			</footer>
 		</section>
 	</main><script type="text/javascript">(function(w,d,s){function go(){var js,fjs=d.getElementsByTagName(s)[0],load=function(url,id){if(d.getElementById(id)){return}js=d.createElement(s);js.src=url;js.id=id;fjs.parentNode.insertBefore(js,fjs)};load('/_/tasks','id0');}if(w.addEventListener){w.addEventListener('load',go,false)}else if(w.attachEvent){w.attachEvent('onload',go)}}(window,document,'script'));</script><script type="text/javascript">
+    // polyfill for "includes"
+    if (!String.prototype.includes) {
+        String.prototype.includes = function(search, start) {
+            'use strict';
+            if (typeof start !== 'number') {
+                start = 0;
+            }
+
+            if (start + search.length > this.length) {
+                return false;
+            } else {
+                return this.indexOf(search, start) !== -1;
+            }
+        };
+    }
+
     var contentElement = document.getElementById("restricted-content");
 
     __jsAgeGateInit({
@@ -540,8 +556,11 @@
             if( sideNav ){
                 sideNav.setAttribute("style", "display: inline-block;");
             }
+        },
+        bypass: function(){
+            return location.href.includes("/careers");
         }
     });
 </script>
 
-<!-- 9shk0k --></body></html>
+<!-- wgbzg4 --></body></html>
