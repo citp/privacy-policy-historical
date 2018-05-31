@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapoair.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219213218id_/https%3A//www.cheapoair.com/travel/travel_resources/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapoair.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531190445id_/https%3A//www.cheapoair.com/travel/travel_resources/privacy.asp) for the most accurate reproduction.*
 
 # CheapOair.com Privacy Policy
 
@@ -133,6 +133,10 @@ We will retain your Personal Information for the period necessary to fulfill the
 **Use Of The Services By Minors**
 
 The Services are not directed to individuals under the age of eighteen (18), and we request that they not provide Personal Information through the Services. 
+
+**Individuals Located in the European Economic Area**
+
+This Website is not directed to or intended for use by individuals located in the European Economic Area ("EEA"). If you are located in the EEA, please make your reservations at our EEA Website located at CheapOair.co.uk.
 
 **Cross-Border Transfer**
 
