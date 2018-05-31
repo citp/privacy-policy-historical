@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bridgebase.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204200203id_/http%3A//www.bridgebase.com/intro/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridgebase.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601011700id_/http%3A//www.bridgebase.com/intro/privacy.php) for the most accurate reproduction.*
 
 # Bridge Base Online
 
 #### Bridge Base Online Privacy Statement
 
-_(last updated: Sep 2014)_
+_(Last updated: May 2018. The most significant recent changes have been highlighted.)_
 
 Bridge Base Online ("BBO") is committed to protecting your privacy. This privacy statement applies to the data collected by BBO through the Bridge Base Online web pages and the original BBO program (collectively, the Site); it does not apply to data collected through other online or offline BBO sites, products or services. 
 
@@ -12,7 +12,7 @@ Bridge Base Online ("BBO") is committed to protecting your privacy. This privacy
 
 We will ask you when we need information that personally identifies you or allows us to contact you. 
 
-We will ask you for your username, password, and a valid email address during the registration process.
+We will ask you for your username, password, and a valid email address during the registration process. 
 
 You need not enter your real name in the registration form or your profile. The public portion of your profile (Name, country, skill level, other information) will be visible to every other member of the site. 
 
@@ -26,7 +26,7 @@ We record visitor IP addresses, usernames, and many details of site activity.
 
 We may record all chat, including private chat between usernames. 
 
-We record hands played on the site. This information is made publicly available. 
+We record hands played on the site. This information may be made publicly available. 
 
 #### Use of Your Personal Information
 
@@ -56,23 +56,33 @@ Please be aware that this privacy statement and any choices you make on the Site
 
 #### Security of Your Personal Information
 
-BBO is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer servers with limited access that are located in controlled facilities. Additionally, when we transmit sensitive personal information (such as a credit card number) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol. 
+BBO is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer servers with limited access that are located in controlled facilities. 
+
+Additionally, when we transmit sensitive personal information (such as a credit card number) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol. 
 
 The public portion of your profile (Name, email, country, skill level, other information) will be visible to every other member of the site. 
 
-Our support staff and some of our yellow volunteers can look up your IP address and, in addition, identity other aliases that you have might have used previously. 
+Our support staff and some of our yellow volunteers can look up your IP address and, in addition, identify other aliases that you have might have used previously. 
 
-Our support staff can look up your entire profile, aliases, purchase history and chatlogs. Our accounting staff can look up your prior transactions (including yourreal name, address and phone number, if you supplied this information during commerce). 
+Our support staff can look up your entire profile, aliases, purchase history and chatlogs. 
+
+Our accounting staff can look up your prior transactions (including your real name, address and phone number, if you supplied this information during commerce) 
 
 #### Destruction of Your Personal Information
 
 BBO routinely discards system logs and other records after approximately 100 days. Parts of some logs ( for example: those relating to commerce, technical support, and some account activity ) are kept indefinitely. Usernames can be disabled but not destroyed. 
 
+You may request some private data we hold on our servers for you (such as any address, credit card data, real name field) to be wiped clean for you. Email us at [support@bridgebase.com](mailto:support@bridgebase.com). 
+
+#### Updating your information
+
+You may alter information that's displayed to other users by logging into your BBO account and updating your profile. 
+
 #### Use of Local Storage
 
 We sometimes use your local storage ( typically, your hard drive ) to store your preferences (for example: screen size, screen position ). If you choose to have the Site remember your username and password, the Site will encrypt these fields weakly and save them in local storage. 
 
-Your chat logs, including your private chat logs, are recorded to local storage in some versions of the Site. You have the ability to direct that these versions of the Site stop recording chat. You also have the abilty to erase previously logged chat. Both can be found in the Preferences section of the Site. 
+Your chat logs, including your private chat logs, are recorded to local storage in some versions of the Site. You have the ability to direct that these versions of the Site stop recording chat. You also have the ability to erase previously logged chat. Both can be found in the Preferences section of the Site. 
 
 Some versions of the Site grant you the ability to automatically save hands that you have either played or viewed. You have the ability to specify that these versions of the Site stop recording hands. This can be specified in the Preferences section of the Site. 
 
@@ -86,7 +96,23 @@ We sometimes use cookies on this Site to ensure the integrity of the login/regis
 
 One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. This simplifies the process of delivering relevant content, eases site navigation, and so on. When you return to the web site, the information you previously provided can be retrieved, so you can easily use the site's features that you customized. 
 
-You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to use interactive features of this or other web sites that depend on cookies. 
+You have the ability to accept or decline our cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to use interactive features of this or other web sites that depend on cookies. 
+
+#### Use of Cookies in Advertising
+
+We work with third-party advertisers to serve targeted ads. These advertisement partners may also be tracking you via their own third-party cookies. These cookies collect information about your browsing habits in order to provide advertising more relevant to you and your interests. These cookies are placed by the advertising networks who may in turn share information with the advertisers. 
+
+There are ways to decline/delete cookies within most browsers. You can update your browser settings to modify your browser privacy. ( For example: if you use Google Chrome browser, you can follow the steps listed [here](https://support.google.com/chrome/answer/114836?co=GENIE.Platform%3DDesktop&hl=en) to modify your privacy settings.) 
+
+You also have choices about the collection of information by these third party advertisers on our website. 
+
+If you would like to read more about your option not to accept advertiser cookies, please click [here](http://optout.networkadvertising.org/?c=1#!/). 
+
+If you would like to opt-out of having interest-based ad targeting, please click [here](http://optout.aboutads.info/?c=2#!/). 
+
+#### Mobile Devices
+
+Due to differences between apps and websites on mobile devices, you may need to take additional steps to disable tracking technologies in mobile apps. Many mobile devices allow you to opt-out of targeted advertising within the Settings area of the device. 
 
 #### Changes to this Privacy Statement
 
@@ -94,7 +120,7 @@ We may occasionally update this privacy statement. When we do, we will also revi
 
 #### Contact Information
 
-BBO welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please contact us by clicking [here](mailto:support@bridgebase.com). You may also contact us through postal mail at the address provided below and we will use commercially reasonable efforts to promptly determine and remedy the problem. 
+BBO welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please contact us at via email at [support@bridgebase.com](mailto:support@bridgebase.com). You may also contact us through postal mail at the address provided below and we will use commercially reasonable efforts to promptly determine and remedy the problem. 
 
 Bridge Base Online, Ltd.   
 2805 High Sail Court   
