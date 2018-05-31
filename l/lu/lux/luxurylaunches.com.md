@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the luxurylaunches.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128171805id_/http%3A//luxurylaunches.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxurylaunches.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531225918id_/http%3A//luxurylaunches.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Luxurylaunches
+# Privacy Policy -
 
 User Information
 
@@ -30,7 +30,7 @@ Controlling Your Personal Information
 
 You should be aware that when you voluntarily disclose personally identifiable information (e.g., user name, e-mail address) via comments, messages, forums, postings, or in other areas of the Luxurylaunches network, that information, along with any substantive information disclosed in your communication, can be collected and correlated and used by third parties and may result in unsolicited messages from other posters or third parties. Such activities are beyond the control of Luxurylaunches. Please do not post any personal information on the Luxurylaunches site or in other areas that you expect to keep private.
 
-As a registered Luxurylaunches user, you can modify your personal information at any time by editing your “Profile”. Also, upon your request, Luxurylaunches will use commercially reasonable efforts to functionally remove you and your personal information from the site; however, it may be impossible to remove your entry without some residual information being retained by Luxurylaunches. Registered users who wish to close their account should contact Luxurylaunches@gmail.com.
+As a registered Luxurylaunches user, you can modify your personal information at any time by editing your “Profile”. Also, upon your request, Luxurylaunches will use commercially reasonable efforts to functionally remove you and your personal information from the site; however, it may be impossible to remove your entry without some residual information being retained by Luxurylaunches. Registered users who wish to close their account should contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 Links
 
