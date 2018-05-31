@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codester.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209113938id_/https%3A//www.codester.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codester.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531150953id_/https%3A//www.codester.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Codester
 
@@ -7,6 +7,8 @@
 Soniq Internet Media ( **Privacy policy** ) has developed this Privacy Policy (“Policy”) to inform you about how we deal with privacy issues in relation to our website. Your privacy is very important to us and you must agree to the terms of this Policy before becoming an Privacy policy member and/or using the website ( **the website** ), included but not limited to
 
 This Policy governs the information we collect about you and your use of information we provide to you. By accepting this Policy and the User Terms & Conditions Agreement, you expressly consent to our use and disclosure of your personal information in a manner prescribed in this Policy. You acknowledge this by using the website.
+
+For the purposes of applicable EU data protection law (including GDPR), Soniq internet Media (Located in The Hague, The Netherlands) is the ‘data controller’ of your personal information.
 
 ### Information About Children
 
@@ -49,6 +51,13 @@ If you choose to buy or sell on our website, we collect information about your b
 
 Please note that when you voluntarily disclose information on the bulletin boards or in the forums or in the chat areas of the website or in member profile pages, your personal and other information disclosed in your communication shall become public information and can be collected and used by other parties. We cannot control what third parties in the bulletin board, chat room or member profile pages do with your personal information.
 
+This information can be shared with the following companies:
+
+  * Facebook
+  * Google
+
+
+
 ### Information collection - Part B – Members
 
 We collect information from people who use the Membership Section of our Site (“Members”). This information may be used:
@@ -62,6 +71,14 @@ We collect information from people who use the Membership Section of our Site (�
 If you choose to buy or sell on our website we collect information about your buying and selling behaviour.
 
 If you use a payment facilitator on the website, we collect additional necessary information, including but not limited to billing address, credit card number and credit card expiry date.
+
+Depending on your choice of payment method this information can be shared with the following parties:
+
+  * Paypal
+  * Stripe
+  * Payoneer
+
+
 
 #### USE OF INFORMATION AND DISCLOSURE
 
@@ -91,7 +108,7 @@ No personally identifiable information is collected by these cookies. The anonym
 
 #### ACCESS AND /OR CORRECTION OF YOUR DETAILS
 
-You may request access to your personal information and can ask us to correct your personal information.
+You may request access to your personal information and can ask us to correct or remove your personal information. To request such action, please contact us at [support@codester.com](mailto:support@codester.com)
 
 #### DISCLAIMER
 
