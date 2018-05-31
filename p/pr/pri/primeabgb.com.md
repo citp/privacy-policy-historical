@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primeabgb.com privacy policy that was archived on 2017-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170119205345id_/https%3A//www.primeabgb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primeabgb.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531164705id_/https%3A//www.primeabgb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Prime ABGB - Prime ABGB.com
 
