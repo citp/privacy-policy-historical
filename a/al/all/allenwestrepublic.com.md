@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allenwestrepublic.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119125817id_/https%3A//allenwestrepublic.com/privacy-policy-terms-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allenwestrepublic.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531132936id_/https%3A//allenwestrepublic.com/privacy-policy-terms-conditions) for the most accurate reproduction.*
 
 # Privacy Policy / Terms & Conditions - Allen West Republic
 
@@ -71,3 +71,6 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please feel free to [contact us](https://web.archive.org/contact/) by email.
+
+
+
