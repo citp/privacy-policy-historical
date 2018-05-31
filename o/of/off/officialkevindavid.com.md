@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the officialkevindavid.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222140028id_/http%3A//www.officialkevindavid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officialkevindavid.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531110712id_/http%3A//www.officialkevindavid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Terms of Service Earnings Disclaimer - Change Your Life Forever
 
@@ -6,11 +6,11 @@
 
 By agreeing to our policies you agree to NOT share out private training material with anyone for any reason outside the private student Facebook group. Kevin David has poured his heart and soul into this training and sharing it, or intending to distribute it without our direct and express consent is prohibited.
 
-We at THATLifestyleNinja LLC want you to be satisfied with your purchase of the Amazon FBA Ninja Course and/or any of our products.
+We at THATLifestyleNinja LLC want you to be satisfied with your purchase of the Shopify Ninja Masterclass and/or any of our products.
 
-If you have any questions or problems, please let us know by contacting our talented support team directly at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have any questions or problems, please let us know by contacting our talented support team directly at support@officialkevindavid.com.
 
-In the event that you decide your purchase was not the right decision, contact our support team and show us you actually did the work and attempted to free yourself financially and create a new career with Amazon FBA. We will review your viewership percentage of course material and attempt to help correct the issue. If we cannot help solve the issue, and you have viewed less than 40% of course content we’ll issue you a prompt FULL refund.
+In the event that you decide your purchase was not the right decision, contact our support team and show us you actually did the work and attempted to free yourself financially and create a new career with Shopify. We will review your viewership percentage of course material and attempt to help correct the issue. If we cannot help solve the issue, and you have viewed less than 40% of course content we’ll issue you a prompt FULL refund.
 
 To be eligible for a refund, you must submit your request on or before 11:59pm Eastern Standard Time on the 14th day following your purchase. After you submit your materials, all refunds are discretionary and based on viewership of course material and involvement in student group discussions, Q&A sessions and general commitment to the course material as decided solely by Support team and Kevin David.
 
