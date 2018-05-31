@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dyndns.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228001008id_/http%3A//dyn.com/legal/dyn-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dyndns.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531100408id_/https%3A//dyn.com/legal/dyn-privacy-policy) for the most accurate reproduction.*
 
 # Oracle's Privacy Policy
 
 _Dyn has been[acquired](https://www.oracle.com/corporate/acquisitions/dyn/index.html) by Oracle and will soon transition to the Oracle Privacy Policy. Click here to view the Oracle Privacy Policy. Please note that the provisions of Oracle’s Privacy Policy for Dyn Services below will remain active until the policy transition is complete_
 
-Last Modified: August 29, 2017
+Last Modified: February 15, 2018
 
 **ORACLE’S PRIVACY POLICY FOR DYN SERVICES (“Privacy Policy”)**
 
@@ -82,9 +82,9 @@ Oracle does not sell or license your Personal Information to a third party for t
 
 TRACKING TECHNOLOGIES. Most browsers will allow you to erase cookies from your computer hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. You may also be able to refuse certain web beacons by adjusting the settings on your browser or email software. Please refer to your browser or email software instructions or help screen to learn more about these functions.  Note that if you disable or refuse cookies, some parts of the Sites may be inaccessible or not function properly.
 
-ACCESSING AND CORRECTING YOUR INFORMATION.Should you wish to access, amend, correct, or delete any Personal Information about you, please contact privacy@dyn.com. Oracle will use commercially reasonable efforts to respond to such requests within thirty days, except where the burden or expense of providing access or requested changes would be disproportionate to the risks to your privacy in the case in question. Please note that your ability to use, and Oracle’s ability to provide, the Services may depend upon the use of your Personal Information. As such, you agree that Oracle will not be liable for any inability to provide all or a portion of the Services that may result from Oracle’s compliance with any request to amend, correct or delete any of your Personal Information.
+ACCESSING AND CORRECTING YOUR INFORMATION.Should you wish to access, amend, correct, or delete any Personal Information about you, please contact privacy_ww@oracle.com. Oracle will use commercially reasonable efforts to respond to such requests within thirty days, except where the burden or expense of providing access or requested changes would be disproportionate to the risks to your privacy in the case in question. Please note that your ability to use, and Oracle’s ability to provide, the Services may depend upon the use of your Personal Information. As such, you agree that Oracle will not be liable for any inability to provide all or a portion of the Services that may result from Oracle’s compliance with any request to amend, correct or delete any of your Personal Information.
 
-UNSUBSCRIBING FROM COMMUNICATIONS. **** If you no longer wish to receive Newsletters, Support Related Emails or other promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter, by going to [https://account.dyn.com/profile/mailinglist.html](https://account.dyn.com/profile/mailinglist.html) or emailing privacy@dyn.com. In order to ensure the integrity, security and operation of our systems and networks, we do not allow you to unsubscribe from Service Notices.
+UNSUBSCRIBING FROM COMMUNICATIONS. **** If you no longer wish to receive Newsletters, Support Related Emails or other promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter, by going to [https://account.dyn.com/profile/mailinglist.html](https://account.dyn.com/profile/mailinglist.html) or emailing privacy_ww@oracle.com. In order to ensure the integrity, security and operation of our systems and networks, we do not allow you to unsubscribe from Service Notices.
 
 **APPLICABILITY**
 
@@ -92,11 +92,19 @@ This Privacy Policy applies to Sites and Services that make specific reference t
 
 **EU US PRIVACY SHIELD**
 
-Oracle complies with the EU-U.S. Privacy Shield framework and adheres to the Privacy Shield Principles with respect to personal data that is received from the European Union. The Department of Commerce lists the participants in the Privacy Shield at [https://www.privacyshield.gov/list](https://www.privacyshield.gov/list).
+DYN has been acquired by Oracle. Oracle is a global corporation with operations in over 80 countries and has developed global data security practices designed to ensure that your personal information is appropriately protected. Please note that personal information may be transferred, accessed and stored globally as necessary in accordance with this Statement. 
 
-Oracle is accountable for personal data received under the Privacy Shield and that is subsequently transferred to a third party as described in the Privacy Shield Principles. Oracle remains responsible and liable under the Privacy Shield Principles if Oracle’s third-party agents process the personal data on Oracle’s behalf in a manner inconsistent with the Principles, unless Oracle proves that it is not responsible for the event giving rise to the damage.
+Oracle complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention when a customer and Oracle have agreed by contract that transfers of personal information from the European Economic Area (“EEA”) or Switzerland will be transferred and processed pursuant to the Privacy Shield for the relevant services. When conducting those activities on behalf of its EEA or Swiss customers, Oracle holds and/or processes personal information provided by the EEA or Swiss customer at the direction of the customer. Oracle will then be responsible for ensuring that third parties acting as an agent on our behalf do the same. 
 
-We encourage you to contact us should you have Privacy Shield-related (or general privacy-related) questions or complaints. Our contact information is below in the “How to Contact Us” section. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request. Under certain conditions, more fully described on the Privacy Shield website, you may invoke binding arbitration when other dispute resolution procedures have been exhausted. Oracle is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
+Oracle has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this Statement and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/list. 
+
+The following entities are covered entities under Oracle’s Privacy Shield self-certification: Delphi Asset Management Corporation; MICROS Fidelio Worldwide LLC; Oracle America, Inc.; Oracle Financial Services Software America, Inc.; Oracle Financial Services Software, Inc.; Oracle International Corporation; Oracle Taiwan LLC; Bronto Software, LLC; Monexa, LLC, NetSuite, Inc.; OrderMotion, Inc.; Dynamic Network Services, Inc. With respect to personal information received or transferred pursuant to the Privacy Shield Framework, Oracle is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission and commits to cooperate with EU data protection authorities. 
+
+Dispute Resolution
+
+If you have any complaints regarding our compliance with this Statement, you should first contact us. We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with this Statement. 
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request. Under certain conditions, more fully described on the Privacy Shield website, you may invoke binding arbitration when other dispute resolution procedures have been exhausted. 
 
 **DOMAIN REGISTRATION**
 
@@ -123,7 +131,7 @@ We reserve the right to modify this Privacy Policy from time to time. We will po
 If you have any questions regarding this Privacy Policy, Oracle may be contacted at:
 
 By email:  
-privacy@dyn.com
+privacy_ww@oracle.com
 
 By mail:  
 Oracle America, Inc.  
