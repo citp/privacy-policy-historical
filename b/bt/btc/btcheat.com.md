@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the btcheat.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220134604id_/http%3A//btcheat.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btcheat.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531093139id_/http%3A//btcheat.com/privacy.php) for the most accurate reproduction.*
 
 # BTC HEAT
 
@@ -14,19 +14,19 @@ This Privacy Policy determines how your Personally Identifiable Information (PII
 
 
 
-When visiting or registering on our website, as appropriate, you may be asked to enter your Bitcoin wallet address, email address or other details to help you with your experience. We do not require for any passwords or other sensitive personal information.
+When visiting or registering on our website, as appropriate, you are only asked to enter your Bitcoin wallet address. We do not require for any emails, passwords, balance information or other sensitive personal information to be entered on this website.
 
   3. **Personal Information Usage**
 
 
 
-We may use the information we collect from you when you register, surf the website, or use certain other site features in order to personalize your experience and to allow us deliver the type of content in which you are most interested. 
+We use the information we collect from you in order to enable the features of the website and personalize your experience. None of your entered data is visible to other users. 
 
   4. **Personal Information Protection**
 
 
 
-We store as little personal data as possible to ensure delivery of all our Website features. We do not collect any sensitive personal data which could be used for making unauthorized payments or logins. We employ strict stored data protection measures.
+We store as little data as possible to ensure delivery of all our Website features. We do not collect any sensitive personal data which could be used for making unauthorized payments or logins or to identify a person. We employ strict stored data protection measures.
 
   5. **Cookies**
 
