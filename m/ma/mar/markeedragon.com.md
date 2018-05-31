@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the markeedragon.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125034512id_/http%3A//news.markeedragon.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markeedragon.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531154034id_/http%3A//news.markeedragon.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Markee Dragon News & Views
 
@@ -52,7 +52,7 @@ MDN will occasionally update this Statement of Privacy to reflect company and cu
 
 Dragon Media Entertainment LLC
 
-5699 E Sleepydale LN
+PO Box 106
 
 Hereford,Arizona,85615
 
@@ -66,6 +66,6 @@ Phone:
 (512) MMO-RPG0  
 Austin, TX
 
-This policy was last modified on Jan 05, 2016
+This policy was last modified on Feb 07, 2018
 
 * * *
