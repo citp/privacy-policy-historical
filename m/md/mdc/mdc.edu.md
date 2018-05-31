@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mdc.edu privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127132433id_/http%3A//www.mdc.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdc.edu privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531205017id_/http%3A//www.mdc.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Miami Dade College
 
