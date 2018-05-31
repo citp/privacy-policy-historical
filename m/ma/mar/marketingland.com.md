@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marketingland.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227233748id_/https%3A//marketingland.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingland.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531184815id_/https%3A//marketingland.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Marketing Land
 
 We want to protect your privacy. In order to operate, our web sites and business operations may gather information about you. These terms explain how this may happen, what we will do with any potentially private data and how you can get in contact should you have any concerns.
 
