@@ -1,6 +1,54 @@
-> *The following text is extracted and transformed from the tractorbynet.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216140101id_/http%3A//www.tractorbynet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tractorbynet.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601143016id_/http%3A//www.tractorbynet.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Compact tractor forums, news, reviews, information.
+# Privacy Policy - TractorByNet
+
+## TractorByNet Privacy Basics
+
+**What personal information does TractorByNet store on its servers?**
+
+We store your IP address for all website visitors, as well as the e-mail address and “location” as entered by the user only when they create a user account. If you have placed an order from our store, we also store your address(es) and phone number(s) as well.
+
+**Does TractorByNet sell personal data of its users to third parties?**
+
+No.
+
+**What information do the ads on TractorByNet gather and store?**
+
+We display ads from a number of third party networks as well as our own in-house advertising network, which includes ad delivery technology controlled by TractorByNet. The only personal data that those third parties collect is your IP address and cookie information. That information is used to display ads to you on other websites you visit. You can opt out of our retargeting ads by visiting the following links:
+
+  * [Google Opt-out](https://adssettings.google.com/authenticated?hl=en#display_optout)
+  * [Exponential Opt-out](http://exponential.com/privacy/)
+
+
+
+Please check the “partner privacy policies” section below for more information and links to third party ad delivery and partner privacy policies.
+
+**Does TractorByNet use cookies? Do the cookies store personal data?**
+
+Yes. The anonymous cookie assigned by TractorByNet tracks your username and password.
+
+Our ad networks may also assign anonymous cookies to each user. These cookies serve two primary purposes:
+
+  * Track how many times an ad is served to a particular user and we stop serving the ad after a certain number of views.
+  * Limit the number of times we serve ads to each user’s browser.
+
+
+
+* * *
+
+## Personal Data Download & Deletion
+
+**Q: How can a user download all personal information stored on TractorByNet’s servers?**
+
+A: Forum members can visit [this link](http://www.tractorbynet.com/forums/profile.php?do=editprofile) to view the personal information we have stored. This only applies to registered members. Store customers can view the personal information we have stored at [this link](http://store.tractorbynet.com/login.asp).
+
+**Q: How can a user delete all personal data stored by TractorByNet?**
+
+A: Deleting all personal data requires that we delete your e-mail address from your user account. Please e-mail contact@tractorbynet.com with your request with the subject line “delete personal data” and we will remove your personal data not more than 30 days after your request is received.
+
+* * *
+
+## Privacy Policy
 
 **What information do we collect?**
 
@@ -31,7 +79,8 @@ To administer a contest, promotion, survey or other site feature
 
 To send periodic emails such as newsletters, promotions from TractorByNet.com, and site updates.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.  
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+
 **How do we protect your information?**
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
@@ -68,6 +117,10 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
+**Partner Privacy Policies**
+
+Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their [privacy policy](http://exponential.com/privacy/) or contact their data protection officer via privacy@exponential.com.
+
 **Terms of Use**
 
 Please also visit our Terms of Use section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.tractorbynet.com/content/terms-of-use/>
@@ -80,7 +133,7 @@ By using our site, you consent to our [online privacy policy](http://www.tracto
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on 2/28/2013
+This policy was last modified on 5/4/2018
 
 **Contacting Us**
 
