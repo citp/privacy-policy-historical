@@ -1,100 +1,130 @@
-> *The following text is extracted and transformed from the weteachsex.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weteachsex.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601075236id_/http%3A//weteachsex.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy – We Teach Sex
 
-**Go Daddy Respects Your Privacy**
+### EFFECTIVE DATE: MAY 25, 2018
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+1\. INTRODUCTION  
+1.1. PURPOSE OF POLICY.  
+BLC Education, LLC dba WeTeachSex.com (“us,” “we,” or “Company”) is committed to respecting the privacy rights of its visitors and users of this website (the “Site”). We created this Privacy Policy (“Policy”) to give you confidence as you visit and use the Site, and to demonstrate a commitment to fair information practices and the protection of privacy.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+2\. INFORMATION COLLECTION PRACTICES  
+2.1. WHAT PERSONALLY IDENTIFIABLE INFORMATION DO WE COLLECT?  
+(a) Categories of Personally Identifiable Information. We collect personally identifiable information from you only if you sign up for a newsletter or contact us including:
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+• Your name,  
+• Your email address, and  
+• Message details you send with inquiries.
 
-**Information Collection and Use**
+(b) Modification or Removal Process. Please contact us if you wish to modify your information.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+(c) Privacy Policy Modifications and Updates. We may update and modify this Privacy Policy. If we modify or update the policy, we will post a notice on the Site for 30 days prior to the change going into effect.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+(d) Effective Date: The effective date of this new privacy policy shall be February 28, 2017.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+(e) Do Not Track Signals. We do not currently honor “do not track” signals issued by browsers or other third party sources.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+(f) Third-Party Tracking: As a matter of transparency, we’ve decided to disclose to you whether third parties can acquire and track your personally identifiable information through our website. Google and other sites listed below can track you through this Site as we use their services for social media and infrastructure purposes. Google participates in the NIA opt out program. You can visit this link to no longer be tracked by Google and Google properties such as Google Plus. You can also visit the following sites to read their privacy policies and how they track individuals across the web:
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+• [Facebook](https://www.facebook.com/about/privacy/)  
+• [Twitter](https://twitter.com/privacy)  
+• [YouTube](https://www.youtube.com/static?template=privacy_guidelines)
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+You can use programs such as [Privacy Badger](https://www.eff.org/privacybadger) to further control the collection of information regarding you online.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+(g) California Eraser Law. We comply with the California eraser law. To the extent you are a minor and wish to have any content you’ve posted to the Site removed, please contact us using the Contact link in the footer of the Site to make the request. Please note the removal of this content from the Site does not mean it will be removed from the web as search engines, archive websites and other platforms may have copied the content in question.
 
-**Security**
+2.2. WHAT ADDITIONAL INFORMATION DOES COMPANY COLLECT?  
+(a) AUTOMATIC COLLECTION. Our servers automatically recognize visitors’ domain names and IP addresses (the number assigned to computers on the Internet). No personal information about you is revealed in this process. The Site may also gather anonymous aggregate “traffic data” that does not personally identify you, but that may be helpful for marketing purposes or for improving the services we offer.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+(b) COOKIES. We may use “cookies” to store a small piece of data on your computer during your visit to collect information. The cookies are used to gain information on how you use the web, which we try to incorporate into the Site to improve your experience.
 
-**Updating Your Information**
+3\. USE AND SHARING OF INFORMATION  
+3.1. WHAT DOES COMPANY DO WITH COLLECTED INFORMATION?  
+(a) PERSONAL INFORMATION. We will not share your personal information with any third parties without your consent, except as necessary to provide you with the services offered by us or to comply with the law. Examples of such services include, but are not limited to, third parties providing email facilitation and hosting. However, please note that if you leave the Site and purchase a product or service we promote, the company you purchase from will notify us of the purchase as well as certain identifying information for you. We do not share this information with others.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+(b) ANONYMOUS INFORMATION. We use anonymous information to analyze our Site traffic. In addition, we may use anonymous IP addresses to help diagnose problems with our server, to administer our Site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis. Your personal information will not be detailed in this aggregate data.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+(c) USE OF COOKIES. We use information obtained from cookies to analyze your use of the Site and to make appropriate adjustments.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+(d) DISCLOSURE OF PERSONAL INFORMATION. We may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the edicts of the law or comply with legal process served on Company, (2) protect and defend the rights or property of Company or the users of the Site, or (3) act under exigent circumstances to protect the safety of the public or users of the Site.
 
-      iii.      You may call us at: (480) 505-8800
+(e) SALE OF INFORMATION. In order to accommodate changes in our business, we may sell or buy portions of our Company or other companies or assets, including the information collected through this Site and from orders of our product including your customer information. If Company or substantially all of its assets are acquired by a third party, your personally identifiable information will be one of the assets transferred to the acquirer.
 
-       iv.      You may fax us at: (480) 505-8844
+(f) DMCA CLAIM DISCLOSURES. We comply with the Digital Millennium Copyright Act of 1998, better known as the “DMCA”. Should we receive a claim of copyright infringement, we will comply with the safe harbor requirements of the DMCA. Part of that compliance may require the disclosure of your identity if you are either the allegedly infringing party or the party filing the copyright infringement complaint.
 
-**Sending Emails**
+4\. SECURITY  
+The Site has reasonable security measures in place such as Secure Sockets Layer protocols to prevent the loss, misuse, and alteration of the information that we obtain from you, but we make no assurances about our ability to prevent any such loss, misuse, to you or to any third party arising out of any such loss, misuse, or alteration.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+5\. SITE AREAS BEYOND COMPANY’S CONTROL  
+5.1. THIRD PARTY WEBSITES  
+The Site contains links to and interfaces with third party websites and online platforms. These websites and online platforms have established their own terms of use and privacy policies. You are encouraged to read those documents as we have no control over their provisions and said documents may differ greatly from our terms and privacy policy.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+6. SPECIAL INFORMATION FOR EU USERS  
+6.1. SUMMARY  
+Beginning May 25, 2018, the processing of personal data of users in the European Union is subject to the EU General Data Protection Regulation (“GDPR”).This section summarizes BLC Education’s grounds for processing personal information under the GDPR, and the rights of EU users as relates to BLC Education’s handling of personal information.
 
-**Compliance with Laws and Law Enforcement**
+6.2. EU USER RIGHTS  
+If you are a BLC Education user in the EU, you have the following rights with respect to BLC Education’s handling of your personal information. To exercise these rights, please email the Company. Users outside the EU may also request explanation, correction, deletion or copies of their personal data.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+a. Explanation and copies of your data.
 
-**Third Party Service Providers**
+You have the right to request an explanation of the information that BLC Education has about you and how BLC Education uses that information. You also have the right to receive a copy of the information that BLC Education collects about you if collected on the basis of consent or because BLC Education requires the information to provide the services that you request.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+b. Correction.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+If BLC Education has information about you that you believe is inaccurate, you have the right to request correction of your information.
 
-**Supplementation of Information**
+c. Deletion
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+Users may request deletion of their accounts at any time.
 
-**Contests/Surveys**
+d. Objections and complaints
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+Users in the EU have the right to object to BLC Education’s processing of personal data, including for marketing purposes based on profiling and/or automated decision making. BLC Education may continue to process your information notwithstanding the objection to the extent permitted under GDPR.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+6.3. GROUNDS FOR PROCESSING
 
-**Tell-A-Friend**
+a. The processing is necessary to provide the features and services you request
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+b. The processing is necessary to protect the vital interests of our users or of others
 
-**What Happens to my Personal Information if I Opt Out?**
+c. The processing is necessary for BLC Education’s legitimate interests
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+We use personal information to prevent use of our services by users who have engaged in inappropriate or dangerous behavior.
 
-**Transfer of Data Abroad**
+To prevent, detect and combat fraud in connection with the use of our services.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+To inform law enforcement officials regarding criminal acts or threats to public safety.
 
-**Changes in Our Practices**
+To provide customer support.
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+To optimize our service and develop new services.
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+For research and analytical purposes.
 
-**Contacting Our Site**
+For direct marketing purposes. This includes, for example, analyzing data to identify trends and tailor marketing messages to user needs.
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+To enforce BLC Education’s Terms of Service.
 
-* * *
+d. The processing is necessary for the legitimate interests of other persons or parties.
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+BLC Education collects and uses personal information to the extent necessary for the interests of other persons or the general public.
+
+BLC Education may also process personal information when necessary in regards to a substantial public interest, on the basis of applicable laws.
+
+e. The processing is necessary to fulfill BLC Education’s legal obligations.
+
+BLC Education is subject to legal requirements in the jurisdictions in which it operates that require us to collect, process, disclose and retain your personal data.
+
+BLC Education may also share information with law enforcement, or requests by third parties pursuant to legal processes.
+
+f. Consent
+
+BLC Education may collect and use your information on the basis of your consent. You may revoke your consent at any time. If you revoke your consent, you will not be able to use any service or feature that requires collection or use of the information we collected or used on the basis of consent.
+
+BLC Education may also collect personal information about you through voluntary surveys. Your responses to such surveys are collected on the basis of consent, and will be deleted once no longer necessary for the purposes collected.
+
+7\. CONTACT INFORMATION AND POLICY UPDATES  
+7.1. CONTACTING US  
+If you have any questions about this Policy, our practices related to this Site, please use the contact form for the Site.
