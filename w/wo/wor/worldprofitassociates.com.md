@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldprofitassociates.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225163354id_/http%3A//www.worldprofitassociates.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldprofitassociates.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601135041id_/https%3A//www.worldprofitassociates.com/privacy) for the most accurate reproduction.*
 
 # Worldprofit Associates - Worldprofit Privacy Policy
 
