@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the definebabe.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224111219id_/http%3A//www.definebabe.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the definebabe.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601193845id_/http%3A//www.definebabe.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
