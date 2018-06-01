@@ -1,13 +1,14 @@
-> *The following text is extracted and transformed from the envision-sbs.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220133245id_/http%3A//www.biztree.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the envision-sbs.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601141623id_/http%3A//www.biztree.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Business-in-a-Box - Privacy Policy
 
 ### Protecting your privacy is important to us
 
-Biztree is strongly committed to protecting your privacy and complying with your choices. Both personal and non-personal information collected is safeguarded according to the highest privacy and data protection standards adopted worldwide.
+Biztree inc. is strongly committed to protecting your privacy and complying with your choices. Both personal and non-personal information collected is safeguarded according to the highest privacy and data protection standards adopted worldwide.
 
   * Your information will not be shared, rented or sold to any third party.
   * We use state-of-the-art security measures to protect your information from unauthorized users.
+  * We give you the possibility to control the information that you shared with us (opt-out)
 
 
 
@@ -21,9 +22,21 @@ We use your personal information for the following purposes:
 
   * To provide you information that will allow you to use Business-in-a-Box
   * To automatically customize your documents with your information
-  * To alert you of software upgrades, updates or other services from Biztree
+  * To alert you of software upgrades, updates, discounts or other services from Biztree
 
 
+
+We collect your email when you install the free trial in order to send you informational communications about the various legal and business templates that are included in the software, such as their purpose and the best use you can make of them. We also collect your email to send you our promotional offers. 
+
+We may also collect your name, language, currency, operating system, document searched and country information for a better experience with Biztree products.
+
+When you place your order with us, we collect your email in order to send the product key that allows you to activate the software as well as your order receipt. We also collect your phone number in order to contact you in case these emails bounce back because of a typo in your email address and if we cannot figure out what the correct email address is. 
+
+We also contact the phone number that is provided if we suspect that the cardholder’s credit card information has been compromised, i.e used in a fraudulent way.
+
+We also use our clients’ email in order to notify of the release of updated versions of the software, new services or promotional offers.
+
+The data is stored indefinitely. This allows us to provide our clients with their product key when they misplace it. The data stored is also stored for sales statistical purposes.
 
 ## 3\. Consent
 
@@ -59,9 +72,9 @@ Our Privacy Policy applies solely to information collected on our website or thr
 
 The Site contains links to web sites of third parties. Biztree is not responsible for the actions of these third parties, including their privacy practices and any content posted on their web sites. We encourage you to review their privacy policies to learn more about what, why and how they collect and use personal information. Biztree adheres to industry recognized standards to secure any personal information in our possession, and to secure it from unauthorized access and tampering. However, as is true with all online actions, it is possible that third parties may unlawfully intercept transmissions of personal information, or other users of the Site may misuse or abuse your personal information that they may collect from the Site.
 
-Biztree uses third-party advertising companies to serve our ads on the Site. These third-party advertising companies employ cookie and 1x1 pixel .gifs or web beacons to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our website and other websites, but will not collect any information which can personally identify you or can be linked to you. This information can include: date/time of banner ad shown, the banner ad that was shown, their cookie, and the IP address. This information can also be used for online preference marketing purposes.
+Biztree uses third-party advertising companies to serve our ads on the Site. Please review our [Cookie Policy](https://web.archive.org/company/cookie-policy/) for all details. These third-party advertising companies employ cookie and 1x1 pixel .gifs or web beacons to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our website and other websites, but will not collect any information which can personally identify you or can be linked to you. This information can include: date/time of banner ad shown, the banner ad that was shown, their cookie, and the IP address. This information can also be used for online preference marketing purposes.
 
-If you want to prevent a third-party advertiser from collecting data, currently you may either visit each ad network's web site individually and opt out or visit the NAI gateway opt-out site to opt-out of all network advertising cookies. Click here for the NAI gateway opt-out site.
+If you want to prevent a third-party advertiser from collecting data, currently you may either visit each ad network's web site individually and opt out or visit the NAI gateway opt-out site to opt-out of all network advertising cookies. [Click here](http://optout.networkadvertising.org/?c=1#!/) for the NAI gateway opt-out site.
 
 This site will also allow you to review the third-party advertising companies' privacy policies.
 
@@ -78,8 +91,10 @@ If for some reason you believe Biztree has not adhered to these principles, plea
 If you have questions or comments about this privacy policy, please email us or write us at:
 
 Biztree Inc.  
-244 Fifth Avenue, Suite G291   
-New York, NY 10001-7604   
-USA
+4805 Boulevard Lapiniere, Suite 1200   
+Brossard, Quebec, J4Z 0G2  
+Canada
 
-Last updated Sept 30, 2013
+For information about how to contact Biztree, please visit [our contact page](http://support.biztree.com/customer/portal/emails/new).
+
+Last updated May 23rd, 2018
