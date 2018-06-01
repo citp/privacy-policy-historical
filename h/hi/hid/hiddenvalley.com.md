@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hiddenvalley.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710085006id_/https%3A//www.thecloroxcompany.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiddenvalley.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601221316id_/https%3A//www.thecloroxcompany.com/privacy) for the most accurate reproduction.*
 
 # Privacy | The Clorox Company
 
-[Política de privacidad [Spanish]](https://web.archive.org/legal/privacy/es-us/)
+[Política de privacidad [Spanish]](https://web.archive.org/es-us-privacy/)
 
 The Clorox Company and its [family of companies](https://web.archive.org/brands/products/) (collectively, “we,” “us,” “our”) provide this Privacy Policy Statement (“Privacy Statement”) to inform you of our practices regarding the collection, use and disclosure of information that you provide to us or that we collect from you through our websites and other online or mobile services, applications or advertisements that link to this Privacy Statement (collectively hereinafter, our “Properties”).
 
