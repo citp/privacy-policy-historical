@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the msa.edu.eg privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130185822id_/http%3A//msa.edu.eg/msauniversity/about-msa/welcome-to-msa/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msa.edu.eg privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602015155id_/http%3A//msa.edu.eg/msauniversity/about-msa/welcome-to-msa/privacy-policy) for the most accurate reproduction.*
 
-# MSA University - Privacy Statement
+# Privacy Statement - MSA University
 
 The MSA University is committed to ensuring the privacy and accuracy of your confidential information. MSA University does not actively share personal information gathered from its Web servers. However, because MSA University is a public institution, some information collected from MSA University websites, including the summary server log information, emails sent to websites, and information collected from Web-based forms, may be subject to the Texas Public Information Act.
 
