@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birthdayalarm.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172706id_/https%3A//birthdayalarm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birthdayalarm.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601101808id_/https%3A//birthdayalarm.com/privacy) for the most accurate reproduction.*
 
 # Birthday Alarm: Privacy Policy
 
@@ -14,7 +14,7 @@ We want you to fully understand what information we collect from you and what we
 
 #### What personal details do you need to know?
 
-The minimum of information we ask for Birthday Alarm is your name, email address and date of birth. You may update this information at any time by clicking on the '[My Account](https://web.archive.org/account "My Account")' tab, followed by the '[My Profile](https://web.archive.org/profile "My Profile")' option.
+The minimum of information we ask for Birthday Alarm is your name, email address and date of birth. You may update this information at any time by clicking on the '[My Account](https://web.archive.org/account "My Account")' tab, followed by the '[Account Settings](https://web.archive.org/account "Account Settings")' option.
 
 #### When is my information given out?
 
