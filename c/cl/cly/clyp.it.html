@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the clyp.it privacy policy that was archived on 2017-08-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170831125626id_/https%3A//clyp.it/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the clyp.it privacy policy that was archived on 2018-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180601022130id_/https%3A//clyp.it/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     
@@ -37,30 +37,10 @@
 <link rel="apple-touch-icon" sizes="180x180" href="https://static.clyp.it/site/images/favicons/apple-touch-icon-precomposed.png">
 
     <link href="//static.clyp.it/site/css/siteinformation-1.0.5.css" rel="stylesheet">
-    <link href="//static.clyp.it/site/css/clyp-1.0.28.css" rel="stylesheet">
+    <link href="//static.clyp.it/site/css/clyp-1.0.30.css" rel="stylesheet">
 
     <script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script>
     window.clypCampaigns = [
-            {
-                queryString: "?multiplier",
-                campaignData: {
-                    name: "Welcome Modal",
-                    source: "Multiplier",
-                    medium: "YouTube"
-                },
-                modalHeadline: "Welcome Multiplier Fans!",
-                modalText: "Thanks for checking us out. Clyp is the easiest way to upload and share your WIPs. Click below to explore this week’s featured Clyps or feel free to upload a Clyp of your own."
-            },
-            {
-                queryString: "?producthunt&ref=producthunt",
-                campaignData: {
-                    name: "Welcome Modal",
-                    source: "Product Hunt",
-                    medium: "Product Hunt"
-                },
-                modalHeadline: "Welcome Hunters!",
-                modalText: "Thanks for checking us out. Clyp is the easiest way to upload, record and share audio. Click below to explore this week’s featured Clyps or feel free to upload a Clyp of your own."
-            }
     ];
 
     window.clypCampaigns.getFromAddressBar = function () {
@@ -139,9 +119,6 @@
                                             <a href="/about">About</a>
                                     </li>
                                     <li role="menuitem">
-                                            <a href="/faq">FAQ</a>
-                                    </li>
-                                    <li role="menuitem">
                                             <a href="/widgets">Widgets</a>
                                     </li>
                                     <li role="menuitem">
@@ -159,9 +136,12 @@
                                     <li role="menuitem">
                                             <a href="/dmca">DMCA</a>
                                     </li>
-                                    <li role="menuitem">
-                                            <a href="/support">Support</a>
-                                    </li>
+                                <li role="menuitem">
+                                    <a href="https://clyp.freshdesk.com/" target="_blank">
+                                        FAQ
+                                        <div class="new-window-icon"></div>
+                                    </a>
+                                </li>
                             </ul>
                         </div>
                         <div class="medium-12 small-6 columns">
@@ -247,11 +227,12 @@
 
 
 
-<section role="banner" id="banner">
-    <a href="/producer-challenge" class="fixed-banner" onclick="return trackBannerClick();">
-        <h4 class="fixed-banner-text">Win $200 and more in the Producer Challenge</h4>
-    </a>
-</section>
+    <section role="banner" id="banner">
+        <a href="/featuredsubmissions" class="fixed-banner">
+            <h4 class="fixed-banner-text">Vote on Next Week's Featured Clyps</h4>
+        </a>
+    </section>
+
     
 
 <header role="navigation" id="clyp-header">
@@ -269,8 +250,7 @@
                 <img src="https://static.clyp.it/site/images/logos/clyp-logo-primary-98x44.svg" class="logo" alt="Clyp logo">
             </a>
                 <div class="nav-actions show-for-medium">
-                        <button class="nav-action button upload-button primary tiny" data-bind="click: openUploadModal, visible: plusAccountFeaturesEnabled()">Upload</button>
-                        <a class="nav-action upgrade-button button primary tiny" href="/premium-pricing" data-bind="visible: !plusAccountFeaturesEnabled()">Upgrade</a>
+                        <button class="nav-action button upload-button primary tiny" data-bind="click: openUploadModal">Upload</button>
                     <div class="nav-action" data-bind="click: randomAudioFile">
                         <div class="shuffle-button"></div>
                     </div>
@@ -324,11 +304,14 @@
                     <li class="show-for-small-only">
                         <button class="button upload-button primary tiny" data-bind="click: openUploadModal">Upload</button>
                     </li>
+                <li data-bind="visible: upgradeButtonVisible()">
+                    <a class="pro-upgrade pink" href="/premium-pricing">Upgrade</a>
+                </li>
                 <li data-bind="visible: loggedIn">
                     <a class="profile" data-bind="attr: { href: profilePageUrl }">Profile</a>
                 </li>
-                <li data-bind="visible: upgradeButtonVisible()">
-                    <a class="pro-upgrade pink" href="/premium-pricing">Upgrade</a>
+                <li data-bind="visible: loggedIn">
+                    <a class="settings" href="/custom-widget-settings">Widget</a>
                 </li>
                 <li data-bind="visible: loggedIn">
                     <a class="settings" data-bind="attr: { href: settingsPageUrl }">Settings</a>
@@ -356,13 +339,10 @@
     <div class="footer-links footer-section">
         <ul class="link-list">
             <li>
-                <a href="/online-voice-recorder">Recorder</a>
-            </li>
-            <li>
                 <a href="http://clypblog.tumblr.com">Blog</a>
             </li>
             <li>
-                <a href="/faq">FAQ</a>
+                <a href="https://clyp.freshdesk.com/">FAQ</a>
             </li>
             <li>
                 <a href="/dmca">DMCA</a>
@@ -389,7 +369,7 @@
         in Austin, TX.</span>
     </div>
     <div class="footer-copyright footer-section">
-        <span>© 2017 Clyp, Inc. All rights reserved.</span>
+        <span>© 2018 Clyp, Inc. All rights reserved.</span>
     </div>
 </footer>
 </div>
@@ -398,7 +378,7 @@
     <input name="AudioFile" class="upload-input" type="file" accept=".mp3, .ogg, .m4a, .wav, .3gpp, .aiff, .aif" data-bind="audiourUpload: { uploads: 'uploadingFiles', completed: 'completedFiles', headerViewModel: headerViewModel }">
 </div>
 
-<audio id="nativeAudioPlayer"></audio>
+<audio id="nativeAudioPlayer" src="https://static.clyp.it/site/audio/smallest-possible-wav.wav" autoplay=""></audio>
 
 <div style="opacity: 0; visibility: hidden;" id="global-upload-dropzone" data-bind="hidden: hidden, opaque: opaque">
     <div class="dropzone-text" data-bind="text: dropzoneText"></div>
@@ -602,7 +582,7 @@
     </div>
 </div>
 
-    <script src="//static.clyp.it/site/js/global-1.0.49.js"></script>
+    <script src="//static.clyp.it/site/js/global-1.0.61.js"></script>
 
 
 <script>
