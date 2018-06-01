@@ -1,6 +1,96 @@
-> *The following text is extracted and transformed from the the72.co.uk privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222114025id_/http%3A//the72.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the72.co.uk privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601093750id_/http%3A//the72.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The72
+
+### Advertising
+
+This type of service allows User Data to be utilized for advertising communication purposes displayed in the form of banners and other advertisements on this Website, possibly based on User interests.  
+This does not mean that all Personal Data are used for this purpose. Information and conditions of use are shown below.  
+Some of the services listed below may use Cookies to identify Users or they may use the behavioral retargeting technique, i.e. displaying ads tailored to the User’s interests and behavior, including those detected outside this Website. For more information, please check the privacy policies of the relevant services.  
+In addition to any opt out offered by any of the services below, the User may opt out of a third-party service’s use of cookies by visiting the [Network Advertising Initiative opt-out page](http://optout.networkadvertising.org/).
+
+#### DoubleClick for Publishers (Google Inc.)
+
+DoubleClick for Publishers is an advertising service provided by Google Inc. that allows the Owner to run advertising campaigns in conjunction with external advertising networks that the Owner, unless otherwise specified in this document, has no direct relationship with. In order to opt out from being tracked by various advertising networks, Users may make use of [Youronlinechoices](http://www.youronlinechoices.com/). In order to understand Google’s use of data, consult [Google’s partner policy](https://www.google.com/policies/privacy/partners/).  
+This service uses the “Doubleclick” Cookie, which tracks use of this Website and User behavior concerning ads, products and services offered.  
+Users may decide to disable all the Doubleclick Cookies by clicking on: [www.google.com/settings/ads/onweb/optout?hl=en](https://www.google.com/settings/ads/onweb/optout?hl=en).
+
+Personal Data collected: Cookies and Usage Data. 
+
+Place of processing: United States – [Privacy Policy](http://www.google.com/privacy/ads/). 
+
+#### Criteo (Criteo SA)
+
+Criteo is an advertising service provided by Criteo SA.
+
+Personal Data collected: Cookies and Usage Data.
+
+Place of processing: France – [Privacy Policy](http://www.criteo.com/privacy/) – [Opt Out](http://www.criteo.com/deactivate-criteo-banners/).
+
+#### AppNexus (AppNexus Inc.)
+
+AppNexus is an advertising service provided by AppNexus Inc.
+
+Personal Data collected: Cookies and Usage Data.
+
+Place of processing: United States – [Privacy Policy](https://www.appnexus.com/en/company/platform-privacy-policy) – [Opt out](https://www.appnexus.com/en/company/platform-privacy-policy#choices).
+
+#### Rubicon Project (The Rubicon Project, Inc.)
+
+Rubicon Project is an advertising service provided by The Rubicon Project, Inc.
+
+Personal Data collected: Cookies and Usage Data.
+
+Place of processing: United States – [Privacy Policy](https://rubiconproject.com/privacy/) – [Opt Out](https://rubiconproject.com/privacy/consumer-online-profile-and-opt-out/).
+
+#### Index Exchange (Index Exchange)
+
+Index Exchange is an advertising service provided by Index Exchange.
+
+Personal Data collected: Cookies and Usage Data.
+
+Place of processing: United States – [Privacy Policy](http://www.indexexchange.com/privacy/) – [Opt Out](http://optout.networkadvertising.org/?c=1#!/).
+
+#### GumGum (GumGum, Inc.)
+
+GumGum is an advertising service provided by GumGum, Inc.
+
+Personal Data collected: Cookies and Usage Data.
+
+Place of processing: United States – [Privacy Policy](https://gumgum.com/privacy-policy) – [Opt Out](https://gumgum.com/opt-out).
+
+#### 152 Media (152 Media, LLC.)
+
+152 Media is an advertising service provided by 152 Media, LLC.
+
+Personal Data collected: Cookies and Usage Data.
+
+Place of processing: United States – [Privacy Policy](https://www.152media.com/privacy.html) – [Opt Out](https://app.onetrust.com/app/#/webform/8a17cf9b-19c4-4f99-a32d-4dd3b0f21c93).
+
+#### Google AdSense (Google Inc.)
+
+Google AdSense is an advertising service provided by Google Inc. This service uses the “Doubleclick” Cookie, which tracks use of this Website and User behavior concerning ads, products and services offered.  
+Users may decide to disable all the Doubleclick Cookies by clicking on: [google.com/settings/ads/onweb/optout](https://www.google.com/settings/ads/onweb/optout).
+
+Personal Data collected: Cookies and Usage Data. 
+
+Place of processing: United States – [Privacy Policy](https://www.google.com/policies/technologies/ads/) – [Opt Out](https://www.google.com/settings/ads/onweb/optout).
+
+#### Taboola Monetize Content (Taboola Inc.)
+
+Taboola is an advertising service provided by Taboola Inc.
+
+Personal Data collected: Cookies and Usage Data. 
+
+Place of processing: United States – [Privacy Policy](https://www.taboola.com/privacy-policy) – [Opt Out](https://www.taboola.com/privacy-policy). 
+
+#### Sublime Skinz (Sublime Skinz Labs)
+
+Sublime Skinz is an advertising service provided by Sublime Skinz Labs
+
+Personal Data collected: Cookies and Usage Data. 
+
+Place of processing: France – [Privacy Policy](http://sublimeskinz.com/privacy-en) – [Opt Out](mailto:privacy@sublimeskinz.com). 
 
 ## Privacy Policy:
 
