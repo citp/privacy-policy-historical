@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiconsumption.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230055806id_/http%3A//hiconsumption.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiconsumption.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601151949id_/http%3A//hiconsumption.com/privacy) for the most accurate reproduction.*
 
 # Privacy | HiConsumption
 
@@ -34,7 +34,7 @@ In operating the Site, Company may include registration, online surveys, and oth
 
 3.1. WHAT DOES COMPANY DO WITH COLLECTED INFORMATION?
 
-(a) PERSONAL INFORMATION. We will not share your personal information with any third parties without your consent, except as necessary to provide you with the services offered by us or to comply with the law. We may use your personal information to verify your identity, to check your qualifications, or to follow up with transactions initiated on the Site. We may also use your contact information to inform you of any changes to the Site, or to send you additional information about Company.
+(a) PERSONAL INFORMATION. Unless otherwise specified on the Site, we may sell or share your personal information with our parent, subsidiaries, affiliates and with carefully selected companies who we think may offer services and/or products that may be of interest to you. If you do not wish to have your personally identifiable information shared with third parties, contact our Privacy Policy Coordinator as described at the end of this document. We may use your personal information to verify your identity, to check your qualifications, or to follow up with transactions initiated on the Site. We may also use your contact information to inform you of any changes to the Site, or to send you additional information about Company.
 
 (b) ANONYMOUS INFORMATION. We use anonymous information to analyze our Site traffic, but we do not examine this information for individually identifying information. In addition, we may use anonymous IP addresses to help diagnose problems with our server, to administer our site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis.
 
