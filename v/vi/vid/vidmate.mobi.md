@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vidmate.mobi privacy policy that was archived on 2017-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170725182350id_/http%3A//www.vidmate.mobi/v2/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidmate.mobi privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601173312id_/http%3A//www.vidmate.com/privacy) for the most accurate reproduction.*
 
-# VidMate | YouTube Downloader | Live TV on Mobile | Free Video And Music Download For Mobile
+# 
 
 PLEASE READ THIS STATEMENT OF PRIVACY PRACTICES CAREFULLY BEFORE USING OUR SERVICE
 
@@ -14,17 +14,7 @@ This Privacy Policy applies only to personal information submitted and collected
 
 2\. INFORMATION COLLECTED
 
-Personal Information
-
-The information we collect can be generally placed in two categories: 1) data on how the user uses our Services; 2) aggregate data on content the user engages with. We may use this information to personalize and improve our services, to fulfill your requests for certain products and services, and to analyze how you use the Services. We may provide this information to our partners, so that they, too, can provide you with an optimal experience, but we never disclose information to a partner in a manner that would identify you personally.
-
-Non-Personal Information
-
-For purposes of this Privacy Policy, “Non-Personal Information” means information that does not directly identify you. Vidmate may use tools or third party analytical software to automatically collect and use certain Non-Personal Information that does not directly enable Vidmate to identify you. The types of Non-Personal Information Vidmate may collect and use include, but are not limited to: (i) device properties, including, but not limited to IP address, unique device identifier or other persistent or non-persistent device identifier (“Device ID”); (ii) device software platform and firmware; (iii) mobile phone carrier; (iv) other Non-Personal Information as reasonably required by Vidmate to enhance the Services and other Vidmate products and services.
-
-Cookies
-
-Vidmate treats information collected by cookies and similar technologies as non-personal information. A “cookie” is a small bit of record-keeping information that sites often store on a user’s computer. Cookies do not include people’s names, email addresses, or other information that is personally identifiable; they are typically used to quickly identify a user’s computer and to “remember” things about the user’s visit. You can disable cookies or set your browser to alert you when cookies are being sent to your computer.
+Personal Information The information we collect can be generally placed in two categories: 1) data on how the user uses our Services; 2) aggregate data on content the user engages with. We may use this information to personalize and improve our services, to fulfill your requests for certain products and services, and to analyze how you use the Services. We may provide this information to our partners, so that they, too, can provide you with an optimal experience, but we never disclose information to a partner in a manner that would identify you personally. Non-Personal Information For purposes of this Privacy Policy, “Non-Personal Information” means information that does not directly identify you. Vidmate may use tools or third party analytical software to automatically collect and use certain Non-Personal Information that does not directly enable Vidmate to identify you. The types of Non-Personal Information Vidmate may collect and use include, but are not limited to: (i) device properties, including, but not limited to IP address, unique device identifier or other persistent or non-persistent device identifier (“Device ID”); (ii) device software platform and firmware; (iii) mobile phone carrier; (iv) other Non-Personal Information as reasonably required by Vidmate to enhance the Services and other Vidmate products and services. Cookies Vidmate treats information collected by cookies and similar technologies as non-personal information. A “cookie” is a small bit of record-keeping information that sites often store on a user’s computer. Cookies do not include people’s names, email addresses, or other information that is personally identifiable; they are typically used to quickly identify a user’s computer and to “remember” things about the user’s visit. You can disable cookies or set your browser to alert you when cookies are being sent to your computer.
 
 3\. DISCLOSING AND HOSTING INFORMATION
 
@@ -48,4 +38,4 @@ Vidmate may change this Privacy Policy from time to time, and at Vidmate‘s sol
 
 8\. QUESTIONS OR CONCERNS
 
-If you have any questions or concerns regarding our privacy policies, please Email us at [vidmatestudio@gmail.com](mailto:vidmatestudio@gmail.com)
+If you have any questions or concerns regarding our privacy policies, please Email us at vidmatestudio@gmail.com
