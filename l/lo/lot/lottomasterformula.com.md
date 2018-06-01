@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lottomasterformula.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113162715id_/http%3A//www.lottomasterformula.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lottomasterformula.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601210925id_/http%3A//www.lottomasterformula.com/privacy.htm) for the most accurate reproduction.*
 
 # About Us
 
