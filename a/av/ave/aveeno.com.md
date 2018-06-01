@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aveeno.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130001532id_/http%3A//www.aveeno.com/category/customer%2Bservice/privacy%2Bpolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aveeno.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601104118id_/http%3A//www.aveeno.com/category/customer%2Bservice/privacy%2Bpolicy.do) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 PRIVACY POLICY
 
-**Last Update: February 4, 2016**
+**Last Update: April 27, 2018**
 
 Johnson & Johnson Consumer Inc. is concerned about privacy issues and wants you to be familiar with how we collect, use, and disclose information. This Privacy Policy describes our practices in connection with information that we or our service providers collect through the Web site or Web property (including, for example, a mobile Web site or application) operated and controlled by us from which you are accessing this Privacy Policy (each, the " **Site** "). By providing personal information to us or by using the Site, you agree to the terms and conditions of this Privacy Policy. 
 
@@ -53,7 +53,7 @@ We also use information from or about you:
 
 We also disclose information collected through the Site: 
 
-  * to our affiliates for the purposes described in this Privacy Policy. A list of our affiliates is available at [http://www.investor.jnj.com/governance/sec-filings.cfm](https://web.archive.org/web/20171130001532id_/http%3A//www.aveeno.com/category/customer%2Bservice/target=%22filings%22http://www.investor.jnj.com/governance/sec-filings.cfm%22) \- click on the link for Form 10K, Exhibit 21, under "SEC Filings". Johnson & Johnson Consumer Inc. is the party responsible for the management of the jointly-used Personal Information; 
+  * to our affiliates for the purposes described in this Privacy Policy. A list of our affiliates is available at [http://www.investor.jnj.com/governance/sec-filings.cfm](https://web.archive.org/web/20180601104118id_/http%3A//www.aveeno.com/category/customer%2Bservice/target=%22filings%22http://www.investor.jnj.com/governance/sec-filings.cfm%22) \- click on the link for Form 10K, Exhibit 21, under "SEC Filings". Johnson & Johnson Consumer Inc. is the party responsible for the management of the jointly-used Personal Information; 
   * to our third party partners with whom we offer a co-branded or co-marketed promotion; 
   * to our third party service providers who provide services such as website hosting and moderating, mobile application hosting, data analysis, payment processing, order fulfillment, infrastructure provision, IT services, customer service, e-mail and direct mail delivery services, credit card processing, auditing services, and other services, in order to enable them to provide services; and 
   * to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets, or stock (including in connection with any bankruptcy or similar proceedings). 
@@ -112,7 +112,7 @@ If you have any questions about this Privacy Policy, please contact us via one o
 
   * On the Site, via the CONTACT US section, if available 
   * or by phone:   
-For Consumers and Professionals: If you are in the US, call toll-free 800-361-8068, Monday to Friday, 9am to 7pm ET. If you are outside of the US, click <https://www.ccc-consumercarecenter.com/phone_us> to contact us. . 
+For Consumers and Professionals: If you are in the US, call toll-free 800-361-8068
   * or please write to the following address:   
 Consumer Care Center, 199 Grandview Road, Skillman, NJ 08558
 
