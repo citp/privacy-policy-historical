@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bethbenderbeauty.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129173221id_/http%3A//bethbenderbeauty.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bethbenderbeauty.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601061835id_/http%3A//bethbenderbeauty.com/legal) for the most accurate reproduction.*
 
 # Privacy Policy and Legal Disclaimer
 
@@ -47,6 +47,16 @@ We use this information to process your order and to make sure that it is delive
 We request an e-mail address during the order process so that we can send an e-mail confirmation message acknowledging the receipt of your order. This message contains your name, address, the list of items you purchased, an order reference number, a confirmation of your shipping method, and the total cost of items requested, including any shipping / delivery charges and taxes. Please note that this confirmation e-mail does NOT contain your credit card number.
 
 Beth Bender Beauty reserves the right to withhold shipping on any orders, this includes but is not limited to: sales they deem as fraudulent or may infringe on their intellectual properties. If this should occur all funds will be refunded to the buyer and their order cancelled. 
+
+**Returns and Refunds:**
+
+We do not accept returns or refunds on any  **beth bender beauty**  products once they have been shipped. This includes  **PayPal  **as well. Especially our custom blended products that are made to order. If your product should arrive damaged, we will replace them free of charge but require repayment of shipping fee (Domestic or International) + a $2.00 restocking fee. You must notify Beth Bender Beauty within 72 hours upon receiving your package to return any damaged shadows or product, and 7 days from the date of delivery to file a claim for missing items. Any sale items or promotional items purchased online are final sales.
+
+Beth Bender Beauty is not responsible for delays in shipping due to adverse weather conditions, natural disasters, or shipping provider error. Any charges for returned orders due to customer error (incorrect address, refused/undeliverable orders, delivered to inbox but not received, etc.) will be the responsibility of the customer.
+
+**During the Holiday Season (Christmas and the New Year) orders may take up to 5 Business Days for processing.**
+
+For additional information regarding shipping or questions about your order please email us at **[info@bethbenderbeauty.com](mailto:info@bethbenderbeauty.com)**
 
 **Click-Stream Data (And Cookie Technology):**
 
