@@ -1,96 +1,215 @@
-> *The following text is extracted and transformed from the hitsboosterpro.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114173031id_/http%3A//hitsboosterpro.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitsboosterpro.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601080919id_/http%3A//hitsboosterpro.com/privacy_policy.php) for the most accurate reproduction.*
 
 # HitsBoosterPro.com
 
-**HITS BOOSTER PRO PRIVACY POLICY**
+Privacy Policy
 
-This privacy policy sets out how HITS BOOSTER PRO uses and protects any information that you give HITS BOOSTER PRO when you use this website. 
+ **This Privacy Policy explains how HitsBoosterPro (HitsBoosterPro, HitsBoosterPro.com, "we" or "us") uses and protects any information that you give HitsBoosterPro when you use this website.**
 
-HITS BOOSTER PRO is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. 
+For information about our Terms of Service, [click here](http://hitsboosterpro.com/terms.php).  
+For information about our Disclaimers, [click here](http://hitsboosterpro.com/disclaimers.php).  
+For information about our Anti-Spam Policy, [click here](http://hitsboosterpro.com/anti-spam_policy.php).
 
-HITS BOOSTER PRO will never sell, rent, or lease any information contained in your membership profile. 
-
-Information obtained about you for the purpose of creating your HITS BOOSTER PRO membership shall be used only for the purpose of maintaining and updating your membership, as well as direct email contact from HITS BOOSTER PRO and your HITS BOOSTER PRO upline/downline (if you allow this in your profile). 
-
-HITS BOOSTER PRO reserves the right to investigate using any and all means necessary, should there be reason to believe unauthorized transactions are processed in your name. We will then take every precaution possible to protect our members from identify theft both here at HITS BOOSTER PRO and elsewhere. 
-
-HITS BOOSTER PRO may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 04/01/2017. 
-
-**What we collect**
-
-We may collect the following information: 
-
-  * name and other personal information you might provide in your profile 
-  * contact information including email address 
-  * Information about your network/computer including IP address and browser type 
-  * Date and time of your visits and registration and where you came from 
-  * Information about your activity on the website 
-  * demographic information such as postcode, preferences and interests 
-  * other information relevant to customer surveys and/or offers 
-
-
-
-**What we do with the information we gather**
-
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
-
-  * Internal record keeping. 
-  * We may use the information to improve our products and services. 
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests. 
-
-
-
-**Security**
-
-We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
-
-**How we use cookies**
-
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
-
-We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
-
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. 
-
-Ads appearing on our or our members websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by HITS BOOSTER PRO and does not cover the use of cookies by any advertisers. 
-
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to [disable/decline cookies](http://www.wikihow.com/Disable-Cookies) if you prefer. This may prevent you from taking full advantage of the website. 
-
-**Links to other websites**
-
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
-
-**Controlling your personal information**
-
-You may choose to restrict the collection or use of your personal information in the following ways: 
+This Privacy Policy describes the information that we gather on or through the Service, how we use and disclose such information, and the steps we take to protect such information. By visiting the Site, or by purchasing or using the Service, you accept the privacy practices described in this Policy.
 
   
 
 
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes 
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by clicking the Unsubscribe link provided in each email, or emailing us using the contact form located at: <http://trafficinsider.net/contact-us/> or by contacting us at the [help desk](http://trafficinsider.net/). 
+## Definitions
+
+**"Client"** means a customer of HitsBoosterPro.
+
+**"Client Data"** means personal data, reports, addresses, and other files, folders or documents in electronic form that a User of the Service stores within the Service.
+
+**"Personal Data"** means any information relating to an identified or identifiable natural person.
+
+**"Public Area"** "means the area of the Site that can be accessed both by Users and Visitors, without needing to log in.
+
+**"Members Area"** means the area of the Site that can be accessed only by Users, and where access requires logging in.
+
+**"User"** means an employee, agent, or representative of a Client, who primarily uses the restricted areas of the Site for the purpose of accessing the Service in such capacity.
+
+**"Visitor"** means an individual other than a User, who uses the public area, but has no access to the restricted areas of the Site or Service.
+
+  
 
 
+## Collection of Personal Information
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
+**User-provided Information**
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please email us using the contact form located at: <http://trafficinsider.net/contact-us/>
+HitsBoosterPro collects, uses and stores information including your name, Username, Password, email address and Internet Protocol (IP) address when you sign up in order to create an account for you. 
 
-**Kids Privacy Act**
+We collect the email address associated with any payments made and store the date, time and details of items purchased and payment method used. We do not store any banking or payment details as we use third party processors to process transactions.
 
-HITS BOOSTER PRO supports the U.S. federal regulations on children's privacy. This means that we will not keep your personal information on record. If you contact us in the future, we will not be able to refer back to this message. 
+**"Automatically Collected" Information**
 
-YOU MUST BE EIGHTEEN (18) YEARS OR OLDER TO ACCESS THIS WEB SITE. IF YOU ARE UNDER EIGHTEEN YEARS OF AGE, YOU ARE NOT PERMITTED TO ACCESS THIS WEB SITE FOR ANY REASON. DUE TO THE AGE RESTRICTIONS FOR USE OF THIS WEB SITE, NO INFORMATION OBTAINED BY THIS WEB SITE, FALLS WITHIN THE CHILD ONLINE PRIVACY ACT (COPA) AND IS NOT MONITORED AS DOING SO. 
+HitsBoosterPro collects usage habits that include a list of dates and times the site is accessed via login and Internet Protocol (IP) addresses of account logins. 
 
-**Business Transfer**
+We use cookies and web beacons to provide information on how you use our web services and advertising products. These are collected and used by automated technologies to ensure we provide the best experience to suit your needs.
 
-If HITS BOOSTER PRO, or substantially all of its assets, were acquired, or in the unlikely event that HITS BOOSTER PRO goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of HITS BOOSTER PRO or any of its site or services may continue to use your personal information as set forth in this policy. 
+**Integrated / Third Party Services**
 
-**Contact**
+Other automated technologies that HitsBoosterPro uses include the use of third party widgets and plugins such as Facebook Like buttons and pop up ad technologies to ensure you see the advert once per session etc. That information is subject to the privacy policies of those providers.
 
-Please also refer to our [Terms of Service](https://web.archive.org/web/20171114173031id_/http%3A//hitsboosterpro.com/terms.php) again if needed. 
+  
 
-If you believe that any information we are holding on you is incorrect or incomplete, please contact us as soon as possible. We will promptly correct any information found to be incorrect. 
 
-This Privacy Notice was last updated on April 1st, 2017.
+## How We Use the Information We Collect
+
+We use the information that we collect in a variety of ways in providing the Service and operating our business, including the following:
+
+**Operations**
+
+We use account information (Name, Username, Password & Internet Protocol Address) to enable use to provide a Members Area from where you can manage your own advertising and store the information about what adverts you have purchased and have available including account balances.
+
+**Improvements**
+
+We use the information regarding transactions (Date, Time, Email Address Used, Purchased Item Information and Payment Method Used) to process your transactions and to keep a log of what you have purchased in the past in case of any discrepancies you may have about what you have purchased. We also use this information to enable us to see what items sell well and improve on our best products and offerings.
+
+**Communications**
+
+We use your email address to validate and confirm that you are the account holder and so that you can click the opt in verification link to give your approval of us contacting you via email. This helps us keep you informed, send details of purchases for your records and also to verify the account holder for security reasons. We also promote other products and services (both supplied or provided by us or by third parties) to you via email but we do so from emails sent directly from our system only and do not share or distribute your email address with others. (See the "Linking to other websites" section below)
+
+**Cookies and Tracking Technologies**
+
+Automated cookies and web beacons are used for tracking purposes to see from where Members have come and to keep session information to make sure that certain ads are only delivered once per session and not every page load.
+
+  
+
+
+## To Whom We Disclose Information
+
+We do not share your email address with any third parties and never sell member information. We do allow third parties to advertise using our services and we do promote other services to you via email but all promotions are delivered from our systems and no personal information is shared with them from us. You may share information with them if you join their site or purchase their products or services.
+
+**Service Providers**
+
+We may provide identifiable information including Name, Email Address, and Internet Protocol (IP) Addresses to law enforcement if requested to help with any investigation. We may also provide such information to payment processors if the terms of purchasing or use of their services require it to conduct lawful business.
+
+We may use your information in our other businesses but all communication will come via the account and system that you signed up for and not our other services unless you register there and give separate permission there.
+
+Any information collected by third party apps or plugins including but not limited to Facebook Like buttons etc is picked up from your actions and not from our system by way you interact with such services and therefore you are using their service and under their privacy policies.
+
+**Change of Ownership**
+
+Should the website and/or business be sold the information collected will be passed over to the new business or website owner. However, it will remain intact in the confines of the site. As part of any sales agreement, the new owner will be required to comply and follow this Privacy Policy until notifying Users of any changes.
+
+**Law Enforcement, Legal Process and Compliance**
+
+We may disclose Personal Data or other information if required to do so by law or in the good-faith belief that such action is necessary to comply with applicable laws, in response to (on face-value) valid court order, judicial or other government subpoena or warrant, or to otherwise cooperate with law enforcement or other governmental agencies.
+
+We also reserve the right to disclose Personal Data or other information that we believe, in good faith, is appropriate or necessary to (i) take precautions against liability, (ii) protect ourselves or others from fraudulent, abusive, or unlawful uses or activity, (iii) investigate and defend ourselves against any third-party claims or allegations, (iv) protect the security or integrity of the Service and any facilities or equipment used to make the Service available, or (v) protect our property or other legal rights, enforce our contracts, or protect the rights, property, or safety of others.
+
+## Your Choices
+
+**Your Options & Acceptance**
+
+You stated that you have read and agreed to the Terms of Service for using this site when you checked/ticked the box indicating your Agreement to the Terms of Service. Part of that agreement includes the acceptance of this Privacy Policy. You are also required to double opt in to our Mail & Newsletter Service which means by clicking on the Agreement link in the email we sent to confirm your email address. Failure to verify within 7 days will result in account deletion and all information held being erased automatically.
+
+You can Unsubscribe and/or Remove your account by yourself at any time. All emails from us excluding the Welcome email have an Unsubscribe link which will enable you to remove your account at any time. You can also do this from inside your Members Area via the Profile Page and Delete Account button. This will cancel any future use of your information and remove your account from our system.
+
+**Your Right To View, Edit & Delete Personal Information**
+
+If at any time you would like to view or edit account information including email address name and Passwords you can do so by logging into the inside the HitsBoosterPro Members Area on your Profile Page. You can also delete your account anytime that you wish from the delete account button on the Profile Page inside the Members Area. This removes all information we hold excluding the log of purchases made, which we hold for accounting and tax purposes only.
+
+You may also request to see all the information we hold for you but we will require you to prove your identification before providing that information. This is done for data security and privacy reasons and if we are not sure if you are the person the information requested is for then we reserve the right to withhold that provision until such times as we can be certain by requesting more proof.
+
+To request the information we retain on you or to get us to delete or edit your information please submit a [GDPR & Privacy Data Request Ticket by cliking here](http://help.trafficinsider.net/) (or by visiting <http://help.trafficinsider.net/>) using the same email address and name registered on your account. We will then reply to that ticket requesting further proof of your identity to ensure we only give the information to you.
+
+You can request your Password at any time using the Password Retrieval Link on the login page. For security reasons all Passwords are encrypted and our staff have no access to them. Make sure your email address is correct and up-to-date because the only way to request it is through that link.
+
+  
+
+
+## Third-Party Services
+
+We promote and link to other third party websites and services. When visiting or using one of these other services or websites you should ensure you review their privacy policies and Terms of Service. HitsBoosterPro is not responsible for the policies and practices of any third party service or site.
+
+  
+
+
+## Cookies & Other Tracking Information Used
+
+Cookies (A text file that websites send to a visitor's computer or device) are used to identify the visitor's web browser or to store information or settings in the web browser. The same as most websites, we uses cookies for a variety of purposes in order to improve your online experience when using our services. We use cookies to track the total number of visitors to a website and also to remember you when you next visit the site.
+
+We use web beacons and javascript to provide services and features on our site that you use when using our services and to better improve the services and tailor them to your needs.
+
+Cookies also enable us to keep you logged in to the Members Area. Logging in then deleting your cookies then continuing to try and use the Members Area will log you out of your account. This is why the use of cookies is important to providing you with site and service access.
+
+You can control and delete cookies and enable and disable javascript in your browser settings. The way you set up your browser determines if these are used and that is under your control. Please note some features and services may not work with javascript disabled.
+
+**The Following Types of Cookies Are Used in the Site:**
+
+  * strictly necessary/essential cookies - These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website. Without these cookies services you have asked for cannot be provided. These cookies don't collect information that identifies a visitor.
+  
+
+  * performance cookies - These cookies collect information about how visitors use a website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don't collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works.
+  
+
+  * functionality cookies - These cookies allow the website to remember choices you make (such as your User name, language or the region you are in) and provide enhanced, more personal features. For instance, a website may be able to provide you with local weather reports or traffic news by storing in a cookie the region in which you are currently located. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customise. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites.
+  
+
+  * behaviorally targeted advertising cookies - These cookies are used to deliver adverts more relevant to you and your interests They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaigns. They are usually placed by advertising networks with the website operator's permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organisation.
+
+  
+
+
+## Our Commitment To Children's Privacy
+
+Protecting the privacy of the very young is especially important. For that reason, our website will never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18.
+
+Under our Terms of Service and Conditions of Use, children under 18 are not allowed to use our website and access our services. It is not our intention to offer products or services to minors.
+
+  
+
+
+## Data Security
+
+HitsBoosterPro is committed to taking all appropriate measures in regards to the security of all information collected and stored. We have systems in place to protect against the accidental, unlawful or unauthorized loss, access & disclosure of all information. No website or transmission of data over the Internet or any other public network can be guaranteed to be 100% secure.
+
+**Notification of Breaches or Other Issues**
+
+Although we take security very seriously, should the worst happen and any data is compromised we will notify you by email within 72 hours.
+
+**User Passwords**
+
+Passwords are encrypted and even the staff at HitsBoosterPro do not have access to that so please use the Password retrieval tool to regain lost Passwords.
+
+  
+
+
+## Data Retention
+
+We only retain the Personal Data collected from a User for as long as the User's account is active or otherwise for a limited period of time as long as we need it to fulfill the purposes for which we have initially collected it, unless otherwise required by law. We will retain and use information as necessary to comply with our legal obligations, resolve disputes, and enforce our Agreements as follows:
+
+  * the contents of closed accounts are deleted immediately when the account is closed.
+  
+
+  * backups are kept for 1 month.
+
+  
+
+
+## Change Notice
+
+HitsBoosterPro may change this Privacy Policy from time to time. If we make a change we will change it here on this page and update the last updated date at the bottom of the page. We encourage you to return to this page from time to time to check for updates and revisions.
+
+  
+
+
+## Questions/Comments/Concerns or How To Reach Us
+
+If you have any questions about the contents of this page, or simply wish to reach us for any other reason, you may do so by using the [contact us](http://trafficinsider.net/contact-us/) page on TrafficInsider.net located at <http://trafficinsider.net/contact-us/>.
+
+You may also use the Help Desk located at <http://help.trafficinsider.net/>
+
+**You can send physical mail to:**
+
+4251 FM 2181 Suite #230-356,  
+Corinth, TX 76210
+
+Last updated: May 24, 2018
+
+Please note that this Privacy Policy, as well as all other content in HitsBoosterPro, is subject to copyright. 
+
+**© 2008 HitsBoosterPro.com. All rights reserved.**
