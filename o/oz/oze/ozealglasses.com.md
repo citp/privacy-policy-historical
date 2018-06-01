@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ozealglasses.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123163935id_/http%3A//www.ozealglasses.com/shop-with-ozeal%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozealglasses.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601203326id_/http%3A//www.ozealglasses.com/shop-with-ozeal%23privacy) for the most accurate reproduction.*
 
 # Privacy Policy, Shopping Security, T and C | Ozeal Glasses
 
