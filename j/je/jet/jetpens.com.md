@@ -1,59 +1,67 @@
-> *The following text is extracted and transformed from the jetpens.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928143449id_/https%3A//www.jetpens.com/articles/Privacy_Notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jetpens.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601140109id_/https%3A//www.jetpens.com/articles/Privacy_Notice) for the most accurate reproduction.*
 
 # Privacy Notice - JetPens.com
 
-We are dedicated to ensuring that your online shopping experience is secure and private. All of the credit card information we receive from our customers is transmitted and encrypted through SSL to our credit card processing gateway. Customer information is used for shipping, payment and contact purposes only. We do not sell, give away, or abuse the information we receive. Jet-Do would not approve of such things! 
+JetPens.com Privacy Policy
 
-This notice describes our privacy policy. By visiting JetPens, you are accepting the practices described in this Privacy Notice. 
+Last Updated: May 25, 2018
 
-What Personal Information About Customers Does JetPens Gather? 
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from www.jetpens.com (the "Site").
 
-The information we learn from customers helps us personalize and continually improve your shopping experience at JetPens. Here are the types of information we gather. 
+PERSONAL INFORMATION WE COLLECT
 
-* Information You Give Us: We receive and store any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you.  
-* Automatic Information: We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses JetPens. A number of companies offer utilities designed to help you visit Web sites anonymously. Although we will not be able to provide you with a personalized experience at JetPens if we cannot recognize you, we want you to be aware that these tools exist.  
-* E-mail Communications: To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from JetPens if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your Customer Communication Preferences.  
-* Newsletters: We send newsletters to users who select to receive them. Should you at any point change your mind about receiving these communications, please select the unsubscribe link which is present at the bottom of each email we send to remove yourself from the list.  
-* Information from Other Sources: We might receive information about you from other sources and add it to our account information. 
+When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as "Device Information"
 
-What About Cookies? 
+We collect Device Information using the following technologies:
 
-* Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as storage of items in your Shopping Cart between visits.  
-* The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of JetPens's coolest features, and we recommend that you leave them turned on.
+\- "Cookies" are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.  
+\- "Log files: track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.  
+\- "Web beacons", "tags", and "pixels" are electronic files used to record information about how you browse the Site.
 
-Does JetPens Share the Information It Receives? 
+Additionally when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers), email address, and phone number. We refer to this information as "Order Information".
 
-Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with subsidiaries PCOW, Inc. controls that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice. 
+When we talk about "Personal Information" in this Privacy Policy, we are talking both about Device Information and Order Information.
 
-* Agents: We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.  
-* Promotional Offers: Sometimes we send offers to selected groups of JetPens customers on behalf of other businesses. When we do this, we do not give that business your name and address.  
-* Business Transfers: As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that PCOW, Inc., or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.  
-* Protection of JetPens and Others: We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply other agreements; or protect the rights, property, or safety of JetPens, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice.  
-* With Your Consent: Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information. 
+HOW DO WE USE YOUR PERSONAL INFORMATION?
 
-How Secure Is Information About Me? 
+We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations). Additionally, we use this Order Information to:  
+Communicate with you;  
+Screen our orders for potential risk or fraud; and  
+When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.
 
-* We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.  
-* We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.  
-* It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. 
+We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).
 
-Which Information Can I Access? 
+SHARING YOUR PERSONAL INFORMATION
 
-JetPens gives you access to a broad range of information about your account and your interactions with JetPens for the limited purpose of viewing and, in certain cases, updating that information. 
+We share your Personal Information with third parties to help us use your Personal Information, as described above. For example, we use Google Analytics to help us understand how our customers use the Site--you can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout.
 
-What Choices Do I Have? 
+Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
 
-* As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such JetPens features as Your Profile, Wish Lists, and Customer Reviews.  
-* You can add or update certain information on pages such as those listed in the "Which Information Can I Access?" section above. When you update information, we usually keep a copy of the prior version for our records.  
-* If you do not want to receive e-mail or other mail from us, please adjust your Customer Communication Preferences. (If you do not want to receive Conditions of Use and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of JetPens, and it is your responsibility to review them for changes.)  
-* The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, you will not be able to use important features if you do not use cookies. 
+As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the Network Advertising Initiative's ("NAI") educational page at http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work.
 
-Children 
+You can opt out of targeted advertising by:  
+GOOGLE - https://www.google.com/settings/ads/anonymous
 
-JetPens does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use JetPens only with the involvement of a parent or guardian. 
+Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance's opt-out portal at: http://optout.aboutads.info/.
 
-Conditions of Use, Notices, and Revisions 
+DO NOT TRACK  
+Please note that we do not alter our Site's data collection and use practices when we see a Do Not Track signal from your browser.
 
-If you choose to visit JetPens, your visit and any dispute over privacy is subject to this Notice, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about privacy at JetPens, please contact us with a thorough description, and we will try to resolve it. 
+YOUR RIGHTS  
+If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
 
-Our business changes constantly, and our Privacy Notice will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
+Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
+
+DATA RETENTION  
+When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.
+
+MINORS  
+The Site is not intended for individuals under the age of 18.
+
+CHANGES  
+We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
+
+CONTACT US  
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at jetpens@jetpens.com or by mail using the details provided below:
+
+JetPens.com 2050 Gateway Place, Suite 100, San Jose, CA, 95131, United States 
