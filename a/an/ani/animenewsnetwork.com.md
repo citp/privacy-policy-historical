@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animenewsnetwork.com privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101225752id_/http%3A//www.animenewsnetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animenewsnetwork.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601131158id_/https%3A//www.animenewsnetwork.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Anime News Network
 
@@ -9,6 +9,12 @@
   * "Personally identifying information" is information that can be used to identify you, such as your name, e-mail address, phone number, date of birth and so on... 
   * "Personal information" is information about you that is not generally available to the public, this includes your age, your shopping habits, what kind of home electronics you own and so on... 
   * "Statistical Data" is data compiled from other information, personal and otherwise that itself is not personally identifiable. For example the average age of our readers. their geographic dispersement and so on. 
+
+
+
+#### Jurisdiction
+
+  * Anime News Network, Inc. is based in Quebec, Canada and has no operations outside Quebec. Our privacy practices are governed by Quebec law P-39.1, ACT RESPECTING THE PROTECTION OF PERSONAL INFORMATION IN THE PRIVATE SECTOR.
 
 
 
@@ -33,7 +39,7 @@
 
   * We regularly share statistical data with 3rd parties and the public. 
   * Under no circumstances will we ever share personally identifying information with a third party unless: 
-    1. You are specifically informed in advance; OR 
+    1. You are specifically and explicitly informed in advance; OR 
     2. Your permission is explicitly received for every instance; OR 
     3. We are required to do so by applicable law; OR 
     4. The information is requested with a warrant or subpoena, whether issued by a court of applicable jurisdiction or not; although we may chose to refuse demands issued by a non-jurisdictional courts and/or demands we believe to be ethically or legally dubious;
@@ -51,10 +57,12 @@
 #### Third Party Services
 
   * This website may use certain services provided by third party service providers including but not limited to DoubleClick and [Google](https://web.archive.org/encyclopedia/company.php?id=14117). Under all circumstances, our relations with these companies adhere to the above guidelines, including the policy of not sharing any personal information or personally identifying information with them. However through their services, they may be able to collect statistical and other information about our readers. Their use of this information is governed by their own privacy policies. 
-  * This website may utilize certain services provided by DoubleClick, Inc. (“DoubleClick”). For further information concerning DoubleClick's privacy practices, including the ability to opt-out from any data collection, reporting and/or targeting activities associated with its services, please go to <http://www.doubleclick.com/us/about_doubleclick/privacy/>. 
-  * This website may utilize certain services provided by Google. For further information concerning Google's privacy practices, please go to [http://www.google.com/privacy.html#utm_source=aso&utm_campaign=ww-ww-et-ashp&utm_medium=link](http://www.google.com/privacy.html#utm_source=aso&utm_campaign=ww-ww-et-ashp&utm_medium=link). 
-  * This website may use third-party companies to serve ads and collect non-personally identifiable information (e.g., the pages you visit, and which links you click, which ads you see and click on, and the categories of search terms you enter) when you visit our web site. These companies may use the information outlined above (which does not include your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. These companies often use a cookie or third party web beacon to collect this information. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here.](http://www.networkadvertising.org/managing/opt_out.asp)
-  * This website may utilize certan services provided by Quantcast. All data collected by Quantcast is anonymous and contains no personally-identifiable information. 
+  * This website may utilize certain services provided by Google and DoubleClick by Google. For further information concerning Google's privacy practices, including the ability to opt-out from any data collection, reporting and/or targeting activities associated with its services, please go to [http://www.google.com/privacy.html#utm_source=aso&utm_campaign=ww-ww-et-ashp&utm_medium=link](http://www.google.com/privacy.html#utm_source=aso&utm_campaign=ww-ww-et-ashp&utm_medium=link). 
+  * Access to this network passes through Cloudflare's Network. For information about their privacy policy, please visit <https://www.cloudflare.com/privacypolicy/> and <https://www.cloudflare.com/privacyshield/>. 
+  * Portions of this website are served by Ezoic, Inc. For information about Ezoic's privacy policy, please visit <https://www.ezoic.com/privacy-policy/>. 
+  * Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their [privacy policy](http://exponential.com/privacy/) or contact their data protection officer via [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+  * This website may use third-party companies to serve ads and collect non-personally identifiable information (e.g., the pages you visit, and which links you click, which ads you see and click on, and the categories of search terms you enter) when you visit our web site. These companies may use the information outlined above (which does not include your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. These companies often use a cookie or third party web beacon to collect this information. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here.](https://www.networkadvertising.org/managing/opt_out.asp)
+  * This website may utilize certain services provided by Quantcast. All data collected by Quantcast is anonymous and contains no personally-identifiable information. 
 
 
 
