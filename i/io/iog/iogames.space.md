@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iogames.space privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204173913id_/http%3A//iogames.space/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iogames.space privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601040413id_/http%3A//iogames.space/privacy) for the most accurate reproduction.*
 
 # Privacy policy of iogames.space
 
@@ -37,6 +37,10 @@ Your account’s Personal Information is protected by a password for your privac
 ### DELETING YOUR ACCOUNT
 
 If at any time a user would like to delete their account or information stored within the Service, they must send an email with such request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) When your account is deleted, your information will be permanently deleted from the servers and databases used within the Service. 
+
+### DISCLAIMER ABOUT AD TECHNOLOGY PROVIDERS
+
+We may use third-party Service Providers to show advertisements to you to help support and maintain our website. Depending on the ads that are served, your data may be shared with any of the ad technology providers listed through the link below. Ad technology providers (including Google, Ad Exchanges, SSPs, DSPs, ad networks, bidders and vendors) use your data for example, to show you personalised ads or to report on conversions. By following the link below, you can find links to information on how the technology providers use your data. [Click here for information about Ad Technology Providers.](https://web.archive.org/adtechprovidersdisclaimer.txt)
 
 ### AMENDMENTS TO THIS POLICY
 
