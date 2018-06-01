@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revenueads.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229025725id_/http%3A//revenueads.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revenueads.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601090133id_/http%3A//revenueads.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # RevenueAds - Privacy Policy
 
@@ -78,6 +78,21 @@ RevenueAds uses Individual Information to provide promotional offers by email to
 5\. Individuals Outside of the United States . Anyone using the Website outside of the United States acknowledges that personal information will be collected and stored by RevenueAds in the United States . By using the Website, you consent to the transfer of information to and/or storage of information outside of your country and in the United States . 
 
 6\. Unsubscribe Procedures. If you wish to discontinue receiving email messages from RevenueAds, you have several options: Unsubscribe from one email list. To unsubscribe from a particular list, either (1) send an email to support@revenueads.com or (2) follow the instructions in each promotional email message sent by RevenueAds. For more information about protecting your privacy, you may wish to visit: www.ftc.gov. If you have questions about this policy, please contact us at support@revenueads.com. 
+
+7\. In accordance with The General Data Protection Regulation (“GDPR”), a European-wide law that goes into effect May 25, 2018, we have added new privacy policies below for EU individuals. RevenueAds is committed to the protection and privacy of your personal data. With that said:   
+
+
+  * We only collect information that we need for a specific purpose.
+  * We seek consent to store the information we hold.
+  * We keep it secure.
+  * We allow access to the information on request from you.
+  * We comply with your ‘right to be forgotten’ and erase personal data upon request.
+
+
+
+Your data can consist of but not limited to name, an email address, bank details, or a computer IP address. 
+
+7.1 If you'd like to request access to your information, request your data be forgotten, or have any other questions or concerns, please contact our Data Controller at justin@revenueads.com. If you are not able to reach him, please reach out directly to compliance@revenueads.com.
 
 California User Consumer Rights. In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, STE 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to dca@dca.ca.gov. © 2007 RevenueAds.
 
