@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upnorthlive.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215150025id_/http%3A//upnorthlive.com/station/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upnorthlive.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601211315id_/http%3A//upnorthlive.com/station/privacy) for the most accurate reproduction.*
 
 # Traverse City Privacy | News, Weather, Sports, Breaking News | WPBN
 
