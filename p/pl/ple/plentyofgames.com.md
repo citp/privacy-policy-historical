@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plentyofgames.com privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005000323id_/http%3A//www.plentyofgames.com/page-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plentyofgames.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601072149id_/http%3A//www.plentyofgames.com/page-privacy) for the most accurate reproduction.*
 
 # plentyofgames.com : Privacy Policy
 
