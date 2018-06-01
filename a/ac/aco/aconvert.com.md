@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aconvert.com privacy policy that was archived on 2017-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170809195116id_/https%3A//www.aconvert.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aconvert.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602000557id_/https%3A//www.aconvert.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy policy - AConvert.com
+# Privacy policy - Aconvert.com
 
-AConvert.com is dedicated to making your online experience as interesting and enjoyable as possible. We truly appreciate your presence on our site and at all times understand that you are our guest and should be treated accordingly. To ensure this, we have listed the components of our Privacy Policy below.
+Aconvert.com is dedicated to making your online experience as interesting and enjoyable as possible. We truly appreciate your presence on our site and at all times understand that you are our guest and should be treated accordingly. To ensure this, we have listed the components of our Privacy Policy below.
 
 ##### App
 
@@ -10,7 +10,7 @@ JPG to PDF Converter app uses permissions that are associated with accessing cam
 
 ##### Personal information
 
-When visiting AConvert.com, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+When visiting Aconvert.com, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
 
 ##### Third party websites
 
@@ -18,11 +18,11 @@ Our website may contain links to other websites of interest. However, once you h
 
 ##### E-mail addresses
 
-Users have the possibility to enter their e-mail address for various functions. AConvert.com does not rent, sell, or share your personal information or email address with any other companies.
+Users have the possibility to enter their e-mail address for various functions. Aconvert.com does not rent, sell, or share your personal information or email address with any other companies.
 
 ##### Storage of files
 
-When users upload files to be converted, AConvert.com stores those files on its servers. The files remain in place on the servers for users to download. All files will be deleted automatically in 8 hours after conversion. There is no backup made of user files, neither are the contents of the files monitored without permission of the uploader.
+When users upload files to be converted, Aconvert.com stores those files on its servers. The files remain in place on the servers for users to download. All files will be deleted automatically in 8 hours after conversion. There is no backup made of user files, neither are the contents of the files monitored without permission of the uploader.
 
 ##### Security
 
@@ -30,4 +30,4 @@ We are committed to ensuring that your information is secure. In order to preven
 
 ##### Use of cookies
 
-Some of our pages use a feature of your browser called a "cookie". Cookies, by themselves, are not able to extract any personal information from you. This cookie automatically identifies your computer - but not you - to our servers when you visit our site. Unless you specifically tell us, AConvert.com will never know who you are, even though we may assign your computer a cookie. Also, AConvert.com can only read cookies created by AConvert.com. Cookies allow us to personalize our site for you and to provide you with information that fits your needs and desires. For instance, once you register your product online, a cookie is written to your computer so that you will not need to type information in the future to obtain support.
+Some of our pages use a feature of your browser called a "cookie". Cookies, by themselves, are not able to extract any personal information from you. This cookie automatically identifies your computer - but not you - to our servers when you visit our site. Unless you specifically tell us, Aconvert.com will never know who you are, even though we may assign your computer a cookie. Also, Aconvert.com can only read cookies created by Aconvert.com. Cookies allow us to personalize our site for you and to provide you with information that fits your needs and desires. For instance, once you register your product online, a cookie is written to your computer so that you will not need to type information in the future to obtain support.
