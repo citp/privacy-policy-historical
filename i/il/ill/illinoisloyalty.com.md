@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the illinoisloyalty.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231224556id_/http%3A//www.illinoisloyalty.com/About/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the illinoisloyalty.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601183120id_/https%3A//www.illinoisloyalty.com/About/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last updated: April 13, 2017 
+Last updated: May 24, 2018 
 
-Ridge Media, LLC ("us", "we", or "our") operates the http://www.illinoisloyalty.com/ website (the "Service"). 
+Fourth Ridge Media Productions, LLC ("us", "we", or "our") operates the http://www.illinoisloyalty.com/ website (the "Service"). 
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service. 
 
@@ -32,11 +32,11 @@ You can instruct your browser to refuse all cookies or to indicate when a cookie
 
 If you do not accept cookies, you may not be able to use some features of our Service and we recommend that you leave them turned on. 
 
-**DoubleClick Cookie**
-
 Google, as a third party vendor, uses cookies to serve ads on our Service. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other web sites on the Internet. 
 
 You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the [Google Ads Settings](http://www.google.com/ads/preferences/ "Google Ads Settings") web page. 
+
+For more information on cookies, visit our [Cookie Policy](https://web.archive.org/About/cookies.php). 
 
 **Do Not Track Disclosure**
 
@@ -58,7 +58,7 @@ We will disclose your Personal Information where required to do so by law or sub
 
 **Business Transaction**
 
-If Ridge Media, LLC is involved in a merger, acquisition or asset sale, your Personal Information may be transferred as a business asset. In such cases, we will provide notice before your Personal Information is transferred and/or becomes subject to a different Privacy Policy. 
+If Fourth Ridge Media Productions, LLC is involved in a merger, acquisition or asset sale, your Personal Information may be transferred as a business asset. In such cases, we will provide notice before your Personal Information is transferred and/or becomes subject to a different Privacy Policy. 
 
 **Security**
 
@@ -82,13 +82,13 @@ We have no control over, and assume no responsibility for the content, privacy p
 
 **Children's Privacy**
 
-Only persons age 18 or older have permission to access our Service. Our Service does not address anyone under the age of 13 ("Children"). 
+Only persons age 18 or older have permission to access our Service. Our Service does not address anyone under the age of 16 ("Children"). 
 
-We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you learn that your Children have provided us with Personal Information, please contact us. If we discover that a Child under 13 has provided us with Personal Information, we will delete such information from our servers. 
+We do not knowingly collect personally identifiable information from children under 16. If you are a parent or guardian and you learn that your Children have provided us with Personal Information, please contact us. If we discover that a Child under 16 has provided us with Personal Information, we will delete such information from our servers. 
 
 **Changes To This Privacy Policy**
 
-This Privacy Policy is effective as of April 13, 2017 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page. 
+This Privacy Policy is effective as of May 24, 2018 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page. 
 
 We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy. 
 
