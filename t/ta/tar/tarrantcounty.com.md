@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tarrantcounty.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201014459id_/http%3A//access.tarrantcounty.com/en/county/website-use/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tarrantcounty.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601052937id_/http%3A//www.tarrantcounty.com/en/county/website-use/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
