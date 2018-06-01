@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanpix.net privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221142604id_/http%3A//members.famousfix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanpix.net privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601090129id_/http%3A//members.famousfix.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -63,3 +63,21 @@ If you are not a resident of the United States, you understand and agree that Lu
 ## 8\. Security Precautions
 
 Lucy Media has security measures in place to help protect against the loss, misuse and alteration of the information under our control. Your information may be transferred to and maintained in whole or in part on computer networks which may be located outside of the state, province, country or other governmental jurisdiction in which you reside, and may be stored on equipment or in facilities leased or licensed from third parties. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information and make all commercially reasonable efforts to do so, Lucy Media cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. However, once we receive your transmission, we make our best effort to ensure its security on our systems. This privacy policy does not apply to any information, including such photographs, that you submit for use in publicly available areas. We ask that you do not submit any personal information, including contact information or financial information, for display in public areas, as other people who use the Services will see it. If you submit such information for display in public areas, Lucy Media cannot prevent it from being used in a manner that violates the law, your personal privacy or your safety. By submitting such information for display in public areas, you assume the risks and sole liability arising as a result of such information being displayed.
+
+**ADDITIONAL PROVISIONS OF THIS PRIVACY POLICY THAT ARE APPLICABLE TO EEA RESIDENTS**
+
+Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our websites in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their [privacy policy](http://exponential.com/privacy/) or contact their data protection officer via privacy AT exponential DOT com
+
+In addition to Exponential, the following partners also have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising, audience and ad measurement. Please contact the partners directly using the privacy policy links below for opt-out requests, access requests or complaints:
+
+Content.ad: [Privacy Policy](https://www.content.ad/privacy-policy/)
+
+Facebook: [Privacy Policy](https://www.facebook.com/policy.php)
+
+Google: [Privacy Policy](https://policies.google.com/privacy?hl=en)
+
+Brealtime: [Privacy Policy](http://www.brealtime.com/privacy-policy/)
+
+Quantcast: [Privacy Policy](https://www.quantcast.com/privacy/)
+
+Apart from the data collected and stored by our partners, Lucy Media does not collect any additional information about the people using our websites. Lucy Media is solely interested in building a publicly-available information resource for fans.
