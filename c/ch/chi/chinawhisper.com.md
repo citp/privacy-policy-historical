@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinawhisper.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206134137id_/http%3A//www.chinawhisper.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinawhisper.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601193847id_/http%3A//www.chinawhisper.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - China Whisper
 
