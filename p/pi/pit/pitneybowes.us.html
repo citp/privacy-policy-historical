@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the pitneybowes.us privacy policy that was archived on 2017-11-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171118145622id_/https%3A//www.pitneybowes.com/us/legal/privacy-statement.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pitneybowes.us privacy policy that was archived on 2018-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180601094924id_/https%3A//www.pitneybowes.com/us/legal/privacy-statement.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="js flexbox flexboxlegacy canvas canvastext no-touch hashchange history rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage svg inlinesvg svgclippaths chrome" prefix="og: http://ogp.me/ns#"><head>
+<!DOCTYPE html><html lang="en" class=" js flexbox flexboxlegacy canvas canvastext no-touch hashchange history rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage svg inlinesvg svgclippaths" prefix="og: http://ogp.me/ns#"><head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <meta name="”robots”" content="”noodp”/">
+    <meta name="robots" content="noodp">
     <meta http-equiv="keywords" content="">
     
 
@@ -45,14 +45,26 @@
 
   	<link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700,300italic,400italic,500italic,700italic" rel="stylesheet" type="text/css">
 
+     
+    
+    
+    
+    
+        <link href="/etc/designs/pb-redesign/resources/styles/global-header.css" rel="stylesheet" type="text/css">
+        <link href="/etc/designs/pb-redesign/resources/styles/main-us.css" rel="stylesheet" type="text/css">
+        <link href="/etc/designs/pb-redesign/resources/styles/livechat-us.css" rel="stylesheet" type="text/css">
+		
+	    
+    
+	
+
     <link rel="stylesheet" href="/etc/designs/pb-redesign/all.css" type="text/css">
 
     
-    <script type="text/javascript" id="www-widgetapi-script" src="http://web.archive.org/web/20150321184133/http://s.ytimg.com/yts/jsbin/www-widgetapi-vflr-TgN1/www-widgetapi.js" async=""></script><script src="https://web.archive.org/web/20150321184021/https://www.youtube.com/iframe_api"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-SDB4"></script><script type="text/javascript" src="/etc/designs/pb-redesign/resources/scripts/vendors/jquery/jquery-1.11.1.min.js"></script>
-    
-    
+    <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-SDB4"></script><script type="text/javascript" src="/etc/designs/pb-redesign/resources/scripts/vendors/jquery/jquery-1.11.1.min.js"></script>
     
 
+    
 
 
 
@@ -65,13 +77,30 @@
 
 
 
-<link rel="stylesheet" href="/etc/designs/pb-redesign/resources/styles/category.css">
-<link rel="stylesheet" href="/etc/designs/pb-redesign/resources/styles/content.css">
-<link rel="stylesheet" href="/etc/designs/pb-redesign/resources/styles/newsroom.css">
-<script type="text/javascript" src="/etc/designs/pb-redesign/resources/scripts/vendors/jquery/jquery-1.11.1.min.js"></script>
+
+
+
+
+
+ 
+
+
+
+
+    
+        <link rel="stylesheet" href="/etc/designs/pb-redesign/resources/styles/category.css">
+        <link rel="stylesheet" href="/etc/designs/pb-redesign/resources/styles/content-us.css">
+        <link rel="stylesheet" href="/etc/designs/pb-redesign/resources/styles/newsroom.css">
+        
+    
+
+
 
 
       
+
+
+
 
 
 
@@ -113,7 +142,14 @@
 
     <script type="text/javascript">
       var DDO = {};
-      DDO.getBootstrap = "us";
+
+      switch("us") {
+          case "germany":
+       		DDO.getBootstrap = "DE";
+            break;
+        default:
+            DDO.getBootstrap = "us";
+      }
     </script>
 
     <!-- Adobe DTM Header !-->
@@ -121,19 +157,58 @@
     <!-- Adobe DTM Header !-->
 
     <script type="text/javascript">
+      var pageUrl = "";
+      var pageRef = "";
+      var siteDomain = "";
+      var brand = "";
+      var campaign = "";
+
       DDO.flowPath = "pbr long-form content template";
       DDO.specVersion = "1.5";
 
+      pageUrl = window.location.href;
+      pageRef = window.document.referrer;
+      siteDomain = window.document.domain;
+
+      DDO.prodURL = window.location.href;
+	  DDO.globalRSID = "pitneybowesprodglobalrollup";
+	  DDO.devRSID = "pitneybowesdtmtest";
+      // DDO.campaign = _satellite.getVar('campaign_cid');
+
+      switch("us") {
+        case "us":
+			DDO.prodRSID = "pitneybowesprodusa";
+            break;
+        case "ca":
+            DDO.prodRSID = "pitneybowesprodcan";
+            break;
+        case "australia":
+			DDO.prodRSID = "pitneybowesprodau";
+            break;
+          case "germany":
+       		DDO.prodRSID = "pitneybowesprodde";
+            break;
+      	case "latam":
+        	DDO.prodRSID = "pitneybowesprodlatin";
+            break;
+        default:
+            DDO.prodRSID = "pitneybowesprodus";
+      }
+
+      DDO.brandData = {
+      	"brandName": brand
+      }
+
       DDO.pageData = {
         "pageName":"pb|us|legal|privacy-statement",
-        "pageURL": getURL,        // Dynamically Populated in DTM
-        "pageRef": getRef,        //Dynamically Populated in DTM 
+        "pageURL": pageUrl,        
+        "pageRef": pageRef,         
         "pageSiteSection":"legal notices | pitney bowes",
         "pageType":"pbr long-form content template",
         "pageHier":"legal |privacy statement | pitney bowes"
         },
       DDO.siteData = {
-        "siteDomain": getDomain,  //Dynamically Populated in DTM 
+        "siteDomain": siteDomain,  
         "siteCountry":"us",
         "siteRegion":"unknown",
         "siteLanguage":"en",
@@ -155,6 +230,12 @@
             "productName": "privacy statement | pitney bowes"
          }
       }
+
+     if(false) {
+        DDO.productDetail = {
+            "productCatType" : ""
+        }
+     }
 
       if(true) {
          DDO.contentData = {
@@ -180,8 +261,12 @@
         DDO.supportType = {
                "articleName" : ""
         }
-     }           
+     }
+
     </script>    
+
+
+
 
 
 
@@ -228,6 +313,9 @@
 
 
 
+
+
+
 <body class="long-form-content us">
 
      
@@ -236,7 +324,7 @@
 
 	
     
-		<div class="parbase pbr-header">
+		<div class="parbase pbr-header pbr-global-header">
 
 
 
@@ -256,11 +344,28 @@
 
 
 
-						
-<header class="headroom headroom--top" style="">
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="" style="">
     
     
+
+
+
 
 
 
@@ -297,29 +402,26 @@
 
 
 
+</div>
 
-    <div class="container-fluid">
-        <div class="row">
 
-             <div class="logo col-lg-2 col-sm-3 col-xs-6">
-                
-                 <a href="/us.html" class="icon-pb-logo" title="Home">
-                 </a>
-            </div>
+
+
+
+
+
+
+
+<!-- start of global header -->
+<header class="global-header global-header--new " id="top">
+   <a href="#main-content" class="global-header__skip-link">Skip to main content</a>
+   <nav class="ancillary-nav" id="ancillary-nav" aria-label="Ancillary navigation">
+      <div class="ancillary-nav__wrap">
+         <ol class="ancillary-nav__list">
+            
+               <li class="ancillary-nav__list__item">
                   
-            <nav class="col-lg-10 col-sm-9 col-xs-6 pull-right">
-                <ul>
 
-                    <li>
-                        <a href="#" class="text-link menu hidden-xs hidden-sm" title="Menu">menu</a>
-                    </li>
-                    
-                    
-					
-                    
-                        
-                        <li>
-                            
 
 
 
@@ -342,190 +444,8 @@
 
 
 
-<a href="/us/region-select.html" class="us country-select hidden-sm hidden-xs" title="" target="">
-    
-        
-            
-                                <i class="icn flag sm"></i>
-                            
-        
-        
-    
-	
-</a>
 
-                        </li>
-                    
-
-                    
-                        <li>
-                              <span data-href="https://search.pb.com/baynote/socialsearch?cn=pitneybowes&amp;cc=www&amp;mode=gsa&amp;irFilter=pb_com%2526client%253Dpb_com" class="search-link hidden-sm hidden-xs">
-                              	<input type="text" id="search" name="search" class="form-control search-input" placeholder=""><span class="icon-search light"></span><span class="icon-close light"></span>
-                              </span>
-                        </li>
-                    
-
-                     
-                        <li>
-                            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="https://www.pitneybowes.com/us/support" class="text-link hidden-sm hidden-xs" title="Support" target="">
-    
-        
-        
-            
-            	
-	            	
-	                 
-	                 	Support
-	                 
-                 
-            
-        
-    
-	
-</a>
-
-                        </li>
-                    
-
-                    
-                        <li>
-                            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="https://www.pitneybowes.us/signin/logon.go?request_locale=en_US#/account/login" class="text-link hidden-sm hidden-xs" title="Sign In" target="">
-    
-        
-        
-            
-            	
-	            	
-	                 
-	                 	Sign In
-	                 
-                 
-            
-        
-    
-	
-</a>
-
-                        </li>
-                    
-
-                     
-                        <li>
-                            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="https://www.pitneybowes.us/shop/home/en-us/storeus" class="text-link hidden-sm hidden-xs" title="Shop" target="">
-    
-        
-        
-            
-            	
-	            	
-	                 
-	                 	Shop
-	                 
-                 
-            
-        
-    
-	
-</a>
-
-                        </li>
-                    
-
-                     
-                        <li>
-                            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/us/industry.html" class="text-link hidden-sm hidden-xs" title="Industries" target="">
+<a href="/us/industry.html" class="ancillary-nav__list__link" title="Industries" target="">
     
         
         
@@ -542,13 +462,11 @@
 	
 </a>
 
-                        </li>
-                    
-
-                     
-                        <li>
-                            
-
+               </li>
+            
+            
+               <li class="ancillary-nav__list__item">
+                  
 
 
 
@@ -570,7 +488,10 @@
 
 
 
-<a href="/us/partner.html" class="text-link hidden-sm hidden-xs" title="Partners" target="">
+
+
+
+<a href="/us/partner.html" class="ancillary-nav__list__link" title="Partners" target="">
     
         
         
@@ -587,107 +508,11 @@
 	
 </a>
 
-                        </li>
-                    
-
-                </ul>
-            </nav>
-
-        </div>
-
-        <a title="Menu" class="icn-menu" data-clicktracker="menuNavigationClick">
-           <div class="patty"></div>
-        </a>
-
-    </div>
-
-</header>
-
-
-
-	<div class="mainMenu parbase pbr-main-nav">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-	 
- <div class="menu-overlay full-menu animated" style="min-height: 768px;">
-
-    <div class="table">
-
-        <div class="vertical-wrap">
-
-            <div class="container-fluid">
-
-				  
-
-
-
-
-
-
-
-<div class="row secondary-nav visible-sm visible-xs">
-         
-              
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="https://www.pitneybowes.us/shop/home/en-us/storeus" class="" title="Shop" target="">
-    
-        
-        
+               </li>
             
-            	
-	            	
-	                 
-	                 	Shop
-	                 
-                 
             
-        
-    
-	
-</a>
-
-        
-
-      
-              
+               <li class="ancillary-nav__list__item">
+                  
 
 
 
@@ -710,49 +535,9 @@
 
 
 
-<a href="https://www.pitneybowes.us/signin/logon.go?request_locale=en_US%23/account/login" class="" title="Sign In" target="">
-    
-        
-        
-            
-            	
-	            	
-	                 
-	                 	Sign In
-	                 
-                 
-            
-        
-    
-	
-</a>
-
-      
-      
-              
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="https://www.pitneybowes.com/us/support" class="" title="Support" target="">
+<a href="/us/support.html" class="ancillary-nav__list__link" title="Support site" target="">
     
         
         
@@ -769,14 +554,12 @@
 	
 </a>
 
-      
-
-       
-              
-
-
-
-
+               </li>
+            
+            
+               
+               <li class="ancillary-nav__list__item">
+                  
 
 
 
@@ -795,7 +578,254 @@
 
 
 
-<a href="/us/industry.html" class="" title="Industries" target="">
+
+
+
+
+
+
+<a href="/us/region-select.html" class="us ancillary-nav__list__link" title="" target="">
+    
+        
+            
+                     <i class="icn flag sm"></i>
+                  
+        
+        
+    
+	
+</a>
+
+               </li>
+            
+         </ol>
+      </div>
+   </nav>
+   <div class="primary-nav" id="primary-nav">
+      <nav class="primary-nav__wrap" aria-label="Primary navigation">
+         
+		 <a class="primary-nav__logo" href="/us" title="US" aria-label="Site homepage">
+         	<img src="/etc/designs/pb-redesign/resources/images/SVG/logo-white.svg" alt="US" class="primary-nav__logo__img" <="" a="">
+         </a><ol class="primary-nav__list"><a class="primary-nav__logo" href="/us" title="US" aria-label="Site homepage">
+            
+               
+                  </a><li class="primary-nav__list__item"><a class="primary-nav__logo" href="/us" title="US" aria-label="Site homepage">
+                     </a><a href="/us/shipping-and-mailing.html" data-menutarget="menu--1" class="primary-nav__list__link 
+                     js-megamenu-trigger
+                     ">
+                     <span class="primary-nav__list__link__text" id="primaryNavMenu1">Mailing</span>
+                     
+                        <span class="primary-nav__list__link__indicator">
+                           <svg>
+                              <use xlink:href="/etc/designs/pb-redesign/resources/images/SVG/header-sprite.svg#svg_caret_down"></use>
+                           </svg>
+                        </span>
+                     
+                     </a>
+                  </li>
+               
+                  <li class="primary-nav__list__item">
+                     <a href="/us/shipping.html" data-menutarget="menu--2" class="primary-nav__list__link 
+                     js-megamenu-trigger
+                     ">
+                     <span class="primary-nav__list__link__text" id="primaryNavMenu2">Shipping</span>
+                     
+                        <span class="primary-nav__list__link__indicator">
+                           <svg>
+                              <use xlink:href="/etc/designs/pb-redesign/resources/images/SVG/header-sprite.svg#svg_caret_down"></use>
+                           </svg>
+                        </span>
+                     
+                     </a>
+                  </li>
+               
+                  <li class="primary-nav__list__item">
+                     <a href="/us/global-ecommerce.html" data-menutarget="menu--3" class="primary-nav__list__link 
+                     js-megamenu-trigger
+                     ">
+                     <span class="primary-nav__list__link__text" id="primaryNavMenu3">Global <br> Ecommerce</span>
+                     
+                        <span class="primary-nav__list__link__indicator">
+                           <svg>
+                              <use xlink:href="/etc/designs/pb-redesign/resources/images/SVG/header-sprite.svg#svg_caret_down"></use>
+                           </svg>
+                        </span>
+                     
+                     </a>
+                  </li>
+               
+                  <li class="primary-nav__list__item">
+                     <a href="/us/software.html" data-menutarget="menu--4" class="primary-nav__list__link 
+                     js-megamenu-trigger
+                     ">
+                     <span class="primary-nav__list__link__text" id="primaryNavMenu4">Software <br>&amp; Data</span>
+                     
+                        <span class="primary-nav__list__link__indicator">
+                           <svg>
+                              <use xlink:href="/etc/designs/pb-redesign/resources/images/SVG/header-sprite.svg#svg_caret_down"></use>
+                           </svg>
+                        </span>
+                     
+                     </a>
+                  </li>
+               
+            
+         </ol>
+         <div id="utility-nav" class="utility-nav" aria-label="Utility navigation" role="navigation">
+            <ol class="utility-nav__list">
+               
+                  <li class="utility-nav__list__item utility-nav__list__item--search">
+                     <a href="" class="utility-nav__list__link js-megamenu-trigger" data-menutarget="menu--search">
+                        <span id="utilityNavSearch"></span>
+                        <svg>
+                           <use xlink:href="/etc/designs/pb-redesign/resources/images/SVG/header-sprite.svg#svg_search"></use>
+                        </svg>
+                     </a>
+                  </li>
+               
+               
+                   
+                       
+                       
+                  <li class="utility-nav__list__item utility-nav__list__item--shop">
+                     <a href="" data-menutarget="menu--shop" class="utility-nav__list__link js-megamenu-trigger">
+                        <span id="utilityNavShop">
+                           Shop
+                           <svg>
+                              <use xlink:href="/etc/designs/pb-redesign/resources/images/SVG/header-sprite.svg#svg_caret_down"></use>
+                           </svg>
+                        </span>
+                     </a>
+                  </li>
+                       
+                   
+               
+               
+               
+                  <li class="utility-nav__list__item utility-nav__list__item--auth">
+                     
+                     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="https://www.pitneybowes.us/signin/logon.go?request_locale=en_US#/account/login" class="utility-nav__list__link" title="Your account" target="">
+    
+        
+        
+            
+            	
+	            	
+	                 
+	                 	Sign In
+	                 
+                 
+            
+        
+    
+	
+</a>
+
+                  </li>
+               
+               
+                  <li class="utility-nav__list__item utility-nav__list__item--cart ">
+                     <a href="https://www.pitneybowes.us/shop/OrderCalculate?calculationUsageId=-1&amp;updatePrices=1&amp;catalogId=13475&amp;errorViewName=OrderItemCheckoutView&amp;orderId=.&amp;langId=-1&amp;storeId=15636&amp;URL=OrderItemCheckoutView" class="utility-nav__list__link">
+                        <!-- logic will need to swap the icon below as needed for width of cart count -->
+					   <span class="cart-count"></span>
+					   <svg><use xlink:href="/etc/designs/pb-redesign/resources/images/SVG/header-sprite.svg#svg_cart_single"></use></svg>
+                     </a>
+                  </li>
+               
+               <li class="utility-nav__list__item utility-nav__list__item--account">
+                  <a href="" class="utility-nav__list__link" data-menutarget="mini-menu--account">
+                     <svg>
+                        <use xlink:href="/etc/designs/pb-redesign/resources/images/SVG/header-sprite.svg#svg_account"></use>
+                     </svg>
+                     <span></span>
+                  </a>
+               </li>
+            </ol>
+         </div>
+      </nav>
+   </div>
+   <!-- the menu below is only displayed for mobile and ipad sized screens -->
+   <div class="mini-menu" id="mini-menu--account">
+      <div class="mini-menu__wrap">
+		
+       		
+       		
+       			<div class="mini-menu__form" role="search" aria-label="Site search">
+       				<div id="searchbox" class="input-group" data-href="https://www.pitneybowes.com/us/search-results.html">
+       					<input type="search" id="searchinput" class="mini-menu__form__input" name="q" placeholder="Search pitneybowes.com" aria-label="Search pitneybowes.com">
+       					<button class="mini-menu__form__button">
+       						<svg><use xlink:href="/etc/designs/pb-redesign/resources/images/SVG/header-sprite.svg#svg_search-menu"></use></svg>
+       					</button>
+       				</div>
+       			</div>
+       		
+       	
+         <ul class="mini-menu__list">
+            
+               <li class="mini-menu__list__item">
+                  <a href="https://www.pitneybowes.us/signin/logon.go?request_locale=en_US#/account/login" class="mini-menu__list__link">
+                     <span class="svg-icon__profile">
+                        <svg>
+                           <use xlink:href="/etc/designs/pb-redesign/resources/images/SVG/header-sprite.svg#svg_profile"></use>
+                        </svg>
+                     </span>
+                     Sign In
+                  </a>
+               </li>
+            
+            
+               <li class="mini-menu__list__item">
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/us/industry.html" class="mini-menu__list__link" title="Industries" target="">
     
         
         
@@ -812,13 +842,11 @@
 	
 </a>
 
-      
-
-       
-              
-
-
-
+               </li>
+            
+            
+               <li class="mini-menu__list__item">
+                  
 
 
 
@@ -838,2201 +866,1391 @@
 
 
 
-<a href="/us/region-select.html" class="us" title="UNITED STATES" target="">
+
+
+
+
+
+<a href="/us/partner.html" class="mini-menu__list__link" title="Partners" target="">
+    
+        
+        
+            
+            	
+	            	
+	                 
+	                 	Partners
+	                 
+                 
+            
+        
+    
+	
+</a>
+
+               </li>
+            
+            
+               <li class="mini-menu__list__item">
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/us/support.html" class="mini-menu__list__link" title="Support site" target="">
+    
+        
+        
+            
+            	
+	            	
+	                 
+	                 	Support
+	                 
+                 
+            
+        
+    
+	
+</a>
+
+               </li>
+            
+            
+               
+               <li class="mini-menu__list__item">
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/us/region-select.html" class="us mini-menu__list__link" title="" target="">
     
         
             
-                              <span class="icn flag"></span>
-                              UNITED STATES
-              
+                     <i class="icn flag sm"></i>United States
+                  
         
         
     
 	
 </a>
 
-      
-
-		
-              
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="https://search.pb.com/baynote/socialsearch?cn=pitneybowes&amp;cc=www&amp;mode=gsa&amp;irFilter=pb_com%2526client%253Dpb_com" class="search-link" title="" target="">
-    
-        
+               </li>
             
-                            	<input type="text" id="search" name="search" class="form-control search-input" placeholder=""><span class="icon-search primary"></span>
-          
-        
-        
-    
-	
-</a>
-
-      
- </div>
-                
-                <div class="row">
-
-                    <div class="col-md-10 col-md-offset-1 col-sm-12">
-
-                        <div class="row">
-
-                            <div class="col-md-9 col-sm-12">
-
-                                <h3>What We Do</h3>
-                                <div class="row">
-                                    <div class="category-col col-md-4 col-sm-12">
-                                     
-							    		     
-									       
-									       		
-									       				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/us/shipping-and-mailing.html" class="" title="" target="">
-    
-        
+         </ul>
+      </div>
+   </div>
+   <!-- end mini menu -->
+   <div class="mega-menu">
+      <div class="mega-menu__wrap">
+         
             
-<h2>
-	<span class="icon-shipping-mailing"></span>Mailing
-</h2>
-
-        
-        
-    
-	
-</a>
-
-<ul>
-	
-		<li>
-			 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-     
-	<a href="/us/shipping-and-mailing/postage-meters.html" class="" title="Postage Meters and Office Shipping Software">
-	    
-	        
-	        
-	           	
-	            	
-	                 	Postage Meters and Office Shipping Software
-	                 
-	                 
-	             
-	        
-	    
-	    
-	</a>
-	
-	
-
-
-
-	        </li>
-	
-		<li>
-			 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-     
-	<a href="/us/shipping-and-mailing/inserters-sorters-printers.html" class="" title="Inserters, Sorters and Printers">
-	    
-	        
-	        
-	           	
-	            	
-	                 	Inserters, Sorters and Printers
-	                 
-	                 
-	             
-	        
-	    
-	    
-	</a>
-	
-	
-
-
-
-	        </li>
-	
-		<li>
-			 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-     
-	<a href="/us/shipping-and-mailing/online-postage-service.html" class="" title="Online Postage">
-	    
-	        
-	        
-	           	
-	            	
-	                 	Online Postage
-	                 
-	                 
-	             
-	        
-	    
-	    
-	</a>
-	
-	
-
-
-
-	        </li>
-	
-		<li>
-			 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-     
-	<a href="/us/shipping-and-mailing.html" class="" title="See All Solutions">
-	    
-	        
-	        
-	           	
-	            	
-	                 	See All Solutions
-	                 
-	                 
-	             
-	        
-	    
-	    
-	</a>
-	
-	
-
-
-
-	        </li>
-	
-</ul>
-									       		
-									       				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/us/customer-information-management.html" class="" title="" target="">
-    
-        
-            
-<h2>
-	<span class="icon-customer-information-management"></span>Customer Information Management
-</h2>
-
-        
-        
-    
-	
-</a>
-
-<ul>
-	
-		<li>
-			 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-     
-	<a href="/us/customer-information-management/customer-analytics.html" class="" title="Customer Analytics">
-	    
-	        
-	        
-	           	
-	            	
-	                 	Customer Analytics
-	                 
-	                 
-	             
-	        
-	    
-	    
-	</a>
-	
-	
-
-
-
-	        </li>
-	
-		<li>
-			 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-     
-	<a href="/us/customer-information-management/data-integration-management.html" class="" title="Data Management &amp; Integration">
-	    
-	        
-	        
-	           	
-	            	
-	                 	Data Management &amp; Integration
-	                 
-	                 
-	             
-	        
-	    
-	    
-	</a>
-	
-	
-
-
-
-	        </li>
-	
-		<li>
-			 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-     
-	<a href="/us/customer-information-management/data-quality.html" class="" title="Data Quality">
-	    
-	        
-	        
-	           	
-	            	
-	                 	Data Quality
-	                 
-	                 
-	             
-	        
-	    
-	    
-	</a>
-	
-	
-
-
-
-	        </li>
-	
-		<li>
-			 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-     
-	<a href="/us/customer-information-management.html" class="" title="See All Solutions">
-	    
-	        
-	        
-	           	
-	            	
-	                 	See All Solutions
-	                 
-	                 
-	             
-	        
-	    
-	    
-	</a>
-	
-	
-
-
-
-	        </li>
-	
-</ul>
-									       		
-									       				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="" class="" title="" target="">
-    
-        
-            
-<h2>
-	<span class="icon-"></span>
-</h2>
-
-        
-        
-    
-	
-</a>
-
-<ul>
-	
-</ul>
-									       		
-								        
-								       
-                               		 </div>
-                                    <div class="category-col col-md-4 col-sm-12 border">
-									 
-							    		     
-									       
-									       		
-									       				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/us/shipping.html" class="" title="" target="">
-    
-        
-            
-<h2>
-	<span class="icon-shipping"></span>Shipping
-</h2>
-
-        
-        
-    
-	
-</a>
-
-<ul>
-	
-		<li>
-			 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-     
-	<a href="/us/shipping/outbound-shipping-products-and-solutions.html" class="" title="Outbound Shipping">
-	    
-	        
-	        
-	           	
-	            	
-	                 	Outbound Shipping
-	                 
-	                 
-	             
-	        
-	    
-	    
-	</a>
-	
-	
-
-
-
-	        </li>
-	
-		<li>
-			 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-     
-	<a href="/us/shipping/receiving-and-tracking-solutions.html" class="" title="Receiving &amp; Tracking">
-	    
-	        
-	        
-	           	
-	            	
-	                 	Receiving &amp; Tracking
-	                 
-	                 
-	             
-	        
-	    
-	    
-	</a>
-	
-	
-
-
-
-	        </li>
-	
-		<li>
-			 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-     
-	<a href="/us/shipping/parcel-sortation.html" class="" title="Parcel Sorting">
-	    
-	        
-	        
-	           	
-	            	
-	                 	Parcel Sorting
-	                 
-	                 
-	             
-	        
-	    
-	    
-	</a>
-	
-	
-
-
-
-	        </li>
-	
-		<li>
-			 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-     
-	<a href="/us/shipping.html" class="" title="See All Solutions">
-	    
-	        
-	        
-	           	
-	            	
-	                 	See All Solutions
-	                 
-	                 
-	             
-	        
-	    
-	    
-	</a>
-	
-	
-
-
-
-	        </li>
-	
-</ul>
-									       		
-									       				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/us/location-intelligence.html" class="" title="" target="">
-    
-        
-            
-<h2>
-	<span class="icon-location-intelligence"></span>Location Intelligence
-</h2>
-
-        
-        
-    
-	
-</a>
-
-<ul>
-	
-		<li>
-			 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-     
-	<a href="/us/location-intelligence/geocoding-data-enrichment.html" class="" title="GeoEnrichment">
-	    
-	        
-	        
-	           	
-	            	
-	                 	GeoEnrichment
-	                 
-	                 
-	             
-	        
-	    
-	    
-	</a>
-	
-	
-
-
-
-	        </li>
-	
-		<li>
-			 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-     
-	<a href="/us/location-intelligence/geographic-information-systems.html" class="" title="Location Analytics">
-	    
-	        
-	        
-	           	
-	            	
-	                 	Location Analytics
-	                 
-	                 
-	             
-	        
-	    
-	    
-	</a>
-	
-	
-
-
-
-	        </li>
-	
-		<li>
-			 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-     
-	<a href="/us/data.html" class="" title="Location &amp; Business Data">
-	    
-	        
-	        
-	           	
-	            	
-	                 	Location &amp; Business Data
-	                 
-	                 
-	             
-	        
-	    
-	    
-	</a>
-	
-	
-
-
-
-	        </li>
-	
-		<li>
-			 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-     
-	<a href="/us/location-intelligence/applied-analytics.html" class="" title="Applied Analytics and Marketing Services">
-	    
-	        
-	        
-	           	
-	            	
-	                 	Applied Analytics and Marketing Services
-	                 
-	                 
-	             
-	        
-	    
-	    
-	</a>
-	
-	
-
-
-
-	        </li>
-	
-		<li>
-			 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-     
-	<a href="/us/location-intelligence.html" class="" title="See All Solutions">
-	    
-	        
-	        
-	           	
-	            	
-	                 	See All Solutions
-	                 
-	                 
-	             
-	        
-	    
-	    
-	</a>
-	
-	
-
-
-
-	        </li>
-	
-</ul>
-									       		
-								        
-								       
-                                    </div>
-
-                                    <div class="category-col col-md-4 col-sm-12 border">
-										 
-							    		     
-									       
-									       		
-									       				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/us/global-ecommerce.html" class="" title="" target="">
-    
-        
-            
-<h2>
-	<span class="icon-global-ecommerce"></span>Global Ecommerce
-</h2>
-
-        
-        
-    
-	
-</a>
-
-<ul>
-	
-		<li>
-			 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-     
-	<a href="/us/global-ecommerce/cross-border.html" class="" title="Complete™ Cross-Border">
-	    
-	        
-	        
-	           	
-	            	
-	                 	Complete™ Cross-Border
-	                 
-	                 
-	             
-	        
-	    
-	    
-	</a>
-	
-	
-
-
-
-	        </li>
-	
-		<li>
-			 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-     
-	<a href="/us/global-ecommerce/marketplace.html" class="" title="Complete™ Marketplace">
-	    
-	        
-	        
-	           	
-	            	
-	                 	Complete™ Marketplace
-	                 
-	                 
-	             
-	        
-	    
-	    
-	</a>
-	
-	
-
-
-
-	        </li>
-	
-		<li>
-			 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-     
-	<a href="/us/global-ecommerce/shipping.html" class="" title="Complete™ Shipping">
-	    
-	        
-	        
-	           	
-	            	
-	                 	Complete™ Shipping
-	                 
-	                 
-	             
-	        
-	    
-	    
-	</a>
-	
-	
-
-
-
-	        </li>
-	
-		<li>
-			 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-     
-	
-		
-           	
-                	 
-                
-                
-            
-	
-
-
-
-	        </li>
-	
-		<li>
-			 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-     
-	<a href="/us/developer/shipping-apis.html" class="" title="Complete™ Shipping APIs">
-	    
-	        
-	        
-	           	
-	            	
-	                 	Complete™ Shipping APIs
-	                 
-	                 
-	             
-	        
-	    
-	    
-	</a>
-	
-	
-
-
-
-	        </li>
-	
-		<li>
-			 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-     
-	<a href="/us/global-ecommerce.html" class="" title="See All Global Ecommerce Solutions">
-	    
-	        
-	        
-	           	
-	            	
-	                 	See All Solutions
-	                 
-	                 
-	             
-	        
-	    
-	    
-	</a>
-	
-	
-
-
-
-	        </li>
-	
-</ul>
-									       		
-									       				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/us/customer-engagement-marketing.html" class="" title="" target="">
-    
-        
-            
-<h2>
-	<span class="icon-customer-engagement "></span>Customer Engagement
-</h2>
-
-        
-        
-    
-	
-</a>
-
-<ul>
-	
-		<li>
-			 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-     
-	<a href="/us/customer-engagement-marketing/personalized-media.html" class="" title="Interactive Personalized Media">
-	    
-	        
-	        
-	           	
-	            	
-	                 	Interactive Personalized Media
-	                 
-	                 
-	             
-	        
-	    
-	    
-	</a>
-	
-	
-
-
-
-	        </li>
-	
-		<li>
-			 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-     
-	<a href="/us/customer-engagement-marketing/communications-management.html" class="" title="Print and Digital Communications Management">
-	    
-	        
-	        
-	           	
-	            	
-	                 	Print and Digital Communications Management
-	                 
-	                 
-	             
-	        
-	    
-	    
-	</a>
-	
-	
-
-
-
-	        </li>
-	
-		<li>
-			 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-     
-	<a href="/us/customer-engagement-marketing/customer-interaction-management.html" class="" title="Customer Contact and Interaction Management">
-	    
-	        
-	        
-	           	
-	            	
-	                 	Customer Contact and Interaction Management
-	                 
-	                 
-	             
-	        
-	    
-	    
-	</a>
-	
-	
-
-
-
-	        </li>
-	
-		<li>
-			 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-     
-	<a href="/us/customer-engagement-marketing/marketing-analytics.html" class="" title="Customer and Marketing Analytics">
-	    
-	        
-	        
-	           	
-	            	
-	                 	Customer and Marketing Analytics
-	                 
-	                 
-	             
-	        
-	    
-	    
-	</a>
-	
-	
-
-
-
-	        </li>
-	
-		<li>
-			 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-     
-	<a href="/us/customer-engagement-marketing.html" class="" title="See All Solutions">
-	    
-	        
-	        
-	           	
-	            	
-	                 	See All Solutions
-	                 
-	                 
-	             
-	        
-	    
-	    
-	</a>
-	
-	
-
-
-
-	        </li>
-	
-</ul>
-									       		
-								        
-								          
-                                    </div>
-                            	</div>
-							</div>
-                            <div class="col-md-3 col-sm-12">
-                                <h3>Popular Products</h3>
-                                <div class="row">
-                                    <div class="col-xs-12 border-left">
-									 
-							    		     
-									       
-								        	<ul>
-									       		
-									       			<li>
-										       			 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-     
-	<a href="/us/shipping-and-mailing/online-postage-service/sendpro-print-usps-stamps-labels.html" class="" title="SendPro® online shipping and mailing solution">
-	    
-	        
-	        
-	           	
-	            	
-	                 	SendPro® online shipping and mailing solution
-	                 
-	                 
-	             
-	        
-	    
-	    
-	</a>
-	
-	
-
-
-
-									                 </li>
-									       		
-									       			<li>
-										       			 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-     
-	<a href="/us/shipping-and-mailing/postage-meters/mailstation-2-mailing-system.html" class="" title="mailstation2™">
-	    
-	        
-	        
-	           	
-	            	
-	                 	mailstation2™
-	                 
-	                 
-	             
-	        
-	    
-	    
-	</a>
-	
-	
-
-
-
-									                 </li>
-									       		
-									       			<li>
-										       			 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-     
-	<a href="/us/shipping-and-mailing/inserters-sorters-printers/relay-low-mid-volume-folder-inserter-machines.html" class="" title="Relay™ Inserting System">
-	    
-	        
-	        
-	           	
-	            	
-	                 	Relay™ Inserting System
-	                 
-	                 
-	             
-	        
-	    
-	    
-	</a>
-	
-	
-
-
-
-									                 </li>
-									       		
-									       			<li>
-										       			 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-     
-	<a href="/us/shipping-and-mailing/postage-meters/sendpro-c-series.html" class="" title="SendPro® C-Series">
-	    
-	        
-	        
-	           	
-	            	
-	                 	SendPro® C-Series
-	                 
-	                 
-	             
-	        
-	    
-	    
-	</a>
-	
-	
-
-
-
-									                 </li>
-									       		
-									       			<li>
-										       			 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-     
-	<a href="/us/shipping-and-mailing/inserters-sorters-printers/intellijet-print-solutions.html" class="" title="IntelliJet 20® Printing System">
-	    
-	        
-	        
-	           	
-	            	
-	                 	IntelliJet 20® Printing System
-	                 
-	                 
-	             
-	        
-	    
-	    
-	</a>
-	
-	
-
-
-
-									                 </li>
-									       		
-									       			<li>
-										       			 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-     
-	<a href="/us/location-intelligence/geographic-information-systems/mapinfo-pro.html" class="" title="MapInfo Pro™">
-	    
-	        
-	        
-	           	
-	            	
-	                 	MapInfo Pro™
-	                 
-	                 
-	             
-	        
-	    
-	    
-	</a>
-	
-	
-
-
-
-									                 </li>
-									       		
-									       			<li>
-										       			 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-     
-	<a href="/us/customer-engagement-marketing/personalized-media/engageone-video-personalized-video.html" class="" title="EngageOne® Video">
-	    
-	        
-	        
-	           	
-	            	
-	                 	EngageOne® Video
-	                 
-	                 
-	             
-	        
-	    
-	    
-	</a>
-	
-	
-
-
-
-									                 </li>
-									       		
-								       		</ul>
-								        
-								       
-                                    </div>
-                                </div>
-                                <h3>About Us</h3>
-
-                                <div class="row">
-                                    <div class="col-xs-12 border-left">
-										
-								    		     
-									       
-									        	<ul>
-										       		
-										       			<li>
-											       			 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-     
-	<a href="/us/our-company.html" class="" title="Our Company">
-	    
-	        
-	        
-	           	
-	            	
-	                 	Our Company
-	                 
-	                 
-	             
-	        
-	    
-	    
-	</a>
-	
-	
-
-
-
-										                 </li>
-										       		
-										       			<li>
-											       			 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-     
-	<a href="/us/newsroom.html" class="" title="Newsroom">
-	    
-	        
-	        
-	           	
-	            	
-	                 	Newsroom
-	                 
-	                 
-	             
-	        
-	    
-	    
-	</a>
-	
-	
-
-
-
-										                 </li>
-										       		
-										       			<li>
-											       			 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-     
-	<a href="http://www.investorrelations.pitneybowes.com/phoenix.zhtml?c=83377&amp;p=irol-irhome" class="" title="Investor Relations">
-	    
-	        
-	        
-	           	
-	            	
-	                 	Investor Relations
-	                 
-	                 
-	             
-	        
-	    
-	    
-	</a>
-	
-	
-
-
-
-										                 </li>
-										       		
-										       			<li>
-											       			 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-     
-	<a href="https://careers.pitneybowes.com/" class="" title="Careers">
-	    
-	        
-	        
-	           	
-	            	
-	                 	Careers
-	                 
-	                 
-	             
-	        
-	    
-	    
-	</a>
-	
-	
-
-
-
-										                 </li>
-										       		
-										       			<li>
-											       			 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-     
-	<a href="/us/developer.html" class="" title="Developer Hub">
-	    
-	        
-	        
-	           	
-	            	
-	                 	Developer Hub
-	                 
-	                 
-	             
-	        
-	    
-	    
-	</a>
-	
-	
-
-
-
-										                 </li>
-										       		
-									       		</ul>
-									       
-								       
-                                    </div>
-                                </div>
-                            </div>
+               <nav id="menu--1" class="mega-menu__cat" aria-labelledby="primaryNavMenu1">
+               <div class="mega-menu__cat__head">
+                  <a href="/us/shipping-and-mailing.html" class="mega-menu__cat__head__link">
+                     <div class="mega-menu__cat__head__icon"><span class="svg-icon__cat-mailing"></span></div>
+					 
+                     <div class="mega-menu__cat__head__text">Mailing</div>
+					 
+                  </a>
+               </div>
+               
+				  
+				  
+                  
+                     <div class="mega-menu__subcat">
+                        <div class="mega-menu__subcat__head">
+                           <a href="/us/shipping-and-mailing/postage-meters.html" class="mega-menu__subcat__head__link">
+								Postage Meters and Office Shipping Software
+                           </a>
                         </div>
-                    </div>
-                </div>
+                        
+                           <ul class="mega-menu__subcat__list">
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/shipping-and-mailing/postage-meters/sendpro-c-200.html" class="mega-menu__subcat__list__item__link">SendPro<sup>®</sup> C200 postage meter</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/shipping-and-mailing/postage-meters/mailstation-2-mailing-system.html" class="mega-menu__subcat__list__item__link">mailstation2™ postage meter</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/shipping-and-mailing/postage-meters/sendpro-c-series.html" class="mega-menu__subcat__list__item__link">SendPro<sup>®</sup> C-Series</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/shipping-and-mailing/postage-meters/sendpro-pseries-shipping-and-mailing-system.html" class="mega-menu__subcat__list__item__link">SendPro<sup>®</sup> P-Series</a>
+                                    </li>
+                                 
+                              
+                                 
+                              
+                              
+                                 <li class="mega-menu__subcat__list__item">
+                                    <a href="/us/shipping-and-mailing/postage-meters.html" class="mega-menu__subcat__list__item__link">See All</a>
+                                 </li>
+                              
+                           </ul>
+                        
+                     </div>
+                     <!-- end subcat -->
+                  
+                     <div class="mega-menu__subcat">
+                        <div class="mega-menu__subcat__head">
+                           <a href="/us/shipping-and-mailing/inserters-sorters-printers.html" class="mega-menu__subcat__head__link">
+								Inserters, Sorters &amp; Printers
+                           </a>
+                        </div>
+                        
+                           <ul class="mega-menu__subcat__list">
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/shipping-and-mailing/inserters-sorters-printers/relay-low-mid-volume-folder-inserter-machines.html" class="mega-menu__subcat__list__item__link">Relay<sup>®</sup> low to mid volume inserters</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/shipping-and-mailing/inserters-sorters-printers/pulse-inserting-solution.html" class="mega-menu__subcat__list__item__link">Pulse™ inserting solution</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/shipping-and-mailing/inserters-sorters-printers/vantage-sorting-solution.html" class="mega-menu__subcat__list__item__link">Vantage™ mail sorting machine</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/shipping-and-mailing/inserters-sorters-printers/accelejet-printing-and-finishing-system.html" class="mega-menu__subcat__list__item__link">AcceleJet<sup>®</sup> printing and finishing system</a>
+                                    </li>
+                                 
+                              
+                                 
+                              
+                              
+                                 <li class="mega-menu__subcat__list__item">
+                                    <a href="/us/shipping-and-mailing/inserters-sorters-printers.html" class="mega-menu__subcat__list__item__link">See All</a>
+                                 </li>
+                              
+                           </ul>
+                        
+                     </div>
+                     <!-- end subcat -->
+                  
+                     <div class="mega-menu__subcat">
+                        <div class="mega-menu__subcat__head">
+                           <a href="/us/shipping-and-mailing/on-demand-and-presort-mailing-services.html" class="mega-menu__subcat__head__link">
+								OnDemand &amp; Presort Mailing Services
+                           </a>
+                        </div>
+                        
+                           <ul class="mega-menu__subcat__list">
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/shipping-and-mailing/on-demand-and-presort-mailing-services/direct-mail-presort.html" class="mega-menu__subcat__list__item__link">Direct Mail presort solutions</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/shipping-and-mailing/on-demand-and-presort-mailing-services/first-class-mail-presort.html" class="mega-menu__subcat__list__item__link">First-Class Mail<sup>®</sup> presort</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/shipping-and-mailing/on-demand-and-presort-mailing-services/presort-services-parcel-mailing-solutions.html" class="mega-menu__subcat__list__item__link">Presort Services Parcel Mailing Solutions</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/shipping-and-mailing/on-demand-and-presort-mailing-services/presortxtra-for-low-volume-mailers.html" class="mega-menu__subcat__list__item__link">PresortXtra™ for low-volume mailers</a>
+                                    </li>
+                                 
+                              
+                                 
+                              
+                              
+                                 <li class="mega-menu__subcat__list__item">
+                                    <a href="/us/shipping-and-mailing/on-demand-and-presort-mailing-services.html" class="mega-menu__subcat__list__item__link">See All</a>
+                                 </li>
+                              
+                           </ul>
+                        
+                     </div>
+                     <!-- end subcat -->
+                  
+                     <div class="mega-menu__subcat">
+                        <div class="mega-menu__subcat__head">
+                           <a href="/us/shipping-and-mailing/online-postage-service.html" class="mega-menu__subcat__head__link">
+								Online Postage
+                           </a>
+                        </div>
+                        
+                           <ul class="mega-menu__subcat__list">
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/shipping-and-mailing/online-postage-service/sendpro-print-usps-stamps-labels.html" class="mega-menu__subcat__list__item__link">SendPro<sup>®</sup> online shipping and mailing solution</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/shipping-and-mailing/ink-and-supplies.html" class="mega-menu__subcat__list__item__link">Office Supplies</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/shipping-and-mailing/online-postage-service.html" class="mega-menu__subcat__list__item__link">See All</a>
+                                    </li>
+                                 
+                              
+                              
+                           </ul>
+                        
+                     </div>
+                     <!-- end subcat -->
+                  
+                     <div class="mega-menu__subcat">
+                        <div class="mega-menu__subcat__head">
+                           <a href="/us/shipping-and-mailing/openers-folders-finishers-and-shredders.html" class="mega-menu__subcat__head__link">
+								Openers, Folders, Finishers &amp; Shredders
+                           </a>
+                        </div>
+                        
+                           <ul class="mega-menu__subcat__list">
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/shipping-and-mailing/openers-folders-finishers-and-shredders.html?tab1" class="mega-menu__subcat__list__item__link">Open your Mail</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/shipping-and-mailing/openers-folders-finishers-and-shredders.html?tab2" class="mega-menu__subcat__list__item__link">Fold your Mail</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/shipping-and-mailing/openers-folders-finishers-and-shredders.html?tab3" class="mega-menu__subcat__list__item__link">Prepare your Mail</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/shipping-and-mailing/openers-folders-finishers-and-shredders.html?tab4" class="mega-menu__subcat__list__item__link">Shred your Mail</a>
+                                    </li>
+                                 
+                              
+                                 
+                              
+                              
+                                 <li class="mega-menu__subcat__list__item">
+                                    <a href="/us/shipping-and-mailing/openers-folders-finishers-and-shredders.html" class="mega-menu__subcat__list__item__link">See All</a>
+                                 </li>
+                              
+                           </ul>
+                        
+                     </div>
+                     <!-- end subcat -->
+                  
+                     <div class="mega-menu__subcat">
+                        <div class="mega-menu__subcat__head">
+                           <a href="/us/shipping-and-mailing/address-management-and-tracking-software.html" class="mega-menu__subcat__head__link">
+								Address Management &amp; Tracking Software
+                           </a>
+                        </div>
+                        
+                           <ul class="mega-menu__subcat__list">
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/shipping-and-mailing/address-management-and-tracking-software/connectright-mailer.html" class="mega-menu__subcat__list__item__link">ConnectRight Mailer</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/shipping-and-mailing/address-management-and-tracking-software/verimove.html" class="mega-menu__subcat__list__item__link">VeriMove™</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/shipping-and-mailing/address-management-and-tracking-software/verimove-access.html" class="mega-menu__subcat__list__item__link">VeriMove™ Access</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/shipping-and-mailing/address-management-and-tracking-software/mail360.html" class="mega-menu__subcat__list__item__link">MAIL360™</a>
+                                    </li>
+                                 
+                              
+                                 
+                              
+                              
+                                 <li class="mega-menu__subcat__list__item">
+                                    <a href="/us/shipping-and-mailing/address-management-and-tracking-software.html" class="mega-menu__subcat__list__item__link">See All</a>
+                                 </li>
+                              
+                           </ul>
+                        
+                     </div>
+                     <!-- end subcat -->
+                  
+                     <div class="mega-menu__subcat">
+                        <div class="mega-menu__subcat__head">
+                           <a href="/us/shipping-and-mailing/postage-expense-management-solutions.html" class="mega-menu__subcat__head__link">
+								Postage Expense Management Solutions
+                           </a>
+                        </div>
+                        
+                           <ul class="mega-menu__subcat__list">
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/shipping-and-mailing/postage-expense-management-solutions.html?tab1" class="mega-menu__subcat__list__item__link">Pay Later</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/shipping-and-mailing/postage-expense-management-solutions.html?tab2" class="mega-menu__subcat__list__item__link">Pre-Pay</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/shipping-and-mailing/postage-expense-management-solutions.html?tab3" class="mega-menu__subcat__list__item__link">Budgeting &amp; Reporting</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/shipping-and-mailing/postage-expense-management-solutions.html" class="mega-menu__subcat__list__item__link">See All</a>
+                                    </li>
+                                 
+                              
+                              
+                           </ul>
+                        
+                     </div>
+                     <!-- end subcat -->
+                  
+                     <div class="mega-menu__subcat">
+                        <div class="mega-menu__subcat__head">
+                           <a href="/us/shipping-and-mailing/pitney-bowes-global-services.html" class="mega-menu__subcat__head__link">
+								Pitney Bowes Global Services
+                           </a>
+                        </div>
+                        
+                           <ul class="mega-menu__subcat__list">
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/shipping-and-mailing/pitney-bowes-global-services/technology-support-services.html" class="mega-menu__subcat__list__item__link">Technology Support Services</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/shipping-and-mailing/pitney-bowes-global-services/professional-services.html" class="mega-menu__subcat__list__item__link">Professional Services</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/shipping-and-mailing/solutions-engineering-delivery.html" class="mega-menu__subcat__list__item__link">See All</a>
+                                    </li>
+                                 
+                              
+                              
+                           </ul>
+                        
+                     </div>
+                     <!-- end subcat -->
+                  
+				  
+               
+               </nav>
+            
+               <nav id="menu--2" class="mega-menu__cat" aria-labelledby="primaryNavMenu2">
+               <div class="mega-menu__cat__head">
+                  <a href="/us/shipping.html" class="mega-menu__cat__head__link">
+                     <div class="mega-menu__cat__head__icon"><span class="svg-icon__cat-shipping"></span></div>
+					 
+                     <div class="mega-menu__cat__head__text">Shipping</div>
+					 
+                  </a>
+               </div>
+               
+				  
+				  
+						
+				  
+                  
+                     <div class="mega-menu__subcat">
+                        <div class="mega-menu__subcat__head">
+                           <a href="/us/shipping/outbound-shipping-products-and-solutions.html" class="mega-menu__subcat__head__link">
+								Outbound Shipping
+                           </a>
+                        </div>
+                        
+                           <ul class="mega-menu__subcat__list">
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/shipping-and-mailing/online-postage-service/sendpro-print-usps-stamps-labels.html" class="mega-menu__subcat__list__item__link">SendPro<sup>®</sup> integrated shipping solution</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/shipping/outbound-shipping-products-and-solutions/sendpro-enterprise.html" class="mega-menu__subcat__list__item__link">SendPro<sup>®</sup> Enterprise</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/shipping/outbound-shipping-products-and-solutions/sendsuite-live.html" class="mega-menu__subcat__list__item__link">SendSuite Live enterprise shipping solution</a>
+                                    </li>
+                                 
+                              
+                              
+                           </ul>
+                        
+                     </div>
+                     <!-- end subcat -->
+                  
+                     <div class="mega-menu__subcat">
+                        <div class="mega-menu__subcat__head">
+                           <a href="/us/shipping/receiving-and-tracking-solutions.html" class="mega-menu__subcat__head__link">
+								Receiving &amp; Tracking
+                           </a>
+                        </div>
+                        
+                           <ul class="mega-menu__subcat__list">
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/shipping/receiving-and-tracking-solutions/sendsuite-tracking.html" class="mega-menu__subcat__list__item__link">SendSuite<sup>®</sup> Tracking</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/shipping/receiving-and-tracking-solutions/sendsuite-tracking-online.html" class="mega-menu__subcat__list__item__link">SendSuite<sup>®</sup> Tracking Online</a>
+                                    </li>
+                                 
+                              
+                              
+                           </ul>
+                        
+                     </div>
+                     <!-- end subcat -->
+                  
+                     <div class="mega-menu__subcat">
+                        <div class="mega-menu__subcat__head">
+                           <a href="/us/shipping/parcel-sortation.html" class="mega-menu__subcat__head__link">
+								Parcel Sorting
+                           </a>
+                        </div>
+                        
+                           <ul class="mega-menu__subcat__list">
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/shipping/parcel-sortation/truesort-automated-parcel-solutions.html" class="mega-menu__subcat__list__item__link">TrueSort™ automated parcel solutions</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/shipping/parcel-sortation/onesort-automated-data-capture-solutions.html" class="mega-menu__subcat__list__item__link">OneSort<sup>®</sup> automated data capture solutions</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/shipping-and-mailing/on-demand-and-presort-mailing-services/presort-services-parcel-mailing-solutions.html" class="mega-menu__subcat__list__item__link">Presort Services Parcel Mailing Solutions</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/shipping/parcel-sortation.html" class="mega-menu__subcat__list__item__link">See All</a>
+                                    </li>
+                                 
+                              
+                              
+                           </ul>
+                        
+                     </div>
+                     <!-- end subcat -->
+                  
+                     <div class="mega-menu__subcat">
+                        <div class="mega-menu__subcat__head">
+                           <a href="/us/industry/retail.html" class="mega-menu__subcat__head__link">
+								Related Solutions
+                           </a>
+                        </div>
+                        
+                           <ul class="mega-menu__subcat__list">
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/global-ecommerce/cross-border.html" class="mega-menu__subcat__list__item__link">Cross-Border &amp; Omnichannel Shipping</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/developer/shipping-apis.html" class="mega-menu__subcat__list__item__link">Shipping APIs</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/shipping-and-mailing/postage-expense-management-solutions.html" class="mega-menu__subcat__list__item__link">Postage Expense Management Solutions</a>
+                                    </li>
+                                 
+                              
+                              
+                           </ul>
+                        
+                     </div>
+                     <!-- end subcat -->
+                  
+				  
+               
+               </nav>
+            
+               <nav id="menu--3" class="mega-menu__cat" aria-labelledby="primaryNavMenu3">
+               <div class="mega-menu__cat__head">
+                  <a href="/us/global-ecommerce.html" class="mega-menu__cat__head__link">
+                     <div class="mega-menu__cat__head__icon"><span class="svg-icon__cat-ecommerce"></span></div>
+					 
+                     <div class="mega-menu__cat__head__text">Global Ecommerce</div>
+					 
+                  </a>
+               </div>
+               
+				  
+				  
+						
+				  
+                  
+                     <div class="mega-menu__subcat">
+                        <div class="mega-menu__subcat__head">
+                           <a href="/us/global-ecommerce.html?tab1" class="mega-menu__subcat__head__link">
+								Solutions
+                           </a>
+                        </div>
+                        
+                           <ul class="mega-menu__subcat__list">
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/global-ecommerce/cross-border.html" class="mega-menu__subcat__list__item__link">Complete™ Cross-Border</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/global-ecommerce/marketplace.html" class="mega-menu__subcat__list__item__link">Complete™ Marketplace</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/global-ecommerce/shipping.html" class="mega-menu__subcat__list__item__link">Complete™ Shipping</a>
+                                    </li>
+                                 
+                              
+                              
+                           </ul>
+                        
+                     </div>
+                     <!-- end subcat -->
+                  
+                     <div class="mega-menu__subcat">
+                        <div class="mega-menu__subcat__head">
+                           <a href="/us/global-ecommerce.html?tab2" class="mega-menu__subcat__head__link">
+								APIs
+                           </a>
+                        </div>
+                        
+                           <ul class="mega-menu__subcat__list">
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/developer/shipping-apis/usps-api.html" class="mega-menu__subcat__list__item__link">Complete™ Shipping APIs</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/developer/geocoding-apis.html" class="mega-menu__subcat__list__item__link">Complete™ Location Intelligence APIs</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/developer/shipping-payments-api.html" class="mega-menu__subcat__list__item__link">Complete™ Shipping APIs Payments</a>
+                                    </li>
+                                 
+                              
+                              
+                           </ul>
+                        
+                     </div>
+                     <!-- end subcat -->
+                  
+                     <div class="mega-menu__subcat">
+                        <div class="mega-menu__subcat__head">
+                           <a href="/us/global-ecommerce.html?tab3" class="mega-menu__subcat__head__link">
+								Services
+                           </a>
+                        </div>
+                        
+                           <ul class="mega-menu__subcat__list">
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/global-ecommerce/marketing-services.html" class="mega-menu__subcat__list__item__link">Complete™ Marketing Services</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/global-ecommerce/delivery.html" class="mega-menu__subcat__list__item__link">Complete™ Delivery Services</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/global-ecommerce/payment-services.html" class="mega-menu__subcat__list__item__link">Complete™ Payment Services</a>
+                                    </li>
+                                 
+                              
+                              
+                           </ul>
+                        
+                     </div>
+                     <!-- end subcat -->
+                  
+                     <div class="mega-menu__subcat">
+                        <div class="mega-menu__subcat__head">
+                           <a href="/us/global-ecommerce/case-studies.html" class="mega-menu__subcat__head__link">
+								Resources
+                           </a>
+                        </div>
+                        
+                           <ul class="mega-menu__subcat__list">
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/campaign/ecommercereport2017.html" class="mega-menu__subcat__list__item__link">2017 Global Ecommerce Report</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/campaign/shippingstrategy2017.html" class="mega-menu__subcat__list__item__link">Forbes Insights Report: Shipping as a Strategy</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/jointherevolution2018.html" class="mega-menu__subcat__list__item__link">(R)Evolution 2018</a>
+                                    </li>
+                                 
+                              
+                              
+                           </ul>
+                        
+                     </div>
+                     <!-- end subcat -->
+                  
+				  
+               
+               </nav>
+            
+               <nav id="menu--4" class="mega-menu__cat" aria-labelledby="primaryNavMenu4">
+               <div class="mega-menu__cat__head">
+                  <a href="/us/software.html" class="mega-menu__cat__head__link">
+                     <div class="mega-menu__cat__head__icon"><span class="svg-icon__cat-software"></span></div>
+					 
+                     <div class="mega-menu__cat__head__text">Software &amp; Data</div>
+					 
+                  </a>
+               </div>
+               
+				  
+				  
+						
+				  
+                  
+                     <div class="mega-menu__subcat">
+                        <div class="mega-menu__subcat__head">
+                           <a href="/us/data.html" class="mega-menu__subcat__head__link">
+								Data
+                           </a>
+                        </div>
+                        
+                           <ul class="mega-menu__subcat__list">
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/data/addressing-data.html" class="mega-menu__subcat__list__item__link">Addressing</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/data/street-data.html" class="mega-menu__subcat__list__item__link">World Streets</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/data/poi-database.html" class="mega-menu__subcat__list__item__link">World Points of Interest</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/data/boundary-data.html" class="mega-menu__subcat__list__item__link">World Boundaries</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/data.html" class="mega-menu__subcat__list__item__link">See all</a>
+                                    </li>
+                                 
+                              
+                              
+                           </ul>
+                        
+                     </div>
+                     <!-- end subcat -->
+                  
+                     <div class="mega-menu__subcat">
+                        <div class="mega-menu__subcat__head">
+                           <a href="/us/location-intelligence.html" class="mega-menu__subcat__head__link">
+								Location Intelligence
+                           </a>
+                        </div>
+                        
+                           <ul class="mega-menu__subcat__list">
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/location-intelligence/geocoding-data-enrichment.html" class="mega-menu__subcat__list__item__link">Geoenrichment</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/location-intelligence/geographic-information-systems.html" class="mega-menu__subcat__list__item__link">Location Analytics</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/location-intelligence/infrastructure-asset-management.html" class="mega-menu__subcat__list__item__link">Infrastructure &amp; Asset Management</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/location-intelligence/applied-analytics.html" class="mega-menu__subcat__list__item__link">Applied Analytics &amp; Marketing Services</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/location-intelligence.html" class="mega-menu__subcat__list__item__link">See all</a>
+                                    </li>
+                                 
+                              
+                              
+                           </ul>
+                        
+                     </div>
+                     <!-- end subcat -->
+                  
+                     <div class="mega-menu__subcat">
+                        <div class="mega-menu__subcat__head">
+                           <a href="/us/customer-information-management.html" class="mega-menu__subcat__head__link">
+								Customer Information Management
+                           </a>
+                        </div>
+                        
+                           <ul class="mega-menu__subcat__list">
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/customer-information-management/customer-analytics.html" class="mega-menu__subcat__list__item__link">Customer Analytics</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/customer-information-management/data-integration-management.html" class="mega-menu__subcat__list__item__link">Data Management &amp; Integration</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/customer-information-management/data-quality.html" class="mega-menu__subcat__list__item__link">Data Quality</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/customer-information-management/data-integration-management/gdpr-compliance.html" class="mega-menu__subcat__list__item__link">General Data Protection Regulation (GDPR)</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/customer-information-management.html" class="mega-menu__subcat__list__item__link">See all</a>
+                                    </li>
+                                 
+                              
+                              
+                           </ul>
+                        
+                     </div>
+                     <!-- end subcat -->
+                  
+                     <div class="mega-menu__subcat">
+                        <div class="mega-menu__subcat__head">
+                           <a href="/us/customer-engagement-marketing.html" class="mega-menu__subcat__head__link">
+								Customer Engagement
+                           </a>
+                        </div>
+                        
+                           <ul class="mega-menu__subcat__list">
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/customer-engagement-marketing/personalized-media/engageone-video-personalized-video.html" class="mega-menu__subcat__list__item__link">Interactive Personalized Video</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/customer-engagement-marketing/communications-management.html" class="mega-menu__subcat__list__item__link">Print &amp; Digital Communications Management</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/customer-engagement-marketing/customer-interaction-management.html" class="mega-menu__subcat__list__item__link">Customer Contact &amp; Interaction Management</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/customer-engagement-marketing/marketing-analytics.html" class="mega-menu__subcat__list__item__link">Customer &amp; Marketing Analysis</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   <a href="/us/customer-engagement-marketing.html" class="mega-menu__subcat__list__item__link">See all</a>
+                                    </li>
+                                 
+                              
+                              
+                           </ul>
+                        
+                     </div>
+                     <!-- end subcat -->
+                  
+				  
+               
+               </nav>
+            
+         
+         <nav id="menu--shop" class="mega-menu__cat" aria-labelledby="utilityNavShop">
+            <form method="POST" action="https://www.pitneybowes.us/shop/PBSearchDisplay?storeId=15636&amp;catalogId=13475&amp;langId=-1" name="SolrStoreSearchForm" class="mega-menu__form show-mobile-only" role="search">
+               <div class="input-group">
+                  <input type="search" class=" mega-menu__form__input" name="searchKey" placeholder="Search the Store" aria-label="Search the Store">
+                  <button class="mega-menu__form__button">
+                     <svg>
+                        <use xlink:href="/etc/designs/pb-redesign/resources/images/SVG/header-sprite.svg#svg_search-menu"></use>
+                     </svg>
+                  </button>
+               </div>
+            </form>
+            <div class="mega-menu__cat__head">
+               <a href="https://www.pitneybowes.us/shop/home/en-us/storeus" class="mega-menu__cat__head__link">
+                  <div class="mega-menu__cat__head__icon">
+                     <span class="svg-icon__shopping">
+                        <svg>
+                           <use xlink:href="/etc/designs/pb-redesign/resources/images/SVG/header-sprite.svg#svg_shopping"></use>
+                        </svg>
+                     </span>
+                  </div>
+                  <div class="mega-menu__cat__head__text">Shop</div>
+               </a>
+               
             </div>
-        </div>
-    </div>
-</div>
+            <div class="mega-menu__column mega-menu__column--three-quarter">
+               
+                  
+                     <div class="mega-menu__subcat">
+                        <div class="mega-menu__subcat__head">
+						   
+                           <a href="https://www.pitneybowes.us/shop/ink-and-supplies/postage-meter-ink-supplies/postage-meter-ink-supplies/en-us/storeus" class="mega-menu__subcat__head__link">
+                           Ink &amp; Supplies by Meter
+                           </a>
+                        </div>
+                        
+                           <ul class="mega-menu__subcat__list">
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   
+                                       <a href="https://www.pitneybowes.us/shop/ink-and-supplies/postage-meter-ink-supplies/sendpro-c-series/en-us/storeus" class="mega-menu__subcat__list__item__link">SendPro<sup>®</sup> C Series</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   
+                                       <a href="https://www.pitneybowes.us/shop/ink-and-supplies/postage-meter-ink-supplies/sendpro-enterprise-online/en-us/storeus" class="mega-menu__subcat__list__item__link">SendPro Enterprise</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   
+                                       <a href="https://www.pitneybowes.us/shop/ink-and-supplies/postage-meter-ink-supplies/pbsendingapp/en-us/storeus" class="mega-menu__subcat__list__item__link">SendPro<sup>®</sup> Online Shipping &amp; Mailing</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   
+                                       <a href="https://www.pitneybowes.us/shop/ink-and-supplies/postage-meter-ink-supplies/mailstation2-k7m0/en-us/storeus" class="mega-menu__subcat__list__item__link">mailstation2</a>
+                                    </li>
+                                 
+                              
+                                 
+                              
+                                 
+                              
+                                 
+                              
+                                 
+                              
+                                 
+                              
+                                 
+                              
+                                 
+                              
+                                 
+                              
+                                 
+                              
+                                 
+                              
+                              
+                                 <li class="mega-menu__subcat__list__item">
+								    
+                                    <a href="https://www.pitneybowes.us/shop/ink-and-supplies/postage-meter-ink-supplies/postage-meter-ink-supplies/en-us/storeus" class="mega-menu__subcat__list__item__link">See All</a>
+                                 </li>
+                              
+                           </ul>
+                        
+                     </div>
+                     <!-- end subcat -->
+                  
+                     <div class="mega-menu__subcat">
+                        <div class="mega-menu__subcat__head">
+						   
+                           <a href="https://www.pitneybowes.us/shop/ink-and-supplies/envelopes-and-printer-paper/envelopes-and-printer-paper/en-us/storeus" class="mega-menu__subcat__head__link">
+                           Envelopes &amp; Paper
+                           </a>
+                        </div>
+                        
+                           <ul class="mega-menu__subcat__list">
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   
+                                       <a href="https://www.pitneybowes.us/shop/ink-and-supplies/envelopes-and-printer-paper/everyday-envelopes/en-us/storeus" class="mega-menu__subcat__list__item__link">Everyday Envelopes</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   
+                                       <a href="https://www.pitneybowes.us/shop/ink-and-supplies/envelopes-and-printer-paper/business-envelopes/en-us/storeus" class="mega-menu__subcat__list__item__link">Business Envelopes</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   
+                                       <a href="https://www.pitneybowes.us/shop/ink-and-supplies/envelopes-and-printer-paper/inserting-system-envelopes/en-us/storeus" class="mega-menu__subcat__list__item__link">Inserting System Envelopes</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   
+                                       <a href="https://www.pitneybowes.us/shop/ink-and-supplies/envelopes-and-printer-paper/office-printer-paper/en-us/storeus" class="mega-menu__subcat__list__item__link">Everyday Paper</a>
+                                    </li>
+                                 
+                              
+                                 
+                              
+                              
+                                 <li class="mega-menu__subcat__list__item">
+								    
+                                    <a href="https://www.pitneybowes.us/shop/ink-and-supplies/envelopes-and-printer-paper/envelopes-and-printer-paper/en-us/storeus" class="mega-menu__subcat__list__item__link">See All</a>
+                                 </li>
+                              
+                           </ul>
+                        
+                     </div>
+                     <!-- end subcat -->
+                  
+                     <div class="mega-menu__subcat">
+                        <div class="mega-menu__subcat__head">
+						   
+                           <a href="https://www.pitneybowes.us/shop/ink-and-supplies/shipping-and-packing-supplies/shipping-and-packing-supplies/en-us/storeus" class="mega-menu__subcat__head__link">
+                           Packing &amp; Mailing Supplies
+                           </a>
+                        </div>
+                        
+                           <ul class="mega-menu__subcat__list">
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   
+                                       <a href="https://www.pitneybowes.us/shop/ink-and-supplies/shipping-and-packing-supplies/mailing-boxes--cartons/en-us/storeus" class="mega-menu__subcat__list__item__link">Mailing Boxes &amp; Cartons</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   
+                                       <a href="https://www.pitneybowes.us/shop/ink-and-supplies/shipping-and-packing-supplies/bubblestretch-wrap--kraft-paper/en-us/storeus" class="mega-menu__subcat__list__item__link">Bubble, Stretch Wrap &amp; Kraft Paper</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   
+                                       <a href="https://www.pitneybowes.us/shop/ink-and-supplies/shipping-and-packing-supplies/office-shipping-bundles/en-us/storeus" class="mega-menu__subcat__list__item__link">Office Shipping Bundles</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   
+                                       <a href="https://www.pitneybowes.us/shop/ink-and-supplies/shipping-and-packing-supplies/address-printer-supplies/en-us/storeus" class="mega-menu__subcat__list__item__link">Addressing Printer Supplies</a>
+                                    </li>
+                                 
+                              
+                                 
+                              
+                                 
+                              
+                                 
+                              
+                                 
+                              
+                                 
+                              
+                                 
+                              
+                                 
+                              
+                                 
+                              
+                                 
+                              
+                                 
+                              
+                                 
+                              
+                                 
+                              
+                                 
+                              
+                                 
+                              
+                                 
+                              
+                              
+                                 <li class="mega-menu__subcat__list__item">
+								    
+                                    <a href="https://www.pitneybowes.us/shop/ink-and-supplies/shipping-and-packing-supplies/shipping-and-packing-supplies/en-us/storeus" class="mega-menu__subcat__list__item__link">See All</a>
+                                 </li>
+                              
+                           </ul>
+                        
+                     </div>
+                     <!-- end subcat -->
+                  
+                     <div class="mega-menu__subcat">
+                        <div class="mega-menu__subcat__head">
+						   
+                           <a href="https://www.pitneybowes.us/shop/ink-and-supplies/printer-copier-fax-ink-and-toner/inktonerfinder/en-us/storeus" class="mega-menu__subcat__head__link">
+                           Supplies by Printer or Copier
+                           </a>
+                        </div>
+                        
+                           <ul class="mega-menu__subcat__list">
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   
+                                       <a href="https://www.pitneybowes.us/shop/ink-and-supplies/printer-copier-fax-ink-and-toner/inktonerfinder/en-us/storeus" class="mega-menu__subcat__list__item__link">Pitney Bowes</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   
+                                       <a href="https://www.pitneybowes.us/shop/ink-and-supplies/printer-copier-fax-ink-and-toner/inktonerfinder/en-us/storeus" class="mega-menu__subcat__list__item__link">Brother</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   
+                                       <a href="https://www.pitneybowes.us/shop/ink-and-supplies/printer-copier-fax-ink-and-toner/inktonerfinder/en-us/storeus" class="mega-menu__subcat__list__item__link">Canon</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   
+                                       <a href="https://www.pitneybowes.us/shop/ink-and-supplies/printer-copier-fax-ink-and-toner/inktonerfinder/en-us/storeus" class="mega-menu__subcat__list__item__link">RISO</a>
+                                    </li>
+                                 
+                              
+                                 
+                              
+                                 
+                              
+                                 
+                              
+                                 
+                              
+                                 
+                              
+                                 
+                              
+                                 
+                              
+                                 
+                              
+                                 
+                              
+                                 
+                              
+                                 
+                              
+                                 
+                              
+                                 
+                              
+                                 
+                              
+                                 
+                              
+                                 
+                              
+                              
+                                 <li class="mega-menu__subcat__list__item">
+								    
+                                    <a href="https://www.pitneybowes.us/shop/ink-and-supplies/printer-copier-fax-ink-and-toner/inktonerfinder/en-us/storeus" class="mega-menu__subcat__list__item__link">See All</a>
+                                 </li>
+                              
+                           </ul>
+                        
+                     </div>
+                     <!-- end subcat -->
+                  
+                     <div class="mega-menu__subcat">
+                        <div class="mega-menu__subcat__head">
+						   
+                           <a href="https://www.pitneybowes.us/shop/ink-and-supplies/binders-and-document-solutions/binders-and-document-solutions/en-us/storeus" class="mega-menu__subcat__head__link">
+                           Document Shredding &amp; Binding
+                           </a>
+                        </div>
+                        
+                           <ul class="mega-menu__subcat__list">
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   
+                                       <a href="https://www.pitneybowes.us/shop/ink-and-supplies/binders-and-document-solutions/paper-binding-supplies/en-us/storeus" class="mega-menu__subcat__list__item__link">Coverbind Document Binding</a>
+                                    </li>
+                                 
+                              
+                                 
+                                    <li class="mega-menu__subcat__list__item">
+									   
+                                       <a href="https://www.pitneybowes.us/shop/ink-and-supplies/binders-and-document-solutions/office-shredders-and-supplies/en-us/storeus" class="mega-menu__subcat__list__item__link">Shredders &amp; Supplies</a>
+                                    </li>
+                                 
+                              
+                              
+                           </ul>
+                        
+                     </div>
+                     <!-- end subcat -->
+                  
+               
+            </div>
+            <!-- end column--three-quarter -->
+            <div class="mega-menu__column mega-menu__column--quarter mega-menu__column--left-rule">
+               
+                  
+                     <div class="mega-menu__subcat">
+                        <div class="mega-menu__subcat__head">
+						   
+                           <a href="https://www.pitneybowes.us/shop/equipment/en-us/storeus" class="mega-menu__subcat__head__link">
+                           Postage Meters &amp; Software
+                           </a>
+                        </div>
+                        
+                     </div>
+                     <!-- end subcat -->
+                  
+                  
+                     <div class="mega-menu__subcat">
+                        <div class="mega-menu__subcat__head">
+						   
+                           <a href="https://www.pitneybowes.us/shop/DMTPartsHome_12756_11055_-1" class="mega-menu__subcat__head__link">
+                              Shop for Parts
+                              <span class="svg-icon__offsite">
+                                 <svg>
+                                    <use xlink:href="/etc/designs/pb-redesign/resources/images/SVG/header-sprite.svg#svg_offsite"></use>
+                                 </svg>
+                              </span>
+                           </a>
+                        </div>
+                     </div>
+                  
+               
+            </div>
+            <!-- end mega-menu quarter -->
+            
+         </nav>
+         <nav id="menu--search" class="mega-menu__cat mega-menu__cat--search" aria-labelledby="utilityNavSearch">
+             
+       			                   
+                
+                   	<div class="mega-menu__form" role="search" aria-label="Site search">
+                   		<div id="search-box" class="input-group" data-href="https://www.pitneybowes.com/us/search-results.html">
+                   			<input type="search" id="search-input" class="mega-menu__form__input" name="q" placeholder="Search pitneybowes.com" aria-label="Search pitneybowes.com">
+                      		<button class="mega-menu__form__button">
+                         		<svg><use xlink:href="/etc/designs/pb-redesign/resources/images/SVG/header-sprite.svg#svg_search-menu"></use></svg>
+                      		</button>
+                   		</div>
+                   	</div>
+                
+                 
+         </nav>
+      </div>
+   </div>
+   <!-- end mega menu -->
+</header>
+
+<nav class="return-to-top" id="returnToTop" aria-label="Back to top">
+   <a href="#top" class="return-to-top__link">
+      <span class="return-to-top__icon">
+         <svg><use xlink:href="/etc/designs/pb-redesign/resources/images/SVG/header-sprite.svg#svg_caret_up"></use></svg>
+      </span>
+      <span class="return-to-top__text return-to-top__text--desktop">Back to Top</span>
+      <span class="return-to-top__text return-to-top__text--mobile">Top</span>
+   </a>
+</nav>
 
 
+<script type="text/javascript" src="/etc/designs/pb-redesign/vendor.js"></script>
+<script type="text/javascript" src="/etc/designs/pb-redesign/globalheader.js"></script>
 
-</div>
- 
-
-
-
-
+<script type="text/javascript">svg4everybody();</script>
+<script src="/etc/designs/pb-redesign/resources/scripts/global-header-nav-highlight.js"></script>
 
 
+	<script src="/etc/designs/pb-redesign/resources/scripts/pb.searchbox.js"></script>
 
 
+                                      
 </div>
 
         
@@ -3055,8 +2273,17 @@
 
 
 
-<div class="main-content" style="padding-top: 80px;">
-	<div class="pbr-breadcrumb parbase breadcrumb">
+
+
+
+<div class="main-content" id="main-content">
+    
+	 
+    
+    
+    
+        
+            <div class="pbr-product-breadcrumb parbase breadcrumb">
 
 
 
@@ -3072,82 +2299,78 @@
 
 
 
-	
 
 
-<div class="tags">
-	<div class="tags__background">
-		<div class="container-fluid">
 
-			<ul class="filter-tabs">
-				
 
-						
-							
-								<li class="tag--main">
-									
 
-									
-										
-										
-											<span>Privacy Statement | Pitney Bowes</span>
-										
-									
 
-									
-								</li>
-							
-							
-							
-						
-						
-				
-
-                
-                
-				
+<nav class="breadcrumbs">
+	<div class="breadcrumbs__wrap">
+		<ol class="breadcrumbs__list" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+			
 				
 					
-                    
-                        
-                        
-                        	
-                        
-                    				
-                    
-				
-				
-				
-			</ul>
-
-		</div>
-
-		
-
-	</div>
-
-	<section class="contact-menu js-contact-menu">
-		<div class="container-fluid">
-			<div class="row ">
-				<div class="col-xs-12 pull-right text-right">
-						<span class="links">
+						<li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem" class="breadcrumbs__list__item">
 							
-                    		
-                                
-                        		
+								
+								
 									
-                        		
-                    		
+									<span class="breadcrumbs__list__link" itemprop="item">
+										<span class="breadcrumbs__list__item__text" itemprop="name" title="Privacy Statement | Pitney Bowes">
+											Privacy Statement | Pitney Bowes
+										</span>
+									</span>
+								
 							
-						</span>
-				</div>
-			</div>
-		</div>
-	</section>
+								
+							<meta itemprop="position" content="0"><!-- This must be present in each segment and should count up -->
+						</li>
+					
+					
+					
+				
+			
+		</ol>
+
+		<ol class="breadcrumbs__list breadcrumbs__list--contact">
+			<li class="breadcrumbs__list__item">
+				<!--<a href="" class="breadcrumbs__list__link">
+					<span class="breadcrumbs__list__item__icon breadcrumbs__list__item__icon--phone">
+						<svg><use xlink:href="/etc/designs/pb-redesign/resources/images/SVG/header-sprite.svg#svg_phone"></use></svg>
+					</span>
+					<span class="breadcrumbs__list__item__text">
+						888-555-1212
+					</span>
+				</a>-->
+				
+			</li>
+			<li class="breadcrumbs__list__item">
+				<!--<a href="" class="breadcrumbs__list__link">
+					<span class="breadcrumbs__list__item__icon breadcrumbs__list__item__icon--email">
+						<svg><use xlink:href="/etc/designs/pb-redesign/resources/images/SVG/header-sprite.svg#svg_envelope"></use></svg>
+					</span>
+					<span class="breadcrumbs__list__item__text">
+						Email Us
+					</span>
+				</a>-->
+				
+			</li>
+			<li class="breadcrumbs__list__item">
+				
+					
+					
+						
+					
+				
+			</li>
+		</ol>
+	</div>
+</nav>
+<div class="pbr-live-chat parbase live-chat">
 
 
-	
-    	<div class="pbr-live-chat parbase live-chat">
+
 
 
 
@@ -3180,14 +2403,19 @@
         
 </div>
 
+</div>
 
-</div>
-</div>
+        
+        
+    
 
 	
 		 
 		 
 			 <div class="main-container parsys"><div class="section container-fluid">
+
+
+
 
 
 
@@ -3234,6 +2462,9 @@
 
 
 
+
+
+
 <h1 style="text-align: center;">Privacy Statement<br>
 </h1>
 
@@ -3260,7 +2491,11 @@
 
 
 
-<p>This Privacy Statement is effective as of 15 November 2017.<br>
+
+
+
+<p><br>
+This Privacy Statement is effective as of 27 February 2018.<br>
 Pitney Bowes is committed to respecting the privacy of our clients and users. This Privacy Statement describes how our websites, services and products operate, and how we collect, use, and share information. This Privacy Statement applies to pb.com and Pitney Bowes websites, services and products that collect data and display these terms, and that are owned and operated by Pitney Bowes and Pitney Bowes subsidiaries, collectively, "Pitney Bowes".&nbsp; Pitney Bowes websites, services and products are referred to in this statement as "Sites".&nbsp; These terms do not apply to Pitney Bowes sites that do not display or link to this statement or that have their own privacy statements.</p>
 <p>The following topics are presented in this Privacy Statement:</p>
 <ol>
@@ -3290,7 +2525,7 @@ Pitney Bowes is committed to respecting the privacy of our clients and users. Th
 <li>Geolocation, demographic, shipping/receiving, billing, and other information related to the purchase or delivery of Pitney Bowes products and services or services you access through the Sites</li>
 <li>Any other Personal Information or characteristics about an individual that is connected to one of the above, such as date or place of birth, geographical indicators, or photographic images</li>
 </ul>
-<p>By accessing and utilising our Sites, you consent to the collection, use, disclosure, storage and processing of Personal Information in accordance with this Privacy Statement.</p>
+<p>By accessing and utilizing our Sites, you consent to the collection, use, disclosure, storage and processing of Personal Information in accordance with this Privacy Statement.&nbsp; Please note, by law you are not required to provide us with your Personal Information. By electing to not share your Personal Information with us, you may be unable to take advantage of our Sites and we may be unable to provide you with all of the functionality we offer through our Sites.</p>
 <p>&nbsp;</p>
 <p><b>2. Collecting Other Information</b></p>
 <p>Pitney Bowes Sites use several automatic data collection tools and techniques including cookies, clickstream, and web beacons.</p>
@@ -3326,7 +2561,7 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
 <li>In the event of a proposed merger, acquisition, liquidation, dissolution or sale of assets.</li>
 </ol>
 <p>In these circumstances, your consent will not be required, but we will attempt to notify you, to the extent the law requires.</p>
-<p>You may opt in or opt out (in accordance with local law) of having your Personal Information used for marketing purposes.&nbsp; For information on how to do this, see the Your Choices section of this Privacy Statement below.</p>
+<p>Depending upon local law, you may either opt in or opt out of having your Personal Information shared and/or for marketing purposes.&nbsp; In the event you opt-in, we will use and share your Personal Information as described in this Privacy Statement.&nbsp; In the event you opt-out, we will share your preference with the applicable third parties as appropriate.&nbsp; For information on how to do this, see the Your Choices section of this Privacy Statement below.</p>
 <p>&nbsp;</p>
 <p><b>5. Protecting Personal Information</b></p>
 <p>We maintain reasonable administrative, technical and physical safeguards to protect the Personal Information we collect and process.</p>
@@ -3345,7 +2580,7 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
 <p>With respect to Personal Information received or transferred pursuant to the Privacy Shield Framework, Pitney Bowes is subject to the regulatory enforcement powers of the United States Federal Trade Commission.&nbsp; In certain situations, we may be required to disclose Personal Information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.</p>
 <p>In compliance with the EU-U.S. and Swiss-U.S. Privacy Shield Principles, Pitney Bowes commits to resolve complaints about your privacy and our collection or use of your Personal Information.&nbsp; If you believe Pitney Bowes processes your Personal Information within the scope of our Privacy Shield certification, you may direct any inquiries or complaints concerning our compliance to us at the following information in the Contact Us section below.</p>
 <p>Pitney Bowes will respond within 45 days.&nbsp; If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact JAMS, our U.S-based third party dispute resolution provider, free of charge at <a href="https://www.jamsadr.com/eu-us-privacy-shield" target="_blank" adhocenable="false">https://www.jamsadr.com/eu-us-privacy-shield</a>.</p>
-<p>If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit the Privacy Shield website @&nbsp;<a href="https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint" target="_blank" adhocenable="false">https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint</a>&nbsp;for more information or to file a complaint. The services of the Privacy Shield website are provided at no cost to you.&nbsp;</p>
+<p>If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, you may be able to invoke binding arbitration when other dispute resolution procedures have been exhausted. Please contact or visit the Privacy Shield website at <a href="https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint">https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint</a>&nbsp;for more information or to file a complaint.&nbsp; The services of the Privacy Shield website are provided at no cost to you.&nbsp; &nbsp;</p>
 <p><b>9. Country-Specific Requirements</b></p>
 <p>Pitney Bowes Inc. is a global corporation with subsidiary companies located around the world. This Privacy Statement establishes our global principles (to the extent the law permits and/or requires) for the collection, use and disclosure of information gathered through our Sites. The country in which you are doing business with us or where the Site you are visiting is located or hosted may have specific requirements concerning Personal Information and may be found below.</p>
 
@@ -3367,17 +2602,23 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
 
 
 
+
+
+
 	 
- <div class="accordion ui-accordion ui-widget ui-helper-reset" role="tablist">
+ <div class="accordion">
   	
 	    				    	
-	    	 <h4 class="icn-btn ui-accordion-header ui-state-default ui-corner-all ui-accordion-icons" role="tab" id="ui-id-1" aria-controls="ui-id-2" aria-selected="false" aria-expanded="false" tabindex="0"><span class="ui-accordion-header-icon ui-icon icn-plus"></span><span class="text">Australia</span></h4>
+	    	 <h4 class="icn-btn"><span class="text">Australia</span></h4>
 	    
 	    
 	
     
-     <div class="products ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" id="ui-id-2" aria-labelledby="ui-id-1" role="tabpanel" aria-hidden="true" style="display: none;">
+     <div class="products">
           <div class="parsys product-container"><div class="text parbase pbr-text section">
+
+
+
 
 
 
@@ -3403,6 +2644,9 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
 
 
 
+<p>Cross Border Data Transfer</p>
+<p>With respect to Personal Information received from Australia, your Personal Information may be disclosed to entities located in the U.S., U.K., or any other country necessary to fulfill the purposes outlined in this Privacy Statement and we will adhere to applicable law and regulations regarding your Personal Information.&nbsp; As stated above, this includes the use of data transfer agreements and model contractual clauses, where available, between our corporate entities, our partners and our clients where required.&nbsp;&nbsp; <br>
+</p>
 <p>Credit Information</p>
 <p>As described in Collecting Personal Information from Site Users, we may also collect your credit information to assess a credit application or to assist us to collect overdue payments. We may collect credit information from a business which provides information about commercial credit, a lender named in your credit application, any other applicant(s) or a credit reporting bureau which provides consumer credit reports, even if it is an application for commercial credit.</p>
 <p><img src="/libs/cq/ui/resources/0.gif">When you apply for credit with us, you agree to us accessing your Personal Information (including credit-related information) held with a credit reporting bureau, even if there is a ban period in place, for the purposes of assessing an application for credit or in order to collect overdue payments.</p>
@@ -3437,17 +2681,23 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
 
 
 
+
+
+
 	 
- <div class="accordion ui-accordion ui-widget ui-helper-reset" role="tablist">
+ <div class="accordion">
   	
 	    				    	
-	    	 <h4 class="icn-btn ui-accordion-header ui-state-default ui-corner-all ui-accordion-icons" role="tab" id="ui-id-3" aria-controls="ui-id-4" aria-selected="false" aria-expanded="false" tabindex="0"><span class="ui-accordion-header-icon ui-icon icn-plus"></span><span class="text">Europe</span></h4>
+	    	 <h4 class="icn-btn"><span class="text">Europe</span></h4>
 	    
 	    
 	
     
-     <div class="products ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" id="ui-id-4" aria-labelledby="ui-id-3" role="tabpanel" aria-hidden="true" style="display: none;">
+     <div class="products">
           <div class="parsys product-container"><div class="text parbase pbr-text section">
+
+
+
 
 
 
@@ -3506,17 +2756,23 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
 
 
 
+
+
+
 	 
- <div class="accordion ui-accordion ui-widget ui-helper-reset" role="tablist">
+ <div class="accordion">
   	
 	    				    	
-	    	 <h4 class="icn-btn ui-accordion-header ui-state-default ui-corner-all ui-accordion-icons" role="tab" id="ui-id-5" aria-controls="ui-id-6" aria-selected="false" aria-expanded="false" tabindex="0"><span class="ui-accordion-header-icon ui-icon icn-plus"></span><span class="text">Latin America</span></h4>
+	    	 <h4 class="icn-btn"><span class="text">Latin America</span></h4>
 	    
 	    
 	
     
-     <div class="products ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" id="ui-id-6" aria-labelledby="ui-id-5" role="tabpanel" aria-hidden="true" style="display: none;">
+     <div class="products">
           <div class="parsys product-container"><div class="text parbase pbr-text section">
+
+
+
 
 
 
@@ -3577,17 +2833,23 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
 
 
 
+
+
+
 	 
- <div class="accordion ui-accordion ui-widget ui-helper-reset" role="tablist">
+ <div class="accordion">
   	
 	    				    	
-	    	 <h4 class="icn-btn ui-accordion-header ui-state-default ui-corner-all ui-accordion-icons" role="tab" id="ui-id-7" aria-controls="ui-id-8" aria-selected="false" aria-expanded="false" tabindex="0"><span class="ui-accordion-header-icon ui-icon icn-plus"></span><span class="text">United States</span></h4>
+	    	 <h4 class="icn-btn"><span class="text">United States</span></h4>
 	    
 	    
 	
     
-     <div class="products ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" id="ui-id-8" aria-labelledby="ui-id-7" role="tabpanel" aria-hidden="true" style="display: none;">
+     <div class="products">
           <div class="parsys product-container"><div class="text parbase pbr-text section">
+
+
+
 
 
 
@@ -3614,8 +2876,8 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
 
 
 <p>Your California Privacy Rights - Shine the Light Law</p>
-<p>California residents are legally entitled (at no charge and no more than once per year) to request information about how we may have shared your information with others for direct marketing purposes. &nbsp;To obtain this information contact us as specified in the “Contact Us” section.</p>
-<p>If you would like to make changes to your Personal Information (such as address information and phone number)&nbsp;<a href="http://support.pitneybowes.com/SearchArticles/VFP05_KnowledgeWithSidebarHowTo?id=kA180000000Cs4SCAS&amp;popup=false&amp;lang=en_US"><u>click here</u></a>.</p>
+<p>California residents are legally entitled (at no charge and no more than once per year) to request information about how we may have shared your information with others for direct marketing purposes.&nbsp; To obtain this information or make changes to your Personal Information, please refer to the instructions provided in the Contact Us section below.<br>
+</p>
 
 
 
@@ -3651,20 +2913,23 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
 
 
 
+
+
+
 <p><b>10. Your Choices</b></p>
 <p>If you are a Pitney Bowes customer, you will continue to receive transactional communications about your account and the Pitney Bowes products and services which you own, lease, rent, license or to which you subscribe.&nbsp; In some jurisdictions, you may have to opt-in to receive any additional marketing communications from us.&nbsp; If you wish to <a href="https://web.pitneybowes.com/unsub-secure" adhocenable="false"><b>opt out</b></a> of receiving marketing communications from Pitney Bowes, you may do so by (i) following the instructions provided in our marketing communications, or (ii) indicating your preferences on the relevant account profile/preferences section (such as Your Account), or (iii) referring to the instructions provided in the Contact Us section below.&nbsp;</p>
 <p>Some of our products and services contain settings that allow users or administrators to control how the products collect information.&nbsp; If you wish to request changes to your Personal Information, you may do so by (i) indicating your preferences on the relevant account profile/preferences section (such as Your Account), or (iii) referring to the instructions provided in the Contact Us section below.&nbsp; Please note, by electing to not share certain Personal Information with us, we may be unable to provide you with all of the functionality we offer through our Sites.&nbsp;</p>
 <p>Where required by law you may request access to your Personal Information that we maintain.&nbsp; As permitted by law we may charge a reasonable fee for providing access to Personal Information but we do not charge for lodging a request for access.</p>
 <p>&nbsp;</p>
 <p><b>11. Your Rights to Access Personal Information</b></p>
-<p>Where required by law, you may request access and/or make corrections to your Personal Information that we maintain. When accessing or updating your Personal Information, we may ask you to verify your identity before we can act on your request.&nbsp; Please note that we may reject requests, or limit the information we provide access to, if we determine it could risk the privacy of others or if unreasonable or repetitive, or if it would require disproportionate effort.&nbsp; As permitted by law, we may charge a reasonable fee for providing access to Personal Information, but we do not charge for lodging a request for access.&nbsp;</p>
+<p>Where required by law, you may request access and/or make corrections to your Personal Information that we maintain. When accessing or updating your Personal Information, we may ask you to verify your identity before we can act on your request.&nbsp; Please note that we may reject requests, or limit the information we provide access to, if we determine it could risk the privacy of others or if unreasonable or repetitive, or if it would require disproportionate effort.&nbsp; As permitted by law, we may charge a reasonable fee for providing access to Personal Information, but we do not charge for lodging a request for access.&nbsp; If you would like to make a request please follow the instructions in the <b>Contact Us</b> section below.</p>
 <p>&nbsp;</p>
 <p><b>12. Changes to this Privacy Statement</b></p>
 <p>Pitney Bowes may change this Privacy Statement from time to time at its discretion. We will indicate at the top of the Privacy Statement when it was most recently updated. We will not use your Personal Information in ways that differ materially from this Privacy Statement without prior notice to you, and in no event will we use your Personal Information in ways prohibited by law. Your continued use of our Sites indicates your consent to this Privacy Statement and any amended version of it.</p>
 <p>&nbsp;</p>
 <p><b>13. Contact Us</b></p>
-<p>To <a href="https://web.pitneybowes.com/unsub-secure" adhocenable="false">opt out</a> of marketing communications, click here to <a href="https://web.pitneybowes.com/unsub-secure" adhocenable="false"><b><u>Unsubscribe</u></b></a> and you will be removed from Pitney Bowes promotional/marketing email lists. Please note, if you are a Pitney Bowes customer, you will continue to receive transactional communications about your account and the Pitney Bowes products and services which you own, lease, rent, and license or to which you subscribe.&nbsp;</p>
-<p>If you would like to make changes to your Personal Information (such as address information and phone number) <a href="https://web.pitneybowes.com/Update-Your-Account-Information" adhocenable="false"><b><u>click here</u></b></a>.</p>
+<p>To <a href="http://web.pb.com/Opt-Out/"><b><u>opt out</u></b></a> of marketing communications, click here to <a href="http://web.pb.com/Opt-Out/"><b><u>Unsubscribe</u></b></a> and you will be removed from Pitney Bowes promotional/marketing email lists. Please note, if you are a Pitney Bowes customer, you will continue to receive transactional communications about your account and the Pitney Bowes products and services which you own, lease, rent, and license or to which you subscribe.</p>
+<p>If you would like to make changes to your Personal Information (such as address information and phone number) <a href="/us/support/account/how-do-i-faqs-your-account.html" target="_blank" adhocenable="false"><b><u>click here</u></b></a>.</p>
 <p>If you have any questions or comments about this Privacy Statement, please contact us at:</p>
 <p>Global Data Protection Office</p>
 <p>c/o Pitney Bowes Inc.</p>
@@ -3672,7 +2937,7 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
 <p>Stamford, CT USA 06926-0700</p>
 <p>or</p>
 <p>Email us @ privacyoffice@pb.com</p>
-<p>Please see below for contact information for the following countries, which should be used if you have a question, comment or complaint about this Privacy Statement for your specific country:</p>
+<p>Please see below for contact information for the following countries, which should be used if you have a question, comment or compliant about this Privacy Statement for your specific country:</p>
 
 
 
@@ -3692,17 +2957,23 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
 
 
 
+
+
+
 	 
- <div class="accordion ui-accordion ui-widget ui-helper-reset" role="tablist">
+ <div class="accordion">
   	
 	    				    	
-	    	 <h4 class="icn-btn ui-accordion-header ui-state-default ui-corner-all ui-accordion-icons" role="tab" id="ui-id-9" aria-controls="ui-id-10" aria-selected="false" aria-expanded="false" tabindex="0"><span class="ui-accordion-header-icon ui-icon icn-plus"></span><span class="text">Australia</span></h4>
+	    	 <h4 class="icn-btn"><span class="text">Australia</span></h4>
 	    
 	    
 	
     
-     <div class="products ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" id="ui-id-10" aria-labelledby="ui-id-9" role="tabpanel" aria-hidden="true" style="display: none;">
+     <div class="products">
           <div class="parsys product-container"><div class="text parbase pbr-text section">
+
+
+
 
 
 
@@ -3729,15 +3000,15 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
 
 
 <p>Contact Us</p>
-<p>If you have any questions, comments, complaints or believe that we have not complied with our obligations under the Privacy Act (and, in particular, the Australian Privacy Principals), or if you believe that the Personal Information that we hold about you has been compromised in any way, please contact us as described below. We will respond to any question or complaint as soon as possible.</p>
+<p>If you have any questions, or if you believe that we have not complied with our obligations under the Privacy Act (and, in particular, the Australian Privacy Principals), or if you believe that the Personal Information that we hold about you has been compromised in any way, please contact us as described below. We will respond to any question or complaint as soon as possible. &nbsp;</p>
 <p>Global Data Protection Office</p>
 <p>c/o Pitney Bowes Australia Pty Ltd</p>
-<p>Level 1, 68 Waterloo Road, Macquarie Park</p>
+<p>Level 1, 68 Waterloo Road, Macquarie Park,</p>
 <p>NSW 2113, Australia</p>
 <p>or</p>
 <p>Email us @ privacymatters.au@pb.com</p>
 <p>Tel: +61 (0)2 9475 3500</p>
-<p>If you are dissatisfied with our response, you may direct your complaint to the Office of the Australian Information Commissioner by email at enquiries@oaic.gov.au or by telephone on 1300 363 992.</p>
+<p>If you are dissatisfied with our response, you may direct your complaint to the Office of the Australian Information Commissioner by email at <a href="mailto:enquiries@oaic.gov.au">enquiries@oaic.gov.au</a> or by telephone on 1300 363 992.</p>
 
 
 
@@ -3768,17 +3039,23 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
 
 
 
+
+
+
 	 
- <div class="accordion ui-accordion ui-widget ui-helper-reset" role="tablist">
+ <div class="accordion">
   	
 	    				    	
-	    	 <h4 class="icn-btn ui-accordion-header ui-state-default ui-corner-all ui-accordion-icons" role="tab" id="ui-id-11" aria-controls="ui-id-12" aria-selected="false" aria-expanded="false" tabindex="0"><span class="ui-accordion-header-icon ui-icon icn-plus"></span><span class="text">Germany</span></h4>
+	    	 <h4 class="icn-btn"><span class="text">Germany</span></h4>
 	    
 	    
 	
     
-     <div class="products ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" id="ui-id-12" aria-labelledby="ui-id-11" role="tabpanel" aria-hidden="true" style="display: none;">
+     <div class="products">
           <div class="parsys product-container"><div class="text parbase pbr-text section">
+
+
+
 
 
 
@@ -3806,10 +3083,11 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
 
 <p>Contact Us</p>
 <p>If you have any questions or concerns about this Privacy Statement, please contact us at:</p>
+<p>&nbsp;</p>
 <p>Global Data Protection Office</p>
-<p>c/o Pitney Bowes Germany GmbH&nbsp;</p>
-<p>Poststr. 4-6&nbsp;</p>
-<p>D-64293 Darmstadt</p>
+<p>c/o Pitney Bowes Germany GmbH&nbsp;<br>
+ Poststr.&nbsp;4-6&nbsp;<br>
+ D-64293 Darmstadt</p>
 <p>Or</p>
 <p>Email us @ datenschutzbeauftragter@pb.com</p>
 
@@ -3842,17 +3120,23 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
 
 
 
+
+
+
 	 
- <div class="accordion ui-accordion ui-widget ui-helper-reset" role="tablist">
+ <div class="accordion">
   	
 	    				    	
-	    	 <h4 class="icn-btn ui-accordion-header ui-state-default ui-corner-all ui-accordion-icons" role="tab" id="ui-id-13" aria-controls="ui-id-14" aria-selected="false" aria-expanded="false" tabindex="0"><span class="ui-accordion-header-icon ui-icon icn-plus"></span><span class="text">India</span></h4>
+	    	 <h4 class="icn-btn"><span class="text">India</span></h4>
 	    
 	    
 	
     
-     <div class="products ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" id="ui-id-14" aria-labelledby="ui-id-13" role="tabpanel" aria-hidden="true" style="display: none;">
+     <div class="products">
           <div class="parsys product-container"><div class="text parbase pbr-text section">
+
+
+
 
 
 
@@ -3885,31 +3169,9 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
 <p>5th Floor, Tower- B, Logix Cyber Park,</p>
 <p>C 28-29, Sector-62,&nbsp; Noida – 201307</p>
 <p>Attn: Ruchi Bhalla</p>
-<p>or</p>
+<p>Or email</p>
 <p>Local Grievance Officer @ ruchi.bhalla@pb.com</p>
 <p>Global Data Protection Office @ privacyoffice@pb.com</p>
-<div style="position: absolute; left: -10000px; width: 9000px; top: 0px;"><p style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;">Contact Us</p>
-<p style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;">If you have any questions or concerns about this Privacy Statement, please contact us at:</p>
-<p style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;">Global Data Protection Office</p>
-<p style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;">c/o Pitney Bowes Software India Pvt. Ltd.</p>
-<p style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;">5th Floor, Tower- B, Logix Cyber Park,</p>
-<p style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;">C 28-29, Sector-62,&nbsp; Noida – 201307</p>
-<p style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;">Attn: Ruchi Bhalla</p>
-<p style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;">or</p>
-<p style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;">Local Grievance Officer @ ruchi.bhalla@pb.com</p>
-<p style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;">Global Data Protection Office @ privacyoffice@pb.com</p>
-</div>
-<div style="position: absolute; left: -10000px; width: 9000px; top: 0px;"><p style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;">Contact Us</p>
-<p style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;">If you have any questions or concerns about this Privacy Statement, please contact us at:</p>
-<p style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;">Global Data Protection Office</p>
-<p style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;">c/o Pitney Bowes Software India Pvt. Ltd.</p>
-<p style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;">5th Floor, Tower- B, Logix Cyber Park,</p>
-<p style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;">C 28-29, Sector-62,&nbsp; Noida – 201307</p>
-<p style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;">Attn: Ruchi Bhalla</p>
-<p style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;">or</p>
-<p style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;">Local Grievance Officer @ ruchi.bhalla@pb.com</p>
-<p style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;">Global Data Protection Office @ privacyoffice@pb.com</p>
-</div>
 
 
 
@@ -3967,6 +3229,9 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
 
 
 
+
+
+
     
     
         
@@ -4003,6 +3268,9 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
 
 
 
+
+
+
 <footer>
    <div class="footer-bg">
     <div class="container-fluid">
@@ -4010,7 +3278,7 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
         <div class="row">
 
             <div class="logo col-sm-2 col-xs-6">
-                <a href="/us.html" title="" data-clicktracker="footerClick"></a>
+                <a href="/us" title="" data-clicktracker="footerClick"></a>
             </div>
 
             <div class="col-sm-2 col-xs-12">
@@ -4027,6 +3295,8 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
 
                                 <li>
                                     
+
+
 
 
 
@@ -4094,6 +3364,8 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
 
 
 
+
+
 <a href="/us/newsroom.html" class="" title="Newsroom" target="_blank" data-clicktracker="footerClick">
     
         
@@ -4117,6 +3389,8 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
 
                                 <li>
                                     
+
+
 
 
 
@@ -4184,6 +3458,8 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
 
 
 
+
+
 <a href="https://careers.pitneybowes.com/" class="" title="Careers" target="_blank" data-clicktracker="footerClick">
     
         
@@ -4207,6 +3483,8 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
 
                                 <li>
                                     
+
+
 
 
 
@@ -4274,6 +3552,8 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
 
 
 
+
+
 <a href="/us/our-company/events-and-tradeshows.html" class="" title="Events &amp; Tradeshows" target="" data-clicktracker="footerClick">
     
         
@@ -4319,6 +3599,8 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
 
 
 
+
+
 <a href="/us/developer.html" class="" title="Developers" target="" data-clicktracker="footerClick">
     
         
@@ -4342,6 +3624,8 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
 
                                 <li>
                                     
+
+
 
 
 
@@ -4426,6 +3710,8 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
 
 
 
+
+
 <a href="/us/shipping-and-mailing/postage-meters.html" class="" title="Postage Meters" target="" data-clicktracker="footerClick">
     
         
@@ -4449,6 +3735,8 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
 
                                 <li>
                                     
+
+
 
 
 
@@ -4516,6 +3804,8 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
 
 
 
+
+
 <a href="https://www.pitneybowes.us/shop/ink-and-supplies/postage-meter-ink-supplies/postage-meter-ink-supplies/en-us/storeus" class="" title="Postage Meter Ink" target="" data-clicktracker="footerClick">
     
         
@@ -4561,6 +3851,8 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
 
 
 
+
+
 <a href="https://www.pitneybowes.us/shop/ink-and-supplies/shipping-and-packing-supplies/shipping-and-packing-supplies/en-us/storeus" class="" title="Mailing Supplies" target="" data-clicktracker="footerClick">
     
         
@@ -4584,6 +3876,8 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
 
                                 <li>
                                     
+
+
 
 
 
@@ -4669,6 +3963,8 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
 
 
 
+
+
 <a href="https://www.pb.com/bv2was/LoginHome.go?lang=en&amp;country=US&amp;request_locale=en_US" class="" title="View &amp; Pay Bills" target="_blank" data-clicktracker="footerClick">
     
         
@@ -4692,6 +3988,8 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
 
                                 <li>
                                     
+
+
 
 
 
@@ -4759,6 +4057,8 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
 
 
 
+
+
 <a href="/us/support/rate-change-home.html" class="" title="Postal Rate Change" target="_blank" data-clicktracker="footerClick">
     
         
@@ -4782,6 +4082,8 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
 
                                 <li>
                                     
+
+
 
 
 
@@ -4849,7 +4151,9 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
 
 
 
-<a href="/us/contact-us.html" class="" title="Contact Us" target="" data-clicktracker="footerClick">
+
+
+<a href="/us/support/contact-us.html" class="" title="Contact Us" target="" data-clicktracker="footerClick">
     
         
         
@@ -4872,6 +4176,8 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
 
                                 <li>
                                     
+
+
 
 
 
@@ -4929,22 +4235,22 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
                         <ul class="col-xs-12 social">
                             
                                 <li class="icn-fb">
-                                    <a title="" href="https://www.facebook.com/PitneyBowes" target="_blank" data-clicktracker="footerClick"></a>
+                                    <a title="Follow us on Facebook" href="https://www.facebook.com/PitneyBowes" target="_blank" data-clicktracker="footerClick"></a>
                                 </li>
                             
                             
                                 <li class="icn-tw">
-                                    <a title="" href="http://twitter.com/pitneybowes" target="_blank" data-clicktracker="footerClick"></a>
+                                    <a title="Follow us on Twitter" href="http://twitter.com/pitneybowes" target="_blank" data-clicktracker="footerClick"></a>
                                 </li>
                             
                             
                                 <li class="icn-in">
-                                    <a title="" href="https://www.linkedin.com/company/pitney-bowes" target="_blank" data-clicktracker="footerClick"></a>
+                                    <a title="Follow us on LinkedIn" href="https://www.linkedin.com/company/pitney-bowes" target="_blank" data-clicktracker="footerClick"></a>
                                 </li>
                             
                             
                                 <li class="icn-yt">
-                                    <a title="" href="https://www.youtube.com/user/PitneyBowesInc" target="_blank" data-clicktracker="footerClick"></a>
+                                    <a title="Subscribe to our YouTube channel" href="https://www.youtube.com/user/PitneyBowesInc" target="_blank" data-clicktracker="footerClick"></a>
                                 </li>
                             
                         </ul>
@@ -4955,7 +4261,7 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
             <div class="col-sm-2 col-xs-12">
 
                 <div class="bottom-text">
-                    <p>©1996-2017 Pitney Bowes Inc. All rights reserved.</p>
+                    <p>©1996-2018 Pitney Bowes Inc. All rights reserved.</p>
                 </div>
 
                 <ul>
@@ -5007,6 +4313,9 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
 
 
 
+
+
+
     
     	<div id="geoDetect" data-valid="" data-mode="detect" data-country="us" data-lang="en"></div>
     
@@ -5034,8 +4343,7 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
 </script>
 
 
-    <script type="text/javascript" src="/etc/designs/pb-redesign/vendor.js"></script>
-<script type="text/javascript" src="/etc/designs/pb-redesign/all.js"></script>
+    <script type="text/javascript" src="/etc/designs/pb-redesign/all.js"></script>
 
 
 
@@ -5066,7 +4374,7 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
 
 
                                         
- <div class="modal fade" id="videoModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+ <div class="modal fade" id="videoModal" tabindex="-1" role="dialog" aria-label="Video Modal" aria-hidden="true">
         <div class="modal-dialog modal-lg">
             <div class="modal-content">
                 <div class="modal-header">
@@ -5080,7 +4388,7 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
                         <span class="sr-only"></span>
                     </a>
 
-                    <h3></h3>
+
                 </div>
 
                 <div class="modal-body">
@@ -5098,6 +4406,9 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
 
 
 	
+
+
+
 
 
 
@@ -5139,7 +4450,9 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
 
 
 
-<script src="/etc/designs/pb-redesign/resources/scripts/pb.adobe-clicktracking.js"></script>
+
+
+
 
 
 
@@ -5151,6 +4464,5 @@ We do not act on, alter, or change our Site behavior upon receiving Do Not Track
 
  
    
-
 
 </body></html>
