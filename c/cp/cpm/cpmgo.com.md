@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpmgo.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225160157id_/http%3A//cpmgo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpmgo.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601100656id_/http%3A//cpmgo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CPMGO Ad Network
 
