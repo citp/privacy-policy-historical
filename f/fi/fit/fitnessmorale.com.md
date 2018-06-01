@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitnessmorale.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202122628id_/http%3A//fitnessmorale.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitnessmorale.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601123935id_/http%3A//fitnessmorale.com/privacy-policy) for the most accurate reproduction.*
 
 # - Fitness Morale
 
@@ -58,6 +58,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at support@fitnessmorale.com
 
 This document was last updated on November 21, 2017
