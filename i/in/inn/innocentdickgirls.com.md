@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innocentdickgirls.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117071137id_/http%3A//innocentdickgirls.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innocentdickgirls.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601060217id_/http%3A//www.innocentdickgirls.com/privacy.htm) for the most accurate reproduction.*
 
 # Innocent DickGirls: The Best shemale and futanari art
 
@@ -57,7 +57,7 @@ Please remember that any information you may disclose in our Member Directory, o
 
 The Site may contain links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware that when they leave our Site they should read the privacy statements of each and every site that collects personally identifiable information.
 
-If you choose to subscribe to InnocentDickgirls.com as a "Member," your name, email address, mailing address, credit card information, and IP address are stored by one of our billing companies. You may read the privacy policies on their websites at [www.epoch.com](http://www.epoch.com/), [www.zombaio.com](http://www.zombaio.com/) and [www.ccbilleu.com](http://www.ccbilleu.com/). These sites are external entities, and once this information is transmitted to them we are under no obligation to police their use of the information, and take no steps to do so. All of the aforementioned information, with the exception of your credit card information, is also stored on our servers.
+If you choose to subscribe to InnocentDickgirls.com as a "Member," your name, email address, mailing address, credit card information, and IP address are stored by one of our billing companies. You may read the privacy policies on their websites at  [www.zombaio.com](http://www.zombaio.com/) and [www.ccbilleu.com](http://www.ccbilleu.com/). These sites are external entities, and once this information is transmitted to them we are under no obligation to police their use of the information, and take no steps to do so. All of the aforementioned information, with the exception of your credit card information, is also stored on our servers.
 
 ### InnocentDickgirls.com Commitment to Data Security
 
