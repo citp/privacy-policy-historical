@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eximguru.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126131512id_/http%3A//www.eximguru.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eximguru.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601135206id_/http%3A//www.eximguru.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # EximGuru.com - Privacy Policy
 
@@ -51,6 +51,6 @@ InfodriveIndia.com is not structured to attract children. Accordingly, we do not
 
 We are committed to privacy and, through our membership in the Online Privacy Alliance, are actively involved in and support current industry initiatives to preserve individual privacy rights on the Internet. Protecting your privacy online is an evolving area, and InfodriveIndia's Web site are constantly evolving to meet these demands. 
 
-If you have any comments or questions regarding our Online Privacy Policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6f0b0a0307060c0e1d0a2f0a170602081a1d1a410c0002). **While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.**
+If you have any comments or questions regarding our Online Privacy Policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1c78797074757f7d6e795c796475717b696e69327f7371). **While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.**
 
 By using this Web site, you consent to the terms of our Online Privacy Policy and to InfodriveIndia's processing of Personal Information for the purposes given above as well as those explained where InfodriveIndia collects Personal Information on the Web. Should the Online Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time.
