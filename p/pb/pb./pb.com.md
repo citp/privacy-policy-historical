@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the pb.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118145622id_/https%3A//www.pitneybowes.com/us/legal/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pb.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601094924id_/https%3A//www.pitneybowes.com/us/legal/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement | Pitney Bowes
 
-This Privacy Statement is effective as of 15 November 2017.  
+  
+This Privacy Statement is effective as of 27 February 2018.  
 Pitney Bowes is committed to respecting the privacy of our clients and users. This Privacy Statement describes how our websites, services and products operate, and how we collect, use, and share information. This Privacy Statement applies to pb.com and Pitney Bowes websites, services and products that collect data and display these terms, and that are owned and operated by Pitney Bowes and Pitney Bowes subsidiaries, collectively, "Pitney Bowes".  Pitney Bowes websites, services and products are referred to in this statement as "Sites".  These terms do not apply to Pitney Bowes sites that do not display or link to this statement or that have their own privacy statements.
 
 The following topics are presented in this Privacy Statement:
@@ -38,7 +39,7 @@ The following are examples of the types of Personal Information that may be coll
 
 
 
-By accessing and utilising our Sites, you consent to the collection, use, disclosure, storage and processing of Personal Information in accordance with this Privacy Statement.
+By accessing and utilizing our Sites, you consent to the collection, use, disclosure, storage and processing of Personal Information in accordance with this Privacy Statement.  Please note, by law you are not required to provide us with your Personal Information. By electing to not share your Personal Information with us, you may be unable to take advantage of our Sites and we may be unable to provide you with all of the functionality we offer through our Sites.
 
 **2\. Collecting Other Information**
 
@@ -91,7 +92,7 @@ We may also make information available to third parties in the following circums
 
 In these circumstances, your consent will not be required, but we will attempt to notify you, to the extent the law requires.
 
-You may opt in or opt out (in accordance with local law) of having your Personal Information used for marketing purposes.  For information on how to do this, see the Your Choices section of this Privacy Statement below.
+Depending upon local law, you may either opt in or opt out of having your Personal Information shared and/or for marketing purposes.  In the event you opt-in, we will use and share your Personal Information as described in this Privacy Statement.  In the event you opt-out, we will share your preference with the applicable third parties as appropriate.  For information on how to do this, see the Your Choices section of this Privacy Statement below.
 
 **5\. Protecting Personal Information**
 
@@ -121,7 +122,7 @@ In compliance with the EU-U.S. and Swiss-U.S. Privacy Shield Principles, Pitney 
 
 Pitney Bowes will respond within 45 days.  If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact JAMS, our U.S-based third party dispute resolution provider, free of charge at <https://www.jamsadr.com/eu-us-privacy-shield>.
 
-If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit the Privacy Shield website @ <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint> for more information or to file a complaint. The services of the Privacy Shield website are provided at no cost to you. 
+If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, you may be able to invoke binding arbitration when other dispute resolution procedures have been exhausted. Please contact or visit the Privacy Shield website at <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint> for more information or to file a complaint.  The services of the Privacy Shield website are provided at no cost to you.   
 
 **9\. Country-Specific Requirements**
 
@@ -137,7 +138,7 @@ Where required by law you may request access to your Personal Information that w
 
 **11\. Your Rights to Access Personal Information**
 
-Where required by law, you may request access and/or make corrections to your Personal Information that we maintain. When accessing or updating your Personal Information, we may ask you to verify your identity before we can act on your request.  Please note that we may reject requests, or limit the information we provide access to, if we determine it could risk the privacy of others or if unreasonable or repetitive, or if it would require disproportionate effort.  As permitted by law, we may charge a reasonable fee for providing access to Personal Information, but we do not charge for lodging a request for access. 
+Where required by law, you may request access and/or make corrections to your Personal Information that we maintain. When accessing or updating your Personal Information, we may ask you to verify your identity before we can act on your request.  Please note that we may reject requests, or limit the information we provide access to, if we determine it could risk the privacy of others or if unreasonable or repetitive, or if it would require disproportionate effort.  As permitted by law, we may charge a reasonable fee for providing access to Personal Information, but we do not charge for lodging a request for access.  If you would like to make a request please follow the instructions in the **Contact Us** section below.
 
 **12\. Changes to this Privacy Statement**
 
@@ -145,9 +146,9 @@ Pitney Bowes may change this Privacy Statement from time to time at its discreti
 
 **13\. Contact Us**
 
-To [opt out](https://web.pitneybowes.com/unsub-secure) of marketing communications, click here to [**_Unsubscribe_**](https://web.pitneybowes.com/unsub-secure) and you will be removed from Pitney Bowes promotional/marketing email lists. Please note, if you are a Pitney Bowes customer, you will continue to receive transactional communications about your account and the Pitney Bowes products and services which you own, lease, rent, and license or to which you subscribe. 
+To [**_opt out_**](http://web.pb.com/Opt-Out/) of marketing communications, click here to [**_Unsubscribe_**](http://web.pb.com/Opt-Out/) and you will be removed from Pitney Bowes promotional/marketing email lists. Please note, if you are a Pitney Bowes customer, you will continue to receive transactional communications about your account and the Pitney Bowes products and services which you own, lease, rent, and license or to which you subscribe.
 
-If you would like to make changes to your Personal Information (such as address information and phone number) [**_click here_**](https://web.pitneybowes.com/Update-Your-Account-Information).
+If you would like to make changes to your Personal Information (such as address information and phone number) [**_click here_**](https://web.archive.org/us/support/account/how-do-i-faqs-your-account.html).
 
 If you have any questions or comments about this Privacy Statement, please contact us at:
 
@@ -163,4 +164,4 @@ or
 
 Email us @ privacyoffice@pb.com
 
-Please see below for contact information for the following countries, which should be used if you have a question, comment or complaint about this Privacy Statement for your specific country:
+Please see below for contact information for the following countries, which should be used if you have a question, comment or compliant about this Privacy Statement for your specific country:
