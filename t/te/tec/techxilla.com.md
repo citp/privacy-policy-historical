@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techxilla.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109113233id_/http%3A//www.techxilla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techxilla.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601134144id_/http%3A//www.techxilla.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
