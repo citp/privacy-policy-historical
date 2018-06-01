@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the uaex.edu privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201150024id_/https%3A//www.uaex.edu/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uaex.edu privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601150228id_/https%3A//www.uaex.edu/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy
-
-## Privacy Statement for U of A Division of Agriculture Web
+# Privacy Policy | Arkansas Cooperative Extension
 
 Thank you for visiting the University of Arkansas Division of Agriculture website and reviewing our privacy statement. The organization has a firm commitment to protecting your privacy. Information may be collected in the following ways: 
 
