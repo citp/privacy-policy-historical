@@ -1,87 +1,122 @@
-> *The following text is extracted and transformed from the arcticmonkeys.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516140607id_/http%3A//www.arcticmonkeys.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcticmonkeys.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601092855id_/http%3A//www.arcticmonkeys.com/privacy) for the most accurate reproduction.*
 
-# Arctic Monkeys : Privacy Policy
+# Arctic Monkeys
 
-### Privacy Policy
+INTRODUCTION
 
-This website is operated by Bang Bang Touring Services whose address is 1 Conduit Street, London.
+Arctic Monkeys, and our management company, Wildlife Entertainment Ltd of Unit F, 21 Heathmans Road, London, SW6 4TJ (together “we”/“us”/“our”) are committed to protecting and respecting your privacy.
 
-The terms "we", "us", "our" and "ours" when used in this Privacy Statement mean Bang Bang Touring Services which includes both subsidiaries, divisions, branches, affiliates or companies under the control of Bang Bang Touring Services.
+This privacy notice (“Notice”) sets out the basis on which any personal data we receive from you, or that we gather in any other way, will be processed by us. It applies only to any data gathered when you subscribe to our mailing list from our website at www.arctic monkeys.com (our “Website”) and to any other data that is gathered due to your use of our Website. For the purposes of the General Data Protection Regulation (“GDPR”) Arctic Monkeys and Wildlife Entertainment Ltd shall be the “controller”. All communications should be directed to Wildlife Entertainment Ltd.
 
-The terms "you", "your" and "yours" when used in this Privacy Statement mean any user of this website.
+"FOLLOW ON SPOTIFY" AND FUNCTIONALITY
 
-IMPORTANT: BY SUBMITTING PERSONAL DATA TO US AND/OR BY USING OUR WEBSITE YOU GIVE YOUR CONSENT THAT ALL PERSONAL DATA THAT YOU SUBMIT MAY BE PROCESSED BY US IN THE MANNER AND FOR THE PURPOSES DESCRIBED BELOW.
+Upon clicking the "Follow On Spotify" button and signing in to your Spotify Account via our Website, you will automatically follow Arctic Monkeys and our official playlist on Spotify. If you consent, we will also use the personal information you provide to send you mailing list email communications as described below.
 
-#### Scope of Privacy Statement
+INFORMATION WE MAY COLLECT FROM YOU
 
-We are committed to the privacy and confidentiality of information provided by you to us. This Privacy Statement describes our current policies and practices with regard to Personal Data collected by us from you directly and/or through the website to the extent that such Personal Data is protected by applicable European data protection laws. The term "Personal Data" refers to the personally identifiable information about you, such as your name, e-mail address or mailing address.
+We may collect and process data about you in the manner set out below.
 
-#### Notification of changes to Privacy Statement
+You may give us information about you by filling in forms on our Website or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you enter a competition, promotion or survey, when you report a problem with our Website or when you subscribe to mailing lists. You may alternatively provide your information to us by signing up to the mailing list via a sign-up sheet or device at an event, such as a gig. The information you give us may include without limitation your first name, last name e-mail address, phone number information about your location. 
 
-We are continually improving our methods of communication and adding new functionality and features to this website. Because of these ongoing changes, changes in the law and changing nature of technology, our data practices will change from time to time. If and when our data practices change, we will notify you and the local data authority where required by law of the changes. We encourage you to check this page frequently.
+With regard to each of your visits to or use of our Website we may automatically collect the following information about you or your devices. This may be collected via a third party analytics company:
 
-#### Collection of Personal Data including e-mail addresses 
-
-You may choose to buy products from us or receive additional information from us. When you purchase our products or request additional information, we request personal information about you such as your name, postal address, e-mail address, telephone number and payment details. We may also ask for demographic information to enable us to provide a personalised service to you. The information you provide is either manually or electronically stored in our databases. We sometimes supplement the information that you provide with information that is received from third parties. For instance, if inaccurate post codes are received, we may use third party software to fix them.
-
-#### Use of Personal Data
-
-We will use your Personal Data to fulfil your requests and we will ask only for data that is adequate, relevant and not excessive for those purposes. Where we send you information for any purpose, it may be sent by e-mail or post. When we ask for Personal Data it may include the following purposes:
-
-  * We may contact you occasionally to inform you of new acts, artists or products we will be promoting;
-  * We may send you regular updates on issues we think will be of interest to you;
-  * We may send you requested information on our products and services;
-  * We may use your Personal Data for internal marketing purposes and market research; and 
-  * We may use your Personal Data internally to administer this website and help us improve our services.
+  * technical information, including the type of device(s) you use, a unique device identifier, the Internet protocol (IP) address used to connect your device(s) to the Internet, network information, browser type and version, time zone setting, browser plug-in types and versions and operating system and platform; 
+  * information and details about your use of our Website (including but not limited to traffic data; location data; weblogs and other communication data; the full Uniform Resource Locators (URL) clickstream to, through and from our Website (including date and time); what you viewed or searched for; page response times, download errors; length of visits to certain pages; page interaction information (such as scrolling, clicks, and mouse-overs); and methods used to browse away from the page)). 
 
 
 
-#### Unsubscribe
+COOKIES AND OTHER WEB TRACKING
 
-We hope you will be delighted with our products and services. However, if you do not wish to receive e-mails from us and want to be removed from our electronic mailing list, you can unsubscribe here <http://www.arcticmonkeys.com/unsubscribe.php>.
+Like most websites and mobile applications, our Website uses cookies. A cookie is a small, often encrypted file of letters and numbers that we store on your browser, your computer, your mobile device or other device. They help us improve our Website and your general experience on it. We, or our third party partners, may also employ a software technology called web beacons (also known as web bugs, clear gifs or pixels) which helps us understand what content is effective, for example by counting the number of users who have visited these pages, and to understand usage patterns. Web beacons are tiny graphics with a unique identifier, similar in function to cookies, and are used to let us know when content is viewed. In contrast to cookies, which are stored on a user’s computer hard drive, web beacons are embedded on web pages, ads, and e-mail. We, or our third party partners, may tie the information gathered by web beacons to the other information we collect about you
 
-#### Anonymous data collected through the website
+We may use the information we obtain from the cookie or web beacon in the administration of our Website, to improve our Website’s usability and for marketing purposes. We may also use that information to distinguish you from other users of our Website and to monitor traffic on our Website. 
 
-In addition to the information we collect as described above, we use technology to collect anonymous information about the use of our website. For example, our web server automatically logs which pages of our website visitors view, the IP addresses and which web browsers our visitors use. This technology does not identify you personally, it simply enables us to compile statistics about our visitors and the use of our website.
+If you do not want us to store cookies on your computer or other device for these purposes, you may change the settings on your internet browser to reject cookies. Please note that if you set your browser to reject cookies, you may not be able to use all of the features of our Website and/or may be prevented from accessing certain parts of our Website. For more information on cookies, including how to reject or delete them, please visit [http://allaboutcookies.org](http://allaboutcookies.org/)
 
-#### Cookies
+We, or our third party partners use cookies to:
 
-In order to collect the anonymous data described in the preceding paragraph, we may use temporary 'cookies' that remain in the cookies file of the browser until the browser is closed.
+  * Show you advertisements across third-party websites and social media platforms which are relevant to your interests in Arctic Monkeys. They are also used to limit the number of times you see an advert, as well as to measure the effectiveness of an advertising campaign. These advertisements are served by Google and Facebook and enabled using the following third-party cookies. You can opt-out of Google AdWords targeting by visiting Google’s Ads Settings here: <http://www.google.com/settings/ads>. You can opt-out of seeing online interest-based ads from Facebook and other participating companies through the [Digital Advertising Alliance](http://www.aboutads.info/choices/) in the US, the [Digital Advertising Alliance of Canada](http://youradchoices.ca/) in Canada or the [European Interactive Digital Advertising Alliance](http://www.youronlinechoices.eu/) in Europe, or through your mobile device settings.
+  * Measure and generate reports on use of the Sites so that we can measure and improve their performance including the number of page visits and traffic sources. To do this, we use the following third-party cookies:
+  * Google Analytics, operated by Google Inc. All user data collected by these cookies is in an anonymous form. You can view Google’s practices and position on privacy across Google Analytics here: <http://www.google.co.uk/intl/en/analytics/privacyoverview.html>]
 
-Cookies by themselves cannot be used to discover the identity of the user. A cookie is a small piece of information which is set to your browser and stored on your computers hard drive. Cookies do not damage your computer. You can set your browser to notify you when you receive a cookie. This enables you to decide if you want to accept it or not.
 
-We use your IP address to help diagnose problems with our server and to administer our website. An IP address is a numeric code that identifies your computer on a network, or in this case the Internet. Your IP address is also used to gather broad demographic information. 
 
-We may also perform IP lookups to determine which domain you are coming from (i.e: aol.com, yourcompany.com) to more accurately gauge our users' demographics.
+USES MADE OF THE INFORMATION
 
-#### Disclosure of your Personal data 
+We will use the information you give to us, based on your consent, to provide you with our fan newsletters or mail outs, which may include information about records, concerts or other goods or services we offer. This may relate to Arctic Monkeys or any related artists (such as solo projects, collaborations or bands featuring a member of Arctic Monkeys). We may also use it to notify you about changes to our Website or services, in accordance with your and our interests, and the interests of other users of the Website and our services, to ensure that the Website and our services are used in the most effective manner and for maximum benefit.
 
-We do not share, sell or distribute your Personal Data with unrelated third parties, except as otherwise provided for in this Privacy Statement and under these limited circumstances:
+We will use the information we collect about you from the use of our Website, in accordance with our and/or your legitimate interests, in order to improve your experience of our Website:
 
-In order to update you with the information or products which you have requested. Personal Data may occasionally be transferred or shared with other companies within our group or third party companies who act for us for further processing in accordance with the purposes for which the data was originally collected or for the purposes to which you have subsequently consented. For example, sometimes a third party may have access to your Personal Data in order to support our information technology or to handle mailings on our behalf.
+  * to administer our Website and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
+  * to allow you to participate in interactive features when you choose to do so;
+  * as part of our efforts to keep our Website safe and secure;
+  * to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;
+  * to make suggestions and recommendations to you and other users of our Website about goods or services that may interest you or them.
 
-We will keep your contact details on our database and may, from time to time, e-mail or post information to make you aware of similar products or services which may be of interest to you. If you do not wish to receive e-mails or post from us for these purposes, please let us know by following the 'unsubscribe' procedure set above. 
 
-We may share, transfer or disclose the information in our databases or server logs to comply with a legal requirement, for the administration of justice, interacting with anti-fraud databases, to protect your vital interests, to protect the security or the integrity of our databases or this website, to take precautions against legal liability, or the event of our sale, merger, reorganisation, dissolution or similar event. We will inform you of any such transfer or disclosure as required by law.
 
-When appropriate, before disclosing Personal data to a third party, we contractually require the third party to take adequate precautions to protect that data and comply with the applicable law.
+We do not use your personal data as part of any automated decision-making, including profiling, which produces legal or similarly significant effects concerning you.
 
-#### Data access and corrections
+DISCLOSURE OF YOUR INFORMATON
 
-Upon receipt of your written request and enough information to permit us to identify your Personal Data, we will correct, amend or delete any Personal Data that is inaccurate and notify any third party recipients of the necessary changes. You may update any information you have given to us by contacting us at the addresses give below.
+We may share your information with selected third parties including:
 
-Requests to delete Personal Data are subject to any applicable legal and ethical reporting or document retention obligations imposed on us.
+  * Our mailing partner, to deliver messages to you in accordance with the purposes set out above.
+  * Advertisers and advertising networks that require the data to select and serve relevant adverts to you and others. We do not disclose information about identifiable individuals to our advertisers, but we may provide them with anonymous aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target. We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience. As part of this process, we may also share this information with record companies, publishing companies and similar organisations that market our recordings, concerts etc.
+  * Analytics and search engine providers that assist us in the improvement and optimisation of our Website.
+  * Suppliers of IT systems and services for the purpose of ensuring the correct operation, or enhancing the operation of IT systems, or to ensure the safety and security of personal data.
 
-#### Transfer of data abroad
+We may disclose your personal information to third parties if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, and other agreements; or to protect our rights, property, or safety, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
-If you are visiting this website from a country other than the country in which our servers are located (currently United States), the various communications will necessarily result in the transfer of information across international boundaries.
+We may disclose your personal information in the event that we sell or buy any business or assets, or if we or substantially all of our assets are acquired by a third party, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets, on the basis of their and our legitimate interest in negotiating and completing such transaction and their legitimate interests in continuing the business as purchased.
 
-By visiting this website and communicating electronically with us, you consent to the processing and transfer of your Personal Data as set out in the Privacy Statement.
+WHERE AND HOW WE STORE YOUR INFORMATION
 
-#### Governing Law
+Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access. For example, our suppliers use secure servers to store all information you provide to us.
 
-The laws of England and Wales govern any controversy or claim of whatever nature arising out of or relating to the use of this website, without regard to any conflict of laws provisions. All actions of proceedings arising out of or relating to this Privacy Statement, its validity, performance, enforcement or breach, or the subject matter of this Privacy Statement may be heard in the courts of England and Wales and you hereby irrevocably consent and submit yourself to the personal jurisdiction of said courts for all such purposes. Notwithstanding the foregoing, we retain the right to bring legal proceedings in any jurisdiction where we believe that breach of this agreement is taking place or originating.
+We share the information we hold with suppliers of IT systems and services for the purpose of ensuring the correct operation, or enhancing the operation of IT systems, or to ensure the safety and security of personal data. Most of our partners store and access your data only within the European Union. Where we send out direct mail, as described in this Notice, your data is shared with a mailing partner who stores the data outside the European Union. Where this occurs it is done on the basis of the receiving party being certified with the EU-US Privacy Shield.
 
-#### Feedback
+A copy of the appropriate safeguards can be obtained by writing to us at the email address given in this Notice. The data we collect from or about you may also be processed by staff operating outside the EU who work for us. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Notice.
 
-We welcome comments about this Privacy Statement. If you have any questions about this Statement or any of our service, you may contact us by emailing [contact@arcticmonkeys.com](mailto:contact@arcticmonkeys.com)
+HOW LONG WE HOLD YOUR INFORMATION FOR
+
+We will store the data you provide to us for only as long as your consent remains valid. Data regarding your use of the Website will generally only be held for a short period, according to the policy of our website analytics partner.
+
+YOUR RIGHTS
+
+We will not use your personal data for direct marketing purposes unless you have provided your consent to us, or to a third party via which we have received the data. You have the right to ask us not to process your personal data for these purposes.
+
+The GDPR provides you with rights to:
+
+    * request from us confirmation of whether or not your personal data is being processed and where that is the case, confirmation of the information set out in this Notice;
+    * request from us a copy of your data that is undergoing processing, including, in relation to data provided to us by you, and which is processed by automatic means pursuant to a contract with you, or pursuant to your consent, a right to request that data in a structured, commonly used and machine readable format;
+    * request that we rectify or complete your personal data, where it is inaccurate or incomplete for the purposes of our processing of the data;
+    * request that we erase your personal data in the following circumstances: 
+      * the personal data is no longer necessary in relation to the purposes for which it is processed;
+      * you withdraw consent and there is no other legal ground for the processing;
+      * you successfully object to the processing pursuant to your right of objection explained below;
+      * the personal data has been unlawfully processed;
+      * the erasure is necessary for compliance with a relevant legal obligation that applies to us;
+    * request that we restrict the processing of your personal data in the following circumstances: 
+      * you contest the accuracy of the personal data, for a period enabling us to verify the same;
+      * the processing is unlawful, but you request restriction rather than erasure;
+      * we no longer need the data, but it is required by you in respect of legal claims;
+      * you have objected to the processing, until such that that we verify that there are legitimate purposes that justify such processing;
+    * object to any processing that is based on our, or a third party’s legitimate interests, upon which event we shall suspend processing until we demonstrate legitimate purposes that justify that processing. We may at all times continue to use data for the purpose of establishment, exercise or defence of legal claims;
+    * withdraw your consent for future processing (where the processing is based on that consent);
+    * lodge a complaint with the Information Commissioner’s Office, which is the data protection supervisory authority in the UK.
+
+We will comply with any valid request for information under the rights explained above within one month, though we may tell you that this period is to be extended by a further two months where necessary, taking into account the complexity and number of the requests. This will normally be provided free of charge. If the request is manifestly unfounded, excessive or repetitive we may charge a reasonable fee or refuse to action the request.
+
+The provision of personal data to us is neither a statutory nor contractual requirement.
+
+CHANGES TO OUR PRIVACY NOTICE
+
+Any changes we may make to our Privacy Notice in the future will be notified to you by e-mail and will apply from the date of such notice.
+
+CONTACT
+
+Questions, comments and requests regarding this Privacy Notice are welcomed and should be addressed to our Privacy Manager at privacy@wildlife-entertainment.com
+
+
+
