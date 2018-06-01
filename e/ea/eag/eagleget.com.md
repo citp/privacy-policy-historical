@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eagleget.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130173014id_/http%3A//www.eagleget.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eagleget.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602015442id_/http%3A//www.eagleget.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - EagleGet
 
@@ -34,6 +34,13 @@ Third-party disclosure
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it’s release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property or safety. 
 
 However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+TOS  
+1  
+In return for some of the premium features of Eagleget, you may choose to be a peer on the Luminati network. By doing so you agree to have read and accepted the terms of service of the [Luminati SDK SLA](http://luminati.io/legal/sdk-sla). You may opt out of the network from settings
+
+2  
+‘Your use of Eagleget is free of charge in exchange for safely using some of your device’s resources, and only when you are not using your device. You may turn this off from the settings menu. Please see our TOS for further information. [Luminati SDK SLA](http://luminati.io/legal/sdk-sla)
 
 Third-party links
 
