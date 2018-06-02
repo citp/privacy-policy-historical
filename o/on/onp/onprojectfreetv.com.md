@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onprojectfreetv.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120163840id_/http%3A//onprojectfreetv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onprojectfreetv.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602034359id_/http%3A//onprojectfreetv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - OnProjectFreeTV
 
@@ -63,7 +63,7 @@ By using our site, you consent to our web site privacy policy.
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 http://onprojectfreetv.com  
-onprojectfreetv@gmail.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 At [On Project Free TV ](http://onprojectfreetv.com/), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by onprojectfreetv.com and how it is used.
 
@@ -128,4 +128,4 @@ By using our site, you consent to our web site privacy policy.
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 http://onprojectfreetv.com  
-onprojectfreetv@gmail.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
