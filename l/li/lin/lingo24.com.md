@@ -1,78 +1,132 @@
-> *The following text is extracted and transformed from the lingo24.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230055900id_/http%3A//www.lingo24.com/about/privacy-and-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lingo24.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602064056id_/http%3A//www.lingo24.com/about/privacy-and-terms) for the most accurate reproduction.*
 
 # Privacy and terms | Lingo24 UK
 
-### What is this Privacy Policy for?
+### Who are “we”?
 
-This privacy policy is for this website www.lingo24.com and served by Lingo24 Limited and governs the privacy of its users who choose to use it.
+When we refer to ‘we’ (or ‘our’ or ‘us’), that means Lingo24 Limited and all its wholly owned subsidiaries.  Our company is registered in Scotland with the registration number is SC222407 and registered office of 18 Torphichen Street, Edinburgh, EH3 8JB, Scotland.
 
-The policy sets out the different areas where user privacy is concerned and outlines the obligations & requirements of the users, the website and website owners. Furthermore the way this website processes, stores and protects user data and information will also be detailed within this policy.
+Whilst our headquarters are in the United Kingdom, we operate and have offices all over the world, with the following subsidiary companies:
 
-### The Website
+• Panama – Lingo24 Inc
 
-This website and its owners take a proactive approach to user privacy and ensure the necessary steps are taken to protect the privacy of its users throughout their visiting experience. This website complies to all UK national laws and requirements for user privacy, including The Data Protection Act 1998.
+• Romania – Lingo24 Srl
 
-Here is a list of the cookies we use and why:
+• Philippines – Lingo24 PH Inc
 
-**Cookie** | **Name** | **Purpose**  
----|---|---  
-Google Analytics | _utma  
-_utmb  
-_utmc  
-_utmz | These cookies are set to allow Google reports to show aggregated details about the site usage.  
-Google AdSense | __ar_v4 | This cookie is required by the Google AdSense service.  
-ShareThis | __unam | The ShareThis button is an all-in-one widget that lets you share any content on the web with friends.  
-Olark Live Chat | _oklv  
-wcsid | These cookies are required for our chat system, Olark, to work properly.  
-Drupal | DRUPAL_UID  
-dhtml_menu  
-has_js | These cookies enable all the features offered by our CMS, Drupal.  
-  
-### Use of Cookies
+Address details for all Lingo24 offices are available on our [Contact us](http://www.lingo24.com/contact/) page.
 
-This website uses cookies to better the users experience while visiting the website. Where applicable this website uses a cookie control system allowing the user on their first visit to the website to allow or disallow the use of cookies on their computer / device. This complies with recent legislation requirements for websites to obtain explicit consent from users before leaving behind or reading files such as cookies on a user's computer / device.
+### How do we collect data?
+
+When you visit our websites or use our services, we collect personal data. The ways we collect it can be broadly categorised into the following:
+
+_Information you provide to us directly_ \- when you visit or use some parts of our websites and/or services we might ask you to provide personal data to us. For example, we ask for your contact information when you sign up for our ordering portal, you download marketing material, submit a job application, contact us with questions or request support. If you don’t want to provide us with personal data, you don’t have to, but it might mean you can’t use some parts of our websites or services.  
+
+
+_Information we collect automatically_ \-  We collect some information about you automatically when you visit our websites or use our services, like your IP address and device type. We also collect information when you navigate through our websites and services, including what pages you looked at and what links you clicked on. This information is useful for us as it helps us get a better understanding of how you’re using our websites and services so that we can continue to provide the best experience possible.  
+
+
+_Information you generate_ \- When you use our services, our linguists or your in-market reviewers, also generate data, including:
+
+• Translation memory - containing previous translations conducted on your behalf that either a) Lingo24 has performed or b) you provide to use at on-boarding or as part on on-going synchronisation. This also contains metadata on who did what.
+
+• Glossary entries -  containing approved or rejected terms that should or should not be used within your translations.
+
+• Performance metrics - such as the throughput of translation, editing distance of review changes, and time spent on content.
+
+Where we collect personal data, we’ll only process it:
+
+• to perform a contract with you, or
+
+• where we have legitimate interests to process the personal data and they’re not
+
+• overridden by your rights, or
+
+• in accordance with a legal obligation, or
+
+• where we have your consent.
+
+If we don’t collect your personal data, we may be unable to provide you with all our services, and some functions and features on our websites may not be available to you.   
+
+### Cookies and our use of them
 
 Cookies are small files saved to the user's computer's hard drive that track, save and store information about the user's interactions and usage of the website. This allows the website, through its server to provide the users with a tailored experience within this website.
 
-Users are advised that if they wish to deny the use and saving of cookies from this website onto their computers hard drive they should take necessary steps within their web browsers security settings to block all cookies from this website and it’s external serving vendors.
+This website uses cookies to better the users experience while visiting the website. Users are advised that if they wish to deny the use and saving of cookies from this website onto their computers hard drive they should take necessary steps within their web browsers security settings to block all cookies from this website and it’s external serving vendors.
 
-This website uses tracking software to monitor its visitors to better understand how they use it. This software is provided by Google Analytics which uses cookies to track visitor usage. The software will save a cookie to your computer's hard drive in order to track and monitor your engagement and usage of the website, but will not store, save or collect personal information. You can read Google's privacy policy here for further information [http://www.google.com/privacy.html](http://www.google.com/privacy.html).
+The website does not set its own cookies but we do use the following third-party cookies to enable third party features or functionality to be provided on or through our websites and services:  
 
-### Contact & Communication
 
-Users contacting this website and/or its owners do so at their own discretion and provide any such personal details requested at their own risk. Your personal information is kept private and stored securely until a time it is no longer required or has no use, as detailed in the Data Protection Act 1998.
+• Google Analytics (Analytics) - Google Analytics uses cookies to help us analyse how our users use our websites and services. You can find out more about this service and how Google uses your data at [http://www.google.com/analytics](https://www.google.com/analytics/) and [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/)
 
-Every effort has been made to ensure a safe and secure form for submission purposes, but we advise users using the form that they do so at their own risk.
+• Facebook (Analytics) - we use Facebook as a medium to talk to customers and to measure effectiveness of campaigns
 
-This website and its owners use any information submitted to provide you with further information about the products / services they offer or to assist you in answering any questions or queries you may have submitted. This includes using your details to subscribe you to any email newsletter program the website operates but only if this was made clear to you and your express permission was granted when submitting any form to email process. Or whereby you the consumer have previously purchased from or enquired about purchasing from the company a product or service that the email newsletter relates to.
+• LinkedIn(Analytics) - we use LinkedIn as a medium to talk to customers and to measure effectiveness of campaigns
 
-This is by no means an entire list of your user rights in regard to receiving email marketing material. Your details are not passed on to any third parties.
+• DoubleClick (Analytics) \- we use DoubleClick to help manage our digital marketing activities
 
-### Email Newsletter
+• GetResponse (Analytics and Marketing) \- we use GetResponse as a marketing automation platform so we can personalise your experience with us
 
-This website operates an email newsletter program, used to inform subscribers about products and services supplied by this website. Users can subscribe through an online automated process should they wish to do so but do so at their own discretion. Some subscriptions may be manually processed through prior written agreement with the user.
+• Embedly (Analytics and Marketing) \- we use Embedly to support social sharing of content and tracking of engagement.
 
-Subscriptions are taken in compliance with UK Spam Laws detailed in the Privacy and Electronic Communications Regulations 2003. All personal details relating to subscriptions are held securely and in accordance with the Data Protection Act 1998. No personal details are passed on to third parties nor shared with companies / people outside of the company that operates this website. Under the Data Protection Act 1998 you may request a copy of personal information held about you by this website's email newsletter program. A small fee will be payable. If you would like a copy of the information held on you please write to the business address at the bottom of this policy.
+### What do we use it for?
 
-Email marketing campaigns published by this website or its owners may contain tracking facilities within the actual email. Subscriber activity is tracked and stored in a database for future analysis and evaluation. Such tracked activity may include; the opening of emails, forwarding of emails, the clicking of links within the email content, times, dates and frequency of activity [this is by no far a comprehensive list].
+We use your personal data to operate our websites and provide you with any services you’ve requested, and to manage our relationship with you.  We also use your personal data for other purposes, such as to:
 
-This information is used to refine future email campaigns and supply the user with more relevant content based around their activity.
+_Communicate with you_ \- including:
 
-In compliance with UK Spam Laws and the Privacy and Electronic Communications Regulations 2003 subscribers are given the opportunity to un-subscribe at any time through an automated system. This process is detailed at the footer of each email campaign. If an automated un-subscription system is unavailable clear instructions on how to un-subscribe will by detailed instead.
+• Providing you with information you’ve requested from us like case studies or information we are required to send to you
 
-### Social Media Platforms
+• Operational communications, like changes to our websites and services, security updates, or assistance with using our websites and services
 
-Communication, engagement and actions taken through external social media platforms that this website and it's owners participate on are custom to the terms and conditions as well as the privacy policies held with each social media platform respectively.
+• Marketing communications (about Lingo24 or another product or service we think you might be interested in) in accordance with your marketing preferences
 
-Users are advised to use social media platforms wisely and communicate / engage upon them with due care and caution in regard to their own privacy and personal details. This website nor it's owners will ever ask for personal or sensitive information through social media platforms and encourage users wishing to discuss sensitive details to contact them through primary communication channels such as by telephone or email.
+_Provide support to you_ \- including:
 
-This website may use social sharing buttons which help share web content directly from web pages to the social media platform in question. Users are advised before using such social sharing buttons that they do so at their own discretion and note that the social media platform may track and save your request to share a web page respectively through your social media platform account.
+• Assisting with the resolution of technical support issues or other issues relating to the websites or services raised through our Service Desk.
 
-### Shortened Links in Social Media
+• Providing assistance to queries or concerns raised on our website chat system.
 
-This website and its owners through their social media platform accounts may share web links to relevant web pages. By default some social media platforms shorten lengthy urls [web addresses]. 
+_Enhance and develop our services_ \- including:
 
-Users are advised to take caution and good judgement before clicking any shortened urls published on social media platforms by this website and its owners. Despite the best efforts to ensure only genuine urls are published many social media platforms are prone to spam and hacking and therefore this website and its owners cannot be held liable for any damages or implications caused by visiting any shortened links.
+• Tracking and monitoring your use of our websites and services so we can understand how you use our services.
 
-v.2.0 October 2015 Edited & customised by: Lingo24 Ltd, Company Registration No. SC222407  
-Registered Office: 18 Torphichen Street, Edinburgh, EH3 8JB, Scotland
+• Carrying out analysis of our websites and services so that we can optimise your user experience and provide you with more efficient tools
+
+_Market to you_ \- including:
+
+• Sending you relevant marketing communications
+
+• Display targeted advertising to you online – through our own websites and services or through third party websites and their platforms.
+
+### International Data Transfers
+
+Whilst Lingo24 is based in European Union (EU) and our servers and data is hosted there, Lingo24 is a truly global company.
+
+With our policy of using in-country linguists to support quality of translations and global hubs to support 24x7 delivery, we often perform data transfers outside of the European Economic Area ("EEA") when these teams access our systems hosted in Europe.
+
+We will only conduct these data transfers where the service provision and time-zone of the language your request requires it to processed by a local third-party linguist or Lingo24 subsidiary hub.
+
+Where we transfer personal data outside of the EEA, we ensure the party has taken such measures as are necessary to ensure the transfer is in compliance with relevant Data Protection Legislation.
+
+### Your rights
+
+The personal data we hold on you is your data. This means you have certain rights that you are able to exercise on our processing of it.
+
+For marketing communications, you can ask us not to send you these at any time – just follow the unsubscribe instructions contained in the marketing communication, or raise a Consent Withdrawal Request at http://security.lingo24.com
+
+You also have additional rights including to :
+
+• Know what personal data we hold about you
+
+• Request a copy of your personal data
+
+• Ask us to restrict processing your personal data and/or delete it
+
+You can exercise these rights at any time by raising a request at [http://security.lingo24.com](http://security.lingo24.com/).  We will review and investigate any request you make, and try to get back to you within a reasonable time frame.
+
+This policy is subject to change without prior written notice.
+
+Published 22nd May 2018
+
+###  
