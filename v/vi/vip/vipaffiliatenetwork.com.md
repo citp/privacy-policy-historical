@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vipaffiliatenetwork.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130164556id_/http%3A//vipaffiliatenetwork.com/%3Fpage_id%3D238) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vipaffiliatenetwork.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602031917id_/http%3A//vipaffiliatenetwork.com/%3Fpage_id%3D238) for the most accurate reproduction.*
 
 # Privacy Policy - VIP Affiliate Network
 
@@ -83,3 +83,14 @@ If we make any material changes to this Privacy Policy, we will notify you eithe
 #### 13\. Jurisdiction
 
 This Policy shall be governed and construed in accordance with the laws of England and Wales, without regard to its conflict of law provisions.
+
+**Address** :
+
+3 Gower Street  
+WC1E 6HA  
+London  
+UK
+
+**Company Registration Number:** 9804316
+
+**VAT Number:** GB244496192
