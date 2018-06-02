@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the federalnewsradio.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223024451id_/http%3A//corporate.hubbardradio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the federalnewsradio.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602135539id_/http%3A//corporate.hubbardradio.com/privacy-policy) for the most accurate reproduction.*
 
 # Hubbard Radio – Privacy Policy
 
-_Updated: June  2017_
+_Updated: May  2018_
+
+**Any users located within the European Economic Area (“EEA”) are prohibited from using our Platforms.   For avoidance of doubt, the Hubbard Radio Platforms are not intended for users located within the EEA. **
 
 This is the Privacy Policy for the Hubbard Radio, LLC subsidiaries’ websites and mobile apps (“Platforms”) operated by Hubbard Radio, LLC’s subsidiaries.  Your privacy is important to us, and we provide this Privacy Policy regarding our online collection, use and disclosure practices to help you to make informed decisions regarding use of our Platforms, and exercising choices regarding our collection, use and disclosure of your personal information on our Platforms.
 
@@ -16,7 +18,7 @@ While using our Platforms, you may review content, enter our various sweepstakes
 
 Some of our Platforms contain links to other sites whose information practices may be different than ours. We encourage you to consult these other sites’ privacy policies, as we have no control over information that is submitted to, or collected by, these third parties. To try to bring you advertising that is of interest to you, we have relationships with reputable third parties that we allow to present or serve advertisements on our Platforms. Ad server companies may collect information about your use of our Platforms such as your domain type, your IP address and clickstream information. Our Privacy Policy does not cover any use of information that a third party ad server may collect from you. We sometimes may offer content (for example: contests, sweepstakes, or promotions) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, these third parties may obtain personally identifiable information that you voluntarily submit to participate in the activity. We have no control over such third parties’ use of any information you provide to them.
 
-To opt out of interest-based advertising, visit [http:www.networkadvertising.org/](http://optout.networkadvertising.org/#!/) _choices_   or [http://www.aboutads.info](http://www.aboutads.info/) for desktop and mobile websites. To opt out of interest-based advertising on mobile apps, see your mobile device carrier.
+To opt out of interest-based advertising, visit [http://www.networkadvertising.org/ _choices_](http://optout.networkadvertising.org/)  or [http://www.aboutads.info](http://www.aboutads.info/) for desktop and mobile websites. To opt out of interest-based advertising on mobile apps, see your mobile device carrier.
 
 **Our Use of Information Collected on Our Platforms and Your Choices Regarding that Use**
 
