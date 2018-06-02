@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the homeseer.com privacy policy that was archived on 2017-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170803110044id_/https%3A//homeseer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeseer.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602182105id_/https%3A//homeseer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HomeSeer Smart Home Systems
 
-**HomeSeer Technologies**  respects each individual’s right to personal privacy. We will collect and use information through our web site only in the ways disclosed in this statement. This statement applies solely to information collected at HomeSeer Technologies' web site.
+**HomeSeer Technologies**  respects each individual’s right to personal privacy. We will collect and use information through our web site only in the ways disclosed in this statement. This statement applies solely to information collected at HomeSeer Technologies’ web site.
 
  **Part I. Information Collection  **  
 HomeSeer Technologies collects information through our web site at several points. The information we collect often includes (but is not limited to) the following: name, company, address, phone number, email address.
@@ -11,9 +11,9 @@ We may also collect personal information which our visitors divulge about other 
 
 We collect this information primarity through web forms on our site. The information is collected voluntarily. Personal information is required for all purchases of HomeSeer Technologies products and services. Other information we request is optional.
 
-HomeSeer uses Google Analytics cookies to collect and analyze visitor data and to serve re-marketing ads on Google's display network. If you do not wish to allow Google Analytics to use your data, you can opt out of this process by installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/). 
+HomeSeer uses Google Analytics cookies to collect and analyze visitor data and to serve re-marketing ads on Google’s display network. If you do not wish to allow Google Analytics to use your data, you can opt out of this process by installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/). 
 
-The HomeSeer MyHS remote access service requires an email address, license ID and password of a user's HomeSeer system. This is information is saved and used only for creating a connection to a user's HomeSeer system. During a connection, the user's local and remote IP address are collected solely for creating the remote connection. This information is not saved and is discarded once a system disconnects from the MyHS service. Passwords are stored encrypted.
+The HomeSeer MyHS remote access service requires an email address, license ID and password of a user’s HomeSeer system. This is information is saved and used only for creating a connection to a user’s HomeSeer system. During a connection, the user’s local and remote IP address are collected solely for creating the remote connection. This information is not saved and is discarded once a system disconnects from the MyHS service. Passwords are stored encrypted.
 
 Our HomeSeer HS3 systems collect optional information when a system license is registered. This includes name, address, phone # and other information. The user is not required to give this information.
 
