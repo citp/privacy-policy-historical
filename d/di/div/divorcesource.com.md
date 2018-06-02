@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divorcesource.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130113107id_/http%3A//www.divorcesource.com/ds/main/privacy-statement-1192.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divorcesource.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602191912id_/http%3A//www.divorcesource.com/ds/main/privacy-statement-1192.shtml) for the most accurate reproduction.*
 
 # Divorce Source: Privacy Statement
 
