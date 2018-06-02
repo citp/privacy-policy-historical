@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iatn.net privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112060708id_/http%3A//www.iatn.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iatn.net privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602192141id_/http%3A//www.iatn.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - iATN
 
@@ -145,8 +145,8 @@ This policy and the [Terms of Use](https://web.archive.org/terms-of-use) will mo
 ### Contact Information
 
 > iATN  
-> P. O. Box 1599  
-> Brea, CA, USA 92822
+> 2714 Patton Road  
+> Roseville, MN 55113
 > 
 >   Phone: (714) 257-1335  
 >  Email: []()
