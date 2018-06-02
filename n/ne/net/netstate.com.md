@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netstate.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126145433id_/http%3A//www.netstate.com/policy/nsprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netstate.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603005232id_/http%3A//netstate.com/policy/nsprivacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement from NETSTATE.COM
 
