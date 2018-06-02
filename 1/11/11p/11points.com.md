@@ -1,54 +1,91 @@
-> *The following text is extracted and transformed from the 11points.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028211431id_/http%3A//www.11points.com/other/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 11points.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602204602id_/http%3A//11points.com/privacy-policy-disclosures) for the most accurate reproduction.*
 
-# 11 Points - 11Points.com
+# Privacy Policy and Disclosures
 
-[](http://www.11points.com/)  
-**Privacy Policies and Disclosures**
+11 Points, a web site located at 11points.com, is owned and operated by Sam Greenspan, who values your privacy.
 
-At 11Points, I am committed to protecting your privacy and providing an honest, pleasant experience. The policies and disclosures are provided so that you may understand how I operate this site and how your privacy is protected.
+This privacy policy outlines the types of personal information that may be received or collected by this site, and how it is used. If you have any questions about this privacy policy, please feel free to send a message.
 
-**Aggregate Visitor Information**
+#### Information you voluntarily submit
 
-For each visitor to 11Points, the Web server automatically recognizes anonymous information such as the name of your ISP, browser used, connection speed, date and time of visit and the pages you access. This data does not allow for the specific identification of any particular user, but is aggregated with all other visitor information. The information is used to help improve the site, analyze trends and provide a better experience for my readers. To try and bring you online offers that are of interest to you, I have relationships with other companies that I allow to place ads on 11Points. As a result of your visit, ad server companies may collect information such as your domain type, IP address and location. No personal contact information is collected without your consent. For further information, consult the privacy policies of any advertiser you find on our site.
+Information you voluntarily submit 11points.com may collect information you submit, such as your name and e-mail address when you choose to send an e-mail message.
 
-**Visitor Contact Information**
+At no time should you submit any sensitive personal information to this website via any method. That includes information such as health information, financial information, or anything you deem personal and confidential. If you elect to submit such information, 11points.com cannot be responsible for it.
 
-No personal information is collected from visitors without their knowledge and consent. Email addresses are collected from visitors who choose to communicate with me via email, Facebook, Twitter, or from those leave comments on the site. Visitors may also provide links to their websites, responses to reader polls or other information when using the site. Personal contact and financial information may be collected from visitors who make purchases on the site or register for additional access or services. Any financial information provided by the user will be transmitted through a secure server.
+You can also request that 11points.com erase any personal data we hold about you. That does not include any data we are obliged to keep for administrative, legal, or security purposes.
 
-The information I collect is used to improve the content of our web page and to contact readers for personal communication and marketing purposes. I do not sell or distribute any contact information to other businesses or organizations unless required by a financial institution to complete a financial transaction initiated by the visitor. This means your email and postal mail addresses will not be given to others who might want to sell you stuff unless you specifically request it. Any email or postal mail from Blogging Startup to promote our site or services will be infrequent and provide you with an option to request that no further emails be sent.
+#### Contacting 11 Points
 
-If you do not want to receive email from me, please let me know by sending me and email. My email is supplied at the bottom of this document. Visitors who supply me with their telephone numbers online will only receive telephone contact from me with information regarding orders they have placed online or for reasons specifically requested by the individual.
+There are several ways you may contact 11points.com, including by sending an e-mail or social media message. If you choose to contact the site, your message may, of course, include your information, such as your name, e-mail address, and/or phone number. Any personal contact information you choose to share will only be used to respond to you.
 
-Upon request, I will provide site visitors with a description of information that is maintained about them and access to this information with proof of identity. If you are interested in accessing this information contact me through the website or at any of the contact addresses at the bottom of this document. Upon request, visitors may be given the ability to have inaccuracies corrected in contact and transaction information. Again, contact should be made through the website or at any of the addresses below.
+If you are sharing information for publication or for the purposes of 11points.com’s editorial content, that information may be published, and it may be attributed to you using your name.
 
-**Cookies**
+Your personal information, such as your e-mail address or phone number, will not be publicly shared, unless you explicitly request that it be shared. And information submitted via the contact form or other methods will never be used for marketing purposes.
 
-This website may use cookies to track information relevant to affiliate marketing, advertising and to improve the user experience. A small piece of data written on a user's hard drive that records information about a visitor to be used at a later time.
+#### Contests
 
-If you do not want cookies to be added to your hard drive during your visit, you may disallow cookies on your individual browser. The disable cookie function is found under options or Internet options on most browsers. You can also delete cookies that have been added to your computer through a feature on most browsers. The location of this feature varies from one browser to another.
+If you choose to enter a contest, contest information, such as a mailing address or e-mail address, will be used only as specified in the contest rules, such as to verify eligibility or to send you a prize, and may be provided to a third party or sponsor in order to send that prize. After the contest concludes, all personal information will be permanently deleted.
 
-**Comments**
+#### Newsletter
 
-Visitors are encouraged to leave comments on any post that allows commenting. Please make an effort to leave comments that are relevant to the topic and further the conversation. Simple comments such as "thank you" or "good article" may be kind, but do not add to the experience for other readers. Comments such as these may be deleted. In addition, comments without a verified first and last name may be deleted or rejected.
+If you choose to subscribe to 11points.com’s e-mail newsletter, your e-mail address will be used to send you that newsletter. Newsletters are sent using Mailchimp, which stores your e-mail address in order to send you those messages. You can unsubscribe any time, using the link found in every message. Unsubscribing will permanently remove your e-mail address from 11points.com’s list of newsletter subscribers.
 
-Comments are appear to only have the purpose of promoting other websites or commercial ventures will also be deleted. This site uses state-of-the-art spam control, so most spam comments will never make it to the webpage. Additionally, I will report any commenter as a spammer if they attempt to leave unrelated, self-promoting links on this site.
+#### Children’s information
 
-When leaving a comment, users are warned not to use only keywords for their website. Names with overt keyword plugs will be deleted. You may use your personal name or a branded pseudonym when leaving comments. You may also include a link in your comment if that link is relevant to the topic discussion.
+This site does not knowingly collect any personally identifiable information from children under the age of 18. If a parent or guardian becomes aware that their child has provided us with personally identifiable information without the consent of their parent or guardian, that parent or guardian should contact the site, and we will use our best efforts to promptly remove such information from any records.
 
-**Links**
+#### Analytics and logs
 
-This site contains links to other sites and services. I encourage you to review the privacy statements of those sites and services that you choose to visit, so that you can understand how they may collect, use and share your personal information. I am not responsible for the privacy statements or practices of sites and services controlled by other companies or organizations.
+11points.com uses Google Analytics to track usage of the website and information about visitors, such as pages that were visited or what web browsers people are using to visit the site. Any data that’s gathered will not be linked to any information that is personally identifiable, and your IP address will be anonymized by Google Analytics.
 
-Additionally, the presence of a web link on 11Points is not an endorsement of that websites content. Although I do occasionally recommend some content found on a particular site, I can not fully endorse all content or ensure that content is not changed subsequent to my recommendation.
+In order to ensure network and information security and prevent fraud, the web servers that host 11points.com may generate and store access, usage, and/or error logs, which may include IP addresses of visitors to the site. Only authorized personnel have access to those sever logs, and they are automatically deleted after seven days.
 
-**Policy Changes**
+#### Cookies
 
-From time to time, I may update this privacy notice. I will notify you about important changes in the way I treat personally identifiable information by placing a notice on this site. I encourage you to periodically check back and review this policy so that you always will know what information is collected, how it is used, and to whom information is disclosed. Your continued use of the Blogging Startup website following the posting of any changes to these terms will mean that you have accepted those changes.
+Cookies may be set in your browser when you visit this website, including by third-party services and as described elsewhere in this Privacy Policy, in order to support advertising, social sharing, and other functions.
 
-**Acceptance of Policies and Concerns**
+You can, at any time, prevent the setting of cookies by changing the settings in your web browser, including by permanently denying the setting of cookies. Furthermore, you may delete already set cookies at any time via your browser or other software programs.
 
-By using this site, you signify your agreement to the terms and conditions of this 11Points Web Site Privacy Policy. If you do not agree to these terms and conditions, please do not use the site. We reserve the right, at our sole discretion, to change, modify, add, or remove portions of this policy at any time. If you feel that I have not followed this website's stated disclosure and privacy policy, please contact me. You may also contact state or local chapters of the Better Business Bureau, state or local consumer protection office, or the Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at http://www.ftc.gov/ftc/complaint.htm.
+#### Embedded content
 
-**Website Information**
+Articles on this site may include embedded content, such as YouTube or Facebook videos or tweets from Twitter. Embedded content from other websites behaves in the exact same way as you’ve visited that website. Those websites may collect data about you, use cookies to provide their content, embed additional third-party tracking, and/or monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
 
-Sam Greenspan is the creator of 11Points. You can also reach Sam by email at sam[{a}{t}]pandasmash.com. 
+#### Affiliate programs
+
+This site may engage in affiliate marketing, which is done by embedding special tracking links. If you click on such a link for an affiliate partnership, a cookie may be placed in your browser to track any sales for purposes of commissions.
+
+11points.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com. As part of the Amazon Associates program, the site may post customized links, provided by Amazon, to track referrals. This program utilizes cookies to track visits for the purposes of assigning commission on these sales.
+
+No personally identifiable information will be received by 11points.com about any affiliate purchases.
+
+#### Advertising
+
+We may use third-party advertising networks and companies to serve advertisements when you visit the site, and those may use cookies. If you would like more information about this practice, or you would like to opt-in or opt-out of this data collection, please visit [optout.networkadvertising.org](http://optout.networkadvertising.org/).
+
+As a result of your visit, ad server and traffic monitoring companies—including advertising networks and exchanges, traffic measurement service providers, marketing-analytics service providers, and others—may collect anonymous data. In addition, third-party advertising companies may use non-personally identifiable information about your visits to this and other websites in order to provide relevant ads.
+
+Third-party advertising companies may use information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. These third-party ad servers or ad networks use technology the advertisements and links that appear on 11points.com send directly to your browsers. Other technologies, such as cookies, JavaScript, or web beacons, may also be used by the third-party ad networks to measure the effectiveness of their advertisements and/or to personalize the advertising content that you see.
+
+Google, as a third party vendor, uses cookies to serve ads on 11points.com. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to users based on their visit to 11points.com and other sites on the Internet.
+
+This site uses Google Opinion Rewards and complies under the Google polices as described [here](https://support.google.com/360suite/surveys/answer/2375134?hl=en) and Google’s [privacy policy](https://policies.google.com/privacy?hl=en). No information from those surveys is collected by nor shared with 11points.com.
+
+You may: Control Google’s ad personalization by visiting [Google Ads Settings](https://www.google.com/settings/u/0/ads) … opt out via the Digital Advertising Alliance’s [WebChoices Tool](http://optout.aboutads.info/) … [limit Facebook ad tracking](https://www.facebook.com/help/568137493302217).
+
+#### Third party use of information
+
+11points.com itself has no access to or control over these cookies that are used by third-party advertisers. 11points.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+As noted elsewhere in this Privacy Policy, 11points.com uses third-party services to provide content and services to you. We may share your information with third parties when you explicitly authorize us to share your information.
+
+Each third-party service provider’s use of information is dictated by their respective privacy policies. 11points.com currently uses the following third-party service providers: [TinyLetter/MailChimp](https://mailchimp.com/legal/privacy/), to send newsletters to those who choose to subscribe … and Google Analytics, to track usage of the site. No personally identifiable information is captured by Google Analytics.
+
+#### Other important information
+
+Except when required by law, 11points.com will not sell, distribute, or reveal your personal information without your consent. However, in rare circumstances, 11points.com may disclose some or all of your personally identifiable information to the government, law enforcement officials, or private parties if we, in our sole discretion, believe it necessary or appropriate to comply with the law; to respond to legal complaints; to comply with a legal process (including subpoenas); to protect the rights of 11points.com and/or its agents; to ensure the safety of the public or any person; and/or to prevent or stop any illegal, unethical, or legally questionable activity.
+
+We may also disclose or transfer personal information collected through the website to third parties who acquire all or a portion of our business, which may be the result of a merger, consolidation, or purchase of all or a portion of our assets, or in connection with any bankruptcy or reorganization proceeding brought by or against us.
+
+If 11points.com’s information practices change at some time in the future, policy changes will be posted to this page. Thanks for reading.
+
+Updated: May 24, 2018
