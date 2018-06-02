@@ -1,164 +1,49 @@
-> *The following text is extracted and transformed from the admeta.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606154410id_/http%3A//www.admeta.com/%3Fp%3D28) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admeta.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602032909id_/http%3A//www.wideorbit.com/privacy) for the most accurate reproduction.*
 
-# Admeta makes buying and selling online media faster, smarter and more efficient.
+# Privacy Policy | WideOrbit
 
-## GENERAL AGREEMENTS
+### **Personal Information**
 
-##### WHITEBOX ECHO
+You may choose to provide personal information (such as your name, address, telephone number and email address) on this Web site. Here are some of the ways you may provide the information and the types of information you may submit. We also tell you how we may use the information.
 
-[Whitebox Echo Direct Sales EULA (End-User Agreement for Advertisers)](https://web.archive.org/web/20120606154410id_/http%3A//www.admeta.com/agremeents/eula_%20echo_directsales_090228_appr.pdf "Whitebox Echo Direct Sales EULA \(End-User Agreement for Advertisers\)")
+### **Contact Us**
 
-##### WHITEBOX TANGO
+If you email us through the “Contact Us” link on this site, we ask you for information such as your name and email address so we can respond to your questions and comments. You may choose to provide additional information as well.
 
-[Whitebox Tango Direct Sales EULA (End-User Agreement for Publishers and Sales Companies)](https://web.archive.org/web/20120606154410id_/http%3A//www.admeta.com/agremeents/eula%20tango%20direct%20sales%20090315_approved.pdf "Whitebox Tango Direct Sales EULA \(End-User Agreement for Publishers and Sales Companies\)")
+### **Demo Request**
 
-[Whitebox Tango General Terms and Conditions för External Demand Campaign Buy](https://web.archive.org/web/20120606154410id_/http%3A//www.admeta.com/agremeents/Campaign%20Buy,%20Ts%20and%20Cs.pdf "Whitebox Tango General Terms and Conditions för External Demand Campaign Buy")
+If you email us through the “Demonstration Request” link on this site, we ask you for information such as your name, company, address, phone number and email address so we can respond to your questions and comments. You may choose to provide additional information as well.
 
-[Whitebox Tango General Terms and Conditions för External Demand RTB Buy](https://web.archive.org/web/20120606154410id_/http%3A//www.admeta.com/agremeents/RTB%20Buy,%20Ts%20and%20Cs.pdf "Whitebox Tango General Terms and Conditions för External Demand RTB Buy")
+### **Questionnaires and Surveys**
 
-## PRIVACY POLICY
+We occasionally may ask visitors to our Web site to complete online surveys and opinion polls about their activities, attitudes and interests. These surveys help us serve you better and improve the usefulness of our site. In conducting these surveys we may ask you for your name and email address. We do not keep any personal information about you in connection with your participation in a WideOrbit.com survey unless you specifically agree to provide that information.
 
-This is a privacy policy for Admeta AB. Our homepage on the Web is located at http://www.admeta.com . The full text of our privacy policy is available on the Web at <http://www.admeta.com/w3c/privacypolicy.html> . Users may go to <http://www.admeta.com/optinout/optinout.asp> for information on how to opt-in or opt-out of use of their information.
+### **Non-Personal Information**
 
-We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address:
+We collect certain aggregate and non-personal information when you visit this Web site. Aggregate and non-personal information does not relate to a single identifiable visitor. It tells us such things as how many users visited our site and the pages accessed. By collecting this information, we learn how to best tailor our Web site to our visitors. We collect this information either through “cookie” technology or with “web beacons,” as explained below.
 
-Admeta AB, HQ  
-Vallgatan 26  
-S-411 16 GÖTEBORG  
-Phone             +46 (0)31 23 34 50        
-Telefax +46 (0)31 701 84 50
+### **Interest based advertising on internet**
 
-You may contact us by e-mail at [leif@admeta.com](mailto:leif@admeta.com) . You may call us at             +46 31 23 33 50      .
+We collect anonymous data for each user that is used to show the best possible advertisement at each page view on the internet. At the same time we respect our users’ privacy and understand that some users don’t want any data to be collected about them. To opt out go to [www.youronlinechoices.com](http://www.youronlinechoices.com/). WO Programmatic Digital adheres to the European Principals of the EDAA Online Behavioral Advertising (OBA) Framework.
 
-Dispute Resolution and Privacy Seals  
-We have the following privacy seals and/or dispute resolution mechanisms. If you think we have not followed our privacy policy in some way, they can help you resolve your concern.
+### **Cookies**
 
-New Dispute: If you have any dispute regarding this P3P, please contact Leif at [leif@admeta.com](mailto:leif@admeta.com) .
+Like many companies, we use browser cookies on this Web site. Browser cookies are bits of text that are placed on your computer’s hard drive when you visit certain Web sites. We use browser cookies to tell us, for example, whether you’ve visited us before or if you’re a new visitor and to help us identify site features in which you may have the greatest interest. Browser cookies may enhance your online experience by saving your preferences while you are visiting a particular site.
 
-Additional Information  
-This policy is valid for 1 day from the time that it is loaded by a client.
+The “help” portion of the toolbar on most browsers will tell you how to stop accepting new browser cookies, how to be notified when you receive a new browser cookie, and how to disable existing browser cookies. Remember though, without browser cookies, you may not be able to take full advantage of all our Web site features.
 
-## DATA COLLECTION
+### **Web Beacons**
 
-P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 2 data groups. The data practices of each group will be explained seperately.
+Certain pages on our site contain “web beacons” (also known as Internet tags, pixel tags and clear GIFs). These web beacons allow third parties to obtain information such as the IP address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, the type of browser used to view the page, and the information in cookies set by the third party. We use log files to store the data that is collected through web beacons.
 
-Group "Basic information"
+### **Information We Share**
 
-We collect the following information:
+We do not sell or otherwise disclose personal information about our Web site visitors, except as described here. We may share information provided by our visitors to WideOrbit.com with service providers we have retained to perform services on our behalf. These service providers are contractually restricted from using or disclosing the information except as necessary to perform services on our behalf or to comply with legal requirements. In addition, we may disclose information about you (i) if we are required to do so by law or legal process, (ii) to law enforcement authorities or other government officials, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity.
 
-Click-stream data
+### **Links to Other Sites**
 
-HTTP protocol elements
+We provide links to other Web sites for your convenience and information. These sites may have their own privacy statements in place, which we recommend you review if you visit any linked Web sites. We are not responsible for the content of linked sites or any use of the sites.
 
-Search terms
+### **Children’s Privacy**
 
-This data will be used for the following purposes:
-
-· Completion and support of the current activity
-
-· Web site and system administration
-
-· Research and development
-
-This data will be used by ourselves and our agents.
-
-The following explanation is provided for why this data is collected:  
-\- Data collected from all Web users: access logs, and search strings (if entered)
-
-Group "Cookies"
-
-At the user's option, we will collect the following data:
-
-HTTP cookies
-
-This data will be used for the following purposes:
-
-· Research and development
-
-· One-time tailoring
-
-This data will be used by ourselves and our agents.
-
-The following explanation is provided for why this data is collected:  
-\- Cookies are used to track visitors to our site, so we can better understand what portions of our site best serve you.
-
-## COOKIES
-
-Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it.
-
-Our site makes use of cookies. Cookies are used for the following purposes:
-
-· User targeting
-
-· Research and development
-
-## COMPACT POLICY SUMMARY
-
-The compact policy which corresponds to this policy is:
-
-CP="NOI DSP COR CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT"
-
-The following table explains the meaning of each field in the compact policy:
-
-Field  
-Meaning
-
-CP=  
-This is the compact policy header; it indicates that what follows is a P3P compact policy.
-
-NOI  
-No identifiable information is collected, so no access is possible.
-
-DSP  
-The policy contains at least one dispute-resolution mechanism.
-
-COR  
-Violations of this policy will be corrected.
-
-CURa  
-The data is used for completion of the current activity.
-
-ADMa  
-The data is used for site administration.
-
-DEVa  
-The data is used for research and development.
-
-TAIa  
-The data is used for tailoring the site.
-
-OUR  
-The data is given to ourselves and our agents.
-
-BUS  
-Our business practices specify how long the data will be kept.
-
-IND  
-The data will be kept indefinitely.
-
-UNI  
-Unique identifiers are collected.
-
-COM  
-Computer information is collected.
-
-NAV  
-Navigation and clickstream data is collected.
-
-INT  
-Interactive data is collected.
-
-  
-The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at<http://www.w3.org/TR/p3pdeployment> .
-
-## POLICY EVALUATION
-
-Microsoft Internet Explorer 6 will evaluate this policy's compact policy whenever it is used with a cookie. The actions IE will take depend on what privacy level the user has selected in their browser (Low, Medium, Medium High, or High; the default is Medium. In addition, IE will examine whether the cookie's policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context. This section will attempt to evaluate this policy's compact policy against Microsoft's stated behavior for IE6.
-
-Note: this evaluation is currently experimental and should not be considered a substitute for testing with a real Web browser.
-
-Satisfactory policy: this compact policy is considered satisfactory according to the rules defined by Internet Explorer 6. IE6 will accept cookies accompanied by this policy under the High, Medium High, Medium, Low, and Accept All Cookies settings.
-
-Ethical Compliance Report by KPMG
-
-Ethical Compliance Report by KPMG (PDF File)
+This Web site is not directed to children under the age of thirteen and we do not knowingly collect personal information from children under the age of thirteen on the site. If we become aware that we have inadvertently received personal information from a visitor under the age of thirteen on the site, we will delete the information from our records.
