@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the myanimelist.net privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118185233id_/https%3A//myanimelist.net/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myanimelist.net privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602210054id_/https%3A//myanimelist.net/about/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - MyAnimeList.net
 
-LAST UPDATED: [1/9/2015]
+**Update to our Privacy Policy**  
+We have recently updated our privacy policy, which will be implemented from May 25, 2018 onwards.  
+Read our Privacy Policy here.
 
-In this Privacy Policy, “Company”, “we”, “us”, or “our” means MyAnimeList, LLC, the owner and operator of the website [www.MyAnimeList.net](https://myanimelist.net/) (the “Site”). Your privacy is important to the Company, and we take your privacy very seriously. We designed our Privacy Policy to cover how we collect and use your information in connection with use of our Site; how you can control the use and disclosure of your information; how your information is protected; and how this information may be used and disclosed. If you have any questions about this privacy policy, please contact us at [legal@myanimelist.net](mailto:legal@myanimelist.net).
+LAST UPDATED: [5/24/2017]
+
+In this Privacy Policy, “Company”, “we”, “us”, or “our” means MyAnimeList, LLC, the owner and operator of the website [www.MyAnimeList.net](https://myanimelist.net/) (the “Site”). Your privacy is important to the Company, and we take your privacy very seriously. We designed our Privacy Policy to cover how we collect and use your information in connection with use of our Site; how you can control the use and disclosure of your information; how your information is protected; and how this information may be used and disclosed. If you have any questions about this privacy policy, please contact us at [legal@mail.myanimelist.net](mailto:legal@mail.myanimelist.net).
 
   * Scope
   * What information the Site collects
@@ -119,9 +123,9 @@ The Company does not have control over, or access to the information these third
 
 If you choose to opt out of having your information used to deliver advertisements tailored to your interests, you will continue to see advertisements on the Site, but these advertisements may not be as relevant to you.
 
-If you are a California resident, you may request information about our practices related to disclosing your personal information to certain third parties and/or opt-out of our sharing of your personal information with unaffiliated third parties for the third parties' direct marketing purposes. Please send your request (along with your full name, e-mail address, postal address, and the subject line labeled “Your California Privacy Rights”) by e-mail [legal@myanimelist.net](mailto:legal@myanimelist.net).
+If you are a California resident, you may request information about our practices related to disclosing your personal information to certain third parties and/or opt-out of our sharing of your personal information with unaffiliated third parties for the third parties' direct marketing purposes. Please send your request (along with your full name, e-mail address, postal address, and the subject line labeled “Your California Privacy Rights”) by e-mail [legal@mail.myanimelist.net](mailto:legal@mail.myanimelist.net).
 
-If you choose to share personal information with us, you may update or amend this information by contacting us at [legal@myanimelist.net](mailto:legal@myanimelist.net). Please include in your email the name of the Site to which you provided the information you wish to amend.
+If you choose to share personal information with us, you may update or amend this information by contacting us at [legal@mail.myanimelist.net](mailto:legal@mail.myanimelist.net). Please include in your email the name of the Site to which you provided the information you wish to amend.
 
 The Company does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete such information The Site is designed to be of service and interest to users ages 13 and older. If you are a minor over the age of 13, you may only use this Site with the permission and under the supervision of your parent or guardian. If you are a minor under the age of 13, you are not allowed to provide any personal information to the Company, on the Site or through any other service provided by the Company. Please do not send any information about yourself to us, including your name, address, telephone number, or email address.
 
@@ -132,4 +136,4 @@ The Site's offices are located in the United States. If you visit the site from 
 
 Please check this page periodically for changes as we reserve the right to change this Privacy Policy at any time. Your continued use of our Site following the posting of changes to these terms will constitute acceptance of those changes. Information collected prior to the time any change is posted will be used according to the rules and law that applied at the time the information was collected.
 
-If you have any questions, inquires, requests, or complaints concerning this Privacy Policy or our information collection practices, please contact us at [legal@myanimelist.net](mailto:legal@myanimelist.net) or by regular mail Attn: Privacy Officer, 185 Berry Street, San Francisco, CA 94107 USA.
+If you have any questions, inquires, requests, or complaints concerning this Privacy Policy or our information collection practices, please contact us at [legal@mail.myanimelist.net](mailto:legal@mail.myanimelist.net) or by regular mail Attn: Privacy Officer, 665 3rd Street, Suite 150, San Francisco, CA 94107 USA.
