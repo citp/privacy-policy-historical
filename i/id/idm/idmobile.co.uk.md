@@ -1,198 +1,423 @@
-> *The following text is extracted and transformed from the idmobile.co.uk privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003013819id_/http%3A//www.idmobile.co.uk/legal/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idmobile.co.uk privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602061443id_/http%3A//www.idmobile.co.uk/legal/privacy-and-cookies) for the most accurate reproduction.*
 
-# Privacy & Cookies | Legal | iD Mobile | iD Mobile Network
+# Privacy & Cookies | Legal | iD Mobile Network
 
-## Privacy and Cookies
+## Privacy
 
-### How iD use your personal information
+To opt-out of receiving marketing messages from iD Mobile, edit your preferences in the [iD App](https://web.archive.org/app), or log into [My Account](https://my.idmobile.co.uk/). For more information, click here
 
-#### Privacy Policy Summary 
+#### Introduction
 
-At iD we’re committed to protecting and respecting your privacy.
+* * *
 
-This summary, together with our full terms and conditions (which can be found at [www.idmobile.co.uk/legal/terms-and-conditions](https://web.archive.org/legal/terms-and-conditions)) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This Privacy Policy helps you understand what Personal data we collect, why we collect it, what we do with it and the choices you have, including how to access and update information.
 
-For the purpose of the Data Protection Act 1998 (the "Act"), the data controller is The Carphone Warehouse Limited, 1 Portal Way, London, W3 6RS. The Carphone Warehouse Limited is a group company of Dixons Carphone PLC (company number 0214673 - same address applies).
+Our policy applies to you if you use our products or services in store, over the phone, online, through our mobile applications or if you use any of our websites or interact with us on social media (our "Services").
 
-#### Information we may collect from you
+#### Who we are
 
-We may collect and process the following data about you:
+* * *
 
-  * Information that you provide to us in your dealings with us. This includes information provided at the time of registering to use our site, 'iD Account’ or our mobile app, or when subscribing to our services or requesting further services and/or information from us. This may include your name, email address, contact address, phone number(s), the details of any orders you place with us, and any additional information you provide.
-  * We may also ask you for information when you enter a competition or promotion sponsored by us, and when you report a problem with our site.
-  * If you contact us, we may keep a record of that correspondence.
-  * Details of transactions you carry out through our site and of the fulfilment of your orders.
-  * Details we receive from credit reference and fraud detection agencies.
-  * Details of your visits to our site including, but not limited to, traffic data, location data and the resources that you access.
+iD Mobile Limited (referred to using "We", "Us", "Our" or the "Company") is a company registered in England and Wales (Company registration number: 09304672) and is part of the Dixons Carphone group of companies. Dixons Carphone is Europe's leading specialist electrical and telecommunications retailer and services company, employing over 42,000 people in nine countries. We pride ourselves on giving our customers simple and independent advice on which electronic and technology products are right for them. 
 
+Our primary brands are [Currys PC World, Dixons Travel and Team Knowhow]
 
+#### Your Security
 
-Please see our full terms and conditions at [www.idmobile.co.uk/legal/terms-and-conditions](https://web.archive.org/legal/terms-and-conditions) for further details.
+* * *
 
-#### IP addresses
+When you shop with us or use our services, you trust us with your data. We’re a company that puts you, our customer, first, respecting you as an individual but also as a member of our community. We listen to our customers to understand your expectations and make sure these are reflected in our business decisions. We’re committed to maintaining your trust and confidence. In this Privacy Policy, we’ve provided details on when and why we collect your personal information, how we use it, the very limited conditions under which we may disclose it to others (where direct marketing is concerned only with your explicit permission) and how we keep it secure.
 
-We may collect information about your computer or device, including where relevant your IP address, operating system and browser type. This data is processed for the purposes of fraud prevention, for various administrative purposes, such as monitoring the performance of the website, improving the usability, layout and navigation, and may also be used by us to promote certain offers and advertisements according to your general location through the use of cookies (see below for more information on how we do this).
+#### Information We Collect
 
-#### Cookies
+* * *
 
-For the same reason, we may obtain information about your general internet usage by using a cookie which is stored on your browser or the hard drive of your computer or device.
+We collect personal information about you when you visit one of our stores, use our Websites ("Websites"), or use our web or mobile device applications ("Mobile Apps") or if you communicate with us by phone, e-mail and social media. We refer to our Websites and Apps collectively as "Online Services".
 
-Cookies are text files which contain information that is transferred to your computer's hard drive or browser. They help us to improve our site and to deliver a better and more personalised service. Some of the cookies we use are essential for the site to operate, whereas others are aimed at enhancing and personalising your user experience.
+The types of personal information we collect includes:
 
-The information gathered by cookies on our site(s) may be used in the following ways:
+  * Personal details such as your name, address, date of birth, email address, phone number and other contact information Transaction information, such as the product you purchased, its price, your method of payment and your payment details.
+  * Information about you like your employment details, financial position and information taken from identification documents like your passport or driving licence when we review your application for insurance or loans offered by selected third parties partners
+  * Your account information – such as dates of payments owed and received, the subscription services you use or any other information related to your account
+  * The phone numbers that you call/send messages to or the phone numbers that you receive calls/messages from. 
+  * The date and time of the calls and messages you send or receive through our network, and your location at the time these communications take place.
 
-  * To tailor advertisements or promotions you receive. For example, if you have looked at a specific type of mobile handset, we might use this information to personalise any subsequent advertisements you see. We may also personalise our service based on the type of computer system you use, together with the purchase pattern of other customers who may have looked at similar products to you. We may also provide you with advertisements which may be customised using information such as the search terms you use on our site. For example, if you searched for a specific product or accessed our site via a specific banner ad or search word, we may present you with content and/or offers linked to that banner ad or search word.
-  * We may use navigational information about where you go on our site to better understand how our site is used and to ensure that the product offerings that are presented to you are relevant.
-  * We do not use any data about where you go, or present you with advertisements outside of our site other than on sites which provide for such use in their respective privacy policies.
-  * We may collect information on how frequently you visit the site and the type of products and/or services that you view to enable us to measure the popularity of our sites and our product offerings.
 
-  
 
+When you’re online the information we collect includes:
 
-#### Types of Cookie
+  * Account information, like your username, password, and other identifiers or credentials you use to access our online services or to buy our products and services, details of your shopping preferences, such as your favourite brands and products, as well as which of our stores you prefer to shop in.
+  * Details of your visits to the Website, in-store WIFI or App and the resources that you access. Examples include ads that you click, device information and your location.
+  * IP address and cookie data.
+  * Information that you provide in your dealings with us. This includes when you register to use our online services, or when you subscribe to our services or request further services and/or information from us.
 
-#### Strictly Necessary Cookies
 
-These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website, remembering how far you are through your pay as you go order, making sure that the idmobile.co.uk website looks consistent or remembering what's in your basket when you're looking to buy that cool new phone. Without these cookies, many of the basic functionalities of our website - the stuff you expect the site to enable you to do like filling in your shopping basket, we simply can't provide.
 
-Tip - these cookies make the basic functions of the website work.
+The situations when you provide personal information could include when you:
 
-#### Performance Cookies
+  * Purchase products at our stores or through our contact centre
+  * Register or use our Online Services
+  * Request to receive marketing or other communications
+  * Use our Wi-Fi networks or other in-store tech
+  * Enter one of our competitions or when you complete one of our customer surveys
+  * Submit information when you’re providing feedback
+  * Use interactive features of our Online Services
 
-These cookies collect information about how visitors use our website, for instance which pages visitors go to most often, and the pages that they don't. This understanding enables us to continually improve the experience we deliver to you (and other visitors like you) so that the site is easy to use and includes content that you find helpful (for instance, performance cookies indicated that users find reviews really helpful and so that gave us confidence that we should provide more reviews on each phone and tablet product page). These cookies don't collect information that identifies a visitor - so we can't identify you individually. All the information these cookies collect is aggregated and therefore anonymous. This information is only used to improve how the website works.
 
-Tip - these cookies collect anonymous information on the pages visited.
 
-#### Functionality Cookies
+#### How we use your Information
 
-These cookies allow the website to remember the choices you make as you browse the site (for instance, your login details to enable you to access the 'iD Account' area). They provide more enhanced and personal features. The information they collect is anonymised and the usage only relates to www.idmobile.co.uk - they cannot track your browsing activity on other websites once you've departed the site.
+* * *
 
-Tip - these cookies remember choices you have made to improve your website experience on www.idmobile.co.uk.
+The law on data protection sets out a number of different reasons for which a company may collect and process your personal data. These are set out below.
 
-#### Advertising or Targeting Cookies
+**_When we’re required to enter into a contract with you_**
 
-These cookies are used to deliver adverts more relevant to you and your interests (assumed by analysing your onsite browsing behaviour). They can also provide caps on the number of times you might see an advert - to hopefully stop them becoming annoying and repetitive. These cookies remember that you have visited www.idmobile.co.uk, track what products you may have looked at, and this information may be shared with our advertising partners. If you see an advert from iD once you have left our site and are browsing other sites on the internet, that magically seems to understand what previously interested you (you looked at a specific smartphone on our website and then see deals for that handset) then this is enabled by targeting cookies.
+  * We use your personal information to process your orders and payments or to give you a refund.
 
-Tip - these cookies collect information about your browsing habits in order to make advertising more relevant for you.
 
-#### Cookies used on the iD website (http://www.idmobile.co.uk) and checkout area (https://www.secure-mobiles.com)
 
-Cookie Name | Description/Purpose | Typical Content | Expiry  
----|---|---|---  
-`PHPSESSID` | This is a general purpose identifier used to maintain user session variables. It is normally a random generated number, how it is used can be specific to the site, but a good example is maintaining a logged-in status for a user between pages. | `44p76ou6n876tifse2gbetgv01` | 30 minutes  
-`basketStartTime` | Current timestamp when a customer enters the basket area. | `1435925771` | 2 hours  
-`__atuvc` | This cookie is associated with the AddThis social sharing widget which is commonly embedded in websites to enable visitors to share content with a range of networking and sharing platforms. It stores an updated page share count. | `1%7C8` | 2 years  
-`__cfduid` | Cookie assoiated with sites using CloudFlare, used to speed up page load times. According to CloudFlare it is used to override any security restrictions based on the IP address the visitor is coming from. It does not contain any user identification information. | `d6b8b68717426b802aff18c7ef666e3b81417010500` | 1 year  
-`__utma` | Used to distinguish users and sessions. The cookie is created when the javascript library executes and no existing __utma cookies exists. The cookie is updated every time data is sent to Google Analytics. | `1.1752480302.1417165958.1432802568.1433162864.48` | 2 years from set/update  
-`__utmz` | Stores the traffic source or campaign that explains how the user reached your site. The cookie is created when the javascript library executes and is updated every time data is sent to Google Analytics. | `1.1430921977.37.11.utmcsr=mobiles.webdev998|utmccn=(referral)|utmcmd` | 6 months from set/update  
-`_ga` | Used to distinguish users in Google Analytics. | `GA1.2.1668869942.1426254461` | 2 years  
-`_gat` | Used to throttle request rate in Google Analytics. | `1` | 10 minutes  
-`__gads` | Measuring interactions with the ads (Google Adsense) on the site and preventing the same ads from being shown to you too many times. | `ID=cfea2be86d4ad9cf:T=1420028113:S=ALNI_MaI5ut8TNEgKh3ej6nrCvd11x7Dtw` | 1 year  
-`affiliatehistory` | A serialized history of affiliate partner sources to the iD website and/or basket and checkout areas. | `a%3A1%3A%7Bs%3A32%3A%22REFERER%7Ccosmic%7Chttp%3A%2F%2Fcosmic%2Fcms%2` | 30 days  
-`affiliatesource` | The affiliate partner source for the iD website and/or basket and checkout areas. | `REFERER%7Ccosmic%7Chttp%3A%2F%2Fcosmic%2Fcms` | 30 days  
-`reevoomark_marker` | Associated with the reviews and ratings services provided by Reevoo. | `6166236` | 5 days  
-`reevoomark_viewed_products` | Associated with the reviews and ratings services provided by Reevoo. | `15653636%3D2462%3D201506251052%3DIPHP64GO` | 2 weeks  
-`wlcode` | Set the whitelabel code for the basket and checkout area. | `idmobile` | 1 year  
-`_drt_` | Used for re-targeting, optimisation, reporting and attribution of online adverts. | `AFqoUdAIZFZmTOM8_WBwV8NK5T4Ge5jKDt_FkRDRh61sxCw9LEyEAS-Q1ZlH_lkn09nxYzTbHXMsTN6GDn1ZgrN9Jz7MuPunYQ` | 30 days  
-`id` | Used for re-targeting, optimisation, reporting and attribution of online adverts. | `22e4a0b3190300dc||t=1416996232|et=730|cs=002213fd48320361599f3cbf97` | 30 days  
-  
-#### Cookies used in the iD Account area (http://my.idmobile.co.uk)
+**_Where you have provided consent_**
 
-Cookie Name | Description/Purpose | Typical Content | Expiry  
----|---|---|---  
-`COMPANY_ID` | For associating user to a role | `10132` | Duration of logged in session  
-`ID` | For identifying a user | `123456a12343ad567dd3841714c7a31343645657773d3d` | Duration of logged in session  
-`JSESSIONID` | Session id associated with user | `123A04AB1DD2E523434BF618DADEAF82` | Duration of logged in session  
-`USER_UUID` | Unique identifier for a user | `+bBBuYbsdrYfpiBqPi/dR77iRWzwbkxGZkfYMYYuWH8=` | Duration of logged in session  
-`COOKIE_SUPPORT` | Default liferay cookie | `True` | 1 year  
-`GUEST_LANGUAGE_ID` | Default liferay cookie | `en_US` | 1 year  
-`_ga` | Google analytics footer | `GA1.1.12337702.123466310` | 2 years  
-  
-#### How do I stop cookies being sent or stored on my computer, phone or tablet?
+We use email and text messages to communicate with you about our products and services, competitions, offers, promotions or special events where you tick a box.
 
-By using this site, you agree to our use of cookies in the manner outlined above.
+For example
 
-Please note that it is not a good idea to reject all cookies as this could prevent you from gaining full use of this site, meaning that you may not be able to find and/or buy what you want.
+  * To provide a free mobile phone upgrade reminder service to inform you when a product is back in stock
+  * To send you a renewal notice
+  * If you give us permission, to communicate with you about our third party partners that we believe may interest you
 
-To learn more about cookies [click here](http://www.aboutcookies.org/default.aspx?page=5), or to control or disable them [click here](http://www.aboutcookies.org/default.aspx?page=1).
 
-If you do not wish to receive tailored advertising, you can withdraw this consent at any time by changing your browser settings to reject cookies.
 
-#### Where we store your personal data
+**_Where there is a Legitimate Interest_**
 
-The data that we collect from you may be transferred to and/or stored at a destination outside the European Economic Area ("EEA") such as India or South Africa. It may also be processed by employees operating outside the EEA who work for us or for our suppliers. Such employees maybe engaged in, among other things, the processing of your payment details and the provision of support services. Here we will ensure that we have the necessary contracts and other mechanisms in place to make sure your data continues to be treated in accordance with the provisions of the Act. By submitting your personal data, you agree to this transfer, storing or processing.
+As a Company we are often required to process your personal data in order to carry out certain tasks relating to our business activities. In such cases, processing of personal data can be justified on grounds of legitimate interest.
 
-All information you provide to us is stored on secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+**Communications**
 
-#### Uses made of the information
+  * To provide customer support and to respond to, and communicate with you about your requests
+  * To contact you if we need to obtain or provide additional information
+  * To check our records are right and to check every now and then that you’re happy and satisfied (e.g. customer surveys).
+  * For marketing activities (other than where we rely on your consent) e.g. marketing permissions captured during the course of a sale, personalising marketing messages through social media and other third party platforms;
+  * To send promotional material (e.g. renewals) to you in the post or inform you of our offers by telephone
+  * To comply with a request from you in connection with the exercise of your rights (for example where you have asked us not to contact you for marketing purposes, we will keep a record of this on our suppression lists in order to be able to comply with your request)
+  * To send communications to you about your orders, purchases or accounts and bill you for using our products or services 
+  * To let you post on our blogs and interact with us through social media.
 
-We use information held about you in the following ways:
 
-  * To provide you with goods and/or services that you have ordered
-  * To prevent and detect fraud or other crimes
-  * To check your identity
-  * To trace and recover debts
-  * For credit and credit related services and to manage your accounts
-  * To update our records about you
-  * To make credit, fraud and identity checks on you (when applicable)
 
+**Personalise & Improve our Service**
 
+  * To personalise your experience on our online services. This could include providing you with interesting, relevant content, or making navigation to our Sites and Mobile Apps easier
+  * To help us understand more about you as a customer, the products and services you use, the way you use them and how you shop across the company, so we can serve you better 
+  * Improve the content and appearance of the Website(s) or App(s), and to make sure that content is presented in the most effective manner for you
+  * To operate, evaluate and improve our business, including the development of new products and services; to determine the effectiveness of our sales, marketing and advertising; and the analysis and improvement of our products, offers, promotions, and Online Services and other technologies
+  * To show you relevant ads by using data collected from your devices, including your searches, location, ads that you have seen and personal information that you have given us, such as your age range, gender and topics of interest. Dependant on your Ads Settings, this data informs the ads that you see across your devices. So if you visit our website on your computer at work, you might see ads about our products or services on your phone later that night.
 
-In addition, Dixons Carphone PLC may use your Personal Information for research and statistical analysis to develop and improve our products and services.
 
-You will also have the opportunity to consent to us contacting you by post, e-mail, phone, SMS or MMS from time to time occasionally about products and services which the Dixons Carphone PLC group of companies and carefully selected third parties believe may be of interest to you. The Dixons Carphone PLC consists of The Carphone Warehouse Limited, together with iD Mobile Limited, DSG Retail Limited, including but not limited to its affiliates and other subsidiary and holding companies, and any subsidiaries of such holding companies whether direct or indirect from time to time., including Best Buy Co. Inc. and its affiliates and subsidiary companies.
 
-If you are an existing customer, we may also contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
+**Company Interest**
 
-#### Disclosure of your information
+  * Where you fail to repay what you owe Us or return our property, we may need to trace your whereabouts (sometimes using a tracing Agent) in order to recover payment or reclaim property. This might be carried out by a third Party debt recovery agent on our behalf
+  * To protect against, identify and prevent fraud and other criminal activity, claims and other liabilities
+  * For network and information security in order for us to take steps to protect your information against loss or damage, theft or unauthorised access.
 
-There may be circumstances in which we are required to share your data with government bodies or other members of the Dixons Carphone PLC group of Companies.
 
-We may disclose your personal information to third parties:
 
-  * in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets; and
-  * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use.
+**_When we’re required to comply with our Legal Obligation_**
 
+We’ll use your personal information to comply with our legal obligations including:
 
+  * To identify you when you contact us
+  * To verify the accuracy of data that we hold about you
+  * To assist HMRC and/or the Police and/or other regulatory bodies in relation to an investigation by a public authority. 
 
-We may also provide information about our dealings with you to credit reference and fraud prevention agencies. For full details about the third parties to which your data may be disclosed and how they may process this data, please see our terms of use at [www.idmobile.co.uk/legal/terms-and-conditions](https://web.archive.org/legal/terms-and-conditions).
 
-#### Access to information (also known as SAR Requests or Subject Access Requests)
 
-The Data Protection Act 1998 (The Act) gives you the right to access personal information held about you. Your right of access can be exercised in accordance with the Act. Any access request will be subject to a fee of £10.
+**_Where it is in your Vital Interest_**
 
-If you would like to access your personal information you should **write** to us to request this at:
+In certain circumstances it is in your vital interests for us to process your personal information. We may need to contact you if there are any urgent safety or product recall notices or where we otherwise reasonably believe that the processing of your personal information will prevent or reduce any potential harm to you. 
 
-The Data Protection Office  
-iD Mobile Ltd  
-Carphone Warehouse Ltd  
+#### Who we share your personal information with
+
+* * *
+
+We share personal information within the Dixons Carphone PLC Group. Members of the Dixons Carphone Group that receive this information are not authorised to use or disclose the information except as provided in this privacy policy.
+
+**Our service providers**  
+We work with partners, suppliers, insurers and agencies so they can process your personal information on our behalf and only where they meet our standards on the processing of data and security. We only share information that helps them provide their services to us or to help them provide their services to you. For example, some of our service providers place advertising for us online, about our products and services and those of our retail partners, suppliers and third parties. As a result, where you have indicated you are happy to receive marketing from us, you might see online advertising that we have placed on the web sites you visit, or the interactive services you use. 
+
+**Other organisations and individuals**  
+We may transfer your personal information to other organisations in certain scenarios. For example:
+
+  * When you apply for credit or purchase an insurance product we’ll pass on your information to trusted third party partners responsible for these products. Please note we act as a credit broker and not as a lender in respect of our insurance products credit facility within our UK and Republic of Ireland stores 
+  * If required to by law, under any code of practice by which we are bound or we’re asked to do so by a public or regulatory authority such as the Police or the Department for Work and Pensions
+  * Information may also be shared with fraud prevention agencies to prevent fraudulent claims 
+  * If we need to do so in order to exercise or protect our legal rights, users, systems and services
+  * In response to requests from individuals (or their representatives) seeking to protect their legal rights or the rights of others.
+  * With emergency services (if you make an emergency call), including your approximate location
+
+
+
+**Credit Reference Agencies**  
+In order to process your application we’ll supply your personal information to credit reference agencies (CRAs) and they will give us information about you.
+
+This will include information from your credit application and about your financial situation and financial history. CRAs will supply to us both public (including the electoral register) and shared credit, financial situation and financial history information and fraud prevention information. We will use this information to:
+
+  * Assess your creditworthiness and whether you can afford to take the product
+  * Verify the accuracy of the data you have provided to us
+  * Prevent criminal activity, fraud and money laundering
+  * Trace and recover debts
+  * To make sure any offers provided to you are appropriate to your circumstances.
+
+
+
+We’ll also continue to exchange information about you with CRAs on an on-going basis, including about your settled accounts and any debts not fully repaid on time. CRAs will share your information with other organisations. Your data will also be linked to the data of your spouse, any joint applicants or other financial associates.
+
+The identities of the CRAs, and the ways in which they use and share personal information, are explained in more detail at [www.equifax.co.uk/crain](https://web.archive.org/web/20180602061443id_/http%3A//www.idmobile.co.uk/legal/www.equifax.co.uk/crain)
+
+#### International transfers of your personal information
+
+* * *
+
+From time to time we may transfer your personal information to our suppliers, service providers and other company offices based outside of the European Economic Area (EEA) for the purposes described in this privacy policy. If we do this your personal information will continue to be subject to one or more appropriate safeguards set out in the law.
+
+If we do transfer information to our agents or advisers outside of the EEA, we will make sure that it is protected in the same way as if it was being used in the EEA. We’ll use one of these safeguards:
+
+  * We’ll transfer it to a non-EEA country with privacy laws that give the same protection as the EEA. Learn more [ on the European Commission Justice website.](http://ec.europa.eu/justice/data-protection/international-transfers/adequacy/index_en.htm)
+  * We’ll put in place a contract with the recipient that means they must protect it to the same standards as the EEA. Read more about this here [ on the European Commission Justice website](http://ec.europa.eu/justice/data-protection/international-transfers/adequacy/index_en.htm)
+
+
+
+#### How we use your information to make automated decisions
+
+* * *
+
+We sometimes use systems to make automated decisions based on your personal information or the information we are allowed to collect from others about you or your business (for example where we perform credit checks). This helps us to make sure our decisions are quick, fair, efficient and correct, based on what we know. These automated decisions can affect the products, services or features we may offer you now or in the future, or the price that we charge you for them.
+
+**Your rights**  
+You have rights over automated decisions.
+
+  * Under certain circumstances, you can ask that we do not make our decision based on the automated score alone
+  * You can object to an automated decision, and ask that a person reviews it.
+
+
+
+If you want to know more about these rights, please contact us.
+
+#### How long we keep your personal information
+
+* * *
+
+We will keep your personal information for as long as you’re a customer. If you haven’t made a purchase or engaged with us for 3 years or more, then we’ll remove you from our marketing mailing lists. After you stop being a customer, we may keep your data for up to 7 years after the last time you interacted with us. This could include one of the ways specified in ‘How we use your personal information’ and for one of these reasons:
+
+  * To respond to any questions or complaints
+  * To show that we treated you fairly
+  * To maintain records according to rules that applies to us
+  * To establish, bring or defend legal claims.
+
+
+
+We may keep your data for longer than 7 years if we cannot delete it for legal, regulatory or technical reasons. We may also keep it in order to help support product recalls or safety notices. If we do, we will make sure that your privacy is protected and only use it for those purposes.
+
+We do not retain personal information in an identifiable format for longer than is necessary.
+
+#### Your Rights
+
+* * *
+
+**Access to Information held about you**  
+You have the right to request what personal information we hold about you. This is sometimes called a 'Data Subject Access Request'. If we agree that we are obliged to provide personal information to you (or someone else on your behalf), we’ll provide it to you free of charge. Before providing personal information to you or another person on your behalf, we may ask for proof of identity and sufficient information about your interactions with us that we can locate your personal information. Except in rare cases, we’ll respond to you within 30 days after we’ve received this information or, where no such information is required, after we’ve received your request.
+
+If any of the personal information we hold about you is inaccurate or out of date, you may ask us to correct it.
+
+In certain circumstances you have the right to request a copy of your personal information from us or to have that information passed to an organisation of your choice in a format that can be easily re-used.
+
+**Right to stop or limit our processing of your data**  
+You have the right to object to us processing your personal information if we’re not entitled to use it any more, to have your information deleted if we are keeping it too long or have its processing restricted in certain circumstances.
+
+Where we rely on our legitimate interests, as set out under ‘How we use your personal information’, you may object to us using it for these purposes. If we agree that your objection is justified in accordance with your rights under data protection laws, we’ll permanently stop using your data for those purposes. Otherwise we’ll provide you with our justification as to why we need to continue using your data.
+
+You can ask us to restrict the use of your personal information if:
+
+  * It isn’t accurate.
+  * It has been used unlawfully but you don’t want us to delete it.
+  * It’s not relevant any more, but you want us to keep it for use in legal claims.
+  * You’ve already asked us to stop using your data but you’re waiting for us to tell you if we’re allowed to keep on using it.
+
+
+
+Please note that we may be required by law to retain certain information. Before we are able to provide you with any information or correct any inaccuracies, we may ask you provide other details to help us respond to your request. 
+
+If you would like to exercise these rights, please contact us
+
+Please make sure you provide the following identification documents as part of your application:
+
+  * One proof of identity - we can accept an unexpired copy of either your passport or your driver's licence
+  * One proof of address - we can accept a copy of most recent (and less than 3 months old) credit or debit card statement or a utility bill showing the same name and address on your account or driving license where it hasn’t be used as proof of identity (see above)
+
+
+
+#### How can you stop the use of your personal data for direct marketing
+
+* * *
+
+We won't send you marketing messages if you tell us not to. 
+
+  * You can click onto the "unsubscribe" link in any communication that we send to you by email which will automatically unsubscribe you from that type of communication. Each "unsubscribe" link only relates to that specific type of communication. Please also note that you may continue to receive Service communications in relation to the product and services we have sold to you,such as notifications that your bill is ready to view
+  * Log into the [iD App](https://web.archive.org/app) and select 'My Account' from the top left menu. Select 'Keep me in the loop' and then 'Edit preferences'.
+  * Log into 'My Account' [here](https://my.idmobile.co.uk/). Select ‘My Account’ from the left-hand menu, then select ‘Keep me in the loop’ and ‘Edit preferences’
+  * Alternatively, you can unsubscribe by contacting us [here](https://web.archive.org/help-and-advice/contact-us)
+
+
+
+Please note that we recommend controlling your marketing preferences in the iD App or My Account so we can process your instruction quickly. It may take up to 28 days to process your request via other methods.
+
+You can also find further information within our [Direct Marketing Charter](https://media.secure-mobiles.com/idmobile/documents/Direct-Marketing-Charter.pdf)
+
+#### Website Cookies
+
+* * *
+
+The purpose of our Cookies Policy is to help explain what they are, why you are collecting them, and what information cookies store.
+
+Please refer to our [Cookies Policy](https://media.secure-mobiles.com/idmobile/documents/Cookies-Policy.pdf)
+
+#### Security Measures
+
+* * *
+
+All companies within the Dixons Carphone Group use technical and organisational security measures to protect the personal information supplied by you against loss, destruction, and any unauthorised access by third parties.
+
+#### Links to other websites
+
+* * *
+
+Our websites (which includes this Privacy Policy) contain links to other websites run by other organisations which we do not control. This policy does not apply to those other websites and Apps‚ so we encourage you to read their privacy statements. 
+
+#### Social Plugins
+
+* * *
+
+We use so-called social plugins (buttons) of social networks such as Facebook, Google+, You Tube, Instragram and Twitter.
+
+After activation of a button, the social network can retrieve data, independently of whether you interact with the button or not. If you are logged on to a social network, the network can assign your visit to the website to your user account. A social network cannot assign a visit to websites operated by our other group companies unless you activate the respective button there as well.
+
+If you’re a member of a social network and don’t want that network to combine data retrieved from your visit to our websites with data they hold on you, you must log out from the social network concerned before activating the buttons.
+
+#### Contact us
+
+* * *
+
+To opt-out of receiving marketing messages from iD Mobile, edit your preferences in the [iD App](https://web.archive.org/app), or log into [My Account](https://my.idmobile.co.uk/). For more information, click here
+
+If you have a question or a complaint about this policy, the way your personal information is handled, please contact us by one of the following means:
+
+**By email:**[websar@dixonscarphonegroup.com](mailto:websar@dixonscarphonegroup.com). (Please do not email this address to change your marketing preferences. Any opt-out request submitted via this email address will not be actioned. Click here for information on how to opt-out of receiving marketing messages.)
+
+**By post:**  
+Data Protection Officer  
 PO Box 375  
 Southampton  
-SO30 2PU 
+SO30 2PU
 
-You should include:
+#### Complaining to the Data Protection Regulator
 
-  * Your full name and address
-  * Your iD Mobile account number
-  * A cheque for £10 made payable to iD Mobile Limited
-  * Details of any specific information you require
-  * One proof of identity - we can accept only a **photocopy** of your passport, or your driver’s licence
-  * One proof of address - we can accept only a **photocopy** of a recent credit or debit card statement (transaction history can be blackened out), or a photocopy of a utility bill (gas, electricity, or water) showing the same name and address as on your iD Mobile account. This should be from within the last three months.
+* * *
+
+You have the right to complain to the Information Commissioners Office (ICO) if you are concerned about the way we have processed your personal information. Please visit the ICO’s website for further details at: <https://ico.org.uk/>
+
+#### Changes to this Policy
+
+* * *
+
+We may review this policy from time to time and any changes will be notified to you by posting an updated version on our website and/or by contacting you by email.
+
+## Cookies Policy
+
+#### What are cookies?
+
+* * *
+
+Like most websites, Dixons Carphone PLC websites use cookies to collect information. Cookies are small data files which are placed on your computer or other devices (such as smart ‘phones or ‘tablets’) as you browse this website. They are used to ‘remember’ when your computer or device accesses our websites. Cookies are essential for the effective operation of our websites and to help you shop with us online. They are also used to tailor the products and services offered and advertised to you, both on our websites and elsewhere. 
+
+#### Information collected
+
+* * *
+
+Some cookies collect information about browsing and purchasing behaviour when you access this website with the same computer or device. This includes information about pages viewed, products purchased and your journey around a website. We don’t use cookies to collect or record information on your name, address or other contact details. Dixons Carphone PLC can use cookies to monitor your browsing and purchasing behaviour.
+
+#### How are cookies managed?
+
+* * *
+
+The cookies stored on your computer or other devices when you access our websites are designed by:
+
+  * Dixons Carphone PLC, or on behalf of and subsidiaries of Dixons Carphone PLC, and are necessary to let you make purchases on our website;
+  * third parties who participate with us in marketing programmes; and
+  * third parties who broadcast web banner advertisements on behalf of Dixons Carphone PLC.
 
 
 
-We recommend you send your request by **Recorded Delivery** but this is not compulsory. Please note that we **do not** accept original documents of identity as we cannot warrant for the safe return of these items. We also do not take or accept online payments for the required £10.00 (cheque payments only).
+#### What are cookies used for?
 
-Once we receive your request, along with everything mentioned above, we'll get back to you within 40 days.
+* * *
 
-**Please note** that we cannot process requests for information over the phone - you must follow the process above.
+The main purposes for which cookies are used are: -
 
-#### Changes to our privacy policy
+  1. For technical purposes essential to effective operation of our websites, particularly in relation to on-line transactions and site navigation.
+  2. For Dixons Carphone PLC to market to you, particularly web banner advertisements and targeted updates.
+  3. To let Dixons Carphone PLC to collect information about your browsing and shopping patterns, including to monitor the success of campaigns, competitions etc. 
+  4. To let Dixons Carphone PLC meet its contractual obligations to make payments to third parties when you purchase a product visiting our website from a site operated by those parties. 
 
-Any changes we may make to our privacy policy in the future will be posted on this page and/or in our terms of use at [www.idmobile.co.uk/legal/terms-and-conditions](https://web.archive.org/legal/terms-and-conditions) and, where appropriate, notified to you by e-mail.
 
-#### Contact & opting out of marketing
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed in writing to The Data Protection Office, iD Mobile Limited, The Carphone Warehouse Limited, PO Box 375, Southampton, SO30 2PU.
+#### How do I disable cookies?
 
-If you believe we have incorrect information about you, our customer services team will be happy to help. Please use the [contact us](https://web.archive.org/help-and-advice/contact-us) page to get in touch and let us know what you would like us to change. This also applies if you would like to opt out of receiving marketing messages.
+* * *
+
+If you want to disable cookies you need to change your website browser settings to reject cookies. How you can do this will depend on the browser you use. Further details on how to disable cookies for the most popular browsers are set out below:
+
+**For Microsoft Internet Explorer:**
+
+  1. Choose the menu "tools" then "Internet Options"
+  2. Click on the "privacy" tab
+  3. Select the setting the appropriate setting
+
+
+
+**For Google Chrome:**
+
+  1. Choose Settings> Advanced
+  2. Under "Privacy and security," click "Content settings".
+  3. Click "Cookies"
+
+
+
+**For Safari:**
+
+  1. Choose Preferences > Privacy
+  2. Click on "Remove all Website Data"
+
+
+
+**For Mozilla firefox:**
+
+  1. Choose the menu "tools" then "Options"
+  2. Click on the icon "privacy"
+  3. Find the menu "cookie" and select the relevant options
+
+
+
+**For Opera 6.0 and further:**
+
+  1. Choose the menu Files"> "Preferences"
+  2. Privacy
+
+
+
+#### What happens if I disable cookies?
+
+* * *
+
+This depends on which cookies you disable, but in general the website may not operate properly if cookies are switched off. If you only disable third party cookies, you will not be prevented from making purchases on our sites. If you disable all cookies, you won’t be able to complete a purchase on our sites.
