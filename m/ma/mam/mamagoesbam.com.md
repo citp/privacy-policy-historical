@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mamagoesbam.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214184406id_/http%3A//mamagoesbam.com/contact-me/disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamagoesbam.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602115439id_/http%3A//mamagoesbam.com/contact-me/disclosure-privacy-policy) for the most accurate reproduction.*
 
 # Disclosure and Privacy Policy | mama goes BAM
 
