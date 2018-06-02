@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calverteducation.com privacy policy that was archived on 2017-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171030184126id_/https%3A//www.calverteducation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calverteducation.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602090819id_/http%3A//www.calverteducation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Calvert Education
 
@@ -50,7 +50,7 @@ You agree to transact business with Us using electronic communications, either v
 You May request to opt out of future marketing communications from Calvert Education by making a request in writing to [unsubscribe@calvertservices.org](mailto:unsubscribe@calvertservices.org). Allow up to 30 days to be fully suppressed from our marketing lists.
 
 Calvert Education Services  
-10713 Gilroy Road, Suite B  
+215 Schilling Circle, Suite 106  
 Hunt Valley, MD 21031
 
 _Last Updated February 22, 2016_
