@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitcoadz.pw privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228050628id_/http%3A//bitcoadz.pw/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitcoadz.pw privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603005307id_/http%3A//bitcoadz.pw/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -92,4 +92,4 @@ We cannot withhold data we collect about you, as per The Data Protection Act 199
 #### **8\. Contacting Us**  
  
 
-Please feel free to contact to this address _zer0w0rm.mm@gmail.com_ with queries, requests, or comments you may have about our Privacy Policy.
+Please feel free to contact to this address _[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)_ with queries, requests, or comments you may have about our Privacy Policy.
