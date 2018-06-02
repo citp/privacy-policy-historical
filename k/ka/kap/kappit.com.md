@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the kappit.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130113541id_/http%3A//www.kappit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kappit.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602192505id_/http%3A//www.kappit.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Kappit is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.   
-Kappit may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from Jan 1, 2017. 
+Funny Captions is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.  
+Funny Captions may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from Jan 1, 2018. 
 
 What we collect   
-We may collect the following information: 
+We may collect the following information:
 
 * name and job title
   
@@ -20,17 +20,17 @@ We may collect the following information:
 * other information relevant to customer surveys and/or offers
 
 What we do with the information we gather   
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:   
-Internal record keeping.   
-We may use the information to improve our products and services.   
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:  
+Internal record keeping.  
+We may use the information to improve our products and services.  
 We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.   
-From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests. 
+From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
 Security   
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
 
 How we use cookies   
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.   
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.  
 We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.   
 Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.   
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. 
@@ -41,14 +41,16 @@ Our website may contain links to other websites of interest. However, once you h
 We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here. 
 
 Controlling your personal information   
-You may choose to restrict the collection or use of your personal information in the following ways: 
+You may choose to restrict the collection or use of your personal information in the following ways:
 
 * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
   
 
-* if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us [here](http://www.kappit.com/contact/).
+* if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us [here](http://www.funnycaptions.com/contact/).
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.   
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please email us [here](http://www.kappit.com/contact/). 
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.  
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please email us [here](http://www.funnycaptions.com/contact/).
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their privacy policy or contact their data protection officer via privacy@exponential.com.
