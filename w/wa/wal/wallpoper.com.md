@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallpoper.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224093358id_/http%3A//wallpoper.com/tos-and-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpoper.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602141233id_/http%3A//wallpoper.com/tos-and-privacy-policy.php) for the most accurate reproduction.*
 
 # Term of Service, Privacy and Policy
 
