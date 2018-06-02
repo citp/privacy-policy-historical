@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the crabtree-evelyn.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225121258id_/http%3A//www.crabtree-evelyn.com/customer-service/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crabtree-evelyn.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602070040id_/http%3A//www.crabtree-evelyn.com/customer-service/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last Updated: 12/16/2015 
+Last Updated: 12/16/2015
 
 At Crabtree & Evelyn we understand and respect your concerns about the privacy and security of your personal information. We are committed to maintaining and using your information responsibly. We collect information for one reason - to help serve you better.
 
@@ -26,7 +26,7 @@ Please take a moment to read our Privacy Policy. It explains what types of infor
 We collect personally identifiable information that you provide, such as your name, billing address, shipping address, telephone number, e-mail address, credit card information, and birth month, when you:
 
   * Make a purchase
-  * Enroll in a loyalty, rewards, or promotional program 
+  * Enroll in a loyalty, rewards, or promotional program
   * Participate in interactive features on the Site such as product reviews
   * Sign up to receive e-mails or other notifications from us
   * Enter a contest or sweepstakes
@@ -41,11 +41,15 @@ We collect personally identifiable information that you provide, such as your na
 
 Like most websites, the Site employs various types of technology, including cookies and pixel tags, that receive and store information when you interact with the Site.
 
-Cookies are small files that are stored by your browser on your computer when you visit a website. They enable you to shop on the Site and are used in a variety of ways to enhance or personalize your online browsing and shopping experience. For instance, we use cookies to remember what items are in your shopping cart, to recognize you when you return to the Site, to study how customers navigate the Site, and to deliver personalized marketing. Most Internet browsers are initially set to accept cookies. You can set your browser to refuse cookies from websites or to remove cookies from your hard drive but, if you do, you will not be able to access or use portions of the Site. Consult your browser's 'help' section for instructions on how to disable cookies. You can learn more about cookies at [http://www.allaboutcookies.org](http://www.allaboutcookies.org/). 
+Cookies are small files that are stored by your browser on your computer when you visit a website. They enable you to shop on the Site and are used in a variety of ways to enhance or personalize your online browsing and shopping experience. For instance, we use cookies to remember what items are in your shopping cart, to recognize you when you return to the Site, to study how customers navigate the Site, and to deliver personalized marketing. Most Internet browsers are initially set to accept cookies. You can set your browser to refuse cookies from websites or to remove cookies from your hard drive but, if you do, you will not be able to access or use portions of the Site. Consult your browser's 'help' section for instructions on how to disable cookies. You can learn more about cookies at [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-Pixel tags (also called web beacons) are tiny graphic images on the Site and in our emails. They assist in delivering cookies and help us determine whether a specific action has been taken, like viewing a web page on the Site or opening an email. 
+Pixel tags (also called web beacons) are tiny graphic images on the Site and in our emails. They assist in delivering cookies and help us determine whether a specific action has been taken, like viewing a web page on the Site or opening an email.
 
-We also may allow other companies to collect information when you interact with the Site to serve ads on behalf of us and others across the Internet. These companies typically use industry-standard technology like cookies and pixel tags to collect information such as products you viewed. To learn more, please visit [http://www.aboutads.info](http://www.aboutads.info/).
+We use third parties such as network advertisers and social media, including Facebook, to serve advertisements on third-party websites or other media (e.g., social networking platforms). This enables us and these third parties to target advertisements to you for products and services in which you might be interested. Third-party ad network providers, advertisers, sponsors and/or traffic measurement services may collect Non-PII Data and use cookies, JavaScript, web beacons (including clear GIFs), Flash LSOs and other tracking technologies to measure the effectiveness of their ads and to personalize advertising content to you. These third-party cookies and other technologies are governed by each third party's specific privacy policy, not this one. We may provide these third-party advertisers with information, including personal information, about you to assist us with this advertising.
+
+Users in the United States may opt out of many third-party ad networks, including those we work with on our Website and App. For example, you may go to the Digital Advertising Alliance (“DAA”) [Consumer Choice Page](http://www.aboutads.info/choices/) for information about opting out of interest-based advertising and their choices regarding having information used by [DAA companies](http://www.aboutads.info/participating/). You may also go to the Network Advertising Initiative (“NAI”) [Consumer Opt-Out Page](http://www.networkadvertising.org/choices/) for information about opting out of interest-based advertising and their choices regarding having information used by[ NAI members](http://www.networkadvertising.org/participating-networks).
+
+Opting out from one or more companies listed on the DAA Consumer Choice Page or the NAI Consumer Opt-Out Page will opt you out from those companies' delivery of interest-based content or ads to you, but it does not mean you will no longer receive any advertising through our Site or on other websites. You may continue to receive advertisements, for example, based on the particular website that you are viewing (i.e., contextually based ads). Also, if your browsers are configured to reject cookies when you opt out on the DAA or NAI websites, your opt out may not be effective. Additional information is available on the DAA's website at www.aboutads.info or the NAI's website at www.networkadvertising.org.
 
 #### Disclosure as to Google Analytics Features
 
@@ -55,13 +59,13 @@ The Advertising Features collect specific visitor cookie data, such as the sourc
 
 We use Remarketing with Google Analytics in conjunction with Google AdWords to display content specific advertisements to visitors that have previously visited our Site when those visitors go to other websites that have the Google Display Network implemented.
 
-Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this Site, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to this Site is restricted by the Google Analytics Terms of Use and the Google Privacy Policy. You can prevent Google Analytics from recognizing you on return visits to this site by disabling cookies on your browser. Or, to opt out of Google Advertising Features specifically, you can access Google Analytics' currently available opt-outs [here](https://tools.google.com/dlpage/gaoptout/). 
+Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this Site, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to this Site is restricted by the Google Analytics Terms of Use and the Google Privacy Policy. You can prevent Google Analytics from recognizing you on return visits to this site by disabling cookies on your browser. Or, to opt out of Google Advertising Features specifically, you can access Google Analytics' currently available opt-outs [here](https://tools.google.com/dlpage/gaoptout/).
 
 #### How is my information used?
 
 We may use the information we collect in the following ways:
 
-  * To process, track, and fulfill your order 
+  * To process, track, and fulfill your order
   * To communicate with you about the status of an order
   * To identify your product and service preferences
   * To administer a sweepstakes or contest
@@ -106,15 +110,15 @@ We maintain administrative, technical, and physical safeguards to protect your i
 
 Our Site is not directed at children and we do not knowingly collect personal information from children under the age of 13 without verifiable parental consent. If we learn that a child under the age of 13 has submitted personal information online without verifiable parental consent, we will take all reasonable measures to delete such information and to not use it for any purpose (except as necessary to protect the safety of the child or others as required or permitted by law). If you become aware of any personal information we have collected from children under 13, please contact us.
 
-#### How do you respond to Do Not Track signals? 
+#### How do you respond to Do Not Track signals?
 
-Do Not Track (DNT) is a privacy preference that users can set in some web browsers, allowing users to opt out of tracking by websites and online services. At the present time, the World Wide Web Consortium (W3C) has not yet established universal standards for recognizable DNT signals and therefore, we do not recognize DNT. 
+Do Not Track (DNT) is a privacy preference that users can set in some web browsers, allowing users to opt out of tracking by websites and online services. At the present time, the World Wide Web Consortium (W3C) has not yet established universal standards for recognizable DNT signals and therefore, we do not recognize DNT.
 
 #### Your California Privacy Rights.
 
 California Civil Code Section 1798.83 permits customers of Crabtree & Evelyn who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please write to us at the following address:
 
-Crabtree & Evelyn, Ltd.   
+Crabtree & Evelyn, Ltd.  
 102 Peake Brooke Rd.  
 Woodstock, CT 06281  
-Attn: Office of General Counsel 
+Attn: Office of General Counsel
