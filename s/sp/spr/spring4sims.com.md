@@ -1,41 +1,101 @@
-> *The following text is extracted and transformed from the spring4sims.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202045605id_/http%3A//spring4sims.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spring4sims.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602162643id_/http%3A//spring4sims.com/privacy-policy) for the most accurate reproduction.*
 
 # Spring4Sims | Privacy Policy
 
-Spring4sims Inc. (“Spring4sims”) operates www.spring4sims.com and may operate other websites. It is Spring4sims’s policy to respect your privacy regarding any information we may collect while operating our websites.
+We only provide articles and information. We never ask for personal information such as names, addresses, email addresses, phone numbers and / or credit card numbers.
 
-**Website Visitors**
+We only use cookies to customize ads and analyze traffic. If you are located in the European Economic Area (EEA), you will never be shown personalized ads i.e. ads that caters to your preferences based on past visits., you will never be shown any personalized ads i.e. ads that use information from cookies in order to cater to your preferences.
 
-Like most website operators, Spring4sims collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Spring4sims’s purpose in collecting non-personally identifying information is to better understand how Spring4sims’s visitors use its website. From time to time, Spring4sims may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+We use regular Malware Scanning.
 
-Spring4sims also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on www.spring4sims.com blogs/sites. Spring4sims only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
+We do not use an SSL certificate  
+**•**  We only provide articles and information. We never ask for personal or private information like names, email addresses, or credit card numbers.
 
-**Gathering of Personally-Identifying Information**
+#### **Do we use ‘cookies’?**
 
-Certain visitors to Spring4sims’s websites choose to interact with Spring4sims in ways that require Spring4sims to gather personally-identifying information. The amount and type of information that Spring4sims gathers depends on the nature of the interaction. For example, we ask visitors who sign up at www.spring4sims.com  to provide a username and email address. Those who engage in transactions with Spring4sims are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Spring4sims collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Spring4sims. Spring4sims does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to customize on-site advertisement for non-European users. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-**Aggregated Statistics**
+#### **We use cookies to:**
 
-Spring4sims may collect statistics about the behavior of visitors to its websites. Spring4sims may display this information publicly or provide it to others. However, Spring4sims does not disclose personally-identifying information other than as described below.
+**•**  Keep track of advertisements.  
+**•**  Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.  
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies.  
+If you turn cookies off, It won’t affect the user’s experience .
 
-**Protection of Certain Personally-Identifying Information**
+#### **Third-party disclosure**
 
-Spring4sims discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Spring4sims’s behalf or to provide services available at Spring4sims’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Spring4sims’s websites, you consent to the transfer of such information to them. Spring4sims will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Spring4sims discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Spring4sims believes in good faith that disclosure is reasonably necessary to protect the property or rights of Spring4sims, third parties or the public at large. If you are a registered user of an Spring4sims website and have supplied your email address, Spring4sims may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Spring4sims and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Spring4sims takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it’s release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property or safety.
 
-**Cookies**
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Spring4sims uses cookies to help Spring4sims identify and track visitors, their usage of Spring4sims website, and their website access preferences. Spring4sims visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Spring4sims’s websites, with the drawback that certain features of Spring4sims’s websites may not function properly without the aid of cookies.
+#### **Third-party links**
 
-**Business Transfers**
+Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-If Spring4sims, or substantially all of its assets, were acquired, or in the unlikely event that Spring4sims goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Spring4sims may continue to use your personal information as set forth in this policy.
+#### **Google**
 
-**Ads**
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
 
-Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Spring4sims and does not cover the use of cookies by any advertisers.
+We use Google AdSense Advertising on our website.  
+Google, as a third-party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.
 
-**Privacy Policy Changes**
+#### **We have implemented the following:**
 
-Although most changes are likely to be minor, Spring4sims may change its Privacy Policy from time to time, and in Spring4sims’s sole discretion. Spring4sims encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a www.spring4sims.com  account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+**•**  Remarketing with Google AdSense  
+**•**  Google Display Network Impression Reporting  
+We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
 
-(Visited 30 times)
+If you are located in the European Economic Area (EEA), you will never be shown any personalized ads i.e. ads that use information from cookies in order to cater to your preferences.
+
+**Opting out:**  
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.
+
+#### **California Online Privacy Protection Act**
+
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared.
+
+#### **According to CalOPPA, we agree to the following:**
+
+Users can visit our site anonymously.  
+Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.  
+Our Privacy Policy link includes the word ‘Privacy’ and can easily be found on the page specified above.  
+You will be notified of any Privacy Policy changes:  
+**•**  On our Privacy Policy Page  
+You can change your personal information:  
+**•**  By emailing us
+
+#### **How does our site handle Do Not Track signals?**
+
+We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+
+#### **Does our site allow third-party behavioral tracking?**
+
+It’s also important to note that we allow third-party behavioral tracking
+
+#### **COPPA (Children Online Privacy Protection Act)**
+
+When it comes to the collection of personal information from children under the age of 13 years old, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States’ consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
+
+We do not specifically market to children under the age of 13 years old.
+
+#### **Fair Information Practices**
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
+#### **In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
+
+We will notify you via email  
+**•**  Within 7 business days  
+We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
+
+#### **CAN SPAM Act**
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+We do not collect your email addresses or send out unsolicited emails.
+
+#### **Contacting Us**
+
+If there are any questions regarding this privacy policy, you may contact us using the information below:
+
+contact@spring4sims.com
