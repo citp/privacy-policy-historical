@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the guesttoguest.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610040152id_/https%3A//www.guesttoguest.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guesttoguest.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602153820id_/https%3A//www.guesttoguest.com/en/privacy) for the most accurate reproduction.*
 
-# Privacy - Home exchange - GuestToGuest
+# Home exchange - GuestToGuest - Privacy
 
 Your privacy is very important to GuestToGuest. This page describes how we protect your information and your privacy: 
 
