@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the besthealthmag.ca privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212114545id_/http%3A//www.besthealthmag.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the besthealthmag.ca privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602103733id_/http%3A//www.besthealthmag.ca/privacy) for the most accurate reproduction.*
 
 # Privacy | Best Health Magazine Canada
 
@@ -40,8 +40,8 @@ If, at any time, you prefer not to receive offers and/or other correspondence by
 Privacy Office
 
 Reader’ s Digest Association (Canada) ULC  
-1125 Stanley Street   
-Montreal QC H3B 5H5
+300 – 5101 Buchan St.   
+Montreal (Quebec) H4P 1S4
 
 To view and edit your existing personal information, or for more information on how to view and edit your personal information, [click here](https://web.archive.org/newsletter/). 
 
