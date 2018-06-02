@@ -1,49 +1,14 @@
-> *The following text is extracted and transformed from the wikidok.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914194359id_/http%3A//wikidok.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikidok.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602210325id_/http%3A//wikidok.com/privacy-p26) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - WikiDok
 
-Wikidok understands how important privacy is for our readers. We encourage you to take the time to read the entire privacy policy.
+WikiDok.com values the privacy of information pertaining to its associates. We do not sell or use any information obtained from our site in an unethical manner. Any information obtained such as Usernames, IP addresses, email, etc are only used in the administration of our website and services. We may email our members about site related issues, events, etc. Only in the case of illegal activity, harassment, or other questionable activities would your information be shared with a third party. We may also release data under warrant from law enforcement and related authorities.
 
-**Information that we collect**
+By your use of the WikiDok website, you expressly consent to our disclosure and use of your personal information as described in this Privacy Policy.
 
-We collect information from you when you fill out a contact form or email subscription form.
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies.
 
-We use third-party tools, such as Google Analytics, to better understand our site visitors. We also use social media widgets that may collect information about your use of the site.
+  
+We reserve the right to modify this Privacy Policy at any time, and we will post any new versions on this page.
 
-Google, as a third party vendor, uses cookies to serve ads on this site. Google’s use of cookies enables it to serve ads to users based on their visits to this site and other sites on the Internet.
-
-Users may opt out of the use of these cookies by visiting the Google ad and content network privacy policy.
-
-**What we use your information for**
-
-The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
-
-At the bottom of each and every email sent to you, there is an unsubscribe link. If you click that link, you will never hear from us again.
-
-We will never share your email address with anyone.
-
-**We do use cookies**
-
-Cookies are small files that a site or its service provider transfer to your hard drive through your browser that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
-
-We use cookies to compile data about site traffic and interaction so that we can offer better experiences and tools in the future.
-
-We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
-
-**Terms and Conditions**
-
-Please also visit our Terms of Use page establishing the use, disclaimers, and limitations of liability governing the use of our website.
-
-**Your Consent**
-
-By using our site, you consent to our online privacy policy.
-
-Changes to our Privacy Policy
-
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
-
-**Contact Us**
-
-If there are any questions regarding this privacy policy, Please mail us to admin@wikidok.com
-
-_© 2012-2016 Wikidok. All rights reserved._
+We will enable you to communicate your privacy concerns to us and that we will respond to them appropriately. If you have any questions about our privacy policy, please [contact us](http://wikidok.com/contact) at WikiDok Support
