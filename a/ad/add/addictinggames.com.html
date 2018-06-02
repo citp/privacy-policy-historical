@@ -1,24 +1,21 @@
-<!--The following is the downloaded HTML source of the addictinggames.com privacy policy that was archived on 2017-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171225050457id_/http%3A//www.addictinggames.com/legal/privacy-policy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the addictinggames.com privacy policy that was archived on 2018-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180602093315id_/http%3A//addictinggames.com/legal/privacy-policy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" xml:lang="en-US" lang="en-US"><head prefix="og: http://ogp.me/ns# addictinggames:
 	http://ogp.me/ns/apps/addictinggames#">
 		<link rel="shortcut icon" href="/a/img/favicon.ico">
 		<title>Privacy Policy at Addictinggames.com</title>
-        <meta name="description" content="AddictingGames Virtual Currency Purchasing Agreement between you and Addictinggames.com an Internet website owned and operated by Atom Entertainment, Inc.">
+		<meta name="description" content="AddictingGames Virtual Currency Purchasing Agreement between you and Addictinggames.com an Internet website owned and operated by Atom Entertainment, Inc.">
 <meta name="keywords" content="">
 <meta property="fb:admins" content="611128152,29900452,506148408,546255427,671820682">
+<meta name="viewport" content="initial-scale=1.0,maximum-scale=1.0,user-scalable=no">
 <!--esi
 <esi:try>
     <esi:attempt>
         <esi:eval src="http://mobile-redirect.mtvnservices.com/include.esi" dca="esi" maxwait="5000" />
     </esi:attempt>
 </esi:try>
---><link rel="stylesheet" type="text/css" href="/a/css/common/fonts.css">
-
-<link rel="stylesheet" type="text/css" href="http://cdn.addictinggames.com/a/min/css/global.min.css?c=47">
-	<link rel="stylesheet" type="text/css" href="http://cdn.addictinggames.com/a/min/css/footerPages.min.css?c=47">
-	<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0017/3506.js?438994" async="" type="text/javascript"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KDTR69"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M793TP"></script><script type="text/javascript">
+--><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0017/3506.js?438994" async="" type="text/javascript"></script><script src="https://asset.pagefair.net/ads.min.js"></script><script src="https://asset.pagefair.com/measure.min.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KDTR69"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M793TP"></script><script type="text/javascript">
 
 	
 	var ag;if (!ag) {ag = {};} else if (typeof ag != 'object') {throw new Error('ag namespace not available and is not an object');}if (!ag.gameServices) {ag.gameServices = {};} else if (typeof ag.gameServices != 'object') {throw new Error('ag.gameServices namespace not available and is not an object');}
@@ -37,16 +34,17 @@
 	
 	var agChannel = '';
 
-	</script><script>
-            window.ADG = window.ADG || {};
-            ADG.globals = ADG.globals || {};
+	</script><link rel="stylesheet" type="text/css" href="http://cdn.addictinggames.com/a/min/css/app.min.css?c=17">
+	<script>
+            ag.ADG = ag.ADG || {};
+            ag.ADG.globals = ag.ADG.globals || {};
 
-            ADG.globals.GTM_TIMEOUT = 5000; //Wait 5 seconds
+            ag.ADG.globals.GTM_TIMEOUT = 5000; //Wait 5 seconds
         </script>
 
         <!-- Google Tag Manager head -->
         <script type="text/javascript" src="//pubportal.brkmd.com/tms/hblte6088877f40197f6abfaed8b74e2e122.js"></script>
-<script>
+    <script>
     // GTM ( Google Tag Manager ) Data Layer Array
     var dataLayer = dataLayer ? dataLayer : [{
         gameTitle : '',
@@ -84,14 +82,20 @@
         //GPT already loaded
         }
 
-    }, ADG.globals.GTM_TIMEOUT);
+    }, 5000);
 </script>
 <script>
+    ag.ADG = ag.ADG || {};
+    var ADG = ag.ADG;
     ADG.globals.adZones = {
         leaderboard: "uncategorized_top",
         rectangle: "uncategorized_right",
         interstitial: "uncategorized_interstitial"
     };
+
+    var isMobile = /android|blackberry|googlebot-mobile|iemobile|ipad|iphone|ipod|opera mobile|palmos|webos/i.test(navigator.userAgent);
+
+    var topTier = isMobile ? 'addictinggames_mob' : 'addictinggames_web';
 
     // define the ad slots
     googletag.cmd.push(function() {
@@ -113,14 +117,17 @@
         // ==================
         // Accept-2, Accept-3
         // ==================
-        var gameTopAd = [[728, 90], [960, 1]];
-        var nonGameTopAd = [[728, 90], [960, 1], [970, 40], [970, 66], [970, 90], [970, 250]];
-        var footerAd =  [[728, 90], [970, 40], [970, 66], [970, 90], [970, 250]];
+        var gameTopAd = isMobile ? [[320, 50]] : [[728, 90], [960, 1]];
+        var nonGameTopAd = isMobile ? [[320, 50]] : [[728, 90], [960, 1], [970, 40], [970, 66], [970, 90], [970, 250]];
+        var footerAd = isMobile ? [[320, 50]] : [[728, 90], [970, 40], [970, 66], [970, 90], [970, 250]];
         var topAd = nonGameTopAd;
 
         
 
-        var leaderboardSlot = googletag.defineSlot('/4678/addictinggames_web/' + ADG.globals.adZones.leaderboard, topAd, 'div-gpt-ad-leaderboard').addService(googletag.pubads());
+        var leaderboardSlot = googletag.defineSlot('/4678/' + topTier + '/' + ADG.globals.adZones.leaderboard, topAd, 'div-gpt-ad-leaderboard').addService(googletag.pubads());
+        googletag.cmd.push(function () {
+            googletag.display('div-gpt-ad-leaderboard');
+        });
 
         var leaderboardFooterSlot = null;
         // ===================
@@ -128,10 +135,16 @@
         // ===================
         
 
-        var rectangleSlot = googletag.defineSlot('/4678/addictinggames_web/' + ADG.globals.adZones.rectangle, [[300, 250]], 'div-gpt-ad-rectangle').addService(googletag.companionAds()).addService(googletag.pubads());
+        var rectangleSlot = googletag.defineSlot('/4678/' + topTier + '/' + ADG.globals.adZones.rectangle, [[300, 250]], 'div-gpt-ad-rectangle').addService(googletag.companionAds()).addService(googletag.pubads());
+        googletag.cmd.push(function () {
+            googletag.display('div-gpt-ad-rectangle');
+        });
 
         
-        googletag.defineOutOfPageSlot('/4678/addictinggames_web/' + ADG.globals.adZones.interstitial, 'div-gpt-ad-oop').addService(googletag.pubads());
+        googletag.defineOutOfPageSlot('/4678/' + topTier + '/' + ADG.globals.adZones.interstitial, 'div-gpt-ad-oop').addService(googletag.pubads());
+        googletag.cmd.push(function () {
+            googletag.display('div-gpt-ad-oop');
+        });
         
 
 
@@ -262,28 +275,102 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<img src="//pixel.quantserve.com/pixel/p-83WcMqNwWwE46.gif?labels=" border="0" height="1" width="1" alt="Quantcast"/>
 	</div>
 </noscript>
-<!-- End Quantcast tag --><div id="headerWrapper">
-		<div id="agContainer">
-			<div id="navTop">
-	<div id="navLeft">
-		<a href="http://www.addictinggames.com"><img src="/a/img/agLogo_n.png" height="40" width="205" alt="AddictingGames" class="fltL"></a>
-		<div id="searchBarOuter">
-			<div id="searchBarInner">
-				<input id="nsmInput" type="text" value="Search AddictingGames...">
-				<div id="nsmSubmitLink"></div>
+<!-- End Quantcast tag --><div id="headerWrapper" class="headerWrapper">
+		<div id="agContainer" class="agContainer header-agContainer">
+			<div id="navTop" class="navTop">
+	<span class="icon icon-list js-header-list d-block d-lg-none float-left" aria-hidden="true"></span>
+	<div id="navLeft" class="navLeft d-none d-lg-block">
+		<a href="http://www.addictinggames.com"><img src="/a/img/agLogo_n.png" class="pc-logo" width="328" alt="AddictingGames"></a>
+		<div class="search-outer form-group">
+			<div class="search-inner input-group">
+				<input type="text" class="js-header-input form-control autoCompleteInput" autocomplete="off" placeholder="Search AddictingGames...">
+				<div class="input-group-append js-header-search"><div class="input-group-text"><span class="icon icon-magnify"></span></div></div>
 			</div>
 		</div>
 	</div>
-	<div id="loginContainer">
-        <div id="facebookConnectLink"></div>
-		<div id="uimLoginLink"></div>
+	<div id="loginContainer" class="loginContainer">
+		<div class="facebook-link d-none d-lg-block js-facebook-link"><span class="icon icon-facebook"></span>Connect</div>
+		<div class="login-link d-none d-lg-block js-uim-login"><span class="icon icon-power"></span>Log In</div>
+		<span class="float-right d-block d-lg-none js-uim-login">
+			<span class="icon icon-person"></span>
+		</span>
 		<script type="text/javascript">
 			ag.userObject = {};
 		</script>
 	</div>
+	<a href="http://www.addictinggames.com" class="d-block d-lg-none text-center"><img class="mobile-logo" src="/a/img/agLogo_n.png" width="240" alt="AddictingGames"></a>
 </div>
 
-<ul class="navTabs">
+<div class="innerShade js-header-shade d-lg-none"></div>
+<div id="headerNav" class="headerNav heightTransition d-block d-lg-none">
+	<div class="clearfix nav-top">
+		<a href="http://www.addictinggames.com"><img src="/a/img/agLogo_n.png" alt="AddictingGames" class="nav-logo"></a>
+		<span class="icon icon-cross js-header-close"></span>
+	</div>
+
+	<div class="search-outer form-group">
+		<div class="search-inner input-group">
+			<input type="text" class="js-header-input form-control autoCompleteInput" autocomplete="off" placeholder="Search AddictingGames...">
+			<div class="input-group-append js-header-search"><div class="input-group-text"><span class="icon icon-magnify ml-1 mr-1"></span></div></div>
+		</div>
+	</div>
+
+	<div class="com-scroll-content">
+		<ul id="headerCategory" class="headerCategory list-unstyled">
+			<li class="">
+				<a title="Games" target="_top" href="http://www.addictinggames.com" class="ga-nav">GAMES</a>
+			</li>
+			<li class="">
+				<a title="What's Hot" target="_top" href="http://www.addictinggames.com/hot-games/index.jsp" class="ga-nav">WHAT’S HOT</a>
+			</li>
+			<li class="">
+				<a title="Multiplayer" target="_top" href="http://www.addictinggames.com/multiplayer-games.jsp" class="ga-nav">MULTIPLAYER</a>
+			</li>
+
+			<li><a id="cat_car" class="categoryPage" title="Car Games" href="http://www.addictinggames.com/car-games/index.jsp">Car</a></li>
+					<li><a id="cat_strategy" class="categoryPage" title="Strategy Games" href="http://www.addictinggames.com/strategy-games/index.jsp">Strategy</a></li>
+					<li><a id="cat_shooting" class="categoryPage" title="Shooting Games" href="http://www.addictinggames.com/shooting-games/index.jsp">Shooting</a></li>
+					<li><a id="cat_sports" class="categoryPage" title="Sports Games" href="http://www.addictinggames.com/sports-games/index.jsp">Sports</a></li>
+					<li><a id="cat_action" class="categoryPage" title="Action Games" href="http://www.addictinggames.com/action-games/index.jsp">Action</a></li>
+					<li><a id="cat_puzzle" class="categoryPage" title="Puzzle Games" href="http://www.addictinggames.com/puzzle-games/index.jsp">Puzzle</a></li>
+					<li><a id="cat_funny" class="categoryPage" title="Funny Games" href="http://www.addictinggames.com/funny-games/index.jsp">Funny</a></li>
+					<li><a id="cat_zombie" class="categoryPage" title="Zombie Games" href="http://www.addictinggames.com/zombie-games/index.jsp">Zombie</a></li>
+					<li id="headerPlaylist"><a href="http://www.addictinggames.com/playlists/index.jsp">Playlists</a></li>
+			<li><a href="http://www.addictinggames.com/tag/stick-figure-games.jsp" id="tag_stick-figure" class="navTagLink">Stick Figure</a></li>
+			<li><a href="http://www.addictinggames.com/tag/naughty-games.jsp" id="tag_naughty" class="navTagLink">Naughty</a></li>
+			<li><a href="http://www.addictinggames.com/tag/fighting-games.jsp" id="tag_fighting" class="navTagLink">Fighting</a></li>
+			<li><a href="http://www.addictinggames.com/tag/bloody-games.jsp" id="tag_bloody" class="navTagLink">Bloody</a></li>
+			<li><a href="http://www.addictinggames.com/tag/racing-games.jsp" id="tag_racing" class="navTagLink">Racing</a></li>
+			<li><a href="http://www.addictinggames.com/tag/motorsports-games.jsp" id="tag_motorsports" class="navTagLink">Motorsports</a></li>
+			<li><a href="http://www.addictinggames.com/tag/escape-games.jsp" id="tag_escape" class="navTagLink">Escape</a></li>
+			<li><a href="http://www.addictinggames.com/tag/tycoon-games.jsp" id="tag_tycoon" class="navTagLink">Tycoon</a></li>
+			<li><a href="http://www.addictinggames.com/tag/tower-defense-games.jsp" id="tag_tower-defense" class="navTagLink">Tower Defense</a></li>
+			<li><a href="http://www.addictinggames.com/tag/random-games.jsp" id="tag_random" class="navTagLink">Random</a></li>
+			<li><a href="http://www.addictinggames.com/tag/flying-games.jsp" id="tag_flying" class="navTagLink">Flying</a></li>
+			<li><a href="http://www.addictinggames.com/tag/easy-games.jsp" id="tag_easy" class="navTagLink">Easy</a></li>
+			<li><a href="http://www.addictinggames.com/tag/hard-games.jsp" id="tag_hard" class="navTagLink">Hard</a></li>
+			<li><a href="http://www.addictinggames.com/tag/make-your-own-games.jsp" id="tag_make-your-own" class="navTagLink">Make Your Own</a></li>
+			<li><a href="http://www.addictinggames.com/tag/dress-up-games.jsp" id="tag_dress-up" class="navTagLink">Dress Up</a></li>
+			<li><a href="http://www.addictinggames.com/tag/high-school-games.jsp" id="tag_high-school" class="navTagLink">High School</a></li>
+			<li><a href="http://www.addictinggames.com/tag/celebrity-games.jsp" id="tag_celebrity" class="navTagLink">Celebrity</a></li>
+			<li><a href="http://www.addictinggames.com/tag/cute-games.jsp" id="tag_cute" class="navTagLink">Cute</a></li>
+			<li><a href="http://www.addictinggames.com/tag/word-games.jsp" id="tag_word" class="navTagLink">Word</a></li>
+			<li><a href="http://www.addictinggames.com/tag/political-games.jsp" id="tag_political" class="navTagLink">Political</a></li>
+			<li><a href="http://www.addictinggames.com/tag/high-score-games.jsp" id="tag_high-score" class="navTagLink">High Scores</a></li>
+			<li><a href="http://www.addictinggames.com/tag/map-games.jsp" id="tag_map" class="navTagLink">Maps</a></li>
+			<li><a href="http://www.addictinggames.com/tag/gross-games.jsp" id="tag_gross" class="navTagLink">Gross</a></li>
+			<li><a href="http://www.addictinggames.com/tag/multi-player-games.jsp" id="tag_multi-player" class="navTagLink">Two-Player</a></li>
+			<li><a href="http://www.addictinggames.com/tag/war-games.jsp" id="tag_war" class="navTagLink">War</a></li>
+			<li><a href="http://www.addictinggames.com/tag/cute-shooter-games.jsp" id="tag_cute-shooter" class="navTagLink">Cute Shooters</a></li>
+			<li><a href="http://www.addictinggames.com/tag/teen-games.jsp" id="tag_teen" class="navTagLink">Teens</a></li>
+			<li><a href="http://www.addictinggames.com/tag/scary-games.jsp" id="tag_scary" class="navTagLink">Scary</a></li>
+			<li><a href="http://www.addictinggames.com/tag/quiz-games.jsp" id="tag_quiz" class="navTagLink">Brain Teasers &amp; Quizzes</a></li>
+			</ul>
+	</div>
+
+</div>
+
+<ul class="navTabs d-none d-lg-block">
 	<li class="">
 		<a title="Games" target="_top" href="http://www.addictinggames.com" class="ga-nav">GAMES</a>
 	</li>
@@ -294,8 +381,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<a title="Multiplayer" target="_top" href="http://www.addictinggames.com/multiplayer-games.jsp" class="ga-nav">MULTIPLAYER</a>
 	</li>
 	<li class="customNavTabs">
-			<a title="" target="_top" href="http://bit.ly/2rXtQfc" class="ga-nav">
-				<img src="http://www.addictinggames.com/content-items/lego_friends_logo_w.png" alt="LEGO Friends"> </a>
+			<a title="" target="_top" href="" class="ga-nav">
+				</a>
 		</li>
 	<li class="customNavTabs">
         <a title="" target="_top" href="" class="ga-nav">
@@ -303,10 +390,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </li>
     </ul>
 
-<div id="categoryNavContainer">
-	<ul id="categoryNav">
-		<li><a id="cat_strategy" class="categoryPage" title="Strategy Games" href="http://www.addictinggames.com/strategy-games/index.jsp">Strategy</a></li>
-				<li><a id="cat_car" class="categoryPage" title="Car Games" href="http://www.addictinggames.com/car-games/index.jsp">Car</a></li>
+<div id="categoryNavContainer" class="categoryNavContainer d-none d-lg-block">
+	<ul id="categoryNav" class="categoryNav list-unstyled">
+		<li><a id="cat_car" class="categoryPage" title="Car Games" href="http://www.addictinggames.com/car-games/index.jsp">Car</a></li>
+				<li><a id="cat_strategy" class="categoryPage" title="Strategy Games" href="http://www.addictinggames.com/strategy-games/index.jsp">Strategy</a></li>
 				<li><a id="cat_shooting" class="categoryPage" title="Shooting Games" href="http://www.addictinggames.com/shooting-games/index.jsp">Shooting</a></li>
 				<li><a id="cat_sports" class="categoryPage" title="Sports Games" href="http://www.addictinggames.com/sports-games/index.jsp">Sports</a></li>
 				<li><a id="cat_action" class="categoryPage" title="Action Games" href="http://www.addictinggames.com/action-games/index.jsp">Action</a></li>
@@ -314,46 +401,49 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<li><a id="cat_funny" class="categoryPage" title="Funny Games" href="http://www.addictinggames.com/funny-games/index.jsp">Funny</a></li>
 				<li><a id="cat_zombie" class="categoryPage" title="Zombie Games" href="http://www.addictinggames.com/zombie-games/index.jsp">Zombie</a></li>
 				<li id="headerPlaylist"><a href="http://www.addictinggames.com/playlists/index.jsp"><span></span>Playlists</a></li>
-		<li id="headerMore"><a id="headerMoreText" href="#">More</a><span id="headerMoreArrow"></span></li>
+		<li id="headerMore" class="headerMore"><a id="headerMoreText" href="#">More</a><span class="icon icon-arrow-down"></span></li>
 	</ul>
 </div>
-<div id="headerMoreFilters">
+<div id="headerMoreFilters" class="headerMoreFilters">
 	<div>
-	<ul id="firstMoreList" class="moreList">
+	<ul id="firstMoreList" class="moreList list-unstyled">
 		<li>Tags:</li>
 	</ul>
-	<ul class="moreList"><li><a href="http://www.addictinggames.com/tag/stick-figure-games.jsp" id="tag_stick-figure" class="navTagLink">Stick Figure</a></li>
+	<ul class="moreList list-unstyled"><li><a href="http://www.addictinggames.com/tag/stick-figure-games.jsp" id="tag_stick-figure" class="navTagLink">Stick Figure</a></li>
 		<li><a href="http://www.addictinggames.com/tag/naughty-games.jsp" id="tag_naughty" class="navTagLink">Naughty</a></li>
 		<li><a href="http://www.addictinggames.com/tag/fighting-games.jsp" id="tag_fighting" class="navTagLink">Fighting</a></li>
 		<li><a href="http://www.addictinggames.com/tag/bloody-games.jsp" id="tag_bloody" class="navTagLink">Bloody</a></li>
 		<li><a href="http://www.addictinggames.com/tag/racing-games.jsp" id="tag_racing" class="navTagLink">Racing</a></li>
 		<li><a href="http://www.addictinggames.com/tag/motorsports-games.jsp" id="tag_motorsports" class="navTagLink">Motorsports</a></li>
-		</ul><ul class="moreList"><li><a href="http://www.addictinggames.com/tag/escape-games.jsp" id="tag_escape" class="navTagLink">Escape</a></li>
+		</ul><ul class="moreList list-unstyled"><li><a href="http://www.addictinggames.com/tag/escape-games.jsp" id="tag_escape" class="navTagLink">Escape</a></li>
 		<li><a href="http://www.addictinggames.com/tag/tycoon-games.jsp" id="tag_tycoon" class="navTagLink">Tycoon</a></li>
 		<li><a href="http://www.addictinggames.com/tag/tower-defense-games.jsp" id="tag_tower-defense" class="navTagLink">Tower Defense</a></li>
 		<li><a href="http://www.addictinggames.com/tag/random-games.jsp" id="tag_random" class="navTagLink">Random</a></li>
 		<li><a href="http://www.addictinggames.com/tag/flying-games.jsp" id="tag_flying" class="navTagLink">Flying</a></li>
 		<li><a href="http://www.addictinggames.com/tag/easy-games.jsp" id="tag_easy" class="navTagLink">Easy</a></li>
-		</ul><ul class="moreList"><li><a href="http://www.addictinggames.com/tag/hard-games.jsp" id="tag_hard" class="navTagLink">Hard</a></li>
+		</ul><ul class="moreList list-unstyled"><li><a href="http://www.addictinggames.com/tag/hard-games.jsp" id="tag_hard" class="navTagLink">Hard</a></li>
 		<li><a href="http://www.addictinggames.com/tag/make-your-own-games.jsp" id="tag_make-your-own" class="navTagLink">Make Your Own</a></li>
 		<li><a href="http://www.addictinggames.com/tag/dress-up-games.jsp" id="tag_dress-up" class="navTagLink">Dress Up</a></li>
 		<li><a href="http://www.addictinggames.com/tag/high-school-games.jsp" id="tag_high-school" class="navTagLink">High School</a></li>
 		<li><a href="http://www.addictinggames.com/tag/celebrity-games.jsp" id="tag_celebrity" class="navTagLink">Celebrity</a></li>
 		<li><a href="http://www.addictinggames.com/tag/cute-games.jsp" id="tag_cute" class="navTagLink">Cute</a></li>
-		</ul><ul class="moreList"><li><a href="http://www.addictinggames.com/tag/word-games.jsp" id="tag_word" class="navTagLink">Word</a></li>
+		</ul><ul class="moreList list-unstyled"><li><a href="http://www.addictinggames.com/tag/word-games.jsp" id="tag_word" class="navTagLink">Word</a></li>
 		<li><a href="http://www.addictinggames.com/tag/political-games.jsp" id="tag_political" class="navTagLink">Political</a></li>
 		<li><a href="http://www.addictinggames.com/tag/high-score-games.jsp" id="tag_high-score" class="navTagLink">High Scores</a></li>
 		<li><a href="http://www.addictinggames.com/tag/map-games.jsp" id="tag_map" class="navTagLink">Maps</a></li>
 		<li><a href="http://www.addictinggames.com/tag/gross-games.jsp" id="tag_gross" class="navTagLink">Gross</a></li>
 		<li><a href="http://www.addictinggames.com/tag/multi-player-games.jsp" id="tag_multi-player" class="navTagLink">Two-Player</a></li>
-		</ul><ul class="moreList"><li><a href="http://www.addictinggames.com/tag/war-games.jsp" id="tag_war" class="navTagLink">War</a></li>
+		</ul><ul class="moreList list-unstyled"><li><a href="http://www.addictinggames.com/tag/war-games.jsp" id="tag_war" class="navTagLink">War</a></li>
 		<li><a href="http://www.addictinggames.com/tag/cute-shooter-games.jsp" id="tag_cute-shooter" class="navTagLink">Cute Shooters</a></li>
 		<li><a href="http://www.addictinggames.com/tag/teen-games.jsp" id="tag_teen" class="navTagLink">Teens</a></li>
 		<li><a href="http://www.addictinggames.com/tag/scary-games.jsp" id="tag_scary" class="navTagLink">Scary</a></li>
 		<li><a href="http://www.addictinggames.com/tag/quiz-games.jsp" id="tag_quiz" class="navTagLink">Brain Teasers &amp; Quizzes</a></li>
 		</ul></div>
-</div><div id="footerCopy" class="clearfix">
-	<p>Welcome to Addicting Games, the largest source of the best free online games including funny games,
+</div><div id="footerCopy" class="clearfix footerCopy">
+    <div class="mb-3">
+            <h1>Privacy Policy&nbsp;</h1>
+        </div>
+    <p>Welcome to Addicting Games, the largest source of the best free online games including funny games,
     flash games, arcade games, dress-up games, internet games, word games, RPG games,
     racing games, and much more. Thousands of choices from some of the best developers around, like Armor Games,
     Games2Win, and even yours truly, Addicting Games! With tons of reviews &amp; ratings, gamers of all skill
@@ -379,65 +469,36 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     to your site. Submit your game here and who knows you could be famous! </p></div>
 </div>
 	</div>
-	<div id="reskinWrapper">
-		<div id="div-gpt-ad-leaderboard" class="leaderboard-ad">
+	<div id="reskinWrapper" class="reskinWrapper">
+
+		<div class="BlockContainer pt-3 pb-3">
+			<div id="div-gpt-ad-leaderboard" class="leaderboard-ad container">
     <script>
         googletag.cmd.push(function () {
             googletag.display('div-gpt-ad-leaderboard');
         });
     </script>
 </div>
-<div id="agContentWrapper">
-			<div id="agContent" class="clearfix">
-				<div id="footerPageNavigation">
-	<ul>
-	<li>
-		<a href="/about/about-us.jsp"><span>About Us</span></a>
-	</li>
-	<li>
-		<a href="/support/contact-us.jsp"><span>Contact Us</span></a>
-	</li>
-	<li>
-		<a href="/about/advertisers.jsp"><span>Advertise with Us</span></a>
-	</li>
-	<li>
-		<a href="/game/upload.jsp"><span>Developer Center</span></a>
-	</li>
-
-
-	<li>
-		<a href="/help/help.jsp"><span>Help</span></a>
-	</li>
-	<li>
-		<a href="/help/parents.jsp"><span>For Parents</span></a>
-	</li>
-	<li>
-		<a href="/help/content-ratings.jsp"><span>What Our Warnings Mean</span></a>
-	</li>
-
-	<li>
-		<a class="selected" href="/legal/privacy-policy.jsp"><span>Privacy Policy</span></a>
-	</li>
-	<li>
-		<a href="/legal/terms-use.jsp"><span>Terms of Use</span></a>
-	</li>
-	<li>
-		<a href="/legal/user-submission-agreement.jsp"><span>User Submission Agreement</span></a>
-	</li>
-	<li>
-		<a href="/legal/currency-agreement.jsp"><span>Virtual Currency Agreement</span></a>
-	</li>
-	<li>
-		<a href="/legal/copyright.jsp"><span>Copyright Compliance Policy</span></a>
-	</li>
-</ul>
 </div>
 
-<div id="footerPageContent">
-	<p align="center" class="pageTitle">
+		<div id="agContentWrapper" class="agContentWrapper">
+			<div id="agContent" class="agContent container">
+				<div class="row">
+
+  <div id="footerPageNavigation" class="col-12 col-md-3 com-scroll-content">
+    <div class="d-none d-md-block nav flex-column nav-pills" aria-orientation="vertical">
+      <a class="nav-link" href="/about/about-us.jsp"><span>About Us</span></a><a class="nav-link" href="/support/contact-us.jsp"><span>Contact Us</span></a><a class="nav-link" href="/about/advertisers.jsp"><span>Advertise with Us</span></a><a class="nav-link" href="/game/upload.jsp"><span>Developer Center</span></a><a class="nav-link" href="/help/help.jsp"><span>Help</span></a><a class="nav-link" href="/help/parents.jsp"><span>For Parents</span></a><a class="nav-link" href="/help/content-ratings.jsp"><span>What Our Warnings Mean</span></a><a class="nav-link active" href="/legal/privacy-policy.jsp"><span>Privacy Policy</span></a><a class="nav-link" href="/legal/terms-use.jsp"><span>Terms of Use</span></a><a class="nav-link" href="/legal/user-submission-agreement.jsp"><span>User Submission Agreement</span></a><a class="nav-link" href="/legal/currency-agreement.jsp"><span>Virtual Currency Agreement</span></a><a class="nav-link" href="/legal/copyright.jsp"><span>Copyright Compliance Policy</span></a>
+</div>
+    <div class="d-block d-md-none nav nav-pills nav-custom-tabs mb-3 clearfix">
+      <a class="nav-link" href="/about/about-us.jsp"><span>About Us</span></a><a class="nav-link" href="/support/contact-us.jsp"><span>Contact Us</span></a><a class="nav-link" href="/about/advertisers.jsp"><span>Advertise with Us</span></a><a class="nav-link" href="/game/upload.jsp"><span>Developer Center</span></a><a class="nav-link" href="/help/help.jsp"><span>Help</span></a><a class="nav-link" href="/help/parents.jsp"><span>For Parents</span></a><a class="nav-link" href="/help/content-ratings.jsp"><span>What Our Warnings Mean</span></a><a class="nav-link active" href="/legal/privacy-policy.jsp"><span>Privacy Policy</span></a><a class="nav-link" href="/legal/terms-use.jsp"><span>Terms of Use</span></a><a class="nav-link" href="/legal/user-submission-agreement.jsp"><span>User Submission Agreement</span></a><a class="nav-link" href="/legal/currency-agreement.jsp"><span>Virtual Currency Agreement</span></a><a class="nav-link" href="/legal/copyright.jsp"><span>Copyright Compliance Policy</span></a>
+</div>
+  </div>
+
+  <div id="footerPageContent" class="col-12 col-sm-9 col-lg-7 footerPage-content">
+    <h2>
 	<strong>PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS</strong>
-</p>
-<p align="center">
+</h2>
+<p>
 	<strong>LAST UPDATED: 3/17/2015</strong>
 </p>
 <p>
@@ -468,27 +529,27 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <p>
 	Defy Media, LLC ("Defy") is committed to providing you with the very best experience we can on our network of websites and applications (collectively, the "Defy Sites"). In order to do so, we may gather certain information about you. Please read the following policy ("policy") to understand how certain of your information collected on the Defy Sites will be collected, used, shared and retained. 
 </p>
-<table border="1" cellspacing="0" cellpadding="0" width="100%">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
 	<tbody>
 		<tr>
-			<td width="21%" valign="bottom">
+			<td width="21%" valign="top">
 				<p>
 					WHAT INFORMATION DOES DEFY COLLECT?
 				</p>
 			</td>
-			<td width="78%" valign="bottom">
+			<td width="78%" valign="top">
 				<p>
 					When you visit the Defy Sites, we collect some basic information that does not identify individual users. (See the "Behavioral advertising" section below for more information on certain third parties who may also collect similar information when you visit the Defy Sites for online behavioral advertising purposes.)  This includes which pages are visited, which advertisements are viewed, and any feedback from our visitors. We then aggregate this information with other pieces of information to improve our site and make your experience on the site as valuable and efficient as possible. For purposes of clarity, unless visitors submit personal information directly to us (e.g.: by means of a site registration, in connection with a contest, etc.), our sites do not collect visitorâs personal information. Additional information on how we treat personal information that is submitted directly to us and how such information may be shared may be found in our privacy policy.
 				</p>
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td width="21%" valign="top">
 				<p>
 					BEHAVIORAL ADVERTISING
 				</p>
 			</td>
-			<td>
+			<td width="78%" valign="top">
 				<p>
 					We analyze non-personal information that we collect on the Defy Sites, or obtain from third parties, and organize it into anonymous user profiles, groups, and audiences, based on factors such as age, gender, geography, interests and online actions. We and our clients and partners then use these anonymous user profiles, groups and audiences to design and deliver customized advertising campaigns or other relevant content. We and our clients also use this data for other related purposes (for example, to do research regarding the results of our online advertising campaigns or to better understand the interests or activities of our visitors.) The behavioral categories we use to customize the ads you may see or for related purposes do not use personal information such as your name, address, e-mail address, phone number, birth date or social security number. Our technology and services are designed to limit our use of data for purposes of behavioral advertising to anonymous, non-personal information.
 				</p>
@@ -501,60 +562,60 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td width="21%" valign="top">
 				<p>
 					TRANSPARENCY IN ONLINE BEHAVIORAL ADVERTISING
 				</p>
 			</td>
-			<td>
+			<td width="78%" valign="top">
 				<p>
 					Defy does not create or use potentially sensitive data segments to provide its targeted online behavioral advertising for advertisers, including, but not limited to, health related audience segments. Defy is a member of the NAI (Network Advertising Initiative) and adheres to the NAI Code of Conduct, which may be found <a href="http://www.networkadvertising.org/code-enforcement/code" target="_blank">here</a>, and the Digital Advertising Allianceâs Self-Regulatory Principles for Online Behavioral Advertising, which may be found <a href="http://www.aboutads.info/obaprinciples" target="_blank">here</a>.
 				</p>
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td width="21%" valign="top">
 				<p>
 					OPT-OUT
 				</p>
 			</td>
-			<td>
+			<td width="78%" valign="top">
 				<p>
 					You may choose to not participate in our personalized advertising services by "opting out" of such personalized advertising services through the Network Advertising Initiativeâs Consumer Opt-out Program. Opting out will not remove advertisements. You will continue to see advertisements provided by Defy, but the advertising will not be customized or targeted based on information collected by Defy. Your will need to update your opt-out preferences if you change/update browsers or computers, or if you delete cookies. See the "Behavioral advertising" section above for more information on how to opt out of online behavioral advertising by certain third parties on the Defy Sites.
 				</p>
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td width="21%" valign="top">
 				<p>
 					DATA RETENTION
 				</p>
 			</td>
-			<td>
+			<td width="78%" valign="top">
 				<p>
 					We and our partners may retain the anonymous user data we or our partners collect on the Defy Sites for up to nine (9) months from the date of its collection, after which time it is deleted from, or deactivated on, our and our partnersâ active databases. In addition, we maintain archives of our web logs, database, and other systems and information. Please note that it is possible some of this information may remain archived after we delete or deactivate the information from its active database. We maintain archives for disaster recovery, legal and other non-marketing purposes.
 				</p>
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td width="21%" valign="top">
 				<p>
 					WITH WHOM DO WE SHARE YOUR INFORMATION AND FOR WHAT PURPOSE?
 				</p>
 			</td>
-			<td>
+			<td width="78%" valign="top">
 				<p>
 					Except as may otherwise be expressly set forth in this policy or in our privacy policy, Defy does not sell, rent, or trade any personally identifying information with third parties unless users consent to such sharing practices. We may from time to time share user information in a non-personally identifiable manner with advertisers and other third parties in order to present to users more targeted advertising, products and services.
 				</p>
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td width="21%" valign="top">
 				<p>
 					WHAT ARE "COOKIES" AND "WEB BEACONS" AND HOW DO WE USE THEM?
 				</p>
 			</td>
-			<td>
+			<td width="78%" valign="top">
 				<p>
 					The Defy Sites may use "cookies" and "web beacons" to speed navigation, keep track of items viewed, clicked on and/or shared, including links and advertisements, and provide you with custom-tailored services. A "web beacon" is an embedded GIF file that specifically helps us track whether you have viewed a specific piece of content. We also use "cookies" to remember information you gave us so you donât have to re-enter it each time you visit the Defy Sites. By showing us how and when visitors use the Defy Sites, "cookies" and "web beacons" allow us to see which Defy Site areas and content are popular, and help us target content and advertisements based on user behavior. In addition, "cookies" will allow us to display in your profile which Defy and affiliated websites you have visited, unless you opt out of that feature in your account. We also collect IP addresses for system administration and to report aggregate information to any sponsors. Some advertisers or websites that have links on our site may also use their own "cookies." We do not control these "cookies." You should check the privacy policy of these advertisers or websites to see whether and how they use "cookies."
 				</p>
@@ -787,137 +848,138 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	E-mail: privacy@defymedia.com 
 </p></div>
 
-</div>
+  </div></div>
 		</div>
 
 		<script>
-	// Inline Script needed to set page level requestScope Game Data
-	// TODO: Relocate ag.gameData global setup here and update ag.gameData calls to ADG.globals.gameData
-	var ADG = ADG || {};
-		ADG.globals = ADG.globals || {};
-		ADG.globals.gameData = {};
-		ADG.globals.gameData.keyword = '';
+            // Inline Script needed to set page level requestScope Game Data
+            // TODO: Relocate ag.gameData global setup here and update ag.gameData calls to ADG.globals.gameData
+            ag.ADG = ag.ADG || {};
+			var ADG = ag.ADG;
+            ADG.globals = ADG.globals || {};
+            ADG.globals.gameData = {};
+            ADG.globals.gameData.keyword = '';
+		</script>
 
-</script>
+		<div id="js-footer" class="Footer clearfix px-2 py-4">
+    <div class="container">
 
-<script src="http://cdn.addictinggames.com/a/min/js/globalJsBodyPre.min.js?c=47"></script>
-	<script type="text/javascript" src="http://cdn.addictinggames.com/a/js/libExternal/ag-coda.js?c=47"></script>
- 		<script type="text/javascript" src="http://cdn.addictinggames.com/a/min/js/globalJsBodyPost.min.js?c=47"></script>
-	<script type="text/javascript">
-	
-		ag.loggedIn = false;
-	
-
-	ag.pageName = '' + '';
-
-	
-
-	if ( ag.pageName === '' ) {
-		ag.initialOmnitureEvents['pageName'] = window.location.pathname;
-	} else {
-		ag.initialOmnitureEvents['pageName'] = ag.pageName;
-	}
-	ag.initialOmnitureEvents['eVar13'] = ag.pageName;
-
-	btg.Controller.sendPageCall( ag.initialOmnitureEvents );
-</script>
-<div id="js-footer" class="Footer">
-    <div id="footerCategoryNav" class="clearfix">
-        <ul class="clearfix">
-            <li>
-                <a class="categoryPage" id="fcat_all" href="http://www.addictinggames.com/all-games/index.jsp" title="Free Online Games">All Games</a>
-            </li>
-            <li>
-                    <a class="categoryPage" id="fcat_strategy" href="http://www.addictinggames.com/strategy-games/index.jsp" title="Free Online Strategy Games">Strategy Games</a>
+        <nav id="footerCategoryNav" class="footerCategoryNav clearfix mb-3">
+            <ul class="list-inline">
+                <li>
+                    <a class="categoryPage" id="fcat_all" href="http://www.addictinggames.com/all-games/index.jsp" title="Free Online Games">All Games</a>
                 </li>
-            <li>
-                    <a class="categoryPage" id="fcat_car" href="http://www.addictinggames.com/car-games/index.jsp" title="Free Online Car Games">Car Games</a>
-                </li>
-            <li>
-                    <a class="categoryPage" id="fcat_shooting" href="http://www.addictinggames.com/shooting-games/index.jsp" title="Free Online Shooting Games">Shooting Games</a>
-                </li>
-            <li>
-                    <a class="categoryPage" id="fcat_sports" href="http://www.addictinggames.com/sports-games/index.jsp" title="Free Online Sports Games">Sports Games</a>
-                </li>
-            <li>
-                    <a class="categoryPage" id="fcat_action" href="http://www.addictinggames.com/action-games/index.jsp" title="Free Online Action Games">Action Games</a>
-                </li>
-            <li>
-                    <a class="categoryPage" id="fcat_puzzle" href="http://www.addictinggames.com/puzzle-games/index.jsp" title="Free Online Puzzle Games">Puzzle Games</a>
-                </li>
-            <li>
-                    <a class="categoryPage" id="fcat_funny" href="http://www.addictinggames.com/funny-games/index.jsp" title="Free Online Funny Games">Funny Games</a>
-                </li>
-            <li>
-                    <a class="categoryPage" id="fcat_zombie" href="http://www.addictinggames.com/zombie-games/index.jsp" title="Free Online Zombie Games">Zombie Games</a>
-                </li>
-            </ul>
-    </div>
+                <li>
+                        <a class="categoryPage" id="fcat_strategy" href="http://www.addictinggames.com/strategy-games/index.jsp" title="Free Online Strategy Games">Strategy Games</a>
+                    </li>
+                <li>
+                        <a class="categoryPage" id="fcat_car" href="http://www.addictinggames.com/car-games/index.jsp" title="Free Online Car Games">Car Games</a>
+                    </li>
+                <li>
+                        <a class="categoryPage" id="fcat_shooting" href="http://www.addictinggames.com/shooting-games/index.jsp" title="Free Online Shooting Games">Shooting Games</a>
+                    </li>
+                <li>
+                        <a class="categoryPage" id="fcat_sports" href="http://www.addictinggames.com/sports-games/index.jsp" title="Free Online Sports Games">Sports Games</a>
+                    </li>
+                <li>
+                        <a class="categoryPage" id="fcat_action" href="http://www.addictinggames.com/action-games/index.jsp" title="Free Online Action Games">Action Games</a>
+                    </li>
+                <li>
+                        <a class="categoryPage" id="fcat_puzzle" href="http://www.addictinggames.com/puzzle-games/index.jsp" title="Free Online Puzzle Games">Puzzle Games</a>
+                    </li>
+                <li>
+                        <a class="categoryPage" id="fcat_funny" href="http://www.addictinggames.com/funny-games/index.jsp" title="Free Online Funny Games">Funny Games</a>
+                    </li>
+                <li>
+                        <a class="categoryPage" id="fcat_zombie" href="http://www.addictinggames.com/zombie-games/index.jsp" title="Free Online Zombie Games">Zombie Games</a>
+                    </li>
+                </ul>
+        </nav>
 
-    <section class="footerFollowUs">
-        <h3>Follow Us</h3>
+        <div class="footerSections mb-4 d-flex flex-column flex-md-row">
+            <section class="footerFollowUs mb-2">
+                <h3>Follow Us</h3>
+                <div class="fb-page mb-2" data-href="https://www.facebook.com/AddictingGames" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/AddictingGames"><a href="https://www.facebook.com/AddictingGames">AddictingGames</a></blockquote></div></div>
+                <div class="clearfix pt-3">
+                    <div class="twitterFollow float-left mr-2" id="twitterContainer"><a href="https://twitter.com/AddictingGames" class="twitter-follow-button" data-show-count="false">Follow @AddictingGames</a></div>
+                    <div class="googleFollow float-left" id="googlePlusContainer"><div class="g-follow" data-annotation="none" data-height="20" data-href="https://plus.google.com/103249522362605848405" data-rel="publisher"></div></div>
+                </div>
 
-        <div class="fb-page" data-href="https://www.facebook.com/AddictingGames" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/AddictingGames"><a href="https://www.facebook.com/AddictingGames">AddictingGames</a></blockquote></div></div>
+            </section>
 
-        <a href="https://twitter.com/AddictingGames" class="twitter-follow-button" data-show-count="false">Follow @AddictingGames</a>
-        <div class="g-follow" data-annotation="none" data-height="20" data-href="https://plus.google.com/103249522362605848405" data-rel="publisher"></div>
-    </section>
+            <div class="footerSections-right row flex-md-nowrap flex-1">
+                <section class="footerMoreCoolGames col-12 col-md-i2v-3">
+                    <h3>More Cool Games</h3>
+                    <a href="http://www.shockwave.com/online/word-games.jsp">Word Games</a>
+                    <a href="http://www.shockwave.com">Free Online Games</a>
+                    <a href="http://www.shockwave.com/download.jsp">Download Games</a>
+                    <a href="http://www.shockwave.com/online/jigsaw-games.jsp">Jigsaw Puzzle Games</a>
+                </section>
 
-    <section class="footerMoreCoolGames">
-        <h3>More Cool Games</h3>
-        <a href="http://www.shockwave.com/online/word-games.jsp">Word Games</a><br>
-        <a href="http://www.shockwave.com">Free Online Games</a><br>
-        <a href="http://www.shockwave.com/download.jsp">Download Games</a><br>
-        <a href="http://www.shockwave.com/online/jigsaw-games.jsp">Jigsaw Puzzle Games</a><br>
-    </section>
+                <section class="footerContactUs heightTransition col-12 col-md-i2v-3">
+                    <a class="h3 collapsed" data-toggle="collapse" href="#footerContactUsNav" role="button" aria-expanded="false" aria-controls="footerContactUsNav">
+                        Contact <i class="icon icon-chevron-top float-right"></i>
+                    </a>
+                    <nav class="collapse" id="footerContactUsNav">
+                        <a href="/about/about-us.jsp">About Us</a>
+                        <a href="/help/help.jsp">Help</a>
+                        <a href="/support/contact-us.jsp">Contact Us</a>
+                        <a href="/game/upload.jsp">Submit a Game</a>
+                        <a href="/about/advertisers.jsp">Advertise With Us</a>
+                        <a href="/help/parents.jsp">For Parents</a>
+                    </nav>
+                </section>
 
-    <section class="footerContactUs">
-        <h3>Contact</h3>
-        <a href="/about/about-us.jsp">About Us</a><br>
-        <a href="/help/help.jsp">Help</a><br>
-        <a href="/support/contact-us.jsp">Contact Us</a><br>
-        <a href="/game/upload.jsp">Submit a Game</a><br>
-        <a href="/help/parents.jsp">For Parents</a><br>
-    </section>
+                <section class="footerMoreInfo heightTransition col-12 col-md-i2v-4">
+                    <a class="h3 collapsed" data-toggle="collapse" href="#footerMoreInfoNav" role="button" aria-expanded="false" aria-controls="footerMoreInfoNav">
+                        More Info <i class="icon icon-chevron-top float-right"></i>
+                    </a>
+                    <nav class="collapse" id="footerMoreInfoNav">
+                        <a href="/legal/terms-use.jsp" onclick="ag.setFindingMethod( event, ag.persistMetrics.push( 'prop26', agPageName ));">Terms of Use</a>
+                        <a href="/legal/user-submission-agreement.jsp">User Submission Agreement</a>
+                        <a href="/legal/currency-agreement.jsp">Virtual Currency Agreement</a>
+                        <a href="/legal/privacy-policy.jsp" onclick="ag.setFindingMethod( event, ag.persistMetrics.push( 'prop26', agPageName ));">Privacy Policy</a>
+                        <a href="/legal/copyright.jsp">Copyright Compliance</a>
+                        <a href="/help/content-ratings.jsp">What Do Our Warnings Mean</a>
+                    </nav>
+                </section>
+            </div>
+        </div>
 
-    <section class="footerMoreInfo">
-        <h3>More Info</h3>
-        <a href="/legal/terms-use.jsp" onclick="ag.setFindingMethod( event, ag.persistMetrics.push( 'prop26', agPageName ));">Terms of Use</a><br>
-        <a href="/legal/currency-agreement.jsp">Virtual Currency Agreement</a><br>
-        <a href="/legal/privacy-policy.jsp" onclick="ag.setFindingMethod( event, ag.persistMetrics.push( 'prop26', agPageName ));">Privacy Policy</a><br>
-        <a href="/legal/copyright.jsp">Copyright Compliance</a><br>
-        <a href="/help/content-ratings.jsp">What Do Our Warnings Mean</a><br>
-    </section>
+        <section class="footerCopyright pt-1 row flex-nowrap">
+            <a href="http://www.defymedia.com/" class="col-1 footerCopyright-logo" target="_blank">
+                <img class="img-responsive" src="http://cdn.addictinggames.com/a/img/defyLogo.png" alt="Defy Media, LLC">
+            </a>
+            <div class="col-md">
+                <p>Copyright © 2018 &nbsp;<a href="http://www.defymedia.com/" target="_blank">Defy Media, LLC</a>; all rights reserved.</p>
+                <p>Third-party trademarks are used solely for distributing the games indexed herein and no license or other affiliation is implied.</p>
+            </div>
+        </section>
 
-    <section class="footerCopyright">
-        <p>Copyright © 2017 Defy Media, LLC; all rights reserved.</p>
-        <p>Third-party trademarks are used solely for distributing the games indexed herein and no license or other affiliation is implied.</p>
-    </section>
-
-    <div id="footerStripeTape"></div>
-    <div id="footerDuctTape"></div>
+        </div>
 </div>
 
 <!-- PAGEOK -->
-<iframe src="http://images.webads.nl/stir/addictinggames_stir.htm" width="0" height="0" frameborder="no"></iframe><div id="fb-root"></div><div class="modalWrapper">
-<div id="modalOverlay">
-	<span id="modalTitle"></span>
-	<span id="alternateAction"></span>
-	<span id="modalCloseButton"></span>
-	<div id="modalContent" class="clearfix"></div>
-</div>
-</div>
-<div id="modalOverlayFogger"></div><div id="fragmentRoot"></div><script type="text/javascript">ag.staticAssetServer =  'cdn.addictinggames.com';</script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-<script type="text/javascript" src="http://cdn.addictinggames.com/a/min/js/global.min.js?c=47"></script>
+<iframe src="http://images.webads.nl/stir/addictinggames_stir.htm" width="0" height="0" frameborder="no"></iframe><div id="fb-root"></div><div class="modalWrapper modal" id="commonModal" tabindex="-1" role="dialog" aria-labelledby="commonModal" aria-hidden="true">
+<div id="modalOverlay" class="modal-dialog" role="document">
+	<div class="modal-content">
+		<div class="modal-header">
+			<div id="modalTitle" class="modal-title h3"></div>
+			<div id="alternateAction" class="header-right"></div>
+			<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+				<span aria-hidden="true">×</span>
+			</button>
+		</div>
+
+
+		<div id="modalContent" class="modal-body clearfix"></div>
+		<div id="modalFooter"></div>
 	</div>
-    <script type="text/javascript">
-    setTimeout(function(){var a=document.createElement("script");
-    var b=document.getElementsByTagName("script")[0];
-    a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0017/3506.js?"+Math.floor(new Date().getTime()/3600000);
-    a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-</script><!-- Ad Blocker Test & Tracking -->
-	<script type="text/javascript" src="http://media5.break.com/campaigns/block-test/advertisement.js"></script>
+
+</div>
+</div>
+<div id="modalOverlayFogger"></div><div id="fragmentRoot"></div><!-- Ad Blocker Test & Tracking -->
+		<script type="text/javascript" src="http://media5.break.com/campaigns/block-test/advertisement.js"></script>
 
 <script>
 	(function(){
@@ -928,8 +990,44 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			event: 'trackAdBlocker'
 		});
 	}());
-</script>
-<div id="div-gpt-ad-oop">
+</script></div>
+
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.3/js/tether.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.13.0/umd/popper.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.5/js/select2.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/owl.carousel.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery_lazyload/1.9.7/jquery.lazyload.min.js"></script>
+
+<script type="text/javascript">ag.staticAssetServer =  'cdn.addictinggames.com';</script>
+<script type="text/javascript" src="http://cdn.addictinggames.com/a/min/js/libs.min.js?c=17"></script>
+		<script type="text/javascript" src="http://cdn.addictinggames.com/a/min/js/app.min.js?c=17"></script>
+	<!-- Ad Block Tracking Script -->
+	<script type="text/javascript">
+        (function() {
+            function async_load(script_url){
+                var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+                var s = document.createElement('script'); s.src = protocol + script_url;
+                var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+            }
+            bm_website_code = '0D3A4BCEF65E4911';
+            document.addEventListener('DOMContentLoaded', function() {
+                async_load('asset.pagefair.com/measure.min.js')
+            });
+            document.addEventListener('DOMContentLoaded', function() {
+                async_load('asset.pagefair.net/ads.min.js')
+            });
+        })();
+	</script>
+
+    <script type="text/javascript">
+    setTimeout(function(){var a=document.createElement("script");
+    var b=document.getElementsByTagName("script")[0];
+    a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0017/3506.js?"+Math.floor(new Date().getTime()/3600000);
+    a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script><div id="div-gpt-ad-oop">
     <script>
         googletag.cmd.push(function () {
             googletag.display('div-gpt-ad-oop');
