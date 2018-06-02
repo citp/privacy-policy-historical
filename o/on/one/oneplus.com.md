@@ -1,89 +1,132 @@
-> *The following text is extracted and transformed from the oneplus.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122182921id_/http%3A//oneplussystems.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneplus.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602222351id_/https%3A//www.oneplus.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - OnePlus Systems
+# Never Settle - OnePlus (United States)
 
 ## Privacy Policy
 
-**Effective May 26, 2016**
+### 1\. Introduction
 
-**1\. Introduction  
-**This privacy policy (hereafter “ _Privacy Policy_ ”) applies to the Site (as the term “Site” is defined in Our Terms of Service, or “ _Terms_ ”) and all Site content and/or materials accessed via the Site. The Terms can found at the following link: <http://oneplussystems.com/legal-statement/>. All capitalized terms not defined in this Privacy Policy will have the meanings assigned to them in the Terms, and the terms and conditions set forth in this Privacy Policy constitute additional Terms.
+1.1 This Privacy Policy explains how OnePlus Technology (Shenzhen) Co., Ltd., along with its affiliates (hereinafter referred to as“ **we** ”, “ **us** ” or “ **OnePlus** ”), collects, uses, shares, transfers and protects the personal information of the user (hereinafter referred to as “ **you** ”) and the corresponding rights of the user. Personal information refers to any information related to a natural person that has been identified or is identifiable. ¹[1] Within the meaning applicable law, we will act as a data controller when we process your personal information.
 
-**2\. General  
-**We respect Your privacy and We are committed to protecting personally identifiable information that may be accessed or submitted through the Site. We have adopted this Privacy Policy to explain what information may be collected on our Site, how We may use this information, and under what circumstances We may disclose the information to third parties.
+1.2 This Privacy Policy shall apply to platforms on which it is displayed, including but not limit to the OnePlus site, products, and services, and other platforms which link to this Privacy Policy. If this Privacy Policy does not cover certain specific personal information processing scenarios, we will explain it to you in the form of supplementary policies or pop-up windows.
 
-This Privacy Policy applies only to information We collect through the Site, and does not apply to our collection of information from any other sources. We keep this Privacy Policy posted on the Site and you should review it frequently, as it may change from time to time. Any changes will be effective immediately upon the posting of the revised Privacy Policy on the Site.
+1.3 We shall process your personal information in different scenarios based on different legal reasons, such as performing contracts and providing products and/or services to you, based on legitimate business interests or with your prior consent, as further detailed below. You will always have the right to object to the processing of your personal information on grounds relating to your particular situation.
 
-**WHEN YOU ACCESS OUR SITE AND/OR USE THE SERVICES AVAILABLE VIA THE SITE YOU AGREE TO THIS PRIVACY POLICY AS PART OF THE AGREEMENT. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, OR TO ANY CHANGES WE MAY SUBSEQUENTLY MAKE, IMMEDIATELY STOP ACCESSING OUR SITE.**
+### 2．Personal Information collected by OnePlus
 
-**3\. Information We May Collect  
-**Our Site typically collects two kinds of information about You: (a) information that You voluntarily provide which may personally identify You; and (b) general information relating to Your use of the Site that does not personally identify You and that We automatically collect when You visit our Site.
+In any scenario in which you interact with us, we are likely to ask you to provide personal information. If you do not provide the relevant information, you may in certain situations not be able to achieve the specific purpose for a particular scenario. For example, you cannot purchase a OnePlus product; our call center cannot reach you and provide you with pre-sales and after-sales service; or you cannot download updated software systems and/or applications.
 
-**A.** _Personally Identifiable Information_ : For the purposes of this Privacy Policy, Our definition of personally identifiable information includes any information that may be used to specifically identify or contact you, such as your name, address, e-mail address, phone number, etc. (hereafter “ _PII_ ”). As a general policy, We may not require users to provide Us with any PII in order to use certain portions of the Site; However, certain information may required of You if You wish to take certain actions which may be allowed by the Site, including registering as a user, submitting payments, and other actions, and portions of the information so submitted may be PII.
+Here are some of the scenarios where we collect your personal information:
 
-**B.**   _Non-Personal Information_ : Our definition of non-personal information includes any information that does not personally identify You (“ _Non-PII_ ”). Non-personal information can include certain personally identifiable information that has been de-identified; that is, information that has been rendered anonymous. We may obtain non-personal information about you from information that You may provide to us (e.g. by submitting a contact request, etc.), either separately or together with your PII. We also automatically collect certain Non-PII from you when you access our Site. This information can include, among other things, IP addresses, the type of browser you are using (e.g., Internet Explorer, Firefox, Safari, etc.), the third party website from which your visit originated, the operating system you are using (e.g., Vista, Windows XP, Macintosh OS, etc.), the domain name of your Internet service provider (e.g., America Online, NetZero, etc.), the specific areas of the Site that you visit, the duration of your visit, and other general information.
+2.1 When you register for an account and purchase a OnePlus product, you shall provide relevant personal information, such as user name, gender, phone number, email, mailing address, zip code, consignee information, method of payment and bank account information, etc.
 
-**4\. How We Use and Share Information  
-**
+2.2 Where permitted by law, OnePlus shall also obtain data about you from third-party sources. For example, when you use a third-party network account to register for an account in OnePlus or login to our website, OnePlus will obtain your account information from a third-party network service company. Depending on your choice of third-party network account, we may collect your WeChat account, QQ number, Alipay account, Facebook or Google account information. In such case, only the account information will be obtained.
 
-**A.  ** _Personally Identifiable Information_ : As noted above, We may not require any PII to access or use certain areas on the Site. If You do provide Us with PII (e.g. by submitting a contact request, or registering on the Site) You agree that We may also use this information to later contact you for a variety of reasons, such as customer service, providing you promotional information about our products and services or those of our other affiliated companies, or to communicate service notices to you about the Site.
+2.3 When you activate and use a OnePlus product, we shall also collect information about your device or software, such as device name and model, device ID (such as IMEI and SN), operating system version number, language selected for the device, time zone, information of SIM card telecom operator, serious error log of system and other information.
 
-Information that You voluntarily post in any comment or feedback feature maintained on the Site is not PII and is not covered by this Privacy Policy. Content (as defined in the Terms) that You voluntarily post on or through any feature of the Site is not PII and is not covered by this privacy Policy.
+2.4 Network information: for example, the type and version of browser used when you login to the OnePlus online store, language, OS version, resolution, website operating elements, your web IP address and web browsing information, as well as user behavior and other information collected by OnePlus through cookies and other similar technologies.
 
-In certain instances We may share your PII with third party service partners which are under contract with Us and which perform Site-related functions on our behalf, e.g., vendors that provide Us with credit card processing services, assist us with customer service, etc.
+2.5 Location information: real-time information from you or other users, including your geographic location, such as the region contained in the account information you have provided; country information displayed by the telecommunications carrier code you use. Some pre-loaded, location service-based apps such as maps, navigation and weather service apps will collect your location information with your consent.
 
-Except as provided in this Privacy Policy, your personally identifiable information will not be shared or sold to any third parties without your prior approval.
+2.6 When you call our customer service center for assistance, we shall ask for your name, phone number, product information and receiving time, and record your number of calls, date of call, problem encountered and the solution we give to you.
 
-**B** **.** ** ** _Non-Personal Information_ : We use Non-PII in a variety of ways, including to help analyze site traffic, understand customer needs and trends, carry out targeted promotional activities, and to improve our services. We may use your Non-PII by itself or aggregate it with information We have obtained from others. We may share your non-personal information with our affiliated companies and third parties to achieve these objectives and others, but remember that aggregate information is anonymous information that does not personally identify You.
+2.7 If you participate in one of OnePlus offline product experience events, we will also ask for information such as your name, gender, email address, and phone number.
 
-**C.** _IP Addresses_ : We may collect IP addresses for purposes of system administration, to report non-personal aggregate information to others, and to track the use of our Site. IP addresses are considered non-personal information and may also be shared as provided above. We reserve the right to use IP addresses and any personally identifiable information to identify a visitor when We feel it is necessary to enforce compliance with our Terms of Service or to: (i) fulfill a government request; (ii) conform with the requirements of the law or legal process; (iii) protect or defend our legal rights or property, our Site, or other users; or (iv) in an emergency to protect the health and safety of our Site’ users or the general public.
+2.8 Your information shared through OnePlus Community, such as your personal photos uploaded at a ShotOnOnePlus event; your thoughts and experiences shared through forums and friends, etc.
 
-**D.  ** _Cookies_ : We may, from time to time, use cookies (small text files placed on your computer or device, which helps our Web site function better and that do not contain PII) in connection with our Site; and We may analyze the information derived from these cookies for the same purposes as set forth in Section 4.C of this Privacy Policy. You may be able to limit the use of cookies on your computer or mobile device in general by modifying the settings of your web browser (e.g. Internet Explorer, Chrome, etc.). Please note, however, that some parts of our Site may not function properly or be available to you if you refuse to accept a cookie or choose to disable the acceptance of cookies.
+### 3\. How OnePlus may use Personal information
 
-We may use the following types of cookies on the Site:
+OnePlus will use your personal information based on the following purposes. One or more purposes may be applied at the same time. If we use your personal information beyond the following purposes or the scope allowed by the law, we will obtain your consent again on the basis of special purpose needs.
 
-  * “Necessary” cookies, which have to be set to allow Us to deliver to You specific Site services that you request from us (e.g. services where registration is required, payment processing services).
+3.1 Used for authentication, security, fraud monitoring, archiving and backup purposes to ensure the security of products and services provided to you by OnePlus. Such purposes for processing your personal information has for legal basis the respect of our legal obligation to implement appropriate technical and organizational measures to ensure a level of security of such processing.
+
+3.2 Provide you with services such as order processing; receipt and delivery of goods; refund of payment for goods; after-sales maintenance; implementation of electronic security plans; push system upgrade information, and other similar purposes. Such purpose for processing your personal information has for legal basis the proper performance of the contract we enter with you when you purchase our products and/or services.
+
+3.3 Help OnePlus to improve products and services. For example, OnePlus will analyze and study the collected data to make user-friendly adjustments to its operating system and interface design in accordance with user characteristics. When you choose to send error details to OnePlus, OnePlus can modify the software according to the specific error information, which helps to ensure that the similar software errors will not happen again. Such purpose for processing your personal information has for legal basis our legitimate interest in improving our products and services.
+
+3.4 OnePlus may know about the regional distribution of OnePlus products through the receiving address of the user and the country in which the SIM card operator is located, and adjust our after-sales service network layout, personnel, language and other details, so as to make it easier for users to purchase OnePlus products and experience OnePlus services. Such purpose for processing your personal information has for legal basis our legitimate interest in improving our products and services.
+
+3.5 With your consent, OnePlus may send you our latest product and service information, and may also send you holiday greetings. You may choose to unsubscribe at any time if you do not wish to receive such information. Such purpose for processing your personal information has for legal basis your consent.
+
+### 4\. Instructions on the use of Cookies and similar technologies
+
+4.1 In order to ensure that the website works well, OnePlus will use cookies and similar technologies such as pixel tags and website beacons. Cookies are plain text files that are stored on a computer or mobile device by web server. The content of cookies can only be retrieved or read by the server that creates it. Each cookie is unique to your web browser or mobile app. Cookies usually contains some identifiers, commonly-used information and other details. For instance, you can reduce the number of login authentications needed and improve your experience through cookies technology when browsing different web pages of OnePlus website. Otherwise, you may not be identified as the same person and may be asked to enter the authentication information again if logging onto to OnePlus website and then be required to go to another web page of OnePlus website.
+
+4.2 These technologies help OnePlus and third parties to better understand user behavior, tells OnePlus which section of OnePlus website you have browsed, and measure and improve the effectiveness of OnePlus’s services. OnePlus will not use cookies for any purposes other than as described in this policy. You can manage or delete cookies based on your own preferences. However, please note that some OnePlus services may be designed to require the use of cookies and disabling cookies may affect your rights to use these services or some of these features.
+
+4.3 In addition to cookies, OnePlus also uses other similar technologies such as local storage, web beacons, and pixel tags on its website. Like local storage of HTML5, this can cache frequently-used data related to you so that such data can be rendered to you quickly when you switch between different web pages of the OnePlus website. For another example, an email sent to you may contain a click URL linked to the content of the website. If you click on the link, this click will be tracked to help OnePlus better understand your product and service preferences and improve customer service. Web beacons are usually transparent images embedded in websites or e-mails. With the help of the pixel tags in emails, OnePlus can know whether the email content is effectively served to the user.
+
+### 5\. How OnePlus can share personal information
+
+5.1 We will disclose your personal information between affiliates or subsidiaries and ensure that the same level of protection is provided for your personal information between affiliates and subsidiaries.
+
+5.2 OnePlus will disclose your personal information to its partners under certain circumstances. For example, when you purchase OnePlus products through OnePlus’s online store, OnePlus will disclose your product purchase and shipping information to our authorized logistics service provider. As another example, if you have purchased the extended warranty service of OnePlus applicable for a certain region (e.g. China), OnePlus may disclose your personal information to an insurance company when submitting a claim, as OnePlus from time to time cooperates with insurance companies for the extended warranty service. If your personal information is submitted for an insurance claim, your personal information will be used to process your claim and enable you to have your product repaired.
+
+5.3 In addition, OnePlus shall disclose your information to public authorities with jurisdiction over the territories in which we operate to provide personal information of our users in compliance with the law or in the performance of legal procedure.
+
+5.4 In any case of sharing your personal information with third parties, we endeavor to disclose it to such third parties only to the extent permitted by law and we require data recipients to process and protect your personal information in compliance with applicable laws and regulations.
+
+5.5 OnePlus promises not to sell personal data to any third party and guarantees the legitimate and fair use of user information only to the extent permitted by law.
+
+### 6\. How you access and control your personal information
+
+6.1 OnePlus will take the appropriate technical measures to ensure that you can access, update, correct and delete your own registration information or other personal information provided when using OnePlus services. When you access, update, correct and delete the aforementioned information, you may be asked for authentication to protect the information security.
+
+6.2 You are also entitled, to restrict under certain circumstances the processing of your personal information and to request a copy of the personal information you provided us in a structured, commonly used and machine-readable format.
+
+6.3 You can control your own personal information. For example, you can turn off the location sharing button to stop sharing your device's location information, or you can revoke prior consent for data collection and processing. However, please understand that once you make above choice, you may not be able to enjoy the related services.
+
+6.4 Wherever required, you can contact us through contact information provided in this Privacy Policy, notably to exercise your rights detailed above. If we have a reasonable basis to believe that your request is fraudulent and/or cannot be verified, or certain personal data rights are not stipulated by law in your country and region, we will reject your request.
+
+6.5 You shall have the right to lodge a complaint with the data protection supervisory authority of your habitual residence in case you believe that the processing of your personal information infringes any applicable regulation.
+
+### 7\. How OnePlus protects Personal information
+
+7.1 OnePlus only retains your personal information for the time period necessary for the purposes described in this Privacy Policy and as required by applicable laws and regulations.
+
+7.2 OnePlus uses various management policies (such as establishing information security system; signing a confidentiality agreements with information management employees; allowing only work-related employees to access the information collected; and other similar policies) and security techniques and procedures (such as entering passwords before access, access control isolation, monitoring for computer use, etc.) to prevent the loss of information, improper use, and unauthorized reading or disclosure. For example, in some services, OnePlus uses encryption technology (such as SSL) to protect the personal information you provide. However, please understand that due to technical limitations and possible malicious means, it is impossible for any company providing Internet-related services to guarantee 100% security of information, even if all efforts are made to strengthen security measures. You need to understand that the systems and communication networks you use to access OnePlus services may be subject to problems that are beyond OnePlus’s control.
+
+7.3 If OnePlus is informed that the security of the data it has acquired and stored is compromised or the user's nonpublic information is disclosed to an unrelated third party due to external acts (such as cyber-attack), OnePlus will take reasonable actions (including but not limited to internal investigations, reporting and notification to law enforcement agencies, and cooperation with the law enforcement agencies) as it may consider appropriate, notwithstanding any disclaimer in this Policy. In parallel, OnePlus will take legal and reasonable steps as it deems appropriate to notify the relevant users, informing them of the information disclosed and the extent to which we are aware of such situations.
+
+7.4 Data cross-border transfer: your personal information may be transmitted and transferred across borders (regions), and stored and processed in the target country (region). Depending on the laws in your country and region, the receiving country and region of these data may not meet the requirements. We promise that we will have the right security measures to ensure that the protection level of data can meet the full requirements of the laws and regulations of your country and region.[2] 
+
+### 8\. Protection of minors’ personal information
+
+8.1 Our products and services are primarily designed for adults. Anyone who is identified to be a minor customer under the laws of the country in which (s)he is located must obtain the consent of his or her parents or guardians before using our products and services upon purchase.
+
+8.2 We value the privacy protection of minors and encourage parents to always play an active role in their child's online experience.
+
+### 9\. Third-party service
+
+9.1 This Privacy Policy does not apply to products and services provided by third parties. OnePlus products and services may include products and services from third parties, as well as links to third-party websites. When you use these third party products or services and personal information is collected and/or processed, the privacy policy of the third party shall apply.
+
+9.2 We are not responsible for how third parties collect, use, share, transfer and protect user's personal information, and cannot control how it is processed.
+
+9.3 To avoid any misunderstandings, please refer to this third party's service agreement and read its privacy policy.
+
+### 10\. Change and modification
+
+10.1 You may request a copy of this Privacy Policy from us using the contact details listed below. We may amend or update this Privacy Policy from time to time. You will be able to see our last updated privacy policy, along with its revision date. The revised privacy policy will take effect from the date of publication. Please check the Privacy Policy from time to time to confirm whether we have made any changes with reference to use of personal information.
+
+10.2 If any changes to this Privacy Policy have a material impact on your rights, we will take reasonable steps to notify you of such changes.
+
+### 11\. Notification and delivery
+
+11.1 Any notice from OnePlus will be sent to the email address, phone number, and/or mailing address left when you register for an account or purchase of OnePlus product, or pushed directly through mobile phone system. If sent via electronic methods, notice shall be deemed served when your device or the used electronic system receives the message; if sent by courier, it shall be deemed served on the third day after sending out.
+
+11.2 If you have any questions, comments, suggestions or doubts about this Privacy Policy or our products, please feel free to give us a feedback. Our contact:
+
+  * E-mail address: privacy@oneplus.com
+  * Postal address: F18, Block C, Tairan Building, Tairan 8th Road, Chegongmiao, Futian District, Shenzhen,China, Zip Code: 518040
 
 
-  * “Analytics” cookies (e.g. Google analytics cookies), which help us to determine the popularity and usage patterns of our web pages by collecting information about how visitors use our Site. Performance or analytics cookies cannot be used to identify you personally.
 
+11.3 OnePlus’s EU representative is OPlus Mobiletech UK Limited. You can contact our EU representative via the following methods:
 
-  * “User Convenience” cookies, which allow our Site to remember your choices or preferences, such as information on online forms or previous orders. These cookies allow Us to offer you a personalized experience while using the Site.
+Email address: eurepresentative@oneplus.com
 
+Last updated date: May 17, 2018.
 
+[1]. The definition of personal information may vary from country to country. The definition of personal information in this Privacy Policy mainly refers to that in the General Data Protection Regulations (GDPR in short), which will be implemented by the European Union on May 25, 2018. If some countries or regions have different definitions on personal information, the laws of these countries or regions shall be applied according to the specific circumstances. To maximize the protection of a user's personal information, we may process some non-personal information using the same protection standards as are used with personal information. If non-personal information is mixed with personal information, we will regard non-personal information as personal information. 
 
-You can change your Internet browser’s preferences (whether PC or mobile device) to disable or delete cookies, although that may affect certain functions on this site. To learn how to manage your cookies, please follow the instructions from your specific browser.
-
-**E.** _Flash Cookies_ : We may use Flash cookies to store Your preferences (e.g. volume control) or to display content based upon what You view on our site to personalize Your visit. Flash cookies are different from browser cookies because of the type and manner in which data is stored. Cookie management tools provided by your browser will not remove Flash cookies.
-
-**F.** _Email Communications_ : If You send Us an email with questions or comments, We may use Your PII to respond to Your questions or comments, and We may save your questions or comments for future reference. For security reasons, We do not recommend that You send non-public personal information, such as passwords, social security numbers, or bank account information, to us by email. However, aside from Our reply to such an email, we will not send You email unless: (1) you request a particular service or sign up for a feature that involves email communications, (2) We are sending you information about our Services, and/or (3) You consented to being contacted by email for a particular purpose.
-
-**G.** _Transfer of Assets_ : As We continue to develop our business, We may sell or purchase assets. If another entity acquires us or all (or substantially all) of our assets, the PII and Non-PII We have about You will be transferred to and used by this acquiring entity, but will continue to be subject to these terms until further notice is provided regarding any changes. Also, if any bankruptcy or reorganization proceeding is brought by or against us, all such information may be considered an asset of Ours and as such may be sold or transferred to third parties.
-
-**H.** _Children, Parental Consent, and Privacy_ : The Site is not directed toward children under age 13. We do not knowingly collect information from anyone under age 13. If We find out that We have collected information from a child under age 13, We will delete that information immediately.
-
-**I.** _Social Media Links_ : The Site may integrate with social media services (e.g. Facebook) using features or tools which let you voluntarily share Your activities or opinions related to the Services on such social media services. These features and/or tools may enable the sharing of information with the public, depending on the settings you establish with the social media service provider. These features/tools may collect your IP address and a record of the page(s) You visit, and may also attempt to install a cookie (see 4.D, above) or similar file. Your use of these features/tools is governed by the terms of Section 6 of this Privacy Policy.
-
-**J.** _Advertising_ : We may use or allow third-party companies to generate advertisements on the Site. Such companies may use cookies (see Section 4.D) or similar technologies to tailor the advertisements you see on the Site and to track your response (if any) to their advertisement. The cookies do not contain or generate any PII.
-
-**K.  ** _Do Not Track_ : The Site itself may not respond to web browser-based “do not track” signals.
-
-**L.  ** _Other_ : Notwithstanding anything herein to the contrary, We reserve the right to disclose any PII or Non-PII about You if We are required to do so by law, with respect to copyright or other intellectual property infringement claims, or if We believe that such action is necessary to: (1) fulfill a government request; (2) conform with the requirements of the law or legal process; (3) protect or defend our legal rights or property, our Site, or other users; or (4) in an emergency to protect the health and safety of our Site’s users or the general public.
-
-**5\. Your Rights and Choices**
-
-**A.  ** _Marketing Communications_ : If you do not wish to receive marketing-oriented email communications from Us You may express your choice where indicated on the applicable email or other communication, or via email to the contact information provided below in this Privacy Policy.
-
-**B.  ** _Other Collection, Use, and Disclosure:_ You may be able to opt-out of certain portions of our collection, use, and disclosure of your Personal Information in other situations subject to applicable contractual, legal or technical restrictions and reasonable notice. Note that if You opt-out of certain uses of your Personal Information, We may no longer be able to provide certain products or services. For more information on your ability to opt-out, please contact us at the contact information provided below in this Privacy Policy.
-
-**6\. Information Security  
-**We have implemented security measures that We consider to be reasonable and appropriate to protect against the loss, misuse and/or alteration of the information under Our control. Please be advised, however, that We cannot guarantee or warrant the security of any information you disclose or transmit to Us and/or to the Site online, and We are not responsible for the theft, destruction, or inadvertent disclosure of your PII or Non PII in any circumstances.
-
-**7\. Third Party Sites  
-**We are not responsible for the privacy practices and/or security practices employed by any third party website or service, including but not limited to any such sites or services that may be linked to or referred to in any way on the Site.
-
-**8\. Contact Information  
-**You may contact Us as provided below if: (a) You have questions or comments about our Privacy Policy; (b) You wish to make corrections to any PII you have provided; (c) You have voluntarily submitted your contact information to Us, and You want to opt-out from receiving future correspondence, including emails, from Us or our affiliated companies, and/or (d) You wish to contact Us in connection with any provision set forth in this Privacy Policy or the Terms. We will respond to Your request and, if applicable and appropriate, make the requested changes as soon as reasonably practicable. Please note that We may not be able to fulfill certain requests while allowing you access to certain benefits, features and services offered on or through our Site.
-
-[info@oneplussystems.com  
-](mailto:info@oneplussystems.com)847-498-0955
+[2]. OnePlus is a company headquartered in China. When we entrust partners around the world to provide customers with our products and services, we disclose some personal information to our partners. For example, our call center services provider outside China is a US-based company, which has call centers in Philippines to serve EU and other customers. When we provide users’ personal data to our call center provider, its staff working in the US and Philippines process the users’ personal information at the same time. OnePlus online store has commissioned different partners to operate in different countries and regions. For example, the Netherlands online store commissioned Reflection Investment BV to operate, and online stores of other EU countries and regions commissioned Dasheng International Trade CO. Limited to operate. OnePlus is the data controller of all OnePlus online store. Our partners may change due to business needs. Consequently, the target countries of transnational transfer of personal information may also change. 
