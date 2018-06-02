@@ -1,25 +1,22 @@
-> *The following text is extracted and transformed from the sparkletowels.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118063144id_/https%3A//gp.com/Footer/Legal/Privacy-Notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparkletowels.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602061527id_/https%3A//gp.com/Footer/Legal/Privacy-Notice) for the most accurate reproduction.*
 
-# Georgia-Pacific Privacy Notice
+# Privacy-Notice | Georgia-Pacific
 
-UPDATED JUNE 19, 2015
-
-[Privacy Notice In Spanish](https://web.archive.org/Footer/Legal/Privacy-Notice-Spanish)
+[Privacy Notice In Spanish](https://web.archive.org/legal/legal-notices/notificacion-de-privacidad-de-georgia-pacific)
 
 #### Navigation links:
 
   * How We Collect Information
   * How We Use Your Information
   * Your California Privacy Rights
-  * Your Choices 
-  * Safe Harbor Privacy Notice
+  * Your Choices
   * Targeted Advertising Opt-Out
 
 
 
 Your privacy is important to us. This Privacy Notice details how we, Georgia-Pacific LLC and our subsidiaries, affiliates, and partners may collect, use, and share information about you as you use our Internet services. Our Internet services include:
 
-  * our [websites](https://web.archive.org/Footer/Legal/Privacy-Sites)
+  * our [websites](https://web.archive.org/legal/gp-websites)
   * our online advertisements and promotions
   * our online communications with you
   * our mobile applications
@@ -27,7 +24,7 @@ Your privacy is important to us. This Privacy Notice details how we, Georgia-Pac
 
 
 
-The following sections summarize our practices. You may click the links in each section for a more complete description. Please also review our [Terms of Use,](https://web.archive.org/Footer/Legal/Terms-of-Use) which govern your use of our Internet services. If there is a conflict between this Privacy Notice and terms or practices posted for a specific service, the additional terms or practices apply to your use of that service.
+The following sections summarize our practices. You may click the links in each section for a more complete description. Please also review our [Terms of Use,](https://web.archive.org/legal/legal-notices/terms-of-use) which govern your use of our Internet services. If there is a conflict between this Privacy Notice and terms or practices posted for a specific service, the additional terms or practices apply to your use of that service.
 
 #### Information we collect
 
@@ -56,7 +53,7 @@ We offer you certain choices about how we collect, use, and share information ab
 
 
 
-### Information Practices
+## Information Practices
 
 #### How We Collect Information
 
@@ -166,7 +163,7 @@ Any information, communications, or material of any type or nature that you subm
 
 We offer you certain choices about what information we collect from you, how we use and share the information, and how we communicate with you. We do not charge for opt out service. To help protect your privacy and security, we may take reasonable steps to verify your identity, such as requiring a password and user ID.
 
-You may opt out of (i) sharing your personal information with third parties for those parties' own purposes, (ii) using your personal information to provide you with information or offers; and (iii) receiving newsletters, emails or other communications by clicking [here](mailto:gpcomfeedback@gapac.com?subject=Georgia-Pacific:%20Privacy%20Question) or writing to:
+You may opt out of (i) sharing your personal information with third parties for those parties' own purposes, (ii) using your personal information to provide you with information or offers; and (iii) receiving newsletters, emails or other communications by clicking [here](mailto:privacy@gapac.com?subject=Georgia-Pacific:%20Privacy%20Question) or writing to:
 
 Georgia-Pacific LLC  
 Attention: Privacy Office  
@@ -199,28 +196,6 @@ Our services may link to other services that we do not control, including to soc
 
 We maintain certain administrative, technical and physical safeguards to help protect against loss, misuse or unauthorized access, disclosure, alteration, or destruction of your personal information. However, no electronic data transmission or storage of information can be completely secure. We cannot ensure or warrant the security of any information you transmit to us or that we acquire. Accordingly, you must use our services at your own risk.
 
-#### European Users
-
-If you are located in the European Economic Area, please visit our [Safe Harbor Privacy Notice](https://web.archive.org/Footer/Legal/Safe-Harbor) to learn how you can exercise and amend your choices.
-
-The following Georgia-Pacific subsidiaries and affiliates are certified under the U.S. Commerce Department's Safe Harbor privacy framework for the collection, storage, transfer, use and other processing of consumer, customer, supplier, and other personal information transferred from the European Economic Area and Switzerland to the United States:
-
-  * Georgia-Pacific LLC 
-  * Georgia-Pacific Building Products LLC 
-  * Georgia-Pacific Chemicals LLC 
-  * Georgia-Pacific Gypsum LLC 
-  * Georgia-Pacific Wood Products LLC 
-  * Georgia-Pacific Corrugated LLC 
-  * Georgia-Pacific Containerboard LLC 
-  * Georgia-Pacific Consumer Products LP 
-  * Dixie Consumer Products LLC 
-  * GP Cellulose, LLC 
-  * GP Harmon Recycling LLC
-
-
-
-Please click [here](https://web.archive.org/Footer/Legal/Safe-Harbor) to view our Safe Harbor Privacy Notice.
-
 #### Consent to Transfer and Processing of Your Personal Information
 
 We operate our services in the United States and in other countries and we may transfer your information to the United States or other countries for storage and processing. By using the sites, or providing us with any information, you consent to the collection, processing, maintenance, and transfer of such information in and to the United States and other countries in which the privacy laws may not be as comprehensive as those in your country of residence or citizenship.
@@ -243,7 +218,7 @@ Please review our Privacy Notice periodically, as we may change it at any time a
 
 #### How to Contact Us
 
-If you have any questions or comments about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by clicking [here ](mailto:gpcomfeedback@gapac.com?subject=Georgia-Pacific:%20%20Privacy%20Question)or writing to: 
+If you have any questions or comments about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by clicking [here](mailto:privacy@gapac.com?subject=Georgia-Pacific:%20%20Privacy%20Question) or writing to: 
 
 Georgia-Pacific LLC  
 Attention: Privacy Office  
@@ -251,4 +226,4 @@ P.O. Box 105605
 Atlanta, GA 30348  
 USA
 
-Last updated: May 14, 2015
+Last updated: June 19, 2015
