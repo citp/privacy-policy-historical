@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the dubai-online.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001191957id_/http%3A//www.dubai-online.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubai-online.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602100555id_/https%3A//www.dubai-online.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dubai Online
 
 ## Introduction
 
-This page sets out the privacy policy (“Privacy Policy”) of Dubai Online (“We”, “Us”, and “Our”) and explains how We use the data and personal information provided by you (“You” or “Your”) when using this website http://www.dubai-online.com/ (the “Website”). Dubai Online is committed to protecting and respecting Your privacy, and informing You how we use the data and personal information We hold about You.
+This page sets out the privacy policy (“Privacy Policy”) of Dubai Online (“We”, “Us”, and “Our”) and explains how We use the data and personal information provided by you (“You” or “Your”) when using this website https://www.dubai-online.com/ (the “Website”). Dubai Online is committed to protecting and respecting Your privacy, and informing You how we use the data and personal information We hold about You.
 
-This Privacy Policy forms part of and is incorporated into our [Terms and Conditions](http://www.dubai-online.com/terms-conditions/ "Website Terms and Conditions") (the “Terms”). By accessing the Website, for whatever purpose, You agree to fully accept these Terms and the Privacy Policy. If You do not agree with these Terms, and/or Our Privacy Policy, do not use the Website.
+This Privacy Policy forms part of and is incorporated into our [Terms and Conditions](https://www.dubai-online.com/terms-conditions/ "Website Terms and Conditions") (the “Terms”). By accessing the Website, for whatever purpose, You agree to fully accept these Terms and the Privacy Policy. If You do not agree with these Terms, and/or Our Privacy Policy, do not use the Website.
 
-The Website uses cookies. By using the Website You consent to Our use of cookies in accordance with this Privacy Policy and Our [Cookie Policy](http://www.dubai-online.com/cookie-policy/ "Website Cookie Policy").
+The Website uses cookies. By using the Website You consent to Our use of cookies in accordance with this Privacy Policy and Our [Cookie Policy](https://www.dubai-online.com/cookie-policy/ "Website Cookie Policy").
 
 This Privacy Policy only applies to this Website. If You leave this Website via a link or otherwise (for example, an advert) to another website, You will be subject to the privacy policy and terms and conditions of that website. We have no control over the privacy policy or the terms and conditions of that website and you should check these before continuing to use that website.
 
@@ -73,10 +73,4 @@ Dubai Online
 Bolton BL1 5ES  
 United Kingdom
 
-10 December 2013
-
-  * [Facebook](https://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.dubai-online.com%2Fprivacy-policy%2F)
-  * [Twitter](http://twitter.com/share?url=http%3A%2F%2Fwww.dubai-online.com%2Fprivacy-policy%2F)
-  * [Google Plus](https://plus.google.com/share?url=http%3A%2F%2Fwww.dubai-online.com%2Fprivacy-policy%2F)
-
-
+02 June 2018
