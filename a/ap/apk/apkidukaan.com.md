@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apkidukaan.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224124039id_/http%3A//apkidukaan.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apkidukaan.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602111126id_/http%3A//apkidukaan.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Apkidukaan
 
