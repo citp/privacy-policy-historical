@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the click-4games.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122115109id_/http%3A//www.click-4games.com/page/Privacy%2520Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the click-4games.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602045311id_/http%3A//www.click-4games.com/page/Privacy%2520Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Click 4 Games High Quality Flash Games
 
