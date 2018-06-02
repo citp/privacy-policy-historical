@@ -1,135 +1,110 @@
-> *The following text is extracted and transformed from the windrawwin.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223201700id_/http%3A//www.windrawwin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windrawwin.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602101051id_/http%3A//www.windrawwin.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy - WinDrawWin.com
 
 This privacy policy sets out how WinDrawWin.com uses and protects any information that you give WinDrawWin.com when you use this website.
 
-WinDrawWin.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+WinDrawWin.com is committed to ensuring that your privacy is protected. All information stored when using this website will only be used in accordance with this privacy statement.
 
-WinDrawWin.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 27th April 2012.
+WinDrawWin.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 24th April 2018.
+
+[](http://www.windrawwin.com/bet365/bet-credits/)
+
+## What We Collect
 
 We may collect the following information when you use our website:
 
-  * contact information including email address (only if you volunteer to provide this yourself)
-  * demographic information including your country of residence
-  * statistical information about the pages you are viewing, by use of Google Analytics
-  * other information relevant to WinDrawWin.com competition entries and the WinDrawWin member and forum sections
+  * Demographic information, namely the country from which you are viewing our website
+  * Statistical information about the pages you are viewing, by use of Google Analytics
+  * Preferences and settings - for example your odds style preference, mobile or desktop preference, and your consent (or not) for us to use cookies.
 
 
 
-## WHAT WE DO WITH THE INFORMATION WE GATHER
-
-We require the information described above to understand your needs and provide you with a better service, and in particular for the following reasons:
-
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * We may require you to provide information in order to register for certain parts of our website such as our member and forum sections.
-
-
-
-If you receive information from WinDrawWin.com via email, we will always provide you with the option of opting out from any future correspondence if you wish.
-
-## SECURITY
+## Security
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-## EU REGULATIONS ON COOKIES
+## How WinDrawWin Uses Cookies
 
-WinDrawWin is operated from the United Kingdom, and therefore we have to comply with UK and European Union (EU) laws. All websites operated in the EU have to comply with these laws to protect your privacy.
-
-There are several laws and directives that we abide by with regards to privacy and cookies. We want to make sure that as a user of our website you are fully aware of the laws that protect you as a user.
-
-The following background gives you an overview of the legal framework that is in place for all websites operated in the European Union. This background is taken from the United Kingom Information Commissioner's Office (<http://www.ico.gov.uk/>). The ICO have provided updated guidance on the latest legal framework as of May 2012 (<http://www.ico.gov.uk/news/blog/2012/updated-ico-advice-guidance-e-privacy-directive-eu-cookie-law.aspx>). The legal history below has led to current guidance:
-
-  * The Privacy and Electronic Communications (EC Directive) Regulations 2003 (the Regulations) cover the use of cookies and similar technologies for storing information, and accessing information stored, on a user's equipment such as their computer or mobile.
-  * The 2003 Regulations implemented a European Directive - 2002/58/EC
-  * In 2009 this Directive was amended by Directive 2009/136/EC.
-  * This included a change to Article 5(3) of the E-Privacy Directive requiring consent for storage or access to information stored on a subscriber or users terminal equipment – in other words a requirement to obtain consent for cookies and similar technologies.
-  * Governments in Europe had until 25 May 2011 to implement these changes into their own law. The UK introduced the amendments on 25 May 2011 through The Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2011.
-
-
-
-Reference:  
-(May 2012) Information Commissioner's Office (ICO). Guidance on the rules on use of cookies and similar technologies v3   
-[http://www.ico.gov.uk/news/blog/2012/~/media/documents/library/Privacy_and_electronic/ Practical_application/cookies_guidance_v3.ashx](http://www.ico.gov.uk/news/blog/2012/~/media/documents/library/Privacy_and_electronic/Practical_application/cookies_guidance_v3.ashx)
-
-## HOW WINDRAWWIN USES COOKIES
+We use cookies to personalise content and advertisements to make our website relevant to you, and to analyse our traffic. We also use cookies to ensure that our website is legally compliant with laws and regulations in different countries and regions of the world. For example, we may be restricted from showing you links to certain sportbooks where these companies do not have a licence to operate in your country.
 
 A cookie is a small text file which is placed on your computer's hard drive when you visit websites.
 
-Almost all websites use cookies. Cookies are used to help analyse web traffic, store your preferences (for example you might specify you want a list of information always sorted alphabetically), and track the path of your visit to a website from page to page to assist in cacheing and performance when you visit a particular site. Cookies allow websites to respond to you as an individual. The web site can tailor its operations to your needs, likes and dislikes by remembering information about your preferences.
+Almost all websites use cookies. Cookies are used to help analyse web traffic, store your preferences, and track the path of your visit to a website from page to page to assist in cacheing and performance when you visit a particular site. Cookies allow websites to respond to you as an individual. The web site can tailor its operations to your needs, likes and dislikes by remembering information about your preferences.
 
 WinDrawWin uses cookies to identify which pages are being used. This helps us analyse data about our traffic and improve our website in order to tailor it to customer needs. We use this information for statistical analysis purposes, in particular Google Analytics.
 
-Overall, cookies help us provide you with a better website, by enabling us to see which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any specific and personal information about you, other than the data you choose to share with us (for example through registering with our forum or member section).
+Overall, cookies help us provide you with a better website, by enabling us to see which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any specific and personal information about you, other than the data you choose to share with us.
 
-## YOUR AGREEMENT TO ALLOW WINDRAWWIN TO SET COOKIES
+## Your Agreement To Allow WinDrawWin To Set Cookies
 
-You have probably been directed to this page from our message at the top of the WinDrawWin website, otherwise you might have arrived at this page from a search engine query.
+We are required by relevant laws and directives to inform you that WinDrawWin uses cookies and we are required to gain your consent to allow us to place cookies on your device. This is why we have explicitly placed a message about the use of cookies on our website pages to direct you to this page to make you fully aware of how our website operates.
 
-We are required by the above laws and directives to inform you that WinDrawWin uses cookies and we are required to gain your consent to allow us to place cookies on your device. This is why we have explicitly placed a message about the use of cookies on our website pages to direct you to this page to make you fully aware of how our website operates.
+We have explained below the types of cookie that we may set (with your consent), and the names of cookies themselves and what their purpose is.
 
-To quote the United Kingdom ICO Guidance (see <http://www.ico.gov.uk/>):  
-"Those setting cookies must:
+## What To Do If You Do No Want Cookies
 
-  * tell people that the cookies are there,
-  * explain what the cookies are doing, and
-  * obtain their consent to store a cookie on their device."
+You can choose to accept or decline cookies through your browser, or for our website only. Most web browsers automatically accept cookies by default, but you can usually modify your browser settings to decline cookies if you prefer. If you would like to learn more about how to manage the acceptance of cookies on your own browser or device, please visit <http://www.aboutcookies.org/default.aspx>
 
-
-
-The changes we have put in place at WinDrawWin.com endeavour to comply with all of these guidance points and all guidance provided by the United Kingdom Information Commissioner's Office. If you feel that WinDrawWin.com does not comply with this guidance then please contact us at legal@windrawwin.com and we will listen to and address any concerns. 
-
-WinDrawWin is open and honest about all cookies that are set by our website. We have therefore explained below the types of cookie set, and the names of cookies themselves and what their purpose is.
-
-With regards to your consent for us to store cookies on your device, we have set out a lot of information on this page to guide you through what cookies are, how they are used, and what they are used for. We have provided you as a user with background on the law and links to resources where you can find out more about the law regarding your privacy.
-
-We have introduced an alert notice on our website pages that clearly informs all users that cookies are set by our website, and by continuing to use our website you therefore provide us consent to use cookies.
-
-If you wish that this alert notice is no longer shown, then please click the accept button and it will not display. We will not display the alert notice by means of setting a cookie on your device that tells us not to show the alert again (we have no other practical way of identifying your preference to not show the alert than setting a cookie). If you happen to clear your cookies, or have software installed that clears your cookies and browsing history for you, then this alert will continue to display.
-
-If you do not wish to have WinDrawWin or cookies associated with our website set on your device then you can choose to not use our website.
-
-If you wish to use our website and block any cookies that are set by ourselves or our advertisers, then you can do this by following the instructions below to configure your browser or device's software to block cookies. As you will probably be aware, people can now use the Internet by using a multitude of devices such as computers, phones, televisions, tablets, and other devices, and each of these devices may use different software and Internet browsers. We have therefore provided the link below that explains in detail how to manage cookies through most of the popular Internet browser software.
-
-We must stress however that cookies set by WinDrawWin are not malicious, they do not harm your computer or allow us to access other files on your computer, or collect any information that is private and personal to you as an individual.
-
-Instead, WinDrawWin sets cookies that help improve your experience on our website. For example, we use cookies to track our visitor statistics to see which pages are most popular, or which pages need improving. We use cookies to store from which region and country you are browsing our website from so that we can tailor the information we display to you, and we set cookies to keep you logged in to our forum and member sections. There are some parts of our website that you will not be able to use if you block cookies. For example, you will not be able to use our forum or member section if your browser is set to not accept cookies.
-
-## WHAT TO DO IF YOU DO NOT WANT COOKIES
-
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies if you prefer. This may prevent you from taking full advantage of certain websites, including WinDrawWin.com. If you would like to learn more about how to manage the acceptance of cookies on your own browser or device, please visit <http://www.aboutcookies.org/default.aspx>
+## Types Of Cookie
 
 While using WinDrawWin.com you may have one or two different types of cookie set on your device. These are 1st Party and 3rd Party Cookies and are now explained.
 
-## 1ST PARTY COOKIES
+## 1st Party Cookies
 
-1st party cookies are cookies that are set and used by WinDrawWin.com. These cookies help us tailor and improve your experience at WinDrawWin and help us implement functionality such as the WinDrawWin member section. Below you will find a full list of the 1st party cookies that WinDrawWin uses:
+1st party cookies are cookies that are set and used by WinDrawWin.com.
+
+The cookies listed below are necessary cookies (unless otherwise specified) that help make our website usable by enabling basic functions like page navigation, content display, our own legal obligations to show or not show you content, and your preferences. The website cannot function properly without these cookies.
+
+Below you will find a full list of the 1st party necessary cookies that WinDrawWin uses:
 
 Cookie Name| Purpose  
 ---|---  
-r | This is a cookie that stores the region of the world that you are browsing our website from. For example, Europe. This cookie helps us tailor our content to users from that region.  
-c | This is a cookie that stores the country in the world that you are browsing our website from. For example, UNITED KINGDOM. This cookie helps us tailor our content to users from that country.  
-n | This is a cookie that stores the number of times that WinDrawWin.com has attempted to determine your country. For example, 1. This cookie helps us tailor our content to users from that country and helps us to stop trying to determine your country if we cannot do so.  
-member | This is a cookie that is only used if you log into our member section, which is entirely optional. You cannot log into our member section without accepting this cookie because its purpose is to store your member ID and random session string. This enables us to identify that you are logged in and have authenticated with your username and password. This cookie contains no information that can identify you as an individual to anyone else that might view this cookie.  
-cookieallow | This is a cookie that stores a Y or N value that indicates whether you have clicked the accept cookies message at the top of all WinDrawWin pages. This allows us to not show the cookie message at the top of the page if you have already clicked accept  
-wwf10sID  
-wwf10Ivisit  
-wwf10sLID | These cookies are used for our WinDrawWin Forum. The WinDrawWin forum operates on software purchased from another supplier, namely WebWiz Forums (http://www.webwiz.co.uk/web-wiz-forums/). We have listed the cookies that our forum sets to the best of our knowledge through testing the forum software and viewing which cookies it sets. These cookies are used to maintain your login to the forum and any preferences while using the forum. If you do not wish our forum to set cookies on your machine then unfortunately you cannot join our forum and should avoid any pages under the folder http://www.windrawwin.com/forum/ . If you wish to learn more about WebWiz Forum privacy, please visit http://www.webwiz.co.uk/legal/privacy-statement.htm  
-ASPSESSIONID | Cookie that begin with ASPSESSIONID are integral to the programming language that our website is coded in. These cookies help our web server establish that you are the same user when you browse from page to page (i.e. they help our web server identify your 'session'. Session cookies are almost always deleted when you exit your browser and are only meant to help our web server identify your session while you browse our website, and help you by performing actions such as cacheing pages that you might visit multiple times within the same session.  
+c | This is a cookie that stores the country in the world that you are browsing our website from. For example, UNITED KINGDOM. This cookie helps us tailor our content to users from that country, for example to ensure that we only display content to you that is legally allowed in your country.  
+r | This is a cookie that stores the region of the world that you are browsing our website from. For example, Europe. This cookie helps us tailor our content to users from that region and serves the same purpose as the country cookie above.  
+o | This is a cookie that stores your odds style preference - fractional or decimal. This enables us to show odds on our website in your preferred format. By default this cookie is not set. It is only set if you explicitly choose a different setting on our settings page.  
+i | This is an optional cookie that stores a yes/no value to tell us whether we have shown you a home page interstitial advertisement. If you do not consent to us storing cookies you will not receive this cookie. We occasionally (but not all the time) promote a time bound offer or event on our home page. We use this cookie to ensure that we only show you this advertisement once in each 24 hour period, so not to reduce the user experience on our home page. If this cookie is not set then any advertisment will display on every visit to the home page.  
+desktop | This is a cookie that stores your display preference - desktop or mobile. This enables you to view our website in its mobile responsive format (default) or our full width desktop version of the website. By default this cookie is not set. It is only set if you explicitly choose a different setting on our settings page.  
+cookieconsent | This is a cookie that stores a yes or no value that indicates whether you have consented to the setting of cookies by WinDrawWin. This cookie allows us to not set unnecessary cookies on your device if you have withdrawn your consent  
+ASPSESSIONID | Cookies that begin with ASPSESSIONID are integral to the programming language that our website is coded in. These cookies help our web server establish that you are the same user when you browse from page to page (i.e. they help our web server identify your 'session'. Session cookies are almost always deleted when you exit your browser and are only meant to help our web server identify your session while you browse our website, and help you by performing actions such as cacheing pages that you might visit multiple times within the same session.  
   
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+## 3rd Party Cookies
 
-## CONTROLLING YOUR PERSONAL INFORMATION
+These cookies are set by other companies and organisations that WinDrawWin works with, or uses software provided by.
+
+WinDrawWin also partners with a number of organisations and other websites to provide you content. For example, we display the latest free bet offers from a number of external companies.
+
+The cookies that these companies may set while you use WinDrawWin.com are termed 3rd Party Cookies because they are not directly set by WinDrawWin.com, but are instead set by the external company.
+
+Below you will find a list of the 3rd Party organisations that WinDrawWin.com works with.
+
+Cookie(s)| Organisation| Cookie and Privacy Policy  
+---|---|---  
+_utma  
+_utmb  
+_utmc  
+_utmt  
+_utmz  
+_gat  
+_ga  
+_gid| Google | These cookies are used for Google Analytics. WinDrawWin tracks visitor statistics through the use of Google Analytics, as do most websites, and these cookies are required to enable us to count the number of visitors to our website and analyse general and global statistics about our visitors. Doing this helps us improve WinDrawWin and tailor our content to provide you the best user experience. We have taken steps to configure our Google Analytics so that Google will not store any data about you that can personally identify you. For example, we anonymise your IP address in Google Analytics, and we do not define any URLs on our website that contain data that is personal to you, and therefore will not be stored by Google.  
+[Google Cookie and Privacy Policy](http://www.google.com/policies/privacy/)  
+  
+## Links To Other Websites
+
+Our website may contain links to other websites of interest. However, once you have clicked these links to leave our site, you should note that we do not have any control over these external websites. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+## Controlling Your Personal Information
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
-  * whenever you are asked to fill in a form on the website, these forms are always optional and you can decline to provide any information
-  * if you have previously agreed to us using your personal information, for example providing us with your agreement to use your email address to send you WinDrawWin emails and offers, you may change your mind at any time by writing to or emailing us at administrator@windrawwin.com
+  * By withdrawing your consent for us to set unnecessary cookies on your device, as defined above.
+  * By contacting us in writing at data@windrawwin.com and excercising your legal rights for the protection of any data that we may store that relates to you (at present, as detailed above, we no longer store any personal information about individuals in our systems or databases)
 
 
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+If, at any time in the future we collect personal information (with your consent), we will not sell, distribute or lease personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. If you would like a copy of the information held on you please email administrator@windrawwin.com. If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+By law, you may request details of personal information which we hold about you. At present we do not hold any information that personally identifies any individual.
+
+If you would like to contact us, please email data@windrawwin.com. If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
