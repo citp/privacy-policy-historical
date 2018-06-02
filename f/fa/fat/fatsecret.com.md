@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fatsecret.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128123453id_/http%3A//www.fatsecret.com/Default.aspx%3Fpa%3Dpriv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatsecret.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602034739id_/http%3A//fatsecret.com/Default.aspx%3Fpa%3Dpriv) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,4 +46,7 @@ FatSecret users may modify or remove any of their personal information at any ti
 
 * **Contacting FatSecret**
 
-If you have any questions about this privacy statement or FatSecret please contact us at: [privacy@FatSecret.com](mailto:privacy@fatsecret.com). 
+If you have any questions about this privacy statement or FatSecret please contact us at:  
+Email: [privacy@FatSecret.com](mailto:privacy@fatsecret.com)  
+Company Name: Secret Industries Pty Ltd (trading as FatSecret)  
+Company Address: Level 1, 1B Cromwell Street, Caulfield North, 3161, Victoria, Australia 
