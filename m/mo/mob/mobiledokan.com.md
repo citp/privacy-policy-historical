@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the mobiledokan.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204071838id_/http%3A//www.mobiledokan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiledokan.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602060832id_/http%3A//www.mobiledokan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MobileDokan
 
-This Privacy Policy governs the manner in which MobileDokan collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.mobiledokan.com/ website (“Site”). This privacy policy applies to the Site and all services offered by MobileDokan.
+This Privacy Policy governs the manner in which MobileDokan.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.mobiledokan.com/ website (“Site”). This privacy policy applies to the Site and all services offered by MobileDokan.com.
 
 ## **Web browser cookies**
 
-Our Site or programs used within our site (such as Google Adsense, Google Analytics etc.) may use “cookies” to collect user/visitor data to analyse ad performance, serving banner ads that are relevant to your interest, to analyse traffic, enhance user experience and to protect your data. A cookie is a small piece of text sent to your browser when you visit our website. This will record information about your visit which will help us serve more relevant and interesting content and ads to you. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent.
+Our Site or programs used within our site (such as Google Adsense, Google Analytics etc.) may use “cookies” to collect user/visitor data to analyze ad performance, serving banner ads that are relevant to your interest, to analyze traffic, enhance user experience and to protect your data. A cookie is a small piece of text sent to your browser when you visit our website. This will record information about your visit which will help us serve more relevant and interesting content and ads to you. A user may choose to set their web browser to refuse cookies or to alert you when cookies are being sent.
+
+Additionally, if you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
 ## **Google Adsense**
 
@@ -14,32 +16,34 @@ Some of the ads may be served by Google. Google’s use of the DART cookie enabl
 
 ## **Personal identification information**
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site.. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+We don’t have any contact form, Email newsletter subscription form or transaction form on our website. The only way to identify your personal information on our site is via the comment you make. This includes the name you provide, your Email address and the comment you make. See the “Comments” section below for more information.
 
 ## **Non-personal identification information**
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+We may collect non-personal identification information about Users whenever they interact with our Site via Google Analytics, Google Adsense and Google Tag Manager. Non-personal identification information may include the browser name, the type of device, country, operating system and the Internet service provider and similar technical information of the Users. The Users remains anonymous to us when they send non-personal information via those third-party services and MobileDokan.com do not have any way to identify the Users via non-personal identification information.
 
 ## **How we use collected information**
 
-MobileDokan may collect and use Users personal information for the following purposes:
+MobileDokan collects only non-personal information:
 
-– To improve customer service  
-Information you provide helps us respond to your customer service requests and support needs more efficiently.  
-– To personalize user experience  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
-– To improve our Site  
-We may use feedback you provide to improve our products and services.  
-– To send periodic emails  
-We may use the email address to respond to their inquiries, questions, and/or other requests.
+– To improve our Site and provide a more personalized user experience  
+We use the non-personal identification information to understand our user’s needs and to fix technical errors on our site.
 
 ## **How we protect your information**
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+We use a username, secure password, website firewall and other advanced security measures to protect our website and any data you may provide to us.
 
 ## **Sharing your personal information**
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+MobileDokan.com do not sell, trade, rent or share any of your information for any purpose. Third-party programs like Google Analytics may analyze your non-personal information.
+
+## **Comments**
+
+When you make a comment on our site, your name, Email and content are saved on our site. We do not use this information for any purpose. Third-party service Akismet anti-spam also checks your comments for spam and may save them in their server. You may send an Email to mail(at)mobiledokan(dot)com and request to delete your comment, name and Email address. We will try to delete it from our database and site within 48 hours and notify you via Email once it is done.
+
+## **What data breach procedures we have in place**
+
+We don’t collect any sensitive data such as Address, credit card information, date of birth, ID card etc. from Users hence, we don’t have any procedure for a data breach.
 
 ## **Changes to this privacy policy**
 
@@ -54,6 +58,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 mail(at)mobiledokan(dot)com
 
-**This document was last updated on July  27, 2015**
+**This document was last updated on May 24, 2018**
 
 Dec 1, 2014
