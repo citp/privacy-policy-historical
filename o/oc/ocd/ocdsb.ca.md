@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ocdsb.ca privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222023751id_/http%3A//www.ocdsb.ca/about_us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocdsb.ca privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602231455id_/http%3A//www.ocdsb.ca/about_us/privacy) for the most accurate reproduction.*
 
 # Privacy - Ottawa-Carleton District School Board
 
@@ -12,6 +12,6 @@ The management of personal information collected by the OCDSB is done in accorda
 
 The OCDSB follows provincial legislation to protect the privacy of an individual's personal information. Upon request, individuals can access their personal information and will be given access to that information in accordance with privacy legislation, subject to any mandatory or discretionary exceptions.
 
-The Municipal Freedom of Information and Protection of Privacy Act (MFIPPA) outlines the process for the public to access specific information from the school district. You can make a freedom of information request (FOI) by following a prescribed set of steps. You will need to complete some documentation, and pay a mandatory $5 application fee.  Depending on the request and the amount of time required to search and prepare the records, there may be a cost in addition to the application fee. 
+The Municipal Freedom of Information and Protection of Privacy Act (MFIPPA) outlines the process for the public to access specific information from the school district. You can make a freedom of information request (FOI) by following a prescribed set of steps. You will need to complete some documentation, and pay a mandatory $5 application fee.  Fees can be paid in cash or by cheque payable to the OCDSB.  Applications and fee payment can be submitted to Michele Giroux, Executive Officer, 133 Greenbank Road, Ottawa, ON K2H 6L3.  Depending on the request and the amount of time required to search and prepare the records, there may be a cost in addition to the application fee. 
 
 [Make an FOI request​](http://ocdsb.ss13.sharpschool.com/cms/One.aspx?portalId=55478&pageId=1119277 "Make an FOI request​")
