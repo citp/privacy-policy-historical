@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the findnsave.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202071937id_/http%3A//www.findnsave.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findnsave.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602181338id_/http%3A//www.findnsave.com/privacy) for the most accurate reproduction.*
 
 # Find&Save | Privacy Policy
 
-## Last Updated: March 1, 2016
+## Last Updated: December 11, 2017
 
 Protecting your privacy is really important to FindnSave. Accordingly, we're providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive when you use our Services (as defined in our Terms of Service, accessible at [www.findnsave.com/terms](https://web.archive.org/terms/)). This Privacy Policy applies only to those services and Apps included within “Services” and doesn't apply to any third-party websites, services or applications, even if they are accessible through our Services. 
 
@@ -102,4 +102,4 @@ Any information that we collect is subject to the privacy policy in effect at th
 
 ## Questions?
 
-Please contact us at FindnSave Inc., 100 Los Gatos-Saratoga Rd., Suite A, Los Gatos, CA 95032 or via email at [support@findnsave.com](mailto:support@findnsave.com) if you have any questions about our Privacy Policy. 
+Please contact us at OwnLocal Inc., 205 W. 9th Street, Austin, TX 78701 or via email at [support@findnsave.com](mailto:support@findnsave.com) if you have any questions about our Privacy Policy. 
