@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scambusters.org privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006012927id_/https%3A//www.scambusters.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scambusters.org privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602035632id_/https%3A//www.scambusters.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy.html
 
@@ -62,8 +62,18 @@ If you are a California resident and our customer, Cal. Civ. Code § 1798.83 per
 
 _Simply Smarter, Inc. * 207 New Market Center #115 * Boone NC 28607 USA_
 
-## 14\. TELL US WHAT YOU THINK.
+## 14\. General Data Privacy Regulation (GDPR)
+
+The GDPR takes effect on May 25, 2018, and is intended to protect the data of European Union (EU) citizens.
+
+As a company that markets its site, content, products and/or services online we do not specifically target our marketing to the EU or conduct business in or to the EU in any meaningful way. If the data that you provide to us in the course of your use of our site, content, products and/or services is governed by GDPR, we will abide by the relevant portions of the Regulation.
+
+If you are a resident of the European Economic Area (EEA), or are accessing this site from within the EEA, you may have the right to request: access to, correction of, deletion of; portability of; and restriction or objection to processing, of your personal data, from us. This includes the “right to be forgotten.”
+
+To make any of these requests, please contact our GDPR contact at GDPR@scambusters.org
+
+## 15\. TELL US WHAT YOU THINK.
 
 We want to know what you think. Simply Smarter Inc. welcomes any questions or comments you may have about privacy. Please send us an email at privacy at svr.com.
 
-This policy was last updated on 9-15-2014.
+This policy was last updated on 5-21-2017.
