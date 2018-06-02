@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchyellowdirectory.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118020437id_/http%3A//www.searchyellowdirectory.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchyellowdirectory.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602230648id_/http%3A//www.searchyellowdirectory.com/privacy) for the most accurate reproduction.*
 
 # Privacy - SearchYellowDirectory.com
 
@@ -23,6 +23,17 @@ We may collect the following information:
 
 
 Note: Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You may set your browser to refuse to accept cookies but doing so may limit your ability to access certain portions of the site or may require you to re-enter your user name and password. Additionally we may not be able to customize the site's features according to your preferences.
+
+Cookies and Google Adsense
+
+SearchYellowDirectory does not collect or store cookies. However we do use information collected by the user browser to hold on to information, such as city and state location. This provides the user with better targeted landing pages. We do display Google Adsense which serves cookies to deliver its services, to personalize ads and to analyze traffic. Information about your use of this site is shared with Google. As of May 25, 2018 there is a new General Data Protection Regulation (GDPR). We have updated our privacy policies in order to conform with the new regulations. By using this site, you agree to its use of cookies.
+
+[About Cookies](https://cookiesandyou.com/)
+
+[Google's Opt out of Interest-Based Ads](https://support.google.com/ads/answer/2662922?hl=en)
+
+**When does AdSense send cookies to a browser?**  
+Google AdSense sends a cookie to the user's browser after any impression, click, or other activity that results in a call to Google servers. If the browser accepts the cookie, the cookie is stored on the browser. Most commonly, AdSense sends a cookie to the browser when a user visits a page that shows Google ads. Pages with Google ads include ad tags that instruct browsers to request ad content from Google servers. When the server delivers the ad content, it also sends a cookie. But a page doesn’t have to show Google ads for this to happen; it just needs to include Adsense ad tags, which might load a click tracker or impression pixel instead. [How does AdSense use cookies?](https://support.google.com/adsense/answer/7549925?hl=en)
 
 What we do with the information we gather:
 
@@ -64,4 +75,4 @@ Please contact us through our [Feedback](https://web.archive.org/feedback/) page
 
 We may update this privacy policy from time to time, so please check back often.
 
-January 2, 2012.
+May 25, 2018.
