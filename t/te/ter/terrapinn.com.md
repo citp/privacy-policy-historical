@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the terrapinn.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213083024id_/http%3A//www.terrapinn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terrapinn.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602024724id_/https%3A//www.terrapinn.com/privacy) for the most accurate reproduction.*
 
 # Terrapinn privacy
 
 This privacy policy applies to the use of all websites operated by Terrapinn Holdings Limited ("Terrapinn") on which it appears ("Websites"). References to "we", "our" and "us" are references to Terrapinn.
 
-Terrapinn is committed to safeguarding the privacy of the users of the Websites, while providing a service which is tailored to suit your needs. Please take a moment to read our Privacy Policy as it (together with Terrapinn's [terms and conditions](http://www.terrapinn.com/terms-and-conditions "Terrapinn terms & conditions")) sets out the basis on which any personal information Terrapinn collects from you, or that you provide to Terrapinn, will be processed by Terrapinn. By visiting any of the Websites you are agreeing with the practices described in this Privacy Policy.
+Terrapinn is committed to safeguarding the privacy of the users of the Websites, while providing a service which is tailored to suit your needs. We endeavour to ensure that all information from which you can be identified ("Personal Information") provided to, or otherwise obtained by, us is handled in accordance with the UK Data Protection Act 1998, from 25 May 2018 the EU General Data Protection Regulation (which will replace the Data Protection Act 1998) and all similar or related legislation (the "Data Protection Legislation"). Please take a moment to read our Privacy Policy as it (together with Terrapinn's [general terms and conditions](http://www.terrapinn.com/terms-and-conditions "Terrapinn terms & conditions")) sets out the basis on which any Personal Information Terrapinn collects from you, or that you provide to Terrapinn, will be processed by Terrapinn. By visiting any of the Websites you are agreeing with the practices described in this Privacy Policy.
 
 Terrapinn reserves the right to change the terms of this Privacy Policy from time to time. Terrapinn will post any changes on this page. Please check back to see any updates.
 
 If you do not agree to the terms of the Privacy Policy or any changes to it, please do not use or access (or continue to use or access) the Websites and/or Terrapinn's services.
 
-For the purpose of the Data Protection Act 1998 (the "Act"), the data controller is Terrapinn Holdings Limited of Wren House, 43 Hatton Garden, London, EC1N 8EL, United Kingdom.
+For the purpose of the Data Protection Legislation, the data controller is Terrapinn Holdings Limited of Wren House, 43 Hatton Garden, London, EC1N 8EL, United Kingdom in respect of any Personal Information that you provide to us or we otherwise obtain about you.
 
 ### 1\. What information does Terrapinn hold about you and how is it collected?
 
@@ -28,9 +28,9 @@ If you, for example:
 
 on or via any of the Websites, some or all of your personal information (including your name, job title, job function, company's name, telephone, fax and mobile numbers, postal and email address, the industry you work in and your area of interest) may be collected by Terrapinn. We also collect personal information from you when you contact us (by email or otherwise).
 
-In addition, and in common with many other websites and online services, we may use "cookies" to store and sometimes track information about you, such as your Internet Protocol (IP) address. A cookie is a small amount of data sent from the server which is stored on your PC's hard drive. You can set your browser to refuse cookies or ask your browser to show you where cookies have been set up. Certain services are only activated by the presence of a cookie and, if you choose to reject the cookie, a particular on-line feature may not be available to you. You can learn more about cookies here.
+In addition, and in common with many other websites and online services, we may use "cookies" to store and sometimes track information about you, such as your Internet Protocol (IP) address. A cookie is a small amount of data sent from the server which is stored on your PC's hard drive. You may see a message on our Websites before we store a cookie on your computer which describes the types of cookies we use and what information they might collect. We may also use banners and pop-ups from time to time to give you options around cookies use. You can also set your browser to refuse cookies or ask your browser to show you where cookies have been set up. Please note however that certain services are only activated by the presence of a cookie and, if you choose to reject the cookie, a particular on-line feature may not be available to you. You can learn more about cookies here.
 
-We use the following cookies:
+A cookie in no way gives us access to your computer or any information about you, other than information about how you use the Websites and the data you choose to share with us (including data you automatically share with us by way of your browser settings). We use the following cookies:
 
   * **Strictly necessary cookies**. These are cookies that are required for the operation of our Websites. They include, for example, cookies that enable you to log into secure areas of our website, use a shopping cart or make use of e-billing services.
   * **Analytical/performance cookies**. They allow us to recognise and count the number of visitors and to see how visitors move around the Websites when they are using it. This helps us to improve the way the Websites work, for example, by ensuring that users are finding what they are looking for easily.
@@ -45,9 +45,7 @@ Cookie | Cookie Type | Purpose | More information
 ---|---|---|---  
 Google Analytics / Adwords | Analytical/ Performance / Targeting | 
 
-Google Analytics is a web analytics service provided by Google, Inc. Google Analytics sets cookies in order to allow us to evaluate and report on the use of our website. It is widely used across the web and all data is anonymised meaning the cookies carry no personally identifiable information. These cookies help us to understand our visitor's behaviour and allow us to make improvements to better our user's experience.
-
-Terrapinn may use Google Analytics for the following purposes:
+Google Analytics is a web analytics service provided by Google, Inc. Google Analytics sets cookies in order to allow us to evaluate and report on the use of our website. It is widely used across the web and all data is anonymised meaning the cookies carry no personally identifiable information. These cookies help us to understand our visitor's behaviour and allow us to make improvements to better our user's experience. Terrapinn may use Google Analytics for the following purposes:
 
   * Remarketing (serving ads on 3rd party websites). Terrapinn and 3rd-party vendors, including Google, use cookies to serve and target ads based on past visits and interactions with our website.
   * Google Display Network Impression Reporting. Terrapinn and 3rd-party vendors use cookies to understand and report on how ad impressions, interactions with ads and other ad services are related to visits to our website.
@@ -63,7 +61,7 @@ When you first visit a Terrapinn website, a third party cookie from eloqua.com i
 Although this cookie does not contain any personal information about you specifically, if you choose to fill out a form on our site then we will link your personal information (including but not limited to what operating system you are using, IP address, cookie information, time stamp, and clickstream information) to the browsing information associated with the Eloqua cookie on your browser. This information is only gathered while you are on Terrapinn websites but cannot and will not gather information about other third party sites that you have visited.
 
 | [more information](https://www.oracle.com/marketingcloud/products/marketing-automation/index.html)  
-Doubleclick | Targeting | Terrapinn use Doubleclick to make advertising more relevant to our customers and prospectus, improve reporting on campaign performance, and avoid showing ads that the web visitor has already seen. No personally identifiable information is stored by DoubleClick in the cookie. | [More information on Doubleclick cookies](https://support.google.com/adsense/answer/2839090?hl=en-GB)  
+Doubleclick | Targeting | Terrapinn use Doubleclick to make advertising more relevant to our customers and prospectus, improve reporting on campaign performance, and avoid showing ads that the web visitor has already seen. No personally identifiable information is stored by DoubleClick in the cookie. | [More information on Doubleclick cookies](https://support.google.com/dfp_premium/answer/2839090?hl=en)  
 Lead Forensics | Analytical / Targeting | We may use Lead Forensics for identifying the companies that visit Terrapinn websites. Lead Forensics uses IP address data that is available in the public domain. We cannot see which individual has visited the website as no personally identifiable information is captured. | For more information on Lead Forensics cookies, please refer to [Lead Forensics' Privacy Policy](https://www.leadforensics.com/privacy-and-cookies/).  
 Facebook, Twitter and LinkedIn | Analytical / Targeting | We use social media cookies and pixels to show our customers, prospects and web visitors personalized ads both on and off social media platforms, including interest-based targeting and remarketing. Some of our pages use social media buttons or feeds. Social media platforms may set a number of cookies for these components. | For more information on social media cookies, please visit: 
 
@@ -92,9 +90,17 @@ We may also collect information about your visit, including the full Uniform Res
 
 You may opt out of the Google Analytics Display Advertiser Features through Ads Settings in your Google Account. You may also opt out of Google Analytics [using this browser ad-on](https://tools.google.com/dlpage/gaoptout/ "GA opt-out")
 
-### 2\. What does Terrapinn do with your personal information?
+### 2\. 2 Personal Information that we receive from other sources
 
-All of the personal information described above will be stored on Terrapinn's user database (unless you notify us that you no longer wish us to retain such information, in which case it will be deleted). Terrapinn will only use your personal information in order to contact you (for example by email, mail or telephone) for those purposes to which you have previously consented on the site. For example, if you register on the site, Terrapinn will email to you Terrapinn's newsletter and, if you wish, contact you about relevant products and services offered by Terrapinn or by reputable third parties. Terrapinn will also contact you to market its products and/or services where it has obtained your details in the course of a sale of any of its products or services. If you do not wish to receive information about Terrapinn's and/or third parties' products and services, please tick the relevant box on the registration form when you register or, subsequently, via the "edit my profile" button at the bottom of the home page. You may cancel your subscription to Terrapinn's newsletter at any time by clicking on the link at the foot of any edition of the newsletter or marketing communication.
+We may collect Personal Information about you from publically available sources (either ourselves or via third parties) in connection with our legitimate business interests.
+
+We may also receive information from third parties who collect Personal Information from you and pass it on to us. To the extent necessary, the third party collecting this data is responsible for obtaining the relevant consents from you to ensure you are happy with the ways in which your Personal Information will be used.
+
+### 3\. What does Terrapinn do with your personal information?
+
+We will only use your Personal Information (including information we receive from other sources) in the following ways (depending on the types of information): (i) so that we can perform a contract with you; (ii) for the purposes of legal compliance; and (iii) for the purposes of our legitimate business interests (namely to carry out and improve our business, analyse the use of our Websites and services and support our customers and Website users).
+
+All of the Personal Information described above will be stored on Terrapinn's user database (unless you notify us that you no longer wish us to retain such information, in which case it will be deleted). Terrapinn will only use your Personal Information in order to contact you (for example by email, mail or telephone) for those purposes to which you have previously consented on the site or where we otherwise have a right to do so. For example, if you register on the site, Terrapinn will email to you Terrapinn's newsletter and, if you wish, contact you about relevant products and services offered by Terrapinn or by reputable third parties. Terrapinn will also contact you to market its products and/or services where it has obtained your details in the course of a sale of any of its products or services. If you do not wish to receive information about Terrapinn's and/or third parties' products and services, please leave the relevant box on the registration form unticked when you register or, subsequently, via the "subscription preferences" link at the bottom of the home page. You may cancel your subscription to Terrapinn's newsletter at any time by clicking on the link at the foot of any edition of the newsletter or marketing communication.
 
 Should you request us to amend or suppress records containing your information we will endeavour to do so as promptly as practical, however you may receive communications for a transitional period while we process the records.
 
@@ -109,9 +115,9 @@ Terrapinn will also use the information which you provide in aggregate form (i.e
 
 In addition, Terrapinn will use your information to notify you about changes to our services.
 
-Terrapinn will also use the personal information collected from your use of the Websites to administer the Websites and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes, to improve our site to ensure that content is presented in the most effective manner for you and for your computer, to allow you to participate in interactive features of our service, when you choose to do so, as part of our efforts to keep the Websites safe and secure, to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you, and to make suggestions and recommendations to you and other users of our site about goods or services that may interest you or them.
+Terrapinn will also use the Personal Information collected from your use of the Websites to administer the Websites and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes, to improve our site to ensure that content is presented in the most effective manner for you and for your computer, to allow you to participate in interactive features of our service, when you choose to do so, as part of our efforts to keep the Websites safe and secure, to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you, and to make suggestions and recommendations to you and other users of our site about goods or services that may interest you or them.
 
-### 3\. Keeping your personal information up to date
+### 4\. Keeping your personal information up to date
 
 We take all reasonable action to ensure that the information we collect and use is accurate, complete and up-to-date.
 
@@ -122,39 +128,43 @@ However, the accuracy of the information depends to a large extent on the inform
 
 
 
-### 4\. To whom is your personal information disclosed?
+You have the right to see the Personal Information we hold about you and to ask us to: (a) make any changes to ensure that any Personal Information we hold about you is accurate and up to date; (b) erase or stop processing any Personal Information we hold about you where there is no longer a legal ground for us to hold it; or (c) transfer any information we hold about you to a specified third party. If you wish to do this, please contact us using the contact details set out at section 9 below.
 
-Each Terrapinn entity will share your personal information with the other members of its group which means its subsidiaries, ultimate holding company and its subsidiaries and (provided that you have not ticked the opt-out box on the registration form) will make your name and postal address available to reputable third parties so that they can send you details of their products and services.
+### 5\. To whom is your personal information disclosed?
 
-In supplying Terrapinn with your personal information, you agree that Terrapinn may transfer that information (to the extent that it is still held on our database at the relevant time) to a third party who acquires all or substantially all of any Terrapinn entity's assets or stock or our Website services whether by merger, acquisition, reorganisation or otherwise.
+Each Terrapinn entity will share your Personal Information with the other members of its group which means its subsidiaries, ultimate holding company and its subsidiaries and (provided that you consented to receiving marketing from such third parties) will make your name and postal address available to reputable third parties so that they can send you details of their products and services.
 
-Terrapinn will also share your personal information with selected third parties including business partners, suppliers and sub-contractors for the performance of any contract it enters into with them or you, and/or, to the extent you have consented, advertisers and advertising networks that require your data to select and serve relevant adverts to you and others.
+In supplying Terrapinn with your Personal Information, you agree that Terrapinn may transfer that information (to the extent that it is still held on our database at the relevant time) to a third party who acquires all or substantially all of any Terrapinn entity's assets or stock or our Website services, or to a third party which we purchase or from which we acquire substantially all of its assets or stock, in each case whether by merger, acquisition, reorganisation or otherwise.
 
-### 5\. Transfers of personal information overseas
+Terrapinn will also share your Personal Information with selected third parties including business partners, suppliers and sub-contractors for the performance of any contract it enters into with them or you, and/or, to the extent you have expressly consented (by ticking the relevant box on the registration form), to advertisers and advertising networks that require your data to select and serve relevant adverts to you and others.
 
-As the internet is a global environment, the personal information that we collect from you will likely be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. This includes staff engaged in, among other things, the fulfilments of any of your orders, the processing of your payment details and the provision of support services. By submitting your personal information, you acknowledge this transfer, storing or processing. We will take the appropriate technical and organisational measures to ensure that your data are treated securely.
+In addition, it may be necessary to disclose your Personal Information if we are under a duty to disclose your Personal Information in order to comply with any legal obligation, enforce our [terms and conditions](http://www.terrapinn.com/terms-and-conditions "Terrapinn terms & conditions") and any other agreement, or protect the rights, property, or safety of Terrapinn, Terrapinn's group companies and our contractors, directors, employees or other personnel. This includes exchanging information with other companies and organisations for the purposes of fraud protection and prevention.
 
-### 6\. When does this Privacy Policy not apply?
+### 6\. Transfers of personal information overseas
 
-This Privacy Policy only applies to the collection and use of data by Terrapinn. It does not cover third party sites to which we provide links. Those sites may have their own privacy policies. Please check these policies before you submit any personal information to these websites.
+As the internet is a global environment, the Personal Information that we collect from you will likely be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. This includes staff engaged in, among other things, the fulfilments of any of your orders, the processing of your payment details and the provision of support services. By submitting your Personal Information, you acknowledge this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your Personal Information is treated securely and in accordance with this Privacy Policy and the Data Protection Legislation when it is processed in, or other accessed from, a location outside the EEA. This means that we will only transfer your Personal Information to third parties outside the EEA if that third party (a) is situated in a country that has been confirmed by the European Commission to provide adequate protection to Personal Information, or (b) has agreed (by way of written contract) to provide all protections to your Personal Information as required by the Data Protection Legislation.
 
-### 7\. How do we protect your information?
+### 7\. When does this Privacy Policy not apply?
 
-Terrapinn is committed to data security and will take the appropriate technical and organisational measures to ensure that your personal information is treated securely. If you subscribe to access our premium content (and, accordingly, enter payment details), Terrapinn offers the use of a secure server. The secure server software encrypts all information which you input before it is sent to Terrapinn.
+This Privacy Policy only applies to the collection and use of data by Terrapinn. It does not cover third party sites to which we provide links. Those sites may have their own privacy policies. Please check these policies before you submit any Personal Information to these websites.
 
-Terrapinn takes steps to guard against unauthorised access to the personal information of the users of the Websites. Although it makes every effort to create a secure environment for your personal information, Terrapinn cannot guarantee the safety of any personal information which is transmitted to us on-line and/or via email as, unfortunately, the transmission of information via the internet is not completely secure. Although Terrapinn will take appropriate technical and organisational measures to protect your personal information, any transmission is at your own risk. Once we have received your information, we will use appropriate technical and organisational measures to try to prevent unauthorised access.
+### 8\. How do we protect your information?
+
+Terrapinn is committed to data security and will take the appropriate technical and organisational measures to ensure that your Personal Information is treated securely. If you subscribe to access our premium content (and, accordingly, enter payment details), Terrapinn offers the use of a secure server. The secure server software encrypts all information which you input before it is sent to Terrapinn.
+
+Terrapinn takes steps to guard against unauthorised access to the Personal Information of the users of the Websites. Although it makes every effort to create a secure environment for your Personal Information, Terrapinn cannot guarantee the safety of any Personal Information which is transmitted to us on-line and/or via email as, unfortunately, the transmission of information via the internet is not completely secure. Although Terrapinn will take appropriate technical and organisational measures to protect your Personal Information, any transmission is at your own risk. Once we have received your information, we will use appropriate technical and organisational measures to try to prevent unauthorised access.
+
+We will only keep your Personal Information for as long as we reasonably require and, in any event, only for as long as the Data Protection Legislation allows.
 
 Where Terrapinn has given you (or where you have chosen) a password which enables you to access certain parts of the Websites, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
-### 8\. How can you access personal information held by Terrapinn about you?
-
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request will be subject to a fee of £10 to meet Terrapinn's costs in providing you with details of the information we hold about you.
-
 ### 9\. Contacting us
 
-If you have any questions or concerns about Terrapinn's use of your personal information, please email Andrew Ewer at [compliance.ct@terrapinn.com](mailto:compliance.ct@terrapinn.com) or write to him at
+If you have any questions or concerns about Terrapinn's use of your Personal Information, please email Andrew Ewer at [compliance.ct@terrapinn.com](mailto:compliance.ct@terrapinn.com) or write to him at
 
 Terrapinn Holdings Limited,  
 Wren House, 43 Hatton Garden,  
 London EC1N 8EL,  
 United Kingdom.
+
+Should you wish to take any complaints or queries further, you have the right to contact the Information Commissioner's Office regarding such issues.
