@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gomotors.net privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203170754id_/http%3A//gomotors.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomotors.net privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604015734id_/http%3A//gomotors.net/privacy) for the most accurate reproduction.*
 
 # Privacy - Photos, News, Reviews, Specs, Car listings
 
@@ -47,7 +47,7 @@ You may, of course, decline to submit personally identifiable information throug
 
 To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times. 
 
-Please contact GoMotors with any questions or comments about this Privacy Notice, your personal information, your consent, or your opt-in or opt-out choices by emailing [gomotors.net@gmail.com](mailto:gomotors.net@gmail.com)
+Please contact GoMotors with any questions or comments about this Privacy Notice, your personal information, your consent, or your opt-in or opt-out choices by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#60070f0d0f140f12134e0e051420070d01090c4e030f0d)
 
 ### Third-party Advertisers, Links to Other Website
 
@@ -61,7 +61,7 @@ You should consult the respective privacy policies of these third-party ad serve
 
 GoMotors uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to GoMotors and you do so at your own risk. Once we receive your transmission of information, GoMotors makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. 
 
-If GoMotors learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. GoMotors may post a notice on the GoMotors Website if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using [gomotors.net@gmail.com](mailto:gomotors.net@gmail.com). 
+If GoMotors learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. GoMotors may post a notice on the GoMotors Website if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6601090b09120914154808031226010b070f0a4805090b). 
 
 ### Our Commitment To Childrens' Privacy
 
@@ -83,4 +83,4 @@ For revisions to this Privacy Notice that may be materially less restrictive on 
 
 ### Contact Information
 
-Please contact GoMotors with any questions or comments about this Privacy Notice at [gomotors.net@gmail.com](https://web.archive.org/web/20171203170754id_/http://gomotors.net/privacy/gomotors.net@gmail.com)
+Please contact GoMotors with any questions or comments about this Privacy Notice at [[email protected]](https://web.archive.org/web/20180604015734id_/http://gomotors.net/privacy/gomotors.net@gmail.com)
