@@ -1,38 +1,40 @@
-> *The following text is extracted and transformed from the getsync.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507050926id_/http%3A//www.getsync.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getsync.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603142745id_/https%3A//www.resilio.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - BitTorrent
+# Resilio: Privacy Policy
 
-### Privacy Policy
+#### Privacy Policy
 
-Date of last revision February 28, 2015
+Date of last revision May 24, 2018
 
 * * *
 
-BitTorrent, Inc. (“BitTorrent”) is committed to respecting the privacy rights and concerns of all users of our websites (“Sites”), applications and services (collectively, the “Services”). As such, we have established and implemented this privacy policy to inform visitors to the Sites and users of the Services how we use and protect the information we collect. If you have any questions regarding this information or our privacy practices, please see the section entitled “Questions? Contact Us” at the end of this privacy policy.
+Resilio, Inc. ( **“Resilio”** ) is committed to respecting the privacy rights and concerns of all users of our websites ( **“Sites”** ), applications and services (collectively, the **“Services”** ). As such, we have established and implemented this privacy policy to inform visitors to the Sites and users of the Services how we use and protect the information we collect. If you have any questions regarding this information or our privacy practices, please see the section entitled **“Questions? Contact Us”** at the end of this privacy policy.
 
-### What information does BitTorrent, Inc. collect and how does BitTorrent use it?
+In this Privacy Policy, Resilio’s software called the “Resilio Client” application or the “Resilio Connect” application are sometimes collectively referred to hereunder as the “Resilio Client.” Resilio’s other applications, including, but not limited to, Connect Management Console and Connect Agents, are sometimes referred to hereunder as “Resilio’s Other Applications.” The Resilio Clients and Resilio’s Other Applications are sometimes collectively referred to as the “Software”. 
 
-###### How the BitTorrent Client Works
+### What information does Resilio, Inc. collect and how does Resilio use it?
 
-BitTorrent software (the “BitTorrent Client”) is a software application on your machine that manages downloads. It downloads files quickly by trading pieces with other users who are also downloading (or have downloaded) the same content. Your use of the BitTorrent Client to download files will, in turn, enable other BitTorrent users (or users of other clients that communicate using the BitTorrent protocol, including clients that are unaffiliated with BitTorrent, Inc.) to download pieces of those files from you. Although your IP address is associated with your piece of the file, other users will not have access to any other personal information about you.
+##### How the Resilio Client Works
 
-We do not track which files you transfer with the BitTorrent Client. Merely using the BitTorrent Client does not cause a record of which files you transfer to be kept by BitTorrent or BitTorrent on behalf of any third party.
+Resilio software (the **“Resilio Client”** ) is a software application on your machine that manages downloads. It downloads files quickly by trading pieces with other users who are also downloading (or have downloaded) the same content. Your use of the Resilio Client to download files will, in turn, enable other Resilio users to download pieces of those files from you. Although your IP address is associated with your piece of the file, other users will not have access to any other personal information about you.
 
-###### Gathering and Use of Non-personally Identifiable Information
+We do not track which files you transfer with the Resilio Client. Merely using the Resilio Client does not cause a record of which files you transfer to be kept by Resilio or Resilio on behalf of any third party.
 
-Each time a visitor comes to one of our Sites (including utorrent.com), we collect some limited information that your browser routinely makes available whenever you visit a website. We collect this data to improve the overall quality of the online experience, including product monitoring, product improvement, and targeted advertising. This information includes your Internet Protocol address, browser type, browser language, the date and time of your query and one or more cookies that may uniquely identify your browser.
+##### Gathering and Use of Non-personally Identifiable Information
 
-In addition to collecting these types of information, BitTorrent collects aggregate queries for internal reporting and targeted advertising. We also count, track, and aggregate the visitor's activity into our analysis of general traffic flows at our websites (e.g. tracking where traffic comes from, how traffic flows within the websites, etc.). To these ends, we may merge information about you into group data, which may then be shared on an aggregated basis with our advertisers; but BitTorrent will not disclose your individual identity or personal data without your permission.
+Each time a visitor comes to one of our Sites, we collect some limited information that your browser routinely makes available whenever you visit a website. We collect this data to improve the overall quality of the online experience, including product monitoring, and product improvement. This information includes your Internet Protocol address, browser type, browser language, the date and time of your query and one or more cookies that may uniquely identify your browser.
 
-In the event that you provide us with answers to voluntary survey questions, we may present this information to our advertisers and partners, in the form of grouped statistics compiled from our users’ answers to such questions.
+In addition to collecting these types of information, Resilio collects aggregate queries for internal reporting and targeted advertising. We also count, track, and aggregate the visitor's activity into our analysis of general traffic flows at our websites (e.g. tracking where traffic comes from, how traffic flows within the websites, etc.). Resilio will not disclose your individual identity or personal data without your permission.
 
-We also aggregate some data from the BitTorrent Client regarding total traffic flows and content delivery performance as well as other data collected in the use of our products or services in order to understand usability and monitor network conditions and compare the performance of BitTorrent and HTTP protocols on the public internet.
+In the event that you provide us with answers to voluntary survey questions, we may present this information to our partners, in the form of grouped statistics compiled from our users’ answers to such questions.
 
-We may also receive and collect information from your computer and browser, including your IP address, BitTorrent cookie information and software and hardware attributes. Additionally we may also collect information about your computer or mobile device, such as your device model, browser type, or sensors in your device like the accelerometer. BitTorrent uses such information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, conduct research, and provide anonymous reporting for internal and external clients.
+We also aggregate some data from the Resilio Client regarding total traffic flows and content delivery performance as well as other data collected in the use of our products or services in order to understand usability and monitor network conditions and compare the performance of Resilio and HTTP protocols on the public internet.
 
-###### Gathering and Use of Personally Identifiable Information
+We may also receive and collect information from your computer and browser, Resilio cookie information and software and hardware attributes. Additionally we may also collect information about your computer or mobile device, such as your device model, browser type, or sensors in your device like the accelerometer. Resilio uses such information for the following general purposes: to fulfill your requests for products and services, improve our services, conduct research, and provide anonymous reporting for internal and external clients.
 
-You may visit the Sites and use the BitTorrent Client and many of the Services without any registration at all. However, from time to time, we may enable certain additional functionality or services whereby you will have to create a user account, and we may collect and process the following information about you:
+##### Gathering and Use of Personally Identifiable Information
+
+You may visit the Sites and use the Resilio Client and many of the Services without any registration at all. However, from time to time, we may enable certain additional functionality or services whereby you will have to create a user account, and we may collect and process the following information about you:
 
   * information such as your name, address, phone number and e-mail address, and other demogaphic information (such as date of birth, gender, age, and interests) that you provide by completing forms on the Sites, including if you register as a user of the Services, subscribe to our mailing lists, upload or submit any material through the services, or request any information.
   * your log-in and password details in connection with the account sign-in process;
@@ -43,7 +45,7 @@ You may visit the Sites and use the BitTorrent Client and many of the Services w
 
 
 
-###### We will use the personal information you provide to:
+##### We will use the personal information you provide to:
 
   * identify you when you sign-in to your account;
   * enable us to provide you with the Services or to carry out your instructions (for example, to process payment information);
@@ -56,35 +58,33 @@ You may visit the Sites and use the BitTorrent Client and many of the Services w
 
 
 
-Publishers of BitTorrent Bundles receive or have access to the e-mail addresses of users who sign up for such Publisher's mailing list through the Services.
-
 We may also use e-mail addresses and other personally identifiable information from time to time in order to gather and provide to our members and visitors improved content and features.
 
-When you provide payment data for Sync Pro, we will store that data to help you complete future transactions when logged into your account, and you agree that (i) we have permission to retain the payment information and method, including all submitted debit and credit card information, submitted by you and your issuing bank or the applicable payment network; and (ii) we or our reseller (as applicable) are authorized to charge you for the subscriptions you select using the established payment method and the information you provide that is stored in your account as of the applicable date for payment.  You may remove the payment instrument information associated with your Sync Pro account by contacting us at [support.getsync.com/anonymous_requests/new](http://support.getsync.com/anonymous_requests/new). After you close your account or remove a payment instrument, however, BitTorrent will retain your payment instrument data for as long as reasonably necessary to complete your existing transaction, to comply with legal and reporting requirements, and for the detection and prevention of fraud.
+When you provide payment data, we will store that data to help you complete future transactions when logged into your account, and you agree that (i) we have permission to retain the payment information and method, including all submitted debit and credit card information, submitted by you and your issuing bank or the applicable payment network; and (ii) we or our reseller (as applicable) are authorized to charge you for the subscriptions you select using the established payment method and the information you provide that is stored in your account as of the applicable date for payment.  You may remove the payment instrument information associated with your Sync account by contacting us at <https://help.resilio.com/hc/en-us/requests/new?ticket_form_id=91563>. After you close your account or remove a payment instrument, however, Resilio will retain your payment instrument data for as long as reasonably necessary to complete your existing transaction, to comply with legal and reporting requirements, and for the detection and prevention of fraud.
 
 Notwithstanding any other term of this Privacy Policy, we may release any personal information we obtain or collect when we believe its release is appropriate to comply with the law, enforce our Site policies, or protect ours or others' rights, property, or safety.
 
-### Does BitTorrent use "cookies"?
+### Does Resilio use "cookies"?
 
-Cookies are small bits of electronic information that a web site can transfer to a visitor's hard drive to help tailor and keep records of his or her visit to the site. The use of cookies is standard on the Internet and many web sites use them. Cookies allow web site operators to better customize visits to the site to the visitor's individual preferences. For example, by setting a cookie you would not have to log in a password more than once, thereby saving time. We currently save password information in cookies. In addition, advertisements displayed on the BitTorrent websites or in the BitTorrent Client may contain cookies. Third party analytics, ad-serving and affiliate partners may set or have cookies set and access their cookies or local storage objects (flash cookies) on your computer, when you are using the BitTorrent Client or visiting a BitTorrent website and may collect information about your online activities across websites or online services. The third parties who serve our advertisements transfer cookies, and we do not control their use or content of their cookies and in many instances have no access to the information collected by them. Other companies' use of their cookies is subject to their own privacy policies, not this one. Some third parties who serve our advertisements may have collected information about your activities independently from us and match it to your IP address. You should consult the respective privacy policies of these third-party ad servers or ad networks. This Privacy Policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. If you wish to not have this information used for the purpose of serving you targeted ads, please visit the sites below for more information about the use of cookies or the use of user IDs or IP addresses and how to opt-out of them. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+Cookies are tiny text files that are stored on a user’s browser. Most cookies contain a unique identifier called a cookie ID: a string of characters that websites and servers associate with the browser on which the cookie is stored. This allows websites and servers to distinguish the browser from other browsers that store different cookies, and to recognize each browser by its unique cookie ID. The use of cookies is standard on the Internet and many web sites use them. Cookies allow web site operators to better customize visits to the site to the visitor's individual preferences. For example, by setting a cookie you would not have to log in a password more than once, thereby saving time. Third party analytics, ad-serving and affiliate partners may set or have cookies set and access their cookies or local storage objects on your computer, when you are using the Resilio Client or visiting a Resilio website and may collect information about your online activities across websites or online services. Other companies' use of their cookies is subject to their own privacy policies, not this one.
 
-Smartclip: <http://www.smartclip.com/privacy-policy>  
-Optimatic: <http://www.optimatic.com/Files/privacy.htm>  
-CPMStar: <http://server.cpmstar.com/optout.aspx>  
-<http://truoptik.com/privacy-policy>[  
-](http://truoptik.com/privacy-policy)<http://www.networkadvertising.org/managing/opt_out.asp>
+Although most Web browsers automatically accept cookies, you can usually change your browser to prevent that or to notify you when you are sent a cookie. Even without accepting a cookie, you can still access many, if not all, of the features of the Resilio websites or the Resilio Client. However, some parts of the Resilio websites or the Resilio Client may not function properly if you refuse cookies.
 
-Although most Web browsers automatically accept cookies, you can usually change your browser to prevent that or to notify you when you are sent a cookie. Even without accepting a cookie, you can still access many, if not all, of the features of the BitTorrent websites or the BitTorrent Client. However, some parts of the BitTorrent websites or the BitTorrent Client may not function properly if you refuse cookies.
+Google, as a third party vendor, uses cookies to serve ads for Resilio.com on other sites. Google’s use of cookies enables it to serve ads to users based on their visit to Resilio.com and other sites on the Internet. Users may opt out of the use of cookies by visiting the Google ad and content network privacy policy at the following URL: http://www.google.com/privacy_ads.html
 
-### Does BitTorrent disclose the information it collects from its visitors to outside parties?
+Resilio also uses 3rd party vendor re-marketing tracking cookies, including the Google Adwords tracking cookie. This means we will continue to show ads to you across the internet, specifically on the Google Content Network (GCN). As always we respect your privacy and are not collecting any identifiable information through the use of Google’s or any other 3rd party remarketing system. The third-party vendors, including Google, whose services we use – will place cookies on web browsers in order to serve ads based on past visits to our website. – Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website. This allows us to make special offers and continue to market our services to those who have shown interest in our service.You may opt out of Google’s use of cookies by visiting the Ads Preferences Manager. Also, you can opt out of other third-party vendor’s use of cookies by visiting the Network Advertising Initiative opt-out page. 
 
-BitTorrent does not sell, trade, or otherwise transfer outside the company personally identifiable information that visitors voluntarily provide for BitTorrent in any registration or use of the BitTorrent websites or the BitTorrent Client, except when it’s necessary to provide the Services (like when we partner with payment processors). This information is used to better understand visitors’ use of the features of the BitTorrent websites or the BitTorrent Client, to support related transactions made on or through the BitTorrent websites or the BitTorrent Client, and to better know our visitors and possibly tailor any specific features, promotions, advertisement or other notifications to them. However, this data in an aggregate form without any personally identifiable information may be provided to other parties for marketing, advertising, or other uses. Should you no longer wish to receive information from us, or should your information change, we have provided a way for you to correct, update or remove the personal data you gave us. You can do this simply by contacting us in any of the simple ways set forth below in the section entitled “How do you change the information we have for you?” If you sign up for the mailing list of a publisher of a BitTorrent Bundle, the e-mail address you submit will be provided to that publisher, whom we have no control over.
+We may utilize Google Analytics Suite in the collection, compilation and analysis of information regarding visitor behavior and visitor demographics on some of our Services, and to develop website content. This analytics data is not tied to any Personal Information. For more information about Google Analytics, please visit www.google.com/policies/privacy/partners/ . You can opt out of Google’s collection and Processing of data generated by your use of the Services by going to http://tools.google.com/dlpage/gaoptout. 
+
+### Does Resilio disclose the information it collects from its visitors to outside parties?
+
+Resilio does not sell, trade, or otherwise transfer outside the company personally identifiable information that visitors voluntarily provide for Resilio in any registration or use of the Resilio websites or the Resilio Client, except when it’s necessary to provide the Services (like when we partner with payment processors). This information is used to better understand visitors’ use of the features of the Resilio websites or the Resilio Client, to support related transactions made on or through the Resilio websites or the Resilio Client, and to better know our visitors and possibly tailor any specific features, promotions, advertisement or other notifications to them. However, this data in an aggregate form without any personally identifiable information may be provided to other parties for marketing, advertising, or other uses. Should you no longer wish to receive information from us, or should your information change, we have provided a way for you to correct, update or remove the personal data you gave us. You can do this simply by contacting us in any of the simple ways set forth below in the section entitled **“How do you change the information we have for you?”**
 
 Finally, we may disclose your personally identifiable information upon a transfer or sale to another entity of all or substantially all of our assets or equity securities or upon any other corporate reorganization.
 
-### BitTorrent’s special note to parents
+### Resilio’s special note to parents
 
-In compliance with the 1998 Children's Online Privacy Protection Act (COPPA), the Sites are general audience websites, and do not knowingly collect, nor will it ever knowingly retain, personally identifiable information from any visitor BitTorrent actually knows to be under thirteen years of age without the consent of that child's parent or legal guardian.
+In compliance with the 1998 Children's Online Privacy Protection Act (COPPA), the Sites are general audience websites, and do not knowingly collect, nor will it ever knowingly retain, personally identifiable information from any visitor Resilio actually knows to be under thirteen years of age without the consent of that child's parent or legal guardian.
 
 ### How do you change the information we have for you?
 
@@ -100,13 +100,14 @@ By visiting the website or using the applications and/or services, you consent t
 
 ### Questions? Contact us
 
-###### If you have any questions about our privacy practices, please do not hesitate to write to us at:
+##### If you have any questions about our privacy practices, please do not hesitate to write to us at:
 
 Privacy Matters  
-c/o BitTorrent, Inc.  
-303 Second St. Suite S600  
-San Francisco, California 94107
+c/o Resilio, Inc. 59 Grant Ave, Suite 300, San Francisco, CA 94108 
+
+You can also file a ticket with support by going to:  
+https://help.resilio.com/hc/en-us/requests/new?ticket_form_id=91563 and use subject “Privacy” or GDPR (if question/comment is GDPR related) 
 
 ### End User License Agreements and Terms and Conditions
 
-Please also read any applicable End User License Agreements and/or Terms and Conditions that apply to individual BitTorrent applications and services.
+Please also read any applicable End User License Agreements and/or Terms and Conditions that apply to individual Resilio applications and services.
