@@ -1,76 +1,64 @@
-> *The following text is extracted and transformed from the englandrugby.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215004024id_/http%3A//www.englandrugby.com/about-the-rfu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the englandrugby.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603163212id_/http%3A//www.englandrugby.com/about-the-rfu/privacy-policy) for the most accurate reproduction.*
 
 # RFU - About the RFU
 
-This statement discloses the privacy policy for [www.englandrugby.com](http://www.rfu.com/), the official website of the Rugby Football Union. 
+###  Data Protection
 
-The Rugby Football Union (RFU) is committed to protecting your privacy and ensuring a secure online experience. In general, you can view this site and all the latest news and results without telling us who you are or revealing any information about yourself. Sometimes, however, the RFU needs to monitor website usage to help it to develop the website and our services. 
+As the national governing body for rugby union in England and operator of Twickenham Stadium, the RFU processes a large amount of personal data, including data from fans, participants and third parties.  
+Much of this data is used in order to safeguard the game for all participants.
 
-### Collection of Personal Information
+The RFU wants to use this data in a way which is fair and transparent.   
+The two Privacy Notices available below explain what data is used and why.
 
-The RFU offers certain functions and services which, if you choose to use them, will require information from you in order to work, such as your name, email, address and mobile telephone number. The RFU will endeavour to let you know before your personal information is collected from you on the internet.
-
-### Use of Personal Information
-
-### Primary Purposes
-
-We use personal information for five primary purposes: 
-
-  * To perform the services you have requested (such as administering your subscription to a free online service or processing orders from the Rugby Store)
-  * To make the site easier for you to use by not making you enter your personal information more than once
-  * To help you find what you're looking for quickly
-  * To help us create and deliver content most relevant to you
-  * To alert you to new services, special offers, and other info, unless you have indicated otherwise
+  * [The Regulatory and Governance Privacy Notice](https://web.archive.org/mm/Document/AboutRFU/General/01/32/98/23/RFURegulatoryandGovernanceNotice_English.pdf) sets out what data is used and why for regulatory and governance reasons as a result of the RFU’s role as national governing body. 
+  * [The England Rugby Privacy Notice](https://web.archive.org/mm/Document/AboutRFU/General/01/32/98/21/EnglandRugbyPrivacyNotice_English.pdf) sets out what data is used and why for fans and visitors to Twickenham Stadium and other RFU events.
 
 
 
-The RFU is very much aware that some people will not want their information used other than for the purposes for which it was supplied; some will want to receive information from the RFU on rugby issues only and others will want to receive more information.
+[The Game Management System Privacy Notice](https://web.archive.org/mm/Document/AboutRFU/General/01/32/98/22/GMSPrivacyNotice_English.pdf) also explains how the RFU, clubs, constituent bodies and referee societies use data entered into the Game Management System.
 
-The RFU will use your personal data for the administration of the game, but will give you the choice as to what information if any you wish to receive by email.
+Use of www.englandrugby.com and other websites operated by the RFU is subject to our [cookie policy](http://www.englandrugby.com/about-the-rfu/privacy-policy/#cookies).
 
-In connection with commercial information, the categories have been divided into three groups, namely:
+The General Data Protection Regulation(GDPR) will also apply to clubs, constituent bodies and referee societies.  
+The RFU has provided guidance for the game in the form of a [GDPR toolkit](https://web.archive.org/governance/club-support/gdpr/) and associated documents.  
+These can be found in the [GDPR for rugby clubs section](http://www.englandrugby.com/governance/club-support/gdpr/).
 
-  * Products and commercial services available from the RFU, its companies and RFU subsidiaries - these include Twickenham Experience Limited, England Rugby Travel Limited, Rugby Store and other RFU entities
-  * Products and services available from RFU official sponsors - these sponsors will be listed on the RFU website and, regularly, in Touchline
-  * Products and services available from RFU official sponsors’ subsidiary or associate companies - the RFU will not be able to list these entities
-
-
-
-The RFU has decided that for the first two categories you should be able to ‘Opt Out’ of receiving the information, but that for the third category you will only receive it if you ‘Opt In’.
-
-The RFU will not use (or pass to any third party) contact data on children under the age of 14 for any commercial mailing purposes.
-
-### Processing Your Data
-
-If you choose to give us personal information to process an order or provide you with a subscription to a free service then this will be held and processed by the RFU in accordance with the Data Protection Act 1998. The RFU may also need to transfer your personal information to its agents or sub-contractors who will process it on the RFU's behalf.
-
-### Providing you with information
-
-The RFU may use your personal information to supply you with information about the RFU and/or its related organisations, and new (unless you have indicated otherwise) services offered to the game, as well as their respective activities and ranges of goods, services and opportunities (and otherwise where you have given your consent). 
-
-The RFU may also use your personal information for general statistical purposes. We also keep track of the domains from which users visit and analyse this data:
-
-  * For trends and statistics and to evaluate the efficiency of our website and our internet infrastructure
-  * To ensure that services offered (such as, but not limited to, chat and forums) are not abused
-
-
-
-We may also use your information for detection of fraud and market research purposes.
-
-### Business relationships
-
-The RFU website contains links to other websites. The RFU is not responsible for the privacy practices or the content of external websites. 
+The GDPR gives individuals a number of rights in relation to their data. Further detail is set out in the Privacy Notices above. If you would like to make a Subject Access Request in respect of data held by the RFU, please fill in [this form](https://web.archive.org/mm/Document/AboutRFU/General/01/32/98/20/RFUSubjectAccessRequestForm_English.pdf) and send it either by email to [legal@rfu.com](mailto:legal@rfu.com) or by post to The Data Protection Officer, Rugby Football Union, Rugby House, Twickenham Stadium, Twickenham TW2 7BA. Please note that if you would like to make a Subject Access Request in respect of data held by a club, constituent body, referee society, World Rugby or another rugby body, you will need to contact that body directly.
 
 ### Cookies
 
-Information may be sent to your computer in the form of an Internet "cookie" to allow the RFU servers to monitor your requirements. The cookie is stored on your computer. The RFU server may request that your computer return a cookie to it. 
+#### Use of Cookies on our website
 
-These return cookies do not contain any information supplied by you or any personally identifiable information about you. However, we use cookies to keep track of your shopping cart when you are using the Rugby Store Online. 
+We use cookies to collect information about your online preference. Cookies are small pieces of information sent by a web server to a web browser which allows the server to uniquely identify the browser on each page. We may use some or all of the following categories of cookies on our website: 
 
-Such measures are necessary to allow the RFU to measure the usability of the systems, which will help to continually improve user experience of our websites.
+#### Strictly Necessary Cookies
 
-Your browser software should however enable you to block cookies if you wish to. For more information about cookies, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+These cookies are essential in order to enable you to move around the website and use its features. Without these cookies, services you have asked for such as remembering your login details or shopping basket items cannot be provided.
 
-### Consent
+#### Performance Cookies
 
-By submitting your personal information to us, you signify your consent to our using the information provided in the manner described above. If we amend our privacy policy, any changes will be published on this web site. If at any time you wish to update the information which we hold about you, or if you wish to stop receiving information from the RFU, please [contact us](https://web.archive.org/about-the-rfu/contact-the-rfu/).
+These cookies collect anonymous information on how people use our Website. For example, we use Google Analytics cookies to help us understand how customers arrive at our site, browse or use our site and highlight areas where we can improve areas such as navigation, shopping experience and marketing campaigns. The data stored by these cookies never shows personal details from which your individual identity can be established.
+
+#### Functionality Cookies
+
+These cookies remember choices you make such as the country you visit our website from, language and search parameters such as size, colour or product line. These can then be used to provide you with an experience more appropriate to your selections and to make the visits more tailored and pleasant. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites.
+
+#### Targeting cookies or advertising cookies
+
+These cookies collect information about your browsing habits in order to make advertising more relevant to you and your interests. They are also used to limit the number of times you see an advert as well as help measure the effectiveness of an advertising campaign. The cookies are usually placed by third party advertising networks. They remember the websites you visit and that information is shared with other parties such as advertisers. For example, we use third party companies to provide you with more personalised adverts when visiting other websites.
+
+#### Social Media Cookies
+
+These cookies allow you to share what you’ve been doing on the website on social media such as Facebook and Twitter. These cookies are not within our control. Please refer to the respective privacy policies for how their cookies work.
+
+#### Use of Web Beacons
+
+Some of our Web pages may contain electronic images known as Web beacons that allow us to count users who have visited these pages. Web beacons collect only limited information which including a cookie number, time and date of a page view, and a description of the page on which the Web beacon resides. We may also carry web beacons placed by third party advertisers. These beacons do not carry any personally identifiable information and are only used to track the effectiveness of a particular campaign. 
+
+#### Managing Cookies
+
+If you want to delete any cookies that are already on your computer, please refer to the help and support area on your internet browser for instructions on how to locate the file or directory that stores cookies.
+
+Please note that by deleting our cookies or disabling future cookies you may not be able to access certain areas or features of our site.
+
+To find out more about cookies please see [www.youronlinechoices.eu](http://www.youronlinechoices.eu/) which contains further information about behavioural advertising and online privacy.
