@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbplc.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527174710id_/http%3A//nbplc.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbplc.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603053741id_/http%3A//nbplc.com/privacy-policy.html) for the most accurate reproduction.*
 
 # NBPlc - Privacy Policy
 
