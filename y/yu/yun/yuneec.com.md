@@ -1,16 +1,13 @@
-> *The following text is extracted and transformed from the yuneec.com privacy policy that was archived on 2017-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170209214325id_/https%3A//www.yuneec.com/en_US/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yuneec.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603050417id_/http%3A//us.yuneec.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Yuneec
+# Privacy
 
-You may choose to restrict the collection or use of your personal information in the following ways:
+**Account Information & Retention.** You may update, correct or delete information about you at any time by logging into your online account and modifying your information or by emailing us at devsupport@yuneec.com. We will retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy Policy. If you wish to deactivate your account, please email us at devsupport@yuneec.com, but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period of time.
 
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [cs@yuneec.com](mailto:cs@yuneec.com)
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information to comply with our legal obligations, resolve disputes and enforce our agreements. 
 
+**Promotional and Newsletter Communications.** You may opt out of receiving promotional and newsletter emails from YUNEEC by following the opt-out instructions provided in those emails. If you opt out, we may still send you non-promotional communications, such as security alerts and notices related to your access to or use of the YUNEEC Products and Services or those about your online account or our ongoing business relations. 
 
+**Cookies.** Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies or to prompt you before accepting such a cookie. Please note that, if you choose to remove or reject browser cookies, this could affect the availability or functionality of the YUNEEC Products and Services. 
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
-
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 5555 Ontario Mills Parkway, Ontario, CA 91764, USA.
-
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+**Direct Marketing Opt-out.** All users who have an established business relationship with YUNEEC may choose to opt out of YUNEEC’s disclosure of personal information about them to third parties for direct marketing purposes. If you choose to opt-out at any time after granting approval email marketing@YUNEEC.com. 
