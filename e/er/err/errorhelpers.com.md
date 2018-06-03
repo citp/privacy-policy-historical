@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the errorhelpers.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130162220id_/http%3A//errorhelpers.com/en/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the errorhelpers.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603133338id_/http%3A//errorhelpers.com/en/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -56,7 +56,7 @@ errorhelpers.com may occasionally update this Privacy Policy. Any changes will b
 
 **6\. Contact Information**
 
-For questions regarding this Privacy Policy please [contact us](https://web.archive.org/web/20171130162220id_/http%3A//errorhelpers.com/en/contact.php).
+For questions regarding this Privacy Policy please [contact us](https://web.archive.org/web/20180603133338id_/http%3A//errorhelpers.com/en/contact.php).
 
   
 
