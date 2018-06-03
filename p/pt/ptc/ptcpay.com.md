@@ -1,12 +1,21 @@
-> *The following text is extracted and transformed from the ptcpay.com privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601213009id_/http%3A//www.ptcpay.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptcpay.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603031446id_/http%3A//www.ptcpay.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - PTCPay
 
+##### Your Concent
+
+By using our site, you consent to our privacy policy.  
+If you have a question which is not answered here, please feel free to visit our [forum](http://ptcpay.com/forum) or drop a support ticket to; [robert [ at ] ptcpay.com](mailto:robert@ptcpay.com)
+
 ##### Information We Collect
 
-**Information You Provide to Us -** When you register to use the Services, communicate with our customer service team, send us an email, or post on our blog, you're giving us information that we collect. That information may include your IP address, name, physical address, email address, phone number, credit card information, and other details like gender, occupation, and other demographic information. By giving us this information, you consent to your information being collected, used, disclosed, and stored by us, only as described in our Terms of Use and Privacy Policy. 
+**Information You Provide to Us**
 
-**Cookies -** When you register with us, we store "cookies," which are strings of code, on your computer. We use those cookies to collect information about when you visit our Website, when you use the Services, your browser type and version, your operating system, and other similar information. You may turn off cookies that have been placed on your computer by following the instructions on your browser, but if you block our cookies, it may be more difficult (and maybe even impossible) to use the Services. We also have an affiliate program which you may have been sent here from. If that is the case, there is an additional cookie which is stored that retains the advertisers identification credentials who sent you to us in case you decide to purchase. 
+When you register to use the Services, communicate with our customer service team, send us an email, or post on our blog, you're giving us information that we collect. That information may include your IP address, name, physical address, email address, phone number, credit card information, and other details like gender, occupation, and other demographic information. By giving us this information, you consent to your information being collected, used, disclosed, and stored by us, only as described in our Terms of Use and Privacy Policy. 
+
+**Cookies**
+
+When you register with us, we store "cookies," which are strings of code, on your computer. We use those cookies to collect information about when you visit our Website, when you use the Services, your browser type and version, your operating system, and other similar information. You may turn off cookies that have been placed on your computer by following the instructions on your browser, but if you block our cookies, it may be more difficult (and maybe even impossible) to use the Services. We also have an affiliate program which you may have been sent here from. If that is the case, there is an additional cookie which is stored that retains the advertisers identification credentials who sent you to us in case you decide to purchase. 
 
 ##### Use and Disclosure of Your Personal Information
 
@@ -34,10 +43,27 @@ To ensure compliance with the Children’s Online Privacy Protection Act (“COP
 
 Nobody’s safe from hackers. If a security breach causes an unauthorized intrusion into our system that materially affects you we will notify you as soon as possible and later report the action we took in response. The chances of this happening are extremely unlikely however we do want you to be aware that we have a worse case senerio plan in such a situation. 
 
+##### General Data Protection Regulations (“GDPR”) 
+
+**Withdrawal of Consent**
+
+If you have provided us with your consent to process your data, for the purpose of using our services, you have the right to withdraw this at any time.  
+In order to do so you should contact us by emailing; [robert [ @ ] ptcpay.com](mailto:robert@ptcpay.com).
+
+**Controller**
+
+PTCPay LLC, Rockford IL, is the Data Controller. 
+
+This Privacy Notice will be updated in due course to comply with the further requirements under the GDPR which comes into force on 25 May 2018. 
+
+##### Unsubscribe
+
+We use the email address you provide to send you information and updates about PTCPay/GeN4, company news, related product information, etc. If at any time you would like to unsubscribe from receiving future emails, we include unsubscribe instructions at the bottom of each email or you are free to contact us at; [robert [ @ ] ptcpay.com](mailto:robert@ptcpay.com) and we will remove you from our system. 
+
 ##### You are Notified of the Following
 
   * Your information will never be stored after a project is completed, and all requests to not view certain content or information will be respected without exception.   
-We never sell lists or email addresses. If you have any questions or hesitations, don’t wait to contact us!
+We never sell lists or email addresses. If you have any questions or hesitations, feel free to contact us!
   * Abusive emails, spam, and other such emails will be reported to the proper authorities. If you run a Ponzi type scheme, we will report you to the authorities. Please note that we may share feedback emails under testimonials if we feel like we want to do so. If you would like us not to share these, you must explicityly state so either at the beginning or end of the email.
   * Information shared on the forums remains public and any posts on public forums are also public. We are not responsible for any damage caused by the sharing of your personal information. Please referain from sharing your address, email, phone number, and passwords on the forums. Moderators and administrators will attempt to protect you, but you should protect yourself.
   * Attacking PTCPay in any way/shape/form will result in us sharing your information publicly for the purpose of notifying the community of potential threats against us/them. Attacking is as follows, but is not limited to; hacking attempts, threatening, using illegal/nulled products.
