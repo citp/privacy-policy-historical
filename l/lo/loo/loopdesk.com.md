@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loopdesk.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202084935id_/http%3A//www.loopdesk.com/page/view/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loopdesk.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603141613id_/http%3A//www.loopdesk.com/page/view/privacy-policy) for the most accurate reproduction.*
 
 # LoopDesk - FREE Online Business Networking Group
 
@@ -39,6 +39,6 @@ Please [**click here**](http://www.loopdesk.com/help_contact.php) if you have qu
 
 | 
 
-[ ](http://www.jdoqocy.com/5281vpyvpxCKGHFFLDCFLGFEMF)
+[ ](http://www.anrdoezrs.net/click-1705452-10386325?cm_mmc=CJ-_-1567718-_-1705452-_-120x240%20Carrot%20Ink%20$10%20Off)
 
 [](http://www.loopdesk.com/page/view/advertising)
