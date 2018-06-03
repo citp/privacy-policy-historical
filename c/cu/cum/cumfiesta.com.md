@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cumfiesta.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225104207id_/http%3A//cumfiesta.com/docs/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cumfiesta.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603050930id_/http%3A//cumfiesta.com/docs/pp) for the most accurate reproduction.*
 
-# Privacy Policy
+# Our Privacy Policy - Realitykings
 
 _Last Modified: July 29, 2016_
 
@@ -316,7 +316,7 @@ All changes are effective immediately when we post them, and apply to all access
 
 ## Enforcement
 
-We regularly review our compliance with this privacy policy. Please feel free to direct any questions or concerns regarding this privacy policy or our treatment of personal information by contacting us through this Website at [rksupport@probiller.com](https://web.archive.org/web/20171225104207id_/http%3A//cumfiesta.com/docs/rksupport@probiller.com). When we receive a formal written complaint, it is our policy to contact the complaining party regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved by an individual and us.
+We regularly review our compliance with this privacy policy. Please feel free to direct any questions or concerns regarding this privacy policy or our treatment of personal information by contacting us through this Website at [rksupport@probiller.com](https://web.archive.org/web/20180603050930id_/http%3A//cumfiesta.com/docs/rksupport@probiller.com). When we receive a formal written complaint, it is our policy to contact the complaining party regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved by an individual and us.
 
 ## No Rights of Third Parties
 
@@ -334,4 +334,4 @@ We do not guarantee error-free performance under this privacy policy. We will us
 
 ## Contact Information
 
-If you have any questions about this privacy policy or our information-handling practices, please contact us at [rksupport@probiller.com](https://web.archive.org/web/20171225104207id_/http%3A//cumfiesta.com/docs/rksupport@probiller.com).
+If you have any questions about this privacy policy or our information-handling practices, please contact us at [rksupport@probiller.com](https://web.archive.org/web/20180603050930id_/http%3A//cumfiesta.com/docs/rksupport@probiller.com).
