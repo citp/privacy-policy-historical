@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freegames-24.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224173044id_/http%3A//www.freegames-24.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freegames-24.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604000346id_/http%3A//www.freegames-24.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -115,3 +115,5 @@ Nothing on the FreeGames24 website shall denote that we sponsor third party ads 
 FreeGames24 reserves a right to edit, modify or replace this Privacy Policy at any time and in its sole discretion. When policy changes occur, we will take appropriate measures to notify you about the policy changes, and once advised, the modified policy shall replace all previous versions of this Privacy Policy unless any part of an earlier version is retained.
 
 The participant/guardian has the responsibility to regularly visit this page and remain updated about policy changes that may take place over time. Continued access to FreeGames24 or use of its free games directory, community forums, social media platforms or other accessible sections of the website/services is deemed to indicate acceptance of the modified policy.
+
+**Thank you for visiting our site. We notice you have an ad-blocker enabled. Whilst we understand that you dislike advertising, please understand that advertisements are our only source of revenue. Please disable your ad-blocker for freegames-24.com so we can continue to provide you with free games. We greatly appreciate your helping us in this way.**
