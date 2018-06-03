@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the onesystemcare.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216142504id_/http%3A//www.onesystemcare.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onesystemcare.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603084404id_/http%3A//www.onesystemcare.com/privacy) for the most accurate reproduction.*
 
 # One System Care - Privacy Policy
 
 Welcome to One System Care Limited website. Using our website and the Software we offer, is subject to the Terms of Use of the website at [ http://onesystemcare.com/terms ](https://web.archive.org/terms/) , and to the terms of this Privacy Policy. By using this website and/or the Software we provide, you hereby agree to all the terms. 
 
-Should you have any questions or comments concerning this policy, or if you wish to know which data we have collected about you, you may contact us at: [ [email protected] ](https://web.archive.org/cdn-cgi/l/email-protection#f1828481819e8385b19e9f9482888285949c92908394df929e9c) . 
+Should you have any questions or comments concerning this policy, or if you wish to know which data we have collected about you, you may contact us at: [ support@onesystemcare.com ](mailto:support@onesystemcare.com) . 
 
 Please note that this Privacy Policy may change from time to time. All updates will be published at our website and are affective upon publishing them in the website. 
 
