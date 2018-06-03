@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ohio.gov privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220214449id_/http%3A//www.ohio.gov/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohio.gov privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603175454id_/http%3A//www.ohio.gov/policies) for the most accurate reproduction.*
 
 # Privacy Notice | Ohio.gov
 
@@ -42,7 +42,7 @@ Cookies may be used when necessary to complete a transaction, to process data su
 
 ### Public Records and When We Share Your Information
 
-Ohio public records law requires state agencies to disclose most documents and records, including electronic records. _Therefore, information submitted through this website may be subject to disclosure pursuant to a public records request._ Please be aware that for public records, Ohio law requires us to disclose the records despite requests to keep information confidential. Read the [DAS Public Records Policy](http://das.ohio.gov/LinkClick.aspx?fileticket=XVSMRrwbXw8=&tabid=463) __.
+Ohio public records law requires state agencies to disclose most documents and records, including electronic records. _Therefore, information submitted through this website may be subject to disclosure pursuant to a public records request._ Please be aware that for public records, Ohio law requires us to disclose the records despite requests to keep information confidential. Read the [DAS Public Records Policy](http://www.das.ohio.gov/Portals/0/DASDivisions/DirectorsOffice/pdf/DAS%20PUBLIC%20RECORDS%20POLICY.pdf?ver=2009-08-18-142740-217) __.
 
 We will share personally identifiable information submitted through e-mail or online forms with other Ohio state agencies when necessary to respond to your e-mail request or process your online form. For example, if you have a question regarding the privacy of state income tax filings, we may forward your question to the Ohio Department of Taxation.
 
@@ -56,7 +56,7 @@ For record-keeping systems not covered by [chapter 1347](http://codes.ohio.gov/o
 
 ### How We Protect Your Information: Confidential Personal Information and the DAS Policy on Protecting Privacy
 
-DAS requires all of its employees and contractors to respect privacy and protect personally identifiable information regardless of the form and system in which it's kept. Read the [DAS Policy on Protecting Privacy](http://das.ohio.gov/LinkClick.aspx?fileticket=Wj2bosUbh34%3d&tabid=463) __.
+DAS requires all of its employees and contractors to respect privacy and protect personally identifiable information regardless of the form and system in which it's kept. Read the [DAS Policy on Protecting Privacy](http://www.das.ohio.gov/Portals/0/DASDivisions/HumanResources/BA/pdf/100-11%20DAS%20Policy%20on%20Protecting%20Privacy%20eff%20Apr%2023%202012.pdf?ver=2012-04-26-165919-693) __.
 
 Ohio Revised Code [1347.15](http://codes.ohio.gov/orc/1347.15) requires DAS to adopt rules regulating access to the confidential personal information the agency keeps, whether electronically or on paper. The DAS rules pertaining to confidential personal information may be found in rules [123-4-01 through 123-4-05](http://codes.ohio.gov/oac/123-4) of the Ohio Administrative Code.
 
