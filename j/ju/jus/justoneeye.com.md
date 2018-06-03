@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justoneeye.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201061602id_/http%3A//justoneeye.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justoneeye.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604001811id_/http%3A//justoneeye.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy justoneeye.com
 
@@ -13,7 +13,7 @@ If you have any questions about this Privacy Policy, please contact us at:
 **Just One Eye, LLC**  
 7000 Romaine Street  
 Los Angeles, CA 90038  
-[customercare@justoneeye.com](mailto:customercare@justoneeye.com)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#90f3e5e3e4fffdf5e2f3f1e2f5d0fae5e3e4fffef5f5e9f5bef3fffd)
 
 **Information We Gather**
 
@@ -21,7 +21,7 @@ We gather and store certain information from our customers to ensure that your e
 
 You provide information when you register or update your information, search, make a purchase or contact us. This can include your name, address, phone number, email address, shipping address[es] and phone number[s], credit/debit card information and additional financial information, if applicable. We may collect additional types of personal information when you choose to use certain other features of the Site, such as electing to receive text messages about upcoming promotions or events. When you choose to use these additional features, we may require you to provide additional personal information, such as a mobile phone number, and may request additional personal information such as your shopping preferences and demographics.
 
-Please report any changes to your personal data to [privacy@justoneeye.com](mailto:privacy@justoneeye.com) to ensure your personal data is always accurate and kept up-to-date.
+Please report any changes to your personal data to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7d0d0f140b1c1e043d17080e09121318180418531e1210) to ensure your personal data is always accurate and kept up-to-date.
 
 We may obtain additional information about you through our Site’s technology. This includes the Internet Protocol (IP) address used to connect your computer to the Internet, your browser settings, your computer’s platform and operating system, your browsing and purchase history, your location data, weblogs, cookies and other data about resources you access.
 
