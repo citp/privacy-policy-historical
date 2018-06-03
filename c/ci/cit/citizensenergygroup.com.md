@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizensenergygroup.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202011337id_/https%3A//www.citizensenergygroup.com/Privacy-Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizensenergygroup.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603020939id_/https%3A//www.citizensenergygroup.com/Privacy-Security) for the most accurate reproduction.*
 
 # Privacy & Security - Citizens Energy Group
 
@@ -18,7 +18,7 @@ During registration users must submit their contact and account information (suc
 
 ## Sharing
 
-We do not currently share any specific demographic information from this Site with unaffiliated third parties, nor do we provide specific credit or usage information to unaffiliated third party service providers. Citizens Energy Group may provide customer contact information to unaffiliated third party service providers. Such information exists independent from information collected from this Site. This type of information would not be associated with a user's personal information and would not be used to identify an individual person.
+We do not currently share any specific demographic information from this Site with unaffiliated third parties, nor do we provide specific usage information to unaffiliated third party service providers. Citizens Energy Group may provide customer contact information to unaffiliated third party service providers. Such information exists independent from information collected from this Site. This type of information would not be associated with a user's personal information and would not be used to identify an individual person.
 
 We may work with our business partners who may perform certain functions on our behalf, such as customer billing and payment, sending email messages, managing data, or providing customer service. These business partners have access to your Personal Information only to the extent necessary to perform these specific functions and may not use it for any other purpose.
 
