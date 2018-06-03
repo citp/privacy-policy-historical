@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hubswirl.com privacy policy that was archived on 2017-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170809104645id_/http%3A//www.hubswirl.com/hub/Help%3Fcmd%3Dview%26pages%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hubswirl.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603060711id_/http%3A//www.hubswirl.com/hub/Help%3Fcmd%3Dview%26pages%3Dprivacy) for the most accurate reproduction.*
 
 # HubSwirl - Help is here
 
