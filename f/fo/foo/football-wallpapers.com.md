@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the football-wallpapers.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229164441id_/http%3A//www.football-wallpapers.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the football-wallpapers.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603100810id_/http%3A//football-wallpapers.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Football Wallpapers: Players, Teams, Leagues Wallpapers
 
