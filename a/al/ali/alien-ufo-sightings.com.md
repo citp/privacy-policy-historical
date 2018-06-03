@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alien-ufo-sightings.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209182208id_/http%3A//alien-ufo-sightings.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alien-ufo-sightings.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603163734id_/http%3A//alien-ufo-sightings.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - Alien UFO Sightings
 
@@ -63,7 +63,12 @@ If you have any questions about this Privacy Policy, the practices of this site,
 [WebSo](http://alien-ufo-sightings.com/)  
 [http://alien-ufo-sightings.com](http://alien-ufo-sightings.com/)
 
-This document was last updated on October 02, 2014
+This document was last updated on October 02, 2014 
 
-  
+#### Join our list
 
+Subscribe to our mailing list and get interesting stuff and updates to your email inbox.
+
+Thank you for subscribing.
+
+Something went wrong.
