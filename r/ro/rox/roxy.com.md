@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roxy.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216160206id_/http%3A//www.roxy.com/customer-service-safety-security-and-privacy-privacy-policy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roxy.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603210534id_/http%3A//www.roxy.com/customer-service-safety-security-and-privacy-privacy-policy.html%3F) for the most accurate reproduction.*
 
 # Privacy Policy | Roxy
 
