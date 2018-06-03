@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tattootribes.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522051606id_/http%3A//www.tattootribes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tattootribes.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603134918id_/http%3A//www.tattootribes.com/privacy.html) for the most accurate reproduction.*
 
 # TattooTribes.com Privacy Policy
 
