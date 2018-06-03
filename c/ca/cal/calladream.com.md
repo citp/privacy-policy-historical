@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the calladream.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007110925id_/http%3A//www.calladream.com/en/privacy-policy-i-14.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calladream.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603191217id_/http%3A//www.calladream.com/en/privacy-policy-i-14.html) for the most accurate reproduction.*
 
 # Privacy & Security Policy of calladream.com
 
-We respect your privacy and understand the importance of protecting your personal information. Maintaining your privacy and trust is very important to Calladream.com. Please contact our Customer Service team [service@calladream.com](mailto:service@calladream.com) if you have any questions about our Privacy Policy. 
+We respect your privacy and understand the importance of protecting your personal information. Maintaining your privacy and trust is very important to calladream.com. Please contact our Customer Service team [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f88b9d8a8e919b9db89b999494999c8a9d9995d69b9795) if you have any questions about our Privacy Policy.
 
-### What /when personal information do we collect from the people that visit Calladream.com?
+### What /when personal information do we collect from the people that visit calladream.com?
 
 When ordering or register on our website, we will collect your name, billing and delivery address, your e-mail address, and your purchase/return/exchange information.
 
@@ -32,7 +32,7 @@ Newsletter will be sent out regularly, with the latest updates on new arrivals, 
 
 ### Security
 
-www.Calladream.com takes every precaution to protect our users' information. When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the Secure Socket Layers (SSLs) encryption software. SSL encrypts your own information, so only we are able to decode the information. 
+www.calladream.com takes every precaution to protect our users' information. When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the Secure Socket Layers (SSLs) encryption software. SSL encrypts your own information, so only we are able to decode the information. 
 
 However, security systems are not infallible, including encryption systems. While we use reasonable efforts to protect your personal information, we cannot guarantee its absolute security.
 
