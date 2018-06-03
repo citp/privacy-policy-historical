@@ -1,104 +1,117 @@
-> *The following text is extracted and transformed from the jackpotparty.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816090733id_/http%3A//www.jackpotparty.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackpotparty.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603124237id_/http%3A//www.jackpotparty.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Jackpot Party - Exclusive Slots & Casino Games Online - JackpotParty.com
+# Privacy Policy | Jackpot Party Casino
 
-## **WWW.JACKPOTPARTY.COM Privacy Policy**
+Effective Date 27 April 2016 (last updated 27 April 2016)
 
-### **Introduction**
+ **This Privacy Policy applies to the sites and services where it appears.**
 
-To play at JackpotParty.com (“Site”), you need to provide us with various items of personal data (“Personal Information” as defined below), which is a responsibility we take very seriously. This Privacy Policy sets out what information WMS will collect at or though the Site and how we may use your Personal Information. For the purpose of this Privacy Policy, WMS includes WMS Alderney 2 Limited as well as its ultimate holding company and all of their parents, affiliates and subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
+This Policy describes how we treat personal information on the websites where it is located.
 
-Please read this Privacy Policy carefully. The Privacy Policy is incorporated into the Site's [Terms and Conditions of Use](https://web.archive.org/terms.aspx), which govern your use of this Site.
+It also applies to our mobile apps where it is located.
 
-For the purposes of Data Protection Regulations and Legislation WMS Alderney 2 Limited is the Data Controller We are registered in the States of Alderney at Inchalla, Le Val, Alderney GY9 3UL, British Channel Islands. We are also registered with the Data Protection Commissioner in Bailiwick of Guernsey - <http://www.dpr.gov.gg/>. We comply with Data Protection Law (Bailiwick of Guernsey) 2001 and United Kingdom Data Protection Act 1998. In addition, we consult EU Privacy Law, applicable to the European Economic Area (“EEA”) and Organization for Economic Cooperation and Development (“OECD”) guidelines, particularly in regard to the transfer of data across borders and the protection of that data.
+ **We collect information from and about you.**
 
-### Personal Information We May Collect From You
+ **We collect contact information**. For example, we might collect your name if you register. We might also collect your phone number or email address.
 
-“Personal Information” is any information about you and may include your first and last name, an email, home or other physical address, credit / or debit card number and date of birth, details of winnings and account transfers along with other contact information and any other information you may wish to provide to us. You may access and use some parts of the Site without giving us any of your Personal Information. However, in order to play our games, whether free play or for cash, or use certain portions of the Site, you will need to provide us with Personal Information. This information is required in order for us to register you on our Site and open an account for you, as well as to comply with various regulations including, but not limited to, the terms of our eGambling License issued by the Alderney Gambling Control Commission and Anti Money Laundering regulations. We, or third parties that we engage, may use this Personal information in order to enable you to access the Site, play the games, and make use of the JackpotParty online gaming services and for us to administer the Site.
+ **We may collect payment information.** For example, we collect your credit card number if you make a purchase.
 
-We may collect and process the following Personal Information about you:
+ **We collect information you submit or post**. We collect the information you provide when you contact us.
 
-  * You provide Personal Information (such as your name, date of birth and email address) to the Website when choosing to participate in various activities on the Website such as registering, posting messages in our forums, entering games and using our Services, taking advantage of promotions, responding to surveys, or subscribing to mailing lists.
-  * Personal Information may also be collected when contacting us for any reason, posting and uploading content and material (including your personal profile), communicating with other users on our Website such as via online forums, chat rooms or requesting further services or information. We may also ask you for information if you complain or report any problems with our Website.
-  * You may also provide Personal Information by creating or participating in our games and other Services which are available on our Website. This may include images, photos, videos and other content uploaded or posted by you.
-  * We may collect and process the following data about you:
-    1. if you contact us, we may keep a record of that correspondence and your contact details;
-    2. we may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them;
-    3. details of your visits to our Website including, but not limited to, traffic data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
+ **We collect demographic information.** We may collect information like your age and gender.
 
+ **We collect other information.   **If you use our website, we may collect information about the browser or device you’re using. We might look at what site you came from, or what site you visit when you leave us. If you use our app, we may collect your GPS location and your device ID. We might look at how often you use the site or app and where you downloaded the app.
 
+ **We collect information in different ways.**
 
-To ensure a good quality of service we may monitor and record any communication you have with us (or with other users online) in writing, by phone or by electronic mail. E-mail is not encrypted to/ from this Website. The Company recommends that with the exception of your name and username you do not send us Personal Information by e-mail. Any information which you transmit to us is transmitted at your own risk.
+ **We collect information directly from you**. For example, if you register with us. We may also collect information if you contact us.
 
-### **Non-Personal Information, Cookies and Other Tracking Technologies**
+ **We collect information from you passively**. We use tracking tools like browser cookies and web beacons. We collect information about users over time when you use this website.  We may have third parties collect personal information this way. Learn more about these tools and how you can control them, [here](https://sginteractive.zendesk.com/hc/en-us/articles/218279158).
 
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual.
+ **We may get information about you from third parties.** For example, our business partners may give us information about you. Social media platforms may also give us information about you.
 
-For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer’s hard drive. They help the Company to improve the Website and to deliver a better service to you.
+ **We combine information** **.** For example, we may combine information we get from a third party with information we already have.
 
-For more details about the cookies and similar technologies we use, and how we use them, see our [Cookie Policy](https://web.archive.org/cookie-policy.aspx).
+ **We use information as disclosed and described here.**
 
-### **How We Use Information**
+ **We use information to respond to your requests or questions**. For example, we might use your information to respond to your customer feedback.  We may use your information to process your purchases and transactions.  We may also use your information to contact you if you enter a contest or sweepstakes.
 
-We may use the Personal Information we collect on the Site in order to allow you access and make use of our Site and its Services, to allow you to participate in the Services offered, to operate and administer the Site and your play and participation with the Site and WMS, process your online transactions (including to send money to and from us, including through third-party electronic payment processors and/or financial institutions), undertake security, age and identification verification checks, including the use of third parties, respond to your questions and information requests, contact you about products and services that we consider may interest you and for related purposes.
+ **We use information to improve our products and services**. We may use your information to make our website, games, and products better. We might use your information to customize your experience with us.
 
-We may also use your Personal Information, or permit selected third parties to use such data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these.
+ **We use information for security purposes.** We may use information to protect our company, our customers, and our websites.
 
-If you are an existing user, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which we offer on our Website.
+ **We may use information for marketing purposes.** For example, we might send you information about special offers. We might tell you about new features or updates.
 
-If you are a new user, and where we permit selected third parties to use your Personal Information, we (or they) will contact you by electronic means only if you have consented to this.
+ **We use information to communicate with you about your account or our relationship.** We may contact you about your account or feedback. We might also contact you about this Policy or our website Terms. We may also use push notifications on our mobile apps.
 
-If you do not wish to receive future marketing, promotional or sales material from the Company or selected third parties, you may notify the Company that no further material be sent to you. You can do this by sending an email to [support@jackpotparty.com](mailto:support@jackpotparty.com). The Company will as soon as reasonably practicable after receiving your request, remove your contact details from its marketing database.
+ **We use information as otherwise permitted by law or as we may notify you.**
 
-The Company will also retain such information and may analyse it in order to investigate any actual or suspected fraudulent or other criminal activity. All rights in the manner of recording your Personal Information held by the Company (including copyright and database rights) are and shall remain its property.
+ **We may share information with third parties.**
 
-Telephone calls relating to users may be recorded and may be actively monitored for which purposes all users hereby consent.
+ **We will share information within the Scientific Games family of companies.** This includes future subsidiaries and affiliates.
 
-### Disclosing Your Information
+ **We will share information with third parties who perform services on our behalf**. For example, we share information with vendors who send emails for us.  We may also share information with companies that operate our websites.
 
-  * We may have third parties provide certain services on or for this Site and to administer this Site. We may provide information, including Personal Information, to such third-party service providers to help us deliver programs, products, information, and services. Examples include, without limitation, hosting and administering the Site, verifying your age, sending communications (including marketing communications) on our behalf, analyzing data, and maintaining mailing lists, providing technical support, processing your online transactions and maintaining your online account. These third parties may have access to this Site's user information, but only limited to the extent required to perform their services to you and in order to perform these functions. We take steps to ensure that our arrangements with third-parties protect your privacy at all times and that any third parties will abide by our standards of privacy protection as well as applicable Data Protection Regulations.
-  * We may disclose your personal information to third parties where we are requested by regulators to provide Personal Information we shall comply with such requests and will cooperate with investigatory bodies such as police and governments when asked. We may also use your Personal Information to conduct checks on your identity and share this data with other qualified and contracted service providers to ensure the integrity and security of the gaming environment and Site.
-  * We may also disclose your Personal Information to any member of our group of companies which means our subsidiaries, our ultimate holding company and its subsidiaries as defined in section 1159 of the UK Companies Act 2006.
-  * We may disclose your personal information to third parties to protect the rights, property or safety of WMS, our users or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
-  * We may transfer and disclose information about our users, including Personal Information, and may use internet protocol addresses to identify users: (1) in cooperation with internet service providers, law enforcement agencies and regulators when required to do so or when WMS in good faith believes that such action is necessary to comply with a legal or regulatory obligation or to protect and defend WMS’ rights, interests or property, or to protect the personal safety of users of the Site or the public, (2) at the request of regulators or governmental authorities conducting an investigation, or (3) to verify or enforce compliance with the policies governing the Site and applicable laws and WMS’ licenses. If, in our sole determination, we have reason to believe that you have cheated or attempted to defraud WMS or any other user of the Site in any way, including but not limited to game manipulation or payment fraud, or if we suspect you of making a fraudulent payment, including use of stolen credit cards, or any other fraudulent or improper activity (including any chargeback or other reversal of a payment) or prohibited transaction (including money laundering), we reserve the right to share this information together with your Personal Information with other online gaming sites, banks, credit card companies as well as law enforcement and regulatory agencies.
-  * Additionally, if all or substantially all the assets of WMS is acquired, or if the company otherwise engages in a fundamental corporate change, Personal Information collected by WMS would be one of the transferred or disclosed assets.
+ **We may share information with our business partners.**
 
+ **We will share information if we think we have to in order to comply with the law or to protect ourselves.** For example, we will share information to respond to a court order or subpoena. We may share it if a government agency or investigatory body requests. We might share information when we are investigating potential fraud.
 
+ **We may share information with any successor to all or part of our business.** For example, if part of our business was sold we may give our customer list as part of that transaction.
 
-### **Where we Store Your Personal Information**
+ **We may share information for other reasons we may describe to you.**
 
-The Personal Information that we collect form you may be transferred to, and stored at, a destination outside the European Economic Area (EEA). It may also be processed by staff operating outside the EEA, including for purposes of a third party providing age and identity verification services, who work for us or for one of our subsidiaries and/or other entities or third parties with whom we have a business relationship. Such staff may be engaged in amongst other things, the fulfillment of your order, the processing of your payment details and the provision of support services. By submitting your Personal Information, you expressly agree to this transfer, storing or processing. The Company will take all steps reasonably necessary to ensure that your Personal information is treated securely and in accordance with this Privacy Policy. ****
+ **You have certain choices about how we use your information.**
 
-All information you provide to us is stored on our secure servers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our Sites, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+ **You can opt out of receiving our marketing emails.** To stop receiving our promotional emails or if you object to our use of your information for direct marketing purposes, email us at[privacypolicy@sginteractive.zendesk.com](mailto:privacypolicy@sginteractive.zendesk.com) or follow the instructions in any promotional message you get from us. Even if you opt out of getting marketing messages, we will still send you transactional messages. These include responses to your questions.
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Sites; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+ **You can control cookies and tracking tools.** To learn how to manage how we – and our vendors – use cookies and other tracking tools, please click [here](https://sginteractive.zendesk.com/hc/en-us/articles/218279158).
 
-### **Consent**
+ **You can control certain tracking tools on your mobile devices.** For example, you can turn off the GPS locator or push notifications on your phone.
 
-By providing your Personal information and registering with us or logging on with us when you enter our Website, you explicitly consent to the Company processing and disclosing your Personal information for the purposes, and otherwise in the manner, as set out in this Privacy Policy, or as otherwise provided in accordance with the [Terms and Conditions](https://web.archive.org/terms.aspx). If you wish to qualify, vary, modify or limit your consent in relation to marketing communications or in circumstances where any processing of your data is likely to cause damage or distress or such other circumstances as the law allows then you may do so by notifying us in writing by email to [support@jackpotparty.com](mailto:support@jackpotparty.com).
+ **Your California privacy rights.**
 
-### Access to your Personal Information
+If you reside in California, you have the right to ask us one time each year if we have shared personal information with third parties for their direct marketing purposes. To make a request, please send us an email, or write to us at the address listed below. Indicate in your letter that you are a California resident making a “Shine the Light” inquiry.
 
-You may at any time request a copy of your Personal Information held by us in accordance with subject access rules in the Data Protection Act 1998 (UK) and the Data Protection Law (Bailiwick of Guernsey) 2001
+ **These sites and apps are not intended for children.**
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. You can exercise this right at any time by contacting us at [support@jackpotparty.com](mailto:support@jackpotparty.com).
+Our sites and apps are meant for adults. We do not knowingly collect personally identifiable information from individuals under 21. If you are a parent or legal guardian and think your child under 13 has given us information, you can email us at [privacypolicy@sginteractive.zendesk.com](mailto:privacypolicy@sginteractive.zendesk.com). You can also write to us at the address listed at the end of this policy. Please mark your inquiries “COPPA Information Request.” Parents, you can learn more about how to protect children’s privacy on-line [here](http://www.ftc.gov/privacy/privacyinitiatives/childrens_educ.html).
 
-### **Updating Your Information and Choices**
+ **We use standard security measures.**
 
-Changing Personal Information: You can change most of your Personal Information by logging on to the Site and editing them in the [My Account](https://web.archive.org/secure/myaccount/myaccount.aspx) page. In certain circumstances you may need to contact our Customer Service team using one of the methods below. In any event our Customer Service representatives will be pleased to advise you on how to update your Personal Information. However, the security for your Personal Information relies on the combination of your password remaining completely confidential and known only to you.
+The Internet is not 100% secure. We cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords.
 
-### **Third Party Websites**
+We also keep information as long as it is necessary or relevant for the practices described in this Policy and as otherwise required by law.
 
-The Site may also contain links to third-party web sites or framed third-party web sites. We cannot ensure the protection of any information that a third-party site collects or that you provide to a third-party site since these third-party online sites are owned and operated independently of WMS. Any information collected by these third parties is not governed by this Privacy Policy but by the third-party sites’ respective privacy policies, if any. WMS assumes no responsibility or liability whatsoever for the practices, actions or policies of such third parties. Please therefore check these third party policies before you submit any Personal Information to these websites.
+ **We may store information both in and outside of the United States.**
 
-### Your Financial Data
+Information we maintain may be stored both within and outside of the United States.
 
-We provide a secure log in system for users with funds in their account, and urge you to keep your details private. We do not store any of our users' credit or debit card numbers in clear text, and all transactions are processed using Secure Socket Layer (SSL) technology. We work with some of the world’s most trusted payment providers to process transactions through our site.
+If you live outside of the United States, you understand and agree that we may transfer your information to the United States.
 
-### **Acceptance and Privacy Policy Changes**
+This site and apps are subject to U.S. laws, which may not afford the same level of protection as those in your country.
 
-By using the Site and/or by accepting the Terms and Conditions on this Site, you accept our privacy practices, as outlined in this Privacy Policy. WMS reserves the right to modify, alter or otherwise update this Privacy Policy at any time. We will post any new or revised policies on the Site. However, WMS will use your Personal Information in a manner consistent with the Privacy Policy in effect at the time you submitted the information, unless you consent to the new or revised policy, including by continued use of the Site, in which case you also consent to the revised Privacy Policy applying to all previously collected Personal Information. We recommend that you revisit this Privacy Policy regularly. Your continued use of the Website will constitute acceptance of those changes
+ **We may link to other sites or have third party services on our platforms we don’t control.**
 
-© WMS Alderney 2 Limited. All rights reserved.
+If you click on a third party link, you will be taken to platforms we do not control. This policy does not apply to the privacy practices of that website. Read other company’s privacy policy carefully. We are not responsible for these third parties.
 
-Last revised: 12 July 2012
+ **Feel free to contact us if you have more questions.**
+
+If you have any questions about this Policy or want to access, delete, or correct your information, please email us at [privacypolicy@sginteractive.zendesk.com](mailto:privacypolicy@sginteractive.zendesk.com).
+
+For Jackpot Party Casino Slots, Gold Fish Casino Slots, Hot Shot Casino, Blazing 7’s, Star Trek Slots, you can also write to us at:
+
+Phantom EFX, LLC.  
+900 Technology Pkwy.  
+Ste 300  
+Cedar Falls, IA 50613
+
+For Quick Hit Slots, you can also write to us at:
+
+Dragonplay, LTD.  
+26 Ben Avigdor St.  
+Box 57714  
+Tel Aviv, Israel 6157006
+
+ **We may update this Policy.**
+
+From time to time we may change our privacy policies. We will notify you of any material changes to our Policy as required by law. We will also post an updated copy on our website.  Please check our site periodically for updates.
