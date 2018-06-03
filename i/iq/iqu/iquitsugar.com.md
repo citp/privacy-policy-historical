@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iquitsugar.com privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415160253id_/https%3A//iquitsugar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iquitsugar.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604000205id_/https%3A//iquitsugar.com/privacy-policy) for the most accurate reproduction.*
 
 # I Quit Sugar Privacy Policy - I Quit Sugar
 
@@ -63,7 +63,7 @@ When creating remarketing lists, we can’t and don’t use any sensitive inform
 
 
 
-You can opt out of Google Analytics for display advertising and customise Google Display ads using the Ads Preferences Manager by visiting [www.google.com/settings/ads](https://web.archive.org/web/20170415160253id_/https://iquitsugar.com/privacy-policy/www.google.com/settings/ads).
+You can opt out of Google Analytics for display advertising and customise Google Display ads using the Ads Preferences Manager by visiting [www.google.com/settings/ads](https://web.archive.org/web/20180604000205id_/https://iquitsugar.com/privacy-policy/www.google.com/settings/ads).
 
 _Kissmetrics_
 
@@ -99,7 +99,7 @@ You agree that we may disclose your information to authorities if compelled to b
 
 In the event that we receive a subpoena affecting your privacy, we may elect to notify you to give you an opportunity to file a motion to quash the subpoena, or we may attempt to quash it ourselves, but we are not obligated to do either. We may also proactively report you and release your information without receiving any request to third parties where we believe that it is proper to do so for legal reasons, such as instances where we believe your publications violate any Australian laws or any other country having jurisdiction over us, our Site, Services or our Terms of Service.
 
-You release us from any damages that may arise from or relate to the release of your information to a request from law enforcement agencies or private litigants. We may release your information under the conditions listed in this paragraph whether it is to individuals or entities and to any state or national authorities, as required. 
+You release us from any damages that may arise from or relate to the release of your information to a request from law enforcement agencies or private litigants. We may release your information under the conditions listed in this paragraph whether it is to individuals or entities and to any state or national authorities, as required.
 
 * **Commercial and non-commercial communications**
 
