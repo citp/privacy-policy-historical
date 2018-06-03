@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runcam.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204023033id_/http%3A//runcam.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runcam.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604015225id_/http%3A//www.runcam.com/support/privacy) for the most accurate reproduction.*
 
 # RunCam
 
@@ -14,10 +14,10 @@ We collect information from you when you register on our site, place an order, s
 
 We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways: 
 
-  * To personalize user's experience and to allow us to deliver the type of content and product offerings in which you are most interested.
-  * To allow us to better service you in responding to your customer service requests.
-  * To quickly process your transactions.
-  * To send periodic emails regarding your order or other products and services.
+  * To personalize user's experience and to allow us to deliver the type of content and product offerings in which you are most interested. 
+  * To allow us to better service you in responding to your customer service requests. 
+  * To quickly process your transactions. 
+  * To send periodic emails regarding your order or other products and services. 
 
 
 
@@ -79,7 +79,6 @@ We along with third-party vendors, such as Google use first-party cookies (such 
 
 ####  7.Opting 
 
-out:   
 Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on. 
 
 ####  8.COPPA (Children Online Privacy Protection Act) 
