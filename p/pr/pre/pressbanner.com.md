@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the pressbanner.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203165023id_/http%3A//www.goldenstatenewspapers.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressbanner.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603104009id_/http%3A//www.goldenstatenewspapers.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Golden State Newspapers: Site
 
-Posted: Friday, July 18, 2014 2:55 pm | _ Updated: Friday, August 15, 2014 12:04 pm. _
+Posted: Friday, July 18, 2014 2:55 pm | _ Updated: Friday, May 25, 2018 10:55 am. _
 
 We consider your privacy important. We do not sell or rent your personal information to third parties without your explicit consent. Please read this Privacy Policy that you may understand how we use and protect your personal information.
 
-Overview
+ **Overview**
 
 This Privacy Policy describes the information we collect from you and what may happen with that information.
 
 By accepting the Privacy Policy and the End user Terms of Service in the registration process, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the End user Terms of Service. This Privacy Policy is effective upon acceptance of registration for new registering users, and is otherwise effective on November 01, 2008 for all users.
 
-1\. Your Personal Information we collect.
+ **1\. Your Personal Information we collect.**
 
 The primary purpose in collecting your personal information is to provide you with an effective, customized, and safe experience on our marketplace and forum network. Once you give us your personal information, you are not anonymous to us or the specific business entity which you have registered with. Should you choose to use our services, you may be required to provide contact information, mailing information, billing information and other information as indicated on the on-line forms throughout the website. Where possible, we indicate which fields are required and which fields are optional.
 
@@ -26,7 +26,7 @@ If you choose to post messages in our message area or leave feedback for other u
 
 If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities on this website(s), we may collect such information into a file specific for you.
 
-2\. Our Use of Your Personal Information.
+ **2\. Our Use of Your Personal Information.**
 
 We use the information you give to us to facilitate the services that you request. We use your personal information to: facilitate purchases on the website(s); troubleshoot account problems; collect the purchase of services and upgrade listing packages; inform you about online and offline offers, product, services, and updates; detect and protect against error, fraud and other criminal activity; enforce our user terms and agreement; comply with any government regulation; facilitate use of discussion, chat or forum venues on the website(s); measure consumer interest in our products and services; and as otherwise described to you at the time of information collection. We may compare and review your personal information for errors, omissions and for accuracy.
 
@@ -36,7 +36,7 @@ You agree that we may use your personal information to benefit our marketing and
 
 You agree that we may use your information to contact you and deliver information to you, in some cases targeted to your interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of the Site. By accepting the End user Terms of Service and Privacy Policy, you expressly agree to receive this information.
 
-3\. Our Disclosure of Your Personal Information.
+ **3\. Our Disclosure of Your Personal Information.**
 
 We do not sell or rent any of your personal information to third parties for their marketing purposes without your explicit consent. The following describes some of the ways in which your personal information may be disclosed in the normal course of business as we provide our users with our services.
 
@@ -50,30 +50,30 @@ Third Party Advertisers We allow third-party companies to serve ads and/or colle
 
 Legal Requests. Due to subpoenas, court orders, government regulations and our rights to defend against legal claims, we cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. Although we strive to protect your privacy, we cannot guarantee, nor should you expect, that your personal information or private communications will always remain private.
 
-4\. Knowledge and use of other users’ information.
+ **4\. Knowledge and use of other users’ information.**
 
 Because our service allows users to freely exchange information with one another, by entering into our End user Terms of Service Agreement, you agree, with respect to other users’ personal information that you obtain through this website(s), that the Company hereby grants to you the right to use such information only for: (a) Company related communications that are not unsolicited commercial messages, and (b) any other purpose that a user expressly agrees to after you tell them the purpose you would like to use it for. Under no circumstances, except as defined in this section, can you disclose information about another user to any third party without the consent of that user. You agree that other users may use your personal information to communicate with you in accordance with this section. You agree to give users an opportunity to remove themselves from your database and review what information you may have collected about them.
 
 The Company will not tolerate spam. You are not authorized to add a user or users to your mailing list without their express consent.
 
-5\. Control of your Password.
+ **5\. Control of your Password.**
 
 You are responsible for all actions taken with your User ID and password. We recommend that you do not disclose your User ID or password to any third parties. Should you share your User ID and password or your personal information with third parties, you are responsible for all actions taken with your account. We recommend that you review any third party Privacy Policies. If your password has been compromised, you should immediately change your password. If you lose control of your password you may lose control of your personal information and may be subject to legally binding actions taken on your behalf.
 
-6\. Changing your Personal Information.
+ **6\. Changing your Personal Information.**
 
 We give you the ability to review and change the personal information you have submitted to us. This is done by logging into this website and entering your new information. Generally, we will not modify your personal information because it is very difficult to authenticate your account manually. We recommend that you promptly update your personal information if it changes or is inaccurate.
 
 Upon your request, we will deactivate your account, including contact information, billing information, and shipping information, from our active databases. To make this request, email our third party provider at [support@radiatemedia.com](mailto:support@radiatemedia.com). Such information will be deactivated as soon as reasonably possible. However, we retain in our files some personal information you have requested to be removed to prevent fraud, assist with any investigations, enforce our policies and comply with any legal requirements as permitted by law. Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your request. However, such personal information will be deactivated from public and user viewing.
 
-7\. Third Party Services
+ **7\. Third Party Services**
 
 This Web site uses services provided by AP News Registry. AP News Registry collects content usage information and may use cookies in conjunction with this activity.Your continued readership of the Site means you accept the privacy policy of the AP News Registry. Please refer to the AP News Registry privacy policy at <http://www.apnewsregistry.com/privacycenter/servicepolicy.aspx> for further information.
 
-8\. Security.
+ **8\. Security.**
 
 Your personal information is stored on servers located in the United States of America. We use a variety of safeguards to protect your personal information against loss or theft as well as unauthorized access, including encryption, “firewalls” and Secure Socket Layers. However, 100% totally secure and safe protection does not exist on the Internet.
 
-9\. Notice of Policy Amendment.
+ **9\. Notice of Policy Amendment.**
 
 We reserve the right to amend this Privacy Policy at any time by posting the amended terms on this website(s). All amended terms shall automatically be effective after they are initially posted.
