@@ -1,148 +1,129 @@
-> *The following text is extracted and transformed from the saastrannual.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903213933id_/https%3A//www.saastr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saastrannual.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604004559id_/https%3A//www.saastr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – SaaStr
 
-### **Last Edited on  6-29-2016**
+### **Last Edited on 5-24-2018**
 
-This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+SaaStr recognizes that your privacy is very important. This Privacy Policy describes our policies and procedures on the collection, use, and sharing of your personal information or personal data. This Privacy Policy applies to SaaStr (“Saastr” and its affiliate entities, “we”, “our”, or “us”) and the products and services we offer. It does not apply to any products or services that display, reference, or link to a different privacy statement.
 
-### **What personal information do we collect from the people that visit our blog, website or app?**
+We will only process your Personal Data (as defined under applicable law) in accordance with applicable data protection and privacy laws. For the purposes of UK and EU data protection legislation, the data controller is SaaStr Inc. of 303 2nd St, South Tower,  Suite 200, San Francisco, CA 94105 USA. 
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address or other details.
+  1. **Information We Collect**
 
-### **When do we collect information?**
 
-We collect information from you when you fill out a form or enter information on our site.
 
-### **How do we use your information?**
+We collect information and data about users of our website, blog, online learnings, mobile site, about individuals that attend events organized or hosted by us, or when individuals otherwise contact us. 
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+**(a) Information You Choose to Submit**
 
-  * To personalize user’s experience and to allow us to deliver the type of content and product offerings in which you are most interested.
-  * To send periodic emails regarding your order or other products and services.
+When you create an account and profile on our website or attend an event organized or hosted by us, we collect your name, contact information, and other information you provide. 
 
+**(b) Information We Automatically Collect**
 
+Through the use of cookies and other similar technologies, we automatically collect personal information about you such as how you access and use our website, blog, online learnings, mobile site, and information about the device you use to access our online services.
 
-### **Do we use ‘cookies’?**
+A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your device. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies as soon as you visit a SaaStr website.
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+Our website and online services use cookies to distinguish you from other users of our services. This helps us to provide you with a good experience when you browse our website and also allows us to improve our platform and enhance your experience.
 
-### **We use cookies to:**
+The cookies we use are designed to help you get the most from our website, but if you do not wish to receive cookies, most browsers allow you to change your cookie settings. Please note that if you choose to refuse cookies you may not be able to use the full functionality of our website. These settings will typically be found in the “options” or “preferences” menu of your browser. 
 
-  * Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
+**(c) Third Party Sources**
 
+We occasionally obtain information from third parties. These third-party sources include:
 
+  * Applications and services, such as social networks, that make users’ information available to others;
+  * Partners with which we jointly provide services; and
+  * Publicly-available sources, such as open government databases or other data in the public domain.
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
 
-If you disable cookies off, some features will be disabled It won’t affect the users experience that make your site experience more efficient and some of our services will not function properly.
 
-However, you can still place orders.
+We protect information obtained from third parties according to the practices described in this statement, plus any additional restrictions imposed by the source of the information.
 
-### **Third Party Disclosure**
+When you are asked to provide personal information, you may decline. But if you choose not to provide information that is necessary for us to provide our services, we may not be able to provide those services to you.
 
-When you register for a sponsored event, your information may be shared with our event partners. You may opt out of communications at any time.
+  2. **  How We Use Your Information**
 
-### **Third party links**
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-### **Google**
+We use personal information gathered through our services for purposes described in this privacy statement or otherwise disclosed to you. For example we use your personal information to:
 
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. 
+  * provide and deliver our services, provide customer support, and respond to your questions;
+  * operate our business, including business analytics;
+  * send you information, such as confirmations, updates, and support and administrative messages; and
+  * communicate with you about new developments, upcoming events, and other non-essential or promotional information. 
 
-https://support.google.com/adwordspolicy/answer/1316548?hl=en
 
-We use Google AdSense Advertising on our website.
+  3. **How We Share Your Information**
 
-Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-**We have implemented the following:**
 
-  * Remarketing with Google AdSense
-  * Demographics and Interests Reporting
+We share personal information with your consent or as necessary to complete your transactions or provide the services you have requested or authorized. For example, when you provide information in the course of making a payment, we will share that information with banks and other entities as necessary for payment processing, fraud prevention, credit risk reduction, or other related financial services.
 
+We share personal information with vendors or agents working on our behalf for the purposes described in this statement. For example, companies we’ve hired to provide accounting services, website hosting, event support and cloud-based office productivity services may need access to personal information to provide those functions. In such cases, these companies must abide by data privacy and security requirements and are not allowed to use personal information they receive from us for any other purpose. We may also disclose personal information as part of a corporate transaction such as a merger, transfer, divestiture, or sale of all or a portion of our business or assets.
 
+Finally, we will access, transfer, disclose, and preserve personal information when we have a good faith belief that doing so is necessary to:
 
-We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.
+  * comply with applicable law or respond to valid legal process, including from law enforcement or other government agencies;
+  * protect our clients or to help prevent the loss of life or serious injury of anyone;
+  * operate and maintain the security of our services and operations, including to prevent fraud or stop an attack on our computer systems or networks; or
+  * protect our rights or property, including enforcing the terms of our agreements.
 
-### **Opting out:**
 
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
+  4. **How We Protect Your Information**
 
-### **California Online Privacy Protection Act**
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
 
-### **According to CalOPPA we agree to the following:**
+The security of your information is important to us. SaaStr has implemented safeguards to protect the information we collect. However, no website or Internet transmission is completely secure. We urge you to take steps to keep your personal information safe, such as choosing a strong password and keeping it private, as well as logging out of your user account, and closing your web browser when finished using SaaStr services on a shared or unsecured device.
 
-Users can visit our site anonymously
+  5. **Choice and Control of Your Personal Information**
 
-Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
 
-Our Privacy Policy link includes the word ‘Privacy’, and can be easily be found on the page specified above.
 
-Users will be notified of any privacy policy changes:
+**Access, correction, and deletion.** If you wish to request access to, or correction or deletion of, personal information about you that we hold, you can do so by contacting us as described at the bottom of this privacy statement. However, to the extent permitted by applicable law, we reserve the right to charge a fee or decline requests that are unreasonable, excessive, or prohibited by law, could adversely affect the privacy or other rights of another person, or where we are unable to authenticate you as the person to whom the data relates. 
 
-  * On our Privacy Policy Page
+**Communications preferences.** You can choose whether you wish to receive promotional communications from us by email, SMS, physical mail, and telephone. If you receive promotional email or SMS messages from us and would like to stop, you can do so by following the directions in that message, or by contacting us as described at the bottom of this privacy statement. These choices do not apply to mandatory service communications such as billing statements or communications that are part of our ongoing services.
 
+**Cookie controls.** Most web browsers are set to accept cookies by default. If you prefer, you can set your browser to delete or reject cookies.  If you choose to delete or reject cookies, this could affect certain features or services of our website.
 
+**Do Not Track.** Some browsers have incorporated “Do Not Track” (DNT) features that can send a signal to the websites you visit indicating you do not wish to be tracked. Because there is not a common understanding of how to interpret the DNT signal, our websites may not currently respond to browser DNT signals. Instead, you can use the range of other tools to control data collection and use, including the cookie controls and advertising controls described above.
 
-### **How does our site handle do not track signals?**
+  6. **Retention of Personal Information**
 
-We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
 
-### **COPPA (Children Online Privacy Protection Act)**
 
-When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
+We retain personal information for as long as necessary to provide the services and fulfill the transactions you have requested, or for other essential purposes such as complying with our legal obligations, resolving disputes, and enforcing our agreements. Because these needs can vary in the context of different services and engagements, actual retention periods can vary significantly based on criteria including the types of data, the nature of the engagement and relationship, and our legal or contractual obligations.
 
-We do not specifically market to children under 13.
+  7. **Location of Personal Information**
 
-### **Fair Information Practices**
 
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
 
-**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
+The personal information we collect may be stored and processed in your country or region, or in any other country where we or our affiliates, subsidiaries, or service providers maintain facilities. Currently, we store data primarily in the United States. We take steps designed to ensure that the data we collect under this statement is processed according to the provisions of this statement and applicable law wherever the data is located.
 
-  * Within 1 Business Day we will notify the users via in site notifications
+  8. **European Data Protection Rights**
 
 
 
-We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
+If the processing of personal information about you is subject to European Union data protection law, you have certain rights with respect to that data:
 
-### **CAN SPAM Act**
+  * You can request access to, and rectification or erasure of, personal information;
+  * If any automated processing of personal information is based on your consent or a contract with you, you have a right to transfer or receive a copy of your personal information in a usable and portable format;
+  * If the processing of personal information is based on your consent, you can withdraw consent at any time for future processing;
+  * You can to object to, or obtain a restriction of, the processing of personal information under certain circumstances; and
+  * For residents of France, you can send us specific instructions regarding the use of your data after your death.
 
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
 
-### **We collect your email address in order to:**
 
-  * Send information, respond to inquiries, and/or other requests or questions.
-  * Market to our mailing list or continue to send emails to our clients after the original transaction has occurred
+To make such requests, contact us at the address provided at the bottom of this statement.  You also have the right to lodge a complaint with a supervisory authority, but we encourage you to first contact us with any questions or concerns.
 
+  9. **Changes to This Privacy Statement**
 
 
-### **To be in accordance with CANSPAM we agree to the following:**
 
-  * NOT use false, or misleading subjects or email addresses
-  * Identify the message as an advertisement in some reasonable way
-  * Monitor third party email marketing services for compliance, if one is used.
-  * Honor opt-out/unsubscribe requests quickly
-  * Allow users to unsubscribe by using the link at the bottom of each email
+We will update this privacy statement when necessary to reflect changes in applicable law or in how we process personal information. When we post changes to the statement, we will change the “Last Updated” date at the top of the statement.  If we make material changes to the statement, we will provide notice or obtain consent regarding such changes as may be required by law.
 
+  10. **Contacting Us**
 
 
-### **If at any time you would like to unsubscribe from receiving future emails, you can**
 
-  * Follow the instructions at the bottom of each email.
-
-
-
-and we will promptly remove you from all correspondence.
-
-### **Contacting Us**
-
-If there are any questions regarding this privacy policy, you may contact us using the information below.
-
-[hello@saastrinc.com](mailto:hello@saastrinc.com)
-
-This privacy policy is subject to change without notice.
+Questions, comments, and requests regarding this Privacy Policy are welcomed and should be addressed to [info@saastrinc.com](mailto:____@saastrinc.com) or SaaStr Inc, 303  2nd St., South Tower, Suite 200, San Francisco, CA 94105 USA. 
