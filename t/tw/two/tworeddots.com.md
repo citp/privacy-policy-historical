@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tworeddots.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202095749id_/http%3A//tworeddots.com/about/%3Fshow%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tworeddots.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603021658id_/http%3A//www.tworeddots.com/about/%3Fshow%3Dprivacy) for the most accurate reproduction.*
 
 # TwoRedDots - Homepage
 
