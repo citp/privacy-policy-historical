@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartied.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212140942id_/http%3A//www.smartied.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartied.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603205309id_/http%3A//www.smartied.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Smartied
 
@@ -63,4 +63,4 @@ Privacy Policy last updated: November 18th 2014
 
 ### Do You Have Any Questions?
 
-If you have any question or specific concerns regarding our privacy policy, [please send us a detailed e-mail message](mailto:shockpedia@gmail.com "Shockpedia").
+If you have any question or specific concerns regarding our privacy policy, [please send us a detailed e-mail message](mailto:smartiedblog@gmail.com).
