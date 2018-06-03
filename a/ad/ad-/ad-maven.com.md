@@ -1,73 +1,268 @@
-> *The following text is extracted and transformed from the ad-maven.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227145454id_/http%3A//ad-maven.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ad-maven.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603221408id_/http%3A//ad-maven.com/privacy.html) for the most accurate reproduction.*
 
 # Welcome to AdMaven
 
 Ad Maven serves over 15 Billion impressions on a monthly basis, in the display sphere.
 
-[Launch it](https://web.archive.org/web/20171227145454id_/http%3A//ad-maven.com/what.html)
+[Launch it](https://web.archive.org/web/20180603221408id_/http%3A//ad-maven.com/what.html)
 
 ####  A Advertisers _Extend your reach_
 
 Our Publishers enjoy the best advertisers out there and a large variety of Ads.
 
-[Launch it](https://web.archive.org/web/20171227145454id_/http%3A//ad-maven.com/what.html)
+[Launch it](https://web.archive.org/web/20180603221408id_/http%3A//ad-maven.com/what.html)
 
 ####  P Publishers _Improve ROI_
 
 ## AD MAVEN PRIVACY POLICY
 
-### This Privacy Policy (the “PP”) applies to User’s use of Ad-Maven.com (the "Site"), and any software, products and service offered by Ad Maven through the Site, or otherwise (if any) (the “Product(s)”). The Product(s) and the Site shall be referred to, collectively, as the “Software”, and this document set forth the privacy policies Ad Maven practices in the Software. This PP is an integral part of Ad Maven’s Terms of Use (available at [www.ad-maven.com/terms.html](http://ad-maven.com/terms.html)) (the “TOU”), and both PP and TOU shall be binding upon any user using or attempting to use the Software or any portion thereof (“User”). If you do not wish to bound by this PP and/or the TOU, exit the Site and/or terminate your usage (or attempt to use) of the Product(s). Ad Maven may collect certain information about User's web usage and sites User's has visited, which may be shared with third parties and used for advertising. 
+### 
 
-**1\. Non-personally Identifiable Information.**   
-1.1. Ad Maven and/or third parties utilizing its Software or to which Ad Maven allows access to the information gathered by the Software ("Third Parties") may collect non-personally identifiable information about Users. Non-personal identifiable information may include the User's browser name, internet protocol (IP) address, browser type, internet service provider (ISP), the type of Internet device the User's use and technical specifications of such device (such as the operating system and the Internet service such User utilize and other similar information) and other information of technical nature (such as date/time stamp, and clickstream data) or other information except for the defined below PII.   
-1.2. Ad Maven does not always have access or control over Third Parties information collection mechanisms, and such Third Parties practices are not covered by this PP but by the applicable policies set forth in such Third Parties Websites or products. 
+This Privacy Policy explains how we use the personal information that AdMaven Ltd. (" **AdMaven** ") collects or generates both in relation to this website and our products and services.
 
-**2\. Personal Identifiable Information.**   
-2.1. Ad Maven and/or Third Parties may collect PII (as defined below) from Users if such Users voluntarily submit such information. PII may be voluntary provided in a variety of ways, such as when Users visit the Site, register on the Site, place an order, subscribe to the newsletter, respond to a survey, and fill out a form. User is advised that by providing Ad Maven PII User gives his consent to Ad Maven to make use of such PII. PII - “Personally Identifiable Information” means any information which might reasonably be used to specifically identify User and may include, among other, User's name, title, company, address, email.   
-2.2. If PII is collected by Ad Maven, User is at any time entitled, under the Israeli Protection of Privacy Law, 5741-1981, whether himself or through a proxy so authorized in writing or through his/her legal guardian, to peruse information pertaining to him/herself that is stored in a database. Having perused such information and found it to be inaccurate, incomplete, unclear or out of date, such a person may contact the database owner and request to correct, amend or delete the data in question. Had the database owner refused to permit access or comply with a request to amend or delete information, the applicant may appeal to a magistrate’s court as stipulated by applicable regulations.   
-2.3. Moreover, should the information contained in the database be used for purposes of personally soliciting User, based on User's affiliation to any population group as determined according to one or more attributes of people whose names are included in the database (“solicitation for commercial purposes”), the Protection of Privacy Law, 5741-1981, entitles User to submit a written request that such information pertaining to the User be deleted from the database. In such a case, the Website management will delete any information required for solicitation for commercial purposes as stated above. Please note that deleting such information might prevent User from continuing to receive services from us. 
+This Privacy Policy applies to your use of AdMaven Website and/or AdMaven Products (as defined below). If you do not wish to bound by this PP and/or the TOU, exit the AdMaven Website, Publisher Asset (as defined below) and/or AdMaven Products terminate your usage (or attempt to use) of the Product(s). 
 
-**3\. Tracking Technologies and Use and Setting of Digital Identifiers.**   
-3.1. Digital identifier is information a site may put on User's hard disk so that this information and other related information may be utilized by such site at later time. No PII is collected Ad Maven by the use of such digital identifiers. Ad Maven and/or Third Parties collect and use the information collected through such digital identifiers for purposes such as to security purposes, analyzing trends, administrating the Site, tracking movement of Users on the Site and gather aggregate demographic information.   
-3.2. One of the digital identifiers the Software utilizes is called a "cookies". "Cookies" are small piece of data sent by the Software and stored in a User's web browser while User is browsing Internet Websites. Every time User loads a Website, the browser sends the cookie back to the server and notifies Ad Maven of User's previous Internet activity. The Cookies are placed on Users hard drive for record-keeping purposes and sometimes to track information about Users' internet usage. User may choose to set their web browser to refuse Cookies, or to alert when cookies are being sent. User is advised that if User chooses to activate such Cookies refusal cookie alert functionalities, the Software may not function properly.   
-3.3. Ad Maven and/or Third Parties employ sometime a software technology called clear gifs (a.k.a. web beacons/web bugs), that help Ad Maven and/or Third Parties better manage content on our site by informing Ad Maven what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Users. In contrast to cookies, which are stored on a User’s computer hard drive, clear gifs are embedded invisibly on web pages and are very small in size. Ad maven does not gather PII by clear gifs. 
+This Privacy Policy is current as of the Effective Date set forth above. We may change this Privacy Policy from time to time, so please be sure to check back periodically. We will post any changes to this Privacy Policy on AdMaven Website.
 
-**4\. Opt-out Option.** More information about Cookies and other ‘digital identifiers’ used by Ad Maven and/or Third Parties, and the ability to configure them is available through the links below. Ad-Maven utilizes AppNexus, amongst other adservers, as a 3rd party tool in order to deliver and track ads. In order to opt out of AppNexus 3rd party cookies, please visit: <http://appnexus.com//platform-policy>.   
-User may delete or Opt-Out of any third party ad technology, i.e. 'digital identifiers’ cookie, web beacon, or any other tracking mechanism used for data collection according to the instruction provided in   
-4.1. If technology is a member of the Network Advertising Initiative ("NAI") User shall note the NAI opt out page: <http://networkadvertising.org/choices/>   
-4.2. If technology is not a member of the NAI, users may clear their browser cookies by following these instructions, found at:   
-4.2.1. Chrome: <https://support.google.com/chrome/answer/95647?hl=en>   
-4.2.2. FireFox: <https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored>   
-4.2.3. Internet Explorer: <https://kb.wisc.edu/page.php?id=15141>
+The list below sets out what is covered in this Privacy Policy and you can click on the headings below to go to a specific section.
 
-**5\. How Information collected is used.** Ad Maven may use data collected for various purposes including the following:   
-5.1. To improve service it provides, or the Software (or any portion thereof).   
-5.2. To respond to User’s requests and support Ad Maven costumers needs more efficiently.   
-5.3. To personalize User(s) experience.   
-5.4. To offer User(s) with Content Ad Maven believes may interest such User(s), such as targeted advertising content or other commercial information.   
-5.5. To process payments.   
-5.6. To share User(S) information with third parties.   
-5.7. To send periodic emails. 
+**1.      ****BACKGROUND**
 
-**6\. How User Information Is Protect.**   
-6.1 Ad Maven adopts what it believes are appropriate security measures to the data it collects, in order to protect such data from unauthorized access. However it cannot guarantee the absolute security or confidentiality of information transmitted to the Site or by the Products, and User hereby acknowledges and assumes all risks relating to any such data communication and safeguard.   
-6.2 Ad Maven employs industry standard security measures to ensure the security of all data. Any data that is stored on our servers is treated as proprietary and confidential and is not available to the public. Ad Maven maintains an internal security policy with respect to the confidentiality of User's data, allowing access only to those employees or third parties who have a need to know such information.   
-6.3 While Ad Maven has taken measures to protect User's information, please know that (i) no computer system is immune from intrusion; and (ii) information transmitted to the Site may need to pass through many systems in order to process such information. Therefore, Ad Maven cannot guarantee the absolute security or confidentiality of information transmitted to the Site and you hereby acknowledge and assume the risks relating to any such communication. 
+**2.      ****THE PRODUCTS AND SERVICES WE PROVIDE** ****
 
-**7\. Sharing Information.** Ad Maven may use third party service providers who help Ad Maven operate its business or administer activities on our behalf, such as sending out newsletters or surveys. Ad Maven may share User's information with these third parties for those limited purposes provided that the User has given Ad Maven User's permission. However Ad Maven does not control such third parties practices and is not liable or responsible for any practices used by these third parties. 
+**3.      ****THE TYPES OF PERSONAL DATA WE COLLECT** ****
 
-**8\. Third Party Content.**   
-8.1 Certain content is made available to User through the Software by third parties (including Third Parties). Such content (which may include targeted advertising content) is made available to User by link to such third parties sites or products, ads displayed on User’s Internet device, or otherwise. Ad Maven does not control the content made available by such third parties or the practices employed by these third parties. Ad Maven is not and will not be liable or responsible for any content provided by such third parties or the practices they employ. User is advised to check the privacy policies and terms of use of any third party before interacting or making any use of such third Party’s software, site or product.   
-8.2 Our Site may also include social media features and scripts, such as the Facebook Like button and widgets, or interactive mini-programs that run on our site. These features may collect User's IP address, which page the User is visiting on our site, and may set a cookie to enable the feature to function properly. Social Media features and widgets are either hosted by a third party or hosted directly on our site. User's interactions with these features are governed by the privacy policy of the entity providing it. 
+**4.      ****HOW WE USE USER'S INFORMATION**
 
-**9\. Permitted Disclosures.** Ad Maven may disclose information provided by Users when required to do so by law, court order, or governmental authority, or when based upon its good faith belief that disclosure is necessary including, without limitation, to protect the rights of Ad Maven other Users right or ability to freely use the Software. 
+**5.      ****DISCLOSURE OF USER'S INFORMATION TO THIRD PARTIES**
 
-**10\. Compliance with Children's Online Privacy Protection Act.** Protecting the privacy of the very young is especially important. For that reason, Ad Maven does not knowingly collect or maintain information from Users it actually knows are under 13. 
+**6.      ****INTERNATIONAL** **TRANSFERS OF PERSONAL DATA**
 
-**11\. Contacting us.** For any un-clarity with respect to this PP or the privacy practices employed in the Software, Users are invited to contact: [advertisers@ad-maven.com](mailto:advertisers@ad-maven.com) OR [publishers@ad-maven.com](mailto:publishers@ad-maven.com). 
+**7.      ****HOW WE SAFEGUARD USER'S INFORMATION**
 
-12\. THE USER ACKNOWLEDGE AND AGREE THAT ANY DISPUTE OVER PRIVACY ISSUES IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PP AND THE TOU (INCLUDING LIMITATIONS ON LIABILITY). 
+**8.      ****HOW LONG WE KEEP USER'S PERSONAL DATA**
 
-13\. Ad Maven reserves the right to revise and amend this PP from time to time and any revised version will be deemed to be applicable from the first date of publication on the Site. 
+**9.      ****USER'S RIGHTS**
 
-This document was last updated on December 12, 2013
+**10.   ****DESIGNATED REPRESENTATIVE**
+
+**11.   ****QUESTIONS AND CONCERNS** ****
+
+  
+
+
+1.             **_BACKGROUND_**
+
+1.1              AdMaven with its registered office at 21A Habarzel Street, Tel Aviv, Israel and other companies in the AdMaven group collect and use certain Personal Data (as we defined below). AdMaven is responsible for ensuring that it uses that Personal Data in compliance with data protection laws. 
+
+1.2              At AdMaven we respect the privacy of our clients and we are committed to keeping all your Personal Data secure. This Privacy Policy governs the handling of Personal Data by AdMaven in the course of carrying on commercial activities. 
+
+1.3              We use the following definitions in this Privacy Policy: 
+
+### (A)         “Customer” a publisher who own/controls/operates Internet assets (such as Websites) (“Publisher Assets”) who incorporates AdMaven Products in his assets (“Publisher”) or an advertiser who provides us with content to be served through AdMaven Products and/or Publishers assets (“Advertiser”), or with whom AdMaven a contractual relationship 
+
+### (B)          “Personal Data” means any data which relates to a living individual who can be identified from that data or from that data and other information which is in the possession of, or is likely to come into the possession of, AdMaven (or its representatives or service providers). In addition to factual information, it includes any expression of opinion about an individual and any indication of the intentions of AdMaven or any other person in respect of an individual.
+
+### (C)           “AdMaven”, “we or “us” means AdMaven and other companies in the AdMaven group.
+
+### (D)         “AdMaven Website” www.ad-maven.com or any other AdMaven website displaying this Privacy Policy.
+
+### (E)          “User” a person making any use of AdMaven Website and/or AdMaven Products.
+
+2.1              This Privacy Policy concerns the following categories of information that we collect about the User when providing the following products and services:
+
+### (A)         Information we receive through our websites ("AdMaven Websites"); 
+
+### (B)          Information we receive through our products ("AdMaven Products");
+
+### (C)          Information we receive through our support or cloud-based services ("AdMaven Services").
+
+2.2              Personal Data may be collected from (a) AdMaven Websites – for example with respect to personnel of our Customers engaging us through the AdMaven Website; (b) AdMaven Products – for example when a User interact with Publisher assets.
+
+3.             **_THE TYPES OF PERSONAL DATA WE COLLECT_** **.** Many of the services offered by AdMaven require us to obtain Personal Data about a User in order to perform the services we have been engaged to provide. In relation to each of the services described at Section 2.1 above, we will collect and process the following Personal Data about the Users –
+
+3.1              **Information that a User provide to** **AdMaven**. This includes information about Users that they provide to us. The nature of the services Users are requesting will determine the kind of Personal Data we might ask for, though such information may include (by way of a non-exhaustive list):
+
+### (A)         basic Personal Data (such as first name; family name; position in the company; company name; company email address; business phone number; business address; city; postcode; country);
+
+### (B)          any information that a User choose to share on AdMaven internet forums which may be considered Personal Data. (Please note that AdMaven does not collate information included on AdMaven internet forums together with Personal Data from a User Center account or profile); 
+
+3.2              **Information that we collect or generate about  Users.** This includes (by way of non-exhaustive list): 
+
+### (A)         a file with Users' contact history to be used for enquiry purposes so that we may ensure that  Users are satisfied with the services which we have provided to them; 
+
+### (B)          information on the internet usage or browsing habits of Users of Publisher Assets (e.g. what websites or pages were visited by each User, any advertisements viewed by Users and resulting actions such as visits to other websites); and 
+
+### (C)          the internet browser used, the internet device operating system and device ID, IP address (from which geo location may be extracted to a level of a city)
+
+3.3              **Information we obtain from other sources.**
+
+### (A)         _Cookies_. 
+
+·            When Users visit AdMaven Websites, use AdMaven Products and/or Publisher Assets, cookies are used to collect technical information about the services that they use, and how they use them.
+
+·            For more information on the cookies used by AdMaven please see our Cookie Notice. 
+
+### (B)          _Anonymized data_. In addition to the categories of Personal Data described above, AdMaven will also process further anonymized information and data that is not processed by reference to a specific individual.
+
+3.4              **Information we get from third parties** : The information we collect comes mainly directly from Users or as a result of Users' browsing habits. Sometimes we might collect personal data about Users from other sources, such as publicly available materials or trusted third parties like our marketing and research partners. We use this information to supplement the personal data we already hold about Users, in order to better inform, personalize and improve our services, and to validate the personal data Users provide. 
+
+3.5              **Advertiser** **s**. We may also use third parties such as network Advertisers, which are third parties that display advertisements based on Users' visits to websites they have visited to target advertisements for products and services in which Users might be interested. Third-party ad network providers, Advertisers, sponsors and/or traffic measurement services may also use cookies, JavaScript, web beacons (including clear GIFs), Flash LSOs and other technologies to measure the effectiveness of their ads and to personalize advertising content to Users. These third-party cookies and other technologies are governed by each third party’s specific privacy policy, not this one. 
+
+4.             **_HOW WE USE USERS' INFORMATION_**
+
+4.1              Users' Personal Data may be stored and processed by us in the following ways and for the following purposes:
+
+### _Business operation_
+
+### (A)         to understand Users needs and interests;
+
+### (B)          through AdMaven Products, on Publisher Websites, we may provide advertisements to Users based on their recent browsing behavior on the Publisher Website. For example, if Users visit and browse on certain pages on Website A, on a subsequent online visit to Website A, Users may see content personalized based on their browsing history on Website A. For example, if Users visit a clothing retail site, we may offer them clothing-related ads. In order to target advertisements to Users for products and services in which Users might be interested, we may use cookies, JavaScript, web beacons (including clear GIFs), HTML5 local storage and other technologies. For more information about how we use these technologies, please refer to our [Cookie Policy](https://www.taboola.com/cookie-policy). 
+
+### (C)          to communicate with Users in order to provide them with services or information about AdMaven and AdMaven Products;
+
+### (D)         to allow Users to use and access the functionality provided by the AdMaven Products and/or AdMaven Website;
+
+### (E)          to assess Users' application for AdMaven Products and/or AdMaven Website, where applicable;
+
+### (F)          to set up Customers to use AdMaven Products and/or AdMaven Website;
+
+### (G)         to set up Users to use the User Center and/or AdMaven Website;
+
+### (H)         to personalize the User experience;
+
+### (I)            for the management and administration of our business. For example – (i) to respond to User's requests and support Taggzzo Costumers or Users needs more efficiently; (ii) to administrate payments;
+
+### (J)           for the administration and maintenance of databases storing Personal Data; 
+
+### _Security purposes_
+
+### (K)         to conduct analysis required to detect malicious data and understand how this may affect the User and/or our IT system; 
+
+### (L)          for statistical monitoring and analysis of current attacks on devices and systems and for the on-going adaptation of the solutions provided to secure devices and systems against current attacks;
+
+### (M)        to offer User(s) with content AdMaven believes may interest such User(s), such as targeted advertising content or other commercial information;
+
+### (N)         in order to comply with and in order to assess compliance with applicable laws, rules and regulations, and internal policies and procedures; 
+
+### _Research and development_
+
+### (O)         for ongoing review and improvement of the information provided on AdMaven Websites to ensure they are User friendly and to prevent any potential disruptions or cyber attacks;
+
+### (P)          to understand feedback on AdMaven Products and to help provide more information on the use of those products and services quickly and easily;
+
+### (Q)         for in-depth threat analysis;
+
+### (R)          to improve AdMaven Services, AdMaven Products and/or AdMaven Website and develop new products services and websites
+
+4.2              However we use Personal Data we make sure that the usage complies with law and the law allows us and requires us to use Personal Data for a variety of reasons. These include: 
+
+### (A)         we have obtained Users' consent;
+
+### (B)          we have legal and regulatory obligations that we have to discharge; 
+
+### (C)          we may need to do so in order to establish, exercise or defend our legal rights or for the purpose of legal proceedings;
+
+### (D)         the use of Users' Personal Data as described is necessary for our legitimate business interests, such as: 
+
+·            allowing us to effectively and efficiently manage and administer the operation of our business;
+
+·            we need to do so in order to perform our contractual obligations with our customers;
+
+·            maintaining compliance with internal policies and procedures;
+
+·            monitoring the use of our copyrighted materials;
+
+·            enabling quick and easy access to information on AdMaven Products;
+
+·            offering optimal, up-to-date security solutions for mobile devices and IT systems; and
+
+·            obtaining further knowledge of current threats to network security in order to update our security solutions.
+
+4.3              We will take steps to ensure that the Personal Data is accessed only by employees of AdMaven that have a need to do so for the purposes described in this Privacy Policy. 
+
+5.             **_DISCLOSURE OF USERS' INFORMATION TO THIRD PARTIES_** ** __**
+
+5.1              We may share Users' Personal Data within the AdMaven group of companies for the purposes described is Section **‎** 4.1 above.
+
+5.2              We may also share Users' Personal Data outside of the AdMaven group for the following purposes: 
+
+### (A)         with our business partners (such as AdMaven Customers). For example, this could include our Advertisers whose  content Users choose to interact with and Publishers whose Publisher Assets Users interact with. Personal Data will only be transferred to a business partner who is contractually obliged to comply with appropriate data protection obligations and the relevant privacy and confidentiality legislation;
+
+### (B)          with third party agents and contractors for the purposes of providing services to us (for example, AdMaven’s accountants, professional advisors, IT and communications providers and debt collectors). These third parties will be subject to appropriate data protection obligations and they will only use Users' Personal Data as described in this Privacy Policy;
+
+### (C)          if we sell our business or assets, in which case we may need to disclose Users' Personal Data to the prospective buyer for due diligence purposes; and
+
+### (D)         to the extent required by law, for example if we are required to disclose Users' Personal Data in order to comply with any legal obligation (including, without limitation, in order to comply with tax reporting requirements and disclosures to regulators), or to establish, exercise or defend its legal rights; 
+
+### (E)          if we are acquired by a third party, in which case the Personal Data held by us about Users will be disclosed to the third party buyer. 
+
+6.             **_INTERNATIONAL TRANSFERS OF PERSONAL DATA_**
+
+6.1              AdMaven is a global business. Our customers and our operations are spread around the world. As a result we collect and transfer Personal Data on a global basis. That means that we may transfer Users' Personal Data **** to locations outside of Users' country. 
+
+6.2              Where we transfer Users' Personal Data to another country outside the EEA, we will ensure that it is protected and transferred in a manner consistent with legal requirements. In relation to data being transferred outside of Europe, for example, this may be done in one of the following ways:
+
+### (A)         the country that we send the data to might be approved by the European Commission as offering an adequate level of protection for Personal Data (Israel is an approved country); 
+
+### (B)          the recipient might have signed up to a contract based on “model contractual clauses” approved by the European Commission, obliging them to protect your Personal Data;
+
+### (C)          where the recipient is located in the US, it might be a certified member of the EU-US Privacy Shield scheme; or
+
+### (D)         in other circumstances the law may permit us to otherwise transfer Users'Personal Data outside Europe.
+
+6.3              Users can obtain more details of the protection given to their Personal Data when it is transferred outside Europe (including a copy of the standard data protection clauses which we have entered into with recipients of Users' Personal Data) by contacting us as described in Section **‎** 12 below.
+
+7.             **_HOW WE SAFEGUARD USERS' INFORMATION_**
+
+7.1              We have extensive controls in place to maintain the security of our information and information systems. Client files are protected with safeguards according to the sensitivity of the relevant information. Appropriate controls (such as restricted access) are placed on our computer systems. Physical access to areas where Personal Data is gathered, processed or stored is limited to authorised employees. 
+
+7.2              As a condition of employment, AdMaven employees are required to follow all applicable laws and regulations, including in relation to data protection law. Access to sensitive Personal Data is limited to those employees who need to it to perform their roles. Unauthorised use or disclosure of confidential client information by a AdMaven employee is prohibited and may result in disciplinary measures.
+
+7.3              When Users contact a AdMaven employee about their file, they may be asked for some Personal Data. This type of safeguard is designed to ensure that only  a User , or someone authorised by the User, has access to their file.
+
+8.             **_HOW LONG WE KEEP USER PERSONAL DATA_**. How long we will hold Users' Personal Data for will vary and will be determined by the following criteria:
+
+8.1              the purpose for which we are using it – AdMaven will need to keep the data for as long as is necessary for that purpose; and
+
+8.2              legal obligations – laws or regulation may set a minimum period for which we have to keep Users' Personal Data.
+
+9.             **_USERS RIGHTS_** ** __**
+
+9.1              In all the above cases in which we collect, use or store Users' Personal Data, Users may have the following rights and, in most cases, Users can exercise them free of charge. These rights include:
+
+### (A)         the right to obtain information regarding the processing of Users' Personal Data and access to the Personal Data which we hold about them; 
+
+### (B)          the right to withdraw Users'  consent to the processing of Users' Personal Data at any time. Please note, however, that we may still be entitled to process Users'  Personal Data if we have another legitimate reason for doing so. For example, we may need to retain Personal Data to comply with a legal obligation; 
+
+### (C)          the right to request that we rectify Users'  Personal Data if it is inaccurate or incomplete;
+
+### (D)         in some circumstances, the right to receive some Personal Data in a structured, commonly used and machine-readable format and/or request that we transmit those data to a third party where this is technically feasible. Please note that this right only applies to Personal Data which Users  have provided directly to AdMaven;
+
+### (E)          the right to request that we erase Users'  Personal Data in certain circumstances. Please note that there may be circumstances where Users  ask us to erase their Personal Data but we are legally entitled to retain it;
+
+### (F)          the right to object to, or request that we restrict, our processing of Users'  Personal Data in certain circumstances. Again, there may be circumstances where Users object to, or ask us to restrict, our processing of Users'  Personal Data but we are legally entitled to refuse that request; and
+
+### (G)         the right to lodge a complaint with the relevant data protection regulator if Users think that any of their rights have been infringed by us.
+
+9.2              Users can exercise their rights by contacting us using the details listed in Section **‎** 12 below. 
+
+10.          **_THIRD PARTY CONTENT._**
+
+10.1           Certain content is made available through the AdMaven Products and/or AdMaven Website is of third parties. Such content (which may include targeted advertising content) is made available to Users by link to such third parties sites or products, ads displayed on their Internet device, or otherwise. AdMaven does not control the content made available by such third parties or the practices employed by these third parties. AdMaven is not and will not be liable or responsible for any content provided by such third parties or the practices they employ. Users are advised to check the privacy policies and terms of use of any third party before interacting or making any use of such third party’s software, site or product. 
+
+10.2           AdMaven Products and/or AdMaven Website may also include social media features and scripts, such as the Facebook Like button and widgets, or interactive mini-programs that run on our site. These features, if Users decide to use them, may collect their IP address, which page they are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our site. Users'  interactions with these features are governed by the privacy policy of the entity providing it.
+
+11.          **_CHILDREN’S PRIVACY_**
+
+The AdMaven Products and/or AdMaven Website content is intended for adults and we will not knowingly collect personal information from children under 16 years of age. If we become aware that we have unknowingly collected Personal Information from a child under the age of 16, we will make reasonable efforts to delete such information from our records.  If a User is the parent or legal guardian of a child under age 16 who they believe has submitted personal information to the AdMaven Products and/or AdMaven Website, They should contact us immediately.
+
+12.          **_QUESTIONS AND CONCERNS_**. If you have any questions or concerns about AdMaven’s handling of your Personal Data, or about this Policy, please contact our Privacy Officer using the following contact information:
+
+            _Address:_ Habarzel 21st street, Tel Aviv, Israel
+
+            _Email Address:_ Privacy@ad-maven.com
+
+We are usually able to resolve privacy questions or concerns promptly and effectively. If you are not satisfied with the response you receive from our Privacy Officer, you may escalate concerns to the applicable privacy regulator in your jurisdiction. Upon request, AdMavens’ Privacy Officer will provide you with the contact information for that regulator. 
+
+This document was last updated on May 24, 2018
