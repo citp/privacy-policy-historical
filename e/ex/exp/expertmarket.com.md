@@ -1,165 +1,233 @@
-> *The following text is extracted and transformed from the expertmarket.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213232807id_/http%3A//www2.expertmarket.com/privacy__cookies_policy_b2b_us__0316/eae1b/3ecbb) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertmarket.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604011458id_/http%3A//www2.expertmarket.com/privacy__cookies_policy_b2b_us__0316/eae1b/3ecbb) for the most accurate reproduction.*
 
-# MVF Global Ltd
+# Expert Market
 
-## PRIVACY POLICY
+You have certain rights in relation to your data, including the right to object to processing based on legitimate interests, profiling (including the use of custom and lookalike/similar audiences), and direct marketing. At any time, you can exercise your rights by emailing us at [dataprotection@mvfglobal.com](mailto:dataprotection@mvfglobal.com). For further details about our processing and your rights, please see below.
 
-### ABOUT THIS POLICY
+## CONTENTS
 
-Marketing VF Limited (" **we", "us", "our** ") is committed to respecting and protecting your personal information and privacy. We treat with the utmost care the personal information that you provide to us, or that we collect from you, through our website located at http://www.expertmarket.com/ (" **our site** "). 
+* About our site
+* How our site works
+* About us
+* What we don’t do with your data
+* What data we collect, and how
+* How we use your data
+* Cookies
+* Transferring your data
+* Storing your data
+* Legal grounds
+* Your rights 
+* Contacting us
+* Changes to this notice
 
-This Privacy Policy (together with our Cookies Policy below) sets out the basis on which any personal data that you provide to us, or that we collect from you, will be used by us. 
+### ABOUT OUR SITE
 
-Please read this Privacy Policy (together with our Cookies Policy below) and our [Terms of Use](http://www2.expertmarket.com/terms_of_use_en_b2b_0814/79d2f/3ecbb) carefully before you use our site, or access any information or services on our site. 
+Our site enables people to request quotes or information for the product or service shown or selected on this site (the **“Product”** ).
 
-By accessing or using our site, you will be deemed to have accepted the terms of this Privacy Policy (together with our Cookies Policy below) and our [Terms of Use](http://www2.expertmarket.com/terms_of_use_en_b2b_0814/79d2f/3ecbb). If you do not agree to such terms, you must not use our site. 
+The service that our site provides is to connect people who are looking to purchase the Product with relevant providers of the Product ( **“Service Providers”** ).
+
+### HOW OUR SITE WORKS
+
+If you’d like to request and receive quotes or information for the Product ( **“Quotes”** ), please complete and submit our webform.
+
+Once we’ve received your request, we’ll connect you with one or more relevant Service Providers. We’ll tell the Service Providers who you are, and your Product requirements, and they’ll then contact you directly with your requested Quotes.
+
+For certain products, before connecting you with relevant Service Providers, we may call you to confirm your details or requirements.
+
+You’ll see on our webform that we have a really clear consent statement. This statement sets out the Service Providers that will contact you.
+
+You can choose which Service Provider to buy from. But you don’t have to buy from any of them. There’s no obligation to purchase.
+
+We don’t work with any Service Providers until we have a legal contract in place. This is to ensure that they respect your data and rights by keeping your data secure and confidential, limiting their use of your data (i.e. to providing you with the requested Quotes), and not sharing your data with anyone else.
 
 ### ABOUT US
 
-For the purposes of the Data Protection Act 1998 (the "Act"), the data controller is Marketing VF Limited. 
+Expert Market is a brand of Marketing VF Limited ( **“MVF”, “we”, “us”, “our”** ) is a company registered in England and Wales (company number: 06951544), whose registered office address is at Imperial Works, Perren Street, London NW5 3ED, United Kingdom.
 
-Marketing VF Limited is a company registered in England and Wales under company number 06951544, whose registered office address is at Imperial Works, Block C; Perren Street; London NW5 3ED, United Kingdom. 
+For the purposes of the General Data Protection Regulation (the **“GDPR”** ), Marketing VF Limited is the controller in relation to your data. We are registered as a controller with the UK Information Commissioner’s Office (ICO) under registration number Z1995728. You can confirm our registration here: [www.ico.org.uk](https://ico.org.uk/)
 
-We are registered under the Act with the UK Information Commissioner's Office (ICO) under registration number Z1995728. 
+In relation to regulated products only, and our service in relation to the same, we are an Appointed Representative of Resolution Compliance Limited. You can confirm our UK Financial Conduct Authority (FCA) status, including the EEA passporting rights that we hold, here: [www.fca.org.uk](https://fca.org.uk/)
 
-### INFORMATION WE MAY COLLECT, AND HOW WE MAY COLLECT IT
+### WHAT WE DON’T DO WITH YOUR DATA
 
-When you request price comparisons, quotes or further information for products or services that are shown on our site, by completing and submitting our online form, you will provide us with the following personal and other information: Your first name, last name, job title, business or company name, email address, postal address, postal code and/or telephone number. We will keep a record of this information. 
+Before confirming what data we collect, and why, here’s what we definitely _don’t do_ with your data, unless clearly set out in this notice: 
 
-Our online forms may require other information to help us to understand your requirements, and find suitable suppliers for you. 
+* We don’t share it with anyone else.
+* We don’t use it for any purpose (including retargeting, commingling across multiple advertisers’ campaigns or allowing piggybacking or redirecting with tags), except on an aggregate and anonymous basis, and only to assess the performance and effectiveness of our advertising campaigns.
+* We don't use it to build, append to, edit, influence or augment user profiles, including profiles associated with any mobile device identifier or other unique identifiers that identify any particular user, browser, computer or device.
+* We don’t transfer it (including any anonymous, aggregate or derived data) to any advertising network, advert exchange, data broker, or other advertising or monetisation-related service.
 
-From time to time, we may change our online forms, and the personal and other information that we require. 
+### WHAT DATA WE COLLECT, AND HOW
 
-We may also collect and record your personal information if you: 
+If you complete our webform in order to request Quotes, it will ask you for your contact details, such as your name, email address, telephone number, postal address, and/or postal code.
 
-  * Complete and submit other forms on our site. 
-  * Contact us, or we contact you, by email, telephone or post for any reason. 
-  * Post comments, material or other content on our site. 
-  * Participate in promotions or competitions on our site. 
-  * Complete surveys or polls on our site, or that we send to you. 
+Our webform will also ask for information regarding your product requirements. 
 
+From time to time, we change our webforms, and so they may ask you for other information. It will always be clear from the webform what information we’re requesting, and we only request information that is relevant to your request, and the service that we’re providing.
 
+We also store and share Internet Protocol (IP) addresses, as explained below. Every computer or device has an IP address – a unique number – which enables it to communicate with other computers and devices over the Internet. 
 
-We may monitor and/or record telephone calls for the purposes of quality control and staff training.
+We may monitor and/or record these calls for the purposes of quality control and staff training. Also, occasionally, we may need to provide Service Providers with limited access to such recordings in order to resolve disputes.
 
-Each time you access our site, we may collect and record details of your visit, including (for example): Your IP address, operating system and browser type, the pages and resources that you have accessed, and other technical information. We collect and record this information automatically, through our use of cookies and similar technologies, which are further explained below. 
+Additionally, we might collect data about you if you: 
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal information, we cannot guarantee the security of your information transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access. 
+* Contact us, or we contact you, by email, telephone or post.
+* Post comments, material or other content on our site.
 
-### COOKIES AND SIMILAR TECHNOLGIES 
+### HOW WE USE YOUR DATA
 
-Our site uses cookies to distinguish you from other users of our site. This helps us to provide you with a good experience when you browse our site and also allows us to improve our site. Please read our Cookies Policy below. 
+We use your data (described above) in the following ways.
 
-### HOW WE MAY USE YOUR INFORMATION
+#### To connect you with relevant Service Providers
 
-When you request price comparisons, quotes or further information for products or services that are shown on our site (" **Information** "), through our online forms or otherwise, we may: 
+As explained above, if you submit our webform, we’ll pass your request to one or more relevant Service Providers (named on the consent statement). We will do this in a secure way. For example, using HTTP Secure (HTTPS), which means the data is encrypted. The Service Providers then contact you directly with your quotes. They may contact you by telephone, text/SMS or email.
 
-  * contact you by telephone, email or post with the Information; 
-  * contact you by telephone, email or post to confirm or verify your contact details or the details of your request; and/or
-  * pass on your personal information and the details of your request to selected suppliers of the products or services for which you have requested Information, who may contact you directly by telephone, email or post. 
+Before we pass your request to any Service Providers, our service may involve an element of automated decision-making. Our technology platform may automatically assess your Product requirements and pass your request to such Service Providers that would like to receive requests for Quotes at the time your request is made.
 
+We store IP addresses in order to stop unwanted traffic (i.e. spam) to our site. For example, if we become aware that spam is coming from a particular IP address (i.e. computer or location), we can block that IP address. From time to time, we also share IP addresses with Service Providers to enable Service Providers to verify that requests for Quotes have come from a particular country.
 
+#### To call you to confirm your details or requirements
 
-We may also use your personal and other information in the following ways: 
+For certain products, before connecting you with relevant Service Providers, we may call you to confirm your details or requirements.
 
-  * To contact you by telephone, email or post to ask about your experiences with the selected suppliers and request feedback. This might be in the form of survey questions, for example.
-  * To contact you by telephone, email or post with information about other products and services (ours and third parties') in which we think you may be interested.
-  * To pass on your personal information to selected suppliers of other products or services in which we think you may be interested, who may contact you directly by telephone, email or post.
-  * If you consent, to pass your contact details, including your email address, to organisations that have a relationship with you to enable such organisations to update their records. 
-  * To facilitate communication between you and our customers (i.e. suppliers of products and services that are shown on our site).
-  * To carry out our obligations arising from any contracts entered into between you and us. 
-  * To enable you to access and use our site and services. 
-  * To ensure that the content on our site is presented in the most effective manner for you and for your computer, and improve our site. 
-  * To notify you about changes to our site or services. 
+We may also call you to ask about your experience using our site and service, and dealing with the Service Providers with which we connected you.
 
+**To email you about similar products and services – _But only if you haven’t opted out of such emails_**
 
+If you use our quote request service, then, as an existing user, we would like to email you, or send you text/SMS messages, about similar products and services for which we think you might like quotes or information ( **“Other Products”** ).
 
-We may also use, and provide our customers with, anonymised aggregated information about our site users.
+You will always be given an opportunity to opt out of such messages before we send them, and we will not send such messages if you have opted out.
 
-### DISCLOSING/SHARING YOUR INFORMATION
+#### To create custom and lookalike/similar audiences
 
-We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
+We like to work with Facebook, Google and other platforms ( **“Platforms”** ) to reach out to you with adverts for Other Products. We also like to use Platforms to reach out to other people who might like to use our quote request service.
 
-We may disclose your personal information to third parties: 
+We do this in two ways. In both cases, your data, along with other data, is used to create a custom audience and/or a lookalike/similar audience. Whenever an audience is shared with a Platform, the data is first hashed and pseudonymised, meaning that any data within the audience that could identify a person is replaced with an artificial identifier. So, the process is secure. Also, we don’t share more data than we need to for the purpose of creating the audience.
 
-  * In the event that we sell or buy any business, assets or shares, in which case we may disclose your personal information to the prospective seller or buyer of such business, assets or shares. 
-  * If we, or substantially all of our assets, are acquired by a third party, in which case personal information held by us about our site users, including you, will be one of the transferred assets. 
-  * If we are under a duty to disclose or share your personal information in order to comply with any legal obligation; or in order to enforce or apply our [Terms of Use](http://www2.expertmarket.com/terms_of_use_en_b2b_0814/79d2f/3ecbb) and other agreements; or to protect our rights, property or safety, or the rights, property or safety of our site users, customers, affiliates, suppliers or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
+* **Custom audience** – A custom audience is a list of existing users of our service ( **“Existing Users”** ). From time to time, we share this with Platforms. As explained above, the data is first hashed and pseudonymised. The Platform uses this audience to show our Existing Users our adverts for Other Products.
+* **Lookalike/similar audience** – A lookalike/similar audience is an audience created by the Platform. From time to time, we share with Platforms a list of Existing Users. The Platform uses this list to find and create lookalikes – i.e. other Platform users who have similar characteristics to the Existing Users – to which it shows our adverts. Again, as explained above, the data is first hashed and pseudonymised.
 
+As we explain below, at any time, you may object to such activity by emailing us at [dataprotection@mvfglobal.com](mailto:dataprotection@mvfglobal.com).
 
+#### Receiving data from Service Providers
 
-### WHERE WE STORE YOUR INFORMATION
+From time to time, Service Providers may return data to us. They may do this if they have a query regarding a request for Quotes that we have sent to them in order to enable us to resolve the query. They may also return data to us, together with confirmation on whether or not a product has been purchased, in order to enable us to improve our marketing. We may also use such data to create custom and lookalike/similar audiences, as explained above.
 
-The information that we collect from you may be collected, transferred to, processed and/or stored in countries outside the European Economic Area (the " **EEA** "). Those countries may not have the same level of legal protection as countries in the EEA. If we do transfer your information in this way, we will take steps to ensure that it is protected to the same levels that apply in the EEA. 
+#### Working with suppliers
+
+We work with a number of suppliers, who process data on our behalf. These include cloud storage providers, email service providers, and cloud telephony providers. We have appropriate contracts in place with such suppliers to ensure the protection and confidentiality of data.
+
+### COOKIES
+
+Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. At the bottom of this policy, we have included a table, setting out what cookies we use, and the purposes for which we use them.
+
+Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.aboutcookies.org](http://www.aboutcookies.org/) or [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+
+To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>.
+
+### TRANSFERRING YOUR DATA
+
+Depending on the countries in which you’re looking for Service Providers, we may transfer your data outside the European Economic Area (the **“EEA”** ). For example, if you’re looking for Service Providers in the USA, we may need to transfer your data to the USA.
+
+Some of those countries (e.g. Canada, New Zealand, USA) have a European Commission adequacy decision, which means they are considered to offer an adequate level of data protection.
+
+Other countries do not have the same level of legal protection as countries in the EEA, or with an adequacy decision. If we do transfer your data in this way, we will take steps to ensure that it is protected to the same levels that apply in the EEA. This may include, for example, ensuring that the organisation receiving the data is registered with the EU-US Privacy Shield (in the case of transfers to the USA), or that we use the EU’s model contract clauses.
+
+### STORING YOUR DATA
+
+We have a data retention policy, which clearly sets out how long we keep data for, and for what reasons.
+
+We will keep your data only for as long as is necessary to fulfil the purpose/s for which it was collected in the first place, i.e. as set out in this notice.
+
+For example: 
+
+* We will keep your request for Quotes for 6 months after you make the request to enable us to resolve any queries from Service Providers, should they arise.
+* If you haven’t opted out of receiving marketing from us, we will keep your details, and send you emails, until such time as you don’t engage with our emails for a period of 6 consecutive months.
+
+Following the periods set out above, we will not use the data, save that we will hash/anonymise the same, and retain it for a further 3 years for compliance purposes.
+
+### LEGAL GROUNDS
+
+This notice sets out (above) how we use your data. Under the GDPR, controllers must have a valid lawful basis for each processing activity that they undertake. This section sets out our lawful basis for each activity.
+
+**Activity** | **Lawful Basis under the GDPR** | **Your Rights**  
+---|---|---  
+To connect you with relevant Service Providers | Consent | To withdraw your consent, as explained below  
+The automated decision-making explained above | Legitimate interests | You have the right to object to processing based on legitimate interests  
+Using and sharing IP addresses | Legitimate interests | You have the right to object to processing based on legitimate interests  
+To call you to confirm your details or requirements | Consent | To withdraw your consent, as explained below  
+Sharing call recordings with Service Providers | Legitimate interests | To object to processing based on legitimate interests  
+To email you about similar products and services | Legitimate interests* | To object to processing based on legitimate interests. You also have the right to object to direct marketing   
+To create custom and lookalike/similar audiences | Legitimate interests | You have the right to object to processing based on legitimate interests  
+Receiving data from Service Providers | Legitimate interests | You have the right to object to processing based on legitimate interests  
+  
+_*Under the Privacy and Electronic Communications (EC Directive) Regulations 2003 (PECR), we send such emails on the basis of the existing customer (soft opt-in) exemption._
+
+In each case where we have identified legitimate interests as the legal basis for our processing, we have conducted a legitimate interests assessment.
 
 ### YOUR RIGHTS
 
-You have certain rights under the Act.
+Under the GDPR, you have a number of rights. In relation to our site, and the service that we provide, those rights are set out in the table above. We further explain these rights, and your other rights, below.
 
-At any time, you may ask us to stop sending direct marketing communications. You can exercise this right by contacting us at the postal or email address set out below. 
+**Right of access** – You have the right at any time to ask us for a copy of the personal information that we hold about you, and to check that we are lawfully processing it.
 
-You can also use the unsubscribe/opt-out link within our marketing emails. 
+**Right of rectification** – If personal information that we hold about you is not accurate or is out of date and requires amendment or correction you have a right to have the data rectified or completed.
 
-You also have the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10.00 to meet our costs in providing you with details of the information we hold about you. 
+**Right of erasure** – In certain circumstances, you have the right to request that personal information we hold about you is erased (e.g. if the information is no longer necessary for the purposes for which it was collected or processed).
 
-Our site may, from time to time, contain links to and from the websites of third parties (such as, for example, our customers). If you follow a link to any of these websites, please note that these websites have their own terms of use and privacy and/or cookies policies, and that we do not accept any responsibility or liability for these terms or policies. Please check these terms and policies before you submit any personal information to these websites. 
+**Right to object to or restrict processing** – In certain circumstances, you have the right to object to our processing of your personal information. For example, if we are processing your information on the basis of our legitimate interests, and there are no compelling legitimate grounds for our processing which override your rights and interests.
 
-### CHANGES TO OUR PRIVACY POLICY
+**Right of data portability** – In certain instances, you have a right to receive any personal information that we hold about you in a structured, commonly used and machine-readable format.
 
-From time to time, we may make changes to this Privacy Policy. 
+**Right to withdraw consent** – In the limited circumstances where you may have provided your consent to the collection, processing and transfer of your personal information for a specific purpose, you have the right to withdraw your consent for that specific processing at any time. You can exercise this right by accessing our [Preference Centre](https://preferences.safe-click.net/).
 
-Any changes that we make to this Privacy Policy in the future will be posted on this page. We recommend that you re-visit this page from time to time to take notice of any changes to this Privacy Policy. 
+#### Exercising your rights
 
-### CONTACT
+As explained above, you can exercise your right to withdraw consent by accessing our preference centre <https://preferences.safe-click.net/>.
 
-Questions, comments and requests regarding this Privacy Policy should be addressed to the Data Protection Officer, Marketing VF Limited, Ryland House, 24a Ryland Road, London NW5 3EH, United Kingdom, or to the Data Protection Officer at info@expertmarket.com.
+If you wish to exercise any of your other rights under the GDPR, please email us at [dataprotection@mvfglobal.com](mailto:dataprotection@mvfglobal.com). Alternatively, you can write to us at the address set out above, or inform us if you speak with us on the phone.
 
-## 
+Our lead supervisory authority for the processing set out in this notice is the UK Information Commissioner’s Office (ICO). If you are unhappy with how we have processed your data, you have the right to make a complaint to the ICO.
 
-COOKIES POLICY
+If you are based outside of the UK, or you have a complaint concerning our activities outside of the UK, you may prefer to lodge a complaint with a different Supervisory Authority. A list of relevant authorities can be accessed [here](http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080).
 
-Our site uses cookies to distinguish you from other users of our site. This helps us to provide you with a good experience when you browse our site and also allows us to improve our site.
+### CONTACTING US
 
-By accessing or using our site, you are agreeing to our use of cookies, as described in this Cookies Policy. If do not agree to such use, you must not use our site. 
+If you have any questions regarding this notice, or any questions relating to data protection or privacy, you can contact us at [dataprotection@mvfglobal.com](mailto:dataprotection@mvfglobal.com).
 
-### WHAT IS A COOKIE?
+Alternatively, you can write to us at the address set out above.
 
-A cookie is a small file of letters and numbers that, when you visit our site, we download and store on your browser or the hard drive of your computer or other device. They allow us to recognise your computer or other device, and deliver a better and more personalised service to you. 
-
-### TYPES OF COOKIES
-
-Cookies can be session cookies or persistent cookies, and can be either first or third party cookies as defined below: 
-
-**Session cookies** : These allow us to track and link your actions during a single browser session, e.g. to remember the items returned from a search. These are created temporarily and, once you close your browser, all session cookies expire and are deleted. 
-
-**Persistent cookies** : These allow us to authenticate you, and remember your preferences and therefore enable us to enhance your website experience. These remain on your device between browser sessions. 
-
-**First and third party cookies** : Session cookies and persistent cookies can be either first or third party cookies depending upon the domain placing the cookie. First party cookies are those set by our site. Third party cookies are issued by a different site to our site. 
-
-We use a mixture of all these types of cookies on our site to provide our services and enhance your experience. Some of the cookies used on our site are Essential/Strictly Necessary cookies, Analytical/Performance cookies, Functionality cookies and Advertising/Targeting cookies, as set out and described in the table below. 
-
-### HOW YOU CAN MANAGE COOKIES & MORE INFORMATION
-
-Generally, you can set your browser to accept all cookies, block/reject all cookies, or modify your browser to alert you of any new cookies. To clear the stored cookies, you can normally go to the Tools dropdown menu at the top of the browser window. 
-
-Our site, or parts of it, may not function without technical problems or be accessible if you have disabled cookies in your browser. 
-
-You can find more information about cookies, including how to see what cookies have been set and how to manage and delete them, by visiting [www.aboutcookies.org ](http://www.aboutcookies.org/)or [www.allaboutcookies.org](http://www.allaboutcookies.org/).
-
-### COOKIES WE USE
-
-Type of Cookies | Name | Purpose | What info does it hold?  
----|---|---|---  
-**Analytical/Performance cookies** | __utma |  Used to distinguish users and sessions. The cookie is created when the javascript library executes and no existing __utma cookies exists. The cookie is updated every time data is sent to Google Analytics. |  Anonymous tracking data to identify user or session  
-| __utmb |  Used to determine new sessions/visits. The cookie is created when the javascript library executes and no existing __utmb cookies exists. The cookie is updated every time data is sent to Google Analytics. |  Anonymous new tracking data  
-| __utmc |  Not used in ga.js. Set for interoperability with urchin.js. Historically, this cookie operated in conjunction with the __utmb cookie to determine whether the user was in a new session/visit. |  Anonymous data same as __utmb  
-| __utmz |  Stores the traffic source or campaign that explains how the user reached your site. The cookie is created when the javascript library executes and is updated every time data is sent to Google Analytics. |  Anonymous data showing how the user got to the site  
-**Functionality cookies** | abtest | Stores the traffic source or campaign that explains how the user reached your site. The cookie is created when the javascript library executes and is updated every time data is sent to Google Analytics. | Anonymous data showing how the user got to the site  
-| has_js | Helps identify if the user supports Javascript for important functionality |   
-| reference_id | Maintain sessions for users on our drupal sites. Allowing users to get more complete experiences while nagivating the site. |  Anonymous drupal session ID  
+**Cookie** | **Name** | **Purpose**  
+---|---|---  
+Universal Analytics (Google) | _ga _gali _gat_UA-1036645-1 _gid  | These cookies collect information about how visitors use our website. We use the information to compile reports and to make improvements. The cookies collect information in an anonymous form, including where visitors have come to the website from and the pages they visited. To opt-out: <https://tools.google.com/dlpage/gaoptout>  
+Taboola Retargeting |  | These cookies are used to tailor Taboola adverts to a user’s previous viewing habits. For instance, if you have previously visited our page, you may then see other adverts related to that product or service. Taboola is an ad network that shows sponsored content, usually as links below the article on major news sites.  
+Outbrain Retargeting |  | These cookies are used to tailor Outbrain adverts to a user’s previous viewing habits. For instance, if you have previously visited our page, you may then see other adverts related to that product or service. Outbrain is an ad network that shows sponsored content, usually as links below the article on major news sites.  
+Adwords Retargeting (Google) |  | These cookies are used to adjust the targeting of our paid search and display advertising to show ads to users who have previously been to our sites and/or engaged with our page such as completing a form. They contain no personal information.  
+DoubleClick Retargeting |  | These cookies are used to adjust the targeting of our display advertising to show ads to users who have previously been to our sites and/or engaged with our page such as completing a form. They contain no personal information.  
+Taboola Conversion Tracking |  | These cookies measure ad conversions and optimise spend for advertising campaigns served on Taboola.  
+Outbrain Conversion Tracking |  | These cookies measure ad conversions and optimise spend for advertising campaigns served on Outbrain.  
+Yahoo Conversion Tracking |  | These cookies measure ad conversions and optimise spend for advertising campaigns served on Yahoo Gemini.  
+Zemanta Conversion Tracking |  | These cookies measure ad conversions and optimise spend for advertising campaigns served on Zemanta.  
+Ligatus/LiquidM Conversion Tracking |  | These cookies measure ad conversions and optimise spend for advertising campaigns served on Ligatus and LiquidM.  
+Plista Conversion Tracking |  | These cookies measure ad conversions and optimise spend for advertising campaigns served on Plista.  
+Revcontent Conversion Tracking |  | These cookies measure ad conversions and optimise spend for advertising campaigns served on Revcontent.  
+EngageYa Conversion Tracking |  | These cookies measure ad conversions and optimise spend for advertising campaigns served on EngageYa.  
+Adwords Conversion Tracking |  | These cookies measure when a user has completed an action on site such as completing a form. They contain no personal information.  
+Bing Conversion Tracking | UET Tag | These cookies measure when a user has completed an action on site such as completing a form. They contain no personal information.  
+DoubleClick Conversion Tracking |  | These cookies measure when a user has completed an action on site such as completing a form. They contain no personal information.  
+Facebook Pixel |  | These cookies measure ad conversions, optimise and build audiences for advertising campaigns served on Facebook. To opt-out: <https://www.facebook.com/policies/cookies/>.   
+Nanigans JavaScript Pixel |  | These cookies measure ad conversions and optimise advertising campaigns managed through Nanigans. They contain no personal information. To opt-out: <http://www.nanigans.com/privacy-policy/>  
+Twitter Pixel |  | These cookies measure ad conversions and optimise advertising campaigns served on Twitter. To opt-out: <https://help.twitter.com/en/safety-and-security/privacy-controls-for-tailored-ads>  
+LinkedIn Pixel |  | These cookies measure ad conversions, optimise and build audiences for advertising campaigns served on LinkedIn. To opt-out: <https://www.linkedin.com/legal/cookie-policy>  
+Pinterest Tag |  | These cookies are used to track conversions, optimise and build audiences to reach customers on Pinterest. To opt-out: <https://help.pinterest.com/en/articles/personalized-ads-pinterest>  
+Skimlinks |  |  Our website receives paid commission on sales of those products or services we write about. In some instances, we use a 3rd Party to enable these affiliate partnerships. To opt-out: <https://skimlinks.com/privacy-policy#users>  
+Amazon Associates |  | These cookies track referral visits to Amazon for which we may earn commission for any eventual purchases.  
+Adsense |  | AdSense uses cookies to improve advertising e.g. displaying targeted advertisements and avoiding showing advertisements that the user has already seen. These cookies contain no personally identifiable information.   
+VWO | _vwo | These cookies are used to help us optimise our sites by running tests and measuring user conversions. It is also used to track user information when visiting the site (e.g. browser and device information).  
+HotJar |  | Hotjar uses cookies and other technologies to collect data on our users’ behaviour (e.g. how much time they spend on which pages, which links they choose to click etc) and their devices (in particular device’s IP address, captured and stored only in anonymised form, preferred language settings etc). This enables us to better understand our users’ needs and to optimise this service and experience. Hotjar stores this information in a pseudonymised user profile. Neither Hotjar nor we will ever use this information to identify individual users or to match it with further data on an individual user. To opt out: <https://www.hotjar.com/legal/compliance/opt-out>  
   
-### THIRD PARTIES
+### CHANGES TO THIS NOTICE
 
-Third parties (including, for example, advertising networks and providers of external services such as web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or advertising/targeting cookies. 
+From time to time, we may update this notice.
 
-**_Last updated_** : 03/2016 
+**Last reviewed: 14 May 2018**
