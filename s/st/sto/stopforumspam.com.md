@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stopforumspam.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229015323id_/https%3A//www.stopforumspam.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stopforumspam.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604201034id_/http%3A//stopforumspam.com/privacy) for the most accurate reproduction.*
 
 # Stop Forum Spam
 
