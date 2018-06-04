@@ -1,97 +1,87 @@
-> *The following text is extracted and transformed from the aidanbooth.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113171246id_/http%3A//aidanbooth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aidanbooth.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605004652id_/http%3A//aidanbooth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **PRIVACY POLICY**
 
-Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet’s vast array of information, tools, and opportunities with complete confidence.
+Our Privacy Policy (dated 23.4.2018)
 
-We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how our company collects information from all end users of our Internet services (the “Services”)-those who access some of our Services but do not have accounts (“Visitors”) as well as those who may purchase Products and/or pay a monthly service fee to subscribe to the Service (“Members”)-what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. We request that you read this Privacy Policy carefully.
+We are committed to ensuring that your privacy is protected.
 
-**Personal Information Our Company Collects and How It Is Used**
+This is our privacy policy (dated 23.4.2018). Our services and information provided, and therefore this policy are aimed at people aged over the age of 18.
 
-Introduction. Our company collects information in different ways from Visitors and Members who access the various parts of our Services and the network of Web sites accessible through our Service. We use this information primarily to provide a customized experience as you use our Products and Services, and generally, do not share this information with third parties. However, we may disclose personal information collected if we have received your permission beforehand or in very special circumstances, such as when we believe that such disclosure is required by law or other special cases described below.
+**The information you need to know about us:**
 
-Registration:  Members may be asked to provide certain personal information when they sign up for our Products or Services including name, address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. The personal information collected from Members during the registration process is used to manage each Member’s account (such as for billing purposes). This information is not shared with third parties, unless specifically stated otherwise or in special circumstances.
+We are Blueprint Information Products and/or Volta Marketing Limited (herein referred to as ‘the company’), doing business as AidanBooth.com.
 
-However, in instances where our company and a partner jointly promote our Services, we may provide the partner certain personal information, such as the name, address, and username of persons who subscribed to the Services as a result of the joint promotion for the sole purpose of allowing us and the partner to assess the results of the promotion.
+**The information we collect and how we use it**
 
-In this instance, personal information may not be used by the partner for any other purpose. We may also generate non-identifying and aggregate profiles from personal information Members provide during registration (such as the total number, but not the names, of Members). As explained in more detail below, we may use this aggregated and non-identifying information to sell advertisements that appear on the Services.
+When subscribing to an email list with us, completing a survey, downloading software tools or information, or buying one of our products, you may be asked to share information about who you are and your contact information. This will include but not be limited to your name, email, and phone number. Where billing information is required we will need an address.
 
-Our Company Partners and Sponsors:  Some products and services may be offered to Visitors and Members in conjunction with an affiliate, independent contractor seller or non-affiliated partner. To provide Visitors and Members some of these products and services, the partner may need to collect and maintain personal information. In these instances, you will be notified before any such data is collected or transferred and may decide not to use that particular service or feature.
+You should understand that any information that you provide via this web site may be used by us to contact you regarding delivery of information, important notifications, promotional material, or any matter relating to AidanBooth.com and related services, your request or use of this web site.
 
-Additionally, our partners may have advertisements or co-branded Web Pages that are cosponsored by an affiliate, independent contractor seller, or non-affiliated partner. Our company may share non-identifying and aggregate information (except as described above), but not personal information, with such partners in order to administer the co-branded products or services offered.
+This site incorporates the use of Cookies. Cookies are small data text files that are sent from a server computer during a browsing session. Cookies are typically stored on your computers hard drive and are used by Websites to simulate a continuous connection to that site. In order to make our site more responsive to your needs we use cookies to track and manage information relative to your specific interests. In this way we can tailor our site to your needs, deliver a better and more personalised service and track the pages on our site that you visit. The use of cookies automatically identifies your browser to our computers whenever you interact with our site. Your browser options allow you to disable cookies. You should note that if you do disable cookies, you may not be able to access all the services on this site.
 
-Online Shopping:  At some Web sites, you can purchase products and services or register to receive materials, such as a newsletter, catalog or new product and service updates. In many cases, you may be asked to provide contact information, such as your name, address, email address, phone number, and credit/debit card information.
+**Who we share your data with**
 
-If you complete an order for someone else, such as an online gift order sent directly to a recipient, you may be asked to provide information about the recipient, such as the recipient’s name, address, and phone number. Our company has no control over the third parties’ use of any personal information you provide when placing such an order. Please exercise care when doing so.
+The data processors we use for our business operations who process your data under our control include:
 
-If you order services or products directly from our company we will use the personal information you provide only to process that order. We do not share this information with outside parties except to the extent necessary to complete that order.
+– Aweber.com for email marketing campaigns  
+– FloatHosting.com who provide website hosting  
+– Rackspace.com who provide website hosting  
+– Google.com (analytics) who provide website tracking and statistical services  
+– Facebook.com who track website visitor  
+– GoToWebinar who provide our webinar hosting platform  
+– Clicky.com who provide website tracking  
+– VWO.com who provide website split testing solutions
 
-Online Advertisements:  Our company may display our online advertisements. In those cases we share aggregated and non-identifying information about our Visitors and Members collected through the registration process as well as through online surveys and promotions with these advertisers.
+**Sharing your data with other 3rd partie** s
 
-Additionally, in some instances, we use this aggregated and non-identifying information to deliver tailored advertisements or joint ventures. For instance, an advertiser or joint venture company tells us the audience they want to reach and provides us an advertisement tailored to the audience. Based upon the aggregated and non-identifying information we have collected, we may then display or send the advertisement to the intended audience. Our company does not share personal information about its Visitors or Members with these advertisers or joint venture companies.
+Should you register on this website to download any 3rd party content, we may pass your contact information to 3rd parties who either a) are partners of the event in question or b) are providers of the content you have downloaded. In the process of registering for an event or accessing content, you will be reminded of the fact that your data will be shared with named 3rd parties. We may also share your details under special circumstances such as when we believe in good faith that it is required by law.
 
-Responses to Email Inquiries: When Visitors or Members send email inquiries to our company, the return email address is used to answer the email inquiry we receive. Our company does not use the return email address for any other purpose and does not share the return email address with any third party.
+**How long we keep your personal information**
 
-Voluntary Customer Surveys:  We may periodically conduct both business and individual customer surveys. We encourage our customers to participate in these surveys because they provide us with important information that helps us to improve the types of products and services we offer and how we provide them to you. Your personal information and responses will remain strictly confidential, even if the survey is conducted by a third party. Participation in our customer surveys is voluntary.
+We will keep your personal information until a period of 36 months has passed since you have engaged, clicked on, opened, or replied to one of our email communications.
 
-We may take the information we receive from individuals responding to our Customer Surveys and combine (or aggregate) it with the responses of other customers we may have, to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of our services to you, and to develop new services and products. This aggregated, non-personally identifying information may be shared with third parties.
+In certain circumstances, we have a statutory obligation to keep your personal information for a set period of time for example financial information (normally 6-7 years) for financial auditing purposes.
 
-Promotions:  Our company may offer polls, contests, sweepstakes, drawings, games, content, or other promotions that are sponsored by or cobranded with third parties. In certain instances, company may have to supply personally identifiable information of the winners to the third parties. Our company has no control over third parties’ use of this information.
+**How to keep your personal information up-to-date**
 
-You may be entered in a sweepstakes, contest, or other promotion, simply by making a purchase from us or by providing us with personally identifiable information for some other reason or purpose. When the winning entries are chosen, only the names and personally identifiable information of the winners are shared with the entity administering the sweepstakes or contest, so that they can notify the winners.
+It’s important for both you and us that your personal information is correct. If you believe this not to be the case and you are registered on this website then please contact us and ask that we update your details. You can do this by submitting a support ticket at http://support.blueprintcentral.com.
 
-Special Cases:  It is our company’s policy not to use or share the personal information about Visitors of Members in ways unrelated to the ones described above without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses.
+**How you can find out about the information we hold about you**
 
-However, we may disclose personal information about Visitors or Members, or information regarding your use of the Services or Web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: credit agencies, collection agencies, merchant database agencies, law enforcement, or to satisfy laws, such as the Electronic Communications Privacy Act, the Child Online Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Acceptable Use Policy or Terms Of Service, or other user policies; to operate the Services properly; or to protect our company and our Members.
+You have the right to request a copy of the information that we hold about you.
 
-Notice of Compliance to California Residents  Your California Privacy Rights Under The California Online Privacy Protection Act and the California Business and Professions Code
+If you would like a copy of some or all of your personal information, please email us using the contact details in this policy.
 
-This privacy policy identifies the categories of personally identifiable information that our company collects through our Web site or online service, about individual consumers who use or visit our company’s commercial Web site or online service and the categories of third-party persons or entities with whom our company may share that personally identifiable information.
+We will get in contact to verify your identity and if we do hold information about you we will:
 
-Our company does not maintain a process for an individual consumer who uses or visits our commercial Web site or online service to review and request changes to any of his or her personally identifiable information that is collected through our Web site or online service.
+– give you a description of it  
+– tell you why we are holding it  
+– let you have a concise and clear copy of the information
 
-See the section below entitled “Revisions To This Policy” for a description of the process by which our company notifies consumers who use or visit our commercial Web site or online service of material changes to our company’s privacy policy for this Web site or online service.
+**Our legal basis for processing your personal information**
 
-The effective date of this privacy policy is listed at the end of this privacy policy under the heading, “Last updated.”
+When we are communicating with you regarding products and services you may be interested in receiving from us or our partners in the future our basis for processing is our legitimate interest (as we are communicating with you in the context of your corporate activity and identity and not in relation to your private life we believe this to be reasonable and fair behaviour in the context of our audience. Of course you will always have the opportunity to object as detailed below).
 
-For the purposes of this policy and California compliance the following definitions apply:
+**Asking us to suppress or remove your personal information**
 
-Depending on the visitor’s activity, in our commercial Web site or online service, the following “personally identifiable information” may be collected, in addition to information set forth in other sections of this document.
+Should you wish to not receive information from us in future then you can quickly action this by clicking the unsubscribe link you will find on our marketing e-mails or by sending your details to support@blueprintcentral.com and we will quickly suppress your data.
 
-The term “personally identifiable information” means individually identifiable information about an individual consumer collected online by our company from an individual and maintained  
-by our company in an accessible form, and may include any of the following:
+Should you further wish for us to remove your information entirely (and assuming we have no other obligation to keep it) then please let us know and we will do this – but we would encourage you to let us use it for suppression purposes only.
 
-(1) A first and last name.  
-(2) A home or other physical address, including street name and name of a city or town.  
-(3) An e-mail address.  
-(4) A telephone number.  
-(5) A social security number.  
-(6) Any other identifier that permits the physical or online contacting of a specific individual.  
-(7) Information concerning a user that the Web site or online service collects online, from the user, and maintains in personally identifiable form, in combination with an identifier described within this privacy policy.
+**What to do if you have a complaint**
 
-Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we have shared information about you or your family for their marketing purposes during the previous calendar year, if any, and a description of the categories of personal information shared. To make such a request, please send an email to [Privacy@PrivacyRequest.com](mailto:Privacy@PrivacyRequest.com)  and please include the phrase “California Privacy Request” in the subject line, the domain name of the Web site you are inquiring about, along with your name,  address and email address. We will respond to you within thirty days of receiving  such a request.
+If you have a complaint please contact us using the contact information provided in this privacy policy so that we can address your request promptly.
 
-“Cookies” and How Our Company Uses Them. A “cookie” is a small data file that can be placed on your hard drive when you visit certain Web sites. Our company may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage our telecommunications networks.
+**Links to other websites**
 
-If you are a Visitor or Member we may use a cookie to save your settings and to provide customizable and personalized services. These cookies do not enable third parties to access any of your customer information. Additionally, be aware that if you visit other Web sites where you are prompted to log in or that are customizable, you may be required to accept cookies.
+We link our website directly to other sites. This privacy notice does not cover the links within our site linking to other websites and organisations. We encourage you to read the privacy statements on the other websites you visit.
 
-Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them.
+**Your use of our services**
 
-Our Company Commitment to Children’s Privacy. Protecting children’s privacy is especially important to us. It is our policy to comply with the Children’s Online Privacy Protection Act of 1998 and all other applicable laws. Therefore we restrict our Web site to persons eighteen years or older.
+Please be sure you are aware of these policy terms while you use our site. Should our terms change these will be shown on this page, and we may place notices on other pages of the web site, so that you may be aware of the information we collect and how we use it at all times.
 
-YOU MUST BE EIGHTEEN (18) YEARS OR OLDER TO ACCESS THIS WEB SITE. IF YOU ARE UNDER EIGHTEEN YEARS OF AGE, YOU ARE NOT PERMITTED TO ACCESS THIS WEB SITE FOR ANY REASON. DUE TO THE AGE RESTRICTIONS FOR USE OF THIS WEB SITE, NO INFORMATION OBTAINED BY THIS WEB SITE, FALLS WITHIN THE CHILDREN’S ONLINE PRIVACY PROTECTION ACT (COPPA) AND IS NOT MONITORED AS DOING SO.
-
-Public Forums:  Please remember that any information you may disclose in any Member Directory, or other public areas of our Web sites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas.
-
-Our Company’s Commitment to Data Security:  Services and Web sites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party “hackers” from illegally obtaining this information.
-
-Where to Direct Questions About Our Privacy Policy:  If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the contact information provided on this Web site.
-
-Revisions to This Policy: Our company reserves the right to revise, amend, or modify this policy, our Terms Of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting. Your use of this site after such changes are implemented constitutes your acknowledgement and acceptance of these changes. Please consult this privacy statement prior to every use for any changes.
-
-Last updated: June 23, 2009
-
-**Copyright © 2003-2014 InternetMarketingLawProducts.com for  
+**Copyright © 2003-2018  
 Aidan Booth t/a AidanBooth.com and/or Blueprint Information Products**
