@@ -1,41 +1,120 @@
-> *The following text is extracted and transformed from the prepaidfinancialservices.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216012900id_/http%3A//prepaidfinancialservices.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prepaidfinancialservices.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604112133id_/http%3A//prepaidfinancialservices.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PFS
 
-**INTRODUCTION**   
-Welcome to website (the "Site"). In this privacy policy ("Privacy Policy"), the expressions "we" and "us" means Prepaid Financial Services Ltd. We take your privacy seriously and this Privacy Policy explains the steps we take to ensure information about you is kept secure and confidential.
+**Who are we?**
 
-**THE INFORMATION WE COLLECT FROM YOU**   
-We will collect personal information about you which you provide to us when using the Site, for example, when you activate your Name Prepaid Mastercard , log in to manage your Name Prepaid Card, contact us through the Site, request information or otherwise provide personal information to us. Such information may include (but is not limited to) your Pre Paid Card card number and PIN, your full name, address, telephone number and email address. You must ensure that the personal information you provide to us is accurate and complete.
+Prepaid Financial Services (PFS) is a fast-growing technology company and e-money payments institution with offices in the UK, Malta and Ireland. PFS is authorised and regulated by the Financial Conduct Authority in the UK, as an electronic money institution, under reference number 900036. We provide own label and white label e-money financial solutions, including e-wallets, prepaid cards, and current accounts. PFS provides complete end to end solutions for clients by designing, developing, implementing, and managing these programmes.
 
-**PURPOSES FOR WHICH WE USE YOUR PERSONAL INFORMATION**   
-We collect, use, store and otherwise process personal information about you for the following purposes: (i) to enable you to access and use the Site; and (ii) to run your Name Pre Paid Card account; and (iii) to process your fund transfers and transactions; and (iv) to enable us to provide any services which you have requested through use of the Site; and (v) to personalise aspects of our overall service to you; and (vi) to provide you with information regarding products and services that we feel may be of interest to you (see the "Marketing" section below).
+**What, Why?**
 
-**DISCLOSING INFORMATION ABOUT YOU**   
-We will not disclose personal information obtained from you to any third parties other than in connection with legal proceedings or potential legal proceedings or if otherwise required to do so by law or any other Governmental or law enforcement agency (including but not limited to Name, our issuing banks, our processors and our third party partners.) We may need to disclose your account information and verify personal documents for regulatory obligations we have. This will be in accordance for Anti-Money Laundering and Fraud prevention checks.
+It is important that you know exactly what we do with the personal information you and others make available to us, why we collect it and what it means for you. This document outlines the PFS approach to Data Privacy to fulfil our obligations under the EU General Data Protection Regulation (GDPR) 2018 of 25th May 2018. We also welcome it as an opportunity to reassure you of the importance we place on keeping your personal data secure, and of the strict guidelines we apply to its use.
 
-**MARKETING**   
-We and/or our partners will only use the personal information obtained from you to enable us to provide you with information by email, telephone or post regarding products and services that we feel may be of interest to you if you have provided your consent for us to do so by ticking the relevant box(es) on this website where your personal information is collected. 
+**The personal data we would like to collect from you is:**
 
-If you wish to withdraw consent to use this information at any time for either us and/or our partners', then you should contact the Information Officer at Prepaid Financial Services Ltd. 
+→ First Name and Surname with title | → Address  
+---|---  
+→ Date of birth | → Gender  
+→ Email | → Bank Account details  
+→ Proof of address documents | → Telephone number  
+→ ID Documents | → Transactional information  
+→ Other personal information such as telephone recordings; security questions, user ID  
+→ CCTV footage where you visit our offices or branches  
+  
+**The personal data we collect will be used for the following purposes:**
 
-We may need to disclose your personal information if you breach this Privacy Policy and/or our Terms of Use or in connection with legal proceedings or potential legal proceedings or if otherwise required to do so by law or any other Governmental or law enforcement agency. SECURITY Keeping your personal information secure is very important to us. We will take appropriate and up-to-date measures to protect your personal information. However, no data transmission over the Internet can be guaranteed to be totally secure. As a result, whilst we strive to protect your personal information, we cannot ensure or warrant the security of any information which you send to us, and you do so at your own risk.
+  * Providing prepaid card services to you as per our contractual obligations
+  * Providing e-wallet services to you
+  * Providing IBAN Account services to you
+  * Processing your account information
+  * To comply with our legal obligations for the prevention of fraud, money laundering, counter terrorist financing or misuse of services
+  * Verifying your identity
+  * Contacting you regarding our service to you
+  * Where requested by law enforcement for investigation of crime
 
-**TRANSFERRING YOUR INFORMATION ABROAD**   
-We may store, process and/or transfer the personal information you submit to us through use of the Site to countries outside of the European Economic Area including (without limitation) to the USA. Personal data transferred outside of the EEA will be stored and processed by our group companies or representative offices for business and management purposes, to perform a contractual obligation owed by us to you and/or to provide you with information or services that you have requested. By using this Site, you consent to us transferring your personal information to countries outside the EEA for our legitimate business purposes as outlined in this paragraph. We will take appropriate steps to protect your personal data. 
 
-Personal data shall not be transferred to a country or territory outside the European Economic Area unless that country or territory ensures an adequate level of protection for the rights and freedoms of data subjects in relation to the processing of personal data.
 
-**COOKIES**   
-Cookies are small files on your computer, which can store information that you transmit when accessing the internet. They are transmitted via the web browser to the computer's hard drive. Cookies cannot transmit any information from a computer system. They instead help to make a return visit to the Site as simple and user friendly as possible. Some cookies remain on the computer's hard drive so that Partner recognises your computer on your next visit. You can change your browser options at any time to deactivate cookies. (Some functions are only accessible when cookies are enabled and we therefore recommend allowing cookies.)
+**Our legal basis for processing the personal data:**
 
-**LINKS**   
-This web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. This privacy policy applies solely to information collected by this Site.
+  * receipt of your consent
+  * performance of a contract where you are a party;
+  * legal obligations that PFS is required to meet;
+  * national law
 
-**DATA PROTECTION REGISTRATION**   
-PFS has notified the UK Information Commissioner's Office that it processes personal data and appears on the register of data controllers.
 
-**PRIVACY RELATED QUESTIONS OR COMPLAINTS**   
-If you have any questions relating to this Privacy Policy or how we use your personal information, or if you believe that we have not complied with this Privacy Policy with respect to your personal information, you may write to our Information Officer at PFS, Fifth Floor, Langham House, 302-308 Regent Street, London, W1B 3AT. You should also use this address if you would like to request a copy of your personal information from us or to review or modify any part of your personal information at any time. We reserve the right to charge a fee for each copy request. 
 
-You may also contact us by sending an email to our Information Officer from the contact page. In your letter, please clearly set out your question or request or, if you have a complaint, describe in as much detail as possible the ways in which you believe that our Privacy Policy has not been complied with and we will investigate and provide you with a response.
+**Any legitimate interests pursued by us, or third parties we use, are as follows:**
+
+  * the prevention of fraud, money laundering, counter terrorist financing or misuse of services
+
+
+
+**Consent**
+
+By consenting to this privacy notice you are giving us permission to process your personal data specifically for the purposes identified above. Consent is required for PFS to process personal data, but it must be explicitly given. Where we are asking you for sensitive personal data we will always tell you why and how the information will be used.
+
+**Consent for Children Under 16**
+
+If you are giving consent on behalf of a child under 16 then please be aware that Children need specific protection with regard to their personal data, as they may be less aware of the risks, consequences and safeguards concerned, and also of their rights in relation to the processing of personal data for the purposes of using these services. By consenting to this privacy notice on behalf of a minor you are giving permission for their data to be used for the purposes described above.
+
+**Withdrawal of Consent Conditions**
+
+You may withdraw consent from direct marketing at any time by contacting our Data Protection Officer. Please note, where you have consented to your data being used for carrying out financial transactions, then the right to withdraw consent does not exist. As a payment service provider, PFS is obliged to retain data concerning financial transactions for 6 years in accordance with national law for the purpose of preventing, detecting and investigating, by the FIU or by other competent authorities, possible money laundering or terrorist financing. 
+
+**Disclosure**
+
+PFS will only pass on your personal data to third parties, including internationally, once we have obtained your consent. Some of our service providers, like payment processors, risk management solutions and suppliers are based outside of the EEA. Where we authorize the processing or transfer of your personal information outside of the EEA, we require your personal information to be protected to data protection standards and we ensure that there are adequate safeguards in place for data protection. The GDPR prohibits transfers of personal data outside the European Economic Area to a third country that does not have adequate data protection.  Where transfer occurs outside the EEA the following mechanisms are in place with the third parties:
+
+  * Data Protection clauses in our contracts and agreements with third-parties
+  * EU-US Privacy Shield
+  * Personal Information Protection and Electronic Documents Act (PIPEDA)
+
+
+
+**Retention period**
+
+PFS will process personal data for the duration of the contract for services and will store the personal data for 6 years after that date of termination of the contract.
+
+**Your rights as a data subject**
+
+At any point while we are in possession of or processing your personal data, you, the data subject, have the following rights:
+
+  * Right of access – you have the right to request a copy of the information that we hold about you.
+  * Right of rectification – you have a right to correct data that we hold about you that is inaccurate or incomplete.
+  * Right to be forgotten – in certain circumstances you can ask for the data we hold about you to be erased from our records. Your data relating to financial transactions, accounts or cards cannot be deleted due to national law associated with the prevention of fraud, money laundering, counter terrorist financing or misuse of services for crime.
+  * Right to restriction of processing – where certain conditions apply to have a right to restrict the processing.
+  * Right of portability – you have the right to have the data we hold about you transferred to another organisation.
+  * Right to object – you have the right to object to certain types of processing such as direct marketing.
+  * Right to object to automated processing, including profiling – you also have the right to be subject to the legal effects of automated processing or profiling.
+  * Right to judicial review, in the event that PFS refuses your request under rights of access, we will provide you with a reason as to why. You have the right to complain as outlined below.
+
+
+
+All of the above requests will be forwarded on should there be a third party involved in the processing of your personal data. You will find a copy of our Subject Access Request Form here: Choose your favorite Text editor:
+
+[ ](http://prepaidfinancialservices.com/images/data-protextion/data-subject-access-request-form.docx) [ ](https://docs.google.com/document/d/18UCQ1dVUzTl42aV_BZp3HFHxQN6xZYEPGbY6mFe3-UI/edit) [ ](http://prepaidfinancialservices.com/images/data-protextion/data-subject-access-request-form.odt)
+
+**Complaints**
+
+In the event that you wish to make a complaint about how your personal data is being processed by PFS (or third parties as above), or how your complaint has been handled, you have the right to lodge a complaint directly with the supervisory authority and PFS’s Data Protection Officer by email to [[email protected]](http://prepaidfinancialservices.com/cdn-cgi/l/email-protection#7e3a2e313e0e0c1b0e1f171a1817101f101d171f120d1b0c08171d1b0d501d1113)
+
+**Data Protection Officer**  
+Prepaid Financial Services  
+Fifth Floor,  
+Langham House,  
+302-308 Regent Street, London,  
+W1B 3AT
+
+If you are unhappy with our response or if you need any advice you should contact the Information Commissioner’s Office (ICO).
+
+**Information Commissioner's Office  
+** Wycliffe House  
+Water Lane  
+Wilmslow  
+Cheshire  
+SK9 5AF  
+ICO helpline
+
+**Telephone:** 0303 123 1113
+
+Further information can be found in our Cookies Policy on our website.
