@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the tricksroad.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606045533id_/http%3A//www.tricksroad.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tricksroad.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604202815id_/http%3A//www.tricksroad.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy-Policy | TricksRoad- Making Your Business Successful
+
+  
+
 
 Fair Information Practices 
 
@@ -126,8 +129,8 @@ We also agree to the individual redress principle, which requires that individua
   
 
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
+If there are any questions regarding this privacy policy you may contact us using the information below. You can also ask to delete any information or update on the below contact details.
 
 tricksroad@gmail.com
 
-Last Edited on 2014-09-13
+Last Edited on 2018-05-23
