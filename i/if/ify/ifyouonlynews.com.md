@@ -1,55 +1,154 @@
-> *The following text is extracted and transformed from the ifyouonlynews.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225051747id_/http%3A//www.ifyouonlynews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifyouonlynews.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604070155id_/http%3A//ifyouonlynews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | If You Only News
 
-This Privacy Policy governs the manner in which If You Only News collects, uses, maintains and discloses information collected from users (each, a “User”) of the IfYouOnlyNews.com website (“Site”). This privacy policy applies to the Site and all products and services offered by If You Only News.
+We recognize that your privacy as a user is very important and we are committed to safeguarding it.  This Privacy Policy (“Privacy Policy”) describes our policies for the collection, use, disclosure, and sharing of your personal information or user data when you use this website/platform.  If you have any questions or concerns regarding the use of your Personal Data, you may contact us and we will gladly assist you.
 
- **Personal identification information**
+By using this site or/and our services, you consent to the Processing of your Personal Data as described in this Privacy Policy.
 
-We may collect personal identification information from Users in a variety of ways in connection with activities, services, features or resources we make available on our Site.. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+### Table of Contents
 
- **Non-personal identification information**
-
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
-
- **Web browser cookies**
-
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
-
- **How we use collected information**
-
-If You Only News may collect and use Users personal information for the following purposes:
-
-  *  _– To improve customer service_ Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  *  _– To personalize user experience_ We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  *  _– To improve our Site_ We may use feedback you provide to improve our products and services.
+  1. Definitions used in this Policy
+  2. Data protection principles we follow
+  3. What rights do you have regarding your Personal Data
+  4. What Personal Data we gather about you
+  5. How we use your Personal Data
+  6. Who else has access to your Personal Data
+  7. How we secure your data
+  8. Information about cookies
+  9. Contact information
 
 
 
- **How we protect your information**
+ **Privacy Policy**  – this document and its described policies concerning user privacy.  
+**Personal Data**  – any information relating to an identified or identifiable natural person.  
+**Processing**  – any operation or set of operations which is performed on Personal Data or on sets of Personal Data.  
+**Data subject**  – a natural person whose Personal Data is being Processed.  
+**Child** – a natural person under 16 years of age.  
+**We/our/us** (either capitalized or not) – referencing this site or/and our services.
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+We may collect information directly from individuals, from third parties, and automatically through our software platform and logging systems.
 
-Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
+We follow these data protection principles:
 
- **Sharing your personal information**
+  * Processing is lawful, fair, transparent. Our Processing activities have lawful grounds. We always consider your rights before Processing Personal Data. We will provide you information regarding Processing upon request.
+  * Processing is limited to the purpose. Our Processing activities fit the purpose for which Personal Data was gathered.
+  * Processing is done with minimal data. We only gather and Process the minimal amount of Personal Data required for any purpose.
+  * Processing is limited with a time period. We will not store your personal data for longer than needed.
+  * We will do our best to ensure the accuracy of data.
+  * We will do our best to ensure the integrity and confidentiality of data.
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
- **Advertising**
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+The Data Subject has the following rights:
 
- **Google Adsense**
+  1. Right to information – meaning you have to right to know whether your Personal Data is being processed; what data is gathered, from where it is obtained and why and by whom it is processed.
+  2. Right to access – meaning you have the right to access the data collected from/about you. This includes your right to request and obtain a copy of your Personal Data gathered.
+  3. Right to rectification – meaning you have the right to request rectification or erasure of your Personal Data that is inaccurate or incomplete.
+  4. Right to erasure – meaning in certain circumstances you can request for your Personal Data to be erased from our records.
+  5. Right to restrict processing – meaning where certain conditions apply, you have the right to restrict the Processing of your Personal Data.
+  6. Right to object to processing – meaning in certain cases you have the right to object to Processing of your Personal Data, for example in the case of direct marketing.
+  7. Right to object to automated Processing – meaning you have the right to object to automated Processing, including profiling; and not to be subject to a decision based solely on automated Processing. This right you can exercise whenever there is an outcome of the profiling that produces legal effects concerning or significantly affecting you.
+  8. Right to data portability – you have the right to obtain your Personal Data in a machine-readable format or if it is feasible, as a direct transfer from one Processor to another.
+  9. Right to lodge a complaint – in the event that we refuse your request under the Rights of Access, we will provide you with a reason as to why. If you are not satisfied with the way your request has been handled please contact us.
+  10. Right for the help of supervisory authority – meaning you have the right for the help of a supervisory authority and the right for other legal remedies such as claiming damages.
+  11. Right to withdraw consent – you have the right withdraw any given consent for Processing of your Personal Data.
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
- **Changes to this privacy policy**
 
-If You Only News has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+ **Information you have provided us with**  
+This might be your e-mail address, name, billing address, home address etc – information that is necessary for delivering you a product/service or to enhance your customer experience with us. We save the information you provide us with in order for you to comment or perform other activities on the website. This information includes, for example, your name and e-mail address.
 
- **Your acceptance of these terms**
+ **Information automatically collected about you**  
+This includes information that is automatically stored by cookies and other session tools. For example, your WordPress session information, your IP address, your visitor history (if there is any) etc. This information is used to improve your site experience. When you use our services or look at the contents of our website, your activities may be logged.
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+ **Information from our partners**  
+We gather information from our trusted partners with confirmation that they have legal grounds to share that information with us. This is either information you have provided them directly with or that they have gathered about you on other legal grounds. See the list of our partners here.
 
-This document was last updated on September 30, 2014
+ **Publicly available information**  
+We might gather information about you that is publicly available.
+
+We use your Personal Data in order to:
+
+  *  **provide our service to you**. This includes for example registering your account; providing you with other products and services that you have requested; providing you with promotional items at your request and communicating with you in relation to those products and services; communicating and interacting with you; and notifying you of changes to any services.
+  *  **provide user help and support**. This may include responding to your inquiries, providing troubleshooting, and for other customer service purposes.
+  *  **enable personalization**. To tailor the content and information that we may send or display to you, to offer localization-based customization, provide personalized help and instructions, and to otherwise personalize your experience.
+  *  **display advertising**. To display subject and interest-based advertising to you, to improve our advertising and analytics systems so we can show you relevant ads, and to measure the effectiveness and reach of ads and services.
+  *  **create marketing and promotions**. For marketing and promotional purposes, such as to send you news and newsletters, special offers, and promotions, or to otherwise contact you about services or information we think may interest you, including information about third party products and services.
+  *  **collect analytics data**. To gather metrics to better understand how users access and use our website and services, including the Ad Services and personalization, and to develop new products and services.
+  *  **prevent misuse and abuse**. Where we believe necessary to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person or violations of our Terms of Service or this Privacy Policy.
+
+
+
+With your consent we Process your Personal Data for the following purposes:
+
+  * to send you newsletters and campaign offers (from us and/or our carefully selected partners);
+  * for other purposes we have asked your consent for.
+
+
+
+We Process your Personal Data in order to fulfill obligation rising from law and/or use your Personal Data for options provided by law. We reserve the right to anonymize Personal Data gathered and to use any such data. We will use data outside the scope of this Policy only when it is anonymized. We save information gathered about you for as long as needed for account/registration purposes, website logging/maintenance purposes, or other obligations deriving from law.
+
+We might process your Personal Data for additional purposes that are not mentioned here, but are compatible with the original purpose for which the data was gathered. To do this, we will ensure that:
+
+  * the link between purposes, context and nature of Personal Data is suitable for further Processing;
+  * the further Processing would not harm your interests and
+  * there would be appropriate safeguard for Processing.
+
+
+
+We will inform you of any further Processing and purposes.
+
+Personal Data about you is in some cases provided to our trusted partners in order to either make providing the service to you possible or to enhance your service experience. We may share your data, such as your IP address, with:
+
+ **Potentially connected third parties:**
+
+  * Google Analytics
+  * Facebook Platform Services
+  * Facebook Audience Network
+  * Twitter
+  * WordPress.com
+  * Gravatar
+  * RevContent Ad Network
+  * Connatix Ad Network
+  * Content.AD Ad Network
+  * AdBlade Ad Network
+  * Ad3 Ad Network
+  * Wibbitz Ad Network
+  * OneSignal Notifications
+
+
+
+We only work with Processing partners who are able to ensure adequate level of protection to your Personal Data. We disclose your Personal Data to third parties or public officials when we are legally obliged to do so. We might disclose your Personal Data to third parties if you have consented to it or if there are other legal grounds for it.
+
+We do our best to keep your Personal Data safe.  We use safe protocols for communication and transferring data (such as HTTPS where applicable). We use anonymizing and pseudonymizing where suitable. We monitor our systems for possible vulnerabilities and attacks.
+
+Even though we try our best we cannot guarantee the absolute and perpetual security of information. However, we promise to notify suitable authorities of data breaches. We will also notify you if there is a threat to your rights or interests. We will do everything we reasonably can to prevent security breaches and to assist authorities should any breaches occur.
+
+If you have an account with us, note that you have to keep your username and password secret.
+
+### Children
+
+We do not intend to collect or knowingly collect information from children; nor do not target children with our services.
+
+We use cookies and/or similar technologies to analyze customer behavior, administer the website, track users’ movements, and to collect information about users. Additionally, we and our third party trusted partners may use cookies, clear GIFs/pixel tags, JavaScript, local storage, log files, and other mechanisms to automatically collect and record information about your usage and browsing activities on our website and across third party sites or online services. We may combine this information with other information we collect about users.
+
+Cookies are small text-containing files with a unique identifier that are transferred to your browser through our websites. They allow us to remember users who are logged in, to understand how users navigate through and use our website, and to display personalized content and targeted ads (including on third party sites and applications). Cookies store information that is used to help make websites work and facilitate personalization. Only we can access the cookies created by our website, and you can control your cookies at the browser level — whether your browser stores them or not, which sites are allowed to use them, etc. Choosing to disable cookies may hinder your use of certain functions or services.
+
+ **We use cookies for the following purposes:**
+
+  * Necessary cookies – these cookies are required for you to be able to use some important features on our website, such as logging in. These cookies don’t collect any personal information.
+  * Functionality cookies – these cookies provide functionality that makes using our service more convenient and makes providing more personalised features possible. For example, they might remember your name and e-mail in comment forms so you don’t have to re-enter this information next time when commenting.
+  * Analytics cookies – these cookies are used to track the use and performance of our website and services.
+  * Advertising cookies – these cookies are used to deliver advertisements that are relevant to you and to your interests. In addition, they are used to limit the number of times you see an advertisement. They are usually placed on the website by advertising networks with the website operator’s permission. These cookies remember that you have visited a website and this information is shared with other organizations such as advertisers. Often, targeting or advertising cookies will be linked to site functionality provided by the other organization.
+
+
+
+You can remove cookies stored in your computer via your browser settings. Alternatively, you can control some 3rd party cookies by using a privacy enhancement platform such as [optout.aboutads.info](http://optout.aboutads.info/#!/) (US, Internet Advertising Bureau), [www.youronlinechoices.eu](http://www.youronlinechoices.eu/) (European Union) or [youronlinechoices.com](http://www.youronlinechoices.com/) (Canada). For more information about cookies, visit [allaboutcookies.org](http://www.allaboutcookies.org/).
+
+We use Google Analytics to measure traffic on our website. We may also use other internal and third party analytics tools. The third party analytics companies we work with may combine the information collected with other information they have independently collected from other websites and/or other online products and services, subject to their own privacy policies.  Google has their own Privacy Policy which you can review [here](https://support.google.com/analytics/answer/6004245). If you’d like to opt out of tracking by Google Analytics, visit the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout).
+
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+
+We reserve the right to make change to this Privacy Policy.  
+Last modification was made May 25, 2018.
