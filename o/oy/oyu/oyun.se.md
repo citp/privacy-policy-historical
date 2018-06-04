@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oyun.se privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224043716id_/http%3A//oyun.se/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oyun.se privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604104503id_/http%3A//www.oyun.se/pages/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
