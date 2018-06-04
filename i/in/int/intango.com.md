@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intango.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230025922id_/http%3A//intango.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intango.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604160825id_/http%3A//intango.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Intango
 
@@ -6,7 +6,7 @@ Welcome to Intango.com (“Intango”, “we”, “us” or “Site”). We are
 
 Information we collect
 
-Intango Media Group Ltd. Privacy Policy (the “Privacy Policy”) explains the types of information that we gather and what we do with it. In our registration process, as either a “Publisher” or “Advertiser” on Intango’s Performance Network (“RevenueHis”) we ask users to provide contact information, for example, your company name, billing information and email address. We may also request a unique login password, and confirmation that you have accepted our terms and conditions of use and wish to receive our monthly newsletter. If required to complete a transaction, we might also request financial information including PayPal account or credit card numbers. You may modify the information you have provided at any time from within your personal control panel.
+Intango Ltd. Privacy Policy (the “Privacy Policy”) explains the types of information that we gather and what we do with it. In our registration process, as either a “Publisher” or “Advertiser” on Intango’s Performance Network (“RevenueHis”) we ask users to provide contact information, for example, your company name, billing information and email address. We may also request a unique login password, and confirmation that you have accepted our terms and conditions of use and wish to receive our monthly newsletter. If required to complete a transaction, we might also request financial information including PayPal account or credit card numbers. You may modify the information you have provided at any time from within your personal control panel.
 
 We use customer contact information to provide services and occasionally, provide information on our company. The customer’s contact information is also used to contact the user when necessary. We use unique identifiers, such as login & password, to verify the user’s identity and as account numbers in our customer database system. We also use information in the aggregate to demonstrate, for example, the number of people registered with the company. Unless required to complete a transaction you have requested, or to perform maintenance on our site, we do not share personal identifying information with outside entities.
 
