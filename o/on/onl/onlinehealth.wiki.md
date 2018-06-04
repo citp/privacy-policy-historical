@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinehealth.wiki privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204144031id_/http%3A//onlinehealth.wiki/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinehealth.wiki privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604081104id_/http%3A//onlinehealth.wiki/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
