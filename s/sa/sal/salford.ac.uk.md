@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salford.ac.uk privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129232233id_/http%3A//www.salford.ac.uk/small-print-pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salford.ac.uk privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604064038id_/http%3A//www.salford.ac.uk/small-print-pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | University of Salford, Manchester
 
@@ -90,7 +90,7 @@ Upon request we provide site visitors with access to:
 
 Consumers can access and request correction to this information by:
 
-  * Sending us e-mail to that effect at: [m.stephenson@salford.ac.uk](mailto:m.stephenson@salford.ac.uk)
+  * Sending us e-mail to that effect at: [foi@salford.ac.uk](mailto:foi@salford.ac.uk)
 
 
 
