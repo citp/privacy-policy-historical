@@ -1,60 +1,103 @@
-> *The following text is extracted and transformed from the sxstube.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204061159id_/http%3A//www.sxstube.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sxstube.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604022042id_/http%3A//www.sxstube.com/privacy-policy) for the most accurate reproduction.*
 
 # sXsTube.com - Free Porn and Sex Videos
 
 ## **sXsTube Privacy Policy**
 
-This document details important information regarding the use and disclosure of User Data collected on www.sXsTube.com
+RollMedia team (hereinafter “we”, “us” or “our”) operates the website www.sxstube.com (hereinafter “SXSTUBE” or the “Website”) and is the controller of the information collected or provided via this Website.
 
-The security of your Data is very important to www.sXsTube.com and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused.
+Please read this privacy policy carefully, as your access to and use of our Website signifies that you have read, understand and agree to all terms within this privacy policy. If you do not agree with any part of this privacy policy or our terms, please do not access or continue to use our Website or otherwise submit your personal data. We respect your privacy and are committed to protecting your personal data
 
-This site expressly and strictly limits its membership and/or viewing privileges to adults 18 years of age and over or having attained the age of majority in their community. All persons who do not meet its criteria are strictly forbidden from accessing or viewing the contents of this Site. We do not knowingly seek or collect any personal information or data from persons who have not attained the age of majority.
+If you have any questions about our privacy practices, please see “Contact Information” below for information on how to contact us.
 
-#### DATA COLLECTED
+We collect, process and retain personal data to the extent it is necessary to provide users with our service. This privacy policy applies to information we collect:
 
-  * Personal Information:
-  * Non-Registered users can watch videos without registering and without any information being collected and processed.
-  * Registered Members: Registration is required for uploading videos, and accessing a number of other features. The following personal information is requested at the time of registration: username (required), and email address (required). Additional personal information, such as year of birth, relationship status and sexual orientation may be added on a voluntary basis after registration, for members interested in identifying and potentially contacting other members meeting specific criteria. All this data with the exception of the email address and IP address becomes publicly accessible information.
-  * Content Uploaded to the site: Any personal information or video content that you voluntarily disclose online becomes publicly available and can be collected and used by others.
-  * Cookies: When you visit www.sXsTube.com, we may send one or more cookies to your computer that uniquely identifies your browser session. www.sXsTube.com uses both session cookies and persistent cookies. If you remove your persistent cookie, some of the site's features may not function properly.
-  * Log File Information: When you visit www.sXsTube.com, our servers may record certain information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.
-  * Emails: If you contact us, we may keep a record of that correspondence.
+on this Website, in e-mail, text and other communications between you and this Website, when you interact with our advertising and applications on third-party websites and services, if those applications or advertising include links to this privacy policy. It does not apply to information collected by:
 
+us offline or through any other means, including on any other website operated by us or any third party (including our affiliates and subsidiaries); or any third party (including our affiliates and subsidiaries), including through any application or content (including advertising) that may link to or be accessible from or on the Website. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. The Data We Collect About You
 
+Personal data, or personal information, means any information about an individual from which that person can be identified by (“Personal Information”). It does not include data that has been anonymized or pseudonymized.
 
-#### USES
+Persons who visit the Website without “logging in or registering”
 
-  * Your Personally identifiable information submitted to www.sXsTube.com is used to provide to the user the website's features and special personalized features.
-  * Your chosen username (not your email address) is displayed to other Users alongside the content you upload, including videos, comments, at, the messages you send through the www.sXsTube.com private mail, etc. Other Users can contact you through, private messages.
-  * Any videos that you submit to www.sXsTube.com may be redistributed through the internet and other media channels, and may be viewed by the general public.
-  * We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent.
-  * We may use your email address without further consent for non-marketing or administrative purposes (such as notifying you of key website changes or for customer service purposes).
-  * We analyze aggregated user traffic information to help streamline our marketing and hosting operations and to improve the quality of the www.sXsTube.com user-experience.
+Persons who choose to “interact with us”
 
+Identity Data includes, username or similar identifier, date of birth and gender. Contact Data includes email address. Financial Data in case of purchases includes payment card details. Transaction Data in case of purchases, it may include details about payments to and from you and other details of products and services you have purchased or received from us. Technical Data includes pseudonymized internet protocol (IP) address, your login data, browser type and version, time zone setting and location, operating system and platform and other technology on the devices you use to access this Website. Usage Data includes information about how you use our Website, products and services. Marketing and Communications Data includes your preferences in receiving marketing from us and our third parties and your communication preferences. We DO NOT collect special categories of Personal Information about you (this includes details about your race or ethnicity, religious or philosophical beliefs, political opinions, trade union membership, information about your health and genetic and biometric data).
 
+How is Your Personal Information Collected?
 
-#### DISCLOSURE OF INFORMATION
+We use different methods to collect data from and about you including through:
 
-  * if under duty to do so www.sXsTube.com may release data to comply with any legal obligation, or in order to enforce our Terms Of Service and other agreements; or to protect the rights, property or safety of www.sXsTube.com or our subscribers or others. This includes exchanging information with other companies and organizations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Service. It is www.sXsTube.com's policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party.
-  * Should you deliberately upload any illegal material www.sXsTube.com shall forward all available information to all relevant authorities and this without notice. 
-  * We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
+Direct interactions. Information that you provide when carrying out search queries on our Website or by filling in forms on our Website, subscribing to our service, posting material, taking part in surveys, entering a contest or promotion sponsored by us, when reporting a problem with our Website, or requesting further services. Automated technologies or interactions. See “Third-party Use of Cookies and Other Tracking Technologies” for details of how we may automatically collect your personal data. Information Collected Through Automatic Data Collection Technologies
 
+As you navigate through and interact with our Website, we use automatic data collection technologies to collect certain information about your equipment, browsing actions and patterns, including information such as your IP address, browser type, operating system, the referring web page, pages visited, location, your mobile carrier, device information, search terms, and cookie information.
 
+The technologies we use for this automatic data collection may include:
 
-#### SECURITY
+Cookies (or browser cookies). Cookies are small text files that are stored in your web browser or downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognizes that cookie, and allow a website to recognize a user’s device. We currently use the following types of cookies:
 
-Where we have given you (or where you have chosen a password) which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
+Cookies that are strictly necessary: These are cookies that are required for the operation of our Website. These include, for example, cookies that enable a user to log in to our Website and to check if a user is allowed access to a particular service or content. Analytical cookies: These cookies allow us to recognize and count the number of users and to see how users use and explore our Website. These cookies help us to improve our Website, for example by ensuring that all users are able to find what they are looking for easily. Functionality cookies: These cookies are not essential, but help us to personalize and enhance your online experience on our Website. This type of cookies allows us to recognize you when you return to our Website and to remember, for example, your choice of language. Targeting cookies: These cookies record the visit of a user on our Website, the pages a user has visited and the links a user has followed in order to enable us to make our Website more relevant to the users’ interests. We do not require that you accept cookies and you may withdraw your consent to our use of cookies at any time by adjusting your browser’s privacy settings. However, if you decline to accept cookies, some functionality on our Website may be disabled and you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website. Cookies can be either session cookies or persistent cookies. A session cookie expires automatically when you close your browser. A persistent cookie will remain until it expires or you delete your cookies. Expiration dates are set in the cookies themselves; some may expire after a few minutes while others may expire after multiple year Web Beacons. Pages of our Website and our e-mails may contain small electronic files known as web beacons (also known as clear gifs, pixel tags, single-pixel gifs and web bugs) that are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. Analytics. We use third party analytics and advertising tools and technologies, in particular Google Analytics and DoubleClick provided by Google, Inc., USA (“Google”). These tools and technologies collect and analyze certain types of information, including IP addresses, device and software identifiers, referring and exit URLs, onsite behavior and usage information, feature use metrics and statistics, usage and purchase history, media access control address (MAC Address), mobile unique device identifiers, and other similar information via the use of cookies. The information generated by Google Analytics about your use of the Website (including your IP address) may be transmitted to and stored by Google on servers in the United States. Because we activated IP anonymization for Google Analytics, Google will anonymize the last octet of a particular IP address. Only in exceptional cases, the full IP address is sent to and shortened by Google servers in the USA. Third-party Use of Cookies and Other Tracking Technologies
 
-Unfortunately, the transmission of information via the Internet is not completely secure. www.sXsTube.com uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to www.sXsTube.com and you do so at your own risk.
+Some content or applications, including advertisements, on the Website are served by third parties, including advertisers, ad networks and servers, content providers and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our Website. Unless expressly stated otherwise, our website does not provide any Personal Information to these third parties, however they may collect information, including Personal Information, such as internet protocol (IP) address, browser type and version, time zone setting and location, operating system and platform and other technology on the devices you use to access this Website. They may use this information to provide you with interest-based advertising or other targeted content.
 
-#### YOUR RIGHTS
+We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. For information about how you can opt out of receiving targeted advertising from many providers, see “Choices About How We Collect, Use and Disclose Your Personal Information”.
 
-You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at contact@www.sXsTube.com.
+How We Use Your Personal Data
 
-#### OPT-IN AND USER COMMUNICATION
+We will only use your personal data when the applicable local law allows us to. Most commonly, we will use your personal data in the following circumstances:
 
-Subscriber's expressly and specifically acknowledges and agrees that his email address or other means of communicating with subscriber may be used to send him offers, information or any other commercially oriented emails or other means of communications. More specifically, some offers may be presented to the subscriber via email campaigns or other means of communications with the option to express the subscriber's preference by either clicking or entering "accept" (alternatively "yes") or "decline" (alternatively "no"). By selecting or clicking the "accept" or "yes", the subscriber indicates that the subscriber "OPTS-IN" to that offer and thereby agrees and assents that the subscriber's personal information, including its email address and data may be used for that matter or disclosed to third-parties.
+For purposes of providing the services, customer management and functionality and security as is necessary to perform the services provided to you under our term and conditions and any other contract that you have with us. Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests. Where we need to comply with a legal or regulatory obligation. Where you declare your valid consent to use it. Note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data.
 
-#### OPT-OUT AND USER COMMUNICATION
+Purposes for Which We Use Your Personal Information
 
-Subscriber's expressly and specifically acknowledges and agrees that his email address or other means of communicating with subscriber may be used to send him offers, information or any other commercially oriented emails or other means of communications. More specifically, other offers may be presented to the subscriber via email campaigns or other means of communications with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the offer) then the site may transfer the subscriber's personal profile information to the third-party service or content provider making the offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider.
+In general, we use information that we collect about you or that you provide to us, including Personal Information and Sensitive Personal Information, for following purposes:
+
+Analytics: to determine whether users of the Website are unique, or whether the same user is using the Website on multiple occasions, and to monitor aggregate metrics such as total number of visitors, pages viewed, demographic patterns; Functionality and security: to diagnose or fix technology problems, and to detect, prevent, and respond to actual or potential illegal activities; Compliance: to enforce our terms and conditions and to comply with our legal obligations; in any other way we may describe when you provide the information; or for any other purpose with your consent provided separately from this privacy policy. Disclosure of Your Personal Information
+
+We do not disclose your Personal Information except in the limited circumstances described here.
+
+We may disclose your Personal Information to members of our corporate group (that is, entities that control, are controlled by, or are under common control with us) to the extent this is necessary for the purposes of provision of services, customer management, customization of content, advertising, analytics, verifications, functionality and security, and compliance. Service providers. To our authorized service providers that perform certain services on our behalf. These services may include fulfilling orders, processing credit card payments, risk and fraud detection and mitigation, providing customer service, performing business and sales analysis, customization of content, analytics, security, supporting our Website functionality, surveys and other features offered through our Website. These service providers may have access to Personal Information needed to perform their functions but are not permitted to share or use such information for any other purposes. Legal successors. To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by us about our Website users is among the assets transferred. Should such a sale or transfer occur, we will use reasonable efforts to try to ensure that the entity to which we transfer your personal information uses it in a manner that is consistent with this privacy policy. We access, preserve and share your Personal Information with regulators, law enforcement or others where we reasonably believe such disclosure is needed to (a) satisfy any applicable law, regulation, legal process, or governmental request, (b) enforce applicable terms of use, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address illegal or suspected illegal activities, security or technical issues, (d) protect against harm to the rights, property or safety of our company, our users, our employees, or others; or (e) to maintain and protect the security and integrity of our Website or infrastructure. In such cases, we may raise or waive any legal objection or right available to us, in our sole discretion.
+
+We may disclose aggregated information about our users, and information that does not identify any individual, without restriction. We also may share aggregated information with third parties for conducting general business analysis. This information does not contain any Personal Information and may be used to develop content and services that we hope you and other users will find of interest.
+
+Retention of Personal Information
+
+We will only retain your Personal Data for as long as necessary to fulfill the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
+
+To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorized use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
+
+Where we no longer need to process your Personal Data for the purposes set out in this Privacy Policy, we will delete your Personal Data from our systems.
+
+Where permissible, we will also delete your Personal Data upon your request. Information on how to make a deletion request can be found under “Your Rights Related to Your Personal Information”.
+
+If you have questions about our data retention practices, please send us an e-mail at sxstubecom@gmail.copm.
+
+The period for which we keep your Personal Information that is necessary for compliance and legal enforcement purposes varies and depend on the nature of our legal obligations and claims in the individual case.
+
+How We Protect the Security of Your Personal Information
+
+We take appropriate security measures (including physical, electronic and procedural measures) to safeguard your Personal Information from unauthorized access and disclosure. For example, only authorized employees are permitted to access Personal Information, and they may do so only for permitted business functions. In addition, we use encryption in the transmission of your Personal Information between your system and ours, and we use firewalls to help prevent unauthorized persons from gaining access to your Personal Information.
+
+Changes to Our Privacy Policy
+
+We may modify or revise our privacy policy from time to time. Although we may attempt to notify you when major changes are made to this privacy policy, you are expected to periodically review the most up-to-date version found at so you are aware of any changes, as they are binding on you.
+
+If we change anything in our privacy policy, the date of change will be reflected in the “last modified date”. You agree that you will periodically review this privacy policy and refresh the page when doing so. You agree to note the date of the last revision to our privacy policy. If the “last modified” date is unchanged from the last time you reviewed our privacy policy, then it is unchanged. On the other hand, if the date has changed, then there have been changes, and you agree to re-review our privacy policy, and you agree to the new ones. By continuing to use the Website subsequent to us making available an amended version of our privacy policy in a way that you can easily take notice of it, you thereby consent to such amendment.
+
+Enforcement; Cooperation
+
+We regularly review our compliance with this privacy policy. Please feel free to direct any questions or concerns regarding this privacy policy or our treatment of Personal Information by contacting us through this Website at sxstubecom@gmail.copm. When we receive a formal written complaint, it is our policy to contact the complaining party regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the collection, use and disclosure of Personal Information that cannot be resolved by an individual and us.
+
+No Rights of Third Parties
+
+This privacy policy does not create rights enforceable by third parties or require disclosure of any Personal Information relating to users of the Website.
+
+No Error Free Performance
+
+We do not guarantee error-free performance under this privacy policy. We will use reasonable efforts to comply with this privacy policy and will take prompt corrective action when we learn of any failure to comply with our privacy policy. We shall not be liable for any incidental, consequential or punitive damages relating to this privacy policy.
+
+Contact Information
+
+If you have any questions about this privacy policy or our information-handling practices, please contact us at sxstubecom@gmail.copm.
+
+GDPR (General Data Protecton Regulation) In accordance with the General Data Protecton Regulation law in the European Union effective May 25, 2018, Our users can request a copy of their personal data and delete their personal data if necessary.
