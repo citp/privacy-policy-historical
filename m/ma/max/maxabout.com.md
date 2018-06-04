@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxabout.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606060810id_/http%3A//www.maxabout.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxabout.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604074035id_/http%3A//www.maxabout.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -98,4 +98,4 @@ MaxAbout.com may update this policy. We will notify you about significant change
 
 ##  Questions and Suggestions 
 
-If you have questions or suggestions, please contact us at: [contactus@maxabout.com](mailto:contactus@maxabout.com).
+If you have questions or suggestions, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#55363a3b2134362120261538342d34373a20217b363a38).
