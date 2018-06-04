@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the su-kam.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202203357id_/http%3A//www.su-kam.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the su-kam.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604025023id_/http%3A//www.su-kam.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Su-Kam :: Privacy Policy
 
@@ -6,7 +6,7 @@ This document is an electronic record in terms of (i) Information Technology Act
 
 This Privacy Policy ( **"Privacy Policy"** ) is published in accordance with: (i) Section 43A of the Information Technology Act, 2000 and (ii) Regulation 4 of the Information Technology (Reasonable security practices and procedures and sensitive personal information) Rules, 2011 ( **"SPI Rules"** ).
 
-Please read this Privacy Policy carefully to understand how Su-kam Power Systems Limited its subsidiary and affiliate corporations, successors, and assigns (collectively referred to as **"SPSL"** ) uses and protects the information you provide. This privacy policy (the "Privacy Policy") applies to the services provided by SPSL on its website, www.su-kam.com, or its mobile application, collectively known as **"Platform"**. This Privacy Policy applies to all users/customers ( **"Users"** ) of the Platform.
+Please read this Privacy Policy carefully to understand how Su-Kam® Power Systems Limited its subsidiary and affiliate corporations, successors, and assigns (collectively referred to as **"SPSL"** ) uses and protects the information you provide. This privacy policy (the "Privacy Policy") applies to the services provided by SPSL on its website, www.su-kam.com, or its mobile application, collectively known as **"Platform"**. This Privacy Policy applies to all users/customers ( **"Users"** ) of the Platform.
 
 This Privacy Policy covers: (i) the type of information collected from the Users of the Platform including sensitive personal data or information; (ii) the purpose, means and modes of usage of such information; and (iii) how and to whom such information which has been collected will be disclosed.
 
