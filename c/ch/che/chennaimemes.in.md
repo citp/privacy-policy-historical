@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chennaimemes.in privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219231911id_/http%3A//chennaimemes.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chennaimemes.in privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604081203id_/http%3A//www.chennaimemes.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Chennai Memes
 
