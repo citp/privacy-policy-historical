@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluemaize.net privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229091608id_/http%3A//www.bluemaize.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluemaize.net privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604144948id_/http%3A//www.bluemaize.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Blue Maize
 
