@@ -1,39 +1,57 @@
-> *The following text is extracted and transformed from the arenamate.net privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118085757id_/http%3A//www.arenamate.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arenamate.net privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604071348id_/http%3A//www.arenamate.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy // arenamate.cc - Your WoW Legion S5 PvP Hub
+# Privacy Policy // arenamate.net - Your WoW Legion S7 PvP Hub
 
-We recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit arenamate, and how we safeguard your information. We never sell your personal information to third parties.
+We recognize that privacy of your personal information is important. Here are details on what data is collected, why it is collected, and how it is used. 
 
-##### Log Files
+##### General Data Protection Regulation (GDPR)
 
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as Comcast or Time Warner Cable), the browser you used to visit our site (such as Chrome or Firefox), the time you visited our site and which pages you visited throughout our site.
+With the GDPR taking effect on May 25, 2018, it is no longer allowed to collect and process ["personal data"](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-personal-data_en) from European Union (EU) residents without their consent, a certain purpose and the possibility to delete it on request.
 
-##### Cookies and Web Beacons
+Since online gaming characters and/or accounts might fall under that definition, as treated by several sources ([[1]](https://gameanalytics.com/gdpr-faq), [[2]](https://medium.com/@r6db/r6db-is-shutting-down-db1b59b031ac)), we implemented some drastic changes to respect the new regulations:
 
-We do use cookies, which are text files placed on your computer, to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+  * We will no longer be targeting the EU as a "market place".
+  * Any data relating to EU characters (Russian and CIS ones excluded) has been deleted and will no longer be crawled.
+  * All accounts with at least one EU character (Russian and CIS ones excluded) on them have been permanently deleted and will not be able to sign in again.
+  * You can now delete your account.
+  * Log files were either completely disabled and deleted where possible (web server) or IP anonymization was activated.
 
-We also use third party advertisements to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
-##### DoubleClick DART Cookies
 
-We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests ("interest based targeting").
+If necessary, there will be further action to fully comply with the GDPR. This might lead to additional restrictions regarding the functionality of this website.
 
-The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses "non personally identifiable information". It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers.
+##### Game Data
 
-You can opt-out of this ad serving on all sites using this advertising by visiting <http://www.doubleclick.com/privacy/dart_adserving.aspx>.
+The sole purpose of this website is to collect and process game data from World of Warcraft (WoW) relating to Player versus Player (PvP) activities.
 
-You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+  * Character data, which is shown on the ladders, consists of the names of characters, their defining attributes (like the class), their ratings and ranks as well as their seasonal performances. Character profiles provide additional information including achievements, other characters that belong to to the same player (so called "alts"), and the amount of games that were played during a certain period of time. Some of this data is combined to derive additional statistics (like class representation or player activity).
+  * Account data, which is gathered after you signed in using Blizzard's Battle.net, includes your BattleTag, all player characters you follow on arenamate, all max level characters owned by you on WoW, creation time, last login time, and additional (optional) information (like your Twitter username).
 
-Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+
+
+As already stated, we do not collect any of this data if it can be referred to as personal data from EU residents. Also, we do not sell any of this data to third parties.
+
+##### Cookies
+
+We use cookies, which are small text files placed on your computer, to store certain preferences.
+
+  * A basic set of cookies is necessary to keep track of your current session across the website (e.g. so you don't have to sign in over and over again) and to make some smaller things work (like remembering your choice about which cookies may be used or showing you a popup only once).
+  * Tracking cookies are utilized to better understand your usage of the website.
+
+
 
 ##### Google Analytics
 
-This website uses Google Analytics, a web analytics service provided by Google. Google Analytics uses cookies to help the website analyze how users use the site. The information generated by the cookie about your use of the website will be transmitted to and stored by Google on servers in the United States.
+arenamate uses Google Analytics, a web analytics service provided by Google, Inc. (Google). Google Analytics uses tracking cookies to help us analyze how users interact with the website. The information generated by the cookie about your use of the website will be transmitted to and stored by Google on servers in the United States (US).
 
-IP anonymization is active on this website. Your IP address will be truncated within the area of Member States of the European Union or other parties to the Agreement on the European Economic Area. Only in exceptional cases the whole IP address will be first transfered to a Google server in the USA and truncated there.
+Google will use this information on behalf of arenamate for the purpose of evaluating your use of the website, compiling reports on website activity and providing other services relating to website activity and internet usage.
 
-Google will use this information on behalf of the operator of this website for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing them other services relating to website activity and internet usage.
+IP-anonymization is active on this website, which means your IP-address will be truncated within the area of Member States of the EU or other parties to the Agreement on the European Economic Area (EEA).
 
-The IP address, that your Browser conveys within the scope of Google Analytics, will not be associated with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website.
+You can opt out from being tracked by Google Analytics with effect for the future by downloading and installing [Google Analytics Opt-out Browser Addon](http://tools.google.com/dlpage/gaoptout?hl=en) for your current web browser.
 
-You can also opt-out from being tracked by Google Analytics with effect for the future by downloading and installing Google Analytics Opt-out Browser Addon for your current web browser: <http://tools.google.com/dlpage/gaoptout?hl=en>.
+If you are using a mobile device and thus are not able to install the browser addon above, you can still opt out by clicking here to set a permanent opt-out cookie exclusively for this website.
+
+##### Log Files
+
+As already stated, log files are either completely disabled where possible (web server) or IP anonymization is active.
