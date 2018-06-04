@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vpornex.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231170047id_/http%3A//vpornex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vpornex.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604064842id_/http%3A//vpornex.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Free Latest 720p HD Porn, 1080p Full HD Porn Videos & Movies - Vpornex.com
+# Privacy Policy | Vpornex
 
 **Privacy Policy**
 
@@ -34,4 +34,4 @@
 
 **YOUR RIGHTS**
 
-**If you have additional questions then please write to us at admin@vpornex.com.**
+**If you have additional questions then please write to us at[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)**
