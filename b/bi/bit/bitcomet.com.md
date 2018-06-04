@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitcomet.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224155402id_/http%3A//www.bitcomet.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitcomet.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604053907id_/http%3A//www.bitcomet.com/en/privacy-policy) for the most accurate reproduction.*
 
 # BitComet - BitComet Website Privacy Policy
 
@@ -61,8 +61,12 @@ Users who would rather not provide any of the user data requested by our registr
 
 You can review, correct, or change the information collected during registration for any of our sites. The instructions for doing this can be found in our member-services areas. Users may change information at any time and as often as necessary. 
 
-## 7\. How will I know if the privacy policy is changed?
+## 7\. How about Third-party Comapny?
+
+We may use third-party advertising companies to serve ads when you visit our website.
+
+## 8\. How will I know if the privacy policy is changed?
 
 Any modifications to our privacy practices will be reflected first within this area of our network of Web sites. If there is a material change in our privacy practices, we will indicate on our sites that our privacy practices have changed and provide a link to the new privacy statement.
 
-Revised by BitComet Development Group on Mar 22, 2006 
+Revised by BitComet Development Group on May 16, 2018 
