@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theyouth.in privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119224641id_/http%3A//theyouth.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theyouth.in privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604124124id_/http%3A//theyouth.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – The Youth
 
