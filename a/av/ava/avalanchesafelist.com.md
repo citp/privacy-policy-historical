@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avalanchesafelist.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203100452id_/http%3A//www.avalanchesafelist.com/legal.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avalanchesafelist.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604193020id_/http%3A//avalanchesafelist.com/legal.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
 
 # AvalancheSafelist.com
 
@@ -80,7 +80,7 @@ Effective Date: 11/18/2016
 
 Contact Information:  
 Dave Mosher  
-4750 Bryant Irvin Rd. #808-172, Fort Worth, TX 76132  
+1220G Airport Fwy #492, Bedford, TX 76022  
 Email davemoshershelpdesk@gmail.com  
 Payza Email payza@avalanchesafelist.com  
 Support: http://www.totaladexplosion.com/support/index.php  
