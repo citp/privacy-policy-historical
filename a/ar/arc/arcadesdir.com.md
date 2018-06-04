@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadesdir.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227214230id_/https%3A//www.arcadesdir.com/pages/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadesdir.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604125958id_/https%3A//www.arcadesdir.com/pages/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Arcadesdir
 
