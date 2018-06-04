@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the telerivet.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216160106id_/http%3A//telerivet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telerivet.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604090245id_/http%3A//telerivet.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-_Updated: January 29, 2016_
+_Updated: May 2, 2018_
 
 Welcome to Telerivet, the online and mobile service of Telerivet, Inc. ("Telerivet," "we," "us," or "our"). Our Privacy Policy explains how we collect, use, disclose, and protect information that applies to our Service, and your choices about the collection and use of your information.
 
 Capitalized terms that are not defined in this Privacy Policy have the meaning given to them in our [Terms of Service](https://web.archive.org/terms).
 
-### What is the purpose of this Privacy Policy?
+### Purpose of this Privacy Policy
 
-This Privacy Policy discloses our personal information gathering and dissemination practices with respect to the Service. Please read this Privacy Policy carefully.
+This Privacy Policy discloses our personal information gathering and dissemination practices with respect to the Service. The Privacy Policy is incorporated into and is part of the Terms of Service. Please read this Privacy Policy carefully.
 
-We have also created this Privacy Policy to demonstrate our commitment to privacy. We recognize that when you provide us with information about yourself that you trust us to act in a responsible manner with that information.
+We have also created this Privacy Policy to demonstrate our commitment to privacy. We recognize that when you provide us with information about yourself and your contacts that you trust us to act in a responsible manner with that information.
 
-### What information do we collect from users and how is it used?
+### Information Telerivet collects from users and how it is used
 
 The following describes the types of personal and other information we may collect about you, and how we use and maintain that information:
 
@@ -38,65 +38,86 @@ In addition, Telerivet uses third-party vendors, such as Google, to show ads for
 Commercial and marketing communications
     We use the information we collect or receive to communicate directly with you. We may send you emails containing newsletters, promotions and special offers. If you do not want to receive such email messages, you will be given the option to opt out or change your preferences. We also use your information to send you Service-related emails (e.g., account verification, purchase and billing confirmations and reminders, technical and security notices). For certain Service-related e-mails, the only way to opt-out is to terminate your account with Telerivet. 
 
-### To whom does Telerivet disclose information about you that we collect?
+### To whom Telerivet may disclose information about you that we collect
 
 Telerivet will not share, rent, sell or otherwise disclose any of the personally identifiable information that we collect about you, except when we have your permission or in any of the following situations:
 
-  * We may disclose information that we collect about you to our third-party partners who perform services for Telerivet in order to provide certain services or to complete or confirm a transaction that you conduct with us.
+  * We may disclose information that we collect about you to our third-party partners who perform services for Telerivet in order to provide certain services or to complete or confirm a transaction that you conduct with us. The [Third-Party Data Processors](https://web.archive.org/processors) page describes the third party entities to which Telerivet currently discloses information about you for these purposes. 
   * We may disclose the results of aggregated data about you for marketing or promotional purposes. In these situations, we do not disclose to these entities any information that could be used to personally identify you.
   * Telerivet may disclose information about you as part of a merger, acquisition or other sale or transfer of its assets or business. Telerivet does not guarantee that any entity receiving such information in connection with one of these transactions will comply with all terms of this policy.
   * Moreover, we may be legally obligated to disclose information about you to the government or to third parties under certain circumstances, such as in connection with illegal activity on our Service or to respond to a subpoena, court order or other legal process. Telerivet reserves the right to release information that we collect to law enforcement or other government officials, as we, in our sole and absolute discretion, deem necessary or appropriate.
 
 
 
-### Who has access to messages transmitted via Telerivet?
+### Who has access to messages and contact information
 
 You may use your account settings to control other Users' access to information associated with your User account, such as messages and contact information. Generally, User Provided Information transmitted through or stored by the Service is only available to those with whom you choose to share such information. 
 
 However, please note that any messages transmitted via the Service may be accessible to certain third-party organizations, such as mobile networks and SMS gateway services, that may be used to transmit the messages. These organizations may have their own rules, policies, and security measures controlling who has access to messages transmitted through their services. 
 
-Telerivet's employees and contractors generally do not have access to view messages or contact information associated with your User account. However, certain authorized employees and contractors of Telerivet have access to view some data associated with your User account, including profile settings, automated services, log messages, and summary statistics. In limited circumstances, authorized employees or contractors of Telerivet may access other information associated with your User account, including contacts or messages, in order to investigate or resolve problems with the Service, or if required by legal process. 
+Telerivet's employees and contractors generally do not have access to view messages or contact information associated with your User account. However, certain authorized employees and contractors of Telerivet have access to view some data associated with your User account, including profile settings, automated services, log messages, and summary statistics. In limited circumstances, authorized employees or contractors of Telerivet may access other information associated with your User account, including contacts or messages, for the reasons listed in section 1.5 of the [Terms of Service](https://web.archive.org/terms). 
 
-### What security measures does the Service employ?
+### Security measures employed by Telerivet
 
 To help protect the privacy of data you transmit through this Service, where personally identifiable information is requested, Telerivet uses SSL/TLS to encrypt the information that is sent between your computer and Telerivet's servers. In addition, Telerivet takes steps to protect the user data we collect against unauthorized access.
+
+All contact data and user data is secure and accessible through the Telerivet service only via user accounts authenticated with a password, API key, or other secure credential. If someone attempts to log in with an invalid password multiple times for the same user account in a short time interval, the user account will automatically be locked for a short period of time in order to prevent automated guessing of user passwords. Users may also enable two-factor authentication via a time-based one-time password (TOTP) distributed by Google Authenticator, SMS, or voice call. Users may also enable a whitelist of internet protocol (IP) addresses that are allowed to access their data. 
 
 However, you should keep in mind that this Service and our services are run on software, hardware and networks, any component of which may, from time to time, require maintenance or experience problems or breaches of security beyond our control.
 
 Please also be aware that despite our best intentions and the guidelines outlined in this Privacy Policy, no data transmission over the Internet or encryption method can be guaranteed to be 100% secure.
 
-### Where is my information stored and processed?
+### Where information is stored and processed
 
-Your information collected through the Service may be stored and processed in Belgium, Ireland, the United Kingdom, United States or any other country in which Telerivet or its subsidiaries, affiliates or service providers maintain facilities.
+Telerivet currently stores and processes information collected through the Service on servers located in the European Union.
 
-Telerivet may transfer information that we collect about you, including personal information, to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world.
+Telerivet may transfer information that we collect about you, including personal information, to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world. In this case, Telerivet ensures that data transfers comply with the European Union General Data Protection Regulation (GDPR) Chapter 5 ("Transfers of personal data to third countries or international organisations"), and the Republic of the Philippines Data Privacy Act and Implementing Rules and Regulations. The [Third-Party Data Processors](https://web.archive.org/processors) page describes the third parties to which Telerivet transfers information and the reason for such processing. 
 
-If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. or any other country in which Telerivet or its parent, subsidiaries, affiliates or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.
+If you are located in regions with laws governing data collection and use that may differ from United States, Republic of the Philippines, or European Union law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction. You consent to the transfer of information to any country in which Telerivet or its parent, subsidiaries, affiliates or service providers maintain facilities and to the use and disclosure of information about you as described in this Privacy Policy.
 
-### How can you correct or update information that we collect about you?
+### How you can correct or update information that Telerivet collects about you
 
 You may correct or update information collected about you by logging in to Telerivet and editing your account settings, or by contacting Telerivet at [info@telerivet.com](mailto:info@telerivet.com). We will use reasonable efforts to update our records. For our records, we may retain original and updated information for reasons such as technical constraints, dispute resolution, troubleshooting and agreement enforcement.
 
 You can also stop receiving promotional email communications from us by clicking on the "unsubscribe link" provided in such communications. We make every effort to promptly process all unsubscribe requests. If you have any questions about reviewing or modifying your account information, you can contact us directly at [info@telerivet.com](mailto:info@telerivet.com).
 
-### How do I opt out of information for tracking?
+### How you can opt out of tracking
 
 Please refer to your mobile device or browser's technical information for instructions on how to delete and disable cookies, and other tracking/recording tools. Depending on your type of device, it may not be possible to delete or disable tracking mechanisms on your mobile device. Disabling cookies and/or other tracking tools prevents Telerivet or its business partners from tracking your browser's activities in relation to the Service. However, doing so may disable many of the features available through the Service. If you have any questions about opting out of the collection of cookies and other tracking/recording tools, you can contact us directly at [info@telerivet.com](mailto:info@telerivet.com).
 
-### How long will you keep my User Content?
+### How long Telerivet keeps your User Content
 
-Following termination or deactivation of your User account, Telerivet may retain your profile information and User Content for a commercially reasonable time for backup, archival, or audit purposes.
+In most cases, Telerivet stores your User Content until you delete it using the functionality provided in the Telerivet service.
 
-### How will I know about changes in the Privacy Policy?
+After you delete User Content from the Telerivet service, or following termination of your User account, Telerivet may retain your User Content for a commercially reasonable time for backup, archival, or audit purposes. In no case shall this time be greater than six (6) months following deletion of the User Content or termination of the User account.
 
-Telerivet reserves the right to update this Privacy Policy from time to time. Please visit this page periodically so that you will be apprised of any changes. When we change the policy in a material manner we will update the "Updated" date at the top of this page. 
+### How you can be informed of changes to the Privacy Policy
 
-We may provide you additional forms of notice of modifications or updates as deemed appropriate in our sole discretion. Your continued use of the Service after any modification to this Privacy Policy will constitute your acceptance of such modification. 
+Telerivet reserves the right to update this Privacy Policy from time to time. Please visit this page periodically so that you will be apprised of any changes. When we change the policy in a material manner we will update the "Updated" date at the top of this page.
 
-### What is our policy on children users of our Service?
+We may provide you additional forms of notice of modifications or updates as deemed appropriate in our sole discretion or as required by law. Your continued use of the Service after any modification to this Privacy Policy will constitute your acceptance of such modification. 
 
-We do not knowingly collect or maintain personally identifiable information from persons under 13 years old, and no part of our Service is directed to persons under 13. IF YOU ARE UNDER 13 YEARS OF AGE, PLEASE DO NOT USE OR ACCESS OUR SERVICE AT ANY TIME OR IN ANY MANNER. If Telerivet learns that personally identifiable information of persons less than 13 years old has been collected without verifiable parental consent, then Telerivet will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under the age of 13 has obtained a Telerivet account, then you may alert Telerivet at the address below and request that we delete that child's personal information from our systems.
+### Policy on children users of Telerivet
 
-### How to contact us?
+We do not knowingly collect or maintain personally identifiable information from persons under 16 years old, and no part of our Service is directed to persons under 16. IF YOU ARE UNDER 16 YEARS OF AGE, PLEASE DO NOT USE OR ACCESS OUR SERVICE AT ANY TIME OR IN ANY MANNER. If Telerivet learns that personally identifiable information of persons less than 16 years old has been collected without verifiable parental consent, then Telerivet will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under the age of 16 has obtained a Telerivet account, then you may alert Telerivet at the address below and request that we delete that child's personal information from our systems.
 
-If you have any questions about this Privacy Policy, or need to reach us for any other reason, you may contact us by e-mail at [info@telerivet.com](mailto:info@telerivet.com).
+### Provisions for the European Union, United Kingdom, and Republic of the Philippines
+
+If you use Telerivet to process data of individuals in the European Union, United Kingdom, or the Philippines, or if you are a User who is an individual in one of those countries, certain additional provisions related to privacy and data protection apply to you. Please see Section 10 of the [Terms of Service](https://web.archive.org/terms).
+
+For users subject to the Philippines' Data Privacy Act, Telerivet provides a [Privacy Manual](https://web.archive.org/_media/docs/Telerivet%20Philippines%20Privacy%20Manual.pdf) that contains additional details about how Telerivet protects information. 
+
+[VeraSafe](https://www.verasafe.com/) has been appointed as Telerivet's representative in the European Union for data protection matters, pursuant to Article 27 of the General Data Protection Regulation of the European Union. VeraSafe can be contacted in addition to Telerivet, only on matters related to the processing of personal data. To make such an inquiry, please contact VeraSafe using [this contact form](https://www.verasafe.com/privacy-services/contact-article-27-representative). Alternatively, VeraSafe can be contacted at: 
+
+VeraSafe Ireland Ltd  
+Unit 3D North Point House  
+North Point Business Park  
+New Mallow Road  
+Cork T23AT2P  
+Ireland
+
+### How to contact us
+
+If you have any questions about this Privacy Policy, or need to reach us for any other reason, you may contact us by e-mail at [info@telerivet.com](mailto:info@telerivet.com). 
+
+To contact Telerivet's Data Protection Officer, email [dataprotectionofficer@telerivet.com](mailto:dataprotectionofficer@telerivet.com). 
