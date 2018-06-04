@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the subdesu-h.net privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204213959id_/https%3A//www.subdesu-h.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subdesu-h.net privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604123722id_/http%3A//www.subdesu-h.net/privacy) for the most accurate reproduction.*
 
 # Ero Japan DESU / エロジャパンです - Watch Hentai Videos and Episodes Free Online
 
@@ -76,6 +76,6 @@ Information Sharing and Disclosure
 
  _Contact Us_
 
-  *  _If you have any questions about this Privacy Policy, please contact us at[ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0a6c6f6f6e686b69614a797f686e6f797f276224646f7e)._
+  *  _If you have any questions about this Privacy Policy, please contact us at[ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#eb8d8e8e8f898a8880ab989e898f8e989ec683c5858e9f)._
 
 
