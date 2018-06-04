@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the sharedcount.com privacy policy that was archived on 2017-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171203225432id_/http%3A//www.sharedcount.com/docs/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sharedcount.com privacy policy that was archived on 2018-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180604070942id_/http%3A//www.sharedcount.com/docs/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><head>
 <meta charset="utf-8">
 <title>SharedCount: Social URL Analytics</title>
-<meta name="description" content="Track Social URL shares, likes, and more. Facebook, Google, Pinterest, LinkedIn, StumbleUpon.">
+<meta name="description" content="Track Social URL shares, likes, and more. Facebook, Pinterest, StumbleUpon and more">
 <meta name="author" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
@@ -29,7 +29,7 @@
 <link rel="stylesheet" href="/css/style.css?v=20150224">
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W8WDX9"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.9&amp;appId=9080567582"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript" async="" src="https://widget.intercom.io/widget/akv9dfny"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.9&amp;appId=9080567582"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.15/css/dataTables.bootstrap.min.css">
@@ -53,8 +53,9 @@
 window.SharedCount = { 
 		settings : {
 			host : "api.sharedcount.com",
-			apikey : "eyJkYXRhIjoie1wiYXBpa2V5XCI6XCIxOTM0ZjUxOWE2M2UxNDJlMGQzYzg5M2U1OWNjMzdmZTAxNzJlOThhXCIsXCJkYXRlXCI6XCIyMDE3LTEyLTAzXCJ9Iiwic2lnIjoiOFNHYTJxMGxaUFlQUDNsUUVwaXhOOERMekIrdU5jejlhRjI2WDBweTlWZz0iLCJhcGlrZXkiOiIxOTM0ZjUxOWE2M2UxNDJlMGQzYzg5M2U1OWNjMzdmZTAxNzJlOThhIn0=",
-			login : null
+			quota : 0,
+			apikey : "eyJkYXRhIjoie1wiYXBpa2V5XCI6XCIxOTM0ZjUxOWE2M2UxNDJlMGQzYzg5M2U1OWNjMzdmZTAxNzJlOThhXCIsXCJkYXRlXCI6XCIyMDE4LTA2LTA0XCJ9Iiwic2lnIjoiVU9rSXVNUnpEdEE5cTM0NktycThPelwvNmp3VUtDVnliem9CdlFsUUVVNkE9IiwiYXBpa2V5IjoiMTkzNGY1MTlhNjNlMTQyZTBkM2M4OTNlNTljYzM3ZmUwMTcyZTk4YSJ9",
+			login : null			
 		},
 		trackEvent: function(category, action, label, value){
 			if(SharedCount.settings.authenticated){
@@ -67,6 +68,11 @@ var loggedIn = false;
 
 // default_urls to load when the page loads
 var default_urls = [];
+
+  window.intercomSettings = {
+    app_id: "akv9dfny",
+	  };
+(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/akv9dfny';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()
 </script>
 <script src="/js/dashboard.js"></script>
 <script>
@@ -533,15 +539,6 @@ Create an Account
 		  "hideMethod": "fadeOut"
 		}
 	</script>
-
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W8WDX9"
-	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-	})(window,document,'script','dataLayer','GTM-W8WDX9');</script>
-
 
 
 </body></html>
