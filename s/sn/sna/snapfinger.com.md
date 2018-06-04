@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapfinger.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202073857id_/http%3A//www.snapfinger.com/Info/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapfinger.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604032823id_/http%3A//www.snapfinger.com/Info/PrivacyPolicy) for the most accurate reproduction.*
 
 # Snapfinger Privacy Policy
 
