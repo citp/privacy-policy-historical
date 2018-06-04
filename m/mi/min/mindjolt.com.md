@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindjolt.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204204216id_/http%3A//www.sgn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindjolt.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604115654id_/http%3A//www.sgn.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Jam City
 
