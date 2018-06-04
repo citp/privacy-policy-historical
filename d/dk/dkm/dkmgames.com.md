@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dkmgames.com privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601064515id_/http%3A//dkmgames.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dkmgames.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604093629id_/http%3A//dkmgames.com/Privacy.htm) for the most accurate reproduction.*
 
 # DKM Games Privacy Policy
 
@@ -9,7 +9,8 @@ This privacy policy is for this website (dkmgames.com) and served by DKM Softwar
 #### What information do we collect?
 
 The only information collected is when you register. We do not ask for personal information such as name and birthdate, only your email address. This address will never be given to third parties and is only used as an alternate to your user name when you login or if you forget your password.   
-If you login via Facebook or Google, we do not store any personal information you have stored in those accounts. 
+If you login via Facebook we do not access or store any personal information you have stored in that account.   
+If you login via Google, we store your email and gender but never make use of your email or disclose to any third party. Gender may be used to gather user statistics. 
 
 #### Use of Cookies
 
@@ -26,7 +27,7 @@ This website generally avoids placing any external links. For any links that may
 
 #### Adverts
 
-This website contains adverts as supplied by the Google Adsense program. Please refer to Google for any detailed privacy policies relating directly to the adverts they serve.   
+This website contains adverts as supplied by the Google Adsense program. Please refer to [ this Google page](https://www.google.com/policies/technologies/partner-sites/) for any detailed privacy policies relating directly to the adverts they serve.   
 As the ads are supplied by Google (who have tens of thousands of advertisers), we cannot have full control over which ads are displayed. However, we do attempt to block any categories of adverts that we believe may be offensive to our users.   
 Clicking on any such adverts will send you to the advertisers website through a referral program which may use cookies and will track the number of referrals sent from this website. Users should therefore note they click on sponsored external links at their own risk and this website and its owners cannot be held liable for any damages or implications caused by visiting any external links mentioned. 
 
