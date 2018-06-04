@@ -1,148 +1,162 @@
-> *The following text is extracted and transformed from the samaritanspurse.org privacy policy that was archived on 2017-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171022205125id_/https%3A//www.samaritanspurse.org/our-ministry/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samaritanspurse.org privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604131255id_/https%3A//www.samaritanspurse.org/our-ministry/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy is designed to inform you of our privacy practices and principles regarding your information.
+### 1\. Introduction
 
-##### 1\. AWARENESS
+**1.1** Samaritan’s Purse is committed to protecting your privacy and will only use the information that we collect about you lawfully. This policy is designed to provide transparency into our privacy practices and principles and to inform you of the way your information is collected and used. 
 
-This Privacy Policy is designed to provide transparency into our privacy practices and principles and to inform you of the way your information is collected and used. We continue to treat your information with care and respect.
+**1.2** If you have questions about this policy, please contact us through [dataprivacy@samaritan.org](mailto:dataprivacy@samaritan.org), or by writing to Samaritan’s Purse, PO Box 3000, Boone, NC 28607, or calling (828) 262-1980.
 
-##### 2\. INFORMATION WE COLLECT
+**1.3** Please read the following carefully to understand our practices regarding your personal data and how we will treat it. BY USING OUR WEBSITE OR PROVIDING US WITH YOUR PERSONAL INFORMATION, YOU AGREE TO YOUR PERSONAL INFORMATION BEING USED AND STORED IN A MANNER SET OUT IN THIS POLICY. We may update this policy periodically so please check it regularly.
 
-**We collect the following categories of information:**  
-• “Personal Information” that can be used to uniquely identify you individually such as:  
-– Information you provide online such as your name, address, telephone number, and email address. To continuously improve your service and tailor our subsequent communications to you, we may also ask for additional information, such as your demographics, comments, professional interests, and contact preferences;  
-– Transaction information you provide when you donate online such as credit card information and payment information.
+### 2\. How we collect information about you
 
-• Anonymous information that does not personally identify you:  
-– When you visit our websites, open e-mails we send, or use our applications on third-party websites or platforms, we collect: usage, location, viewing, and technical data (such as your device identifier or IP address).
+**Information you provide us**
 
-##### 3\. SHARING OF PERSONAL INFORMATION
+**2.1** We may collect information from you in the following ways:
 
-Samaritan’s Purse never sells, rents, leases, or exchanges your Personal Information to third parties. Your Personal Information will only be shared if we have a good-faith belief that access, use, preservation, or disclosure of the information is reasonably necessary to:  
-• Meet any applicable law, regulation, legal process, or enforceable governmental request;  
-• Detect, prevent, or otherwise address fraud, security, or technical issues; or  
-• Protect against harm to the rights, property or safety of Samaritan’s Purse, our users, or the public as required or permitted by law.
+  * (a) Our use of cookies (please see our policies regarding cookies in section 8);
+  * (b) You make a donation to us (which may be financial or non-financial/in-kind), or respond to our mailings and appeals;
+  * (c) You request information or materials from our organization;
+  * (d) You contact us in relation to volunteering or fundraising on our behalf;
+  * (e) You apply for a job with us, become an employee, or provide consultancy services directly to us; or
+  * (f) You contact us with inquiries or other correspondence (including via social media) or become involved with us in another way.
 
-The identity of all who contact us through this website will be kept confidential. Use of Personal Information will be limited to the internal purposes of Samaritan’s Purse and only to further our ministry activities and purposes.
 
-##### 4\. HOW WE COLLECT THE INFORMATION
 
-In order to tailor our interactions with you and complete transactions you request, we collect information:  
-• You provide when you request information or materials from our organization;  
-• You provide through online donations; and  
-• Through the use of various [online tracking technologies](https://web.archive.org/our-ministry/online-tracking-technologies/ "Online Tracking Technologies"). Collecting information in this manner allows us to collect statistics about our websites’ usage and effectiveness and to personalize your experience while you are on our or third-party websites.
+**2.2.** If you interact with us in one of the ways listed above, we may collect and process personal information about you such as:
 
-##### 5\. HOW WE USE THE INFORMATION
+  * (a) Your name, address, email address, telephone number, your age;
+  * (b) Information you enter onto our website or other hard copy forms at an event;
+  * (c) Records of your correspondence with us, if you have contacted us;
+  * (d) Details of your visit to our website, including your IP address;
+  * (e) Financial information such as your bank or card details;
+  * (f) Whether you have a relationship to another supporter (e.g. husband/wife)
 
-Samaritan’s Purse uses your information to understand your needs and interests and provide you with better service. Consistent with local law and choices and controls that are available to you, we may also use your information to:  
-• Provide you with information you request;  
-• Complete any transactions you request or issue donation tax receipts.  **Credit card numbers are used only for donation processing and are not retained for any other purposes.**  
-• Communicate with you about your donor account or transactions with us;  
-• Send you information about our ministry or features on our websites and applications;  
-• Personalize content and experiences on our websites and applications;  
-• Provide advertising about our ministry activities based on your activity on our websites and applications and on third-party web sites and applications;  
-• Optimize or improve our products, services, and operations; and  
-• Detect, investigate, and prevent activities that may violate our policies or be illegal.
 
-##### 6\. INFORMATION SECURITY
 
-Samaritan’s Purse is committed to ensuring the security of your information. To prevent unauthorized access, maintain data accuracy, and ensure the proper use of information, we have established and implemented appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Samaritan’s Purse uses Internet Encryption Software, Secure Socket Layer (SSL) Protocol when collecting or transferring sensitive data such as credit card information. Any information you enter is encrypted at your browser, sent over the public Internet in encrypted form, then de-encrypted at our server. Please be aware that, despite our best efforts, no security measures are perfect or impenetrable.
+**2.3** We do not collect “sensitive personal data” about you, such as religious beliefs, genetic data, biometric data, data concerning health, unless there is a legitimate reason to do so. If we need to collect this type of data, we will obtain your consent or draw this specifically to your attention so you understand what information is needed and why we need it.
 
-##### 7\. LINKS TO THIRD PARTY WEBSITES AND THIRD-PARTY APPLICATIONS
+**Information we receive from other sources**
 
-To allow you to interact with third-party websites on which you may have accounts (such as social media websites) or join communities on such websites, we may provide links or embed third-party applications that allow you to login, post content, or join communities from our websites. We may also provide you with general links to third-party web sites. Your use of these links and applications is subject to the third-parties’ privacy policies, and you should become familiar with the third-parties’ privacy policies before using the links or applications.
+**2.4** Your information may be given to us by third parties, such as online tracking technologies. Collecting information in this manner allows us to collect statistics about our websites’ usage and effectiveness and to personalize your experience while you are on our third-party websites (please see section 8 for more information regarding our use of online tracking technologies).
 
-Samaritan’s Purse is not responsible for the privacy practices or the content of those third-party websites.
+**2.5** These third parties are subject to their own policies on data protection and privacy. It is a good idea to check their privacy policy when you provide your information to them to fully understand how they will process your data and may share it with others.
 
-##### 8\. ONLINE ADVERTISING
+**2.6** These third parties are often processing your data on your behalf so as the data controller, Samaritan’s Purse is responsible for the security and proper processing of your personal data.
 
-We promote and encourage support of our ministry activities by purchasing advertising space on third-party websites. When you visit one of our websites, we or a third party may place one or more types of [cookies](https://web.archive.org/who-we-are-2/online-tracking-technologies/ "Online Tracking Technologies") on your computer in order to recognize your computer. Because we advertise about our ministry activities on third-party websites, we are able to compile anonymous information over time about the types of pages, content, and ads you or others who use your computer visited or viewed. This anonymous information is used for many purposes. For example, it helps us try to ensure that you do not see the same advertisements repeatedly. We also use this anonymous information to help select and display targeted advertisements on third-party websites that encourage support of our ministry activities.
+### 3\. Why and how we use your information and on what basis
 
-Third-party companies also may collect anonymous information about your activity on our websites and applications and on third-party web sites and applications using [online tracking technologies](https://web.archive.org/who-we-are-2/online-tracking-technologies/ "Online Tracking Technologies"). Tracking data collected by these third-party companies is used to decide which advertisements you see on third-party websites and applications, but does not identify you personally.
+**3.1** We will process your personal information in accordance with this policy and our obligations under applicable data protection laws and regulations, for one or more of the following reasons:
 
-You may choose not to receive targeted advertisements from many ad networks, data exchanges, marketing analytics and other service providers by visiting the [Ads Preferences Manager](https://www.google.com/ads/preferences/?hl=en "Ads Preferences Manager") or by visiting the [Network Advertising Initiative](http://www.networkadvertising.org/choices/ "Network Advertising Initiative").
+  * (a) To administer your purchase or donation; 
+  * (b) To confirm receipt of donation and to say thank you and provide details of how your donation might be used;
+  * (c) To provide you with the services, activities or information you have indicated you want to receive or which you have asked for;
+  * (d) To comply with applicable laws and regulations, and requests from statutory agencies;
+  * (e) For our own internal administrative purposes and to keep a record of your relationship with us;
+  * (f) For the purposes of research such as support satisfaction research;
+  * (g) For marketing purposes, to provide you with information about us, our fundraising campaigns, the opportunity to leave a gift in a will, our events, our services, and any other information, products, activities or services that we provide;
+  * (h) Where you have provided your consent to publish your personal data;
+  * (i) To provide you with information about volunteering opportunities;
+  * (j) To provide you with details about our campaigns;
+  * (k) To provide essential event information where you have signed up to attend;
+  * (l) To manage your communication preferences with us generally;
+  * (m) To provide you with information about goods and services we feel may interest you;
+  * (n) To notify you about changes to our services and/or donor opportunities;
+  * (o) To ensure that content from our website is presented in the most effective manner for you and for your compute/mobile device.
 
-##### 9\. CHANGES TO THIS PRIVACY POLICY
 
-From time to time, Samaritan’s Purse may change this Privacy Policy.
 
-##### 10\. PRIVACY QUESTIONS AND FUTURE COMMUNICATION
+**3.2** While we generally seek consent to process your data at the point we collect it, in some cases, we may process data without consent where we are legally allowed to do so, and where we have legitimate reasons for doing to, provided we respect your legal rights.
 
-If you have comments or questions about our Privacy Policy or if you no longer wish to receive future communications from Samaritan’s Purse, please use our [Contact Us ](https://web.archive.org/our-ministry/contact-us/ "Contact Us")form.
+**3.3** If you request to receive no further contact from us or request to have your personal data deleted from our system, we will keep some basic information in order to avoid sending you unwanted communications in the future. If we do not retain this information, then this could result in us contacting you again as we would no longer have a record of your request not to be contacted.
 
-If you determine that information in our database is inaccurate or has changed, you may modify the previously provided information by using our [Contact Us](https://web.archive.org/our-ministry/contact-us/ "Contact Us") form.
+**3.4** We will keep your personal data for no longer than is necessary for the purposes for which it is processed, in accordance with our internal policies.
 
-### Política de confidencialidad
+### 4\. Where we store your information
 
-La presente Política de confidencialidad tiene el fin de informarle sobre nuestras prácticas de confidencialidad en cuanto a los datos que usted nos da.
+**4.1** The information we collect from you will be stored in the U.S. However, there may be times when we need to transfer your data to a destination outside the U.S. to provide you with requested services (e.g. You request information from one of our worldwide office). If we send your personal data outside the U.S. or other areas outside the European Economic Area (EEA), we will take reasonable steps to ensure that the recipient implements appropriate measures to protect your information. By submitting your details, you agree to this use of your data.
 
-1\. CONOCIMIENTO
+**4.2** Online payment transactions will be encrypted. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping the password confidential. We will not ask you to share your password with anyone.
 
-La presente Política de confidencialidad tiene el fin de aclarar nuestras prácticas de confidencialidad y de informarle sobre la manera en que recopilamos y usamos sus datos. Sus datos personales se tratarán siempre de manera confidencial.
+**4.3** The transmission of information via the internet is not completely secure (though note that our online payment transactions are securely encrypted). Although we do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try and prevent unauthorized access.
 
-2\. DATOS QUE RECOPILAMOS
+### 5\. Who has access to your information
 
-Recopilamos las categorías siguientes de datos:  
-• Datos personales» que se pueden usar para identificarlo a usted de manera única como persona; datos tales como:  
-– Datos que da en línea como su nombre, dirección postal, número telefónico y dirección electrónica. Para brindarle continuamente un mejor servicio y para poder comunicarnos mejor con usted, le pediríamos más datos tales como su perfil demográfico, opiniones, interés en lo profesional y preferencias de contacto;  
-– Datos que da cuando hace un donativo en línea: datos de la tarjeta de crédito y de pago.  
-• Datos anónimos que no lo identifican a usted personalmente:  
-– Cuando entra a nuestros sitios web, o abre correos que le enviamos, o usa nuestras aplicaciones en plataformas y sitios web terceros, recopilamos: uso, localidad, vistas y datos técnicos (tales como el identificador de su aparato o dirección IP).
+**5.1** Samaritan’s Purse may allow our staff, consultants and/or external providers acting on our behalf to access and use your information for the purposes for which you have provided it to us (e.g. to deliver mailings, for research, to analyze data and to process payments) or for the purposes set out in this privacy policy. We only provide them with the information they need to deliver the relevant service or it is relevant to their work, and we make sure your information is transferred securely and treated with the same level of care as if we were handling it directly.
 
-3\. CÓMO USAMOS SUS DATOS PERSONALES
+**5.2** We do not sell rent or lease your personal data to third parties for the purposes of marketing. However, we may share information with our Ministry Partners, such as the Billy Graham Evangelistic Association (BGEA), and other parties to assist us with establishing, maintaining, and managing our relationship with you and providing ministry products and services.
 
-La Bolsa Samaritana no venderá, arrendará ni prestará sus datos personales a terceras entidades, ni los intercambiará con estas. Daremos a conocer sus datos personales únicamente si tenemos la seguridad de que el acceso, el uso, la protección o la divulgación de estos es necesaria para:  
-• Acatar una ley, un reglamento o proceso judicial, o un mandato gubernativo;  
-• Detectar, prevenir, o resolver asuntos de fraude, seguridad y técnicos; o  
-• Proteger los derechos, la propiedad y la seguridad de la Bolsa Samaritana, de nuestros usuarios y del público en general, según lo requiera o permita la ley.
+**5.3** We may disclose your information to other organizations and agencies if we are under a duty to disclose or share it in order to comply with any legal obligation, or in order to enforce or apply any agreement; or to protect the rights, property, or safety of us or others.
 
-Trataremos con suma confidencialidad la identidad de toda persona que nos contacte por medio del sitio web. El uso de los datos personales será limitado a asuntos internos de la Bolsa Samaritana y solo para promover las actividades y propósitos de nuestro ministerio.
+**5.4** In accordance with our Child Protection Policy and our commitment to protect vulnerable children from all forms of exploitation and abuse, we may share details, including personal data, relating to serious breaches of our Child Protection Policy and procedures with statutory authorities such as the police.
 
-4\. CÓMO RECOLECTAMOS LOS DATOS
+### 6\. Samaritan’s Purse worldwide offices
 
-Con el fin de tener una mejor comunicación con usted y tramitar las operaciones que solicite, recolectamos datos:  
-• Que nos da cuando pide información o materiales de nuestra organización;  
-• Que nos da cuando hace donativos en línea, y  
-• Por medio de varias [tecnologías de rastreo en línea](https://web.archive.org/who-we-are-2/online-tracking-technologies/). Estos medios de recolección de datos nos permiten recolectar estadísticas en cuanto al uso y la eficacia de nuestro sitio web y para personalizar su visita a nuestro sitio web y al de terceras entidades.
+**6.1** We may need to disclose your information to other offices in some circumstances with your consent. Samaritan’s Purse has its international headquarters in the U.S, but works in over 100 countries. Samaritan’s Purse offices in other countries may be best placed to manage your relationship and provide you with any necessary support.
 
-5\. CÓMO USAMOS LOS DATOS
+**6.2** For example, if you provide support or are involved in a Samaritan’s Purse project or activity in one of our international locations, elements of your personal data (e.g. your name and address) may be shared with the relevant Samaritan’s Purse office in that country in accordance with this policy. We will only share your details with another office in accordance with data protection laws and regulations and where we have your consent to do so.
 
-La Bolsa Samaritana usa sus datos para conocer mejor sus necesidades e intereses, para poder brindarle un mejor servicio. Siempre y cuando acatemos las leyes, los reglamentos y las opciones vigentes donde usted reside, podríamos usar sus datos para:  
-• Facilitarle la información que nos solicite;  
-• Tramitar las operaciones que usted solicite o enviarle recibos de donativos para la declaración de impuestos. El número de la tarjeta de crédito se usa solo para tramitar sus donativos, pero no se guarda para ningún otro propósito.  
-• Comunicarnos con usted en cuanto a su cuenta y sus operaciones con nosotros;  
-• Enviarle información sobre nuestro ministerio y novedades en nuestro sitio web y aplicaciones;  
-• Personalizar el contenido y las experiencias en nuestros sitios web y aplicaciones;  
-• Dar publicidad sobre las actividades de nuestro ministerio basada en sus visitas a nuestros sitios web y aplicaciones y a las de terceras entidades;  
-• Optimizar y mejorar nuestras operaciones y nuestros materiales y servicios, y  
-• Detectar, investigar y prevenir actividades que sean ilegales o puedan infringir nuestras políticas.
+**6.3** Other Samaritan’s Purse offices may legally be required to share data in accordance with their relevant domestic legislation and potential law enforcement requirements.
 
-6\. SEGURIDAD DE LOS DATOS
+### 7\. Your rights
 
-La Bolsa Samaritana se compromete a proteger la seguridad de los datos que usted nos da. Para prevenir el acceso no autorizado, mantener la exactitud de los datos y asegurar el uso correcto de la información, hemos establecido y puesto en marcha lo procedimientos físicos, electrónicos y administrativos adecuados para salvaguardar los datos que recolectamos en línea. Para recolectar información y datos y para tramitar las operaciones con tarjeta de crédito, la Bolsa Samaritana usa la codificación Internet Encryption Software, capa de conexión segura, o Secure Socket Layer (SSL, por sus siglas en inglés). Todo dato que usted introduzca se codifica en su navegador y se envía de forma codificada por la Internet, luego se descodifica en nuestro servidor. Tenga presente que, a pesar de todos nuestros esfuerzos, no hay medida de seguridad que sea perfecta ni invulnerable.
+**7.1** To request details of the information we hold about you, to request that we no longer contact you or that you no longer wish to receive information from us, to update us on your contact details, or to change your preferences, simply let us know by:
 
-7\. ENLACES A SITIOS WEB Y APLICACIONES DE TERCEROS
+  * (a) sending an email to [dataprivacy@samaritan.org](mailto:dataprivacy@samaritan.org)
+  * (b) writing to Data Privacy, c/o Legal Department, Samaritan’s Purse, P.O. Box 3000, Boone, North Carolina 28607; or
+  * (c) calling our representatives at (828) 262-1980 between 8am-4:30pm (Monday through Friday).
 
-Para que usted pueda interactuar con sitios web de terceros en los cuales tiene cuenta (como las redes sociales) o hacerse miembro de comunidades en esos sitios web, a veces facilitamos enlaces o insertamos aplicaciones terceras para que usted pueda ingresar, colgar contenido o hacerse miembro de comunidades desde nuestros sitios web. A veces también le facilitamos enlaces generales a sitios web de terceros. Si usted usa esos enlaces y aplicaciones, tenga presente que estará sujeto a las políticas de confidencialidad de esos sitios de terceros, por tanto, deberá conocer las políticas de confidencialidad de estos antes de usar los enlaces y las aplicaciones.
 
-La Bolsa Samaritana no asume ninguna responsabilidad por las normas de confidencialidad ni el contenido de esos sitios web de terceros.
 
-8\. PUBLICIDAD EN LÍNEA
+**7.2** Instructions for unsubscribing from emails will also be included in each email communication we send.
 
-Para promover y fomentar el apoyo a las actividades de nuestro ministerio, compramos espacio publicitario en sitios web de terceros. Si usted entra a uno de nuestros sitios web, nosotros o un tercero almacenará una o más clases de [cookies](https://web.archive.org/our-ministry/online-tracking-technologies/) en su computadora para después poder reconocerla. Como anunciamos las actividades de nuestro ministerio en sitios web de terceros, podemos, con el tiempo, recopilar datos anónimos acerca de las páginas, el contenido y los anuncios que usted o los que usan su computadora visitan o ven. Esos datos anónimos se usan para muchos fines. Por ejemplo, nos ayudan a hacer lo posible para que usted no vea el mismo anuncio una y otra vez. Usamos también esos datos anónimos para escoger anuncios que promueven el apoyo a las actividades de nuestro ministerio y colgarlos en sitios web de terceros.
+**7.3** Under the General Data Protection Regulations (GDPR), which is expected to become law in the countries within the European Union (EU) in May 2018, EU citizens are granted a number of additional rights. These include:
 
-Las entidades terceras usan también [tecnologías de rastreo en línea](https://web.archive.org/who-we-are-2/online-tracking-technologies/) para recolectar datos anónimos acerca de lo que usted hace en nuestros sitios web y en nuestras aplicaciones y en los sitios web y las aplicaciones de terceros. Los datos de rastreo que las entidades terceras recopilan los usan para determinar qué anuncios verá usted en los sitios web y las aplicaciones de terceros, pero no lo identifican a usted personalmente.
+  * (a) The right to correction;
+  * (b) The right to erasure;
+  * (c) The right to restrict processing;
+  * (d) The right to data portability;
+  * (e) The right to object;
+  * (f) Rights in relation to automated decision making and profiling.
 
-Si lo desea, usted puede optar por no recibir anuncios de las cadenas publicitarias, centrales de datos, análisis de mercadeo y de otros proveedores de servicios. Para hacerlo, entre a [Ads Preferences Manager](https://www.google.com/ads/preferences/) o a [Network Advertising Initiative](http://www.networkadvertising.org/choices/).
 
-9\. MODIFICACIONES A LA PRESENTE POLÍTICA DE CONFIDENCIALIDAD
 
-De vez en cuando, la Bolsa Samaritana puede hacer modificaciones a la presente Política de Confidencialidad.
+**7.4** If you not satisfied with the way we have processed your personal data, please contact our data privacy representative(s) using the contact information set out in the introduction and section 7.1 of this policy. For those in the EU, if you are remain dissatisfied with how your complaint is handled, you can contact the Information Commissioner’s Office (ICO) at [https://ico.org.uk](https://ico.org.uk/). Alternatively, if you are located within the EU, you are entitled to make a complaint directly to the ICO without first referring your complaint to us.
 
-10\. PREGUNTAS SOBRE CONFIDENCIALIDAD Y COMUNICACIÓN EN EL FUTURO
+### 8\. Cookies and how we use them
 
-Si tiene preguntas o comentarios sobre nuestra Política de Confidencialidad, o si no desea recibir más comunicados de parte de la Bolsa Samaritana, favor de usar nuestro formulario [Contact Us](https://web.archive.org/our-ministry/contact-us/).
+**8.1** Like most websites, we use cookies. Cookies are pieces of information that a website places on the hard drive of your computer when you visit the website. Cookies do not harm your computer. Cookies may involve the transmission of information from us to you and from you directly to us, to another party on our behalf, or to another party in accordance with its privacy policy. We may use cookies to bring together information we collect about you. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you may not have access to many features that make your guest experience more engaging and some of our services may not function properly.
 
-Si ve que hay algún error en los datos que tenemos en la base de datos o si ha habido algún cambio, favor de usar nuestro formulario [Contact Us](https://web.archive.org/our-ministry/contact-us/).
+**8.2** We use the following types of cookies and online tracking technologies:
+
+  * (a) Flash Cookies We may use local shared objects, sometimes known as Flash cookies, to store your preferences or display content based upon what you view on our website to personalize your visit. Third-party service providers with whom we contract also may use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. If you disable Flash cookies, you may not have access to many features that make your guest experience more engaging and some of our services may not function properly.
+  * (b) Persistent Cookies These types of cookies allow us to provide you with a smoother browsing experience while you navigate our websites. Persistent cookies also help our websites remember your information and settings whenever you visit them. These cookies remain on your hard drive until you manually erase them or they expire.
+  * (c) Web Beacons Web beacons are small pieces of data that are embedded in images on the pages of websites and emails. Web beacons may involve the transmission of information directly to us, to another party on our behalf, or to another party in accordance with its privacy policy. We may use web beacons to bring together information we collect about you.
+
+
+
+**8.3** Third-party websites and social networks
+
+  * **8.3.1** If you click on a hyperlink from our website to any third party websites (e.g. if you “share” content from our website with friends or colleagues on social media), you may be sent cookies from these third party websites. They will do so pursuant to their own policies on privacy and cookies. It’s a good idea to check their privacy policies to fully understand their use of cookies.
+
+
+
+**8.4** Disabling cookies
+
+  * **8.4.1** By using our website, you consent to our use of cookies as updated from time to time and the cookies we use will be stored on your device (unless rejected or disabled by your browser).
+  * **8.4.2** Internet browsers normally accept cookies by default. However, it is possible to set an internet browser to reject cookies. If you do not accept our use of cookies as set out in this policy, please set your internet browser to reject cookies. This may impair your ability to use our website so that some features may not work.
+  * **8.4.3** We may update our use of cookies from time to time so please check this policy regularly.
+
+
+
+### 9\. Children’s online privacy
+
+**9.1** We are concerned about the privacy of young children, and we do not collect any more personal information than is reasonably necessary to enable them to participate in the activities we offer on out sites. We encourage you to become involved with your child’s access to the Internet and to our site in order to ensure that his or her privacy is well protected. To read more about online safety and how to become more involved with your child’s online experience, visit OnGuardOnline.gov.
+
+### 10\. How long do we keep your personal data
+
+**10.1** We retain personal information for as long as we reasonably require it for legal or business purposes. In determining data retention periods, Samaritan’s Purse takes into consideration data protection regulations, local laws, contractual obligations and the expectations and requirements based on the nature of the relationship with Samaritan’s Purse.
+
+(Last updated: May 25, 2018)
