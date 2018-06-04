@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glaminati.com privacy policy that was archived on 2017-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171030045242id_/http%3A//glaminati.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glaminati.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604064848id_/http%3A//glaminati.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Glaminati
 
