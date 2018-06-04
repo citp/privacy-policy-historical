@@ -1,49 +1,39 @@
-> *The following text is extracted and transformed from the bukisa.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606174151id_/http%3A//www.bukisa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bukisa.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604033149id_/http%3A//bukisa.com/privacy-policy) for the most accurate reproduction.*
 
-# Bukisa - Privacy Policy
+# Privacy Policy
 
-## General
+Privacy Policy
 
-BUKISA sees great importance in protecting your privacy. Our Privacy Policy is designed to explain the manner in which BUKISA collects, uses, and discloses personal information provided by you as a result of the use of the BUKISA Web Site and the content, information and services provided throughout the Site.
+Our team here at Bukisa.com is fully committed to protecting all our users privacy online. By continuing to use this site, you acknowledge that you have read and agree to all terms stated in this policy.
 
-## User's Consent
+General
 
-BY ACCESSING THIS WEB SITE, THE WEB SITE LOCATED AT THE URL WWW.BUKISA.COM AND/OR ANY OTHER SITE PROVIDED BY BUKISA (COLLECTIVELY, THE "SITE"), YOU ARE SIGNIFYING, EXPRESSING AND PROVIDING YOUR CONSENT TO THE INFORMATION COLLECTION, INFORMATION USAGE, AND OTHER PROCEDURES DESCRIBED IN THE PRIVACY POLICY BELOW. BUKISA reserves the right to change this policy at any time, without notice, by posting a new privacy policy at this location. The collection, use and disclosure of your personal information by the Site will be governed by the version of this Policy in effect at that time. Please check this page periodically for any changes. Please [contact us](http://www.bukisa.com/contact) if you have any questions about our privacy policy.
+Our users are free to visit and enjoy our content at no personal obligation; users can exit the site whenever they so choose and do not need to reveal any personal information about themselves. There are some services offered that users may want to take advantage of, and it’s possible they will be required to disclose some personal information, including but not limited to, their first and last name, home address, email address, telephone numbers and birthday. It is also possible that other information will be collected on other applicable pages within our sites. If any users do choose to submit information to us directly or to a third party via our site, they can be assured that we will never sell or lease their personal information except;
 
-## Collection and Use of Information
-
-In order for you to access certain materials or pages (i.e. author signup, tell a friend, and the like) to register as a user on this Site, this Site requires that you provide certain personal information, including, but not limited to, your name, phone number and e-mail address. We use this information in order to contact you to provide you with further information about our company and services, as well as for other commercial and/or internal purposes such as market research in order to better understand the demographics of our Site visitors and potential customers and partners. We may share this information with our authorized partners and/or with third parties who act for or on behalf of us, but we do not otherwise provide or sell any information gathered on this Site to outside vendors.
-
-## User Tracking
-
-This Site implements a user tracking feature, whereby the activities of each unique visitor to the Site are monitored. This is done regardless of whether the visitor has registered on the Site or is visiting the Site anonymously, but if you do not register on this Site or fill in your personal details on any forms, you do remain anonymous and we do not discover your identity. If you do register on this Site, our use of user tracking enables us to identify your future and prior activity on the Site, including your activity before you registered. This includes pages on our Site that you visited. User tracking also allows us to determine through which means you have reached our Site (i.e. which search engines or links) up to one web page back. The purpose of our user tracking is to analyze our visitors' actions in order to improve the user experience of visitors to our Site, as well as to better understand the priorities and interests of our potential customers and partners in order to better suit their needs and increase the efficiency of our sales and marketing processes.
-
-## Use of Cookies
-
-A "cookie" is a small text file transferred by a Web Site to a computer that is browsing the Web Site. Even if you do not register on this Site, upon your first visit to this Site (or subsequent visits if you delete the cookie), a cookie is stored on your computer, which automatically identifies you to the Site. This is done for several technical reasons, including enabling the "User Tracking" described above. In addition, for your convenience, the cookie can "autofill" information on forms on the Site, removing the need for you to fill out the same information on our registration forms each time you want to access information that requires registration. However, cookies by themselves cannot be used to discover the identity of the user; the only personal information we learn about you is that which you provide to us, as described above. If you would prefer not to receive cookies, you can change the configuration of your browser to refuse cookies. In addition, you can delete any cookies that have already been placed on your computer.
-
-## Internet Protocol Addresses
-
-We collect the IP addresses of all visitors to our Site. We use your IP address in order to administer the Site, help diagnose problems with our server, gather broad demographic information, and for the "User Tracking" described above.
-
-## Hyperlinks
-
-This Site contains hyperlinks to other web sites. This privacy policy applies only to this Site and not to any other sites, including sites accessed by hyperlink from this Site. BUKISA has no responsibility, liability for, or control over those other web sites or Internet resources or their collection, use and disclosure of your personal information, nor has it any control over the privacy policies of any of these sites. When you leave our Site, including by linking from the Site to another site, you should read the privacy policy, if any, provided by such site.
-
-The applicable law and exclusive jurisdiction for settling any disputes in connection with the use of the Site shall be the laws and jurisdiction of the State of Israel according to the provisions of the then policy in effect.
-
-BUKISA will accumulate and process your personal information in the USA, Israel or, from time to time, in other locations at its discretion in order to provide you with competent and effective service.
-
-In order to assist in protecting the confidentiality of your personal information, BUKISA applies appropriate security safeguards in which to secure your sensitive information. However, in light of the nature of Internet technologies, security and privacy risks cannot be eliminated and, therefore, BUKISA cannot guarantee that your personal information will not be disclosed in ways not otherwise described in this Policy.
-
-## 3rd Party Based Advertising
-
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
-
-In addition:
-
-  * Google, as a third party vendor, uses cookies to serve ads on the Site.
-  * Google's use of the DART cookie enables it to serve ads to users based on their visit to our site and other sites on the Internet.
-  * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+  * for special promotions which may be offered on occasion on our sites in conjunction with a third party service provider in order to fulfill any deals or promotions that the user signed up for
+  * to third party service providers we have partnered with so we may provide services our users requested
+  * following a notice posted on a relevant page on our site that collects personal information following a transaction that notifies the user and discloses the purchase
 
 
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
+
+Cookies
+
+To make our content and site as a whole as relevant as possible, we will collect information that identifies your browser type, user agent, IP address or other information. We will never track and store any personally identifiable information. We are able to do this by placing small files or cookies on your computer when you browser through our sites. Cookies are simply small pieces of data that include an anonymous unique identifier that travels to your browser and is stored on your hard drive. Users have the ability to delete and/or clear cookies whenever they so choose, and cookies in no way cause any damage to a computer. They simply enable a more efficient, relevant browsing experience.
+
+Disclosure of User Information for Legal Purposes
+
+Federal and state laws requires that from time to time we may be obligated to share personal user information (review Cookies section) that are pursuant to judicial subpoenas or warrants. We also reserve the right to use and share personal information we collect in order to investigate and prevent any activity deemed illegal, fraudulent or may cause physical harm to another person.
+
+External Links
+
+Our site’s pages will contain links to third party websites that may be unrelated to the content we have created and own. Please understand that we are not responsible for the privacy practices of any and all third party companies and websites. It is always recommended to review the privacy policies of all websites you enter to ensure you are fully protected under the law.
+
+Children
+
+Federal law mandates that we cannot collect any personally identifiable information that originates from a child under the age of thirteen without full consent from that child’s parent of guardian. Therefore we will never collect any information if we know or deem the user to be under the age of thirteen.
+
+Advertising
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, http://www.networkadvertising.org/managing/opt_out.asp
