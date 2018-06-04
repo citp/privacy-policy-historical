@@ -1,148 +1,41 @@
-> *The following text is extracted and transformed from the yourhormones.info privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230104250id_/http%3A//www.yourhormones.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourhormones.info privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604184335id_/http%3A//yourhormones.info/privacy) for the most accurate reproduction.*
 
 # Privacy | You and Your Hormones from the Society for Endocrinology
 
-This privacy policy tells you what to expect when The Society for Endocrinology collects information from you via our website.
+## What data do we collect?
 
-## Your consent to this policy
+#### Cookies
 
-By using our website, you consent to the collection and use of your information by the Society for Endocrinology as specified below.
+When you use the You and Your Hormones website, we send your computer a small file called a cookie, which we can access when you visit this site in future. To analyse our cookie data, we use a third party service provided by Google LLC called Google Analytics.   
+We collect this information to help this site run smoothly, to automatically populate your login information, and to analyse trends in the way our users interact with the site. We will never process your cookie data in a way that identifies you as an individual.   
+You can change your cookie preferences for this site at any time by clicking ‘cookie settings’ in our website footer (at the bottom of every page on this site).
 
-## What information is collected about me by the Society for Endocrinology and how?
+## How is my information stored?
 
-The Society for Endocrinology collects personal data that you submit while using the following services: membership renewal, event registration, submission of abstracts and every time you email us your details.
+The information you provide to us via this website is stored on the Society for Endocrinology’s systems on a secure remote server. We have implemented stringent security policies and technical measures to protect your information from unauthorised use, or accidental loss. Any personal information held by us is stored securely, and is only accessible by authorised personnel. Individuals’ data is only stored for as long as it is required, and will be securely disposed of appropriately when it is no longer needed.
 
-The Society collects information about you for the following purposes:
+We do not disclose your personal data to other organisations other than as necessary for the purposes for which you have supplied your information, to comply with our legal obligations, or to ensure data integrity.
 
-  * Technical administration of the website
-  * Research and development
-  * Managing your society membership
-  * Event registration, booking and feedback
-  * Membership mailings – postal and email
-  * Contacting you about products or services that we think may be of interest to you. Enabling the media to contact you about your specialty (where we have your express consent for this purpose).
+This website may contain links to other websites. Any third party websites are not covered by this privacy policy, and we encourage our users to refer to the privacy policies on these websites. 
 
+## Your rights
 
+You have the right to access any personal information that Bioscientifica Ltd holds about you. If we do hold information about you we will, upon your request:
 
-We will not ask for this information on an annual basis but will rely upon you to let us know if your choices change.
-
-## Cookies
-
-When you visit the Society for Endocrinology website, The Society for Endocrinology sends your computer a small file called a cookie, which we can access when you visit our site in future. The Society for Endocrinology collect this information to help our website run smoothly, and to analyse general trends in the way our users interact with the website (such as the most popular content) so that we can ensure the website meets the demands of our users.
-
-To analyse our cookie data, The Society for Endocrinology use a third party service provided by Google Inc called Google Analytics. Google Analytics does not associate your anonymous cookie data with any other identifiable data that Google may hold about you.
-
-Further details on cookies, and how to de-activate them, can be found at [www.aboutcookies.org](http://www.aboutcookies.org/).
-
-Cookies that might be used on this site
-
-**Cookie**
-
-| 
-
-**Purpose**  
-  
----|---  
-  
-__gads
-
-| 
-
-Targeting/Advertising  
-  
-__utma
-
-| 
-
-Performance  
-  
-__utmb
-
-| 
-
-Performance  
-  
-__utmc
-
-| 
-
-Performance  
-  
-__utmt
-
-| 
-
-Performance  
-  
-__utmz
-
-| 
-
-Performance  
-  
-.ASPXAUTH
-
-| 
-
-User authentication  
-  
-cb-enabled
-
-| 
-
-Cookie preference  
-  
-km_ni
-
-| 
-
-Social media integration  
-  
-.doubleclick.net
-
-| 
-
-Targeting/Advertising  
-  
-_atuvc
-
-| 
-
-Social media integration  
-  
-_atuvs
-
-| 
-
-Social media integration  
-  
-  * By providing us with your information you consent to such disclosure.
+  * give you a description of the information we hold about you
+  * tell you why we are holding this information
+  * tell you who this information could be disclosed to
+  * allow you to have a copy of the information in an intelligible form  
 
 
 
-## Members’ security precautions
+If you would like access your personal information, please contact:
 
-Your account information and profile are password-protected so that you are the only member who has access to this information.
+Tel: +44 (0)1454 642200  
+Email: [dataprotection@endocrinology.org](mailto:dataprotection@endocrinology.org) 
 
-As a member of the Society, you will be able to view the contact details of other members via the members’ directory.  This directory is for members’ use only and your password must not be divulged to any other person.  Ultimately you are solely responsible for maintaining the secrecy of your passwords and/or any account information.
+## Changes to this privacy policy
 
-### How do I hide my details from other members?
+If we make any changes this privacy policy, we will make the updated version available via this website. We will not make changes to the way that we use your personal data without first obtaining your consent to do so.
 
-The terms and conditions of membership of the Society require your details to appear in the members’ directory.
-
-If you have provided a home address as your mailing address, only your name and email address will appear to other members.
-
-### Disclosure
-
-For the purpose of data integrity, your information may be made available to other societies managed by Bioscientifica Ltd, the Society for Endocrinology’s trading company. For example, if you provide an address change of one society, this will be used to update your address for any other Bioscientifica-managed society of which you are a member.  We will only share this information where these societies comply with similar data protection principles to the Society for Endocrinology.
-
-## Data storage and security
-
-The Society for Endocrinology has implemented stringent security policies and technical measures to protect your information from unauthorised use, or accidental loss. Any personal information held by the Society is stored securely, and is only accessible by authorised personnel. Individuals’ data is only stored for as long as it is required, and will be securely disposed of appropriately when it is no longer needed.
-
-## Contact
-
-If you have any questions about this policy, please contact the Bioscientifica Data Protection Officer: [data.protection@bioscientifica.com](mailto:data.protection@bioscientifica.com).
-
-## Updates to this policy
-
-This policy will be updated as necessary to reflect best practice in data management, security and control and to ensure compliance with any changes or amendments made to the Data Protection Act 1998. The Society will gain consent to changes, where appropriate, and post those changes on this page
+This policy was last updated on **16 May 2018**.
