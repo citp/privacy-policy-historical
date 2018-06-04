@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crsdata.net privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202002357id_/http%3A//www.crsdata.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crsdata.net privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604073148id_/http%3A//www.crsdata.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CRS Data
 
@@ -64,6 +64,6 @@ Our Privacy Policy may change from time to time and all updates will be posted o
 
 **If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 800.374.7488 or** **via email at getinfo@crsdata.com** **.**
 
-"We continue to choose CRS Data hands down. The quality of their service, data and product is superior. We know and trust that their team will take care of us and be an integral part of growing our revenue."
+"Totally amazing. I just can’t believe all of the features. Truly a time saving tool." 
 
-**JOHN RYAN** \- Georgia MLS 
+**KIM MOYER** \- Keller Williams Realty 
