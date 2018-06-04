@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scouts.org.uk privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120043716id_/http%3A//scouts.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scouts.org.uk privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604075408id_/http%3A//scouts.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy statement | Scouts
 
