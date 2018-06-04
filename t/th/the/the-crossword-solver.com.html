@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the the-crossword-solver.com privacy policy that was archived on 2017-11-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171114090754id_/http%3A//www.the-crossword-solver.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the the-crossword-solver.com privacy policy that was archived on 2018-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180604090656id_/http%3A//www.the-crossword-solver.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 <meta http-equiv="content-language" content="en-GB">
@@ -10,17 +10,7 @@
 
 <meta name="viewport" content="initial-scale=1.0">
 
-<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-30964832-1', 'the-crossword-solver.com');
-  ga('send', 'pageview');
-
-</script>
-<script type="text/javascript">
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript">
 (function() {
 var useSSL = 'https:' == document.location.protocol;
 var src = (useSSL ? 'https:' : 'http:') +
@@ -36,24 +26,78 @@ googletag.pubads().enableSingleRequest();
 googletag.enableServices();
 </script>
 
-<title>Crossword Solver" - Privacy Policy</title></head>
+<style type="text/css">
+	#cookies {display:none;}
+	#savecookies { background-color:orange; color:white; font-weight:bold; border:none; padding:10px; border-radius:5px;}
+</style><title>Crossword Solver" - Privacy</title><script type="text/javascript">
+	function saveCookies(){
+		var expire = new Date();
+		expire.setTime(expire.getTime()+(365*24*60*60*1000*10));
+		var adsCookies = "no";
+		var analyticsCookies = "no";
+
+		if (document.getElementById("allowAdsCookies").checked) {adsCookies="yes";}
+		if (document.getElementById("allowAnalyticsCookies").checked) {analyticsCookies="yes";}
+		
+		document.cookie = "cookiesconsent=yes;expires=" + expire.toGMTString() +";path=/";		// Always yes.  Simply states that preferences have been saved
+		document.cookie = "adscookies=" + adsCookies + ";expires=" + expire.toGMTString() +";path=/";
+		document.cookie = "analyticscookies=" + analyticsCookies + ";expires=" + expire.toGMTString() +";path=/";
+		document.location.href = "/";
+
+	}
+</script></head>
+
+
+
+
 
 <body>
 <div id="content">
 <script type="text/javascript">
+		function acceptCookies(){
 		var expire = new Date();
-		expire.setTime(expire.getTime()+(365*24*60*60*1000));
-		document.cookie = "cookies=yes;expires=" + expire.toGMTString() +";path=/";
+		expire.setTime(expire.getTime()+(365*24*60*60*1000*10));
+		document.cookie = "cookiesconsent=yes;expires=" + expire.toGMTString() +";path=/";
+		document.cookie = "adscookies=yes;expires=" + expire.toGMTString() +";path=/";
+		document.cookie = "analyticscookies=yes;expires=" + expire.toGMTString() +";path=/";
+		document.getElementById("cookies").style.display = "none";
+		}
+		function manageCookies(){
+			// Load Privacy pages
+			document.location = "/privacy";
+		}
 </script>
 <style type="text/css">
-	#cookies {height:auto; background:#333333; color:white; font-size:1em; margin:0px; padding:0.5em;}
+	#cookies {height:auto; background:#333333; color:white; font-size:1em; margin:0px; padding:1.5em; top:0px; overflow:hidden;}
 	#cookiepolicy {white-space:normal;}
+	#acceptcookies { background-color:orange; color:white; font-weight:bold; border:none; padding:10px; border-radius:5px;}
+	#managecookies { text-decoration:none; border-bottom:dashed; border-bottom-color:white; border-bottom-width:1px; }
+	
 	@media screen and (max-width: 480px){
 		#cookies {font-size:1em;}
 	}
 </style>
 <div id="cookies">
-By using The Crossword Solver you agree to our use of cookies. The site uses cookies to deliver its services, to personalise ads and to analyse traffic. Information about your use of this site is shared with Google.  <a href="/privacy" target="_blank" id="cookiepolicy">LEARN MORE</a></div>
+<div id="Intro">
+<p></p><h1>Welcome to The Crossword Solver</h1><p></p>
+</div>
+<div id="cookiepolicy">
+<p>We use cookies on The Crossword Solver to help our site work, to understand how it is used and to tailor the advertisements shown on our site. Some of these cookies will send your data to our advertising partners. <em>Advertising ensures that the site free to use</em>. </p>
+<p>
+By clicking "Accept", you agree to us doing so. If you do not agree, you can click "Manage" below to review your options.
+</p>
+<div id="cookiebutons" style="text-align:right;">
+<input class="cookiebutton" type="button" id="acceptcookies" value="Accept" onclick="acceptCookies();"><span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<a id="managecookies" href="javascript:manageCookies();">Manage</a>
+
+</div>
+</div>
+</div>
+<script async="" src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+
+ (adsbygoogle=window.adsbygoogle||[]).requestNonPersonalizedAds=showNonPersonalisedAds)
+</script>
 <div id="topmenu">
 <div>
 <div style="float:right">
@@ -98,6 +142,18 @@ By using The Crossword Solver you agree to our use of cookies. The site uses coo
 <p>Crossword Solver create a limited number of cookies for user analysis tracking.  This allows us to determine if a visitor is new or returning.</p>
 <p>If you choose to disable cookies in your browser this will not adversely affect you using <strong>Crossword Solver</strong> unless you use a mobile browser as we won't be able to remember your preferences regarding the mobile and desktop sites.</p>
 <p>To learn more about cookies you can search in your preferred search engine or you could try <a title="All About Cookies" target="_blank" href="http://www.allaboutcookies.org/">http://www.allaboutcookies.org/</a></p>
+<div>
+<h2>Manage our cookies</h2>
+<p>When you save your cookie preferences on The Crossword Solver, we need to create a cookie on your device in order to remember your preference.  If you clear your cookies, access the site using "incognito" modes or change devices, we will be unable to remember your choices and you'll be asked again.</p>
+<input class="cookiecCheckbox" type="checkbox" name="allowAnalyticsCookies" id="allowAnalyticsCookies" checked=""><label for="allowAnalyticsCookies">Allow us to analyse your site usage</label>
+<br>
+<input class="cookiecCheckbox" type="checkbox" name="allowAdsCookies" id="allowAdsCookies" checked=""><label for="allowAdsCookies">Allow us to show personalised advertising</label>
+<p>
+<input class="cookiebutton" type="button" id="savecookies" value="Save" onclick="saveCookies();">
+</p>
+<p><strong>Please note:</strong> disabling advertising cookies will not stop all advertising on the site, it will only prevent personalised, relevant advertisements being shown.</p>
+
+</div>
 <h2>Third Party Advertisers</h2>
 <p><strong>Crossword Solver</strong> is funded through advertising and affiliate programs.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes or showing certain ads based on your interests.  <strong>Crossword Solver</strong> do not have access to any cookies generated by Third Party providers</p>
 </div>
@@ -125,7 +181,7 @@ By using The Crossword Solver you agree to our use of cookies. The site uses coo
 <li class="link"><a href="/contactus" title="Contact Us">Contact Us</a></li>
 <!--<a href="/hiddenwords" title="Cryptic Solving Tools - Hidden words">Hidden Word</a>-->
 <li class="link"><a href="/missing" title="Missing Links Solver">Missing Link</a></li>
-<li class="link"><a href="/privacy" title="Privacy Statement">Privacy Policy</a></li>
+<li class="link"><a href="/privacy" title="Privacy Statement">Privacy</a></li>
 </ul>
 <div style="clear:both;"></div>
 <div>
