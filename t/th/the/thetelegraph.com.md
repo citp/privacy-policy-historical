@@ -1,97 +1,305 @@
-> *The following text is extracted and transformed from the thetelegraph.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628023320id_/http%3A//civitasmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetelegraph.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604034220id_/https%3A//www.thetelegraph.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | Civitas Media - civitasmedia.com
+# Privacy Policy - Alton Telegraph
 
-**CIVITAS MEDIA, LLC**
+**Last Updated: May 24, 2018**
 
-**PRIVACY POLICY**
+_**Privacy Notice – Highlights**_
 
-**Last Updated: 03/15/2016**
+When you use or interact with a U.S. website, mobile app or other digital service (each a “Digital Service”) operated or owned by The Telegraph, a publication of Edwardsville Publishing Company, LLC , we and third parties may obtain certain information about you. In this Highlights section, we provide an overview of our privacy practices related to the Digital Services. Please review our full Privacy Notice below for a detailed explanation of our practices.
 
-_**Privacy Policy Overview**_
+### What Information We Obtain
 
-Civitas Media, LLC (“Civitas,” “us,” or “we”) knows that you care how information about you is used and shared and respects the privacy of the visitors to the [www.civitasmedia.com](http://www.civitasmedia.com/) website (this “Site”). We have created this Privacy Policy (“Privacy Policy”) to demonstrate our commitment to privacy and security and supplement our [Terms of Service](http://www.civitasmedia.com/terms) (“Terms of Service”) for the Site. This Privacy Policy is an agreement between Civitas and you, as the user of this Site (“you”). It explains what information of yours will be collected by us when you use this Site, how the information will be used, how you can control the collection, how we may change this Privacy Policy, and the steps we take to ensure that your personal information is protected. We request that you read this Privacy Policy carefully.
+  * Information you provide when you use the Digital Services, including when you sign up for newsletters, order subscriptions, create an account or register through the Digital Services. This may include your contact, payment or demographic information.
+  * Information you submit when you choose to participate in a survey, sweepstakes, contest, promotion, event or similar initiative.
+  * Information you give us about others, such as a friend’s contact information when you order a gift subscription.
+  * Information collected by automated means such as cookies or pixels. This may include information about your device and browser, including IP address or mobile device advertising identifiers, as well as information about how you and others use, interact with or respond to the Digital Services. This collection may take place while you are using a Digital Service or while the Digital Service is running in the background of your device.
+  * Precise location information associated with your device when location services are active.
+  * Information we obtain from other sources, such as business partners, data suppliers and social media platforms.
 
-In this Privacy Policy, “personal information” means any information by which you can be identified or contacted, including but not limited to, your name (first and last), mailing address, email address, telephone number, billing information, etc.
 
-All activities which you engage in on this Site are voluntary. You are not required to provide any personal information to us unless you choose to access features or services on the Site which require the information. If you do not agree with the terms of this Privacy Policy or the Terms of Service posted on this Site, then you should immediately exit this Site and discontinue using the Site. By your use of this Site, you signify your agreement to the terms of this Privacy Policy as well as to our Terms of Service. The Terms of Service of this Site are expressly incorporated herein by reference and made a part of this Privacy Policy. This Privacy Policy applies only to information collected through this Site and does not apply to any information we may collect from you at any place other than this Site.
 
-_**Information We Collect**_
+Read more here.
 
-**User-Provided Information** **:** In order to access certain interactive features of our website we may collect personal information, such as your name, email address, street address, age and gender identification or photographs, when, for example, you register for or subscribe to certain forums, products or services or [contact customer service](mailto:CIVHR@www.civitasmedia.com).
+### How We Use Information We Obtain
 
-**Cookies Information:** When you visit the Site, we may send one or more cookies – a small text file containing a string of alphanumeric characters – to your computer that uniquely identifies your browser and lets us help you log in faster and enhance your navigation through the Site. A cookie does not collect personal information about you. We use both session cookies and persistent cookies. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the Site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Site or services may not function properly if the ability to accept cookies is disabled.
+  * To process your requests and provide you with the Digital Services, including to deliver customized content or recommendations. Note that we use your payment card information (such as your card number and expiration date) for limited purposes such as to process your transaction (including recurring payments, if applicable), to provide you with the requested products or services and to protect our rights or the rights of others.
+  * To learn about users of the Digital Services and analyze how you and others interact with and respond to the Digital Services.
+  * To communicate with you, including to send you marketing and promotional communications.
+  * For advertising and marketing purposes, including to deliver interest-based ads, for cross-device linking and to analyze the performance of advertising and marketing activities.
+  * To protect our rights and the rights of others.
 
-**Log File Information:** Log file information is automatically reported by your browser each time you access a web page. When you register with or view our Site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol (“IP”) addresses or other device identifiers, browser information, Internet Service Provider (“ISP”), operating system, location, date/time stamp, clickstream data, referring/exit pages and URLs, domain names, landing pages, pages viewed, and other such information.
 
-_**How We Use Your Information**_
 
-Certain features of our Site require that you provide personal information in order to access circulation tools, e-mail blasts, e-ditions, and provide user comments. Therefore, we may use personal information to provide you access to such content or features. For example, if you choose to post a comment on the Site, subscribe to an e-mail blast, or register for a contest, we may use your personal information to create a user profile. These are just a few examples and do not represent all of the ways in which Civitas may use your personal information. 
+Read more here.
 
-Any personal information or content you voluntarily disclose for posting to the Site (for instance, any user content you post) becomes available to the public via the Site and our business partners. User content includes, but is not limited to, reviews, testimonials, comments, photos, videos, biographical information, blog posts, social media posts, etc. If you remove user content, copies may remain viewable in cached and archived pages or if other users have copied or stored your user content.
+### How We Share Information
 
-By providing Civitas your email address, you consent to our using the email address provided to send you Site and service-related notices, including any notices required by law, in lieu of communication by postal mail. We may also use your email address to send you other messages including, but not limited to account status, legal updates, changes to features of the Site or services, special offers or promotions, or other account information. 
+  * Within the Hearst family of companies.
+  * With service providers that perform services or handle transactions on our behalf.
+  * With advertisers, advertising- and marketing-related services providers and partners as well as companies that help us learn how you and others interact with our content.
+  * With social media platforms and similar services, including when you interact with our Digital
+  * Services that integrate tools and services provided by social medial platforms.
+  * With business partners, such as when we partner with a third party to offer products or services on a co-branded basis.
+  * Other parties when required by law or as necessary to protect our rights, and in the context of corporate transactions.
+  * With your consent or otherwise at your direction.
 
-_**Third-Party Disclosure & Analytics**_
 
-Civitas utilizes certain third-parties for purposes of data collection, and these third parties may have access to user information provided to Civitas. By continuing to utilize interactive services on our Site you consent to your information possibly becoming available to such third parties. These third parties may include [Google Analytics](https://www.google.com/intl/en/policies/privacy/) and [Quantcast](https://www.quantcast.com/privacy/), which may provide incidental information to social media cites, such as but not limited to [Facebook](https://www.facebook.com/policy.php), [Twitter](https://twitter.com/privacy?lang=en), [Google+](https://www.google.com/policies/privacy/). 
 
-Civitas may use certain information about you and/or your user content without identifying you as an individual to third parties. We do this for purposes such as analyzing how the Site is used, diagnosing service or technical problems, maintaining security, and personalizing advertisements and promotions. 
+Read more here.
 
-Civitas reserves the right, but has no obligation, to monitor the user content you post on the Site. Civitas has the right to remove any such information or material for any reason or no reason including, without limitation, if in its sole opinion, such information or material violates, or may violate, any applicable law or our Terms of Service, or to protect or defend Civitas’s rights or property or those of any third party. Civitas also reserves the right to remove information upon the request of any third party.
+### Your Choices, Including Marketing and Interest-Based Ads Opt-Outs
 
-We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the Site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our Site and services; (d) monitor aggregate metrics such as total number of visitors and traffic; (e) diagnose or fix technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP; and (f) help you efficiently access your information after you sign in.
+  * You may take steps to limit the use of your information for interest-based advertising on your browser or mobile device. See here for more information.
+  * You may unsubscribe from our marketing or promotional emails by clicking the “Unsubscribe” link in our emails, or for certain Digital Services, by logging into your account and adjusting your preferences.
 
-_**How We Share Your Information**_
 
-**Personally Identifiable Information:** Civitas will not rent or sell your personal information to others. We disclose potentially personally-identifying and personally-identifying information to those of our employees, contractors (including website operators), affiliated organizations, service providers and other third parties that provide support services to us or help us market our products and services, administer our programs and operations, fulfill your requests, administer surveys, or process any other information on our behalf to provide services available at our Site.
 
-Except as otherwise described in this Privacy Policy, Civitas will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our Terms of Service, take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our Site; and (c) to exercise or protect the rights, property, or personal safety of Civitas, our users or others.
+Read more here.
 
-We fully cooperate with law enforcement agencies in identifying those who use our Site or services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful, as determined in our sole discretion. Release of your personal information for security purposes, as described in this Privacy Policy to any person or entity under any circumstances shall be based on a determination made solely by us, exercising our own discretion, permission for which is expressly granted by you to us in accordance with this Privacy Policy.
+### Additional Information
 
-**Non-Personally Identifiable Information:** We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain services.
+  * We use a variety of security technologies and procedures to help protect information from unauthorized access, use or disclosure.
+  * The Digital Services are operated from the United States. Information may be processed and stored in the United States or other countries.
+  * The Digital Services are not intended for use by children under the age of 13.
+  * This Privacy Notice is part of the [Terms of Use](https://web.archive.org/web/20180604034220id_/https://www.thetelegraph.com/termsandconditions), which govern your use of the Digital Services and any disputes related to your use of the Digital Services (including our use of your information) will be resolved per the dispute resolution provision in the Terms of Use.
 
-_**How We Protect Your Information**_
 
-Civitas utilizes commercially reasonable physical, managerial, and technical safeguards in line with industry standards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Civitas or the Site and you do so at your own risk. Once we receive your transmission of information, Civitas makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. While we strive to protect your personal information and privacy, we cannot guarantee the security of any information you disclose online.
 
-_**User Choices About Your Information**_
+Read more here.
 
-When using our Site you have the choice to update certain aspects of your personal information that you provide. For example, you may be able to update personal information such as your e-mail address when you post comments to our Site. However, if you have posted or submitted a news story to our Site under a former e-mail address prior to any updates, the previous e-mail address may remain.
+### Contact Us
 
-**Do Not Track Disclosure:** Some browsers or other tools include “Do Not Track” (DNT) features which, when turned on, send a signal to websites you visit indicating that you do not wish to be tracked across websites over time. The Worldwide Web Consortium (W3C) has been working with industry groups and regulators to develop a DNT browser technology standard to provide a common understanding as to how to interpret the DNT signals, but to date no standard has been adopted. Since there is no standard at this time, Civitas does not currently respond to DNT signals. Civitas will follow the progress of the W3C in developing the standard.
+If you have questions about our Privacy Notice you can contact us by email at [privacy@hearst.com](mailto:privacy@hearst.com).
 
-_**Children’s Privacy (COPPA)**_
+**Last Updated: May 24, 2018**
 
-Civitas does not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 should provide any personal information to or on this Site. In the event we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information promptly. If you believe that we might have any information from or about a child under 13, please [contact us](http://www.civitasmedia.com/contact). We encourage parents and guardians of children under 18 to regularly check and monitor their children’s use of email and other activities online.
+## PRIVACY NOTICE
 
-_**Links to Other Websites**_
+  1. Introduction
+  2. What Information We Obtain
+  3. How We Use Information We Obtain
+  4. How We Share Information
+  5. Your Choices, Including Marketing and Interest-Based Ads Opt-Outs
+  6. Additional Information for California Residents
+  7. How We Protect Your Information
+  8. Non-U.S. Visitors
+  9. Children’s Privacy Rights
+  10. Links to Third-Party Websites, Mobile Apps or Other Services
+  11. Careers/Job Opportunities
+  12. Dispute Resolution/Terms of Use 
+  13. Changes to This Privacy Notice
+  14. Contact Us
 
-We are not responsible for the practices employed by websites linked to or from our Site or the information or content contained therein. Civitas may provide links to other websites to you solely as a convenience, and the inclusion of linked sites does not imply endorsement by Civitas of any of the linked sites. Please remember that when you use a link to go from our Site to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including those that have a link on our Site, is subject to that website’s own rules and policies. Please read over those rules and policies before proceeding. We do not ensure the security of your personal information if you visit websites not belonging to Civitas.
 
-_**California Online Privacy Protection Act of 2003 (CalOPPA)**_
 
-The California Online Privacy Protection Act, or CalOPPA, is the first state law in the United States to require commercial websites and online services to post a privacy policy. 
+### A. INTRODUCTION
 
-See more at [https://oag.ca.gov/privacy/privacy-laws](https://oag.ca.gov/privacy/privacy-laws)
+This Privacy Notice applies to the U.S. website, mobile application or other digital service (each a “Digital Service”) linking to this Privacy Notice and owned or operated by The Telegraph, a publication of Edwardsville Publishing Company, LLC  (“we”, “us”, “our” or “Hearst”). This Privacy Notice describes the privacy practices of Hearst only and does not cover the practices of other companies, including those that may advertise or sponsor content, products or services on the Digital Services.
 
-In accordance with CalOPPA, we agree to the following:
+###  B. WHAT INFORMATION WE OBTAIN
 
-You can visit our Site anonymously, though this may limit the content you may see. We will provide a link to this Privacy Policy at all times on the first significant page upon entering our Site. This link will appear in a prominent location and include the word “Privacy” so that it may be easily found.
+When you use a Digital Service, we may obtain various types of information related to you and your use of the Digital Service. This may include information that directly identifies you such as your name, address, or contact information (this type of information may be called “personal information” or “personally identifiable information”). The information we obtain generally consists of information (1) you give us about yourself, (2) you give us about others, (3) automatically collected about your interactions with the Digital Services and our content or ads on third-party websites, apps or other media, and (4) we get from other sources.
 
-_**Changes to Our Privacy Policy**_
+**1\. Information you give us**
 
-We reserve the right to change this Privacy Policy at any time. If we change our privacy policies and procedures, we will post those changes on our Site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes, modifications, additions, or deletions to this Privacy Policy will be effective immediately on their posting to this Site. Your continued use of the Site after we post any such modifications will constitute your acknowledgment of the modified policy and your agreement to abide and be bound by the modified policy. We will revise the “Last Updated” date found at the beginning of this Privacy Policy when it is updated.
+We may ask you to provide information about yourself when you use the Digital Services. For example, to subscribe to one of our newsletters or news alerts, you will need to give us an email address. You may not be able to use certain features if you choose not to submit the requested information.
 
-_**Contact Us**_
+The information you give us may include details such as:
 
-If you have any questions about this Privacy Policy, the practices of this Site, your dealings with this Site, or wish to update us with your preferences, you may contact us via the [Contacting Us link](http://www.civitasmedia.com/contact) or by phone by calling (704) 897-6020.  You may also write to us at:
+  * Contact information (e.g., name, mailing address, email address or phone number).
+  * Demographic, interests and household information (e.g., age, gender or education).
+  * Payment information for subscriptions or purchases made through the Digital Services (e.g., payment card number, expiration date and billing information).
+  * Comments, photos, videos and other content or information you choose to publish on the Digital Services or otherwise share with us.
+  * Information you provide when you choose to participate in surveys, polls, sweepstakes, contests or promotions (including information about your participation in activities that may generate loyalty or rewards points).
+  * Location information, which may include precise location information when you permit the Digital Services to access device location. To prevent the collection of precise location information, please refer to instructions provided by your mobile service provider or device manufacturer.
+  * Other information you may allow us to access through your device’s permissions settings, such as your contacts or address book.
+  * Transactional and activity information (e.g., requests, searches or orders).
 
-Civitas Media, LLC
 
-130 Harbour Place Drive Suite 300
 
-Davidson, NC 28036
+**2\. Information you give us about others**
 
-We ask that you not disclose any sensitive personal information (e.g., social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) when contacting us.
+You may give us information about other people, such as the name and email of a friend or contact with whom you want to share an article or the name and address of a gift subscription recipient. Do not give us information about others unless you are authorized or have their consent to do so. We will use their information for the purposes described in this Privacy Notice.
+
+**3\. Information automatically collected**
+
+The Digital Services automatically log certain information about visits to the Digital Services, such as the number and frequency of visitors, technical information about browsers and devices used to access the Digital Services, and information about crashes or other technical issues. In addition, we and third parties may automatically collect certain information through automated means about your activities over time across the Digital Services as well as across third-party sites, apps or other media. The tools that collect this information vary depending on the Digital Services and include technologies such as cookies, web beacons, tags, scripts, pixels, local shared objects (including HTML5 cookies) and software development kits (“SDKs”). These technologies may be included in our web pages, mobile apps, emails, and other digital content. The tools may assign or collect unique cookie IDs or other identifiers associated with your browser or device. The tools may collect information while you are using our Digital Services or while they are running in the background of your device.
+
+The information automatically collected may include :
+
+  * Information about your computer, device, browser and operating system (e.g., type, model, or version).
+  * Internet protocol (IP) address, which may be used to derive your general geographic area (e.g., city and country).
+  * Device identifiers (e.g., mobile advertising IDs).
+  * Information about your interactions with the Digital Services, including browsing activities and clickstream data that reflect the content you have accessed, clicked on, or viewed.
+  * Information about how you accessed the Digital Services, including details about websites or apps visited immediately before or after accessing a Digital Service.
+  * Demographic, interests and household information.
+  * Information about your interactions with email messages and other communications, such as whether you opened or forwarded the email or clicked on links contained in the email.
+
+
+
+For more information about the use of automated means in the context of interest-based advertising and how you can limit tracking, see here.
+
+**4.Information we obtain from other sources**
+
+We receive information about you from other sources and it may be combined with other information about you. For example, we may obtain data from:
+
+  * Operators of third-party sites or apps, content distribution channels and platforms (e.g., Roku, Amazon Fire TV), voice-activated assistants (e.g., Amazon Alexa, Google Home) or other devices and technologies when you interact with our content, products, services or ads available on those channels and platforms. The information we receive may include information about the content you view or access as well as your demographic information and information about your interests.
+  * Third-party data suppliers such as data aggregators, data resellers, public databases and business partners. They may provide us with demographic information, information about your purchases, and other information that helps us learn about you and other users of the Digital Services.
+  * Social Media Platforms and similar services (“Social Media Platforms”). When you engage with our content or ads on Social Media Platforms, or interact with features on the Digital Services that contain content or features provided by Social Media Platforms (e.g., login or sign in features or tools that allow you to share our content with others on Social Media Platforms), we may obtain information from Social Media Platforms, including your username, user ID, demographic information and other information, subject to the settings and privacy practices of the relevant Social Media Platform. We may obtain this information directly from the Social Media Platform or through plug-ins, integrations or applications. Please keep in mind that the operators of the Social Media Platforms may also gather information about your use of the Digital Services and their features and tools.
+
+
+
+### C. HOW WE USE INFORMATION WE OBTAIN
+
+If you make a purchase or place an order through or in connection with a Digital Service, we use your payment card information (e.g., your card number and expiration date) for limited purposes such as to process your transaction (including recurring payments, if applicable), to provide you with the requested products or services and for the purposes described under the section “To protect our rights or the rights of others” below.
+
+With respect to information other than your payment card information, we use that information:
+
+**1\. To provide you with the Digital Services. This includes:**
+
+  * Processing your requests regarding the Digital Services and our subscriptions, products or services, or your participation in a survey, sweepstakes, contest, promotion, event or similar initiative.
+  * Providing customer assistance or technical support.
+  * Customizing content, providing recommendations and enhancing the quality and your overall experience with the Digital Services, including by retaining your user preferences or presenting content in the most effective manner for the browser or device you use to access the Digital Services.
+  * Maintaining, operating, improving and developing the Digital Services and related content, products or services, including developing new products and features based on users’ interactions with the Digital Services.
+  * Learning about users of the Digital Services and analyzing how you and others interact with and respond to the Digital Services, including by measuring and optimizing usage, reliability and performance, conducting market research, analyzing trends, and supporting our operations (e.g., for accounting, auditing, financial, legal or other purposes).
+
+
+
+**2\. To communicate with you. This includes:**
+
+  * Sending you informational messages about the Digital Services (e.g., to confirm your subscription or notify you of changes to a Digital Service).
+  * Delivering marketing or promotional communications, including offers or promotions about our or third parties’ products, services or other initiatives.
+  * Responding to your questions or addressing your requests.
+  * Communicating with you about surveys, sweepstakes, contests, promotions or events.
+
+
+
+**3.For advertising and marketing purposes, including interest-based advertising. This includes:**
+
+  * Developing, managing and conducting advertising and marketing campaigns, promotions and offers, including about our content, products and services or third parties’ products, services and other initiatives.
+  * Interest-based advertising (also known as targeted or personalized advertising or ads) is advertising based on your interests as inferred from your activities over time on the Digital Services and online services operated by third parties, as well as information from other sources. Interest-based ads may consist of text ads, images, animations or videos and may be displayed to you based on various factors, including the context of the site or app in which they appear (e.g., sport or travel section), information you provided to the operator of the site or app (e.g., when you created an account), your activities on the site or app (e.g., pages viewed, searches performed or ads clicked), and information such as your demographic, interests and household information.
+  * On the Digital Services and on third-party sites, apps or other media, we, our service providers and third parties may use automated means to (a) collect information for interest-based advertising purposes or (b) serve you interest-based ads. These automated means vary depending on the Digital Services and include technologies such as cookies, web beacons, tags, scripts, pixels, local shared objects (including HTML5 cookies) and SDKs. These technologies may use unique identifiers associated with your browser or device to support interest-based advertising.
+  * We may use online and offline information we obtain about you, including your personal information, for interest-based advertising purposes. We may aggregate the information we obtain to create audiences that are most likely to respond to ads based on demographic, interests or household information.
+  * Interest-based ads may be displayed to you by third parties, such as ad networks or exchanges.
+  * There are steps you can take to limit the collection of your information for interest- based advertising purposes. These steps vary for the web and mobile app environments and are browser and device specific. To learn more about interest- based advertising and opt-out choices, see http://www.aboutads.info/choices/ and here.
+  * In serving interest-based ads, we adhere to the Self-Regulatory Principles for Online Behavioral Advertising developed by the Digital Advertising Alliance.
+  * Cross-device linking. If you access the Digital Services from multiple browsers or devices, we, our service providers and third parties may try to establish connections among and link the different browsers and devices you use to access the Digital Services and our content or ads published elsewhere. This helps us provide you with a seamless experience across the browsers and devices you use and serve you with more relevant content and ads (e.g., so that we don’t show you the same article twice). See here for steps you can take to limit browser and mobile app tracking for interest-based advertising purposes.
+  * Analyzing and measuring the performance, effectiveness and reach of our advertising (including interest-based ads) and marketing efforts on the Digital Services and elsewhere.
+
+
+
+**4\. To protect our rights or the rights of others. This includes:**
+
+Detecting, preventing and responding to fraud or potentially illegal activities, misuse of the Digital Services, intellectual property infringement or other violations of law, this Privacy Notice, our Terms of Use or other Hearst policies.
+
+  * Performing audits, assessments and testing or troubleshooting activities.
+  * Backing up our systems (including for disaster recovery purposes) and enhancing the overall security of the Digital Services.
+  * Complying with and enforcing applicable industry and legal requirements (including legal process such as court orders, warrants or subpoenas) and fulfilling contractual obligations.
+
+
+
+### D. HOW WE SHARE INFORMATION
+
+We may share the information we obtain with:
+
+  1. **Affiliates and Subsidiaries.** We work closely with affiliates and subsidiaries within the Hearst family of companies with whom we share your information as necessary or appropriate to operate the Digital Services.
+  2. **Service Providers.** In connection with the operation and provision of the Digital Services, we engage various third parties to provide services or handle transactions on our behalf, such as payment card processing, email distribution, list processing, postal mailing, cloud computing, analytics, digital content performance measurement, ad serving and managing sweepstakes, contests, promotions or events. These service providers use the information we provide to them as necessary or appropriate for the performance of their services.
+  3. **Advertisers, Advertising- and Marketing-Related Service Providers and Partners.** We may provide your information to advertisers, advertising agencies, ad networks, ad exchanges, marketing businesses, technology vendors and other entities that create, deliver and assess advertising or marketing campaigns, including interest-based ads.
+  4. **Content Measurement Companies.** We and third parties seek to measure the performance of content across the internet, including on the Digital Services. We may include third-party measurement software in the Digital Services to enable market research or to measure digital and video content consumption. [See here](http://www.nielsen.com/us/en/privacy-statement/digital-measurement.html#choices) to learn how you can opt out of Nielsen video measurement.
+  5. **Social Media Platforms.** If you interact with social media widgets, share content using social media share buttons, or access features of the Digital Services that contain content or features provided by Social Media Platforms, the relevant Social Media Platforms may collect information. We encourage you to review the privacy policies of the Social Media Platforms that you engage with as we are not responsible for their privacy practices.
+  6. **Business Partners.** We may provide your information to business partners including, without limitation, joint marketing partners and content sponsors, for various purposes. For example, we may partner with a third party to offer products on a co-branded, co-sponsored or cross- promotional basis that involves the sharing of information. These initiatives may be offered on the Digital Services or on other media.
+  7. **Other Parties When Required by Law or As Necessary to Protect Our Rights.** We may share your information as we believe is necessary or appropriate to protect, enforce, or defend our legal rights, the privacy or safety of our employees, users of the Digital Services or other individuals and entities, or to comply with or enforce applicable industry standards, law or legal process, including responding to court orders, warrants, subpoenas and other requests from public and government authorities.
+  8. **Corporate Transactions.** We reserve the right to transfer any of the information we have about you to proceed with the consideration, negotiation, or completion of a sale or transfer of all or a portion of our business or assets to a third party, such as in the event of a merger, acquisition or other disposition, or in connection with a bankruptcy reorganization, dissolution, or liquidation.
+  9. **With Your Consent or Otherwise at Your Direction.** In addition, we may share your information with third parties when you consent to or request such sharing.
+
+
+
+### E. YOUR CHOICES, INCLUDING MARKETING AND INTEREST-BASED ADS OPT- OUTS
+
+**Direct Marketing Opt-Outs**
+
+  1. **Email marketing.** You may opt out of receiving marketing or promotional emails from us by clicking on the “unsubscribe” link contained in such emails. Depending on the Digital Service you use, you also may be able to opt out of marketing or promotional emails by logging into your account and managing your email preferences. Please keep in mind that if you opt out of receiving marketing or promotional emails, we may still send you transactional emails or other communications relating to your use of the Digital Services (e.g., to confirm your subscription, to inform you of changes to a Digital Service or in response to your password recovery request).
+  2. **Text message marketing.** If you choose to participate in a text message marketing campaign or promotion offered in connection with a Digital Service, you may opt out of receiving marketing texts from us by following the instructions contained in those messages (e.g., texting the word STOP) or provided to you when you elected to receive text message marketing.
+  3. **Direct mail.** You may request that we stop sending you postal mail offers through the US post office by notifying us in writing at Office of General Counsel, Attn: Privacy, 300 West 57th Street, New York, NY 10019. Please indicate in your correspondence the name of the Digital Service or publication to which your request applies.
+  4. **Marketing by Third Parties.** We may provide your contact information to third parties for their own marketing purposes. To request that third parties do not use your postal mailing contact information for their own marketing purposes (if we have your postal address), you may notify us in writing at Office of General Counsel, Attn: Privacy, 300 West 57th Street, New York, NY 10019. Please indicate in your correspondence the name of the Digital Service or publication to which your request applies. In addition, you may be able to request that third parties do not use your email address (if we have it) for their own marketing purposes by logging into your account or the preferences center (if available) for the relevant Digital Service and adjusting your email preferences.
+  5. **Co-Branded, Co-Sponsored or Cross-Promotional Offerings.** If you choose to participate in a co-branded, co-sponsored or cross-promotional offering, the brand, sponsor or other third party involved in that offering may use your information for its own purposes, including advertising and marketing purposes. You must contact the relevant third party directly to exercise your opt out choices with respect to such party’s use of your information.
+
+
+
+**Interest-Based Ads Opt-Outs**
+
+Some of the ads you see on the Digital Services are interest-based ads. This means that these ads are customized based on the information we and others obtain about you. We describe below steps you can take to limit tracking of your activities and the delivery of interest-based ads in browsers and mobile apps you use to access the Digital Services. Please keep in mind that if you opt out of interest-based ads, you will still see ads, but these ads will not be based on your inferred interests. In addition, if you take the steps described below, some automated means may still be used to collect information about your interactions with the Digital Services for the other purposes described in this Privacy Notice (e.g., to remember user preferences or enable specific functionality).
+
+The technologies used to deliver ads on websites and mobile apps differ. Please also remember that opt- outs are browser and device-specific.
+
+**Website (Browser) Opt-Out**
+
+  1. **Disabling Cookies.** Most browsers accept cookies by default. You may be able to change the settings to have your browser refuse certain cookies or notify you before accepting cookies. 
+    * If you choose to disable the use of cookies in your web browser, some features of the Digital Services may become difficult to use or unavailable.
+  2. **Opt-out Cookies.** You can follow the instructions provided by the Digital Advertising Alliance (“DAA”) [here](https://web.archive.org/web/20180604034220id_/https://www.thetelegraph.com/privacy-policy/www.aboutads.info) and/or the Network Advertising Initiative (“NAI”) [here](http://optout.networkadvertising.org/) to place an opt-out cookie on your browser. These opt-out cookies enable you to block participating companies from installing future cookies on your computer or browser. 
+    * If you place opt-out cookies but subsequently clear or delete cookies on your computer or device browser, your opt-out cookies may be deleted and you may have to renew your opt- out choices for that specific browser.
+    * The opt-out mechanisms offered by the DAA and NAI are provided by third parties. Hearst does not control or operate these mechanisms or the choices provided through these mechanisms.
+
+
+
+**Mobile App Opt-Out**
+
+  1. **Device Settings.** To limit interest-based advertising on your mobile device, you can review and adjust the settings provided by your device manufacturer, such as “[Limit Ad Tracking](https://support.apple.com/en-lamr/HT202074)” for iOS or “[Opt-out of interest-based ads](https://policies.google.com/technologies/ads?hl=en) ” for Android.
+  2. **AppChoices Application.** You can download the “AppChoices” application provided by the DAA from your app store. AppChoices offers a mechanism to limit the collection of app data used for interest-based ads by participating companies. [See here for more](http://youradchoices.com/appchoices).
+
+
+
+Please keep in mind that as the mobile environment continues to evolve, additional opt-out mechanisms or privacy settings may become available to you. We encourage you to review the information on opt-outs and settings that device manufacturers, technology companies and industry associations make available to you.
+
+**Measurement Opt-Out**
+
+The Digital Services may include Nielsen proprietary measurement software, which contributes to market research (e.g., Nielsen TV Ratings). To learn more about the information that Nielsen software may collect and the choices you may have, please see the [Nielsen Digital Measurement Privacy Statement](http://www.nielsen.com/us/en/privacy-statement/digital-measurement.html).
+
+**Additional Choices**
+
+  1. **User account.** If you have created an account on a Digital Service, you may be able to review some of your information for that account by logging in and updating your information or user preferences.
+  2. **Device Settings.** For relevant Digital Services, you may be able to review and adjust your preferences by updating the settings on your device (e.g., permitting us to collect precise location information).
+  3. **Push Notifications.** If a Digital Service enables push notifications on your device, you may review and update your push notification preferences by adjusting the settings on your device. For example, you can select the relevant app from “Notifications” (for iOS devices) or “App notifications” (for Android devices) and turn off alerts accordingly.
+
+
+
+###  F. ADDITIONAL INFORMATION FOR CALIFORNIA RESIDENTS Your California Privacy Rights
+
+Residents of California may request a list of third parties to which certain personal information (as defined by applicable California law) obtained through a Digital Service was disclosed by Hearst during the preceding year for those third parties’ direct marketing purposes. If you are a California resident and want such a list, please contact us at Office of General Counsel, Attn: Privacy, 300 West 57th Street, New York, NY 10019. For all requests, you must put the statement “Your California Privacy Rights” in the body of your request, as well as your name, street address, city, state, and zip code. In your request, you need to attest to the fact that you are a California resident and provide a current California address for our response. Please also indicate in your request the name of the Digital Service to which your request applies. Please note that we will not accept requests via the telephone, email, or by facsimile, and we are not responsible for notices that are not labeled or sent properly, that do not have complete information.
+
+**Do Not Track**
+
+Hearst does not currently take steps to respond to browsers “Do Not Track” signals as no uniform standard to respond to such signals has been developed at this time.
+
+### G. HOW WE PROTECT YOUR INFORMATION
+
+We use a variety of security technologies and procedures to help protect information from unauthorized access, use or disclosure. However, no method of transmission over the internet, or method of electronic storage, is 100% secure. Therefore, while we make reasonable efforts to protect your personal information, we cannot guarantee its absolute security.
+
+### H. NON-U.S. VISITORS
+
+We operate the Digital Services from the United States. Any information we obtain about you in connection with your use of the Digital Services may be processed and stored in the United States or other countries.
+
+### I. CHILDREN’S PRIVACY RIGHTS
+
+The Digital Services are not intended for use by children, especially those under the age of 13, and we do not knowingly collect personal information from children under the age of 13.
+
+### J. LINKS TO THIRD-PARTY WEBSITES, MOBILE APPS OR OTHER SERVICES
+
+The Digital Services may contain links to websites, mobile apps or other services operated by companies not affiliated with Hearst. In addition, the Digital Services may be made available to you through third- party platforms (such as app stores or Social Media Platforms) or other channels. We are not responsible for the privacy practices of any non-Hearst operated websites, mobile apps or other services and channels, and we encourage you to review the privacy policies or notices published by relevant third parties.
+
+### K. CAREERS/JOB OPPORTUNITIES 
+
+This Privacy Notice does not apply to web pages hosting our careers or job opportunities. Any information obtained through such pages is governed by the privacy notice published thereon.
+
+### L. DISPUTE RESOLUTION/TERMS OF USE
+
+Any dispute concerning the Digital Services (including our use of your personal information) will be resolved per the dispute resolution provision in the [Terms of Use](https://web.archive.org/web/20180604034220id_/https://www.thetelegraph.com/termsandconditions), which govern your use of the Digital Services. Please take a few minutes to read the Terms of Use before using the Digital Services.
+
+### M. CHANGES TO THIS PRIVACY NOTICE
+
+We may update this Privacy Notice from time to time to reflect changes in our privacy practices or applicable laws. In accordance with applicable law, we may make such changes without prior notice. We will publish the updated version on the relevant Digital Services and indicate at the top of the Privacy Notice when it was most recently updated. Your use of the Digital Services will be governed by the then- current version of the Privacy Notice.
+
+### N. CONTACT US
+
+If you have any questions about this Privacy Notice, please contact us by email at [privacy@hearst.com](mailto:privacy@hearst.com).
