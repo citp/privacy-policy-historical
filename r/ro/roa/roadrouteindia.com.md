@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roadrouteindia.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201225950id_/http%3A//www.roadrouteindia.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadrouteindia.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604074329id_/http%3A//www.roadrouteindia.com/privacy_policy.php) for the most accurate reproduction.*
 
 # 
 
