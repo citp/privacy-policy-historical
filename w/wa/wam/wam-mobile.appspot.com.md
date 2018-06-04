@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wam-mobile.appspot.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231011531id_/http%3A//freshplanet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wam-mobile.appspot.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604122124id_/http%3A//freshplanet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FreshPlanet
 
