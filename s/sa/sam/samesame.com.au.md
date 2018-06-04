@@ -1,54 +1,74 @@
-> *The following text is extracted and transformed from the samesame.com.au privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214211135id_/http%3A//www.samesame.com.au/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samesame.com.au privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604130109id_/http%3A//www.netfleet.com.au/privacy.php) for the most accurate reproduction.*
 
-# About samesame.com.au
+# Privacy Policy - Buy & Sell Domains | Netfleet: Australia's No.1 Domain Name Trading Platform
 
-  1. ####  How is personal information collected? 
+## Privacy Policy
+
+The privacy of any personal information you provide is extremely important to us. The following privacy policy governs the collection and use of your personal information by Netfleet. This privacy policy sets out how we are committed to respect your rights to privacy in accordance with the National Privacy Principles contained in the Privacy Act 1988.
+
+#### How do we collect personal information?
+
+  * We may collect personal information from you directly by telephonenumber, facsimile, email, post or frequently via our website. We may also receive information via an intermediary, a company with which we may have a relationship such as a domain services company.
+
+
+
+####   
+What types of personal information do we collect?
+
+  * We collect personal information about you to enable us to provide the best possible service in relation to your domain name needs. The types of personally identifiable information that we may collect include your name, address, telephonenumber number and ABN. 
+
+When we request your personal information, we will endeavour to specify which information we require for our purposes and which information may be provided at your option. You may choose not to supply any optional information requested by us but our ability to assist you may be restricted.
+
+
+
+
+#### How do we use your personal information?
+
+  * We use your personal information for the following purposes: - to complete a transaction to which the provision of that personal information relates, such as the completion of order forms to communicate information about our products and services to you, for our internal administrative, marketing, planning, product development and research requirements to conduct our day to day business such as the sale of a domain name and transfer requirements. 
+
+At any time you may opt out of receiving any communications from us. If you wish to opt out of receiving communications from us please contact us using the information at the end of this document.
+
+
+
+
+#### Do we ever disclose your personal information to others?
+
+  * We do not sell our client lists to third parties. We may disclose personal information to third parties in the following circumstances: 
+
+1) When explicitly instructed to do so by yourself 2) As required to effect a domain name transfer or other service where required 3) As part of a promotion you may have entered (eg expired domain report) 
+
+Otherwise, we do not disclose personal information unless we are required to do so by law or regulation.
+
+
+
+
+#### What rights do you have to access your personal information?
+
+  * At any time, you may ask us to provide you with a list of the personal information we hold about you, and copies of that personal information. We will endeavour to provide you with the data within 30 days of receiving your request. 
+
+If you believe for any reason that we are holding inaccurate or incomplete data about you, you may ask us to correct it. We will consider if the information requires amendment. If we do not agree that there are grounds for amendment, then we will add a note to the personal information stating that you disagree with it.
+
+
+
+
+#### How do we store your personal information?
+
+  * We take all reasonable steps to protect your personal information from misuse, loss, unauthorised access, modification or exposure. We require all staff to maintain the confidentiality of customer information. Access to information stored electronically is restricted to employees whose job requires access to the information. Access to our computer systems is restricted through password protection.
+
+
+
+#### Whois Policy
+
+  * When a domain name is registered, certain information is collected for use on the WHOIS service. The WHOIS service allows internet users to query a domain name to find out the identity and contact details of the registrant. The public WHOIS service is a standard feature of domain name systems around the world. Please see auDA’s WHOIS policy at http://www.auda.org.au/whois which sets out auDA's guidelines on the collection, disclosure and use of WHOIS data.
+
+
+
+As you browse this website and other websites, online ad networks we work with may place anonymous cookies on your computer, and use similar technologies, in order to understand your interests based on your (anonymous) online activities, and thus to tailor more relevant ads to you.   If you do not wish to receive such tailored advertising, you can visit this page to opt out of most companies that engage in such advertising.  (This will not prevent you from seeing ads; the ads simply will not be delivered through these targeting methods.) 
+
+#### How can we be contacted?
 
   
-FasterLouder is Australia's leading online community of rock music fans. In order to provide customers with a quality service, FasterLouder.com.au offers customers the ability to sign up as a community member, interact with other members, subscribe to our newsletter, enter competitions and purchase tickets online through http://www.FasterLouder.com.au. In order to provide these services, FasterLouder.com.au collects personal information about customers. Collection of this information will occur at the time you enter a competition, make a purchase or when you register as a FasterLouder.com.au member through our website. 
-  2. #### What personal information does FasterLouder.com.au collect and why?
+You can make any requests relating to your personal information held by us by contacting any member of staff via our [Contact Us](https://web.archive.org/index.php?a=contact "Contact Us") form.
 
   
-If you purchase tickets, register as a member or enter a competition through FasterLouder.com.au, we need to collect personal information about you, including your name, address, email address and telephone number(s). The reason we need this information is so we can contact you to send you a prize, or to notify you in the case of an event cancellation or change of event details. We also need some of this information in order to process your online credit card payment. FasterLouder.com.au will also provide you with the opportunity to receive special offers and promotions if you wish to do so. Even if you initially choose to subscribe to receive special offers, you may also unsubscribe or resubscribe at a later stage - all you need to do is visit [http://www.FasterLouder.com.au/p/newsletter/](http://www.fasterlouder.com.au/p/newsletter/) (or contact FasterLouder.com.au through the contact details at 12 below). 
-  3. #### Will personal information be given to anyone else?
-
-  
-FasterLouder.com.au will not sell or trade personal information about you to or with third parties. FasterLouder.com.au will only disclose information about you, if you have given your consent, so that you can be provided with promotional material and special offers. Otherwise, FasterLouder.com.au will only disclose personal information if this is required by law or permitted under the Privacy Act. 
-  4. #### Security of personal information
-
-  
-FasterLouder.com.au protects the personal information it collects in a secure database, which can only be accessed by employees with the highest security clearance. FasterLouder.com.au employees are required, as a condition of their employment, to treat personal information held by FasterLouder.com.au as confidential, and to maintain the confidentiality of that personal information.
-  5. #### Non-customer information 
-
-  
-Sometimes, FasterLouder.com.au needs to collect personal information about individuals who are not customers. This will usually arise where we collect the name and business contact details of our clients. FasterLouder.com.au's policy is to only use personal information collected from non-customers for the main business purpose for which it was collected. 
-  6. #### Access and correction
-
-  
-Under the Privacy Act, you have a right to seek access to information that FasterLouder.com.au holds about you. You also have the right to ask us to correct information about you, which is inaccurate, incomplete or out of date. As an FasterLouder member, you are able to access or correct the personal information that FasterLouder.com.au holds about you - simply by logging onto our website at [http://www.FasterLouder.com.au/p/auth/editprofile.php](http://www.fasterlouder.com.au/p/auth/editprofile.php). Both members and non-members may ask us to correct information, which is inaccurate, incomplete or out of date. To provide you with access to personal information about you, FasterLouder.com.au would usually provide you with a print-out of the relevant personal information from our database. If you wish to access the personal information that we hold about you, please set out your request in writing, including your phone number, and forward this to our Privacy Officer at PO Box 1964, Strawberry Hills NSW 2012. In the interests of protecting the privacy of individuals about whom we hold personal information, we will require that you verify your identity by enclosing a copy of a form of identification such as a current driver's licence or passport with your written request (this will be returned to you after your identity has been verified). If you wish to change personal information that is inaccurate or out-of-date, please contact our Privacy Officer, using the contact details at 12 below, with your request for correction. FasterLouder.com.au's policy is to consider any requests for access or correction within 21 days. Ordinarily, FasterLouder.com.au will not charge you for the cost of providing this type of access to these records. However, if we do propose to charge you, we will advise you of the relevant charge before we provide you with access. 
-  7. #### Further notes regarding online privacy
-
-  
-This Privacy Policy is part of the terms of use for our website. When you deal with FasterLouder.com.au, whether online or otherwise, FasterLouder.com.au takes its privacy obligations seriously. We will use personal information collected online to provide you with our products and services (eg to process your online purchases), to contact you in the case of an event cancellation or a change of venue, and if you agree, for FasterLouder.com.au's marketing purposes. Other matters specific to FasterLouder.com.au's handling of personal information online are set out below. 
-  8. #### Online collection of personal and non-personal information
-
-  
-As outlined at point 1 of this Privacy Policy, we collect personal information through our website. For example, FasterLouder.com.au will collect personal information online from customers when they register as an FasterLouder.com.au member or purchase through our website. Our website also collects other information - some of this is personal information, and some is not. For each visitor to our website, our server automatically recognises and stores the visitor's domain name, but not their email address. In addition, our website uses cookies. Most web browsers are set by default to accept cookies. However, if you do not wish to receive any cookies you may set your browser to either prompt or refuse cookies. Please note that rejecting cookies will disable your browser from purchasing tickets from our website and will restrict the functionality of the website as a whole. We also use cookies for tracking the statistics of our website. This allows us to better understand our users and improve the layout and functionality of our website. 
-  9. #### Online disclosures
-
-  
-To try and bring you offers that are of interest to you, FasterLouder.com.au has relationships with other companies that we allow to place advertisements on our web pages. If you visit our website, advertisement server companies may collect information such as your domain type, your IP address and clickstream information. 
-  10. #### Secure Online Transactions
-
-  
-If you make a purchase through our website, we process your credit card details securely over the Internet using an accredited Internet payment security system. With the combination of encryption provided by a third party and a secure browser at your end, we take all measures to ensure that your credit card and anonymity are protected when you purchase online.11. Links to other websites Sometimes our website contains links to third party websites, for your convenience and information. When you access a non-FasterLouder.com.au website, please understand that FasterLouder.com.au is not responsible for the privacy practices of that site. We suggest that you review the privacy policies of each site you visit. 
-  11. #### Additional privacy information and how to contact FasterLouder
-
-  
-FasterLouder.com.au may change its Privacy Policy at any time. FasterLouder.com.au will make available this policy to anyone who requests it. For further information about privacy issues and the protection of privacy visit the Australian Federal Privacy Commissioner's website at www.privacy.gov.au. If you feel that FasterLouder.com.au is not complying with this Privacy Policy, or if you have other privacy concerns, please contact our Privacy Officer (using the following contact details):   
-by email you can use this form.  
-by facsimile on +61 (0) 2 8353 7000   
-by letter to PO Box 1964, Strawberry Hills NSW 2012 AUSTRALIA  
-
-
-
+﻿ 
