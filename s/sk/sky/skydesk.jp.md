@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skydesk.jp privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206021342id_/https%3A//www.fujixerox.com/eng/common/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skydesk.jp privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604071232id_/https%3A//www.fujixerox.com/eng/common/privacy_policy) for the most accurate reproduction.*
 
 # Fuji Xerox Privacy Policy (Handling of Personal Information) : FUJI XEROX
 
