@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawrence.edu privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204143934id_/https%3A//www.lawrence.edu/s/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawrence.edu privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604081147id_/https%3A//www.lawrence.edu/s/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Lawrence University
 
