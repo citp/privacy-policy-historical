@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the dsm.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223031953id_/http%3A//www.dsm.com/corporate/generic/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dsm.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604214213id_/http%3A//www.dsm.com/corporate/generic/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | DSM
 
 ### General
 
-This Privacy & Cookie Statement applies to all personal information collected and used by the DSM entity responsible for the relevant part of the website.  The Privacy & Cookie Statement is based on the DSM Privacy Code for Customer, Supplier and Business Partner Data. The code and the particulars of the responsible DSM entity can be found under the button "Legal Information" on the left navigation menu of the page. The DSM entity which is responsible for the relevant part of the website is hereinafter referred to as “DSM”.
+This Privacy & Cookie Statement applies to all personal information collected and used by the DSM entity responsible for the relevant part of the website. The Privacy & Cookie Statement is based on the DSM Binding Corporate Rules (BCR) for Customer, Supplier and Business Partner Data. The DSM entity which is responsible for the relevant part of the website is hereinafter referred to as “DSM”.
 
-DSM respects your privacy and complies with the provisions of the Dutch Act on the Processing of Personal Data and the EU-privacy legislation.
+DSM respects your privacy and complies with the provisions of the EU-privacy legislation and if applicable, local privacy legislation.
 
 ### Cookies
 
@@ -26,11 +26,11 @@ We collect personal data when you provide it to us (e.g. name, address, postal c
 
 Your data shall be processed for the purposes of realization of any agreement, between you and DSM, fulfilling a request from you for information or advice, meeting statutory or other legal requirements, providing an optimal service and sending you information about our company and our (new) products or services, which suit your interest.
 
-We may provide your data to our DSM group companies for the same purposes as referred to above. Our group companies will also process your data in accordance with the DSM Privacy Code for Customer, Supplier and Business Partner Data and this Privacy & Cookie statement .
+We may provide your data to our DSM group companies for the same purposes as referred to above. Our group companies will also process your data in accordance with the DSM Binding Corporate Rules for Customer, Supplier and Business Partner Data and this Privacy & Cookie statement.
 
-Your personal data will only be provided to (or used on behalf of) third parties for direct marketing purposes after you have been offered the opportunity to object thereto. These third parties will not use your personal information for any other purposes than what we have agreed with them, within the scope of the DSM Privacy Code for Customer, Supplier and Business Partner Data. DSM requests those third parties to implement adequate levels of protection in order to safeguard your personal information.  Your personal data will not be transferred to parties located in countries outside the European Economic Area,  which do not have an adequate level of protection  according to the DSM Privacy Code for Customer, Supplier and Business Partner Data.
+### Do we disclose your information to third parties?
 
-All DSM group companies and third parties will process your personal data according to instructions of DSM.
+DSM may engage third parties. To the extent that these third parties process your data when performing the relevant services, they do so in the capacity of processor for DSM and DSM has taken the necessary technical and organizational measures to ensure that your data is processed exclusively for the aforementioned purposes.
 
 ### Children
 
@@ -47,16 +47,16 @@ Please be aware that the DSM Privacy & Cookie Statement does not apply to other 
 
 ### Right to access / rectification / object
 
-At all times you can request access to and/or rectification and/or deletion of your data if such data are incorrect or irrelevant for the mentioned purposes. For these purposes please send us your request for access, correction or removal of your personal data via [email](mailto:webmaster.internet@dsm.com).
+At all times you can request access to and/or rectification and/or deletion of your data if such data are incorrect or irrelevant for the mentioned purposes. For these purposes please send us your request for access, rectification or deletion of your personal data via [e-mail](mailto:privacy.dsm@dsm.com).
 
 At all times you can object against the use of your data for direct marketing purposes.
 
 ### Retention period
 
-DSM will not retain the personal data that are obtained through this website for longer than necessary, unless the data has to be kept for a longer period according to the DSM Privacy Code for Customer, Supplier and Business Partner Data.
+DSM will not retain the personal data that are obtained through this website for longer than necessary.
 
-### Security of your data
+### How do we secure your data?
 
-The storage and transfer of your data through the internet are secured by means of the current usual techniques.
+DSM handles your personal data with the greatest care. We have taken various technical and organizational measures to protect your personal data against loss or misuse. In this way, we secure our systems according to the applicable security controls from information security standards.
 
-Version February 5, 2015 PS
+Version 23 May 2018
