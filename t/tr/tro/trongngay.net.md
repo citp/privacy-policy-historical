@@ -1,46 +1,17 @@
-> *The following text is extracted and transformed from the trongngay.net privacy policy that was archived on 2016-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160724223913id_/http%3A//trongngay.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trongngay.net privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605001501id_/http%3A//privacypolicy.news/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Y8, Y3 Games - Free Online Flash Games - Free Flash Games
+# Legal
 
-This privacy policy (hereafter the "Privacy Policy") is applicable to this website and to all games and other activities that are offered by us on or through this website (this website and such games and activities are hereafter collectively referred to as the "Website"). SPIL GAMES BV (hereafter referred to as "SPIL"), headquartered at Arendstraat 23, 1223 RE Hilversum, the Netherlands, is the responsible party as denoted in the Dutch Personal Data Protection Act (Wet bescherming persoonsgegevens). SPIL may use affiliates' or reputable third parties' services for the processing of personal data collected on or through the Website.
+* * *
 
-**1\. General data of visitors of the Website**
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-When you visit the Website, our servers automatically save your computer's IP address. IP addresses will be collected along with information about the actual webpages that you visit on the Website. If you arrived at the Website via a link from another website, the URL of the linking website and the website that you might link to next will also be collected.  
-
-
-**2\. Cookies and web beacons**
-
-**2.1** SPIL may use cookies, web beacons, or similar technologies to enhance and personalize your experience on the Website, including to   
-**(a)** operate and improve offerings through the Website;   
-**(b)** help authenticate you when you are on the Website;   
-**(c)** remember your preferences and registration information, as the case may be;   
-**(d)** present and help measure and research the effectiveness of SPIL's offerings, advertisements, and email communications, and;  
-**(e)** customize the content and advertisements provided to you through the Website.  
-**2.2** SPIL may also use ad network providers, to help present advertisements on the Website. These ad network providers use cookies, web beacons, or similar technologies on your computer to help present, better target, and measure the effectiveness of their advertisements, using data gathered over time and across their networks of webpages to determine or predict the characteristics and preferences of their audience. SPIL offers some services in connection with other websites. Personal information that you provide to those sites may be sent to SPIL in order to deliver the service. SPIL processes such information in accordance with this Privacy Policy.  
-**2.3** SPIL may share certain non-personally identifiable information about you as a user (such as age and zip code) with certain ad network providers, to help them deliver more relevant advertisements through their ad networks. The use of cookies, web beacons, or similar technologies by such third parties as ad network providers is subject to their own privacy policies, not this Privacy Policy.  
-**2.4** Most browsers are initially set to accept cookies, but you can (re-)set your browser to refuse all cookies or indicate when a cookie is being sent. You can opt-out of receiving cookies from third-party advertising networks through a link to the Network Advertising Initiatives cookie opt-out page, which can be found **[here](http://networkadvertising.org/managing/opt_out.asp)**. However, some features and services may not function properly if cookies are disabled.  
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
-**3\. Email addresses**
 
-**3.1** We only collect those email addresses that were provided to us directly by the addressee or when it is beyond doubt that the addresses were provided to or for us.  
-**3.2** Email addresses will only be used for the purposes for which the email addresses were provided and for those promotion, service, and other purposes of which you have expressly approved.  
-**3.3** We will not use your email address for commercial purposes without your express approval.  
-
-
-**4\. Combination of personal data**
-
-For optimizing our services and the Website and for the purposes mentioned in the articles 1, 2 and 3 of this Privacy Policy, we are entitled to combine your personal data, including your email address if applicable, with other information about you collected by or provided to us.
-
-**5\. Access to the information we have collected about you**
-
-If you wish to have access to the information that we have collected about you, please send a written request to SPIL GAMES BV, Arendstraat 23, 1223 RE Hilversum, the Netherlands along with a copy of your passport (to prevent misuse of requests for information).
-
-**6\. Miscellaneous**
-
-**6.1** We reserve the right to amend our Privacy Policy. Amendments will be effective as of the moment of publication on the Website. You should check the Website regularly for amendments.  
-**6.2** The Internet is a global environment and using the Internet necessarily involves the collection and processing of personal data on an international basis. Therefore, by using the Website, you acknowledge and agree to our processing of personal data in this way.  
-**6.3** SPIL does not intentionally collect any personal data from individuals under the age of 13. When necessary, underage users will be told not to submit any personal details and we will make every effort to delete any details of such users where a parent or guardian has informed us that these details have been collected.  
-**6.4** This Privacy Policy shall be governed by the laws of the Netherlands and submitted to the exclusive jurisdiction of the courts in the Netherlands.   
-
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/).
