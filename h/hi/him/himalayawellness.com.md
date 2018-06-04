@@ -1,32 +1,178 @@
-> *The following text is extracted and transformed from the himalayawellness.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228092003id_/http%3A//www.himalayawellness.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the himalayawellness.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604064532id_/http%3A//www.himalayawellness.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - The Himalaya Drug Company
 
 At The Himalaya Drug Company, we respect every individual's right to privacy. Our relationship with you is our most valuable asset and is the very basis of our name and reputation.
 
-We understand the importance you place on the privacy and security of information that personally identifies you or your account information. We refer to and treat this information as "personal information".
+## Information Collection and Use
 
-We do reserve the right to disclose or report personal information in limited circumstances where we believe in good faith that disclosure is required under law, to co-operate with regulators or law enforcement authorities, or to protect our rights or property.
+This privacy policy ("Privacy Policy") notice tells you about the information we collect from you when you use our website. In collecting this information, we are acting as a data controller and, by law, we are required to provide you with information about us, about why and how we use your data, and about the rights you have over your data. Be informed that we strictly do not share your Personal Information to any third parties in any manner other than for the reasons mentioned herein this Privacy Policy. 
 
-We use personal information in ways that are compatible with the purposes for which we originally requested it. For example, we will use the information you give us to process your requests and transactions, to provide you with additional information about products and services, or to evaluate your financial needs. To do so, we may share personal information with an agent or affiliate.
+### **Who are we?**
 
-We limit the collection and use of personal information to what is necessary to administer our business and to deliver superior service to you. This may include advising you about our products or services, those of our affiliates, and other opportunities that we believe may interest you. To serve you better, we may combine information you give us on the Web or through other channels.
+We are The Himalaya Drug Company. 
 
-When we share personal information with an agent or affiliate, we protect that personal information with a strict confidentiality agreement. Companies that we hire to provide support services or act as our agent must conform to our privacy standards.
+Our address is   
+The Himalaya Drug Company   
+Makali,  
+Bengaluru – 562 162  
+India 
 
-Himalaya corporate policies require that employees with access to confidential customer information may not use or disclose the information except for business use. All employees are required to safeguard such information, as specified in their confidentiality agreements with Himalaya.
+You can contact us by post at the above address, by email at customer.service@himalayawellness.com or by telephone on 1(800) 208-1930 (India Toll Free) (Available between 0900 hrs IST to 1700 hrs IST).
 
-On occasions, we may assist a company that is not affiliated with Himalaya in providing or offering a product or service to you. In such circumstances, marketing materials will include instructions on how you can request not to receive those communications in the future. In all cases, your personal information is protected by a strict confidentiality agreement. We do not allow any nonaffiliated company to retain your personal information longer than necessary to provide the product, service, or information, unless you affirmatively grant us permission to do so.
+### **How we use your information**
 
-We continue to evaluate our efforts to protect personal information and make every effort to keep your personal information accurate and up to date.
+  * What information do we collect?
+  * Why do we collect these information?
+  * When you use our website?
+  * How long do we keep your information for?
+  * When you submit an enquiry via our website?
+  * When you sign up to receive our newsletter?
+  * When you submit a review about us?
+  * When you take part in our feedback survey?
+  * Your rights as a data subject
+  * Your right to complain
+  * When does this Privacy Policy apply?
+  * Updates to this privacy policy
 
-If you identify any error in your personal information or need to make a change to that information, please contact us and we will promptly update our records.
-
-If you have any questions or concerns, please contact us by e-mail at [write.to.us@himalayawellness.com](mailto:write.to.us@himalayawellness.com) or call us at **\+ 91 80 23714444**  
 
 
-**Cookies**
+### **What information do we collect?**
 
-To personalize your experience on our website or with one of our promotions, we may assign your computer browser a unique random number, called a "cookie." Cookies enhance the Himalaya web site performance in several important ways: they personalize your experience on our site, and they make your visit to our site more convenient for you.
+We collect information about you at our Website, application and our customer service centers. Some of this information does not identify you personally, but provides us with information about how you use our services and engage with us (we use this information to improve our services and make them more useful to you). The information we collect includes some or all of the following:
 
-Your privacy and security are not compromised when you accept a cookie from our website. We do not use cookies to collect personal information. Cookies can't read data from your computer's hard disk or read cookie files from other Web sites. In addition, companies we may hire to evaluate our Web promotions may set cookies to assist with such an evaluation. Again, neither Himalaya nor companies acting on our behalf use cookies to collect personal information.
+  * Name (including title);
+  * Address;
+  * Country;
+  * Phone number;
+  * Email address;
+  * Your IP address
+  * Order details;
+  * Query
+  * I need help with (Subject)
+  * Comments
+
+
+
+### **Why do we collect these information?**
+
+  * **Name (including title)**  
+To create user name/ required to provide personalized experience while answering question/ required to generate order invoice and shipment details by us as well as our shipment partner.
+  * **Address**  
+Required to generate order invoice and shipment details by us as well as our shipment partner including the Post code, City, Country etc...  
+These details will be printed on the shipment labels for facilitating the delivery process.
+  * **Country**  
+We require the country you belong to answer you better/ to analyse your health related query better.
+  * **Phone Number**  
+Required to generate order invoice and shipment details by us as well as our shipment partner/ we may use your telephone number to contact you regarding your purchase
+  * **Email id**  
+Your email id is required to answer your question, to contact you in case we need more details about your question, to revert with the solution to your query, to receive communication on order related updates and if you subscribe, you may opt to receive offer and promotional emails.
+  * **IP address**  
+We record IP address to show that the correct tax was applied to the sale, which we are required to do by law. Required to store for security purposes for aiding us to track any individual in case of any mishappening in our website/ system
+  * **Order Details**  
+To create a record of your order, to fulfil the orders and analysing our sale in each arena
+  * **Query**  
+Please write a brief description of the health query you would like to ask our experts. Our experts will be unable to help you with the desired solution if this field is incomplete or blank
+  * **I need help with (Subject)**  
+Required to direct questions to the right team to provide quick solutions
+  * **Comments**  
+Enter further details to your query/ question to better understand the situation
+
+
+
+### **When you use our website?**
+
+When you use our website to browse our products and services and view the information we make available, a number of cookies that we and third parties use to allow the website to function, to collect useful information about visitors and to facilitate you better experience.
+
+Some of the cookies we use are strictly necessary for our website to function, and we don't ask for your consent to place these on your computer.
+
+However, for those cookies that are useful but not strictly necessary we will always ask for your consent before placing them. As well as the cookies we use, various third parties also place them on your computer, again with your consent.
+
+### **How long do we keep your information for?**
+
+There is no stipulation to preserve your personal information in an identifiable format for longer than the provisioned time limit. If we have a relationship with you, we hold your personal information for 2 years from the date our relationship ends. We only store your personal information for this period to establish, bring or defend legal claims as a mandatory legal requirement
+
+The only exceptions to the periods mentioned above are in situations where in the law requires us to hold your personal information for a longer period, or delete it sooner; Where you have raised a complaint or concern regarding a product or service offered by us, in which case we will retain your information for a period of 2 years following the date of that complaint or query; or
+
+However, you exercise your right to have the information erased (where it applies) and we do not need to hold it in connection with any of the reasons permitted or required under the law;
+
+### **When you submit an enquiry via our website?**
+
+When you submit an enquiry via our website, we ask you for your name, contact telephone number and email address.
+
+We use this information to respond to your query, including providing you with any requested information about our products and services. We may also email you several times after your enquiry in order to follow up on your interest and ensure that we have answered your it to your satisfaction. We will do this based on our legitimate interest in providing accurate information prior to a sale.
+
+We do not use the information you provide to make any automated decisions that might affect you.
+
+### **When you sign up to receive our newsletter?**
+
+When you sign up to receive our newsletter, we ask for your name and your email address. 
+
+We will ask for your consent to use your name and email address to email you our newsletter which contains information about our products and other information which we feel might be of interest to you.
+
+You can withdraw your consent at any time and we will stop sending you the newsletter.
+
+Your name and email address are shared with a third party mailing system ( **Mailchimp** , www.mailchimp.com).
+
+We do not use the information you provide to make any automated decisions that might affect you.
+
+We keep your personal data for as long as we produce and distribute our newsletter. If you withdraw your consent, we will mark your details so that they are not used and delete them after two years.
+
+### **When you submit a review about us?**
+
+When you submit a review about us we record your name, your email address and your IP (Internet Protocol) address, which is the address of your computer on the Internet.
+
+We use this information to provide verified independent views about our products and services to potential customers. Your name and the content of your review (but not your email address or IP address) may be publicly displayed on our website. We will do this based on our legitimate interest in marketing our products and services.
+
+We do not use the information you provide to make any automated decisions that might affect you.
+
+Your personal data is stored for as long as we are marketing the product or services that the review refers to, after which it is deleted. You may ask us to remove your review at any time.
+
+### **When you take part in our feedback survey?**
+
+When you take part in our feedback survey, we record your name, your email address, your organisation name, your job role and your answers to questions we ask about your opinion of, and use of, our products and services.
+
+We use this information to develop and improve our products and services and our customer relationships. We will do this based on our legitimate interest in marketing our products and services.
+
+Your details are shared with a third party surveys system which is based within the **European Economic Area (EEA)**.
+
+We do not use the information you provide to make any automated decisions that might affect you.
+
+Your personal data is stored for two years, or for as long as we are marketing the product or services that the review refers to, whichever is shorter. You may ask us to remove a testimonial that is based on your feedback from our website at any time.
+
+### **Your rights as a data subject**
+
+By law, you can ask us what information we hold about you, and you can ask us to correct it if it is inaccurate. If we have asked for your consent to process your personal data, you may withdraw that consent at any time.
+
+If we are processing your personal data for reasons of consent or to fulfil a contract, you can ask us to give you a copy of the information in a machine-readable format so that you can transfer it to another provider.
+
+If we are processing your personal data for reasons of consent or legitimate interest, you can request that your data be erased.
+
+You have the right to ask us to stop using your information for a period of time if you believe we are not doing so lawfully.
+
+Finally, in some circumstances you can ask us not to reach decisions affecting you using automated processing or profiling. To submit a request regarding your personal data by email, post or telephone, please use the contact information provided above in the Who Are We section of this policy.
+
+### **Your right to complain**
+
+If you have a complaint about our use of your information, we would prefer you to contact us directly in the first instance so that we can address your complaint.
+
+If you have any specific data protection concerns or a complaint, you can address it to our Data Protection Team at: **srini@himalayawellness.com** which is supervised by our Data Protection Officer **Mr. Srinivas R** Or the telephone: on **1(800) 208-1930** (India Toll Free) (Available between 0900 hrs IST to 1700 hrs IST).
+
+The Himalaya Drug Company   
+Makali,  
+Bengaluru – 562 162  
+India 
+
+If you have any questions regarding the processing of your personal information, please contact: customer.service@himalayawellness.com
+
+### **When does this Privacy Policy apply?**
+
+This Privacy Policy applies to all of the services offered by The Himalaya Drug Company, via its websites that include www.HimalayaWellness.com but excludes services offered by other companies or individuals, including products or sites that may be displayed to you the products of Himalaya when browsed in search of our official website.
+
+### **Updates to this privacy policy**
+
+We regularly review and, if appropriate, update this privacy policy from time to time, and as our services and use of personal data evolves. If we want to make use of your personal data in a way that we haven't previously identified, we will contact you to provide information about this and, if necessary, to ask for your consent.
+
+### **Version 1.1, Date: 26/05/2018**
+
+We will update the version number and date of this document each time it is changed.
