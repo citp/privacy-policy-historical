@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everhelper.me privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203032116id_/http%3A//everhelper.me/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everhelper.me privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604195615id_/http%3A//www.everhelper.me/privacy.php) for the most accurate reproduction.*
 
 # Everhelper - Privacy Policy
 
@@ -37,6 +37,12 @@ Planning to sell your computer or to give it to another person for an extended p
 No. Nevertheless, you should remember about the "public" sections of the Everhelper service and websites - such as Everhelper message board or user notebooks, for instance. Such sections can be viewed by any user on the Internet. Please, note that you should avoid sharing your contacts or other personal information in such sections of the websites or service if you want to protect yourself from unsolicited messages. Hereby Everhelper disclaims all responsibility for publication and use of the personal information that has been posted in public sections of Everhelper by you.
 
 Extension uses Google Analytics and cookies for internal use. We track performance to understand which way is better to develop product. We don't share data to any third-party services.
+
+## GDPR Compliance
+
+We may use [third-party advertising companies](http://d16c5h5c5bd1bm.cloudfront.net/pp.html) to serve ads when you visit our website
+
+Please note: more details regarding GDPR will be added soon.
 
 ##  In-app ads 
 
