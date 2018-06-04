@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the swinburneonline.edu.au privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202072123id_/http%3A//www.swinburne.edu.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swinburneonline.edu.au privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604032532id_/http%3A//www.swinburne.edu.au/privacy.htm) for the most accurate reproduction.*
 
 # Privacy statement | Swinburne University | Melbourne
 
-If you have any questions, issues or concerns (or wish to lodge a complaint in respect of a Privacy matter) please contact Kornel Koffsovitz, Privacy Officer – Manager, Legal & Governance, on [+61 3 9214 5515](tel:+61392145515).
+If you have any questions, issues or concerns (or wish to lodge a complaint in respect of a Privacy matter) please contact Kornel Koffsovitz, Privacy Officer – Associate Director (Legal and Regulatory), Governance Legal and Integrity, on [+61 3 9214 5515](tel:+61392145515).
 
 ## We value your privacy
 
@@ -22,7 +22,7 @@ You have a right of access to, and alteration of personal information concerning
 
 ## Contact
 
-If staff have any queries in relation to privacy at Swinburne University of Technology, please contact [Legal and Governance](http://www.swinburne.edu.au/corporate/legal/).
+If staff have any queries in relation to privacy at Swinburne University of Technology, please contact [Governance Legal and Integrity](https://wiki.swinburne.edu.au/display/GAU/Governance+Legal+and+Integrity).
 
   * 
 
