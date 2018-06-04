@@ -1,121 +1,185 @@
-> *The following text is extracted and transformed from the insites.eu privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202190611id_/http%3A//www.insites-consulting.com/privacy-statements) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insites.eu privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604064415id_/http%3A//www.insites-consulting.com/privacy-statements) for the most accurate reproduction.*
 
 # Privacy Statement | InSites Consulting
 
-## A. Respect for privacy-Act of 8 December 1992
+Effective as of the 25th of May, 2018.
 
-Insites NV undertakes to respect the Act of 8 December 1992 (as amended by the Act of 11 December 1998) regarding privacy protection concerning the treatment and processing of personal details (the ‘privacy-Act).
+## I. Introduction – Who are we
 
-Thereby Insites NV (see address under point L.) acts as the party responsible for the processing of the personal data in accordance with article 4§2 of the Privacy Act, and Insites can be reached for questions and/or complaints at research@insites-consulting.com.
+Insites NV undertakes to respect the applicable data protection legislation as specified in Regulation 2016/679 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, (hereafter “ **General Data Protection Regulation** ” or “ **GDPR** ”).
 
-“Personal details” in this Act shall be understood to mean information concerning an identified or identifiable natural person; identifiable shall be considered any person who can be directly or indirectly identified, more specifically based on an identification number or one or more specific elements that are characteristic for his or her physical, physiological, psychic, economic, cultural or social identity.
+InSites NV, with registered office at Evergemsesteenweg 195, 9032 Ghent (Belgium) and registered with the Crossroads Bank for Enterprises under the number BE0465.109.357, our subsidiaries and affiliates (hereafter: “InSites”, “our”, “us” or “we”) believes in protecting the privacy and the confidentiality of the Personal Data we hold of you.
 
-The privacy-Act is accessible via the website <http://www.e-privacy.be/privacywet.pdf>.
+We acknowledge that you may have privacy and security concerns with respect to the Personal Data we collect, use, and possibly disclose to third parties for the purpose of allowing us to offer and provide our products and services. To this end, we have developed this Privacy Statement (“ **Statement** ”).
 
-## B. Method for the collection of personal details
+Personal Data is any combination of information, in the possession of or likely to come into the possession of InSites, that can be used to identify an individual (hereafter “ **Personal Data** ”). All processing of Personal Data by InSites will be treated in accordance with applicable data protection legislation and this Privacy Statement. Any information that cannot be used to identify a discrete individual (such as aggregated statistical information) is not Personal Data.
 
-Personal details are collected and treated based on (a) one or several questionnaires that need to be filled out and/or (b) one or several competitions in which you can participate.
+It should be clear that this Statement only applies to the processing of Personal Data by InSites acting as a controller, meaning when InSites is the one determining the purpose and means (the “why” and “how”) of such processing.
 
-All the InSites nv services (questionnaires and competitions) that you can use are referred to as “Our services” hereinafter.
+This Statement sets out how InSites processes information collected via the own corporate website http://www.insites-consulting.com/ (hereafter the “ **Website** ”) and all activities and services relating to it.
 
-Any personal details that Insites NV collects based on our services have been voluntarily provided to us. In no way whatsoever is a person obliged to provide any information.
+It also sets out our practices regarding the use of such information, the steps we take to protect it, as well as the choices and rights that data subjects (“ **you** ” or “ **your** ”) have regarding on how we collect and process information about them. Data subjects involved can vary from every user of our Website, recruitment applicants, subscribers to our newsletters, personal or corporate clients (and individuals associated with our corporate clients), suppliers (including subcontractors and individuals associated with our suppliers and subcontractors), business contacts (existing and potential clients and/or individuals associated with them) or any other individuals who get in touch with us.
 
-Children under the age of 14 who wish to use our services must do so under the supervision of at least one of their parents. Insites NV shall not be liable if children under the age of 14 use our services without the required parental supervision.
+Should you have any comments or questions about this Privacy Statement you can contact us via our contact information provided below under “Questions about this Statement”.
 
-Insites NV hereby respects the guidelines established by ESOMAR concerning online surveys involving children under the age of 14.
+## II. How we process your Personal Data
 
-## C. Sending of forms
+We may collect and process information via the Website and in connection with all business activities relating to it. These operating activities can involve the processing of Personal Data of the following individuals: every visitor to our Website, recruitment applicants, personal or corporate clients (and individuals associated with our corporate clients), suppliers (including subcontractors and individuals associated with our suppliers and subcontractors), business contacts (existing and potential clients and/or individuals associated with them) or other individuals who get in touch with us
 
-In the context of the use of our services, you can be invited to fill out a (digital) form in which certain fields in bold or with an asterisk (*) are required to carry out the service, and the other fields are optional.
+### A. When do we collect your Personal Data?
 
-The aim of the optional fields is to allow us to contact you quickly and/or to obtain information that is relevant in the context of an optimum performance of our services.
+The Personal Data collected and processed by InSites is generally received from:
 
-## D. Cookies
-
-When confronted with an online participation invite of InSites Consulting for a survey, we may send a cookie that is stored on your system, originating from the domain “*.insites.be”, “*.insites.eu”, “*.insites-consulting.com”, “*.talktochange.eu” of “*.talktochange.com”.
-
-The sole purpose of the cookie, is to ensure that people who do not wish to participate, or the ones that have participated, will not be confronted again with the invite during the lifetime of the cookie.
-
-The cookie is installed on your hard disk automatically, but you have the right to refuse it. In order to be notified when a cookie is being installed, please refer to the help function of your internet browser. For further questions or requests, you can always contact research@insites-consulting.com.
-
-InSites Consulting doesn’t store any personal details in a cookie that can be used to identify individuals, nor does it use cookies for any kind of tracking purposes.
-
-## E. Goals
-
-Personal details can only be collected and processed by us for one of the following goals:
-
-  * for the registration, invitation and participation in our services;
-  * for research and statistical goals;
-  * for direct marketing purposes;
-  * to draw up collective profiles (not of individual people);
-  * to enable us to contact a winner of a competition;
-  * to enable us to verify your use of confidential material submitted by us to you;
-  * to enable us to take appropriate measures in case you violate your obligation(s)
-  * towards us, such as the non disclosure obligation in relation to confidential material submitted to you.
+  * You voluntarily, e.g. 
+    * when you contact us via the Website, by e-mail, post, telephone, by exchanging business cards, by submitting a request to exercise your rights,…;
+    * when you engage or maintain a contractual relationship with us;
+    * when you apply for a job with us;
+    * when you subscribe to our newsletter;
+    * when you leave a comment on our Website;
+    * when you request a download;
+  * Through website navigation, e.g. 
+    * when you navigate the Website, we may collect limited Personal Data automatically via the use of cookies on our Website.
 
 
 
-## F. Collected information
+If InSites would receive Personal Data of you from third parties and we use this information for further processing as a controller, we will inform you about such processing at the latest at the moment of first contact with you.
 
-The information that is collected depends on the goal, more specifically the following:
+### B. Which Personal Data of you do we collect?
 
-  * the personal details and other information that allow your identity to be determined and to contact you;
-  * any information that is relevant to achieve the goals as specified under item E. The information collected in the questionnaire is processed on an authorised level;
-  * each registered panel member has a unique identification number in our database which allows us to identify the individual panel member and which number will be encrusted in confidential material submitted to you.
+We may collect and process the following (non-exhaustive) Personal Data. Depending on the situation and the relationship we have with you we do not maintain all information mentioned hereafter.
+
+  * **Contact information** , such as your name, e-mail address and any other contact details that you provide to us, for example, when you contact us, subscribe to our newsletter or request a download.
+  * **Personal and identification details** , such as age, date of birth, place of birth, copy of an identity card, ….
+  * **Electronic identification data** , such as browser type, Internet Protocol (IP) address, user ID, unique identifier assigned to your device, geographic location, actions performed within a web page, information derived from content of a web page, … as a result of, for example, a visit to our Website that uses cookies.
+  * **Contact history** , such as sent and received communication (e.g. e-mail messages), … as a result of the communication we have with each other or when you leave a comment on our Website.
+  * **Work related details** , such as CV, education, testimonials, language skills, employer (including history of former employers), professional activities, professional skills, publications, salary, assessment & development reports, interview report, reference research, social media profiles, … when you provide it to us in the context of, for example, an application for a job with us.
 
 
 
-## G. Right of access and right to correct
+Through de Website InSites does not process special categories of Personal Data (e.g. information on race or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, physical or mental health, genetic data, biometric data, sexual life or sexual orientation) or criminal information (e.g. information relating to criminal convictions and offences). This could be the case for other services provided by Insites (Square or surveys). InSites will only process special categories of Personal Data with your explicit consent or when required by law.
 
-You are able at all times to check the state of your personal details if you send us an e-mail (via panel@insites-consulting.com) or write to the following address.
+### C. Why and how do we use your Personal Data?
 
-We will inform you of the state of your personal details as soon as possible, after we have checked your identity.
+As mentioned above, we generally obtain your Personal Data from you directly. We only collect the Personal Data necessary for the purposes as mentioned hereafter and we ask you to only share your Personal Data where it is strictly needed for those purposes.
 
-In case of a mistake, inaccuracy or hiatus regarding the personal details of yourself or your children, primarily within the framework of the purposes set forth under point E., you can naturally ask us to correct or change this information.
+InSites can use the Personal Data for the following purposes:
 
-If you believe that our services do not respect the regulations regarding the protection of personal details, you can contact us via the contact details specified in item L.
+  * **Operational purposes** , such as: administering and managing our Website, products and services; considering a job application, answering requests for information or to exercise your rights, security, quality and risk management activities,….
+  * **Business purposes** , such as: providing our products and services; administering, managing and developing our businesses, business relationships, contracts, products and services; providing information about us and our range of services; for research and statistical goals; complying with any requirement of law, regulation or a professional body of which we are a member,….
+  * **Commercial purposes** , such as: direct marketing purposes (e.g. sending you our newsletter),
 
-## H. Consent and removal
 
-By using our services you explicitly agree with InSites nv’s privacy-policy and the treatment and collection of personal details in accordance with this privacy statement.
 
-If you want your personal details or your underage children’s to be removed from our database, please contact us by e-mail or post using the previously mentioned contact details. We undertake to remove them as soon as possible, except of course if it concerns information that needs to be kept in pursuance of the law or an agreement.
+### D. On which legal grounds do we collect your Personal Data?
 
-We remind you that you can register on a special list if you no longer want to use our services.
+InSites processes your Personal Data on the following legal grounds:
 
-If you use our services you have the opportunity at all times to no longer be offered this service.
+  * The processing is based upon your explicit consent. You can withdraw your consent at any time. For more information please see section VI. Rights below.
+  * The processing is based upon our legitimate interests. We may also process your Personal Data when we have a legitimate interest to do so, such as to defend and prosecute legal claims and rights, and other business interests. Where we rely on this legal processing ground, we will mitigate the effect(s) this might have on your privacy by appropriately minimising our use and putting in place adequate access and security safeguards to prevent unauthorised use.
+  * The processing is necessary for the performance of a contract to which, for example, our client or supplier is party, or in order to take further action upon your request in order to enter into a contract with us.
+  * We may also process your Personal Data when we have a legal obligation to do so.
 
-## I. Property and transfer to third parties
 
-All information gathered with our services belong to InSites nv and shall only be used in accordance with the principles and provisions specified in this privacy statement.
 
-At no time will personal data of individuals pertaining only to these individuals and which identify these individuals or make them identifiable, be communicated to third parties.
+## III. We use cookies on the website
 
-Without your consent your personal details will not be transferred to third parties, with the exception of the manager of the server who makes our services possible. This manager has been asked to take all possible measures to save and process these personal details with the greatest care so that these personal details cannot be unlawfully made public to third parties.
+We utilise cookies, and other online identification technologies such as web beacons, or pixels to provide users with an improved user experience. By using this website or application you consent to the deployment of such identification technologies.
 
-As we never transfer your contact details to third parties either (only to the manager of the server), any unwanted e-mails (“spam mails”) of other e-mail domains than “@insites.be”, “@insites.eu”, “@insites-consulting.com”, “@talktochange.eu” of “@talktochange.com” are not from us.
+We use these technologies to make navigation of the Websites easier for you and to better deliver tailored content to you.
 
-## J. Security
+We also use these technologies to gather tracking information and statistics regarding use of the website.
 
-InSites nv undertakes to take every necessary measure required to protect your personal details in order to avoid that they are distorted, affected or transferred to unauthorised third parties.
+We may utilise online identification technologies from marketing partners, third party sites and social media platforms. These technologies help us measure the efficacy of our marketing and awareness campaigns and to understand how visitors navigate to the Website from a Insites Consulting ad.
 
-The databases in which your details are included have been protected against unauthorised access of third parties.
+You can control and manage cookies using your browser. Please note that removing or blocking cookies can impact your user experience and some functionality may no longer be available.  
+Most browsers allow you to view, manage, delete and block cookies for a website. Be aware that if you delete all cookies then any preferences you have set will be lost, including the ability to opt-out from cookies as this function itself requires placement of an opt out cookie on your device.
 
-## K. Miscellaneous
+For information on additional browsers and device types please see http://www.aboutcookies.org/ or http://www.cookiecentral.com/faq/.
 
-This privacy statement is without prejudice to InSites nv’s right to take further reaching actions vis-à-vis certain users of our services, based on an agreement, the law, regulations, etc.
+## IV. How long we keep your Personal Data
 
-This always in accordance with the obligatory provisions of the Privacy Act.
+We retain the Personal Data processed by us for as long as is considered necessary for the purpose for which it was collected. Considering the data retention period for which Personal Data can be held, depends on the purposes for which the information was collected, the data retention period can vary in each situation.
 
-In the context of international research projects InSites nv may invite you to take part in research projects of Belgian and international InSites nv partners. In this case InSites nv undertakes to make every necessary and reasonable effort to make sure the principles and the provisions of this privacy statement and the applicable international regulations are respected.
+## V. What measures do we take to secure your Personal Data
 
-This privacy statement is governed by Belgian law alone.
+InSites takes the security of the Personal Data we process seriously. Therefore we have implemented appropriate technical and organisational measures to secure the processing of Personal Data. These safeguards will vary depending on the sensitivity, format, location, amount, distribution and storage of the Personal Data, and include measures designed to keep Personal Data protected from unauthorized access. If appropriate, the safeguards include the encryption of communications via for example SSL, encryption of information during storage, firewalls, access controls, separation of duties, and similar security protocols. We restrict access to Personal Data to our staff members and third parties that require access to such information for legitimate and relevant business purposes.
 
-## L. Contact
+All our staff members, contractors and third parties who will have access to your Personal Data on InSites’ instructions will be bound to confidentiality and we use access controls to limit access to individuals that require such access for the performance of their responsibilities and tasks.
 
-InSites NV  
-Address of the registered office: Evergemsesteenweg 195, 9032 Ghent, Belgium  
-Tel.: +32 (0)9.269.15.00  
-Website: [http://www.insites-consulting.com](http://www.insites-consulting.com/)  
-E-mail: [info@insites-consulting.com](mailto:info@insites-consulting.com)  
+## VI. Transfers of Personal Data
+
+We will only share your Personal Data with others when we are legally permitted to do so and where it’s necessary to fulfil the purposes related to those described above.
+
+When we share Personal Data with others, we put contractual arrangements and security mechanisms in place to protect the Personal Data and to comply with our own data protection, confidentiality and security standards.
+
+We are part of a global network of corporations and can make use of third party service provides in other countries to help us run our business. As a result, the Personal Data may be transferred outside the European Economic Area (“EEA”). This includes countries that do not have laws that provide specific protection on the processing of Personal Data. Some of those countries however have been approved by the European Commission as providing essentially equivalent protections as EEA data protection laws. Under certain conditions the GDPR allows InSites to transfer Personal Data to such countries.
+
+In any case, we have taken steps to ensure all Personal Data is processed respecting adequate levels oof security and that all transfers of the Personal Data outside the EEA take place in accordance with applicable data protection legislation and that there will be an appropriate level of protection. We will implement legal safeguards governing such transfer, such as model contractual clauses, individuals’ consent, or other legal grounds permitted by applicable legal requirements.
+
+Personal Data we hold may be transferred:
+
+  * **to our subsidiaries and affiliates**  
+We may share your Personal Data within our global network of corporations when this is necessary for providing or improving our products and services or when this is necessary for the purpose for which your Personal Data was collected. For details of our subsidiaries and affiliates, please [click here](http://www.insites-consulting.com/about-us/offices/).
+  * **to our Service Providers**  
+We use third parties to support us in providing our services and to help provide, run and manage our internal IT systems or (internal) business processes.  
+For example, providers of information technology, cloud based software as a service provider, Website hosting and management, data analysis, recruiting software, data back-up, security and storage services.
+  * **law enforcement or other government and regulatory agencies or to other third parties as required by, and in accordance with, applicable law or regulation:**  
+We reserve the right to disclose any and all pertinent information to law enforcement or other third parties with the authority to acquire Personal Data, such as to check that we are complying with applicable law and regulation, to investigate an alleged crime, to establish, exercise or defend legal rights. We will only fulfil requests for Personal Data where this is necessary and appropriate and where we are permitted to do so in accordance with applicable law or regulation.
+
+
+
+## VII. Your rights
+
+The GDPR provides you with certain rights in relation to your Personal Data. These rights are listed below. Please contact us if you wish to exercise any of the rights below. You can find our contact information under Questions about this Statement, as set out below.
+
+Please be aware that certain exceptions apply in exercising these rights which means you may not be able to exercise these in all situations:
+
+a) **Subject Access** : You have a right to have access to your Personal Data held by InSites.
+
+b) **Rectification** : You can ask us to have inaccurate Personal Data corrected.
+
+c) **Erasure (‘Right to be forgotten’)** : You can ask us to erase Personal Data in certain circumstances and we will take reasonable steps to inform data processors that are processing the Personal Data on our behalf that you have requested the erasure of any links to, copies or replication of your Personal Data.
+
+d) **Restriction** : You can require certain Personal Data to be marked as restricted and also restrict processing in certain other circumstances.
+
+e) **Portability** : You can ask us to transmit the Personal Data of you to a third party electronically insofar as permitted under the GDPR.
+
+f) **Raise a complaint** : You can raise a complaint about our processing with the data protection regulator, the (Belgian) “Data Protection Authority”.
+
+In addition, under certain conditions, you have the right to:
+
+  * where processing is based on consent, withdraw the consent; all newsletters contain an unsubscribe button in the footer of that e-mail.
+  * object to any processing of personal that InSites justifies on the “legitimate interests” legal ground, unless our reasons for undertaking that processing outweigh any prejudice to the individual’s privacy rights; and
+  * object to direct marketing (including any profiling for such purposes) at any time.
+
+
+
+## VIII. Updates to this Statement
+
+InSites reserves the right to revise and update this Statement at any time. The date of the last update can be found at the top of this Statement.
+
+If we make revisions that materially change or affect whether or how we collect or use personal information we will notify you:
+
+  * byemail (if, for example as a user of our Website, you have provided us your email address); or
+  * by means of a notice on our Website prior to the change becoming effective.
+
+
+
+Therefore, you should review the Website periodically so that you are up-to-date on our most current policies and practices.
+
+## IX. Questions about this Statement
+
+Should you have any comments or questions about this Privacy Statement or the processing of your Personal Data by InSites acting as a controller, you may contact us:
+
+  * Via postal mail:  
+InSites NV  
+Evergemsesteenweg 195  
+Privacy department  
+9032 Ghent  
+Belgium
+  * Via e-mail: [info@insites-consulting.com](mailto:info@insites-consulting.com)
+  * Via telephone: +32 (0)9.269.15.00
+
+
+
 Company registration number no. 0465.109.357
