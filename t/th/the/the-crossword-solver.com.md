@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the the-crossword-solver.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114090754id_/http%3A//www.the-crossword-solver.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-crossword-solver.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604090656id_/http%3A//www.the-crossword-solver.com/privacy) for the most accurate reproduction.*
 
-# Crossword Solver" - Privacy Policy
-
-By using The Crossword Solver you agree to our use of cookies. The site uses cookies to deliver its services, to personalise ads and to analyse traffic. Information about your use of this site is shared with Google. [LEARN MORE](https://web.archive.org/privacy)
+# Crossword Solver" - Privacy
 
 **Crossword Solver** respect your privacy. We don't ask you to register with the site so don't keep any personal information.
 
@@ -15,6 +13,15 @@ Crossword Solver create a limited number of cookies for user analysis tracking. 
 If you choose to disable cookies in your browser this will not adversely affect you using **Crossword Solver** unless you use a mobile browser as we won't be able to remember your preferences regarding the mobile and desktop sites.
 
 To learn more about cookies you can search in your preferred search engine or you could try <http://www.allaboutcookies.org/>
+
+## Manage our cookies
+
+When you save your cookie preferences on The Crossword Solver, we need to create a cookie on your device in order to remember your preference. If you clear your cookies, access the site using "incognito" modes or change devices, we will be unable to remember your choices and you'll be asked again.
+
+Allow us to analyse your site usage   
+Allow us to show personalised advertising
+
+**Please note:** disabling advertising cookies will not stop all advertising on the site, it will only prevent personalised, relevant advertisements being shown.
 
 ## Third Party Advertisers
 
