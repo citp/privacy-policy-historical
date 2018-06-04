@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the popundertotal.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227000122id_/http%3A//popundertotal.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popundertotal.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604085009id_/http%3A//popundertotal.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-DRS Media Ltd. (PopUnderTOTAL) provides advertising technology solutions ("Technology") that enables media companies, online advertisers, and web publishers to buy, sell, and measure the the effectiveness of their advertising campaigns. This privacy policy ("Privacy Policy") explains how personal information is collected, used, and disclosed by PopUnderTOTAL with respect to your use of the websites located at http://PopUnderTOTAL.com (the "Site") and how personal information is collected, used, and processed through the Technology on behalf of the online advertisers, publishers, business partners, and other businesses that use PopUnderTOTAL's services ("Clients").
+Storm Digital Company (PopUnderTOTAL) provides advertising technology solutions ("Technology") that enables media companies, online advertisers, and web publishers to buy, sell, and measure the the effectiveness of their advertising campaigns. This privacy policy ("Privacy Policy") explains how personal information is collected, used, and disclosed by PopUnderTOTAL with respect to your use of the websites located at http://PopUnderTOTAL.com (the "Site") and how personal information is collected, used, and processed through the Technology on behalf of the online advertisers, publishers, business partners, and other businesses that use PopUnderTOTAL's services ("Clients").
 
 Use of the terms "we" and "us" in this Privacy Policy means PopUnderTOTAL. Capitalized words not defined in this Privacy Policy have the meaning as defined in the Terms. By using the Site, you are accepting the terms of this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site.
 
@@ -11,6 +11,21 @@ Use of the terms "we" and "us" in this Privacy Policy means PopUnderTOTAL. Capit
 Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Site unless you choose to provide that information (as explained further below). This Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Site.
 
 PopUnderTOTAL may amend this Privacy Policy at any time by posting a revised Privacy Policy on the Site, and/or sending information regarding the amendment to the email address you provide to PopUnderTOTAL. You are responsible for regularly reviewing the Site to obtain timely notice of such amendments. You shall be deemed to have accepted such amendments by continuing your use of the Site or of your Account after such amendments have been posted or information about such amendments has been sent to you.
+
+**Commitment to Privacy**
+
+The European Union ("EU") maintains strict privacy laws through General Data Privacy Regulation ("GDPR") and protecting our customer's data is a main concern to ensure that we maintain the required compliance with the governing authorities.
+
+**Your Data Rights**
+
+If you are in the EEA, you have a right to (subject to a limited number of exceptions):   
+(i) request access to and rectification or erasure of your personal information;   
+(ii) obtain restriction of processing or to object to processing of your personal information;   
+and (iii) ask for a copy of your personal information to be provided to them, or a third party, in a digital format. You also have the right to lodge a complaint about the processing of your personal information with your local data protection authority in the EEA. 
+
+If you are a client, and would like the personal information PopUnderTOTAL hold about you to be corrected or updated please contact info@popundertotal.com. 
+
+For the deletion and erasure of personal information, email info@popundertotal.com to begin the process and we will respond to your request within 30 days.
 
 **Normal Site Usage:**
 
