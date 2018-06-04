@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlsoutwest.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120130740id_/http%3A//tour.girlsoutwest.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsoutwest.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604083633id_/https%3A//tour.girlsoutwest.com/privacy.php) for the most accurate reproduction.*
 
 # GirlsOutWest - Privacy Policy
 
