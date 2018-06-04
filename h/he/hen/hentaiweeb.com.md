@@ -1,43 +1,17 @@
-> *The following text is extracted and transformed from the hentaiweeb.com privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919125151id_/http%3A//hentaiweeb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hentaiweeb.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605001501id_/http%3A//privacypolicy.news/privacy-policy.html) for the most accurate reproduction.*
 
-# Hentai Weeb Privacy Policy
+# Legal
 
-### What information does Hentai Weeb collect?
+* * *
 
-Hentai Weeb and its staff will not ask for, and does not collect any data from its users. The comment system, powered by Disqus, requires registration information to be supplied, however, Hentai Weeb itself does not require any information from users visiting the website.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-Protecting our users’ privacy is of utmost importance to us.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-### Video Disclaimer
 
-Hentai Weeb does not host any video content on its servers. All video content is obtained through, and embedded through external video hosting services, such as, but not limited to, Yourupload, Dailymotion, Mp4Upload, Stream, Openload and more.
 
-### Copyright Infringement
-
-In the case of copyright infringement, we ask that you instead contact the responsible parties, i.e., the video hosts actually hosting the videos. Hentai Weeb simply embeds videos that already exist on other websites, in principle, conducting business in the same manner as Google, or any online search engine.
-
-Hentai Weeb, however, believes in enforcing Hentai rights holders’ intellectual property, and as such, have no problem complying with _valid DMCA requests_. Please make sure to send them directly to our DMCA-related email.
-
-Hentai Weeb does not accept responsibility for any content uploaded off of its servers.
-
-### Does Hentai Weeb use cookies?
-
-As most websites on the internet, yes. For those of you who are unaware, cookies are small files that a website or its service provider transfers to your computers hard drive through your Web browser ( _if you allow cookies, that is_ ) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. Hentai Weeb uses cookies to understand and save your preferences for future visits and compile aggregated data about site traffic and site interaction so that we can offer better site experiences and tools for users in the future.
-
-### Advertising
-
-Hentai Weeb uses third-party advertising companies to serve ads when you visit our website. These companies may compile data (not including any personal information) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
-
-If you have any queries regarding the purchase of advertising space, or problems with current advertising, then please feel free to contact us at our advertising-related email.
-
-### Online Privacy Policy Only
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-### Your Consent
-
-By using [HentaiWeeb.com](http://hentaiweeb.com/), you fully consent to our Privacy Policy.
-
-### Changes to our Privacy Policy
-
-In the future, Hentai Weeb reserves the right to make any changes to our Privacy Policy, at any time.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/).
