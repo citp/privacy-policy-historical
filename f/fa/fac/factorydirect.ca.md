@@ -1,14 +1,18 @@
-> *The following text is extracted and transformed from the factorydirect.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606132508id_/http%3A//www.factorydirect.ca/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factorydirect.ca privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604141642id_/http%3A//www.factorydirect.ca/privacy-notice) for the most accurate reproduction.*
 
-# Canada’s best deals on unlocked apple and android cell phones, TVs, tablets, android media players, air conditioners, fidget spinners, kitchen appliances, bathroom accessories, as seen on tv products, gazeebos, tents and more
+# Privacy notice - Canada’s best deals on Electronics, TVs, Unlocked Cell Phones, Macbooks, Laptops, Kitchen Appliances, Toys, Bed and Bathroom products, Heaters, Humidifiers, Hair appliances and so much more
 
-## **WHAT INFORMATION DOES FACTORYDIRECT.CA COLLECT?**
+## WHAT INFORMATION DOES FACTORYDIRECT.CA COLLECT?
 
 Factorydirect.ca collects personal information from our customers.  This information typically includes the customer’s name, address, postal code, phone number, and email address.  A customer is not obliged to provide personal information*, however factorydirect.ca may not be able to provide products, service or information required with such information.
 
-*If the customer is signing up for factorydirect.ca “email blast” on the website an email address is mandatory.  If the customer is applying for a Mail in Rebate, they must provide all the required personal information in order to receive the cheque.
+*If the customer is signing up for factorydirect.ca “email blast” on the website an email address is mandatory.  If the customer is applying for a Mail in Rebate, they must provide all the required personal information in order to receive the cheque. 
 
-## **HOW IS THE INFORMATION USED?**
+## COOKIES
+
+The web site uses "cookies", a technology that installs a small amount of information on a web site user's computer to permit the web site to recognize future visits using that computer. Cookies enhance the convenience and use of the web site. You may choose to decline cookies if your browser permits, but doing so may affect your use of the web site and your ability to access certain features of the web site or engage in transactions through the web site.
+
+## HOW IS THE INFORMATION USED?
 
 With the customer’s consent in providing the information, factorydirect.ca uses the information for a variety of reasons including (but not limited to):
 
@@ -18,15 +22,15 @@ With the customer’s consent in providing the information, factorydirect.ca use
 
 A customer’s information is not used or disclosed for purposes other than those set out herein, no is the information shared with third parties, such as for the sale of mailing lists.
 
-## **WHAT IS CONSENT?**
+## WHAT IS CONSENT?
 
 A customer’s knowledge and consent is required for the collection, use or disclosure of their personal information except as required by law.  During sales transactions, our employees may request the personal information set above, and by providing us with the information, the customer is consenting to our use of such information purposes set out herein.  When a customer fills out their information to subscribe to factorydirect.ca’s email blast, or to fill out a Mail in Rebate application, the customer is offering their consent.
 
-## **HOW DO WE KEEP A CUSTOMER’S INFORMATION SAFE?**
+## HOW DO WE KEEP A CUSTOMER’S INFORMATION SAFE?
 
 The security of a customer’s personal information is a big priority for factorydirect.ca.  factorydirect.ca maintains reasonable safeguards and appropriate security standards to protect a customer’s personal information against disclosure or misuse, which include: storage on access-restricted computer files that are password protected; and restrict access to the information to only the Mail in Rebate staff, and to Head Office managers.
 
-## **HOW LONG IS THE INFORMATION RETAINED?**
+## HOW LONG IS THE INFORMATION RETAINED?
 
 Personal information is retained only as long as necessary to fulfill the purposes for which it was collected and reasonable time thereafter, or to meet legal requirements.
 
@@ -34,11 +38,11 @@ Factorydirect.ca destroys a customer’s information or makes it anonymous when 
 
 A customer may request that the personal information be removed from our records subject to our requirements for continued retention of their information for warranty or exchange purposes, and factorydirect.ca will make every reasonable effort to meet a customer’s request.
 
-## **HOW CAN YOU INSURE THAT YOUR INFORMATION IS CORRECT?**
+## HOW CAN YOU INSURE THAT YOUR INFORMATION IS CORRECT?
 
 At any time, a customer may request access to their personal information to verify the accuracy and completeness thereof and have it amended appropriately.  Factorydirect.ca will try to accommodate all requests for access within hours of the request.
 
-### **FURTHER QUESTIONS OR CONCERNS**
+### FURTHER QUESTIONS OR CONCERNS
 
 You may direct any questions or concerns to:
 
@@ -52,21 +56,6 @@ You may direct any questions or concerns to:
 
 
 
-### **PRIVACY POLICY CHANGES**
+### PRIVACY POLICY CHANGES
 
 This privacy policy is subject to change as factorydirect.ca continues to modify and improve our practices and policies in order to serve the interests of our customers.
-
-  
-*We currently only ship out deals within Canada from our Ontario distribution warehouse.  
-Discounted shipping may be available on larger orders - please contact us for specific requests.  
-Wholesale volume prices may be available to qualified resellers excluding  
-product deals that are offered on sale, coupon or special promotion. 
-
-  
-*Prices & availability are subject to change without notice.
-
-factorydirect.ca is not responsible for typographical errors or omissions.  
-Product images are for representation only, Product may not be exactly as shown.   
-Trademarks and logos are properties of their respective owners.   
-factorydirect and factorydirect.ca are registered business names of Rlogistics Limited Partnership.  
-501 Applewood Crescent , Concord, Ontario, Canada L4K 4J3. 1-866-907-7788. 
