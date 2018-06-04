@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shareme.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204215730id_/http%3A//shareme.com/privacypage.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareme.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604130636id_/http%3A//shareme.com/privacypage.html) for the most accurate reproduction.*
 
 # Our Privacy Policy - Shareme.com respects your right to privacy
 
@@ -55,54 +55,58 @@ An intelligent freeware to fix common PC...
 
 ####  New Downloads
 
-  * [Office Timeline Free Edition 3.17.03](https://web.archive.org/details/office-timeline-free-edition.html)
+  * [Canvas Draw for Mac 4.0.2.60](https://web.archive.org/details/canvas-draw-for-mac.html)
 
-Office Timeline is a PowerPoint add-in that...
+Take your business to the next level with the...
 
-  * [SoftPerfect Connection Emulator 1.7.5](https://web.archive.org/details/softperfect-connection-emulator.html)
+  * [Easy Button & Menu Maker 5.2](https://web.archive.org/details/easy-button---menu-maker.html)
 
-A utility for developers that imitates network...
+Easily create cool, responsive, mobile-ready...
 
-  * [PopMessenger 1.62.3](https://web.archive.org/details/popmessenger.html)
+  * [ODBC Driver for xBase 1.1](https://web.archive.org/details/odbc-driver-for-xbase.html)
 
-Use this complete small to large enterprise...
+Devart ODBC Driver for xBase provides...
 
-  * [CompactSections 2.0.4](https://web.archive.org/details/compactsections.html)
+  * [AnyGantt JS Gantt Charts 8.2.0](https://web.archive.org/details/anygantt-js-gantt-charts.html)
 
-Construction of arbitrary 2D compact...
+AnyGantt is a flexible, cross-platform and...
 
-  * [Eassos Photo Recovery 2.6.1.417](https://web.archive.org/details/eassos-photo-recovery.html)
+  * [SoftPerfect WiFi Guard 2.0.2](https://web.archive.org/details/softperfect-wifi-guard.html)
 
-Eassos Photo Recovery is specialized photo...
+A specialised network scanner that helps to...
 
-  * [Audials Radiotracker 2018](https://web.archive.org/details/audials-radiotracker.html)
+  * [Cloud Secure 1.0.5](https://web.archive.org/details/cloud-secure.html)
 
-Radio Player and recorder of 100,000 Radios +...
+Cloud secure allows you to password protect...
 
-  * [Audials Tunebite Platinum 2018](https://web.archive.org/details/audials-tunebite-platinum.html)
+  * [Excel Add-in for Zoho CRM 1.7](https://web.archive.org/details/excel-add-in-for-zoho-crm.html)
 
-Audio &Video Converter for PC, Smartphone,...
+Devart Excel Add-in for Zoho CRM allows you to...
 
-  * [Syncios Data Transfer 1.6.1](https://web.archive.org/details/syncios-data-transfer.html)
+  * [UDB Workbench 3.4.2](https://web.archive.org/details/udb-workbench.html)
 
-Syncios Data Transfer provides simply yet...
+Database comparison and synchronization tool...
 
-  * [Active@ KillDisk 11.0.77](https://web.archive.org/details/active--killdisk.html)
+  * [FlexiHub 3.2](https://web.archive.org/details/flexihub.html)
 
-Active@ KillDisk provides the ultimate solution...
+FlexiHub is an excellent software solution that...
 
-  * [Eassos Recovery Free 4.3.1.316](https://web.archive.org/details/eassos-recovery-free.html)
+  * [DXF Laser Cutting Fonts 5.0](https://web.archive.org/details/dxf-laser-cutting-fonts.html)
 
-Eassos Recovery Free is user-friendly and free...
+CAD Tool for fast creating of letterings and...
 
 
 
 
 ####  Recent Searches
 
-[Free Games On Samsung Reclaim M560 Brick Breaker](https://web.archive.org/programs/free/games-on-samsung-reclaim-m560-brick-breaker), [As3 Timed Quiz](https://web.archive.org/programs/as3/timed-quiz), [Guitar Tuner Storm 2](https://web.archive.org/programs/guitar/tuner-storm-2), [Limewire Turbo Accelerator Free](https://web.archive.org/programs/limewire/turbo-accelerator-free), [Ldm Calculator](https://web.archive.org/programs/ldm/calculator), [Avnera Audio Devices](https://web.archive.org/programs/avnera/audio-devices), [Printable Coins Bingo Game](https://web.archive.org/programs/printable/coins-bingo-game), [Master Budget Project](https://web.archive.org/programs/master/budget-project), [Steel Shapes For Turbocad](https://web.archive.org/programs/steel/shapes-for-turbocad), [1990 Rookie Baseball Cards](https://web.archive.org/programs/1990/rookie-baseball-cards), [Driver Usb Vcom Port Gt E2120 Samsung](https://web.archive.org/programs/driver/usb-vcom-port-gt-e2120-samsung), [Smartlink Sl2800 Modem Drivers 32 Bit](https://web.archive.org/programs/smartlink/sl2800-modem-drivers-32-bit), [Forge UserSettings](https://web.archive.org/programs/forge/usersettings), [Danmarks Statsminister](https://web.archive.org/programs/danmarks/statsminister), [Decrypt 32 Hash](https://web.archive.org/programs/decrypt/32-hash)
+[Delphi Portable 2010](https://web.archive.org/programs/delphi/portable-2010), [Blufftitler Dx9 504 Download](https://web.archive.org/programs/blufftitler/dx9-504-download), [Itunes Mp3 Convert M4p](https://web.archive.org/programs/itunes/mp3-convert-m4p), [All In One Hdd Docking](https://web.archive.org/programs/all/in-one-hdd-docking), [Arc Software Webcam Downloads](https://web.archive.org/programs/arc/software-webcam-downloads), [Motivational Quotes Of The Day](https://web.archive.org/programs/motivational/quotes-of-the-day), [Iball Robo 351](https://web.archive.org/programs/iball/robo-351), [Mac Dcx Fax Viewer](https://web.archive.org/programs/mac/dcx-fax-viewer), [Convert Dft To Pdf Free](https://web.archive.org/programs/convert/dft-to-pdf-free), [Auto Body Shop Templates](https://web.archive.org/programs/auto/body-shop-templates), [Photo To Sketching Cartoon Software](https://web.archive.org/programs/photo/to-sketching-cartoon-software), [Driver Labrop Tcl K42](https://web.archive.org/programs/driver/labrop-tcl-k42), [How To Usb Connector](https://web.archive.org/programs/how/to-usb-connector), [Dialogic Delphi](https://web.archive.org/programs/dialogic/delphi), [Cute Cartoon Rabbit](https://web.archive.org/programs/cute/cartoon-rabbit)
 
 #### Latest Reviews
+
+  * [Acronis True Image for Mac ](https://web.archive.org/details/acronis-true-image-for-mac.html)   (Henry)
+
+Takes full backup of a Mac system which includes saved files and folder plus installed apps. 
 
   * [Lodgit Desk Hotel Software for Mac ](https://web.archive.org/details/lodgit-desk-hotel-software-for-mac.html)   (Arnold)
 
@@ -139,10 +143,6 @@ Fully featured document viewer which can be added in your page to load and read 
   * [Kiosk Software ](https://web.archive.org/details/kiosk-software.html)   (Emmerentiana)
 
 Restricts access to the public computers and kiosks to prevent changes or viruses from affecting it, hence you need no... 
-
-  * [Vrode Script Editor ](https://web.archive.org/details/vrode-script-editor.html)   (Brochan)
-
-If you are a script coder you must have gone through some of the popular editors for writing new scripts or editing the... 
 
 
   
