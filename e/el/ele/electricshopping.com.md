@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electricshopping.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201225344id_/http%3A//www.electricshopping.com/cookies-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electricshopping.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604125819id_/http%3A//www.electricshopping.com/cookies-privacy) for the most accurate reproduction.*
 
 # Cookies & Your Privacy
 
@@ -38,7 +38,7 @@ We currently do not have a way to offer you a cookie free site nor to allow you 
 
 Protecting your personal details on our website.
 
-Last updated: 24 November 2015
+Last updated: 24 November 2017
 
 Electricshopping.com Limted (registered number 5048784), whose registered office is at 22-24 Homecroft Road, London, N22 5EL, knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice describes our privacy policy and forms part of our website terms and conditions ('Website Terms').
 
