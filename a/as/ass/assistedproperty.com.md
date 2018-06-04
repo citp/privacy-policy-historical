@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the assistedproperty.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119170637id_/http%3A//www.assistedproperty.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the assistedproperty.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604045734id_/http%3A//www.assistedproperty.com/policy.php) for the most accurate reproduction.*
 
 # Assisted Property Service | Property Search Manager | Find Property in India
 
