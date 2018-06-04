@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the lnttechservices.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202230958id_/http%3A//www.lnttechservices.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lnttechservices.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604204342id_/http%3A//www.lnttechservices.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | L&T Technology Services | L&T India
-
-Skip to main content 
 
 ### Introduction
 
@@ -12,6 +10,20 @@ Skip to main content
 
 
 
+
+###  **GDPR (General Data Protection Regulation)**
+
+We use your personal data only with your consent and not otherwise.
+
+The European law gives their citizens a number of rights in relation to their personal information. Basis the same GDPR policy, we allow you to do the following with us if you are from a European country.
+
+  * You have the right to withdraw your consent (“unsubscribe”) for your personal information. You can do this by following the [link](http://www.lnttechservices.com/dashboard/page#block-unsubscribeformblock) and use the “Unsubscription” section. 
+  * You have the right to request with us the “consent history” on our website. You can do this by following the [link](http://www.lnttechservices.com/dashboard/page#block-unsubscribeformblock) and use the “Consent History” section. 
+  * You have the right to double opt-in for every consent that you provide. This can be done everytime you submit a form with us. Unless you provide the “double opt-in” confirmation, we do not add your information to the consent history. 
+
+
+
+Feel free to reach us out at [info@lnttechservices.com](mailto:info@lnttechservices.com) for any of your privacy concerns.
 
 ### Collecting Personal Information
 
