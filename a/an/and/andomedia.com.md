@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the andomedia.com privacy policy that was archived on 2017-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170405015039id_/https%3A//www.tritondigital.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andomedia.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604140301id_/https%3A//www.tritondigital.com/privacy-policy) for the most accurate reproduction.*
 
-# Triton Digital - Privacy Policy
+# Triton Digital - Website Privacy Policy
+
+[Privacy Policies](https://www.tritondigital.com/privacy-policies) >> Website Privacy Policy
 
 This Privacy Policy sets out the manner in which Triton Digital Inc. (“Triton Digital”, “we”, “us”, “our”) collects, uses, discloses and otherwise manages personal information of visitors of tritondigital.com (the "Site"). Because we are committed to respect the privacy of our users and because the success of the Site is dependent on building and maintaining goodwill with our users, we are committed to implementing measures designed to respect and protect your privacy. Moreover, we see it as our responsibility to set an example, and to help establish standards for privacy on the Internet. This policy does not apply to the use of products and services provided by us on behalf of our clients. To read the privacy policy that applies to our streaming, advertising, engagement, contests and/or sweepstakes (collectively the “Services”), [click here](http://tritondigital.com/privacy-policy-services).
 
