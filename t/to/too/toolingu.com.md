@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toolingu.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624002234id_/http%3A//toolingu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toolingu.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604085131id_/http%3A//www.toolingu.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Tooling U-SME
 
@@ -28,7 +28,7 @@ This Privacy Statement addresses your privacy by:
 
 Accountability
 
-The Company is responsible for your personal Information under its control. The Company has appointed an officer who is accountable for the Company's compliance with these privacy principles. Chad Schron has been designated the Company's privacy officer in connection with these privacy principles. Chad Schron can be reached by telephone at (866) 706-6601, by e-mail at [info@toolingu.com](mailto:info@toolingu.com) or by regular mail to Tooling University, 3615 Superior Avenue East, Building 44, 5th Floor, Cleveland, Ohio 44114. Questions, requests for copies of policies or practices, comments or challenges concerning compliance should be directed to the privacy officer.
+The Company is responsible for your personal Information under its control. The Company has appointed an officer who is accountable for the Company's compliance with these privacy principles. The Company's privacy officer can be reached by telephone at (800) 733-4763, by e-mail at [privacy@sme.org](mailto:privacy@sme.org) or by regular mail to SME, 1000 Town Center, Suite 1910, Southfield, Michigan 48075. Questions, requests for copies of policies or practices, comments or challenges concerning compliance should be directed to the privacy officer.
 
 Unfortunately, neither Tooling University's computer systems, data storage systems, nor data transmission over the Internet, can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot ensure or warrant the security of your personal information.
 
@@ -83,7 +83,7 @@ By visiting the Website and providing the Company with data, you acknowledge and
 
 We will not disclose Personal Information if such disclosure is prohibited under applicable law, and we will comply with applicable law in connection with any disclosures that are permitted thereunder. Any third party we share, rent, sell or otherwise disclose data to will be prescreened by us as part of reasonable efforts to ascertain that they are reputable and that they will use the Personal Information only for the processing purposes we request or marketing purposes that we determine you might be interested in and in accordance with applicable law. In all events, we will comply with our privacy obligations, if any, under FERPA. We will use reasonable efforts to make sure that all such third parties are contractually prohibited from using or disclosing Personal Information for any purposes other than for that which they have been engaged and they are contractually required to maintain the security of the Personal Information provided by the Company, and to process such Personal Information only on our instructions, in compliance with this Privacy Statement, and in an appropriate confidential and secure manner.
 
-In accordance with California law, California residents are entitled to request certain disclosures regarding certain Personal Information the Company may provide to third parties for direct marketing purposes. Such disclosures will be provided to you, if required by law, and upon written request directed to the Company at: [info@toolingu.com](mailto:info@toolingu.com) or by regular mail to Tooling University, 3615 Superior Avenue East, Building 44, 5th Floor, Cleveland, Ohio 44114.
+In accordance with California law, California residents are entitled to request certain disclosures regarding certain Personal Information the Company may provide to third parties for direct marketing purposes. Such disclosures will be provided to you, if required by law, and upon written request directed to the Company at: [privacy@sme.org](mailto:privacy@sme.org) or by regular mail to SME, 1000 Town Center, Suite 1910, Southfield, Michigan 48075.
 
 Consent and Opting Out
 
@@ -103,7 +103,7 @@ Additionally, we may sell or otherwise transfer such information to a successor 
 
 Modifications
 
-This Privacy Statement, along with the additional Student Privacy Statement listed below, were issued on October 14, 2011 and are subject to future modification at the election of the Company. In the event of a material modification to the terms and conditions of these Privacy Statements, the Company will post a notice on this page advising you of any such changes.
+This Privacy Statement, along with the additional Student Privacy Statement listed below, were issued on May 24, 2018 and are subject to future modification at the election of the Company. In the event of a material modification to the terms and conditions of these Privacy Statements, the Company will post a notice on this page advising you of any such changes.
 
  
 
@@ -132,7 +132,7 @@ This Privacy Statement addresses your privacy by:
 
 Accountability
 
-The Company is responsible for your Education Records under its control. The Company has appointed an officer who is accountable for the Company's compliance with these privacy principles. Chad Schron Howard has been designated the Company's privacy officer in connection with these privacy principles. Chad Schron can be reached by telephone at (866) 706-6600, by e-mail at [info@toolingu.com](mailto:info@toolingu.com) or by regular mail to Tooling University, 3615 Superior Avenue East, Building 44, 5th Floor, Cleveland, Ohio 44114. Questions, requests for copies of policies or practices, comments or challenges concerning compliance should be directed to the privacy officer.
+The Company is responsible for your Education Records under its control. The Company has appointed an officer who is accountable for the Company's compliance with these privacy principles. The Company's privacy officer can be reached by telephone at (800) 733-4763, by e-mail at [privacy@sme.org](mailto:privacy@sme.org) or by regular mail to SME, 1000 Town Center, Suite 1910, Southfield, Michigan 48075. Questions, requests for copies of policies or practices, comments or challenges concerning compliance should be directed to the privacy officer.
 
 Unfortunately, neither Tooling University's computer systems, data storage systems, nor data transmission over the Internet, can be guaranteed to be 100% secure. As a result, while we strive to protect your Education Records, and to utilize such methods as are required under applicable law, since no method can be guaranteed to be 100% secure, we cannot ensure or warrant the security of your Education Records.
 
