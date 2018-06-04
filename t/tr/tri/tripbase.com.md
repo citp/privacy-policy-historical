@@ -1,68 +1,124 @@
-> *The following text is extracted and transformed from the tripbase.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228002057id_/http%3A//www.tripbase.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripbase.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604110600id_/http%3A//www.tripbase.com/privacy.php) for the most accurate reproduction.*
 
 # Tripbase.com - Privacy Policy
 
 ## Privacy Policy
 
-Cricket Traveling LTD (in this policy: "the Company", "We", "Us", or "Our") respects your privacy. This policy explains the accepted privacy practices for our website at [www.Tripbase.com](https://web.archive.org/) ("Tripbase"). 
+We, Cricket Traveling Ltd, are committed to protecting and respecting your privacy and we make it our highest priority to safeguard the confidentiality of any and all personal information you provide to us. 
 
-This policy covers, among other things, what personal information we collect from you, whether you are a registered user or not, how we use the information, with whom We share the information, the data obtained automatically when you use Tripbase and how We retain it. 
+This policy sets out the approach that we take to the collection and handling of any such information and applies to all websites, mobile apps and other services operated by us such as newsletters (the "Services"). 
 
-We may change the terms of this Policy from time to time. We recommend that you read it periodically. 
+By using the Services you are deemed to agree to our use of your information in accordance with this policy. We encourage you take a few minutes to read through and contact us if you have any queries. 
 
-### Personal Information we collect
+In the event of any changes to our approach, we will update this policy and post the latest version on this page - please check back regularly to ensure you remain up to date. 
 
-When you register with Tripbase we will ask you to provide personal details such as your age, gender and e-mail address. The fields for compulsory completion will be explicitly indicated. If you do not enter the requisite data in these fields, you will be unable to register with certain Services on Tripbase. 
+### What kind of information we collect?
 
-We may collect further information when you use Tripbase. For example, we may record the frequency and scope of your use of Tripbase, the duration of your sessions, web pages that you visit, information that you read, content that you use or post, advertisement banners that you click on, the Internet protocol (IP) address that serves you to access Tripbase and the geographic location from where you logged-in. We automatically gather this information, through the use of log files. If you are registered with Tripbase, the information We gather may be anonymous or in some instances personally identifiable. If you are not a registered user, than We will not knowingly collect any such information which may personally identify you. 
+Most information that we collect from you is linked to non-personal identifiers such as anonymous User IDs or device IDs, and does not enable you to be identified as an individual in the offline world ("Non-Personal Information"). Such Non-Personal Information includes things like your browser type, the type of device you are using, access times, the features or functionality you selected whilst using the Services and your general geographic location. As a rule, we will analyze this Non-Personal Information only statistically in order to prevent errors and to improve our Services. 
 
-Further information may be collected when we exchange communications with you, for example, if you submit a request to our customer service representative, or when our designated copyright agent is in contact with you with respect to your content on Tripbase. 
+If you choose to register to our newsletter, we will also collect information from you that do enable you to be identified as an individual in the offline world, such as your name or email address ("Personal Information"). Whether or not you provide us with this kind information is always entirely under your control. In order to minimize the impact on your privacy, we will never knowingly collect more Personal Data than is strictly necessary to perform the activities described in this policy. 
 
-### What shall we do with your personal information?
+### How and when we collect this information?
 
-We will use personally identifiable information for the following purposes only: 
+We collect information that you voluntarily provide to us during your use of the Services. This can range from Non-Personal Information, such as the dates and desired destination you ask us to run a search against, to the Personal Information you are required to submit where you wish to register to our newsletter. 
 
-'  |  To enable you to use Tripbase, including the content that you post, or upload to Tripbase;   
+In addition to information that you voluntarily provide to us, we also collect certain Non-Personal Information directly from you as you use the Services, as well as indirectly where it is provided to us automatically by the third party application, social networking site (such as Facebook or Twitter) or other website (such as a promotion partner) that you connect to the Services from. 
+
+### How do we use this information?
+
+####  To deliver the Services 
+
+We use your information to deliver the Services and the specific features and functionality you request. This includes things like generating the search results that most accurately match your search criteria, storing your Personal Information in order to email you newsletters that you have selected to receive. 
+
+####  To optimize & personalize the Services 
+
+In addition to using your information to deliver the essential aspects of the Services, we also use it to optimize and personalize your experience of the Services. For example, we will use cookies to remember your language and currency preferences and may also personalize your experience by highlighting or recommending certain information or travel options that we believe is relevant to you based on your search history and use of the Services. 
+
+####  To deliver appropriate advertising 
+
+To work with online advertising companies to display targeted advertising on our website and third party websites that you visit. This targeting may be based on information you submit on our website or third party websites. This targeting may also be based on your activities or behaviors on our website or those of third parties. We may also obtain information about your browsing history from our business partners. To learn more about targeted advertising and how you can accept or refuse (opt-out of) this type of advertisements, we recommend that you visit [www.aboutads.info/choices](https://www.aboutads.info/choices) or [www.youronlinechoices.eu](https://www.youronlinechoices.eu/)
+
+####  To better understand and improve the Services 
+
+We or our third party service providers may set analytics cookies. These allow us to gather aggregated or segmented information about the types of visitors that access our website and the pages and advertisements that they view. In order to better understand your use of our website, we or our third party service providers may collect information on such use, including pages visited, links clicked and mouse movements. We do not use this information to personally identify you. 
+
+####  To contact you 
+
+We use your Personal Information to contact you with email newsletters you have requested. We may also respond to communications you have sent us. 
+
+### Do any third parties collect information about me when I use the Services?
+
+Yes, where you make a booking with a third party travel provider to which you are referred to from our website. Note that any information you submit as part of the booking process may be collected by that third party in order to process the booking. Your information will be used by those third parties in accordance with their own terms and conditions and privacy policy, a link to which will be provided to you during the booking process. 
+
+In addition, third party advertisement services may collect Non-Personal Information from you as you use the Services via cookies and other similar technologies. This information enables you to be served with relevant advertisements, both on the Services and on third party websites and applications around the web. Further information about the use of such technologies, and how to stop them, is set out in the "How do we use cookies and other tracking technologies?" section below. 
+
+### How we share your Information?
+
+As a search engine, this website only brokers the deals of the relevant travel provider websites. Accordingly, a booking is made on the pages of such travel provider booking website. In each case you enter into a contract with the relevant travel provider's website, data will be collected there directly by the third party. Please be aware that we are not responsible for the privacy practices of such third party websites. When you leave or otherwise cease using the Services, or transfer your information from the Services to a third party platform, we encourage you to read the applicable privacy policies of each and every third party platform that you allow collecting information from you. 
+
+We may share your information with our corporate affiliates and with third parties for our legitimate business purposes as permitted by law. For example, we may share your information with suppliers who perform services on our behalf and have agreed in writing to protect and not further disclose your information. 
+
+We may disclose information if required by law, for example to law enforcement or other authorities. This includes court orders, subpoenas and orders arising from legal processes, and administrative or criminal investigations. We may also disclose your information if the disclosure is necessary for the prevention, detection or prosecution of criminal acts or to prevent other damage, or in response to a legal action or to enforce our rights and claims. 
+
+We may also share anonymous aggregated usage information with others.
+
+### How do we store your Information?
+
+Our servers and data centers are located in USA, and our travel providers may be located there and in other countries. By providing us information, you agree that your information may be transferred to and stored in these countries. As a result, your personal information may be subject to access requests from governments, courts, or law enforcement in those countries according to laws in those countries. Subject to the applicable laws in such other countries, we will provide the necessary safeguards to maintain protections of your personal information, e.g. by obtaining from the data recipients contractual commitments based on the EU model clauses. 
+
+### How do we keep your Information safe and secure?
+
+We make the confidentiality and security of your Personal Information our highest priority and we limit access to it to our employees who need to come into contact with it in order to fulfill their role and enable the Services to be provided to you. 
+
+Although we do our best to protect your Personal Information, the transmission of information via the internet can never be completely secure and we are therefore unable to guarantee the security of the information which you share with us at your own risk. 
+
+* * *
+
+## Cookies
+
+### Do we use Cookies? 
+
+A cookie is a small file, typically of letters and numbers, downloaded on to a device when the user accesses certain websites. Cookies are then sent back to originating website on each subsequent visit. Cookies are useful because they allow a website to recognize a user"s web browser or device. 
+
+We use a combination of cookies and similar tracking technologies to collect, in line with this policy, Non-Personal Information from you relating to how you are using the Services. The primary purpose for our use of cookies is to ensure the optimal delivery of our services. In addition, we use third party cookies for statistics and to analyze user behavior. 
+
+### How can you choose to opt-out?
+
+Your browser may give you the ability to block or delete cookies should you wish to do so. Please see the "Help" menu in your browser for further information. Please note that blocking all cookies will have a negative impact upon the usability of many websites, including our own. We therefore recommend that you permit the use of cookies when using our websites. 
+
+### How do we use cookies and other tracking technologies?
+
+Cookies on our website may be set by us, by third parties under contract with us, or by independent third parties such as advertisers. 
+
+Our site makes use of both "session" and "persistent" cookies. "Session" cookies remember information from page to page for filtering and completing searches before being removed when you end your session. "Persistent" cookies enable our websites to recognize you when you make return visits to us, and remain stored on your computer until deleted, or until they reach a specified expiry date. Persistent cookies placed on your computer as a result of your use of our website will never be stored for longer than 12 months from the date of your last visit. 
+
+The table below sets out the various types of cookies we use, why we (or relevant third parties) use them, and includes information you can use to control and learn more about the cookies used on our site. 
+
+Cookie Type  |  Why we use it and additional information   
 ---|---  
-'  |  To provide you from time to time with information pertaining to the Services;   
-'  |  To adjust the Services to your personal preferences;   
-'  |  To facilitate the purchase of products and services on Tripbase, if and when possible, and to display information and advertisements pertaining to products and services which might interest you;   
-'  |  To contact you as and when We believe it to be necessary;   
-'  |  To send you, from time to time, information pertaining to our Services, as well as marketing and advertising material, whether ours or others'. We will not send marketing and advertising material unless you give Us your express consent thereto at the time of registration or at any other time. You may withdraw your consent at any time and cease receiving material of this kind, by sending our customer service representative a notification to: info@Tripbase.com. In any case, We will not share your personal details with any advertisers, without your explicit consent.   
-'  |  To any other purpose, as stipulated in this Policy, or in the Terms of Use governing the use of Tripbase ("Terms of Use").   
+Essential |  Essential cookies, as their name suggests, are vital to the proper functioning of the website. They enable us to remember your selections between pages, such as routes, dates and the number of travellers, meaning we can pass that information on to our booking partners without you ever having to re-enter it.   
+Performance / User Experience |  make sure the correct results are being delivered in accordance with your selections. We also use cookies to heighten your experience by recognizing whether you are a first time visitor and remembering your preferences (such as language or currency type) and previous searches.   
+Analytics |  We also use cookies to monitor and understand more about how our websites and services are used and accessed, which in turn lets us optimize the user experience and build a website that suits the needs of our users and drive the direction of our business. We use Google Analytics who store cookies on your device to generate anonymous reports and statistics.Google stores this information in accordance with their privacy policy.   
+Advertising |  Our website serves advertisements that are relevant to you by displaying interest-based advertisements. We also use advertising solutions delivered by third parties (such as: ADARA, SmarterTravel Media, Intent Media, MediaAlpha, Google DoubleClick for Publishers (DFP), Google Adsense for Search (AFS), SalesForceDMP, etc.) to serve you advertisements relating to the Services when you are on other websites. 
+
+These tailored advertisements are served by third parties using cookies which will track your behavior across the web, using anonymous statistical rather than personally identifiable information, including information relating to your use of the Services, your location and demographic characteristics. Third party advertisers may also use cookies, for such purposes of ensuring relevant advertisements are being displayed, to help prevent the same adverts being served twice to the same user, and to ensure that adverts are correctly sized and don't detract from your experience of the site. 
+
+### Opt-Out
+
+You can opt-out of third-party advertising networks using your information for interest-based advertising. To learn more about targeted advertising and how you can accept or refuse (opt-out of) this type of advertisements, we recommend that you visit [www.aboutads.info/choices](https://www.aboutads.info/choices) or [www.youronlinechoices.eu](https://www.youronlinechoices.eu/)
+
+Your information will not be shared with our third party advertising network partners for the purpose interest-based advertising if you opt-out, however, you will continue to receive interest-based advertising from us when using the Services. Please note these opt-out mechanisms use a cookie on your device, and if you clear the cookies from your browser it will "forget" the opt-out. You will need to opt-out on each device you use to access the Service.   
   
-We may use anonymous information for the proper operation and function of the Services, to improve the quality of the Services and to enhance your experience, to create new services, including services tailored to users' personal requirements and expectations, and to change or cancel existing features and content. We may share such information with others, provided that it does not identify you personally. 
+### Do we collect Personal Information from minors?
 
-### Sharing and disclosing information
+We do not knowingly collect Personal information from minors. If we become aware that a minor is attempting to submit Personal Information, we will remove this information from our records. If you are the parent/legal guardian of a minor who has given us Personal Information, please contact us so we can delete it. 
 
-We may share personally identifiable information with others in any of the following instances: 
+### How can I access or manage my Personal Information?
 
-'  |  When you purchase products or services from our business partners, or take part in any content-related activity they offer, we may share with our partners any information required for completion of the purchasing process, or for the performance of the relevant content-related activity, as well as for maintaining contact with you, when necessary;   
----|---  
-'  |  If we reasonably believe that you have breached the Terms of Use or abused the Services;   
-'  |  If by using Tripbase, you perform or attempt to perform any activity which we may reasonably believe to be illegal;   
-'  |  If We are required by law to do so;   
-'  |  In any case where We may reasonably believe that sharing information is necessary to prevent physical damage or damage to property;   
-'  |  If We organize the operation of the Services within a different framework, or through another legal structure or entity, or if We are acquired by, or merged with another entity, provided, however, that those entities agree to be bound by the provisions of this policy, with respective changes taken into consideration;   
-  
-We may also share personal information with companies or organizations connected, or affiliated with Us, such as subsidiaries and parent companies, with the express provision that their use of such information must comply with this Privacy Policy; 
+You are entitled at any time to obtain information about all your Personal Information that we store, in accordance with applicable law and without any fee. However, in exceptional cases we ask you to pay reasonable fee before we provide the information if permitted by applicable law. Please note that Personal Information is only collected when a user chooses to register to our newsletter. 
 
-### Cookies
+We may request proof of your identity before providing this information. We may not be able to allow you to access certain Personal Information in some cases. For example, if your Personal information is connected with personal information of other persons, or for legal reasons. In such cases we will provide you with an explanation why you cannot obtain this information. 
 
-We may use cookies on our Services. Cookies are packets of information sent by our servers to your web browser and then sent back by the browser each time it accesses our servers. 
+You can also withdraw your consent to the use of your personal information and/or demand deletion or rectification of your personal information at any time by contacting us at the address below. 
 
-The cookies may contain a variety of information, such as the Tripbase's pages you have accessed, session durations and IP addresses. We may also use cookies to save you the need to re-enter your username and password each time you log-in on Tripbase. 
-
-We may use cookies for various purposes, such as to facilitate the use of Services, to collect statistical information about the use of the Services, to verify information, to adjust the Services to your personal preferences and for information security purposes. 
-
-Some of the Cookies may expire when the session ends and you exit your browser. Other cookies are saved on your computer's hard drive. If you wish to block our cookies, you may do so by clicking the "options" button on your browser's menu and follow the necessary instructions. You can read your browser's Help file of for further information. However, bear in mind that disabling cookies may complicate or even prevent the use of the Services, or certain features thereof. 
-
-### Advertising campaigns
-
-We may permit certain other companies to conduct advertising campaigns and collect non-personally identifiable information on Tripbase. The advertisements that you see when accessing Tripbase are redirected from the servers of those advertising companies. Some advertisers may use cookies on your computer. The cookies enable them to collect information about websites that you have accessed, advertisements posted on those sites and the advertisements that you have viewed. In this manner advertisers try to display advertisements on Tripbase, other websites and other forms of media that are tailored to your preferences. The use made by the advertisers of cookies is subject to their own privacy policies and not to this Policy. If you wish to study the privacy policies of those advertisers you should visit their websites, or contact them directly.If you would like more information about the practices of some of these third party advertising companies and learn which of these companies allow you to opt-out of this type of information collection, please click [here](http://www.networkadvertising.org/managing/opt_out.asp). 
-
-### Information Security
-
-We implement systems, applications and procedures to secure your personal information, to minimize the risks of theft, damage, loss of information, or unauthorized access or use of information. However, these measures are unable to provide absolute assurance. We therefore do not guarantee that the Services and our databases shall be immune from any wrongdoings and malfunctions. 
-
-If you would like your personal information such as browser type and operating system not to be stored by ADTECH and want to avoid ADTECH cookies please click on the link following link [ADTECH opt out](http://www.adtechus.com/cookie_opt-out/). 
+To exercise your rights, or if you have questions about our privacy practices or need assistance with exercising or understanding your privacy choices, please contact our Data Protection Officer at [privacy@tripbase.com](mailto:privacy@tripbase.com) or you may write to: [info@tripbase.com](mailto:info@tripbase.com)
