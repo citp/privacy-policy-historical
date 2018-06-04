@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdfmyurl.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202013403id_/http%3A//pdfmyurl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfmyurl.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604121058id_/http%3A//pdfmyurl.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,21 +11,39 @@ PDFmyURL respects the privacy of users of our service ('SERVICE'). PDFmyURL will
 
 
 
-You agree that PDFmyURL may have access to your email information (where paid service is used) and documents submitted for conversion to PDF format, including contents, for any of the above-stated reasons, or to respond for service or technical issues. 
-
-PDFmyURL is the sole owner of information collected on PDFmyURL.com and does not sell, share, or rent this information to others in ways different from what is disclosed in this statement.
+[Kaiomi](https://www.kaiomi.com/) is the sole owner of information collected on PDFmyURL.com and does not sell, share, or rent this information to others in ways different from what is disclosed in this statement.
 
 ## Information collected
 
-Where collected, e-mail addresses are used to contact users regarding specific services for which they have expressed interest. Email addresses are not shared with outside parties.
+We keep the information that we collect to an absolute minimum, because we value your privacy.
 
-PDFmyURL uses logged IP address information to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
+If you're just visiting our site and you don't have a paid or trial account with us, then we do not collect any personal information. The only thing we may see in our logs is your IP address and which documents you converted at which point in time. Those logs are cleared out monthly.
+
+If you sign up for a trial or paid account, then we request a name and email address. It's up to you what you fill in of course, but we will send you the account information at that email address. You will also be added to our mailing list. You can change your data in our members area anytime and you can unsubscribe to our mailing list with every mail that we send or by dropping us an email at support@pdfmyurl.com. We also log your conversions so you can view them in our members area and in order to determine your usage. You can request to have the details of those conversions (the URLs) cleared if needed.
+
+For Paid accounts all other personal information is stored with our payment provider - [FastSpring](https://www.fastspring.com/).
+
+None of the above information is shared with any third parties.
+
+If you have used our service in the past and would like to have any of your data removed then please contact us at support@pdfmyurl.com. Note that if you don't have a paid or trial account with us this information is already cleared out monthly. For paid or trial accounts - you can clear out your name & email address in our [members area](https://members.pdfmyurl.com/) and you unsubscribe to our mailing list on any email we send.
 
 ## About cookies
 
-In order to better understand what happens on pdfmyurl, we use cookies. A cookie is a small text file that a Website writes to your hard drive. Cookies work as your identification tag and may be used to identify you between visits / clicks; cookies let the web page server know that you have returned to this site. Cookies also can determine other information, such as the daily visitors to our website and the pages of the site most frequently visited. They cannot be executed as code or deliver viruses. Cookies are unique and can only be read by the server that assigns them. [Here is an article explaining what cookies are.](http://www.opentracker.net/en/articles/all-about-cookies-third-party.jsp)   
-You can change the settings in your browser to prevent cookies if you do not want to have a cookie set when you visit our website. However, by doing so, you may not have full access to all the web pages and functionality of our service. 
+In order to tie your paid account to conversions when you browse the web, we use cookies. A cookie is a small text file that a Website writes to your hard drive. Cookies work as your identification tag and may be used to identify you between visits / clicks; cookies let the web page server know that you have returned to this site. Cookies also can determine other information, such as the daily visitors to our website and the pages of the site most frequently visited. They cannot be executed as code or deliver viruses. Cookies are unique and can only be read by the server that assigns them. [Here is an article explaining what cookies are.](http://www.opentracker.net/en/articles/all-about-cookies-third-party.jsp)   
+You can change the settings in your browser to prevent cookies if you do not want to have a cookie set when you visit our website. However, by doing so, you won't be able to get your member settings when you convert webpages to PDF. 
 
-PDFmyURL reserves the right to augment this Privacy Policy as the service evolves, particularly if/when added services require the collection of additional user information. 
+## About the GDPR
+
+If you are a citizen or business in EU (like we are) then the [GDPR](https://ec.europa.eu/info/law/law-topic/data-protection/reform/rules-business-and-organisations_en) applies to you.
+
+We are in full compliance with GDPR (as with any laws in all jurisdictions that we operate in) and you can send any requests about this to support@pdfmyurl.com
+
+## Future Amendments
+
+We reserve the right to augment this Privacy Policy as the service evolves, particularly if/when added services require the collection of additional user information. 
 
 Should you have further questions or concerns about these privacy policies, please send us a message via the [contact page](https://web.archive.org/contact)
+
+* * *
+
+This policy was last updated on May 23rd, 2018 
