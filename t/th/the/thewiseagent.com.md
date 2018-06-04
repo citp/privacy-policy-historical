@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewiseagent.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217123707id_/http%3A//www.thewiseagent.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewiseagent.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604102230id_/http%3A//thewiseagent.com/privacy.asp) for the most accurate reproduction.*
 
 # Wise Agent -Privacy Statement
 
@@ -95,7 +95,7 @@ This Policy does not apply to Personal Information collected offline.
 
 ###### CHILDREN'S ONLINE PRIVACY PROTECTION ACT COMPLIANCE
 
-Our Services are intended for and directed towards adults. Our Services are not directed to minors and we do not knowingly collect Personal Information from minors. If you are under the age of 13, do not use the Site, make any purchases through the Site, or provide any information on the Site, including your name, email, address, telephone number or address. 
+Our Services are intended for and directed towards adults. Our Services are not directed to minors and we do not knowingly collect Personal Information from minors. If you are under the age of 18, do not use the Site, make any purchases through the Site, or provide any information on the Site, including your name, email, address, telephone number or address. 
 
 ###### YOUR CALIFORNIA PRIVACY RIGHTS
 
@@ -117,7 +117,7 @@ www.wiseagent.com
 16766 E. Parkview Ave., Suite 201  
 Fountain Hills, Arizona 85268  
 USA  
-contactus@wiseagent.com  
+support@wiseagent.com  
 480-836-0345  
 
 
