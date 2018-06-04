@@ -1,17 +1,16 @@
-> *The following text is extracted and transformed from the adkreator.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201151333id_/http%3A//www.adkreator.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adkreator.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604082045id_/http%3A//adkreator.com/privacypolicy.php) for the most accurate reproduction.*
 
-# Adkreator
+# AdKreator
 
 ### AdKreator PRIVACY POLICY
 
-  
-Last Updated: May 2010
+Last Updated: January 2018
 
 **By using the site you consent to the collection, use and disclosure of your personal information in accordance with this policy.**
 
 AdKreator is committed to protecting your privacy. This privacy policy tells you about our online collection, use and disclosure of personal information. The terms of this policy apply to all personal information collected by AdKreator on the website AdKreator.com and other country-specific AdKreator websites which are linked to AdKreator.com.
 
-This site is operated by Justin Ledvina (AdKreator), and may be accessed in USA and abroad. For personal information protection purposes, AdKreator is the controller and, unless otherwise noted, is also the processor of the personal information. Information collected may be retained as long as it is reasonably required for the purposes it was collected.
+This site is operated by Barbara DelGiudice (AdKreator), and may be accessed in USA and abroad. For personal information protection purposes, AdKreator is the controller and, unless otherwise noted, is also the processor of the personal information. Information collected may be retained as long as it is reasonably required for the purposes it was collected.
 
 **Consent to Collection of Your Personal Information**
 
@@ -21,27 +20,29 @@ We only collect personal information about you after you have provided us with y
 
 **Personal information includes:**
 
-1\. information collected when you register including your member name and password, your name, your mailing address, email address, and phone number. 
+  * 1\. information collected when you register including your member name and password, your name, your mailing address, email address, and phone number.
+  * 2\. information collected when you make a purchase including your credit card number and billing address.
+  * 3\. if you become a contributor, information collected when you sign-up as a contributor including (i) banking and other financial institution information required in order for us to compensate you; (ii) your social insurance number required in order for us to prepare tax information slips; and (iii) a copy of your photo identification (for example, your driver's license).
 
-2\. information collected when you make a purchase including your credit card number and billing address. 
 
-3\. if you become a contributor, information collected when you sign-up as a contributor including (i) banking and other financial institution information required in order for us to compensate you; (ii) your social insurance number required in order for us to prepare tax information slips; and (iii) a copy of your photo identification (for example, your driver's license). 
 
-You may always choose not to provide personal information, but if you so choose, certain products and services may not be available to you.
+You may always choose not to provide personal information, but if you so choose, certain products and services may not be available to you. 
 
 **Use of Your Personal Information**
 
-AdKreator collects and uses your personal information to:
+AdKreator collects and uses your personal information to: 
 
-create and manage your membership account;  
-process your transactions;   
-provide customer service;   
-perform research and analysis aimed at improving our products, services and technologies;   
-to display content that is customized to your interests and preferences;   
-to run contests, select entrants, and choose prize winners;   
-to run Interactive Areas; 
+  * create and manage your membership account;
+  * process your transactions;
+  * provide customer service;
+  * perform research and analysis aimed at improving our products, services and technologies;
+  * to display content that is customized to your interests and preferences;
+  * to run contests, select entrants, and choose prize winners;
+  * to run Interactive Areas;
 
-Personal information collected by AdKreator may be stored and processed in USA or any other country in which AdKreator or its parent, affiliates, subsidiaries or agents maintain facilities, and by providing us with your personal information and using our sites or services, you consent to any such transfer of information outside of your country. If you would like to exercise any of your personal information protection rights (including the right to have your personal information deleted), please contact us using the "Contact Information" below.
+
+
+Personal information collected by AdKreator may be stored and processed in USA or any other country in which AdKreator or its parent, affiliates, subsidiaries or agents maintain facilities, and by providing us with your personal information and using our sites or services, you consent to any such transfer of information outside of your country. If you would like to exercise any of your personal information protection rights (including the right to have your personal information deleted), please contact us using the "Contact Information" below. 
 
 **Disclosing Your Personal Information**
 
@@ -69,19 +70,17 @@ In addition to cookies, we may use other technologies, including single-pixel gi
 
 **Security of Your Personal Information**
 
-The security of your personal information is important to us. We follow generally accepted industry standards to help protect your personal information including without limitation:
+The security of your personal information is important to us. We follow generally accepted industry standards to help protect your personal information including without limitation: 
 
-limiting access to your personal information to those of our employees who require it to provide services to you;
+  * limiting access to your personal information to those of our employees who require it to provide services to you;
+  * requiring employees to sign confidentiality agreements to protect customer and other confidential information;
+  * ensuring that third-party service providers sign confidentiality agreements to maintain the confidentiality of your personal information and not to use it for any unauthorized purposes;
+  * encrypting credit card information on our order forms using secure socket layer (SSL) technology; and
+  * storing your personal information in secure computer systems which protect it from unauthorized access or use.
 
-requiring employees to sign confidentiality agreements to protect customer and other confidential information; 
 
-ensuring that third-party service providers sign confidentiality agreements to maintain the confidentiality of your personal information and not to use it for any unauthorized purposes; 
 
-encrypting credit card information on our order forms using secure socket layer (SSL) technology; and 
-
-storing your personal information in secure computer systems which protect it from unauthorized access or use. 
-
-No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to protect your personal information, we cannot guarantee its absolute security.
+No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to protect your personal information, we cannot guarantee its absolute security. 
 
 If a password is used to protect your account and personal information, it is your responsibility to keep your password confidential.
 
