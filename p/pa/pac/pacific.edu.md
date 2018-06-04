@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pacific.edu privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208170110id_/http%3A//www.pacific.edu/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pacific.edu privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604090627id_/http%3A//www.pacific.edu/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Master Privacy Statement
 
@@ -13,7 +13,7 @@ The university is committed to upholding our community members' and visitors' ri
 **\---------------------------------------------------------------**
 
 **_Date this Master Privacy Statement went into effect: 02/04/2008  
-Date this Master Privacy Statement was last updated: 02/04/2008_**
+Date this Master Privacy Statement was last updated: 05/22/2018_**
 
 _**Introduction**_
 
@@ -29,15 +29,15 @@ The General Public: Unrestricted readers of, University produced, Printed Materi
 Personally identifiable information: Individually identifiable information including any of the  
 following:
 
-  1. A full or partial name 
-  2. A home address or other physical address 
-  3. An e-mail address or other electronic address 
-  4. A telephone number or other communications device number 
-  5. A social security number or other identification number 
-  6. A date of birth 
-  7. Drivers license number 
-  8. Credit card or financial account number 
-  9. Any other identifier that permits the physical or online contacting of a specific individual. 
+  1. A full or partial name
+  2. A home address or other physical address
+  3. An e-mail address or other electronic address
+  4. A telephone number or other communications device number
+  5. A social security number or other identification number
+  6. A date of birth
+  7. Drivers license number
+  8. Credit card or financial account number
+  9. Any other identifier that permits the physical or online contacting of a specific individual.
   10. Any information concerning an individual in combination with an identifier described above. In particular,  
 a) for students, this includes all information not designated as Directory  
 information under FERPA.  
@@ -62,8 +62,8 @@ from a third party.
 
 Directory Information: Personally identifiable information that:
 
-  1. For Students consists of elements defined as not confidential under FERPA. 
-  2. For employees, information defined as not confidential by HR. 
+  1. For Students consists of elements defined as not confidential under FERPA.
+  2. For employees, information defined as not confidential by HR.
   3. For everyone, information that the Information Provider explicitly designates as not confidential.   
 Directory information may be freely provided to The University.
 
@@ -72,32 +72,38 @@ Directory information may be freely provided to The University.
 Privacy Flag: Students may request that Directory information not be shared with anyone, by  
 asking the Registrar to set the privacy Flag.
 
+Use Of Web Beacons Or Gif Files University of the Pacific Web pages may contain electronic images known as Web beacons - sometimes also called single-pixel gifs - that allow University of the Pacific to count users who have visited those pages and to deliver co-branded services. University of the Pacific may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.
+
+Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. University of the Pacific prohibits Web beacons from being used to collect or access your personal information.
+
+This website uses Mouseflow, a third-party analytics tool, to track page content and click/touch, movement, scroll, and keystroke activity. You can opt-out at [https://mouseflow.com/opt-out/ ](https://mouseflow.com/opt-out/)
+
 **Privacy Statement Precepts**
 
 In all circumstances, the University will:
 
-  1. Secure all personally identifiable information using appropriate and generally practiced security measures and technology. 
-  2. Except for Directory Information, consider all personally identifiable information as confidential under its Computing and Communications Confidentiality Policy, sharing it only on a need-to-know basis under the terms of this Master Privacy Statement and any applicable Privacy Statement Addendums. 
-  3. Directory Information will not be shared with the General Public without its owner's explicit permission. 
-  4. Practice good stewardship of Directory Information, using it appropriately under applicable laws, this Master Privacy Statement and any applicable Privacy Statement Addendums. 
+  1. Secure all personally identifiable information using appropriate and generally practiced security measures and technology.
+  2. Except for Directory Information, consider all personally identifiable information as confidential under its Computing and Communications Confidentiality Policy, sharing it only on a need-to-know basis under the terms of this Master Privacy Statement and any applicable Privacy Statement Addendums.
+  3. Directory Information will not be shared with the General Public without its owner's explicit permission.
+  4. Practice good stewardship of Directory Information, using it appropriately under applicable laws, this Master Privacy Statement and any applicable Privacy Statement Addendums.
   5. If it is required to do so, comply with the law or with legal process and disclose personally  
-identifiable information. 
-  6. Retain the right to use personal information in its systems to identify the source of any inappropriate usage of its electronic resources as outlined in its Information Technology Policies: Acceptable Use Policy. 
-  7. Change this Master Privacy Statement from time to time without prior notice or consent, but if changes are made, that fact will be prominently and widely communicated. A Change history for the Master Privacy Statement will be maintained off the Privacy Statement link on Pacific's Home Page. 
+identifiable information.
+  6. Retain the right to use personal information in its systems to identify the source of any inappropriate usage of its electronic resources as outlined in its Information Technology Policies: Acceptable Use Policy.
+  7. Change this Master Privacy Statement from time to time without prior notice or consent, but if changes are made, that fact will be prominently and widely communicated. A Change history for the Master Privacy Statement will be maintained off the Privacy Statement link on Pacific's Home Page.
   8. Accept and act on all allegations of Privacy Statement violations addressed to [privacy@pacific.edu](mailto:privacy@pacific.edu).
 
 
 
 Unless explicitly stated otherwise in a specific Privacy Statement Addendum, Pacific may:
 
-  * Share personally identifiable information, on a need to know only basis, with authorized third parties (non-Pacific entities) that provide service to the University and that have contractually agreed to point (1.) above. 
-  * Share protected Health Information with authorized third parties as permitted under the HIPAA Privacy Rule solely for the purpose of treatment, payment, or and health care operations. 
-  * Not provide personally identifiable information to third parties for any purpose unrelated to the mission of the University without the explicit permission of the information provider or as specified in the HIPAA Privacy Rule. This includes, but is not limited to the marketing of commercial goods or the provision of commercial services. 
+  * Share personally identifiable information, on a need to know only basis, with authorized third parties (non-Pacific entities) that provide service to the University and that have contractually agreed to point (1.) above.
+  * Share protected Health Information with authorized third parties as permitted under the HIPAA Privacy Rule solely for the purpose of treatment, payment, or and health care operations.
+  * Not provide personally identifiable information to third parties for any purpose unrelated to the mission of the University without the explicit permission of the information provider or as specified in the HIPAA Privacy Rule. This includes, but is not limited to the marketing of commercial goods or the provision of commercial services.
   * Share personally identifiable information within Pacific in support of its mission of teaching,  
 learning and scholarship and the administration thereof so long as the Privacy Statement  
-Addendum (if any) under which the information was collected remains in force. 
-  * Obtain personally identifiable information from third parties (collected information), solely as necessary to conduct the business of the University, and will treat that information as if it were directly obtained from the person in question. 
-  * Request personally identifiable information for the purpose of obtaining access to and/or verifying authorization to use services or facilities of or sponsored by the University, especially by electronic means for electronic services. 
+Addendum (if any) under which the information was collected remains in force.
+  * Obtain personally identifiable information from third parties (collected information), solely as necessary to conduct the business of the University, and will treat that information as if it were directly obtained from the person in question.
+  * Request personally identifiable information for the purpose of obtaining access to and/or verifying authorization to use services or facilities of or sponsored by the University, especially by electronic means for electronic services.
   * Add a consent line to information input sources, like forms or screens, stating that by their agreement their information will be managed under the University's Privacy Statement and/or a particular Privacy Statement Addendum(s). Failure to sign would halt the associated business process, perhaps resulting in the inability of the University to provide desired services or considerations.
 
 
