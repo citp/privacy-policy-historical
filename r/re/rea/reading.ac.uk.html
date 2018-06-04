@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the reading.ac.uk privacy policy that was archived on 2017-11-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171130085648id_/http%3A//www.reading.ac.uk/15/about/about-privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the reading.ac.uk privacy policy that was archived on 2018-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180604081131id_/http%3A//www.reading.ac.uk/15/about/about-privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-uk" class="no-js hover c-rubine_selection"><head><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><title>
 	Privacy policy and cookies information – University of Reading
@@ -126,19 +126,39 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <p>
       <input class="nojs-header-close" type="radio" id="nojs-header-close" />
       <label class="nojs-header-close-label" for="nojs-header-close">Close</label>
-      <span class="nojs-header-text">Looks like you've got Javascript off. <a href="#nojs-information">Find out</a> how that will affect your experience on our site.</span>
+      <span class="nojs-header-text">Looks like you've got Javascript off. <a href="#nojs-information">Find out</a> how that will affect your experience on our 
+
+site.</span>
     </p>
   </div>
 </noscript>
 <div class="cookie-notice" id="cookie-notice">
   <div>
     <h3><span>University of Reading </span>cookie policy</h3>
-    <p>We use cookies on <a href="/">reading.ac.uk</a> to improve your experience. You can find out more about our <a href="/15/about/about-privacy.aspx#cookies">cookie policy</a>.<span class="cookie-mobile"> By continuing to use our site you accept these terms, and are happy for us to use cookies to improve your browsing experience.</span></p>
+    <p>We use cookies on <a href="/">reading.ac.uk</a> to improve your experience. You can find out more about our <a href="/15/about/about-&#10;&#10;privacy.aspx#cookies">cookie policy</a>.<span class="cookie-mobile"> By continuing to use our site you accept these terms, and are happy for us to use cookies to 
+
+improve your browsing experience.</span></p>
     <span class="cookie-notice-button"><a id="cookie-notice-close" href="#">Continue<span> using the University of Reading website</span></a></span> 
   </div>
 </div>
 <div class="header-container" id="top">
   <div class="header-center" id="header-center">
+
+<script type="text/javascript" src="/web/files/_rdg_corporate-template-files/js.cookie.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+    if (Cookies.get("cookies-confirmed") == undefined) {
+        $("#cookie-notice").addClass("cookie-notice-open");
+        $("#cookie-notice-close").click(function(e) {
+            e.preventDefault();
+            $("#cookie-notice").slideUp(function(e) {
+                $(this).removeClass("cookie-notice-open");
+                Cookies.set("cookies-confirmed", "true", { path: '/', expires: 365 });
+            });
+        });
+    }
+});
+</script>
 
     <!-- DEVICE -->
     <a href="/" class="header-logo"><span class="header-device">University of Reading</span></a>
@@ -148,18 +168,34 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <form class="header-search" id="headerSearchForm" action="/search/public/search" method="get">
         <div id="sSL-options">
           <!-- GOOGLE MINI -->
-          <input type="text" name="q" id="header-search-text" class="header-search-box" title="Search the University of Reading website" placeholder="Search reading.ac.uk" accesskey="4"><input name="site" value="internal" title="Search is internal" type="hidden"><input name="output" value="xml_no_dtd" title="Output search as XML" type="hidden"><input name="client" title="Search is internal" value="internal" type="hidden"><input name="proxystylesheet" title="Search will output to rdg stylesheets" value="internal" type="hidden">
+          <input type="text" name="q" id="header-search-text" class="header-search-box" title="Search the University of Reading website" placeholder="Search 
+
+reading.ac.uk" accesskey="4"><input name="site" value="internal" title="Search is internal" type="hidden"><input name="output" value="xml_no_dtd" title="Output 
+
+search as XML" type="hidden"><input name="client" title="Search is internal" value="internal" type="hidden"><input name="proxystylesheet" title="Search will output to 
+
+rdg stylesheets" value="internal" type="hidden">
           <!-- /GOOGLE MINI -->
         </div>
 
         <button type="submit" id="header-search-submit" class="header-search-submit" value="search"></button>
 
         <script type="text/javascript">
-          var searchSelectList = '<div id="sSL-search"><select id="sSL-select" title="Select the area you wish to search"><option id="sSL-0">University site</option><option id="sSL-1">Staff directory</option></select></div>';
+          var searchSelectList = '<div id="sSL-search"><select id="sSL-select" title="Select the area you wish to search"><option id="sSL-0">University 
+
+site</option><option id="sSL-1">Staff directory</option></select></div>';
 
           var sSLinputs = new Array();
-          sSLinputs[0] = '<input type="text" name="q" id="header-search-text" class="header-search-box" title="Search the University of Reading website" placeholder="Search reading.ac.uk" accesskey="4" /><input name="site" value="internal" title="Search is internal" type="hidden"><input name="output" value="xml_no_dtd" title="Output search as XML" type="hidden"><input name="client" title="Search is internal" value="internal" type="hidden"><input name="proxystylesheet" title="Search will output to rdg stylesheets" value="internal" type="hidden">';
-          sSLinputs[1] = '<input type="text" name="n" id="header-search-text" title="Search the University of Reading Staff Directory" class="header-search-box" placeholder="Enter first and/or last name" accesskey="4" />';
+          sSLinputs[0] = '<input type="text" name="q" id="header-search-text" class="header-search-box" title="Search the University of Reading website" 
+
+placeholder="Search reading.ac.uk" accesskey="4" /><input name="site" value="internal" title="Search is internal" type="hidden"><input name="output" value="xml_no_dtd" 
+
+title="Output search as XML" type="hidden"><input name="client" title="Search is internal" value="internal" type="hidden"><input name="proxystylesheet" title="Search 
+
+will output to rdg stylesheets" value="internal" type="hidden">';
+          sSLinputs[1] = '<input type="text" name="n" id="header-search-text" title="Search the University of Reading Staff Directory" class="header-search-box" 
+
+placeholder="Enter first and/or last name" accesskey="4" />';
 
           var sSLactions = new Array();
           sSLactions[0] = '/search/public/search';
@@ -196,7 +232,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     <!-- MOBILE NAVIGATION -->
     <div class="mobile-menu-buttons">
-      <a id="navigation-menu" class="navigation-menu" href="#nojs-footer"><span class="navigation-menu-icon"></span><span class="mobile-menu-label">Site navigation</span></a>
+      <a id="navigation-menu" class="navigation-menu" href="#nojs-footer"><span class="navigation-menu-icon"></span><span class="mobile-menu-label">Site 
+
+navigation</span></a>
       <a id="page-menu" class="page-menu"><span class="page-menu-icon"></span><span class="mobile-menu-label">Page menu</span></a>
       <a id="search-menu" class="search-menu"><span class="search-menu-icon"></span><span class="mobile-menu-label">Search</span></a>
     </div>
@@ -283,7 +321,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <div class="breadcrumbs-center">
       <ul class="breadcrumbs-list">
         <li><a class="breadcrumbs-home" href="/">Reading home</a>&gt;
-        <a href="/15/life-openday-thankyou.aspx">*</a>&nbsp;&nbsp;&gt;&nbsp;&nbsp;<a href="/15/about/about.aspx">About</a>&nbsp;&nbsp;&gt;&nbsp;&nbsp;Privacy Policy and Cookies</li>
+        <a href="/15/life-openday-thankyou.aspx">*</a>&nbsp;&nbsp;&gt;&nbsp;&nbsp;<a href="/15/about/about.aspx">About</a>&nbsp;&nbsp;&gt;&nbsp;&nbsp;Privacy notice</li>
       </ul>
     </div>
 
@@ -341,13 +379,13 @@ $(document).ready(function() {
 
 		<li><a href="/15/about/about-governance.aspx">Governance</a></li>
 
-		<li><a href="/15/about/film/about-video.aspx">Short videos about the university</a></li>
+		<li><a href="http://cmsae-slb-int.rdg.ac.uk/aelive.aspx?sitearea=/15/about">Short videos about the university</a></li>
 
 		<li><a href="/15/about/about-faqs.aspx">FAQs</a></li>
 
 		<li><a href="/15/about/internationalpartners/about-internationalpartners.aspx">International partnerships</a></li>
 
-		<li><a href="/15/about/find/about-findindex.aspx">Visit us</a></li>
+		<li><a href="http://cmsae-slb-int.rdg.ac.uk/aelive.aspx?sitearea=/15/about">Visit us</a></li>
 
 </ul></li>
 </ul>
@@ -383,41 +421,34 @@ $(document).ready(function() {
     <!-- MAIN COLUMN -->
       <div class="cl-main_2 c-rubine">
         <div class="content-body">
-          <p>The University of Reading, and its <a href="/internal/imps/FOIA/Publicationscheme/imps-FOIA-wholly.aspx" name="imps-FOIA-wholly">wholly owned subsidiaries</a>, collect personal information about users of its website. This privacy policy explains:</p>
-<ul>
-<li><a href="#collect">What information we will collect about you</a> </li>
-<li><a href="#use">How we will use the information </a></li>
-<li><a href="#cookies">Cookies, Google Analytics and third party cookies</a> </li>
-<li><a href="#protect">How we will protect information about you</a> </li>
-<li><a href="#access">How you can access your information </a></li>
-<li><a href="#scope">Other websites and the scope of this privacy policy</a> </li>
-<li><a href="#privacy">Changes to this privacy policy</a> </li>
-<li><a href="#contact">How to contact us</a></li></ul>
-<h3 id="collect">What information will we collect about you?</h3>
-<p>We will collect information about you if you place an order with us for a product, such as a prospectus, or for a service, such as a conference. </p>
-<p>We will also collect personal information about website usage through cookies (see the section on <a href="#cookies">Cookies, Google Analytics and third party cookies</a><strong>&nbsp;</strong>below) and server logs, which track the IP addresses of users visiting our site and the pages they visit. 
-</p><h3 id="use">How we will use the information </h3>
-<p>Where personal information is collected on the University of Reading's website, for instance through a web form or an online payment system, users will be informed as to what information is being captured, why and who (if anyone) it will be shared with. </p>
-<p>The University will not sell, license or trade your personal information without your consent. We will not share your personal information with others unless they are acting under our instructions or we are required to do so by law.</p>
+          <h3>about us</h3>
+<p>This Privacy Notice explains the nature of the personal information that the University collects through our websites. It also explains how your data is used and informs you of your rights under data protection laws.</p>
+<p>The University and the Henley Business School are Data Controller (<strong><strong>We or Us</strong></strong>) in respect of the information that We process about you. Our contact details are The University of Reading University of Reading, Whiteknights, PO Box 217, Reading, Berkshire, RG6 6AH, United Kingdom. Tel: +44 (0) 118 987 5123.</p>
+<p>Your privacy is important to Us, so if there is anything in this privacy notice that is unclear or you do not understand, please contact Our Data Protection Officer at: <a href="mailto:imps@reading.ac.uk">imps@reading.ac.uk</a>.</p>
+<h3>Data we collect about you</h3>
+<p>We operate a number of different websites and pages that support and enhance engagement with Us and our services, both for the benefit of students and other visitors. Some of those websites or webpages may be specific to a certain department, subsidiary or specific activities conducted across Our campuses- and may have additional information about how they collect and use personal data for their specific purposes. We encourage you to read those carefully in addition to this more general notice.</p>
+<h2>Information that We collect directly from you </h2>
+<p>We ask you for a range of personal information when you complete our online forms or applications for specific purposes: We collect personal data in order to:</p>
+<p>- Communicate with you about events and activities at the University</p>
+<p>- Provide you with information you have requested</p>
+<p>- To provide you with services, to managing bookings, and administer event requirements </p>
+<p>- To manage our websites and troubleshoot any problems</p>
+<p>- To track the effectiveness of our websites and monitor how users interact with them</p>
+<p>We will collect information about you if you place an order with Us for a product or service, such as a prospectus, booking a place at a conference or event or subscribing to a newsletter.</p>
+<h2>Automatic Data Collection</h2>
+<p>We collect personal information about website (s) usage through cookies (see the section on Cookies, Google Analytics and third party cookies below) and server logs, which track the IP addresses of users visiting our site and the pages they visit.</p>
 <p>Information collected via the University's server logs includes users' IP addresses and the web pages visited; this will be used to manage the web system and troubleshoot problems. </p>
-<p>The University also uses Google Analytics, a web analytics service provided by Google, Inc. ("Google") to understand how visitors engage with our website and so we can improve it. See the section on <a href="#GoogleAnalytics">Google Analytics</a><strong>&nbsp;</strong>below.</p>
-<h3 id="cookies">Cookies, Google Analytics and third party cookies </h3>
-<p>Cookies are text files placed on your computer to help us analyse how users use our site.&nbsp;A cookie is a small data file able to track the online movements of an individual. This information could potentially be used to build an online profile of individuals and uniquely locate them in the world. </p>
-<p>To help you to understand more about them more detailed information about the cookies we use is given in the separate sections below:</p>
-<ul>
-<li><a href="#cookies1">Cookies</a> </li>
-<li><a href="#GoogleAnalytics">Google Analytics</a> </li>
-<li><a href="#Third party cookies">Third party cookies</a></li></ul>
-<p>For further information on cookies visit <a href="http://www.allaboutcookies.org" name="www_allaboutcookies_org">www.allaboutcookies.org</a> or <a href="http://www.aboutcookies.org" name="www_aboutcookies_org">www.aboutcookies.org</a>.</p>
-<p>If you prefer not to receive cookies while browsing our website, you can set your browser to refuse all cookies that are stored on your computer; the above websites tell you how to do this. You do not need to have cookies turned on to use or navigate through most parts of our website, although some functionality may be lost.</p>
-<h4 id="cookies1">Cookies</h4>
+<p>The University also uses Google Analytics, a web analytics service provided by Google, Inc. ("Google") to understand how visitors engage with our website and so We can improve it. See the section on Google Analytics below.</p>
+<h3>Cookies</h3>
+<p>Cookies are text files placed on your computer to help us analyse how users use our site. A cookie is a small data file able to track the online movements of an individual. This information could potentially be used to build an online profile of individuals and uniquely locate them in the world.</p>
+<p>For further information on cookies visit www.allaboutcookies.org or www.aboutcookies.org.</p>
+<p>If you prefer not to receive cookies while browsing our website, you can set your browser to refuse cookies that are stored on your computer; the above websites tell you how to do this. You do not need to have cookies turned on to use or navigate through most parts of our website, although some functionality may be lost.</p>
+<h2>Cookies</h2>
 <p>Our website uses session cookies to ensure that you have a good experience. These cookies contain a unique number, your 'session ID', which allows our server to recognise your computer and 'remember' what you've done on the site. The benefits of this are:</p>
-<ul>
-<li>You only need to log in once if you're navigating secure areas of the site </li>
-<li>You are able to use interactive elements of the site, such as forms </li>
-<li>Our server can distinguish between your computer and other users, so you can see the information that you have requested.</li></ul>
-<p>When you close your browser the cookie will be deleted and the site will 'forget'.</p>
-<p>The following table gives details of the different types of&nbsp;cookies that might be used during a session.</p>
+<p>You only need to log in once if you're navigating secure areas of the site </p>
+<p>You are able to use interactive elements of the site, such as forms </p>
+<p>Our server can distinguish between your computer and other users, so you can see the information that you have requested.&nbsp;</p>
+<p>The following table gives details of the different types of cookies that might be used during a session.</p>
 <table>
 <tbody>
 <tr>
@@ -528,83 +559,6 @@ $(document).ready(function() {
 <p>This is given to a user on the first request to a CMS server via the load balancer; it is required to ensure that subsequent request are always forwarded to the same frontend CMS server to maintain sessions.</p></td>
 <td>
 <p>The cookie will have the value of either .cms1 or .cms2.</p></td></tr></tbody></table>
-<h4>&nbsp;</h4>
-<h4 id="GoogleAnalytics">Google Analytics </h4>
-<p>We use Google Analytics to help us to understand how you make use of our content and work out how we can make things better. These cookies follow your progress through our website, collecting anonymous data on where you have come from, which pages you visit, and how long you spend on the site. This data is then stored by Google in order to create reports. These cookies do not store your personal data.</p>
-<p>The information generated by the cookie about your use of the website, including your IP address, may be transmitted to and stored by Google on servers in the United States. Google may use this information for the purpose of evaluating your use of the website, compiling reports on website activity for us and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above. </p>
-<p>The Google website contains further information about <a href="http://www.google.com/intl/en/analytics/privacyoverview.html" name="www_google_com_intl_en_analytics_privacyoverview_html">Analytics</a> and a copy of <a href="http://www.google.com/intl/en/privacypolicy.html" name="www_google_com_intl_en_privacypolicy_html">Google's privacy policy pages.</a>.</p>
-<p>Other parts of the University's website also store cookies on your computer to track user traffic patterns. We do this to see how the website is used, to determine page popularity, to help security and for general statistical purposes. Some of this information may be held on servers in locations outside the EEA. Where personally identifying information is involved, data will only be held in locations that are deemed to have adequate protections for personal data.</p>
-<p>The following table gives details of the different types of&nbsp;Google Analytics cookies that are used on this website.</p>
-<table>
-<tbody>
-<tr>
-<td>
-<h4>Type of cookie </h4></td>
-<td>
-<h4>Cookie name</h4></td>
-<td>
-<h4>How long does it stay on my computer?</h4></td>
-<td>
-<h4>What is it for?</h4></td>
-<td>
-<h4>What information does it contain?</h4></td></tr>
-<tr>
-<td>
-<p><strong>Google Analytics</strong></p></td>
-<td>
-<p>_utma</p></td>
-<td>
-<p>For two years from when it is set</p></td>
-<td>
-<p>Automatically set when visiting any of our pages. Enables the use of the Google Analytics web statistics service.</p></td>
-<td>
-<p>These cookies store anonymous data on your visit to the Reading website.</p></td></tr>
-<tr>
-<td>
-<p><strong>Google Analytics</strong></p></td>
-<td>
-<p>_utmb</p></td>
-<td>
-<p>For 30 minutes after your last activity on the site</p></td>
-<td>
-<p>Automatically set when visiting any of our pages. Enables the use of the Google Analytics web statistics service.</p></td>
-<td>
-<p>These cookies store anonymous data on your visit to the Reading website.</p></td></tr>
-<tr>
-<td>
-<p><strong>Google Analytics</strong></p></td>
-<td>
-<p>_utmc</p></td>
-<td>
-<p>When you close your browser</p></td>
-<td>
-<p>Automatically set when visiting any of our pages. Enables the use of the Google Analytics web statistics service.</p></td>
-<td>
-<p>These cookies store anonymous data on your visit to the Reading website.</p></td></tr>
-<tr>
-<td>
-<p><strong>Google Analytics</strong></p></td>
-<td>
-<p>_utmz</p></td>
-<td>
-<p>For six months from when it is set</p></td>
-<td>
-<p>Automatically set when visiting any of our pages. Enables the use of the Google Analytics web statistics service.</p></td>
-<td>
-<p>These cookies store anonymous data on your visit to the Reading website.</p></td></tr>
-<tr>
-<td><strong>Google Cookie</strong>&nbsp;</td>
-<td>&nbsp;_ga&nbsp;</td>
-<td>2 years after last visit to the website.&nbsp;&nbsp;</td>
-<td>&nbsp;Automatically set when visiting any of&nbsp;our pages. Enables the use of the Google Analytics web statistics service.&nbsp;</td>
-<td>These cookies store anonymous data on your visit to the website.</td></tr>
-<tr>
-<td><strong>Google Cookie</strong>&nbsp;</td>
-<td>&nbsp;_gat&nbsp;</td>
-<td>30 minutes since last activity&nbsp;.&nbsp;</td>
-<td>Automatically set when visiting any of&nbsp;our pages. Enables the use of the Google Analytics web statistics service.&nbsp;&nbsp;</td>
-<td>These cookies store anonymous data on your visit to the website.&nbsp;</td></tr></tbody></table>
-<h4 id="Third party cookies"><br>Third party cookies</h4>
 <p>We know that a lot of visitors to our website use social networking tools, so we have tried to make it easy for you to share our content using these services. We use a button provided by ShareThis to enable this functionality and this button places its own cookies on your machine. We also pull through content from social networks into our own pages, such as embedded Twitter feeds. The social networks, such as Facebook and Twitter,&nbsp;may themselves also put cookies on your machine. We have&nbsp;little control over these 'third party' cookies, so we suggest that you check the respective privacy policies for these external services to help you understand what data these organisations hold about you and what they do with it.&nbsp;For instance,&nbsp;the&nbsp;<a href="http://www.facebook.com/about/privacy/" name="FacebookDataUsePolicy">Facebook Data Use Policy</a>&nbsp;and the <a href="https://twitter.com/privacy" name="TwitterPrivacyPolicy">Twitter privacy policy</a>&nbsp;give further information about those services.</p>
 <p>The following table gives details of some of the third party cookies that can be used and gives links to the appropriate privacy policies for them.</p>
 <table>
@@ -620,6 +574,34 @@ $(document).ready(function() {
 <h4>What is it for? </h4></td>
 <td>
 <h4>What information does it contain?</h4></td></tr>
+<tr>
+<td rowspan="2">
+<p><strong>Add To Any</strong></p></td>
+<td>
+<p>uvc</p></td>
+<td>
+<p>One day</p></td>
+<td>
+<p>What is it for: Automatically set when visiting webpage displaying a "add to any" link (social media share link). The cookie is set and used by <a href="https://static.addtoany.com">https://static.addtoany.com</a>. </p></td>
+<td>
+<p>This cookie stores an integer.</p></td></tr>
+<tr>
+<td>__utma to __utmz</td>
+<td>From one day to indefinite time</td>
+<td>
+<p>Automatically set when visiting webpage displaying a "add to any" link (social media share link). The cookie is set and used by <a href="https://static.addtoany.com">https://static.addtoany.com</a>.</p></td>
+<td>Internal parameters and URL of the page visited.</td></tr>
+<tr>
+<td>
+<p><strong>campus-directory</strong></p></td>
+<td>
+<p>campus_directory_wp_session</p></td>
+<td>
+<p>One day</p></td>
+<td>
+<p>Automatically set when visiting webpage displaying a staff directory. The cookie is used to remember a session ID.</p></td>
+<td>
+<p>This cookie stores the session ID</p></td></tr>
 <tr>
 <td>
 <p><strong>Facebook</strong></p></td>
@@ -639,7 +621,7 @@ $(document).ready(function() {
 <td>
 <p>For two years from when it is set</p></td>
 <td>
-<p>Allows you to "+1" our content via the Google+ social network. Google may use this cookie to collect other data about your use of the web. You can find out more about how Google uses your personal data on the <a href="http://www.google.com/intl/en/privacypolicy.html" name="www_google_com_intl_en_privacypolicy_html">Google's privacy policy pages.</a></p></td>
+<p>Allows you to "+1" our content via the Google+ social network. Google may use this cookie to collect other data about your use of the web. You can find out more about how Google uses your personal data on the <a href="http://www.google.com/intl/en/privacypolicy.html" name="www_google_com_intl_en_privacypolicy_html">http://www.google.com/intl/en/privacypolicy.html</a></p></td>
 <td>
 <p>Data on how you use the internet, which might be linked to your Google username</p></td></tr>
 <tr>
@@ -657,7 +639,7 @@ $(document).ready(function() {
 <td>_uset</td>
 <td>For eight hours from when it is set</td>
 <td>
-<p>For more information on how Share This uses your personal data, please see the <a href="http://sharethis.com/privacy" name="ShareThisPrivacyPolicy">Share This Privacy Policy</a>.</p></td></tr>
+<p>For more information on how Share This uses your personal data, please see the <a href="http://sharethis.com/privacy" name="ShareThisPrivacyPolicy">ShareThis Privacy Policy</a>.</p></td></tr>
 <tr>
 <td rowspan="5">
 <p><strong>Twitter</strong></p></td>
@@ -702,23 +684,61 @@ $(document).ready(function() {
 <td>
 <p>We use the WordPress platform for our blogs. When you comment on a blog post, WordPress will put some cookies on your machine that record the information you type in when you leave your comment. This means that you don't have to retype your details if you want to leave another comment.</p>
 <p>Remembers your details when you comment on blogs hosted at blogs.reading.ac.uk. For more information please see the <a href="http://codex.wordpress.org/WordPress_Cookies" name="WordPressCookies">WordPress Cookies</a>&nbsp;page.</p></td>
-<td>
-<p>Form data, including email address</p></td></tr></tbody></table>
-<h3 id="protect">How we will protect information about you</h3>
-<p>We do our utmost to protect your privacy. The Data Protection Act 1998 obliges us to follow security procedures regarding the storage and disclosure of information which you have given us in order to avoid unauthorised loss or access. As such we have implemented industry-standard security systems and procedures to protect information from unauthorised disclosure, misuse or destruction.</p>
-<h3 id="access">How you can access your information </h3>
-<p>You have the right to request a copy of the information that we hold about you. If you would like a copy of particular personal information we hold about you then please follow&nbsp;<a href="/internal/imps/DataProtection/DataProtectionGuidelines/imps-d-p-accessing.aspx" name="imps-d-p-accessing">these instructions</a>. We may make a small charge for this service. </p>
-<h3 id="scope">Other websites and the scope of this privacy policy</h3>
-<p>This website contains links to other sites. This privacy policy applies to this website only so if you link to others you may want to read their own privacy policies.</p>
-<h3 id="privacy">Changes to our privacy policy</h3>
-<p>Our Privacy Policy may be updated from time to time. Any updates will appear on this webpage. This policy was last updated in February 2017.</p>
-<h3 id="contact">How to contact us</h3>
-<p>Please contact us if you have any questions about our privacy policy or information we hold about you:</p>
+<td></td></tr></tbody></table><h2>Google Analytics </h2>
+<p>We use Google Analytics to help us to understand how you make use of our content and work out how we can make things better. These cookies follow your progress through our website, collecting data on where you have come from, which pages you visit, and how long you spend on the site. This data is then stored by Google in order to create reports. These cookies do not store your personal data.</p>
+<p>The information generated by the cookie about your use of the website, including your IP address, may be transmitted to and stored by Google on servers in the United States. Google may use this information for the purpose of evaluating your use of the website, compiling reports on website activity for us and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. </p>
+<p>The Google website contains further information about Analytics and a copy of Google's privacy policy pages.</p>
+<p>Other parts of the University's website also store cookies on your computer to track user traffic patterns. We do this to see how the website is used, to determine page popularity, to help security and for general statistical purposes. Some of this information may be held on servers in locations outside the EEA. Where personally identifying information is involved, data will only be held in locations that are deemed to have adequate protections for personal data.</p>
+<h3>Legal basis for processing your personal information</h3>
+<p>Where you provide personal information in order for us to contact you or provide you with services, such as subscribing to a newsletter or joining a mailing list this will be with your consent.</p>
+<p>Where We use your information to manage our websites and troubleshoot any problems, or to track the effectiveness of our websites and monitor how users interact with them this will be on the basis of our legitimate interests.</p>
+<h3>who we may share your data with</h3>
+<p>The University will not sell, license or trade your personal information without your consent. We will not share your personal information with others unless they are acting under our instructions or We are required to do so by law.</p>
+<h3>retention of your data</h3>
+<p>We will retain your data for as long as is necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting or reporting requirements. Where you have requested to be added to marketing or mailing lists your details will be retained until you choose to unsubscribe to those communications. We may contact you from time to time to check that you are still happy to receive those communications.</p>
+<p>To determine the appropriate retention period for personal data, We consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which We process your personal data and whether We can achieve those purposes through other means, and the applicable legal requirements. </p>
+<p>In some circumstances We may anonymise your personal data (so that it can no longer be associated with you) for research or statistical purposes in which case We may use this information indefinitely without further notice to you. </p>
+<h3>how we protect your data</h3>
+<p>Your personal information is stored securely within the University and our staff are trained about the secure handling of personal information. We may also use third party providers to deliver our services, such as externally hosted software or cloud providers. Were we do this, We have measures and terms in place with those providers to ensure that they also protect your data.</p>
+<h3>keeping your information up to date</h3>
+<p>The accuracy of your information is important to us. You can update your information, including your address and contact details, at any time. If you need update the details We hold about you, or believe We hold inaccurate data please contact the relevant department or the Data Protection Officer.</p>
+<h3>your rights</h3>
+<p>Under data protection law you have the right to: </p>
 <ul>
-<li><a href="mailto:imps@reading.ac.uk" name="impsreadingacuk">imps@reading.ac.uk</a> </li>
-<li>T: +44 (0) 118 378 8981 </li></ul>
-<p>IMPS, University of Reading, Room 225, Whiteknights House, Reading, RG6 6AH</p>
-<p></p>
+<li>Withdraw your consent where that is the legal basis of our processing</li>
+<li>Access your personal data that We process</li>
+<li>Rectify inaccuracies in personal data that We hold about you</li>
+<li>Be erased, that is your details to be removed from systems that We use to process your personal data</li>
+<li>Restrict the processing in certain ways</li>
+<li>Obtain a copy of your data in a commonly used electronic form; and </li>
+<li>Object to certain processing of your personal data by us</li></ul>
+<p>Please see the ICO website for further information on the above rights:</p>
+<p><a href="https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/"><u>https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/</u></a> </p>
+<p>You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, We may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, We may refuse to comply with your request in these circumstances.</p>
+<p>More information on making a request under your rights can be found <a href="http://www.reading.ac.uk/internal/imps/DataProtection/imps-d-p-datasubjectrights.aspx"><u>here</u></a>.</p>
+<p>If you would like to exercise your rights, or have any concerns regarding how We have handled your personal information please contact our Data Protection Office at imps@reading.ac.uk</p>
+<p>Some rights are dependent on the lawful basis for processing your information. If We have legitimate grounds to not carry out your wishes, these will be explained to you in response to your request.</p>
+<p>You also have the right to complain to the Information Commissioner's Office.</p>
+<h3>questions about this notice</h3>
+<p>If there is anything in this notice that you are unclear about, please contact our Data Protection Officer, on the contact details below, who shall be happy to answer any queries you may have concerning this privacy notice or the way in which We process your personal data.</p>
+<p>By mail: Information Management and Policy Services, The University of Reading, Whiteknights, PO Box 217, Reading RG6 6AH</p>
+<p>By email: <a href="mailto:imps@reading.ac.uk"><u>imps@reading.ac.uk</u></a> </p>
+<p>By phone: 0118 378 8981</p>
+<p>Complaints can be referred to the Information Commissioners Office, the independent body who oversee Data Protection compliance in the UK.</p>
+<p>Email: <a href="mailto:casework@ico.gsi.gov.uk"><u>casework@ico.gsi.gov.uk</u></a> </p>
+<h3>changes to this notice</h3>
+<p>We keep our privacy notice under regular review to ensure best practice and compliance with the law. This privacy notice was last updated on 21/05/2018 </p>
+<p>We may change this privacy notice from time to time. If We make significant changes in the way we treat your personal information We will make this clear on <a href="https://www.reading.ac.uk/"><u>https://www.reading.ac.uk/</u></a> and may also inform you directly. </p>
+<h3>How to contact us</h3>
+<p>If you have any questions about this notice, our University Data Protection Officer can be contacted at: </p>
+<p>IMPS</p>
+<p>University of Reading </p>
+<p>Whiteknights</p>
+<p>PO Box 217</p>
+<p>Reading</p>
+<p>RG6 6AH UK.</p>
+<p>Telephone: 0118 378 8981. </p>
+<p>Email: <a href="mailto:imps@reading.ac.uk">imps@reading.ac.uk</a></p>
         </div>
       </div>
 
