@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the millyny.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201155948id_/http%3A//www.milly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millyny.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604212635id_/http%3A//www.milly.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MILLY
 
