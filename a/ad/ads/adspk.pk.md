@@ -1,43 +1,105 @@
-> *The following text is extracted and transformed from the adspk.pk privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127000336id_/http%3A//adspk.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adspk.pk privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604215235id_/http%3A//adspk.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Latest Govt Jobs in Pakistan, Lahore, Karachi, Islamabad
 
-**Privacy Policy for http://www.adspk.pk**
+**Privacy Policy**
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
+This privacy policy (“Policy”) describes how Website Operator (“Website Operator”, “we”, “us” or “our”) collects, protects and uses the personally identifiable information (“Personal Information”) you (“User”, “you” or “your”) may provide on the http://www.adspk.pk website and any of its products or services (collectively, “Website” or “Services”). It also describes the choices available to you regarding our use of you Personal Information and how you can assess and update this information. This Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
 
-**IMPORTANT Note: We Do Not Collect Any Personal Information of Visitors**
+ **Collection of Personal Information**
 
-**The Information We Collect:**
+We receive and store any information you knowingly provide to us when you fill any online forms on the Website. You can choose not to provide us with certain information, but then you may not be able to take advantage of some of the Website’s features. Users who are uncertain about what information is mandatory are welcome to contact us.
 
-**1 – Tracking and statistics**
+ **Collection of Non-Personal Information**
 
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women Commented on our Site, but we would not disclose anything that could be used to identify those individuals.
+When you visit the Website our servers automatically record information that your browser sends. This data may include information such as your device’s IP address, browser type and version, operating system type and version, language preferences or the webpage you were visiting before you cam to our Website, pages of our Website that you visit, the time spent on those pages, information you search for on our Website, access times and dates, and other statistics.
 
-**2 – Google AdSense and cookies**
+ **Use and Processing of Collected Information**
 
-We use Google AdSense to supply our visitors with relevant advertisements throughout our website. Google uses cookies in order to make these ads more relevant to our visitors. [Learn more about cookies and how to opt-out of them](http://www.google.com/policies/technologies/ads/).
+Any of the information we collect from you may be used to improve our Website; run and operate our Website and Services. Non-Personal Information collected is used only to identify potential cases of abuse and establish statistical information regarding Website usage. This statistical information is not otherwise aggregated in such a way that would identify and particular user of the system.
 
-**3 – Cookies**
+We may process Personal Information related to you if one of the following applies:
 
-A cookie is a small text file that is stored on a user’s computer for record keeping purposes. We use cookies on this site. Cookies can be either session cookies or persistent cookies. A session cookie expires when you close your browser and is used to make it easier for you to navigate our website. A persistent cookie remains on your hard drive for an extended period of time. You may delete or decline cookies by changing your browser settings. (Click “Help” in the toolbar of most browsers for instructions.)
+(i) You have given their consent for one or more specific purposes. Note that under some legislations we may be allowed to process information until you object to such processing (by opting out), without having to rely on consent or any other of the following legal bases below. This, however, does not apply, whenever the processing of Personal Information is subject to European Data Protection Law;
 
-**CHANGE IN PRIVACY**
+(ii) Provision of information is necessary for the performance of an agreement with you and/ or for any pre-contractual obligations thereof;
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+(iii) Processing is necessary for compliance with a legal obligation to which you are subject;
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+(iv) Processing is related to a task that is carried out in the public interest or in the exercise of officials authority vested in us;
 
-**HOW TO CONTACT US**
+(v) Processing is necessary for the purposes of the legitimate interests pursued by us or by a third party. In any case, we will be happy to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Data is a statutory or contractual requirement, or a requirement necessary to enter into a contract.
 
-If You Want To Contact Us Kindly Email To:   **adspk.pk@gmail.com**
+ **Information Transfer and Storage**
 
-_Thanks_
+Depending on your location, data transfers may involve transferring and storing you information in a country other than your own. You are entitled to learn about the legal basis of information transfers to a country outside the European Union or to any international organization governed by public international law or set up by two or more countries, such as the UN, and about the security measures taken by us to safeguard your information. If any such transfer takes place, you can find out more by checking the relevant sections of this document or inquire with us using the information provided in the contact section.
 
-_With Best Regards_
+ **The Rights of Users**
 
-Muhammad Younis
+You may exercise certain rights regarding your information processed by us. In particular, you have the right to do the following:
 
-Administrator
+(i) you have the right to withdraw consent where you have previously given your consent to the processing of your information;
 
-http://www.adspk.pk
+(ii) you have the right to object to the processing of your information if the processing is carried out on a legal basis other than consent;
+
+(iii) you have the right to learn if information is being processed by us, obtain disclosure regarding certain aspects of the processing and obtain a copy of the information undergoing processing;
+
+(iv) you have the right to verify the accuracy of your information and ask for it to be updated or corrected;
+
+(v) you have the right, under certain circumstances, to restrict the processing of your information, in which case, we will not process your information for any purpose other than storing it;
+
+(vi) you have the right, under certain circumstances, to obtain the erasure of your Personal Information from us;
+
+(vii) you have the right to receive your information in a structured, commonly used and machine readable format and, if technically feasible, to have it transmitted to another controller without any hindrance. This provision is applicable provided that your information is processed by automated means and that the processing is based on your consent, on a contract which you are part of or pre-contractual obligations thereof.
+
+ **The Right to Object to Processing**
+
+Where Personal Information is processed for a public interest, in the exercise of an official authority vested in us or for the purposes of the legitimate interests pursued by us, you may object to such processing by providing a ground related to your particular situation to justify the objection. You must know that, however, should your Personal Information be processed for direct marketing purposes, you can object to that processing at any time without providing any justification. To learn, whether we are processing Personal Information for direct marketing purposes, you my refer to the relevant sections of this document.
+
+ **How to Exercise these Rights**
+
+Any requests to exercise User right can be directed to the Owner through the contact details provided in this document. These requests can be exercised free of charge and will be addressed by the Owner as early as possible and always within one month.
+
+ **Privacy of Children**
+
+We do not knowingly collect any Personal Information from children under the age of 13. If you are under the age of 13, please do not submit any Personal Information through our Website or Service. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce this Policy by instructing their children never to provide Personal Information through our Website or Service without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Information to us through our Website or Service, please contact us.
+
+ **Advertisement**
+
+We may display online advertisements and we may share aggregated and non-identifying information about our customers that we collect through the registration process or through online surveys and promotions with certain advertisers. We do not share personally identifiable information about individual customers with advertisers. In some instances, we may use this aggregated and non-identifying information to deliver tailored advertisements to the intended audience.
+
+ **Information Security**
+
+We secure information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use, or disclosure. We maintain reasonable administrative, technical, and physical safeguards in an effort to protect against unauthorized access, use, modification, and disclosure of Personal Information in its control and custody. However, no data transmission over the Internet or wireless network can be guaranteed. Therefore, while we strive to protect your Personal Information, you acknowledge that:
+
+(i) there are security and privacy limitations of the Internet which are beyond our control;
+
+(ii) the security, integrity, and privacy of any and all information and data exchanged between you and our Website cannot be guaranteed; and
+
+(iii) any such information and data may be viewed or tampered with in transit by a third-party, despite best efforts.
+
+ **Data Breach**
+
+In the event we become aware that the security of the Website has been compromised or users Personal Information has been disclosed to unrelated third-parties as a result of external activity, including, but not limited to, security attacks or fraud, we reserve the right to take reasonably appropriate measures, including, but not limited to, investigation and reporting, as well as notification to and cooperation with law enforcement authorities. In the event of a data breach, we will make reasonable efforts to notify affected individuals if we believe that there is a reasonable risk of harm to the user as a result of the breach or if notice is otherwise required by law. When we do we will post a notice on the Website, send you an email, get in touch with you over the phone, mail you a letter.
+
+ **Changes and Amendments**
+
+We reserve the right to modify this Privacy Policy relating to Website or Services at any time, effective upon posting of an updated version of this Policy on the Website. When we do we will revise the updated date at the bottom of this page. Continued use of the Website after any such changes shall constitute your consent to such changes. Policy was created with WebsitePolicies.com
+
+ **Acceptance of this Policy**
+
+You acknowledge that you have read this Policy and agree to all its terms and conditions. By using the Website or its Services you agree to be bound by this Policy. If you do not agree to abide by the terms of this Policy, you are not authorized to use or access the Website and its Services.
+
+ **Contacting Us**
+
+If you have any questions about this Policy, please contact us.
+
+This document was last updated on June 1, 2018
+
+  * If there are any questions regarding this Privacy Policy, you may contact us by
+
+
+
+ **             **emailing: adspk.pk@gmail.com
+
+According to GDPR rules
