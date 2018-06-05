@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the twentytwowords.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212064117id_/http%3A//brainjoltmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twentytwowords.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605144404id_/http%3A//brainjoltmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Brainjolt
+
+For privacy information specific to 22 Words or MagiQuiz, please visit our brand policy pages [here](http://twentytwowords.com/privacy/) and [here](http://www.magiquiz.com/privacy-policy).
 
 ### What information do we collect?
 
@@ -56,4 +58,4 @@ Included are:
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on 6/23/2016
+This policy was last modified on 6/1/2018
