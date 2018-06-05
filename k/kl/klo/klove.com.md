@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the klove.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218000025id_/http%3A//www.klove.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klove.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605221541id_/http%3A//www.klove.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Positive & Encouraging K-LOVE
 
@@ -39,7 +39,7 @@ In some cases, Internet cookies and tracking pixels may be used to give you usef
 
 ## Preferences
 
-Registered Users may manage their accounts at [My Account](https://donor.klove.com/account). Users may [unsubscribe](https://donor.klove.com/account) at any time to any of our electric communications. Users may [opt-out](http://www.networkadvertising.org/choices/) of the use of their data for internet-based advertising. Users may request all personally identifiable information be deleted by contacting us.
+Registered Users may manage their accounts at [My Account](https://donor.klove.com/account). Users may [unsubscribe](https://ww2.klove.com/communication-preferences) at any time to any of our electric communications. Users may [opt-out](http://www.networkadvertising.org/choices/) of the use of their data for internet-based advertising. Users may request all personally identifiable information be deleted by contacting us.
 
 ## Other Information You May Want
 
