@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bargello.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202050935id_/http%3A//bargello.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bargello.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605061601id_/http%3A//bargello.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Bargello.com Privacy Policy, Cookies, Information
-
-**Bargello.com Privacy Policy**
 
 We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the Web pages, newsletters, discussion lists and opt-in announcement lists managed and/or owned and/or operated by Bargello.com 
 
@@ -51,4 +49,4 @@ Ultimately, you are solely responsible for maintaining the secrecy of your perso
 
 **Your Consent To This Agreement**
 
-By using the Web sites managed and/or owned by Bargello.com, you consent to the collection and use of information by us as specified above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.  
+By using the Web sites managed and/or owned by Bargello.com, you consent to the collection and use of information by us as specified above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
