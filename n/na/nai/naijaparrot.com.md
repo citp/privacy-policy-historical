@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the naijaparrot.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121050155id_/http%3A//naijaparrot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naijaparrot.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605033756id_/http%3A//naijaparrot.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | NaijaParrot.com
+# Privacy Policy - NaijaParrot.com
 
 **What information do we collect?** We collect information from you when you register on our site.
 
@@ -54,7 +54,13 @@ If there are any questions regarding this privacy policy you may contact us thro
 
 [www.naijaparrot.com/contact-us](http://www.naijaparrot.com/contact-us/)
 
-**[Join our TELEGRAM channel for daily updates: https://t.me/naijaparrot](https://t.me/naijaparrot) **
+**AD:**[ **How I make N225,000 Naira From the Internet Every Month**](http://ng44.com/ebiz?a=th)
+
+**AD:**[ **How I Cured My Weak Erection Naturally - Samuel Ulani**](http://ng44.com/erd?d=th)
+
+**AD:**[ **LOOKING for a JOB? Submit your Email. CLICK HERE**](http://latestnigerianjobs.com/subscribe/)
+
+ **[Join our TELEGRAM channel for daily updates: https://t.me/naijaparrot](https://t.me/naijaparrot) **
 
 **Are you On Twitter?** Follow [@naijaparrot1](https://twitter.com/intent/follow?region=follow_link&screen_name=naijaparrot1) for news and job updates. For jobs updates only, follow [@naijajobfinder](https://twitter.com/intent/follow?region=follow_link&screen_name=naijajobfinder)
 
