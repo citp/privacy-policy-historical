@@ -1,88 +1,84 @@
-> *The following text is extracted and transformed from the pixlr.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225030724id_/http%3A//pixlr.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixlr.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605230026id_/https%3A//pixlr.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy
 
-## Pixlr™ privacy policy
+## PRIVACY NOTICE
 
-This privacy policy was last updated on 23 November 2011
+**Summary of how we use your data**
 
-### Our Policy:
-
-Welcome to the web site (the “ **Site** ”) of Code Mine in Stockholm AB (“ **Pixlr** ”, “ **we** ”, “ **us** ” and/or “ **our** ”). This Site is operated by Pixlr and has been created to provide information about our company and to provide photo-related services (including photo editing and photo sharing services) and other services (collectively, the “ **Services** ”) to our Site visitors (“ **you** ” and/or “ **your** ”). This Privacy Policy sets forth Pixlr’s policy with respect to information including personally identifiable data (“ **Personal Data** ”) and other information that is collected from Site visitors. 
-
-### Information We Collect:
-
-When you interact with us through the Site, we may collect Personal Data and other information from you, as further described below: 
-
-  * **Personal Data That You Provide Through the Site:** We collect Personal Data from you when you voluntarily provide such information, such as when you register for access to the Services, use certain Services, contact us with inquiries or respond to one of our surveys. Wherever Pixlr collects Personal Data we make an effort to provide a link to this Privacy Policy. 
-  * **Data Provided When Using Our Services Involving Other Sites:** We have business relationships with other websites, where those sites make our Services available, for example through a link or frame that will transfer you to our Site. Some information may be shared automatically in order to make the connection, such as your Internet Protocol (IP) address. In other cases, you may be prompted to provide registration information. We request our partners to provide a link to or the URL (web address) of this Privacy Policy in these cases. 
-
-**By providing us with Personal Data as described above, you are consenting to our use of it in accordance with this Privacy Policy. You acknowledge and agree that such Personal Data and other data may be transferred from your current location to the offices and servers of Pixlr and the authorized third parties referred to herein located in the United States or elsewhere.**
-
-  * **Other Information:**
-    * **Non-Identifiable Data:** When you interact with Pixlr through the Site, we receive and store certain personally non-identifiable information. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you. Pixlr may store such information itself or such information may be included in databases owned and maintained by Pixlr affiliates, agents or service providers. This Site may use such information and pool it with other information to track, for example, usage data for the Services, the types of filters and applications used by users of the Services, the number of images that are open on our Site, the total number of visitors to our Site, the number of visitors to each page of our Site and the domain names of our visitors' Internet service providers. It is important to note that no Personal Data is available or used in this process. 
-
-In operating this Site, we may use a technology called "cookies." A cookie is a piece of information that the computer that hosts our Site gives to your browser when you access the Site. Our cookies help provide additional functionality to the Site and help us analyze Site usage more accurately. For instance, our Site may set a cookie on your browser that allows you to access the Site without needing to remember and then enter a password more than once during a visit to the Site. In all cases in which we use cookies, we will not collect Personal Data except with your permission. On most web browsers, you will find a “help” section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies turned on because they allow you to take advantage of some of the Site’s features. 
-
-    * **Aggregated Personal Data:** In an ongoing effort to better understand and serve the users of the Services, Pixlr often conducts research on its customer demographics, interests and behavior based on the Personal Data and other information provided to us. This research may be compiled and analyzed on an aggregate basis, and Pixlr may share this aggregate data with its affiliates, agents and business partners. This aggregate information does not identify you personally. Pixlr may also disclose aggregated user statistics in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes. 
+  * PIXLR uses your personal data to manage your relationship with us, allow you to purchase services from us, deal with invoicing and ensure that we can communicate with you efficiently.
+  * Data is shared with other members of the PIXLR group of companies and third party agents who assist us with the sale and provision of our services.
+  * Where we rely on your consent, such as for direct marketing, you can withdraw this consent at any time.
 
 
 
-### Our Use of Your Personal Data and Other Information:
+**What does this policy cover?**
 
-Pixlr uses the Personal Data you provide in a manner that is consistent with this Privacy Policy. If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by e-mail, we will use the Personal Data you provide to answer your question or resolve your problem. Also, if you provide Personal Data in order to obtain access to the Services, we will use your Personal Data to provide you with access to such services and to monitor your use of such services. Pixlr, its parent, subsidiaries and affiliates (the “ **Pixlr Related Companies** ”) may also use your Personal Data and other personally non-identifiable information collected through the Site to help us improve the content and functionality of the Site, to better understand our users and to improve the Services. Pixlr and its affiliates may use this information to contact you in the future to tell you about services we believe will be of interest to you. If we do so, each communication we send you will contain instructions permitting you to "opt-out" of receiving future communications. In addition, if at any time you wish not to receive any future communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below. 
+This policy describes how 123RF Limited and other companies in our group (also referred to as "PIXLR", "we" or "us") will make use of your data to purchase services from our website (https://www.pixlr.com/). 
 
-If Pixlr intends on using any Personal Data in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which the Personal Data is collected. 
+It also describes your data protection rights, including a right to object to some of the processing which PIXLR carries out. More information about your rights, and how to exercise them, is set out in the “What rights do I have?” section.
 
-### Our Disclosure of Your Personal Data and Other Information:
+**What information do we collect?**
 
-Pixlr is not in the business of selling your information. We consider this information to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, as set forth below: 
+We collect and process personal data about you when you interact with us and our websites, and when you purchase services from us. This includes: 
 
-  * **Business Transfers:** As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets. 
-
-  * **Related Companies:** We may also share your Personal Data with our Related Companies for purposes consistent with this Privacy Policy. 
-
-  * **Agents, Consultants and Related Third Parties:** Pixlr, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include data hosting, mailing information, maintaining databases and processing payments. When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function. 
-
-  * **Fulfillment of Your Requests:** Certain Services enable you to access and save images to social media platforms and/or other websites. Use of these functions may require you to enter log in credentials for, or accept special terms and conditions for, the social media platform or other website whether or not you are already logged in, and of course posting images is subject to the applicable terms of service of the platform or website. We may need to share certain information (such as your IP address) in order to fulfill your request to share information. 
-
-  * **Legal Requirements:** Pixlr may disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of Pixlr, (iii) act in urgent circumstances to protect the personal safety of users of the Site or the public, or (iv) protect against legal liability. 
+  * your name
+  * your email address
+  * your phone number 
+  * your address
+  * your payment details (including your billing address or PayPal account or bank details, as appropriate)
+  * information related to the browser or device you use to access our website;
 
 
 
+**How do we use this information, and what is the legal basis for this use?**
 
-### Your Choices:
+We process this personal data for the following purposes:
 
-You can use the Site without providing any Personal Data. If you choose not to provide any Personal Data, you may not be able to use certain Services. 
+  * To fulfil a contract, or take steps linked to a contract: this is relevant where you make a purchase from us. This includes: 
+  *     * verifying your identity;
+    * taking payments; 
+    * communicating with you;
+    * providing customer services and arranging the delivery or other provision of services;
+  * Where we have a legitimate interest. This includes:
+  *     * to conduct research, analysis and analytics.
+  * Where you give us consent:
+  *     * we will send you direct marketing in relation to our relevant products and services, or other products and services provided by us, our affiliates and carefully selected partners. 
+    * we place cookies and use similar technologies in accordance with our Cookies Policy and the information provided to you when those technologies are used
+    * on other occasions where we ask you for consent, we will use the data for the purpose which we explain at that time.
 
-### Exclusions:
 
-This Privacy Policy does not apply to any Personal Data collected by Pixlr other than Personal Data collected through the Site. This Privacy Policy shall not apply to any unsolicited information you provide to Pixlr through this Site or through any other means. This includes, but is not limited to, information posted to any public areas of the Site (“ **Public Areas** ”) (such as bulletin boards, discussion forums or chat rooms), any ideas for new products or modifications to existing products or services, and other unsolicited submissions (collectively, “ **Unsolicited Information** ”). All Unsolicited Information shall be deemed to be non-confidential and Pixlr shall be free to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution 
 
-### Children:
+**Withdrawing consent or otherwise objecting to direct marketing**
 
-Pixlr does not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data through the Site. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data on this Site without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to Pixlr through this Site, please contact us, and we will endeavor to delete that information from our databases 
+Wherever we rely on your consent, you will always be able to withdraw that consent, although we may have other legal grounds for processing your data for other purposes, such as those set out above. In some cases, we are able to send you direct marketing without your consent, where we rely on our legitimate interests. You have an absolute right to opt-out of direct marketing, or profiling we carry out for direct marketing, at any time. You can do this by following the instructions in the communication where this is an electronic message, or by contacting us using the details set out below.
 
-### Links to Other Web Sites:
+**What rights do I have?**
 
-This Privacy Policy applies only to the Site. This Site may contain links to other web sites not operated or controlled by Pixlr (the “ **Third Party Sites** ”). The policies and procedures we described here do not apply to the Third Party Sites. The links from this Site do not imply that Pixlr endorses or has reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies. 
+You have the right to **ask us for a copy** of your personal data; to **correct, delete** or **restrict** (stop any active) processing of your personal data; and to **obtain the personal data you provide to us for a contract or with your consent in a structured, machine readable format,** and to ask us to share **(port) this data to another controller.**
 
-### Security:
+In addition, you can **object to the processing** of your personal data in some circumstances (in particular, where we don’t have to process the data to meet a contractual or other legal requirement, or where we are using the data for direct marketing). 
 
-Pixlr takes reasonable steps to protect the Personal Data provided via the Site from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or e-mail transmission is ever fully secure or error free. In particular, e-mail sent to or from this Site may not be secure. Therefore, you should take special care in deciding what information you send to us via e-mail. Please keep this in mind when disclosing any Personal Data to Pixlr via the Internet. 
+These **rights may be limited,** for example if fulfilling your request would reveal personal data about another person, or if you ask us to delete information which we are required by law to keep or have compelling legitimate interests in keeping. 
 
-### Other Terms and Conditions:
+To exercise any of these rights, you can get in touch with us – or our data protection officer – using the details set out below. If you have unresolved concerns, you have the **right to complain** to an EU data protection authority where you live, work or where you believe a breach may have occurred. 
 
-Your access to and use of this Site is subject to the [Terms of Service](https://web.archive.org/terms_of_service/ "Terms of Service"). 
+**How do I get in touch with you?**
 
-### Changes to Pixlr’s Privacy Policy:
+We hope that we can satisfy queries you may have about the way we process your data. If you have any concerns about how we process your data, or would like to opt out of direct marketing, you can get in touch at info@pixlr.com. 
 
-The Site and our business may change from time to time. As a result, at times it may be necessary for Pixlr to make changes to this Privacy Policy. Pixlr reserves the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the Site after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy. 
+**Which PIXLR entity is my data controller, and which affiliates might my data be shared with?**
 
-### Access to Information; Contacting Pixlr:
+The data controller for your information is 123RF Limited. Your personal data may be shared with other members of our group and certain third party agents
 
-To keep your Personal Data accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via this Site 
+**How long will you retain my data?**
 
-Please also feel free to contact us if you have any questions about Pixlr’s Privacy Policy or the information practices of this Site. 
+Where we process registration data, we do this for as long as you are an active user of our sites and for 12 months after this.
 
-You may contact us by sending an email to the following address: [info@pixlr.com](mailto:info@pixlr.com)
+Where we process personal data for marketing purposes or with your consent, we process the data until you ask us to stop and for a short period after this (to allow us to implement your requests). We also keep a record of the fact that you have asked us not to send you direct marketing or to process your data so that we can respect your request in future.
+
+Where we process personal data in connection with performing a contract, we keep the transactional data for six years from your last interaction with us (or such longer period as may be required by law).
+
+**Language**
+
+This policy is written in English with a reference translation in another language (if necessary). In the event of any conflict in interpreting or construing the terms of this policy, the English version shall prevail.
