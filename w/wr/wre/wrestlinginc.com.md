@@ -1,39 +1,246 @@
-> *The following text is extracted and transformed from the wrestlinginc.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123025919id_/http%3A//www.wrestlinginc.com/wi/pages/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrestlinginc.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605191733id_/http%3A//www.wrestlinginc.com/wi/pages/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - WrestlingInc.com
 
-_Your privacy is important to us. Webcapacity Incorporated has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this site. We are committed to undertaking reasonable measures to protect the privacy and security of all of the personal information that is provided to us. Please read the following description of our policies and practices regarding your personal information._
+Effective date: May 16, 2018
 
-## Collection of Personal Information
+Webcapacity Incorporated ("us", "we", or "our") operates the http://www.WrestlingINC.com website (the "Service").
 
-We collect personal information in a couple of circumstances. For example, we collect personal information from you such as your e-mail address when you register for our email updates. We may collect personal information with your consent or as required or permitted by law. 
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
-## Use and Disclosure of Personal Information
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from http://www.WrestlingINC.com
 
-We use your personal information such as your email address, name and age to send email updates and newsletters to you.
+## Definitions
 
-We may also use aggregated, non personally identifying information collected from you to help diagnose problems with our server and to administer our Web site.
+  * **Service**
 
-We may disclose personal information as necessary to meet legal, regulatory, insurance, audit and security requirements, with your consent, or as permitted or required by law.
+Service is the http://www.WrestlingINC.com website operated by Webcapacity Incorporated
 
-## Cookies and web sites
+  * **Personal Data**
 
-From time to time, we may place a "cookie" on your computer. Our third party service providers and ad servers may use cookies as well. A cookie is a file written to your computer's hard drive that records certain technical information about your Internet usage, such as your IP address, computer and connection information such as browser type and version, operating system and platform and domain name. If you submit personal information to our web site (such as your name, interests or preferences), we may use cookies to keep track of such information so that you will not need to reenter this information during subsequent visits. We use cookies to enable features such as our polls and for other internal site administration purposes. In addition, our ad servers may use non-personally identifiable information about your visits to this and other web sites to customize delivery of advertisements to this and other web sites. You may set your Internet browser preferences to notify you when you receive a cookie or decline acceptance of cookies. If you decline acceptance of cookies, however, you may experience less than optimal performance of our web site.
+Personal Data means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
 
-Web servers operated by us, and by third party service providers and advertisers, may automatically collect non-personal information about which pages you visit, as well as your IP address or domain name. We may use this information for various purposes, such as tailoring our web site content, and assessing the amount of traffic to various parts of our web site. We may also provide this information on an aggregated, anonymous basis to our marketing partners and/or advertisers.
+  * **Usage Data**
 
-We use third party analytics service providers to analyze the user experience on our websites. No personally identifiable information is ever collected by these other analytics service providers. This analysis is performed using anonymous data collected from our websites and we do not link this anonymous statistical data to any personal information you may have otherwise volunteered to us.
+Usage Data is data collected automatically either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [http://networkadvertising.org](http://networkadvertising.org/).
+  * **Cookies**
 
-## Security
+Cookies are small pieces of data stored on your device (computer or mobile device).
 
-We have adopted reasonable security measures, appropriate to the sensitivity of the personal information, against unauthorized access, disclosure, loss or destruction of personal information. These measures may include technological, physical and organizational methods of security.
+  * **Data Controller**
 
-## Access, Correction and Contacting Us
+Data Controller means the natural or legal person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal information are, or are to be, processed.
 
-If you have any comments, complaints or questions about our privacy or security practices or about your information that is in our possession/control, including its accuracy or integrity, or if you wish to change your preferences as to how we use the information, please contact us by clicking [here](https://web.archive.org/wi/pages/contact-us.shtml "Contact Us.").
+For the purpose of this Privacy Policy, we are a Data Controller of your Personal Data.
 
-Please note that this site contains links to websites that are not operated by us. We are not responsible for the privacy practices or the content of such websites, and we recommend that you view the privacy policy posted on each site that you use to confirm that the site's policies are acceptable to you.
+  * **Data Processors (or Service Providers)**
 
-Last updated as of March 05, 2012
+Data Processor (or Service Provider) means any natural or legal person who processes the data on behalf of the Data Controller.
+
+We may use the services of various Service Providers in order to process your data more effectively.
+
+  * **Data Subject (or User)**
+
+Data Subject is any living individual who is using our Service and is the subject of Personal Data.
+
+
+
+
+## Information Collection And Use
+
+We collect several different types of information for various purposes to provide and improve our Service to you.
+
+### Types of Data Collected
+
+#### Personal Data
+
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
+
+  * Cookies and Usage Data
+
+
+
+#### Usage Data
+
+We may also collect information how the Service is accessed and used ("Usage Data"). This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+
+#### Tracking & Cookies Data
+
+We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
+
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
+
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+
+Examples of Cookies we use:
+
+  * **Session Cookies.** We use Session Cookies to operate our Service.
+  * **Preference Cookies.** We use Preference Cookies to remember your preferences and various settings.
+  * **Security Cookies.** We use Security Cookies for security purposes.
+  * **Advertising Cookies.** Advertising Cookies are used to serve you with advertisements that may be relevant to you and your interests.
+
+
+
+## Use of Data
+
+Webcapacity Incorporated uses the collected data for various purposes:
+
+  * To provide and maintain our Service
+  * To notify you about changes to our Service
+  * To allow you to participate in interactive features of our Service when you choose to do so
+  * To provide customer support
+  * To gather analysis or valuable information so that we can improve our Service
+  * To monitor the usage of our Service
+  * To detect, prevent and address technical issues
+
+
+
+## Legal Basis for Processing Personal Data Under General Data Protection Regulation (GDPR)
+
+If you are from the European Economic Area (EEA), Webcapacity Incorporated legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Data we collect and the specific context in which we collect it.
+
+Webcapacity Incorporated may process your Personal Data because:
+
+  * We need to perform a contract with you
+  * You have given us permission to do so
+  * The processing is in our legitimate interests and it's not overridden by your rights
+  * To comply with the law
+
+
+
+## Retention of Data
+
+Webcapacity Incorporated will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+
+Webcapacity Incorporated will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.
+
+## Transfer Of Data
+
+Your information, including Personal Data, may be transferred to â€” and maintained on â€” computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+If you are located outside United States and choose to provide information to us, please note that we transfer the data, including Personal Data, to United States and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+Webcapacity Incorporated will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+
+## Disclosure Of Data
+
+### Legal Requirements
+
+Webcapacity Incorporated may disclose your Personal Data in the good faith belief that such action is necessary to:
+
+  * To comply with a legal obligation
+  * To protect and defend the rights or property of Webcapacity Incorporated
+  * To prevent or investigate possible wrongdoing in connection with the Service
+  * To protect the personal safety of users of the Service or the public
+  * To protect against legal liability
+
+
+
+## Security Of Data
+
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+
+## "Do Not Track" Signals
+
+We do not support Do Not Track ("DNT"). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
+
+You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
+
+## Your Data Protection Rights Under General Data Protection Regulation (GDPR)
+
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. Webcapacity Incorporated aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
+
+If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us.
+
+In certain circumstances, you have the following data protection rights:
+
+  * **The right to access, update or to delete the information we have on you.** Whenever made possible, you can access, update or request deletion of your Personal Data directly within your account settings section. If you are unable to perform these actions yourself, please contact us to assist you.
+
+  * **The right of rectification.** You have the right to have your information rectified if that information is inaccurate or incomplete.
+
+  * **The right to object.** You have the right to object to our processing of your Personal Data.
+
+  * **The right of restriction.** You have the right to request that we restrict the processing of your personal information.
+
+  * **The right to data portability.** You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format.
+
+  * **The right to withdraw consent.** You also have the right to withdraw your consent at any time where Webcapacity Incorporated relied on your consent to process your personal information.
+
+
+
+
+Please note that we may ask you to verify your identity before responding to such requests.
+
+You have the right to complain to a Data Protection Authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority in the European Economic Area (EEA).
+
+## Service Providers
+
+We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+### Analytics
+
+We may use third-party Service Providers to monitor and analyze the use of our Service.
+
+  * **Google Analytics**
+
+Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
+
+You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <http://www.google.com/intl/en/policies/privacy/>
+
+  * **Statcounter**
+
+Statcounter is a web traffic analysis tool. You can read the Privacy Policy for Statcounter here: <https://statcounter.com/about/legal/>
+
+
+
+
+### Advertising
+
+We may use third-party Service Providers to show advertisements to you to help support and maintain our Service.
+
+  * **Google AdSense & DoubleClick Cookie**
+
+Google, as a third party vendor, uses cookies to serve ads on our Service. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet.
+
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: <http://www.google.com/ads/preferences/>
+
+
+
+
+## Links To Other Sites
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+## Children's Privacy
+
+Our Service does not address anyone under the age of 18 ("Children").
+
+We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+
+## Changes To This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us:
+
+  * By email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+  * By visiting [this page](http://www.wrestlinginc.com/wi/pages/contact-us.shtml) on our website
+  * By mail: PO Box 281084  
+Lakewood, CO 80228
+
+
