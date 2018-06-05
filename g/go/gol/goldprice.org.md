@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldprice.org privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228070543id_/https%3A//goldprice.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldprice.org privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606013613id_/https%3A//goldprice.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -31,4 +31,4 @@ Contacting goldprice.org
 
 If you have any questions regarding our privacy policy or how to unsubscribe from our email lists please don't hesitate to contact us:
 
-Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2b4c44474f5b5942484e00434e475b6b4c464a424705484446)
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#96f1f9faf2e6e4fff5f3bdfef3fae6d6f1fbf7fffab8f5f9fb)
