@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winespectator.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120181328id_/http%3A//www.winespectator.com/display/show/id/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winespectator.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605085237id_/http%3A//www.winespectator.com/display/show/id/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wine Spectator
 
