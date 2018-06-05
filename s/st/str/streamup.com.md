@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streamup.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128202704id_/https%3A//streamup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamup.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605135043id_/http%3A//streamup.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Streamup
 
