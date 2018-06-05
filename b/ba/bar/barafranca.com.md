@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the barafranca.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204220558id_/http%3A//omerta.wiki/display/OMERTA/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barafranca.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605045751id_/http%3A//omerta.wiki/display/OMERTA/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Omerta - Omerta Wiki
+
+The present Privacy Policy is provided to you only in English. If you do not understand the content of this document, please do not use our website. By using our website, you hereby declare that you understand the provisions of this document and that you agree to be bound by it.
+
+ **Last updated on May 25, 2018**
 
 ## **Omerta Publishing Limited Privacy Policy**
 
@@ -12,11 +16,22 @@ For the purpose of any applicable data protection and privacy legislation, the d
 
 ### INFORMATION WE MAY COLLECT FROM YOU
 
-We may collect and process the following data about you:
+Omerta may process personal data about you, because you use the services of Omerta. and / or because you provide Omerta with it. Omerta can process the following personal data:  
 
-Information that you provide by filling in forms on our site(s) [barafranca.com](http://barafranca.com/), and other sites of Omerta Publishing Limted. This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by our business partners and when you report a problem with our site.
 
-If you contact us, we may keep a record of that correspondence.
+  * Your phone number
+  * Your email address
+  * Your IP adres 
+  * Your browser information
+  * Your Facebook account ID   
+
+
+
+
+Information that you provide by filling in forms on our site(s) [barafranca.com](http://barafranca.com/), [barafranca.nl](http://barafranca.nl/), [omerta.pt](http://omerta.pt/), [omerta.com.tr](http://omerta.com.tr/), omerta.wiki, and other sites of Omerta Publishing Limted. This includes information provided at the time of registering to use our site, subscribing to our service, posting material, requesting further services or by connecting our IRC server. We may also ask you for information when you enter a competition or promotion sponsored by our business partners and when you report a problem with our site.
+
+If you contact us, we may keep a record of that correspondence.   
+
 
 We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
 
@@ -36,6 +51,24 @@ We may collect information about your computer, including where available your I
 
 
 You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
+
+### OMERTA SMS
+
+Inside Omerta you have the option to register your phone number, if you do this you can receive messages from other players if you enable this option. It's also possible to get fully automatic messages from Omerta Publishing Ltd. about account related events.
+
+Your phone number won't be visible to anyone and Omerta won't never share or use your phone number for other purposes. 
+
+### GOOGLE ANALYTICS
+
+Omerta Publishing Ltd. uses Google Analytics. The information thus obtained is transferred to and stored by Google on servers in the United States. Read Google's privacy policy for more information. You also find the privacy policy of Google Analytics here. Google uses this information to keep track of how our website is used, in order to provide reports on the Website to Omerta Publishing Ltd. Google may provide this information to third parties if Google is legally obliged to do so. Omerta Publishing Ltd. has no influence on this. Omerta Publishing Ltd. has not authorized Google to use Analytics information obtained through Omerta Publishing Ltd. for other Google services.
+
+### IRC 
+
+The basic IRC services that we offer don't require you to provide us with personally identifiable information as a condition of use. 
+
+If you register your nickname, you will be required to provide an email address which will only be used in verifying you are not a bot.
+
+Our servers do collect routine internet connection information such as your IP address, the time of your connection. We also scan your computer for open proxies which could cause harm to the network. However, this type of information cannot be matched with any personally identifiable information about you since we don't collect it in the first place.
 
 ### WHERE WE STORE YOUR PERSONAL DATA
 
@@ -70,18 +103,22 @@ If we are under a duty to disclose or share your personal data in order to compl
 
 ### YOUR RIGHTS
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by by contacting us at [feedback@barafranca.com](mailto:feedback@barafranca.com), or send a letter addressed to Omerta Publishing Limited., at 11 Queens Way, Cottingham, England, HU16 4EJ, United Kingdom.
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by by contacting us at [privacy@omerta.uk](mailto:feedback@barafranca.com), or send a letter addressed to Omerta Publishing Limited., at 11 Queens Way, Cottingham, England, HU16 4EJ, United Kingdom.
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
-### ACCESS TO INFORMATION
+### ACCESS OR DELETE INFORMATION
 
-You have the right to access information held about you. Please direct any access request to our Privacy Administrator.
+You have the right to view or delete your personal data. You can send a request for inspection or deletion to [privacy@omerta.uk](mailto:feedback@barafranca.com). Omerta will respond to your request as soon as possible, but within four weeks.
 
-### CHANGES TO OUR PRIVACY POLICY
+### HOW LONG WILL THE DATA BE STORED
+
+Omerta does not store your personal data for longer than is strictly necessary to achieve the goals for which your data is collected. Data other than the e-mail will not be stored for more than a year if you no longer have a active account.
+
+###  CHANGES TO OUR PRIVACY POLICY
 
 By using this Website, you signify your assent to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. This Privacy Policy may change from time to time, so please check back periodically to ensure that you are aware of any changes. If we make a material change to this Privacy Policy, we will notify you by posting the change on this website or in this Privacy Policy and, if necessary, give you additional choices regarding such change. Your continued use of the Omerta Publishing Limited sites will signify your acceptance of these changes.
 
 #### CONTACT
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [feedback@barafranca.com](mailto:feedback@barafranca.com) or by letter to Omerta Game Limited., at 11 Queens Way, Cottingham, England, HU16 4EJ, United Kingdom.
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [privacy@omerta.uk](mailto:feedback@barafranca.com) or by letter to Omerta Game Limited., at 11 Queens Way, Cottingham, England, HU16 4EJ, United Kingdom.
