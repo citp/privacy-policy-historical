@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the go4schools.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215101516id_/http%3A//www.go4schools.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go4schools.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605233554id_/http%3A//www.go4schools.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy : GO 4 Schools
 
@@ -6,50 +6,63 @@ GO 4 Schools would like to place cookies on your computer to help us make this s
 
 I accept cookies from this site.
 
-Last modified: April 24, 2015
+Last modified: 30 November 2017
 
-Hyperspheric Solutions Ltd ("Hyperspheric"), the company behind the GO 4 Schools product, recognises that privacy is important. This Privacy Policy applies to the GO 4 Schools product ("www.go4schools.com") and lets you know how any personal information is processed and used by us. Our procedures covering the storage and disclosure of your information are designed to comply with the Data Protection Act 1998.
+Hyperspheric Solutions Ltd ("Hyperspheric"), the company behind the GO 4 Schools product, recognises that privacy is important. This Privacy Policy applies to the data held within the GO 4 Schools system and lets you know how any personal information is processed and used by us.
 
-If you have any questions about this Privacy Policy, please feel free to [contact us](https://web.archive.org/ContactUs.aspx "Contact us") through our website or write to us at:
+There is a separate [Privacy Policy](http://www.hyperspheric.com/Pages/PrivacyPolicy.aspx "Hyperspheric privacy policy") that covers information that is not held within the GO 4 Schools system.
 
-> Hyperspheric Solutions Ltd  
->  Compass House  
->  Vision Park  
->  Chivers Way  
->  Histon  
->  Cambridge CB24 9AD  
-> 
+Our procedures covering the storage and disclosure of your information are designed to comply with the Data Protection Act 1998 and the General Data Protection Regulation (GDPR).
 
-## Information we collect and how we use it
+## Our Privacy Principles
+
+Hyperspheric is committed to safeguarding the privacy of your information. By 'your information' we mean any information about you that you or third parties provide to us.
+
+  * We will only collect and use your information where we have lawful grounds and legitimate business reasons to do so.
+  * We will be transparent in our dealings with you and will tell you about how we will collect and use your information.
+  * If we have collected your information for a particular purpose, we will not use it for anything else unless you have been informed and, where relevant, your permission obtained.
+  * We will not ask for more information than we need for the purposes for which we are collecting it.
+  * We will continue to review and assess the quality of our information.
+  * We will implement and adhere to information retention policies relating to your information, and will ensure that your information is securely disposed of at the end of the appropriate retention period.
+  * We will observe the rights granted to you under applicable privacy and data protection laws, and will ensure that queries relating to privacy issues are promptly and transparently dealt with.
+  * We will train our staff on their privacy obligations.
+  * We will ensure we have appropriate physical and technological security measures to protect your information regardless of where it's held.
+
+
+
+## The categories of data we process
+
+  * Personal details.
+  * Family details.
+  * Lifestyle and social circumstances.
+  * Employment and education details.
+  * We also process sensitive classes of information that may include physical or mental health details; racial or ethnic origin; religious or other beliefs.
+
+
+
+## Data we collect
 
 In order to provide our full range of services, we may collect the following types of information:
 
+  * Your communication preferences, to help us provide tailored and relevant communications.
   * Cookies – When you visit GO 4 Schools, we send one or more cookies – a small file containing a string of characters – to your computer or other device that uniquely identifies your browser. We use cookies to improve the quality of our service, including for storing user preferences, and tracking user trends.
   * Log information – When you access GO 4 Schools, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
   * User communications – When you send email or other communications related to GO 4 Schools, we may retain those communications in order to process your enquiries, respond to your requests and improve our services.
-  * Links – GO 4 Schools may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our product.
+  * Links – GO 4 Schools may present hyperlinks in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our product.
 
 
 
-This information is used for the provision of the GO 4 Schools service, including but not limited to:
-
-  * Allowing schools to support parents with access to their children's data.
-
-
-
-And for:
+This information is used for the provision of the GO 4 Schools service and for:
 
   * Auditing, research and analysis in order to maintain, protect and improve our services.
-  * Ensuring the technical functioning of our network.
+  * Ensuring the technical functioning of our service.
   * Protecting the rights or property of Hyperspheric Solutions Ltd or our users.
 
 
 
-In order to log on to GO 4 Schools you must have supplied one or more schools with your email address or been supplied with an email address by a school. We will use such email addresses solely to allow you to log on to GO 4 Schools and to communicate with you on the request of the appropriate school.
+## Use of cookies by GO 4 Schools
 
-### Use of cookies by GO 4 Schools
-
-Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. 
+Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site.
 
 The table below explains the cookies we use and why.
 
@@ -62,7 +75,21 @@ GO 4 Schools site remember email address |
   * stars_emailAddress
 
 |  These cookies are used to securely record a user's email address so that it can be remembered on the login page.  |    
-GO 4 Schools site ribbon settings | stars_ribbonStats |  This cookie is used to record and persist choices made by the user when viewing tabular and graphical data within our site.  |    
+GO 4 Schools site settings | 
+
+  * stars_ribbonStats
+  * goSheetLayout
+  * goRibbonChartsRecentFilters
+  * goAutoChartDefinitions
+  * goAutoChartRememberMyCharts
+  * goFlightPathPreferences
+
+|  These cookies are used to record and persist choices made by the user when viewing tabular and graphical data within our site.  |    
+GO 4 Schools site settings | 
+
+  * goAttendanceAutoReturn
+
+|  This cookie is used to record and persist choices made by the user when entering attendance marks.  |    
 ASP.NET Session ID | ASP.NET_SessionId |  These cookies are essential in order to enable you to move around the website and use its features. Without this cookie, the service you have asked for cannot be provided.  | [Visit the Microsoft website](http://support.microsoft.com/kb/899918)  
 Google Analytics | 
 
@@ -77,15 +104,48 @@ Most web browsers allow some control of most cookies through the browser setting
 
 To opt out of being tracked by Google Analytics across all websites visit [tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout)
 
-## Information sharing
+## How we process data
 
-Hyperspheric only shares personal information with other companies or individuals outside of Hyperspheric only if we have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against harm to the rights, property or safety of Hyperspheric, its users or the public as required or permitted by law.
+The GO 4 Schools system processes data provided by school/academy to allow them to:
+
+  * Make data about a student available to the student and their parents/guardians to support the student's education.
+  * Make data about students available to school/academy staff to help them support students' education and to work more efficiently.
+  * Make aggregated data about students (containing no user-identifiable data) available to their Governing Bodies and/or Multi-Academy Trusts to help them support students' education.
+
+
+
+We will also use anonymised data (containing no user-identifiable information) for:
+
+  * Producing statistical analyses to help us improve our service and to support schools and academies.
+  * Producing marketing materials.
+
+
+
+## The basis on which data is processed
+
+  * Hyperspheric acts as a Data Processor and the school/academy transferring data to us acts as a Data Controller.
+  * Maintained schools and academies generally have a lawful basis to process data related to students' education and to transfer it to GO 4 Schools for processing to pursue their legitimate interests, but our customers are responsible for ensuring they have the necessary measures in place before they transfer data to us.
+
+
+
+## Disclosure of your information
+
+We will not share, sell or distribute any of the information you provide to us without your consent, except where disclosure is:
+
+  * Necessary to enforce our rights, including under the GO 4 Schools Terms and Conditions.
+  * Necessary to enforce our rights under any other Terms and Conditions.
+  * Required or permitted by law.
+
+
+
+Specifically:
+
+  * **Sub-processors** – Hyperspheric will not sub-contract any processing to third parties without the school/academy's written consent.
+  * **Cross-border transfers** – Hyperspheric does not transfer data outside the European Economic Area (EEA) unless the data is being accessed by a GO 4 Schools user outside the EEA.
+
+
 
 If Hyperspheric becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will ensure the confidentiality of any personal information involved in such transactions and provide notice before personal information is transferred and becomes subject to a different privacy policy.
-
-We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who are using GO 4 Schools. Such information does not identify you individually.
-
-Please contact us at the address below for any additional questions about the management or use of personal data. 
 
 ## Information security
 
@@ -93,15 +153,37 @@ We take appropriate security measures to protect against unauthorised access to 
 
 We restrict access to personal information to Hyperspheric employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
 
-## Data integrity
+## Data retention
 
-Hyperspheric processes personal information only for the purposes for which it was collected and in accordance with this Privacy Policy. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services or as otherwise permitted under this Policy.
+If a school ends their GO 4 Schools subscription, data held within the live system will be:
 
-## Accessing and updating personal information
+  * Anonymised within four weeks of cancellation.
+  * Deleted within sixteen weeks of cancellation.
 
-GO 4 Schools only holds data about you which has been provided by schools. If this data is incorrect, you should contact the school. Changes that the school makes to data held about you will then be automatically reflected within GO 4 Schools.
 
-## Enforcement
+
+Backups of data containing user-identifiable information will be deleted within 6 months. 
+
+## Your rights
+
+The General Data Protection Regulation (GDPR) outlines several rights. More information about these rights, including the conditions under which they apply, can be found [here](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/).
+
+You have the right to:
+
+  * Ask for access to, or rectification or erasure of your data.
+  * Restrict processing (pending correction or deletion).
+  * Object to communications or direct marketing.
+  * Lodge a complaint with the Information Commissioner's Office at <https://ico.org.uk/concerns/>
+
+
+
+You should address such requests to your school/academy which acts as the Data Controller.
+
+None of the data within the GO 4 Schools system is subject to the right for data portability.
+
+GO 4 Schools does not carry out any profiling or automated decision making with a "legal or similarly significant effect"
+
+## Questions and complaints
 
 Hyperspheric regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or Hyperspheric's treatment of personal information by contacting us through this web site or by writing to us at:
 
@@ -119,12 +201,4 @@ When we receive formal written complaints at this address, it is Hyperspheric's 
 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). Each version of this Privacy Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review.
 
-If you have any additional questions or concerns about this Privacy Policy, please feel free to Contact us any time through this web site or at:
-
-> Hyperspheric Solutions Ltd  
->  Compass House  
->  Vision Park  
->  Chivers Way  
->  Histon  
->  Cambridge CB24 9AD  
-> 
+[24/04/2015 - Privacy policy](https://web.archive.org/web/20180605233554id_/http%3A//www.go4schools.com/PrivacyPolicy24_04_15.aspx)
