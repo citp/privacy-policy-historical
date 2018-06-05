@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the adbull.me privacy policy that was archived on 2017-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171226031545id_/http%3A//adbull.me/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adbull.me privacy policy that was archived on 2018-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180605023250id_/http%3A//adbull.me/pages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8"><title>Privacy</title>
@@ -43,7 +43,7 @@ footer .bottom-menu ul { text-transform: inherit; } h4 { color: #35ace0; }
 <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
 <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 <![endif]-->
-<style type="text/css">#cookieWarnBox {position:fixed;z-index:999999;line-height:24px;bottom:0;left:0;right:0;background-color:#24292b;color:#f1f1f1;opacity:0.9;text-align:center;padding:10px;font-size:16px;}#cookieWarnBox span {text-transform:uppercase;cursor:pointer;background-color:#f1f1f1;color:#35ace0;padding:3px 14px;margin-left:10px;}#cookieWarnBox span:hover {background-color:#fefefe;}#cookieWarnBox</style></head>
+</head>
 <body class="inner-page">
 
 <!-- Navigation -->
@@ -79,9 +79,29 @@ footer .bottom-menu ul { text-transform: inherit; } h4 { color: #35ace0; }
     </div>
     <!-- /.container-fluid -->
 </nav>
-<script data-lang-en="{'text' : 'This website uses cookies to enhance your experiences.',
-            'button' : 'I agree', 'more' : 'More information',
-            'link' : 'http://ec.europa.eu/ipg/basics/legal/cookies/index_en.htm'}" data-expire="365" data-style="#cookieWarnBox" type="text/javascript" id="cookieWarn" src="/js/cookie-warn.min.js">
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#24292b",
+      "text": "#ffffff"
+    },
+    "button": {
+      "background": "#1ad56c",
+      "text": "#ffffff"
+    }
+  },
+  "theme": "classic",
+  "type": "opt-out",
+  "content": {
+    "dismiss": "I AGREE",
+    "link": "More information",
+    "href": "http://ec.europa.eu/ipg/basics/legal/cookies/index_en.htm"
+  }
+})});
 </script>
 
 
@@ -200,7 +220,7 @@ Information stored or collected regarding you helps us improve and offer service
                 <div class="col-sm-4 social-links">
                 </div>
                 <div class="col-sm-4 copyright">
-                    <div>Copyright © Adbull.me 2017</div>
+                    <div>Copyright © Adbull.me 2018</div>
 
                 </div>
             </div>
@@ -244,4 +264,4 @@ Information stored or collected regarding you helps us improve and offer service
 
 
 
-<div id="cookieWarnBox" style="undefined"><div class="text">This website uses cookies to enhance your experiences. <a target="_blank" href="http://ec.europa.eu/ipg/basics/legal/cookies/index_en.htm">More information</a> <span id="cookieWarnClose" onclick="cookieWarn.close(365);">I agree</span></div></div></body></html>
+</body></html>
