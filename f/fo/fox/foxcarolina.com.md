@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxcarolina.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210084444id_/http%3A//www.foxcarolina.com/story/31602274/this-web-sites-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxcarolina.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605055032id_/http%3A//www.foxcarolina.com/story/31602274/this-web-sites-privacy-policy) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - FOX Carolina 21
 
