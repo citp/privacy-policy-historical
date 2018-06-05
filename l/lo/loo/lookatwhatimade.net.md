@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lookatwhatimade.net privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228070228id_/http%3A//www.lookatwhatimade.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lookatwhatimade.net privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605053910id_/http%3A//www.lookatwhatimade.net/privacy-policy) for the most accurate reproduction.*
 
-# Disclosure and Privacy Policy – Look At What I Made
+# Disclosure and Privacy Policy ⋆ Look At What I Made
 
-Last updated: October 08, 2015
+Last updated: May 2018
 
 Look At What I Made (“us”, “we”, or “our”) operates the http://www.lookatwhatimade.net website (the “Service”).
 
@@ -40,9 +40,7 @@ You may opt out of the use of the DoubleClick Cookie for interest-based advertis
 
 Look At What I Made uses remarketing services to advertise on third party web sites to you after you visited our Service. We, and our third party vendors, use cookies to inform, optimize and serve ads based on your past visits to our Service.
 
-  * **Google** Google AdWords remarketing service is provided by Google Inc. 
-
-You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the [Google Ads Settings](http://www.google.com/settings/ads "Google Ads Settings") page.
+  * **Google** Google AdWords remarketing service is provided by Google Inc.You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the [Google Ads Settings](http://www.google.com/settings/ads "Google Ads Settings") page. 
 
 Google also recommends installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout "Google Analytics Opt-out Browser Add-on") for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
 
