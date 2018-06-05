@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the asmnet.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121122730id_/http%3A//www.advantagesolutions.net/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asmnet.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605143558id_/http%3A//advantagesolutions.net/pages/privacy) for the most accurate reproduction.*
 
 # Privacy
 
 [Effective Date: March 13, 2006, as amended on January 17, 2011]  
-At Advantage Sales & Marketing LLC ("ASM"), we respect and value your privacy. This privacy statement describes and applies to the information we collect from you when you visit any ASM website (which shall include [www.asmnet.com](https://web.archive.org/) and [www.asmconnects.com](http://www.asmconnects.com/), as well as the websites of any ASM divisions or subsidiaries) (hereinafter collectively referred to as "Website" or "ASM Website"), how we use that information, and under what circumstances we disclose it. It will also give you more information about how to manage the personal information that you provide to us through the ASM Website. This statement applies only to information you provide to us online while visiting or using our website. It does not apply to information we have obtained or may obtain offline through other traditional means.
+At Advantage Sales & Marketing LLC ("ASM"), we respect and value your privacy. This privacy statement describes and applies to the information we collect from you when you visit any ASM website (which shall include [www.asmnet.com](https://web.archive.org/) and [www.asmconnects.com](http://www.asmconnects.com/), as well as the websites of any ASM divisions or subsidiaries) (hereinafter collectively referred to as "Website" or "ASM Website"), how we use that information, and under what circumstances we disclose it. It will also give you more information about how to manage the personal information that you provide to us through the ASM Website. This statement applies only to information you provide to us online while visiting or using our website. It does not apply to information we have obtained or may obtain offline through other traditional means. 
 
   1. **_The Information We Collect_**
 
@@ -11,30 +11,30 @@ When you use our website, we receive and collect certain information. The inform
 
     1. **Automatically Collected Information**
 
-Some information is automatically received and sometimes collected from you when you visit the ASM Website. This information may include some or all of the following items: the name of the domain and host from which you access the Internet, including the Internet Protocol (IP) address of the computer you are using and the IP address of your Internet Service Provider; the type and version of Internet browser software you use and your operating system; the date and time you access our site, the length of your stay and the specific pages, images, video or forms that you access while visiting the site; the Internet address of the website from which you linked directly to our website, and if applicable, the search engine that referred you and any search strings or phrases that you entered into the search engine to find this site; and demographic information concerning the country of origin of your computer and the language(s) used by it.
+Some information is automatically received and sometimes collected from you when you visit the ASM Website. This information may include some or all of the following items: the name of the domain and host from which you access the Internet, including the Internet Protocol (IP) address of the computer you are using and the IP address of your Internet Service Provider; the type and version of Internet browser software you use and your operating system; the date and time you access our site, the length of your stay and the specific pages, images, video or forms that you access while visiting the site; the Internet address of the website from which you linked directly to our website, and if applicable, the search engine that referred you and any search strings or phrases that you entered into the search engine to find this site; and demographic information concerning the country of origin of your computer and the language(s) used by it. 
 
 We use this information to monitor the usage of our website, assess its performance, ensure technological compatibility with your computer, and understand the relative importance of the information provided on our website. We may also use this data to conduct statistical analyses on visitors' usage patterns and other aggregated data.   
 
 
     2. **Information Collected via Cookies**
 
-"Cookies" are small files or records that are placed on your computer's hard drive to distinguish you from other visitors to the Website. The use of cookies is a standard practice among websites to collect or track information about your activities while using the website. A cookie may enable the website holder to track how a visitor navigates through its website and the areas in which they show interest. This is similar to a traffic report: it tracks trends and behaviors, but does not identify individuals. Information gathered may include date and time of visits, pages viewed, time spent at the site, and the website visited just before and just after the ASM Website.
+"Cookies" are small files or records that are placed on your computer's hard drive to distinguish you from other visitors to the Website. The use of cookies is a standard practice among websites to collect or track information about your activities while using the website. A cookie may enable the website holder to track how a visitor navigates through its website and the areas in which they show interest. This is similar to a traffic report: it tracks trends and behaviors, but does not identify individuals. Information gathered may include date and time of visits, pages viewed, time spent at the site, and the website visited just before and just after the ASM Website. 
 
 Cookies can be set to expire: (1) on a specified date; (2) after a specific period of time; (3) when a transaction has been completed; or (4) when a user turns off his/her Internet browser. A cookie that is erased from memory when a visitor's Internet browser closes is called a "session" cookie. Cookies that expire based on a time set by the Web server are called "persistent" cookies.   
-Persistent cookies may be used in some cases, for example, to recognize when a visitor returns to a web site. The web browser will send the cookie information from the initial visit back to the web site. This is useful to the visitor if he or she has established a password at a particular web site and wants to be identified by that site to perform a function or transaction.
+Persistent cookies may be used in some cases, for example, to recognize when a visitor returns to a web site. The web browser will send the cookie information from the initial visit back to the web site. This is useful to the visitor if he or she has established a password at a particular web site and wants to be identified by that site to perform a function or transaction. 
 
 The ASM Website uses persistent cookies on its website. If you refuse cookies, you can still browse the ASM Website.   
 
 
     3. **Information Collected Using Pixel Tags or Clear GIFs**
 
-Pixel Tags or Clear GIFs, also known as Web Beacons or Web Bugs, are transparent graphical images placed on a website. ASM does not currently use these items on its Website.
+Pixel Tags or Clear GIFs, also known as Web Beacons or Web Bugs, are transparent graphical images placed on a website. ASM does not currently use these items on its Website. 
 
     4. **Information You Actively Submit**
 
-For most of the browsing on our website, we neither require nor collect "User Information." User Information is information that could personally identify you, for example, your name, address, phone number, e-mail address, and information contained on your resume. You can browse the ASM Website and take as much time as you want to review our services without having to submit such User Information.
+For most of the browsing on our website, we neither require nor collect "User Information." User Information is information that could personally identify you, for example, your name, address, phone number, e-mail address, and information contained on your resume. You can browse the ASM Website and take as much time as you want to review our services without having to submit such User Information. 
 
-We do need you to actively submit User Information in certain circumstances, for example, when you want to contact ASM via electronic means or website submission. It is possible that you may also submit personal information when you use the search functions on the ASM Website. Furthermore, we collect any User Information that you submit on our "Career Opportunities" webpage (whether via our online "Employment Application" form, resume submission, or additional submission method); on ASM’s internal website available to ASM employees (www.asmconnects.com); and on other sites made available to applicants and employees for purposes related to one’s application for employment or employment with ASM.
+We do need you to actively submit User Information in certain circumstances, for example, when you want to contact ASM via electronic means or website submission. It is possible that you may also submit personal information when you use the search functions on the ASM Website. Furthermore, we collect any User Information that you submit on our "Career Opportunities" webpage (whether via our online "Employment Application" form, resume submission, or additional submission method); on ASM's internal website available to ASM employees (www.asmconnects.com); and on other sites made available to applicants and employees for purposes related to one's application for employment or employment with ASM.
 
 E-mail or other forms of electronic communication, including Website submission, are not necessarily secure and/or confidential means of communication. Information you provide may not be protected under confidentiality laws. Please carefully select what you choose to disclose. While ASM diligently attempts to prevent unauthorized access to our website files, your User Information, or other information you submit; such inadvertent access may occur.   Please be advised, however, that ASM is committed to safeguarding the privacy interests and confidential information of its employment applicants as well as its current and former employees and comply with applicable privacy laws.
 
@@ -79,27 +79,27 @@ Our view on using User Information is simple. We do not sell User Information to
 
   3. c. User Information may be disclosed and transferred if ASM or its business is sold or offered for sale to another company or person(s), if a petition for relief under the United States Bankruptcy Laws is filed by or against ASM, or if ASM becomes subject to an order of appointment of a trustee or receiver. 
 
-  4. User Information may disclosed for legitimate business purposes in accordance with ASM’s Personal Information Protection Policy, including to an approved vendor of ASM, in connection with legal proceedings, and/or to other third parties.  For example, if and as applicable, relevant personal information pertaining to you will be made known to vendors who require such information to provide services to ASM and its associates, such as vendors who provide and/or administer the systems and processes pertaining to the on-line application, timekeeping, payroll, and benefits 
+  4. User Information may disclosed for legitimate business purposes in accordance with ASM's Personal Information Protection Policy, including to an approved vendor of ASM, in connection with legal proceedings, and/or to other third parties.  For example, if and as applicable, relevant personal information pertaining to you will be made known to vendors who require such information to provide services to ASM and its associates, such as vendors who provide and/or administer the systems and processes pertaining to the on-line application, timekeeping, payroll, and benefits 
 
 
 
 
-We believe that, except where we are compelled by law to disclose your personally identifiable information or required to do so for legitimate business purposes pertaining to one’s application for employment or employment (as set forth in paragraph (d) directly above), you should have a right to choose (opt-out) whether we disclose your personally identifiable information to a third party or use your personally identifiable information for a purpose incompatible with the purpose(s) for which it was originally provided or subsequently authorized by you. 
+We believe that, except where we are compelled by law to disclose your personally identifiable information or required to do so for legitimate business purposes pertaining to one's application for employment or employment (as set forth in paragraph (d) directly above), you should have a right to choose (opt-out) whether we disclose your personally identifiable information to a third party or use your personally identifiable information for a purpose incompatible with the purpose(s) for which it was originally provided or subsequently authorized by you. 
 
 **_Linking to Third-Party Websites_**
 
-When you click on links on our website that take you to third-party websites, you will be subject to the third parties' privacy policies. While we support the protection of privacy on the Internet, ASM cannot be responsible for the actions of any third-party websites. We encourage you to read the posted privacy statement of any and every website you visit, whether you are linking from the ASM Website or browsing on your own.
+When you click on links on our website that take you to third-party websites, you will be subject to the third parties' privacy policies. While we support the protection of privacy on the Internet, ASM cannot be responsible for the actions of any third-party websites. We encourage you to read the posted privacy statement of any and every website you visit, whether you are linking from the ASM Website or browsing on your own. 
 
 You should carefully review the privacy policy and terms of use for ALL THIRD-PARTY websites before submitting any personal USER information.
 
 **_Access to and Managing Your User Information_**
 
-We believe it is important for you to be able to find out what personally identifiable information you have provided to us through the ASM Website. If you have provided us with personally identifiable information, you can contact us to request that we provide you with the personally identifiable information we have in our records about you. We reserve the right to limit the number of times such a request can be made and to charge you for responding to such requests if this process is misused or abused.
+We believe it is important for you to be able to find out what personally identifiable information you have provided to us through the ASM Website. If you have provided us with personally identifiable information, you can contact us to request that we provide you with the personally identifiable information we have in our records about you. We reserve the right to limit the number of times such a request can be made and to charge you for responding to such requests if this process is misused or abused. 
 
 We know you want the personally identifiable information we have on record about you to be as complete and accurate as possible. We feel the same way. If you become aware that personally identifiable information or sensitive information you may have provided that we have in our records about you is inaccurate, incomplete, or incompatible with the purposes for which it was provided or subsequently authorized by you, please notify us using the contact information provided below. To inquire about your personally identifiable or sensitive information, and to correct, amend, or delete such information please:  
 
 
-a. Submit an inquiry or report with your request and current information to ASM’s Ethics Line  online at www.ethicspoint.com or by phone at 1-888-325-7882; or 
+a. Submit an inquiry or report with your request and current information to ASM's Ethics Line  online at www.ethicspoint.com or by phone at 1-888-325-7882; or 
 
 b. Send a request in writing with your current information to:
 
@@ -112,7 +112,7 @@ Fax: (949) 797-9112
 
 **_What You Need to Do to Protect Your Personally Identifiable Information_**
 
-You have several options when deciding how you can best protect your personally identifiable information. One option is simply not to volunteer it. As stated above, this approach would allow you to still visit our website - although it will prevent you, for example, from taking advantage of some of our site's features.
+You have several options when deciding how you can best protect your personally identifiable information. One option is simply not to volunteer it. As stated above, this approach would allow you to still visit our website - although it will prevent you, for example, from taking advantage of some of our site's features. 
 
 The Federal Trade Commission's website, www.ftc.gov, also offers useful information about how to protect personally identifiable information provided to a website.   
 
@@ -127,9 +127,9 @@ This privacy statement was last modified on January 17, 2011. If we change our 
 
 **_Questions or Comments_**
 
-If you have any questions or comments concerning our privacy policy, please contact us:
+If you have any questions or comments concerning our privacy policy, please contact us: 
 
-a. Submit an inquiry or report with your questions or comments and current information to ASM’s Ethics Line online at www.ethicspoint.com or by phone at 1-888-325-7882; or 
+a. Submit an inquiry or report with your questions or comments and current information to ASM's Ethics Line online at www.ethicspoint.com or by phone at 1-888-325-7882; or 
 
 b. Send a request in writing with your current information to:
 
@@ -138,4 +138,4 @@ Attn: General Counsel
 18100 Von Karman Avenue, Suite 900   
 Irvine, CA 92612   
 Phone: (949) 797-2900  
-Fax: (949) 797-9112 ​​​​​​​
+Fax: (949) 797-9112 
