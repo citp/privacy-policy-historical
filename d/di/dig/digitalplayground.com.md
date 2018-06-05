@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalplayground.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903185938id_/http%3A//www.digitalplayground.com/docs/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalplayground.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605023526id_/http%3A//www.digitalplayground.com/docs/pp) for the most accurate reproduction.*
 
 # Digital Playground :: Privacy Policy
 
@@ -270,7 +270,7 @@ We do not guarantee error-free performance under this privacy policy. We will us
 If you have any questions about this privacy policy or our information-handling practices, please contact us at <https://support.digitalplayground.com/>.
 
 Digitalplayground.com  
-©Copyright 2017  
+©Copyright 2018  
 MG Content DP Limited  
 Trademarks  
 Licensing IP International S.à.r.l 
