@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sltrib.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225233203id_/http%3A//www.sltrib.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sltrib.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605145149id_/https%3A//www.sltrib.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - The Salt Lake Tribune
 
 **Effective Date: December 7, 2017**  
 
@@ -158,7 +158,7 @@ Under California Civil Code sections 1798.83-1798.84, California residents are e
 
 **H. Correcting/Updating Your Information**
 
-You may have the right to access the Personal Data we collect about you. You may also have the right to correct any errors contained in that information. For details, please email us at webmaster@sltrib.com.  
+You may have the right to access the Personal Data we collect about you. You may also have the right to correct any errors contained in that information. For details, please email us at [webmaster@sltrib.com](mailto:webmaster@sltrib.com).  
 
 
 **I. No Use by Children**
@@ -178,4 +178,11 @@ We may change this Notice from time to time. If we decide to make a material cha
 
 **L. Contact Us**
 
-If you have any questions about this Notice or our use of the information we collect from you in connection with the Services, email us at [webmaster@sltrib.com](mailto:webmaster@sltrib.com).
+If you have any questions about this Notice or our use of the information we collect from you in connection with the Services, email us at [webmaster@sltrib.com](mailto:webmaster@sltrib.com).  
+Telephone is (801) 257-8742.
+
+Address:  
+**The Salt Lake Tribune**  
+90 South 400 West, Suite 700  
+Salt Lake City, Utah  
+84101
