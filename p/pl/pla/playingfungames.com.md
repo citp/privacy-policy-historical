@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playingfungames.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109220845id_/http%3A//www.playingfungames.com/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playingfungames.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606013752id_/http%3A//www.playingfungames.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,30 +10,25 @@ The Site also uses the third party web analytics service "Google Analytics" (GA)
 By using this Site, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
 3) **Flash Shared Objects**  
-Most of our games hosted on this website use Flash technology and are Flash Games. These Flash Games may collect data and store them as textfiles on your computer.  
-We have no control over what data is stored as these flash games are produced by third parties. We are not responsible for any of the privacy practices of third party games hosted   
+Most of our games hosted on this website use Flash technology and are Flash Games. These Flash Games may collect data and store them as textfiles on your computer. We have no control over what data is stored as these flash games  are produced by third parties. We are not responsible for any of the privacy practices of third party games hosted   
 on our website.
 
 4) **Third Party Advertising**  
-We use many different third party advertising agencies to serve advertisements on our website. These companies use cookies to store information about your browsing activity  
-and visits to our website and other sites. You have the option to deny these cookies my changing your browser settings.
+We use many different third party advertising agencies to serve advertisements on our website. These companies use cookies to store information about your browsing activity and visits to our website and other sites. You have the option to deny these cookies my changing your browser settings.
 
 5) **Google Adsense**  
-Delivered by Google, Inc., may make use of one or more "DoubleClick DART Cookies".  
-DART cookies store and collect data on your computer about your browsing activity. Google may use this data to show advertisements on this Site based on your browsing activity.  
-You can choose to opt out of Google's use of cookies by visiting: <http://www.google.com/policies/technologies/ads/>  
-the Google ad and content privacy policy.  
-Opt Out From Online Behavioral Advertising By Participating Companies:  
-<http://www.aboutads.info/choices/>
+Delivered by Google, Inc., may make use of one or more "DoubleClick DART Cookies". DART cookies store and collect data on your computer about your browsing activity. Google may use this data to show advertisements on this Site based on your browsing activity. You can choose to opt out of Google's use of cookies by visiting: <http://www.google.com/policies/technologies/ads/> the Google ad and content privacy policy. Opt Out From Online Behavioral Advertising By Participating Companies: <http://www.aboutads.info/choices/>
 
 6) **Contact Via Email**  
-When using our contact form to contact us via email, you are providing us with certain personal information that includes: your name and email address. This information is only  
-used to assist you in solving your inquiry, request, or submissions. We respect the privacy concerns of our visitors and we do not sell or disclose this personal information.
+When using our contact form to contact us via email, you are providing us with certain personal information that includes: your name and email address. This information is only used to assist you in solving your inquiry, request, or submissions. We respect the privacy concerns of our visitors and we do not sell or disclose this personal information.
 
 7) **Links**  
-We may keep statistics on our internal links (links to other pages on our website) and external links (links to other websites) in order to track the number of clicks each link gets. These  
-statistics are only used to help improve our site. We are not responsible for the privacy practices or content of websites that we link to from our website.
+We may keep statistics on our internal links (links to other pages on our website) and external links (links to other websites) in order to track the number of clicks each link gets. These statistics are only used to help improve our site. We are not responsible for the privacy practices or content of websites that we link to from our website.
 
   
 8) **Security**  
 We take the appropriate security measures to make sure that your personal information is protected against theft, unauthorized access, disclosure, copying, modification, or destruction.
+
+  
+9)  **IP Addresses**  
+Playing Fun Games may collect your IP Address to use for security purposes.
