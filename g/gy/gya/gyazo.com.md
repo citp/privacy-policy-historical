@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the gyazo.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220230158id_/https%3A//gyazo.com/doc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gyazo.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605224542id_/https%3A//gyazo.com/doc/privacy) for the most accurate reproduction.*
 
 # Gyazo - Privacy Policy
+
+(We are working to update this text now and it will be ready soon.)  
+Also see the [Gyazo GDPR Hub](https://web.archive.org/gdpr)
 
 ### A. What This Privacy Policy Covers
 
