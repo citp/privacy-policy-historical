@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esoteric-information.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204210733id_/http%3A//esoteric-information.com/about-2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esoteric-information.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606015506id_/http%3A//esoteric-information.com/about-2/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Esoteric information
 
@@ -31,3 +31,5 @@ http://www.esoteric-information.com has no access to or control over these cook
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://www.esoteric-information.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+Post Views:  489
