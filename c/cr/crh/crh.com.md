@@ -1,97 +1,51 @@
-> *The following text is extracted and transformed from the crh.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130080743id_/http%3A//www.crh.com/fns/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crh.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605141952id_/http%3A//www.crh.com/fns/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy - Cookies
 
-This privacy and use of cookies statement sets out the basis on which personal data CRH plc (" **we** " or “ **us** ”)  collect from you, or that you provide to us, via this website (the “ **Site** ”), will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+**Privacy Statement**
 
-For the purpose of the Data Protection Act 1988 and 2003 (the “ **Act** ”), the data controller is CRH plc.
+Welcome to the CRH plc website (the "Site"). CRH takes the protection of an individual’s privacy seriously and we have set out our Privacy Statement below to keep you up-to-date on what information we gather about you and how we use that information. This Privacy Statement may be updated, so please check back from time to time for any updates. By using our Site, you agree to the terms set out in this Privacy Statement and to our use of cookies as described below. If you do not agree with these terms, please do not use the Site. 
 
-**Information We Collect**    
-We may collect and process the following data about you:
+**Gathering information  
+**
 
-  * Information that you provide by filling in forms on this Site;
-  * If you contact us, we may keep a record of that correspondence; and
-  * Details of your visits to our Site and the resources that you access.
+Depending on how you use our Site, we may gather and store different types of information about you. We collect personal information through the Site such as your name and email address when you submit it to us for certain products and services. 
 
+We also collect information about your computer browser, including the computer’s IP address and a person’s location, browser type, operating system, and the web pages you visit. If you access our website from a mobile or other device, we may collect a unique device identifier contained in that device. This information allows us to display or format relevant content and services for that device. 
 
+**Visitors to the Site**
 
-Examples of such information are: name; mobile telephone number; email address; and occupation.
+If you are browsing our Site, we may gather anonymous information about where you are and how you navigate and use our Site. We will use this information to improve the functioning and user-friendliness of the Site and so that we can keep track of traffic on the Site.
 
-We do not collect any information about individuals using this Site, except where it is specifically and knowingly provided by them to use.
+**"Contact us"**
 
-**Use of Your Information**    
-The information collected may be used to:
+If you visit the "Contact Us" section of our site and fill in the information requested in the "How can we help you section" we will use your information to deal with your queries and to respond to you. We may store the information you provide for future reference in order to assess how well we provide our service to you and others on an on-going basis. 
 
-  * send you information you have requested and to provide information that may be useful to you;
-  * ensure that content from our Site is presented in the most effective manner for you and for your computer; and/or
-  * provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
+If you write to, call or email us, we will use your details to respond to you and will keep a record of your correspondence with us. 
 
+**Sharing information**
 
+We may share your information with other CRH entities in order to provide information and services you request from us and in order to improve our services. 
 
-We may share non-personal aggregate statistics (group) data about our Site visitors' traffic patterns with partners or other parties. However, we do not sell or share any information about individual users.
+We will not share your information with third parties without your consent, unless required by law or governmental authority. 
 
-**Cookies**  
-We may obtain information about your general internet usage by using a cookie file which is stored on your browser or the hard drive of your computer. Cookies are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. Some of the cookies we use are essential for the site to operate.
+**Security**
 
-**Cookie** | **Name** | **Purpose** | **More information**  
----|---|---|---  
-www-crh-live#ip3_device | Sitecore Device | To detect device (mobile etc) that user is viewing site on and display pages appropriately |    
-www-crh-live#lang | www-crh-live#lang | Stores Language For the Website |    
-Serverid | Serverid | ID of the Server which served the request |    
-ASP.NET_SessionId | ASP.NET_SessionId | Cookie from CMS (IP3) |    
-sifrFetch | sifrFetch | Heading font styling |    
-Google Analytics | __utma  
-__utmb  
-__utmc  
-__utmz | These cookies are used to collect information about how visitors use our Site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the Site, where visitors have come to the Site from and the pages they visited. | [Click here for an overview of  
-privacy at Google](http://www.google.co.uk/intl/en/analytics/privacyoverview.html "Opens in a new window")
+We are committed to keeping your information safe and secure and we employ appropriate technical and organisational security measures to prevent loss of or unauthorised access to your information. 
 
-Use the link below to see descriptions of the cookies from GA:
+**Requests related to your Personal Information**
 
-[http://code.google.com/  
-apis/analytics/docs/concepts/  
-gaConceptsCookies.html](http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html "Opens in a new window")  
-  
-You may block cookies by activating the setting on your browser which allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies as soon you visit our Site. The cookies listed in the top table (first party cookies) do not expire. Certain cookies used for Google Analytics do expire and more details can be found at the following link:<http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html>.
+You can contact us any time to find out what information we hold about you or to request a copy. If you require us to delete your personal data, you should notify us. If you feel that our information is inaccurate or incorrect, we will be happy to correct it. 
 
-**Your Rights**  
-In addition to our technical safeguards, your personal data is protected applicable data protection law. In keeping with our data protection obligations the personal data we hold about you shall be:
+If you wish to request any of the above or if you have a question regarding our use of your personal information, you should contact [rce@crh.com](mailto:rce@crh.com?subject=GDPR) (Subject: GDPR) or post your request to CRH plc, Re: GDPR, Stonemason’s Way, Rathfarnham, Dublin 16, D16 KH51.
 
-  * processed lawfully and fairly;
-  * be accurate, relevant and not excessive;
-  * kept up to date, where necessary; and
-  * retained for not longer than is necessary.
+**Cookies Statement**
 
+This Site uses cookies. A cookie is a small amount of data generated by a website and saved by your web browser. Its purpose is to remember information about you, similar to a preference file created by a software application. Cookies perform a number of different functions. Some cookies are essential to deliver our Site and services to you. Cookies can be "persistent", remaining on your device after you have left the Site or can be "session" cookies that are deleted when you close your internet browser. You can use your browser settings to manage your cookie preferences but please note that in doing so, some functionality of the Site might not be available or might not work as effectively. 
 
+CRH will not personally identify visitors and will not use cookies to contact you. CRH is committed to respecting your privacy at all times. 
 
-We will usually inform you (before collecting your data) if we intend to use your personal data for such purposes or if we intend to disclose that information to any third party for such purposes. You can exercise your right to prevent such processing at any time by contacting us at [mail@crh.com](mailto:mail@crh.com).
-
-**Disclosure of Your Information**  
-We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries. We may disclose your personal information to third parties if:
-
-  * required by our services providers to operate this Site;
-  * all or substantially all of our assets are acquired by a third party, in which case personal data held by us will be one of the transferred assets; and/or
-  * we are under a duty to disclose or share your personal data in order to comply with any legal obligation.
-
-
-
-**Data Storage**  
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (" **EEA** "). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. We and our service providers will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
-
-**Access to Your Information**  
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a nominal charge.
-
-**Security**  
-CRH plc treats all the data held with the utmost care and security. Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
-
-**Links**  
-Our Site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy notices and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
-
-**Changes to this Statement**  
-Any changes to this Statement will be posted here.
-
-**Contact**    
-Questions, comments and requests regarding this privacy policy should be addressed to [mail@crh.com](mailto:mail@crh.com).
+Should you have any questions or concerns about how we use your personal information, please do not hesitate to contact us as outlined above.
 
   
 
