@@ -1,152 +1,118 @@
-> *The following text is extracted and transformed from the hotelsone.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203173909id_/http%3A//www.hotelsone.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelsone.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605050050id_/http%3A//www.hotelsone.com/privacy.html) for the most accurate reproduction.*
 
 # HotelsOne.com - Privacy statement
 
-This Privacy Statement covers the website, which is owned and operated by HotelsOne.com, L.P. ("we" or "us"). Your data will be maintained by HotelsOne.com, L.P. in accordance with this Privacy Statement. Your privacy it important to us. We want to make your experience on the Internet enjoyable and to foster your trust in eCommerce as a whole. Because we want to demonstrate our commitment to our users' privacy, we have agreed to disclose our information practices.
+1st of April 2018 
 
-This Privacy Statement is an integral part of our website and the services offered to you and cannot, in any way, be separated from the User Agreement or from the membership, usage or transaction process. If you do not agree to our Privacy Statement in whole, you must not use our website.
+During the processing we conform to the requirements of the applicable data protection legislation. This means we: 
 
-  1. What information do we collect online about you and how do we use it.
-  2. What personally identifiable information third parties collect through the website.
-  3. What organization collects the information.
-  4. How we use the information.
-  5. With whom we may share user information.
-  6. What choices are available to users regarding collection, use and distribution of the information.
-  7. What types of security procedures are in place to protect the loss, misuse or alteration of information under our control.
-  8. How users can correct any inaccuracies in the information.
-  9. How we notify you of material changes to this Privacy Statement.
-  10. What is the effective date of this Privacy Statement.
+  * **clearly specify our purposes** before we process personal data, by using this Privacy Statement; 
+  * **limit our collection of personal data** to only the personal data needed for legitimate purposes; 
+  * first **ask for explicit permission** to process your personal data in cases where your permission is required; 
+  * take **appropriate security measures** to protect your personal data and we demand the same from parties who process personal data on our behalf; 
+  * **respect** your right to inspect, correct or delete your personal data held by us. 
 
 
 
-If users have questions or concerns regarding this statement, they should contact [HotelsOne.com customer service](http://www.hotelsone.com/customer-service.html).
+Stentorian N.V. is the party responsible for all data processing. In this privacy statement, we will explain which personal data we collect and for which purposes. We recommend that you read it carefully. 
 
-**Member Registration**
+##  Contact Form and Newsletter 
 
-When you become a HotelsOne.com member you provide your name, address, telephone number, fax number, email address, a unique login name, password, and password validation. This information is collected on the registration form for several reasons including: (1) personal identification; (2) to complete hotel reservations; (3) to allow us to contact you for customer service, if necessary; (4) to customize the content of our website to meet your specific needs; and (5) to make product improvements to HotelsOne.com. In addition, your email address is collected to send you an email message confirming your new member registration and each reservation you transact online. If you provide a fax number, you may receive faxes confirming your new member registration and each reservation that you transact online as well. As a member you will occasionally receive updates from us about special offers, new HotelsOne.com services, and other noteworthy news items. However, you may always decline to receive these email and fax messages. Please see our Opt Out policy described below.
+You can use our contact form to ask or questions or make any request. For this purpose, we use your email address and name and address details. We do this on the basis of your consent. We store this information until we are sure that you are satisfied with our response. 
 
-**Member Profile**
+We have a newsletter to inform those interested of our products and/or services. Each newsletter contains a link with which to unsubscribe from our newsletter. Your email address is added to the list of subscribers, only with your permission. We store this information for three months after you cancelled your subscription. 
 
-Members can choose to provide us with travel preferences, credit card billing information, and other personal information. This information is primarily used to assist members in making reservations quickly without having to type in the same information repeatedly.
+##  Handling your reservation / booking 
 
-**Reservation Orders**
+We will use your personal data when handling your reservation/booking. We’re required to share your data with the supplier that handles the reservation/booking on our behalf, as well as the hotel to secure your reservation/booking. We may also obtain information on your payment from your bank or credit card company. 
 
-When you book a reservation through our website, we ask you to provide personally identifiable information by filling out and submitting an online customer profile form if you are not a HotelsOne.com member already. This information includes your name, home or work telephone number, fax number, email address, and your credit card number, expiration date and billing address. We use this information to process and book your reservation and to notify you of your reservation status by email or fax. When you return to the site and if you use your name and provide other key, personally identifiable information, we use this information to provide you with access to your reservation information. 
+For this purpose, we use (but do not store) your payment details, and both use and store your phone number, invoice address, email address, name and address details and ip address. The law requires us to do this. We store this information for one year after your stay and seven years thereafter (the legal retention period). 
 
-We also ask you for personally identifiable information about other people for whom you are booking reservations. We use this information only to reserve the room with the hotel or other lodging, and, if you request it, to send each person an email notification of the reservation.
+##  Access to portal 
 
-**Cookies**
+Within our portal, you can access a management environment where you can set, specify and change settings. For this purpose, we use your email address. We do this on the basis of your consent. We store this information for six months after our services to you have ended. 
 
-Cookies are small pieces of information stored on your computer tied to information about you. We use both session ID cookies and persistent cookies. For the session ID cookie, once you close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on your hard drive for an extended period of time. Persistent cookies can be removed by following the Web browser help file directions.
+##  Registration 
 
-We use cookies in several ways. We use cookies to allow you to login without having to type your login name each time. Instead, only your password is needed to access the system. We also use cookies to track usage of the Guest path and to serve advertisements through our advertising networks. Most Web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. If you reject the cookie, you may still use our website. The only drawback to this is that you will be limited in some areas of our website. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our website. See Member Profile.
+Certain features of our service require you to register beforehand. You will have to provide some information about yourself and choose a username and password for the account that we will set up for you. 
 
-A cookie file may also be placed on your hard drive by our third-party advertising companies. These companies may use aggregated statistics about your visits to this and other websites in order to provide advertisements about travel-related goods and services that you may be interested in. The information they collect does not include your personally identifiable information.
+For this purpose, we use your name and address details, email address, phone number, invoice address and birth date. We do this on the basis of your consent. We store this information for six months after you closed your account. 
 
-The third-party advertising companies may also employ technology that is used to measure the effectiveness of ads. This is primarily accomplished through the use of a Web beacon (a single-pixel GIF), which is placed on our site to collect anonymous information. They may use this anonymous information about your visits to this and other sites in order to provide advertisements about goods and services of potential interest to you. No personally identifiable information is collected during this process. The information is anonymous and does not link online actions to an identifiable person. If you would like more information and want to explore the option of not having this information collected by third-party advertisers, [click here](http://www.networkadvertising.org/).
+We will retain this data so that you do not have to re-enter it every time you visit our website, and in order to contact you in connection with the execution of the agreement, invoicing and payment, and to provide an overview of the hotels and accomodations you have booked and services you have purchased from us.   
+Promotion 
 
-In addition, some of our other business partners also use cookies on our website (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. This Privacy Statement covers the use of cookies by this website only and does not cover the use of cookies by any advertisers or business partners.
+Other than the hotel listings and deals on the website, we can inform you about new products or services: 
 
-**Log Files**
+  * by email 
+  * via social media 
 
-Like most standard website servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, diagnose problems with our servers and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We use a tracking utility called ATG Dynamo that uses log files to analyze user movement.
 
-Please be aware that we have links on our website that may lead to other sites. These sites may collect personally identifiable information about you. This Privacy Statement does not cover the information practices or policies of such websites.
 
-**Special Offers and Updates**
+You can object at all times against this promotional communication. Every email contains a cancellation link. On social media, you can block us or use the cancellation option. 
 
-We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Choice and Opt-out sections.
+##  Publication 
 
-**Newsletter**
+We will not publish your customer data. 
 
-If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address. Out of respect for our users privacy we provide a way to opt-out of these communications. Please see the Choice and Opt-out sections.
+##  Providing Data to Third Parties 
 
-**Service Announcements**
+We may provide your data to our partners. These partners are involved in the execution of the agreement. These partners may be based outside the EU. However, they make use of the European model clauses. 
 
-On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature. 
+##  Cookies 
 
-**Customer Service**
+Our hotel reservation website makes use of cookies. Cookies are small files in which we can store information, so that you do not have to fill that information again. We can also use them to see whether you are visiting us again. 
 
-We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email, fax or phone, in accordance with the users' wishes.
+The first time you visit our hotel reservation website, we will show you a notification explaining our cookies and ask for your permission for the use of these cookies. 
 
-**Legal Disclaimer**
+You can disable the use of cookies through your browser setting, but some parts of our website may not work properly as a result of that. 
 
-Though we make every effort to preserve user privacy, we may be required by law to disclose information you have provided in obtaining our travel products or services. We may also disclose information against someone who poses a threat to our interests (such as customer fraud) or whose activities could bring harm to others. In addition, it may be necessary for us to provide customer information to third parties, such as credit card companies, for the purpose of resolving disputes that arise in the normal course of business.
+We made arrangements with _other parties who place cookies through our website_. Nevertheless, we cannot fully control what they are doing with their cookies, so please read their privacy statements as well. 
 
-**Aggregate Information (non-personally identifiable)**
+##  Google Analytics 
 
-We share aggregated demographic information with our partners and advertisers. This is not linked to any personally identifiable information.
+We use Google Analytics to track visitors on our website and to get reports about how visitors use the website. We accepted the data processing agreement from Google. We don’t allow Google to use information obtained by Analytics for other Google services, and we anonymize the IP-addresses in accordance with the GDPR. 
 
-**Third Party Intermediaries**
+##  Server logs 
 
-We use an outside a credit card processing company and bank check processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. 
+Certain information (such as your ‘User Agent String’ and your IP-address) can be considered personal data if used to personally identify you. We log this information when using the hotel reservation website. We use this information for network security, DDOS-mitigation, fraud-detection and fraud-prevention purposes. We have no legal means to personally identify you from this data. We store this information for at most one year. 
 
-This site makes use of a technology designed to enhance your browsing experience. The technology, provided as a hosted service application by Fireclick ®, makes use of a small and transparent Java applet to provide you with a faster browsing experience. In addition, aggregate reporting information is collected and made available to the site owner only. No personal or personally identifiable information is gathered or used for this process.
+##  Security 
 
-If for any reason you do not wish to have this technology enabled while browsing this site, please click here. A cookie will be set on your browser that instructs the service not to start. If you have disabled the service and wish to reactivate it, please click here. Additional information on Fireclick's technology may be found at [www.fireclick.com](http://www.fireclick.com/).
+We take security measures to reduce misuse of and unauthorised access to personal data. 
 
-**Suppliers**
+##  Data protection officer 
 
-We provide information about travel either reserved or purchased on HotelsOne.com to the suppliers whose will fulfill your travel reservation. Although we offer travel products from hotel and other suppliers that are reputable companies, we have not placed limitations on these suppliers from using or disclosing your information without your permission. Therefore, we encourage you to review the information privacy practices of any travel suppliers whose products you purchase on HotelsOne.com. In addition, these travel suppliers may also contact you as necessary to obtain additional information about your confirmed reservation.
+We have appointed a so-called data protection officer. This person is responsible for privacy matters within our organisation. Our data protection officer is available by email ( [email](https://web.archive.org/customer-service.html)) for all your questions and requests. 
 
-We will occasionally share aggregated information with our service providers. This information does not contain any personally identifiable information and is used to develop featured programs and content that will be of interest to our members and website visitors.
+##  Changes to this Privacy Statement 
 
-We may contract a reputable third party to facilitate the distribution of survey, promotion, or sweepstakes programs. Upon completion of these projects, all information is returned to us.
+We reserve the right to modify this statement. We recommend that you consult this statement on a regular basis, so that you remain informed of any changes. 
 
-**Affiliated Websites**
+##  Inspection and Modification of your Data 
 
-If you were referred to HotelsOne.com from another website, we may personally identifiable information about you to the referring website. Although we believe that the website companies from which you were referred to us are reputable companies, we have not placed limitations on the referring websites companies from using or disclosing your information without your permission. Therefore, we encourage you to review the information privacy practices of any website that referred you to HotelsOne.com.
+You can always contact us if you have any questions regarding our privacy policy or wish to review, modify or delete your personal data. 
 
-**Choice/Opt-out**
+You have the following right: 
 
-Our users are given the opportunity to opt-out of having their information used for purposes not directly related to our website at the point where we ask for information. For example, our order form has an opt-out mechanism so users who buy a product from us, but don't want any marketing material, can keep their email address and fax number off of our lists.
+  * Being informed on which personal data we have and what we are using it for; 
+  * Inspection of the personal data that we keep from you; 
+  * Having incorrect data corrected; 
+  * Request to delete outdated personal data; 
+  * Revoke your consent; 
+  * Object to certain uses. 
 
-Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or by [email here](http://www.hotelsone.com/customer-service.html). We also offer an opt-out mechanism on the member profile page.
 
-Users of our website are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party.
 
-**Links**
+Please note that you always make clear who you are, so that we can assure that we do not modify or remove the data from the wrong person. 
 
-This website contains links to other sites. Please be aware that we, HotelsOne.com, L.P., are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our website and to read the privacy statements of each and every website that collects personally identifiable information. This Privacy Statement applies solely to information collected by this website.
+##  Complaints 
 
-**Surveys & Contests**
+If you think that we are not helping you in the right way, please reach out to [email](https://web.archive.org/customer-service.html). Of course you also have the right to lodge a complaint at the appropriate authorities. 
 
-From time-to-time our website requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this website. Though we may use an intermediary to conduct these surveys or contests, they may not use users' personally identifiable information for any secondary purposes.
+##  Contact details 
 
-**Security**
-
-We take precaution to protect our users' information. When users submit sensitive information via the website, their information is protected both online and off-line.
-
-When our reservation order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - Secure Socket Layer (SSL). While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just surfing.
-
-While we use SSL encryption to protect sensitive information online, we also protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Finally, the servers that store personally identifiable information are in a secure environment, in a locked facility.
-
-If users have any questions about the security at our website, users can send an email to [Customer Care](http://www.hotelsone.com/customer-service.html).
-
-In order for this website to properly fulfill its obligation to users, it is necessary for us to supplement the information we receive with information from third party sources.
-
-**Correcting / Updating /Deleting / Deactivating Personal Information**
-
-If a user's personally identifiable information (such as zip code, phone, email or postal address) changes or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate user's personally identifiable information. Members can change their personal information on the member profile page of our website. Members and users can all email our Customer Support at [Customer Care](http://www.hotelsone.com/customer-service.html) or contact us by telephone or postal mail at the contact information listed below.
-
-**Notification of Material Changes**
-
-If we decide to make any material change to our Privacy Statement, we will post those changes to this Privacy Statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the Privacy Statement under which the information was collected. 
-
-If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on this website notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
-
-**Contact Information**
-
-If users have any questions or suggestions regarding our Privacy Statement, please contact us:
-
-Via Email: [Customer Care](http://www.hotelsone.com/customer-service.html)
-
-Postal Address:  
-HotelsOne.com, L.P.  
-10440 North Central Expressway  
-Suite 400  
-Dallas, Texas 75231  
-USA  
-
-
-This Privacy Statement is effective as of July 13, 2010.
+Stentorian N.V.  
+827 Union Pacific  
+Laredo, Texas, 78045  
+United States  
+[email](https://web.archive.org/customer-service.html)
