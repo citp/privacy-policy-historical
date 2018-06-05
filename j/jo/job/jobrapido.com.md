@@ -1,155 +1,185 @@
-> *The following text is extracted and transformed from the jobrapido.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606053526id_/https%3A//us.jobrapido.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobrapido.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605030307id_/https%3A//us.jobrapido.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-###### 1\. How the website works
+**Privacy Policy**
 
-By using www.jobrapido.com (the “Site”), managed by Jobrapido S.r.l. (“Jobrapido”), the user may access job vacancies, including both those made available by Jobrapido’s clients by means of direct feeds, and those collected through a specialized search engine which operates through locations in various Countries of the world.  
-This allows the User of the Site (“User”) to access the majority of the job vacancies available on the internet by means of a single platform; Users (“Registered Users”) may benefit from a series of services subject to prior registration.  
-Users, however, are always informed when they are re-directed to job vacancies outside the Site, both by clear view of the relevant URL and by detailed specification at the bottom of the job offer, in which the source is indicated. Jobrapido does not take responsibility as to the accuracy, truthfulness or updating of third parties’ job offers, accessed by means of the Site or the relevant Apps. 
+**1\. Data Controller and the purposes of the present Privacy Policy**
 
-###### 2\. Privacy policy 
+This Privacy Policy describes the modalities and the purposes through which Jobrapido S.r.l., with registered office in via Paleocapa 7 – 20121 Milan (“ **Jobrapido** ”) processes, as data controller, the personal data of the users (“ **User** / **Users** ”) of the website [www.jobrapido.com](http://www.jobrapido.com/) (“ **Site** ”). 
 
-This Privacy Policy describes the modalities and purposes through which Jobrapido carries out the processing of its Users’ personal data (the “data”).  
-This Privacy Policy is available to the Users pursuant to and in compliance with Section 13 of Legislative Decree No. 196/03 – Personal Data Protection Code (the “Privacy Code”), available at:   
-http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/1311248
+By using the Site, in particular, any registered or unregistered User may access job vacancies, including those made available by Jobrapido’s clients through direct feeds on the Site and those collected through a specialized search engine which operates at locations in various Countries of the world. 
 
-This Privacy Policy refers only to the Site and the processing of personal data carried out by Jobrapido, without covering the data processing operations carried out by other websites visited by the User through links, or by subjects which Jobrapido collaborates with in order to provide the services requested, or by subjects accessing the information related to the User by means of the Site or Jobrapido’s applications, for which Jobrapido takes no responsibility.
+This allows the User of the Site to access the majority of the job vacancies available on internet by means of a single platform. Moreover, the registered User (“ **Registered User** ”), may benefit from a series of specific services, as better illustrated by the detailed information notices linked into the present Privacy Policy. 
 
-###### 3\. Data Controller 
+This Privacy Policy is provided to the Users pursuant to the Italian Legislative Decree no. 196/2003 (“ **Privacy Code** ”), to the EU Regulation no. 679/2016 (the “ **Regulation** ”), to the EU applicable laws and to the Provisions and Recommendations provided by the Italian Data Protection Authority time by time. 
 
-The Data Controller is Jobrapido S.r.l., with offices in via Paleocapa 7 – 20121 Milan.   
-The data are mainly processed at the Data Controller’s offices, within the European Union and, with respect to the services provided by third parties, also outside the European Union.  
+This Privacy Policy may be amended by Jobrapido, also in order to take into account the relevant legislative developments, the technological progress and the changes into the Jobrapido’s activities or the introduction of new services. 
 
+In the event in which Jobrapido would decide to amend this Privacy Policy, it will provide for an extensive information notice on the Site. If the amendments are particularly relevant, Jobrapido may communicate them to the Users via a different channels (e.g. by sending an email). 
 
-###### 4\. Modalities of data processing
+This Privacy Policy refers only to the Site and to the processing of personal data carried out by Jobrapido on it, without covering the data processing operations carried out by other websites/third parties visited by the User through links present on the Site, by the subjects with which Jobrapido collaborates in order to provide the Users with the services requested or by the subjects that access the information related to the Users by means of the Site or Jobrapido’s applications, for which Jobrapido takes no responsibility. 
 
-The data are processed mainly by electronic, computerized and automated means, for the period of time which is strictly necessary to carry out the objective for which they were collected.  
-Jobrapido processes the data in compliance with the law, adopting adequate security measures able to prevent unauthorized accesses, dissemination, unauthorized alteration or destruction of the data.  
+**2\. Data Processing purposes**
 
+The Users’ personal data will be collected and processed by Jobrapido, mainly with electronics, telematics and automatics tools, for the following purposes: 
 
-###### 5\. Purposes of data processing
+**(a)** **The activation of Jobrapido’s services**
 
-Users’ data will be processed exclusively for the following purposes:
+Users’ personal data will be processed to allow the unregistered User (“ **Unregistered User** ”) to view and access, through the Jobrapido web portal, the job vacancies provided by Jobrapido’ clients as well as the job advertisements published on other websites and collected and shown by Jobrapido to satisfy the search criteria inserted by the Unregistered User during its researches (so called Keywords). If Unregistered User click on a job vacancy, it could be directly addressed to the websites of the companies that published the above announcements, to the pages of the Site by which Jobrapido collects, on behalf of its clients, the Users’ applications as well as to the others pages of the Site in which the User may understand the job vacancy details before being addressed to the external websites. 
 
-a. Activation and operational management of the services Jobrapido offers to the Users and management of the respective administrative-accounting purposes;   
-b. Activation and operational management of the services Registered Users request to Jobrapido, including the management of the services of matching offers and applications by passing on and/or giving access to the information contained in Users’ curriculum vitae to third parties or Jobrapido’s clients or partners, and management of the respective administrative-accounting purposes;  
-c. Information to Registered Users, by means of email communication to the email address provided by the User, in relation to new services offered by Jobrapido similar to the ones already requested by the Registered Users;   
-d. Subject to the Registered User’s prior consent, marketing activities, such as the sending of invitations to various events (training, informational, promotional), as well as the sending of commercial material concerning job related matters, invitations to participate in surveys and market research activities, commercial and promotional communications concerning services and/or offers by Jobrapido. The purposes above will be carried out by automated and non-automated means (e.g. email, SMS, post, etc.).  
-e. Subject to the Registered User’s prior consent, marketing activities such as the sending of invitations to various events and initiatives (training, informational, promotional), the sending of informational and promotional material on products/services of the mentioned third parties, invitations to participate in surveys and market research activities, with automated and non-automated means (e.g. email, SMS, post, etc.) in relation to services and/or offers by third parties, including Jobrapido’s clients and partners;   
-f. Purposes connected to the fulfilment of obligations provided for by law, regulations, EU and national provisions, or deriving from orders imposed by legitimated authorities.   
-The marketing purposes set out in point d) and e) above are not active yet, although on their way to implementation. This is the reason why Jobrapido does not require Registered Users to give specific consent. Registered Users will be alerted via email as to the implementation of said marketing purposes and will be invited to make their choices on them.
+In such cases, the Unregistered User has full evidence to be re-directed to a job vacancy published outside the Site. Jobrapido assumes no responsibility for the correctness, truthfulness or updating of third-party job offers to which the Unregistered User might access through the Site. Unregistered User personal data will also be used for administrative purposes. 
 
-###### 6\. Informed consent on the part of the User
+**(b)** **The activation of Jobrapido’s service provided for Registered User**
 
-With reference to the purposes under points a), b) and f) of paragraph 5 above, as they regard services requested by Users or legal obligations, the consent to the processing is unnecessary; with specific reference to point b) of paragraph 5, disclosing that the data is voluntary but the failure to provide the same data will mean it will be impossible to obtain the service requested. Furthermore, job vacancies corresponding to the information inserted by the Registered User are screened on the basis of the whole amount of information available on the same User.  
-With reference to the purpose under point c) of paragraph 5 above, pursuant to Section 130-bis of the Privacy Code, the consent from the Registered User is not necessary (so-called “opt-out” mechanism), but the latter may always oppose the processing. To this end, any communication concerning Jobrapido’s new services will authorize the User to refuse other similar communications.   
-With reference to the purposes under points d) and e) of paragraph 5 above, in order to carry out the relevant processing operations, the consent of the Registered User is required. Such consent will be required at the time of registration and may be refused at any time, also partially; to this end, the communications sent by email will give the User the possibility to refuse further sending. The consent is voluntary, and the refusal to provide said consent will prevent the User from receiving communications, promotions, offers which according to Jobrapido may be of interest for the User and useful for their professional development, without prejudice, of course, to the possibility of using the services requested.   
-Registered Users will be alerted as to the implementation of the marketing purposes and they will be asked to make their choice on said specific purposes.  
+In addition to the services offered to the Unregistered Users, described in previous par. 2 (a), the personal data of the User will be processed to allow the latter to register on the Site and to the Jobrapido’s services. 
 
+The User could register itself on the Jobrapido’s services by providing its e-mail address or also by carrying out a login with its social accounts (e.g. Facebook, Google, Linkedin). The registration allows the User to access to the [job vacancies notification](https://us.jobrapido.com/info/privacy-policy#gdpr) service (job vacancies notification). The Registered Users personal data will be also processed for the relevant administrative purposes, including technical assistance activities and also for sending to the Users service messages (such as, welcome messages, useful suggestions for obtaining better search results on Jobrapido’s Site, service communications about the amendments of the Site, etc.). 
 
-###### 7\. Personal data undergoing processing 
+Finally, Jobrapido will allow the Registered Users to upload their Curriculm Vitae on the Site, in order to allow them to have it always available and, with their prior consent, to share it with third subjects, including Jobrapido subsidiaries and associate companies as well as Jobrapido’s clients for personnel selection purposes and to facilitate labour matching. 
 
-7.1 Web-browsing data   
-As all the IT systems of every website, the Site’s IT system automatically records, in the course of its normal operations, certain personal data, the transmission of which is necessary for the communication protocols of the internet. Such data consists of information such as IP addresses of the devices used by Users connecting to the Site, URI (Uniform Resource Identifier) addresses of the resources requested, time of the request, method used to transmit the request to the server, size of the file obtained as an answer, numerical code indicating the status of the answer from the server (successful, error, etc.) and other parameters related to the User’s operating system.  
-In addition to serving the purposes of the Site’s operation, said data will be used to get anonymous statistical information concerning the use of the Site and check it is operating correctly. The access data may also be used for the ascertainment of liabilities in case of IT crimes damaging the Site.  
-The data related to the opening of email alerts regarding new vacancies and the clicks on the links contained in such alerts are, among other data, traced for statistical purposes and for the monitoring of the Site’s activity.
+**(c)** **Statistics and analysis**
 
-7.2 Data voluntarily provided by the User   
-Jobrapido does not collect User’s data from external sources and limits the collection of Users’ personal data to the minimum necessary, i.e. exclusively in relation to the services expressly requested by the User, such as:
+The aggregate data related to the User, not able to directly identify him/her, will be processed for carrying out statistical analysis to improve Jobrapido’s technical assistance and services offered to the Users, for developing the platform and the Site contents, for enhancing the search criteria of the job vacancies, as well as to correct and develop the research and analysis techniques. 
 
-• Job Alert Service. In order to be alerted by email of new job vacancies matching the characteristics they have inserted, Users shall register – subject to prior information notice – and insert their email address, geographic area and/or professional area of the vacancies they wish to receive. The providing of such data is entirely voluntary, but is necessary to activate the Job Alert service.   
-The User may enter the email address manually, or they may be identified by means of the authentication service of websites, third-party providers or social network websites, through which the User accesses the Site and the services it provides. Through the authentication, the website allows access to certain information related to the User’s profile and to the information linked to the authorizations the User gives when authorizing access to Jobrapido. However, Jobrapido only uses the email address and does not record any other information except for what is strictly necessary to the technical operation of the services requested.  
-• Ad hoc alerts. In addition to the alerts on new vacancies, Jobrapido may send specific job offers to the Registered User. Such offers come from our partners interested in the professional profiles monitored by the Registered User.   
-• Uploading of the Curriculum Vitae. Subject to prior registration, Jobrapido will allow the uploading of the Curriculum Vitae on its systems, in order to allow the Registered User to access it at any given time and, subject to prior consent, share it with third parties. The Curriculum Vitae uploaded are shared both with subsidiaries associated with Jobrapido, and with Jobrapido’s clients for personnel selection purposes and to facilitate the match between job applications and offers.   
-• Form to apply for advertised positions. This form will allow the User to contact the advertiser who has advertised a vacancy on the Site directly, also attaching the Curriculum Vitae or other information. Jobrapido does not save the data provided through this channel, as it only processes the information which is necessary to carry out the sending requested by the vacancy advertiser.  
-In certain cases, Jobrapido’s third party clients (by way of example, recruitment agencies, head hunters, etc.) may be interested not only in accessing the User’s CV, but also in providing the same User with a special channel to register to the platform and/or services of said third parties. This is in order to facilitate the profession search and enhance the possibilities offered by Jobrapido. For this reason, at the time of registration to the Site, the user will be asked to specifically express whether they give their consent or prefer to reserve the right to register to said parties. These parties will in any case, have to promptly inform the User of the services offered and the respective conditions, by inviting the User to confirm or refuse the option to register. Giving consent to Jobrapido for said service is both free and voluntary and the failure to provide consent will not affect the Jobrapido’s service performance, and will only prevent the activation of the option of registration to third party websites and platforms.  
-Registered Users will be alerted by email as to the activation of the “Uploading of the Curriculum Vitae” service and of other services, which may be implemented by Jobrapido.
+**(d)** **Jobrapido’s legitimate interests**
 
-###### 8\. Cookies
+The User personal data will be also processed by Jobrapido in order to exercise its and/or third subjects’ rights and legitimate interests, such as the legal defense, the management of claims and disputes which will may arise, the prevention of fraud and/or illegal activities, possible credit recovering and the invoicing of the Jobrapido’s clients. 
 
-A cookie is a small size file which a website sends to the browser and saves on your computer when you visit a website. Cookies are used in order to allow or enhance the websites operation, but also to provide us with information on the Site.’  
-The Site uses different kinds of cookies and similar technologies, each one with a specific function, as indicated below:
+**(e)** **Legal obligation**
 
-8.1 Web browsing cookies   
-These cookies are essential to allow the User to browse the Site and use its functions, such as accessing the website’s reserved areas (authentication cookies). Without these kind of cookies the services requested, such as access to the reserved area, cannot be provided. These cookies which are strictly necessary, are used to record one single identifier in order to manage and identify the User with respect to other Users visiting the Site at the same time, providing the User with a consistent and precise service. These cookies are necessary for the Site to work properly.
+Moreover, the Users personal data will be processed to fulfill legal obligations provided by regulations, national and European laws as well as to be compliant with the provisions provided by authorized Authorities. 
 
-8.2 Performance cookies   
-These cookies may come from Jobrapido or third parties, they may be session or persistent cookies, and their use is limited to the performance and enhancement of the website. They collect information on how a User uses the Site, such as the pages visited, and do not collect any information which enables the User to be identified. All the pieces of information collected by these cookies are aggregated on an anonymous basis and used exclusively to improve the website’s functions.
+**3\. Personal data processed**
 
-8.3 Analytics cookies  
-These cookies are used, for example by Google Analytics, to elaborate statistical analysis on the modalities in which Users browse the website through their computers or mobile applications, on the number of pages visited or the number of clicks on a specific page when browsing. Jobrapido processes the results of these analyses on an anonymous basis and exclusively for statistical purposes and only if the service providers use the cookies in connection with the browser installed on your computer or other devices used to browse the Site.
+**3.1** **Web-browsing data** ****
 
-8.4 Targeting cookies   
-These cookies are used to personalize the commercial information on the basis of the User’s interests. These cookies may also be used to limit the number of visualizations of a specific advertisement and to help estimate the effectiveness of an advertising campaign. Said cookies record that the visit to a specific website and the respective information may be shared with other parties, such as advertisers.   
-Although these types of cookie can record the visits to other websites, they don’t usually contain information on the User’s identity. The use of such cookies does not normally imply the processing of personal data, but may allow the connection to the User’s computer or other devices and track the data saved: these cookies connect to the browser installed by the User during Site browsing.   
-We may also insert web beacons (GIFT or web bugs) in our emails in order to verify the opening of the Job Alert emails and the clicks on the links contained therein. Such information is collected for statistical purposes.   
-For further information on cookies, please write to the following email address:   
-privacy@jobrapido.com
+As all the IT systems of every website, also the Site’s IT system automatically records, in the course of its normal operations, certain personal data, the transmission of which is necessary for the communication protocols of the internet. Such data consists of information such as IP addresses of the devices used by Users connecting to the Site, URI (Uniform Resource Identifier) addresses of the resources requested, time of the request, method used to transmit the request to the server, size of the file obtained as an answer, numerical code indicating the status of the answer from the server (successful, error, etc.) and other parameters related to the User’s operating system.   
+In addition to serving the purposes of the Site’s operation, said data will be used to get statistical information concerning the use of the Site and check it is operating correctly. The access data may also be used for the ascertainment of liabilities in case of IT crimes damaging the Site.   
+Moreover, when the Users are redirected to the website of the Jobrapido’s clients by clicking on a link contained into a job vacancy, Jobrapido will record such action by collecting the User IP address, the date, the email address (if the User is registered on the Site) and the job vacancy ID: such processing will be carried out by Jobrapido for invoicing purposes and for preventing possible frauds through any possible automatic clicks generation, pursuant to the above paragraph 2, point (d). 
 
-8.5 How to disable cookies  
-Most web browsers are set to accept cookies. However, if you wish, you may set your browser to limit the number of cookies accepted or disable all cookies, by changing the browser’s settings with the following procedures:  
-• Microsoft Internet Explorer   
-Click “Tools” in the top right hand corner and select “Internet settings”. In the pop-up window select “Privacy”: the User may change the cookie settings here.   
-• Google Chrome   
-Click the “wrench” icon in the top right hand corner and select “Settings”. Then select “Show advanced settings” and change the “Privacy” settings.   
-• Mozilla Firefox   
-In the top left hand menu select “Settings”. In the pop-up window select “Privacy”: the User may change the cookie settings here.   
-• Safari   
+  
+**3.2 Data processed by using cookie**
+
+In order to carry out specific activities, Jobrapido collects User and Registered Users personal data (e.g. IP addresses) by using cookie and similar technologies. For a detailed illustration on the type of cookie installed on the Site and on their functions and purposes, the Users can read the Jobrapido’s [Cookie Policy](https://us.jobrapido.com/info/privacy-policy#cookies) at the following paragraph 8. 
+
+  
+**3.3** **Data voluntarily provided by the Registered Users**
+
+Jobrapido collects the Registered Users personal data, as voluntary provided by the latters and collected by Jobrapido in order to register to the service referred as “ ** _job vacancies notification_** ”, as indicated into the [registration form](https://us.jobrapido.com/info/privacy-policy#gdpr). 
+
+**4.** **Legal basis of the processing** ****
+
+The legal basis of the processing carried out by Jobrapido for the purposes of activation of Jobrapido’s services, is the execution of the services requested by the Users; therefore, the collection of the User personal data is necessary, as any refusal to provide such data does not allow Jobrapido to manage and provide the services requested. 
+
+With particular reference to the purposes of carrying out aggregated analysis and pursuing Jobrapido’s interests, instead, the legal basis of the processing is the “legitimate interest” of Jobrapido and its clients: in this cases, although the collection of the personal data is not mandatorily required by the law or essential for providing the service to the Users, it is in any case necessary as such data are strictly connected with the above legitimate interests, which does not override interests or fundamental rights and freedoms of the Users. Any refusal to provide such data, therefore, could entail the impossibility for Jobrapido to provide the services requested. 
+
+Finally, in relation to the purpose of legal obligations, the User prior consent is not needed as such processing will be carried out for the fulfilling of a legal obligation; therefore, any refusal to provide such data entail the impossibility to obtain the service requested from Jobrapido. 
+
+**5\. Communication of the data and access to the data**
+
+The personal data provided by the Users as well those data collected by the Site in the context of the relevant services provided (e.g. IP addresses) will not be disseminated but may be communicated, also outside EU, only for purposes and with the modalities illustrated above, to the following categories of parties: 
+
+  
+• Jobrapido’s subsidiaries and associated companies, for administrative purposes pursuant to art. 24(1) lett. _i-ter_ of the Privacy Code, and for providing to the Users the services requested; 
+
+  
+• Jobrapido’s clients (e.g. third subjects and companies), for the purpose of providing the services requested by the Users and for facilitating the labor matching (e.g. access to the job vacancies, sending of an application, etc.), as well as, with the Users prior consent, for carrying out marketing purposes; 
+
+• collaborators, consultants or self-employed professionals to which Jobrapido collaborates for carrying out technical or organizational activities (such as the IT providers) or with which Jobrapido works for the purpose of providing its services or carrying out marketing activities; 
+
+• individuals, companies, or professional firms providing assistance and advice to Jobrapido, in relation, without limitation to, accounting, administrative, legal, tax and financial matters; 
+
+  
+• parties authorized to access the data by law or authorities’ orders. 
+
+The persons and entities indicated above will process the data in their capacity as independent data controllers pursuant to the applicable laws or as Data Processors. The list of the names of the subjects to which the data are or may be communicated is available at Jobrapido. 
+
+  
+For the purposes indicated at the present Privacy Policy, the personal data will also be transferred abroad to EU and not-EU countries, included to the companies which belongs to Jobrapido group of companies: in particular, for the cases in which such data will be transferred outside EU, Jobrapido states to adopt the specific measures provided by for the Privacy Code for the legitimation of such processing, such as specific agreements which include the Standard Contractual Clauses provided by the EU Commission or the subscription of the EU-US Privacy Shield for the data transfer to the USA. The Users may request for obtaining the indication of the countries to which their personal data are transferred as well as the privacy measures adopted by Jobrapido to make such processing legitimate by contacting the persons indicated below. 
+
+Finally, the personal data will be processed by employees and/or collaborators entrusted by Jobrapido and duly appointed as persons in charge of the processing under the direct supervision and liability of Jobrapido. 
+
+**6\. Data retention**
+
+Jobrapido adopts adequate security measures able to prevent unauthorized accesses, dissemination, alteration or destruction of the data. Such data are mainly processed and stored at Jobrapido legal office or at different data centres located into the EU territory and, with particular reference to the services provided by third partied, also outside EU. 
+
+The personal data are processed mainly by electronic, computerized and automated tools, for the period of time which is strictly necessary to carry out the purposes for which they were collected. Such data are stored by Jobrapido for the time necessary to provide the service requested by the Users and, after the provision of such services, the will be stored only for the provision of the execution of Jobrapido’s services and for carrying out the activities of aggregated analysis, fulfilment of legitimate interests, legal obligations set out above. 
+
+**7\. User’s rights**
+
+The Users, as data subjects, retain specific rights. For example, they have the right to obtain: 
+
+(i) the confirmation as to the existence of data concerning them, even if not recorded yet, and the communication of the same data in an intelligible form; 
+
+(ii) the indication of the origin of the data, purposes and modalities of the processing, subjects and categories of subjects to which the data may be communicated or which may get to know the data in their capacity as representatives in the State’s territory, as data processors, or persons in charge of the processing; 
+
+(iii) the updating, rectification or, where interested therein, integration of the data; 
+
+(iv) the erasure, transformation into anonymous form, or blocking of data that have been processed unlawfully. 
+
+The data subjects, moreover, shall have the right to object, in whole or in part, on legitimate grounds, to the processing of their personal data. 
+
+Finally, if applicable, the Users retain the right to rectification, right to erasure, right to restriction of processing, right to data portability as well as the right to lodge a complaint with the Italian Data Protection Authority in relation to the processing described into the present Privacy Policy. 
+
+The rights listed above may be exercised directly by means of the specific functions available on the Site, or of the links inserted in the emails, or by sending an email to the following address:   
+privacy@jobrapido.com. ****
+
+**8\. Cookies**
+
+A cookie is a small size file which a website sends to the browser and saves on your computer when you visit a website. Cookies are used in order to allow or enhance the websites operation, but also to provide Jobrapido with information on the Site. 
+
+The Site uses different kinds of cookies and similar technologies, each one with a specific function, as indicated below. 
+
+  
+**8.1 Technical Cookies  
+** These cookies are essential to allow the User to browse the Site and use its functions, such as accessing the website’s reserved areas (authentication cookies). Without these kind of cookies the services requested, such as access to the reserved area of the Registered Users, cannot be provided. These cookies which are strictly necessary, are used to record one single identifier in order to manage and identify the User with respect to other Users visiting the Site at the same time, providing the User with a consistent and precise service. These cookies are necessary for the Site to work properly therefore they does not need the Users prior consent. 
+
+  
+**8.2 Performance and analytics cookies set by Jobrapido and similar technologies  
+** These cookies may be used by Jobrapido for the purposes of performance and improving the Site. These cookies gather information about how users use the Site, which pages are visited for example, and allows Jobrapido to recognize Users, trace their online behaviors and identify which features of the website are of most interest to Users. 
+
+Moreover, in the cases in which the User is readdressed to the websites of the companies that have published a job vacancy, Jobrapido uses analytics cookie (which lasts 12 hours, so-called “tracking pixel”) for collecting information on how the Users browse such third companies’ websites (e.g. the pages browsed, the application procedure, etc.) in order to carry out the activities of aggregated analysis and pursuing of legitimate interests under the above paragraph 2 - in particular, to verify the quality of its services -, to transfer to such third companies anonymous feedbacks on the correct functioning and effectiveness of the services provided and for carrying out internal analysis. 
+
+Finally, Jobrapido may use tracking scripts which have with similar functionalities to the cookie ones in order to carry out sample tests on both Unregistered and Registered Users (e.g. mouse movements, the positioning on the Site and on its contents, etc.). The information collected are processed only for aggregate analysis which are not based on the personal data of the Users (e.g. IP, MAC address, etc.). 
+
+  
+**8.3 Third party analytics cookies  
+** These cookies are used by Google Analytics for example, Google Adwords, Google Doubleclick, Criteo, Facebook, Connexity in order to carry out statistical analysis of how users browse the Site, the number of pages visited or the clicks carried out on a page during the navigation sessions. The data obtained by Jobrapido from this analysis is used exclusively only if the service provider uses cookies in connection with the web browser installed on your computer or on other devices used by the Users for accessing the Site. 
+
+For further information about the use of third party cookies and instructions on how to manage them, as well as how to opt-out of them, please visit the relevant third party websites for further information at the following links:   
+Google Analytics, Google Adwords, Google Doubleclick: [ http://www.google.com/policies/technologies/cookies/ ](http://www.google.com/policies/technologies/cookies/)   
+Criteo: [ http://www.criteo.com/privacy/ ](http://www.criteo.com/privacy/)   
+Facebook: [ https://www.facebook.com/help/cookies/update ](https://www.facebook.com/help/cookies/update)   
+Connexity: [ http://connexity.com/privacy-policy/ ](http://connexity.com/privacy-policy/) . 
+
+**8.4 First Party Profiling Cookies**
+
+These cookies are installed in relation to the contents visualized by the User and their utilization of the Website. These cookies allow the Website to record the preferences expressed by the User in their browsing, to analyse their behaviour, and customize specific Website contents to each single User, for the purpose of developing content and sending promotional messages in line with the preferences expressed by the User as they navigate the Website. This type of cookies may also be used to restrict the number of visualizations of specific content and to analyse the results acquired through specific actions on the Website. 
+
+The Owner may also add _web beacons_ (GIFT or web bugs) in web pages or e-mails for the purpose of tracking clicks on the links or images featured, and the Users’ opening of e-mails containing job adverts and business newsletters. This information is collected to monitor the number of Users that visit the Website pages or click on the e-mails containig job adverts and the newsletters, allowing the Owner to obtain statistical information and identify the characteristics and contents preferred by Users, in order to send them customized information. These cookies are: JE , JE_GLOBAL 
+
+**8.5 Third-Party Profiling Cookies**
+
+Jobrapido uses business partners to display advertisement communications on the Website and its services on third-party websites, and to enable its advertisement network partners to display advertisment content connected with the preferences shown by the Users who registered with the Website or browsed through it. These cookies are used by Google and other third parties (such as Appnexus, Rubicon Project, Pubmatic, Criteo, Index Exchange and others, as listed here: [ http://www.jobrapido.com/info/advpartnerslist ](http://www.jobrapido.com/info/advpartnerslist) ) for the purpose of displaying advertisement banners to Users in their browsing. These cookies are also used to show Users products or services they are interested in, or similar to those visualized, based on their browsing history. 
+
+These cookies connect to the User’s browser or other device used by Users to browse the Internet. For further information on how to manage this type of cookies and on how to refuse their utilization, please see Google’s privacy policy ( [ https://policies.google.com/technologies/ads ](https://policies.google.com/technologies/ads) ; [ https://policies.google.com/technologies/partner-sites ](https://policies.google.com/technologies/partner-sites) ; [ https://adssettings.google.com/ ](https://adssettings.google.com/) ) and the policies used by the third-parties mentioned above, and apply the available options at the following link: [ http://www.youronlinechoices.com/ ](http://www.youronlinechoices.com/)
+
+**8.6 How to disable cookies  
+** Please note that, also after having provided the consent by overcoming the banner cookie on the landing page of the Site, if you wish, you may set your browser to limit the number of cookies accepted or disable all cookies, by changing the browser’s settings with the following procedures: 
+
+[ Microsoft Internet Explorer 7/8 ](http://windows.microsoft.com/en-us/windows-vista/block-or-allow-cookies) / [ Microsoft Internet Explorer 9/10/11 ](http://windows.microsoft.com/en-us/windows7/how-to-manage-cookies-in-internet-explorer-9)   
+Click “Tools” in the top right hand corner and select “Internet settings”. In the pop-up window select “Privacy”: the User may change the cookie settings here. 
+
+• [ Google Chrome ](https://support.google.com/accounts/answer/61416)   
+Click the “wrench” icon in the top right hand corner and select “Settings”. Then select “Show advanced settings” and change the “Privacy” settings. 
+
+• [ Mozilla Firefox ](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)   
+In the top left hand menu select “Settings”. In the pop-up window select “Privacy”: the User may change the cookie settings here. 
+
+• [Safari](https://support.apple.com/kb/PH17191)   
 In the top right hand menu select “Preferences”. Then click “Security” and change the cookies settings.   
 In order to carry out this operation on your mobile phone, please consult your device handbook.   
-Please be aware that by disabling the cookies – web browsing cookies or performance cookies – certain functions of the Site may not be available.   
-For further information concerning cookies and on how to manage or disable third party cookies, marketing/retargeting cookies, please visit www.youronlinechoices.com.  
-To disable analytics cookies and prevent Google Analytics from collecting data on your browsing experience, you may download the browser’s additional component for the deactivation of Google Analytics: tools.google.co./dlpage/gaoptout 
+Please be aware that by disabling the cookies – web browsing cookies, technical or performance cookies – certain functions of the Site may not be available. 
 
-###### 9\. Jobrapido App
-
-This Privacy Policy also applies to the processing of personal data carried out by Jobrapido by means of the Jobrapido smartphone dedicated app (“App”) which, when downloaded and subject to prior registration, allows Users to access Jobrapido’s search engine in order to find job vacancies advertised by companies, both Jobrapido’s clients and companies located throughout the world, and in general to activate and execute the services requested by Users, and the activities connected to them for the purposes indicated above.   
-The data collected by the App, by way of direct download by the User, may include the name, email address, certain pieces of information related to the device (e.g. IP address), to the operating system used, to the position of the device, and Users will be specifically asked to consent to this Privacy Policy in order to complete the download.   
-In order to use the service offered by the App the User may be asked to provide their name, surname, and email address by means of the registration form. Only subject to the User’s prior consent, will the user’s home address and email address be used for the sending of promotional and commercial communications. Such purposes are still on their way to implementation. The User will be alerted when the marketing purposes indicated (to be carried out in the specified ways) will be pursued and they will be invited to make a choice regarding them. However, Jobrapido has the possibility of sending, to the email address provided by the User, informational/promotional communications on new services offered by Jobrapido which are similar to the ones requested or used by Users. This activity does not require the express consent by the User, although the latter has the right to oppose the use of their data for marketing purposes at any time.   
-The App may also use certain pieces of information automatically generated during its use, in order to elaborate statistics on an anonymous basis and carry out the necessary operations to improve the App’s functions and the security of the platform providing the services.   
-The App, however, does not require either the GPS coordinates of the device, which will be collected only if the User has activated the relevant setting on their device, or the User’s credit card number, nor does the App access any information contained in the calendar, agenda or list of contacts of the device.  
-The App will retain the User’s information for the period of time strictly necessary to provide support to the App’s services and functions, unless a longer retention period is requested or allowed by law.  
-
-
-###### 10\. Communication of data to third parties
-
-The data provided by the User and those collected by the Site in providing the services (e.g. IP address) won’t be disseminated and may be disclosed, even abroad in Countries outside the EU, exclusively for the purposes and procedures indicated above, to the following categories of persons and entities:
-
-• subsidiaries and associated companies which Jobrapido belongs to and third parties, Jobrapido’s clients for administrative-accounting purposes pursuant to Section 24, par. 1 lett. i-ter of the Privacy Code, for personnel selection purposes, to facilitate the match between job applications and offers, subject to prior consent for marketing purposes;  
-• contractors, consultants or professionals providing technical or organizational services to Jobrapido (e.g. IT service providers), or who collaborate with Jobrapido, for the correct provision and working of its services or for marketing activities;   
-• individuals, companies, or professional firms providing assistance and advice to Jobrapido, in relation, without limitation, to accounting, administrative, legal, tax and financial matters;  
-• parties authorized to access the data by law or authorities’ orders.   
-The persons and entities indicated above will process the data in their capacity as independent data controllers pursuant to applicable law or as Data Processors. The list of the names of the subjects to which the data are or may be communicated is available at Jobrapido.   
-Jobrapido relies on the cooperation of certain partners to show advertisements concerning Jobrapido on third parties’ websites and to allow partner advertisement networks to show vacancies on the basis of User preferences. Such vacancies may take into account the fact that the User is registered to Jobrapido or has visited the Site. The identification on the part of such partners is carried out by means of a cookie and by sharing with them the above-described Jobrapido’s cookie. No other Data is shared with such partners.   
-In specific cases Jobrapido provides the User’s email address in encrypted form (hashing) to social media, in order to carry out analyses and statistical elaborations on the social networks’ users for marketing purposes. 
-
-###### 11\. Data retention 
-
-To guarantee that data are always updated, Jobrapido may also deactivate the account in the case of non-prolonged use, in compliance with company procedures, it being understood that the User may register again at any time.
-
-###### 12\. Persons in charge of the processing and Data processors (third party services)
-
-The data will be processed by Jobrapido’s employees and/or professionals, carrying out their activities in their capacity as persons in charge of the processing, under the direct supervision and responsibility of Jobrapido.  
-Jobrapido avails itself of third party services, regularly appointed as Data Processors for this purpose. The list of the Data Processors is available at Jobrapido.  
-
-
-###### 13\. Users’ rights
-
-Section 7 of the Privacy Code authorizes the User, in their capacity as data subject (i.e. the natural person whose data are processed), to exercise specific rights.  
-In particular, the User has the right to obtain:
-
-(i) the confirmation as to the existence of data concerning them, even if not recorded yet, and the communication of the same data in intelligible form;  
-(ii) the indication of the origin of the data, purposes and modalities of the processing, subjects and categories of subjects to which the data may be communicated or which may get to know the data in their capacity as representatives in the State’s territory, as data processors, or persons in charge of the processing;  
-(iii) updating, rectification or, where interested therein, integration of the data;   
-(iv) erasure, transformation into anonymous form, or blocking of data that have been processed unlawfully.   
-A data subject shall have the right to object, in whole or in part, on legitimate grounds, to the processing of personal data concerning him or her for commercial information, advertising, marketing or market research purposes.  
-The rights listed above may be exercised directly by means of the specific functions available on the Site, or of the links inserted in the emails, or by sending an email to the following address:   
-privacy@jobrapido.com.
-
-###### 14\. Amendments to this Privacy Policy 
-
-This Privacy Policy may be amended by Jobrapido, in order to take into account the relevant legislative developments, the technological progress, and the changes in Jobrapido’s activities or the introduction of new services.   
-Should this be the case, Jobrapido will provide extensive information on the Site as to the publication of an amended and integrated version of the Privacy Policy. We encourage Users to check whether any such information is provided on the Site.  
-In the case that the amendments are particularly relevant, Jobrapido may communicate them to the User via a different channel (e.g. by sending an email).  
-
+The DPO's (Data Protection Officer) data are published on the website in the dedicated section. 
