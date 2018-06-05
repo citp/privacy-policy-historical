@@ -1,23 +1,23 @@
-<!--The following is the downloaded HTML source of the theepochtimes.com privacy policy that was archived on 2017-11-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171128221159id_/https%3A//www.theepochtimes.com/privacy-notice) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theepochtimes.com privacy policy that was archived on 2018-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180605143110id_/https%3A//www.theepochtimes.com/privacy-notice) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" class=""><head>
 <meta charset="UTF-8">
 <link rel="shortcut icon" type="image/x-icon" href="https://www.theepochtimes.com/assets/themes/eet/images/etfavicon.ico" sizes="16x16">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Privacy Notice | The Epoch Times</title>
-<meta name="description" content="Last Updated: July 31, 2013 We take seriously your interest in how your information is collected and used. Please read the following to understand about ou">
+<meta name="description" content="Who We Are The Epoch Times (‘we’ or ‘us’ or ‘our’) gathers and processes your personal information in accordance with this privacy notice and in compliance">
 <link rel="canonical" href="https://www.theepochtimes.com/privacy-notice">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
 <meta property="og:title" content="The Epoch Times - Privacy Notice">
-<meta property="og:description" content="Last Updated: July 31, 2013 We take seriously your interest in how your information is collected and used. Please read the following to understand about ou">
+<meta property="og:description" content="Who We Are The Epoch Times (‘we’ or ‘us’ or ‘our’) gathers and processes your personal information in accordance with this privacy notice and in compliance">
 <meta property="og:url" content="https://www.theepochtimes.com/privacy-notice">
 <meta property="og:site_name" content="www.theepochtimes.com">
 <meta property="fb:admins" content="10205921529470972">
 <meta property="og:image" content="http://www.theepochtimes.com/n3/eet-content/uploads/2013/04/eet_logo.jpg">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:description" content="Last Updated: July 31, 2013 We take seriously your interest in how your information is collected and used. Please read the following to understand about ou">
+<meta name="twitter:description" content="Who We Are The Epoch Times (‘we’ or ‘us’ or ‘our’) gathers and processes your personal information in accordance with this privacy notice and in compliance">
 <meta name="twitter:title" content="The Epoch Times - Privacy Notice">
 <meta name="twitter:site" content="@EpochTimes">
 <meta name="twitter:domain" content="www.theepochtimes.com">
@@ -30,347 +30,428 @@
 <link rel="stylesheet" id="eet-article-page-css" href="https://www.theepochtimes.com/assets/themes/eet/css/single.css?ver=20171027" type="text/css" media="all">
 <link rel="stylesheet" id="eet-archive-css" href="https://www.theepochtimes.com/assets/themes/eet/css/archive.css?ver=20170725" type="text/css" media="all">
 <link rel="stylesheet" id="eet-page-css" href="https://www.theepochtimes.com/assets/themes/eet/css/page.css?ver=20170725" type="text/css" media="all">
-
-
-	<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5Z8H4H"></script><script>
-		var eet_primary_category, eet_user_id, eet_cat_ids, eet_term_ids, eet_all_term_ids, eet_cat_names, eet_no_ads, eet_ads_term_ids;
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5Z8H4H"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+		var eet_primary_category, eet_cat_ids, eet_term_ids, eet_all_term_ids, eet_cat_names, eet_no_ads, eet_ads_term_ids;
 		var eet_post_id, eet_author_nicename, eet_author_name, eet_primary_category_name, eet_tags, eet_tags_slugs, eet_publish_date, eet_last_updated_date, eet_word_count;
 		var eet_segment_url = 'https://www.theepochtimes.com/assets/uploads/segment';
 		</script>
-	<!--[if lt IE 9]>
+<!--[if lt IE 9]>
      <script type="text/javascript" src="/assets/themes/eet/js/html5.js"></script>
      <link href="/assets/themes/eet/css/ie.css" rel="stylesheet" type="text/css" />
 <![endif]-->
 <meta property="fb:pages" content="92239399265,1615635982023706,1063649000424319">
 </head>
-<body class="page-template page-template-page-fullwidth page-template-page-fullwidth-php page page-id-219797">
-	<style>.async-hide { opacity: 0 !important} </style>
-	<script>
+<body class="page-template-default page page-id-219797">
+<script>
+    	// We want persisten UUID
+    	function epochuser () {
+			this.getUUID = function getUUID () {               
+				if (localStorage && "_epochUUID" in localStorage) {
+					euid = localStorage._epochUUID;
+				} else {
+					euid = this.euid();
+					localStorage.setItem("_epochUUID",this.euid());
+				}
+				return euid;
+			}
+			this.euid = function () {
+				return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {
+					var r = Math.random() * 16 | 0, v = c == 'x' ? r : (r & 0x3 | 0x8);
+					return v.toString(16);
+				});
+			}
+		}
+		var epoch = {}
+		var user = new epochuser();
+		epoch.uuid = user.getUUID();
+		console.log("UUID:" + epoch.uuid);
+	</script>
+
+<style>.async-hide { opacity: 0 !important} </style>
+<script>
 		var settings_obj = {};
-		settings_obj[ 'GTM-5Z8H4H' ] = true;
+		settings_obj[ '' ] = true;
 		(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
 		h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
 		(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
 		})(window,document.documentElement,'async-hide','dataLayer',500,settings_obj);
-	</script>
-		<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5Z8H4H"
-		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+
+		var eet_ga_id = 'UA-10465455-30';
+		var eet_domain = 'theepochtimes.com';
+
+	  	<!-- Analytics-Optimize Snippet -->
+	  	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  	ga('create', eet_ga_id, 'auto', {
+		  userId: epoch.uuid
+      	});
+	  	ga('require', '');
+	 </script>
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5Z8H4H"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
 	j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5Z8H4H');
 	</script>
-	<header id="header" class="single">
-	<div class="topbar no_background">
-		<div class="center_content">
-			<div id="eet_date" class="date"></div>
-			<div class="country">
-				<div class="boundary">
-					<span class="left"></span>
-					<span class="mid">
-						<div class="subscribe">
-							<span class="subscribe_title">SUBSCRIBE TODAY!</span>
-							<span class="print">
-								<a href="https://subscribe.epochtimes.com/">
-									<span class="subs">
-										<div class="block_title">PRINT EDITION</div>
-									</span>
-								</a>
-							</span>
-							<span class="newsletter">
-								<a href="https://www.theepochtimes.com/newsletter">
-									<span class="subs">
-										<div class="block_title">EPOCH NEWSLETTERS</div>
-									</span>
-								</a>
-							</span>
-						</div>
-					</span>
-					<span class="right"></span>
-				</div>
-			</div>
-			<div class="social">
-				Follow us
-				<span class="fb"><a href="https://www.facebook.com/epochtimes" target="_blank">&nbsp;</a></span>
-				<span class="twitter"><a href="https://twitter.com/epochtimes" target="_blank">&nbsp;</a></span>
-				<span class="gplus"><a href="https://plus.google.com/+epochtimes" target="_blank">&nbsp;</a></span>
-			</div>
-		</div>
-	</div>
-
-	<div class="has_background">
-		<div class="center_content">
-			<div class="logo">
-				<div class="epoch">
-					<a id="open_hide_menu" href="javascript:void(0);"></a>
-					<a class="eet_logo" href="https://www.theepochtimes.com"><img src="/assets/themes/eet/images/header_EET.svg"></a>
-				</div>
-				<div class="categories">
-				<div class="menu-primary-container"><ul id="menu-primary" class="nav-menu"><li id="menu-item-2298334" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-new-york menu-item-2298334"><a href="https://www.theepochtimes.com/c-nyc">New York</a></li>
+<header id="header" class="single">
+<div class="topbar no_background">
+<div class="center_content">
+<div id="eet_date" class="date"></div>
+<div class="country">
+<div class="boundary">
+<span class="left"></span>
+<span class="mid">
+<div class="subscribe">
+<span class="subscribe_title">SUBSCRIBE TODAY!</span>
+<span class="print">
+<a href="https://subscribe.epochtimes.com/?utm_source=referrer&amp;utm_medium=web%20link&amp;utm_campaign=theepochtimes.com&amp;utm_content=header%20link">
+<span class="subs">
+<div class="block_title">PRINT EDITION</div>
+</span>
+</a>
+</span>
+<span class="newsletter">
+<a href="https://www.theepochtimes.com/newsletter">
+<span class="subs">
+<div class="block_title">EPOCH NEWSLETTERS</div>
+</span>
+</a>
+</span>
+</div>
+</span>
+<span class="right"></span>
+</div>
+</div>
+<div class="social">
+Follow us
+<span class="fb"><a href="https://www.facebook.com/epochtimes" target="_blank">&nbsp;</a></span>
+<span class="twitter"><a href="https://twitter.com/epochtimes" target="_blank">&nbsp;</a></span>
+<span class="gplus"><a href="https://plus.google.com/+epochtimes" target="_blank">&nbsp;</a></span>
+</div>
+</div>
+</div>
+<div class="has_background">
+<div class="center_content">
+<div class="logo">
+<div class="epoch">
+<a id="open_hide_menu" href="javascript:void(0);"></a>
+<a class="eet_logo" href="https://www.theepochtimes.com"><img src="https://www.theepochtimes.com/assets/themes/eet/images/header_EET.svg"></a>
+</div>
+<div class="categories">
+<div class="menu-primary-container"><ul id="menu-primary" class="nav-menu"><li id="menu-item-2298334" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-new-york menu-item-2298334"><a href="https://www.theepochtimes.com/c-nyc">New York</a></li>
 <li id="menu-item-2298335" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-china menu-item-2298335"><a href="https://www.theepochtimes.com/c-china">China</a></li>
 <li id="menu-item-2298336" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-us menu-item-2298336"><a href="https://www.theepochtimes.com/c-us">US</a></li>
 <li id="menu-item-2298337" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-world menu-item-2298337"><a href="https://www.theepochtimes.com/c-world">World</a></li>
-<li id="menu-item-2298338" class="menu-item menu-item-type- menu-item-object- menu-title- menu-item-2298338"><a></a></li>
-<li id="menu-item-2298339" class="menu-item menu-item-type- menu-item-object- menu-title- menu-item-2298339"><a></a></li>
-<li id="menu-item-2298340" class="menu-item menu-item-type- menu-item-object- menu-title-food-dining menu-item-2298340"><a>Food &amp; Dining</a></li>
-<li id="menu-item-2298341" class="menu-item menu-item-type- menu-item-object- menu-title- menu-item-2298341"><a></a></li>
-<li id="menu-item-2298342" class="menu-item menu-item-type- menu-item-object- menu-title- menu-item-2298342"><a></a></li>
-<li id="menu-item-2298343" class="menu-item menu-item-type- menu-item-object- menu-title- menu-item-2298343"><a></a></li>
-</ul></div>				</div>
-				<div class="search">
-					<div class="box">
-						<form action="https://www.theepochtimes.com/search/" class="search_form" method="get" target="_blank">
-							<input type="text" name="q">
-							<a class="search_icon"></a>
-						</form>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="overlay left"></div>
-		<div class="overlay right"></div>
-	</div>
-
-	<div id="hidden_menu" class="hidden">
-		<div class="center_content">
-			<div class="upper">
-				<span class="close_icon"><a href="javascript:void(0);"></a></span>
-				<a href="https://www.theepochtimes.com">HOME</a>
-				<a href="https://www.theepochtimes.com/todays-headlines">TODAY’S HEADLINES</a>
-				<a href="https://www.theepochtimes.com/editors-picks">EDITOR’S PICKS</a>
-				<a href="https://www.theepochtimes.com/top-stories">TOP STORIES</a>
-				<a href="https://www.theepochtimes.com/featured-news">FEATURED</a>
-				<a href="">SPECIAL SERIES</a>
-				<a href="https://www.theepochtimes.com/c-uplift" class="uplift"><img src="/assets/themes/eet/images/uplift_new_orange.svg"></a>
-			</div>
-			<div class="lower">
-				<div class="featured">
-					<div class="block_title">FEATURED</div>
-					<div class="post"><a href="https://www.theepochtimes.com/head-transplant-research-in-china-raises-serious-concerns-including-over-source-of-bodies_2363981.html"><span class="image"><img alt="‘Head Transplant’ Research in China Raises Serious Concerns" src="https://www.theepochtimes.com/assets/uploads/2017/02/15/surgery-1822458_1920-300x180.jpg"></span><span class="title">‘Head Transplant’ Research in China Raises Serious Concerns</span></a></div>				</div>
-				<div class="menu_items">
-					<span class="first_col"><div class="menu-front-main-column1-container"><ul id="menu-front-main-column1" class="nav-menu"><li id="menu-item-2298344" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-title-us menu-item-2298344"><a href="https://www.theepochtimes.com/c-us">US</a>
+<li id="menu-item-2298338" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-opinion menu-item-2298338"><a href="https://www.theepochtimes.com/c-opinion">Opinion</a></li>
+<li id="menu-item-2298339" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-business menu-item-2298339"><a href="https://www.theepochtimes.com/c-business">Business</a></li>
+<li id="menu-item-2298340" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-food-dining menu-item-2298340"><a href="https://www.theepochtimes.com/c-food-dining">Food &amp; Dining</a></li>
+<li id="menu-item-2298341" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-tech menu-item-2298341"><a href="https://www.theepochtimes.com/c-tech">Tech</a></li>
+<li id="menu-item-2298342" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-science menu-item-2298342"><a href="https://www.theepochtimes.com/c-science">Science</a></li>
+<li id="menu-item-2298343" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-sports menu-item-2298343"><a href="https://www.theepochtimes.com/c-sports">Sports</a></li>
+</ul></div> </div>
+<div class="search">
+<div class="box">
+<form action="https://www.theepochtimes.com/search/" class="search_form" method="get" target="_blank">
+<input type="text" name="q">
+<a class="search_icon"></a>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div class="overlay left"></div>
+<div class="overlay right"></div>
+</div>
+<div id="hidden_menu" class="hidden">
+<div class="center_content">
+<div class="upper">
+<span class="close_icon"><a href="javascript:void(0);"></a></span>
+<a href="https://www.theepochtimes.com">HOME</a>
+<a href="https://www.theepochtimes.com/todays-headlines">TODAY’S HEADLINES</a>
+<a href="https://www.theepochtimes.com/editors-picks">EDITOR’S PICKS</a>
+<a href="https://www.theepochtimes.com/top-stories">TOP STORIES</a>
+<a href="https://www.theepochtimes.com/featured-news">FEATURED</a>
+<a href="">SPECIAL SERIES</a>
+<a href="https://www.theepochtimes.com/c-uplift" class="uplift"><img src="https://www.theepochtimes.com/assets/themes/eet/images/uplift_new_orange.svg"></a>
+</div>
+<div class="lower">
+<div class="featured">
+<div class="block_title">FEATURED</div>
+<div class="post"><a href="https://www.theepochtimes.com/every-cancer-patient-should-be-prescribed-exercise-2_2534156.html"><span class="image"><img alt="Every Cancer Patient Should Be Prescribed Exercise" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://www.theepochtimes.com/assets/uploads/2018/05/23/file-20180502-153873-1jx9usw-300x180.jpg"><noscript><img alt="Every Cancer Patient Should Be Prescribed Exercise" src="https://www.theepochtimes.com/assets/uploads/2018/05/23/file-20180502-153873-1jx9usw-300x180.jpg"></noscript></span><span class="title">Every Cancer Patient Should Be Prescribed Exercise</span></a></div> </div>
+<div class="menu_items">
+<span class="first_col"><div class="menu-front-main-column1-container"><ul id="menu-front-main-column1" class="nav-menu"><li id="menu-item-2298344" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-us menu-item-2298344"><a href="https://www.theepochtimes.com/c-us">US</a>
 <ul class="sub-menu">
-	<li id="menu-item-2298345" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-title-us-news menu-item-2298345"><a href="https://www.theepochtimes.com/c-us-news">US News</a></li>
-	<li id="menu-item-2298348" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-politics menu-item-2298348"><a href="https://www.theepochtimes.com/c-us-politics">Politics</a></li>
-	<li id="menu-item-2298346" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-us-features menu-item-2298346"><a href="https://www.theepochtimes.com/c-us-features">US Features</a></li>
-	<li id="menu-item-2298347" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-us-real-estate menu-item-2298347"><a href="https://www.theepochtimes.com/c-us-real-estate">US Real Estate</a></li>
+<li id="menu-item-2298345" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-us-news menu-item-2298345"><a href="https://www.theepochtimes.com/c-us-news">US News</a></li>
+<li id="menu-item-2298348" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-politics menu-item-2298348"><a href="https://www.theepochtimes.com/c-us-politics">Politics</a></li>
+<li id="menu-item-2298346" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-us-features menu-item-2298346"><a href="https://www.theepochtimes.com/c-us-features">US Features</a></li>
+<li id="menu-item-2298347" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-us-real-estate menu-item-2298347"><a href="https://www.theepochtimes.com/c-us-real-estate">US Real Estate</a></li>
 </ul>
 </li>
-<li id="menu-item-2298352" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-politics menu-item-2298352"><a href="https://www.theepochtimes.com/c-us-politics">Politics</a></li>
+<li id="menu-item-2298352" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-us-politics menu-item-2298352"><a href="https://www.theepochtimes.com/c-us-politics">US Politics</a></li>
 <li id="menu-item-2298353" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-china menu-item-2298353"><a href="https://www.theepochtimes.com/c-china">China</a>
 <ul class="sub-menu">
-	<li id="menu-item-2298354" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-china-us-news menu-item-2298354"><a href="https://www.theepochtimes.com/c-china-us-news">China-US News</a></li>
-	<li id="menu-item-2298355" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-chinese-regime menu-item-2298355"><a href="https://www.theepochtimes.com/c-regime">Chinese Regime</a></li>
-	<li id="menu-item-2298356" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-business-economy menu-item-2298356"><a href="https://www.theepochtimes.com/c-business-economy">Business &amp; Economy</a></li>
-	<li id="menu-item-2298357" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-chinese-culture menu-item-2298357"><a href="https://www.theepochtimes.com/c-culture">Chinese Culture</a></li>
-	<li id="menu-item-2298358" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-china-human-rights menu-item-2298358"><a href="https://www.theepochtimes.com/c-human-rights">China Human Rights</a></li>
-	<li id="menu-item-2298359" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-china-society menu-item-2298359"><a href="https://www.theepochtimes.com/c-society">China Society</a></li>
-	<li id="menu-item-2298360" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-nine-commentaries menu-item-2298360"><a href="https://www.theepochtimes.com/c-nine-commentaries">Nine Commentaries</a></li>
+<li id="menu-item-2298354" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-china-us-news menu-item-2298354"><a href="https://www.theepochtimes.com/c-china-us-news">China-US News</a></li>
+<li id="menu-item-2298355" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-chinese-regime menu-item-2298355"><a href="https://www.theepochtimes.com/c-regime">Chinese Regime</a></li>
+<li id="menu-item-2298356" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-business-economy menu-item-2298356"><a href="https://www.theepochtimes.com/c-business-economy">Business &amp; Economy</a></li>
+<li id="menu-item-2298357" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-chinese-culture menu-item-2298357"><a href="https://www.theepochtimes.com/c-culture">Chinese Culture</a></li>
+<li id="menu-item-2298358" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-china-human-rights menu-item-2298358"><a href="https://www.theepochtimes.com/c-human-rights">China Human Rights</a></li>
+<li id="menu-item-2298359" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-china-society menu-item-2298359"><a href="https://www.theepochtimes.com/c-society">China Society</a></li>
+<li id="menu-item-2298360" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-nine-commentaries menu-item-2298360"><a href="https://www.theepochtimes.com/c-nine-commentaries">Nine Commentaries</a></li>
 </ul>
 </li>
 <li id="menu-item-2298362" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-world menu-item-2298362"><a href="https://www.theepochtimes.com/c-world">World</a>
 <ul class="sub-menu">
-	<li id="menu-item-2298363" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-africa menu-item-2298363"><a href="https://www.theepochtimes.com/c-africa">Africa</a></li>
-	<li id="menu-item-2298364" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-americas menu-item-2298364"><a href="https://www.theepochtimes.com/c-americas">Americas</a></li>
-	<li id="menu-item-2298365" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-asia-pacific menu-item-2298365"><a href="https://www.theepochtimes.com/c-asia-pacific">Asia &amp; Pacific</a></li>
-	<li id="menu-item-2298366" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-canada menu-item-2298366"><a href="https://www.theepochtimes.com/c-canada">Canada</a></li>
-	<li id="menu-item-2298367" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-europe menu-item-2298367"><a href="https://www.theepochtimes.com/c-europe">Europe</a></li>
-	<li id="menu-item-2298368" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-india menu-item-2298368"><a href="https://www.theepochtimes.com/c-india">India</a></li>
-	<li id="menu-item-2298369" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-international menu-item-2298369"><a href="https://www.theepochtimes.com/c-international">International</a></li>
-	<li id="menu-item-2298370" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-middle-east menu-item-2298370"><a href="https://www.theepochtimes.com/c-middle-east">Middle East</a></li>
+<li id="menu-item-2298363" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-africa menu-item-2298363"><a href="https://www.theepochtimes.com/c-africa">Africa</a></li>
+<li id="menu-item-2298364" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-americas menu-item-2298364"><a href="https://www.theepochtimes.com/c-americas">Americas</a></li>
+<li id="menu-item-2298365" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-asia-pacific menu-item-2298365"><a href="https://www.theepochtimes.com/c-asia-pacific">Asia &amp; Pacific</a></li>
+<li id="menu-item-2298366" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-canada menu-item-2298366"><a href="https://www.theepochtimes.com/c-canada">Canada</a></li>
+<li id="menu-item-2298367" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-europe menu-item-2298367"><a href="https://www.theepochtimes.com/c-europe">Europe</a></li>
+<li id="menu-item-2298368" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-india menu-item-2298368"><a href="https://www.theepochtimes.com/c-india">India</a></li>
+<li id="menu-item-2298369" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-international menu-item-2298369"><a href="https://www.theepochtimes.com/c-international">International</a></li>
+<li id="menu-item-2298370" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-middle-east menu-item-2298370"><a href="https://www.theepochtimes.com/c-middle-east">Middle East</a></li>
 </ul>
 </li>
 </ul></div></span>
-					<span class="second_col"><div class="menu-front-main-column2-container"><ul id="menu-front-main-column2" class="nav-menu"><li id="menu-item-2298372" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-opinion menu-item-2298372"><a href="https://www.theepochtimes.com/c-opinion">Opinion</a>
+<span class="second_col"><div class="menu-front-main-column2-container"><ul id="menu-front-main-column2" class="nav-menu"><li id="menu-item-2298372" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-opinion menu-item-2298372"><a href="https://www.theepochtimes.com/c-opinion">Opinion</a>
 <ul class="sub-menu">
-	<li id="menu-item-2298373" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-thinking-about-china menu-item-2298373"><a href="https://www.theepochtimes.com/c-thinking-about-china">Thinking About China</a></li>
-	<li id="menu-item-2298374" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-viewpoints menu-item-2298374"><a href="https://www.theepochtimes.com/c-viewpoints">Viewpoints</a></li>
-	<li id="menu-item-2298375" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-the-readers-turn menu-item-2298375"><a href="https://www.theepochtimes.com/c-readers-turn">The Reader’s Turn</a></li>
+<li id="menu-item-2298373" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-thinking-about-china menu-item-2298373"><a href="https://www.theepochtimes.com/c-thinking-about-china">Thinking About China</a></li>
+<li id="menu-item-2298374" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-viewpoints menu-item-2298374"><a href="https://www.theepochtimes.com/c-viewpoints">Viewpoints</a></li>
+<li id="menu-item-2298375" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-the-readers-turn menu-item-2298375"><a href="https://www.theepochtimes.com/c-readers-turn">The Reader’s Turn</a></li>
 </ul>
 </li>
 <li id="menu-item-2298376" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-business menu-item-2298376"><a href="https://www.theepochtimes.com/c-business">Business</a>
 <ul class="sub-menu">
-	<li id="menu-item-2298377" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-companies menu-item-2298377"><a href="https://www.theepochtimes.com/c-companies">Companies</a></li>
-	<li id="menu-item-2298378" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-economies menu-item-2298378"><a href="https://www.theepochtimes.com/c-economies">Economies</a></li>
-	<li id="menu-item-2298379" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-markets menu-item-2298379"><a href="https://www.theepochtimes.com/c-markets">Markets</a></li>
-	<li id="menu-item-2298380" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-real-estate menu-item-2298380"><a href="https://www.theepochtimes.com/c-real-estate">Real Estate</a></li>
+<li id="menu-item-2298377" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-companies menu-item-2298377"><a href="https://www.theepochtimes.com/c-companies">Companies</a></li>
+<li id="menu-item-2298378" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-economies menu-item-2298378"><a href="https://www.theepochtimes.com/c-economies">Economies</a></li>
+<li id="menu-item-2298379" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-markets menu-item-2298379"><a href="https://www.theepochtimes.com/c-markets">Markets</a></li>
+<li id="menu-item-2298380" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-real-estate menu-item-2298380"><a href="https://www.theepochtimes.com/c-real-estate">Real Estate</a></li>
 </ul>
 </li>
 <li id="menu-item-2298381" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-science menu-item-2298381"><a href="https://www.theepochtimes.com/c-science">Science</a>
 <ul class="sub-menu">
-	<li id="menu-item-2298382" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-news menu-item-2298382"><a href="https://www.theepochtimes.com/c-science-news">News</a></li>
-	<li id="menu-item-2298383" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-beyond-science menu-item-2298383"><a href="https://www.theepochtimes.com/c-uplift-beyond-science">Beyond Science</a></li>
-	<li id="menu-item-2298384" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-space menu-item-2298384"><a href="https://www.theepochtimes.com/c-space">Space</a></li>
-	<li id="menu-item-2298385" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-environment menu-item-2298385"><a href="https://www.theepochtimes.com/c-environment">Environment</a></li>
+<li id="menu-item-2298382" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-news menu-item-2298382"><a href="https://www.theepochtimes.com/c-science-news">News</a></li>
+<li id="menu-item-2298383" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-beyond-science menu-item-2298383"><a href="https://www.theepochtimes.com/c-uplift-beyond-science">Beyond Science</a></li>
+<li id="menu-item-2298384" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-space menu-item-2298384"><a href="https://www.theepochtimes.com/c-space">Space</a></li>
+<li id="menu-item-2298385" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-environment menu-item-2298385"><a href="https://www.theepochtimes.com/c-environment">Environment</a></li>
 </ul>
 </li>
 <li id="menu-item-2298386" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-tech menu-item-2298386"><a href="https://www.theepochtimes.com/c-tech">Tech</a>
 <ul class="sub-menu">
-	<li id="menu-item-2298387" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-tech-news menu-item-2298387"><a href="https://www.theepochtimes.com/c-tech-news">Tech News</a></li>
-	<li id="menu-item-2298388" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-tech-products-reviews menu-item-2298388"><a href="https://www.theepochtimes.com/c-products-reviews">Tech Products &amp; Reviews</a></li>
-	<li id="menu-item-2298389" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-social-media menu-item-2298389"><a href="https://www.theepochtimes.com/c-tech-social-media">Social Media</a></li>
+<li id="menu-item-2298387" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-tech-news menu-item-2298387"><a href="https://www.theepochtimes.com/c-tech-news">Tech News</a></li>
+<li id="menu-item-2298388" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-tech-products-reviews menu-item-2298388"><a href="https://www.theepochtimes.com/c-products-reviews">Tech Products &amp; Reviews</a></li>
+<li id="menu-item-2298389" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-social-media menu-item-2298389"><a href="https://www.theepochtimes.com/c-tech-social-media">Social Media</a></li>
+</ul>
+</li>
+<li id="menu-item-2469004" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-sports menu-item-2469004"><a href="https://www.theepochtimes.com/c-sports">Sports</a></li>
+</ul></div></span>
+<span class="third_col"><div class="menu-front-main-column3-container"><ul id="menu-front-main-column3" class="nav-menu"><li id="menu-item-2298390" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-title-health menu-item-2298390"><a href="https://www.theepochtimes.com/c-health">Health</a>
+<ul class="sub-menu">
+<li id="menu-item-2298391" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-health-news menu-item-2298391"><a href="https://www.theepochtimes.com/c-health-news">Health News</a></li>
+<li id="menu-item-2298392" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-title-fitness-nutrition menu-item-2298392"><a href="https://www.theepochtimes.com/c-fitness-nutrition">Fitness &amp; Nutrition</a></li>
+<li id="menu-item-2298393" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-traditional-chinese-medicine menu-item-2298393"><a href="https://www.theepochtimes.com/c-traditional-chinese-medicine">Traditional Chinese Medicine</a></li>
+<li id="menu-item-2298394" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-alternative-health menu-item-2298394"><a href="https://www.theepochtimes.com/c-alternative-health">Alternative Health</a></li>
+<li id="menu-item-2298395" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-treatments-and-techniques menu-item-2298395"><a href="https://www.theepochtimes.com/c-treatments-and-techniques">Treatments and Techniques</a></li>
+</ul>
+</li>
+<li id="menu-item-2458289" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-food menu-item-2458289"><a href="https://www.theepochtimes.com/c-food-dining">Food</a>
+<ul class="sub-menu">
+<li id="menu-item-2298400" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-recipes menu-item-2298400"><a href="https://www.theepochtimes.com/c-recipes">Recipes</a></li>
+<li id="menu-item-2298401" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-drinks menu-item-2298401"><a href="https://www.theepochtimes.com/c-wine">Drinks</a></li>
+</ul>
+</li>
+<li id="menu-item-2298402" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-arts-culture menu-item-2298402"><a href="https://www.theepochtimes.com/c-arts-culture">Arts &amp; Culture</a>
+<ul class="sub-menu">
+<li id="menu-item-2298404" class="menu-item menu-item-type-custom menu-item-object-custom menu-title-shen-yun-special-coverage menu-item-2298404"><a href="http://shenyun.theepochtimes.com/">Shen Yun Special Coverage</a></li>
+<li id="menu-item-2298405" class="menu-item menu-item-type-post_type menu-item-object-page menu-title-the-classics-looking-back-looking-forward menu-item-2298405"><a href="https://www.theepochtimes.com/the-classics-looking-back-looking-forward">The Classics: Looking Back, Looking Forward</a></li>
+<li id="menu-item-2298406" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-performing-arts menu-item-2298406"><a href="https://www.theepochtimes.com/c-performing-arts">Performing Arts</a></li>
+<li id="menu-item-2298407" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-fine-arts menu-item-2298407"><a href="https://www.theepochtimes.com/c-fine-arts">Fine Arts</a></li>
+<li id="menu-item-2298408" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-literature menu-item-2298408"><a href="https://www.theepochtimes.com/c-literature">Literature</a></li>
+</ul>
+</li>
+<li id="menu-item-2298409" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-entertainment menu-item-2298409"><a href="https://www.theepochtimes.com/c-entertainment">Entertainment</a>
+<ul class="sub-menu">
+<li id="menu-item-2298410" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-film-tv menu-item-2298410"><a href="https://www.theepochtimes.com/c-film-tv">Film &amp; TV</a></li>
+<li id="menu-item-2298411" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-film-reviews menu-item-2298411"><a href="https://www.theepochtimes.com/c-film-reviews">Film Reviews</a></li>
+<li id="menu-item-2298412" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-entertainment-news menu-item-2298412"><a href="https://www.theepochtimes.com/c-entertainment-news">Entertainment News</a></li>
 </ul>
 </li>
 </ul></div></span>
-					<span class="third_col"><div class="menu-front-main-column3-container"><ul id="menu-front-main-column3" class="nav-menu"><li id="menu-item-2298390" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-health menu-item-2298390"><a href="http://uplift.theepoch.com/c-health">Health</a>
+<span class="fourth_col"><div class="menu-front-main-column4-container"><ul id="menu-front-main-column4" class="nav-menu"><li id="menu-item-2298413" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-life menu-item-2298413"><a href="https://www.theepochtimes.com/c-life">Life</a>
 <ul class="sub-menu">
-	<li id="menu-item-2298391" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-health-news menu-item-2298391"><a href="http://uplift.theepoch.com/c-health-news">Health News</a></li>
-	<li id="menu-item-2298392" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-fitness-nutrition menu-item-2298392"><a href="http://uplift.theepoch.com/c-fitness-nutrition">Fitness &amp; Nutrition</a></li>
-	<li id="menu-item-2298393" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-traditional-chinese-medicine menu-item-2298393"><a href="http://uplift.theepoch.com/c-traditional-chinese-medicine">Traditional Chinese Medicine</a></li>
-	<li id="menu-item-2298394" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-alternative-health menu-item-2298394"><a href="http://uplift.theepoch.com/c-alternative-health">Alternative Health</a></li>
-	<li id="menu-item-2298395" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-treatments-and-techniques menu-item-2298395"><a href="http://uplift.theepoch.com/c-treatments-and-techniques">Treatments and Techniques</a></li>
+<li id="menu-item-2298414" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-slice-of-life menu-item-2298414"><a href="https://www.theepochtimes.com/c-slice-of-life">Slice of Life</a></li>
+<li id="menu-item-2298416" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-inspired menu-item-2298416"><a href="https://www.theepochtimes.com/c-inspired">Inspired</a></li>
+<li id="menu-item-2298417" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-autos menu-item-2298417"><a href="https://www.theepochtimes.com/c-autos">Autos</a></li>
+<li id="menu-item-2298418" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-careers menu-item-2298418"><a href="https://www.theepochtimes.com/c-careers">Careers</a></li>
+<li id="menu-item-2298419" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-family menu-item-2298419"><a href="https://www.theepochtimes.com/c-family-life-2">Family</a></li>
+<li id="menu-item-2298420" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-education menu-item-2298420"><a href="https://www.theepochtimes.com/c-education-video">Education</a></li>
+<li id="menu-item-2298421" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-travel menu-item-2298421"><a href="https://www.theepochtimes.com/c-travel">Travel</a></li>
 </ul>
 </li>
-<li id="menu-item-2318800" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-epoch-taste menu-item-2318800"><a href="http://uplift.theepoch.com/c-uplift-taste">Epoch Taste</a>
-<ul class="sub-menu">
-	<li id="menu-item-2298399" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-food-news menu-item-2298399"><a href="http://uplift.theepoch.com/c-food-dining-news">Food News</a></li>
-	<li id="menu-item-2298400" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-recipes menu-item-2298400"><a href="http://uplift.theepoch.com/c-recipes">Recipes</a></li>
-	<li id="menu-item-2298401" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-drinks menu-item-2298401"><a href="http://uplift.theepoch.com/c-wine">Drinks</a></li>
-</ul>
-</li>
-<li id="menu-item-2298402" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-title-arts-culture menu-item-2298402"><a href="http://uplift.theepoch.com/c-arts-culture">Arts &amp; Culture</a>
-<ul class="sub-menu">
-	<li id="menu-item-2298404" class="menu-item menu-item-type-custom menu-item-object-custom menu-title-shen-yun-special-coverage menu-item-2298404"><a href="http://shenyun.theepochtimes.com/">Shen Yun Special Coverage</a></li>
-	<li id="menu-item-2298405" class="menu-item menu-item-type-post_type menu-item-object-page menu-title-the-classics-looking-back-looking-forward menu-item-2298405"><a href="http://uplift.theepoch.com/the-classics-looking-back-looking-forward">The Classics: Looking Back, Looking Forward</a></li>
-	<li id="menu-item-2298406" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-title-performing-arts menu-item-2298406"><a href="http://uplift.theepoch.com/c-performing-arts">Performing Arts</a></li>
-	<li id="menu-item-2298407" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-fine-arts menu-item-2298407"><a href="http://uplift.theepoch.com/c-fine-arts">Fine Arts</a></li>
-	<li id="menu-item-2298408" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-literature menu-item-2298408"><a href="http://uplift.theepoch.com/c-literature">Literature</a></li>
-</ul>
-</li>
-<li id="menu-item-2298409" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-entertainment menu-item-2298409"><a href="http://uplift.theepoch.com/c-entertainment">Entertainment</a>
-<ul class="sub-menu">
-	<li id="menu-item-2298410" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-film-tv menu-item-2298410"><a href="http://uplift.theepoch.com/c-film-tv">Film &amp; TV</a></li>
-	<li id="menu-item-2298411" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-film-reviews menu-item-2298411"><a href="http://uplift.theepoch.com/c-film-reviews">Film Reviews</a></li>
-	<li id="menu-item-2298412" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-entertainment-news menu-item-2298412"><a href="http://uplift.theepoch.com/c-entertainment-news">Entertainment News</a></li>
-</ul>
-</li>
+<li id="menu-item-2298423" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-video menu-item-2298423"><a href="https://www.theepochtimes.com/c-video">Video</a></li>
+<li id="menu-item-2547091" class="menu-item menu-item-type-custom menu-item-object-custom menu-title-shen-yun-special-coverage menu-item-2547091"><a href="https://www.theepochtimes.com/c-shen-yun">Shen Yun Special Coverage</a></li>
 </ul></div></span>
-					<span class="fourth_col"><div class="menu-front-main-column4-container"><ul id="menu-front-main-column4" class="nav-menu"><li id="menu-item-2298413" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-life menu-item-2298413"><a href="http://uplift.theepoch.com/c-life">Life</a>
-<ul class="sub-menu">
-	<li id="menu-item-2298414" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-slice-of-life menu-item-2298414"><a href="http://uplift.theepoch.com/c-slice-of-life">Slice of Life</a></li>
-	<li id="menu-item-2298416" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-inspired menu-item-2298416"><a href="http://uplift.theepoch.com/c-inspired">Inspired</a></li>
-	<li id="menu-item-2298417" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-autos menu-item-2298417"><a href="http://uplift.theepoch.com/c-autos">Autos</a></li>
-	<li id="menu-item-2298418" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-careers menu-item-2298418"><a href="http://uplift.theepoch.com/c-careers">Careers</a></li>
-	<li id="menu-item-2298419" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-family menu-item-2298419"><a href="http://uplift.theepoch.com/c-family-life-2">Family</a></li>
-	<li id="menu-item-2298420" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-education menu-item-2298420"><a href="http://uplift.theepoch.com/c-education-video">Education</a></li>
-	<li id="menu-item-2298421" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-travel menu-item-2298421"><a href="http://uplift.theepoch.com/c-travel">Travel</a></li>
-</ul>
-</li>
-<li id="menu-item-2298422" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-sports menu-item-2298422"><a href="http://uplift.theepoch.com/c-sports">Sports</a></li>
-<li id="menu-item-2298423" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-video menu-item-2298423"><a href="http://uplift.theepoch.com/c-video">Video</a></li>
-</ul></div></span>
-				</div>
-			</div>
-		</div>
-	</div>
-</header>
-
-<main id="main" role="main">
-	<div class="main_content page">
-		<div class="mid_col">
-			<div class="article_info">
-				<h1 class="title">Privacy Notice</h1>
-			</div>
-			<div class="content">
-				<div class="social">
-					<span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/privacy-notice" target="_blank">Share</a></span><span class="twitter"><a href="https://twitter.com/intent/tweet?text=Privacy Notice&amp;url=https://www.theepochtimes.com/privacy-notice&amp;via=epochtimes" target="_blank">Tweet</a></span><span class="gplus"><a href="https://plus.google.com/share?url=https://www.theepochtimes.com/privacy-notice" target="_blank">Share</a></span><span class="email"><a href="mailto:?subject=Privacy Notice&amp;body=Privacy Notice https://www.theepochtimes.com/privacy-notice" target="_blank">Email</a></span>					<span class="right_float">
-						<span class="more"><a href="javascript:void(0);">&nbsp;</a><ul><li><a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.theepochtimes.com/privacy-notice" target="_blank">LINKEDIN</a></li><li><a class="pinterest" href="https://pinterest.com/pin/create/button/?url=https://www.theepochtimes.com/privacy-notice&amp;description=Privacy Notice" target="_blank">PINTEREST</a></li><li><a class="reddit" href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/privacy-notice" target="_blank">REDDIT</a></li><li><a class="tumblr" href="http://www.tumblr.com/share/link?url=https://www.theepochtimes.com/privacy-notice" target="_blank">TUMBLR</a></li><li><a class="stumbleupon" href="http://www.stumbleupon.com/submit?url=https://www.theepochtimes.com/privacy-notice" target="_blank">STUMBLEUPON</a></li><li><a class="feedback" href="http://www.theepochtimes.com/feedback/?id=https://www.theepochtimes.com/privacy-notice" target="_blank">FEEDBACK</a></li></ul></span><span class="printer"><a href="#Print" onclick="window.print(); return false;" target="_blank"></a></span><span id="font_up" class="font-bigger"><a href="javascript:void(0);">&nbsp;</a></span><span id="font_down" class="font-smaller"><a href="javascript:void(0);">&nbsp;</a></span>					</span>
-				</div>
-				<div class="post_content">
-					<h1><em><span style="font-size: 13px; line-height: 19px;">Last Updated: July 31, 2013</span></em></h1>
-<p>We take seriously your interest in how your information is collected and used. Please read the following to understand about our privacy practices.</p>
-<p>This Privacy Notice discloses the privacy practices of our website, mobile site or app (the “Site”). Specifically, it outlines the types of information that we gather about you while you are using the Site, and the ways in which we use and share this information. This Privacy Notice does not apply to any information you may provide to us, or that we may collect, offline and/or through other means (for example, at a live event, via telephone, or through the mail).</p>
-<p>Please read this Privacy Notice carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over our online privacy practices, is governed by this Privacy Notice and our&nbsp;<a href="https://www.theepochtimes.com/n3/terms-of-service/">Terms of Service</a>. Because the Web is an evolving medium, we may need to change our Privacy Notice at some point in the future, in which case we’ll post the revised Privacy Notice on this website and update the “Last Updated” date to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Notice as modified. Your access of the Site for the limited and exclusive purpose of reviewing this Privacy Notice does not constitute your acceptance of this Notice unless you make any further access or use of our Site.</p>
-<h2>How We Collect Information</h2>
-<p><strong>Information You Provide.</strong>&nbsp;We may collect and store information that you voluntarily supply to us while on our Site. This may include information that can be used to contact or identify you, such as your name, email address, or postal address. Some examples of this type of information include information that you electronically submit when you contact us with questions or participate in contests, surveys or sweepstakes, information that you post on blogs, discussion forums or other community posting and social networking areas on our Site, and information that you electronically submit when you complete an online registration form to access and use certain features of our Site. We also may ask for information (including a credit card number and other financial information) from those users who make purchases or have payment transactions on our Site.</p>
-<p><strong>Location Information.</strong>&nbsp;We may collect location information (e.g., city and state and/or zip code) that you provide. Certain devices and browsers contain unique identifiers that can be used to identify the geographical location of the device. When you use such a device or browser to access our Site, your device and/or browser may automatically collect and/or transmit your location information. We also may collect GPS information from the device if the device transmits it. Additionally, if you download our app, we may collect your location information in order to deliver our app services. If you choose to enable certain features in our apps that require your geographic location, then we will collect and store that information.</p>
-<p><strong>Other Information Automatically Collected to Improve the Site and Deliver Targeted Advertising.</strong>&nbsp;We also collect and store information through a variety of automatic technologies, such as browser and flash cookies, pixels and web beacons about your use of our Site, including device identifying information such as IP addresses, MAC address or other device-specific alphanumerical ID numbers, the make and model of your device, the wireless provider associated with your device, whether you downloaded the app, the source of the download of the App (for example, whether via a particular advertisement for the App), when the App is launched, how many times a particular page within the Site is visited, which features the users interact with, and your device or computer’s connection to the Internet. If you choose to connect to our Site through a social network such as Facebook, we may automatically collect your profile information. These things allow us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site.</p>
-<p>The information we collect may be collected directly by us, or it may be collected by a third-party website hosting provider, or another third-party service provider, on our behalf.</p>
-<p>We also may use “cookies” and other similar technologies on the Site. Cookies are small files that are placed on your hard drive for record-keeping purposes and to enhance your experience with the Site. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. This Site also may use web beacons (single-pixel graphic files also known as “transparent GIFs”) to access cookies and to count users who visit the Site or open HTML-formatted email messages.</p>
-<h2>How Information is Used</h2>
-<p>We use the information we collect from you while you are using the Site in a variety of ways, including, for example, for the purpose for which the information was submitted, to process your registration request, to provide you with services and communications that you have requested, to send you email updates and other communications, customize features and advertising that appear on the Site, to deliver our Site content to you, to measure Site traffic, measure user interests and traffic patterns, and to improve the Site and the services and features offered via the Site.</p>
-<p>We may use location information, either information you provided by you or information automatically collected, in order to provide you with content, services and advertising that is relevant to your geographic area. We may combine information we collect from you while you are using our Site with information that we collect from other sources to customize features, content and advertising that appear on our Site.</p>
-<p>In addition, we may use any information submitted by or collected from you via the Site for any purpose related to the Site, including to contact you for customer service purposes, to inform you of important changes or additions to our Site or the services offered over our Site, and to send you administrative notices and any other communications that we believe may be of interest to you.</p>
-<p><strong>Your Choices.</strong>&nbsp;When we request information from you on the Site, you may always choose not to provide us with that information. But if you decline to supply or provide us with certain information while using the Site, you may not be able to use or participate in some or all of the features offered through the Site.</p>
-<p>If you want to limit the information that is automatically collected while you use our Site, most Web browsers allow you to disable certain functionality or set certain privacy setting. If you choose to disable cookies or turn off other functionality, you may not be able to use or participate in some or all of the features offered through the Site. If you would like more information on how to opt out of information collection practices by many third parties, visit the Digital Advertising Alliance’s website at&nbsp;<a href="http://www.aboutads.info/">www.aboutads.info</a>.</p>
-<h2>How Information is Shared</h2>
-<p><strong>Sharing with Affiliates, Partners and Third Party Service Providers.</strong>&nbsp;We may provide your information to our affiliates or to third parties, including our third party service providers and contractors, for purposes related to Site administration and other services. For example, if you use a credit or debit card to complete a transaction on our Site, we may share your personal information and credit card number with a credit card processing and/or a fulfillment company in order to complete your transaction, or such service provider(s) may collect that information from you directly, on our behalf.</p>
-<p>If you do not wish certain information to be shared for these purposes, send a letter to the Online Privacy Coordinator whose contact information is listed at the end of this Privacy Notice.</p>
-<p>We also make some content, products and services available through our Site through cooperative relationships with third-party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly, in which cases the Privacy Notice of our provider partner may apply to the provider partner’s use of your information. The Privacy Notice of our provider partners may differ from ours. If you have any questions regarding the Privacy Notice of one of our provider partners, you should contact the provider partner directly for more information.</p>
-<p><strong>Sharing Information with Third Parties for Advertising and Other Promotional Purposes.</strong>&nbsp;We may use third-party service providers to target and serve some of the advertisements you see on the Site. We may share technical or aggregate information, such as type of pages viewed and categories of interest, from our Site with these service providers and advertisers for their use in displaying ads on our Site. These third party providers and advertisers may use their own browser or flash cookies, web beacons and similar technologies to collect technical information (such as device unique identifier, IP address, MAC address, browser type, pages visited, and location information) from users of the Site that is generated automatically as a user views or interacts with an ad. These service providers may use that information, sometimes in conjunction with similar information gathered through other websites and other sources, to deliver advertisements on this Site, and on other websites.</p>
-<p>Unless you affirmatively provide information within an ad, the data collected in connection with the ads, ad serving and ad targeting on our Site does not include your name, address, email address or telephone number, but it may include the device unique identifier, IP address, MAC address and location information of your computer or device. The use and collection of information by third-party advertising service providers is governed by the relevant third party’s privacy policy and is not covered by our Privacy Notice.</p>
-<p>For information about use of your information by us and by third-party advertising service providers for advertising, see the section “<a href="http://www.courier-journal.com/section/privacy#adchoices">Data Collected in Connection with Ad Serving and Targeting.</a>“</p>
-<p>Sharing with Third Parties for Other Purposes. Please be aware that we may occasionally release information about our visitors if required to do so by law or if, in our business judgment, such disclosure is reasonably necessary: (a) to comply with legal process; (b) to enforce our&nbsp;<a href="https://www.theepochtimes.com/n3/terms-of-service/">Terms of Service</a>; or (c) to protect the rights, property, or personal safety of our Site, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public.</p>
-<p>Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or our Site is acquired by another company, information about our Site users may be among the transferred assets.</p>
-<h2>Data Collected in Connection with Ad Serving and Targeting</h2>
-<p>We operate in compliance with the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising,&nbsp;<a href="http://www.aboutads.info/">www.aboutads.info</a>.</p>
-<p>We may use cookies, web beacons and similar technologies, and/or a third-party ad serving software, to automatically collect information about site users and site activity, and we may use this information to, among other things, serve targeted advertisements on this site. The information collected allows us to analyze how users use the site and to track user interests, trends and patterns, thus allowing us to deliver more relevant advertisements to users.</p>
-<p>We also may use third-party service providers, to target and serve some of the advertisements you see on the pages of our Site. We may share technical or aggregate information about your interaction with our Site, such as type of pages viewed and categories of interest, from our Site with these service providers for their use in displaying ads on our Site. These providers may use their own cookies, web beacons and similar technologies to collect similar information from our Site. These service providers may use that information, sometimes in conjunction with similar information gathered through other websites, to deliver advertisements on this Site, and on other websites that participate in our service providers’ advertising networks, that are tailored to match the perceived interests of consumers. The information obtained by our third-party service providers also may be used to help measure and research an advertisement’s effectiveness, or for other purposes.</p>
-<p>Unless you affirmatively provide information, the data collected in connection with the ad serving and ad targeting on our Site does not identify you personally and does not include your name, address, email address or telephone number, but it may include device identifying information such as the IP address, MAC address, cookie or other device-specific unique alphanumerical ID of your computer.</p>
-<p>The use and collection of information by third-party advertising service providers are governed by the relevant third party’s Privacy Notice and are not covered by our Privacy Notice. If you would like more information about the information collection practices of a particular service provider, or if you would like more information on how to opt out of a service provider’s information collection practices, go to&nbsp;<a href="http://www.aboutads.info/">www.aboutads.info</a>. You can opt out of the use of cookies by DoubleClick, one of our service providers, by visiting&nbsp;<a href="http://www.google.com/intl/en/policies/privacy">http://www.google.com/intl/en/policies/privacy</a>. Additionally, many of our advertising service providers are members of the Network Advertising Initiative (“NAI”). You can obtain more information about these advertising service providers’ information collection practices, and opt out of such practices (and at the same time opt out of the collection practices of other, or all, NAI members) by following the opt out instructions on the NAI’s website at&nbsp;<a href="http://www.networkadvertising.org/managing/opt_out.asp">http://www.networkadvertising.org/managing/opt_out.asp</a>.If you would like more information on how to opt out of information collection practices, go to&nbsp;<a href="http://www.aboutads.info/">www.aboutads.info</a>.</p>
-<h2>Information You Post to Blogs, Discussion Forums and Other Community Posting or Social Networking Areas</h2>
-<p>Please keep in mind that whenever you voluntarily make your personal information or other private information available for viewing by third parties online – for example on blogs, discussion forums, or other community posting or social networking areas of our Site – that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information.</p>
-<h2>Children’s Privacy Statement</h2>
-<p>This site is not intended for children under the age of 13. We do not knowingly collect any Personal Information from a child under 13. If we become aware that we have inadvertently received personally identifiable information from a user under the age of 13 as part of the Site, we will delete such information from our records.</p>
-<h2>How To Make Changes to Your Information</h2>
-<p>If you are a registered user of our Site, you can make changes to your account information by logging in to the Site and using the tools available via the Site. If you have subscribed to one or more of our email newsletters, you also may change your subscriber information, modify your subscriptions, and/or unsubscribe from these newsletters at any time by logging in to your account. If you have any questions about modifying your account or preference information, please visit the “Customer Service” pages of our Site.</p>
-<h2>Security</h2>
-<p>All information we gather on our Site is stored within databases to which only we and services providers are provided access. However, as effective as the reasonable security measures implemented by us may be, no physical or electronic security system is impenetrable. We cannot guarantee the security of our Site’s servers or databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet.</p>
-<h2>Links to Other Sites</h2>
-<p>Our Site also includes links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase products or services from a third-party, use of any information you provide is governed by the Privacy Notice of the operator of the site you are visiting or the provider of such products or services.</p>
-<h2>Questions Regarding Privacy</h2>
-<p>If you have any questions about this Privacy Notice, our privacy practices, or your dealings with us, you can contact:</p>
-<p>&nbsp;<br> Epoch Times&nbsp;Inc.<br> <a href="email:feedback@epochtimes.com">feedback@epochtimes.com</a><br> 229 West 28th Street, Suit 700<br> New York, New York 10001</p>
-				</div>
-			</div>
-		</div>
-				<div class="right_sidebar">
-			<div class="editors_picks">
-		<div class="title"><a href="https://www.theepochtimes.com/editors-picks">Editor's Picks</a></div>
-	<ul class="editors_picks_list">
-	<li><a href="https://www.theepochtimes.com/the-epoch-times-exclusive-series-the-ultimate-goal-of-communism_2366899.html"><span class="image"><img alt="The Epoch Times Exclusive Series: The Ultimate Goal of Communism" src="https://www.theepochtimes.com/assets/uploads/2017/11/27/TheEpochTimes_ExclusiveSeries.jpg-300x180.jpeg"></span><span class="title">The Epoch Times Exclusive Series: The Ultimate Goal of Communism</span></a><span class="excerpt">Since communism first appeared in the Soviet Union, 100 years have passed. Within the span of a century, ...</span><span class="read_more"><a href="https://www.theepochtimes.com/the-epoch-times-exclusive-series-the-ultimate-goal-of-communism_2366899.html">Read more<span class="red_triangle"></span></a></span></li><li><a href="https://www.theepochtimes.com/whos-responsible-for-the-booming-economy-2_2361908.html"><span class="image"><img alt="Who’s Responsible for the Booming Economy?" src="https://www.theepochtimes.com/assets/uploads/2017/11/25/Binder1-1-300x180.jpg"></span><span class="title">Who’s Responsible for the Booming Economy?</span></a><span class="excerpt">GDP is up 3 percent in the third quarter, the S&amp;P 500 is up 15 percent this year, ...</span><span class="read_more"><a href="https://www.theepochtimes.com/whos-responsible-for-the-booming-economy-2_2361908.html">Read more<span class="red_triangle"></span></a></span></li><li><a href="https://www.theepochtimes.com/christians-face-genocide-in-middle-east-2_2362893.html"><span class="image"><img alt="Christians Face Genocide in Middle East" src="https://www.theepochtimes.com/assets/uploads/2017/11/24/GettyImages-6685642001-300x180.jpg"></span><span class="title">Christians Face Genocide in Middle East</span></a><span class="excerpt">Christians are the target of genocide in the Middle East, where they face enslavement, rape, murder, and violence ...</span><span class="read_more"><a href="https://www.theepochtimes.com/christians-face-genocide-in-middle-east-2_2362893.html">Read more<span class="red_triangle"></span></a></span></li><li><a href="https://www.theepochtimes.com/head-transplant-research-in-china-raises-serious-concerns-including-over-source-of-bodies_2363981.html"><span class="image"><img alt="‘Head Transplant’ Research in China Raises Serious Concerns" src="https://www.theepochtimes.com/assets/uploads/2017/02/15/surgery-1822458_1920-300x180.jpg"></span><span class="title">‘Head Transplant’ Research in China Raises Serious Concerns</span></a><span class="excerpt">The announcement of the first head transplant has met with skepticism from scientists and stoked fears of Frankenstein's ...</span><span class="read_more"><a href="https://www.theepochtimes.com/head-transplant-research-in-china-raises-serious-concerns-including-over-source-of-bodies_2363981.html">Read more<span class="red_triangle"></span></a></span></li>	</ul>
- 
 </div>
-<div id="facebook-fanpage"></div>		</div>
-			</div>
-	</main><!-- #main -->
-
+</div>
+</div>
+</div>
+</header>
+<main id="main" role="main">
+<div class="main_content page">
+<div class="mid_col">
+<div class="article_info">
+<h1 class="title">Privacy Notice</h1>
+</div>
+<div class="content">
+<div class="social">
+<span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/privacy-notice" target="_blank">Share</a></span><span class="twitter"><a href="https://twitter.com/intent/tweet?text=Privacy Notice&amp;url=https://www.theepochtimes.com/privacy-notice&amp;via=epochtimes" target="_blank">Tweet</a></span><span class="gplus"><a href="https://plus.google.com/share?url=https://www.theepochtimes.com/privacy-notice" target="_blank">Share</a></span><span class="email"><a href="mailto:?subject=Privacy Notice&amp;body=Privacy Notice https://www.theepochtimes.com/privacy-notice" target="_blank">Email</a></span> <span class="right_float">
+<span class="more"><a href="javascript:void(0);">&nbsp;</a><ul><li><a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.theepochtimes.com/privacy-notice" target="_blank">LINKEDIN</a></li><li><a class="pinterest" href="https://pinterest.com/pin/create/button/?url=https://www.theepochtimes.com/privacy-notice&amp;description=Privacy Notice" target="_blank">PINTEREST</a></li><li><a class="reddit" href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/privacy-notice" target="_blank">REDDIT</a></li><li><a class="tumblr" href="http://www.tumblr.com/share/link?url=https://www.theepochtimes.com/privacy-notice" target="_blank">TUMBLR</a></li><li><a class="stumbleupon" href="http://www.stumbleupon.com/submit?url=https://www.theepochtimes.com/privacy-notice" target="_blank">STUMBLEUPON</a></li></ul></span><span class="printer"><a href="#Print" onclick="window.print(); return false;" target="_blank"></a></span><span id="font_up" class="font-bigger"><a href="javascript:void(0);">&nbsp;</a></span><span id="font_down" class="font-smaller"><a href="javascript:void(0);">&nbsp;</a></span> </span>
+</div>
+<div class="post_content">
+<p><strong>Who We Are</strong></p>
+<p>The Epoch Times (‘we’ or ‘us’ or ‘our’) gathers and processes your personal information in accordance with this privacy notice and in compliance with the relevant data protection Regulation and law. This notice provides you with the necessary information regarding your rights and obligations, and explains how, why and when we collect and process your personal data.</p>
+<p>The Epoch Times’s registered office is at 229 West 28th Street, 6th FL, New York, NY10001, USA. We can be contacted by email: <a href="mailto:privacy@epochtimes.com">privacy@epochtimes.com</a>.</p>
+<p>&nbsp;</p>
+<p><strong>Information That We Collect</strong></p>
+<p>The Epoch Times processes your personal information to meet our legal, statutory and contractual obligations and to provide you with our products and services. We will never collect any unnecessary personal data from you and do not process your information in any way, other than already specified in this notice.</p>
+<p>&nbsp;</p>
+<p><em><strong>The personal data that we collect from is:</strong></em></p>
+<ul>
+<li>– Email (only applicable to our newsletter service and online subscription)</li>
+<li>– IP address</li>
+<li>– browser type, device type</li>
+<li>– operating system</li>
+<li>– user activity/behaviors on our websites and</li>
+</ul>
+<p>&nbsp;</p>
+<p><em><strong>We collect information in the below ways:</strong></em></p>
+<ul>
+<li>– Online form</li>
+<li>– Different Cookies</li>
+<li>– Other sources</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>How We Use Your Personal Data </strong><em>(Legal Basis for Processing)</em></p>
+<p>The Epoch Times takes your privacy very seriously and will never disclosure or sell your data without your consent, unless required to do so by law. We only retain your data for as long as is necessary and for the purposes specified in this notice. Where you have consented to us providing you with promotional offers and marketing, you are free to withdraw consent at any time. The purposes and reasons for processing your personal data are detailed below:</p>
+<ul>
+<li>– we collect information about your use of our websites and Apps, in order to improve the contents of the websites and Apps, make them more suitable to your needs and increase their usability</li>
+<li>– to make your navigation more pleasant and personalized, with our products (such as contents) and services personalized to you</li>
+<li>– to facilitate your experience and social sharing</li>
+<li>– to analyze and develop our new products and services for the interest of users</li>
+<li>– In specific cases we will be contractually obligated to share your data with one of our trusted third party service partners explained below. In these instances, we will make it clear that the data you share will be transferred to the third party. You will always have the option to not have your data shared by not taking part in that specific program.</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Your Rights</strong></p>
+<p>You have the right to access any personal information that The Epoch Times processes about you and to request information about: –</p>
+<ul>
+<li>– What personal data we hold about you</li>
+<li>– The purposes of the processing</li>
+<li>– The categories of personal data concerned</li>
+<li>– The recipients to whom the personal data has/will be disclosed</li>
+<li>– How long we intend to store your personal data for</li>
+<li>– If we did not collect the data directly from you, information about the source</li>
+</ul>
+<p>If you believe that we hold any incomplete or inaccurate data about you, you have the right to ask us to correct and/or complete the information and we will strive to update/correct it as quickly as possible; unless there is a valid reason for not doing so, at which point you will be notified.</p>
+<p>You also have the right to request erasure of your personal data or to restrict processing in accordance with data protection laws, as well as to object to any direct marketing from us and to be informed about any automated decision-making that we use.</p>
+<p>If we receive a request from you to exercise any of the above rights, we may ask you to verify your identity before acting on the relevant request; this is to ensure that your data is protected and kept secure.</p>
+<p>Please bear in mind that if you exercise such rights, this may affect our ability to provide our products and services.</p>
+<p>&nbsp;</p>
+<p><strong>Sharing and Disclosing Your Personal Information</strong></p>
+<p>We do not share or disclose any of your personal information without your consent, other than for the purposes specified in this notice or where there is a legal requirement. The Epoch Times uses trusted third-parties to provide the below services and business functions, those our third-parties collect and process your data governed by their privacy policy.</p>
+<p>We share your personal data with the following categories:</p>
+<ul>
+<li>– we use limited services from trusted third-party service providers, such as Google, Facebook, and Lotame, to analyze how users use our websites and Apps, track user interests, trends and patterns in order to provide you with personalized suitable contents to meet your interest from our websites and Apps.</li>
+<li>– we use limited third-party advertising companies, to serve users with some of the advertisements that appear on our websites and Apps, in order to provide personalized ads at your interest when experiencing our websites and Apps.</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>International transfers of personal information</strong></p>
+<p>Our service providers such as Google, Facebook, and Lotame are U.S. companies. They comply with the EU-U.S. Privacy Shield Framework Principles (the “Privacy Shield Principles”) with respect to the collection, use and transfer of personal data between the European Economic Area and the U.S. This ensures international transfer of personal data between EEA countries and US in full compliance with GDPR, at a high level of the protection of personal data, in case such international transfer takes place.</p>
+<p>&nbsp;</p>
+<p><strong>Safeguarding Measures</strong></p>
+<p>The Epoch Times takes your privacy seriously and we take every reasonable measure and precaution to protect and secure your personal data. We work hard to protect you and your information from unauthorized access, alteration, disclosure or destruction and have certain qualified security measures in place.</p>
+<p>Encryption is our security strategy to ensure the stored personal data can be accessed only by the authorized roles and services with audited access to the encryption keys.</p>
+<p>Personal data is encrypted and stored in a private and isolated environment for extended security.</p>
+<p>We store all personal data we collect from EU countries in The Epoch Times EU Data Center, physically located inside EU, where our processing those data takes place as well.</p>
+<p>&nbsp;</p>
+<p><strong>Consequences of Not Providing Your Data</strong></p>
+<p>You are not obligated to provide your personal information to The Epoch Times, however, as this information is required for us to provide you with our services/deliver products, we will not be able to offer some/all of our products or services without it.</p>
+<p>&nbsp;</p>
+<p><strong>How Long We Keep Your Data</strong></p>
+<p>The Epoch Times retains your personal data for as long as necessary for the purpose for which it is collected, to provide you with our services as our users on websites and Apps.</p>
+<p>&nbsp;</p>
+<p><strong>Individuals under 16</strong></p>
+<p>The Epoch Times does not intentionally and knowingly process personal information from individuals under the age of 16. Personal data of users under the age of 16 will be processed only if consent is given or authorized by the holder of parental responsibility over the child. We will make every reasonable effort to verify in such cases.</p>
+<p>&nbsp;</p>
+<p><strong>Lodging A Complaint</strong></p>
+<p>The Epoch Times only processes your personal information in compliance with this privacy notice and in accordance with the relevant data protection laws. If, however you wish to raise a complaint regarding the processing of your personal data or are unsatisfied with how we have handled your information, you have the right to lodge a complaint with the supervisory authority.</p>
+<p>&nbsp;</p>
+<p><strong>The Epoch Times</strong></p>
+<p><strong>Address:</strong> 229 West 28th Street, 6th FL, New York, NY10001, USA.<br>
+<strong>Telephone:</strong>&nbsp;+1-212-244-3395<br>
+<strong>Fax:</strong> +1-646-349-5995<br>
+<strong>Email:</strong> <a href="mailto:privacy@epochtimes.com">privacy@epochtimes.com</a></p>
+<p>&nbsp;</p>
+<p><strong>Changes to our privacy notice</strong></p>
+<p>The Epoch Times may change this notice from time to time. All changes will be posted and updated here. We will notify you directly by email (if we hold one for you) if any significant changes occur. We advise you to check back here frequently to review the most current version of this notice.</p>
+<p>&nbsp;</p>
+<p><em><strong>This statement was last updated on May 25, 2018.</strong></em></p>
+<p>&nbsp;</p>
+<p><strong>Other questions?</strong></p>
+<p>If you have other questions, contact us by:<br>
+sending an email to the following address:&nbsp;<a href="mailto:privacy@epochtimes.com">privacy@epochtimes.com</a><br>
+writing to the following postal address:<br>
+229 West 28th Street, 6th FL, New York, NY 10001, USA.</p>
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+<div class="right_sidebar">
+<div class="editors_picks">
+<div class="title"><a href="https://www.theepochtimes.com/editors-picks">Editor's Picks</a></div>
+<ul class="editors_picks_list">
+<li><a href="https://www.theepochtimes.com/trump-says-muellers-appointment-is-unconstitutional-here-are-7-reasons-why_2548718.html"><span class="image"><img alt="Trump Says Mueller’s Appointment Is Unconstitutional–Here Are 7 Reasons Why" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://www.theepochtimes.com/assets/uploads/2018/06/04/GettyImages-699353624-1-300x180.jpg"><noscript><img alt="Trump Says Mueller’s Appointment Is Unconstitutional–Here Are 7 Reasons Why" src="https://www.theepochtimes.com/assets/uploads/2018/06/04/GettyImages-699353624-1-300x180.jpg"></noscript></span><span class="title">Trump Says Mueller’s Appointment Is Unconstitutional–Here Are 7 Reasons Why</span></a><span class="excerpt">President Donald Trump questioned the legality of the appointment of special counsel Robert Mueller on Monday while indicating ...</span><span class="read_more"><a href="https://www.theepochtimes.com/trump-says-muellers-appointment-is-unconstitutional-here-are-7-reasons-why_2548718.html">Read more<span class="red_triangle"></span></a></span></li><li><a href="https://www.theepochtimes.com/president-celebrates-500-days-in-office-points-to-long-list-of-achievements_2549291.html"><span class="image"><img alt="President Celebrates 500 Days in Office, Points to Long List of Achievements" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://www.theepochtimes.com/assets/uploads/2018/05/29/20180430-Trump-EpochTimes-9A6A2416-300x180.jpg"><noscript><img alt="President Celebrates 500 Days in Office, Points to Long List of Achievements" src="https://www.theepochtimes.com/assets/uploads/2018/05/29/20180430-Trump-EpochTimes-9A6A2416-300x180.jpg"></noscript></span><span class="title">President Celebrates 500 Days in Office, Points to Long List of Achievements</span></a><span class="excerpt">President Donald Trump marked his 500th day in office on June 4 with a celebratory message on Twitter ...</span><span class="read_more"><a href="https://www.theepochtimes.com/president-celebrates-500-days-in-office-points-to-long-list-of-achievements_2549291.html">Read more<span class="red_triangle"></span></a></span></li><li><a href="https://www.theepochtimes.com/the-five-methods-obama-officials-used-to-spy-on-the-trump-campaign_2544292.html"><span class="image"><img alt="Obama Officials Spied on Trump Campaign Using at Least Five Methods" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://www.theepochtimes.com/assets/uploads/2018/05/31/Spying-300x180.jpg"><noscript><img alt="Obama Officials Spied on Trump Campaign Using at Least Five Methods" src="https://www.theepochtimes.com/assets/uploads/2018/05/31/Spying-300x180.jpg"></noscript></span><span class="title">Obama Officials Spied on Trump Campaign Using at Least Five Methods</span></a><span class="excerpt">During the heat of the 2016 presidential elections, officials within the Obama administration, including cabinet-level officials who answered ...</span><span class="read_more"><a href="https://www.theepochtimes.com/the-five-methods-obama-officials-used-to-spy-on-the-trump-campaign_2544292.html">Read more<span class="red_triangle"></span></a></span></li><li><a href="https://www.theepochtimes.com/the-specter-of-communism-is-ruling-our-world-forward_2531449.html"><span class="image"><img alt="How The Specter of Communism Is Ruling Our World — Preface" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://www.theepochtimes.com/assets/uploads/2018/05/31/TheEpochTimes_SpecialSeries_Howtheevilspecterofcommunismisrulingourworld_v2.1-300x180.jpeg"><noscript><img alt="How The Specter of Communism Is Ruling Our World — Preface" src="https://www.theepochtimes.com/assets/uploads/2018/05/31/TheEpochTimes_SpecialSeries_Howtheevilspecterofcommunismisrulingourworld_v2.1-300x180.jpeg"></noscript></span><span class="title">How The Specter of Communism Is Ruling Our World — Preface</span></a><span class="excerpt">The Epoch Times here begins serializing a translation from the Chinese of a new book, “How the Specter ...</span><span class="read_more"><a href="https://www.theepochtimes.com/the-specter-of-communism-is-ruling-our-world-forward_2531449.html">Read more<span class="red_triangle"></span></a></span></li> </ul>
+</div>
+<div id="facebook-fanpage"></div> </div>
+</div>
+</main>
 <footer id="footer">
-	<div class="center_content">
-		<div class="subscribe_logo">
-			<span class="print">
-				<a href="https://subscribe.epochtimes.com/">
-					<span class="subs">
-						<div class="block_title">PRINT EDITION</div>
-						<div class="button">Subscribe</div>
-					</span>
-				</a>
-			</span>
-			<span class="logo">
-				<a href="https://www.theepochtimes.com"><img src="/assets/themes/eet/images/footer_EET.svg"></a>
-			</span>
-			<span class="newsletter">
-				<a href="https://www.theepochtimes.com/newsletter">
-					<span class="subs">
-						<div class="block_title">EPOCH NEWSLETTERS</div>
-						<div class="button">Subscribe</div>
-					</span>
-				</a>
-			</span>
-		</div>
-
-		<div class="boundary">
-			<span class="left"></span>
-			<span class="mid">35 COUNTRIES, 21 LANGUAGES</span>
-			<span class="right"></span>
-		</div>
-
-		<div class="menu_items">
-			<div class="languages">
-				<div class="block_title">LANGUAGES</div>
-				<ul class="clear">
-				<li><a href="http://www.budnaera.com/">Bulgarian</a></li><li><a href="http://www.epochtimes.com/">Chinese</a></li><li><a href="http://www.velkaepocha.cz/">Czech</a></li><li><a href="http://www.theepochtimes.com/">English</a></li><li><a href="http://www.epochtimes.fr/">French</a></li><li><a href="http://www.epochtimes.de/">German</a></li><li><a href="http://www.epochtimes.co.il/">Hebrew</a></li><li><a href="http://www.erabaru.net/">Indonesian</a></li><li><a href="http://www.epochtimes.it/">Italian</a></li><li><a href="http://www.epochtimes.jp/">Japanese</a></li><li><a href="http://www.epochtimes.co.kr/">Korean</a></li><li><a href="http://persian.epochtimes.com/">Persian</a></li><li><a href="https://www.epochtimes.com.br/">Portuguese</a></li><li><a href="http://www.epochtimes-romania.com/">Romanian</a></li><li><a href="http://www.epochtimes.ru/">Russian</a></li><li><a href="http://www.epochtimes.cz/">Slovak</a></li><li><a href="https://www.lagranepoca.com/">Spanish</a></li><li><a href="https://www.epochtimes.se/">Swedish</a></li><li><a href="http://epochtimestr.com/">Turkish</a></li><li><a href="http://www.epochtimes.com.ua/">Ukrainian</a></li><li><a href="http://www.daikynguyenvn.com/">Vietnamese</a></li>				</ul>
-			</div>
-			<div class="categories">
-			<div class="menu-front-page-primary-container"><ul id="menu-front-page-primary" class="nav-menu"><li id="menu-item-2298321" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-us menu-item-2298321"><a href="https://www.theepochtimes.com/c-us">US</a></li>
+<div class="center_content">
+<div class="subscribe_logo">
+<span class="print">
+<a href="https://subscribe.epochtimes.com/?utm_source=referrer&amp;utm_medium=web%20link&amp;utm_campaign=theepochtimes.com&amp;utm_content=header%20link">
+<span class="subs">
+<div class="block_title">PRINT EDITION</div>
+<div class="button">Subscribe</div>
+</span>
+</a>
+</span>
+<span class="logo">
+<a href="https://www.theepochtimes.com"><img src="https://www.theepochtimes.com/assets/themes/eet/images/footer_EET.svg"></a>
+</span>
+<span class="newsletter">
+<a href="https://www.theepochtimes.com/newsletter">
+<span class="subs">
+<div class="block_title">EPOCH NEWSLETTERS</div>
+<div class="button">Subscribe</div>
+</span>
+</a>
+</span>
+</div>
+<div class="boundary">
+<span class="left"></span>
+<span class="mid">35 COUNTRIES, 23 LANGUAGES</span>
+<span class="right"></span>
+</div>
+<div class="menu_items">
+<div class="languages">
+<div class="block_title">LANGUAGES</div>
+<ul class="clear">
+<li><a href="http://www.budnaera.com/">Bulgarian</a></li><li><a href="http://www.epochtimes.com/">Chinese</a></li><li><a href="http://www.velkaepocha.cz/">Czech</a></li><li><a href="http://www.theepochtimes.com/">English</a></li><li><a href="http://www.epochtimes.fr/">French</a></li><li><a href="http://www.epochtimes.de/">German</a></li><li><a href="http://www.epochtimes.co.il/">Hebrew</a></li><li><a href="http://www.erabaru.net/">Indonesian</a></li><li><a href="http://www.epochtimes.it/">Italian</a></li><li><a href="http://www.epochtimes.jp/">Japanese</a></li><li><a href="http://www.epochtimes.co.kr/">Korean</a></li><li><a href="http://persian.epochtimes.com/">Persian</a></li><li><a href="https://www.epochtimes.com.br/">Portuguese</a></li><li><a href="http://www.epochtimes-romania.com/">Romanian</a></li><li><a href="http://www.epochtimes.ru/">Russian</a></li><li><a href="http://www.epochtimes.cz/">Slovak</a></li><li><a href="https://www.lagranepoca.com/">Spanish</a></li><li><a href="https://www.epochtimes.se/">Swedish</a></li><li><a href="http://epochtimestr.com/">Turkish</a></li><li><a href="http://www.epochtimes.com.ua/">Ukrainian</a></li><li><a href="http://www.daikynguyenvn.com/">Vietnamese</a></li> </ul>
+</div>
+<div class="categories">
+<div class="menu-front-page-primary-container"><ul id="menu-front-page-primary" class="nav-menu"><li id="menu-item-2298321" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-us menu-item-2298321"><a href="https://www.theepochtimes.com/c-us">US</a></li>
 <li id="menu-item-2298322" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-politics menu-item-2298322"><a href="https://www.theepochtimes.com/c-us-politics">Politics</a></li>
 <li id="menu-item-2298323" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-china menu-item-2298323"><a href="https://www.theepochtimes.com/c-china">China</a></li>
 <li id="menu-item-2298324" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-world menu-item-2298324"><a href="https://www.theepochtimes.com/c-world">World</a></li>
@@ -379,48 +460,36 @@
 <li id="menu-item-2298326" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-business menu-item-2298326"><a href="https://www.theepochtimes.com/c-business">Business</a></li>
 <li id="menu-item-2298327" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-science-tech menu-item-2298327"><a href="https://www.theepochtimes.com/c-science">Science &amp; Tech</a></li>
 <li id="menu-item-2298328" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-wellness menu-item-2298328"><a href="https://www.theepochtimes.com/c-health">Wellness</a></li>
-<li id="menu-item-2301530" class="menu-item menu-item-type- menu-item-object- menu-title- menu-item-2301530"><a></a></li>
-<li id="menu-item-2298331" class="menu-item menu-item-type- menu-item-object- menu-title-arts menu-item-2298331"><a>Arts</a></li>
-<li id="menu-item-2298332" class="menu-item menu-item-type- menu-item-object- menu-title- menu-item-2298332"><a></a></li>
-<li id="menu-item-2298371" class="menu-item menu-item-type- menu-item-object- menu-title- menu-item-2298371"><a></a></li>
-</ul></div>			</div>
-			<div class="others">
-				<a href="https://www.theepochtimes.com/newsletter">Newsletter</a>
-				<a href="https://www.theepochtimes.com/advertise">Advertise</a>
-				<a href="https://www.theepochtimes.com/about-us">About Us</a>
-				<a href="https://www.theepochtimes.com/contact-us">Contact Us</a>
-				<a href="https://subscribe.epochtimes.com/">Print Editions</a>
-				<a href="http://printarchive.epochtimes.com/a1/en/">Print Archives</a>
-				<a href="https://www.theepochtimes.com/rssfeeds">RSS Feeds</a>
-				<a href="https://www.theepochtimes.com/terms-of-service">Terms of Services</a>
-				<a href="https://www.theepochtimes.com/privacy-notice">Privacy Policy</a>
-				<a href="https://www.theepochtimes.com/copyright-infringement-notification">Copyright Policy</a>
-			</div>
-		</div>
-		<div class="copyright">Copyright @ 2000 - 2017</div>
-	</div>
-
-	<div id="backtotop">
-		<a title="back to top" href="javascript:void(0);" class="totop"></a>
-	</div>
-</footer>
-	<script>
-		var eet_ga_id = 'UA-10465455-30';
-		var eet_domain = 'theepochtimes.com';
-		//var eet_google_optimize_id = 'GTM-5ZXSTJM';
-
-	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-	  ga('create', eet_ga_id, 'auto');
-	  //ga('require', eet_google_optimize_id);
+<li id="menu-item-2458283" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-food menu-item-2458283"><a href="https://www.theepochtimes.com/c-food-dining">Food</a></li>
+<li id="menu-item-2298331" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-arts menu-item-2298331"><a href="https://www.theepochtimes.com/c-arts-culture">Arts</a></li>
+<li id="menu-item-2298332" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-entertainment menu-item-2298332"><a href="https://www.theepochtimes.com/c-entertainment">Entertainment</a></li>
+<li id="menu-item-2298371" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-uplift menu-item-2298371"><a href="https://www.theepochtimes.com/c-uplift">Uplift</a></li>
+</ul></div> </div>
+<div class="others">
+<a href="https://www.theepochtimes.com/newsletter">Newsletter</a>
+<a href="https://www.theepochtimes.com/advertise">Advertise</a>
+<a href="https://www.theepochtimes.com/about-us">About Us</a>
+<a href="https://www.theepochtimes.com/contact-us">Contact Us</a>
+<a href="https://subscribe.epochtimes.com/?utm_source=referrer&amp;utm_medium=web%20link&amp;utm_campaign=theepochtimes.com&amp;utm_content=header%20link">Print Editions</a>
+<a href="http://printarchive.epochtimes.com/a1/en/">Print Archives</a>
+<a href="https://www.theepochtimes.com/rssfeeds">RSS Feeds</a>
+<a href="https://www.theepochtimes.com/terms-of-service">Terms of Services</a>
+<a href="https://www.theepochtimes.com/privacy-notice">Privacy Policy</a>
+<a href="https://www.theepochtimes.com/copyright-infringement-notification">Copyright Policy</a>
+</div>
+</div>
+<div class="copyright">Copyright @ 2000 - 2018</div>
+</div>
+<div id="backtotop">
+<a title="back to top" href="javascript:void(0);" class="totop"></a>
+</div>
+<div class="cookie-bar">
+<span class="warning-text">We use cookies to understand how you use our site and to improve your experience. This includes personalizing content and advertising. By continuing to use our site, you accept our use of cookies, revised Privace Policy and Terms of Use.</span>
+<span class="read-more"><a href="https://www.theepochtimes.com/privacy-notice" target="_blank">More infomation</a></span><span class="accept-btn"><a href="#">I accept</a></span><span id="top_close"><a href="javascript:void(0)" id="x_close">×</a></span>
+</div></footer>
+<script>	  
 	  if ( typeof(eet_primary_category) != "undefined" && eet_primary_category !== null ) {
 		  ga('set', 'dimension1', eet_primary_category);
-	  }
-	  if ( typeof(eet_user_id) != "undefined" && eet_user_id !== null ) {
-		  ga('set', 'dimension2', eet_user_id);
 	  }
 	  if ( typeof(eet_cat_ids) != "undefined" && eet_cat_ids !== null ) {
 		  ga('set', 'dimension3', ";" + eet_cat_ids + ";");
@@ -458,9 +527,11 @@
 	  if ( typeof(eet_word_count) != "undefined" && eet_word_count !== null ) {
 		  ga('set', 'dimension33', eet_word_count);
 	  }
-	  if ( typeof(eet_user_id) != "undefined" && eet_user_id !== null ) {
-		  ga('set', 'dimension38', eet_user_id);
+	  
+	  if ( typeof(epoch.uuid) != "undefined" && epoch.uuid !== null ) {
+		  ga('set', 'dimension38', epoch.uuid);
 	  }
+
 	  if ( typeof(eet_tags_slugs) != "undefined" && eet_tags_slugs !== null ) {
 		  ga('set', 'dimension42', ";" + eet_tags_slugs + ";");
 	  }
@@ -468,12 +539,38 @@
 		  ga('set', 'dimension43', eet_page_type);
 	  }
 
-	  ga('send', 'pageview');
-	</script>
+	  // load parameters from URL and save them into custom dimension
+	  var eet_ref = getUrlParameter('ref');
+	  var eet_refcat = getUrlParameter('refcat');
+	  var eet_refname = getUrlParameter('refname');
+	  var eet_refpos = getUrlParameter('refpos');
+	  if (eet_ref) {
+		  ga('set', 'dimension34', eet_ref);
+	  }
+	  if (eet_refcat) {
+		  ga('set', 'dimension35', eet_refcat);
+	  }
+	  if (eet_refname) {
+		  ga('set', 'dimension36', eet_refname);
+	  }
+	  if (eet_refpos) {
+		  ga('set', 'dimension37', eet_refpos);
+	  }
 
-	<script type="text/javascript" src="https://www.theepochtimes.com/assets/themes/eet/js/jquery-all.min.js?ver=20170224"></script>
-<script type="text/javascript" src="https://www.theepochtimes.com/assets/themes/eet/js/bottom.js?ver=20170324"></script>
+	  ga('send', 'pageview');
+
+	  function getUrlParameter(name) {
+		  name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
+		  var regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
+		  var results = regex.exec(location.search);
+		  return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+	  };
+
+	</script>
+<script type="text/javascript" src="https://www.theepochtimes.com/assets/themes/eet/js/jquery-all.min.js?ver=20170224"></script>
+<script type="text/javascript" src="https://www.theepochtimes.com/assets/themes/eet/js/bottom.js?ver=20180530"></script>
 <script type="text/javascript" src="https://www.theepochtimes.com/assets/themes/eet/js/article_ads.js?ver=20170324"></script>
+
 
 
 
