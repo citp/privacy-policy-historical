@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebestschools.org privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119211330id_/https%3A//thebestschools.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebestschools.org privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605171901id_/https%3A//thebestschools.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Best Schools
 
@@ -22,7 +22,7 @@ This policy explains what types of personal information we receive and collect w
 
 ## Specific
 
-  * TheBestSchools.org will never sell or transfer to a third party any personal information, including your email address, that you may have to leave on our website in order to comment on an article or to subscribe for a TBS newsletter (such as for the TBS Magazine).
+  * TheBestSchools.org will never sell or transfer to a third party any personal information, including your email address, that you may have to leave on our website in order to comment on an article or to subscribe for a TBS newsletter (such as for [The Quad](https://web.archive.org/magazine/ "The Quad: Student Life Online")).
   * In submitting your personal information at TheBestSchools.org in order to obtain free materials about a school or degree program, you are making a formal request of us, our affiliated entities, and third party marketing partners/vendors to provide you with such materials. Thus, by making such a request, you are granting permission to be contacted via email, mail, and phone; moreover, you are consenting to receive telephone calls for a limited period of time from our affiliates, marketing partners, and associated vendors, even if the telephone number you submitted appears on a state and/or federal Do Not Call list. This is because your request will serve as an exception to state and/or federal Do Not Call requirements.
   * To comply with the law, your personal information may be shared, such as in the case of a subpoena or similar legal process when we believe that the disclosure is necessary to protect our rights, your safety or the safety of others, or investigate fraud. It may also be done to respond to a government request if TheBestSchools.org becomes involved in a merger, acquisition, or sale of all or a portion of its assets to any other third party, with your prior consent to do so.
 
