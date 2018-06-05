@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playomg.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117025209id_/http%3A//www.playomg.com/index/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playomg.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605074305id_/http%3A//www.playomg.com/index/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
