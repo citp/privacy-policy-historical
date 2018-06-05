@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the list-gigantic.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130165409id_/http%3A//list-gigantic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the list-gigantic.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605124058id_/http%3A//list-gigantic.com/privacy.php) for the most accurate reproduction.*
 
 # List Gigantic - Your Solution To a Gigantic List!
 
-[](http://list-gigantic.com/bannerclick.php?id=967)  
+[](http://list-gigantic.com/bannerclick.php?id=980)  
 
 
 List Gigantic Privacy Policy
