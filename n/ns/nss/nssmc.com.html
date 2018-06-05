@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nssmc.com privacy policy that was archived on 2017-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171204220431id_/http%3A//www.nssmc.com/en/privacy/index.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nssmc.com privacy policy that was archived on 2018-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180605045519id_/http%3A//www.nssmc.com/en/privacy/index.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -291,6 +291,144 @@ google.setOnLoadCallback(function() {
 <script src="//c.marsflag.com/mf/mfx/1.0/js/mfx-sbox.js" charset="UTF-8"></script>
 <!-- /div#footerContainer --></div>
 <!-- ▲▲▲　Footer End　▲▲▲ -->
+<script>
+var privacy_url='http://www.nssmc.com/en/privacy/cookie.html';
+
+var html = '<div id="privacy" style="display:none" class="privacy-container">';
+html += '<div class="privacy-inner">';
+html += '<p class="privacy-prefix">This website uses cookies for more convenient usage and for maintaining and improving performance.<br>For more details, please click ';
+html += '<a class="privacy-anchor" href="'+ privacy_url +'" target="_blank">Cookie Policy</a>';
+html += '.  Please click the "agree" button if you agree to the placement of cookies on your computer.<br>';
+html += 'If you disagree, please exit this site immediately by closing this browser.';
+html += '</p>';
+html += '<a class="btn-close-main" href="javascript:;">';
+html += '<span id="close-btn" class="privacy-btn-close flexiblebox">';
+html += '<span class="privacy-btn-copy">agree</span>';
+html += '</span>';
+html += '</a>';
+html += '</div>';
+html += '</div>';
+var body = document.body;
+body.insertAdjacentHTML('beforeend',html);
+
+function privacy_policy_cookie(){
+	var privacy_btn = document.getElementById("close-btn");
+	var privacy_dialog = document.getElementById("privacy");
+	var cookie_array = [];
+	var cookie_split = document.cookie.split('; ');
+	var privacy_expired_date =new Date();
+	var privacy_expired_year = privacy_expired_date.getFullYear();
+	var privacy_expired_month = privacy_expired_date.getMonth()+1;
+	var privacy_expired_day = privacy_expired_date.getDate();
+	var cookie_flg = false;
+	var cookie_limit = 90;
+	privacy_expired_date.setTime(privacy_expired_date.getTime() + cookie_limit*24*60*60*1000);
+	var cookie_limit_date = privacy_expired_date.toGMTString();
+
+	cookie_split.forEach(function(value) {
+	    var content = value.split('=');
+	    cookie_array.push(content);
+	});
+
+	if(cookie_array.length > 0){
+		for(var i=0; i<cookie_array.length; i++ ){
+			if (cookie_array[i].indexOf('_nssmc_privacy_policy') == 0){
+        		cookie_flg = true;
+    		}
+		}
+	}
+
+	if(cookie_flg){
+		privacy_dialog.style.display="none";
+	}else{
+		privacy_dialog.style.display="block";
+	}
+
+	privacy_btn.onclick = function(){
+		document.cookie = '_nssmc_privacy_policy=' + "accept " + (privacy_expired_year + '/' + privacy_expired_month + '/' + privacy_expired_day) + ";expires=" + cookie_limit_date + ";path=/";
+		privacy_dialog.style.display="none";
+	}
+}
+privacy_policy_cookie();
+
+
+</script><div id="privacy" style="display: block;" class="privacy-container"><div class="privacy-inner"><p class="privacy-prefix">This website uses cookies for more convenient usage and for maintaining and improving performance.<br>For more details, please click <a class="privacy-anchor" href="http://www.nssmc.com/en/privacy/cookie.html" target="_blank">Cookie Policy</a>.  Please click the "agree" button if you agree to the placement of cookies on your computer.<br>If you disagree, please exit this site immediately by closing this browser.</p><a class="btn-close-main" href="javascript:;"><span id="close-btn" class="privacy-btn-close flexiblebox"><span class="privacy-btn-copy">agree</span></span></a></div></div>
+
+<style type="text/css">
+
+.privacy-container *{
+	line-height: 1.67;
+}
+.privacy-container {
+    font-family: "ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro","HiraKakuPro-W3","メイリオ",Meiryo,"ＭＳ Ｐゴシック","MS PGothic",Osaka,sans-serif;
+    position: fixed;
+    line-height: 1.67;
+    right: 0px;
+    z-index: 4000;
+    width: 270px;
+    height: auto;
+    background: #f5f5f5;
+    border-left: 3px solid #3e66aa;
+    border-top: 1px solid #a9a9a9;
+    border-bottom: 1px solid #a9a9a9;
+    border-right: 1px solid #a9a9a9;
+    bottom : 0;
+    padding: 10px;
+    text-align: left;
+    color: #000000;
+    font-size: 12px;
+}
+
+.privacy-prefix {
+    margin: 10px 0;
+}
+
+.privacy-container, .privacy-container>* {
+    -ms-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+#close-btn.privacy-btn-close{
+    background: #3e66aa;
+    width:64px;
+    height:24px;
+    margin: auto;
+    display: block;
+    border-bottom: 1px solid #a9a9a9;
+    border-right: 1px solid #a9a9a9;
+    line-height: 24px;
+    text-align: center;
+  }
+
+#close-btn .privacy-btn-copy{
+    line-height: 24px;
+}
+
+.privacy-anchor {
+  color: #005eb8!important;
+  text-decoration: none!important;
+}
+
+.privacy-anchor:hover {
+color: #005eb8!important;
+text-decoration:underline!important;
+}
+
+.btn-close-main{
+  color: #000;
+  text-decoration: none!important;
+}
+
+.privacy-btn-copy{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+
+</style>
+
 
 
 
