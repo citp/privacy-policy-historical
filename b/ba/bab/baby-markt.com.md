@@ -1,222 +1,260 @@
-> *The following text is extracted and transformed from the baby-markt.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915222100id_/http%3A//www.baby-markt.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baby-markt.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605192519id_/http%3A//www.baby-markt.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# PRIVACY POLICY
 
-**Data Protection and Security**
+All personal information will be handled confidentially. Our data protection practice is in accordance with the Federal Data Protection Act and the General Data Protection Regulation (GDPR). Below we inform you about the details of privacy:
 
-All personal data is treated as confidential by baby-markt.com. Our Data Protection Policy is in accordance with the Federal Data Protection Act (BDSG) and the Telemedia Act (TMG).
+RESPONSIBLE WITHIN THE MEANING OF THE GDPR AND THE BDSG babymarkt.de GmbH   
+Wulfshofstraße 22, 44149 Dortmund  
+Tel.: 0231/53471100  
+Fax: 0231/53471110  
+E-Mail: [info@babymarkt.de](mailto:info@babymarkt.de)  
 
-The following provides information on the details of data protection in our company.
 
-  
-  
- **1\. Reasons for Data Collection**
+DATA PROTECTION OFFICER The Data Protection Officer can be reached at: E-Mail: [datenschutz@babymarkt.de](mailto:datenschutz@babymarkt.de)
 
-  
-We collect and process your data to cultivate our business relations in order to provide best service to you through convenient access to our products and services and in order to offer you the maximum scope of service in processing your assignment, i.e. your order, delivery and payment. 
+### 1\. THE REASONS OF DATA COLLECTION 
 
-  
-  
-**2\. Purpose of Collecting, Processing or Using Data:**
+We collect and process your information to provide our website and to provide you with the best possible service through convenient access to our services. 
 
-  
-The purpose of our company is mail order selling of baby and toddler supplies. Collection, processing, transmission and use of data are conducted for the practice of the above-named purposes. 
+### 2\. WHICH DATA WILL BE COLLECTED, PROCESSED OR UTILIZED? 
 
-  
-  
-**3\. Which Data is Collected, Processed and Used?**
+#### 2.1 VISITING OUR WEBSITE 
 
-  
-You can visit our online shop without leaving personal data: For surfing without registration, we do not collect personal data, but set a cookie for the session ID. As standard procedure, information such as your IP address, time and duration of your visit, operating system, browser and page views are registered. 
+When you access our website, our servers automatically collect information of a general nature, especially for the purposes of connection setup, functionality and system security. This includes the type of browser used, the operating system used, the domain name of the Internet service provider, the connection data of the computer used (IP address), the website from which you visit us (referrer URL), the pages you visit on our website and the date and duration of the visit. Conclusions from this data on certain persons are not possible for us due to a pseudonymization.
 
-  
-If you register as a customer, we collect data via the registration forms that you fill in. This includes your name, your address including your e-mail address, details related to your requested mode of payment and information concerning the respective assignment. Additionally, we set cookies if you allow them..
+#### 2.2 CONTACT FORM 
 
-  
-We store data relating to your order in the context of order history and send the order related data to you via e-mail. You can access data relating to your current and previous orders at "My Account / Order Status". For our Terms and Conditions please visit <http://www.baby-markt.com/en/terms-and-conditions-com/> .
+If you contact us via a contact form, personal data will be collected. Which data are collected in each case can be found in the contact form. The data will be stored for the purpose of processing your request. Mandatory information is indicated by an asterisk (*). All other details are optional. We delete the data we recieved from the contact form after the storage is no longer required, or restrict the processing if there are statutory retention requirements. Legal basis for processing your personal information is Art. 6 para. 1 lit. b) GDPR when it comes to contacting us in the context of a contract. Incidentally, it is our legitimate interest to answer your inquiries, so in this case Art. 6 para. 1 lit. f) GDPR is the legal basis. 
 
-Furthermore, we require information regarding your person, if you subscribe to our newsletter or similar advertising material, or if you contact us for other reasons. 
+#### 2.3 NEWSLETTER- SIGN UP 
 
-  
-In our online shop, information regarding surfing behavior of visitors to our website is collected and stored for marketing purposes. This information is made anonymous. Surfing behavior stored in cookies is analyzed by means of an algorithm to display specific product recommendations later in the form of advertising banners or advertisements on websites of third parties respectively. Additionally, this data is used for designing and optimizing the internet service in relation to demand. Affiliation to persons is precluded by not storing IP addresses, or by storing shortened IP addresses only. The tracking tools are not used for unnoticed collection of personal data, for transmission of such data to third-party suppliers or to marketing platforms, or for connection of this data to your personal data (name, address, etc.). 
+With your consent, you can subscribe to our free e-mail newsletter, which will inform you about current interesting offers. To register for the newsletter, we use the so-called double opt-in procedure. This means that after you have registered, we will send you an e-mail to the e-mail address specified in which we ask you to confirm that you wish to receive the newsletter. If you do not confirm your registration, your information will be blocked and automatically deleted after one month. In addition, we store your IP addresses and times of registration and confirmation. The purpose of the procedure is to prove your registration and, if necessary, to inform you about possible misuse of your personal data. The only requirement for sending the newsletter is your e-mail address. All other details are optional. After your confirmation, we will store your data for the purpose of sending you the newsletter. You can unsubscribe from the newsletter at any time by notifying the person responsible, see at the beginning of our data protection instructions, e.g. by e-mail to [info@baby-markt.com](mailto:info@baby-markt.com). The legal basis is Art. 6 para. 1 sentence 1 lit. a) GDPR. 
 
-We receive information through BFS finance GmbH Gütersloher Str. 123, 33415 Verl, from Infoscore Consumer Data GmbH, Rheinstr. 99, 76532 Baden-Baden, regarding your payment history and credit information based on mathematical and statistic processes using the address details for assessing the creditworthiness.
+#### 2.4 SENDING OUR E-MAIL NEWSLETTERS TO OUR CUSTOMERS 
 
-  
- **4\. Fraud Prevention: Approval of Credit Assessment**
+If you have provided us with your e-mail address when purchasing goods or services, we reserve the right to regularly send you offers for similar goods or services as those already purchased from our product range by e-mail. In accordance with § 7 (3) UWG, no separate consent from you is required. The data processing is based on our legitimate interest in the transmission of personalized direct mail in accordance with Art. 6 para. 1 lit. f) GDPR. However, if you have initially objected to the use of your e-mail address for this aforementioned purpose, we will of course not send you any e-mails. Even if you have not initially objected, you are entitled to object to the use of your e-mail address for the aforementioned advertising purpose at any time with effect for the future by notifying the person responsible (cf. beginning of our Privacy Policy). Only the transmission costs according to the basic tariffs will be charged. Upon receipt of your objection, the use of your e-mail address for advertising purposes will be discontinued immediately. 
 
-With respect to the order process in our online shop, we require the following approval(s) to prevent fraud:
+#### 2.5 DATA PROCESSING WHEN OPENING A CUSTOMER ACCOUNT/REGISTRATION 
 
-In order to offer you the best payment options in our online shop and to minimize fraudulent or incorrect orders, we are obliged to protect our customers from fraud. One important factor is to identify fraudulent order and user behavior as well as the credit assessment of our customers. For the purpose of fraud prevention and payment method control (defining authorized payment options in our online shop for each user), including credit and address assessment, you agree to the following: 
+We collect and process personal data if you provide us with this data when executing a contract or opening a customer account. The legal basis is Art. 6 para. 1 lit. b) GDPR. Which data is collected can be taken from the respective input forms. The deletion of your customer account is possible at any time and can be done by sending a message to the contact address of the responsible person. We store and use the data provided by you for contract processing between you and us. After complete processing of the contract or deletion of your customer account, your data will be blocked in consideration of tax and commercial retention periods and deleted after expiry of these periods, unless you have expressly consented to further use of your data or a legally permitted further use of data has been reserved by our site, about which we inform you in this data protection policy. 
 
-I agree that baby-markt.de GmbH receives information on my payment history and creditworthiness based on mathematical and statistical processes using address details through BFS finance GmbH, Gütersloher Str. 123, 33415 Verl, from infoscore Consumer Data GmbH, Rheinstr. 99, 76532 Baden-Baden, for the purpose of credit assessment, e.g. for protecting purchases on account and direct debits, and therefore provides BFS finance GmbH and infoscore Consumer Data GmbH with my name, address as well as my date of birth if necessary.
+#### 2.6 DATA PROCESSING FOR GUEST ORDERS 
 
-In addition, babymarkt.de GmbH forwards necessary customer data (e-mail address, phone and bank data) and order details (order value, product group, article value, request channel and delivery method) for the purpose of the management of methods of payment to BFS finance GmbH. The decision which payment methods are provided is made based on customer and order data as well as the received information on the statistical probability of a payment default (credit information). Moreover, my stated address details will be verified within the scope of an address check conducted by infoscore Consumer Data GmbH to avoid faulty shipments.
+You can place your order without registering a customer account. Here too, personal data are collected and processed in accordance with Art. 6 para. 1 lit. b GDPR. Which data are collected and processed can be seen from the respective input forms. We store and use the data provided by you within the scope of the guest order for contract processing. After complete processing of the contract your data will be blocked in consideration of tax and commercial retention periods and deleted after expiry of these periods, unless you have expressly consented to further use of your data or a legally permitted further use of data has been reserved by us, about which we inform you within the scope of this data protection policy. 
 
-The transmission of data necessary for the credit and address assessment as well as for the management of methods of payment is performed via a secure interface. Personal interests worth being protected are being adhered to according to legal regulations.
+#### 2.7 DATA PROCESSING FOR THE HANDLING OF THE ORDER - DATA TRANSFER TO THIRD PARTIES DATA TRANSFER TO SHIPPING SERVICE PROVIDERS
 
-I also agree that babymarkt.de GmbH transfers my data concerning the contract processing (object of purchase, name, address, e-mail address, phone number, date of birth, delivery address, payment method and bank details) to BFS finance GmbH, Gütersloher Str. 123, 33415 Verl, for the purpose of preventing and identifying fraud. This data may be collected, used and processed by BFS finance GmbH, Gütersloher Str. 123, 33415 Verl, for automatically reviewing criteria of possible fraud against the babymarkt.com online shop (e.g. delivery or payment fraud, unauthorized orders outside the delivery area, etc.).
+The personal data collected by us will be passed on to the transport company commissioned with the delivery (e.g. DHL-Deutsche Post AG, GLS-General Logistics Systems Germany GmbH & Co. OHG) within the scope of contract processing, insofar as this is necessary for the delivery of the goods. For the purpose of arranging the delivery date for forwarding goods, we will also provide the carrier with your telephone number. The legal basis for the transfer of the data is Art. 6 para. 1 lit. b) and f) GDPR. 
 
-This approval/these approvals can be revoked with future effect any time. A written note (e.g. e-mail, fax or letter) to babymarkt.de GmbH is sufficient. Please check point 11 of this document for full contact details. We point out that only the payment methods Prepayment and Sofortüberweisung may be available in case of a revocation, or a contract may not be concluded. 
+<4>DATA TRANSFER TO PAYMENT SERVICE PROVIDERS AND CREDIT ASSESSMENT 
 
-**5\. Principles of Collecting Data**
+##### PayPal 
 
-  
-We adhere to the principle of data economics and avoidance of data. This means, we collect and use only as much data as is necessary for processing the ordering process and for communicating with you.
+We have integrated PayPal components on our website. PayPal is an online payment service provider. Payments are processed via so-called PayPal accounts, which are virtual private or business accounts. PayPal's European operating company is PayPal (Europe) S.à.r.l. & Cie. S.C.A., 22-24 Boulevard Royal, 2449 Luxembourg, Luxembourg. If the person concerned selects "PayPal" as a payment option in our online shop during the order process, the data of the person concerned are automatically transmitted to PayPal. By selecting this payment option, the person concerned consents to the transfer of personal data required for payment processing. The personal data transmitted to PayPal is usually the first name, last name, address, e-mail address, IP address, telephone number, mobile phone number or other data required for payment processing. Personal data in connection with the respective order are also necessary for the processing of the purchase contract.The purpose of data transmission is to process payments and prevent fraud. The person responsible for the processing will provide PayPal with personal data in particular if there is a legitimate interest in the transmission. Personal data exchanged between PayPal and the person responsible for processing may be transferred by PayPal to credit agencies. The purpose of this transmission is to verify identity and creditworthiness.PayPal may pass on personal data to affiliated companies and service providers or subcontractors if this is necessary to fulfil contractual obligations or if the data is to be processed on behalf of PayPal. The person concerned has the option to revoke his/her consent to the handling of personal data with PayPal at any time. A revocation does not affect personal data which must be processed, used or transmitted for (contractual) payment processing. PayPal's current privacy policy can be found at <https://www.paypal.com/de/webapps/mpp/ua/privacy-full>. 
 
-This also includes e.g. all data that we are legally obliged to process and store in accounting.
+### 3\. INTEGRATION OF YOUTUBE VIDEOS 
 
-Your personal data is stored only if you provide it of your own accord during your registration as a customer on our websites. We store this data with your consent as your personal profile, so that you can conveniently register with your user name and password during future visits to our website. This means you will not have to enter your address repeatedly with every new order. You can object to the utilization of this data at any time. In this case, however, a complete registration is required for every new order. 
+We have integrated YouTube videos into our online offering, which are stored on [http://www.YouTube.com](http://www.youtube.com/) and can be played directly from our website. These are all integrated in the "extended data protection mode", i.e. no data about you as a user will be transmitted to YouTube if you do not play the videos. Only when you play the videos, the following data will be transmitted. We have no influence on this data transmission. By visiting the website, YouTube receives the information that you have accessed the corresponding subpage of our website. The IP address, date and time of the request, time zone difference to Greenwich Mean Time (GMT), content of the request (specific page), access status/HTTP status code, data volume transmitted in each case, website from which the request comes, browser, operating system and its interface, language and version of the browser software are transmitted. This is independent of whether YouTube provides a user account through which you are logged in or whether no user account exists. If you are logged in to Google, your information will be directly associated with your account. If you do not wish to be associated with your profile on YouTube, you must log out before activating the button. YouTube stores your data as user profiles and uses them for purposes of advertising, market research and/or demand-oriented design of its website. Such evaluation takes place in particular (even for unlogged-in users) to provide demand-oriented advertising and to inform other users of the social network about your activities on our website. You have the right to object to the creation of these user profiles, whereby you must contact YouTube to exercise this right. For more information on the purpose and scope of data collection and processing by YouTube, please refer to the privacy policy. There you will also find further information about your rights and setting options to protect your privacy: [https://www.google.de/intl/de/policies/privacy.](https://www.google.de/intl/de/policies/privacy). Google also processes your personal data in the USA and has submitted to the EU-US Privacy Shield, <https://www.privacyshield.gov/EU-US-Framework>. The legal basis for processing is Art. 6 para. 1 lit. f) GDPR.
 
-Furthermore, we register data provided by you if you subscribe to our newsletter. This website uses Google Analytics, a web analysis service of Google Inc. ("Google"). Google Analytics uses so-called "cookies", text files that are stored on your computer and allow for analysis of your use of the website. The information regarding your use of this website that is generated by the cookie is usually transmitted to a Google server in the USA and stored there. In case IP-disguise is activated on this website, Google shortens your IP-address beforehand inside member states of the European Union or in other contracting states of the agreement on the European Economic Area. Only exceptionally, a full IP-address is transmitted to a Google server in the USA and shortened there. On behalf of the operator of this website, Google will use this information to analyze your use of the website, to compile reports on website activities and to provide the operator of this website with further services related to website use and internet use. The IP-address transmitted through Google Analytics from your browser is not joined with other data of Google. You can prevent cookies from being set by adjustment of the settings of your browser software. However, we would like to inform you that you might not be able to use all functions of the website fully.  Furthermore, you can prevent the collection of data generated by the cookie (relating to your use of the website, including to your IP-address) by Google and the processing of this data by Google. To do so please download and install the browser-plugin available at the following link: Google Analytics Opt-out Browser Add-on.
+### 4\. INTEGRATION OF GOOGLE MAPS 
 
- **6\. Cookies**
+On this website we use the offer of Google Maps. This allows us to display interactive maps directly on the website and enables you to conveniently use the map function. By visiting the website, Google receives the information that you have called up the corresponding subpage of our website. In addition, the IP address, date and time of the request, time zone difference to Greenwich Mean Time (GMT), content of the request (specific page), access status/HTTP status code, data volume transmitted in each case, website from which the request comes, browser, operating system and its interface, language and version of the browser software are transmitted. This is regardless of whether Google provides a user account that you are logged in with or whether no user account exists. If you are logged in to Google, your information will be directly associated with your account. If you do not wish to be associated with your profile on Google, you must log out before activating the button. Google stores your data as usage profiles and uses them for purposes of advertising, market research and/or demand-oriented design of its website. Such evaluation takes place in particular (even for unlogged-in users) to provide demand-oriented advertising and to inform other users of the social network about your activities on our website. You have the right to object to the creation of these user profiles, whereby you must contact Google to exercise this right. For more information about the purpose and scope of data collection and its processing by the plug-in provider, please refer to the provider's privacy policy. There you will also find further information about your rights in this regard and setting options for the protection of your privacy: <http://www.google.de/intl/de/policies/privacy>. Google also processes your personal data in the USA and has submitted to the EU-US Privacy Shield, <https://www.privacyshield.gov/EU-US-Framework>. The legal basis for processing is Art. 6 para. 1 lit. f) GDPR. 
 
-  
-To make shopping in our shop more comfortable for you, we use the so-called cookie-technology. Among other things, cookies ensure that you are greeted personally at your next visit, or that you are provided with information tailored to your personal interests.
+### 5\. COMPETITIONS 
 
-Cookies are text files that are saved on the user’s computer upon visit to a website. Cookies do not contain data relevant to security or personal data. Furthermore, cookies cannot transmit viruses, spy out data on your computer or send unnoticed e-mails. In addition, any web server can only read out those cookies that have been set by that same server. 
+From time to time you have the opportunity to take part in competitions on our website. Within the scope of these competitions, personal data (e-mail address, name, address and, if applicable, other data necessary for the competition) may also be collected and stored for the purpose of handling the competition. The personal information you provide to us will only be used for the purposes of the competition (e.g. to determine the prize, notify you of the prize and hand over the prize). Within the scope of the competition, we will inform the participant specifically about data processing on the occasion of the concrete competition. After the end of our competitions the data of the participants will be deleted. 
 
-In contrast to many other websites, you can also shop with us if you set your browser to declining cookies – your shopping will only be a little less comfortable. If you surf without registration, no personal data is collected. Only the cookie for the so-called session-ID is set.
+### 6\. DELETION 
 
-Insofar as you have set your browser to accepting cookies, we set a cookie for customer ID-number, the name in encrypted form, the session and the so-called session-ID each (for registered customers). Additionally, we set two further cookies to make shopping more convenient for you – for example for product recommendations and individual layout.
+Personal data will be deleted or blocked as soon as the purpose of storage ceases to apply or you request deletion. The data will also be deleted if a storage period prescribed by the aforementioned standard expires, unless there is a need for further storage of the data for the conclusion or fulfilment of a contract or you have given your consent to this. 
 
-If you reach our website via a link established as part of the partnership program on the website of an affiliate-partner, we set a cookie for settling expenses with this partner. Other partner set own cookies with an anonymous ID, e.g. for product recommendations in the context of retargeting-campaigns. Here, no conclusions regarding your personal data can be drawn. 
+### 7\. COOKIES 
 
-Session-cookies are deleted with closing of the browser. Cookies for recognition of new and regular customers are deleted after 60 months. All other cookies concerning your person are deleted after one year. Cookies by partners have a maximum term of 60 days.
+Cookies are used to make the use of the websites and the preferences of website visitors attractive. For example, this saves your entries for the selection of a language. Cookies are text files that are created on your hard drive to enable the identification of the browser when you visit the website again. You can prevent cookies from being stored on your hard drive by making the appropriate browser settings. Cookies that have already been set can be deleted at any time. For information on how to delete cookies or prevent them from being saved, please refer to the respective browser instructions. If you do not accept cookies, this can lead to an impairment of the use of our Internet offer. The legal basis for the processing of cookies is Art. 6 para. 1 lit. f) GDPR. 
 
-If you do not want to make use of the advantages provided by cookies, you can modify cookie-treatment in the security settings of your browser. 
+### 8\. DATA SECURITY 
 
-This procedure varies between browsers. In the following, we outline it for Internet Explorer 6.0:
+We protect our website and other systems by technical and organizational measures against loss, destruction, access, modification or distribution of your data by unauthorized persons. Depending on the browser used, data is transmitted using 128-bit to 256-bit SSL encryption. Despite regular controls and constant improvement of our safety measures, complete protection against all dangers is not possible. 
 
-1\. Select "Internet Options" in the menu option "Extra" 
+### 9\. FACEBOOK CUSTOM AUDIENCE VIA THE PIXEL METHOD 
 
-2\. Click on the tab "Data Protection"
+This website uses the "Facebook Pixel" of Facebook Inc, 1 Hacker Way, Menlo Park, CA 94025, USA ("Facebook"). If explicit consent is given, users' behaviour can be tracked after they have seen or clicked on a Facebook advertisement. This process is designed to evaluate the effectiveness of Facebook ads for statistical and market research purposes and may help to optimize future advertising measures. The data collected is anonymous to us, so it does not give us any indication of the identity of the users. However, Facebook stores and processes the data so that a connection to the respective user profile is possible and Facebook can use the data for its own advertising purposes in accordance with the Facebook Data Use Policy ( <https://www.facebook.com/about/privacy/>). You can enable Facebook and its partners to serve ads on and off Facebook. A cookie may also be stored on your computer for these purposes. These processing operations take place exclusively with the granting of express consent in accordance with Art. 6 para. 1 lit. a GDPR. Consent to the use of the Facebook pixel may only be given by users who are older than 13 years of age. If you are younger, please ask your legal guardian for permission. Facebook Inc., based in the USA, is certified for the us-European data protection agreement "Privacy Shield", which guarantees compliance with the data protection level that applies in the EU. In order to deactivate the use of cookies on your computer, you can set your Internet browser so that cookies can no longer be stored on your computer in the future or cookies that have already been stored are deleted. However, deactivating all cookies may mean that some functions on our Internet pages can no longer be executed. You can also disable the use of cookies by third parties such as Facebook on the following Digital Advertising Alliance website: <http://www.aboutads.info/choices/>
 
-3\. Now you can determine whether cookies should be accepted, selected or declined
+### 10\. GOOGLE AdWords REMARKETING 
 
-4\. Confirm your settings by pressing "OK"
+Our website operates in collaboration with the AdWords Remarketing in order to advertise on Google and its third-party bodies. The provider of AdWords Remarketing is Google LLC., with headquarter in 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (“Google”). Implementation of cookies in one’s browser enables to automatically collect an interest-based data. The data creates a user ID based on the pages that one has previously visited and therefore enables more personalized advertising. The aim of the process is advertising optimization and more customer-adjusted content provision within the meaning of Art. 6 para. 1 lit. f) GDPR. Any further data processing will be allowed only after one’s explicit consent to one’s web browser’s data usage. Google will use the information provided by the browser and one’s Google Account to furthermore personalize the advertising used on visited websites. In this case, when one will log in to one’s Google Account when visiting our website, Google will send the allowed data to Google Analytics in order to further define the audiences visiting our website. One is allowed to disable the settings of cookies by installing a browser plug-in available on the following link: <https://www.google.com/settings/ads/onweb/>. 
 
-To make full use of all functions and services provided by www.baby-markt.com, we recommend keeping reception of cookies activated.
+Alternatively, one may visit the Digital Advertising Alliance website ( [www.aboutads.info](https://web.archive.org/web/20180605192519id_/http://www.baby-markt.com/en/privacy-policy/www.aboutads.info)) for further information on cookie settings. One may as well adjust one’s Internet browser, so that it would inform the user about any data collection. Therefore the user will be able to personally decide on the data collection by other websites. It should be taken into consideration that deactivation of all cookies may affect some functions provided by the websites. With the headquarters in the US, Google LLC is a subject to the US Privacy Shield, which respects the EU Data Protection restrictions. For more information on Google Privacy Policy regarding advertising, please visit: <http://www.google.com/policies/technologies/ads/>
 
-  
-  
- **7\. Passing on Data**
+### 11\. GOOGLE AdSense 
 
-  
-Your data required for business processing is stored and used for processing orders. In this process, data may be transmitted to connected companies (logistics companies) and to companies concerned with delivery of your goods. Transmission of data is conducted via 128bit - 256bit AES-encryption, depending on the browser used. We will request and use your personal data for processing of your order, as well as for own marketing campaigns, such as newsletters.
+The data controller collaborates with Google Adsense, which is an online service providing a third-party advertising intermediation. Google AdSense uses an algorithm that selects advertisements displayed on third-party websites. The interest-based retargeting of advertising is specified by the prior collected information of user’s website activity. The company operating Google AdSense components is Alphabet Inc., with headquarters in 1600 Amphitheatre Pkwy, Mountain View, CA 94043-1351, USA. The aim of Google AdSense components is to integrate the advertising on our website. Google AdSense implements cookies on one’s Internet Browser in order to later carry out an analysis of users’ activities on our website. The functioning of cookies has been explained in detail in the previous points of the policy. Agreement on cookies policy allows the information about one’s activity on our website to be sent to Google AdSense in order to improve our online advertising strategies. As a part of the process, Alphabet Inc. collects some of user’s information, such as the IP address, which is crucial to settle the origins of customers’ visits and therefore the commission agreements. Every person visiting our website has the right to deactivate the cookies on one’s browser through the browser’s settings. Such settings of the browser will prevent Alphabet Inc. from any data collection. In addition to this, cookie that has previously been agreed on may be deleted from the Alphabet Inc. data base at any time by specific browser settings. 
 
-  
-In individual cases, we may be forced to disclose your data due to legal provisions or legal proceedings. Furthermore, we may disclose information relating to you if this is in the public interest, for example in case of proven misuse or credit card fraud.
+Google AdSense implements so-called tracking pixels, which are miniature graphics embedded in websites that enable log file collection and analysis. The data collected by the pixels, such as when has the website been opened or which links on the website have been clicked on, is then used in the analysis of the network traffic. Some information, such as the user’s IP address, are collected and transferred by Google AdSense to Alphabet Inc. with headquarter in the United States of America. The information is later on stored and processed by the Alphabet Inc. and may be transferred to some third-parties. For more information about the Google AdSense privacy policy, please visit the website: <https://www.google.de/intl/de/adsense/start/>
 
- **8\. Use of Your Data for Purposes of Advertising**
+### 12\. THE USE OF GOOGLE ANALYTICS FOR ANALYSIS PURPOSES 
 
-  
-In addition to using your data for processing your purchase with Babymarkt.de GmbH, we also use your data to communicate with you regarding your order, to communicate specific products or marketing campaigns and to recommend products or services to you that might interest you.
+This website operates with Google Analytics, which is an internet analysis service provided by Google Inc. (www.google.de). Google Analytics uses the so-called cookies that collect data about one’s activity on the website and therefore allow the analysis of Internet users‘ activities on our website. 
 
-  
-You may object to use of your data for purposes of advertising at any time, for specific campaigns or generally without incurring any costs other than transmission costs of the basic rates. A written message to newsletter-antwort@baby-markt.de is sufficient.
+The information generated by the cookies is transmitted to and stored by the Google server in the USA. In case of the IP anonymization on user’s website, the IP address will be beforehand shortened by Google following the Member of States of the EU or other responsible Parties within the European Economic Area Agreement .
 
- **8.1 Newsletter**
+In exceptional cases the IP address may be sent to the Google server in the USA and shortened there. On behalf of this website’s operator, Google will use the collected information to evaluate the use of the website. The website’s operators will then be provided by Google with the report on related to our website users’ activities that will help us provide the Internet users with more personalized website services. 
 
-  
-Insofar as you have actively given your consent, we will regularly send you our e-mail newsletter. For sending the newsletter, we use the Double Opt-In procedure. This means, we will only send you a newsletter after you have clicked on a link in our notification e-mail that confirms that we should activate the newsletter-service. Newsletter data, such as e-mail address, and optional information, such as form of address, name, first name, postcode and place of residence and date of birth (as far as provided by you) are transmitted to our service provider Optivo who stores the data on our behalf and is commissioned to send newsletters. They do not, however, transmit or pass on this data to third parties. Of course, you can unsubscribe at any time.
+The IP address collected by Google Analytics will not be merged with any Google data. The user is allowed to deactivate the cookies through browser settings. It should be taken into consideration that deactivation of all cookies may affect some functions provided by the websites. The previously collected data will be deleted after 26 months. Any data collection related to one’s activity on the website (including the IP address) may be avoided by a browser’s plug-in installation: <http://tools.google.com/dlpage/gaoptout?hl=en>. More detailed information about the Terms of Use and Privacy Policy can be found in the links: <http://www.google.com/analytics/terms/de.html> or at <https://www.google.de/intl/de/policies/>.
 
-  
- **8.2 Product Recommendations via E-Mail**
+### 13\. USE OF SOCIAL MEDIA PLUG-INS 
 
-  
-As a customer of Babymarkt.de GmbH you regularly receive product recommendations via e-mail. You will receive this information irrespective of whether you have subscribed to the newsletter or not. This way, we would like to inform you about products in our range that might interest you in light of previous purchases in our online shop. In this, we strictly adhere to legal provisions. If you do not want to receive product recommendations or other advertising news from us, you may object to these e-mails at any time without incurring any costs other than transmission costs of the basic rates. A written message to newsletter-antwort@baby-markt.de is sufficient.
+##### 13.1 WHO ARE OUR SUPPLIERS? 
 
-Of course, you may also use the unsubscribe link contained in every e-mail message.
+We are currently using Facebook as our social media plug-in. We use the so-called two-click solution. In other words, when you visit our website, no personal data is initially provided to our plug-in providers. On the bottom of our website you can find the logo of the plug-in provider, which gives you an opportunity to move to the provider’s website with only one click. Only when you move to the plug-in provider’s website, the information about your activity is passed to the provider’s data base. The data collected by the plug-in are: the IP address, date and time of access, time zone difference to the Greenwich Mean Time (GMT), requested page, HTTP status code, amount of data transferred, used browser, the operating system and its interface, language and version of the browser. In case of Facebook, the IP address will be immediately anonymized. Any personal data collected by the plug-in providers will be transmitted to their data bases (in case of US providers, the data will be stored in USA). For safety reasons, we recommend you to delete all cookies before clicking on the providers’ plug-ins. 
 
-  
- **8.3 Customized Advertisements for You**
+### 13.2 NO INFLUENCE BY US 
 
-  
-The information we receive from you helps us improve your shopping experience permanently. Information transmitted by you and generated automatically is used to generate advertisement customized to your preferences. For this purpose, we use available information, such as confirmations of receipt and reading of e-mails, information concerning computer and connection to the internet, operating system, and platform, your order history, your service history, date and time of the visit to the homepage, products you have looked at. We only use this information in pseudonymized form. Through analysis and interpretation of this information, we are able to improve our website and our internet service, as well as to send you customized advertisements. This means advertisements recommending products that may indeed interest you. It is our goal to make or advertisement more useful and more interesting to you. Therefore, interpretation and analysis of the pseudonymized data collected from you helps us select advertisement for you instead of sending it randomly. Instead, we send you advertisements, such as newsletters or product recommendations via e-mail or letter, which might interest you. Therefore, we e.g. also compare, which of our advertisement e-mails you open in order to avoid sending you unnecessary e-mails.
+We have no influence on the data collected and data processing operations, nor are we aware of the full extent of data collection, the purposes of processing, the storage periods. We also have no information on the deletion of the data collected by the plug-in provider. 
 
- **I consent to Babymarkt.de GmbH using the data provided by myself and further information stored regarding my customer account, as well as pseudonymized usage data to send me customized advertising and/or to present special offers and services.**
+### 13.3 DATA USE BY PROVIDER 
 
-  
-If you do not wish to receive customized advertising, you may object at any time, in general or to specific campaigns. A written message to [info@baby-markt.com](mailto:info@baby-markt.com) is sufficient.
+The plug-in providers collect and store data connected with users‘ profiles and their activities on websites for marketing and advertising purposes. Evaluations of Internet users’ activities are carried out, even if the person has not been logged in to any social media platform. Every Internet user has a right to disagree with the data collection. The plug-ins offer Internet users to interact with other users on social media platforms and give us a chance to improve our website and offered services. The plus-ins operate in compliance with Art. 6 Par. 1(f) of GDPR.
 
-  
- **9\. Reviews by Clients and of Products**
+### 13.4. DATA TRANSFER 
 
-  
-For purposes of customer rating and product rating by customers of the online shop, and for quality management, we have integrated the evaluation software by eKomi - The Feedback company into our own websites. After purchasing, customers can register an anonymous rating of our shop. For this purpose, we would like to send you an e-mail within 14 days of shipment of the goods, to ask you for your opinion. At any time, you retain the right to object to the use or to refrain from conducting the customer evaluation.
+The data ransfer takes place regardless of whether you have an account on the social media platform, or not. If you are logged in, the data collected will be assigned to the existing account. For complete safety, we advise you to log out of every social media account regularly in order to avoid assigning your personal profile to any social media plug-ins. 
 
-  
-eKomi have obliged themselves to data protection appropriate treatment of your transmitted data. They undertake all organizational and technical measures to protect your data. Thus, our customers are queried through a web based Social Commerce SaaS Technology, to gain an authentic and valuable customer feedback. At first, eKomi does not receive customer data from the database of our online shop via the interface. Only anonymous customer-IDs of the ordering process are transmitted over the interface. Only in a customer dialogue does eKomi, as a mediator, receive the concurring e-mail address to make contact. For this procedure, the e-mail address is used again with the customer for the purpose of verification and for communication between the customer, our online-shop and eKomi. By placing an order in our online shop, you automatically consent to an electronic request of evaluation by our service provider eKomi. You are free to ignore this request for rating or to add eKomi to your spam-regulations, beforehand. Your opinion, however, is a great help to us and other customers.
+### 13.5 PROVIDERS’ PRIVACY POLICY 
 
-  
- **10\. SSL Encryption**
+More information on the purpose and use of the data collected will be provided below. There are also further information on your rights and data protection privacy. 
 
-  
-We have developed organizational and technical measures to reliably protect the data received from you. Intense information and training of our employees, as well as their obligation to data secrecy ensure that your data is treated confidentially. 
+Links to the plug-in provider’s privacy policy: 
 
-Sensitive data transmissions are encrypted by SSL-certificates (Secure-Socket-Layer) of Thawte Server CA (RSA 1024 Bit). Currently, this is the most widely used and safest procedure of data transmission over the internet.  
+Facebook Inc., 1601 S California Ave, Palo Alto, California 94304, USA; <http://www.facebook.com/policy.php>; more information: <http://www.facebook.com/help/186325668085084>, <http://www.facebook.com/about/privacy/your-info-on-other#applications> as well as <http://www.facebook.com/about/privacy/your-info#everyoneinfo>. Facebook operates in accordance with the EU-US-Privacy-Shield, <https://www.privacyshield.gov/EU-US-Framework>. 
 
-  
- **11\. Queries regarding Data Protection, Refusing Use of Data for Purposes of Advertising**
+### 13.6 ADDTHIS-BOOKMARKING 
 
-  
-According to the Federal Data Protection Act, you are entitled to information regarding your stored data free of charge, as well as a right to possible correction, blocking or deletion of this data.
+Our website also contains AddThis plug-ins that allow you to share an interesting content with other social media users. The legal basis for the use of the plug-ins is Art. 6 para. 1 sentence 1 lit. f) GDPR. The data collected by the plug-in are: the IP address, date and time of access, time zone difference to the Greenwich Mean Time (GMT), requested page, HTTP status code, amount of data transferred, used browser,the operating system and its interface, language and version of the browser. In case of Facebook, the IP address will be immediately anonymized. Any personal data collected by the pug-in providers will be transmitted to their data bases (in case of US providers, the data will be stored in USA). We have no influence on the data collected or processed by the plug-in providers and we are not aware entirely of the purposes or the extent of the data collected. Generally, the data are stored and used for marketing and advertising purposes. You have the right not to agree on the data collection and in order to avoid any further data collection, you should contact the plug-in provider personally. You can also deactivate the cookies on your browser by the use of the link: <http://www.addthis.com/privacy/opt-out>. For more information on the purpose of data collection please contact the following provider: AddThis LLC, 1595 Spring Hill Road, Sweet 300, Vienna, VA 22182 , USA, [www.addthis.com/privacy](https://web.archive.org/web/20180605192519id_/http://www.baby-markt.com/en/privacy-policy/www.addthis.com/privacy). 
 
-  
-Users are asked to address any queries regarding actuality, correction or deletion of their personal data, as well as all requests for information relating to their personal data to: [info@baby-markt.com](mailto:info@baby-markt.com)
+### 14\. PROVIDER AND PRODUCT ASSESMENT 
 
-  
-The responsible party as defined by the Federal Data Protection Act is babymarkt.de GmbH, Wulfshofstraße 22, 44149 Dortmund.
+We, as a provider, and our products may be assessed by the customers in ordert to optimize and manage our website and services. The evaluation may be done through an independent website, eKomi Ltd. ("eKomi"). You can provide there your anonymous opinion on our website, products and services. After placing an order, you will receive an email with a link to eKomi website and then you can submit your opinion. For more information on eKomi Privacy Policy, please visit [www.ekomi.de/de/datenschutz](https://web.archive.org/web/20180605192519id_/http://www.baby-markt.com/en/privacy-policy/www.ekomi.de/de/datenschutz). The legal basis for the processing is Art. 6 para. 1 sentence 1 lit. f) GDPR. 
 
-  
-We will be happy to answer your questions regarding our privacy policy and are looking forward to your feedback. Please address your message to our data protection supervisor at::
+You have the right to object any data collection at any time. During your assessment on eKomi, you might provide your email address, which therefore may allow us to contact you in case of any misunderstandings or problems. Please note that providing an email is optional and you are a subject of independent eKomi’s privacy policy. eKomi is responsible for any data collected or processed provided by the assessment. 
 
-Philip Lütgenau / Data Protection Supervisor 
+### 15\. ECONDA 
 
-Janina Kießwetter / Data Protection Manager
+The website is integrated with the web analysis tool econda in accordance to the Art. 1 Par. 1 (f) of the GDPR. Web analysis services provided by econda include collection and analysis of data regarding Internet users’ activities on our website. Econda collects such information as the approximate time spent by the users on the website and its subpages. The main aim of the analysis is to optimize and improve our website and define the efficiency of our advertising strategies. 
 
-babymarkt.de GmbH
+The entity in charge of econda services is econda GmbH with headquarter in Eisenlohrstr. 43, 76135 Karlsruhe, Germany. Econda uses the cookie technology that has been explained above. Each time you visit our website, your web browser sends information about your activity on the website to econda. The obtained information is used mainly for marketing optimization purposes. As a part of the technical process, econda receives information that will further be used to create a general profile of the website’s users. The profile will be later used to analyze the behavior of the users who have accessed the website. The data will only be collected after an explicit consent of the subject and will be used to improve and optimize the website. The data will in no way identify the subject’s personal information.
 
-Wulfshofstraße 22 
+Every user of the website may decide not to share any information collected by cookies. As explained above, these changes may be introduced through Internet browser settings at any time. Deactivating cookies will remove already collected information from the econda data base and prevent econda from collecting any further data. Every website user may decide not to agree on the data collection related to the use of the website. To prevent any information processing, click on the link Link. The information about cookie deactivation will be transferred to the econda data base.
 
-44149 Dortmund
+It should be taken into consideration that deactivation of all cookies may affect some functions provided by the websites. More detailed information about econda Privacy Policy: [http://www.econda.de/econda/unternehmen/datenschutz/datenschutzerklaerung/ ](http://www.econda.de/econda/unternehmen/datenschutz/datenschutzerklaerung/)
 
-E-Mail: [info@baby-markt.com](mailto:datenschutz@baby-markt.de)
+### 16\. JOB APPLICATIONS 
 
-  
- **12\. Retargeting Technologies:**
+We also collect and process personal data from applicants for the purpose of handling our application process. Processing can also be carried out electronically. This is always the case if the applicant submits application documents to us electronically, i.e. by e-mail or via a web form implemented on our website. If we conclude an employment contract with an applicant, the data transmitted will be stored for the purpose of processing the employment relationship in compliance with the statutory provisions. However, if no employment contract is concluded between us and the applicant, the application documents will be deleted four months after the decision of rejection has been announced, provided that no other legitimate interests of the person responsible stand in the way of deletion. Another legitimate interest in this sense is, for example, a burden of proof in proceedings under the General Act on Equal Treatment. We would like to evaluate all applicants only on the basis of their qualifications and therefore ask that information on racial and ethnic origin, political opinions, religious or ideological beliefs or any trade union membership, genetic data, biometric data to clearly identify a natural person, health data or data on sexual life or sexual orientation in the application should be avoided if possible. 
 
-  
-This website uses retargeting technology. It allows us to address advertisement to those users on websites of our partners, who have already shown interest in our shop and our range of products. We know from surveys that displaying customized, interest-related advertisements is more interesting to the internet user than advertisements that do not have this personal component. In retargeting, the advertising means are displayed based on a cookie-based analysis of previous user behavior. Of course, no personal data is stored in this process, either. Use of retargeting-technology is made in adherence to valid legal data protection provisions.  Therefore, baby-markt.com cooperates with the Kupona company, which specializes in retargeting technology.
+### 17\. EPOQ
 
-On this website, so-called retargeting-technologies of the Criteo GmbH, KUPONA GmbH, (henceforth called ”provider“) are used to gather information regarding the surfing behavior of visitors to the website. This information is gathered in anonymized form for purposes of advertising and stored in “cookie“-text files on your computer. The provider analyses surfing behavior by means of an algorithm. Afterwards, specific product recommendations can be displayed as interesting, customized advertisement banners on other websites. In no case can this data be used to identify the visitor to this website personally. If you should nonetheless wish to have no personalized advertising banners by babymarkt.de shown to you, you may object to this collection and storage of data for the future. Click on the button displayed in any advertising banner (e.g. “i“) to access the respective website of the provider. There, the systematics of retargeting-technology is explained to you again and the option of signing off (“Opt-out“) is offered. If you sign off with the provider, a so-called “Opt-out“cookie is stored on your computer that prevents display of the provider’s advertising banners in the future. Please note that this signing off can only be conducted from your computer if you do not wish to be shown any personalized advertising banners by baby-markt.com in the future. Additionally, the related “Opt-out“-cookies must not be deleted from your computer.
+Our website uses software technology from epoq internet services GmbH, Am Rüppurer Schloß 1, 76199 Karlsruhe ("epoq"). With epoq's software technology, it is possible for us to display targeted and individual product recommendations on the start, product detail, shopping cart or category page. Product recommendations are displayed based on a cookie-based analysis of previous and current click and purchase behaviour, but no personal data is stored. In these cases, a cookie is stored on your computer or mobile device to collect pseudonymised data about your interests and thus adapt the advertising individually to the stored information. You will be shown advertisements that most likely correspond to your product and information interests. If the information collected is personal, it is processed in accordance with Art. 6 Para. 1 letter f) GDPR on the basis of our legitimate interest in the insertion of personalised advertising and market research. You can permanently deactivate the setting of cookies for advertising preferences by setting your Internet browser so that cookies can no longer be stored on your computer in the future or cookies that have already been stored are deleted. However, deactivating all cookies may mean that some functions on our Internet pages can no longer be executed. 
 
-  
-  
- **13\. Use of Facebook Plug-ins**
+### 18\. RIGHTS OF THE PERSON CONCERNED 
 
-www.baby-markt.com uses Social Plug-ins of Facebook to make the online shop more personal. Among other things, we use the "LIKE"-button. This is a service of the US-American Company Facebook Inc. (1601 S. California Ave, Palo Alto, CA 94304, USA). 
+If your personal data is processed, you are affected within the meaning of the GDPR and you have the following rights against the person responsible:
 
-If you visit a page of www.baby-markt.com that contains such a Plug-in, your browser connects to Facebook and Facebook loads the contents. Your visit to the pages of www.baby-markt.com may therefore possibly be tracked by Facebook, if you have a Facebook account or have already visited a website with Facebook Social Plug-ins. Additionally, Facebook directly receives information from you if you use such a Social Plug-in (e.g. by clicking on the LIKE-button). This is necessary to share information with your friends. Baby-markt.com has no influence over contents of these plug-ins or over transmission of information to Facebook.
+#### 18.1 RIGHT TO DISCLOSURE 
 
-Facebook provides detailed information regarding scope, nature, purpose and processing of your data in their Privacy Policy. An overview of Facebook Plug-ins is available here:<http://developers.facebook.com/docs/plugins/>
+You can ask the person in charge to confirm whether personal data concerning you will be processed by us. 
 
-We declare that we, as providers of the pages, do neither gain knowledge of the contents of data transmitted, nor of its utilization by Facebook. Further information is provided by Facebook’s policy available at http://de-de.facebook.com/policy.php. If you do not wish for Facebook to be able to assign your visit to our websites to your Facebook account, please log-out of your Facebook account.
+If such processing has taken place, you can request the following information from the person responsible: 
 
- **14\. Use of a Web-Analysis-Tool**
+  * the purposes for which the personal data are processed;
+  * the categories of personal data processed;
+  * the recipients or categories of recipients to whom the personal data concerning you have been or are still being disclosed;
+  * the planned duration of the storage of the personal data concerning you or, if specific information on this is not possible, criteria for determining the storage period;
+  * the existence of a right to rectification or deletion of personal data concerning you, a right to limitation of the processing by the controller or a right to object to such processing
+  * Right of appeal to a supervisory authority;
+  * any available information on the origin of the data if the personal data are not collected from the data subject.
 
-This website uses Google Analytics, a web analysis service of Google Inc. (“Google“). Google Analytics uses so-called “cookies“, text files that are stored on your computer and that allow for an analysis of your use of the website. The information regarding your use of this website that is generated by the cookie is usually transmitted to a Google server in the USA and stored there. In case IP-disguise is activated on this website, Google shortens your IP-address beforehand inside member states of the European Union or in other contracting states of the agreement on the European Economic Area.
 
-Only exceptionally, a full IP-address is transmitted to a Google server in the USA and shortened there. On behalf of the operator of this website, Google will use this information to analyze your use of the website, to compile reports on website activities and to provide the operator of this website with further services related to website use and internet use. The IP-address transmitted through Google Analytics from your browser is not joined with other data of Google.
 
-You can prevent cookies from being set by adjustment of the settings of your browser software. However, we would like to inform you that you might not be able to use all functions of the website fully.  Furthermore, you can prevent the collection of data generated by the cookie (relating to your use of the website, including to your IP-address) by Google and the processing of this data by Google. To do so please download and install the browser-plugin available at the following link: <https://tools.google.com/dlpage/gaoptout?hl=en>
+#### 18.2 RIGHT TO RECTIFICATION 
 
-For design appropriate to demand and for optimizing this website, solutions and technologies of econda GmbH (www.econda.de) are used on this website to collect and store anonymized data and usage profiles are generated from this data under use of pseudonyms. For this purpose, cookies may be set that allow for the recognition of an internet browser.
+The data subject shall have the right to obtain from the controller without undue delay the rectification of inaccurate personal data concerning him or her. Taking into account the purposes of the processing, the data subject shall have the right to have incomplete personal data completed, including by means of providing a supplementary statement.
 
-However, usage profiles are not connected to data relating to the carrier of the pseudonym without express consent of the visitor. Especially IP-addresses are disguised immediately after reception, so that assignment of usage profiles to IP-addresses is not possible. Visitors to this website can object to this collection and storage of data for the future at any time. To do so please click here. _http://tools.google.com/dlpage/gaoptout?hl=en._.
+#### 18.3 RIGHT TO RESTRIKTION OF PROCESSING 
 
- **Valid as of: July 2015**
+The data subject shall have the right to obtain from the controller restriction of processing where one of the following applies: 
 
- **babymarkt.de GmbH Data Protection and Security 07/2015**
+  * the accuracy of the personal data is contested by the data subject, for a period enabling the controller to verify the accuracy of the personal data;
+  * the processing is unlawful and the data subject opposes the erasure of the personal data and requests the restriction of their use instead.
+  * the controller no longer needs the personal data for the purposes of the processing, but they are required by the data subject for the establishment, exercise or defence of legal claims or;
+  * the data subject has objected to processing pursuant to 21 Abs. 1 GDPR (1) pending the verification whether the legitimate grounds of the controller override those of the data subject.
+
+
+
+If the processing of personal data concerning you has been restricted, such data may only be processed - apart from being stored - with your consent or for the purpose of asserting, exercising or defending rights or protecting the rights of another natural or legal person or on grounds of an important public interest of the Union or a Member State. If the processing restriction has been restricted according to the above conditions, you will be informed by the person responsible before the restriction is lifted.
+
+#### 18.4 RIGHT TO DELETION 
+
+The data subject shall have the right to obtain from the controller the erasure of personal data concerning him or her without undue delay and the controller shall have the obligation to erase personal data without undue delay where one of the following grounds applies: 
+
+* the personal data are no longer necessary in relation to the purposes for which they were collected or otherwise processed
+* You revoke your consent on which the processing was based pursuant to Art. 6 para. 1 lit. a) or Art. 9 para. 2 lit. a) GDPR, and there is no other legal basis for the processing.
+* You file an objection against the processing pursuant to Art. 21 para. 1 GDPR and there are no overriding legitimate reasons for the processing, or you file an objection against the processing pursuant to Art. 21 para. 2 GDPR.
+* the personal data have been unlawfully processed
+* the personal data have to be erased for compliance with a legal obligation in Union or Member State law to which the controller is subject
+* The personal data concerning you have been collected in relation to information society services offered pursuant to Art. 8 para. 1 GDPR.
+
+##### • Information to third parties 
+
+If the data controller has made the personal data concerning you public and is obliged to delete it pursuant to Art. 17 para. 1 GDPR, he shall take appropriate measures, including technical measures, taking into account the available technology and the implementation costs, to inform data processors who process the personal data that you as the data subject have requested the deletion of all links to this personal data or of copies or replications of this personal data. 
+
+##### • Exeptions
+
+The right to cancellation does not exist insofar as the processing is necessary 
+
+* for exercising the right of freedom of expression and information
+* for compliance with a legal obligation which requires processing by Union or Member State law to which the controller is subject or for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller
+* for reasons of public interest in the field of public health pursuant to Art. 9 (2) (h) and (i) and Art. 9 (3) GDPR 
+* for the establishment, exercise or defence of legal claims.
+
+#### 18.5 RIGHT TO INFORMATION 
+
+If you have exercised your right to have the data controller correct, delete or limit the processing, he/she is obliged to inform all recipients to whom the personal data concerning you have been disclosed of this correction or deletion of the data or restriction on processing, unless this proves impossible or involves a disproportionate effort. The person responsible shall have the right to be informed of such recipients.
+
+#### 18.6 RIGHT TO DATA TRANSFER 
+
+The data subject shall have the right to receive the personal data concerning him or her, which he or she has provided to a controller, in a structured, commonly used and machine-readable format and have the right to transmit those data to another controller without hindrance from the controller to which the personal data have been provided, where: 
+
+  * processing is based on consent pursuant to Art. 6 para. 1 lit. a GDPR or Art. 9 para. 2 lit. a) GDPR or on a contract pursuant to Art. 6 para. 1 lit. b) GDPR and
+  * the processing is carried out by automated means.
+
+
+
+In exercising this right, you also have the right to request that the personal data concerning you be transferred directly from one data controller to another data controller, insofar as this is technically feasible. The freedom and rights of other persons must not be affected by this. 
+
+#### 18.7 RIGHT TO OBJECT 
+
+You have the right to object at any time, for reasons arising from your particular situation, to the processing of personal data concerning you under Article 6(1)(e) or (f) GDPR; this also applies to profiling based on these provisions. The data controller no longer processes the personal data concerning you, unless he can prove compelling reasons worthy of protection for the processing, which outweigh your interests, rights and freedoms, or the processing serves to assert, exercise or defend legal claims. If you object to the processing for direct marketing purposes, the personal data concerning you will no longer be processed for these purposes. You have the possibility to exercise your right of objection in connection with the use of Information Society services by means of automated procedures using technical specifications, notwithstanding Directive 2002/58/EC.
+
+#### 18.8. RIGHT TO REVOKE THE DATA PROTECTION DECLARATION OF CONSENT 
+
+You have the right to revoke your data protection declaration of consent at any time. The revocation of consent shall not affect the legality of the processing carried out on the basis of the consent until revocation.
+
+#### 18.9 AUTOMATED DECISION IN INDIVIDUAL CASES INCLUDING PROFILING 
+
+The data subject shall have the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning him or her or similarly significantly affects him or her. Paragraph 1 shall not apply if the decision:
+
+  * is necessary for entering into, or performance of, a contract between the data subject and a data controller;
+  * is authorised by Union or Member State law to which the controller is subject and which also lays down suitable measures to safeguard the data subject's rights and freedoms and legitimate interests; or 
+  * is based on the data subject's explicit consent. 
+
+
+
+However, these decisions may not be based on special categories of personal data pursuant to Art. 9 para. 1 GDPR, unless Art. 9 para. 2 lit. a) or g) GDPR applies and appropriate measures have been taken to protect your rights and freedoms and your legitimate interests. 
+
+#### 18.10 RIGHT TO COMPLAIN TO A SUPERVISORY AUTHORITY 
+
+Without prejudice to any other administrative or judicial remedy, every data subject shall have the right to lodge a complaint with a supervisory authority, in particular in the Member State of his or her habitual residence, place of work or place of the alleged infringement if the data subject considers that the processing of personal data relating to him or her infringes this Regulation.
+
+The supervisory authority to which the complaint has been lodged shall inform the complainant of the status and results of the complaint, including the possibility of a judicial remedy under Article 78 GDPR. Last updated: May 2018 
