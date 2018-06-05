@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cad-blocks.net privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205093043id_/http%3A//www.cad-blocks.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cad-blocks.net privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606014623id_/http%3A//www.cad-blocks.net/privacy.html) for the most accurate reproduction.*
 
 # cad-blocks.net, Privacy policy and Cookies
 
