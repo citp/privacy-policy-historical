@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bangalinet.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203212925id_/http%3A//bangalinet.com/privacystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangalinet.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605150352id_/http%3A//bangalinet.com/privacystatement.htm) for the most accurate reproduction.*
 
 # Bengali Culture : Bengali Entertainment : Bengali Food : Privacy Statement
 
