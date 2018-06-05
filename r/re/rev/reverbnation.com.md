@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the reverbnation.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220230534id_/https%3A//www.reverbnation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reverbnation.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605225007id_/https%3A//www.reverbnation.com/privacy) for the most accurate reproduction.*
 
 # ReverbNation Privacy Policy
 
-#### Revised as of January 27, 2017
+#### Revised as of May 24, 2018
 
 Welcome to the website ReverbNation.com (the _"Site"_ ) and related platforms, products, and services available on or from the Site (the _"Services"_ ) are owned and operated by eMinor Incorporated d/b/a ReverbNation (together with its affiliates, successors, and assigns hereinafter referred to as _"our"_ , _"we"_ , _"us"_ , or _"ReverbNation"_ ).
 
@@ -43,6 +43,8 @@ We use the information that we collect to develop, deliver, and improve our prod
 ReverbNation uses cookies to store users' preferences and to record session information, for purposes including: (i) ensuring that visitors are not repeatedly offered the same advertisements, to customize newsletter, advertising, and Web page content based on browser type and user profile information; (ii) to help track usage to help us understand which parts of our website are most popular, where our visitors are going, and how much time they spend there; (iii) to make usage of our website even more rewarding as well as to study the effectiveness of our customer communications, and (iv) to customize each visitor's experience and provide greater convenience. 
 
 The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, which we may share with a data provider solely in hashed, non-human readable form. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set -- each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences -- however, you must enable cookies from ReverbNation in order to use most functions on the Site. Please note that ReverbNation may allow third party advertisers that are presenting advertisements on some of our pages to set and access their cookies on your computer. Among other things, these third parties may use cookies, pixel tags and other technologies to enable such third parties to record which ads your browser has loaded and which pages you may have been viewing when the ads were delivered or accessed. Advertisers' use of cookies is subject to their own privacy policies, not the ReverbNation Privacy Policy.
+
+**Website Cookie Preference Tool:** You can exercise preferences about what cookies are served on our Sites by visiting our cookie settings preference center, available here: Cookie Settings. 
 
 #### DO-NOT-TRACK
 
