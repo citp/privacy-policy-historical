@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tacticalshit.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204213124id_/http%3A//www.tacticalshit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tacticalshit.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605061618id_/http%3A//www.tacticalshit.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Tactical Sh*t
+# Privacy Policy -
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Tactical Shit](mailto:customerservice@tacticalshit.com).
 
