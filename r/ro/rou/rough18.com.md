@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rough18.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205164133id_/http%3A//www.rough18.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rough18.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605220350id_/http%3A//www.rough18.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy *** rough18.com
 
