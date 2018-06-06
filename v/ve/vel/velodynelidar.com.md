@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the velodynelidar.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206202115id_/http%3A//www.velodynelidar.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the velodynelidar.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606153508id_/http%3A//velodynelidar.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -57,8 +57,8 @@ We welcome your questions, comments and concerns about privacy at all times. Ple
 For Privacy Policy questions, contact us via email at webmaster@velodyne.com, phone at (408) 465-2800 or via postal mail at:
 
 Velodyne LiDAR, Inc.  
-345 Digital Drive  
-Morgan Hill, CA 95037 
+5521 Hellyer Ave  
+San Jose, CA 95138 
 
 ##### Consent
 
