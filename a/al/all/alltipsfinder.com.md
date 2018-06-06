@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the alltipsfinder.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217172625id_/http%3A//alltipsfinder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltipsfinder.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606034628id_/http%3A//alltipsfinder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | all tips finder
-
-[__  Home](http://alltipsfinder.com/) / Privacy Policy
 
 ### **What information do we collect?**
 
