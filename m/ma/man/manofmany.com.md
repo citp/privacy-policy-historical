@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the manofmany.com privacy policy that was archived on 2017-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170121095014id_/https%3A//manofmany.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manofmany.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606050220id_/https%3A//manofmany.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Man of Many
 
-All images that appear on this website are sourced from the Internet and are deemed to be in the public domain. We claim no credit for any images or videos featured on this site unless otherwise stated. All visual content is copyright to its respectful owners. If you own the rights to any of the images or videos on this site and do not wish for them to appear, please contact us at: [scott@manofmany.com](mailto:scott@manofmany.com)
+All images that appear on this website are sourced from the Internet and are deemed to be in the public domain. We claim no credit for any images or videos featured on this site unless otherwise stated. All visual content is copyright to its respectful owners. If you own the rights to any of the images or videos on this site and do not wish for them to appear, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#770414180303371a161918111a16190e5914181a)
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
