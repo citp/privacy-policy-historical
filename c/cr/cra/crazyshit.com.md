@@ -1,65 +1,60 @@
-> *The following text is extracted and transformed from the crazyshit.com privacy policy that was archived on 2007-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070408104612id_/http%3A//www.crazyshit.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazyshit.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606065256id_/http%3A//www.crazyshit.com/privacy) for the most accurate reproduction.*
 
-# Crazyshit.com's Privacy Statement.
+# Crazy Videos, Video Clips, Funny Videos, Crazy Clips - Crazy Shit!
 
-**Crazyshit.com's Privacy Statement:**  
-Thank you for visiting Crazyshit.com, a C.S. Networks Inc. site. C.S. Networks Inc. has created this statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for the CrazyShit.com website. 
+Your privacy is of utmost importance to us. This Privacy Policy (the "Policy") applies to CrazyShit.com (the "Website"). This document details information regarding the use and disclosure of User Data collected on the Website. As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy to check for any changes.
 
-**The Information We Collect**
+### Adults Only Service
 
-At some C.S. Networks Inc. sites, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our newsletters, or participate in one of our online forums, or become a member of the network. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, credit card information, and information about your interests in and use of various products, programs, and services.
+THIS IS AN ADULTS ONLY SERVICE. We will terminate any accounts which we believe are being used by anyone under the age of eighteen (18) years old or the age of majority in the jurisdiction in which you view the Website; additionally, we reserve the right to report such person to the proper authorities along with all information provided to us by or with respect to such person.
 
-At some other C.S. Networks Inc. sites, you can submit information about other people. For example, you might submit a person's name and e-mail address to send an electronic greeting card and, if you order a giftonline and want it sent directly to the recipient, you might submit the recipient's name and address. The types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address, and telephone number.
+The Website is not intended for persons under 18-years old. You will only access the Website or register if (1) you are at least 18-years old and (2) have reached the age of majority where you live. The Website prohibits all persons who do not meet the age requirements from accessing the Website. Minors must not access the Website or use its services. If you are under 18-years old, you must not submit information to the Website and must leave the Website immediately.
 
-At certain parts of some of our sites, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the site's activities and offerings.
+### Disclosures Made as Necessitated by Law or Safety
 
-We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink).
+All information you provide us with is considered confidential. However, this information may be shared with other third parties as necessary to comply with applicable law, to cooperate with law enforcement and the court system.
 
-**How We Use the Information**
+### Data Collected
 
-We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you.
-
-We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests or when we make changes to our membership agreements, to fulfill a request by you for an online newsletter, or to contact you about your account with us.
-
-We use the information that you provide about others to enable us to send them your request to view a particular page or site.
-
-The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services.
-
-If you choose to submit content for publication, we may publish your screen name and other information you have provided to us.
-
-We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services.
-
-We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request.
-
-Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice.
-
-Certain C.S. Networks Inc. sites does not disclose personally identifiable information to companies whose practices are not covered by this privacy notice (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you. 
-
-Finally, the C.S. Networks Inc. sites covered by this Privacy Policy will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
-
-**Collection of Information by Third-Party Sites and Sponsors**
-
-Some of our sites contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
-
-The C.S. Networks Inc. sites covered by this Privacy Notice sometimes may offer content that is sponsored by or cobranded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. C.S. Networks Inc. has no control over these third parties' use of this information. The C.S. Networks Inc. site will notify you at the time of requesting personally identifiable information if these third parties will obtain such information.
-
-Some of the C.S. Networks Inc. sites covered by this Privacy Notice may use a reputable third party to present or serve the advertisements that you may see at its Web pages. Our privacy policy does not cover any use of information that a third-party ad server may have collected from you. 
-
-**Cookies**
-
-To enhance your experience with our sites, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.
-
-We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g., to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services.
-
-**Registration Forms**  
-Our site's registration form requires users to give us contact information (like their first and last name, and email address). We ask for credit card information over a secure server only. **External Links**  
-This site contains links to other sites. CrazyShit.com is not responsible for the privacy practices or the content of such Web sites. **Security**  
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. **Data Quality/Access**  
-This site gives users the following options for changing and modifying information previously provided: 
-
-  1. You can send email to webmaster@crazyshit.com 
-  2. Users can, at any time, check and/or edit their user profile in our database **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  
-[webmaster@crazyshit.com ](mailto:webmaster@crazyshit.com)
+  * Registration is required for uploading videos and content, and accessing a number of other features. The following personal information is requested at the time of registration: username (required), date of birth (required), and email address (required).
+  * Any personal information or content that you voluntarily disclose or upload online becomes publicly available and can be collected and used by others.
+  * When you visit the Website, we may send one or more cookies to your computer that uniquely identifies your browser session. The Website uses both session cookies and persistent cookies. If you remove your persistent cookie, some of the site's features may not function properly.
+  * When you visit the Website, our servers may record certain information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.
+  * If you contact us by email or other form of communication, we may keep a record of that correspondence.
 
 
+
+Third-party Use of Cookies and Other Tracking Technologies:
+
+Some content or applications on the Website are served by third parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use the Website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
+
+### Uses
+
+  * Your Personally identifiable information submitted to the Website is used to provide to the user the website's features and special personalized features.
+  * Your chosen username is displayed to other Users alongside the content you upload, including videos, comments, etc. 
+  * Any content that you submit to the Website may be redistributed through the internet and other media channels, and may be viewed by the general public.
+  * We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent.
+  * We may use your email address without further consent for non-marketing or administrative purposes (such as notifying you of key website changes or for customer service purposes).
+  * We analyze aggregated user traffic information to help streamline our marketing and hosting operations and to improve the quality of the Website. 
+
+
+
+### Disclosure of Information
+
+If under duty to do so the Website may release data to comply with any legal obligation, or in order to enforce our Terms Of Service and other agreements; or to protect the rights, property or safety of the Website or our subscribers or others. This includes exchanging information with other companies and organizations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms of Service.
+
+Should you deliberately upload any illegal material the Website shall forward all available information to all relevant authorities without notice.
+
+We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
+
+### Links to Other Websites
+
+The Website contains links to other websites. Please be aware that the Website is not responsible for the content or privacy practices of those other websites. The Website encourages its customers to be aware when they leave the Website to read the privacy statements of any other website that collects personally identifiable information.
+
+### DMCA Takedown Requests
+
+The Website complies with the Digital Millennium Copyright Act (DMCA). If you reasonably believe that your copyrighted work has been used or posted by a third party without your consent, you may follow the instructions on our DMCA page on how to report it.
+
+###  Changes to Privacy Policy
+
+The Website will post any changes it makes to this policy on this page. You are responsible for frequently visiting the Website and this policy to check for any changes.
