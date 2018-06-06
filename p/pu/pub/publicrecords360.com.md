@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the publicrecords360.com privacy policy that was archived on 2017-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170825093254id_/http%3A//www.publicrecords360.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicrecords360.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606195527id_/https%3A//www.publicrecords360.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for PublicRecords360.com
 
 Effective July 2012
 
-PublicRecords360 respects your right to privacy and we are committed to protecting it. This statement discloses the information practices for the web pages associated with the domain www.PublicRecords360.com (the "Website"), including what type of personal information we gather and track, how we use this personal information, and with whom we share the personal information.
+PublicRecords360 respects your right to privacy and we are committed to protecting it. This statement discloses the information practices for the web pages associated with the domain www.PublicRecords360.com (the "Website"), including what type of personal information we gather and track, how we use this personal information, and with whom we share the personal information. 
 
 Personal Information
 
 In general, you can visit us on the Internet without telling us who you are and without giving any personal information about yourself. However, you may choose to give us personal information in a variety of situations. For example, you may want to give us information such as your name and address, phone number or e-mail address so we may correspond with you, process an order, or provide you with a subscription or service. You may give us your credit card details to buy a product or service from us, or provide us a description of your education and work experience in connection with a job opening at PublicRecords360 for which you wish to be considered. The purpose of this Policy is to inform you of how we will use your information, before you provide it. If you tell us that you do not want us to use this information in this manner or to make further contact with you beyond fulfilling your requests, we will respect your wishes. If you give us personal information about somebody else, such as a spouse or associate, we will assume that you have their permission to do so.
 
-How to Remove your Information from the PublicRecords360 Public Records Databases
+How to Remove your Information from the PublicRecords360 Public Records Databases 
 
 Public records are available from the official public records custodian or repository to anyone who requests them. In order for any database of public records to be useful, the databases must contain all of the information in the public records offices. If you have a compelling privacy or security issue, you may wish to contact the official custodians of those public records that contain sensitive information about you, such as your county's land records office, to determine how to remove your information from the public record. (The process of having public records sealed typically requires a court order.) This process will ensure that the information is not available to the public, to us, or to any other public records information provider.
 
@@ -22,11 +22,9 @@ In order for us to suppress or opt out your personal information from appearing 
 
 [Submit your opt out request online](https://web.archive.org/optout.html), or fax to 425-974-6194. Allow 7-14 days to process your request. We will only process opt out requests received by online submission, fax, or mail and no request will be processed without complete information (i.e., name, address and date of birth). Requests for opt out will not be processed over the phone or via email.
 
-[](https://www.truerep.com/?refer=8694)
-
 How we Use and Share Personal Information
 
-The following paragraphs describe in more detail how we may use the personal information you provide to us and with whom we may share it.
+The following paragraphs describe in more detail how we may use the personal information you provide to us and with whom we may share it. 
 
 Fulfilling your Transaction Request. If you request something from this Website, for example, a product or service, a callback, or specific marketing materials, we will use the information you provide to fulfill your request. To help us do this, we will share information with service providers to help us bring you the products and services we offer, either directly as the provider of such product or service, or indirectly such as financial institutions for credit card processing, email service providers, outsourced Customer Care providers, survey providers, or postal service providers. These third parties are prohibited from using your personally identifiable information for any other purpose. We also require these third parties to maintain your personal information in the strictest confidence. In addition, we will give the information you provide to our advertisers from whom you have indicated you want to purchase a product or service.
 
