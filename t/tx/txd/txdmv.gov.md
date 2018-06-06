@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the txdmv.gov privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230073958id_/https%3A//www.txdmv.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the txdmv.gov privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606203735id_/https%3A//www.txdmv.gov/privacy-policy) for the most accurate reproduction.*
 
 # TXDMV.GOV - Privacy Policy
 
