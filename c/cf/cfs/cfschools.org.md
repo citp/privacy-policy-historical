@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cfschools.org privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205111415id_/http%3A//www.cfschools.org/notices/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfschools.org privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606025908id_/http%3A//www.cfschools.org/notices/privacy-policy) for the most accurate reproduction.*
 
 # Cedar Falls Community School District
 
