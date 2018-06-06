@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowtv.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206220116id_/http%3A//www.wowtv.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowtv.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606153354id_/http%3A//wowtv.com/privacy.aspx) for the most accurate reproduction.*
 
 # WOWtv | Privacy Policy
 
