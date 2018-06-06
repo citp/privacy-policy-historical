@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hivewire3d.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204220430id_/http%3A//hivewire3d.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hivewire3d.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606085201id_/http%3A//hivewire3d.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -92,6 +92,8 @@ By consenting to this Policy, you confirm that your command and knowledge of Eng
 
 For persons in European Union countries, as used herein, terms such as "personal information" refer to "personal data" as defined by the Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data ("Directive").  We will not collect any personal data from you unless you provide it under the terms of this Policy.  By using HiveWire 3D Services, you agree that we may transfer your personal information outside the European Union in connection with the purposes stated in this Policy.  Your personal data will be transferred to the United States (and/or other non-EU jurisdictions, as applicable).
 
+This privacy policy has been updated to comply with the EU’s General Data Protection Regulation (GDPR) and this policy describes how we protect personal information that is transferred outside of the EU. Please be aware that the privacy laws and standards in certain countries, including the rights of authorities to access your personal information, may differ from those that apply in the country in which you reside. We will transfer personal information only to countries to which we are permitted by law to transfer personal information and we will continue to ensure that your personal information is appropriately safeguarded.
+
 back to the top
 
 While HiveWire 3D takes precautions against possible breaches in its web sites and customer databases, no web site or Internet transmission is completely secure.  Consequently, HiveWire 3D cannot guarantee that unauthorized access, hacking, data loss, or other breaches will never occur.  Your use of the HiveWire 3D sites and Services is at your own risk.  HiveWire 3D urges you to take steps to keep your personal information safe by memorizing your password or keeping it in a safe place (separate from your account information), logging out of your user account, and closing your web browser whenever you finish your play session or leave your computer in a public area.
@@ -126,4 +128,4 @@ HiveWire 3D reserves the right to change this Policy at any time by notifying re
 
 back to the top
 
-This Privacy Policy was last updated: June 19, 2013.
+This Privacy Policy was last updated: May 24, 2018.
