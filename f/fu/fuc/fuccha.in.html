@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fuccha.in privacy policy that was archived on 2017-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171206135839id_/http%3A//www.fuccha.in/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fuccha.in privacy policy that was archived on 2018-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180606145535id_/http%3A//www.fuccha.in/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head>
 <meta http-equiv="Pragma" content="no-cache">
@@ -22,20 +22,8 @@
    
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2.0, minimum-scale=1, user-scalable=no">
 <style>
-@font-face {
-  font-family: 'Droid Sans';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Droid Sans Regular'), local('DroidSans-Regular'), url(http://fonts.gstatic.com/s/droidsans/v8/s-BiyweUPV0v-yRb-cjciC3USBnSvpkopQaUR-2r7iU.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'Droid Sans';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Droid Sans Bold'), local('DroidSans-Bold'), url(http://fonts.gstatic.com/s/droidsans/v8/EFpQQyG9GqCrobXxL-KRMfEr6Hm6RMS0v1dtXsGir4g.ttf) format('truetype');
-}
 </style>
-<!--<link href="//fonts.googleapis.com/css?family=Droid+Sans:400,700&?id=2033431298" rel="stylesheet">-->
+<!--<link href="//fonts.googleapis.com/css?family=Droid+Sans:400,700&?id=1236842800" rel="stylesheet">-->
 <link rel="icon" href="http://www.fuccha.in/assets/site/images/favcon.png" type="image/png">
 
 <!-- FONT AWESOME AND GOOGLE FONTS -->
@@ -59,7 +47,7 @@
 
 <link href="http://www.fuccha.in/assets/site/css/flexslider.css" type="text/css" rel="stylesheet">
 <!-- CUSTOM CSS -->
-<link href="http://www.fuccha.in/assets/site/css/reset.css?id=70889874" type="text/css" rel="stylesheet">
+<link href="http://www.fuccha.in/assets/site/css/reset.css?id=843913275" type="text/css" rel="stylesheet">
 <link href="http://www.fuccha.in/assets/site/css/style.css" type="text/css" rel="stylesheet">
 <link href="http://www.fuccha.in/assets/site/css/custom.css" type="text/css" rel="stylesheet">
 <link href="http://www.fuccha.in/assets/site/css/responsive.css" type="text/css" rel="stylesheet">
@@ -1310,6 +1298,7 @@ function compare_college_toggel(cmpVal)
                                                                                             <option value="2017">2017</option>
                                                                                             <option value="2018">2018</option>
                                                                                             <option value="2019">2019</option>
+                                                                                            <option value="2020">2020</option>
                                             
                                         </select>
                                         <!--<input type="text" class="form-control" name="s_graduation_year" value="" placeholder="Enter graduation year" id="s_graduation_year" required>-->
@@ -2147,7 +2136,7 @@ $(function () {
   
   $(document).scroll(function () {
     var pTop = jQuery(window).scrollTop();
-	
+	console.log("aya");
     var scrDiv = $('#scroll_div');
 if (scrDiv.length) {
     oTop = jQuery('#scroll_div').offset().top - window.innerHeight;
@@ -2157,8 +2146,9 @@ if (scrDiv.length) {
 
     if( pTop > oTop ){
     // downscroll code
-      id = id+','+jQuery('#scroll').attr('data-id');
-      cat_id = jQuery('#scroll').attr('data-cat');
+       id = id+','+jQuery('#scroll').attr('data-id');
+       cat_id = jQuery('#scroll').attr('data-cat');
+    
 
       // var newUrl = jQuery('#scroll').attr('data-url');
       // window.history.pushState("string", "Title", newUrl);
