@@ -1,115 +1,212 @@
-> *The following text is extracted and transformed from the kwm.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128164947id_/http%3A//www.kwm.com/en/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kwm.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607002441id_/http%3A//kwm.com/en/privacy-statement) for the most accurate reproduction.*
 
 # KWM | Privacy Statement
 
-**You should read this statement carefully to understand our practices in relation to information which relates to living individuals (“personal information”) and how we use personal information.**
+## 1\. Introduction
 
-## Introduction
+King & Wood Mallesons (‘KWM”) values your privacy and is committed to protecting your personal data. The following notice sets out how we collect and use your information, the rights you have in relation your information and the legal basis upon which we rely on to process your information.
 
-This website is provided by KWM Service Limited, which as the data controller in relation to personal information appearing on or collected using this website is notified under the United Kingdom Data Protection Act 1998, and is hosted by third parties using servers located in the People’s Republic of China and in the United Kingdom. The purpose of this statement is to give you information on the purposes for which King & Wood Mallesons uses personal information so that that use is fair and to give you information on the transfer of personal information between members of the King & Wood Mallesons network in different locations and other information relating to the use of personal information.
+Personal data includes any information about an individual from which that person can be identified. It does not include data where the identity has been removed (anonymous data). 
 
-Personal information is received by us in various ways, including through the use of this website.  This statement relates to personal information collected by King & Wood Mallesons other than personal information held in that capacity in relation to King & Wood Mallesons’ partners, lawyers and employees, current and past, and to people who are applying for a position with King & Wood Mallesons, for which separate statements apply.
+This Privacy Notice should be read together with our [terms of use](http://www.kwm.com/en/legal-notices), [cookies statement](http://www.kwm.com/en/privacy-statement/cookie-policy), and any location specific legal notice. For KWM workers in the EU, please refer to our Privacy Notice for Employees, Workers and Contractors.
 
-This website contains links to third party websites.  If you follow a link to these websites please note that these websites are likely to have their own privacy policies and we cannot be held responsible for such third party privacy policies, the content of the website or for the personal information protection processes of those third parties. 
+## 2\. Data Controller - Who we are
 
-We reserve the right to modify this privacy statement or any part of it at any time and any changes will be posted on the Site. 
+KWM is an international law firm. It has offices in a number of locations across the world, principally in Asia, Australia, Europe and North America. Further details can be found on our [website](http://www.kwm.com/). Our contact details can be found in section 12 of this notice. When you engage us to provide services for you, we will let you know which KWM entity will be the “data controller” for your personal data.
 
-## About King & Wood Mallesons and this website
+## 3\. Explaining the legal basis we rely upon to process your personal information
 
-Information about the King & Wood Mallesons network generally is given in the website’s [terms of use & legal notices](https://web.archive.org/en/legal-notices), and in the location specific legal notices which include details of any data protection officer or privacy officer or equivalent in that location. In this Privacy Statement, all references to “King & Wood Mallesons”, “KWM”, "the firm", "we" or "us” means, except where clearly stated, one or more of the member firms in the King & Wood Mallesons network and their associated service companies, or to the King & Wood Mallesons network itself, and include KWM Service Limited. 
+Data protection laws set out various grounds on which an organisation may lawfully collect and process your personal data. These include:
 
-King & Wood Mallesons has offices in a number of locations across the world, principally in Asia, Australia, Europe and North America; the laws applicable in the various locations make different provision for the protection of personal information.  Consent to use, and in particular to transferring the information outside the location of receipt, is often a key factor in determining the extent to which we can use the personal information you provide, although those laws in some locations do allow certain use of personal information without consent, including use that is necessary for the purpose of, or in connection with, any legal proceedings (including prospective legal proceedings), for the purpose of providing or obtaining legal advice, or is otherwise necessary for the purposes of establishing, exercising or defending legal rights. Consent can be express or in some cases implied in or from the circumstances in which the information is supplied.  We will ask for express consent where that is required under applicable law and in certain other circumstances. We may use personal information without consent of the relevant individual where that is permitted by applicable law.
+### Consent
 
-## Personal information we may collect 
+We can collect and process your data with your consent. For example, when we are processing sensitive or special personal data, such as information relating to your health or religious beliefs. In many circumstances, if we rely on your consent as our legal basis for processing your personal data, you have the right to withdraw that consent at any time.
 
-We usually collect the following kinds of personal information (which can include sensitive information):
+### Contractual obligations
 
-  * Name, address, age, occupation, qualifications/professional membership, and other contact information
-  * Information specific to the legal advice sought by a client or arising in the course of giving legal advice
-  * Interests in areas of legal practice or events 
-  * Information about people’s dealings with us or our clients, including about visits made to our offices or to events with which we are involved
+In many circumstances, we require your personal data to comply with contractual obligations. For example, we collect your identity and contact information when we verify you as a new client. If you are unable to provide such information to us, we may not be able to perform the contract we have with you or your organisation or enter into a contract with you or your organisation. 
 
+### Legal compliance
 
+If the law requires us to, we may need to collect and process your personal data. For example, we may require your personal data to comply with anti-money laundering legislation or laws relating to the provision of legal services. If you are unable to provide such information to us, we may not be able to perform the contract we have with you or your organisation or enter into a contract with you or your organisation. 
 
-We collect personal information (through use of this website and from communications and other interactions with us) directly from individuals and from clients and others we encounter in the ordinary course of business.  We may also collect from third parties (eg governmental, law enforcement and other public authorities, and commercial information suppliers) publicly available information and other personal information which is not publicly available information. 
+### Legitimate interests
 
-In relation to this website information we may collect from you includes:
+In many situations, we require your personal data to pursue our legitimate interests in a way which might reasonably be expected as part of running our business and which does not materially impact on your rights, freedoms or interests. For example, it may be in our legitimate interests to use your personal information for marketing purposes to assist us with the growth of our business.
 
-  * Details of your visit to the website including, but not limited to, traffic data, location data, weblogs and other communication data as well as the web pages and resources you access
-  * Information you submit when completing forms on the website including (but not limited to) when you sign up to an event or to receive our newsletters or other communications, or when you report a problem with the website or its content
-  * Cookies and tracking
-  * Record of your correspondence with us
-  * Results of any surveys we carry out on the site
+Data protection laws do vary across the different jurisdictions in which KWM operates. For example, in Australia, organisations must not collect personal information unless the information is reasonably necessary for one or more of the organisation’s functions or activities, subject to some exceptions. Please contact us if you require details of the specific legal ground we are relying on to process your personal data.
 
+## 4\. Personal data that we collect - What, when & why
 
+We may collect personal data from you in the course of our business, including when you engage our legal or other services, through your use of our website, when you contact or request information from us, or as a result of your relationship with our staff and clients. 
 
-Personal information we collect will not be kept for longer than is necessary for the purpose or purpose it was collected.  We are subject to legal and regulatory requirements to retain for significant periods client files which will include personal information.
+The personal information that we process includes, but is not limited to:
 
-## The purpose(s) for which personal information will be used
-
-King & Wood Mallesons uses personal information only in accordance with applicable law in the relevant location where the information is used.  Use as mentioned in this statement is always subject to relevant applicable law.
-
-We use personal information (including sensitive information), including transferring it to another location, for the purposes for which it was collected and for the following purposes:
-
-  * Where that is necessary for the purpose of, or in connection with, any legal proceedings (including prospective legal proceedings), for the purpose of providing or obtaining legal advice, or is otherwise necessary for the purposes of establishing, exercising or defending legal rights, or is necessary in order to protect the vital interests of the individual to whom the information relates (in relation to any matter on which we are giving legal advice, personal information may include personal information relating to the client or the client’s counterparty and their and their advisers’ owners, officers, employees and associates (and in the case of a client who is an individual, his or her family members));
-  * To provide legal services (and associated consultancy and advisory services) to our clients, to manage and account for those services, and to improve those services;
-  * To manage our relationships with our clients and suppliers and with businesses and others who we believe might become clients or suppliers;
-  * To promote King & Wood Mallesons to our clients and individuals who may be interested in our services either for the business with which they are associated or personally and to provide them with information about legal developments, events or other products or services that may interest them, by way of direct marketing and otherwise;
-  * To facilitate our internal business operations, including to fulfil our legal requirements and professional obligations, to support and manage our employees, to protect our property and premises, to prevent and investigate crime or possible crime, and to provide information to external service providers so that they can provide financial, administrative or other services in connection with the operation of our business;
+  * Contact information, such as your name, the company you work for, your title, position, your relationship to a person, your postal address, email address and phone number(s);
+  * Identification and background information provided by you or collected as part of our business acceptance processes, this may include your full name, photographic identification and gender;
+  * Financial information, such as bank account and payment card details;
+  * Technical information, such as information collected from your visits to our website;
+  * Information you provide to us for the purposes of attending meetings and KWM events, including dietary requirements;
+  * Personal information provided to us by or on behalf of our clients or generated by us in the course or providing services to them.
 
 
 
-and to communicate with others for one of more of those purposes.
+We collect your personal information for a number of reasons. These may be to:
 
-The website information we hold about users may be used in the following ways: 
-
-  * To ensure that content from our site is presented in the most effective manner for the user and for the user’s computer
-  * To provide the user with information, services or invitations to events that the user requests from us or that we think may interest the user
-  * To allow the user to participate in interactive features of our service when the user chooses to do so
-
-
-
-You may withdraw your consent to receive marketing materials from us by contacting us.
-
-In using personal information (including sensitive information) we may disclose it:
-
-  * Subject to our professional obligations, to any person where necessary or desirable in connection with our provision of legal services, such as to the client, courts and tribunals, governmental or regulatory authorities, law enforcement agencies, or other partners or advisors (including where we share information between offices in the King & Wood Mallesons network)
-  * Within King & Wood Mallesons
-  * On a confidential basis to external service providers (in any of the locations in which we have offices) so that they can provide financial, administrative or other services in connection with the operation of our business
-  * As required by law subject to our professional obligations, as permitted by applicable law and/or with consent of the relevant individual if required
+  * help us deliver our legal services;
+  * confirm your identity;
+  * develop and market new services;
+  * comply with any applicable law or court order;
+  * enforce our agreements with you;
+  * recruit new employees.
 
 
 
-## Where we use and store personal information 
+### Online data collection – KWM website
 
-King & Wood Mallesons will use personal information supplied in one location in another location where a member of the King & Wood Mallesons network or a person processing the information on its behalf is located.  We will also use personal information which we hold and which is relevant in proceedings before any court or tribunal wherever located.  Persons supplying personal information to or within the European Union should note that this is likely to involve the transfer of their personal information to places outside the European Economic Area which may not ensure an adequate level of protection for the rights and freedoms of individuals in relation to the processing of personal information. 
+#### Marketing Related Personal Data Processing
 
-In particular in relation to this website, users should note that the website servers are located in the People’s Republic of China and in the United Kingdom so that if they provide personal information it will be received in those places and where information is specifically requested normally by the server in the United Kingdom and then shared with the relevant King & Wood Mallesons offices.
+We may collect information from you online in a number of ways, such as through the use of our [website](http://www.kwm.com/). Certain sections of our website invite you to [request publications](http://www.kwm.com/en/subscribe-to-kwm-publications), newsletters and alerts, subscribe to receive invitations to events, seminars and webinars, take part in client surveys and to receive firm announcements. If you do so, we may collect your name, business email address, job title, organisation name and company address. We consider that the collection of this personal data is necessary to pursue our legitimate interests in a way which might reasonably be expected as part of operating and growing our business and which does not materially impact on your rights, freedom or interests.
 
-## Information security
+####  Recruitment 
 
-We take reasonable steps to protect all information which we hold (including personal information) from misuse, loss, unauthorised access, modification or improper disclosure.
+In some of the jurisdictions in which KWM operates, you are required to complete an online job application form (via the [careers section](http://careers.mallesons.com/caw/en/listing/) of the KWM website) which allows you to provide us with information relating to your contact details, education, employment history and similar matters. This allows our hiring team to make an informed decision as to whether to proceed with your application. We consider that the collection of this personal information is necessary to pursue our legitimate interests in a way which might reasonably be expected as part of running our business and which does not materially impact your rights, freedom or interests. We may also require your personal data to enter into a contract with you. We will not process any sensitive or special personal information unless we are able to do so under relevant legislation or with your explicit consent. 
 
-## Use of Cookies 
+#### Automated technologies or interactions 
 
-We use cookies to monitor your use of this website, to observe behaviour, compile aggregate data and provide you with a more effective service.  "Cookies" are small text files created and stored on your hard drive by your internet browser software, in order to hold relevant information about the web page you are currently viewing. Users of this website will have been asked about the use of cookies when they first used the website. 
+As you interact with our website, we may automatically collect technical information about your equipment, browsing actions and patterns. We collect this data by using cookies, server logs and other similar technologies. We may also receive technical data if you visit other websites employing our cookies including, analytics providers such as Google based outside the EU; advertising networks based outside the EU; and search information providers based inside or outside the EU. We consider that the collection of this information is necessary to pursue our legitimate interests in a way which might reasonably be expected (eg. to analyse how our clients use our services, to develop our services and grow our business) and which does not materially impact your rights, freedom or interests. Please refer to our [cookies policy](http://www.kwm.com/en/privacy-statement/cookie-policy) for further information.
 
-Most browsers have a facility that will allow you to disable cookies altogether; please refer to your browser’s help menu to find out how to do this. While you will still be able to browse most of this website with cookies disabled, certain features may not be available. 
+### “Off-line” data collection
 
-For detailed information on the cookies we use and the purposes for which we use them see our [Cookie Policy](https://web.archive.org/en/privacy-statement/cookie-policy).
+We use different methods to collect personal data from you and about you. These may be through direct interactions (such as when you provide us with your business card at a meeting or event), from third-party sources (such as tax authorities) or from publicly available sources.
 
-## Access, changes and complaints
+KWM is primarily instructed by corporate entities, rather than individual clients. However, as part of these instructions from corporate entities, we process personal data relating to, but not limited to, our client’s workers, opponents or vendors. For example, if we are providing advice to a client relating to the acquisition of another company, we may process personal information relating to the purchaser’s employees as well as the seller’s employees. In circumstances such as these, you may provide us with the personal data of individuals who are not aware of the processing of their personal data. In these situations we may not have direct contact with individuals whose personal data we are processing. For the purposes of maintaining client confidentiality for example, it may not be appropriate for us to provide them with a privacy notice that sets out how we process their personal data. We consider that the processing of this information is necessary to pursue our legitimate interests in a way which is to be expected, to comply with our legal obligations and to perform our contractual obligations.
 
-An individual may ask us to provide a copy of the personal information we hold about him or her.  We will respond if and to the extent required by applicable law.  If there is no applicable law requirement to respond then subject to applicable law and regulation, we will respond if such disclosure is fair and reasonable (although in this case we may refuse access where we are not permitted to so disclose or for any other reason that is itself fair and reasonable).  We reserve the right to make a small administrative charge to cover our costs of doing this. 
+#### Anti-Money laundering, anti-terrorism, fraud and other background checks for new clients
 
-If an individual believes any personal information relating to him or her that we hold is incorrect he or she should contact us to correct it.
+There are laws and regulations that we are required to comply with when we take you on as a new client or open a new matter for you. In order to fulfil our legal obligations, we are obliged to verify the identity of new clients, and in some circumstances, existing clients. In some circumstances we may decline to, or may not be permitted to, proceed to act until such procedures have been completed. We consider that the legal basis for this processing is to perform contractual obligations and to comply with legal or regulatory obligations that we are subject to.
 
-You may also submit to us (see contact details below) a written complaint about how we handle your personal information. If you are not satisfied with our handling of your complaint or we have not replied to you within a reasonable period of time, then you may be entitled under applicable law to make a complaint to the relevant regulator.
+## 5\. How we protect your data
 
-## Contact us
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place appropriate technical, physical and managerial procedures to safeguard and protect your personal data. We regularly monitor our system for possible vulnerabilities and attacks, and we carry out penetration testing to identify ways to further strengthen security.
 
-In relation to this Privacy Statement or the use of your personal information please contact the relevant King & Wood Mallesons contact as set out where required on the location specific legal notices pages.
+We limit access to your personal data to those employees, agents, contractors and other third parties on a “need to know” basis. We have procedures in place to identify and respond to data security breaches. We will notify you and any data protection authority of a breach where we are legally required to do so.
 
-Alternatively please contact the General Counsel of King & Wood Mallesons in Australia at Level 61, Governor Phillip Tower, Farrer Place, Sydney NSW 2000, Australia, T +61 2 9296 2000 or email [general.counsel@au.kwm.com](mailto:%20general.counsel@eu.kwm.com). In relation to personal information on or collected through this website KWM Service Limited has appointed KWM Europe LLP of Octagon Point, St Martins Court, 5 Cheapside, London, EC2V 6AA, UK as its representative in the United Kingdom for the purposes of the United Kingdom Data Protection Act 1998. 
+## 6\. How long will we keep your personal data?
 
-KWM Service Limited can be contacted at 13/F Gloucester Tower, The Landmark, 15 Queen’s Road Central, Hong Kong.
+Whenever we collect or process your personal data, we’ll only keep it for as long as is necessary for the purpose for which it was collected, subject to satisfying any legal, accounting or reporting requirements.  
+KWM has a document retention and deletion policy. At the end of any retention period, your data will either be deleted completely or anonymised (for example, by aggregation with other data so that it can be used in a non-identifiable way for statistical analysis and business planning).
+
+In some circumstances, you can ask us to delete your data.
+
+## 7\. Who do we share your personal data with?
+
+KWM may share your personal data with a number of third parties (who may act as “data processors” or “joint data controllers”) in the course of providing our services. These may include, but are not limited to:
+
+  * Insurers;
+  * IT service providers;
+  * Barristers;
+  * Translators;
+  * Various professional experts, including accountants and tax advisers;
+  * Document management services;
+  * Regulators or tax authorities.
+
+
+
+We employ the services of third parties to assist us with website hosting. We use a company [Oktopost](https://www.oktopost.com/) to manage our social media communications across multiple channels (including Twitter, LinkedIn and Facebook). Oktopost processes and stores data on the Amazon Web Services (“AWS”) servers that it licenses. From August 2018, we will be installing tracking scripts on our website that will allow us to attribute web browsing activity and social media engagement with a contact record in our customer records management system, OnePlace.
+
+In relation to the recruitment of new workers, KWM use a third party provider, [PageUp](https://www.pageuppeople.com/) for certain aspects our recruitment activities in some jurisdictions.
+
+KWM requires that all third parties that act as “data processors” for us provide sufficient guarantees to implement appropriate technical and organisational measures, only process personal data for specified purposes and have committed themselves to confidentiality.
+
+## 8\. Where your data may be processed
+
+To facilitate our global operations, KWM may transfer, store and process your information within our group of law firms around the world. A list of countries in which we operate can be found on our [website](http://www.kwm.com/).
+
+For those individuals residing in the European Economic Area (EEA), this may sometimes involve the transferring of your personal information out of the EEA. Laws in these countries may differ from the laws applicable to your country of residence. Where we transfer, store and process your data outside of the EEA we have ensured that appropriate safeguards are in place to ensure an adequate level of data protection. This may be an adequacy decision of the European Commission confirming an adequate level of data protection in the respective non-EEA country or an agreement on the basis of the EU Model Clauses (a set of clauses issued by the European Commission). Further information on these [EU Model Clauses](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32004D0915) and the rights they provide to data subjects can be found on the European Commission website.
+
+Please contact us if you require further information on the specific mechanism used by us when transferring your personal data outside of the EEA.
+
+#### Personal data collected on KWM Website
+
+The KWM website is hosted on Microsoft Azure servers in Mainland China and Hong Kong. We use a third party supplier, Avanade, who support the hosting and maintenance of the website application, Sitecore. Personal data that you provide us with on our website (such as a request for newsletters) is transferred directly to our Australian and Hong Kong customer records management system.
+
+## 9\. Direct marketing
+
+There are several ways you can stop receiving direct marketing communications from us. Click the ‘unsubscribe’ or ‘opt-out’ link in any email communication that we send you, or email us at [privacy.officer@au.kwm.com](mailto:privacy.officer@au.kwm.com) . We will then stop any further marketing related emails from KWM. Please note that you may continue to receive communications for a short period after changing your preferences while our systems are fully updated. In relation to any third-party marketing, we will get your express opt-in consent before we share your personal data with any company outside KWM for any marketing purposes.
+
+## 10\. What are your rights over your personal data?
+
+You have a number of rights in relation to the personal data that we hold about you. These rights are subject to certain exemptions and do differ across the jurisdictions in which KWM operates.
+
+### Request access to the personal data we hold about you 
+
+Subject to any applicable exceptions, we will provide you with a copy of your personal data within the timescales set out in relevant legislation. For EU residents, we will do this for no fee, in accordance with applicable legislation.
+
+### Right to rectification 
+
+If the information we hold about you is inaccurate, you have the right to have this information rectified. 
+
+### Right to erasure / ‘Right to be forgotten’
+
+You can ask us to delete or remove your information in certain circumstances. For EU residents, whenever you have given us your consent to use your personal data, you have the right to change your mind at any time and withdraw that consent. In cases where we are processing your personal data on the basis of our legitimate interests, you can ask us to stop processing your data for reasons connected to your individual situation. We must then do so unless we believe we have a legitimate overriding reason to continue processing your personal data.
+
+### Right to data portability
+
+In certain circumstances, you may have the right to obtain your personal data in a structured, commonly used and machine readable format and to reuse it elsewhere or ask us to transfer it to a third party of your choice. 
+
+### Right to object
+
+In certain circumstances, you have a right to object to processing being carried out by us. Where personal data is being processed for direct marketing purposes, you have a right to object at any time
+
+### Rights in relation to automated decision-making and profiling
+
+In certain circumstances, you have a right not to be subject to a decision which is based on automated processing where the decision will produce a legal effect or a similarly significant effect on you.
+
+To protect the confidentiality of your information, we will require you to verify your identity before proceeding with any request. If you have authorised a third party to submit a request on your behalf, we will ask them to prove they have your permission to act.
+
+## 11\. Links to third party websites
+
+Our website may contain links to third party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. If you follow a link to any third party website, please be aware that these websites have their own privacy notices or policies and we do not accept any responsibility or liability for their policies.
+
+## 12\. Contact us
+
+We hope this Privacy Notice has been helpful in setting out the way we handle your personal data and your rights to control it. This Privacy Notice sets out most of your rights under relevant laws, but not necessarily every right you have. 
+
+If you have any concerns, requests, complaints or questions that haven’t been covered, please contact our Group Data Compliance Officer who will be pleased to help you:
+
+Email us on [privacy.officer@au.kwm.com](mailto:privacy.officer@au.kwm.com), or write to us at: 
+
+**KWM Group Data Compliance Officer, Octagon Point, St Martins Court, 5 Cheapside, London EC2V 6AA, United Kingdom**
+
+or
+
+**KWM Australia, Level 61, Governor Phillip Tower, 1 Farrer Place, Sydney NSW 2000, Australia**
+
+## 13\. Complaints
+
+You have a right to make a complaint to the relevant data protection authority (“DPA”) at any time. We would appreciate the chance to understand your concerns in the first instance before your contact the DPA however.
+
+### Data Protection Authorities
+
+**United Kingdom:** Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF
+
+**Germany:** Die Bundesbeauftragte für den Datenschutz und die Informationsfreiheit - Husarenstr. 30 - 53117 Bonn
+
+**Belgium:** Commissie voor de bescherming van de persoonlijke levenssfeer, Rue de la Presse 35, 1000 Brussels
+
+**Spain:** Agencia Espanola de Proteccion De Datos - C / Jorge Juan, 6. 28001 - Madrid
+
+**Italy:** Garante per la Protezione dei Dati Personali, Piazza di Monte Citorio, 121 – 00186 Roma
+
+### Rest of World
+
+**Australia:** Office of the Australian Information Commissioner (OAIC), GPO Box 5218, Sydney, NSW 2001
+
+**Hong Kong:** Privacy Commissioner for Personal Data, 12/F, Sunlight Tower, 248 Queen’s Road East, Wanchai, Hong Kong
+
+## 14\. Changes to this Privacy Notice and your duty to inform us of any changes to your personal data 
+
+This Privacy Notice was last updated on 24 May 2018. Previous versions can be obtained by contacting us. Should any substantive or material change be made to this Privacy Notice, we will notify you. 
+
+It is important that the personal data that we hold about you is accurate and current. Please keep us informed if any of the personal data you have provided us with changes during your relationship with us.
