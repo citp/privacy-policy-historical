@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talkcorporation.com privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917104911id_/http%3A//www.talkcorporation.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkcorporation.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606113604id_/http%3A//talkcorporation.com/policy.html) for the most accurate reproduction.*
 
 # Welcome to Talktelecom Corporation - Talkcorporation.com
 
