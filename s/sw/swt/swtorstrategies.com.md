@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swtorstrategies.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206105221id_/http%3A//www.swtorstrategies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swtorstrategies.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606025338id_/http%3A//www.swtorstrategies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,4 +26,4 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 
 AdSense Privacy Policy Provided by [JenSense](http://www.jensense.com/)
 
-(Visited 20,098 times, 1 visits today)
+(Visited 20,695 times, 2 visits today)
