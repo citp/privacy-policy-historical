@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manualnguide.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203144615id_/http%3A//www.manualnguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manualnguide.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606112309id_/http%3A//www.manualnguide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
