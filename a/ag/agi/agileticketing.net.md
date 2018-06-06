@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the agileticketing.net privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201134702id_/http%3A//www.agiletix.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agileticketing.net privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606160238id_/http%3A//www.agiletix.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement - Agile Ticketing Solutions
 
 Agile Ticketing Solutions is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Agile Ticketing Solutions Web site and governs data collection and usage. By using the Agile Ticketing Solutions website, you consent to the data practices described in this statement.
 
-COLLECTION OF YOUR PERSONAL INFORMATION 
+### COLLECTION OF YOUR PERSONAL INFORMATION
 
 Agile Ticketing Solutions collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Agile Ticketing Solutions also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
 
@@ -14,7 +14,7 @@ Please keep in mind that if you directly disclose personally identifiable inform
 
 Agile Ticketing Solutions encourages you to review the privacy statements of Web sites you choose to link to from Agile Ticketing Solutions so that you can understand how those Web sites collect, use and share your information. Agile Ticketing Solutions is not responsible for the privacy statements or other content on Web sites outside of the Agile Ticketing Solutions and Agile Ticketing Solutions family of Web sites.
 
-USE OF YOUR PERSONAL INFORMATION 
+### USE OF YOUR PERSONAL INFORMATION
 
 Agile Ticketing Solutions collects and uses your personal information to operate the Agile Ticketing Solutions Web site and deliver the services you have requested. Agile Ticketing Solutions also uses your personally identifiable information to inform you of other products or services available from Agile Ticketing Solutions and its affiliates. Agile Ticketing Solutions may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
@@ -26,7 +26,7 @@ Agile Ticketing Solutions keeps track of the Web sites and pages our customers v
 
 Agile Ticketing Solutions Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Agile Ticketing Solutions or the site; (b) protect and defend the rights or property of Agile Ticketing Solutions; and, (c) act under exigent circumstances to protect the personal safety of users of Agile Ticketing Solutions, or the public.
 
-USE OF COOKIES 
+### USE OF COOKIES
 
 The Agile Ticketing Solutions Web site use “cookies” to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
@@ -34,14 +34,14 @@ One of the primary purposes of cookies is to provide a convenience feature to sa
 
 You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Agile Ticketing Solutions services or Web sites you visit.
 
-SECURITY OF YOUR PERSONAL INFORMATION 
+### SECURITY OF YOUR PERSONAL INFORMATION
 
 Agile Ticketing Solutions secures your personal information from unauthorized access, use or disclosure. Agile Ticketing Solutions secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
-CHANGES TO THIS STATEMENT 
+### CHANGES TO THIS STATEMENT
 
 Agile Ticketing Solutions will occasionally update this Statement of Privacy to reflect company and customer feedback. Agile Ticketing Solutions encourages you to periodically review this Statement to be informed of how Agile Ticketing Solutions is protecting your information.
 
-CONTACT INFORMATION
+### CONTACT INFORMATION
 
 Agile Ticketing Solutions welcomes your comments regarding this Statement of Privacy. If you believe that Agile Ticketing Solutions has not adhered to this Statement, please contact Agile Ticketing Solutions at [support@agiletix.com](mailto:support@agiletix.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
