@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the titotu.io privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204133937id_/http%3A//titotu.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titotu.io privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606235008id_/http%3A//titotu.io/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Play for free at Titotu.io
 
@@ -8,11 +8,11 @@ At Titotu.io we consider the privacy of our visitors to be extremely important. 
 
 ###  Log Files
 
-****Like many other Web sites, titotu.io makes use of log files. These files merely logs visitors to the site - usually a standard procedure for hosting companies and a part of hosting services's analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+ ****Like many other Web sites, titotu.io makes use of log files. These files merely logs visitors to the site - usually a standard procedure for hosting companies and a part of hosting services's analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
 ###  Cookies and Web Beacons
 
-****Titotu.io uses cookies to store information about visitors' preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors' browser type or other information that the visitor sends via their browser.
+ ****Titotu.io uses cookies to store information about visitors' preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors' browser type or other information that the visitor sends via their browser.
 
 ### DoubleClick DART Cookie
 
@@ -44,7 +44,7 @@ This privacy policy applies only to our online activities and is valid for visit
 
 ### Consent
 
-****By using our website, you hereby consent to our privacy policy and agree to its terms.
+ ****By using our website, you hereby consent to our privacy policy and agree to its terms.
 
 ### Update  
 
