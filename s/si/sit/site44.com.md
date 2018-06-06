@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the site44.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231195158id_/http%3A//www.site44.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the site44.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607000016id_/http%3A//www.site44.com/privacy) for the most accurate reproduction.*
 
-# site44 - Privacy Policy
+# site44 -Privacy Policy
 
 Planet Rational, Inc. (" ** _We_** " or " ** _Planet Rational_** ") owns and operates the website www.Site44.com through which it offers services and software that permit anyone to create, host and publish web content (the website, services and software are collectively referred to as the " ** _Service_** " throughout this Privacy Policy). 
 
