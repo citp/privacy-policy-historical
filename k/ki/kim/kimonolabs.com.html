@@ -1,26 +1,25 @@
-<!--The following is the downloaded HTML source of the kimonolabs.com privacy policy that was archived on 2016-11-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161113222213id_/https%3A//www.kimonolabs.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kimonolabs.com privacy policy that was archived on 2018-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180606031732id_/http%3A//www.kimonolabs.com/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide{display:none !important;}ng\:form{display:block;}.ng-animate-block-transitions{transition:0s all!important;-webkit-transition:0s all!important;}.ng-hide-add-active,.ng-hide-remove{display:block!important;}</style>
-    <title>Kimono : Turn websites into structured APIs from your browser in seconds</title>
-    <meta name="keywords" content="Kimono, API, data, web scraping, data mining">
-    <meta charset="utf-8">
-<meta name="description" content="">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+<!DOCTYPE html><html><head>
+  <meta charset="utf-8">
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="/style/bootstrap.css">
+  <link rel="stylesheet" href="/style/icomoon.css">
+  <link rel="stylesheet" href="/style/index.css">
+  <link rel="stylesheet" href="/style/desktop.css">
+  <link rel="stylesheet" href="/style/team.css">
+  <link rel="stylesheet" href="/style/faq.css">
+  <link rel="stylesheet" href="/style/video.css">
+  <link rel="stylesheet" href="/style/global.css">
+  <link rel="stylesheet" href="/style/header.css">
+  <link rel="stylesheet" href="/style/footer.css">
+  <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/deoaddaobnieaecelinfdllcgdehimih">
+</head>
+<body>
 
-<link rel="stylesheet" href="/css/vendor.css">
-
-<link rel="stylesheet" href="/css/app.css">
-
-<!-- necessary to install chrome extension from the website -->
-<link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/deoaddaobnieaecelinfdllcgdehimih">
-<link href="//fonts.googleapis.com/css?family=Inconsolata:400,700" rel="stylesheet" type="text/css">
-
-  </head>
-  <body ng-app="kimWebsiteApp" ng-cloak="" class="ng-cloak">
-    <section id="Wrap">
-      <div id="ColorBar">
+<div id="ColorBar">
   <div class="kim-yellow"></div>
   <div class="kim-amber"></div>
   <div class="kim-orange"></div>
@@ -35,11 +34,8 @@
   <div class="kim-lime"></div>
 </div>
 
-<div id="Header" ng-controller="HeaderController" ng-cloak="" class="ng-cloak">
-
+<div id="Header">
   <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
-
-    <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
         <span class="sr-only">Toggle navigation</span>
@@ -47,69 +43,24 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <!-- <a class="navbar-brand" href="/" target="_self">kim<span>o</span>n<span>o</span></a> -->
-      <a class="navbar-brand" href="/" target="_self" style="text-transform:none">kimono<span>labs</span></a>
-      <!-- <p class="navbar-text hidden-sm hidden-xs">Create APIs where they don't exist</p> -->
-      <p ng-if="false" class="beta-tag">BETA</p>
-      <a class="navbar-text kim-new" ng-show="flags.new_features.length > 0" title="New Features" ng-class="{'active':flags.showNotificationPanel, 'highlighted': size(new_features) > 0}" ng-click="openNotifications()"></a>
-      <p ng-show="size(new_features) > 0" class="beta-tag kim-feature-count">{{size(new_features)}}</p>
+      <a class="navbar-brand" href="/" style="text-transform:none">kimono<span>labs</span></a>
     </div>
 
-    <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse navbar-ex1-collapse">
       <ul class="nav navbar-nav navbar-right">
-        <!-- <li><a href="http://builtwith.kimonolabs.com" target="_self">#BuiltWithKimono</a></li> -->
-        <li ng-class="isActive('/desktop')"><a href="/desktop" target="_self">Download Desktop App</a></li>
-        <li ng-class="isActive('/desktop')"><a href="/faq" target="_self">FAQ</a></li>
-        <li><a href="http://help.kimonolabs.com/hc/en-us" target="_self">Help Center</a></li>
-        <li><a href="http://blog.kimonolabs.com/" target="_self">Blog</a></li>
-        <!-- <li ng-class="isActive('/profile')" ng-show="global.authenticated"><a href="/account" target="_self">{{global.user.name}}</a></li> -->
-        <!-- <li ng-show="global.authenticated"><a href="/signout" target="_self">Logout</a></li> -->
-        <li ng-class="isActive('/forgotpassword')" id="LoginLink"><a href="/forgotpassword" target="_self">Reset Password</a></li>
-        <!-- <li ng-hide="global.authenticated" class="hidden-xs" id="LoginPopover"><a href="#" class="login-popover">Log in</a></li> -->
-<!--         <li ng-hide="global.authenticated"><a href="/signup" target="_self">Sign up</a></li>
-        <li>
-          <form ng-hide="global.authenticated" class="navbar-right navbar-form">
-            <a class="btn btn-primary btn-sm" href="/signup" target="_self">Sign up</a>
-          </form>
-        </li> -->
-
-        <li>
-          <form ng-submit="submitSearch()">
-            <input type="text" class="header-search" placeholder="Search" ng-model="searchText">
-          </form>
-        </li>
+        <li><a href="/desktop.html">Download Desktop App</a></li>
+        <li><a href="/faq.html">FAQ</a></li>
       </ul>
-
-    </div><!-- //navbar-collapse -->
-    <div useralert="" ng-if="showalert" ng-click="alertSeen()"></div>
-  </nav>
-
-  <div km-fade="flags.showNotificationPanel" km-in="true" km-out="true" id="kim-Notifications">
-    <div class="kim-notification-wrapper">
-      <div class="kim-notifications">
-        <div class="kim-notification" ng-repeat="notification in flags.new_features | reverse" ng-click="link(notification.link)">
-          <div class="kim-thumb" ng-class="{'kim-green': notification.type == 'New Feature', 'kim-purple': notification.type == 'News', 'kim-red': notification.type == 'Bug Fix'}">
-            {{notification.type}}
-          </div>
-          <p class="kim-body">{{notification.message}}</p>
-          <div class="arrow"></div>
-        </div>
-      </div>
     </div>
-  </div>
-
+  </nav>
 </div>
 
-
-
-      <div>
-        <div class="container privacy">
+<div class="container privacy">
 
   <h1>Privacy Policy</h1>
-  
+
   <p>Last Updated: 22 Dec 2013</p>
-  
+
   <p>kimono is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy policy.</p>
   <p>This Privacy Policy (the "Policy" or "Privacy Policy") covers kimono, Inc. ("kimono", "we", "us", or "our") and describes the types of information we gather from people visiting www.kimonolabs.com (the "Site") and from individual users interacting with the applications we provide to third parties and how we use such information. We understand the importance of privacy and accordingly, treat all information received in a responsible manner. By accessing the Site, you agree to be bound by this Policy. If you do not agree to the terms of this Policy, please do not use the Site or our services. Each time you use the Site or services, the current version of the Privacy Policy will apply. Accordingly, when you use the Site or services, you should check the date of this Policy (which appears at the top) and review any changes since the last version.</p>
 
@@ -136,86 +87,80 @@
 
   <h3>Do we disclose any information to outside parties?</h3>
   <p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p>
-  
-  
+
+
   <h2>2. IP Addresses and Cookies</h2>
   <p>We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.</p>
   <p>We may also use "cookies" to enhance your experience on the Site and with the services and to provide you with personalized offers. A cookie is a small data file placed on your computer's hard drive that contains information that allows us to track your activity on the Site. The cookie itself does not contain any personal information; however, if you provide us any personal information the cookie may act as an identifier to tie your personal information to your IP address or computer. You may choose to delete cookies from your computer's hard drive at anytime or to disable cookies on your computer. If you delete cookies that relate to the Site, we may not be able to identify you upon your return to the Site. Additionally, if you disable your computer's cookies, you may not be able to access certain features of the Site or services that require that cookies be enabled. The Site's cookies cannot be used to read data from your hard drive and cannot retrieve information from any other cookies created by other websites. Additionally, our cookies cannot be used as a virus, Trojan horse, worm, or any other malicious tool that could impair your use of your computer. Our cookies are used to help us better understand how you and other users use the Site so we can continue to provide a better, more personalized user experience on the Site. We also share website usage information about our Site with those interested in running targeted promotional campaigns on the Site.</p>
-  
-  
+
+
   <h2>3. Children and Privacy</h2>
   <p>Our Site is not directed to children and we will not request personally identifiable information from anyone who we know to be under the age of 18, unless we have obtained verifiable parental consent from a parent or legal guardian. If we become aware that a user under the age of 13 has registered with our Site, provided personal information, and kimono has not obtained prior verifiable consent from a parent or legal guardian, we will immediately remove the user's personal information from our files.</p>
-  
-  
+
+
   <h2>4. Links to other websites</h2>
   <p>Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.</p>
-  
-  
+
+
   <h2>5. Security</h2>
   <p>We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.</p>
-  
-  
+
+
   <h2>6. Changes to our Privacy Policy</h2>
   <p>Any changes we may make to our privacy policy in the future will be posted on this page. We do not guarantee that you will be notified of any such changes.</p>
 
 </div>
-      </div>
-    </section>
-    <div id="Footer">
+
+<div id="Footer">
   <div class="container">
     <div class="row">
-    <div class="col-md-8">
-      <h4>© 2016 kimonolabs, inc.</h4>
+    <div class="col-md-6">
+      <h4>© <script>document.write((new Date()).getFullYear())</script>2020 Kimonolabs, Inc.</h4>
     </div>
     <div class="col-md-2">
       <h4>Company</h4>
       <ul>
-        <li><a href="/faq" target="_self">FAQ</a></li>
-        <li><a href="/team" target="_self">Team</a></li>
-        <li><a href="http://blog.kimonolabs.com/" target="_self">Blog</a></li>
-        <li><a href="/terms" target="_self">Terms</a></li>
-        <li><a href="/privacy" target="_self">Privacy</a></li>
+        <li><a href="/faq.html">FAQ</a></li>
+        <li><a href="/team.html">Team</a></li>
+        <li><a href="/terms.html">Terms</a></li>
+        <li><a href="/privacy.html">Privacy</a></li>
       </ul>
     </div>
     <div class="col-md-2">
       <h4>Press</h4>
       <ul>
-      <li><a href="http://pando.com/2014/08/29/yc-grad-kimono-labs-makes-its-giant-respoitory-of-user-generated-apis-searchable/" target="_self">Pando Daily</a></li>
-        <li><a href="http://www.techinasia.com/kimono-pratap-ranade-ryan-rowe-api-internet/" target="_self">Tech in Asia</a></li>
-        <li><a href="http://www.techrepublic.com/article/how-kimono-labs-can-turn-any-website-into-an-api/" target="_self">Tech Republic</a></li>
-        <li><a href="http://venturebeat.com/2014/03/25/here-are-the-5-best-startups-from-y-combinators-demo-day/" target="_self">Venture Beat</a></li>
-        <li><a href="http://techcrunch.com/2014/03/25/best-y-combinator-demo-day-startups/" target="_self">Tech Crunch</a></li>
-        <li><a href="http://www.fastcodesign.com/3027659/a-new-app-that-lets-you-take-apart-websites-and-rebuild-them-at-will" target="_self">FastCo.Design</a></li>
-        <li><a href="http://www.fastcolabs.com/3025295/kimono-could-be-the-gateway-drug-to-finally-get-you-coding" target="_self">FastCo.Labs</a></li>
-        <li><a href="http://www.wired.com/2014/03/kimono/" target="_self">Wired</a></li>
-        <li><a href="http://techcrunch.com/2014/02/18/kimono-is-a-smarter-web-scraper-that-lets-you-api-ify-the-web-no-code-required/" target="_self">Tech Crunch Launch</a></li>
+      <li><a href="http://pando.com/2014/08/29/yc-grad-kimono-labs-makes-its-giant-respoitory-of-user-generated-apis-searchable/">Pando Daily</a></li>
+        <li><a href="http://www.techinasia.com/kimono-pratap-ranade-ryan-rowe-api-internet/">Tech in Asia</a></li>
+        <li><a href="http://www.techrepublic.com/article/how-kimono-labs-can-turn-any-website-into-an-api/">Tech Republic</a></li>
+        <li><a href="http://venturebeat.com/2014/03/25/here-are-the-5-best-startups-from-y-combinators-demo-day/">Venture Beat</a></li>
+        <li><a href="http://techcrunch.com/2014/03/25/best-y-combinator-demo-day-startups/">Tech Crunch</a></li>
+        <li><a href="http://www.fastcodesign.com/3027659/a-new-app-that-lets-you-take-apart-websites-and-rebuild-them-at-will">FastCo.Design</a></li>
+        <li><a href="http://www.fastcolabs.com/3025295/kimono-could-be-the-gateway-drug-to-finally-get-you-coding">FastCo.Labs</a></li>
+        <li><a href="http://www.wired.com/2014/03/kimono/">Wired</a></li>
+        <li><a href="http://techcrunch.com/2014/02/18/kimono-is-a-smarter-web-scraper-that-lets-you-api-ify-the-web-no-code-required/">Tech Crunch Launch</a></li>
+      </ul>
+    </div>
+    <div class="col-md-2">
+      <h4>Acquisition</h4>
+      <ul>
+        <li><a href="https://www.wsj.com/articles/DJFVW00120160216ec2gmvb1i">Wall Street Journal</a></li>
+        <li><a href="http://techcrunch.com/2016/02/15/palantir-acquires-kimono-labs-for-its-web-scraping-service/">Tech Crunch</a></li>
+        <li><a href="http://venturebeat.com/2016/02/15/palantir-acquires-kimono-labs-will-shutter-data-collection-service-on-february-29/">Venture Beat</a></li>
+        <li><a href="http://www.nanalyze.com/2016/02/palantir-technologies-the-first-big-data-stock-to-ipo/">Nanalyze</a></li>
+        <li><a href="http://www.bizjournals.com/sanjose/blog/techflash/2016/02/palantir-buys-y-combinator-alumnus-kimono-labs.html#i1">Biz Journals</a></li>
+        <li><a href="https://blog.datafiniti.co/kimono-labs-acquired-the-future-of-web-scraping-623add04fba">Datafiniti</a></li>
+        <li><a href="http://www.vcpost.com/articles/116319/20160216/palantir-technologies-inc-kimono-labs-data-mining-data-extraction.htm">VC Post</a></li>
+        <li><a href="https://www.muycomputerpro.com/2016/02/16/palantir-adquiere-a-kimono-labs-y-cierra-su-servicio">Muy Computer Pro</a></li>
+        <li><a href="https://www.martechadvisor.com/news/customer-experience-2/palantir-buys-kimono-labs-will-be-ceasing-their-operations/">Martech Advisor</a></li>
+        <li><a href="https://www.theregister.co.uk/2016/02/16/big_brothers_pet_unicorn_closes_the_kimono/">The Register</a></li>
+        <li><a href="https://webrazzi.com/2016/02/16/palantir-web-sitelerinden-veri-cekmeyi-kolaylastiran-kimono-labsi-satin-aldi/">Web Razzi</a></li>
+        <li><a href="https://www.silicon.es/palantir-compra-kimono-labs-abandona-desarrollo-producto-cloud-2301431?inf_by=5b0f22cb671db8c66e8b54dd">Silicon.es</a></li>
       </ul>
     </div>
   </div>
   </div>
-
 </div>
-    <!-- <script src="//cdn.optimizely.com/js/1853380170.js"></script> -->
-<script type="text/javascript" id="analytics-js" async="" src="https://cdn.segment.io/analytics.js/v1/kfah0efv5d/analytics.min.js"></script><script type="text/javascript">
-  window.analytics=window.analytics||[],window.analytics.methods=["identify","group","track","page","pageview","alias","ready","on","once","off","trackLink","trackForm","trackClick","trackSubmit"],window.analytics.factory=function(t){return function(){var a=Array.prototype.slice.call(arguments);return a.unshift(t),window.analytics.push(a),window.analytics}};for(var i=0;i<window.analytics.methods.length;i++){var key=window.analytics.methods[i];window.analytics[key]=window.analytics.factory(key)}window.analytics.load=function(t){if(!document.getElementById("analytics-js")){var a=document.createElement("script");a.type="text/javascript",a.id="analytics-js",a.async=!0,a.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.io/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(a,n)}},window.analytics.SNIPPET_VERSION="2.0.9";
-  if (window.location.host === 'localhost' || window.location.host === 'localhost:4000' || window.location.host === 'localhost:3000' ) {
-    window.analytics.load("tu8x6gusvq"); //dev
-  } else {
-    window.analytics.load("kfah0efv5d"); //prod
-  }
-  window.analytics.page();
-</script>
 
 
-<script src="/js/vendor.js"></script>
 
-<script src="/js/main.js"></script>
-<script>
-angular.module('kimWebsiteServices').config(function (GlobalValsProvider) {
-  GlobalValsProvider.set({"user":null,"config":{"env":"production","algolia":{"apikey":"e1f63566b58cca81b47fd1bfffed5023","appID":"CPTAU71D6K","searchIndex":"search-apis"}},"sslhost":"https://ws.kimonolabs.com","host":"http://ws.kimonolabs.com","secHost":"http://sec.kimonolabs.com","defaultApiKey":"bc6d6fac9954d187d0706e4f9aeb26c6","sslwebsitehost":"https://www.kimonolabs.com","websitehost":"http://www.kimonolabs.com"});
-});
-</script>
-
-<script src="//cdn.jsdelivr.net/ace/1.1.6/min/ace.js"></script>
-  
 </body></html>
