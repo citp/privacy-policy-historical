@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truthaboutcellulite.com privacy policy that was archived on 2017-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170823102126id_/http%3A//www.truthaboutcellulite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truthaboutcellulite.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606044832id_/http%3A//www.truthaboutcellulite.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | Truth About Cellulite
 
