@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the therackup.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205044639id_/http%3A//www.therackup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therackup.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606090141id_/http%3A//www.therackup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | theRACKUP | www.therackup.com
 
@@ -54,7 +54,7 @@ You will note the presence of third party advertisers on our Website. In additio
 
 We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this Website and other websites in order to provide advertisements about goods and services of interest to you.
 
-**Contact** If you have any questions about this Privacy Policy, the practices of our Website or your dealings with our Website, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+**Contact** If you have any questions about this Privacy Policy, the practices of our Website or your dealings with our Website, please contact us at contact@therackup.com
 
 **Copyright Information**  
 All images on TheRackUp.com are readily available in various places on the Internet and believed to be in public domain. Images posted are believed to be posted within our rights according to the U.S. Copyright Fair Use Act (title 17, U.S. Code.)  
