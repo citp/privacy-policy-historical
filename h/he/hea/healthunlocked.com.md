@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the healthunlocked.com privacy policy that was archived on 2017-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170712080017id_/https%3A//healthunlocked.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthunlocked.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606224902id_/https%3A//healthunlocked.com/policies/privacy) for the most accurate reproduction.*
 
 # HealthUnlocked | The social network for health
 
-**Last modified: 14/7/2015**  
- **Last reviewed: 14/7/2015**
+**Last modified: 26/9/2017**
 
 At HealthUnlocked we believe in the potential of shared experiences to transform lives and uncover understanding in health. Because this may involve you sharing sensitive information about your health and treatment we also believe in the importance of clear and transparent privacy guidelines. As a user it’s important you know how we use and share your data and how you can control what happens to information you share in HealthUnlocked.
 
@@ -13,7 +12,7 @@ Here’s a simple guide:
 
 ##### Who are you?
 
-HealthUnlocked is owned and operated by Everything Unlocked Limited registered in England and Wales under company number 6596274. Its registered office address is: 163 Tower Bridge Road, 4th Floor, London SE1 3LW, United Kingdom.
+HealthUnlocked is owned and operated by Everything Unlocked Limited registered in England and Wales under company number 6596274. Its registered office address is: First Floor, Clover House, 147-149 Farringdon Road, London EC1R 3HN, United Kingdom
 
 ##### Who can see my personal identifiable information?
 
@@ -73,9 +72,9 @@ Our patients store is hosted in a protected environments with secure backups per
 
 Our clinical store is hosted in a protected environment with secure backups performed regularly, compliant with [ISO 27001](http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=42103) and connected to the NHS [N3](http://n3.nhs.uk/).
 
-HealthUnlocked has also Department of Health Information Governance Toolkit v9 Level 2) certification [NHS IG ToolKit level 2](https://www.igt.hscic.gov.uk/). This has been independently validated by [Apira Ltd](http://www.apira.co.uk/).
+HealthUnlocked has also Department of Health Information Governance Toolkit 14 certification. This has been independently audited by TIAA.
 
-Our service is hosted on third party servers with may be outside the EEA. We have contracts in place with our third party service providers which require them to implement security measures to protect the data they hold and the current security provisions in place are described above.
+Our service is hosted on third party servers. We have contracts in place with our third party service providers which require them to implement security measures to protect the data they hold and the current security provisions in place are described above.
 
 ##### Does HealthUnlocked use cookies or other tracker technologies?
 
@@ -95,8 +94,8 @@ By becoming an account holder, you agree that we may provide you with informatio
 
 ##### How do I make a subject access request?
 
-Please put your request in writing and send it to HealthUnlocked, 163 Tower Bridge Road, 4th Floor, London SE1 3LW, United Kingdom. We reserve the right to charge a fee of £10.
+Please put your request in writing and send it to HealthUnlocked, First Floor, Clover House, 147-149 Farringdon Road, London EC1R 3HN, United Kingdom. We reserve the right to charge a fee of £10.
 
 ##### Have additional questions?
 
-Please contact us at [contact@healthunlocked.com](mailto:contact@healthunlocked.com)
+Please contact us at [contact@healthunlocked.com](mailto:contact@healthunlocked.com).
