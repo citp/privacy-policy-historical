@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the byond.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130121351id_/http%3A//www.byond.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the byond.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606072607id_/http%3A//www.byond.com/Privacy) for the most accurate reproduction.*
 
 # BYOND - Make & Play Online Multiplayer Games - Community
 
@@ -15,9 +15,9 @@ Account name
 Password
     Your password is not visible or known to BYOND Staff, as it passed through a one-way encryption (or a "hash") before being stored in the database.
 Gender
-    This is strictly used to set the appropriate pronoun when your avatar is used in any games you may play. It needn't correspond to your "in real life" gender.
+    This is strictly used to set the appropriate pronoun when your avatar is used in any games you may play. It needn't correspond to your "in real life" gender and is not, therefore, personally identifying information.
 Email address
-    This is used to validate your account at signup. This address will not be shared, either within the BYOND community or with outside parties, except as described in the "Protection of your information" section below. We may contact you at this address to provide alerts to game or community activity; however, you may opt-out of this behavior by visiting your [Account Settings](https://secure.byond.com/members/-/account).
+    This is used to validate your account at signup, and for account recovery. This address will not be shared, either within the BYOND community or with outside parties, except as described in the "Protection of your information" section below. We may contact you at this address to provide alerts to game or community activity; however, you may opt-out of this behavior by visiting your [Account Settings](https://secure.byond.com/members/-/account).
 
 You may modify any of the above information (outside of the account name), access more optional settings, or deactivate your BYOND Account at any time by visiting your [Account Settings](https://secure.byond.com/members/-/account). Account deactivation hides your public profile (which displays your account name, gender, game and developer creations, favorite games and resources, and any other information you have chosen to share with the community). It also clears your password from the database. Forum posts are not deleted, although you may [contact](http://www.byond.com/members/?command=contact) us for assistance with that (or anything else!)
 
@@ -43,6 +43,10 @@ Game information is collected for the following purposes:
 
 
 
+
+The information listed in this section is never shared with third parties, except for the limited cases described in "Protection of your information" below.
+
+Information about which games a particular account has played is stored only for a limited period (currently, about 2 weeks). Login information may be stored for a longer term, and is used for purposes of maintaining the ban system and account recovery.
 
 ### Analytics
 
@@ -72,7 +76,7 @@ The suspicion or likelihood that two or more accounts belong to the same person 
 
 ### Protection of your information
 
-Aside from the cases mentioned above, will never disclose any information we collect about you, except:
+Aside from the cases mentioned above, BYOND will never disclose any information we collect about you, except:
 
   * as designated by applicable law; e.g., if we are issued a court order.
   * for technical reasons; eg, if we are moved to new ownership or otherwise need to transfer our data.
@@ -80,8 +84,12 @@ Aside from the cases mentioned above, will never disclose any information we col
 
 
 
+Any third-party advertising or traffic measurement services used by BYOND are individually responsible for whatever limited information they may collect (e.g., your IP address, or cookies created by these services), subject to their respective privacy policies. BYOND does not share your personal information with these third parties.
+
+Regarding payment processing, all information used in transactions is collected and handled by the payment processor themselves, not by BYOND. We do not collect or store this information, although we may choose to store non-identifying transaction tokens that may be used to look up transactions via the payment provider.
+
 ### Privacy policy changes
 
 We may update this policy from time to time as we introduce new features or modify existing ones. We encourage you to review this document periodically. 
 
-Copyright © 2017 BYOND Software. All rights reserved. 
+Copyright © 2018 BYOND Software. All rights reserved. 
