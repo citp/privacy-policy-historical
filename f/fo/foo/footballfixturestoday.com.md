@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footballfixturestoday.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113220149id_/http%3A//footballfixturestoday.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballfixturestoday.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606183736id_/http%3A//footballfixturestoday.com/privacy.html) for the most accurate reproduction.*
 
 # Football Fixtures Today
 
