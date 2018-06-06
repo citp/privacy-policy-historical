@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myvirtualpaper.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204002426id_/http%3A//www.virtualpaper.com/en/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myvirtualpaper.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606163746id_/http%3A//www.virtualpaper.com/en/privacy-policy.php) for the most accurate reproduction.*
 
 # Virtual Paper, the digital publishing experts.
 
@@ -85,7 +85,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-[Please also visit our Terms and Conditions section](https://web.archive.org/web/20171204002426id_/http%3A//www.virtualpaper.com/en/terms-conditions.php) establishing the use, disclaimers, and limitations of liability governing the use of our website at :
+[Please also visit our Terms and Conditions section](https://web.archive.org/web/20180606163746id_/http%3A//www.virtualpaper.com/en/terms-conditions.php) establishing the use, disclaimers, and limitations of liability governing the use of our website at :
 
 [http://www.virtualpaper.com](http://www.virtualpaper.com/)
 
@@ -107,5 +107,4 @@ If there are any questions regarding this privacy policy you may contact us usin
 7070, Beaubien Est,  
 Montréal, Qc  
 H1M 1B2  
-Canada  
-[agarceau@myvirtualpaper.com](mailto:agarceau@myvirtualpaper.com)
+Canada
