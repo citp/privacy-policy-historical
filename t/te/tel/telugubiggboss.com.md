@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telugubiggboss.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130214312id_/http%3A//telugubiggboss.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telugubiggboss.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606161044id_/http%3A//telugubiggboss.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BIGG BOSS TELUGU VOTE - Live,Voting,Eliminations
 
