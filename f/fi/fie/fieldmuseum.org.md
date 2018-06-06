@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fieldmuseum.org privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623095334id_/https%3A//www.fieldmuseum.org/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fieldmuseum.org privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606132251id_/https%3A//www.fieldmuseum.org/about/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | The Field Museum
+# Privacy Statement | Field Museum
 
 The Field Museum is committed to protecting your privacy when you visit our Website or use our Website to purchase tickets, make a donation, become a Field Museum Member, sign up to receive our e-newsletter, or participate in our surveys. The Museum takes reasonable steps to protect visitors’ privacy and to ensure that you are notified of what information you are providing to us and how that information will be used.
 
@@ -8,7 +8,7 @@ This Privacy Statement applies to the online activities of the Museum. It does n
 
 ## What We Collect & Why We Collect It
 
-**_Non-Personal Information_**
+### Non-Personal Information
 
 Our Website automatically gathers and stores Non-Personal Information, which includes
 
@@ -22,7 +22,7 @@ Our Website automatically gathers and stores Non-Personal Information, which inc
 
 We collect Non-Personal Information to help us evaluate and improve how our Website works and to learn how and from where visitors access it. This information is stored and used in the aggregate, meaning that it is not tied to your name and does not identify you as an individual. This statistical information may be provided to third parties. Neither the Museum nor any third party will use this information to contact you personally.
 
-**_Personal Information_**
+### Personal Information
 
 Personal Information includes information that identifies you as an individual and is linked to your name; Personal Information includes
 
@@ -45,7 +45,7 @@ The Museum may share or exchange Members’ name and address information with ot
 
 The Museum will disclose information, if required, for purposes of law enforcement or the enforcement of the Museum’s or a third party’s rights, such as intellectual property rights and laws relating to fraud. In response to a request by a federal, state, or local law enforcement agency or to a court-issued subpoena, the Museum can (and you authorize the Museum to) disclose your Personal Information to the extent that the Museum reasonably believes necessary to comply with the request or subpoena. The Museum may also use your Personal Information when it is reasonably necessary to satisfy an applicable law, regulation, legal process, or enforceable government request; enforce an agreement between you and the Museum, including potential violations thereof; detect, prevent, investigate or otherwise address fraud, security, or technical issues; or protect against imminent harm to the safety, property, or rights of the Museum, its visitors, or the public as required or permitted by law.          
 
-_**Survey Responses**_
+### Survey Responses
 
 The Museum may invite you to participate in one of our surveys, which provide the Museum with valuable feedback about our exhibitions and programs and information about visitors’ experiences, preferences, and needs.
 
@@ -53,7 +53,7 @@ These surveys may request certain Personal Information from you, including house
 
 The Museum may use third party service providers to conduct surveys or analyze survey data; such service providers will not use your Personal Information for any other purpose. We will not share any Personal Information gathered through a survey with other third parties without giving you prior notice and an opportunity to opt out.   
 
-**_Children’s Information_**
+### Children’s Information
 
 The Museum does not knowingly collect personal information from children under 13 years of age. If Personal Information regarding a child is required for program participation or similar reasons, the Museum will collect this information from the child’s parent or guardian. If a child sends an email to the Museum, we will only use that address and any information provided only to respond to the particular inquiry and will not retain or use the information for any other purpose.
 
@@ -77,12 +77,13 @@ Occasional changes may be made to this Statement as new services and content are
 
 If you have questions or comments about this Privacy Statement, please contact us in one of the following ways:
 
-[http://www.fieldmuseum.org/about/contact](https://www.fieldmuseum.org/about/contact)
+[Contact Us](https://www.fieldmuseum.org/about/contact)
 
-Field Museum of Natural History 1400 S. Lake Shore Drive Chicago, IL 60605- 2496
-
-(312) 922-9410
+Field Museum of Natural History  
+1400 S. Lake Shore Dr.  
+Chicago, IL 60605- 2496  
+312.922.9410
 
 The Museum will use reasonable efforts to respond promptly to requests, questions, and concerns regarding this Policy Statement. 
 
-_Privacy Statement Last Updated October 2014._
+_Last updated October 2014_
