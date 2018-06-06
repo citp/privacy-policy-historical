@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hpdriver.net privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227235323id_/http%3A//www.hpdriver.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hpdriver.net privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606125152id_/http%3A//www.hpdriver.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HP Drivers Downloads | Hewlett-Packard | hpdriver.net
 
@@ -32,4 +32,4 @@ When the Google visit our web sites, use 3th part ads network ( etc. Adnet, Adca
 
 For all this to, Privacy Policy and Rules which of used the Networks, you can download or read atteched file [NAI Self- Regulatory Principles For Publishers ( PDF )](http://www.networkadvertising.org/sites/default/files/imce/principles.pdf)
 
-> By downloading, you agree to the terms and conditions of the [HP Software License Agreement](http://h20000.www2.hp.com/bizsupport/TechSupport/softwareLicense.jsp?lang=en&cc=tr&prodTypeId=18972&prodSeriesId=377934&prodNameId=306510&taskId=135).
+> By downloading, you agree to the terms and conditions of the [HP Software License Agreement](https://www.hpe.com/us/en/software/licensing.html).
