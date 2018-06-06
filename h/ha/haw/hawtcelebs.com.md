@@ -1,59 +1,104 @@
-> *The following text is extracted and transformed from the hawtcelebs.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223031806id_/http%3A//www.hawtcelebs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hawtcelebs.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607002946id_/http%3A//www.hawtcelebs.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - HawtCelebs - HawtCelebs
+# Privacy Policy - HawtCelebs
 
-## Claims of Infringement
+Hawtcelebs has created this privacy statement to describe our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for this website: “hawtcelebs.com” at [http://www.hawtcelebs.com](http://www.hawtcelebs.com/).  We seek to protect your private information so that you have a pleasurable viewing experience on our Web site. We will not sell, rent, trade, or disclose your personally identifiable information to anyone except as explained in this policy. Please return to this page from time to time, as we will be updating this statement as our services continue to grow. We welcome and encourage questions, comments, and suggestions. Please contact us at a.arsenovic.sg[at]gmail.com with any questions.
 
-All images and text copyright to their owners and used under the fair use copyright law, section 107. All images and text are thought to be public domain and found through various free sources on the internet and publications. Please contact us with any legal problems and we’ll be happy to remove any thing in breach.
+## Cookies
 
-“Sec. 107. – Limitations on exclusive rights: Fair use
+A cookie is a small piece of data that is sent to your browser from a Web server and stored on your computer’s hard drive. Cookies store information about your use of a particular Web site or service and are typically used to make services more convenient and personalized. Most cookies are “session cookies,” which are automatically deleted whenever you leave a Web site, although some cookies remain on your computer until you remove them.
 
-Notwithstanding the provisions of sections 106 and 106A, the fair use of a copyrighted work, including such use by reproduction in copies or phonorecords or by any other means specified by that section, for purposes such as criticism, comment, news reporting, teaching (including multiple copies for classroom use), scholarship, or research, is not an infringement of copyright.”
+## Third Party Cookies
 
-## Privacy Policy
+In the course of serving advertisements to this site, our third-party advertiser(s) may place or recognize a unique “cookie” on your browser.
 
-We respect your privacy and we are committed to safeguarding your privacy while online at our site www.hawtcelebs.com. The following discloses the information gathering and dissemination practices for this Web site.
+## How We Use Cookies
 
-### Log Files
+We use cookies
 
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
+  * (1) to estimate the number of visitors to our Web site
+  * (2) to measure general traffic patterns, and
+  * (3) to personalize information and services we provide to you on the site.
 
-### Newsletter
 
-If a user wishes to subscribe to our newsletter (powered by Feedburner), we ask for contact information such as name and email address. Out of respect for our users privacy we provide a way to opt-out of these communications.
 
-### Cookies
+Companies that place ads on the hawtcelebs.com Web site may also use their own cookies to help determine the frequency and placement of particular ads. Your browser controls how cookies are used and can be set to not allow them. However, it is possible that some parts of the hawtcelebs.com site may not function properly if your browser refuses our cookies. We may, from time to time, use cookies to store your zip code and email address for use with certain current or future services such as e-mail update list(s), showtimes e-mail services, local showtimes profiles, theater and movie preference profiles.
 
-A cookie is a piece of data stored on the user’s computer tied to information about the user.
+## Cookie Notification and Disabling
 
-www.hawtcelebs.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors’ browser type or other information that the visitor sends.
+You can control and/or delete cookies as you wish – for details, see [aboutcookies.org](http://aboutcookies.org/). You can delete all cookies that are already on your computer and you can set most browsers to prevent them from being placed. If you do this, however, you may have to manually adjust some preferences every time you visit a site and some services and functionalities may not work.
 
-Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. If you wish to disable cookies, you may do so through your individual browser options.
+## Personally Identifiable Information
 
-Google, as a third-party vendor, uses cookies to serve ads on this site.
+**What Personally Identifiable Information Is**  
+Personally identifiable information is your name, address, e-mail address, phone number, and credit card information.
 
-Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+## Where We Collect Personally Identifiable Information
 
-Some of the ads you see on the Web or in applications on your mobile device are tailored to your interests and based on your activity online or in the applications on your mobile device. This type of ad tailoring — sometimes called “interest-based” or “online behavioral” advertising — is enabled through various technologies, including browser cookies, mobile advertising identifiers as well as other non-cookie technologies. (You can learn more about non-cookie technologies from our [FAQ on Non-Cookie Technologies](http://www.networkadvertising.org/code-enforcement/faqs-non-cookie-technologies)). Tailored digital ads help support the free products, services and content you enjoy online. To help protect your privacy, NAI members voluntarily agree to the high standards established by the NAI Codes of Conduct when engaging in Interest-Based Advertising and Cross-App Advertising and are committed to providing you transparency and choice for these activities. This page was created to help users learn more about participating NAI member companies and the transparency and choice these members offer.
+hawtcelebs.com collects personally identifiable information when you (1) subscribe to our mailing list(s), (2) enter contests, (3) buy products, make referrals, or use the “tell a friend” option, and (4) submit feedback, questions, or “contact us” messages.
+
+## How We Use Personally Identifiable Information
+
+hawtcelebs.com uses your personally identifiable information to personalize your experience on our Web site, to deliver products and/or services ordered and/or purchased by you and to contact you. Hawtcelebs.com also compiles aggregate data from all of our customers to prepare internal reports about which pages are popular, how many total unique users visit our site, and different traffic patterns. Hawtcelebs.com does not combine your personally identifiable information with information about pages visited, purchases made, or any other click-stream data.
+
+## Who We Disclose Personally Identifiable Information To
+
+hawtcelebs.com will not sell, rent, trade, or disclose your personally identifiable information to anyone except as explained in this policy. hawtcelebs.com may disclose some personal information to outside companies who help hawtcelebs.com with the administration and delivery of newsletters, promotional games, trivia contests, and sweepstakes. For example, a company who administers a sweepstakes for us may use your e-mail address to update you on your status in the sweepstakes. Or, our newsletters may be distributed by another company that will use your e-mail or shipping address for delivery. The hawtcelebs.com Web site contains links to other Web sites. Although we do not provide any personally identifiable information to these companies, we cannot guarantee your privacy once you leave thehawtcelebs.com Web site.hawtcelebs.com is not responsible for the privacy policies, practices, or content of Web sites with links on our site. hawtcelebs.com may also disclose your personal information to law enforcement personnel, government officials, or others when we, in our sole discretion, believe that disclosure is necessary to prevent violations of the law, injury to person or property, or any harm to hawtcelebs.com or others.
+
+## Communication
+
+We collect personally identifiable information such as first and last name and email address when you sign up for our email list(s). These email services provide hawtcelebs.com users free opt-in updates about thehawtcelebs.com site and movie information and/or content. We may also request secondary information, such as your movie preferences, which we will use to help personalize the site for you in the future. We may also on occasion send promotional and informational mail to you from hawtcelebs.com. You may opt-out of receiving these secondary communications by sending an email with “remove” in the subject line to a.arsenovic.sg[at]gmail.com .
+
+## Demographic Information
+
+Demographic information may be collected on the web site. The information will only be shared with any third-parties in an aggregate format.
+
+## Public Forums
+
+This site makes voting and message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal opinion. Personally identifiable information is not made available to the public or to other users and voting is anonymous. However, when using message boards, your user name and email address – which constitutes personally identifiable information, provided by you, is made available on the message boards.
+
+## Log Files
+
+hawtcelebs.com, both using its own systems and the systems of others (such as Google or Quantcast, among others) automatically logs information such as IP addresses, ISPs, and browser type but does not link that information to personally identifying information. We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information.
+
+## Sharing of Information
+
+hawtcelebs.com is engaged in “powered by” relationships as more fully described herein. hawtcelebs.com does not share any personally identifiable information with third-parties, other than its partners as herein described, and will otherwise only share information in aggregate form. We use outside ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies from banner ads are collected by advertising networks, and we do not have access to this information.
+
+## Cookies & 3rd Party Advertisements
+
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+
+## Disclosure Regarding Google Display Advertising
+
+We implement Google Analytics features that use Display Advertising information for Google Analytics Demographics and Interest Reporting.
+
+You can opt-out of Google Analytics for Display Advertising, to prevent your data from being used by Google Analytics, by going to the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout/).
+
+We, along with third-party vendors (including Google), use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookies) to report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our website. You can read more about the cookies  used by Google Analytics advertising features, by going to the [Google Analytics Privacy Policy page](http://www.google.com/policies/technologies/ads/).
+
+## Security
+
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Employees are notified in staff meetings of security policies and practices regularly. Access to data limited and employees obtain access to log files by a secured password. hawtcelebs periodically reviews web security and ensures that all policies and practices are adhered to within the company.
+
+## Children
+
+**Our Policy For Guests Under Age 18** hawtcelebs.com is committed to protecting the privacy of children. We encourage parents and guardians to explore the Internet with their children. Visitors under age 18 should not submit any personally identifiable information to hawtcelebs.com.
 
 ## Links
 
-This Web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+hawtcelebs.com site contains links to other web sites. Please note that when you click on one of these links, you are ‘clicking’ to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policy may differ from ours.
 
-## Advertisers
+## Correct/Update or Cancel Subscription
 
-We use outside ad companies to display ads on our site. These ads may contain cookies and/or web beacons to collect data in the ad serving process and are collected by our ad companies, and we do not have access to this information. We work with the ad companies: Google Adsense (including their partners), CPX interactive, Blogads, Adify. Please check their websites for respective privacy policies.
+Users can change their information with hawtcelebs.com by emailing a request to a.arsenovic.sg[at]gmail.com . If you wish to unsubscribe from any hawtcelebs mailing list, please email a.arsenovic.sg[at]gmail.com using the e-mail address you would like removed and type “UNSUBSCRIBE” as the subject of the message.
 
-## Contact Information
+## Notification of Changes
 
-If users have any questions or suggestions regarding our privacy policy, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+hawtcelebs.com privacy practices may change periodically. hawtcelebs.com will notify users of changes only if the information collected from the user differs from that stated at the time of collection. hawtcelebs.com may also obtain the user’s consent by posting notice on the site.
 
-## Third Party Advertiser Cookies and Web Beacons
+## Contacting the Web Site
 
-This web site participates in Six Apart Media, a comprehensive advertising program provided by Six Apart Ltd. for publishers all across the Web. This section of our privacy policy describes how Six Apart Ltd. and the third party advertising networks and advertisers that display advertisements through Six Apart Media (collectively, “Advertisers”) collect, use, store and disclose data from visitors to this Web site.
-
-A “cookie” is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a Web site’s computers and stored on your computer’s hard drive. Cookies can be used to target advertisements relevant to your interests, based on your visits to different Web sites, to provide traffic measurement and other analytics and to conduct research.
-
-A “Web beacon” is an electronic file on a Web page that allows a Web site to count users who have visited that page, to access certain cookies and to provide auditing, research and reporting for advertisers.
-
-When your browser requests a page that displays advertising from one of the Advertisers, the Advertiser may view, edit or set its own cookie through your browser. In addition, the Advertiser may place its own Web beacon in the page, which may be triggered by your browser’s request.
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact hawtcelebs:  Email: a.arsenovic.sg[at]gmail.com
