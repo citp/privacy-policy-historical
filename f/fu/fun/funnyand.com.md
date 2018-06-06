@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funnyand.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219041544id_/http%3A//funnyand.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnyand.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606054853id_/http%3A//funnyand.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FunnyAnd.com
 
