@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kimonolabs.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113222213id_/https%3A//www.kimonolabs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kimonolabs.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606031732id_/http%3A//www.kimonolabs.com/privacy.html) for the most accurate reproduction.*
 
-# Kimono : Turn websites into structured APIs from your browser in seconds
+# None
 
 Last Updated: 22 Dec 2013
 
