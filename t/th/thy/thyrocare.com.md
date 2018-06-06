@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thyrocare.com privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601033940id_/http%3A//www.thyrocare.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thyrocare.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606031633id_/http%3A//www.thyrocare.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Thyrocare
 
