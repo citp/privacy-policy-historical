@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nysed.gov privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107210325id_/http%3A//www.nysed.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nysed.gov privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606040448id_/http%3A//www.nysed.gov/privacy-policy) for the most accurate reproduction.*
 
 # Internet Privacy Policy | New York State Education Department
 
