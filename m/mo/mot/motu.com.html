@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the motu.com privacy policy that was archived on 2017-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171202103302id_/http%3A//motu.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the motu.com privacy policy that was archived on 2018-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180606114052id_/http%3A//motu.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
@@ -65,6 +65,8 @@
     <link rel="stylesheet" href="//code.jquery.com/ui/1.11.0/themes/cupertino/jquery-ui.css">
 
     <link rel="stylesheet" href="http://www.motu.com/jquery-ui.css">
+
+    <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
 
 
 
@@ -165,6 +167,8 @@
     <script type="text/javascript" src="http://motu.com/merged.js">
     </script>
 
+    <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+
     
 
       
@@ -180,6 +184,21 @@
 
   ga('create', 'UA-22409597-1', 'auto');
   ga('send', 'pageview');
+
+  window.addEventListener("load", function(){
+  window.cookieconsent.initialise({
+    "palette": {
+      "popup": {
+        "background": "#000"
+      },
+      "button": {
+        "background": "#f1d600"
+      }
+    },
+    "content": {
+      "href": "https://motu.com/privacy.html"
+    }
+  })});
 
 </script>
 
@@ -382,15 +401,6 @@
 
                 <div class="portletContent even">
 
-                    <a href="http://motu.com/store_products">Store</a>
-
-                </div>
-
-            
-            
-
-                <div class="portletContent odd">
-
                     <a href="http://motu.com/download">Downloads</a>
 
                 </div>
@@ -398,7 +408,7 @@
             
             
 
-                <div class="portletContent even">
+                <div class="portletContent odd">
 
                     <a href="http://motu.com/other">Company</a>
 
@@ -407,9 +417,18 @@
             
             
 
-                <div class="portletContent odd">
+                <div class="portletContent even">
 
                     <a href="http://motu.com/newsitems">News</a>
+
+                </div>
+
+            
+            
+
+                <div class="portletContent odd">
+
+                    <a href="http://motu.com/store_products">Store</a>
 
                 </div>
 
@@ -596,67 +615,38 @@
         
     
         <div class="plain">
-            <p>FIRST: The only personal information we collect online is information 
-  you voluntarily provide to us!<br>
-  This information could include (for example) your name, a mailing 
-  address, email address, or phone number – it depends on what 
-  you’re asking MOTU to do for you. If you supply us with personal 
-  information on this website, you will only be contacted so that 
-  we can provide you with the information, products, or services 
-  you have requested. If you make a purchase, of course MOTU will 
-  collect (and hold) all the information mentioned above, plus 
-  such things as your credit card number and billing address. 
-  Occasionally – unless you ask us not to – we might send you 
-  extra information about MOTU and its products, that we believe 
-  you would find interesting. (Note: Our website is not directed 
-  at children, so MOTU does not knowingly collect or maintain 
-  any information from children under age 13.)</p>
-<p>SECOND: When you browse MOTU’s web site, you do so without 
-  revealing your identity.<br>
-  MOTU’s web site uses cookies and your Internet Address only 
-  to present you with the proper information, and to keep your 
-  responses separate from other people using the web site. We 
-  also collect information about which pages people visit, so 
-  that we can update our website as necessary. MOTU does not disclose 
-  IP Address, Domain Name, nor even other aggregated information 
-  to others. We’ll hang onto this information to analyze it, and 
-  then throw it away. (You can, if you wish, delete or disable 
-  cookies in your web browser. Most of MOTU’s web site will still 
-  work, but some parts may not.)</p>
-<p>THIRD: When you do give your information to us, we are committed 
-  to protecting its confidentiality.<br>
-  MOTU’s policies limit access to the personal information collected 
-  from this web site or via phone to employees of MOTU and its affiliates who 
-  need the information to fulfill their business responsibilities 
-  to you, and to us. Our employees and consultants are under strict 
-  confidentiality requirements. Vendors and other outside contractors 
-  we engage are subject to contractual or regulatory requirements 
-  safeguarding personal information.</p>
-<p>BUT: Courts and law enforcement might override our policies.<br>
-  At times we may be required by law or litigation to disclose 
-  your personal information. We may also disclose information 
-  about you if we determine that for national security, law enforcement, 
-  or other issues of public safety, disclosure is necessary.</p>
-<p>NOTE: MOTU’s web site may be linked to other web sites.<br>
-  MOTU often creates links to other web sites. Of course, MOTU 
-  is not responsible for the content or privacy practices employed 
-  by sites that are linked from or to our web site. As you visit 
-  pages and sites of different businesses, please be sure to review 
-  the privacy policies applicable to them. </p>
-<p>FINALLY: <br>
-  A long-time MOTU employee serves as our company-wide privacy 
-  officer, with responsibility for administering and implementing 
-  our Online Privacy Policy. If you have any questions or comments 
-  about MOTU’s Privacy Policy or the principles and procedures 
-  behind it, please put them in writing, to:</p>
-<p>MOTU<br>
-  Attention: Privacy Issues<br>
-  1280 Massachusetts Avenue<br>
-  Cambridge, MA 02138</p>
-<p>From time to time, Mark of the Unicorn, Inc. (referred to here 
-  as "MOTU", "we", or "us") may modify this Online Privacy 
-  Policy.</p>
+            <style type="text/css">
+.documentContent h1{display:none;}
+</style>
 
+<h2>MOTU Privacy Policy (May 2018)</h2>
+
+<p>MOTU values your privacy. Below we explain the personal information we do (and don’t) collect from you and the steps we take to protect it, in accordance with the laws of the United States and the EU GDPR (General Data Protection Regulation).</p>
+
+<p>FIRST: The only personal information we collect is information you provide to us.<br>
+This information could include (for example) your name, a mailing address, email address, or phone number – it depends on what you’re asking MOTU to do for you. If you supply us with personal information on our website, you will only be contacted so that we can provide you with the information, products, or services you have requested. If you make a purchase, of course MOTU will collect (and hold) all the information mentioned above, plus such things as your credit card number and billing address.  If you license our software (or a trial version), MOTU collects the name and email address you enter plus your Internet (IP) Address and a unique machine ID, to compare with later uses.    Occasionally – if you allow us – we might send you extra information about MOTU and its products, that we believe you would find interesting.</p>
+
+<p>SECOND: When you browse MOTU’s website, you do so without revealing your identity.<br>
+MOTU’s website uses cookies and your Internet Address only to present you with the proper information, and to keep your responses separate from other people using the website. We also collect information about which pages people visit, so that we can update our website as necessary. MOTU does not disclose IP Address, Domain Name, nor even other aggregated information to others. We’ll hang onto this information to analyze it, and then throw it away. You can, if you wish, delete or disable cookies in your web browser. Most of MOTU’s web site will still work, but some parts may not. (Note: Our website is not directed at children, so MOTU does not knowingly collect or maintain any information from children under age 13.)</p>
+
+<p>THIRD: When you do give your information to us, we are committed to protecting its confidentiality.<br>
+MOTU limits access to the personal information collected to employees of MOTU and its affiliates who need the information to fulfill their business responsibilities to you, and to us. Our employees and consultants are under strict confidentiality requirements. We may have to use third-party service providers to process information on our behalf for the purposes outlined above (see a current list <a href="/third-party-service-providers.html/" target="_blank">here</a>), but vendors and other outside contractors we engage are subject to contractual or regulatory requirements safeguarding personal information.  MOTU stores information in The United States of America, and we retain it as long as needed to provide you support and information for the products you license and the services you request. </p>
+
+<p>BUT: Courts and law enforcement might override our policies.<br>
+At times we may be required by law or litigation to disclose your personal information. We may also disclose information about you if we determine that for national security, law enforcement, or other issues of public safety, disclosure is necessary.</p>
+
+<p>NOTE: MOTU’s web site may be linked to other web sites.<br>
+MOTU often creates links to other web sites. Of course, MOTU is not responsible for the content or privacy practices employed by sites that are linked from or to our web site. As you visit pages and sites of different businesses, please be sure to review the privacy policies applicable to them.</p>
+
+<p>FINALLY: <br>
+A long-time MOTU employee serves as our company-wide privacy officer, with responsibility for administering and implementing our Privacy Policy. If you have any questions or comments about MOTU’s Privacy Policy, the principles and procedures behind it, or the data stored for and about you, please email them to customerservice@motu.com to the attention of Data Protection Officer, or put them in writing, to:</p>
+
+<p>MOTU<br>
+Attention: Data Protection Officer<br>
+1280 Massachusetts Avenue<br>
+Cambridge, MA 02138</p>
+
+<p>(Per EU regulations, this is also the contact information for the “Data Controller” with respect to your personal information.)  From time to time, Mark of the Unicorn, Inc. (referred to here as "MOTU", "we", or "us") may modify this Privacy Policy.</p>
         </div>
 
         <div id="relatedItems">
@@ -1080,6 +1070,162 @@ jQuery(document).ready(function() {
           	
     <div class="footer-news-block-item">
       						
+      <a class="footer-news-thumb global-hover" href="http://motu.com/newsitems/family-guy-composer-walter-murphy-shares-his-process">
+        <img class="newsImage" width="185px" alt="" src="http://motu.com/newsitems/family-guy-composer-walter-murphy-shares-his-process/image">
+      </a>
+						
+      <p class="footer-news-date">04.25.2018</p>
+      
+      <p class="footer-news-headline">
+        <a href="http://motu.com/newsitems/family-guy-composer-walter-murphy-shares-his-process">
+           Family Guy composer Walter Murphy shares his process
+        </a>
+      </p>
+                
+												
+
+		
+    </div>
+
+   </li>
+
+   
+   
+
+   <li> 
+          	
+    <div class="footer-news-block-item">
+      						
+      <a class="footer-news-thumb global-hover" href="http://motu.com/newsitems/motu-demos-from-namm-2018">
+        <img class="newsImage" width="185px" alt="" src="http://motu.com/newsitems/motu-demos-from-namm-2018/image">
+      </a>
+						
+      <p class="footer-news-date">03.30.2018</p>
+      
+      <p class="footer-news-headline">
+        <a href="http://motu.com/newsitems/motu-demos-from-namm-2018">
+           MOTU demos from NAMM 2018
+        </a>
+      </p>
+                
+												
+
+		
+    </div>
+
+   </li>
+
+   
+   
+
+   <li> 
+          	
+    <div class="footer-news-block-item">
+      						
+      <a class="footer-news-thumb global-hover" href="http://motu.com/newsitems/and-the-oscar-goes-to-alexandre-desplat">
+        <img class="newsImage" width="185px" alt="" src="http://motu.com/newsitems/and-the-oscar-goes-to-alexandre-desplat/image">
+      </a>
+						
+      <p class="footer-news-date">03.06.2018</p>
+      
+      <p class="footer-news-headline">
+        <a href="http://motu.com/newsitems/and-the-oscar-goes-to-alexandre-desplat">
+           And the Oscar goes to...Alexandre Desplat
+        </a>
+      </p>
+                
+												
+
+		
+    </div>
+
+   </li>
+
+   
+   
+
+   <li> 
+          	
+    <div class="footer-news-block-item">
+      						
+      <a class="footer-news-thumb global-hover" href="http://motu.com/newsitems/scored-by-composer-ludwig-goransson-black-panther-is-breaking-records">
+        <img class="newsImage" width="185px" alt="" src="http://motu.com/newsitems/scored-by-composer-ludwig-goransson-black-panther-is-breaking-records/image">
+      </a>
+						
+      <p class="footer-news-date">02.22.2018</p>
+      
+      <p class="footer-news-headline">
+        <a href="http://motu.com/newsitems/scored-by-composer-ludwig-goransson-black-panther-is-breaking-records">
+           Scored by film composer Ludwig Göransson, 'Black Panther' is breaking records
+        </a>
+      </p>
+                
+												
+
+		
+    </div>
+
+   </li>
+
+   
+   
+
+   <li> 
+          	
+    <div class="footer-news-block-item">
+      						
+      <a class="footer-news-thumb global-hover" href="http://motu.com/newsitems/624-and-828es-win-industry-awards">
+        <img class="newsImage" width="185px" alt="" src="http://motu.com/newsitems/624-and-828es-win-industry-awards/image">
+      </a>
+						
+      <p class="footer-news-date">02.15.2018</p>
+      
+      <p class="footer-news-headline">
+        <a href="http://motu.com/newsitems/624-and-828es-win-industry-awards">
+           624 and 828es win industry awards
+        </a>
+      </p>
+                
+												
+
+		
+    </div>
+
+   </li>
+
+   
+   
+
+   <li> 
+          	
+    <div class="footer-news-block-item">
+      						
+      <a class="footer-news-thumb global-hover" href="http://motu.com/newsitems/motu-at-namm-2018">
+        <img class="newsImage" width="185px" alt="" src="http://motu.com/newsitems/motu-at-namm-2018/image">
+      </a>
+						
+      <p class="footer-news-date">01.19.2018</p>
+      
+      <p class="footer-news-headline">
+        <a href="http://motu.com/newsitems/motu-at-namm-2018">
+           MOTU at NAMM 2018
+        </a>
+      </p>
+                
+												
+
+		
+    </div>
+
+   </li>
+
+   
+   
+
+   <li> 
+          	
+    <div class="footer-news-block-item">
+      						
       <a class="footer-news-thumb global-hover" href="http://motu.com/newsitems/introducing-the-828es">
         <img class="newsImage" width="185px" alt="" src="http://motu.com/newsitems/introducing-the-828es/image">
       </a>
@@ -1178,162 +1324,6 @@ jQuery(document).ready(function() {
    </li>
 
    
-   
-
-   <li> 
-          	
-    <div class="footer-news-block-item">
-      						
-      <a class="footer-news-thumb global-hover" href="http://motu.com/newsitems/624-8a">
-        <img class="newsImage" width="185px" alt="" src="http://motu.com/newsitems/624-8a/image">
-      </a>
-						
-      <p class="footer-news-date">12.06.2016</p>
-      
-      <p class="footer-news-headline">
-        <a href="http://motu.com/newsitems/624-8a">
-           Introducing two new audio interfaces: the 624 and 8A
-        </a>
-      </p>
-                
-												
-
-		
-    </div>
-
-   </li>
-
-   
-   
-
-   <li> 
-          	
-    <div class="footer-news-block-item">
-      						
-      <a class="footer-news-thumb global-hover" href="http://motu.com/newsitems/introducing-the-ultralite-mk4">
-        <img class="newsImage" width="185px" alt="" src="http://motu.com/newsitems/introducing-the-ultralite-mk4/image">
-      </a>
-						
-      <p class="footer-news-date">09.27.2016</p>
-      
-      <p class="footer-news-headline">
-        <a href="http://motu.com/newsitems/introducing-the-ultralite-mk4">
-           Introducing the UltraLite-mk4
-        </a>
-      </p>
-                
-												
-
-		
-    </div>
-
-   </li>
-
-   
-   
-
-   <li> 
-          	
-    <div class="footer-news-block-item">
-      						
-      <a class="footer-news-thumb global-hover" href="http://motu.com/newsitems/motu-and-os-x-sierra">
-        <img class="newsImage" width="185px" alt="" src="http://motu.com/newsitems/motu-and-os-x-sierra/image">
-      </a>
-						
-      <p class="footer-news-date">09.20.2016</p>
-      
-      <p class="footer-news-headline">
-        <a href="http://motu.com/newsitems/motu-and-os-x-sierra">
-           MOTU and OS X Sierra
-        </a>
-      </p>
-                
-												
-
-		
-    </div>
-
-   </li>
-
-   
-   
-
-   <li> 
-          	
-    <div class="footer-news-block-item">
-      						
-      <a class="footer-news-thumb global-hover" href="http://motu.com/newsitems/digital-performer-91-is-now-shipping">
-        <img class="newsImage" width="185px" alt="" src="http://motu.com/newsitems/digital-performer-91-is-now-shipping/image">
-      </a>
-						
-      <p class="footer-news-date">07.29.2016</p>
-      
-      <p class="footer-news-headline">
-        <a href="http://motu.com/newsitems/digital-performer-91-is-now-shipping">
-           Digital Performer 9.1 is now shipping
-        </a>
-      </p>
-                
-												
-
-		
-    </div>
-
-   </li>
-
-   
-   
-
-   <li> 
-          	
-    <div class="footer-news-block-item">
-      						
-      <a class="footer-news-thumb global-hover" href="http://motu.com/newsitems/on-tour-with-digital-performer">
-        <img class="newsImage" width="185px" alt="" src="http://motu.com/newsitems/on-tour-with-digital-performer/image">
-      </a>
-						
-      <p class="footer-news-date">06.21.2016</p>
-      
-      <p class="footer-news-headline">
-        <a href="http://motu.com/newsitems/on-tour-with-digital-performer">
-           On tour with Digital Performer
-        </a>
-      </p>
-                
-												
-
-		
-    </div>
-
-   </li>
-
-   
-   
-
-   <li> 
-          	
-    <div class="footer-news-block-item">
-      						
-      <a class="footer-news-thumb global-hover" href="http://motu.com/newsitems/motu-announces-windows-thunderbolt-support-at-musikmesse-2016">
-        <img class="newsImage" width="185px" alt="" src="http://motu.com/newsitems/motu-announces-windows-thunderbolt-support-at-musikmesse-2016/image">
-      </a>
-						
-      <p class="footer-news-date">04.18.2016</p>
-      
-      <p class="footer-news-headline">
-        <a href="http://motu.com/newsitems/motu-announces-windows-thunderbolt-support-at-musikmesse-2016">
-           MOTU announces Windows Thunderbolt support at Musikmesse 2016
-        </a>
-      </p>
-                
-												
-
-		
-    </div>
-
-   </li>
-
-   
 
    </ul>
 
@@ -1390,8 +1380,9 @@ jQuery(document).ready(function() {
             	<li><a href="http://motu.com/other/career">Job Opportunities</a></li>
             	<li><a href="http://motu.com/other/feedback">Contact MOTU</a></li>
             	<li><a href="http://motu.com/other/distributors.html">Distributors</a></li>
-            	<li><a href="http://motu.com/other/rss-feeds">RSS Feeds</a></li>
             	<li><a href="http://motu.com/marketing">Marketing</a></li>
+            	<li><a href="http://motu.com/privacy.html">Privacy</a></li>
+            	<!-- <li><a href="" tal:attributes="href string:$portal_url/terms_of_service.html">Terms of Service</a></li> -->
             </ul>
 	  </div> 
 
@@ -1401,10 +1392,9 @@ jQuery(document).ready(function() {
 
 <div id="footer-copyright" class="center">
   
-    Copyright © 2008-<span>2017</span>
+    Copyright © 2008-<span>2018</span>
     MOTU, Inc.  All rights reserved.
-    <br>
-    <span><a href="http://motu.com/privacy.html">Privacy Policies and Terms of Use</a></span>
+    
 </div>
 
  
