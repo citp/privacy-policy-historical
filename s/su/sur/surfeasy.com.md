@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the surfeasy.com privacy policy that was archived on 2017-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170330010211id_/https%3A//www.surfeasy.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfeasy.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606122030id_/https%3A//www.surfeasy.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - SurfEasy Ultra fast VPN | VPN Service for Android, iOS, Mac & Windows
+# Privacy Policy | SurfEasy Ultra fast, no-log VPN for Android, iOS, Mac & Windows
 
 ## Privacy Policy
 
