@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the your-hosting.net privacy policy that was archived on 2017-09-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170929044155id_/http%3A//your-hosting.net/terms) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the your-hosting.net privacy policy that was archived on 2018-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180606054314id_/http%3A//your-hosting.net/terms) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>Privacy Policy - WebFreeHosting.net</title>
@@ -80,101 +80,571 @@
 <div class="wide_box_full_grey">
 <div class="line">							
 									 
-<span class="terms_title">Privacy Policy</span><br>
- <br>
-  <ol>
-    <li type="1"><b>Statement</b><br>
-        <br>
-       WebFreeHosting has created this privacy statement in order to demonstrate its commitment
-        to customer privacy. The following discloses the information gathering practices employed by
-        WebFreeHosting.<br><br>
-    </li>
 
-    <li type="1"><b>Automatically Logged Information</b><br>
-        <br>
-       We use your IP address to help identify you as a unique visitor and to help improve the website's performance for different browser/operating system configurations.<br><br>
-    </li>
+        <script language="Javascript" type="text/javascript">
 
-    <li type="1"><b>Email Communication</b><br>
-        <br>
-       We will not intentionally monitor or disclose any of your e-mail messages unless we
-       believe or we are required to do so:<br>
-       - To enforce these Terms and Conditions,<br>
-       - By law,<br>
-       - To defend our corporation in any action, <br>
-       - To protect our property, dignity, and innocence.<br>
-       <br>
-       WebFreeHosting will not send to its customers any unsolicited information,
-       including e-mails, except as mentioned below. New Customers will receive a 
-       welcome e-mail providing the user credentials and explaining
-       the features provided by the service. WebFreeHosting may also send periodic
-       letters to its members in order to announce important service changes, new features, technical
-       issue updates, and news about the Service.<br><br>
-    </li>
+            if (typeof show_layer_ext != 'function') {
+                function show_layer_ext(id, action1, action2)
+                {
+                    // Opera
+                    if(navigator.userAgent.indexOf("Opera") != -1 && document.getElementById)
+                        type="OP";
 
-    <li type="1"><b>Cookies</b><br>
-        <br>
-       Our site uses cookies to identify you each time you visit our site. We also use
-       cookies for website statistics. These statistics consist of browser and
-       operating system types, search engine keywords, referrer IDs, how long a
-       visitor stays on the site, and pages viewed at our site. In no way do these
-       statistics track users after they leave WebFreeHosting.<br><br>
-    </li>
+                    // Internet Explorer e.g. IE4+
+                    if(document.all)
+                        type="IE";
 
-    <li type="1"><b>Advertisers</b><br>
-        <br>
-       Your personal information will never be sold or traded for any reason.
-       You agree to respect the privacy and confidentiality of others. Since privacy is a
-       function of your password, we encourage you to change your password frequently and
-       not to share it with anyone.<br><br>
-    </li>
+                    // Netscape version 4 :
+                    if(document.layers)
+                        type="NN";
 
-    <li type="1"><b>Registration Forms</b><br>
-        <br>
-       Contact information from the registration forms is used to contact the customer
-       when necessary.<br><br>
-    </li>
+                    // Mozila e.g. Netscape 6 upwards
+                    if(!document.all && document.getElementById)
+                        type="MO";
 
-    <li type="1"><b>External Links</b><br>
-        <br>
-       This site contains links to other sites. WebFreeHosting is not responsible for
-       the privacy practices or the content of such Web sites.<br><br>
-    </li>
+                    // Show/hide the layer
+                    if(type == "IE")
+                    {
+                        eval("document.all." + id + ".style.visibility='" + action1 + "'");
+                        eval("document.all." + id + ".style.display='" + action2 + "'");
+                    }
+                    if(type == "NN")
+                    {
+                        eval("document." + id + ".visibility='" + action1 + "'");
+                        eval("document." + id + ".display='" + action2 + "'");
+                    }
+                    if(type == "MO" || type == "OP")
+                    {
+                        eval("document.getElementById('" + id + "').style.visibility='" + action1 + "'");
+                        eval("document.getElementById('" + id + "').style.display='" + action2 + "'");
+                    }
+                }
+            }
 
-    <li type="1"><b>Security</b><br>
-        <br>
-       This site has security measures in place to protect the loss, misuse, and alteration
-       of the information under our control.<br><br>
-    </li>
-
-    <li type="1"><b>Children Guidelines</b><br>
-        <br>
-       We care deeply about children and understand that they have special privacy needs.
-       Therefore, we have adopted the following privacy policy regarding children:<br>
-       We will NOT collect, use, or distribute personally identifiable information to
-       third parties without prior verifiable parental consent.<br>
-       We will NOT grant children access to unmonitored chat rooms, message boards, email
-       accounts, or other services that could give them the ability to publicly post
-       or otherwise distribute personally identifiable information without
-       prior verifiable parental consent.<br><br>
-    </li>
-
-        <li type="1"><b>News Letter Notification Policy</b><br>
+            function display_policy(type)
+            {
+                if(type == "privacy_policy")
+                {
+                    show_layer_ext("privacy_policy", "visible", "block");
+                    show_layer_ext("cookie_policy", "hidden", "none");
+                    show_layer_ext("dpa", "hidden", "none");
+                }
+                else if(type == "cookie_policy")
+                {
+                    show_layer_ext("cookie_policy", "visible", "block");
+                    show_layer_ext("privacy_policy", "hidden", "none");
+                    show_layer_ext("dpa", "hidden", "none");
+                }
+                else if(type == "dpa")
+                {
+                    show_layer_ext("dpa", "visible", "block");
+                    show_layer_ext("privacy_policy", "hidden", "none");
+                    show_layer_ext("cookie_policy", "hidden", "none");
+                }
+            }
+        </script>
+            <a id="privacy_policy_link" href="javascript:void(0)" onclick="display_policy('privacy_policy')">Privacy Policy</a> |
+            <a id="cookie_policy_link" href="javascript:void(0)" onclick="display_policy('cookie_policy')">Cookie Policy</a> |
+            <a id="dpa_link" href="javascript:void(0)" onclick="display_policy('dpa')">GDPR Data Processing Agreement</a><br><br>
+            <div id="privacy_policy" style="visibility: visible; display: block"><span id="privacy_policy_text" class="terms_title">Privacy Policy</span><br>
+<br>
+This Privacy Policy describes how WebFreeHosting, represented by Attractsoft GmbH, registered in Germany, Registration No.: HRB 7963 KI and its affiliates ("WebFreeHosting", "we", "our" or "us") collect, share and use information in connection with your use of our websites, applications, and services (the "Services"). This Privacy Policy (the "Privacy Policy") does not apply to information our customers may process when using our Services.<br>
+<br>
+<b>We will NEVER sell your personal data</b><br>
+<br>
+We carry out all processing operations in strict compliance with European privacy laws and your personal information is always under your control. We want our services to be safe and enjoyable for you, and that is why we value your privacy.<br>
+<br>
+We may collect and receive information about users of our Services ("users," "you," or "your") from various sources, including:<br>
+<ul>
+    <li>information you provide through your user account on the Services (your "Account") if you register for the Services;</li>
     <br>
-       Customers may opt out of receiving newsletters and/or notices from WebFreeHosting
-       by following a simple procedure available through a link at the bottom of the newsletter email.<br>
-       <br>
-       Please note, however, that WebFreeHosting reserves the right to send bulletins and
-       other important information regarding our services at our discretion.<br><br>
-    </li>
-
-
-    <li type="1"><b>Changes to our privacy policy</b><br>
+    <li>your use of the Services; and</li>
     <br>
-       We at WebFreeHosting reserve the right to change our privacy policy at any time without prior notice.<br>
+    <li>from third-party websites, services, and partners.</li>
+</ul>
+<br>
+We recommend that you read this Privacy Policy in full to ensure you are fully informed. If you have any questions about this Privacy Policy or our data collection, disclosure, and use practices, please contact us at <a href="mailto:privacy@supportindeed.com">privacy@supportindeed.com</a>.<br>
+<br>
+<ol>
+    <li type="1"><b>What information we collect</b><br>
+        <br>
+        <ol>
+            <li type="a">Information you provide to us<br>
+                <br>
+                <ol>
+                    <li type="i">By registering for an account<br>
+                        <br>
+                        When you register for an Account, we may ask for your contact information, including items such as name, email address, company name, address, and telephone number.
+                    </li>
+                    <br>
+                    <li type="i">By communicating with us<br>
+                        <br>
+                        If you contact us directly, we may receive additional information about you like your name, email address, phone number, internet protocol (IP) addresses, the contents of the message and/or attachments you may send us, as well as any other information you may choose to provide. We may also receive a confirmation when you open an email from us.
+                    </li>
+                    <br>
+                    <li type="i">By making a payment for our services<br>
+                        <br>
+                        When you enter your financial information for any payment associated with your Account, that information is directed to any of our third-party payment processors (2Checkout.com, Inc, PayPal (Europe) S.à r.l. et Cie, S.C.A., Worldpay (UK) Limited, Worldpay Limited, Worldpay BV, or Worldpay AP Limited). We do not store your financial account information on our systems; however, we have access to, and may retain, subscriber information through our third-party payment processor. 
+                    </li>
+                </ol>
+                <br>
+                The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.
+            </li>
+            <br>
+            <li type="a">Information we automatically collect when you use our services<br>
+                <br>
+                <ol>
+                    <li type="i">Cookies and other tracking technologies<br>
+                        <br>
+                        Like most websites, we gather certain information automatically and store it in log files. In addition, when you use our Services, we may collect certain information automatically from your device.  This information may include internet protocol (IP) addresses, browser type, browser plug-ins, screen resolution, window size, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, clickstream data, landing page, and referring URL. To collect this information, a cookie may be saved on your computer or device when you visit our Services. Cookies contain a small amount of information that allows our web servers to recognize you. For more information, and to learn how to manage the technologies we utilize, please visit our <a href="javascript:void(0)" onclick="display_policy('cookie_policy')">Cookie Policy</a>. We store information that we collect through cookies, log files, and/or empty gifs to record your preferences. We may also automatically collect information about your use of features of our Services, about the functionality of our Services, frequency of visits, and other information related to your interactions with the Services. We may track your use across different websites and services. In some countries, including countries in the European Economic Area ("EEA"), the information referenced above in this paragraph may be considered personal information under applicable data protection laws.
+                    </li>
+                    <br>
+                    <li type="i">How our services are used<br>
+                        <br>
+                        When you use our Services, we may collect information about your engagement with and utilization of our Services, like processor usage, memory usage, storage capacity, navigation of our Services, and system-level metrics. We use this data to operate the Services, maintain and improve the performance and utilization of the Services, develop new features, protect the security and safety of our Services and our customers, and provide customer support. We also use this data to develop aggregate analysis and business intelligence that enable us to operate, protect, make informed decisions, and report on the performance of our business.
+                    </li>
+                </ol>
+            </li>
+            <br>
+            <li type="a">Information We Gather and Receive from Third Parties<br>
+                <br>
+                <ol>
+                    <li type="i">Social media platforms<br>
+                        <br>
+                        We operate social media platforms. These platforms are, in most cases, operated outside of the EU and do not comply with current Data Privacy Act and subsequent GDPR provision although they may well conform to the U.S Privacy Shield protocol.<br>
+                        <br>
+                        Any personal data gathered on these platforms is only in response to users interacting out of their own will with our marketing pages. The contact is deemed as a legitimate business inquiry. The personal contact data is removed from the social media platform once the user has requested its removal.
+                    </li>
+                    <br>
+                    <li type="i">Analytics<br>
+                        <br>
+                        Our services use Google Analytics to collect information about how visitors use our website. We anonymize this data at the point of collection and automatically delete user and event data that is older than two years. Google provides some additional privacy options regarding its Analytics cookies at <a href="https://www.google.com/policies/privacy/partners/" target="_blank">https://www.google.com/policies/privacy/partners/</a>.
+                    </li>
+                    <br>
+                    <li type="i">Registering with third-party accounts<br>
+                        <br>
+                        If you choose to link our Services to a third-party account (such as Facebook and Google), we will receive information about that account, like your authentication token, which authorizes linking, from the third-party account. If you wish to limit the information available to us through your third-party accounts, you should visit the privacy settings of your third-party account to find what are your options.
+                    </li>
+                    <br>
+                    <li type="i">Third-party partners<br>
+                        <br>
+                        We may also receive publicly available information about you from our third-party partners and combine it with data that we have about you.
+                    </li>
+                </ol>
+            </li>
+        </ol>
     </li>
-
-  </ol>
+    <br>
+    <li type="1"><b>How your information is used</b><br>
+        <br>
+        We use the information we collect in various ways, including to:<br>
+        <br>
+        <ul>
+            <li>Provide, manage, and maintain our Services;</li>
+            <br>
+            <li>Improve, expand, and personalize our Services;</li>
+            <br>
+            <li>Develop and deploy new products, services, features, and functionalities;</li>
+            <br>
+            <li>Understand and analyze how you use our Services;</li>
+            <br>
+            <li>Process your transactions; </li>
+            <br>
+            <li>Find and prevent fraud;</li>
+            <br>
+            <li>Communicate with you, either directly or through one of our partners, including for marketing purposes, customer service, to provide you with updates or other information related to the Service;</li>
+            <br>
+            <li>For compliance purposes, including enforcing our Terms of Service, other legal rights, as may be required by applicable laws and regulations or as requested by any judicial process or governmental agency.</li>
+        </ul> 
+    </li>
+    <br>
+    <li type="1"><b>How is information shared</b><br>
+        <br>
+        We may share the information we collect in various ways, including the following:<br>
+        <br>
+        <ol>
+            <li type="a">With your consent<br>
+                <br>
+                We may share information with your consent.
+            </li>
+            <br>
+            <li type="a">Aggregate information<br>
+                <br>
+                Where legally permissible, we may use and share information about you with our partners in de-identified or aggregated form that can’t reasonably be used to identify you.
+            </li>
+            <br>
+            <li type="a">Service Providers and Vendors<br>
+                <br>
+                We may share information with third-party vendors and service providers that provide services on our behalf, such as helping to provide our Services, for promotional and/or marketing purposes, and to provide you with information relevant to you such as special offers, software updates, product announcements, or other information.
+            </li>
+            <br>
+            <li type="a">Advertising<br>
+                <br>
+                We work with third-party advertising partners to show you ads that we think may interest you. These advertising partners may set and access their own cookies, blank pixels, and similar technologies on our Services, and they may otherwise collect or have access to information about you which they may collect over time and across different online services. Some of our advertising partners are members of the Digital Advertising Alliance and the Network Advertising Initiative. To learn more about these programs, or opt-out of personalized ads, visit the Network Advertising Initiative at <a href="https://www.networkadvertising.org" target="_blank">www.networkadvertising.org</a>, or the Digital Advertising Alliance's Self-Regulatory program for Online Behavioral Advertising at <a href="https://www.aboutads.info/choices" target="_blank">www.aboutads.info</a>.
+            </li>
+            <br>
+            <li type="a">Third-party partners<br>
+                <br>
+                We may share information about users with third-party partners in order to receive additional publicly available information about you.
+            </li>
+            <br>
+            <li type="a">Information we share when you sign up through a referral/affiliate<br>
+                <br>
+                If you sign up for our Services through a referral or affiliate, we may share information with your referrer/affiliate to let them know that you used their referral to sign up for our Services.
+            </li>
+            <br>
+            <li type="a">Analytics<br>
+                <br>
+                We use analytics providers such as Google Analytics. Google Analytics uses cookies to collect non-identifying information. Google provides some additional privacy options regarding its Analytics cookies at <a href="https://www.google.com/policies/privacy/partners/" target="_blank">https://www.google.com/policies/privacy/partners/</a>.
+            </li>
+            <br>
+            <li type="a">Transfers of business<br>
+                <br>
+                Information may be disclosed and otherwise transferred to any potential acquirer, assignee, or successor as part of any proposed merger, sale of assets, debt financing, acquisition, or similar transaction, or in the event of insolvency, receivership, or bankruptcy in which information is transferred to one or more third parties as one of our business assets.
+            </li>
+            <br>
+            <li type="a">When required by law and similar disclosures<br>
+                <br>
+                We may also share information to:<br>
+                <br>
+                <ul>
+                    <li>satisfy any applicable law, legal process, regulation, or governmental request;</li>
+                    <br>
+                    <li>detect, prevent, or otherwise address security, fraud, or technical issues;</li>
+                    <br>
+                    <li>enforce this Privacy Policy and our Terms of Service, including investigation of potential violations hereof;</li>
+                    <br>
+                    <li>respond to your requests; or</li>
+                    <br>
+                    <li>protect our property or safety, rights, our users and the public.</li>
+                </ul>
+                <br>
+                This includes exchanging information for fraud protection and spam/malware prevention with other companies and organizations.
+            </li>
+        </ol>
+    </li>
+    <br>
+    <li type="1"><b>Legal basis for processing personal information</b><br>
+        <br>
+        Our legal basis for collecting and using the personal information described above will depend on the personal information concerned and the specific context in which we collect it.<br>
+        <br>
+        However, we will normally collect personal information from you only:<br>
+        <br>
+        <ul>
+            <li>where we have your consent to do so;</li>
+            <br>
+            <li>where the processing is in our legitimate interests and not overridden by your rights;</li>
+            <br>
+            <li>where we need the personal information to perform a contract with you.</li>
+        </ul>
+        <br>
+        We have a legitimate interest in operating our Services and communicating with you when necessary to provide these Services. In example, when improving our platform, undertaking marketing, responding to your queries, or for the purposes of detecting or preventing illegal activities.<br>
+        <br>
+        In some cases, we may also have a legal obligation to collect personal information from you or may otherwise need the personal information to protect your vital interests or those of another person.<br>
+        <br>
+        In case we need you to provide personal information to us to perform a contract with you or to comply with a legal requirement, we will make this clear at the relevant time and explain whether your personal information is mandatory or not (as well as of the possible consequences if you do not provide your personal information).
+    </li>
+    <br>
+    <li type="1"><b>Third-party services</b><br>
+        <br>
+        You may access other third-party services through the Services, for example by clicking on links to those third-party services from within the Services. We are not responsible in any way for the privacy policies and/or practices of these third-party services, and we encourage you to carefully review their privacy policies.
+    </li>
+    <br>
+    <li type="1"><b>Securing your data</b><br>
+        <br>
+        We are committed to protecting your data and personal information. We employ a variety of security measures and technologies, that are designed to defend against unauthorized access, use, or disclosure. Please bear in mind that the Internet cannot be guaranteed to be 100% secure. However, we aim to provide a level of security that can cover the possible risks when processing your personal information.
+    </li>
+    <br>
+    <li type="1"><b>Keeping your data</b><br>
+        <br>
+        We keep personal information we collect from you where we have an ongoing legitimate business need to do so (for example, to provide you with a service you have requested or to comply with applicable tax, accounting, or legal requirements).<br>
+        <br>
+        If we have no ongoing legitimate business need to process your personal information, we will either anonymize or delete it or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible. 
+    </li>
+    <br>
+    <li type="1"><b>Management over the data we have for you</b><br>
+        <br>
+        If you have registered with us, you may access certain information associated with your Account by logging into our Services or emailing us at <a href="mailto:privacy@supportindeed.com">privacy@supportindeed.com</a>. If you choose to terminate your Account, any public activity on your Account prior to deletion may remain stored on our servers and may remain accessible to the public.<br>
+        <br>
+        To protect your privacy and security, we may have to verify your identity before updating or removing your information. The information you provide us may be archived or stored periodically by us according to backup processes conducted in the ordinary course of business for disaster recovery purposes. Your ability to access and correct your information may be temporarily limited where access and correction could:<br>
+        <br>
+        <ul>
+            <li>inhibit our ability to investigate, make or defend legal claims;</li>
+            <br>
+            <li>inhibit our ability to comply with a legal obligation;</li>
+            <br>
+            <li>result in disclosure of personal information about a third party; or</li>
+            <br>
+            <li>result in breach of a contract or disclosure of trade secrets or other proprietary business information belonging to us or a third party.</li>
+        </ul>
+    </li>
+    <br>
+    <li type="1"><b>General data protection regulation (GDPR) and your data protection rights</b><br>
+        <br>
+        If you are a resident of the EEA, you have the following data protection rights:<br>
+        <br>
+        <ul>
+            <li>You can <b>object to the processing</b> of your personal information, ask us to <b>restrict the processing</b> of your personal information, or <b>request portability</b> of your personal information at any time by emailing us <a href="mailto:privacy@supportindeed.com">privacy@supportindeed.com</a>.</li>
+            <br>
+            <li>You can <b>access</b>, <b>correct</b>, <b>update</b>, or <b>request deletion</b> of your personal information at any time by emailing us at <a href="mailto:privacy@supportindeed.com">privacy@supportindeed.com</a>.</li>
+            <br>
+            <li>You can <b>withdraw your consent</b> at any time (see our <a href="javascript:void(0)" onclick="display_policy('cookie_policy')">Cookie Policy</a>), if we have collected or process your personal information with your consent. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.</li>
+            <br>
+            <li>You can <b>opt-out of our marketing communications</b> that we send you at any time by clicking on the "unsubscribe" or "opt-out" link in the marketing emails you receive from us. To opt-out of other forms of marketing, please contact us by emailing <a href="mailto:privacy@supportindeed.com">privacy@supportindeed.com</a>.</li>
+            <br>
+            <li>You have the right to <b>complain to a data protection authority</b> about our collection and use of your personal information. Please contact your local data protection authority for further information.</li>
+        </ul>
+        <br>
+        We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws.
+    </li>
+    <br>
+    <li type="1"><b>Your choices</b><br>
+        <br>
+        You can use some of the features of the Services without registering and limit the type of information that we collect. You can unsubscribe from receiving certain promotional emails from us by following the instructions at the end of the promotional email. Please note that if you have unsubscribed, we may still contact you for informational, transactional, account-related, or similar purposes.<br>
+        <br>
+        Almost all browsers have an option for disabling cookies, which may prevent your browser from accepting new cookies or enable selective use of cookies. Please note that, if you choose not to accept cookies, some features and the personalization of our Services may no longer work for you. You will continue to receive advertising material but it might not be tailored to your interests.
+    </li>
+    <br>
+    <li type="1"><b>Privacy of children</b><br>
+        <br>
+        We do not knowingly collect information from children under the age of 16. Children under 16 are prohibited from using our Services. If you learn that a child has provided us with personal information in violation of this Privacy Policy, please alert us at <a href="mailto:privacy@supportindeed.com">privacy@supportindeed.com</a>.
+    </li>
+    <br>
+    <li type="1"><b>Changes to this privacy policy</b><br>
+        <br>
+        This Privacy Policy may be modified from time to time, so please review it frequently. Changes to this Privacy Policy will be posted on our websites. If we materially change the ways in which we use or share personal information previously collected from you through our Services, we will notify you through our Services, by email, or other communication means.
+    </li>
+    <br>
+    <li type="1"><b>International transfer of data</b><br>
+        <br>
+        We are a global business, so we may transfer personal information to countries other than the country in which the data was originally collected. These countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your personal information to other countries, we will protect that information as described in this Privacy Policy.
+    </li>
+</ol>
+<br>
+<b>Contact Us</b><br>
+<br>
+If you have any questions or concerns about this Privacy Policy, please feel free to email us at <a href="mailto:privacy@supportindeed.com">privacy@supportindeed.com</a>.<br>
+<br>
+The data controller of your personal information is WebFreeHosting, represented by Attractsoft GmbH.<br></div>
+            <div id="cookie_policy" style="visibility: hidden; display: none"><span id="cookie_policy_text" class="terms_title">Cookie Policy</span><br>
+<br>
+This Cookie Policy describes how WebFreeHosting, represented by Attractsoft GmbH, registered in Germany, Registration No.: HRB 7963 KI and its affiliates ("WebFreeHosting", "we", "our" or "us") collect, share and use information in connection with your use of our websites, applications and services (the "Services"). This Cookie Policy (the "Cookie Policy") does not apply to information our customers may process when using our Services.<br>
+<br>
+Like most websites, we gather certain information automatically and when you use our Services, we may collect certain information automatically from your device. This information may include internet protocol (IP) addresses, browser type, browser plug-ins, screen resolution, window size, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, clickstream data, landing page, and referring URL. To collect this information, a cookie may be saved on your computer or device when you visit our Services. Cookies contain a small amount of information that allows our web servers to recognize you. We store information that we collect through cookies, log files, and/or empty gifs to record your preferences. We may also automatically collect information about your use of features of our Services, about the functionality of our Services, frequency of visits, and other information related to your interactions with the Services. We may track your use across different websites and services. In some countries, including countries in the European Economic Area ("EEA"), the information referenced above in this paragraph may be considered personal information under applicable data protection laws.<br>
+<br>
+<b>By continuing to browse the website, you are agreeing to our use of cookies as set out by this policy.</b><br>
+<br>
+<b>Cookies</b><br>
+<br>
+We use the following cookies on our website:
+<ul>
+    <li>
+        <strong>Necessary cookies</strong><br>
+        We use cookies to help you browse our website, prepare pricing in the appropriate currency and VAT setting, and use our order forms. These cookies we consider necessary for the operation of our website.
+    </li>
+    <li>
+        <strong>External/functional web services cookies</strong><br>
+        We use external web services to enhance our website with content such as fonts, JS/CSS frameworks, as well as live chat service.
+    </li>
+    <li>
+        <strong>Analytics cookies</strong><br>
+        We use Google Analytics and Facebook cookies to monitor visitor activity on our website such as which pages you visit, what browser you use (desktop or mobile), etc. No personally identifiable data is included in this type of reporting. We do not share information about this analysis with any third parties. We use the IP anonymization feature in Google Analytics.
+    </li>
+    <li>
+        <strong>Marketing cookies</strong><br>
+        We use Google and Facebook cookies to monitor visitor activity on our website, such as which pages you visit, so our marketing partners can use them to show you relevant marketing content. No personally identifiable data is included in this type of cookies. To learn more, or opt-out of personalized ads, visit the Network Advertising Initiative at <a href="https://www.networkadvertising.org" target="_blank">www.networkadvertising.org</a>, or the Digital Advertising Alliance's Self-Regulatory program for Online Behavioral Advertising at <a href="https://www.aboutads.info/choices" target="_blank">www.aboutads.info</a>.
+    </li>
+</ul>
+<b>Your consent</b><br>
+<br>
+By continuing to use and browse through our services, you are agreeing to our use of cookies and other tracking technologies as described in this Cookie Policy and in our <a href="javascript:void(0)" onclick="display_policy('privacy_policy')">Privacy Policy.</a><br>
+<br>
+Please note that third parties (including, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control.  These cookies are likely to be analytical/performance cookies or targeting cookies that collect non-identifying information. For example, Google provides some additional privacy options regarding its Analytics cookies at <a href="https://www.google.com/policies/privacy/partners/">https://www.google.com/policies/privacy/partners/</a>.<br>
+<br>
+<b>How you can block cookies</b><br>
+<br>
+Almost all browsers have an option for disabling cookies, which may prevent your browser from accepting new cookies or enable selective use of cookies. Please note that, if you choose not to accept cookies, some features and the personalization of our Services may no longer work for you. You will continue to receive advertising material but it might not be tailored to your interests.<br>
+<br>
+<b>Contact Us</b><br>
+<br>
+If you have any questions or concerns about this Privacy Policy, please feel free to email us at <a href="mailto:privacy@supportindeed.com">privacy@supportindeed.com</a>.</div>
+            <div id="dpa" style="visibility: hidden; display: none"><span id="dpa_text" class="terms_title">GDPR Data Processing Agreement</span><br>
+<br>
+This Data Processing Agreement describes the requirements of the European General Data Protection Regulation (GDPR) that comes into effect on May 25, 2018. WebFreeHosting's services offered in the European Union are GDPR compliant and this Data Processing Agreement (DPA) provides you with the necessary information of this compliance.<br>
+<br>
+The services offered on WebFreeHosting subject to this DPA are provided by Attractsoft GmbH, registered in Germany, Registration No.: HRB 7963 KI.<br>
+<br>
+This Data Processing Agreement (DPA) is an addendum to the Terms of Services (such as Free Shared Hosting, Premium Shared Hosting, Semi-Dedicated Hosting, VPS Hosting, Certificate Services Agreement, Domain Names Registration, Domain Privacy Protection Agreement and Affiliate Terms of Services) between WebFreeHosting and the Client.<br>
+<br>
+All capitalized terms not defined in this DPA shall have the meanings set forth in the Terms of Services. The client enters into this DPA on behalf of itself and, to the extent required under Data Protection Laws, in the name and on behalf of its Authorized Affiliates (defined below).<br>
+<br>
+<br>
+The parties agree to the following:<br>
+<br>
+<ol>
+    <li type="1"><b>General Definitions</b><br>
+        <br>
+        <u>Affiliate</u> means an entity that directly or indirectly Controls, is Controlled by or is under common Control with an entity.<br>
+        <br>
+        <u>Authorized Affiliate</u> means any of Customer Affiliate(s) permitted to or otherwise receiving the benefit of the Services pursuant to the Terms of Services.<br>
+        <br>
+        <u>Control</u> means an ownership, voting or similar interest representing fifty percent (50%) or more of the total interests then outstanding of the entity in question. The term <u>Controlled</u> shall be construed accordingly.<br>
+        <br>
+        <u>Controller</u> means an entity that determines the purposes and means of the processing of Personal Data.<br>
+        <br>
+        <u>Customer Data</u> means any data that WebFreeHosting and/or its Affiliates processes on behalf of the Client in the course of providing the Services under the Terms of Services.<br>
+        <br>
+        <u>Data subject</u> is any identified or identifiable natural person, whose personal data is processed by the controller responsible for the processing.<br>
+        <br>
+        <u>Data Protection Laws</u> means all data protection and privacy laws and regulations applicable to the processing of Personal Data under the Terms of Services, including, where applicable, EU Data Protection Law.<br>
+        <br>
+        <u>EU Data Protection Law</u> means (i) prior to May 25, 2018, Directive 95/46/EC of the European Parliament and of the Council on the protection of individuals with regard to the processing of Personal Data and on the free movement of such data (Directive) and on and after May 25, 2018, Regulation 2016/679 of the European Parliament and of the Council on the protection of natural persons with regard to the processing of Personal Data and on the free movement of such data (General Data Protection Regulation) (GDPR); and (ii) Directive 2002/58/EC concerning the processing of Personal Data and the protection of privacy in the electronic communications sector and applicable national implementations of it (in each case, as may be amended, superseded or replaced).<br>
+        <br>
+        <u>Personal Data</u> means any Customer Data relating to an identified or identifiable natural person to the extent that such information is protected as personal data under applicable Data Protection Law.<br>
+        <br>
+        <u>Processor</u> means an entity that processes Personal Data on behalf of the Controller.<br>
+        <br>
+        <u>Processing</u> has the meaning given to it in the GDPR and <u>process</u>, <u>processes</u> and <u>processed</u> shall be interpreted accordingly.<br>
+        <br>
+        <u>Profiling</u> means any form of automated processing of personal data consisting of the use of personal data to evaluate certain personal aspects relating to a natural person, in particular to analyze or predict aspects concerning that natural person's performance.<br>
+        <br>
+        <u>Security Incident</u> means any unauthorized or unlawful breach of security that leads to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of or access to Personal Data.<br>
+        <br>
+        <u>Services</u> means any service distributed by WebFreeHosting and provided by Attractsoft GmbH to the Client pursuant to and as more particularly described in the Terms of Services.<br>
+        <br>
+        <u>Sub-processor</u> means any Processor engaged by WebFreeHosting or its Affiliates to assist in fulfilling its obligations with respect to providing the Services pursuant to the Terms of Services or this DPA. Sub-processors may include third parties or any WebFreeHosting Affiliate.
+    </li>
+    <br>
+    <li type="1"><b>DPA Scope and Applicability</b><br>
+    <br>
+    <ol>
+        <li type="a">Applicability<br>
+            <br>This DPA applies where and only to the extent that WebFreeHosting processes Personal Data on behalf of the Client in the course of providing the Services and such Personal Data is subject to Data Protection Laws of the European Union, the European Economic Area and/or their member states, Switzerland and/or the United Kingdom. The parties agree to comply with the terms and conditions in this DPA in connection with such Personal Data.<br>
+        </li>
+        <br>
+        <li type="a">Role of the Parties<br>
+            <br>
+            As between WebFreeHosting and the Client, the Client is the Controller of Personal Data and WebFreeHosting shall process Personal Data only as a Processor on behalf of the Client. Nothing in the Terms of Services or this DPA shall prevent WebFreeHosting from using or sharing any data that WebFreeHosting would otherwise collect and process independently of the Client's use of the Services.
+        </li>
+        <br>
+        <li type="a">Customer Obligations<br>
+            <br>
+            The Client agrees that (i) it shall comply with its obligations as a Controller under Data Protection Laws in respect of its processing of Personal Data and any processing instructions it issues to WebFreeHosting; and (ii) it has provided notice and obtained (or shall obtain) all consents and rights necessary under Data Protection Laws for WebFreeHosting to process Personal Data and provide the Services pursuant to the Terms of Services and this DPA.
+        </li>
+        <br>
+        <li type="a">WebFreeHosting Processing of Personal Data<br>
+            <br>
+            As a Processor, WebFreeHosting shall process Personal Data only for the following purposes: (i) processing to perform the Services in accordance with the Terms of Services; (ii) processing to perform any steps necessary for the performance of the Terms of Services; and (iii) to comply with other reasonable instructions provided by the Client to the extent they are consistent with the terms of these Terms of Services and only in accordance with the Client’s documented lawful instructions. The parties agree that this DPA and the Terms of Services set out the Client’s complete and final instructions to WebFreeHosting in relation to the processing of Personal Data and processing outside the scope of these instructions shall require prior written agreement between the Client and WebFreeHosting.
+        </li>
+        <br>
+        <li type="a">Nature of the Data<br>
+            <br>
+            WebFreeHosting handles Customer Data provided by the Client. Such Customer Data may contain special categories of data depending on how the Services are used by Client. The Customer Data may be subject to the following process activities: (i) storage and other processing necessary to provide, maintain and improve the Services provided to the Client; (ii) to provide client and technical support to the Client; and (iii) disclosures as required by law or otherwise set forth in the Terms of Services.
+        </li>
+        <br>
+        <li type="a">WebFreeHosting Data<br>
+            <br>
+            Notwithstanding anything to the contrary in the Terms of Services (including this DPA), Client acknowledges that WebFreeHosting shall have a right to use and disclose data relating to and/or obtained in connection with the operation, support and/or use of the Services for its legitimate business purposes, such as billing, accounting, account management, technical support, product development, sales, marketing and digital marketing. To the extent any such data is considered personal data under Data Protection Laws, WebFreeHosting is the Controller of such data and accordingly shall process such data in compliance with Data Protection Laws.
+        </li>
+        <br>
+    </ol>
+    </li>
+    <br>
+    <li type="1">Subprocessing<br>
+        <br>
+        <ol>
+            <li type="a">Authorized Sub-processors<br>
+                <br>
+                The Client agrees that WebFreeHosting may engage Sub-processors to process Personal Data on the Client's behalf.
+            </li>
+            <br>
+            <li type="a">Sub-processor Obligations<br>
+                <br>
+                WebFreeHosting shall: (i) enter into an agreement with the Sub-processor imposing data protection terms that require the Sub-processor to protect the Personal Data to the standard required by Data Protection Laws; and (ii) remain responsible for its compliance with the obligations of this DPA and for any acts or omissions of the Sub-processor that cause WebFreeHosting to breach any of its obligations under this DPA.
+            </li>
+            <br>
+        </ol>
+    </li>
+    <br>
+    <li type="1">Security<br>
+        <br>
+        <ol>
+            <li type="a">Security Measures<br>
+                <br>
+                WebFreeHosting shall implement and maintain appropriate technical and organizational security measures to protect Personal Data from Security Incidents and to preserve the security and confidentiality of the Personal Data, in accordance with WebFreeHosting 's security standards.
+            </li>
+            <br>
+            <li type="a">Confidentiality of Processing<br>
+                <br>
+                WebFreeHosting shall ensure that any person authorized to process Personal Data (including staff members, agents and subcontractors) shall be under an appropriate obligation of confidentiality.
+            </li>
+            <br>
+            <li type="a">Security Incident Response<br>
+                <br>
+                Upon becoming aware of a Security Incident, WebFreeHosting shall notify the Client without undue delay and shall provide timely information relating to the Security Incident as it becomes known or as is reasonably requested by the Client.
+            </li>
+            <br>
+            <li type="a">Updates to Security Measures<br>
+                <br>
+                The Client acknowledges that the Security Measures are subject to technical progress and development and that WebFreeHosting may update or modify the Security Measures from time to time provided that such updates and modifications do not result in the degradation of the overall security of the Services purchased by the Client.
+            </li>
+        </ol>
+    </li>
+    <br>
+    <li type="1">Client’s General Data Protection Rights<br>
+        <br>
+        <ol>
+            <li type="a">Right of confirmation<br>
+                <br>Each data subject shall have the right to obtain from the controller the confirmation as to whether or not personal data concerning him or her are being processed.
+            </li>
+            <br>
+            <li type="a">Right of access<br>
+                <br>
+                Each data subject shall have the right to obtain from the controller free information about his or her personal data stored at any time and a copy of this information.
+            </li>
+            <br>
+            <li type="a">Right to rectification<br>
+                <br>
+                Each data subject shall have the right to obtain from the controller without undue delay the rectification of inaccurate personal data concerning him or her.
+            </li>
+            <br>
+            <li type="a">Right to erasure (Right to be forgotten)<br>
+                <br>
+                Each data subject shall have the right to obtain from the controller the erasure of personal data concerning him or her without undue delay.
+            </li>
+            <br>
+            <li type="a">Right of restriction of processing<br>
+                <br>
+                Each data subject shall have the right to obtain from the controller restriction of processing.
+            </li>
+            <br>
+            <li type="a">Right to data portability<br>
+                <br>
+                Each data subject shall have the right to receive the personal data concerning him or her, which was provided to a controller, in a structured, commonly used and machine-readable format. He or she shall have the right to transmit those data to another controller without hindrance from the controller to which the personal data have been provided.
+            </li>
+            <br>
+            <li type="a">Right to object<br>
+                <br>
+                Each data subject shall have the right to object, on grounds relating to his or her particular situation, at any time, to processing of personal data concerning him or her.
+            </li>
+            <br>
+            <li type="a">Automated individual decision-making, including profiling<br>
+                <br>
+                Each data subject shall have the right to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning him or her.
+            </li>
+        </ol>
+    </li>
+    <br>
+    <li type="1">International Transfers<br>
+        <br>
+        WebFreeHosting processes EU Data (defined below) in data centers located inside the European Union. All other Customer Data may be transferred and processed in the United States and anywhere in the world where the Client, its Affiliates and/or its Sub-processors maintain data processing operations. WebFreeHosting shall implement appropriate safeguards to protect the Personal Data, wherever it is processed, in accordance with the requirements of Data Protection Laws.
+    </li>
+    <br>
+    <li type="1">Deletion of Data<br>
+        <br>
+        Upon deactivation of the Services, all Personal Data will be deleted, save that this requirement shall not apply to the extent WebFreeHosting is required by applicable law to retain some or all of the Personal Data, or to Personal Data it has archived on back-up systems, which such Personal Data WebFreeHosting shall securely isolate and protect from any further processing, except to the extent required by applicable law.
+    </li>
+</ol></div>
 			
 
 </div>
@@ -231,7 +701,7 @@ OpenWin = this.open(request_url_6514432, "", "scrollbars=no,menubar=no,resizable
 
 </div> 
 
-  <div class="copy">© 2007 - 2017 <a href="http://webfreehosting.net" title="Free Web Hosting">WebFreeHosting.Net</a>  . All Rights Reserved<br>Powered by AttractSoft GmbH</div>
+  <div class="copy">© 2007 - 2018 <a href="http://webfreehosting.net" title="Free Web Hosting">WebFreeHosting.Net</a>  . All Rights Reserved<br>Powered by AttractSoft GmbH</div>
 
 <!--Google Analytics tracking -->
 <script type="text/javascript">
