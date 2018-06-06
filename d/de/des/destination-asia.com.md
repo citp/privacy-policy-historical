@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the destination-asia.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130164825id_/http%3A//www.destination-asia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destination-asia.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606200306id_/http%3A//www.destination-asia.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -22,7 +22,7 @@ We handle your personal information in a strictly confidential manner, not divul
 
 ### Your Preferences
 
-You may wish to alter the communications you receive from Destination Asia – and we will honor any requests with a prompt reply. It is possible to remove your name from our mailing list by clicking on ‘unsubscribe’ in the footer of the emailing we send you. Alternatively send an email to enquiries@destination-asia.com with your request.
+You may wish to alter the communications you receive from Destination Asia – and we will honor any requests with a prompt reply. It is possible to remove your name from our mailing list by clicking on ‘unsubscribe’ in the footer of the emailing we send you. Alternatively send an email to [privacy@destination-asia.com](mailto:privacy@destination-asia.com) with your request.
 
 As stated above, we will not disclose your information to any third parties. However, there may be times when we are required by law, in order to comply with a legal process or lawful government request.
 
@@ -38,4 +38,4 @@ We disclaim any implied warranties with regard to the information and services c
 
 ### Improving Our Service
 
-We always welcome feedback regarding our website and associated communication channels. Should you have such comments or questions, about the site or our privacy statement, please send an email to [enquiries@destination-asia.com](mailto:enquiries@destination-asia.com)
+We always welcome feedback regarding our website and associated communication channels. Should you have such comments or questions, about the site or our privacy statement, please send an email to [privacy@destination-asia.com](mailto:privacy@destination-asia.com)
