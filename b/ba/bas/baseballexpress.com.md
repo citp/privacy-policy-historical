@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baseballexpress.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202071354id_/http%3A//www.baseballexpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baseballexpress.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606070121id_/http%3A//www.baseballexpress.com/privacy-policy) for the most accurate reproduction.*
 
 # Security - Baseball Express
 
@@ -24,7 +24,7 @@ In order to customize Baseball Express to your needs and offer you personalized 
 
 #### Web Site Security
 
-All orders submitted through BaseballExpress.com are encrypted using the latest 128 bit SSL (Secure Sockets Layer) technology. This protection means it may actually be safer for you to use your credit card over the Internet rather than using it in a store. When your browser is in secure mode, you should see an unbroken key or padlock icon near the bottom of your browser window. 
+All orders submitted through BaseballExpress.com are encrypted using the latest 256 bit SSL (Secure Sockets Layer) technology. This protection means it may actually be safer for you to use your credit card over the Internet rather than using it in a store. When your browser is in secure mode, you should see an unbroken key or padlock icon near the bottom of your browser window. 
 
 ####  Children's Information
 
