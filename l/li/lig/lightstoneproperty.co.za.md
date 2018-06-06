@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lightstoneproperty.co.za privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227231532id_/http%3A//www.lightstoneproperty.co.za/legal.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightstoneproperty.co.za privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606071315id_/http%3A//lightstoneproperty.co.za/legal.aspx) for the most accurate reproduction.*
 
 # Lightstone Property Legal Info
 
 ## User Agreement
 
-[Terms and Conditions](http://www.lightstoneproperty.co.za/uploads/general/LightstoneWebsiteTermsandConditionsofUsage.pdf) of use of [www.lightstoneproperty.co.za](http://www.lightstoneproperty.co.za/) entered in favour of Lightstone Property, a division of Lightstone (Proprietary) Limited. 
+[Terms and Conditions](https://www.lightstoneproperty.co.za/uploads/general/LightstoneWebsiteTermsandConditionsofUsage.pdf) of use of [www.lightstoneproperty.co.za](https://www.lightstoneproperty.co.za/) entered in favour of Lightstone Property, a division of Lightstone (Proprietary) Limited. 
 
 ### Privacy Policy
 
@@ -12,7 +12,7 @@ Lightstone Property, a divison of Lightstone Proprietary Limited (" **Lightstone
 
 #### Introduction
 
-This policy (together with our terms and conditions of use as set out at [www.lightstoneproperty.co.za](http://www.lightstoneproperty.co.za/) (" **Site** ")) applies when you use the Site or access Lightstone's mobile property application (the " **App** "). This policy sets out the basis on which any personal data and/or personal information (which terms are used interchangeable in this policy) we collect from you, or that you provide to us, will be processed by us. The Protection of Personal Information Act (POPI) is aimed at protecting your personal information and prescribes what we may and may not do with it. POPI created an Information Regulator that checks that companies like Lightstone manage personal information in a responsible manner that respects your privacy. 
+This policy (together with our terms and conditions of use as set out at [www.lightstoneproperty.co.za](https://www.lightstoneproperty.co.za/) (" **Site** ")) applies when you use the Site or access Lightstone's mobile property application (the " **App** "). This policy sets out the basis on which any personal data and/or personal information (which terms are used interchangeable in this policy) we collect from you, or that you provide to us, will be processed by us. The Protection of Personal Information Act (POPI) is aimed at protecting your personal information and prescribes what we may and may not do with it. POPI created an Information Regulator that checks that companies like Lightstone manage personal information in a responsible manner that respects your privacy. 
 
 Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
 
