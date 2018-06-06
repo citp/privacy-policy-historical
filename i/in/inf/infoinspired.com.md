@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the infoinspired.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224050818id_/http%3A//infoinspired.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoinspired.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607013628id_/http%3A//infoinspired.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We are furnishing below the privacy practices we follow at [Info Inspired](http://infoinspired.com/ "Info Inspired") (http://infoinspired.com) in a concise manner but that well covers all the requisite information. The intention, our readers should know about our privacy practices by going through few paragraphs in a clear cut manner. First of all make us clear that we collect some necessary personal information. Below are the details of personal information which is being received and collected by us at **Info Inspired** and the use of it.
+We are furnishing below the privacy practices we follow at [Info Inspired](https://infoinspired.com/ "Info Inspired") (https://infoinspired.com) in a concise manner but that well covers all the requisite information. The intention, our readers should know about our privacy practices by going through few paragraphs in a clear cut manner. First of all make us clear that we collect some necessary personal information. Below are the details of personal information which is being received and collected by us at **Info Inspired** and the use of it.
 
 ## **Log Files:**
 
