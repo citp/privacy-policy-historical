@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filmofilia.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222061752id_/http%3A//www.filmofilia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmofilia.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606154618id_/http%3A//www.filmofilia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FilmoFilia
 
@@ -17,6 +17,10 @@ Currently we assign cookies to our readers in order to save their preferences. T
 ## Third Party Advertisers and cookies
 
 We use third-party companies to serve ads and collect non-personally identifiable information (e.g., the pages you visit, and which links you click, which ads you see and click on, and the categories of search terms you enter) when you visit our web site. These companies may use the information outlined above (which does not include your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. These companies often use a cookie or third party web beacon to collect this information. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/consumer/opt_out.asp).
+
+Subject to your consent, Exponential Interactive, Inc collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. You may change your consent decision at any time via . For more details including access requests and complaints, review their [privacy policy](http://exponential.com/privacy/) or contact their data protection officer via [privacy@exponential.com](mailto:privacy@exponential.com).
+
+Exponential Cookie Details:
 
 ## Traffic Reports
 
@@ -42,7 +46,7 @@ If you have any questions regarding our privacy policy, please contact us: **fil
 
 * * *
 
-****[](http://creativecommons.org/licenses/by-nc-nd/3.0/)  
+[](http://creativecommons.org/licenses/by-nc-nd/3.0/)  
 Filmofilia – movie website by FilmoFilia.com is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License](http://creativecommons.org/licenses/by-nc-nd/3.0/).  
 Based on a work at www.filmofilia.com.  
 Permissions beyond the scope of this license may be available at <http://www.filmofilia.com/about/privacy-policy/>.
