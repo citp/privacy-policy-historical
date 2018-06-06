@@ -1,99 +1,56 @@
-> *The following text is extracted and transformed from the mochimedia.com privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407185017id_/http%3A//www.mochimedia.com/privacy.html%3FMMref%3DNav_foot) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mochimedia.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606161846id_/http%3A//io.games/privacy.html) for the most accurate reproduction.*
 
-# Mochi Media - Privacy Policy – Mochi Media :: Fueling Creativity
+# Privacy Policy
 
-Mochi Media, Inc. (the “Mochi Media”) knows that you care about how your personal information is used and shared, and takes your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting Mochi Media’s websites at http://www.mochimedia.com, http://www.mochiads.com, http://www.mochibot.com, http://www.mochikit.com (the “Websites”), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. 
+### Privacy Policy
 
-### What Does This Privacy Policy Cover?
+This privacy policy (“Policy”) describes the data practices of ioGames Inc. (“ioGames”) and its subsidiaries (collectively, the “we”, or “Company”), covering its services under its control, including this website, any products, mobile applications, console or PC applications (collectively "Services"). By using the Services, you are consenting to this Policy and the processing of your data in the manner provided in this Policy. If you do not agree with these terms, please do not use the Services. This Privacy Policy was last updated on November 25, 2017.
 
-This Privacy Policy covers Mochi Media’s treatment of personally identifiable information ("Personal Information") that Mochi Media gathers when you are accessing the Websites and when you use our services. This policy does not apply to the practices of companies that Mochi Media does not own or control, or to individuals that Mochi Media does not employ or manage. 
+### Information we collect
 
-### What Personal Information Does Mochi Media display or Collect?
+We may collect information about the Services you use and how you use them, such as the selections you make on our Services. We collect PII, DII, and log information about your interactions as described below. Personally identifiable information (PII) is information that can be used to identify or contact you online or offline, such as your name, address, email, phone number, photos or audio data, and payment information. The Service may collect PII when it is provided to us, such as when you use our Services, attempt to contact us, submit a resume or job application, or connect with us on social media or one of our partners. For example, you may see a “Log in with…” button, which means we request PII from a partner to streamline the login the process. You will likely be presented with a “request for permission” screen by a third party asking to share your ID, profile picture, and other listed information with us.We may also create or collect device-identifiable information (DII), such as cookies, unique device and advertising identifiers, statistical identifiers, usernames, and similar identifiers that are linkable to a browser or device. From these platforms, we may also receive other information, such as your IP address, user agent, timestamps, precise and imprecise geolocation, sensor data, apps, fonts, battery life information, and screen size.Our Services also collect information about your interactions, including navigation paths, search queries, crashes, timestamps, purchases, clicks and shares, and referral URLs. We may combine this data with PII and DII. For efficiency’s sake, information about your interactions may be transmitted to our servers while you are not using the app. We may also partner with third parties that collect additional information – please see their privacy policies for more details and see below for your choices regarding these parties.
 
-The information we gather from users enables us to personalize and improve our services, and to allow our users to set up a user account and profile that can be used to interact with other users through the Websites. In connection with the Websites, we request and display some personal information to other users and visitors of the Websites, which allows users to identify each other. 
+### How we use information we collect
 
-We collect the following types of information from our users. 
+We use the information we collect from our Services to provide, maintain, protect and improve our Services, to develop new Services and offerings, and to protect us and our users. PII is primarily used for business purposes, such as for sending you occasional newsletters and updates, hiring, responding to inquiries, logins, and providing Services. When you contact us, we may keep a record of your communication as well as the other information to help solve any issues you might be facing. We may use your email address to inform you about our Services, such as letting you know about changes or improvements. Please keep in mind that comments sections, forums, and other similar areas of our Services are public. Any information posted in those areas is viewable and usable by anyone that has access.
 
-  * #### Personal Information You Provide to Us:
+### Third Parties
 
-We receive and store any information you enter on the Websites or provide to us in any other way. The types of Personal Information collected include your name, age, e-mail address, phone number, fax number, and payment information . You may choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. The Personal Information you provide is used for such purposes as responding to your requests for certain information, products and services, customizing the advertising and content you see, and communicating with you about specials and new features. You may modify or remove any of your personal information at any time by logging into your account and accessing features to edit your profile and account information. 
+While we strive to work with reputable companies with good privacy practices, this Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you on the Services. We also do not control the privacy policies and your privacy settings on third-party sites, including social networks. We may use third parties to help offer you more tailored ads and better Services, such as obtaining analytics about the users of our site and to help tailor advertising to your preferences. For further information, please see the relevant privacy policies for each third party and industry codes of conduct.
 
-  * #### Personal Information Collected Automatically:
+### Choice
 
-We receive and store certain types of information whenever you interact with the Websites or obtain services from us. Mochi Media automatically receives and records information on our server logs from your browser including your IP address, Mochi Media cookie information, and the page you requested. We also record the details of your transactions on the Websites. 
+If you wish to cancel your account, you can do so by accessing our platform or contacting us for assistance with the process. Our email is included at the end of this privacy policy.
 
-Generally, our service automatically collects usage information, such as the numbers and frequency of visitors to our site and its components, similar to TV ratings that indicate how many people watched a particular show. Mochi Media only uses this data in aggregate form, that is, as a statistical measure, and not in a manner that would identify you personally. This type of aggregate data enables us to figure out how often users use parts of the Websites or services so that we can make the Websites appealing to as many users as possible, and improve those services. As part of this use of information, we may provide aggregate information to our partners about how our users, collectively, use our site. We share this type of statistical data so that our partners also understand how often people use their services and the Websites, so that they, too, may provide you with an optimal online experience. Again, Mochi Media never discloses aggregate information to a partner in a manner that would identify you personally. 
+If you are under 18 years of age, reside in California, and have a registered account with us, you have the right to request removal of unwanted information that you post onto our Services (e.g., comments or a forum) by contacting us at the email at the end of this privacy policy, stating you reside in California. This does not ensure complete or comprehensive removal of the posted content. Many third parties participate in self-regulation to offer you a choice regarding receiving targeted ads. Please note that you’ll still see generic ads after opting out, but they won’t be based on your activities online. On the web, you can opt out of participating companies by visiting the following sites:
 
-  * #### E-mail Communications:
-
-We often receive a confirmation when you open an e-mail from Mochi Media if your computer supports this type of program. Mochi Media uses this confirmation to help us make e-mails more interesting and helpful. We also compare our user list to lists received from other companies, in an effort to avoid sending unnecessary messages to our users. 
-
-  * #### What About Cookies?
-
-Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people. Mochi Media cookies do not collect Personal Information, and we do not combine the general information collected through cookies with other Personal Information to tell us who you are or what your screen name or email address is. 
-
-Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of the Websites’s most attractive features. 
-
-Ads appearing on the Websites may be delivered to users by our advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. You may find out additional information regarding the use of cookies by our advertising partners, including how to opt out of the use of such technologies, at [www.networkadvertising.org](http://www.networkadvertising.org/). This Privacy Policy covers the use of cookies by Mochi Media and does not cover the use of cookies by any advertisers." 
+  * [http://optout.networkadvertising.org](http://optout.networkadvertising.org/)
+  * <http://optout.aboutads.info/>
 
 
 
+If you wish to similarly opt out of cross-app advertising on mobile devices, you can enable the Limit Ad Tracking flag on the device. Enabling Limit Ad Tracking sends a flag to third parties that you wish to opt out of targeted advertising on that device, and major mobile platforms require companies to honor this flag. Screenshots on how to find these options on various devices are available here: <http://www.networkadvertising.org/mobile-choices>.
 
-### Will Mochi Media Share Any of the Personal Information it Receives?
+### Accessing and updating your information
 
-Personal Information about our users is an integral part of our business. We neither rent nor sell your Personal Information to anyone. We share your Personal Information only as described below. 
+We aim to provide you with reasonable opportunity to access, update, and delete to your PII. In some cases, we may have to keep that information for legitimate business or legal purposes. When updating your information, we may ask you to verify your identity before we can act on your request.
 
-_Affiliated Businesses We Do Not Control:_ We anticipate that we may become affiliated with a variety of businesses and work closely with them. In certain situations, these businesses may operate stores at the Websites or sell items to you through the Websites. In other situations, Mochi Media may provide services, or sell products jointly with affiliated businesses. You can easily recognize when an affiliated business is associated with your transaction, and we will share user information that is related to such transactions with that affiliated business. 
+### Information security
 
-_Agents:_ We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Examples include sending email, analyzing data, and providing user services. Unless we tell you differently, Mochi Media’s agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes. 
+We work hard to protect our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold and undertake reasonable security measures with appropriate confidentiality, integrity, and availability protections. However, since no software or storage system is 100% secure, we cannot guarantee for the security of your information associated with the Services, or any other service for that matter. You can help protect your account information by using unique and hard-to-guess passwords.
 
-_User profiles:_ User profile information including users’ Mochi Media log in identification name may be displayed to other users to facilitate user interaction within the Websites. Users’ full names will not be directly revealed to other users by Mochi Media. 
+### Children Under 13
 
-_Communication in response to User Submissions:_ As part of the Websites and Services, you will receive from Mochi Media and other users e-mail and other communication relating to your User Submissions .You acknowledge and agree that by posting such User Submissions, Mochi Media and other users may send you e-mail and other communication that they determine in their sole discretion relate to your User Submissions. 
+We do not knowingly collect information for any child under the age of 13. If you are the parent of a child under the age of 13 and have a concern regarding your child’s information on our Services, please contact us at the email provided at the end of this Policy.
 
-_Promotional Offers:_ We may send offers to certain users on behalf of other businesses. However, when we do so, we do not give the other business your name and address. If you do not wish to receive these offers, please send us an email to unsubscribe. 
+### Our Services are Located in the United States
 
-_Business Transfers:_ In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if Mochi Media, or substantially all of its assets were acquired, or in the unlikely event that Mochi Media goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquiror of Mochi Media may continue to use your Personal Information as set forth in this policy. 
+Our Services are directed to United States citizens. If you are outside of the United States, your information will be processed and stored in the United States and you are consenting to such transfer, processing, and storage under the laws of the United States.
 
-_Protection of Mochi Media and Others:_ We may release Personal Information when we believe in good faith that release is necessary to comply with that law; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of Mochi Media, our employees, our users, or others. This includes, without limitation, exchanging information with other companies and organizations for fraud protection. 
+### Changes
 
-_With Your Consent:_ Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be given the option to prevent the sharing of this information. 
+Our Privacy Policy may change from time to time. We will post any Policy changes on this page, including material changes. Please check back periodically to view changes to our privacy policy.
 
-### Is Personal Information About me Secure?
+### Questions?
 
-Your Mochi Media account Personal Information is protected by a password for your privacy and security. You need ensure unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account. 
-
-Mochi Media endeavors to protect user information to ensure that user account information is kept private, however, Mochi Media cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of user information at any time. For additional information about the security measures Mochi Media uses in connection with the Websites, please contact us at [mochi.desk.com](http://mochi.desk.com/customer/portal/emails/new). 
-
-The Websites contains links to other sites. Mochi Media is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. This Privacy Policy only governs information collected on the Websites. 
-
-Please be aware that whenever you voluntarily post information to public areas on the Websites or any other public forums, such information can be accessed by the public. 
-
-### What Personal Information Can I Access?
-
-Mochi Media allows you to access the following information about you for the purpose of viewing, and in certain situations, updating that information. This list will change as the Websites changes. You may currently access the following information: 
-
-  * account information,
-  * user profile,
-  * user preferences,
-  * cell phone number, and
-  * game and image content in your account.
-
-
-
-### What Other Choices Do I Have?
-
-  * As stated previously, you can always opt not to disclose information, even though it may be needed to take advantage of certain Mochi Media features.
-  * You are able to add or update certain information on pages, such as those listed in the “What Personal Information Can I Access” section above. When you update information, however, we often maintain a copy of the unrevised information in our records.
-  * You may request deactivation of your account and deletion of personally identifiable information in your Mochi Media account by sending an e-mail to our webmaster at [mochi.desk.com](http://mochi.desk.com/customer/portal/emails/new).Please note that when your personally identifiable information is deleted we no longer have the availability to send you information or payments. Additionally, some of your information may remain in our records after deactivation of your account.
-  * Mochi Media may use a user’s e-mail address to send updates, a newsletter or news regarding the Websites or Mochi Media services. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Websites, and you are responsible for reviewing such legal notices for changes.
-
-
-
-### Changes to this Privacy Policy
-
-Mochi Media may make changes to this Privacy Policy from time to time for any reason. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used or collected. If we make changes in the way we use Personal Information, we will notify you via e-mail or by posting an announcement on the Websites. Users are bound by any changes to the Privacy Policy when he or she uses the Websites after such changes have been first posted. 
-
-### Questions or Concerns?
-
-If you have any questions or concerns regarding privacy at the Websites, please send us a detailed message at [mochi.desk.com](http://mochi.desk.com/customer/portal/emails/new). 
+If you have questions or requests regarding our privacy practices, please contact us at info@io.games
