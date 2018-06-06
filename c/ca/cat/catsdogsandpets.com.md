@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the catsdogsandpets.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207054018id_/http%3A//catsdogsandpets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catsdogsandpets.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606120707id_/http%3A//www.catsdogsandpets.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy – Cats Dogs and Pets
+# Privacy Policy - Cats Dogs and Pets
 
 This Privacy Policy describes how we treat user information we collect both online through our catsdogsandpets.com (the “Site”) and offline, such as through phone or email interactions you have with us. The Site is brought to you by catsdogsandpets.com (referred to in this Policy as “catsdogsandpets.com,” “we,” “us,” and “our”).
 
