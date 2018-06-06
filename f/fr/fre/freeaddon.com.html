@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the freeaddon.com privacy policy that was archived on 2017-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171224194539id_/http%3A//freeaddon.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freeaddon.com privacy policy that was archived on 2018-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180606182003id_/http%3A//freeaddon.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
 <meta charset="UTF-8">
@@ -11,7 +11,7 @@
 <![endif]-->
 <title>Privacy Policy - Free Addons</title>
 
-<!-- This site is optimized with the Yoast SEO plugin v5.9.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v7.4.2 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="http://freeaddon.com/privacy/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
@@ -20,7 +20,6 @@
 <meta property="og:url" content="http://freeaddon.com/privacy/">
 <meta property="og:site_name" content="Free Addons">
 <meta property="article:publisher" content="https://www.facebook.com/FreeAddonWallpaperNewTabExtensions/">
-<script id="facebook-jssdk" src="https://connect.facebook.net/en_US/sdk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/freeaddon.com\/","name":"Free Addons","potentialAction":{"@type":"SearchAction","target":"http:\/\/freeaddon.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
 <!-- / Yoast SEO plugin. -->
 
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
@@ -28,9 +27,11 @@
 <link href="https://fonts.gstatic.com" crossorigin="" rel="preconnect">
 <link rel="alternate" type="application/rss+xml" title="Free Addons » Feed" href="http://freeaddon.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Free Addons » Comments Feed" href="http://freeaddon.com/comments/feed/">
-<!-- This site uses the Google Analytics by MonsterInsights plugin v6.2.6 - Using Analytics tracking - https://www.monsterinsights.com/ -->
-<script type="text/javascript" data-cfasync="false">
-		var disableStr = 'ga-disable-UA-87134519-3';
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.0.5 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script id="facebook-jssdk" src="https://connect.facebook.net/en_US/sdk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" data-cfasync="false">
+	var mi_track_user = true;
+	
+	var disableStr = 'ga-disable-UA-87134519-3';
 
 	/* Function to detect opted out users */
 	function __gaTrackerIsOptedOut() {
@@ -47,22 +48,68 @@
 	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
 	  window[disableStr] = true;
 	}
+	
+	if ( mi_track_user ) {
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
 
-	__gaTracker('create', 'UA-87134519-3', 'auto');
-	__gaTracker('set', 'forceSSL', true);
-	__gaTracker('require', 'displayfeatures');
-	__gaTracker('require', 'linkid', 'linkid.js');
-	__gaTracker('send','pageview');
+		__gaTracker('create', 'UA-87134519-3', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('require', 'displayfeatures');
+		__gaTracker('require', 'linkid', 'linkid.js');
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you\'re not being tracked. ");
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+		})();
+		}
 </script>
 <!-- / Google Analytics by MonsterInsights -->
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/freeaddon.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.1"}};
-			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://freeaddon.com/wp-includes/js/wp-emoji-release.min.js?ver=4.9.1" type="text/javascript" defer=""></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/freeaddon.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.6"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://freeaddon.com/wp-includes/js/wp-emoji-release.min.js?ver=4.9.6" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -77,27 +124,27 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="contact-form-7-css" href="http://freeaddon.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9.2" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="http://freeaddon.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.1" type="text/css" media="all">
 <link rel="stylesheet" id="ribosome-pro-fonts-css" href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&amp;subset=latin,latin-ext" type="text/css" media="all">
 <link rel="stylesheet" id="ribosome-pro-style-css" href="http://freeaddon.com/wp-content/themes/ribosome-pro/style.css?ver=1.8.0" type="text/css" media="all">
 <!--[if lt IE 9]>
 <link rel='stylesheet' id='ribosome-pro-ie-css'  href='http://freeaddon.com/wp-content/themes/ribosome-pro/css/ie.css?ver=20121010' type='text/css' media='all' />
 <![endif]-->
-<link rel="stylesheet" id="dashicons-css" href="http://freeaddon.com/wp-includes/css/dashicons.min.css?ver=4.9.1" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="http://freeaddon.com/wp-includes/css/dashicons.min.css?ver=4.9.6" type="text/css" media="all">
 <link rel="stylesheet" id="ribosome-pro-widgets-style-css" href="http://freeaddon.com/wp-content/themes/ribosome-pro/css/ribosome-pro-widgets-style.css?ver=1.8.0" type="text/css" media="all">
-<link rel="stylesheet" id="font-awesome-css" href="http://freeaddon.com/wp-content/themes/ribosome-pro/css/font-awesome-4.7.0/css/font-awesome.min.css?ver=4.9.1" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="http://freeaddon.com/wp-content/themes/ribosome-pro/css/font-awesome-4.7.0/css/font-awesome.min.css?ver=4.9.6" type="text/css" media="all">
 <script type="text/javascript">
 /* <![CDATA[ */
 var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"false","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"","home_url":"http:\/\/freeaddon.com","track_download_as":"event","internal_label":"int","hash_tracking":"false"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://freeaddon.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=6.2.6"></script>
+<script type="text/javascript" src="http://freeaddon.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.0.5"></script>
 <script type="text/javascript" src="http://freeaddon.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
 <script type="text/javascript" src="http://freeaddon.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
 <link rel="https://api.w.org/" href="http://freeaddon.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://freeaddon.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://freeaddon.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.9.1">
+<meta name="generator" content="WordPress 4.9.6">
 <link rel="shortlink" href="http://freeaddon.com/?p=886">
 <link rel="alternate" type="application/json+oembed" href="http://freeaddon.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ffreeaddon.com%2Fprivacy%2F">
 <link rel="alternate" type="text/xml+oembed" href="http://freeaddon.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ffreeaddon.com%2Fprivacy%2F&amp;format=xml">
@@ -284,14 +331,22 @@ ul.related_post li img {
 .archive-title, .archive-meta { font-size: 100% }
 .site-content { margin: 0 0; }
 .widget-area { margin: 0.5rem 0 0; }
-.widget-area .widget { margin-bottom: 1.5rem; }
+.widget-area .widget { margin-bottom: 1rem; }
+#pageHeadingText, #installChromeWebStore, #installChromeWebStore p { margin: 0.5rem 0; }
+.entry-content h2 { margin: 0.5rem 0; }
+.sub-title-widget-area { margin: 0 0; }
+.wrapper-search-form { border: none; border-radius: 0; padding: 0; }
 	</style>
 	
+<script>
+  window.cfGeoIP = '66.102.6.47';
+  window.cfGeoCC = 'US';
+</script>
 <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <script async="" src="/js/freeaddon-header.min.js?cb=1"></script>
 
 <link href="/css/lightbox.min.css" rel="stylesheet">
-<script async="" src="/js/lightbox.min.js"></script>
+<script async="async" src="/js/lightbox.min.js"></script>
 
 <script>
   window.fbAsyncInit = function() {
@@ -316,6 +371,10 @@ ul.related_post li img {
 <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/gdbaellldkoneeeefkkggncioecbboef">
 <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/kcccjncjajpddocdefcllhonndbanogh">
 <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/fkkpdilpjgahkijeaghnhmmbhbpbjemf">
+<link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/lfcaoognimommdfjcchogjpfmochniph">
+<link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/dnjmidnbjbinkflkagfjcndgeohopaab">
+<link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/adbglfbdgogdjmadkilhfgojkihnjeok">
+<link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/beagjbigccgfihighjmhhdbbbjhhmggl">
 <style type="text/css">
 .btnAddToChrome {
   cursor:pointer;
@@ -380,7 +439,7 @@ ul.related_post li img {
 	    
 	<div class="menu-movil-enlaces">
 		<div class="menu-main-menu-container"><ul id="menu-main-menu" class="nav-menu"><li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-15"><a href="http://freeaddon.com/" data-ps2id-api="true"><span style="color:#00BCD5;">FreeAddon.com</span></a></li>
-<li id="menu-item-414" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-414"><a href="http://freeaddon.com/scenery-landscapes/" data-ps2id-api="true">Scenery</a>
+<li id="menu-item-414" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-414"><a href="http://freeaddon.com/category/scenery-landscapes/" data-ps2id-api="true">Scenery</a>
 <ul class="sub-menu">
 	<li id="menu-item-1275" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1275"><a href="http://freeaddon.com/nature-themes-beach-ocean-galaxy-space-snow-wallpaper/" data-ps2id-api="true">HD Scenery Landscapes</a></li>
 	<li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-68"><a href="http://freeaddon.com/winter-snow-wallpapers-new-tab/" data-ps2id-api="true">Winter &amp; Snow Wallpapers</a></li>
@@ -404,7 +463,7 @@ ul.related_post li img {
 	<li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-17"><a href="http://freeaddon.com/thanksgiving-wallpapers-for-new-tab/" data-ps2id-api="true">Thanksgiving</a></li>
 </ul>
 </li>
-<li id="menu-item-20" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-20"><a href="http://freeaddon.com/cute-pet-animals/" data-ps2id-api="true">Animals</a>
+<li id="menu-item-20" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-20"><a href="http://freeaddon.com/category/cute-pet-animals/" data-ps2id-api="true">Animals</a>
 <ul class="sub-menu">
 	<li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-19"><a href="http://freeaddon.com/cute-dog-wallpapers-in-new-tab/" data-ps2id-api="true">Cute Dogs Wallpapers</a></li>
 	<li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-21"><a href="http://freeaddon.com/cute-cats-wallpapers-new-tab/" data-ps2id-api="true">Cute Cats Wallpapers</a></li>
@@ -433,7 +492,7 @@ ul.related_post li img {
 	<li id="menu-item-1799" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1799"><a href="http://freeaddon.com/lion-wallpaper-hd-lions-new-tab-themes/" data-ps2id-api="true">Lion</a></li>
 </ul>
 </li>
-<li id="menu-item-90" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-90"><a href="http://freeaddon.com/games/" data-ps2id-api="true">Games</a>
+<li id="menu-item-90" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-90"><a href="http://freeaddon.com/category/games/" data-ps2id-api="true">Games</a>
 <ul class="sub-menu">
 	<li id="menu-item-636" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-636"><a href="http://freeaddon.com/pokemon-go-wallpapers-new-tab-theme/" data-ps2id-api="true">Pokemon GO</a></li>
 	<li id="menu-item-200" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-200"><a href="http://freeaddon.com/assassins-creed-wallpapers-new-tab-theme/" data-ps2id-api="true">Assassin’s Creed</a></li>
@@ -478,7 +537,7 @@ ul.related_post li img {
 	<li id="menu-item-2414" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2414"><a href="http://freeaddon.com/world-of-warcraft-wallpaper-hd-new-tab-theme/" data-ps2id-api="true">World of Warcraft</a></li>
 </ul>
 </li>
-<li id="menu-item-39" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-39"><a href="http://freeaddon.com/anime/" data-ps2id-api="true">Anime</a>
+<li id="menu-item-39" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-39"><a href="http://freeaddon.com/category/anime/" data-ps2id-api="true">Anime</a>
 <ul class="sub-menu">
 	<li id="menu-item-1262" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1262"><a href="http://freeaddon.com/anime-hd-wallpapers-new-tab-theme/" data-ps2id-api="true">Anime HD Wallpapers</a></li>
 	<li id="menu-item-296" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-296"><a href="http://freeaddon.com/pokemon-wallpapers-new-tab-theme/" data-ps2id-api="true">Pokemon</a></li>
@@ -512,7 +571,7 @@ ul.related_post li img {
 	<li id="menu-item-2327" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2327"><a href="http://freeaddon.com/hatsune-miku-wallpaper-hd-vocaloid-new-tab/" data-ps2id-api="true">Hatsune Miku Vocaloid</a></li>
 </ul>
 </li>
-<li id="menu-item-40" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-40"><a href="http://freeaddon.com/movies/" data-ps2id-api="true">Movies</a>
+<li id="menu-item-40" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-40"><a href="http://freeaddon.com/category/movies/" data-ps2id-api="true">Movies</a>
 <ul class="sub-menu">
 	<li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-18"><a href="http://freeaddon.com/star-wars-rogue-one-wallpapers-in-new-tab/" data-ps2id-api="true">Star Wars Rogue One</a></li>
 	<li id="menu-item-1793" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1793"><a href="http://freeaddon.com/tv-shows-television-films-tv-series-wallpaper-hd-new-tab-themes/" data-ps2id-api="true">TV Shows</a></li>
@@ -561,7 +620,7 @@ ul.related_post li img {
 	<li id="menu-item-2411" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2411"><a href="http://freeaddon.com/cartoon-wallpaper-hd-new-tab-theme/" data-ps2id-api="true">Cartoon</a></li>
 </ul>
 </li>
-<li id="menu-item-419" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-419"><a href="http://freeaddon.com/celebrities/" data-ps2id-api="true">Celebrities</a>
+<li id="menu-item-419" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-419"><a href="http://freeaddon.com/category/celebrities/" data-ps2id-api="true">Celebrities</a>
 <ul class="sub-menu">
 	<li id="menu-item-1457" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1457"><a href="http://freeaddon.com/mtv-artists-billboard-music-stars-wallpaper-hd-new-tab-themes/" data-ps2id-api="true">MTV – Billboard Music Stars</a></li>
 	<li id="menu-item-416" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-416"><a href="http://freeaddon.com/ariana-grande-wallpapers-new-tab-theme/" data-ps2id-api="true">Ariana Grande</a></li>
@@ -576,7 +635,7 @@ ul.related_post li img {
 	<li id="menu-item-2440" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2440"><a href="http://freeaddon.com/metallica-wallpaper-hd-metal-rock-music-theme/" data-ps2id-api="true">Metallica Rock Music</a></li>
 </ul>
 </li>
-<li id="menu-item-684" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-684"><a href="http://freeaddon.com/automobiles-cars/" data-ps2id-api="true">Cars</a>
+<li id="menu-item-684" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-684"><a href="http://freeaddon.com/category/automobiles-cars/" data-ps2id-api="true">Cars</a>
 <ul class="sub-menu">
 	<li id="menu-item-686" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-686"><a href="http://freeaddon.com/sports-cars-super-cars-wallpapers-new-tab-theme/" data-ps2id-api="true">Sports Cars – Super Cars</a></li>
 	<li id="menu-item-685" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-685"><a href="http://freeaddon.com/lamborghini-wallpapers-new-tab-theme/" data-ps2id-api="true">Lamborghini</a></li>
@@ -600,10 +659,10 @@ ul.related_post li img {
 	<li id="menu-item-1910" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1910"><a href="http://freeaddon.com/motocross-wallpaper-hd-race-stunt-dirt-bike/" data-ps2id-api="true">Motocross</a></li>
 </ul>
 </li>
-<li id="menu-item-2355" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2355"><a href="http://freeaddon.com/all-legendary-pokemon/" data-ps2id-api="true">Pokemon</a>
+<li id="menu-item-2355" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2355"><a href="http://freeaddon.com/category/all-legendary-pokemon/" data-ps2id-api="true">Pokemon</a>
 <ul class="sub-menu">
-	<li id="menu-item-2362" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2362"><a href="http://freeaddon.com/all-legendary-pokemon/" data-ps2id-api="true">All Legendary Pokemon</a></li>
-	<li id="menu-item-2363" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2363"><a href="http://freeaddon.com/pokemon-sun-and-moon-starters/" data-ps2id-api="true">Pokemon Sun and Moon Starters</a></li>
+	<li id="menu-item-2362" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2362"><a href="http://freeaddon.com/category/all-legendary-pokemon/" data-ps2id-api="true">All Legendary Pokemon</a></li>
+	<li id="menu-item-2363" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2363"><a href="http://freeaddon.com/category/pokemon-sun-and-moon-starters/" data-ps2id-api="true">Pokemon Sun and Moon Starters</a></li>
 </ul>
 </li>
 <li id="menu-item-386" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-386"><a href="http://sportifytab.com/" data-ps2id-api="true">Sports</a></li>
@@ -623,7 +682,7 @@ ul.related_post li img {
 		<nav id="site-navigation" class="main-navigation" role="navigation">
 			<a class="assistive-text" href="#content" title="Skip to content">Skip to content</a>
 			<div class="menu-main-menu-container"><ul id="menu-main-menu-1" class="nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-15"><a href="http://freeaddon.com/" data-ps2id-api="true"><span style="color:#00BCD5;">FreeAddon.com</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-414"><a href="http://freeaddon.com/scenery-landscapes/" data-ps2id-api="true">Scenery</a>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-414"><a href="http://freeaddon.com/category/scenery-landscapes/" data-ps2id-api="true">Scenery</a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1275"><a href="http://freeaddon.com/nature-themes-beach-ocean-galaxy-space-snow-wallpaper/" data-ps2id-api="true">HD Scenery Landscapes</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-68"><a href="http://freeaddon.com/winter-snow-wallpapers-new-tab/" data-ps2id-api="true">Winter &amp; Snow Wallpapers</a></li>
@@ -647,7 +706,7 @@ ul.related_post li img {
 	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-17"><a href="http://freeaddon.com/thanksgiving-wallpapers-for-new-tab/" data-ps2id-api="true">Thanksgiving</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-20"><a href="http://freeaddon.com/cute-pet-animals/" data-ps2id-api="true">Animals</a>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-20"><a href="http://freeaddon.com/category/cute-pet-animals/" data-ps2id-api="true">Animals</a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-19"><a href="http://freeaddon.com/cute-dog-wallpapers-in-new-tab/" data-ps2id-api="true">Cute Dogs Wallpapers</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-21"><a href="http://freeaddon.com/cute-cats-wallpapers-new-tab/" data-ps2id-api="true">Cute Cats Wallpapers</a></li>
@@ -676,7 +735,7 @@ ul.related_post li img {
 	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1799"><a href="http://freeaddon.com/lion-wallpaper-hd-lions-new-tab-themes/" data-ps2id-api="true">Lion</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-90"><a href="http://freeaddon.com/games/" data-ps2id-api="true">Games</a>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-90"><a href="http://freeaddon.com/category/games/" data-ps2id-api="true">Games</a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-636"><a href="http://freeaddon.com/pokemon-go-wallpapers-new-tab-theme/" data-ps2id-api="true">Pokemon GO</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-200"><a href="http://freeaddon.com/assassins-creed-wallpapers-new-tab-theme/" data-ps2id-api="true">Assassin’s Creed</a></li>
@@ -721,7 +780,7 @@ ul.related_post li img {
 	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2414"><a href="http://freeaddon.com/world-of-warcraft-wallpaper-hd-new-tab-theme/" data-ps2id-api="true">World of Warcraft</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-39"><a href="http://freeaddon.com/anime/" data-ps2id-api="true">Anime</a>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-39"><a href="http://freeaddon.com/category/anime/" data-ps2id-api="true">Anime</a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1262"><a href="http://freeaddon.com/anime-hd-wallpapers-new-tab-theme/" data-ps2id-api="true">Anime HD Wallpapers</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-296"><a href="http://freeaddon.com/pokemon-wallpapers-new-tab-theme/" data-ps2id-api="true">Pokemon</a></li>
@@ -755,7 +814,7 @@ ul.related_post li img {
 	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2327"><a href="http://freeaddon.com/hatsune-miku-wallpaper-hd-vocaloid-new-tab/" data-ps2id-api="true">Hatsune Miku Vocaloid</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-40"><a href="http://freeaddon.com/movies/" data-ps2id-api="true">Movies</a>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-40"><a href="http://freeaddon.com/category/movies/" data-ps2id-api="true">Movies</a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-18"><a href="http://freeaddon.com/star-wars-rogue-one-wallpapers-in-new-tab/" data-ps2id-api="true">Star Wars Rogue One</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1793"><a href="http://freeaddon.com/tv-shows-television-films-tv-series-wallpaper-hd-new-tab-themes/" data-ps2id-api="true">TV Shows</a></li>
@@ -804,7 +863,7 @@ ul.related_post li img {
 	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2411"><a href="http://freeaddon.com/cartoon-wallpaper-hd-new-tab-theme/" data-ps2id-api="true">Cartoon</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-419"><a href="http://freeaddon.com/celebrities/" data-ps2id-api="true">Celebrities</a>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-419"><a href="http://freeaddon.com/category/celebrities/" data-ps2id-api="true">Celebrities</a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1457"><a href="http://freeaddon.com/mtv-artists-billboard-music-stars-wallpaper-hd-new-tab-themes/" data-ps2id-api="true">MTV – Billboard Music Stars</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-416"><a href="http://freeaddon.com/ariana-grande-wallpapers-new-tab-theme/" data-ps2id-api="true">Ariana Grande</a></li>
@@ -819,7 +878,7 @@ ul.related_post li img {
 	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2440"><a href="http://freeaddon.com/metallica-wallpaper-hd-metal-rock-music-theme/" data-ps2id-api="true">Metallica Rock Music</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-684"><a href="http://freeaddon.com/automobiles-cars/" data-ps2id-api="true">Cars</a>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-684"><a href="http://freeaddon.com/category/automobiles-cars/" data-ps2id-api="true">Cars</a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-686"><a href="http://freeaddon.com/sports-cars-super-cars-wallpapers-new-tab-theme/" data-ps2id-api="true">Sports Cars – Super Cars</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-685"><a href="http://freeaddon.com/lamborghini-wallpapers-new-tab-theme/" data-ps2id-api="true">Lamborghini</a></li>
@@ -843,10 +902,10 @@ ul.related_post li img {
 	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1910"><a href="http://freeaddon.com/motocross-wallpaper-hd-race-stunt-dirt-bike/" data-ps2id-api="true">Motocross</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2355"><a href="http://freeaddon.com/all-legendary-pokemon/" data-ps2id-api="true">Pokemon</a>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2355"><a href="http://freeaddon.com/category/all-legendary-pokemon/" data-ps2id-api="true">Pokemon</a>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2362"><a href="http://freeaddon.com/all-legendary-pokemon/" data-ps2id-api="true">All Legendary Pokemon</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2363"><a href="http://freeaddon.com/pokemon-sun-and-moon-starters/" data-ps2id-api="true">Pokemon Sun and Moon Starters</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2362"><a href="http://freeaddon.com/category/all-legendary-pokemon/" data-ps2id-api="true">All Legendary Pokemon</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2363"><a href="http://freeaddon.com/category/pokemon-sun-and-moon-starters/" data-ps2id-api="true">Pokemon Sun and Moon Starters</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-386"><a href="http://sportifytab.com/" data-ps2id-api="true">Sports</a></li>
@@ -891,7 +950,7 @@ ul.related_post li img {
     4. <strong><u>Contact Information</u></strong>
 </p>
 <p>
-    If you have any questions or comments about this Policy, please contact us at <a href="/cdn-cgi/l/email-protection#73000603031c010733150116161217171c1d5d101c1e"><span class="__cf_email__" data-cfemail="dfacaaafafb0adab9fb9adbababebbbbb0b1f1bcb0b2">[email&nbsp;protected]</span></a>.</p>
+    If you have any questions or comments about this Policy, please contact us at <a href="mailto:support@freeaddon.com">support@freeaddon.com</a>.</p>
 					</div><!-- .entry-content -->
 		<footer class="entry-meta">
 					</footer><!-- .entry-meta -->
@@ -916,7 +975,9 @@ ul.related_post li img {
 <a href="/faq/"><span style="text-decoration: underline; color: #00BCD5;">FAQ &amp; How To</span></a>
  - <a href="/update-0-1-7/"><span style="text-decoration: underline; color: #00BCD5;">Update 0.1.7</span></a>
 <br>
-<a href="/warning-adware-virus-distributors-are-making-fake-extensions-based-on-freeaddon-sportifytab/"><span style="text-decoration: underline; color: #00BCD5;">Avoid malwares that fake our extensions!</span></a>
+<a href="/fake-1-star-ratings-reviews-attack-by-hackers/"><span style="text-decoration: underline; color: #00BCD5;">Fake 1-star ratings &amp; reviews by Attacker</span></a>
+<br>
+<a href="/warning-adware-virus-distributors-are-making-fake-extensions-based-on-freeaddon-sportifytab/"><span style="text-decoration: underline; color: #00BCD5;">No virus - No ads - FreeAddon is safe!</span></a>
 </div>
 		</aside><aside id="search-2" class="widget widget_search"><div class="wrapper-search-form">
 	<form method="get" id="searchform" action="http://freeaddon.com/">
@@ -924,13 +985,17 @@ ul.related_post li img {
 		<input type="search" class="txt-search-n" name="s" id="s">
 		<input type="submit" name="submit" id="btn-search-n" value="Search">
 	</form>
-</div></aside><aside id="text-4" class="widget widget_text">			<div class="textwidget"><div id="ads-rightcolumn"></div>
+</div></aside><aside id="text-4" class="widget widget_text">			<div class="textwidget"><div id="ads-widget"></div>
 
-<div style="margin:2rem 0;"><iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FFreeAddonWallpaperNewTabExtensions%2F&amp;tabs=timeline&amp;width=300&amp;height=606&amp;small_header=true&amp;adapt_container_width=true&amp;hide_cover=true&amp;show_facepile=true&amp;appId=294358247735719" style="border:none;overflow:hidden;width:100%;height:606px;" scrolling="no" frameborder="0" allowtransparency="true"></iframe></div>
-
-<p><span style="font-weight:bold;color:salmon;">FreeAddon is UNDER ATTACK!</span><br>
-Few days ago, a hacker(team) has started to use fake Gmail accounts to put 8,000+ one-star ratings in 56 of our 300 extensions. If you like our extensions &amp; want to support FreeAddon.com, give us a hand by RATE US on Chrome Web Store. Thank you!
+<p style="margin-top:1rem;"><a href="/fake-1-star-ratings-reviews-attack-by-hackers/" style="font-weight:bold;color:salmon;">FreeAddon is UNDER ATTACK!</a><br>
+Thousands of negative reviews &amp; ratings in our extension were fake. <a href="/fake-1-star-ratings-reviews-attack-by-hackers/" style="font-weight:bold;color:salmon;">Do not believe them!</a>
+<br><br>
+FreeAddon's extensions are Top 1 newtab with 5+ million users. <a href="/warning-adware-virus-distributors-are-making-fake-extensions-based-on-freeaddon-sportifytab/" style="font-weight:bold;color:salmon;">FreeAddon is safe because we have no viruses, no ads</a>. We have taken away a noticeable amount of traffic from <a href="/warning-adware-virus-distributors-are-making-fake-extensions-based-on-freeaddon-sportifytab/" style="font-weight:bold;color:salmon;">malware companies</a>, hence they wanted to take FreeAddon down.
 </p>
+
+<div style="margin-top:1rem;"><iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FFreeAddonWallpaperNewTabExtensions%2F&amp;tabs=timeline&amp;width=300&amp;height=456&amp;small_header=true&amp;adapt_container_width=true&amp;hide_cover=true&amp;show_facepile=true&amp;appId=294358247735719" style="border:none;overflow:hidden;width:100%;height:456px;" scrolling="no" frameborder="0" allowtransparency="true"></iframe></div>
+</div>
+		</aside><aside id="text-10" class="widget widget_text">			<div class="textwidget"><div id="ads-sticky"></div>
 </div>
 		</aside>		</div><!-- #secondary -->
 		</div><!-- #main .wrapper -->
@@ -977,12 +1042,12 @@ Chrome HD Wallpapers &amp; New Tab Themes</a></h2></div>
 	
 	</div><!-- #page -->
 
-	<script data-cfasync="false" src="/cdn-cgi/scripts/af2821b0/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+	<script type="text/javascript">
 /* <![CDATA[ */
 var wpcf7 = {"apiSettings":{"root":"http:\/\/freeaddon.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://freeaddon.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.9.2"></script>
+<script type="text/javascript" src="http://freeaddon.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var mPS2id_params = {"instances":{"mPS2id_instance_0":{"selector":"a[rel='m_PageScroll2id']","autoSelectorMenuLinks":"true","scrollSpeed":1000,"autoScrollSpeed":"true","scrollEasing":"easeInOutQuint","scrollingEasing":"easeOutQuint","pageEndSmoothScroll":"true","stopScrollOnUserAction":"false","layout":"vertical","offset":0,"highlightSelector":"","clickedClass":"mPS2id-clicked","targetClass":"mPS2id-target","highlightClass":"mPS2id-highlight","forceSingleHighlight":"false","keepHighlightUntilNext":"false","highlightByNextTarget":"false","appendHash":"false","scrollToHash":"true","scrollToHashForAll":"true","scrollToHashDelay":0,"disablePluginBelow":0,"adminDisplayWidgetsId":"true","adminTinyMCEbuttons":"true","unbindUnrelatedClickEvents":"false","normalizeAnchorPointTargets":"false"}},"total_instances":"1","shortcode_class":"_ps2id"};
@@ -991,7 +1056,13 @@ var mPS2id_params = {"instances":{"mPS2id_instance_0":{"selector":"a[rel='m_Page
 <script type="text/javascript" src="http://freeaddon.com/wp-content/plugins/page-scroll-to-id/js/page-scroll-to-id.min.js?ver=1.6.2"></script>
 <script type="text/javascript" src="http://freeaddon.com/wp-content/themes/ribosome-pro/js/navigation.js?ver=20140711"></script>
 <script type="text/javascript" src="http://freeaddon.com/wp-content/themes/ribosome-pro/js/ribosome-scripts-functions.js?ver=1.8.0"></script>
-<script type="text/javascript" src="http://freeaddon.com/wp-includes/js/wp-embed.min.js?ver=4.9.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var q2w3_sidebar_options = [{"sidebar":"sidebar-1","margin_top":0,"margin_bottom":0,"stop_id":"","screen_max_width":0,"screen_max_height":0,"width_inherit":false,"refresh_interval":1500,"window_load_hook":false,"disable_mo_api":false,"widgets":["text-10"]}];
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://freeaddon.com/wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js?ver=5.1.4"></script>
+<script type="text/javascript" src="http://freeaddon.com/wp-includes/js/wp-embed.min.js?ver=4.9.6"></script>
 			
 
 </body></html>
