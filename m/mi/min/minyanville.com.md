@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minyanville.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204213133id_/http%3A//www.minyanville.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minyanville.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606032455id_/http%3A//www.minyanville.com/company/privacy.htm) for the most accurate reproduction.*
 
 # Minyanville Privacy Statement
 
@@ -55,3 +55,5 @@ IP address: Every computer connected to the Internet has a numeric address calle
 Browser type: A user’s browser is a software program running on a computer that allows users to access documents on the World Wide Web. Browsers can be either text or graphic. They read HTML coded pages that reside on a server and interpret the coding into what the user sees as web pages. Netscape Navigator and Microsoft Internet Explorer are examples of browsers. Browser type typically discloses hardware platform, operating system, and browser software and version. 
 
 Referrer: The referrer is the URI of the Internet resource or page that causes a browser to request a page or image from Minyanville.com servers. 
+
+### WHAT'S POPULAR IN THE VILLE
