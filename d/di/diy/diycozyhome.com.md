@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diycozyhome.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225235657id_/http%3A//diycozyhome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diycozyhome.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606035953id_/http%3A//diycozyhome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DIY Cozy Home
 
