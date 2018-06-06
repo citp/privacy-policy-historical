@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the merlkon.com privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103202714id_/http%3A//www.merlkon.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merlkon.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606220654id_/http%3A//www.merlkon.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Merl Kon
+# » Privacy Policy
+
+[](http://www.merlkon.net/privacy-policy/)
+
+##### Written by [Ash](), February 24, 2012
+
+  
+
 
 **Privacy Policy for www.merlkon.net**
 
