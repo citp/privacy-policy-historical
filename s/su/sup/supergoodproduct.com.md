@@ -1,38 +1,43 @@
-> *The following text is extracted and transformed from the supergoodproduct.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225105017id_/http%3A//supergoodproduct.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supergoodproduct.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606040536id_/http%3A//supergoodproduct.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SuperGoodProduct.com
 
-**Cookies**
+* The following policy page is applicable for SuperGoodProduct.com and SuperGoodBonus.com.
 
-SuperGoodProduct.com uses cookies to store information on your local computer. These cookies do not contain any personal data, they only serve to provide you with information tailored to your individual needs.
+## Privacy Policy:
 
-**Registration**
+SuperGoodProduct.com (" **SuperGoodProduct** ") operates SuperGoodProduct.com and may operate other websites. It is SuperGoodProduct's policy to respect your privacy regarding any information we may collect while operating our websites.
 
-When registering or purchasing products from SuperGoodProduct.com, valid email address along with other required information such as address, name etc are required. These information are used solely to process payment as well as setting up customer accounts. The information will not be used for other purposes except from processing payments and setting up customer accounts.
+### Website Visitors
 
-**Payments**
+Like most website operators, SuperGoodProduct collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. SuperGoodProduct's purpose in collecting non-personally identifying information is to better understand how SuperGoodProduct's visitors use its website. From time to time, SuperGoodProduct may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-SuperGoodProduct.com uses other payment gateway such as Paypal to process payment. This is to ensure a safe and secure transaction for our customers. When you placed order at SuperGoodProduct, all orders are pass through 3rd partner payment gateway (We currently use Paypal as our main payment processer) with that we’re able to ensure the top best safest transaction. All your payment details will also never expose to us as all payment went through paypal.
+SuperGoodProduct also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on SuperGoodProduct.com blogs/sites. SuperGoodProduct only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
 
-**Emails Policy**
+### Gathering of Personally-Identifying Information
 
-SuperGoodProduct.com requires valid email address for registration. We have very strict policy regarding to spam, your email address will only be used for registration purposes and announcement purposes. Note that from time to time SuperGoodProduct.com might send important announcement and updates to our customers. Customers always have the choice to opt out if customer doesn’t wish to receive further emails from SuperGoodProduct.com.
+Certain visitors to SuperGoodProduct's websites choose to interact with SuperGoodProduct in ways that require SuperGoodProduct to gather personally-identifying information. The amount and type of information that SuperGoodProduct gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [SuperGoodProduct.com](http://supergoodproduct.com/) to provide a username and email address. Those who engage in transactions with SuperGoodProduct are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, SuperGoodProduct collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with SuperGoodProduct. SuperGoodProduct does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-Customers can easily opt out from our mailing list by contacting us or use the provided opt out link in the email that we sent to customers.
+### Aggregated Statistics
 
-**IP Address and logging**
+SuperGoodProduct may collect statistics about the behavior of visitors to its websites. SuperGoodProduct may display this information publicly or provide it to others. However, SuperGoodProduct does not disclose personally-identifying information other than as described below.
 
-Our web site will collect details such as IP address, time you visit our site, referring web site and etc. These details are used solely for site statistic and fraud prevention purposes.
+### Protection of Certain Personally-Identifying Information
 
-**Adroll Retargetting Advertising**
+SuperGoodProduct discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on SuperGoodProduct's behalf or to provide services available at SuperGoodProduct's websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using SuperGoodProduct's websites, you consent to the transfer of such information to them. SuperGoodProduct will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, SuperGoodProduct discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when SuperGoodProduct believes in good faith that disclosure is reasonably necessary to protect the property or rights of SuperGoodProduct, third parties or the public at large. If you are a registered user of an SuperGoodProduct website and have supplied your email address, SuperGoodProduct may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with SuperGoodProduct and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. SuperGoodProduct takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-SuperGoodProduct use Adroll and other third party retargeting advertising program and by visiting our site Adroll or third parties may place cookies on users browser for targeted advertising purposes. Information such as IP address, cookie identifiers and website activity will be collected. These collected information will be used by Adroll or third party for targeted advertising purposes.
+### Cookies
 
-If you wish to opt out from receiving targeted advertising you may do so by using the following unsubscribe link,
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. SuperGoodProduct uses cookies to help SuperGoodProduct identify and track visitors, their usage of SuperGoodProduct website, and their website access preferences. SuperGoodProduct visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using SuperGoodProduct's websites, with the drawback that certain features of SuperGoodProduct's websites may not function properly without the aid of cookies.
 
-  * For Adroll: <https://app.adroll.com/optout/safari>
-  * NAI (National Advertisement Initiative): <http://www.networkadvertising.org/choices/>
-  * Self-Regulatory Principles for Online Behavioral Advertising as managed by the Digital Advertising Alliance (DAA): <http://www.aboutads.info/choices/>
-  * European Interactive Advertising Digital Alliance (EDAA): <http://www.youronlinechoices.com/>
+### Business Transfers
 
+If SuperGoodProduct, or substantially all of its assets, were acquired, or in the unlikely event that SuperGoodProduct goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of SuperGoodProduct may continue to use your personal information as set forth in this policy.
 
+### Ads
+
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by SuperGoodProduct and does not cover the use of cookies by any advertisers.
+
+### Privacy Policy Changes
+
+Although most changes are likely to be minor, SuperGoodProduct may change its Privacy Policy from time to time, and in SuperGoodProduct's sole discretion. SuperGoodProduct encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a SuperGoodProduct.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
