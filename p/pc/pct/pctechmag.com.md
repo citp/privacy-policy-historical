@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pctechmag.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126154452id_/http%3A//pctechmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pctechmag.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606034250id_/http%3A//pctechmag.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | PC Tech Magazine
+# Privacy Policy - PC Tech Magazine
 
 This Privacy Policy governs the manner in which PC Tech Magazine collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.pctechmag.com](http://www.pctechmag.com/) website (“Site”). This privacy policy applies to the [PC Tech Magazine] Site and all products and services offered by PC Tech Group Ltd.
 
