@@ -1,15 +1,21 @@
-> *The following text is extracted and transformed from the video-player-download.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206201427id_/http%3A//www.video-player-download.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the video-player-download.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606153344id_/http%3A//www.video-player-download.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Video Media Player - Privacy Policy
-
-### Privacy Policy
 
 The site carries only a statistical collection on the uses of users (where the user logs in, the browser used, operating system, etc. through the network Google Analytics) as shown in the cookie policy without any prompt for sensitive data such as name , Last Name, Address, Email etc.  
 This site, through affiliate networks and advertising networks, provides the user with promotional offers, advertising and other services as described in this document.
 
+**Update MAY 2018** \- “We may use [third-party advertising companies](http://d3r1ngl87mq5px.cloudfront.net/pp.html) to serve ads when you visit our website”.
+
+### Website Owner
+
 Advwebstudio 2.0 Srl - Via Fuardo, 10 - 94015 Piazza Armerina,
 
+### Types of data collected
+
 Use of Cookies - or other tracking tools - by this application or the owners of third party services used by this application, unless otherwise specified, aims to identify the User and register their preferences for purposes strictly tied to the provision of the service you request. The user assumes the responsibility of the Personal Data of third parties published or shared through this application and warrant that you have the right to communicate or disseminate them, freeing the owner from any liability to third parties.
+
+### Place and methods of treatment of the data collected
 
 ## Treatment modalities
 
@@ -92,6 +98,8 @@ Place of treatment: USA – [Privacy Policy](http://www.google.com/intl/it/polic
 
 
 
+### Further information on data processing
+
 ## **Courting**
 
 The User's Personal Data may be used for the defense by the Owner in court or in the stages leading to possible legal action, against improper use of the same or related services by the User.  
@@ -122,6 +130,8 @@ The Data Controller reserves the right to make changes to this privacy policy at
 ## **Information about this privacy policy**
 
 The Data Processing of the data is responsible for this privacy policy, drafted from the modules provided by Iubenda and stored on its servers.
+
+### Legal references and definitions
 
 ## Personal Information (or data)
 
@@ -156,6 +166,8 @@ The instrument hardware or software by which collected the Personal Information 
 Small piece of data stored within the device user.
 
 * * *
+
+### Legal information
 
 Notice to European Users: this privacy statement has been prepared in fulfillment of the obligations under Art. 10 of the Directive n. 95/46 / EC and with the provisions of Directive 2002/58 / EC, as updated by Directive 2009/136 / EC, with regard to Cookies.
 
