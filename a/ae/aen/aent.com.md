@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aent.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204223952id_/http%3A//www.aent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aent.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606041048id_/http%3A//www.aent.com/privacy-policy) for the most accurate reproduction.*
 
 # All About Alliance Entertainment - Privacy Policy
 
