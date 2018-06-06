@@ -1,30 +1,29 @@
-> *The following text is extracted and transformed from the ibj.com privacy policy that was archived on 2017-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170325191023id_/http%3A//www.ibj.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibj.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606120918id_/http%3A//www.ibj.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Indianapolis Business Journal will never share your private information (e-mail address, etc.) with anyone unless you expressly request IBJ to do so.
+This privacy policy describes how IBJ Media Corp. (The Company) uses and protects the information a user releases to [www.ibj.com](http://www.ibj.com/).
 
-IBJ Corp. has created this privacy statement in order to demonstrate our firm commitment to privacy. We will never sell or transfer any information we collect from you unless you specifically request that we do so. We do not sell, rent, or give your information to any other company.
+The Company is fully committed to ensuring your privacy is protected. The Company will only use identifying information in accordance with their privacy statement.
 
-The following discloses our information gathering and dissemination practices for this website: www.ibj.com.
+The Company has the right to change the privacy policy at any time and will update this page accordingly. This policy was last updated May 21, 2018.
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Registration forms on ibj.com may require users to give contact information (such as their name and email address) and demographic information (such as their zip code, age, or phone number). We use customer contact information from the registration forms and article comments to send the user information about our company and promotional material about some of our partners.
+Identifying information can include but is not limited to: name, job title, basic contact information, demographic information, and any other information that could be relevant to any offers and/or surveys.
 
-Demographic and profile data is also collected at our site. We use this data to tailor our communication with our visitors. We do not share this information with anyone.
+The Company uses identifying information for internal record keeping, and also reserves the right to use an individual’s information for improvement of services, market research opportunities, and promotional emails.
 
-This site may contain links to other sites. ibj.com is not responsible for the privacy practices or the content of such Web sites.
+The Company puts your security at the top of their privacy priorities. We use multiple procedures to ensure your information is safeguarded at all times.
 
-Third parties provide some of the content provided on this Website. These parties do not have access to any of the information you provide Indianapolis Business Journal via this site. Demographic and profile data is also collected at our site. We do not share this information with anyone.
+The Company utilizes cookies to monitor page usage, and also enable the ability to remember your login information for you. The cookies do not give The Company access to your computer or personal information that you do not provide willingly.
 
-Our site uses cookies to track visitors to our site.
+The Company utilizes Google Analytics. To learn more about Google Analytics go to <https://policies.google.com/privacy?hl=en>. To opt out of Google Analytics, go to <https://tools.google.com/dlpage/gaoptout>.
 
-**Security**  
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
+The Company utilizes social buttons, to enable users to share or bookmark pages within the website. Please check the respective sites of the social buttons (Facebook, LinkedIn, etc) for their individual privacy policies.
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. You can send email to [info@ibj.com](mailto:info@ibj.com).
+The Company utilizes links to other websites such as YouTube to display content. Please check those respective sites for their privacy policies, and remember that if you leave [www.ibj.com](http://www.ibj.com/), our privacy policy is void and we are not responsible for any information that may be shared.
 
-**Correct/Update**  
-This site gives users the following options for changing and modifying information previously provided. Send email to: [info@ibj.com](mailto:info@ibj.com).
+The Company utilizes email-tracking in specific emails such as newsletters.
 
-**Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: IBJ Corp., 41 E. Washington St., Indianapolis, IN 46204, 317.634.6200
+The Company gives the option for modifying information a user has provided. If a user would like to modify or delete their information entirely, please contact us at [info@ibj.com](mailto:info@ibj.com)
+
+For any questions about the privacy statement, practices of this site, or dealings with this web site, contact the IBJ Corporation at 41 E Washington Street, Indianapolis IN 46204 or by phone at 317.634.6200
