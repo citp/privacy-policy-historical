@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiansexvideoz.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118085726id_/http%3A//tour.indiansexvideoz.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiansexvideoz.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607052908id_/http%3A//tour.indiansexvideoz.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
