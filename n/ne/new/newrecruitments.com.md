@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newrecruitments.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124105152id_/http%3A//www.newrecruitments.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newrecruitments.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607104231id_/http%3A//www.newrecruitments.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # NewRecruitments.com privacy policy
 
