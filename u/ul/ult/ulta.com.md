@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the ulta.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928184207id_/https%3A//www.ulta.com/ulta/common/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ulta.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607220813id_/https%3A//www.ulta.com/ulta/common/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Ulta Beauty
 
 ## ULTA.com® Privacy Policy
 
-Last Updated: 10/31/2016  
-This website or mobile application ("Site") is owned and operated by Ulta Salon, Cosmetics & Fragrance, Inc. ("Ulta Beauty"). Ulta Beauty takes your privacy seriously. This Privacy Policy describes what information this Site gathers about you, how we use that information, and what steps we take to protect that information.
+Last Updated: 2/22/2018  
+This website, Wi-Fi service, internet service, or mobile application ("Site") is owned and operated by Ulta Salon, Cosmetics & Fragrance, Inc. ("Ulta Beauty"). Ulta Beauty takes your privacy seriously. This Privacy Policy describes what information this Site gathers about you, how we use that information, and what steps we take to protect that information.
 
 By using this Site, you consent to the terms of this Privacy Policy as well as the Site [Terms & Conditions.](https://web.archive.org/ulta/common/user_agreement.jsp "Terms & Conditions") Ulta Beauty may change this Privacy Policy from time to time. Please check back periodically for up-to-date information about our privacy practices.
 
@@ -57,15 +57,17 @@ We may use the personal information you provide to allow you to send message to 
 
     Some browsers have a 'do not track' feature that lets you tell websites that you do not want to have your online activities tracked. These features are not yet uniform, so our Site is not currently designed to respond to those signals.
 
-     _Mobile Applications and Website_
+     _Wi-Fi Service, Mobile Applications and Website_
 
-    When you download or use our mobile application or mobile website, we may receive information about your location and your mobile device. This information may include the type of mobile device you use, the temporary or persistent unique device identifier (UDID) placed by us or our service providers, the unique identifier assigned by Ulta Beauty to your device, the IP address of your device, your mobile operating system, the type of mobile web browser you use, and data from the way you use our mobile application/website.
+    When you download or use our in-store WiFi service, mobile application or mobile website, we may receive information about your location and your mobile device. This information may include the type of mobile device you use, the temporary or persistent unique device identifier (UDID) placed by us or our service providers, the unique identifier assigned by Ulta Beauty to your device, the IP address of your device, your mobile operating system, the type of mobile web browser you use, and data from the way you use our mobile application/website.
 
-    Our mobile application/website may also collect information about the location of your device. Your device should require you to provide permission before our mobile application/website obtains location information from technologies like GPS, Wi-Fi, and/or cell towers. We and our service providers may use this information, along with other information submitted by you, to provide you with location-based services like local store information, search results, special offers, and other personalized content.
+    Our in-store WiFi service/mobile application/website may also collect information about the location of your device. Your device should require you to provide permission before our in-store WiFi service/mobile application/website obtains location information from technologies like GPS, Wi-Fi, and/or cell towers. We and our service providers may use this information, along with other information submitted by you, to provide you with location-based services like local store information, search results, special offers, and other personalized content.
 
     Most mobile devices allow users to disable location services by using controls located in the device's settings menu. If you have questions about how to disable your device's location services, please contact your mobile service carrier or your device manufacturer. You may also stop collection of information by our mobile application by uninstalling the mobile application using the standard uninstall process available as part of your mobile device.
 
     If you uninstall our mobile application from your device, the unique Ulta Beauty identifier associated with your device may continue to be stored. If you re-install our mobile application on the same device, Ulta Beauty may be able to re-associate this identifier to your previous transactions.
+
+    Your use of our in-store WiFi service is also subject to Ulta Beauty's [WiFi Terms](https://web.archive.org/storewifi/terms.html).
 
      _Social Media Widgets and Single Sign-On Services_
 
@@ -114,7 +116,15 @@ If you would like to stop receiving promotions, updates and/or special offers at
 
      _Text Messages_
 
-    Ulta Beauty may distribute mobile coupons and other text messages to devices of guests who request this information via an opt in request. To opt out of Ulta Beauty text messages, reply "stop" to text messages sent from 95637 (ULTA). This will opt you out of all Ulta Beauty text message campaigns from 95637 (ULTA). 
+    Ulta Beauty may distribute mobile coupons and other text messages to devices of guests who request this information via an opt in request. To opt out of Ulta Beauty text messages, reply "stop" to text messages sent from 95637 (ULTA). This will opt you out of all Ulta Beauty text message campaigns from 95637 (ULTA).To opt out of text messages from 
+
+_Ulta Beauty Messenger_
+
+service, text STOP to (630) 410-9968. This will opt you out of all 
+
+_Ulta Beauty Messenger_
+
+text message campaigns from (630) 410-9968. 
 
      _Push Notifications_
 
