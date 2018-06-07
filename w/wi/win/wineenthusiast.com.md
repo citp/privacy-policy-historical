@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wineenthusiast.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205151901id_/http%3A//www.wineenthusiast.com/customer-care/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wineenthusiast.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607115339id_/http%3A//www.wineenthusiast.com/customer-care/privacy-policy.asp) for the most accurate reproduction.*
 
 # Our Privacy Policy - Wine Enthusiast
 
@@ -67,3 +67,19 @@ Your use of this Website is governed by, and subject to, the legal notices and d
 
 
 
+
+Wayback Machine
+
+Search the history of over 411 billion [web pages](https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/) on the Internet. 
+
+[](https://archive.org/web/)
+
+## Hrm.
+
+The Wayback Machine has not archived that URL.
+
+## This page is available on the web!
+
+Help make the Wayback Machine more complete!
+
+Click here to search for all archived pages under [http://http:/ajax/widgets/](https://web.archive.org/web/*/http://http:/ajax/widgets/*). 
