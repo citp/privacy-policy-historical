@@ -1,12 +1,22 @@
-> *The following text is extracted and transformed from the offlajn.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203125452id_/http%3A//offlajn.com/common-content/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offlajn.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607195801id_/http%3A//offlajn.com/common-content/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Common content
 
 ### What information do we collect?
 
-We collect information from you when you register on our site or place an order.
+We collect information in two ways: if and when you provide information to us and automatically through operating our services. Let’s go over the information that we collect.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or mailing address.
+#### Information You Provide to Us
+
+Basic Account Information:
+     When ordering or registering on our site, as appropriate, you may be asked to enter your: name, username, e-mail address and company name(optionally).
+Communications With Us:
+    You may also provide us information when you communicate with our Support Staff about a support question.
+
+#### Information We Collect Automatically
+
+Log Information:
+    Like most online service providers, we collect information that web browsers, mobile devices, and servers typically make available, such as the browser type, IP address, unique device identifiers, language preference, referring site, the date and time of access, operating system, and mobile network information. We collect log information when you use our services.
 
 ### What do we use your information for?
 
@@ -32,19 +42,42 @@ The email address you provide for order processing, will only be used to send yo
 
 ### How do we protect your information?
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. We collect only the most necessary informations wich are important to our business process.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
 After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days.
 
 ### Do we use cookies?
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
 We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
 If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
+
+#### Cookies we use
+
+Below is a description of each category of cookies that are in use.
+
+| Cookie | Name | Purpose  
+---|---|---  
+Offlajn Store | session  
+virtuemart  | 
+
+These are the cookies that are essential for the website to perform the basic functions. These include those required to allow registered users to authenticate and perform account related functions.  
+  
+Google Analytics | _utma  
+_utmb  
+_utmc  
+_utmt  
+_utmz  | 
+
+These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.
+
+[Click here for an overview of privacy at Google](http://www.google.co.uk/intl/en/analytics/privacyoverview.html)  
+  
+If you would like to opt-out of Google Analytics monitoring your behaviour on our sites please use this link (<https://tools.google.com/dlpage/gaoptout/>)
 
 ### Do we disclose any information to outside parties?
 
