@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the h-online.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206111534id_/http%3A//www.h-online.com/Privacy-Policy-of-h-online-com-273337.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the h-online.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607051448id_/http%3A//www.h-online.com/Privacy-Policy-of-h-online-com-273337.html) for the most accurate reproduction.*
 
 # Privacy Policy of h-online.com - The H: Open Source, Security and Development
 
