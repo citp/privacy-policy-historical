@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the fearlessflyer.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210180438id_/http%3A//fearlessflyer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fearlessflyer.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607074213id_/http%3A//fearlessflyer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fearlessflyer.com
 
-This privacy policy sets out how Fearlessflyer uses and protects any information that you submit when you use this website.
+This privacy policy sets out how Fearlessflyer.com uses and protects any information that you submit when you use this website. Fearlessflyer.com is also referenced as “we” or “this website” throughout this policy.
 
-Fearlessflyer is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+Fearlessflyer.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-Fearlessflyer may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1/20/2010.
+Fearlessflyer.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
+
+This policy was last updated 5/23/2018.
 
 ### What we collect
 
@@ -17,6 +19,12 @@ When submitting comments, joining the mailing list, or even donating some money 
   * Other information such as website
 
 
+
+### Cookie Policy
+
+We may also collect information from website users automatically through the use of cookies or other similar tracking technologies. Cookies are small bits of information that the website places on your computer’s hard drive. Cookies remember information about your activities on the website to make your visits to the website more enjoyable and valuable to you by providing a customized experience and recognizing your preferences when you visit the website. If you have chosen to disable cookies on your browser, some of the functionality of the website may be lost.
+
+Certain web pages or services provided by us require that cookies be enabled in your browser and cannot be used when you have disabled cookies in your browser. By continuing to browse this website, you agree to our cookie policy.
 
 ### What we do with the information we gather
 
@@ -34,4 +42,4 @@ Our website may contain links to other websites of interest. However, once you h
 
 ### Controlling your personal information
 
-You may choose to restrict the collection or use of your personal information by emailing us at host[at]fearlessflyer.com
+You may choose to restrict the collection or use of your personal information by emailing us at fearlessflyercom[at]gmail.com
