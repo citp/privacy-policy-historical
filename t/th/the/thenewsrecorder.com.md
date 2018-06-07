@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the thenewsrecorder.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202050628id_/http%3A//www.thenewsrecorder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenewsrecorder.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607231508id_/https%3A//thenewsrecorder.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The News Recorder
-
-**What information do we collect?**
+# Privacy Policy
 
 We collect information from you when you register on our site, place an order, subscribe to our newsletter, or respond to a survey.
 
@@ -54,13 +52,13 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 **California Online Privacy Protection Act Compliance**
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We, therefore, will not distribute your personal information to outside parties without your consent.
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging in and click “My Account”, located at the top of each page.
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at any time by logging in and click “My Account”, located at the top of each page.
 
-**Childrens Online Privacy Protection Act Compliance**
+**Children’s Online Privacy Protection Act Compliance**
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
 **Google Analytics**
 
