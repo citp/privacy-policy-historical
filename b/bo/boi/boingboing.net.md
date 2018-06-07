@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the boingboing.net privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229223520id_/http%3A//boingboing.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boingboing.net privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607183713id_/http%3A//boingboing.net/privacy) for the most accurate reproduction.*
 
 # Boing Boing Privacy Policy / Boing Boing
 
 _
 
-Effective: Jun. 27, 2013 (updated: Jan. 1, 2015; Feb. 17, 2015, Dec. 20, 2016)
+Effective: Jun. 27, 2013 (updated: Jan. 1, 2015; Feb. 17, 2015, Dec. 20, 2016, April 4, 2018)
 
 _
 
@@ -28,21 +28,17 @@ We partner with Civilized Discourse Construction Kit, Inc., (“CDCK”) to prov
 
 4\. We Collect Information When You Suggest A Link
 
-When you use our [form](http://boingboing.net/suggest.html) to suggest a link, we request (1) a title for the item you’re suggesting; (2) an URL of the suggested website; and (3) a description of the suggested site. We use this information to assess your suggestion. We also ask for your name, email and your URL. These fields are optional and we use them to give you appropriate credit. If you ask to remain anonymous, we will not publish your name in association with your suggestion, should we choose to use it. We will never spam your email. We maintain this information indefinitely and use it to evaluate submissions quickly.
+When you use our [form](http://boingboing.net/suggest.html) to suggest a link, we request (1) a title for the item you’re suggesting; (2) an URL of the suggested website; and (3) a description of the suggested site. We use this information to assess your suggestion. We also ask for your name, email and your URL. These fields are optional and we use them to give you appropriate credit. If you ask to remain anonymous, we will not publish your name in association with your suggestion, should we choose to use it. We will never spam your email. We maintain this information indefinitely and use it to evaluate submissions quickly. Suggesting a link does not mean we will publish it! We do appreciate the effort. Please don't email, once or repeatedly, to check and see if we've reviewed your submission.
 
-5\. We Collect Information When You Sign Up For The Boing Boing Blast
+5\. We Collect Information When You Sign Up For The Boing Boing email 'Zine
 
-When you subscribe to receive the Boing Boing Blast, we require your email address so that we can send you the day’s headlines and excerpts. It is optional to provide your first and/or last name and we only use it to personalize the message. We do not use your email for any other purpose than to send the Blast. You will remain on this list until you unsubscribe, which you can do at any time. We partner with MailChimp to provide email list services. Their privacy policy can be found [here](http://mailchimp.com/legal/privacy).
+When you subscribe to receive the Boing Boing email 'Zine, we require your email address so that we can send you the day’s headlines and excerpts. It is optional to provide your first and/or last name and we only use it to personalize the message. We do not use your email for any other purpose than to send the 'Zine. You will remain on this list until you unsubscribe, which you can do at any time. We partner with MailChimp to provide email list services. Their privacy policy can be found [here](http://mailchimp.com/legal/privacy).
 
-6\. We DO NOT Collect Information When You Use The Boing Boing Shop
-
-Our marketplace services are provided by Neatoshop.com. Their privacy policy can be found [here](http://www.neatoshop.com/faq#privacy). We do not have access to any personal information that you provide to them during the purchase and checkout process.
-
-7\. We Collect Information When You Communicate With Us Directly
+6\. We Collect Information When You Communicate With Us Directly
 
 If you email us or send other communications to us directly, we will retain your email or address and correspondence so that we may respond to your request. We retain this information indefinitely so that we have a history of our past communications.
 
-8\. We DO NOT Collect Information when You Use the Boing Boing Store
+7\. We DO NOT Collect Information when You Use the Boing Boing Store
 
 [StackCommerce](https://www.stackcommerce.com/) is our partner for selling stuff via the Store (we know, we know, confusing vs the shop.) Here is StackCommerce's [privacy policy](https://www.stackcommerce.com/privacy/), they do collect information when you buy from the store. We do not have access to user account information or any data provided during the checkout process. We also lament the frequently cheesy copy in the advertisements.
 
@@ -96,21 +92,17 @@ Cookies are small data files that websites store in your hard drive. They create
 
 We use Google Analytics to help us understand how you engage with our site so that we can improve it. Google Analytics reports website trends without identifying individual visitors. You may install a Google Analytics Opt-Out Browser Button [here](https://tools.google.com/dlpage/gaoptout?hl=en-GB). The Google Analytics Privacy Policy can be read [here](https://www.google.com/analytics/learn/privacy.html).
 
-2\. Mint
-
-We host Mint Analytics on our servers to understand how our visitors interact with our site. Our reports aggregate user activity anonymously and do not identify you individually.
-
-3\. Social Media Widgets
+2\. Social Media Widgets
 
 We display sharing buttons so you can use social networking to share items from our site. This includes [Rune](https://www.secretrune.com/privacy-policy), which allows us to understand what content you thought was worth sharing.
 
 It also includes the Facebook recommend button and other interactive mini-programs that run on our site that collect your IP address, which page you are visiting on our site, and sets a cookie to enable the widget to function properly. Your interactions with these Widgets are governed by the privacy policy of the company providing them, not by this Privacy Policy.
 
-4\. Google FeedBurner for RSS
+3\. Google FeedBurner for RSS
 
 Our content is syndicated and distributed through Feedburner, owned by Google. When you subscribe to the RSS feed, your account is controlled by Google Accounts, and we have no access to the personal information you share with them.  Read the [Google Privacy Policy](http://www.google.com/policies/privacy/). 
 
-5\. Affiliate Programs
+4\. Affiliate Programs
 
 Not technically an analytics cookie,  
 but you should know that we present links in a format that  
@@ -121,7 +113,7 @@ when you make a purchase on Amazon.com, Etsy.com ([privacy policy](https://www.e
 
 1\. Digital Trends
 
-We partner with [Digital Trends](http://www.digitaltrends.com/) to provide third-party advertising. Digital Trends, and the companies that it contracts with to serve ads may place or recognize unique cookies on your browser and use information about your visits to this and other sites to provide advertisements on this and other sites. We do not share any personal information with Urban Daddy (like your email address). DT's [privacy policy](http://www.digitaltrends.com/legal/privacy-policy/) and [terms of service](http://www.digitaltrends.com/legal/terms-of-use/) are available to review.
+We partner with [Digital Trends](http://www.digitaltrends.com/) to provide third-party advertising. Digital Trends, and the companies that it contracts with to serve ads may place or recognize unique cookies on your browser and use information about your visits to this and other sites to provide advertisements on this and other sites. We do not share any personal information with Digital Trends (like your email address). DT's [privacy policy](https://www.digitaltrends.com/privacy-policy/) and [terms of service](https://www.digitaltrends.com/terms-of-use/) are available to review.
 
 2\. “Other”
 
@@ -145,4 +137,6 @@ Just so we are clear about how we use advertising on the site, below are some of
 
 7\. Advertorial: Any advertisements that are presented in an editorial format will be prominently marked as sponsored.
 
-8\. Traditional banner ads: We have strict guidelines on the banner advertisements that we accept. Expanding banners are only delivered to each browser once daily. Animated ads can't be longer than 30 seconds. Audio must be user-initiated. And of course, no pop-ups or pop-unders. Unfortunately, ads that break those rules sometimes do slip through our automated system. So if you see a banner ad that violates this policy, please let us know by emailing  [ads@boingboing.net](mailto:ads@boingboing.net) and we'll investigate.
+8\. Sometimes, when videos match up via a script we swap out YouTube for a [player](https://rumble.com/s/privacy.html) who shares revenue with us.
+
+9\. Traditional banner ads: We have strict guidelines on the banner advertisements that we accept. Expanding banners are only delivered to each browser once daily. Animated ads can't be longer than 30 seconds. Audio must be user-initiated. And of course, no pop-ups or pop-unders. Unfortunately, ads that break those rules sometimes do slip through our automated system. So if you see a banner ad that violates this policy, please let us know by emailing  [ads@boingboing.net](mailto:ads@boingboing.net) and we'll investigate.
