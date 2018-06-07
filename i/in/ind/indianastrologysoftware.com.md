@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indianastrologysoftware.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202024800id_/https%3A//www.indianastrologysoftware.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianastrologysoftware.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607195526id_/https%3A//www.indianastrologysoftware.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - IndianAstrologySoftware.com
 
@@ -68,59 +68,3 @@ Phone: +91 484 2343925, 3390000,
 E-mail:[cochin@astrovisiononline.com](mailto:cochin@astrovisiononline.com)
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
-
-## AstroSuite 2.0
-
-This astrology software suite is a combination of 8 different astrology software products, ideal for business users.
-
-[](http://www.indianastrologysoftware.com/business/astrology-software-suite.php)
-
-### This Astrology Software Suite Contains:
-
-  * Lifesign 14.0 
-  * SoulMate 11.0 
-  * GemFinder 11.0 
-  * YearGuide 3.0 
-  * DigiTell 9.0 
-  * Namefinder 1.1 
-  * PanchaPakshi 1.0 
-  * StarClock VX 2.0
-
-
-
-#### English + Malayalam + Tamil + Telugu + Kannada + Hindi + Marathi + Bengali + Sinhala*
-
-*Some software are available in fewer languages.
-
-Get A Quote
-
-[Know More](http://www.indianastrologysoftware.com/business/astrology-software-suite.php)
-
-## StarClock ME Ultimate
-
-This mobile astrology software includes Horoscope Matching,Prasna, Muhurtha and lots more. Available in Android and Java.
-
-[](http://www.indianastrologysoftware.com/professional/mobile-astrology-software-ultimate.php)
-
-### Key Features: 
-
-  * Multi-lingual interface and reports 
-  * Detailed Marriage matching 
-  * Calculations and charts for any date and time 
-  * Save and retrieve birth data of individuals 
-  * PDF conversion of reports 
-  * Compatible with all android mobiles
-
-
-
-#### English + Hindi + Telugu + Tamil + Marathi + Kannada + Malayalam
-
-*Requires Android 2.2 & above
-
-Get A Quote
-
-[Know More](http://www.indianastrologysoftware.com/professional/mobile-astrology-software-ultimate.php)
-
-## Like us on Facebook
-
-## Follow us on Google+
