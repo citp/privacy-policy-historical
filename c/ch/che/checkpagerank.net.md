@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checkpagerank.net privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003230633id_/http%3A//checkpagerank.net/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkpagerank.net privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607103143id_/https%3A//www.checkpagerank.net/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Check Page Rank!
 
@@ -53,22 +53,18 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 Online Privacy Policy Only  
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-Terms and Conditions  
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://checkpagerank.net/termsandconditions.php
-
 Your Consent  
 By using our site, you consent to our privacy policy.
 
 Changes to our Privacy Policy  
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on 12/13/2013
+This policy was last modified on 11/06/2017
 
 Contacting Us  
 If there are any questions regarding this privacy policy you may contact us using the information below.  
-http://checkpagerank.net  
+https://www.checkpagerank.net  
 980 N Michigan Ave Ste 1400  
 Chicago, Illinois 60611  
 United States  
-info@checkpagerank.net  
-1-312-985-7701
+info@checkpagerank.net
