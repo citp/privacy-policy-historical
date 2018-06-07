@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the textbooksrus.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904130823id_/http%3A//www.textbookrush.com/help/policies/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textbooksrus.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607095638id_/https%3A//textbookrush.com/help/policies/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - TextbookRush
 
 Last updated December 14, 2016
 
-This privacy policy applies to http://www.textbookrush.com/ owned and operated by TexbookRush (collectively referred as “TexbookRush” , “we”, “us”, “our”) . This privacy policy describes how TexbookRush collects and uses the personal information you provide on our web site: http://www.textbookrush.com/ . It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
+This privacy policy applies to https://www.textbookrush.com/ owned and operated by TexbookRush (collectively referred as “TexbookRush” , “we”, “us”, “our”) . This privacy policy describes how TexbookRush collects and uses the personal information you provide on our web site: https://www.textbookrush.com/ . It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
 
 When visiting any website, we encourage you to read that website's privacy policy. TextbookRush is committed to keeping your information private and confidential.
 
@@ -32,7 +32,7 @@ We use cookies for our shopping carts, for authentication, and to customize page
 
 We and third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs.
 
-We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](https://preferences.truste.com/) (or if located in the European Union click [here](https://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
 ## Log Files
 
@@ -70,7 +70,7 @@ We display personal testimonials of satisfied customers on our website in additi
 
 TextbookRush's website takes every precaution to protect our users’ information. When users submit sensitive information via the website, that information is protected both online and off-line. 
 
-When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and protected with the best encryption software in the industry: SSL. Startfield Technologies, Inc uses SSL technology with advanced 128-bit encryption to process our payments. To learn more about Startfield Technologies, Inc, SSL, or payment processing, please visit [Startfield Technologies, Inc](http://www.starfieldtech.com/). 
+When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and protected with the best encryption software in the industry: SSL. Startfield Technologies, Inc uses SSL technology with advanced 128-bit encryption to process our payments. To learn more about Startfield Technologies, Inc, SSL, or payment processing, please visit [Startfield Technologies, Inc](https://www.starfieldtech.com/). 
 
 All of our users’ information is classified and restricted. The TextbookRush facility is a secured and locked facility. Only employees who need the information to perform a specific job are granted access to personally identifiable information. If you wish to have your information removed, you may contact us at [help@textbookrush.com](mailto:help@textbookrush.com) to do so. For future transactions, you will be required to re-enter your information. 
 
@@ -98,7 +98,7 @@ TextbookRush does not use customer’s information for contact other than Textbo
 
 If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users via e-mail. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
 
-In the event that we make a material change to our privacy policy, we will notify you by e-mail (sent to the e-mail address specified in your account) or, if you have opted out of receiving any communications from TextbookRush, you may visit our website at http://www.textbookrush.com where news of changes will be posted prior to the change becoming effective. Otherwise, you may e-mail us at help@textbookrush.com. If you send us an e-mail request, we will respond to that e-mail only. You will not receive promotional materials unless you specifically grant us permission to send those. We encourage you to periodically review this page for the latest information on our privacy practices. 
+In the event that we make a material change to our privacy policy, we will notify you by e-mail (sent to the e-mail address specified in your account) or, if you have opted out of receiving any communications from TextbookRush, you may visit our website at https://www.textbookrush.com where news of changes will be posted prior to the change becoming effective. Otherwise, you may e-mail us at help@textbookrush.com. If you send us an e-mail request, we will respond to that e-mail only. You will not receive promotional materials unless you specifically grant us permission to send those. We encourage you to periodically review this page for the latest information on our privacy practices. 
 
 You may also send a request to our physical address at: 
 
@@ -106,3 +106,8 @@ TextbookRush
 802 Avondale Ave.   
 Grandview Heights, OH   
 43212 
+
+#### Free shipping on orders over $35*
+
+*A minimum purchase of $35 is required. Shipping is provided via FedEx SmartPost® and FedEx Express Saver®. Average delivery time is 1 – 5 business days, but is not guaranteed in that timeframe. Also allow 1 - 2 days for processing. Free shipping is eligible only in the continental United States and excludes Hawaii, Alaska and Puerto Rico. FedEx service marks used by permission."Marketplace" orders are not eligible for free or discounted shipping.   
+[Learn more about the TextbookRush Marketplace.](https://web.archive.org/help/faq/marketplace-faq.aspx)
