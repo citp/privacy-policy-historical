@@ -1,88 +1,153 @@
-> *The following text is extracted and transformed from the justanswer.co.uk privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028050458id_/http%3A//ww2.justanswer.co.uk/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justanswer.co.uk privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607084339id_/http%3A//ww2.justanswer.co.uk/en-gb/privacy-security) for the most accurate reproduction.*
 
-# Privacy & Security | JustAnswer
+# Privacy Notice | JustAnswer
 
-[](http://www.truste.org/ivalidate.php?url=www.justanswer.com&sealid=101)
+Last Updated: May 18, 2018
 
-Effective February 8, 2012
+JustAnswer LLC., a Limited Liability Company domiciled in Idaho, USA (" **JustAnswer** ", " **we** ", " **our** ", " **us** ") operates the Internet platforms JustAnswer.co.uk and JustAnswer.com (" **Websites** "), through which questioners (users) can pose general questions to experts.
 
-Inherent to transacting on the Internet is the collection of some personal information. JustAnswer LLC ("JustAnswer") is committed to protecting your personal information and privacy. This Privacy Statement applies exclusively to the Site [www.JustAnswer.com](http://www.justanswer.com/ "www.JustAnswer.com"). This policy describes the personal information we collect from you and how we use and secure it. "Personal Information" defines information such as name and email that can identify an individual.
+If you have questions, concerns, or suggestions concerning data protection and the security of your data, please contact us using our contact details below.
 
-JustAnswer® is a Licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users' trust and confidence in the Internet, by promoting the use of fair information practices. JustAnswer has elected to disclose its information practices as a sign of its commitment to privacy, as well as have its privacy practices reviewed for compliance by TRUSTe.
+**Overview**
 
-For queries and concerns pertaining to the Site, click [HERE](http://www.justanswer.com/help/contact.aspx) to contact us. In the event your privacy-related query is not acknowledged within a reasonable time frame, or is not addressed to your satisfaction, you may contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url](http://watchdog.truste.com/pvr.php?page=complaint&url). TRUSTe shall then work as a liaison to help us resolve your concerns.
+We recommend that you read this Privacy Notice in full to ensure you are fully informed.  However, if you only want to access a particular section of this Privacy Notice, then you can click on the relevant link below to jump to that section.
 
-**Because your privacy is important to us, JustAnswer® operates by the following principles.**
+1\. Collection of personal data   
+2\. Use of personal data   
+3\. Sharing of personal data  
+4\. International data transfers  
+5\. Data retention  
+6\. Your rights  
+7\. Use of links to and from external providers  
+8\. Security  
+9\. Updates to this Privacy Notice  
+10\. How to contact us
 
-Capitalized terms not defined in this Agreement will have the meanings set forth in the Terms of Service.
-
-**Principle 1: Information We Collect**  
-You may browse the JustAnswer® site without providing any personal information that may be used to identify you personally ("Personally Identifiable Information" or "PII"). If you choose to provide us with your PII, you are agreeing to the processing and storage of your information in the United States and countries outside of the United States which may have data protection laws that differ from laws in your country.
-
-JustAnswer explicitly asks when it needs PII. To help facilitate the question and response process, and the payment of Experts via PayPal™, JustAnswer requires basic data such as email address. To obtain payments from Customers, JustAnswer asks for either credit card information or PayPal™ email address, at the Customer's election. Expert applicants and/or referral participants may be asked for additional information, such as full names, addresses, telephone numbers, professional license and certification information, and payment-related information. Experts who win prizes on the site may be required to provide shipment addresses. If you choose to use our referral program to recommend potential Experts to the site, to tell a friend or others about JustAnswer, or send a copy of a question and answer sequence to a friend, you may need to provide your and their email addresses (and possibly their and your names). If you choose to have JustAnswer notify you of responses to your questions via text message, you will be asked for your cellular phone number and cellular phone company. Other PII may be requested in certain circumstances or collected on a voluntary basis such as on users' profile or signature pages. If you are a referral participant and elect to receive payments via check, we will receive all information necessary to distribute a check to you, such as your name and mailing address.
-
-**As explained in the JustAnswer Terms of Service, _information provided by you in the content of your questions_ , answers, and other posts on the Site, in Expert profiles describing your experiences and qualifications, and in signatures attached to postings on the Site ("Posts") _is not private or confidential_. This is an Internet-based forum ******(akin to a modern version of a radio call-in program) and information submitted in Posts may be read, collected, and used by others, and JustAnswer is not responsible for it.   For example, search engines may index your questions, answers, and other Posts to allow them to _appear in search engine results_ ( _e.g._ if someone does a search on google.com, your questions, answers, and other Posts on JustAnswer.com that relate to the search may appear in the google.com search results list). Protect your anonymity by not including your real name or any PII in your questions, answers, and other Posts on the Site.****
-
-In some cases, JustAnswer supplements portions of the PII you provide with other data received from third parties, or data sent to us from your web browser including (depending on its settings) your IP address, browser type, internet service provider, referring/exit pages, operating system, date/time stamp, and click stream data ("Usage Statistics").
-
-To enhance and individualize your experience with JustAnswer, we use a web browser feature called a "cookie." Cookies are small files that your browser places on your computer's hard drive. We use cookies to let us know that you are a prior user and, if you wish, retrieve your username and password so you do not need to enter them again. Cookies are not used to store other personal information. JustAnswer also uses cookies to maintain state. That is, each time you logon, our system issues your browser a unique, randomly generated number by which it can identify itself. In that way, your data gets sent to you and not someone else. You must activate cookies to logon to JustAnswer.
-
-JustAnswer also uses web beacons that collect non-PII to track site usage.
-
-JustAnswer is intended for adult use only. In addition, it does not knowingly solicit or collect PII from persons under 13 years old. We may delete from the site PII, as well as Posts and other information, from users we believe are under the age of 18.
-
-**Principle 2: Use of Your Information**  
-JustAnswer® may use, share, transfer, or disclose your PII and/or Usage Statistics, itself or in conjunction with third parties, for payment processing, fraud prevention, customer service, demographic studies, to tailor JustAnswer's content and services to its users' needs, and to serve advertisements.
-
-To display advertisements that may interest you, JustAnswer uses third-party advertising companies who may use Usage Statistics (not your name, address, email address or telephone number). To learn more about this third-party advertising practice and your choice to opt-out of having information about you used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
-
-JustAnswer posts testimonials on the Site; we obtain permission prior to posting to include the user's name and state of residence, or their initials.
-
-JustAnswer will not otherwise disclose your PII (unless you voluntarily provide it in your Posts), without your consent, unless acting under a good faith belief that such action:
-
-  * conforms to legal requirements or complies with legal process, such as in complying with a formal request in a court order, subpoena or judicial proceeding;
-  * serves to protect or defend the rights, property, or safety of JustAnswer, its users, or others; or
-  * enforces the JustAnswer Terms of Service or related Agreements.
+  1. **Collection of personal data**
 
 
 
-JustAnswer LLC may share your PII with any parent company, subsidiaries, joint venturers, or other companies under common control, in which event it will require that such companies follow this Policy with respect to your PII, unless you are provided with prior written notice.
+Personal data refers to any information which relates to you as an individual and from which you can be identified, either directly or indirectly.  This includes, for example, information about your name, address, date of birth, and occupation.
 
-**Principle 3: Correspondence Sent to You**  
-JustAnswer® will not send you any unsolicited information, including e-mail, except:  
-(i) Users will receive JustAnswer registration emails when they register, Expert applicants will receive JustAnswer communications relating to their applications, Experts may receive notifications of questions asked in the categories in which they are admitted, and all users will receive updates and notices about questions they are asking or answering, other Posts, their accounts, and new features and policies; these communications are considered part and parcel of your service and, except for the daily digests, you cannot opt out of them;
+Information that you provide voluntarily
 
-(ii) Periodically, JustAnswer may contact you about new services, special offers, promotions and third-party / affiliate offers, and will include in any such emails an opt-out link by which you can opt out of receiving such emails; and
+Certain parts of our Websites may ask you to provide personal data voluntarily. If you register an account with us as a questioner, you must provide us with your email address. You can also choose to provide your name, addresses and phone number. If you ask a question to our expert then you will also need to provide your credit card number, and, in the case of issuance of direct debit authorizations, your bank account information (unless you wish to make payments via PayPal).
 
-(iii) Our customer service and other departments may contact users and referral participants in order to ensure your satisfaction with JustAnswer and/or to ask how we can improve.
+If you wish to register with JustAnswer as an expert, we need specific personal data in order to make it possible. This includes your e-mail address, names, addresses, telephone numbers, documentation of performance, professional licenses, and certifications.
 
-**Principle 4: Updating and Deleting PII**  
-If at any time you would like to update your PII, please log into your account and access your Edit Profile page. If at any time you would like your PII to be removed from our Site and/or database, or believe that JustAnswer® has not adhered to these privacy principles, please notify us by email by clicking [HERE](http://www.justanswer.com/help/contact.aspx). We will use commercially reasonable efforts to delete your PII and/or promptly detect and remedy any problems.
+Additional personal data might also be necessary, depending on the services that JustAnswer offers and which you wish to utilize. Do not use the relevant service of JustAnswer if you do not wish to disclose such personal data. The personal data that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal data.
 
-**Principle 5: Links to Third-Party Sites**  
-To the extent that links to other Web sites are contained in Posts on the JustAnswer® site, please note that they are not operated or controlled by JustAnswer and JustAnswer is not responsible for the privacy practices, security, or content of these third-party sites.
+Information that we collect automatically
 
-**Principle 6: Security and Data Retention**  
-JustAnswer® uses multiple security procedures and practices to protect from unauthorized access, destruction, use, modification and disclosure the PII requested from users.
+When you visit our Websites, we may collect certain information automatically from your device, such as your IP address or mobile advertising identifier, your browser type, the date and time of your visit and the pages you access.  In some countries, including countries in the European Economic Area, this information may be considered personal data under applicable data protection laws.
 
-All PII is password protected. All passwords use 160 bit encryption.
+We use cookies to collect this information.  The information we collect enables us to better understand the visitors who come to our Websites, where they come from, and what content on our Websites is of interest to them.  We use this information for our internal analytics purposes and to improve the quality and relevance of our Websites to our visitors. Further details can be found in our [Cookie Notice](http://ww2.justanswer.co.uk/en-gb/cookie-notice).
 
-JustAnswer uses 128-bit secure socket layer (SSL) technology and digital certificates to encrypt and authenticate transactions (credit card and other payments). SSL creates a secured connection between our web servers and your browser, which protects against unauthorized access to transmitted data and supports data being sent only to intended recipients.
+Information that we obtain from third party sources
 
-Our database logs important changes so that unauthorized transactions can be quickly reversed.
+From time to time, we may receive personal data about you from third party sources (including third party platforms where you have chosen to make information publicly available), but only where we have checked that these third parties either have your consent or are otherwise legally permitted or required to disclose your personal data to us. 
 
-Our main servers are locked and hosted by a leading provider of Internet access to enterprises with mission-critical Internet application requirements. Access to the host environment is highly secure. Biometric scanning, 24/7 onsite staff monitoring, and other safeguards are utilized. In addition, back-up servers that are stripped of email addresses, passwords, and credit card information are located in an office that is locked outside of normal business hours.
+The types of information we collect from third parties includes publicly available information such as information you have posted publicly to third party sites, e.g., email addresses and comments on public posts. We use the information we receive from these third parties to provide customer support.
 
-Despite these security procedures and practices, as is the case with all computer networks connected to the Internet, JustAnswer cannot guarantee the security of your PII or any other information provided over the Internet and will not be responsible for breaches of security.
+Providing information about others
 
-We retain your account information and the information provided by you in the form of Posts indefinitely until such time that we determine it has no further commercial significance, at which time we may delete and/or aggregate and store it in aggregate form indefinitely.
+If you wish to provide the personal data of third parties (for example, the e-mail address of friends or possible experts) to JustAnswer, make sure in advance that the relevant person has been made aware of the disclosure of their personal data to JustAnswer for the purposes for which you will provide it, and that you have obtained any consents that may be necessary under applicable laws. Note that you can be liable to the relevant person, as well as JustAnswer, if you have not obtained the person's consent where required.
 
-**Principle 7: Updates to This Policy**  
-By visiting JustAnswer®, you are accepting this policy as it may be amended from time to time. Please check the date of this Policy each time you visit to ensure that you are aware of the most current version. If you do not agree to the terms of this Policy, please do not use this site.
+  2. **Use of personal data**
 
-JustAnswer reserves the right to update this policy at any time without prior notice. Material updates will take effect 30 days after initial posting on this site.
 
-**Contact Us**  
-If you have questions or suggestions regarding this Privacy Policy, please contact us by clicking [HERE](mailto:support@justanswer.com) or mail us at P.O. Box 29045, San Francisco, CA 94129.
 
-NOTICE: [Click here](http://www.safetysurf.com/) for important information about safe surfing.
+We use your personal data for the following purposes:
+
+  * Answering questions. JustAnswer uses your personal data to send you information concerning the services of the Websites via e-mail, if you are registered as a user or have concluded an Expert Contract. For more details see our [General Use and Business Terms and Conditions for Questioners (Users)](http://ww2.justanswer.co.uk/en-gb/terms-service-0) and - for Experts – the [Expert Contract](http://ww2.justanswer.co.uk/en-gb/justanswer-expert-agreement)).
+  * Publication of your content **.** Please note that JustAnswer.co.uk is an Internet forum, whose content is available to the public. Therefore, the content of your questions, answers, posts, and other contributions (hereinafter referred to jointly as "Contributions") can be published on the Websites and viewed by users of the Websites, as well as downloaded and sent. The content can generally also be called up via external search engines. You should therefore make absolutely certain that your Contributions contain no information that enables you or other persons to be identified.
+  * Publication of expert profiles. If you are admitted as an expert at JustAnswer (in this regard, see the [Expert Contract](http://ww2.justanswer.co.uk/en-gb/justanswer-expert-agreement)), your profiles are also published on the Websites and accessible to everyone and are also available via external search engines.
+  * Research. JustAnswer also uses some of your data in order to ascertain the preferences of users and user habits, for the purpose of market research, and for the purpose of advertising on the Websites. However, JustAnswer will anonymize your personal data in all of these cases.
+
+
+
+Our legal basis for collecting and using the personal data described above will depend on the personal data concerned and the specific context in which we collect it. In most cases this will be because we have a contract with you for your use of the service as a user or expert or because we are processing for our legitimate business interests which are not overridden by your rights such as responding to your queries, undertaking marketing or detecting and preventing misuse of our Websites. In some cases, we may also have a legal obligation to collect personal data from you or may otherwise need the personal data to protect your vital interests or those of another person.
+
+If we ask you to provide personal data to comply with a legal requirement or to perform a contact with you, we will make this clear at the relevant time and advise you whether the provision of your personal data is mandatory or not (as well as of the possible consequences if you do not provide your personal data). 
+
+If you have questions about or need further information concerning the legal basis on which we collect and use your personal data, please contact us using the details provided below.
+
+  3. **Sharing of personal data**
+
+
+
+We will share your personal data with the following:
+
+  * Service providers that assist us with the performance of the services, for example, to the credit card companies, through which the collection of payments and the disbursement of balances and payment claims are carried out. You can see whether we use service providers, and which service providers we use, in the respective provisions for our services, particularly the [General Use and Business Terms and Conditions for Questioners (Users)](http://ww2.justanswer.co.uk/en-gb/terms-service-0), [Participation Terms and Conditions for E-Mail Recommendations of New Users and Experts for JustAnswer (Referral Program)](http://ww2.justanswer.co.uk/en-gb/justanswer-referral-program-agreement) and, if you are or want to become an expert, the [Expert Contract](http://ww2.justanswer.co.uk/en-gb/justanswer-expert-agreement).
+  * Advertising partners to place advertising on the websites that might interest you, however the only personal data we share is cookie information that does not directly identify you as an individual. We do not share your contact details such as name, e-mail address, or telephone number. For more details and to learn about how to amend your cookie settings, see our [Cookie Notice](http://ww2.justanswer.co.uk/en-gb/cookie-notice).
+  * Competent law enforcement bodies, regulatory, government agency, court or other third parties where we believe disclosure is necessary (i) as a matter of applicable law or regulation, (ii) to exercise, establish or defend our legal rights, or (iii) to protect your vital interests or those of any other person.
+  * Actual or potential buyers (and their agents and advisers) in connection with any actual or proposed purchase, merger or acquisition of any part of our business, provided that we inform the buyer it must use your personal data only for the purposes disclosed in this Privacy Notice.
+  * Any other person with your consent to the disclosure.
+
+
+  4. **International data transfers**
+
+
+
+Our Website servers are currently located in the USA and our group companies and third party service providers and partners operate around the world. Please note that the data protection law in the US does not currently offer the same protection against use and transmission of personal data as is the case under the law of the European Union.  By using our service, you consent to the transfer of your personal data outside of the European Economic Area.
+
+  5. **Data retention**
+
+
+
+We retain personal data we collect from you where we have an ongoing legitimate business need to do so (for example, to provide you with a service you have requested or to comply with applicable legal, tax or accounting requirements). 
+
+When we have no ongoing legitimate business need to process your personal data, we will either delete or anonymise it or, if this is not possible (for example, because your personal data has been stored in backup archives), then we will securely store your personal data and isolate it from any further processing until deletion is possible.
+
+  6. **Your rights**
+
+
+
+You have the following data protection rights, which you can request using the contact details below:
+
+  * If you wish to **access, correct, update or request deletion** of your personal data. Note that you can modify and correct some of your personal data at any time by opening your account via the Websites and changing your profile information that is posted there.
+  * In addition, you can **object** to processing of your personal data, ask us to **restrict** processing of your personal data or request **portability** of your personal data.
+  * You have the right to **opt-out of marketing communications** we send you at any time. You can also exercise this right by clicking on the “unsubscribe” or “opt-out” link in the marketing e-mails we send you.  To opt-out of other forms of marketing (such as postal marketing or telemarketing), then please contact us.
+  * If we have collected and process your personal data with your consent, then you can **withdraw your consent** at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal data conducted in reliance on lawful processing grounds other than consent.
+
+
+
+We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws and you have the right to complain to a data protection authority about our collection and use of your personal data.  For more information, please contact your local data protection authority.
+
+  7. **Use of links to and from external providers**
+
+
+
+Note that the Websites contain links to external third parties (advertising banners, for example) and that links can be named in Contributions. If you open these links, you will be on the website of third parties, whose data protection policy and security measures JustAnswer is not able to influence.
+
+  8. **Security**
+
+
+
+The Websites use a number of technical and organisational security precautions in order to protect the Websites and you against unauthorized third-party access to your data:
+
+  * JustAnswer uses a 128-bit secure socket layer (SSL) encryption technology and digital certification for monetary payments via credit cards and the confirmation thereof.
+  * The JustAnswer database records important changes, such that unauthorized payment flows can be cancelled quickly.
+  * The main servers of JustAnswer are located with a leading Internet Access Provider with the highest level of security precautions, including biometric recognition and 24/7 monitoring of the employees. In addition, JustAnswer has a backup server system, in which, however, no e-mail addresses, credit card information, or passwords are stored.
+
+
+
+In spite of the high security precautions, however, the possibility cannot be ruled out that unauthorized third parties might gain access to personal data without permission.
+
+  9. **Updates to this Privacy Notice**
+
+
+
+We may update this Privacy Notice from time to time in response to changing legal, technical or business developments. When we update our Privacy Notice, we will take appropriate measures to inform you, consistent with the significance of the changes we make.  We will obtain your consent to any material Privacy Notice changes if and where this is required by applicable data protection laws.
+
+You can see when this Privacy Notice was last updated by checking the “last updated” date displayed at the top of this Privacy Notice. 
+
+  10. **How to contact us**
+
+
+
+If you have any questions or concerns about our use of your personal data, please contact us / our data protection officer using the following details: 
+
+[dpo@justanswer.co.uk](mailto:dpo@justanswer.co.uk)
+
+The data controller of your personal data is JustAnswer LLC.
