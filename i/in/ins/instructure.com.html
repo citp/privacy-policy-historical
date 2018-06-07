@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the instructure.com privacy policy that was archived on 2017-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171205195851id_/https%3A//www.instructure.com/policies/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the instructure.com privacy policy that was archived on 2018-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180607064758id_/https%3A//www.instructure.com/policies/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 
@@ -19,7 +19,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta name="google-site-verification" content="L58R5T4E5W8iQU8kdyVckT59YQ23SZktFXrBGoexRe0">
 
 <meta name="description" content="Privacy">
-
+<meta property="og:image" content="/img/INSTRUCTURE_logo-gray-white.png">
 <title>Privacy</title>
 
 <script>
@@ -40,6 +40,188 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<!-- End Google Tag Manager -->
 	<header>
+	<style media="screen">
+  .dgpr-drop-down{
+    opacity: 0;
+    visibility: hidden;
+    padding: 0;
+    height: 0;
+    transition: all .25s;
+    /* width: 100vw; */
+    z-index: 2147483645;
+    text-align: center;
+    pointer-events: auto;
+    background: #828282;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: scroll;
+    transition: all 2s;
+    overflow: hidden;
+  }
+  .dgpr-drop-down p{
+    text-align: left;
+    margin: 0;
+    margin-left: 8%;
+    font-size: 17px;
+    color: #fff;
+    width: 70%;
+    /* background: blue; */
+  }
+  .button-holders{
+    width: 30%;
+    /* background: green; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .button-holders button{
+    border: 1px solid #fa5400;
+    background-color: #fa5400;
+    border-color: #fa5400;
+    color: #fff;
+    margin-left: 15px;
+    letter-spacing: 1.5px;
+    font-size: 15px;
+    height: 40px;
+    line-height: 38px;
+    text-align: center;
+    padding: 0 20px;
+    text-transform: uppercase;
+    transition: all .25s;
+  }
+  .button-holders button:hover{
+    cursor: pointer;
+    border: 1px solid #fff;
+  }
+  .button-holders a{
+    text-decoration: underline;
+    color: #fff;
+    font-size: 17px;
+    transition: all .25s;
+  }
+  .button-holders a:hover{
+    color: #fa5400;
+  }
+  .button-holders #close-dropdown{
+    font-family: Helvetica, sans-serif;
+    background: lightgrey;
+    font-size: 17px;
+    margin-left: 15px;
+    width: 25px;
+    height: 25px;
+
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    transition: all .25s;
+  }
+  .button-holders #close-dropdown:hover{
+    cursor: pointer;
+    color: #fff;
+  }
+  @media (max-width: 960px){
+    .button-holders{
+      display: flex;
+      flex-direction: column-reverse;
+      justify-content: space-around;
+      align-items: center;
+    }
+    .button-holders button,.button-holders #close-dropdown{
+      margin: 0;
+      margin-bottom: 15px;
+    }
+  }
+  @media (max-width: 480px){
+    .dgpr-drop-down{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    .dgpr-drop-down p{
+      width: 100%;
+      margin-bottom: 15px;
+    }
+    .button-holders{
+      width: 100%;
+    }
+    .button-holders{
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
+    }
+    .button-holders button,.button-holders #close-dropdown{
+      margin-left: 15px;
+      margin-bottom: 0;
+    }
+  }
+  /* .first-div{
+    background: lightgrey;
+    height: 700px;
+    width: 100%;
+  } */
+</style>
+<div class="dgpr-drop-down">
+    <p>By continuing to browse or by clicking "accept all cookies," you agree to the storing of first- and third-party cookies on your device to enhance site navigation, alalyze site usage, and assist in our marketing efforts.</p>
+    <div class="button-holders">
+      <a href="/js/jquery-1.2.6.min.js" target="_blank">Privacy Policy</a>
+      <button id="gdprAccept" type="submit" name="gdpr accept">Yes, I Accept</button>
+      <div id="close-dropdown" type="button">✕</div>
+    </div>
+</div>
+<!-- <div class="first-div">
+  this is the div
+</div> -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script type="text/javascript">
+$("#close-dropdown").click(function(){
+  console.log("yo it's clicked");
+    $(".dgpr-drop-down").css({"visibility": "hidden", "opacity": "0", "height": "0", "padding": "0"});
+});
+$("#gdprAccept").click(function(){
+  localStorage.setItem("euUnion", true);
+  sessionStorage.setItem("euUnion", true);
+  console.log("clicked accept");
+  $(".dgpr-drop-down").css({"visibility": "hidden", "opacity": "0", "height": "0", "padding": "0"});
+});
+
+if (sessionStorage.euUnion != "true" && localStorage.euUnion != "true") {
+  var madMax = {"continent":{"code":"NA","geoname_id":6255149,"names":{"de":"Nordamerika","en":"North America","es":"Norteamérica","fr":"Amérique du Nord","ja":"北アメリカ","pt-BR":"América do Norte","ru":"Северная Америка","zh-CN":"北美洲"}},"country":{"iso_code":"US","geoname_id":6252001,"names":{"zh-CN":"美国","de":"USA","en":"United States","es":"Estados Unidos","fr":"États-Unis","ja":"アメリカ合衆国","pt-BR":"Estados Unidos","ru":"США"}},"maxmind":{"queries_remaining":2634992},"registered_country":{"iso_code":"US","geoname_id":6252001,"names":{"en":"United States","es":"Estados Unidos","fr":"États-Unis","ja":"アメリカ合衆国","pt-BR":"Estados Unidos","ru":"США","zh-CN":"美国","de":"USA"}},"traits":{"ip_address":"207.241.225.227"}};
+  if (madMax.error) {
+    console.log("Huston we have a problem");
+    console.log("EEEEEEEUUUUUUU force");
+    $(".dgpr-drop-down").css({"visibility": "visible", "opacity": "1", "height": "auto", "padding": "20px 0"});
+
+  }else {
+    console.log("country code is = " + madMax.continent.code);
+    if (madMax.continent.code == "EU"|| madMax.continent.code == "eu") {
+      if (madMax.country.is_in_european_union) {
+        console.log("european-union-country");
+        $(".dgpr-drop-down").css({"visibility": "visible", "opacity": "1", "height": "auto", "padding": "20px 0"});
+
+      }else {
+        console.log("in EU but non-union-country");
+        localStorage.setItem("euUnion", true);
+        sessionStorage.setItem("euUnion", true);
+      }
+    }else if (!madMax.continent.code) {
+      console.log("EEEEEEEUUUUUUU force");
+      $(".dgpr-drop-down").css({"visibility": "visible", "opacity": "1", "height": "auto", "padding": "20px 0"});
+
+    }else {
+      console.log("non-union-country");
+      localStorage.setItem("euUnion", true);
+      sessionStorage.setItem("euUnion", true);
+    }
+  }
+}else {
+  console.log("gdpr accepted or doesn't apply");
+}
+</script>
 	<nav id="main-nav-d">
 		<div class="group2">
 			<a href="/">
@@ -68,19 +250,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			</div>
 		</div>
 	</nav>
-</header>	<div class="hero">
+</header>
+	<div class="hero">
 		<div class="spotM">
 			<div id="spotMtext">
 				<div class="newsbox1Ctext1 h1BM newstext1H1 force000">Instructure Privacy Policy</div>
-				<div class="newsbox1Ctext1 h1BM force000">Last Updated: October 30, 2017</div>
+				<div class="newsbox1Ctext1 h1BM force000">Last Updated: November 17, 2017</div>
 				<div class="newsbox1Ctext1 h1BM force000">Instructure, Inc. (<strong>“Instructure”</strong>) is committed to protecting your privacy. We have prepared this Privacy Policy to describe our practices regarding the personal information that may be collected from users of our websites, including <a href="https://www.instructure.com/" target="_blank">https://www.instructure.com</a> and <a href="http://www.canvas.net" target="_blank">http://www.canvas.net</a> and any other sites that link to this Privacy Policy (<strong>“Site”</strong>), Instructure’s Canvas iOS and Android Applications (<strong>“Apps”</strong>), and other related educational services (<strong>“Services”</strong>). By submitting personal information through our Site, Apps, or Services, you expressly consent to the processing of your personal information in the U.S. in accordance with this Privacy Policy. The use of personal information collected through our service shall be limited to the purposes described in this Privacy Policy.</div>
 
 				<div class="newsbox1Ctext1 h1BM force000"><strong>FOR EU and EEA Residents</strong></div>
-				<div class="newsbox1Ctext1 h1BM force000">Instructure complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union (“EU”) to the United States (“U.S.”), as that term is defined in the Privacy Shield Framework.  Instructure has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  Instructure is committed to subjecting all personal data received from the EU, in reliance on the Privacy Shield Framework, to the Framework’s applicable principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List: <a href="https://www.privacyshield.gov/list" target="_blank">https://www.privacyshield.gov/list</a>.</div>
-				<div class="newsbox1Ctext1 h1BM force000">Instructure’s privacy policy, as provided below, describes the types of personal information that Instructure collects, the types of third parties to which it discloses personal data, and the purposes for which it does so.  Instructure collects contact and demographic information to respond to requests or to personalize and deliver the services.  Instructure transfers this information to third parties acting as an agent on its behalf.  Instructure is accountable for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party.  Instructure complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.</div>
-				<div class="newsbox1Ctext1 h1BM force000">Residents of the EU have the right to access the personal information that Instructure maintains, and in some cases, may have the right to correct or amend information that is inaccurate or has been processed in violation of the Privacy Shield Principles, to the extent allowed by law.  To exercise this right, contact us at privacy@instructure.com. To learn more about the choices you have over your personal information, please see the subsection below entitled, “Your Choices Regarding Your Personal Information.”</div>
+				<div class="newsbox1Ctext1 h1BM force000">Instructure complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union (“EU”) and Switzerland to the United States (“U.S.”) respectively, as that term is defined in the Privacy Shield Framework. Instructure has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. Instructure is committed to subjecting all personal data received from the EU and Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List: <a href="https://www.privacyshield.gov/list" target="_blank">https://www.privacyshield.gov/list</a>.</div>
+				<div class="newsbox1Ctext1 h1BM force000">Instructure’s privacy policy, as provided below, describes the types of personal information that Instructure collects, the types of third parties to which it discloses personal data, and the purposes for which it does so.  Instructure collects contact and demographic information to respond to requests or to personalize and deliver the services.  Instructure transfers this information to third parties acting as an agent on its behalf.  Instructure is accountable for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party.  Instructure complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.</div>
+				<div class="newsbox1Ctext1 h1BM force000">Residents of the EU and Switzerland have the right to access the personal information that Instructure maintains, and in some cases, may have the right to correct or amend information that is inaccurate or has been processed in violation of the Privacy Shield Principles, to the extent allowed by law.  To exercise this right, contact us at privacy@instructure.com. To learn more about the choices you have over your personal information, please see the subsection below entitled, “Your Choices Regarding Your Personal Information.”</div>
 				<div class="newsbox1Ctext1 h1BM force000">With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Instructure is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.  In certain situations, Instructure may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.</div>
-				<div class="newsbox1Ctext1 h1BM force000">Residents of the EU with inquiries or complaints regarding this Privacy Policy should first contact Instructure at:</div>
+				<div class="newsbox1Ctext1 h1BM force000">Residents of the EU and Switzerland with inquiries or complaints regarding this Privacy Policy should first contact Instructure at:</div>
 				<div class="newsbox1Ctext1 h1BM force000"><a href="mailto:privacy@instructure.com" target="_blank">privacy@instructure.com</a></div>
 				<div class="newsbox1Ctext1 h1BM force000">6330 S 3000 E, STE 700<br>Salt Lake City, UT 84121<br>(801) 869.5000</div>
 				<div class="newsbox1Ctext1 h1BM force000">If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at&nbsp;<a href="https://feedback-form.truste.com/watchdog/request" target="_blank">https://feedback-form.truste.com/watchdog/request</a>. Under certain conditions, more fully described on the Privacy Shield <a href="https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint" target="_blank">website</a>, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.</div>
@@ -164,7 +347,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					</span></a>
 					<br>
 					<span class="footer-text-3-b">
-						Copyright © 2017, Instructure, Inc.<br>All rights reserved.
+						Copyright © 2018, Instructure, Inc.<br>All rights reserved.
 					</span>
 				</span>
 			</div>
@@ -176,9 +359,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<a class="socialIcons" href="https://plus.google.com/u/0/102737336441232745083/posts" target="_blank"><img src="/img/GPicon.png"></a>
 
 				<div id="policy-links">
+					<a href="/policies/acceptable-use"><span class="sub-footertext-2">Acceptable Use Policy</span></a>
+					<br>
 					<a href="/policies/privacy"><span class="sub-footertext-2">Privacy Policy</span></a>
 					<br>
-					<a href="/policies/terms-of-use"><span class="sub-footertext-2">Terms of Use</span></a>
+					<!-- <a href="/policies/terms-of-use"><span class="sub-footertext-2">Terms of Use</span></a> -->
 				</div>
 			</div>
 		</div>
@@ -207,7 +392,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<script type="text/javascript">
 	function setCookie(name, value, days){
 	    var date = new Date();
-	    date.setTime(date.getTime() + (days*24*60*60*1000)); 
+	    date.setTime(date.getTime() + (days*24*60*60*1000));
 	    var expires = "; expires=" + date.toGMTString();
 	    document.cookie = name + "=" + value + expires;
 	}
