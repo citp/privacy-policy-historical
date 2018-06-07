@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the games2girls.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130100711id_/http%3A//www.games2girls.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games2girls.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607091652id_/http%3A//www.games2girls.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Games2Girls - Privacy Policy
 
