@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the theweathernetwork.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903202746id_/https%3A//www.theweathernetwork.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theweathernetwork.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607191404id_/http%3A//www.theweathernetwork.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Weather Network
 
 ## PRIVACY POLICY
 
 Pelmorex Corp. (our, us or we) operates the Websites [www.theweathernetwork.com](https://www.theweathernetwork.com/) and [http://www.meteomedia.com](https://www.meteomedia.com/) (collectively the Websites), the television program The Weather Network and related services and applications (collectively the “Services”). This Privacy Policy describes how we may collect, use and disclose personal information in relation to the Services, which you consent to by accessing the Services. “Personal information” means information about an identifiable individual but does not include business information.
+
+ **If you are a user of our services in Europe please review the applicable[Privacy and Cookies policies located here](https://www.theweathernetwork.com/uk/about-us/privacy-policy "EEA Privacy and Cookies").**
 
 This Privacy Policy may be supplemented or modified by consents you provide to Pelmorex, and by agreements you enter into with Pelmorex from time to time. To learn more about how we and third parties may process personal information for interest based advertising, and to opt out of such uses, please read below.
 
