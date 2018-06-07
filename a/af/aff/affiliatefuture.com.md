@@ -1,96 +1,76 @@
-> *The following text is extracted and transformed from the affiliatefuture.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204135719id_/http%3A//affiliatefuture.com/Legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatefuture.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607084500id_/http%3A//affiliatefuture.com/Legal/privacy) for the most accurate reproduction.*
 
 # Affiliate Future privacy statement
 
-This Privacy Policy, together with our terms of use, provides an explanation as to what happens to any personal data that you provide to us, or that we collect from you. This Policy is updated from time to time so please review this Policy regularly.
+This Privacy Policy sets out how Affiliate Future collects and uses information from users (“User” or “you”) of our website identified by the URL [ www.affiliatefuture.co.uk](http://www.affiliatefuture.co.uk/) and/or any website which is hosted on this domain (together the “Website”) operated by IBG Ltd t/a Affiliate Future (“Affiliate Future”, “our”, “we” or “us”). This Privacy Policy applies to the Website and all products and services offered by Affiliate Future.
 
-For the purpose of the Data Protection Act 1998 our data controller is Global Data. Global Data is subject to the UK Data Protection Act 1998 and is registered in the UK with the Information Commissioner to process your personal information.
+**What Information Do We Collect?**
 
-**Information We Collect**
+**We may collect the following information:**
 
-In operating our website we may collect and process the following data about you:
+(a) personal information from Users in a variety of ways, including, but not limited to, when Users visit our Website, register on the Website, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Website. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. Users may, however, visit our Website anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Website related activities.
 
-i. Details of your visits to our website and the resources that you access, including, but not limited to, traffic data, location data, weblogs, IP address, operating system, access times, what browser you are using and other communication data.   
-ii. A number of websites within our group of companies, subsidiaries, related companies and publishers are tracked using Google Analytics and WebTrends. To view their respective privacy polices and details on opting out, please use the following links:  
-\- http://www.google.com/intl/en_uk/analytics/tos.html   
-\- http://ondemand.webtrends.com/privacypolicy.asp#psfv   
-iii. Information that you provide by filling in forms on our website, such as when you register for information or make a purchase.   
-iv. Information provided to us when you communicate with us for any reason.
+(b) non-personal information about Users whenever they interact with our Website. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Website, such as the operating system and the Internet Service Provider’s utilised and other similar information.
 
-**Use of Cookies**
+(c) cookies and log files may be used on our Website to enhance User experience. A cookie is a small text file written to an individuals hard drive that contains the user ID. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies at being sent. If they do so, note that some parts of the Website may not function properly. You can find out more about the use of cookies and how you can remove them by going to [ http://allaboutcookies.org](http://allaboutcookies.org/) or [http://www.cookiecentral.com](http://www.cookiecentral.com/).
 
-On occasion, we may gather information about your computer for our services and to provide statistical information regarding the use of our website to our advertisers. Such information will not identify you personally it is statistical data about our visitors and their use of our site. This statistical data does not identify any personal details whatsoever.
+**How we use collected information**
 
-Similarly to the above, we may gather information about your general internet use by using a cookie file. Where used, these cookies are downloaded to your computer automatically. This cookie file is stored on the hard drive of your computer as cookies contain information that is transferred to your computer's hard drive. They help us to improve our website and the service that we provide to you.
+Any personal data that you give us will be treated with the utmost care and security. The personal data we collect is used to provide you with the service that you have requested or to respond to an enquiry that you have made.
 
-All computers have the ability to decline cookies. This can be done by activating the setting on your browser which enables you to decline the cookies. Please note that should you choose to decline cookies, you may be unable to access particular parts of our website.
+Affiliate Future uses User personal information we have collected for the following purposes:
 
-Our advertisers may also use cookies, over which we have no control. Such cookies (if used) would be downloaded once you click on advertisements on our website.
+• to personalise User experience: we may use information individually or aggregated to understand how our Users use the services and resources provided on our Website.
 
-**Use of Your Information**
+• to improve our Website: we continually strive to improve our Website offerings based on the information and feedback we receive from you. 
 
-The information that we collect and store relating to you is primarily used to enable us to provide our services to you. In addition, we may use the information for the following purposes:
+• to improve customer service: your information helps us to more effectively respond to your customer service requests and support needs.
 
-i. To provide you with information requested from us, relating to our products or services. To provide information on other products or services within our group of companies, subsidiaries, related companies and publishers, which we feel may be of interest to you.   
-ii. To meet our contractual commitments to you.   
-iii. To notify you about any changes to our website, such as improvements or service/product changes, that may affect our service.   
-iv. Personalise your experience.
+• to process transactions: we may use the information Users provide when placing an order to service that order, as well as provide relevant information about our other products. We do not automatically share this information with third parties except to the extent necessary to provide the service or when explicitly given permission by the User. The User can at any time change its preferences by contacting us via our Website.
 
-If you are a previous or existing customer, we may contact you with information about products and services similar to those which were the subject of a previous sale to you. Furthermore, we may use your data, or permit selected third parties to use your data, so that you can be provided with information about unrelated products and services which we consider may be of interest to you. We or they may contact you about these products and services by any methods that you consented at the time your information was collected. You may stop these messages at any time by submitting a ticket at Affiliate Future support centre at [ www.affiliatefuturesupport.co.uk](http://www.affiliatefuturesupport.co.uk/) or opting-out using the opt-out tool at the bottom of the email communication.
+• to administer Website features: such as content, promotions and surveys and to send Users information they agreed to receive about topics we think will be of interest to them. 
 
-I **nformation About Other People**
+• to send periodic emails: the email address Users provide will be used to send them information and updates pertaining to their orders as well as (a) respond to their inquiries and requests or (b) provide relevant information about our other products.
 
-On certain parts of the website, you can submit information about other people. For example, you may be able to provide an email address of colleagues who may be interested in registering to attend an event. We will use this information to contact these people for the purposes of increasing event attendance.
+If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Website.
 
-These messages can be stopped at any time by submitting a ticket at Affiliate Future support centre at [www.affiliatefuturesupport.co.uk](http://www.affiliatefuturesupport.co.uk/) or opting-out using the opt-out tool at the bottom of the email communication.
+**User’ right to Opt-out**
 
-**Chat and Message Boards**
+If you do not want to continue to receive e-mail communications from us please let us know by sending an e-mail to [unsubscribe@affiliatefuture.co.uk](mailto:unsubscribe@affiliatefuture.co.uk). Should you request that we amend or suppress records containing your personal data we will endeavour to do so as promptly as practical; however you may receive communications for a transitional period whilst we process your records.
 
-A number of websites within our group of companies, subsidiaries, related companies and publishers offer chat and message boards. Please be advised that information posted in these venues may become public knowledge.
+**How we protect your information**
 
-**Storing Your Personal Data**
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorised access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Website.
 
-We may transfer data that we collect from you to locations outside of the European Economic Area for processing and storing. Also, it may be processed by staff operating outside the European Economic Area who work for us or for one of our suppliers. For example, such staff maybe engaged in the processing and concluding of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all reasonable steps to make sure that your data is treated securely and in agreement with this Privacy Policy.
+Sensitive and private data exchange between the Website and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures. Our Website is also in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users.
 
-Data that is provided to us is stored on our secure servers. Details relating to any transactions entered into on our site will be encrypted to ensure its safety. The transmission of information via the internet is not completely secure and therefore we cannot guarantee the security of data sent to us electronically and transmission of such data is therefore entirely at your own risk. Where we have given you (or where you have chosen) a password so that you can access certain parts of our site, you are responsible for keeping this password confidential.
+**Sharing your personal information**
 
-**Disclosing Your Information**
+Unless we are given explicit permission to do so; we do not sell, trade, or rent Users personal information. We may without consent share generic aggregated information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers to help us operate our business and the Website or administer activities on our behalf, such as sending out newsletters or surveys. 
 
-Where applicable, we may disclose your personal and non-personal information to any member of our group. This includes, where applicable, subsidiaries, related companies or publishers.
+**Third party websites**
 
-We may also disclose your personal and non-personal information to third parties:
+Users may find advertising or other content on our Website that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Website, is subject to that website’s own terms and policies. 
 
-i. Where we sell any or all of our business and/or our assets to a third party.   
-ii. Where we are legally required to disclose your information.   
-iii. To assist fraud protection and minimise credit risk.
+**Advertising**
 
-**Third Party Links**
+Ads appearing on our Website may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognise your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-The websites contains hyperlinks to websites owned and operated by third parties. These third party websites have their own privacy policies, including cookies, and we urge you to review them. They will govern the use of personal information you submit or are collected by cookies whilst visiting these websites. We do not accept any responsibility or liability for the privacy practices of such third party websites and your use of such websites is at your own risk.
+**Changes/Updates to Privacy Policy**
 
-To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult their privacy policies.  
-\- http://www.doubleclick.com/privacy/index.aspx   
-\- http://www.mediaplex.com/mojo_privacy_statement.shtml   
-\- http://www.google.com/privacy.html
+In order to keep up with changing legislation and best practice, we may revise this privacy policy at any time. When we do, we will post a notification on the main page of our Website. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-**Children**
+**Your acceptance of these terms**
 
-Please note that we do not collect any personal information from children under thirteen years of age and that no child under thirteen should submit any personal information to any of the Sites. Should we discover that any such personal information has been delivered to any of the Sites, we will remove that information as soon as possible.
+By using this Website, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Website. Your continued use of the Website following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-**Access To Information**
+**Contact us**
 
-The Data Protection Act 1998 gives you the right to access the information that we hold about you. Please note that any demand for access may be subject to payment of a fee of £10 which covers our costs in providing you with the information requested. Should you wish to receive details that we hold about you please contact us using the contact details below.
+If you have any questions about this Privacy Policy, the practices of this Website, or your dealings with this Website, please contact us at [unsubscribe@affiliatefuture.co.uk](mailto:unsubscribe@affiliatefuture.co.uk) or alternatively:
 
-**Contacting Us**
-
-We welcome any queries, comments or requests you may have regarding this Privacy Policy.
-
-Please do not hesitate to contact us at: [ www.affiliatefuturesupport.co.uk](http://www.affiliatefuturesupport.co.uk/)
-
-**Affiliate Future**   
-John Carpenter House   
-John Carpenter Street   
-London   
-EC4Y 0AN   
-United Kingdom   
-Tel: 0207 936 6576
+Data Protection Officer  
+Affiliate Future Plc  
+John Carpenter House  
+John Carpenter Street  
+London EC4Y 0AN  
+United Kingdom 
