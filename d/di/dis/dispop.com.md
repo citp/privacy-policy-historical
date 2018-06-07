@@ -1,65 +1,231 @@
-> *The following text is extracted and transformed from the dispop.com privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031100104id_/https%3A//dispop.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dispop.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607201306id_/https%3A//www.admedo.com/privacy) for the most accurate reproduction.*
 
-# Dispop - Privacy Policy
+# Privacy | Admedo
 
-**Privacy Policy**
+_Updated  on May 17th, 2018_
 
-Dispop (“Dispop”) is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our Site and Services (as defined in the Terms of Use).
+Hi.
 
-**1\. User Consent.**  
-By submitting Personal Data through our Site or Services, you agree to the terms of this Privacy Policy and you expressly consent to the collection, use and disclosure of your Personal Data in accordance with this Privacy Policy. 
+We’re Admedo. 
 
-**2\. Visitors under the age of 13.**  
-Our service is not offered to persons under the age of 13. Thus, we do not intentionally gather Personal Data from visitors who are under the age of 13. 
+We want to make advertising easier for everyone. And that includes people being advertised to. Like you.
 
-**3\. Types of Data We Collect**  
-“Personal Data” means data that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, as well as any other non-public information about you that is associated with or linked to any of the foregoing data. “Anonymous Data” means data that is not associated with or linked to your Personal Data; Anonymous Data does not, by itself, permit the identification of individual persons. We collect Personal Data and Anonymous Data, as described below. 
+Advertising is an important part of the internet. It’s one of the ways you find out about things you might be interested in: a new model of car or a book, a TV show or movie. It’s also how a lot of websites and apps you use make money to pay their staff, without asking it from you directly.
 
-Information You Provide to Us. We may collect Personal Data from you, such as your name, e-mail and mailing addresses, phone number, and password when you create an account with us (“Account”). When you make a purchase, we (or our third party service provider) will collect all information necessary to complete the transaction, including your name, credit card information, debit card information, billing information and/or PayPal information.
+Without advertising your favourite websites might no longer be free. They might not exist at all.
 
-We retain information on your behalf, such as Design Concepts, Invoice Service invoices, transactional history, messages and any other information that you store using your Account. If you provide us feedback or contact us via e-mail, we will collect your name and e-mail address, as well as any other content included in the e-mail, in order to send you a reply. When you participate in one of our surveys, we may collect additional profile information. When you post messages on our Site, the information contained in your posting will be stored on our servers and other users will be able to see it. We may also collect Personal Data at other points in our Site that state that Personal Data is being collected. Information Collected via Technology.
+When they’re good, ads can be very clever. They can be funny and memorable, and even useful – like when you had no idea what to do for Mother’s Day, and saw an ad for a hot air balloon ride.
 
-To make our Site and Services more useful to you, our servers (which may be hosted by a third party service provider) collect information from you, including your browser type, operating system, Internet Protocol (IP) address (a number that is automatically assigned to your computer when you use the Internet, which may vary from session to session), domain name, and/or a date/time stamp for your visit. We also use cookies and URL information to gather information regarding the date and time of your visit and the information for which you searched and which you viewed. “Cookies” are small pieces of information that a website sends to your computer’s hard drive while you are viewing a web site. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on our Site. Persistent Cookies can be removed by following Internet browser help file directions. Cookies may enable automatic logins when you visit in the future and may enable content customization. Google Analytics. 
+But we all know advertising can be really annoying. It can also be creepy or inappropriate, or be downright disgusting.
 
-We currently use Google Analytics as well as Google Analytics for Display Advertising. Google Analytics collects information anonymously and reports website trends without identifying individual visitors. Google Analytics uses its own cookie to track visitor interactions. Website owners can view a variety of reports about how visitors interact with their website so they can improve their website and how people find it. Please see the following links for more information about Google Analytics: http://www.google.com/analytics/, http://www.google.com/privacy.html and http://www.google.com/analytics/tos.html. You can also opt-out of Google Analytics for Display Advertising by going to the Google Ads Preferences Manager. 
+Advertising online is also tricky, because it involves a lot of data. And recently there’s been news about how data can go really wrong.
 
-**The Opt-Out Cookie & Your Choices**  
-Dispop allows consumers to opt out of having online ads tailored using our ad-serving cookie. Blocking and/or opting out of cookies does not stop advertisements from being served to your computer; rather, it prevents data from being associated with your browser. Please note that if you choose an opt-out cookie, we will be unable to recognize your browser from one visit to the next, and you may therefore receive the same ad multiple times. 
+So we’re going to tell you everything: about the data we collect, what we do with it, and what you can do about it. 
 
-[Click here](https://dispop.com/) to opt-out from our ad-serving cookie. The cookie will apply to the specific browser you are using; if you wish to opt out for other browsers or computers that you use, you must repeat the process using these browsers or computers. All other cookies associated with your browser will remain intact and your opt-out will be effective with respect to the browser used as long as you do not delete the cookie file from your hard drive. This opt-out process will erase the cookie ID but not the cookie. It's necessary for us to store this "Keep Out" cookie on your computer in order to recognize you as an opt-out user. Please note that if you erase all cookies from your computer, you will also erase our opt-out cookie and will need to repeat the process of opting out. 
+* * *
 
-**4\. Use of Your Personal Data**  
-General Use.   
-In general, Personal Data you submit to us is used either to respond to requests that you make, or to aid us in serving you better. We use your Personal Data in the following ways: to facilitate the creation of and secure your Account; identify you as a user in our system; improve our Site and Services; for our internal research and development; customize content to match your preferences; prevent suspended users from re-registering; provide the Services you request; send you a welcome e-mail to verify ownership of the e-mail address provided when your Account was created; send you administrative e-mail notifications, such as security or support and maintenance advisories; respond to your inquiries and requests; to make telephone calls to you, from time to time, as a part of secondary fraud protection or to solicit your feedback; and to send newsletters, surveys, offers, and other promotional materials related to our Services and for other marketing purposes of Dispop. Creation of Anonymous Data. 
+In this privacy policy (“Policy”), we use the terms “Admedo“, “our“, “us” and “we” to refer to Admedo Ltd. and our affiliates. We use the term “Platform” to refer to our advertising technology tools and services, which allows our customers the ability to book and optimise advertising campaigns, and make automated buying decisions that efficiently spend their money. We use the term “Website” to refer to “www.admedo.com”, and we use the terms “users”, “you” and “your” to refer to consumers of our platform, services and sites.
 
-We may create Anonymous Data records from Personal Data by excluding information (such as your name) that make the data personally identifiable to you. We use this Anonymous Data to analyze request and usage patterns so that we may enhance the content of our Services and improve Site navigation. Dispop reserves the right to use Anonymous Data for any purpose and disclose Anonymous Data to third parties in its sole discretion. 
+This Policy explains how Admedo processes data in our Platform and Website for our users. It also explains what we do with the data, how we secure it, and explains the rights that users have as regards how we collect and process their data.
 
-**5\. Disclosure of Your Personal Data.**  
-We disclose your Personal Data as described below and as described elsewhere in this Privacy Policy. Profile Information.   
-The information collected during the registration process by Dispop may be used by Dispop to: contact members, customize content to match your preferences, display member status, and display the date of a member’s last visit Third Party Service Providers.   
-We may share your Personal Data with third party service providers to: provide you with the Services that we offer you through our Site; to conduct quality assurance testing; to facilitate creation of accounts; to provide technical support; and/or to provide other services to Dispop. These third party service providers are required not to use your Personal Data other than to provide the services requested by Dispop. Affiliates and Acquisitions.   
-We may share some or all of your Personal Data with our parent company, subsidiaries, joint ventures, or other companies under a common control (“Affiliates”), in which case we will require our Affiliates to honor this Privacy Policy. If another company acquires our company, business, or our assets, that company will possess the Personal Data collected by us and will assume the rights and obligations regarding your Personal Data as described in this Privacy Policy. Other Disclosures.   
-Regardless of any choices you make regarding your Personal Data (as described below), Dispop may disclose Personal Data if it believes in good faith that such disclosure is necessary (a) in connection with any legal investigation; (b) to comply with relevant laws or to respond to subpoenas or warrants served on Dispop; (c) to protect or defend the rights or property of Dispop or users of the Services; and/or (d) to investigate or assist in preventing any violation or potential violation of the law, this Privacy Policy, or Terms of Use. 
+Admedo is committed to respecting and protecting the privacy of consumers when we process their information. We adhere to applicable industry guideline and strive to best practices. We will continue to review and update our Policy and procedures to ensure the safety and protection of personal information.  
+ 
 
-**6\. Third Party Websites.**  
-When you click on a link to any other website or location, you will leave our Site and go to another site and another entity may collect Personal Data or Anonymous Data from you. We have no control over, do not review, and cannot be responsible for, these outside websites or their content. Please be aware that the terms of this Privacy Policy do not apply to these outside websites or content, or to any collection of data after you click on links to such outside websites 
+### What We Collect
 
-**7\. Your Choices Regarding Your Personal Data**  
-Choices. We offer you choices regarding the collection, use, and sharing of your Personal Data. We will periodically send you free newsletters and e-mails that directly promote the use of our Site or Services. When you receive newsletters or promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail you receive or by contacting us directly (please see contact information below). Despite your indicated e-mail preferences, we may send you service related communication, including notices of any updates to our Terms of Use or Privacy Policy. Changes to Personal Data.   
-You may change any of your Personal Data in your Account by editing your profile within your Account or contacting us via the Site. You may request deletion of your Personal Data by us, but please note that we may be required to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives. We may retain your information for fraud prevention or similar purposes. 
+#### Information We Collect in Our Platform
 
-**8\. Security of Your Personal Data.**  
-Dispop is committed to protecting the security of your Personal Data. We (and our third party service providers) use a variety of industry-standard security technologies and procedures to help protect your Personal Data from unauthorized access, use, or disclosure. We also require you to enter a password to access your Account information. Please do not disclose your Account password to unauthorized people. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while Dispop uses reasonable efforts to protect your Personal Data, Dispop cannot guarantee its absolute security. 
+Admedo is committed to respecting your privacy when it comes the provision of our Platform. Admedo adheres to the European Interactive Digital Advertising Alliance’s (“EDAA“) Self-Regulatory Principles for Online Behavioural Advertising.
 
-**9\. Contact Information.**  
-Dispop welcomes your comments or questions regarding this Privacy Policy. Please contact us at the following:   
-Dispop   
-349 5th ave, New York, NY 10016  
-USA 
+###### 
 
-**10\. Changes to This Privacy Policy.**  
-This Privacy Policy is subject to occasional revision, and if we make any material changes in the way we use your Personal Data, we will notify you by sending you an e-mail to the last e-mail address you provided to us and/or by prominently posting notice of the changes on our Site. Any changes to this Privacy Policy will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on our Site. These changes will be effective immediately for new users of our Service.
+###### Behavioural Information
 
-Please note that at all times you are responsible for updating your Personal Data to provide us with your most current e-mail address. In the event that the last e-mail address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. 
+The Admedo Platform uses technologies such as cookies to collect information about your browser type, operating system, pages that you may visit on a third party websites, certain actions that you take on those websites (such as signing up or making a purchase), the date and time of your visits to third party websites, whether you respond to an online ad and, where applicable for mobile users, device types, device make and model.
 
-In any event, changes to this Privacy Policy may affect our use of Personal Data that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your Personal Data, you must notify us prior to the effective date of the changes that you wish to deactivate your Account with us. Continued use of our Site or Service, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes. 
+###### Personal Information
+
+The Admedo Platform does not collect Personal Information such as your name, address, phone number, email address, National Insurance / Social Security Number, credit card, financial or health related information. Customers of Admedo may supply us personal information such as their email address and name, so they may log in and operate the Platform.
+
+We appreciate that, in certain jurisdictions, a Cookie ID and an IP address are considered Personal Information. Cookies and IP addresses are essential to the basic operation of the internet – without them there would be no web. We only store and retain this information where necessary to the service, and where we have a legal basis to do so. When we store this information we also pseudonymise or anonymise this information wherever possible, such that it does not personally identify you.
+
+#### How We Use the Information We Collect
+
+We use the information collected via the platform in three ways.
+
+  * Deliver Interest-Based Advertising to websites & mobile apps on behalf of advertisers
+  * Help our customers better cater to your needs by sharing adverts for the types of products / services in which you might be interested. (This does not personally identify you)
+  * Create statistical aggregates (which do not identify you) about the success of an advertising campaign
+
+
+
+#### Who We Share Behavioural Information Collected via the Platform With
+
+We may share and disclose Information in the following circumstances:
+
+  * Customers and customers’ partners – we may share Information with our customers and customers’ partners for lawful advertising purposes;
+  * Vendors and service providers – we may share Information with third party vendors and other service providers who are working on our or our customers’ behalf and require access to such information to undertake that work e.g. to provide data storage and processing services;
+  * Compliance with laws – we may disclose Information to a third party where we are legally required to do so in order to comply with any applicable law, regulation, legal process or government request, including to meet national security or law enforcement requirements;
+  * Vital interests and legal rights – we may disclose Information where we believe it necessary in order to protect the vital interests of any person, or to exercise, establish or defend our legal rights; and
+  * Business transfers – we may share or transfer Information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
+
+
+
+#### Information We Collect On Our Website Or From Other Sources
+
+When you contact us with questions regarding our service or to request a demo of our  
+platform we collect personal data such as name, email address and phone number. You also provide personal when you request marketing collateral from our website or third party websites that host our content such as eBooks, one pagers and case studies and when you provide our employees with your business card.  
+ 
+
+#### How We Use Information We Collect On Our Website or Other Sources
+
+Personal data on our Website is only collected on the “Contact Us”, “Request a Demo”, “Knowledge Base” or “Newsletter Signup” forms. Information you provide to Admedo will be used for the purpose disclosed at the time of collection, and only if you have opted in and given your explicit consent will the information be used for marketing purposes relating to our Platform and service. Information collected for billing and related purposes shall be used for the purposes disclosed at the time of collection, as well as credit checks, invoicing, collection, troubleshooting, account maintenance, and other related business purposes.
+
+We only use selected third party service providers to store data collected through our Website or related means, including CRM (Customer Relationship Management) and email marketing platforms. These help us manage our communications with our clients and prospective clients.. We have a contract / data processing agreement in place that requires these providers to comply with all relevant data protection legislation, keep your information secure and not to use it for their own direct marketing purposes.  
+ 
+
+#### Communications From The Site
+
+###### Newsletters
+
+If you wish to subscribe to our newsletter, we will use your email address to send the newsletter to you and other relevant marketing communications that may include company news, updates, related product or service information. If at any time you would like to unsubscribe from receiving these emails, you can follow the unsubscribe instructions at the bottom of each email you receive from us or you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) .
+
+###### Platform and Service Related Announcements
+
+Only when it is necessary to do so, we will send our customers strictly platform or service related announcements for the benefit of their campaign.
+
+  Customers are not able to opt-out of these communications because they are not promotional in nature.
+
+###### The lawful basis by which we are permitted to use this Information 
+
+Under data protection law the uses of information described above are all “legitimate interests” of ours or of others, which we have carefully considered and determined are not overridden by the interests, rights or freedoms of affected individuals (such as you). We need to carry out processing of your information in these ways for the purposes of meeting those interests. In determining this and assessing your rights, we consider a number of factors, such as what you were told at the time you provided your data, what your expectations are about the processing of the data, the nature of the data, and the impact of the processing on you.
+
+  In addition, we are permitted by law to use your information where you have given us explicit consent to the processing of your data for one or more specific purposes, namely for marketing purposes.
+
+#### Cookies and Technology We Use
+
+We use a variety of technologies on our Website and our Platform including cookies, pixel tags and scripts to collect and use Behavioural Information.
+
+###### Cookies
+
+A cookie is a small text file that can be stored on your computer or device when you view an advertisement or website relating to one of our customers. The cookie does not contain any data that enables us to determine your actual identity. Instead, we use cookies to determine visits to a website and views / clicks of advertisements.  
+Admedo cookies may be served from either of the following domains:
+
+admedo.com and a8723.com  
+ 
+
+###### Pixels
+
+Pixels are tiny images on a webpage or other document that allow the operator of the webpage or other document, or a third party who serves the pixel tag, to set, read and modify a cookie. 
+
+Our pixel tags allow Admedo cookies to be set, read and modified when you visit the websites of our partners. Our pixels also allow our partners to better understand how you interact with their websites by observing which pages on their websites are visited.  
+ 
+
+#### Other Important Details
+
+###### Securing Data
+
+We use technical and organisational measures to protect personal data from unauthorised access. These may include encryption and other information security technologies, applied to our networks and systems. However, no mechanism for either storing data, or transmitting data over the Internet, is completely secure. While we strive to protect your information, we cannot guarantee the safety or security of any information you transmit to us.
+
+  Admedo processes information in a way that is aligned with the purposes for which it was collected. To the extent necessary for those purposes, we take reasonable steps to ensure that any information in our care is accurate, complete, current, and reliable for its intended use.
+
+###### Moving Data Around
+
+The information that we collect from you and about you may be transferred to and stored in a country other than your country of residence, such as another European country or the USA, which may not offer the same level of protection of personal information as your country of residence.
+
+  Where your personal data is being transferred outside the EU, we will either undertake an assessment of the level of protection in light of the circumstances surrounding the transfer or:
+
+  * Only transfer it to a non-EEA country with privacy laws that give the same protection as the EEA; or
+  * Ensure we have an agreement in place with the recipient under which they are under a duty to protect your data to the same standards as those in place in the EEA; or 
+  * Transfer it to US organisations that are signed up to the EU-US Privacy Shield scheme; or 
+  * We will make sure that any transfers are not repetitive and only limited to the minimum amount of information possible. In certain circumstances we may need to seek your consent unless there is an overriding legal need to transfer the information]; and
+  * In all cases where your information is transferred outside the EEA, you have a right to contact us for a copy of the measures we have put in place, by email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+
+
+
+###### How Long We Keep Data
+
+We retain the cookie ID for as long as this is necessary for our legitimate business purposes.  
+Cookies set via the Platform expire within 13 months of setting. Browsing activity associated with an Admedo cookie expires within the lesser of: 60 days of last known activity and 13 months of setting.
+
+Our log level data is cleansed of any personal data, such as IP address within three days of being produced as a result of interaction with a third party web page we are partnered with, or after being served with an advert via the Admedo platform.  
+ 
+
+###### Children
+
+Our Platform and services are designed and directed to individuals of 16 years of age or older. We do not knowingly collect personal information from anyone under the age of 16. If we are made aware that we have received personal information from someone under 16, we will use reasonable efforts to remove that information from our records.
+
+  We do not market by email or other electronic means to children under the age of 16 anywhere.
+
+  In adherence to EDAA requirements, we do not create segments for OBA purposes that are specifically designed to target children (age 12 and under). While this does not mean that ad delivery will not occur, it means that we will not specifically target ads to children ages 12 and under.
+
+####  Your Rights
+
+###### Opting out
+
+Personalised ads, sometimes referred to as targeted or interest-based ads, are based on information about you, such as the products you view online, visits to websites where we provide ads or content. 
+
+At any time you can set your preference for ads personalised by Admedo [here](http://www.youronlinechoices.com/uk/your-ad-choices).
+
+Please note that even if you choose above not to see personalised ads, you may still see ads provided by Admedo on websites; they will just not be personalised. 
+
+Choosing not to see personalised ads, changing your recommendations and opting out of your browsing history will not affect other services that use the same technology, such as cookies, and information may still be collected for other purposes. You can manage cookies in the privacy settings on the web browser you are using.
+
+Please also note that these cookies are set on a per browser basis. If you use multiple browsers or devices, you will need to repeat this task on each device and browser.
+
+You can also obtain information on interest-based advertising like Admedo, who follow the IAB Europe’s Framework for Online Behavioural Advertising by visiting the YourOnlineChoices site at www.youronlinechoices.com/uk/  
+ 
+
+###### Access to Your Data
+
+Where we hold Personal Information for our own account management, billing or marketing purposes, then we provide individuals with the opportunity to access, review, modify, and delete any such personal information that has previously been provided. You can send an email to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+
+If you are from the European Union or Switzerland, you have the right to access the personal information we hold on you. An EU or Swiss individual who would like to access, correct, change or delete inaccurate data about themselves, can send a request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), and we will respond to your request within 30 days.  
+ 
+
+#### Moving your information to another organisation
+
+In the event that we process your data by automated means where you have either provided us with consent for us to use your information or where we used the information to perform a contract with you, you have the right to request that we send to you or to another organisation, a copy of the personal data we hold about you, for example when you are dealing with a different service provider. If you would like us to move, copy, or transfer your information please let us know by email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) We will respond to you within one month after assessing whether or not this is possible, taking into account the technical compatibility with the other organisation in question.  
+ 
+
+#### How you can request erasure of your data
+
+You can ask us to delete or remove personal data where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to processing (see below), where you have withdrawn consent for us to process it (as explained below), where we may have processed your information unlawfully or where we are required to erase your personal data to comply with local law. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request.  
+ 
+
+#### How you can withdraw your consent
+
+You have the right at any time to withdraw any explicit consent you have given us to process your personal data. Please note if you withdraw your consent it will not affect the lawfulness of any processing of your personal data we have carried out before you withdrew your consent. Should you wish to do so you can change your consent preferences at any time by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
+ 
+
+#### How you can restrict or object to us using your data
+
+You can ask us to suspend the way in which we are using your information in certain scenarios, or object to our processing your data where we are relying on a legitimate interest ground (or those of a third party) and you feel it impacts on your fundamental rights and freedoms, or where we are processing your personal data for direct marketing purposes. In some cases where you object, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms.  
+Please note that if you want us to restrict or stop processing your data this may impact on our ability to provide our services. Depending on the extent of your request we may be unable to continue providing you with our service.
+
+Any queries or concerns about the way in which your data is being used can be sent to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
+ 
+
+#### Changes to the Policy
+
+From time to time we may revise this Policy. The date of the last update can be found at the top of this Policy. If we make revisions that materially change or affect whether or how we collect or use personal information, we will notify you and we’ll indicate when such changes will become effective. Such a notification might be a message on our website or an email sent to you (if you have provided us your email address as a user of our service or Platform) in advance of the changes taking effect. 
+
+We encourage you to review this page periodically so that you are up-to-date on our policies and practices.  
+ 
+
+#### Getting in Touch
+
+If you have any questions about this Privacy Policy or wish to raise a complaint on how we have handled your personal data, please contact by email at:
+
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+
+Or by post at:
+    
+    
+    Admedo Ltd
+    Attn: Privacy Group
+    High Holborn House
+    1st Floor, 52-54 High Holborn
+    United Kingdom
+
+If you are not satisfied with our response or believe we are processing your personal data not in accordance with the law you can complain to the UK data protection regulator, the Information Commissioner’s Office. Further details can be found at www.ico.org.uk or 0303 123 1113.
