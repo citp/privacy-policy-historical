@@ -1,85 +1,106 @@
-> *The following text is extracted and transformed from the builtwith.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220233538id_/https%3A//builtwith.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the builtwith.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607184640id_/https%3A//builtwith.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-BuiltWith® Pty Ltd is an Australian Business ACN: 167 706 470.
+PRIVACY POLICY AS DATA CONTROLLER
 
-We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
+Effective: 1st May 2018
 
-## (1) What information do we collect?
+This privacy policy applies to builtwith.com owned and operated by BuiltWith Pty Ltd ("BuiltWith","we","us","our"). This privacy policy describes how BuiltWith collects, uses, shares and secures personal information you provide. It also describes your choices regarding use, access and correction of your personal information.
 
-We may collect, store and use the following kinds of personal data:
+TL;DR
 
-(a) information about your visits to and use of this website;
+We collect your email address, IP address, store them securely and have a few third parties that need to see that data for email deliverability or payment processing.
 
-(b) information about any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services;
+DIRECT COLLECTION AND PROCESSING OF PERSONAL DATA
 
-(c) information that you provide to us for the purpose of registering with us and/or subscribing to our website services and/or email notifications;
+The personal data you provide to BuiltWith directly is your email address. It will be processed for the following purposes only:
 
-## (2) Information about website visits
+    a.  To provide BuiltWith mandatory account status emails (password reset, email verification, welcome email etc...)  
+    b.  To identify you when you login to our website.  
+    c.  To receive marketing emails from us (optional consent opt-in).
 
-We may collect information about your computer and your visits to this website such as your IP address, geographical location, browser type, referral source, length of visit and number of pageviews. We may use this information in the administration of this website, to improve the website's usability, and for marketing purposes.
+We may also collect and store your address, if you provide it to us for invoicing purposes only.
 
-## (3) Using your personal data
+The processing of data for the purpose above will be carried out via automated electronic means only.
 
-Personal data submitted on this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.
+FAILURE TO PROVIDE CONSENT
 
-In addition to the uses identified elsewhere in this privacy policy, we may use your personal information to:
+The provision of consent is optional. However failure to provide consent for a. and b. above will render it impossible to use BuiltWith internet services as we require your email to allow you to login and enable your account.
 
-(a) improve your browsing experience by personalising the website;
+SERVICE PROVIDER THIRD PARTIES WHO MAY PROCESS YOUR DIRECT PERSONAL DATA
 
-(b) to contact you about features and updates about BuiltWith.com exclusively.
+Our sharing of your personal data is very limited and a requirement for us to operate BuiltWith. All third parties are listed below.
 
-(c) To bill and collect sums owed to us. Uses for this purpose include sending you emails, invoices, receipts and notices of delinquency, to alert you if we need a different credit card number, and to otherwise try to collect money owed. We use third parties to handle secure credit card transaction processing and send billing information to such third parties, who maintain all information in confidence, to process your orders and credit card payments.
+The email addresses that provide consent will be processed by 3rd party email delivery service provider Postmark. See their privacy page here - https://postmarkapp.com/eu-privacy
 
-## (4) Other disclosures
+If you sign up for payment with credit card your personal details will be processed by Braintree/PayPal, see their privacy policy here - https://www.paypal.com/en/webapps/mpp/ua/privacy-full
 
-In addition to the disclosures reasonably necessary for the purposes identified elsewhere in this privacy policy, we may disclose information about you:
+If you sign up for payments with Cryptocurrency your email may be processed by Coinbase, see their privacy policy here - https://www.coinbase.com/legal/privacy?locale=en
 
-(a) to the extent that we are required to do so by law;
+In certain situations, BuiltWith Pty Ltd may be required to disclose personal data in response to lawful requests by public authorities, including to meet security or law enforcement requirements. We may also disclose your personal information as required by law, such as to comply with a subpoena or other legal process, when we believe in good faith that disclosure is necessary to protect our rights, when we believe there is a violation to our [terms](https://web.archive.org/terms), protect your safety or the safety of others, investigate fraud, or respond to a government request
 
-(b) in connection with any legal proceedings or prospective legal proceedings;
+INDIRECT COLLECTION AND PROCESS OF PERSONAL DATA
 
-(c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk); and
+Indirectly we will collect your IP address based on the system you use to access our website via our secure web servers logging system. We collect this information for the purposes of detecting and preventing fraud and unauthorized access and maintaining the security of our systems. We will use but not collect/store your geolocation based on your IP address to personalize your experience of using the BuiltWith website.
 
-(d) to the purchaser or seller (or prospective purchaser or seller) of any business or asset which we are (or are contemplating) selling or purchasing.
+BuiltWith uses Google Analytics for visitor tracking but we do not store any personal information and anonymize your IP.
 
-Except as provided in this privacy policy, we will not provide your information to third parties.
+SECURITY AND DATA CENTER LOCATION
 
-## (5) Safeguarding Your Information
+BuiltWith Pty Ltd is PCI DSS compliant – as monitored by Security Metrics. BuiltWith data centers are ISO/IEC 27001 certified, SOC 1 Type II and SOC 2 Type II certified. Servers that process personal data are HSTS enabled, ensuring end-to-end encryption of your information.
 
-(a) To protect your information, our credit card processing vendor uses the latest 128-bit Secure Socket Layer (SSL) technology for secure transactions. In addition, our vendor is certified as compliant with card association security initiatives, such as the Visa Cardholder Information Security and Compliance (CISP), MasterCard® (SDP), and Discovery Information Security and Compliance (DISC).
+Our short term encrypted backups are stored at Dropbox, ISO 27018 certified data center. See their privacy policy here - https://www.dropbox.com/privacy
 
-(b) Account passwords are encrypted. We cannot see your passwords. We can only reset them.
+Our data center is located in Canada. We have no plans to operate servers within the EU that store personal information.
 
-## (6) Security of your personal data
+Only directors of BuiltWith have direct access to systems which store personal data, no employee has access or is able to access personal data stored on our systems.
 
-We will take reasonable precautions to prevent the loss, misuse or alteration of your personal information. Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
+ACCESS TO YOUR INFORMATION
 
-If you create an account, you are responsible for keeping your password confidential. We will not ask you for your password.
+The personal data BuiltWith stores on you directly is your email address and short term IP logs for the purposes of fraud, security and access.  
+You may access, correct or request that we delete your email/account by contacting us directly at support@builtwith.com.
 
-## (7) Policy amendments
+CHANGES TO THIS PRIVACY POLICY
 
-We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes.
+We encourage you to periodically review this page for the latest information on our privacy practices.
 
-## (8) Your rights
+PRIVACY QUESTIONS / FEEDBACK
 
-You may instruct us to provide you with any personal information we hold about you. Provision of such information will be subject to the payment of a fee (currently fixed at $AU90).
+If you have questions or concerns about BuiltWith’s Privacy Policy please contact us at support@builtwith.com
 
-## (9) Third party websites
+PRIVACY POLICY AS THIRD PARTY DATA PROVIDER
 
-The website contains links to other websites. We are not responsible for the content, terms and conditions or privacy policies of third party websites.
+Effective: 1st May 2018
 
-## (10) Cookies
+This privacy policy applies to builtwith.com owned and operated by BuiltWith Pty Ltd ('BuiltWith",'we',"us',"our"). This privacy policy describes how BuiltWith deals with personal information in line with it's business practices as a third party data provider and it's compliancy with GDPR and the Australian Privacy Act 1988.
 
-This site uses cookies for the purpose of remembering who you are when you return to the site.
+TL;DR;
 
-## (11) Contact
+We do not provide personal information of people connected to websites in the EU.
 
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to support@builtwith.com or write to us at - 
+DATA WE COLLECT
 
-PO BOX 290  
-Manly, NSW 1655  
-AUSTRALIA
+BuiltWith collects data from the Internet to provide lists that users can access via our premium tools. These lists include -
 
-Back
+    a.  Information about websites using specific web technologies (non-personal data)  
+    b.  Contact information for business contacts outside of the EU listed publically on 'team/contact' pages of websites  
+    c.  General non-personal information about companies (social media links, telephone numbers, company names)
+
+The processing of data for the purpose above will be carried out via automated electronic means only.
+
+DATA USAGE
+
+See our [terms](https://web.archive.org/terms) for usage of our data.
+
+PUBLIC DATA REMOVAL
+
+You are welcome to remove your website profile via the [website removal](https://builtwith.com/removals) page.
+
+CHANGES TO THIS PRIVACY POLICY
+
+We encourage you to periodically review this page for the latest information on our privacy practices.
+
+PRIVACY QUESTIONS / FEEDBACK
+
+If you have questions or concerns about BuiltWith’s Privacy Policy please contact us at support@builtwith.com
