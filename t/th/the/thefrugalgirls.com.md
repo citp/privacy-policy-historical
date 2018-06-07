@@ -1,52 +1,57 @@
-> *The following text is extracted and transformed from the thefrugalgirls.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208090326id_/http%3A//thefrugalgirls.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefrugalgirls.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607140640id_/http%3A//thefrugalgirls.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Statement - The Frugal Girls
 
-This privacy policy sets out how The Frugal Girls uses and protects any information that you give while using www.TheFrugalGirls.com.  Your privacy is important to us. We will never sell or provide your email address to anyone.
+**By visiting TheFrugalGirls.com, you are consenting to our Privacy Policy.**
 
-Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+**Overview:**
 
-TheFrugalGirls.com is not responsible for the content of external internet sites. You are advised to read the privacy policy of external sites prior to disclosing any personal information.
+This privacy policy sets out how The Frugal Girls uses and protects any information that you give while using www.TheFrugalGirls.com.  Please Note: do not use this site or any affiliated services if you do not agree with this Privacy Policy and our [Disclosure Policy](http://thefrugalgirls.com/disclosure-policy-statement).
 
-Please note: You are solely responsible for any information you choose to submit in the comment form of a post at TheFrugalGirls.com. Your comments can be read by anyone, so please keep that in mind when commenting.
+Your privacy is important to us. We will never sell, distribute, or share your personal information with anyone.  You have the right to erasure of personal data, known as the ‘Right to be Forgotten’.  If you request us to delete your personal information, we will do so.  Please contact us at: frugalgirls@gmail.com if you would like your personal information erased.
 
-**External Links:**
+**What Personal Data We Collect and Why We Collect It:**
 
-This blog contains external links to other websites. The content provided on those sites is not endorsed or controlled by this blog. Please review the privacy policy for each individual site prior to submitting your personal information when requesting a free product sample or participating in a promotion.
+When you visit our website, some data is automatically collected, such as your IP address, Domain Name, Operating System and  Browser Type, the Length and Time of your Visit, and what Pages You Visit on our site.
 
-**Security**
+When you send us an email or comment on our site, personal information that is collected also includes your Name and Email Address.  Please note: You are solely responsible for any information you choose to submit in the comment form of a post on TheFrugalGirls.com.  Your comments can be read by anyone, so please keep that in mind when commenting.
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+The information collected on this site is used for administrative purposes, site maintenance purposes, and improving future user experience.  Some examples may include understanding how many people visit each page on this site, what types of devices read this site, and understanding how people find our site.
 
-**Google AdSense:**
+**How Long We Retain Your Data:**
 
-Google, as a third party advertisement vendor, uses the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) when displaying AdSense for content ads.  For more information, or to opt out, visit [Google’s advertising privacy policies](http://www.google.com/privacy_ads.html).
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.  We keep analytics records indefinitely unless otherwise required by law.
 
-**Gourmet Ads:  
-**
-
-For information about opting out of Gourmet Ads and ad serving partners please visit <http://www.gourmetads.com/about/privacy-policy>
-
-**How third party advertisers use cookies**
+**Cookies and Third Party Services:**
 
 A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-We may use advertising service vendors to help present advertisements on the website, one of which is [http://www.gourmetads.com](http://www.gourmetads.com/). These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith.
+We may use advertising service vendors to help present advertisements on the website. These third party vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and this site disclaims all liability in connection with the cookies used by advertising service vendors.
 
-For information about opting out of Gourmet Ads and ad serving partners please visit <http://www.gourmetads.com/about/privacy-policy>
+If you would like to learn more about what options you have about limiting the gathering of information by third-party ad networks, you can consult the website of the [Network Advertising Initiative](http://optout.networkadvertising.org/).
 
-**Links to other websites**
+To find out more about how to manage and delete cookies, visit [aboutcookies.org](http://aboutcookies.org/). For even more details about advertising cookies, and how to manage them, visit [aboutads.info](http://www.aboutads.info/choices/) (US based), or [youronlinechoices.eu](http://www.youronlinechoices.eu/) (EU based).
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+**Google AdSense:**
+
+Google, as a third party advertisement vendor, uses the DoubleClick DART cookie when displaying AdSense for content ads.  For more information visit [Google’s advertising privacy policies](http://www.google.com/privacy_ads.html), or to opt out, [go here](https://www.google.com/policies/technologies/partner-sites/).
+
+**Anti Spam Policy:**
+
+We comply with Anti Spam Laws.  If you choose to opt-in and subscribe to our emails, you will have the option to unsubscribe to our emails included in every email you receive from us.
+
+**Third Party Links:**
+
+TheFrugalGirls.com contains links to other websites of interest.  Once you have used these links to leave TheFrugalGirls.com, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide while visiting such sites and such sites are not governed by this privacy statement.  You should exercise caution and review the privacy policy applicable to the website in question.
 
 **Giveaway Policy:**
 
 All giveaways hosted at TheFrugalGirls.com are open to U.S. residents age 18 and older. Facebook and Pinterest are not sponsors or administrators of any giveaway.
 
-**Conclusion:**
+**Privacy Policy Changes:**
 
-The Frugal Girls may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
+The Frugal Girls reserves the right to change and update this Privacy Policy at any time.  If updated or changed, the revised Privacy Policy shall go into effect immediately.  Check this page regularly to ensure that you agree with the current Privacy Policy.  Do not use this site or any affiliated services if you do not agree with this Privacy Policy and our [Disclosure Policy](http://thefrugalgirls.com/disclosure-policy-statement).
 
-_This policy was last updated: December 2, 2014_
+_This policy was last updated: May 24, 2018_
