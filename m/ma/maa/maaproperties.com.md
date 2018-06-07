@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maaproperties.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517102347id_/http%3A//www.maaproperties.com/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maaproperties.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607195001id_/http%3A//www.maaproperties.com/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # Bye, Sell, Rent, Real Estate Agents, Realtors, Properties Hyderabad
 
