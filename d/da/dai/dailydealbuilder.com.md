@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailydealbuilder.com privacy policy that was archived on 2017-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171012102557id_/http%3A//dailydealbuilder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailydealbuilder.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607184603id_/http%3A//dailydealbuilder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Daily Deal Builder | Daily Deal Platform | White Label Deal Software
 
@@ -59,5 +59,3 @@ Our Company’s Commitment to Data Security: Services and web site we sponsor h
 Where to Direct Questions About Our Privacy Policy: If you have any questions about this Privacy Policy or the practices described herein, you may contact us though the contact information provided on this web site.
 
 Revisions to This Policy: Our Company reserves the right to revise, amend, or modify this policy, our Terms of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting. Your use of this site after such changes are implemented constitutes your acknowledgement and acceptance of these changes. Please consult this privacy statement prior to every use for any changes.
-
-Last Updated: December 17th, 2010
