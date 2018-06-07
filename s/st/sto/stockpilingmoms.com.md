@@ -1,38 +1,95 @@
-> *The following text is extracted and transformed from the stockpilingmoms.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204053827id_/http%3A//www.stockpilingmoms.com/2009/08/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockpilingmoms.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607133743id_/http%3A//www.stockpilingmoms.com/2009/08/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-The privacy of our visitors to StockpilingMoms.com is important to us.
+Effective as of May 25, 2018
 
-Your privacy is important to us and we will respect the information that you submit to us in order to subscribe to our blog, enter giveaways, participate in a poll or survey, or post a comment. This blog does not collect information from minors, only from adults ages 18 and above. We will never give or sell your email address to anyone. This blog is hosted by WordPress, and if you have any questions about the privacy of information you submit through this blog you should read [WordPress’ Privacy Policy](http://wordpress.org/about/privacy/). This blog uses Google Docs forms to securely collect giveaway entries. I do not give the information you submit through Google Docs to giveaway sponsors or anyone else except to announce the winner. If you win I will post your first name and initial of your last name, but I will not share your email address. Your email address and full name are always kept private and not shared with anyone except for the sponsor of the prize for fulfillment. If you have any questions about the privacy of information you submit through Google you should read [Google’s Privacy Policy](http://www.google.com/privacy/privacy-policy.html).
+As the owners of this website StockpilingMoms.com, Melissa and Shelley understand that your privacy is of critical importance.  This Privacy Policy describes what information we collect from you via the Site and how we use and disclose such information.  We never sell your personal information to third parties.
 
-In general, you are responsible for the information you submit when you subscribe to my blog, enter giveaways, participate in a poll or survey, or post a comment. Your comments on posts and profile information can be read by anyone and I discourage you from including your email address or other personally identifying information. I do allow you to post comments as “Anonymous” as a way to help protect your privacy.
+**Our Use of Cookies**
 
-At StockpilingMoms.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit StockpilingMoms.com, and how we safeguard your information. We never sell your personal information to third parties.
+A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.  Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
 
-*** Log Files**  
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+We use cookies for the following purposes:
 
-*** Cookies and Web Beacons**  
-We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+(a) authentication – we use cookies to identify you when you visit our website and as you navigate our website;
 
-We also use third party advertisements on StockpilingMoms.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+(b) status – we use cookies to help us to determine if you are logged into our website;
 
-***DoubleClick DART cookies**  
-We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting <http://www.doubleclick.com/privacy/dart_adserving.aspx>
+(c) personalization – we use cookies to store information about your preferences and to personalize the website for you;
 
-Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website.  
-Google’s use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.  
-Users may opt out of the use of the DART cookie by visiting the advertising [opt-out page](http://www.google.com/privacy/ads/). (Alternatively, you can direct users to opt out of a third-party vendor’s use of cookies by visiting the Network Advertising Initiative opt-out page.)
+(d) security – we use cookies as an element of the security measures used to protect user accounts, including preventing fraudulent use of login credentials, and to protect our website and services generally;
 
-If you have not opted out of third-party ad serving, the cookies of other third-party vendors or ad networks may also be used to serve ads on your site, and should be disclosed in your privacy policy as well in the following manner.
+(e) advertising – we use cookies to help us to display advertisements that will be relevant to you; and
 
-Notify your site visitors of the third-party vendors and ad networks serving ads on your site.  
-Provide links to the appropriate vendor and ad network websites.  
-Inform your users that they may visit those websites to opt out of cookies (if the vendor or ad network offers this capability). Users can opt out of some, but not all, of these cookies in one location at the Network Advertising Initiative opt-out website at [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+(f) analysis – we use cookies to help us to analyze the use and performance of our website and services;
 
-You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+We use Google Analytics to analyze the use of our website. Google Analytics gathers information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website. Google’s privacy policy is available at: <https://www.google.com/policies/privacy/>
 
-Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+Most browsers allow you to refuse to accept cookies and to delete cookies. The methods for doing so vary from browser to browser, and from version to version. You can however obtain up-to-date information about blocking and deleting cookies via these links:
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+(a) <https://support.google.com/chrome/answer/95647?hl=en> (Chrome);
+
+(b) <https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences>[ ](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)(Firefox);
+
+(c) [http://www.opera.com/help/tutorials/security/cookies/](https://www.opera.com/help/tutorials/security/cookies/) (Opera);
+
+(d) <https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies> (Internet Explorer);
+
+(e) <https://support.apple.com/kb/PH21411> (Safari); and
+
+(f) <https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy> (Edge).
+
+Please note that blocking cookies may have a negative impact on the functions of many websites, including our Site. Some features of the Site may cease to be available to you.
+
+**Interest-Based Advertising**
+
+Advertising Privacy Statement
+
+This Site is affiliated with AdThrive, LLC (“AdThrive”) for the purposes of placing advertising on the Site.  AdThrive uses standard and widely-available tools for the placement and serving of ads, including those provided by Google, Inc. and its affiliates. We publish interest-based advertisements on the Site; that is, ads that are tailored to reflect your interests. To help understand your interests, AdThrive, Google and our other advertising partners will track your behaviour on our website and on other websites across the Internet using cookies.
+
+By using this Site, you consent to the use of such cookies and the sharing of data captured by such cookies with AdThrive, Google, and our other third party partners.You can view, delete or add interest categories associated with your browser by visiting: [https://adssettings.google.com](https://adssettings.google.com/). You can also opt out of the network cookie using those settings or using the Network Advertising Initiative’s multi-cookie opt-out mechanism at: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/).  However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained.
+
+For European Economic Area Residents
+
+If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing.  If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact AdThrive at info@adthrive.com. If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences icon. (Available in the EU.)
+
+**Email Addresses**
+
+We may collect your email address, but only if you voluntarily provide it to us. This may occur, for example, if you sign up to receive an email newsletter, or enter a promotion.  If you have provided your email address to us, we promise to use it only for the purposes for which it is provided.  We will not use your email address to contact you for unrelated reasons. You may opt out of such email communications at any time by clicking the “unsubscribe” button in the email.  If you can’t figure out how to unsubscribe please feel free to contact us and we will help you do so.
+
+We will not share your email address with any third parties.
+
+If you are a resident of a country in the European Economic Area (EEA), please refer to the section below entitled “Additional Rights of EEA Residents.
+
+**Registration or Account Data**
+
+We may collect other information from you when you register with our Site in order to use various features.  Such information could include your name, birthday, postal code, screen name, and password (if applicable). As you use the Site, we could collect other data that you provide voluntarily (such as comments that you post).
+
+We may also collect information about you through other methods, including research surveys, social media platforms, verification services, data services, as well as public sources.] [We may combine this data with your registration data in order to maintain a more thorough profile.
+
+We may use third parties to provide the functionality to allow you to register for the Site, in which case the third party will also have access to your information. Otherwise, we will not provide any personally-identifying information about you to third parties, except if required by law.
+
+We may use your personally-identifying information for a variety of our internal business purposes, such as creating a better user experience for the Site, diagnosing and troubleshooting malfunctions on the Site, better understanding how the Site is used, and making personalized recommendations to you.
+
+**Sale of Business or Assets**
+
+In the event that the Site or substantially all of its assets is sold or disposed of as a going concern, whether by merger, sale of assets or otherwise, or in the event of an insolvency, bankruptcy or receivership, the information we have collected about you may be one of the assets sold or merged in connection with that transaction.
+
+**Changes to the Privacy Policy**
+
+We may change this Privacy Policy from time to time. The most recent version of the Privacy Policy will always be posted on the Site, with the “Effective Date” posted at the top of the Policy. We may revise and update this Privacy Policy if our practices change, as technology changes, or as we add new services or change existing ones. If we make any material changes to our Privacy Policy or how we handle your personal information, or we are going to use any personal information in a manner that is materially different from that stated in our Privacy Policy at the time we collected such information, we will give you a reasonable opportunity to consent to the change. If you do not consent, your personal information will be used as agreed to under the terms of the privacy policy in effect at the time we obtained that information. By using our Site or services after the Effective Date, you are deemed to consent to our then-current privacy policy. We will use information previously obtained in accordance with the Privacy Policy in effect when the information was obtained from you.
+
+**Contacting Us**
+
+If you have any questions about this Privacy Policy, or the practices of this Site, please contact us at info (at) stockpilingmoms.com
+
+This Site is affiliated with AdThrive, LLC (“AdThrive”) for the purposes of placing advertising on the Site.  AdThrive uses standard and widely-available tools for the placement and serving of ads, including those provided by Google, Inc. and its affiliates. We publish interest-based advertisements on the Site; that is, ads that are tailored to reflect your interests. To help understand your interests, AdThrive, Google and our other advertising partners will track your behaviour on our website and on other websites across the Internet using cookies.
+
+A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.  Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
+
+By using this Site, you consent to the use of such cookies and the sharing of data captured by such cookies with AdThrive, Google, and our other third party partners. You can view, delete or add interest categories associated with your browser by visiting: [https://adssettings.google.com](https://adssettings.google.com/). You can also opt out of the network cookie using those settings or using the Network Advertising Initiative’s multi-cookie opt-out mechanism at: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/). However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained.
+
+For European Economic Area Residents
+
+If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing.  If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact AdThrive at [info@adthrive.com](mailto:info@adthrive.com). If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences icon. (Available in the EU.)
