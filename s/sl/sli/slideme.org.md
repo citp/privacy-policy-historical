@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slideme.org privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205045020id_/http%3A//slideme.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slideme.org privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607212611id_/http%3A//slideme.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | SlideME
 
