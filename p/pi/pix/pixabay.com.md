@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixabay.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223070139id_/https%3A//pixabay.com/en/service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixabay.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607190616id_/https%3A//pixabay.com/en/service/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ The following information is to help you understand how we collect, use, dissemi
 
 ## Personal information
 
-You may provide certain personal information, such as your first and last name, the country you live in, PayPal information, and email address, which will be displayed on your public profile page on Pixabay.
+You may provide certain personal information, such as your first and last name, the country you live in, PayPal address, and email address, which will be displayed on your public profile page on Pixabay.
 
 Whenever you visit a page, our servers automatically record certain information that your web browser sends. This may include information such as your IP address, browser type and language, pages viewed, the date and time. This data is used for ensuring the stability of our provided services and is deleted automatically after seven days.
 
@@ -17,6 +17,10 @@ We reserve the right to disclose your personal information as required by law (e
 ## Cookies
 
 A cookie is a small file containing a string of characters that is sent to your computer when you visit a website. When you visit the website again, the cookie allows that site to recognize your browser. Cookies are used on Pixabay to store visitor preferences and other technical information required for the functionality of the Website. No personal information is stored in these cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies.
+
+## Persons under 16
+
+Pixabay is not marketed toward persons under the age of 16. If we discover that personal information was inadvertently collected about individuals under the age 16, we will promptly delete such information.
 
 ## Third-party service-based information
 
