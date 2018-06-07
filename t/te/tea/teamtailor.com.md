@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamtailor.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702060903id_/https%3A//www.teamtailor.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamtailor.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608005352id_/https%3A//www.teamtailor.com/privacy_policy) for the most accurate reproduction.*
 
 # Teamtailor – Grow your business
 
@@ -78,7 +78,7 @@ www.teamtailor.com
 ÅSÖGATAN 119  
 116 24 Stockholm  
 Stockholms län  
-+46735000131  
++46 (0)10 330 22 22  
 [support@teamtailor.com](mailto:support@teamtailor.com)
 
 _This document was last updated on March 1, 2017_
