@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youdrivewhat.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205142313id_/http%3A//youdrivewhat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youdrivewhat.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607110602id_/http%3A//youdrivewhat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : You Drive What
 
@@ -33,4 +33,4 @@ Wherever we collect sensitive information (such as credit card data), that infor
 
 While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
 
-If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 843-796-1616 or via email at info@youdrivewhat.com.
+If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 843-796-1616 or via email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
