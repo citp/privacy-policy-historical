@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agriculture.gov.au privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210212256id_/http%3A//www.agriculture.gov.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agriculture.gov.au privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607021245id_/http%3A//www.agriculture.gov.au/about/privacy) for the most accurate reproduction.*
 
 # Department of Agriculture and Water Resources Privacy policy - Department of Agriculture and Water Resources
 
