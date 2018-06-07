@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the leanstack.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202083657id_/http%3A//ask.leanstack.com/leanstack-terms-and-policies/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leanstack.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607102239id_/http%3A//ask.leanstack.com/leanstack-terms-and-policies/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ask LEANSTACK
 
-**Effective: March 7, 2017**
+**Effective: May 25, 2018**
 
 #### Introduction
 
@@ -36,13 +36,52 @@ LEANSTACK may also collect and receive the following information:
 
 #### Our Cookie Policy
 
-LEANSTACK uses cookies and similar technologies like single-pixel gifs and web beacons, to record log data. We use both session-based and persistent cookies.
+LEANSTACK uses cookies and similar technologies like single-pixel gifs and web beacons, to record log data. We use both session-based and persistent cookies. 
 
 Cookies are small text files sent by us to your computer and from your computer or mobile device to us each time you visit our website or use our desktop application. They are unique to your account or your browser. Session-based cookies last only while your browser is open and are automatically deleted when you close your browser. Persistent cookies last until you or your browser delete them or until they expire.
 
 Some cookies are associated with your account and personal information in order to remember that you are logged in and which teams you are logged into. Other cookies are not tied to your account but are unique and allow us to carry out site analytics and customization, among other similar things. If you access the Services through your browser, you can manage your cookie settings there but if you disable some or all cookies you may not be able to use the Services.
 
-LEANSTACK sets and accesses our own cookies on the domains operated by LEANSTACK and its corporate affiliates. In addition, we use third parties like Google Analytics for website analytics. You may opt-out of third party cookies from Google Analytics on its website. We do not currently recognize or respond to browser-initiated Do Not Track signals as there is no consistent industry standard for compliance.
+LEANSTACK sets and accesses our own cookies on the domains operated by LEANSTACK. In addition, we use third parties like Google Analytics for website analytics. You may opt-out of third party cookies from Google Analytics on its website. 
+
+#### What can you do if you don't want cookies to be set or want them to be removed, or if you want to opt out of interest-based targeting?
+
+Some people prefer not to allow cookies, which is why most browsers give you the ability to manage cookies to suit you. In some browsers you can set up rules to manage cookies on a site-by-site basis, giving you more fine-grained control over your privacy. What this means is that you can disallow cookies from all sites except those that you trust.
+
+Browser manufacturers provide help pages relating to cookie management in their products. Please see below for more information.
+
+  * [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en-GB)
+  * [Internet Explorer](https://support.microsoft.com/en-us/kb/260971)
+  * [Mozilla Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer)
+  * [Safari (Desktop)](https://support.apple.com/kb/PH5042?locale=en_US)
+  * [Safari (Mobile)](https://support.apple.com/en-us/HT201265)
+  * [Android Browser](http://support.google.com/ics/nexus/bin/answer.py?hl=en&answer=2425067)
+  * [Opera](http://www.opera.com/help)
+  * [Opera Mobile](http://www.opera.com/help/mobile/android#privacy)
+
+
+
+For other browsers, please consult the documentation that your browser manufacturer provides.
+
+You can opt out of interest-based targeting provided by participating ad servers through the Digital Advertising Alliance ([http://youradchoices.com](http://youradchoices.com/)). In addition, on your iPhone, iPad or Android, you can change your device settings to control whether you see online interest-based ads.
+
+If you limit the ability of websites and applications to set cookies, you may worsen your overall user experience and/or lose the ability to access the services, since it will no longer be personalized to you. It may also stop you from saving customized settings, like login information.
+
+#### Does LEANSTACK respond to Do Not Track Signals?
+
+Our Sites and Services do not collect personal information about your online activities over time and across third-party websites or online services. Therefore, “do not track” signals transmitted from web browsers do not apply to our Sites or Services, and we do not alter any of our data collection and use practices upon receipt of such a signal.
+
+#### Email Policies
+
+We are committed to keeping your e-mail address confidential. We do not sell, rent, or lease our subscription lists to third parties, and will not disclose your email address to any third parties except as allowed in the section titled Disclosure of Your Information.
+
+We will maintain the information you send via e-mail in accordance with applicable federal law.
+
+In compliance with the CAN-SPAM Act, all e-mails sent from our organization will clearly state who the e-mail is from and provide clear information on how to contact the sender. In addition, all e-mail messages will also contain concise information on how to remove yourself from our mailing list so that you receive no further e-mail communication from us.
+
+Our emails provide users the opportunity to opt-out of receiving communications from us and our partners by reading the unsubscribe instructions located at the bottom of any e-mail they receive from us at anytime.
+
+Users who no longer wish to receive our newsletter or promotional materials may opt-out of receiving these communications by clicking on the unsubscribe link in the e-mail.
 
 #### How we use your information
 
@@ -114,7 +153,7 @@ LEANSTACK may share or disclose Customer Data and other information as follows:
 
 
 
-We may disclose or use aggregate or de-identified information for any purpose. For example, we may share aggregated or de-identified information with our partners or others for business or research purposes like telling a prospective LEANSTACK Customer the average number of messages sent within a LEANSTACK team in a day or partnering with research firm or academics to explore interesting questions about workplace communications.
+We may disclose or use aggregate or de-identified information for any purpose. For example, we may share aggregated or de-identified information with our partners or others for business or research purposes like telling a prospective LEANSTACK Customer the average number of canvases created within a LEANSTACK team or partnering with research firm or academics to explore interesting questions about innovation practices.
 
 #### Security
 
@@ -129,6 +168,24 @@ Our Services are not directed to children under 13. If you learn that a child un
 #### Changes to this Privacy Policy
 
 We may change this policy from time to time, and if we do we will post any changes on this page. If you continue to use the Services after those changes are in effect, you agree to the revised policy.
+
+#### Data Protection Officer
+
+To communicate with our Data Protection Officer, please email [team@leanstack.com](mailto:team@leanstack.com).
+
+#### Identifying The Data Controller And Processor
+
+Data protection law in certain jurisdictions differentiates between the “controller” and “processor” of information. In general, Customer is the controller of Customer Data. In general, LEANSTACK is the processor of Customer Data and the controller of Other Information. 
+
+#### Your Rights
+
+Individuals located in certain countries, including the European Economic Area, have certain statutory rights in relation to their personal data. Subject to any exemptions provided by law, you may have the right to request access to Information, as well as to seek to update, delete or correct this Information. You can usually do this using the settings and tools provided in your Services account. If you cannot use the settings and tools, contact Customer for additional access and assistance. 
+
+To the extent that LEANSTACK's processing of your Personal Data is subject to the General Data Protection Regulation, LEANSTACK relies on its legitimate interests, described above, to process your data. LEANSTACK may also process Other Information that constitutes your Personal Data for direct marketing purposes and you have a right to object to LEANSTACK's use of your Personal Data for this purpose at any time.
+
+#### Data Protection Authority
+
+Subject to applicable law, you also have the right to (i) restrict LEANSTACK's use of Other Information that constitutes your Personal Data and (ii) lodge a complaint with your local data protection authority. 
 
 #### Contacting LEANSTACK
 
