@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wwitv.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213233901id_/https%3A//wwitv.com/page/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwitv.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607115742id_/https%3A//wwitv.com/page/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -12,7 +12,7 @@ wwiTV does not knowingly collect personally identifiable information from childr
 
 Cookies are data that a Web site transfers to an individual's hard-drive for record-keeping purposes. Cookies, which are an industry standard used by most Web sites, including those operated by wwiTV, can facilitate a user's ongoing access to and use of a site. They allow us to track usage patterns and to compile data that can help us improve our content and target advertising. Our Cookies are no programs that can cause damage to a user's systems or files. If you do not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows you to deny or accept the Cookie feature. But you should note that Cookies may be necessary to provide you with features such as adding your personal favourites.Google, as a third-party vendor, uses cookies to serve ads on wwiTV.com. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the 
 
-[_Google ad and content network privacy policy_](https://www.google.co.uk/privacy_ads.html)
+[_Google ad and content network privacy policy_](https://www.google.com/policies/technologies/partner-sites/)
 
 . You can read our Cookie statement [here](https://wwitv.com/page/cookies.htm)
 
@@ -20,4 +20,4 @@ wwiTV has established many links directly to sites operated by third parties. Th
 
 wwiTV chooses its advertisers and business partners carefully. However, wwiTV is not responsible for the content or practices of Web sites operated by third parties that are linked to our site. These links are meant for the user's convenience only. Links to third party sites do not constitute sponsorship, endorsement or approval by wwiTV of the content, policies or practices of such third party sites. Once you enter a third party site by such a link, you should check the applicable privacy policy of the third party site.
 
-January 26th, 2015
+January 26th, 2018
