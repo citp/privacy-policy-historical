@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the personalloanguides.com privacy policy that was archived on 2017-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171111155241id_/http%3A//www.personalloanguides.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personalloanguides.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608013333id_/http%3A//www.personalloanguides.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Personal Loan Guides
 
