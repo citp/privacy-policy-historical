@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockettheme.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105183251id_/http%3A//www.rockettheme.com/legal/91-privacy-statement%3Ftmpl%3Dcomponent%26type%3Draw) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockettheme.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607185133id_/http%3A//www.rockettheme.com/legal/91-privacy-statement%3Ftmpl%3Dcomponent%26type%3Draw) for the most accurate reproduction.*
 
 # None
 
@@ -10,15 +10,17 @@ The amount, type, and use of information we collect depends on how you use this 
 
 ## Definitions
 
-“Personal Information” includes, your name, address information, personal e-mail address and URL, telephone number, account username and password, credit/debit card numbers and associated billing addresses and expiration dates, bank account numbers, as well as other, similar information. 
+**Personal Information** includes, your name, address information, personal e-mail address and URL, telephone number, account username and password, credit/debit card numbers and associated billing addresses and expiration dates, bank account numbers, as well as other, similar information. 
 
-“Prospect Information” includes the same information as Personal Information except that Prospect Information is information that is submitted by an individual who is not the subject of the data submitted.
+**Prospect Information** includes the same information as Personal Information except that Prospect Information is information that is submitted by an individual who is not the subject of the data submitted.
 
-“Non-Identifying Personal Information” includes information about you, including, without limitation, your Internet service provider, browser type, domain name, the Web Site that referred you to us, the web pages you request, the date and time of those requests, and entry and exit points.
+**Non-Identifying Personal Information** includes information about you, including, without limitation, your Internet service provider, browser type, domain name, the Web Site that referred you to us, the web pages you request, the date and time of those requests, and entry and exit points.
 
-“Business Contact Information” includes the name, title, business address, or telephone number of an employee in an organization. It also includes departmental e-mail addresses that contain no individually identifiable information. Business Contact Information is not Personal Information.
+**Business Contact Information** includes the name, title, business address, or telephone number of an employee in an organization. It also includes departmental e-mail addresses that contain no individually identifiable information. Business Contact Information is not Personal Information.
 
-“Aggregated Information” is any information about more than one individual where the individual identities are unknown and cannot be inferred from the information. Aggregated Information is not Personal Information.
+**Aggregated Information** is any information about more than one individual where the individual identities are unknown and cannot be inferred from the information. Aggregated Information is not Personal Information.
+
+**Cookies** A cookie is a string of information that a service stores on a visitor's computer, and that the visitor's browser provides to the service each time the visitor returns.
 
 ## Collection of Personal Information or Prospect Information
 
@@ -41,6 +43,8 @@ We only collect, use, and disclose Personal Information or Prospect Information 
 We reserve the right to use or disclose Aggregated Information and Business Contact Information in ways that we think are appropriate.
 
 Periodically, we may send you information about our various products and services, or other products and services we feel may be of interest to you. Only RocketTheme (or agents working on behalf of RocketTheme and under confidentiality agreements) will send you these direct mailings. If you do not want receive such mailings, simply tell us when you give us your personal information. Or, at any time you can easily opt-out of RocketTheme's marketing list or update your information by notifying us at support@rockettheme.com. 
+
+RocketTheme uses cookies to help RocketTheme identify and track visitors, their usage of RocketTheme's service, and their service access preferences. RocketTheme visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using RocketTheme's services, with the drawback that certain features of RocketTheme's services may not function properly without the aid of cookies.
 
 ## Agents
 
@@ -95,8 +99,31 @@ When you click on a link on this Web Site that takes you to a web site operated 
 
 Please direct any questions or concerns regarding the use or disclosure of Personal Information or Prospect Information to us by using the Contact Information given below. We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the principles contained in this Privacy Statement. 
 
+## Right to be Forgotten
+
+Through your account settings, you may access, and, in some cases, edit or delete the following information you've provided to us:
+
+  * Name (as provided)
+  * Email Address
+  * Password
+  * Registration Date
+  * Last Visit Date
+  * Subscription/Purchase History
+  * IP Address (For Security Purposes, logged in forum posts and purchase records)
+  * Contact Information and Address as Provided
+
+
+
+The information you can view, update, and delete may change as the service changes. If you have any questions about viewing or updating information we have on file about you, please contact us using our [Contact Page](http://www.rockettheme.com/contact-us). We will respond to your request to access within 30 days.
+
+Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of Personal Information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request via our [Contact Page](http://www.rockettheme.com/contact-us).
+
+If you would like to request to have your personal information removed from our servers, you may do so by submitting a request via our [Contact Page](http://www.rockettheme.com/contact-us).
+
+All requests will be addressed within the time frame required under the new GDPR policies. However, keep in mind that removing your data is permanent and will result in the cancellation of any currently-active services without refund, as well as any loyalty discounts or other benefits accrued during your account’s history.
+
 ## Effective Date 
 
-This Privacy Statement is effective as of July 23, 2008. 
+This Privacy Statement is effective as of May 25, 2018. 
 
-_VERSION 1.3_
+_VERSION 2.0_
