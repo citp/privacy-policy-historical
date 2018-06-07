@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the doctortushy.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130014331id_/http%3A//www.doctortushy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doctortushy.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607061255id_/http%3A//www.doctortushy.com/privacy.html) for the most accurate reproduction.*
 
 # DoctorTushy.com
 
-We appreciate your use of DoctorTushy.com and understand that you may be concerned about your privacy when accessing sites on the Internet. Following is our privacy statement, which is designed to provide you with information on how we obtain, use and disseminate your information. If you have any questions regarding this statement, please contact us at info@DoctorTushy.com
+We appreciate your use of DoctorTushy.com and understand that you may be concerned about your privacy when accessing sites on the Internet. Following is our privacy statement, which is designed to provide you with information on how we obtain, use and disseminate your information. If you have any questions regarding this statement, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 Information Obtained
 
@@ -40,5 +40,5 @@ We do not offer any refunds on memberships to DoctorTushy.com.
 
 Contact
 
-If you have any questions regarding the above Policy Statement, please contact us at info@doctortushy.com  
+If you have any questions regarding the above Policy Statement, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
 
