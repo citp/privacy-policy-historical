@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wate.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224065604id_/http%3A//wate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wate.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607122312id_/http%3A//www.wate.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | East Tennessee | WATE | WATE
+# Privacy Policy - WATE
 
 **Updated: November 06, 2017**
 
