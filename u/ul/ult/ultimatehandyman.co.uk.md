@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimatehandyman.co.uk privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207061920id_/http%3A//www.ultimatehandyman.co.uk/how-to/ultimate-handyman-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatehandyman.co.uk privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608014631id_/http%3A//www.ultimatehandyman.co.uk/how-to/ultimate-handyman-privacy-policy) for the most accurate reproduction.*
 
 # Ultimate Handyman Privacy Policy
 
