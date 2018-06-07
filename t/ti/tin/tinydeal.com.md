@@ -1,51 +1,48 @@
-> *The following text is extracted and transformed from the tinydeal.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231055621id_/https%3A//help.tinydeal.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinydeal.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607044705id_/https%3A//help.tinydeal.com/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Notice - TinyDeal
+# Privacy Policy - TinyDeal
 
-#### TinyDeal Privacy Policy - Safe, Secure Online Shopping
+**HOW WE COLLECT DATA FROM YOU.**
 
-Tinydeal.com values the privacy of our visitors/customers greatly and takes every known precaution to guard the information we collected from unauthorized use. The following is a detailed explanation for the privacy policy of TinyDeal.
+We use cookies (Essential cookies, Performance and functionality cookies, Analytics and customization cookies, Advertising cookies and social network cookies) to provide, protect, and improve our products and services, such as by personalizing content, offering and measuring advertisements, understanding user behavior, and providing a safer experience. 
 
-#### WHAT INFORMATION DO WE COLLECT?
+Visitors to TinyDeal can access the site's home page and browse the site without disclosing any personally identifiable information. We may track information provided to us by your browser, including the web site you came from (known as the "referring URL"), the type of browser you use, the time and date of access, and other information that does not personally identify you. 
 
-TinyDeal believes it is important for you to know what types of information we collect when you visit our site. We have various methods to collect information. The following is a list of the information we collect: Email, Name, Street Address, Post Code, City, Country, Telephone Number, and password.
+TinyDeal may also collect personal information when you provide it to us, such as by requesting e-mail updates and newsletters, responding to a survey or questionnaire from us. 
 
-#### WHY DO WE COLLECT THIS INFORMATION?
+**WHAT INFORMATION DO WE COLLECT.**
 
-We use this information in order to serve the needs of our customers. We need to know who you are in order to verify the credit card information you have sent us. We collect several pieces of personal information from you in order to complete this verification process. The non-personal information that we collect from you is used in order to offer you better service and to make your experience with our site more enjoyable. Any information that we may inadvertently collect from you, that does not serve one of these reasons stated above, is immediately purged from our system.
+Data you provide: We collect the personal data you provide when you use our products and services or otherwise interact with us, such as when you create an account, [Contact Us](https://help.tinydeal.com/contact-us)
 
-#### HOW IS YOUR INFORMATION PROTECTED?
+  * **Data about payments** : If you make a purchase, we collect personal data in connection with the purchase. This data includes your payment data, such as your credit or debit card number and other card information, and other account and authentication information, as well as billing, shipping, and contact details. 
+  * **Data about use of our services and products** : When you visit our websites, we may collect data about the type of device you use, your device's unique identifier, the IP address of your device, your operating system, the type of Internet browser that you use, usage information, diagnostic information, and location information from or about the computers, phones, emails, or other devices on which you install or access our products or services. 
 
-We use the latest in encryption technology, including 128 bit SSL encryption to ensure that any sensitive information that is sent by you to us via the Internet is protected from unauthorized interception. We employ the latest in firewall protection to prevent unauthorized access into our information storage areas. We maintain a rigorous hiring process to screen out potential employees with criminal backgrounds. All employees that we do hire have to sign a confidentiality agreement that forbids them from disclosing any information to which the employee has access, to other individuals or entities. We also have back up servers and power supplies to guard against power outages and other natural occurrences that could pose a threat to the integrity of your personal information. Passwords are required in order for you to gain access to your account. Once an account has been terminated, measures are taken to remove those users from the system who no longer need access to our system. When an employee is terminated or is no longer with the company, we change the access codes that the employee used to access any customer accounts. Account login sessions are terminated after three failed login attempts; all terminated login sessions are logged for follow-up.
 
-#### WHO HAS ACCESS TO MY INFORMATION?
 
-Only those employees that are responsible for handling your account have access to your information. Additionally, employees in our technical department may have access to your information in order to conduct routine checks on the integrity of our system and in order to perform necessary maintenance work. In order to process your credit card we have to consult with an out side credit card processing company. These processing companies are regulated by the banking industry and must meet certain security requirements in order to be in business. The processing companies will have access to your credit card information, billing address, name, and possibly your telephone number. The processing company will communicate with the issuing bank of your credit card in order to get final approval to charge your credit card for the product or services we are providing for you. Should you choose to receive additional information regarding one of our services or products, we may pass your email address to one of our partners who offers similar products or services that you might be interested in. Additionally, judicial requests by a duly authorized court will require us to divulge certain information regarding your account should that situation arise. Finally, should our company ever be bought or sold, your account information would then become the property of the new owner/entity.
+**HOW THE INFORMATION IS USED.**
 
-#### CAN I CORRECT OR REMOVE INFORMATION FROM YOUR SITE?
+Generally speaking, we use personal data to provide, improve, and develop our products and services, to communicate with you, to offer you targeted advertisements and services, and to protect us and our customers. TinyDeal determines and controls how to process your personal data as data controller for the following purposes: 
 
-You always have the option to view your account to make sure the information we have collected from you is indeed correct. You also have the option of removing any information from your account that you wish to keep private. However, please note that removing certain information such as your email address, contact information, and the like may greatly hinder our ability to effectively provide the service or products you have requested. We recommend, that you contact us first to discuss which information you may remove without interrupting the quality of service we intend to provide for you.
+**1\. Providing, improving, and developing our products and services**
 
-#### CAN I OPT OUT OF HAVING CERTAIN INFORMATION COLLECTED?
+We use your personal data to help us provide, improve, and develop our products and services. This may include using personal data for purposes such as complete shopping process, improving the users experiences, data analysis, research. Such processing is based on your prior express consent or our legitimate interest in offering you products and services. We encourage you to read those rules of privacy policy carefully before participating. If you no longer wish to agree above services we provide, please contact us to opt-out. 
 
-have the option of disabling your computer's ability to accept or transmit cookies. This will prevent us from gathering certain non-personally identifiable information from you. You also have the option of removing yourself from any email distribution list that you may have signed up for.
+**2\. Communicating with you**
 
-#### NOTICE OF CHANGES TO THIS PRIVACY POLICY
+Subject to your prior express consent, we may use personal data to send you marketing communications in relation to our own products and services, communicate with you about your account or transactions, and inform you about our policies and terms. If you no longer wish to receive email communications for directly marketing purposes, you can just click "unsubscribe" to opt-out. If you no longer wish to agree above services we provide, please contact us to opt-out. 
 
-We reserve the right to change this privacy policy at any time. However, if any changes do occur, we will publish the changes to our web site and post a notice on the home page that a new privacy policy has been implemented. We will also take reasonable steps to contact you personally to let you know of the new changes. Should the company be bought or sold to someone else, we will take reasonable steps to notify you personally. You will then be given the option to keep your account open or to terminate.
+**3\. Offering and measuring targeted advertisements and services**
 
-**ABOUT TINYDEAL NEWSLETTER**
+Subject to your prior express consent, we may use your personal data to personalize your experience with our products and services and on third-party websites and applications and to determine the effectiveness of our promotional campaigns. You are free to choose whether receive promotion information or not. If you no longer wish to agree above services we provide, please send e-mail to us to opt-out or choose "unsubscribe" to opt out in those e-mails. 
 
-TinyDeal Newsletter will be send out regularly, with the latest updates on new arrivals, recent hottest deals, special offers and bargains, as well as the exclusive coupons and discounts to our email subscribers. [We respect your privacy](http://www.dealsdirect.com.au/privacy/) and will not disclose your details to any third party. You can click on the unsubscribe link on each email to unsubscribe TinyDeal at any time.
+**4\. Promoting safety and security**
 
-**QUESTIONS OR CONCERNS**
+Subject to your prior express consent, we may use some technology measures to protect your personal data for helping verify accounts and user normal activities, as well as to promote data safety and security, such as by monitoring fraud and investigating suspicious or potentially illegal activity or violations of our terms or policies. Such processing is based on our legitimate interest in helping ensure the safety of our products and services. 
 
-Questions regarding our Privacy Policy, or other policy related material can be directed to our support staff by clicking on the "[Contact Us](https://help.tinydeal.com/contact-us)" link in the side menu. Or through the following ways: 
+We use the latest in encryption technology, including VeriSign 256bits SSL encryption to ensure that any sensitive information that is sent by you to us via the Internet is protected from unauthorized interception. We employ the latest in firewall protection to prevent unauthorized access into our information storage areas. We maintain a rigorous hiring process to screen out potential employees with criminal backgrounds. All employees that we do hire have to sign a confidentiality agreement that forbids them from disclosing any information to which the employee has access, to other individuals or entities. We also have back up servers and power supplies to guard against power outages and other natural occurrences that could pose a threat to the integrity of your personal information. Passwords are required in order for you to gain access to your account. Once an account has been terminated, measures are taken to remove those users from the system who no longer need access to our system. When an employee is terminated or is no longer with the company, we change the access codes that the employee used to access any customer accounts. Account login sessions are terminated after three failed login attempts; all terminated login sessions are logged for follow-up. 
 
-Tel: (+86) 755-2919 4488     
+We take reasonable steps to ensure that your personal data is accurate, complete, and up to date. You have the right to access, correct, or delete the personal data that we collect. You are also entitled to restrict or object, at any time, to the further processing of your personal data. You have the right to receive your personal data in a structured and standard format. You may lodge a complaint with the competent data protection authority regarding the processing of your personal data. 
 
-Email: [sales@tinydeal.com](mailto:sales@tinydeal.com)
+To protect the privacy and the security of your personal data, we may request data from you to enable us to confirm your identity and right to access such data, as well as to search for and provide you with the personal data we maintain. There are instances where applicable laws or regulatory requirements allow or require us to refuse to provide or delete some or all of the personal data that we maintain. 
 
-Hong Kong Contact Address:
-
-P.O. Box No.1225, Tsuen Wan Post Office, Hong Kong 
+You may [Contact Us](https://help.tinydeal.com/contact-us) or send us email direct through Email: [sales@tinydeal.com](mailto:sales@tinydeal.com) to exercise your rights. We will respond to your request in a reasonable timeframe, and in any event in less than 5 days. 
