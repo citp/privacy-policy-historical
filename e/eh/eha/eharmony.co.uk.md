@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eharmony.co.uk privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115150932id_/https%3A//www.eharmony.co.uk/privacy/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eharmony.co.uk privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607194954id_/https%3A//www.eharmony.co.uk/privacy/policy) for the most accurate reproduction.*
 
 # eHarmony Privacy Policy
 
@@ -6,141 +6,286 @@
 
 ## General Information
 
-eHarmony is committed to protecting your privacy. eHarmony will only collect, use, disclose and store any personal information in accordance with the UK Data Protection Act 1998 (the "Act") and this privacy statement.
+**Welcome to eHarmony! At eHarmony ("we", "us", "our") we value your privacy and trust, so we’re providing you with all the information in this Privacy Policy about how we handle your data, who we share it with, your rights around the data, and our company, as well as our products and applications (including eHarmony's mobile applications, downloadable products and applications and pages operated by eHarmony on social networking sites and other platforms) (collectively, the "Services").**
 
-This privacy statement discloses the privacy practices for the eHarmony.co.uk website, which may be accessed through [www.eHarmony.co.uk](https://www.eharmony.co.uk/), or through related URL's such as [https://www.eHarmony.co.uk/singles/](https://www.eharmony.co.uk/singles/). This privacy statement (together with the eHarmony [Terms and Conditions of Service](https://web.archive.org/about/terms) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. By agreeing to use eHarmony's products and services you agree that you will allow eHarmony to use your personal information together with any sensitive personal information, such as your ethnic origin, in conformity with the processes set out in the eHarmony [Terms and Conditions of Service](https://web.archive.org/about/terms) and this privacy statement.
+This Privacy Policy applies beginning May 25, 2018. The previous version of this [Privacy Policy](https://web.archive.org/privacy/pre-gdpr), available here, will apply until then.
 
-For the purpose of the Act, the data controller is eHarmony UK Ltd. of _BM Box 5904, London WC1N 3XX UK_.
+**EFFECTIVE DATE: 25 May 2018.**
+
+For the purposes of EU data protection laws (" **Data Protection Legislation** "), eHarmony UK Ltd is the data controller (i.e. the company which is responsible for, and controls the processing of, your personal data)
 
   
 
 
 * * *
 
-## What Information We Collect
+## 1\. Where this Privacy Policy applies
 
-The types of information that we collect fall under two general categories: personally identifiable information (PII) and non-personally identifiable information (non-PII). PII consists of any information which can be used to specifically identify you as an individual, whereas non-PII consists of aggregate information or any information that does not reveal your identity. The following sections describe how your PII and non-PII are collected by us, and how we use such information.
+This Privacy Policy applies to websites, apps, events and other services operated by eHarmony. For simplicity, we refer to all of these as our " **Service** " in this Privacy Policy.
 
-## How We Collect and Use Information
+Some services may require their own unique privacy policy. If a particular service has its own privacy policy, then that policy - not this Privacy Policy - applies.
 
-  * _Log Files_. Any time you visit the eHarmony website, we gather certain information about your use of our website (such as your IP addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks) to analyze trends, administer the site, track visitor movement in the aggregate, and gather broad demographic information for aggregate use. For example, we log your IP address for system administration purposes. IP addresses are logged to track a user's session. This gives eHarmony an idea of which parts of our site users are visiting. We do not link any of the information in our log files to any other information that would enable us to determine your actual identity. This means that a user's session will be tracked, but the user will be anonymous. We will only link your log files to your personal details, if necessary and in exceptional circumstances, for internal troubleshooting and system performance purposes. We do not share your log files externally. 
-  * _eHarmony Cookies_. We use "cookies" to keep track of some types of information while you are visiting our website or using our services. Cookies are very small files placed on your computer, and they allow us to count the number of visitors to our website and distinguish repeat visitors from new visitors. They also allow us to save user preferences and track user , so that we can continue to develop and improve our service offering. We also use cookie data collected during your visit(s) to our site to recognise you when you visit third party sites that we have partnered with so that we can show you eHarmony advertisements that we think may interest you on those sites ("Targeted Ads"). You always have the right to decide whether to accept or decline cookies, whether for Targeted Ads purposes or otherwise. This is described in more detail in the section below. 
-  * _Session and Persistent Cookies_. Session cookies are temporary and will be erased after you close your browser. Persistent cookies remain on your hard drive unless you manually delete them or until expiration after a set period of time. The primary purposes of persistent cookies are to make logging in to your account an easier process and for performance analytics by us or a trusted partner. First and third party cookies may be session or persistent.
-  * _First Party Cookies_. First party cookies are placed by us on your computer for a variety of purposes including website functionality, tracking length of visitor stay and number of unique visitors to the website, and evaluating the popularity of specific site offerings.
-  * eHarmony first party cookies include: Cookie Name | Cookie Type | Description  
+## 2\. What Information We Collect
+
+We may collect, use, store and transfer different kinds of personal data about you which we have grouped together follows: 
+
+  * **Information You Provide**. When you register, use or subscribe to any of our Services or take part in any interactive features of the Services (such as any contests, games, promotions, quizzes, surveys, research or other services or features), we may collect a variety of information, including: 
+    * **"Contact Data"** such as your name, email address, and phone number 
+    * **"Profile Data"**. " when you complete your profile, you can share with us additional information, such as details on your personality, lifestyle, interests, demographic information, place of work or education, gender, age, dating age range preference, physical characteristics, personal description, life experiences, geographic location and other details about you, as well as content such as photos and videos. To add certain content, like pictures or videos (" **Photos** "), you may allow us to access your camera or photo album. Some of the information you choose to provide us may be considered "special" or "sensitive" in certain jurisdictions, for example your racial or ethnic origins, sexual orientation and religious beliefs. **By choosing to provide this information, you consent to our processing of that information.**
+    * **"Transaction Data"**. such as when you subscribe to a paid service or make a purchase directly from us, you provide us or our payment service provider with information, such as your debit or credit card number or other financial information including, for example, expiration date, name, address, transaction ID, timestamps, and email address. Credit card transactions are processed through industry standard Secure Socket Layer (SSL) and / or strong encryption (3DES) by a third party, which only uses your information for that purpose. 
+    * **Information from Content You Upload**. When you upload photos, videos or other content to the Services, we may collect information about the content, such as the time, date and place the photo or content was taken or uploaded (also known as metadata), and how you use them, who views them or with whom you share. We may also scan and analyse the photos you provide to us using third party services for several purposes, including for anti-fraud purposes, for the assessment of whether the photos are consistent with our Terms of Service, to help identify your interests and activities, such as if your photo includes pets, sports, or trips, and to help us provide better matches for you. 
+    * **"Communications Data"**. if you contact our customer care team, we will collect the information you give us during the interaction. Sometimes, we monitor or record these interactions for training purposes and to ensure a high quality of service. Of course, we also process your chats with other users as well as the content you publish, as part of the operation of the Services. 
+    * When you participate in surveys or focus groups, you give us your insights into our products and services, responses to our questions and testimonials. 
+    * When you choose to participate in our promotions, events or contests, we collect the information that you use to register or enter. 
+    * Where you choose to disclose your comments in the comments section (if any) of our Advice blog. Our Advice blog is made up of posts that are relevant to dating and relationships and is available to our users and visitors. Please consult our Community Guidelines when posting comments on the Advice discussion boards. To request removal of your personal information from our blog or community forum, contact us at [eHadvicealerts@eHarmony.co.uk](mailto:eHadvicealerts@eHarmony.co.uk). 
+  * **Information Automatically Collected**. When you access our Services, we and our third party partners automatically record information from your device and its software, such as your IP address, browser type, Internet service provider, platform type, the site from which you came and the site to which you are going when you leave our website, date and time stamp and one or more cookies that may uniquely identify your browser or your account. When you access our Services using a mobile device, we may also receive or collect identification numbers associated with your device (such as a unique device ID, IDFA, Google AdID), device type, model and manufacturer, mobile device operating system brand and model, phone number, email address, and other apps that you have downloaded (" **Technical Data** "). We also collect information about your usage of, and activity on, our Services (" **Usage Data** "). 
+  * **Information About How You Use the Services**. We may collect information about your participation and actions on the Services. This may include information such as the pages and profiles you view, how you browse the Services and dating insights. It can also include the various functions and features that you use, the connections you make, other friends or contacts you invite to the Services and profile searches you perform, or your use of our applications. 
+  * **Location Data**. We do not currently collect your precise geolocation or any latitude or longitude coordinates for you. Some of the information we collect, for example an IP address, can sometimes be used to approximate a device’s location. In some cases, we assign the latitude and longitude of the centre of a city or state on record for you to your profile as a way to improve our analytics and matches for you. This is a general latitude and longitude and does not correspond to your real time or historical location specifically. 
+  * **Information Provided by Others**. We may be provided with information relating to you or your conduct on the Services by other users of the Services. For example, we will collect your email address if another user tries to refer eHarmony to you. We also collect information that third-party organizations may provide to us, such as contact details, demographic information, Internet navigation details (for example, how your mouse moves on a screen, which tells us if you are a bot or not) or fraud prevention information. Financial institutions or payment processors may also provide us updated payment information or payment methods related to your paid account or paid subscription and services. 
+
+
+
+We may link or combine the personal data we collect about you and the information we collect automatically. This allows us to provide you with a personalised experience regardless of how you interact with us.
+
+We may anonymise and aggregate any of the personal data we collect (so that it does not directly identify you). We may use anonymised information for our business purposes including testing our IT systems, research, data analysis, improving our Services and developing new products and features. We may also share such anonymised information with others.
+
+Where you do not provide the personal data detailed in this Privacy Policy, we may not be able to provide you with the Services.
+
+## 3\. How We Collect and Use Information
+
+The main reason we use your information is to deliver and improve our Services. Additionally, we use your information to help keep you safe and to provide you with advertising that may be of interest to you.
+
+Generally, we will use your personal data in the following circumstances:
+
+  * Where we need to perform the contract we are about to enter into or have entered into with you for the Services. 
+  * Where you have given consent for us to use your personal data and your sensitive personal data to provide certain Services. (You may withdraw your consent for some uses of the data at any time by [contacting us](https://web.archive.org/about/contact/).) 
+  * Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests. 
+  * Where we need to comply with a legal or regulatory obligation. 
+
+
+
+## 4\. Purposes For Which We Will Use Your Personal Data
+
+We have set out in the table below a description of all the ways we plan to use your personal data, and which of the legal bases we rely on to do so. Please [contact us](https://web.archive.org/about/contact/) if you need details about the specific legal basis we are relying on to process your personal data where more than one legal basis has been set out.
+
+Purpose/Activity | Type of data   
+(defined in Section 2 above) | Lawful basis for processing including basis of legitimate interest  
 ---|---|---  
-ADRUM | 1st Party Session | Site performance monitoring  
-accessToken | 1st Party Session | Authentication  
-refreshToken | 1st Party Session | Authentication  
-JSESSIONID | 1st Party Session | Identifies each unique computer or device accessing the site.  
-BIGipServerFront | 1st Party Session | Routing  
-Ehlang | 1st Party Session | User language preference  
-Fblk | 1st Party Persistent | User preference  
-  * _Web Beacons_. "Web beacons" (also known as "clear gifs" and "pixel tags") are small transparent graphic images that are often used in conjunction with cookies in order to further personalize our website for our users and to collect a limited set of information about our visitors. We may also use web beacons in email communications in order to understand the behaviour of our customers. We do not link the web beacons to any information that would enable us to determine the actual identity of any individual. 
-  * _Third Party Cookies and Targeted Advertising._
+To register you as a new member | 
 
-We may use third-party advertising agencies or other service providers to serve ads on our website on behalf of eHarmony or third-party advertisers (e.g., retailers of goods or services). These companies may employ cookies and beacons (also known as single pixel gifs or action tags) to measure advertising effectiveness and to collect information about your use of the eHarmony site to serve you with advertising better tailored to your interests. Any information that these third parties collect via cookies and beacons is anonymous and does not enable them to determine your actual identity. Some of these third-party advertising agencies may be members of the Network Advertising Initiative and/or the Internet Advertising Bureau, which offer you the option to choose whether to receive targeted ads from their member agencies at <https://www.networkadvertising.org/consumer/opt_out.asp> and [https://www.youronlinechoices.co.uk](https://www.youronlinechoices.co.uk/), respectively. We will only share your information with third parties in the ways defined in this privacy statement.
+  * Profile Data 
+  * Contact Data 
+  * Technical Data 
 
-  * eHarmony third party cookies include: Cookie Name | Cookie Type | Description  
----|---|---  
-_utma | 3rd Party Persistent | Google analytics  
-EHOcean | 3rd Party Session | Marketing campaign performance tracking  
-  * _Your Cookie Choices._ You may choose to accept or reject cookies by changing your internet browser setting. However, we rely on cookies for the proper operation of our website and if your browser is set to reject all cookies, the website will not function properly. Users who refuse cookies assume all responsibility for any resulting loss of functionality. Click the "help" menu in your browser's toolbar for information on how to change your settings. For additional information about managing cookies, please visit https://www.allaboutcookies.org/. Keep in mind that cookies are unique to each computer. In order to opt-out of data collection by the use of cookies on any of your other devices, you will be required to repeat this process on each device. 
+| To process your personal, we rely on the following legal bases: 
+
+  * To provide our Service to you 
+  * With your consent in the case of sensitive personal data 
+
+  
+To provide the Services to you, including: 
+
+  * Maintaining a profile, answering questions, and providing information about yourself. 
+  * Analysing your personal data to match you with other users. 
+  * Allowing you to communicate with other users of eHarmony to make a match. 
+  * Enabling you to purchase subscriptions and premium add-ons to enhance your opportunities to make a match with other eHarmony users. 
+
+| 
+
+  * Profile Data 
+  * Contact Data 
+  * Photos 
+  * Communications Data 
+  * Usage Data 
+  * Technical Data 
+  * Transaction Data 
+  * Analytics and other scores used to make matches with other eHarmony users 
+
+|  To process your personal, we rely on the following legal bases: 
+
+  * To provide our Service to you 
+  * With your consent in the case of sensitive personal data 
+  * Necessary for our legitimate interests (in order to improve our Service) 
+
+  
+To manage our relationship with you which will include: 
+
+  * Notifying you about changes to our terms or privacy policy 
+  * Communicate with you. 
+
+| 
+
+  * Profile Data 
+  * Contact Data 
+  * Transaction Data 
+  * Communications Data 
+  * Photos 
+  * Usage Data 
+
+|  To process your personal, we rely on the following legal bases: 
+
+  * To provide our Service to you 
+  * Necessary to comply with a legal obligation 
+
+  
+To enable you to partake in a prize draw, competition or complete a survey | 
+
+  * Profile Data 
+  * Contact Data 
+  * Usage Data 
+  * Any information, content, or submissions required as set force in the contest rules when published 
+
+|  To process your personal, we rely on the following legal bases: 
+
+  * To provide our Service to you 
+  * Necessary for our legitimate interests (to study how customers use our Services, to develop them and grow our business) 
+
+  
+To administer and protect our business, the Services, our website and your personal data (including security, fraud, troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data)  | 
+
+  * Profile Data 
+  * Contact Data 
+  * Technical Data 
+  * Usage Data 
+  * Communications Data 
+  * Third Party Data provided to us by trusted partners, including proprietary scores, red flags, demographic information, usage data, and other information used to determine whether a eHarmony account is being used improperly, accessed by an unauthorized third party, or represents a security or fraud risk to the eHarmony community 
+
+| To process your personal, we rely on the following legal bases: 
+
+  * Necessary for our legitimate interests (for running our business, provision of administration and IT services, cybersecurity, to prevent fraud and in the context of a business reorganisation or group restructuring exercise) 
+  * Necessary to comply with a legal obligation 
+
+  
+To deliver relevant website content and advertisements to you and measure or understand the effectiveness of the advertising we serve to you | 
+
+  * Device ID 
+  * IP Address 
+  * Location (at country, state, city or postal code level) 
+  * Gender 
+  * Age 
+  * Technical Data 
+  * Cookies, pixels or advertising tags 
+  * Usage Data 
+
+|  To process your personal, we rely on the following legal basis: 
+
+  * Necessary for our legitimate interests (to study how customers use our products/services, to develop them, to grow our business and to inform our marketing strategy) 
+
+  
+To use data analytics to improve our website, products/services, marketing, customer relationships and experiences | 
+
+  * Profile Data 
+  * Usage Data 
+  * Technical Data 
+
+|  To process your personal, we rely on the following legal basis: 
+
+  * Necessary for our legitimate interests (to define types of customers for our products and services, to keep our website updated and relevant, to develop our business and to inform our marketing strategy) 
+
+  
+To respond to requests from law enforcement | 
+
+  * Profile Data 
+  * Transaction Data 
+  * Usage Data 
+  * Communications Data 
+  * Location Data (at country, state, city, or postal code level) 
+  * Technical Data, such as IP Address or Device ID 
+  * Any other information we are compelled to provide by law 
+
+|  To process your personal, we rely on the following legal basis: 
+
+  * Necessary to comply with our legal obligations 
+
+  
+  
+## 5\. Marketing
+
+From time to time we may contact you with relevant information about our Services. Most messages we send will be by email. For some messages, we may use personal data we collect about you to help us determine the most relevant information to share with you.
+
+If you do not want to receive such messages from us, you will be able to tell us by selecting certain boxes on forms we use when we first collect your contact details. You can change your marketing preferences by clicking on the unsubscribe link at the bottom of our emails. You can also opt-out of receiving promotional emails and newsletters by clicking on " **My Settings** " option on your eHarmony home page, choosing the " **Email Settings** " link and un-checking the undesired promotions.
+
+## 6\. Disclosure of Your Information to Third Parties
+
+Our Services allow you to share information about yourself with other individuals and other companies, including other users and potential users of the Services or other products or services offered by eHarmony. Consider your own privacy and personal safety when sharing your information with anyone, including information you share through your profile.
+
+We may have to share your personal data with the parties set out below for the purposes in the table above.
+
+  * With other entities within the eHarmony group of companies (namely eHarmony Inc.) in order to provide you with the Services. 
+  * Disclosure to Protect Abuse Victims. We reserve the right, but have no obligation, to disclose any information that you submit to the Services, if in our sole opinion, we suspect or have reason to suspect, that the information involves a party who may be the victim of abuse in any form. Abuse may include, without limitation, elder abuse, child abuse, spousal abuse, neglect, or domestic violence. Information may be disclosed to authorities that we, in our sole discretion, deem appropriate to handle such disclosure. Appropriate authorities may include, without limitation, law enforcement agencies, child protection agencies, or court officials. You hereby acknowledge and agree that we are permitted to make such disclosure. 
+  * Technology Services Providers, including infrastructure partners (such as AWS), customer support service providers, analytics service providers, cybersecurity partners, fraud analytics companies, payment providers, chargeback representation services and similar partners. 
+  * Advertising networks and technology companies that measure advertising performance and attribution. 
+  * Third parties, including consultants, who we engage to provide services on our behalf or to jointly provide services to you, including but not limited to contests and sweepstakes, marketing outreach and analytics, customer support, safety checks, and payment services (such as Cyber Source). 
+  * Social Networks, such as Facebook, where you have given permission to do so or where you have used your social network account to log-in to eHarmony. If you have chosen to do this, your data will be governed by the privacy policy of that social network. 
+  * To, in our discretion, (i) satisfy any applicable law, regulation, subpoena/court order, legal process or other government request, (ii) enforce our Terms of Service, including the investigation of potential violations thereof, (iii) investigate and defend ourselves against any third party claims or allegations, (iv) protect against harm to the rights, property or safety of eHarmony, its users or the public as required or permitted by law and (v) detect, prevent or otherwise address criminal (including fraud or stalking), security or technical issues. 
+  * In connection with any company transaction, such as a merger, sale of assets or shares, reorganization, financing, change of control or acquisition of all or a portion of our business by another company or third party or in the event of bankruptcy, dissolution, divestiture or any related or similar proceedings; and 
+  * We require all third parties to respect the security and privacy of your personal data and to treat it in accordance with the law. The majority of the third parties we share your personal data with are service providers that are permitted to process your personal data for specified purposes and in accordance with our instructions only. Some third parties will process your personal data for their own purposes as data controllers; please refer to their privacy policy which applies to their processing of your personal data. We are not responsible for those third parties. 
 
 
 
-## Other Information We Collect
+## 7\. International Transfers
 
-  * _Registration/Subscription Questionnaires and Personality Profiles_. When you register for or subscribe to any of eHarmony's services, we collect a wide variety of information which we use in order to better understand your personality, find compatible matches which offer the highest possible chance of a successful long-term relationship, or help you grow and strengthen your most important relationships. Based on your answers to our proprietary questionnaires, such as for our Singles product, we build a personality profile which we then use to offer you compatible matches in our Singles service. Your individual responses to the questions in our intake questionnaires will be held strictly confidential. However, you may choose to share the personality profile we create for you as a result of having completed the intake questionnaire with other users or matches, by clicking on the "My Settings" page on your home page and clicking on "Share Settings" to make adjustments. Information collected during the intake questionnaire which may be shared with other users of eHarmony Singles service will be displayed in a strictly anonymous manner with no personally identifying details, and will only be shown to potential match candidates. 
-  * _Aggregate Information_. In addition to the personality profile described above, we collect certain information from you, such as your first name, location, age, occupation, height, ethnicity, and religion, in order to provide more details about you to your matches and users of eHarmony's services. By providing such information to us, you acknowledge that eHarmony has the right to disclose such information to other users in connection with eHarmony's services. You may choose to provide us with your photo(s) or video(s) and by providing us such content, you agree that we may make them available to your match candidates and users of eHarmony services. If you are using our community services, such as Advice, you are in full control of what aggregate information will be disclosed to other visitors. We do not disclose your PII to your match candidates or other users of eHarmony's services. 
-  * _Purchase Information_. eHarmony offers, among other services, a subscriber-based service to users seeking partners, as well as retail sale of products related to successful relationships and personal growth. To process subscriptions or product purchases, we may collect your name, billing address, phone number, email address, shipping address and credit card information. Such information is used primarily to process your order or as otherwise described herein. Credit card transactions are processed through industry standard Secure Socket Layer (SSL) and/or strong encryption (3DES) by a third party, which only uses your information for that purpose. 
-  * _E-mails and Telephone Calls_. We require an e-mail address from you when you register for our services. For paid services such as our Singles services, you will receive one email notification that you have placed an order, and another email notification that your order has been completed (or that your credit card or other method of payment has been rejected for an order renewal). You will be similarly notified of subscription renewal transactions when they occur. For our Singles services, e-mail contact information provided by you is also used primarily to notify you of potential match candidates identified by eHarmony based on your matching criteria and profile. For our community services such as Advice, if you have consented to us doing so, your e-mail address is used to send you newsletters about such services. Once you begin eHarmony's registration process, if you have consented to us doing so, we may also occasionally send you newsletters and e-mail you notifications of special events, product offerings, promotions or special discounts at eHarmony. If you have started, but not completed, the registration process, we may also send you email messages encouraging you to complete the process and become a subscriber. All of the email messages we send you may contain code that enables our database to track your usage of the emails, including whether the email was opened and what links (if any) were clicked. If you would rather not receive emails about new products, promotions or other noteworthy news, please see the section below labelled "Choice/Opt-out". If you have provided us with your telephone number during or after registration or if we obtain your telephone number from a publicly available source after your registration, then we may also contact you by telephone or text message (including to any wireless number) solely in connection with eHarmony services or your account. Please note that if you are registered with the Telephone Preference Service but have provided us with your telephone number, your consent to this Privacy Policy notifies us that you do not for the time being object to receiving marketing telephone calls or text messages from us. If you would rather not receive telephone calls or text messages from eHarmony, you may change or delete your number by clicking on the "My Settings" tab on your home page and the "Account Settings" link therein and making adjustments, or by asking to be removed from our contact list if you receive a call from us. 
-  * _Demographic and Profile Data_. Demographic and profile data is also collected at our site. We use this data to tailor our visitors' experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. Some of this information (i.e., customer demographic information) may be shared with advertisers on a non personally identifiable basis. 
-  * _Online Survey Data_. We may periodically conduct voluntary member surveys. We encourage our members to participate in such surveys because they provide us with important information regarding the improvement of our services. You may also volunteer for certain surveys that we may offer to our users, and any additional rules regarding the conduct of such surveys will be disclosed to you prior to your participation. We do not link the survey responses to any PII, and all responses are anonymous. 
-  * _Information Regarding Your Friends_. eHarmony encourages you to refer a friend to our service by sending us a friend's name and email address. We will keep this information in our database, and send that person a one-time email containing your name and inviting them to visit our site. We will not send them additional emails unless they request more promotional emails or if they sign up for our services. This email will also include a quick and easy way for them to remove their information from our database, if they desire. We ask that you do not abuse this feature by entering names and addresses of those who would not be interested in eHarmony. You may also give gift memberships to your friends, in which case we will use your friends' email address that you provide in order to deliver the gift. Upon subscribing, your friends can change their email preferences via the "My Settings tab" and the "Account Settings" link on their eHarmony home page. 
-  * _Public Forums_. 
+The personal data we collect may be transferred to, and processed and stored in, countries outside of the jurisdiction you are in where we and our third party service providers have operations. If you are located in the European Union ("EU"), your personal data may be processed outside of the EU, including, for example, in the United States; these international transfers of your personal data are made:
 
-Our Advice blog, which is made up of posts that are relevant to dating and relationships, is available to our users and visitors. Please remember that any information that is disclosed in the comments section of any Advice post becomes public information and you should exercise caution when deciding to disclose any personally identifying information. Please consult our [Community Guidelines](https://www.eharmony.com/dating-advice/community-standards) when posting comments on the Advice discussion boards. To request removal of your personal information from our blog or community forum, contact us at eHadvicealerts@eHarmony.co.uk. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
-
-  * _Use for Research_. In addition to the uses outlined above, by using eHarmony.co.uk, you agree to allow eHarmony to use anonymized information from you and your experiences through the Services to continue eHarmony's research into successful relationships and to improve the Services. This research, conducted by psychologists and behaviour research scientists, may be published in academic journals. However, all of your responses will be kept anonymous, and no PII will ever be published. You can find out more about the standards we follow in conducting scientific research by clicking [here](https://www.hhs.gov/ohrp/humansubjects/guidance/belmont.html). 
+  * to a country or territory ensuring an adequate level of protection for the rights and freedoms of data subjects in relation to the processing of personal data as determined by the European Commission; or 
+  * to a the third party that is a member of a compliance scheme recognised as offering adequate protection for the rights and freedoms of data subjects as determined by the European Commission; or 
+  * pursuant to appropriate safeguards, such as the Standard Contractual Clauses (processors) approved by European Commission Decision C(2010)593 or any subsequent version thereof released by the European Commission or the EU-U.S. Privacy Shield. 
 
 
 
-## Mobile Device Additional Terms
+If you wish to enquire further about these safeguards used, please contact us using the details set out at the end of this Privacy Policy.
 
-  * _Mobile Device_ If you use a mobile device to access our site or download any of our applications, we may collect device information (such as your mobile device ID, model and manufacturer), operating system and version information, and IP address. 
-  * _Geo-Location Information._ We do not ask you for, access or track any location-based information from your mobile device at any time while downloading or using our Mobile Apps or services. 
-  * _Push Notifications._ We send you push notifications if you choose to receive them for notifying you of matches for our singles service, letting you know when someone has sent you a message, or for other service-related matters. If you wish to opt-out from receiving these types of communications you may turn them off at the device level. 
+## 8\. Data Security
 
+We have extensive security measures in place to protect the loss, misuse and alteration of the information stored in our database. These measures include the use of Secure Socket Layer (SSL) and/or strong encryption (3DES) technology during credit card transactions and administrative access to site data as well as other proprietary security measures which are applied to all repositories and transfers of user information. We will exercise reasonable care in providing secure transmission of information between your computer and our servers, but given that no information transmitted over the Internet can be guaranteed 100% secure, we cannot ensure or warrant the security of any information transmitted to us over the Internet and hence accept no liability for any unintentional disclosure.
 
+## 9\. Data Retention
 
-## Disclosure of Your Information to Third Parties
+We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for (as set out above), including for the purpose of satisfying and legal, accounting, or reporting requirements.
 
-  * _Disclosure By Law._ You acknowledge and agree that we may disclose information you provide if required to do so by law, at the request of a third party, or if we, in our sole discretion, believe that disclosure is reasonable to (1) comply with the law, requests or orders from law enforcement, or any legal process (whether or not such disclosure is required by applicable law); (2) protect or defend eHarmony's, or a third party's, rights or property; or (3) protect someones health or safety, such as when harm or violence against any person (including you) is threatened. 
-  * _Disclosure to Protect Abuse Victims._ Notwithstanding any other provision of this privacy statement or our Terms and Conditions of Service, we reserve the right, but have no obligation, to disclose any information that you submit to the services, if in our sole opinion, we suspect or have reason to suspect, that the information involves a party who may be the victim of abuse in any form. Abuse may include, without limitation, elder abuse, child abuse, spousal abuse, neglect, or domestic violence. Information may be disclosed to authorities that we, in our sole discretion, deem appropriate to handle such disclosure. Appropriate authorities may include, without limitation, law enforcement agencies, child protection agencies, or court officials. You hereby acknowledge and agree that we are permitted to make such disclosure.
-  * _Disclosure to Trusted Third Parties By Us._ We may share your non-PII with third parties, but not in a manner that would reveal your identity. We may share your PII, sometimes in conjunction with your non-PII, with service providers that may be associated with us to perform functions on our behalf. For example, outsourced customer care agents or technology assistants may need access to your information to perform services for you. Your information will be treated as private and confidential by such service providers and not used for any other purpose than we authorize. In addition, from time to time, we may share PII (such as e-mail or mailing address) about our user base with carefully selected third parties, so they can offer goods and services that we believe may be of interest to our users. If you do not wish to receive offers from our trusted partners, you can change your e-mail preferences at any time by following the steps outlined in the Choice/Opt-Out section below.
-  * _Disclosure to Trusted Third Parties at Your Request._ When purchasing an eHarmony subscription or while visiting our site, we may provide you with advertisements, promotions, sweepstakes and offers from third party providers. If you choose to accept any such offers, you may either (depending on the situation) directly provide your information in connection with the offer to such third party provider, or we will provide your information, including billing information, to the third party provider by pre-populating the offer registration forms. Your information will not be transferred until you actually accept the offer. You may opt-out of the offer at any time up until this point. Please refer to the third party providers own privacy policy (provided on the offer pages) if you have any questions regarding how your information is used by such providers. Please be aware that these offers may be presented on pages framed by an eHarmony website. We do this to provide a seamless experience. Although these offer pages have the look and feel of our websites, you will be submitting your information directly to the third-party advertiser. You agree that we will not be responsible or liable for any loss or damage of any sort incurred as the result of any such dealings, including the sharing of the information you supply to us with third party providers described here, or as the result of the presence of such providers on an eHarmony site.
-  * _Information Transferred As a Result of Sale of Business._ As we develop our business, we may buy or sell assets and, depending on the transaction, your PII may be one of the transferred assets. In the event that we are acquired by another company, your PII may be part of the assets transferred to the acquiring party. If this occurs, you will be notified if there are any material changes to the way your PII is collected or used.
-  * _Information Transferred Overseas._ We process all information, including your PII, via our servers and networks located in the United States or other countries. By using our services and expressly assenting to this privacy policy, you have consented to the overseas transfer of your PII solely for the purpose of providing you the services for which you have registered or to which you have subscribed. We reserve the right to transfer your PII back to Australia. We take all reasonable steps to ensure that all overseas recipients will not hold, use or disclose your PII inconsistently with the National Privacy Principles.
+To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data, and whether we can achieve those purposes through other means, and the applicable legal requirements.
 
+## 11\. Cookies and Similar Technologies
 
+You may have certain rights under applicable data protection laws in relation to your personal data. You have the right to: 
 
-We will only share your information with third parties in the ways defined in this privacy statement.
-
-## Age Restrictions
-
-Our age restrictions are set forth in our [Terms and Conditions of Service](https://web.archive.org/about/terms). We do not target our site or service to children under the age of 13, and any information we may receive from users we believe to be under the age of 13 will be purged from our database.
-
-## Security
-
-We have extensive security measures in place to protect the loss, misuse and alteration of the information stored in our database. These measures include the use of Secure Socket Layer (SSL) and/or strong encryption (3DES) technology during credit card transactions and administrative access to site data, as well as other proprietary security measures which are applied to all repositories and transfers of user information. We will exercise reasonable care in providing secure transmission of information between your computer and our servers, but given that no information transmitted over the Internet can be guaranteed 100% secure, we cannot ensure or warrant the security of any information transmitted to us over the Internet and hence accept no liability for any unintentional disclosure.
-
-## Links to or Access from Other Sites
-
-eHarmony is not responsible for the privacy practices or the content of other websites that may be linked to this site or of any third party advertisers.
-
-## Single Sign-On
-
-You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
-
-## Choice/Opt-Out
-
-We generally retain your PII only for so long as is necessary for the purpose for which it is used, or required by law. As an eHarmony member, you may use the following options for removing your information from our database or if you wish to opt out of receiving future communications.
-
-  1. Go to our website [https://www.eharmony.co.uk](https://www.eharmony.co.uk/) and select our [help link](https://help-singles.eharmony.co.uk/app/home) at the bottom right portion of the page. You will then be able to search our [FAQ's](https://help-singles.eharmony.co.uk/app/home) to find the answer you are looking for, or send us an e-mail and our Customer Care agents will be happy to assist you; or
-  2. Send mail to the following postal address:  
-eHarmony, UK Ltd.  
-BM Box 5904, London WC1N 3XX
-  3. You can also opt-out of receiving promotional emails and newsletters by clicking on My Settings option on your eHarmony home page, choosing the Email Settings link and un-checking the undesired promotions.
+  * The Service uses cookies and similar technologies to distinguish you from other users of the Service. This helps us to provide you with a good experience when you browse the Service and also allows us to improve the Service. 
+  * Cookies are pieces of code that allow for personalisation of the Service experience by saving your information such as user ID and other preferences. A cookie is a small data file that we transfer to your device's hard disk (such as your computer or smartphone) for record-keeping purposes. [Please follow this link to view our Cookie Policy.](https://web.archive.org/about/terms-cookie-policy/)
+  * We use the following types of cookies: 
+    * **Strictly necessary cookies**. These are cookies that are required for the essential operation of the Service such as to authenticate users and prevent fraudulent use. 
+    * **Analytical/performance cookies**. These allow us to recognise and count the number of visitors and to see how visitors move around the Service when they are using it. This helps us to improve the way the Service works, for example, by ensuring that users are finding what they are looking for easily. 
+    * **Functionality cookies**. These are used to recognise you when you return to the Service. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region). 
+    * **Targeting cookies**. These cookies record your visit to our website, the pages you have visited and the links you have followed. We will use this information to make our website and the advertising displayed on it, and the marketing messages we send to you more relevant to your interests. We may also share this information with third parties who provide a service to us for this purpose. 
+    * **Third party cookies**. Please be aware that advertisers and other third parties may use their own cookies tags when you click on an advertisement or link on our website. These third parties are responsible for setting out their own cookie and privacy policies. 
+  * The cookies we use are designed to help you get the most from the Service but if you do not wish to receive cookies, most browsers allow you to change your cookie settings. Please note that if you choose to refuse cookies you may not be able to use the full functionality of the Service. These settings will typically be found in the “ **options** ” or “ **preferences** ” menu of your browser. In order to understand these settings, the following links may be helpful, otherwise you should use the “ **Help** ” option in your browser for more details. 
+    * [Cookie settings in Internet Explorer](https://support.microsoft.com/en-us/products/windows?os=windows-10)
+    * [Cookie settings in Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer?redirectlocale=en-US&redirectslug=Cookies)
+    * [Cookie settings in Chrome](https://support.google.com/chrome/answer/95647?hl=en)
+    * [Cookie settings in Safari web](https://support.apple.com/kb/PH5042?locale=en_GB) and [iOS.](https://support.apple.com/en-gb/HT201265)
+  * We participate in interest-based advertising and use third party advertising companies to serve you targeted advertisements based on your online browsing history and your interests. To do this, we or our advertising partners may collect information about how you use or connect to our Service, or the types of other websites, social media services, content and ads that you (or others using your device) visit or view or connect to our Service. Typically, this information is collected through cookies and similar tracking technologies. 
+  * If you only want to limit third party advertising cookies, you can turn such cookies off by visiting the following links (please bear in mind that there are many more companies listed on these sites than those that drop cookies via our website): 
+    * Your Online Choices ( <http://www.youronlinechoices.com/> ) 
+    * Network Advertising Initiative (<http://www.networkadvertising.org/>) 
+    * Digital Advertising Alliance ([http://www.aboutads.info/consumers](http://www.aboutads.info/consumers/)) 
+  * We also use clear gifs in HTML-based emails sent to our Customers to track which emails are opened and which links are clicked by recipients. The information allows for more accurate reporting and improvement of our Service. You can set your e-mail options to prevent the automatic downloading of images that may contain these technologies that would allow us to know whether you have accessed our e-mail and performed certain functions with it. 
+  * If you would like to find out more about cookies and other similar technologies, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) or the Network Advertising Initiative's online sources at [www.networkadvertising.org](https://www.networkadvertising.org/). 
 
 
 
-## Access to Information
+## 12\. Links To Third Party Sites
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a small administration charge to meet our costs in providing you with the details of the information we hold about you. We will respond to all access requests within 30 days.
+The Service may, from time to time, contain links to and from third party services. If you follow a link to any of these services, please note that these services have their own privacy policies and that we do not accept any responsibility or liability for their policies. Please check the individual policies before you submit any information to those services.
 
-## Correct/Update/Delete personal Information
+## 13\. Our Policy Towards Children
 
-eHarmony provides members with the opportunity to correct, update, or delete personal information that has been provided to us by using the methods below.
+The Service is not directed at persons under 18 and we do not knowingly collect personal data from persons under 18.
 
-  1. You may change your credit card, password and other information by going to "My Settings" option on your eHarmony home page and selecting "Account Settings" link in the top navigation area;
-  2. You can select our [help link](https://help-singles.eharmony.co.uk/cgi-bin/eharmony_singlesuk.cfg/php/enduser/guided_alp.php) at the bottom right portion of your eHarmony home page or on the [https://www.eHarmony.co.uk](https://www.eharmony.co.uk/) website. You will then be able to search our [FAQ's](https://help-singles.eharmony.co.uk/cgi-bin/eharmony_singlesuk.cfg/php/enduser/guided_alp.php) to find the answer you are looking for or [send us an e-mail](https://help-singles.eharmony.co.uk/cgi-bin/eharmony_singlesuk.cfg/php/enduser/std_adp.php?p_faqid=378) and our Customer Care agents will be happy to assist you; or
-  3. You may also request an account information update by sending a detailed letter to the postal address listed above. 
+## 14\. Changes To This Policy
 
+We evaluate our privacy policies and procedures to implement improvements and refinements from time to time. Accordingly, we may update this Privacy Policy from time to time, and so you should review this page periodically. If we make material changes to this Privacy Policy, we will update the "last updated" data at the start of this Privacy Policy. Changes to this Privacy Policy are effective when they are posted on this page.
 
+## 15\. Notice To You
 
-## Dispute Resolution
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
-
-## Acceptance of Privacy Statement
-
-Your use of our website(s), including any dispute concerning privacy, is subject to this privacy statement and the applicable [Terms and Conditions of Service](https://web.archive.org/about/terms/). 
-
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail or other suitable means. Your continued use of any section of our website following posting and/or notification of the updated privacy policy will constitute your acceptance of the privacy policy as amended.
-
-## Effective Date
-
-This privacy statement was last revised on December 7, 2016.
+If we need to provide you with information about something, whether for legal, marketing or other business related purposes, we will select what we believe is the best way to get in contact with you. We will usually do this through email or by placing a notice on the Service. The fact that we may send notices to you will not stop you from being able to opt out of certain types of contact as described in this Privacy Policy.
 
 eHarmony.co.uk uses cookies to enhance your onsite experience. Please see our [Cookie Policy](https://web.archive.org/about/terms-cookie-policy/) for additional details. close
