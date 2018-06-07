@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysmallbiz.com privacy policy that was archived on 2017-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170924004723id_/http%3A//www.mysmallbiz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysmallbiz.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607100917id_/http%3A//www.mysmallbiz.com/privacy) for the most accurate reproduction.*
 
 # MySmallBiz.com Privacy Policy | Small Business Ideas - MySmallBiz.com
 
