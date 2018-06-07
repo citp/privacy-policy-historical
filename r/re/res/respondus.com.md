@@ -1,108 +1,117 @@
-> *The following text is extracted and transformed from the respondus.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208125634id_/http%3A//respondus.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the respondus.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608012345id_/http%3A//www.respondus.com/about/privacy.shtml) for the most accurate reproduction.*
 
-# Respondus.com Privacy Statement
+# Respondus Privacy Policy
 
-Respondus, Inc. ("Respondus") has created this statement to explain our commitment to your privacy. We seek to protect your private information so that you have an enjoyable experience on our website. We will not sell, rent, trade, or disclose your personally identifiable information to anyone except as explained in this policy.
+RESPONDUS  
+PRIVACY POLICY  
+Last Revised: May 22, 2018
 
-Please return to this page from time to time, as we will be updating this statement to accommodate additional products and services. We welcome and encourage questions, comments, and suggestions. Please contact us at privacy@respondus.com.
+This Privacy Notice is effective as of May 25, 2018.
 
-## **Personally Identifiable Information**
+## **Overview**
 
-## Definition of Personally Identifiable Information
+Respondus cares about your privacy. For this reason, we collect and use personal data only as it might be needed to deliver an exceptional experience using a Respondus application, website, service, or tool (collectively "Services"), regardless of how you access or use them, including through mobile devices.
 
-"Personally identifiable information" is your name, company, address, e-mail address, phone number(s) and credit card information. 
+Our Privacy Policy is intended to describe how and what data we collect, and how and why we use your personal data. It also describes options we provide that let you take control of your personal data that we process. 
 
-## Where We Collect Personally Identifiable Information
+If at any time you have questions about our practices or any of your rights described below, you may contact us at [privacy@respondus.com](mailto:privacy@respondus.com). This inbox is actively monitored and managed so we can deliver an experience that you can trust. 
 
-Respondus.com collects personally identifiable information when you (1) register or create an account for a product, (2) make a purchase, (3) sign up for a beta program, newsletter, or similar program, (4) open a support ticket or seek technical assistance, (5) submit feedback, or other inquiries.
+Similarly, we've created a [Privacy Center](https://web.archive.org/about/privacy/privacycenter.shtml) to provide answers to your most common questions and service-specific details about personal data collection and usage. 
 
-## How We Use Personally Identifiable Information
+## **What is Personal Information?**
 
-Respondus uses your personally identifiable information to provide access to a service offered by Respondus, to bill your credit card for purchases, to confirm your orders, to prevent fraud against you, and to contact you. For example, when you place an order with Respondus, we need to know your name, institution, e-mail address, address, and credit card information. This allows us to fulfill your order and notify you of your order status. 
+Personal Information is a name, address, telephone number, email address, identification number, online identifier, and other data collected that could directly or indirectly identify you. 
 
-Respondus websites also compile aggregate data from all of our visitors and registered users to prepare internal reports about which pages are popular, how many total unique users visit our site, and different traffic patterns.
+We do not consider personal information to include information that has been anonymized or aggregated so that it can no longer be used to identify a specific natural person, whether in combination with other information or otherwise. 
 
-## Who We Disclose Personally Identifiable Information To
+## **What information do we collect?**
 
-Respondus will not sell, rent, trade or disclose your personally identifiable information to anyone except as explained in this policy. 
+We collect information so we can provide the best possible experience when you use our Services. Much of what you likely consider personal data is collected directly from you when you:
 
-We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, marketing our products, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, processing credit card payments, and providing customer service. These companies have access to personal information needed to perform their functions, but may not use it for other purposes or share it with an additional party,
+  1. create an account or purchase any of our Services (e.g. name, address, email, phone number, and other billing information);
+  2. interact with an account manager (e.g. email, phone number, address, job title, institution);
+  3. request assistance from our customer support team (e.g. email, phone number); 
+  4. complete contact forms, register a product, sign up for a beta program, submit feedback, sign up for a newsletter, or request other information from us (e.g. email); or,
+  5. participate in contests and surveys, visit our exhibit at a tradeshow, attend a training webinar, or otherwise participate in activities we promote that might require information about you. 
 
-Respondus may also disclose your personal information to law enforcement personnel, government officials, or others when we, in our sole discretion, believe that disclosure is necessary to prevent violations of the law, injury to person or property, or any harm to Respondus websites, services, or others.
 
-As we continue to develop our business, we might sell or buy companies or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the event that Respondus, or substantially all of its assets are acquired, customer information will likely be one of the transferred assets.
 
-## Third-Party Service Providers 
+We also collect additional information when delivering our Services to you to ensure necessary and optimal performance. This might include account related information that's collected in association with your use of our Services, such as account number, purchases, when products renew or expire, information requests, and customer service requests and notes or details explaining what you asked for and how we responded. 
 
-We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, processing payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
+We may also collect information when you open or view a marketing email from us or click on a link within a marketing email. 
 
-Individual student purchases of Respondus Monitor will redirect the user to PayPal, a secure web site that automatically encrypts confidential information transmitted from the computer to PayPal using the Secure Sockets Layer protocol (SSL) with 128 bit encryption. Credit card or debit information is used only for that particular transaction and is not stored by Respondus. A name and email address is gathered during the purchase but this information will only be used for matters relating to the transaction itself. For information about the privacy policy for PayPal, please click [here](https://cms.paypal.com/cgi-bin/marketingweb?cmd=_render-content&content_ID=ua/Privacy_full&locale.x=en_US). 
+Our [Privacy Center](https://web.archive.org/about/privacy/privacycenter.shtml) provides further details about the personal information gathered across various Services, how that information is used, and the legal basis for using the data. 
 
-## **Software Updates**
+## **Cookies and similar technologies**
 
-Some Respondus products will periodically and automatically check for a software update at a Respondus website. No information about your computer hardware and software is collected by Respondus, Inc. during this process. Instead, the Respondus software retrieves information from the Respondus website and will display a message if an update is available.
+Cookies and similar tracking technologies store information about your use of a particular website or service and are typically used to make services more convenient and personalized. Most cookies are "session cookies," which are automatically deleted whenever you leave a website (and end the "session"). Some cookies remain on your computer until you remove them.
 
-## **Security**
+We use cookies and similar tracking technologies on our websites (1) to estimate the number of visitors to the site, (2) to measure general traffic patterns, (3) to store the items you've placed in your shopping cart, and (4) to improve and customize your user experience with our Services. For additional information, and to learn how to manage the technologies we utilize, you can read our policy on [our use of cookies, web beacons and similar technologies](https://web.archive.org/about/privacy/cookies.shtml). 
 
-## How We Protect Your Information
+Most browsers permit you to set the browser to accept, reject, or notify you of cookie use. However, some parts of our Services may not function properly if your browser is set to reject cookies. For example, the Administrator Area of Respondus.com uses session cookies to allow a user to navigate from one page to the next without having to login again for each page.
 
-Every time you order a product from a Respondus website, it will be transmitted on a secure server (SSL) that encrypts all of your personal information before it is sent to us. 
+## **How we use your personal information**
 
-No data transmission over the Internet can be guaranteed to be 100% secure. Although Respondus, Inc. is committed to protecting your personal information, we cannot ensure or warrant the security of any information you send to Respondus, and you do so at your own risk. 
+We strongly believe in both minimizing the data we collect and limiting its use and purpose to only (1) that for which we have been given permission, (2) that which is necessary to deliver the Services you purchase or interact with, or (3) as we might be required or permitted for legal compliance or other lawful purposes.
 
-## **Cookies and Privacy**
+We collect various information relating to your purchase or use and/or interactions with our Services to deliver, improve, update and enhance the Services we provide you. We use this information to: 
 
-## What A Cookie Is
+  * Improve and optimize the operation and performance of our Services (again, including our websites and mobile applications)
+  * Diagnose problems with and identify any security risks, errors, or needed enhancements to the Services
+  * Detect and prevent fraud and abuse of our Services and systems
+  * Collect aggregate statistics about use of the Services
+  * Understand and analyze how you use our Services and what products and services are most relevant to you.
 
-A "cookie" is a small piece of data that is sent to your browser from a Web server and stored on your computer's hard drive. Cookies (and similar tracking technologies such as web beacons) store information about your use of a particular website or service and are typically used to make services more convenient and personalized. Most cookies are "session cookies," which are automatically deleted whenever you leave a web site (and end the "session"). Some cookies remain on your computer until you remove them. 
 
-## How We Use Cookies
 
-We use cookies on Respondus websites (1) to estimate the number of visitors to our web site, (2) to measure general traffic patterns, (3) to store the items you've placed in your shopping cart, and (4) to improve your user experience. Most browsers permit you to set the browser to accept, reject, or notify you of cookie use. However, some parts of the Respondus websites may not function properly if your browser is set to reject cookies. 
+Often, much of the data collected is aggregated or statistical data about how individuals use our Services, and is not linked to any personal data, but to the extent that usage data is itself personal data, or is linked or linkable to personal data, we treat it accordingly.
 
-The Administrator Area of Respondus.com (used only by campus-wide licensees of Respondus applications) also uses session cookies that allow the user to navigate from one page to the next without having to login again for each page.
+## **How we might share your personal information**
 
-In addition, some Respondus applications use cookies, as described below:
+We do not sell, rent, or otherwise disclose your personal information to third parties for their marketing and advertising purposes. We may disclose your personal information to partner companies where you have agreed to have that information shared. This disclosure may be required for us to provide you access to our Services, to comply with our legal obligations, to enforce our Terms of Use, to facilitate our marketing activities, or to prevent, detect, mitigate, and investigate fraudulent or illegal activities related to our Services. We attempt to minimize the amount of personal information we disclose to what is directly relevant and necessary to accomplish the specified purpose. 
 
-**Respondus 4.0**  
-Respondus 4 is an offline authoring tool for creating, managing and publishing online assessments. 
+If you use our Services from a country other than the country where our servers are located, your communications with us may result in the transfer of your personal data across international borders. Also, when you call us or initiate contact with a Respondus representative, we may provide you with support from one of our global locations outside your country of origin. In these cases, your personal data is handled according to this Privacy Policy.
 
-Respondus 4 also has an integration with the Respondus Test Bank Network, which contains official publisher test banks formatted for Respondus applications. The Test Bank Network feature within Respondus 4 uses a session cookie that allows the user to navigate from one page of the Test Bank Network feature to the next page without having to login on each page.
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (such as subpoena requests), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. To the extent we are legally permitted to do so, we will take reasonable steps to notify you in the event that we are required to provide your personal information to third parties as part of a legal process.
 
-**StudyMate.com**  
-StudyMate.com is a cloud-based service for creating self-assessments and learning games and sharing them with others. StudyMate.com uses a session cookie that allows the user to navigate from one page to the next without having to login again at each page. Cookies also enable the tracking of activities completed, activity scores, etc.
+## **How we might communicate with you**
 
-## Cookies and Third-Party Service Providers
+We may contact you directly regarding products or services you have purchased from us, such as may be necessary to deliver transactional or service related communications. We may also contact you regarding products or services when additional information is requested. We may contact you with offers for additional services we think you'll find valuable if you give us consent, or where allowed based upon legitimate interests. These contacts may include email, text (SMS) messages, telephone calls, and printed mailings. 
 
-In addition to using our own cookies, we work with other companies to help provide you with the best experience on our websites. Cookies or web beacons may be used to transmit information to the servers of our service providers, such as Google Analytics and AdWords. This allows us to analyze and improve our website and marketing based on anonymous information about browsing activity on the site. These third-party service providers may also retain and use anonymous, aggregated data for their businesses, such as to improve their products and services.
+## **How you can access, update or delete your data**
 
-On our website, we may collect information about your online activities for use in offering you tailored advertisements about our products. We may use features of Google Analytics for Display Advertisers. This includes obtaining specific visitor cookie data, such as the source, medium and keywords used to visit our Site. This automated technology helps us track and manage the effectiveness of our marketing efforts.
+To update your subscription preferences or discontinue receiving marketing emails from us, scroll to the bottom of a Respondus email message and select the "Unsubscribe" or "Profile Center" link. Follow the instructions from there. 
 
-You may see Respondus ads on other websites based on your visits to our websites because we participate in third-party advertising networks, such as Google Adwords remarketing service. These allow us to target customized messaging based on users' demographic data, browsing history and inferred interests. The networks track your browser across multiple websites, and use this information to show you advertisements that are targeted to suit your interests.
+You can also email [subscribe@respondus.com](mailto:subscribe@respondus.com) with instructions on your communication preferences; to unsubscribe from all email communications, include the word UNSUBSCRIBE in the subject line.
 
-Users may opt out of Google's use of cookies by visiting the Google Advertising Opt-out Page or the Google Analytics Opt-out Page. Users may opt out of third party vendor use of cookies by visiting the [Network Advertising Initiative Opt-out Page](http://www.networkadvertising.org/choices/).
+If you would like to request that your personal information be completely removed from our database, please contact us at [privacy@respondus.com](mailto:privacy@respondus.com). 
 
-## **Children and Privacy**
+## **How we secure, store and retain your data**
 
-## Our Policy For Guests Under Age 18
+We follow generally accepted standards to store and protect the personal data we collect, both during transmission and once received and stored, including the use of encryption where appropriate.
 
-Respondus websites are committed to protecting the privacy of children. We encourage parents and guardians to explore the Internet with their children or students. Most Respondus websites require users to be at least 18 years old. The Respondus website StudyMate.com requires users to be 13 years old to create an account. Visitors or users to these websites under these ages should not submit any personally identifiable information to Respondus.
+We retain personal data only for as long as necessary to provide the Services you have requested and thereafter for a variety of legitimate legal or business purposes. These might include retention periods:
 
-## **How You Can Change Your Information**
+  * mandated by law, contract or similar obligations applicable to our business operations;
+  * for preserving, resolving, defending or enforcing our legal/contractual rights; or
+  * as needed to maintain adequate and accurate business and financial records.
 
-## Updating, Correcting, Or Deleting Your Information
 
-Most Respondus websites store account information offline for added security, so there is no provision for you to manually edit your account information via the web browser. 
 
-If you receive an e-mail from us, you can have your e-mail address edited or deleted from a particular list by replying to the e-mail message with the word REMOVE as the subject. There may be additional links in the e-mail message that enable you to remove your e-mail address from a particular list. 
+If you have any questions about the security or retention of your personal data, you can contact us at [privacy@respondus.com](mailto:privacy@respondus.com).
 
-Please understand that we maintain different mailing lists, such as one for registered users of Respondus 4 and another for people who have signed up to participate in a beta program. If you have provided us information at different times or for different purposes, it may be necessary to have your e-mail address removed from multiple lists. 
+## **Changes in our Privacy Policy**
 
-## **Contact Information**
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes on our website and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we make material changes to this Privacy Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
 
-If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, you can contact 
+If you have any questions, concerns or complaints about our Privacy Policy, our practices or our Services, you may contact us by email at [privacy@respondus.com](mailto:privacy@respondus.com). 
 
-> Respondus, Inc.  
->  P.O. Box 3247  
->  Redmond, WA 98073-3247  
->  privacy@respondus.com
+If you prefer, you can send correspondence to: 
+
+> Respondus   
+>  Attn: Legal – Privacy Team  
+>  8201 164th Ave NE, Suite 200  
+>  Redmond, WA 98052  
+>  USA
+
+We will respond to all requests, inquiries or concerns within thirty (30) days, but probably much sooner than that. 
