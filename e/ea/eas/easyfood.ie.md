@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the easyfood.ie privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905025318id_/http%3A//easyfood.ie/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyfood.ie privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607193358id_/http%3A//easyfood.ie/home/privacy-policy) for the most accurate reproduction.*
 
-# Easy Food | Privacy policy
+# Privacy policy | Easy Food
 
 **Zahra Media Group Privacy Policy**
 
@@ -10,29 +10,24 @@ Zahra Media Group is committed to ensuring that your privacy is protected. Shoul
 
 Zahra Media Group may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from Jan 1st 2012.
 
-**What we collect**
+### What we collect
 
 We may collect the following information:
 
-• Name and/or Job Title
+  * Name and/or Job Title
+  * Contact information including email address
+  * Demographic information such as postcode, preferences and interests
+  * Other information relevant to usage habits of our mobile Apps such as purchases and usage
 
-• Contact information including email address
 
-• Demographic information such as postcode, preferences and interests
 
-• Other information relevant to usage habits of our mobile Apps such as purchases and usage
-
-What we do with the information we gather
-
+### What we do with the information we gather  
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-• Internal record keeping.
-
-• We may use the information to improve our products and services.
-
-• We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-
-• We will never pass on your information to any third party without your knowledge and permission
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * We will never pass on your information to any third party without your knowledge and permission
 
 **Security**
 
@@ -51,3 +46,6 @@ Our products may contain links to other websites or Apps of interest. However, o
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please email us at info@zahramediagroup.com as soon as possible. We will promptly correct any information found to be incorrect.
+
+
+
