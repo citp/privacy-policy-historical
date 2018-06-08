@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fullcompass.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210155255id_/http%3A//www.fullcompass.com/news/88.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullcompass.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608192207id_/http%3A//www.fullcompass.com/news/88.html) for the most accurate reproduction.*
 
 # Privacy Statement | Full Compass
 
@@ -12,6 +12,11 @@
 
 
 #### How We Use Collected Information
+
+Full Compass Systems is committed to your privacy and compliance with the General Data Protection Regulation (GDPR), a new EU data privacy regulation that will go into effect May 25, 2018. The regulation is designed to give EU citizens more control over their data and to unify a number of existing privacy and security laws under one comprehensive law.
+
+If you are a European resident, you have the right to access personal information Full Compass holds about you and to ask that your personal information be corrected, rectified, exported, updated, or deleted.  
+If you would like to exercise this right, please notify us through the contact information below.
 
 We use collected information for the purpose of administering our business activities such as completing and tracking orders, customer service, administering giveaways and other promotions, customizing the shopping experience, troubleshooting, improving the website design and functionality, etc. From time to time, we may send you promotional messages by mail or email. You always have the ability to [opt out](https://web.archive.org/news/88.html#optout) of such communications.
 
