@@ -1,68 +1,50 @@
-> *The following text is extracted and transformed from the mariaandros.com privacy policy that was archived on 2017-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171027042719id_/http%3A//www.mariaandros.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mariaandros.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608213818id_/http%3A//www.mariaandros.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Maria Andros
 
-Maria Andros International. and our affiliated companies worldwide are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information (“Personal Information”) you share with us.
+Last updated May 24, 2018.
 
-Video Marketing Queen, Inc. (hereinafter referred to as “COMPANY”) has established this Online Privacy Policy so that you can understand the care with which we intend to treat your Personal Information.
+Maria Andros International (“Maria Andros International”) operates http://www.mariaandros.com and may operate other websites. It is Maria Andros International’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
-Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information, whether at work or at home. In general, you can visit COMPANY Web pages without telling us who you are or revealing any Personal Information about yourself.
+**Website Visitors**
 
-COMPANY strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, COMPANY intends to adhere to the principles set forth in this Online Privacy Policy even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an “adequate” level of protection for your Personal Information. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained.
+Like most website operators, Maria Andros International collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Maria Andros International’s purpose in collecting non-personally identifying information is to better understand how Maria Andros International’s visitors use its website. From time to time, Maria Andros International may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-### Cookies and Other Tracking Technologies
+Maria Andros International’s also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on http://www.mariaandros.com blogs/sites. Maria Andros International’s only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
 
-Some of our Web pages utilize “cookies” and other tracking technologies. A “cookie” is a small text file that may be used, for example, to collect information about Web site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a Web user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.
+**Gathering of Personally-Identifying Information**
 
-You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re- enter your original user ID and password to gain access to certain parts of the Web site as well as break the tracking to affiliate commissions.
+Certain visitors to Maria Andros International’s websites choose to interact with Maria Andros International in ways that require Maria Andros International to gather personally-identifying information. The amount and type of information that Maria Andros International gathers depends on the nature of the interaction. For example, we ask visitors who sign up at http://www.mariaandros.com to provide a username and email address. Those who engage in transactions with Maria Andros International are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Maria Andros International collects such information only in so far as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Maria Andros International. Maria Andros International does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; click-stream patterns; and dates and times that our site is accessed. Our use of cookies and other tracking technologies allows us to improve our Web site and your Web experience. We may also analyze information that does not contain Personal Information for trends and statistics.
+**GDPR Compliance**
 
-To protect your privacy, we have adopted the following principles:
+Your data will be retained until you request us to delete it, or until 18 months passes without any action from you including opening an email, purchasing a product, and visiting our website pages. If you provide us with any of your personal information such as your name, email, phone number, address, or credit card for a purchase, then you have the right to request to view all of the information you’ve provided, to correct any of your information, or request us to delete it from our database. You can exercise this right by clicking on the link you’ll find for data request in the footer of our website as well as in the footer of each email.
 
-  * Notice
-  * Choice
-  * Security
-  * Access/Accuracy
+If you have a concern about how the data that you’ve provided is being used, or if you have a complaint you’d like to file regarding your personal information, you can contact us at the email support@mariaandros.com.
 
+**Aggregated Statistics**
 
+Maria Andros International may collect statistics about the behavior of visitors to its websites. Maria Andros International may display this information publicly or provide it to others. However, Maria Andros International does not disclose personally-identifying information other than as described below.  
+Protection of Certain Personally-Identifying Information
 
-#### Notice
+Maria Andros International discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Maria Andros International’s behalf or to provide services available at Maria Andros International’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Maria Andros International’s websites, you consent to the transfer of such information to them. Maria Andros International will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Maria Andros International discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Maria Andros International believes in good faith that disclosure is reasonably necessary to protect the property or rights of Maria Andros International, third parties or the public at large. If you are a registered user of a Maria Andros International website and have supplied your email address, Maria Andros International may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with Maria Andros International’s events and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Maria Andros International takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-Where COMPANY collects Personal Information on the web, we intend to post a purpose statement that explains why Personal Information will be collected and whether we plan to share such Personal Information outside of COMPANY or those working on COMPANY behalf. COMPANY does not intend to transfer Personal Information without your consent to third parties who are not bound to act on COMPANY behalf unless such transfer is legally required.
+**Cookies**
 
-#### Choice
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Maria Andros International uses cookies to help Maria Andros International identify and track visitors, their usage of Maria Andros International’s website, and their website access preferences. Maria Andros International visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Maria Andros International’s websites, with the drawback that certain features of Maria Andros International’s websites may not function properly without the aid of cookies.
 
-You may choose whether or not to provide Personal Information to COMPANY The notice we intend to provide where COMPANY collects Personal Information on the Web should help you to make this choice. If you choose not to provide the Personal Information we request, you can still visit most of COMPANY Web sites, but you may be unable to access certain options, offers, and services that involve our interaction with you.
+**Business Transfers**
 
-If you chose to have a relationship with COMPANY, such as a contractual or other business relationship or partnership, we will naturally continue to contact you in connection with that business relationship.
+If Maria Andros International, or substantially all of its assets, were acquired, or in the unlikely event that Maria Andros International goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Maria Andros International may continue to use your personal information as set forth in this policy.
 
-#### Security
+**Ads**
 
-Wherever your Personal Information may be held within COMPANY or on its behalf, we intend to take reasonable and appropriate steps to protect the Personal Information that you share with us from unauthorized access or disclosure.
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies byMaria Andros International and does not cover the use of cookies by any advertisers.
 
-#### Access/Accuracy
+**Privacy Policy Changes**
 
-To the extent that you do provide us with Personal Information, COMPANY wishes to maintain accurate Personal Information. Where we collect Personal Information from you on the Web, our goal is to provide a means of contacting COMPANY should you need to update or correct that Information. If for any reason those means are unavailable or inaccessible, you may send updates and corrections about your Personal Information to support@mariaandros.com and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable.
+Although most changes are likely to be minor, Maria Andros International may change its Privacy Policy from time to time, and in Maria Andros International’s sole discretion. Maria Andros International encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a http://www.mariaandros.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-### Third Party Services
+Questions Or Comments About Our Privacy Policy
 
-Third parties provide certain services available on MariaAndros.com on COMPANY behalf. COMPANY may provide information, including Personal Information, which COMPANY collects on the Web to third- party service providers to help us deliver programs, products, information, and services. Service providers are also an important means by which COMPANY maintains its Web site and mailing lists. COMPANY will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on behalf of COMPANY.
-
-COMPANY does not intend to transfer Personal Information without your consent to third parties who are not bound to act on COMPANY behalf unless such transfer is legally required. Similarly, it is against COMPANY policy to sell Personal Information collected online without consent.
-
-### Children’s Privacy
-
-MariaAndros.com is not structured to attract children. Accordingly, we do not intend to collect Personal Information from anyone we know to be under 13 years of age although we currently do not take steps to verify the user to that extent.
-
-### Commitment
-
-We are committed to privacy are actively involved in and support current industry initiatives to preserve individual privacy rights on the Internet. Protecting your privacy online is an evolving area, and COMPANY Web sites are constantly evolving to meet these demands.
-
-If you have any comments or questions regarding our Online Privacy Policy, please contact us at support@mariaandros.com.
-
-While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.
-
-### Your Consent
-
-By using this Web site, you consent to the terms of our Online Privacy Policy, Terms and Conditions of Use, and to COMPANY processing of Personal Information for the purposes given above as well as those explained where COMPANY collects Personal Information on the Web. Should the Online Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time.
+Maria Andros International is committed to protecting the privacy of our visitors and using the information you provide us responsibly. Personal data privacy is a new and rapidly changing area. We are committed to meeting these evolving challenges. If you have any questions or comments, please contact us. We’d be pleased to answer your questions and would like to know any concerns or suggestions you might have.
