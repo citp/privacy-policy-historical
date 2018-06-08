@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlineinsider.com privacy policy that was archived on 2017-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170924005958id_/http%3A//onlineinsider.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineinsider.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608161102id_/http%3A//onlineinsider.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Online Insider
 
