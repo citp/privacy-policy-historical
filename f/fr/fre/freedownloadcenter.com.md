@@ -1,29 +1,6 @@
-> *The following text is extracted and transformed from the freedownloadcenter.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129125117id_/http%3A//www.freedownloadscenter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedownloadcenter.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608091833id_/https%3A//freedownloadscenter.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy policy
-
-| 
-
-[DTweak ](http://www.freedownloadscenter.com/Reviews/r11345.html)
-
-[](http://www.freedownloadscenter.com/Reviews/r11345.html)
-
-**DTweak** , the name you can trust on, for tweaking your Windows to get optimized and stable performance. 
-
-[Gouser Bulk Tool ](http://www.freedownloadscenter.com/Reviews/r11346.html)
-
-[](http://www.freedownloadscenter.com/Reviews/r11346.html)
-
-**Gouser Bulk Tool** is a proper administrator tool capable of Active Directory Handling.
-
-Reviews newsletter 
-
-| 
-
-  
-
-
-**PRIVACY POLICY**
+# Privacy policy / Free Downloads Center
 
 To execute the primary functions and provide the services intended, Free Downloads Center needs to collect some personal information about its clients. You may, however, rest assured that Free Downloads Center respects your privacy and grants confidentiality for your personal data.
 
@@ -62,4 +39,4 @@ Free Downloads Center Site may contain links to third party Web Sites. Free Down
 
 **How to contact us**
 
-If you have questions regarding the Privacy Policy, please [contact us](http://www.freedownloadscenter.com/contact.html), and we will endeavor to respond to your request.
+If you have questions regarding the Privacy Policy, please [contact us](http://freedownloadscenter.com/contact.html), and we will endeavor to respond to your request.
