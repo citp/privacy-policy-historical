@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myjobhelper.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201161805id_/http%3A//myjobhelper.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myjobhelper.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608033703id_/http%3A//myjobhelper.com/privacy) for the most accurate reproduction.*
 
 # MyJobHelper.com: Privacy Policy
 
@@ -46,12 +46,15 @@ As is true of most web sites, we gather certain information automatically and st
 
 **Behavioral Targeting**
 
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by [clicking here](http://preferences-mgr.truste.com/)(or if located in the European Union [click here](http://www.youronlinechoices.eu/)) Please note this does not opt you out of being served ads. You will continue to receive generic ads.   
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by [clicking here](http://preferences-mgr.truste.com/)(or if located in the European Union [click here](http://www.youronlinechoices.eu/)) Please note this does not opt you out of being served ads. You will continue to receive generic ads. 
+
 **Local Storage Object**
 
-Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as Flash cookies or HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. To manage Flash cookies, please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
+Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. 
 
-**Blog** Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at privacy@MyJobHelper.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+**Blog**
+
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at privacy@MyJobHelper.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 **Third Party Links**
 
