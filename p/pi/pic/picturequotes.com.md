@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picturequotes.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231223032id_/http%3A//www.picturequotes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picturequotes.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608123720id_/http%3A//www.picturequotes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Picture Quotes
 
@@ -16,11 +16,11 @@ We may collect non-personal identification information about Users whenever they
 
 Our Site may use 'cookies' to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
+Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website or other websites.
 
-Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+Google's use of advertising cookies enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
 
-Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](https://www.google.com/settings/ads). (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).)
+Users may opt out of personalized advertising by visiting [Ads Settings](https://www.google.com/settings/ads). (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies for personalized advertising by visiting [aboutads.info](http://www.aboutads.info/).)
 
 ### Google Analytics, Remarketing, Display Network Impression Reporting and Demographics and Interest Reporting
 
@@ -37,6 +37,8 @@ Third-party vendors, including Google, may show our ads on sites across the Inte
 We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to our website.
 
 We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our site.
+
+[How Google uses data when you use their partners’ sites or apps](https://policies.google.com/technologies/partner-sites)
 
 To read more about Google's privacy policies please [click here](http://www.google.com/intl/en/policies/privacy/).
 
