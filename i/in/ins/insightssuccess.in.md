@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the insightssuccess.in privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214215438id_/http%3A//insightssuccess.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insightssuccess.in privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608113902id_/http%3A//insightssuccess.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Insights Success
+# Insights Success - Privacy Policy - Insightssuccess.in
 
 **Insights Success Privacy Policy:** Succeeding Privacy Policy governs the manner in which Insights success media and technology pvt ltd collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.insightssuccess.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by Insights success media and technology pvt ltd.
 
