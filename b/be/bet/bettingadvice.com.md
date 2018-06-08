@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the bettingadvice.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207023604id_/http%3A//www.bettingadvice.com/information/privacy/6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bettingadvice.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608050301id_/http%3A//www.bettingadvice.com/information/privacy/6) for the most accurate reproduction.*
 
 # Privacy - Bettingadvice
 
 **Privacy statement**
 
   
-Bettingadvice.com (Grefstad Media) has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website.
+Bettingadvice.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website.
 
 Bettingadvice.com logs IP addresses and browser types, but we do not link IP addresses to anything personally identifiable. This means that a user's session will be tracked but will remain anonymous. We are not interested in who you are as an individual or what you are viewing on this site but what the overall population is viewing. We use this information to make improvements to the least popular pages and to add more content to the most visited pages.
 
