@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novellshareware.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208160038id_/http%3A//www.novellshareware.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novellshareware.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608154746id_/http%3A//www.novellshareware.com/privacy.html) for the most accurate reproduction.*
 
 # NovellShareware.com, the Internet resource for novell, linux, windows, mac software
 
