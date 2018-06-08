@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footyheadlines.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201070812id_/http%3A//www.footyheadlines.com/p/privace-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footyheadlines.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608033109id_/https%3A//www.footyheadlines.com/p/privace-policy.html) for the most accurate reproduction.*
 
 # Footy Headlines: Privacy Policy
 
@@ -20,7 +20,7 @@ Third party vendors, including Google, use cookies to serve ads based on a user'
 
 Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
 
-You can opt out of the DoubleClick cookie by visiting the [Google advertising opt-out page](http://www.google.com/policies/technologies/ads/) or opt out of Google Analytics visiting the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout). 
+You can opt out of the DoubleClick cookie by visiting the [Google advertising opt-out page](https://www.google.com/policies/technologies/ads/) or opt out of Google Analytics visiting the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout). 
 
 ## Use of Analytics Tools
 
@@ -28,7 +28,7 @@ We are using Analytics Tools such as Google Analytics and DoubleClick Cookies to
 
 Each time you visit Footy Headlines we collect your IP address, browser and computer type, access time, the Web page you came from, the URL you go to next, and the Web pages that you access during your visit.
 
-You can opt out of the DoubleClick cookie by visiting the [Google advertising opt-out page](http://www.google.com/policies/technologies/ads/) or opt out of Google Analytics visiting the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout). 
+You can opt out of the DoubleClick cookie by visiting the [Google advertising opt-out page](https://www.google.com/policies/technologies/ads/) or opt out of Google Analytics visiting the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout). 
 
 ## Links
 
