@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the file-upload.cc privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206115103id_/http%3A//www.file-upload.cc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the file-upload.cc privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608132949id_/https%3A//www.file-upload.com/privacy.html) for the most accurate reproduction.*
 
-# مركز تحميل الصور والملفات - مركز تحميل فايل ابلود لرفع الصور والملفات
+# File upload - Free File Hosting - File Sharing - File Secure - File Storage - Online Storage; Upload Mp3, Videos, Music , Books , Apps. Backup Files
 
 ### Personal identification information
 
