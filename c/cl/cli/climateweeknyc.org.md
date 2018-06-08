@@ -1,83 +1,137 @@
-> *The following text is extracted and transformed from the climateweeknyc.org privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602090644id_/http%3A//www.climateweeknyc.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the climateweeknyc.org privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608184149id_/http%3A//www.climateweeknyc.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Climate Week NYC 2017
+# Privacy Policy | Climate Week
 
-The Climate Change Organisation trading as The Climate Group ("We") are committed to protecting and respecting your privacy. This policy (together with our terms and conditions and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+**THE CLIMATE GROUP – PRIVACY POLICY – MAY 2018**
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is The Climate Change Organisation The Climate Group, 2nd Floor, Riverside Building, County Hall, Belvedere Road, London SE1 7PB, United Kingdom.
+**WHO WE ARE**
 
-###  Information We May Collect From You
+Welcome to The Climate Group’s Privacy Notice.
 
-We may collect and process the following data about you:
+Here at The Climate Group we are committed to protecting and respecting your personal information and making every effort to ensure that your personal information is processed in a fair, open and transparent manner.
 
-  * Information that you provide by filling in forms on our site [http://www.climateweeknyc.org](http://www.climateweeknyc.org/ "http://www.climateweeknyc.org") (our site). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by us, and when you report a problem with our site.
-  * If you contact us, we may keep a record of that correspondence.
-  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
-  * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data and the resources that you access.
+This Privacy Policy outlines the basis on which any personal information we collect from you, or that you provide to us, will be processed by us.
 
+We are a “data controller” for the purposes of the EU General Data Protection Regulation 2016/679 (GDPR) and are therefore responsible for, and control the processing of, your personal information, in accordance with this Regulation. 
 
+**HOW WE COLLECT INFORMATION ABOUT YOU**
 
-###  IP Addresses and Cookies
+We collect information from you in the following ways:
 
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
+**Interacting with us directly:** Registering on our website ([http://www.climateweeknyc.org](http://www.climateweeknyc.org/)) subscribing to our Newsletter, making a donation to us, registering your event, enquiring about our events and fundraising opportunities, undertaking our surveys. This includes when you phone us, visit our website, register for an event, via post, or in person.
 
-For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. They enable us:
+**Interacting with us through partners or suppliers:** This could be if you access us through one of our Partners, who support us with funding or provide us with services and through our members of our campaigns, whereby you provide your consent for your personal information to be shared with us.
 
-  * To estimate our audience size and usage pattern.
-  * To store information about your preferences, and so allow us to customise our site according to your individual interests.
-  * To speed up your searches.
-  * To recognise you when you return to our site.
+**When you visit our website:** We gather general information, including pages you visit most often and which services, events or information are of most interest to you. We may also track the pages you visit when you click on links in emails from us.  We also use “cookies” to help us run our site effectively. 
 
+**Public Profiling:** So that we can tailor our communications with you in accordance with your background and interests we may collect information about you from publicly available sources or through third party subscription services or service providers.
 
+**TPYES OF INFORMATION WE COLLECT AND WHY**
 
-You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
+**Personal Information –** When we talk about your personal information we mean information about you, as an individual, that can directly or indirectly identify you, such as your name, address, e-mail address, telephone number and financial details. Further details of this definition can be found under [Art. 4 of the GDPR](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/key-definitions/).
 
-Please note that any advertisers may also use cookies, over which we have no control.
+We collect personal information from you when you make a donation, register for an event, become a member of one of our campaigns, become one of our funders, in a contractual relationship with us, have a pre-existing relationship with us or are invited and attend our events.…. We may also ask for some additional, non-personal information.
 
-###  Where We Store Your Personal Data
+We use your personal information to: 
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
-
-All information you provide to us is stored on our secure servers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
-
-Unfortunately, the transmission of information via the internet is not completely secure. Athough we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
-
-###  Uses Made of the Information
-
-We use information held about you in the following ways:
-
-  * To ensure that content from our site is presented in the most effective manner for you and for your computer.
-  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
-  * To carry out our obligations arising from any contracts entered into between you and us.
-  * To allow you to participate in interactive features of our service, when you choose to do so.
-  * To notify you about changes to our service.
+  * Process donations or other payments
+  * Provide the services you have requested
+  * Fulfil our contractual obligations
+  * Update you with important information about our work and our campaigns, such as our newsletters and annual updates
+  * Invite you to our events
+  * Send you marketing materials
+  * Comply with official regulators requiring us to identify and verify the identity of those who make major gifts so we can assess any risks associated with accepting their donations and to keep a record of your relationship with us.
 
 
 
-If you consent to the same, we may also use your data, or permit selected third parties to use your data, to provide you with information about services or causes which may be of interest to you.
+If we did not have this information, we would not be able to process your donations, enter into contractual relationships with you, accepts funding from you, provide you with our newsletter or information about our campaigns or invite you to our events.
 
-If you do not want us to use your data in this way, or to pass your details on to third parties for such purposes, please tick the relevant box situated on the form on which we collect your data (the registration form).
+We do not collect Sensitive Personal Information. 
 
-###  Disclosure of Your Information
+**Children's data**
 
-We may disclose your personal information to any member of The Climate Group.
+When you register with us, you are stating/confirming that you are 18 years of age or over, or are a minor acting with parental consent. You agree that any information you provide to us about yourself upon registration or at any time is true.
 
-We may disclose your personal information to third parties if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use.
+**ACCURACY AND RELEVANCE**
 
-###  Your Rights
+We will ensure that any personal information we process is accurate, relevant, not excessive and used for the purpose for which it was obtained. We will not process personal data obtained for one purpose for any unconnected purpose, unless you have provided consent. 
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [info@theclimategroup.org](mailto:info@theclimategroup.org).
+**LAWFUL, FAIR AND TRANSPARENT**
 
-Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+To ensure that the processing of your information is lawful, fair and transparent, we shall maintain a Register of Activities and this shall be reviewed annually. 
 
-###  Access to Information
+You, as an individual, have the right to access your personal data and any such request made to us shall be dealt with in a timely manner. 
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+**LEGAL BASIS**
 
-###  Changes to our Privacy Policy
+We will only use your personal information where we have your consent or because we need to use it to fulfil a contractual relationship with you (for example, because we have a Grant Agreement, Sub-Grant Agreement or Service Agreement with you). 
 
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
+However, there are other lawful reasons that allow us to process your personal information and one of those is called “legitimate interest”.  This means that the reason we are processing your information is because there is a legitimate interest for us to do so.  When processing your personal information under “legitimate interest” we will make sure that we consider your rights and interests and will not process your personal information if we think there is an imbalance. 
 
-###  Contact
+The legal basis for processing your personal information shall be recorded in our Register of Activities and where consent is relied upon as a lawful basis for processing your personal information, evidence of the opt-in consent shall be kept with that personal information. 
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [info@theclimategroup.org](mailto:info@theclimategroup.org).
+**SHARING YOUR INFORMATION**
+
+We will never sell or share your personal information with third parties nor will we sell any information about your web browsing activity. We may, however, share your information with our trusted partners and suppliers who work with us, as part of our legal obligation with them. We make sure that they store such data securely, delete it when they no longer need it, never use it for any other purpose and comply with Data Protection Laws, ensuring they have appropriate controls in place to ensure security of your personal information. 
+
+We may disclose your information if required to do so by law, to comply with applicable laws, regulations and codes of practice or in response to a valid request from a competent authority or, in order to enforce our conditions of sale and other agreements.
+
+**SECURITY**
+
+We take looking after your information very seriously. We shall ensure that your personal information is stored securely using modern software that is kept-up-to-date. Any access to personal data shall be limited to personnel who need access. When your personal data is deleted, it shall be done safely so that the data is irrecoverable and we shall implement appropriate back-up and disaster recovery solutions. 
+
+Your data may be processed by members of our staff operating outside of the European Economic Area (“EEA”).  We will take all steps to reasonably ensure that your data is treated securely and in accordance with this Privacy Policy.  Further, all of our staff shall participate in annual internal training so that they know how to process your data in accordance with the GDPR. 
+
+Any debit or credit card details which we receive on our website are passed and processed securely through Charity Checkout. 
+
+Our site, may from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note these websites have their own privacy policies and we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites. 
+
+**HOW LONG WE HOLD YOUR INFORMATION FOR**
+
+We only keep your personal information for as long as is reasonable and necessary for the relevant purpose. 
+
+We shall put in place an archiving policy for each area in which personal data is processed and review this process annually. This archiving policy shall consider what data should and must be retained, for how long and why. 
+
+**YOUR RIGHTS**
+
+You have various rights in respect of the personal information we hold about you.  If you wish to exercise any of these rights or make a complaint, you can do so by contacting our Data Protection Officer via the details listed above. 
+
+Your rights: 
+
+**Access to your personal information:** You have the right to request access to a copy of your personal information that we hold, the information that we use, why we use it, who we share it with, how long we keep it for and whether it has been used for any automated decision making. Access to this information is free of charge and all requests should be made in writing with evidence of your identity. 
+
+**Right to object:** You can object to the processing of your personal information where we are relying on the legal basis of legitimate interest. You also have the right to object where we are processing your personal information for direct marketing purposes.  Please contact us on the details noted above. 
+
+**Consent:** If you have given us consent to use your personal information, you can withdraw that consent at any time. 
+
+**Rectification:** You can ask us to change or complete any inaccurate or incomplete personal information held about you. 
+
+**Deletion:** You can ask us to delete your personal information where it is no longer necessary for us to use it, you have withdrawn consent or we have no lawful basis for keeping it. 
+
+**COOKIES**
+
+“[Cookie](http://www.allaboutcookies.org/cookies/)” is a name for a small file, usually of letters and numbers, which is downloaded onto your device, like your computer, mobile phone or tablet when you visit a website. A cookie, by itself, cannot be used to identify you, 
+
+We may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer, to enable us to estimate our audience size and usage pattern, to store information about your preferences, to speed up your searches and recognise when you will return to our site. 
+
+You can opt out of accepting the cookies, however, in doing so you may be unable to access certain parts of our website. 
+
+If you have any questions about how we use cookies, please contact us. 
+
+**BREACH**
+
+In the event of a breach of security, leading to the accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to, personal data, we shall promptly assess the risk to your rights and freedoms and, if appropriate, report this breach to the ICO. 
+
+**CHANGES TO OUR PRIVACY POLICY**
+
+Any future changes we may make to our Privacy Policy will be posted on this page and, where appropriate, notified to you via email. 
+
+**Contact**
+
+Questions, comments and requests regarding this privacy policy and our privacy practices are welcomed and should be addressed to our Data Protection Officer by: 
+
+  * Writing to The Climate Group, Second Floor, Riverside Building, County Hall, Belvedere Road, London SE1 7PB, United Kingdom
+  * Calling [020 7960 2970](https://www.google.com/search?source=hp&ei=lw70WpRLq-GSBf2-v_AP&q=the+climate+group&oq=the+climate+group&gs_l=psy-ab.3..0l10.775.2628.0.2836.18.12.0.5.5.0.124.888.10j2.12.0....0...1c.1.64.psy-ab..1.17.909.0..46j0i131k1j0i46k1.0.lRra0OfDSls "Call via Hangouts")
+  * Emailing [info@theclimategroup.org](mailto:info@theclimategroup.org)
+
+
