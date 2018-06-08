@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the tut.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629190241id_/http%3A//www.tut.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tut.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608080224id_/http%3A//www.tut.com/privacy) for the most accurate reproduction.*
 
 # TUT - The Universe Talks - Mike Dooley
+
+Last Updated and Effective as of: May 25, 2018
 
 ### SHARING & USAGE:
 
@@ -12,7 +14,7 @@ All credit card purchases are placed over our secure server connection. To ensur
 
 ### CHOICE/OPT-OUT:
 
-This site offers users the option for instantly removing their information from our database and to cease receiving all future communications. You may also email us at [adventure@tut.com](mailto:adventure@tut.com) with such requests or when assistance is needed.
+This site offers users the option to instantly opt-out/unsubscribe from mailings and to cease receiving all future communications. You may also email us at [adventure@tut.com](mailto:adventure@tut.com) with such requests or when assistance is needed.
 
 ### THIRD PARTY WEBSITES:
 
@@ -20,7 +22,11 @@ This site contains links to other sites. www.tut.com is not responsible for the 
 
 ### CORRECT/UPDATE:
 
-Members may update their database record and make necessary changes, deletions or adjustments, at any time.
+Members may update their database record and make necessary changes or adjustments at any time.
+
+### Amazon Associates Program
+
+We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.
 
 ### CONTACTING THE WEBSITE:
 
@@ -28,4 +34,4 @@ If you have any questions about this privacy promise, the practices of this site
 
 ### PRIVACY POLICY CHANGES:
 
-This policy was created on January 26, 2001 and last updated on March 13, 2015
+This policy was created on January 26, 2001 and last updated on May 25, 2018.
