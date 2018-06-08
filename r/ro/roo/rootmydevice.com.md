@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rootmydevice.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625221300id_/http%3A//rootmydevice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rootmydevice.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608181343id_/http%3A//rootmydevice.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Root My Device
 
