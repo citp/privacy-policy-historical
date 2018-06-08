@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blueskyresumes.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204114625id_/http%3A//blueskyresumes.com/about-us/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueskyresumes.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608080653id_/http%3A//www.blueskyresumes.com/about-us/Privacy) for the most accurate reproduction.*
 
 # About Us | Blue Sky Resumes
 
