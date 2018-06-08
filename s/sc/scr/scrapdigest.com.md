@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrapdigest.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120180543id_/http%3A//www.scrapdigest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrapdigest.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608023058id_/http%3A//www.scrapdigest.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ScrapDigest.Com
 
@@ -68,3 +68,7 @@ By using this Site, you signify your acceptance of this policy and [terms of se
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:www.scrapdigest.com & contact@scrapdigest.com
+
+You can opt out ads here:
+
+<http://optout.networkadvertising.org/?c=1#!/>
