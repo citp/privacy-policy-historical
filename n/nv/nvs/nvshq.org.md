@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nvshq.org privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224163426id_/http%3A//nvshq.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nvshq.org privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608230728id_/http%3A//nvshq.org/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Navodaya Vidyalaya Samiti
 
