@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waframedia.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207225650id_/http%3A//www.waframedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waframedia.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608161913id_/http%3A//www.waframedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Wafra Media Privacy Policy – WafraMedia
 
