@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alkalinefoods.net privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202031631id_/http%3A//alkalinefoods.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alkalinefoods.net privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608045833id_/http%3A//alkalinefoods.net/privacy.html) for the most accurate reproduction.*
 
 # Alkaline Diet Official Site | Alkaline Foods Complete Lists
 
