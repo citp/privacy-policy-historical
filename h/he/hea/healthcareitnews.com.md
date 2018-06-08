@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the healthcareitnews.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202205618id_/http%3A//www.healthcareitnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcareitnews.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608045402id_/http%3A//www.healthcareitnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Healthcare IT News
+
+[View HIMSS' privacy policy](http://www.himss.org/about/legal)
 
 To receive the monthly _Healthcare IT News_ issues or our email newsletters, or to access downloadable content such as white papers or register for online events such as webinars, you must first complete a registration form. During registration for newsletters and print issues, you may be required to give contact information such as name, email address and telephone number. We use this information to contact you about the services and newsletters on our site in which you have expressed interest.
 
