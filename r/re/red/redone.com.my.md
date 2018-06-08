@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redone.com.my privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225010932id_/http%3A//www.redone.com.my/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redone.com.my privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608174341id_/http%3A//www.redone.com.my/legal/privacy_policy) for the most accurate reproduction.*
 
 # redONE | Back To Basics
 
@@ -204,6 +204,6 @@ redONE’s Calling Number Display facility (CND) lets a person who receive phone
 **redONE is committed to protecting the Personal Data of all customers redONE deals with. If you have any questions in relation to this Privacy Notice, please contact us using the numbers below where applicable :**
 
 **Dial 1909 – from your redONE number**   
-**Dial 1 800 110 800 – from other operators**
+**Dial 1 300 11 0088 – from other operators**
 
-Your calls will be picked up between 9.00am to 9.00pm, Monday to Sunday. Alternatively, you can write to The General Manager at redcorp@redone.com.my. You may also use this address to communicate any concerns you may have regarding compliance with this Privacy Notice. 
+Your calls will be picked up between 9.00am to 9.00pm, Monday to Sunday. Alternatively, you can write to The General Manager at [redcorp@redone.com.my](mailto:redcorp@redone.com.my). You may also use this address to communicate any concerns you may have regarding compliance with this Privacy Notice. 
