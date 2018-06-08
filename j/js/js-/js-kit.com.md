@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the js-kit.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120054516id_/http%3A//js-kit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the js-kit.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608174847id_/http%3A//js-kit.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Js-Kit Dot Com
+# Privacy Policy
 
 ## JS-Kit Privacy Policy
 
 Thank you for using JS-Kit services. JS-Kit provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from visitors to our website and visitors to sites which utilize our services (“Partner Sites”)
 
-This Privacy Policy applies only to information that visitors provide to us through [http://js-kit.com](http://js-kit.com/) (this “Site”) or that is provided to us through Partner Sites in accordance with those sites’ policies. We refer to “Visitors” in this privacy policy to mean any person who interacts with a JS-Kit service on any website.
+This Privacy Policy applies only to information that visitors provide to us through http://js-kit.com (this “Site”) or that is provided to us through Partner Sites in accordance with those sites’ policies. We refer to “Visitors” in this privacy policy to mean any person who interacts with a JS-Kit service on any website.
 
 Our Privacy Policy may be updated from time to time, and we will notify you of any material changes by posting the new Privacy Policy on the Site.
 
@@ -34,7 +34,7 @@ Our Privacy Policy may be updated from time to time, and we will notify you of a
 
 ### Information Sharing and Disclosure
 
-**JS-Kit Visitors.** We will display your Personal Information in your profile page and elsewhere on the Site according to the preferences you set in your account. Any information you choose to provide should reflect how much you want all other JS-Kit Visitors to know about you. We recommend that you guard your sensitive information and we encourage Visitors to think carefully about what information about themselves they disclose in their profile pages. You can review and revise your profile information at any time.
+**JS-Kit Visitors.**  We will display your Personal Information in your profile page and elsewhere on the Site according to the preferences you set in your account. Any information you choose to provide should reflect how much you want all other JS-Kit Visitors to know about you. We recommend that you guard your sensitive information and we encourage Visitors to think carefully about what information about themselves they disclose in their profile pages. You can review and revise your profile information at any time.
 
 **Service Providers and Others.**   We me may employ third party companies and individuals to facilitate our service, to provide the service on our behalf, to perform Site-related services (including but not limited to maintenance services, database management, web analytics and improvement of the Site’s features) or to assist us in analyzing how our Site and service are used. These third parties have access to your Personal Information only for purposes of performing these tasks on our behalf.
 
@@ -48,7 +48,7 @@ JS-Kit cooperates with government and law enforcement officials and private part
 
 ### Managing Your Information
 
-All registered Visitors may review, update or correct the Personal Information provided in their registration or profile by changing their “Visitor preferences” in their account. If you choose to opt out entirely, then your account may become deactivated and you will need to re-register should you decide to opt-in again. To delete your account entirely, please email us at [support@js-kit.com](mailto:support@js-kit.com?subject=%27policy%20-%20delete%20account%27).
+### All registered Visitors may review, update or correct the Personal Information provided in their registration or profile by changing their “Visitor preferences” in their account. If you choose to opt out entirely, then your account may become deactivated and you will need to re-register should you decide to opt-in again. To delete your account entirely, please email us at support@js-kit.com.
 
 ### Security
 
@@ -58,4 +58,4 @@ JS-Kit has established safeguards to help prevent unauthorized access to or misu
 
 JS-Kit Services are intended for a general audience, and children under the age of thirteen are not permitted to use them. If any of the Partner Sites is directed toward children, or knowingly collects information from children, that Partner Site is required to provide you information about its practices for the handling of children’s online data through its privacy policy.
 
-This Site is not directed to children under 18. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [privacy@js-kit.com](mailto:privacy@js-kit.com). If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
+This Site is not directed to children under 18. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at privacy@js-kit.com. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
