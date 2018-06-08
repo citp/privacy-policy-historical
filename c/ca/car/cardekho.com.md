@@ -1,24 +1,26 @@
-> *The following text is extracted and transformed from the cardekho.com privacy policy that was archived on 2017-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171025020111id_/https%3A//www.cardekho.com/info/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardekho.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608113245id_/https%3A//www.cardekho.com/info/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | CarDekho.com
 
-Girnar Software Private Limited and its affiliates, subsidiaries & associate companies as mentioned in this Privacy Policy (hereinafter referred individually and/ or collectively as “ **Girnar** ) is/are concerned about the privacy of the data and information of the users accessing, offering, selling or purchasing products or services on **Girnar** websites, mobile sites or mobile applications or otherwise doing business with **Girnar**. This Privacy Policy help you understand how we collect, use, store, process, transfer and protect all your information when you visit any of our Website (defined below) and use our products and services.
+(Last updated on : 17/08/2017)
 
-THIS PRIVACY POLICY IS AN ELECTRONIC RECORD IN THE FORM OF ELECTRONIC CONTRACT IN TERMS OF INFORMATION TECHNOLOGY ACT, 2000 AND RULES MADE THEREUNDER (AS AMENDED FROM TIME TO TIME) AND DOES NOT REQUIRE ANY PHYSICAL SIGNATURE OR SEAL.
+Girnar Software Private Limited and its affiliates, subsidiaries & associate companies as mentionedin this Privacy Policy (hereinafter referred individually and/ or collectively as “ **Girnar** ) is/areconcerned about the privacy of the data and information of the users accessing, offering, selling orpurchasing products or services on **Girnar** websites, mobile sites or mobile applications or otherwisedoing business with **Girnar**. This Privacy Policy help you understand how we collect, use, store,process, transfer and protect all your information when you visit any of our Website (defined below)and use our products and services.
 
-This Privacy Policy is applicable to www.cardekho.com, “CarDekho” mobile application or mobile website (the “ **App** ”) and CarDekho chrome extension (the “ **Chrome Extension** ”, a CarDekho extension for the Google Chrome browser). 
+THIS PRIVACY POLICY IS AN ELECTRONIC RECORD IN THE FORM OF ELECTRONICCONTRACT IN TERMS OF INFORMATION TECHNOLOGY ACT, 2000 AND RULES MADETHEREUNDER (AS AMENDED FROM TIME TO TIME) AND DOES NOT REQUIRE ANYPHYSICAL SIGNATURE OR SEAL.
 
-The term “We”/ “Us” / “Our” used in this document refer to **Girnar** or CarDekho and "You" / "Your" / "Yourself" refer to the users, who visit or access or use or avail any service or product (collectively “ **usage** ”) on or through website/mobile site/App/Chrome Extension (individually and collectively, “ **Website** ”).
+This Privacy Policy is applicable to www.cardekho.com, “CarDekho” mobile application or mobilewebsite (the “ **App** ”) and CarDekho chrome extension (the “ **Chrome Extension** ”, a CarDekhoextension for the Google Chrome browser).
 
-## TERMS AND CONDITIONS:
+The term “We”/ “Us” / “Our” used in this document refer to **Girnar** or CarDekho and "You" / "Your" /"Yourself" refer to the users, who visit or access or use or avail any service or product (collectively“ **usage** ”) on or through website/mobile site/App/Chrome Extension (individually and collectively,“ **Website** ”).
+
+## Terms and Conditions:
 
 ### Acknowledgment:
 
-PLEASE READ THIS PRIVACY POLICY CAREFULLY. YOU INDICATE THAT YOU UNDERSTAND, AGREE AND CONSENT TO THIS PRIVACY POLICY. HENCE BY VISITING OUR WEBSITE OR BY USING / AVAILING ANY OF OUR SERVICE OR PRODUCT, YOU HEREBY GIVE YOUR UNCONDITIONAL CONSENT OR AGREEMENTS TO GIRNAR AS PROVIDED UNDER SECTION 43A AND SECTION 72A OF INFORMATION TECHNOLOGY ACT, 2000 FOR COLLECTION, USE, STORAGE, PROCESSING AND TRANSFER AND DISCLOSURE OF YOUR INFORMATION.
+PLEASE READ THIS PRIVACY POLICY CAREFULLY. YOU INDICATE THAT YOU UNDERSTAND,AGREE AND CONSENT TO THIS PRIVACY POLICY. HENCE BY VISITING OUR WEBSITE OR BYUSING / AVAILING ANY OF OUR SERVICE OR PRODUCT, YOU HEREBY GIVE YOURUNCONDITIONAL CONSENT OR AGREEMENTS TO GIRNAR AS PROVIDED UNDER SECTION43A AND SECTION 72A OF INFORMATION TECHNOLOGY ACT, 2000 FOR COLLECTION, USE,STORAGE, PROCESSING AND TRANSFER AND DISCLOSURE OF YOUR INFORMATION.
 
-YOU ACKNOWLEDGE THAT YOU HAVE ALL LEGAL RIGHTS AND LAWFUL AUTHORITY TO SHARE THE INFORMATION WITH US AND FURTHER ACKNOWLEDGE THAT BY COLLECTING, SHARING, PROCESSING AND TRANSFERRING INFORMATION PROVIDED BY YOU, THIS SHALL NOT CAUSE ANY LOSS OR WRONGFUL GAIN TO YOU OR ANY OTHER PERSON.
+YOU ACKNOWLEDGE THAT YOU HAVE ALL LEGAL RIGHTS AND LAWFUL AUTHORITY TOSHARE THE INFORMATION WITH US AND FURTHER ACKNOWLEDGE THAT BY COLLECTING,SHARING, PROCESSING AND TRANSFERRING INFORMATION PROVIDED BY YOU, THISSHALL NOT CAUSE ANY LOSS OR WRONGFUL GAIN TO YOU OR ANY OTHER PERSON.
 
-IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS / USE OUR WEBSITE OR AVAIL ANY OF OUR SERVICE OR PRODUCT ON OUR WEBSITE.
+IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOTACCESS / USE OUR WEBSITE OR AVAIL ANY OF OUR SERVICE OR PRODUCT ON OUR WEBSITE.
 
 ### Topics Covered:
 
@@ -40,19 +42,19 @@ We collect Your information during your usage to Website or when you avail any o
 
 
 
-We may receive Your Information from third parties such as social media, and in such case, the information We collect may include your user name associated with that social media, any information or content the social media has the right to share with us, such as your profile picture, email address or friends list, and any information you have made public in connection with that social media. When you access the Website or otherwise deal with any **Girnar** entity through social media, you are authorizing **Girnar** to collect, store, use and retain such information and content in accordance with the terms of this Privacy Policy.
+We may receive Your Information from third parties such as social media, and in such case, the information We collect may include your user name associated with that social media, anyinformation or content the social media has the right to share with us, such as your profile picture,email address or friends list, and any information you have made public in connection with that socialmedia. When you access the Website or otherwise deal with any **Girnar** entity through social media,you are authorizing **Girnar** to collect, store, use and retain such information and content inaccordance with the terms of this Privacy Policy.
 
-Information may be collected through various ways such through the use of cookies. **Girnar** may store temporary or permanent "cookies" on Your computer. "Cookies" are files situated on Your mobile/ computer/device's hard disk that assist Us in providing customised services. A cookie helps Us analyse Your preferences, for example, recording the number of times You have used the Website, and help us in tailoring Our services to suit Your interests. Further, there are certain features of the Website that are available only through the use of a "cookie". These "cookies" may be used whether You register on the Website or not. You can erase or choose to block these cookies from Your computer. You can configure Your computer’s browser to alert You when we attempt to send You a cookie with an option to accept or refuse the cookie. If You have turned cookies off, You may be prevented from using certain features of the Website. Further, we may use third-party service providers to serve ads on **Girnar** behalf across the internet and sometimes on the Website. They may collect Non- personal information about Your visits to the Website, and Your interaction with the products and services on the Website. 
+Information may be collected through various ways such through the use of cookies. **Girnar** maystore temporary or permanent "cookies" on Your computer. "Cookies" are files situated on Yourmobile/ computer/device's hard disk that assist Us in providing customised services. A cookie helpsUs analyse Your preferences, for example, recording the number of times You have used theWebsite, and help us in tailoring Our services to suit Your interests. Further, there are certainfeatures of the Website that are available only through the use of a "cookie". These "cookies" may beused whether You register on the Website or not. You can erase or choose to block these cookiesfrom Your computer. You can configure Your computer’s browser to alert You when we attempt tosend You a cookie with an option to accept or refuse the cookie. If You have turned cookies off, Youmay be prevented from using certain features of the Website. Further, we may use third-party serviceproviders to serve ads on **Girnar** behalf across the internet and sometimes on the Website. They maycollect Non- personal information about Your visits to the Website, and Your interaction with theproducts and services on the Website.
 
-Your Information will mostly be stored in electronic form however certain data may be stored in physical form. We may store, collect, use and process Your Information in countries other than Republic of India subject to compliance under applicable laws. We may enter into agreements with third parties (in or outside of India) to store or process Your Information and such third parties may have their own security measures to safeguard Your Information.
+Your Information will mostly be stored in electronic form however certain data may be stored inphysical form. We may store, collect, use and process Your Information in countries other thanRepublic of India subject to compliance under applicable laws. We may enter into agreements withthird parties (in or outside of India) to store or process Your Information and such third parties mayhave their own security measures to safeguard Your Information.
 
-**Browser Add-on:** Add-on or Extensions are software programs that can modify and/or enhance the functionality of browsers. You can add CarDekho Extensions to your browser (Chrome, Firefox etc.) for a more personalised experience like better price comparison, trending products, price drop alerts, exclusive coupons, etc. Add-on / Extension can access your data on all the websites you visit, the tabs and the browsing activity of the browser. Add-on / Extension is stored locally to provide a better user experience for You. We would capture Your email address so as to notify You with relevant information. We would also capture other details to provide You a better user experience. 
+**Browser Add-on:** Add-on or Extensions are software programs that can modify and/or enhance thefunctionality of browsers. You can add CarDekho Extensions to your browser (Chrome, Firefox etc.)for a more personalised experience like better price comparison, trending products, price drop alerts,exclusive coupons, etc. Add-on / Extension can access your data on all the websites you visit, thetabs and the browsing activity of the browser. Add-on / Extension is stored locally to provide a betteruser experience for You. We would capture Your email address so as to notify You with relevantinformation. We would also capture other details to provide You a better user experience.
 
-When You add CarDekho to Google Chrome as Chrome Extension, You explicitly permit Us as well as third parties, to the extent apply, to display notifications, read and change Your browsing history, read and change Your bookmarks, manage Your apps, extensions and themes, detect Your physical locations, read all Your data on the website and other changes.
+When You add CarDekho to Google Chrome as Chrome Extension, You explicitly permit Us as wellas third parties, to the extent apply, to display notifications, read and change Your browsing history,read and change Your bookmarks, manage Your apps, extensions and themes, detect Your physicallocations, read all Your data on the website and other changes.
 
 ### Purpose of Collection, Storage, Processing:
 
-**Girnar** collect Your Information solely for the purpose of providing you the product or service that is connected with the function or activity of the **Girnar** which includes but not limited to the following (“Purpose”):
+ **Girnar** collect Your Information solely for the purpose of providing you the product or service that is connected with the function or activity of the **Girnar** which includes but not limited to the following (“Purpose”):
 
   * To inform You about various products and services offered on Our Website.
   * To address Your queries and resolve your concerns pertaining to any service or product that you were looking for.
@@ -65,7 +67,9 @@ When You add CarDekho to Google Chrome as Chrome Extension, You explicitly permi
 
 
 
-You permit us to collect Chrome Extension usage statistics to help improve user experience and if You want to opt-out of Google Analytics tracking, the same can be done by visiting http://tools.google.com/dlpage/gaoptout or user can set up a filter in Adblock Plus or similar ad blocker tools like AdBlock, uBlock or Adblock Pro. 
+You permit us to collect Chrome Extension usage statistics to help improve user experience and ifYou want to opt-out of Google Analytics tracking, the same can be done by visiting http://tools.google.com/dlpage/gaoptout or user can set up a filter in Adblock Plus or similar adblocker tools like AdBlock, uBlock or Adblock Pro.
+
+To opt-out from Colombia tracking, [click here](https://www.colombiaonline.com/privacy-policy).
 
 ### Sharing, Transfer or Disclosure:
 
@@ -73,7 +77,7 @@ Any service or product provided through Our Website may be provided either by GI
 
 You acknowledge and agree that **Girnar** may share, disclose, transfer or part with Your Information to other entities depending upon the type of service or product You are looking for or for one or more of the permissible purposes. **Girnar** may also share Your personal or non-personal information where it is required to share the same with such other entities for providing you the service or product and You provide **Girnar** , Your unconditional consent to do the same.
 
-**Girnar** may share statistical data and/or other Non-personal Information or details without your express or implied consent to facilitate various program or initiatives launched by **Girnar** , third party service providers, partners or financial institutions, from time to time.
+ **Girnar** may share statistical data and/or other Non-personal Information or details without your express or implied consent to facilitate various program or initiatives launched by **Girnar** , third party service providers, partners or financial institutions, from time to time.
 
 We use other third parties such as a credit/debit card processing company, payment gateway, pre-paid cards etc. to enable You to make payments for buying products or availing services on Website. When You sign up for these services, You may have the ability to save Your card details for future reference and faster future payments. In such case, We may share Your relevant Information as necessary for the third parties to provide such services, including your name, residence and email address. The processing of payments or authorization is solely in accordance with these third parties policies, terms and conditions and we are not in any manner responsible or liable to You or any third party for any delay or failure at their end in processing the payments.
 
@@ -87,7 +91,7 @@ It is recommended that You should review the privacy policy of such third party 
 
 ### Security Measures:
 
-**Girnar** takes utmost care to secure Your Information from unauthorised access, usage or disclosure or alteration. We take appropriate steps and security measures to safeguard Your Information and make sure that Your Information is secured as mandated by law. For this purpose we adopt reasonable security practices and procedures, in line with the industry standard, to include, technical, operational, managerial and physical security controls in order to protect your personal information from unauthorized access, or disclosure while it is under our control.
+ **Girnar** takes utmost care to secure Your Information from unauthorised access, usage or disclosure or alteration. We take appropriate steps and security measures to safeguard Your Information and make sure that Your Information is secured as mandated by law. For this purpose we adopt reasonable security practices and procedures, in line with the industry standard, to include, technical, operational, managerial and physical security controls in order to protect your personal information from unauthorized access, or disclosure while it is under our control.
 
 While We protect Your Personal information as per industry standards, You acknowledge that the internet or computer networks are not fully secure and that We cannot provide any absolute assurance regarding the security of Your Personal information. Therefore You acknowledge that You shall not hold responsible **Girnar** in any manner whatsoever for loss of Your Information, or any other data, which You shares with Us or which We have with Us if such loss or any damage caused to You because of Force Majeure events. You further acknowledge that any information (including your personal information) transmitted to Us or from Your use of Website will therefore be at Your own risk.
 
@@ -95,7 +99,7 @@ It is clarified that Force Majeure events includes any event which is beyond the
 
 ### Update of Your Information:
 
-**Girnar** take all endeavours to update Our records with latest information as provided by you, however if you see any discrepancy in your personal information you may contact to Us through Grievance Officer to have Your Information updated with Us.
+ **Girnar** take all endeavours to update Our records with latest information as provided by you, however if you see any discrepancy in your personal information you may contact to Us through Grievance Officer to have Your Information updated with Us.
 
 You also acknowledge that all the information provided by You are out of Your free will and in compliance with applicable laws in Your territory. If We found that any of Your Information is in non-compliance with the terms and conditions and Privacy policy, **Girnar** reserves the right to remove your non-compliant information from its systems. Further, depending on the seriousness of the non-compliance, We may choose to discontinue some or all of the services being provided to You by Us.
 
@@ -105,7 +109,7 @@ In purview of the Telecom Regulatory Authority of India (TRAI) guidelines, You h
 
 ### Change in terms of Privacy Policy:
 
-**Girnar** reserves the right to amend or modify this Privacy Policy at any time, as and when the need arises. We request you to regularly check this Privacy Policy from time to time to keep you apprise of changes made. Your continued use of the Website gives your unconditional acceptance to such change in terms of Privacy Policy.
+ **Girnar** reserves the right to amend or modify this Privacy Policy at any time, as and when the need arises. We request you to regularly check this Privacy Policy from time to time to keep you apprise of changes made. Your continued use of the Website gives your unconditional acceptance to such change in terms of Privacy Policy.
 
 ### Particulars of corporate entity, Grievance Officer pursuant to the provisions of Companies Act, 2013 and The Information Technology Act, 2000 and rules made thereunder:
 
