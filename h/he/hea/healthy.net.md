@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthy.net privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208140318id_/http%3A//www.healthy.net/members/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthy.net privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608152536id_/http%3A//www.healthy.net/members/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Natural and alternative health and wellness mega-site
 
@@ -22,19 +22,7 @@ HealthWorld Online does not disclose, share, sell or trade any personal or indiv
 
 HealthWorld Online uses a secure server for any ordering and credit card information you provide. The servers use Secure Sockets Layer (SSL), an advanced encryption technology that safeguards your personal information and guarantees privacy. Our check-out process is certified secure and verified by GeoTrust (www.geotrust.com) and we are an Authorize.net certified merchant.
 
-| **"Change your thoughts and you can change your world."**  
+| **"The greatest discovery of any generation is that human beings can alter their lives by altering the attitudes of their minds. "**  
 ---  
   
 | 
-
-Fabulous Functional Foods
-
-| [Super Oatmeal ](https://web.archive.org/scr/Column.aspx?Id=132)  
----  
-Sometimes, it's the simplest things in life that bring the most pleasure. Danish chef Oscar Umahro Cadogan brings us one of them. "Super Oatmeal" takes very little time to make and nourishes body, soul,... [ more](https://web.archive.org/scr/Column.aspx?Id=132)  
-  
-Popular & Featured Events
-
-Error Reading Event Calendar 
-
-[ ](http://www.healthy.net/prgm/HealthyAd.aspx?Ad=1145)
