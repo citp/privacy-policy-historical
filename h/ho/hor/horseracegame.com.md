@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the horseracegame.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203070652id_/http%3A//www.horseracegame.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horseracegame.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608104311id_/http%3A//horseracegame.com/privacy.aspx) for the most accurate reproduction.*
 
 # HorseRaceGame.com - Play Free Virtual Horse Race Game Online
 
