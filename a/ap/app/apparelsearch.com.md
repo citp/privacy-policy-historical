@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apparelsearch.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206144354id_/http%3A//www.apparelsearch.com/privacy-policy.html%3Fez_orig%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apparelsearch.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608025347id_/http%3A//www.apparelsearch.com/privacy-policy.html%3Fez_orig%3D1) for the most accurate reproduction.*
 
 # Privacy Policy for Fashion Industry
 
@@ -55,4 +55,4 @@ If you have any questions about our Privacy Policy, feel free to contact us by e
 If you are done reading about privacy policies, you may want to actually learn more about fashion & style by reading our [fashion blog](http://www.blog.apparelsearch.com/).  You may find that to be much more enjoyable.
 
 [Apparel Search](http://www.apparelsearch.com/)   [Add Your Company](http://www.apparelsearch.com/addyour.htm)   [ Contact Us](http://www.apparelsearch.com/contact_us.htm)   [About Us](http://www.apparelsearch.com/about_us.htm)   [News Letter](http://www.apparelsearch.com/news_letter_fashion_industry.htm)   [Legal](http://www.apparelsearch.com/legal_notice.htm)   [ Help  
-](http://www.apparelsearch.com/help.htm)Copyright © 1999-2017  Apparel Search Company.  All Rights Reserved. 
+](http://www.apparelsearch.com/help.htm)Copyright © 1999-2018  Apparel Search Company.  All Rights Reserved. 
