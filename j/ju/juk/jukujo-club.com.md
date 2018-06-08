@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jukujo-club.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625034635id_/http%3A//en.jukujo-club.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jukujo-club.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608113248id_/https%3A//en.jukujo-club.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy- Jukujo Club
 
