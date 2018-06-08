@@ -1,19 +1,17 @@
-> *The following text is extracted and transformed from the logix.in privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205105614id_/http%3A//online.appslogix.in/purchase/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logix.in privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608151340id_/http%3A//www.logix.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Managed Cloud Hosting
+# Logix InfoSecurity Pvt. Ltd. – Privacy Policy
 
-### Logix Infosecurity Pvt Ltd Privacy Policy
+**Logix Infosecurity Pvt Ltd Privacy Policy**
 
 We recognize and respect your right to privacy. This policy explains how Logix Infosecurity Pvt Ltd (Logix) collects and handles data. Please read the following carefully to understand our views and practices regarding your data and how we will treat it.
 
-### Types of Information
+**Types of Information**
 
-  * Personal Information is information that enables us to identify you, such as your email address, name, mailing address, telephone number, company name, and credit card information.
-  * Your Information is information you store in, or transfer to, any of our products or services, whether or not it is Personal Information.
+Personal Information is information that enables us to identify you, such as your email address, name, mailing address, telephone number, company name, and credit card information.  
+Your Information is information you store in, or transfer to, any of our products or services, whether or not it is Personal Information.
 
-
-
-### How We Protect Information
+**How We Protect Information**
 
 Logix is committed to taking steps to protect the Information you provide to us, including administrative, technical, and physical measures — to safeguard
 
@@ -24,49 +22,56 @@ Unfortunately, the transmission of information via the internet is not completel
 
 Where we have given you (or where you have chosen) a password which enables you to access certain parts of our website site or our products and services, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
-### How We Use Information
+**How We Use Information**
 
 We use the Information you supply in the following ways:
 
-  * To register you for webinars/seminars.
-  * To assign a password.
-  * To ensure that content from our website and services are presented in the most efficient manner for you.
-  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
-  * To carry out our obligations arising from any contracts entered into between you and us.
-  * To notify you about changes to our products or services.
-  * To take other action you request when you supply the Information.
-  * To provide the service(s) you have requested
+To register you for webinars/seminars.  
+To assign a password.  
+To ensure that content from our website and services are presented in the most efficient manner for you.  
+To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.  
+To carry out our obligations arising from any contracts entered into between you and us.  
+To notify you about changes to our products or services.  
+To take other action you request when you supply the Information.  
+To provide the service(s) you have requested
 
-
-
-### Sharing Information With Third Parties and Within Logix
+**Sharing Information With Third Parties and Within Logix**
 
 We do not sell, hire, lease or rent the personal information we collect to anyone at this time. Unless we have your permission, are required by law, are required to do so in order to enforce or apply our terms of use and other agreements with you or are required to do so to protect the rights, property or safety of Logix, our customers or others, we will only provide personal information to third parties (Vendors) who assist Logix operate our websites, resell our products or services, or help us with some products or services we provide. Data provided to third parties is stored on systems we do not own and is provided in accordance with our policies.
 
 In addition, we may disclose your personal information to third parties (i) in the event we sell or buy any business or assets, in which case we may disclose your Personal Information to the prospective seller or buyer of such business or assets; or (ii) if Loigx or substantially all of its assets are acquired by a third party, in which case Information held by it about its customers and partners will be one of the transferred assets.
 
-### Your Control over Information
+**Your Control over Information**
 
 When you register for an account or submit Information to Logix , we will occasionally contact you via email, postal mail, or telephone. This contact may involve notification of new services being offered by Logix. You may opt-out of this contact by deactivating your account. If you no longer wish to maintain an account with Logix, please go to our contact us at webmaster@logix.in and we will remove you from our contacts list.
 
 In addition, you have the right to access Information held about you. Please visit our Contact Information page or email webmaster for more details.
 
-### Use of the Logix Websites
+**Use of the Logix Websites**
 
-**Personal Information Collected**  
+  * **Personal Information Collected**
+
+
+
 You may use most of our websites without supplying any personal information. However, sites or certain parts of a site are available only if you obtain a password. Logix collects personal information when you register for a password, and at various other places on our site where you may register for a webinar/seminar or obtain or request other information or services. We may also ask you for information when you report a problem with our site. If you contact us, we may keep a record of that correspondence.
 
 In addition, we automatically log the domain name of where you came from, the IP address your computer is currently using, the type of web browser that you use, Internet Service Provider (ISP), referring and exit pages, operating system, date/time stamp, and clickstream data. This information allows us to improve the site by serving the pages you visit, and we may use the information for statistical purposes and to track usage patterns. In addition, we use the data we collect to make various determinations in our systems. We do not use this information to personally identify you, the user.
 
-**Use of Cookies**  
+  * **Use of Cookies**
+
+
+
 Logix uses cookies for your convenience to store information so you do not have to reenter your data upon each visit. Cookies and other technology are also used to monitor usage of the various features and services of our site, which over time gives us information to improve our site, and to advertise and market our products more effectively. To view the types of cookies Logix uses on its websites, please click here .
 
 When you visit our websites, cookies will be placed on your computer or device. To maximize your experience and to help us understand how we can improve our site. If you prefer not to receive cookies, you can set your browser to either reject all cookies, to allow “trusted” sites to set them, or to accept only those cookies from those sites you are currently on. However turning off cookies will hinder your ability to access, use, or navigate portions of the site.
 
-**Links to Other Sites**  
+  * **Links to Other Sites**
+
+
+
 Our site contains links to other sites. If you choose to visit any of those sites then their privacy policies would apply. The Logix Privacy Policy applies solely to the information collected from the Logix web site. We do not accept any responsibility or liability for third party policies. Please check these policies before you submit any personal information to these websites.
 
-### Changes In This Policy
+**Changes In This Policy**
 
 If we change the way we use your personal information we will post the change here on our web site. We recommend that you regularly visit this page to learn of any changes. The change will apply to information our users furnish after the change, and information we have on file for existing users.
 
