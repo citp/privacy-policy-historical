@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the odishatv.in privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210162710id_/http%3A//odishatv.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odishatv.in privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608193348id_/http%3A//odishatv.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Odisha Television Limited
+# Privacy Policy | OTV
 
 Odisha Television Limited takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this privacy policy primer to learn more about privacy policies in general.  
 **Routine Information Collection**  
@@ -13,4 +13,4 @@ Note that you can change your browser settings to disable cookies if you have pr
 **Special Note About Google Advertising**  
 Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.  
 **Contact Information**  
-Concerns or questions about this privacy policy can be directed to sandeep.sahu@odishatv.in for further clarification.
+Concerns or questions about this privacy policy can be directed to [manoranjan.sarangi@odishatv.in](mailto:manoranjan.sarangi@odishatv.in) for further clarification.
