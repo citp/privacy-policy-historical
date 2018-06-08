@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jbfsale.com privacy policy that was archived on 2017-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171229145032id_/http%3A//jbfsale.com/privacyPolicy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jbfsale.com privacy policy that was archived on 2018-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180608074345id_/http%3A//jbfsale.com/privacyPolicy.jsp) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml"><head><meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -34,11 +34,36 @@
 	opacity: 0.4;
 	filter: alpha(opacity = 40); /* For IE8 and earlier */
     }
- 	</style>
-	<script>	
 
-	
-	
+
+
+
+    }
+.overlaydiv {
+    position:relative;
+    cursor:pointer;
+    width:700px;
+
+}
+.overlaydiv:before {
+    content:'';
+    position:absolute;
+    height:249px;
+    width:229px;
+    border:1px solid #000;
+    text-align:center;
+    line-height:30px;
+    background:#FFFFFF;
+    opacity: 0;
+    transition:all 200ms ease-in;
+    cursor:pointer;
+}
+
+ 	</style>
+	<script>
+
+
+
 	$(document).ready(function(){
 	//	alert("1111111111111111111");
 $('.youtube-link-container a, .youtube-link-container a *').each(function() {
@@ -49,7 +74,7 @@ $('.youtube-link-container a, .youtube-link-container a *').each(function() {
 			 var ifr=document.getElementById("youtubeIframe");
 
 			 if (match&&match[7].length==11){
-				    var newUrl="https://www.youtube.com/embed/"+match[7]+"?wmode=opaque&frameborder=0&rel=0"; 
+				    var newUrl="https://www.youtube.com/embed/"+match[7]+"?wmode=opaque&frameborder=0&rel=0";
 				    $(this).attr("href","javascript:void(0);");
 					$(this).click(function(){
 
@@ -63,7 +88,7 @@ alert("youtubeeeeeee"+ifr);
 			    }
 			 });
 
-$('.nationalmedicorpwebpage a, .nationalmedicorpwebpage a *').each(function() {
+$('.overlaydiv, .nationalmedicorpwebpage a, .nationalmedicorpwebpage a *').each(function() {
 	//	alert("22222222222");
 		$(this).click(function(){
 			var usersid =  $(this).data("id");
@@ -74,13 +99,13 @@ $('.nationalmedicorpwebpage a, .nationalmedicorpwebpage a *').each(function() {
 				var abcd=document.getElementById("iframe1").src;
 				abcd=abcd+"?autoplay=1";
 				var index=abcd.substring(0,abcd.indexOf("?"));
-index=index+"?autoplay=1";
+                index=index+"?autoplay=1";
 
 				ifr.setAttribute("src",index);
 				  $("html, body").animate({ scrollTop: 60 }, "slow");
 
 				}
-			
+
 			if(this.id=="Caption2")
 			{
 			var abcd=document.getElementById("iframe2").src;
@@ -90,9 +115,9 @@ index=index+"?autoplay=1";
 			ifr.setAttribute("src",index);
 			  $("html, body").animate({ scrollTop: 60 }, "slow");
 			}
-			
-			
-			
+
+
+
 			if(this.id=="Caption3")
 			{
 			var abcd=document.getElementById("iframe3").src;
@@ -103,9 +128,9 @@ index=index+"?autoplay=1";
 			  $("html, body").animate({ scrollTop: 60 }, "slow");
 			}
 
-			
-			
-			
+
+
+
 			if(this.id=="Caption4")
 			{
 			var abcd=document.getElementById("iframe4").src;
@@ -114,11 +139,11 @@ index=index+"?autoplay=1";
 			ifr.setAttribute("src",index);
 			  $("html, body").animate({ scrollTop: 60 }, "slow");
 			}
-			
-			
-			
-			
-			
+
+
+
+
+
 			if(this.id=="Caption5")
 			{
 			var abcd=document.getElementById("iframe5").src;
@@ -127,9 +152,9 @@ index=index+"?autoplay=1";
 			ifr.setAttribute("src",index);
 			  $("html, body").animate({ scrollTop: 50 }, "slow");
 			}
-			
-			
-			
+
+
+
 			if(this.id=="Caption6")
 			{
 			var abcd=document.getElementById("iframe6").src;
@@ -139,8 +164,8 @@ index=index+"?autoplay=1";
 									ifr.setAttribute("src",index);
 			  $("html, body").animate({ scrollTop: 50 }, "slow");
 			}
-			
-			
+
+
 			if(this.id=="Caption7")
 			{
 			var abcd=document.getElementById("iframe7").src;
@@ -150,8 +175,8 @@ index=index+"?autoplay=1";
 									ifr.setAttribute("src",index);
 									 $("html, body").animate({ scrollTop: 50 }, "slow");
 			}
-			
-			
+
+
 			if(this.id=="Caption8")
 			{
 			var abcd=document.getElementById("iframe8").src;
@@ -162,11 +187,11 @@ index=index+"?autoplay=1";
 									 $("html, body").animate({ scrollTop: 50 }, "slow");
 
 			}
-			
-			
-			
-			
-			
+
+
+
+
+
 			if(this.id=="Caption9")
 			{
 			var abcd=document.getElementById("iframe9").src;
@@ -176,8 +201,8 @@ index=index+"?autoplay=1";
 									ifr.setAttribute("src",index);
 									 $("html, body").animate({ scrollTop: 30 }, "slow");
 			}
-			
-			
+
+
 			if(this.id=="Caption10")
 			{
 			var abcd=document.getElementById("iframe10").src;
@@ -188,8 +213,8 @@ index=index+"?autoplay=1";
 									 $("html, body").animate({ scrollTop: 30 }, "slow");
 
 			}
-			
-			
+
+
 			if(this.id=="Caption11")
 			{
 			var abcd=document.getElementById("iframe11").src;
@@ -200,9 +225,9 @@ index=index+"?autoplay=1";
 									 $("html, body").animate({ scrollTop: 30 }, "slow");
 
 			}
-			
-			
-			
+
+
+
 			if(this.id=="Caption12")
 			{
 			var abcd=document.getElementById("iframe12").src;
@@ -213,16 +238,153 @@ index=index+"?autoplay=1";
 									 $("html, body").animate({ scrollTop: 30 }, "slow");
 
 			}
-			
-			
+
+
+
+			if(this.id=="fram1")
+			{
+			var abcd=document.getElementById("iframe1").src;
+			abcd=abcd+"?autoplay=1";
+			var index=abcd.substring(0,abcd.indexOf("?"));
+            index=index+"?autoplay=1";
+
+			ifr.setAttribute("src",index);
+			  $("html, body").animate({ scrollTop: 60 }, "slow");
+
+			}
+			if(this.id=="fram2")
+			{
+			var abcd=document.getElementById("iframe2").src;
+			abcd=abcd+"?autoplay=1";
+			var index=abcd.substring(0,abcd.indexOf("?"));
+            index=index+"?autoplay=1";
+
+			ifr.setAttribute("src",index);
+			  $("html, body").animate({ scrollTop: 60 }, "slow");
+
+			}
+			if(this.id=="fram3")
+			{
+			var abcd=document.getElementById("iframe3").src;
+			abcd=abcd+"?autoplay=1";
+			var index=abcd.substring(0,abcd.indexOf("?"));
+            index=index+"?autoplay=1";
+
+			ifr.setAttribute("src",index);
+			  $("html, body").animate({ scrollTop: 60 }, "slow");
+
+			}
+			if(this.id=="fram4")
+			{
+			var abcd=document.getElementById("iframe4").src;
+			abcd=abcd+"?autoplay=1";
+			var index=abcd.substring(0,abcd.indexOf("?"));
+            index=index+"?autoplay=1";
+
+			ifr.setAttribute("src",index);
+			  $("html, body").animate({ scrollTop: 60 }, "slow");
+
+			}
+			if(this.id=="fram5")
+			{
+			var abcd=document.getElementById("iframe5").src;
+			abcd=abcd+"?autoplay=1";
+			var index=abcd.substring(0,abcd.indexOf("?"));
+            index=index+"?autoplay=1";
+
+			ifr.setAttribute("src",index);
+			  $("html, body").animate({ scrollTop: 60 }, "slow");
+
+			}
+			if(this.id=="fram6")
+			{
+			var abcd=document.getElementById("iframe6").src;
+			abcd=abcd+"?autoplay=1";
+			var index=abcd.substring(0,abcd.indexOf("?"));
+            index=index+"?autoplay=1";
+
+			ifr.setAttribute("src",index);
+			  $("html, body").animate({ scrollTop: 60 }, "slow");
+
+			}
+			if(this.id=="fram7")
+			{
+			var abcd=document.getElementById("iframe7").src;
+			abcd=abcd+"?autoplay=1";
+			var index=abcd.substring(0,abcd.indexOf("?"));
+            index=index+"?autoplay=1";
+
+			ifr.setAttribute("src",index);
+			  $("html, body").animate({ scrollTop: 60 }, "slow");
+
+			}
+			if(this.id=="fram8")
+			{
+			var abcd=document.getElementById("iframe8").src;
+			abcd=abcd+"?autoplay=1";
+			var index=abcd.substring(0,abcd.indexOf("?"));
+            index=index+"?autoplay=1";
+
+			ifr.setAttribute("src",index);
+			  $("html, body").animate({ scrollTop: 60 }, "slow");
+
+			}
+			if(this.id=="fram9")
+			{
+			var abcd=document.getElementById("iframe9").src;
+			abcd=abcd+"?autoplay=1";
+			var index=abcd.substring(0,abcd.indexOf("?"));
+            index=index+"?autoplay=1";
+
+			ifr.setAttribute("src",index);
+			  $("html, body").animate({ scrollTop: 60 }, "slow");
+
+			}
+			if(this.id=="fram10")
+			{
+			var abcd=document.getElementById("iframe10").src;
+			abcd=abcd+"?autoplay=1";
+			var index=abcd.substring(0,abcd.indexOf("?"));
+            index=index+"?autoplay=1";
+
+			ifr.setAttribute("src",index);
+			  $("html, body").animate({ scrollTop: 60 }, "slow");
+
+			}
+			if(this.id=="fram11")
+			{
+			var abcd=document.getElementById("iframe11").src;
+			abcd=abcd+"?autoplay=1";
+			var index=abcd.substring(0,abcd.indexOf("?"));
+            index=index+"?autoplay=1";
+
+			ifr.setAttribute("src",index);
+			  $("html, body").animate({ scrollTop: 60 }, "slow");
+
+			}
+			if(this.id=="fram12")
+			{
+			var abcd=document.getElementById("iframe12").src;
+			abcd=abcd+"?autoplay=1";
+			var index=abcd.substring(0,abcd.indexOf("?"));
+            index=index+"?autoplay=1";
+
+			ifr.setAttribute("src",index);
+			  $("html, body").animate({ scrollTop: 60 }, "slow");
+
+			}
+
+
+
+
 		});
-		
+
 		 });
 	});
 
-	
+
 	</script>
-	
+
 	
 	</head>
 
@@ -381,7 +543,7 @@ function searchStateEvent(state)
 
 					<!-- Copyright -->
 						<div class="copyright">			
-							 Copyright © 2017 Just Between Friends Franchise Systems, Inc., All Rights Reserved.		
+							 Copyright © 2018 Just Between Friends Franchise Systems, Inc., All Rights Reserved.		
 						</div>
 
 				</div>
