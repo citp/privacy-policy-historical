@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jbhunt.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229080923id_/http%3A//www.jbhunt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jbhunt.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608184928id_/http%3A//www.jbhunt.com/privacy) for the most accurate reproduction.*
 
 # Become a Freight Carrier and Find Loads with J.B. Hunt | J.B. Hunt Transport
 
-##### Last Updated: June 30, 2017
+##### Last Updated: May 4, 2018
 
 J.B. Hunt Transport Services, Inc. and its subsidiaries and affiliates (“J.B. Hunt,” “we,” “us,” or “our”) take your privacy seriously, so we want you to know how we collect, use, share and protect your personal information.
 
@@ -53,7 +53,10 @@ Depending on the browser you use, you can choose to have your computer warn you 
  **Google Analytics and Other Third Parties**  
 We use cookies provided by Google Analytics, a third-party service provider, to assist us in better understanding visitors to the Website. These cookies collect data tied to a user’s IP address such as the length of time a user spends on a page, the pages a user visits, and the websites a user visits before and after visiting jbhunt.com. Based on this information, Google Analytics compiles aggregate data about Website traffic and Website interactions, which we use to offer you a better experience when you visit jbhunt.com. Other Google advertising features we use include Dynamic Remarketing, DoubleClick, and AdWords Conversion. You can obtain more information about Google Analytics here: <https://www.google.com/analytics/learn/privacy.html?hl=en-GB>. For information about how to prevent your data from being used by Google Analytics, visit [https://support.google.com/analytics/answer/181881?hl=en&ref_topic=2919631](https://support.google.com/analytics/answer/181881?hl=en&ref_topic=2919631).
 
-We may use other trusted third-party services from time to time, including but not limited to Adobe Analytics (Omniture). Omniture uses cookies either stored or retrieved from your computer to help us analyze visitor behavior and improve our offerings and design based on user needs. You can obtain more information about Adobe’s Omniture service, including how to opt-out, here: [http://www.adobe.com/privacy.html#optout.](http://www.adobe.com/privacy.html#optout)
+We may use other trusted third-party services from time to time, including but not limited to Adobe Analytics (Omniture). Omniture uses cookies either stored or retrieved from your computer to help us analyze visitor behavior and improve our offerings and design based on user needs. You can obtain more information about Adobe’s Omniture service, including how to opt-out, here: <http://www.adobe.com/privacy.html#optout>.
+
+ **Device Identification**  
+We may collect your unique device identification, advertising identifier, user identification, and other persistent identifiers (collectively, “Device ID”) to evaluate and improve Site functionality, for JBHT’s internal business purposes (including but not limited to business analytics, sales, marketing, and recruiting), and to serve advertising.
 
  **Your ‘Do Not Track’ Browser Setting**  
 Do Not Track (“DNT”) is a preference you can set in your browser’s settings to let the websites you visit know that you do not want the websites collecting your personal information. Our Site does not currently respond to DNT browser settings across all pages and features of the Site. We will not collect personal information about your online activities over time and across third-party websites or online services, regardless of whether you choose the DNT browser preference. However, we may use trusted third-party tools to analyze website usage, monitor performance, and prevent fraud. These tools may collect personal information about you or your online activities at this Site or across different sites over time by using cookies or by any other means.
@@ -73,9 +76,6 @@ We use the information we collect about you to serve you and improve your experi
   * Continuously evaluating and improving customer service and our online user experience
 
 
-
- **Data Retention**  
-Information about you that we have collected and maintain pursuant to this Privacy Policy will be purged consistent with generally acceptable industry standards for data destruction applicable to the specific nature and type of any such information.
 
 ### How We May Share Information About You
 
