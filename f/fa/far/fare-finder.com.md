@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fare-finder.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231105911id_/http%3A//www.fare-finder.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fare-finder.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608171829id_/http%3A//www.fare-finder.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Fare-Finder.com
 
@@ -46,13 +46,7 @@ Fare-Finder.com does not knowingly collect personally identifiable information f
 
 **Opt-Out & Unsubscribe**
 
-We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from Fare-Finder.com by contacting us here:
-
-\- Web page: _________________
-
-\- Email: _________________
-
-\- Phone: _________________
+We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from Fare-Finder.com by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f29b9c949db294938097df949b9c969780dc919d9f)
 
 **Changes to this Statement**
 
@@ -62,10 +56,9 @@ Fare-Finder.com will occasionally update this Statement of Privacy to reflect co
 
 Fare-Finder.com welcomes your questions or comments regarding this Statement of Privacy. If you believe that Fare-Finder.com has not adhered to this Statement, please contact Fare-Finder.com at:
 
-201 N Brand Blvd, Glendale, CA 91203
-
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
-
-213-536-9516
+201 N Brand Blvd  
+Glendale, CA 91203  
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
+213-536-9516 
 
 Effective as of March 13, 2017
