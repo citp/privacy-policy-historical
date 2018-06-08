@@ -1,8 +1,15 @@
-> *The following text is extracted and transformed from the gathersuccess.com privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104043350id_/http%3A//www.gathersuccess.com/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gathersuccess.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608061534id_/http%3A//www.gathersuccess.com/disclosure) for the most accurate reproduction.*
 
-# Disclosure & Privacy Policy | GatherSuccess
+# Disclosure, GDPR , PDPA & Privacy Policy | GatherSuccess
 
-**Disclosure Policy is valid from 29 June 2016**  
+At Buyza, we are committed to ensure we are compliance with GDPR. We believe in making our terms for marketing to be concise, transparent, intelligible and easily accessible on all our websites. They are written in clear and plain english and every information collected through forms online is never been used to be sold to other but for the sole purpose or providing products or services or information that the user request on our websites. In the page below explains how information collected is used.
+
+At Buyza, we are committed to ensure the appropriate handling and protection of your personal data and privacy in accordance with Singapore’s Personal Data Protection Act 2012. Buyza is managed and owned by Buyza Pte Ltd.
+
+ **Terms and Conditions for Consent to Marketing Information and Personal Data Usage**
+
+If you wish to withdraw your consent, please email to peter@Buyza.com with your name and email address and contact number , it will take 2 to 7 workings to process with a response that you will be removed to be confirm.
+
 This blog is a sponsored blog created or supported by a company, organization or group of organizations. For questions about this blog, please contact Phang Alvin.  
 This blog accepts forms of cash advertising, sponsorship, paid insertions or other forms of compensation.
 
@@ -12,6 +19,8 @@ The owner(s) of this blog is compensated to provide opinion on products, service
 
 This blog does not contain any content which might present a conflict of interest.  
 To get your own policy, go to http://www.disclosurepolicy.org
+
+This blog does contain affiliate links and sponsored links which will provide commission to the writer of the content.
 
 **Privacy Policy**
 
@@ -89,12 +98,15 @@ Google, as a third-party vendor, uses cookies to serve ads on our site. Google�
 
 **•** Google Display Network Impression Reporting
 
+**•**  Remarketing in Facebook Marketing
+
 We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
 
 **Opting out: **  
 Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.****
 
-**California Online Privacy Protection Act**
+******  
+********California Online Privacy Protection Act**
 
 CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
 
@@ -176,3 +188,5 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 **•** Follow the instructions at the bottom of each email.
 
 ****and we will promptly remove you from **ALL** correspondence.****
+
+If there are any questions regarding this privacy policy, you may contact us using the information below.
