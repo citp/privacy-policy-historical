@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the amway.in privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206030939id_/http%3A//www.amway.in/store/amway/en/INR/static-pages/ABO_PCPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amway.in privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608082035id_/http%3A//www.amway.in/store/amway/en/INR/static-pages/ABO_PCPrivacyPolicy) for the most accurate reproduction.*
 
-# AmwayPrivacyPolicy
+# Amway privacy policy for Amway business owners | Amway India
 
 This Privacy Policy describes how Amway India Enterprises Pvt. Ltd. (hereinafter " **Amway** ") uses personal data collected or received from Amway Business Owners (" **ABOs** ") and Preferred Customers (" **PCs** "). It describes how we may collect or receive your personal data, the types of personal data we may collect, how we use, share and protect these data, how long we retain these data, your rights, and how you can contact us about our privacy practices.
 
