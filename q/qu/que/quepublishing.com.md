@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the quepublishing.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118134814id_/http%3A//www.quepublishing.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quepublishing.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609235924id_/http%3A//www.informit.com/about/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | Que
+# Privacy Notice | InformIT
 
 ### Information Collection and Use
 
-QuePublishing.com is operated from 800 East 96th Street, Indianapolis, IN, 46240, and is operated by Pearson Education, Inc. ("Company"). We can be reached by email at [information@quepublishing.com](mailto:information@quepublishing.com).
+InformIT.com is operated from 800 East 96th Street, Indianapolis, IN, 46240, and is operated by Pearson Education, Inc. ("Company"). We can be reached by email at **[comments@informit.com](mailto:comments@informit.com)**.
 
-We will not sell, share, or rent Personally Identifying Information to others in ways different from what is disclosed in this statement. QuePublishing.com collects information from our users at several different points on our web site. Pearson Education recognizes the importance of protecting the privacy of Personal Identifying Information about you as a user of our web site. 
+We will not sell, share, or rent Personally Identifying Information to others in ways different from what is disclosed in this statement. InformIT.com collects information from our users at several different points on our web site. Pearson Education recognizes the importance of protecting the privacy of Personal Identifying Information about you as a user of our web site. 
 
-We consider the following to be Personal Identifying Information: your email address, name, password, mailing address, phone number and credit card information. This web site does not collect Personal Identifying Information about a user other than information that is voluntarily provided to our Company; in this way, we can serve the user's needs as well as our own legitimate business purposes. (For example, we retain the Personal Identifying Information that a user provides when he or she chooses to register with QuePublishing.com).
+We consider the following to be Personal Identifying Information: your email address, name, password, mailing address, phone number and credit card information. This web site does not collect Personal Identifying Information about a user other than information that is voluntarily provided to our Company; in this way, we can serve the user's needs as well as our own legitimate business purposes. (For example, we retain the Personal Identifying Information that a user provides when he or she chooses to register with InformIT.com).
 
 Our company uses a user's Personal Identifying Information in order to help us improve our web site, or for our company's marketing and promotional purposes if you have opted to receive these kinds of communications. This information will be treated confidentially within our company. While our policy is not to share this information with third parties, we do share aggregate information with other companies within Pearson Education, Inc.
 
@@ -36,7 +36,7 @@ Like most standard web site servers we use log files. This includes internet pro
 
 ### Sharing
 
-We will share anonymous demographic information and/or webpage browsing patterns and history with our partners and advertisers who work with us to provide products and services or to help us market our products and services to you. This is not linked to any personal information that can identify any individual person. As specified in the Cookies section above, users can turn off all or certain cookies in their browser settings if they so desire.
+We will share anonymous demographic information and/or webpage browsing patterns and history with our partners and advertisers who work with us to provide products and services or to help us market our products and services to you. This is not linked to any personal information that can identify any individual person.  As specified in the Cookies section above, users can turn off all or certain cookies in their browser settings if they so desire.  
 
 We use an outside credit card processing company to bill users for goods and services. This company does not retain, share, store or use personally identifiable information for any secondary purposes.
 
@@ -48,7 +48,7 @@ This web site contains links to other sites. Please be aware that we are not res
 
 ### Newsletters
 
-If you have elected to receive email newsletters or promotional mailings and special offers but want to unsubscribe, simply visit [www.quepublishing.com/u.aspx](https://web.archive.org/u.aspx), enter your email address in the field supplied, and click the Submit button. On the resulting page, check the box of the particular item(s) you would no longer like to receive, and click the Unsubscribe button.
+If you have elected to receive email newsletters or promotional mailings and special offers but want to unsubscribe, simply visit **[www.informit.com/u.aspx](https://web.archive.org/u.aspx)** , enter your email address in the field supplied, and click the Submit button. On the resulting page, check the box of the particular item(s) you would no longer like to receive, and click the Unsubscribe button. 
 
 ### Service Announcements
 
@@ -56,7 +56,7 @@ On rare occasions it is necessary to send out a strictly service related announc
 
 ### Customer Service
 
-We communicate with users on a regular basis to provide requested services and in regard to issues relating to their account we reply via email or phone in accordance with the users' wishes when a user submits their information through our [Contact Us form](https://web.archive.org/about/contact_us/). 
+We communicate with users on a regular basis to provide requested services and in regard to issues relating to their account we reply via email or phone in accordance with the users' wishes when a user submits their information through our **[Contact Us form](https://web.archive.org/about/contact_us/)**.
 
 ### Surveys & Contests
 
@@ -68,15 +68,15 @@ The security of your personal information is important to us. When you enter sen
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about the security at our web site, you can send an email to [comments@informit.com](mailto:comments@informit.com).
+If you have any questions about the security at our web site, you can send an email to **[comments@informit.com](mailto:comments@informit.com)**.
 
 ### Correction/Updating Personal Information
 
-If a user's personally identifiable information changes (such as your postal address or email address), we provide a way to correct or update that user's personal data provided to us. This can be done on the [Account page](https://memberservices.informit.com/my_account/login.aspx?partner=71). If a user no longer desires our service and desires to delete his or her account, please contact us at [customer-service@informit.com](mailto:customer-service@informit.com) and we will process the deletion of a user's account.
+If a user's personally identifiable information changes (such as your postal address or email address), we provide a way to correct or update that user's personal data provided to us. This can be done on the **[Account page](https://memberservices.informit.com/my_account/login.aspx?partner=53)**. If a user no longer desires our service and desires to delete his or her account, please contact us at **[customer-service@informit.com](mailto:customer-service@informit.com)** and we will process the deletion of a user's account.
 
 ### Choice/Opt-out
 
-Users can always make an informed choice as to whether they should proceed with certain services offered by Que Publishing. If you choose to remove yourself from our mailing list(s) simply visit the following page and uncheck any communication you no longer want to receive: [www.quepublishing.com/u.aspx](https://web.archive.org/u.aspx). If you choose to remove yourself from the abandoned cart email, simply click the unsubscribe link at the bottom of any abandoned cart reminder email.
+Users can always make an informed choice as to whether they should proceed with certain services offered by InformIT. If you choose to remove yourself from our mailing list(s) simply visit the following page and uncheck any communication you no longer want to receive: **[www.informit.com/u.aspx](https://web.archive.org/u.aspx)**. If you choose to remove yourself from the abandoned cart email, simply click the unsubscribe link at the bottom of any abandoned cart reminder email.
 
 ### Notification of Changes
 
