@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cyberciti.biz privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222172724id_/https%3A//www.cyberciti.biz/tips/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberciti.biz privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609143734id_/https%3A//www.cyberciti.biz/tips/privacy) for the most accurate reproduction.*
 
-# Privacy policy – nixCraft
+# Privacy policy - nixCraft
 
-This site http://www.cyberciti.biz and http://nixcraft.com [ our forum ] (“nixCraft”) hosts the project, documents, and tutorials related to open source software’s, Linux, FreeBSD and UNIX (Solaris) etc., largely compiled and maintained by Vivek Gite or by project contributors. We do not ask for any registration except registration is compulsory only if:
+This site [https://www.cyberciti.biz](https://www.cyberciti.biz/) and [https://nixcraft.com](https://www.nixcraft.com/) [ our forum ] (“nixCraft”) hosts the project, documents, and tutorials related to open source software’s, Linux, FreeBSD and UNIX (Solaris) etc., largely compiled and maintained by Vivek Gite or by project contributors. We do not ask for any registration except registration is compulsory only if:
 
   * You wish to post your message on our forum.
   * You wish to post comments on our blogs or tutorials.
@@ -13,11 +13,13 @@ Forum software and other registration softwares create your profile and collect 
 
 ### Mailing list
 
-Visitors are invited to join our mailing list. No information, except an e-mail address is required for this. In addition, a confirmation from the email address is required, to prevent anyone from subscribing someone else without permission. Subscription to our mailing list will not start until confirmation is received. Requests to be removed from the mailing list will result in deletion of the email address.
+Visitors are invited to [join our mailing list](https://www.cyberciti.biz/subscribe-to-weekly-linux-unix-newsletter-for-sysadmin/). No information, except an e-mail address and name is required for this. In addition, a confirmation from the email address is required, to prevent anyone from subscribing someone else without permission. Subscription to our mailing list will not start until confirmation is received. Requests to be removed from the mailing list will result in deletion of the email address.
 
-All the information provided or collected by us will only be used within cyberciti.biz and will not be sold, rented, loaned or traded with a third party, except where required by law.
+All the information provided or collected by us will only be used within www.cyberciti.biz/nixcraft.com and will not be sold, rented, loaned or traded with a third party, except where required by law.
 
-If offensive content is posted or sent anywhere on or to cyberciti.biz or a visitor engages in any disruptive behavior on cyberciti.biz, we can use whatever information is available to stop such behavior. This may involve informing relevant third parties such as employers, web hosting service provider, e-mail/Internet providers and law enforcement agencies about the content and behavior.
+If offensive content is posted or sent anywhere on or to cyberciti.biz/nixcraft.com or a visitor engages in any disruptive behavior on cyberciti.biz/nixcraft.com, we can use whatever information is available to stop such behavior. This may involve informing relevant third parties such as employers, web hosting service provider, e-mail/Internet providers and law enforcement agencies about the content and behavior.
+
+When you subscribe to email list, you give your consent to nixCraft to be in touch with you via email using the information provided in this form for the purpose of news and updates from email newsletter. If you wish to withdraw your consent and stop hearing from me via email list, simply click the unsubscribe link at the bottom of every email I send or contact me directly at webmaster@cyberciti.biz. I value and respect your personal data and privacy. To view our privacy policy, please visit our [website](https://www.cyberciti.biz/tips/privacy). By submitting this form, you agree that I may process your information in accordance with these terms.
 
 ### Log Files
 
@@ -25,7 +27,7 @@ nixCraft collect and use the data contained in server log files. The information
 
 ### Google Analytics
 
-We also use Google Analytics on this website. A small amount of **anonymous data** is sends to the Google’s servers such as your ISP, browser, operating system, geo-location and so on. We use this reports to improve our site’s articles (content), and design for our visitors. Google Analytics put cookies on your computer. Please see the [Google Analytics Terms of Service](http://www.google.com/analytics/terms/us.html) for more information.
+We also use Google Analytics on this website. A small amount of **anonymous data** is sends to the Google’s servers such as your ISP, browser, operating system, geo-location and so on. We use this reports to improve our site’s articles (content), and design for our visitors. Google Analytics put cookies on your computer. Please see the [Google Analytics Terms of Service](https://www.google.com/analytics/terms/us.html) for more information.
 
 ### Cookies and Web Beacons
 
@@ -40,21 +42,7 @@ We use third-party advertising companies to serve ads when you visit our website
 ##### Links to the vendor websites to opt out:
 
   * DoubleClick DFA and RichMedia ([www.doubleclick.com](https://www.doubleclick.com/))
-  * Collective ([www.collective.com](http://www.collective.com/))
-  * IDG Technetwork ([www.idgtechnetwork.com](http://www.idgtechnetwork.com/))
-  * Mediaplex/ValueClick ([www.mediaplex.com](http://www.mediaplex.com/))
-  * Eyeblaster ([www.eyeblaster.com](http://www.eyeblaster.com/))
-  * EyeWonder ([www.eyewonder.com](http://www.eyewonder.com/))
-  * Interpolls ([www.interpolls.com](http://www.interpolls.com/))
-  * Pointroll ([www.pointroll.com](http://www.pointroll.com/))
-  * Unicast ([www.unicast.com](http://www.unicast.com/))
-  * Dynamic Logic/Safecount ([www.safecount.net](http://www.safecount.net/))
-  * Factor TG ([www.factortg.com](http://www.factortg.com/))
-  * IAG ([www.iagr.com](http://www.iagr.net/))
-  * InsightExpress ([www.insightexpress.com](https://www.insightexpress.com/))
   * Google Adsense ([www.google.com/adsense](https://www.google.com/adsense))
-  * Tribalfusion ([www.tribalfusion.com](https://www.tribalfusion.com/))
-  * Adify ([www.adify.com](http://www.adify.com/))
 
 
 
@@ -115,4 +103,4 @@ Questions regarding Site policy, should be directed to us via [e-mail](https://w
 
 Please note that this privacy policy is subject to change without any prior notice to visitors.
 
-Last updates on: Oct-9-2012, 7:27 PM IST.
+Last updates on: Apr 30, 2018.
