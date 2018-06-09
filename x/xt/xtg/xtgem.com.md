@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtgem.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205234826id_/http%3A//xtgem.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtgem.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609055423id_/http%3A//xtgem.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - XtGem.com — Visual mobile site building tool
 
@@ -21,4 +21,4 @@ XTGEM service user understands and agrees that the risks related to the submissi
 
 Also the log in name of an XTGEM service user may be shown to other XTGEM service users when the user sends or uploads information on XTGEM website and so other service users who receive this information may contact the user by writing messages or using XTGEM services.
 
-© 2017 xtgem.com 
+© 2018 xtgem.com 
