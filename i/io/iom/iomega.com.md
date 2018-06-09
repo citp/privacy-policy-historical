@@ -1,48 +1,36 @@
-> *The following text is extracted and transformed from the iomega.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223063244id_/https%3A//www.lenovo.com/privacy/us/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iomega.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609105024id_/http%3A//ww43.iomega.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy
 
-  | 
+* **Overview**
 
-_Lenovo Privacy Practices on the Web_
+Thank you for visiting ww43.iomega.com (the "Web Site") and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Web Site unless you choose to provide that information. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
 
-|   |    
-|   
-**Scope**  
-This statement applies to Lenovo Web Sites Worldwide that are linked to this privacy policy.  | Personal Information  
----  
-  
-In general, you can visit us on the Internet without telling us who you are or giving us personal information such as your name, email, and contact information. There are times when we may need information from you, for instance: to process an order, to correspond, to provide a subscription or in connection with a job application. We may supplement this information to complete a transaction or to provide a better service.  
-  
-Uses  
----  
-  
-  * To fulfill your requests by us or by others involved in fulfillment.
-  * To contact you for customer satisfaction surveys, market research or in connection with certain transactions.
-  * By Lenovo and selected organizations for marketing purposes if you have permitted such use.
-  * In an non-identifiable format for analysis (e.g., Clickstream Data).
-  * To develop our business relationship if you represent a Lenovo Business Partner or Vendor.
+* **What Type of Information We Collect**
 
-  
-  
-Your Choices  
----  
-  
-  * When we collect information from you, you may tell us that you do not want it used for further marketing contact and we will respect your wishes.
-  * You may access your "My Account" to update your communication preferences.
-  * You may also turn off cookies in your browser.
+The server on which the Web Site is located collects and saves only the default information customarily logged by web server software. Such information may include the date and time of your visit, the originating IP address, and the pages and images requested. 
 
-  
-  
-Important Information  
----  
-How to Contact Us  
----  
-  
-Questions about this statement or about Lenovo's handling of your information may be sent using our short [Privacy Submission Form](https://shop.lenovo.com/SEUILibrary/controller/e/web/LenovoPortal/en_CA/webforms.workflow:StartWebForms?WebFormId=privacy) or
+We partner with a limited number of third party behavioral advertising companies. In some cases, these companies serve ads and/or collect certain information when you visit the Web Site. The Web Site and third party advertisers may use cookies, a small file containing a string of characters that is sent to your computer when you visit a website, to collect non-personal information (name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements of interest to you on the Web Site, other sites, and other forms of media. 
 
-Lenovo Privacy  
-1009 Think Place  
-Morrisville, NC 27560  
+* **Uses May Include**
+
+  * We may use personal information to provide the services you've requested, including services that display customized content and advertising. 
   
-| 
+
+  * We may also use personal information for auditing, research and analysis to operate and improve our technologies and services. 
+  
+
+  * We may share aggregated non-personal information with third parties outside of The Web Site. 
+  
+
+  * When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. 
+  
+
+  * We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. 
+  
+
+  * The Web Site processes personal information on servers in the United States of America. In some cases, we process personal information on a server outside your own country. 
+  
+
+
+* If you would like to know more about these practices and your choices about not having this information used to target ads to you, please visit the Network Advertising Initiative opt-out page <http://www.networkadvertising.org/managing/opt_out.asp> or the Digital Advertising Alliance at [aboutads.info](http://www.aboutads.info/).
