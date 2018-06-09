@@ -1,51 +1,64 @@
-> *The following text is extracted and transformed from the sosuave.com privacy policy that was archived on 2004-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041213203732id_/http%3A//www.sosuave.com/home/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sosuave.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609085907id_/http%3A//www.sosuave.com/dating/privacy.htm) for the most accurate reproduction.*
 
-# The Don Juan Center's Privacy Policy
+# Privacy Policy for SoSuave
 
-  
-| [](http://www.sosuave.com/)  
----  
-[](http://www.sosuave.com/articles/new.htm)  
-[](http://www.sosuave.net/forum/index.php)  
-[](http://www.sosuave.com/articles/default.htm)  
-[](http://www.sosuave.com/quick/default.htm)  
-[](http://www.sosuave.com/halloffame/default.htm)  
-[](http://www.sosuave.com/doclove/default.htm)  
-[](http://www.sosuave.com/rondavid/default.htm)  
-[](http://www.sosuave.com/home/default.htm)  
-[](http://www.sosuave.com/home/respond/default.htm)  
-[](http://www.sosuave.com/romance/default.htm)  
-[](http://www.sosuave.com/niceguys/default.htm)  
-[](http://www.sosuave.com/home/links.htm)  
-[](mailto:djnewslet@aol.com)  
-[](mailto:djnewslet@aol.com)  
- 
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us by email](mailto:sosuave@sosuave.com).
 
-### Privacy Policy 
+At SoSuave.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information collected and recorded by SoSuave.com and how we use it.
 
-The Don Juan Center and and its advertisers and affiliates are deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information.
+**Log Files**
 
-**Consumer Information**
+Like many other Web sites, SoSuave.com makes use of log files. These files merely logs visitors to the site - usually a standard procedure for hosting companies and a part of hosting services's analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-While you visit our site we do not collect any personally identifiable information about you such as name, address, phone number, or e-mail address unless you explicitly provide it via a mailing list signup form or in one of the discussion forums. We do obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). This information is used for the purpose of targeting ads and measuring ad effectiveness on behalf of our advertisers.
+**Cookies and Web Beacons**
 
-In some cases, you may voluntarily provide personal information in response to a specific request such as a mailing list signup form or to identify you in a discussion forum. In the case of a discussion forum, your name and/or mailing address are visible to all site visitors if you provide them. In the case of mailing lists, when you sign up for any list we add your email address to an automated list system. The addresses on that list are used only for the specific types of mailings described and will never be revealed to any advertiser or other party -- including to other members of the list. While individual mailings may contain ads, we do not rent, sell, or give away our mailing lists for any reason.
+SoSuave.com uses cookies to store information about visitors' preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors' browser type or other information that the visitor sends via their browser.
 
-**Cookies**
+**DoubleClick DART Cookie**
 
-Our site, as well as most sites on the Internet, use "cookies" to enhance your experience on the web. We do not use these cookies to personally identify you in any way. What are cookies and why do we use them? A cookie is a unique piece of information that is provided by your web browser which is stored in a cookie file on your computer. This helps us know your preferences like chat room name and favorite color choice when you return next time. You can still disable cookies on your browser at any time.
+→ Google, as a third party vendor, uses cookies to serve ads on SoSuave.com.
 
-**Opt Out Procedure**
+→ Google's use of the DART cookie enables it to serve ads to our site's visitors based upon their visit to SoSuave.com and other sites on the Internet.
 
-If you would like to "opt out," that is, to prevent any data from being stored by us, simply not signing up for any of our voluntary mailing lists or participating in discussion forums is sufficient.
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
 
-**    Want More Great Tips?**
+**Our Advertising Partners**
 
-**               Subscribe to  
-  _The Don Juan Tip of the Day!_**
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:
 
-[  
-](http://www.sosuave.com/cgi-bin/absolute/redirect.cgi?link=http://www.seductionscience.com/jump.php?a=2360)
+  * Google
+  * Clickbank
+  * DoubleClick
 
-|   
- 
+
+
+While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here: [Privacy Policies](http://www.privacypolicyonline.com/privacy-policies). You may consult this listing to find the privacy policy for each of the advertising partners of SoSuave.com.
+
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on SoSuave.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site's third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
+
+SoSuave.com has no access to or control over these cookies that are used by third-party advertisers.
+
+**Third Party Privacy Policies**
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. SoSuave.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links").
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
+
+We use [Clicky](https://clicky.com/terms/) to log and analyze the traffic to our web site. You may review Clicky's privacy policy at <http://clicky.com/terms/privacy> A "Unique ID" tracking cookie is used for the "legitimate purpose" of identifying unique visitors, but otherwise no "personal data" is logged. 
+
+**Children's Information**
+
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. SoSuave.com does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that SoSuave.com has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
+
+**Online Privacy Policy Only**
+
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.
+
+**Consent**
+
+By using our website, you hereby consent to our privacy policy and agree to its terms.
+
+**Update**
+
+This Privacy Policy was last updated on: 5/24/2018. Should we update, amend or make any changes to our privacy policy, those changes will be posted here.  
+
