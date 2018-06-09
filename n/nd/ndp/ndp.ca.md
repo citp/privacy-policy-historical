@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ndp.ca privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209012928id_/http%3A//www.ndp.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ndp.ca privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610013450id_/http%3A//www.ndp.ca/privacy) for the most accurate reproduction.*
 
 # Privacy Policy « Canada's NDP
 
@@ -20,15 +20,23 @@ We collect the personal information that you choose to provide to us when you be
 
 We use your personal information to communicate with you about the NDP, to provide you with news and information about the NDP and our activities, and to contact you about your past and future donations and membership.
 
-As we are a federal party, we may share your information internally within our national organization, including with NDP riding associations.
+As we are a federal party, we may share your information internally within our national organization, including with NDP riding associations and provincial sections.
 
 We use your financial information to process your donations. We are also required by the _Canada Elections Act_  to provide Elections Canada with information related to the donations you make to us.
 
 **Protecting Your Personal Information**
 
-Your privacy is very important to us. We protect your personal information by employing rigorous security systems and strict access controls in order to safeguard your personal information from unauthorized access, disclosure, alteration, or misuse.
+Your privacy is very important to us. We protect your personal information by employing rigorous security systems and strict access controls in order to safeguard your personal information from unauthorized access, disclosure, alteration, or misuse. All users of our systems must agree to terms of use that include language on protecting your privacy before being authorized to use our systems.
 
 We may engage third parties to provide us with services from time-to-time, such as hosting servers and websites, processing online donations, or providing technical or communications services. When information is shared with third parties for these purposes, we ensure that your personal information is rigorously protected by including privacy safeguards in all our contracts, including stringent confidentiality and non-disclosure provisions.
+
+Under no circumstances does the NDP sell your personal information to any third parties.
+
+In the event of a privacy breach, the NDP is committed to documenting the circumstances that led to the breach, the personal identifying information that might have been compromised and immediately and proactively informing affected individuals.
+
+**Privacy officer**
+
+In an effort to ensure that your privacy is protected and that the NDP is accountable to you, the party has designated a privacy officer, who is responsible for ensuring that your privacy and this policy is being respected. The privacy officer is also accountable for ensuring that any recipients of your personal information safeguard the security and integrity of your information.
 
 **Visiting NDP.ca**
 
