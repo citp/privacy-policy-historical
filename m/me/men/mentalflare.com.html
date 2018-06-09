@@ -1,15 +1,31 @@
-<!--The following is the downloaded HTML source of the mentalflare.com privacy policy that was archived on 2017-11-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171112042548id_/http%3A//mentalflare.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mentalflare.com privacy policy that was archived on 2018-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180609060429id_/http%3A//mentalflare.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><head>
-
-<meta charset="UTF-8">
-<title>Privacy Policy - Mental Flare</title>
-<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">var adblock = true;</script>
+<!DOCTYPE html><html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><!--TWIG BASED--><head>
+    <meta charset="UTF-8">
+    
+    <title>Privacy Policy - Mental Flare</title>
+    <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">var adblock = true;</script>
 <script type="text/javascript" src="http://mentalflare.com/wp-content/themes/boredom/modules/front/js/btAdBlockDetector/adframe.js"></script>
+            <script>
+              (function () {
+                var a = document.createElement('a');
+                a.href = document.referrer;
+                var referrer = a.hostname;
 
-<meta id="bt_version" bt_server="web12" bt_version="1.131.2.2" bt_date="2017-11-12 02:40:23" pas="8796093022240_2097156_246290604625920_96" cache="file" tbc="39206" db_server="Prod Slave DB2">
-<!-- This site is optimized with the Yoast SEO plugin v4.9 - https://yoast.com/wordpress/plugins/seo/ -->
+                var hosts = JSON.parse('{"m.facebook.com":"6","facebook.com":"6"}')
+
+                for (host in hosts) {
+                  if (host == referrer) {
+                    var url = window.location.href.split('?')[0] + '?as=' + hosts[host];
+                    window.location.assign(url);
+                  }
+                }
+              })();
+            </script>
+            
+<meta id="bt_version" bt_server="web12" bt_version="1.161.3" bt_date="2018-06-09 06:04:28" pas="853221296849698_69475394125828_8972015000092672_4545503161274473_6755399441055744_1" cache="file" tbc="39189" db_server="Prod Master DB2">
+<!-- This site is optimized with the Yoast SEO plugin v5.8 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="http://mentalflare.com/privacy-policy/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
@@ -22,22 +38,25 @@
 <meta name="twitter:card" content="summary">
 <meta name="twitter:description" content="Your privacy is very important to us at Mental Flare, and so we have a few fundamental principles that we follow in order to protect it: We don’t ask you for personal information unless we truly need it. We don’t share your personal information with anyone except to comply with the law, develop our products, […]">
 <meta name="twitter:title" content="Privacy Policy - Mental Flare">
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/mentalflare.com\/","name":"Mental Flare","potentialAction":{"@type":"SearchAction","target":"http:\/\/mentalflare.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
 <!-- / Yoast SEO plugin. -->
 
-<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
-<link rel="dns-prefetch" href="//fonts.googleapis.com">
 <link rel="dns-prefetch" href="//s.w.org">
 <script>
 window.bt = window.bt || {};
+bt.page = '1';
 function matchDeviceType(deviceType) {
  var s = (window.innerWidth > screen.width ? screen.width : window.innerWidth);
- var isMobile = (s < 640);
+ var isMobile = (s < 768);
+ var isTablet = (s >= 768) && (s < 1024);
+ var isDesktop = (s >= 1024);
+ var isDesktopX = (s >= 1280); 
  switch(deviceType) {
 	case 'mobile': return isMobile;
-	case 'tablet': return false;
-	case 'desktop': return !isMobile;
-	case 'desktopx': return false;
-	default: return isMobile;
+	case 'tablet': return isTablet;
+	case 'desktop': return isDesktop;
+	case 'desktopx': return isDesktopX;
+	default: return (isMobile || isTablet);
  } }
 bt.isMobileAny = matchDeviceType('mobileAny');
 bt.isMobile = matchDeviceType('mobile');
@@ -50,27 +69,50 @@ function getDeviceNameOrLetter(n) {
     if (bt.isDesktopX) return n ? 'desktopx' : 'DX';
     if (bt.isDesktop) return n ? 'desktop': 'D';
 }
+bt.byDevice = function(m,t,d) {return bt.isMobile ? m : bt.isDesktop ? d : t;}
 bt.deviceLetter = getDeviceNameOrLetter(false);
 bt.deviceFullName = getDeviceNameOrLetter(true);
-</script>
+bt.devNamL = bt.byDevice('M','T','D');
+bt.playWire = { 
+    mobile: '',
+    desktop: '',
+    tablet: ''
+};
+
+</script>    <script type="text/javascript" src="//cloudfront.loggly.com/js/loggly.tracker-latest.min.js" async=""></script>
+    <script>
+      var _LTracker = _LTracker || [];
+//      _LTracker.push({
+//        'logglyKey': 'fcca4085-03cb-4d8b-baf2-e541b5dd7ebd',
+//        'sendConsoleErrors': true,
+//        'tag': 'loggly-jslogger'
+//      });
+    </script>
+    
 <script type="text/javascript">
 window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
 function sendPrebidGA(uval) {
 
 }
+var tabletMode = bt.isTablet;
 (function sendGAData() {
     var linkCanon = document.querySelector("link[rel='canonical']");
     var canonical = linkCanon ? linkCanon.href : '';
     var myAdblock = String(adblock);
     var referrer = document.referrer || 'Direct';
+    var isPlayWire = ((bt.playWire.mobile && bt.isMobile) || (bt.playWire.desktop && bt.isDesktop) || (bt.playWire.tablet && tabletMode)) ? 'true' : 'false';
+    var cr = ((false && !bt.isMobile) || (false && bt.isMobile) || (false && !bt.isMobile) || (false && bt.isMobile) || (false && !bt.isMobile)) ? 'yahoo' : 'none';
+    var presentationMode = bt.fbs ? 'single' : 'article';
+    var storyType = (bt.fbns && (bt.fbscr || bt.fbs)) ? 'Infinite Stories' : 'Single Story';
     ga('create', 'UA-69581236-1', 'auto');    
 
     
     
     
-    var dimensions = ['default','z','8796093022240_2097156_246290604625920_96','empty','','','','1.131.2.2',referrer,'none',
+    var dimensions = ['high','z','853221296849698_69475394125828_8972015000092672_4545503161274473_6755399441055744_1','empty','','','','1.161.3',referrer, cr,
         'empty','empty','','1',bt.deviceFullName,'non-hidden','131',myAdblock,'',canonical,
-        'empty','NAT','11/02/15','false','','article'];
+        'empty','NAT','11/02/15','false','',presentationMode, '', isPlayWire, 'No_Prebid', 'not_assigned',
+        'not_assigned', 'not_assigned', 'not_assigned', 'no_ad', storyType, '1'];
     dimensions.forEach(function(dim,i){
         if (dim !== '') {ga('set','dimension'+(i+1),dim);} 
     });
@@ -80,27 +122,37 @@ function sendPrebidGA(uval) {
 </script>
 <script async="" src="https://www.google-analytics.com/analytics.js"></script>
 
-<script id="bts_util2">
-function getUrlParam(val) {
-var result = false,tmp = [];
-var items = location.search.substr(1).split("&");
-for (var index = 0; index < items.length; index++) {
- tmp = items[index].split("=");
- if (tmp[0].toLowerCase() === val) result = decodeURIComponent(tmp[1]);
-}
-return result;
-}
-</script>
-	<meta property="article:category" content="Video">
+    <script id="bts_util2">
+        function getUrlParam(val) {
+            var result = false, tmp = [];
+            var items = location.search.substr(1).split("&");
+            for (var index = 0; index < items.length; index++) {
+                tmp = items[index].split("=");
+                if (tmp[0].toLowerCase() === val) result = decodeURIComponent(tmp[1]);
+            }
+            return result;
+        }
+    </script>
+    	<meta property="article:category" content="Video">
 	
 <script data-cfasync="false" id="bt-js-obj">
+function applySpinner(divId) {
+  if (!bt.adSp) {
+     bt.adSp = [] 
+  }
+  bt.adSp.push(divId)
+}
 function hideAll(adId,divId) {
  var el = document.getElementById(divId);
  if (el) {el.style.display = 'none';}
  hideRels(adId);
 }
 function hideOrShowAd(adId,divId) {
- if (bt['pa' + adId]){googletag.cmd.push(function(){googletag.display(divId);});return;}
+ if (bt['pa' + adId]) {
+    applySpinner(divId);
+    googletag.cmd.push(function(){googletag.display(divId);});
+    return;
+  }
  //else
  hideAll(adId,divId);
 }
@@ -118,12 +170,12 @@ bt.multipleUrlsOrg = "privacy-policy";
 bt.postUrl = "privacy-policy";
 bt.galleryExtraContent = "";
 bt.isHtpDesign = false;
-bt.isHcDesign = false;
+bt.isHcDesign = true;
 bt.isBtDesign = false;
 bt.isAggr = true;
 bt.isSlideShow = false;
-bt.devNamL = bt.isMobile ? 'M' : bt.isTablet ? 'T' : 'D';
-
+bt.isTrackShares = true;
+bt.isAppendParamLogicForTrackShares = true; 
 bt.ajaxurl = "http://mentalflare.com/wp-admin/admin-ajax.php";
 bt.isFirstGalPage = false;
 bt.gamesTracker = '';
@@ -131,17 +183,15 @@ bt.prevPost = -1;
 bt.isSingle = false;
 bt.siteName = 'mentalflare';
 bt.siteDispalyName = 'Mental Flare';
+bt.sitePrefix = 'MF';
 bt.isHome = false;
-bt.current_grid_wall_story_id = false;
 bt.urlSuffix = '';
-bt.crToGridWall = false;
 bt.isCat = false;
 bt.dfp_id = 95097218;
 bt.no_dfp = false;
 bt.pvar = 'a';
 bt.statsServerUrl = 'stat.boredomtherapy.com';
 bt.gs = bt.gs || {};
-bt.gs.gridWallNextPage = false;
 bt.gs.pageSpeedOpti = {
     "cr": {
         "sidebar_top": "2",
@@ -166,7 +216,7 @@ bt.refS = [
     "7370697269746564626c697373",
     "637572696f7369747977656c6c",
     "6865726d6f6d656e7473",
-    "737769667479"
+    "6c696b65737769667479"
 ];
 bt.refSNames = [
     "426f7265646f6d2054686572617079",
@@ -183,8 +233,32 @@ bt.refSNames = [
     "537069726974656420426c697373",
     "437572696f736974792057656c6c",
     "486572204d6f6d656e7473",
-    "537769667479"
+    "4c696b6520537769667479"
 ];
+//Cookies.js
+bt.getCookie = function (cname) {
+    var name = cname + '=';
+    var ca = document.cookie.split(';');
+    for (var i = 0; i < ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') c = c.substring(1);
+        if (c.indexOf(name) == 0) return c.substring(name.length, c.length);
+    }
+    return '';
+}
+
+bt.setCookie = function (cname, cvalue, exdays) {
+    var d = new Date();
+    d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+    var expires = "expires=" + d.toUTCString();
+    document.cookie = cname + "=" + cvalue + ";" + expires;;
+}
+
+bt.deleteCookie = function (cname) {
+    bt.setCookie(cname, '', -1);
+}
+
+
 //first-page.js
 bt.isFirstPage = function () {//if no path, no as source, no pg or pg is 1
     var pgparam = getUrlParam('pg');
@@ -299,15 +373,15 @@ window.getUrlParByPref = function (prefix){ //get url parameter name value by na
 };
 
 function getAllUrlParams() {
-    var queryParams = ['pas', 'as', 'as-source', 'shr', 'crf', 'bdk', 'adv_txt', 'adv_img', 'utm_'];
+    var queryParams = ['pas', 'as', 'as-source', 'shr', 'crf', 'bdk', 'adv_txt', 'adv_img', 'utm_', 'ch', 'bt_debug', 'adsbox'];
     var queryString = location.search.slice(1);
     var queryParamFiltering = function(prev, curr) {
         var kvp = curr.split('=');
         var key = kvp[0];
-        var val = decodeURIComponent(kvp[1]);
+        var val = (kvp.length > 1) ? decodeURIComponent(kvp[1]) : '';
         var index = queryParams.indexOf(key);
         var isNoUtmParamInUrl = (key.indexOf('utm_') === -1);
-        if (kvp.length !== 2 || (index === -1 && isNoUtmParamInUrl)) { return prev; }
+        if ((kvp.length !== 2 && curr !== 'adsbox') || (index === -1 && isNoUtmParamInUrl)) { return prev; }
         // else
         if (key === 'crf' && val.indexOf('src_') === -1) { val = 'src_' + val; }
         // else
@@ -338,11 +412,11 @@ bt.gs.pageSpeedOpti.check = function(section, feature){
 };
 bt.getUrlparamValue = getUrlparamValue;
 bt.getUrlParByPref = getUrlParByPref;
-bt.page = '1';
 bt.showBigFacebookBtn = '';
 bt.affiliateDomains = 'amazon,anrdoezrs,performance,clickbank,c1224xv6gode1wb9thgdmehn75,shareasale,pntrac,joyus,shop,games,';
 bt.crNewTab = '';
-bt.estTime = String((21 % 2 == 0) ? 21 : 21 - 1);
+bt.estTime = String((2 % 2 == 0) ? 2 : 2 - 1);
+bt.permalink = 'http://mentalflare.com/privacy-policy/';
 var refs = '';
 function conv( str ) { return String.fromCharCode(parseInt( str, 16 )); }
 function conv_names( ar ) { return ar.map( function(s){ return s.match(/.{1,2}/g).map(conv).join(''); } ); }
@@ -366,19 +440,43 @@ function getUrlPathSection(sectionIndex) {
 </script>
     <link rel="icon" href="//mentalflare.com/wp-content/themes/mentalflare/images/favicon.png?ver=1.1" type="image/x-icon">
     <link rel="apple-touch-icon" href="//mentalflare.com/wp-content/themes/mentalflare/images/favicon.png?ver=1.1">
-	<link rel="stylesheet" id="fontawesome-css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css?ver=4.6.2" type="text/css" media="all">
-<link rel="stylesheet" id="boredomstylesheet-css" href="http://mentalflare.com/wp-content/themes/boredom/style.css?ver=1.131.2.2" type="text/css" media="all">
-<link rel="stylesheet" id="google_fonts-css" href="//fonts.googleapis.com/css?family=Oswald:normal|Roboto:normal" type="text/css" media="all">
-<link rel="stylesheet" id="aggressive-css" href="http://mentalflare.com/wp-content/themes/mentalflare/css/mflaire.css?ver=1.131.2.2" type="text/css" media="all">
+    <link rel="stylesheet" id="hc-site-style-css" href="http://mentalflare.com/wp-content/themes/mentalflare/css/style.css?ver=1.161.3" type="text/css" media="all">
 <script type="text/javascript">
  
+bt.idsPa = function(ar){return ar.filter(function(id){return bt["pa" + id];})}
+bt.adsAFX = function(s,idsF){return idsF.map(function(id){var o = bt[s+id];if (!o){return null} return o}).filter(function(o){return o})}
+
+bt.hbQ = [];
+bt.hbOn = function(){
+ bt.inHb = true;
+};
+bt.hbOff = function(){
+ bt.inHb = false;
+ var fun = bt.hbQ.shift();
+ if (fun) {
+  setTimeout(fun,1);
+ }
+};
+bt.setToHbOff = function(){
+  setTimeout(bt.hbOff,1);
+};
+bt.canHbOrQ = function(fun){
+ if (!bt.inHb){ return true}
+ if (fun){bt.hbQ.push(fun);} 
+ return false;
+};
+
 </script>
 <script type="text/javascript" id="bts_dfp">
 bt_site_id = 2;window.googletag = window.googletag || {};googletag.cmd = googletag.cmd || [];
-function setC(o,c,id) {
-  if (!o) {return;}
-  bt['a' + id] = o;
-  o.addService(googletag.pubads());
+bt.idsA=[];bt.oA={};bt.dI={};
+bt.aR = function(ar){var is1=!ar; googletag.pubads().refresh(ar)};
+function setC(n,s,d,c,id,out) {
+  var o = null;
+  if (out) {o = googletag.defineOutOfPageSlot(n,d);}
+  else {o = googletag.defineSlot(n,s,d);}
+  if (!o) {return null;}
+  if (!bt['a' + id]){bt['a' + id] = o;bt['d' + id] = d;bt.idsA.push(id);}bt.oA[d]=o;bt.dI[d]=id;var cc = bt['cc'+id];if(cc&&cc.sf){cc.sf(d)}   o.addService(googletag.pubads());
   switch(c) {
     case 1:
         o.setCollapseEmptyDiv(true,true);
@@ -392,15 +490,15 @@ function setC(o,c,id) {
     default:
         break;
   }
+  return o;
 }
 
-function resetFresh(isF) {
+function resetFresh() {
   bt.fresh = false;
   bt.pReady = false;
   bt.aReady = true;
-  bt.isAF = isF;
 }
-resetFresh(false);
+resetFresh();
 
 function onTimeoutNoHB(){
 
@@ -417,8 +515,17 @@ setTimeout(onTimeoutNoHB,1000);
 })();
 </script>
 <script type="text/javascript" src="http://mentalflare.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
-<script type="text/javascript" src="http://mentalflare.com/wp-content/themes/boredom/js/common.js?ver=1.131.2.2"></script>
-<meta name="viewport" content="width=device-width, initial-scale=0.7207207207207207"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black">
+<script type="text/javascript">
+/* <![CDATA[ */
+var api_dialog = {"is_error_php":"0","is_error_js":"0","is_on":"1","ui_settings":{"letter_spacing":{"mobile":[0,"off"],"desktop":[0,"off"]},"font_size_post_content":{"mobile":[0,"off"],"desktop":[0,"off"]},"font_size_post_title":{"mobile":[0,"off"],"desktop":[0,"off"]},"font_size_post_image":{"mobile":[0,"off"],"desktop":[0,"off"]}},"home":"http:\/\/mentalflare.com\/wp-content\/themes\/mentalflare","facebook":{"is_on":0,"id":"1513661828957988","url":"https:\/\/www.facebook.com\/mentalflare\/","facebook_popup":{"after_share":{"is_on":1,"displayed_already":0,"times_popped":0},"after_video_end":{"is_on":1,"displayed_already":0,"times_popped":0},"after_video_pause":{"is_on":0,"displayed_already":0,"times_popped":0}}},"google":{"data":{"layout_listener":{"is_on":0}}},"htp_social_disable":{"is_on":0}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://mentalflare.com/wp-content/themes/boredom/js/common.js?ver=1.161.3"></script>
+<script type="text/javascript" src="http://mentalflare.com/wp-content/themes/boredom/modules/js/in_viewport.min.js?ver=1.161.3"></script>
+<script type="text/javascript" src="http://mentalflare.com/wp-content/themes/boredom/modules/js/in-view.js?ver=1.161.3"></script>
+<script type="text/javascript" src="http://mentalflare.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="http://mentalflare.com/wp-content/themes/boredom/modules/classes/btYoutube/youtube-twig-events.js?ver=1.161.3"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black">
 <link rel="https://api.w.org/" href="http://mentalflare.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://mentalflare.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://mentalflare.com/wp-includes/wlwmanifest.xml"> 
@@ -426,10 +533,11 @@ setTimeout(onTimeoutNoHB,1000);
 <link rel="shortlink" href="http://mentalflare.com/?p=131">
 <link rel="alternate" type="application/json+oembed" href="http://mentalflare.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmentalflare.com%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="http://mentalflare.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmentalflare.com%2Fprivacy-policy%2F&amp;format=xml">
-<meta name="visibility_mode" content="non-hidden">	<script>
+    <style id="dynamic-css"></style>
+    <meta name="visibility_mode" content="non-hidden">	<script>
 		if ((screen.width >= 768) && (screen.width < 1110)) {
 			viewport = document.querySelector("meta[name=viewport]");
-			viewport.setAttribute('content', 'width=device-width, initial-scale='+screen.width/1110);
+			viewport.setAttribute('content', 'width=device-width, initial-scale=1'/*+screen.width/1110*/);
 		}
 
 		var boredom_pid = '131';
@@ -437,146 +545,137 @@ var boredom_permalink = 'http://mentalflare.com/privacy-policy/';
 var boredom_title = 'Privacy Policy';
 	</script>
 
-		<script>
+	    <script>
 
-        var bt_fb_app_id = '1513661828957988';
-        var bt_twitter_account = 'mentalflare';
-        
-        function loadSocial() {
-            var WaitForFunction = function (func, todo) {
-                if (!$.isFunction(func)) {
-                    setTimeout(WaitForFunction, 100);
-                    return;
-                } else todo;
-            }
-            
-            window.fbAsyncInit = function () {
-                FB.init({
-                    appId: 1513661828957988,
-                    status: true,
-                    xfbml: true,
-                    version: 'v2.4'
-                });
-                jQuery(document).trigger('fb-load');  //Trigger facebook load
+      var bt_fb_app_id = '1513661828957988';
+      var bt_twitter_account = 'mentalflare';
 
-                if (typeof(FB) != 'undefined') {
-                    FB.Event.subscribe('xfbml.render', function () {
-                        //console.log('facebook is ready');
-
-                        if (!bt.themeManageGa) {
-                            FB.Event.subscribe('edge.create', function (targetUrl, element) {
-                                var likeid = 'unknown like';
-                                if (element.hasAttribute("data-like-id")) { // a like that we don't know about?
-                                    likeid = 'like_' + element.getAttribute("data-like-id");
-                                }
-                                ga('send', 'social', 'facebook', likeid);
-                                //console.log("LIKE " + targetUrl + " " + likeid);
-                            });
-
-
-                            FB.Event.subscribe('edge.remove', function (targetUrl, element) {
-                                var likeid = 'unknown unlike';
-                                if (element.hasAttribute("data-like-id")) { // a like that we don't know about?
-                                    likeid = 'unlike_' + element.getAttribute("data-like-id");
-                                }
-
-                                ga('send', 'social', 'facebook', likeid);
-                                //console.log("UNLIKE " + targetUrl + " " + likeid);
-                            });
-                        }
-
-                        FB.Event.subscribe('message.send', function (targetUrl) {
-                            ga('send', 'social', 'facebook', 'send', targetUrl);
-                        });
-                    });
-                }
-
-            };
-            
-            function go() {
-                var s = 'script';
-                var js, fjs = document.getElementsByTagName(s)[0], load = function (url, id) {
-                    if (document.getElementById(id)) {
-                        return;
-                    }
-                    js = document.createElement(s);
-                    js.src = url;
-                    js.id = id;
-                    fjs.parentNode.insertBefore(js, fjs);
-                };
-
-                jQuery('iframe').each(function () {
-                    jQuery(this).attr('src', jQuery(this).attr('data-src'));
-                });
-
-                //Facebook
-                load('//connect.facebook.net/en_US/all.js#xfbml=1', 'fbjssdk');
-                // Youtube
-                //load('//apis.google.com/js/platform.js', 'youtube');
-                //Google+
-                load('//apis.google.com/js/plusone.js', 'gplus1js');
-                //Twitter
-                load('//platform.twitter.com/widgets.js', 'tweetjs');
-                //Pinterest
-                load('//assets.pinterest.com/js/pinit.js', 'pinitjs');
-            }
-
-            go();
+      function loadSocial() {
+        var WaitForFunction = function (func, todo) {
+          if (!$.isFunction(func)) {
+            setTimeout(WaitForFunction, 100);
+            return;
+          } else todo;
         }
-        
-		function checkLive(mobile, desktop) {
-			var rn = desktop;
-			var isMobile = window.matchMedia("only screen and (max-width: 640px)");
-			if (isMobile.matches)
-				rn = mobile;
-			var rand = Math.random() * 100;
-			if (rand < rn)
-				ret = true;
-			else
-				ret = false;
-			return ret;
-		}
-		
-//		(function (d, s, id) {
-//			var js, fjs = d.getElementsByTagName(s)[0];
-//			if (d.getElementById(id)) return;
-//			js = d.createElement(s);
-//			js.id = id;
-//			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
-//			fjs.parentNode.insertBefore(js, fjs);
-//		}(document, 'script', 'facebook-jssdk'));
 
-		window.sticky_top_offset = 0;
-	</script>
-			<!-- Facebook Pixel Code -->
-		<script id="bts_fb_pixel_code">
-			!function (f, b, e, v, n, t, s) {
-				if (f.fbq)return;
-				n = f.fbq = function () {
-					n.callMethod ?
-						n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-				};
-				if (!f._fbq)f._fbq = n;
-				n.push = n;
-				n.loaded = !0;
-				n.version = '2.0';
-				n.queue = [];
-				t = b.createElement(e);
-				t.async = !0;
-				t.src = v;
-				s = b.getElementsByTagName(e)[0];
-				s.parentNode.insertBefore(t, s)
-			}(window,
-				document, 'script', '//connect.facebook.net/en_US/fbevents.js');
+        window.fbAsyncInit = function () {
+          FB.init({
+            appId: 1513661828957988,
+            status: true,
+            xfbml: true,
+            version: 'v2.4'
+          });
+          jQuery(document).trigger('fb-load');  //Trigger facebook load
 
-			fbq('init', '780958225275101');
-			fbq('track', 'PageView');
-		</script>
-		<noscript><img height="1" width="1" style="display:none"
-		               src="https://www.facebook.com/tr?id=780958225275101&ev=PageView&noscript=1"
-			/></noscript>
-		<!-- End Facebook Pixel Code -->
-			<style type="text/css">
+          if (typeof(FB) != 'undefined') {
+            FB.Event.subscribe('xfbml.render', function () {
+              //console.log('facebook is ready');
+
+              if (!bt.themeManageGa) {
+                FB.Event.subscribe('edge.create', function (targetUrl, element) {
+                  var likeid = 'unknown like';
+                  if (element.hasAttribute("data-like-id")) { // a like that we don't know about?
+                    likeid = 'like_' + element.getAttribute("data-like-id");
+                  }
+                  ga('send', 'social', 'facebook', likeid);
+                  //console.log("LIKE " + targetUrl + " " + likeid);
+                });
+
+
+                FB.Event.subscribe('edge.remove', function (targetUrl, element) {
+                  var likeid = 'unknown unlike';
+                  if (element.hasAttribute("data-like-id")) { // a like that we don't know about?
+                    likeid = 'unlike_' + element.getAttribute("data-like-id");
+                  }
+
+                  ga('send', 'social', 'facebook', likeid);
+                  //console.log("UNLIKE " + targetUrl + " " + likeid);
+                });
+              }
+
+              FB.Event.subscribe('message.send', function (targetUrl) {
+                ga('send', 'social', 'facebook', 'send', targetUrl);
+              });
+            });
+          }
+
+        };
+
+        function go() {
+          var s = 'script';
+          var js, fjs = document.getElementsByTagName(s)[0], load = function (url, id) {
+            if (document.getElementById(id)) {
+              return;
+            }
+            js = document.createElement(s);
+            js.src = url;
+            js.id = id;
+            fjs.parentNode.insertBefore(js, fjs);
+          };
+
+          jQuery('iframe').each(function () {
+            jQuery(this).attr('src', jQuery(this).attr('data-src'));
+          });
+
+          //Facebook
+          load('//connect.facebook.net/en_US/all.js#xfbml=1', 'fbjssdk');
+          // Youtube
+          //load('//apis.google.com/js/platform.js', 'youtube');
+          //Google+
+          load('//apis.google.com/js/plusone.js', 'gplus1js');
+          //Twitter
+          load('//platform.twitter.com/widgets.js', 'tweetjs');
+          //Pinterest
+          load('//assets.pinterest.com/js/pinit.js', 'pinitjs');
+        }
+
+        go();
+      }
+
+      function checkLive(mobile, desktop) {
+        var rn = desktop;
+        var isMobile = window.matchMedia("only screen and (max-width: 640px)");
+        if (isMobile.matches)
+          rn = mobile;
+        var rand = Math.random() * 100;
+        if (rand < rn)
+          ret = true;
+        else
+          ret = false;
+        return ret;
+      }
+      
+      window.sticky_top_offset = 0;
+    </script>
+        <!-- Facebook Pixel Code -->
+    <script id="bts_fb_pixel_code">
+      !function (f, b, e, v, n, t, s) {
+        if (f.fbq)return;
+        n = f.fbq = function () {
+          n.callMethod ?
+            n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+        };
+        if (!f._fbq)f._fbq = n;
+        n.push = n;
+        n.loaded = !0;
+        n.version = '2.0';
+        n.queue = [];
+        t = b.createElement(e);
+        t.async = !0;
+        t.src = v;
+        s = b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t, s)
+      }(window,
+        document, 'script', '//connect.facebook.net/en_US/fbevents.js');
+
+      fbq('init', '780958225275101');
+      fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+                   src="https://www.facebook.com/tr?id=780958225275101&ev=PageView&noscript=1"
+        /></noscript>
+    <!-- End Facebook Pixel Code -->
+    		<style type="text/css">
 			.pagefair-acceptable {
 				display: none;
 			}
@@ -586,11 +685,12 @@ var boredom_title = 'Privacy Policy';
 
 var dfp_prefix = 'mf_';
 var origin_prefix = dfp_prefix;
+bt.cutST = function(s){return s.toString().replace(/-.*/,'')};
 
 //START GOOGLETAG.PUSH
 googletag.cmd.push(function () {
-googletag.pubads().setTargeting(dfp_prefix + 'dvc', bt.deviceFullName);googletag.pubads().setTargeting("site_name", "MentalFlare");googletag.pubads().setTargeting(dfp_prefix + 'format', 'none');googletag.pubads().setTargeting("rubicon","false");googletag.pubads().setTargeting("Matomy","false");googletag.pubads().setTargeting("33across","false");googletag.pubads().setTargeting("criteo","false");googletag.pubads().setTargeting("altitude","false");googletag.pubads().setTargeting("medianet","false");googletag.pubads().setTargeting("switch","false");googletag.pubads().setTargeting('ad_h',(new Date).getUTCHours().toString());googletag.pubads().setTargeting('ad_p','1');googletag.pubads().setTargeting("adhesion", "footer1");googletag.pubads().setTargeting(dfp_prefix + 'flaf', "" + bt.deviceLetter);
-googletag.pubads().setTargeting('adq', 'default');
+googletag.pubads().setTargeting(dfp_prefix + 'dvc', bt.deviceFullName);googletag.pubads().setTargeting("site_name", "MentalFlare");googletag.pubads().setTargeting(dfp_prefix + 'format', 'none');googletag.pubads().setTargeting("rubicon","false");googletag.pubads().setTargeting("Matomy","false");googletag.pubads().setTargeting("33across","false");googletag.pubads().setTargeting("criteo","false");googletag.pubads().setTargeting("altitude","false");googletag.pubads().setTargeting("medianet","false");googletag.pubads().setTargeting("switch","false");googletag.pubads().setTargeting('ad_h',(new Date).getUTCHours().toString());googletag.pubads().setTargeting('ad_p','1');googletag.pubads().setTargeting("adhesion", "footer1");googletag.pubads().setTargeting(dfp_prefix + 'flaf', '');
+googletag.pubads().setTargeting('adq', 'high');
 bt_categories = [];
 bt_tags = false;
 bt_i = bt_categories.length;
@@ -605,23 +705,46 @@ for (bt_i in bt_tags) {
 var bt_postid = '131';
 var bt_as = getUrlParam('as');
 if (bt_as != false) {
-  googletag.pubads().setTargeting(dfp_prefix+'as', bt_as.toString());
+  googletag.pubads().setTargeting(dfp_prefix+'as', bt.cutST(bt_as));
 
-  if (bt.isFirstPage()){ googletag.pubads().setTargeting(dfp_prefix+'asf', 'f'+bt_as); }
+  if (bt.isFirstPage()){ googletag.pubads().setTargeting(dfp_prefix+'asf', 'f'+bt.cutST(bt_as)); }
 }
 var bt_as_source = getUrlParam('as-source');
-if (bt_as_source !== false) { googletag.pubads().setTargeting(origin_prefix+'as-source', bt_as_source); }
+if (bt_as_source !== false) { googletag.pubads().setTargeting(origin_prefix+'as-source', bt.cutST(bt_as_source)); }
 var bt_as_share = getUrlParam('as-share');
-if (bt_as_share !== false) { googletag.pubads().setTargeting(dfp_prefix+'as-share', bt_as_share); }
-googletag.pubads().enableSingleRequest();
+if (bt_as_share !== false) { googletag.pubads().setTargeting(dfp_prefix+'as-share', bt.cutST(bt_as_share)); }
+
+        var urlParams = getAllUrlParams();
+        var loopOverUrlParamsAndCallGoogletag = function(utm) {
+            if (utm.indexOf('utm_') !== 0 ) { return; }
+            // else
+            googletag.pubads().setTargeting(dfp_prefix + utm, urlParams[utm]);
+        };
+        Object.keys(urlParams).forEach(loopOverUrlParamsAndCallGoogletag);
+     googletag.pubads().enableSingleRequest();
 googletag.pubads().collapseEmptyDivs();
 googletag.pubads().enableAsyncRendering();
-googletag.enableServices();});
+googletag.enableServices();
+var event = new CustomEvent("triggerAdsOnPrepare");
+document.dispatchEvent(event);
+});
 //END GOOGLETAG.PUSH
 
 sendPrebidGA();</script>
 <!--DFP END-->
-		
+        <script>
+            var cloudflareTestOn = false;
+            var cookieValue = bt.getCookie('_bt_test');
+
+            if(!cloudflareTestOn) {
+                if(cookieValue!='')
+                    bt.deleteCookie('_bt_test');
+            }
+            else if (cookieValue=='') {
+                bt.setCookie('_bt_test', '1', 1);
+            }
+        </script>
+    
 <style id="bt-dynamic-css">
 
 .post-single-content p img{
@@ -668,116 +791,137 @@ sendPrebidGA();</script>
 </style>
 
 </head>
-<body id="blog" class="page-template-default page page-id-131 main layout-none nopas-gal-only-next-mobile nopas-gal-only-next-tablet nopas-gal-only-next-desktop  mobile-sidebar-top-items-2 mobile-sidebar-bottom-items-2 has-sidebar-tablet body--no-static-skyscraper" itemscope="" itemtype="http://schema.org/WebPage">
 
+<body id="blog" class="page-template-default page page-id-131 main paged-1 mobile-sidebar-top-items-2 mobile-sidebar-bottom-items-2 slideshow-button-mobile gal-only-next-mobile add-page-to-next-mobile gal-only-next-tablet add-page-to-next-tablet gal-only-next-desktop add-page-to-next-desktop has-sidebar-tablet page-privacy-policy no-sidebar body--no-static-skyscraper" itemscope="" itemtype="http://schema.org/WebPage">
+<div class="header-spacer"></div>
+<div class="header-bg">
+    <div class="header-wrap">
+    <div class="logo">
+        <a href="http://mentalflare.com">
+            <img class="desktop-logo" src="/wp-content/themes/mentalflare/images/logo.png" alt="">
+                    </a>
+    </div>
+    <div class="menu-burder">
+        <div></div>
+        <div></div>
+        <div></div>
+    </div>
+    <div class="overflow-helper">
+        <div class="menu-wrap">
+            <div class="mobile">
+                <p class="h-cats">Categories</p>
+            </div>
+            <div class="main-menu">
+            <div class="menu-item"><a href="http://mentalflare.com/category/animals">animals</a></div>
+            <div class="menu-item"><a href="http://mentalflare.com/category/entertainment">entertainment</a></div>
+            <div class="menu-item"><a href="http://mentalflare.com/category/diy">diy</a></div>
+            <div class="menu-item"><a href="http://mentalflare.com/category/omg">omg</a></div>
+        </div>
 
-	<div class="topmenu">
-		<div class="menucontainer topcont">
-			<a class="btlogo" href="http://mentalflare.com"></a>
-			<ul class="menu">
-				<li><a id="menu-cat-animals" href="http://mentalflare.com/category/animals/">Animals</a></li><li><a id="menu-cat-entertainment" href="http://mentalflare.com/category/entertainment/">Entertainment</a></li><li><a id="menu-cat-diy" href="http://mentalflare.com/category/diy/">DIY</a></li><li><a id="menu-cat-omg" href="http://mentalflare.com/category/omg/">OMG</a></li><li><a id="menu-cat-creativity" href="http://mentalflare.com/category/creativity/">creativity</a></li><li><a id="menu-cat-videos" href="http://mentalflare.com/category/videos/">videos</a></li>				<li id="moremenu" data-menu="dropmore"><a class="darrow" href="">MORE<span class="fa fa-caret-down"></span>
-						<div class="dcaret"></div>
-					</a></li>
-				        <li class="right">
-            <a id="searchicon" class="fa fa-search" href="javascript:void(0)" title="Search for more fun content">
-                <div class="dcaret"></div>
-            </a>
-            <a id="fbicon" class="fa fa-facebook" title="MentalFlare on Facebook" href="https://www.facebook.com/mentalflare/" target="_blank"></a>
-			                <a id="twicon" class="fa fa-twitter" title="MentalFlare on Twitter" href="https://twitter.com/mentalflare" target="_blank"></a>
-						        </li>
-					</ul>
-			<div id="searchbox">
-				<form action="http://mentalflare.com" method="get">
-					<input type="text" name="s" placeholder="Type Search Here">
-					<button type="submit">Search</button>
-				</form>
-			</div>
-		</div>
-		<div id="dropmenu">
-			<div class="menucontainer">
-				<div id="dropmore" class="dropcontainer">
-					<a id="menu-page-about" href="http://mentalflare.com/about/">About Us</a><a id="menu-page-privacy-policy" href="http://mentalflare.com/privacy-policy/">Privacy Policy</a><a id="menu-page-dmca-policy" href="http://mentalflare.com/dmca-policy/">DMCA Policy</a>				</div>
-			</div>
-		</div>
-	</div>
-	
-<div id="div-gpt-ad-1420466308609-0" style="display: none;"><!--Pixel_Tracker--><script type="text/javascript">hideOrShowAd(24,'div-gpt-ad-1420466308609-0');</script></div>            <div id="fb-root"></div>
+            <div class="mobile">
+                <div class="mail-form">
+                    <div class="mail-icon mobile_email" onclick="document.newsletter_form_mobile_side.submit();"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30.6 19.5"><path fill="#2981CF" d="M1.9 18.8l.4.4h26.4l.4-.4-10.3-8-3.3 2.6v-.1l-3.3-2.6-10.3 8.1zm18.2-9.1l10.1 7.9.4-.4v-15l-.4-.4-10.1 7.9zM.3 2.2v15.1l.4.4 10.1-7.9-10.1-8-.4.4zM2.2.3l-.4.4 13.6 10.6L29.1.7l-.4-.4H2.2z"></path></svg></div>
+                    <form class="newsletter_form" name="newsletter_form_mobile_side" action="//boredomtherapy.us3.list-manage2.com/subscribe/post?u=4382f4e5fc3e80c6a22c6a208&amp;id=f221010fdb" method="post" novalidate="">
+                                                <input class="newsletter_form_mobile_side" type="email" name="EMAIL" placeholder="enter your email here">
 
-            <div class="header-static-bar">
-                <div class="mmenu"><span class="fa fa-bars"></span>
-					<div class="menu-mobile-menu-container"><ul id="menu-mobile-menu" class="menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://mentalflare.com/category/animals/">Animals</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://mentalflare.com/category/entertainment/">Entertainment</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://mentalflare.com/category/diy/">DIY</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://mentalflare.com/category/omg/">OMG</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://mentalflare.com/category/creativity/">creativity</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://mentalflare.com/category/videos/">videos</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://mentalflare.com/about/">About Us</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://mentalflare.com/privacy-policy/">Privacy Policy</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://mentalflare.com/dmca-policy/">DMCA Policy</a></li></ul></div>                </div>
-                <div id="mcommon" class="clearfix">
-                    <a id="mobilelogo" href="http://mentalflare.com"></a>
-                    <div id="msearch"><span class="fa fa-search"></span>
-                        <div id="msearchcaret" class="fa fa-caret-up"></div>
-                    </div>
-                    <div id="msearchbox">
-                        <form action="http://mentalflare.com" method="get">
-                            <input type="text" name="s" placeholder="Type Search Here">
-                            <button type="submit">Search</button>
-                        </form>
+                        <input type="hidden" name="b_4382f4e5fc3e80c6a22c6a208_f221010fdb" value="">
+                        <div class="mail-fail-message">
+                            <div>Please enter a valid email address</div>
+                        </div>
+                    </form>
+                    <div class="mail-message">
+                        <div>Thank You For Subscribing!</div>
                     </div>
                 </div>
-                <div id="msingle" class="clearfix">
-                    <div id="msharelike">
-                        <a id="mfshare" href="javascript:void(0);" data-show-like="1" onclick="facebookSharePopup(this);" data-like-id="04"><img src="http://mentalflare.com/wp-content/themes/boredom/images/share_top.png" alt="Facebook" title="Share On Facebook" width="85"></a>
-						                            <span class="fb-like" data-like-id="05" data-href="https://www.facebook.com/mentalflare/" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></span>
-						                    </div>
-					
-<script id="rm-social-mobile-header">
-	if(bt.gs.pageSpeedOpti.check("social", "mobile_header")){
-		jQuery("div#msingle").remove();
-	}
-	jQuery("#rm-social-mobile-header").remove();
-</script>
-                    <div class="smenu">
-                        <div id="msharemenu">
-                            <a href="javascript:void(0);" data-show-like="1" onclick="facebookSharePopup(this);" data-like-id="04">Share
-                                on
-                                Facebook</a>
-                            <a href="javascript:void(0);" onclick="twitterPopupFunction();">Share on Twitter</a>
-                            <a href="mailto:?subject=Privacy%20Policy&amp;body=http://mentalflare.com/privacy-policy/" target="_blank">Send as email</a>
-                        </div>
-                    </div>
+                <div class="footer-links">
+                    <a href="http://mentalflare.com/about">about</a>
+                    <a href="http://mentalflare.com/privacy-policy">privacy policy</a>
+                    <a href="http://mentalflare.com/dmca-policy">DMCA</a>
+                    <a href="http://mentalflare.com/advertising-interest">advertising</a>
                 </div>
             </div>
-			<div id="svg-home" style="display: none;">
-<!--svg module loading-->
-<svg id="svg-loading" width="94px" height="94px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid" class="uil-default"><rect x="0" y="0" width="100" height="100" fill="none" class="bk"></rect><rect x="46.5" y="40" width="7" height="20" rx="5" ry="5" fill="#cec9c9" transform="rotate(0 50 50) translate(0 -30)">  <animate attributeName="opacity" from="1" to="0" dur="1s" begin="0s" repeatCount="indefinite"></animate></rect><rect x="46.5" y="40" width="7" height="20" rx="5" ry="5" fill="#cec9c9" transform="rotate(30 50 50) translate(0 -30)">  <animate attributeName="opacity" from="1" to="0" dur="1s" begin="0.08333333333333333s" repeatCount="indefinite"></animate></rect><rect x="46.5" y="40" width="7" height="20" rx="5" ry="5" fill="#cec9c9" transform="rotate(60 50 50) translate(0 -30)">  <animate attributeName="opacity" from="1" to="0" dur="1s" begin="0.16666666666666666s" repeatCount="indefinite"></animate></rect><rect x="46.5" y="40" width="7" height="20" rx="5" ry="5" fill="#cec9c9" transform="rotate(90 50 50) translate(0 -30)">  <animate attributeName="opacity" from="1" to="0" dur="1s" begin="0.25s" repeatCount="indefinite"></animate></rect><rect x="46.5" y="40" width="7" height="20" rx="5" ry="5" fill="#cec9c9" transform="rotate(120 50 50) translate(0 -30)">  <animate attributeName="opacity" from="1" to="0" dur="1s" begin="0.3333333333333333s" repeatCount="indefinite"></animate></rect><rect x="46.5" y="40" width="7" height="20" rx="5" ry="5" fill="#cec9c9" transform="rotate(150 50 50) translate(0 -30)">  <animate attributeName="opacity" from="1" to="0" dur="1s" begin="0.4166666666666667s" repeatCount="indefinite"></animate></rect><rect x="46.5" y="40" width="7" height="20" rx="5" ry="5" fill="#cec9c9" transform="rotate(180 50 50) translate(0 -30)">  <animate attributeName="opacity" from="1" to="0" dur="1s" begin="0.5s" repeatCount="indefinite"></animate></rect><rect x="46.5" y="40" width="7" height="20" rx="5" ry="5" fill="#cec9c9" transform="rotate(210 50 50) translate(0 -30)">  <animate attributeName="opacity" from="1" to="0" dur="1s" begin="0.5833333333333334s" repeatCount="indefinite"></animate></rect><rect x="46.5" y="40" width="7" height="20" rx="5" ry="5" fill="#cec9c9" transform="rotate(240 50 50) translate(0 -30)">  <animate attributeName="opacity" from="1" to="0" dur="1s" begin="0.6666666666666666s" repeatCount="indefinite"></animate></rect><rect x="46.5" y="40" width="7" height="20" rx="5" ry="5" fill="#cec9c9" transform="rotate(270 50 50) translate(0 -30)">  <animate attributeName="opacity" from="1" to="0" dur="1s" begin="0.75s" repeatCount="indefinite"></animate></rect><rect x="46.5" y="40" width="7" height="20" rx="5" ry="5" fill="#cec9c9" transform="rotate(300 50 50) translate(0 -30)">  <animate attributeName="opacity" from="1" to="0" dur="1s" begin="0.8333333333333334s" repeatCount="indefinite"></animate></rect><rect x="46.5" y="40" width="7" height="20" rx="5" ry="5" fill="#cec9c9" transform="rotate(330 50 50) translate(0 -30)">  <animate attributeName="opacity" from="1" to="0" dur="1s" begin="0.9166666666666666s" repeatCount="indefinite"></animate></rect></svg>
-<!--svg module pill-->
-<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
-<svg width="190px" height="356px" viewBox="0 0 190 356" version="1.1">
-    <defs>
-        <g id="svg-pill" transform="translate(94.807667, 178.017086) scale(-1, 1) rotate(-30.000000) translate(-94.807667, -178.017086) translate(-53.192333, 30.017086)">
-            <path d="M276.576311,19.4556313 C251.642827,-5.47785329 211.036866,-5.47785329 186.103381,19.4556313 L100.379686,104.941864 L190.852616,195.414794 L276.576311,109.928561 C301.509796,84.9950766 301.509796,44.3891159 276.576311,19.4556313 L276.576311,19.4556313 Z" id="Shape" fill="#FF5349"></path>
-            <path d="M18.7594789,185.969407 C-6.17400572,210.902891 -6.17400572,251.508852 18.7594789,276.442337 C43.6929635,301.375821 84.2989242,301.375821 109.232409,276.442337 L186.170018,199.504727 L95.6970886,109.031797 L18.7594789,185.969407 L18.7594789,185.969407 Z" id="Shape" fill="#3CB7D4"></path>
-        </g>
-    </defs>
-</svg></div>
-<div class="main-container-wrap">
-    <header class="main-header">
-        <div class="container">
-            <div id="header">
-                <div id="ad_top_nomobile">
-					
-<div id="div-gpt-ad-1409984205459-20" style="display: none;"><!--Web_Leaderboard_AF--><script type="text/javascript">hideOrShowAd(1,'div-gpt-ad-1409984205459-20');</script></div>
-                    <div id="074807dd26" class="pagefair-acceptable"></div>
-                </div>
-            </div><!--#header-->
-        </div><!--.container-->
-    </header>
-	<div class="main-container clearfix">
+        </div>
+    </div>
 
-	<div id="page" class="single">
-	<article class="article">
-		<div id="content_box">
-							<div id="post-131" class="g post post-131 page type-page status-publish has-post-thumbnail hentry">
-					<div class="single_page">
-						<header>
-							<h1 class="title">Privacy Policy</h1>
-						</header>
-						<div class="post-content box mark-links">
-							<!--the content start--> <p><span style="font-size: 14px;line-height: 1.5em">Your privacy is very important to us at Mental Flare, and so we have a few fundamental principles that we follow in order to protect it:</span></p>
+
+    <div id="main-search" class="cc main-search">
+    <form action="http://mentalflare.com" method="get">
+
+                <div class="inside-input-search-wrapper">
+            <input type="text" name="s" placeholder="SEARCH">
+                        <img src="/wp-content/themes/mentalflare/images/icon_navbar_search_black.png">
+        </div><!--icon-search-wrap-->
+    </form>
+</div>
+<div class="icons">
+    <div class="icon-search-wrapper">
+                    <img src="/wp-content/themes/mentalflare/images/icon_navbar_search.png">
+            </div>
+    <div class="facebook"><a target="_blank" href="https://www.facebook.com/mentalflare/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28.7 29"><g fill="#FFF"><path d="M18 15l.2-2.6h-2.7v-1.7c0-.8.2-1.3 1.3-1.3h1.4V7h-2c-2 0-3.6 1.2-3.6 3.4v2h-2.3V15h2.3v7h2.8v-7H18z"></path><path d="M14.4 28.7C6.4 28.7.2 22.3.2 14.5S6.6.2 14.4.2c8 0 14.2 6.4 14.2 14.2s-6.3 14.3-14.2 14.3zm0-27.2c-7.2 0-13 5.8-13 13s5.8 13 13 13 13-5.8 13-13-5.8-13-13-13z"></path></g></svg></a>
+    </div>
+            <div class="twitter"><a target="_blank" href="https://twitter.com/mentalflare"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28.7 29"><g fill="#FFF"><path d="M22.8 9.3c-.6.3-1.3.5-2 .5.7-.4 1.3-1 1.5-2-.7.5-1.4.8-2.2 1-.5-.8-1.4-1.2-2.4-1.2-2 0-3.4 1.5-3.4 3.4v.8c-2.7 0-5.3-1.5-7-3.6-.3.6-.4 1.2-.4 1.8 0 1.2.6 2.2 1.5 3-.6 0-1-.3-1.6-.5 0 1.7 1.2 3 2.7 3.4H8c.4 1.3 1.7 2.2 3.2 2.3-1.2 1-2.6 1.5-4.3 1.5H6c1.6 1 3.4 1.5 5.4 1.5 6.3 0 9.7-5.2 9.7-9.7v-.4c.7-.6 1.3-1.2 1.8-2"></path><path d="M14.4 28.7C6.4 28.7.2 22.3.2 14.5.2 6.5 6.6.3 14.4.3s14.2 6.4 14.2 14.2c0 7.8-6.3 14.2-14.2 14.2zm0-27.2c-7.2 0-13 5.8-13 13s5.8 13 13 13 13-5.8 13-13-5.8-13-13-13z"></path></g></svg></a>
+        </div>
+        <div class="mail"><a href="mailto:thementalflare@gmail.com?"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28.7 29"><path fill="#FFF" d="M12.5 15l-6 4.8.2.2H22l.2-.2-6-4.7-2 1.6-1.7-1.5zm-.8-.5l-6-4.6v9l6-4.5zm2.7 1l8-6.3L22 9H6.8l-.2.2 8 6.2zM23 19h.2V10L23 10l-6 4.5 6 4.6z"></path><path fill="#FFF" d="M14.4 28.7C6.4 28.7.2 22.3.2 14.5.2 6.5 6.6.3 14.4.3s14.2 6.4 14.2 14.2c0 7.8-6.3 14.2-14.2 14.2zm0-27.2c-7.2 0-13 5.8-13 13s5.8 13 13 13 13-5.8 13-13-5.8-13-13-13z"></path></svg></a>
+    </div>
+</div>    </div>
+
+<script>
+
+    jQuery().ready(function ($) {
+
+        /**
+         * this module binds the search actions + animations on the HC template header.
+         */
+
+            // Extend jQuery addClass function to accept callback function
+        let oAddClass = $.fn.addClass;
+        $.fn.addClass = function () {
+            for (let i in arguments) {
+                let arg = arguments[i];
+                if (!!(arg && arg.constructor && arg.call && arg.apply)) {
+                    arg();
+                    delete arg;
+                }
+            }
+            return oAddClass.apply(this, arguments);
+        };
+
+        let $iconSearch = $('.icon-search-wrapper');
+        let $search = $('.main-search');
+        let $searchInput = $('.main-search input');
+
+        //click on search icon
+        $iconSearch.on('click', function (e) {
+            $search.removeClass('swipe-left');
+            $search.removeClass('swipe-right');
+            //check if already active
+            if ($(this).hasClass('fade-in')) {
+                $(this).removeClass('fade-in');
+                $(this).removeClass('fade-out');
+            }
+            //animation init
+            $(this).addClass('fade-out', function () {
+                $search.addClass('swipe-left');
+                $searchInput.focus();
+                $searchInput.on('blur', function () {
+                    $search.addClass('swipe-right', function () {
+                        $search.removeClass('swipe-left');
+                    });
+                    $iconSearch.addClass('fade-in');
+                    $iconSearch.removeClass('fade-out');
+                });
+            });
+        });
+    });
+</script></div>
+        <div class="wrap main-wrap">
+        <div class="content ">
+            
+                
+    <h1 class="title">Privacy Policy</h1>
+
+<div class="post-content feed-post-content">
+    <!--the content start--> <p>Your privacy is very important to us at Mental Flare, and so we have a few fundamental principles that we follow in order to protect it:</p>
 <ul>
 <li>We don’t ask you for personal information unless we truly need it.</li>
 <li>We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.</li>
@@ -785,196 +929,86 @@ sendPrebidGA();</script>
 </ul>
 <p>This Privacy Policy describes the policies and procedures Mental Flare&nbsp;(“we”, “our” or “us”) uses regarding the collection, use and disclosure of any information that you give us when you use www.mentalflare.com (the “Website”) and the services, features, content or applications we offer (collectively with the Website, the “Services”). We are committed to ensuring that your privacy is protected. When we ask you to provide certain information when using the Website, you can be assured that it will only be used in accordance with this privacy policy. By using this Website, you agree to this privacy policy.</p>
 <p>We may change this policy from time to time by posting changes to this page. You can occasionally check to make sure that you are happy with any changes. This policy&nbsp;was last modified on November 1st, 2015.</p>
-<p class="btcaption"><strong>What Information Do We Collect?</strong></p>
+<p><strong>What Information Do We Collect?</strong></p>
 <p>We collect information from you when you register on our site, subscribe to our newsletter (from which you can unsubscribe at any time), respond to a survey or fill out a form.&nbsp;You may be asked to enter your name or e-mail address. You may always, however, visit our site anonymously.</p>
-<p class="btcaption"><strong>Your Information Is Protected:&nbsp;</strong></p>
+<p><strong>Your Information Is Protected:&nbsp;</strong></p>
 <p>We are committed to ensuring that your personal information is secure. In order to prevent unauthorized access or disclosure we have put in place a variety of physical, electronic and managerial security measures to safeguard and secure the information we collect online.</p>
-<p class="btcaption"><strong style="font-size: 14px;line-height: 1.5em">How We Use Cookies:</strong></p>
+<p><strong>How We Use Cookies:</strong></p>
 <p>Cookies are small files that a site or its service provider places on your computer’s hard drive (if you allow it), that enable the sites or service providers systems to recognize your browser and capture and remember certain information.&nbsp;Cookies allow websites to respond to you as an individual. The website provider can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.</p>
 <p>We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.</p>
 <p>Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.</p>
 <p>You can choose to accept or decline cookies. Most web browsers automatically accept them, but you can change your browser setting to decline cookies if you prefer. However, this may prevent you from taking full advantage of the website.</p>
-<p class="btcaption"><strong>Third Party Vendors:</strong></p>
-<p>Third party vendors, including Google, use cookies to serve ads to you based on a your prior web site visits to Mental Flare&nbsp;and/or other websites.&nbsp;You may opt out of the use of the Google cookie for interest-based advertising by visiting&nbsp;<a href="http://www.google.com/ads/preferences/">Ads Settings</a>.</p>
-<p class="btcaption"><strong>Links To Third Party Websites:</strong></p>
+<p><strong>Third Party Vendors:</strong></p>
+<p>We use third party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click <a href="http://www.networkadvertising.org/managing/opt_out.asp">here</a>.</p>
+<p>Third party advertising companies, including Google, use cookies to serve ads to you based on a your prior web site visits to Boredom Therapy and/or other websites.&nbsp;You may opt out of the use of the Google cookie for interest-based advertising by visiting&nbsp;<a href="http://www.google.com/ads/preferences/">Ads Settings</a>.</p>
+<p><strong>Links To Third Party Websites:</strong></p>
 <p>We may sometimes include on our website links to other websites that may be of interest to you. You should note that these third party sites have separate and independent privacy policies, and&nbsp;that we do not have any control over those other websites. Therefore, we have no responsibility or liability for the protection and privacy of any information which you provide while visiting such sites, or for the content and activities of those sites. You should exercise caution and review the privacy policies applicable to the website in question.</p>
-<p class="btcaption"><strong>Childrens Online Privacy Protection Act Compliance:</strong></p>
+<p><strong>Childrens Online Privacy Protection Act Compliance:</strong></p>
 <p>Our website, products and services are all directed to people who are at least 13 years old or older.&nbsp;We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), and do not collect any information from anyone under 13 years of age.</p>
 
-<div id="big-share-fb-button">
-    <div class="post-share-like-buttons">
-        <span>
-            <img src="http://mentalflare.com/wp-content/themes/mentalflare/images/facebook-like-bottom1.png" width="312" height="54" align="absmiddle" class="dif_mobile">
-            <img src="http://mentalflare.com/wp-content/themes/mentalflare/images/huge_social_fb.jpg" width="100%" align="absmiddle" class="dif_nomobile">
-        </span>
-    </div>
-    <div class="page-like-button" style="font-weight:bold;color:orange;padding-top: 10px;padding-left: 10px;padding-bottom: 10px;font-size:120%;text-align:center">
-        <span class="likeus-text" style="font-size:14px;color:#777;font-weight:normal;margin-right:7px">Like us for more!</span>
-        <span class="likeus-text-mobile">Like us for more!</span>
-        <span class="fb-like"></span>
+</div>
+
+
+        </div>
+                
+    </div><!--.main-wrap-->
+        <div class="footer">
+    <div class="wrap">
+        <div class="left">
+            <div class="mailing-wrap">
+                <h4>Join our mailing list!</h4>
+                <div class="mail-form">
+                    <form class="newsletter_form" name="newsletter_form" action="//boredomtherapy.us3.list-manage2.com/subscribe/post?u=4382f4e5fc3e80c6a22c6a208&amp;id=f221010fdb" method="post" novalidate="">
+                                                <div class="mail-icon mobile_email" onclick="document.newsletter_form.submit();"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30.6 19.5"><path fill="#2981CF" d="M1.9 18.8l.4.4h26.4l.4-.4-10.3-8-3.3 2.6v-.1l-3.3-2.6-10.3 8.1zm18.2-9.1l10.1 7.9.4-.4v-15l-.4-.4-10.1 7.9zM.3 2.2v15.1l.4.4 10.1-7.9-10.1-8-.4.4zM2.2.3l-.4.4 13.6 10.6L29.1.7l-.4-.4H2.2z"></path></svg></div>
+                        <input class="newsletter_form_email" type="email" name="EMAIL" placeholder="enter your email here">
+                        <input type="hidden" name="b_4382f4e5fc3e80c6a22c6a208_f221010fdb" value="">
+                        <div class="mail-fail-message">
+                            <div>Please enter a valid email address</div>
+                        </div>
+                    </form>
+
+                </div>
+            </div>
+            <div class="footer-links">
+                <a href="http://mentalflare.com/about">about</a>
+                <a href="http://mentalflare.com/privacy-policy">privacy policy</a>
+                <a href="http://mentalflare.com/dmca-policy">DMCA</a>
+                <a href="http://mentalflare.com/advertising-interest">advertising</a>
+            </div>
+        </div>
+        <div class="right">
+            <p>We are a media startup founded with the goal of fighting boredom worldwide by engaging our readers with
+                incredibly sharable content. We are on a mission to discover the most extraordinary and inspiring
+                stories from around the world, and share them with our audience.</p>
+            <p>We reach millions of website visitors, Facebook fans, and newsletter subscribers every day.</p>
+            <p class="footer-logo-holder">- The
+                <img class="footer-logo" src="/wp-content/themes/mentalflare/images/logo_white.png" alt="">
+                team
+            </p>
+            <p class="copyright">Mental Flare © 2018</p>
+        </div>
     </div>
 </div>
-<div style="clear:both"></div>													</div><!--.post-content box mark-links-->
-					</div>
-				</div>
-					</div>
-	</article>
-            <aside class="sidebar c-4-12 hideonloadmore">
-            <div id="sidebars" class="g">
-                <div class="sidebar">
-					
-                            <ul>
-							<div class="rm-mobile rm-mobile-cr"><li class="widget widget-sidebar widget_mts_recent_posts_widget sidebar_top"><h3 class="widget-title">Our Must See Stories</h3><div class="titlearrow"><span class="fa fa-caret-down"></span></div><ul class="advanced-recent-posts bigthumbs"><li id="dynamic-section" style="display:none"></li>                <li class="widget_item">
-                    <a row="1" class="widget_target_url" href="http://mentalflare.com/discovery-in-attic/" attrname="MustSeeStories">
-                        <div class="imgcont">
-							<img src="http://headcramp.com/wp-content/uploads/sites/9/2016/09/hidden-attic.png">                        </div>
+<div class="mobile footer-logo-mobile">
+            <img src="/wp-content/themes/mentalflare/images/logo_white.png" alt=""> © 2018
+    </div>
+<div class="gray-bg"></div>
+<script type="text/javascript">
 
-                        <div class="posttitle">
-							Man Finds A Hidden Room In His Old Attic, But No One Was Ready For What Was Inside                        </div>
-                    </a>
-                </li>
-				                <li class="widget_item">
-                    <a row="2" class="widget_target_url" href="http://mentalflare.com/uses-vapo-rub/" attrname="MustSeeStories">
-                        <div class="imgcont">
-							<img src="http://boredomtherapy.com/wp-content/uploads/2016/04/cotton-ear.png">                        </div>
-
-                        <div class="posttitle">
-							She Puts A Cotton Ball In Her Ear Every Night… When You See Why, You’ll Realize She’s A Genius.                        </div>
-                    </a>
-                </li>
-				                <li class="widget_item">
-                    <a row="3" class="widget_target_url" href="http://mentalflare.com/swimming-pool-natural-diy/" attrname="MustSeeStories">
-                        <div class="imgcont">
-							<img src="http://mentalflare.com/wp-content/uploads/sites/3/2017/05/16-natural-swimming-pool-664x442-664x442-300x200.jpg">                        </div>
-
-                        <div class="posttitle">
-							Dad Fills Family’s Backyard With Water And Ends Up With Incredible Creation                        </div>
-                    </a>
-                </li>
-				                <li class="widget_item">
-                    <a row="4" class="widget_target_url" href="http://mentalflare.com/history-rare-photographs/" attrname="MustSeeStories">
-                        <div class="imgcont">
-							<img src="http://boredomfiles.com/wp-content/uploads/sites/2/2016/04/989729c866fcd44e7eef03dfac7b5fda2.jpg">                        </div>
-
-                        <div class="posttitle">
-							Incredibly Rare Photos From History That Will Change The Way You See The Past                        </div>
-                    </a>
-                </li>
-				                <li class="widget_item">
-                    <a row="5" class="widget_target_url" href="http://mentalflare.com/babies-with-dogs/" attrname="MustSeeStories">
-                        <div class="imgcont">
-							<img src="http://boredomfiles.com/wp-content/uploads/sites/3/2016/04/01-dogs-with-babies.jpg">                        </div>
-
-                        <div class="posttitle">
-							Her Parents Left Her Alone With The Dogs. When They Came Back, They Were Stunned.                        </div>
-                    </a>
-                </li>
-				                <li class="widget_item">
-                    <a row="6" class="widget_target_url" href="http://mentalflare.com/rare-historical-images/" attrname="MustSeeStories">
-                        <div class="imgcont">
-							<img src="http://mentalflare.com/wp-content/uploads/sites/3/2016/07/fb-rare-historical-images-1.png">                        </div>
-
-                        <div class="posttitle">
-							These Rare Historical Photos Were Just Unearthed… You Won’t Find These In Any Textbooks!                        </div>
-                    </a>
-                </li>
-				                <li class="widget_item">
-                    <a row="7" class="widget_target_url" href="http://mentalflare.com/colorado-silo-exploration/" attrname="MustSeeStories">
-                        <div class="imgcont">
-							<img src="http://boredomfiles.com/wp-content/uploads/sites/3/2016/05/abandoned-silo-photos-1.jpg">                        </div>
-
-                        <div class="posttitle">
-							Four Friends Explored An Abandoned Missile Silo… And What They Found Inside Is Terrifying.                        </div>
-                    </a>
-                </li>
-				                <li class="widget_item">
-                    <a row="8" class="widget_target_url" href="http://mentalflare.com/leopard-seal/" attrname="MustSeeStories">
-                        <div class="imgcont">
-							<img src="http://honesttopaws.com/wp-content/uploads/sites/5/2016/05/leopard-seal-375x196.png">                        </div>
-
-                        <div class="posttitle">
-							He Approached A Deadly Leopard Seal Very Carefully… When He Got In The Water, It All Took A Turn.                        </div>
-                    </a>
-                </li>
-				                <li class="widget_item">
-                    <a row="9" class="widget_target_url" href="http://mentalflare.com/parenting-tricks/" attrname="MustSeeStories">
-                        <div class="imgcont">
-							<img src="http://boredomtherapy.com/wp-content/uploads/2016/04/parenting-tricks.png">                        </div>
-
-                        <div class="posttitle">
-							These 25 Parenting Hacks Will Turn Anyone Into The World’s Greatest Parents!                        </div>
-                    </a>
-                </li>
-				                <li class="widget_item">
-                    <a row="10" class="widget_target_url" href="http://mentalflare.com/diy-garden-supplies/" attrname="MustSeeStories">
-                        <div class="imgcont">
-							<img src="http://boredomtherapy.com/wp-content/uploads/2016/04/garden-forks.png">                        </div>
-
-                        <div class="posttitle">
-							He Thought His Neighbor Was Completely Nuts… But Then He Realized He’s Actually A Genius.                        </div>
-                    </a>
-                </li>
-				</ul>
-</li></div>                </ul></div>
-            </div><!--sidebars-->
-        </aside>
-		</div><!--#page-->    </div><!--.main-container-->
-	    <footer class="hideonloadmore">
-        <div class="copyrights">
-            <div class="container">
-				        <a class="btlogo" href="http://mentalflare.com"></a>
-		
-		        <ul id="menu-info" class="menu">
-            <li id="menu-item-14968" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14968"><a href="/about/">About</a></li>
-            <li id="menu-item-14969" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14969"><a href="/privacy-policy/">Privacy Policy</a></li>
-            <li id="menu-item-14970" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14970"><a href="/dmca-policy/">DMCA</a></li>
-            <li id="menu-item-29111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29111"><a href="/advertising-interest/">Advertising</a></li>
-        </ul>
-				<span class="cpnote">Mental Flare        © 2017</span>
-		            </div>
-        </div>
-    </footer><!--footer-->
-	        <div id="like_dialog" class="custom_dialog" style="display:none;">
-            <div class="popup_close"><span class="closemark" onclick="closePopup()">Close</span></div>
-            <div class="popup-content">
-                <h2>Like that story?</h2>
-                <p>Like us on Facebook to get more stuff like that!</p>
-                <div class="share_btns like_btns">
-                    <div class="fb-like" data-like-id="08" data-href="https://www.facebook.com/mentalflare/" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
-                    <span class="popuparrow"></span>
-                </div>
-            </div>
-        </div><!--Shar on video end popup-->
-
-        <div id="share_dialog" class="custom_dialog" style="display:none;">
-            <div class="popup_close"><span class="closemark" onclick="closePopup()">Close</span></div>
-            <div class="popup-content">
-                <h2 style="font-size: 34px;">Love that video?</h2>
-                <p>Share it with your friends!</p>
-                <div class="share_btns">
-				<span class="vfbshar" onclick="facebookSharePopup(this);" data-like-id="05" data-show-like="1"><span class="fbicon"></span>Share</span>
-                    <span class="vtshar" onclick="twitterPopupFunction();"><span class="twicon"></span>Tweet</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="custom_dialog_overlay" style="display:none;" onclick="closePopup()"></div>
-			<!-- Begin comScore Tag -->
-	<script id="bts_comscore">
-		var _comscore = _comscore || [];
-		_comscore.push({c1: "2", c2: "19750771"});
-		(function () {
-			var s = document.createElement("script"), el = document.getElementsByTagName("script")[0];
-			s.async = true;
-			s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-			el.parentNode.insertBefore(s, el);
-		})();
-	</script>
-	<noscript>
-		<img src="http://b.scorecardresearch.com/p?c1=2&c2=19750771&cv=2.0&cj=1"/>
-	</noscript>
-	<!-- End comScore Tag -->
-	        <script>
+jQuery(document).ready(function($) {        
+    $('img').click(function(e) {
+        var img = $(this);
+        if (img.attr('nopin') !== 'nopin') { return; } // Check if it's a gallery image
+        // else 
+        var offset = img.offset();
+        var btnType = ((e.pageX - offset.left) > (img.width() / 2)) ? 'a.nextpage' : 'a.prevpage';
+        var btn = $(btnType);
+        if (!btn && btn.hasClass('hidden')) { return; }
+        // else
+        btn.get(0).click(); // delegate click event to link -> common.js
+    });
+});
+</script>        <script>
             (function() {
                 if (!adblock) { return; }
                 // else
@@ -997,22 +1031,25 @@ sendPrebidGA();</script>
                 fbPixelCallback();
             })();
         </script>
-        
-<script id="template-home-single-infi" type="text/plain">
-
-<article data-id='{{id}}'>
-	<header>
-		<div class='post-info'>
-		 {{cats}}
-		</div>
-	</header>
-	<a attrname='HomePage' row='{{row}}' href='{{url}}' title='{{title}}'>
-		<div class='imgcont'>{{srcset}}</div>
-		<h2>{{title}}</h2>
-	</a>
-</article>
-</script>
-
+        	<script>
+        (function ($) {
+            bt.remPB = function(sel) {
+                var s = 'p:has(br), p:empty';
+                var e = sel ? $(sel).find(s) : $(s);
+                e.each(function() {
+                    var $this = $(this);
+                    var html = $this.html().replace('<br>','');
+                    html = html.replace('&nbsp;','');
+                    if (/^[\s\n\r]*$/.test(html)) {$this.remove()}
+                });
+            }
+            $(window).load(function () {
+                bt.remPB(null);
+            });
+        })
+        (jQuery);
+	</script>
+	
 <script id="bts_fb_setaudience">
 jQuery(bt).on('fb-share', function(){
 	console.log('MF_sharepost');
@@ -1023,7 +1060,462 @@ jQuery(bt).on('fb-share', function(){
 	});
 });
 </script>
-<script type="text/javascript" src="http://mentalflare.com/wp-includes/js/wp-embed.min.js?ver=4.8"></script>
+
+<script id="template-home-single-infi" type="text/plain">
+<div class="archive-post ">
+    <div class="thumbnail-wrap">
+        <div class="thumbnail"
+             style="background-image: url({{image}})"></div>
+    </div>
+
+    <div class="text">
+        <h1>{{title}}</h1>
+                            <span>By {{author_name}}</span>
+                <p>{{content}}</p>
+    </div>
+    <a href="{{url}}"></a>
+</div>
+
+</script>
+    <script>
+        (function ($) {
+
+            // Get IE or Edge browser version
+            var version = detectIE();
+
+            /**
+             * detect IE
+             * returns version of IE or false, if browser is not Internet Explorer
+             */
+            function detectIE() {
+                var ua = window.navigator.userAgent;
+                var msie = ua.indexOf('MSIE ');
+
+                if (msie > 0) {
+                    // IE 10 or older => return version number
+                    return parseInt(ua.substring(msie + 5, ua.indexOf('.', msie)), 10);
+                }
+
+                var trident = ua.indexOf('Trident/');
+                if (trident > 0) {
+
+                    if (bt. sitePrefix === 'OMG'){
+                        $('#exit_intent_dialog article').css({ maxWidth: 'auto!important' });
+                    }
+
+                    if (!bt.isHcDesign) {
+                        $('.popup-content').css({width: '100%'});
+                    } else {
+                        $(window).load(function () {
+                            var $element = $('.sidebar');
+                            var $mainWrap = $('.main-wrap');
+                            var lastHeight = $element.css('height');
+
+                            $element.css('width', '310px');
+                            if ($mainWrap.css('height') < lastHeight){
+                                $mainWrap.css('height', lastHeight);
+                            }
+                            //need listener since sidebar changes after load in single, about is a page of its own.
+                            var heightChange = function checkForChanges() {
+                                if ($element.css('height') !== lastHeight) {
+                                    console.log('height changed, ET to the rescue');
+                                    lastHeight = $element.css('height');
+                                    if ($mainWrap.css('height') < lastHeight){
+                                        $mainWrap.css('height', lastHeight);
+                                    }
+                                }
+                                setTimeout(checkForChanges, 2000);
+                            };
+                            heightChange();
+                        });
+
+                    }
+                    $('.wrap > strong').css('width','309px');
+                    $('#top-banner').css('display','block');
+
+                    /*normalizing menu items by text size*/
+
+                    var $menu_text = $('.main-menu > .menu-item:not(.more, .css-icon-exit) a');
+                    var cutoff = 10.5;
+
+                    $.each($menu_text, function (index, item) {
+                        if (item.text.length > cutoff) {
+                            var currentSize = parseFloat($(item).css('font-size'));
+                            var reduction_by_size = (currentSize * cutoff / item.text.length).toFixed(1);
+                            $(item).css({fontSize: reduction_by_size + 'px'});
+                        }
+                    });
+
+                    $('.archive-image').css('overflow', 'hidden');
+
+                    if (bt.isBtDesign) {
+                        $('.three-d-slider').css('display', 'none');
+                    }
+
+                    if (bt.sitePrefix === 'HM') {
+                        $('.image-spacer').css('display', 'none');
+                    }
+                    if (bt.sitePrefix === 'WF') {
+                        $('.submit-video').css({width: 'auto', padding: "0 10px"});
+                    }
+
+                    /*BT footer*/
+                    if (bt.sitePrefix === 'BT' && !bt.isMobile) {
+                        $('.footer-mailing-wrap .newsletter-form').css({float: 'none', });
+                        $('.footer-mailing-wrap h4').css({float: 'none', margin: 'auto 30px' });
+                        $('.footer-mailing-wrap form .mail-message').css({margin: 'auto', display: 'none' });
+
+
+                    }
+
+                    /*HTP mobile only rules*/
+                    if (bt.isHtpDesign && bt.isMobile) {
+
+                    }
+                    /*HTP non-mobile only rules*/
+                    if (bt.isHtpDesign && !bt.isMobile) {
+                        $('.sidebar-posts-widget .img-ph-wrap img').css('max-height', 0)
+
+                    }
+                }
+
+                var edge = ua.indexOf('Edge/');
+                if (edge > 0) {
+                    // Edge (IE 12+) => return version number
+                    return parseInt(ua.substring(edge + 5, ua.indexOf('.', edge)), 10);
+                }
+                // other browser
+                return false;
+            }
+        })(jQuery);
+    </script>
+	
+<script>
+    jQuery(document).ready(function($) {
+        if (!bt.isMobile) { return; }
+        var windowJquery = $(window);
+        var contentWidth = $('.content').width();
+        var innerDeviceWidth = windowJquery.width();
+        if ((innerDeviceWidth - contentWidth) > 50) { 
+            ga('send', 'event', 'MobileLayoutIssue', 'Debug', 'length=' + contentWidth + ';screen=' + innerDeviceWidth);    
+        }
+        
+        windowJquery.scrollLeft(1);
+/*        if (windowJquery.scrollLeft() > 0) {
+            ga('send', 'event', 'MobileScrollIssue', 'Debug', 'length=' + contentWidth + ';screen=' + innerDeviceWidth);  
+        }*/
+        windowJquery.scrollLeft(0);
+    });
+</script>
+            <!-- Quantcast Tag -->
+            <script type="text/javascript" id="bts_quantcast">
+                var _qevents = _qevents || [];
+
+                (function () {
+                    var elem = document.createElement('script');
+                    elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+                    elem.async = true;
+                    elem.type = "text/javascript";
+                    var scpt = document.getElementsByTagName('script')[0];
+                    scpt.parentNode.insertBefore(elem, scpt);
+                })();
+
+                _qevents.push({
+                    qacct: "p-pKKqY_zzAp6Pk"
+                });
+            </script>
+
+            <noscript>
+                <div style="display:none;">
+                    <img src="//pixel.quantserve.com/pixel/p-pKKqY_zzAp6Pk.gif" border="0" height="1" width="1"
+                         alt="Quantcast"/>
+                </div>
+            </noscript>
+            <!-- End Quantcast tag -->
+            <script type="text/javascript" src="http://mentalflare.com/wp-includes/js/wp-embed.min.js?ver=4.8"></script>
+
+<!--twig js modules-->
+<script id="hc-js">
+jQuery().ready(function($){
+//bt-home-slider disabled
+//bt-search-bar disabled
+
+//module bt-sidebar-cr-mobile-order.js
+if (bt.isMobile) {
+    $('.content-recs-bot').after($('.content-recs-top'));
+    $('.sidebar .skyscraper').after($('.content-recs-bot'));
+}
+
+
+//module drop-right.js
+$(".menu-burder").click(function () {
+    $(".header-bg").toggleClass("active-drop-right");
+});
+var $body = $("body");
+$body.on("click", ".drop-right", function (e) {
+    e.stopPropagation();
+});
+$body.on("click", ".active-drop-right .drop-right-wrap, .active-drop-right .drop-right-wrap .x", function () {
+    $(".active-drop-right").removeClass("active-drop-right");
+});
+
+//module exit-intent-close.js
+$(".custom_dialog").on("click", function (e) {
+    if (
+        $(e.target).hasClass("popup-content")
+        || $(e.target).parents(".popup-content").length
+    ) {
+        return;
+    }
+    closePopup();
+});
+
+//mobile-header-scroll disabled
+
+//module mobile-menu.js
+$(".menu-burder").on("click", function (e) {
+    console.log("burger click");
+    var $menuWrap = $(".menu-wrap");
+
+    if ($menuWrap.hasClass("active")) {
+        $menuWrap.removeClass("active");
+        // $("body").off("click.removeMenu");
+    } else {
+
+        $menuWrap.addClass("active");
+    }
+});
+
+$("body").on("click.removeMenu", function (e) {
+    var $target = $(e.target);
+    if ($target.parents(".header-bg").length || $target.hasClass("header-bg")) {
+        return;
+    }
+
+    $(".menu-wrap").removeClass("active");
+});
+
+
+//module newsletter.js
+// $(".sidebar-submit-wrap, .mail-icon, .footer_mailing-form_input-submit").click(emailSentCallback);
+
+// $(".mail-form input[type='text']").on("keypress", function (e) {
+//     if (e.which == 13) {
+//         emailSentCallback.call(this, e);
+//         $(this).blur();
+//     }
+// });
+
+$(".newsletter_form").on("submit", emailSentCallback);
+
+$('.newsletter_form input').on('focus', function () {
+    var $mailform = $(this);
+    $mailform.removeClass("from-error");
+});
+
+function emailSentCallback(e) {
+    var $mailform = $(this);
+    if (validateEmail($mailform.find("input[type='email']").val())) {
+        $mailform.addClass("sent");
+        $mailform.submit();
+    } else {
+        $mailform.addClass("from-error");
+        e.preventDefault();
+    }
+}
+
+//module search-bar.js
+$(".search").on("click", function (e) {
+    e.preventDefault();
+    var $this = $(this),
+        val = $this.find("input").val();
+    if (val != "" && $this.hasClass("active")) {
+        window.location.href = "http://" + window.location.host + "/?s=" + val;
+    } else {
+        $this.toggleClass("active");
+        if ($this.hasClass("active")) {
+            $this.find("input").focus();
+        }
+    }
+}).find("input").on("click", function (e) {
+    e.stopPropagation();
+}).on("keypress", function (e) {
+    var val = $(this).val();
+    if (e.keyCode == 13 && val != "") {
+        window.location.href = "http://" + window.location.host + "/?s=" + val;
+    }
+});
+
+$(window).on("keyup", function (e) {
+    if (e.keyCode == 27) {
+        $(".search").removeClass("active")
+            .find("input").blur();
+    }
+});
+
+//module social-lib.js
+var facebookSharePopup = function (shareid, href, pic) {
+    if (typeof shareid === 'undefined') {
+        shareid = 0;
+        if (href){
+            href = href.replace('local.','');
+            href = href.replace('staging.','');
+        }
+    }
+
+    href = getAppendedShareNameToAsParamInUrl(href, 'facebook');
+
+    FB.ui({
+        method: 'share',
+        app_id: window.bt_fb_app_id,
+        href: href,
+        picture: pic
+    }, function (response) {
+        jQuery(cta).trigger('fb-share');
+        jQuery(bt).trigger('fb-share');
+        var  facebook_like_popup_status = api_dialog.facebook.facebook_popup.after_share.is_on;
+        //console.log('this is beginstate: ' + facebook_like_popup_status);
+        if(facebook_like_popup_status){
+            document.body.classList.add("facebook_like_popup");
+        }else{
+            api_dialog.is_error_js = 1;
+        }
+
+    });
+
+    if (bt.isTrackShares) {
+        ga('send', 'event', 'ShareChannel', 'Facebook', bt.deviceFullName);
+    }
+
+    return true;
+};
+
+var twitterPopup = function (href, text) {
+    var text = text.replace(/[^a-zA-Z0-9-_ ]/g, '');
+    var replace = bt.siteId == 8 ? "_" : "";
+    href = getAppendedShareNameToAsParamInUrl(href, 'twitter');
+    var twitterName = bt.siteDispalyName.replace(/ /g, replace);
+    if (text.length + href.length + ' via ' + twitterName.length > 140) {
+        text = text.substring(0, 137 - href.length - ' via @' + twitterName.length) + '...';
+    }
+    if (bt.isTrackShares) {
+        ga('send', 'event', 'ShareChannel', 'Twitter', bt.deviceFullName);
+    }
+    window.open("http://twitter.com/share?url=" + encodeURIComponent(href) + "&text=" + text + "&via=" + twitterName, "_blank", "toolbar=yes, scrollbars=yes, resizable=yes, top=90, left=400, width=550, height=420");
+    return true;
+};
+
+var pinterestPopup = function (href, image_src) {
+    href = getAppendedShareNameToAsParamInUrl(href, 'pinterest');
+    if (bt.isTrackShares) {
+        ga('send', 'event', 'ShareChannel', 'Pinterest', bt.deviceFullName);
+    }
+    window.open('https://www.pinterest.com/pin/create/button/?url=' + encodeURIComponent(href) + '&media=' + encodeURIComponent(image_src) + '', '_blank', 'toolbar=yes, scrollbars=yes, resizable=yes, top=90, left=400, width=550, height=420');
+    return true;
+};
+
+var singleFacebookPopup = function () {
+    facebookSharePopup($(this).attr('data-share-id'), window.location.href);
+};
+var singlePinterestPopup = function () {
+    pinterestPopup(window.location.href, $("meta[property='og:image']").attr("content"));
+};
+var singleTwitterPopup = function () {
+    twitterPopup(window.location.href, document.title);
+};
+
+//module social.js
+var socialBindObjectsList = [
+    {
+        "clickCss": ".share-facebook",
+        "callbackFunction": singleFacebookPopup
+    },
+    {
+        "clickCss": ".share-pinterest",
+        "callbackFunction": singlePinterestPopup
+    },
+    {
+        "clickCss": ".share-twitter",
+        "callbackFunction": singleTwitterPopup
+    }
+];
+
+socialBindObjectsList.forEach(function (socialItem) {
+    $(socialItem.clickCss).bind('click.share', function (e) {
+        e.preventDefault();
+        socialItem.callbackFunction();
+    });
+});
+
+//module sticky-sidebar.js
+var ua = window.navigator.userAgent;
+var IE = ((ua.indexOf('Trident/') >= 0) || (ua.indexOf('MSIE ') >= 0));
+
+(function($) {
+    if (bt.isHtpDesign && IE){
+        $('.sidebar-fb').css('display', 'block');
+        document.querySelector('style').textContent +=
+            "@media screen and (min-width:768px) { .sidebar { display: block; }}";
+    }
+    return false;
+}(jQuery));
+
+// The global jQuery object is passed as a parameter
+window.stickySidebar = function () {
+
+
+    var $sidebar = $('.sidebar');
+    var height = $sidebar.outerHeight();
+
+    if (window.innerWidth < 768) {
+        $sidebar.removeClass('sticky');
+        return false;
+    }
+
+    //hack for getting relative offset top
+    if (bt.isBtDesign) {
+        var s = $sidebar.clone();
+        var sidebarOffset = s.css('visibility', 'hidden').removeClass('sticky').insertAfter($sidebar).offset().top;
+        s.remove();
+    } else {
+        $sidebar.removeClass('sticky');
+        var sidebarOffset = $sidebar.offset().top;
+        $sidebar.addClass('sticky');
+    }
+
+    $(".main-wrap").css("min-height", height);
+
+    var offsetBottomWindow = $(window).scrollTop() + window.innerHeight;
+    var padding = parseInt($sidebar.css("padding-top"), 10) + parseInt($sidebar.css("padding-bottom"), 10);
+    bt.stickySidebarBottomSelector = bt.stickySidebarBottomSelector || ".footer";
+    var footerTop = $(bt.stickySidebarBottomSelector).position().top;
+    if (offsetBottomWindow > height + sidebarOffset) {
+        $sidebar.addClass('sticky');
+    } else {
+        $sidebar.removeClass('sticky');
+    }
+
+    var $body = $('body');
+
+    if (footerTop < offsetBottomWindow) {
+        $sidebar.addClass('reached-bottom');
+        $body.addClass('scroll-reached-footer');
+    } else {
+        $sidebar.removeClass('reached-bottom');
+        $body.removeClass('scroll-reached-footer');
+    }
+};
+
+if (!IE) {
+    $(window).on("scroll resize", stickySidebar);
+    stickySidebar();
+}
+
+
+
+});
+</script>
+<!--/twig js modules-->
 
 <!--js modules-->
 <script>
@@ -1035,6 +1527,9 @@ jQuery(bt).on('fb-share', function(){
 
 
 //module .ajax-infi.js
+
+
+//module .pop-under.js
 
 
 //module after-share-popup.js
@@ -1087,67 +1582,6 @@ function validateEmail(email) {
 }
 //mobile-reorder disabled
 
-//module pop-under.js
-window.popUnder = window.popUnder || {};
-
-window.keepUrlParams = function (url) {
-    this.isInboundUrl = bt.isInboundUrl;
-
-    //return the url untouched if it's a link to another website
-    if (!isInboundUrl(url)) {
-        return url;
-    }
-
-    var pasVal = getUrlparamValue('pas');
-
-    if (pasVal
-        && (!url.match(/(?:\?|&)pas/) )) {
-        url += (url.indexOf('?') != -1 ? "&" : "?") + 'pas=' + pasVal;
-    }
-
-    return url;
-};
-
-
-popUnder.currentUrl = window.location.href;
-
-var asVal = getUrlparamValue('as') ? "_" + getUrlparamValue('as') :
-    getUrlparamValue('as-source') ? "_" + getUrlparamValue('as-source') : "";
-
-popUnder.newUrl = "/?grid=wall2" + asVal;
-jQuery(document).ready(function ($) {
-    if (!(bt.gs.gridWallNextPage && bt.isFirstGalPage) ||
-        (bt.isMobile)) {
-        return false;
-    }
-
-    var as = getUrlParam('as');
-    if (as) {
-        popUnder.newUrl += "&as-source=src" + as;
-    }
-
-    var browser = bt.browser();
-    if ( // firefox or chrome
-    (browser === "ie" && getIEVersion() > 10) ||
-    browser === "edge" ||
-    browser === "firefox" ||
-    browser === "chrome") {
-        $(".nextpage").attr("target", "_blank").click(function () {
-            var slug = bt.urlToSlug($(this).attr("href"));
-            window.location = keepUrlParams(popUnder.newUrl + "&story=" + slug);
-        });
-    }
-    if (browser === "safari") {
-        $(".nextpage").attr("target", "_blank").click(function (e) {
-            e.preventDefault();
-            var url = $(this).attr("href");
-            var slug = bt.urlToSlug($(this).attr("href"));
-            window.open(url);
-            window.location = keepUrlParams(popUnder.newUrl + "&story=" + slug);
-        });
-    }
-});
-
 //module post_share_like_btn_show.js
 if ((bt.isAggr && bt.isDesktop && bt.showBigFacebookBtn) || (!bt.isAggr && bt.showBigFacebookBtn)) {
     var fbBtn = jQuery('#big-share-fb-button');
@@ -1175,49 +1609,7 @@ window.replaceStrs = function (template, replaceValues) {
     });
     return renderedTpl;
 };
-
-//module sticky-sidebar.js
-/*
- * Sticky Sidebar
- * */
-window.stickySidebar = function () {
-    if (bt.isMobile) {
-        return false;
-    }
-    var $ = jQuery.noConflict(),
-        $stickyElem = $("#sidebar_list_sticky_id"),
-        $mostBt = $('.most-bt-sticky'),
-        stopTop = $mostBt.offset().top - 70,
-        windowTop = $(window).scrollTop();
-
-    if (windowTop <= stopTop ) {
-        $mostBt.removeClass('active');
-        $stickyElem.removeClass('sticky');
-    } else {
-        $mostBt.addClass('active');
-        $stickyElem.addClass('sticky');
-
-        var footerTop = jQuery("footer").position().top - 50 - 20;
-        if (windowTop + $stickyElem.height() >= footerTop) {
-            $stickyElem.addClass('stick-to-bottom');
-        } else {
-            $stickyElem.removeClass('stick-to-bottom');
-        }
-    }
-
-};
-jQuery(window).ready(function ($) {
-    var $ = jQuery.noConflict();
-    if (bt.isSingle && $(".most-bt-sticky").length > 0) {
-        $(window).scroll(function (event) {
-            stickySidebar();
-        }).resize(function () {
-            if ((!$(window).scrollTop() > $('.most-bt-sticky').offset().top - 80)) {
-                $('aside.sidebar.sticky').removeClass('sticky');
-            }
-        });
-    }
-});
+//sticky-sidebar disabled
 
 //module store-cookie.js
 /*
@@ -1437,7 +1829,21 @@ jQuery(document).ready(function () {
 
 </script>
 <!--/js modules-->
-    </div>
+	<!-- Begin comScore Tag -->
+	<script id="bts_comscore">
+		var _comscore = _comscore || [];
+		_comscore.push({c1: "2", c2: "19750771"});
+		(function () {
+			var s = document.createElement("script"), el = document.getElementsByTagName("script")[0];
+			s.async = true;
+			s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+			el.parentNode.insertBefore(s, el);
+		})();
+	</script>
+	<noscript>
+		<img src="http://b.scorecardresearch.com/p?c1=2&c2=19750771&cv=2.0&cj=1"/>
+	</noscript>
+	<!-- End comScore Tag -->
 	
 <script id="ajax_infi_template" type="text/plain">
 	<div class="archive-item format-">
@@ -1483,8 +1889,8 @@ jQuery(document).ready(function () {
 jQuery(document).ready(function($){
     var pathName = (window.location.pathname === '/') ? '__x__' : window.location.pathname.slice(1);
     var search = window.location.search;
-    var abPas = 'abpas=8796093022240_2097156_246290604625920_96';
-    var monitor = '_server=web12&_ctime=165&_timestamp=1510454423.4151';
+    var abPas = 'abpas=853221296849698_69475394125828_8972015000092672_4545503161274473_6755399441055744_1';
+    var monitor = '_server=web12&_ctime=233&_timestamp=1528524269.0082';
 	var localPath = pathName + search;
 	if (abPas.length && /[?&]as=|as-source=src/.test(search)) {
 	    localPath += '&' + abPas;
@@ -1500,11 +1906,11 @@ jQuery(document).ready(function($){
 
 <script>
 jQuery(document).ready(function($){
-    var arNotDef = [11,22,9,23,27,28,29,30,31,32,45,15,6,36,35,2,44,43,38,24,5,34,46,47,48,49,14,1,20,7,12,26,3,25,19,16,4];
+    var arNotDef = [11,22,9,23,50,27,28,29,30,31,32,45,15,6,36,35,2,44,43,38,24,5,34,46,47,48,49,14,1,20,7,12,26,3,25,19,16,4];
     arNotDef.forEach(hideRels);
 });
 </script>
-    
-	    
 
-	</body></html>
+
+
+</body></html>
