@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funmanga.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205003054id_/http%3A//www.funmanga.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funmanga.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609145332id_/http%3A//www.funmanga.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Policy | Funmanga - Read Free Manga Online!
 
