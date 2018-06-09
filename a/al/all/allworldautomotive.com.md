@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the allworldautomotive.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208153553id_/http%3A//allworldautomotive.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allworldautomotive.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610013516id_/http%3A//allworldautomotive.com/privacy.php) for the most accurate reproduction.*
 
 # All World Privacy Policy
 
-All World, Inc. (“All World”) takes your privacy seriously. Please read the following to learn more about our privacy policy.
+All World, LLC (“All World”) takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
 **What This Privacy Policy Covers**
 
@@ -78,9 +78,9 @@ All World, Inc. (“All World”) takes your privacy seriously. Please read the 
 
 
 
-All World, Inc. - September 10, 2010
+All World, LLC. - April 23, 2018
 
-©Copyright 1998-2014, All World, Inc.
+©Copyright 1998-2018, All World, LLC
 
 | 
 
