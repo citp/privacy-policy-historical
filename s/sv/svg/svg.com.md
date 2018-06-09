@@ -1,47 +1,61 @@
-> *The following text is extracted and transformed from the svg.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116052153id_/http%3A//www.ritetrack.com/Home/tabid/317/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the svg.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609091653id_/http%3A//www.svg.com/privacy-policy) for the most accurate reproduction.*
 
-# Home
+# Privacy Policy
 
-Rite Track is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Rite Track Web site and governs data collection and usage. By using the Rite Track website, you consent to the data practices described in this statement.
+## Privacy
 
-Collection of your Personal Information
+Svg.com provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of Svg's website, located at the domain Svg.com (the "Svg Website"). Please note that this Privacy Policy only applies to the Svg Website.
 
-Rite Track collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Rite Track also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+## Information Collection and Use
 
-There is also information about your computer hardware and software that is automatically collected by Rite Track. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Rite Track for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Rite Track Web site.
+It is not necessary to provide Svg with your personally identifiable information to use the Svg Website, and Svg does not collect personally identifiable information in connection with the operation of the Svg Website.  If you contact Svg by email through the Svg Website, Svg may keep a record of your contact information and correspondence, and may use your email address, and any information that you provide to Svg in your message, to respond to you.  Svg treats this information as it would treat any other unsolicited business correspondence, and has no obligation to keep this information confidential, nor to take any security measures to protect this information.
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Rite Track public message boards, this information may be collected and used by others. Note: Rite Track does not read any of your private online communications.
+When you visit the Svg Website, Svg's servers automatically record information that your browser sends whenever you visit a website ("Log Data"). This Log Data may include information such as your IP address, browser type or the domain from which you are visiting. For most users accessing the Internet from an Internet service provider, the IP address will be different every time you log on. Svg uses Log Data to monitor use of the Svg Website and the services we offer via the Svg Website and for the Svg Website's technical administration.
 
-Rite Track encourages you to review the privacy statements of Web sites you choose to link to from Rite Track so that you can understand how those Web sites collect, use and share your information. Rite Track is not responsible for the privacy statements or other content on Web sites outside of the Rite Track and Rite Track family of Web sites.
+## Cookies and Other Analytic Tools
 
-Use of your Personal Information
+Like many websites, Svg also uses "cookie" technology to collect additional website usage data and to improve the Svg Website and the services offered via the Web Site. A cookie is a small data file that Svg's servers transfer to your computer's hard disk. Svg may also use tracking pixels. Tracking pixels are small graphic images, which are used in email messages to determine whether the messages were opened and the links were clicked, or are used on the Svg Website to collect information about the browser and device viewing the Svg Website. Svg does not use cookies or tracking pixels to collect personally identifiable information. 
 
-Rite Track collects and uses your personal information to operate the Rite Track Web site and deliver the services you have requested. Rite Track also uses your personally identifiable information to inform you of other products or services available from Rite Track and its affiliates. Rite Track may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+Svg mainly uses "session cookies", which enable certain features of the Svg Website and services offered via the Svg Website, to better understand how you interact with the Web Site and services we offer via the Svg Website, to monitor aggregate usage by our users and web traffic routing on the Svg Website, and to improve the Svg Website and services offered via the Svg Website. Session cookies should be deleted from your computer when you disconnect from or leave the Svg Website.
 
-Rite Track does not sell, rent or lease its customer lists to third parties. Rite Track may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Rite Track may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Rite Track, and they are required to maintain the confidentiality of your information.
+Svg also uses a persistent cookie that stays on your computer after you leave the Svg Website, for the sole purpose of ensuring that you receive a variety of Svg content (also called "frequency-capping").
 
-Rite Track does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+## Third Party Advertisers
 
-Rite Track keeps track of the Web sites and pages our customers visit within Rite Track, in order to determine what Rite Track services are the most popular. This data is used to deliver customized content and advertising within Rite Track to customers whose behavior indicates that they are interested in a particular subject area.
+The Svg Website includes advertising from third party advertisers. Svg does not provide any personally identifiable information to these advertisers.
 
-Rite Track Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Rite Track or the site; (b) protect and defend the rights or property of Rite Track; and, (c) act under exigent circumstances to protect the personal safety of users of Rite Track, or the public.
+Third party advertisers, or companies working on their behalf, may serve directly to your browser the advertisements that appear on the Svg Website, which allows them to receive Log Data (as defined above). They may also use cookies, JavaScript, tracking pixels and other technologies to measure the effectiveness of their ads and to personalize advertising content. Svg does not control any third party advertiser tracking or measurement technologies, and the information practices of third party advertisers are not covered by this Privacy Policy. Please contact them directly for more information about their privacy practices. 
 
-Use of Cookies
+## Opting Out
 
-The Rite Track Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you choose not to receive tracking pixels, you will need to disable HTML images in your email program and browser, but that may affect images in other emails you receive and the web pages you browse.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Rite Track pages, or register with Rite Track site or services, a cookie helps Rite Track to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Rite Track Web site, the information you previously provided can be retrieved, so you can easily use the Rite Track features that you customized.
+Svg also uses analytics technologies such as Google Analytics, Quantcast and comScore. For Google's privacy practices see www.google.com/analytics/learn/privacy.html and to opt out of data recording and analysis by Google Analytics on the Svg Website, see https://tools.google.com/dlpage/gaoptout. For Quantcast's privacy practices see https://www.quantcast.com/privacy/, and to opt out of receiving interest-based content and ads enabled by Quantcast, see https://www.quantcast.com/opt-out/. For comScore's privacy practices see http://www.comscore.com/About-comScore/Privacy-Policy and http://www.scorecardresearch.com/privacy.aspx, and to opt out of having comScore associate site visits with your browser, see http://www.scorecardresearch.com/preferences.aspx.
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Rite Track services or Web sites you visit.
+## Do Not Track
 
-Security of your Personal Information
+Some web browsers may transmit "do not track" signals to the websites and other online services with which the browser communicates. Svg currently does not take action in response to these signals. Also, please note that regardless of Svg's practices with respect to "do not track" signals, third party service providers Svg has engaged may use cookies to collect your personal information or online activities over time and across different web sites. For more information regarding Do Not Track mechanisms, see http://allaboutdnt.com/.
 
-Rite Track secures your personal information from unauthorized access, use or disclosure. Rite Track secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+## Information Sharing and Disclosure
 
-Changes to this Statement
+Svg cooperates with government and law enforcement officials or private parties, to enforce and comply with the law. Svg may disclose any information about you to government or law enforcement officials or private parties as Svg, in its sole discretion, believes necessary or appropriate to respond to claims, legal process (including subpoenas), to protect the property and rights of Svg or a third party, the safety of the public or any person, to prevent or stop any illegal, unethical, or legally actionable activity, or to comply with the law.
 
-Rite Track will occasionally update this Statement of Privacy to reflect company and customer feedback. Rite Track encourages you to periodically review this Statement to be informed of how Rite Track is protecting your information.
+If any or all of the assets of Svg are acquired by, or merged with another entity, Svg will share with this entity some or all of the information collected through the Svg Website.
 
-Contact Information
+## Security
 
-Rite Track welcomes your comments regarding this Statement of Privacy. If you believe that Rite Track has not adhered to this Statement, please contact Rite Track at [tom.parish@ritetrack.com](mailto:tom.parish@ritetrack.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+Because Svg does not collect any personally identifiable information from the Svg Website, Svg does not take any specific security measures to protect the information we do collect.
+
+## Links to Other Sites
+
+The Svg Website may contain links to other web sites ("Linked Sites") operated by Svg or third parties. Linked Sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. This Privacy Policy addresses only the use and disclosure of information that Svg collects through the Svg Website. Other sites follow different rules regarding the use or disclosure of the personal information you submit to them. Svg does not exercise control over third party Linked Sites. Your use of any Linked Site operated by Svg is subject to the terms and conditions provided by Svg for such Linked Site.  Svg encourages you to read the privacy policies or statements of the other websites you visit.
+
+## Our Policy Towards Children
+
+The Svg Website is not directed to children under 18. If a parent or guardian becomes aware that his or her child has provided Svg with personally identifiable information without their consent, he or she should contact Svg at staff@Svg.com.  If Svg becomes aware that a child under 13 has provided Svg with personally identifiable information, Svg will remove such information from our files.
+
+## Changes to this Privacy Policy
+
+Svg reserves the right to change this policy at any time without prior notice. Any changes to this policy will be posted here.  You are advised to consult this Privacy Policy regularly for any changes. If you have any questions or comments about this Privacy Policy, please contact us at staff@Svg.com.
+
+Last Update: January 6, 2017
