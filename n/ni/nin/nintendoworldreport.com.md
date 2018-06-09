@@ -1,74 +1,197 @@
-> *The following text is extracted and transformed from the nintendoworldreport.com privacy policy that was archived on 2017-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171111055355id_/https%3A//www.nintendoworldreport.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nintendoworldreport.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609052236id_/http%3A//www.nintendoworldreport.com/privacy) for the most accurate reproduction.*
 
 # Nintendo World Report Privacy Policy - - Nintendo World Report
 
-We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following discloses our Privacy Policy.
+## Privacy policy
 
-#### What information are you collecting and how are you collecting it?
+#### 1\. Introduction
 
-Every computer connected to the Internet is given a domain name and a set of numbers that serve as that computer's "Internet Protocol", or IP address. When a visitor requests a page from any Web Site within the Nintendo World Report, our Web servers automatically recognize that visitor's domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our Site. We use this information to examine our traffic in aggregate, and to investigate misuse of the Nintendo World Report Network, its users, or to cooperate with law enforcement.
+1.1 We are committed to safeguarding the privacy of our website visitors and service users.
 
-#### Will you disclose the information you collect to outside third parties?
+1.2 This policy applies where we are acting as a data controller with respect to the personal data of our website visitors and service users; in other words, where we determine the purposes and means of the processing of that personal data.
 
-We do not collect and evaluate this information for specific individuals. Our Web servers do not record e-mail addresses of the visitors.
+1.3 We use cookies on our website. Insofar as those cookies are not strictly necessary for the provision of our website and services, we will ask you to consent to our use of cookies when you first visit our website.
 
-#### What are cookies?
+1.4 In this policy, "we", "us" and "our" refer to NINWR, LLC. For more information about us, see Section 13.
 
-From time to time, Nintendo World Report or its advertisers may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your browser from a web server and stored on your computer's hard drive. A cookie can't read data off your hard disk or read cookie files created by other Web sites. Cookies do not damage your system. We use cookies to identify which areas of Nintendo World Report you have visited or customized, so the next time you visit, those pages may be readily accessible. Our advertisers may also use cookies to ascertain how many times you've seen an advertisement. We and our advertisers may use this information to better personalize the content, banners, and promotions that you see on our Site. You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our Site and other Web sites may be diminished and some features may not work as intended.
+#### 2\. Credit
 
-#### How do you use single-pixel gifs?
+2.1 This document was created using a template from Docular ([https://docular.net](https://docular.net/)).
 
-Nintendo World Report and its advertisers may use single-pixel gif images, sometimes referred to as web bugs or web beacons, to count Web page accesses and gather some general statistical information. Nintendo World Report does not gather personal information through the use of these images. Our advertisers may use single-pixel gifs that can track personal information from cookies that may have been previously placed on a user's computer by an advertiser.
+#### 3\. How we use your personal data
 
-#### What information do you collect when I register for something?
+3.1 In this Section 3 we have set out:
 
-Nintendo World Report offers access to some services that are free but that require registration. We may use your registration contact information to send notification of Nintendo World Report products and services by e-mail. See the above information regarding information and outside third parties.
+(a) the general categories of personal data that we may process;
 
-#### What other information do you request?
+(b) in the case of personal data that we did not obtain directly from you, the source and specific categories of that data;
 
-We may also request your e-mail address or mailing address for the purposes of conducting a survey or to provide additional services (for example, subscriptions to e-mail newsletters or announcement lists). Whenever we request the identity of a visitor, we will clearly indicate the purpose of the inquiry before the information is requested. We maintain a strict "No-Spam" policy that means that we do not intend to sell, rent, or otherwise give your e-mail address to a third-party, without your consent.
+(c) the purposes for which we may process personal data; and
 
-We may from time to time send e-mail announcing new Nintendo World Report products and services. Except as stated above, Nintendo World Report will not send you email that you have not agreed to receive.
+(d) the legal bases of the processing.
 
-When you sign up for the Nintendo World Report Forums, your name or alias is recorded solely for purposes of maintaining your own account within the forums. This information is not used to monitor your activity within a forum, nor is it used to identify you outside the Nintendo World Report in any way.
+3.2 We may process data about your use of our website and services ("usage data"). The usage data may include your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views and website navigation paths, as well as information about the timing, frequency and pattern of your service use. The source of the usage data is our analytics tracking system. This usage data may be processed for the purposes of analysing the use of the website and services. The legal basis for this processing is consent or our legitimate interests, namely monitoring and improving our website and services.
 
-When you enter a contest or other promotion, we may ask for your name, address, and e-mail address so we can administer the contest and notify winners.
+3.3 We may process your account data ("account data"). The account data may include your name and email address. The source of the account data but only with your explicit permission. The account data may be processed for the purposes of operating our website, providing our services, ensuring the security of our website and services, maintaining back-ups of our databases and communicating with you. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business.
 
-#### What information do you collect when I purchase something?
+3.4 We may process your information included in your personal profile on our website ("profile data"). The profile data may include your name, email address, profile pictures, date of birth, interests and hobbies. The profile data may be processed for the purposes of enabling and monitoring your use of our website and services. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business.
 
-If you are purchasing something from Nintendo World Report, we need to know your name, e-mail address, and mailing address. This allows us to process and fulfill your order and to notify you of your order status. This information may also be used by us to notify you of related products and services.
+3.5 We may process your personal data that is provided in the course of the use of our services ("service data"). The service data may include the timing, frequency and pattern of service use. The source of the service data is you. The service data may be processed for the purposes of operating our website, providing our services, ensuring the security of our website and services, maintaining back-ups of our databases and communicating with you. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business.
 
-#### Will you disclose the information you collect to outside third parties?
+3.6 We may process information that you post for publication on our website or through our services ("publication data"). The publication data may be processed for the purposes of enabling such publication and administering our website and services. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business.
 
-Nintendo World Report will disclose personal information and/or an IP address, when required by law or in the good-faith belief that such action is necessary to:
+3.7 We may process information that you provide to us for the purpose of subscribing to our email notifications and/or newsletters ("notification data"). The notification data may be processed for the purposes of sending you the relevant notifications and/or newsletters. The legal basis for this processing is the performance of a contract between you and us and/or taking steps, at your request, to enter into such a contract.
 
-   1\. Conform to the edicts of the law or comply with legal process served on Nintendo World Report,  
-   2\. Protect and defend the rights or property of Nintendo World Report Network of Sites and related properties, or visitors to the Nintendo World Report Network of Sites and related properties,  
-   3\. Identify persons who may be violating the law, the Nintendo World Report legal notice and Web site User Agreement, the rights of third parties, or otherwise misusing the Nintendo World Report Network or its related properties,  
-   4\. Cooperate with the investigations of purported unlawful activities.
+3.8 We may process information contained in or relating to any communication that you send to us ("correspondence data"). The correspondence data may include the communication content and metadata associated with the communication. Our website will generate the metadata associated with communications made using the website contact forms. The correspondence data may be processed for the purposes of communicating with you and record-keeping. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business and communications with users.
 
-Nintendo World Report uses reasonable precautions to keep the information disclosed to us secure. Furthermore, we are not responsible for any breach of security or for any actions of any third parties that receive the information. We are not responsible for such third party privacy policies or how they treat information about their users.
+3.9 In addition to the specific purposes for which we may process your personal data set out in this Section 3, we may also process any of your personal data where such processing is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person.
 
-#### Third Party Advertising
+3.10 Please do not supply any other person's personal data to us, unless we prompt you to do so.
 
-The ads appearing on this Web site are delivered to you by Adtegrity, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about Adtegrity, cookies, and how to "opt-out", please click here.
+#### 4\. Providing your personal data to others
 
-#### Third Party Cookies
+4.1 We may disclose your personal data to any member of our group of companies (this means our subsidiaries, our ultimate holding company and all its subsidiaries) insofar as reasonably necessary for the purposes, and on the legal bases, set out in this policy.
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. To find out more about this, click here.
+4.2 We may disclose your personal data to our insurers and/or professional advisers insofar as reasonably necessary for the purposes of obtaining or maintaining insurance coverage, managing risks, obtaining professional advice, or the establishment, exercise or defence of legal claims, whether in court proceedings or in an administrative or out-of-court procedure.
 
-#### What else should I know about my privacy when online?
+4.3 We may disclose email addresses to our suppliers or subcontractors insofar as reasonably necessary for sending you our email newsletter, if you have requested it (you can inform us at any time if you no longer require the newsletter).
 
-The Nintendo World Report Network of Web sites contains many hyperlinks to other Web sites. Nintendo World Report also contains advertisements of third parties. Nintendo World Report is not responsible for the privacy practices or the content of such Web sites or advertisers. Nintendo World Report does not share any of the individual personal information you provide Nintendo World Report with the Web sites to which Nintendo World Report links, except as stated elsewhere within this Privacy Policy, although Nintendo World Report may share aggregate data with such Web sites (such as how many people use our Site).
+4.4 In addition to the specific disclosures of personal data set out in this Section 4, we may disclose your personal data where such disclosure is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person. We may also disclose your personal data where such disclosure is necessary for the establishment, exercise or defence of legal claims, whether in court proceedings or in an administrative or out-of-court procedure.
 
-Please check with those Web sites to determine their privacy policy. Please keep in mind that whenever you voluntarily disclose personal information online - for example through e-mail, discussion lists, or elsewhere - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
+#### 5\. International transfers of your personal data
 
-Ultimately, you are solely responsible for maintaining the secrecy of your personal information. Please be careful and responsible whenever you're online.
+5.1 In this Section 5, we provide information about the circumstances in which your personal data may be transferred to countries outside the European Economic Area (EEA).
 
-#### Your Consent To This Agreement
+5.2 The hosting facilities for our website are situated in Houston, Texas, U. S. The European Commission has made an "adequacy decision" with respect to the data protection laws of each of these countries. Transfers to each of these countries will be protected by appropriate safeguards, namely EU-U.S. Privacy Shield Framework.
 
-By using our Web site, you consent to the collection and use of information by Nintendo World Report as specified above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+5.3 Mailing databases are situated in Houston, Texas, U. S. The European Commission has made an "adequacy decision" with respect to the data protection laws of each of these countries. Transfers to each of these countries will be protected by appropriate safeguards, namely EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield.
 
-Please send any questions about Nintendo World Report's Privacy Policy to: support@nintendoworldreport.com
+5.4 You acknowledge that personal data that you submit for publication through our website or services may be available, via the internet, around the world. We cannot prevent the use (or misuse) of such personal data by others.
 
-Please note that your use of the Nintendo World Report Web site is governed by our Legal Disclaimer.
+#### 6\. Retaining and deleting personal data
+
+6.1 This Section 6 sets out our data retention policies and procedure, which are designed to help ensure that we comply with our legal obligations in relation to the retention and deletion of personal data.
+
+6.2 Personal data that we process for any purpose or purposes shall not be kept for longer than is necessary for that purpose or those purposes.
+
+6.3 We will retain and delete your personal data as follows:
+
+(a) Profile data containing personal data will be retained until deleted, as performed by either the link at the bottom of this page or through the forums.
+
+(b) Cookie data will be retained for no longer than 30 days.
+
+6.4 Notwithstanding the other provisions of this Section 6, we may retain your personal data where such retention is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person.
+
+#### 7\. Amendments
+
+7.1 We may update this policy from time to time by publishing a new version on our website.
+
+7.2 You should check this page occasionally to ensure you are happy with any changes to this policy.
+
+7.3 We may notify you of changes to this policy by email or through the private messaging system on our website.
+
+#### 8\. Your rights
+
+8.1 In this Section 8, we have summarised the rights that you have under data protection law. Some of the rights are complex, and not all of the details have been included in our summaries. Accordingly, you should read the relevant laws and guidance from the regulatory authorities for a full explanation of these rights.
+
+8.2 Your principal rights under data protection law are:
+
+(a) the right to access;
+
+(b) the right to rectification;
+
+(c) the right to erasure;
+
+(d) the right to restrict processing;
+
+(e) the right to object to processing;
+
+(f) the right to data portability;
+
+(g) the right to complain to a supervisory authority; and
+
+(h) the right to withdraw consent.
+
+8.3 You have the right to confirmation as to whether or not we process your personal data and, where we do, access to the personal data, together with certain additional information. That additional information includes details of the purposes of the processing, the categories of personal data concerned and the recipients of the personal data. Providing the rights and freedoms of others are not affected, we will supply to you a copy of your personal data. The first copy will be provided free of charge, but additional copies may be subject to a reasonable fee. Provision of such information will be subject to: 
+
+(a) the first copy will be provided free of charge, but additional copies will be subjected to a GBP 10 administration fee; and
+
+(b) the supply of appropriate evidence of your identity (for this purpose, we will usually accept a photocopy of your passport certified by a solicitor or bank plus an original copy of a utility bill showing your current address).
+
+8.4 You have the right to have any inaccurate personal data about you rectified and, taking into account the purposes of the processing, to have any incomplete personal data about you completed.
+
+8.5 In some circumstances you have the right to the erasure of your personal data without undue delay. Those circumstances include: the personal data are no longer necessary in relation to the purposes for which they were collected or otherwise processed; you withdraw consent to consent-based processing; you object to the processing under certain rules of applicable data protection law; the processing is for direct marketing purposes; and the personal data have been unlawfully processed. However, there are exclusions of the right to erasure. The general exclusions include where processing is necessary: for exercising the right of freedom of expression and information; for compliance with a legal obligation; or for the establishment, exercise or defence of legal claims.
+
+8.6 In some circumstances you have the right to restrict the processing of your personal data. Those circumstances are: you contest the accuracy of the personal data; processing is unlawful but you oppose erasure; we no longer need the personal data for the purposes of our processing, but you require personal data for the establishment, exercise or defence of legal claims; and you have objected to processing, pending the verification of that objection. Where processing has been restricted on this basis, we may continue to store your personal data. However, we will only otherwise process it: with your consent; for the establishment, exercise or defence of legal claims; for the protection of the rights of another natural or legal person; or for reasons of important public interest.
+
+8.7 You have the right to object to our processing of your personal data on grounds relating to your particular situation, but only to the extent that the legal basis for the processing is that the processing is necessary for: the performance of a task carried out in the public interest or in the exercise of any official authority vested in us; or the purposes of the legitimate interests pursued by us or by a third party. If you make such an objection, we will cease to process the personal information unless we can demonstrate compelling legitimate grounds for the processing which override your interests, rights and freedoms, or the processing is for the establishment, exercise or defence of legal claims.
+
+8.8 You have the right to object to our processing of your personal data for direct marketing purposes (including profiling for direct marketing purposes). If you make such an objection, we will cease to process your personal data for this purpose.
+
+8.9 If you consider that our processing of your personal information infringes data protection laws, you have a legal right to lodge a complaint with a supervisory authority responsible for data protection. You may do so in the EU member state of your habitual residence, your place of work or the place of the alleged infringement.
+
+8.10 To the extent that the legal basis for our processing of your personal information is consent, you have the right to withdraw that consent at any time. Withdrawal will not affect the lawfulness of processing before the withdrawal.
+
+8.11 You may exercise any of your rights in relation to your personal data by contacting us using the details outlined in section 13.
+
+#### 9\. About cookies
+
+9.1 A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server.
+
+9.2 Cookies may be either "persistent" cookies or "session" cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.
+
+9.3 Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
+
+#### 10\. Cookies that we use
+
+10.1 We use cookies for the following purposes:
+
+(a) authentication - we use cookies to identify you when you visit our website and as you navigate our website;
+
+(b) status - we use cookies to help us to determine if you are logged into our website;
+
+(c) security - we use cookies as an element of the security measures used to protect user accounts, including preventing fraudulent use of login credentials, and to protect our website and services generally; 
+
+(d) advertising - we use cookies to help us to display advertisements that will be relevant to you (cookies used for this purpose are: Google AdSense, Google AdExchange, Avocet, PulsePoint, Teads, Skimlinks, Monetizer 101);
+
+(e) analysis - we use cookies to help us to analyse the use and performance of our website and services (cookies used for this purpose are: Google Analytics, ComScore, Google Tag Manager, Crazy Egg, Facebook Audience, Google Analytics Audience); 
+
+(f) cookie consent - we use cookies to store your preferences in relation to the use of cookies more generally. 
+
+#### 11\. Cookies used by our service providers
+
+11.1 Our service providers use cookies and those cookies may be stored on your computer when you visit our website.
+
+11.2 We use Google Analytics and Comscore to analyse the use of our website. Google Analytics and Comscore gather information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website. Google's privacy policy is available at: https://www.google.com/policies/privacy/. Comscore’s privacy policy is available at https://www.comscore.com/About-comScore/Privacy-Policy. 
+
+11.3 We publish Google AdSense interest-based advertisements on our website. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behaviour on our website and on other websites across the web using cookies. You can view, delete or add interest categories associated with your browser by visiting: https://adssettings.google.com. You can also opt out of the AdSense partner network cookie using those settings or using the Network Advertising Initiative's multi-cookie opt-out mechanism at: http://optout.networkadvertising.org. However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you may wish to consider using the Google browser plug-ins available at: https://support.google.com/ads/answer/7395996.
+
+11.4 We use Avocet, OpenX, PulsePoint, Sovrn and Google Audiences to carry out retargeting and Header Bidding. These service uses cookies for retargeting ads and targeting ads based on your interests. You can view the privacy policy of these service providers at http://avocet.io/privacy-policy, https://www.openx.com/legal/privacy-policy/, https://www.pulsepoint.com/privacy-policy.html, https://www.sovrn.com/privacy-policy/ and https://www.google.com/policies/privacy/
+
+#### 12\. Managing cookies
+
+12.1 Most browsers allow you to refuse to accept cookies and to delete cookies. The methods for doing so vary from browser to browser, and from version to version. You can however obtain up-to-date information about blocking and deleting cookies via these links:
+
+(a) <https://support.google.com/chrome/answer/95647?hl=en> (Chrome);
+
+(b) <https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences> (Firefox);
+
+(c) <http://www.opera.com/help/tutorials/security/cookies/> (Opera);
+
+(d) <https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies> (Internet Explorer)
+
+(e) <https://support.apple.com/kb/PH21411> (Safari); and
+
+(f) <https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy> (Edge).
+
+12.2 Blocking all cookies will have a negative impact upon the usability of many websites.
+
+12.3 If you block cookies, you will not be able to use all the features on our website.
+
+#### 13\. Our details
+
+13.1 This website is owned and operated by NINWR, LLC.
+
+13.2 You can contact us:
+
+(a) by email, using this email address support@nintendoworldreport.com
