@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paidsurveys.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206141756id_/http%3A//paidsurveys.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paidsurveys.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610001112id_/http%3A//paidsurveys.com/privacy.html) for the most accurate reproduction.*
 
 # Online Surveys at Home | Paid Surveys
 
