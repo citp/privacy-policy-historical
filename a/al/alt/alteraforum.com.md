@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alteraforum.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120072510id_/http%3A//www.intel.com/content/www/us/en/privacy/intel-privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alteraforum.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609123307id_/http%3A//www.intel.com/content/www/us/en/privacy/intel-privacy-notice.html) for the most accurate reproduction.*
 
 # Intel Privacy Notice
 
@@ -7,223 +7,312 @@ Sign In to access restricted content.
 The browser version you are using is not recommended for this site.  
 Please consider upgrading to the latest version of your browser by clicking one of the following links.
 
-### **Last Updated**
+Last Revised: May 23, 2018 
 
-The Intel Privacy Notice was updated on November 17, 2016. To view our previous notices, please click [here](https://web.archive.org/content/www/us/en/privacy/intel-privacy-notice-archive.html).
+## Privacy and Your Information
 
-Intel Corporation and its group companies ("Intel", "we", "us" and "our") respect your privacy. This Privacy Notice describes our privacy practices regarding the collection, use, and disclosure of your information through Intel’s web sites, products, online services, software, apps, tools, and other services and functionality we provide both online and offline (collectively referred to as “Intel® Services”), along with our marketing and advertising practices.
+Intel’s business brings technology to businesses, consumers and, society in a way that makes amazing experiences possible but doesn’t come at the expense of your privacy. We believe in innovation and performance that supports your privacy rights and in technology designed with those rights in mind.
 
-Some Intel Services use cookies and similar technologies to access or store information. Specific information about how we use cookies, how we respond to Do Not Track signals, and how you can refuse certain cookies, is set out in our [Intel Cookies and Similar Technologies Notice](https://web.archive.org/content/www/us/en/privacy/intel-cookie-notice.html).
+This Privacy Notice describes how we use your personal information and respect your privacy rights.
 
-### **CONTENTS**
+In particular, this Privacy Notice explains how our products, services and, technologies use your personal information. It applies to our use of personal information across our websites, products, online services, software, apps, tools, and other services and functionality we provide, both online and offline (collectively referred to as “ **Intel®  Services**”), unless a separate, or supplementary, privacy notice is offered. See “ **Additional Privacy Notices and Supplements”  **for additional information posted for specific Intel® Services.
 
-  1. INFORMATION COLLECTION  
-Personal Information We May Collect  
-Other Information We May Collect
-  2. NOTICE
-  3. INFORMATION USE AND DISCLOSURE  
-How We May Use and Disclose Personal Information  
-How We May Use and Disclose Other Information
-  4. THIRD-PARTY SERVICES
-  5. THIRD-PARTY ADVERTISERS
-  6. SECURITY
-  7. MARKETING PREFERENCES
-  8. HOW YOU CAN MANAGE YOUR PERSONAL INFORMATION 
-  9. RETENTION PERIOD
-  10. USE OF INTEL SERVICES BY MINORS
-  11. INTERNATIONAL TRANSFERS OF PERSONAL INFORMATION
-  12. CONTACT US
-  13. SUPPLEMENTS AND ADDITIONAL NOTICES
-  14. UPDATES TO THIS PRIVACY NOTICE
+## What Kinds of Information Do We Collect?
+
+Intel collects information as part of its business operations, to provide services, to respond to requests and offer customer support, to fulfill legal and contractual obligations and to build its innovative products. You provide some of this data directly, such as when you order an Intel product, contact customer support, or register for an Intel event or publication. We also collect information through your interaction with Intel® Services and our website, for example, using embedded product technologies and [cookies](https://privacy.microsoft.com/en-us/privacystatement#maincookiessimilartechnologiesmodule). We also obtain data from third parties.  
 
 
+_Expand the sections below to learn more._
 
-### **1\. INFORMATION COLLECTION**
+#### 
 
-**Personal Information We May Collect**
+####  Information You Provide to Intel Voluntarily
 
-Intel may collect various types of personal information, including:
+When you subscribe to a newsletter, create an account, make a purchase or request information from Intel, we will ask for things like contact, billing, shipping and communication information, payment card or financial account data, and account ID or credentials in order to fulfill your request. If you visit one of our stores or locations, attend a trade show or event, or otherwise contact us, you may also voluntarily provide similar information.
 
-  * Personal and business contact information (such as name, billing and shipping address, phone number, email address, and social media/messaging account ID)
-  * Intel Account ID
-  * Profile picture
-  * Social media postings and information
-  * Payment card, digital wallet, or other payment service information
-  * Depending on the service we are providing to you we may also need to collect more sensitive personal information (such as location, government-issued identification, photographs, audio/video recordings, images, and biometrics) directly from you
+Interactive features in some Intel® Services may allow you to invite friends, follow others, comment on or make unique posts, or share photos, video or other personal content. When you affirmatively share this content, we may collect and use it in accordance with this Notice. Additionally, by way of your social engagement, we may receive information about you from another user, such as when your friend posts content that includes you.
 
+From time to time we engage in research, analysis, historical and scientific studies either alone or with partners. As part of such efforts we invite individuals to participate and voluntarily share information through an informed consent process. When we receive personal information from a third party for the purpose of such research we undertake processes to validate that the personal information has been collected in a responsible and lawful manner.
 
+If you submit any personal information about other people to us or to our service providers, you are responsible for making sure that you have the authority to do so and to allow us to use their personal information in accordance with this Privacy Notice (for example, by your asking for their consent).
 
-If you submit any personal information about other people to us or to our service providers, you represent that you have the authority to do so and to permit us to use their personal information in accordance with this Privacy Notice.
+#### 
 
-We and our service providers may collect personal information from a variety of sources, including:
+####  Device and Product Operation
 
-  * **From you or someone acting on your behalf** : We may collect personal information you or someone acting on your behalf shares with us such as your name and contact details.
-  * **Through the Intel Services** : We may collect personal information about you when you use Intel Services, for example, when you sign up for a newsletter, make a purchase, or use or install our products or apps.
-  * **Through Third Parties’ Services** : We may collect personal information about you when you use third party services that utilize the Intel Services.
-  * **Offline** : We may collect personal information you provide to us offline, such as when you visit our stores, attend one of our trade shows or events, place a verbal order over the phone or contact customer services. 
-  * **From Other Sources** : We may collect your personal information from other sources, such as public databases, joint marketing partners, and social media platforms. We may also receive your personal information from people with whom you are "friends" or otherwise connected on social media platforms. For example, if you elect to connect your social media account to your Intel Services account, certain personal information from your social media account will be shared with us. Such information may include personal information that is part of your social media profile or your friends’ profiles. Similarly, if your social media "friends" connect their social media account to their Intel Services account, information about you may be shared with us via this “friend” connection.
+If you download and use certain Intel® Service like software or an app, we may track and collect usage data, such as when the software or app accesses our servers, what information and files have been downloaded through the use of the software or app, and how you interact with the software or app during use. Some of this data may be protected as personal information under applicable data protection laws. We collect this information to understand how you interact with Intel® Services and provide you the best experiences. We may also use this information for security purposes. We may associate the information we collect from more than one device that you use with other information that we have collected about you or your other devices.
 
+In addition, most computing devices include embedded technology like processing chips that collect information about how the device is operating. This information may include:
 
+·  Type and version of operating system, hardware version, device settings, software types, battery and signal strength, screen resolution, device manufacturer and model, language, and Internet browser type and version. The name and version of any Intel® Services (such as the app) you are using is also collected.
 
-**Other Information We May Collect**
+·  Geographic locations, such as through GPS, Bluetooth, or WiFi signals.
 
-Intel may also collect other information from your app, browser, or device that does not reveal your (or anyone else's) real world identity, for example:
+·  Connection information such as the name of your mobile operator or ISP, browser type, language and time zone, mobile phone number and IP address.
 
-  * Browser and device information
-  * App or device usage data
-  * Information collected through cookies, pixel tags, and similar technologies
-  * IP address
-  * Location data
-  * Aggregated, anonymized, or de-identified information
-  * Demographic information and other information provided by you (i.e., language, occupation, postal code).
+Access to this information by other applications and transmission of this information from the device to Intel or other service providers may be controlled by the operating system or other software running on the device.
 
+In some instances Intel technology is used within a product or device that may collect personal information, which is not shared with Intel. This information may be collected by the manufacturer of the product or device and you will need to read the privacy notice, privacy policy, or related terms published by that manufacturer to understand how they use your information.
 
+Some Intel® Services may allow you to use biometric information for identification or authentication or to take advantage of specific features. Biometric data may include your fingerprint, facial features, voice or similar unique physical characteristics.
 
-We and our third-party service providers may collect this information in a variety of ways, including:
+Intel® Services can also collect geographic location information, such as location inferred from your IP address or GPS, and information about how you engage with and use Intel® Services, for example where you have chosen to activate location-enabled services on the device with which you access these services.
 
-  * **Through your browser or device** : Most browsers and devices collect certain information automatically, for example, type and version of operating system, screen resolution, device manufacturer and model, language, Internet browser type and version, and the name and version of the Intel Services (such as the app) you are using. We use this information, for example, to make sure that the Intel Services function properly, analyze the performance of our products, and improve and maintain the Intel Services.
-  * **Through your use of an Intel app** : When you download and use an Intel app, we and our service providers may track and collect usage data, such as the date and time the Intel app on your device accesses our servers and what information and files have been downloaded to the Intel app.
-  * **Through cookies and similar technologies** : We use cookies to make our web sites operate, work more efficiently, and provide analytic information. Technologies similar to cookies are also used in connection with some Intel Services, such as pixel tags, web beacons, clear GIFs, JavaScript, and local storage. Please view our [Intel Cookies and Similar Technologies Notice](https://web.archive.org/content/www/us/en/privacy/intel-cookie-notice.html) for more information and how to disable/remove certain cookies.
-  * **IP Address** : IP addresses are automatically transmitted as part of any Internet communication, and collecting IP addresses is a common practice; many web sites, applications and other Intel Services collect IP addresses automatically. We use IP addresses for purposes such as communicating with your device, calculating usage levels of the Intel Services, helping diagnose server problems, security, and administering the Intel Services.  
+When Intel® Services use more sensitive categories of your personal information, such as biometrics for identification or authentication, or precise geographic location, Intel will honor the preferences you set in accompanying menus and settings.
 
-  * **Location Data:**  We may collect the physical location of a connected device, for example, using satellite, cell phone tower, and WiFi signals. We may use your device’s physical location to provide you with personalized location-based Intel Services, content, and advertising. We may also share your device’s physical location, combined with information about what advertisements you viewed and other information we collect, with our marketing partners to enable them to provide you with more personalized content and to study the effectiveness of advertising campaigns. You can choose whether to allow or deny uses and/or sharing of your device’s location by changing your device settings, but if you choose to deny such uses and/or sharing, we and/or our marketing partners may not be able to provide you with the applicable personalized Intel Services, content, and advertising.
+We collect information from and about a wide variety of technologies where Intel® Services are used. The kind of information collected depends on the technology, the use, and the device and personal settings. Examples of these technologies might include computers, phones and tablets, but also interactive wearables, connected technologies in the home, drones or other vehicles. Where we provide technology for drones and autonomous vehicles, these may capture audio, video and photographs that unintentionally or incidentally capture people, for example workers in a field or pedestrians crossing a street. Where appropriate, we use technical and organizational controls to prevent it from being used improperly, but this information is important to help improve algorithms for product functionality and safety, including features such as mapping topography, obstacles, traffic and the like.
 
+#### 
 
+####  Information from Third Parties
 
-### **2\. NOTICE**
+We obtain information through partners, vendors, suppliers and other third parties. The parties from whom we obtain information are typically corporate enterprises (although some may also be educational or public enterprises) and they may be located in any of the locations in which we do business. These enterprises largely fall into the following categories: Marketing companies, data set and information vendors, public database providers, social media platforms, partners, providers of products or services, hosts or vendors at events or trade shows, research partners, enterprises that deploy the Intel® Services or third party offerings that include Intel® Services. We take steps to confirm that information we receive from these third parties has been collected with your consent or that these parties are otherwise legally permitted to disclose your personal information to us. We might also obtain information through a partner, or co-create datasets with a partner, as part of our business operations. This kind of data is used for work like improving algorithms and data models, product testing and improvement, enhancing existing products and developing new capabilities and features. In some cases we combine personal information about individuals that we receive from multiple sources, including directly collected from you or through your use of the Intel® Services.
 
-We provide access to our Privacy Notice by:
+#### 
 
-  * Linking to it throughout our websites 
-  * Referencing it in our Terms of Use, End User License Agreement  
+####  Through our Website & Services
 
-  * Incorporating it into our contracts, agreements, and other documents as necessary or appropriate
+We collect information about how you interact with our website and some Intel® Services through the use of cookies, pixel tags, and similar technologies. Please view our [Intel Cookies and Similar Technologies Notice](https://web.archive.org/content/www/us/en/privacy/intel-cookie-notice.html) for more information on our use of cookies and similar technologies, how you can manage cookies and how we respond to Do Not Track signals.
+
+## How We Use Information
+
+We use information that we collect for lawful purposes associated with the growth, maintenance and management of our business while also respecting your privacy. These uses include our internal operations and administration, communicating with you and fulfilling your requests for the Intel® Services, for advertising and marketing, to monitor and maintain functionality and security of Intel® Services and to improve, develop, enhance and otherwise provide the Intel® Services.  
 
 
+_Expand the sections below to learn more._
 
-### **3\. INFORMATION USE AND DISCLOSURE**
+#### 
 
-**How We May Use and Disclose Personal Information**
+####  To Communicate
 
-We may use personal information:
+We use contact information to send messages; to ship products and process payments; to respond to customer service requests; to provide alerts such as security updates or changes in our policies or about subscriptions that are ending; and to send advertising or informational materials like newsletters or white papers, in accordance with your communication preferences. We occasionally conduct surveys, offer contests or sweepstakes or do focused research or studies which may require you to voluntarily share personal information in order to participate. These activities typically have additional notices that provide more information about the use of your personal information and to which you may be asked to consent. Some Intel® Services may allow you to send messages to a “friend” or other contacts you provide or to “like” or post on social media. For information about managing the use of your contact data and to manage email subscriptions and promotional communications, please visit the **Your Choices & Rights **section of this Notice.
 
-  * To provide Intel Services.
-  * To respond to your inquiries and fulfill your requests, such as to send you technical documents or whitepapers.
-  * To send you marketing communications that we believe may be of interest to you, such as newsletters, in accordance with your communication preferences.
-  * To personalize your experience on the Intel Services by presenting products, marketing messages, offers, and content tailored to you.
-  * To allow you to participate in surveys, sweepstakes, contests, and similar promotions and to administer these activities. Some of these activities have additional rules, which could contain more information about how we use and disclose your personal information, so we suggest that you read these rules carefully.
-  * To allow you to send messages to a friend through the Intel Services. By using this functionality, you are telling us that you are entitled to use and provide us with your friend’s contact information. 
-  * To complete and fulfill your purchase, for example, to process your payments, have your order delivered to you, communicate with you regarding your purchase, provide you with related customer service, and establish and manage your Intel accounts.
-  * For our business purposes, such as data analysis, audits, crime/fraud monitoring and prevention, security, developing new products, testing, enhancing, improving or modifying our Intel Services, identifying usage trends, determining the effectiveness of our promotional campaigns, and operating and expanding our business activities. 
-  * Perform accounting, auditing, billing, reconciliation, and collection activities. To send administrative information and service notifications to you, for example, information regarding the Intel Services and changes to our terms, conditions, and policies.
-  * Perform other activities consistent with this Notice.
+#### 
+
+####  For Business Operations
+
+We use information to operate our business; for example, to perform accounting, auditing, billing, reconciliation, and collection activities. Other business purposes that depend on use of your personal information include crime or fraud monitoring and prevention, protecting our legal rights, and performing contractual obligations. We also use personal information to contact you to advertise, market and sell Intel® Services in accordance with your communications preferences.
+
+#### 
+
+####  For Functionality, Development and Improvement
+
+We use information to provide, offer, personalize and improve Intel® Services. Some information, like your IP address, is used to communicate with your device to provide network connectivity, measure usage levels of Intel® Services, diagnose server problems and provide security features. Other business purposes that depend on use of your information include data analysis related to testing, modifying, improving or developing new products, services and technologies and to identify trends. We may collect the physical location of a connected device using satellite, telecommunications tower, and WiFi signals to provide you with personalized location-based Intel® Services and content if you are using location-enabled Intel® Services. We use cookies to make our websites operate, work more efficiently, and provide analytic information. Technologies similar to cookies are also used in connection with some Intel® Service, such as pixel tags. For more information on Intel’s use of cookies, please read our [Intel Cookies and Similar Technologies Notice](https://web.archive.org/content/www/us/en/privacy/intel-cookie-notice.html).
+
+#### 
+
+####  For Product Updating and Reporting
+
+The Intel® Services may use information to provide software updates and reports and to check that they are working properly. Update functions may automatically check your system to see whether files need to be refreshed, updated, or modernized in order to provide you with the up to date security, versions, features, options and controls associated with your systems or devices. We rely on information to analyze performance and improve and maintain Intel® Services.
+
+#### 
+
+####  For Advertising
+
+We may use your device’s physical location, combined with information about what advertisements you viewed and other information we collect, to enable us to provide personalized advertising content and to study the effectiveness of advertising campaigns. You may choose whether to allow or deny uses or sharing of your device’s location by changing your device settings, but if you choose to deny such uses or sharing, we may not be able to provide you with certain personalized Intel® Services, content, and advertising.
+
+#### 
+
+####  Automated Decision-Making
+
+In some instances, our use of your personal information may result in automated decisions being taken (including profiling) that legally affect you or similarly significantly affect you.
+
+Automated decisions mean that a decision concerning you is made automatically on the basis of a computer determination (using software algorithms), without our human review which has legal or other significant effect. We use automated analysis to make predictions such as your level of interest in particular products or services, or automated decision making to prevent theft, fraud or other crime. Intel’s artificial intelligence solutions may lead to automated processing of data in a variety of fields. In the event that our automated decision making would have a legal effect or significantly affect you we will implement measures to safeguard your rights, freedoms and interests, including performing privacy impact assessments to identify suitable measures to protect your rights, or obtain your explicit consent as required by applicable laws.
+
+When we make this kind of an automated decision about you, you have the right to contest the decision, to express your point of view, and to require a human review of the decision. You can exercise this right by contact us using the contact details provided under the “ ** _How to Contact Us_** ” section below.
+
+#### 
+
+####  Legal Basis for Our Use (EEA Visitors Only)
+
+If you are in the European Economic Area, our legal basis for collecting and using the personal information described above will depend on the personal information concerned and the specific context in which we collect it.
+
+However, we will collect personal information from you only where we have your consent to do so, where we need the personal information to perform a contract with you, where we have a legal obligation to do so or where the processing is in our legitimate interests (such as processing for administrative purposes, direct marketing, product development or improvement, preventing fraud or criminal acts and in support of information security) and not overridden by your data protection interests or fundamental rights and freedoms. 
+
+If we ask you to provide personal information to comply with a legal requirement or to perform a contract with you, we will make this clear at the time of collection. We will also tell you whether the requirement for that information is mandatory and explain any consequences to you if you do not provide the information.
+
+Similarly, if we collect and use your personal information based on our legitimate interests (or those of any third party), we will take reasonable steps to provide clear notice and describe our legitimate interests.
+
+Intel Corporation is the Data Controller of all personal information collected in the EEA, except where a supplemental privacy notice says otherwise. The contact details for Intel Corporation are set out in the “ _ **How to Contact Us** ”_ section.
+
+If you have questions about or need further information concerning the legal basis on which we collect and use your personal information for any specific processing activity, please contact us using the contact details provided under the “ ** _How to Contact Us_** ” Section below.  
 
 
+## How We Share Information
 
-Personal information may be shared or disclosed:
-
-  * To our affiliate entities and subsidiaries for the purposes described in this Privacy Notice.
-  * To our authorized service providers and suppliers who provide services to us such as web site hosting, data analysis, payment processing, order fulfillment, information technology and related infrastructure provision, customer service, email delivery, credit card processing, auditing and other similar services.
-  * To third parties to permit them to send you marketing communications, as permitted under applicable law and in accordance with your communication preferences.
-  * To third party sponsors of sweepstakes, contests, and similar promotions.
-  * To identify you to anyone to whom you send messages through the Intel Services.
-  * By you, on message boards, forums, chat, profile pages and blogs to which you are able to post information and materials. Please note that any such information you post or disclose in public forums will become public information, and may be available to users and to the general public. We urge you to be very careful when deciding to disclose your personal information, or any other information, online.
-  * To a third party in the event of any contemplated or actual reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).
-  * As we believe is required, necessary, or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process and/or to respond to requests from competent public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations and those of any of our affiliates; (f) to protect our rights, privacy, security, safety, and physical and intellectual property, and/or the rights of our affiliates, you, or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
+We share personal information for reasons like fulfilling orders, processing payments, preparing and sending advertising campaigns, or as otherwise necessary to complete any transaction or provide any product you have requested or authorized. Where sharing takes place, we use controls to establish protections for the personal information that is shared. Sharing may take place with affiliates and subsidiaries; suppliers working on our behalf; law enforcement or government official and for purposes consistent with this Notice including to protect our customers; to protect lives; to maintain the security of Intel® Services; and to protect our rights and property.  
 
 
+_Expand the sections below to learn more._
 
-**How We May Collect, Use and Disclose Other Information**
+#### 
 
-Please note that we may collect, use, and disclose other information obtained through cookies in accordance with our [Intel Cookies and Similar Technologies Notice](https://web.archive.org/content/www/us/en/privacy/intel-cookie-notice.html) or Intel Services. In some instances, we may combine other information with personal information (such as combining your name with your postal code). If we combine any other information with personal information, we will treat the combined information as personal information as long as it is combined and is personally identifiable.
+####  With Affiliates and Subsidiaries
 
-**Product Updating and Reporting**
+For purposes limited to and consistent with this Privacy Notice. A list of the Affiliates and Subsidiaries we share personal information with is set out in the Deed Poll to Intel’s Corporate Privacy Rules available [here](https://web.archive.org/content/www/us/en/privacy/corporate-privacy-rules-deed-poll.html).  
 
-Our products and services may also process certain data to provide software updates and reports. These update functions may automatically check your system to see whether files relating to the services need to be refreshed, updated, or modernized.
 
-Intel may also uses the information to adapt the product to conform to user preferences based on actual use.
+#### 
 
-### **4\. THIRD-PARTY SERVICES**
+####  With Suppliers
 
-This Privacy Notice does not address, and we are not responsible for, the policies and practices of third parties or other organizations that are not Intel service providers, including policies and practices related to privacy and security, data collection, processing, use, storage, and disclosure. This includes: (a) any third party operating any site or service to which the Intel Services link – the inclusion of a link on the Intel Services does not imply endorsement of the linked site or service by us or by our affiliates; or (b) any app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer (such as Facebook, Apple, Google, Microsoft, LinkedIn, etc.) - including any personal information you disclose to other organizations through or in connection with the Intel Services or our Social Media Pages. For example, we may use and direct you to a third party payment service to process payments made through the Intel Services. If you wish to make such a payment, your personal information may be collected by such third party and not by us, and will be subject to the third-party’s privacy policy, rather than this Privacy Notice. 
+Our authorized vendors and suppliers may require personal information to provide services we have contracted for, such as product delivery, website hosting, data analysis, IT services, auditing, payment processing or customer service. We use a wide variety of software and tools at Intel and we process personal information using these tools as a regular course of business. Our contracts with suppliers and vendors include provisions to protect your information and limit its use.
 
-When we share personal information with an Intel service provider, we require that they first contractually agree to comply with reasonable and appropriate privacy and security standards.
+We also share non-personally identifiable information, such as anonymized or aggregated information, with suppliers for purposes such as analysis, identifying trends in the areas of our products and to help research and develop new Intel® Services.
 
-### **5\. THIRD-PARTY ADVERTISERS**
+#### 
 
-We may use third-party advertising companies to serve advertisements regarding goods and services that may be of interest to you when you access and use the Intel Services and other web sites, based on information obtained, for example, through cookies and similar technologies relating to your access to and use of the Intel Services and other web sites. Please refer to our [Intel Cookies and Similar Technologies Notice](https://web.archive.org/content/www/us/en/privacy/intel-cookie-notice.html) on how we use cookies and how you can disable certain cookies.
+####  With Partners
+
+We occasionally have relationships with third parties that are not suppliers or vendors but are working with us to offer certain opportunities such as sweepstakes, contests, and similar promotions, to enable joint products or research studies, or to facilitate services like message boards, blogs or other shared platforms. In these cases, additional terms or privacy notices may be provided. For third parties or uses not described in this Notice, we share your information only with a lawful basis to do so.
+
+#### 
+
+####  For Advertising
+
+We share your information with our third party advertising company partners to prepare and deliver advertising content, to provide content services and to enable them to provide you with more personalized ads and to study the effectiveness of our advertising campaigns.
+
+In particular, we use third-party advertising companies to serve advertisements regarding goods and services that may be of interest to you, in accordance with your marketing preferences. You may receive our advertising by a variety of means such as email, phone or when you access and use the Intel® Services and other websites. Content may be based on information obtained, for example, through prior purchases or transactions, through your device’s physical location, through information about what advertisements and content you have viewed, or through cookies and similar technologies relating to your access to and use of the Intel® Services and other websites. Please read our [Intel Cookies and Similar Technologies Notice](https://web.archive.org/content/www/us/en/privacy/intel-cookie-notice.html) for more information. You can choose whether to allow or deny uses and/or sharing of your device’s location by changing your device settings, but if you choose to deny such uses or sharing, our marketing partners may not be able to provide you with the applicable personalized Intel® Services, content, and advertising.
 
 Intel does not share your personal information with non-affiliated third parties for their own marketing use without your permission.
 
-### **6\. SECURITY**
+For information about how to decline our marketing, please see the section entitled "Choices You Can Make" below.
 
-The Intel Services are designed to provide reasonable and appropriate organizational, technical, and administrative measures to protect personal information within our organization against unauthorized or unlawful access, alteration, disclosure, or destruction. Users of Intel Services must also do their part in protecting the data, systems, networks, and service they are utilizing. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that your password to any Intel account has been compromised), please immediately notify us by contacting us in accordance with the  _“Contact Us”_  section below.
+#### 
 
-### **7\. MARKETING PREFERENCES**
+####  Sales, Mergers & Acquisitions
 
-We give you many choices regarding our use and disclosure of your personal information for marketing purposes. You may update and request access to your contact details and communication preferences by using one of the following methods: visit the specific product or service web site; use the [Contact Us](https://web.archive.org/content/www/us/en/forms/privacy-contact-us.html) form; use the “unsubscribe” link, or send a letter to the postal address below. You may choose to update your communication preferences for the following types of marketing activities:
+We may disclose personal information as part of a contemplated or actual corporate transaction such as a reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).
 
-  * To accept or refuse receiving marketing-related messages from us in the future. 
-  * To accept or refuse our sharing of your personal information with affiliates and subsidiaries so that they may market directly to you.
-  * To accept or refuse our sharing of your personal information with non-affiliated third parties so that they may market directly to you.
+**Research and Study:** We may disclose personal information to collaboration partners to conduct research to improve our technology, or the use of our technology, in various fields of study and to identify new uses or design new products.
 
+#### 
 
+####  Research and Study
 
-You can also unsubscribe from Intel marketing-related messages by following the unsubscribe instructions included in each marketing-related message sent to you. We will comply with your request(s) as soon as reasonably practicable. Please also note that if you do choose not to receive marketing-related emails from us, we may still send you important administrative and transactional messages (i.e., service notifications) about your Intel Services.
+We may disclose personal information to collaboration partners to conduct research to improve our technology, or the use of our technology, in various fields of study and to identify new uses or design new products.
 
-### **8\. HOW YOU CAN MANAGE YOUR PERSONAL INFORMATION**
+#### 
 
-If you would like to correct, update, delete, or request access to the personal information that you have provided to us, you may contact us by: visiting the specific product or service web site; the online [Contact Us](https://web.archive.org/content/www/us/en/forms/privacy-contact-us.html) form; or sending a letter to the postal address below including your name, email address, account identification, and purpose of the request.
+####  With Your Consent
 
-For your protection, we will only implement requests with respect to personal information about you (not anyone else), and we may need to verify your identity before implementing your request. We will comply with your request as soon as reasonably practicable and in accordance with applicable law. We may need to retain certain information for recordkeeping purposes, as required under applicable legal obligations, and/or to complete any transactions that you began prior to requesting such change or deletion (e.g., when you make a purchase or enter a promotion, you may not be able to change or delete the personal information provided until after the completion of such purchase or promotion). Some of your information may remain within our systems and other records, in compliance with applicable law.
-
-**Storage of the information we collect from you**
-
-The information we collect may be stored and processed in servers in the United States and wherever Intel and our service providers have facilities around the globe and in accordance with local laws.
-
-### **9\. RETENTION PERIOD**
-
-We will retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy Notice unless a longer retention period is required or permitted by law.
-
-### **10\. USE OF INTEL SERVICES BY MINORS**
-
-We comply with the Children’s Online Privacy Protection Act of the United States and similar laws around the world where applicable to Intel Services. We do not knowingly collect personal information from children without proper parental consent. If you believe that we may have collected personal information from someone under the age of thirteen (13),or under the applicable age of consent in your country, without parental consent, please let us know using the methods described in the Contact Us section and we will take appropriate measures to investigate and address the issue promptly.
-
-### **11.  INTERNATIONAL TRANSFERS OF PERSONAL INFORMATION**
-
-Intel is a U.S.-based, global company. As such, we may transfer your personal information to its parent company, Intel Corporation in the United States (U.S.), or to any Intel group company worldwide when processing that information for the purposes described in this Privacy Notice. We may also transfer your personal information to our third party service providers, who may be located in a different country to you.
-
-Whenever Intel shares Personal Information originating in the European Economic Area (EEA) with an Intel entity outside the EEA, it will do so on the basis of its approved binding corporate rules known as the Intel Corporate Privacy Rules ("Intel's BCR") which establish adequate protection of such personal information and are legally binding on Intel's group companies. Intel's BCR can be accessed [here](https://web.archive.org/content/www/us/en/privacy/corporate-privacy-rules-deed-poll.html). Where Intel's BCR do not apply, Intel will instead rely on other lawful measures to transfer your Personal Information outside the EEA and Switzerland, such as the EU standard contractual clauses.
-
-### **12\. CONTACT US**
-
-If you have questions or concerns about Intel’s privacy practices, you can contact us by using the [Contact Us](https://web.archive.org/content/www/us/en/forms/privacy-contact-us.html) form or send a letter to the postal address listed below. Please include your contact information, name of the Intel Service or website, and a detailed description of your request or privacy concern.
-
-Intel Corporation  
-ATTN: Privacy Office  
-M/S RNB4-145  
-2200 Mission College Blvd.  
-Santa Clara, CA 95054 USA
-
-### **13\. SUPPLEMENTS AND ADDITIONAL NOTICES**
-
-Some Intel Services may have additional Notices about how such products and services process Personal Information. Please refer to the relevant Notice for the Intel Service you are using for additional information about how Intel processes Personal Information.
-
-The following privacy supplements, policies, notices, and statements (“Notice”) are incorporated by reference into the Intel Privacy Notice:
-
-  * [Intel Worldwide Candidate Privacy Policy](https://web.archive.org/content/www/us/en/privacy/worldwide-candidate-privacy-policy.html)
-  * [Intel Online Privacy Notice Supplement for Health-Related Data](https://web.archive.org/content/www/us/en/privacy/health-related-data-supplement.html)
-  * [Intel® Technology Provider Privacy Statement](https://web.archive.org/content/www/us/en/resellers/program-privacy-statement.html)
-  * [Intel® Active Management Technology- Privacy Statement](https://web.archive.org/content/www/us/en/privacy/intel-active-technology-vpro.html)
-  * [Security Products, Services, and Functionality Privacy Notice Supplement](https://web.archive.org/content/www/us/en/privacy/security-related-data-supplement.html)
-  * [Intel Cookie and Similar Technologies Notice](https://web.archive.org/content/www/us/en/privacy/intel-cookie-notice.html)
+Intel may disclose your personal information to any other person or entity where you consent to the disclosure.  
 
 
+## Your Choices & Rights
 
-### **14\. UPDATES TO THIS PRIVACY NOTICE**
+Intel respects your rights in how your personal information is used and shared. You may request access or corrections to your personal data and make choices about the kinds of marketing materials you receive (or choose not to receive marketing from Intel at all). If you are in Europe, you may have additional rights under the GDPR. Additional choices and rights may be available to you depending on which Intel® Services you use.  
 
-We may change this Privacy Notice. The “ _Last Updated_ ” section at the top of this page states when this Privacy Notice was last revised. Any changes to this Privacy Notice will become effective when we post the revised Privacy Notice on the Intel Services. Your use of the Intel Services following these changes means that you accept the revised Privacy Notice.
 
-If any change may materially and negatively affect the privacy of your personal information, we will use reasonable efforts to notify you in advance and give you a reasonable period of time to object to any changes.
+_Expand the sections below to learn more._
+
+#### 
+
+####  Access to or Deletion of Your Information
+
+If you would like to correct or update your personal information, or to request access to or deletion of your personal information, you may contact us by: Visiting the specific product or service website; using the online [Contact Us form](https://web.archive.org/content/www/us/en/forms/privacy-contact-us.html); or sending a letter to one of the postal addresses listed in the ” _ **How to Contact Us**_ ” section below including your name, email address, account identification, and purpose of the request. If you request a change to or deletion of your personal information, please note that we may still need to retain certain information for recordkeeping purposes, and/or to complete any transactions that you began prior to requesting such change or deletion (e.g., when you make a purchase or enter a promotion, you may not be able to change or delete the personal information provided until after the completion of such purchase or promotion). Some of your information may also remain within our systems and other records where necessary for compliance with applicable law.
+
+At your request and where the law requires us to do so, we will confirm what personal information we hold about you. You may also have a legal right to obtain a copy of your personal information. You can make such a request by making a written request in one of the ways described in the “ _ **How to Contact Us**_ ” section below. We may charge a processing fee for this service where permitted by law and we will require evidence of your identity before fulfilling your request.
+
+#### 
+
+####  Data Privacy Rights Specific to Residents of the European Union
+
+If you are in the EEA, you can object to processing of your personal information, ask us to restrict processing of your personal information or request portability of your personal information. You can exercise these rights by making a written request in one of the ways described in the “ _ **How to Contact us**_ ” section below.
+
+Similarly, if we have collected your personal information with your consent, you can withdraw your consent at any time. Withdrawing your consent will not affect (1) the lawfulness of any processing we conducted prior to your withdrawal, or (2) processing your personal information under other legal bases.
+
+If you believe we are using your personal information in a way that is inconsistent with this Privacy Notice or for more information about your rights, contact your local data protection authority (contact details for data protection authorities in the European Economic Area are available [here](http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm).)
+
+#### 
+
+####  Advertising Choices
+
+We give you many choices regarding our use and disclosure of your personal information for marketing purposes. You may access or update your contact details and modify your communication preferences by using one of the following methods: Visiting the specific product or service website; using the [Contact Us form](https://web.archive.org/content/www/us/en/forms/privacy-contact-us.html), using the “unsubscribe” link in a marketing communication; adjusting settings in the [Intel Subscription Center](https://web.archive.org/content/www/us/en/secure/my-intel/subscriptions.html) or at [MyIntel](https://web.archive.org/content/www/us/en/secure/my-intel/dashboard.html); or by sending a letter to one of the postal addresses in the  _“ **How to Contact Us** ”_ section below. Please also note that if you choose not to receive marketing from us, we may still send you communications related to your products or Intel® Services, such as information about a security update, billing issue or product delivery.
+
+## Other Privacy Related Information
+
+Below you will find additional information you may find important such as how we communicate changes to this notice, our data retention practices, international compliance, working with minors’ personal information and information security.  
+
+
+_Expand the sections below to learn more._
+
+#### 
+
+####  Security
+
+The Intel® Services are designed to provide reasonable and appropriate administrative, technical and organizational security measures to protect your personal information against risks such as temporary or permanent loss, destruction, and unauthorized or unlawful access, alteration, use or disclosure. We require our suppliers and vendors to apply similar protections when they access or use personal information that we share with them. Users of Intel® Services must also do their part in protecting the data, systems, networks, and service they are utilizing. No technology, data transmission or system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that your password to any Intel account has been compromised), please immediately notify us by contacting us using the instructions in the “ _ **How to Contact Us**_ ” section below.
+
+#### 
+
+####  Personal Information of Minors
+
+We comply with the Children’s Online Privacy Protection Act in the United States, and similar laws around the world, where applicable to Intel Services. We do not knowingly collect personal information from minors without proper consent from a parent or legal guardian. If you believe that we may have collected personal information from a minor without the requisite consent, please let us know using the methods described in the _“ **How to Contact Us** ”_ section below and we will investigate and promptly address the issue. For these purposes, we define a "minor" to mean an individual who is under the age of majority in the territory in which they are resident.
+
+Minors, or their legal guardians, may change or revoke the consent choices previously made or request access to or removal of any personal information that they have provided or posted to Intel sites by contacting us using the information in the “ _ **How to Contact Us** ” _section of this Notice. Within thirty days of such a request (unless another period is provided by law) Intel will anonymize, or remove from public view such content unless legally required to retain such content or information.
+
+#### 
+
+####  International Compliance
+
+Intel is a global company with its headquarters in the United States. As such, we may transfer your personal information between the United States and our affiliates and subsidiaries in other countries. We may also transfer your personal information to our third party service providers, who may be located in a different country to you. We may also transfer your personal information to our major data centers for processing in the following countries: Argentina, Austria, Brazil, Canada, China, Costa Rica, Denmark, Egypt, Finland, France, Germany, Hong Kong, India, Ireland, Israel, Italy, Japan, Malaysia, Mexico, Netherlands, Philippines, Poland, Romania, Russian Federation, Singapore, South Korea, Sweden, Switzerland, Taiwan, Turkey, United Kingdom, United States, United Arab Emirates, and Vietnam. 
+
+These countries may change from time to time and Intel can provide a current list upon written request. We transfer information in order to operate efficiently, to improve performance, and to create redundancies in order to protect information in the event of an outage or other problem. We will process your personal information in a way that meets the commitments of this Notice and complies with the law wherever we transfer it.
+
+Whenever Intel transfers personal information beyond the country of origin, we will do so in accordance with applicable laws. For personal information originating in the European Economic Area (EEA) that is transferred to an Intel entity outside the EEA that does not have an “adequate level of protection” as determined by the European Commission, it does so on the basis of its approved binding corporate rules known as the Intel Corporate Privacy Rules ("Intel's ICPR"). Intel’s ICPRs establish adequate protection of personal information and are legally binding on the subsidiaries and affiliates identified in Intel’s Deed Poll. Intel's ICPR can be accessed [here](https://web.archive.org/content/www/us/en/privacy/corporate-privacy-rules-deed-poll.html). Where Intel's ICPR do not apply, we rely on other lawful measures, such as contracts that include the EU standard contractual clauses. You can review the EU Standard Contractual Clauses on the European Commission’s website [here](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en).
+
+#### 
+
+####  Retention
+
+We retain personal information for the period necessary to: Provide requested Intel® Services, as needed to comply with legal obligations (e.g. maintaining opt-out lists to fulfill advertising choices or to comply mandatory record retention or legal hold requirements), as agreed in an individual consent, to resolve disputes, and to otherwise fulfill the purposes, rights and obligations outlined in this Privacy Notice. Retention periods can vary significantly based on the type of information and how it is used and our retention periods are based on criteria that include legally mandated retention periods, pending or potential litigation, our intellectual property or ownership rights, contract requirements, operational directives or needs, and historical archiving. When personal information is removed from our systems, it will be deleted or destroyed using appropriate security protocols so that it cannot be reconstructed or read.
+
+#### 
+
+####  Third Party Sites & Services
+
+This Privacy Notice does not address, and we are not responsible for, the policies and practices of third parties or other organizations that are not operating on Intel’s behalf, including policies and practices related to privacy and security, data collection, processing, use, storage, and disclosure. This includes: (a) any third party operating any site or service to which the Intel® Services link – the inclusion of a link on the Intel® Services does not imply endorsement of the linked site or service by us or by our affiliates; or (b) any app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer (such as Facebook, Apple, Google, Microsoft, LinkedIn, etc.) - including any personal information you disclose to other organizations through or in connection with the Intel® Services or our corporate Social Media Pages. ****
+
+#### 
+
+####  Changes to This Policy
+
+We may change this Privacy Notice from time to time so it accurately reflects our practices, the Intel® Services and legal requirements. The “ _Last Revised_ ” section at the top of this Notice states when this Privacy Notice was last amended and we update this date each time a revision is posted. Any changes to this Privacy Notice will become effective when we post the revised Privacy Notice on the Intel® Services. ** __** You should check back regularly to stay informed of our privacy practices.
+
+If any change to our Privacy Notice materially affects the use of your personal information, we use reasonable efforts to notify you in advance, such as by sending an email or posting a prominent notice of the changes on our website, and give you a reasonable period of time to object to any changes. In some cases, objecting to changes may affect the availability or functionality of the Intel® Services available to you. We will treat your continued use of the Intel® Services after the effective date of any updated Privacy Notice as your acceptance of the changes we have made. However, we will seek your affirmative consent to any material changes in our use of your personal information as described in an updated Privacy Notice if and where this is required by applicable data protection laws.
 
 We encourage you to periodically review this Privacy Notice to stay informed about how we collect, use, and share personal information.
+
+## Additional Privacy Notices & Supplements
+
+Some Intel® Services have additional notices about how they may collect, use, share or process personal information. Please review any supplemental notices you receive for the Intel® Services you are using for additional important information about your personal information. The following privacy supplements, policies, notices, and statements are incorporated by reference into this Privacy Notice:  
+• [Candidate Notice](https://web.archive.org/content/www/us/en/privacy/worldwide-candidate-privacy-policy.html)  
+• [Intel® Technology Provider Program Notice](https://web.archive.org/content/www/us/en/privacy/program-privacy-statement.html)  
+• [Intel® Active Management Technology Notice](https://web.archive.org/content/www/us/en/privacy/intel-active-technology-vpro.html)  
+
+
+## How to Contact Us
+
+If you have questions or concerns about Intel’s privacy practices or to exercise any of your rights and choices as described in this Notice, you can contact us using any of the following methods:
+
+### By Using the Contact Us Form on Our Website
+
+### By Sending a Letter in the US to the Postal Address Listed Below
+
+Please include your contact information, name of the Intel® Services or website, and a detailed description of your request or privacy concern.
+
+Intel Corporation ATTN: Privacy Office, M/S RNB4-145, 2200 Mission College Blvd,Santa Clara, CA 95054 USA 
+
+  * 
+
+
+### In the European Economic Area
+
+By contacting us or our European Data Protection Officer at the addresses set forth below. 
+
+Please include your contact information, name of the Intel® Services or website, and a detailed description of your request or privacy concern. Intel Privacy Office, M/S: Intel Privacy Office, Intel Ireland Limited, Collinstown Industrial Park, Leixlip, Co Kildare, Ireland, W23 CX68 
+
+[By email ›](mailto:dataprotectionofficer@intel.com)
+
+  * 
+
