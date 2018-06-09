@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doublefine.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607225303id_/http%3A//www.doublefine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doublefine.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609120727id_/http%3A//www.doublefine.com/privacy) for the most accurate reproduction.*
 
 # Double Fine™ - What is Double Fine?
 
