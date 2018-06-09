@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clevelandbrowns.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202074047id_/http%3A//www.clevelandbrowns.com/news/article-5/Privacy-and-Terms-of-Use/1e452725-4c81-4da9-b2d5-f5d7ac872da8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clevelandbrowns.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609201425id_/http%3A//www.clevelandbrowns.com/news/article-5/Privacy-and-Terms-of-Use/1e452725-4c81-4da9-b2d5-f5d7ac872da8) for the most accurate reproduction.*
 
 # Privacy and Terms of Use
 
