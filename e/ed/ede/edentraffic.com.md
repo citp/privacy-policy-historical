@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edentraffic.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124111953id_/http%3A//www.edentraffic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edentraffic.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609201150id_/http%3A//www.edentraffic.com/privacy.php) for the most accurate reproduction.*
 
 # EdenTraffic.com - Revenue Sharing Advertising
 
