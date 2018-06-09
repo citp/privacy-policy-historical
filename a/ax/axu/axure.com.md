@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axure.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222012735id_/https%3A//www.axure.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axure.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609030549id_/https%3A//www.axure.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Axure
 
@@ -48,7 +48,7 @@ We may publicly share Non-PII. We may disclose or share Non-PII on the Website o
 
 4.     How Do I Update My Information and Limit Information Sharing?
 
-At any time and for any reason, you have the ability to access and edit the PII you provide us. You may change any of your PII by sending us an email at contactus [at] Axure.com (remove spaces) or writing to us at 311 4th Avenue, Suite 617, San Diego, CA 92101. Please provide your full contact information, and what information you would like to update when you contact us. 
+At any time and for any reason, you have the ability to access and edit the PII you provide us. You may change any of your PII by sending us an email at contactus [at] Axure.com (remove spaces) or writing to us at 707 Broadway, Suite 1600, San Diego, CA 92101. Please provide your full contact information, and what information you would like to update when you contact us. 
 
 You should promptly update your PII whenever it changes. You may ask to have the information on your account deleted or removed; however, because we keep track of past transactions, you cannot delete information associated with past transactions on the Website. In addition, it may be impossible for us to completely delete all of your information because we periodically backup and archive information.
 
@@ -102,7 +102,7 @@ Corporate Address
 
 Axure Software Solutions, Inc. 
 
-311 4th Avenue, Suite 617
+707 Broadway, Suite 1600
 
 San Diego, CA 92101
 
