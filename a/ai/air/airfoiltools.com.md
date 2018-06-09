@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airfoiltools.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215114406id_/http%3A//airfoiltools.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airfoiltools.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609060016id_/http%3A//www.airfoiltools.com/site/privacy) for the most accurate reproduction.*
 
 # Airfoil Tools
 
