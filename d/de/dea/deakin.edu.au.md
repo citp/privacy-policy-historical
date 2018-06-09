@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the deakin.edu.au privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210022036id_/https%3A//www.deakin.edu.au/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deakin.edu.au privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610014005id_/https%3A//www.deakin.edu.au/footer/privacy) for the most accurate reproduction.*
 
 # Privacy | Deakin
-
-If you're neither a staff member nor student of Deakin, but have contacted or visited us, the way we handle your personal information or requests for personal information is outlined below.
-
-Deakin affiliates can access relevant information via our [student](http://www.deakin.edu.au/students/enrolment-fees-and-money/enrolments/student-information-privacy) or [staff ](https://wiki.deakin.edu.au/display/staff/Information+Privacy+Statement+for+Deakin+Staff)webpages.
 
 ## Use and disclosure of personal information
 
