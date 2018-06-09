@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lostateminor.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120031536id_/http%3A//www.lostateminor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lostateminor.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609093112id_/https%3A//www.lostateminor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Lost At E Minor: For creative people
 
@@ -177,7 +177,7 @@ Lost At E Minor welcomes any questions or comments you may have regarding this P
 
 Lost At E Minor  
 ATTN: Privacy  
-Suite 804  
+Level 9  
 46-56 Kippax Street  
 Surry Hills NSW 2010
 
