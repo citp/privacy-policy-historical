@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sjgames.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228015212id_/http%3A//www.sjgames.com/general/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sjgames.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609214559id_/http%3A//www.sjgames.com/general/privacy.html) for the most accurate reproduction.*
 
 # Steve Jackson Games: Privacy Policy
 
 ## SJ Games Privacy Policy
 
-_Last modified on September 22, 2015._
+_Last modified on May 24, 2018._
 
 This Privacy Policy explains how we use any personally identifiable information ("Personal Information") that we collect about you. This Privacy Policy applies to visitors to warehouse23.com and sjgames.com, and it also applies to our registered users. By visiting or using these sites, you agree to the terms and conditions of this Privacy Policy. Please do not use this site if you do not agree to these terms and conditions.
 
@@ -76,6 +76,14 @@ According to California Civil Code Section 1798.83, users of our websites who ar
 Steve Jackson Games  
 P.O. Box 18957  
 Austin, TX 78760
+
+## What rights do EU citizens have?
+
+EU citizens have the right to access, change, and erase their personal information. They may request that their stored personal information be provided to them, or be removed from our systems.
+
+We may collect your personal information with your consent, which can be revoked. We also may collect your personal information for our legitimate interests, including improving the presentation, operation, and experience of our services, evaluating and updating our technical infrastructure, and monitoring and improving the security of our sites. We may also collect personal information for the purpose of processing payments and delivering products to you.
+
+If you wish to change your personal information, you may do so from within your Account settings in Warehouse 23, from within your User Settings on the forums, from the Preferences link in our marketing mailing lists, or by contacting us at info@sjgames.com. If you wish to request that your stored personal information be provided to you or removed from our systems, please contact info@sjgames.com. (Please bear in mind that we are a small company with diverse systems and limited resources. This will be a manual process that will take some time.)
 
 ## Do you have questions about this Privacy Policy?
 
