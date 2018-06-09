@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listoviral.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227231637id_/http%3A//listoviral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listoviral.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609202647id_/http%3A//listoviral.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Listoviral
 
@@ -49,4 +49,4 @@ We can change the privacy policy at any time heading into the future.
 
 **Contact Us:**
 
-email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+email: admin@listoviral.com
