@@ -1,62 +1,132 @@
-> *The following text is extracted and transformed from the dearsystems.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226202851id_/http%3A//dearsystems.com/inventory-software/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dearsystems.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609155712id_/http%3A//dearsystems.com/inventory-software/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - DEAR Cloud Inventory Management
+# Privacy Policy | DEAR Cloud Inventory Management
 
-#### Privacy statement for www.dearsystems.com
+The latest revision of this Privacy Policy was published on May 23, 2018.  
+Please check back regularly to keep track of any Privacy Policy updates. The previous version of this Policy can be viewed [here](http://dearsystems.com/inventory-software/privacy-policy-pre-gdpr/).  
+At DEAR Systems we care about your privacy and believe in transparency. That’s why we are committed to being upfront about our privacy practices. We only collect personal information necessary to deliver our services and we handle it carefully and sensibly.
 
-We, at DEAR Systems treat the privacy of our visitors with the highest importance. This policy details the measures we take to preserving and safely guarding your privacy when you visit or communicate with our site or personnel.  
-A detailed explanation of how we may store or otherwise use personal information about you is explained in this Privacy Policy.  
-Regular updates of the Privacy Policy are completed, requiring you to check back on this Policy from time to time.
+### A. WHO WE ARE
 
-#### 1\. Information Collection
+This Policy explains our privacy practices for dearsystems.com (we’ll refer to it as the “website”, “Website”) and our other services provided by DEAR Systems (“DEAR Systems” together with “we,” “us,” and “our”). We’ll refer to the Website and our other services as the “Services.” This Privacy Policy describes why and how we collect and use the personal information of our customers and website visitors. It also describes your options to choose how we use your personal data and how to contact us with any concerns and requests to in relation to that.
 
-Operation of this site may require collection and processing of the following data:  
-1.1 Visit details to our site or any resources used on our site are not limited to just location and traffic data, weblogs or other communication information.  
-1.2 Information given to us when you contact us for any reason.  
-1.3 Data offered by filled out forms on our site, like a registration or purchase.
+If you have questions about the processing of your personal data, don’t hesitate to contact us through privacy@dearsystems.com .
 
-#### 2\. Cookies
+DEAR Systems, is a software development company established by an international group of financial advisors and software developers. If you reside or are located in the European Economic Area (“EEA”) DEAR Systems is the data controller of the personal data (as defined below) collected via the Website, as set out in this Privacy Policy.
 
-Our advertisers and us may have the occasion to collect information in regards to your computer for our services. The information is gained in a statistical manner for our use or advertisers on our site.  
-Data gathered will not identify you personally. It is strictly aggregate statistical data about our visitors and how they used our resources on the site. No identifying personal information will be shared at any time via cookies.  
-Close to the above, data gathering can be about general online use through a cookie file. When used, cookies are automatically placed in your hard drive where information transferred to your computer can be found. These cookies are designed to help us correct and improve our site’s services or products for you.  
-You may elect to decline all cookies via your computer. Every computer has the ability to decline file downloads like cookies. Your browser has an option to enable the declining of cookies. If you do decline cookie downloads DEAR Inventory will not be available for you since it requires cookies to work properly.  
-Any of our advertisers may also have a use for cookies. We are not responsible, nor do we have control of the cookies downloaded from advertisements. They are downloaded only if you click on the advertisement.
+### B. DATA COLLECTION
 
-#### 3\. Your Information and how it is Used
+DEAR Systems processes your personal data so you can better use our services. Below you can find an overview of the personal data that we process, if you give permission for this, and for which services this happens.
 
-Primarily, we collect and store data about you to help us provide better service and products to you. The following are purposes we may use your information for:  
-3.1 At anytime you request information from us via a form or other electronic transmission we may use your information to fulfil that request relating to our services and products. We may also communicate with you on other products or services you may find of interest, only when consent has been provided.  
-3.2 Contracts we make with you create a commitment, which may require contact or use of your information.  
-3.3 We have the right to notify you of changes to our website, products or services that could affect our service to you.  
-3.4 Information on products or services similar to those of an existing consumer purchase may be communicated to you. The information sent to you in a communication will be similar to the subject of a recent sale.  
-3.5 We may also use your information or allow a third party use of this data, to offer you information about unrelated products or services you may be interested in. We or third parties can only communicate if you have consented to such communication and data use.  
-3.6 New consumers can be contacted by our website or third parties only if consent has been granted, and only for those communications you have granted.  
-3.7 An opportunity for declining your consent is provided on our site. Use this opportunity to withhold your details from us or third parties, regarding data we may collect.  
-3.8 Be aware we do not reveal identifiable information about you to our advertisers, though we may at times share statistical visitor information with our advertisers.
+#### B.1 Statistics
 
-#### 4\. Storage of Personal Data
+We use Cookies to collect some of the information set out in this Policy. A cookie is a small piece of data sent from a website and stored in your web browser on your computer, mobile or other handheld device, while you are browsing a website.  
+Our Website uses cookies to identify you. Cookies can store your account identifier and website tracking. They can also be used for technical purposes such as keeping track of your current session and enabling you to proceed to the next step and use information which has already been entered (languages and theme choices), so that we can offer improved and more personalised services, products and other relevant communication tailored to you.
 
-4.1 When you click submit of your payment details, personal information or other electronic communication you agree to the transfer for storage and processing. We take all necessary steps for security known to be in agreement with the Privacy Policy found here.  
-4.2 Information submitted by you is stored on secure servers we have. All payment and transaction details are processed and stored by WorldPay payment gateway.  
-4.3 As you know, transmission of data on the internet is never guaranteed regarding safety. It is impossible to guarantee your safety with electronic data and transmission. You are therefore at your own risk if you elect to transmit any data. When offered you may create a password, but you are responsible for keeping it confidential.
+You can also modify your Cookie preferences straight from your browser. Please note that if you simply disable all of our cookies or cookies in general in your browser settings, you may find that certain sections or features of our Website will not work, because your browser may prevent us from setting Website functionally required cookies.  
+You can find more detailed information about our use of cookies in our [Cookie Statement](http://dearsystems.com/inventory-software/cookie-statement/).  
+The data that we collect, exist of
 
-#### 5\. Information Sharing
+  * data about your activities on our website
+  * data about your surfing behavior across various websites
+  * your internet browser and device type
 
-5.1 If necessary, we may share personal information to our group members including such entities as subsidiaries, holding companies and their subsidiaries. Information is shared only when applicable.  
-5.2 Third party disclosure may be necessary in regards to personal information:  
-5.2.1 A sale of our business or its assets, in full or part, to a third party may require personal data sharing.  
-5.2.2 Legally, we may be asked to share and disclose data details.  
-5.2.3 To assist in reducing credit risk and fraud protection.
 
-#### 6\. Third Party Links
 
-Links on our site that belong to third parties may be found. These websites have their Privacy Policy, which you agree to when you link to the site. You should read this third party policy. We do not accept claims of liability or responsibility in any way for these policies or links, as we have no way to control the third party sites.
+This includes: IP address, browser type, operating system, clicks on hyperlinks, the domain name of the website that sent you to our website and all other information that you choose to share when using third-party websites.  
+We use these statistics to improve the website and our organizational updates through email and to better tailor our offering to your preferences.
 
-#### 7\. Accessing Information
+#### B.2 Contact information
 
-You can access the information that we collect about you. The contact information below needs to be used to request access about details we collect and store on you.
+We collect the data that you actively provide during the following activities, if you give permission for it:
 
-#### 8\. Contacting Us
+  * when filling in forms (e.g. sign up, contact, email etc.) on our websites
+  * in correspondence
+  * during voice calls
+  * live chat
+  * during a business meeting
+  * when creating support ticket through the website
 
-We welcome any queries, requests you may have regarding this Privacy Policy, or comments. Please do not hesitate and feel free to contact us at support@dearsystems.com.
+
+
+The following data can be collected in our databases:
+
+  * Your name
+  * Address
+  * Phone number
+  * Email address
+  * Company name
+  * Other personal data that you actively provide, for example by creating a trial account on this website or by phone.
+
+
+
+#### B.3 Newsletters
+
+We use MailChimp for sending digital notifications and direct marketing emails when you are trialing our software and managing mailing lists. MailChimp sends these through a server in the United States. They secure your data and are part of a certified EU-U.S. Privacy Shield Framework. Your privacy is therefore also respected by them!  
+You can find the privacy policy of MailChimp [here](https://mailchimp.com/legal/privacy/?_ga=2.183218479.865591856.1527194883-1023061333.1526409507).
+
+#### B.4 Security measures
+
+We use Secure Sockets Layer (SSL) software to encrypt the information you enter on our Website in order to protect its security during transmission to and from our Website. When storing information, we protect its security by encryption and pseudonymization of critical data.  
+To protect against unauthorised access to your account and information, we implement session management and login expiration mechanisms. As an additional safety measure, be sure to sign off when you finish using your account and your computer.  
+Although we take all these measures to maintain the safety and security of your personal information, please note that no transmission over the Internet can ever be guaranteed to be secure. Consequently, please note that we cannot fully guarantee the security of any personal information that you transfer over the Internet to us.
+
+#### B.5 Use of your credit card
+
+You may have to provide a credit card to buy subscription from our website. We use third-party billing services and have no control over these services. We use our commercially reasonable efforts to make sure your credit card number is kept strictly confidential by using only third-party billing services that use industry-standard encryption technology to protect your credit card number from unauthorized use. However, you understand and agree that we are in no way responsible for any misuse of your credit card number.
+
+### C. RETENTION PERIOD OF YOUR DATA
+
+Information collected on our website will only be retained for as long as necessary to fulfill the purpose for which it was collected. In general, we will automatically delete your DEAR account information 6 months after you no longer have any active subscription with us. Since we offer a service for customers worldwide and we need to comply with regulations across the globe in regard to retention of personal information related to contractual agreements, provision of services, financial, invoicing operations and tax calculations, a versioned copy of your payment and billing data associated with your past invoices is stored for a period of 5 years after deactivating an account. Your personal data is deleted automatically by our systems in accordance with these retention periods.
+
+### D. PRIVACY RIGHTS
+
+Everyone has rights with regard to personal data. If you would like to invoke one of those rights, you can best turn to privacy@dearsystems.com . We will do our best to process all requests within a month.  
+You have the right to:
+
+  * delete your personal data (removal from our databases)
+  * access the personal data that we might have on you
+  * request to change or delete incorrect data
+  * request to stop the processing of your personal data
+  * request to limit the processing of your personal data
+  * object / resist the processing of your personal data
+
+
+
+If you don’t want to receive any newsletters or organizational updates from DEAR Systems anymore, you can unsubscribe at any time through the unsubscribe section in each email of DEAR Systems.
+
+### E. SHARING PERSONAL DATA WITH THIRD PARTIES
+
+DEAR Systems doesn’t share your data to third parties and only provides them if this is absolutely necessary for the execution of our agreement with you or to comply to legal obligations.  
+We make a processing agreement with companies that process your data for us to ensure the same level of security and confidentiality of your data. DEAR Systems stays responsible for this processing.
+
+### F. PRIVACY AND SECURITY
+
+#### F.1 We ensure a good security
+
+DEAR Systems truly values your privacy. That’s why we spend time on and give consideration to the security of our systems and personal data. We also want to be transparent about which data we collect and how we do this.  
+We won’t only keep the collected personal data secure in our databases. Because the processing takes place in Microsoft Azure Data Centers in USA, They secure your data and are part of a certified EU-U.S. Privacy Shield Framework. Your privacy is therefore also respected by them.
+
+### G. UPDATED PRIVACY STATEMENT
+
+#### G.1 Privacy statement update
+
+DEAR Systems has last modified the privacy policy on 23/05/2018 and has the right to change it, if it should be necessary. Within this framework it is recommended to regularly consult the page with our privacy policy. This way, you will have certainly taken note of the modifications.
+
+### H. CONTACT US
+
+#### H.1 Contact
+
+Do you have questions about our privacy statement or the way in which we collect, use or process personal data?  
+You can always contact us:
+
+  * Through e-mail: privacy@dearsystems.com
+  * On the following address:DEAR Systems  
+Office 707, Jumeirah Lake Towers,  
+Cluster C, Fortune Tower, Dubai, UAE
+
+
+
+#### H.2. Further questions and contacts
+
+If you have any questions regarding this Privacy Policy, if you wish to exercise any of your rights in relation to your personal information, or if you want to object to the collection or processing of your data by DEAR Systems, whether entirely or partially, please contact our Data Protection Officer who can be reached at privacy@dearsystems.com.
