@@ -1,0 +1,451 @@
+<!--The following is the downloaded HTML source of the valuechecker.co.uk privacy policy that was archived on 2018-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180609033917id_/http%3A//www.valuechecker.co.uk/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+  <title>Odds Comparison and Value Bets</title>  
+	<base href="http://www.valuechecker.co.uk/">
+        <meta property="og:title" content="Odds Comparison and Value Bets">
+      <meta property="og:description" content="Valuechecker">    
+    <meta property="fb:admins" content="100003256927903,684945163">
+<meta property="fb:app_id" content="171876666244946">
+<meta property="og:image" content="http://www.valuechecker.co.uk/themes/default/images/logo1.png">    
+
+  	<link href="/themes/default/css/master.css" rel="stylesheet" type="text/css">
+  	    
+
+  <!--[if lt IE 8]>
+  <link href="/themes/default/css/dr_ie6fix.css" rel="stylesheet" type="text/css" />
+  <![endif]-->
+  <!--[if IE 9]>
+  	<link href="/themes/default/css/ie9fix.css" rel="stylesheet" type="text/css" />
+  <![endif]-->
+
+  <script type="text/javascript">
+	base_url = '/'; 
+	front_url = 'http://www.valuechecker.co.uk/';
+  	self_url = '/privacy';
+  </script>
+  <script type="text/javascript" src="/scripts/jquery-1.3.1.min.js"></script>
+  <script type="text/javascript" src="/themes/default/js/vc1.js"></script>
+    	
+	<!--<script type="text/javascript" src="/scripts/check_cookie.js"></script> -->
+
+ <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
+
+</head><body>
+
+
+  <div id="container">
+		<div id="header">
+  <!--Header Style Begins Here-->
+  <div id="headerbase">
+    <div id="logo"><a href="/"><img src="/themes/default/images/logo1.png" width="212" height="77" alt="Value Checker Logo"></a> </div>
+    <!--tmenu div Ends Here-->
+    <div id="tmenu">
+<ul><li class="tm1 tm_first"><a href="/" title="Odds Comparison">Odds Comparison</a></li><li class="tm1"><a href="#" title="Finding Winners">Finding Winners</a><ul><li class="tm2"><a href="/value/football/bets/" title="Value Bets">Value Bets</a></li><li class="tm2"><a href="/value/football/steamers/" title="Steamers">Steamers</a></li><li class="tm2"><a href="/value/football/drifters/" title="Drifters">Drifters</a></li><li class="tm2"><a href="/sleepers/" title="Sleepers">Sleepers</a></li><li class="tm2"><a href="/best-odds-bookies/" title="Best Bookies">Best Bookies</a></li></ul></li><li class="tm1"><a href="/coupons/" title="Betting Coupons">Betting Coupons</a></li><li class="tm1"><a href="http://www.olbg.com/forum/" title="Forum" rel="nofollow">Forum</a></li><li class="tm1"><a href="http://www.olbg.com/free.php" title="Free Bets" rel="nofollow">Free Bets</a></li><li class="tm1"><a href="http://www.olbg.com/hot-tips.php" title="Free Tips" rel="nofollow">Free Tips</a></li><li class="tm1 tm_settings"><a href="#" title="Settings">Settings</a><ul><li class="tm2"><a href="#" title="Odds Format">Odds Format</a><ul><li class="tm3 sub_selected"><a href="/privacy/odd" title="Decimal">Decimal</a></li><li class="tm3"><a href="/privacy/odf" title="Fractional">Fractional</a></li><li class="tm3"><a href="/privacy/oda" title="American">American</a></li></ul></li></ul></li></ul>    </div>
+    <!--tmenu div Ends Here-->
+  </div>
+  <!--Header Style Ends Here-->
+  <!--Search Under Header div Search style Starts Here-->
+  <div id="search">
+    <div class="search">
+      <form method="post" action="/search">
+        <input type="hidden" name="sport" value="all" id="tp_sp_sr">
+      	<input type="text" name="search" class="txtsr">
+        <input type="submit" class="sbsr">
+    </form>
+  </div>
+    
+    <div id="betbasket">
+            <div id="basket_loader"></div>
+      <div id="basket_container"></div>
+     <!--<div id="pth"> </div>-->
+    </div>
+  </div>
+  <!--Search Under Header div Search style Ends Here-->
+</div>
+     <div id="middle">
+
+
+      <div id="contentText">
+
+
+
+
+
+
+
+
+
+
+
+<div style="padding: 20px 10px;">
+	<h1 style="border-bottom: 1px solid #333;">Privacy and Cookie Policy</h1>
+	<div><h4><strong>Last Updated: 03 May 2018</strong></h4>
+
+<p>&nbsp;</p>
+
+<h2>About us</h2>
+
+<p align="left">We, Invendium Ltd (operating as "OLBG.com"), a company incorporated in England and Wales with company registration number <strong>04490764&nbsp;</strong>and registered office at Westpoint 78 Queens Road, Clifton, Bristol, BS8 1QU, are committed to protecting your privacy and personal information.</p>
+
+<p>This Privacy and Cookie Policy (<strong>Privacy Policy</strong>) details the steps we take to protect your personal information when you visit the Online Betting Guide website<span>&nbsp;</span><a href="http://www.olbg.com/" rel="noopener noreferrer" target="_blank">www.olbg.com</a>, <a href="http://www.olbg.ro/" rel="noopener noreferrer" target="_blank">www.olbg.ro</a>,<span>&nbsp;</span><a href="http://www.olbg.com.au/" rel="noopener noreferrer" target="_blank">www.olbg.com.au</a>, <a href="http://www.olbg.ie/" rel="noopener noreferrer" target="_blank">www.olbg.ie</a>,<span>&nbsp;</span><a href="http://www.olbg.es/" rel="noopener noreferrer" target="_blank">www.olbg.es</a>, <a href="http://www.olbg.it/" rel="noopener noreferrer" target="_blank">www.olbg.it</a>,<span>&nbsp;</span><a href="http://www.olbg.com.ar/" rel="noopener noreferrer" target="_blank">www.olbg.com.ar</a>, <a href="http://www.olbg.bg/" rel="noopener noreferrer" target="_blank">www.olbg.bg</a>,<span>&nbsp;</span><a href="http://www.olbg.cz/" rel="noopener noreferrer" target="_blank">www.olbg.cz</a>, <a href="http://www.olbg.dk/" rel="noopener noreferrer" target="_blank">www.olbg.dk</a>,<span>&nbsp;</span><a href="http://www.olbg.fr/" rel="noopener noreferrer" target="_blank">www.olbg.fr</a>, <a href="http://www.de.olbg.com/" rel="noopener noreferrer" target="_blank">www.de.olbg.com</a>,<span>&nbsp;</span><a href="http://www.olbg.co.nz/" rel="noopener noreferrer" target="_blank">www.olbg.co.nz</a>, <a href="http://www.olbg.pl/" rel="noopener noreferrer" target="_blank">www.olbg.pl</a>,<span>&nbsp;</span><a href="http://www.olbg.ru/" rel="noopener noreferrer" target="_blank">www.olbg.ru</a>, <a href="http://www.olbg.sk/" rel="noopener noreferrer" target="_blank">www.olbg.sk</a>,<span>&nbsp;</span><a href="http://www.olbg.se/" rel="noopener noreferrer" target="_blank">www.olbg.se</a>, <a href="http://www.betsfree.com/" rel="noopener noreferrer" target="_blank">www.betsfree.com</a>,<span>&nbsp;</span><a href="http://www.grand-national-guide.co.uk/" rel="noopener noreferrer" target="_blank">www.grand-national-guide.co.uk</a>, www.valuechecker.co.uk (<strong>site</strong>) and the Online Betting Guide App (<strong>app</strong>).The site and the app are together and separately our <strong>service.</strong><span>&nbsp;</span>This Privacy Policy describes the personal information that we collect when you use our service, the purposes for which we use such information, and your choices regarding our use of it.</p>
+
+<p>Our legal status under UK data protection law is that of a data controller and in this capacity we will securely store and process your personal information which you have provided to us. Data controller is a legal term which identifies the person who controls what to do with any given personal information. &nbsp;As data controller we have registered with the Information Commissioner’s Office and our registration number is Z8287439.</p>
+
+<p>The steps we take to protect your personal information and how you can review and correct your personal information are also covered here.</p>
+
+<p>
+    <br>
+</p>
+
+<h2>Changes to this Privacy Policy&nbsp;</h2>
+
+<p>We may occasionally update this Privacy Policy. When we do, we will revise the "last updated" date at the top of the Privacy Policy. Please ensure that you frequently check this Privacy Policy for any updates. We will also use reasonable endeavours to notify you of material changes.&nbsp;</p>
+
+<p>
+    <br>
+</p>
+
+<h2>Collection of information</h2>
+
+<p>This Privacy Policy applies in respect of all personal information you provide to us or that we collect in connection with your use of our service.</p>
+
+<p>The personal information we collect from you may include:</p>
+
+<ul type="disc">
+    <li>information you submit to us when you choose to register for an account with us, such as your user name and email address;</li>
+    <li>member id;</li>
+    <li>any information you provide to us if you contact us;</li>
+    <li>any information you provide to us if you fill out a form or enter a competition via our service including, if requested, your PayPal and/or Skrill email addresses, which is required by us in order to make competition payments to you if you win the competition and, if you do not provide this information, we may not be able to provide you with the prize; and</li>
+    <li>information about the device you use to access our service such as your IP address and geolocation.</li>
+</ul>
+
+<p>You are not required to provide all of this information, but if you do not, you may not be able to experience all of the services and features available on our service.</p>
+
+<p>We may also observe your use of our service and derive certain information from this which may include personal data such as your access times and browsing activity.</p>
+
+<p>
+    <br>
+</p>
+
+<h2>How is your personal information used?</h2>
+
+<p>We will use the personal information collected by us to:</p>
+
+<ul type="disc">
+    <li>provide you with personalised visits to our service for example by displaying targeted advertising and content which we believe likely to be relevant and of interest to you;</li>
+    <li>develop our service and enhance its usability and functionality and improve the user-experience;</li>
+    <li>provide you with services which you have signed up for;</li>
+    <li>share your personal information with our partners (detailed below);</li>
+    <li>recommend goods, services or promotions which may be of interest to you (but only where you have consented to be contacted for such purposes);</li>
+    <li>serve advertising to you which may be of interest to you;</li>
+    <li>make payments to you if you win a competition;</li>
+    <li>contact you; and</li>
+    <li>send out newsletters which you have signed up for.</li>
+</ul>
+
+<p>
+    <br>
+</p>
+
+<h2>With whom is your personal information shared?</h2>
+
+<p>We may disclose your personal information in the following ways:</p>
+
+<ul type="disc">
+    <li>where you have consented, to bookmakers who may use the information to provide you with offers, promotions and other marketing you may be interested in (for information about how to withdraw your consent please see the '<a href="#your-rights">your rights</a>' section below);&nbsp;</li>
+    <li>if you enter a competition and the prize is being provided by a third party (which will be made clear to you), we may disclose the information you submit when you enter the competition to that third party;</li>
+    <li>to third party data, service and software providers that assist us in the function, improvement and optimisation of our services such as website analytics, social media, bookmaker partner, email provider.</li>
+</ul>
+
+<p>We may also disclose depersonalised data (such as aggregated statistics) about the users of our service in order to describe our sales, customers, traffic patterns and other site information to prospective partners, advertisers, investors and other reputable third parties and for other lawful purposes such as to analyse and understand site usage, but these statistics will include no personally identifying information.</p>
+
+<p>We may occasionally be required by law, court order or governmental authority to disclose certain types of personal information. &nbsp;Examples of the type of situation where this would occur would be:</p>
+
+<ul type="disc">
+    <li>in the administration of justice; or</li>
+    <li>where we have to defend ourselves legally.</li>
+</ul>
+
+<p>Finally, in the event of a reorganisation, sale or takeover we may need to disclose personal information to new entities within the group or potential acquirers and their advisers, though we will do so on the basis that the information is kept in confidence and, if the reorganisation, sale or takeover takes place, used only in accordance with applicable law and this Privacy Policy.</p>
+
+<p>
+    <br>
+</p>
+
+<h2>The requirements of data protection laws</h2>
+
+<p>We regard the lawful and correct treatment of your personal information by us as very important to our successful operation, and to maintaining confidence between us and our users. We ensure that our organisation treats personal information lawfully and correctly. To this end we fully endorse and adhere to the data protection principles set out in data protection legislation. In particular, without your consent or first amending this Privacy Policy to reflect any change in our usage of personal information:</p>
+
+<ul>
+    <li>we will not use your personal information for any purpose that is incompatible with this Privacy Policy;</li>
+    <li>we will only collect sufficient personal information for the uses set out above;</li>
+    <li>we will endeavour to keep your personal information up-to-date;</li>
+    <li>we will operate appropriate technical and organisational processes to protect your personal information against unauthorised or unlawful access or processing and against accidental loss or destruction. The measures we take are described elsewhere in this Privacy Policy; and</li>
+    <li>we will not transfer your personal information to a country outside the European Economic Area unless safeguards are in place to protect your personal information to the standards that apply within the EEA including via standard contractual clauses and Privacy Shield or where the transfer is necessary to administer a competition you have entered via our service (for example, it is sometimes necessary to send your username to a bookmaker outside the EEA if you enter a competition administered by that bookmaker).</li>
+</ul>
+
+<p>
+    <br>
+</p>
+
+<h2>Use of cookies and web beacons</h2>
+
+<p>Cookies are small files that websites save to your hard disk or to your browser's memory. &nbsp;The cookies used on our service are listed below.</p>
+
+<p>You have the ability to accept or decline cookies. Most Internet browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies or to notify you when a cookie is being placed on your computer. If you choose to decline cookies, you may not be able to fully experience the features of our service or other websites that you visit. To learn more about cookies and how to disable them we recommend you visit the Information Commissioner’s websites <a href="http://ico.org.uk/for_the_public/topic_specific_guides/online/cookies" rel="noopener noreferrer" target="_blank">here</a>. &nbsp;</p>
+
+<p>Invendium LTD (Trading as OLBG.com) use technologies, such as cookies, to customise content and advertising, to provide social media features and to analyse traffic to the site. We also share information about your use of our site with our trusted social media, advertising and analytics partners. &nbsp;
+    <br>We use "cookies" to collect information, you can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.</p>
+
+<p>If you wish to learn more about marketing cookies and technologies and how to delete them you can do so<span>&nbsp;</span><a href="http://www.youronlinechoices.com/" rel="noopener noreferrer" target="_blank">here</a> and<span>&nbsp;</span><a href="http://optout.aboutads.info/#!/" rel="noopener noreferrer" target="_blank">here</a>.</p>
+
+<p>One of the service providers that we use for data analytics is Google Analytics. If you do not want Google Analytics to collect and use information about your use of our services, then you can install an opt-out in your web browser (
+    <a href="https://tools.google.com/dlpage/gaoptout/"></a><a href="https://tools.google.com/dlpage/gaoptout/" rel="noopener noreferrer" target="_blank">https://tools.google.com/dlpage/gaoptout/</a>).</p>
+
+<p>By using our service you consent to us using the following cookies:</p>
+
+<table border="1" cellpadding="0" cellspacing="0" width="100%">
+ <tbody>
+  <tr>
+   <td width="29%"><strong>Cookie</strong>
+    <br>
+   </td>
+   <td width="70%"><strong>Purpose</strong>
+    <br>
+   </td>
+  </tr>
+  <tr>
+   <td valign="top" width="29%">PHPSESSID
+    <br>
+   </td>
+   <td valign="top" width="70%">PHP session cookie, stores an ID for the server session so the browser can retrieve the session data (session)
+    <br>
+   </td>
+  </tr>
+  <tr>
+   <td valign="top" width="29%">JSESSIONID
+    <br>
+   </td>
+   <td valign="top" width="70%">Is a cookie in J2EE web application which is used in session tracking
+    <br>
+   </td>
+  </tr>
+  <tr>
+   <td valign="top" width="29%">cookieconsent_status
+    <br>
+   </td>
+   <td valign="top" width="70%">Tells us that you have given us consent to use cookies as required by EU law. That way we don’t have to keep asking you for consent (90 days)
+    <br>
+   </td>
+  </tr>
+  <tr>
+   <td valign="top" width="29%">_ga
+    <br>
+   </td>
+   <td valign="top" width="70%">This Google Analytics cookie is used to determine unique visitors to our site (2 years)
+    <br>
+   </td>
+  </tr>
+  <tr>
+   <td valign="top" width="29%">_gid
+    <br>
+   </td>
+   <td valign="top" width="70%">This Google Analytics cookie is used to performance related activities (1 day)
+    <br>
+   </td>
+  </tr>
+  <tr>
+   <td valign="top" width="29%">_gat
+    <br>
+   </td>
+   <td valign="top" width="70%">This Google Analytics cookie is used to performance related activities (1 day)
+    <br>
+   </td>
+  </tr>
+  <tr>
+   <td valign="top" width="29%">__cfduid
+    <br>
+   </td>
+   <td valign="top" width="70%">This cloudflare.com cookie is used to performance related activities (1 year)
+    <br>
+   </td>
+  </tr>
+ </tbody>
+</table>
+
+<p>
+    <br>
+</p>
+
+<h2>Security</h2>
+
+<p>We are committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorised access, use, or disclosure.</p>
+
+<p>For example, we store the personal information you provide on secure computer systems with limited access that are located in facilities to which access is limited.</p>
+
+<p>If you choose to set up an account with our service, it is your responsibility to ensure the security of your password and not to reveal this information to others.&nbsp;</p>
+
+<p>
+    <br>
+</p>
+
+<h2>Retention</h2>
+
+<p>We will hold your personal data for so long as you download and use our service and for no more than five years after. &nbsp;We will endeavor to delete any personal data sooner where it is not necessary for us to hold this, but please be aware that we may hold personal data for longer if we are under a legal obligation to do so or where we have a reasonable belief that it is necessary to do so for business or legal reasons. &nbsp;</p>
+
+<p>
+    <br>
+</p>
+
+<h2 id="your-rights">Your rights</h2>
+
+<p>You have the following rights in relation to your personal data:</p>
+
+<ul>
+    <li>a right of access to a copy of the information comprised in your personal data;</li>
+    <li>a right to access your personal data in machine-readable format and to request that we transfer this to a third party data controller;</li>
+    <li>a right to object to decisions being taken by automated means;</li>
+    <li>a right to object to processing that is likely to cause or is causing damage or distress;</li>
+    <li>a right to ask us not to process your personal data for direct marketing purposes;</li>
+    <li>a right in certain circumstances to have inaccurate personal data rectified, blocked, erased or destroyed;</li>
+    <li>a right to claim compensation for damages caused by a breach of data protection legislation; and</li>
+    <li>a right to lodge a complaint to the Information Commissioner's Office in respect of our use of your personal data. &nbsp;</li>
+</ul>
+
+<p>Where you have consented to us sending you marketing communications promoting third party products and services or where you have consented to us passing on your details to third parties for marketing purposes, you have a right to withdraw that consent. You can withdraw your consent by<span>&nbsp;</span><a href="https://www.olbg.com/contact.php" rel="noopener noreferrer" target="_blank">contact</a> us. &nbsp;This will not affect or undo any instances where we have already lawfully shared your information prior to you withdrawing your consent. You can also opt-out of receiving marketing communications from us by clicking on the unsubscribe link at the bottom of such marketing communications.&nbsp;</p>
+
+<p>If you are unsure about your rights or are concerned about how your personal data may be processed you should contact the Information Commission's Office.&nbsp;</p>
+
+<p>If you contact us in relation to your rights we will do our best to accommodate your request or objection. &nbsp;Please note, however, that not all rights are absolute. &nbsp;Sometimes other legal obligations or third-party rights will take precedence.</p>
+
+<p>If you request a copy of personal data that we hold about you we will require proof of your identity.</p>
+
+<p>You can help us to maintain the accuracy of your information by notifying us of any change.</p>
+
+<p>Please<span>&nbsp;</span><a href="https://www.olbg.com/contact.php" rel="noopener noreferrer" target="_blank">contact</a> us if you would have any queries about, or would like to enforce, your rights set out above.</p>
+
+<p>
+    <br>
+</p>
+
+<h2>Grounds for processing</h2>
+
+<p>Our processing of your personal data will be where: (i) it is necessary for the performance of a contract we have with you; (ii) where you have provided your consent (for example for us to send you third party marketing); (iii) it is necessary for us to comply with legal obligation that we are under; or (iv) it is in our (or a third party's) legitimate interests and such interests do not prejudice your rights or freedoms. &nbsp;Our (or a third party's) legitimate interests will include:</p>
+
+<ul type="disc">
+    <li>ensuring our service is as user-friendly as possible so our customers are encouraged to use it;</li>
+    <li>understanding how our service is used to help us plan development and improvements to its functionality;</li>
+    <li>promoting our and our partners' and sponsors' businesses to those who are likely to be interested in the promotions and services we and they offer and monitoring how effectively we do that;</li>
+    <li>facilitating connections between our users and our partners and sponsors; and</li>
+    <li>enabling us to benefit from the services and expertise of third party services providers;</li>
+</ul>
+
+<p>
+    <br>
+</p>
+
+<h2>Under 18s</h2>
+
+<p>Our service is for users who are aged 18 years old and over. We do not knowingly collect personal data from under 18s.&nbsp;</p>
+
+<p>
+    <br>
+</p>
+
+<h2>Links to other websites</h2>
+
+<p>Our service may contain links to, or integration with, other websites or apps such as bookmaker's website and apps and social media sites such as Facebook, Twitter, Google+ and YouTube. We are not responsible for the content, security, practices or privacy policies employed by other websites and apps. We encourage you to carefully review these third parties' privacy policies so that you know how they will collect, use, and share your information. In particular, when you open an account with a &nbsp;bookmaker, that bookmaker's own privacy policy will apply to personal data you provide via that account.</p>
+
+<p>
+    <br>
+</p>
+
+<h2>Contact us</h2>
+
+<p>If you have questions regarding this policy or our handling of your personal information, please contact us<span>&nbsp;</span><a href="https://www.olbg.com/contact.php" rel="noopener noreferrer" target="_blank">here</a>. We will promptly address your concern and strive to reach a satisfactory resolution.</p></div>
+</div>
+
+
+      </div>
+
+<!--Left Icons style Starts Here-->
+<div id="leftIcon">
+<ul class="left_menu"><li class="football"><a href="#" title="Football"><span>Football</span></a><ul><li><a href="/football/english/" title="English"><span>English</span></a></li><li><a href="/football/scottish/" title="Scottish"><span>Scottish</span></a></li><li><a href="/football/champions-league/" title="Champions League"><span>Champions League</span></a></li><li><a href="/football/european-leagues/" title="European Leagues"><span>European Leagues</span></a></li><li><a href="/football/world-leagues/" title="World Leagues"><span>World Leagues</span></a></li><li><a href="/football/international/" title="International"><span>International</span></a></li><li><a href="/football/womens-league/" title="Womens League"><span>Womens League</span></a></li><li><a href="/football/euro-2020/" title="Euro 2020"><span>Euro 2020</span></a></li><li><a href="/football/world-cup-2018/" title="World Cup 2018"><span>World Cup 2018</span></a></li><li><a href="/football/youth-leagues/" title="Youth Leagues"><span>Youth Leagues</span></a></li></ul></li><li class="horseracing"><a href="#" title="Horse Racing"><span>Horse Racing</span></a><ul><li><a href="/horseracing/australia/" title="Australia"><span>Australia</span></a></li><li><a href="/horseracing/us-horseracing/" title="US Horseracing"><span>US Horseracing</span></a></li><li><a href="/horseracing/antepost-flat/" title="AntePost Flat"><span>AntePost Flat</span></a></li><li><a href="/horseracing/antepost-jumps/" title="AntePost Jumps"><span>AntePost Jumps</span></a></li><li><a href="/horseracing/antepost-cheltenham/" title="AntePost Cheltenham"><span>AntePost Cheltenham</span></a></li><li><a href="/horseracing/antepost-royal-ascot/" title="Antepost Royal Ascot"><span>Antepost Royal Ascot</span></a></li><li><a href="/horseracing/american/" title="American"><span>American</span></a></li><li><a href="/horseracing/breeders-cup/" title="Breeders Cup"><span>Breeders Cup</span></a></li><li><a href="/horseracing/international/" title="International"><span>International</span></a></li><li><a href="/horseracing/united-kingdom/" title="United Kingdom"><span>United Kingdom</span></a></li><li><a href="/horseracing/south-africa/" title="South Africa"><span>South Africa</span></a></li><li><a href="/horseracing/france/" title="France"><span>France</span></a></li><li><a href="/horseracing/ireland/" title="Ireland"><span>Ireland</span></a></li></ul></li><li class="tennis"><a href="#" title="Tennis"><span>Tennis</span></a><ul><li><a href="/tennis/mens-singles/" title="Mens Singles"><span>Mens Singles</span></a></li><li><a href="/tennis/ladies-singles/" title="Ladies Singles"><span>Ladies Singles</span></a></li><li><a href="/tennis/doubles/" title="Doubles"><span>Doubles</span></a></li><li><a href="/tennis/mens-challenger-tour/" title="Mens Challenger Tour"><span>Mens Challenger Tour</span></a></li></ul></li><li class="basketball"><a href="#" title="Basketball"><span>Basketball</span></a><ul><li><a href="/basketball/european-leagues/" title="European Leagues"><span>European Leagues</span></a></li><li><a href="/basketball/asian-leagues/" title="Asian Leagues"><span>Asian Leagues</span></a></li><li><a href="/basketball/world-leagues/" title="World Leagues"><span>World Leagues</span></a></li><li><a href="/basketball/wnba/" title="WNBA"><span>WNBA</span></a></li></ul></li><li class="golf"><a href="#" title="Golf"><span>Golf</span></a><ul><li><a href="/golf/majors/" title="Majors"><span>Majors</span></a></li><li><a href="/golf/tour-events/" title="Tour Events"><span>Tour Events</span></a></li><li><a href="/golf/team-event/" title="Team Event"><span>Team Event</span></a></li></ul></li><li class="cricket"><a href="#" title="Cricket"><span>Cricket</span></a><ul><li><a href="/cricket/icc-cricket-world-cup/" title="ICC Cricket World Cup"><span>ICC Cricket World Cup</span></a></li><li><a href="/cricket/international/" title="International"><span>International</span></a></li><li><a href="/cricket/domestic/" title="Domestic"><span>Domestic</span></a></li><li><a href="/cricket/other/" title="Other"><span>Other</span></a></li><li><a href="/cricket/the-ashes/" title="The Ashes"><span>The Ashes</span></a></li><li><a href="/cricket/twenty20-world-cup/" title="Twenty20 World Cup"><span>Twenty20 World Cup</span></a></li></ul></li><li class="snooker"><a href="#" title="Snooker"><span>Snooker</span></a><ul><li><a href="/snooker/other-tournaments/" title="Other Tournaments"><span>Other Tournaments</span></a></li></ul></li><li class="rugbyunion"><a href="#" title="Rugby Union"><span>Rugby Union</span></a><ul><li><a href="/rugbyunion/world-cup/" title="World Cup"><span>World Cup</span></a></li><li><a href="/rugbyunion/six-nations/" title="Six Nations"><span>Six Nations</span></a></li><li><a href="/rugbyunion/domestic/" title="Domestic"><span>Domestic</span></a></li><li><a href="/rugbyunion/other/" title="Other"><span>Other</span></a></li><li><a href="/rugbyunion/international/" title="International"><span>International</span></a></li></ul></li><li class="rugbyleague"><a href="#" title="Rugby League"><span>Rugby League</span></a><ul><li><a href="/rugbyleague/club-rugby/" title="Club Rugby"><span>Club Rugby</span></a></li><li><a href="/rugbyleague/other/" title="Other"><span>Other</span></a></li></ul></li><li class="americanfootball"><a href="#" title="American Football"><span>American Football</span></a><ul><li><a href="/americanfootball/nfl/" title="NFL"><span>NFL</span></a></li><li><a href="/americanfootball/college/" title="College"><span>College</span></a></li></ul></li><li class="baseball"><a href="#" title="Baseball"><span>Baseball</span></a><ul><li><a href="/baseball/mlb/" title="MLB"><span>MLB</span></a></li><li><a href="/baseball/world-leagues/" title="World Leagues"><span>World Leagues</span></a></li></ul></li><li class="icehockey"><a href="#" title="Ice Hockey"><span>Ice Hockey</span></a><ul><li><a href="/icehockey/european-leagues/" title="European Leagues"><span>European Leagues</span></a></li><li><a href="/icehockey/nhl/" title="NHL"><span>NHL</span></a></li><li><a href="/icehockey/other/" title="Other"><span>Other</span></a></li></ul></li><li class="motorracing"><a href="#" title="Motor Racing"><span>Motor Racing</span></a><ul><li><a href="/motorracing/formula-one/" title="Formula One"><span>Formula One</span></a></li></ul></li><li class="darts"><a href="#" title="Darts"><span>Darts</span></a><ul><li><a href="/darts/world-championships/" title="World Championships"><span>World Championships</span></a></li></ul></li><li class="boxing"><a href="#" title="Boxing"><span>Boxing</span></a><ul><li><a href="/boxing/upcoming-fights/" title="Upcoming Fights"><span>Upcoming Fights</span></a></li><li><a href="/boxing/mma-ufc/" title="MMA - UFC"><span>MMA - UFC</span></a></li></ul></li><li class="cycling"><a href="#" title="Cycling"><span>Cycling</span></a><ul><li><a href="/cycling/tour-de-france/" title="Tour De France"><span>Tour De France</span></a></li><li><a href="/cycling/other/" title="Other"><span>Other</span></a></li></ul></li><li class="handball"><a href="#" title="Handball"><span>Handball</span></a><ul><li><a href="/handball/men-s-international/" title="Men's International"><span>Men's International</span></a></li><li><a href="/handball/men-s-leagues/" title="Men's Leagues"><span>Men's Leagues</span></a></li></ul></li><li class="volleyball"><a href="#" title="Volleyball"><span>Volleyball</span></a><ul><li><a href="/volleyball/volleyball/" title="Volleyball"><span>Volleyball</span></a></li></ul></li><li class="australianfootball"><a href="#" title="Australian Football"><span>Australian Football</span></a><ul><li><a href="/ausfootball/australia-rules/" title="Australia Rules"><span>Australia Rules</span></a></li><li><a href="/ausfootball/men/" title="Men"><span>Men</span></a></li></ul></li><li class="e-sports"><a href="#" title="E-Sports"><span>E-Sports</span></a><ul><li><a href="/esports/first-person-shooters/" title="First-person shooters"><span>First-person shooters</span></a></li><li><a href="/esports/real-time-strategy/" title="Real-time strategy"><span>Real-time strategy</span></a></li></ul></li><li class="gaelicfootball"><a href="#" title="Gaelic Football"><span>Gaelic Football</span></a><ul><li><a href="/gaelicfootball/gaelic-football/" title="Gaelic Football"><span>Gaelic Football</span></a></li></ul></li><li class="hurling"><a href="#" title="Hurling"><span>Hurling</span></a><ul><li><a href="/hurling/hurling/" title="Hurling"><span>Hurling</span></a></li></ul></li><li class="greyhounds"><a href="#" title="Greyhounds"><span>Greyhounds</span></a><ul><li><a href="/greyhounds/united-kingdom/" title="United Kingdom"><span>United Kingdom</span></a></li><li><a href="/greyhounds/ireland/" title="Ireland"><span>Ireland</span></a></li><li><a href="/greyhounds/ante-post-australia/" title="Ante Post Australia"><span>Ante Post Australia</span></a></li></ul></li></ul></div>
+<!--Left Icons style Ends Here-->
+    </div>
+
+    <div id="bottom_box">
+	<a name="fba"></a>
+  <div class="bb_1">
+    <div class="bb_2">
+      <div class="bb_3">
+        <ul id="footer_menu">
+          <li><a href="/help">Help</a></li>
+          <li><a href="/contact"> Contact</a></li>
+          <li><a href="/terms-and-conditions">Terms</a></li>
+          <li><a href="/privacy">Privacy</a></li>
+        </ul>
+        <div id="footer_banner">
+          <!-- footer banner -->
+                    <a href="http://www.olbg.com/tips/register.php?ref=vc" rel="nofollow" target="_blank"><img height="90" width="728" src="http://valuechecker.co.uk/adv/footer_banner/2015.04.01-horseracing-banner-728X90.gif" alt="OLBG.com - THE SPORTS BETTING COMMUNITY" target="" _blank=""></a>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>
+<div id="footer">
+  <!--footer style begins here-->
+   <div id="footer-begambleaware-block">
+    <h5 style="margin-bottom: 12px; font-size: 13px;">
+      For More Information and Advice visit<br>
+      <a href="https://begambleaware.org" target="_blank" title="begambleaware.org" style="color: #000;">begambleaware.org</a>
+    </h5>
+    <a href="https://begambleaware.org" target="_blank" title="begambleaware.org" style="text-decoration:none;"><div style="display: inline-block; margin: 0 10px; vertical-align: text-bottom; width: 30px; height: 30px; text-align: center; line-height: 30px; font-weight: bold; background: #000; color: #fff; border-radius: 15px;">18+</div><img src="https://shared.olbg.info/desktopsites/static/m.com/images/begambleaware-logo-black.png" alt="" style="width: 240px;"></a>
+    <p style="display: block; margin: 16px 0 0; text-align: center; font-size: 11px; color: rgba(0,0,0,0.8);">Odds are correct at time of publishing but are subject to change</p>
+  </div>
+  <div id="footerbackground">
+    ©2006-2018 Value Checker, part of Invendium Limited
+  </div>
+  <!--footer style ends here-->
+</div>
+
+  <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+  <script>
+  window.addEventListener('load', function(){
+  window.cookieconsent.initialise({
+    'palette': {
+      'popup': {
+        'background': '#000000'
+      },
+      'button': {
+        'background': '#ffdd00',
+        'text': '#000000'
+      }
+    },
+    'content': {
+      'message': 'This website uses cookies to ensure you get the best experience on our website. <br>By continuing to use this site you confirm that you are at least 18 years of age and consent to us processing your personal data in accordance with our ',
+      'link': 'Privacy Policy', 
+      'href': '/privacy'
+    }
+  })});
+  </script>
+
+  </div>
+  <div id="pth"> </div>
+<div id="lbx_holder"></div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-159821-3', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"e82da2fa6d","applicationID":"3566100","transactionName":"MQMEYhEEW0cEB0YIWQhJJ1UXDFpaSiBbEkYHEgVeBhcaXQsAVxk=","queueTime":0,"applicationTime":620,"ttGuid":"","agentToken":"","atts":"HUQHFFkeSEk=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+</body></html>
