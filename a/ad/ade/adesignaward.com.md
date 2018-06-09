@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adesignaward.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205232732id_/https%3A//competition.adesignaward.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adesignaward.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609234347id_/http%3A//competition.adesignaward.com/privacypolicy.html) for the most accurate reproduction.*
 
 # A' Design Award and Competition - Privacy Policy
 
-[****](https://web.archive.org/web/20171205232732id_/https%3A//competition.adesignaward.com/winners-category.php?CATEGORY=1)Your privacy is critically important to us. At A' Design Award and Competition we have a few fundamental principles:
+Your privacy is critically important to us. At A' Design Award and Competition we have a few fundamental principles:
 
   * We don’t ask you for personal information unless we truly need it. 
   * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
@@ -13,7 +13,7 @@
 
 Below is our privacy policy which incorporates these goals:
 
-OMC Design Studios SRL owner of A' Design Award and Competitions (“ **A' Design Award and Competition** ”) operates several websites including [adesignaward.com](https://competition.adesignaward.com/), [adesigncompetition.com](http://www.adesigncompetition.com/), [ adesignawards.com](http://www.adesignawards.com/), and [adesigncompetitions.com](http://www.adesigncompetitions.com/). It is A' Design Award and Competition’s policy to respect your privacy regarding any information we may collect while operating our websites.
+OMC Design Studios SRL owner of A' Design Award and Competitions (“ **A' Design Award and Competition** ”) operates several websites including [adesignaward.com](http://www.adesignaward.com/), [adesigncompetition.com](http://www.adesigncompetition.com/), [ adesignawards.com](http://www.adesignawards.com/), and [adesigncompetitions.com](http://www.adesigncompetitions.com/). It is A' Design Award and Competition’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
 Website Visitors
 
@@ -23,7 +23,7 @@ A' Design Award and Competition also collects potentially personally-identifying
 
 Gathering of Personally-Identifying Information
 
-Certain visitors to A' Design Award and Competition’s websites choose to interact with A' Design Award and Competition in ways that require A' Design Award and Competition to gather personally-identifying information. The amount and type of information that A' Design Award and Competition gathers depends on the nature of the interaction. For example, we ask visitors who register at [adesignaward.com](https://competition.adesignaward.com/) to provide a username and email address. Those who engage in transactions with A' Design Award and Competition – by purchasing design competition joining and controlling service, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, A' Design Award and Competition collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with A' Design Award and Competition. A' Design Award and Competition does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to A' Design Award and Competition’s websites choose to interact with A' Design Award and Competition in ways that require A' Design Award and Competition to gather personally-identifying information. The amount and type of information that A' Design Award and Competition gathers depends on the nature of the interaction. For example, we ask visitors who register at [adesignaward.com](http://www.adesignaward.com/) to provide a username and email address. Those who engage in transactions with A' Design Award and Competition – by purchasing design competition joining and controlling service, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, A' Design Award and Competition collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with A' Design Award and Competition. A' Design Award and Competition does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 Aggregated Statistics
 
@@ -32,10 +32,6 @@ A' Design Award and Competition may collect statistics about the behavior of vis
 Protection of Certain Personally-Identifying Information
 
 A' Design Award and Competition discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on A' Design Award and Competition’s behalf or to provide services available at A' Design Award and Competition’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using A' Design Award and Competition’s websites, you consent to the transfer of such information to them. A' Design Award and Competition will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, A' Design Award and Competition discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when A' Design Award and Competition believes in good faith that disclosure is reasonably necessary to protect the property or rights of A' Design Award and Competition, third parties or the public at large. If you are a registered user of an A' Design Award and Competition website and have supplied your email address, A' Design Award and Competition may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with A' Design Award and Competition and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. A' Design Award and Competition takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
-
-**When you Make a Payment**
-
-If you make a payment, we will save in our database all the information regarding the transaction to the extend permitted by law, that would include card holder or payer name, surname, partial (such as last 4 digits) card numbers, payment methods, payment accounts and other identifiable information. 
 
 Cookies
 
@@ -47,4 +43,4 @@ Ads appearing on any of our websites may be delivered to users by advertising pa
 
 Privacy Policy Changes
 
-Although most changes are likely to be minor, A' Design Award and Competition may change its Privacy Policy from time to time, and in A' Design Award and Competition’s sole discretion. A' Design Award and Competition encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a [adesignaward.com](https://competition.adesignaward.com/) account, you should also check your designer "hidden cabinet" (dashboard) for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+Although most changes are likely to be minor, A' Design Award and Competition may change its Privacy Policy from time to time, and in A' Design Award and Competition’s sole discretion. A' Design Award and Competition encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a [adesignaward.com](http://www.adesignaward.com/) account, you should also check your designer "hidden cabinet" (dashboard) for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
