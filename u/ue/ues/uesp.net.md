@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uesp.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606091308id_/http%3A//en.uesp.net/wiki/UESPWiki%3APrivacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uesp.net privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609110639id_/http%3A//en.uesp.net/wiki/UESPWiki%3APrivacy_Policy) for the most accurate reproduction.*
 
 # UESPWiki:Privacy Policy - The Unofficial Elder Scrolls Pages (UESP)
 
@@ -44,7 +44,9 @@ As neither registration, nor the associated benefits of such, with the UESP requ
 
 ### Removal of Accounts
 
-The ability to remove user accounts is limited solely to the owner of the site, Dave Humphrey ([Daveh](https://web.archive.org/wiki/User:Daveh "User:Daveh")). User accounts will not be removed regardless of their respective activity, and the removal of an account may be denied should a request for such be submitted. An account will only be deleted if its presence constitutes a liability to the integrity of the site, or infringes upon local or national laws.
+The ability to remove user accounts is limited solely to the administrators of the site or sub-section. User accounts will not be removed regardless of their respective activity, and the removal of an account may be denied should a request for such be submitted. An account will only be deleted if its presence constitutes a liability to the integrity of the site, or infringes upon local or national laws.
+
+For wiki accounts in particular a user can themselves remove all identifying information by editing/removing their real name and e-mail. In cases where the wiki username contains identifying personal information we can rename accounts on request. Users who lose access to their accounts can request manual removal/renaming if sufficient evidence of account ownership can be provided.
 
 ### Data Logs
 
@@ -101,15 +103,19 @@ The UESP maintains official extensions of the site, through which users, visitor
 
 The UESP [forums](http://www.uesp.net/phpbb/) are made publicly available, although registration is required to post therein. The terms of this policy apply to said forums, insofar as applicable.
 
-### IRC
+### Blog
 
-The UESP [IRC channel](https://web.archive.org/wiki/UESPWiki:IRC "UESPWiki:IRC") is maintained autonomously from the UESP, courtesy of ChatSpike, and continues under the guidance of Channel Operators. While an official extension of the UESP, the terms set forth in this policy do not apply therein. Users, visitors, and members are urged to exercise caution and prudence prior to the submittal of information upon the channel. For more information, see the [IRC](https://web.archive.org/wiki/UESPWiki:IRC "UESPWiki:IRC") page.
+The UESP [blog](http://blog.uesp.net/). The terms of this policy apply to said blog, insofar as applicable.
+
+### Discord
+
+The UESP Discord server for text chatting. The terms of this policy apply to Discord , insofar as applicable.
 
 ## Advertising
 
-The UESP uses [Google AdSense](http://www.google.com/adsense) to provide advertisements in order to assist with running costs. This system is not under the control of UESP and may record details and / or store cookies in addition to the recording and storage described above. Further details are available on the [AdSense site](http://www.google.com/adsense) and in Google's [Privacy Policy](http://www.google.com/privacy.html).
+The UESP uses [Curse](https://www.curse.com/advertising) and [Google AdSense](http://www.google.com/adsense) to provide advertisements in order to assist with running costs. This system is not under the control of UESP and may record details and / or store cookies in addition to the recording and storage described above. Further details are available on the [Curse Privacy Policy](https://www.twitch.tv/p/legal/privacy-policy/), the [AdSense site](http://www.google.com/adsense), and in Google's [Privacy Policy](http://www.google.com/privacy.html).
 
-In particular (taken from [Google Advertising Cookie and Privacy Policies](http://www.google.com/adsense/support/bin/answer.py?answer=100557&sourceid=aso&subid=ww-ww-et-asui&medium=link):
+Google Adsense in particular (taken from [Google Advertising Cookie and Privacy Policies](http://www.google.com/adsense/support/bin/answer.py?answer=100557&sourceid=aso&subid=ww-ww-et-asui&medium=link):
 
     
 
