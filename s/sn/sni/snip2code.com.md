@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snip2code.com privacy policy that was archived on 2017-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170102234108id_/https%3A//www.snip2code.com/Static/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snip2code.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609142123id_/https%3A//www.snip2code.com/Static/Privacy) for the most accurate reproduction.*
 
 # Snip2Code - Privacy
 
