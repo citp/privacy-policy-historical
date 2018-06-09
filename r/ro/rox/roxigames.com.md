@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roxigames.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208151312id_/http%3A//www.roxigames.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roxigames.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609184337id_/http%3A//www.roxigames.com/privacy.html) for the most accurate reproduction.*
 
 # Dress Up Games
 
