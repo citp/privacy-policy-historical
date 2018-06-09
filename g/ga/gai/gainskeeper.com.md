@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gainskeeper.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210160707id_/http%3A//www.gainskeeper.com/us/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gainskeeper.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609213506id_/http%3A//www.gainskeeper.com/us/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # GainsKeeper: Privacy Policy
 
@@ -63,7 +63,7 @@ Wolters Kluwer Financial Services Privacy
 P.O. Box 1457   
 St. Cloud, MN 56302-1457   
 1-800-552-9410   
-[webmaster2@wolterskluwer.com](mailto:webmaster2@wolterskluwer.com).
+[Contact us](http://wolterskluwerfs.com/contact-us.aspx)
 
 |   
 ---|---
