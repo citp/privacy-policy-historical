@@ -1,208 +1,709 @@
-> *The following text is extracted and transformed from the bankofscotland.co.uk privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128220647id_/http%3A//www.bankofscotland.co.uk/securityandprivacy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankofscotland.co.uk privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609155608id_/https%3A//www.bankofscotland.co.uk/securityandprivacy/privacy) for the most accurate reproduction.*
 
 # Bank of Scotland | Security and Privacy | Privacy | Privacy statement and your identity
 
-## How your personal information is used by Lloyds Banking Group companies
+Last updated April 2018
 
-**Last updated May 2017**
+## How we use your personal information
 
-Your information will be held by Bank of Scotland plc, which is part of the Lloyds Banking Group.
+Your information will be held by Bank of Scotland plc, which is part of Lloyds Banking Group. This privacy notice is to let you know how companies within the Group promise to look after your personal information. This includes what you tell us about yourself, what we learn by having you as a customer, and the choices you give us about what marketing you want us to send you. This notice also tells you about your privacy rights and how the law protects you.
 
-More information on the Group can be found at [www.lloydsbankinggroup.com](http://www.lloydsbankinggroup.com/).
+**Our Privacy Promise**
 
-### Where we obtain your information
+We promise:
 
-Your personal information will be held securely in Lloyds Banking Group systems so that we and any other companies in our Group that you have dealings with, either now or in the future, can manage your relationship with us. This will include information you provide when you apply to us, and any additional information provided by you or others in various ways, including:
+  * To keep your data safe and private.
+  * Not to sell your data.
+  * To give you ways to manage and review your marketing choices at any time.
 
-(a) in applications, emails and letters, during telephone calls and conversations in branch, when registering for services, in customer surveys, when you participate in competitions and promotions, when using Lloyds Banking Group company websites, and during financial reviews and interviews.  
-(b) from analysis (for example, the amount frequency, location, origin, and recipient) of your payments and other transactions, and your use of services involving other Lloyds Banking Group companies and what they know from operating your account (including the creation of profiles used to uniquely identify you when you use our online, mobile and telephony services) which are used to help us combat fraud and other illegal activity; and  
-(c) information Lloyds Banking Group companies receive from or through other organisations (for example card associations, credit reference agencies, insurance companies, retailers, comparison websites, social networks, and fraud prevention agencies) whether in the course of providing products and services to you or otherwise, and from information we gather from your use of and interaction with our internet and mobile banking services and the devices you use to access them.
 
-We will not retain your personal information for longer than is necessary for the maintenance of your account, or for legal or regulatory requirements.
 
-### How we share your information
+**Personal information and the law  
+** This section tells you who we are, what your personal information is, and how we get it. It explains how the law protects you by controlling what is allowed to happen to it.
 
-We may share the personal information we hold about you across the Lloyds Banking Group for the following administrative activities:
+1. Who we are  
+2. How the law protects you  
+3. Groups of Personal Information  
+4. Where we collect personal information from  
+5. How long we keep your personal information  
+6. If you choose not to give personal information  
+7. Cookies
 
-(a) providing you with products and services and notifying you about either important changes or developments to the features and operation of those products and services;  
-(b) responding to your enquiries and complaints;  
-(c) administering offers, competitions, and promotions;  
-(d) undertaking financial reviews;  
-(e) facilitating the secure access to online platforms;
+**The control you have**  
+This section covers how to complain or withdraw your consent. It also tells you how you can get a copy of your personal information, or ask for it to be changed or removed.
 
-and also for the following data sharing activities:
+8. How to complain  
+9. How to withdraw your consent  
+10. Letting us know if your personal information is incorrect  
+11. How to get a copy of your personal information  
+12. What if you want us to stop using your personal information?
 
-(a) updating, consolidating, and improving the accuracy of our records;  
-(b) undertaking transactional analysis;  
-(c) arrears and debt recovery activities;  
-(d) testing new systems and checking upgrades to existing systems;  
-(e) crime detection, prevention, and prosecution;  
-(f) evaluating the effectiveness of marketing, and for market research and training;  
-(g) customer modelling, statistical and trend analysis, with the aim of developing and improving products and services;  
-(h) assessing lending and insurance risks across the Lloyds Banking Group;  
-(i) managing your relationship with the Lloyds Banking Group companies.
+**How personal information is used  
+** This tells you who we share personal information with. It explains what it's used for in marketing, to provide credit and to combat fraud - and how this can affect you.
 
-By sharing this information it enables us, and other companies in the Lloyds Banking Group, to better understand your needs and run your accounts in the efficient way that you expect.
+13. Who we share your personal information with  
+14. How we work out what marketing you receive  
+15. How we use your information to make automated decisions  
+16. Credit Reference Agencies (CRAs)  
+17. Fraud prevention agencies  
+18. Sending data outside of the EEA
 
-Your data may also be used for other purposes for which you give your specific permission, or, in very limited circumstances, when required by law or where permitted under the terms of the Data Protection Act 1998.
+## Personal information and the law
 
-### When we may share your information
+### Who we are
 
-We will treat your personal information as private and confidential, but may share it with each other and disclose it outside the Lloyds Banking Group if:
+This section gives you the legal name of the company who holds your personal information – known as the ‘legal entity’ – and tells you how you can get in touch with us.
 
- (a) allowed by this agreement;  
-(b) you consent;  
-(c) needed by our agents, advisers or others involved in running accounts and services for you or collecting what you owe Group companies;  
-(d) needed by subcontractors to help us manage your records;  
-(e) HM Revenue & Customs or other authorities require it;  
-(f) the law, regulatory bodies (including for research purposes), or the public interest permits or requires it;  
-(g) required by us or others to investigate or prevent crime;  
-(h) needed by market research companies to assist us in providing better products and services for you;  
-(i) any other parties connected with your account (including guarantors) need it;  
-(j) required as part of our duty to protect your accounts, for example we are required to disclose your information to the UK Financial Services Compensation Scheme (FSCS)  
-(k) you use price comparison websites or other similar services to research or purchase financial products and services. These providers will use information about you and your relationship with us to help ensure you get the best results from their services, enabling you to make an informed choice.
+Lloyds Banking Group is made up of a mix of companies, set up on different legal entities. We'll let you know which you have a relationship with, when you take out a product or service with us.  
+You can find out more about us at [www.lloydsbankinggroup.com](http://www.lloydsbankinggroup.com/).
+
+**Contacting us about data privacy**  
+Please use these details to contact us about any of the topics set out in this Privacy notice.
+
+If you have any questions, or want more details about how we use your personal information, you can call us on [0345 721 3141](tel:+03457213141) (+44 1313 37 42 18 from outside the UK). Lines are open 24/7. Calls may be monitored or recorded.
 
-We will always ensure your information remains safe and secure.
+If you have a hearing or speech impairment you can also call us using the Next Generation Text (NGT) service. Simply dial 18001 and then the telephone number.
 
-### Using your information to help prevent terrorism and crime
+If you’re Deaf and a BSL user, you can talk to us live through a BSL interpreter online using our [BSL SignVideo service](https://www.bankofscotland.co.uk/contactus/signvideo/).
 
-The Government also requires us to screen applications that are made to us to ensure we are complying with the international fight against terrorism and other criminal activities. As a result of this we may need to disclose information to government bodies.
+These are our main contact details. Some sections of this notice have special contact details that you can use instead.
+
+If you are not satisfied with our response, you can contact our Group Data Protection Officer.
+
+* * *
+
+### How the law protects you
+
+This section sets out the legal reasons we rely on, for each of the ways we may use your personal information.
+
+As well as our Privacy Promise, your privacy is protected by law. This section explains how that works.
+
+Data Protection law says that we are allowed to use personal information only if we have a proper reason to do so. This includes sharing it outside Lloyds Banking Group. The law says we must have one or more of these reasons:
+
+  * To fulfil a contract we have with you, or
+  * When it is our legal duty, or
+  * When it is in our legitimate interest, or
+  * When you consent to it.
+
+
+
+When we have a business or commercial reason of our own to use your information, this is called a ‘legitimate interest’. We will tell you what that is, if we are going to rely on it as the reason for using your data. Even then, it must not unfairly go against your interests.
+
+The law and other regulations treat some types of sensitive personal information as special. This includes information about racial or ethnic origin, sexual orientation, religious beliefs, trade union membership, health data, and criminal records. We will not collect or use these types of data without your consent unless the law allows us to do so. If we do, it will only be when it is necessary:
+
+  * For reasons of substantial public interest, or
+  * To establish, exercise or defend legal claims.
+
+
+
+Here is a list of all the ways that we may use your personal information, and which of the reasons we rely on to do so. This is also where we tell you what our legitimate interests are.
+
+**What we use your personal information for:  
+**|  **Our reasons**|  **Our legitimate interests  
+**  
+---|---|---  
+**Serving you as a customer**  
+• To manage our relationship with you or your business  
+• To develop and carry out marketing activities  
+• To study how our customers use products and services from us and other organisations  
+• To communicate with you about our products and services  
+• To develop and manage our brands, products and services | • Your consent  
+• Fulfilling contracts  
+• Our legitimate interests  
+• Our legal duty | • Keeping our records up to date, working out which of our products and services may interest you and telling you about them.  
+• Developing products and services, and what we charge for them  
+• Defining types of customers for new products or services.  
+• Seeking your consent when we need it to contact you  
+• Being efficient about how we fulfil our legal and contractual duties  
+**Business improvement**  
+• To test new products  
+• To manage how we work with other companies that provide services to us and our customers  
+• To develop new ways to meet our customers' needs and to grow our business  
+| • Fulfilling contracts  
+• Our legitimate interests  
+• Our legal duty | • Developing products and services, and what we charge for them  
+• Defining types of customers for new products or services  
+• Being efficient about how we fulfil our legal and contractual duties  
+**Managing our operations**  
+• To deliver of our products and services  
+• To make and manage customer payments  
+• To manage fees, charges and interest due on customer accounts  
+• To collect and recover money that is owed to us  
+• To manage and provide treasury and investment products and services | • Fulfilling contracts  
+• Our legitimate interests  
+• Our legal duty | • Being efficient about how we fulfil our legal and contractual duties  
+• Complying with rules and guidance from regulators  
+**Managing security, risk and crime prevention**  
+• To detect, investigate, report, and seek to prevent financial crime  
+• To manage risk for us and our customers  
+• To obey laws and regulations that apply to us  
+• To respond to complaints and seek to resolve them | • Fulfilling contracts  
+• Our legitimate interests  
+• Our legal duty | • Developing and improving how we deal with financial crime, as well as doing our legal duties in this respect  
+• Complying with rules and guidance from regulators  
+• Being efficient about how we fulfil our legal and contractual duties  
+**Business management**  
+• To run our business in an efficient and proper way. This includes managing our financial position, business capability, planning, adding and testing systems and processes managing communications, corporate governance, and audit | • Our legitimate interests  
+• Our legal duty | • Complying with rules and guidance from regulators  
+• Being efficient about how we fulfil our legal and contractual duties  
+  
+• To exercise our rights set out in agreements or contracts | • Fulfilling contracts |   
+**For processing special categories of personal data**  
+• Substantial public interest | • Using criminal records data to help prevent, detect and prosecute unlawful acts and fraudulent behaviour.  
+• Using criminal and health information as needed to provide insurance products.  
+• Responding to regulatory requirements | • Showing whether we have assessed your situation in the right way  
+• Passing information to the regulator as needed to allow investigation into whether we have acted in the right way.  
+• Legal claims | • Using any special categories of data as needed to establish, exercise or defend legal claims.  
+• Consent | • Telling you that we need your consent to process special categories of personal data, when that is what we rely on for doing so.  
+  
+### Groups of Personal Information
+
+This explains what all the different types of personal information mean, that are covered by data protection law.
+
+We use many different kinds of personal information. They are grouped together like this. The groups are all listed here so that you can see what we may know about you, even if we simply get it from seeing which shops you buy things in. We don’t use all this data in the same way. Some of it is useful for marketing, or for providing services to you. But some of it is private and sensitive and we treat it that way.
+
+**Types of personal information  
+**|  **Description  
+**  
+---|---  
+Financial  
+| Your financial position, status and history  
+Contact | Your name, where you live and how to contact you  
+Socio-Demographic | This includes details about your work or profession, nationality, education and where you fit into general social or income groupings  
+Transactional | Details about payments to and from your accounts with us, and insurance claims you make  
+Contractual | Details about the products or services we provide to you  
+Locational | Data we get about where you are. This may come from your mobile phone or the place where you connect a computer to the internet. It can also include shops where you buy something with your card  
+Behavioural  
+| Details about how you use products and services from us and other organisations  
+Technical | Details on the devices and technology you use  
+Communications | What we learn about you from letters and emails you write to us, and conversations between us  
+Social Relationships | Your family, friends, and other relationships  
+Open Data and Public Records | Details about you that are in public records such as the Electoral Register, and information about you that is openly available on the internet  
+Usage Data | Other data about how you use our products and services  
+Documentary Data | Details about you that are stored in documents in different formats, or copies of them. This could include things like your passport, drivers licence, or birth certificate  
+Special types of data  
+| 
+
+The law and other regulations treat some types of personal information as special. We will only collect and use these types of data if the law allows us to do so:
+
+  * Racial or ethnic origin
+  * Religious, political or philosophical beliefs
+  * Trade union membership
+  * Genetic and bio-metric data
+  * Health data
+  * Lifestyle information, including data related to sex life or sexual orientation
+  * Criminal records of convictions and offences
+  * Allegations of criminal offences
+
+
+
+You can read how we may use special types of data in the table 'How the law protects you'  
+  
+Consents  
+| Any permissions, consents, or preferences that you give us. This includes things like how you want us to contact you, whether you get paper statements, or prefer large-print formats  
+National Identifier  
+| A number or code given to you by a government to identify who you are, such as a National Insurance number or social security number, or Tax Identification Number (TIN)  
+  
+### Where we collect personal information from
+
+This section lists all the places where we get data that counts as part of your personal information.
+
+We may collect personal information about you (or your business) from other Lloyds Banking Group companies and any of these sources:
+
+**Data you give to us**
+
+  * When you apply for our products and services
+  * When you talk to us on the phone or in branch, including recorded calls and notes we make
+  * When you use our websites, mobile device apps, web chat or SignVideo services
+  * In emails and letters
+  * In insurance claims or other documents
+  * In financial reviews and interviews
+  * In customer surveys
+  * If you take part in our competitions or promotions
+
+
+
+**Data we collect when you use our services  
+** This covers two things: details about how and where you access our services, and account activity that is shown on your statement.
+
+  * Payment and transaction data  
+This includes the amount, frequency, type, location, origin and recipients. If you borrow money, it also includes details of repayments and whether they are made on time and in full.
+  * Profile and usage data  
+This includes the security details you create and use to connect to our services. It also includes your settings and marketing choices.   
+We also gather data from the devices you use (such as computers and mobile phones) to connect to our internet, mobile and telephone banking services.  
+We also use cookies and other internet tracking software to collect data while you are using our websites or mobile apps. You can find out more about this in our [Cookies policy](https://www.bankofscotland.co.uk/securityandprivacy/cookies/).
+
 
-### Sharing your information to assist with asset buying or selling
 
-Lloyds Banking Group companies may in the future wish to sell, transfer or merge part or all of their business or assets, or any associated rights or interests, or to acquire a business or enter into a merger with it. If so, they may disclose your personal information to a potential buyer, transferee, or merger partner or seller and their advisers so long as they agree to keep it confidential and to use it only to consider the possible transaction. If the transaction goes ahead, the buyers, transferee or merger partner may use or disclose your personal information in the same way as set out in this notice.
+**Data from outside organisations**
 
-### Sharing your personal information with credit card providers
+  * Companies that introduce you to us (such as a store or car dealership offering finance deals through us)
+  * Financial advisers
+  * Credit card providers like Visa and Mastercard
+  * Credit reference agencies such as Callcredit, Equifax and Experian
+  * Insurers
+  * Retailers
+  * Comparison websites
+  * Social networks (for instance, when you click on one of our Facebook or Google ads)
+  * Fraud prevention agencies
+  * Other financial services companies (to help prevent, detect and prosecute unlawful acts and fraudulent behaviour)
+  * Employers (for instance, to get a reference if you apply for a mortgage)
+  * Payroll service providers
+  * Land agents (such as firms who do property valuations for mortgages)
+  * Public information sources such as the Electoral Register or Companies House
+  * Loyalty schemes like Avios or Everyday Offers
+  * Agents, suppliers, sub-contractors and advisers  
+These can be types of firm we use to help us run accounts and services. They can also be specialist companies who advise us on ways to develop and improve our business.
+  * Market researchers (who combine data from many sources to produce market trend reports and advice.)
+  * Medical professionals*
+  * Government and law enforcement agencies
 
-If you hold a credit or debit card with us, we will share transaction details with our scheme providers (e.g. Visa or Mastercard®).
 
-### Searching insurance records
 
-If you apply to us for insurance, we will pass your details to the insurer. If you make a claim, any information you give to us, or to the insurer, may be put onto a register of claims and shared with other insurers to prevent fraudulent claims. A list of the participants is available from the insurer. We may also disclose your information within our group of companies, to our agents and other insurers to investigate or prevent fraud.
+* For some insurance products, we may ask your GP or other medical practitioner to send us a report. We will only do this if we get your consent first.
 
-### Sharing your personal information between 1st and 2nd charge lenders
+* * *
 
-If you have a secured loan or mortgage with us, we may need to share information with other lenders who also hold a charge on your property.
+### How long we keep your personal information
 
-### Joint Applicants
+This section explains how long we may keep your information for and why
 
-If you give personal information about someone else (such as a joint applicant) then you should not do so without their permission. Where information is provided by you about someone else, or someone discloses information about you, it may be added to any personal information that is already held by us and it will be used in the ways described in this privacy notice.   
+We will keep your personal information for as long as you are a customer of Lloyds Banking Group.
 
- Sometimes, when you open a joint account or product, this may mean that your personal data will be shared with the other applicant. For example, transactions made by you will be seen by your joint account holder and vice versa.
+We may keep your data for up to 10 years after you stop being a customer. The reasons we may do this are:
 
-### How we manage sensitive personal information
+  * To respond to a question or complaint, or to show whether we gave you fair treatment
+  * To study customer data as part of our own internal research
+  * To obey rules that apply to us about keeping records
 
-The Data Protection Act defines certain information as ‘sensitive’ (racial or ethnic origin, political opinions, religious beliefs, trade union membership, physical or mental health, sexual life, criminal proceedings and offences). If you apply to us for insurance, a pension, health insurance or life assurance, we may ask you for some ‘sensitive’ details. We will only use this information to provide the service you require and we will ask for your explicit consent. As a customer, there may be times when you give us sensitive information. We may share it with other parts of the group and our subcontractors to keep your records up to date.
 
-### How we manage information collected on credit card statements
 
-Some transactions that you or additional card holders make on a card account may cause sensitive or confidential details to appear on your statement. By using your card to make such transactions you give us your explicit consent to process this information.
+We may also keep your data for longer than 10 years if we cannot delete it for legal, regulatory or technical reasons. As an example, we have to hold pension transfer information indefinitely; and in cases of subsidence* we will keep insurance claims data for up to 15 years after you stop being a customer.
 
-### Using companies to process your information outside the EEA
+We will only use your personal information for those purposes and will make sure that your privacy is protected.
 
-All countries in the European Economic Area (EEA), which includes the UK, have similar standards of legal protection for your personal information. We may run your accounts and provide other services from centres outside the EEA (such as the USA and India) that do not have a similar standard of data protection laws to the UK. If so, we will require your personal information to be protected to at least UK standards. We may process payments through other financial institutions such as banks and the worldwide payments system operated by the SWIFT organisation if, for example, you make a CHAPS payment or a foreign payment. Those external organisations may process and store your personal information abroad and may have to disclose it to foreign authorities to help them in their fight against crime and terrorism. If these are based outside the EEA, your personal information may not be protected to standards similar to those in the UK.
+* Subsidence is when a building becomes unsafe or damaged by ground sinking around it.
 
-### Using credit scoring
+* * *
 
-When you apply for credit, an automated system known as credit scoring may be used when considering whether to agree the borrowing. It is a method of assessing your likely conduct of an account based on a range of data, including the conduct of previous similar accounts. It is a system widely used by credit providers to help make fair and informed decisions on lending.
+### If you choose not to give personal information
 
- Credit scoring takes account of information from three sources - the information you provide on your application, information provided by credit reference agencies and information that may already be held about you by companies in the Lloyds Banking Group. A credit scoring system will consider information from these sources, to make an overall assessment of your application.
+You can choose not to give us personal information. In this section we explain the effects this may have.
 
- The credit scoring methods used are regularly tested to ensure they remain fair, effective and unbiased.  Using a credit scoring system helps our Group companies to lend responsibly. If you submit an application and it is declined through this automated process, you can contact us within 21 days to have the decision reconsidered. You also have the right to ask that the decision is not made based solely using a credit scoring system.
+We may need to collect personal information by law, or to enter into or fulfil a contract we have with you.
 
-### How we use Credit Reference Agencies
+If you choose not to give us this personal information, it may delay or prevent us from fulfilling our contract with you, or doing what we must do by law. It may also mean that we cannot run your accounts or policies. It could mean that we cancel a product or service you have with us.
 
-Credit Reference Agencies (CRAs) collect and maintain information about consumers' and businesses' credit behaviour. This includes Electoral Register, fraud prevention, and credit information - including details of previous applications and the conduct of your accounts - and public information such as County Court Judgements, decrees, and bankruptcies.
+We sometimes ask for information that is useful, but not required by law or a contract. We will make this clear when we ask for it. You do not have to give us these extra details and it won't affect the products or services you have with us.
 
- The information that Lloyds Banking Group companies and other organisations provide to credit reference agencies about you, your financial associates and your business (if you have one) may be provided to other organisations and used by them and us to: 
+* * *
 
- (a) help make decisions, for example when:  
-   (i) checking details on applications for credit and credit-related or other facilities;  
-   (ii) managing credit and credit-related accounts or facilities;  
-   (iii) recovering debt;  
-   (iv) checking details on proposals and claims for all types of insurance;  
-   (v) checking details of job applicants and employees;  
-(b) detect and prevent crime, fraud and money laundering.  
-(c) check your credit history;  
-(d) verify your identity if you, or someone financially linked with you, applies for services;  
-(e) trace your whereabouts; and  
-(f) undertake research, statistical analysis and systems testing.
+### Cookies
 
- If a Lloyds Banking Group company needs to make a credit decision when you apply for a credit-based product or service (e.g. mortgage, personal loan, credit card, or current account) or to review the amount of credit it provides under an existing agreement, such as an overdraft, your records will be searched, along with those of anyone who is financially associated with you such as your spouse or partner. The CRA will keep a record of this search and place a "footprint" on your credit file, whether or not the application proceeds.
+This section contains a link to our Cookies Policy
 
- We may give details of your account and how you conduct it to credit reference agencies, including if you borrow and do not repay in full and on time. If you fall behind with your payments and a full payment or satisfactory proposals are not received within 28 days of a formal demand being issued, then a default notice may be recorded with the CRAs. Similar information may also be given about your other lending/credit relationships with members of the group. Any records shared with CRAs will remain on file for 6 years after your account is closed, whether it has been settled by you or as a result of a default. Other organisations may see these searches and updates if you apply for credit in the future, and these may affect your ability to borrow from other lenders.
+Cookies are small computer files that get sent down to your PC, tablet or mobile phone by websites when you visit them. They stay on your device and get sent back to the website they came from, when you go there again. Cookies store information about your visits to that website, such as your choices and other details. Some of this data does not contain personal details about you or your business, but it is still protected by this Privacy notice.
 
- If you apply for or hold an account in joint names, or tell us that you have a spouse or financial associate, a financial association will be created between your records, including any previous and subsequent names used by you. This means that your financial affairs may be treated as affecting each other. These links will remain on your and their files until such time as you or your partner is successful in applying for a disassociation with the CRAs to break that link. You must be sure that you have their agreement to disclose information about them. Searches may be made on all joint applicants, and search footprints will be left on all applicants’ records.
+To find out more about how we use cookies, please see our [Cookies Policy](https://www.bankofscotland.co.uk/securityandprivacy/cookies/)
 
- You have a right to apply to the credit reference agencies for a copy of your file.   
-We carry out most of our credit searches using Experian, but details of how you have run your account(s) may be disclosed to all the credit reference agencies. The information they hold may not be the same and there is a small fee that you may need to pay to each agency that you apply to. Their addresses are: 
+* * *
 
- Experian Consumer Help Service, PO Box 9000, Nottingham NG80 7WP or call [0344 481 8000](tel:0 344 481 8000) or log on to [www.experian.co.uk](http://www.experian.co.uk/)  
-Equifax plc, Credit File Advice Centre, PO Box 1140, Bradford BD1 5US or log on to [www.equifax.co.uk](http://www.equifax.co.uk/)  
-CallCredit, Consumer Services Team, PO Box 491, Leeds LS3 1WZ or call [0330 024 7579](tel:0 330 024 7579) or log on to [www.callcredit.co.uk](http://www.callcredit.co.uk/)
+## [](https://www.bankofscotland.co.uk/securityandprivacy/cookies/)The control you have
 
-### Using Fraud Prevention Agencies
+### How to complain
 
-We have systems that protect our customers and ourselves against fraud and other crime. Customer information can be used to prevent crime and trace those responsible. We will share your personal information from your application with fraud prevention agencies. If false or inaccurate information is provided and fraud is identified, details of this fraud will be passed to these agencies. Law enforcement agencies may access and use this information. We and other organisations may also access and use this information to prevent fraud and money laundering, for example, when:  
-Checking details on applications for credit and credit related or other facilities.  
-Managing credit and credit related accounts or facilities.  
-Recovering debt.  
-Checking details on proposals and claims for all types of insurance.  
-Checking details of job applicants and employees.
+This section gives details of how to contact us to make a complaint about data privacy. It also shows you where you can get in touch with the government regulator.
 
- Please contact us on [0345 602 7174](tel:0 345 602 7174) if you want to receive details of the relevant fraud prevention agencies. We and other organisations may access and use from other countries the information recorded by fraud prevention agencies.
+Please let us know if you are unhappy with how we have used your personal information. You can contact us using our [secure online contact form](https://www.bankofscotland.co.uk/contactus/how-to-complain/complain-online/).
 
-### How we check your identity
+You also have the right to complain to the regulator, and to lodge an appeal if you are not happy with the outcome of a complaint.
 
-We may ask you to provide physical forms of identity verification when you open your account.  Alternatively, we may search credit reference agency files in assessing your application. The agency also gives us other details and information from the Electoral Register to verify your identity. The agency keeps a record of our search, whether or not your application proceeds. Our search is not seen or used by lenders to assess your ability to obtain credit.
+In the UK this is the Information Commissioner’s Office. Find out on their website how to [report a concern](https://ico.org.uk/concerns/).
 
-### Undertaking Anti-Money Laundering checks
+In Jersey, please contact the [Office of the Information Commissioner](https://oicjersey.org/online-enquiry/#/complain/form)  
+In Guernsey, please contact the [Office of the Data Protection Commissioner](https://dataci.gg/online-enquiry/#/complain/form)  
+In Isle of Man, please contact the [Information Commissioner](https://inforights.im/contact-us)
 
-To comply with money laundering regulations, there are times when we need to confirm (or reconfirm) the name and address of our customers. This information may be shared with other group companies. For more details about identity checks, please refer to [proving your identity.](https://web.archive.org/SecurityandPrivacy/privacy/proving-your-identity/default.asp)
+* * *
 
-### Obtaining information about you, and other personal details
+### How to withdraw your consent  
+[](https://inforights.im/contact-us)
 
-When you apply for a mortgage or further borrowing it may be necessary to obtain references, details of your existing financial commitments, and any other information that is required to assess or review lending risks, to recover debts, and to prevent or detect fraud. Where applicable, your current and previous employers, accountant, landlord, lender, bank, insurance or pension company may be contacted to obtain this information. In limited circumstances these references may need to be obtained after you open your account. This may be for regulatory purposes, or if the lending decision needs to be reviewed. Your permission to obtain these references will therefore continue to apply after your account has been opened. It may also be necessary to obtain information or documentation from your solicitor relating to any work they carry out either on your or our behalf.
+This section explains what to do if you no longer want us to hold or use your personal information.
 
-### Using your details for service contact
+You can withdraw your consent at any time. Please contact us if you want to do so.
 
-Making sure we deliver excellent customer service is very important to us and to do this various methods of communication may be used when sending you information about your account. Most of the time you will be contacted by letter or telephone, but you may also be sent updates by text message or email when it is believed to be appropriate. You can ask us to stop sending these messages at any time. Additionally, in extraordinary circumstances (such as natural disaster or civil unrest) we may also send you updates by text message or email. If we decide to use email to contact you, we will only do this if we have ensured that using email will not put your information at risk, or, if you have requested we email you, that we have explained the risks of sending an "insecure" email and that you are happy to accept that risk.
+This will only affect the way we use information when our reason for doing so is that we have your consent. See the section 'Your Rights' about more generally restricting use of your information.
 
- In addition you may wish to choose a channel of communication that suits you when you need to contact us. If you need to email a Lloyds Banking Group company, we recommend you check their website to see if a secure email facility exists so that your email can be sent securely. If you send us emails in other ways, such as from your personal account, then remember that the message may not be secure and there is a risk that it could be intercepted. If you choose to send an "insecure" email, please keep the amount of confidential information you include to a minimum.
+If you withdraw your consent, we may not be able to provide certain products or services to you. If this is so, we will tell you.
 
-### Recording phone calls
+* * *
 
-We may monitor or record phone calls with you in case we need to check we have carried out your instructions correctly, to resolve queries or issues, for regulatory purposes, to help improve our quality of service, and to help detect or prevent fraud or other crimes. Conversations may also be monitored for staff training purposes.
+### Letting us know if your personal information is incorrect
 
-### Using information on social networking sites
+Here you can find out how to contact us if you think the information we hold for you is wrong, incomplete or out of date.
 
-As part of our ongoing commitment to understanding our customers better, we may research comments and opinions made public on social networking sites such as Twitter and Facebook.
+You have the right to question any information we have about you that you think is incorrect. We’ll take reasonable steps to check this for you and correct it.
 
-### Obtaining a copy of your information
+If you want to do this you can visit one of our branches or call us on [0345 721 3141](tel:+03457213141) (+44 1313 37 42 18 from outside the UK). Lines are open 24 hours a day, 7 days a week. Calls may be monitored or recorded.
 
-Under the Data Protection Act you have the right of access to your personal data. The Act allows us to charge a fee of £10 for this service. If anything is inaccurate or incorrect, please let us know and we will correct it. For further details on how to request a copy of your information, please write to the:
+If you have a hearing or speech impairment you can also call us using the Next Generation Text (NGT) service. Simply dial 18001 and then the telephone number.
 
- DSAR  
+If you’re Deaf and a BSL user, you can talk to us live through a BSL interpreter online using our [BSL SignVideo service](https://www.bankofscotland.co.uk/contactus/signvideo/).
+
+* * *
+
+### How to get a copy of your personal information
+
+This section tells you where to write to us to get a copy of your personal information, and how to ask for a digital file you can use yourself or share easily with others. You can do this online or by writing to us.
+
+You can get a copy of all the personal information we hold about you by filling in [this form](https://apply.bankofscotland.co.uk/personal/a/gforms?formId=F010&prodType=GN) or by writing to us at this address:
+
+DSAR  
 PO Box 791  
 Leeds  
 LS1 9LR
 
-You can also submit your request for a DSAR via our [online form](https://apply.bankofscotland.co.uk/personal/a/gforms?formId=F010&prodType=GN "DSAR online form"). This is a trial online form and is non chargeable. If you have any queries around completing the form, you can email us at [DSAROnlineFormHelp@LloydsBanking.com](mailto:DSAROnlineFormHelp@LloydsBanking.com "Email DSAR team"). We aim to respond to your queries within 48 hours.
+**When you want to share your data with outside companies**
 
-### Using your personal information to contact you about products and services
+You also have the right to get certain personal information from us as a digital file, so you can keep and use it yourself, and give it to other organisations if you choose to. 
 
-Lloyds Banking Group companies will use your personal information so we can provide you with product details and offers that are more relevant to you. This may include products and services from companies outside of our Group if we believe it may be of interest to you or benefit you financially, and it could continue after your relationship with us ends.
+If you wish, we will provide it to you in an electronic format that can be easily re-used, or you can ask us to pass it on to other organisations for you. 
 
-We might contact you by mail, telephone, email, or text unless you have asked us not to. If you are an Internet Banking customer, we may also display personalised advertising to you when you use our Internet Banking service and mobile app, through other digital channels (such as other websites or digital TV). You can change your preferences at any time by calling us, writing to us, contacting your local branch or by updating them online. If you do opt out, you may still see some generic, non-personalised advertising when you are using digital channels.
+If you want to do this you can visit one of our branches, or call us on [0345 721 3141](tel:+03457213141) (+44 1313 37 42 18 from outside the UK). Lines are open 24 hours a day, 7 days a week. Calls may be monitored or recorded.
 
-We will not provide information about you to companies outside our Group to use for their own marketing purposes unless you have given us your consent.
+If you have a hearing or speech impairment you can also call us using the Next Generation Text (NGT) service. Simply dial 18001 and then the telephone number.
 
-### Using cookies
+If you’re Deaf and a BSL user, you can talk to us live through a BSL interpreter online using our [BSL SignVideo service](https://www.bankofscotland.co.uk/contactus/signvideo/).
 
-In general, you can visit Lloyds Banking Group websites without identifying who you are or revealing any information about yourself. However, cookies are used to store small amounts of information on your computer, which allows certain information from your web browser to be collected. Cookies are widely used on the internet and do not identify the individual using the computer, just the computer being used. Cookies and other similar technology make it easier for you to log on to and use our websites during future visits.
+* * *
 
- To access our cookie notice, please go to the [cookie policy page](https://web.archive.org/securityandprivacy/cookies/).
+### Your rights
 
-### Changes to Privacy Notice
+What if you want us to stop using your personal information? This section explains about your right to object and other data privacy rights you have – as well as how to contact us about them.
 
-We keep our privacy notice under regular review and we will reflect any updates within this notice.
+You can object to us keeping or using your personal information. This is known as the ‘right to object’.
+
+You can also ask us to delete, remove, or stop using your personal information if there is no need for us to keep it. This is known as the ‘right to erasure’ or the ‘right to be forgotten’.
+
+There may be legal or other official reasons why we need to keep or use your data. But please tell us if you think that we should not be using it.
+
+We may sometimes be able to restrict the use of your data. This means that it can only be used for certain things, such as legal claims or to exercise legal rights.
+
+You can ask us to restrict the use of your personal information if:
+
+  * It is not accurate
+  * It has been used unlawfully but you don’t want us to delete it
+  * It is not relevant any more, but you want us to keep it for use in legal claims
+  * You have already asked us to stop using your data but you are waiting for us to tell you if we are allowed to keep on using it
+
+
+
+If we do restrict your information in this way, we will not use or share it in other ways while it is restricted.
+
+If you want to object to how we use your data, or ask us to delete it or restrict how we use it you can call us on [0345 721 3141](tel:+03457213141) (+44 1313 37 42 18 from outside the UK). Lines are open 24/7. Calls may be monitored or recorded.
+
+If you have a hearing or speech impairment you can also call us using the Next Generation Text (NGT) service. Simply dial 18001 and then the telephone number.
+
+If you’re Deaf and a BSL user, you can talk to us live through a BSL interpreter online using our [BSL SignVideo service](https://www.bankofscotland.co.uk/contactus/signvideo/).
+
+* * *
+
+## How personal information is used
+
+### Who we share your personal information with
+
+We may share your personal information with outside organisations such as credit card providers, insurers or tax authorities. This is so that we can provide you with products and services, run our business, and obey rules that apply to us. Here we list all the types of organisation that we may share your personal information with.
+
+**Lloyds Banking Group**  
+We may share your personal information with other companies in Lloyds Banking Group.
+
+**Authorities**  
+This means official bodies that include:
+
+  * Central and local government
+  * HM Revenue & Customs, regulators and other tax authorities
+  * UK Financial Services Compensation Scheme and other deposit guarantee schemes
+  * Law enforcement and fraud prevention agencies
+
+
+
+**Banking and financial services**  
+Outside companies we work with to provide services to you and to run our business.
+
+  * Agents, suppliers, sub-contractors and advisers  
+These are types of firm that we use to help us run accounts, policies and services.
+  * Agents who help us to collect what is owed to us
+  * Credit reference agencies (such as Callcredit, Equifax and Experian)
+  * Someone linked with you or your business’s product or service.  
+This could mean a joint account holder, trustee, or fellow company director.
+  * Other financial services companies (to help prevent, detect and prosecute unlawful acts and fraudulent behaviour)
+  * Independent Financial Advisors.  
+This could be someone who advises you on things like pensions or life assurance. We won’t share any personal information unless they have your consent to ask us for it.
+  * Price comparison websites and similar companies
+  * Employers (for instance, to confirm your identity if we ask for a mortgage reference)
+  * Companies you ask us to share your data with
+
+
+
+This is to do with something called [Open Banking](https://www.openbanking.org.uk/customers/), which gives you more freedom and control to use your own banking data. It can make it easier for you or your business to shop around for products like credit cards, savings and current accounts.
+
+**Insurers**  
+We share personal information with insurance industry companies to process claims and help reduce fraud. We do that in these ways:
+
+  * If you apply for insurance through us, we may pass your personal or business details to the insurer.
+  * If you apply for insurance with us as the insurer, we may share your personal or business details with reinsurers.
+  * If you make an insurance claim, information you give to us or the insurer may be put on a register of claims. This will be shared with other insurers, our agents, suppliers and sub-contractors. In some cases we may also share it with our business partners, if you also have a relationship with them.
+
+
+
+**Other services and schemes**  
+These are organisations that we may need to share your personal information with, because of what you can do with the product or service you have with us.
+
+  * If you have a debit, credit or charge card with us, we will share transaction details with companies which help us to provide this service (such as Visa and Mastercard).  
+This is needed to keep your account balance and statements up to date, for example.
+  * If you use direct debits, we will share your data with the Direct Debit scheme.
+  * If you have a product which has a loyalty scheme like Avios or Everyday Offers, we will share your data with that scheme.
+  * If you have a product with benefits such as travel insurance or discount offers, we will share your data with the benefit providers. We may also share it with other companies involved in how you use the service (such as a private car park operator).
+  * If you have a secured loan or mortgage with us, we may share information with other lenders who also hold a charge on the property (For example, the other party in a shared ownership scheme)
+
+
+
+**General business**  
+Outside companies we use to help grow and improve our business.
+
+  * Companies we have a joint venture or agreement to co-operate with (such as a store or car dealership offering finance deals through us)
+  * Organisations that introduce you to us.  
+This might be a store or car dealership that offers finance deals through us, or a price comparison website.
+  * Market researchers.  
+We send data which these firms combine with data from other sources to produce market trend reports and advice.
+  * Advisers who help us to come up with new ways of doing business.  
+This might be a legal firm, IT supplier or consultancy.
+
+
+
+**Company mergers and takeovers**  
+We may also share your personal information if the make-up of Lloyds Banking Group changes in the future:
+
+  * We may choose to sell, transfer, or merge parts of our business, or our assets. Or we may try to bring other businesses into Lloyds Banking Group.  
+This is sometimes called Mergers & Acquisitions or ‘company takeovers’.
+  * During any such process, we may share your data with other parties involved. We’ll only do this if they agree to keep your data safe and private.
+  * If the change to our Group happens, then other parties may use your data in the same way as set out in this notice.
+
+
+
+* * *
+
+### How we work out what marketing you receive
+
+We use marketing to let you know about products, services and offers that you may want from us. This section tells you how we decide what marketing to show or send you. It also explains how we work out what you may be interested in.  
+We may use your personal information to make decisions about what products, services and offers we think you may be interested in. This is what we mean when we talk about ‘marketing’.
+
+We can only use your personal information to send you marketing messages if we have either your consent or a ‘legitimate interest’. That is when we have a business or commercial reason to use your information. It must not conflict unfairly with your own interests.
+
+The personal information we have for you is made up of what you tell us, and data we collect when you use our services, or from outside organisations we work with. We study this to form a view on what we think you may want or need, or what may be of interest to you. This is how we decide which products, services and offers may be relevant for you.
+
+This is called profiling for marketing purposes. You can contact us at any time and ask us to stop using your personal information this way.
+
+If you allow it, we may show or send you marketing material online (on our own and other websites including social media), in our app, or by email, mobile phone or post.
+
+What you get will depend on marketing choices that you set. You can change these at any time and tell us to stop sending you marketing.
+
+You can also tell us not to collect data while you are using our websites or mobile apps. If you do, you will still see some marketing but it will not be tailored to you. See our [Cookies policy](https://www.bankofscotland.co.uk/securityandprivacy/cookies/) for details about how we use this data to improve our websites and mobile apps.
+
+Whatever you choose, you'll still receive statements and other important information such as changes to your existing products and services.
+
+We do not sell the information we have about you to outside organisations.
+
+We may ask you to confirm or update your choices, if you take out any new products or services with us in future. We will also ask you to do this if there are changes in the law, regulation, or the structure of our business.
+
+If you change your mind you can contact us to update your choices at any time.
+
+* * *
+
+### How we use your information to make automated decisions
+
+Here we tell you how we use automated systems to make decisions about you and your money. We also explain the rights you have to challenge decisions made this way.  
+We sometimes use systems to make automated decisions about you or your business. This helps us to make sure our decisions are quick, fair, efficient and correct, based on what we know. Automated decisions can affect the products, services or features we may offer you now or in the future, or the price that we charge you for them. They are based on personal information that we have or that we are allowed to collect from others.
+
+Here are the types of automated decision we make:
+
+**Pricing**  
+We may decide what to charge for some products and services based on what we know. For instance, if you use our online mortgage calculator, it will use the personal financial details you put in to estimate the kind of mortgage we may offer you. If you apply for insurance, we will compare what you tell us with other records to work out how likely you are to make a claim. This will help us decide whether to offer you the product and what price to charge you.
+
+**Tailoring products, services, offers and marketing**  
+We may place you in groups with similar customers. These are called customer segments. We use these to study and learn about our customers’ needs, and to make decisions based on what we learn. This helps us to design products, services and offers for different customer segments, and to manage our relationships with them. It also helps us tailor the marketing that individuals receive or are shown on our own and other websites and mobile apps, including social media.
+
+**Detecting fraud**  
+We use your personal information to help decide if your personal or business accounts may be being used for fraud or money-laundering. We may detect that an account is being used in ways that fraudsters work. Or we may notice that an account is being used in a way that is unusual for you or your business. If we think there is a risk of fraud, we may stop activity on the accounts or refuse access to them.
+
+**Opening accounts**  
+When you open an account with us, we check that the product or service is relevant for you, based on what we know. We also check that you or your business meet the conditions needed to open the account. This may include checking age, residency, nationality or financial position.
+
+**Approving credit**  
+We use a system to decide whether to lend money to you or your business, when you apply for credit such as a loan or credit card. This is called credit scoring. It uses past data to assess how you’re likely to act while paying back any money you borrow. This includes data about similar accounts you may have had before.
+
+Credit scoring uses data from three sources:
+
+  * Your application form
+  * Credit reference agencies
+  * Data we may already hold
+
+
+
+It gives an overall assessment based on this. Banks and other lenders use this to help us make responsible lending decisions that are fair and informed.
+
+Credit scoring methods are tested regularly to make sure they are fair and unbiased.
+
+**Your rights**  
+As a person you have rights over automated decisions.
+
+  * You can ask that we do not make our decision based on the automated score alone
+  * You can object to an automated decision, and ask that a person reviews it
+
+
+
+If you want to know more about these rights, please contact us.
+
+* * *
+
+### Credit Reference Agencies (CRAs)
+
+This section explains how we work with outside companies to decide whether to lend you money through products like credit cards or loans. It explains what we do and why we do it.  
+We carry out credit and identity checks when you apply for a product or services for you or your business. We may use Credit Reference Agencies to help us with this.
+
+If you use our services, from time to time we may also search information that the CRAs have, to help us manage those accounts.
+
+We will share your personal information with CRAs and they will give us information about you. The data we exchange can include:
+
+  * Name, address and date of birth
+  * Credit application
+  * Details of any shared credit
+  * Financial situation and history
+  * Fraud prevention information
+  * Public information, from sources such as the Electoral Register and Companies House
+
+
+
+We’ll use this data to:
+
+  * Assess whether you or your business is able to afford to make repayments
+  * Make sure what you’ve told us is true and correct
+  * Help detect and prevent financial crime
+  * Manage your accounts with us
+  * Trace and recover debts
+  * Tell you about relevant offers
+
+
+
+We will go on sharing your personal information with CRAs for as long as you are a customer. This will also include details of funds going into the account, and the account balance. If you borrow, it will also include details of your repayments and whether you repay in full and on time. We will also tell the CRAs when you settle your accounts with us. The CRAs may give this information to other organisations that want to check your credit status.
+
+When we ask CRAs about you or your business, they will note it on your credit file. This is called a credit search. Other lenders may see this and we may see credit searches from other lenders.
+
+If you apply for a product with someone else, we will link your records with theirs. We will do the same if you tell us you have a spouse, partner or civil partner – or that you are in business with other partners or directors.
+
+You should tell them about this before you apply for a product or service. It is important that they know your records will be linked together, and that credit searches may be made on them.
+
+CRAs will also link your records together. These links will stay on your files unless one of you asks the CRAs to break the link. You will normally need to give proof that you no longer have a financial link with each other.
+
+You can find out more about the CRAs on their websites, in the Credit Reference Agency Information Notice. This includes details about:
+
+  * Who they are
+  * Their role as fraud prevention agencies
+  * The data they hold and how they use it
+  * How they share personal information
+  * How long they can keep data
+  * Your data protection rights
+
+
+
+Here are links to the information notice for each of the three main Credit Reference Agencies:  
+[Callcredit](https://www.callcredit.co.uk/crain)  
+[Equifax](https://www.equifax.co.uk/crain)  
+[Experian](https://www.experian.co.uk/crain)
+
+* * *
+
+### Fraud prevention agencies
+
+This section deals with information we share outside our group to help fight financial crime. This includes crimes such as fraud, money-laundering and terrorist financing.  
+We may need to confirm your identity before we provide products or services to you or your business. This may include carrying out fraud checks at the point of sale.
+
+Once you have become a customer of ours, we will share your personal information as needed to help combat fraud and other financial crime. The organisations we share data with are:
+
+  * Registered Fraud Prevention Agencies (FPAs)
+  * Other agencies and bodies acting for the same purpose
+  * Industry databases used for this purpose
+  * Insurers
+
+
+
+Throughout our relationship with you, we and these organisations exchange data between us to help prevent, deter, detect and investigate fraud and money-laundering.
+
+None of us can use your personal information unless we have a proper reason to do so. It must be needed either for us to obey the law, or for a ‘legitimate interest’.
+
+When we have a business or commercial reason of our own to use your information, this is called a ‘legitimate interest’. We will tell you what that is, if we are going to rely on it as the reason for using your data. Even then, it must not unfairly go against your interests.
+
+We will use the information to:
+
+  * Confirm identities
+  * Help prevent fraud and / or money-laundering
+  * Fulfil any contracts you or your business has with us
+
+
+
+We or an FPA may allow law enforcement agencies to access your personal information. This is to support their duty to prevent, detect, investigate and prosecute crime.
+
+These other organisations can keep personal information for different lengths of time, up to six years.
+
+**The information we use**  
+These are some of the kinds of personal information that we use:
+
+  * Name
+  * Date of birth
+  * Residential address
+  * History of where you have live
+  * Contact details, such as email addresses and phone numbers
+  * Financial data
+  * Whether you have been a victim of fraud
+  * Data about insurance claims you have made
+  * Data relating to your or your businesses products or services
+  * Employment details
+  * Vehicle details
+  * Data that identifies computers or other devices you use to connect to the internet. This includes your Internet Protocol (IP) address.
+
+
+
+**Automated decisions for fraud prevention**  
+The information we have for you or your business is made up of what you tell us, and data we collect when you use our services, or from third parties we work with.
+
+We and other organisations acting to prevent fraud may process your personal information in systems that look for fraud by studying patterns in the data. We may find that an account or policy is being used in ways that fraudsters work. Or we may notice that an account is being used in a way that is unusual for you or your business. Either of these could indicate a risk that fraud or money-laundering may be carried out against a customer, the bank or the insurer.
+
+**How this can affect you**  
+If we or an FPA decide there is a risk of fraud, we may stop activity on the accounts or block access to them. FPAs and cross-industry organisations may also keep a record of the risk that you or your business may pose.
+
+This may result in other organisations refusing to provide you with products or services, or to employ you.
+
+**Data transfers out of the EEA**  
+FPAs and other organisations we share data with for these purposes may send personal information to countries outside the European Economic Area (‘EEA’). When they do, there will be a contract in place to make sure the recipient protects the data to the same standard as the EEA. This may include following international frameworks for making data sharing secure.
+
+* * *
+
+### Sending data outside the EEA
+
+This section tells you about the safeguards that keep your personal information safe and private, if it is sent outside the EEA.  
+We will only send your data outside of the European Economic Area (‘EEA’) to:
+
+  * Follow your instructions
+  * Comply with a legal duty
+  * Work with our suppliers who help us to run your accounts and services
+
+
+
+If we do transfer your personal information outside the EEA to our suppliers, we will make sure that it is protected to the same extent as in the EEA. We’ll use one of these safeguards:
+
+  * Transfer it to a non-EEA country with privacy laws that give the same protection as the EEA. Learn more on the [European Commission Justice website](http://ec.europa.eu/justice/data-protection/international-transfers/adequacy/index_en.htm).
+  * Put in place a contract with the recipient that means they must protect it to the same standards as the EEA. Read more about this here on the [European Commission Justice website](http://ec.europa.eu/justice/data-protection/international-transfers/adequacy/index_en.htm).
+  * Transfer it to organisations that are part of Privacy Shield. This is a framework that sets privacy standards for data sent between the US and EU countries. It makes sure those standards are similar to what is used within the EEA. You can find out more <about data protection on the [European Commission Justice website](http://ec.europa.eu/justice/data-protection/data-collection/data-transfer/index_en.htm)
+
+
