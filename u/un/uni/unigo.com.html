@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the unigo.com privacy policy that was archived on 2017-07-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170710213118id_/https%3A//www.unigo.com/aboutus/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the unigo.com privacy policy that was archived on 2018-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180609195823id_/https%3A//www.unigo.com/aboutus/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js july monday hourOdd"><!--<![endif]--><head>
+<!DOCTYPE html><html class="no-js june saturday hourOdd"><!--<![endif]--><head>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -19,12 +19,12 @@
     <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M8KD2G"></script><script src="/cms/scripts/app.config.js"></script>
     
 
-<script src="https://cdn.optimizely.com/js/6448492354.js"></script>
+<script type="text/javascript" src="//cdn-3.convertexperiments.com/js/10021707-10021333.js"></script>
 
 <script src="https://unigoapp.azureedge.net/match/scripts/bundle-browser.min.js?8ac17fc936d36cfdd96cbce006569ac3"></script>
 
 <!-- Unigo CSS -->
-<link rel="stylesheet" href="https://unigoapp.azureedge.net/match/content/css/bundle.min.css?2b89e44840813973dee35527dcc943c7" type="text/css">
+<link rel="stylesheet" href="https://unigoapp.azureedge.net/match/content/css/bundle.min.css?9d9607bba1437be3fd12f52fd1a79b83" type="text/css">
 
 
 
@@ -92,11 +92,9 @@
                             <ul>
                                 <li class="has-dropdown"><a href="https://www.unigo.com/colleges" title="Search for colleges" class="find-your-college">Colleges</a>
                                     <ul class="dropdown">
-                                        <li><a data-gtm-event="headerNav" href="https://www.unigo.com/colleges" title="Search for colleges">College Search</a></li>
-                                        <li><a data-gtm-event="headerNav" href="https://live.unigo.com/upcoming_events" title="Participate in live streaming college events">Live Events</a></li>
+                                        <li><a data-gtm-event="headerNav" href="https://www.unigo.com/colleges" title="Search for colleges">College Search</a></li>                                        
                                         <li><a data-gtm-event="headerNav" href="https://www.unigo.com/admissions-advice" title="Expert Admissions Advice">Expert Admissions Advice</a></li>
                                         <li><a data-gtm-event="headerNav" href="https://www.unigo.com/review-a-college" title="Review a college">Review a College</a></li>
-                                        <li><a data-gtm-event="headerNav" href="https://www.unigo.com/jobs-internships" title="Find a job or internship">Jobs / Internships</a></li>
                                     </ul>
                                 </li>
                                 <li class="has-dropdown"><a href="https://www.unigo.com/scholarships" title="Get matched to scholarships that are perfect for you" class="get-in">Scholarships</a>
@@ -137,54 +135,40 @@
                             </li>
 
                             <!-- My Unigo Task List -->
-                            
-                            <li id="myUnigoTasks" class="has-dropdown">
+                            <li id="myUnigoTasks" class="has-dropdown" ng-controller="notificationsController">
                                 
 <a href="#" class="myNextTasks__link  top-bar__link--icon  icon-line-clipboard-check">
     <div class="notif" style="display:block;">
-            <span class="notifBadge">4</span>
+       <span class="notifBadge" style="display: none;" ng-style="NotificationData.ActiveCount > 0 ? {'display': 'inline'} : {'display': 'none'}" ng-bind="NotificationData.ActiveCount"></span>
     </div>
 </a>
 <ul class="myNextTasks dropdown">
     <li>
         <div class="myNextTasks  NotLoggedIn">
-
-
-
-
-
-<div class="tile myNextTasks__tile">
-    <h3 class="tile__heading">Do this next!</h3>
-    <p class="tile__content  tile__content--smalli"><a href="https://www.unigo.com/match/register?redirecturl=https%3a%2f%2fmatchapi.unigo.com%2fmatch%2fforcms%2fmatchheader%3freturnUrl%3dhttps%3a%2f%2fwww.unigo.com%2faboutus%2fprivacy%26isAuthenticated%3dFalse%26visitorGuid%3d">Sign up </a> or <a href="https://www.unigo.com/match/login?redirecturl=https%3a%2f%2fmatchapi.unigo.com%2fmatch%2fforcms%2fmatchheader%3freturnUrl%3dhttps%3a%2f%2fwww.unigo.com%2faboutus%2fprivacy%26isAuthenticated%3dFalse%26visitorGuid%3d"> log in</a> to see your progress.</p>
-</div>
-<ul class="myNextTasks__list  NotLoggedIn">
-    <li class="myNextTasks__list-item  scholarship-match-start">
-        <a data-gtm-event="tasksNav" href="https://www.unigo.com/scholarships/match" data-gtm-info="gtm.elementText">
-            <span><i class="icon-checkmark"></i></span>
-            Complete the Scholarship Match
-        </a>
-    </li>
-    <li class="myNextTasks__list-item  college-match-start">
-        <a data-gtm-event="tasksNav" href="https://www.unigo.com/college-match">
-            <span><i class="icon-checkmark"></i></span>
-            Complete the College Match
-        </a>
-    </li>
-    <li class="myNextTasks__list-item  college-review-start">
-        <a data-gtm-event="tasksNav" href="https://www.unigo.com/review-a-college">
-            <span><i class="icon-checkmark"></i></span>
-            Review a college
-        </a>
-    </li>
-    <li class="myNextTasks__list-item  tenK-start">
-        <a data-gtm-event="tasksNav" href="https://www.unigo.com/scholarships/free-scholarship">
-            <span><i class="icon-checkmark"></i></span>
-            Apply for the Unigo $10K Scholarship
-        </a>
-    </li>
-</ul>
-
-
+            <div class="tile myNextTasks__tile">
+                <h3 class="tile__heading cP">Notifications</h3>
+                    <p class="tile__content  tile__content--smalli"><a href="https://www.unigo.com/match/register?redirecturl=https%3a%2f%2fmatchapi.unigo.com%2fmatch%2fforcms%2fmatchheader%3freturnUrl%3dhttps%3a%2f%2fwww.unigo.com%2faboutus%2fprivacy%26isAuthenticated%3dFalse%26visitorGuid%3d">Sign up </a> or <a href="https://www.unigo.com/match/login?redirecturl=https%3a%2f%2fmatchapi.unigo.com%2fmatch%2fforcms%2fmatchheader%3freturnUrl%3dhttps%3a%2f%2fwww.unigo.com%2faboutus%2fprivacy%26isAuthenticated%3dFalse%26visitorGuid%3d"> log in</a> to manage your notifications.</p>
+            </div>
+            <ul class="myNextTasks__list" ng-show="NotificationData.ActiveCount > 0">
+                <li ng-class="'myNextTasks__list-item' + (notification.Status === 2 ? ' task-complete' : '')" ng-repeat="notification in NotificationData.ActiveNotifications">
+                    <div class="dismissIcon">
+                        <a class="dismiss" ng-click="DismissNotification(notification,$event);" ng-show="NotificationData.IsAuthenticated" title="Dismiss">
+                            <i class="icon-circle-x"></i>
+                        </a>
+                    </div>
+                    <div class="taskIcon">
+                        <a class="task" data-gtm-event="tasksNav" ng-href="{{notification.Url}}">
+                            <span><i class="icon-arrowb-right"></i></span>
+                            {{notification.Description}}
+                        </a>
+                    </div>
+                    
+                </li>
+            </ul>
+            <div ng-show="NotificationData.ActiveCount == 0" class="yay">
+                <span><i class="icon icon-linecons-heart"></i></span>
+                    Yay! You're all caught up.
+            </div>
         </div>
     </li>
 </ul>
@@ -277,10 +261,6 @@
 
                     </li>
                     <li>
-                        <a href="/aboutus/team">Team</a>
-
-                    </li>
-                    <li>
                         <a href="/aboutus/milestones">Milestones</a>
 
                     </li>
@@ -293,11 +273,7 @@
 
                     </li>
                     <li>
-                        <a href="/aboutus/enrollment-marketing">Enrollment Marketing</a>
-
-                    </li>
-                    <li>
-                        <a href="/aboutus/contact">Contact</a>
+                        <a href="/aboutus/contact-us">Contact</a>
 
                     </li>
                     <li class="active">
@@ -329,8 +305,9 @@
 
 <div class="margin-bottom-20">
     <a href="http://www.unigogroup.com" target="_blank">Unigo</a><br>
-    220 NW 8th Avenue<br>
-    Portland, OR 97209<br>
+    5 Marine View Plaza<br>
+	Suite 212<br>
+    Hoboken, NJ 07030<br>
 </div>
 
         </div>
@@ -461,7 +438,7 @@
 <p><a name="Contact"></a><strong>Contacting Us<br></strong>If you have questions or concerns about this Privacy Notice, our information practices, or wish to make a request regarding your information, please contact us at any of the following:</p>
 <ul>
 <li>Unigo, Attn: Customer Support, <span>220 NW Eighth Avenue, Portland, OR 97209</span><span>.</span></li>
-<li><a href="/aboutus/contact" title="Contact">Contact us by email</a></li>
+<li><a href="/aboutus/contact-us" title="Contact">Contact us by email</a></li>
 </ul>
 <p><a name="Scope"></a><strong>Privacy Notice Scope<br></strong>This Privacy Notice applies to the collection of information in association with any of the Unigo websites and online services that link to this Privacy Notice. Some of our services or offerings may be governed by alternative or additional privacy policies. For example:</p>
 <ul>
@@ -519,17 +496,17 @@
                     <li class="footer-section-item">
                         <div class="footer-logo"></div>
                     </li>
-                    <li class="footer-section-item">© 2017 ALL RIGHTS RESERVED</li>
+                    <li class="footer-section-item">© 2018 ALL RIGHTS RESERVED</li>
                 </ul>
             </li>
             <li class="footer-panel two">
                 <h5>Resources</h5>
                 <ul class="footer-section">
                     <li class="footer-section-item">
-                        <a data-gtm-event="footerNav" href="https://www.unigo.com/aboutus/add-a-scholarship-to-unigo">Add a Scholarship</a>
+                        <a data-gtm-event="footerNav" href="https://www.unigo.com/aboutus/advertising-scholarships">Add a Scholarship</a>
                     </li>
                     <li class="footer-section-item">
-                        <a data-gtm-event="footerNav" href="https://www.unigo.com/claim-your-school">College Administrators</a>
+                        <a data-gtm-event="footerNav" href="https://www.unigo.com/m/parents">Parents</a>
                     </li>
                     <li class="footer-section-item">
                         <a data-gtm-event="footerNav" href="https://www.unigo.com/m/counselors">High School Counselors</a>
@@ -546,7 +523,7 @@
                         <a data-gtm-event="footerNav" href="https://www.unigo.com/aboutus/terms">Terms of Use</a>
                     </li>
                     <li class="footer-section-item">
-                        <a data-gtm-event="footerNav" href="https://www.unigo.com/aboutus/contact">Contact Us</a>
+                        <a data-gtm-event="footerNav" href="https://www.unigo.com/aboutus/contact-us">Contact Us</a>
                     </li>
                     <li class="footer-section-item">
                         <a data-gtm-event="footerNav" href="https://www.unigo.com/aboutus">About Us</a>
@@ -578,7 +555,8 @@
     <!-- END LAYOUT -->
 
     
-<script src="https://unigoapp.azureedge.net/match/scripts/bundle.min.js?37eec7a614900dd0980ee98b31b4179f"></script>
+<script src="https://unigoapp.azureedge.net/match/scripts/bundle.min.js?5471b3145bd3f57f63c24883ce7e681c"></script>
+
 
     <div id="fromScholarshipExperts" class="reveal-modal x-large unigoRedirect" data-reveal="" aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
     <div class="modalContent">
@@ -684,7 +662,11 @@
                 $('#choosePay.reveal-modal .choosePayElse').attr('href', packageURLElse);
             });
         </script>
-    
+<script type="text/javascript">
+    $(function() {
+        angular.bootstrap($("#newHalo"), ["matchApp"]);
+    });
+</script>
 
 
 </body></html>
