@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the btc.ms privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230221154id_/http%3A//btc.ms/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btc.ms privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610014851id_/http%3A//btc.ms/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-The term 'ProLink' or 'us' or 'we' refers to the owner of the website 'ProL.ink'. The term 'you' refers to the user or viewer of our website. The term 'Content' refers to the website you are using in conjunction with the Service.
+The term 'BTC.MS' or 'us' or 'we' refers to the owner of the website 'ProL.ink'. The term 'you' refers to the user or viewer of our website. The term 'Content' refers to the website you are using in conjunction with the Service.
 
-We at ProLink respect the privacy of our visitors and are committed to preserving your online safety by preserving your privacy at anytime you visit or communicate with our site. Our privacy policy has been provided and reviewed by the solicitors at Legal Centre who specialise in online internet contracts.
+We at BTC.MS respect the privacy of our visitors and are committed to preserving your online safety by preserving your privacy at anytime you visit or communicate with our site. Our privacy policy has been provided and reviewed by the solicitors at Legal Centre who specialise in online internet contracts.
 
 Our Terms of Use and Privacy Policy offers you a thorough explanation regarding your personal data provided to us or any data we may collect from you.
 
 This Privacy Policy is updated from time to time; therefore, it should be reviewed occasionally.
 
-[For the purpose of the Data Protection Act 1998, ProLink is our data controller.]
+[For the purpose of the Data Protection Act 1998, BTC.MS is our data controller.]
 
 **1\. Collected Information**  
  
