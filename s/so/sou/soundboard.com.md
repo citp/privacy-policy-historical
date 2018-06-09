@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the soundboard.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202073930id_/http%3A//www.soundboard.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundboard.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610015146id_/http%3A//www.soundboard.com/privacy.aspx) for the most accurate reproduction.*
 
 # Soundboard.com - Privacy Policy
+
+  
+We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](http://g.ezoic.net/privacy/soundboard.com).  
+
 
 This Privacy Policy governs the manner in which SoundBoard.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the SoundBoard.com website (“Site”). This privacy policy applies to the Site and all products and services offered by SoundBoard.com.
 
