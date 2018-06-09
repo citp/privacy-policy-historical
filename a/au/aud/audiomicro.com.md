@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audiomicro.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110132936id_/http%3A//www.audiomicro.com/legal-doc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiomicro.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609180154id_/http%3A//www.audiomicro.com/legal-doc/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
