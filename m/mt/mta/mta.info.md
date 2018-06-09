@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mta.info privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205003115id_/http%3A//web.mta.info/mta/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mta.info privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609164058id_/http%3A//web.mta.info/mta/privacy.htm) for the most accurate reproduction.*
 
 # MTA - Internet Privacy Policy
 
@@ -79,7 +79,7 @@ The information provided in this Policy should not be construed as giving busine
 
 ## Contact Information
 
-For questions regarding this Policy, please _[contact the MTA Website Privacy Compliance Officer via email](https://web.archive.org/web/20171205003115id_/http%3A//web.mta.info/mta/privacy2.htm)_
+For questions regarding this Policy, please _[contact the MTA Website Privacy Compliance Officer via email](https://web.archive.org/web/20180609164058id_/http%3A//web.mta.info/mta/privacy2.htm)_
 
 or by mail to:
 
