@@ -1,98 +1,186 @@
-> *The following text is extracted and transformed from the appboy.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910124504id_/https%3A//www.appboy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appboy.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609043335id_/https%3A//www.braze.com/privacy) for the most accurate reproduction.*
 
-# Read our Privacy Policy | Appboy
+# Privacy Policy | Braze
 
-Last Revised July 1, 2015 
+**Last Updated:** May 2018
 
-## Introduction
+## PART I. GENERAL INFORMATION
 
-Appboy collects information through the use of applications created and distributed by third party developers that integrate Appboy software or services (“Developer Applications”). This privacy policy describes Appboy’s collection of information from end users of mobile devices who have downloaded a Developer Application that integrates Appboy services and from visitors to our website.
+### Our commitment to privacy
 
-This privacy policy does not govern any collection or disclosure of information by third parties, including Developer Applications. For a complete description of information gathered by any particular Developer Application, see the privacy policy for that Developer Application. If you believe an Developer Application uses Appboy software or services but does not have a privacy policy, contact us at [info@appboy.com](mailto:info@appboy.com).
+Your privacy is important to us and maintaining your trust is one of our highest priorities. Braze collects personal information from members of the public who:
 
-## What Information Does Appboy Collect?
+  * visit our website (found at [www.braze.com](https://www.braze.com/)) (the “ **Website** ”); or
+  * use applications offered by our customers (“ **Customer Applications** ”), through Customer websites, or otherwise, in the course of our Customers’ use of the Braze Services (the " **Services** ")
 
-Appboy collects information through use of Developer Applications, including:
 
-Device Information \- We collect information about devices running Developer Applications, including platform, a unique Appboy-generated ID, OS version, IP address, carrier information, and a country code.
 
-Application Usage Information \- We collect information about how Developer Applications are used, such as the frequency and duration of usage.
+To ensure that your privacy is protected and your privacy choices are respected, this Privacy Policy includes a description of our information practices, how we use tracking technologies, as well as the decisions you may make regarding how your information is collected and used.
 
-Website Information \- We may collect information provided on our website such as contact information or feedback. Additionally, we may use cookies and web beacons to monitor traffic patterns and collect information about previous visits to our web site.
+### Introduction to Braze
 
-Personally Identifiable Information \- We may collect personally identifiable information shared with Developer Applications. We may also collect personally identifiable information from third parties used for authentication, such as when a user logs in to a Developer Application using a Facebook account, and from third party partners such as Facebook, Twitter, and Klout. Personally identifiable information collected may include information like name, email address, location, gender, interests, device, app usage, user ID, and contact information.
+Braze is a U.S. company, headquartered in New York, with global operations. Braze is a life-cycle engagement platform for companies around the world (" **our Customers** "), supporting stronger relationships between brands and their clients, primarily by leveraging first party data to personalize and automate lifecycle marketing campaigns through first party channels, such as email, mobile and web push notifications, and in-app/in-browser messaging. In practical terms, this means that we collect information for our use or on behalf of our Customers to customize messages to such visitors (“ **you** ”), including marketing messages, that you may find useful and to help Braze and our Customers understand your marketing preferences. Braze acts as both a “Data Controller”, where we determine the purposes and means of the processing of personal information, and as a “Data Processor” where we process personal information on behalf of our Customers.
 
-## Does Appboy Collect Real Time Location Information?
+More information about Braze can be found at [www.braze.com](https://www.braze.com/).
 
-Appboy may collect device location information if location services are enabled for any Developer Applications on the device. We use location information to provide Developers with information about the use of their Developer Applications. See the "Opt-Out" section below for details on limiting the collection of location information.
+Where we act as a Data Processor to our Customers, we process the data collected through our Services only on behalf of our Customers, work strictly in accordance with their instructions as Data Controllers, and do not use any personal information for our own purposes.
 
-## How Does Appboy Use Information Collected from You?
+## PART II. INFORMATION WE COLLECT AS A DATA CONTROLLER AND THE PURPOSES FOR WHICH WE USE IT
 
-Appboy Internal Use \- We use information we collect to provide partner Developers with information about usage of Developer Applications that integrate the Appboy Service. 
+Braze acts as a Data Controller with respect to the personal information it collects from visitors to its Website and from its customers.
 
-Third Parties - We will share information we collect with third parties only in ways described in this privacy statement.
+### Use of personal information
 
-We may disclose information we collect :
+Braze collects personal information from users of our Website for several purposes, including enabling us to understand who is interested in learning about our products, services, content, and company related initiatives. In addition we capture communication preferences people want when engaging with our organization. In connection with those purposes, we collect and use the following types of personal information:
 
-to third parties as required by law, such as to comply with a subpoena or similar legal process;
+  * Your contact details and information about you (such as the company you work for) so that we can respond to you when you contact us or we contact you;
+  * Any personal information contained in the content of any email or other communication that you send to Braze, for example, when you make inquiries about Braze and its products;
+  * Your email address, if you subscribe to a Braze newsletter;
+  * Information automatically collected about you as a visitor to the Website, as described in the section entitled 'Tracking Technologies' below; and
+  * Information that you submit when participating in any surveys conducted by us.
 
-to third parties as we deem necessary, based on our good faith belief, (i) to protect our rights, user safety or the safety of others, (ii) to investigate fraud, or (iii) to respond to a government request;
 
-to trusted services providers who work on our behalf, who do not have an independent use of the information we disclose to them, and who have agreed to adhere to the rules set forth in the privacy statement;
 
-to third parties in conjunction with a merger, acquisition or sale of Appboy. If Appboy is involved in a merger, acquisition, or sale of all or a portion of its assets, affected users will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of this information, as well as any choices users may have regarding this information;
+Where we need your personal information for any other purposes, it will be obvious from the circumstances as to the purposes for which we require that personal information from you.
 
-to Developers in the form of aggregated, anonymous data about the way Developer Applications are used so that Developers can improve their respective Developer Applications.
+If you provide us with personal information relating to another person, you confirm that you have informed them of our identity and the purposes (as set out above) for which their personal information will be used and that you have obtained their consent prior to sharing their information with us.
 
-We use information about you collected from third party partners in compliance with the terms set forth by those third parties.
+Braze also acts as a Data Controller with respect to contact information provided by the employees of our customers in the Braze Services dashboard who are users of the Braze Services. Braze may use that contact information to message users of the Braze Services to tell them about new releases, new functionality or services, training or other events being offered by Braze that may be of interest to users of the Braze Services, to provide important information about the Services (such as dates and times for scheduled maintenance), and for other purposes consistent with our ability to keep our customers informed about the Braze Services.
 
-## Automatic Data Collection
+## PART III. INFORMATION WE PROCESS WHEN BRAZE IS A SERVICE PROVIDER (DATA PROCESSOR)
 
-We automatically collect information about how Developer Applications are used, such as the frequency and duration of usage. This includes details about mobile devices, such as a unique Appboy-generated ID for the mobile device. We share anonymous information about use of their respective Developer Applications with Developers, including which Developer Applications users have downloaded and the way those Developer Applications are used, which facilitates improvements to Developer Applications.
+Braze processes personal information about you when we act as a Data Processor on behalf of our Customers, who act as Data Controllers. Braze does not choose the information that will be sent to it by its Customers and follows the instructions of its Customers in connection with the use of such information by Braze. This section provides more information about what we do on behalf of our Customers.
 
-## Opt-Out
+### Information collected about you automatically when you use a Customer Application or website that has integrated any Braze technology
 
-You may opt out of the collection of location information by turning off location services for Developer Applications on your mobile device. You may opt out of the collection of personally identifiable information by not providing that information to Developer Applications. You can prevent collection of personally identifiable information from third parties such as Facebook or Twitter by not logging in to Developer Applications using your Facebook or Twitter account.
+Our Customers may choose to collect within the Services information about you when you visit a Customer website or when you download and use a Customer Application on your computer or mobile device, and Braze technology has been integrated into that Customer Application or website. Braze technology will automatically track certain usage metrics involved with your use of that Customer Application (such as when you first used the Customer Application and when you last used it, the total number of sessions you have had on that Customer Application). We also automatically track certain device information (such as your language and locale preferences, your current time zone, wireless carrier and relevant device metadata). A detailed list of what information is automatically captured by the Braze technology can be found [here](https://www.braze.com/documentation/Platform_Wide#user-data-collection).
 
-You can prevent collection of all information by uninstalling Developer Applications that integrate the Appboy Service.
+### Information our Customers choose to send to us when you use a digital property that has integrated any Braze technology
 
-If you have any questions or need assistance, feel free to email [privacy@appboy.com](mailto:privacy@appboy.com).
+We may process information about you that our Customers choose to share with us, that is collected by their Customer Applications or other digital properties, such as your email address, name, birthdate, and/or gender.
 
-## Data Retention Policy, Managing Your Information
+ **Usage information** – Our Customers may ask us to track your activity and certain performance metrics in connection with your use of a Customer Application or other digital properties, for example if you have abandoned a shopping cart or if the Customer Application is a game, when you have completed a certain level of that game. Our Customers may send us information about your previous actions in their Customer Application or other digital properties, for example, information about how many times you have purchased items through their Customer Application, digital properties, stores, or elsewhere.
 
-Appboy will retain information collected throughout the life of each user’s use of Developer Applications except where prohibited by law. If you would like us to delete User Information and Automatically Collected information associated with your record, please contact us at [privacy@appboy.com](mailto:privacy@appboy.com). We will keep anonymous information and may need to retain some identifying information to ensure that your request continues to be honored. Your information will be deleted from our active database but may remain in our archives. If we are required to maintain certain information about you, we will comply with your deletion request after fulfilling any legal requirements.
+ **Information collected by tracking technologies** – In connection with the Services that we provide to our Customers, we use various technologies to collect information on their behalf, which may include saving user identifiers and other cached data to offline browser storage, or offline storage on mobile devices. Please see the section entitled "Tracking Technologies" for further information on this topic.
 
-## U.S.-EU Safe Harbor Compliance
+ **Location information.** The Braze technology may collect device location information from you if a Customer chooses to enable location services in connection with their digital properties, and you have granted our Customer permission to collect location information from your device, and then only if that Customer chooses to share that information with Braze. Location information is used to provide our Customers with information about the use of their digital properties and to enable our Customers to target messages to you based on your location.
 
-Appboy complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Appboy has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Appboy’s certification, please visit [http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor)
+ **Information sent to our Services by our Customers from other sources.** When our Customers configure the Services to do so, the Braze technology may also retrieve or receive information from third parties used for authentication, or from data augmentation partners. From authentication providers such as Facebook and Twitter, we may process information such as your name, email address, gender, interests, platform specific user identifier, and contact information. Partners such as location information vendors or install attribution partners can be directed by our Customers to send your information to Braze.
 
-The independent resource mechanism for Safe Harbor-related dispute resolution is the EU Data Protection Authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC). Appboy agrees to cooperate and comply with the EU Data Protection Authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) to investigate unresolved complaints. 
+### Use of information
 
-## Children
+We may use the information we collect from our Customers for a variety of reasons, including:
 
-Appboy does not knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at [privacy@appboy.com](mailto:privacy@appboy.com). We will delete such information from our files within a reasonable period of time.
+  * to provide, operate and maintain the Services;
+  * to manage our Customers' use of the Services, respond to inquiries and comments and provide Customer service and support;
+  * to analyze our Customers' use of the Services for trend monitoring, marketing and advertising purposes;
+  * to send our Customers technical alerts, updates, security notifications, and administrative communications;
+  * to investigate and prevent fraudulent activities, unauthorized access to the Services, and other illegal activities; and
+  * For any other purposes about which we notify our Customers.
 
-## Security
 
-We are concerned about safeguarding the confidentiality of user information. We provide physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we limit access to this information to authorized employees who need to know that information in order to operate, develop or improve our Services.
 
-## International Transfer
+### Sharing and disclosure of information to third parties
 
-We may, in the process of providing services to you, transfer information that we collect about you or your end users, including personal information, to affiliated entities, or to other third parties across border adn from your country or jurisdiction to other countries or jurisdictions around the world. If you or your end users are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring information and permitting the transfer of information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. and the use and disclosure of information about you and your end users, including personal information, as described in this privacy policy.
+We may share and disclose information about our Customers and you in the following circumstances:
 
-## Changes
+  *  _To Customers_ – we may disclose information to our Customers in the form of aggregated, anonymous data about the way the Services have been used to enable us to provide and improve our Services, to provide strategic advice to our Customers, and to further and enhance our role as a thought leader in the industry;
+  *  _To Vendors, consultants and other service providers_ \- If our Customers direct us to do so, we may share information with third party vendors, consultants and other service providers who use your information to enable our Customers to send you messages that are targeted to your preferences. For example, our Customers may direct us to work with a third-party location service provider or a third-party translation-service provider. Our Customers may also direct Braze to send information to other websites or vendors, and Braze, as the Data Processor, will follow the directions of its Customers, who are the Data Controllers;
+  *  _Compliance with laws_ – we may disclose information to a third-party where we are legally required to do so in order to comply with any applicable law, regulation, legal process or governmental request;
+  *  _Protection of our legal rights_ – we may also disclose information where we believe it necessary in order to protect or exercise, establish or defend our legal rights;
+  *  _Business transfers_ – we may share or transfer information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company; and
+  *  _Provision of our Services_ – We use sub-processors in our provision of the Braze Services to our Customers, such as third party hosting providers and third party database support services. Some of these third party sub-processors may have logical access to data about you, but in all cases, any sub-processor to whom we disclose any information will be subject to a written agreement containing confidentiality protections designed to protect any personal information that is shared with them.
 
-This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here, <https://www.appboy.com/privacy>. You are advised to consult this Privacy Policy regularly for any changes.
 
-## Your Consent
 
-By using a Developer Application, you are consenting to our collection and processing of information as set forth in this Privacy Policy now and as amended by us. "Processing" means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States. If you reside outside the U.S. your information will be transferred to the U.S., and processed and stored there under U.S. privacy standards. By using the Application and providinginformation to us, you consent to such transfer to, and processing in, the U.S.
+## PART IV. INTERNATIONAL TRANSFERS, SECURITY AND DATA RETENTION
 
-## Contact Information
+### Processing of personal information in the U.S. and elsewhere
 
-If you have any questions about this Privacy Policy, you may contact us at:
+Specifically, our Website servers are located in the United States, and our group companies and third party service providers and partners operate in the United States, Singapore and the United Kingdom. This means that when we collect your personal information as a Data Controller, we may process it in any of these countries. These countries may have data protection laws that are different to the laws of your country (and, in some cases, may not be as protective), but we will put in place appropriate safeguards.
 
-Appboy, Inc. Privacy Policy Issues  
-263 W. 38th Street, 16th Floor  
-New York, NY 10018  
-[privacy@appboy.com](mailto:privacy@appboy.com)
+Braze stores our Customer’s data either in the United States or in the European Union at data centers run by third-party hosting providers. As Data Controllers, our Customers decide where they want their data stored and Braze, as a Data Processor, complies with our Customers’ instructions. Personal information stored in Braze’s EU data center may nonetheless be accessed in the United States in connection with the provision of technical and customer support. In order to validate this transfer of personal data from the EU to the United States, Braze enters into the Standard Contractual Clauses (the “Model Clauses”) with our EU Customers on request, in order to ensure that this personal data is adequately protected in accordance with EU standards. Where Braze uses sub-processors located in other jurisdictions, it will employ methods to validate the transfer of personal data to such jurisdictions from the United States in accordance with the requirements of applicable law.
+
+### Security
+
+We use technical, organizational and administrative security measures designed to protect the security, confidentiality and integrity of information. This is the case whether we are acting as a Data Controller (see Part II above) or as a Data Processor (see Part III above). In addition, each of our Customers will have its own technical, organizational and administrative security measures to protect the data it processes, including controls such as passwords and log-in credentials to manage its and its employees’ access to the Braze Services. It is our Customers' responsibility to assess the appropriateness of the security measures they have in place to protect any data that you provide to them.
+
+### Data Retention
+
+ _When we act as a Data Processor for our Customers._ Braze, as a Data Processor, will delete all personal information that it has received from its Customers from the Braze systems within sixty (60) days following the termination or expiration of the business relationship between Braze and its Customers.
+
+ _When we act as a Data Controller with respect to information we collect on our Website._ We retain personal information we collect from you when we are acting as a Data Controller where we have an ongoing legitimate business need to do so (in connection with the purposes set out in Part II above). When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
+
+## PART V. TRACKING TECHNOLOGIES
+
+Our Website and our Services may use cookies (small text files containing a string of alphanumeric characters that we put on your device) and/or other tracking technologies to distinguish you from other Website users or that enable our Customers to recognize you when you return to their Customer Application or other digital properties. To read more about the cookies we use, please visit our [Cookie Policy](https://web.archive.org/cookies/).
+
+### Tracking Technologies used in connection with our Website
+
+When you visit our Website we may send one or more cookies to your browser. They enable us to store information about your device that is then used for matching certain other device-related information that we collect via the browser. This helps us, among other things, to provide you with a good experience when you browse our Website and also allows us to recognize you when you return and to learn your interests so we can better respond to any inquiries you may make.
+
+### Blocking cookies from our Website
+
+You have the right to decide whether to allow websites such as braze.com to lay cookies on your browser. You can set or amend your web browser controls to accept or refuse cookies [here](https://web.archive.org/preferences/#cookie-consent-tool). If you choose to reject cookies, you may still use our Website, although your access to some functionality and areas of our Website may be restricted. Specifically, you will not be able to log in or use the Braze dashboard if you have disabled cookies, since both of these functionalities rely on tracking technologies to function. The process to disable cookies through your web browser may vary from browser-to-browser, so you should visit your browser's help menu for more information.
+
+### Tracking Technologies used in connection with our Services
+
+Braze may use local storage and other tracking technologies in connection with the provision of the Braze Services to our Customers when a Customer has integrated any Braze technology into the Customer website or other digital property. Braze also uses local storage, which is another type of tracking technology, to recognize you when you use a Customer Application or other digital property that integrates Braze technology. Our Customers want to recognize you when you return to their Customer Applications or other digital properties and tracking technologies enable them to tailor content and messages to you based on your prior behavior within the Customer Application or other digital property. Our contracts require our Customers to disclose the use of these tracking technologies to you in their privacy policies and/or the terms of use for their websites or other digital properties. 
+
+## PART VI. YOUR PRIVACY RIGHTS
+
+You may have the following privacy rights:
+
+  * If you wish to **access, correct, update or request deletion** of your personal information, you can do so at any time by contacting us through this [FORM](https://web.archive.org/data-subject-request/) (which will ask from you information necessary for us to process your request) or by using the contact details provided under the “How to contact us” heading below.
+  * In addition, if you are a resident of the European Union, you can **object to processing** of your personal information, ask us to **restrict processing** of your personal information or **request portability** of your personal information. Again, you can exercise these rights by contacting us through this [FORM](https://web.archive.org/data-subject-request/) (which will ask from you information necessary for us to process your request) or by using the contact details provided under the “How to contact us” heading below.
+  * You have the right to **opt-out of marketing communications** we send you at any time. You can exercise this right by clicking on the “opt-out” link in the marketing communications we send you or by going to our [Preference Center](https://web.archive.org/preferences/), or by using the contact details provided under the “How to contact us” heading below.
+  * Similarly, if we have collected and processed your personal information with your consent, then you can **withdraw your consent** at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+  * You have the **right to complain to a data protection authority** about our collection and use of your personal information. For more information, please contact your local supervisory authority.
+
+
+
+We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws.
+
+Where you wish to enforce any of these rights in respect of our Services, you should contact the Customer who provides you with the Customer Application. We will then help them to fulfill that request in accordance with their instructions and applicable legal requirements.
+
+### Unsubscribe from our mailing list
+
+Braze complies with all applicable anti-spam laws when it sends emails to you. You may at any time ask us to remove you from any mailing list on which you previously asked Braze to include you by going to our [Preference Center](https://web.archive.org/preferences/), or by clicking "Unsubscribe" in any e-mail communications we send you.
+
+We require our Customers to comply with applicable laws and to include an unsubscribe link in marketing emails sent to you using the Braze Services. The Braze Services will not send emails to you if you have opted out of the receipt of emails from Braze Customers.
+
+## PART VII. LEGAL BASIS FOR PROCESSING PERSONAL INFORMATION (EEA VISITORS ONLY)
+
+If you are a visitor to our Website from the EEA, our legal basis for collecting and using the personal information described above will depend on the personal information concerned and the specific context in which we collect it.
+
+However, we will normally collect personal information from you only where we have your consent to do so, where we need the personal information to perform a contract with you, or where the processing is in our legitimate interests and not overridden by your data protection interests or fundamental rights and freedoms. In some cases, we may also have a legal obligation to collect personal information from you or may otherwise need the personal information to protect your vital interests or those of another person.
+
+If we ask you to provide personal information to comply with a legal requirement or to perform a contract with you, we will make this clear at the relevant time and advise you whether the provision of your personal information is mandatory or not (as well as of the possible consequences if you do not provide your personal information).
+
+Similarly, if we collect and use your personal information in reliance on our legitimate interests (or those of any third party), we will make clear to you at the relevant time what those legitimate interests are.
+
+If you have questions about or need further information concerning the legal basis on which we collect and use your personal information, please contact us through this [FORM](https://web.archive.org/data-subject-request/) (which will ask from you information necessary for us to process your request) or by using the contact details provided under the “How to contact us” heading below.
+
+## PART VIII. OTHER IMPORTANT INFORMATION
+
+### Changes to our Privacy Policy
+
+If we change our Privacy Policy, we will update the "Last Updated" date at the top of this webpage. We encourage you to review this Privacy Policy frequently to stay informed of the latest modifications.
+
+### Children
+
+Our Services are not directed to individuals under the age of 13. We do not knowingly collect personal information from such individuals without parental consent and require our Customers to fully comply with applicable law in the data collected from children under the age of 13.
+
+### How to contact us
+
+  1. If you would like to update your preferences with regards to our marketing communications to you, you can do this in our [Preference Center](https://web.archive.org/preferences/).
+  2. If you have a request regarding Braze’s processing (eg. access, update or deletion) of your personal information, (other than setting up your preferences for our marketing communications, which you can do in our [Preference Center](https://web.archive.org/preferences/)), please complete this [FORM](https://web.archive.org/data-subject-request/).
+  3. If you have any questions about this Privacy Policy, you may contact us at:
+
+  
+[privacy@braze.com](mailto:privacy@braze.com)  
+Braze Privacy Policy Issues  
+318 West 39th Street, 5th Floor, New York, NY 10018
+
+
+
