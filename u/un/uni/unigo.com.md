@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unigo.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710213118id_/https%3A//www.unigo.com/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unigo.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609195823id_/https%3A//www.unigo.com/aboutus/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Unigo
 
@@ -182,7 +182,7 @@ In the event that we learn that we have collected personal information from a ch
 ** If you have questions or concerns about this Privacy Notice, our information practices, or wish to make a request regarding your information, please contact us at any of the following:
 
   * Unigo, Attn: Customer Support, 220 NW Eighth Avenue, Portland, OR 97209.
-  * [Contact us by email](https://web.archive.org/aboutus/contact "Contact")
+  * [Contact us by email](https://web.archive.org/aboutus/contact-us "Contact")
 
 
 
