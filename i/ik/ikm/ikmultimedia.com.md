@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ikmultimedia.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216220858id_/http%3A//www.ikmultimedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ikmultimedia.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609135359id_/http%3A//www.ikmultimedia.com/privacy) for the most accurate reproduction.*
 
 # IK Multimedia. Musicians First.
 
