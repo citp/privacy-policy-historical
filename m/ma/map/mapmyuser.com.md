@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mapmyuser.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207095800id_/http%3A//www.mapmyuser.com/Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapmyuser.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609031110id_/http%3A//www.mapmyuser.com/Policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Mapmyuser
 
