@@ -1,12 +1,20 @@
-> *The following text is extracted and transformed from the linkroll.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207190520id_/http%3A//www.linkroll.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkroll.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609154810id_/http%3A//www.linkroll.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # linkroll - collaborative web bookmarks and link blogs
+
+ADVERTISEMENT
+
+No promo codes required. Save $3 when you spend $20, Save $5 when you spend $30
+
+Unser Zubehör für das nagelneue iPhone X ist eingetroffen!
+
+Code: FEMMEDL1. 3.5€ de remise dès 26.6€, 6.2€ de remise dès 44.3€, 8.8€ de remise dès 70.9€ sur les vêtements femme. Valide jusqu'au 30/03/2018.
 
 This is the web site of  **LinkRoll.com**.
 
 Our postal address is   
   
-We can be reached via e-mail [here](https://web.archive.org/web/20171207190520id_/http%3A//www.linkroll.com/index.php%3Faction%3Dprivacy?action=contact)  
+We can be reached via e-mail [here](https://web.archive.org/web/20180609154810id_/http%3A//www.linkroll.com/index.php%3Faction%3Dprivacy?action=contact)  
 
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
@@ -44,3 +52,11 @@ Consumers can have this information corrected by sending us e-mail at the above 
 With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+
+ADVERTISEMENT
+
+Code: GBTE. -15% sur les outiles @GearBest
+
+Code: СРОЖДЕСТВОМ2018. Promo code requires. The deal applies to all categories of goods. The deal is not available for goods on sale.(45$ for Order $ 300 +,20-3,50-7.5,60-9,80-12,100-15,120-18,150-22.5,180-27,240-36,300-45)
+
+Code: SMART888. promo code required
