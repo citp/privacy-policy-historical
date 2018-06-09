@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sugardoodle.net privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208020719id_/http%3A//www.sugardoodle.net/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D6540) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sugardoodle.net privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609131027id_/http%3A//www.sugardoodle.net/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D6540) for the most accurate reproduction.*
 
 # Privacy Policy - T's & C's
 
-[Print](https://web.archive.org/index.php?option=com_content&view=article&id=6540:privacy-policy-t-s-c-s&catid=31&Itemid=200100&tmpl=component&print=1&layout=default&page= "Print article < Privacy Policy - T's & C's >") [Email](https://web.archive.org/index.php?option=com_mailto&tmpl=component&template=favourite&link=46da21d6c30a01d9ab53df94d579266edbd456b8 "Email this link to a friend") Details
+[ Print ](https://web.archive.org/index.php?option=com_content&view=article&id=6540:privacy-policy-t-s-c-s&catid=31&tmpl=component&print=1&layout=default&Itemid=200100 "Print article < Privacy Policy - T's & C's >") [ Email ](https://web.archive.org/index.php?option=com_mailto&tmpl=component&template=favourite&link=46da21d6c30a01d9ab53df94d579266edbd456b8 "Email this link to a friend") Details
      Written by Sugardoodle.net 
      Published: 22 December 2007 
 
