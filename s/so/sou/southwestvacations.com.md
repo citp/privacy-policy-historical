@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southwestvacations.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231230428id_/http%3A//www.southwestvacations.com/generalinformation/privacy-and-security-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southwestvacations.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610000626id_/http%3A//www.southwestvacations.com/generalinformation/privacy-and-security-policy) for the most accurate reproduction.*
 
 # Privacy & Security Policy - Southwest Vacations
 
