@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elections.ab.ca privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207125941id_/http%3A//www.elections.ab.ca/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elections.ab.ca privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609164204id_/http%3A//www.elections.ab.ca/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security | Elections Alberta
 
@@ -12,6 +12,6 @@ This web site does not use “cookies” or any other means of collecting inform
 
 This web site contains links to other sites, including other government agencies. We are not responsible for the content and the privacy practices of other web sites and encourage you to examine each site’s privacy policy and disclaimers and make your own decisions regarding the privacy of those sites and the accuracy and reliability of material and information found.
 
-Information at this site is provided solely for the user’s information and, while thought to be accurate, is provided strictly “as is” and without warranty of any kind, whether express or implied. The Crown, its agents, employees, or contractors will not be liable to you for any damages, direct or indirect, or lost profits or data arising out of your use of information provided at this site, or information provided at any other site that can be accessed from this site. Proceeding beyond this disclaimer constitutes acceptance of these terms and conditions. For inquiries please contact [Elections Alberta](http://www.elections.ab.ca/).
+Information at this site is provided solely for the user’s information and, while thought to be accurate, is provided strictly “as is” and without warranty of any kind, whether express or implied. The Crown, its agents, employees, or contractors will not be liable to you for any damages, direct or indirect, or lost profits or data arising out of your use of information provided at this site, or information provided at any other site that can be accessed from this site. Proceeding beyond this disclaimer constitutes acceptance of these terms and conditions. For inquiries please [contact Elections Alberta](http://www.elections.ab.ca/contact-us/).
 
 View Government of Alberta’s Freedom of Information and Protection of Privacy ([FOIP](http://www.servicealberta.ca/foip/)) Act.
