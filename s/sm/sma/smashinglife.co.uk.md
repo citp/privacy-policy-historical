@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smashinglife.co.uk privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205183259id_/http%3A//smashinglife.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smashinglife.co.uk privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610225532id_/http%3A//smashinglife.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Smashing Life
 
@@ -31,4 +31,4 @@ We do not disclose any personal information obtained about you from this website
 We may from time to time provide information of a general nature to third parties – for example, the number of individuals visiting our website or completing a registration form, but we will not use any information that could identify those individuals.
 
 **Contacting Us**  
-If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) You can also correct any factual errors in that information or require us to remove your details form any list under our control.
+If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at contact@smashinglife.co.uk. You can also correct any factual errors in that information or require us to remove your details form any list under our control.
