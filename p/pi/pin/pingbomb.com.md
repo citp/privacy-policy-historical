@@ -1,42 +1,141 @@
-> *The following text is extracted and transformed from the pingbomb.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210134641id_/http%3A//pingbomb.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pingbomb.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610135904id_/http%3A//pingbomb.com/privacy.php) for the most accurate reproduction.*
 
-# PingBomb | What Is PingBomb
+# Privacy Policy | PingBomb
 
-## Privacy Policy
+Welcome to PingBomb' privacy policy. PingBomb respects your privacy and is committed to protecting your personal data.
 
-####  What information do we collect?  
-We collect information from you when you register on our forum. When registering on our forum, as appropriate, you will be asked to enter your: username, e-mail address and password. 
+Last modified: May 2018
 
-What do we use your information for? The information we collect from you is used in the following ways: 
+* * *
 
-1) To personalize your experience Your information helps us to better respond to your individual needs. 
+**BY USING THIS WEBSITE YOU EXPRESSLY AGREE TO ALL OF THE TERMS AND CONDITIONS CONTAINED IN THIS POLICY.**
 
-2) To improve our forum We continually strive to improve our forum based on the information and feedback we receive from you. 
+* * *
 
-3) To process transactions Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent. 
+### Introduction
 
-4) To send periodic emails The email address you provide will be used to send you information, responds to inquiries, and/or other requests or questions. 
+PingBomb cares about your privacy. For this reason, we collect and use personal data only as it might be needed for us to deliver to you our website platform (the "Website") and services (collectively, our "Services"). The Services are operated by JRF SEO LLC (the "Company", "we" or "us") for users of the Services ("You"). 
 
-DoubleClick DART Cookie 
+We have developed this Policy in order for you to understand how we collect, use, communicate, and disclose and make use of personal information. It also describes options we provide for you to access, update or otherwise take control of your personal data that we process. The following outlines our privacy policy. 
+
+If at any time you have questions about our practices or any of your rights described below, you may reach our Data Protection Officer ("DPO") and our dedicated team by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) This Email inbox is actively monitored and managed so that we can deliver an experience that you can confidently trust. 
+
+## Who are we?
+
+PingBomb is run by JRF SEO LLC, a business registered in Wake Forest, N.C. United States. 
+
+## What information do we collect?
+
+When you interact with us through the Services, we may collect information from you, as further described below: 
+
+**a. Information you provide:** We collect information from you when you voluntarily provide such information, such as when you register for access to the Services or use certain Services. Information we collect may include but not be limited to username, real name, email address, mobile phone number, and any other content you upload to our Website. 
+
+**b. Automatically collected information:** When you interact with us through the Services, we receive and store certain information such as an IP address, device ID, and your activities within the Services. Logging when you access the Services and from where, allows us to better understand our users and keep your account safe. 
+
+**c. Aggregated information:** In an ongoing effort to better understand and serve the users of the Services, we may conduct research on our customer demographics, interests and behaviour based on the information collected. We may also disclose aggregated and anonymized user statistics in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes. 
+
+**d. Cookies:** Like almost all online websites we employ cookies and similar technologies to keep track of your local device's settings and which account you are logged into. Cookies are small pieces of data that websites and services can set on your browser or device that can be read at a later date. In addition to Cookies we may also use web beacons and single pixel gifs to log Email opens.  
+See our [Cookies Policy](https://web.archive.org/web/20180610135904id_/http%3A//pingbomb.com/cookies.php) for more information. 
+
+**e. DoubleClick DART Cookies:**
 
 .:: Google, as a third party vendor, uses cookies to serve ads on www.PingBomb.com.   
 .:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to www.PingBomb.com and other sites on the Internet.   
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html   
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
+Google Adsense 
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....... Google Adsense 
+**f. Cookies (third party):** We use third party web site analytic tools such as Google Analytics on our Website that employ cookies to collect certain information concerning your use of our Services. However, you can disable cookies by changing your browser settings. Further information about the procedure to follow in order to disable cookies can be found on your Internet browser provider's website via your help screen.  
+We have specifically instructed Google to not share your information with their third parties.  
+We use IP Anonymization on Google Analytics.  
+See our [Cookies Policy](https://web.archive.org/web/20180610135904id_/http%3A//pingbomb.com/cookies.php) for more information. 
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.PingBomb.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+## Why do we process your personal data & how will it be used
 
-www.PingBomb.com has no access to or control over these cookies that are used by third-party advertisers. 
+We need to process your personal data for delivering, improving, updating, and enhancing the Services we provide to you.  
+We strongly believe in both minimising the data we collect and limiting its use and purpose to only that (1) for which we have been given permission, (2) as necessary to deliver the Services you purchase or interact with, or (3) as we might be required or permitted for legal compliance or other lawful purposes. 
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.PingBomb.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+We use the information you provide in a manner that is consistent with this Privacy Policy. If you provide information for a certain reason, we may use the information in connection with the reason for which it was provided. 
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+## Our legal basis for processing your personal data.
 
-Do we use cookies? Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to save your preferences for future visits. 
+**a. Contractual necessity - Providing you with our Services:** We handle personal data on this basis to create your account and provide our Services. 
 
-Do we disclose any information to outside parties? We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our forum, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. 
+**b. Legitimate interests:** We process your personal data on the basis of legitimate interests in ways that are not overridden by the interests or fundamental rights and freedoms of individuals. Including: 
 
-Third party links We may link to third party sites. These third party sites have separate and independent Privacy Policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
+  * Providing a safe and secure Website
+  * Marketing - sending Emails to inform you of features or offers
+  * Account security - sending SMS two factor verification text messages
+  * Protecting our users, servers, and services
+  * Analysing and improving our Services to you
+  * Processing legal requirements
 
-Your Consent By using PingBomb.com, you consent to our online Terms, Rules & Privacy Policy. 
+
+
+**c. Consent:** Handling data freely given by clear affirmative action. You have a right to withdraw consent, which must be brought to our attention. 
+
+## Our disclosure of your information
+
+We will never disclose your information unlawfully. PingBomb is not in the business of selling your data. There are however some circumstances in which we may share your information with certain third parties, as set forth below: 
+
+**a. Business transfers:** As our business grows we might sell or buy businesses or assets. In the event of our take over, merger, corporate sale, reorganization, bankruptcy or similar, your information may be part of the transferred assets. 
+
+**b. Legal requirements:** We may disclose your information if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of the Company or Related Companies, (iii) protect the personal safety of users of the Services or the public, or (iv) protect against legal liability. 
+
+**c. Google Analytics:** We utilize Google Analytics for website visitor tracking and analysis.   
+We have specifically instructed Google to not share your information with their third parties.  
+We use [IP Anonymization](https://support.google.com/analytics/answer/2763052?hl=en) on Google Analytics. 
+
+**d. Trusted third parties:** See below "Sharing your personal data with trusted third parties". 
+
+## Sharing your personal data with trusted third parties
+
+We will never sell or share your personal data to any third party unlawfully.   
+We may share your personal data with trusted third party service providers as necessary for them to perform services on our behalf, such as: 
+
+  * Communicating with you, such as by way of email or SMS text message
+  * Customer relationship management
+  * Website analytics
+
+
+
+We only share your personal data as necessary for any third party to provide the services as requested or as needed on our behalf. These third parties (and any subcontractors) are subject to strict data processing terms and conditions and are prohibited from utilising, sharing or retaining your personal data for any purpose other than as they have been specifically contracted for (or without your consent). 
+
+## How do we store your data, and for how long?
+
+PingBomb is based in the United States. No matter where you are located you consent to the processing and transferring of your information in and to the United States. We follow all applicable data protection laws. We follow generally accepted standards to store and protect the personal data we collect, both during transmission and once received and stored, including utilisation of encryption where appropriate. 
+
+We generally retain personal data for so long as it may be relevant to the purposes identified herein. To dispose of personal data, we may anonymize it, delete it or take other appropriate steps. Data may persist in copies made for backup and business continuity purposes for additional time. 
+
+If you utilise our Services from a country other than the country where our servers are located, your communications with us may result in transferring your personal data across international borders. 
+
+## Understanding your rights: Access, update, or delete your data
+
+You can update most of your data by accessing your Account Settings. You can also unsubscribe from certain emails by clicking the unsubscribe link they contain, or by visiting Communication Settings under your Account Settings. 
+
+You may **close your account** at any time and for any reason by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
+**To access, update, or delete your data** you must do a submit a data access request. Do so directly by Emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), with the subject "Personal Data Request". We will then start the process within 30 days.  
+**Object or restrict** the processing of your data by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+
+If you make a request to delete your personal data and that data is necessary for the products or Services you have purchased, the request will be honoured only to the extent it is no longer necessary for any Services purchased or required for our legitimate business purposes or legal or contractual record keeping requirements. 
+
+## Raising a complaint
+
+You have the right to lodge a complaint with the relevant supervisory authority. We would be grateful if you could please contact us first - we will do our very best to resolve your concern. 
+
+## Unsolicited information
+
+In the event you provide us with ideas or suggestions for new or existing products or services, and other unsolicited submissions (collectively, "Unsolicited Information") they will be deemed non-confidential and we shall be free to act on, reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution. 
+
+## Links to other websites
+
+This Privacy Policy applies only to the Services. The Services may contain links to other web sites not operated or controlled by us (the "Third Party Sites"). The policies and procedures we described here do not apply to the Third Party Sites. The links from the Services do not imply that we endorse or have reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies. 
+
+## Changes to this privacy policy
+
+Although most changes are likely to be minor, We may change this policy from time to time, and at Our sole discretion. We encourage visitors to frequently check this page for any changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change. 
+
+## Contacting us
+
+Please also feel free to contact us if you have any questions about this Privacy Policy at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
+We will respond to all requests, inquiries, or concerns within 30 days. 
