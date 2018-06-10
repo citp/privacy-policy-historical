@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesites200.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208144038id_/http%3A//www.gamesites200.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesites200.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610223536id_/http%3A//www.gamesites200.com/privacy.php) for the most accurate reproduction.*
 
 # Game Sites 200 - Privacy Policy
 
