@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nomorepanic.co.uk privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208230156id_/http%3A//www.nomorepanic.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nomorepanic.co.uk privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610201015id_/http%3A//nomorepanic.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | No More Panic
 
@@ -10,14 +10,14 @@ In this Policy references to NMP or to “we” or “us” are to No More Panic
 
 Our aim is to safeguard our users’ privacy whilst providing a personalised and valuable service. Collecting personal information is necessary if we are to satisfy the expectations and requirements of our users, e.g. by communicating with them and providing an interactive service. We appreciate that you do not want the personal information you provide to us distributed indiscriminately and here we explain how we collect information, what we do with it and what controls you have.
 
+### We promise:
+
+– To keep your data safe and private.  
+– Not to sell your data.
+
 ### What information do we collect?
 
-We collect two kinds of information about our users:
-
-  1. **non-personal information**  such as IP address (the location of the computer on the internet), pages accessed and files downloaded. This helps us to determine how many individuals use our sites, how many people visit on a regular basis, which pages are most popular, and which pages are least popular. This information doesn’t tell us anything about who you are or where you live, it simply allows us to monitor and improve our service. From time to time IP address information may be shared amongst site administrators.
-  2. **personal information**  such as name, postal address, telephone number, e-mail address, date of birth (where appropriate), information about your interests and hobbies etc. We collect this information only in connection with specific activities, such as registration or membership requests, feedback, donations etc. The information is either needed to fulfil your request or to enable us to provide you with a more personalised service. You don’t have to disclose any of this information to browse our sites. However, if you do choose to withhold requested information, we may not be able to provide you with certain services.
-
-
+personal information such as name, postal address, telephone number, e-mail address, date of birth (where appropriate). We collect this information only in connection with specific activities, such as registration or membership requests, feedback, donations, shop purchases etc. The information is either needed to fulfil your request or to enable us to provide you with a more personalised service. You don’t have to disclose any of this information to browse our sites. However, if you do choose to withhold requested information, we may not be able to provide you with certain services.
 
 ### How is the information used?
 
@@ -40,11 +40,38 @@ We may disclose personal information if we receive a complaint about any content
 
 Except as indicated above we will not use or transfer this data to any third parties without your prior permission.
 
+### Your rights
+
+– The right to be informed about how your personal information is being used.  
+– The right to access the personal information we hold about you – You can view ALL personal information in your control panel  
+– The right to request the correction of inaccurate personal information we hold about you – You can amend ALL personal information in your control panel  
+– The right to request that we delete your data, or stop processing it or collecting it, in some circumstances.  
+– The right to stop direct marketing messages and withdraw consent for other consent-based processing at any time.  
+– The right to request that we transfer or port elements of your data either to you or another service provider.  
+– The right to complain to your data protection regulator — the Information Commissioner’s Office.
+
+### For more information about your privacy rights
+
+The Information Commissioner’s Office (ICO) regulates data protection and privacy matters in the UK. They make a lot of information accessible to consumers on their website and they ensure that the registered details of all data controllers such as ourselves are available publicly. You can access them here https://ico.org.uk/for-the-public.  
+You can make a complaint to the ICO at any time about the way we use your information. However, we hope that you would consider raising any issue or complaint you have with us first. Your satisfaction is extremely important to us, and we will always do our very best to solve any problems you may have.
+
+### Sharing your information
+
+We will not sell or rent your personal data to any third party – including your name, address, email address.
+
 ### Links
 
 Our sites contain links to other sites. We cannot be responsible for the privacy policies and practices of other websites even if you access them using links from our websites and recommend that you check the policy of each site you visit.
 
 In addition, if you linked to our websites from a third party website, we cannot be responsible for the privacy policies and practices of the owners or operators of that third party site and recommend that you check the policy of that third party site and contact its owner or operator if you have any concerns or questions.
+
+### Advertising
+
+No More Panic is solely funded via advertising. We use the following advertising partners
+
+Google Adsense
+
+PubGalaxy – [Privacy Policy](https://www.pubgalaxy.com/privacy-policy.html)
 
 ### Security
 
@@ -74,8 +101,6 @@ By using our sites, or by entering a competition, you consent to the collection 
 
 ### Your rights
 
-Any personal information submitted via our websites or by text is treated in accordance with the Data Protection Act 1998. To find out more about your entitlements under this legislation, visit the Information Commissioner’s website: <http://ico.org.uk/for_organisations/data_protection/the_guide> or read the Act online at: [www.hmso.gov.uk/acts/acts1998/19980029.htm](http://www.hmso.gov.uk/acts/acts1998/19980029.htm "www.hmso.gov.uk/acts/acts1998/19980029.htm").
-
 If you would like to review or revise information you have previously provided to us online, you may do so by emailing [nomorepanic](mailto:nomorepanic@btinternet.com).
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you or if you have any questions relating to this Privacy Policy or how we use the personal information we have about you, please email [nomorepanic](mailto:nomorepanic@btinternet.com).
+You also have the right to complain to the Information Commissioner’s Office. Find out on their website how to report a concern <https://ico.org.uk/concerns/>
