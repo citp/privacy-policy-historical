@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the games4king.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606073110id_/http%3A//www.games4king.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games4king.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610043446id_/http%3A//games4king.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Games4king Games, Escape Games, Point and Click, Room Escape, Online Games, Girls Games, Dress Up Games, Cooking Games, Make Over Games, Baby Games, Fun Games, Casino Games, Fun Games, Girls Games, Card Games, Adventure Games, Super Hero Ga
+# Privacy Policy - Games4King - New Best Escape Games Every Day
 
 **Privacy Policy for www.games4king.com**
 
@@ -9,10 +9,10 @@ If you require any more information or have any questions about our privacy poli
 At www.games4king.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.games4king.com and how it is used. 
 
 **Log Files**  
-Like many other Web sites, www.games4king.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addesses and other such information are not linked to any information that is personally identifiable. 
+Like many other Web sites, www.games4king.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track userâ€™s movement around the site, and gather demographic information. IP addesses and other such information are not linked to any information that is personally identifiable. 
 
 **Cookies and Web Beacons**  
-www.games4king.com do use cookies to store information about visitor’s preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+www.games4king.com do use cookies to store information about visitorâ€™s preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
 **DoubleClick DART Cookie**  
 > Google, as a third party vendor, use cookies to serve ads on www.games4king.com.  
