@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the eventbee.com privacy policy that was archived on 2017-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171202213631id_/https%3A//www.eventbee.com/privacystatement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eventbee.com privacy policy that was archived on 2018-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180610045507id_/https%3A//www.eventbee.com/privacystatement) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -134,13 +134,14 @@ obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
 			</div>
 			<div class="navbar-collapse collapse">
 				<ul class="nav navbar-nav">
+					<li><a href="/platform">Platform</a></li>
+					<li><a href="/pricing"> Pricing    </a></li>
+					<li><a href="/faq">FAQ</a></li>
+					<li><a id="contact" href="javascript:;">Contact</a></li>
 					
-					<li><a href="/pricing"> Pricing and features    </a></li>
-				
-					<li><a href="/how-it-works"> How it works     </a></li>
+					
+					
 					<!--<li><a href="/event-creation"> la.faq.link.txt   </a></li>-->
-					<li><a href="/faq">  FAQ   </a></li>
-					<li><a id="contact" href="javascript:;">     Contact</a></li>
 				</ul>
 			  <ul class="nav navbar-nav navbar-right">
 				  <li style="display:none">
@@ -297,8 +298,12 @@ var country=I18N_ACTUAL_CODE.split("_")[1]; */
 		  var lang=path.split("/")[3];
 		  if(lang){
 			  path=path.substring(0,path.indexOf(lang))+code;
-		  }else
-			  path=path+"/"+code;
+		  }else{
+			  if(path.search("/es-es")!=-1 || path.search("/en-us")!=-1 )
+			  	path=path.substring(0,path.lastIndexOf("/"));
+			  path=path+"?lang="+code;
+		  }
+			  
 		location.href=path;
 	} 
 	
@@ -601,7 +606,7 @@ $('#myModal .modal-body').html('<iframe id="popup" src="" width="100%" style="he
 
 
 
-<script type="text/javascript" src="/js/dropdown/ddslick.js?timestamp=1512250591153"></script>
+<script type="text/javascript" src="/js/dropdown/ddslick.js?timestamp=1528606507682"></script>
 <style>
 			#myDropdown label {
 			font-weight: normal !important;
@@ -650,7 +655,7 @@ $('#myModal .modal-body').html('<iframe id="popup" src="" width="100%" style="he
 
 
 <script type="text/javascript">var resourceaddress='//www.eventbee.com';</script>
-<script src="//www.eventbee.com/js/i18n/en-us/footerjson.js?timestamp=1512250591153"></script>
+<script src="//www.eventbee.com/js/i18n/en-us/footerjson.js?timestamp=1528606507682"></script>
 <script>lang='en-us';</script> 
 <script>
 function fillHTML(){
@@ -690,10 +695,10 @@ function fillHTML(){
 						
 						 if(eachSubLink.strong)
 		  	                  html+=' <strong>';
-						  if(eachSubLink.i18n_include==false)
+						  if(eachSubLink.href)
 							  html+='<span class="footertab"><a href="'+eachSubLink.href+'"';
 						else	  
-						   	 html+='<span class="footertab"><a href="'+eachSubLink.href+'"';
+						   	 html+='<span class="footertab"><a style="text-decoration:none!important"';
 						     if(eachSubLink.target)
 			  	                  html+=' target="'+eachSubLink.target+'"';
 					    	   html+='>';
@@ -871,7 +876,7 @@ function fillHTML(){
 		<div class="row" style="margin: 0 auto; padding-top: 15px;">
 			<div class="row">
 				<center>
-					<span style="font-size: 12px; color: #ccc"> Copyright 2003-2017. Eventbee Inc. All Rights Reserved. </span>
+					<span style="font-size: 12px; color: #ccc"> Copyright 2003-2018. Eventbee Inc. All Rights Reserved. </span>
 				</center>
 				<span class="footerlinks" style="font-size: 0.7em">
 					<center>
