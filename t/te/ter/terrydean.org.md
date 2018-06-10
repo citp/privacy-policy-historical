@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the terrydean.org privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208073745id_/http%3A//www.mymarketingcoach.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terrydean.org privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610093942id_/http%3A//www.mymarketingcoach.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last Updated: August 30, 2016
+Last Updated: May 1, 2018
 
-MyMarketingCoach, LLC. strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.”
+MyMarketingCoach, LLC. strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.
 
 How we gather information from users
 
@@ -36,7 +36,7 @@ Contacting Us.
 
 We can be reached by contacting:
 
-Website: [Please use this contact form ](https://web.archive.org/web/20171208073745id_/http://www.mymarketingcoach.com/support)
+Website: [Please use this contact form ](https://web.archive.org/web/20180610093942id_/http://www.mymarketingcoach.com/support)
 
 Mail: MyMarketingCoach, LLC., 10380 SW 48th Ave, Ocala, FL 34476
 
@@ -46,7 +46,7 @@ MyMarketingCoach, LLC. reserves the right to change this policy at any time. Ple
 
 Governing law
 
-This policy and the use of this Site are governed by Indiana law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: New Castle, Indiana. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.
+This policy and the use of this Site are governed by Florida law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Ocala, Florida. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.
 
 If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Ocala, Florida under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
 
