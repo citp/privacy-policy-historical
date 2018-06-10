@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naac.gov.in privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208115117id_/http%3A//naac.gov.in/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naac.gov.in privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610215701id_/http%3A//www.naac.gov.in/privacypolicy.asp) for the most accurate reproduction.*
 
 # NATIONAL ASSESSMENT AND ACCREDITATION COUNCIL (NAAC)
 
