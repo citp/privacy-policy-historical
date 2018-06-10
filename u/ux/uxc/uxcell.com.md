@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uxcell.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209220252id_/http%3A//www.uxcell.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uxcell.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610062945id_/http%3A//www.uxcell.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
@@ -18,7 +18,7 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
 We collect information from you when you place an order or enter information on our site.
 
-**How do we use your information?**
+ **How do we use your information?**
 
   
 
@@ -60,14 +60,7 @@ You can choose to have your computer warn you each time a cookie is being sent, 
 
 If you turn cookies off, some features will be disabled. Some of the features that make your site experience more efficient and may not function properly.
 
-  
-
-
-However, you will still be able to place orders 
-
-placing orders
-
-.
+However, you will still be able to place orders
 
  **Third-party disclosure**
 
@@ -180,6 +173,16 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 
 [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and we will promptly remove you from **ALL** correspondence.
 
+**The EU General Data Protection Regulation 2016/679 (the "GDPR")**
+
+Uxcell complies with the GDPR. Any information gathered receives double opt-in consent and can be fully removed from Uxcell's database upon request.  
+
+
+ **Changes to Privacy Policy**
+
+From time to time, Uxcell may change its privacy practices due to changes in relevant and applicable legal or regulatory requirements, the business or business practices of Uxcell, as part of its ongoing efforts to better serve your needs, or for any other reason which Uxcell in its sole discretion may deem necessary. We encourage you to review this Policy whenever you visit our Site or use our Service to view the current Privacy Policy.  
+
+
  **Contacting Us**
 
   
@@ -195,4 +198,4 @@ Kwai Fong, N.T. 0000
 
 Hong Kong
 
-Last Edited on 2016-06-22
+Last Edited on 2018-05-25
