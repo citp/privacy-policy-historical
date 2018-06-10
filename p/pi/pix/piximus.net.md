@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the piximus.net privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208015354id_/http%3A//piximus.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piximus.net privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610044457id_/http%3A//piximus.net/privacy) for the most accurate reproduction.*
 
 # Privacy policy | PIXIMUS.net
 
