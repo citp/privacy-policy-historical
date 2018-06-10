@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thework.com privacy policy that was archived on 2017-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171106223956id_/http%3A//thework.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thework.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610040030id_/http%3A//thework.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Legal Statement | The Work
 
