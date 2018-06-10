@@ -1,102 +1,115 @@
-> *The following text is extracted and transformed from the fujifilmholdings.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208143002id_/http%3A//www.fujifilmholdings.com/en/privacy_policy/website_privacy_policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fujifilmholdings.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610103851id_/http%3A//www.fujifilmholdings.com/en/privacy_policy/website_privacy_policy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy | FUJIFILM Holdings
 
-* * *
-
-* * *
-
-  * [](https://web.archive.org/en/investors/stock_and_bond/stock_price_trends/index.html)
-
-  
-
-
-## 1\. Scope of Our Privacy Policy
+## 1\. Scope of This Privacy Policy
 
   1. Scope of Application
 
-This Privacy Policy applies to the personal information provided by customers (e.g. name, address, phone number, and e-mail address) through website that is managed and operated by FUJIFILM Holdings Corporation (hereinafter, “Company”) and which starts with the URL (website address) http://www.fujifilmholdings.com (hereinafter, “Website”).
+This Privacy Policy describes our commitment to protection of data privacy and how we treat the personal information that we receive from visitors of the websites (“Website(s)”) and users of software applications (“App(s)”) that (i) are managed and operated by FUJIFILM Holdings Corporation (“FUJIFILM” or “we”) and (ii) have a link to this Privacy Policy. By visiting the Website(s) or using the App(s), you acknowledge and agree to be bound by the terms and conditions of this Privacy Policy.
 
-  2. Priority of Special Notes 
+  2. Priority of Special Notes
 
-In case stipulations that differ from the Privacy Policy are clearly indicated on independent sub-sites in this Website through which personal information is provided, the relevant differing stipulations shall be prioritized and applied.
+In case stipulations that differ from this Privacy Policy are clearly indicated (i) on independent sub-sites in the Website(s) or (ii) in the App(s) through which personal information is provided, the relevant differing stipulations shall prevail.
 
 
 
 
 ## 2\. Management of Personal Information
 
-  1. Gathering Personal Information
+  1. Collection of Personal Information
 
-    1. In principle, customers may view the Website without disclosing personal information. However, when the Company receives user registrations, e-mail news distribution requests, and inquiries to the Company, the customer shall be required to provide personal information.
-    2. The Website may collect information such as which content the customer has viewed within the Website, or which website the customer has referred to access the Website. In the process of collecting such information, which purpose is to improve the usability of the Website, information shall not be collected in a manner in which individual customers may be identified, nor shall the individual customers be identified during the process of information analysis.
+In principle, you may view the Website(s) without disclosing personal information. However, when we receive your registration, e-mail news distribution request, and inquiries to us, you may be required to provide personal information.
+
+The Website(s) and App(s) may collect certain technical information, e.g. which content you have viewed within the Website(s), or which website you have referred to access the Website(s). In the process of collecting such information, which purpose is to improve the usability of the Website(s) or App(s), information shall not be collected in a manner in which you may be identified, nor shall you be identified during the process of information analysis.
+
   2. Purpose of Use of Personal Information
 
-    1. On independent sub-sites in this Website that have been created to receive personal information provided by customers, the purpose of use of provided personal information shall be clearly indicated, except in cases where the purpose of use is self-evident to customers.
-    2. The use of personal information provided by customers shall be limited to the purpose of use clearly indicated to the customer in advance, except in cases in which it is clearly permitted in laws, ordinances, and standards related to personal information protection and which apply to such matters.
-  3. Disclosure of Personal Information
+The purpose of use of your personal information shall be clearly indicated in this Privacy Policy or otherwise on individual sites, except in cases where the purpose of use is self-evident to you.  
+The use of personal information provided by you shall be limited to the purpose of use clearly indicated to you in advance. However, we reserve the right to conduct additional processing to the extent permitted or required by relevant laws and regulations, or in support of any legal or criminal investigation.
 
-The Company shall not disclose nor supply the personal information provided by customers to third parties except in the following cases:
+We may process your personal information based on your consent, for the performance of a contract or as necessary for the purposes of our legitimate interests, including for responding to your inquiries and to customize and improve our web offerings, products and services in accordance with your preferences.
 
-    1. When the customer's consent is given in advance.
-    2. When it is necessary to commission operations to the Company's group companies or other affiliated companies.
-    3. When the Company determines from the customer inquiry that it is appropriate for the Company's group company providing the Company's products/services to respond to the customer's inquiry.
-    4. When the customer's name, address, credit card number, and other information is disclosed to financial institutions or other parties for payment settlement when the customer orders products or uses other services which require a fee.
-    5. When personal information is provided to the successor of the operations when the operations are transferred due to reasons such as merger, demerger, and transfer of operations.
-    6. When personal information disclosure is requested under the stipulations of laws and ordinances.
-    7. When there is an immediate need for disclosure to protect human life or human rights.
-    8. When cooperating with requests of judicial institutions, police, or other public bodies and that are based on laws and ordinances.
-  4. Management of Personal Information
+Personal information is only collected if you provide us with this information, e.g. in order to register for personalized services, and only processed and used for the provision of these personalized services, or in order to process your inquiries.
 
-The personal information provided by customers shall be managed in an appropriate manner under the responsibility of each division of the Company that receives such personal information, and they shall prevent accidents such as loss, theft, falsification, and leakage from occurring.
+Furthermore, in connection with the personalized services we may process and use your information for advertising and market research purposes or for personalized provision of services if you have given your consent. If you give your consent the information accessed by you whilst visiting the Websites may be stored in a user profile in order to be able to offer you information specifically personalized for you (e.g. in the form of a newsletter). You may withdraw your consent at any time with effect for the future.
 
-  5. Confirmation, Correction, and Deletion of Personal Information
+If you use personalized services we will use your personal information required for the provision of the services for the duration of your registration and thereafter for as long as required or permitted under applicable laws. We may share your information with affiliated FUJIFILM companies if this is necessary to respond to your inquiries or if necessary for the provision of the services. We may forward inquiries regarding our products and services also to a distributor that is responsible for the relevant product or service category and region.
 
-    1. For questions and inquiries concerning the confirmation, correction, deletion, and other matters regarding a customer's personal information, the Company's point of contact notified when the customer personal information shall receive such requests or inquiries.
-    2. If the point of contact of the Company is unknown, please contact FUJIFILM Holdings.
+If you subscribe to our newsletter, we will use the personal information necessary or separately provided by you to send you our e-mail newsletter as agreed. You may withdraw your consent and unsubscribe from the newsletter at any time either by sending a message to us or via a dedicated unsubscribe link in the newsletter.
+
+If we receive your e-mail address in connection with the sale of goods or services and you have not objected to this, we are entitled to regularly offer you similar goods and services, such as the one you purchased by using your e-mail. You may withdraw your consent to such use of your e-mail address at any time in the future by sending a message to us or via the unsubscribe link provided in our e-mails.
+
+We may be entitled by applicable laws to store your first and last name, postal address and, if applicable, your title and academic degree and use it for our own advertising purposes, in particular for sending offers and information about our goods and services by postal services. You can object to this use of your information at any time for the future by sending a message to us, without incurring other than the transmission costs according to the basic rates.
+
+  3. Data Sharing and Disclosure
+
+We will not disclose or supply, share or otherwise distribute your personal information to third parties except as described in this Privacy Policy. We share personal information when:
+
+(a) your consent is given in advance;
+
+(b) it is necessary to provide you with our services;
+
+(c) we determine from your inquiry in relation to our products/services that it is appropriate for affiliated FUJIFILM companies to respond to your inquiry;
+
+(d) you order products or use other services which require a fee, your name, address, credit card number, and other information is disclosed to financial institutions or other parties for payment settlement;
+
+(e) our business is assigned or transferred either by operation in law or otherwise including mergers, consolidations and dissolution or transfer of operations;
+
+(f) your personal information disclosure is required by applicable laws and regulations or such disclosure is otherwise necessary in support of any criminal or other legal investigation or proceeding conducted by relevant authorities; or
+
+(g) there is an immediate need for disclosure to protect human life or human rights.
+
+  4. International Data Transfer
+
+We may transfer the personal information we collect to, and store such information in, other countries which may have different privacy or data protection laws than the country in which the information was provided. In such case, we will take appropriate measures to protect your personal information.
+
+  5. Data Security
+
+FUJIFILM takes adequate technical and organizational security measures in order to protect your personal information from being misused and to prevent the loss of your information. Your personal information is saved in a secure operating environment that is not accessible to the public. All personal information provided by you in the course of registration or use of personalized services will be transferred in encrypted form in order to prevent misuse of the information by any third party.
+
+  6. Your Rights Relating to Your Personal Information
+
+To the extent provided by applicable laws, you have the right to request of access to and correction or deletion of personal information or restriction of processing concerning you or to object to processing as well as the right to data portability.
+
+Depending on your location, you may have the right to lodge a complaint with a competent supervisory authority in accordance with the applicable laws if you consider that the processing of personal data relating to you infringes the applicable laws. For this purpose, you may contact in particular the supervisory authority in the country of your habitual residence or the place of the alleged infringement.
 
 
-  * [Contact FUJIFILM Holdings ](https://www.fujifilmholdings.com/en/form/general/input.php?id=FHGeneralEn)
+
+
+## 3\. Use of Cookies, Webtools and Social Media Plug-ins
+
+  1. Use of Cookies and Webtools 
+
+Various web tools (analysis programs and social media services) have been integrated into the Website(s) or App(s) that use “Cookies” or similar technologies. Cookies are text files that are sent by a web server to the user's browser or the App(s) in order to store information on the user's devices via the browser or Apps that is being used, for example the user's current IP address and information about the user. The next time the web server is accessed, the applicable information regarding the user is transmitted from the Cookie file.  
+On this Website(s) or App(s), we have engaged some service providers to track and analyze usage and volume statistical information from you. Such service providers may set cookies on behalf of us. We also use other third-party cookies to track the effectiveness of the Websites/App(s) and to advertise our products and services. Some of the web tools that track you include Google Analytics, Google Adwords, Marketo, and Facebook.
+
+You may deactivate the use of cookies via your browser settings at any time. Please note, however, that in this case you may not be able to make full use of the complete range of functions offered by the Websites.  
+Some e-mails that we send you, such as personal correspondence, do not track you. However, other e-mails we send might include tracking mechanisms so that we can identify how much traffic those e-mails send to the Website(s) as well as whether an individual user has opened and clicked on the e-mail. If you want to be sure that none of your e-mail activity is tracked, please unsubscribe from our newsletters and marketing correspondence.
+
+  2. Social Network Plug-in 
+
+On the Website(s), plug-ins for the social networks (“network”) have been or may be integrated. When you access the Website(s), these plug-ins can potentially create a direct connection between your browser and the server of the respective network. The content of the plug-in will be directly transmitted from the network to your browser, which will integrate it into the Website(s). We have no control regarding the scope of the data which is collected with the aid of the plug-in. The integrated plug-in informs the network that the user has accessed our website and informs the network of the user's IP address. If the user is logged in to the network of this plug-in at that point in time, the network will be able to link the visit with the user's account.
+
+If the user interacts with the plug-ins, for example in the case of Twitter by clicking on “Tweet This” or with Facebook by clicking the ‘I like' button or making a comment, the corresponding information will be transmitted directly from the user's browser to the network where it will then be stored. Furthermore, additional personal data may also be transmitted and stored there, for example the user's IP address, personal browser settings and other parameters.
+
+If you are a member of the respective network and do not want it to collect information about you via the Website(s) and to link this information with the data that the network has already stored about you, then please close the Website(s), log out from your user account for the respective network and afterwards visit the Website(s) once again.
+
+If you are not a member of the network or you have logged from the network before visiting the Website(s), the possibility still exists that the network will ascertain (at least) your IP address and store it. Please note that this information is already exchanged when you visit the Website(s), regardless whether you interact with the plug-ins or not.
 
 
 
-## 3\. Personal Information of Customers who are Under the Age of 16
 
-Regarding personal information of customers who are under the age of 16, information must be provided with the consent of their guardians.
+## 4\. Children's Personal Information
 
-  1. In principle, as a countermeasure against illegal third party interception, the Transport Layer Security (TLS) method shall be used to encrypt the data on the data entry form, which is made available on The Website (s) so customers may provide their personal information.
-  2. On The Website (s), in addition to TLS encrypted data entry forms, there may be cases in which data entry forms without TLS data encryption are made available for customers whose browsers are not compatible with TLS encryption. Please note before using such data entry forms that the transferred data will not be encrypted and that there is the possibility that a third party will illegally intercept the data and read it.
+We do not knowingly collect or solicit personal information from children defined by local laws. We encourage parents and guardians to take an active role in their children's online activities and interests. 
 
+The Website(s) may contain links to other websites. Please be aware that FUJIFILM is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave one of our websites and to read the privacy statements of each and every website that collects personal information. This privacy policy applies solely to information collected by the Website(s).
 
+## 7\. Changes to the Privacy Policy
 
-  1. Cookies refer to a technology to store information such as use history on the customer's computer in order to facilitate more convenient use of websites. The Website may use cookies for the following purpose in a way that does not identify the customer.
+FUJIFILM reserves the right to change, amend, or update this Privacy Policy. If we do decide to change our Privacy Policy, we will post the revised Privacy Policy. On return visits to our site, please remember to review the Privacy Policy for any changes, since continued use of the Website(s) or the App(s) after any posted revision indicates your consent to our use your information in accordance with the changed, amended, or updated Privacy Policy.
 
-    1. To provide the “Save Password” function for members-only sites where customers input their ID and password to view content.
-    2. To analyze customer access to the Website in order to improve the operability of the Website or to identify the cause of problems on the Website.
-  2. By changing the settings on the Internet browser, customers may disable their cookies or set it so that a warning appears on the computer screen before cookies are issued. However, please note that some services provided through the Website may not be used if the use of cookies is disabled.
+Last update: May 1, 2018
 
-
-
-Also called a clear GIF or a pixel tag, a web beacon is a small graphic image that is placed on a website. By using web beacons, the customers' viewing status can be analyzed in a way that does not identify the customer to improve the Website and to make it more convenient for customers.
-
-The Privacy Policy shall not apply to other websites that are linked from the Website. For information on how personal information is handled on other websites, please refer to the relevant website's personal information policies.
-
-## 8\. Compliance with Laws and Ordinances
-
-In handling personal information provided by customers, the Company shall comply with laws, ordinances, and standards related to the protection of personal information which applies to such matters.
-
-## 9\. Changes to The Privacy Policy
-
-The Company shall continuously review its efforts in protecting the Company's personal information and may change the Privacy Policy as necessary in the process of improving and enhancing such efforts.
-
-## 10\. Inquiries regarding The Privacy Policy
-
-Last update: December 1, 2014
-
-Internet Office  
 FUJIFILM Holdings Corporation
-
-  
-
-
-* * *
