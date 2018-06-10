@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the starhub.com privacy policy that was archived on 2017-11-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171130155134id_/http%3A//www.starhub.com/about-us/legal-notices-and-terms/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the starhub.com privacy policy that was archived on 2018-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180610182240id_/http%3A//www.starhub.com/about-us/legal-notices-and-terms/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html itemscope="" itemtype="http://schema.org/Product" class="no-js linux chrome chrome6 webkit webkit5"><!--<![endif]--><head>
-     <meta http-equiv="X-UA-Compatible" content="IE=9,10,11,chrome=1">
+	<meta property="fb:pages" content="134934362471"> 
+	<meta http-equiv="X-UA-Compatible" content="IE=9,10,11,chrome=1">
     
          <meta name="robots" content="index, follow">
 		<link rel="canonical" href="http://www.starhub.com/about-us/legal-notices-and-terms/privacy-policy.html">
@@ -10,7 +11,7 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1,user-scalable=no">
     
- 	<meta name="keywords" content="Privacy Policy, StarHub, Legal Statement,">
+ 	<meta name="keywords" content="Legal Statement, Privacy Policy, StarHub,">
     
     
     <meta name="description" content="">
@@ -58,7 +59,7 @@
 
     <!-- ------------------ General CSS ----------------------------- -->
 
- 	<link rel="stylesheet" href="/etc/designs/starhub/clientlibs/themeslib.css" type="text/css">
+ 	<link rel="stylesheet" href="/etc/designs/starhub/clientlibs/themeslib.min.css" type="text/css">
 
     
     
@@ -71,12 +72,12 @@
 
     <!-- ------------------ Special Handling for Home Page CSS -------------- -->
     
-    <script type="text/javascript" id="www-widgetapi-script" src="https://web.archive.org/web/20170405110144/http://s.ytimg.com/yts/jsbin/www-widgetapi-vfl9bgVTV/www-widgetapi.js" async=""></script><script src="https://web.archive.org/web/20170405105742/https://www.youtube.com/player_api"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-DGFP"></script><script id="facebook-jssdk" src="//web.archive.org/web/20170405105742/http://connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=1483096311978474"></script><script type="text/javascript" src="/etc/clientlibs/granite/jquery.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/granite/utils.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/granite/jquery/granite.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/foundation/jquery.js"></script>
+    <script type="text/javascript" id="www-widgetapi-script" src="https://web.archive.org/web/20180928233040/https://s.ytimg.com/yts/jsbin/www-widgetapi-vflvi9no-/www-widgetapi.js" async=""></script><script src="https://web.archive.org/web/20180928233138/https://www.youtube.com/player_api"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-DGFP"></script><script id="facebook-jssdk" src="//web.archive.org/web/20180928233138/http://connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=1483096311978474"></script><script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/jquery.min.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/utils.min.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/jquery/granite.min.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/jquery.min.js"></script>
 
-    <script type="text/javascript" src="/etc/designs/starhub/clientlibs/revamp/source/starhubrevamp.js"></script>
+    <script type="text/javascript" src="/etc/designs/starhub/clientlibs/revamp/source/starhubrevamp.min.js"></script>
 
     
 
@@ -94,10 +95,12 @@
     
     
     <!-- ------------End of Search and Promote tags --------------- -->
+
+    <!------------------------ Data Layer DTM --------------------------->
     <script type="text/javascript">
-        var isLogin=false;
-        var hubID="";
-		 var dataLayerSH = {
+        var isLogin = localStorage.getItem('loginStatus') || false;
+        var hubID = localStorage.getItem('hubID') || "";
+	    var dataLayerSH = {
         		"pageName":"about-us:brand:legal-notices-and-terms:privacy-policy",
         		"channel":"about-us:brand",
         		"pageType":"legal notices and terms",
@@ -105,37 +108,29 @@
         		"siteSectionLevel1":"about-us:brand",
         		"siteSectionLevel2":"about-us:brand:legal-notices-and-terms",
         		"siteSectionLevel3":"about-us:brand:legal-notices-and-terms:privacy-policy",
-            	"hubID":hubID,
-    				};   
-        // $(document).ready(function(){    
-
-    $.getJSON('/content/starhub/en/dev/login/status.json', function( data ) {    
-            var items = [];
-            $.each( data, function( key, val ) {
-                items.push(val);     
-            });   
-
-            isLogin = items[0];
-
-            if(items.length >1){
-                hubID =  items[4];
-            }
+            	"hubID":hubID
+    	};
+        $(document).ready(function(){
+            $.getJSON('/content/starhub/en/dev/login/status.json').done(function( data ) {
+                isLogin = data.isLogin;
+                hubID = data.encHubId;
+            }).always(function() {
+                dataLayerSH.loginStatus=isLogin;
+                dataLayerSH.hubID = hubID;
+                localStorage.setItem('loginStatus', isLogin);
+                localStorage.setItem('hubID', hubID);
+            });
         });
-
-            dataLayerSH.loginStatus=isLogin;
-			dataLayerSH.hubID=hubID;
-        //	});
-
-
-
-    </script>    
+    </script>
+    <!-------------------------------- Data Layer DTM ------------------------------------------>
   
     <script src="//assets.adobedtm.com/4539ad8668efd013580f282afcf0a06ea0526276/satelliteLib-512fcaaeea3c2c159c063bf07a5db284903f6723.js"></script>
     <script>$('a[href="#"]').click(function(e){e.preventDefault()})</script>
     
 <style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}.fb_link img{border:none}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
-.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_reset .fb_dialog_legacy{overflow:visible}.fb_dialog_advanced{padding:10px;-moz-border-radius:8px;-webkit-border-radius:8px;border-radius:8px}.fb_dialog_content{background:#fff;color:#333}.fb_dialog_close_icon{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{top:5px;left:5px;right:auto}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_loader{background-color:#f6f7f9;border:1px solid #606060;font-size:24px;padding:20px}.fb_dialog_top_left,.fb_dialog_top_right,.fb_dialog_bottom_left,.fb_dialog_bottom_right{height:10px;width:10px;overflow:hidden;position:absolute}.fb_dialog_top_left{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 0;left:-10px;top:-10px}.fb_dialog_top_right{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -10px;right:-10px;top:-10px}.fb_dialog_bottom_left{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -20px;bottom:-10px;left:-10px}.fb_dialog_bottom_right{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -30px;right:-10px;bottom:-10px}.fb_dialog_vert_left,.fb_dialog_vert_right,.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{position:absolute;background:#525252;filter:alpha(opacity=70);opacity:.7}.fb_dialog_vert_left,.fb_dialog_vert_right{width:10px;height:100%}.fb_dialog_vert_left{margin-left:-10px}.fb_dialog_vert_right{right:0;margin-right:-10px}.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{width:100%;height:10px}.fb_dialog_horiz_top{margin-top:-10px}.fb_dialog_horiz_bottom{bottom:0;margin-bottom:-10px}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{-webkit-transform:none;height:100%;margin:0;overflow:visible;position:absolute;top:-10000px;left:0;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{width:auto;height:auto;min-height:initial;min-width:initial;background:none}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{color:#fff;display:block;padding-top:20px;clear:both;font-size:18px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .45);position:absolute;bottom:0;left:0;right:0;top:0;width:100%;min-height:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_content .dialog_header{-webkit-box-shadow:white 0 1px 1px -1px inset;background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#738ABA), to(#2C4987));border-bottom:1px solid;border-color:#1d4088;color:#fff;font:14px Helvetica, sans-serif;font-weight:bold;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{-webkit-font-smoothing:subpixel-antialiased;height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#4966A6), color-stop(.5, #355492), to(#2A4887));border:1px solid #29487d;-webkit-background-clip:padding-box;-webkit-border-radius:3px;-webkit-box-shadow:rgba(0, 0, 0, .117188) 0 1px 1px inset, rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-width:85px;line-height:18px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{border:none;background:none;color:#fff;font:12px Helvetica, sans-serif;font-weight:bold;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #555;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f6f7f9;border:1px solid #555;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-repeat:no-repeat;background-position:50% 50%;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
-.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_hide_iframes iframe{position:relative;left:-10000px}.fb_iframe_widget_loader{position:relative;display:inline-block}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}.fb_iframe_widget_loader iframe{min-height:32px;z-index:2;zoom:1}.fb_iframe_widget_loader .FB_Loader{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat;height:32px;width:32px;margin-left:-16px;position:absolute;left:50%;z-index:4}</style></head>
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_reset .fb_dialog_legacy{overflow:visible}.fb_dialog_advanced{padding:10px;border-radius:8px}.fb_dialog_content{background:#fff;color:#333}.fb_dialog_close_icon{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{top:5px;left:5px;right:auto}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_loader{background-color:#f5f6f7;border:1px solid #606060;font-size:24px;padding:20px}.fb_dialog_top_left,.fb_dialog_top_right,.fb_dialog_bottom_left,.fb_dialog_bottom_right{height:10px;width:10px;overflow:hidden;position:absolute}.fb_dialog_top_left{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 0;left:-10px;top:-10px}.fb_dialog_top_right{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -10px;right:-10px;top:-10px}.fb_dialog_bottom_left{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -20px;bottom:-10px;left:-10px}.fb_dialog_bottom_right{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -30px;right:-10px;bottom:-10px}.fb_dialog_vert_left,.fb_dialog_vert_right,.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{position:absolute;background:#525252;filter:alpha(opacity=70);opacity:.7}.fb_dialog_vert_left,.fb_dialog_vert_right{width:10px;height:100%}.fb_dialog_vert_left{margin-left:-10px}.fb_dialog_vert_right{right:0;margin-right:-10px}.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{width:100%;height:10px}.fb_dialog_horiz_top{margin-top:-10px}.fb_dialog_horiz_bottom{bottom:0;margin-bottom:-10px}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{-webkit-transform:none;height:100%;margin:0;overflow:visible;position:absolute;top:-10000px;left:0;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{width:auto;height:auto;min-height:initial;min-width:initial;background:none}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{color:#fff;display:block;padding-top:20px;clear:both;font-size:18px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .45);position:absolute;bottom:0;left:0;right:0;top:0;width:100%;min-height:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_mobile .fb_dialog_iframe{position:-webkit-sticky;top:0}.fb_dialog_content .dialog_header{-webkit-box-shadow:white 0 1px 1px -1px inset;background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#738ABA), to(#2C4987));border-bottom:1px solid;border-color:#1d4088;color:#fff;font:14px Helvetica, sans-serif;font-weight:bold;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{-webkit-font-smoothing:subpixel-antialiased;height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#4966A6), color-stop(.5, #355492), to(#2A4887));border:1px solid #29487d;-webkit-background-clip:padding-box;-webkit-border-radius:3px;-webkit-box-shadow:rgba(0, 0, 0, .117188) 0 1px 1px inset, rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-width:85px;line-height:18px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{border:none;background:none;color:#fff;font:12px Helvetica, sans-serif;font-weight:bold;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #555;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f5f6f7;border:1px solid #555;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-repeat:no-repeat;background-position:50% 50%;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_hide_iframes iframe{position:relative;left:-10000px}.fb_iframe_widget_loader{position:relative;display:inline-block}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}.fb_iframe_widget_loader iframe{min-height:32px;z-index:2;zoom:1}.fb_iframe_widget_loader .FB_Loader{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat;height:32px;width:32px;margin-left:-16px;position:absolute;left:50%;z-index:4}
+.fb_customer_chat_bounce_in_v2{animation-duration:300ms;animation-name:fb_bounce_in_v2;transition-timing-function:ease-in}.fb_customer_chat_bounce_out_v2{animation-duration:300ms;animation-name:fb_bounce_out_v2;transition-timing-function:ease-in}.fb_customer_chat_bounce_in_v2_mobile_chat_started{animation-duration:300ms;animation-name:fb_bounce_in_v2_mobile_chat_started;transition-timing-function:ease-in}.fb_customer_chat_bounce_out_v2_mobile_chat_started{animation-duration:300ms;animation-name:fb_bounce_out_v2_mobile_chat_started;transition-timing-function:ease-in}.fb_customer_chat_bubble_pop_in{animation-duration:250ms;animation-name:fb_customer_chat_bubble_bounce_in_animation}.fb_customer_chat_bubble_animated_no_badge{box-shadow:0 3px 12px rgba(0, 0, 0, .15);transition:box-shadow 150ms linear}.fb_customer_chat_bubble_animated_no_badge:hover{box-shadow:0 5px 24px rgba(0, 0, 0, .3)}.fb_customer_chat_bubble_animated_with_badge{box-shadow:-5px 4px 14px rgba(0, 0, 0, .15);transition:box-shadow 150ms linear}.fb_customer_chat_bubble_animated_with_badge:hover{box-shadow:-5px 8px 24px rgba(0, 0, 0, .2)}.fb_invisible_flow{display:inherit;height:0;overflow-x:hidden;width:0}.fb_mobile_overlay_active{background-color:#fff;height:100%;overflow:hidden;position:fixed;visibility:hidden;width:100%}@keyframes fb_bounce_in_v2{0%{opacity:0;transform:scale(0, 0);transform-origin:bottom right}50%{transform:scale(1.03, 1.03);transform-origin:bottom right}100%{opacity:1;transform:scale(1, 1);transform-origin:bottom right}}@keyframes fb_bounce_in_v2_mobile_chat_started{0%{opacity:0;top:20px}100%{opacity:1;top:0}}@keyframes fb_bounce_out_v2{0%{opacity:1;transform:scale(1, 1);transform-origin:bottom right}100%{opacity:0;transform:scale(0, 0);transform-origin:bottom right}}@keyframes fb_bounce_out_v2_mobile_chat_started{0%{opacity:1;top:0}100%{opacity:0;top:20px}}@keyframes fb_customer_chat_bubble_bounce_in_animation{0%{bottom:6pt;opacity:0;transform:scale(0, 0);transform-origin:center}70%{bottom:18pt;opacity:1;transform:scale(1.2, 1.2)}100%{transform:scale(1, 1)}}</style></head>
 	
 
  
@@ -190,13 +185,13 @@
        
 
 
-<div class="parbase clientcontext"><script type="text/javascript" src="/etc/clientlibs/foundation/shared.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/granite/underscore.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/foundation/personalization/kernel.js"></script>
+<div class="clientcontext parbase"><script type="text/javascript" src="/etc/clientlibs/foundation/shared.min.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/lodash/modern.min.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/personalization/kernel.min.js"></script>
 <script type="text/javascript">
     $CQ(function() {
-        CQ_Analytics.SegmentMgr.loadSegments("/etc/segmentation");
-        CQ_Analytics.ClientContextUtils.init("/etc/clientcontext/default","/content/starhub1/en/about-us/legal-notices-and-terms/privacy-policy");
+        CQ_Analytics.SegmentMgr.loadSegments("\/etc\/segmentation");
+        CQ_Analytics.ClientContextUtils.init("\/etc\/clientcontext\/default", "\/content\/starhub1\/en\/about\u002Dus\/legal\u002Dnotices\u002Dand\u002Dterms\/privacy\u002Dpolicy");
 
         
     });
@@ -214,7 +209,7 @@
 		
 		
          
-			<div class="globalimportantmessage_v1 globalimportantmessage">
+			<div class="globalimportantmessage globalimportantmessage_v1">
 
 
                      
@@ -428,8 +423,8 @@ var enablePersCookie = false;
 
                     
                     
-                 <div class="parsys iparsys toppar"><div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="parsys iparsys toppar"><div class="topnavigation_v1 section">
+                 <div class="toppar iparsys parsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="toppar iparsys parsys"><div class="topnavigation_v1 section">
 
 
 
@@ -473,47 +468,55 @@ var enablePersCookie = false;
 <nav id="global" class="navbar navbar-default bg-starhub-green">
     <div class="container">
    
-        <div class="navbar-header">
-             <button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target="#sh-nav">
-                 
-                		<span class="cur-page hidden">About Us</span><span class="arrow-toggle"></span>
-                 
+        <div class="navbar-header pull-right">
+            <button class="navbar-toggle collapsed pull-right" type="button" data-toggle="collapse" data-target="#sh-nav">
+                
+                <span class="cur-page hidden">About Us</span><span class="arrow-toggle"></span>
+                
             </button>
-            <a class="navbar-brand" href="http://www.starhub.com/">
-				<div class="sh-logo header1"></div>
+            <ul class="nav navbar-nav navbar-right pull-right">
+                
+            </ul>
+        </div>
+
+        <div class="navbar-header pull-left">
+            <a class="navbar-brand pull-left" href="http://www.starhub.com/">
+                <div class="sh-logo header1"></div>
             </a>
+
+        </div>
+        <div class="navbar-header">
+            <!-- empty -->
         </div>
         <ul class="nav navbar-nav navbar-right collapse navbar-collapse" id="sh-nav">
-   
-            <li class="">
-            <a class="tooltipp" href="/personal.html">Personal
-            	
-            
-            <div class="tooltipptext">Find services for you and your family.</div>
-            
-            </a></li>
             
             <li class="">
-            <a class="tooltipp" href="/business.html">Business
-            	
+                <a class="tooltipp" href="/personal.html">Personal
+                    
+                    
+                    <div class="tooltipptext">Find services for you and your family.</div>
+                    
+                </a></li>
             
-            <div class="tooltipptext">See our business solutions.</div>
-            
-            </a></li>
+            <li class="">
+                <a class="tooltipp" href="/business.html">Business
+                    
+                    
+                    <div class="tooltipptext">See our business solutions.</div>
+                    
+                </a></li>
             
             <li class="active">
-            <a class="tooltipp" href="/about-us.html">About Us
-            	
-            
-            <div class="tooltipptext">Read about us. Or start a career here.</div>
-            
-            </a></li>
+                <a class="tooltipp" href="/about-us.html">About Us
+                    
+                    
+                    <div class="tooltipptext">Read about us. Or start a career here.</div>
+                    
+                </a></li>
             
         </ul>
     </div>
 </nav>
-
-
 
 <!-- ALV { -->
 <div class="searchPopup ebg">
@@ -536,7 +539,6 @@ var enablePersCookie = false;
         <div class="searchPanel clearF desktopOnly">
             <div class="searchCol1 searchCol">
                 <div class="panelTitle">
-
                     Company Information
                 </div>
                 <div class="panelBorder"></div>
@@ -546,13 +548,11 @@ var enablePersCookie = false;
                                 <div class="image fLeft">
                                     <img src="/content/dam/starhub/2015/about-us/tiles/tile-company-info.jpg" width="85" height="47">
                                 </div>
-                                <div class="title" onclick="dtmTrackCustomLink(dtmComponentNames.SEARCH_LIGHTBOX_LINKS, $(this).text(), 'Company\x20Information');top.location.href='/content/starhub1/en/about-us/company-information/profile';">
+                                <div class="title" onclick="dtmTrackCustomLink(dtmComponentNames.SEARCH_LIGHTBOX_LINKS, $(this).text(), 'Company Information');top.location.href='/content/starhub1/en/about-us/company-information/profile';">
                                     Profile
                                 </div>
                    			 </div>
-
                     
-
                 </div>
             </div>
             <div class="searchCol2 searchCol">
@@ -574,8 +574,6 @@ var enablePersCookie = false;
             </div>
             
         </div>
-        
-        
         <div class="searchPanel clearF mobileOnly main-graphic">
             <div class="container-bxslider">
                 <div class="bxslider">
@@ -588,11 +586,10 @@ var enablePersCookie = false;
                                         <div class="image fLeft">
                                             <img src="/content/dam/starhub/2015/about-us/tiles/tile-company-info.jpg" width="85" height="47">
                                         </div>
-                                        <div class="title" onclick="dtmTrackCustomLink(dtmComponentNames.SEARCH_LIGHTBOX_LINKS, $(this).text(), 'Company\x20Information');top.location.href='/content/starhub1/en/about-us/company-information/profile';">
+                                        <div class="title" onclick="dtmTrackCustomLink(dtmComponentNames.SEARCH_LIGHTBOX_LINKS, $(this).text(), 'Company Information');top.location.href='/content/starhub1/en/about-us/company-information/profile';">
                                             Profile
                                         </div>
                                      </div>
-        
                             
                         </div>
                     </div>
@@ -609,7 +606,6 @@ var enablePersCookie = false;
                                                 Join us
                                             </div>
                                          </div>
-
                                 
                         </div>
                     </div>
@@ -617,15 +613,10 @@ var enablePersCookie = false;
                 </div>
             </div>
         </div>
-        
     </div>
 </div>
 
-
-
 <!-- } ALV -->
-
-
 
  <div class="header">
 	    <div class="container">
@@ -740,7 +731,6 @@ var enablePersCookie = false;
                                         </div>
                                     </form>
                                 </div>
-
 					        </div>
 		    			</div>
 		    		</div>
@@ -754,7 +744,7 @@ var enablePersCookie = false;
     <div class="container side">
         <div class="row">
             <div class="col-sm-24">
-                <div class="side-fill" style="height: 1594px;">
+                <div class="side-fill" style="height: 1407px;">
                     <div class="overlay"></div>
                 </div>
             </div>
@@ -765,14 +755,13 @@ var enablePersCookie = false;
             <div class="col-sm-8 col-md-7 level no-border">
                 <div class="overlay"></div>
                 <!-- mega menu here -->
-                <ul name="Main" class="nav nav-pills nav-stacked" style="height: 1554px;">
+                <ul name="Main" class="nav nav-pills nav-stacked" style="height: 1367px;">
                 
 	                
 	                	 <li role="presentation" class="marginBottom0">
 	                	 <a href="#" class="notClickable" child-nav="#/content/starhub1/en/about-us/company-information/profile.html">
 	                	 	<div class="nav-grp">
 	                	 		<div class="nav-grp-text">Company Information</div>
-	                	 	
 	                	 	
 	                	 		<span class="right-angle-quote"></span>
 	                	 	
@@ -781,10 +770,9 @@ var enablePersCookie = false;
 						</li>
 					
 	                	 <li role="presentation" class="">
-	                	 <a href="#" class="notClickable" child-nav="#/content/starhub1/en/about-us/corporate-sustainability-and-responsibility.html">
+	                	 <a href="#" class="notClickable" child-nav="#/content/starhub1/en/about-us/corporate-sustainability.html">
 	                	 	<div class="nav-grp">
 	                	 		<div class="nav-grp-text">Corporate Sustainability</div>
-	                	 	
 	                	 	
 	                	 		<span class="right-angle-quote"></span>
 	                	 	
@@ -796,7 +784,6 @@ var enablePersCookie = false;
 	                	 <a href="#" class="notClickable" child-nav="#/content/starhub1/en/about-us/careers.html">
 	                	 	<div class="nav-grp">
 	                	 		<div class="nav-grp-text">Careers</div>
-	                	 	
 	                	 	
 	                	 		<span class="right-angle-quote"></span>
 	                	 	
@@ -834,7 +821,7 @@ var enablePersCookie = false;
                 
                 
                 	
-                		<ul name="/content/starhub1/en/about-us/company-information/profile.html" class="nav nav-pills nav-stacked hidden nav-menu-level2" style="height: 1554px;">
+                		<ul name="/content/starhub1/en/about-us/company-information/profile.html" class="nav nav-pills nav-stacked hidden nav-menu-level2" style="height: 1367px;">
                 	
                 	
 	                	<li role="presentation">
@@ -898,39 +885,19 @@ var enablePersCookie = false;
 					</ul>
 				
                 	
-                		<ul name="/content/starhub1/en/about-us/corporate-sustainability-and-responsibility.html" class="nav nav-pills nav-stacked hidden nav-menu-level2" style="height: 1554px;">
+                		<ul name="/content/starhub1/en/about-us/corporate-sustainability.html" class="nav nav-pills nav-stacked hidden nav-menu-level2" style="height: 1367px;">
                 	
                 	
 	                	<li role="presentation">
-							<a class="header " href="/about-us/corporate-sustainability-and-responsibility.html"> Corporate Sustainability
+							<a class="header " href="/about-us/corporate-sustainability.html"> Corporate Sustainability
 							
 							</a>
 						</li>
 						
 								<li role="presentation">
-									<a href="/about-us/corporate-sustainability-and-responsibility/community-relations.html" class=" " child-nav="#/content/starhub1/en/about-us/corporate-sustainability-and-responsibility/community-relations.html">
-			                            <div class="nav-grp">
-			                                <div class="nav-grp-text"> Community Relations</div>
-			                                 
-			                                
-			                            </div>
-	                        		</a>
-								</li>
-						
-								<li role="presentation">
-									<a href="/about-us/corporate-sustainability-and-responsibility/starhub-green-movement.html" class=" " child-nav="#/content/starhub1/en/about-us/corporate-sustainability-and-responsibility/starhub-green-movement.html">
+									<a href="/about-us/corporate-sustainability/starhub-green-movement.html" class=" " child-nav="#/content/starhub1/en/about-us/corporate-sustainability/starhub-green-movement.html">
 			                            <div class="nav-grp">
 			                                <div class="nav-grp-text"> StarHub Green Movement</div>
-			                                 
-			                                
-			                            </div>
-	                        		</a>
-								</li>
-						
-								<li role="presentation">
-									<a href="/about-us/corporate-sustainability-and-responsibility/recycling-nations-electronic-waste.html" class=" " child-nav="#/content/starhub1/en/about-us/corporate-sustainability-and-responsibility/recycling-nations-electronic-waste.html">
-			                            <div class="nav-grp">
-			                                <div class="nav-grp-text"> RENEW (REcycling Nation's Electronic Waste)</div>
 			                                 
 			                                
 			                            </div>
@@ -940,7 +907,7 @@ var enablePersCookie = false;
 					</ul>
 				
                 	
-                		<ul name="/content/starhub1/en/about-us/careers.html" class="nav nav-pills nav-stacked hidden nav-menu-level2" style="height: 1554px;">
+                		<ul name="/content/starhub1/en/about-us/careers.html" class="nav nav-pills nav-stacked hidden nav-menu-level2" style="height: 1367px;">
                 	
                 	
 	                	<li role="presentation">
@@ -1023,7 +990,7 @@ var enablePersCookie = false;
 										
 						
 	                	
-							<ul id="item-0-0" class="nav nav-pills nav-stacked hidden" style="height: 1554px; display: none;">
+							<ul id="item-0-0" class="nav nav-pills nav-stacked hidden" style="height: 1367px; display: none;">
 	                	
 						<li role="presentation" data-menu="header">
                      		<a class="header " href="/about-us/company-information/profile.html">Profile
@@ -1036,7 +1003,7 @@ var enablePersCookie = false;
 										
 						
 	                	
-							<ul id="item-0-1" class="nav nav-pills nav-stacked hidden" style="height: 1554px;">
+							<ul id="item-0-1" class="nav nav-pills nav-stacked hidden" style="height: 1367px;">
 	                	
 						<li role="presentation" data-menu="header">
                      		<a class="header " href="/about-us/company-information/logo-and-culture.html">Logo &amp; Culture
@@ -1049,7 +1016,7 @@ var enablePersCookie = false;
 										
 						
 	                	
-							<ul id="item-0-2" class="nav nav-pills nav-stacked hidden" style="height: 1554px;">
+							<ul id="item-0-2" class="nav nav-pills nav-stacked hidden" style="height: 1367px;">
 	                	
 						<li role="presentation" data-menu="header">
                      		<a class="header " href="/about-us/company-information/milestones.html">Milestones
@@ -1062,7 +1029,7 @@ var enablePersCookie = false;
 										
 						
 	                	
-							<ul id="item-0-3" class="nav nav-pills nav-stacked hidden" style="height: 1554px;">
+							<ul id="item-0-3" class="nav nav-pills nav-stacked hidden" style="height: 1367px;">
 	                	
 						<li role="presentation" data-menu="header">
                      		<a class="header " href="/about-us/company-information/awards-and-certification.html">Awards &amp; Certification
@@ -1074,7 +1041,7 @@ var enablePersCookie = false;
 						</ul>
 										
 						
-	                		<ul id="item-0-4" name="/content/starhub1/en/about-us/company-information/corporate-structure.html" class="nav nav-pills nav-stacked hidden nav-menu-level3" style="height: 1554px;">
+	                		<ul id="item-0-4" name="/content/starhub1/en/about-us/company-information/corporate-structure.html" class="nav nav-pills nav-stacked hidden nav-menu-level3" style="height: 1367px;">
 	                	
 	                	
 						<li role="presentation" data-menu="header">
@@ -1122,36 +1089,10 @@ var enablePersCookie = false;
 										
 						
 	                	
-							<ul id="item-1-0" class="nav nav-pills nav-stacked hidden" style="height: 1554px;">
+							<ul id="item-1-0" class="nav nav-pills nav-stacked hidden" style="height: 1367px;">
 	                	
 						<li role="presentation" data-menu="header">
-                     		<a class="header " href="/about-us/corporate-sustainability-and-responsibility/community-relations.html">Community Relations
-	                     		
-                     		</a>
-                		 </li>     
-							
-							
-						</ul>
-										
-						
-	                	
-							<ul id="item-1-1" class="nav nav-pills nav-stacked hidden" style="height: 1554px;">
-	                	
-						<li role="presentation" data-menu="header">
-                     		<a class="header " href="/about-us/corporate-sustainability-and-responsibility/starhub-green-movement.html">StarHub Green Movement
-	                     		
-                     		</a>
-                		 </li>     
-							
-							
-						</ul>
-										
-						
-	                	
-							<ul id="item-1-2" class="nav nav-pills nav-stacked hidden" style="height: 1554px;">
-	                	
-						<li role="presentation" data-menu="header">
-                     		<a class="header " href="/about-us/corporate-sustainability-and-responsibility/recycling-nations-electronic-waste.html">RENEW (REcycling Nation's Electronic Waste)
+                     		<a class="header " href="/about-us/corporate-sustainability/starhub-green-movement.html">StarHub Green Movement
 	                     		
                      		</a>
                 		 </li>     
@@ -1163,7 +1104,7 @@ var enablePersCookie = false;
 										
 						
 	                	
-							<ul id="item-2-0" class="nav nav-pills nav-stacked hidden" style="height: 1554px;">
+							<ul id="item-2-0" class="nav nav-pills nav-stacked hidden" style="height: 1367px;">
 	                	
 						<li role="presentation" data-menu="header">
                      		<a class="header " href="/about-us/careers/careers-at-starhub.html">Careers @ StarHub
@@ -1176,7 +1117,7 @@ var enablePersCookie = false;
 										
 						
 	                	
-							<ul id="item-2-1" class="nav nav-pills nav-stacked hidden" style="height: 1554px;">
+							<ul id="item-2-1" class="nav nav-pills nav-stacked hidden" style="height: 1367px;">
 	                	
 						<li role="presentation" data-menu="header">
                      		<a class="header " href="/about-us/careers/management-associate-programme.html">Management associate programme
@@ -1189,7 +1130,7 @@ var enablePersCookie = false;
 										
 						
 	                	
-							<ul id="item-2-2" class="nav nav-pills nav-stacked hidden" style="height: 1554px;">
+							<ul id="item-2-2" class="nav nav-pills nav-stacked hidden" style="height: 1367px;">
 	                	
 						<li role="presentation" data-menu="header">
                      		<a class="header " href="/about-us/careers/careers-at-nucleus-connect.html">Careers @ Nucleus Connect
@@ -1202,7 +1143,7 @@ var enablePersCookie = false;
 										
 						
 	                	
-							<ul id="item-2-3" class="nav nav-pills nav-stacked hidden" style="height: 1554px;">
+							<ul id="item-2-3" class="nav nav-pills nav-stacked hidden" style="height: 1367px;">
 	                	
 						<li role="presentation" data-menu="header">
                      		<a class="header " href="/about-us/careers/what-we-do.html">What we do
@@ -1215,7 +1156,7 @@ var enablePersCookie = false;
 										
 						
 	                	
-							<ul id="item-2-4" class="nav nav-pills nav-stacked hidden" style="height: 1554px;">
+							<ul id="item-2-4" class="nav nav-pills nav-stacked hidden" style="height: 1367px;">
 	                	
 						<li role="presentation" data-menu="header">
                      		<a class="header " href="/about-us/careers/disclaimer.html">Disclaimer
@@ -1229,16 +1170,11 @@ var enablePersCookie = false;
 				
 				
 	
-
-
          </div>
-
   </div>
     </div>            
                         
         
-
-
                 <script type="text/javascript">
                     var slider;
                     var sliderActive = false;
@@ -1350,7 +1286,6 @@ var enablePersCookie = false;
                         }
                     }
 
-
                   //Function to escapse search script
 
 					function removeTagScript(arrayVal)
@@ -1359,8 +1294,7 @@ var enablePersCookie = false;
                         return result.replace(/>/g , "");
                     }
 
-                    //End 
-                    
+                    //End
 
                     //This is not production quality, its just demo code.
                     var cookieList = function(cookieName) {
@@ -1409,7 +1343,6 @@ var enablePersCookie = false;
                     
                 </script>
 <script src="/etc/designs/starhub/clientlibs/source/jquery.cookie.js"></script></div>
-
 </div>
 </div>
 </div>
@@ -1463,19 +1396,19 @@ var enablePersCookie = false;
 
 	<div class="head-grid">
 		
-        <div class="parsys headparsocial">
+        <div class="headparsocial parsys">
 </div>
 
     </div>
 
 	<div class="bg-white">
 		
-	  	<div class="parsys par_white">
+	  	<div class="par_white parsys">
 </div>
 
 	</div>
 	<div class="bg-light-grey">
-		<div class="parsys par_grey">
+		<div class="par_grey parsys">
 </div>
 
     </div>
@@ -1655,12 +1588,12 @@ We may revise our Privacy Policy from time to time. We encourage you to review o
 
 	    </div>
 	    <div class="bg-light-grey">
-	  		<div class="parsys par_grey2">
+	  		<div class="par_grey2 parsys">
 </div>
 
 		</div>
 		<div class="bg-white">
-	  		<div class="parsys par_white2">
+	  		<div class="par_white2 parsys">
 </div>
 
 		</div>
@@ -1671,9 +1604,8 @@ We may revise our Privacy Policy from time to time. We encourage you to review o
 
 	
 	    
-	    <div class="parsys iparsys crosssellpar"><div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="parsys iparsys crosssellpar">
-</div>
+	    <div class="crosssellpar iparsys parsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="crosssellpar iparsys parsys"></div>
 </div>
 </div>
 
@@ -1796,8 +1728,8 @@ We may revise our Privacy Policy from time to time. We encourage you to review o
 
 			<div class="site-map-footer bg-footer">
    			<div class="container">
-                <div class="parsys iparsys footerpar"><div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="parsys iparsys footerpar"><div class="footer_v1 section">
+                <div class="footerpar iparsys parsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="footerpar iparsys parsys"><div class="footer_v1 section">
 
 
 
@@ -1870,19 +1802,19 @@ We may revise our Privacy Policy from time to time. We encourage you to review o
             <div class="footer-header paddingTop30"><a href="/about-us/company-information/corporate-structure/management.html">Key Executives</a> <hr></div>
 			<ul class="list-unstyled">
 			</ul> </div></div><div class="col-lg-4 col-sm-8"><div class="eq-ht-cont paddingTop40" style="height: 247px;">
-            <div class="footer-header"><a href="/about-us/corporate-sustainability-and-responsibility.html">Corporate Sustainability &amp; Responsibility</a> <hr></div>
+            <div class="footer-header"><a href="/about-us/corporate-sustainability.html">Corporate Sustainability &amp; Responsibility</a> <hr></div>
 			<ul class="list-unstyled">
-			<li><a href="/about-us/corporate-sustainability-and-responsibility/community-relations.html">Community Relations &amp; Investments</a></li><li><a href="/about-us/corporate-sustainability-and-responsibility/starhub-green-movement.html">StarHub Green Movement</a></li><li><a href="/about-us/corporate-sustainability-and-responsibility/recycling-nations-electronic-waste.html">RENEW</a></li></ul> </div></div><div class="col-lg-4 col-sm-8"><div class="eq-ht-cont paddingTop40" style="height: 247px;">
+			<li><a href="/about-us/corporate-sustainability/community-investments.html">Community Relations &amp; Investments</a></li><li><a href="/about-us/corporate-sustainability/starhub-green-movement.html">Green Movement</a></li><li><a href="/about-us/corporate-sustainability/recycling-nations-electronic-waste.html">RENEW</a></li></ul> </div></div><div class="col-lg-4 col-sm-8"><div class="eq-ht-cont paddingTop40" style="height: 247px;">
             <div class="footer-header"><a href="http://ir.starhub.com/Investors/">Investor Relations</a> <hr></div>
 			<ul class="list-unstyled">
-			<li><a href="http://ir.starhub.com/Investors/?page=Results---Announcements">Financial Highlights</a></li><li><a href="http://ir.starhub.com/Investors/?page=Annual-Reports">Financial Information</a></li><li><a href="http://ir.starhub.com/Investors/?page=Stock-Quote---Chart">Stock Information</a></li>
+			<li><a href="http://ir.starhub.com/investors/?page=Financial-Highlights">Financial Highlights</a></li><li><a href="http://ir.starhub.com/Investors/?page=Annual-Reports">Financial Information</a></li><li><a href="http://ir.starhub.com/Investors/?page=Stock-Quote---Chart">Stock Information</a></li>
 			</ul>
             <div class="footer-header paddingTop30"><a href="/about-us/contractors-corner/introduction.html">Contractor's Corner</a> <hr></div>
 			<ul class="list-unstyled">
 			</ul> </div></div><div class="col-lg-4 col-sm-8"><div class="eq-ht-cont paddingTop40" style="height: 247px;">
             <div class="footer-header"><a href="/about-us/newsroom.html">Newsroom</a> <hr></div>
 			<ul class="list-unstyled">
-			<li><a href="/about-us/newsroom.html#2014-00">2014 Archive </a></li><li><a href="/about-us/newsroom.html#2013-00">2013 Archive</a></li><li><a href="/about-us/newsroom.html#2012-00">2012 Archive</a></li></ul> </div></div><div class="col-lg-4 col-sm-8"><div class="eq-ht-cont paddingTop40" style="height: 247px;">
+			</ul> </div></div><div class="col-lg-4 col-sm-8"><div class="eq-ht-cont paddingTop40" style="height: 247px;">
             <div class="footer-header"><a href="/about-us/careers/careers-at-starhub.html">Careers</a> <hr></div>
 			<ul class="list-unstyled">
 			<li><a href="/about-us/careers/careers-at-starhub.html">Careers @ StarHub</a></li><li><a href="/about-us/careers/careers-at-nucleus-connect.html">Careers @ Nucleus Connect</a></li>
@@ -1921,16 +1853,16 @@ We may revise our Privacy Policy from time to time. We encourage you to review o
                         </ul>
 							</div>
 					<div class="ui-accordion-header ui-state-default ui-corner-all ui-accordion-icons" role="tab" id="ui-id-5" aria-controls="ui-id-6" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span>
-						<a href="/about-us/corporate-sustainability-and-responsibility.html" class="accTitle">Corporate Sustainability &amp; Responsibility</a>
+						<a href="/about-us/corporate-sustainability.html" class="accTitle">Corporate Sustainability &amp; Responsibility</a>
 					</div>
                             <div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" id="ui-id-6" aria-labelledby="ui-id-5" role="tabpanel" aria-hidden="true" style="display: none; height: auto;">
 					<ul class="list-unstyled">
                         
-                <li><a href="/about-us/corporate-sustainability-and-responsibility/community-relations.html">Community Relations &amp; Investments</a></li>
+                <li><a href="/about-us/corporate-sustainability/community-investments.html">Community Relations &amp; Investments</a></li>
 					
-                <li><a href="/about-us/corporate-sustainability-and-responsibility/starhub-green-movement.html">StarHub Green Movement</a></li>
+                <li><a href="/about-us/corporate-sustainability/starhub-green-movement.html">Green Movement</a></li>
 					
-                <li><a href="/about-us/corporate-sustainability-and-responsibility/recycling-nations-electronic-waste.html">RENEW</a></li>
+                <li><a href="/about-us/corporate-sustainability/recycling-nations-electronic-waste.html">RENEW</a></li>
 					
 
 
@@ -1944,7 +1876,7 @@ We may revise our Privacy Policy from time to time. We encourage you to review o
                             <div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" id="ui-id-8" aria-labelledby="ui-id-7" role="tabpanel" aria-hidden="true" style="display: none; height: auto;">
 					<ul class="list-unstyled">
                         
-                <li><a href="http://ir.starhub.com/Investors/?page=Results---Announcements">Financial Highlights</a></li>
+                <li><a href="http://ir.starhub.com/investors/?page=Financial-Highlights">Financial Highlights</a></li>
 					
                 <li><a href="http://ir.starhub.com/Investors/?page=Annual-Reports">Financial Information</a></li>
 					
@@ -1970,12 +1902,6 @@ We may revise our Privacy Policy from time to time. We encourage you to review o
                             <div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" id="ui-id-12" aria-labelledby="ui-id-11" role="tabpanel" aria-hidden="true" style="display: none; height: auto;">
 					<ul class="list-unstyled">
                         
-                <li><a href="/about-us/newsroom.html#2014-00">2014 Archive </a></li>
-					
-                <li><a href="/about-us/newsroom.html#2013-00">2013 Archive</a></li>
-					
-                <li><a href="/about-us/newsroom.html#2012-00">2012 Archive</a></li>
-					
 
 
 
@@ -2009,18 +1935,16 @@ We may revise our Privacy Policy from time to time. We encourage you to review o
             </div>
 <!--END OF MOBILE FOOTER-->
            </div>
-
 </div>
 </div>
 </div>
 
 			  <div class="row">
-			<div class="col-md-24 copyrights">© <span class="copyright-starhub">StarHub 2017</span>. All rights reserved. <div class="footer-legal"><a href="/about-us/legal-notices-and-terms/personal-data-protection.html">Personal Data Protection</a></div></div>
+			<div class="col-md-24 copyrights">© <span class="copyright-starhub">StarHub 2018</span>. All rights reserved. <div class="footer-legal"><a href="/about-us/legal-notices-and-terms/personal-data-protection.html">Personal Data Protection</a></div></div>
 			</div>
     		</div>
        		</div>
             </div></footer>
-
 
         
 
@@ -2155,11 +2079,11 @@ if ($('#back-to-top').length) {
 <!--
 More detailed timing info is available by uncommenting some code in the timing.jsp component
 Timing chart URL:
-http://chart.apis.google.com/chart?chtt=privacy-policy.html+%2886ms%29&cht=bhs&chxt=x&chco=c6d9fd,4d89f9&chbh=a&chds=0,86,0,86&chxr=0,0,86&chd=t:6,9,9,10,11,15,17,24,27,28,29,30,43,50,56,57,58,59,62,66,66,68,69,70,71,72,74,77,77,78,79,85|6,0,1,1,0,0,6,2,23,0,21,20,2,23,0,0,0,8,5,1,1,0,0,2,0,0,2,0,8,6,5,1&chly=head.jsp|init.jsp|servicelibs.jsp|browsermap.jsp|simulator.jsp|clientcontext.jsp|globalimportantmessage...|importantmessage_v1.jsp|iparsys.jsp|new.jsp|par.jsp|topnavigation_v1.jsp|breadcrumb_v1.jsp|content.jsp|parsys.jsp|parsys.jsp|parsys.jsp|parsys.jsp|leftnavigationcontaine...|text_v1.jsp|parsys.jsp|parsys.jsp|parsys.jsp|iparsys.jsp|new.jsp|par.jsp|footerimportantlinks_v...|new.jsp|iparsys.jsp|par.jsp|footer_v1.jsp|backtotop_v1.jsp&chs=600x500
+http://chart.apis.google.com/chart?chtt=privacy-policy.html+%2828571ms%29&cht=bhs&chxt=x&chco=c6d9fd,4d89f9&chbh=a&chds=0,28571,0,28571&chxr=0,0,28571&chd=t:4,2833,3313,3434,3604,3890,4831,8947,10267,12205,12455,12848,13263,15646,17799,19314,19724,20098,20379,20634,21803,22145,22784,23163,23519,23757,24108,24794,25562,25816,26278,26674,28319|755,1424,113,161,270,101,285,1092,831,5567,149,4850,4412,570,6850,181,161,147,2168,1895,681,305,169,145,887,133,279,551,2619,171,1355,936,252&chly=handleSecurity|head.jsp|init.jsp|servicelibs.jsp|browsermap.jsp|simulator.jsp|clientcontext.jsp|globalimportantmessage...|importantmessage_v1.jsp|iparsys.jsp|new.jsp|par.jsp|topnavigation_v1.jsp|breadcrumb_v1.jsp|content.jsp|parsys.jsp|parsys.jsp|parsys.jsp|parsys.jsp|leftnavigationcontaine...|parsys.jsp|text_v1.jsp|parsys.jsp|parsys.jsp|iparsys.jsp|new.jsp|par.jsp|footerimportantlinks_v...|iparsys.jsp|new.jsp|par.jsp|footer_v1.jsp|backtotop_v1.jsp&chs=600x500
 -->
 
 
-<div class="servicecomponents cloudservices">
+<div class="cloudservices servicecomponents">
 </div>
 
 
@@ -2253,4 +2177,4 @@ http://chart.apis.google.com/chart?chtt=privacy-policy.html+%2886ms%29&cht=bhs&c
     
 
            
-</div></div><div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="https://staticxx.facebook.com/connect/xd_arbiter/r/nRK_i0jz87x.js?version=42#channel=f2f9b00fbd55618&amp;origin=https%3A%2F%2Fweb.archive.org" style="border: none;"></iframe></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="f3457320cef8c98" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" src="https://www.facebook.com/connect/ping?client_id=1483096311978474&amp;domain=web.archive.org&amp;origin=1&amp;redirect_uri=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FnRK_i0jz87x.js%3Fversion%3D42%23cb%3Dfca81cf57eb5b4%26domain%3Dweb.archive.org%26origin%3Dhttps%253A%252F%252Fweb.archive.org%252Ff2f9b00fbd55618%26relation%3Dparent&amp;response_type=token%2Csigned_request%2Ccode&amp;sdk=joey" style="display: none;"></iframe></div></div></div></body></html>
+</div></div><div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="f308ada22cc4f28" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" src="https://www.facebook.com/connect/ping?client_id=1483096311978474&amp;domain=web.archive.org&amp;origin=1&amp;redirect_uri=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2Fmp2v3DK3INU.js%3Fversion%3D42%23cb%3Df189810800e0214%26domain%3Dweb.archive.org%26origin%3Dhttps%253A%252F%252Fweb.archive.org%252Ff37f6e58648ade4%26relation%3Dparent&amp;response_type=token%2Csigned_request&amp;sdk=joey&amp;version" style="display: none;"></iframe></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="https://staticxx.facebook.com/connect/xd_arbiter/r/mp2v3DK3INU.js?version=42#channel=f37f6e58648ade4&amp;origin=https%3A%2F%2Fweb.archive.org" style="border: none;"></iframe></div></div></div></body></html>
