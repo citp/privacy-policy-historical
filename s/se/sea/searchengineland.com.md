@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchengineland.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230232612id_/http%3A//searchengineland.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchengineland.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611002512id_/https%3A//searchengineland.com/privacypolicy) for the most accurate reproduction.*
 
 # Search Engine Land Privacy Policy
 
@@ -71,40 +71,4 @@ We may buy or sell a company or property. If we sell a business, we may transfer
 
 ### Policy Changes, Questions & Comments
 
-We’ll post changes to this policy on this page. Questions about this policy should be emailed using [ ](http://thirddoormedia.com/contact/%3Ethis%20form%3C/a%3E%20or%20sent%20to%20our%20offices%20at%20Third%20Door%20Media,%20279%20Newtown%20TPKE,%20Redding,%20CT%20%2006896.%3C/p%3E%3C/div%3E%3C/div%3E%3C/article%3E%3Caside%20class=)
-
-[ ](http://thirddoormedia.com/contact/%3Ethis%20form%3C/a%3E%20or%20sent%20to%20our%20offices%20at%20Third%20Door%20Media,%20279%20Newtown%20TPKE,%20Redding,%20CT%20%2006896.%3C/p%3E%3C/div%3E%3C/div%3E%3C/article%3E%3Caside%20class=)
-
-[
-
-### Attend Our Conferences
-
-](http://thirddoormedia.com/contact/%3Ethis%20form%3C/a%3E%20or%20sent%20to%20our%20offices%20at%20Third%20Door%20Media,%20279%20Newtown%20TPKE,%20Redding,%20CT%20%2006896.%3C/p%3E%3C/div%3E%3C/div%3E%3C/article%3E%3Caside%20class=)
-
-[](http://marketinglandevents.com/smx/?utm_source=sel&utm_medium=textlink&utm_campaign=smx+home&utm_content=standunit+text)
-
-March 13-15, 2018: [SMX West](http://marketinglandevents.com/smx/west/?utm_source=sel&utm_medium=textlink&utm_campaign=smx+home&utm_content=standunit+text)
-
-June 11-13, 2018: [SMX Advanced](http://marketinglandevents.com/smx/advanced/?utm_source=sel&utm_medium=textlink&utm_campaign=smx+home&utm_content=standunit+text)
-
-×
-
-###  [Attend SMX - Click Here](http://marketinglandevents.com/smx/?utm_source=sel&utm_medium=standunit&utm_campaign=smx-video)
-
-[Learn More About Our SMX Events](http://marketinglandevents.com/smx/?utm_source=sel&utm_medium=textlink&utm_campaign=smx+home&utm_content=standunit+button)
-
-[](http://www.martechconf.com/?utm_source=sel&utm_medium=textlink&utm_campaign=martech+home&utm_content=standunit+logo)
-
-Gain new strategies and insights at the intersection of marketing, technology, and management. Our next conference will be held:
-
-April 23-25, 2018: [San Jose](https://martechconf.com/west/?utm_source=sel&utm_medium=textlink&utm_campaign=mt+west+2018&utm_content=standunit)
-
-×
-
-###  [Attend MarTech - Click Here](http://martechconf.com/?utm_source=sel&utm_medium=standunit&utm_campaign=martech-video)
-
-[Learn More About Our MarTech Events](http://martechconf.com/?utm_source=sel&utm_medium=textlink&utm_campaign=mt+home&utm_content=standunit+text)
-
-### The Periodic Table of Seo Success
-
-[](https://searchengineland.com/seotable/download-periodic-table-of-seo?utm_source=sel&utm_medium=display&utm_campaign=seotable17&utm_content=300x481-black-sidebar)
+We’ll post changes to this policy on this page. Questions about this policy should be emailed using [ ](http://thirddoormedia.com/contact/%3Ethis%20form%3C/a%3E%20or%20sent%20to%20our%20offices%20at%20Third%20Door%20Media,%20279%20Newtown%20TPKE,%20Redding,%20CT%20%2006896.%3C/p%3E%3C/div%3E%3Cdiv%20class=)
