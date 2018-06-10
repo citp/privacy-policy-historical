@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glossybelle.com privacy policy that was archived on 2017-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171014200553id_/http%3A//glossybelle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glossybelle.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610164253id_/http%3A//glossybelle.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Glossy Belle
 
@@ -38,7 +38,7 @@ GlossyBelle.com does not knowingly collect or solicit Personally Identifiable In
 
 Your use of this site, in any and all forms, constitutes an acceptance of this privacy policy.
 
-This policy was last revised on October 1, 2017 and is subject to change without notice at any time.  If you have any questions regarding this disclosure policy, please feel free to [contact me](http://glossybelle.com/contact/).
+This policy was last revised on May 25, 2018 and is subject to change without notice at any time.  If you have any questions regarding this disclosure policy, please feel free to [contact me](https://glossybelle.com/contact/).
 
 ### Disclosure Policy
 
@@ -48,4 +48,4 @@ I may be compensated to provide opinions on products, services, websites and va
 
 Glossybelle.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn fees by linking to Amazon.com and affiliated sites.
 
-This policy was last revised on October 1, 2017 and is subject to change without notice at any time.  If you have any questions regarding this disclosure policy, please feel free to [contact me](http://glossybelle.com/contact/).
+This policy was last revised on May 25, 2018 and is subject to change without notice at any time.  If you have any questions regarding this disclosure policy, please feel free to [contact me](https://glossybelle.com/contact/).
