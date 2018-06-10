@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ey.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227004510id_/http%3A//www.ey.com/US/en/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ey.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610085230id_/http%3A//www.ey.com/US/en/home/privacy) for the most accurate reproduction.*
 
 # Privacy - EY - United States
 
@@ -6,11 +6,11 @@ Ernst & Young (“EY”) intends for ey.com (“Our Site”) to complement the s
 
 At Ernst & Young, we have focused on implementing fair information practices that are designed to protect your privacy. We believe that everyone benefits from the free flow of information when that information is gathered and used responsibly. Please be aware that ey.com contains links to other sites, including sites maintained by Ernst & Young, which are not governed by this privacy policy. See the side bar on the right to learn which Web sites are governed by this statement.
 
-If you have questions or you do not feel that your concerns have been addressed in our privacy statement, feel free to [contact us](https://webforms.ey.com/Content/DContactus_New?Openform&EmailId=privacy%20office&Indx=&site=US_en_ContactUs&URL=http://www.ey.com/US/en/Home/Privacy_Safe_Harbor).
+If you have questions or you do not feel that your concerns have been addressed in our privacy statement, feel free to [contact us](https://webforms.ey.com/Content/DContactus_New?Openform&EmailId=privacy%20office&Indx=&site=US_en_ContactUs&URL=https://www.ey.com/US/en/Home/Privacy_Safe_Harbor).
 
 **How We Respond to Do Not Track Signals**
 
-EY does not respond to Do Not Track (DNT) signals. Details on your ability to restrict or change the personal information that we may collect about you are listed below under the Collection, Use, Disclosure, Choice section of this statement. For more information as to how we use cookies, please [see the applicable section here](http://www.ey.com/us/en/home/privacy#cookies).
+EY does not respond to Do Not Track (DNT) signals. Details on your ability to restrict or change the personal information that we may collect about you are listed below under the Collection, Use, Disclosure, Choice section of this statement. For more information as to how we use cookies, please [see the applicable section here](https://www.ey.com/us/en/home/privacy#cookies).
 
 **Collection, Use, Disclosure, Choice**
 
@@ -18,14 +18,7 @@ If you are merely a visitor to ey.com, Ernst & Young does not collect any person
 
 You may choose to register for:
 
-  *  **[Email Alerts](https://webforms.ey.com/US/en/Email_Alerts).** Ernst & Young in the US offers an email alert service to site visitors, in which we send subscribers free email updates when new information is added to ey.com/us. If you decide to subscribe, we will collect basic contact information about you, such as your name and email address. Please note registration is not required for you to use our site.
-  *  ** _Your Choice_** Ernst & Young gives you choices regarding the collection and usage of your personally identifiable information. If you do not wish to provide your name and email address, simply do not register for email updates. If you have registered with ey.com but do not wish to receive future e-mails, please go to the “Connect With Us” section to the right of this privacy notice to unsubscribe. You may also update your email address or other personal information at that same site. If you wish to view any personal information you may have provided to us, please send a request to our site manager.
-  * Unsubscribing to or modifying your information for the distribution of our careers newsletter, _Inside Ernst & Young_, can be done via the links at the bottom of any _Inside Ernst & Young_ issue.
-  *  **Job Search Area.** In our job search section, Ernst & Young posts open positions; applicants can apply online. Should you decide to apply for a position via our Web site, the application and resume you submit will be entered into an Ernst & Young proprietary database.
-
- ** _Your Choice._** Ernst & Young gives you choices regarding the collection and usage of your personally identifiable information. To update any application or resume you have submitted, please apply again via the job search section, and re-submit your updated information. Due to volume, Ernst & Young cannot personally respond to individual requests for applicant status.
-
-  * **Thought Center Webcast section.** To view an Ernst & Young Thought Center Webcast (live or archived), registration is required. When you register, you may be asked for personal information (name, contact information, etc.). The type of information collected will vary but could include data such as but not limited to your name, email and mailing addresses, country, industry, company, position and phone number. At the time of registration, you are also asked whether or not you are a client of Ernst & Young, and whether or not you would like to be informed of upcoming webcasts via Thought Center Webcast email alerts.
+**_Your Choice._** Ernst & Young gives you choices regarding the collection and usage of your personally identifiable information. To update any application or resume you have submitted, please apply again via the job search section, and re-submit your updated information. Due to volume, Ernst & Young cannot personally respond to individual requests for applicant status.
 
 Your information is required in order to view any webcast. At the time of registration, you can check a box to automate the log-in process, which allows you to be automatically logged on when you return to the Ernst & Young Thought Center Webcast section using the same computer. We use registration information for internal research and analysis purposes only, to help us understand who is viewing our webcasts, and become better equipped to serve your needs.
 
@@ -35,21 +28,25 @@ Because we do not require a password to use the section, we do not allow you to 
 
 If you are interested in Thought Center Webcasts, but you do not wish to provide any personally identifiable information, you can read the executive summaries ("webcast recaps") posted on ey.com, which require no registration.
 
-  * **Research.** Ernst & Young conducts surveys via its web site. Survey participants may be asked for personally identifiable information (name, contact information, etc.) in addition to opinions or feedback. The type of information collected in surveys will vary.
-  *  **Thought Leadership Registration.** Ernst & Young occasionally requires registration in exchange for Ernst & Young thought leadership: white papers, articles, studies, reports, survey analyses, booklets, etc. Your personal information may be requested in registration forms; the type of information collected from you will vary. Ernst & Young reserves the right to distribute certain thought leadership materials only to those who supply the requested information. On occasion, Ernst & Young may contact registrants to invite them to special events, provide them with information about our services, publications and products, or for other marketing purposes.
-  *  **Event Registration.** Ernst & Young facilitates event registration via its own web site or, at times, via third party web sites. Personally identifiable information may be asked on event registration forms; the type of information collected will vary. Ernst & Young may share registrant information with third parties in association with the event. Examples of "third parties" include hotels, sponsors or co-sponsors, promoters, event organizers (including via third party web sites), speakers, panelists, etc.
-  *  **Entrepreneur of the Year® Nominations.** Ernst & Young accepts nominations for the Ernst & Young Entrepreneur of the Year program via its web site. Personally identifiable information, including financial data, is required of the nominee, and the nominee must sign the nomination form. Nomination forms are provided to the program sponsors and independent national and regional panels of judges, in order to select award recipients.
-
 Further, some of the information on the nomination form may be used for research, educational, or any other purpose, but will not divulge the personal identity of the nominee or the identity of the nominee's company to any person other than the sponsors, the judges, and their respective affiliates. Nominees must consent to this usage in order to participate in the nomination process. The nominator may include their own personally identifiable information on the form, however, it is not required. If nominator information is supplied, it is subject to the same terms as nominee information.
 
+  * **[Email Alerts](https://webforms.ey.com/US/en/Email_Alerts).** Ernst & Young in the US offers an email alert service to site visitors, in which we send subscribers free email updates when new information is added to ey.com/us. If you decide to subscribe, we will collect basic contact information about you, such as your name and email address. Please note registration is not required for you to use our site.
+  * **_Your Choice_** Ernst & Young gives you choices regarding the collection and usage of your personally identifiable information. If you do not wish to provide your name and email address, simply do not register for email updates. If you have registered with ey.com but do not wish to receive future e-mails, please go to the “Connect With Us” section to the right of this privacy notice to unsubscribe. You may also update your email address or other personal information at that same site. If you wish to view any personal information you may have provided to us, please send a request to our site manager.
+  * Unsubscribing to or modifying your information for the distribution of our careers newsletter, _Inside Ernst & Young_, can be done via the links at the bottom of any _Inside Ernst & Young_ issue.
+  * **Job Search Area.** In our job search section, Ernst & Young posts open positions; applicants can apply online. Should you decide to apply for a position via our Web site, the application and resume you submit will be entered into an Ernst & Young proprietary database.
+  * **Thought Center Webcast section.** To view an Ernst & Young Thought Center Webcast (live or archived), registration is required. When you register, you may be asked for personal information (name, contact information, etc.). The type of information collected will vary but could include data such as but not limited to your name, email and mailing addresses, country, industry, company, position and phone number. At the time of registration, you are also asked whether or not you are a client of Ernst & Young, and whether or not you would like to be informed of upcoming webcasts via Thought Center Webcast email alerts.
+  * **Research.** Ernst & Young conducts surveys via its web site. Survey participants may be asked for personally identifiable information (name, contact information, etc.) in addition to opinions or feedback. The type of information collected in surveys will vary.
+  * **Thought Leadership Registration.** Ernst & Young occasionally requires registration in exchange for Ernst & Young thought leadership: white papers, articles, studies, reports, survey analyses, booklets, etc. Your personal information may be requested in registration forms; the type of information collected from you will vary. Ernst & Young reserves the right to distribute certain thought leadership materials only to those who supply the requested information. On occasion, Ernst & Young may contact registrants to invite them to special events, provide them with information about our services, publications and products, or for other marketing purposes.
+  * **Event Registration.** Ernst & Young facilitates event registration via its own web site or, at times, via third party web sites. Personally identifiable information may be asked on event registration forms; the type of information collected will vary. Ernst & Young may share registrant information with third parties in association with the event. Examples of "third parties" include hotels, sponsors or co-sponsors, promoters, event organizers (including via third party web sites), speakers, panelists, etc.
+  * **Entrepreneur of the Year® Nominations.** Ernst & Young accepts nominations for the Ernst & Young Entrepreneur of the Year program via its web site. Personally identifiable information, including financial data, is required of the nominee, and the nominee must sign the nomination form. Nomination forms are provided to the program sponsors and independent national and regional panels of judges, in order to select award recipients.
   * **EY Alumni**  
 Any personal information that an alumnus submit to EY will only be used to maintain contact with that alumnus, and will not be disclosed to any third party without the individual’s express permission.
-  *  **EY Client Portal**  
+  * **EY Client Portal**  
 If you have been given access rights to EY Client Portal by your EY contact, we would recommend you take note of the privacy notice associated with this service. You will have access to the notice once you log onto EY Client Portal.
 
 
 
- **Special categories of personal data**
+**Special categories of personal data**
 
 EY does not intentionally collect any special categories of personal data (sensitive personal information) via Our Site unless legally required to do so, for example, for recruitment purposes. Sensitive personal information includes information revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, trade-union membership, the processing of genetic or biometric data for the purpose of uniquely identifying a natural person, information concerning health, information concerning a natural person's sex life or sexual orientation, and in some cases, social security numbers or financial information.
 
@@ -64,7 +61,7 @@ Ernst & Young does not disclose an individual’s personal information to third 
   * The disclosure is required by law or mandatory professional standards;
   * The disclosure is reasonably related to the sale or other disposition of all or part of our business;
   * The disclosure is reasonably necessary for the establishment of legal claims
-  * The disclosure is to another Ernst & Young entity or to persons or entities providing services on our or the individual’s behalf (each a "transferee"), consistent with the purpose for which the information was obtained, if the transferee, with respect to the information in question:
+  * The disclosure is to another Ernst & Young entity or to persons or entities providing services on our or the individual’s behalf (each a "transferee"), consistent with the purpose for which the information was obtained, if the transferee, with respect to the information in question: 
     * is subject to law providing an adequate level of privacy protection;
     * has agreed in writing to provide an adequate level of privacy protection.
 
@@ -72,7 +69,7 @@ Ernst & Young does not disclose an individual’s personal information to third 
 
 **Transfers of personal information**
 
-EY has a comprehensive global privacy compliance program that includes EU-approved Binding Corporate Rules as well as certification to the EU-US Privacy Shield and the Swiss-US Privacy Shield Frameworks administered by the U.S. Department of Commerce (Privacy Shield Program). Please see EY’s [Binding Corporate Rules](http://www.ey.com/GL/en/Home/EY-Data-Protection-Binding-Corporate-Rules-Program) page for more information on our Binding Corporate Rules, and [EY’s Privacy Shield Notice](http://www.ey.com/US/en/Home/ey-privacy-shield-data-privacy-statement) for more information on how EY complies with the Privacy Shield program. EY will only disclose your personal information to third parties that have agreed in writing to provide an adequate level of privacy protection.
+EY has a comprehensive global privacy compliance program that includes EU-approved Binding Corporate Rules as well as certification to the EU-US Privacy Shield and the Swiss-US Privacy Shield Frameworks administered by the U.S. Department of Commerce (Privacy Shield Program). Please see EY’s [Binding Corporate Rules](https://www.ey.com/GL/en/Home/EY-Data-Protection-Binding-Corporate-Rules-Program) page for more information on our Binding Corporate Rules, and [EY’s Privacy Shield Notice](https://www.ey.com/US/en/Home/ey-privacy-shield-data-privacy-statement) for more information on how EY complies with the Privacy Shield program. EY will only disclose your personal information to third parties that have agreed in writing to provide an adequate level of privacy protection.
 
 **Controlling your personal information**
 
@@ -100,28 +97,24 @@ _How do I disable cookies?_ If you do not want to receive a cookie from Our Site
 
 _What cookies does EY use?_ The cookies used by Our Site perform four functions, as classified below:
 
-  * _Essential/Strictly Necessary Cookies_
-
 Some cookies we use are essential to the functioning of Our Site. For example, remembering your log-in details to certain parts of Our Site.
-
-  * _Performance Cookies_
 
 Some cookies help us with the performance and design of Our Site. This allows us to measure how many times a page has been visited, whether a page has been visited on Our Site through an advertisement or by other means.
 
-  * _Functionality Cookies_
-
 Some cookies help us to remember your settings which you may have selected, or assist with other functionality when you browse and use Our Site. This helps us to remember what you have selected, so on your return visit we remember your preferences.
-
-  * _Targeting and Tracking Cookies_
 
 On certain pages of Our Site, we use cookies to help us understand your interests as you browse the internet, so we can tailor and deliver to you a more personalized service in the future. This assists us in delivering relevant advertising to you during various advertising campaigns we may run from time to time through participating third party sites.
 
+  * _Essential/Strictly Necessary Cookies_
+  * _Performance Cookies_
+  * _Functionality Cookies_
+  * _Targeting and Tracking Cookies_
 
 
 
 These cookies collect information relating to the origin of your visit, where you were exposed to EY advertising, what advertising feature you saw, whether you arrived directly or indirectly to Our Site, the device you used to visit Our Site and which downloads you performed. This information is collected on an anonymous basis via third party suppliers.
 
-In addition, we also utilize cookies on certain pages of Our Site to communicate with third party data suppliers in order to extrapolate your digital behavior. This helps us to understand and target more relevant advertising in the future. The information we receive is all aggregate and anonymous, but will include statistics such as demographics, online behavior, product interests and lifestyle. Targeting and tracking cookies are provided via trusted third party suppliers. Should you require more information regarding our suppliers and how these cookies operate please [contact us](http://www.ey.com/US/en/Home/Home-ContactUs).
+In addition, we also utilize cookies on certain pages of Our Site to communicate with third party data suppliers in order to extrapolate your digital behavior. This helps us to understand and target more relevant advertising in the future. The information we receive is all aggregate and anonymous, but will include statistics such as demographics, online behavior, product interests and lifestyle. Targeting and tracking cookies are provided via trusted third party suppliers. Should you require more information regarding our suppliers and how these cookies operate please [contact us](https://www.ey.com/US/en/Home/Home-ContactUs).
 
 _Web Beacons._ Ernst & Young occasionally advertises on third party Web sites. As part of our effort to track the success of our advertising campaigns, we may at times use a visitor identification technology such as "web beacons," or "action tags," which count visitors who have come to ey.com after being exposed to an Ernst & Young banner ad on a third party site. We do not use this technology to access your personally identifiable information; it is only used to compile aggregated statistics about visitors who come to ey.com and to gauge the effectiveness of our ads.
 
@@ -157,4 +150,4 @@ EY gives you choices regarding the collection and usage of your personal informa
 
 **Contact us; Complaints.**
 
-If you have questions, you do not feel that your concerns have been addressed in this privacy statement, or you are concerned about an alleged breach of privacy law or other data protection regulation by EY, please[ contact us](https://webforms.ey.com/Content/DContactus_New?Openform&EmailId=privacy%20office&Indx=&site=US_en_ContactUs&URL=http://www.ey.com/US/en/Home/Privacy_Safe_Harbor) and a member of EY’s Data Protection team will be made available to answer your question and/or investigate your complaint and give you information about how it will be handled. If you are not satisfied with the way in which EY has resolved your complaint, you have the right to complain to the data protection authority in your country. You may also refer the matter to a court of competent jurisdiction.
+If you have questions, you do not feel that your concerns have been addressed in this privacy statement, or you are concerned about an alleged breach of privacy law or other data protection regulation by EY, please[ contact us](https://webforms.ey.com/Content/DContactus_New?Openform&EmailId=privacy%20office&Indx=&site=US_en_ContactUs&URL=https://www.ey.com/US/en/Home/Privacy) and a member of EY’s Data Protection team will be made available to answer your question and/or investigate your complaint and give you information about how it will be handled. If you are not satisfied with the way in which EY has resolved your complaint, you have the right to complain to the data protection authority in your country. You may also refer the matter to a court of competent jurisdiction.
