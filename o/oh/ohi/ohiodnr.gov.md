@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ohiodnr.gov privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210025940id_/http%3A//ohiodnr.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohiodnr.gov privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610222102id_/http%3A//ohiodnr.gov/privacy) for the most accurate reproduction.*
 
 # Ohio Department of Natural Resources
 
