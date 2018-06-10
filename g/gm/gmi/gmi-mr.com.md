@@ -1,47 +1,159 @@
-> *The following text is extracted and transformed from the gmi-mr.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208011548id_/http%3A//www.lightspeedresearch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmi-mr.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610040506id_/http%3A//www.lightspeedresearch.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Lightspeed Research
+# Privacy Policy
 
-## Privacy Policy
+**1\. Introduction**
 
-We have created this privacy policy in order to demonstrate our commitment to your privacy. The following discloses our practices for the collection and use of information solely in connection with the web site and service located at www.lightspeedresearch.com (the “Service”). By using or accessing the Service, you signify your assent to our Privacy Policy.
+This Privacy Policy sets out the commitment of Lightspeed Research Limited, trading as Lightspeed Health, 4 Millbank, Westminster, London, SW1P 3JA, UK, and Lightspeed, LLC, 3 Mountainview Road, Suite 300, Warren, New Jersey 07059-6711 USA (each individually and collectively, “Lightspeed”), each a Kantar group company (“Kantar”), , to the privacy of the visitors and users (collectively defined as “Users”) of the Lightspeed websites (“Sites”) , and governs Users’ rights regarding privacy and data protection.
 
-IF YOU DO NOT AGREE TO THIS PRIVACY POLICY YOU MAY NOT ACCESS OR OTHERWISE USE THE SERVICE. THIS SERVICE IS SUBJECT TO THE TERMS OF USE.
+The Sites are operated by Lightspeed and Lightspeed is the data controller. By using the Sites, or by registering as a User to the Services that we provide (“Services”), you confirm that you have read the terms of this Privacy Policy. We ask you to read this Privacy Policy carefully.
 
-Collection of Personal and Non-Personal Information: When using the Service, in order to register to utilize some of the services you may be asked to provide, or you may choose to upload, certain personally identifiable information about yourself (“PII”). PII can include your name, email address and login information for your social networking services.
+For the purpose of this Privacy Policy, “personal data” means any information which relates to an identifiable living individual.
 
-In addition, we may also collect non-personally identifiable information, such as your usage of the Service, IP host address, pages viewed, browser type, personal computer setting and other data, and may aggregate any information collected in a manner which does not identify any individual (“Non-PII”).
+**2\. Lawful Collection and Use of Data**
 
-Information Usage: Unless disclosed otherwise at the time of collection or in this privacy policy, we do not share any PII you submit through the Service with any unaffiliated third party, unless it is necessary to respond to your questions, provide the service you have requested or to comply with applicable law. This may include providing your PII to our contractors who are performing services on our behalf. We will never sell your PII to any third party not affiliated with Lightspeed GMI without your consent except in connection with the sale or merger, in whole or in part, of Lightspeed GMI, its assets or the division responsible for such Services.
+Lightspeed collects information in several ways from different parts of our Sites, our mobile application and other activities such as social media, apps and surveys. Examples of these activities are explained below and include:
 
-We may use your PII to contact you directly about products and services which we believe may be of interest to you.
+**Registration to our services:** some personal data is gathered when you register for our Services, including when you fill out request forms on our Sites, such as name, email address, postal address, job title and mobile device ID.
 
-We may use Non-PII to improve and enhance your experience on the Service and for our research activities. For example, we may share Non-PII with unaffiliated third parties, such as business partners, in an aggregate, anonymous form, which means that the shared information will not contain nor be linked to any PII.
+**Research Activities** : personal data may also be collected from you when you participate in a survey or in a research activity proposed by Lightspeed to the Users.
 
-You should be aware that PII which you voluntarily include and transmit online in public forums may be viewed and used by others. We are unable to control such uses of your PII, and by using the Service you assume the risk that such PII provided by you may be viewed and used by third parties.
+The main purposes for which we use your personal data are to:
 
-Please note that we reserve the right to access and/or disclose PII and non-PII we gather as required by courts or administrative agencies and to the extent required to permit us to investigate suspected fraud, harassment or other violations of any law, rule or regulation, the Terms Of Use, or the rights of third parties or to investigate any suspected conduct which we deem improper.
+  * Contact you in relation to our Services via email, through mobile notifications or texts or any other proposed communication options you have consented to
+  * Inform you of updates to our Services, new features and details relevant to you
+  * Help you when you contact us
+  * Protect Lightspeed from fraudulent behaviour
+  * Update, enrich and clean your data to better understand your needs and how we can improve our Services
 
-Cookies: “Cookies” are pieces of information that may be placed on your computer by a web site for the purpose of facilitating and enhancing your communication and interaction with that web site. Many web sites use cookies for these purposes. We may use cookies, web beacons, clear gifs and similar technology to customize your visit to the Service and for other purposes to make your visit more convenient or to enable us to enhance our Service. You may stop or restrict the placement of cookies on your computer or flush them from your browser by adjusting your web browser preferences, in which case you may still use our Service, but it may interfere with some of its functionality. We do not use cookies to automatically retrieve PII from your computer without your knowledge.
 
-Security Practices: The security of your PII is very important to us. We have put in place reasonable physical, electronic, and managerial procedures to safeguard the information we collect. However, due to the inherent open nature of the Internet, we cannot guarantee that communications between you and us or information stored on the Service or our servers, will be completely free from unauthorized access by third parties such as hackers and your use of the Service demonstrates your assumption of this risk.
 
-Message to Parents Regarding Children’s Privacy: Our web sites may attract children younger than 13 years of age. On this page we give you notice of the limited information collected for the activities children may enjoy while visiting our Web sites.
+We have set out below more detailed information about how we use your personal data. We are also required by law to explain the legal basis for processing your personal data. These legal bases are listed below and could be different for each use case:
 
-For online games, your child may be asked to submit an invented screen name together with a secret password so that game scores can be recorded and compared to the scores of other players, also identified by screen names. Optional age and gender information may be collected in order to improve the site content.
+  * we have your consent for the use of your personal data
+  * we need to use your personal data in order to perform a contract with you
+  * we need to process your data to comply with a legal obligation
+  * we need to process your data in order to protect your vital interests or someone else
+  * the processing is necessary to perform a task in the public interest or
+  * the use of your personal data is necessary for our (or our clients’) legitimate interests (in which case we will explain what those interests are).
 
-Your child may be able to send a pre-designed e-mail greeting to a friend through our website. For this activity your child’s first name and e-mail address will be inserted into the greeting, as well as the recipient’s first name and e-mail address, but we will not store this information.
 
-For promotional contests and sweepstakes, we will make one request for the parent’s e-mail address, and first name only of the child in order to contact the parent in case the child is a winner. This information is deleted within a reasonable time period after the winners have been selected and is kept secure during such time. In addition to the above, we may collect tracking information in the aggregate, such as zip codes, in order to measure the interest in our Web site activities.
 
-Our current policy is not to collect any personally identifiable information for which prior parental consent is required under COPPA (Children’s Online Privacy Protection Act). We will update this notice to keep you informed of any changes in our policy.
+We will never misrepresent ourselves or what we are doing. If you receive an email that concerns you, purporting to be from us, please let us know as shown below in ‘ _How to Contact Us_ ’.
 
-Changes to policy; Opt-Out Process: We reserve the right, at our discretion, to change, modify, add, or remove portions from this policy at any time. However, if at any time in the future we plan to use PII in a way that differs from this policy, we will post such changes here and provide you the opportunity to opt-out of such differing uses. Your continued use of the Service following the posting of any changes to this policy means you accept such changes.
+**Case** | **Purpose** | **Data collected/processed**  
+---|---|---  
+**Fraud Protection** | Protection of our business interests against fraudulent behaviour | IP address, browser specifications, device specifications, postal addresses, email addresses  
+**Survey Participation Uniqueness** | Prevention of multiple entries in surveys by the same individuals | IP address, browser specifications, device specifications  
+**Data Matching and Enrichment** | We enrich the data we hold on file about you by matching your personal data with third parties. This will help us to improve our Services and ensure that we contact you for the Services relevant to you.We utilize matching services (i.e. third parties who are specialized in data management) to acquire additional information about you from public and private data sources (such as social networks, B2B databases and content subscription services with whom you have an account) or to use your personal data as an aid to develop new offers and services (i.e. we identify particular needs and we package an offer to answer those needs). The matching service (our partner) holds the personal data we share for a short time, uses it to assemble the additional information, and then return the combined information to us. Partners are contractually bound to delete the data we share with them and are not authorised to use it in any way other than for this specific purpose. | Contact details, email address, social login, cookie, mobile device ID  
+  
+We will not make your personal data available to anyone else without your agreement unless it is for research purposes or if required by law and/or by regulators or authorities. In these cases, the legal basis of our disclosure of your personal data is it is necessary to comply with a legal obligation. The data that we disclose may include your name and e-mail address.
 
-We give you the option to remove your PII from our list of active users completely. All unsubscribe or opt-out requests should be sent to us at info@lightspeedresearch.com and we will process your request within a reasonable time after receipt. We are not responsible for removing your PII from the lists of any third party who has previously been provided your information in accordance with this policy.
+Our third party partners are all contractually bound to keep any information they collect and disclose to us, or that we collect and disclose to them, confidential and must protect it with security standards and practices that are equivalent to our own.
 
-United States of America: Our web site is maintained in the United States of America. By using the web site, you authorize the export of PII to the USA and its storage and use as specified in this policy.
+**Where We Store Your Personal Data**
 
-Terms of Use: Use of this Service is governed by, and subject to, the Terms of Use. Your use, or access, of the Service constitutes your agreement to be bound by these provisions.
+For personal data subject to the GDPR and transferred to a country or territory outside the European Economic Area (EEA), we shall put adequate safeguards in place to ensure the transfer is made by a lawful method for the purposes of EU data protection law and secure. For personal data which is not subject to the GDPR, Lightspeed shall strictly follow any other applicable data protection laws.
 
-Contact: For questions or concerns relating to privacy, we can be contacted at [info@lightspeedresearch.com](mailto:info@lightspeedresearch.com).
+Lightspeed’s data storage servers are located in Europe and in the United States of America (USA) and are managed by third party service providers in the cloud.
+
+We take appropriate technological and organisational measures to protect your personal data, both during transmission and once we receive it. Our security procedures are consistent with generally accepted standards used to protect personal data.
+
+All our employees are contractually obliged to follow our policies and procedures regarding confidentiality, security and privacy.
+
+Your account information and personal data are password-protected so you and only you have access to your information. In order to keep your personal data safe, we recommend you do not divulge your password to anyone. Lightspeed will never ask you for your password in an unsolicited phone call or in an unsolicited email.  Also, please remember to sign out of your Lightspeed account and close your browser window when you have finished visiting our site. This is to ensure others cannot access your personal data and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe. Please change your password regularly.
+
+**3\. Confidentiality and Industry Requirements**
+
+Whenever Lightspeed handles personal data as described above, regardless of where this occurs, Lightspeed takes steps to ensure that your information is treated securely and in accordance with this Privacy Policy. Unfortunately, no data transmission can be guaranteed to be 100% secure. As a result, while we strive to protect your personal data, Lightspeed cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we will take reasonable steps to ensure our systems are secure.
+
+Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you’re online.
+
+We adhere to standards and industry requirements, including:
+
+  * American Marketing Association (AMA)
+  * British Healthcare British Intelligence Association (BHBIA)
+  * Insights Association
+  * European Pharmaceutical Market Research Association (EphMRA)
+  * European Society for Opinion and Market Research (ESOMAR)
+  * Italian Society for Opinion and Market Research (ASSIRM)
+  * Market Research Society (MRS)
+  * Intellus Worldwide
+  * And also: ARF, DGOF, AMSRS, Baqmar, Jmra, Kora, Moa, Mria-Arim, MRS Singapore, MRS New Zealand, Women in Research
+
+
+
+**4\. Cookie Disclosure**
+
+Cookies are small text files stored on your computer or mobile device by a website that assigns a numerical user ID and stores certain information about your online browsing. They are used to help users navigate websites efficiently and perform certain functions. The website sends information to the browser which then creates a text file on the user’s computer or mobile device. Every time the user goes back to the same website, the browser retrieves and sends this file to the website’s server.
+
+We gather certain information automatically and store it. This information may include things like Internet Protocol addresses (IP address), browser type, Internet service provider (“ISP”); referring/exit pages, operating system and date/time stamp.
+
+We use this automatically collected information to analyse trends such as browser usage and to administer the site, e.g. to optimise the Sites experience depending on your browser type. We may also use your IP address to identify your country and also to protect our business against fraudulent behaviour.
+
+Lightspeed defines cookies within 3 categories:
+
+  * Required to use the Sites
+  * Security-specific
+  * Behavioural or advertising research cookies
+
+
+
+For more information, please log in and access your cookie preferences page for your account where you are able to adjust your cookie settings.
+
+As you use the Internet, a trail of electronic information is left at each website you visit. This information, which is sometimes referred to as ‘clickstream data’, may be collected and stored by a website’s server. Clickstream data can tell us the type of computer and browsing software you use and the address of the website from which you linked to the Site. We may collect and use clickstream data as aggregated information to anonymously determine how much time visitors spend on each page of our Sites, how visitors navigate throughout the Sites and how we may tailor our web pages to better meet the needs of visitors. This information will be used to improve our Sites and our Services. Any collection or use of clickstream data will be anonymous and will not intentionally contain any personal data.
+
+**5\. Accuracy**
+
+We take reasonable steps to keep personal data in our possession or control accurate, complete and current, based on the most recent information made available to us by you and/or by our client.
+
+We rely on you to help us keep your personal data accurate, complete and current by answering our questions honestly. You are responsible for ensuring that you notify us of any changes to your personal data.
+
+**6\. Children’s Data**
+
+Lightspeed recognizes the need to provide further privacy protections with respect to personal data collected from children. Our Sites are not intended or designed to attract children under the age of 16. We do not knowingly collect personal information from or about any person under the age of 16. If you are under 16 years old and wish to ask a question or use this Site in any way which requires you to submit your personal information, please ask your parent or guardian to do so on your behalf.
+
+**7\. Rights of Individuals**
+
+To request access to personal data that we hold about you, you should submit your request in writing to the e-mail address or postal address shown below in “ _How to Contact Us_ ”.
+
+You have the following rights in relation to your personal data:
+
+  * Right to change your mind and to withdraw your consent
+  * Right to access your personal data
+  * Right to rectify your personal data
+  * Right to erase your personal data from our systems, unless we have legitimate interest reasons for continuing to process the information
+  * Right to port your personal data (portability right)
+  * Right to restrict processing of your personal data
+  * Right to object to the processing of your personal data
+
+
+
+We shall also notify third parties to whom we have transferred your personal data of any changes that we make on your request. Note that while Lightspeed communicates to these third parties, Lightspeed is not responsible for the actions taken by these third parties to answer your request. You may be able to access your personal data held by these third parties and correct, amend or delete it where it is inaccurate.
+
+As part of the Lightspeed Business Continuity Plan, and as required by ISO 27001, ISO 9001, ISO 20252 and in certain instances the law, our electronic systems are backed up and archived. These archives are retained for a defined period of time in a strictly controlled environment. Once expired, the data is deleted and the physical media destroyed to ensure the data is erased completely.
+
+**8\. Data Storage and Retention**
+
+Personal data will be retained only for such period as is appropriate for its intended and lawful use. Lightspeed will retain your personal data for as long as you have not unsubscribed from our database. In case you unsubscribe from our database, we shall retain data for no longer than 3 months after you unsubscribe, unless otherwise required by law. Personal data that is no longer required will be disposed of in ways that ensure their confidential nature is not compromised.
+
+As part of the Lightspeed Business Continuity Plan, and as required by ISO 27001, ISO 9001, ISO 20252 and in certain instances the law, our electronic systems are backed up and archived. These archives are retained for a defined period of time in a strictly controlled environment. Once expired, the data is deleted and destroyed to ensure the data is erased completely.
+
+**9\. Notification of Material Change**
+
+We reserve the right to change, add to, or remove portions from this Privacy Policy at any time. You should read this page regularly to ensure you are updated as to any changes. However, if any material change is made to this Privacy Policy, we will notify you of that change. Non-material changes to this Privacy Policy will be announced through the Sites only. Your continued access to the Sites and Services after such changes conclusively demonstrates your consent to any changes.
+
+We will always display the most up-to-date privacy policy on this web page.
+
+**10\. How to Contact Us**
+
+If you have any questions or concerns relating to your privacy or to Lightspeed privacy practices, you can contact Lightspeed:
+
+  * by email at [privacy@lightspeedresearch.com](mailto:privacy@lightspeedresearch.com)
+  * by post to: Lightspeed, Privacy Office, 4 Millbank, Westminster, London SW1P 3JA, United Kingdom
+
+
+
+**11\. Complaints and Country Specific Disclosure**
+
+If you consider that our processing of your personal data infringes data protection laws, you have a legal right to lodge a complaint with a supervisory authority responsible for data protection. You may do so in the EU member state or jurisdiction of your habitual residence, your place of work or the place of the alleged infringement. To find the contact details of your country supervisory authority, please consult our [dedicated page](http://www.lightspeedresearch.com/wp-content/uploads/2018/05/20180409_NationalDataProtectionAuthoritiespdf.pdf).
