@@ -1,208 +1,95 @@
-> *The following text is extracted and transformed from the bgr.in privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218052806id_/http%3A//www.bgr.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bgr.in privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610142537id_/http%3A//www.bgr.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BGR India
 
-The Company and its subsidiaries respect your privacy. This Privacy Policy lists the manner your data is collected and used by the site/service, and you are requested to read it carefully. By accessing the services provided by the site service oncars.in, You agree to the collection and use of your data by the site/service oncars.in in the manner provided in this Privacy Policy.
-
-This Policy does not apply to the procedures and practices followed by entities that are not managed, owned or controlled by the Company and the site/service oncars.in or to the people that are not engaged, employed or managed by the Company the site/service oncars.in.
-
-We want you to
-
-  * feel comfortable using our web sites
-  * feel secure submitting information to us
-  * contact us with your questions or concerns about privacy on this site
-  * know that by using our sites you are consenting to the collection of certain data
-
-
-
-WHAT INFORMATION IS, OR MAY BE, COLLECTED FROM YOU?
-
-We will automatically receive and collect certain anonymous information in standard usage logs through our Web server, including computer-identification information obtained from “cookies,” sent to your browser from:
-
-  * web server cookie stored on your hard drive
-  * an IP address, assigned to the computer which you use
-  * the domain server through which you access our service
-  * the type of computer you’re using
-  * the type of web browser you’re using
-
-
-
-We may collect the following personally identifiable information about you:
-
-  * name including first and last name
-  * alternate email address
-  * mobile phone number and contact details
-  * ZIP/Postal code
-  * demographic profile (like your age, gender, occupation, education, address and durables owned);
-  * preferences and interests (such as news, sports, travel and so on);
-  * financial information (like account or credit card numbers); and
-  * opinions of features on our websites.
-
-
-
-We may also collect the following information:
-
-  * about the pages you visit/access
-  * the links you click on our site
-  * the number of times you access the page You can terminate your account at any time. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account.
-
-
-
-WHO COLLECTS THE INFORMATION?
-
-We will collect anonymous traffic information from you when you visit our site.
-
-We collect the personally identifiable information from you when you register with us. During registration you are required to give us your contact information (such as name, email address, date of birth, gender, address, pin code, cell number, occupation and interests). Upon registration users may receive communications from oncars.in (e.g. newsletters, updates)
-
-We use this information to contact you about the services you are using on our site and services in which you have expressed interest.
-
-You have the option to provide demographic information (such as occupation, education and gender) to us; we encourage you to submit this information so we can provide you a more personalized experience on our site.
-
-If you purchase a product or service from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date, CVV verification, Name on card, billing address etc.).
-
-We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you.
-
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. oncars.in does store this information and the information is used for the sole purpose of sending this one-time email and tracking the success of our referral program.
-
-We will collect personally identifiable information about you only as part of a voluntary registration process, on-line survey, or contest or any combination thereof.
-
-Our advertisers may collect anonymous traffic information from their own assigned cookies to your browser.
-
-The Site contains links to other Web sites. We are not responsible for the privacy practices of such Web sites which we do not own, manage or control.
-
-We make chat rooms, forums, instant messenger and message boards and other services available to you. Please understand that any information that is disclosed in these areas becomes public information. We have no control over its use and you should exercise caution when disclosing your personal information to anyone.
-
-If you use a bulletin board or chat room on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
-
-We are the sole owners of your information collected by us at several different points on our Website.
-
-HOW IS THE INFORMATION USED?
-
-We use your email address to send you:
-
-  * Password reminder and registration confirmation
-  * Special offers
-  * News letters
-  * Changes in the service’s policy or terms of use
-  * Event based communications such as order information, renewal notices, invites, reminders etc.
-
-
-
-Note: We send users newsletters and updates upon registration. We send newsletters and/or promotional emails on behalf of our alliance partners.
-
-We use your personal information to:
-
-  * help us provide personalized features
-  * tailor our sites to your interest
-  * to get in touch with you in the case of password retrieval and policy changes
-  * to provide the services requested by you
-  * to preserve social history as governed by existing law or policy
-
-
-
-We use contact information internally to:
-
-  * direct our efforts for product improvement
-  * contact you as a survey respondent
-  * notify you if you win any contest; and
-  * send you promotional materials from our contest sponsors or advertisers
-
-
-
-Generally, we use anonymous traffic information to:
-
-  * remind us of who you are in order to deliver to you a better and more personalized service from both an advertising and an editorial perspective;
-  * recognize your access privileges to our Web sites
-  * track your entries in some of our promotions, sweepstakes and contests to indicate a player’s progress through the promotion and to track entries, submissions, and status in prize drawings
-  * make sure that you don’t see the same ad repeatedly
-  * help diagnose problems with our server
-  * administer our Web sites
-  * track your session so that we can understand better how people use our sites
-
-
-
-WITH WHOM WILL YOUR INFORMATION BE SHARED?
-
-We will not use your financial information for any purpose other than to complete a transaction with you.  
-We do not share or rent your email addresses with third parties except our agents and alliance partners.AGENTS
-
-We use the services of our enabling partners such as outside shipping companies, resellers, business associates to fulfill orders, and credit card processing companies to process the payment for goods and services ordered from oncars.in website. These entities do not retain, store, share or use personally identifiable information for any other purposes.
-
-ALLIANCE PARTNERS
-
-We will share your information with our Alliance Partners who work with us or on our behalf to help provide you the services. An alliance partner is a company or an individual who owns and manages (wholly or part of) online content on their websites powered by oncars.in.
-
-We share email addresses email addresses with Agents and Alliance Partners. The Agents and Alliance Partners use the email address to confirm the deliveries, send notices and offer services related to the service.
-
-We do not rent, sell or share your personal information and we will not disclose any of your personally identifiable information to third parties unless:
-
-  * we have your permission
-  * to provide products or services you’ve requested
-  * to help investigate, prevent or take action regarding unlawful and illegal activities, suspected fraud, potential threat to the safety or security of any person, violations of oncars.in terms of use or to defend against legal claims;
-  * special circumstances such as compliance with subpoenas, court orders, requests/order from legal authorities or law enforcement agencies requiring such disclosure.
-
-
-
-We reserve the right to disclose your personally identifiable and email address information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
-
-We share your information with advertisers on an aggregate basis only.
-
-The security of your personal information and email address is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, follow this link <http://www.verisign.com/ssl/index.html>. We follow generally accepted industry standards to protect the personal information and email address submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information and email address, we cannot guarantee its absolute security.
-
-If you have any questions about security on our Web site, you can send email us at [Feedback](mailto:support@corp.india.com)
-
-WHAT CHOICES ARE AVAILABLE TO YOU REGARDING COLLECTION, USE AND DISTRIBUTION OF YOUR INFORMATION?
-
-Supplying personally identifiable information is entirely voluntary. You are not required to register with us in order to use our sites. However, we offer some services only to visitors who do register.
-
-You may change your interests at any time and may opt-in or opt-out of any marketing / promotional / newsletters mailings. oncars.in reserves the right to send you certain service related communication, considered to be a part of your oncars.in account without offering you the facility to opt-out. You may update your information and change your account settings at any time.
-
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [Feedback](mailto:support@corp.india.com).
-
-We provide you the opportunity to ‘opt-out’ of having your email address used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference, follow the instructions included in each newsletter or communication or by emailing us at [Feedback](mailto:support@corp.india.com).
-
-Upon request, we will remove/block your personally identifiable information from our database, thereby cancelling your registration. See Contact information below. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account.
-
-If your personally identifiable information or email address changes, or if you no longer desire our service, you may correct, update or deactivate it by making the change on our member information page or by emailing our Customer Support at [Feedback](mailto:support@corp.india.com) or by contacting us by telephone or postal mail at the contact information listed below.If we plan to use your personally identifiable information for any commercial purposes, we will notify you at the time we collect that information and allow you to opt-out of having your information used for those purposes.
-
-You can accept or decline the cookies. All sites that are customizable require that you accept cookies. You also must accept cookies to register as someone for access to some of our services. For information on how to set your browser to alert you to cookies, or to reject cookies, go to <http://www.cookiecentral.com/faq/>
-
-COOKIES
-
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do link the information we store in cookies to any personally identifiable information you submit while on our site.
-
-We use both session ID cookies and persistent cookies. We use session cookies to make it easier and secured for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. Reference for cookies can be found a <http://www.cookiecentral.com/>.
-
-We use session cookies to store the secure session and browsing preferences of the user. We set a persistent cookie to store your username and interests so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
-
-If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited. Cookies are used in shopping cart to enable enhanced security and ensuring there is no URL based spamming.
-
-Some of our business partners (e.g., advertisers) set cookies while delivering banners on our site. We have no access to or control over these cookies.
-
-This privacy statement covers the use of cookies by [www.bgr.in](http://www.bgr.in/) only and does not cover the use of cookies by any advertisers.
-
-We do use cookies on point of collection pages of email address but we do not use them in emails.
-
-bgr.in cookies are not being tied to PII.
-
-SECURITY PROCEDURES IN PLACE TO PROTECT INFORMATION FROM LOSS, MISUSE OR ALTERATION
-
-To protect against the loss, misuse and alteration of the information under our control, we have in place appropriate physical, electronic and managerial procedures. For example, our servers are accessible only to authorized personnel and that your information is shared with respective personnel on need to know basis to complete the transaction and to provide the services requested by you.
-
-Although we will endeavor to safeguard the confidentiality of your personally identifiable information, transmissions made by means of the Internet cannot be made absolutely secure. By using this site, you agree that we will have no liability for disclosure of your information due to errors in transmission or unauthorized acts of third parties.
-
-We follow generally accepted industry standards to protect the personal information and email addresses submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information and email address, we cannot guarantee its absolute security.
-
-POLICY UPDATES
-
-We reserve the right to change or update this policy at any time by placing a prominent notice on our site. Such changes shall be effective immediately upon to this site.
-
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, or by means of a notice on our homepage.
-
-If we decide to make changes in our email practices, we will post those changes to this privacy policy, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we decide to change our email practices, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-India Webportal Private Limited  
-Marathon Futurex,  
-20th Floor,NM Joshi Marg,  
-Lower Parel East,  
-Mumbai-400013, Maharashtra, India
+**I. Objective and Scope**  
+[BGR.in](http://www.bgr.in/) values the trust placed in us by our users and therefore, we follow the highest standards of privacy guidelines to protect the information shared by you with us.  
+This Privacy Policy governs the use of Personal Information shared (as defined below) with or collected by [BGR.in](http://www.bgr.in/)  from the users or subscribers.  
+This privacy policy describes the usage of information provided or collected on the sites and applications where this privacy policy is posted. We follow this privacy policy in accordance with applicable law in the places where we operate. In some cases, we may provide additional data privacy notices specific to certain services or regions. Those terms are to be read in combination with this policy.  
+Please keep in mind that when you provide information to us on a third-party site or platform (for example, via our applications like social media login the information we collect is through those third-party sites linked with our applications is covered by this privacy policy, and the information the third-party site or platform collects is subject to the third-party site or platform’s privacy practices. Privacy choices you have made on the third-party site or platform will not apply to our use of the information we have collected directly through our applications. Please also keep in observance that our sites and applications may contain links to other sites not owned or controlled by us and we are not responsible for the privacy practices of those sites. We encourage you to be aware when you leave our sites or applications and to read the privacy policies of other sites that may collect your personal information.  
+All capitalized terms that have not been specifically defined herein shall have the same meaning as provided under the Terms of Use.  
+This Privacy Policy should be read in conjunction and together with the Terms of Use applicable to the [BGR.in](http://www.bgr.in/) you are using.
+
+**II. User Consent**  
+By using [BGR.in](http://www.bgr.in/) (for example, when you register for an account, purchase a service, enter a contest or promotions, communicate with us, on our sites or applications), you agree to provide consent to our collection, use and sharing of your personal information as described in this policy. In some cases, particularly if you reside in a country governed by a data protection regulation, we may ask you to provide explicit consent to access our services before proceeding for further operations.
+
+**III. Collection and Use of Personal Information**  
+‘Personal Information’ or ‘PII’ is defined as any information that identifies (whether directly or indirectly) to a particular individual or natural person, such as the individual’s name, postal address, email address, and mobile number indicating to that particular person or is identifiable. When anonymous information is directly or indirectly associated with personal information, the resulting information also is treated as personal information.
+
+**IV. Information you provide to us**  
+We may ask for and collect the following personal information about you when you use the [BGR.in](http://www.bgr.in/) and without this information we may not be able to provide you with all the requested services;  
+• First and Last Name  
+• Email id  
+• Primary Phone No.  
+• City & State
+
+**V. Information we collect automatically**  
+We collect information about you and your use of our service, your interactions with us and our advertising, as well as information regarding your computer or other device used to access our service. The information includes:  
+• Your interactions with our email, customer care and messaging platform.  
+• Geo-location information like IP addresses,  
+• Cookies;  
+You can read more about how we use cookies in our [Cookie Policy](http://www.bgr.in/cookie-policy/).
+
+**VI. Information we collect through third parties**  
+Third party services  
+If you link, connect or login through [BGR.in](http://www.bgr.in/) account with a third party service i.e. Google, Facebook and Twitter they may send us information such as your registration and profile information from the service.
+
+**VII. Purposes and Lawfulness of processing**  
+We will only collect and process personal data about you where we have lawful basis. Lawful basis on which we would process our personal information includes obtaining explicit consent from you for processing your personal information or processing for “legitimate interests” where processing is necessary by us to provide you with customer support or process your data for providing premium services (For e.g. processing your information by our payment gateway service providers).  
+We use information to provide, analyse, administer, enhance and personalize our service and marketing efforts, to process your registration, your orders, payments, and to communicate with you related to below mentioned points. For example, we use information to:  
+• prevent, detect and investigate potentially prohibited or illegal activities, including fraud, and enforcing our terms (such as determining free trial eligibility);  
+• communicate with you concerning our service (for example by email, push notifications text messaging, and online messaging channels), so that we can send you news about [BGR.in](http://www.bgr.in/), details about new features and content available on the [BGR.in,](http://www.bgr.in/) and special offers, promotional announcements, and consumer surveys, and to assist you with operational requests such as password reset requests.  
+• notify you about changes in terms of service.  
+• allow you to participate in interactive features offered through our Services.  
+• carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing, chargeback and collection.  
+We may also use your information to contact you about our own and third-party services that may be of interest to you. If you do not want us to use your information in this way, please provide explicit consent for the same when we collect your data and/or adjust your user preferences in your account profile concerning your choices/preferences provided.
+
+**VIII. Disclosure to third parties**  
+General Disclosure  
+At times the [BGR.in](http://www.bgr.in/) may make certain personal information available to strategic partners that work with the [BGR.in](http://www.bgr.in/) to provide service, or that help the [BGR.in](http://www.bgr.in/) market to customers. For example, when you purchase and activate subscription, you authorize the [BGR.in](http://www.bgr.in/) to exchange the information you provide during the activation process to carry out a service. If you are approved for service, your account will be governed by the [BGR.in](http://www.bgr.in/)’s privacy policy. Personal information will only be shared by the [BGR.in](http://www.bgr.in/) to provide or improve our service and marketing aspects; it will not be shared with third parties for their marketing purposes.  
+We do not share your personal information with Companies, organizations, or individuals outside of [BGR.in](http://www.bgr.in/) except in the following cases:  
+Promotional Offers  
+We’ll share or disclose your personal information outside of [BGR.in](http://www.bgr.in/) when we have your consent. For example, providing E-mail related services such as marketing newsletters, promotions and offers.  
+Business Transfers  
+We provide personal information to our affiliates and other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. For example, we use service providers to help us with customer support.  
+Legal  
+In the event of any requirement by court order, government or quasi-government agency to disclose Your Personal Information, We will disclose information as may be legally required. We may also disclose Your Personal Information if we, in the good faith believe that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process.  
+In the event [BGR.in](http://www.bgr.in/) is merged with or acquired by another company, we and our affiliates may share your personal information, wholly or in part, with another business entity.
+
+**IX. Your Controls and Choices**  
+We provide you the ability to exercise certain controls and choices regarding our collection, use and sharing of your personal information. In accordance with applicable law, your controls and choices may include:  
+Managing Your Information  
+You can access and update some of your personal information through your account settings. If you have chosen to connect your [BGR.in](http://www.bgr.in/) account to a third-party application, like Facebook, Google or Twitter, you can change your settings and remove permission for the app by changing your account settings. You are responsible for keeping your personal information up-to-date. The [BGR.in](http://www.bgr.in/) will send you periodic reminders via e-mail to maintain the accuracy of your personal information.  
+Rectification of Inaccurate or Incomplete Information  
+You can ask us to correct inaccurate or incomplete personal information concerning you (this is the information which you cannot update yourself within your [BGR.in](http://www.bgr.in/) account) by sending us an e-mail  
+Data Retention and Erasure  
+We retain your personal information as long as necessary for the performance of the contract between you and us to comply with our legal obligations. If you no longer want us to use your information then you can request that we erase your personal information and close your [BGR.in](http://www.bgr.in/) account. Please note that if your request for the erasure of your personal information;  
+• We may retain some of your personal information as necessary for our legitimate business interests, such as fraud detection and prevention and enhancing safety. For example, if we suspend a [BGR.in](http://www.bgr.in/) account for fraud or safety reasons, we may retain certain information from that account to prevent that user from opening a new account in the future.  
+• We may retain and use your personal information to the extent necessary to comply with our legal obligations. For example, we may keep some of your information for tax, legal reporting and auditing obligations.  
+• Because we maintain copies of the <Entity Name>to protect from accidental or malicious loss and destruction, residual copies of your personal information may not be removed from our backup systems for a limited period of time.  
+Withdrawing Consent and Restriction of Processing  
+For withdrawing your consent at any time during the tenure of your services with us, you may choose to do so by sending us an e-mail. We shall review your request and may ask you to verify your identity. Post verification we will withdraw the consent for which request was made by you and stop any further processing of your personal information  
+Objection to Processing  
+Where your personal information is processed for direct marketing purposes, you may, at any time ask us to cease processing your data for these direct marketing purposes by sending an e-mail to us.  
+Complaints  
+You can write to our data protection officer in case of any grievance or compliant. You have the right to complaint about the data processing activities carried out by [BGR.in](http://www.bgr.in/) before the competent data protection authorities.  
+Please be aware that if you do not allow us to collect personal information from you, we may not be able to deliver certain experiences, products, and services to you, and some of our services may not be able to take account of your interests and preferences. If collection of personal information is mandatory, we will make that clear at the point of collection so that you can make an informed decision whether to participate. If you have questions about the specific personal information about you that we process or retain, and your rights regarding that personal information, please contact our customer support team.
+
+**X. Children’s Privacy**  
+[BGR.in](http://www.bgr.in/) is not intentionally designed for or directed at persons less than 16 years of age. [BGR.in](http://www.bgr.in/) does not knowingly permit any person who is under 16 years of age to register with the services or to provide any other personally identifying information. If [BGR.in](http://www.bgr.in/) becomes aware that any personally identifiable information of persons less than 16 years of age has been collected on the [BGR.in](http://www.bgr.in/) without verified parental consent, then [BGR.in](http://www.bgr.in/) will take the appropriate steps to delete any such information and notify the parent.  
+However, we consider it the responsibility of parents to monitor their children’s use of our services. Nevertheless, it is our policy not to collect and process any personal information from children below 16 years of age or offer to send any promotional materials to persons in that category. [BGR.in](http://www.bgr.in/) does not seek or intend to seek or receive any personal information from children. Should a parent or guardian have reasons to believe that a minor has provided [BGR.in](http://www.bgr.in/) with personal information without their prior consent, please contact our customer support team to ensure that the personal information is removed from the [BGR.in](http://www.bgr.in/).
+
+**XI. Data transfer, storage & processing globally**  
+We operate globally and may transfer your personal information to individual companies of the [BGR.in](http://www.bgr.in/) affiliated companies or third parties in locations around the world for the purposes described in this privacy policy. Wherever your personal information is transferred, stored or processed by us, we will take reasonable steps to safeguard the privacy of your personal information. Additionally, when using or disclosing personal information transferred from the European Union, we use standard contractual clauses approved by the European Commission, adopt other means under European Union law for ensuring adequate safeguards.
+
+**XII. Security and compliance with laws**  
+We are continuously implementing and updating administrative, technical, and physical security measures to help protect your information against unauthorized access, loss, destruction, or alteration. Some of the safeguards we use to protect your information are firewalls and data encryption, and information access controls. If you know or have reason to believe that your<Entity Name>account credentials have been lost, stolen, altered, or otherwise compromised or in case of any actual or suspected unauthorized use of your account, please contact us by contacting our customer support team.
+
+**XIII. Change in Policy**  
+This Privacy Policy is subject to change from time to time. We reserve the right, at our sole discretion, to modify the terms of this Privacy Policy from time to time in order to ensure compliance with applicable laws (“Updated Terms”). The Updated Terms shall be effective immediately and shall supersede these the terms of this Privacy Policy. We will not be under an obligation to notify you of any changes to this privacy policy except if the changes made to the policy significantly affects your rights or as may be required by law. You shall be solely responsible for reviewing the Privacy Policy from time to time for any modifications. By continuing to use [BGR.in](http://www.bgr.in/) after the updated Terms have been published, you affirm your agreement to the updated terms.
+
+**XIV. Contact information**  
+I. Support  
+If you require any information or clarification regarding the use of your personal information or this privacy policy or grievances with respect to use of your personal information, please email us at contact@corp.india.com.  
+II. Data Controller  
+If you have any queries, complaints regarding the collecting, processing, transfer of personal data/information or regarding this policy please do contact us.
