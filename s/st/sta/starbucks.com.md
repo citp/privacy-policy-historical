@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the starbucks.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107215617id_/http%3A//www.starbucks.com/about-us/company-information/online-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starbucks.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610225105id_/https%3A//www.starbucks.com/about-us/company-information/online-policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Starbucks Coffee Company
 
-Last Revised: September 11, 2017
+Last Revised: November 15, 2017
 
 This Privacy Statement ("Statement") applies to the website located at starbucks.com, store.starbucks.com, Starbucks mobile applications, and any other websites or applications associated with Starbucks brands or products that direct the viewer or user to this Statement. In this Statement, the terms "Starbucks," "we," and "us" refers to Starbucks Corporation and its respective subsidiaries and affiliated companies. The term “your device" refers to any computer, tablet, smart phone or other device you are using to access our websites or to operate the Starbucks mobile applications. Websites that are owned and operated by Starbucks may contain links to websites that are owned and operated by other companies. This Statement does not apply to websites and services that are owned and operated by third parties. 
 
@@ -17,7 +17,7 @@ Your Choices
 How to Manage Your Account Information  
 Use by Children  
 California Residents  
-EU-U.S. Privacy Shield  
+Privacy Shield  
 Contact Us
 
 **_Information We Collect_**
@@ -139,7 +139,7 @@ Please note that if you opt out of receiving promotional communications from us,
 
 **_How to Manage Your Account Information_**
 
-Information can be changed or removed from Starbucks.com accounts by visiting [www.Starbucks.com/Account](http://www.starbucks.com/Account). As required by law for taxes and other record keeping purposes, we are unable to completely delete an account. 
+Upon request we will provide you with information about whether we hold any of your personal information. You may access, correct, or remove your personal information by visiting [www.Starbucks.com/Account](http://www.starbucks.com/Account). As required by law for taxes and other record keeping purposes, we are unable to completely delete an account. 
 
 **How We Protect Your Information**
 
@@ -153,11 +153,11 @@ We do not intend for our websites or online services to be used by anyone under 
 
 If you are a California resident, you can request a notice disclosing the categories of personal information we have shared with third parties for the third parties’ direct marketing purposes. To request a notice, please submit your request by postal mail to: Starbucks Customer Service, P.O. Box 93490 Albuquerque, NM 87199. We will make every effort to promptly respond to your request.
 
-**_EU-U.S. Privacy Shield_**
+**_Privacy Shield_**
 
-Starbucks Corporation, Starbucks Coffee Company (UK) Limited, Starbucks Coffee (Austria) GmbH, Starbucks Coffee (Netherlands) B.V., Starbucks Coffee France SAS each participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Starbucks is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List here: <https://www.privacyshield.gov/list>.
+Starbucks Corporation participates in and has certified its compliance with the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks. Starbucks is committed to subjecting all personal data received from European Union (EU) member countries, and Switzerland, in reliance on the Privacy Shield Frameworks, to the applicable Principles. To learn more about Privacy Shield, visit the U.S. Department of Commerce’s Privacy Shield List here: <https://www.privacyshield.gov/list>.
 
-Starbucks is responsible for the processing of personal data it receives, and subsequently transfers to a third party acting as an agent on its behalf, under the Privacy Shield Framework. Starbucks complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+Starbucks is responsible for the processing of personal data it receives, and subsequently transfers to a third party acting as an agent on its behalf, under the Privacy Shield Framework. Starbucks complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
 With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Starbucks is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Starbucks may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
