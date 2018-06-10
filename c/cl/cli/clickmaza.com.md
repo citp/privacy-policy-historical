@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickmaza.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208122901id_/http%3A//www.clickmaza.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickmaza.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610220601id_/http%3A//www.clickmaza.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ClickMaza.com
 
@@ -15,4 +15,4 @@ We have included links on this site for your use and reference. We are not respo
 **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion.
 
-If you have any questions regarding the privacy policy of CLICKMAZA.com then you may contact us at [clickmaza@gmail.com](mailto:clickmaza@gmail.com)
+If you have any questions regarding the privacy policy of CLICKMAZA.com then you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3556595c565e58544f54755258545c591b565a58)
