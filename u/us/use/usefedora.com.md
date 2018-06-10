@@ -1,110 +1,177 @@
-> *The following text is extracted and transformed from the usefedora.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810023322id_/http%3A//usefedora.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usefedora.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610213625id_/https%3A//teachable.com/privacy-policy) for the most accurate reproduction.*
 
-# UseFedora Inc | Privacy Policy
+# Teachable | Privacy Policy
 
-**PRIVACY POLICY**
+#### **PLEASE READ THIS DOCUMENT CAREFULLY**
 
-Fedora respects the privacy of our users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. These Privacy Policy is intended to describe for you, as an individual who is a user of _UseFedora.com_ or any of our related Schools or Classes, the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures.
+This Privacy Policy applies to the Teachable websites and related subdomains, mobile applications, and media (our "website") managed by Teachable, Inc. (“Teachable”, “we”, or “us”), and the online course creation platform that enables independent instructors (“Instructors”) to deliver live and recorded instruction and learning services as massive open online courses (“Courses”) to end-users (“Students”) through the Instructors’ schools (“Schools”). Our website, online course creation platform and related services are hereinafter collectively referred to as our "Services". 
 
-We encourage you to read this Privacy Policy carefully when using our services or transacting business with us. By using our website, you are accepting the practices described in this Privacy Policy. If you have any questions about our privacy practices, please _contact us_.
+We respect your privacy and are committed to maintaining and using any information we collect through your use of our Services responsibly. 
 
-## Information We Collect About You
+Teachable is the data controller for the processing of personal data in relation to myTeachable accounts and in relation to the use of our website. Each individual School is the data controller for non-myTeachable accounts, Instructors' personal data and for any processing conducted in relation to the online courses provided by the School.
 
-We may collect personal information that can identify you, such as your name and email address, and other information that does not identify you. When you provide personal information through our website, the information may be sent to servers located in the United States and other countries around the world.
+This Privacy Policy only concerns the processing for which Teachable is data controller. If you have any questions regarding processing for which a School is data controller, please contact the relevant School. 
 
-  * Information you provide: We may collect and store any personal information you enter on our website or provide to us in some other manner, including personal information that may be contained in any video, text, comment, or other submission you upload or post to Fedora. This includes identifying information, such as your name, address, email address, and telephone number; your likeness; and, if you transact business with us, financial information such as your payment method (valid credit card number, type, expiration date or other financial information). 
+Please read this Privacy Policy carefully prior to accessing or using our Services. If you have any questions, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+
+**The Information We May Collect**
+
+Our primary purpose in collecting information from or about you is to provide you with a safe, smooth, efficient, and customized experience. Depending on the manner in which you use our Services, we collect information about you that we deem necessary for providing Services and features that optimize, secure, and ease your user experience.
+
+_Personal Information or Personal Data ("PII")_ : Teachable may collect and process information that could be directly or indirectly associated with you; information such as your full name, company name where applicable, user name and password, phone number, email address, billing or mailing address, credit/debit card information and other information that you share with Teachable. You can choose not to provide us with certain information, but that may result in you being unable to use certain features of our Services because such information may be required in order for you to register for an account; purchase products or Services; participate in a contest, promotion, survey, or sweepstakes; ask a question; or initiate other transactions on our website.
+
+_Payment Information_ : For the purposes of billing Teachable Plan subscription fees and Teachable powered course enrollment fees that are processed through Teachable’s payment gateways, we may request your credit card and certain contact information, such as a billing address. We retain credit card information internally for the purpose of all payment processing related to our Services. This includes the use of your payment information to allow you to purchase courses across multiple schools through your myTeachable account. The payment information is necessary in order for you to use our Services and failure to provide such information may result in you not being able to use our Services.
+
+_Third Party Payment Processors_ : Payments processed via Custom Payment Gateways by third parties like PayPal and Stripe are subject to the terms of use and privacy policies of those payment gateways and are not accessible or controlled by Teachable. For payments processed via Teachable Payment and Custom Payment Gateways, we receive information related to the payment status of your account; this information includes your payment card type and last four digits, postal code, country of origin, payment expiration date, and any email address associated with the payment type. For additional information, we recommend that you review the payment processor's Privacy Policy.
+
+_Mobile Application_ : Teachable offers a mobile application and may, depending on your privacy settings, collect certain information about you and your devices when you access our Services through your mobile or other Internet connected devices. Teachable does not ask for or purposefully track any precise location-based information. We use mobile analytics software to allow us to better understand the functionality of our Services on your mobile or other Internet connected devices, which may record data relating to usage, performance, and download and will be treated like Demographic and Usage Data (discussed below).
+
+_Information from Third Party Platforms_ : You may allow our Services to interact with one or more third party social networks or platforms (such as Facebook), which will provide data about you to us ("Platform(s)"). The information you allow Teachable to access varies by Platform, and it is affected by the privacy settings you and those that you are connected with establish while using such Platforms. Platforms are operated, controlled, and maintained by third parties that are not operated, controlled, or maintained by Teachable. We recommend that you read the terms of use or service and privacy policies of those Platforms to understand how they collect and treat your data and what data they might share with us or other third parties.
+
+_Demographic and Usage Data_ : Teachable may collect information through the use of cookies, HTML5 local storage, and other similar technologies. "Cookies" are alphanumeric identifiers in the form of text files that are inserted and stored by your web browser on your hard drive. Teachable may set and access cookies on your computer or wireless device to track and store preferential information about you. We may gather anonymous information about Users through cookie technology on an individual and aggregate level. Such information is used within Teachable internally and is only shared with third party advertisers, if any, on an aggregated or non-personally identifiable basis. You may opt out of receiving cookies from our website by following the instructions in your web browser. Note, however, that deleting cookies or directing your browser to refuse them may limit your ability to use certain portions of our website that require cookies to function. Teachable gathers certain information automatically and stores it in log files. This information may include Internet protocol (IP) addresses, browser type, operating system, and other usage information about the use of our website, including a history of the pages you view. 
+
+We use cookies as set out below:
+
+Cookie | Domain | Retention | Description  
+---|---|---|---  
+signed_in | Used for the specific school domain being viewed. | Expires after the browser window is closed. | Used to determine if a visitor is signed in to the website.  
+site_preview | Used for the specific school domain being viewed. | Expires after the browser window is closed. | Used to determine whether the website is in free preview mode. This cookie is ignored if the user is not an owner or author of a School.  
+videoPlayer | Used for the specific school domain being viewed. | Expires after the browser window is closed. | Used to show html5 or Flash videos.  
+videospeed | Used for the specific school domain being viewed. | Expires after the browser window is closed. | Used to show what speed to play videos.  
+wistiaVisitorKey | Used for the specific school domain being viewed. | Expires after the browser window is closed. | Used to determine what session each video is used for. This is set by Wistia, a third-party video hosting service.  
+session_id | Used for the specific school domain being viewed. | 1 month | Used to store the session state, which is tied to what user is logged in to the website.  
+ar_V4 | .teachable.com | 2,083 days | Used by a third-party (bizable.com) to optimizes ad display based on the user's movement and various advertiser bids for displaying user ads.  
+ahoy_events | Used for the specific school domain being viewed. | 1 day | Used for internal diagnostic tracking.  
+ahoy_visit | Used for the specific school domain being viewed. | 1 day | Used for internal diagnostic tracking.  
+ahoy_visitor | Used for the specific school domain being viewed. | 2 years and 1 day | Used for internal diagnostic tracking.  
+_ga | .teachable.com | 2 years | Used by Google analytics to calculate session and visitor information.  
+gat_fedoraTracker | .teachable.com | 1 day | Used by Google analytics to calculate session and visitor information.  
+gat_Teachabletracker | .teachable.com | 1 day | Used by Google analytics to calculate session and visitor information.  
+_gid | .teachable.com | 2 days | Used by Google analytics to calculate session and visitor information.  
+NID<OGP | .teachable.com | 2 years | Used by Google to store user preferences and other information.  
+OGPC | .teachable.com | 2 years | Used by Google to store user preferences and other information.  
+_smVID | .teachable.com | 29 days | Used by the SumoMe email capture integration.  
+1P_JAR | .teachable.com | 1 week | Used by Google to collect website statistics and track conversion rates.  
+fs_uid | .teachable.com | For the maximum amount of time the user’s browser supports. | Used to identify sessions by Fullstory, a third-party user experience recording service.  
+  
+_Non-Personal Information_ : Web Beacons, also known as pixel tags and clear GIFs, ("Web Beacons"), are electronic images that allow a website to access cookies and help track marketing campaigns and general usage patterns of visitors to those websites. Web Beacons can recognize certain types of information, such as cookie numbers, time and date of a page view, and a description of the page where the Web Beacons are placed. No PII about you is shared with third parties through the use of Web Beacons on our website. However, through Web Beacons, we may collect general information that will not personally identify you, such as: Internet browser, operating system, date of visit, time of visit and path taken through the website. Teachable may also collect other Non-Personal Information as visitors browse our website, such as the web traffic, what pages are visited, and from where visitors come. We may compile this Non-Personal Information to enable statistical analysis of our Services that would be used internally or with external assistance to make improvements to our website and Services.
+
+**How We Use the Information We Collect**
+
+We will use your PII in accordance with applicable data protection legislation and this Privacy Policy for the following purposes and based on the following legal basis under the General Data Protection Regulation (2016/679/EU) ("GDPR"):
+
+Purpose of the processing | Legal basis for the processing  
+---|---  
+To provide you access to our Services, to administrate your myTeachable account and communicate with you regarding you myTeachable account and use of our Services. | Performance of contract.  
+To market and advertise our products and Services, including making recommendations about courses and other Services you may be interested in, conducting market research, surveys or competitions. | Balancing of interests where Teachable has pursued the legitimate interest of conducting marketing activities.  
+To prevent, detect, investigate and take measures against criminal activity, fraud and misuse of or damage to our Services or network and to take measures against other threats against Teachable's or a third party's rights. | Legal basis for the processing: Balancing of interests where Teachable has pursued the following legitimate interests: (a) Teachable's interest of investigating suspicion of and taking measures against misuse of or damage to our Services or network; (b) Teachable's and/or third party's interest of investigating and producing evidence regarding criminal activity, fraud and other threats against its interest; and (c) Competent authority's interest of conducting law enforcement activities and collecting evidence for such purposes.  
+To comply with applicable laws, regulations, court orders, government and law enforcement agencies’ requests. | Compliance with a legal obligation to which Teachable is subject.  
+  
+**Disclosure of your PII**
+
+Teachable provides to Instructors the following information about the Students enrolled in their respective Courses: (1) name, (2) email address, (3) IP address, and (4) the Instructor’s Course in which the Student has enrolled. Teachable does not disclose any other information about Students to Instructors, and Students assume full responsibility for the disclosure and use of any other PII the Student chooses to disclose to any Instructor or other users, which at all times shall be subject to the terms of this Privacy Policy.
+
+Teachable may also disclose any of your information, which in some cases includes PII, in the following situations:
+
+  1. With your consent. Teachable may transmit your PII to a third party when you give us express permission to do so. For example, this may occur when we complete a transaction on your behalf or at your request.
+
+  2. With our authorized service providers. Teachable may share your PII with our authorized service providers that perform certain services and process PII on our behalf. These services may include providing customer service and marketing assistance, performing business and sales analysis, supporting our website functionality, and supporting contests, sweepstakes, surveys and other features offered through our website. These service providers may have access to PII needed to perform their functions but are not permitted to share or use such information for any other purposes.
+
+  3. Payment providers and your bank. For the purpose of administrating payments within our Services, we may disclose your PII to third party payment providers and your bank. 
+
+  4. With our business partners. When you make purchases, reservations or engage in promotions offered through our website, we may share PII with the businesses with which we partner to offer you those products, services, promotions, contests and/or sweepstakes. When you elect to engage in a particular merchant’s offer or program, you authorize us to provide your email address and other information to that merchant.
+
+  5. In connection with a substantial corporate transaction, such as the sale of our business; a divestiture, merger, consolidation, or asset sale; or in the event of bankruptcy. If another company acquires Teachable, that company will take on all responsibility for the information we collect, including PII, and it will assume all rights and obligations with respect to that information. Should this happen, the acquiring company may implement its own policies with respect to your information.
+
+  6. If we are required to disclose information by law. Teachable may be obligated to disclose a User’s personal information, if directed by a court of law or other governmental entity. Without limiting the foregoing, we reserve the right to disclose such information where we have a good faith basis to believe that such action is necessary to: (a) comply with applicable laws, regulations, court orders, government and law enforcement agencies’ requests; (b) protect and defend Teachable’s or third party's rights and property, or safety of Teachable, our users, our employees, or others; (c) prevent, detect, investigate and take measures against criminal activity, fraud and misuse or unauthorized use of our Services and/or to enforce our Terms of Use or other agreements or policies; and/or (d) protect your personal safety or property or that of the public. In the event that your information is disclosed, we will comply with the law and make commercially reasonable efforts to notify you.
 
 
-* Information about others. We may also collect and store personal information about other people that you provide to us. If you use our website to upload, share and/or distribute content (including videos, comments or other submissions), and such content contains personal information about others, such information may be stored in order to allow for such uploading, sharing and/or distribution.
-
-Use of cookies and other technologies to collect information: We use various technologies to collect information from your computer about your activities on our site. 
-
-  * Information collected automatically: We automatically collect information from your browser when you visit our website. This information includes your IP address, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us, and the referring website address.
 
 
-  * Cookies. When you visit our website, we may assign your computer one or more cookies to facilitate access to our site and to personalize your online experience. Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, please note that you may not be able to sign in or use some of the interactive features offered on our website.
+Teachable may also use and share Non-Personal Information we collect with third parties to develop and deliver targeted advertising on our website or applications of third parties, and to analyze and report on advertising you see. We may combine Non-Personal Information we collect with additional Non-Personal Information collected from other sources. We also may share aggregated, non-personal information with third parties, including advisors, advertisers and investors. For example, we may engage a third party acting on our behalf to collect web log data from you (including IP address and information about your browser or operating system) when you use our website and other websites you may access during your Internet browsing session, or place or recognize a unique cookie on your browser to enable you to receive customized advertisements or content. For more information regarding your choices about how third parties collect information about you on our website see the section titled Do-Not-Track Procedures below.
 
+Please keep in mind that all of the information that you disclose or content that you post in your user profile, forum posts, comments, or other public portions of our website becomes public information. Because this information is publicly available, we cannot control how others treat it so we ask all Users to exercise care in deciding what information they chose to share. 
 
-* Other Technologies: We may use standard Internet technology, such as web beacons and other similar technologies, to track your use of our site. We also may include web beacons in promotional e-mail messages or newsletters to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services we offer our website visitors to deliver targeted advertisements and to measure the overall effectiveness of our online advertising, content, programming or other activities..
+**Data Retention**
 
-## How We Use the Information We Collect
+We will save your PII until you erase or delete your account or otherwise exercise your right to erase your PII.
 
-We may use information that we collect about you to:
+**Access to Your Information and other rights**
 
-  * deliver the products and services that you have requested;
+You are, at any time and free of charge, entitled to receive a copy of the PII that we hold about you and information about the processing thereof. Please note that Teachable needs to be able to determine your identity in order to be able to respond to your request. 
 
+If you believe that any PII we are holding is incorrect or incomplete please send an email with your specific request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) We will work with you to make any corrections deemed necessary. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect. Additionally, note that registered Instructors and Students may change visibility of their respective personal information throughout our website by editing their personal profiles.
 
-* manage your account and provide you with customer support;
-* perform research and analysis about your use of, or interest in, our products, services, or content, or products, services or content offered by others;
-* communicate with you by email about our products and services;
-* develop and display content and advertising tailored to your interests on our site and other sites;
-* verify your eligibility and deliver prizes in connection with contests and sweepstakes;
-* enforce our terms and conditions and
-* manage our business.
+You have the right to request that Teachable restricts the processing of your PII under certain conditions. For example, if you contest the accuracy of the PII, the processing may be restricted for a period enabling Teachable to verify the accuracy of the PII or if Teachable no longer needs the PII for the purposes of the processing but you require the PII for the establishment, exercise, or defense of legal claims.
 
-Financial information: We use financial information or payment method to process payment for any purchases, subscriptions or sales made within Fedora Schools and Courses to protect against or identify possible fraudulent transactions, and otherwise as needed to manage our business. 
+You have the right to have your PII deleted without undue delay and Teachable is obliged to delete your PII without undue delay if, for example, the PII is no longer necessary in relation to the purpose for which it was collected or otherwise processed. Please note that Teachable is not obliged to delete the PII if Teachable can show that the processing is necessary, for example, for the establishment, exercise, or defense of a legal claim.
 
-## With Whom We Share Your Information
+If you provide your email address to Teachable, you will always have the opportunity to opt out of receiving email newsletters and promotions through the unsubscribe link in the email communications or by logging into and changing the preferences for your user account. We may send you other types of transactional and relationship e-mail communications, such as service announcements, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them. Please note that changing information in your account, or otherwise opting out of receipt of promotional email communications will only affect future activities or communications from us. If we have already provided your information to a third party (such as a credit card processing partner) before you changed your preferences or updated your information, you may have to change your preferences directly with that third party.
 
-We want you to understand when and with whom we may share personal or other information we have collected about you or your activities on our website or while using our services.
+You have the right to object, on grounds relating to your particular situation, at any time to Teachable's processing of your PII if the processing is based on, for example, legitimate interests. If you object to such processing, Teachable will no longer be entitled to process your PII based on such legal basis, unless Teachable can demonstrate compelling legitimate grounds for the processing which overrides your interests, rights, and freedom or if it is conducted for the establishment, exercise, or defense of a legal claim.
 
-Personal information. We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to opt out of having your personal information shared. We may share personal information with:
+You have, under certain conditions, the right to receive the PII concerning you and which you have provided to Teachable, in a structured, commonly used and machine-readable format and have the right to transmit such PII to another data controller without Teachable trying to prevent this, where Teachable's processing of your PII is based on a contract or consent and the processing is carried out by automated means. In such case you have the right to request that the PII shall be transmitted from Teachable directly to another data controller, where technically feasible.
 
-  * Authorized service providers: We may share your personal information with our authorized service providers that perform certain services on our behalf. These services may include processing credit card payments, providing customer service and marketing assistance, performing business and sales analysis, supporting our website functionality, and supporting contests, sweepstakes, surveys and other features offered through our website. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.
+You also have the right to withdraw your consent, if applicable. If you withdraw your consent, please note that this does not affect the lawfulness of the processing based on your consent before its withdrawal and that Teachable may, under certain circumstances, have another legal ground for the processing and therefore may be entitled to continue the processing.
 
+If you would like to exercise your rights, you may contact us on the contact details provided at the bottom of this Privacy Policy.
 
-* Business partners: When you make purchases, reservations or engage in promotions offered through our website or our services, we may share personal information with the businesses with which we partner to offer you those products, services, promotions, contests and/or sweepstakes. When you elect to engage in a particular merchant’s offer or program, you authorize us to provide your email address and other information to that merchant.
+If you are unhappy with our processing of your PII or of an alleged infringement of the General Data Protection or other applicable data privacy laws, you may lodge a complaint with a competent supervisory authority, for example in the country of your habitual residence, place of work.
 
-Other Situations. We also may disclose your information:
+**Our Policy Concerning Children**
 
-  * In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us, in our sole discretion.
+As stated in our Terms of Use, our website and Services are offered and available only to you if are 18 years or older, or if you are between 13 and 18 years old and have obtained the consent of a parent or legal guardian prior to accessing the website, registering an account, or using the Services. If you do not meet this eligibility requirement, you may not use our website or Services. Teachable does not knowingly collect or store any personal information from or about children under the age of 13. We will delete such information if we become aware that it has been submitted through our website. Parents or legal guardians who believe that Teachable might have any information from or about a child under the age of 13 may submit a request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and request that such information be removed.
 
+**Securing Your Information**
 
-* When we believe disclosure is appropriate in connection with efforts to investigate, prevent, report or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our website terms and conditions or other agreements or policies.
-* In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.
+Teachable takes a range of security measures designed to protect your PII and keep it confidential (unless it is non-confidential by nature) and free from any unauthorized alteration. For example, only authorized employees are permitted to access personal information, and they may do so only for permitted business functions. In addition, we use encryption in the transmission of financial information between your system and ours, and we use firewalls to help prevent unauthorized persons from gaining access to your personal information. 
 
-Any third parties to whom we may disclose personal information may have their own privacy policies which describe how they use and disclose personal information. Those policies will govern use, handling and disclosure of your personal information once we have shared it with those third parties as described in this Privacy Policy. If you want to learn more about their privacy practices, we encourage you to visit the websites of those third parties. These entities or their servers may be located either inside or outside the United States.
+Where we have given you (or where you have chosen) a password for access to certain parts of our website, you are responsible for keeping this password confidential. As the safety and security of your information also depends on the precautions you take, we ask you not to share your password with anyone.
 
-Aggregated and non-personal information: We may share aggregated and non-personal information we collect under any of the above circumstances. We may also share it with third parties to develop and deliver targeted advertising on our websites and on websites of third parties. We may combine non-personal information we collect with additional non-personal information collected from other sources. We also may share aggregated information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis. For example, we may tell our advertisers the number of visitors to our website and the most popular features or services accessed. This information does not contain any personal information and may be used to develop website content and services that we hope you and other users will find of interest and to target content and advertising.
+**Third Parties and Other Information Collectors**
 
-## Third-Party Websites
+Except as otherwise expressly included in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties through our website, whether between Instructor and Student or other Users or individuals, different rules may apply to their use, collection, and disclosure of the personal information you disclose to them. Since we do not control the information use, collection, or disclosure policies of third parties, you are subject to their privacy policies.
 
-There are a number of places on our website or through our services where you may click on a link to access other websites that do not operate under this Privacy Policy. For example, if you click on a link provided in a Lecture or Support article, you may be taken to a website that we do not control. These third-party websites may independently solicit and collect information, including personal information, from you and, in some instances, provide us with information about your activities on those websites. We recommend that you consult the privacy statements of all third-party websites you visit by clicking on the "privacy" link typically located at the bottom of the webpage you are visiting.
+Our website may include links to third party websites. Once you have used these links to leave our website, you should note that we do not have any control over third party websites. We are not responsible for the content of such websites or the protection and privacy of any information which you provide while visiting such sites. Third-party websites are not governed by this Privacy Policy. You should exercise caution and look at the privacy policies applicable to the websites in question.
 
-## How You Can Access Your Information
+**Do-Not-Track Procedures**
 
-If you have an online account with us, you have the ability to review and update your personal information online by logging into your account. You can also review and update your personal information by contacting us. More information about how to contact us is provided below.
+Note that any Do-Not-Track instructions from your browser or similar mechanism will not affect our collection of the data that you voluntarily provide to Teachable through such means as browsing our website, signing up for any of the Services or any Courses, entering PII into information fields on our website, or posting on any of our forums or blogs. Be advised that third parties are free to collect any information that you volunteer to Teachable that is visible to the public. Therefore, please do not provide Teachable with any information that you do not want collected.
 
-If you close your account, we may still retain certain information associated with your account for analytical purposes and recordkeeping integrity, as well as to prevent fraud, collect any fees owed, enforce our terms and conditions, take actions we deem necessary to protect the integrity of our website or our users, or take other actions otherwise permitted by law. In addition, if certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties’ policies.
+**California Civil Code Section 1798.83 Compliance**
 
-## Your Choices About Collection and Use of Your Information
+Under California law, upon request Teachable is required to disclose to its California customers the identity of any third parties to whom we have disclosed PII within the previous calendar year, along with the type of PII disclosed, for the third parties' direct marketing purposes. Please note that under California law, we are only required to respond to a customer request once during any calendar year. If you are a California resident and would like to make such a request, email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
-You can choose not to provide us with certain information, but that may result in you being unable to use certain features of our website because such information may be required in order for you to register for an account; purchase products or services; participate in a contest, promotion, survey, or sweepstakes; ask a question; or initiate other transactions on our website.
+**Users Outside of the United States**
 
-In any commercial e-mail that we send to you, you have the ability to opt out of receiving such messages in the future. We may send you other types of transactional and relationship e-mail communications, such as service announcements, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them. Please note that changing information in your account, or otherwise opting out of receipt of promotional email communications will only affect future activities or communications from us. If we have already provided your information to a third party (such as a credit card processing partner) before you changed your preferences or updated your information, you may have to change your preferences directly with that third party.
+The Services are hosted in the United States and are governed by the laws of the United States. If you are using the Services outside the United States, please be aware that your information will be transferred to, stored, and processed in the United States where Teachable’s servers and databases are located. By using the Sites, you consent to the transfer of information to countries outside your country of residence.
 
-## How We Protect Your Personal Information
+**Transfer of personal information to countries outside the EU/EES**
 
-We take appropriate security measures (including physical, electronic and procedural measures) to help safeguard your personal information from unauthorized access and disclosure. For example, only authorized employees are permitted to access personal information, and they may do so only for permitted business functions. In addition, we use encryption in the transmission of your sensitive personal information between your system and ours, and we use firewalls to help prevent unauthorized persons from gaining access to your personal information.
+Teachable is incorporated and based in the United States of America. Your PII is therefore transferred outside the European Union ("EU") and European Economic Area ("EEA"). Such transfer is necessary for the performance of the contract between you and Teachable (article 49.1 (b) of the GDPR).
 
-We want you to feel confident using our website to transact business. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure. Users should also take care with how they handle and disclose their personal information and should avoid sending personal information through insecure email. Please refer to _the Federal Trade Commission’s website_ for information about how to protect yourself against identity theft.
+The Instructors and Schools may also be established in countries outside the EU/EEA. Such transfers are necessary for the performance of the contract between you and Teachable (article 49.1 (b) of the GDPR).
 
-## User Submissions
+Your PII is also transferred to and processed by third party payment providers (such as Stripe and Paypal) and your bank. Such transfers are necessary for performance of the contract between you and Teachable (article 49.1 (b) of the GDPR).
 
-We may provide areas on our websites where you can post information about yourself and others and communicate with others; upload content (e.g. pictures, videos, audio files, etc.); and post comments or reviews of content found on the website. Such postings are governed by our _Terms of Service_. 
+Some of the third parties identified above may also be located outside the EU/EEA, in which case we will take all necessary steps required under applicable law in order for such transfer of information across borders to be compliant with applicable law. For example, in cases where there is no adequacy decision by the Commission, this may include the use of EU model clauses (under Article 46.2 of the GDPR) or ensuring that the recipient is certified under the US-EU Privacy Shield Framework (under Article 45 of the GDPR). You may receive a copy of the relevant safeguards by contacting Teachable using the contact details set forth below in this Privacy Policy.
 
-## Visiting Our Websites from Outside the United States
-
-This Privacy Policy is intended to cover collection of information on or via our website from residents of the United States. If you are visiting our website from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. Please be assured that we seek to take reasonable steps to ensure that your privacy is protected. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this privacy policy.
-
-## No Rights of Third Parties
+**No Rights of Third Parties**
 
 This Privacy Policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of the website.
 
-## Changes to This Privacy Policy
+**Changes to the Privacy Policy**
 
-We will occasionally update this Privacy Policy to reflect changes in our practices and services. When we post changes to this Privacy Policy, we will revise the "Last Updated" date at the top of this Privacy Policy. If we make any material changes in the way we collect, use, and/or share your personal information, we will notify you by sending an email to the email address you most recently provided us in your account, profile or registration (unless we do not have such an email address), and/or by prominently posting notice of the changes on our website. We recommend that you check our website from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies.
+We may review and update this Privacy Policy from time to time in our sole discretion and will notify you of such changes. As such, your continued use of the Services after receipt of notification of changes to this Privacy Policy is deemed to be acceptance of those changes. 
 
-## How to Contact Us
+**Contact Us**
 
-If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to request information about our disclosure of personal information to third parties, please contact us by _email_.
+If you have questions or concerns regarding this Privacy Policy or Teachable's processing of your PII or if you would like to exercise your rights described in this Privacy Policy you may contact us at:
+
+Teachable, Inc.
+
+16 W. 22nd Street, 6th Floor
+
+New York, New York 10010
+
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
