@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freephototool.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207113041id_/http%3A//www.freephototool.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freephototool.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610063820id_/http%3A//www.freephototool.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Photoshop like photo tool (Free)
 
@@ -64,6 +64,6 @@ If you have any questions about this Privacy Policy, the practices of this site,
 [Free alternative to Photoshop Online](http://www.freephototool.com/)  
 [http://www.FreePhotoTool.com](http://www.freephototool.com/)  
 Office No 35345, Sheikh Jana.  
-info@FreePhotoTool.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 This document was last updated on Nov 10, 2015
