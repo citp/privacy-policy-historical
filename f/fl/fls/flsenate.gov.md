@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flsenate.gov privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209212759id_/http%3A//flsenate.gov/About/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flsenate.gov privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610142734id_/http%3A//www.flsenate.gov/About/Privacy) for the most accurate reproduction.*
 
 # Privacy Statement - The Florida Senate
 
@@ -25,9 +25,9 @@ If you have questions about this policy or suggestions for its improvement, plea
 
 We will revise or update this policy if our practices change, or as we develop better ways to keep you informed about them. You should refer back to this page often for the latest information and the effective date of any changes. If we decide to change this policy, we will post a new policy on our site and change the date at the bottom. Changes to the policy shall not apply retroactively.
 
-##  1\. Information Received and Stored by The Florida Senate When You Visit the Website
+## 1\. Information Received and Stored by The Florida Senate When You Visit the Website
 
-###  1.1. Basic Information
+### 1.1. Basic Information
 
 When a computer is used to access information on *.flsenate.gov, the following basic information is automatically received and stored by The Florida Senate web servers hosting *.flsenate.gov:
 
@@ -47,9 +47,9 @@ We do not sell or rent this information to persons or organizations. However, s.
 
 Top of Page
 
-###  1.2. Website Measurement and Customization Technologies (E.g., Cookies)
+### 1.2. Website Measurement and Customization Technologies (E.g., Cookies)
 
-####  1.2.1. First-party Website Measurement and Customization Technologies
+#### 1.2.1. First-party Website Measurement and Customization Technologies
 
 The Florida Senate uses web measurement and customization technologies to make *.flsenate.gov function better for visitors and to better understand how the public is using the website.
 
@@ -79,7 +79,7 @@ These cookies collect information similar to that automatically received and sto
 
 Top of Page
 
-####  1.2.2. Third-party Website Measurement and Customization Technologies
+#### 1.2.2. Third-party Website Measurement and Customization Technologies
 
 Some pages on *.flsenate.gov may include web content or functionality from third parties, such as embedded videos hosted by non-http://*.flsenate.gov services. For example, content or functionality from the following third parties may be present on some *.flsenate.gov pages:
 
@@ -98,7 +98,7 @@ These third parties may use web measurement and customization technologies (such
 
 Top of Page
 
-####  1.2.3. How You Can Control Website Measurement and Customization Technologies
+#### 1.2.3. How You Can Control Website Measurement and Customization Technologies
 
 Visitors can control aspects of website measurement and customization technologies used on *.flsenate.gov. Visitors who choose to disable these technologies will still have access to comparable information and services on *.flsenate.gov.
 
@@ -119,7 +119,7 @@ For more information about cookies, including how to delete them from your compu
 
 Top of Page
 
-###  1.3. Personal Information that you Voluntarily Submit to *.flsenate.gov
+### 1.3. Personal Information that you Voluntarily Submit to *.flsenate.gov
 
 If you choose to provide us with personal information, for example by completing a “Contact Us” form, signing up for an email list, or joining Senate Tracker, we may use that information to respond to your message and/or to help us get you the information or services you requested. Submitting this personal information (name, address, telephone number, email address, etc.) is voluntary and is not required to access information on *.flsenate.gov.
 
@@ -127,7 +127,7 @@ Information you voluntarily submit through *.flsenate.gov, such as your name, ci
 
 Top of Page
 
-###  1.4. Tracker Subscriber Accounts
+### 1.4. Tracker Subscriber Accounts
 
 Tracker is a free service provided by the Florida Senate. Users can sign up for a Senate Tracker account to track bills, committees, Senators, publications, press releases, videos, speeches, photos and more. Users can view the latest status of tracked items on the Tracker tab and receive notifications via email when events occur related to tracked items. Setting up an account requires the user to provide a valid email address and a first name. We use this information to communicate with you and to identify content you create with the account. The features that require a user account may set first party session cookies to maintain a user's login.
 
@@ -135,13 +135,13 @@ Some of the information provided to set up a user account (your name and email) 
 
 Top of Page
 
-##  2\. Links to External Sites
+## 2\. Links to External Sites
 
 The Florida Senate may contain links to web sites created and maintained by other public and/or private organizations and individuals. *.flsenate.gov provides these links as a service to our users. When you follow a link to an external site, you are leaving *.flsenate.gov and are subject to the privacy and security policies of the owners/sponsors of the external site. *.flsenate.gov does not control or guarantee the accuracy, relevance, timeliness, or completeness of information contained in a linked site. We also do not endorse the organizations or individuals maintaining sites that we link, any views they express, or any products/services they offer.
 
 Top of Page
 
-##  3\. Visiting Official Florida Senate Pages on Third-Party Websites
+## 3\. Visiting Official Florida Senate Pages on Third-Party Websites
 
 The Florida Senate maintains official pages or accounts on several third-party web sites in order to better engage with the public. Your activity on those third-party sites is governed by the security and privacy policies of the third party sites. Users of third-party sites are often sharing information with the general public, user community, and/or the third-party operating the third-party site. These actors may use this information in a variety of ways. Consequently, you should review the privacy policies of third-party sites before using them and ensure that you understand how your information may be used. You should also adjust privacy settings on your account on any third-party site to match your preferences.
 
@@ -158,13 +158,13 @@ Below is the current list of official Florida Senate pages on third party websit
 
 Top of Page
 
-##  4\. Children and Privacy
+## 4\. Children and Privacy
 
-We believe in the importance of protecting the privacy of children online and do not knowingly contact or collect personal information from children under 13. Our site is not intended to solicit information of any kind from children under 13. We do provide a kid-version of The Florida Senate at [http://kids.flsenate.gov](http://kids.flsenate.gov/).
+We believe in the importance of protecting the privacy of children online and do not knowingly contact or collect personal information from children under 13. Our site is not intended to solicit information of any kind from children under 13. 
 
 Top of Page
 
-##  5\. Security of *.flsenate.gov
+## 5\. Security of *.flsenate.gov
 
 We take reasonable precautions to protect our site and information automatically collected by *.flsenate.gov or voluntarily submitted to *.flsenate.gov or an official Florida Senate page on a third-party site. For example, we restrict access to information collected by or submitted to *.flsenate.gov or official Florida Senate pages of on third-party sites to employees who access it to perform their official duties. Access to official Florida Senate accounts on third-party sites is limited to the staff who administers those accounts, and all official Florida Senate accounts are clearly labeled. We also utilize commonly used practices and technical controls to protect this information, along with *.flsenate.gov itself. These practices and controls include, but are not limited to, using high-strength firewalls and intrusion detection systems (IDS) to safeguard personal information and maintaining strict technical controls and procedures to ensure the integrity of all data on *.flsenate.gov. We periodically review our processes and systems to verify compliance with industry best practices and ensure the highest level of security for our website.
 
