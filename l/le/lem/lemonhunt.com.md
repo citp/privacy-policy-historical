@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lemonhunt.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208173026id_/http%3A//www.lemonhunt.com/about-us/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lemonhunt.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610031656id_/http%3A//www.lemonhunt.com/about-us/privacy-policy.php) for the most accurate reproduction.*
 
 # LemonHunt.com - Privacy Policy
 
