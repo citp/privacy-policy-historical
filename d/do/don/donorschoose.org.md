@@ -1,23 +1,14 @@
-> *The following text is extracted and transformed from the donorschoose.org privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314204418id_/https%3A//www.donorschoose.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donorschoose.org privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610153550id_/https%3A//www.donorschoose.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-#### Last Updated on June 30, 2016
+#### Last Updated on May 22, 2018
 
-At DonorsChoose.org, we are dedicated to protecting the privacy of our users. Our revised Privacy Policy, effective June 30, 2016, aims to clarify how we collect and use your personal information. Here are the highlights and reasons behind some of the important updates we've made:
-
-  * **Privacy Principles:** We developed a new set of principles to share our organization's core values and how we approach privacy at DonorsChoose.org.
-  * **Details specific to user type:** We included a new table to explicitly state how personal information is used, depending on how you access our site or give directly to our organization.
-  * **Payment information:** Thanks to recent upgrades to our checkout process, our website never processes or stores your credit card number on our servers.
-  * **Children's Privacy:** With the launch of student-led projects, we created a new section to clarify how we collect, use and protect student information shared through the use of our website.
-  * **Think It Up:** We have included a new section that pertains to donors who visit our site via our partner, Think It Up (a program of the Entertainment Industry Foundation), in launching student-led projects.
-  * **Contact us:** You can now reach us directly at privacy@donorschoose.org about our general privacy practices or specific concerns about your personal information.
-
-
+At DonorsChoose.org, we are committed to protecting the privacy of our users. We updated our Privacy Policy on May 22, 2018 to clarify the intended audience of our site, and how we use the information you share with us to help improve your site experience. 
 
 ### About DonorsChoose.org
 
-DonorsChoose.org is an online charity that engages the public in public schools by giving people a simple, accountable and personal way to address educational inequity. We envision a nation where children in every community have the tools and experiences needed for an excellent education.
+DonorsChoose.org is an online charity that engages the public in public schools by giving people a simple, accountable and personal way to address educational inequity. We envision a nation where children in every community have the tools and experiences needed for an excellent education. Our website is intended for teachers and donors who are United States residents.
 
 ### Privacy Principles
 
@@ -38,7 +29,7 @@ Our Privacy Policy is guided by our core values:
 
 **Information we collect directly from you:** We ask for different personal information depending on how you interact with our website, and will only share it in the instances outlined below. We will **never** sell your information and take measures to protect it from misuse. We currently identify our users as either of the two categories:
 
-  * **Donors:** Users over 18 years of age (according to our Terms of Use) who have made a donation to a project, purchased a gift card or account credits, redeemed a gift card, set up an account as a non-teacher user on our website, or given directly to the organization.
+  * **Donors:** Users over 18 years of age (according to our Terms of Use) who have made a donation to a project, purchased a gift card or account credits, redeemed a gift card, given directly to the organization, or shared personal contact information as a non-teacher user.
   * **Teachers:** Full-time PreK-12 public school teachers who have set up a teacher account to post projects on our website. All teacher accounts are created with a corresponding donor account.
 
 
@@ -69,7 +60,7 @@ Birthday | _Optional._ We'll wish you a happy birthday :)
   
 ### Information that we automatically collect during your visit to our website
 
-Our web server automatically recognizes and collects the domain name and IP address of visitors to our website, and we use cookies to track the pages you've visited on our website. This allows us to provide visitors to our website with certain conveniences, such as delivering projects specific to your location, or pre-populate user information during checkout. We also use cookies to track the path of users through our website, and to keep track of how they arrived at our website (for example, via a search engine). We also collect aggregate tracking information derived mainly from tallying page views throughout our website, and we use Google Analytics Demographics and Interest Reporting to access third-party audience data such as age, gender and interests on an aggregate basis.
+Our web server automatically recognizes and collects the domain name and IP address of visitors to our website, and we use cookies to track the pages you've visited on our website. This allows us to provide visitors to our website with certain conveniences, such as delivering projects specific to your location, or pre-populate user information during checkout. We also use cookies to track the path of users through our website, and to keep track of how they arrived at our website (for example, via a search engine). We also collect aggregate tracking information derived mainly from tallying page views throughout our website, and we use Google Analytics Demographics and Interest Reporting to access third-party audience data such as age, gender and interests on an aggregate basis. Finally, we may use third-party analytics tools to track how visitors use our site. This information helps us prevent fraud, troubleshoot problems, and see how users respond to new features. This tracking does not record sensitive information like passwords or credit card data
 
 ### How we protect your information
 
@@ -79,13 +70,20 @@ DonorsChoose.org employees, volunteers, interns and contractors ("agents") must 
 
 ### How we share, publish and transfer your information
 
-We do not sell, trade, or share your personal information to or with others without your explicit consent. We indicate in your account profile which portion of the information you provide will be made public, and offer options for you to control how much information is disclosed.
+We do not sell, trade, or share your personal information to or with others without your explicit consent except: 
 
-We have outlined the ways in which we may share your information below. In cases where we share your information with third parties (for example, an employer or website analytics service provider), our Privacy Policy does not govern the privacy practices of such third parties and we ask that you refer to their respective privacy policies for details on their use of your information. 
+  * To respond to your requests or questions;
+  * With third parties who perform services on our behalf, for example, with our vendors or payment processors. We may also share information with companies that operate our websites or provide analytics services to show us how users are using our website;
+  * If we think we have to in order to comply with the law or to protect ourselves; or
+  * With any successor to all or part of our business. For example, in the event of a merger, acquisition, divestiture, change of control or liquidation of DonorsChoose or part of its business (or in anticipation of such an event) we may share that information as part of that transaction. 
+
+
+
+We indicate in your account profile which portion of the information you provide will be made public, and offer options for you to control how much information is disclosed. In cases where we share your information with third parties (for example, an employer or website analytics service provider), our Privacy Policy does not govern the privacy practices of such third parties and we ask that you refer to their respective privacy policies for details on their use of your information. 
+
+We also share some information about donors or teachers who participate in specific programs or who use specific features of our website as listed below.
 
 ### Donors:
-
-When required by law: We may share your personal information, if deemed necessary, in our good faith judgment, to comply with laws or regulations of a governmental or regulatory body or in response to a valid subpoena, warrant or order or to protect the rights of our organization or others.
 
 **Donations to a project or teacher page:** We will display your salutation and any user-generated comments publicly on the project page, available on the website and through our API. The teacher you supported will also see your preferred salutation and donation amount in his/her account.
 
@@ -101,8 +99,6 @@ When required by law: We may share your personal information, if deemed necessar
 
 ### Teachers:
 
-When required by law: We may share your personal information, if deemed necessary, in our good faith judgment, to comply with laws or regulations of a governmental or regulatory body or in response to a valid subpoena, warrant or order or to protect the rights of our organization or others.
-
 **Donors and site visitors:** We will display your title (for example, Ms. and Mr.), last name, school information, professional affiliations, teaching details, and information about your projects (including essays and Thank-you package components) publicly on the site, through our API and in emails sent to donors.
 
 **Verification of affiliation and eligibility:** If you indicate in your account profile that you are a part of any professional affiliations (for example, Teach for America, NEA or New York Teaching Fellow), we may share your full name, email address and phone number with the partner organization or another member of the organization in order to verify your affiliation. These partners are only authorized to use this information for the purpose of verification.
@@ -115,9 +111,15 @@ Similarly, we may share your full name, email address and project information wi
 
 **Funding opportunities:** If you receive funding through a partner funding opportunity, such as a match offer or full project funding, we may share your full name, school information and project details with the partner company.
 
+**Referrals:** If you participate in one of our referral programs or are referred through one of those programs we may share your account information with a third-party service to verify that the referral is genuine and detect fraudulent referrals.
+
 ### Anonymized data sharing
 
 We publish insights gained through user activity on our website (and welcome the public to do the same) in the reports available at data.donorschoose.org. However, we will never publicly disclose your personal information in these reports.
+
+### "Do Not Track" Signals
+
+Some web browsers may transmit "do not track" signals to the websites and other online services with which the browser communicates. There is no standard that governs what, if anything, websites should do when they receive these signals. We currently do not take action in response to these signals. 
 
 ### How We Protect Children's Privacy
 
@@ -136,7 +138,7 @@ Here are the ways in which we work with classroom teachers to ensure the protect
 
 ### How You Can Access and Adjust Your Information
 
-You may correct your account information at any time by logging into your online account. You have the right to request access to the personal information that we record about you. You also have the right to request corrections, amendments and deletions of any of your personal informations in our possession. To make these changes or cancel your account, please email us at privacy
+You may correct your account information at any time by logging into your online account. You have the right to request access to the personal information that we record about you. You also have the right to request corrections, amendments and deletions of any of your personal information in our possession. To make these changes or cancel your account, please email us at privacy
 
 ### Updates to Our Privacy Policy
 
@@ -147,7 +149,7 @@ DonorsChoose.org may modify this Privacy Policy from time to time. When changes 
 We are always happy to hear from you with your questions or comments! For additional information, or if you have any questions regarding this Privacy Policy or our privacy practices in general, please send your questions or comments to us at privacy@donorschoose.org. You can also send questions or comments to the address below.
 
 DonorsChoose.org   
-Attn: Integrity Assurance   
+Attn: Trust & Safety   
 134 West 37th Street  
 11th Floor  
 New York, NY 10018 
