@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the swapalease.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209132329id_/http%3A//www.swapalease.com/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swapalease.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610222611id_/http%3A//www.swapalease.com/help/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Swapalease.com
+
+Want to get out of your lease? Speak with a lease specialist now  (877) 790 5910
+
+[ ](https://web.archive.org/ "Return to home page")
 
 ## SWAPALEASE INC. PRIVACY STATEMENT LAST UPDATED: 12/1/2013
 
