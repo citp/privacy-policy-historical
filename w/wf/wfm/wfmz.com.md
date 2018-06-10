@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wfmz.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205161242id_/http%3A//www.wfmz.com/station/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wfmz.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610103814id_/http%3A//www.wfmz.com/station/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WFMZ-TV 69News - WFMZ
 
-Updated: March 3rd, 2016
+Updated: May 25, 2018
 
  **PRIVACY STATEMENT FOR wfmz.com, awchannel.com** as required by the CHILDREN'S ONLINE PRIVACY PROTECTION ACT WFMZ Online - Maranatha Broadcasting Company, Inc.
 
@@ -22,15 +22,23 @@ Updated: March 3rd, 2016
 
 Examples of PII that we may collect include (but are not limited to) your name, location, and mobile phone number. These pieces of information are collected when you create a Personal User Profile, contribute an image or video file, or register for newsletter, text, or push notification alerts. The PII that is collected may be shared with our technology partners (including Lakana, TextCaster, WSI, and others) in order to facilitate the proper operation of these services.
 
- **Google Analytics:** We use "Google Analytics" to collect information about use of this site. Google Analytics collects information such as how often users visit this site, what pages they visit when they do so, and what other sites they used prior to coming to this site. We use the information we get from Google Analytics only to improve this site. Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google. Google's ability to use and share information collected by Google Analytics about your visits to this site is restricted by the **[Google Analytics Terms of Use](http://www.google.com/analytics/tos.html)** (as **[amended for government websites](http://howto.gov/sites/default/files/google-analytics-tos-amendment.pdf)** ) and the **[Google Privacy Policy](http://www.google.com/privacypolicy.html)**. You can prevent Google Analytics from recognizing you on return visits to this site by **[disabling cookies](http://www.usa.gov/optout_instructions.shtml)** on your browser.
+ **Hotjar Analytics:   **We use Hotjar Analytics to help us analyze usage and traffic patterns on the site, and to help make it better for our users.  You may read about the data that they collect from this site by reviewing their _[Terms of Service here.](https://www.hotjar.com/legal/policies/terms-of-service)_
+
+ **CrazyEgg Analytics:   **We use CrazyEgg Analytics to help us analyze usage and traffic patterns on the site, and to help make it better for our users.  You may read about the data that they collect from this site by reviewing their _[Privacy Policy here.](https://www.crazyegg.com/privacy)_
+
+ **SurveyGizmo:   **We use SurveyGizmo to help us provide survey and contest entry forms on the site, and to help make it better for our users.  You may read about the data that they collect from this site by reviewing their _[Privacy Policy here](https://www.surveygizmo.com/privacy/)_ or their [_Terms of Service here_](https://www.surveygizmo.com/terms/).
+
+ **ScoreStream:   **We use ScoreStream to help provide our users with sports scores.  You may read about the data that they collect from this site by reviewing their _[Privacy Policy here.](https://scorestream.com/misc/privacyPolicy)_
+
+ **Google Analytics:** We use "Google Analytics" to collect information about use of this site. Google Analytics collects information such as how often users visit this site, what pages they visit when they do so, and what other sites they used prior to coming to this site. We use the information we get from Google Analytics only to improve this site. Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google. Google's ability to use and share information collected by Google Analytics about your visits to this site is restricted by the **[Google Analytics Terms of Use](https://www.google.com/analytics/tos.html)** (as **[amended for government websites](https://howto.gov/sites/default/files/google-analytics-tos-amendment.pdf)** ) and the **[Google Privacy Policy](https://www.google.com/privacypolicy.html)**. You can prevent Google Analytics from recognizing you on return visits to this site by **[disabling cookies](https://www.usa.gov/optout_instructions.shtml)** on your browser.
 
 Google Analytics employs cookies to define user sessions, which allows for the collection of data about how visitors are using the websites. Google Analytics uses only first-party cookies for data analysis. This means that the cookies are linked to a specific website domain, and Google Analytics will only use that cookie data for statistical analysis related to your browsing behavior on that specific website. According to Google, the data collected cannot be altered or retrieved by services from other domains.
 
-If you choose, you can opt out by turning off cookies in the preferences settings in your web browser. For more information on Google Analytics, please visit **[Google Analytics](http://www.google.com/analytics/)**.
+If you choose, you can opt out by turning off cookies in the preferences settings in your web browser. For more information on Google Analytics, please visit **[Google Analytics](https://www.google.com/analytics/)**.
 
 You can also visit the Google Analytics **[currently available opt outs](https://tools.google.com/dlpage/gaoptout/)** page.
 
- **Advertising (subject to the above):** We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. Here is a url for more information about this practice and to know your choices about not having this information used by these companies: **[click here](http://www.networkadvertising.org/managing/opt_out.asp)**.
+ **Advertising (subject to the above):** We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. Here is a url for more information about this practice and to know your choices about not having this information used by these companies: **[click here](https://www.networkadvertising.org/managing/opt_out.asp)**.
 
  **Correct / update policy:** Users may correct or change the information collected during registration for Stormcenter Update. The instructions for doing this can be found in the Stormcenter Update portion of our website. Users may change this information at any time and as often as necessary. Users who are experiencing problems or who have any questions about how our services work can contact us at:
 
@@ -40,7 +48,7 @@ You can also visit the Google Analytics **[currently available opt outs](https:/
 
 Allentown, PA 18103-7599
 
- **Delete / deactivate policy:** Users may unsubscribe to any of our electronic newsletters at any time by following the instructions contained at the end of every newsletter. Currently, we do not offer users a means by which to completely delete personal information established at the time of registration for any service.
+ **Delete / deactivate policy:** Users may unsubscribe to any of our electronic newsletters at any time by following the instructions contained at the end of every newsletter. 
 
 We want to be very clear: We will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us.
 
