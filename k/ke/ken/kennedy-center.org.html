@@ -1,14 +1,29 @@
-<!--The following is the downloaded HTML source of the kennedy-center.org privacy policy that was archived on 2017-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170610023339id_/http%3A//www.kennedy-center.org/pages/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kennedy-center.org privacy policy that was archived on 2018-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180610030705id_/http%3A//www.kennedy-center.org/pages/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en" style="" class=" no-touchevents"><head id="Head1"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-K9WL6D"></script><script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.11.1.min.js"></script>
-<script src="/scripts/kc-lib.js?v=20170511"></script>
+<script src="/scripts/kc-lib.js?v=20180228"></script>
+<script src="/scripts/api/apiCalls.js?v=20180216"></script>
 <script src="/scripts/jquery.validate.min.js?v=20170511"></script>
 <script src="/scripts/jwplayer.js?v=20170511"></script>
 <script src="/scripts/jquery.validate.unobtrusive.min.js?v=20170511"></script>
 <script src="/scripts/jquery.hoverIntent.minified.js?v=20170511"></script>
+<script src="/scripts/dist/manifest.bundle.js?v=20180321"></script>
+<script src="/scripts/dist/vendor.bundle.js?v=20180321"></script>
+<script src="/scripts/dist/kc.bundle.js?v=20180321"></script>
 
 
+    <script>
+        
+        $(function () {
+            KC.apiRoot = 'http://api.kennedy-center.org/';
+            KC.Utils.logger.config({
+                level: 'info',
+                logPath: '/api/logging',
+                logRoot: KC.apiRoot
+            });
+        });
+    </script>
 
   
     <script>jwplayer.key = "aWySJs/4Yq9p2moNEsD85Cux6jODY8HGaoYvfggDvgI=";</script>
@@ -55,20 +70,14 @@
 
     </script>
 
-
-    <link href="/scripts/jQuery/dialog/jquery-kctheme.css?v=20170511" rel="stylesheet">
-<link href="/stylesheets/winstyles-net.css?v=20170511" rel="stylesheet">
-<link href="/stylesheets/forms.css?v=20170511" rel="stylesheet">
+    <link href="/scripts/jQuery/dialog/jquery-kctheme.css?v=20180118" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Questrial" rel="stylesheet">
+<link href="/stylesheets/winstyles-net.css?v=20180118" rel="stylesheet">
 <link href="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
-<link href="/stylesheets/default-theme.css?v=20170511" rel="stylesheet">
-<link href="/stylesheets/navigation.css?v=20170511" rel="stylesheet">
+<link href="/stylesheets/default-theme.css?v=20180520" rel="stylesheet">
 
-
-
-    <!-- Stylesheets  -->
-    <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.5/css/bootstrap.min.css">
-
-    <link rel="stylesheet" href="/stylesheets/build/style.min.css?v=20170511">
+   
+    <link rel="stylesheet" href="/stylesheets/build/style.min.css?v=20180531">
     <link rel="stylesheet" href="/fonts/fontello/css/settings.css?v=20170511">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css">
 
@@ -80,7 +89,7 @@
 
     <script type="text/javascript" src="/Scripts/cstraight/headroom.js?v=20170511"></script>
 
-    <script type="text/javascript" src="/Scripts/cstraight/scripts.js?v=20170511"></script>
+    <script type="text/javascript" src="/Scripts/cstraight/scripts.js?v=20171228"></script>
 
     <script type="text/javascript" src="https://ajax.aspnetcdn.com/ajax/jquery.ui/1.10.3/jquery-ui.js"></script>
     <script type="text/javascript" src="/Scripts/cstraight/modernizr.js?v=20170511"></script>
@@ -104,6 +113,7 @@
     </nav>
 
     <div class="no-scroll">
+        
         <div class="header-search-form mobile">
         
             <label for="q1" class="accessibility">
@@ -116,7 +126,6 @@
         </div>
         <div class="header cf" data-offset="40">
             <div class="inner">
-                
                 <a href="/" class="header-branding">
                     <img src="/images/cstraight/logos/logo-kc-mobile.svg" alt="The Kennedy Center" class="header-branding-logo-mobile">
                     <img src="/images/cstraight/logos/logo-kc.svg" alt="The Kennedy Center" class="header-branding-logo">
@@ -183,8 +192,7 @@
                             <img src="/images/cstraight/logos/logo-nso.svg" alt="National Symphony Orchestra"></a></li>
                         <li class="wno"><a href="/wno" data-company="wno" class="">
                             <img src="/images/cstraight/logos/logo-wno.svg" alt="Washington National Opera"></a></li>
-                        <li class="sfb"><a href="/sfb" data-company="sfb" class="">
-                            <img src="/images/cstraight/logos/logo-sfb.svg" alt="The Suzanne Farrell Ballet"></a></li>
+                        
                     </ul>
                 </div>
 
@@ -199,32 +207,38 @@
                                     <ul>
                                     
                                          <li class="hide-md"><a href="http://www.kennedy-center.org/account/login">
-                                            <img src="http://www.kennedy-center.org/images/cstraight/icons/icon-person.svg" alt="">Log in</a></li>
+                                            <img src="https://www.kennedy-center.org/images/cstraight/icons/icon-person.svg" alt="">Log in</a></li>
                                         
                                        
                                         <li class="hide-md"><a href="http://www.kennedy-center.org/calendar/index">Events &amp; Tickets</a></li>
                                         <li class="watch-link">
-                                            <a href="#" data-nav-child="watch-and-listen">Watch &amp; Listen</a>
+                                            <a href="#" data-nav-child="watch-and-listen">Video</a>
                                             <div class="mega-menu">
-                                                <h2 class="mega-menu-title">Watch &amp; Listen</h2>
+                                                <h2 class="mega-menu-title">Video</h2>
                                                 <div class="row">
-                                                    <div class="col-xs-12">
-                                                        <h3>Explore the Arts</h3>
-                                                    </div>
+                                                    
                                                     <div class="col-xs-3">
-                                                        <a href="http://www.kennedy-center.org/Video/recentVideos" class="mega-menu-image-link">
-                                                            <img src="http://www.kennedy-center.org/images/cstraight/etaVideosThumb.jpg" alt="Videos"></a>
+                                                        <a href="https://digitalstage.kennedy-center.org/" class="mega-menu-image-link">
+                                                                             <img src="https://www.kennedy-center.org/images/template/menu/DS_kcnav_image.jpg" alt="Watch on Digital Stage" class="digital-stage"></a>
                                                         <ul>
-                                                            <li><a href="http://www.kennedy-center.org/Video/recentVideos">Videos</a></li>
+                                                            <li><a href="https://digitalstage.kennedy-center.org/"><span class="text-danger">New!</span> Experience the Digital Stage</a></li>
                                                         </ul>
                                                     </div>
                                                     <div class="col-xs-3"> <!-- Test -->
-                                                        <a href="http://www.kennedy-center.org/Video/Live" class="mega-menu-image-link">
-                                                            <img src="http://www.kennedy-center.org/images/cstraight/etaBroadcastThumb.jpg" alt="Live Broadcasts"></a>
+                                                        <a href="http://www.kennedy-center.org/video/live " class="mega-menu-image-link">
+                                                            <img src="https://www.kennedy-center.org/images/cstraight/etaBroadcastThumb.jpg" alt="Live Broadcasts"></a>
                                                         <ul>
                                                             <li><a href="http://www.kennedy-center.org/video/live ">Live Streaming</a></li>
                                                         </ul>
                                                     </div>
+                                                     <div class="col-xs-3">
+                                                        <a href="http://www.kennedy-center.org/Video/recentVideos" class="mega-menu-image-link">
+                                                            <img src="https://www.kennedy-center.org/images/cstraight/etaVideosThumb.jpg" alt="watch and listen"></a>
+                                                        <ul>
+                                                            <li><a href="http://www.kennedy-center.org/Video/recentVideos">Preview Our Events</a></li>
+                                                        </ul>
+                                                    </div>
+                                                    
                                                 </div>
                                             </div>
                                         </li>
@@ -235,28 +249,28 @@
                                                 <div class="row">
                                                     <div class="col-xs-3">
                                                         <a href="http://education.kennedy-center.org/education/#Performances" class="mega-menu-image-link">
-                                                            <img src="http://www.kennedy-center.org/images/cstraight/EduEventsThumb.jpg" alt="Events and Performances"></a>
+                                                            <img src="https://www.kennedy-center.org/images/cstraight/EduEventsThumb.jpg" alt="Events and Performances"></a>
                                                         <ul>
                                                             <li><a href="http://education.kennedy-center.org/education/#Performances">Performances &amp; Events</a></li>
                                                         </ul>
                                                     </div>
                                                     <div class="col-xs-3">
                                                         <a href="http://education.kennedy-center.org/education/#Schools" class="mega-menu-image-link">
-                                                            <img src="http://www.kennedy-center.org/images/cstraight/EduSchoolsThumb.jpg" alt="Schools"></a>
+                                                            <img src="https://www.kennedy-center.org/images/cstraight/EduSchoolsThumb.jpg" alt="Schools"></a>
                                                         <ul>
                                                             <li><a href="http://education.kennedy-center.org/education/#Schools">Arts &amp; Schools</a></li>
                                                         </ul>
                                                     </div>
                                                     <div class="col-xs-3">
                                                         <a href="//artsedge.kennedy-center.org/" class="mega-menu-image-link">
-                                                            <img src="http://www.kennedy-center.org/images/cstraight/EduArtsEdgeThumb.jpg" alt="The Kennedy Center: ArtsEdge"></a>
+                                                            <img src="https://www.kennedy-center.org/images/cstraight/EduArtsEdgeThumb.jpg" alt="The Kennedy Center: ArtsEdge"></a>
                                                         <ul>
                                                             <li><a href="//artsedge.kennedy-center.org/">ArtsEdge</a></li>
                                                         </ul>
                                                     </div>
                                                     <div class="col-xs-3">
                                                         <a href="http://www.kennedy-center.org/artist/" class="mega-menu-image-link">
-                                                            <img src="http://www.kennedy-center.org/images/cstraight/etaArtistThumb.jpg" alt="Artists"></a>
+                                                            <img src="https://www.kennedy-center.org/images/cstraight/etaArtistThumb.jpg" alt="Artists"></a>
                                                         <ul>
                                                             <li><a href="http://www.kennedy-center.org/artist/">Artists</a></li>
                                                         </ul>
@@ -265,21 +279,21 @@
                                                 <div class="row">
                                                     <div class="col-xs-3">
                                                         <a href="http://education.kennedy-center.org/education/#Career" class="mega-menu-image-link">
-                                                            <img src="http://www.kennedy-center.org/images/cstraight/EduCareerThumb.jpg" alt="Career Development"></a>
+                                                            <img src="https://www.kennedy-center.org/images/cstraight/EduCareerThumb.jpg" alt="Career Development"></a>
                                                         <ul>
-                                                            <li><a href="#">Career Development</a></li>
+                                                            <li><a href="http://education.kennedy-center.org/education/#Career">Career Development</a></li>
                                                         </ul>
                                                     </div>
                                                     <div class="col-xs-3">
                                                         <a href="http://education.kennedy-center.org/education/#Access" class="mega-menu-image-link">
-                                                            <img src="http://www.kennedy-center.org/images/cstraight/menu-learn-vsa.jpg" alt="VSA"></a>
+                                                            <img src="https://www.kennedy-center.org/images/cstraight/menu-learn-vsa.jpg" alt="VSA"></a>
                                                         <ul>
                                                             <li><a href="http://education.kennedy-center.org/education/#Access">VSA and Accessibility</a></li>
                                                         </ul>
                                                     </div>
                                                     <div class="col-xs-3">
                                                         <a href="http://education.kennedy-center.org/education/turnaround/" class="mega-menu-image-link">
-                                                            <img src="http://www.kennedy-center.org/images/cstraight/EduTrunAroundThumb.gif" alt="Turnaround Arts"></a>
+                                                            <img src="https://www.kennedy-center.org/images/menu/TurnAroundArtsThumb.jpg" alt="Turnaround Arts"></a>
                                                         <ul>
                                                             <li><a href="http://education.kennedy-center.org/education/turnaround/">Turnaround Arts</a></li>
                                                         </ul>
@@ -294,31 +308,27 @@
                                                 <ul class="mega-menu-list">
                                                     <li><a href="http://www.kennedy-center.org/calendar/programs/">Programs</a></li>
                                                     <li><a href="http://www.kennedy-center.org/pages/about/history">History</a></li>
-                                                    <li><a href="http://www.kennedy-center.org/pages/expansion">Expansion Project</a></li>
+                                                    <li><a href="http://cms.kennedy-center.org/thereach/">The REACH Expansion</a></li>
                                                     <li><a href="http://www.kennedy-center.org/pages/about/ourpeople">Leadership</a></li>
                                                     <li><a href="http://cms.kennedy-center.org/public-relations/press-releases">Public Relations</a></li>
                                                 </ul>
                                                 <ul class="mega-menu-list">
-                                                    <li><a href="//ch.tbe.taleo.net/CH07/ats/careers/jobSearch.jsp?org=THEKENNC&amp;cws=1" target="_blank">Employment</a></li>
-                                                    <li><a href="http://education.kennedy-center.org/education/internships/">Internships</a></li>
+                                                    <li><a href="https://chp.tbe.taleo.net/chp01/ats/careers/v2/jobSearch?act=redirectCwsV2&amp;cws=38&amp;org=THEKENNC" target="_blank">Employment</a></li>
+                                                    <li><a href="http://cms.kennedy-center.org/career/">Internships and Fellowships</a></li>
                                                     <li><a href="http://www.kennedy-center.org/pages/support/volunteers/">Volunteers</a></li>
-                                                    <li><a href="http://www.kennedy-center.org/pages/about/constituents">Artistic Consituents</a></li>
+                                                    <li><a href="http://www.kennedy-center.org/pages/about/constituents">Artistic Constituents</a></li>
+                                                    <li><a href="http://www.kennedy-center.org/pages/about/annualreport">Annual Report</a></li>
                                                 </ul>
                                                 <div class="mega-menu-companies cf">
                                                     <a href="http://www.kennedy-center.org/nso" class="mega-menu-company">
-                                                        <img src="http://www.kennedy-center.org/images/cstraight/logos/logo-nso-color.svg" alt="">
+                                                        <img src="https://www.kennedy-center.org/images/cstraight/logos/logo-nso-color.svg" alt="">
                                                         <h4 class="mega-menu-company-title">National Symphony Orchestra</h4>
-                                                        <p>A premier U.S. orchestra, the NSO performs approximately 150 concerts each year of classical, new works, pops, and special events, including nationally televised concerts on the lawn of the U.S. Capitol and numerous education and community engagement events.</p>
+                                                        <p>A premier U.S. orchestra, the NSO performs approximately 150 concerts each year of classical and popular music, new works, and special events.</p>
                                                     </a>
                                                     <a href="http://www.kennedy-center.org/wno" class="mega-menu-company">
-                                                        <img src="http://www.kennedy-center.org/images/cstraight/logos/logo-wno-color.svg" alt="">
+                                                        <img src="https://www.kennedy-center.org/images/cstraight/logos/logo-wno-color.svg" alt="">
                                                         <h4 class="mega-menu-company-title">Washington National Opera</h4>
                                                         <p>One of the leading opera companies in the United States, WNO focuses on bold productions of classic operas, fascinating contemporary perspectives, and the best in American artistry.</p>
-                                                    </a>
-                                                    <a href="http://www.kennedy-center.org/sfb" class="mega-menu-company">
-                                                        <img src="http://www.kennedy-center.org/images/cstraight/logos/logo-sfb-color.svg" alt="">
-                                                        <h4 class="mega-menu-company-title">The Suzanne Farrel Ballet</h4>
-                                                        <p>Under the artistic direction of George Balanchine’s most admired muse, the Kennedy Center’s own ballet company encompasses an ever-growing repertoire of beloved ballets including more than 65 works choreographed by George Balanchine, Maurice Béjart, and Jerome Robbins.</p>
                                                     </a>
                                                 </div>
                                             </div>
@@ -334,11 +344,11 @@
                                                     </div>
                                                     <div class="col-xs-6">
                                                         <ul class="mega-menu-list">
-                                                            <li><a href="http://www.kennedy-center.org/membership/index">Individual Support</a></li>
+                                                            <li><a href="http://www.kennedy-center.org/membership/index">Membership</a></li>
                                                             <li><a href="http://www.kennedy-center.org/Membership/CorpHome/">Corporate Support</a></li>
                                                             <li><a href="//www.legacy.vg/72/giving/1.html" target="_blank">Charitable Estate Planning</a></li>
                                                             <li><a href="http://www.kennedy-center.org/pages/support/volunteers/">Volunteering</a></li>
-                                                            <li><a href="http://www.kennedy-center.org/pages/support/nationalpatrons">National Patrons</a></li>
+                                                            <li><a href="http://cms.kennedy-center.org/support/nationalpatrons">National Patrons</a></li>
                                                         </ul>
                                                     </div>
                                                 </div>
@@ -352,7 +362,7 @@
                                                     <div class="col-xs-3">
                                                         <h4 class="mega-menu-list-title">Plan Your Trip</h4>
                                                         <a href="http://www.kennedy-center.org/pages/visitor/directions" class="mega-menu-image-link">
-                                                            <img src="http://www.kennedy-center.org/images/cstraight/menu-visit-map.png" alt="Map"></a>
+                                                            <img src="https://www.kennedy-center.org/images/cstraight/menu-visit-map.png" alt="Map"></a>
                                                         <ul>
                                                             <li><a href="http://www.kennedy-center.org/pages/visitor/directions">Directions and Parking</a></li>
                                                             <li><a href="http://www.kennedy-center.org/pages/visitor/tours">Guided Tours</a></li>
@@ -363,16 +373,16 @@
                                                     <div class="col-xs-3">
                                                         <h4 class="mega-menu-list-title">Dine</h4>
                                                         <a href="http://www.kennedy-center.org/pages/restaurants/" class="mega-menu-image-link">
-                                                            <img src="http://www.kennedy-center.org/images/cstraight/menu-visit-dine.jpg" alt="Rooftop Terrace"></a>
+                                                            <img src="https://www.kennedy-center.org/images/cstraight/menu-visit-dine.jpg" alt="Rooftop Terrace"></a>
                                                         <ul>
                                                             <li><a href="http://www.kennedy-center.org/pages/restaurants/">Roof Terrace Restaurant</a></li>
-                                                            <li><a href="http://www.kennedy-center.org/pages/restaurants/events">KC Café</a></li>
+                                                            <li><a href="http://www.kennedy-center.org/pages/restaurants/group">KC Café</a></li>
                                                         </ul>
                                                     </div>
                                                     <div class="col-xs-3">
                                                         <h4 class="mega-menu-list-title">Gift Shop</h4>
                                                         <a href="http://www.kennedy-center.org/giftshop/giftshophome" class="mega-menu-image-link">
-                                                            <img src="http://www.kennedy-center.org/images/cstraight/menu-visit-giftshop.png" alt="Jewelry"></a>
+                                                            <img src="https://www.kennedy-center.org/images/cstraight/menu-visit-giftshop.png" alt="Jewelry"></a>
                                                         <ul>
                                                             <li><a href="http://www.kennedy-center.org/giftshop/giftshophome">Shop Now</a></li>
                                                         </ul>
@@ -380,7 +390,7 @@
                                                     <div class="col-xs-3">
                                                         <h4 class="mega-menu-list-title">The Venues</h4>
                                                         <a href="http://www.kennedy-center.org/pages/virtualtour/" class="mega-menu-image-link">
-                                                            <img src="http://www.kennedy-center.org/images/cstraight/menu-visit-venue.png" alt="Theater"></a>
+                                                            <img src="https://www.kennedy-center.org/images/cstraight/menu-visit-venue.png" alt="Theater"></a>
                                                         <ul>
                                                             <li><a href="http://www.kennedy-center.org/pages/virtualtour/">Virtual Tour &amp; Seating Charts</a></li>
                                                             <li><a href="http://www.kennedy-center.org/rental">Private Event Planning</a></li>
@@ -395,20 +405,19 @@
                                         <li class="hide-md"><a href="http://www.kennedy-center.org/contact">Contact</a></li>
                                         <li class="hide-md social-links">
                                             <a href="//www.facebook.com/KennedyCenter ">
-                                                <img src="http://www.kennedy-center.org/images/cstraight/icons/icon-facebook-gray.svg" style="width: 8px; height: 16px;" alt="Facebook"></a>
+                                                <img src="https://www.kennedy-center.org/images/cstraight/icons/icon-facebook-gray.svg" style="width: 8px; height: 16px;" alt="Facebook"></a>
                                             <a href="//twitter.com/KenCen">
-                                                <img src="http://www.kennedy-center.org/images/cstraight/icons/icon-twitter-gray.svg" style="width: 17px; height: 14px; margin-top: 1px;" alt="Twitter"></a>
+                                                <img src="https://www.kennedy-center.org/images/cstraight/icons/icon-twitter-gray.svg" style="width: 17px; height: 14px; margin-top: 1px;" alt="Twitter"></a>
                                             <a href="//instagram.com/kennedycenter">
-                                                <img src="http://www.kennedy-center.org/images/cstraight/icons/icon-instagram-gray.svg" style="width: 16px; height: 16px;" alt="Instagram"></a>
+                                                <img src="https://www.kennedy-center.org/images/cstraight/icons/icon-instagram-gray.svg" style="width: 16px; height: 16px;" alt="Instagram"></a>
                                         </li>
                                         <li class="events-link hide-sm"><a href="http://www.kennedy-center.org/calendar/index">
                                            <i class="icon icon-ticket hide-sm"></i> Events &amp; Tickets</a></li>
                                         <li class="hide-md logo-item"><a href="http://www.kennedy-center.org/nso" data-company="nso">
-                                            <img src="http://www.kennedy-center.org/images/cstraight/logos/logo-nso.svg" alt="National Symphony Orchestra"></a></li>
+                                            <img src="https://www.kennedy-center.org/images/cstraight/logos/logo-nso.svg" alt="National Symphony Orchestra"></a></li>
                                         <li class="hide-md logo-item"><a href="http://www.kennedy-center.org/wno" data-company="wno">
-                                            <img src="http://www.kennedy-center.org/images/cstraight/logos/logo-wno.svg" alt="Washington National Opera"></a></li>
-                                        <li class="hide-md logo-item"><a href="http://www.kennedy-center.org/sfb" data-company="sfb">
-                                            <img src="http://www.kennedy-center.org/images/cstraight/logos/logo-sfb.svg" alt="The Suzanne Farrell Ballet"></a></li>
+                                            <img src="https://www.kennedy-center.org/images/cstraight/logos/logo-wno.svg" alt="Washington National Opera"></a></li>
+                                        
                                     </ul>
                                 </div>
                             </div>
@@ -421,7 +430,7 @@
                             <div class="header-nav" data-nav-id="visit">
                                 <div class="nav-title">
                                     <a href="#" class="header-nav-back">
-                                        <img src="http://www.kennedy-center.org/images/cstraight/icons/icon-arrow-left-white.svg" alt="">Back</a>Visit
+                                        <img src="https://www.kennedy-center.org/images/cstraight/icons/icon-arrow-left-white.svg" alt="">Back</a>Visit
                                 </div>
                                 <div class="scroll">
                                     <ul>
@@ -437,12 +446,14 @@
                             <div class="header-nav" data-nav-id="watch-and-listen">
                                 <div class="nav-title">
                                     <a href="#" class="header-nav-back">
-                                        <img src="http://www.kennedy-center.org/images/cstraight/icons/icon-arrow-left-white.svg" alt="">Back</a>Watch &amp; Listen
+                                        <img src="https://www.kennedy-center.org/images/cstraight/icons/icon-arrow-left-white.svg" alt="">Back</a>Video
                                 </div>
                                 <div class="scroll">
                                     <ul>
-                                        <li><a href="http://www.kennedy-center.org/Video/recentVideos">Videos</a></li>
+                                        <li><a href="https://digitalstage.kennedy-center.org/"><span class="text-danger">New!</span> Digital Stage – Extraordinary Performances Daily</a></li>
                                         <li><a href="http://www.kennedy-center.org/video/live ">Live Streaming</a></li>
+                                        <li><a href="http://www.kennedy-center.org/Video/recentVideos">Preview Our Events</a></li>
+                                        
                                     </ul>
                                 </div>
                             </div>
@@ -451,7 +462,7 @@
                             <div class="header-nav" data-nav-id="education">
                                 <div class="nav-title">
                                     <a href="#" class="header-nav-back">
-                                        <img src="http://www.kennedy-center.org/images/cstraight/icons/icon-arrow-left-white.svg" alt="">Back</a>Education
+                                        <img src="https://www.kennedy-center.org/images/cstraight/icons/icon-arrow-left-white.svg" alt="">Back</a>Education
                                 </div>
                                 <div class="scroll">
                                     <ul>
@@ -470,20 +481,21 @@
                             <div class="header-nav" data-nav-id="about">
                                 <div class="nav-title">
                                     <a href="#" class="header-nav-back">
-                                        <img src="http://www.kennedy-center.org/images/cstraight/icons/icon-arrow-left-white.svg" alt="">Back</a>About
+                                        <img src="https://www.kennedy-center.org/images/cstraight/icons/icon-arrow-left-white.svg" alt="">Back</a>About
                                 </div>
                                 <div class="scroll">
                                     <ul>
                                         <li><a href="http://www.kennedy-center.org/calendar/programs">Programs</a></li>
                                         <li><a href="http://www.kennedy-center.org/pages/about/history">History</a></li>
                                         <li><a href="http://education.kennedy-center.org/education">Education</a></li>
-                                        <li><a href="http://www.kennedy-center.org/pages/expansion">Expansion Project</a></li>
+                                        <li><a href="http://cms.kennedy-center.org/thereach/">The REACH Expansion</a></li>
                                         <li><a href="http://www.kennedy-center.org/pages/about/ourpeople">Leadership</a></li>
-                                        <li><a href="//ch.tbe.taleo.net/CH07/ats/careers/jobSearch.jsp?org=THEKENNC&amp;cws=1" target="_blank">Employment</a></li>
-                                        <li><a href="http://education.kennedy-center.org/education/internships">Internships</a></li>
+                                        <li><a href="https://chp.tbe.taleo.net/chp01/ats/careers/v2/jobSearch?act=redirectCwsV2&amp;cws=38&amp;org=THEKENNC" target="_blank">Employment</a></li>
+                                        <li><a href="http://cms.kennedy-center.org/career/">Internships and Fellowships</a></li>
                                         <li><a href="http://www.kennedy-center.org/support/volunteers">Volunteers</a></li>
                                         <li><a href="http://www.kennedy-center.org/pages/about/constituents">Artistic Constituents</a></li>
                                         <li><a href="http://cms.kennedy-center.org/public-relations/press-releases">Public Relations</a></li>
+                                        <li><a href="http://www.kennedy-center.org/pages/about/annualreport">Annual Report</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -492,17 +504,17 @@
                             <div class="header-nav" data-nav-id="support">
                                 <div class="nav-title">
                                     <a href="#" class="header-nav-back">
-                                        <img src="http://www.kennedy-center.org/images/cstraight/icons/icon-arrow-left-white.svg" alt="">Back</a>Support
+                                        <img src="https://www.kennedy-center.org/images/cstraight/icons/icon-arrow-left-white.svg" alt="">Back</a>Support
                                 </div>
                                 <div class="scroll">
                                     <ul>
                                         <li class="hide-md"><a href="http://www.kennedy-center.org/membership/index">Give Now</a></li>
-                                        <li><a href="http://www.kennedy-center.org/membership/index">Individual Support</a></li>
+                                        <li><a href="http://www.kennedy-center.org/membership/index">Membership</a></li>
                                         <li><a href="http://www.kennedy-center.org/Membership/CorpHome/">Corporate Support</a></li>
                                        
                                         <li><a href="//www.legacy.vg/72/giving/1.html" target="_blank">Charitable Estate Planning</a></li>
                                         <li><a href="http://www.kennedy-center.org/pages/support/volunteers/">Volunteering</a></li>
-                                        <li><a href="http://www.kennedy-center.org/pages/support/nationalpatrons">National Patrons</a></li>
+                                        <li><a href="http://cms.kennedy-center.org/support/nationalpatrons">National Patrons</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -515,7 +527,7 @@
                             <div class="header-nav" data-nav-id="plan-your-trip">
                                 <div class="nav-title">
                                     <a href="#" class="header-nav-back">
-                                        <img src="http://www.kennedy-center.org/images/cstraight/icons/icon-arrow-left-white.svg" alt="">Back</a>Plan Your Trip
+                                        <img src="https://www.kennedy-center.org/images/cstraight/icons/icon-arrow-left-white.svg" alt="">Back</a>Plan Your Trip
                                 </div>
                                 <div class="scroll">
                                     <ul>
@@ -531,12 +543,12 @@
                             <div class="header-nav" data-nav-id="dine">
                                 <div class="nav-title">
                                     <a href="#" class="header-nav-back">
-                                        <img src="http://www.kennedy-center.org/images/cstraight/icons/icon-arrow-left-white.svg" alt="">Back</a>Dine
+                                        <img src="https://www.kennedy-center.org/images/cstraight/icons/icon-arrow-left-white.svg" alt="">Back</a>Dine
                                 </div>
                                 <div class="scroll">
                                     <ul>
                                         <li><a href="http://www.kennedy-center.org/pages/restaurants">Roof Terrace Restaurant</a></li>
-                                        <li><a href="http://www.kennedy-center.org/pages/restaurantsevents">KC Café</a></li>
+                                        <li><a href="http://www.kennedy-center.org/pages/restaurants/group">KC Café</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -545,7 +557,7 @@
                             <div class="header-nav" data-nav-id="venues">
                                 <div class="nav-title">
                                     <a href="#" class="header-nav-back">
-                                        <img src="http://www.kennedy-center.org/images/cstraight/icons/icon-arrow-left-white.svg" alt="">Back</a>The Venues
+                                        <img src="https://www.kennedy-center.org/images/cstraight/icons/icon-arrow-left-white.svg" alt="">Back</a>The Venues
                                 </div>
                                 <div class="scroll">
                                     <ul>
@@ -632,11 +644,11 @@
 
                     <li class="hide-md social-links">
                         <a href="//www.facebook.com/National.Symphony">
-                            <img src="http://www.kennedy-center.org/images/cstraight/icons/icon-facebook-gray.svg" style="width: 8px; height: 16px;" alt="Facebook"></a>
+                            <img src="https://www.kennedy-center.org/images/cstraight/icons/icon-facebook-gray.svg" style="width: 8px; height: 16px;" alt="Facebook"></a>
                         <a href="//twitter.com/KenCen">
-                            <img src="http://www.kennedy-center.org/images/cstraight/icons/icon-twitter-gray.svg" style="width: 17px; height: 14px; margin-top: 1px;" alt="Twitter"></a>
+                            <img src="https://www.kennedy-center.org/images/cstraight/icons/icon-twitter-gray.svg" style="width: 17px; height: 14px; margin-top: 1px;" alt="Twitter"></a>
                         <a href="//instagram.com/kennedycenter">
-                            <img src="http://www.kennedy-center.org/images/cstraight/icons/icon-instagram-gray.svg" style="width: 16px; height: 16px;" alt="Instagram"></a>
+                            <img src="https://www.kennedy-center.org/images/cstraight/icons/icon-instagram-gray.svg" style="width: 16px; height: 16px;" alt="Instagram"></a>
                     </li>
                 </ul>
             </div>
@@ -694,11 +706,12 @@
                     <li>
                         <a data-nav-child="AmericanOperaInitiative" href="http://www.kennedy-center.org/WNO/MTO/AOIInfo">American Opera Initiative</a>
                         <ul class="company-subnav">
-                            <li><a href="http://www.kennedy-center.org/wno/mto/AOIInfo">Past Commissions</a></li>
-                            <li><a href="http://www.kennedy-center.org/wno/mto/AOIPast">Program Information</a></li>
+                            <li><a href="http://www.kennedy-center.org/wno/mto/AOIInfo">Program Information</a></li>
+                            <li><a href="http://www.kennedy-center.org/wno/mto/AOIPast">Past Commissions</a></li>
+                            <li><a href="http://www.kennedy-center.org/wno/mto/AOIApply">Apply</a></li>
                         </ul>
                     </li>
-                    <li><a href="http://www.kennedy-center.org/WNO/MTO/Opportunities">Opportunies</a></li>
+                    <li><a href="http://www.kennedy-center.org/WNO/MTO/Opportunities">Opportunities</a></li>
 
                     <li><a href="//wno-blog.kennedycenterblogs.org/">Blog</a></li>
 
@@ -751,22 +764,23 @@
                             <li>
                                 <a href="http://www.kennedy-center.org/WNO/MTO/AOIInfo">American Opera Initiative</a>
                                 <ul class="company-subnav">
-                                    <li><a href="http://www.kennedy-center.org/wno/mto/AOIInfo">Past Commissions</a></li>
-                                    <li><a href="http://www.kennedy-center.org/wno/mto/AOIPast">Program Information</a></li>
+                                    <li><a href="http://www.kennedy-center.org/wno/mto/AOIInfo">Program Information</a></li>
+                                    <li><a href="http://www.kennedy-center.org/wno/mto/AOIPast">Past Commissions</a></li>
+                                    <li><a href="http://www.kennedy-center.org/wno/mto/AOIApply">Apply</a></li>
                                 </ul>
                             </li>
-                            <li><a href="http://www.kennedy-center.org/WNO/MTO/Opportunities">Opportunies</a></li>
+                            <li><a href="http://www.kennedy-center.org/WNO/MTO/Opportunities">Opportunities</a></li>
 
                             <li><a href="//wno-blog.kennedycenterblogs.org/">Blog</a></li>
                         </ul>
                     </li>
                     <li class="hide-md social-links">
                         <a href="//www.facebook.com/WashingtonNationalOpera">
-                            <img src="http://www.kennedy-center.org/images/cstraight/icons/icon-facebook-gray.svg" style="width: 8px; height: 16px;" alt="Facebook"></a>
+                            <img src="https://www.kennedy-center.org/images/cstraight/icons/icon-facebook-gray.svg" style="width: 8px; height: 16px;" alt="Facebook"></a>
                         <a href="//twitter.com/dcopera">
-                            <img src="http://www.kennedy-center.org/images/cstraight/icons/icon-twitter-gray.svg" style="width: 17px; height: 14px; margin-top: 1px;" alt="Twitter"></a>
+                            <img src="https://www.kennedy-center.org/images/cstraight/icons/icon-twitter-gray.svg" style="width: 17px; height: 14px; margin-top: 1px;" alt="Twitter"></a>
                         <a href="//instagram.com/kennedycenter">
-                            <img src="http://www.kennedy-center.org/images/cstraight/icons/icon-instagram-gray.svg" style="width: 16px; height: 16px;" alt="Instagram"></a>
+                            <img src="https://www.kennedy-center.org/images/cstraight/icons/icon-instagram-gray.svg" style="width: 16px; height: 16px;" alt="Instagram"></a>
                     </li>
                 </ul>
             </div>
@@ -835,11 +849,11 @@
                     </li>
                     <li class="hide-md social-links">
                         <a href="//www.facebook.com/KennedyCenter">
-                            <img src="http://www.kennedy-center.org/images/cstraight/icons/icon-facebook-gray.svg" style="width: 8px; height: 16px;" alt="Facebook"></a>
+                            <img src="https://www.kennedy-center.org/images/cstraight/icons/icon-facebook-gray.svg" style="width: 8px; height: 16px;" alt="Facebook"></a>
                         <a href="//twitter.com/KenCen">
-                            <img src="http://www.kennedy-center.org/images/cstraight/icons/icon-twitter-gray.svg" style="width: 17px; height: 14px; margin-top: 1px;" alt="Twitter"></a>
+                            <img src="https://www.kennedy-center.org/images/cstraight/icons/icon-twitter-gray.svg" style="width: 17px; height: 14px; margin-top: 1px;" alt="Twitter"></a>
                         <a href="//instagram.com/kennedycenter">
-                            <img src="http://www.kennedy-center.org/images/cstraight/icons/icon-instagram-gray.svg" style="width: 16px; height: 16px;" alt="Instagram"></a>
+                            <img src="https://www.kennedy-center.org/images/cstraight/icons/icon-instagram-gray.svg" style="width: 16px; height: 16px;" alt="Instagram"></a>
                     </li>
                 </ul>
             </div>
@@ -854,7 +868,7 @@
         <div class="header-nav" data-nav-id="CommunityPrograms">
             <div class="nav-title">
                 <a href="#" class="header-nav-back">
-                    <img src="http://www.kennedy-center.org/images/cstraight/icons/icon-arrow-left-white.svg" alt="">Back</a>Community Programs
+                    <img src="https://www.kennedy-center.org/images/cstraight/icons/icon-arrow-left-white.svg" alt="">Back</a>Community Programs
             </div>
             <div class="scroll">
                 <ul>
@@ -867,7 +881,7 @@
         <div class="header-nav" data-nav-id="Governance">
             <div class="nav-title">
                 <a href="#" class="header-nav-back">
-                    <img src="http://www.kennedy-center.org/images/cstraight/icons/icon-arrow-left-white.svg" alt="">Back</a>Governance
+                    <img src="https://www.kennedy-center.org/images/cstraight/icons/icon-arrow-left-white.svg" alt="">Back</a>Governance
             </div>
             <div class="scroll">
                 <ul>
@@ -880,7 +894,7 @@
         <div class="header-nav" data-nav-id="History">
             <div class="nav-title">
                 <a href="#" class="header-nav-back">
-                    <img src="http://www.kennedy-center.org/images/cstraight/icons/icon-arrow-left-white.svg" alt="">Back</a>History
+                    <img src="https://www.kennedy-center.org/images/cstraight/icons/icon-arrow-left-white.svg" alt="">Back</a>History
             </div>
             <div class="scroll">
                 <ul>
@@ -894,7 +908,7 @@
         <div class="header-nav" data-nav-id="Administration">
             <div class="nav-title">
                 <a href="#" class="header-nav-back">
-                    <img src="http://www.kennedy-center.org/images/cstraight/icons/icon-arrow-left-white.svg" alt="">Back</a>Administration
+                    <img src="https://www.kennedy-center.org/images/cstraight/icons/icon-arrow-left-white.svg" alt="">Back</a>Administration
             </div>
             <div class="scroll">
                 <ul>
@@ -912,7 +926,7 @@
         <div class="header-nav" data-nav-id="YoungArtistsProgram">
             <div class="nav-title">
                 <a href="#" class="header-nav-back">
-                    <img src="http://www.kennedy-center.org/images/cstraight/icons/icon-arrow-left-white.svg" alt="">Back</a>Young Artist Program
+                    <img src="https://www.kennedy-center.org/images/cstraight/icons/icon-arrow-left-white.svg" alt="">Back</a>Young Artist Program
             </div>
             <div class="scroll">
                 <ul>
@@ -930,7 +944,7 @@
         <div class="header-nav" data-nav-id="Rentals">
             <div class="nav-title">
                 <a href="#" class="header-nav-back">
-                    <img src="http://www.kennedy-center.org/images/cstraight/icons/icon-arrow-left-white.svg" alt="">Back</a>Rentals
+                    <img src="https://www.kennedy-center.org/images/cstraight/icons/icon-arrow-left-white.svg" alt="">Back</a>Rentals
             </div>
             <div class="scroll">
                 <ul>
@@ -945,12 +959,13 @@
         <div class="header-nav" data-nav-id="AmericanOperaInitiative">
             <div class="nav-title">
                 <a href="#" class="header-nav-back">
-                    <img src="http://www.kennedy-center.org/images/cstraight/icons/icon-arrow-left-white.svg" alt="">Back</a>American Opera Initiative
+                    <img src="https://www.kennedy-center.org/images/cstraight/icons/icon-arrow-left-white.svg" alt="">Back</a>American Opera Initiative
             </div>
             <div class="scroll">
                 <ul>
-                    <li><a href="http://www.kennedy-center.org/wno/mto/AOIInfo">Past Commissions</a></li>
-                    <li><a href="http://www.kennedy-center.org/wno/mto/AOIPast">Program Information</a></li>
+                    <li><a href="http://www.kennedy-center.org/wno/mto/AOIInfo">Program Information</a></li>
+                    <li><a href="http://www.kennedy-center.org/wno/mto/AOIPast">Past Commissions</a></li>
+                    <li><a href="http://www.kennedy-center.org/wno/mto/AOIApply">Apply</a></li>
                 </ul>
             </div>
         </div>
@@ -958,7 +973,7 @@
         <div class="header-nav" data-nav-id="sfbTheCompany">
             <div class="nav-title">
                 <a href="#" class="header-nav-back">
-                    <img src="http://www.kennedy-center.org/images/cstraight/icons/icon-arrow-left-white.svg" alt="">Back</a>The Company
+                    <img src="https://www.kennedy-center.org/images/cstraight/icons/icon-arrow-left-white.svg" alt="">Back</a>The Company
             </div>
             <div class="scroll">
                 <ul>
@@ -972,7 +987,7 @@
         <div class="header-nav" data-nav-id="sfbNotes">
             <div class="nav-title">
                 <a href="#" class="header-nav-back">
-                    <img src="http://www.kennedy-center.org/images/cstraight/icons/icon-arrow-left-white.svg" alt="">Back</a>Suzanne Farrell's Notes
+                    <img src="https://www.kennedy-center.org/images/cstraight/icons/icon-arrow-left-white.svg" alt="">Back</a>Suzanne Farrell's Notes
             </div>
             <div class="scroll">
                 <ul>
@@ -1129,14 +1144,15 @@
                 </div>
                 <div class="footer-visit">
                     <div class="text-left">
-                        <h2><a href="/pages/visitor/directions">Visit</a></h2>
+                        <h2>Visit</h2>
                         <i class="icon icon-marker visit-marker"></i>
                         <div class="no-wrap">
                             <p>
-                                <a href="/pages/visitor/directions">The John F. Kennedy Center for the Performing Arts
+                                The John F. Kennedy Center for the Performing Arts
                                     <br>
-                                    2700 F Street, NW Washington, DC 20566</a>
+                                    2700 F Street, NW Washington, DC 20566
                             </p>
+                            <p><a href="/pages/visitor/directions">Directions to the Kennedy Center</a></p>
                             <p>Building opens daily at 10 a.m.
                             </p>
                         </div>
@@ -1144,13 +1160,12 @@
                 </div>
                 <div class="footer-contact">
                     <div class="text-left">
-                        <h2><a href="/contact">Contact Us</a></h2>
+                        <h2>Contact Us</h2>
                         <p>
                             Tickets &amp; Information: (202) 467-4600
                             <br>
                             Toll-Free: (800) 444-1324
-                            <br>
-                            TTY: (202) 416-8524
+                            
                         </p>
                         <p>
                             Box Office Hours:
@@ -1158,15 +1173,16 @@
                             Mon.-Sat., 10 a.m.-9 p.m.,<br>
                             Sun. and Holidays, noon-9 p.m
                         </p>
+                        <p><a href="/contact">More ways to contact us</a></p>
                     </div>
                 </div>
                 <div class="footer-bottom">
                     <ul class="footer-utility-links">
-                        <li><a href="/Pages/accessibility/">Accessibility</a></li>
+                        <li><a href="/pages/accessibility/">Accessibility</a></li>
                         <li><a href="/pages/legal/privacy">Privacy Statement</a></li>
                         <li><a href="/pages/legal/terms">Terms and Conditions</a></li>
                     </ul>
-                    <span class="footer-copyright">Copyright 1990-2017. All rights reserved.</span>
+                    <span class="footer-copyright">Copyright 1990-2018. All rights reserved.</span>
                 </div>
 
             </div>
