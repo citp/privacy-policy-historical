@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macworld.com.au privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231175916id_/http%3A//www.macworld.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macworld.com.au privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610043936id_/http%3A//www.macworld.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Macworld Australia - Macworld Australia
 
@@ -8,11 +8,11 @@ We revaluate this policy on an ongoing basis, and we value your feedback. If you
 
 Privacy Officer  
 Niche Media Pty Ltd.  
-142 Dorcas Street  
-South Melbourne VIC 3205  
+1418,1 Queens Road  
+Melbourne , VIC 3004  
 AUSTRALIA
 
-Or to [macworld@macworld.com.au](http://www.macworld.com.au/contact-macworld/)
+Or to  digital@niche.com.au
 
 Please note that this privacy policy may change from time to time. We will post the new policy on this page, and, if the changes allow us to use personally identifying information in ways that are different from the ways specified at the time the information was originally collected, our Web site will contain a special notice about the changes. Each version of this privacy policy will be identified by its effective date, which you can find at the bottom of the page.
 
@@ -77,7 +77,7 @@ Postal addresses will be used to promote Macworld Australia and Niche Media Pty 
 
 When you provide your e-mail address to us, you agree to receive e-mail from Macworld Australia, and Niche Media Pty Ltd; however, you can unsubscribe from these e-mails at any time simply by clicking the unsubscribe link within the body of the e-mail. We allow you to opt out of receiving e-mail regarding third-party offers, both when e-mail information is collected and with each use of your address. If you do not opt out at the time your e-mail address is collected, or do not respond to the questions concerning how we may use your e-mail address, your address may be used for third-party offers. Offers for which the e-mail address is rented and/or licensed for use are screened and the users are required to target their offers carefully.
 
-In addition, you may change your preferences regarding use of personal data by sending an e-mail to [macworld@macworld.com.au](http://www.macworld.com.au/contact-macworld/).
+In addition, you may change your preferences regarding use of personal data by sending an e-mail to digital@niche.com.au
 
 If Macworld Australia or any of its products is involved in a merger, acquisition, or sale of some or all of its assets, all personally identifying information and other data will be transferred to the new owner.
 
