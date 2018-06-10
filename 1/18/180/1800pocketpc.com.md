@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1800pocketpc.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208164128id_/http%3A//www.pocketandpc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800pocketpc.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610053025id_/http%3A//www.pocketandpc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
