@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kellybroganmd.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208163007id_/http%3A//kellybroganmd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kellybroganmd.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610063654id_/http%3A//kellybroganmd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kelly Brogan MD
 
-Effective Date: November, 2016
+Effective Date: May, 2018
 
 The following Privacy Policy governs the online information collection practices of **Kelly Brogan, MD** (“we” or “us”). Specifically, it outlines the types of information that we gather about you while you are using the [**http://kellybroganmd.com**](http://kellybroganmd.com/) website (the “Site”), and the ways in which we use this information. This Privacy Policy, including our children’s privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail).
 
@@ -56,6 +56,16 @@ We abide by Facebook’s Data Use Restrictions.
 
 
 
+**General Data Privacy Regulation (GDPR)**
+
+The GDPR takes effect on May 25, 2018, and is intended to protect the data of European Union (EU) citizens.
+
+As a company that markets its site, content, products and/or services online we do not specifically target our marketing to the EU or conduct business in or to the EU in any meaningful way. If the data that you provide to us in the course of your use of our site, content, products and/or services is governed by GDPR, we will abide by the relevant portions of the Regulation.
+
+If you are a resident of the European Economic Area (EEA), or are accessing this site from within the EEA, you may have the right to request: access to, correction of, deletion of; portability of; and restriction or objection to processing, of your personal data, from us. This includes the “right to be forgotten.”
+
+To make any of these requests, please contact our GDPR contact at [GDPR@kellybrogan.com](mailto:GDPR@kellybrogan.com)
+
 ### **Children’s Privacy Statement**
 
 This children’s privacy statement explains our practices with respect to the online collection and use of personal information from children under the age of thirteen, and provides important information regarding their rights under federal law with respect to such information.
@@ -67,6 +77,16 @@ This children’s privacy statement explains our practices with respect to the o
 
 
 
+**The HIPAA Privacy Rule**
+
+The US Department of Health and Human Services provides:  “The HIPAA Privacy Rule establishes national standards to protect individuals’ medical records and other personal health information and applies to health plans, health care clearinghouses, and those health care providers that conduct certain health care transactions electronically.  The Rule requires appropriate safeguards to protect the privacy of personal health information, and sets limits and conditions on the uses and disclosures that may be made of such information without patient authorization. The Rule also gives patients rights over their health information, including rights to examine and obtain a copy of their health records, and to request corrections.”
+
+You acknowledge that our operation of the Site does not constitute the practice of medicine, and specifically does not create a doctor-patient relationship between you and Kelly Brogan, MD (the “Doctor”).  The information provided on the Site is for educational purposes only.
+
+Notwithstanding the fact that the Site does not create a doctor-patient relationship between you and DOCTOR, our preservation of your personal health information shall be HIPAA compliant.
+
+For purposes of this Privacy Policy, “patients” are those individuals who have secured the in-person services DOCTOR.  If you are a patient of DOCTOR, you will be provided with a copy of DOCTOR’s HIPAA Privacy Statement, which governs the information collection practices of patients’ personal information by DOCTOR.
+
 ### **How do we store your information?**
 
 Your information is stored at the list server that delivers kellybroganmd.com content and messaging. Your information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive .com material.
@@ -77,4 +97,6 @@ All of the messaging or emails that are sent to you by kellybrogranmd.com includ
 
 Although it is highly unlikely, this policy may be changed at any time at our discretion. If we should update this policy, we will post the updates to this page on our Website.
 
-If you have any questions or concerns regarding our privacy policy please direct them to: support@kellybroganmd.com.
+If you have any questions or concerns regarding our privacy policy please direct them to:
+
+[office@kellybroganmd.com](mailto:office@kellybroganmd.com)
