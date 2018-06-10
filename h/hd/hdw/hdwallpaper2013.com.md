@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdwallpaper2013.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208130202id_/http%3A//hdwallpaper2013.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdwallpaper2013.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610133827id_/http%3A//hdwallpaper2013.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HD Wallpaper 2013 - Download Background and Desktop Wallpapers
 
