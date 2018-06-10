@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the donorschoose.org privacy policy that was archived on 2017-03-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170314204418id_/https%3A//www.donorschoose.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the donorschoose.org privacy policy that was archived on 2018-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180610153550id_/https%3A//www.donorschoose.org/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
@@ -120,6 +120,7 @@
 
 
 
+
 <title>Privacy Policy</title>
 <meta name="description" content="DonorsChoose.org connects teachers in high-need communities with donors who want to help.">
 
@@ -129,28 +130,28 @@
 
 
 
-<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png?v=all28vRgOR">
-<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png?v=all28vRgOR">
-<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png?v=all28vRgOR">
-<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png?v=all28vRgOR">
-<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png?v=all28vRgOR">
-<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png?v=all28vRgOR">
-<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png?v=all28vRgOR">
-<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png?v=all28vRgOR">
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png?v=all28vRgOR">
-<link rel="icon" type="image/png" href="/favicon-32x32.png?v=all28vRgOR" sizes="32x32">
-<link rel="icon" type="image/png" href="/favicon-194x194.png?v=all28vRgOR" sizes="194x194">
-<link rel="icon" type="image/png" href="/favicon-96x96.png?v=all28vRgOR" sizes="96x96">
-<link rel="icon" type="image/png" href="/android-chrome-192x192.png?v=all28vRgOR" sizes="192x192">
-<link rel="icon" type="image/png" href="/favicon-16x16.png?v=all28vRgOR" sizes="16x16">
-<link rel="manifest" href="/manifest.json?v=all28vRgOR">
-<link rel="mask-icon" href="/safari-pinned-tab.svg?v=all28vRgOR" color="#ef5f3c">
-<link rel="shortcut icon" href="/favicon.ico?v=all28vRgOR">
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/favicon-194x194.png" sizes="194x194">
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#ef5f3c">
+<link rel="shortcut icon" href="/favicon.ico">
 <meta name="msapplication-TileColor" content="#da532c">
-<meta name="msapplication-TileImage" content="/mstile-144x144.png?v=all28vRgOR">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
 <meta name="theme-color" content="#ef5f3c">
 
-<link type="text/css" rel="stylesheet" href="https://cdn.donorschoose.net/gcss/general.css?version=fed0266">
+<link type="text/css" rel="stylesheet" href="https://cdn.donorschoose.net/gcss/general.css?version=d6653d0">
 
 
 
@@ -324,8 +325,11 @@
 
 
 
+
+
 	
 	
+
 
 
 
@@ -401,7 +405,7 @@
 self.name = "_orig";
 
 
-var versionNum = "fed0266";
+var versionNum = "d6653d0";
 
 
 
@@ -429,6 +433,10 @@ var secureS3URL = "https://storage.donorschoose.net/";
 
 
 
+var baseAdminURL = "https://adminsecure.donorschoose.org/";
+
+
+
 var dcAPIKey = "H9v7hCeN";
 
 
@@ -445,8 +453,24 @@ var heapApplicationId = "2017425730";
 
 
 
+	var googleAnalyticsId = "UA-2016540-1";
+	
 
-var pageName = "article";
+
+
+	var introVideoURL = "//www.youtube.com/embed/gxWPM2LMJ6I?autoplay=1&wmode=opaque";
+	
+
+
+	var introVideoURLNoAutoplay = "//www.youtube.com/embed/gxWPM2LMJ6I?autoplay=0&rel=0&showinfo=0&wmode=opaque";
+	
+
+
+// CSRF token to use in AJAX POSTs from JS
+var csrfToken = "3cd2310b-26c8-4064-86be-443535277e83";
+
+
+var pageName = "PRIVACY-POLICY";
 
 var introVideoURL = "//www.youtube.com/embed/gxWPM2LMJ6I?autoplay=1&wmode=opaque";
 
@@ -556,7 +580,8 @@ var mobileOptimized = true;
 
 
 
-<script type="text/javascript" crossorigin="anonymous" src="https://cdn.donorschoose.net/js/output/general.js?version=fed0266"></script>
+
+<script type="text/javascript" crossorigin="anonymous" src="https://cdn.donorschoose.net/js/output/general.js?version=d6653d0"></script>
 
 
 
@@ -583,6 +608,7 @@ var mobileOptimized = true;
 
 	
 	
+
 
 
 
@@ -664,7 +690,7 @@ var mobileOptimized = true;
 	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-	ga('create', 'UA-2016540-1', 'auto');
+	ga('create', googleAnalyticsId, 'auto');
 	ga('require', 'displayfeatures');
 	if (typeof userId != "undefined" && (userId != null && userId != "")) ga('set','&uid',userId);
 
@@ -726,7 +752,7 @@ var mobileOptimized = true;
 
 
 
-<script type="text/javascript" async="" src="//js.maxmind.com/js/apis/geoip2/v2.1/geoip2.js"></script></head>
+<script type="text/javascript" async="" src="//js.maxmind.com/js/apis/geoip2/v2.1/geoip2.js"></script><script src="https://cdn.getambassador.com/us-48890d71-82a4-442a-b441-8278a285c298.js"></script></head>
 <body>
 
 
@@ -825,52 +851,67 @@ var mobileOptimized = true;
 
 <div id="mainHeader">
 
-	<div id="annual-receipt-banner">
-		<i class="ss-junior ss-delete dismiss" onclick="hideAnnualReceiptBanner()"></i>
-		Take credit for your charitable giving! Check out your <a href="https://secure.donorschoose.org/donors/giving_history.html">tax receipts</a>.
-	</div>
-
 	<div id="cart-banner">
 		<div class="cart-banner-container">
 			<div class="message">Complete your donation <span id="cart-banner-message"></span></div>
 			<a target="_top" href="https://secure.donorschoose.org/donors/givingCart.html" class="button-redux tertiary small checkout-button"><i class="ss-junior ss-cart"></i>Check out</a>
 		</div>
 	</div>
-	<div class="quick-donate-header show-quick-donate" style="display: none;">
-		<a href="https://secure.donorschoose.org/credits" class="button-redux tertiary small quick-donate-button">Donate</a>
+
+	<div class="all-other-banners">
+		<div id="annual-receipt-banner">
+			<i class="ss-junior ss-delete dismiss" onclick="hideAnnualReceiptBanner()"></i>
+			Take credit for your charitable giving! Check out your <a href="https://secure.donorschoose.org/donors/giving_history.html">tax receipts</a>
+		</div>
+
+		<div class="promo-banner top-donor-banner">
+			In a rush to make a major tax-deductible gift before the year's end? <a href="https://www.donorschoose.org/credits">Purchase account credits</a> and choose projects later!
+		</div>
+
+		<div class="quick-donate-header show-quick-donate" style="display: none;">
+			<a href="https://secure.donorschoose.org/credits" class="button-redux tertiary small quick-donate-button">Donate</a>
+		</div>
+
+		<div class="promo-banner eif-banner js-eif-banner">
+			<div class="banner-container">
+				<span class="eif-logo">Think It Up</span>
+				<p>
+					Think It Up provides matching funds for learning projects that tap
+					into students’ passions and foster their academic and changemaking
+					skills.
+					<a target="_top" href="https://help.donorschoose.org/hc/en-us/articles/204902367-Double-Your-Impact-on-student-led-projects-with-Think-It-Up">Start</a>
+					or
+					<a target="_top" href="https://www.donorschoose.org/classroom-support/think-it-up-partner-page/20636005/?id=20636005&amp;active=true">support</a>
+					a student-powered project today!
+				</p>
+			</div>
+		</div>
+
+		<div id="teacher-profile-photo-banner" class="banner-alert highlight redux" style="display:none">
+			<div class="container">
+				<i class="ss-junior ss-camera"></i>
+				<p>
+					<strong>Upload a profile photo!</strong> <a class="heap-tpp-upload-link" onclick="toggleTeacherProfilePhotoUploadOverlay(event)">Add a profile photo</a> to raise your chances of getting funded.
+				</p>
+				<a class="ss-junior close" tabindex="0" onclick="hideTeacherProfilePhotoBanner()">delete</a>
+			</div>
+		</div>
+
+		<div id="teacher-email-confirm-banner" class="banner-alert highlight redux" style="display:none">
+			<div class="container">
+				<p>
+					Check your email to verify your account and get started on your first project. <a href="https://secure.donorschoose.org/teacher/confirmEmail.html">Didn't receive the email?</a>
+				</p>
+				<a class="ss-junior close" tabindex="0" onclick="hideTeacherEmailConfirmBanner()">delete</a>
+			</div>
+		</div>
+
+		<!-- REDUX TEACHER BANNER -->
+		<div id="teacher-banner" class="desktop on">
+		  <i class="ss-junior ss-delete dismiss" onclick="hideTeacherBanner()"></i>
+		  Are you a public school teacher in need of funding? <a target="_top" href="https://www.donorschoose.org/teachers">Get funded »</a>
+		</div>
 	</div>
-
-
-	<div class="promo-banner eif-banner js-eif-banner">
-	<div class="banner-container">
-		<span class="eif-logo">Think It Up</span>
-		<p>
-			Think It Up provides matching funds for learning projects that tap
-			into students’ passions and foster their academic and changemaking
-			skills.
-			<a target="_top" href="https://help.donorschoose.org/hc/en-us/articles/204902367-Double-Your-Impact-on-student-led-projects-with-Think-It-Up">Start</a>
-			or
-			<a target="_top" href="https://www.donorschoose.org/classroom-support/think-it-up-partner-page/20636005/?id=20636005&amp;active=true">support</a>
-			a student-powered project today!
-		</p>
-	</div>
-</div>
-
-<div id="teacher-profile-photo-banner" class="banner-alert highlight redux" style="display:none">
-	<div class="container">
-		<i class="ss-junior ss-camera"></i>
-		<p>
-			<strong>Upload a profile photo!</strong> <a class="heap-tpp-upload-link" onclick="toggleTeacherProfilePhotoUploadOverlay(event)">Add a profile photo</a> to raise your chances of getting funded.
-		</p>
-		<a class="ss-junior close" tabindex="0" onclick="hideTeacherProfilePhotoBanner()">delete</a>
-	</div>
-</div>
-
-<!-- REDUX TEACHER BANNER -->
-<div id="teacher-banner" class="desktop on">
-  <i class="ss-junior ss-delete dismiss" onclick="hideTeacherBanner()"></i>
-  Are you a public school teacher in need of funding? <a target="_top" href="https://www.donorschoose.org/teachers">Start your first project »</a>
-</div>
 
 <div id="mobile-header">
 <a target="_top" class="logo DClogo" href="https://www.donorschoose.org/" onclick="dcAnalytics.trackEventGA(['Header', 'Logo']);">DonorsChoose.org</a>
@@ -886,6 +927,7 @@ var mobileOptimized = true;
 		<a target="_top" class="button-redux secondary small find-classroom" href="https://www.donorschoose.org/donors/search.html" onclick="dcAnalytics.trackEventGA(['Header', 'Find a classroom to support']);">Find a classroom to support</a>
 		<a target="_top" class="about" href="https://www.donorschoose.org/about" onclick="dcAnalytics.trackEventGA(['Header', 'About us']);">About us</a><a target="_top" class="help" href="https://help.donorschoose.org/" onclick="dcAnalytics.trackEventGA(['Header', 'Help']);">Help</a></div><!-- no white space here --><div id="account-links" class="account">
         <div id="signin-link" class="account">
+			
 			<a target="_top" onclick="toggleSignInOverlay(event)" href="https://secure.donorschoose.org/common/signin.html?pageFromType=">Sign in</a>
     	</div>	
 		<div id="user-account-links">
@@ -963,19 +1005,11 @@ var headerType = "";
 <h1>Privacy Policy</h1>
 
 <div class="last-updated">
-<h4>Last Updated on June 30, 2016</h4>
-<p>At DonorsChoose.org, we are dedicated to protecting the privacy of our users. Our revised  Privacy Policy, effective June 30, 2016, aims to clarify how we collect and use your personal information. Here are the highlights and reasons behind some of the important updates we've made:</p>
-<ul>
-  <li><strong>Privacy Principles:</strong> We developed a new set of principles to share our organization's core values and how we approach privacy at DonorsChoose.org.</li>
-  <li><strong>Details specific to user type:</strong> We included a new table to explicitly state how personal information is used, depending on how you access our site or give directly to our organization.</li>
-  <li><strong>Payment information:</strong> Thanks to recent upgrades to our checkout process, our website never processes or stores your credit card number on our servers.</li>
-  <li><strong>Children's Privacy:</strong> With the launch of student-led projects, we created a new section to clarify how we collect, use and protect student information shared through the use of our website.</li>
-   <li><strong>Think It Up:</strong> We have included a new section that pertains to donors who visit our site via our partner, Think It Up (a program of the Entertainment Industry Foundation), in launching student-led projects.</li>
-  <li><strong>Contact us:</strong> You can now reach us directly at privacy@donorschoose.org about our general privacy practices or specific concerns about your personal information.</li>
-</ul>  
+<h4>Last Updated on May 22, 2018</h4>
+<p>At DonorsChoose.org, we are committed to protecting the privacy of our users. We updated our Privacy Policy on May 22, 2018 to clarify the intended audience of our site, and how we use the information you share with us to help improve your site experience. </p>
 </div>
 <h3>About DonorsChoose.org</h3>
-<p>DonorsChoose.org is an online charity that engages the public in public schools by giving people a simple, accountable and personal way to address educational inequity. We envision a nation where children in every community have the tools and experiences needed for an excellent education.</p>
+<p>DonorsChoose.org is an online charity that engages the public in public schools by giving people a simple, accountable and personal way to address educational inequity. We envision a nation where children in every community have the tools and experiences needed for an excellent education. Our website is intended for teachers and donors who are United States residents.</p>
 
 <h3>Privacy Principles</h3>
 <p>Transparency is one of our core values here at DonorsChoose.org. With that in mind, we have developed a privacy policy (this "Privacy Policy") that details how we collect, protect, disclose, and use the information our users provide through their use of the website (www.donorschoose.org), application programming interface (our "API") other sites owned and operated by DonorsChoose.org, and through any direct giving apart from the sites above.</p>
@@ -991,7 +1025,7 @@ var headerType = "";
 <h3>Collection and Use of Your Information</h3>
 <p><strong>Information we collect directly from you:</strong>We ask for different personal information depending on how you interact with our website, and will only share it in the instances outlined below. We will <b>never</b> sell your information and take measures to protect it from misuse. We currently identify our users as either of the two categories:</p>
 <ul>
-  <li><b>Donors:</b>Users over 18 years of age (according to our Terms of Use) who have made a donation to a project, purchased a gift card or account credits, redeemed a gift card, set up an account as a non-teacher user on our website, or given directly to the organization.</li>
+  <li><b>Donors:</b>Users over 18 years of age (according to our Terms of Use) who have made a donation to a project, purchased a gift card or account credits, redeemed a gift card, given directly to the organization, or shared personal contact information as a non-teacher user.</li>
   <li><b>Teachers:</b>Full-time PreK-12 public school teachers who have set up a teacher account to post projects on our website. All teacher accounts are created with a corresponding donor account.</li></ul>  
 
 
@@ -1056,18 +1090,25 @@ var headerType = "";
 </tbody></table>
 
 <h3>Information that we automatically collect during your visit to our website</h3>
-<p>Our web server automatically recognizes and collects the domain name and IP address of visitors to our website, and we use cookies to track the pages you've visited on our website. This allows us to provide visitors to our website with certain conveniences, such as delivering projects specific to your location, or pre-populate user information during checkout. We also use cookies to track the path of users through our 	website, and to keep track of how they arrived at our website (for example, via a search engine). We also collect aggregate tracking information derived mainly from tallying page views throughout our website, and we use Google Analytics Demographics and Interest Reporting to access third-party audience data such as age, gender and interests on an aggregate basis.</p>
+<p>Our web server automatically recognizes and collects the domain name and IP address of visitors to our website, and we use cookies to track the pages you've visited on our website. This allows us to provide visitors to our website with certain conveniences, such as delivering projects specific to your location, or pre-populate user information during checkout. We also use cookies to track the path of users through our 	website, and to keep track of how they arrived at our website (for example, via a search engine). We also collect aggregate tracking information derived mainly from tallying page views throughout our website, and we use Google Analytics Demographics and Interest Reporting to access third-party audience data such as age, gender and interests on an aggregate basis. Finally, we may use third-party analytics tools to track how visitors use our site. This information helps us prevent fraud, troubleshoot problems, and see how users respond to new features. This tracking does not record sensitive information like passwords or credit card data</p>
 
 <h3>How we protect your information</h3>
 <p>Your privacy is important to us, and we use technical safeguards designed to preserve the security of your personal information and protect it from unauthorized use or disclosure. We understand, however that no system is perfect, and we cannot ensure or warrant the security of any or all of the personal Information you transmit through our website. </p>
 <p>DonorsChoose.org employees, volunteers, interns and contractors ("agents") must have a legitimate business reason (i.e., related directly to furthering our mission) to access personal information you provide. Following the industry's best practices, agents must log in using two-factor authentication and we take steps to limit the amount of access to the minimum level needed to achieve each agent's purpose.</p>
 
 <h3>How we share, publish and transfer your information</h3>
-<p>We do not sell, trade, or share your personal information to or with others without your explicit consent. We indicate in your account profile which portion of the information you provide will be made public, and offer options for you to control how much information is disclosed.</p>
-<p>We have outlined the ways in which we may share your information below. In cases where we share your information with third parties (for example, an employer or website analytics service provider), our Privacy Policy does not govern the privacy practices of such third parties and we ask that you refer to their respective privacy policies for details on their use of your information. </p>
+<p>We do not sell, trade, or share your personal information to or with others without your explicit consent except:
+</p><ul>
+  <li>To respond to your requests or questions;</li>
+  <li>With third parties who perform services on our behalf, for example, with our vendors or payment processors. We may also share information with companies that operate our websites or provide analytics services to show us how users are using our website;</li>
+  <li>If we think we have to in order to comply with the law or to protect ourselves; or</li>
+  <li>With any successor to all or part of our business. For example, in the event of a merger, acquisition, divestiture, change of control or liquidation of DonorsChoose or part of its business (or in anticipation of such an event) we may share that information as part of that transaction. </li> </ul>
+
+<p>We indicate in your account profile which portion of the information you provide will be made public, and offer options for you to control how much information is disclosed. In cases where we share your information with third parties (for example, an employer or website analytics service provider), our Privacy Policy does not govern the privacy practices of such third parties and we ask that you refer to their respective privacy policies for details on their use of your information. </p>
+
+<p>We also share some information about donors or teachers who participate in specific programs or who use specific features of our website as listed below.</p>
 
 <h3>Donors:</h3>
-<p>When required by law: We may share your personal information, if deemed necessary, in our good faith judgment, to comply with laws or regulations of a governmental or regulatory body or in response to a valid subpoena, warrant or order or to protect the rights of our organization or others.</p>
 <p><b>Donations to a project or teacher page:</b>We will display your salutation and any user-generated comments publicly on the project page, available on the website and through our API. The teacher you supported will also see your preferred salutation and donation amount in his/her account.</p>
 <p><b>Gift cards sponsored by corporate partners:</b>When you use a DonorsChoose.org gift card that was funded by a corporate partner, we may share your name, email address and gift code with the corporate partner that issued the gift card. Our Privacy Policy does not govern the practices of our corporate partners; please refer to the privacy policies of respective corporate partners when using a company-issued gift card.</p>
 
@@ -1077,16 +1118,19 @@ var headerType = "";
 <p><b>Think It Up:</b> If you access our website through ThinkItUp.org and place a donation in support of a Student-led Project, we will share your full name and email address with the Entertainment Industry Foundation (the "EIF"). Our Privacy Policy does not govern the practices of the EIF; please refer to EIF's policy for details on how your information may be used by them.</p>
 
 <h3>Teachers:</h3>
-<p>When required by law: We may share your personal information, if deemed necessary, in our good faith judgment, to comply with laws or regulations of a governmental or regulatory body or in response to a valid subpoena, warrant or order or to protect the rights of our organization or others.</p>
 <p><b>Donors and site visitors:</b>We will display your title (for example, Ms. and Mr.), last name, school information, professional affiliations, teaching details, and information about your projects (including essays and Thank-you package components) publicly on the site, through our API and in emails sent to donors.</p>
 <p><b>Verification of affiliation and eligibility:</b>If you indicate in your account profile that you are a part of any professional affiliations (for example, Teach for America, NEA or New York Teaching Fellow), we may share your full name, email address and phone number with the partner organization or another member of the organization in order to verify your affiliation. These partners are only authorized to use this information for the purpose of verification.</p>
 <p>Similarly, we may share your full name, email address and project information with your school administrators or colleagues to confirm that you are eligible to use DonorsChoose.org or take part in certain funding opportunities.</p>
 <p><b>School officials and colleagues:</b>When we purchase materials for a fully funded project, we send a fax to your school and an email to your principal and selection of your colleagues who are also teacher users of DonorsChoose.org, sharing your name and a list of funded materials. We may also share project and user information when requested by principals, superintendents, or other employees of local, state, or federal school systems.</p>
 <p><b>Purchase &amp; fulfillment of projects:</b>In order to facilitate a seamless fulfillment experience, we'll share your full name, school address and email address with the vendor or service provider you selected when creating your project. Vendors may only use this information to contact you about issues encountered during fulfillment (for example, replacing out-of-stock items, backorder estimates, etc.) or opportunities exclusive to DonorsChoose.org teachers. Vendors or service providers outside of our partner companies (for example, a local museum or special request vendor) do not have a formal relationship with DonorsChoose.org and thus may use your information as outlined in their company's privacy policies.</p>
 <p><b>Funding opportunities:</b>If you receive funding through a partner funding opportunity, such as a match offer or full project funding, we may share your full name, school information and project details with the partner company.</p>
+<p><b>Referrals:</b> If you participate in one of our referral programs or are referred through one of those programs we may share your account information with a third-party service to verify that the referral is genuine and detect fraudulent referrals.</p>
 
 <h3>Anonymized data sharing</h3>
 <p>We publish insights gained through user activity on our website (and welcome the public to do the same) in the reports available at data.donorschoose.org. However, we will never publicly disclose your personal information in these reports.</p>
+
+<h3>"Do Not Track" Signals</h3>
+Some web browsers may transmit "do not track" signals to the websites and other online services with which the browser communicates. There is no standard that governs what, if anything, websites should do when they receive these signals. We currently do not take action in response to these signals.
 
 <h3>How We Protect Children's Privacy</h3>
 <p>As an organization that serves students in public school classrooms, we take safety and privacy of children seriously. Our website is not meant to be used by children under the age of 18, unless with explicit parental consent as detailed in our User Agreement.</p>
@@ -1100,7 +1144,7 @@ var headerType = "";
 </ul>  
 
 <h3>How You Can Access and Adjust Your Information</h3>
-<p>You may correct your account information at any time by logging into your online account. You have the right to request access to the personal information that we record about you. You also have the right to request corrections, amendments and deletions of any of your personal informations in our possession. To make these changes or cancel your account, please email us at privacy<at)donorschoose(dot)org. please="" note="" that="" in="" some="" cases="" we="" may="" retain="" certain="" information="" about="" you="" as="" required="" by="" law,="" or="" for="" legitimate="" business="" purposes="" to="" the="" extent="" permitted="" law.<p="">
+<p>You may correct your account information at any time by logging into your online account. You have the right to request access to the personal information that we record about you. You also have the right to request corrections, amendments and deletions of any of your personal information in our possession. To make these changes or cancel your account, please email us at privacy<at)donorschoose(dot)org. please="" note="" that="" in="" some="" cases="" we="" may="" retain="" certain="" information="" about="" you="" as="" required="" by="" law,="" or="" for="" legitimate="" business="" purposes="" to="" the="" extent="" permitted="" law.<p="">
 
 </at)donorschoose(dot)org.></p><h3>Updates to Our Privacy Policy</h3>
 <p>DonorsChoose.org may modify this Privacy Policy from time to time. When changes are made, DonorsChoose.org will indicate the modification change date in the "last updated" date at the top of the page. If we make any material changes to the policy, we will notify you in an email (sent to the email specified in your account profile) or in a notification on our website. We encourage you to periodically review this Privacy Policy to be informed of how DonorsChoose.org is protecting your information. Your continued use of our website after a modification of our Privacy Policy indicates your consent to such modification.</p>
@@ -1109,7 +1153,7 @@ var headerType = "";
 <p>We are always happy to hear from you with your questions or comments! For additional information, or if you have any questions regarding this Privacy Policy or our privacy practices in general, please send your questions or comments to us at privacy@donorschoose.org. You can also send questions or comments to the address below.</p>
 
 <p>DonorsChoose.org
-<br>Attn: Integrity Assurance
+<br>Attn: Trust &amp; Safety
 <br>	134 West 37th Street<br>
 		11th Floor<br>
 		New York, NY 10018
@@ -1198,6 +1242,7 @@ h4 {
 
 	
 	
+
 
 
 
@@ -1375,6 +1420,25 @@ $(document).ready(function() {
 
 
 
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
 	
 
 
@@ -1391,8 +1455,6 @@ $(document).ready(function() {
 
 
 
-	
-	
 
 
 
@@ -1450,21 +1512,8 @@ $(document).ready(function() {
 
 
 
+<script type="text/javascript" crossorigin="anonymous" src="https://cdn.donorschoose.net/js/output/react.js?version=d6653d0"></script>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<script type="text/javascript" crossorigin="anonymous" src="https://cdn.donorschoose.net/js/output/react.js?version=fed0266"></script>
 
 
 
@@ -1566,23 +1615,10 @@ $(document).ready(function() {
 
 
 
+
 <!-- FOOTER -->
 
 
-
-<div class="giving-tuesday-banner" style="display:none;">
-	<div class="container">
-		<p>Give today to be part of our $500,000 #GivingTuesday GIVEaway! <a target="_top" href="https://help.donorschoose.org/hc/en-us/articles/231953067--GivingTuesday-GIVEaway">Learn more</a>.</p>
-		<p class="detailed-info">No purchase necessary. <a target="_top" href="https://help.donorschoose.org/hc/en-us/articles/231953067--GivingTuesday-GIVEaway">See official rules for details</a>.</p>
-	</div>
-</div>
-
-<div class="top-donor-banner" style="display:none;">
-	<div class="container">
-		<p>Looking to make a major tax-deductible gift before year's end?</p>
-		<p class="detailed-info"><a href="https://www.donorschoose.org/credits">Purchase account credits and choose projects later</a>!</p>
-	</div>
-</div>
 
 <div id="mainFooter">
 	<div class="footer-container">
@@ -1590,7 +1626,7 @@ $(document).ready(function() {
 
 			<div id="footer-mobile-links" class="mobile">
 				<a target="_top" class="button-redux secondary small" href="https://help.donorschoose.org/">Help center</a>
-				
+
 				<ul>
 					<li><a target="_top" href="https://www.donorschoose.org/donors/search.html">Find a project</a></li>
 					<li><a target="_top" href="https://www.donorschoose.org/donors/giftoptions.html">Gift cards</a></li>
@@ -1606,14 +1642,14 @@ $(document).ready(function() {
 					<li><a target="_top" href="https://www.donorschoose.org/about/media.html">Media info</a></li>
 					<li><a target="_top" href="https://www.donorschoose.org/common/contact_landing.html">Contact us</a></li>
 				</ul>
-			
+
 			</div><!--#footer-mobile-links-->
-			
+
 
 			<div class="col col6">
 				<div id="footerSummary">
-					<h5>Supporting teachers and students since&nbsp;2000</h5> 
-					<p>DonorsChoose.org makes it easy for anyone to help a classroom in need.  Public school teachers from every corner of America create classroom project requests, and you can give any amount to the project that inspires you.</p>  
+					<h5>Supporting teachers and students since&nbsp;2000</h5>
+					<p>DonorsChoose.org makes it easy for anyone to help a classroom in need. Public school teachers from every corner of America create classroom project requests, and you can give any amount to the project that inspires you.</p>
 					<div class="stats"></div>
 				</div>
 			</div>
@@ -1652,16 +1688,17 @@ $(document).ready(function() {
 						<li><a target="_top" href="https://www.donorschoose.org/common/contact_landing.html">Contact us</a></li>
 					</ul>
 				</div>
-			</div>			
+			</div>
 		</div>
 
 		<div class="fluid-container">
 			<div class="col col6">
 				<div id="footer-teacher-link">
+					<h5>Are you a teacher?</h5>
 					<p>
-						Are you a teacher in need of funding?
-						<a href="https://www.donorschoose.org/teachers">Start your first project »</a>
+						<a href="https://www.donorschoose.org/teachers" class="button-redux small tertiary">Learn how to get funded</a>
 					</p>
+					<p><a href="https://www.donorschoose.org//about/principals.html">Learn how administrators use DonorsChoose.org »</a></p>
 				</div>
 			</div>
 
@@ -1679,20 +1716,26 @@ $(document).ready(function() {
 		</div>
 		<div id="email-contact-sign-up-widget" class="form-redux"></div>
 	</div>
-	
+
 	<div id="footer-supporters">
 		<div class="footer-container">
 			<strong>Open to every public school in America thanks to <a target="_top" href="https://www.donorschoose.org/about/our_supporters.html">our partners</a></strong>
 
+			<div class="fluid-container tip-top-tier desktop">
+				<div class="col col4 col-offset4">
+					<a target="_top" href="https://www.donorschoose.org/about/our_supporters.html"><div aria-label="Ripple" class="footer-logo logo-ripple" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;sponsor&quot;: &quot;Ripple&quot; } }"></div></a>
+				</div>
+			</div>
+
 			<div class="fluid-container top-tier desktop">
 				<div class="col col2 col-offset3">
-				  <a target="_top" href="https://www.donorschoose.org/about/our_supporters.html"><div aria-label="Chevron" class="footer-logo logo-chevron" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;sponsor&quot;: &quot;Chevron&quot; } }"></div></a>
+					<a target="_top" href="https://www.donorschoose.org/about/our_supporters.html"><div aria-label="Chevron" class="footer-logo logo-chevron" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;sponsor&quot;: &quot;Chevron&quot; } }"></div></a>
 				</div>
 				<div class="col col2">
-				  <a target="_top" href="https://www.donorschoose.org/about/our_supporters.html"><div aria-label="Google" class="footer-logo logo-google" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;sponsor&quot;: &quot;Google&quot; } }"></div></a>
+					<a target="_top" href="https://www.donorschoose.org/about/our_supporters.html"><div aria-label="Google" class="footer-logo logo-google" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;sponsor&quot;: &quot;Google&quot; } }"></div></a>
 				</div>
 				<div class="col col2">
-					<a target="_top" href="https://www.donorschoose.org/about/our_supporters.html"><div aria-label="Target" class="footer-logo logo-target" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;sponsor&quot;: &quot;Target&quot; } }"></div></a>
+					<a target="_top" href="https://www.donorschoose.org/about/our_supporters.html"><div aria-label="PNC Foundation" class="footer-logo logo-pnc" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;sponsor&quot;: &quot;PNC Foundation&quot; } }"></div></a>
 				</div>
 			</div>
 
@@ -1707,55 +1750,46 @@ $(document).ready(function() {
 					<a target="_top" href="https://www.donorschoose.org/about/our_supporters.html"><div aria-label="Dick's Sporting Goods" class="footer-logo logo-dicks" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;sponsor&quot;: &quot;Dicks&quot; } }"></div></a>
 				</div>
 				<div class="col col2">
-				  <a target="_top" href="https://www.donorschoose.org/about/our_supporters.html"><div aria-label="Staples" class="footer-logo logo-staples" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;sponsor&quot;: &quot;Staples&quot; } }"></div></a>
+					<a target="_top" href="https://www.donorschoose.org/about/our_supporters.html"><div aria-label="Craig Newmark Foundation" class="footer-logo logo-craig" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;sponsor&quot;: &quot;Craig Newmark Foundation&quot; } }"></div></a>
 				</div>
 				<div class="col col2">
-				  <a target="_top" href="https://www.donorschoose.org/about/our_supporters.html"><div aria-label="Students Stand with Malala" class="footer-logo logo-malala" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;sponsor&quot;: &quot;malala&quot; } }"></div></a>
+					<a target="_top" href="https://www.donorschoose.org/about/our_supporters.html"><div aria-label="Staples" class="footer-logo logo-staples" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;sponsor&quot;: &quot;Staples&quot; } }"></div></a>
 				</div>
 				<div class="col col2">
-					<a target="_top" href="https://www.donorschoose.org/about/our_supporters.html"><div aria-label="Think It Up" class="footer-logo logo-tiu" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;sponsor&quot;: &quot;TIU&quot; } }"></div></a>
+					<a target="_top" href="https://www.donorschoose.org/about/our_supporters.html"><div aria-label="Rebuild Texas" class="footer-logo logo-texas" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;sponsor&quot;: &quot;Rebuild Texas&quot; } }"></div></a>
 				</div>
 			</div>
 
 			<div class="fluid-container second-tier desktop">
-				<div class="col col2 col-offset2">
-					<a target="_top" href="https://www.donorschoose.org/about/our_supporters.html"><div aria-label="Infosys" class="footer-logo logo-infosys" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;sponsor&quot;: &quot;infosys&quot; } }"></div></a>
-				</div>
 				<div class="col col2">
 					<a target="_top" href="https://www.donorschoose.org/about/our_supporters.html"><div aria-label="College Football Playoff" class="footer-logo logo-ncaa" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;sponsor&quot;: &quot;ncaa&quot; } }"></div></a>
 				</div>
 				<div class="col col2">
-					<a target="_top" href="https://www.donorschoose.org/about/our_supporters.html"><div aria-label="Tom's of Maine" class="footer-logo logo-toms" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;sponsor&quot;: &quot;toms&quot; } }"></div></a>
+					<a target="_top" href="https://www.donorschoose.org/about/our_supporters.html"><div aria-label="3M" class="footer-logo logo-3m" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;sponsor&quot;: &quot;3M&quot; } }"></div></a>
 				</div>
 				<div class="col col2">
-					<a target="_top" href="https://www.donorschoose.org/about/our_supporters.html"><div aria-label="3M" class="footer-logo logo-3m" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;sponsor&quot;: &quot;3M&quot; } }"></div></a>
+					<a target="_top" href="https://www.donorschoose.org/about/our_supporters.html"><div aria-label="Sergey Brin Family Foundation" class="footer-logo logo-sergey" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;sponsor&quot;: &quot;Sergey Brin&quot; } }"></div></a>
+				</div>
+				<div class="col col2">
+					<a target="_top" href="https://www.donorschoose.org/about/our_supporters.html"><div aria-label="PwC " class="footer-logo logo-pwc" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;sponsor&quot;: &quot;PwC&quot; } }"></div></a>
+				</div>
+				<div class="col col2">
+					<a target="_top" href="https://www.donorschoose.org/about/our_supporters.html"><div aria-label="Verizon Foundation " class="footer-logo logo-verizon" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;sponsor&quot;: &quot;Verizon Foundation&quot; } }"></div></a>
+				</div>
+				<div class="col col2">
+					<a target="_top" href="https://www.donorschoose.org/about/our_supporters.html"><div aria-label="Anonymous Arts" class="footer-logo logo-arts" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;sponsor&quot;: &quot;Anonymous Arts&quot; } }"></div></a>
 				</div>
 			</div>
 
 			<div class="fluid-container third-tier desktop">
-				<div class="col col2">
-					<a target="_top" href="https://www.donorschoose.org/about/our_supporters.html"><div aria-label="Kia" class="footer-logo logo-kia" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;sponsor&quot;: &quot;kia&quot; } }"></div></a>
-				</div>
 				<div class="col col2">
 					<a target="_top" href="https://www.donorschoose.org/about/our_supporters.html"><div aria-label="Perry &amp; Donna Golkin Family Foundation" class="footer-logo logo-golkin" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;sponsor&quot;: &quot;golkin&quot; } }"></div></a>
 				</div>
 				<div class="col col2">
-					<a target="_top" href="https://www.donorschoose.org/about/our_supporters.html"><div aria-label="AT&amp;T" class="footer-logo logo-att" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;sponsor&quot;: &quot;ATT&quot; } }"></div></a>
-				</div>
-				<div class="col col2">
-					<a target="_top" href="https://www.donorschoose.org/about/our_supporters.html"><div aria-label="Burlington" class="footer-logo logo-burlington" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;sponsor&quot;: &quot;Burlington&quot; } }"></div></a>
+					<a target="_top" href="https://www.donorschoose.org/about/our_supporters.html"><div aria-label="GM" class="footer-logo logo-gm" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;sponsor&quot;: &quot;GM&quot; } }"></div></a>
 				</div>
 				<div class="col col2">
 					<a target="_top" href="https://www.donorschoose.org/about/our_supporters.html"><div aria-label="Herb Kohl Philanthropies" class="footer-logo logo-herb-kohl" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;sponsor&quot;: &quot;Herb Kohl Philanthropies&quot; } }"></div></a>
-				</div>
-				<div class="col col2">
-					<a target="_top" href="https://www.donorschoose.org/about/our_supporters.html"><div aria-label="Code dot org" class="footer-logo logo-codedotorg" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;sponsor&quot;: &quot;Codedotorg&quot; } }"></div></a>
-				</div>
-			</div>
-
-			<div class="fluid-container third-tier desktop">
-				<div class="col col2 col-offset1">
-					<a target="_top" href="https://www.donorschoose.org/about/our_supporters.html"><div aria-label="Disney" class="footer-logo logo-disney" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;sponsor&quot;: &quot;Disney&quot; } }"></div></a>
 				</div>
 				<div class="col col2">
 					<a target="_top" href="https://www.donorschoose.org/about/our_supporters.html"><div aria-label="Horace Mann" class="footer-logo logo-horacemann" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;sponsor&quot;: &quot;HoraceMann&quot; } }"></div></a>
@@ -1764,31 +1798,33 @@ $(document).ready(function() {
 					<a target="_top" href="https://www.donorschoose.org/about/our_supporters.html"><div aria-label="MFF" class="footer-logo logo-mff" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;sponsor&quot;: &quot;MFF&quot; } }"></div></a>
 				</div>
 				<div class="col col2">
-					<a target="_top" href="https://www.donorschoose.org/about/our_supporters.html"><div aria-label="The Paul G Allen Family Foundation" class="footer-logo logo-paulgallen" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;sponsor&quot;: &quot;PaulGAllen&quot; } }"></div></a>
-				</div>
-				<div class="col col2>
-					<a target=" _top"="" href="https://www.donorschoose.org/about/our_supporters.html"><div aria-label="Dalio Foundation" class="footer-logo logo-dalio" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;sponsor&quot;: &quot;DalioFoundation&quot; } }"></div>
+					<a target="_top" href="https://www.donorschoose.org/about/our_supporters.html"><div aria-label="Dalio Foundation" class="footer-logo logo-dalio" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;sponsor&quot;: &quot;DalioFoundation&quot; } }"></div></a>
 				</div>
 			</div>
 
 			<div class="fluid-container third-tier desktop">
-				<div class="col col2 col-offset3" "="">
-					<a target="_top" href="https://www.donorschoose.org/about/our_supporters.html"><div aria-label="Duke Energy HQ" class="footer-logo logo-duke" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;sponsor&quot;: &quot;DukeEnergyHQ&quot; } }"></div></a>
-				</div>
-				<div class="col col2">
-					<a target="_top" href="https://www.donorschoose.org/about/our_supporters.html"><div aria-label="Stavros Niarchos Foundation" class="footer-logo logo-stavros" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;sponsor&quot;: &quot;StavrosNiarchosFoundation&quot; } }"></div></a>
+				<div class="col col2 col-offset1">
+					<a target="_top" href="https://www.donorschoose.org/about/our_supporters.html"><div aria-label="Omidyar Network" class="footer-logo logo-omidyar" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;sponsor&quot;: &quot;OmidyarNetwork&quot; } }"></div></a>
 				</div>
 				<div class="col col2">
 					<a target="_top" href="https://www.donorschoose.org/about/our_supporters.html"><div aria-label="Osh Kosh B'gosh" class="footer-logo logo-oshkosh" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;sponsor&quot;: &quot;OshKoshBgosh&quot; } }"></div></a>
 				</div>
+				<div class="col col2">
+					<a target="_top" href="https://www.donorschoose.org/about/our_supporters.html"><div aria-label="Stavros Niarchos Foundation" class="footer-logo logo-stavros" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;sponsor&quot;: &quot;StavrosNiarchosFoundation&quot; } }"></div></a>
+				</div>
+				<div class="col col2>
+					<a target=" _top"="" href="https://www.donorschoose.org/about/our_supporters.html"><div aria-label="Carnegie Corporation of New York" class="footer-logo logo-carnegie" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;sponsor&quot;: &quot;CarnegieCorporation&quot; } }"></div>
 			</div>
-
-			<a target="_top" class="button-redux secondary small partner-button" href="https://www.donorschoose.org/about/partnership_center.html">Partner with us</a>
+			<div class="col col2">
+				<a target="_top" href="https://www.donorschoose.org/about/our_supporters.html"><div aria-label="Macys Gives" class="footer-logo logo-macys" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;sponsor&quot;: &quot;MacysGives&quot; } }"></div></a>
+			</div>
 		</div>
+		<a target="_top" class="button-redux secondary small partner-button" href="https://www.donorschoose.org/about/partnership_center.html">Partner with DonorsChoose.org</a>
 	</div>
+</div>
 
-	<div id="footer-bar">
-		
+<div id="footer-bar">
+	
 
 
 
@@ -1806,6 +1842,7 @@ $(document).ready(function() {
 
 	
 	
+
 
 
 
@@ -1976,6 +2013,7 @@ document.write(thisYear);
 
 
 
+
 <!-- FACEBOOK INIT -->
 <div id="fb-root"></div>
 <script type="text/javascript">
@@ -2012,8 +2050,25 @@ document.write(thisYear);
 </script>
 
 
-	</div>
+</div>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
 	
 
 
@@ -2030,8 +2085,6 @@ document.write(thisYear);
 
 
 
-	
-	
 
 
 
@@ -2089,28 +2142,14 @@ document.write(thisYear);
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<script type="text/javascript" crossorigin="anonymous" src="https://cdn.donorschoose.net/js/output/emailContactSignUpWidget.js?version=fed0266"></script>
+<script type="text/javascript" crossorigin="anonymous" src="https://cdn.donorschoose.net/js/output/emailContactSignUpWidget.js?version=d6653d0"></script>
 
 
 </div>
 
 <div id="mobileOrFullSite">
 	<a href="#" id="mobileSite" onclick="setMobileSite();return returnFalse();">Mobile</a>
-	&nbsp;/&nbsp;
+	&nbsp;&nbsp;
 	<a href="#" id="fullSite" onclick="setFullSite();return returnFalse();">Full Site</a>
 </div>
 
@@ -2120,7 +2159,7 @@ document.write(thisYear);
 			$(this).next("ul").hide();
 			$(this).removeClass("on");
 		} else {
-	        $(this).next("ul").show();
+			$(this).next("ul").show();
 			$(this).addClass("on");
 		}
 	});
@@ -2130,14 +2169,14 @@ document.write(thisYear);
 var hasTimestamp = false;
 function keepAliveCart() {
 	var miniCartDetails = new MiniCartDetails();
-    if (miniCartDetails.hasItems || (isNonBlankCookie("isLoggedIn")) || (hasTimestamp)) {
-        var e = document.createElement("script");
-        e.src = "https://secure.donorschoose.org/common/keepalive.html";
-        e.type="text/javascript";
-        document.getElementsByTagName("head")[0].appendChild(e);
-        hasTimestamp = false;
-        var keepAlive = setTimeout("keepAliveCart()",15*60*1000);
-    }
+	if (miniCartDetails.hasItems || (isNonBlankCookie("isLoggedIn")) || (hasTimestamp)) {
+		var e = document.createElement("script");
+		e.src = "https://secure.donorschoose.org/common/keepalive.html";
+		e.type="text/javascript";
+		document.getElementsByTagName("head")[0].appendChild(e);
+		hasTimestamp = false;
+		var keepAlive = setTimeout("keepAliveCart()",15*60*1000);
+	}
 }
 keepAliveCart();
 /* ]]> */ </script>
@@ -2259,6 +2298,7 @@ keepAliveCart();
 
 
 
+
 <script type="text/javascript">
 
   (function() {
@@ -2272,8 +2312,9 @@ keepAliveCart();
 if (typeof doNotCallHeapIdentify === 'undefined' || !doNotCallHeapIdentify) {
 	if (typeof heap != "undefined") {	   
 		if (typeof userId != "undefined" && userId) {		   
-			heap.identify(userName);
+			heap.identify(userId);
 			heap.addUserProperties({
+				name: userName,
 				visitor: getUserType(),
 				isVIP: isVIPDonor(),
 				handle: userId});
@@ -2351,6 +2392,10 @@ setExactTargetCookies();
 
 
 
+(function (u, n, i, v, e, r, s, a, l) {u[r] = {}; u[r].uid = '48890d71-82a4-442a-b441-8278a285c298'; a = n.createElement(v); a.src = e + '/us-' + u[r].uid + '.js'; n.getElementsByTagName(i)[0].appendChild(a);})(window, document, 'head', 'script', 'https://cdn.getambassador.com', 'mbsy', true);
+
+
+
 </script>
 
 
@@ -2373,13 +2418,13 @@ setExactTargetCookies();
 		n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
 		t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
 			document,'script','https://connect.facebook.net/en_US/fbevents.js');
-	fbq('init', '884343308358697');
+	fbq('init', '1021308121342001');
 	fbq('track', "PageView");
 	
 
 </script>
 <noscript><img height="1" width="1" style="display:none"
-			   src="https://www.facebook.com/tr?id=884343308358697&ev=PageView&noscript=1"
+			   src="https://www.facebook.com/tr?id=1021308121342001&ev=PageView&noscript=1"
 		/></noscript>
 
 
