@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 10dollarsoloads.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203165900id_/http%3A//www.10dollarsoloads.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 10dollarsoloads.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610052709id_/http%3A//www.10dollarsoloads.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 10DollarSoloAds.com
 
@@ -8,7 +8,7 @@ We collect information from you when you register on our site, place an order, s
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to you based on your visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 **What do we use your information for?**
 
@@ -85,11 +85,11 @@ By using our site, you consent to our [websites privacy policy](http://www.10do
 
 If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on 09/01/2015
+This policy was last modified on 05/24/2018
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
+If there are any questions regarding this privacy policy you may contact us via our contact page or by using the information below.
 
 10DollarSoloAds.com  
 700 N. Colorado Blve Suite 727  
