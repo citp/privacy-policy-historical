@@ -1,6 +1,25 @@
-> *The following text is extracted and transformed from the iihs.org privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116032111id_/http%3A//www.iihs.org/iihs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iihs.org privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611012841id_/http%3A//www.iihs.org/iihs/copyright-information) for the most accurate reproduction.*
 
-# Privacy policy
+# Copyright information and privacy policy
+
+All content (such as images and text) available on the Insurance Institute for Highway Safety/Highway Loss Data Institute internet site is copyrighted property of the Institutes, unless indicated otherwise. The content on this website is made available for limited noncommercial, educational and personal use only; a user may download content to share with others for limited noncommercial and educational purposes without requesting specific permission. When using content for limited noncommercial, educational and personal use, the source of the content should be cited as www.iihs.org.
+
+Repetitive1 noncommercial, educational, or personal use and copying or redistribution in any manner for commercial use is not permitted without written permission from the Institute. Requests to use our content for repetitive noncommercial, educational, or personal use and for commercial use can be made by emailing our Legal Department at [legal@iihs.org](mailto:legal@iihs.org). Requests should include the following information:
+
+Requests for website usage will be subject to the following guidelines:
+
+  * a description of the Institutes’ content for which the requester seeks permission to use;
+  * a description of the requester’s project and how the Institutes’ content will be used to support the project;
+  * a description of the make-up and size of the intended audience;
+  * a description of how the project will be distributed (e.g. web, print) and for how long; and
+  * whether the requester will charge for access to its project.   
+
+
+
+
+Please contact the Legal Department at [legal@iihs.org](mailto:legal@iihs.org) if you have any questions concerning the Institutes’ copyright policy.
+
+* * *
 
 Thank you for visiting the website of the Insurance Institute for Highway Safety and the Highway Loss Data Institute (collectively, the Institute). This Privacy Policy explains the Institute's online information practices.
 
@@ -23,3 +42,5 @@ If you contact the Institute via email, the Institute will use your personal inf
 The Institute sells its consumer videos and DVDs through an outside vendor, [2Checkout.com](https://www.2checkout.com/). 2Checkout guarantees secure sales. Please see 2Checkout.com's own [Privacy Policy](https://www.2checkout.com/privacy/) for more information.
 
 The Institute's website includes links to federal agencies and other highway-safety organizations. When you link to another website, you are no longer on the Institute's website or subject to the Institute's Privacy Policy. However, you will be subject to the privacy policy of the new website that you are visiting. The Institute does not endorse any information or services that these external sites offer, and only provides the links as a service to you.
+
+* * *
