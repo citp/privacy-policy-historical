@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nuvi.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109221343id_/http%3A//www.nuvi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuvi.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610040912id_/http%3A//www.nuvi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NUVI - Real-Time Social Intelligence
 
@@ -8,6 +8,7 @@ All defined terms in the Privacy Policy shall have the same meaning as defined i
 
   * "Non-Personal Information" is information that is in no way personally identifiable and is obtained automatically through your use of Service with a web browser.
   * "Personally Identifiable Information" is nonpublic information that is personally identifiable and obtained in connection with providing Service to you.
+  * “Social Media Platforms” include Google Plus, Twitter, Facebook Instagram, Pinterest, LinkedIn and similar web-based platforms enabling development, deployment and management of social media solutions and services.
 
 
 * Information Collected
@@ -17,6 +18,8 @@ NUVI collects information through the use of commonly-used information-gathering
 When expressing interest in obtaining additional information about products or services offered by NUVI, the information necessary to contact you such as company name, company email, personal email, address, phone number, and other necessary information will be required.
 
 When purchasing products or services, NUVI will require financial billing information, such as billing name and address, and credit card number.
+
+At user’s request, NUVI will access and store authentication credentials, and other user data required by NUVI to aggregate and publish data to Social Media Platforms on user’s behalf. This data is not shared outside the NUVI platform.
 
 * Use of Personally Identifiable Information
 
