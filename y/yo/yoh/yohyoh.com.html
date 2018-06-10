@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the yohyoh.com privacy policy that was archived on 2017-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171210162416id_/http%3A//www.yohyoh.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yohyoh.com privacy policy that was archived on 2018-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180610041334id_/http%3A//www.yohyoh.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js no-touch cssanimations csstransitions js no-flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en" style=""><!--<![endif]--><head>
 <meta charset="utf-8">
@@ -14,7 +14,7 @@
 <!--[if IE]> <link rel="stylesheet" href="/includes/yohyoh/styles/css/ie.css"> <![endif]-->
 
 <!-- Script for android tab(samsung galaxy) Start -->
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript">
 if (navigator.userAgent.indexOf('Android') != -1)
 	{
 	 document.write('<style type="text/css">.login{top:0;}</style>');  
@@ -590,6 +590,46 @@ function clearText(field){
 
 </script>
 
+
+	<script>
+		// initialize and setup facebook js sdk
+		window.fbAsyncInit = function() {
+		    FB.init({
+		      appId      : '2031932047049698',
+		      xfbml      : true,
+		      version    : 'v2.12'
+		    });
+		};
+		(function(d, s, id){
+		    var js, fjs = d.getElementsByTagName(s)[0];
+		    if (d.getElementById(id)) {return;}
+		    js = d.createElement(s); js.id = id;
+		    js.src = "//connect.facebook.net/en_US/sdk.js";
+		    fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+		
+		function login() {
+			FB.login(function(response) {
+				if (response.status === 'connected') {
+					FB.api('/me', 'GET', {fields: 'first_name,last_name,name,id,email'}, function(resp) {
+					/*alert(resp.id);
+					alert(resp.name);
+					alert(resp.email);*/
+					$.ajax({
+					type:"post",
+					url:"/includes/facebookloginwith.php",
+					data:{fid:resp.id,fname:resp.name,femail:resp.email},
+					success:function(data){
+						//alert(data);
+						window.location.reload();
+					}
+					});
+			});
+		    	}
+			}, {scope: 'publish_actions'});
+		}
+
+	</script>
 </head>
 
 <body id="bg"><script>
@@ -809,7 +849,7 @@ $(document).on("click", ".chat_followersnotification a.namecss", function (e) {
 				<a href="javascript:void(0);" data-popup-targetlogin="#loginouter-popup"><img title="Pdf upload" src="/includes/yohyoh/styles/images/uploadpdf.png"></a>				
 				<a href="javascript:void(0);" data-popup-targetlogin="#loginouter-popup"><img title="Extractimage" src="/includes/yohyoh/styles/images/extractpost.png"></a>
 				<a href="javascript:void(0);" data-popup-targetlogin="#loginouter-popup"><img title="Image Extraction" src="/includes/yohyoh/styles/images/extractimage.png"></a>
-				<a href="javascript:void(0);" class="showfacebook" onclick="showfacebook('https://www.facebook.com/dialog/oauth?client_id=1104852306312049&amp;redirect_uri=http://www.yohyoh.com/site/f.php&amp;scope=email,offline_access,publish_stream,publish_actions,user_birthday,user_location,user_work_history,user_about_me,user_hometown,user_photos')"><img title="Images from facebook" src="/includes/yohyoh/styles/images/extractfacebook.png"></a>			</div>
+				<a href="javascript:void(0);" class="showfacebook" onclick="showfacebook('https://www.facebook.com/dialog/oauth?client_id=2031932047049698&amp;redirect_uri=http://www.yohyoh.com/site/f.php&amp;scope=email,offline_access,publish_stream,publish_actions,user_birthday,user_location,user_work_history,user_about_me,user_hometown,user_photos')"><img title="Images from facebook" src="/includes/yohyoh/styles/images/extractfacebook.png"></a>			</div>
 
 		 </div> <!-- End upload_write -->
 	  </div><!-- End uploadbox -->
@@ -1067,8 +1107,8 @@ $(document).on("click", ".chat_followersnotification a.namecss", function (e) {
 							<li>The recorded Videos can be viewed under your profile - All Activities section.</li><br>					   
 							<li>However, each video can be yohyohed (V-mailed) to  unlimited number of users.</li>					   
 					   </ul></div>
-					  <div class="clear"></div>	         
-					 </div>	
+					  <div class="clear"></div>      
+					 </div>
 					
 					
 					<div id="info_msg" style="display:none;">
@@ -1157,7 +1197,8 @@ $(document).on("click", ".chat_followersnotification a.namecss", function (e) {
         
         <span class="or">or login with</span>        
 			
-		 <a href="https://www.facebook.com/dialog/oauth?client_id=1104852306312049&amp;redirect_uri=http%3A%2F%2Fwww.yohyoh.com&amp;state=d668cb7005efd7a446a19eed7eb67ae5&amp;scope=email%2Cpublish_stream%2Cpublish_actions" class="fblogin"><img src="/includes/yohyoh/styles/images/fb.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people."></a> 
+		 <!--<a href="https://www.facebook.com/dialog/oauth?client_id=2031932047049698&redirect_uri=http%3A%2F%2Fwww.yohyoh.com%2Findex.php&state=85454b159add2241027808a7ce038328&scope=email%2Cpublish_stream%2Cpublish_actions" class="fblogin"><img src="/includes/yohyoh/styles/images/fb.png" alt="YohYoh-Showcase your talent, products, services, events & share it to millions of people." /></a> -->
+		 <a href="javascript:void(0);" class="fblogin" onclick="login()"><img src="/includes/yohyoh/styles/images/fb.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people."></a>
 		 
 		 		 
 		  <!--<a href="http:///index.php?auth=google" class="gmaillogin"><img src="/includes/yohyoh/styles/images/gmail.png" alt="YohYoh-Showcase your talent, products, services, events & share it to millions of people." /></a>-->
@@ -1186,7 +1227,7 @@ $(document).on("click", ".chat_followersnotification a.namecss", function (e) {
         
         <span class="or">or signup with</span>   
 
-		   <a href="https://www.facebook.com/dialog/oauth?client_id=1104852306312049&amp;redirect_uri=http%3A%2F%2Fwww.yohyoh.com&amp;state=d668cb7005efd7a446a19eed7eb67ae5&amp;scope=email%2Cpublish_stream%2Cpublish_actions" class="fblogin"><img src="/includes/yohyoh/styles/images/fb.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people."></a>  
+		   <a href="https://www.facebook.com/dialog/oauth?client_id=2031932047049698&amp;redirect_uri=http%3A%2F%2Fwww.yohyoh.com%2Findex.php&amp;state=85454b159add2241027808a7ce038328&amp;scope=email%2Cpublish_stream%2Cpublish_actions" class="fblogin"><img src="/includes/yohyoh/styles/images/fb.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people."></a>  
 		<a href="https://accounts.google.com/o/oauth2/auth?response_type=code&amp;redirect_uri=http%3A%2F%2Fwww.yohyoh.com%2Fgoogleindex.php&amp;client_id=640198333810-m7cn90dcs1thadj52bghf10d5q57liu4.apps.googleusercontent.com&amp;scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&amp;access_type=offline&amp;approval_prompt=force" class="gmaillogin"><img src="/includes/yohyoh/styles/images/gmail.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people."></a>		   
 		     <!--<a href="http:///index.php?auth=google" class="gmaillogin"><img src="/includes/yohyoh/styles/images/gmail.png" alt="YohYoh-Showcase your talent, products, services, events & share it to millions of people." /></a>-->		
 			<a href="http://www.yohyoh.com/index.php?auth=yahoo" class="yahoologin"><img src="/includes/yohyoh/styles/images/yahoo.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people."></a> 
@@ -1270,7 +1311,7 @@ $(document).on("click", ".chat_followersnotification a.namecss", function (e) {
 				<a href="javascript:void(0);" data-popup-targetlogin="#loginouter-popup"><img title="Pdf upload" src="/includes/yohyoh/styles/images/uploadpdf.png"></a>				
 				<a href="javascript:void(0);" data-popup-targetlogin="#loginouter-popup"><img title="Extractimage" src="/includes/yohyoh/styles/images/extractpost.png"></a>
 				<a href="javascript:void(0);" data-popup-targetlogin="#loginouter-popup"><img title="Image Extraction" src="/includes/yohyoh/styles/images/extractimage.png"></a>
-				<a href="javascript:void(0);" class="showfacebook" onclick="showfacebook('https://www.facebook.com/dialog/oauth?client_id=1104852306312049&amp;redirect_uri=http://www.yohyoh.com/site/f.php&amp;scope=email,offline_access,publish_stream,publish_actions,user_birthday,user_location,user_work_history,user_about_me,user_hometown,user_photos')"><img title="Images from facebook" src="/includes/yohyoh/styles/images/extractfacebook.png"></a>			</div>
+				<a href="javascript:void(0);" class="showfacebook" onclick="showfacebook('https://www.facebook.com/dialog/oauth?client_id=2031932047049698&amp;redirect_uri=http://www.yohyoh.com/site/f.php&amp;scope=email,offline_access,publish_stream,publish_actions,user_birthday,user_location,user_work_history,user_about_me,user_hometown,user_photos')"><img title="Images from facebook" src="/includes/yohyoh/styles/images/extractfacebook.png"></a>			</div>
 			
 	</div>
 </div>
