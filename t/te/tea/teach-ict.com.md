@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teach-ict.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611072033id_/http%3A//teach-ict.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teach-ict.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610224208id_/http%3A//teach-ict.com/privacypolicy.html) for the most accurate reproduction.*
 
 # A Teach-ICT document
 
@@ -11,8 +11,7 @@ The following statement explains our policy regarding the personal information w
   2. Visitor Information
   3. What is a cookie?
   4. Submitting personal information
-  5. Users 16 and under
-  6. List of Teach-ICT cookies
+  5. List of Teach-ICT cookies
 
 
 
@@ -22,15 +21,19 @@ STATEMENT: Teach-ICT does not use or store cookies at all.
 
 This policy covers the Teach-ICT's use of personal information that Teach-ICT collects when you use teach-ict.com. The policy also gives you information about cookies; Teach-ICT and third parties' use of cookies; and how you may reject such cookies.
 
-From time to time, you will be asked to submit personal information about yourself (e.g. name and email address) in order to receive or use services on our website. Such services include the Poll, Competition, Quiz making area and Subscription service. We only use the information for our own administration use - nothing will ever get passed on to third parties.
+In order to set up a subscription with us, you must first of all be a teacher. The details we need to store are your name, contact email address - preferably your official school email address, and the school name and address. We only use the information for our own administration use - nothing will ever get passed on to third parties.
 
-By entering your details in the fields requested, you enable the Teach-ICT and its service providers to provide you with the services you select. Whenever you provide such personal information we will treat that information in accordance with this policy. When using your personal information the Teach-ICT will act in accordance with current legislation and aim to meet current Internet best practice.
+By providing this information you enable the Teach-ICT and its service providers to provide you with the services you select. Whenever you provide such personal information we will treat that information in accordance with this policy. When using your personal information Teach-ICT will act in accordance with current legislation and aim to meet current Internet best practice. This includes the new General Data Protection Regulation (GDPR).
 
 ## 2. Visitor Information : general
 
-During the course of any visit to teach-ict.com the pages you see along with a short text file called a 'cookie' may be downloaded to your computer. Many websites do this, because cookies enable website publishers to do useful things like find out whether the computer (and probably its user) has visited the website before. This is done on a repeat visit by checking to see, and finding, the cookie left there on the last visit.
+A 'cookie' is a short text file that is stored in the application area of your browser. 
+
+Many websites do this, because cookies enable website publishers to do useful things like find out whether the computer (and probably its user) has visited the website before. This is done on a repeat visit by checking to see, and finding, the cookie left there on the last visit.
 
 Information supplied by cookies can help provide you with a better online user experience. 
+
+STATEMENT: Teach-ICT does not use or store cookies at all.
 
 ## 3. What is a cookie?
 
@@ -44,19 +47,19 @@ If you have set your computer to reject cookies you can still browse teach-ict.c
 
 ## 4. Use and storage of your personal information
 
-When you supply any personal information to teach-ict.com (e.g. for competitions, teach-ict.com services or teach-ict.com membership) we have legal obligations towards you in the way we use those data. We must collect the information fairly, that is, we must explain how we will use it.
+When you supply any personal information to teach-ict.com (e.g. for teach-ict.com services or teach-ict.com membership) we have legal obligations towards you in the way we use those data. We must collect the information fairly, that is, we must explain how we will use it.
 
 In general, any information you provide to the Teach-ICT will only be used within Teach-ICT and by its agents and service providers. Your information will be disclosed only where we are obliged or permitted by law. Also, if you post or send offensive, inappropriate or objectionable content anywhere on or to teach-ict.com or otherwise engage in any disruptive behaviour on teach-ict.com, Teach-ICT can use whatever information that is available to it about you to stop such behaviour. This may involve informing relevant third parties such as your employer, school e-mail/Internet provider and law enforcement agencies about the content and your behaviour.
 
-We will hold your personal information on our systems for only as long it is of practical use for running the service you signed up for. For safety reasons, however, the Teach-ICT may store messaging transcript data (including message content, member names, times and dates) arising from the use of teach-ict.com services such as the quiz-maker for a period of six months. Where personal information is held for people who are not yet registered but have taken part in other teach-ict.com services (e.g. competitions), that information will be held as long as is necessary to ensure that the service is run smoothly. We will ensure that all personal information supplied is held securely, in accordance with the Data Protection Act 1998. 
+We will hold your personal information on our systems only for as long it is of practical use for running the service you signed up for. For safety reasons, however, the Teach-ICT may store messaging transcript or activity data (including message content, member names, times and dates) arising from the use of teach-ict.com services for a period of eight months. 
 
-If you are notified on the teach-ict.com site that your information may be used to allow the Teach-ICT to contact you for "service administration purposes", this means that the Teach-ICT may contact you for a number of purposes related to the service you have signed up for. For example, we may wish to provide you with password reminders or notify you that the particular service has been suspended for maintenance. 
+We neither ask for nor store any personal or identifiable information on students (or the public) visiting the site.
 
-## 5. Users 16 and under
+We will ensure that all personal information supplied is held securely, in accordance with the Data Protection Act 1998 and the new GDPR.
 
-If you are aged 16 or under, please get your parent/guardian's permission beforehand whenever you provide personal information to the Teach-ICT's website. Users without this consent are not allowed to provide us with personal information.
+If you are notified on the teach-ict.com site that your information may be used to allow the Teach-ICT to contact you for "service administration purposes", this means that Teach-ICT may contact you for a number of purposes related to the service you have signed up for. For example, we may wish to provide you with password reminders or notify you that the particular service has been suspended for maintenance. 
 
-## 6. List of www.teach-ict cookies
+## 5. List of www.teach-ict cookies
 
 We do not make use of any cookies at all.
 
